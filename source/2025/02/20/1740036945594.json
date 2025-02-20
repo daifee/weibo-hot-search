@@ -1,0 +1,410 @@
+{
+  "runTime": 1740036945594,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1619225,
+        "num": 1619225,
+        "word": "胡静老公从事殡葬行业",
+        "onboard_time": 1740034223,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1228068,
+        "num": 1228068,
+        "word": "千万网红毒角SHOW美国高速SUV自燃",
+        "onboard_time": 1740034281,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 4708,
+        "num": 799322,
+        "word": "中国式现代化的万千气象海南行",
+        "onboard_time": 1739782103,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1315338,
+        "num": 713190,
+        "word": "05花",
+        "onboard_time": 1740032061,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 555726,
+        "num": 555726,
+        "word": "宝妈兼职配音4天被骗66万",
+        "onboard_time": 1740023782,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 582743,
+        "num": 552844,
+        "word": "泽连斯基说美国给了1000亿让还5000亿",
+        "onboard_time": 1740028761,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 655549,
+        "num": 550894,
+        "word": "董力结婚5年了",
+        "onboard_time": 1740029424,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 542047,
+        "num": 542047,
+        "word": "郭艾伦再发声",
+        "onboard_time": 1740033502,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275000,
+        "num": 537752,
+        "word": "中方包机接回缅甸电诈园遣返人员",
+        "onboard_time": 1740035782,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 168383,
+        "num": 530545,
+        "word": "为什么我的老公不是Deepseek",
+        "onboard_time": 1740035240,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 705903,
+        "num": 527771,
+        "word": "抗癌博主小何日记去世",
+        "onboard_time": 1740031822,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 581654,
+        "num": 521839,
+        "word": "黄多多盘发发量",
+        "onboard_time": 1740028882,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 516713,
+        "num": 516713,
+        "word": "特朗普称乌克兰或将不复存在",
+        "onboard_time": 1740029962,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 512578,
+        "num": 512578,
+        "word": "孙颖莎打了自己一巴掌",
+        "onboard_time": 1740030922,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 488618,
+        "num": 488618,
+        "word": "房东猥亵女生因年纪过大免于处罚",
+        "onboard_time": 1740028641,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 479671,
+        "num": 479671,
+        "word": "男子服刑期感染艾滋病监狱被判赔偿",
+        "onboard_time": 1740019700,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 410447,
+        "num": 410447,
+        "word": "白鹿现在自拍很差吗",
+        "onboard_time": 1740030202,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389986,
+        "num": 389986,
+        "word": "佘诗曼被问王大陆逃兵役被抓的反应",
+        "onboard_time": 1740030381,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366726,
+        "num": 366726,
+        "word": "难哄",
+        "onboard_time": 1740028703,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80589,
+        "num": 322316,
+        "word": "刘昊然董思成代露娃是大学同学",
+        "onboard_time": 1740036141,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305230,
+        "num": 305230,
+        "word": "难哄直播",
+        "onboard_time": 1740035541,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302468,
+        "num": 302468,
+        "word": "DeepSeek除了求姻缘还能干啥",
+        "onboard_time": 1740032422,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 301090,
+        "num": 301090,
+        "word": "刘诗诗将所持股权转让给吴奇隆",
+        "onboard_time": 1740015800,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288528,
+        "num": 288528,
+        "word": "特朗普一天内两次威胁泽连斯基",
+        "onboard_time": 1740034521,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 270684,
+        "num": 270684,
+        "word": "李行亮回应和麦琳床上拥抱聊天",
+        "onboard_time": 1740028942,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252929,
+        "num": 252929,
+        "word": "气血不足的人不要老躺着",
+        "onboard_time": 1740032124,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 221991,
+        "num": 221991,
+        "word": "偷偷藏不住飙升榜第一",
+        "onboard_time": 1740030381,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 197721,
+        "num": 218416,
+        "word": "北京三套房也逃不过教育内卷",
+        "onboard_time": 1740032483,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184153,
+        "num": 218343,
+        "word": "一批中国公民被从缅甸电诈园区遣送",
+        "onboard_time": 1740024441,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 54046,
+        "num": 218329,
+        "word": "3个动作改善久坐尾巴骨疼",
+        "onboard_time": 1740036141,
+        "rank": 29,
+        "category": "运动健身,健康医疗"
+      },
+      {
+        "raw_hot": 218328,
+        "num": 218328,
+        "word": "时代峰峻招聘要求",
+        "onboard_time": 1740031221,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215821,
+        "num": 215821,
+        "word": "桑延温以凡摩天轮吻",
+        "onboard_time": 1740035483,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213219,
+        "num": 213219,
+        "word": "董力已有一儿一女",
+        "onboard_time": 1740031762,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206251,
+        "num": 206251,
+        "word": "虞书欣林一剧宣",
+        "onboard_time": 1740036561,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184720,
+        "num": 184720,
+        "word": "王者荣耀S39赛季前瞻直播",
+        "onboard_time": 1740036323,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 167164,
+        "num": 167164,
+        "word": "戚薇曾说绝对不会嫁给外国人",
+        "onboard_time": 1740034641,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161683,
+        "num": 161683,
+        "word": "章若楠发量",
+        "onboard_time": 1740033681,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160252,
+        "num": 160252,
+        "word": "开始推理吧",
+        "onboard_time": 1740035541,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34410,
+        "num": 156118,
+        "word": "奶牛靠激素增加产奶量纯属谣言",
+        "onboard_time": 1740035722,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 146273,
+        "num": 155769,
+        "word": "董明珠已找到格力接班人",
+        "onboard_time": 1740028522,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 81819,
+        "num": 155504,
+        "word": "幻方量化回应管理规模缩水",
+        "onboard_time": 1740036921,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 155429,
+        "num": 155429,
+        "word": "张杰和快乐家族的情结",
+        "onboard_time": 1740031341,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151337,
+        "num": 151337,
+        "word": "王大陆3月13日受入伍训",
+        "onboard_time": 1740027142,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148100,
+        "num": 148100,
+        "word": "浪姐6 卡琳娜",
+        "onboard_time": 1740034701,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143383,
+        "num": 143383,
+        "word": "原来我没对象是爸妈不够努力",
+        "onboard_time": 1740036921,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143350,
+        "num": 143350,
+        "word": "哪吒2票房",
+        "onboard_time": 1740025402,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136760,
+        "num": 136760,
+        "word": "董力夸老婆拎得清",
+        "onboard_time": 1740032124,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136620,
+        "num": 136620,
+        "word": "头鱼回归朱雀",
+        "onboard_time": 1740036260,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132599,
+        "num": 132599,
+        "word": "吴宗宪再说下去薛之谦就要哭了",
+        "onboard_time": 1740034521,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129772,
+        "num": 129772,
+        "word": "董明珠怒怼员工对她表忠诚",
+        "onboard_time": 1740036501,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为民营企业鼓劲#"
+    }
+  }
+}

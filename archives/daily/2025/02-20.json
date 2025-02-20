@@ -1,6 +1,6 @@
 {
   "startTime": 1739982473012,
-  "endTime": 1740036091676,
+  "endTime": 1740036945594,
   "band_list": [
     {
       "raw_hot": 3560113,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1496503,
-      "num": 701277,
+      "num": 713190,
       "word": "05花",
       "onboard_time": 1740032061,
       "rank": 26,
@@ -89,6 +89,14 @@
       "onboard_time": 1739980221,
       "rank": 1,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1228068,
+      "num": 1228068,
+      "word": "千万网红毒角SHOW美国高速SUV自燃",
+      "onboard_time": 1740034281,
+      "rank": 1,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1156326,
@@ -161,14 +169,6 @@
       "onboard_time": 1740019039,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 982099,
-      "num": 982099,
-      "word": "千万网红毒角SHOW美国高速SUV自燃",
-      "onboard_time": 1740034281,
-      "rank": 1,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 906666,
@@ -763,6 +763,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 288528,
+      "num": 288528,
+      "word": "特朗普一天内两次威胁泽连斯基",
+      "onboard_time": 1740034521,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 282386,
       "num": 161835,
       "word": "十年前的白梦妍嫩得掐出水来了",
@@ -776,6 +784,14 @@
       "word": "一批中国公民被从缅甸电诈园区遣送",
       "onboard_time": 1740024441,
       "rank": 26,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 275000,
+      "num": 537752,
+      "word": "中方包机接回缅甸电诈园遣返人员",
+      "onboard_time": 1740035782,
+      "rank": 23,
       "category": "国内时政"
     },
     {
@@ -809,6 +825,14 @@
       "onboard_time": 1740031341,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 252929,
+      "num": 309391,
+      "word": "气血不足的人不要老躺着",
+      "onboard_time": 1740032124,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 252772,
@@ -899,14 +923,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 235150,
-      "num": 309391,
-      "word": "气血不足的人不要老躺着",
-      "onboard_time": 1740032124,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 234187,
       "num": 350149,
       "word": "闺蜜假反目舍身赴死揭露罪行",
@@ -931,14 +947,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 225293,
-      "num": 252329,
-      "word": "特朗普一天内两次威胁泽连斯基",
-      "onboard_time": 1740034521,
-      "rank": 27,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 224923,
       "num": 224923,
       "word": "小伙没见到白富美喷保时捷红漆",
@@ -961,6 +969,14 @@
       "onboard_time": 1740032124,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 215821,
+      "num": 215821,
+      "word": "桑延温以凡摩天轮吻",
+      "onboard_time": 1740035483,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 214416,
@@ -1004,7 +1020,7 @@
     },
     {
       "raw_hot": 211625,
-      "num": 211625,
+      "num": 218416,
       "word": "北京三套房也逃不过教育内卷",
       "onboard_time": 1740032483,
       "rank": 46,
@@ -1043,6 +1059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206251,
+      "num": 206251,
+      "word": "虞书欣林一剧宣",
+      "onboard_time": 1740036561,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205057,
       "num": 205057,
       "word": "成毅应渊白月光又杀回年度角色了",
@@ -1075,14 +1099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199147,
-      "num": 315519,
-      "word": "中方包机接回缅甸电诈园遣返人员",
-      "onboard_time": 1740035782,
-      "rank": 23,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 199121,
       "num": 169140,
       "word": "女子戴耳环不摘耳垂长出葡萄瘤",
@@ -1105,14 +1121,6 @@
       "onboard_time": 1740011961,
       "rank": 26,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 195728,
-      "num": 195728,
-      "word": "桑延温以凡摩天轮吻",
-      "onboard_time": 1740035483,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 195327,
@@ -1201,6 +1209,14 @@
       "onboard_time": 1740021020,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184720,
+      "num": 184720,
+      "word": "王者荣耀S39赛季前瞻直播",
+      "onboard_time": 1740036323,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 184172,
@@ -1297,6 +1313,14 @@
       "onboard_time": 1740034641,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168383,
+      "num": 530545,
+      "word": "为什么我的老公不是Deepseek",
+      "onboard_time": 1740035240,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 168251,
@@ -1467,6 +1491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 143383,
+      "num": 143383,
+      "word": "原来我没对象是爸妈不够努力",
+      "onboard_time": 1740036921,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142155,
       "num": 142155,
       "word": "梅西零下14度仍交换球衣",
@@ -1515,6 +1547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136620,
+      "num": 136620,
+      "word": "头鱼回归朱雀",
+      "onboard_time": 1740036260,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 136393,
       "num": 136393,
       "word": "皇马vs曼城",
@@ -1561,6 +1601,14 @@
       "onboard_time": 1739970081,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 129772,
+      "num": 129772,
+      "word": "董明珠怒怼员工对她表忠诚",
+      "onboard_time": 1740036501,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 128718,
@@ -1747,6 +1795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81819,
+      "num": 155504,
+      "word": "幻方量化回应管理规模缩水",
+      "onboard_time": 1740036921,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 81743,
       "num": 81743,
       "word": "董思成kissshy手势舞",
@@ -1755,12 +1811,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 80250,
-      "num": 361893,
-      "word": "为什么我的老公不是Deepseek",
-      "onboard_time": 1740035240,
+      "raw_hot": 80589,
+      "num": 322316,
+      "word": "刘昊然董思成代露娃是大学同学",
+      "onboard_time": 1740036141,
       "rank": 19,
-      "category": "互联网"
+      "category": "艺人"
     },
     {
       "raw_hot": 68926,
@@ -1785,6 +1841,14 @@
       "onboard_time": 1739997912,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 54046,
+      "num": 218329,
+      "word": "3个动作改善久坐尾巴骨疼",
+      "onboard_time": 1740036141,
+      "rank": 29,
+      "category": "运动健身,健康医疗"
     },
     {
       "raw_hot": 51472,
@@ -2044,7 +2108,7 @@
     },
     {
       "raw_hot": 4761,
-      "num": 745578,
+      "num": 799322,
       "word": "中国式现代化的万千气象海南行",
       "onboard_time": 1739782103,
       "rank": 2,

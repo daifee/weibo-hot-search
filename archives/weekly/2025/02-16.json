@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1740036091676,
+  "endTime": 1740036945594,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -588,7 +588,7 @@
     },
     {
       "raw_hot": 1496503,
-      "num": 701277,
+      "num": 713190,
       "word": "05花",
       "onboard_time": 1740032061,
       "rank": 26,
@@ -905,6 +905,14 @@
       "onboard_time": 1739796981,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1228068,
+      "num": 1228068,
+      "word": "千万网红毒角SHOW美国高速SUV自燃",
+      "onboard_time": 1740034281,
+      "rank": 1,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1225009,
@@ -1329,14 +1337,6 @@
       "onboard_time": 1739777362,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 982099,
-      "num": 982099,
-      "word": "千万网红毒角SHOW美国高速SUV自燃",
-      "onboard_time": 1740034281,
-      "rank": 1,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 979532,
@@ -5027,6 +5027,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 288528,
+      "num": 288528,
+      "word": "特朗普一天内两次威胁泽连斯基",
+      "onboard_time": 1740034521,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 288154,
       "num": 163817,
       "word": "见多了爽文女主第一次见爽文母女",
@@ -5209,6 +5217,14 @@
       "onboard_time": 1739887403,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 275000,
+      "num": 537752,
+      "word": "中方包机接回缅甸电诈园遣返人员",
+      "onboard_time": 1740035782,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 274070,
@@ -5633,6 +5649,14 @@
       "onboard_time": 1739941941,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 252929,
+      "num": 309391,
+      "word": "气血不足的人不要老躺着",
+      "onboard_time": 1740032124,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 252910,
@@ -6131,14 +6155,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 235150,
-      "num": 309391,
-      "word": "气血不足的人不要老躺着",
-      "onboard_time": 1740032124,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 235018,
       "num": 235018,
       "word": "印度首都火车站踩踏事件现场曝光",
@@ -6312,14 +6328,6 @@
       "word": "欧盟准备军援乌克兰",
       "onboard_time": 1739948421,
       "rank": 31,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 225293,
-      "num": 252329,
-      "word": "特朗普一天内两次威胁泽连斯基",
-      "onboard_time": 1740034521,
-      "rank": 27,
       "category": "国际时政"
     },
     {
@@ -6691,6 +6699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 215821,
+      "num": 215821,
+      "word": "桑延温以凡摩天轮吻",
+      "onboard_time": 1740035483,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215672,
       "num": 391716,
       "word": "网友问DeepSeek最多的问题",
@@ -6844,7 +6860,7 @@
     },
     {
       "raw_hot": 211625,
-      "num": 211625,
+      "num": 218416,
       "word": "北京三套房也逃不过教育内卷",
       "onboard_time": 1740032483,
       "rank": 46,
@@ -7057,6 +7073,14 @@
       "onboard_time": 1739876242,
       "rank": 41,
       "category": "互联网,音乐"
+    },
+    {
+      "raw_hot": 206251,
+      "num": 206251,
+      "word": "虞书欣林一剧宣",
+      "onboard_time": 1740036561,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 206150,
@@ -7443,14 +7467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199147,
-      "num": 315519,
-      "word": "中方包机接回缅甸电诈园遣返人员",
-      "onboard_time": 1740035782,
-      "rank": 23,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 199060,
       "num": 187402,
       "word": "哪吒读音难倒老外",
@@ -7617,14 +7633,6 @@
       "onboard_time": 1740011961,
       "rank": 26,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 195728,
-      "num": 195728,
-      "word": "桑延温以凡摩天轮吻",
-      "onboard_time": 1740035483,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 195570,
@@ -8097,6 +8105,14 @@
       "onboard_time": 1739931260,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184720,
+      "num": 184720,
+      "word": "王者荣耀S39赛季前瞻直播",
+      "onboard_time": 1740036323,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 184639,
@@ -8785,6 +8801,14 @@
       "onboard_time": 1739770099,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 168383,
+      "num": 530545,
+      "word": "为什么我的老公不是Deepseek",
+      "onboard_time": 1740035240,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 168270,
@@ -9883,6 +9907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143383,
+      "num": 143383,
+      "word": "原来我没对象是爸妈不够努力",
+      "onboard_time": 1740036921,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143358,
       "num": 202339,
       "word": "JDE官宣更名JDG",
@@ -10211,6 +10243,14 @@
       "category": "体育,时尚"
     },
     {
+      "raw_hot": 136620,
+      "num": 136620,
+      "word": "头鱼回归朱雀",
+      "onboard_time": 1740036260,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 136613,
       "num": 118200,
       "word": "董思成回应苏坡扣马鼻",
@@ -10497,6 +10537,14 @@
       "onboard_time": 1739768303,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129772,
+      "num": 129772,
+      "word": "董明珠怒怼员工对她表忠诚",
+      "onboard_time": 1740036501,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 129637,
@@ -12123,6 +12171,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81819,
+      "num": 155504,
+      "word": "幻方量化回应管理规模缩水",
+      "onboard_time": 1740036921,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 80589,
+      "num": 322316,
+      "word": "刘昊然董思成代露娃是大学同学",
+      "onboard_time": 1740036141,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80386,
       "num": 351182,
       "word": "美航司客机事故逃生画面曝光",
@@ -12137,14 +12201,6 @@
       "onboard_time": 1739779762,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 80250,
-      "num": 361893,
-      "word": "为什么我的老公不是Deepseek",
-      "onboard_time": 1740035240,
-      "rank": 19,
-      "category": "互联网"
     },
     {
       "raw_hot": 80076,
@@ -12969,6 +13025,14 @@
       "onboard_time": 1739962580,
       "rank": 35,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 54046,
+      "num": 218329,
+      "word": "3个动作改善久坐尾巴骨疼",
+      "onboard_time": 1740036141,
+      "rank": 29,
+      "category": "运动健身,健康医疗"
     },
     {
       "raw_hot": 52932,
