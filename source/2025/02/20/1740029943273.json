@@ -1,0 +1,410 @@
+{
+  "runTime": 1740029943273,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3327642,
+        "num": 3327642,
+        "word": "刘泳希李嘉铭官宣离婚",
+        "onboard_time": 1740026782,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 793054,
+        "num": 793054,
+        "word": "宝妈兼职配音4天被骗66万",
+        "onboard_time": 1740023782,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126894,
+        "num": 562596,
+        "word": "我国人形机器人又有突破",
+        "onboard_time": 1740021020,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1019654,
+        "num": 556725,
+        "word": "浪姐6站位",
+        "onboard_time": 1740024562,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 550538,
+        "num": 550538,
+        "word": "iPhone16e XR",
+        "onboard_time": 1740024380,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 475867,
+        "num": 475867,
+        "word": "DeepSeek回答存款利率太低怎么办",
+        "onboard_time": 1740024982,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 931002,
+        "num": 475619,
+        "word": "董力结婚5年了",
+        "onboard_time": 1740029424,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330061,
+        "num": 475343,
+        "word": "泽连斯基说美国给了1000亿让还5000亿",
+        "onboard_time": 1740028761,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 376025,
+        "num": 474905,
+        "word": "郑州下雪",
+        "onboard_time": 1740024861,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 684789,
+        "num": 474578,
+        "word": "王大陆3月13日受入伍训",
+        "onboard_time": 1740027142,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1123458,
+        "num": 474185,
+        "word": "男子服刑期感染艾滋病监狱被判赔偿",
+        "onboard_time": 1740019700,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1043927,
+        "num": 473887,
+        "word": "刘诗诗将所持股权转让给吴奇隆",
+        "onboard_time": 1740015800,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 562473,
+        "num": 473483,
+        "word": "黄多多盘发发量",
+        "onboard_time": 1740028882,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391094,
+        "num": 473414,
+        "word": "董明珠只去用格力空调的餐厅",
+        "onboard_time": 1740023663,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 514094,
+        "num": 472919,
+        "word": "网红越野唐僧去世",
+        "onboard_time": 1740024441,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 472730,
+        "num": 472730,
+        "word": "难哄",
+        "onboard_time": 1740028703,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151229,
+        "num": 470755,
+        "word": "翟潇闻怎么折都有面",
+        "onboard_time": 1740029122,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275125,
+        "num": 468775,
+        "word": "野生大熊猫用舌头给红外相机擦镜头",
+        "onboard_time": 1740018919,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82075,
+        "num": 467862,
+        "word": "学校食材配送公司将大批猪肉扔地上",
+        "onboard_time": 1740028522,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128718,
+        "num": 464546,
+        "word": "美副总统警告泽连斯基别说特朗普坏话",
+        "onboard_time": 1740028703,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 463256,
+        "num": 463256,
+        "word": "叶童c位",
+        "onboard_time": 1740027562,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430164,
+        "num": 430164,
+        "word": "桑稚不语只是一味上榜年度角色",
+        "onboard_time": 1740027322,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 400999,
+        "num": 400999,
+        "word": "董明珠已找到格力接班人",
+        "onboard_time": 1740028522,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 394741,
+        "num": 394741,
+        "word": "来殡仪馆吃米粉的人比献花的还多",
+        "onboard_time": 1740018919,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391228,
+        "num": 391228,
+        "word": "李行亮回应和麦琳床上拥抱聊天",
+        "onboard_time": 1740028942,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383503,
+        "num": 383503,
+        "word": "白敬亭耍帅结果把后备箱打开了",
+        "onboard_time": 1740023602,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 383494,
+        "num": 383494,
+        "word": "腾讯华为等接入DeepSeek每月亏超4亿",
+        "onboard_time": 1740021559,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 380575,
+        "num": 380575,
+        "word": "陈哲远微博互动榜前6都是韩国粉丝",
+        "onboard_time": 1740028163,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287590,
+        "num": 287590,
+        "word": "美方要求乌克兰交出50%矿产资源",
+        "onboard_time": 1740015078,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 155364,
+        "num": 272383,
+        "word": "房东猥亵女生因年纪过大免于处罚",
+        "onboard_time": 1740028641,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271131,
+        "num": 271131,
+        "word": "董明珠回应未再婚",
+        "onboard_time": 1740027383,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 248943,
+        "num": 248943,
+        "word": "难哄第8集好嗑",
+        "onboard_time": 1740028522,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238879,
+        "num": 238879,
+        "word": "哪吒2在北美市场被严重低估",
+        "onboard_time": 1740026424,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199898,
+        "num": 199898,
+        "word": "Deepseek开始抢情感咨询师饭碗了",
+        "onboard_time": 1740023061,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 219029,
+        "num": 199381,
+        "word": "哪吒2票房",
+        "onboard_time": 1740025402,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192107,
+        "num": 192107,
+        "word": "一批中国公民被从缅甸电诈园区遣送",
+        "onboard_time": 1740024441,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 188764,
+        "num": 188764,
+        "word": "薛之谦天外来物一般出演了难哄",
+        "onboard_time": 1740026483,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179177,
+        "num": 179177,
+        "word": "无限暖暖",
+        "onboard_time": 1740029302,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178160,
+        "num": 178160,
+        "word": "董思成喊话黄杨钿甜叫哥哥",
+        "onboard_time": 1740029003,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 166351,
+        "num": 166351,
+        "word": "骑手缴纳社保增加的成本由谁承担",
+        "onboard_time": 1740024320,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 163302,
+        "num": 163302,
+        "word": "董明珠谈被很多员工背后骂",
+        "onboard_time": 1740025223,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 161716,
+        "num": 161716,
+        "word": "顶着海王的脸搞纯爱",
+        "onboard_time": 1740029783,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146569,
+        "num": 146569,
+        "word": "广西6死事故死伤者系修剪杂草工人",
+        "onboard_time": 1740020721,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160592,
+        "num": 145934,
+        "word": "黄杨钿甜观众缘",
+        "onboard_time": 1740026063,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144505,
+        "num": 144505,
+        "word": "上海一阿姨扫地踩穿楼板掉到楼下",
+        "onboard_time": 1740010220,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132237,
+        "num": 132237,
+        "word": "哪吒2全球动画第1",
+        "onboard_time": 1739879063,
+        "rank": 45,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 131955,
+        "num": 131955,
+        "word": "张婧仪粉色洞洞鞋",
+        "onboard_time": 1740026663,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123825,
+        "num": 123825,
+        "word": "哪吒2海外票房破千万仅用4天",
+        "onboard_time": 1740021440,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122756,
+        "num": 122756,
+        "word": "男子怕媳妇看到酒瓶直接从18楼抛出",
+        "onboard_time": 1740021921,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121279,
+        "num": 121279,
+        "word": "恋与深空",
+        "onboard_time": 1740027623,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#感悟总书记对民企发展的关怀#"
+    }
+  }
+}
