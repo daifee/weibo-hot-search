@@ -1,6 +1,6 @@
 {
   "startTime": 1739982473012,
-  "endTime": 1740065153397,
+  "endTime": 1740065988603,
   "band_list": [
     {
       "raw_hot": 13463818,
@@ -243,6 +243,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1122207,
+      "num": 1122207,
+      "word": "义乌老板利用DeepSeek卖空小商品",
+      "onboard_time": 1740062063,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1086275,
       "num": 565409,
       "word": "抗癌博主小何日记去世",
@@ -281,14 +289,6 @@
       "onboard_time": 1740019039,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1033784,
-      "num": 1033784,
-      "word": "义乌老板利用DeepSeek卖空小商品",
-      "onboard_time": 1740062063,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1030114,
@@ -419,6 +419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 794301,
+      "num": 794301,
+      "word": "女子怀孕5个月被诊所当妇科病治疗",
+      "onboard_time": 1740064224,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 783508,
       "num": 739659,
       "word": "怎么敢让孙丞潇和于佩尔搭戏的啊",
@@ -476,7 +484,7 @@
     },
     {
       "raw_hot": 716018,
-      "num": 472691,
+      "num": 633299,
       "word": "一念江南 虞书欣",
       "onboard_time": 1740062661,
       "rank": 6,
@@ -1025,14 +1033,6 @@
       "onboard_time": 1740031762,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 368224,
-      "num": 368224,
-      "word": "女子怀孕5个月被诊所当妇科病治疗",
-      "onboard_time": 1740064224,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 367647,
@@ -1619,6 +1619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218955,
+      "num": 218955,
+      "word": "李宇春可以是原唱也可以是原告",
+      "onboard_time": 1740065422,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218853,
       "num": 218555,
       "word": "董力夸老婆拎得清",
@@ -2187,6 +2195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178557,
+      "num": 373617,
+      "word": "美国一个鸡蛋卖到4.35元",
+      "onboard_time": 1740063562,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 178160,
       "num": 178160,
       "word": "董思成喊话黄杨钿甜叫哥哥",
@@ -2292,7 +2308,7 @@
     },
     {
       "raw_hot": 169194,
-      "num": 169194,
+      "num": 445267,
       "word": "80后死亡率5.2%是假消息",
       "onboard_time": 1740059124,
       "rank": 41,
@@ -2723,14 +2739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 136736,
-      "num": 373617,
-      "word": "美国一个鸡蛋卖到4.35元",
-      "onboard_time": 1740063562,
-      "rank": 18,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 136620,
       "num": 136620,
       "word": "头鱼回归朱雀",
@@ -2795,12 +2803,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133904,
+      "num": 133904,
+      "word": "陈凯歌说杨子的表演是逗导师玩",
+      "onboard_time": 1740065303,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133761,
       "num": 133761,
       "word": "李某某当庭否认殴打妻子灌面汤",
       "onboard_time": 1739975962,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131799,
+      "num": 131799,
+      "word": "王一栩 万花世界",
+      "onboard_time": 1740065362,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 130644,
@@ -2825,6 +2849,14 @@
       "onboard_time": 1739970081,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 128978,
+      "num": 128978,
+      "word": "蔡徐坤妆容",
+      "onboard_time": 1740065902,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 128718,
@@ -2913,6 +2945,14 @@
       "onboard_time": 1740040763,
       "rank": 44,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 114962,
+      "num": 271284,
+      "word": "齐肩短发这样扎",
+      "onboard_time": 1740063922,
+      "rank": 24,
+      "category": "时尚"
     },
     {
       "raw_hot": 114696,
@@ -3025,6 +3065,14 @@
       "onboard_time": 1740033081,
       "rank": 13,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 98418,
+      "num": 410262,
+      "word": "我们该怎么和抑郁的小孩相处",
+      "onboard_time": 1740064343,
+      "rank": 14,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 94987,
@@ -3163,6 +3211,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 74280,
+      "num": 415185,
+      "word": "工作室辟谣胡歌肺癌",
+      "onboard_time": 1740065244,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 70455,
       "num": 411594,
       "word": "负责人回应好利来员工长时间加班",
@@ -3227,14 +3283,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 60313,
-      "num": 391122,
-      "word": "我们该怎么和抑郁的小孩相处",
-      "onboard_time": 1740064343,
-      "rank": 14,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 60145,
       "num": 231464,
       "word": "马库斯说自己不想成网红",
@@ -3257,6 +3305,14 @@
       "onboard_time": 1740044242,
       "rank": 34,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 58117,
+      "num": 225920,
+      "word": "大学生求职被要求当公司法人",
+      "onboard_time": 1740064943,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57767,
@@ -3313,6 +3369,14 @@
       "onboard_time": 1740021559,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 51230,
+      "num": 426229,
+      "word": "王楚钦谈再胜宇田幸矢",
+      "onboard_time": 1740065244,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 50824,
@@ -3409,6 +3473,14 @@
       "onboard_time": 1740034761,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42664,
+      "num": 393934,
+      "word": "马库斯妈妈说他应该留在中国",
+      "onboard_time": 1740065422,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42544,
@@ -3553,14 +3625,6 @@
       "onboard_time": 1740032780,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 28784,
-      "num": 225920,
-      "word": "大学生求职被要求当公司法人",
-      "onboard_time": 1740064943,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 28708,
