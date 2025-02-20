@@ -1,6 +1,6 @@
 {
   "startTime": 1740069014077,
-  "endTime": 1740073068250,
+  "endTime": 1740076263662,
   "band_list": [
     {
       "raw_hot": 6060617,
@@ -201,6 +201,14 @@
       "onboard_time": 1740056301,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 154616,
+      "num": 154616,
+      "word": "河南一彩民花12元中了691万",
+      "onboard_time": 1740073213,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154353,
@@ -427,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59608,
+      "num": 59608,
+      "word": "华中农大多名学生称租房面临被赶",
+      "onboard_time": 1740074592,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46600,
       "num": 46600,
       "word": "cp31",
@@ -459,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32296,
+      "num": 132232,
+      "word": "华农回应近50名学生疑遭二房东骗租",
+      "onboard_time": 1740072255,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30914,
       "num": 563384,
       "word": "我国首口超万米深井完钻",
@@ -467,12 +491,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 19318,
-      "num": 132232,
-      "word": "华农回应近50名学生疑遭二房东骗租",
-      "onboard_time": 1740072255,
+      "raw_hot": 23709,
+      "num": 27286,
+      "word": "金树林绽放之夜",
+      "onboard_time": 1740075732,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 15314,
+      "num": 77177,
+      "word": "美国近日7架飞机接连出事故",
+      "onboard_time": 1740075792,
       "rank": 9,
-      "category": "民生新闻"
+      "category": "海外新闻"
     },
     {
       "raw_hot": 13855,
