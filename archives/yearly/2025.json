@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1740040176737,
+  "endTime": 1740040969008,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1699,6 +1699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 2741557,
+      "num": 2741557,
+      "word": "多位演员自曝曾被导演郑某某侵害",
+      "onboard_time": 1740039083,
+      "rank": 3,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 2740253,
       "num": 2740253,
       "word": "刘涛 妈祖援藏",
@@ -1929,6 +1937,14 @@
       "onboard_time": 1738081830,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2535042,
+      "num": 2535042,
+      "word": "难哄直播 尴尬",
+      "onboard_time": 1740039020,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 2534820,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1738993525,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2270595,
-      "num": 2270595,
-      "word": "B站弹幕",
-      "onboard_time": 1738071644,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 2266291,
-      "num": 357166,
-      "word": "特朗普要TikTok50%所有权",
-      "onboard_time": 1737348859,
-      "rank": 10,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [

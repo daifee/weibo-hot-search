@@ -1,0 +1,410 @@
+{
+  "runTime": 1740040969008,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2741557,
+        "num": 2741557,
+        "word": "多位演员自曝曾被导演郑某某侵害",
+        "onboard_time": 1740039083,
+        "rank": 0,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 2535042,
+        "num": 2535042,
+        "word": "难哄直播 尴尬",
+        "onboard_time": 1740039020,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 8163,
+        "num": 980496,
+        "word": "中国式现代化的万千气象海南行",
+        "onboard_time": 1739782103,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 771652,
+        "num": 771652,
+        "word": "千万网红毒角SHOW美国高速SUV自燃",
+        "onboard_time": 1740034281,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 501075,
+        "num": 501075,
+        "word": "特朗普称乌克兰或将不复存在",
+        "onboard_time": 1740029962,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1118880,
+        "num": 460416,
+        "word": "胡静老公从事殡葬行业",
+        "onboard_time": 1740034223,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 552334,
+        "num": 439163,
+        "word": "05花",
+        "onboard_time": 1740032061,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 584841,
+        "num": 407148,
+        "word": "韩庚对卢靖姗一见钟情",
+        "onboard_time": 1740037761,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355089,
+        "num": 355089,
+        "word": "郭艾伦再发声",
+        "onboard_time": 1740033502,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 319174,
+        "num": 319174,
+        "word": "新郎被部队召回妹妹代哥哥拜堂",
+        "onboard_time": 1740039863,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 888542,
+        "num": 318055,
+        "word": "榜1大哥称账号被封骗走主播24万5",
+        "onboard_time": 1740037401,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 797731,
+        "num": 316181,
+        "word": "金敏喜挺孕肚出发柏林",
+        "onboard_time": 1740037641,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 444633,
+        "num": 314416,
+        "word": "黄多多盘发发量",
+        "onboard_time": 1740028882,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228299,
+        "num": 312229,
+        "word": "2025年8省份将不再分文理科",
+        "onboard_time": 1740038422,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14084,
+        "num": 310030,
+        "word": "开学精简护肤三件套",
+        "onboard_time": 1740038481,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 60738,
+        "num": 308243,
+        "word": "起底涉嫌猥亵儿童导演投资版图",
+        "onboard_time": 1740040524,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 378173,
+        "num": 306272,
+        "word": "房东猥亵女生因年纪过大免于处罚",
+        "onboard_time": 1740028641,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365529,
+        "num": 304356,
+        "word": "抗癌博主小何日记去世",
+        "onboard_time": 1740031822,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303888,
+        "num": 303888,
+        "word": "男子服刑期感染艾滋病监狱被判赔偿",
+        "onboard_time": 1740019700,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79473,
+        "num": 292052,
+        "word": "39岁男子去世妻子捐出他全部器官",
+        "onboard_time": 1740040225,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 668281,
+        "num": 291719,
+        "word": "印度17岁举重冠军被杠铃压脖身亡",
+        "onboard_time": 1740039261,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 290833,
+        "num": 290833,
+        "word": "宝妈兼职配音4天被骗66万",
+        "onboard_time": 1740023782,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 549353,
+        "num": 287662,
+        "word": "董力结婚5年了",
+        "onboard_time": 1740029424,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347732,
+        "num": 285833,
+        "word": "桑延温以凡摩天轮吻",
+        "onboard_time": 1740035483,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304447,
+        "num": 281411,
+        "word": "何老师我们还是太熟了",
+        "onboard_time": 1740038481,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232070,
+        "num": 277216,
+        "word": "难哄",
+        "onboard_time": 1740028703,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16980,
+        "num": 274763,
+        "word": "超闪亮的时尚单品",
+        "onboard_time": 1740040401,
+        "rank": 26,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 62448,
+        "num": 269986,
+        "word": "金饰价格较年初每克涨超90元",
+        "onboard_time": 1740040821,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 45697,
+        "num": 265468,
+        "word": "已有超200家企业宣布接入DeepSeek",
+        "onboard_time": 1740040763,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 102619,
+        "num": 260200,
+        "word": "为什么隔着玻璃晒太阳是无效的",
+        "onboard_time": 1740040582,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 260181,
+        "num": 260181,
+        "word": "中方包机接回缅甸电诈园遣返人员",
+        "onboard_time": 1740035782,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 239248,
+        "num": 239248,
+        "word": "白鹿现在自拍很差吗",
+        "onboard_time": 1740030202,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237632,
+        "num": 237632,
+        "word": "刘诗诗将所持股权转让给吴奇隆",
+        "onboard_time": 1740015800,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80286,
+        "num": 230150,
+        "word": "孙颖莎我爱你响彻整个体育馆",
+        "onboard_time": 1740040883,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222829,
+        "num": 222829,
+        "word": "哪吒2破126亿",
+        "onboard_time": 1740040044,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 218963,
+        "num": 218963,
+        "word": "虞书欣林一剧宣",
+        "onboard_time": 1740036561,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101287,
+        "num": 215694,
+        "word": "郭艾伦说对方的态度让人寒心",
+        "onboard_time": 1740039261,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215594,
+        "num": 215594,
+        "word": "气血不足的人不要老躺着",
+        "onboard_time": 1740032124,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 202574,
+        "num": 202574,
+        "word": "张婧仪烤火把衣服烧了",
+        "onboard_time": 1740038481,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99458,
+        "num": 199628,
+        "word": "律师解读70岁房东猥亵女生免行拘",
+        "onboard_time": 1740033081,
+        "rank": 39,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 82877,
+        "num": 199493,
+        "word": "哪吒2IMAX票最高炒至千元",
+        "onboard_time": 1740039200,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199409,
+        "num": 199409,
+        "word": "孙颖莎打了自己一巴掌",
+        "onboard_time": 1740030922,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194158,
+        "num": 194158,
+        "word": "难哄直播",
+        "onboard_time": 1740035541,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192011,
+        "num": 192011,
+        "word": "董力没有见过阿诺的闺蜜",
+        "onboard_time": 1740040282,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74306,
+        "num": 179816,
+        "word": "尊界S800全球首发众多顶尖黑科技",
+        "onboard_time": 1740040763,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 170324,
+        "num": 170324,
+        "word": "鸿蒙智行尊界技术发布会",
+        "onboard_time": 1740040225,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 170281,
+        "num": 170281,
+        "word": "偷偷藏不住飙升榜第一",
+        "onboard_time": 1740030381,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167180,
+        "num": 167180,
+        "word": "女子网上晒娃公司撤销哺乳假被驳回",
+        "onboard_time": 1740040700,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164248,
+        "num": 164248,
+        "word": "尊界S800华为途灵龙行平台",
+        "onboard_time": 1740040225,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 160984,
+        "num": 160984,
+        "word": "特朗普一天内两次威胁泽连斯基",
+        "onboard_time": 1740034521,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为民营企业鼓劲#"
+    }
+  }
+}

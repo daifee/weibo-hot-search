@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1740040176737,
+  "endTime": 1740040969008,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -203,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2741557,
+      "num": 2741557,
+      "word": "多位演员自曝曾被导演郑某某侵害",
+      "onboard_time": 1740039083,
+      "rank": 3,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 2716920,
       "num": 2716920,
       "word": "哪吒2预测票房下跌",
@@ -249,6 +257,14 @@
       "onboard_time": 1739967800,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 2535042,
+      "num": 2535042,
+      "word": "难哄直播 尴尬",
+      "onboard_time": 1740039020,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 2504377,
@@ -873,14 +889,6 @@
       "onboard_time": 1739720662,
       "rank": 1,
       "category": "财经,民生新闻"
-    },
-    {
-      "raw_hot": 1262871,
-      "num": 1262871,
-      "word": "难哄直播 尴尬",
-      "onboard_time": 1740039020,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 1257053,
@@ -2139,6 +2147,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 668281,
+      "num": 299383,
+      "word": "印度17岁举重冠军被杠铃压脖身亡",
+      "onboard_time": 1740039261,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 662428,
       "num": 662428,
       "word": "iPhone16e两款配色",
@@ -2377,14 +2393,6 @@
       "onboard_time": 1740012441,
       "rank": 6,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 615564,
-      "num": 299383,
-      "word": "印度17岁举重冠军被杠铃压脖身亡",
-      "onboard_time": 1740039261,
-      "rank": 22,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 613365,
@@ -2969,14 +2977,6 @@
       "onboard_time": 1739694979,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 497604,
-      "num": 497604,
-      "word": "多位演员自曝曾被导演郑某某侵害",
-      "onboard_time": 1740039083,
-      "rank": 3,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 494479,
@@ -4675,6 +4675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 319174,
+      "num": 319174,
+      "word": "新郎被部队召回妹妹代哥哥拜堂",
+      "onboard_time": 1740039863,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 318105,
       "num": 318105,
       "word": "郭艾伦受伤过程",
@@ -4835,6 +4843,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 304447,
+      "num": 297419,
+      "word": "何老师我们还是太熟了",
+      "onboard_time": 1740038481,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 303337,
       "num": 392741,
       "word": "国足",
@@ -4905,14 +4921,6 @@
       "onboard_time": 1739763439,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 297419,
-      "num": 297419,
-      "word": "何老师我们还是太熟了",
-      "onboard_time": 1740038481,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 297133,
@@ -6371,6 +6379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228299,
+      "num": 312229,
+      "word": "2025年8省份将不再分文理科",
+      "onboard_time": 1740038422,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 227103,
       "num": 227103,
       "word": "红房子直播",
@@ -6465,6 +6481,14 @@
       "onboard_time": 1739842038,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222829,
+      "num": 222829,
+      "word": "哪吒2破126亿",
+      "onboard_time": 1740040044,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 222586,
@@ -6649,6 +6673,14 @@
       "onboard_time": 1739940802,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 218963,
+      "num": 218963,
+      "word": "虞书欣林一剧宣",
+      "onboard_time": 1740036561,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 218890,
@@ -6939,14 +6971,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 210524,
-      "num": 299066,
-      "word": "2025年8省份将不再分文理科",
-      "onboard_time": 1740038422,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 210502,
       "num": 210502,
       "word": "哪吒2香港口碑",
@@ -7145,14 +7169,6 @@
       "onboard_time": 1739876242,
       "rank": 41,
       "category": "互联网,音乐"
-    },
-    {
-      "raw_hot": 206251,
-      "num": 206251,
-      "word": "虞书欣林一剧宣",
-      "onboard_time": 1740036561,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 206150,
@@ -7913,6 +7929,14 @@
       "onboard_time": 1739887822,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192011,
+      "num": 192011,
+      "word": "董力没有见过阿诺的闺蜜",
+      "onboard_time": 1740040282,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 191899,
@@ -8787,6 +8811,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 170324,
+      "num": 170324,
+      "word": "鸿蒙智行尊界技术发布会",
+      "onboard_time": 1740040225,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 170300,
       "num": 115259,
       "word": "特朗普称本月底前将与普京会面",
@@ -8955,6 +8987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167180,
+      "num": 167180,
+      "word": "女子网上晒娃公司撤销哺乳假被驳回",
+      "onboard_time": 1740040700,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167167,
       "num": 272259,
       "word": "梅梅厦门",
@@ -9081,6 +9121,14 @@
       "onboard_time": 1739773879,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164248,
+      "num": 164248,
+      "word": "尊界S800华为途灵龙行平台",
+      "onboard_time": 1740040225,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 163761,
@@ -9907,14 +9955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 145610,
-      "num": 145610,
-      "word": "新郎被部队召回妹妹代哥哥拜堂",
-      "onboard_time": 1740039863,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 145256,
       "num": 432534,
       "word": "教师被举报家暴及性骚扰学生后仍在职",
@@ -10264,14 +10304,6 @@
       "word": "哪吒2海外票房成绩",
       "onboard_time": 1739769620,
       "rank": 44,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 138425,
-      "num": 138425,
-      "word": "哪吒2破126亿",
-      "onboard_time": 1740040044,
-      "rank": 48,
       "category": "电影"
     },
     {
@@ -11651,6 +11683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 102619,
+      "num": 260200,
+      "word": "为什么隔着玻璃晒太阳是无效的",
+      "onboard_time": 1740040582,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 102450,
       "num": 150941,
       "word": "美国11个州超53万用户断电",
@@ -11793,6 +11833,14 @@
       "onboard_time": 1739790680,
       "rank": 19,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 99458,
+      "num": 322070,
+      "word": "律师解读70岁房东猥亵女生免行拘",
+      "onboard_time": 1740033081,
+      "rank": 13,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 99177,
@@ -12267,6 +12315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82877,
+      "num": 286542,
+      "word": "哪吒2IMAX票最高炒至千元",
+      "onboard_time": 1740039200,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 82717,
       "num": 499597,
       "word": "马库斯所捐照片将于20日在上海鉴定",
@@ -12331,6 +12387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80286,
+      "num": 230150,
+      "word": "孙颖莎我爱你响彻整个体育馆",
+      "onboard_time": 1740040883,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80076,
       "num": 239264,
       "word": "林诗栋亚洲杯男单开门红",
@@ -12361,6 +12425,14 @@
       "onboard_time": 1739714543,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 79473,
+      "num": 292052,
+      "word": "39岁男子去世妻子捐出他全部器官",
+      "onboard_time": 1740040225,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79187,
@@ -12483,14 +12555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 75886,
-      "num": 322070,
-      "word": "律师解读70岁房东猥亵女生免行拘",
-      "onboard_time": 1740033081,
-      "rank": 13,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 75880,
       "num": 372806,
       "word": "Grok3发布会坐C位的两个华人是谁",
@@ -12545,6 +12609,14 @@
       "onboard_time": 1739881824,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74306,
+      "num": 179816,
+      "word": "尊界S800全球首发众多顶尖黑科技",
+      "onboard_time": 1740040763,
+      "rank": 44,
+      "category": "汽车"
     },
     {
       "raw_hot": 74004,
@@ -12867,6 +12939,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 62448,
+      "num": 269986,
+      "word": "金饰价格较年初每克涨超90元",
+      "onboard_time": 1740040821,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 62150,
       "num": 85798,
       "word": "开学校园清一色哪吒头",
@@ -12921,6 +13001,14 @@
       "onboard_time": 1739895799,
       "rank": 40,
       "category": "民生新闻,电影"
+    },
+    {
+      "raw_hot": 60738,
+      "num": 308243,
+      "word": "起底涉嫌猥亵儿童导演投资版图",
+      "onboard_time": 1740040524,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60674,
@@ -13379,14 +13467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 46797,
-      "num": 286542,
-      "word": "哪吒2IMAX票最高炒至千元",
-      "onboard_time": 1740039200,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 46774,
       "num": 46774,
       "word": "三维还原美军航母碰撞全过程",
@@ -13433,6 +13513,14 @@
       "onboard_time": 1739986033,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 45697,
+      "num": 265468,
+      "word": "已有超200家企业宣布接入DeepSeek",
+      "onboard_time": 1740040763,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 45645,
@@ -14585,6 +14673,14 @@
       "onboard_time": 1739647931,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 16980,
+      "num": 274763,
+      "word": "超闪亮的时尚单品",
+      "onboard_time": 1740040401,
+      "rank": 26,
+      "category": "时尚"
     },
     {
       "raw_hot": 16362,
