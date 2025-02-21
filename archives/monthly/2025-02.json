@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740142709225,
+  "endTime": 1740144482137,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 4087622,
-      "num": 534251,
+      "num": 606771,
       "word": "黄景瑜前妻点名张艺上",
       "onboard_time": 1740128661,
       "rank": 10,
@@ -1651,6 +1651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1902112,
+      "num": 1902112,
+      "word": "因为女主漂亮就所有人都要害她",
+      "onboard_time": 1740139760,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1893469,
       "num": 1893469,
       "word": "DeepSeek评中国最宜居城市",
@@ -2115,14 +2123,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1694223,
-      "num": 1694223,
-      "word": "因为女主漂亮就所有人都要害她",
-      "onboard_time": 1740139760,
-      "rank": 0,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1691225,
       "num": 448722,
       "word": "江苏兴化3.7级地震",
@@ -2137,6 +2137,14 @@
       "onboard_time": 1739435481,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1682100,
+      "num": 671809,
+      "word": "黄灿灿曾因被造黄谣失去工作",
+      "onboard_time": 1740142161,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 1678690,
@@ -2624,6 +2632,14 @@
       "word": "董力结婚5年了",
       "onboard_time": 1740029424,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1495498,
+      "num": 628852,
+      "word": "黄灿灿 杨晓培",
+      "onboard_time": 1740142760,
+      "rank": 8,
       "category": "综艺"
     },
     {
@@ -5716,7 +5732,7 @@
     },
     {
       "raw_hot": 929799,
-      "num": 560069,
+      "num": 635286,
       "word": "红房子 无人生还",
       "onboard_time": 1740138800,
       "rank": 6,
@@ -5736,6 +5752,14 @@
       "word": "四川山体滑坡30余人失联",
       "onboard_time": 1739009242,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 927693,
+      "num": 600486,
+      "word": "遭丈夫灌面汤呛死女子家属发声",
+      "onboard_time": 1740140478,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -7337,6 +7361,14 @@
       "onboard_time": 1739328618,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 770180,
+      "num": 770180,
+      "word": "毒品的回旋镖最终回到了美国头上",
+      "onboard_time": 1740139940,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 770088,
@@ -9099,6 +9131,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 644156,
+      "num": 644156,
+      "word": "德基厕所",
+      "onboard_time": 1740141681,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 643271,
       "num": 394739,
       "word": "被烟花击中摘除眼球男子寻找目击者",
@@ -9995,14 +10035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 593173,
-      "num": 523526,
-      "word": "遭丈夫灌面汤呛死女子家属发声",
-      "onboard_time": 1740140478,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 593115,
       "num": 348763,
       "word": "刘浩存柏林电影节黑天鹅造型",
@@ -10193,6 +10225,14 @@
       "onboard_time": 1739370143,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 581541,
+      "num": 581541,
+      "word": "张婉莹拿到了S级",
+      "onboard_time": 1740141801,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 581325,
@@ -10553,14 +10593,6 @@
       "onboard_time": 1739185820,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 567840,
-      "num": 567840,
-      "word": "毒品的回旋镖最终回到了美国头上",
-      "onboard_time": 1740139940,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 567551,
@@ -12419,6 +12451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 496840,
+      "num": 635614,
+      "word": "蒋超良被查",
+      "onboard_time": 1740140778,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 496694,
       "num": 305730,
       "word": "特朗普下令对索马里发动空袭",
@@ -13161,14 +13201,6 @@
       "onboard_time": 1738981582,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 470319,
-      "num": 554192,
-      "word": "蒋超良被查",
-      "onboard_time": 1740140778,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 470303,
@@ -16755,14 +16787,6 @@
       "category": "民生新闻,美食"
     },
     {
-      "raw_hot": 363172,
-      "num": 363172,
-      "word": "张婉莹拿到了S级",
-      "onboard_time": 1740141801,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 363143,
       "num": 348198,
       "word": "崔漫莉回应自曝无证酒驾肇事逃逸",
@@ -17739,6 +17763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 341695,
+      "num": 585707,
+      "word": "摄影师称离婚跟拍压力很大",
+      "onboard_time": 1740142880,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 341510,
       "num": 341510,
       "word": "美国或将在中东打开潘多拉魔盒",
@@ -18249,6 +18281,14 @@
       "onboard_time": 1738815747,
       "rank": 36,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 329659,
+      "num": 329659,
+      "word": "择天记",
+      "onboard_time": 1740143961,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 329617,
@@ -20057,6 +20097,14 @@
       "onboard_time": 1738724361,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 298446,
+      "num": 581739,
+      "word": "银监局回应银行8个窗口只开2个",
+      "onboard_time": 1740141381,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 298087,
@@ -23915,14 +23963,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 247061,
-      "num": 247061,
-      "word": "黄灿灿曾因被造黄谣失去工作",
-      "onboard_time": 1740142161,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 246937,
       "num": 246937,
       "word": "女生同个视频播6小时后手机留下水印",
@@ -25393,14 +25433,6 @@
       "onboard_time": 1739341521,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 231621,
-      "num": 231621,
-      "word": "银监局回应银行8个窗口只开2个",
-      "onboard_time": 1740141381,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 231584,
@@ -27947,6 +27979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213871,
+      "num": 213871,
+      "word": "LIZ身材",
+      "onboard_time": 1740144020,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213861,
       "num": 213861,
       "word": "车俊焕亚冬会金牌",
@@ -30347,6 +30387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 201184,
+      "num": 281291,
+      "word": "黑神话悟空收入史上第2",
+      "onboard_time": 1740140840,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 201138,
       "num": 201138,
       "word": "董思成 丹凤眼",
@@ -31747,6 +31795,14 @@
       "category": "体育,电影"
     },
     {
+      "raw_hot": 195326,
+      "num": 195326,
+      "word": "deepseek预测考研分数",
+      "onboard_time": 1740142940,
+      "rank": 40,
+      "category": "教育,互联网"
+    },
+    {
       "raw_hot": 195303,
       "num": 195303,
       "word": "肖战路演生图状态",
@@ -31993,14 +32049,6 @@
       "onboard_time": 1740030262,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 194324,
-      "num": 194324,
-      "word": "德基厕所",
-      "onboard_time": 1740141681,
-      "rank": 48,
-      "category": "旅游"
     },
     {
       "raw_hot": 194263,
@@ -33393,6 +33441,14 @@
       "onboard_time": 1739328559,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188487,
+      "num": 188487,
+      "word": "六姊妹 哭麻了",
+      "onboard_time": 1740143840,
+      "rank": 42,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 188429,
@@ -35027,6 +35083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181263,
+      "num": 181263,
+      "word": "关晓彤未来感镭射风造型",
+      "onboard_time": 1740143481,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 181248,
       "num": 181248,
       "word": "华为小艺已接入DeepSeek",
@@ -35449,14 +35513,6 @@
       "onboard_time": 1739632642,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 178969,
-      "num": 281291,
-      "word": "黑神话悟空收入史上第2",
-      "onboard_time": 1740140840,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 178900,
@@ -38785,6 +38841,14 @@
       "onboard_time": 1739334021,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 163020,
+      "num": 530737,
+      "word": "王志飞助演水平",
+      "onboard_time": 1740143180,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 163017,
@@ -45547,6 +45611,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 132473,
+      "num": 132473,
+      "word": "孙颖莎笑容使者",
+      "onboard_time": 1740143239,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132420,
       "num": 124853,
       "word": "孟子义超耿直",
@@ -45748,7 +45820,7 @@
     },
     {
       "raw_hot": 131286,
-      "num": 131286,
+      "num": 358345,
       "word": "赛琳娜和未婚夫花3500万美金买房",
       "onboard_time": 1740136219,
       "rank": 48,
@@ -45801,6 +45873,14 @@
       "onboard_time": 1739151437,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130855,
+      "num": 130855,
+      "word": "皇马 马竞",
+      "onboard_time": 1740144321,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 130846,
@@ -46105,6 +46185,14 @@
       "onboard_time": 1739790381,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 130002,
+      "num": 397390,
+      "word": "陈垣宇晋级",
+      "onboard_time": 1740143541,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 129944,
@@ -52163,6 +52251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96609,
+      "num": 551414,
+      "word": "大众CC撞报废车主跪谢爱车",
+      "onboard_time": 1740142940,
+      "rank": 17,
+      "category": "民生新闻,汽车"
+    },
+    {
       "raw_hot": 96591,
       "num": 222304,
       "word": "为青岛的海鸥疯狂心动一万次",
@@ -56659,6 +56755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 61773,
+      "num": 355394,
+      "word": "业主门口大摆风水阵吓坏邻居",
+      "onboard_time": 1740142760,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61749,
       "num": 1244884,
       "word": "专家解读促进民营经济发展工作重点",
@@ -57865,6 +57969,14 @@
       "onboard_time": 1739877023,
       "rank": 20,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 54440,
+      "num": 619167,
+      "word": "明星脸被用于实时通话AI换脸不露破绽",
+      "onboard_time": 1740144081,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54359,
@@ -59924,7 +60036,7 @@
     },
     {
       "raw_hot": 42204,
-      "num": 154886,
+      "num": 196615,
       "word": "蔬菜馒头",
       "onboard_time": 1740142641,
       "rank": 39,
@@ -62619,6 +62731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26834,
+      "num": 351908,
+      "word": "人形机器人概念股反复活跃",
+      "onboard_time": 1740143720,
+      "rank": 29,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 26823,
       "num": 63982,
       "word": "江苏有11市GDP超5000亿元",
@@ -62633,6 +62753,14 @@
       "onboard_time": 1738668986,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 26791,
+      "num": 493483,
+      "word": "员工未献血得交100元互助金",
+      "onboard_time": 1740143600,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26566,
@@ -63313,6 +63441,14 @@
       "onboard_time": 1739341639,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 23428,
+      "num": 684725,
+      "word": "科技助力各地绘好春耕图",
+      "onboard_time": 1740127760,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23418,

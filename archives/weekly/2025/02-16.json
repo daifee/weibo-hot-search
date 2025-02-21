@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1740142709225,
+  "endTime": 1740144482137,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 4087622,
-      "num": 534251,
+      "num": 606771,
       "word": "黄景瑜前妻点名张艺上",
       "onboard_time": 1740128661,
       "rank": 10,
@@ -467,6 +467,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1902112,
+      "num": 1902112,
+      "word": "因为女主漂亮就所有人都要害她",
+      "onboard_time": 1740139760,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1893469,
       "num": 1893469,
       "word": "DeepSeek评中国最宜居城市",
@@ -611,20 +619,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1694223,
-      "num": 1694223,
-      "word": "因为女主漂亮就所有人都要害她",
-      "onboard_time": 1740139760,
-      "rank": 0,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1691225,
       "num": 448722,
       "word": "江苏兴化3.7级地震",
       "onboard_time": 1740094158,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1682100,
+      "num": 671809,
+      "word": "黄灿灿曾因被造黄谣失去工作",
+      "onboard_time": 1740142161,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 1676260,
@@ -824,6 +832,14 @@
       "word": "董力结婚5年了",
       "onboard_time": 1740029424,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1495498,
+      "num": 628852,
+      "word": "黄灿灿 杨晓培",
+      "onboard_time": 1740142760,
+      "rank": 8,
       "category": "综艺"
     },
     {
@@ -1796,11 +1812,19 @@
     },
     {
       "raw_hot": 929799,
-      "num": 560069,
+      "num": 635286,
       "word": "红房子 无人生还",
       "onboard_time": 1740138800,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 927693,
+      "num": 600486,
+      "word": "遭丈夫灌面汤呛死女子家属发声",
+      "onboard_time": 1740140478,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 927037,
@@ -2387,6 +2411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 770180,
+      "num": 770180,
+      "word": "毒品的回旋镖最终回到了美国头上",
+      "onboard_time": 1740139940,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 770088,
       "num": 345799,
       "word": "章若楠好漂亮",
@@ -2891,6 +2923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 644156,
+      "num": 644156,
+      "word": "德基厕所",
+      "onboard_time": 1740141681,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 643266,
       "num": 537482,
       "word": "卜冠今 真诚",
@@ -3155,14 +3195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 593173,
-      "num": 523526,
-      "word": "遭丈夫灌面汤呛死女子家属发声",
-      "onboard_time": 1740140478,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 593115,
       "num": 348763,
       "word": "刘浩存柏林电影节黑天鹅造型",
@@ -3193,6 +3225,14 @@
       "onboard_time": 1739707460,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 581541,
+      "num": 581541,
+      "word": "张婉莹拿到了S级",
+      "onboard_time": 1740141801,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 581123,
@@ -3297,14 +3337,6 @@
       "onboard_time": 1740033502,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 567840,
-      "num": 567840,
-      "word": "毒品的回旋镖最终回到了美国头上",
-      "onboard_time": 1740139940,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 567353,
@@ -3803,6 +3835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 496840,
+      "num": 635614,
+      "word": "蒋超良被查",
+      "onboard_time": 1740140778,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 494742,
       "num": 404615,
       "word": "黄杨钿甜拜了艺考之神董思成",
@@ -4016,14 +4056,6 @@
       "word": "博主用70万黄金锅涮火锅",
       "onboard_time": 1739885363,
       "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 470319,
-      "num": 554192,
-      "word": "蒋超良被查",
-      "onboard_time": 1740140778,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -5211,14 +5243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 363172,
-      "num": 363172,
-      "word": "张婉莹拿到了S级",
-      "onboard_time": 1740141801,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 362563,
       "num": 362563,
       "word": "哪吒2在联合国特别放映",
@@ -5547,6 +5571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 341695,
+      "num": 585707,
+      "word": "摄影师称离婚跟拍压力很大",
+      "onboard_time": 1740142880,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 341096,
       "num": 341096,
       "word": "董明珠回应未再婚",
@@ -5705,6 +5737,14 @@
       "onboard_time": 1740038422,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 329659,
+      "num": 329659,
+      "word": "择天记",
+      "onboard_time": 1740143961,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 329617,
@@ -6129,6 +6169,14 @@
       "onboard_time": 1739851945,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 298446,
+      "num": 581739,
+      "word": "银监局回应银行8个窗口只开2个",
+      "onboard_time": 1740141381,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 297798,
@@ -7379,14 +7427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 247061,
-      "num": 247061,
-      "word": "黄灿灿曾因被造黄谣失去工作",
-      "onboard_time": 1740142161,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 246813,
       "num": 341073,
       "word": "39岁医学博士娄华勇去世",
@@ -7904,14 +7944,6 @@
       "word": "义乌幼儿园开学外籍孩子占一半",
       "onboard_time": 1739708782,
       "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 231621,
-      "num": 231621,
-      "word": "银监局回应银行8个窗口只开2个",
-      "onboard_time": 1740141381,
-      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -8577,6 +8609,14 @@
       "onboard_time": 1739757618,
       "rank": 32,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 213871,
+      "num": 213871,
+      "word": "LIZ身材",
+      "onboard_time": 1740144020,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 213616,
@@ -9275,6 +9315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 201184,
+      "num": 281291,
+      "word": "黑神话悟空收入史上第2",
+      "onboard_time": 1740140840,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 200780,
       "num": 200780,
       "word": "男子偷妻子攒的19万贼喊捉贼",
@@ -9715,6 +9763,14 @@
       "category": "体育,电影"
     },
     {
+      "raw_hot": 195326,
+      "num": 195326,
+      "word": "deepseek预测考研分数",
+      "onboard_time": 1740142940,
+      "rank": 40,
+      "category": "教育,互联网"
+    },
+    {
       "raw_hot": 194946,
       "num": 194946,
       "word": "亚洲多国观众喜爱的中国演员",
@@ -9769,14 +9825,6 @@
       "onboard_time": 1740030262,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 194324,
-      "num": 194324,
-      "word": "德基厕所",
-      "onboard_time": 1740141681,
-      "rank": 48,
-      "category": "旅游"
     },
     {
       "raw_hot": 194263,
@@ -10185,6 +10233,14 @@
       "onboard_time": 1740041001,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188487,
+      "num": 188487,
+      "word": "六姊妹 哭麻了",
+      "onboard_time": 1740143840,
+      "rank": 42,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 188342,
@@ -10619,6 +10675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181263,
+      "num": 181263,
+      "word": "关晓彤未来感镭射风造型",
+      "onboard_time": 1740143481,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 181225,
       "num": 181225,
       "word": "树下有片红房子",
@@ -10777,14 +10841,6 @@
       "onboard_time": 1739770099,
       "rank": 21,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 178969,
-      "num": 281291,
-      "word": "黑神话悟空收入史上第2",
-      "onboard_time": 1740140840,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 178889,
@@ -11665,6 +11721,14 @@
       "onboard_time": 1740137900,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163020,
+      "num": 530737,
+      "word": "王志飞助演水平",
+      "onboard_time": 1740143180,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 162954,
@@ -13475,6 +13539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132473,
+      "num": 132473,
+      "word": "孙颖莎笑容使者",
+      "onboard_time": 1740143239,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132419,
       "num": 132419,
       "word": "网传肖战主演刘医生返乡记",
@@ -13508,7 +13580,7 @@
     },
     {
       "raw_hot": 131286,
-      "num": 131286,
+      "num": 358345,
       "word": "赛琳娜和未婚夫花3500万美金买房",
       "onboard_time": 1740136219,
       "rank": 48,
@@ -13545,6 +13617,14 @@
       "onboard_time": 1739628201,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130855,
+      "num": 130855,
+      "word": "皇马 马竞",
+      "onboard_time": 1740144321,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 130846,
@@ -13617,6 +13697,14 @@
       "onboard_time": 1739790381,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 130002,
+      "num": 397390,
+      "word": "陈垣宇晋级",
+      "onboard_time": 1740143541,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 129944,
@@ -15099,6 +15187,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 96609,
+      "num": 551414,
+      "word": "大众CC撞报废车主跪谢爱车",
+      "onboard_time": 1740142940,
+      "rank": 17,
+      "category": "民生新闻,汽车"
+    },
+    {
       "raw_hot": 96112,
       "num": 223117,
       "word": "马龙用铁尺颠球",
@@ -16427,6 +16523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 61773,
+      "num": 355394,
+      "word": "业主门口大摆风水阵吓坏邻居",
+      "onboard_time": 1740142760,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61749,
       "num": 1244884,
       "word": "专家解读促进民营经济发展工作重点",
@@ -16761,6 +16865,14 @@
       "onboard_time": 1739877023,
       "rank": 20,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 54440,
+      "num": 619167,
+      "word": "明星脸被用于实时通话AI换脸不露破绽",
+      "onboard_time": 1740144081,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54359,
@@ -17388,7 +17500,7 @@
     },
     {
       "raw_hot": 42204,
-      "num": 154886,
+      "num": 196615,
       "word": "蔬菜馒头",
       "onboard_time": 1740142641,
       "rank": 39,
@@ -18123,6 +18235,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26834,
+      "num": 351908,
+      "word": "人形机器人概念股反复活跃",
+      "onboard_time": 1740143720,
+      "rank": 29,
+      "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 26791,
+      "num": 493483,
+      "word": "员工未献血得交100元互助金",
+      "onboard_time": 1740143600,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26566,
       "num": 296917,
       "word": "重庆燃气别添堵了",
@@ -18345,6 +18473,14 @@
       "onboard_time": 1739680039,
       "rank": 29,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 23428,
+      "num": 684725,
+      "word": "科技助力各地绘好春耕图",
+      "onboard_time": 1740127760,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23272,
