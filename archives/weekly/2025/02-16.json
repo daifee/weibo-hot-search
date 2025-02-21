@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1740163430931,
+  "endTime": 1740165500842,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -18123,6 +18123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 39636,
+      "num": 39636,
+      "word": "中方回应乌克兰危机和谈",
+      "onboard_time": 1740163632,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 39633,
       "num": 385347,
       "word": "王曼昱亚洲杯两连胜",
@@ -18145,6 +18153,14 @@
       "onboard_time": 1739856699,
       "rank": 27,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 38932,
+      "num": 38932,
+      "word": "前女友力挺法老",
+      "onboard_time": 1740164232,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 38925,
@@ -19427,6 +19443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 19168,
+      "num": 21499,
+      "word": "我们的爸爸",
+      "onboard_time": 1740165192,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 18823,
       "num": 536194,
       "word": "竞演综艺中演技为何成了奢侈品",
@@ -19841,6 +19865,14 @@
       "onboard_time": 1740118520,
       "rank": 28,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 11355,
+      "num": 50527,
+      "word": "DeepSeek上线数据局人员称应该不会失业",
+      "onboard_time": 1740163752,
+      "rank": 12,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 10992,
