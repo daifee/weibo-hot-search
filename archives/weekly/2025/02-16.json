@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1740180161264,
+  "endTime": 1740180927983,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -3427,6 +3427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 566213,
+      "num": 885663,
+      "word": "老师一堂课没收几十个裂空爪",
+      "onboard_time": 1740177853,
+      "rank": 11,
+      "category": "民生新闻,电影"
+    },
+    {
       "raw_hot": 563917,
       "num": 563917,
       "word": "印度女孩画画还原父亲杀母过程",
@@ -4617,14 +4625,6 @@
       "onboard_time": 1739700739,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 426023,
-      "num": 87527,
-      "word": "老师一堂课没收几十个裂空爪",
-      "onboard_time": 1740177853,
-      "rank": 11,
-      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 423019,
@@ -15267,6 +15267,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 103631,
+      "num": 103631,
+      "word": "赵露思小时候演讲视频",
+      "onboard_time": 1740179473,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103607,
       "num": 278572,
       "word": "夏以昼我们的夏天没有尽头",
@@ -15537,6 +15545,14 @@
       "onboard_time": 1739903352,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 99132,
+      "num": 149240,
+      "word": "性骚扰不该成为流量密码",
+      "onboard_time": 1740169272,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 98602,
@@ -15979,14 +15995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 89034,
-      "num": 89034,
-      "word": "性骚扰不该成为流量密码",
-      "onboard_time": 1740169272,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 88364,
       "num": 214150,
       "word": "吒儿去冲奥斯卡吧我会投票",
@@ -16268,7 +16276,7 @@
     },
     {
       "raw_hot": 80311,
-      "num": 57234,
+      "num": 62679,
       "word": "前女友力挺法老",
       "onboard_time": 1740164232,
       "rank": 23,
@@ -16739,14 +16747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 70205,
-      "num": 70205,
-      "word": "赵露思小时候演讲视频",
-      "onboard_time": 1740179473,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 70136,
       "num": 258499,
       "word": "猫耳直播",
@@ -16825,6 +16825,14 @@
       "onboard_time": 1739623880,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 68007,
+      "num": 68007,
+      "word": "DeepSeek分析大学每月1500够花吗",
+      "onboard_time": 1740175751,
+      "rank": 41,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 67802,
@@ -17003,14 +17011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 62810,
-      "num": 62810,
-      "word": "DeepSeek分析大学每月1500够花吗",
-      "onboard_time": 1740175751,
-      "rank": 41,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 62801,
       "num": 660096,
       "word": "梁靖崑3比1松岛辉空",
@@ -17073,6 +17073,14 @@
       "onboard_time": 1739831232,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62003,
+      "num": 62003,
+      "word": "王昶首次回应梁王组合拆对传闻",
+      "onboard_time": 1740178813,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 61773,
@@ -17283,6 +17291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57976,
+      "num": 57976,
+      "word": "温以凡妈妈人设",
+      "onboard_time": 1740168611,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 57931,
       "num": 171006,
       "word": "美国冬季风暴死亡升至11人",
@@ -17489,6 +17505,14 @@
       "onboard_time": 1740162311,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 53333,
+      "num": 66963,
+      "word": "吒儿执着于美颜但审美一言难尽",
+      "onboard_time": 1740178813,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 52932,
@@ -17760,14 +17784,6 @@
       "word": "白敬亭脸上笑嘻嘻心里哭唧唧",
       "onboard_time": 1740123020,
       "rank": 17,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 48129,
-      "num": 48129,
-      "word": "温以凡妈妈人设",
-      "onboard_time": 1740168611,
-      "rank": 39,
       "category": "剧集"
     },
     {
@@ -18123,7 +18139,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 41257,
+      "raw_hot": 41656,
       "num": 57320,
       "word": "中方回应乌克兰危机和谈",
       "onboard_time": 1740163632,
@@ -18145,14 +18161,6 @@
       "onboard_time": 1739954061,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 40732,
-      "num": 40732,
-      "word": "王昶首次回应梁王组合拆对传闻",
-      "onboard_time": 1740178813,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 40664,
@@ -18211,6 +18219,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 39949,
+      "num": 41325,
+      "word": "孙颖莎发球失误没忍住笑场",
+      "onboard_time": 1740180554,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 39633,
       "num": 385347,
       "word": "王曼昱亚洲杯两连胜",
@@ -18225,14 +18241,6 @@
       "onboard_time": 1740113961,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 39380,
-      "num": 39380,
-      "word": "吒儿执着于美颜但审美一言难尽",
-      "onboard_time": 1740178813,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 38934,
@@ -18288,6 +18296,14 @@
       "word": "美客机加拿大降落时侧翻至少17伤",
       "onboard_time": 1739899874,
       "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 38078,
+      "num": 50553,
+      "word": "美国国税局将解雇约6000名员工",
+      "onboard_time": 1740166032,
+      "rank": 9,
       "category": "国际时政"
     },
     {
@@ -18401,6 +18417,14 @@
       "onboard_time": 1739954961,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 36429,
+      "num": 41309,
+      "word": "以色列爆炸现场有多枚爆炸装置",
+      "onboard_time": 1740167232,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 36225,
@@ -18545,14 +18569,6 @@
       "onboard_time": 1739724076,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33898,
-      "num": 39372,
-      "word": "以色列爆炸现场有多枚爆炸装置",
-      "onboard_time": 1740167232,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 33727,
@@ -18753,14 +18769,6 @@
       "onboard_time": 1739989091,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 28639,
-      "num": 50553,
-      "word": "美国国税局将解雇约6000名员工",
-      "onboard_time": 1740166032,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 28605,
@@ -19483,6 +19491,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 19696,
+      "num": 66499,
+      "word": "中国国乒2月22日亚洲杯赛程",
+      "onboard_time": 1740180375,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 19631,
       "num": 272049,
       "word": "杭州凭什么孕育出全球顶尖AI企业",
@@ -19713,6 +19729,14 @@
       "onboard_time": 1739953760,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 15411,
+      "num": 66675,
+      "word": "U20国足门票秒售罄",
+      "onboard_time": 1740180375,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 15009,
