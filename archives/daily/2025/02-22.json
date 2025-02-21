@@ -1,6 +1,6 @@
 {
   "startTime": 1740155309204,
-  "endTime": 1740166552283,
+  "endTime": 1740169448301,
   "band_list": [
     {
       "raw_hot": 1334865,
@@ -395,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80311,
+      "num": 49981,
+      "word": "前女友力挺法老",
+      "onboard_time": 1740164232,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75361,
       "num": 75361,
       "word": "黄炎带娃",
@@ -427,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55230,
+      "num": 55230,
+      "word": "DeepSeek上线数据局人员称应该不会失业",
+      "onboard_time": 1740163752,
+      "rank": 12,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 53470,
       "num": 53470,
       "word": "IU朴宝剑新剧3月上线",
@@ -441,22 +457,6 @@
       "onboard_time": 1740151518,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 50787,
-      "num": 50787,
-      "word": "DeepSeek上线数据局人员称应该不会失业",
-      "onboard_time": 1740163752,
-      "rank": 12,
-      "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 49981,
-      "num": 49981,
-      "word": "前女友力挺法老",
-      "onboard_time": 1740164232,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 39636,
@@ -531,6 +531,38 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 19014,
+      "num": 19014,
+      "word": "以色列爆炸现场有多枚爆炸装置",
+      "onboard_time": 1740167232,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 18408,
+      "num": 50553,
+      "word": "美国国税局将解雇约6000名员工",
+      "onboard_time": 1740166032,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 15614,
+      "num": 15614,
+      "word": "马斯克说普京买不起我",
+      "onboard_time": 1740168671,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 14440,
+      "num": 15613,
+      "word": "性骚扰不该成为流量密码",
+      "onboard_time": 1740169272,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 13937,
       "num": 71170,
       "word": "中泰缅雷霆式合作打击网赌电诈",
@@ -555,12 +587,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 9665,
-      "num": 50553,
-      "word": "美国国税局将解雇约6000名员工",
-      "onboard_time": 1740166032,
+      "raw_hot": 10028,
+      "num": 36246,
+      "word": "余华英案有4名人民陪审员参审",
+      "onboard_time": 1740167951,
       "rank": 9,
-      "category": "国际时政"
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

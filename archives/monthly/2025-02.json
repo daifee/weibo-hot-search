@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740166552283,
+  "endTime": 1740169448301,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -54707,6 +54707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80311,
+      "num": 49981,
+      "word": "前女友力挺法老",
+      "onboard_time": 1740164232,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80286,
       "num": 230150,
       "word": "孙颖莎我爱你响彻整个体育馆",
@@ -58307,6 +58315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 55230,
+      "num": 55230,
+      "word": "DeepSeek上线数据局人员称应该不会失业",
+      "onboard_time": 1740163752,
+      "rank": 12,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 55153,
       "num": 381345,
       "word": "胡锡进问DeepSeek会不会抢饭碗",
@@ -59163,14 +59179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 50787,
-      "num": 50787,
-      "word": "DeepSeek上线数据局人员称应该不会失业",
-      "onboard_time": 1740163752,
-      "rank": 12,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 50775,
       "num": 50775,
       "word": "10岁女孩看哪吒2后决心捐髓救父",
@@ -59273,14 +59281,6 @@
       "onboard_time": 1740093136,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 49981,
-      "num": 49981,
-      "word": "前女友力挺法老",
-      "onboard_time": 1740164232,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 49976,
@@ -65035,6 +65035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 19014,
+      "num": 19014,
+      "word": "以色列爆炸现场有多枚爆炸装置",
+      "onboard_time": 1740167232,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 19010,
       "num": 416962,
       "word": "东风股份东风科技一字涨停",
@@ -65153,6 +65161,14 @@
       "onboard_time": 1739531241,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18408,
+      "num": 50553,
+      "word": "美国国税局将解雇约6000名员工",
+      "onboard_time": 1740166032,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 18219,
@@ -65499,6 +65515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 15614,
+      "num": 15614,
+      "word": "马斯克说普京买不起我",
+      "onboard_time": 1740168671,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 15596,
       "num": 30344,
       "word": "感觉已经在驭猪飞行了",
@@ -65793,6 +65817,14 @@
       "onboard_time": 1738944260,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 14440,
+      "num": 15613,
+      "word": "性骚扰不该成为流量密码",
+      "onboard_time": 1740169272,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 14357,
@@ -66699,6 +66731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 10028,
+      "num": 36246,
+      "word": "余华英案有4名人民陪审员参审",
+      "onboard_time": 1740167951,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 10001,
       "num": 23375,
       "word": "当90后00后插手汤圆的形象",
@@ -66825,14 +66865,6 @@
       "onboard_time": 1739197642,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 9665,
-      "num": 50553,
-      "word": "美国国税局将解雇约6000名员工",
-      "onboard_time": 1740166032,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 9629,
