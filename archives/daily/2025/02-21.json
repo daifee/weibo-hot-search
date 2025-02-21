@@ -1,6 +1,6 @@
 {
   "startTime": 1740069014077,
-  "endTime": 1740113032436,
+  "endTime": 1740115310117,
   "band_list": [
     {
       "raw_hot": 6060617,
@@ -32,6 +32,14 @@
       "word": "民警建议家里不要安装摄像头",
       "onboard_time": 1740109160,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1835915,
+      "num": 409589,
+      "word": "女子上公厕染上诺如病毒",
+      "onboard_time": 1740111802,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -107,6 +115,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1142141,
+      "num": 1142141,
+      "word": "余承恩告状姐姐和男友在家接吻",
+      "onboard_time": 1740113421,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1100766,
       "num": 1100766,
       "word": "deepseek一两分钟干了我一两天的活",
@@ -121,6 +137,22 @@
       "onboard_time": 1740064224,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 875880,
+      "num": 875880,
+      "word": "霸总们为王心凌拼了",
+      "onboard_time": 1740111322,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 808222,
+      "num": 394362,
+      "word": "六姊妹刚拍的全家福成遗照",
+      "onboard_time": 1740112282,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 807740,
@@ -147,6 +179,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 752321,
+      "num": 353381,
+      "word": "董力夫妻综艺拿了杨子的剧本吧",
+      "onboard_time": 1740113362,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 729058,
+      "num": 341919,
+      "word": "难哄 男女主各演各的",
+      "onboard_time": 1740113544,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 707162,
       "num": 418664,
       "word": "刘涛坐宋佳腿上说话",
@@ -161,14 +209,6 @@
       "onboard_time": 1740109401,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 677883,
-      "num": 449866,
-      "word": "霸总们为王心凌拼了",
-      "onboard_time": 1740111322,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 637670,
@@ -211,12 +251,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 560219,
-      "num": 409589,
-      "word": "女子上公厕染上诺如病毒",
-      "onboard_time": 1740111802,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 559488,
+      "num": 559488,
+      "word": "山东大学停招27个专业",
+      "onboard_time": 1740111322,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 549364,
@@ -243,6 +283,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 492965,
+      "num": 300198,
+      "word": "难哄 恶趣味",
+      "onboard_time": 1740114501,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 490727,
+      "num": 295756,
+      "word": "白敬亭 颜值巅峰",
+      "onboard_time": 1740114082,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 489485,
       "num": 525159,
       "word": "夫妻在赌博诈骗和投案之间选择了自杀",
@@ -257,14 +313,6 @@
       "onboard_time": 1740098300,
       "rank": 8,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 457046,
-      "num": 394362,
-      "word": "六姊妹刚拍的全家福成遗照",
-      "onboard_time": 1740112282,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 449391,
@@ -395,6 +443,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 319482,
+      "num": 319482,
+      "word": "美国反对称俄为侵略者",
+      "onboard_time": 1740109879,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 300960,
+      "num": 300960,
+      "word": "7旬老太网恋1个月被骗111万",
+      "onboard_time": 1740113002,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 300274,
       "num": 307000,
       "word": "陈丽君2024中国妇女时代人物",
@@ -419,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 290496,
+      "num": 290496,
+      "word": "问DeepSeek最帅的动漫人物是谁",
+      "onboard_time": 1740112641,
+      "rank": 43,
+      "category": "动漫,互联网"
+    },
+    {
       "raw_hot": 285762,
       "num": 285762,
       "word": "河南一彩民花12元中了691万",
@@ -433,14 +505,6 @@
       "onboard_time": 1740111920,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 270913,
-      "num": 270913,
-      "word": "山东大学停招27个专业",
-      "onboard_time": 1740111322,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 268186,
@@ -531,6 +595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 226729,
+      "num": 285239,
+      "word": "以为是看病结果是看脸",
+      "onboard_time": 1740114141,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 224656,
       "num": 224656,
       "word": "张凌赫保镖接错人",
@@ -555,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220105,
+      "num": 220105,
+      "word": "阴阳师",
+      "onboard_time": 1740112822,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 220053,
       "num": 209392,
       "word": "富国岛偶遇黄景瑜",
@@ -571,6 +651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212762,
+      "num": 212762,
+      "word": "妻子的浪漫旅行开播",
+      "onboard_time": 1740113661,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211840,
       "num": 211840,
       "word": "万渣朝凰",
@@ -585,14 +673,6 @@
       "onboard_time": 1740045861,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 206235,
-      "num": 206235,
-      "word": "阴阳师",
-      "onboard_time": 1740112822,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 205842,
@@ -699,6 +779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190873,
+      "num": 454130,
+      "word": "女演员称未成年时被郑某峰强行舌吻",
+      "onboard_time": 1740112462,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189180,
       "num": 189180,
       "word": "宋佳获年度女主角",
@@ -729,14 +817,6 @@
       "onboard_time": 1740087431,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 185089,
-      "num": 185089,
-      "word": "问DeepSeek最帅的动漫人物是谁",
-      "onboard_time": 1740112641,
-      "rank": 43,
-      "category": "动漫,互联网"
     },
     {
       "raw_hot": 184056,
@@ -787,14 +867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 173867,
-      "num": 173867,
-      "word": "7旬老太网恋1个月被骗111万",
-      "onboard_time": 1740113002,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 172584,
       "num": 172584,
       "word": "A股",
@@ -817,6 +889,14 @@
       "onboard_time": 1740100818,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166926,
+      "num": 166926,
+      "word": "舒淇易烊千玺 狂野时代",
+      "onboard_time": 1740114981,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 166899,
@@ -899,6 +979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154167,
+      "num": 154167,
+      "word": "国乒亚洲杯21日赛程表",
+      "onboard_time": 1740114261,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152812,
       "num": 152812,
       "word": "制作人员做无量仙翁时以为是好人",
@@ -931,20 +1019,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 147629,
-      "num": 147629,
-      "word": "美国反对称俄为侵略者",
-      "onboard_time": 1740109879,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 145598,
       "num": 145598,
       "word": "蔡徐坤妆容",
       "onboard_time": 1740065902,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144909,
+      "num": 144909,
+      "word": "孙颖莎小组赛一局没丢",
+      "onboard_time": 1740114741,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 138235,
@@ -1347,6 +1435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39392,
+      "num": 178234,
+      "word": "有童星因郑某峰骚扰放弃演艺梦想",
+      "onboard_time": 1740113961,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 36694,
       "num": 155382,
       "word": "中国智造已经是NextLevel",
@@ -1395,14 +1491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 27012,
-      "num": 454130,
-      "word": "女演员称未成年时被郑某峰强行舌吻",
-      "onboard_time": 1740112462,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 25917,
       "num": 25917,
       "word": "普京幽默回应何时与普京见面",
@@ -1433,6 +1521,14 @@
       "onboard_time": 1740075732,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 23052,
+      "num": 284619,
+      "word": "哭是中年人解压性价比最高的方式",
+      "onboard_time": 1740114441,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22591,

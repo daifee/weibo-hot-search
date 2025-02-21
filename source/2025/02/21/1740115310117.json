@@ -1,0 +1,410 @@
+{
+  "runTime": 1740115310117,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1902809,
+        "num": 1902809,
+        "word": "民警建议家里不要安装摄像头",
+        "onboard_time": 1740109160,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1394148,
+        "num": 1394148,
+        "word": "DeepSeek回答要不要买房",
+        "onboard_time": 1740108680,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 39619,
+        "num": 1236220,
+        "word": "e法黔行",
+        "onboard_time": 1740108860,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1176569,
+        "num": 1176569,
+        "word": "张艺上单身",
+        "onboard_time": 1740110479,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1142141,
+        "num": 1142141,
+        "word": "余承恩告状姐姐和男友在家接吻",
+        "onboard_time": 1740113421,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1061235,
+        "num": 1061235,
+        "word": "特朗普恢复死刑",
+        "onboard_time": 1740102440,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 934966,
+        "num": 934966,
+        "word": "周深四首歌被纳入九年义务教育教材",
+        "onboard_time": 1740108200,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 875880,
+        "num": 875880,
+        "word": "霸总们为王心凌拼了",
+        "onboard_time": 1740111322,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 559488,
+        "num": 559488,
+        "word": "山东大学停招27个专业",
+        "onboard_time": 1740111322,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 371741,
+        "num": 371741,
+        "word": "母亲去世后亲弟侵吞聋哑哥哥退休金",
+        "onboard_time": 1740100760,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1844880,
+        "num": 369946,
+        "word": "黄景瑜 张艺上",
+        "onboard_time": 1740099919,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1835915,
+        "num": 363008,
+        "word": "女子上公厕染上诺如病毒",
+        "onboard_time": 1740111802,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 808222,
+        "num": 359815,
+        "word": "六姊妹刚拍的全家福成遗照",
+        "onboard_time": 1740112282,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 752321,
+        "num": 353381,
+        "word": "董力夫妻综艺拿了杨子的剧本吧",
+        "onboard_time": 1740113362,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186538,
+        "num": 343160,
+        "word": "男子时隔6年回老家发现老猫还在守家",
+        "onboard_time": 1740111744,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 729058,
+        "num": 341919,
+        "word": "难哄 男女主各演各的",
+        "onboard_time": 1740113544,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 629222,
+        "num": 335929,
+        "word": "哪吒2冲击全球影史前三",
+        "onboard_time": 1740100520,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 331152,
+        "num": 331152,
+        "word": "有骑手抵触缴纳社保",
+        "onboard_time": 1740105200,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319482,
+        "num": 319482,
+        "word": "美国反对称俄为侵略者",
+        "onboard_time": 1740109879,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 300960,
+        "num": 300960,
+        "word": "7旬老太网恋1个月被骗111万",
+        "onboard_time": 1740113002,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 492965,
+        "num": 300198,
+        "word": "难哄 恶趣味",
+        "onboard_time": 1740114501,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 490727,
+        "num": 295756,
+        "word": "白敬亭 颜值巅峰",
+        "onboard_time": 1740114082,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 487983,
+        "num": 293511,
+        "word": "黄景瑜 女朋友",
+        "onboard_time": 1740064343,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 457677,
+        "num": 292878,
+        "word": "七仙女饰演者称被郑某峰搂抱亲脸",
+        "onboard_time": 1740104720,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290496,
+        "num": 290496,
+        "word": "问DeepSeek最帅的动漫人物是谁",
+        "onboard_time": 1740112641,
+        "rank": 24,
+        "category": "动漫,互联网"
+      },
+      {
+        "raw_hot": 443072,
+        "num": 290333,
+        "word": "陈凯歌章子怡的耐心都给了张亮",
+        "onboard_time": 1740109401,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378788,
+        "num": 288177,
+        "word": "阿奴还没变我已经老了",
+        "onboard_time": 1740105559,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361354,
+        "num": 287325,
+        "word": "黄杨钿甜拜了艺考之神董思成",
+        "onboard_time": 1740111020,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226729,
+        "num": 285239,
+        "word": "以为是看病结果是看脸",
+        "onboard_time": 1740114141,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23052,
+        "num": 284619,
+        "word": "哭是中年人解压性价比最高的方式",
+        "onboard_time": 1740114441,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283862,
+        "num": 283862,
+        "word": "16岁女生背着父母签下10年主播合约",
+        "onboard_time": 1740102440,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307237,
+        "num": 270143,
+        "word": "我家敖丙可以考公吗",
+        "onboard_time": 1740108559,
+        "rank": 31,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 244758,
+        "num": 244758,
+        "word": "难哄",
+        "onboard_time": 1740112222,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234874,
+        "num": 234874,
+        "word": "女子怀孕5个月被诊所当妇科病治疗",
+        "onboard_time": 1740064224,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233687,
+        "num": 233687,
+        "word": "外国人不喜欢哪吒不代表不喜欢中国",
+        "onboard_time": 1740112402,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 220105,
+        "num": 220105,
+        "word": "阴阳师",
+        "onboard_time": 1740112822,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 212762,
+        "num": 212762,
+        "word": "妻子的浪漫旅行开播",
+        "onboard_time": 1740113661,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211362,
+        "num": 211362,
+        "word": "孙颖莎vs穆罕默德",
+        "onboard_time": 1740111382,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209001,
+        "num": 209001,
+        "word": "苗苗共情力好强",
+        "onboard_time": 1740108080,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190873,
+        "num": 190873,
+        "word": "女演员称未成年时被郑某峰强行舌吻",
+        "onboard_time": 1740112462,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182149,
+        "num": 182149,
+        "word": "医生提醒挖鼻孔或诱发颅内感染",
+        "onboard_time": 1740105080,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 181612,
+        "num": 181612,
+        "word": "泽连斯基称乌军爱国者导弹已耗尽",
+        "onboard_time": 1740109700,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39392,
+        "num": 178234,
+        "word": "有童星因郑某峰骚扰放弃演艺梦想",
+        "onboard_time": 1740113961,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176950,
+        "num": 176950,
+        "word": "网红退钱哥加盟中冠新疆球队",
+        "onboard_time": 1740111920,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173490,
+        "num": 173490,
+        "word": "LESSERAFIM不死",
+        "onboard_time": 1740111561,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170370,
+        "num": 170370,
+        "word": "网友晒苏州28元一颗花生冰淇淋",
+        "onboard_time": 1740107120,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 166926,
+        "num": 166926,
+        "word": "舒淇易烊千玺 狂野时代",
+        "onboard_time": 1740114981,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160043,
+        "num": 160043,
+        "word": "赵露思广告大片",
+        "onboard_time": 1740107000,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 154167,
+        "num": 154167,
+        "word": "国乒亚洲杯21日赛程表",
+        "onboard_time": 1740114261,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144909,
+        "num": 144909,
+        "word": "孙颖莎小组赛一局没丢",
+        "onboard_time": 1740114741,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的科技情怀#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1740113032436,
+  "endTime": 1740115310117,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -496,6 +496,14 @@
       "word": "老人花一辈子积蓄全款买房被查封",
       "onboard_time": 1739950641,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1835915,
+      "num": 409589,
+      "word": "女子上公厕染上诺如病毒",
+      "onboard_time": 1740111802,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -1227,6 +1235,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1142141,
+      "num": 1142141,
+      "word": "余承恩告状姐姐和男友在家接吻",
+      "onboard_time": 1740113421,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1139501,
       "num": 610039,
       "word": "被房东多次猥亵女子男友发声",
@@ -1795,6 +1811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 875880,
+      "num": 875880,
+      "word": "霸总们为王心凌拼了",
+      "onboard_time": 1740111322,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 868423,
       "num": 489441,
       "word": "佘诗曼被问王大陆逃兵役被抓的反应",
@@ -2027,6 +2051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 808222,
+      "num": 394362,
+      "word": "六姊妹刚拍的全家福成遗照",
+      "onboard_time": 1740112282,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 807740,
       "num": 807740,
       "word": "医生提醒挖鼻孔或诱发颅内感染",
@@ -2235,6 +2267,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 752321,
+      "num": 353381,
+      "word": "董力夫妻综艺拿了杨子的剧本吧",
+      "onboard_time": 1740113362,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 750935,
       "num": 413428,
       "word": "试管夫妻丈夫中途去世医院拒移植",
@@ -2289,6 +2329,14 @@
       "onboard_time": 1739836278,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 729058,
+      "num": 341919,
+      "word": "难哄 男女主各演各的",
+      "onboard_time": 1740113544,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 729007,
@@ -2465,14 +2513,6 @@
       "onboard_time": 1739753841,
       "rank": 5,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 677883,
-      "num": 449866,
-      "word": "霸总们为王心凌拼了",
-      "onboard_time": 1740111322,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 674809,
@@ -3067,20 +3107,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 560219,
-      "num": 409589,
-      "word": "女子上公厕染上诺如病毒",
-      "onboard_time": 1740111802,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 559692,
       "num": 470078,
       "word": "难哄cp海报是两种爱情",
       "onboard_time": 1739761638,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 559488,
+      "num": 559488,
+      "word": "山东大学停招27个专业",
+      "onboard_time": 1740111322,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 558034,
@@ -3491,12 +3531,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 492965,
+      "num": 300198,
+      "word": "难哄 恶趣味",
+      "onboard_time": 1740114501,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 492138,
       "num": 449313,
       "word": "陈天润黄杨钿甜参加中传艺考",
       "onboard_time": 1739952261,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 490727,
+      "num": 295756,
+      "word": "白敬亭 颜值巅峰",
+      "onboard_time": 1740114082,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 490364,
@@ -3809,14 +3865,6 @@
       "onboard_time": 1740098300,
       "rank": 8,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 457046,
-      "num": 394362,
-      "word": "六姊妹刚拍的全家福成遗照",
-      "onboard_time": 1740112282,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 456736,
@@ -5435,6 +5483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 319482,
+      "num": 319482,
+      "word": "美国反对称俄为侵略者",
+      "onboard_time": 1740109879,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 318105,
       "num": 318105,
       "word": "郭艾伦受伤过程",
@@ -5659,6 +5715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 300960,
+      "num": 300960,
+      "word": "7旬老太网恋1个月被骗111万",
+      "onboard_time": 1740113002,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 300664,
       "num": 729842,
       "word": "库里全明星MVP",
@@ -5833,6 +5897,14 @@
       "onboard_time": 1739977643,
       "rank": 10,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 290496,
+      "num": 290496,
+      "word": "问DeepSeek最帅的动漫人物是谁",
+      "onboard_time": 1740112641,
+      "rank": 43,
+      "category": "动漫,互联网"
     },
     {
       "raw_hot": 290311,
@@ -6193,14 +6265,6 @@
       "onboard_time": 1739969660,
       "rank": 38,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 270913,
-      "num": 270913,
-      "word": "山东大学停招27个专业",
-      "onboard_time": 1740111322,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 270797,
@@ -7363,6 +7427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226729,
+      "num": 285239,
+      "word": "以为是看病结果是看脸",
+      "onboard_time": 1740114141,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 226480,
       "num": 226480,
       "word": "六姊妹",
@@ -7593,6 +7665,14 @@
       "onboard_time": 1740069018,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220105,
+      "num": 280606,
+      "word": "阴阳师",
+      "onboard_time": 1739777541,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 219857,
@@ -7923,6 +8003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212762,
+      "num": 212762,
+      "word": "妻子的浪漫旅行开播",
+      "onboard_time": 1740113661,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212659,
       "num": 212659,
       "word": "iPhone全面放弃home键",
@@ -7937,14 +8025,6 @@
       "onboard_time": 1739873062,
       "rank": 20,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 212423,
-      "num": 280606,
-      "word": "阴阳师",
-      "onboard_time": 1739777541,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 212379,
@@ -9267,6 +9347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190873,
+      "num": 454130,
+      "word": "女演员称未成年时被郑某峰强行舌吻",
+      "onboard_time": 1740112462,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190688,
       "num": 190688,
       "word": "藕饼跳舞",
@@ -9569,14 +9657,6 @@
       "onboard_time": 1739931260,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 185089,
-      "num": 185089,
-      "word": "问DeepSeek最帅的动漫人物是谁",
-      "onboard_time": 1740112641,
-      "rank": 43,
-      "category": "动漫,互联网"
     },
     {
       "raw_hot": 184720,
@@ -10083,14 +10163,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 173867,
-      "num": 173867,
-      "word": "7旬老太网恋1个月被骗111万",
-      "onboard_time": 1740113002,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 173862,
       "num": 396729,
       "word": "北京中小学体育八条",
@@ -10488,6 +10560,14 @@
       "word": "陈思诚说拍唐探1900不是为了讨好",
       "onboard_time": 1739876721,
       "rank": 19,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 166926,
+      "num": 166926,
+      "word": "舒淇易烊千玺 狂野时代",
+      "onboard_time": 1740114981,
+      "rank": 46,
       "category": "电影"
     },
     {
@@ -11211,6 +11291,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 154167,
+      "num": 154167,
+      "word": "国乒亚洲杯21日赛程表",
+      "onboard_time": 1740114261,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154029,
       "num": 154029,
       "word": "吴宣仪浪姐6初舞台造型",
@@ -11547,14 +11635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 147629,
-      "num": 147629,
-      "word": "美国反对称俄为侵略者",
-      "onboard_time": 1740109879,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 147580,
       "num": 144854,
       "word": "谢娜李维嘉杜海涛熟人局就是敢说",
@@ -11705,6 +11785,14 @@
       "onboard_time": 1739945901,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144909,
+      "num": 144909,
+      "word": "孙颖莎小组赛一局没丢",
+      "onboard_time": 1740114741,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 144889,
@@ -16027,6 +16115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39392,
+      "num": 178234,
+      "word": "有童星因郑某峰骚扰放弃演艺梦想",
+      "onboard_time": 1740113961,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 38934,
       "num": 282298,
       "word": "鹿童鹤童美貌坏蛋",
@@ -16531,14 +16627,6 @@
       "category": "电影,民生新闻"
     },
     {
-      "raw_hot": 27012,
-      "num": 454130,
-      "word": "女演员称未成年时被郑某峰强行舌吻",
-      "onboard_time": 1740112462,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 26844,
       "num": 140372,
       "word": "胡歌聊这几年的心理变化",
@@ -16761,6 +16849,14 @@
       "onboard_time": 1739825230,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 23052,
+      "num": 284619,
+      "word": "哭是中年人解压性价比最高的方式",
+      "onboard_time": 1740114441,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22961,
