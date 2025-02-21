@@ -1,6 +1,6 @@
 {
   "startTime": 1740069014077,
-  "endTime": 1740120256971,
+  "endTime": 1740122513532,
   "band_list": [
     {
       "raw_hot": 6060617,
@@ -43,12 +43,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1859476,
+      "num": 1859476,
+      "word": "DeepSeek评中国最宜居城市",
+      "onboard_time": 1740118279,
+      "rank": 5,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 1835915,
       "num": 626014,
       "word": "女子上公厕染上诺如病毒",
       "onboard_time": 1740111802,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1711919,
+      "num": 1711919,
+      "word": "难哄删除争议镜头",
+      "onboard_time": 1740120380,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 1700926,
@@ -123,14 +139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1294289,
-      "num": 1294289,
-      "word": "DeepSeek评中国最宜居城市",
-      "onboard_time": 1740118279,
-      "rank": 5,
-      "category": "互联网,民生新闻"
-    },
-    {
       "raw_hot": 1177865,
       "num": 1177865,
       "word": "阿奴还没变我已经老了",
@@ -177,6 +185,14 @@
       "onboard_time": 1740111322,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 860635,
+      "num": 860635,
+      "word": "车辆全损父母却无大碍女子跪谢爱车",
+      "onboard_time": 1740118941,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 808222,
@@ -323,6 +339,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 537373,
+      "num": 708684,
+      "word": "女子偷窃求助deepseek如何免责",
+      "onboard_time": 1740117860,
+      "rank": 13,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 510861,
       "num": 459365,
       "word": "白敬亭 颜值巅峰",
@@ -345,14 +369,6 @@
       "onboard_time": 1740101238,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 483721,
-      "num": 708684,
-      "word": "女子偷窃求助deepseek如何免责",
-      "onboard_time": 1740117860,
-      "rank": 13,
-      "category": "互联网"
     },
     {
       "raw_hot": 458146,
@@ -435,6 +451,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 381103,
+      "num": 381103,
+      "word": "27岁留学博士被控在英性侵10名女性",
+      "onboard_time": 1740120619,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 376860,
       "num": 710773,
       "word": "问DeepSeek最帅的动漫人物是谁",
@@ -456,6 +480,14 @@
       "word": "檀健次说再不拍猎罪3我就老了",
       "onboard_time": 1740063503,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 351379,
+      "num": 351379,
+      "word": "六姊妹妻子入狱丈夫一夜白头",
+      "onboard_time": 1740120080,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -571,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 282783,
+      "num": 282783,
+      "word": "卢靖姗把煎饼认成抽纸",
+      "onboard_time": 1740121398,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 276678,
       "num": 276678,
       "word": "网红退钱哥加盟中冠新疆球队",
@@ -601,6 +641,14 @@
       "onboard_time": 1740115640,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 268236,
+      "num": 268236,
+      "word": "婆婆连续13年每天给儿媳送饭",
+      "onboard_time": 1740120619,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 268186,
@@ -657,6 +705,14 @@
       "onboard_time": 1740053839,
       "rank": 9,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 248801,
+      "num": 248801,
+      "word": "弱化女主",
+      "onboard_time": 1740120859,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 245859,
@@ -723,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 224004,
+      "num": 224004,
+      "word": "女子盗窃后问DeepSeek怎样免责",
+      "onboard_time": 1740121040,
+      "rank": 33,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 223894,
       "num": 533450,
       "word": "肖战确认受邀参加2025米兰时装周",
@@ -779,6 +843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211409,
+      "num": 477818,
+      "word": "70岁房东猥亵女租客事件双方和解",
+      "onboard_time": 1740119300,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 211173,
       "num": 211173,
       "word": "郭艾伦谈捅伤自己的队友事后态度",
@@ -793,14 +865,6 @@
       "onboard_time": 1740114981,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 206046,
-      "num": 483508,
-      "word": "车辆全损父母却无大碍女子跪谢爱车",
-      "onboard_time": 1740118941,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 205842,
@@ -947,6 +1011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187004,
+      "num": 182833,
+      "word": "难哄导演",
+      "onboard_time": 1740120859,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185680,
       "num": 185680,
       "word": "马库斯说照片在中国比在行李箱里好",
@@ -963,12 +1035,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182864,
+      "num": 182864,
+      "word": "邓为回应撩裙摆出圈",
+      "onboard_time": 1740121759,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182801,
       "num": 182801,
       "word": "张晚意新剧卷发异域少年郎造型",
       "onboard_time": 1740119120,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182740,
+      "num": 182740,
+      "word": "我国自研AS700D载人飞艇首次科研试飞",
+      "onboard_time": 1740120440,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180609,
@@ -1083,12 +1171,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 165044,
+      "num": 204998,
+      "word": "乌克兰准备与美国签署稀土资源协议",
+      "onboard_time": 1740120619,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 164437,
       "num": 164437,
       "word": "乌克兰",
       "onboard_time": 1740056301,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 163883,
+      "num": 163883,
+      "word": "房东猥亵女子后家属仅愿赔千余元",
+      "onboard_time": 1740121160,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162639,
@@ -1121,6 +1225,14 @@
       "onboard_time": 1740111201,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 156679,
+      "num": 156679,
+      "word": "董力阿诺比利时领证",
+      "onboard_time": 1740122418,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 156356,
@@ -1227,14 +1339,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 137267,
-      "num": 209502,
-      "word": "六姊妹妻子入狱丈夫一夜白头",
-      "onboard_time": 1740120080,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 136469,
       "num": 198275,
       "word": "于正官宣玉茗茶骨演员",
@@ -1297,6 +1401,14 @@
       "onboard_time": 1740044721,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124267,
+      "num": 177312,
+      "word": "大学老师谈爱情唯一性",
+      "onboard_time": 1740120978,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 123472,
@@ -1427,6 +1539,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 96855,
+      "num": 278572,
+      "word": "夏以昼我们的夏天没有尽头",
+      "onboard_time": 1740122061,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 95996,
       "num": 95996,
       "word": "89岁王德顺携妻看哪吒2",
@@ -1539,14 +1659,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 81350,
-      "num": 477818,
-      "word": "70岁房东猥亵女租客事件双方和解",
-      "onboard_time": 1740119300,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 79480,
       "num": 79480,
       "word": "80后死亡率5.2%是假消息",
@@ -1593,6 +1705,14 @@
       "onboard_time": 1740107479,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 62497,
+      "num": 270078,
+      "word": "为什么不能挖鼻孔",
+      "onboard_time": 1740121999,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 57091,
@@ -1651,6 +1771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 48576,
+      "num": 273970,
+      "word": "醉酒男子跌落3米水井隔天才被发现",
+      "onboard_time": 1740121821,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47719,
       "num": 479188,
       "word": "花样年华最美的be诞生了",
@@ -1680,6 +1808,14 @@
       "word": "e法黔行",
       "onboard_time": 1740108860,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42435,
+      "num": 444776,
+      "word": "法国小伙讲述日军在华屠杀暴行",
+      "onboard_time": 1740121460,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1723,6 +1859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32860,
+      "num": 469743,
+      "word": "菲方飞机带外国记者闯入黄岩岛",
+      "onboard_time": 1740121759,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 32296,
       "num": 132232,
       "word": "华农回应近50名学生疑遭二房东骗租",
@@ -1760,6 +1904,14 @@
       "word": "1000余妙瓦底中国籍电诈嫌犯被抓",
       "onboard_time": 1740078251,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27118,
+      "num": 355851,
+      "word": "挥拍类运动的好处被低估了",
+      "onboard_time": 1740121942,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1835,12 +1987,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 19176,
+      "num": 445127,
+      "word": "金价大涨滋生多种新型诈骗",
+      "onboard_time": 1740121942,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14763,
+      "num": 275508,
+      "word": "四川一景点因游客大叫妈呀得名妈妈崖",
+      "onboard_time": 1740122120,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14552,
       "num": 42948,
       "word": "导演郑某峰涉猥亵儿童前员工发声",
       "onboard_time": 1740082570,
       "rank": 9,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 14450,
+      "num": 270678,
+      "word": "张丽娜嘉人三月刊封面",
+      "onboard_time": 1740121879,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 13855,

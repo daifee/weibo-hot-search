@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740120256971,
+  "endTime": 1740122513532,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1675,6 +1675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1859476,
+      "num": 1859476,
+      "word": "DeepSeek评中国最宜居城市",
+      "onboard_time": 1740118279,
+      "rank": 5,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 1856441,
       "num": 1856441,
       "word": "哪吒2冲顶全球动画榜",
@@ -2009,6 +2017,14 @@
       "onboard_time": 1739624600,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1711919,
+      "num": 1711919,
+      "word": "难哄删除争议镜头",
+      "onboard_time": 1740120380,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 1710243,
@@ -3337,14 +3353,6 @@
       "onboard_time": 1738810943,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1294289,
-      "num": 1294289,
-      "word": "DeepSeek评中国最宜居城市",
-      "onboard_time": 1740118279,
-      "rank": 5,
-      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 1293657,
@@ -6185,6 +6193,14 @@
       "onboard_time": 1739755459,
       "rank": 30,
       "category": "电影,美妆"
+    },
+    {
+      "raw_hot": 860635,
+      "num": 860635,
+      "word": "车辆全损父母却无大碍女子跪谢爱车",
+      "onboard_time": 1740118941,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 860631,
@@ -11107,6 +11123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 537373,
+      "num": 708684,
+      "word": "女子偷窃求助deepseek如何免责",
+      "onboard_time": 1740117860,
+      "rank": 13,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 537034,
       "num": 537034,
       "word": "终于有全女性家族的国产剧了",
@@ -12513,14 +12537,6 @@
       "onboard_time": 1738649722,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 483721,
-      "num": 708684,
-      "word": "女子偷窃求助deepseek如何免责",
-      "onboard_time": 1740117860,
-      "rank": 13,
-      "category": "互联网"
     },
     {
       "raw_hot": 483307,
@@ -15755,6 +15771,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 381103,
+      "num": 381103,
+      "word": "27岁留学博士被控在英性侵10名女性",
+      "onboard_time": 1740120619,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 381027,
       "num": 381027,
       "word": "王楚钦3比0卡尔伯格",
@@ -16921,6 +16945,14 @@
       "onboard_time": 1738419140,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 351379,
+      "num": 351379,
+      "word": "六姊妹妻子入狱丈夫一夜白头",
+      "onboard_time": 1740120080,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 351241,
@@ -20715,6 +20747,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 282783,
+      "num": 282783,
+      "word": "卢靖姗把煎饼认成抽纸",
+      "onboard_time": 1740121398,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 282715,
       "num": 292516,
       "word": "喝酒前吃了药一家三口被送抢救室",
@@ -21680,6 +21720,14 @@
       "word": "女子18岁被拐山区生子33年终回家",
       "onboard_time": 1739508624,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 268236,
+      "num": 268236,
+      "word": "婆婆连续13年每天给儿媳送饭",
+      "onboard_time": 1740120619,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -23329,6 +23377,14 @@
       "onboard_time": 1739505742,
       "rank": 15,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 248801,
+      "num": 248801,
+      "word": "弱化女主",
+      "onboard_time": 1740120859,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 248770,
@@ -25915,6 +25971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224004,
+      "num": 224004,
+      "word": "女子盗窃后问DeepSeek怎样免责",
+      "onboard_time": 1740121040,
+      "rank": 33,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 223954,
       "num": 223954,
       "word": "孙颖莎4比0何卓佳",
@@ -27803,6 +27867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211409,
+      "num": 477818,
+      "word": "70岁房东猥亵女租客事件双方和解",
+      "onboard_time": 1740119300,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 211214,
       "num": 187142,
       "word": "85花来给复仇剧上强度了",
@@ -28697,14 +28769,6 @@
       "onboard_time": 1738552525,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 206046,
-      "num": 483508,
-      "word": "车辆全损父母却无大碍女子跪谢爱车",
-      "onboard_time": 1740118941,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 206038,
@@ -33187,6 +33251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187004,
+      "num": 182833,
+      "word": "难哄导演",
+      "onboard_time": 1740120859,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186969,
       "num": 647006,
       "word": "三大运营商全面接入DeepSeek",
@@ -34027,6 +34099,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 182864,
+      "num": 182864,
+      "word": "邓为回应撩裙摆出圈",
+      "onboard_time": 1740121759,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182850,
       "num": 368191,
       "word": "掌心微博追剧团",
@@ -34057,6 +34137,14 @@
       "onboard_time": 1740119120,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182740,
+      "num": 182740,
+      "word": "我国自研AS700D载人飞艇首次科研试飞",
+      "onboard_time": 1740120440,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182710,
@@ -37539,6 +37627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 165044,
+      "num": 204998,
+      "word": "乌克兰准备与美国签署稀土资源协议",
+      "onboard_time": 1740120619,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 165016,
       "num": 354342,
       "word": "王一博不是挂在岩壁就是挂在冰壁",
@@ -37801,6 +37897,14 @@
       "onboard_time": 1738546579,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163883,
+      "num": 163883,
+      "word": "房东猥亵女子后家属仅愿赔千余元",
+      "onboard_time": 1740121160,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163880,
@@ -39569,6 +39673,14 @@
       "onboard_time": 1739265742,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 156679,
+      "num": 156679,
+      "word": "董力阿诺比利时领证",
+      "onboard_time": 1740122418,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 156629,
@@ -43715,14 +43827,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 137267,
-      "num": 209502,
-      "word": "六姊妹妻子入狱丈夫一夜白头",
-      "onboard_time": 1740120080,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 137233,
       "num": 185057,
       "word": "Shaoye 4396",
@@ -46337,6 +46441,14 @@
       "onboard_time": 1739076980,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124267,
+      "num": 177312,
+      "word": "大学老师谈爱情唯一性",
+      "onboard_time": 1740120978,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 124150,
@@ -51203,6 +51315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96855,
+      "num": 278572,
+      "word": "夏以昼我们的夏天没有尽头",
+      "onboard_time": 1740122061,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 96828,
       "num": 290917,
       "word": "黄杨钿甜带着野心来了",
@@ -53089,14 +53209,6 @@
       "onboard_time": 1738479617,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 81350,
-      "num": 477818,
-      "word": "70岁房东猥亵女租客事件双方和解",
-      "onboard_time": 1740119300,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 81326,
@@ -55531,6 +55643,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 62497,
+      "num": 270078,
+      "word": "为什么不能挖鼻孔",
+      "onboard_time": 1740121999,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 62492,
       "num": 117542,
       "word": "张真源雪地随拍",
@@ -57835,6 +57955,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 48576,
+      "num": 273970,
+      "word": "醉酒男子跌落3米水井隔天才被发现",
+      "onboard_time": 1740121821,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48562,
       "num": 199584,
       "word": "蒯曼生日当天夺冠",
@@ -58769,6 +58897,14 @@
       "onboard_time": 1738468458,
       "rank": 2,
       "category": "民生新闻,正能量"
+    },
+    {
+      "raw_hot": 42435,
+      "num": 444776,
+      "word": "法国小伙讲述日军在华屠杀暴行",
+      "onboard_time": 1740121460,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42391,
@@ -60395,6 +60531,14 @@
       "category": "国内时政,科学科普"
     },
     {
+      "raw_hot": 32860,
+      "num": 469743,
+      "word": "菲方飞机带外国记者闯入黄岩岛",
+      "onboard_time": 1740121759,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 32779,
       "num": 473363,
       "word": "布鲁尔金牌",
@@ -61361,6 +61505,14 @@
       "onboard_time": 1739225119,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 27118,
+      "num": 355851,
+      "word": "挥拍类运动的好处被低估了",
+      "onboard_time": 1740121942,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26900,
@@ -63027,6 +63179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 19176,
+      "num": 445127,
+      "word": "金价大涨滋生多种新型诈骗",
+      "onboard_time": 1740121942,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19171,
       "num": 249591,
       "word": "直播间里的越野车极限挑战谁来监管",
@@ -63723,6 +63883,14 @@
       "category": "教育,读书作家"
     },
     {
+      "raw_hot": 14763,
+      "num": 275508,
+      "word": "四川一景点因游客大叫妈呀得名妈妈崖",
+      "onboard_time": 1740122120,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14762,
       "num": 55942,
       "word": "2000多架无人机表演为哪吒2庆祝",
@@ -63793,6 +63961,14 @@
       "onboard_time": 1738944260,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 14450,
+      "num": 270678,
+      "word": "张丽娜嘉人三月刊封面",
+      "onboard_time": 1740121879,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 14357,
