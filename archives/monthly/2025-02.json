@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740133447451,
+  "endTime": 1740134458458,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -4027,6 +4027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1179460,
+      "num": 1179460,
+      "word": "什锦 肖战",
+      "onboard_time": 1740132081,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1178033,
       "num": 1178033,
       "word": "大年初五迎财神",
@@ -5267,14 +5275,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 977354,
-      "num": 977354,
-      "word": "什锦 肖战",
-      "onboard_time": 1740132081,
-      "rank": 1,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 977084,
       "num": 977084,
       "word": "男子回应被鲸鱼吞了又吐出来",
@@ -6345,6 +6345,14 @@
       "onboard_time": 1739760919,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 851596,
+      "num": 447656,
+      "word": "唐艺昕腰身比",
+      "onboard_time": 1740130220,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 851010,
@@ -7483,6 +7491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 749046,
+      "num": 749046,
+      "word": "难哄拍在了00后最清醒的一年",
+      "onboard_time": 1740133639,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 748145,
       "num": 365856,
       "word": "哪吒只做1",
@@ -8196,7 +8212,7 @@
     },
     {
       "raw_hot": 691398,
-      "num": 414749,
+      "num": 437936,
       "word": "黄景瑜奖杯上有张艺上名字",
       "onboard_time": 1740126200,
       "rank": 18,
@@ -8233,14 +8249,6 @@
       "onboard_time": 1739319498,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 687686,
-      "num": 447656,
-      "word": "唐艺昕腰身比",
-      "onboard_time": 1740130220,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 687025,
@@ -13281,6 +13289,14 @@
       "onboard_time": 1739402476,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 462032,
+      "num": 462032,
+      "word": "台湾文化界反问台湾的哪吒在哪",
+      "onboard_time": 1740132261,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 461653,
@@ -18603,6 +18619,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 323171,
+      "num": 379661,
+      "word": "GAI粉丝把周延写成周廷",
+      "onboard_time": 1740131000,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 323153,
       "num": 265843,
       "word": "王者荣耀1月收入达近42个月最高值",
@@ -19648,14 +19672,6 @@
       "word": "乌尔善说会把殷郊法相做得更有质感",
       "onboard_time": 1738971918,
       "rank": 18,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 303498,
-      "num": 303498,
-      "word": "台湾文化界反问台湾的哪吒在哪",
-      "onboard_time": 1740132261,
-      "rank": 17,
       "category": "电影"
     },
     {
@@ -21107,6 +21123,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 280435,
+      "num": 254777,
+      "word": "杨子也没放过李莲花",
+      "onboard_time": 1740131241,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 280346,
       "num": 248082,
       "word": "谁教李昀锐这么背包的",
@@ -22251,6 +22275,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 263721,
+      "num": 421626,
+      "word": "语文老师用DeepSeek制作随机点名系统",
+      "onboard_time": 1740132560,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 263712,
       "num": 427680,
       "word": "最高检披露油罐车运输食用油案进展",
@@ -22953,14 +22985,6 @@
       "onboard_time": 1739272761,
       "rank": 25,
       "category": "体育,美妆"
-    },
-    {
-      "raw_hot": 254777,
-      "num": 254777,
-      "word": "杨子也没放过李莲花",
-      "onboard_time": 1740131241,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 254666,
@@ -24675,6 +24699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 237371,
+      "num": 270273,
+      "word": "陈梦分享周五plog",
+      "onboard_time": 1740133160,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 237142,
       "num": 237142,
       "word": "两年前买的50g金条已赚1万元",
@@ -26161,6 +26193,14 @@
       "onboard_time": 1739913672,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 224523,
+      "num": 255346,
+      "word": "周柯宇 演技",
+      "onboard_time": 1740133820,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 224467,
@@ -27939,14 +27979,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 212405,
-      "num": 303190,
-      "word": "GAI粉丝把周延写成周廷",
-      "onboard_time": 1740131000,
-      "rank": 18,
-      "category": "演出"
-    },
-    {
       "raw_hot": 212392,
       "num": 212392,
       "word": "男子放出400斤白牦牛给亲戚看",
@@ -28145,6 +28177,14 @@
       "onboard_time": 1739600420,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211022,
+      "num": 211022,
+      "word": "光渊日本预告",
+      "onboard_time": 1740133940,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 210961,
@@ -30563,6 +30603,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 199503,
+      "num": 365236,
+      "word": "公安部门已介入水源地疑遭投毒",
+      "onboard_time": 1740133160,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199457,
       "num": 220220,
       "word": "致每一位奔赴岗位的你",
@@ -31305,6 +31353,14 @@
       "onboard_time": 1739269101,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 196360,
+      "num": 196360,
+      "word": "温以凡小苍兰型女主",
+      "onboard_time": 1740133340,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 196340,
@@ -33225,6 +33281,14 @@
       "onboard_time": 1739621481,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 188254,
+      "num": 188254,
+      "word": "大量黄金正从各国运往美国",
+      "onboard_time": 1740134300,
+      "rank": 39,
+      "category": "财经,国际时政"
     },
     {
       "raw_hot": 188214,
@@ -37195,14 +37259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 168755,
-      "num": 168755,
-      "word": "温以凡小苍兰型女主",
-      "onboard_time": 1740133340,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 168726,
       "num": 452011,
       "word": "亚冬会机器狗成巡检员",
@@ -37537,6 +37593,14 @@
       "onboard_time": 1739577317,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167101,
+      "num": 167101,
+      "word": "陈天润艺考公式照",
+      "onboard_time": 1740134120,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 167072,
@@ -38017,6 +38081,14 @@
       "onboard_time": 1739269461,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164818,
+      "num": 164818,
+      "word": "Doinb获常规赛MVP",
+      "onboard_time": 1740134360,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 164735,
@@ -40265,14 +40337,6 @@
       "onboard_time": 1739331321,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 155557,
-      "num": 155557,
-      "word": "陈梦分享周五plog",
-      "onboard_time": 1740133160,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 155542,
@@ -50019,6 +50083,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 107097,
+      "num": 165703,
+      "word": "乐道铁成直播透露第二款车",
+      "onboard_time": 1740134360,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 106984,
       "num": 106984,
       "word": "陈丽君把非遗穿到法国",
@@ -56739,14 +56811,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 58737,
-      "num": 421626,
-      "word": "语文老师用DeepSeek制作随机点名系统",
-      "onboard_time": 1740132560,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 58650,
       "num": 156151,
       "word": "丹麦人网上请愿买下美国加州",
@@ -58291,14 +58355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 49668,
-      "num": 208002,
-      "word": "公安部门已介入水源地疑遭投毒",
-      "onboard_time": 1740133160,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 49618,
       "num": 70546,
       "word": "初五财蛇到",
@@ -58529,6 +58585,14 @@
       "onboard_time": 1740122781,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 48362,
+      "num": 423589,
+      "word": "阿里股价继续大涨",
+      "onboard_time": 1740132742,
+      "rank": 13,
+      "category": "互联网"
     },
     {
       "raw_hot": 48339,
@@ -58771,6 +58835,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 46473,
+      "num": 441554,
+      "word": "王楚钦vs科拉尼",
+      "onboard_time": 1740134061,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 46452,
       "num": 377010,
       "word": "花80块接入DeepSeek打造语音助手",
@@ -58856,6 +58928,14 @@
       "word": "欧文42分",
       "onboard_time": 1739426181,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 45884,
+      "num": 187960,
+      "word": "黄友政晋级亚洲杯16强",
+      "onboard_time": 1740133281,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -60812,7 +60892,7 @@
     },
     {
       "raw_hot": 34613,
-      "num": 172213,
+      "num": 257896,
       "word": "预防诺如记住16字",
       "onboard_time": 1740133400,
       "rank": 43,
@@ -60897,6 +60977,14 @@
       "onboard_time": 1740049099,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 34201,
+      "num": 175593,
+      "word": "中国主题公园需要自己的迪士尼",
+      "onboard_time": 1740134421,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 34156,
@@ -62163,6 +62251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26522,
+      "num": 251756,
+      "word": "山东一矿企排污管道破裂污染河流",
+      "onboard_time": 1740132800,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26516,
       "num": 911317,
       "word": "京彩春节的n种打开方式",
@@ -62377,6 +62473,14 @@
       "onboard_time": 1739255780,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 25432,
+      "num": 375515,
+      "word": "蒯曼晋级亚洲杯16强",
+      "onboard_time": 1740133700,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 25358,
@@ -63312,14 +63416,6 @@
       "word": "丘成桐给年轻人的求学建议",
       "onboard_time": 1739550439,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21294,
-      "num": 214613,
-      "word": "山东一矿企排污管道破裂污染河流",
-      "onboard_time": 1740132800,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -64627,14 +64723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 14204,
-      "num": 423589,
-      "word": "阿里股价继续大涨",
-      "onboard_time": 1740132742,
-      "rank": 13,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 14157,
       "num": 331573,
       "word": "胎盘早剥到底有多可怕",
@@ -64785,14 +64873,6 @@
       "onboard_time": 1740108979,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 13266,
-      "num": 187960,
-      "word": "黄友政晋级亚洲杯16强",
-      "onboard_time": 1740133281,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 13256,
@@ -65697,6 +65777,14 @@
       "onboard_time": 1739817912,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 8871,
+      "num": 261468,
+      "word": "日语版就是哪吒",
+      "onboard_time": 1740134239,
+      "rank": 26,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 8826,

@@ -1,6 +1,6 @@
 {
   "startTime": 1740069014077,
-  "endTime": 1740133447451,
+  "endTime": 1740134458458,
   "band_list": [
     {
       "raw_hot": 6060617,
@@ -179,6 +179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1179460,
+      "num": 1179460,
+      "word": "什锦 肖战",
+      "onboard_time": 1740132081,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1177865,
       "num": 1177865,
       "word": "阿奴还没变我已经老了",
@@ -219,14 +227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 977354,
-      "num": 977354,
-      "word": "什锦 肖战",
-      "onboard_time": 1740132081,
-      "rank": 1,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 961828,
       "num": 553324,
       "word": "女子怀孕5个月被诊所当妇科病治疗",
@@ -249,6 +249,14 @@
       "onboard_time": 1740118941,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 851596,
+      "num": 447656,
+      "word": "唐艺昕腰身比",
+      "onboard_time": 1740130220,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 808222,
@@ -299,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 749046,
+      "num": 749046,
+      "word": "难哄拍在了00后最清醒的一年",
+      "onboard_time": 1740133639,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 712264,
       "num": 712264,
       "word": "女子花5万买孩子火车上被识破",
@@ -316,18 +332,10 @@
     },
     {
       "raw_hot": 691398,
-      "num": 414749,
+      "num": 437936,
       "word": "黄景瑜奖杯上有张艺上名字",
       "onboard_time": 1740126200,
       "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 687686,
-      "num": 447656,
-      "word": "唐艺昕腰身比",
-      "onboard_time": 1740130220,
-      "rank": 34,
       "category": "艺人"
     },
     {
@@ -489,6 +497,14 @@
       "onboard_time": 1740101238,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 462032,
+      "num": 462032,
+      "word": "台湾文化界反问台湾的哪吒在哪",
+      "onboard_time": 1740132261,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 458146,
@@ -691,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 323171,
+      "num": 379661,
+      "word": "GAI粉丝把周延写成周廷",
+      "onboard_time": 1740131000,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 319482,
       "num": 319482,
       "word": "美国反对称俄为侵略者",
@@ -705,14 +729,6 @@
       "onboard_time": 1740126560,
       "rank": 21,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 303498,
-      "num": 303498,
-      "word": "台湾文化界反问台湾的哪吒在哪",
-      "onboard_time": 1740132261,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 300274,
@@ -803,6 +819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 280435,
+      "num": 254777,
+      "word": "杨子也没放过李莲花",
+      "onboard_time": 1740131241,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 276678,
       "num": 276678,
       "word": "网红退钱哥加盟中冠新疆球队",
@@ -875,12 +899,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 254777,
-      "num": 254777,
-      "word": "杨子也没放过李莲花",
-      "onboard_time": 1740131241,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 263721,
+      "num": 421626,
+      "word": "语文老师用DeepSeek制作随机点名系统",
+      "onboard_time": 1740132560,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 252755,
@@ -945,6 +969,14 @@
       "onboard_time": 1740118040,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 237371,
+      "num": 270273,
+      "word": "陈梦分享周五plog",
+      "onboard_time": 1740133160,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 236522,
@@ -1019,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 224523,
+      "num": 255346,
+      "word": "周柯宇 演技",
+      "onboard_time": 1740133820,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223894,
       "num": 533450,
       "word": "肖战确认受邀参加2025米兰时装周",
@@ -1075,14 +1115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 212405,
-      "num": 303190,
-      "word": "GAI粉丝把周延写成周廷",
-      "onboard_time": 1740131000,
-      "rank": 18,
-      "category": "演出"
-    },
-    {
       "raw_hot": 211840,
       "num": 211840,
       "word": "万渣朝凰",
@@ -1105,6 +1137,14 @@
       "onboard_time": 1740045861,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211022,
+      "num": 211022,
+      "word": "光渊日本预告",
+      "onboard_time": 1740133940,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 208460,
@@ -1179,6 +1219,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 199503,
+      "num": 365236,
+      "word": "公安部门已介入水源地疑遭投毒",
+      "onboard_time": 1740133160,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199148,
       "num": 199148,
       "word": "王一博每一次舞台都全力以赴",
@@ -1211,12 +1259,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 196926,
+      "num": 196926,
+      "word": "演员请就位",
+      "onboard_time": 1740133700,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196385,
       "num": 452293,
       "word": "男子时隔6年回老家发现老猫还在守家",
       "onboard_time": 1740111744,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196360,
+      "num": 196360,
+      "word": "温以凡小苍兰型女主",
+      "onboard_time": 1740133340,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 194946,
@@ -1297,6 +1361,14 @@
       "onboard_time": 1740127640,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188254,
+      "num": 188254,
+      "word": "大量黄金正从各国运往美国",
+      "onboard_time": 1740134300,
+      "rank": 39,
+      "category": "财经,国际时政"
     },
     {
       "raw_hot": 187940,
@@ -1467,20 +1539,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 168755,
-      "num": 168755,
-      "word": "温以凡小苍兰型女主",
-      "onboard_time": 1740133340,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 167457,
       "num": 167457,
       "word": "石家庄下雪",
       "onboard_time": 1740100818,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167101,
+      "num": 167101,
+      "word": "陈天润艺考公式照",
+      "onboard_time": 1740134120,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 166899,
@@ -1521,6 +1593,14 @@
       "onboard_time": 1740129321,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164818,
+      "num": 164818,
+      "word": "Doinb获常规赛MVP",
+      "onboard_time": 1740134360,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 164437,
@@ -1609,14 +1689,6 @@
       "onboard_time": 1740129081,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 155557,
-      "num": 155557,
-      "word": "陈梦分享周五plog",
-      "onboard_time": 1740133160,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 155374,
@@ -1889,6 +1961,14 @@
       "onboard_time": 1740100760,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 107097,
+      "num": 165703,
+      "word": "乐道铁成直播透露第二款车",
+      "onboard_time": 1740134360,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 105556,
@@ -2195,14 +2275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 58737,
-      "num": 421626,
-      "word": "语文老师用DeepSeek制作随机点名系统",
-      "onboard_time": 1740132560,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 58578,
       "num": 154369,
       "word": "网信办将整治涉企网络黑嘴",
@@ -2275,14 +2347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 49668,
-      "num": 208002,
-      "word": "公安部门已介入水源地疑遭投毒",
-      "onboard_time": 1740133160,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 49202,
       "num": 50672,
       "word": "白敬亭长大了知道为艺术献身了",
@@ -2305,6 +2369,14 @@
       "onboard_time": 1740122781,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 48362,
+      "num": 423589,
+      "word": "阿里股价继续大涨",
+      "onboard_time": 1740132742,
+      "rank": 13,
+      "category": "互联网"
     },
     {
       "raw_hot": 48132,
@@ -2331,12 +2403,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 46473,
+      "num": 441554,
+      "word": "王楚钦vs科拉尼",
+      "onboard_time": 1740134061,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 46353,
       "num": 46353,
       "word": "柳智敏出演权志龙打歌舞台",
       "onboard_time": 1740056722,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 45884,
+      "num": 187960,
+      "word": "黄友政晋级亚洲杯16强",
+      "onboard_time": 1740133281,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 44651,
@@ -2412,11 +2500,19 @@
     },
     {
       "raw_hot": 34613,
-      "num": 172213,
+      "num": 257896,
       "word": "预防诺如记住16字",
       "onboard_time": 1740133400,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 34201,
+      "num": 175593,
+      "word": "中国主题公园需要自己的迪士尼",
+      "onboard_time": 1740134421,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 33727,
@@ -2499,12 +2595,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26522,
+      "num": 251756,
+      "word": "山东一矿企排污管道破裂污染河流",
+      "onboard_time": 1740132800,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25917,
       "num": 25917,
       "word": "普京幽默回应何时与普京见面",
       "onboard_time": 1740083771,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 25432,
+      "num": 375515,
+      "word": "蒯曼晋级亚洲杯16强",
+      "onboard_time": 1740133700,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 24856,
@@ -2563,14 +2675,6 @@
       "category": "民生新闻,电影"
     },
     {
-      "raw_hot": 21294,
-      "num": 214613,
-      "word": "山东一矿企排污管道破裂污染河流",
-      "onboard_time": 1740132800,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 20261,
       "num": 264419,
       "word": "黄友政vs吴晙诚",
@@ -2619,14 +2723,6 @@
       "category": "民生新闻,艺人"
     },
     {
-      "raw_hot": 14204,
-      "num": 423589,
-      "word": "阿里股价继续大涨",
-      "onboard_time": 1740132742,
-      "rank": 13,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 13855,
       "num": 141731,
       "word": "杨某人祝狼队GG取得好成绩",
@@ -2641,14 +2737,6 @@
       "onboard_time": 1740108979,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 13266,
-      "num": 187960,
-      "word": "黄友政晋级亚洲杯16强",
-      "onboard_time": 1740133281,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 13070,
@@ -2713,6 +2801,14 @@
       "onboard_time": 1740079452,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8871,
+      "num": 261468,
+      "word": "日语版就是哪吒",
+      "onboard_time": 1740134239,
+      "rank": 26,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 8812,

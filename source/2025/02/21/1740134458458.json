@@ -1,0 +1,410 @@
+{
+  "runTime": 1740134458458,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1191203,
+        "num": 1191203,
+        "word": "DeepSeek评中国最宜居城市",
+        "onboard_time": 1740118279,
+        "rank": 0,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 1179460,
+        "num": 1179460,
+        "word": "什锦 肖战",
+        "onboard_time": 1740132081,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24877,
+        "num": 829909,
+        "word": "网络普法看贵州",
+        "onboard_time": 1740128482,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 749046,
+        "num": 749046,
+        "word": "难哄拍在了00后最清醒的一年",
+        "onboard_time": 1740133639,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 551284,
+        "num": 551284,
+        "word": "咖啡店摆满奥特曼周边赔了40万",
+        "onboard_time": 1740128782,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 512960,
+        "num": 512960,
+        "word": "俄乌冲突",
+        "onboard_time": 1740126261,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 394685,
+        "num": 464275,
+        "word": "民警建议家里不要安装摄像头",
+        "onboard_time": 1740109160,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 462032,
+        "num": 462032,
+        "word": "台湾文化界反问台湾的哪吒在哪",
+        "onboard_time": 1740132261,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 665219,
+        "num": 459293,
+        "word": "李承铉说离婚是另外一个节目",
+        "onboard_time": 1740126860,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 633442,
+        "num": 457789,
+        "word": "难哄删除争议镜头",
+        "onboard_time": 1740120380,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2570422,
+        "num": 455361,
+        "word": "黄景瑜前妻点名张艺上",
+        "onboard_time": 1740128661,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1127262,
+        "num": 452963,
+        "word": "郭品超官宣分手",
+        "onboard_time": 1740129441,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 851596,
+        "num": 447072,
+        "word": "唐艺昕腰身比",
+        "onboard_time": 1740130220,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 565738,
+        "num": 445092,
+        "word": "奶奶每天玩手机到凌晨近视2300度",
+        "onboard_time": 1740115881,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46473,
+        "num": 441554,
+        "word": "王楚钦vs科拉尼",
+        "onboard_time": 1740134061,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 317774,
+        "num": 440183,
+        "word": "重庆姐弟坠亡案入选最高法典型案例",
+        "onboard_time": 1740126800,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 437936,
+        "num": 437936,
+        "word": "黄景瑜奖杯上有张艺上名字",
+        "onboard_time": 1740126200,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323171,
+        "num": 379661,
+        "word": "GAI粉丝把周延写成周廷",
+        "onboard_time": 1740131000,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 48362,
+        "num": 375577,
+        "word": "阿里股价继续大涨",
+        "onboard_time": 1740132742,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 25432,
+        "num": 375515,
+        "word": "蒯曼晋级亚洲杯16强",
+        "onboard_time": 1740133700,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 375502,
+        "num": 375502,
+        "word": "杨幂申请强制执行",
+        "onboard_time": 1740128960,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199503,
+        "num": 365236,
+        "word": "公安部门已介入水源地疑遭投毒",
+        "onboard_time": 1740133160,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 363920,
+        "num": 363920,
+        "word": "郑州16家影院免费看哪吒2",
+        "onboard_time": 1740128782,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 315808,
+        "num": 315808,
+        "word": "董力 杨子2.0",
+        "onboard_time": 1740123980,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237371,
+        "num": 270273,
+        "word": "陈梦分享周五plog",
+        "onboard_time": 1740133160,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263721,
+        "num": 263721,
+        "word": "语文老师用DeepSeek制作随机点名系统",
+        "onboard_time": 1740132560,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8871,
+        "num": 261468,
+        "word": "日语版就是哪吒",
+        "onboard_time": 1740134239,
+        "rank": 26,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 26453,
+        "num": 257896,
+        "word": "预防诺如记住16字",
+        "onboard_time": 1740133400,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 224523,
+        "num": 255346,
+        "word": "周柯宇 演技",
+        "onboard_time": 1740133820,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26522,
+        "num": 251756,
+        "word": "山东一矿企排污管道破裂污染河流",
+        "onboard_time": 1740132800,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280435,
+        "num": 249725,
+        "word": "杨子也没放过李莲花",
+        "onboard_time": 1740131241,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247676,
+        "num": 247676,
+        "word": "侵华日军为便于奸淫百姓赤身骑马",
+        "onboard_time": 1740125420,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 239108,
+        "num": 239108,
+        "word": "周深四首歌被纳入九年义务教育教材",
+        "onboard_time": 1740108200,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 211022,
+        "num": 211022,
+        "word": "光渊日本预告",
+        "onboard_time": 1740133940,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205256,
+        "num": 205256,
+        "word": "难哄扫楼",
+        "onboard_time": 1740129441,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201885,
+        "num": 201885,
+        "word": "气血充足人就会变漂亮",
+        "onboard_time": 1740130282,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 196926,
+        "num": 196926,
+        "word": "演员请就位",
+        "onboard_time": 1740133700,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196360,
+        "num": 196360,
+        "word": "温以凡小苍兰型女主",
+        "onboard_time": 1740133340,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193743,
+        "num": 193743,
+        "word": "翟潇闻好帅",
+        "onboard_time": 1740130460,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188254,
+        "num": 188254,
+        "word": "大量黄金正从各国运往美国",
+        "onboard_time": 1740134300,
+        "rank": 39,
+        "category": "财经,国际时政"
+      },
+      {
+        "raw_hot": 34201,
+        "num": 175593,
+        "word": "中国主题公园需要自己的迪士尼",
+        "onboard_time": 1740134421,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168910,
+        "num": 168910,
+        "word": "DeepSeek评国补买什么手机最值",
+        "onboard_time": 1740132679,
+        "rank": 41,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 168234,
+        "num": 168234,
+        "word": "张杰鸟巢演唱会连开12场",
+        "onboard_time": 1740130880,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 45884,
+        "num": 167646,
+        "word": "黄友政晋级亚洲杯16强",
+        "onboard_time": 1740133281,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167101,
+        "num": 167101,
+        "word": "陈天润艺考公式照",
+        "onboard_time": 1740134120,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107097,
+        "num": 165703,
+        "word": "乐道铁成直播透露第二款车",
+        "onboard_time": 1740134360,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 164818,
+        "num": 164818,
+        "word": "Doinb获常规赛MVP",
+        "onboard_time": 1740134360,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 155793,
+        "num": 155793,
+        "word": "难哄",
+        "onboard_time": 1740112222,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150247,
+        "num": 150247,
+        "word": "李承铉拿到中国五星卡了",
+        "onboard_time": 1740127942,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145192,
+        "num": 145192,
+        "word": "为什么很多情侣都熬不过同居",
+        "onboard_time": 1740130041,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#造林护林总书记始终心系这抹绿色#"
+    }
+  }
+}
