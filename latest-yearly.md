@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/02/21 09:59:55
+本榜单时间：2025/01/01 00:26:38 ~ 2025/02/21 10:53:46
 </p>
 </blockquote>
 <p>
@@ -761,6 +761,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E8%BF%85%E6%B3%B0%E5%9B%BD%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%96%E6%B6%88%23" target="weibo">
 陈奕迅泰国演唱会取消（热度：3449640）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%81%A2%E5%A4%8D%E6%AD%BB%E5%88%91%23" target="weibo">
+特朗普恢复死刑（热度：3437147）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ TikTok停止在美服务（热度：2463156）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%93%BD%E5%92%BD%E8%87%B4%E6%AD%89%E7%A7%B0%E6%9C%80%E5%90%8E%E6%82%94%E4%B9%9F%E6%9C%80%E4%B8%8D%E5%90%8E%E6%82%94%23" target="weibo">
 周深哽咽致歉称最后悔也最不后悔（热度：2280058）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%E4%B8%BA%E6%BC%94%E5%91%98%E6%98%9F%E6%98%9F%E5%8F%91%E5%A3%B0%23" target="weibo">
-龚俊为演员星星发声（热度：2277571）
 </a>
 </li>
 

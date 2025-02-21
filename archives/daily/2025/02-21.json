@@ -1,6 +1,6 @@
 {
   "startTime": 1740069014077,
-  "endTime": 1740103195691,
+  "endTime": 1740106426628,
   "band_list": [
     {
       "raw_hot": 6060617,
@@ -9,6 +9,14 @@
       "onboard_time": 1740064343,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3437147,
+      "num": 3437147,
+      "word": "特朗普恢复死刑",
+      "onboard_time": 1740102440,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 2689110,
@@ -25,6 +33,14 @@
       "onboard_time": 1740094158,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1531633,
+      "num": 1531633,
+      "word": "七仙女饰演者称被郑某峰搂抱亲脸",
+      "onboard_time": 1740104720,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1507484,
@@ -52,10 +68,18 @@
     },
     {
       "raw_hot": 961828,
-      "num": 425317,
+      "num": 436450,
       "word": "女子怀孕5个月被诊所当妇科病治疗",
       "onboard_time": 1740064224,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 765436,
+      "num": 765436,
+      "word": "16岁女生背着父母签下10年主播合约",
+      "onboard_time": 1740102440,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -71,6 +95,14 @@
       "num": 418664,
       "word": "刘涛坐宋佳腿上说话",
       "onboard_time": 1740094758,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 645228,
+      "num": 437042,
+      "word": "阿奴还没变我已经老了",
+      "onboard_time": 1740105559,
       "rank": 11,
       "category": "综艺"
     },
@@ -99,11 +131,19 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 544739,
-      "num": 544739,
-      "word": "特朗普恢复死刑",
-      "onboard_time": 1740102440,
-      "rank": 5,
+      "raw_hot": 489485,
+      "num": 489485,
+      "word": "夫妻在赌博诈骗和投案之间选择了自杀",
+      "onboard_time": 1740101238,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 469980,
+      "num": 469980,
+      "word": "特朗普终止美联邦政府平权政策",
+      "onboard_time": 1740105080,
+      "rank": 8,
       "category": "国际时政"
     },
     {
@@ -123,12 +163,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 440246,
+      "num": 440246,
+      "word": "全村老人最喜欢的年轻人出现了",
+      "onboard_time": 1740105080,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 439802,
       "num": 439802,
       "word": "章子怡问杨子再见爱人是演的吗",
       "onboard_time": 1740057202,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 432832,
+      "num": 432832,
+      "word": "有骑手抵触缴纳社保",
+      "onboard_time": 1740105200,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 422586,
@@ -155,12 +211,20 @@
       "category": "民生新闻,电影"
     },
     {
-      "raw_hot": 399412,
-      "num": 399412,
-      "word": "夫妻在赌博诈骗和投案之间选择了自杀",
-      "onboard_time": 1740101238,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 403358,
+      "num": 403358,
+      "word": "哪吒票房",
+      "onboard_time": 1740105439,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 359004,
+      "num": 359004,
+      "word": "印度女孩画画还原父亲杀母过程",
+      "onboard_time": 1740105439,
+      "rank": 20,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 358132,
@@ -179,8 +243,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 308402,
-      "num": 308402,
+      "raw_hot": 332071,
+      "num": 377585,
       "word": "马嘉祺回国落地狂炫饭",
       "onboard_time": 1740100520,
       "rank": 18,
@@ -307,6 +371,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210577,
+      "num": 210577,
+      "word": "医生提醒挖鼻孔或诱发颅内感染",
+      "onboard_time": 1740105080,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 203000,
+      "num": 203000,
+      "word": "迪丽热巴多起侵权案均已胜诉",
+      "onboard_time": 1740105559,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201965,
       "num": 201965,
       "word": "乌克兰应美要求取消记者会",
@@ -323,6 +403,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 199000,
+      "num": 199000,
+      "word": "滤镜",
+      "onboard_time": 1740105380,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198272,
       "num": 198272,
       "word": "国博白瓷玉漱公主再度爆火",
@@ -331,7 +419,23 @@
       "category": "民生新闻,旅游"
     },
     {
-      "raw_hot": 191307,
+      "raw_hot": 198152,
+      "num": 198152,
+      "word": "张凌赫保镖接错人",
+      "onboard_time": 1740102919,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 197705,
+      "num": 197705,
+      "word": "iPhone17系列将采用LTPO屏幕",
+      "onboard_time": 1740100760,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 191727,
       "num": 299653,
       "word": "归期 鹤辞",
       "onboard_time": 1740101779,
@@ -339,12 +443,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 188186,
-      "num": 188186,
-      "word": "iPhone17系列将采用LTPO屏幕",
-      "onboard_time": 1740100760,
-      "rank": 32,
-      "category": "数码"
+      "raw_hot": 189443,
+      "num": 196474,
+      "word": "种地吧祝贺十个勤天成立2周年",
+      "onboard_time": 1740105620,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 187940,
@@ -411,14 +515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 174242,
-      "num": 174242,
-      "word": "16岁女生背着父母签下10年主播合约",
-      "onboard_time": 1740102440,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 167457,
       "num": 167457,
       "word": "石家庄下雪",
@@ -427,12 +523,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166899,
+      "num": 166899,
+      "word": "DeepSeek生成的春日仪式感清单太治愈",
+      "onboard_time": 1740100760,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 164437,
       "num": 164437,
       "word": "乌克兰",
       "onboard_time": 1740056301,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 162639,
+      "num": 162639,
+      "word": "难哄预告",
+      "onboard_time": 1740103220,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 162461,
+      "num": 162461,
+      "word": "桑家出情种",
+      "onboard_time": 1740106339,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 156356,
@@ -467,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143139,
+      "num": 143139,
+      "word": "家长让男孩站好拍照时男孩踩爆水管",
+      "onboard_time": 1740106039,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138235,
       "num": 138235,
       "word": "董思成miumiu快闪",
@@ -491,20 +619,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134126,
+      "num": 134126,
+      "word": "上海聋哑老人唯一房产被亲弟偷卖",
+      "onboard_time": 1740100520,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130184,
+      "num": 130184,
+      "word": "逆水寒",
+      "onboard_time": 1740104540,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 128606,
       "num": 246626,
       "word": "专家辟谣网传幼儿园将免费",
       "onboard_time": 1740101898,
       "rank": 19,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 128088,
-      "num": 128088,
-      "word": "上海聋哑老人唯一房产被亲弟偷卖",
-      "onboard_time": 1740100520,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 125231,
@@ -619,14 +755,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 96305,
-      "num": 96305,
-      "word": "张凌赫保镖接错人",
-      "onboard_time": 1740102919,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 95996,
       "num": 95996,
       "word": "89岁王德顺携妻看哪吒2",
@@ -683,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86429,
+      "num": 410827,
+      "word": "70岁以上老人不执行拘留该不该调整",
+      "onboard_time": 1740104780,
+      "rank": 14,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 86343,
       "num": 86343,
       "word": "易烊千玺朱一龙 合作",
@@ -729,6 +865,14 @@
       "onboard_time": 1740067820,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74190,
+      "num": 197570,
+      "word": "围墙倒塌致人死亡家属获赔98万",
+      "onboard_time": 1740104838,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54268,
@@ -931,8 +1075,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 2329,
-      "num": 937831,
+      "raw_hot": 3800,
+      "num": 1217022,
       "word": "中国式现代化的万千气象海南行",
       "onboard_time": 1739782103,
       "rank": 2,
