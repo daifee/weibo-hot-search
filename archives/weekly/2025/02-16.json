@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1740165500842,
+  "endTime": 1740166552283,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -17547,6 +17547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 50787,
+      "num": 50787,
+      "word": "DeepSeek上线数据局人员称应该不会失业",
+      "onboard_time": 1740163752,
+      "rank": 12,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 50775,
       "num": 50775,
       "word": "10岁女孩看哪吒2后决心捐髓救父",
@@ -17577,6 +17585,14 @@
       "onboard_time": 1740093136,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 49981,
+      "num": 49981,
+      "word": "前女友力挺法老",
+      "onboard_time": 1740164232,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 49837,
@@ -18153,14 +18169,6 @@
       "onboard_time": 1739856699,
       "rank": 27,
       "category": "电影,动漫"
-    },
-    {
-      "raw_hot": 38932,
-      "num": 38932,
-      "word": "前女友力挺法老",
-      "onboard_time": 1740164232,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 38925,
@@ -19867,14 +19875,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 11355,
-      "num": 50527,
-      "word": "DeepSeek上线数据局人员称应该不会失业",
-      "onboard_time": 1740163752,
-      "rank": 12,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 10992,
       "num": 224774,
       "word": "柯南M28情报下周揭晓",
@@ -20009,6 +20009,14 @@
       "onboard_time": 1739817192,
       "rank": 9,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 9665,
+      "num": 50553,
+      "word": "美国国税局将解雇约6000名员工",
+      "onboard_time": 1740166032,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 9445,
