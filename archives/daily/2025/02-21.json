@@ -1,6 +1,6 @@
 {
   "startTime": 1740069014077,
-  "endTime": 1740129837882,
+  "endTime": 1740130646089,
   "band_list": [
     {
       "raw_hot": 6060617,
@@ -11,7 +11,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 3944467,
+      "raw_hot": 4087622,
       "num": 495458,
       "word": "黄景瑜前妻点名张艺上",
       "onboard_time": 1740128661,
@@ -57,6 +57,14 @@
       "onboard_time": 1740109160,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1940560,
+      "num": 495208,
+      "word": "郭品超官宣分手",
+      "onboard_time": 1740129441,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1893469,
@@ -155,20 +163,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1324242,
-      "num": 495208,
-      "word": "郭品超官宣分手",
-      "onboard_time": 1740129441,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1315842,
       "num": 1315842,
       "word": "李承铉说离婚是另外一个节目",
       "onboard_time": 1740126860,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1264489,
+      "num": 992031,
+      "word": "难哄9集6次性骚扰",
+      "onboard_time": 1740127460,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1177865,
@@ -201,14 +209,6 @@
       "onboard_time": 1740123980,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 992031,
-      "num": 992031,
-      "word": "难哄9集6次性骚扰",
-      "onboard_time": 1740127460,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 984111,
@@ -435,6 +435,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 518895,
+      "num": 387280,
+      "word": "杨幂申请强制执行",
+      "onboard_time": 1740128960,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 510861,
       "num": 459365,
       "word": "白敬亭 颜值巅峰",
@@ -456,6 +464,14 @@
       "word": "夫妻在赌博诈骗和投案之间选择了自杀",
       "onboard_time": 1740101238,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 469371,
+      "num": 495923,
+      "word": "咖啡店摆满奥特曼周边赔了40万",
+      "onboard_time": 1740128782,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -499,20 +515,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 422307,
+      "num": 422307,
+      "word": "郑州16家影院免费看哪吒2",
+      "onboard_time": 1740128782,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 419177,
       "num": 419177,
       "word": "泽连斯基称乌军爱国者导弹已耗尽",
       "onboard_time": 1740109700,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 415984,
-      "num": 316536,
-      "word": "杨幂申请强制执行",
-      "onboard_time": 1740128960,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 411462,
@@ -556,7 +572,7 @@
     },
     {
       "raw_hot": 399418,
-      "num": 360574,
+      "num": 399752,
       "word": "李承铉拿到中国五星卡了",
       "onboard_time": 1740127942,
       "rank": 18,
@@ -699,6 +715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 294019,
+      "num": 294019,
+      "word": "难哄扫楼",
+      "onboard_time": 1740129441,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 293594,
       "num": 1519807,
       "word": "2025清朗行动重点整治8大乱象",
@@ -721,6 +745,14 @@
       "onboard_time": 1740073213,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 283984,
+      "num": 283984,
+      "word": "一闪一闪亮星星后终于有奇幻现偶",
+      "onboard_time": 1740128482,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 283680,
@@ -809,14 +841,6 @@
       "onboard_time": 1740049581,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 260178,
-      "num": 495923,
-      "word": "咖啡店摆满奥特曼周边赔了40万",
-      "onboard_time": 1740128782,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 252755,
@@ -923,6 +947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 227454,
+      "num": 227454,
+      "word": "唐艺昕腰身比",
+      "onboard_time": 1740130220,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226729,
       "num": 285239,
       "word": "以为是看病结果是看脸",
@@ -932,7 +964,7 @@
     },
     {
       "raw_hot": 224714,
-      "num": 224714,
+      "num": 235971,
       "word": "云南一景区雪崩瞬间淹没人群",
       "onboard_time": 1740124399,
       "rank": 39,
@@ -977,14 +1009,6 @@
       "onboard_time": 1740060083,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 218081,
-      "num": 386744,
-      "word": "郑州16家影院免费看哪吒2",
-      "onboard_time": 1740128782,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 217899,
@@ -1139,20 +1163,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 194598,
-      "num": 194598,
-      "word": "一闪一闪亮星星后终于有奇幻现偶",
-      "onboard_time": 1740128482,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 194496,
       "num": 196474,
       "word": "种地吧祝贺十个勤天成立2周年",
       "onboard_time": 1740105620,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194255,
+      "num": 277582,
+      "word": "重庆姐弟坠亡案入选最高法典型案例",
+      "onboard_time": 1740126800,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193448,
@@ -1209,6 +1233,14 @@
       "onboard_time": 1740107000,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188628,
+      "num": 188628,
+      "word": "有两部以上破万剧的女演员",
+      "onboard_time": 1740127640,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 187940,
@@ -1272,22 +1304,6 @@
       "word": "我国自研AS700D载人飞艇首次科研试飞",
       "onboard_time": 1740120440,
       "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 182681,
-      "num": 182681,
-      "word": "难哄扫楼",
-      "onboard_time": 1740129441,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 181962,
-      "num": 181962,
-      "word": "重庆姐弟坠亡案入选最高法典型案例",
-      "onboard_time": 1740126800,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -1355,14 +1371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 171541,
-      "num": 171541,
-      "word": "有两部以上破万剧的女演员",
-      "onboard_time": 1740127640,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 171357,
       "num": 171357,
       "word": "家长让男孩站好拍照时男孩踩爆水管",
@@ -1411,6 +1419,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 165803,
+      "num": 258819,
+      "word": "黑龙江一河流现大量林蛙死亡",
+      "onboard_time": 1740129321,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164576,
+      "num": 164576,
+      "word": "翟潇闻好帅",
+      "onboard_time": 1740130460,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164437,
       "num": 164437,
       "word": "乌克兰",
@@ -1448,6 +1472,14 @@
       "word": "阅文IP盛典阵容官宣",
       "onboard_time": 1740110360,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 161174,
+      "num": 161174,
+      "word": "胡静妈妈对女儿说知足吧",
+      "onboard_time": 1740129801,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -1497,6 +1529,14 @@
       "onboard_time": 1740119899,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154350,
+      "num": 154350,
+      "word": "为什么很多情侣都熬不过同居",
+      "onboard_time": 1740130041,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 154167,
@@ -1563,6 +1603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147573,
+      "num": 147573,
+      "word": "上汽华为签署深度合作协议",
+      "onboard_time": 1740130220,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 145598,
       "num": 145598,
       "word": "蔡徐坤妆容",
@@ -1577,14 +1625,6 @@
       "onboard_time": 1740114741,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 142261,
-      "num": 142261,
-      "word": "黑龙江一河流现大量林蛙死亡",
-      "onboard_time": 1740129321,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 138235,
@@ -1609,14 +1649,6 @@
       "onboard_time": 1740101659,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 135368,
-      "num": 135368,
-      "word": "胡静妈妈对女儿说知足吧",
-      "onboard_time": 1740129801,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 135084,
@@ -1867,6 +1899,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 95707,
+      "num": 273790,
+      "word": "气血充足人就会变漂亮",
+      "onboard_time": 1740130282,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 92747,
       "num": 118834,
       "word": "王楚钦说不会因为比赛晚找理由",
@@ -2035,6 +2075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73937,
+      "num": 287330,
+      "word": "孙颖莎三连胜进16强",
+      "onboard_time": 1740127582,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71917,
       "num": 402015,
       "word": "挥拍类运动的好处被低估了",
@@ -2049,6 +2097,14 @@
       "onboard_time": 1740107479,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 57135,
+      "num": 391010,
+      "word": "影院黄金位装按摩椅再遭吐槽",
+      "onboard_time": 1740129441,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57091,
@@ -2195,6 +2251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37901,
+      "num": 392513,
+      "word": "特朗普打算视察黄金储备情况",
+      "onboard_time": 1740129681,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 37585,
       "num": 393676,
       "word": "对未成年人犯罪不枉不纵",
@@ -2275,14 +2339,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 28300,
-      "num": 171639,
-      "word": "特朗普打算视察黄金储备情况",
-      "onboard_time": 1740129681,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 28065,
       "num": 174444,
       "word": "日本男篮主帅夸赵睿强硬",
@@ -2312,14 +2368,6 @@
       "word": "四川一景点因游客大叫妈呀得名妈妈崖",
       "onboard_time": 1740122120,
       "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26048,
-      "num": 318373,
-      "word": "影院黄金位装按摩椅再遭吐槽",
-      "onboard_time": 1740129441,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2411,6 +2459,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 16538,
+      "num": 408015,
+      "word": "乌总统称准备好与美达成协议",
+      "onboard_time": 1740129982,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 14552,
       "num": 42948,
       "word": "导演郑某峰涉猥亵儿童前员工发声",
@@ -2489,6 +2545,14 @@
       "onboard_time": 1740079452,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8812,
+      "num": 262711,
+      "word": "家庭教师粉嫩得像过情人节",
+      "onboard_time": 1740130282,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 8778,
