@@ -1,0 +1,410 @@
+{
+  "runTime": 1740113032436,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2059559,
+        "num": 2059559,
+        "word": "民警建议家里不要安装摄像头",
+        "onboard_time": 1740109160,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1531102,
+        "num": 1531102,
+        "word": "DeepSeek回答要不要买房",
+        "onboard_time": 1740108680,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 37753,
+        "num": 1529347,
+        "word": "e法黔行",
+        "onboard_time": 1740108860,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1529017,
+        "num": 1529017,
+        "word": "张艺上单身",
+        "onboard_time": 1740110479,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1165002,
+        "num": 1165002,
+        "word": "周深四首歌被纳入九年义务教育教材",
+        "onboard_time": 1740108200,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1664532,
+        "num": 1138488,
+        "word": "特朗普恢复死刑",
+        "onboard_time": 1740102440,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 931388,
+        "num": 931388,
+        "word": "哪吒2冲击全球影史前三",
+        "onboard_time": 1740100520,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 810781,
+        "num": 810781,
+        "word": "有骑手抵触缴纳社保",
+        "onboard_time": 1740105200,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 699664,
+        "num": 699664,
+        "word": "阿奴还没变我已经老了",
+        "onboard_time": 1740105559,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 682634,
+        "num": 682634,
+        "word": "陈凯歌章子怡的耐心都给了张亮",
+        "onboard_time": 1740109401,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1782160,
+        "num": 680829,
+        "word": "黄景瑜 张艺上",
+        "onboard_time": 1740099919,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 478638,
+        "num": 478638,
+        "word": "母亲去世后亲弟侵吞聋哑哥哥退休金",
+        "onboard_time": 1740100760,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 455105,
+        "num": 455105,
+        "word": "16岁女生背着父母签下10年主播合约",
+        "onboard_time": 1740102440,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27012,
+        "num": 454130,
+        "word": "女演员称未成年时被郑某峰强行舌吻",
+        "onboard_time": 1740112462,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196385,
+        "num": 452293,
+        "word": "男子时隔6年回老家发现老猫还在守家",
+        "onboard_time": 1740111744,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 783201,
+        "num": 450622,
+        "word": "黄景瑜 女朋友",
+        "onboard_time": 1740064343,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 677883,
+        "num": 449866,
+        "word": "霸总们为王心凌拼了",
+        "onboard_time": 1740111322,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 661657,
+        "num": 448347,
+        "word": "七仙女饰演者称被郑某峰搂抱亲脸",
+        "onboard_time": 1740104720,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 447326,
+        "num": 447326,
+        "word": "女子怀孕5个月被诊所当妇科病治疗",
+        "onboard_time": 1740064224,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 429636,
+        "num": 429636,
+        "word": "医生提醒挖鼻孔或诱发颅内感染",
+        "onboard_time": 1740105080,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 581123,
+        "num": 429418,
+        "word": "我家敖丙可以考公吗",
+        "onboard_time": 1740108559,
+        "rank": 20,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 560219,
+        "num": 409589,
+        "word": "女子上公厕染上诺如病毒",
+        "onboard_time": 1740111802,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 494742,
+        "num": 404615,
+        "word": "黄杨钿甜拜了艺考之神董思成",
+        "onboard_time": 1740111020,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 457046,
+        "num": 394362,
+        "word": "六姊妹刚拍的全家福成遗照",
+        "onboard_time": 1740112282,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84583,
+        "num": 380422,
+        "word": "孙颖莎3比0穆罕默德",
+        "onboard_time": 1740112881,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 372332,
+        "num": 372332,
+        "word": "泽连斯基称乌军爱国者导弹已耗尽",
+        "onboard_time": 1740109700,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 74731,
+        "num": 363166,
+        "word": "领克高管称豪华音响不是豪车特权",
+        "onboard_time": 1740110662,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 358520,
+        "num": 358520,
+        "word": "苗苗共情力好强",
+        "onboard_time": 1740108080,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268176,
+        "num": 353227,
+        "word": "外国人不喜欢哪吒不代表不喜欢中国",
+        "onboard_time": 1740112402,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 353023,
+        "num": 353023,
+        "word": "网友晒苏州28元一颗花生冰淇淋",
+        "onboard_time": 1740107120,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 333970,
+        "num": 333970,
+        "word": "孙颖莎vs穆罕默德",
+        "onboard_time": 1740111382,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276678,
+        "num": 276678,
+        "word": "网红退钱哥加盟中冠新疆球队",
+        "onboard_time": 1740111920,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271265,
+        "num": 271265,
+        "word": "结石姐这辈子没遭这罪",
+        "onboard_time": 1740110600,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 270913,
+        "num": 270913,
+        "word": "山东大学停招27个专业",
+        "onboard_time": 1740111322,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 245136,
+        "num": 245136,
+        "word": "难哄",
+        "onboard_time": 1740112222,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221146,
+        "num": 221146,
+        "word": "赵露思广告大片",
+        "onboard_time": 1740107000,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 220265,
+        "num": 220265,
+        "word": "傅首尔被强势爸爸的逻辑震撼了",
+        "onboard_time": 1740109160,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211834,
+        "num": 211834,
+        "word": "哪吒票房",
+        "onboard_time": 1740105439,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 206235,
+        "num": 206235,
+        "word": "阴阳师",
+        "onboard_time": 1740112822,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 202781,
+        "num": 202781,
+        "word": "deepseek一两分钟干了我一两天的活",
+        "onboard_time": 1740058822,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199148,
+        "num": 199148,
+        "word": "王一博每一次舞台都全力以赴",
+        "onboard_time": 1740112282,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193448,
+        "num": 193448,
+        "word": "火灵儿垂耳兔",
+        "onboard_time": 1740111201,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191835,
+        "num": 191835,
+        "word": "LESSERAFIM不死",
+        "onboard_time": 1740111561,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185089,
+        "num": 185089,
+        "word": "问DeepSeek最帅的动漫人物是谁",
+        "onboard_time": 1740112641,
+        "rank": 43,
+        "category": "动漫,互联网"
+      },
+      {
+        "raw_hot": 180609,
+        "num": 185057,
+        "word": "景甜换了似锦里姜似的头像",
+        "onboard_time": 1740111744,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185040,
+        "num": 185040,
+        "word": "燃气表抖动工作人员回复死了会赔",
+        "onboard_time": 1740106940,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175392,
+        "num": 175392,
+        "word": "夫妻在赌博诈骗和投案之间选择了自杀",
+        "onboard_time": 1740101238,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173867,
+        "num": 173867,
+        "word": "7旬老太网恋1个月被骗111万",
+        "onboard_time": 1740113002,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161169,
+        "num": 161169,
+        "word": "印度女孩画画还原父亲杀母过程",
+        "onboard_time": 1740105439,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 159193,
+        "num": 159193,
+        "word": "刘涛坐宋佳腿上说话",
+        "onboard_time": 1740094758,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#感悟总书记对民企发展的关怀#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1740069014077,
-  "endTime": 1740112116241,
+  "endTime": 1740113032436,
   "band_list": [
     {
       "raw_hot": 6060617,
@@ -20,15 +20,15 @@
     },
     {
       "raw_hot": 2689110,
-      "num": 620950,
+      "num": 680829,
       "word": "黄景瑜 张艺上",
       "onboard_time": 1740099919,
       "rank": 10,
       "category": "艺人"
     },
     {
-      "raw_hot": 1915304,
-      "num": 1915304,
+      "raw_hot": 2059559,
+      "num": 2059559,
       "word": "民警建议家里不要安装摄像头",
       "onboard_time": 1740109160,
       "rank": 34,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1531102,
+      "num": 1531102,
+      "word": "DeepSeek回答要不要买房",
+      "onboard_time": 1740108680,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1507484,
       "num": 1507484,
       "word": "母亲去世后亲弟侵吞聋哑哥哥退休金",
@@ -83,20 +91,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1282119,
-      "num": 1282119,
-      "word": "DeepSeek回答要不要买房",
-      "onboard_time": 1740108680,
-      "rank": 31,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 1177865,
       "num": 1177865,
       "word": "阿奴还没变我已经老了",
       "onboard_time": 1740105559,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1165002,
+      "num": 1165002,
+      "word": "周深四首歌被纳入九年义务教育教材",
+      "onboard_time": 1740108200,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 1100766,
@@ -147,12 +155,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 682634,
+      "num": 682634,
+      "word": "陈凯歌章子怡的耐心都给了张亮",
+      "onboard_time": 1740109401,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 677883,
+      "num": 449866,
+      "word": "霸总们为王心凌拼了",
+      "onboard_time": 1740111322,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 637670,
       "num": 637670,
       "word": "8岁男童在父母公司宿舍坠亡",
       "onboard_time": 1740098242,
       "rank": 4,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 581123,
+      "num": 553882,
+      "word": "我家敖丙可以考公吗",
+      "onboard_time": 1740108559,
+      "rank": 27,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 567404,
@@ -179,12 +211,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 553882,
-      "num": 553882,
-      "word": "我家敖丙可以考公吗",
-      "onboard_time": 1740108559,
-      "rank": 27,
-      "category": "电影,动漫"
+      "raw_hot": 560219,
+      "num": 409589,
+      "word": "女子上公厕染上诺如病毒",
+      "onboard_time": 1740111802,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 549364,
@@ -203,20 +235,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 538726,
-      "num": 444211,
-      "word": "陈凯歌章子怡的耐心都给了张亮",
-      "onboard_time": 1740109401,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 521984,
-      "num": 621023,
-      "word": "周深四首歌被纳入九年义务教育教材",
-      "onboard_time": 1740108200,
-      "rank": 34,
-      "category": "音乐"
+      "raw_hot": 494742,
+      "num": 404615,
+      "word": "黄杨钿甜拜了艺考之神董思成",
+      "onboard_time": 1740111020,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 489485,
@@ -233,6 +257,14 @@
       "onboard_time": 1740098300,
       "rank": 8,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 457046,
+      "num": 394362,
+      "word": "六姊妹刚拍的全家福成遗照",
+      "onboard_time": 1740112282,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 449391,
@@ -323,14 +355,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 357456,
-      "num": 357456,
-      "word": "黄杨钿甜拜了艺考之神董思成",
-      "onboard_time": 1740111020,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 345642,
       "num": 345642,
       "word": "结石姐这辈子没遭这罪",
@@ -353,6 +377,14 @@
       "onboard_time": 1740062661,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 333970,
+      "num": 407070,
+      "word": "孙颖莎vs穆罕默德",
+      "onboard_time": 1740111382,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 332071,
@@ -395,6 +427,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 276678,
+      "num": 276678,
+      "word": "网红退钱哥加盟中冠新疆球队",
+      "onboard_time": 1740111920,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 270913,
+      "num": 270913,
+      "word": "山东大学停招27个专业",
+      "onboard_time": 1740111322,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 268186,
       "num": 306345,
       "word": "杨幂反转芭莎大片",
@@ -403,20 +451,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 268176,
+      "num": 353227,
+      "word": "外国人不喜欢哪吒不代表不喜欢中国",
+      "onboard_time": 1740112402,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 265133,
       "num": 180964,
       "word": "戚薇9年没去婆家了",
       "onboard_time": 1740049581,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 261412,
-      "num": 261412,
-      "word": "霸总们为王心凌拼了",
-      "onboard_time": 1740111322,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 252755,
@@ -449,6 +497,14 @@
       "onboard_time": 1740097942,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 245136,
+      "num": 245136,
+      "word": "难哄",
+      "onboard_time": 1740112222,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 236522,
@@ -531,12 +587,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 209232,
-      "num": 209232,
-      "word": "女子上公厕染上诺如病毒",
-      "onboard_time": 1740111802,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 206235,
+      "num": 206235,
+      "word": "阴阳师",
+      "onboard_time": 1740112822,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 205842,
@@ -571,6 +627,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 199148,
+      "num": 199148,
+      "word": "王一博每一次舞台都全力以赴",
+      "onboard_time": 1740112282,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 199000,
       "num": 199000,
       "word": "滤镜",
@@ -595,6 +659,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 196385,
+      "num": 452293,
+      "word": "男子时隔6年回老家发现老猫还在守家",
+      "onboard_time": 1740111744,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 194496,
       "num": 196474,
       "word": "种地吧祝贺十个勤天成立2周年",
@@ -603,20 +675,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193448,
+      "num": 193448,
+      "word": "火灵儿垂耳兔",
+      "onboard_time": 1740111201,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 191835,
+      "num": 191835,
+      "word": "LESSERAFIM不死",
+      "onboard_time": 1740111561,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 191727,
       "num": 299653,
       "word": "归期 鹤辞",
       "onboard_time": 1740101779,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 191316,
-      "num": 191316,
-      "word": "山东大学停招27个专业",
-      "onboard_time": 1740111322,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 189180,
@@ -651,12 +731,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 185089,
+      "num": 185089,
+      "word": "问DeepSeek最帅的动漫人物是谁",
+      "onboard_time": 1740112641,
+      "rank": 43,
+      "category": "动漫,互联网"
+    },
+    {
       "raw_hot": 184056,
       "num": 184056,
       "word": "孕妇赴柬埔寨2个多月后离奇死亡",
       "onboard_time": 1740066501,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180609,
+      "num": 185057,
+      "word": "景甜换了似锦里姜似的头像",
+      "onboard_time": 1740111744,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 180388,
@@ -691,20 +787,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 176272,
-      "num": 176272,
-      "word": "火灵儿垂耳兔",
-      "onboard_time": 1740111201,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 173278,
-      "num": 173278,
-      "word": "LESSERAFIM不死",
-      "onboard_time": 1740111561,
-      "rank": 40,
-      "category": "音乐"
+      "raw_hot": 173867,
+      "num": 173867,
+      "word": "7旬老太网恋1个月被骗111万",
+      "onboard_time": 1740113002,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172584,
@@ -713,14 +801,6 @@
       "onboard_time": 1740108500,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 171365,
-      "num": 171365,
-      "word": "网红退钱哥加盟中冠新疆球队",
-      "onboard_time": 1740111920,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 171357,
@@ -803,14 +883,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 157972,
-      "num": 157972,
-      "word": "男子时隔6年回老家发现老猫还在守家",
-      "onboard_time": 1740111744,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 156356,
       "num": 198392,
       "word": "哪吒",
@@ -825,14 +897,6 @@
       "onboard_time": 1740108860,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 152956,
-      "num": 179915,
-      "word": "景甜换了似锦里姜似的头像",
-      "onboard_time": 1740111744,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 152812,
@@ -913,14 +977,6 @@
       "onboard_time": 1740051620,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134353,
-      "num": 407070,
-      "word": "孙颖莎vs穆罕默德",
-      "onboard_time": 1740111382,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 134126,
@@ -1147,6 +1203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 84583,
+      "num": 380422,
+      "word": "孙颖莎3比0穆罕默德",
+      "onboard_time": 1740112881,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83450,
       "num": 180726,
       "word": "66年前老代码给美国挖坑",
@@ -1164,7 +1228,7 @@
     },
     {
       "raw_hot": 81412,
-      "num": 232080,
+      "num": 363166,
       "word": "领克高管称豪华音响不是豪车特权",
       "onboard_time": 1740110662,
       "rank": 29,
@@ -1276,7 +1340,7 @@
     },
     {
       "raw_hot": 44143,
-      "num": 1379893,
+      "num": 1529347,
       "word": "e法黔行",
       "onboard_time": 1740108860,
       "rank": 2,
@@ -1329,6 +1393,14 @@
       "onboard_time": 1740078251,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27012,
+      "num": 454130,
+      "word": "女演员称未成年时被郑某峰强行舌吻",
+      "onboard_time": 1740112462,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 25917,
@@ -1484,6 +1556,9 @@
     },
     {
       "word": "#习近平的科技情怀#"
+    },
+    {
+      "word": "#感悟总书记对民企发展的关怀#"
     }
   ]
 }

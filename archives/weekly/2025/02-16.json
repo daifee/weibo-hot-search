@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1740112116241,
+  "endTime": 1740113032436,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 2689110,
-      "num": 620950,
+      "num": 680829,
       "word": "黄景瑜 张艺上",
       "onboard_time": 1740099919,
       "rank": 10,
@@ -387,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2059559,
+      "num": 2059559,
+      "word": "民警建议家里不要安装摄像头",
+      "onboard_time": 1740109160,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2026977,
       "num": 2026977,
       "word": "文淇 大大方方的",
@@ -417,14 +425,6 @@
       "onboard_time": 1739784799,
       "rank": 11,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 1915304,
-      "num": 1915304,
-      "word": "民警建议家里不要安装摄像头",
-      "onboard_time": 1740109160,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1889517,
@@ -681,6 +681,14 @@
       "onboard_time": 1740104720,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1531102,
+      "num": 1531102,
+      "word": "DeepSeek回答要不要买房",
+      "onboard_time": 1740108680,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 1526818,
@@ -1011,14 +1019,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1282119,
-      "num": 1282119,
-      "word": "DeepSeek回答要不要买房",
-      "onboard_time": 1740108680,
-      "rank": 31,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 1269182,
       "num": 1269182,
       "word": "特朗普说美国有360岁老人还在领社保",
@@ -1193,6 +1193,14 @@
       "onboard_time": 1739761459,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1165002,
+      "num": 1165002,
+      "word": "周深四首歌被纳入九年义务教育教材",
+      "onboard_time": 1740108200,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 1156326,
@@ -2443,12 +2451,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 682634,
+      "num": 682634,
+      "word": "陈凯歌章子怡的耐心都给了张亮",
+      "onboard_time": 1740109401,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 681184,
       "num": 681184,
       "word": "近一千辆车45度角为120让路",
       "onboard_time": 1739753841,
       "rank": 5,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 677883,
+      "num": 449866,
+      "word": "霸总们为王心凌拼了",
+      "onboard_time": 1740111322,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 674809,
@@ -2891,6 +2915,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 581123,
+      "num": 553882,
+      "word": "我家敖丙可以考公吗",
+      "onboard_time": 1740108559,
+      "rank": 27,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 580437,
       "num": 263784,
       "word": "患癌公公给儿媳红包里塞催生纸条",
@@ -3035,6 +3067,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 560219,
+      "num": 409589,
+      "word": "女子上公厕染上诺如病毒",
+      "onboard_time": 1740111802,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 559692,
       "num": 470078,
       "word": "难哄cp海报是两种爱情",
@@ -3073,14 +3113,6 @@
       "onboard_time": 1739724256,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 553882,
-      "num": 553882,
-      "word": "我家敖丙可以考公吗",
-      "onboard_time": 1740108559,
-      "rank": 27,
-      "category": "电影,动漫"
     },
     {
       "raw_hot": 549364,
@@ -3195,14 +3227,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 538726,
-      "num": 444211,
-      "word": "陈凯歌章子怡的耐心都给了张亮",
-      "onboard_time": 1740109401,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 538479,
       "num": 538479,
       "word": "原来只有敖光是纯正龙族血统",
@@ -3281,14 +3305,6 @@
       "onboard_time": 1739881944,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 521984,
-      "num": 621023,
-      "word": "周深四首歌被纳入九年义务教育教材",
-      "onboard_time": 1740108200,
-      "rank": 34,
-      "category": "音乐"
     },
     {
       "raw_hot": 521339,
@@ -3449,6 +3465,14 @@
       "onboard_time": 1739694979,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 494742,
+      "num": 404615,
+      "word": "黄杨钿甜拜了艺考之神董思成",
+      "onboard_time": 1740111020,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 494479,
@@ -3785,6 +3809,14 @@
       "onboard_time": 1740098300,
       "rank": 8,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 457046,
+      "num": 394362,
+      "word": "六姊妹刚拍的全家福成遗照",
+      "onboard_time": 1740112282,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 456736,
@@ -4875,14 +4907,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 357456,
-      "num": 357456,
-      "word": "黄杨钿甜拜了艺考之神董思成",
-      "onboard_time": 1740111020,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 356907,
       "num": 356907,
       "word": "网传小学老师因末位淘汰轻生",
@@ -5193,6 +5217,14 @@
       "onboard_time": 1739889984,
       "rank": 9,
       "category": "民生新闻,电影"
+    },
+    {
+      "raw_hot": 333970,
+      "num": 407070,
+      "word": "孙颖莎vs穆罕默德",
+      "onboard_time": 1740111382,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 333656,
@@ -6091,6 +6123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 276678,
+      "num": 276678,
+      "word": "网红退钱哥加盟中冠新疆球队",
+      "onboard_time": 1740111920,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 274070,
       "num": 274070,
       "word": "杨紫韩东君家业牵手路透",
@@ -6155,6 +6195,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 270913,
+      "num": 270913,
+      "word": "山东大学停招27个专业",
+      "onboard_time": 1740111322,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 270797,
       "num": 270797,
       "word": "湖南卫视惊喜重映哪吒闹海",
@@ -6209,6 +6257,14 @@
       "onboard_time": 1740108020,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 268176,
+      "num": 353227,
+      "word": "外国人不喜欢哪吒不代表不喜欢中国",
+      "onboard_time": 1740112402,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 268016,
@@ -6353,14 +6409,6 @@
       "onboard_time": 1739935343,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 261412,
-      "num": 261412,
-      "word": "霸总们为王心凌拼了",
-      "onboard_time": 1740111322,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 261178,
@@ -8003,14 +8051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 209232,
-      "num": 209232,
-      "word": "女子上公厕染上诺如病毒",
-      "onboard_time": 1740111802,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 209087,
       "num": 217347,
       "word": "哪吒到底召唤了多少神技能",
@@ -8619,6 +8659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199148,
+      "num": 199148,
+      "word": "王一博每一次舞台都全力以赴",
+      "onboard_time": 1740112282,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 199060,
       "num": 187402,
       "word": "哪吒读音难倒老外",
@@ -8851,6 +8899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196385,
+      "num": 452293,
+      "word": "男子时隔6年回老家发现老猫还在守家",
+      "onboard_time": 1740111744,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 196375,
       "num": 196375,
       "word": "官方通报网传邢台一局长砸店伤人",
@@ -9011,6 +9067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193448,
+      "num": 193448,
+      "word": "火灵儿垂耳兔",
+      "onboard_time": 1740111201,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 193226,
       "num": 351245,
       "word": "卢昱晓感谢这场盛大的相逢",
@@ -9123,6 +9187,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 191835,
+      "num": 191835,
+      "word": "LESSERAFIM不死",
+      "onboard_time": 1740111561,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 191789,
       "num": 191789,
       "word": "六姊妹拍摄地人人人人人",
@@ -9169,14 +9241,6 @@
       "onboard_time": 1739754440,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 191316,
-      "num": 191316,
-      "word": "山东大学停招27个专业",
-      "onboard_time": 1740111322,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 191037,
@@ -9507,6 +9571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185089,
+      "num": 185089,
+      "word": "问DeepSeek最帅的动漫人物是谁",
+      "onboard_time": 1740112641,
+      "rank": 43,
+      "category": "动漫,互联网"
+    },
+    {
       "raw_hot": 184720,
       "num": 184720,
       "word": "王者荣耀S39赛季前瞻直播",
@@ -9721,6 +9793,14 @@
       "onboard_time": 1739846779,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 180609,
+      "num": 185057,
+      "word": "景甜换了似锦里姜似的头像",
+      "onboard_time": 1740111744,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 180426,
@@ -9939,14 +10019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 176272,
-      "num": 176272,
-      "word": "火灵儿垂耳兔",
-      "onboard_time": 1740111201,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 176199,
       "num": 176199,
       "word": "钟辰乐去了朴志晟生日会",
@@ -10011,6 +10083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173867,
+      "num": 173867,
+      "word": "7旬老太网恋1个月被骗111万",
+      "onboard_time": 1740113002,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173862,
       "num": 396729,
       "word": "北京中小学体育八条",
@@ -10049,14 +10129,6 @@
       "onboard_time": 1739661373,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 173278,
-      "num": 173278,
-      "word": "LESSERAFIM不死",
-      "onboard_time": 1740111561,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 172997,
@@ -10137,14 +10209,6 @@
       "onboard_time": 1739696479,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 171365,
-      "num": 171365,
-      "word": "网红退钱哥加盟中冠新疆球队",
-      "onboard_time": 1740111920,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 171357,
@@ -10923,14 +10987,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 157972,
-      "num": 157972,
-      "word": "男子时隔6年回老家发现老猫还在守家",
-      "onboard_time": 1740111744,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 157960,
       "num": 238496,
       "word": "孙颖莎亚洲杯两连胜",
@@ -11193,14 +11249,6 @@
       "onboard_time": 1740063862,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152956,
-      "num": 179915,
-      "word": "景甜换了似锦里姜似的头像",
-      "onboard_time": 1740111744,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 152803,
@@ -12225,14 +12273,6 @@
       "onboard_time": 1739690717,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134353,
-      "num": 407070,
-      "word": "孙颖莎vs穆罕默德",
-      "onboard_time": 1740111382,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 134126,
@@ -14275,6 +14315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 84583,
+      "num": 380422,
+      "word": "孙颖莎3比0穆罕默德",
+      "onboard_time": 1740112881,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84024,
       "num": 274208,
       "word": "哪一首是你春天的主题曲",
@@ -14356,7 +14404,7 @@
     },
     {
       "raw_hot": 81412,
-      "num": 232080,
+      "num": 363166,
       "word": "领克高管称豪华音响不是豪车特权",
       "onboard_time": 1740110662,
       "rank": 29,
@@ -15796,7 +15844,7 @@
     },
     {
       "raw_hot": 44143,
-      "num": 1379893,
+      "num": 1529347,
       "word": "e法黔行",
       "onboard_time": 1740108860,
       "rank": 2,
@@ -16481,6 +16529,14 @@
       "onboard_time": 1739804302,
       "rank": 19,
       "category": "电影,民生新闻"
+    },
+    {
+      "raw_hot": 27012,
+      "num": 454130,
+      "word": "女演员称未成年时被郑某峰强行舌吻",
+      "onboard_time": 1740112462,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 26844,
