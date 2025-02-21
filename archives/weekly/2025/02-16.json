@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1740109307434,
+  "endTime": 1740112116241,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 2689110,
-      "num": 572635,
+      "num": 620950,
       "word": "黄景瑜 张艺上",
       "onboard_time": 1740099919,
       "rank": 10,
@@ -419,6 +419,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1915304,
+      "num": 1915304,
+      "word": "民警建议家里不要安装摄像头",
+      "onboard_time": 1740109160,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1889517,
       "num": 260216,
       "word": "男孩蛋蛋被同学踢碎成果冻",
@@ -568,6 +576,14 @@
       "word": "金赛纶负债高达7亿韩元",
       "onboard_time": 1739793739,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1649351,
+      "num": 1649351,
+      "word": "张艺上单身",
+      "onboard_time": 1740110479,
+      "rank": 1,
       "category": "艺人"
     },
     {
@@ -993,6 +1009,14 @@
       "onboard_time": 1739757078,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1282119,
+      "num": 1282119,
+      "word": "DeepSeek回答要不要买房",
+      "onboard_time": 1740108680,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 1269182,
@@ -3051,6 +3075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 553882,
+      "num": 553882,
+      "word": "我家敖丙可以考公吗",
+      "onboard_time": 1740108559,
+      "rank": 27,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 549364,
       "num": 549364,
       "word": "波兰发布世界首个双足肌肉骨骼机器人",
@@ -3163,6 +3195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 538726,
+      "num": 444211,
+      "word": "陈凯歌章子怡的耐心都给了张亮",
+      "onboard_time": 1740109401,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 538479,
       "num": 538479,
       "word": "原来只有敖光是纯正龙族血统",
@@ -3241,6 +3281,14 @@
       "onboard_time": 1739881944,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 521984,
+      "num": 621023,
+      "word": "周深四首歌被纳入九年义务教育教材",
+      "onboard_time": 1740108200,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 521339,
@@ -4131,6 +4179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 419177,
+      "num": 419177,
+      "word": "泽连斯基称乌军爱国者导弹已耗尽",
+      "onboard_time": 1740109700,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 418645,
       "num": 418645,
       "word": "原来难哄的是桑延",
@@ -4227,6 +4283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 405699,
+      "num": 405699,
+      "word": "苗苗共情力好强",
+      "onboard_time": 1740108080,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 404825,
       "num": 404825,
       "word": "导演郑某峰被曝曾说陪睡就让演主角",
@@ -4241,6 +4305,14 @@
       "onboard_time": 1739956462,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 403572,
+      "num": 403572,
+      "word": "网友晒苏州28元一颗花生冰淇淋",
+      "onboard_time": 1740107120,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 403230,
@@ -4667,14 +4739,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 369009,
-      "num": 369009,
-      "word": "苗苗共情力好强",
-      "onboard_time": 1740108080,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 367647,
       "num": 314910,
       "word": "万花世界 鞠婧祎",
@@ -4811,6 +4875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 357456,
+      "num": 357456,
+      "word": "黄杨钿甜拜了艺考之神董思成",
+      "onboard_time": 1740111020,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 356907,
       "num": 356907,
       "word": "网传小学老师因末位淘汰轻生",
@@ -4939,14 +5011,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 347482,
-      "num": 347482,
-      "word": "网友晒苏州28元一颗花生冰淇淋",
-      "onboard_time": 1740107120,
-      "rank": 24,
-      "category": "美食"
-    },
-    {
       "raw_hot": 347410,
       "num": 347410,
       "word": "迪丽热巴风衣阔腿裤造型",
@@ -4961,6 +5025,14 @@
       "onboard_time": 1739773279,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 345642,
+      "num": 345642,
+      "word": "结石姐这辈子没遭这罪",
+      "onboard_time": 1740110600,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 345557,
@@ -6091,14 +6163,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 270132,
-      "num": 270132,
-      "word": "DeepSeek回答要不要买房",
-      "onboard_time": 1740108680,
-      "rank": 31,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 269716,
       "num": 463000,
       "word": "网友偶遇赵露思山区做公益",
@@ -6291,6 +6355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 261412,
+      "num": 261412,
+      "word": "霸总们为王心凌拼了",
+      "onboard_time": 1740111322,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 261178,
       "num": 261178,
       "word": "魏晨擦防晒只用擦额头",
@@ -6377,14 +6449,6 @@
       "onboard_time": 1739634741,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 256906,
-      "num": 303309,
-      "word": "我家敖丙可以考公吗",
-      "onboard_time": 1740108559,
-      "rank": 27,
-      "category": "电影,动漫"
     },
     {
       "raw_hot": 256861,
@@ -6569,14 +6633,6 @@
       "onboard_time": 1739767521,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 251691,
-      "num": 251691,
-      "word": "周深四首歌被纳入九年义务教育教材",
-      "onboard_time": 1740108200,
-      "rank": 34,
-      "category": "音乐"
     },
     {
       "raw_hot": 251421,
@@ -7169,6 +7225,14 @@
       "onboard_time": 1739638698,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 230919,
+      "num": 230919,
+      "word": "傅首尔被强势爸爸的逻辑震撼了",
+      "onboard_time": 1740109160,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 230841,
@@ -7937,6 +8001,14 @@
       "onboard_time": 1739949200,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209232,
+      "num": 209232,
+      "word": "女子上公厕染上诺如病毒",
+      "onboard_time": 1740111802,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 209087,
@@ -9099,6 +9171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 191316,
+      "num": 191316,
+      "word": "山东大学停招27个专业",
+      "onboard_time": 1740111322,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 191037,
       "num": 191037,
       "word": "一高中禁带面包后菜价降5毛",
@@ -9217,14 +9297,6 @@
       "onboard_time": 1740057443,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 188723,
-      "num": 188723,
-      "word": "民警建议家里不要安装摄像头",
-      "onboard_time": 1740109160,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 188683,
@@ -9867,6 +9939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176272,
+      "num": 176272,
+      "word": "火灵儿垂耳兔",
+      "onboard_time": 1740111201,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 176199,
       "num": 176199,
       "word": "钟辰乐去了朴志晟生日会",
@@ -9971,6 +10051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173278,
+      "num": 173278,
+      "word": "LESSERAFIM不死",
+      "onboard_time": 1740111561,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 172997,
       "num": 172997,
       "word": "宁艺卓 FILA",
@@ -10049,6 +10137,14 @@
       "onboard_time": 1739696479,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171365,
+      "num": 171365,
+      "word": "网红退钱哥加盟中冠新疆球队",
+      "onboard_time": 1740111920,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 171357,
@@ -10491,14 +10587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 163510,
-      "num": 163510,
-      "word": "傅首尔被强势爸爸的逻辑震撼了",
-      "onboard_time": 1740109160,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 163493,
       "num": 163493,
       "word": "deepseek",
@@ -10691,6 +10779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161235,
+      "num": 161235,
+      "word": "阅文IP盛典阵容官宣",
+      "onboard_time": 1740110360,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161187,
       "num": 514432,
       "word": "孙颖莎3比0简彤娟",
@@ -10816,6 +10912,22 @@
       "word": "数十个饺子导演账号全是假的",
       "onboard_time": 1739794879,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158025,
+      "num": 158025,
+      "word": "A股联通涨停",
+      "onboard_time": 1740111201,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 157972,
+      "num": 157972,
+      "word": "男子时隔6年回老家发现老猫还在守家",
+      "onboard_time": 1740111744,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -11081,6 +11193,14 @@
       "onboard_time": 1740063862,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152956,
+      "num": 179915,
+      "word": "景甜换了似锦里姜似的头像",
+      "onboard_time": 1740111744,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 152803,
@@ -11377,6 +11497,14 @@
       "onboard_time": 1740060443,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147629,
+      "num": 147629,
+      "word": "美国反对称俄为侵略者",
+      "onboard_time": 1740109879,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 147580,
@@ -12099,6 +12227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134353,
+      "num": 407070,
+      "word": "孙颖莎vs穆罕默德",
+      "onboard_time": 1740111382,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134126,
       "num": 134126,
       "word": "上海聋哑老人唯一房产被亲弟偷卖",
@@ -12672,6 +12808,14 @@
       "word": "医生建议雨水时节要午睡20分钟",
       "onboard_time": 1739839100,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121927,
+      "num": 233272,
+      "word": "多人曝与被行李箱砸中孕妇类似经历",
+      "onboard_time": 1740110600,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -14211,6 +14355,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 81412,
+      "num": 232080,
+      "word": "领克高管称豪华音响不是豪车特权",
+      "onboard_time": 1740110662,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 80589,
       "num": 322316,
       "word": "刘昊然董思成代露娃是大学同学",
@@ -15643,6 +15795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44143,
+      "num": 1379893,
+      "word": "e法黔行",
+      "onboard_time": 1740108860,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44004,
       "num": 235323,
       "word": "原神5.4版本",
@@ -16873,14 +17033,6 @@
       "onboard_time": 1739695398,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 18885,
-      "num": 905800,
-      "word": "e法黔行",
-      "onboard_time": 1740108860,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18823,

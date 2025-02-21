@@ -1,0 +1,410 @@
+{
+  "runTime": 1740112116241,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1915304,
+        "num": 1915304,
+        "word": "民警建议家里不要安装摄像头",
+        "onboard_time": 1740109160,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1649351,
+        "num": 1649351,
+        "word": "张艺上单身",
+        "onboard_time": 1740110479,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44143,
+        "num": 1379893,
+        "word": "e法黔行",
+        "onboard_time": 1740108860,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1282119,
+        "num": 1282119,
+        "word": "DeepSeek回答要不要买房",
+        "onboard_time": 1740108680,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1024663,
+        "num": 1024663,
+        "word": "有骑手抵触缴纳社保",
+        "onboard_time": 1740105200,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1866716,
+        "num": 991014,
+        "word": "特朗普恢复死刑",
+        "onboard_time": 1740102440,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 840349,
+        "num": 840349,
+        "word": "哪吒2冲击全球影史前三",
+        "onboard_time": 1740100520,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 817453,
+        "num": 817453,
+        "word": "阿奴还没变我已经老了",
+        "onboard_time": 1740105559,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 624303,
+        "num": 624303,
+        "word": "母亲去世后亲弟侵吞聋哑哥哥退休金",
+        "onboard_time": 1740100760,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 521984,
+        "num": 621023,
+        "word": "周深四首歌被纳入九年义务教育教材",
+        "onboard_time": 1740108200,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1917150,
+        "num": 620950,
+        "word": "黄景瑜 张艺上",
+        "onboard_time": 1740099919,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 706479,
+        "num": 620625,
+        "word": "七仙女饰演者称被郑某峰搂抱亲脸",
+        "onboard_time": 1740104720,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 619292,
+        "num": 619292,
+        "word": "医生提醒挖鼻孔或诱发颅内感染",
+        "onboard_time": 1740105080,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 553882,
+        "num": 553882,
+        "word": "我家敖丙可以考公吗",
+        "onboard_time": 1740108559,
+        "rank": 13,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 447468,
+        "num": 447468,
+        "word": "女子怀孕5个月被诊所当妇科病治疗",
+        "onboard_time": 1740064224,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 797684,
+        "num": 444767,
+        "word": "黄景瑜 女朋友",
+        "onboard_time": 1740064343,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 538726,
+        "num": 444211,
+        "word": "陈凯歌章子怡的耐心都给了张亮",
+        "onboard_time": 1740109401,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 441469,
+        "num": 441469,
+        "word": "16岁女生背着父母签下10年主播合约",
+        "onboard_time": 1740102440,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 419177,
+        "num": 419177,
+        "word": "泽连斯基称乌军爱国者导弹已耗尽",
+        "onboard_time": 1740109700,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134353,
+        "num": 407070,
+        "word": "孙颖莎vs穆罕默德",
+        "onboard_time": 1740111382,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 405699,
+        "num": 405699,
+        "word": "苗苗共情力好强",
+        "onboard_time": 1740108080,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 403572,
+        "num": 403572,
+        "word": "网友晒苏州28元一颗花生冰淇淋",
+        "onboard_time": 1740107120,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 357456,
+        "num": 357456,
+        "word": "黄杨钿甜拜了艺考之神董思成",
+        "onboard_time": 1740111020,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345642,
+        "num": 345642,
+        "word": "结石姐这辈子没遭这罪",
+        "onboard_time": 1740110600,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 261412,
+        "num": 261412,
+        "word": "霸总们为王心凌拼了",
+        "onboard_time": 1740111322,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 256429,
+        "num": 256429,
+        "word": "deepseek一两分钟干了我一两天的活",
+        "onboard_time": 1740058822,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242152,
+        "num": 242152,
+        "word": "燃气表抖动工作人员回复死了会赔",
+        "onboard_time": 1740106940,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238146,
+        "num": 238146,
+        "word": "赵露思广告大片",
+        "onboard_time": 1740107000,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 121927,
+        "num": 233272,
+        "word": "多人曝与被行李箱砸中孕妇类似经历",
+        "onboard_time": 1740110600,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81412,
+        "num": 232080,
+        "word": "领克高管称豪华音响不是豪车特权",
+        "onboard_time": 1740110662,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 231293,
+        "num": 231293,
+        "word": "哪吒票房",
+        "onboard_time": 1740105439,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 230919,
+        "num": 230919,
+        "word": "傅首尔被强势爸爸的逻辑震撼了",
+        "onboard_time": 1740109160,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209232,
+        "num": 209232,
+        "word": "女子上公厕染上诺如病毒",
+        "onboard_time": 1740111802,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198783,
+        "num": 198783,
+        "word": "印度女孩画画还原父亲杀母过程",
+        "onboard_time": 1740105439,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 191316,
+        "num": 191316,
+        "word": "山东大学停招27个专业",
+        "onboard_time": 1740111322,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 183467,
+        "num": 183467,
+        "word": "夫妻在赌博诈骗和投案之间选择了自杀",
+        "onboard_time": 1740101238,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182153,
+        "num": 182153,
+        "word": "杨幂反转芭莎大片",
+        "onboard_time": 1740108020,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 152956,
+        "num": 179915,
+        "word": "景甜换了似锦里姜似的头像",
+        "onboard_time": 1740111744,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179221,
+        "num": 179221,
+        "word": "刘涛坐宋佳腿上说话",
+        "onboard_time": 1740094758,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176272,
+        "num": 176272,
+        "word": "火灵儿垂耳兔",
+        "onboard_time": 1740111201,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173278,
+        "num": 173278,
+        "word": "LESSERAFIM不死",
+        "onboard_time": 1740111561,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173075,
+        "num": 173075,
+        "word": "中国海军喊话菲律宾现场视频",
+        "onboard_time": 1740107059,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 171365,
+        "num": 171365,
+        "word": "网红退钱哥加盟中冠新疆球队",
+        "onboard_time": 1740111920,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161235,
+        "num": 161235,
+        "word": "阅文IP盛典阵容官宣",
+        "onboard_time": 1740110360,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158025,
+        "num": 158025,
+        "word": "A股联通涨停",
+        "onboard_time": 1740111201,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 157972,
+        "num": 157972,
+        "word": "男子时隔6年回老家发现老猫还在守家",
+        "onboard_time": 1740111744,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157863,
+        "num": 157863,
+        "word": "全村老人最喜欢的年轻人出现了",
+        "onboard_time": 1740105080,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155935,
+        "num": 155935,
+        "word": "陈丽君2024中国妇女时代人物",
+        "onboard_time": 1740077292,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155841,
+        "num": 155841,
+        "word": "A股",
+        "onboard_time": 1740108500,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 147629,
+        "num": 147629,
+        "word": "美国反对称俄为侵略者",
+        "onboard_time": 1740109879,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的科技情怀#"
+    }
+  }
+}
