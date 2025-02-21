@@ -1,0 +1,410 @@
+{
+  "runTime": 1740109307434,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1643541,
+        "num": 1643541,
+        "word": "有骑手抵触缴纳社保",
+        "onboard_time": 1740105200,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1177865,
+        "num": 1177865,
+        "word": "阿奴还没变我已经老了",
+        "onboard_time": 1740105559,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18885,
+        "num": 905800,
+        "word": "e法黔行",
+        "onboard_time": 1740108860,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 807740,
+        "num": 807740,
+        "word": "医生提醒挖鼻孔或诱发颅内感染",
+        "onboard_time": 1740105080,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 744303,
+        "num": 744303,
+        "word": "母亲去世后亲弟侵吞聋哑哥哥退休金",
+        "onboard_time": 1740100760,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2396509,
+        "num": 715494,
+        "word": "特朗普恢复死刑",
+        "onboard_time": 1740102440,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1077137,
+        "num": 696037,
+        "word": "七仙女饰演者称被郑某峰搂抱亲脸",
+        "onboard_time": 1740104720,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 899593,
+        "num": 689328,
+        "word": "哪吒2冲击全球影史前三",
+        "onboard_time": 1740100520,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 620400,
+        "num": 620400,
+        "word": "16岁女生背着父母签下10年主播合约",
+        "onboard_time": 1740102440,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 486900,
+        "num": 486900,
+        "word": "deepseek一两分钟干了我一两天的活",
+        "onboard_time": 1740058822,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2417229,
+        "num": 481636,
+        "word": "黄景瑜 张艺上",
+        "onboard_time": 1740099919,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 474260,
+        "num": 474260,
+        "word": "哪吒票房",
+        "onboard_time": 1740105439,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 467009,
+        "num": 467009,
+        "word": "女子怀孕5个月被诊所当妇科病治疗",
+        "onboard_time": 1740064224,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205842,
+        "num": 452476,
+        "word": "中国海军喊话菲律宾现场视频",
+        "onboard_time": 1740107059,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 342415,
+        "num": 435674,
+        "word": "燃气表抖动工作人员回复死了会赔",
+        "onboard_time": 1740106940,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221013,
+        "num": 413295,
+        "word": "前公司副总称张艺上单身",
+        "onboard_time": 1740108260,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 790971,
+        "num": 371866,
+        "word": "黄景瑜 女朋友",
+        "onboard_time": 1740064343,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369009,
+        "num": 369009,
+        "word": "苗苗共情力好强",
+        "onboard_time": 1740108080,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36087,
+        "num": 352464,
+        "word": "三登珠峰王石要开中国智驾车去",
+        "onboard_time": 1740107658,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 57091,
+        "num": 349736,
+        "word": "王艺迪3比0哈萨尼",
+        "onboard_time": 1740108200,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 397258,
+        "num": 349048,
+        "word": "印度女孩画画还原父亲杀母过程",
+        "onboard_time": 1740105439,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 347684,
+        "num": 347684,
+        "word": "特朗普终止美联邦政府平权政策",
+        "onboard_time": 1740105080,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 68747,
+        "num": 347573,
+        "word": "美联储可能面临审计",
+        "onboard_time": 1740107479,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 347482,
+        "num": 347482,
+        "word": "网友晒苏州28元一颗花生冰淇淋",
+        "onboard_time": 1740107120,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 325643,
+        "num": 325643,
+        "word": "赵露思广告大片",
+        "onboard_time": 1740107000,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 54604,
+        "num": 310377,
+        "word": "湖人vs开拓者",
+        "onboard_time": 1740109101,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268186,
+        "num": 306345,
+        "word": "杨幂反转芭莎大片",
+        "onboard_time": 1740108020,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 256906,
+        "num": 303309,
+        "word": "我家敖丙可以考公吗",
+        "onboard_time": 1740108559,
+        "rank": 27,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 302794,
+        "num": 302794,
+        "word": "刘涛坐宋佳腿上说话",
+        "onboard_time": 1740094758,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13291,
+        "num": 289754,
+        "word": "女演员回忆8年前被郑某峰性骚扰",
+        "onboard_time": 1740108979,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289731,
+        "num": 289731,
+        "word": "夫妻在赌博诈骗和投案之间选择了自杀",
+        "onboard_time": 1740101238,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270132,
+        "num": 270132,
+        "word": "DeepSeek回答要不要买房",
+        "onboard_time": 1740108680,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 259442,
+        "num": 259442,
+        "word": "全村老人最喜欢的年轻人出现了",
+        "onboard_time": 1740105080,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251691,
+        "num": 251691,
+        "word": "周深四首歌被纳入九年义务教育教材",
+        "onboard_time": 1740108200,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188723,
+        "num": 188723,
+        "word": "民警建议家里不要安装摄像头",
+        "onboard_time": 1740109160,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185367,
+        "num": 185367,
+        "word": "张凌赫保镖接错人",
+        "onboard_time": 1740102919,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172584,
+        "num": 172584,
+        "word": "A股",
+        "onboard_time": 1740108500,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 167981,
+        "num": 167981,
+        "word": "国博白瓷玉漱公主再度爆火",
+        "onboard_time": 1740102139,
+        "rank": 37,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 166093,
+        "num": 166093,
+        "word": "宋佳获年度女主角",
+        "onboard_time": 1740107000,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163510,
+        "num": 163510,
+        "word": "傅首尔被强势爸爸的逻辑震撼了",
+        "onboard_time": 1740109160,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159374,
+        "num": 159374,
+        "word": "南部战区对菲非法闯入飞机警告驱离",
+        "onboard_time": 1740107240,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 156448,
+        "num": 156448,
+        "word": "种地吧祝贺十个勤天成立2周年",
+        "onboard_time": 1740105620,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153941,
+        "num": 156144,
+        "word": "安徽一厂房发生火灾3名消防员牺牲",
+        "onboard_time": 1740106459,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155920,
+        "num": 155920,
+        "word": "四岁人类幼崽开发米饭新吃法",
+        "onboard_time": 1740108860,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36694,
+        "num": 155382,
+        "word": "中国智造已经是NextLevel",
+        "onboard_time": 1740108620,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155259,
+        "num": 155259,
+        "word": "马嘉祺回国落地狂炫饭",
+        "onboard_time": 1740100520,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153255,
+        "num": 153255,
+        "word": "家长让男孩站好拍照时男孩踩爆水管",
+        "onboard_time": 1740106039,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152722,
+        "num": 152722,
+        "word": "迪丽热巴多起侵权案均已胜诉",
+        "onboard_time": 1740105559,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150366,
+        "num": 150366,
+        "word": "混血宝宝做作业全是小动作",
+        "onboard_time": 1740108500,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143731,
+        "num": 143731,
+        "word": "iPhone17系列将采用LTPO屏幕",
+        "onboard_time": 1740100760,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的科技情怀#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1740108481766,
+  "endTime": 1740109307434,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -571,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1643541,
+      "num": 1643541,
+      "word": "有骑手抵触缴纳社保",
+      "onboard_time": 1740105200,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1627621,
       "num": 1627621,
       "word": "AI公务员上岗",
@@ -633,14 +641,6 @@
       "onboard_time": 1739682858,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1553711,
-      "num": 1553711,
-      "word": "有骑手抵触缴纳社保",
-      "onboard_time": 1740105200,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1547282,
@@ -1155,6 +1155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1177865,
+      "num": 1177865,
+      "word": "阿奴还没变我已经老了",
+      "onboard_time": 1740105559,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1167967,
       "num": 1167967,
       "word": "光线传媒5分钟巨震40%",
@@ -1233,14 +1241,6 @@
       "onboard_time": 1740062063,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1120176,
-      "num": 1120176,
-      "word": "阿奴还没变我已经老了",
-      "onboard_time": 1740105559,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 1116714,
@@ -1993,6 +1993,14 @@
       "onboard_time": 1739932880,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 807740,
+      "num": 807740,
+      "word": "医生提醒挖鼻孔或诱发颅内感染",
+      "onboard_time": 1740105080,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 803700,
@@ -4659,6 +4667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 369009,
+      "num": 369009,
+      "word": "苗苗共情力好强",
+      "onboard_time": 1740108080,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 367647,
       "num": 314910,
       "word": "万花世界 鞠婧祎",
@@ -4785,14 +4801,6 @@
       "onboard_time": 1739959460,
       "rank": 35,
       "category": "美食"
-    },
-    {
-      "raw_hot": 358153,
-      "num": 573816,
-      "word": "医生提醒挖鼻孔或诱发颅内感染",
-      "onboard_time": 1740105080,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 358132,
@@ -4931,6 +4939,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 347482,
+      "num": 347482,
+      "word": "网友晒苏州28元一颗花生冰淇淋",
+      "onboard_time": 1740107120,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 347410,
       "num": 347410,
       "word": "迪丽热巴风衣阔腿裤造型",
@@ -5017,6 +5033,14 @@
       "onboard_time": 1740030381,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 342415,
+      "num": 460853,
+      "word": "燃气表抖动工作人员回复死了会赔",
+      "onboard_time": 1740106940,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 341096,
@@ -5603,14 +5627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 293919,
-      "num": 293919,
-      "word": "网友晒苏州28元一颗花生冰淇淋",
-      "onboard_time": 1740107120,
-      "rank": 24,
-      "category": "美食"
-    },
-    {
       "raw_hot": 293565,
       "num": 360511,
       "word": "樊振东将出席启德体育园开幕典礼",
@@ -6075,6 +6091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 270132,
+      "num": 270132,
+      "word": "DeepSeek回答要不要买房",
+      "onboard_time": 1740108680,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 269716,
       "num": 463000,
       "word": "网友偶遇赵露思山区做公益",
@@ -6113,6 +6137,14 @@
       "onboard_time": 1739886082,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 268186,
+      "num": 306345,
+      "word": "杨幂反转芭莎大片",
+      "onboard_time": 1740108020,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 268016,
@@ -6347,6 +6379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256906,
+      "num": 303309,
+      "word": "我家敖丙可以考公吗",
+      "onboard_time": 1740108559,
+      "rank": 27,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 256861,
       "num": 256861,
       "word": "女生宿舍开学后减肥现状",
@@ -6529,6 +6569,14 @@
       "onboard_time": 1739767521,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 251691,
+      "num": 251691,
+      "word": "周深四首歌被纳入九年义务教育教材",
+      "onboard_time": 1740108200,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 251421,
@@ -7379,12 +7427,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 221203,
-      "num": 460853,
-      "word": "燃气表抖动工作人员回复死了会赔",
-      "onboard_time": 1740106940,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 221013,
+      "num": 413295,
+      "word": "前公司副总称张艺上单身",
+      "onboard_time": 1740108260,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 220945,
@@ -8059,6 +8107,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 205842,
+      "num": 452476,
+      "word": "中国海军喊话菲律宾现场视频",
+      "onboard_time": 1740107059,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 205744,
       "num": 205744,
       "word": "郭子凡徐梦洁新剧演夫妻",
@@ -8361,14 +8417,6 @@
       "onboard_time": 1739882662,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 201174,
-      "num": 201174,
-      "word": "杨幂反转芭莎大片",
-      "onboard_time": 1740108020,
-      "rank": 27,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 200780,
@@ -8771,14 +8819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195422,
-      "num": 195422,
-      "word": "中国海军喊话菲律宾现场视频",
-      "onboard_time": 1740107059,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 195327,
       "num": 195327,
       "word": "张本智和3比0吴晙诚",
@@ -9177,6 +9217,14 @@
       "onboard_time": 1740057443,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188723,
+      "num": 188723,
+      "word": "民警建议家里不要安装摄像头",
+      "onboard_time": 1740109160,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 188683,
@@ -9827,14 +9875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 175807,
-      "num": 175807,
-      "word": "周深四首歌被纳入九年义务教育教材",
-      "onboard_time": 1740108200,
-      "rank": 34,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 175515,
       "num": 262353,
       "word": "浙江文旅欢迎王一博",
@@ -9953,14 +9993,6 @@
       "onboard_time": 1740045800,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 172872,
-      "num": 172872,
-      "word": "苗苗共情力好强",
-      "onboard_time": 1740108080,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 172454,
@@ -10193,14 +10225,6 @@
       "onboard_time": 1739689638,
       "rank": 28,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 168883,
-      "num": 178340,
-      "word": "前公司副总称张艺上单身",
-      "onboard_time": 1740108260,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 168563,
@@ -10465,6 +10489,14 @@
       "onboard_time": 1739797580,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163510,
+      "num": 163510,
+      "word": "傅首尔被强势爸爸的逻辑震撼了",
+      "onboard_time": 1740109160,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 163493,
@@ -10899,6 +10931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155920,
+      "num": 155920,
+      "word": "四岁人类幼崽开发米饭新吃法",
+      "onboard_time": 1740108860,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155726,
       "num": 155726,
       "word": "董思成北京环球影城被偶遇",
@@ -11185,6 +11225,14 @@
       "onboard_time": 1739883803,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150366,
+      "num": 150366,
+      "word": "混血宝宝做作业全是小动作",
+      "onboard_time": 1740108500,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 150233,
@@ -14627,6 +14675,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 68747,
+      "num": 351217,
+      "word": "美联储可能面临审计",
+      "onboard_time": 1740107479,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 68719,
       "num": 248992,
       "word": "阿信西装照幻视黑执事了",
@@ -15043,6 +15099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 57091,
+      "num": 349736,
+      "word": "王艺迪3比0哈萨尼",
+      "onboard_time": 1740108200,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 56861,
       "num": 161811,
       "word": "格林给全明星新赛制打0分",
@@ -15113,6 +15177,14 @@
       "onboard_time": 1739896996,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54604,
+      "num": 310377,
+      "word": "湖人vs开拓者",
+      "onboard_time": 1740109101,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 54502,
@@ -15252,7 +15324,7 @@
     },
     {
       "raw_hot": 51351,
-      "num": 351057,
+      "num": 352464,
       "word": "三登珠峰王石要开中国智驾车去",
       "onboard_time": 1740107658,
       "rank": 19,
@@ -15393,14 +15465,6 @@
       "onboard_time": 1739803162,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 48196,
-      "num": 351217,
-      "word": "美联储可能面临审计",
-      "onboard_time": 1740107479,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 48020,
@@ -15865,6 +15929,14 @@
       "onboard_time": 1739814913,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 36694,
+      "num": 155382,
+      "word": "中国智造已经是NextLevel",
+      "onboard_time": 1740108620,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36571,
@@ -16435,14 +16507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 23949,
-      "num": 349180,
-      "word": "王艺迪3比0哈萨尼",
-      "onboard_time": 1740108200,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 23912,
       "num": 23912,
       "word": "王天辰古子成GLASS",
@@ -16811,6 +16875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 18885,
+      "num": 905800,
+      "word": "e法黔行",
+      "onboard_time": 1740108860,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18823,
       "num": 536194,
       "word": "竞演综艺中演技为何成了奢侈品",
@@ -17057,6 +17129,14 @@
       "onboard_time": 1739653691,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 13291,
+      "num": 289754,
+      "word": "女演员回忆8年前被郑某峰性骚扰",
+      "onboard_time": 1740108979,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 13197,
