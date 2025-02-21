@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740122513532,
+  "endTime": 1740123349944,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1619,6 +1619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1893469,
+      "num": 1893469,
+      "word": "DeepSeek评中国最宜居城市",
+      "onboard_time": 1740118279,
+      "rank": 5,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 1889517,
       "num": 260216,
       "word": "男孩蛋蛋被同学踢碎成果冻",
@@ -1673,14 +1681,6 @@
       "onboard_time": 1739110221,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1859476,
-      "num": 1859476,
-      "word": "DeepSeek评中国最宜居城市",
-      "onboard_time": 1740118279,
-      "rank": 5,
-      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 1856441,
@@ -1777,6 +1777,14 @@
       "onboard_time": 1739950641,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1836965,
+      "num": 1836965,
+      "word": "难哄删除争议镜头",
+      "onboard_time": 1740120380,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 1835915,
@@ -2017,14 +2025,6 @@
       "onboard_time": 1739624600,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1711919,
-      "num": 1711919,
-      "word": "难哄删除争议镜头",
-      "onboard_time": 1740120380,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 1710243,
@@ -9523,6 +9523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 613011,
+      "num": 613011,
+      "word": "六姊妹妻子入狱丈夫一夜白头",
+      "onboard_time": 1740120080,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 612730,
       "num": 612730,
       "word": "员工偷换理发店收款码3年窃取189万",
@@ -10112,6 +10120,14 @@
       "word": "山东一公司不结婚就离职规定被叫停",
       "onboard_time": 1739522541,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 577758,
+      "num": 485414,
+      "word": "27岁留学博士被控在英性侵10名女性",
+      "onboard_time": 1740120619,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -10883,6 +10899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 545804,
+      "num": 708684,
+      "word": "女子偷窃求助deepseek如何免责",
+      "onboard_time": 1740117860,
+      "rank": 13,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 545420,
       "num": 545420,
       "word": "儿子爆改50岁老爸迷住妈妈",
@@ -11121,14 +11145,6 @@
       "onboard_time": 1739239880,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 537373,
-      "num": 708684,
-      "word": "女子偷窃求助deepseek如何免责",
-      "onboard_time": 1740117860,
-      "rank": 13,
-      "category": "互联网"
     },
     {
       "raw_hot": 537034,
@@ -15771,14 +15787,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 381103,
-      "num": 381103,
-      "word": "27岁留学博士被控在英性侵10名女性",
-      "onboard_time": 1740120619,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 381027,
       "num": 381027,
       "word": "王楚钦3比0卡尔伯格",
@@ -16947,14 +16955,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 351379,
-      "num": 351379,
-      "word": "六姊妹妻子入狱丈夫一夜白头",
-      "onboard_time": 1740120080,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 351241,
       "num": 269419,
       "word": "吒儿大张伟同台",
@@ -17953,6 +17953,14 @@
       "onboard_time": 1738315277,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 330101,
+      "num": 330101,
+      "word": "卢靖姗把煎饼认成抽纸",
+      "onboard_time": 1740121398,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 329825,
@@ -20747,14 +20755,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 282783,
-      "num": 282783,
-      "word": "卢靖姗把煎饼认成抽纸",
-      "onboard_time": 1740121398,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 282715,
       "num": 292516,
       "word": "喝酒前吃了药一家三口被送抢救室",
@@ -23467,6 +23467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 248141,
+      "num": 248141,
+      "word": "哇唧唧哇新人原野出演难哄男三",
+      "onboard_time": 1740122539,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 247906,
       "num": 234392,
       "word": "六姊妹 嫁给对的人是什么感觉",
@@ -24979,6 +24987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 232058,
+      "num": 232058,
+      "word": "乌克兰准备与美国签署稀土资源协议",
+      "onboard_time": 1740120619,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 231799,
       "num": 231799,
       "word": "用deepseek写的歌在网易云火了",
@@ -25289,6 +25305,14 @@
       "onboard_time": 1738904725,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 228864,
+      "num": 228864,
+      "word": "女子盗窃后问DeepSeek怎样免责",
+      "onboard_time": 1740121040,
+      "rank": 33,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 228859,
@@ -25969,14 +25993,6 @@
       "onboard_time": 1739336481,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 224004,
-      "num": 224004,
-      "word": "女子盗窃后问DeepSeek怎样免责",
-      "onboard_time": 1740121040,
-      "rank": 33,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 223954,
@@ -37625,14 +37641,6 @@
       "onboard_time": 1739530281,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 165044,
-      "num": 204998,
-      "word": "乌克兰准备与美国签署稀土资源协议",
-      "onboard_time": 1740120619,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 165016,
@@ -50155,6 +50163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103607,
+      "num": 278572,
+      "word": "夏以昼我们的夏天没有尽头",
+      "onboard_time": 1740122061,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 103605,
       "num": 197291,
       "word": "河南周口回应澡堂垮塌",
@@ -50931,6 +50947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99788,
+      "num": 316130,
+      "word": "为什么不能挖鼻孔",
+      "onboard_time": 1740121999,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 99733,
       "num": 862817,
       "word": "多地春节现人人人人人场面",
@@ -51315,14 +51339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 96855,
-      "num": 278572,
-      "word": "夏以昼我们的夏天没有尽头",
-      "onboard_time": 1740122061,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 96828,
       "num": 290917,
       "word": "黄杨钿甜带着野心来了",
@@ -51520,6 +51536,14 @@
       "word": "马库斯惊叹被轰炸建筑又活过来了",
       "onboard_time": 1739972062,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95596,
+      "num": 432095,
+      "word": "为骑手缴纳社保单均成本增幅1元",
+      "onboard_time": 1740122899,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -52049,6 +52073,14 @@
       "onboard_time": 1738908684,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 91934,
+      "num": 501119,
+      "word": "菲方飞机带外国记者闯入黄岩岛",
+      "onboard_time": 1740121759,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 91765,
@@ -52705,6 +52737,14 @@
       "onboard_time": 1738769724,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 85494,
+      "num": 313209,
+      "word": "中国电信股价历史新高",
+      "onboard_time": 1740123140,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 85423,
@@ -53465,6 +53505,14 @@
       "onboard_time": 1738902806,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79593,
+      "num": 321235,
+      "word": "醉酒男子跌落3米水井隔天才被发现",
+      "onboard_time": 1740121821,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79526,
@@ -54401,6 +54449,14 @@
       "onboard_time": 1739514982,
       "rank": 43,
       "category": "艺人,汽车"
+    },
+    {
+      "raw_hot": 71917,
+      "num": 402015,
+      "word": "挥拍类运动的好处被低估了",
+      "onboard_time": 1740121942,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71753,
@@ -55641,14 +55697,6 @@
       "onboard_time": 1738413618,
       "rank": 19,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 62497,
-      "num": 270078,
-      "word": "为什么不能挖鼻孔",
-      "onboard_time": 1740121999,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 62492,
@@ -57371,6 +57419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 51863,
+      "num": 444776,
+      "word": "法国小伙讲述日军在华屠杀暴行",
+      "onboard_time": 1740121460,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51849,
       "num": 272613,
       "word": "回南天让人难受的原因找到了",
@@ -57883,6 +57939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49029,
+      "num": 472914,
+      "word": "金价大涨滋生多种新型诈骗",
+      "onboard_time": 1740121942,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49010,
       "num": 206069,
       "word": "克莱打勇士下死手",
@@ -57955,14 +58019,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 48576,
-      "num": 273970,
-      "word": "醉酒男子跌落3米水井隔天才被发现",
-      "onboard_time": 1740121821,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 48562,
       "num": 199584,
       "word": "蒯曼生日当天夺冠",
@@ -58011,6 +58067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48362,
+      "num": 455904,
+      "word": "GAI2025巡演首场官宣直播",
+      "onboard_time": 1740122781,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 48339,
       "num": 112694,
       "word": "被张凌赫360度包围了",
@@ -58057,6 +58121,14 @@
       "onboard_time": 1739270302,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 48132,
+      "num": 442897,
+      "word": "白敬亭脸上笑嘻嘻心里哭唧唧",
+      "onboard_time": 1740123020,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 48020,
@@ -58897,14 +58969,6 @@
       "onboard_time": 1738468458,
       "rank": 2,
       "category": "民生新闻,正能量"
-    },
-    {
-      "raw_hot": 42435,
-      "num": 444776,
-      "word": "法国小伙讲述日军在华屠杀暴行",
-      "onboard_time": 1740121460,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 42391,
@@ -60531,12 +60595,12 @@
       "category": "国内时政,科学科普"
     },
     {
-      "raw_hot": 32860,
-      "num": 469743,
-      "word": "菲方飞机带外国记者闯入黄岩岛",
-      "onboard_time": 1740121759,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 32896,
+      "num": 245735,
+      "word": "林书豪发文致敬姚明",
+      "onboard_time": 1740123260,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 32779,
@@ -61507,11 +61571,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 27118,
-      "num": 355851,
-      "word": "挥拍类运动的好处被低估了",
-      "onboard_time": 1740121942,
-      "rank": 19,
+      "raw_hot": 27025,
+      "num": 328270,
+      "word": "四川一景点因游客大叫妈呀得名妈妈崖",
+      "onboard_time": 1740122120,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -63179,14 +63243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 19176,
-      "num": 445127,
-      "word": "金价大涨滋生多种新型诈骗",
-      "onboard_time": 1740121942,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 19171,
       "num": 249591,
       "word": "直播间里的越野车极限挑战谁来监管",
@@ -63507,6 +63563,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 16722,
+      "num": 325503,
+      "word": "张丽娜嘉人三月刊封面",
+      "onboard_time": 1740121879,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 16674,
       "num": 25139,
       "word": "中方在有关海域布设浮标合法",
@@ -63819,6 +63883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14926,
+      "num": 1519807,
+      "word": "2025清朗行动重点整治8大乱象",
+      "onboard_time": 1740123198,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 14885,
       "num": 238797,
       "word": "张雨霏笑称自己是南方大土豆",
@@ -63881,14 +63953,6 @@
       "onboard_time": 1739052911,
       "rank": 49,
       "category": "教育,读书作家"
-    },
-    {
-      "raw_hot": 14763,
-      "num": 275508,
-      "word": "四川一景点因游客大叫妈呀得名妈妈崖",
-      "onboard_time": 1740122120,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14762,
@@ -63961,14 +64025,6 @@
       "onboard_time": 1738944260,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 14450,
-      "num": 270678,
-      "word": "张丽娜嘉人三月刊封面",
-      "onboard_time": 1740121879,
-      "rank": 28,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 14357,
@@ -65321,6 +65377,14 @@
       "onboard_time": 1739471833,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 7028,
+      "num": 306839,
+      "word": "DeepSeek谈发财秘籍",
+      "onboard_time": 1740123260,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 6998,

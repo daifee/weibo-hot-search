@@ -1,0 +1,410 @@
+{
+  "runTime": 1740123349944,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1893469,
+        "num": 1893469,
+        "word": "DeepSeek评中国最宜居城市",
+        "onboard_time": 1740118279,
+        "rank": 0,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 1836965,
+        "num": 1836965,
+        "word": "难哄删除争议镜头",
+        "onboard_time": 1740120380,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14926,
+        "num": 1519807,
+        "word": "2025清朗行动重点整治8大乱象",
+        "onboard_time": 1740123198,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1416183,
+        "num": 1416183,
+        "word": "难哄 恶趣味",
+        "onboard_time": 1740114501,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 798878,
+        "num": 798878,
+        "word": "车辆全损父母却无大碍女子跪谢爱车",
+        "onboard_time": 1740118941,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 741737,
+        "num": 741737,
+        "word": "民警建议家里不要安装摄像头",
+        "onboard_time": 1740109160,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 613011,
+        "num": 613011,
+        "word": "六姊妹妻子入狱丈夫一夜白头",
+        "onboard_time": 1740120080,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 545804,
+        "num": 545804,
+        "word": "女子偷窃求助deepseek如何免责",
+        "onboard_time": 1740117860,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 504149,
+        "num": 504149,
+        "word": "余承恩告状姐姐和男友在家接吻",
+        "onboard_time": 1740113421,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91934,
+        "num": 501119,
+        "word": "菲方飞机带外国记者闯入黄岩岛",
+        "onboard_time": 1740121759,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1041929,
+        "num": 495592,
+        "word": "奶奶每天玩手机到凌晨近视2300度",
+        "onboard_time": 1740115881,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 577758,
+        "num": 485414,
+        "word": "27岁留学博士被控在英性侵10名女性",
+        "onboard_time": 1740120619,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 561200,
+        "num": 480008,
+        "word": "黄景瑜 张艺上",
+        "onboard_time": 1740099919,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 474042,
+        "num": 474042,
+        "word": "周深四首歌被纳入九年义务教育教材",
+        "onboard_time": 1740108200,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 49029,
+        "num": 472914,
+        "word": "金价大涨滋生多种新型诈骗",
+        "onboard_time": 1740121942,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 472112,
+        "num": 472112,
+        "word": "7旬老太网恋1个月被骗111万",
+        "onboard_time": 1740113002,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48362,
+        "num": 455904,
+        "word": "GAI2025巡演首场官宣直播",
+        "onboard_time": 1740122781,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 48132,
+        "num": 442897,
+        "word": "白敬亭脸上笑嘻嘻心里哭唧唧",
+        "onboard_time": 1740123020,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95596,
+        "num": 432095,
+        "word": "为骑手缴纳社保单均成本增幅1元",
+        "onboard_time": 1740122899,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71917,
+        "num": 402015,
+        "word": "挥拍类运动的好处被低估了",
+        "onboard_time": 1740121942,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28520,
+        "num": 389460,
+        "word": "e法黔行",
+        "onboard_time": 1740108860,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 379196,
+        "num": 379196,
+        "word": "难哄 男女主各演各的",
+        "onboard_time": 1740113544,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 354173,
+        "num": 354173,
+        "word": "女子花5万买孩子火车上被识破",
+        "onboard_time": 1740115342,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356711,
+        "num": 348245,
+        "word": "难哄没谈上就吻上",
+        "onboard_time": 1740117559,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 330101,
+        "num": 330101,
+        "word": "卢靖姗把煎饼认成抽纸",
+        "onboard_time": 1740121398,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27025,
+        "num": 328270,
+        "word": "四川一景点因游客大叫妈呀得名妈妈崖",
+        "onboard_time": 1740122120,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16722,
+        "num": 325503,
+        "word": "张丽娜嘉人三月刊封面",
+        "onboard_time": 1740121879,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 79593,
+        "num": 321235,
+        "word": "醉酒男子跌落3米水井隔天才被发现",
+        "onboard_time": 1740121821,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99788,
+        "num": 316130,
+        "word": "为什么不能挖鼻孔",
+        "onboard_time": 1740121999,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 85494,
+        "num": 313209,
+        "word": "中国电信股价历史新高",
+        "onboard_time": 1740123140,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 7028,
+        "num": 306839,
+        "word": "DeepSeek谈发财秘籍",
+        "onboard_time": 1740123260,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 51863,
+        "num": 306167,
+        "word": "法国小伙讲述日军在华屠杀暴行",
+        "onboard_time": 1740121460,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302823,
+        "num": 302823,
+        "word": "女子上公厕染上诺如病毒",
+        "onboard_time": 1740111802,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298654,
+        "num": 298654,
+        "word": "特朗普恢复死刑",
+        "onboard_time": 1740102440,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 248141,
+        "num": 248141,
+        "word": "哇唧唧哇新人原野出演难哄男三",
+        "onboard_time": 1740122539,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32896,
+        "num": 245735,
+        "word": "林书豪发文致敬姚明",
+        "onboard_time": 1740123260,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103607,
+        "num": 245512,
+        "word": "夏以昼我们的夏天没有尽头",
+        "onboard_time": 1740122061,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 245343,
+        "num": 245343,
+        "word": "董力夫妻综艺拿了杨子的剧本吧",
+        "onboard_time": 1740113362,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232058,
+        "num": 232058,
+        "word": "乌克兰准备与美国签署稀土资源协议",
+        "onboard_time": 1740120619,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 231589,
+        "num": 231589,
+        "word": "弱化女主",
+        "onboard_time": 1740120859,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228864,
+        "num": 228864,
+        "word": "女子盗窃后问DeepSeek怎样免责",
+        "onboard_time": 1740121040,
+        "rank": 40,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 225868,
+        "num": 225868,
+        "word": "婆婆连续13年每天给儿媳送饭",
+        "onboard_time": 1740120619,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222606,
+        "num": 222606,
+        "word": "白敬亭 颜值巅峰",
+        "onboard_time": 1740114082,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188475,
+        "num": 188475,
+        "word": "肖战确认受邀参加2025米兰时装周",
+        "onboard_time": 1740118941,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 186715,
+        "num": 186715,
+        "word": "六姊妹刚拍的全家福成遗照",
+        "onboard_time": 1740112282,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176801,
+        "num": 176801,
+        "word": "桑延角色号大破防",
+        "onboard_time": 1740118400,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176289,
+        "num": 176289,
+        "word": "章若楠睫毛",
+        "onboard_time": 1740116839,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175304,
+        "num": 175304,
+        "word": "难哄",
+        "onboard_time": 1740112222,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169083,
+        "num": 169083,
+        "word": "我国自研AS700D载人飞艇首次科研试飞",
+        "onboard_time": 1740120440,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168046,
+        "num": 168046,
+        "word": "黄景瑜 女朋友",
+        "onboard_time": 1740064343,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#感悟总书记对民企发展的关怀#"
+    }
+  }
+}
