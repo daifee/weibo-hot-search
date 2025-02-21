@@ -1,6 +1,6 @@
 {
   "startTime": 1740069014077,
-  "endTime": 1740106978439,
+  "endTime": 1740108481766,
   "band_list": [
     {
       "raw_hot": 6060617,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2689110,
-      "num": 524948,
+      "num": 572635,
       "word": "黄景瑜 张艺上",
       "onboard_time": 1740099919,
       "rank": 10,
@@ -32,6 +32,14 @@
       "word": "江苏兴化3.7级地震",
       "onboard_time": 1740094158,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1553711,
+      "num": 1553711,
+      "word": "有骑手抵触缴纳社保",
+      "onboard_time": 1740105200,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -59,6 +67,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1120176,
+      "num": 1120176,
+      "word": "阿奴还没变我已经老了",
+      "onboard_time": 1740105559,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1100766,
       "num": 1100766,
       "word": "deepseek一两分钟干了我一两天的活",
@@ -67,32 +83,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1095918,
-      "num": 1095918,
-      "word": "阿奴还没变我已经老了",
-      "onboard_time": 1740105559,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1019701,
-      "num": 1019701,
-      "word": "有骑手抵触缴纳社保",
-      "onboard_time": 1740105200,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 961828,
-      "num": 518179,
+      "num": 553324,
       "word": "女子怀孕5个月被诊所当妇科病治疗",
       "onboard_time": 1740064224,
       "rank": 11,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 765436,
-      "num": 765436,
+      "raw_hot": 780736,
+      "num": 780736,
       "word": "16岁女生背着父母签下10年主播合约",
       "onboard_time": 1740102440,
       "rank": 34,
@@ -123,12 +123,28 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 567404,
+      "num": 567404,
+      "word": "哪吒票房",
+      "onboard_time": 1740105439,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 565555,
       "num": 239932,
       "word": "多位演员自曝曾被导演郑某某侵害",
       "onboard_time": 1740039083,
       "rank": 12,
       "category": "艺人,艺人"
+    },
+    {
+      "raw_hot": 563917,
+      "num": 563917,
+      "word": "印度女孩画画还原父亲杀母过程",
+      "onboard_time": 1740105439,
+      "rank": 20,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 549364,
@@ -211,20 +227,20 @@
       "category": "民生新闻,电影"
     },
     {
-      "raw_hot": 403358,
-      "num": 403358,
-      "word": "哪吒票房",
-      "onboard_time": 1740105439,
-      "rank": 16,
-      "category": "电影"
+      "raw_hot": 374411,
+      "num": 351040,
+      "word": "赵露思广告大片",
+      "onboard_time": 1740107000,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 359004,
-      "num": 359004,
-      "word": "印度女孩画画还原父亲杀母过程",
-      "onboard_time": 1740105439,
-      "rank": 20,
-      "category": "海外新闻"
+      "raw_hot": 358153,
+      "num": 573816,
+      "word": "医生提醒挖鼻孔或诱发颅内感染",
+      "onboard_time": 1740105080,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 358132,
@@ -251,14 +267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 319123,
-      "num": 319123,
-      "word": "医生提醒挖鼻孔或诱发颅内感染",
-      "onboard_time": 1740105080,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 300274,
       "num": 307000,
       "word": "陈丽君2024中国妇女时代人物",
@@ -281,6 +289,14 @@
       "onboard_time": 1740060142,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 293919,
+      "num": 293919,
+      "word": "网友晒苏州28元一颗花生冰淇淋",
+      "onboard_time": 1740107120,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 285762,
@@ -355,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221203,
+      "num": 460853,
+      "word": "燃气表抖动工作人员回复死了会赔",
+      "onboard_time": 1740106940,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220108,
       "num": 220108,
       "word": "方时赫减肥前后对比照",
@@ -395,12 +419,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204650,
+      "num": 204650,
+      "word": "记录迪丽热巴2025年第一场奔赴",
+      "onboard_time": 1740107359,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201965,
       "num": 201965,
       "word": "乌克兰应美要求取消记者会",
       "onboard_time": 1740101539,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 201174,
+      "num": 201174,
+      "word": "杨幂反转芭莎大片",
+      "onboard_time": 1740108020,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 199880,
@@ -435,6 +475,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 195422,
+      "num": 195422,
+      "word": "中国海军喊话菲律宾现场视频",
+      "onboard_time": 1740107059,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 194496,
       "num": 196474,
       "word": "种地吧祝贺十个勤天成立2周年",
@@ -448,6 +496,14 @@
       "word": "归期 鹤辞",
       "onboard_time": 1740101779,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 189180,
+      "num": 189180,
+      "word": "宋佳获年度女主角",
+      "onboard_time": 1740107000,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -515,6 +571,38 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175807,
+      "num": 175807,
+      "word": "周深四首歌被纳入九年义务教育教材",
+      "onboard_time": 1740108200,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 172872,
+      "num": 172872,
+      "word": "苗苗共情力好强",
+      "onboard_time": 1740108080,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 171357,
+      "num": 171357,
+      "word": "家长让男孩站好拍照时男孩踩爆水管",
+      "onboard_time": 1740106039,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168883,
+      "num": 178340,
+      "word": "前公司副总称张艺上单身",
+      "onboard_time": 1740108260,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167457,
       "num": 167457,
       "word": "石家庄下雪",
@@ -531,12 +619,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 165334,
-      "num": 165334,
-      "word": "家长让男孩站好拍照时男孩踩爆水管",
-      "onboard_time": 1740106039,
-      "rank": 41,
+      "raw_hot": 166792,
+      "num": 195824,
+      "word": "安徽一厂房发生火灾3名消防员牺牲",
+      "onboard_time": 1740106459,
+      "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166773,
+      "num": 166773,
+      "word": "南部战区对菲非法闯入飞机警告驱离",
+      "onboard_time": 1740107240,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 164437,
@@ -609,6 +705,14 @@
       "onboard_time": 1740070695,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 137948,
+      "num": 137948,
+      "word": "菲方多次对中方维权行为炒作抹黑",
+      "onboard_time": 1740107059,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 136469,
@@ -689,22 +793,6 @@
       "onboard_time": 1740065422,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 118363,
-      "num": 118363,
-      "word": "安徽一厂房发生火灾3名消防员牺牲",
-      "onboard_time": 1740106459,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 117591,
-      "num": 117591,
-      "word": "燃气表抖动工作人员回复死了会赔",
-      "onboard_time": 1740106940,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 110170,
@@ -915,6 +1003,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 51351,
+      "num": 351057,
+      "word": "三登珠峰王石要开中国智驾车去",
+      "onboard_time": 1740107658,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 50040,
       "num": 50586,
       "word": "陈凯歌看孙丞潇表演有种无力感",
@@ -929,6 +1025,14 @@
       "onboard_time": 1740072374,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 48196,
+      "num": 351217,
+      "word": "美联储可能面临审计",
+      "onboard_time": 1740107479,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 46600,
@@ -1009,6 +1113,14 @@
       "onboard_time": 1740076572,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23949,
+      "num": 349180,
+      "word": "王艺迪3比0哈萨尼",
+      "onboard_time": 1740108200,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 23709,
