@@ -1,0 +1,410 @@
+{
+  "runTime": 1740145051219,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1925031,
+        "num": 1925031,
+        "word": "黄灿灿 杨晓培",
+        "onboard_time": 1740142760,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 807953,
+        "num": 807953,
+        "word": "毒品的回旋镖最终回到了美国头上",
+        "onboard_time": 1740139940,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 53456,
+        "num": 733593,
+        "word": "2025清朗行动重点整治8大乱象",
+        "onboard_time": 1740123198,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1745419,
+        "num": 721363,
+        "word": "因为女主漂亮就所有人都要害她",
+        "onboard_time": 1740139760,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 707696,
+        "num": 707696,
+        "word": "德基厕所",
+        "onboard_time": 1740141681,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 503269,
+        "num": 644987,
+        "word": "摄影师称离婚跟拍压力很大",
+        "onboard_time": 1740142880,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1580322,
+        "num": 642380,
+        "word": "黄灿灿曾因被造黄谣失去工作",
+        "onboard_time": 1740142161,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 877653,
+        "num": 636734,
+        "word": "红房子 无人生还",
+        "onboard_time": 1740138800,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 628984,
+        "num": 628984,
+        "word": "DeepSeek评中国最宜居城市",
+        "onboard_time": 1740118279,
+        "rank": 8,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 452104,
+        "num": 543871,
+        "word": "蒋超良被查",
+        "onboard_time": 1740140778,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1429950,
+        "num": 543582,
+        "word": "黄景瑜前妻点名张艺上",
+        "onboard_time": 1740128661,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 719700,
+        "num": 541960,
+        "word": "择天记",
+        "onboard_time": 1740143961,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 538943,
+        "num": 538943,
+        "word": "张婉莹拿到了S级",
+        "onboard_time": 1740141801,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 537716,
+        "num": 537716,
+        "word": "哪吒2票房129亿",
+        "onboard_time": 1740138320,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 337036,
+        "num": 533786,
+        "word": "银监局回应银行8个窗口只开2个",
+        "onboard_time": 1740141381,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 532153,
+        "num": 532153,
+        "word": "灌面汤杀妻案家属发声",
+        "onboard_time": 1740140478,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80851,
+        "num": 428050,
+        "word": "大众CC撞报废车主跪谢爱车",
+        "onboard_time": 1740142940,
+        "rank": 16,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 426554,
+        "num": 426554,
+        "word": "郭品超官宣分手",
+        "onboard_time": 1740129441,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360200,
+        "num": 360200,
+        "word": "奶奶每天玩手机到凌晨近视2300度",
+        "onboard_time": 1740115881,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42449,
+        "num": 356985,
+        "word": "员工未献血得交100元互助金",
+        "onboard_time": 1740143600,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 902890,
+        "num": 356080,
+        "word": "难哄拍在了00后最清醒的一年",
+        "onboard_time": 1740133639,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 354638,
+        "num": 354638,
+        "word": "3岁男孩独自在家从27楼坠楼身亡",
+        "onboard_time": 1740137238,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351106,
+        "num": 351106,
+        "word": "大量黄金正从各国运往美国",
+        "onboard_time": 1740134300,
+        "rank": 22,
+        "category": "财经,国际时政"
+      },
+      {
+        "raw_hot": 321894,
+        "num": 321894,
+        "word": "什锦 肖战",
+        "onboard_time": 1740132081,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128464,
+        "num": 310723,
+        "word": "陈垣宇晋级",
+        "onboard_time": 1740143541,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 303998,
+        "num": 303998,
+        "word": "白鹿丞磊 莫离",
+        "onboard_time": 1740138379,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71493,
+        "num": 276694,
+        "word": "女护士摆摊10多年教人急救",
+        "onboard_time": 1740144801,
+        "rank": 26,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 274727,
+        "num": 274727,
+        "word": "卜冠今 真诚",
+        "onboard_time": 1740138739,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268364,
+        "num": 268364,
+        "word": "LIZ身材",
+        "onboard_time": 1740144020,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247847,
+        "num": 247847,
+        "word": "六姊妹 哭麻了",
+        "onboard_time": 1740143840,
+        "rank": 29,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 237575,
+        "num": 237575,
+        "word": "射雕泰国票房",
+        "onboard_time": 1740144740,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 53355,
+        "num": 226781,
+        "word": "明星脸被用于实时通话AI换脸不露破绽",
+        "onboard_time": 1740144081,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220741,
+        "num": 220741,
+        "word": "杨幂申请强制执行",
+        "onboard_time": 1740128960,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219244,
+        "num": 219244,
+        "word": "deepseek预测考研分数",
+        "onboard_time": 1740142940,
+        "rank": 33,
+        "category": "教育,互联网"
+      },
+      {
+        "raw_hot": 207678,
+        "num": 207678,
+        "word": "难哄删除争议镜头",
+        "onboard_time": 1740120380,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185323,
+        "num": 185323,
+        "word": "王志飞助演水平",
+        "onboard_time": 1740143180,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183882,
+        "num": 183882,
+        "word": "唐艺昕腰身比",
+        "onboard_time": 1740130220,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177686,
+        "num": 177686,
+        "word": "黄景瑜奖杯上有张艺上名字",
+        "onboard_time": 1740126200,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171562,
+        "num": 171562,
+        "word": "民警建议家里不要安装摄像头",
+        "onboard_time": 1740109160,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40643,
+        "num": 165653,
+        "word": "蔬菜馒头",
+        "onboard_time": 1740142641,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 24051,
+        "num": 164976,
+        "word": "人形机器人概念股反复活跃",
+        "onboard_time": 1740143720,
+        "rank": 40,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 164911,
+        "num": 164911,
+        "word": "黑神话悟空收入史上第2",
+        "onboard_time": 1740140840,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164550,
+        "num": 164550,
+        "word": "最强大脑",
+        "onboard_time": 1740144501,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148260,
+        "num": 148260,
+        "word": "周深四首歌被纳入九年义务教育教材",
+        "onboard_time": 1740108200,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 143622,
+        "num": 143622,
+        "word": "小年李雯结婚",
+        "onboard_time": 1740139279,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143081,
+        "num": 143081,
+        "word": "公安部门已介入水源地疑遭投毒",
+        "onboard_time": 1740133160,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139279,
+        "num": 139279,
+        "word": "关晓彤未来感镭射风造型",
+        "onboard_time": 1740143481,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128148,
+        "num": 128148,
+        "word": "孙颖莎笑容使者",
+        "onboard_time": 1740143239,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127873,
+        "num": 127873,
+        "word": "徐梦洁重生之我在90年代当新娘",
+        "onboard_time": 1740141620,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127478,
+        "num": 127478,
+        "word": "皇马 马竞",
+        "onboard_time": 1740144321,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#造林护林总书记始终心系这抹绿色#"
+    }
+  }
+}

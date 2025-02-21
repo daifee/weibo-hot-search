@@ -1,6 +1,6 @@
 {
   "startTime": 1740069014077,
-  "endTime": 1740144482137,
+  "endTime": 1740145051219,
   "band_list": [
     {
       "raw_hot": 6060617,
@@ -73,6 +73,14 @@
       "onboard_time": 1740129441,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1925031,
+      "num": 1925031,
+      "word": "黄灿灿 杨晓培",
+      "onboard_time": 1740142760,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 1902112,
@@ -171,14 +179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1495498,
-      "num": 628852,
-      "word": "黄灿灿 杨晓培",
-      "onboard_time": 1740142760,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1408179,
       "num": 1408179,
       "word": "哪吒2冲击全球影史前三",
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 929799,
-      "num": 635286,
+      "num": 636734,
       "word": "红房子 无人生还",
       "onboard_time": 1740138800,
       "rank": 6,
@@ -339,6 +339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 807953,
+      "num": 807953,
+      "word": "毒品的回旋镖最终回到了美国头上",
+      "onboard_time": 1740139940,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 807740,
       "num": 807740,
       "word": "医生提醒挖鼻孔或诱发颅内感染",
@@ -363,14 +371,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 770180,
-      "num": 770180,
-      "word": "毒品的回旋镖最终回到了美国头上",
-      "onboard_time": 1740139940,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 764781,
       "num": 764781,
       "word": "义乌老板利用DeepSeek卖空小商品",
@@ -387,12 +387,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 719700,
+      "num": 541960,
+      "word": "择天记",
+      "onboard_time": 1740143961,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 712264,
       "num": 712264,
       "word": "女子花5万买孩子火车上被识破",
       "onboard_time": 1740115342,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 707696,
+      "num": 707696,
+      "word": "德基厕所",
+      "onboard_time": 1740141681,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 707162,
@@ -417,14 +433,6 @@
       "onboard_time": 1740109401,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 644156,
-      "num": 644156,
-      "word": "德基厕所",
-      "onboard_time": 1740141681,
-      "rank": 48,
-      "category": "旅游"
     },
     {
       "raw_hot": 643266,
@@ -571,6 +579,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 532153,
+      "num": 532153,
+      "word": "灌面汤杀妻案家属发声",
+      "onboard_time": 1740140478,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 519608,
       "num": 519608,
       "word": "乌克兰准备与美国签署稀土资源协议",
@@ -601,6 +617,14 @@
       "onboard_time": 1740138379,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 503269,
+      "num": 644987,
+      "word": "摄影师称离婚跟拍压力很大",
+      "onboard_time": 1740142880,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 496840,
@@ -803,11 +827,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 341695,
-      "num": 585707,
-      "word": "摄影师称离婚跟拍压力很大",
-      "onboard_time": 1740142880,
-      "rank": 13,
+      "raw_hot": 337036,
+      "num": 581739,
+      "word": "银监局回应银行8个窗口只开2个",
+      "onboard_time": 1740141381,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -851,14 +875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 329659,
-      "num": 329659,
-      "word": "择天记",
-      "onboard_time": 1740143961,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 323171,
       "num": 379661,
       "word": "GAI粉丝把周延写成周廷",
@@ -897,14 +913,6 @@
       "onboard_time": 1740039020,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 298446,
-      "num": 581739,
-      "word": "银监局回应银行8个窗口只开2个",
-      "onboard_time": 1740141381,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 295977,
@@ -1035,6 +1043,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 268364,
+      "num": 268364,
+      "word": "LIZ身材",
+      "onboard_time": 1740144020,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 268236,
       "num": 268236,
       "word": "婆婆连续13年每天给儿媳送饭",
@@ -1123,6 +1139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 247847,
+      "num": 247847,
+      "word": "六姊妹 哭麻了",
+      "onboard_time": 1740143840,
+      "rank": 42,
+      "category": "剧集,作品衍生"
+    },
+    {
       "raw_hot": 245859,
       "num": 245859,
       "word": "美支持乌600亿但64%回流美军工业",
@@ -1161,6 +1185,14 @@
       "onboard_time": 1740118040,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 237575,
+      "num": 237575,
+      "word": "射雕泰国票房",
+      "onboard_time": 1740144740,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 237371,
@@ -1283,6 +1315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219244,
+      "num": 219244,
+      "word": "deepseek预测考研分数",
+      "onboard_time": 1740142940,
+      "rank": 40,
+      "category": "教育,互联网"
+    },
+    {
       "raw_hot": 217899,
       "num": 217899,
       "word": "章若楠你就这么追星李宇春的",
@@ -1297,14 +1337,6 @@
       "onboard_time": 1740130880,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 213871,
-      "num": 213871,
-      "word": "LIZ身材",
-      "onboard_time": 1740144020,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 212762,
@@ -1483,14 +1515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195326,
-      "num": 195326,
-      "word": "deepseek预测考研分数",
-      "onboard_time": 1740142940,
-      "rank": 40,
-      "category": "教育,互联网"
-    },
-    {
       "raw_hot": 194946,
       "num": 194946,
       "word": "亚洲多国观众喜爱的中国演员",
@@ -1571,14 +1595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 188487,
-      "num": 188487,
-      "word": "六姊妹 哭麻了",
-      "onboard_time": 1740143840,
-      "rank": 42,
-      "category": "剧集,作品衍生"
-    },
-    {
       "raw_hot": 187940,
       "num": 98743,
       "word": "新娘回应小姑子代替新郎拜堂",
@@ -1617,6 +1633,14 @@
       "onboard_time": 1740087431,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 185323,
+      "num": 530737,
+      "word": "王志飞助演水平",
+      "onboard_time": 1740143180,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 184056,
@@ -1867,6 +1891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164550,
+      "num": 164550,
+      "word": "最强大脑",
+      "onboard_time": 1740144501,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164437,
       "num": 164437,
       "word": "乌克兰",
@@ -1889,14 +1921,6 @@
       "onboard_time": 1740137900,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 163020,
-      "num": 530737,
-      "word": "王志飞助演水平",
-      "onboard_time": 1740143180,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 162639,
@@ -2691,6 +2715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71493,
+      "num": 276694,
+      "word": "女护士摆摊10多年教人急救",
+      "onboard_time": 1740144801,
+      "rank": 26,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 70136,
       "num": 258499,
       "word": "猫耳直播",
@@ -2939,6 +2971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42449,
+      "num": 493483,
+      "word": "员工未献血得交100元互助金",
+      "onboard_time": 1740143600,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42204,
       "num": 196615,
       "word": "蔬菜馒头",
@@ -3121,14 +3161,6 @@
       "onboard_time": 1740143720,
       "rank": 29,
       "category": "财经,互联网"
-    },
-    {
-      "raw_hot": 26791,
-      "num": 493483,
-      "word": "员工未献血得交100元互助金",
-      "onboard_time": 1740143600,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26522,
