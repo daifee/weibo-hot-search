@@ -1,6 +1,6 @@
 {
   "startTime": 1740069014077,
-  "endTime": 1740119488791,
+  "endTime": 1740120256971,
   "band_list": [
     {
       "raw_hot": 6060617,
@@ -51,19 +51,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1700926,
+      "num": 709168,
+      "word": "奶奶每天玩手机到凌晨近视2300度",
+      "onboard_time": 1740115881,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1691225,
       "num": 448722,
       "word": "江苏兴化3.7级地震",
       "onboard_time": 1740094158,
       "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1658675,
-      "num": 709168,
-      "word": "奶奶每天玩手机到凌晨近视2300度",
-      "onboard_time": 1740115881,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -121,6 +121,14 @@
       "onboard_time": 1740113421,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1294289,
+      "num": 1294289,
+      "word": "DeepSeek评中国最宜居城市",
+      "onboard_time": 1740118279,
+      "rank": 5,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 1177865,
@@ -243,6 +251,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 600376,
+      "num": 709930,
+      "word": "难哄没谈上就吻上",
+      "onboard_time": 1740117559,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 599572,
       "num": 533178,
       "word": "7旬老太网恋1个月被骗111万",
@@ -331,12 +347,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 481695,
-      "num": 709930,
-      "word": "难哄没谈上就吻上",
-      "onboard_time": 1740117559,
-      "rank": 10,
-      "category": "剧集"
+      "raw_hot": 483721,
+      "num": 708684,
+      "word": "女子偷窃求助deepseek如何免责",
+      "onboard_time": 1740117860,
+      "rank": 13,
+      "category": "互联网"
     },
     {
       "raw_hot": 458146,
@@ -369,14 +385,6 @@
       "onboard_time": 1740057202,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 438903,
-      "num": 712070,
-      "word": "DeepSeek评中国最宜居城市",
-      "onboard_time": 1740118279,
-      "rank": 5,
-      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 422586,
@@ -433,14 +441,6 @@
       "onboard_time": 1740112641,
       "rank": 43,
       "category": "动漫,互联网"
-    },
-    {
-      "raw_hot": 376528,
-      "num": 708684,
-      "word": "女子偷窃求助deepseek如何免责",
-      "onboard_time": 1740117860,
-      "rank": 13,
-      "category": "互联网"
     },
     {
       "raw_hot": 374411,
@@ -539,6 +539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 289245,
+      "num": 289245,
+      "word": "章若楠睫毛",
+      "onboard_time": 1740116839,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 285762,
       "num": 285762,
       "word": "河南一彩民花12元中了691万",
@@ -593,14 +601,6 @@
       "onboard_time": 1740115640,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 269405,
-      "num": 269405,
-      "word": "章若楠睫毛",
-      "onboard_time": 1740116839,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 268186,
@@ -723,6 +723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 223894,
+      "num": 533450,
+      "word": "肖战确认受邀参加2025米兰时装周",
+      "onboard_time": 1740118941,
+      "rank": 20,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 221013,
       "num": 413295,
       "word": "前公司副总称张艺上单身",
@@ -787,12 +795,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 206046,
+      "num": 483508,
+      "word": "车辆全损父母却无大碍女子跪谢爱车",
+      "onboard_time": 1740118941,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205842,
       "num": 452476,
       "word": "中国海军喊话菲律宾现场视频",
       "onboard_time": 1740107059,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 205505,
+      "num": 205505,
+      "word": "韩庚家庭氛围好好",
+      "onboard_time": 1740118880,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 204650,
@@ -939,12 +963,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 183934,
-      "num": 183934,
-      "word": "韩庚家庭氛围好好",
-      "onboard_time": 1740118880,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 182801,
+      "num": 182801,
+      "word": "张晚意新剧卷发异域少年郎造型",
+      "onboard_time": 1740119120,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 180609,
@@ -1052,7 +1076,7 @@
     },
     {
       "raw_hot": 166773,
-      "num": 166773,
+      "num": 206694,
       "word": "南部战区对菲非法闯入飞机警告驱离",
       "onboard_time": 1740107240,
       "rank": 39,
@@ -1065,14 +1089,6 @@
       "onboard_time": 1740056301,
       "rank": 25,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 163110,
-      "num": 163110,
-      "word": "张晚意新剧卷发异域少年郎造型",
-      "onboard_time": 1740119120,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 162639,
@@ -1099,14 +1115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 158880,
-      "num": 158880,
-      "word": "车辆全损父母却无大碍女子跪谢爱车",
-      "onboard_time": 1740118941,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 158025,
       "num": 158025,
       "word": "A股联通涨停",
@@ -1129,6 +1137,14 @@
       "onboard_time": 1740108860,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155374,
+      "num": 155374,
+      "word": "张本智和循环赛2胜1负",
+      "onboard_time": 1740119899,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 154167,
@@ -1211,12 +1227,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 137089,
-      "num": 533450,
-      "word": "肖战确认受邀参加2025米兰时装周",
-      "onboard_time": 1740118941,
-      "rank": 20,
-      "category": "作品衍生,时尚"
+      "raw_hot": 137267,
+      "num": 209502,
+      "word": "六姊妹妻子入狱丈夫一夜白头",
+      "onboard_time": 1740120080,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 136469,
@@ -1267,6 +1283,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 127630,
+      "num": 127630,
+      "word": "李连杰日本旅游照",
+      "onboard_time": 1740120020,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125231,
       "num": 125231,
       "word": "尤浩然说杨紫张一山联系多是正常",
@@ -1305,6 +1329,14 @@
       "onboard_time": 1740110600,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121220,
+      "num": 326043,
+      "word": "孙颖莎舞金箍棒",
+      "onboard_time": 1740119779,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 110170,
@@ -1507,6 +1539,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 81350,
+      "num": 477818,
+      "word": "70岁房东猥亵女租客事件双方和解",
+      "onboard_time": 1740119300,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79480,
       "num": 79480,
       "word": "80后死亡率5.2%是假消息",
@@ -1611,6 +1651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 47719,
+      "num": 479188,
+      "word": "花样年华最美的be诞生了",
+      "onboard_time": 1740115941,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 46600,
       "num": 46600,
       "word": "cp31",
@@ -1684,7 +1732,7 @@
     },
     {
       "raw_hot": 31820,
-      "num": 244463,
+      "num": 477312,
       "word": "林诗栋3比0阿里",
       "onboard_time": 1740119360,
       "rank": 34,
@@ -1697,14 +1745,6 @@
       "onboard_time": 1740037521,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 28893,
-      "num": 240786,
-      "word": "70岁房东猥亵女租客事件双方和解",
-      "onboard_time": 1740119300,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 28065,
@@ -1772,7 +1812,7 @@
     },
     {
       "raw_hot": 21651,
-      "num": 191260,
+      "num": 476789,
       "word": "陈幸同3比0萨哈基安",
       "onboard_time": 1740119360,
       "rank": 37,
@@ -1817,6 +1857,14 @@
       "onboard_time": 1740108979,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 13070,
+      "num": 273786,
+      "word": "将人类语言基因放入小鼠体内会怎样",
+      "onboard_time": 1740120080,
+      "rank": 29,
+      "category": "科学科普"
     },
     {
       "raw_hot": 11867,

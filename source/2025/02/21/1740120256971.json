@@ -1,0 +1,410 @@
+{
+  "runTime": 1740120256971,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1294289,
+        "num": 1294289,
+        "word": "DeepSeek评中国最宜居城市",
+        "onboard_time": 1740118279,
+        "rank": 0,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 1212303,
+        "num": 1212303,
+        "word": "民警建议家里不要安装摄像头",
+        "onboard_time": 1740109160,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28063,
+        "num": 783831,
+        "word": "e法黔行",
+        "onboard_time": 1740108860,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2699550,
+        "num": 775970,
+        "word": "难哄 恶趣味",
+        "onboard_time": 1740114501,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 680140,
+        "num": 680140,
+        "word": "女子花5万买孩子火车上被识破",
+        "onboard_time": 1740115342,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 789160,
+        "num": 677241,
+        "word": "难哄 男女主各演各的",
+        "onboard_time": 1740113544,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 669813,
+        "num": 669813,
+        "word": "余承恩告状姐姐和男友在家接吻",
+        "onboard_time": 1740113421,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 600376,
+        "num": 600376,
+        "word": "难哄没谈上就吻上",
+        "onboard_time": 1740117559,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 483721,
+        "num": 483721,
+        "word": "女子偷窃求助deepseek如何免责",
+        "onboard_time": 1740117860,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 206046,
+        "num": 483508,
+        "word": "车辆全损父母却无大碍女子跪谢爱车",
+        "onboard_time": 1740118941,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1700926,
+        "num": 482675,
+        "word": "奶奶每天玩手机到凌晨近视2300度",
+        "onboard_time": 1740115881,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 724393,
+        "num": 482190,
+        "word": "黄景瑜 张艺上",
+        "onboard_time": 1740099919,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 570029,
+        "num": 481216,
+        "word": "周深四首歌被纳入九年义务教育教材",
+        "onboard_time": 1740108200,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 307580,
+        "num": 480946,
+        "word": "问DeepSeek最帅的动漫人物是谁",
+        "onboard_time": 1740112641,
+        "rank": 13,
+        "category": "动漫,互联网"
+      },
+      {
+        "raw_hot": 547126,
+        "num": 480235,
+        "word": "特朗普恢复死刑",
+        "onboard_time": 1740102440,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 47719,
+        "num": 479188,
+        "word": "花样年华最美的be诞生了",
+        "onboard_time": 1740115941,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 223894,
+        "num": 478939,
+        "word": "肖战确认受邀参加2025米兰时装周",
+        "onboard_time": 1740118941,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 81350,
+        "num": 477818,
+        "word": "70岁房东猥亵女租客事件双方和解",
+        "onboard_time": 1740119300,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31724,
+        "num": 477312,
+        "word": "林诗栋3比0阿里",
+        "onboard_time": 1740119360,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16878,
+        "num": 476789,
+        "word": "陈幸同3比0萨哈基安",
+        "onboard_time": 1740119360,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 476214,
+        "num": 476214,
+        "word": "女子上公厕染上诺如病毒",
+        "onboard_time": 1740111802,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 444919,
+        "num": 444919,
+        "word": "白敬亭 颜值巅峰",
+        "onboard_time": 1740114082,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 462981,
+        "num": 432038,
+        "word": "7旬老太网恋1个月被骗111万",
+        "onboard_time": 1740113002,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341272,
+        "num": 341272,
+        "word": "董力夫妻综艺拿了杨子的剧本吧",
+        "onboard_time": 1740113362,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121220,
+        "num": 326043,
+        "word": "孙颖莎舞金箍棒",
+        "onboard_time": 1740119779,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 318885,
+        "num": 318885,
+        "word": "六姊妹刚拍的全家福成遗照",
+        "onboard_time": 1740112282,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295216,
+        "num": 295216,
+        "word": "山东大学停招27个专业",
+        "onboard_time": 1740111322,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 289245,
+        "num": 289245,
+        "word": "章若楠睫毛",
+        "onboard_time": 1740116839,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151262,
+        "num": 275950,
+        "word": "菲飞机与我方直升机航迹信息公布",
+        "onboard_time": 1740116659,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13070,
+        "num": 273786,
+        "word": "将人类语言基因放入小鼠体内会怎样",
+        "onboard_time": 1740120080,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 272818,
+        "num": 272818,
+        "word": "污蔑中国的团队被特朗普端了",
+        "onboard_time": 1740116180,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 225374,
+        "num": 225374,
+        "word": "桑延角色号大破防",
+        "onboard_time": 1740118400,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221815,
+        "num": 221815,
+        "word": "霸总们为王心凌拼了",
+        "onboard_time": 1740111322,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 219977,
+        "num": 219977,
+        "word": "郑恺苗苗二人约会",
+        "onboard_time": 1740118641,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137267,
+        "num": 209502,
+        "word": "六姊妹妻子入狱丈夫一夜白头",
+        "onboard_time": 1740120080,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118273,
+        "num": 206694,
+        "word": "南部战区对菲非法闯入飞机警告驱离",
+        "onboard_time": 1740107240,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 205505,
+        "num": 205505,
+        "word": "韩庚家庭氛围好好",
+        "onboard_time": 1740118880,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86456,
+        "num": 202066,
+        "word": "DeepSeek月下载量超1.1亿",
+        "onboard_time": 1740118520,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 199304,
+        "num": 199304,
+        "word": "祝绪丹晒虞书欣送的玩偶",
+        "onboard_time": 1740116420,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189945,
+        "num": 189945,
+        "word": "难哄编剧",
+        "onboard_time": 1740118040,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182801,
+        "num": 182801,
+        "word": "张晚意新剧卷发异域少年郎造型",
+        "onboard_time": 1740119120,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181306,
+        "num": 181306,
+        "word": "黄景瑜 女朋友",
+        "onboard_time": 1740064343,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169142,
+        "num": 169142,
+        "word": "难哄",
+        "onboard_time": 1740112222,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165101,
+        "num": 165101,
+        "word": "舒淇易烊千玺 狂野时代",
+        "onboard_time": 1740114981,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156698,
+        "num": 156698,
+        "word": "杨洋录制hi6上班路透",
+        "onboard_time": 1740116059,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155374,
+        "num": 155374,
+        "word": "张本智和循环赛2胜1负",
+        "onboard_time": 1740119899,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146375,
+        "num": 146375,
+        "word": "有骑手抵触缴纳社保",
+        "onboard_time": 1740105200,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138149,
+        "num": 138149,
+        "word": "张艺上单身",
+        "onboard_time": 1740110479,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133967,
+        "num": 133967,
+        "word": "Jennie新歌ExtraL",
+        "onboard_time": 1740115640,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 127630,
+        "num": 127630,
+        "word": "李连杰日本旅游照",
+        "onboard_time": 1740120020,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的科技情怀#"
+    }
+  }
+}
