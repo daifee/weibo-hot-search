@@ -1,0 +1,410 @@
+{
+  "runTime": 1740126529436,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1663623,
+        "num": 1663623,
+        "word": "难哄删除争议镜头",
+        "onboard_time": 1740120380,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1406793,
+        "num": 1406793,
+        "word": "DeepSeek评中国最宜居城市",
+        "onboard_time": 1740118279,
+        "rank": 1,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 26044,
+        "num": 1236206,
+        "word": "中国智造已经是NextLevel",
+        "onboard_time": 1740108620,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1154489,
+        "num": 1154489,
+        "word": "侵华日军为便于奸淫百姓赤身骑马",
+        "onboard_time": 1740125420,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1102256,
+        "num": 1102256,
+        "word": "难哄 恶趣味",
+        "onboard_time": 1740114501,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 658137,
+        "num": 658137,
+        "word": "民警建议家里不要安装摄像头",
+        "onboard_time": 1740109160,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 965060,
+        "num": 652106,
+        "word": "董力 杨子2.0",
+        "onboard_time": 1740123980,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 628257,
+        "num": 628257,
+        "word": "27岁留学博士被控在英性侵10名女性",
+        "onboard_time": 1740120619,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 519608,
+        "num": 519608,
+        "word": "乌克兰准备与美国签署稀土资源协议",
+        "onboard_time": 1740120619,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 505725,
+        "num": 505725,
+        "word": "六姊妹妻子入狱丈夫一夜白头",
+        "onboard_time": 1740120080,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 782094,
+        "num": 499756,
+        "word": "奶奶每天玩手机到凌晨近视2300度",
+        "onboard_time": 1740115881,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 458839,
+        "num": 458839,
+        "word": "7旬老太网恋1个月被骗111万",
+        "onboard_time": 1740113002,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59000,
+        "num": 450522,
+        "word": "上公厕感染诺如当事人回应",
+        "onboard_time": 1740124880,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 450513,
+        "num": 450513,
+        "word": "黄景瑜 张艺上",
+        "onboard_time": 1740099919,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37585,
+        "num": 393676,
+        "word": "对未成年人犯罪不枉不纵",
+        "onboard_time": 1740125061,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391059,
+        "num": 391059,
+        "word": "周深四首歌被纳入九年义务教育教材",
+        "onboard_time": 1740108200,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 44651,
+        "num": 358012,
+        "word": "徐梦桃体验极氪离车泊入",
+        "onboard_time": 1740124279,
+        "rank": 16,
+        "category": "体育,汽车"
+      },
+      {
+        "raw_hot": 342643,
+        "num": 342643,
+        "word": "AI硅胶娃娃售价高达2000美元",
+        "onboard_time": 1740124999,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369689,
+        "num": 339652,
+        "word": "黄景瑜奖杯上有张艺上名字",
+        "onboard_time": 1740126200,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189638,
+        "num": 334698,
+        "word": "居民称楼顶种了一大树致家中渗水",
+        "onboard_time": 1740124999,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334141,
+        "num": 334141,
+        "word": "卢靖姗把煎饼认成抽纸",
+        "onboard_time": 1740121398,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332575,
+        "num": 332575,
+        "word": "哇唧唧哇新人原野出演难哄男三",
+        "onboard_time": 1740122539,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320730,
+        "num": 320730,
+        "word": "车辆全损父母却无大碍女子跪谢爱车",
+        "onboard_time": 1740118941,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67213,
+        "num": 316730,
+        "word": "李连杰日本旅游照",
+        "onboard_time": 1740120020,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35863,
+        "num": 316414,
+        "word": "星穹铁道缇宝",
+        "onboard_time": 1740118279,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 316111,
+        "num": 316111,
+        "word": "余承恩告状姐姐和男友在家接吻",
+        "onboard_time": 1740113421,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292353,
+        "num": 292353,
+        "word": "2025清朗行动重点整治8大乱象",
+        "onboard_time": 1740123198,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13316,
+        "num": 265158,
+        "word": "苏州一咖啡店因奥特曼被索赔100万",
+        "onboard_time": 1740126321,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244649,
+        "num": 259866,
+        "word": "郑晓龙透露甄嬛传未删减版进度",
+        "onboard_time": 1740125959,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84754,
+        "num": 256520,
+        "word": "3人穿潜水服偷捞高尔夫球",
+        "onboard_time": 1740125120,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255000,
+        "num": 255000,
+        "word": "女子偷窃求助deepseek如何免责",
+        "onboard_time": 1740117860,
+        "rank": 30,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 244587,
+        "num": 244587,
+        "word": "难哄 男女主各演各的",
+        "onboard_time": 1740113544,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231348,
+        "num": 231348,
+        "word": "女子上公厕染上诺如病毒",
+        "onboard_time": 1740111802,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221341,
+        "num": 221341,
+        "word": "特朗普恢复死刑",
+        "onboard_time": 1740102440,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 204840,
+        "num": 204840,
+        "word": "女子花5万买孩子火车上被识破",
+        "onboard_time": 1740115342,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201849,
+        "num": 201849,
+        "word": "蒋奇明在上海街头骑车被偶遇",
+        "onboard_time": 1740125540,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192546,
+        "num": 192546,
+        "word": "为骑手缴纳社保单均成本增幅1元",
+        "onboard_time": 1740122899,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188389,
+        "num": 188389,
+        "word": "白敬亭 颜值巅峰",
+        "onboard_time": 1740114082,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182425,
+        "num": 182425,
+        "word": "哪吒2已超128亿",
+        "onboard_time": 1740125540,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182333,
+        "num": 182333,
+        "word": "云南一景区雪崩瞬间淹没人群",
+        "onboard_time": 1740124399,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171960,
+        "num": 171960,
+        "word": "女子盗窃后问DeepSeek怎样免责",
+        "onboard_time": 1740121040,
+        "rank": 40,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 165003,
+        "num": 165003,
+        "word": "婆婆连续13年每天给儿媳送饭",
+        "onboard_time": 1740120619,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143381,
+        "num": 143381,
+        "word": "霸总们为王心凌拼了",
+        "onboard_time": 1740111322,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 233318,
+        "num": 142453,
+        "word": "弱化女主",
+        "onboard_time": 1740120859,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140500,
+        "num": 140500,
+        "word": "俄乌冲突",
+        "onboard_time": 1740126261,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132778,
+        "num": 132778,
+        "word": "我国自研AS700D载人飞艇首次科研试飞",
+        "onboard_time": 1740120440,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126378,
+        "num": 126378,
+        "word": "云南梅里雪山景区发生雪崩",
+        "onboard_time": 1740124520,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124330,
+        "num": 124330,
+        "word": "肖战确认受邀参加2025米兰时装周",
+        "onboard_time": 1740118941,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 118283,
+        "num": 118283,
+        "word": "夏以昼再见啦",
+        "onboard_time": 1740125959,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115487,
+        "num": 115487,
+        "word": "六姊妹刚拍的全家福成遗照",
+        "onboard_time": 1740112282,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#感悟总书记对民企发展的关怀#"
+    }
+  }
+}
