@@ -1,6 +1,6 @@
 {
   "startTime": 1740155309204,
-  "endTime": 1740173743288,
+  "endTime": 1740176488608,
   "band_list": [
     {
       "raw_hot": 1334865,
@@ -427,6 +427,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 59237,
+      "num": 59237,
+      "word": "性骚扰不该成为流量密码",
+      "onboard_time": 1740169272,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 55331,
       "num": 222681,
       "word": "民警建议家里不要安装摄像头",
@@ -459,19 +467,27 @@
       "category": "体育"
     },
     {
-      "raw_hot": 44552,
-      "num": 26425,
-      "word": "性骚扰不该成为流量密码",
-      "onboard_time": 1740169272,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 39636,
       "num": 39636,
       "word": "中方回应乌克兰危机和谈",
       "onboard_time": 1740163632,
       "rank": 22,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 38160,
+      "num": 38160,
+      "word": "城管回应住户在楼顶上种树",
+      "onboard_time": 1740174431,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36802,
+      "num": 36802,
+      "word": "马斯克说普京买不起我",
+      "onboard_time": 1740168671,
+      "rank": 43,
       "category": "国际时政"
     },
     {
@@ -489,14 +505,6 @@
       "onboard_time": 1740158834,
       "rank": 15,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 25523,
-      "num": 25523,
-      "word": "马斯克说普京买不起我",
-      "onboard_time": 1740168671,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 24180,
@@ -547,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 21014,
+      "num": 21014,
+      "word": "温以凡妈妈人设",
+      "onboard_time": 1740168611,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 19168,
       "num": 21499,
       "word": "我们的爸爸",
@@ -587,12 +603,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17503,
-      "num": 17503,
-      "word": "温以凡妈妈人设",
-      "onboard_time": 1740168611,
-      "rank": 39,
-      "category": "剧集"
+      "raw_hot": 17784,
+      "num": 25647,
+      "word": "人形机器人爆改体育生",
+      "onboard_time": 1740173232,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16905,
+      "num": 16905,
+      "word": "DeepSeek分析大学每月1500够花吗",
+      "onboard_time": 1740175751,
+      "rank": 41,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 13937,
@@ -633,14 +657,6 @@
       "onboard_time": 1740159135,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 8015,
-      "num": 25647,
-      "word": "人形机器人爆改体育生",
-      "onboard_time": 1740173232,
-      "rank": 18,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

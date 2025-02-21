@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1740173743288,
+  "endTime": 1740176488608,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -17171,6 +17171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59237,
+      "num": 59237,
+      "word": "性骚扰不该成为流量密码",
+      "onboard_time": 1740169272,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 58915,
       "num": 197812,
       "word": "在最不懂的年纪吃了最细的糠",
@@ -17915,14 +17923,6 @@
       "category": "体育,汽车"
     },
     {
-      "raw_hot": 44552,
-      "num": 26425,
-      "word": "性骚扰不该成为流量密码",
-      "onboard_time": 1740169272,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 44546,
       "num": 168733,
       "word": "黑执事古早必出神图",
@@ -18227,6 +18227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 38160,
+      "num": 38160,
+      "word": "城管回应住户在楼顶上种树",
+      "onboard_time": 1740174431,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37901,
       "num": 392513,
       "word": "特朗普打算视察黄金储备情况",
@@ -18305,6 +18313,14 @@
       "onboard_time": 1739814913,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 36802,
+      "num": 36802,
+      "word": "马斯克说普京买不起我",
+      "onboard_time": 1740168671,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 36694,
@@ -18899,14 +18915,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 25523,
-      "num": 25523,
-      "word": "马斯克说普京买不起我",
-      "onboard_time": 1740168671,
-      "rank": 43,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 25432,
       "num": 375515,
       "word": "蒯曼晋级亚洲杯16强",
@@ -19315,6 +19323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 21014,
+      "num": 21014,
+      "word": "温以凡妈妈人设",
+      "onboard_time": 1740168611,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 20996,
       "num": 238067,
       "word": "金巧巧力挺蛟龙行动",
@@ -19563,12 +19579,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 17503,
-      "num": 17503,
-      "word": "温以凡妈妈人设",
-      "onboard_time": 1740168611,
-      "rank": 39,
-      "category": "剧集"
+      "raw_hot": 17784,
+      "num": 25647,
+      "word": "人形机器人爆改体育生",
+      "onboard_time": 1740173232,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17234,
@@ -19601,6 +19617,14 @@
       "onboard_time": 1740040401,
       "rank": 26,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 16905,
+      "num": 16905,
+      "word": "DeepSeek分析大学每月1500够花吗",
+      "onboard_time": 1740175751,
+      "rank": 41,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 16722,
@@ -20168,14 +20192,6 @@
       "word": "翻翻内存卡看火箭军锤炼本领",
       "onboard_time": 1739911931,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 8015,
-      "num": 25647,
-      "word": "人形机器人爆改体育生",
-      "onboard_time": 1740173232,
-      "rank": 18,
       "category": "民生新闻"
     },
     {

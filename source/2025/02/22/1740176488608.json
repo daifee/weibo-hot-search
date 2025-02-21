@@ -1,0 +1,410 @@
+{
+  "runTime": 1740176488608,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 138106,
+        "num": 367253,
+        "word": "陈凯歌说太假了全是套路",
+        "onboard_time": 1740149240,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122487,
+        "num": 122487,
+        "word": "五毛人民币假钞在美国卖五美金",
+        "onboard_time": 1740147922,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 16389,
+        "num": 87771,
+        "word": "中国空间站首个舱内在轨机器人试验",
+        "onboard_time": 1740146121,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 87477,
+        "num": 87477,
+        "word": "4人喝100多瓶啤酒1人呕吐时坠亡",
+        "onboard_time": 1740147860,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65502,
+        "num": 65502,
+        "word": "官方回应有智力缺陷孩子在校被霸凌",
+        "onboard_time": 1740156377,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59237,
+        "num": 59237,
+        "word": "性骚扰不该成为流量密码",
+        "onboard_time": 1740169272,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55566,
+        "num": 55566,
+        "word": "在房产证上加名也可能无法分到房产",
+        "onboard_time": 1740152479,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52115,
+        "num": 52115,
+        "word": "国企拟录用名单3名本科生引质疑",
+        "onboard_time": 1740145162,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38251,
+        "num": 38251,
+        "word": "毒品的回旋镖最终回到了美国头上",
+        "onboard_time": 1740139940,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 38160,
+        "num": 38160,
+        "word": "城管回应住户在楼顶上种树",
+        "onboard_time": 1740174431,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243533,
+        "num": 38117,
+        "word": "吴川三中",
+        "onboard_time": 1740152839,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121681,
+        "num": 38001,
+        "word": "黄景瑜前妻点名张艺上",
+        "onboard_time": 1740128661,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52717,
+        "num": 37766,
+        "word": "大量黄金正从各国运往美国",
+        "onboard_time": 1740134300,
+        "rank": 12,
+        "category": "财经,国际时政"
+      },
+      {
+        "raw_hot": 50639,
+        "num": 37724,
+        "word": "DeepSeek评中国最宜居城市",
+        "onboard_time": 1740118279,
+        "rank": 13,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 47025,
+        "num": 37490,
+        "word": "偶遇留几手葛夕带狗做手术",
+        "onboard_time": 1740148461,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37467,
+        "num": 37467,
+        "word": "帝师 aka",
+        "onboard_time": 1740151819,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 36802,
+        "num": 36802,
+        "word": "马斯克说普京买不起我",
+        "onboard_time": 1740168671,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 35804,
+        "num": 35804,
+        "word": "择天记",
+        "onboard_time": 1740143961,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34589,
+        "num": 34589,
+        "word": "于正不认可张婉莹S级",
+        "onboard_time": 1740150381,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32649,
+        "num": 32649,
+        "word": "前女友力挺法老",
+        "onboard_time": 1740164232,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83508,
+        "num": 32179,
+        "word": "难哄拍在了00后最清醒的一年",
+        "onboard_time": 1740133639,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58096,
+        "num": 32029,
+        "word": "凭哪吒2票根可免费游多家景区",
+        "onboard_time": 1740152238,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 31703,
+        "num": 31703,
+        "word": "孙颖莎失误连忙跟邱贻可解释",
+        "onboard_time": 1740157036,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30344,
+        "num": 30344,
+        "word": "90后干部挂职副县长删履历难消质疑",
+        "onboard_time": 1740154398,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27916,
+        "num": 27916,
+        "word": "灌面汤杀妻案家属发声",
+        "onboard_time": 1740140478,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27332,
+        "num": 27332,
+        "word": "白敬亭红温到脖子了",
+        "onboard_time": 1740159254,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26687,
+        "num": 26687,
+        "word": "电梯疑因故障冲顶导致59岁业主身亡",
+        "onboard_time": 1740150381,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26885,
+        "num": 26613,
+        "word": "因为女主漂亮就所有人都要害她",
+        "onboard_time": 1740139760,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26476,
+        "num": 26476,
+        "word": "郭品超官宣分手",
+        "onboard_time": 1740129441,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20362,
+        "num": 24750,
+        "word": "中方回应乌克兰危机和谈",
+        "onboard_time": 1740163632,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24031,
+        "num": 24031,
+        "word": "奶奶每天玩手机到凌晨近视2300度",
+        "onboard_time": 1740115881,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23355,
+        "num": 23355,
+        "word": "吴镇宇感动哭了",
+        "onboard_time": 1740149781,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22276,
+        "num": 22276,
+        "word": "胡静老公年轻时颜值",
+        "onboard_time": 1740150742,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21014,
+        "num": 21014,
+        "word": "温以凡妈妈人设",
+        "onboard_time": 1740168611,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19712,
+        "num": 19712,
+        "word": "植物大战僵尸3过审",
+        "onboard_time": 1740152300,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 19217,
+        "num": 19217,
+        "word": "老师用DeepSeek制作随机点名系统",
+        "onboard_time": 1740170351,
+        "rank": 35,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 18730,
+        "num": 18730,
+        "word": "张婉莹拿到了S级",
+        "onboard_time": 1740141801,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18300,
+        "num": 18300,
+        "word": "蒋超良被查",
+        "onboard_time": 1740140778,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18068,
+        "num": 18068,
+        "word": "遭家暴失明女子在等伤残鉴定",
+        "onboard_time": 1740145340,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17784,
+        "num": 17784,
+        "word": "人形机器人爆改体育生",
+        "onboard_time": 1740173232,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17649,
+        "num": 17649,
+        "word": "美国国税局将解雇约6000名员工",
+        "onboard_time": 1740166032,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16905,
+        "num": 16905,
+        "word": "DeepSeek分析大学每月1500够花吗",
+        "onboard_time": 1740175751,
+        "rank": 41,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 16545,
+        "num": 16545,
+        "word": "Jennie牙钉",
+        "onboard_time": 1740145162,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16530,
+        "num": 16530,
+        "word": "以色列爆炸现场有多枚爆炸装置",
+        "onboard_time": 1740167232,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16289,
+        "num": 16289,
+        "word": "小行星撞地球概率降了",
+        "onboard_time": 1740149781,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16202,
+        "num": 16202,
+        "word": "德基厕所",
+        "onboard_time": 1740141681,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 15735,
+        "num": 16198,
+        "word": "靶向整治让网络环境更清朗",
+        "onboard_time": 1740158834,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15433,
+        "num": 16197,
+        "word": "红房子 无人生还",
+        "onboard_time": 1740138800,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15289,
+        "num": 16193,
+        "word": "DeepSeek上线数据局人员称应该不会失业",
+        "onboard_time": 1740163752,
+        "rank": 48,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 15078,
+        "num": 16190,
+        "word": "机器人穿警察马甲街头巡逻",
+        "onboard_time": 1740172031,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央军委主席习近平签署命令#"
+    }
+  }
+}

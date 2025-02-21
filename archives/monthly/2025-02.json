@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740173743288,
+  "endTime": 1740176488608,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -57691,6 +57691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59237,
+      "num": 59237,
+      "word": "性骚扰不该成为流量密码",
+      "onboard_time": 1740169272,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 59196,
       "num": 497601,
       "word": "2025年春节假期交通出行火热",
@@ -60179,14 +60187,6 @@
       "category": "体育,汽车"
     },
     {
-      "raw_hot": 44552,
-      "num": 26425,
-      "word": "性骚扰不该成为流量密码",
-      "onboard_time": 1740169272,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 44546,
       "num": 168733,
       "word": "黑执事古早必出神图",
@@ -61243,6 +61243,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 38160,
+      "num": 38160,
+      "word": "城管回应住户在楼顶上种树",
+      "onboard_time": 1740174431,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38085,
       "num": 671725,
       "word": "第九届亚冬会火种成功采集",
@@ -61481,6 +61489,14 @@
       "onboard_time": 1739444901,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36802,
+      "num": 36802,
+      "word": "马斯克说普京买不起我",
+      "onboard_time": 1740168671,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 36783,
@@ -63555,14 +63571,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 25523,
-      "num": 25523,
-      "word": "马斯克说普京买不起我",
-      "onboard_time": 1740168671,
-      "rank": 43,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 25499,
       "num": 71401,
       "word": "北京多条地铁线延长运营至凌晨一两点",
@@ -64635,6 +64643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 21014,
+      "num": 21014,
+      "word": "温以凡妈妈人设",
+      "onboard_time": 1740168611,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 20996,
       "num": 238067,
       "word": "金巧巧力挺蛟龙行动",
@@ -65251,6 +65267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 17784,
+      "num": 25647,
+      "word": "人形机器人爆改体育生",
+      "onboard_time": 1740173232,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17779,
       "num": 207155,
       "word": "西蒙斯快船首秀",
@@ -65265,14 +65289,6 @@
       "onboard_time": 1738871352,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 17503,
-      "num": 17503,
-      "word": "温以凡妈妈人设",
-      "onboard_time": 1740168611,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 17418,
@@ -65393,6 +65409,14 @@
       "onboard_time": 1738782133,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 16905,
+      "num": 16905,
+      "word": "DeepSeek分析大学每月1500够花吗",
+      "onboard_time": 1740175751,
+      "rank": 41,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 16722,
@@ -67161,14 +67185,6 @@
       "onboard_time": 1739371102,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 8015,
-      "num": 25647,
-      "word": "人形机器人爆改体育生",
-      "onboard_time": 1740173232,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 8007,
