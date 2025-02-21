@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1740116330362,
+  "endTime": 1740119488791,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -227,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2814831,
+      "num": 2068234,
+      "word": "难哄 恶趣味",
+      "onboard_time": 1740114501,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2716920,
       "num": 2716920,
       "word": "哪吒2预测票房下跌",
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 2689110,
-      "num": 680829,
+      "num": 707638,
       "word": "黄景瑜 张艺上",
       "onboard_time": 1740099919,
       "rank": 10,
@@ -387,14 +395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2068234,
-      "num": 2068234,
-      "word": "难哄 恶趣味",
-      "onboard_time": 1740114501,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 2059559,
       "num": 2059559,
       "word": "民警建议家里不要安装摄像头",
@@ -508,7 +508,7 @@
     },
     {
       "raw_hot": 1835915,
-      "num": 409589,
+      "num": 626014,
       "word": "女子上公厕染上诺如病毒",
       "onboard_time": 1740111802,
       "rank": 32,
@@ -593,6 +593,14 @@
       "onboard_time": 1739793739,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1658675,
+      "num": 709168,
+      "word": "奶奶每天玩手机到凌晨近视2300度",
+      "onboard_time": 1740115881,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1649351,
@@ -1588,7 +1596,7 @@
     },
     {
       "raw_hot": 984111,
-      "num": 355594,
+      "num": 929171,
       "word": "难哄 男女主各演各的",
       "onboard_time": 1740113544,
       "rank": 15,
@@ -2284,7 +2292,7 @@
     },
     {
       "raw_hot": 752321,
-      "num": 353381,
+      "num": 400869,
       "word": "董力夫妻综艺拿了杨子的剧本吧",
       "onboard_time": 1740113362,
       "rank": 13,
@@ -2417,6 +2425,14 @@
       "onboard_time": 1739773519,
       "rank": 19,
       "category": "民生新闻,体育"
+    },
+    {
+      "raw_hot": 712264,
+      "num": 712264,
+      "word": "女子花5万买孩子火车上被识破",
+      "onboard_time": 1740115342,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 709777,
@@ -2892,7 +2908,7 @@
     },
     {
       "raw_hot": 599572,
-      "num": 337122,
+      "num": 533178,
       "word": "7旬老太网恋1个月被骗111万",
       "onboard_time": 1740113002,
       "rank": 47,
@@ -2956,7 +2972,7 @@
     },
     {
       "raw_hot": 589879,
-      "num": 589879,
+      "num": 709333,
       "word": "山东大学停招27个专业",
       "onboard_time": 1740111322,
       "rank": 34,
@@ -3452,7 +3468,7 @@
     },
     {
       "raw_hot": 510861,
-      "num": 330712,
+      "num": 459365,
       "word": "白敬亭 颜值巅峰",
       "onboard_time": 1740114082,
       "rank": 21,
@@ -3649,6 +3665,14 @@
       "onboard_time": 1739781021,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 481695,
+      "num": 709930,
+      "word": "难哄没谈上就吻上",
+      "onboard_time": 1740117559,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 481073,
@@ -4097,6 +4121,14 @@
       "onboard_time": 1739655552,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 438903,
+      "num": 712070,
+      "word": "DeepSeek评中国最宜居城市",
+      "onboard_time": 1740118279,
+      "rank": 5,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 438846,
@@ -4707,6 +4739,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 376860,
+      "num": 710773,
+      "word": "问DeepSeek最帅的动漫人物是谁",
+      "onboard_time": 1740112641,
+      "rank": 43,
+      "category": "动漫,互联网"
+    },
+    {
+      "raw_hot": 376528,
+      "num": 708684,
+      "word": "女子偷窃求助deepseek如何免责",
+      "onboard_time": 1740117860,
+      "rank": 13,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 375935,
       "num": 375935,
       "word": "孟子义攒了几部剧没播",
@@ -4977,14 +5025,6 @@
       "onboard_time": 1740052462,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 356192,
-      "num": 356192,
-      "word": "问DeepSeek最帅的动漫人物是谁",
-      "onboard_time": 1740112641,
-      "rank": 43,
-      "category": "动漫,互联网"
     },
     {
       "raw_hot": 355888,
@@ -5795,6 +5835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 295252,
+      "num": 295252,
+      "word": "阴阳师",
+      "onboard_time": 1739777541,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 294281,
       "num": 376215,
       "word": "难哄 电视剧界汪峰",
@@ -6075,6 +6123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 283680,
+      "num": 708032,
+      "word": "杨洋录制hi6上班路透",
+      "onboard_time": 1740116059,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 283309,
       "num": 283309,
       "word": "喝羽衣甘蓝粉或可可粉真能减肥吗",
@@ -6203,6 +6259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 274378,
+      "num": 710489,
+      "word": "污蔑中国的团队被特朗普端了",
+      "onboard_time": 1740116180,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 274070,
       "num": 274070,
       "word": "杨紫韩东君家业牵手路透",
@@ -6249,6 +6313,14 @@
       "onboard_time": 1739953823,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 271987,
+      "num": 271987,
+      "word": "郑恺苗苗二人约会",
+      "onboard_time": 1740118641,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 271667,
@@ -6313,6 +6385,14 @@
       "onboard_time": 1739787919,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 269405,
+      "num": 269405,
+      "word": "章若楠睫毛",
+      "onboard_time": 1740116839,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 269228,
@@ -6595,14 +6675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 256742,
-      "num": 350747,
-      "word": "女子花5万买孩子火车上被识破",
-      "onboard_time": 1740115342,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 256479,
       "num": 256479,
       "word": "90后财务痴迷买包挪用公司1400万",
@@ -6761,6 +6833,14 @@
       "onboard_time": 1739767521,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 252031,
+      "num": 252031,
+      "word": "祝绪丹晒虞书欣送的玩偶",
+      "onboard_time": 1740116420,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 251421,
@@ -7179,6 +7259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237772,
+      "num": 237772,
+      "word": "难哄编剧",
+      "onboard_time": 1740118040,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 237691,
       "num": 237691,
       "word": "体育课不能说起来重要忙起来不要",
@@ -7329,6 +7417,14 @@
       "onboard_time": 1739865443,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 232517,
+      "num": 282807,
+      "word": "桑延角色号大破防",
+      "onboard_time": 1740118400,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 232174,
@@ -7681,14 +7777,6 @@
       "onboard_time": 1740069018,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 220105,
-      "num": 280606,
-      "word": "阴阳师",
-      "onboard_time": 1739777541,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 219857,
@@ -9739,6 +9827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 183934,
+      "num": 183934,
+      "word": "韩庚家庭氛围好好",
+      "onboard_time": 1740118880,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183842,
       "num": 183842,
       "word": "邓为不语只是一味晒猫",
@@ -10129,6 +10225,14 @@
       "onboard_time": 1740061283,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175710,
+      "num": 293089,
+      "word": "菲飞机与我方直升机航迹信息公布",
+      "onboard_time": 1740116659,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 175515,
@@ -10803,6 +10907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163110,
+      "num": 163110,
+      "word": "张晚意新剧卷发异域少年郎造型",
+      "onboard_time": 1740119120,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163091,
       "num": 210530,
       "word": "奶奶给孙女缝结界兽套装回头率爆表",
@@ -11067,6 +11179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 158880,
+      "num": 158880,
+      "word": "车辆全损父母却无大碍女子跪谢爱车",
+      "onboard_time": 1740118941,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158692,
       "num": 211526,
       "word": "简阳地震",
@@ -11201,22 +11321,6 @@
       "onboard_time": 1739667137,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 156058,
-      "num": 156058,
-      "word": "杨洋录制hi6上班路透",
-      "onboard_time": 1740116059,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 156014,
-      "num": 156014,
-      "word": "污蔑中国的团队被特朗普端了",
-      "onboard_time": 1740116180,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 155994,
@@ -11571,6 +11675,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 149548,
+      "num": 149548,
+      "word": "刘亦菲姐感赛道天花板",
+      "onboard_time": 1740116300,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149437,
       "num": 149437,
       "word": "郑钦文晚宴造型好飒",
@@ -11673,14 +11785,6 @@
       "onboard_time": 1739929760,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 148059,
-      "num": 148059,
-      "word": "刘亦菲姐感赛道天花板",
-      "onboard_time": 1740116300,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 147843,
@@ -12281,6 +12385,14 @@
       "onboard_time": 1740056541,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137089,
+      "num": 533450,
+      "word": "肖战确认受邀参加2025米兰时装周",
+      "onboard_time": 1740118941,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 136674,
@@ -13713,6 +13825,14 @@
       "onboard_time": 1739797880,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103709,
+      "num": 708279,
+      "word": "DeepSeek月下载量超1.1亿",
+      "onboard_time": 1740118520,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 103510,
@@ -15699,6 +15819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51040,
+      "num": 275945,
+      "word": "打工人没结果的相亲都成了人脉",
+      "onboard_time": 1740117921,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50824,
       "num": 220040,
       "word": "王大陆许光汉或将部队同台",
@@ -16395,6 +16523,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 35285,
+      "num": 540932,
+      "word": "半导体板块拉升",
+      "onboard_time": 1740118459,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 35083,
       "num": 369754,
       "word": "陈幸同亚洲杯两连胜",
@@ -16491,14 +16627,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 32399,
-      "num": 287836,
-      "word": "奶奶每天玩手机到凌晨近视2300度",
-      "onboard_time": 1740115881,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 32345,
       "num": 213749,
       "word": "医生怕救完人还得救自己",
@@ -16537,6 +16665,14 @@
       "onboard_time": 1739686039,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 31820,
+      "num": 244463,
+      "word": "林诗栋3比0阿里",
+      "onboard_time": 1740119360,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 31557,
@@ -16601,6 +16737,14 @@
       "onboard_time": 1739676020,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 28893,
+      "num": 240786,
+      "word": "70岁房东猥亵女租客事件双方和解",
+      "onboard_time": 1740119300,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28789,
@@ -17073,6 +17217,14 @@
       "onboard_time": 1740027743,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 21651,
+      "num": 191260,
+      "word": "陈幸同3比0萨哈基安",
+      "onboard_time": 1740119360,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 21523,
@@ -17641,6 +17793,14 @@
       "onboard_time": 1739905332,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11377,
+      "num": 281062,
+      "word": "初代甜妹木之本樱",
+      "onboard_time": 1740118520,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 10835,
