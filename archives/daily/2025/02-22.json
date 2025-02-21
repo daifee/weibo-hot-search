@@ -1,6 +1,6 @@
 {
   "startTime": 1740155309204,
-  "endTime": 1740162625360,
+  "endTime": 1740163430931,
   "band_list": [
     {
       "raw_hot": 1334865,
@@ -427,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53470,
+      "num": 53470,
+      "word": "IU朴宝剑新剧3月上线",
+      "onboard_time": 1740162311,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 51840,
       "num": 200483,
       "word": "王曼昱打出11比0",
@@ -435,12 +443,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 41686,
-      "num": 41686,
-      "word": "IU朴宝剑新剧3月上线",
-      "onboard_time": 1740162311,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 36222,
+      "num": 81212,
+      "word": "法国小伙想让全世界都知道真相",
+      "onboard_time": 1740160813,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 27423,
@@ -483,10 +491,18 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 16162,
-      "num": 81212,
-      "word": "法国小伙想让全世界都知道真相",
-      "onboard_time": 1740160813,
+      "raw_hot": 22536,
+      "num": 27103,
+      "word": "儿歌赛道被檀健次闯进去了",
+      "onboard_time": 1740163332,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 13937,
+      "num": 71170,
+      "word": "中泰缅雷霆式合作打击网赌电诈",
+      "onboard_time": 1740161412,
       "rank": 9,
       "category": "国内时政"
     },
