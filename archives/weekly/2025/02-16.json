@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1740170257850,
+  "endTime": 1740172740181,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -18587,6 +18587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31789,
+      "num": 26217,
+      "word": "性骚扰不该成为流量密码",
+      "onboard_time": 1740169272,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 31557,
       "num": 210667,
       "word": "穿越鳌太线获救小伙称山放过了我",
@@ -19019,6 +19027,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 23829,
+      "num": 23829,
+      "word": "老师用DeepSeek制作随机点名系统",
+      "onboard_time": 1740170351,
+      "rank": 23,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 23801,
       "num": 284619,
       "word": "哭是中年人解压性价比最高的方式",
@@ -19203,6 +19219,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 21965,
+      "num": 21965,
+      "word": "马斯克说普京买不起我",
+      "onboard_time": 1740168671,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 21900,
       "num": 73278,
       "word": "贝林厄姆红牌",
@@ -19369,14 +19393,6 @@
       "onboard_time": 1739863645,
       "rank": 26,
       "category": "教育"
-    },
-    {
-      "raw_hot": 19867,
-      "num": 19287,
-      "word": "马斯克说普京买不起我",
-      "onboard_time": 1740168671,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 19836,
@@ -19579,20 +19595,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 16642,
-      "num": 16642,
-      "word": "性骚扰不该成为流量密码",
-      "onboard_time": 1740169272,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 16538,
       "num": 408015,
       "word": "乌总统称准备好与美达成协议",
       "onboard_time": 1740129982,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 16426,
+      "num": 16426,
+      "word": "温以凡妈妈人设",
+      "onboard_time": 1740168611,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 16362,
@@ -19824,6 +19840,14 @@
       "word": "29省份上线医保药品比价神器",
       "onboard_time": 1740058042,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12973,
+      "num": 36796,
+      "word": "深圳警察有了个机器人搭子",
+      "onboard_time": 1740169631,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -20075,10 +20099,10 @@
       "category": "体育"
     },
     {
-      "raw_hot": 8930,
-      "num": 36796,
-      "word": "深圳警察有了个机器人搭子",
-      "onboard_time": 1740169631,
+      "raw_hot": 9113,
+      "num": 27233,
+      "word": "机器人穿警察马甲街头巡逻",
+      "onboard_time": 1740172031,
       "rank": 9,
       "category": "民生新闻"
     },
