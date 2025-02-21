@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1740126529436,
+  "endTime": 1740127308423,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -817,6 +817,14 @@
       "onboard_time": 1735814900,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3850490,
+      "num": 3850490,
+      "word": "侵华日军为便于奸淫百姓赤身骑马",
+      "onboard_time": 1740125420,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 3831944,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736914699,
       "rank": 16,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 2282142,
-      "num": 2282142,
-      "word": "闫妮殷桃宋佳蒋欣 我的妈妈们",
-      "onboard_time": 1738070017,
-      "rank": 11,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

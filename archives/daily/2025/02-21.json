@@ -1,6 +1,6 @@
 {
   "startTime": 1740069014077,
-  "endTime": 1740126529436,
+  "endTime": 1740127308423,
   "band_list": [
     {
       "raw_hot": 6060617,
@@ -9,6 +9,14 @@
       "onboard_time": 1740064343,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3850490,
+      "num": 3850490,
+      "word": "侵华日军为便于奸淫百姓赤身骑马",
+      "onboard_time": 1740125420,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 3437147,
@@ -155,14 +163,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1154489,
-      "num": 1154489,
-      "word": "侵华日军为便于奸淫百姓赤身骑马",
-      "onboard_time": 1740125420,
-      "rank": 3,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 1100766,
       "num": 1100766,
       "word": "deepseek一两分钟干了我一两天的活",
@@ -171,20 +171,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1012768,
+      "num": 689302,
+      "word": "董力 杨子2.0",
+      "onboard_time": 1740123980,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 984111,
       "num": 929171,
       "word": "难哄 男女主各演各的",
       "onboard_time": 1740113544,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 965060,
-      "num": 652106,
-      "word": "董力 杨子2.0",
-      "onboard_time": 1740123980,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 961828,
@@ -267,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 691398,
+      "num": 414382,
+      "word": "黄景瑜奖杯上有张艺上名字",
+      "onboard_time": 1740126200,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 682634,
       "num": 682634,
       "word": "陈凯歌章子怡的耐心都给了张亮",
@@ -289,6 +297,14 @@
       "onboard_time": 1740120619,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 613576,
+      "num": 404779,
+      "word": "李承铉说离婚是另外一个节目",
+      "onboard_time": 1740126860,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 613011,
@@ -507,14 +523,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 369689,
-      "num": 339652,
-      "word": "黄景瑜奖杯上有张艺上名字",
-      "onboard_time": 1740126200,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 358132,
       "num": 452156,
       "word": "檀健次说再不拍猎罪3我就老了",
@@ -627,7 +635,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 292353,
+      "raw_hot": 293594,
       "num": 1519807,
       "word": "2025清朗行动重点整治8大乱象",
       "onboard_time": 1740123198,
@@ -665,6 +673,14 @@
       "onboard_time": 1740112222,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 280328,
+      "num": 280328,
+      "word": "2025清朗行动8大重点整治任务",
+      "onboard_time": 1740126560,
+      "rank": 21,
+      "category": "国内时政"
     },
     {
       "raw_hot": 276678,
@@ -721,6 +737,14 @@
       "onboard_time": 1740112402,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 265304,
+      "num": 334698,
+      "word": "居民称楼顶种了一大树致家中渗水",
+      "onboard_time": 1740124999,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 265133,
@@ -835,12 +859,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 226788,
+      "num": 226788,
+      "word": "俄乌冲突",
+      "onboard_time": 1740126261,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 226729,
       "num": 285239,
       "word": "以为是看病结果是看脸",
       "onboard_time": 1740114141,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 224714,
+      "num": 224714,
+      "word": "云南一景区雪崩瞬间淹没人群",
+      "onboard_time": 1740124399,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 224656,
@@ -1035,6 +1075,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193297,
+      "num": 193297,
+      "word": "哪吒2已超128亿",
+      "onboard_time": 1740125540,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 192546,
       "num": 432095,
       "word": "为骑手缴纳社保单均成本增幅1元",
@@ -1065,14 +1113,6 @@
       "onboard_time": 1740112462,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 189638,
-      "num": 334698,
-      "word": "居民称楼顶种了一大树致家中渗水",
-      "onboard_time": 1740124999,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 189180,
@@ -1147,22 +1187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 182425,
-      "num": 182425,
-      "word": "哪吒2已超128亿",
-      "onboard_time": 1740125540,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 182333,
-      "num": 182333,
-      "word": "云南一景区雪崩瞬间淹没人群",
-      "onboard_time": 1740124399,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 180609,
       "num": 185057,
       "word": "景甜换了似锦里姜似的头像",
@@ -1193,6 +1217,14 @@
       "onboard_time": 1740059482,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176420,
+      "num": 176420,
+      "word": "重庆姐弟坠亡案入选最高法典型案例",
+      "onboard_time": 1740126800,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176374,
@@ -1371,6 +1403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 150611,
+      "num": 150611,
+      "word": "孙颖莎大方回应大家",
+      "onboard_time": 1740127040,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150366,
       "num": 150366,
       "word": "混血宝宝做作业全是小动作",
@@ -1419,12 +1459,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 140500,
-      "num": 140500,
-      "word": "俄乌冲突",
-      "onboard_time": 1740126261,
-      "rank": 44,
-      "category": "国际时政"
+      "raw_hot": 141439,
+      "num": 450522,
+      "word": "上公厕感染诺如当事人回应",
+      "onboard_time": 1740124880,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138235,
@@ -1571,6 +1611,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 111673,
+      "num": 256520,
+      "word": "3人穿潜水服偷捞高尔夫球",
+      "onboard_time": 1740125120,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110170,
       "num": 110170,
       "word": "倪妮出场听取好美声一片",
@@ -1640,6 +1688,14 @@
       "word": "银川震感明显",
       "onboard_time": 1740068657,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100776,
+      "num": 397156,
+      "word": "苏州一咖啡店因奥特曼被索赔100万",
+      "onboard_time": 1740126321,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -1771,14 +1827,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 84754,
-      "num": 256520,
-      "word": "3人穿潜水服偷捞高尔夫球",
-      "onboard_time": 1740125120,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 84583,
       "num": 380422,
       "word": "孙颖莎3比0穆罕默德",
@@ -1873,14 +1921,6 @@
       "onboard_time": 1740107479,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 59000,
-      "num": 450522,
-      "word": "上公厕感染诺如当事人回应",
-      "onboard_time": 1740124880,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 57091,
@@ -1996,7 +2036,7 @@
     },
     {
       "raw_hot": 44651,
-      "num": 358012,
+      "num": 358338,
       "word": "徐梦桃体验极氪离车泊入",
       "onboard_time": 1740124279,
       "rank": 16,
@@ -2028,7 +2068,7 @@
     },
     {
       "raw_hot": 36694,
-      "num": 1236206,
+      "num": 1302724,
       "word": "中国智造已经是NextLevel",
       "onboard_time": 1740108620,
       "rank": 44,
@@ -2105,6 +2145,14 @@
       "onboard_time": 1740106638,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27814,
+      "num": 227158,
+      "word": "中国视协辟谣郑某峰为协会人员",
+      "onboard_time": 1740126560,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27505,
@@ -2187,6 +2235,14 @@
       "category": "民生新闻,电影"
     },
     {
+      "raw_hot": 19836,
+      "num": 265731,
+      "word": "林书豪晒合影致敬姚明",
+      "onboard_time": 1740126020,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 19711,
       "num": 42980,
       "word": "记者采访将特朗普名字念成普京",
@@ -2217,14 +2273,6 @@
       "onboard_time": 1740065063,
       "rank": 23,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 13316,
-      "num": 265158,
-      "word": "苏州一咖啡店因奥特曼被索赔100万",
-      "onboard_time": 1740126321,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13291,
