@@ -1,6 +1,6 @@
 {
   "startTime": 1740069014077,
-  "endTime": 1740151445590,
+  "endTime": 1740152292148,
   "band_list": [
     {
       "raw_hot": 6060617,
@@ -99,6 +99,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 1858311,
+      "num": 1858311,
+      "word": "五毛人民币假钞在美国卖五美金",
+      "onboard_time": 1740147922,
+      "rank": 26,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1836965,
       "num": 1836965,
       "word": "难哄删除争议镜头",
@@ -113,14 +121,6 @@
       "onboard_time": 1740111802,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1751262,
-      "num": 1751262,
-      "word": "五毛人民币假钞在美国卖五美金",
-      "onboard_time": 1740147922,
-      "rank": 26,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1736908,
@@ -291,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 955697,
+      "num": 955697,
+      "word": "4人喝100多瓶啤酒1人呕吐时坠亡",
+      "onboard_time": 1740147860,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 929799,
       "num": 636734,
       "word": "红房子 无人生还",
@@ -401,14 +409,6 @@
       "onboard_time": 1740126261,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 781886,
-      "num": 781886,
-      "word": "4人喝100多瓶啤酒1人呕吐时坠亡",
-      "onboard_time": 1740147860,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 780736,
@@ -867,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 349379,
+      "num": 303325,
+      "word": "吴镇宇感动哭了",
+      "onboard_time": 1740149781,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 345642,
       "num": 345642,
       "word": "结石姐这辈子没遭这罪",
@@ -963,15 +971,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 307888,
-      "num": 307888,
-      "word": "2025清朗行动8大重点整治任务",
-      "onboard_time": 1740126560,
-      "rank": 21,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 305148,
+      "raw_hot": 311575,
       "num": 305148,
       "word": "陈凯歌说太假了全是套路",
       "onboard_time": 1740149240,
@@ -979,12 +979,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 303325,
-      "num": 303325,
-      "word": "吴镇宇感动哭了",
-      "onboard_time": 1740149781,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 307888,
+      "num": 307888,
+      "word": "2025清朗行动8大重点整治任务",
+      "onboard_time": 1740126560,
+      "rank": 21,
+      "category": "国内时政"
     },
     {
       "raw_hot": 300274,
@@ -1131,6 +1131,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 269510,
+      "num": 269510,
+      "word": "贺美琦 时代峰峻",
+      "onboard_time": 1740151040,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 268364,
       "num": 268364,
       "word": "LIZ身材",
@@ -1161,6 +1169,14 @@
       "onboard_time": 1740112402,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 266601,
+      "num": 266601,
+      "word": "于正不认可张婉莹S级",
+      "onboard_time": 1740150381,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 265304,
@@ -1259,6 +1275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242163,
+      "num": 242163,
+      "word": "赵露思模仿自己童年朗诵",
+      "onboard_time": 1740150321,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242113,
       "num": 242113,
       "word": "六姊妹",
@@ -1313,14 +1337,6 @@
       "onboard_time": 1740118400,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 231216,
-      "num": 231216,
-      "word": "赵露思模仿自己童年朗诵",
-      "onboard_time": 1740150321,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 230919,
@@ -1451,6 +1467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 214341,
+      "num": 214341,
+      "word": "胡静老公年轻时颜值",
+      "onboard_time": 1740150742,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212762,
       "num": 212762,
       "word": "妻子的浪漫旅行开播",
@@ -1507,20 +1531,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 207762,
-      "num": 207762,
-      "word": "于正不认可张婉莹S级",
-      "onboard_time": 1740150381,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 207514,
       "num": 207514,
       "word": "翟潇闻好帅",
       "onboard_time": 1740130460,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207362,
+      "num": 450125,
+      "word": "美国赢不了冠军赛更抢不走加拿大",
+      "onboard_time": 1740150680,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 206535,
@@ -1755,27 +1779,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 188454,
-      "num": 188454,
-      "word": "胡静老公年轻时颜值",
-      "onboard_time": 1740150742,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 188049,
-      "num": 188049,
-      "word": "贺美琦 时代峰峻",
-      "onboard_time": 1740151040,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 187940,
       "num": 98743,
       "word": "新娘回应小姑子代替新郎拜堂",
       "onboard_time": 1740080111,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187835,
+      "num": 243626,
+      "word": "电梯疑因故障冲顶导致59岁业主身亡",
+      "onboard_time": 1740150381,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -1915,6 +1931,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 179128,
+      "num": 300641,
+      "word": "宋亚轩重现出国表情包",
+      "onboard_time": 1740151640,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178521,
       "num": 178521,
       "word": "Doinb获常规赛MVP",
@@ -1969,14 +1993,6 @@
       "onboard_time": 1740108500,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 172381,
-      "num": 172381,
-      "word": "电梯疑因故障冲顶导致59岁业主身亡",
-      "onboard_time": 1740150381,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 172243,
@@ -2171,6 +2187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161401,
+      "num": 311014,
+      "word": "小行星撞地球概率降了",
+      "onboard_time": 1740149781,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161235,
       "num": 161235,
       "word": "阅文IP盛典阵容官宣",
@@ -2228,7 +2252,7 @@
     },
     {
       "raw_hot": 155870,
-      "num": 155870,
+      "num": 249046,
       "word": "RW终结AG十七连胜",
       "onboard_time": 1740150201,
       "rank": 42,
@@ -2483,6 +2507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131781,
+      "num": 131781,
+      "word": "帝师 aka",
+      "onboard_time": 1740151819,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
       "raw_hot": 131286,
       "num": 358345,
       "word": "赛琳娜和未婚夫花3500万美金买房",
@@ -2611,14 +2643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 123038,
-      "num": 311014,
-      "word": "小行星撞地球概率降了",
-      "onboard_time": 1740149781,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 121927,
       "num": 233272,
       "word": "多人曝与被行李箱砸中孕妇类似经历",
@@ -2635,12 +2659,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118931,
+      "raw_hot": 120600,
       "num": 259060,
       "word": "遭家暴失明女子在等伤残鉴定",
       "onboard_time": 1740145340,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120471,
+      "num": 120471,
+      "word": "凭哪吒2票根可免费游多家景区",
+      "onboard_time": 1740152238,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 118283,
@@ -2740,7 +2772,7 @@
     },
     {
       "raw_hot": 103420,
-      "num": 885776,
+      "num": 1001831,
       "word": "中国空间站首个舱内在轨机器人试验",
       "onboard_time": 1740146121,
       "rank": 2,
@@ -2929,6 +2961,14 @@
       "onboard_time": 1740071055,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 82276,
+      "num": 125830,
+      "word": "王曼昱打出11比0",
+      "onboard_time": 1740151518,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 81993,
@@ -3147,14 +3187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 55205,
-      "num": 450125,
-      "word": "美国赢不了冠军赛更抢不走加拿大",
-      "onboard_time": 1740150680,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 54604,
       "num": 310377,
       "word": "湖人vs开拓者",
@@ -3259,6 +3291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 47200,
+      "num": 285108,
+      "word": "广西县委书记回应要求下载DeepSeek",
+      "onboard_time": 1740151399,
+      "rank": 44,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 46997,
       "num": 143555,
       "word": "刘亦菲的商务版图来到11个",
@@ -3321,6 +3361,14 @@
       "onboard_time": 1740108860,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42835,
+      "num": 272622,
+      "word": "完善军队功勋荣誉表彰制度",
+      "onboard_time": 1740151941,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 42449,
@@ -3393,14 +3441,6 @@
       "onboard_time": 1740118459,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 35262,
-      "num": 151229,
-      "word": "广西县委书记回应要求下载DeepSeek",
-      "onboard_time": 1740151399,
-      "rank": 44,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 34613,
