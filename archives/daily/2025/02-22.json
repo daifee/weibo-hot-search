@@ -1,6 +1,6 @@
 {
   "startTime": 1740155309204,
-  "endTime": 1740177527203,
+  "endTime": 1740180161264,
   "band_list": [
     {
       "raw_hot": 1334865,
@@ -73,6 +73,14 @@
       "onboard_time": 1740148461,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 426023,
+      "num": 87527,
+      "word": "老师一堂课没收几十个裂空爪",
+      "onboard_time": 1740177853,
+      "rank": 11,
+      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 420543,
@@ -259,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126358,
+      "num": 118148,
+      "word": "大量黄金正从各国运往美国",
+      "onboard_time": 1740134300,
+      "rank": 37,
+      "category": "财经,国际时政"
+    },
+    {
       "raw_hot": 125317,
       "num": 125317,
       "word": "卜冠今 真诚",
@@ -273,14 +289,6 @@
       "onboard_time": 1740153979,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118148,
-      "num": 118148,
-      "word": "大量黄金正从各国运往美国",
-      "onboard_time": 1740134300,
-      "rank": 37,
-      "category": "财经,国际时政"
     },
     {
       "raw_hot": 113667,
@@ -355,6 +363,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89411,
+      "num": 89411,
+      "word": "城管回应住户在楼顶上种树",
+      "onboard_time": 1740174431,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89034,
+      "num": 89034,
+      "word": "性骚扰不该成为流量密码",
+      "onboard_time": 1740169272,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 86285,
       "num": 86285,
       "word": "LIZ身材",
@@ -396,11 +420,19 @@
     },
     {
       "raw_hot": 80311,
-      "num": 49981,
+      "num": 57234,
       "word": "前女友力挺法老",
       "onboard_time": 1740164232,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 78473,
+      "num": 78473,
+      "word": "马斯克说普京买不起我",
+      "onboard_time": 1740168671,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 75361,
@@ -411,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 70205,
+      "num": 70205,
+      "word": "赵露思小时候演讲视频",
+      "onboard_time": 1740179473,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 67705,
       "num": 67705,
       "word": "难哄删除争议镜头",
@@ -419,20 +459,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 62810,
+      "num": 62810,
+      "word": "DeepSeek分析大学每月1500够花吗",
+      "onboard_time": 1740175751,
+      "rank": 41,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 62010,
       "num": 573181,
       "word": "中国空间站首个舱内在轨机器人试验",
       "onboard_time": 1740146121,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 59237,
-      "num": 59237,
-      "word": "性骚扰不该成为流量密码",
-      "onboard_time": 1740169272,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 55331,
@@ -467,28 +507,36 @@
       "category": "体育"
     },
     {
-      "raw_hot": 43155,
-      "num": 43155,
-      "word": "城管回应住户在楼顶上种树",
-      "onboard_time": 1740174431,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 48129,
+      "num": 48129,
+      "word": "温以凡妈妈人设",
+      "onboard_time": 1740168611,
+      "rank": 39,
+      "category": "剧集"
     },
     {
-      "raw_hot": 40072,
-      "num": 40072,
-      "word": "马斯克说普京买不起我",
-      "onboard_time": 1740168671,
-      "rank": 43,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 39636,
-      "num": 39636,
+      "raw_hot": 41257,
+      "num": 57320,
       "word": "中方回应乌克兰危机和谈",
       "onboard_time": 1740163632,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 40732,
+      "num": 40732,
+      "word": "王昶首次回应梁王组合拆对传闻",
+      "onboard_time": 1740178813,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 39380,
+      "num": 39380,
+      "word": "吒儿执着于美颜但审美一言难尽",
+      "onboard_time": 1740178813,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 36222,
@@ -499,28 +547,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 33898,
+      "num": 39372,
+      "word": "以色列爆炸现场有多枚爆炸装置",
+      "onboard_time": 1740167232,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 28639,
+      "num": 50553,
+      "word": "美国国税局将解雇约6000名员工",
+      "onboard_time": 1740166032,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 27423,
       "num": 111885,
       "word": "靶向整治让网络环境更清朗",
       "onboard_time": 1740158834,
       "rank": 15,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 25799,
-      "num": 25799,
-      "word": "DeepSeek分析大学每月1500够花吗",
-      "onboard_time": 1740175751,
-      "rank": 41,
-      "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 24224,
-      "num": 24224,
-      "word": "温以凡妈妈人设",
-      "onboard_time": 1740168611,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 24180,
@@ -571,14 +619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 19597,
-      "num": 19597,
-      "word": "以色列爆炸现场有多枚爆炸装置",
-      "onboard_time": 1740167232,
-      "rank": 33,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 19168,
       "num": 21499,
       "word": "我们的爸爸",
@@ -593,14 +633,6 @@
       "onboard_time": 1740173232,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18408,
-      "num": 50553,
-      "word": "美国国税局将解雇约6000名员工",
-      "onboard_time": 1740166032,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 18200,

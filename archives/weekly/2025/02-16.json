@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1740177527203,
+  "endTime": 1740180161264,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -4617,6 +4617,14 @@
       "onboard_time": 1739700739,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 426023,
+      "num": 87527,
+      "word": "老师一堂课没收几十个裂空爪",
+      "onboard_time": 1740177853,
+      "rank": 11,
+      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 423019,
@@ -15955,12 +15963,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89411,
+      "num": 89411,
+      "word": "城管回应住户在楼顶上种树",
+      "onboard_time": 1740174431,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89099,
       "num": 160129,
       "word": "孙颖莎淘汰赛对阵李恩惠",
       "onboard_time": 1740151100,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89034,
+      "num": 89034,
+      "word": "性骚扰不该成为流量密码",
+      "onboard_time": 1740169272,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 88364,
@@ -16244,7 +16268,7 @@
     },
     {
       "raw_hot": 80311,
-      "num": 49981,
+      "num": 57234,
       "word": "前女友力挺法老",
       "onboard_time": 1740164232,
       "rank": 23,
@@ -16337,6 +16361,14 @@
       "onboard_time": 1739871082,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 78473,
+      "num": 78473,
+      "word": "马斯克说普京买不起我",
+      "onboard_time": 1740168671,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 78395,
@@ -16707,6 +16739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70205,
+      "num": 70205,
+      "word": "赵露思小时候演讲视频",
+      "onboard_time": 1740179473,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 70136,
       "num": 258499,
       "word": "猫耳直播",
@@ -16963,6 +17003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62810,
+      "num": 62810,
+      "word": "DeepSeek分析大学每月1500够花吗",
+      "onboard_time": 1740175751,
+      "rank": 41,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 62801,
       "num": 660096,
       "word": "梁靖崑3比1松岛辉空",
@@ -17169,14 +17217,6 @@
       "onboard_time": 1740063981,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 59237,
-      "num": 59237,
-      "word": "性骚扰不该成为流量密码",
-      "onboard_time": 1740169272,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 58915,
@@ -17723,6 +17763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 48129,
+      "num": 48129,
+      "word": "温以凡妈妈人设",
+      "onboard_time": 1740168611,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 48020,
       "num": 177429,
       "word": "吉利银河2周年23亿宠粉",
@@ -18003,14 +18051,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 43155,
-      "num": 43155,
-      "word": "城管回应住户在楼顶上种树",
-      "onboard_time": 1740174431,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 42861,
       "num": 134905,
       "word": "林诗栋亚洲杯两连胜",
@@ -18083,6 +18123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41257,
+      "num": 57320,
+      "word": "中方回应乌克兰危机和谈",
+      "onboard_time": 1740163632,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 41144,
       "num": 265526,
       "word": "黑执事僵尸新娘风",
@@ -18097,6 +18145,14 @@
       "onboard_time": 1739954061,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 40732,
+      "num": 40732,
+      "word": "王昶首次回应梁王组合拆对传闻",
+      "onboard_time": 1740178813,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 40664,
@@ -18147,27 +18203,11 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 40072,
-      "num": 40072,
-      "word": "马斯克说普京买不起我",
-      "onboard_time": 1740168671,
-      "rank": 43,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 40042,
       "num": 228149,
       "word": "小特朗普转发泽连斯基换脸视频",
       "onboard_time": 1740020059,
       "rank": 29,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 39636,
-      "num": 39636,
-      "word": "中方回应乌克兰危机和谈",
-      "onboard_time": 1740163632,
-      "rank": 22,
       "category": "国际时政"
     },
     {
@@ -18185,6 +18225,14 @@
       "onboard_time": 1740113961,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 39380,
+      "num": 39380,
+      "word": "吒儿执着于美颜但审美一言难尽",
+      "onboard_time": 1740178813,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 38934,
@@ -18499,6 +18547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33898,
+      "num": 39372,
+      "word": "以色列爆炸现场有多枚爆炸装置",
+      "onboard_time": 1740167232,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 33727,
       "num": 89683,
       "word": "马库斯想去参观张纯如纪念馆",
@@ -18697,6 +18753,14 @@
       "onboard_time": 1739989091,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 28639,
+      "num": 50553,
+      "word": "美国国税局将解雇约6000名员工",
+      "onboard_time": 1740166032,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 28605,
@@ -18915,14 +18979,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 25799,
-      "num": 25799,
-      "word": "DeepSeek分析大学每月1500够花吗",
-      "onboard_time": 1740175751,
-      "rank": 41,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 25432,
       "num": 375515,
       "word": "蒯曼晋级亚洲杯16强",
@@ -19017,14 +19073,6 @@
       "onboard_time": 1739676798,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 24224,
-      "num": 24224,
-      "word": "温以凡妈妈人设",
-      "onboard_time": 1740168611,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 24180,
@@ -19451,14 +19499,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 19597,
-      "num": 19597,
-      "word": "以色列爆炸现场有多枚爆炸装置",
-      "onboard_time": 1740167232,
-      "rank": 33,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 19503,
       "num": 243780,
       "word": "再看丘索维金娜8届奥运依旧感动",
@@ -19553,14 +19593,6 @@
       "onboard_time": 1739873482,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 18408,
-      "num": 50553,
-      "word": "美国国税局将解雇约6000名员工",
-      "onboard_time": 1740166032,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 18219,
