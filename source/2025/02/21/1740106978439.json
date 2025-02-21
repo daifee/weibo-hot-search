@@ -1,0 +1,410 @@
+{
+  "runTime": 1740106978439,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3128439,
+        "num": 3128439,
+        "word": "特朗普恢复死刑",
+        "onboard_time": 1740102440,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1095918,
+        "num": 1095918,
+        "word": "阿奴还没变我已经老了",
+        "onboard_time": 1740105559,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 5036,
+        "num": 1045282,
+        "word": "中国式现代化的万千气象海南行",
+        "onboard_time": 1739782103,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1350530,
+        "num": 1039331,
+        "word": "七仙女饰演者称被郑某峰搂抱亲脸",
+        "onboard_time": 1740104720,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1019701,
+        "num": 1019701,
+        "word": "有骑手抵触缴纳社保",
+        "onboard_time": 1740105200,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 815019,
+        "num": 815019,
+        "word": "母亲去世后亲弟侵吞聋哑哥哥退休金",
+        "onboard_time": 1740100760,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1020199,
+        "num": 813745,
+        "word": "哪吒2冲击全球影史前三",
+        "onboard_time": 1740100520,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 748808,
+        "num": 748808,
+        "word": "16岁女生背着父母签下10年主播合约",
+        "onboard_time": 1740102440,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 645402,
+        "num": 645402,
+        "word": "deepseek一两分钟干了我一两天的活",
+        "onboard_time": 1740058822,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 544187,
+        "num": 544187,
+        "word": "特朗普终止美联邦政府平权政策",
+        "onboard_time": 1740105080,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 417402,
+        "num": 525159,
+        "word": "夫妻在赌博诈骗和投案之间选择了自杀",
+        "onboard_time": 1740101238,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2384904,
+        "num": 524948,
+        "word": "黄景瑜 张艺上",
+        "onboard_time": 1740099919,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 518179,
+        "num": 518179,
+        "word": "女子怀孕5个月被诊所当妇科病治疗",
+        "onboard_time": 1740064224,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 431917,
+        "num": 431917,
+        "word": "全村老人最喜欢的年轻人出现了",
+        "onboard_time": 1740105080,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 398461,
+        "num": 398461,
+        "word": "刘涛坐宋佳腿上说话",
+        "onboard_time": 1740094758,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378356,
+        "num": 378356,
+        "word": "哪吒票房",
+        "onboard_time": 1740105439,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 877619,
+        "num": 368774,
+        "word": "黄景瑜 女朋友",
+        "onboard_time": 1740064343,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357593,
+        "num": 357593,
+        "word": "印度女孩画画还原父亲杀母过程",
+        "onboard_time": 1740105439,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 259387,
+        "num": 342627,
+        "word": "马嘉祺回国落地狂炫饭",
+        "onboard_time": 1740100520,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342421,
+        "num": 342421,
+        "word": "义乌老板利用DeepSeek卖空小商品",
+        "onboard_time": 1740062063,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319123,
+        "num": 319123,
+        "word": "医生提醒挖鼻孔或诱发颅内感染",
+        "onboard_time": 1740105080,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 236522,
+        "num": 236522,
+        "word": "迪丽热巴多起侵权案均已胜诉",
+        "onboard_time": 1740105559,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229960,
+        "num": 229960,
+        "word": "8岁男童在父母公司宿舍坠亡",
+        "onboard_time": 1740098242,
+        "rank": 22,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 224656,
+        "num": 224656,
+        "word": "张凌赫保镖接错人",
+        "onboard_time": 1740102919,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194496,
+        "num": 194496,
+        "word": "种地吧祝贺十个勤天成立2周年",
+        "onboard_time": 1740105620,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193554,
+        "num": 193554,
+        "word": "檀健次说再不拍猎罪3我就老了",
+        "onboard_time": 1740063503,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176493,
+        "num": 176493,
+        "word": "陈丽君2024中国妇女时代人物",
+        "onboard_time": 1740077292,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28065,
+        "num": 174444,
+        "word": "日本男篮主帅夸赵睿强硬",
+        "onboard_time": 1740106638,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173633,
+        "num": 173633,
+        "word": "国博白瓷玉漱公主再度爆火",
+        "onboard_time": 1740102139,
+        "rank": 28,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 169282,
+        "num": 169282,
+        "word": "美国人口3.41亿社保却有3.98亿人",
+        "onboard_time": 1740069677,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 166131,
+        "num": 166131,
+        "word": "归期 鹤辞",
+        "onboard_time": 1740101779,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166062,
+        "num": 166062,
+        "word": "iPhone17系列将采用LTPO屏幕",
+        "onboard_time": 1740100760,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 165334,
+        "num": 165334,
+        "word": "家长让男孩站好拍照时男孩踩爆水管",
+        "onboard_time": 1740106039,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161031,
+        "num": 161031,
+        "word": "7星连珠十二金仙要重聚了",
+        "onboard_time": 1740098300,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 150662,
+        "num": 150662,
+        "word": "桑家出情种",
+        "onboard_time": 1740106339,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150099,
+        "num": 150099,
+        "word": "余承东邀请李斌来尊界发布会",
+        "onboard_time": 1740106758,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 141359,
+        "num": 141359,
+        "word": "难哄预告",
+        "onboard_time": 1740103220,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132107,
+        "num": 132107,
+        "word": "波兰发布世界首个双足肌肉骨骼机器人",
+        "onboard_time": 1740097339,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 130286,
+        "num": 130286,
+        "word": "DeepSeek生成的春日仪式感清单太治愈",
+        "onboard_time": 1740100760,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 129523,
+        "num": 129523,
+        "word": "逆水寒",
+        "onboard_time": 1740104540,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128954,
+        "num": 128954,
+        "word": "乌克兰应美要求取消记者会",
+        "onboard_time": 1740101539,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128347,
+        "num": 128347,
+        "word": "LESSERAFIM概念预告",
+        "onboard_time": 1740106758,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 124845,
+        "num": 124845,
+        "word": "章子怡问杨子再见爱人是演的吗",
+        "onboard_time": 1740057202,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124545,
+        "num": 124545,
+        "word": "江苏兴化3.7级地震",
+        "onboard_time": 1740094158,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124098,
+        "num": 124098,
+        "word": "石家庄下雪",
+        "onboard_time": 1740100818,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123209,
+        "num": 123209,
+        "word": "上海聋哑老人唯一房产被亲弟偷卖",
+        "onboard_time": 1740100520,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118363,
+        "num": 118363,
+        "word": "安徽一厂房发生火灾3名消防员牺牲",
+        "onboard_time": 1740106459,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117591,
+        "num": 117591,
+        "word": "燃气表抖动工作人员回复死了会赔",
+        "onboard_time": 1740106940,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117305,
+        "num": 117562,
+        "word": "滤镜",
+        "onboard_time": 1740105380,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117554,
+        "num": 117554,
+        "word": "中国团队发现帕金森全新治疗靶点",
+        "onboard_time": 1740098959,
+        "rank": 49,
+        "category": "健康医疗,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#保持爱拼会赢的精气神#"
+    }
+  }
+}
