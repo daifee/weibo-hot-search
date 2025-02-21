@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740137757443,
+  "endTime": 1740141776604,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -5115,6 +5115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1000164,
+      "num": 1160026,
+      "word": "因为女主漂亮就所有人都要害她",
+      "onboard_time": 1740139760,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 997889,
       "num": 997889,
       "word": "饺子背了半个月终于有人问了",
@@ -6995,6 +7003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 796242,
+      "num": 796242,
+      "word": "哪吒2票房129亿",
+      "onboard_time": 1740138320,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 796181,
       "num": 438272,
       "word": "余承恩妈妈终于承认他帅了",
@@ -7609,6 +7625,14 @@
       "onboard_time": 1739714363,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 741382,
+      "num": 365395,
+      "word": "红房子 无人生还",
+      "onboard_time": 1740138800,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 739263,
@@ -9083,6 +9107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 643266,
+      "num": 364405,
+      "word": "卜冠今 真诚",
+      "onboard_time": 1740138739,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 642833,
       "num": 549292,
       "word": "美国偶遇任嘉伦",
@@ -9825,6 +9857,14 @@
       "onboard_time": 1739233100,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 600484,
+      "num": 365834,
+      "word": "有人花1800元找离婚跟拍",
+      "onboard_time": 1740136219,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 600376,
@@ -10705,6 +10745,14 @@
       "onboard_time": 1738751665,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 558447,
+      "num": 346831,
+      "word": "3岁男孩独自在家从27楼坠楼身亡",
+      "onboard_time": 1740137238,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 558142,
@@ -11961,6 +12009,14 @@
       "onboard_time": 1739107822,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 510716,
+      "num": 346249,
+      "word": "白鹿丞磊 莫离",
+      "onboard_time": 1740138379,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 510606,
@@ -16891,6 +16947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 357831,
+      "num": 357831,
+      "word": "毒品的回旋镖最终回到了美国头上",
+      "onboard_time": 1740139940,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 357575,
       "num": 357575,
       "word": "伊能静 暴力的人都是懦夫",
@@ -17987,6 +18051,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 333446,
+      "num": 333446,
+      "word": "遭丈夫灌面汤呛死女子家属发声",
+      "onboard_time": 1740140478,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 333337,
       "num": 333337,
       "word": "美一客机加拿大降落时发生事故15伤",
@@ -18713,6 +18785,14 @@
       "onboard_time": 1739451621,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 321638,
+      "num": 357079,
+      "word": "蒋超良被查",
+      "onboard_time": 1740140778,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 321334,
@@ -20089,6 +20169,14 @@
       "onboard_time": 1738739061,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 295977,
+      "num": 295977,
+      "word": "花1980元可定做一张AI人脸",
+      "onboard_time": 1740139100,
+      "rank": 21,
+      "category": "舆论监督,互联网"
     },
     {
       "raw_hot": 295699,
@@ -22427,14 +22515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 262440,
-      "num": 362460,
-      "word": "有人花1800元找离婚跟拍",
-      "onboard_time": 1740136219,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 262363,
       "num": 247875,
       "word": "敖瑞鹏说同为敖家人也是沾光了",
@@ -22713,14 +22793,6 @@
       "onboard_time": 1739244621,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 258268,
-      "num": 258268,
-      "word": "3岁男孩独自在家从27楼坠楼身亡",
-      "onboard_time": 1740137238,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 258228,
@@ -24073,6 +24145,14 @@
       "onboard_time": 1738677864,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 244796,
+      "num": 244796,
+      "word": "小年李雯结婚",
+      "onboard_time": 1740139279,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 244649,
@@ -34307,6 +34387,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 183863,
+      "num": 281550,
+      "word": "王曼昱vs沙赫萨瓦里",
+      "onboard_time": 1740140660,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183842,
       "num": 183842,
       "word": "邓为不语只是一味晒猫",
@@ -38627,6 +38715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 163037,
+      "num": 163037,
+      "word": "欧冠抽签",
+      "onboard_time": 1740137900,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163028,
       "num": 321623,
       "word": "今晚十五的月亮十五圆",
@@ -39649,6 +39745,14 @@
       "onboard_time": 1739796561,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158692,
+      "num": 281291,
+      "word": "黑神话悟空收入史上第2",
+      "onboard_time": 1740140840,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 158658,
@@ -40779,6 +40883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153628,
+      "num": 153628,
+      "word": "十个勤天由来",
+      "onboard_time": 1740138800,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153500,
       "num": 391194,
       "word": "2025亚冬会中国队首枚奖牌",
@@ -41089,6 +41201,14 @@
       "onboard_time": 1738399037,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152020,
+      "num": 152020,
+      "word": "Jennie新歌MV好抽象",
+      "onboard_time": 1740138199,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 151947,
@@ -42387,6 +42507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146377,
+      "num": 146377,
+      "word": "惠英红哼唱一出毛骨悚然",
+      "onboard_time": 1740138199,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146281,
       "num": 295018,
       "word": "梁洁好淡一个人",
@@ -43193,6 +43321,14 @@
       "onboard_time": 1739106743,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143324,
+      "num": 143324,
+      "word": "银监局回应银行8个窗口只开2个",
+      "onboard_time": 1740141381,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143297,
@@ -47491,6 +47627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122087,
+      "num": 122087,
+      "word": "克拉岛抢票",
+      "onboard_time": 1740141681,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 122057,
       "num": 376190,
       "word": "王楚钦说红旗升起最让他骄傲",
@@ -49683,6 +49827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 109897,
+      "num": 109897,
+      "word": "王楚钦超绝球感",
+      "onboard_time": 1740141080,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109808,
       "num": 547572,
       "word": "泽连斯基称没人对阿富汗2.0感兴趣",
@@ -50051,6 +50203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107914,
+      "num": 107914,
+      "word": "德基厕所",
+      "onboard_time": 1740141681,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 107856,
       "num": 107856,
       "word": "迪丽热巴烟火人间",
@@ -50361,6 +50521,14 @@
       "onboard_time": 1738977440,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105962,
+      "num": 105962,
+      "word": "徐梦洁重生之我在90年代当新娘",
+      "onboard_time": 1740141620,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 105863,
@@ -54849,6 +55017,14 @@
       "onboard_time": 1738765767,
       "rank": 48,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 74242,
+      "num": 334364,
+      "word": "王曼昱3比0沙赫萨瓦里",
+      "onboard_time": 1740141320,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 74241,
@@ -63649,6 +63825,14 @@
       "onboard_time": 1739728933,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 21093,
+      "num": 181075,
+      "word": "年轻人新宠黄金贴片陷阱不少",
+      "onboard_time": 1740141620,
+      "rank": 32,
+      "category": "舆论监督,财经"
     },
     {
       "raw_hot": 20996,
