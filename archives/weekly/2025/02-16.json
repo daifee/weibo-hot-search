@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1740115310117,
+  "endTime": 1740116330362,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -385,6 +385,14 @@
       "onboard_time": 1740024562,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2068234,
+      "num": 2068234,
+      "word": "难哄 恶趣味",
+      "onboard_time": 1740114501,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 2059559,
@@ -899,6 +907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1372215,
+      "num": 1372215,
+      "word": "余承恩告状姐姐和男友在家接吻",
+      "onboard_time": 1740113421,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1368950,
       "num": 356519,
       "word": "蒋欣评论区回应为何不结婚",
@@ -1235,14 +1251,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1142141,
-      "num": 1142141,
-      "word": "余承恩告状姐姐和男友在家接吻",
-      "onboard_time": 1740113421,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1139501,
       "num": 610039,
       "word": "被房东多次猥亵女子男友发声",
@@ -1577,6 +1585,14 @@
       "onboard_time": 1739777362,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 984111,
+      "num": 355594,
+      "word": "难哄 男女主各演各的",
+      "onboard_time": 1740113544,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 979532,
@@ -2331,14 +2347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 729058,
-      "num": 341919,
-      "word": "难哄 男女主各演各的",
-      "onboard_time": 1740113544,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 729007,
       "num": 729007,
       "word": "广西县委书记要求干部必须要会用DeepSeek",
@@ -2883,6 +2891,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 599572,
+      "num": 337122,
+      "word": "7旬老太网恋1个月被骗111万",
+      "onboard_time": 1740113002,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 598178,
       "num": 447378,
       "word": "乌尔善回应封神2遭滑铁卢",
@@ -2937,6 +2953,14 @@
       "onboard_time": 1739789300,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 589879,
+      "num": 589879,
+      "word": "山东大学停招27个专业",
+      "onboard_time": 1740111322,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 588556,
@@ -3113,14 +3137,6 @@
       "onboard_time": 1739761638,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 559488,
-      "num": 559488,
-      "word": "山东大学停招27个专业",
-      "onboard_time": 1740111322,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 558034,
@@ -3435,6 +3451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 510861,
+      "num": 330712,
+      "word": "白敬亭 颜值巅峰",
+      "onboard_time": 1740114082,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 507288,
       "num": 603908,
       "word": "联通回应流量超34G欠费8700元",
@@ -3531,28 +3555,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 492965,
-      "num": 300198,
-      "word": "难哄 恶趣味",
-      "onboard_time": 1740114501,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 492138,
       "num": 449313,
       "word": "陈天润黄杨钿甜参加中传艺考",
       "onboard_time": 1739952261,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 490727,
-      "num": 295756,
-      "word": "白敬亭 颜值巅峰",
-      "onboard_time": 1740114082,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 490364,
@@ -4971,6 +4979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 356192,
+      "num": 356192,
+      "word": "问DeepSeek最帅的动漫人物是谁",
+      "onboard_time": 1740112641,
+      "rank": 43,
+      "category": "动漫,互联网"
+    },
+    {
       "raw_hot": 355888,
       "num": 272494,
       "word": "哪吒2票房123亿了",
@@ -5715,14 +5731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 300960,
-      "num": 300960,
-      "word": "7旬老太网恋1个月被骗111万",
-      "onboard_time": 1740113002,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 300664,
       "num": 729842,
       "word": "库里全明星MVP",
@@ -5897,14 +5905,6 @@
       "onboard_time": 1739977643,
       "rank": 10,
       "category": "民生新闻,艺人"
-    },
-    {
-      "raw_hot": 290496,
-      "num": 290496,
-      "word": "问DeepSeek最帅的动漫人物是谁",
-      "onboard_time": 1740112641,
-      "rank": 43,
-      "category": "动漫,互联网"
     },
     {
       "raw_hot": 290311,
@@ -6299,6 +6299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 269519,
+      "num": 269519,
+      "word": "Jennie新歌ExtraL",
+      "onboard_time": 1740115640,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 269409,
       "num": 269409,
       "word": "原神",
@@ -6585,6 +6593,14 @@
       "onboard_time": 1739700619,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 256742,
+      "num": 350747,
+      "word": "女子花5万买孩子火车上被识破",
+      "onboard_time": 1740115342,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 256479,
@@ -8273,6 +8289,14 @@
       "onboard_time": 1739968281,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206535,
+      "num": 337686,
+      "word": "舒淇易烊千玺 狂野时代",
+      "onboard_time": 1740114981,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 206317,
@@ -10243,6 +10267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 172243,
+      "num": 284408,
+      "word": "爱你天降crush秒杀初恋渣男",
+      "onboard_time": 1740115342,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171888,
       "num": 355911,
       "word": "邓为候场坐得比我上课还笔直",
@@ -10345,6 +10377,14 @@
       "onboard_time": 1739700858,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 170351,
+      "num": 170351,
+      "word": "快乐再出发熟人局",
+      "onboard_time": 1740116180,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 170324,
@@ -10560,14 +10600,6 @@
       "word": "陈思诚说拍唐探1900不是为了讨好",
       "onboard_time": 1739876721,
       "rank": 19,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 166926,
-      "num": 166926,
-      "word": "舒淇易烊千玺 狂野时代",
-      "onboard_time": 1740114981,
-      "rank": 46,
       "category": "电影"
     },
     {
@@ -11171,6 +11203,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156058,
+      "num": 156058,
+      "word": "杨洋录制hi6上班路透",
+      "onboard_time": 1740116059,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 156014,
+      "num": 156014,
+      "word": "污蔑中国的团队被特朗普端了",
+      "onboard_time": 1740116180,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 155994,
       "num": 360613,
       "word": "丈夫离家18年后要离婚分妻子家产",
@@ -11625,6 +11673,14 @@
       "onboard_time": 1739929760,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148059,
+      "num": 148059,
+      "word": "刘亦菲姐感赛道天花板",
+      "onboard_time": 1740116300,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 147843,
@@ -14179,6 +14235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92281,
+      "num": 176773,
+      "word": "赵一博晒十个勤天那年今日",
+      "onboard_time": 1740116180,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 92189,
       "num": 157278,
       "word": "吉克隽逸带妈妈去旅行了",
@@ -14721,6 +14785,14 @@
       "onboard_time": 1739763620,
       "rank": 39,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 75097,
+      "num": 335572,
+      "word": "孙颖莎说身体状态没问题",
+      "onboard_time": 1740115640,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 75090,
@@ -16387,6 +16459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 33620,
+      "num": 343442,
+      "word": "7旬老太被假联合国男网友骗走上百万",
+      "onboard_time": 1740115400,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33570,
       "num": 196651,
       "word": "任天堂停止发放黄金点数",
@@ -16409,6 +16489,14 @@
       "onboard_time": 1739786600,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 32399,
+      "num": 287836,
+      "word": "奶奶每天玩手机到凌晨近视2300度",
+      "onboard_time": 1740115881,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32345,
@@ -16819,6 +16907,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 23801,
+      "num": 284619,
+      "word": "哭是中年人解压性价比最高的方式",
+      "onboard_time": 1740114441,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23709,
       "num": 27286,
       "word": "金树林绽放之夜",
@@ -16849,14 +16945,6 @@
       "onboard_time": 1739825230,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 23052,
-      "num": 284619,
-      "word": "哭是中年人解压性价比最高的方式",
-      "onboard_time": 1740114441,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22961,
