@@ -1,0 +1,410 @@
+{
+  "runTime": 1740147635836,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2725782,
+        "num": 2725782,
+        "word": "黄灿灿 杨晓培",
+        "onboard_time": 1740142760,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 789069,
+        "num": 789069,
+        "word": "毒品的回旋镖最终回到了美国头上",
+        "onboard_time": 1740139940,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 83957,
+        "num": 729840,
+        "word": "中国空间站首个舱内在轨机器人试验",
+        "onboard_time": 1740146121,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1476407,
+        "num": 729132,
+        "word": "择天记",
+        "onboard_time": 1740143961,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 726570,
+        "num": 726570,
+        "word": "德基厕所",
+        "onboard_time": 1740141681,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 673670,
+        "num": 673670,
+        "word": "摄影师称离婚跟拍压力很大",
+        "onboard_time": 1740142880,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 932840,
+        "num": 585403,
+        "word": "因为女主漂亮就所有人都要害她",
+        "onboard_time": 1740139760,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 730927,
+        "num": 495114,
+        "word": "黄灿灿曾因被造黄谣失去工作",
+        "onboard_time": 1740142161,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 396787,
+        "num": 396787,
+        "word": "一派出所副所长被指卖淫案中徇私",
+        "onboard_time": 1740145702,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128952,
+        "num": 396786,
+        "word": "泰安东平重大道路交通事故调查报告",
+        "onboard_time": 1740146241,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1280430,
+        "num": 396776,
+        "word": "黄景瑜前妻点名张艺上",
+        "onboard_time": 1740128661,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 760515,
+        "num": 396769,
+        "word": "灌面汤杀妻案家属发声",
+        "onboard_time": 1740140478,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 620018,
+        "num": 396762,
+        "word": "Jennie牙钉",
+        "onboard_time": 1740145162,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 539743,
+        "num": 396756,
+        "word": "张婉莹拿到了S级",
+        "onboard_time": 1740141801,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 529505,
+        "num": 396753,
+        "word": "DeepSeek评中国最宜居城市",
+        "onboard_time": 1740118279,
+        "rank": 14,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 527435,
+        "num": 396748,
+        "word": "红房子 无人生还",
+        "onboard_time": 1740138800,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 504189,
+        "num": 396738,
+        "word": "哪吒2票房129亿",
+        "onboard_time": 1740138320,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 471236,
+        "num": 396732,
+        "word": "国企拟录用名单3名本科生引质疑",
+        "onboard_time": 1740145162,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 398867,
+        "num": 396726,
+        "word": "郭品超官宣分手",
+        "onboard_time": 1740129441,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160767,
+        "num": 396720,
+        "word": "王昶表态梁王组合没有拆对",
+        "onboard_time": 1740146482,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1190143,
+        "num": 396716,
+        "word": "难哄拍在了00后最清醒的一年",
+        "onboard_time": 1740133639,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 396712,
+        "num": 396712,
+        "word": "六姊妹 哭麻了",
+        "onboard_time": 1740143840,
+        "rank": 21,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 367135,
+        "num": 367135,
+        "word": "奶奶每天玩手机到凌晨近视2300度",
+        "onboard_time": 1740115881,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364805,
+        "num": 364805,
+        "word": "亚洲杯抽签",
+        "onboard_time": 1740146601,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279007,
+        "num": 279007,
+        "word": "什锦 肖战",
+        "onboard_time": 1740132081,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265956,
+        "num": 265956,
+        "word": "大量黄金正从各国运往美国",
+        "onboard_time": 1740134300,
+        "rank": 25,
+        "category": "财经,国际时政"
+      },
+      {
+        "raw_hot": 257254,
+        "num": 257254,
+        "word": "于正回应张婉莹拿到S级",
+        "onboard_time": 1740145521,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136998,
+        "num": 235116,
+        "word": "女护士摆摊10多年教人急救",
+        "onboard_time": 1740144801,
+        "rank": 27,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 72740,
+        "num": 233538,
+        "word": "遭家暴失明女子在等伤残鉴定",
+        "onboard_time": 1740145340,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31041,
+        "num": 233498,
+        "word": "男子因纠纷被超市老板咬伤险截肢",
+        "onboard_time": 1740146902,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233495,
+        "num": 233495,
+        "word": "蒋超良被查",
+        "onboard_time": 1740140778,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228676,
+        "num": 228676,
+        "word": "LIZ身材",
+        "onboard_time": 1740144020,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217353,
+        "num": 217353,
+        "word": "白鹿丞磊 莫离",
+        "onboard_time": 1740138379,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217307,
+        "num": 217307,
+        "word": "射雕泰国票房",
+        "onboard_time": 1740144740,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 66675,
+        "num": 215135,
+        "word": "中美经贸牵头人举行视频通话",
+        "onboard_time": 1740145580,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 107807,
+        "num": 213674,
+        "word": "国乒全员晋级亚洲杯16强",
+        "onboard_time": 1740146181,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213401,
+        "num": 213401,
+        "word": "银监局回应银行8个窗口只开2个",
+        "onboard_time": 1740141381,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199175,
+        "num": 199175,
+        "word": "红房子 心动的信号",
+        "onboard_time": 1740146722,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198924,
+        "num": 198924,
+        "word": "难哄删除争议镜头",
+        "onboard_time": 1740120380,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194011,
+        "num": 194011,
+        "word": "杨幂申请强制执行",
+        "onboard_time": 1740128960,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184471,
+        "num": 184471,
+        "word": "一诺超神马可波罗",
+        "onboard_time": 1740146541,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 166214,
+        "num": 166214,
+        "word": "卜冠今 真诚",
+        "onboard_time": 1740138739,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21593,
+        "num": 160535,
+        "word": "大众CC撞报废车主跪谢爱车",
+        "onboard_time": 1740142940,
+        "rank": 42,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 35944,
+        "num": 160435,
+        "word": "福建武平实施小学生作业熔断机制",
+        "onboard_time": 1740147562,
+        "rank": 43,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 160410,
+        "num": 160410,
+        "word": "deepseek预测考研分数",
+        "onboard_time": 1740142940,
+        "rank": 44,
+        "category": "教育,互联网"
+      },
+      {
+        "raw_hot": 156251,
+        "num": 156251,
+        "word": "林高远淘汰赛对阵张本智和",
+        "onboard_time": 1740146482,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149399,
+        "num": 149399,
+        "word": "董力 时间是最好的证明",
+        "onboard_time": 1740145521,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142446,
+        "num": 142446,
+        "word": "黑神话悟空收入史上第2",
+        "onboard_time": 1740140840,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142350,
+        "num": 142350,
+        "word": "关晓彤未来感镭射风造型",
+        "onboard_time": 1740143481,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140055,
+        "num": 140055,
+        "word": "孙颖莎张本美和一个半区",
+        "onboard_time": 1740146722,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#民营企业座谈会上的更多细节#"
+    }
+  }
+}

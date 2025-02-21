@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1740145051219,
+  "endTime": 1740147635836,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -251,6 +251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2725782,
+      "num": 2725782,
+      "word": "黄灿灿 杨晓培",
+      "onboard_time": 1740142760,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2716920,
       "num": 2716920,
       "word": "哪吒2预测票房下跌",
@@ -465,14 +473,6 @@
       "onboard_time": 1739784799,
       "rank": 11,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 1925031,
-      "num": 1925031,
-      "word": "黄灿灿 杨晓培",
-      "onboard_time": 1740142760,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 1902112,
@@ -849,6 +849,14 @@
       "onboard_time": 1739668520,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1476407,
+      "num": 729132,
+      "word": "择天记",
+      "onboard_time": 1740143961,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 1472076,
@@ -2459,6 +2467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 760515,
+      "num": 532153,
+      "word": "灌面汤杀妻案家属发声",
+      "onboard_time": 1740140478,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 757058,
       "num": 757058,
       "word": "银川4.2级地震",
@@ -2555,6 +2571,14 @@
       "category": "时尚,网红"
     },
     {
+      "raw_hot": 726570,
+      "num": 726570,
+      "word": "德基厕所",
+      "onboard_time": 1740141681,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 725650,
       "num": 236971,
       "word": "靠哪吒2赚了4万6准备给老婆买金手镯",
@@ -2576,14 +2600,6 @@
       "word": "仙侠剧男主怎么就不能是40岁了",
       "onboard_time": 1739949982,
       "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 719700,
-      "num": 541960,
-      "word": "择天记",
-      "onboard_time": 1740143961,
-      "rank": 33,
       "category": "剧集"
     },
     {
@@ -2625,14 +2641,6 @@
       "onboard_time": 1739876364,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 707696,
-      "num": 707696,
-      "word": "德基厕所",
-      "onboard_time": 1740141681,
-      "rank": 48,
-      "category": "旅游"
     },
     {
       "raw_hot": 707162,
@@ -2760,6 +2768,14 @@
       "word": "花4万瘦身去拜拜肉手臂差点保不住",
       "onboard_time": 1739696839,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 673670,
+      "num": 673670,
+      "word": "摄影师称离婚跟拍压力很大",
+      "onboard_time": 1740142880,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -3065,6 +3081,14 @@
       "onboard_time": 1739756178,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 620018,
+      "num": 396762,
+      "word": "Jennie牙钉",
+      "onboard_time": 1740145162,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 617860,
@@ -3603,14 +3627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 532153,
-      "num": 532153,
-      "word": "灌面汤杀妻案家属发声",
-      "onboard_time": 1740140478,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 528848,
       "num": 495874,
       "word": "李敏镐否认与朴春恋爱",
@@ -3800,14 +3816,6 @@
       "word": "上海一阿姨扫地踩穿楼板掉到楼下",
       "onboard_time": 1740010220,
       "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 503269,
-      "num": 644987,
-      "word": "摄影师称离婚跟拍压力很大",
-      "onboard_time": 1740142880,
-      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -4057,6 +4065,14 @@
       "onboard_time": 1739874264,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 471236,
+      "num": 396732,
+      "word": "国企拟录用名单3名本科生引质疑",
+      "onboard_time": 1740145162,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 471235,
@@ -4867,6 +4883,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 396787,
+      "num": 396787,
+      "word": "一派出所副所长被指卖淫案中徇私",
+      "onboard_time": 1740145702,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 396712,
+      "num": 396712,
+      "word": "六姊妹 哭麻了",
+      "onboard_time": 1740143840,
+      "rank": 42,
+      "category": "剧集,作品衍生"
+    },
+    {
       "raw_hot": 396030,
       "num": 396030,
       "word": "iPhone16e",
@@ -5265,6 +5297,14 @@
       "onboard_time": 1739685078,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 364805,
+      "num": 364805,
+      "word": "亚洲杯抽签",
+      "onboard_time": 1740146601,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 362563,
@@ -7099,6 +7139,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 257254,
+      "num": 257254,
+      "word": "于正回应张婉莹拿到S级",
+      "onboard_time": 1740145521,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 257211,
       "num": 257211,
       "word": "许凯邓恩熙cp感",
@@ -7425,14 +7473,6 @@
       "onboard_time": 1739780121,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 247847,
-      "num": 247847,
-      "word": "六姊妹 哭麻了",
-      "onboard_time": 1740143840,
-      "rank": 42,
-      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 247647,
@@ -9483,6 +9523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199175,
+      "num": 199175,
+      "word": "红房子 心动的信号",
+      "onboard_time": 1740146722,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199148,
       "num": 199148,
       "word": "王一博每一次舞台都全力以赴",
@@ -10489,6 +10537,14 @@
       "onboard_time": 1739878583,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184471,
+      "num": 184471,
+      "word": "一诺超神马可波罗",
+      "onboard_time": 1740146541,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 184252,
@@ -11931,6 +11987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160767,
+      "num": 396720,
+      "word": "王昶表态梁王组合没有拆对",
+      "onboard_time": 1740146482,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160516,
       "num": 205445,
       "word": "我爱的那些人 杨幂",
@@ -12153,6 +12217,14 @@
       "onboard_time": 1740050541,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156251,
+      "num": 156251,
+      "word": "林高远淘汰赛对阵张本智和",
+      "onboard_time": 1740146482,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 156188,
@@ -12593,6 +12665,14 @@
       "onboard_time": 1739849060,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149399,
+      "num": 149399,
+      "word": "董力 时间是最好的证明",
+      "onboard_time": 1740145521,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 149384,
@@ -13139,6 +13219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140055,
+      "num": 140055,
+      "word": "孙颖莎张本美和一个半区",
+      "onboard_time": 1740146722,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139940,
       "num": 139940,
       "word": "五福临门",
@@ -13329,6 +13417,14 @@
       "onboard_time": 1740056541,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136998,
+      "num": 276694,
+      "word": "女护士摆摊10多年教人急救",
+      "onboard_time": 1740144801,
+      "rank": 26,
+      "category": "正能量"
     },
     {
       "raw_hot": 136729,
@@ -13761,6 +13857,14 @@
       "onboard_time": 1739715924,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 128952,
+      "num": 396786,
+      "word": "泰安东平重大道路交通事故调查报告",
+      "onboard_time": 1740146241,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 128934,
@@ -14681,6 +14785,14 @@
       "onboard_time": 1740100760,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 107807,
+      "num": 213674,
+      "word": "国乒全员晋级亚洲杯16强",
+      "onboard_time": 1740146181,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 107272,
@@ -15707,6 +15819,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 83957,
+      "num": 729840,
+      "word": "中国空间站首个舱内在轨机器人试验",
+      "onboard_time": 1740146121,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 83450,
       "num": 180726,
       "word": "66年前老代码给美国挖坑",
@@ -16123,6 +16243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 72740,
+      "num": 233538,
+      "word": "遭家暴失明女子在等伤残鉴定",
+      "onboard_time": 1740145340,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72713,
       "num": 72713,
       "word": "李蠕蠕模仿哪吒2全明星",
@@ -16185,14 +16313,6 @@
       "onboard_time": 1739869642,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 71493,
-      "num": 276694,
-      "word": "女护士摆摊10多年教人急救",
-      "onboard_time": 1740144801,
-      "rank": 26,
-      "category": "正能量"
     },
     {
       "raw_hot": 71432,
@@ -16369,6 +16489,14 @@
       "onboard_time": 1739891423,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 66675,
+      "num": 215135,
+      "word": "中美经贸牵头人举行视频通话",
+      "onboard_time": 1740145580,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 66659,
@@ -17827,6 +17955,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 35944,
+      "num": 160435,
+      "word": "福建武平实施小学生作业熔断机制",
+      "onboard_time": 1740147562,
+      "rank": 43,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 35912,
       "num": 35912,
       "word": "哪吒现实世界冲破了鼎盖",
@@ -18097,6 +18233,14 @@
       "onboard_time": 1739904732,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 31041,
+      "num": 233498,
+      "word": "男子因纠纷被超市老板咬伤险截肢",
+      "onboard_time": 1740146902,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29630,
@@ -19622,6 +19766,9 @@
     },
     {
       "word": "#造林护林总书记始终心系这抹绿色#"
+    },
+    {
+      "word": "#民营企业座谈会上的更多细节#"
     }
   ]
 }
