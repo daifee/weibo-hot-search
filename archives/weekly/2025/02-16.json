@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1740169448301,
+  "endTime": 1740170257850,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -19371,6 +19371,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 19867,
+      "num": 19287,
+      "word": "马斯克说普京买不起我",
+      "onboard_time": 1740168671,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 19836,
       "num": 265731,
       "word": "林书豪晒合影致敬姚明",
@@ -19515,6 +19523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 18016,
+      "num": 36246,
+      "word": "余华英案有4名人民陪审员参审",
+      "onboard_time": 1740167951,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17990,
       "num": 392950,
       "word": "捧神毁神都值得哪吒2警惕",
@@ -19561,6 +19577,14 @@
       "onboard_time": 1740121879,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 16642,
+      "num": 16642,
+      "word": "性骚扰不该成为流量密码",
+      "onboard_time": 1740169272,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 16538,
@@ -19611,14 +19635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 15614,
-      "num": 15614,
-      "word": "马斯克说普京买不起我",
-      "onboard_time": 1740168671,
-      "rank": 43,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 15009,
       "num": 299886,
       "word": "女演员当妈之后的市场遭遇",
@@ -19665,14 +19681,6 @@
       "onboard_time": 1739834837,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 14440,
-      "num": 15613,
-      "word": "性骚扰不该成为流量密码",
-      "onboard_time": 1740169272,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 14357,
@@ -19745,6 +19753,14 @@
       "onboard_time": 1739646372,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 13528,
+      "num": 16611,
+      "word": "今天星期五",
+      "onboard_time": 1740159434,
+      "rank": 49,
+      "category": "民生新闻,情感"
     },
     {
       "raw_hot": 13486,
@@ -20011,14 +20027,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 10028,
-      "num": 36246,
-      "word": "余华英案有4名人民陪审员参审",
-      "onboard_time": 1740167951,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 9935,
       "num": 294239,
       "word": "蒯曼vs萨维诺兹",
@@ -20065,6 +20073,14 @@
       "onboard_time": 1739795718,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 8930,
+      "num": 36796,
+      "word": "深圳警察有了个机器人搭子",
+      "onboard_time": 1740169631,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 8873,
