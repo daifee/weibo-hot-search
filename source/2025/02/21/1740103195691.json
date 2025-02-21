@@ -1,0 +1,410 @@
+{
+  "runTime": 1740103195691,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1507484,
+        "num": 1507484,
+        "word": "母亲去世后亲弟侵吞聋哑哥哥退休金",
+        "onboard_time": 1740100760,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1408179,
+        "num": 1408179,
+        "word": "哪吒2冲击全球影史前三",
+        "onboard_time": 1740100520,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 2329,
+        "num": 937831,
+        "word": "中国式现代化的万千气象海南行",
+        "onboard_time": 1739782103,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 872183,
+        "num": 872183,
+        "word": "deepseek一两分钟干了我一两天的活",
+        "onboard_time": 1740058822,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 550761,
+        "num": 550761,
+        "word": "义乌老板利用DeepSeek卖空小商品",
+        "onboard_time": 1740062063,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 544739,
+        "num": 544739,
+        "word": "特朗普恢复死刑",
+        "onboard_time": 1740102440,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 458146,
+        "num": 458146,
+        "word": "7星连珠十二金仙要重聚了",
+        "onboard_time": 1740098300,
+        "rank": 6,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 20384,
+        "num": 455857,
+        "word": "我国首口超万米深井完钻",
+        "onboard_time": 1740037521,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 358132,
+        "num": 452156,
+        "word": "檀健次说再不拍猎罪3我就老了",
+        "onboard_time": 1740063503,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 480332,
+        "num": 448614,
+        "word": "8岁男童在父母公司宿舍坠亡",
+        "onboard_time": 1740098242,
+        "rank": 9,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 2567805,
+        "num": 441283,
+        "word": "黄景瑜 张艺上",
+        "onboard_time": 1740099919,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440590,
+        "num": 440590,
+        "word": "波兰发布世界首个双足肌肉骨骼机器人",
+        "onboard_time": 1740097339,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 588290,
+        "num": 425317,
+        "word": "女子怀孕5个月被诊所当妇科病治疗",
+        "onboard_time": 1740064224,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 569602,
+        "num": 418664,
+        "word": "刘涛坐宋佳腿上说话",
+        "onboard_time": 1740094758,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 399412,
+        "num": 399412,
+        "word": "夫妻在赌博诈骗和投案之间选择了自杀",
+        "onboard_time": 1740101238,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1387345,
+        "num": 366717,
+        "word": "黄景瑜 女朋友",
+        "onboard_time": 1740064343,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308402,
+        "num": 308402,
+        "word": "马嘉祺回国落地狂炫饭",
+        "onboard_time": 1740100520,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236241,
+        "num": 307000,
+        "word": "陈丽君2024中国妇女时代人物",
+        "onboard_time": 1740077292,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225990,
+        "num": 303527,
+        "word": "章子怡问杨子再见爱人是演的吗",
+        "onboard_time": 1740057202,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191307,
+        "num": 299653,
+        "word": "归期 鹤辞",
+        "onboard_time": 1740101779,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 337771,
+        "num": 298478,
+        "word": "美国人口3.41亿社保却有3.98亿人",
+        "onboard_time": 1740069677,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 295472,
+        "num": 295472,
+        "word": "网传幼儿园将免费系误读",
+        "onboard_time": 1740095300,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283515,
+        "num": 283515,
+        "word": "导演郑某峰被曝曾说陪睡就让演主角",
+        "onboard_time": 1740066860,
+        "rank": 22,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 232094,
+        "num": 232094,
+        "word": "江苏兴化3.7级地震",
+        "onboard_time": 1740094158,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215797,
+        "num": 215797,
+        "word": "被房东多次猥亵女子男友发声",
+        "onboard_time": 1740054501,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212136,
+        "num": 212136,
+        "word": "美支持乌600亿但64%回流美军工业",
+        "onboard_time": 1740097942,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 201965,
+        "num": 201965,
+        "word": "乌克兰应美要求取消记者会",
+        "onboard_time": 1740101539,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151261,
+        "num": 198392,
+        "word": "哪吒",
+        "onboard_time": 1740101358,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150471,
+        "num": 198285,
+        "word": "章若楠你就这么追星李宇春的",
+        "onboard_time": 1740092836,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136469,
+        "num": 198275,
+        "word": "于正官宣玉茗茶骨演员",
+        "onboard_time": 1740101659,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198272,
+        "num": 198272,
+        "word": "国博白瓷玉漱公主再度爆火",
+        "onboard_time": 1740102139,
+        "rank": 30,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 191711,
+        "num": 191711,
+        "word": "中国团队发现帕金森全新治疗靶点",
+        "onboard_time": 1740098959,
+        "rank": 31,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 188855,
+        "num": 188855,
+        "word": "河南一彩民花12元中了691万",
+        "onboard_time": 1740073213,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188186,
+        "num": 188186,
+        "word": "iPhone17系列将采用LTPO屏幕",
+        "onboard_time": 1740100760,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 174242,
+        "num": 174242,
+        "word": "16岁女生背着父母签下10年主播合约",
+        "onboard_time": 1740102440,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167457,
+        "num": 167457,
+        "word": "石家庄下雪",
+        "onboard_time": 1740100818,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127302,
+        "num": 127302,
+        "word": "专家辟谣网传幼儿园将免费",
+        "onboard_time": 1740101898,
+        "rank": 36,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 124529,
+        "num": 124529,
+        "word": "上海聋哑老人唯一房产被亲弟偷卖",
+        "onboard_time": 1740100520,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120391,
+        "num": 120391,
+        "word": "一念江南 虞书欣",
+        "onboard_time": 1740062661,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116670,
+        "num": 116670,
+        "word": "快乐家族滑雪惊动救援队",
+        "onboard_time": 1740085451,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113948,
+        "num": 113948,
+        "word": "拐卖王星的中国籍嫌犯押解回国现场",
+        "onboard_time": 1740053839,
+        "rank": 40,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 113711,
+        "num": 113711,
+        "word": "锦绣芳华 暑期档",
+        "onboard_time": 1740060142,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112740,
+        "num": 112740,
+        "word": "文班亚马赛季报销",
+        "onboard_time": 1740100640,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111777,
+        "num": 111777,
+        "word": "多位演员自曝曾被导演郑某某侵害",
+        "onboard_time": 1740039083,
+        "rank": 43,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 98494,
+        "num": 98494,
+        "word": "美国政府效率部人员已进驻五角大楼",
+        "onboard_time": 1740100760,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96305,
+        "num": 96305,
+        "word": "张凌赫保镖接错人",
+        "onboard_time": 1740102919,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93706,
+        "num": 93706,
+        "word": "万花世界 鞠婧祎",
+        "onboard_time": 1740058703,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91849,
+        "num": 91849,
+        "word": "张亮4部代表作都在3分之下",
+        "onboard_time": 1740053300,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90244,
+        "num": 90244,
+        "word": "于正晒娜扎侯明昊玉茗茶骨AI合照",
+        "onboard_time": 1740097581,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89357,
+        "num": 89357,
+        "word": "怀化铁路警方查破1起拐卖儿童案件",
+        "onboard_time": 1740101898,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#专心致志做强做优做大企业#"
+    }
+  }
+}

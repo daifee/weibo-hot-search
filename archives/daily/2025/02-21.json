@@ -1,6 +1,6 @@
 {
   "startTime": 1740069014077,
-  "endTime": 1740102223584,
+  "endTime": 1740103195691,
   "band_list": [
     {
       "raw_hot": 6060617,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2689110,
-      "num": 387024,
+      "num": 441283,
       "word": "黄景瑜 张艺上",
       "onboard_time": 1740099919,
       "rank": 10,
@@ -27,8 +27,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1229845,
-      "num": 1229845,
+      "raw_hot": 1507484,
+      "num": 1507484,
+      "word": "母亲去世后亲弟侵吞聋哑哥哥退休金",
+      "onboard_time": 1740100760,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1408179,
+      "num": 1408179,
       "word": "哪吒2冲击全球影史前三",
       "onboard_time": 1740100520,
       "rank": 0,
@@ -44,18 +52,10 @@
     },
     {
       "raw_hot": 961828,
-      "num": 367773,
+      "num": 425317,
       "word": "女子怀孕5个月被诊所当妇科病治疗",
       "onboard_time": 1740064224,
       "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 928834,
-      "num": 928834,
-      "word": "母亲去世后亲弟侵吞聋哑哥哥退休金",
-      "onboard_time": 1740100760,
-      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 707162,
-      "num": 374122,
+      "num": 418664,
       "word": "刘涛坐宋佳腿上说话",
       "onboard_time": 1740094758,
       "rank": 11,
@@ -97,6 +97,22 @@
       "onboard_time": 1740097339,
       "rank": 6,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 544739,
+      "num": 544739,
+      "word": "特朗普恢复死刑",
+      "onboard_time": 1740102440,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 458146,
+      "num": 458146,
+      "word": "7星连珠十二金仙要重聚了",
+      "onboard_time": 1740098300,
+      "rank": 8,
+      "category": "科学科普"
     },
     {
       "raw_hot": 449391,
@@ -139,12 +155,20 @@
       "category": "民生新闻,电影"
     },
     {
-      "raw_hot": 397204,
-      "num": 397204,
-      "word": "7星连珠十二金仙要重聚了",
-      "onboard_time": 1740098300,
-      "rank": 8,
-      "category": "科学科普"
+      "raw_hot": 399412,
+      "num": 399412,
+      "word": "夫妻在赌博诈骗和投案之间选择了自杀",
+      "onboard_time": 1740101238,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 358132,
+      "num": 452156,
+      "word": "檀健次说再不拍猎罪3我就老了",
+      "onboard_time": 1740063503,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 334057,
@@ -155,16 +179,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 332600,
-      "num": 394439,
-      "word": "檀健次说再不拍猎罪3我就老了",
-      "onboard_time": 1740063503,
-      "rank": 17,
-      "category": "剧集"
+      "raw_hot": 308402,
+      "num": 308402,
+      "word": "马嘉祺回国落地狂炫饭",
+      "onboard_time": 1740100520,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 300274,
-      "num": 300274,
+      "num": 307000,
       "word": "陈丽君2024中国妇女时代人物",
       "onboard_time": 1740077292,
       "rank": 43,
@@ -283,12 +307,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 204766,
-      "num": 248213,
-      "word": "马嘉祺回国落地狂炫饭",
-      "onboard_time": 1740100520,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 201965,
+      "num": 201965,
+      "word": "乌克兰应美要求取消记者会",
+      "onboard_time": 1740101539,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 199880,
@@ -297,6 +321,30 @@
       "onboard_time": 1740098959,
       "rank": 25,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 198272,
+      "num": 198272,
+      "word": "国博白瓷玉漱公主再度爆火",
+      "onboard_time": 1740102139,
+      "rank": 34,
+      "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 191307,
+      "num": 299653,
+      "word": "归期 鹤辞",
+      "onboard_time": 1740101779,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 188186,
+      "num": 188186,
+      "word": "iPhone17系列将采用LTPO屏幕",
+      "onboard_time": 1740100760,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 187940,
@@ -363,6 +411,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174242,
+      "num": 174242,
+      "word": "16岁女生背着父母签下10年主播合约",
+      "onboard_time": 1740102440,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167457,
+      "num": 167457,
+      "word": "石家庄下雪",
+      "onboard_time": 1740100818,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164437,
       "num": 164437,
       "word": "乌克兰",
@@ -371,36 +435,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 164210,
-      "num": 164210,
-      "word": "乌克兰应美要求取消记者会",
-      "onboard_time": 1740101539,
-      "rank": 26,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 159560,
-      "num": 159560,
-      "word": "夫妻在赌博诈骗和投案之间选择了自杀",
-      "onboard_time": 1740101238,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 156356,
-      "num": 157911,
+      "num": 198392,
       "word": "哪吒",
       "onboard_time": 1740101358,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 154447,
-      "num": 154447,
-      "word": "iPhone17系列将采用LTPO屏幕",
-      "onboard_time": 1740100760,
-      "rank": 32,
-      "category": "数码"
     },
     {
       "raw_hot": 152812,
@@ -419,14 +459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 147519,
-      "num": 147519,
-      "word": "国博白瓷玉漱公主再度爆火",
-      "onboard_time": 1740102139,
-      "rank": 34,
-      "category": "民生新闻,旅游"
-    },
-    {
       "raw_hot": 145598,
       "num": 145598,
       "word": "蔡徐坤妆容",
@@ -443,11 +475,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 137719,
-      "num": 137719,
-      "word": "归期 鹤辞",
-      "onboard_time": 1740101779,
-      "rank": 35,
+      "raw_hot": 136469,
+      "num": 198275,
+      "word": "于正官宣玉茗茶骨演员",
+      "onboard_time": 1740101659,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -504,14 +536,6 @@
       "word": "李宇春可以是原唱也可以是原告",
       "onboard_time": 1740065422,
       "rank": 33,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 119026,
-      "num": 119026,
-      "word": "于正官宣玉茗茶骨演员",
-      "onboard_time": 1740101659,
-      "rank": 41,
       "category": "剧集"
     },
     {
@@ -593,6 +617,14 @@
       "onboard_time": 1740060623,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 96305,
+      "num": 96305,
+      "word": "张凌赫保镖接错人",
+      "onboard_time": 1740102919,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 95996,
@@ -896,6 +928,14 @@
       "word": "国博上新了一大波高科技",
       "onboard_time": 1740086711,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2329,
+      "num": 937831,
+      "word": "中国式现代化的万千气象海南行",
+      "onboard_time": 1739782103,
+      "rank": 2,
       "category": "民生新闻"
     }
   ],
