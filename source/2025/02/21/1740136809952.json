@@ -1,0 +1,410 @@
+{
+  "runTime": 1740136809952,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1900284,
+        "num": 1900284,
+        "word": "难哄拍在了00后最清醒的一年",
+        "onboard_time": 1740133639,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 904549,
+        "num": 904549,
+        "word": "DeepSeek评中国最宜居城市",
+        "onboard_time": 1740118279,
+        "rank": 1,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 21956,
+        "num": 893853,
+        "word": "网络普法看贵州",
+        "onboard_time": 1740128482,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1006044,
+        "num": 889707,
+        "word": "什锦 肖战",
+        "onboard_time": 1740132081,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 885470,
+        "num": 885470,
+        "word": "大量黄金正从各国运往美国",
+        "onboard_time": 1740134300,
+        "rank": 4,
+        "category": "财经,国际时政"
+      },
+      {
+        "raw_hot": 789555,
+        "num": 789555,
+        "word": "公安部门已介入水源地疑遭投毒",
+        "onboard_time": 1740133160,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 487695,
+        "num": 487695,
+        "word": "难哄删除争议镜头",
+        "onboard_time": 1740120380,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 474957,
+        "num": 474957,
+        "word": "台湾文化界反问台湾的哪吒在哪",
+        "onboard_time": 1740132261,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 377598,
+        "num": 377598,
+        "word": "咖啡店摆满奥特曼周边赔了40万",
+        "onboard_time": 1740128782,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62171,
+        "num": 377598,
+        "word": "重拳打击地铁公交内猥亵等违法犯罪",
+        "onboard_time": 1740135199,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1924451,
+        "num": 377598,
+        "word": "黄景瑜前妻点名张艺上",
+        "onboard_time": 1740128661,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 775638,
+        "num": 377598,
+        "word": "郭品超官宣分手",
+        "onboard_time": 1740129441,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 706906,
+        "num": 377597,
+        "word": "唐艺昕腰身比",
+        "onboard_time": 1740130220,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 567866,
+        "num": 377597,
+        "word": "奶奶每天玩手机到凌晨近视2300度",
+        "onboard_time": 1740115881,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48831,
+        "num": 377597,
+        "word": "老铺黄金限购一天最多只能买5件",
+        "onboard_time": 1740135799,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 377597,
+        "num": 377596,
+        "word": "俄乌冲突",
+        "onboard_time": 1740126261,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 367936,
+        "num": 367936,
+        "word": "黄景瑜奖杯上有张艺上名字",
+        "onboard_time": 1740126200,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148829,
+        "num": 363244,
+        "word": "新加坡环球影城偶遇张真源贺峻霖",
+        "onboard_time": 1740135380,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51427,
+        "num": 362460,
+        "word": "有人花1800元找离婚跟拍",
+        "onboard_time": 1740136219,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71430,
+        "num": 362286,
+        "word": "乐道铁成直播透露第二款车",
+        "onboard_time": 1740134360,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 362214,
+        "num": 362214,
+        "word": "周柯宇 演技",
+        "onboard_time": 1740133820,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27472,
+        "num": 339077,
+        "word": "多家机构上调阿里巴巴目标股价",
+        "onboard_time": 1740136521,
+        "rank": 21,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 409104,
+        "num": 338485,
+        "word": "李承铉说离婚是另外一个节目",
+        "onboard_time": 1740126860,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330987,
+        "num": 330987,
+        "word": "民警建议家里不要安装摄像头",
+        "onboard_time": 1740109160,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303125,
+        "num": 303125,
+        "word": "董力 杨子2.0",
+        "onboard_time": 1740123980,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291447,
+        "num": 291447,
+        "word": "周深四首歌被纳入九年义务教育教材",
+        "onboard_time": 1740108200,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 276536,
+        "num": 276536,
+        "word": "杨幂申请强制执行",
+        "onboard_time": 1740128960,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235976,
+        "num": 235976,
+        "word": "GAI粉丝把周延写成周廷",
+        "onboard_time": 1740131000,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 240798,
+        "num": 235594,
+        "word": "杨子也没放过李莲花",
+        "onboard_time": 1740131241,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10992,
+        "num": 224774,
+        "word": "柯南M28情报下周揭晓",
+        "onboard_time": 1740136340,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 223413,
+        "num": 223413,
+        "word": "王楚钦vs科拉尼",
+        "onboard_time": 1740134061,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92536,
+        "num": 216668,
+        "word": "鹤辞道歉",
+        "onboard_time": 1740130942,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 216382,
+        "num": 216382,
+        "word": "妈妈二胎是弟弟哥哥直呼完犊子",
+        "onboard_time": 1740136699,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197278,
+        "num": 197278,
+        "word": "郑州16家影院免费看哪吒2",
+        "onboard_time": 1740128782,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180501,
+        "num": 180501,
+        "word": "赵丽颖亚洲受欢迎程度",
+        "onboard_time": 1740134540,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179867,
+        "num": 179867,
+        "word": "温以凡小苍兰型女主",
+        "onboard_time": 1740133340,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178521,
+        "num": 178521,
+        "word": "Doinb获常规赛MVP",
+        "onboard_time": 1740134360,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 170340,
+        "num": 170340,
+        "word": "光渊日本预告",
+        "onboard_time": 1740133940,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140445,
+        "num": 168604,
+        "word": "日语版就是哪吒",
+        "onboard_time": 1740134239,
+        "rank": 38,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 168596,
+        "num": 168596,
+        "word": "王楚钦3比0科兰尼",
+        "onboard_time": 1740135439,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154365,
+        "num": 154365,
+        "word": "那很坏了是什么梗",
+        "onboard_time": 1740134840,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148882,
+        "num": 148882,
+        "word": "气血充足人就会变漂亮",
+        "onboard_time": 1740130282,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 145777,
+        "num": 145777,
+        "word": "90后银行员工挂职副县长期满回原岗",
+        "onboard_time": 1740135199,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31679,
+        "num": 143859,
+        "word": "埃及时隔百年再次发现法老陵墓",
+        "onboard_time": 1740136759,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 143381,
+        "num": 143381,
+        "word": "DeepSeek评国补买什么手机最值",
+        "onboard_time": 1740132679,
+        "rank": 44,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 139478,
+        "num": 139478,
+        "word": "重庆姐弟坠亡案入选最高法典型案例",
+        "onboard_time": 1740126800,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134966,
+        "num": 134966,
+        "word": "语文老师用DeepSeek制作随机点名系统",
+        "onboard_time": 1740132560,
+        "rank": 46,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 133225,
+        "num": 133225,
+        "word": "难哄",
+        "onboard_time": 1740112222,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131286,
+        "num": 131286,
+        "word": "赛琳娜和未婚夫花3500万美金买房",
+        "onboard_time": 1740136219,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130706,
+        "num": 130706,
+        "word": "翟潇闻好帅",
+        "onboard_time": 1740130460,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#造林护林总书记始终心系这抹绿色#"
+    }
+  }
+}
