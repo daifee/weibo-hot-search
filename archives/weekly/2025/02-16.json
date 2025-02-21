@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1740130646089,
+  "endTime": 1740133447451,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -1675,6 +1675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 977354,
+      "num": 977354,
+      "word": "什锦 肖战",
+      "onboard_time": 1740132081,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 976640,
       "num": 976640,
       "word": "饺子导演原来是周星驰的迷弟",
@@ -2564,7 +2572,7 @@
     },
     {
       "raw_hot": 691398,
-      "num": 414382,
+      "num": 414749,
       "word": "黄景瑜奖杯上有张艺上名字",
       "onboard_time": 1740126200,
       "rank": 18,
@@ -2583,6 +2591,14 @@
       "num": 305743,
       "word": "诗琳是清华大学本科学生",
       "onboard_time": 1739676319,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 687686,
+      "num": 447656,
+      "word": "唐艺昕腰身比",
+      "onboard_time": 1740130220,
       "rank": 34,
       "category": "艺人"
     },
@@ -3176,6 +3192,14 @@
       "word": "广西6死事故死伤者系修剪杂草工人",
       "onboard_time": 1740020721,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 570306,
+      "num": 570306,
+      "word": "咖啡店摆满奥特曼周边赔了40万",
+      "onboard_time": 1740128782,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -3907,14 +3931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 469371,
-      "num": 495923,
-      "word": "咖啡店摆满奥特曼周边赔了40万",
-      "onboard_time": 1740128782,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 468845,
       "num": 468845,
       "word": "南芜双狗",
@@ -4201,6 +4217,14 @@
       "onboard_time": 1739880203,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 442611,
+      "num": 442611,
+      "word": "重庆姐弟坠亡案入选最高法典型案例",
+      "onboard_time": 1740126800,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 441514,
@@ -5907,6 +5931,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 303498,
+      "num": 303498,
+      "word": "台湾文化界反问台湾的哪吒在哪",
+      "onboard_time": 1740132261,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 303337,
       "num": 392741,
       "word": "国足",
@@ -6947,6 +6979,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 254777,
+      "num": 254777,
+      "word": "杨子也没放过李莲花",
+      "onboard_time": 1740131241,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 254041,
       "num": 186233,
       "word": "哪吒2距全球票房前10仅差3.5亿",
@@ -7563,6 +7603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 235414,
+      "num": 273790,
+      "word": "气血充足人就会变漂亮",
+      "onboard_time": 1740130282,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 235273,
       "num": 205612,
       "word": "哪吒第一天回校放学啦",
@@ -7761,14 +7809,6 @@
       "onboard_time": 1740050182,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 227454,
-      "num": 227454,
-      "word": "唐艺昕腰身比",
-      "onboard_time": 1740130220,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 227103,
@@ -8283,6 +8323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 215063,
+      "num": 215063,
+      "word": "张杰鸟巢演唱会连开12场",
+      "onboard_time": 1740130880,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 214871,
       "num": 428598,
       "word": "有人凌晨4点排队买黄金",
@@ -8393,6 +8441,14 @@
       "onboard_time": 1739873062,
       "rank": 20,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 212405,
+      "num": 303190,
+      "word": "GAI粉丝把周延写成周廷",
+      "onboard_time": 1740131000,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 212379,
@@ -8608,6 +8664,14 @@
       "word": "女主变来变去男主爱来爱去",
       "onboard_time": 1739682858,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 207514,
+      "num": 207514,
+      "word": "翟潇闻好帅",
+      "onboard_time": 1740130460,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -9515,14 +9579,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 194255,
-      "num": 277582,
-      "word": "重庆姐弟坠亡案入选最高法典型案例",
-      "onboard_time": 1740126800,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 193931,
       "num": 193931,
       "word": "代高政回应给章子怡下跪",
@@ -10211,6 +10267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182941,
+      "num": 182941,
+      "word": "DeepSeek评国补买什么手机最值",
+      "onboard_time": 1740132679,
+      "rank": 39,
+      "category": "互联网,数码"
+    },
+    {
       "raw_hot": 182932,
       "num": 185964,
       "word": "国足怎么突然变强了",
@@ -10643,6 +10707,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 173931,
+      "num": 173931,
+      "word": "LPL",
+      "onboard_time": 1740131420,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 173927,
       "num": 202040,
       "word": "杭州路上开始积雪了",
@@ -10827,6 +10899,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 170671,
+      "num": 170671,
+      "word": "宋佳你往这些视频里加了什么",
+      "onboard_time": 1740133040,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170620,
       "num": 373833,
       "word": "180天重启计划开播",
@@ -10961,6 +11041,14 @@
       "onboard_time": 1739689638,
       "rank": 28,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 168755,
+      "num": 168755,
+      "word": "温以凡小苍兰型女主",
+      "onboard_time": 1740133340,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 168563,
@@ -11123,6 +11211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166288,
+      "num": 166288,
+      "word": "为什么很多情侣都熬不过同居",
+      "onboard_time": 1740130041,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 165987,
       "num": 165987,
       "word": "花傲天说LGD的目标依然是冠军",
@@ -11177,14 +11273,6 @@
       "onboard_time": 1739973624,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 164576,
-      "num": 164576,
-      "word": "翟潇闻好帅",
-      "onboard_time": 1740130460,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 164360,
@@ -11755,6 +11843,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 155557,
+      "num": 155557,
+      "word": "陈梦分享周五plog",
+      "onboard_time": 1740133160,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155374,
       "num": 155374,
       "word": "张本智和循环赛2胜1负",
@@ -11833,14 +11929,6 @@
       "onboard_time": 1739788521,
       "rank": 42,
       "category": "数码"
-    },
-    {
-      "raw_hot": 154350,
-      "num": 154350,
-      "word": "为什么很多情侣都熬不过同居",
-      "onboard_time": 1740130041,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 154245,
@@ -13220,7 +13308,7 @@
     },
     {
       "raw_hot": 128781,
-      "num": 128781,
+      "num": 183085,
       "word": "和平精英宣布接入DeepSeek",
       "onboard_time": 1740128841,
       "rank": 49,
@@ -14675,14 +14763,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 95707,
-      "num": 273790,
-      "word": "气血充足人就会变漂亮",
-      "onboard_time": 1740130282,
-      "rank": 27,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 95638,
       "num": 268399,
       "word": "马库斯惊叹被轰炸建筑又活过来了",
@@ -15763,6 +15843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66347,
+      "num": 177330,
+      "word": "全国首个AI儿科医生在北京上岗",
+      "onboard_time": 1740131360,
+      "rank": 40,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 66243,
       "num": 66243,
       "word": "六姊妹24集",
@@ -15785,6 +15873,14 @@
       "onboard_time": 1739862327,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 65630,
+      "num": 183418,
+      "word": "樊振东last之后是新生和起点",
+      "onboard_time": 1740129381,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 65615,
@@ -16043,12 +16139,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58737,
+      "num": 421626,
+      "word": "语文老师用DeepSeek制作随机点名系统",
+      "onboard_time": 1740132560,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58616,
       "num": 312969,
       "word": "跟着贾冰学省钱",
       "onboard_time": 1739763259,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 58578,
+      "num": 154369,
+      "word": "网信办将整治涉企网络黑嘴",
+      "onboard_time": 1740132860,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 58300,
@@ -16424,6 +16536,14 @@
       "word": "潜逃28年嫌犯给村民放羊漂白身份",
       "onboard_time": 1739794640,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49668,
+      "num": 208002,
+      "word": "公安部门已介入水源地疑遭投毒",
+      "onboard_time": 1740133160,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -17161,6 +17281,14 @@
       "onboard_time": 1740032901,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 34613,
+      "num": 172213,
+      "word": "预防诺如记住16字",
+      "onboard_time": 1740133400,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 34503,
@@ -17907,6 +18035,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 21294,
+      "num": 214613,
+      "word": "山东一矿企排污管道破裂污染河流",
+      "onboard_time": 1740132800,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21154,
       "num": 93541,
       "word": "U20国足两连胜晋级",
@@ -17969,6 +18105,14 @@
       "onboard_time": 1739784441,
       "rank": 29,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 20261,
+      "num": 264419,
+      "word": "黄友政vs吴晙诚",
+      "onboard_time": 1740132980,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 20247,
@@ -18275,6 +18419,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 14204,
+      "num": 423589,
+      "word": "阿里股价继续大涨",
+      "onboard_time": 1740132742,
+      "rank": 13,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 14157,
       "num": 331573,
       "word": "胎盘早剥到底有多可怕",
@@ -18345,6 +18497,14 @@
       "onboard_time": 1740108979,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 13266,
+      "num": 187960,
+      "word": "黄友政晋级亚洲杯16强",
+      "onboard_time": 1740133281,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 13197,
@@ -18560,6 +18720,14 @@
       "word": "王楚钦谈亚洲杯第二场胜利",
       "onboard_time": 1740093195,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 9935,
+      "num": 294239,
+      "word": "蒯曼vs萨维诺兹",
+      "onboard_time": 1740133040,
+      "rank": 21,
       "category": "体育"
     },
     {

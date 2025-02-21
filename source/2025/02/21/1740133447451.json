@@ -1,0 +1,410 @@
+{
+  "runTime": 1740133447451,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1131225,
+        "num": 1180996,
+        "word": "DeepSeek评中国最宜居城市",
+        "onboard_time": 1740118279,
+        "rank": 0,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 977354,
+        "num": 977354,
+        "word": "什锦 肖战",
+        "onboard_time": 1740132081,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28510,
+        "num": 871067,
+        "word": "网络普法看贵州",
+        "onboard_time": 1740128482,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 839589,
+        "num": 839589,
+        "word": "李承铉说离婚是另外一个节目",
+        "onboard_time": 1740126860,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 640469,
+        "num": 640469,
+        "word": "俄乌冲突",
+        "onboard_time": 1740126261,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 570306,
+        "num": 570306,
+        "word": "咖啡店摆满奥特曼周边赔了40万",
+        "onboard_time": 1740128782,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 712674,
+        "num": 564664,
+        "word": "难哄删除争议镜头",
+        "onboard_time": 1740120380,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 451954,
+        "num": 451954,
+        "word": "民警建议家里不要安装摄像头",
+        "onboard_time": 1740109160,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 687686,
+        "num": 447656,
+        "word": "唐艺昕腰身比",
+        "onboard_time": 1740130220,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 442611,
+        "num": 442611,
+        "word": "重庆姐弟坠亡案入选最高法典型案例",
+        "onboard_time": 1740126800,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2815316,
+        "num": 440817,
+        "word": "黄景瑜前妻点名张艺上",
+        "onboard_time": 1740128661,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1378634,
+        "num": 434404,
+        "word": "郭品超官宣分手",
+        "onboard_time": 1740129441,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 531333,
+        "num": 432031,
+        "word": "奶奶每天玩手机到凌晨近视2300度",
+        "onboard_time": 1740115881,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14204,
+        "num": 423589,
+        "word": "阿里股价继续大涨",
+        "onboard_time": 1740132742,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 58737,
+        "num": 421626,
+        "word": "语文老师用DeepSeek制作随机点名系统",
+        "onboard_time": 1740132560,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 458286,
+        "num": 414749,
+        "word": "黄景瑜奖杯上有张艺上名字",
+        "onboard_time": 1740126200,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413246,
+        "num": 413246,
+        "word": "郑州16家影院免费看哪吒2",
+        "onboard_time": 1740128782,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 303498,
+        "num": 303498,
+        "word": "台湾文化界反问台湾的哪吒在哪",
+        "onboard_time": 1740132261,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 212405,
+        "num": 303190,
+        "word": "GAI粉丝把周延写成周廷",
+        "onboard_time": 1740131000,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 356545,
+        "num": 297937,
+        "word": "董力 杨子2.0",
+        "onboard_time": 1740123980,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 968934,
+        "num": 294572,
+        "word": "侵华日军为便于奸淫百姓赤身骑马",
+        "onboard_time": 1740125420,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 9935,
+        "num": 294239,
+        "word": "蒯曼vs萨维诺兹",
+        "onboard_time": 1740133040,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 434094,
+        "num": 290714,
+        "word": "杨幂申请强制执行",
+        "onboard_time": 1740128960,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288346,
+        "num": 288346,
+        "word": "周深四首歌被纳入九年义务教育教材",
+        "onboard_time": 1740108200,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 20261,
+        "num": 264419,
+        "word": "黄友政vs吴晙诚",
+        "onboard_time": 1740132980,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262254,
+        "num": 262254,
+        "word": "难哄扫楼",
+        "onboard_time": 1740129441,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254777,
+        "num": 254777,
+        "word": "杨子也没放过李莲花",
+        "onboard_time": 1740131241,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235414,
+        "num": 235414,
+        "word": "气血充足人就会变漂亮",
+        "onboard_time": 1740130282,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 215063,
+        "num": 215063,
+        "word": "张杰鸟巢演唱会连开12场",
+        "onboard_time": 1740130880,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 21294,
+        "num": 214613,
+        "word": "山东一矿企排污管道破裂污染河流",
+        "onboard_time": 1740132800,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214456,
+        "num": 214456,
+        "word": "一闪一闪亮星星后终于有奇幻现偶",
+        "onboard_time": 1740128482,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210752,
+        "num": 210752,
+        "word": "李承铉拿到中国五星卡了",
+        "onboard_time": 1740127942,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49668,
+        "num": 208002,
+        "word": "公安部门已介入水源地疑遭投毒",
+        "onboard_time": 1740133160,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207514,
+        "num": 207514,
+        "word": "翟潇闻好帅",
+        "onboard_time": 1740130460,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196539,
+        "num": 196539,
+        "word": "云南一景区雪崩瞬间淹没人群",
+        "onboard_time": 1740124399,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13266,
+        "num": 187960,
+        "word": "黄友政晋级亚洲杯16强",
+        "onboard_time": 1740133281,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185501,
+        "num": 185501,
+        "word": "有两部以上破万剧的女演员",
+        "onboard_time": 1740127640,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65630,
+        "num": 183418,
+        "word": "樊振东last之后是新生和起点",
+        "onboard_time": 1740129381,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64161,
+        "num": 183085,
+        "word": "和平精英宣布接入DeepSeek",
+        "onboard_time": 1740128841,
+        "rank": 38,
+        "category": "游戏,互联网"
+      },
+      {
+        "raw_hot": 182941,
+        "num": 182941,
+        "word": "DeepSeek评国补买什么手机最值",
+        "onboard_time": 1740132679,
+        "rank": 39,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 66347,
+        "num": 177330,
+        "word": "全国首个AI儿科医生在北京上岗",
+        "onboard_time": 1740131360,
+        "rank": 40,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 177245,
+        "num": 177245,
+        "word": "7旬老太网恋1个月被骗111万",
+        "onboard_time": 1740113002,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173931,
+        "num": 173931,
+        "word": "LPL",
+        "onboard_time": 1740131420,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 34613,
+        "num": 172213,
+        "word": "预防诺如记住16字",
+        "onboard_time": 1740133400,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 170671,
+        "num": 170671,
+        "word": "宋佳你往这些视频里加了什么",
+        "onboard_time": 1740133040,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168755,
+        "num": 168755,
+        "word": "温以凡小苍兰型女主",
+        "onboard_time": 1740133340,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166288,
+        "num": 166288,
+        "word": "为什么很多情侣都熬不过同居",
+        "onboard_time": 1740130041,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156865,
+        "num": 156865,
+        "word": "苏州一咖啡店因奥特曼被索赔100万",
+        "onboard_time": 1740126321,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155557,
+        "num": 155557,
+        "word": "陈梦分享周五plog",
+        "onboard_time": 1740133160,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58578,
+        "num": 154369,
+        "word": "网信办将整治涉企网络黑嘴",
+        "onboard_time": 1740132860,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为民营企业鼓劲#"
+    }
+  }
+}
