@@ -1,0 +1,410 @@
+{
+  "runTime": 1740158413768,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 472993,
+        "num": 525696,
+        "word": "五毛人民币假钞在美国卖五美金",
+        "onboard_time": 1740147922,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 428193,
+        "num": 428193,
+        "word": "陈凯歌说太假了全是套路",
+        "onboard_time": 1740149240,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33073,
+        "num": 358405,
+        "word": "中国空间站首个舱内在轨机器人试验",
+        "onboard_time": 1740146121,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 327738,
+        "num": 327738,
+        "word": "择天记",
+        "onboard_time": 1740143961,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248275,
+        "num": 248275,
+        "word": "4人喝100多瓶啤酒1人呕吐时坠亡",
+        "onboard_time": 1740147860,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239206,
+        "num": 239206,
+        "word": "在房产证上加名也可能无法分到房产",
+        "onboard_time": 1740152479,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234972,
+        "num": 234972,
+        "word": "于正不认可张婉莹S级",
+        "onboard_time": 1740150381,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222597,
+        "num": 222597,
+        "word": "官方回应有智力缺陷孩子在校被霸凌",
+        "onboard_time": 1740156377,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171025,
+        "num": 171025,
+        "word": "国企拟录用名单3名本科生引质疑",
+        "onboard_time": 1740145162,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23100,
+        "num": 170709,
+        "word": "古滇国青铜器上蛇的存在感超高",
+        "onboard_time": 1740157575,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1334865,
+        "num": 169651,
+        "word": "吴川三中",
+        "onboard_time": 1740152839,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 512706,
+        "num": 169420,
+        "word": "黄景瑜前妻点名张艺上",
+        "onboard_time": 1740128661,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188894,
+        "num": 168649,
+        "word": "DeepSeek评中国最宜居城市",
+        "onboard_time": 1740118279,
+        "rank": 12,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 167949,
+        "num": 167949,
+        "word": "偶遇留几手葛夕带狗做手术",
+        "onboard_time": 1740148461,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149601,
+        "num": 149601,
+        "word": "赵露思模仿自己童年朗诵",
+        "onboard_time": 1740150321,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143427,
+        "num": 143427,
+        "word": "因为女主漂亮就所有人都要害她",
+        "onboard_time": 1740139760,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131150,
+        "num": 131150,
+        "word": "Jennie牙钉",
+        "onboard_time": 1740145162,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130060,
+        "num": 130060,
+        "word": "奶奶每天玩手机到凌晨近视2300度",
+        "onboard_time": 1740115881,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120316,
+        "num": 120316,
+        "word": "贺美琦 时代峰峻",
+        "onboard_time": 1740151040,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112224,
+        "num": 112224,
+        "word": "宋亚轩重现出国表情包",
+        "onboard_time": 1740151640,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 437807,
+        "num": 110556,
+        "word": "难哄拍在了00后最清醒的一年",
+        "onboard_time": 1740133639,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258332,
+        "num": 109321,
+        "word": "凭哪吒2票根可免费游多家景区",
+        "onboard_time": 1740152238,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 106806,
+        "num": 106806,
+        "word": "红房子 无人生还",
+        "onboard_time": 1740138800,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105521,
+        "num": 105521,
+        "word": "电梯疑因故障冲顶导致59岁业主身亡",
+        "onboard_time": 1740150381,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11665,
+        "num": 102362,
+        "word": "舒寒联赛1000淘汰",
+        "onboard_time": 1740157934,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100834,
+        "num": 100834,
+        "word": "孙颖莎失误连忙跟邱贻可解释",
+        "onboard_time": 1740157036,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100411,
+        "num": 100411,
+        "word": "郭品超官宣分手",
+        "onboard_time": 1740129441,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99086,
+        "num": 99086,
+        "word": "遭家暴失明女子在等伤残鉴定",
+        "onboard_time": 1740145340,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92694,
+        "num": 92694,
+        "word": "灌面汤杀妻案家属发声",
+        "onboard_time": 1740140478,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91952,
+        "num": 91952,
+        "word": "吴镇宇感动哭了",
+        "onboard_time": 1740149781,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88339,
+        "num": 88339,
+        "word": "90后干部挂职副县长删履历难消质疑",
+        "onboard_time": 1740154398,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85027,
+        "num": 85027,
+        "word": "卜冠今 真诚",
+        "onboard_time": 1740138739,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84832,
+        "num": 84832,
+        "word": "景区回应雪崩瞬间淹没人群",
+        "onboard_time": 1740155177,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84085,
+        "num": 84085,
+        "word": "帝师 aka",
+        "onboard_time": 1740151819,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 72233,
+        "num": 72233,
+        "word": "大量黄金正从各国运往美国",
+        "onboard_time": 1740134300,
+        "rank": 34,
+        "category": "财经,国际时政"
+      },
+      {
+        "raw_hot": 67870,
+        "num": 67870,
+        "word": "张婉莹拿到了S级",
+        "onboard_time": 1740141801,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66071,
+        "num": 66071,
+        "word": "植物大战僵尸3过审",
+        "onboard_time": 1740152300,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 64742,
+        "num": 64742,
+        "word": "厂家回应AI硅胶娃娃提供情绪价值",
+        "onboard_time": 1740153979,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62920,
+        "num": 62920,
+        "word": "LIZ身材",
+        "onboard_time": 1740144020,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62810,
+        "num": 62810,
+        "word": "白鹿丞磊 莫离",
+        "onboard_time": 1740138379,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62495,
+        "num": 62495,
+        "word": "什锦 肖战",
+        "onboard_time": 1740132081,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61905,
+        "num": 61905,
+        "word": "毒品的回旋镖最终回到了美国头上",
+        "onboard_time": 1740139940,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 53050,
+        "num": 53050,
+        "word": "小行星撞地球概率降了",
+        "onboard_time": 1740149781,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51274,
+        "num": 51274,
+        "word": "六姊妹 哭麻了",
+        "onboard_time": 1740143840,
+        "rank": 43,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 51219,
+        "num": 51219,
+        "word": "蒋超良被查",
+        "onboard_time": 1740140778,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48641,
+        "num": 48641,
+        "word": "民警建议家里不要安装摄像头",
+        "onboard_time": 1740109160,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47945,
+        "num": 47945,
+        "word": "哪吒2票房129亿",
+        "onboard_time": 1740138320,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 47425,
+        "num": 47425,
+        "word": "黄炎带娃",
+        "onboard_time": 1740153620,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46682,
+        "num": 46682,
+        "word": "难哄删除争议镜头",
+        "onboard_time": 1740120380,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46380,
+        "num": 46380,
+        "word": "德基厕所",
+        "onboard_time": 1740141681,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#民营企业座谈会上的更多细节#"
+    }
+  }
+}

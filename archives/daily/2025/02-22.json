@@ -1,7 +1,15 @@
 {
   "startTime": 1740155309204,
-  "endTime": 1740156158226,
+  "endTime": 1740158413768,
   "band_list": [
+    {
+      "raw_hot": 1334865,
+      "num": 269177,
+      "word": "吴川三中",
+      "onboard_time": 1740152839,
+      "rank": 28,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 976213,
       "num": 976213,
@@ -9,14 +17,6 @@
       "onboard_time": 1740147922,
       "rank": 0,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 963805,
-      "num": 269177,
-      "word": "吴川三中",
-      "onboard_time": 1740152839,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 819996,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 484336,
-      "num": 356175,
+      "num": 428193,
       "word": "陈凯歌说太假了全是套路",
       "onboard_time": 1740149240,
       "rank": 15,
@@ -137,6 +137,14 @@
       "onboard_time": 1740145162,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 222597,
+      "num": 222597,
+      "word": "官方回应有智力缺陷孩子在校被霸凌",
+      "onboard_time": 1740156377,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 215232,
@@ -323,6 +331,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 100834,
+      "num": 100834,
+      "word": "孙颖莎失误连忙跟邱贻可解释",
+      "onboard_time": 1740157036,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96755,
       "num": 96755,
       "word": "美国赢不了冠军赛更抢不走加拿大",
@@ -353,6 +369,14 @@
       "onboard_time": 1740151399,
       "rank": 47,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 84832,
+      "num": 273468,
+      "word": "景区回应雪崩瞬间淹没人群",
+      "onboard_time": 1740155177,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84331,
@@ -403,11 +427,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 40695,
-      "num": 273468,
-      "word": "景区回应雪崩瞬间淹没人群",
-      "onboard_time": 1740155177,
-      "rank": 33,
+      "raw_hot": 23100,
+      "num": 170709,
+      "word": "古滇国青铜器上蛇的存在感超高",
+      "onboard_time": 1740157575,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -425,6 +449,14 @@
       "onboard_time": 1740153259,
       "rank": 41,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 11665,
+      "num": 102362,
+      "word": "舒寒联赛1000淘汰",
+      "onboard_time": 1740157934,
+      "rank": 24,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [
