@@ -1,6 +1,6 @@
 {
   "startTime": 1740155309204,
-  "endTime": 1740155309204,
+  "endTime": 1740156158226,
   "band_list": [
     {
       "raw_hot": 976213,
@@ -9,6 +9,14 @@
       "onboard_time": 1740147922,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 963805,
+      "num": 269177,
+      "word": "吴川三中",
+      "onboard_time": 1740152839,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 819996,
@@ -51,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 484336,
+      "num": 356175,
+      "word": "陈凯歌说太假了全是套路",
+      "onboard_time": 1740149240,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 474848,
       "num": 303442,
       "word": "偶遇留几手葛夕带狗做手术",
@@ -59,7 +75,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 387145,
+      "raw_hot": 420543,
       "num": 205546,
       "word": "凭哪吒2票根可免费游多家景区",
       "onboard_time": 1740152238,
@@ -75,6 +91,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 356323,
+      "num": 356323,
+      "word": "在房产证上加名也可能无法分到房产",
+      "onboard_time": 1740152479,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 355793,
       "num": 338255,
       "word": "赵露思模仿自己童年朗诵",
@@ -83,28 +107,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 342719,
-      "num": 342719,
-      "word": "在房产证上加名也可能无法分到房产",
-      "onboard_time": 1740152479,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 320972,
       "num": 320972,
       "word": "宋亚轩重现出国表情包",
       "onboard_time": 1740151640,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 315886,
-      "num": 302697,
-      "word": "陈凯歌说太假了全是套路",
-      "onboard_time": 1740149240,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 304081,
@@ -179,14 +187,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 180636,
-      "num": 180636,
-      "word": "吴川三中",
-      "onboard_time": 1740152839,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 174347,
       "num": 174347,
       "word": "红房子 无人生还",
@@ -259,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123700,
+      "num": 206678,
+      "word": "厂家回应AI硅胶娃娃提供情绪价值",
+      "onboard_time": 1740153979,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118148,
       "num": 118148,
       "word": "大量黄金正从各国运往美国",
@@ -291,6 +299,14 @@
       "category": "剧集,作品衍生"
     },
     {
+      "raw_hot": 107192,
+      "num": 302865,
+      "word": "90后干部挂职副县长删履历难消质疑",
+      "onboard_time": 1740154398,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105578,
       "num": 105578,
       "word": "蒋超良被查",
@@ -305,14 +321,6 @@
       "onboard_time": 1740141681,
       "rank": 43,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 100106,
-      "num": 206678,
-      "word": "厂家回应AI硅胶娃娃提供情绪价值",
-      "onboard_time": 1740153979,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96755,
@@ -347,8 +355,8 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 78046,
-      "num": 78046,
+      "raw_hot": 84331,
+      "num": 84331,
       "word": "植物大战僵尸3过审",
       "onboard_time": 1740152300,
       "rank": 48,
@@ -363,12 +371,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 67705,
+      "num": 67705,
+      "word": "难哄删除争议镜头",
+      "onboard_time": 1740120380,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 62010,
       "num": 573181,
       "word": "中国空间站首个舱内在轨机器人试验",
       "onboard_time": 1740146121,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 55331,
+      "num": 222681,
+      "word": "民警建议家里不要安装摄像头",
+      "onboard_time": 1740109160,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51840,
@@ -379,12 +403,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 38283,
-      "num": 302865,
-      "word": "90后干部挂职副县长删履历难消质疑",
-      "onboard_time": 1740154398,
-      "rank": 14,
+      "raw_hot": 40695,
+      "num": 273468,
+      "word": "景区回应雪崩瞬间淹没人群",
+      "onboard_time": 1740155177,
+      "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22890,
+      "num": 160129,
+      "word": "孙颖莎淘汰赛对阵李恩惠",
+      "onboard_time": 1740151100,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 22768,
@@ -393,19 +425,14 @@
       "onboard_time": 1740153259,
       "rank": 41,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 13392,
-      "num": 137997,
-      "word": "景区回应雪崩瞬间淹没人群",
-      "onboard_time": 1740155177,
-      "rank": 33,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#民营企业座谈会上的更多细节#"
+    },
+    {
+      "word": "#中央军委主席习近平签署命令#"
     }
   ]
 }
