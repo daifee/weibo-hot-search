@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740202664334,
+  "endTime": 1740205884929,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -2361,6 +2361,14 @@
       "onboard_time": 1739591899,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1611088,
+      "num": 722665,
+      "word": "章若楠演技 木头",
+      "onboard_time": 1740202040,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 1604954,
@@ -5851,6 +5859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 926885,
+      "num": 926885,
+      "word": "难哄 鬼片镜头",
+      "onboard_time": 1740201740,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 926272,
       "num": 943273,
       "word": "大批妙瓦底电诈园受害者被救",
@@ -6068,7 +6084,7 @@
     },
     {
       "raw_hot": 903079,
-      "num": 365981,
+      "num": 385893,
       "word": "官方通报2岁男童托育园午睡身亡",
       "onboard_time": 1740198498,
       "rank": 13,
@@ -12459,6 +12475,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 502625,
+      "num": 440305,
+      "word": "烽火流金",
+      "onboard_time": 1740202579,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 502560,
       "num": 502560,
       "word": "妈妈回应1岁失明宝宝学走盲道",
@@ -13185,14 +13209,6 @@
       "onboard_time": 1738937424,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 476794,
-      "num": 476794,
-      "word": "章若楠演技 木头",
-      "onboard_time": 1740202040,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 476734,
@@ -14027,6 +14043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 451066,
+      "num": 440074,
+      "word": "难哄原著粉",
+      "onboard_time": 1740203060,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 450505,
       "num": 351741,
       "word": "315曾点名麻六记酸辣粉",
@@ -14387,6 +14411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 440476,
+      "num": 440476,
+      "word": "事业单位回应招人照护老人如厕沐浴",
+      "onboard_time": 1740202160,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 440381,
       "num": 349713,
       "word": "原来拍吻戏真的会亲到肿",
@@ -14409,6 +14441,14 @@
       "onboard_time": 1739604259,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 439716,
+      "num": 439716,
+      "word": "卖AI教程4天赚了20万元",
+      "onboard_time": 1740203241,
+      "rank": 8,
+      "category": "互联网"
     },
     {
       "raw_hot": 439237,
@@ -14825,6 +14865,14 @@
       "onboard_time": 1739199380,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 424224,
+      "num": 384620,
+      "word": "刘晓庆被所谓朋友吸血十年",
+      "onboard_time": 1740202640,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 424010,
@@ -16035,14 +16083,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 392752,
-      "num": 392752,
-      "word": "难哄 鬼片镜头",
-      "onboard_time": 1740201740,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 392132,
       "num": 359785,
       "word": "春节档排片谁说了算",
@@ -16681,6 +16721,14 @@
       "onboard_time": 1739766021,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 375072,
+      "num": 375072,
+      "word": "张峻豪感染诺如昏迷了一阵子",
+      "onboard_time": 1740205760,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 374899,
@@ -23171,6 +23219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 259560,
+      "num": 259560,
+      "word": "梁靖崑vs张禹珍",
+      "onboard_time": 1738909463,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 259424,
       "num": 259424,
       "word": "山河枕",
@@ -28827,6 +28883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 211623,
+      "num": 211623,
+      "word": "金圣圭姐姐去世",
+      "onboard_time": 1740204321,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211617,
       "num": 211617,
       "word": "金秀贤抽烟路透",
@@ -29755,14 +29819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 206569,
-      "num": 206569,
-      "word": "刘晓庆被所谓朋友吸血十年",
-      "onboard_time": 1740202640,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 206560,
       "num": 280792,
       "word": "王曼昱vs李恩惠",
@@ -30387,6 +30443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203911,
+      "num": 203911,
+      "word": "刘晓庆拒绝游泳的原因",
+      "onboard_time": 1740202640,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203909,
       "num": 374356,
       "word": "杨子孤独的情人节快乐",
@@ -30673,14 +30737,6 @@
       "onboard_time": 1739532200,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 202754,
-      "num": 202754,
-      "word": "烽火流金",
-      "onboard_time": 1740202579,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 202684,
@@ -30985,14 +31041,6 @@
       "onboard_time": 1740060323,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 201512,
-      "num": 201512,
-      "word": "刘晓庆拒绝游泳的原因",
-      "onboard_time": 1740202640,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 201483,
@@ -31769,6 +31817,14 @@
       "onboard_time": 1738989090,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198221,
+      "num": 198221,
+      "word": "刘诗诗新剧恐怖氛围拉满",
+      "onboard_time": 1740205819,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 198166,
@@ -35011,14 +35067,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 184751,
-      "num": 202873,
-      "word": "梁靖崑vs张禹珍",
-      "onboard_time": 1738909463,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 184741,
       "num": 184741,
       "word": "李瓒killmehealyou",
@@ -36729,6 +36777,14 @@
       "onboard_time": 1739161282,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 176396,
+      "num": 362823,
+      "word": "DeepSeek给出周末不虚度指南",
+      "onboard_time": 1740200780,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 176332,
@@ -42211,6 +42267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152184,
+      "num": 152184,
+      "word": "王楚钦赛后疯狂擦汗",
+      "onboard_time": 1740204019,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152136,
       "num": 152136,
       "word": "为防AI作业老师说不用补寒假作业",
@@ -43907,6 +43971,14 @@
       "category": "旅游,演出"
     },
     {
+      "raw_hot": 145196,
+      "num": 145196,
+      "word": "吴谨言特别出演天堂旅行团",
+      "onboard_time": 1740202940,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 145184,
       "num": 145184,
       "word": "官方回应一海南游客拒涨价被持刀威胁",
@@ -44587,6 +44659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142475,
+      "num": 142475,
+      "word": "剧版温以凡 窝囊",
+      "onboard_time": 1740203421,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142473,
       "num": 142473,
       "word": "湖人100分连线",
@@ -45235,14 +45315,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 139508,
-      "num": 362823,
-      "word": "DeepSeek给出周末不虚度指南",
-      "onboard_time": 1740200780,
-      "rank": 9,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 139463,
       "num": 423447,
       "word": "中国女子冰壶银牌",
@@ -45720,6 +45792,14 @@
       "word": "何惟芳美貌大赏",
       "onboard_time": 1738380437,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 137075,
+      "num": 137075,
+      "word": "桑延温以凡亲了",
+      "onboard_time": 1740203119,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -46273,6 +46353,14 @@
       "onboard_time": 1738905982,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 134610,
+      "num": 134610,
+      "word": "这算是敖吒还是哪丙",
+      "onboard_time": 1740205819,
+      "rank": 43,
+      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 134566,
@@ -47827,6 +47915,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 127391,
+      "num": 127391,
+      "word": "成都医生做手术用上DeepSeek",
+      "onboard_time": 1740203000,
+      "rank": 45,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 127385,
       "num": 127385,
       "word": "美国关税战遭南北夹击",
@@ -47855,6 +47951,14 @@
       "num": 127332,
       "word": "向太没有办婚礼",
       "onboard_time": 1739152219,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 127302,
+      "num": 127302,
+      "word": "李小冉骑的马一边走路一边拉屎",
+      "onboard_time": 1740203241,
       "rank": 46,
       "category": "综艺"
     },
@@ -52427,6 +52531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102716,
+      "num": 158517,
+      "word": "U20国足vs沙特U20",
+      "onboard_time": 1740204140,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102711,
       "num": 102711,
       "word": "中国短道速滑队发布公告",
@@ -56411,6 +56523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 75322,
+      "num": 351926,
+      "word": "平时熬的夜周末可以补回来",
+      "onboard_time": 1740199160,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 75265,
       "num": 223824,
       "word": "潘展乐说用金牌击溃无端的质疑",
@@ -56841,6 +56961,14 @@
       "onboard_time": 1739869642,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71434,
+      "num": 163107,
+      "word": "陈鹤一高马尾好有战损那味儿",
+      "onboard_time": 1740205039,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 71432,
@@ -59755,6 +59883,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 52735,
+      "num": 161815,
+      "word": "欧洲或组建3万人部队驻扎乌克兰",
+      "onboard_time": 1740204140,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 52721,
       "num": 74198,
       "word": "饺子说哪吒2最精彩的打斗都没出现",
@@ -60467,6 +60603,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 48788,
+      "num": 145295,
+      "word": "一向节俭的父亲为微短剧充值3万多元",
+      "onboard_time": 1740205701,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48779,
       "num": 344399,
       "word": "WTA",
@@ -60633,14 +60777,6 @@
       "onboard_time": 1739964740,
       "rank": 40,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 48013,
-      "num": 195409,
-      "word": "平时熬的夜周末可以补回来",
-      "onboard_time": 1740199160,
-      "rank": 30,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 47921,
@@ -62484,7 +62620,7 @@
     },
     {
       "raw_hot": 37206,
-      "num": 727701,
+      "num": 741266,
       "word": "民营企业爱拼会赢背后蕴藏的机遇",
       "onboard_time": 1740197120,
       "rank": 2,
@@ -63761,14 +63897,6 @@
       "onboard_time": 1739456063,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 30075,
-      "num": 239301,
-      "word": "事业单位回应招人照护老人如厕沐浴",
-      "onboard_time": 1740202160,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30066,
@@ -65139,6 +65267,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 23271,
+      "num": 357854,
+      "word": "周末雨雪天气正在加载中",
+      "onboard_time": 1739996531,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23237,
       "num": 212157,
       "word": "湖人欢迎东契奇",
@@ -65921,6 +66057,14 @@
       "onboard_time": 1739719941,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20121,
+      "num": 143377,
+      "word": "一人一句话为U20国足加油",
+      "onboard_time": 1740205819,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 20077,
@@ -67017,14 +67161,6 @@
       "onboard_time": 1739023644,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 14012,
-      "num": 50334,
-      "word": "周末雨雪天气正在加载中",
-      "onboard_time": 1739996531,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14010,

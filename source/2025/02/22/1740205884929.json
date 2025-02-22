@@ -1,0 +1,410 @@
+{
+  "runTime": 1740205884929,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1092776,
+        "num": 1174844,
+        "word": "美国一公园吸毒者如丧尸实拍",
+        "onboard_time": 1740187698,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 926885,
+        "num": 926885,
+        "word": "难哄 鬼片镜头",
+        "onboard_time": 1740201740,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20912,
+        "num": 741266,
+        "word": "民营企业爱拼会赢背后蕴藏的机遇",
+        "onboard_time": 1740197120,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1611088,
+        "num": 722665,
+        "word": "章若楠演技 木头",
+        "onboard_time": 1740202040,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 658270,
+        "num": 658270,
+        "word": "200斤女生cos石矶娘娘被当真",
+        "onboard_time": 1740190458,
+        "rank": 4,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 440476,
+        "num": 440476,
+        "word": "事业单位回应招人照护老人如厕沐浴",
+        "onboard_time": 1740202160,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 502625,
+        "num": 440305,
+        "word": "烽火流金",
+        "onboard_time": 1740202579,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 451066,
+        "num": 440074,
+        "word": "难哄原著粉",
+        "onboard_time": 1740203060,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 439716,
+        "num": 439716,
+        "word": "卖AI教程4天赚了20万元",
+        "onboard_time": 1740203241,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 394071,
+        "num": 394071,
+        "word": "关于缴纳社保我们采访了10位外卖骑手",
+        "onboard_time": 1740199819,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 533229,
+        "num": 385893,
+        "word": "官方通报2岁男童托育园午睡身亡",
+        "onboard_time": 1740198498,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 424224,
+        "num": 384620,
+        "word": "刘晓庆被所谓朋友吸血十年",
+        "onboard_time": 1740202640,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 375072,
+        "num": 375072,
+        "word": "张峻豪感染诺如昏迷了一阵子",
+        "onboard_time": 1740205760,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23271,
+        "num": 357854,
+        "word": "周末雨雪天气正在加载中",
+        "onboard_time": 1740205401,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75322,
+        "num": 351926,
+        "word": "平时熬的夜周末可以补回来",
+        "onboard_time": 1740199160,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 349418,
+        "num": 349418,
+        "word": "哪吒2票房破131亿",
+        "onboard_time": 1740200360,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 259560,
+        "num": 259560,
+        "word": "梁靖崑vs张禹珍",
+        "onboard_time": 1740202280,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235841,
+        "num": 235841,
+        "word": "男子到超市买67张购物卡店员秒报警",
+        "onboard_time": 1740196399,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224456,
+        "num": 224456,
+        "word": "私家侦探提供女子信息致其被丈夫打死",
+        "onboard_time": 1740190759,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211623,
+        "num": 211623,
+        "word": "金圣圭姐姐去世",
+        "onboard_time": 1740204321,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286566,
+        "num": 208967,
+        "word": "李嘉琦回应六姊妹争议",
+        "onboard_time": 1740198921,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203911,
+        "num": 203911,
+        "word": "刘晓庆拒绝游泳的原因",
+        "onboard_time": 1740202640,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198221,
+        "num": 198221,
+        "word": "刘诗诗新剧恐怖氛围拉满",
+        "onboard_time": 1740205819,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176809,
+        "num": 176809,
+        "word": "我家那小子",
+        "onboard_time": 1740201142,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176396,
+        "num": 176396,
+        "word": "DeepSeek给出周末不虚度指南",
+        "onboard_time": 1740200780,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 173356,
+        "num": 173356,
+        "word": "36岁女子直播一夜后猝死",
+        "onboard_time": 1740189621,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171411,
+        "num": 171411,
+        "word": "老师一堂课没收几十个裂空爪",
+        "onboard_time": 1740177853,
+        "rank": 26,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 171407,
+        "num": 171407,
+        "word": "阿诺生第一个孩子时很危险",
+        "onboard_time": 1740193941,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71434,
+        "num": 163107,
+        "word": "陈鹤一高马尾好有战损那味儿",
+        "onboard_time": 1740205039,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52735,
+        "num": 161815,
+        "word": "欧洲或组建3万人部队驻扎乌克兰",
+        "onboard_time": 1740204140,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 160582,
+        "num": 160582,
+        "word": "难哄",
+        "onboard_time": 1740201559,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160566,
+        "num": 160566,
+        "word": "女子5年前买哪吒黄金手镯已翻倍",
+        "onboard_time": 1740201142,
+        "rank": 31,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 102716,
+        "num": 158517,
+        "word": "U20国足vs沙特U20",
+        "onboard_time": 1740204140,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158449,
+        "num": 158449,
+        "word": "哪吒2香港首日票房预售484万",
+        "onboard_time": 1740202160,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152184,
+        "num": 152184,
+        "word": "王楚钦赛后疯狂擦汗",
+        "onboard_time": 1740204019,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147699,
+        "num": 147699,
+        "word": "光渊",
+        "onboard_time": 1740198441,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48788,
+        "num": 145295,
+        "word": "一向节俭的父亲为微短剧充值3万多元",
+        "onboard_time": 1740205701,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145196,
+        "num": 145196,
+        "word": "吴谨言特别出演天堂旅行团",
+        "onboard_time": 1740202940,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20121,
+        "num": 143377,
+        "word": "一人一句话为U20国足加油",
+        "onboard_time": 1740205819,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142475,
+        "num": 142475,
+        "word": "剧版温以凡 窝囊",
+        "onboard_time": 1740203421,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138756,
+        "num": 138756,
+        "word": "杨幂戒掉情绪",
+        "onboard_time": 1740199882,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137075,
+        "num": 137075,
+        "word": "桑延温以凡亲了",
+        "onboard_time": 1740203119,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128112,
+        "num": 135634,
+        "word": "王昶黄雅琼vs任翔宇刘圣书",
+        "onboard_time": 1740201142,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134610,
+        "num": 134610,
+        "word": "这算是敖吒还是哪丙",
+        "onboard_time": 1740205819,
+        "rank": 43,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 130257,
+        "num": 130257,
+        "word": "这还是我认识的姜小果吗",
+        "onboard_time": 1740191600,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127391,
+        "num": 127391,
+        "word": "成都医生做手术用上DeepSeek",
+        "onboard_time": 1740203000,
+        "rank": 45,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 127302,
+        "num": 127302,
+        "word": "李小冉骑的马一边走路一边拉屎",
+        "onboard_time": 1740203241,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125944,
+        "num": 125944,
+        "word": "未患癌刘翔峰却医嘱化疗致九级伤残",
+        "onboard_time": 1740193460,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113487,
+        "num": 113487,
+        "word": "DeepSeek最新预测哪吒2票房",
+        "onboard_time": 1740194779,
+        "rank": 48,
+        "category": "电影,互联网"
+      },
+      {
+        "raw_hot": 111536,
+        "num": 111536,
+        "word": "檀健次陈哲远烽火流金泰国播出",
+        "onboard_time": 1740201202,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记鼓励民企做强做优做大#"
+    }
+  }
+}
