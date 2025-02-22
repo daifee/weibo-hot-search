@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1740216140648,
+  "endTime": 1740216923434,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -2123,6 +2123,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 2461825,
+      "num": 282899,
+      "word": "赵今麦替身",
+      "onboard_time": 1740213801,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2461518,
       "num": 2461518,
       "word": "哪吒2爆火保洁3倍工资还要求加钱",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736042491,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2324326,
-      "num": 460508,
-      "word": "田亮女儿进行下巴后缩矫正",
-      "onboard_time": 1735874540,
-      "rank": 30,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
