@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/02/23 00:25:25 ~ 2025/02/23 06:20:32
+本榜单时间：2025/02/23 00:25:25 ~ 2025/02/23 06:37:11
 </p>
 </blockquote>
 <p>
@@ -279,6 +279,12 @@ EDG对阵G2（热度：192108）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%A1%A3%E5%93%A5%E6%8B%92%E7%BB%9D%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%E4%B9%9F%E4%B8%8D%E4%BB%A3%E8%A8%80%23" target="weibo">
+大衣哥拒绝直播带货也不代言（热度：108498）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB%E7%B4%AB%E7%BA%B1%E9%B2%A8%E7%96%AF%E4%BA%86%23" target="weibo">
 王栎鑫紫纱鲨疯了（热度：107302）
 </a>
@@ -323,12 +329,6 @@ EDG对阵G2（热度：192108）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E7%AB%8B%E5%86%9C%E6%BC%94%E5%94%B1%E4%BC%9A%E5%98%89%E5%AE%BE%E6%9D%A8%E4%B8%9E%E7%90%B3%23" target="weibo">
 陈立农演唱会嘉宾杨丞琳（热度：96449）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%A1%A3%E5%93%A5%E6%8B%92%E7%BB%9D%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%E4%B9%9F%E4%B8%8D%E4%BB%A3%E8%A8%80%23" target="weibo">
-大衣哥拒绝直播带货也不代言（热度：92052）
 </a>
 </li>
 
