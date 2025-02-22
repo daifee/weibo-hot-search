@@ -1,6 +1,6 @@
 {
   "startTime": 1740155309204,
-  "endTime": 1740208783598,
+  "endTime": 1740209754672,
   "band_list": [
     {
       "raw_hot": 4253645,
@@ -67,6 +67,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 965068,
+      "num": 742898,
+      "word": "章若楠演技",
+      "onboard_time": 1740202040,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 926885,
       "num": 926885,
       "word": "难哄 鬼片镜头",
@@ -83,14 +91,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 831969,
-      "num": 642675,
-      "word": "章若楠演技",
-      "onboard_time": 1740202040,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 819996,
       "num": 303845,
       "word": "黄景瑜前妻点名张艺上",
@@ -105,6 +105,14 @@
       "onboard_time": 1740205760,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 744073,
+      "num": 744073,
+      "word": "面试遭73岁董事长猥亵当事人已和解",
+      "onboard_time": 1740206721,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 735256,
@@ -187,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 539193,
+      "num": 539193,
+      "word": "哪吒2破132亿",
+      "onboard_time": 1740207441,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 539056,
       "num": 539056,
       "word": "关于缴纳社保我们采访了10位外卖骑手",
@@ -217,14 +233,6 @@
       "onboard_time": 1740186621,
       "rank": 16,
       "category": "互联网,民生新闻"
-    },
-    {
-      "raw_hot": 519471,
-      "num": 519471,
-      "word": "面试遭73岁董事长猥亵当事人已和解",
-      "onboard_time": 1740206721,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 506728,
@@ -443,14 +451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 332574,
-      "num": 280677,
-      "word": "哪吒2破132亿",
-      "onboard_time": 1740207441,
-      "rank": 14,
-      "category": "电影"
-    },
-    {
       "raw_hot": 330492,
       "num": 199879,
       "word": "韩庚卢靖姗我那漂亮小舅小舅妈",
@@ -628,7 +628,7 @@
     },
     {
       "raw_hot": 216116,
-      "num": 152486,
+      "num": 159000,
       "word": "魏晨初代跳舞白月光杀回来了",
       "onboard_time": 1740207141,
       "rank": 21,
@@ -883,6 +883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170692,
+      "num": 158330,
+      "word": "别的剧夺人妻180天夺前妻",
+      "onboard_time": 1740208940,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169014,
       "num": 169014,
       "word": "赵露思模仿小露思讲话",
@@ -971,6 +979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155419,
+      "num": 155419,
+      "word": "这算是敖吒还是哪丙",
+      "onboard_time": 1740205819,
+      "rank": 43,
+      "category": "民生新闻,电影"
+    },
+    {
       "raw_hot": 154203,
       "num": 154203,
       "word": "邓为辟谣磨裤子",
@@ -1051,6 +1067,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 147374,
+      "num": 147374,
+      "word": "漂白",
+      "onboard_time": 1740209720,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145344,
       "num": 145344,
       "word": "关晓彤未来感镭射风造型",
@@ -1081,6 +1105,14 @@
       "onboard_time": 1740184758,
       "rank": 26,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 143150,
+      "num": 143150,
+      "word": "王楚钦说我还没这么老吧",
+      "onboard_time": 1740208400,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 142781,
@@ -1115,12 +1147,12 @@
       "category": "财经,国际时政"
     },
     {
-      "raw_hot": 141030,
-      "num": 139810,
-      "word": "这算是敖吒还是哪丙",
-      "onboard_time": 1740205819,
-      "rank": 43,
-      "category": "民生新闻,电影"
+      "raw_hot": 141457,
+      "num": 141457,
+      "word": "哪吒2感谢267000000位观众",
+      "onboard_time": 1740209659,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 140686,
@@ -1187,6 +1219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132928,
+      "num": 132928,
+      "word": "六姊妹大姐回怼这16秒",
+      "onboard_time": 1740209480,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132911,
       "num": 301703,
       "word": "孙颖莎把自己打乐了",
@@ -1203,6 +1243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131138,
+      "num": 131138,
+      "word": "余承恩王子璇他在笑她在爆笑",
+      "onboard_time": 1740206479,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131127,
       "num": 131127,
       "word": "苏晓彤剧本围读镜头",
@@ -1211,12 +1259,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129852,
+      "num": 129852,
+      "word": "沈月28岁生日会",
+      "onboard_time": 1740209361,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129473,
       "num": 128889,
       "word": "哪吒2",
       "onboard_time": 1740207980,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 127993,
+      "num": 174127,
+      "word": "王艺迪vs申裕斌",
+      "onboard_time": 1740206420,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 127943,
@@ -1323,20 +1387,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 120558,
-      "num": 120558,
-      "word": "余承恩王子璇他在笑她在爆笑",
-      "onboard_time": 1740206479,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 120374,
       "num": 120374,
       "word": "霸总带娃敷衍到给孩子吃剩饭",
       "onboard_time": 1740189799,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119392,
+      "num": 119392,
+      "word": "U20亚洲杯",
+      "onboard_time": 1740209118,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 117453,
@@ -1435,6 +1499,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104753,
+      "num": 104753,
+      "word": "余承恩给了姐姐最感动的生日",
+      "onboard_time": 1740208219,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 104412,
+      "num": 104412,
+      "word": "王楚钦说和高承睿有过刻骨铭心的经历",
+      "onboard_time": 1740208639,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103631,
       "num": 103631,
       "word": "赵露思小时候演讲视频",
@@ -1451,12 +1531,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 102704,
-      "num": 97499,
-      "word": "余承恩给了姐姐最感动的生日",
-      "onboard_time": 1740208219,
-      "rank": 43,
-      "category": "综艺"
+      "raw_hot": 102541,
+      "num": 102541,
+      "word": "医生称脱屑性肺炎死亡率高",
+      "onboard_time": 1740209539,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 102362,
@@ -1465,14 +1545,6 @@
       "onboard_time": 1740141681,
       "rank": 43,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 101569,
-      "num": 174127,
-      "word": "王艺迪vs申裕斌",
-      "onboard_time": 1740206420,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 100834,
@@ -1512,22 +1584,6 @@
       "word": "梁靖崑3比2胜张禹珍",
       "onboard_time": 1740206899,
       "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 98159,
-      "num": 98159,
-      "word": "王楚钦说我还没这么老吧",
-      "onboard_time": 1740208400,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 97339,
-      "num": 97339,
-      "word": "王楚钦说和高承睿有过刻骨铭心的经历",
-      "onboard_time": 1740208639,
-      "rank": 45,
       "category": "体育"
     },
     {
@@ -1577,6 +1633,14 @@
       "onboard_time": 1740168611,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94724,
+      "num": 94724,
+      "word": "40%宇树老股认购者来自海外",
+      "onboard_time": 1740209659,
+      "rank": 49,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 94159,
@@ -1747,6 +1811,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 60988,
+      "num": 155492,
+      "word": "孙颖莎下轮对阵张本美和",
+      "onboard_time": 1740203661,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 60610,
+      "num": 147433,
+      "word": "U20国足vs沙特U20首发",
+      "onboard_time": 1740208999,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58269,
       "num": 173477,
       "word": "欧洲或组建3万人部队驻扎乌克兰",
@@ -1819,6 +1899,14 @@
       "category": "体育,互联网"
     },
     {
+      "raw_hot": 42514,
+      "num": 147624,
+      "word": "谷江山边江合影",
+      "onboard_time": 1740209298,
+      "rank": 28,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 41656,
       "num": 57320,
       "word": "中方回应乌克兰危机和谈",
@@ -1841,6 +1929,14 @@
       "onboard_time": 1740193100,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 40642,
+      "num": 162100,
+      "word": "王艺迪亚洲杯晋级8强",
+      "onboard_time": 1740209179,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 38945,
@@ -1897,6 +1993,14 @@
       "onboard_time": 1740197240,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30971,
+      "num": 160728,
+      "word": "特朗普上任一个月已经驱逐37660人",
+      "onboard_time": 1740209298,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 27423,
