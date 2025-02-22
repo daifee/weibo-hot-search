@@ -1,0 +1,410 @@
+{
+  "runTime": 1740235004219,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1926109,
+        "num": 1926109,
+        "word": "小蘑菇",
+        "onboard_time": 1740228982,
+        "rank": 0,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 1200572,
+        "num": 1200572,
+        "word": "美女网红救人去世母亲车祸父亲发声",
+        "onboard_time": 1740231686,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 48074,
+        "num": 944169,
+        "word": "破解民营企业融资难各地有新招",
+        "onboard_time": 1740231382,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 928990,
+        "num": 928990,
+        "word": "浙江人实现一户一雪人",
+        "onboard_time": 1740232045,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 922270,
+        "num": 922270,
+        "word": "台当局宣布封杀三所大陆高校遭猛批",
+        "onboard_time": 1740227002,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 767420,
+        "num": 767420,
+        "word": "何炅吐槽的人到底是谁",
+        "onboard_time": 1740222980,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 695643,
+        "num": 695643,
+        "word": "黄灿灿回应",
+        "onboard_time": 1740223100,
+        "rank": 6,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 603568,
+        "num": 603568,
+        "word": "碎玉投珠",
+        "onboard_time": 1740231202,
+        "rank": 7,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 485064,
+        "num": 592902,
+        "word": "乌克兰被曝并无大量稀土",
+        "onboard_time": 1740228382,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122681,
+        "num": 590922,
+        "word": "有商家盗版哪吒周边卖了200万元",
+        "onboard_time": 1740232522,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 590611,
+        "num": 590611,
+        "word": "黄明昊演唱会也没错过杨幂电话",
+        "onboard_time": 1740229222,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 497570,
+        "num": 497570,
+        "word": "王鹤棣肉眼可见的慌乱",
+        "onboard_time": 1740230721,
+        "rank": 11,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 470093,
+        "num": 470093,
+        "word": "哪吒2超134亿",
+        "onboard_time": 1740228323,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 423909,
+        "num": 423909,
+        "word": "670万买的楼王交钱时发现采光差",
+        "onboard_time": 1740226702,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20674,
+        "num": 395342,
+        "word": "去杭州周边追雪的人太多路都堵了",
+        "onboard_time": 1740234323,
+        "rank": 14,
+        "category": "民生新闻,民生新闻"
+      },
+      {
+        "raw_hot": 380409,
+        "num": 380409,
+        "word": "王楚钦获得澳门世界杯资格",
+        "onboard_time": 1740229822,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 352365,
+        "num": 352365,
+        "word": "亚洲杯四强",
+        "onboard_time": 1740233183,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 350439,
+        "num": 350439,
+        "word": "周杰伦五月天唱了难哄主题曲",
+        "onboard_time": 1740227961,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 337340,
+        "num": 337340,
+        "word": "梁靖崑4比2张本智和",
+        "onboard_time": 1740231143,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54792,
+        "num": 322094,
+        "word": "AI也有满嘴跑火车的时候",
+        "onboard_time": 1740233302,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317319,
+        "num": 317319,
+        "word": "体检无异常1年半后确诊癌症晚期",
+        "onboard_time": 1740215421,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72827,
+        "num": 309853,
+        "word": "大衣哥称希望社会忘掉朱之文",
+        "onboard_time": 1740234563,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307894,
+        "num": 307894,
+        "word": "黄明昊杨超越双人舞",
+        "onboard_time": 1740232762,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136724,
+        "num": 287579,
+        "word": "小米15Ultra代号夜神",
+        "onboard_time": 1740231562,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 228110,
+        "num": 276264,
+        "word": "九尾请大家看哪吒",
+        "onboard_time": 1740234382,
+        "rank": 24,
+        "category": "电竞,电影"
+      },
+      {
+        "raw_hot": 48546,
+        "num": 272110,
+        "word": "马库斯希望下次再回北京可以正式捐赠",
+        "onboard_time": 1740233063,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270397,
+        "num": 270397,
+        "word": "天雷滚滚我好怕怕传到联合国",
+        "onboard_time": 1740219379,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 266949,
+        "num": 266949,
+        "word": "黄灿灿未否认制片人是杨晓培",
+        "onboard_time": 1740234201,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266369,
+        "num": 266369,
+        "word": "全体土拨鼠抬头那一刻绷不住了",
+        "onboard_time": 1740214461,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263495,
+        "num": 263495,
+        "word": "熬夜后不要吃完饭再补觉",
+        "onboard_time": 1740228622,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 247762,
+        "num": 247762,
+        "word": "王栎鑫紫纱",
+        "onboard_time": 1740234682,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 232648,
+        "num": 232648,
+        "word": "西芹汁治好了我30年的起床困难症",
+        "onboard_time": 1740221240,
+        "rank": 31,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 212267,
+        "num": 212267,
+        "word": "何炅吐槽丁程鑫",
+        "onboard_time": 1740232644,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45632,
+        "num": 209893,
+        "word": "王家卫解释花样年华为何选张曼玉",
+        "onboard_time": 1740233123,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 207717,
+        "num": 207717,
+        "word": "归棹剧本",
+        "onboard_time": 1740229283,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206491,
+        "num": 206491,
+        "word": "黄灿灿没有任何办法只能在家哭",
+        "onboard_time": 1740234623,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205991,
+        "num": 205991,
+        "word": "秦霄贤直播",
+        "onboard_time": 1740234563,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205151,
+        "num": 205151,
+        "word": "利剑玫瑰下证了",
+        "onboard_time": 1740234081,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202974,
+        "num": 202974,
+        "word": "十个勤天演唱会",
+        "onboard_time": 1740221959,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 194078,
+        "num": 194078,
+        "word": "赵磊发红包",
+        "onboard_time": 1740234382,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198637,
+        "num": 192670,
+        "word": "孙颖莎与刘国梁复盘比赛",
+        "onboard_time": 1740227720,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190624,
+        "num": 190624,
+        "word": "从24岁患癌到37岁重生她用13年自救",
+        "onboard_time": 1740220461,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190017,
+        "num": 190017,
+        "word": "李小冉 贺峻霖小嘴巴闭起来",
+        "onboard_time": 1740232283,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188273,
+        "num": 188273,
+        "word": "小米15Ultra",
+        "onboard_time": 1740234923,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 179520,
+        "num": 179520,
+        "word": "男子冒充女童隔空猥亵40多个女孩",
+        "onboard_time": 1740222800,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175931,
+        "num": 175931,
+        "word": "再世权臣",
+        "onboard_time": 1740223882,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 169703,
+        "num": 169703,
+        "word": "张杰凡希亚合唱Angel",
+        "onboard_time": 1740232102,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168758,
+        "num": 168758,
+        "word": "敖丙传",
+        "onboard_time": 1740220521,
+        "rank": 47,
+        "category": "动漫,电影"
+      },
+      {
+        "raw_hot": 335219,
+        "num": 168451,
+        "word": "刘晓庆回应就不死",
+        "onboard_time": 1740227601,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167741,
+        "num": 167741,
+        "word": "DeepSeek评2025年十大赚钱行业",
+        "onboard_time": 1740227361,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#绿水青山瞰我家#"
+    }
+  }
+}
