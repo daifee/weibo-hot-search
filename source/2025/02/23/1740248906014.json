@@ -1,0 +1,410 @@
+{
+  "runTime": 1740248906014,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 463591,
+        "num": 463591,
+        "word": "看似养胃其实伤胃的4件事",
+        "onboard_time": 1740245295,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 359642,
+        "num": 359642,
+        "word": "国家能源集团官网删除拟录用公示名单",
+        "onboard_time": 1740241938,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12623,
+        "num": 261319,
+        "word": "破解民营企业融资难各地有新招",
+        "onboard_time": 1740231382,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240043,
+        "num": 240043,
+        "word": "敖光",
+        "onboard_time": 1740238281,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 194877,
+        "num": 194877,
+        "word": "女子误踩油门撞入医院致1死1伤",
+        "onboard_time": 1740239658,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191330,
+        "num": 191330,
+        "word": "A怎么会没发现b喜欢c的秘密呢",
+        "onboard_time": 1740236004,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157244,
+        "num": 157244,
+        "word": "黄灿灿回应",
+        "onboard_time": 1740223100,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129919,
+        "num": 129919,
+        "word": "何炅吐槽的人到底是谁",
+        "onboard_time": 1740222980,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116509,
+        "num": 116509,
+        "word": "台当局宣布封杀三所大陆高校遭猛批",
+        "onboard_time": 1740227002,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102902,
+        "num": 102902,
+        "word": "乌克兰被曝并无大量稀土",
+        "onboard_time": 1740228382,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 651671,
+        "num": 99028,
+        "word": "沈月的猫去世了",
+        "onboard_time": 1740241998,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147141,
+        "num": 96852,
+        "word": "美女网红救人去世母亲车祸父亲发声",
+        "onboard_time": 1740231686,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 93132,
+        "num": 93132,
+        "word": "官方回应公开6000多名农民隐私",
+        "onboard_time": 1740246974,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81813,
+        "num": 81813,
+        "word": "你好星期六下期是难哄剧组",
+        "onboard_time": 1740239540,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77564,
+        "num": 77564,
+        "word": "王栎鑫紫纱",
+        "onboard_time": 1740234682,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 76271,
+        "num": 76271,
+        "word": "湖南卫视连发10条李现",
+        "onboard_time": 1740241998,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72372,
+        "num": 72372,
+        "word": "肖战赴约米兰",
+        "onboard_time": 1740238940,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70918,
+        "num": 70918,
+        "word": "小米15Ultra",
+        "onboard_time": 1740234923,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 15172,
+        "num": 68527,
+        "word": "特朗普要通过美乌矿产协议拿回美国的钱",
+        "onboard_time": 1740247274,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 66298,
+        "num": 66298,
+        "word": "哪吒2超134亿",
+        "onboard_time": 1740228323,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 64695,
+        "num": 64695,
+        "word": "已婚女谎称是毒枭女儿诈骗男子160万",
+        "onboard_time": 1740236662,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63577,
+        "num": 63577,
+        "word": "熬夜后不要吃完饭再补觉",
+        "onboard_time": 1740228622,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 60267,
+        "num": 60267,
+        "word": "黄明昊演唱会也没错过杨幂电话",
+        "onboard_time": 1740229222,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 57993,
+        "num": 57993,
+        "word": "白宫希望泽连斯基离开乌克兰",
+        "onboard_time": 1740238521,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 57911,
+        "num": 57911,
+        "word": "大批电动车车主推开隔离墩躲避检查",
+        "onboard_time": 1740241159,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52771,
+        "num": 52771,
+        "word": "花间令收视新高",
+        "onboard_time": 1740235822,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50579,
+        "num": 50579,
+        "word": "红房子听诊器名场面",
+        "onboard_time": 1740242958,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49138,
+        "num": 49138,
+        "word": "刘梓晨版的白鹤少年",
+        "onboard_time": 1740238821,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49041,
+        "num": 49041,
+        "word": "DeepSeek评2025年十大赚钱行业",
+        "onboard_time": 1740227361,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 46050,
+        "num": 46050,
+        "word": "670万买的楼王交钱时发现采光差",
+        "onboard_time": 1740226702,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45886,
+        "num": 45886,
+        "word": "敖丙传",
+        "onboard_time": 1740220521,
+        "rank": 30,
+        "category": "动漫,电影"
+      },
+      {
+        "raw_hot": 45836,
+        "num": 45836,
+        "word": "体检无异常1年半后确诊癌症晚期",
+        "onboard_time": 1740215421,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45573,
+        "num": 45573,
+        "word": "说到红蓝第一个想到的cp",
+        "onboard_time": 1740237621,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 45049,
+        "num": 45049,
+        "word": "十个勤天演唱会",
+        "onboard_time": 1740221959,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16020,
+        "num": 44669,
+        "word": "孙颖莎说邱指导一直鼓励我",
+        "onboard_time": 1740247574,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44475,
+        "num": 44475,
+        "word": "男子冒充女童隔空猥亵40多个女孩",
+        "onboard_time": 1740222800,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42754,
+        "num": 42754,
+        "word": "网红罗大美遇害案28日开庭",
+        "onboard_time": 1740240919,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7757,
+        "num": 42745,
+        "word": "孙颖莎一分分沉着冷静去追",
+        "onboard_time": 1740248773,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42738,
+        "num": 42738,
+        "word": "王鹤棣肉眼可见的慌乱",
+        "onboard_time": 1740230721,
+        "rank": 38,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 40678,
+        "num": 40678,
+        "word": "秦霄贤直播",
+        "onboard_time": 1740234563,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40674,
+        "num": 40674,
+        "word": "孙颖莎vs张本美和",
+        "onboard_time": 1740222380,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39746,
+        "num": 39746,
+        "word": "周杰伦五月天唱了难哄主题曲",
+        "onboard_time": 1740227961,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 39634,
+        "num": 39634,
+        "word": "黄明昊杨超越双人舞",
+        "onboard_time": 1740232762,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 37374,
+        "num": 37374,
+        "word": "天雷滚滚我好怕怕传到联合国",
+        "onboard_time": 1740219379,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 37013,
+        "num": 37013,
+        "word": "全体土拨鼠抬头那一刻绷不住了",
+        "onboard_time": 1740214461,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36525,
+        "num": 36525,
+        "word": "EDG对阵G2",
+        "onboard_time": 1740239240,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 33886,
+        "num": 33886,
+        "word": "王栎鑫紫纱鲨疯了",
+        "onboard_time": 1740237022,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 32944,
+        "num": 33886,
+        "word": "西芹汁治好了我30年的起床困难症",
+        "onboard_time": 1740221240,
+        "rank": 47,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 32050,
+        "num": 33880,
+        "word": "浙江人实现一户一雪人",
+        "onboard_time": 1740232045,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29369,
+        "num": 33874,
+        "word": "谁家剧情侣还没吻上嘴就先破了",
+        "onboard_time": 1740240739,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持把谋打赢作为最大职责#"
+    }
+  }
+}
