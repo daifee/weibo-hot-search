@@ -1,0 +1,410 @@
+{
+  "runTime": 1740192598502,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1423946,
+        "num": 1423946,
+        "word": "美国一公园吸毒者如丧尸实拍",
+        "onboard_time": 1740187698,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1390974,
+        "num": 1390974,
+        "word": "200斤女生cos石矶娘娘被当真",
+        "onboard_time": 1740190458,
+        "rank": 1,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 45550,
+        "num": 848207,
+        "word": "中国空间站首个舱内在轨机器人试验",
+        "onboard_time": 1740146121,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 767906,
+        "num": 767906,
+        "word": "老师一堂课没收几十个裂空爪",
+        "onboard_time": 1740177853,
+        "rank": 3,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 572559,
+        "num": 572559,
+        "word": "有剧集给平台赚了10亿",
+        "onboard_time": 1740187038,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 533109,
+        "num": 533109,
+        "word": "网传宋轶也在白敬亭录制hi6现场",
+        "onboard_time": 1740186979,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 523330,
+        "num": 523330,
+        "word": "DeepSeek创始人实习时月薪已超1.6万",
+        "onboard_time": 1740186621,
+        "rank": 6,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 428510,
+        "num": 428510,
+        "word": "夫妻报考同一岗位下班后开启备战模式",
+        "onboard_time": 1740188238,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 406360,
+        "num": 406360,
+        "word": "私家侦探提供女子信息致其被丈夫打死",
+        "onboard_time": 1740190759,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383000,
+        "num": 383000,
+        "word": "白宫称即将成为美国第51州的加拿大",
+        "onboard_time": 1740184518,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 713568,
+        "num": 364608,
+        "word": "36岁女子直播一夜后猝死",
+        "onboard_time": 1740189621,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 633893,
+        "num": 354693,
+        "word": "麦琳cos袁湘琴",
+        "onboard_time": 1740186979,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 484557,
+        "num": 348643,
+        "word": "女子生日收万元花束20天后发霉",
+        "onboard_time": 1740186560,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332204,
+        "num": 332204,
+        "word": "向太透露为何结婚45年未举行过婚礼",
+        "onboard_time": 1740186259,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303625,
+        "num": 303625,
+        "word": "郭品超前女友发文回应分手",
+        "onboard_time": 1740186979,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292972,
+        "num": 292972,
+        "word": "哪吒2票房130亿了",
+        "onboard_time": 1740182958,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 228293,
+        "num": 228293,
+        "word": "陈凯歌说太假了全是套路",
+        "onboard_time": 1740149240,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210483,
+        "num": 210483,
+        "word": "红房子 封神",
+        "onboard_time": 1740186499,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208797,
+        "num": 208797,
+        "word": "张艺兴演唱会加场郑州",
+        "onboard_time": 1740191541,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110067,
+        "num": 199085,
+        "word": "向太喊话向华强补办婚礼",
+        "onboard_time": 1740191900,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226502,
+        "num": 199085,
+        "word": "凭哪吒2票根可免费游多家景区",
+        "onboard_time": 1740152238,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199063,
+        "num": 199063,
+        "word": "00后警察1条朋友圈获264个赞",
+        "onboard_time": 1740191359,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180562,
+        "num": 180562,
+        "word": "DeepSeek分析大学每月1500够花吗",
+        "onboard_time": 1740175751,
+        "rank": 22,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 177253,
+        "num": 177253,
+        "word": "特朗普说乌克兰无牌可打",
+        "onboard_time": 1740186560,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108269,
+        "num": 175656,
+        "word": "eStar跨赛季十七连胜",
+        "onboard_time": 1740189559,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 175260,
+        "num": 175260,
+        "word": "美国新任FBI局长确认",
+        "onboard_time": 1740191180,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 172753,
+        "num": 172753,
+        "word": "国企拟录用名单3名本科生引质疑",
+        "onboard_time": 1740145162,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161461,
+        "num": 161461,
+        "word": "辣目洋子演技",
+        "onboard_time": 1740181756,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161116,
+        "num": 161116,
+        "word": "这还是我认识的姜小果吗",
+        "onboard_time": 1740191600,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18101,
+        "num": 154561,
+        "word": "MAGES开通官微",
+        "onboard_time": 1740191658,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149165,
+        "num": 149165,
+        "word": "邓为辟谣磨裤子",
+        "onboard_time": 1740190220,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145184,
+        "num": 145184,
+        "word": "官方回应一海南游客拒涨价被持刀威胁",
+        "onboard_time": 1740186921,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142781,
+        "num": 142781,
+        "word": "IU朴宝剑新剧正式预告",
+        "onboard_time": 1740190099,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137460,
+        "num": 137460,
+        "word": "张萌谢谢李梦为拍戏放弃大热综艺",
+        "onboard_time": 1740187038,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135168,
+        "num": 135168,
+        "word": "章若楠分手戏演技",
+        "onboard_time": 1740189139,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133787,
+        "num": 133787,
+        "word": "王一博首登001号",
+        "onboard_time": 1740183737,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132096,
+        "num": 132096,
+        "word": "孙颖莎发球失误没忍住笑场",
+        "onboard_time": 1740180554,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127943,
+        "num": 127943,
+        "word": "美一公园夜晚吸毒者聚集行为似僵尸",
+        "onboard_time": 1740188900,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 118167,
+        "num": 118167,
+        "word": "霸总带娃敷衍到给孩子吃剩饭",
+        "onboard_time": 1740189799,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115061,
+        "num": 115061,
+        "word": "哪吒2引得台湾文化界开始反思",
+        "onboard_time": 1740182176,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108221,
+        "num": 108221,
+        "word": "北上",
+        "onboard_time": 1740192141,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104661,
+        "num": 104661,
+        "word": "黄景瑜前妻点名张艺上",
+        "onboard_time": 1740128661,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99700,
+        "num": 99700,
+        "word": "4人喝100多瓶啤酒1人呕吐时坠亡",
+        "onboard_time": 1740147860,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99691,
+        "num": 99691,
+        "word": "我要把真相还给无数中国人民",
+        "onboard_time": 1740186560,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98262,
+        "num": 98262,
+        "word": "饺子导演老乡给扎起了",
+        "onboard_time": 1740184758,
+        "rank": 44,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 95882,
+        "num": 95882,
+        "word": "当故宫猫作为文物的计量单位",
+        "onboard_time": 1740191720,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95065,
+        "num": 95065,
+        "word": "DeepSeek评中国最宜居城市",
+        "onboard_time": 1740118279,
+        "rank": 46,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 94720,
+        "num": 94720,
+        "word": "蒲熠星庞博脑综双强",
+        "onboard_time": 1740192439,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90745,
+        "num": 90745,
+        "word": "特朗普对泽连斯基的羞辱持续升级",
+        "onboard_time": 1740188480,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 86916,
+        "num": 86916,
+        "word": "万斯称泽连斯基侮辱了特朗普",
+        "onboard_time": 1740181816,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央军委主席习近平签署命令#"
+    }
+  }
+}

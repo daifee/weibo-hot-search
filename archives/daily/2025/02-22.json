@@ -1,6 +1,6 @@
 {
   "startTime": 1740155309204,
-  "endTime": 1740189378045,
+  "endTime": 1740192598502,
   "band_list": [
     {
       "raw_hot": 4253645,
@@ -9,6 +9,22 @@
       "onboard_time": 1740186560,
       "rank": 0,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 1423946,
+      "num": 1423946,
+      "word": "美国一公园吸毒者如丧尸实拍",
+      "onboard_time": 1740187698,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1390974,
+      "num": 1390974,
+      "word": "200斤女生cos石矶娘娘被当真",
+      "onboard_time": 1740190458,
+      "rank": 1,
+      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 1334865,
@@ -25,14 +41,6 @@
       "onboard_time": 1740177853,
       "rank": 11,
       "category": "民生新闻,电影"
-    },
-    {
-      "raw_hot": 1022934,
-      "num": 291424,
-      "word": "美国一公园吸毒者如丧尸实拍",
-      "onboard_time": 1740187698,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 976213,
@@ -67,6 +75,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 713568,
+      "num": 364608,
+      "word": "36岁女子直播一夜后猝死",
+      "onboard_time": 1740189621,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 633893,
+      "num": 584655,
+      "word": "麦琳cos袁湘琴",
+      "onboard_time": 1740186979,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 604613,
       "num": 604613,
       "word": "择天记",
@@ -75,12 +99,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 584655,
-      "num": 584655,
-      "word": "麦琳cos袁湘琴",
-      "onboard_time": 1740186979,
-      "rank": 4,
-      "category": "艺人"
+      "raw_hot": 572559,
+      "num": 572559,
+      "word": "有剧集给平台赚了10亿",
+      "onboard_time": 1740187038,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 560153,
@@ -99,12 +123,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 514434,
-      "num": 514434,
+      "raw_hot": 533109,
+      "num": 533109,
       "word": "网传宋轶也在白敬亭录制hi6现场",
       "onboard_time": 1740186979,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 523330,
+      "num": 523330,
+      "word": "DeepSeek创始人实习时月薪已超1.6万",
+      "onboard_time": 1740186621,
+      "rank": 16,
+      "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 484557,
+      "num": 348643,
+      "word": "女子生日收万元花束20天后发霉",
+      "onboard_time": 1740186560,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 484336,
@@ -139,12 +179,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 428510,
+      "num": 428510,
+      "word": "夫妻报考同一岗位下班后开启备战模式",
+      "onboard_time": 1740188238,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 420543,
       "num": 205546,
       "word": "凭哪吒2票根可免费游多家景区",
       "onboard_time": 1740152238,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 406360,
+      "num": 406360,
+      "word": "私家侦探提供女子信息致其被丈夫打死",
+      "onboard_time": 1740190759,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 395936,
@@ -156,7 +212,7 @@
     },
     {
       "raw_hot": 393397,
-      "num": 304872,
+      "num": 332204,
       "word": "向太透露为何结婚45年未举行过婚礼",
       "onboard_time": 1740186259,
       "rank": 13,
@@ -203,22 +259,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 336613,
-      "num": 296678,
-      "word": "有剧集给平台赚了10亿",
-      "onboard_time": 1740187038,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 332961,
-      "num": 290896,
-      "word": "DeepSeek创始人实习时月薪已超1.6万",
-      "onboard_time": 1740186621,
-      "rank": 16,
-      "category": "互联网,民生新闻"
-    },
-    {
       "raw_hot": 320972,
       "num": 320972,
       "word": "宋亚轩重现出国表情包",
@@ -251,14 +291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 290724,
-      "num": 290724,
-      "word": "女子生日收万元花束20天后发霉",
-      "onboard_time": 1740186560,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 258173,
       "num": 258173,
       "word": "Jennie牙钉",
@@ -281,6 +313,22 @@
       "onboard_time": 1740115881,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 210483,
+      "num": 210483,
+      "word": "红房子 封神",
+      "onboard_time": 1740186499,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 208797,
+      "num": 208797,
+      "word": "张艺兴演唱会加场郑州",
+      "onboard_time": 1740191541,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 203693,
@@ -307,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199063,
+      "num": 199063,
+      "word": "00后警察1条朋友圈获264个赞",
+      "onboard_time": 1740191359,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198588,
       "num": 319156,
       "word": "特朗普说乌克兰无牌可打",
@@ -331,12 +387,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 186120,
-      "num": 186120,
-      "word": "夫妻报考同一岗位下班后开启备战模式",
-      "onboard_time": 1740188238,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 175260,
+      "num": 175260,
+      "word": "美国新任FBI局长确认",
+      "onboard_time": 1740191180,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 174347,
@@ -345,6 +401,14 @@
       "onboard_time": 1740138800,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161116,
+      "num": 161116,
+      "word": "这还是我认识的姜小果吗",
+      "onboard_time": 1740191600,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 159191,
@@ -371,12 +435,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 147862,
-      "num": 147862,
-      "word": "红房子 封神",
-      "onboard_time": 1740186499,
-      "rank": 36,
-      "category": "剧集"
+      "raw_hot": 149165,
+      "num": 149165,
+      "word": "邓为辟谣磨裤子",
+      "onboard_time": 1740190220,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 145344,
@@ -387,12 +451,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 145184,
+      "num": 145184,
+      "word": "官方回应一海南游客拒涨价被持刀威胁",
+      "onboard_time": 1740186921,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145142,
       "num": 145142,
       "word": "饺子导演老乡给扎起了",
       "onboard_time": 1740184758,
       "rank": 26,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 142781,
+      "num": 142781,
+      "word": "IU朴宝剑新剧正式预告",
+      "onboard_time": 1740190099,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 142650,
@@ -435,6 +515,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 137460,
+      "num": 137460,
+      "word": "张萌谢谢李梦为拍戏放弃大热综艺",
+      "onboard_time": 1740187038,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136813,
       "num": 136813,
       "word": "什锦 肖战",
@@ -443,20 +531,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 135987,
-      "num": 135987,
-      "word": "张萌谢谢李梦为拍戏放弃大热综艺",
-      "onboard_time": 1740187038,
-      "rank": 29,
-      "category": "综艺"
+      "raw_hot": 135168,
+      "num": 135168,
+      "word": "章若楠分手戏演技",
+      "onboard_time": 1740189139,
+      "rank": 42,
+      "category": "剧集"
     },
     {
-      "raw_hot": 131156,
-      "num": 131156,
+      "raw_hot": 132096,
+      "num": 132096,
       "word": "孙颖莎发球失误没忍住笑场",
       "onboard_time": 1740180554,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127943,
+      "num": 189461,
+      "word": "美一公园夜晚吸毒者聚集行为似僵尸",
+      "onboard_time": 1740188900,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 127830,
@@ -515,6 +611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 118167,
+      "num": 118167,
+      "word": "霸总带娃敷衍到给孩子吃剩饭",
+      "onboard_time": 1740189799,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113667,
       "num": 113667,
       "word": "小行星撞地球概率降了",
@@ -528,6 +632,30 @@
       "word": "白鹿丞磊 莫离",
       "onboard_time": 1740138379,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 110067,
+      "num": 199085,
+      "word": "向太喊话向华强补办婚礼",
+      "onboard_time": 1740191900,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 108269,
+      "num": 175656,
+      "word": "eStar跨赛季十七连胜",
+      "onboard_time": 1740189559,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 108221,
+      "num": 108221,
+      "word": "北上",
+      "onboard_time": 1740192141,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -571,14 +699,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 101956,
-      "num": 101956,
-      "word": "章若楠分手戏演技",
-      "onboard_time": 1740189139,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 100834,
       "num": 100834,
       "word": "孙颖莎失误连忙跟邱贻可解释",
@@ -619,6 +739,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 95882,
+      "num": 95882,
+      "word": "当故宫猫作为文物的计量单位",
+      "onboard_time": 1740191720,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95710,
       "num": 95710,
       "word": "温以凡妈妈人设",
@@ -627,20 +755,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94720,
+      "num": 94720,
+      "word": "蒲熠星庞博脑综双强",
+      "onboard_time": 1740192439,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 93845,
       "num": 93845,
       "word": "养成系的意义在此刻具象化",
       "onboard_time": 1740148281,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 93115,
-      "num": 93115,
-      "word": "官方回应一海南游客拒涨价被持刀威胁",
-      "onboard_time": 1740186921,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89411,
@@ -867,14 +995,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 22057,
-      "num": 189461,
-      "word": "美一公园夜晚吸毒者聚集行为似僵尸",
-      "onboard_time": 1740188900,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 19696,
       "num": 66499,
       "word": "中国国乒2月22日亚洲杯赛程",
@@ -905,6 +1025,14 @@
       "onboard_time": 1740172031,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18101,
+      "num": 154561,
+      "word": "MAGES开通官微",
+      "onboard_time": 1740191658,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 18016,
