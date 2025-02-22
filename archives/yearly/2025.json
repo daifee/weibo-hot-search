@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1740209754672,
+  "endTime": 1740212769187,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -401,6 +401,14 @@
       "onboard_time": 1736001995,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 8468397,
+      "num": 8468397,
+      "word": "漂白 替身",
+      "onboard_time": 1740210141,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 8395718,
@@ -2392,14 +2400,6 @@
       "word": "田亮女儿进行下巴后缩矫正",
       "onboard_time": 1735874540,
       "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 2324052,
-      "num": 2324052,
-      "word": "十个勤天开场",
-      "onboard_time": 1737722299,
-      "rank": 39,
       "category": "综艺"
     }
   ],

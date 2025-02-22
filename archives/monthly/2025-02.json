@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740209754672,
+  "endTime": 1740212769187,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -169,6 +169,14 @@
       "onboard_time": 1739775141,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 8468397,
+      "num": 8468397,
+      "word": "漂白 替身",
+      "onboard_time": 1740210141,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 8226159,
@@ -2001,6 +2009,14 @@
       "onboard_time": 1740187698,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1759479,
+      "num": 647308,
+      "word": "漂白",
+      "onboard_time": 1740209720,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 1752922,
@@ -8043,6 +8059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 721988,
+      "num": 539193,
+      "word": "哪吒2破132亿",
+      "onboard_time": 1740207441,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 721922,
       "num": 579540,
       "word": "仙侠剧男主怎么就不能是40岁了",
@@ -9939,6 +9963,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 610135,
+      "num": 610135,
+      "word": "Capper 背刺",
+      "onboard_time": 1740211100,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 608663,
       "num": 317726,
       "word": "女医生疑辱骂患者不得好死",
@@ -11521,14 +11553,6 @@
       "onboard_time": 1739371342,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 539193,
-      "num": 539193,
-      "word": "哪吒2破132亿",
-      "onboard_time": 1740207441,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 539086,
@@ -14123,6 +14147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 450198,
+      "num": 237480,
+      "word": "少女花150元文身全部清洗需76.9万",
+      "onboard_time": 1740210141,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 449871,
       "num": 434774,
       "word": "刘亦菲李宰汉聚会合照",
@@ -14225,6 +14257,14 @@
       "onboard_time": 1739153899,
       "rank": 21,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 447186,
+      "num": 255975,
+      "word": "权志龙柳智敏同框",
+      "onboard_time": 1740210440,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 447132,
@@ -14577,6 +14617,14 @@
       "onboard_time": 1739559015,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 435252,
+      "num": 251675,
+      "word": "皓衣行",
+      "onboard_time": 1740210378,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 434832,
@@ -16496,6 +16544,14 @@
       "word": "王楚钦3比0卡尔伯格",
       "onboard_time": 1738845504,
       "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 380767,
+      "num": 380767,
+      "word": "王楚钦说我还没这么老吧",
+      "onboard_time": 1740208400,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -19883,6 +19939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 310339,
+      "num": 241350,
+      "word": "医生称脱屑性肺炎死亡率高",
+      "onboard_time": 1740209539,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 310297,
       "num": 310297,
       "word": "湖南一警车被精神病人开走连撞3车",
@@ -22433,6 +22497,14 @@
       "onboard_time": 1739968580,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 271646,
+      "num": 271646,
+      "word": "俄或同意动用3000亿美元重建乌克兰",
+      "onboard_time": 1740210920,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 271436,
@@ -25363,6 +25435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 238233,
+      "num": 238233,
+      "word": "U20国足vs沙特U20",
+      "onboard_time": 1740204140,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 238217,
       "num": 176292,
       "word": "哪吒2断层领跑",
@@ -25753,6 +25833,14 @@
       "onboard_time": 1739064020,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 234800,
+      "num": 234800,
+      "word": "某国空军一等兵泄密还鼓励网友破解",
+      "onboard_time": 1740211641,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 234752,
@@ -27171,6 +27259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223115,
+      "num": 223115,
+      "word": "赵露思陈哲远偷偷藏不住全站热度第三",
+      "onboard_time": 1740211581,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223023,
       "num": 211658,
       "word": "河南一影院一天88场哪吒2",
@@ -28268,7 +28364,7 @@
     },
     {
       "raw_hot": 216116,
-      "num": 159000,
+      "num": 171103,
       "word": "魏晨初代跳舞白月光杀回来了",
       "onboard_time": 1740207141,
       "rank": 21,
@@ -30779,6 +30875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 202754,
+      "num": 202754,
+      "word": "于正说五福临门爆了",
+      "onboard_time": 1740211641,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202684,
       "num": 202684,
       "word": "吴磊晒猫爪汤圆",
@@ -32577,6 +32681,14 @@
       "onboard_time": 1739170160,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195407,
+      "num": 195407,
+      "word": "蔡明用王一博的经历鼓励牛在在",
+      "onboard_time": 1740209841,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 195327,
@@ -37067,6 +37179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 175319,
+      "num": 162777,
+      "word": "真的可以普及一下单片装的卫生巾",
+      "onboard_time": 1740211641,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 175297,
       "num": 182953,
       "word": "王曼昱止步WTT新加坡大满贯16强",
@@ -37617,6 +37737,14 @@
       "onboard_time": 1738620733,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 172262,
+      "num": 172262,
+      "word": "网传左肩有你日本播出",
+      "onboard_time": 1740211161,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 172246,
@@ -43235,6 +43363,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 148723,
+      "num": 148723,
+      "word": "菲方闯入中国领空前关闭飞机信号",
+      "onboard_time": 1740211278,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 148610,
       "num": 148610,
       "word": "谢娜说我打了何炅",
@@ -43448,14 +43584,6 @@
       "word": "国产剧终于有不靠男主救的女主了",
       "onboard_time": 1739086160,
       "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 147374,
-      "num": 147374,
-      "word": "漂白",
-      "onboard_time": 1740209720,
-      "rank": 30,
       "category": "剧集"
     },
     {
@@ -44507,6 +44635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143483,
+      "num": 143483,
+      "word": "宋雨琦好明媚",
+      "onboard_time": 1740211940,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143482,
       "num": 143482,
       "word": "华筝票房海报字是张文昕写的",
@@ -44609,14 +44745,6 @@
       "onboard_time": 1738495520,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 143150,
-      "num": 143150,
-      "word": "王楚钦说我还没这么老吧",
-      "onboard_time": 1740208400,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 143114,
@@ -45025,6 +45153,14 @@
       "onboard_time": 1739094499,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141359,
+      "num": 141359,
+      "word": "第一视角看雪崩压迫感十足",
+      "onboard_time": 1740210679,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141257,
@@ -46411,6 +46547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134793,
+      "num": 134793,
+      "word": "六姊妹大姐回怼这16秒",
+      "onboard_time": 1740209480,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134735,
       "num": 252710,
       "word": "领克900将首搭英伟达Thor芯片",
@@ -46763,14 +46907,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 132928,
-      "num": 132928,
-      "word": "六姊妹大姐回怼这16秒",
-      "onboard_time": 1740209480,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 132911,
       "num": 301703,
       "word": "孙颖莎把自己打乐了",
@@ -46897,6 +47033,14 @@
       "onboard_time": 1739442740,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 132365,
+      "num": 132365,
+      "word": "爬楼梯真的是零成本瘦腿",
+      "onboard_time": 1740210979,
+      "rank": 41,
+      "category": "运动健身"
     },
     {
       "raw_hot": 132214,
@@ -47033,6 +47177,14 @@
       "onboard_time": 1738822525,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131548,
+      "num": 131548,
+      "word": "沈月28岁生日会",
+      "onboard_time": 1740209361,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 131506,
@@ -47505,14 +47657,6 @@
       "onboard_time": 1738592132,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 129852,
-      "num": 129852,
-      "word": "沈月28岁生日会",
-      "onboard_time": 1740209361,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 129799,
@@ -50923,6 +51067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112249,
+      "num": 147433,
+      "word": "U20国足vs沙特U20首发",
+      "onboard_time": 1740208999,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112244,
       "num": 112244,
       "word": "谢楠也来祝贺吒儿了",
@@ -52348,7 +52500,7 @@
     },
     {
       "raw_hot": 104412,
-      "num": 104412,
+      "num": 146487,
       "word": "王楚钦说和高承睿有过刻骨铭心的经历",
       "onboard_time": 1740208639,
       "rank": 45,
@@ -52691,14 +52843,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102716,
-      "num": 185388,
-      "word": "U20国足vs沙特U20",
-      "onboard_time": 1740204140,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 102711,
       "num": 102711,
       "word": "中国短道速滑队发布公告",
@@ -52753,14 +52897,6 @@
       "onboard_time": 1738994489,
       "rank": 2,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102541,
-      "num": 102541,
-      "word": "医生称脱屑性肺炎死亡率高",
-      "onboard_time": 1740209539,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 102516,
@@ -55121,6 +55257,14 @@
       "onboard_time": 1739850081,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86927,
+      "num": 263557,
+      "word": "雪崩亲历者称4公里距离30秒就到眼前",
+      "onboard_time": 1740210619,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86919,
@@ -57963,6 +58107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66049,
+      "num": 108523,
+      "word": "王楚钦提前看对手比赛",
+      "onboard_time": 1740209059,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65975,
       "num": 299793,
       "word": "6岁小神兽为古老秧歌注入新精神",
@@ -58731,14 +58883,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 60610,
-      "num": 147433,
-      "word": "U20国足vs沙特U20首发",
-      "onboard_time": 1740208999,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 60581,
       "num": 59569,
       "word": "张继科回应吴敬平博文",
@@ -58961,6 +59105,14 @@
       "onboard_time": 1739375481,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 59461,
+      "num": 114523,
+      "word": "TT对战JDG",
+      "onboard_time": 1740211342,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 59457,
@@ -60979,6 +61131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 48085,
+      "num": 239667,
+      "word": "特朗普已把乌克兰放进菜单",
+      "onboard_time": 1740211761,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 48020,
       "num": 177429,
       "word": "吉利银河2周年23亿宠粉",
@@ -61833,6 +61993,14 @@
       "onboard_time": 1739794460,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 42722,
+      "num": 248923,
+      "word": "美邮政局称特朗普命令违宪",
+      "onboard_time": 1740211641,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 42664,
