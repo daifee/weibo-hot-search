@@ -1,6 +1,6 @@
 {
   "startTime": 1740155309204,
-  "endTime": 1740199336429,
+  "endTime": 1740201656955,
   "band_list": [
     {
       "raw_hot": 4253645,
@@ -57,6 +57,14 @@
       "onboard_time": 1740147922,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 866712,
+      "num": 362731,
+      "word": "官方通报2岁男童托育园午睡身亡",
+      "onboard_time": 1740198498,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 819996,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 527369,
-      "num": 372727,
+      "num": 521360,
       "word": "男子到超市买67张购物卡店员秒报警",
       "onboard_time": 1740196399,
       "rank": 12,
@@ -169,6 +177,14 @@
       "onboard_time": 1740186621,
       "rank": 16,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 499711,
+      "num": 499711,
+      "word": "林高远vs张本智和",
+      "onboard_time": 1740197301,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 484557,
@@ -291,6 +307,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 362388,
+      "num": 362388,
+      "word": "关于缴纳社保我们采访了10位外卖骑手",
+      "onboard_time": 1740199819,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 356323,
       "num": 356323,
       "word": "在房产证上加名也可能无法分到房产",
@@ -323,12 +347,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 351728,
-      "num": 351728,
-      "word": "官方通报2岁男童托育园午睡身亡",
-      "onboard_time": 1740198498,
-      "rank": 13,
-      "category": "民生新闻"
+      "raw_hot": 350900,
+      "num": 363816,
+      "word": "哪吒2票房破131亿",
+      "onboard_time": 1740200360,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 321329,
@@ -379,11 +403,27 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 298317,
+      "num": 261910,
+      "word": "李嘉琦回应六姊妹争议",
+      "onboard_time": 1740198921,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 280893,
       "num": 280893,
       "word": "王楚钦vs高承睿",
       "onboard_time": 1740192619,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 258933,
+      "num": 258933,
+      "word": "林高远1比3张本智和",
+      "onboard_time": 1740200542,
+      "rank": 21,
       "category": "体育"
     },
     {
@@ -395,12 +435,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 255526,
+      "num": 255526,
+      "word": "亚洲杯",
+      "onboard_time": 1740200901,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 251039,
       "num": 251039,
       "word": "宋伊人演我替别人尴尬",
       "onboard_time": 1740194541,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 249026,
+      "num": 263938,
+      "word": "光渊",
+      "onboard_time": 1740198441,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 247016,
@@ -411,12 +467,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 243502,
-      "num": 243502,
-      "word": "林高远vs张本智和",
-      "onboard_time": 1740197301,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 243663,
+      "num": 304431,
+      "word": "吒儿一亿一亿往上冲",
+      "onboard_time": 1740196759,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 231274,
@@ -433,14 +489,6 @@
       "onboard_time": 1740198799,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 225277,
-      "num": 304431,
-      "word": "吒儿一亿一亿往上冲",
-      "onboard_time": 1740196759,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 215232,
@@ -515,6 +563,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201065,
+      "num": 201065,
+      "word": "杨幂戒掉情绪",
+      "onboard_time": 1740199882,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 200495,
+      "num": 200495,
+      "word": "檀健次陈哲远烽火流金泰国播出",
+      "onboard_time": 1740201202,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200164,
       "num": 200164,
       "word": "贺美琦 时代峰峻",
@@ -539,12 +603,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 198141,
-      "num": 185284,
-      "word": "光渊",
-      "onboard_time": 1740198441,
-      "rank": 45,
-      "category": "剧集"
+      "raw_hot": 196596,
+      "num": 196596,
+      "word": "我家那小子",
+      "onboard_time": 1740201142,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 196317,
@@ -579,6 +643,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192704,
+      "num": 192704,
+      "word": "女子5年前买哪吒黄金手镯已翻倍",
+      "onboard_time": 1740201142,
+      "rank": 32,
+      "category": "民生新闻,电影"
+    },
+    {
+      "raw_hot": 188959,
+      "num": 188959,
+      "word": "石洵瑶0比3伊藤美诚",
+      "onboard_time": 1740200182,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186125,
       "num": 186125,
       "word": "哪吒2票房129亿",
@@ -593,6 +673,14 @@
       "onboard_time": 1740197240,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181240,
+      "num": 181240,
+      "word": "难哄",
+      "onboard_time": 1740201559,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 179124,
@@ -633,6 +721,14 @@
       "onboard_time": 1740192141,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164394,
+      "num": 164394,
+      "word": "医生称DeepSeek让看病效率更高",
+      "onboard_time": 1740198141,
+      "rank": 43,
+      "category": "健康医疗,互联网"
     },
     {
       "raw_hot": 162539,
@@ -683,14 +779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 157035,
-      "num": 157035,
-      "word": "医生称DeepSeek让看病效率更高",
-      "onboard_time": 1740198141,
-      "rank": 43,
-      "category": "健康医疗,互联网"
-    },
-    {
       "raw_hot": 156303,
       "num": 156303,
       "word": "孙颖莎爆冲球把邱教练肚子打红",
@@ -705,6 +793,14 @@
       "onboard_time": 1740190220,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154175,
+      "num": 154175,
+      "word": "王昶黄雅琼vs任翔宇刘圣书",
+      "onboard_time": 1740201142,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 153503,
@@ -736,6 +832,14 @@
       "word": "孙颖莎发球失误没忍住笑场",
       "onboard_time": 1740180554,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 150593,
+      "num": 150593,
+      "word": "林昀儒3比0松岛辉空",
+      "onboard_time": 1740200601,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -827,6 +931,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 138766,
+      "num": 138766,
+      "word": "中药泡脚包暗藏病菌越用越伤身",
+      "onboard_time": 1740196519,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 137460,
       "num": 137460,
       "word": "张萌谢谢李梦为拍戏放弃大热综艺",
@@ -843,20 +955,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132911,
+      "num": 301703,
+      "word": "孙颖莎把自己打乐了",
+      "onboard_time": 1740198860,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132653,
       "num": 154937,
       "word": "孙颖莎vs李恩惠",
       "onboard_time": 1740194720,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 129792,
-      "num": 129792,
-      "word": "李嘉琦回应六姊妹争议",
-      "onboard_time": 1740198921,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 127943,
@@ -891,12 +1003,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 125797,
-      "num": 125797,
-      "word": "中药泡脚包暗藏病菌越用越伤身",
-      "onboard_time": 1740196519,
-      "rank": 40,
-      "category": "健康医疗"
+      "raw_hot": 126163,
+      "num": 199949,
+      "word": "于正 我们的造型太太太好看了",
+      "onboard_time": 1740201080,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 125317,
@@ -963,20 +1075,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 120341,
-      "num": 301703,
-      "word": "孙颖莎把自己打乐了",
-      "onboard_time": 1740198860,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 113667,
       "num": 113667,
       "word": "小行星撞地球概率降了",
       "onboard_time": 1740149781,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111938,
+      "num": 111938,
+      "word": "颖儿六姊妹精装脑子精装嘴",
+      "onboard_time": 1740199882,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 111452,
@@ -1323,6 +1435,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 41092,
+      "num": 248363,
+      "word": "智搜DS锐评独行侠给东契奇打码",
+      "onboard_time": 1740200481,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 41038,
       "num": 108694,
       "word": "微博智搜热点创作大赛",
@@ -1371,12 +1491,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 34636,
+      "num": 362823,
+      "word": "DeepSeek给出周末不虚度指南",
+      "onboard_time": 1740200780,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 31633,
       "num": 304918,
       "word": "专家解读平台给骑手上社保",
       "onboard_time": 1740197240,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29938,
+      "num": 306798,
+      "word": "特朗普称美乌矿产协议接近达成",
+      "onboard_time": 1740200780,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 27423,
