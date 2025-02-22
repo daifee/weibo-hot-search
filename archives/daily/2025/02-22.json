@@ -1,6 +1,6 @@
 {
   "startTime": 1740155309204,
-  "endTime": 1740201656955,
+  "endTime": 1740202664334,
   "band_list": [
     {
       "raw_hot": 4253645,
@@ -59,8 +59,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 866712,
-      "num": 362731,
+      "raw_hot": 903079,
+      "num": 365981,
       "word": "官方通报2岁男童托育园午睡身亡",
       "onboard_time": 1740198498,
       "rank": 13,
@@ -155,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 539056,
+      "num": 539056,
+      "word": "关于缴纳社保我们采访了10位外卖骑手",
+      "onboard_time": 1740199819,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 533109,
       "num": 533109,
       "word": "网传宋轶也在白敬亭录制hi6现场",
@@ -177,6 +185,14 @@
       "onboard_time": 1740186621,
       "rank": 16,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 506728,
+      "num": 506728,
+      "word": "哪吒2票房破131亿",
+      "onboard_time": 1740200360,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 499711,
@@ -209,6 +225,14 @@
       "onboard_time": 1740186979,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 476794,
+      "num": 476794,
+      "word": "章若楠演技 木头",
+      "onboard_time": 1740202040,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 474848,
@@ -283,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 392752,
+      "num": 392752,
+      "word": "难哄 鬼片镜头",
+      "onboard_time": 1740201740,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 382194,
       "num": 382194,
       "word": "官方回应有智力缺陷孩子在校被霸凌",
@@ -305,14 +337,6 @@
       "onboard_time": 1740118279,
       "rank": 12,
       "category": "互联网,民生新闻"
-    },
-    {
-      "raw_hot": 362388,
-      "num": 362388,
-      "word": "关于缴纳社保我们采访了10位外卖骑手",
-      "onboard_time": 1740199819,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 356323,
@@ -347,14 +371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 350900,
-      "num": 363816,
-      "word": "哪吒2票房破131亿",
-      "onboard_time": 1740200360,
-      "rank": 8,
-      "category": "电影"
-    },
-    {
       "raw_hot": 321329,
       "num": 397736,
       "word": "德军工企业CEO说欧洲只能坐小孩那桌",
@@ -377,6 +393,14 @@
       "onboard_time": 1740175751,
       "rank": 41,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 306664,
+      "num": 306664,
+      "word": "光渊",
+      "onboard_time": 1740198441,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 304081,
@@ -451,14 +475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 249026,
-      "num": 263938,
-      "word": "光渊",
-      "onboard_time": 1740198441,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 247016,
       "num": 247016,
       "word": "王一博首登001号",
@@ -475,6 +491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 239271,
+      "num": 239271,
+      "word": "我家那小子",
+      "onboard_time": 1740201142,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231274,
       "num": 231274,
       "word": "无限暖暖发光发亮黑化版",
@@ -489,6 +513,14 @@
       "onboard_time": 1740198799,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 222299,
+      "num": 222299,
+      "word": "难哄",
+      "onboard_time": 1740201559,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 215232,
@@ -523,6 +555,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 206569,
+      "num": 206569,
+      "word": "刘晓庆被所谓朋友吸血十年",
+      "onboard_time": 1740202640,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204307,
       "num": 204307,
       "word": "肖战一起拍下按钮",
@@ -547,6 +587,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203164,
+      "num": 203164,
+      "word": "檀健次陈哲远烽火流金泰国播出",
+      "onboard_time": 1740201202,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 202754,
+      "num": 202754,
+      "word": "烽火流金",
+      "onboard_time": 1740202579,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202672,
       "num": 202672,
       "word": "孙颖莎晋级亚洲杯8强",
@@ -563,20 +619,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201512,
+      "num": 201512,
+      "word": "刘晓庆拒绝游泳的原因",
+      "onboard_time": 1740202640,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201065,
       "num": 201065,
       "word": "杨幂戒掉情绪",
       "onboard_time": 1740199882,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 200495,
-      "num": 200495,
-      "word": "檀健次陈哲远烽火流金泰国播出",
-      "onboard_time": 1740201202,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 200164,
@@ -601,14 +657,6 @@
       "onboard_time": 1740186560,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 196596,
-      "num": 196596,
-      "word": "我家那小子",
-      "onboard_time": 1740201142,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 196317,
@@ -675,14 +723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 181240,
-      "num": 181240,
-      "word": "难哄",
-      "onboard_time": 1740201559,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 179124,
       "num": 179124,
       "word": "美国新任FBI局长确认",
@@ -697,6 +737,14 @@
       "onboard_time": 1740189139,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176133,
+      "num": 176133,
+      "word": "哪吒2香港首日票房预售484万",
+      "onboard_time": 1740202160,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 174347,
@@ -745,6 +793,14 @@
       "onboard_time": 1740193399,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160472,
+      "num": 199949,
+      "word": "于正 我们的造型太太太好看了",
+      "onboard_time": 1740201080,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 159191,
@@ -923,6 +979,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 140034,
+      "num": 140034,
+      "word": "中药泡脚包暗藏病菌越用越伤身",
+      "onboard_time": 1740196519,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 139627,
       "num": 139627,
       "word": "帝师 aka",
@@ -931,12 +995,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 138766,
-      "num": 138766,
-      "word": "中药泡脚包暗藏病菌越用越伤身",
-      "onboard_time": 1740196519,
-      "rank": 40,
-      "category": "健康医疗"
+      "raw_hot": 139508,
+      "num": 362823,
+      "word": "DeepSeek给出周末不虚度指南",
+      "onboard_time": 1740200780,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 137460,
@@ -955,6 +1019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133293,
+      "num": 133293,
+      "word": "不要放过这个王楚钦",
+      "onboard_time": 1740202219,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132911,
       "num": 301703,
       "word": "孙颖莎把自己打乐了",
@@ -969,6 +1041,14 @@
       "onboard_time": 1740194720,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131127,
+      "num": 131127,
+      "word": "苏晓彤剧本围读镜头",
+      "onboard_time": 1740201801,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 127943,
@@ -1001,14 +1081,6 @@
       "onboard_time": 1740192439,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 126163,
-      "num": 199949,
-      "word": "于正 我们的造型太太太好看了",
-      "onboard_time": 1740201080,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 125317,
@@ -1081,6 +1153,14 @@
       "onboard_time": 1740149781,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112234,
+      "num": 176561,
+      "word": "张真源的一段有趣工作记录",
+      "onboard_time": 1740202579,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 111938,
@@ -1339,6 +1419,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 72290,
+      "num": 202808,
+      "word": "王曼昱火速进8强",
+      "onboard_time": 1740202280,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 71228,
+      "num": 306798,
+      "word": "特朗普称美乌矿产协议接近达成",
+      "onboard_time": 1740200780,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 67705,
       "num": 67705,
       "word": "难哄删除争议镜头",
@@ -1401,6 +1497,14 @@
       "onboard_time": 1740151518,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51441,
+      "num": 177919,
+      "word": "天问二号为何要拜访这颗小行星",
+      "onboard_time": 1740200000,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 48013,
@@ -1491,14 +1595,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 34636,
-      "num": 362823,
-      "word": "DeepSeek给出周末不虚度指南",
-      "onboard_time": 1740200780,
-      "rank": 9,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 31633,
       "num": 304918,
       "word": "专家解读平台给骑手上社保",
@@ -1507,12 +1603,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 29938,
-      "num": 306798,
-      "word": "特朗普称美乌矿产协议接近达成",
-      "onboard_time": 1740200780,
-      "rank": 14,
-      "category": "国际时政"
+      "raw_hot": 30075,
+      "num": 239301,
+      "word": "事业单位回应招人照护老人如厕沐浴",
+      "onboard_time": 1740202160,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27423,
@@ -1521,6 +1617,14 @@
       "onboard_time": 1740158834,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 27247,
+      "num": 202873,
+      "word": "梁靖崑vs张禹珍",
+      "onboard_time": 1740202280,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 24180,
@@ -1676,6 +1780,9 @@
     },
     {
       "word": "#总书记鼓励民企做强做优做大#"
+    },
+    {
+      "word": "#努力推动我军建设高质量发展#"
     }
   ]
 }
