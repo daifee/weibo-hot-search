@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1740205884929,
+  "endTime": 1740206664317,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -756,7 +756,7 @@
     },
     {
       "raw_hot": 1611088,
-      "num": 722665,
+      "num": 739690,
       "word": "章若楠演技 木头",
       "onboard_time": 1740202040,
       "rank": 5,
@@ -3099,6 +3099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 641285,
+      "num": 472516,
+      "word": "张峻豪感染诺如昏迷了一阵子",
+      "onboard_time": 1740205760,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 639799,
       "num": 406289,
       "word": "哪吒2香港首映时间定了",
@@ -4020,7 +4028,7 @@
     },
     {
       "raw_hot": 502625,
-      "num": 440305,
+      "num": 471322,
       "word": "烽火流金",
       "onboard_time": 1740202579,
       "rank": 30,
@@ -4259,12 +4267,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 477292,
+      "num": 384620,
+      "word": "刘晓庆被所谓朋友吸血十年",
+      "onboard_time": 1740202640,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 476297,
       "num": 531100,
       "word": "周星驰经纪人否认郑某峰投资换角色",
       "onboard_time": 1740022100,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 475420,
+      "num": 475420,
+      "word": "事业单位回应招人照护老人如厕沐浴",
+      "onboard_time": 1740202160,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 475294,
@@ -4465,6 +4489,14 @@
       "onboard_time": 1739847498,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 459631,
+      "num": 459631,
+      "word": "卖AI教程4天赚了20万元",
+      "onboard_time": 1740203241,
+      "rank": 8,
+      "category": "互联网"
     },
     {
       "raw_hot": 458146,
@@ -4683,14 +4715,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 440476,
-      "num": 440476,
-      "word": "事业单位回应招人照护老人如厕沐浴",
-      "onboard_time": 1740202160,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 440381,
       "num": 349713,
       "word": "原来拍吻戏真的会亲到肿",
@@ -4713,14 +4737,6 @@
       "onboard_time": 1739696658,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 439716,
-      "num": 439716,
-      "word": "卖AI教程4天赚了20万元",
-      "onboard_time": 1740203241,
-      "rank": 8,
-      "category": "互联网"
     },
     {
       "raw_hot": 439219,
@@ -4857,14 +4873,6 @@
       "onboard_time": 1739700739,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 424224,
-      "num": 384620,
-      "word": "刘晓庆被所谓朋友吸血十年",
-      "onboard_time": 1740202640,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 423019,
@@ -5505,14 +5513,6 @@
       "onboard_time": 1739766021,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 375072,
-      "num": 375072,
-      "word": "张峻豪感染诺如昏迷了一阵子",
-      "onboard_time": 1740205760,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 374899,
@@ -6419,6 +6419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 317568,
+      "num": 199879,
+      "word": "韩庚卢靖姗我那漂亮小舅小舅妈",
+      "onboard_time": 1740206060,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 316852,
       "num": 316852,
       "word": "申小豹仿妆",
@@ -7163,6 +7171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 278520,
+      "num": 278520,
+      "word": "金圣圭姐姐去世",
+      "onboard_time": 1740204321,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 278227,
       "num": 278227,
       "word": "魏大勋听不得马耳他三个字",
@@ -7435,6 +7451,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 266535,
+      "num": 266535,
+      "word": "梁靖崑vs张禹珍",
+      "onboard_time": 1740202280,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 265940,
       "num": 265940,
       "word": "林高远14比16赵大成",
@@ -7553,14 +7577,6 @@
       "onboard_time": 1739866702,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 259560,
-      "num": 259560,
-      "word": "梁靖崑vs张禹珍",
-      "onboard_time": 1740202280,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 259192,
@@ -9339,14 +9355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 211623,
-      "num": 211623,
-      "word": "金圣圭姐姐去世",
-      "onboard_time": 1740204321,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 211559,
       "num": 211559,
       "word": "崔太洋 鼻子",
@@ -10193,6 +10201,14 @@
       "onboard_time": 1739847799,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 199198,
+      "num": 199198,
+      "word": "女子跳崖被心上人飞扑拦下",
+      "onboard_time": 1740205881,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 199189,
@@ -11265,6 +11281,14 @@
       "onboard_time": 1739931260,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185179,
+      "num": 185179,
+      "word": "KYA出道前玩张元英吃草莓梗",
+      "onboard_time": 1740206118,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 185075,
@@ -14275,6 +14299,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 139998,
+      "num": 139998,
+      "word": "徐若晗新剧被男友PUA",
+      "onboard_time": 1740206541,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139940,
       "num": 139940,
       "word": "五福临门",
@@ -14297,6 +14329,14 @@
       "onboard_time": 1739700979,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 139810,
+      "num": 139810,
+      "word": "这算是敖吒还是哪丙",
+      "onboard_time": 1740205819,
+      "rank": 43,
+      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 139786,
@@ -14625,14 +14665,6 @@
       "onboard_time": 1740032662,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 134610,
-      "num": 134610,
-      "word": "这算是敖吒还是哪丙",
-      "onboard_time": 1740205819,
-      "rank": 43,
-      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 134560,
@@ -15491,6 +15523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120558,
+      "num": 120558,
+      "word": "余承恩王子璇他在笑她在爆笑",
+      "onboard_time": 1740206479,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120379,
       "num": 120379,
       "word": "杨紫 西班牙的回忆",
@@ -15649,6 +15689,14 @@
       "onboard_time": 1740040763,
       "rank": 44,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 117453,
+      "num": 117453,
+      "word": "陈幸同3比2早田希娜",
+      "onboard_time": 1740205881,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 117156,
@@ -16308,7 +16356,7 @@
     },
     {
       "raw_hot": 102716,
-      "num": 158517,
+      "num": 185388,
       "word": "U20国足vs沙特U20",
       "onboard_time": 1740204140,
       "rank": 32,
@@ -18291,6 +18339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59112,
+      "num": 200402,
+      "word": "一向节俭的父亲为微短剧充值3万多元",
+      "onboard_time": 1740205701,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58915,
       "num": 197812,
       "word": "在最不懂的年纪吃了最细的糠",
@@ -18329,6 +18385,14 @@
       "onboard_time": 1739682438,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 58269,
+      "num": 173477,
+      "word": "欧洲或组建3万人部队驻扎乌克兰",
+      "onboard_time": 1740204140,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 58189,
@@ -18587,14 +18651,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 52735,
-      "num": 161815,
-      "word": "欧洲或组建3万人部队驻扎乌克兰",
-      "onboard_time": 1740204140,
-      "rank": 29,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 52673,
       "num": 217884,
       "word": "亲眼目睹老板人不在工位却操控着一切",
@@ -18785,14 +18841,6 @@
       "onboard_time": 1739661253,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 48788,
-      "num": 145295,
-      "word": "一向节俭的父亲为微短剧充值3万多元",
-      "onboard_time": 1740205701,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 48779,
@@ -19500,7 +19548,7 @@
     },
     {
       "raw_hot": 37206,
-      "num": 741266,
+      "num": 759418,
       "word": "民营企业爱拼会赢背后蕴藏的机遇",
       "onboard_time": 1740197120,
       "rank": 2,
@@ -19592,6 +19640,14 @@
       "word": "1.6万件套文物被追缴",
       "onboard_time": 1739809997,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35796,
+      "num": 357854,
+      "word": "周末雨雪天气正在加载中",
+      "onboard_time": 1739996531,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -20091,6 +20147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26078,
+      "num": 173284,
+      "word": "一人一句话为U20国足加油",
+      "onboard_time": 1740205819,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26017,
       "num": 332933,
       "word": "专家解读美俄谈判死结",
@@ -20289,14 +20353,6 @@
       "onboard_time": 1739891483,
       "rank": 27,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 23271,
-      "num": 357854,
-      "word": "周末雨雪天气正在加载中",
-      "onboard_time": 1739996531,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23117,
@@ -20601,14 +20657,6 @@
       "onboard_time": 1739719941,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20121,
-      "num": 143377,
-      "word": "一人一句话为U20国足加油",
-      "onboard_time": 1740205819,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 20077,
@@ -21179,6 +21227,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 11020,
+      "num": 174127,
+      "word": "王艺迪vs申裕斌",
+      "onboard_time": 1740206420,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 10992,
       "num": 224774,
       "word": "柯南M28情报下周揭晓",
@@ -21217,6 +21273,14 @@
       "onboard_time": 1739700858,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 10630,
+      "num": 139868,
+      "word": "马库斯说儿时对日本侵华史一无所知",
+      "onboard_time": 1740206600,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 10531,
