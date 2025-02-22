@@ -1,0 +1,410 @@
+{
+  "runTime": 1740227945801,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1547641,
+        "num": 1547641,
+        "word": "黄灿灿回应",
+        "onboard_time": 1740223100,
+        "rank": 0,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 907952,
+        "num": 907952,
+        "word": "再世权臣",
+        "onboard_time": 1740223882,
+        "rank": 1,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 42868,
+        "num": 810222,
+        "word": "天问二号一次发射实施多项任务",
+        "onboard_time": 1740215480,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 924666,
+        "num": 807957,
+        "word": "何炅吐槽的人到底是谁",
+        "onboard_time": 1740222980,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 771886,
+        "num": 771886,
+        "word": "孙颖莎vs张本美和",
+        "onboard_time": 1740222380,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 700721,
+        "num": 700721,
+        "word": "王楚钦vs户上隼辅",
+        "onboard_time": 1740226222,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 692668,
+        "num": 692668,
+        "word": "敖丙传",
+        "onboard_time": 1740220521,
+        "rank": 6,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 598886,
+        "num": 598886,
+        "word": "天雷滚滚我好怕怕传到联合国",
+        "onboard_time": 1740219379,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 538134,
+        "num": 538134,
+        "word": "全体土拨鼠抬头那一刻绷不住了",
+        "onboard_time": 1740214461,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108969,
+        "num": 497804,
+        "word": "美联社因不改口被禁止参加白宫活动",
+        "onboard_time": 1740226941,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 590681,
+        "num": 491321,
+        "word": "男子冒充女童隔空猥亵40多个女孩",
+        "onboard_time": 1740222800,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 555586,
+        "num": 490011,
+        "word": "台当局宣布封杀三所大陆高校遭猛批",
+        "onboard_time": 1740227002,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 474569,
+        "num": 474569,
+        "word": "大角度",
+        "onboard_time": 1740225441,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 431780,
+        "num": 431780,
+        "word": "从24岁患癌到37岁重生她用13年自救",
+        "onboard_time": 1740220461,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356333,
+        "num": 356333,
+        "word": "乌克兰所有稀土资源都在交战区",
+        "onboard_time": 1740218302,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 352495,
+        "num": 352495,
+        "word": "雅迪 王鹤棣",
+        "onboard_time": 1740221839,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349958,
+        "num": 349958,
+        "word": "孙颖莎4比2张本美和",
+        "onboard_time": 1740226100,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 340609,
+        "num": 340609,
+        "word": "家有儿女到底花了多少经费在餐桌上",
+        "onboard_time": 1740219322,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145558,
+        "num": 297744,
+        "word": "很多人好像被手机困住了",
+        "onboard_time": 1740226100,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 286485,
+        "num": 286485,
+        "word": "哪吒2票房133亿",
+        "onboard_time": 1740218001,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 423190,
+        "num": 286324,
+        "word": "漂白受伤替身发文",
+        "onboard_time": 1740215722,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 417515,
+        "num": 285218,
+        "word": "体检无异常1年半后确诊癌症晚期",
+        "onboard_time": 1740215421,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275115,
+        "num": 275115,
+        "word": "王者S39新赛季爆料",
+        "onboard_time": 1740225502,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 266236,
+        "num": 266236,
+        "word": "蒯曼4比2王艺迪",
+        "onboard_time": 1740225081,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73495,
+        "num": 261404,
+        "word": "王楚钦高情商回复被称为绝对主力",
+        "onboard_time": 1740224182,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257387,
+        "num": 257387,
+        "word": "670万买的楼王交钱时发现采光差",
+        "onboard_time": 1740226702,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244760,
+        "num": 244760,
+        "word": "杀破狼",
+        "onboard_time": 1740225142,
+        "rank": 26,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 218318,
+        "num": 233543,
+        "word": "孙颖莎与刘国梁复盘比赛",
+        "onboard_time": 1740227720,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228716,
+        "num": 228716,
+        "word": "张凌赫工作室必有高人指点",
+        "onboard_time": 1740214761,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219799,
+        "num": 219799,
+        "word": "Capper 背刺",
+        "onboard_time": 1740211100,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18465,
+        "num": 219466,
+        "word": "王楚钦连续爆冲太凶了",
+        "onboard_time": 1740227840,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220638,
+        "num": 219409,
+        "word": "少女花150元文身全部清洗需76.9万",
+        "onboard_time": 1740210141,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219228,
+        "num": 219228,
+        "word": "哪吒2海洋制作1年老外以为是真海水",
+        "onboard_time": 1740226761,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213237,
+        "num": 213237,
+        "word": "十个勤天演唱会",
+        "onboard_time": 1740221959,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209042,
+        "num": 209042,
+        "word": "用节气取名字",
+        "onboard_time": 1740224601,
+        "rank": 34,
+        "category": "情感,情感"
+      },
+      {
+        "raw_hot": 212235,
+        "num": 208480,
+        "word": "西芹汁治好了我30年的起床困难症",
+        "onboard_time": 1740221240,
+        "rank": 35,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 203647,
+        "num": 203647,
+        "word": "教育局回应中学生坠楼身亡",
+        "onboard_time": 1740223882,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200385,
+        "num": 200385,
+        "word": "红房子 女主视角",
+        "onboard_time": 1740226823,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196061,
+        "num": 196061,
+        "word": "刘晓庆回应就不死",
+        "onboard_time": 1740227601,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190104,
+        "num": 190104,
+        "word": "亚洲杯",
+        "onboard_time": 1740227421,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187582,
+        "num": 187582,
+        "word": "130亿三岁影帝接了多少广告",
+        "onboard_time": 1740217102,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 196274,
+        "num": 187578,
+        "word": "湖北一中学生坠楼家属发声",
+        "onboard_time": 1740225322,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186691,
+        "num": 186691,
+        "word": "TTG",
+        "onboard_time": 1740227301,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 171985,
+        "num": 171985,
+        "word": "张元英杂志",
+        "onboard_time": 1740227902,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169762,
+        "num": 169762,
+        "word": "没想过李瓒和段嘉许是同一张脸",
+        "onboard_time": 1740222980,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169615,
+        "num": 169615,
+        "word": "孙颖莎半决赛对阵陈幸同",
+        "onboard_time": 1740227241,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165798,
+        "num": 165798,
+        "word": "孙颖莎亚洲杯4强",
+        "onboard_time": 1740226582,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157783,
+        "num": 157783,
+        "word": "DeepSeek评2025年十大赚钱行业",
+        "onboard_time": 1740227361,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 146927,
+        "num": 157749,
+        "word": "王昶黄雅琼打混双",
+        "onboard_time": 1740224482,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157744,
+        "num": 157744,
+        "word": "KSG战胜TTG",
+        "onboard_time": 1740226941,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持把谋打赢作为最大职责#"
+    }
+  }
+}
