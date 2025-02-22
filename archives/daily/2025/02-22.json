@@ -1,6 +1,6 @@
 {
   "startTime": 1740155309204,
-  "endTime": 1740213572800,
+  "endTime": 1740216140648,
   "band_list": [
     {
       "raw_hot": 12791228,
@@ -17,6 +17,14 @@
       "onboard_time": 1740186560,
       "rank": 0,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 2317393,
+      "num": 279908,
+      "word": "赵今麦替身",
+      "onboard_time": 1740213801,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 1761496,
@@ -379,8 +387,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 435252,
-      "num": 299923,
+      "raw_hot": 442254,
+      "num": 442254,
+      "word": "全体土拨鼠抬头那一刻绷不住了",
+      "onboard_time": 1740214461,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 435631,
+      "num": 400384,
       "word": "皓衣行",
       "onboard_time": 1740210378,
       "rank": 13,
@@ -409,6 +425,14 @@
       "onboard_time": 1740152238,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 412178,
+      "num": 412178,
+      "word": "某国空军一等兵泄密还鼓励网友破解",
+      "onboard_time": 1740211641,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 402179,
@@ -459,6 +483,14 @@
       "category": "电影,互联网"
     },
     {
+      "raw_hot": 372390,
+      "num": 372390,
+      "word": "张凌赫工作室必有高人指点",
+      "onboard_time": 1740214761,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 363550,
       "num": 303412,
       "word": "DeepSeek评中国最宜居城市",
@@ -505,6 +537,14 @@
       "onboard_time": 1740204321,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 350439,
+      "num": 219118,
+      "word": "体检无异常1年半后确诊癌症晚期",
+      "onboard_time": 1740215421,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 330492,
@@ -571,12 +611,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 301065,
-      "num": 301065,
-      "word": "某国空军一等兵泄密还鼓励网友破解",
-      "onboard_time": 1740211641,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 301010,
+      "num": 301010,
+      "word": "U20国足vs沙特U20",
+      "onboard_time": 1740204140,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 300053,
@@ -619,6 +659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 276949,
+      "num": 276949,
+      "word": "于正说五福临门爆了",
+      "onboard_time": 1740211641,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 276860,
       "num": 362823,
       "word": "DeepSeek给出周末不虚度指南",
@@ -651,27 +699,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 256069,
-      "num": 252814,
-      "word": "于正说五福临门爆了",
-      "onboard_time": 1740211641,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 255526,
       "num": 255526,
       "word": "亚洲杯",
       "onboard_time": 1740200901,
       "rank": 22,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 255030,
-      "num": 255030,
-      "word": "U20国足vs沙特U20",
-      "onboard_time": 1740204140,
-      "rank": 32,
       "category": "体育"
     },
     {
@@ -707,12 +739,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232724,
+      "num": 232724,
+      "word": "特朗普威胁禁止跨性别者参加女子赛事",
+      "onboard_time": 1740214520,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 231274,
       "num": 231274,
       "word": "无限暖暖发光发亮黑化版",
       "onboard_time": 1740198498,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 231239,
+      "num": 277421,
+      "word": "漂白受伤替身发文",
+      "onboard_time": 1740215722,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 226751,
@@ -729,6 +777,14 @@
       "onboard_time": 1740201559,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 219924,
+      "num": 219924,
+      "word": "菲方闯入中国领空前关闭飞机信号",
+      "onboard_time": 1740211278,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 216116,
@@ -875,6 +931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196507,
+      "num": 196507,
+      "word": "台湾一家四口打飞的到厦门看哪吒2",
+      "onboard_time": 1740214461,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 196317,
       "num": 196317,
       "word": "爱你OST阵容",
@@ -955,6 +1019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185063,
+      "num": 185063,
+      "word": "国足",
+      "onboard_time": 1740214880,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184159,
       "num": 184159,
       "word": "真的可以普及一下单片装的卫生巾",
@@ -977,6 +1049,14 @@
       "onboard_time": 1740191180,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 176657,
+      "num": 176657,
+      "word": "周杰伦五月天合唱安静",
+      "onboard_time": 1740215362,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 176198,
@@ -1003,6 +1083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172944,
+      "num": 172944,
+      "word": "王钰栋U20国足贝尔",
+      "onboard_time": 1740214282,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172262,
       "num": 172262,
       "word": "网传左肩有你日本播出",
@@ -1025,6 +1113,14 @@
       "onboard_time": 1740196701,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168666,
+      "num": 168666,
+      "word": "漂白剧组",
+      "onboard_time": 1740214702,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 167372,
@@ -1081,14 +1177,6 @@
       "onboard_time": 1740150381,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 159085,
-      "num": 159085,
-      "word": "菲方闯入中国领空前关闭飞机信号",
-      "onboard_time": 1740211278,
-      "rank": 32,
-      "category": "国内时政"
     },
     {
       "raw_hot": 159016,
@@ -1267,6 +1355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142744,
+      "num": 142744,
+      "word": "唐探1900票房破33亿",
+      "onboard_time": 1740215782,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 142650,
       "num": 142650,
       "word": "白敬亭红温到脖子了",
@@ -1339,6 +1435,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 139148,
+      "num": 139148,
+      "word": "爬楼梯真的是零成本瘦腿",
+      "onboard_time": 1740210979,
+      "rank": 41,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 137460,
       "num": 137460,
       "word": "张萌谢谢李梦为拍戏放弃大热综艺",
@@ -1395,14 +1499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132365,
-      "num": 132365,
-      "word": "爬楼梯真的是零成本瘦腿",
-      "onboard_time": 1740210979,
-      "rank": 41,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 131138,
       "num": 131138,
       "word": "余承恩王子璇他在笑她在爆笑",
@@ -1416,6 +1512,14 @@
       "word": "苏晓彤剧本围读镜头",
       "onboard_time": 1740201801,
       "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 130477,
+      "num": 130477,
+      "word": "爱你",
+      "onboard_time": 1740209779,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -1667,6 +1771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106611,
+      "num": 106611,
+      "word": "黄明昊新造型给我干到2060年",
+      "onboard_time": 1740216081,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 105642,
       "num": 105642,
       "word": "蒯曼3比2简彤娟",
@@ -1689,6 +1801,14 @@
       "onboard_time": 1740208219,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104627,
+      "num": 104627,
+      "word": "码头一个个拜靠山一个个倒",
+      "onboard_time": 1740215123,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 104412,
@@ -2179,6 +2299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34749,
+      "num": 280087,
+      "word": "U20国足半场0比0沙特U20",
+      "onboard_time": 1740215661,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 31633,
       "num": 304918,
       "word": "专家解读平台给骑手上社保",
@@ -2193,6 +2321,22 @@
       "onboard_time": 1740209298,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 29304,
+      "num": 217189,
+      "word": "梁靖崑晋级亚洲杯八强",
+      "onboard_time": 1740213801,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 28940,
+      "num": 592469,
+      "word": "天问二号一次发射实施多项任务",
+      "onboard_time": 1740215480,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27423,
@@ -2353,6 +2497,14 @@
       "onboard_time": 1740159135,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 8034,
+      "num": 139239,
+      "word": "王钰栋单刀遗憾打偏",
+      "onboard_time": 1740216081,
+      "rank": 36,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
@@ -2367,6 +2519,9 @@
     },
     {
       "word": "#努力推动我军建设高质量发展#"
+    },
+    {
+      "word": "#坚持把谋打赢作为最大职责#"
     }
   ]
 }

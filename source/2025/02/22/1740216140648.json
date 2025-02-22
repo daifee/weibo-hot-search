@@ -1,0 +1,410 @@
+{
+  "runTime": 1740216140648,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11183473,
+        "num": 11183473,
+        "word": "漂白 替身",
+        "onboard_time": 1740210141,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 739205,
+        "num": 739205,
+        "word": "美国一公园吸毒者如丧尸实拍",
+        "onboard_time": 1740187698,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 28940,
+        "num": 592469,
+        "word": "天问二号一次发射实施多项任务",
+        "onboard_time": 1740215480,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 458143,
+        "num": 458143,
+        "word": "哪吒2破132亿",
+        "onboard_time": 1740207441,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 442254,
+        "num": 442254,
+        "word": "全体土拨鼠抬头那一刻绷不住了",
+        "onboard_time": 1740214461,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 412178,
+        "num": 412178,
+        "word": "某国空军一等兵泄密还鼓励网友破解",
+        "onboard_time": 1740211641,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 435631,
+        "num": 400384,
+        "word": "皓衣行",
+        "onboard_time": 1740210378,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 372390,
+        "num": 372390,
+        "word": "张凌赫工作室必有高人指点",
+        "onboard_time": 1740214761,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301010,
+        "num": 301010,
+        "word": "U20国足vs沙特U20",
+        "onboard_time": 1740212360,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34749,
+        "num": 280087,
+        "word": "U20国足半场0比0沙特U20",
+        "onboard_time": 1740215661,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2317393,
+        "num": 279908,
+        "word": "赵今麦替身",
+        "onboard_time": 1740213801,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277961,
+        "num": 277961,
+        "word": "官方通报2岁男童托育园午睡身亡",
+        "onboard_time": 1740198498,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231239,
+        "num": 277421,
+        "word": "漂白受伤替身发文",
+        "onboard_time": 1740215722,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248801,
+        "num": 276985,
+        "word": "卖AI教程4天赚了20万元",
+        "onboard_time": 1740203241,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 276949,
+        "num": 276949,
+        "word": "于正说五福临门爆了",
+        "onboard_time": 1740211641,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251715,
+        "num": 251715,
+        "word": "章若楠演技",
+        "onboard_time": 1740202040,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243081,
+        "num": 243081,
+        "word": "权志龙柳智敏同框",
+        "onboard_time": 1740210440,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 242702,
+        "num": 242702,
+        "word": "俄或同意动用3000亿美元重建乌克兰",
+        "onboard_time": 1740210920,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 232724,
+        "num": 232724,
+        "word": "特朗普威胁禁止跨性别者参加女子赛事",
+        "onboard_time": 1740214520,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 219924,
+        "num": 219924,
+        "word": "菲方闯入中国领空前关闭飞机信号",
+        "onboard_time": 1740211278,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 389256,
+        "num": 219845,
+        "word": "Capper 背刺",
+        "onboard_time": 1740211100,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350439,
+        "num": 219118,
+        "word": "体检无异常1年半后确诊癌症晚期",
+        "onboard_time": 1740215421,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 339172,
+        "num": 218702,
+        "word": "少女花150元文身全部清洗需76.9万",
+        "onboard_time": 1740210141,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281100,
+        "num": 217730,
+        "word": "赵露思陈哲远偷偷藏不住全站热度第三",
+        "onboard_time": 1740211581,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29304,
+        "num": 217189,
+        "word": "梁靖崑晋级亚洲杯八强",
+        "onboard_time": 1740213801,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228280,
+        "num": 216884,
+        "word": "张峻豪感染诺如昏迷了一阵子",
+        "onboard_time": 1740205760,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216522,
+        "num": 216522,
+        "word": "王楚钦说我还没这么老吧",
+        "onboard_time": 1740208400,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196507,
+        "num": 196507,
+        "word": "台湾一家四口打飞的到厦门看哪吒2",
+        "onboard_time": 1740214461,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65280,
+        "num": 188899,
+        "word": "雪崩亲历者称4公里距离30秒就到眼前",
+        "onboard_time": 1740210619,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185063,
+        "num": 185063,
+        "word": "国足",
+        "onboard_time": 1740214880,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176657,
+        "num": 176657,
+        "word": "周杰伦五月天合唱安静",
+        "onboard_time": 1740215362,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 172944,
+        "num": 172944,
+        "word": "王钰栋U20国足贝尔",
+        "onboard_time": 1740214282,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168666,
+        "num": 168666,
+        "word": "漂白剧组",
+        "onboard_time": 1740214702,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155056,
+        "num": 155056,
+        "word": "难哄 鬼片镜头",
+        "onboard_time": 1740201740,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142744,
+        "num": 142744,
+        "word": "唐探1900票房破33亿",
+        "onboard_time": 1740215782,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139843,
+        "num": 139843,
+        "word": "面试遭73岁董事长猥亵当事人已和解",
+        "onboard_time": 1740206721,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8034,
+        "num": 139239,
+        "word": "王钰栋单刀遗憾打偏",
+        "onboard_time": 1740216081,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139148,
+        "num": 139148,
+        "word": "爬楼梯真的是零成本瘦腿",
+        "onboard_time": 1740210979,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 138006,
+        "num": 138006,
+        "word": "医生称脱屑性肺炎死亡率高",
+        "onboard_time": 1740209539,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137671,
+        "num": 137671,
+        "word": "霍启刚有新职了",
+        "onboard_time": 1740212782,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130477,
+        "num": 130477,
+        "word": "爱你",
+        "onboard_time": 1740209779,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125669,
+        "num": 125669,
+        "word": "韩庚卢靖姗我那漂亮小舅小舅妈",
+        "onboard_time": 1740206060,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123594,
+        "num": 123594,
+        "word": "DeepSeek给出周末不虚度指南",
+        "onboard_time": 1740200780,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 122757,
+        "num": 122757,
+        "word": "蔡明用王一博的经历鼓励牛在在",
+        "onboard_time": 1740209841,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120076,
+        "num": 120076,
+        "word": "真的可以普及一下单片装的卫生巾",
+        "onboard_time": 1740211641,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113204,
+        "num": 113204,
+        "word": "网传左肩有你日本播出",
+        "onboard_time": 1740211161,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109507,
+        "num": 109507,
+        "word": "魏晨初代跳舞白月光杀回来了",
+        "onboard_time": 1740207141,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107527,
+        "num": 107527,
+        "word": "沈月28岁生日会",
+        "onboard_time": 1740209361,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106611,
+        "num": 106611,
+        "word": "黄明昊新造型给我干到2060年",
+        "onboard_time": 1740216081,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104627,
+        "num": 104627,
+        "word": "码头一个个拜靠山一个个倒",
+        "onboard_time": 1740215123,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持把谋打赢作为最大职责#"
+    }
+  }
+}
