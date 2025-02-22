@@ -1,0 +1,410 @@
+{
+  "runTime": 1740194717608,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1761496,
+        "num": 1761496,
+        "word": "美国一公园吸毒者如丧尸实拍",
+        "onboard_time": 1740187698,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1411887,
+        "num": 1411887,
+        "word": "200斤女生cos石矶娘娘被当真",
+        "onboard_time": 1740190458,
+        "rank": 1,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 35610,
+        "num": 1012068,
+        "word": "中国空间站首个舱内在轨机器人试验",
+        "onboard_time": 1740146121,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 633942,
+        "num": 633942,
+        "word": "私家侦探提供女子信息致其被丈夫打死",
+        "onboard_time": 1740190759,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 603880,
+        "num": 603880,
+        "word": "老师一堂课没收几十个裂空爪",
+        "onboard_time": 1740177853,
+        "rank": 4,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 543961,
+        "num": 543961,
+        "word": "有剧集给平台赚了10亿",
+        "onboard_time": 1740187038,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 449709,
+        "num": 449709,
+        "word": "网传宋轶也在白敬亭录制hi6现场",
+        "onboard_time": 1740186979,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372099,
+        "num": 372099,
+        "word": "00后警察1条朋友圈获264个赞",
+        "onboard_time": 1740191359,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341870,
+        "num": 341870,
+        "word": "DeepSeek创始人实习时月薪已超1.6万",
+        "onboard_time": 1740186621,
+        "rank": 8,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 195594,
+        "num": 338266,
+        "word": "演讲稿在眼镜里动动戒指就翻页",
+        "onboard_time": 1740193160,
+        "rank": 9,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 521406,
+        "num": 335077,
+        "word": "36岁女子直播一夜后猝死",
+        "onboard_time": 1740189621,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 489171,
+        "num": 327133,
+        "word": "阿诺生第一个孩子时很危险",
+        "onboard_time": 1740193941,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360385,
+        "num": 324961,
+        "word": "女子生日收万元花束20天后发霉",
+        "onboard_time": 1740186560,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320760,
+        "num": 320760,
+        "word": "白宫称即将成为美国第51州的加拿大",
+        "onboard_time": 1740184518,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 52950,
+        "num": 317620,
+        "word": "唱K喝酒呕吐坠亡案中KTV担三成责任",
+        "onboard_time": 1740193520,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316144,
+        "num": 316144,
+        "word": "夫妻报考同一岗位下班后开启备战模式",
+        "onboard_time": 1740188238,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313875,
+        "num": 313875,
+        "word": "这还是我认识的姜小果吗",
+        "onboard_time": 1740191600,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273036,
+        "num": 273036,
+        "word": "哪吒2票房130亿了",
+        "onboard_time": 1740182958,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 249910,
+        "num": 249910,
+        "word": "向太透露为何结婚45年未举行过婚礼",
+        "onboard_time": 1740186259,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103117,
+        "num": 215432,
+        "word": "法律不能拿猥琐老人没办法",
+        "onboard_time": 1740193580,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199964,
+        "num": 199964,
+        "word": "郭品超前女友发文回应分手",
+        "onboard_time": 1740186979,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197194,
+        "num": 197194,
+        "word": "凭哪吒2票根可免费游多家景区",
+        "onboard_time": 1740152238,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195088,
+        "num": 195088,
+        "word": "未患癌刘翔峰却医嘱化疗致九级伤残",
+        "onboard_time": 1740193460,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176198,
+        "num": 176198,
+        "word": "章若楠分手戏演技",
+        "onboard_time": 1740189139,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162660,
+        "num": 162660,
+        "word": "陈凯歌说太假了全是套路",
+        "onboard_time": 1740149240,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162162,
+        "num": 162162,
+        "word": "宋伊人演我替别人尴尬",
+        "onboard_time": 1740194541,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161241,
+        "num": 161241,
+        "word": "董力 阿诺",
+        "onboard_time": 1740193399,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152428,
+        "num": 152428,
+        "word": "美国新任FBI局长确认",
+        "onboard_time": 1740191180,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 150955,
+        "num": 150955,
+        "word": "孙颖莎发球失误没忍住笑场",
+        "onboard_time": 1740180554,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46733,
+        "num": 139111,
+        "word": "2025考研复试全攻略",
+        "onboard_time": 1740193881,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 136117,
+        "num": 136117,
+        "word": "IU朴宝剑新剧正式预告",
+        "onboard_time": 1740190099,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131131,
+        "num": 131131,
+        "word": "张远新加坡演唱会话筒没声",
+        "onboard_time": 1740194240,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123542,
+        "num": 123542,
+        "word": "王楚钦vs高承睿",
+        "onboard_time": 1740192619,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38945,
+        "num": 123078,
+        "word": "deepseek预测U20国足险胜沙特",
+        "onboard_time": 1740193580,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123069,
+        "num": 123069,
+        "word": "邓为辟谣磨裤子",
+        "onboard_time": 1740190220,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120895,
+        "num": 120895,
+        "word": "北上",
+        "onboard_time": 1740192141,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120543,
+        "num": 120543,
+        "word": "国企拟录用名单3名本科生引质疑",
+        "onboard_time": 1740145162,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118860,
+        "num": 118860,
+        "word": "红房子 封神",
+        "onboard_time": 1740186499,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117905,
+        "num": 117905,
+        "word": "DeepSeek分析大学每月1500够花吗",
+        "onboard_time": 1740175751,
+        "rank": 38,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 117444,
+        "num": 117444,
+        "word": "霸总带娃敷衍到给孩子吃剩饭",
+        "onboard_time": 1740189799,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115780,
+        "num": 115780,
+        "word": "特朗普说乌克兰无牌可打",
+        "onboard_time": 1740186560,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113450,
+        "num": 113450,
+        "word": "王一博首登001号",
+        "onboard_time": 1740183737,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108931,
+        "num": 108931,
+        "word": "DeepSeek评中国最宜居城市",
+        "onboard_time": 1740118279,
+        "rank": 42,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 108311,
+        "num": 108311,
+        "word": "辣目洋子演技",
+        "onboard_time": 1740181756,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103041,
+        "num": 103041,
+        "word": "电影天堂旅行团定档",
+        "onboard_time": 1740194180,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 96627,
+        "num": 96627,
+        "word": "向太喊话向华强补办婚礼",
+        "onboard_time": 1740191900,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96342,
+        "num": 96342,
+        "word": "失眠的人头发也不会健康",
+        "onboard_time": 1740191180,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 96091,
+        "num": 96091,
+        "word": "藕饼",
+        "onboard_time": 1740194479,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 93870,
+        "num": 93870,
+        "word": "为所欲为",
+        "onboard_time": 1740194541,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 93528,
+        "num": 93528,
+        "word": "奔驰高管怒怼恶意竞争",
+        "onboard_time": 1740194599,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#民营企业座谈会上的更多细节#"
+    }
+  }
+}

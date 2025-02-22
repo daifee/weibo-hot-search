@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1740193168101,
+  "endTime": 1740194717608,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -611,6 +611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1761496,
+      "num": 1761496,
+      "word": "美国一公园吸毒者如丧尸实拍",
+      "onboard_time": 1740187698,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1736908,
       "num": 1736908,
       "word": "择天记",
@@ -947,20 +955,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 1423946,
-      "num": 1423946,
-      "word": "美国一公园吸毒者如丧尸实拍",
-      "onboard_time": 1740187698,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 1413633,
       "num": 1413633,
       "word": "郭艾伦谈捅伤自己的队友事后态度",
       "onboard_time": 1740045861,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1411887,
+      "num": 1411887,
+      "word": "200斤女生cos石矶娘娘被当真",
+      "onboard_time": 1740190458,
+      "rank": 1,
+      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 1409979,
@@ -985,14 +993,6 @@
       "onboard_time": 1740028882,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1390974,
-      "num": 1390974,
-      "word": "200斤女生cos石矶娘娘被当真",
-      "onboard_time": 1740190458,
-      "rank": 1,
-      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 1390535,
@@ -3099,6 +3099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 633942,
+      "num": 633942,
+      "word": "私家侦探提供女子信息致其被丈夫打死",
+      "onboard_time": 1740190759,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 633893,
       "num": 584655,
       "word": "麦琳cos袁湘琴",
@@ -3611,14 +3619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 547425,
-      "num": 547425,
-      "word": "私家侦探提供女子信息致其被丈夫打死",
-      "onboard_time": 1740190759,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 545804,
       "num": 708684,
       "word": "女子偷窃求助deepseek如何免责",
@@ -4065,6 +4065,14 @@
       "onboard_time": 1739751378,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 489171,
+      "num": 327133,
+      "word": "阿诺生第一个孩子时很危险",
+      "onboard_time": 1740193941,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 489153,
@@ -5411,6 +5419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 372099,
+      "num": 372099,
+      "word": "00后警察1条朋友圈获264个赞",
+      "onboard_time": 1740191359,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 372045,
       "num": 372045,
       "word": "顾盼生辉",
@@ -6281,6 +6297,14 @@
       "onboard_time": 1739780242,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 313875,
+      "num": 313875,
+      "word": "这还是我认识的姜小果吗",
+      "onboard_time": 1740191600,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 312910,
@@ -7481,14 +7505,6 @@
       "onboard_time": 1740031341,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 255993,
-      "num": 349370,
-      "word": "00后警察1条朋友圈获264个赞",
-      "onboard_time": 1740191359,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 255881,
@@ -10171,6 +10187,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 195594,
+      "num": 338266,
+      "word": "演讲稿在眼镜里动动戒指就翻页",
+      "onboard_time": 1740193160,
+      "rank": 9,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 195570,
       "num": 195570,
       "word": "周峻纬优绩主义将人物化",
@@ -10201,6 +10225,14 @@
       "onboard_time": 1739773639,
       "rank": 35,
       "category": "体育,电影"
+    },
+    {
+      "raw_hot": 195088,
+      "num": 195088,
+      "word": "未患癌刘翔峰却医嘱化疗致九级伤残",
+      "onboard_time": 1740193460,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194946,
@@ -10321,14 +10353,6 @@
       "onboard_time": 1740111201,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 193339,
-      "num": 193339,
-      "word": "这还是我认识的姜小果吗",
-      "onboard_time": 1740191600,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 193297,
@@ -11435,6 +11459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176198,
+      "num": 176198,
+      "word": "章若楠分手戏演技",
+      "onboard_time": 1740189139,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175710,
       "num": 293089,
       "word": "菲飞机与我方直升机航迹信息公布",
@@ -12323,6 +12355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162162,
+      "num": 162162,
+      "word": "宋伊人演我替别人尴尬",
+      "onboard_time": 1740194541,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161848,
       "num": 161848,
       "word": "丁禹兮晒饼饼祝猫饼一周年快乐",
@@ -12401,6 +12441,14 @@
       "onboard_time": 1739781321,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161241,
+      "num": 161241,
+      "word": "董力 阿诺",
+      "onboard_time": 1740193399,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 161235,
@@ -13041,6 +13089,14 @@
       "onboard_time": 1740029122,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150955,
+      "num": 150955,
+      "word": "孙颖莎发球失误没忍住笑场",
+      "onboard_time": 1740180554,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 150950,
@@ -14043,14 +14099,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 135168,
-      "num": 135168,
-      "word": "章若楠分手戏演技",
-      "onboard_time": 1740189139,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 135008,
       "num": 528553,
       "word": "南京一卤货作坊脏乱操作间紧挨厕所",
@@ -14097,14 +14145,6 @@
       "onboard_time": 1740100520,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 134046,
-      "num": 134046,
-      "word": "孙颖莎发球失误没忍住笑场",
-      "onboard_time": 1740180554,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 133985,
@@ -14249,6 +14289,14 @@
       "onboard_time": 1739697378,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131131,
+      "num": 131131,
+      "word": "张远新加坡演唱会话筒没声",
+      "onboard_time": 1740194240,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 130937,
@@ -14737,6 +14785,14 @@
       "onboard_time": 1739801422,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123542,
+      "num": 131753,
+      "word": "王楚钦vs高承睿",
+      "onboard_time": 1740192619,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 123521,
@@ -15644,7 +15700,7 @@
     },
     {
       "raw_hot": 103420,
-      "num": 1001831,
+      "num": 1012068,
       "word": "中国空间站首个舱内在轨机器人试验",
       "onboard_time": 1740146121,
       "rank": 2,
@@ -15659,12 +15715,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 103117,
+      "num": 215432,
+      "word": "法律不能拿猥琐老人没办法",
+      "onboard_time": 1740193580,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103060,
       "num": 314209,
       "word": "珍贵程度堪比月壤的万米岩芯首次亮相",
       "onboard_time": 1740039382,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103041,
+      "num": 103041,
+      "word": "电影天堂旅行团定档",
+      "onboard_time": 1740194180,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 102995,
@@ -15995,6 +16067,14 @@
       "category": "民生新闻,汽车"
     },
     {
+      "raw_hot": 96342,
+      "num": 96342,
+      "word": "失眠的人头发也不会健康",
+      "onboard_time": 1740191180,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 96112,
       "num": 223117,
       "word": "马龙用铁尺颠球",
@@ -16131,12 +16211,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 93870,
+      "num": 93870,
+      "word": "为所欲为",
+      "onboard_time": 1740194541,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 93672,
       "num": 275314,
       "word": "奥运冠军马龙被小学生逼出大招",
       "onboard_time": 1739771660,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93528,
+      "num": 93528,
+      "word": "奔驰高管怒怼恶意竞争",
+      "onboard_time": 1740194599,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 93521,
@@ -17891,6 +17987,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 52950,
+      "num": 317620,
+      "word": "唱K喝酒呕吐坠亡案中KTV担三成责任",
+      "onboard_time": 1740193520,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52932,
       "num": 257502,
       "word": "藕饼烈火焚尽桎梏",
@@ -18131,14 +18235,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 48429,
-      "num": 131753,
-      "word": "王楚钦vs高承睿",
-      "onboard_time": 1740192619,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 48362,
       "num": 455904,
       "word": "GAI2025巡演首场官宣直播",
@@ -18249,6 +18345,14 @@
       "onboard_time": 1739661373,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 46733,
+      "num": 139111,
+      "word": "2025考研复试全攻略",
+      "onboard_time": 1740193881,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 46596,
@@ -18625,6 +18729,14 @@
       "onboard_time": 1740113961,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 38945,
+      "num": 123078,
+      "word": "deepseek预测U20国足险胜沙特",
+      "onboard_time": 1740193580,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 38934,
