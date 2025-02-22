@@ -1,6 +1,6 @@
 {
   "startTime": 1740155309204,
-  "endTime": 1740195552124,
+  "endTime": 1740198483641,
   "band_list": [
     {
       "raw_hot": 4253645,
@@ -17,6 +17,14 @@
       "onboard_time": 1740187698,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1433798,
+      "num": 536845,
+      "word": "瘦下来的麦琳",
+      "onboard_time": 1740194959,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 1411887,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 727897,
-      "num": 327133,
+      "num": 390711,
       "word": "阿诺生第一个孩子时很危险",
       "onboard_time": 1740193941,
       "rank": 11,
@@ -187,6 +195,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 445347,
+      "num": 383673,
+      "word": "白敬亭吃汉堡被粉丝吓到的反应",
+      "onboard_time": 1740194842,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 434576,
+      "num": 434576,
+      "word": "未患癌刘翔峰却医嘱化疗致九级伤残",
+      "onboard_time": 1740193460,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 431024,
       "num": 431024,
       "word": "辣目洋子演技",
@@ -243,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 371317,
+      "num": 371317,
+      "word": "男子到超市买67张购物卡店员秒报警",
+      "onboard_time": 1740196399,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 363550,
       "num": 303412,
       "word": "DeepSeek评中国最宜居城市",
@@ -276,7 +308,7 @@
     },
     {
       "raw_hot": 354258,
-      "num": 354258,
+      "num": 412281,
       "word": "这还是我认识的姜小果吗",
       "onboard_time": 1740191600,
       "rank": 28,
@@ -315,6 +347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 287002,
+      "num": 287002,
+      "word": "DeepSeek最新预测哪吒2票房",
+      "onboard_time": 1740194779,
+      "rank": 26,
+      "category": "电影,互联网"
+    },
+    {
       "raw_hot": 280893,
       "num": 280893,
       "word": "王楚钦vs高承睿",
@@ -339,27 +379,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 250617,
-      "num": 329651,
-      "word": "未患癌刘翔峰却医嘱化疗致九级伤残",
-      "onboard_time": 1740193460,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 247016,
       "num": 247016,
       "word": "王一博首登001号",
       "onboard_time": 1740183737,
       "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 237417,
-      "num": 152240,
-      "word": "瘦下来的麦琳",
-      "onboard_time": 1740194959,
-      "rank": 31,
       "category": "艺人"
     },
     {
@@ -369,6 +393,14 @@
       "onboard_time": 1740115881,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213721,
+      "num": 397736,
+      "word": "德军工企业CEO说欧洲只能坐小孩那桌",
+      "onboard_time": 1740195980,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 211817,
@@ -395,6 +427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 206077,
+      "num": 206077,
+      "word": "无限暖暖",
+      "onboard_time": 1740197060,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 203693,
       "num": 203693,
       "word": "吴镇宇感动哭了",
@@ -411,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202672,
+      "num": 202672,
+      "word": "孙颖莎晋级亚洲杯8强",
+      "onboard_time": 1740197900,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200164,
       "num": 200164,
       "word": "贺美琦 时代峰峻",
@@ -425,6 +473,14 @@
       "onboard_time": 1740186560,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 196317,
+      "num": 196317,
+      "word": "爱你OST阵容",
+      "onboard_time": 1740198018,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 194360,
@@ -451,6 +507,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 186050,
+      "num": 186050,
+      "word": "肖战感恩相遇江湖再见",
+      "onboard_time": 1740198200,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 185075,
+      "num": 185075,
+      "word": "孙颖莎3比0李恩惠",
+      "onboard_time": 1740197240,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179124,
       "num": 179124,
       "word": "美国新任FBI局长确认",
@@ -467,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175436,
+      "num": 175436,
+      "word": "吒儿一亿一亿往上冲",
+      "onboard_time": 1740196759,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 174347,
       "num": 174347,
       "word": "红房子 无人生还",
@@ -475,11 +555,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 173175,
-      "num": 251277,
-      "word": "白敬亭吃汉堡被粉丝吓到的反应",
-      "onboard_time": 1740194842,
-      "rank": 18,
+      "raw_hot": 169158,
+      "num": 169158,
+      "word": "林高远vs张本智和",
+      "onboard_time": 1740197301,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 167530,
+      "num": 167530,
+      "word": "赵露思模仿小露思讲话",
+      "onboard_time": 1740196701,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -497,14 +585,6 @@
       "onboard_time": 1740195139,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 162013,
-      "num": 162013,
-      "word": "DeepSeek最新预测哪吒2票房",
-      "onboard_time": 1740194779,
-      "rank": 26,
-      "category": "电影,互联网"
     },
     {
       "raw_hot": 161241,
@@ -531,12 +611,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157690,
+      "num": 245536,
+      "word": "王楚钦说自己准备充分",
+      "onboard_time": 1740197360,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 156303,
+      "num": 156303,
+      "word": "孙颖莎爆冲球把邱教练肚子打红",
+      "onboard_time": 1740195620,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154203,
       "num": 154203,
       "word": "邓为辟谣磨裤子",
       "onboard_time": 1740190220,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153503,
+      "num": 153503,
+      "word": "你好星期六",
+      "onboard_time": 1740197420,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 152790,
@@ -593,6 +697,14 @@
       "onboard_time": 1740184758,
       "rank": 26,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 143492,
+      "num": 143492,
+      "word": "杨肸子哭播赛道",
+      "onboard_time": 1740198321,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 142781,
@@ -659,12 +771,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134748,
+      "num": 134748,
+      "word": "闪耀暖暖",
+      "onboard_time": 1740198141,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 132653,
       "num": 154937,
       "word": "孙颖莎vs李恩惠",
       "onboard_time": 1740194720,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132487,
+      "num": 132487,
+      "word": "用大侦探的方式打开你好星期六",
+      "onboard_time": 1740198380,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 127943,
@@ -697,6 +825,14 @@
       "onboard_time": 1740192439,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125797,
+      "num": 125797,
+      "word": "中药泡脚包暗藏病菌越用越伤身",
+      "onboard_time": 1740196519,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 125317,
@@ -763,6 +899,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117469,
+      "num": 117469,
+      "word": "医生称DeepSeek让看病效率更高",
+      "onboard_time": 1740198141,
+      "rank": 43,
+      "category": "健康医疗,互联网"
+    },
+    {
+      "raw_hot": 114600,
+      "num": 114600,
+      "word": "光渊",
+      "onboard_time": 1740198441,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113667,
       "num": 113667,
       "word": "小行星撞地球概率降了",
@@ -777,6 +929,14 @@
       "onboard_time": 1740138379,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109908,
+      "num": 109908,
+      "word": "患者未患癌被切胆囊埋化疗泵化疗3次",
+      "onboard_time": 1740196281,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108269,
@@ -801,6 +961,14 @@
       "onboard_time": 1740154398,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105642,
+      "num": 105642,
+      "word": "蒯曼3比2简彤娟",
+      "onboard_time": 1740197360,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 105578,
@@ -1115,6 +1283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 36647,
+      "num": 727701,
+      "word": "民营企业爱拼会赢背后蕴藏的机遇",
+      "onboard_time": 1740197120,
+      "rank": 2,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 36429,
       "num": 41309,
       "word": "以色列爆炸现场有多枚爆炸装置",
@@ -1137,6 +1313,14 @@
       "onboard_time": 1740158834,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 27301,
+      "num": 304918,
+      "word": "专家解读平台给骑手上社保",
+      "onboard_time": 1740197240,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24180,
@@ -1289,6 +1473,9 @@
     },
     {
       "word": "#中央军委主席习近平签署命令#"
+    },
+    {
+      "word": "#总书记鼓励民企做强做优做大#"
     }
   ]
 }
