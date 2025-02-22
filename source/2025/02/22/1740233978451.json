@@ -1,0 +1,410 @@
+{
+  "runTime": 1740233978451,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1763259,
+        "num": 1763259,
+        "word": "小蘑菇",
+        "onboard_time": 1740228982,
+        "rank": 0,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 1042060,
+        "num": 1042060,
+        "word": "美女网红救人去世母亲车祸父亲发声",
+        "onboard_time": 1740231686,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 51029,
+        "num": 969353,
+        "word": "破解民营企业融资难各地有新招",
+        "onboard_time": 1740231382,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1120682,
+        "num": 943552,
+        "word": "台当局宣布封杀三所大陆高校遭猛批",
+        "onboard_time": 1740227002,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 908256,
+        "num": 908256,
+        "word": "何炅吐槽的人到底是谁",
+        "onboard_time": 1740222980,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 650541,
+        "num": 650541,
+        "word": "乌克兰被曝并无大量稀土",
+        "onboard_time": 1740228382,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 874669,
+        "num": 623342,
+        "word": "黄灿灿回应",
+        "onboard_time": 1740223100,
+        "rank": 6,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 654634,
+        "num": 608795,
+        "word": "黄明昊演唱会也没错过杨幂电话",
+        "onboard_time": 1740229222,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 514964,
+        "num": 514964,
+        "word": "王楚钦获得澳门世界杯资格",
+        "onboard_time": 1740229822,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 513071,
+        "num": 513071,
+        "word": "浙江人实现一户一雪人",
+        "onboard_time": 1740232045,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 590864,
+        "num": 507380,
+        "word": "670万买的楼王交钱时发现采光差",
+        "onboard_time": 1740226702,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 586979,
+        "num": 498828,
+        "word": "王鹤棣肉眼可见的慌乱",
+        "onboard_time": 1740230721,
+        "rank": 11,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 484646,
+        "num": 484646,
+        "word": "哪吒2超134亿",
+        "onboard_time": 1740228323,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 423637,
+        "num": 423637,
+        "word": "梁靖崑4比2张本智和",
+        "onboard_time": 1740231143,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28094,
+        "num": 412160,
+        "word": "马库斯希望下次再回北京可以正式捐赠",
+        "onboard_time": 1740233063,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 406044,
+        "num": 406044,
+        "word": "刘晓庆回应就不死",
+        "onboard_time": 1740227601,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381117,
+        "num": 381117,
+        "word": "碎玉投珠",
+        "onboard_time": 1740231202,
+        "rank": 16,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 80233,
+        "num": 323276,
+        "word": "现场直击王鹤棣狂宠雅迪摩登车主",
+        "onboard_time": 1740228502,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290007,
+        "num": 290007,
+        "word": "全体土拨鼠抬头那一刻绷不住了",
+        "onboard_time": 1740214461,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18096,
+        "num": 289555,
+        "word": "AI也有满嘴跑火车的时候",
+        "onboard_time": 1740233302,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 398480,
+        "num": 288770,
+        "word": "周杰伦五月天唱了难哄主题曲",
+        "onboard_time": 1740227961,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 334698,
+        "num": 288308,
+        "word": "体检无异常1年半后确诊癌症晚期",
+        "onboard_time": 1740215421,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314230,
+        "num": 287614,
+        "word": "黄明昊杨超越双人舞",
+        "onboard_time": 1740232762,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186264,
+        "num": 286418,
+        "word": "亚洲杯",
+        "onboard_time": 1740227421,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189315,
+        "num": 285875,
+        "word": "小米15Ultra代号夜神",
+        "onboard_time": 1740231562,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 305022,
+        "num": 284946,
+        "word": "熬夜后不要吃完饭再补觉",
+        "onboard_time": 1740228622,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 284473,
+        "num": 284473,
+        "word": "何炅吐槽丁程鑫",
+        "onboard_time": 1740232644,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280953,
+        "num": 280953,
+        "word": "天雷滚滚我好怕怕传到联合国",
+        "onboard_time": 1740219379,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 279732,
+        "num": 279732,
+        "word": "孙颖莎与刘国梁复盘比赛",
+        "onboard_time": 1740227720,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27542,
+        "num": 242136,
+        "word": "王家卫解释花样年华为何选张曼玉",
+        "onboard_time": 1740233123,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 69898,
+        "num": 241724,
+        "word": "有商家盗版哪吒周边卖了200万元",
+        "onboard_time": 1740232522,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241547,
+        "num": 241547,
+        "word": "归棹剧本",
+        "onboard_time": 1740229283,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241451,
+        "num": 241451,
+        "word": "西芹汁治好了我30年的起床困难症",
+        "onboard_time": 1740221240,
+        "rank": 32,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 235604,
+        "num": 235604,
+        "word": "李小冉 贺峻霖小嘴巴闭起来",
+        "onboard_time": 1740232283,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231227,
+        "num": 231227,
+        "word": "再世权臣",
+        "onboard_time": 1740223882,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 200291,
+        "num": 200291,
+        "word": "敖丙传",
+        "onboard_time": 1740220521,
+        "rank": 35,
+        "category": "动漫,电影"
+      },
+      {
+        "raw_hot": 199741,
+        "num": 199741,
+        "word": "从24岁患癌到37岁重生她用13年自救",
+        "onboard_time": 1740220461,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196484,
+        "num": 196484,
+        "word": "郭敬明再晒月鳞绮纪原始帧",
+        "onboard_time": 1740229103,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191926,
+        "num": 191926,
+        "word": "张杰凡希亚合唱Angel",
+        "onboard_time": 1740232102,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190685,
+        "num": 190685,
+        "word": "亚洲杯四强",
+        "onboard_time": 1740233183,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185360,
+        "num": 185360,
+        "word": "男子冒充女童隔空猥亵40多个女孩",
+        "onboard_time": 1740222800,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178935,
+        "num": 178935,
+        "word": "十个勤天演唱会",
+        "onboard_time": 1740221959,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 173483,
+        "num": 173483,
+        "word": "王昶黄雅琼双雨刮器上线",
+        "onboard_time": 1740233483,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168008,
+        "num": 168008,
+        "word": "你的距离",
+        "onboard_time": 1740231863,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 166285,
+        "num": 166285,
+        "word": "国安",
+        "onboard_time": 1740230482,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165810,
+        "num": 165810,
+        "word": "梁靖崑亚洲杯4强",
+        "onboard_time": 1740233723,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164754,
+        "num": 164754,
+        "word": "孙颖莎反应太牛了",
+        "onboard_time": 1740231022,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161361,
+        "num": 161361,
+        "word": "DeepSeek评2025年十大赚钱行业",
+        "onboard_time": 1740227361,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 153007,
+        "num": 153007,
+        "word": "邱贻可演我的状态",
+        "onboard_time": 1740229163,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151009,
+        "num": 151009,
+        "word": "林忆莲深圳演唱会",
+        "onboard_time": 1740233544,
+        "rank": 49,
+        "category": "演出,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#绿水青山瞰我家#"
+    }
+  }
+}
