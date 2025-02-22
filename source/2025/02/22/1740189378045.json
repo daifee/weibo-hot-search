@@ -1,0 +1,410 @@
+{
+  "runTime": 1740189378045,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1092493,
+        "num": 1174798,
+        "word": "老师一堂课没收几十个裂空爪",
+        "onboard_time": 1740177853,
+        "rank": 0,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 673374,
+        "num": 673374,
+        "word": "白宫称即将成为美国第51州的加拿大",
+        "onboard_time": 1740184518,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 52297,
+        "num": 625336,
+        "word": "中国空间站首个舱内在轨机器人试验",
+        "onboard_time": 1740146121,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 584655,
+        "num": 584655,
+        "word": "麦琳cos袁湘琴",
+        "onboard_time": 1740186979,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 514434,
+        "num": 514434,
+        "word": "网传宋轶也在白敬亭录制hi6现场",
+        "onboard_time": 1740186979,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297848,
+        "num": 297848,
+        "word": "DeepSeek分析大学每月1500够花吗",
+        "onboard_time": 1740175751,
+        "rank": 5,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 358438,
+        "num": 297635,
+        "word": "哪吒2票房130亿了",
+        "onboard_time": 1740182958,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 336613,
+        "num": 296678,
+        "word": "有剧集给平台赚了10亿",
+        "onboard_time": 1740187038,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291665,
+        "num": 291665,
+        "word": "国企拟录用名单3名本科生引质疑",
+        "onboard_time": 1740145162,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121977,
+        "num": 291549,
+        "word": "我要把真相还给无数中国人民",
+        "onboard_time": 1740186560,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1022934,
+        "num": 291424,
+        "word": "美国一公园吸毒者如丧尸实拍",
+        "onboard_time": 1740187698,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 425311,
+        "num": 291280,
+        "word": "郭品超前女友发文回应分手",
+        "onboard_time": 1740186979,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393397,
+        "num": 291167,
+        "word": "向太透露为何结婚45年未举行过婚礼",
+        "onboard_time": 1740186259,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332961,
+        "num": 290896,
+        "word": "DeepSeek创始人实习时月薪已超1.6万",
+        "onboard_time": 1740186621,
+        "rank": 13,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 326969,
+        "num": 290769,
+        "word": "辣目洋子演技",
+        "onboard_time": 1740181756,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290724,
+        "num": 290724,
+        "word": "女子生日收万元花束20天后发霉",
+        "onboard_time": 1740186560,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269565,
+        "num": 269565,
+        "word": "陈凯歌说太假了全是套路",
+        "onboard_time": 1740149240,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251416,
+        "num": 251416,
+        "word": "哪吒2引得台湾文化界开始反思",
+        "onboard_time": 1740182176,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198588,
+        "num": 198588,
+        "word": "特朗普说乌克兰无牌可打",
+        "onboard_time": 1740186560,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22057,
+        "num": 189461,
+        "word": "美一公园夜晚吸毒者聚集行为似僵尸",
+        "onboard_time": 1740188900,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 262534,
+        "num": 187891,
+        "word": "凭哪吒2票根可免费游多家景区",
+        "onboard_time": 1740152238,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 215799,
+        "num": 187119,
+        "word": "王一博首登001号",
+        "onboard_time": 1740183737,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186120,
+        "num": 186120,
+        "word": "夫妻报考同一岗位下班后开启备战模式",
+        "onboard_time": 1740188238,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179609,
+        "num": 179609,
+        "word": "4人喝100多瓶啤酒1人呕吐时坠亡",
+        "onboard_time": 1740147860,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67386,
+        "num": 178061,
+        "word": "孙颖莎女单出战",
+        "onboard_time": 1740187459,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176976,
+        "num": 176976,
+        "word": "黄景瑜前妻点名张艺上",
+        "onboard_time": 1740128661,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158483,
+        "num": 158483,
+        "word": "DeepSeek评中国最宜居城市",
+        "onboard_time": 1740118279,
+        "rank": 26,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 147862,
+        "num": 147862,
+        "word": "红房子 封神",
+        "onboard_time": 1740186499,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144701,
+        "num": 144701,
+        "word": "饺子导演老乡给扎起了",
+        "onboard_time": 1740184758,
+        "rank": 28,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 144650,
+        "num": 144650,
+        "word": "特朗普称泽连斯基是否谈判不重要",
+        "onboard_time": 1740184698,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142539,
+        "num": 142539,
+        "word": "在房产证上加名也可能无法分到房产",
+        "onboard_time": 1740152479,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138660,
+        "num": 138660,
+        "word": "难哄拍在了00后最清醒的一年",
+        "onboard_time": 1740133639,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135458,
+        "num": 135458,
+        "word": "张萌谢谢李梦为拍戏放弃大热综艺",
+        "onboard_time": 1740187038,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131156,
+        "num": 131156,
+        "word": "孙颖莎发球失误没忍住笑场",
+        "onboard_time": 1740180554,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123764,
+        "num": 123764,
+        "word": "特朗普对泽连斯基的羞辱持续升级",
+        "onboard_time": 1740188480,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121593,
+        "num": 121593,
+        "word": "小伙请全城免费看哪吒2花销约40万",
+        "onboard_time": 1740185778,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114865,
+        "num": 114865,
+        "word": "偶遇留几手葛夕带狗做手术",
+        "onboard_time": 1740148461,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114251,
+        "num": 114251,
+        "word": "于正不认可张婉莹S级",
+        "onboard_time": 1740150381,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112777,
+        "num": 112777,
+        "word": "白敬亭红温到脖子了",
+        "onboard_time": 1740159254,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107179,
+        "num": 107179,
+        "word": "电梯疑因故障冲顶导致59岁业主身亡",
+        "onboard_time": 1740150381,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105716,
+        "num": 105716,
+        "word": "关晓彤未来感镭射风造型",
+        "onboard_time": 1740143481,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 103945,
+        "num": 103945,
+        "word": "万斯称泽连斯基侮辱了特朗普",
+        "onboard_time": 1740181816,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101956,
+        "num": 101956,
+        "word": "章若楠分手戏演技",
+        "onboard_time": 1740189139,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100571,
+        "num": 100571,
+        "word": "被重庆地铁站里的化妆摊惊艳到了",
+        "onboard_time": 1740185359,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93115,
+        "num": 93115,
+        "word": "官方回应一海南游客拒涨价被持刀威胁",
+        "onboard_time": 1740186921,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91490,
+        "num": 91490,
+        "word": "吴镇宇感动哭了",
+        "onboard_time": 1740149781,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88443,
+        "num": 88443,
+        "word": "温以凡妈妈人设",
+        "onboard_time": 1740168611,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85283,
+        "num": 85283,
+        "word": "王昶首次回应梁王组合拆对传闻",
+        "onboard_time": 1740178813,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86356,
+        "num": 84180,
+        "word": "性骚扰不该成为流量密码",
+        "onboard_time": 1740169272,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82510,
+        "num": 82510,
+        "word": "孙颖莎失误连忙跟邱贻可解释",
+        "onboard_time": 1740157036,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#民营企业座谈会上的更多细节#"
+    }
+  }
+}

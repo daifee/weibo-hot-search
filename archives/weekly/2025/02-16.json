@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1740188408765,
+  "endTime": 1740189378045,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -1475,6 +1475,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1092493,
+      "num": 1174798,
+      "word": "老师一堂课没收几十个裂空爪",
+      "onboard_time": 1740177853,
+      "rank": 11,
+      "category": "民生新闻,电影"
+    },
+    {
       "raw_hot": 1086275,
       "num": 565409,
       "word": "抗癌博主小何日记去世",
@@ -1627,14 +1635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1032029,
-      "num": 1032029,
-      "word": "老师一堂课没收几十个裂空爪",
-      "onboard_time": 1740177853,
-      "rank": 11,
-      "category": "民生新闻,电影"
-    },
-    {
       "raw_hot": 1030114,
       "num": 612539,
       "word": "王楚钦的腹肌",
@@ -1665,6 +1665,14 @@
       "onboard_time": 1739919795,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1022934,
+      "num": 291424,
+      "word": "美国一公园吸毒者如丧尸实拍",
+      "onboard_time": 1740187698,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1021186,
@@ -2113,14 +2121,6 @@
       "onboard_time": 1740041842,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 859034,
-      "num": 133847,
-      "word": "美国一公园吸毒者如丧尸实拍",
-      "onboard_time": 1740187698,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 854456,
@@ -3331,6 +3331,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 584655,
+      "num": 584655,
+      "word": "麦琳cos袁湘琴",
+      "onboard_time": 1740186979,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 581541,
       "num": 581541,
       "word": "张婉莹拿到了S级",
@@ -3369,14 +3377,6 @@
       "onboard_time": 1739833935,
       "rank": 13,
       "category": "演出"
-    },
-    {
-      "raw_hot": 577213,
-      "num": 577213,
-      "word": "麦琳cos袁湘琴",
-      "onboard_time": 1740186979,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 575953,
@@ -3859,6 +3859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 514434,
+      "num": 514434,
+      "word": "网传宋轶也在白敬亭录制hi6现场",
+      "onboard_time": 1740186979,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 513052,
       "num": 513052,
       "word": "第一批用DeepSeek赶作业的小学生出现了",
@@ -3889,14 +3897,6 @@
       "onboard_time": 1739848758,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 506826,
-      "num": 506826,
-      "word": "网传宋轶也在白敬亭录制hi6现场",
-      "onboard_time": 1740186979,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 504771,
@@ -5051,6 +5051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 393397,
+      "num": 304872,
+      "word": "向太透露为何结婚45年未举行过婚礼",
+      "onboard_time": 1740186259,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 393396,
       "num": 393396,
       "word": "仙逆",
@@ -5875,6 +5883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 336613,
+      "num": 296678,
+      "word": "有剧集给平台赚了10亿",
+      "onboard_time": 1740187038,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 335580,
       "num": 335580,
       "word": "民警收下锦旗却给了对方一副手铐",
@@ -5921,6 +5937,14 @@
       "onboard_time": 1739838741,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 332961,
+      "num": 290896,
+      "word": "DeepSeek创始人实习时月薪已超1.6万",
+      "onboard_time": 1740186621,
+      "rank": 16,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 332708,
@@ -6339,14 +6363,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 304872,
-      "num": 304872,
-      "word": "向太透露为何结婚45年未举行过婚礼",
-      "onboard_time": 1740186259,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 304447,
       "num": 297419,
       "word": "何老师我们还是太熟了",
@@ -6577,6 +6593,14 @@
       "onboard_time": 1740056722,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 290724,
+      "num": 290724,
+      "word": "女子生日收万元花束20天后发霉",
+      "onboard_time": 1740186560,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 290609,
@@ -9011,14 +9035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 211592,
-      "num": 211592,
-      "word": "DeepSeek创始人实习时月薪已超1.6万",
-      "onboard_time": 1740186621,
-      "rank": 16,
-      "category": "互联网,民生新闻"
-    },
-    {
       "raw_hot": 211559,
       "num": 211559,
       "word": "崔太洋 鼻子",
@@ -9865,6 +9881,14 @@
       "onboard_time": 1740046221,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198588,
+      "num": 319156,
+      "word": "特朗普说乌克兰无牌可打",
+      "onboard_time": 1740186560,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 198582,
@@ -10755,6 +10779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186120,
+      "num": 186120,
+      "word": "夫妻报考同一岗位下班后开启备战模式",
+      "onboard_time": 1740188238,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 185996,
       "num": 308243,
       "word": "起底涉嫌猥亵儿童导演投资版图",
@@ -10913,14 +10945,6 @@
       "onboard_time": 1739678177,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 183105,
-      "num": 183105,
-      "word": "有剧集给平台赚了10亿",
-      "onboard_time": 1740187038,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 182960,
@@ -12411,14 +12435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 159322,
-      "num": 132908,
-      "word": "夫妻报考同一岗位下班后开启备战模式",
-      "onboard_time": 1740188238,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 159252,
       "num": 159252,
       "word": "红房子剧宣",
@@ -13145,6 +13161,14 @@
       "onboard_time": 1739929760,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147862,
+      "num": 147862,
+      "word": "红房子 封神",
+      "onboard_time": 1740186499,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 147843,
@@ -14123,6 +14147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131156,
+      "num": 131156,
+      "word": "孙颖莎发球失误没忍住笑场",
+      "onboard_time": 1740180554,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130937,
       "num": 130937,
       "word": "女子8年前买黄金为儿子准备彩礼",
@@ -14243,14 +14275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129781,
-      "num": 129781,
-      "word": "孙颖莎发球失误没忍住笑场",
-      "onboard_time": 1740180554,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 129637,
       "num": 177890,
       "word": "这真的是上海不是广寒宫吗",
@@ -14265,14 +14289,6 @@
       "onboard_time": 1739715924,
       "rank": 38,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 129385,
-      "num": 129385,
-      "word": "女子生日收万元花束20天后发霉",
-      "onboard_time": 1740186560,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128952,
@@ -14587,6 +14603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123764,
+      "num": 123764,
+      "word": "特朗普对泽连斯基的羞辱持续升级",
+      "onboard_time": 1740188480,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 123700,
       "num": 206678,
       "word": "厂家回应AI硅胶娃娃提供情绪价值",
@@ -14643,14 +14667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122728,
-      "num": 122728,
-      "word": "红房子 封神",
-      "onboard_time": 1740186499,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 122527,
       "num": 801078,
       "word": "被杀女幼师将被申报见义勇为",
@@ -14664,6 +14680,14 @@
       "word": "医生建议雨水时节要午睡20分钟",
       "onboard_time": 1739839100,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121977,
+      "num": 291549,
+      "word": "我要把真相还给无数中国人民",
+      "onboard_time": 1740186560,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -14697,6 +14721,14 @@
       "onboard_time": 1739931679,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 121593,
+      "num": 121593,
+      "word": "小伙请全城免费看哪吒2花销约40万",
+      "onboard_time": 1740185778,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 121304,
@@ -14891,28 +14923,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 117341,
-      "num": 117341,
-      "word": "小伙请全城免费看哪吒2花销约40万",
-      "onboard_time": 1740185778,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 117156,
       "num": 117156,
       "word": "马斯克官宣Grok3",
       "onboard_time": 1739689518,
       "rank": 39,
       "category": "汽车,电竞"
-    },
-    {
-      "raw_hot": 117113,
-      "num": 117113,
-      "word": "我要把真相还给无数中国人民",
-      "onboard_time": 1740186560,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116639,
@@ -15603,6 +15619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101956,
+      "num": 101956,
+      "word": "章若楠分手戏演技",
+      "onboard_time": 1740189139,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101469,
       "num": 101469,
       "word": "LCK",
@@ -15675,19 +15699,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100571,
+      "num": 100571,
+      "word": "被重庆地铁站里的化妆摊惊艳到了",
+      "onboard_time": 1740185359,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100393,
       "num": 100393,
       "word": "云南7万亩油菜花已开好",
       "onboard_time": 1739668100,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 100359,
-      "num": 100359,
-      "word": "被重庆地铁站里的化妆摊惊艳到了",
-      "onboard_time": 1740185359,
-      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -16001,6 +16025,14 @@
       "onboard_time": 1739976802,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 93115,
+      "num": 93115,
+      "word": "官方回应一海南游客拒涨价被持刀威胁",
+      "onboard_time": 1740186921,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92960,
@@ -16385,14 +16417,6 @@
       "onboard_time": 1739872284,
       "rank": 27,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 83707,
-      "num": 319156,
-      "word": "特朗普说乌克兰无牌可打",
-      "onboard_time": 1740186560,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 83450,
@@ -17075,6 +17099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67386,
+      "num": 178061,
+      "word": "孙颖莎女单出战",
+      "onboard_time": 1740187459,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67238,
       "num": 250255,
       "word": "王鹤棣解说扣篮大赛",
@@ -17129,14 +17161,6 @@
       "onboard_time": 1739831593,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 66226,
-      "num": 105850,
-      "word": "孙颖莎女单出战",
-      "onboard_time": 1740187459,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 66140,
@@ -19481,6 +19505,14 @@
       "onboard_time": 1739863105,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 22057,
+      "num": 189461,
+      "word": "美一公园夜晚吸毒者聚集行为似僵尸",
+      "onboard_time": 1740188900,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 22038,

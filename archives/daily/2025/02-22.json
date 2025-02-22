@@ -1,6 +1,6 @@
 {
   "startTime": 1740155309204,
-  "endTime": 1740188408765,
+  "endTime": 1740189378045,
   "band_list": [
     {
       "raw_hot": 4253645,
@@ -19,12 +19,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1032029,
-      "num": 1032029,
+      "raw_hot": 1092493,
+      "num": 1174798,
       "word": "老师一堂课没收几十个裂空爪",
       "onboard_time": 1740177853,
       "rank": 11,
       "category": "民生新闻,电影"
+    },
+    {
+      "raw_hot": 1022934,
+      "num": 291424,
+      "word": "美国一公园吸毒者如丧尸实拍",
+      "onboard_time": 1740187698,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 976213,
@@ -32,14 +40,6 @@
       "word": "五毛人民币假钞在美国卖五美金",
       "onboard_time": 1740147922,
       "rank": 0,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 859034,
-      "num": 133847,
-      "word": "美国一公园吸毒者如丧尸实拍",
-      "onboard_time": 1740187698,
-      "rank": 30,
       "category": "海外新闻"
     },
     {
@@ -75,8 +75,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 577213,
-      "num": 577213,
+      "raw_hot": 584655,
+      "num": 584655,
       "word": "麦琳cos袁湘琴",
       "onboard_time": 1740186979,
       "rank": 4,
@@ -99,8 +99,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 506826,
-      "num": 506826,
+      "raw_hot": 514434,
+      "num": 514434,
       "word": "网传宋轶也在白敬亭录制hi6现场",
       "onboard_time": 1740186979,
       "rank": 5,
@@ -155,6 +155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 393397,
+      "num": 304872,
+      "word": "向太透露为何结婚45年未举行过婚礼",
+      "onboard_time": 1740186259,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 382194,
       "num": 382194,
       "word": "官方回应有智力缺陷孩子在校被霸凌",
@@ -195,6 +203,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 336613,
+      "num": 296678,
+      "word": "有剧集给平台赚了10亿",
+      "onboard_time": 1740187038,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 332961,
+      "num": 290896,
+      "word": "DeepSeek创始人实习时月薪已超1.6万",
+      "onboard_time": 1740186621,
+      "rank": 16,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 320972,
       "num": 320972,
       "word": "宋亚轩重现出国表情包",
@@ -211,14 +235,6 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 304872,
-      "num": 304872,
-      "word": "向太透露为何结婚45年未举行过婚礼",
-      "onboard_time": 1740186259,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 304081,
       "num": 304081,
       "word": "国企拟录用名单3名本科生引质疑",
@@ -233,6 +249,14 @@
       "onboard_time": 1740139760,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 290724,
+      "num": 290724,
+      "word": "女子生日收万元花束20天后发霉",
+      "onboard_time": 1740186560,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 258173,
@@ -259,14 +283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 211592,
-      "num": 211592,
-      "word": "DeepSeek创始人实习时月薪已超1.6万",
-      "onboard_time": 1740186621,
-      "rank": 16,
-      "category": "互联网,民生新闻"
-    },
-    {
       "raw_hot": 203693,
       "num": 203693,
       "word": "吴镇宇感动哭了",
@@ -291,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198588,
+      "num": 319156,
+      "word": "特朗普说乌克兰无牌可打",
+      "onboard_time": 1740186560,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 192901,
       "num": 192901,
       "word": "郭品超官宣分手",
@@ -307,12 +331,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 183105,
-      "num": 183105,
-      "word": "有剧集给平台赚了10亿",
-      "onboard_time": 1740187038,
-      "rank": 22,
-      "category": "剧集"
+      "raw_hot": 186120,
+      "num": 186120,
+      "word": "夫妻报考同一岗位下班后开启备战模式",
+      "onboard_time": 1740188238,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 174347,
@@ -321,14 +345,6 @@
       "onboard_time": 1740138800,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 159322,
-      "num": 132908,
-      "word": "夫妻报考同一岗位下班后开启备战模式",
-      "onboard_time": 1740188238,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 159191,
@@ -353,6 +369,14 @@
       "onboard_time": 1740184698,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 147862,
+      "num": 147862,
+      "word": "红房子 封神",
+      "onboard_time": 1740186499,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 145344,
@@ -427,20 +451,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129781,
-      "num": 129781,
+      "raw_hot": 131156,
+      "num": 131156,
       "word": "孙颖莎发球失误没忍住笑场",
       "onboard_time": 1740180554,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 129385,
-      "num": 129385,
-      "word": "女子生日收万元花束20天后发霉",
-      "onboard_time": 1740186560,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127830,
@@ -467,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123764,
+      "num": 123764,
+      "word": "特朗普对泽连斯基的羞辱持续升级",
+      "onboard_time": 1740188480,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 123700,
       "num": 206678,
       "word": "厂家回应AI硅胶娃娃提供情绪价值",
@@ -475,28 +499,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 122728,
-      "num": 122728,
-      "word": "红房子 封神",
-      "onboard_time": 1740186499,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 117341,
-      "num": 117341,
-      "word": "小伙请全城免费看哪吒2花销约40万",
-      "onboard_time": 1740185778,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 117113,
-      "num": 117113,
+      "raw_hot": 121977,
+      "num": 291549,
       "word": "我要把真相还给无数中国人民",
       "onboard_time": 1740186560,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121593,
+      "num": 121593,
+      "word": "小伙请全城免费看哪吒2花销约40万",
+      "onboard_time": 1740185778,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 113667,
@@ -555,6 +571,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 101956,
+      "num": 101956,
+      "word": "章若楠分手戏演技",
+      "onboard_time": 1740189139,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100834,
       "num": 100834,
       "word": "孙颖莎失误连忙跟邱贻可解释",
@@ -571,8 +595,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 100359,
-      "num": 100359,
+      "raw_hot": 100571,
+      "num": 100571,
       "word": "被重庆地铁站里的化妆摊惊艳到了",
       "onboard_time": 1740185359,
       "rank": 43,
@@ -609,6 +633,14 @@
       "onboard_time": 1740148281,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93115,
+      "num": 93115,
+      "word": "官方回应一海南游客拒涨价被持刀威胁",
+      "onboard_time": 1740186921,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89411,
@@ -659,14 +691,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 83707,
-      "num": 319156,
-      "word": "特朗普说乌克兰无牌可打",
-      "onboard_time": 1740186560,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 80311,
       "num": 62679,
       "word": "前女友力挺法老",
@@ -699,8 +723,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 66226,
-      "num": 105850,
+      "raw_hot": 67386,
+      "num": 178061,
       "word": "孙颖莎女单出战",
       "onboard_time": 1740187459,
       "rank": 40,
@@ -841,6 +865,14 @@
       "onboard_time": 1740163332,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 22057,
+      "num": 189461,
+      "word": "美一公园夜晚吸毒者聚集行为似僵尸",
+      "onboard_time": 1740188900,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 19696,
