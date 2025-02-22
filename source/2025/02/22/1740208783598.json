@@ -1,0 +1,410 @@
+{
+  "runTime": 1740208783598,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1134896,
+        "num": 1181583,
+        "word": "美国一公园吸毒者如丧尸实拍",
+        "onboard_time": 1740187698,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 766694,
+        "num": 766694,
+        "word": "张峻豪感染诺如昏迷了一阵子",
+        "onboard_time": 1740205760,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19819,
+        "num": 647366,
+        "word": "民营企业爱拼会赢背后蕴藏的机遇",
+        "onboard_time": 1740197120,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 831969,
+        "num": 642675,
+        "word": "章若楠演技",
+        "onboard_time": 1740202040,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 593852,
+        "num": 593852,
+        "word": "200斤女生cos石矶娘娘被当真",
+        "onboard_time": 1740190458,
+        "rank": 4,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 519471,
+        "num": 519471,
+        "word": "面试遭73岁董事长猥亵当事人已和解",
+        "onboard_time": 1740206721,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 628416,
+        "num": 484185,
+        "word": "难哄 鬼片镜头",
+        "onboard_time": 1740201740,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 446782,
+        "num": 446782,
+        "word": "难哄原著粉",
+        "onboard_time": 1740203060,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 422155,
+        "num": 422155,
+        "word": "卖AI教程4天赚了20万元",
+        "onboard_time": 1740203241,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 313877,
+        "num": 313877,
+        "word": "事业单位回应招人照护老人如厕沐浴",
+        "onboard_time": 1740202160,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 470970,
+        "num": 312808,
+        "word": "官方通报2岁男童托育园午睡身亡",
+        "onboard_time": 1740198498,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 444461,
+        "num": 303720,
+        "word": "烽火流金",
+        "onboard_time": 1740202579,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 408168,
+        "num": 293346,
+        "word": "刘晓庆被所谓朋友吸血十年",
+        "onboard_time": 1740202640,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354067,
+        "num": 286397,
+        "word": "金圣圭姐姐去世",
+        "onboard_time": 1740204321,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332574,
+        "num": 280677,
+        "word": "哪吒2破132亿",
+        "onboard_time": 1740207441,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 276860,
+        "num": 276860,
+        "word": "DeepSeek给出周末不虚度指南",
+        "onboard_time": 1740200780,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 196910,
+        "num": 196910,
+        "word": "关于缴纳社保我们采访了10位外卖骑手",
+        "onboard_time": 1740199819,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195177,
+        "num": 195177,
+        "word": "男子到超市买67张购物卡店员秒报警",
+        "onboard_time": 1740196399,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171186,
+        "num": 171186,
+        "word": "私家侦探提供女子信息致其被丈夫打死",
+        "onboard_time": 1740190759,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153271,
+        "num": 153271,
+        "word": "梁靖崑vs张禹珍",
+        "onboard_time": 1740202280,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330492,
+        "num": 153237,
+        "word": "韩庚卢靖姗我那漂亮小舅小舅妈",
+        "onboard_time": 1740206060,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216116,
+        "num": 152486,
+        "word": "魏晨初代跳舞白月光杀回来了",
+        "onboard_time": 1740207141,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207278,
+        "num": 152110,
+        "word": "哪吒2票房破131亿",
+        "onboard_time": 1740200360,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183890,
+        "num": 151373,
+        "word": "KYA出道前玩张元英吃草莓梗",
+        "onboard_time": 1740206118,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70611,
+        "num": 151184,
+        "word": "陈幸同3比2早田希娜",
+        "onboard_time": 1740205881,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183433,
+        "num": 150665,
+        "word": "徐若晗新剧被男友PUA",
+        "onboard_time": 1740206541,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150415,
+        "num": 150415,
+        "word": "李嘉琦回应六姊妹争议",
+        "onboard_time": 1740198921,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144220,
+        "num": 144220,
+        "word": "哪吒2香港首日票房预售484万",
+        "onboard_time": 1740202160,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134439,
+        "num": 134439,
+        "word": "剧版温以凡 窝囊",
+        "onboard_time": 1740203421,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141030,
+        "num": 133534,
+        "word": "这算是敖吒还是哪丙",
+        "onboard_time": 1740205819,
+        "rank": 29,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 129253,
+        "num": 129253,
+        "word": "36岁女子直播一夜后猝死",
+        "onboard_time": 1740189621,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129473,
+        "num": 128889,
+        "word": "哪吒2",
+        "onboard_time": 1740207980,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124706,
+        "num": 124706,
+        "word": "吴谨言特别出演天堂旅行团",
+        "onboard_time": 1740202940,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 103850,
+        "num": 103850,
+        "word": "老师一堂课没收几十个裂空爪",
+        "onboard_time": 1740177853,
+        "rank": 33,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 101569,
+        "num": 101569,
+        "word": "王艺迪vs申裕斌",
+        "onboard_time": 1740206420,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121589,
+        "num": 101186,
+        "word": "桑延温以凡亲了",
+        "onboard_time": 1740203119,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116517,
+        "num": 100959,
+        "word": "余承恩王子璇他在笑她在爆笑",
+        "onboard_time": 1740206479,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98819,
+        "num": 98819,
+        "word": "梁靖崑3比2胜张禹珍",
+        "onboard_time": 1740206899,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98159,
+        "num": 98159,
+        "word": "王楚钦说我还没这么老吧",
+        "onboard_time": 1740208400,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98073,
+        "num": 98073,
+        "word": "女子5年前买哪吒黄金手镯已翻倍",
+        "onboard_time": 1740201142,
+        "rank": 39,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 110472,
+        "num": 98036,
+        "word": "女子跳崖被心上人飞扑拦下",
+        "onboard_time": 1740205881,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109881,
+        "num": 97853,
+        "word": "难哄",
+        "onboard_time": 1740201559,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108275,
+        "num": 97654,
+        "word": "温以凡穿搭",
+        "onboard_time": 1740206721,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102704,
+        "num": 97499,
+        "word": "余承恩给了姐姐最感动的生日",
+        "onboard_time": 1740208219,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98852,
+        "num": 97379,
+        "word": "刘诗诗新剧恐怖氛围拉满",
+        "onboard_time": 1740205819,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97339,
+        "num": 97339,
+        "word": "王楚钦说和高承睿有过刻骨铭心的经历",
+        "onboard_time": 1740208639,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94159,
+        "num": 94159,
+        "word": "一向节俭的父亲为微短剧充值3万多元",
+        "onboard_time": 1740205701,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88488,
+        "num": 92441,
+        "word": "马库斯说儿时对日本侵华史一无所知",
+        "onboard_time": 1740206600,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91015,
+        "num": 91015,
+        "word": "刘晓庆拒绝游泳的原因",
+        "onboard_time": 1740202640,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88554,
+        "num": 88554,
+        "word": "女子生日收万元花束20天后发霉",
+        "onboard_time": 1740186560,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记鼓励民企做强做优做大#"
+    }
+  }
+}

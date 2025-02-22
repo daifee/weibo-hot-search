@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1740206664317,
+  "endTime": 1740208783598,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -2251,6 +2251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 831969,
+      "num": 642675,
+      "word": "章若楠演技",
+      "onboard_time": 1739861009,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 830633,
       "num": 830633,
       "word": "2025高考时间公布",
@@ -2569,6 +2577,14 @@
       "onboard_time": 1739872284,
       "rank": 4,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 766694,
+      "num": 766694,
+      "word": "张峻豪感染诺如昏迷了一阵子",
+      "onboard_time": 1740205760,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 763328,
@@ -3097,14 +3113,6 @@
       "onboard_time": 1740138739,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 641285,
-      "num": 472516,
-      "word": "张峻豪感染诺如昏迷了一阵子",
-      "onboard_time": 1740205760,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 639799,
@@ -3899,6 +3907,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 519471,
+      "num": 519471,
+      "word": "面试遭73岁董事长猥亵当事人已和解",
+      "onboard_time": 1740206721,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 519370,
       "num": 450936,
       "word": "徐冬冬发文表白尹子维",
@@ -4564,7 +4580,7 @@
     },
     {
       "raw_hot": 451066,
-      "num": 440074,
+      "num": 446782,
       "word": "难哄原著粉",
       "onboard_time": 1740203060,
       "rank": 7,
@@ -4697,14 +4713,6 @@
       "onboard_time": 1740126800,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 441514,
-      "num": 376818,
-      "word": "章若楠演技",
-      "onboard_time": 1739861009,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 440611,
@@ -5819,6 +5827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 354067,
+      "num": 286397,
+      "word": "金圣圭姐姐去世",
+      "onboard_time": 1740204321,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 353768,
       "num": 369335,
       "word": "谁参加了这场最高规格的座谈会",
@@ -6163,6 +6179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 332574,
+      "num": 280677,
+      "word": "哪吒2破132亿",
+      "onboard_time": 1740207441,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 332114,
       "num": 260063,
       "word": "未成年人拍举牌视频属于性剥削",
@@ -6185,6 +6209,14 @@
       "onboard_time": 1740035782,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 330492,
+      "num": 199879,
+      "word": "韩庚卢靖姗我那漂亮小舅小舅妈",
+      "onboard_time": 1740206060,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 330216,
@@ -6417,14 +6449,6 @@
       "onboard_time": 1739697679,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 317568,
-      "num": 199879,
-      "word": "韩庚卢靖姗我那漂亮小舅小舅妈",
-      "onboard_time": 1740206060,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 316852,
@@ -7171,14 +7195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 278520,
-      "num": 278520,
-      "word": "金圣圭姐姐去世",
-      "onboard_time": 1740204321,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 278227,
       "num": 278227,
       "word": "魏大勋听不得马耳他三个字",
@@ -7209,6 +7225,14 @@
       "onboard_time": 1739887403,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 276860,
+      "num": 362823,
+      "word": "DeepSeek给出周末不虚度指南",
+      "onboard_time": 1740200780,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 276678,
@@ -9137,6 +9161,14 @@
       "onboard_time": 1739761638,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 216116,
+      "num": 152486,
+      "word": "魏晨初代跳舞白月光杀回来了",
+      "onboard_time": 1740207141,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 215920,
@@ -11395,6 +11427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183433,
+      "num": 150665,
+      "word": "徐若晗新剧被男友PUA",
+      "onboard_time": 1740206541,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183369,
       "num": 183369,
       "word": "我妈到底都在网上看了些啥",
@@ -11817,14 +11857,6 @@
       "onboard_time": 1740030381,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 176396,
-      "num": 362823,
-      "word": "DeepSeek给出周末不虚度指南",
-      "onboard_time": 1740200780,
-      "rank": 9,
-      "category": "互联网"
     },
     {
       "raw_hot": 176199,
@@ -14251,6 +14283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141030,
+      "num": 139810,
+      "word": "这算是敖吒还是哪丙",
+      "onboard_time": 1740205819,
+      "rank": 43,
+      "category": "民生新闻,电影"
+    },
+    {
       "raw_hot": 140842,
       "num": 276676,
       "word": "未来AI机器人或能小到进入血管",
@@ -14299,14 +14339,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 139998,
-      "num": 139998,
-      "word": "徐若晗新剧被男友PUA",
-      "onboard_time": 1740206541,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 139940,
       "num": 139940,
       "word": "五福临门",
@@ -14329,14 +14361,6 @@
       "onboard_time": 1739700979,
       "rank": 28,
       "category": "教育"
-    },
-    {
-      "raw_hot": 139810,
-      "num": 139810,
-      "word": "这算是敖吒还是哪丙",
-      "onboard_time": 1740205819,
-      "rank": 43,
-      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 139786,
@@ -15692,7 +15716,7 @@
     },
     {
       "raw_hot": 117453,
-      "num": 117453,
+      "num": 151184,
       "word": "陈幸同3比2早田希娜",
       "onboard_time": 1740205881,
       "rank": 48,
@@ -16043,6 +16067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108275,
+      "num": 97654,
+      "word": "温以凡穿搭",
+      "onboard_time": 1740206721,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108269,
       "num": 175656,
       "word": "eStar跨赛季十七连胜",
@@ -16363,6 +16395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102704,
+      "num": 97499,
+      "word": "余承恩给了姐姐最感动的生日",
+      "onboard_time": 1740208219,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102619,
       "num": 260200,
       "word": "为什么隔着玻璃晒太阳是无效的",
@@ -16432,6 +16472,14 @@
       "word": "詹姆斯向美娜透露中国行",
       "onboard_time": 1739863825,
       "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 101569,
+      "num": 174127,
+      "word": "王艺迪vs申裕斌",
+      "onboard_time": 1740206420,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -16603,6 +16651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 98819,
+      "num": 98819,
+      "word": "梁靖崑3比2胜张禹珍",
+      "onboard_time": 1740206899,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98602,
       "num": 592863,
       "word": "成毅六边形实力具象化",
@@ -16635,11 +16691,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98159,
+      "num": 98159,
+      "word": "王楚钦说我还没这么老吧",
+      "onboard_time": 1740208400,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98083,
       "num": 389001,
       "word": "林诗栋王楚钦对练",
       "onboard_time": 1739862086,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 97339,
+      "num": 97339,
+      "word": "王楚钦说和高承睿有过刻骨铭心的经历",
+      "onboard_time": 1740208639,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -16817,6 +16889,14 @@
       "onboard_time": 1739784320,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 94159,
+      "num": 200402,
+      "word": "一向节俭的父亲为微短剧充值3万多元",
+      "onboard_time": 1740205701,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93870,
@@ -17073,6 +17153,14 @@
       "onboard_time": 1740151100,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88488,
+      "num": 139868,
+      "word": "马库斯说儿时对日本侵华史一无所知",
+      "onboard_time": 1740206600,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 88364,
@@ -18337,14 +18425,6 @@
       "onboard_time": 1740063981,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 59112,
-      "num": 200402,
-      "word": "一向节俭的父亲为微短剧充值3万多元",
-      "onboard_time": 1740205701,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 58915,
@@ -21227,14 +21307,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 11020,
-      "num": 174127,
-      "word": "王艺迪vs申裕斌",
-      "onboard_time": 1740206420,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 10992,
       "num": 224774,
       "word": "柯南M28情报下周揭晓",
@@ -21273,14 +21345,6 @@
       "onboard_time": 1739700858,
       "rank": 29,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 10630,
-      "num": 139868,
-      "word": "马库斯说儿时对日本侵华史一无所知",
-      "onboard_time": 1740206600,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 10531,
