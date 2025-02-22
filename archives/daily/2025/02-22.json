@@ -1,6 +1,6 @@
 {
   "startTime": 1740155309204,
-  "endTime": 1740223033465,
+  "endTime": 1740224148908,
   "band_list": [
     {
       "raw_hot": 12791228,
@@ -17,6 +17,14 @@
       "onboard_time": 1740186560,
       "rank": 0,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 3228616,
+      "num": 3228616,
+      "word": "武汉一中学生坠楼身亡",
+      "onboard_time": 1740221779,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2461825,
@@ -75,19 +83,19 @@
       "category": "民生新闻,电影"
     },
     {
+      "raw_hot": 1376229,
+      "num": 1376229,
+      "word": "孙颖莎vs张本美和",
+      "onboard_time": 1740222380,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1334865,
       "num": 269177,
       "word": "吴川三中",
       "onboard_time": 1740152839,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1099878,
-      "num": 1099878,
-      "word": "武汉一中学生坠楼身亡",
-      "onboard_time": 1740221779,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -121,6 +129,14 @@
       "onboard_time": 1740202040,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 960834,
+      "num": 960834,
+      "word": "黄灿灿回应",
+      "onboard_time": 1740223100,
+      "rank": 3,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 926885,
@@ -235,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 660777,
+      "num": 660777,
+      "word": "敖丙传",
+      "onboard_time": 1740220521,
+      "rank": 33,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 633893,
       "num": 584655,
       "word": "麦琳cos袁湘琴",
@@ -259,6 +283,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 599957,
+      "num": 599957,
+      "word": "雅迪 王鹤棣",
+      "onboard_time": 1740221839,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 596014,
+      "num": 596014,
+      "word": "家有儿女到底花了多少经费在餐桌上",
+      "onboard_time": 1740219322,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 583321,
       "num": 459158,
       "word": "张凌赫工作室必有高人指点",
@@ -276,7 +316,7 @@
     },
     {
       "raw_hot": 566639,
-      "num": 408420,
+      "num": 506047,
       "word": "从24岁患癌到37岁重生她用13年自救",
       "onboard_time": 1740220461,
       "rank": 12,
@@ -339,14 +379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 510505,
-      "num": 410678,
-      "word": "家有儿女到底花了多少经费在餐桌上",
-      "onboard_time": 1740219322,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 509756,
       "num": 509756,
       "word": "特朗普威胁禁止跨性别者参加女子赛事",
@@ -393,14 +425,6 @@
       "onboard_time": 1740218001,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 490489,
-      "num": 361108,
-      "word": "敖丙传",
-      "onboard_time": 1740220521,
-      "rank": 33,
-      "category": "电影,动漫"
     },
     {
       "raw_hot": 484557,
@@ -528,6 +552,14 @@
       "word": "凭哪吒2票根可免费游多家景区",
       "onboard_time": 1740152238,
       "rank": 21,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 418231,
+      "num": 296817,
+      "word": "天雷滚滚我好怕怕传到联合国",
+      "onboard_time": 1740219379,
+      "rank": 23,
       "category": "电影"
     },
     {
@@ -691,14 +723,6 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 314557,
-      "num": 279185,
-      "word": "天雷滚滚我好怕怕传到联合国",
-      "onboard_time": 1740219379,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 311005,
       "num": 311005,
       "word": "漂白出品人称拍戏出点事故太正常了",
@@ -771,12 +795,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 281384,
+      "num": 171727,
+      "word": "何炅吐槽的人到底是谁",
+      "onboard_time": 1740222980,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 280893,
       "num": 280893,
       "word": "王楚钦vs高承睿",
       "onboard_time": 1740192619,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 280290,
+      "num": 280290,
+      "word": "男子冒充女童隔空猥亵40多个女孩",
+      "onboard_time": 1740222800,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 276949,
@@ -867,6 +907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239197,
+      "num": 205591,
+      "word": "西芹汁治好了我30年的起床困难症",
+      "onboard_time": 1740221240,
+      "rank": 30,
+      "category": "健康医疗,美食"
+    },
+    {
       "raw_hot": 231274,
       "num": 231274,
       "word": "无限暖暖发光发亮黑化版",
@@ -883,20 +931,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 229809,
-      "num": 205591,
-      "word": "西芹汁治好了我30年的起床困难症",
-      "onboard_time": 1740221240,
-      "rank": 30,
-      "category": "健康医疗,美食"
-    },
-    {
       "raw_hot": 226751,
       "num": 196983,
       "word": "第五人格",
       "onboard_time": 1740198799,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 223245,
+      "num": 223245,
+      "word": "十个勤天演唱会",
+      "onboard_time": 1740221959,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 222299,
@@ -939,14 +987,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 212006,
-      "num": 212006,
-      "word": "雅迪 王鹤棣",
-      "onboard_time": 1740221839,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 211817,
       "num": 338266,
       "word": "演讲稿在眼镜里动动戒指就翻页",
@@ -977,6 +1017,14 @@
       "onboard_time": 1740191541,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 205986,
+      "num": 183889,
+      "word": "没想过李瓒和段嘉许是同一张脸",
+      "onboard_time": 1740222980,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 204307,
@@ -1035,6 +1083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201261,
+      "num": 389218,
+      "word": "特朗普称将起诉美联社",
+      "onboard_time": 1740222200,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 201065,
       "num": 201065,
       "word": "杨幂戒掉情绪",
@@ -1081,6 +1137,14 @@
       "onboard_time": 1740205819,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197797,
+      "num": 168440,
+      "word": "这些东西到底是谁在吃啊",
+      "onboard_time": 1740223460,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 196507,
@@ -1147,14 +1211,6 @@
       "category": "民生新闻,电影"
     },
     {
-      "raw_hot": 192553,
-      "num": 192553,
-      "word": "十个勤天演唱会",
-      "onboard_time": 1740221959,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 192335,
       "num": 192335,
       "word": "红房子",
@@ -1187,12 +1243,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 186572,
+      "raw_hot": 188453,
       "num": 186572,
       "word": "王俊凯晒单板滑雪vlog",
       "onboard_time": 1740222501,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187264,
+      "num": 187264,
+      "word": "再世权臣",
+      "onboard_time": 1740223882,
+      "rank": 17,
+      "category": "动漫"
     },
     {
       "raw_hot": 186125,
@@ -1225,14 +1289,6 @@
       "onboard_time": 1740211641,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 183889,
-      "num": 183889,
-      "word": "没想过李瓒和段嘉许是同一张脸",
-      "onboard_time": 1740222980,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 183433,
@@ -1313,14 +1369,6 @@
       "onboard_time": 1740208940,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 170682,
-      "num": 170682,
-      "word": "男子冒充女童隔空猥亵40多个女孩",
-      "onboard_time": 1740222800,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 170007,
@@ -1459,6 +1507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157767,
+      "num": 266659,
+      "word": "多方回应电梯故障冲顶致业主身亡",
+      "onboard_time": 1740222561,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157690,
       "num": 245536,
       "word": "王楚钦说自己准备充分",
@@ -1491,6 +1547,14 @@
       "category": "民生新闻,电影"
     },
     {
+      "raw_hot": 155410,
+      "num": 173033,
+      "word": "KPL",
+      "onboard_time": 1740223699,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 154203,
       "num": 154203,
       "word": "邓为辟谣磨裤子",
@@ -1512,6 +1576,14 @@
       "word": "你好星期六",
       "onboard_time": 1740197420,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 153418,
+      "num": 153418,
+      "word": "邓佳鑫因太清晰而格格不入",
+      "onboard_time": 1740222920,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -1545,14 +1617,6 @@
       "onboard_time": 1740204019,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151402,
-      "num": 151402,
-      "word": "邓佳鑫因太清晰而格格不入",
-      "onboard_time": 1740222920,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 150955,
@@ -1715,6 +1779,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 140106,
+      "num": 140106,
+      "word": "教育局回应中学生坠楼身亡",
+      "onboard_time": 1740223882,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140034,
       "num": 140034,
       "word": "中药泡脚包暗藏病菌越用越伤身",
@@ -1729,14 +1801,6 @@
       "onboard_time": 1740151819,
       "rank": 32,
       "category": "网红"
-    },
-    {
-      "raw_hot": 138187,
-      "num": 138187,
-      "word": "何炅吐槽的人到底是谁",
-      "onboard_time": 1740222980,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 137460,
@@ -1769,14 +1833,6 @@
       "onboard_time": 1740209480,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 133887,
-      "num": 392174,
-      "word": "孙颖莎vs张本美和",
-      "onboard_time": 1740222380,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 133293,
@@ -1833,6 +1889,14 @@
       "onboard_time": 1740207980,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 128092,
+      "num": 128092,
+      "word": "土拨鼠单挑4只牧羊犬遭交警劝架",
+      "onboard_time": 1740223640,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127993,
@@ -1936,6 +2000,14 @@
       "word": "向太喊话向华强补办婚礼",
       "onboard_time": 1740191900,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 121816,
+      "num": 121816,
+      "word": "王俊凯的滑雪课",
+      "onboard_time": 1740224121,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -2363,14 +2435,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 82446,
-      "num": 389218,
-      "word": "特朗普称将起诉美联社",
-      "onboard_time": 1740222200,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 81153,
       "num": 217503,
       "word": "林诗栋4比1宇田幸矢",
@@ -2424,6 +2488,14 @@
       "word": "王曼昱火速进8强",
       "onboard_time": 1740202280,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 72240,
+      "num": 128279,
+      "word": "U20国足遭绝杀",
+      "onboard_time": 1740221721,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -2515,6 +2587,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 57122,
+      "num": 344473,
+      "word": "你怎么看跟孩子动手这件事",
+      "onboard_time": 1740222260,
+      "rank": 14,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 55331,
       "num": 222681,
       "word": "民警建议家里不要安装摄像头",
@@ -2572,7 +2652,7 @@
     },
     {
       "raw_hot": 47465,
-      "num": 916208,
+      "num": 972440,
       "word": "天问二号一次发射实施多项任务",
       "onboard_time": 1740215480,
       "rank": 2,
@@ -2787,6 +2867,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 23355,
+      "num": 173581,
+      "word": "马库斯说只想捐照片不想当英雄",
+      "onboard_time": 1740223761,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23100,
       "num": 170709,
       "word": "古滇国青铜器上蛇的存在感超高",
@@ -2817,22 +2905,6 @@
       "onboard_time": 1740163332,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 22058,
-      "num": 266659,
-      "word": "多方回应电梯故障冲顶致业主身亡",
-      "onboard_time": 1740222561,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19816,
-      "num": 344473,
-      "word": "你怎么看跟孩子动手这件事",
-      "onboard_time": 1740222260,
-      "rank": 14,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 19696,
@@ -2881,6 +2953,14 @@
       "onboard_time": 1740167951,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15612,
+      "num": 169025,
+      "word": "U20国足球员赛后无人接受采访",
+      "onboard_time": 1740224061,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 15411,

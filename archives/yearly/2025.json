@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1740223033465,
+  "endTime": 1740224148908,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1161,6 +1161,14 @@
       "onboard_time": 1738456816,
       "rank": 0,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 3228616,
+      "num": 3228616,
+      "word": "武汉一中学生坠楼身亡",
+      "onboard_time": 1740221779,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 3226443,
@@ -2392,14 +2400,6 @@
       "word": "具俊晔崩溃",
       "onboard_time": 1738629080,
       "rank": 3,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2334084,
-      "num": 2334084,
-      "word": "姜尘晒录音提张颂文名字",
-      "onboard_time": 1736042491,
-      "rank": 15,
       "category": "艺人"
     }
   ],
