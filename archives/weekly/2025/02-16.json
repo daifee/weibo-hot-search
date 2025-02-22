@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1740216923434,
+  "endTime": 1740219762649,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -659,6 +659,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 1718465,
+      "num": 783182,
+      "word": "漂白受伤替身发文",
+      "onboard_time": 1740215722,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1706142,
       "num": 1706142,
       "word": "马斯克查美社保称发现360岁老人",
@@ -921,14 +929,6 @@
       "onboard_time": 1739668520,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1474890,
-      "num": 733905,
-      "word": "漂白受伤替身发文",
-      "onboard_time": 1740215722,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 1472076,
@@ -1697,6 +1697,14 @@
       "onboard_time": 1739934080,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1035802,
+      "num": 1035802,
+      "word": "全体土拨鼠抬头那一刻绷不住了",
+      "onboard_time": 1740214461,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1030114,
@@ -2555,6 +2563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 775038,
+      "num": 775038,
+      "word": "U20国足vs沙特U20",
+      "onboard_time": 1740204140,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 774631,
       "num": 926458,
       "word": "32岁病逝女博士本已开始筹备婚礼",
@@ -2673,14 +2689,6 @@
       "onboard_time": 1739714363,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 739426,
-      "num": 739426,
-      "word": "全体土拨鼠抬头那一刻绷不住了",
-      "onboard_time": 1740214461,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 738850,
@@ -3036,7 +3044,7 @@
     },
     {
       "raw_hot": 661598,
-      "num": 219118,
+      "num": 224655,
       "word": "体检无异常1年半后确诊癌症晚期",
       "onboard_time": 1740215421,
       "rank": 21,
@@ -4019,6 +4027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 517093,
+      "num": 459158,
+      "word": "张凌赫工作室必有高人指点",
+      "onboard_time": 1740214761,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 516699,
       "num": 516699,
       "word": "王大陆被带进问询室",
@@ -4051,6 +4067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 513839,
+      "num": 513839,
+      "word": "u20国足点球不进",
+      "onboard_time": 1740217220,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 513052,
       "num": 513052,
       "word": "第一批用DeepSeek赶作业的小学生出现了",
@@ -4073,6 +4097,14 @@
       "onboard_time": 1740138379,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 509756,
+      "num": 509756,
+      "word": "特朗普威胁禁止跨性别者参加女子赛事",
+      "onboard_time": 1740214520,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 508422,
@@ -4585,14 +4617,6 @@
       "onboard_time": 1740203241,
       "rank": 8,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 459158,
-      "num": 459158,
-      "word": "张凌赫工作室必有高人指点",
-      "onboard_time": 1740214761,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 458146,
@@ -5499,6 +5523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 383578,
+      "num": 383578,
+      "word": "神外专家修波意外离世",
+      "onboard_time": 1740216442,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 383546,
       "num": 383546,
       "word": "什么是个税年度汇算",
@@ -5969,14 +6001,6 @@
       "onboard_time": 1739882963,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 353470,
-      "num": 476833,
-      "word": "特朗普威胁禁止跨性别者参加女子赛事",
-      "onboard_time": 1740214520,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 350965,
@@ -6635,6 +6659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 311005,
+      "num": 311005,
+      "word": "漂白出品人称拍戏出点事故太正常了",
+      "onboard_time": 1740216442,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 310764,
       "num": 279062,
       "word": "3种蔬菜比牛奶还补钙",
@@ -6793,14 +6825,6 @@
       "onboard_time": 1739822050,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 301010,
-      "num": 301010,
-      "word": "U20国足vs沙特U20",
-      "onboard_time": 1740204140,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 300664,
@@ -7539,6 +7563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 268374,
+      "num": 246885,
+      "word": "哪吒2票房133亿",
+      "onboard_time": 1740218001,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 268364,
       "num": 268364,
       "word": "LIZ身材",
@@ -8017,6 +8049,14 @@
       "onboard_time": 1739794938,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 252351,
+      "num": 252351,
+      "word": "U20国足无缘4强",
+      "onboard_time": 1740219322,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 252182,
@@ -8851,6 +8891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226846,
+      "num": 226846,
+      "word": "杭州下雪",
+      "onboard_time": 1740216861,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 226751,
       "num": 232657,
       "word": "第五人格",
@@ -9243,6 +9291,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 218256,
+      "num": 218256,
+      "word": "天雷滚滚我好怕怕传到联合国",
+      "onboard_time": 1740219379,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 217899,
       "num": 217899,
       "word": "章若楠你就这么追星李宇春的",
@@ -9347,12 +9403,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 215780,
+      "num": 215780,
+      "word": "亚洲杯U20",
+      "onboard_time": 1739647931,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 215672,
       "num": 391716,
       "word": "网友问DeepSeek最多的问题",
       "onboard_time": 1739859155,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 215587,
+      "num": 215587,
+      "word": "130亿三岁影帝接了多少广告",
+      "onboard_time": 1740217102,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 215517,
@@ -9619,6 +9691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210180,
+      "num": 210180,
+      "word": "周鸿祎就抽车门槛道歉",
+      "onboard_time": 1740217761,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 209828,
       "num": 209828,
       "word": "英雄联盟",
@@ -9649,14 +9729,6 @@
       "onboard_time": 1739959822,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 209497,
-      "num": 209497,
-      "word": "神外专家修波意外离世",
-      "onboard_time": 1740216442,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 209283,
@@ -9857,14 +9929,6 @@
       "onboard_time": 1739876242,
       "rank": 41,
       "category": "互联网,音乐"
-    },
-    {
-      "raw_hot": 206215,
-      "num": 206215,
-      "word": "漂白出品人称拍戏出点事故太正常了",
-      "onboard_time": 1740216442,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 206150,
@@ -10811,6 +10875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194632,
+      "num": 194632,
+      "word": "刘诚宇失点",
+      "onboard_time": 1740218302,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194598,
       "num": 319818,
       "word": "地下1万米地震波变成声音太神奇",
@@ -11153,6 +11225,14 @@
       "onboard_time": 1740112462,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190739,
+      "num": 261238,
+      "word": "电视剧漂白回应替身拍戏时受伤",
+      "onboard_time": 1740218719,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 190688,
@@ -12427,6 +12507,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 170007,
+      "num": 170007,
+      "word": "JDG战胜TT",
+      "onboard_time": 1740218781,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 169894,
       "num": 272292,
       "word": "中国国乒2月19日亚洲杯赛程",
@@ -12745,6 +12833,14 @@
       "onboard_time": 1740044001,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166306,
+      "num": 166306,
+      "word": "家有儿女到底花了多少经费在餐桌上",
+      "onboard_time": 1740219322,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 166288,
@@ -13171,6 +13267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160820,
+      "num": 192598,
+      "word": "乌克兰所有稀土资源都在交战区",
+      "onboard_time": 1740218302,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 160516,
       "num": 205445,
       "word": "我爱的那些人 杨幂",
@@ -13225,6 +13329,14 @@
       "onboard_time": 1739833935,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 159749,
+      "num": 159749,
+      "word": "TWICE上海签售",
+      "onboard_time": 1740219022,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 159711,
@@ -15779,6 +15891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122566,
+      "num": 122566,
+      "word": "翟潇闻机场随地大小演",
+      "onboard_time": 1740219681,
+      "rank": 46,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 122527,
       "num": 801078,
       "word": "被杀女幼师将被申报见义勇为",
@@ -16395,6 +16515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 110004,
+      "num": 164734,
+      "word": "孙颖莎今晚将对战张本美和",
+      "onboard_time": 1740216921,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109908,
       "num": 109908,
       "word": "患者未患癌被切胆囊埋化疗泵化疗3次",
@@ -16417,14 +16545,6 @@
       "onboard_time": 1739941821,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 109723,
-      "num": 109723,
-      "word": "杭州下雪",
-      "onboard_time": 1740216861,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 109516,
@@ -18723,6 +18843,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 61412,
+      "num": 186998,
+      "word": "林诗栋vs宇田幸矢",
+      "onboard_time": 1740218482,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 61166,
       "num": 211204,
       "word": "中方围棋裁判将与韩方共同处理",
@@ -19484,7 +19612,7 @@
     },
     {
       "raw_hot": 47465,
-      "num": 734683,
+      "num": 787984,
       "word": "天问二号一次发射实施多项任务",
       "onboard_time": 1740215480,
       "rank": 2,
@@ -19665,6 +19793,14 @@
       "onboard_time": 1739872883,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 44252,
+      "num": 224808,
+      "word": "陈幸同vs伊藤美诚",
+      "onboard_time": 1740218601,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 44152,
@@ -21435,14 +21571,6 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 17069,
-      "num": 26900,
-      "word": "亚洲杯U20",
-      "onboard_time": 1739647931,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 16980,
       "num": 274763,
       "word": "超闪亮的时尚单品",
@@ -21784,6 +21912,14 @@
       "word": "里夫斯被驱逐",
       "onboard_time": 1740061464,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 11532,
+      "num": 246893,
+      "word": "U20国足落后1球",
+      "onboard_time": 1740219443,
+      "rank": 14,
       "category": "体育"
     },
     {

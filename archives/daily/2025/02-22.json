@@ -1,6 +1,6 @@
 {
   "startTime": 1740155309204,
-  "endTime": 1740216923434,
+  "endTime": 1740219762649,
   "band_list": [
     {
       "raw_hot": 12791228,
@@ -43,6 +43,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1718465,
+      "num": 783182,
+      "word": "漂白受伤替身发文",
+      "onboard_time": 1740215722,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1669326,
       "num": 536845,
       "word": "瘦下来的麦琳",
@@ -56,14 +64,6 @@
       "word": "章若楠演技 木头",
       "onboard_time": 1740202040,
       "rank": 5,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 1474890,
-      "num": 733905,
-      "word": "漂白受伤替身发文",
-      "onboard_time": 1740215722,
-      "rank": 12,
       "category": "剧集"
     },
     {
@@ -89,6 +89,14 @@
       "onboard_time": 1740177853,
       "rank": 11,
       "category": "民生新闻,电影"
+    },
+    {
+      "raw_hot": 1035802,
+      "num": 1035802,
+      "word": "全体土拨鼠抬头那一刻绷不住了",
+      "onboard_time": 1740214461,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 976213,
@@ -131,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 775038,
+      "num": 775038,
+      "word": "U20国足vs沙特U20",
+      "onboard_time": 1740204140,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 766694,
       "num": 766694,
       "word": "张峻豪感染诺如昏迷了一阵子",
@@ -144,14 +160,6 @@
       "word": "面试遭73岁董事长猥亵当事人已和解",
       "onboard_time": 1740206721,
       "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 739426,
-      "num": 739426,
-      "word": "全体土拨鼠抬头那一刻绷不住了",
-      "onboard_time": 1740214461,
-      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 661598,
-      "num": 219118,
+      "num": 224655,
       "word": "体检无异常1年半后确诊癌症晚期",
       "onboard_time": 1740215421,
       "rank": 21,
@@ -289,6 +297,30 @@
       "onboard_time": 1740186621,
       "rank": 16,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 517093,
+      "num": 459158,
+      "word": "张凌赫工作室必有高人指点",
+      "onboard_time": 1740214761,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 513839,
+      "num": 513839,
+      "word": "u20国足点球不进",
+      "onboard_time": 1740217220,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 509756,
+      "num": 509756,
+      "word": "特朗普威胁禁止跨性别者参加女子赛事",
+      "onboard_time": 1740214520,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 508422,
@@ -387,14 +419,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 459158,
-      "num": 459158,
-      "word": "张凌赫工作室必有高人指点",
-      "onboard_time": 1740214761,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 451066,
       "num": 446782,
       "word": "难哄原著粉",
@@ -491,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 383578,
+      "num": 383578,
+      "word": "神外专家修波意外离世",
+      "onboard_time": 1740216442,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 382194,
       "num": 382194,
       "word": "官方回应有智力缺陷孩子在校被霸凌",
@@ -555,14 +587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 353470,
-      "num": 476833,
-      "word": "特朗普威胁禁止跨性别者参加女子赛事",
-      "onboard_time": 1740214520,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 330492,
       "num": 199879,
       "word": "韩庚卢靖姗我那漂亮小舅小舅妈",
@@ -593,6 +617,14 @@
       "onboard_time": 1740175751,
       "rank": 41,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 311005,
+      "num": 311005,
+      "word": "漂白出品人称拍戏出点事故太正常了",
+      "onboard_time": 1740216442,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 310339,
@@ -633,14 +665,6 @@
       "onboard_time": 1740139760,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 301010,
-      "num": 301010,
-      "word": "U20国足vs沙特U20",
-      "onboard_time": 1740204140,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 300053,
@@ -691,6 +715,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 268374,
+      "num": 246885,
+      "word": "哪吒2票房133亿",
+      "onboard_time": 1740218001,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 266535,
       "num": 266535,
       "word": "梁靖崑vs张禹珍",
@@ -723,6 +755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 252351,
+      "num": 252351,
+      "word": "U20国足无缘4强",
+      "onboard_time": 1740219322,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 251039,
       "num": 251039,
       "word": "宋伊人演我替别人尴尬",
@@ -737,6 +777,14 @@
       "onboard_time": 1740183737,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 246771,
+      "num": 246771,
+      "word": "国足",
+      "onboard_time": 1740214880,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 243663,
@@ -763,6 +811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 226846,
+      "num": 226846,
+      "word": "杭州下雪",
+      "onboard_time": 1740216861,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 226751,
       "num": 196983,
       "word": "第五人格",
@@ -787,12 +843,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 218256,
+      "num": 218256,
+      "word": "天雷滚滚我好怕怕传到联合国",
+      "onboard_time": 1740219379,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 216116,
       "num": 171103,
       "word": "魏晨初代跳舞白月光杀回来了",
       "onboard_time": 1740207141,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 215780,
+      "num": 215780,
+      "word": "亚洲杯U20",
+      "onboard_time": 1740204199,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 215587,
+      "num": 215587,
+      "word": "130亿三岁影帝接了多少广告",
+      "onboard_time": 1740217102,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 215232,
@@ -819,12 +899,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 209497,
-      "num": 209497,
-      "word": "神外专家修波意外离世",
-      "onboard_time": 1740216442,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 210180,
+      "num": 210180,
+      "word": "周鸿祎就抽车门槛道歉",
+      "onboard_time": 1740217761,
+      "rank": 26,
+      "category": "互联网"
     },
     {
       "raw_hot": 208797,
@@ -833,14 +913,6 @@
       "onboard_time": 1740191541,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 206215,
-      "num": 206215,
-      "word": "漂白出品人称拍戏出点事故太正常了",
-      "onboard_time": 1740216442,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 204307,
@@ -971,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194632,
+      "num": 194632,
+      "word": "刘诚宇失点",
+      "onboard_time": 1740218302,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194360,
       "num": 317620,
       "word": "唱K喝酒呕吐坠亡案中KTV担三成责任",
@@ -1011,12 +1091,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190739,
+      "num": 261238,
+      "word": "电视剧漂白回应替身拍戏时受伤",
+      "onboard_time": 1740218719,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188959,
       "num": 188959,
       "word": "石洵瑶0比3伊藤美诚",
       "onboard_time": 1740200182,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188623,
+      "num": 188623,
+      "word": "哪吒",
+      "onboard_time": 1740219141,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 186125,
@@ -1040,14 +1136,6 @@
       "word": "孙颖莎3比0李恩惠",
       "onboard_time": 1740197240,
       "rank": 27,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 185063,
-      "num": 185063,
-      "word": "国足",
-      "onboard_time": 1740214880,
-      "rank": 29,
       "category": "体育"
     },
     {
@@ -1139,6 +1227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170007,
+      "num": 170007,
+      "word": "JDG战胜TT",
+      "onboard_time": 1740218781,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 169014,
       "num": 169014,
       "word": "赵露思模仿小露思讲话",
@@ -1160,6 +1256,14 @@
       "word": "北上",
       "onboard_time": 1740192141,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 166306,
+      "num": 166306,
+      "word": "家有儿女到底花了多少经费在餐桌上",
+      "onboard_time": 1740219322,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -1187,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160820,
+      "num": 192598,
+      "word": "乌克兰所有稀土资源都在交战区",
+      "onboard_time": 1740218302,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 160472,
       "num": 199949,
       "word": "于正 我们的造型太太太好看了",
@@ -1201,6 +1313,14 @@
       "onboard_time": 1740212782,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159749,
+      "num": 159749,
+      "word": "TWICE上海签售",
+      "onboard_time": 1740219022,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 159191,
@@ -1651,6 +1771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122566,
+      "num": 122566,
+      "word": "翟潇闻机场随地大小演",
+      "onboard_time": 1740219681,
+      "rank": 46,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 122021,
       "num": 122021,
       "word": "电影天堂旅行团定档",
@@ -1723,6 +1851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112906,
+      "num": 112906,
+      "word": "仙台有树",
+      "onboard_time": 1740218960,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112271,
       "num": 112271,
       "word": "用AI写首歌播放量20万日赚150元",
@@ -1771,18 +1907,18 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 110004,
+      "num": 164734,
+      "word": "孙颖莎今晚将对战张本美和",
+      "onboard_time": 1740216921,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109908,
       "num": 109908,
       "word": "患者未患癌被切胆囊埋化疗泵化疗3次",
       "onboard_time": 1740196281,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 109723,
-      "num": 109723,
-      "word": "杭州下雪",
-      "onboard_time": 1740216861,
       "rank": 48,
       "category": "民生新闻"
     },
@@ -2171,6 +2307,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 61412,
+      "num": 186998,
+      "word": "林诗栋vs宇田幸矢",
+      "onboard_time": 1740218482,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 60988,
       "num": 155492,
       "word": "孙颖莎下轮对阵张本美和",
@@ -2252,7 +2396,7 @@
     },
     {
       "raw_hot": 47465,
-      "num": 734683,
+      "num": 787984,
       "word": "天问二号一次发射实施多项任务",
       "onboard_time": 1740215480,
       "rank": 2,
@@ -2273,6 +2417,14 @@
       "onboard_time": 1740193580,
       "rank": 29,
       "category": "体育,互联网"
+    },
+    {
+      "raw_hot": 44252,
+      "num": 224808,
+      "word": "陈幸同vs伊藤美诚",
+      "onboard_time": 1740218601,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 42514,
@@ -2553,6 +2705,14 @@
       "onboard_time": 1740157934,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 11532,
+      "num": 246893,
+      "word": "U20国足落后1球",
+      "onboard_time": 1740219443,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 10442,
