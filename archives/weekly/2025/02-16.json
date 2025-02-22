@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1740198483641,
+  "endTime": 1740199336429,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -683,6 +683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1669326,
+      "num": 536845,
+      "word": "瘦下来的麦琳",
+      "onboard_time": 1740194959,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1667596,
       "num": 1667596,
       "word": "王皓马琳点赞尹肖",
@@ -937,14 +945,6 @@
       "onboard_time": 1739892501,
       "rank": 13,
       "category": "作品衍生,艺人"
-    },
-    {
-      "raw_hot": 1433798,
-      "num": 536845,
-      "word": "瘦下来的麦琳",
-      "onboard_time": 1740194959,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 1429396,
@@ -3787,6 +3787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 527369,
+      "num": 372727,
+      "word": "男子到超市买67张购物卡店员秒报警",
+      "onboard_time": 1740196399,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 525637,
       "num": 384981,
       "word": "张晚意工作室回应恋情传闻",
@@ -4299,6 +4307,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 467579,
+      "num": 467579,
+      "word": "未患癌刘翔峰却医嘱化疗致九级伤残",
+      "onboard_time": 1740193460,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 465785,
       "num": 465785,
       "word": "张超评论尹肖",
@@ -4672,14 +4688,6 @@
       "word": "快递公司告知丢件顾客自己寻回",
       "onboard_time": 1740047360,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 434576,
-      "num": 434576,
-      "word": "未患癌刘翔峰却医嘱化疗致九级伤残",
-      "onboard_time": 1740193460,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -5371,6 +5379,14 @@
       "category": "动漫,互联网"
     },
     {
+      "raw_hot": 376094,
+      "num": 376094,
+      "word": "DeepSeek最新预测哪吒2票房",
+      "onboard_time": 1740194779,
+      "rank": 26,
+      "category": "电影,互联网"
+    },
+    {
       "raw_hot": 375935,
       "num": 375935,
       "word": "孟子义攒了几部剧没播",
@@ -5464,14 +5480,6 @@
       "word": "法国小伙来华捐622张日本侵华照片",
       "onboard_time": 1739719402,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 371317,
-      "num": 371317,
-      "word": "男子到超市买67张购物卡店员秒报警",
-      "onboard_time": 1740196399,
-      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -5737,6 +5745,14 @@
       "onboard_time": 1739882963,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 351728,
+      "num": 351728,
+      "word": "官方通报2岁男童托育园午睡身亡",
+      "onboard_time": 1740198498,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 350965,
@@ -6227,6 +6243,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 321329,
+      "num": 397736,
+      "word": "德军工企业CEO说欧洲只能坐小孩那桌",
+      "onboard_time": 1740195980,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 320972,
       "num": 320972,
       "word": "宋亚轩重现出国表情包",
@@ -6531,6 +6555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 300053,
+      "num": 300053,
+      "word": "无限暖暖",
+      "onboard_time": 1740029302,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 298837,
       "num": 382459,
       "word": "孙俪分享小花学瑜伽日常",
@@ -6809,14 +6841,6 @@
       "onboard_time": 1739677339,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 287002,
-      "num": 287002,
-      "word": "DeepSeek最新预测哪吒2票房",
-      "onboard_time": 1740194779,
-      "rank": 26,
-      "category": "电影,互联网"
     },
     {
       "raw_hot": 286837,
@@ -7987,6 +8011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 243502,
+      "num": 243502,
+      "word": "林高远vs张本智和",
+      "onboard_time": 1740197301,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 243017,
       "num": 243017,
       "word": "DeepSeek正成为恋爱军师",
@@ -8371,6 +8403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 231274,
+      "num": 231274,
+      "word": "无限暖暖发光发亮黑化版",
+      "onboard_time": 1740198498,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 231191,
       "num": 231191,
       "word": "来财",
@@ -8483,6 +8523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226751,
+      "num": 232657,
+      "word": "第五人格",
+      "onboard_time": 1739955201,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 226729,
       "num": 285239,
       "word": "以为是看病结果是看脸",
@@ -8497,6 +8545,14 @@
       "onboard_time": 1739948421,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 225277,
+      "num": 304431,
+      "word": "吒儿一亿一亿往上冲",
+      "onboard_time": 1740196759,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 224923,
@@ -9067,14 +9123,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 213721,
-      "num": 397736,
-      "word": "德军工企业CEO说欧洲只能坐小孩那桌",
-      "onboard_time": 1740195980,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 213616,
       "num": 213616,
       "word": "王耀庆虞书欣在王心凌的歌里联动了",
@@ -9483,14 +9531,6 @@
       "category": "艺人,综艺"
     },
     {
-      "raw_hot": 206077,
-      "num": 206077,
-      "word": "无限暖暖",
-      "onboard_time": 1740029302,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 205993,
       "num": 205993,
       "word": "养成系的意义在此刻具象化",
@@ -9627,6 +9667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204307,
+      "num": 204307,
+      "word": "肖战一起拍下按钮",
+      "onboard_time": 1740198680,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204184,
       "num": 306552,
       "word": "中方回应俄美代表团举行会晤",
@@ -9721,6 +9769,14 @@
       "onboard_time": 1739935941,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202360,
+      "num": 197382,
+      "word": "女主视角校园暗恋男主视角校园霸凌",
+      "onboard_time": 1740198860,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 202288,
@@ -10011,6 +10067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198821,
+      "num": 198821,
+      "word": "杨肸子哭播赛道",
+      "onboard_time": 1740198321,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198764,
       "num": 198764,
       "word": "丁禹兮直播营业",
@@ -10097,6 +10161,14 @@
       "onboard_time": 1740102139,
       "rank": 34,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 198141,
+      "num": 185284,
+      "word": "光渊",
+      "onboard_time": 1740198441,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 198085,
@@ -10393,6 +10465,14 @@
       "onboard_time": 1739676619,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193898,
+      "num": 193898,
+      "word": "肖战感恩相遇江湖再见",
+      "onboard_time": 1740198200,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 193811,
@@ -10953,14 +11033,6 @@
       "onboard_time": 1739793800,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 186050,
-      "num": 186050,
-      "word": "肖战感恩相遇江湖再见",
-      "onboard_time": 1740198200,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 185996,
@@ -11587,14 +11659,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 175436,
-      "num": 175436,
-      "word": "吒儿一亿一亿往上冲",
-      "onboard_time": 1740196759,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 175216,
       "num": 291684,
       "word": "黎深福布斯",
@@ -11923,14 +11987,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 169158,
-      "num": 169158,
-      "word": "林高远vs张本智和",
-      "onboard_time": 1740197301,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 169149,
       "num": 169149,
       "word": "男子回应被鲸鱼吞了又吐出来",
@@ -11953,6 +12009,14 @@
       "onboard_time": 1740148941,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169014,
+      "num": 169014,
+      "word": "赵露思模仿小露思讲话",
+      "onboard_time": 1740196701,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 168954,
@@ -12041,14 +12105,6 @@
       "onboard_time": 1739625920,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 167530,
-      "num": 167530,
-      "word": "赵露思模仿小露思讲话",
-      "onboard_time": 1740196701,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 167504,
@@ -12691,6 +12747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 159016,
+      "num": 159016,
+      "word": "闪耀暖暖",
+      "onboard_time": 1740198141,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 158692,
       "num": 211526,
       "word": "简阳地震",
@@ -12777,6 +12841,14 @@
       "onboard_time": 1739770700,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157035,
+      "num": 157035,
+      "word": "医生称DeepSeek让看病效率更高",
+      "onboard_time": 1740198141,
+      "rank": 43,
+      "category": "健康医疗,互联网"
     },
     {
       "raw_hot": 156893,
@@ -13089,6 +13161,14 @@
       "onboard_time": 1739952321,
       "rank": 29,
       "category": "美食,电影"
+    },
+    {
+      "raw_hot": 152801,
+      "num": 152801,
+      "word": "用大侦探的方式打开你好星期六",
+      "onboard_time": 1740198380,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 152790,
@@ -13723,14 +13803,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 143492,
-      "num": 143492,
-      "word": "杨肸子哭播赛道",
-      "onboard_time": 1740198321,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 143383,
       "num": 143383,
       "word": "原来我没对象是爸妈不够努力",
@@ -14299,14 +14371,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 134748,
-      "num": 134748,
-      "word": "闪耀暖暖",
-      "onboard_time": 1740198141,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 134560,
       "num": 134560,
       "word": "余承恩王子璇 漫城",
@@ -14409,14 +14473,6 @@
       "onboard_time": 1740194720,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 132487,
-      "num": 132487,
-      "word": "用大侦探的方式打开你好星期六",
-      "onboard_time": 1740198380,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 132473,
@@ -14601,6 +14657,14 @@
       "onboard_time": 1739768303,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129792,
+      "num": 129792,
+      "word": "李嘉琦回应六姊妹争议",
+      "onboard_time": 1740198921,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 129637,
@@ -15155,6 +15219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120341,
+      "num": 301703,
+      "word": "孙颖莎把自己打乐了",
+      "onboard_time": 1740198860,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120282,
       "num": 123742,
       "word": "医院回应护士向患者下跪道歉",
@@ -15299,14 +15371,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 117469,
-      "num": 117469,
-      "word": "医生称DeepSeek让看病效率更高",
-      "onboard_time": 1740198141,
-      "rank": 43,
-      "category": "健康医疗,互联网"
-    },
-    {
       "raw_hot": 117156,
       "num": 117156,
       "word": "马斯克官宣Grok3",
@@ -15417,14 +15481,6 @@
       "onboard_time": 1739955800,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 114600,
-      "num": 114600,
-      "word": "光渊",
-      "onboard_time": 1740198441,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 114298,
@@ -15737,14 +15793,6 @@
       "onboard_time": 1739956641,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 106407,
-      "num": 232657,
-      "word": "第五人格",
-      "onboard_time": 1739955201,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 106364,
@@ -16132,7 +16180,7 @@
     },
     {
       "raw_hot": 100042,
-      "num": 100042,
+      "num": 232199,
       "word": "奔驰高管怒怼恶意竞争",
       "onboard_time": 1740194599,
       "rank": 49,
@@ -16764,7 +16812,7 @@
     },
     {
       "raw_hot": 85695,
-      "num": 85695,
+      "num": 372949,
       "word": "特朗普解除美军参联会主席布朗职务",
       "onboard_time": 1740193039,
       "rank": 49,
@@ -18475,6 +18523,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 48013,
+      "num": 195409,
+      "word": "平时熬的夜周末可以补回来",
+      "onboard_time": 1740199160,
+      "rank": 30,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 47771,
       "num": 283563,
       "word": "古人也有书法字帖天天练",
@@ -19091,20 +19147,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 37206,
+      "num": 727701,
+      "word": "民营企业爱拼会赢背后蕴藏的机遇",
+      "onboard_time": 1740197120,
+      "rank": 2,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 36694,
       "num": 1302724,
       "word": "中国智造已经是NextLevel",
       "onboard_time": 1740108620,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36647,
-      "num": 727701,
-      "word": "民营企业爱拼会赢背后蕴藏的机遇",
-      "onboard_time": 1740197120,
-      "rank": 2,
-      "category": "国内时政,财经"
     },
     {
       "raw_hot": 36571,
@@ -19395,6 +19451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31633,
+      "num": 304918,
+      "word": "专家解读平台给骑手上社保",
+      "onboard_time": 1740197240,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31557,
       "num": 210667,
       "word": "穿越鳌太线获救小伙称山放过了我",
@@ -19593,14 +19657,6 @@
       "onboard_time": 1740158834,
       "rank": 15,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 27301,
-      "num": 304918,
-      "word": "专家解读平台给骑手上社保",
-      "onboard_time": 1740197240,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27025,

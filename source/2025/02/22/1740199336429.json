@@ -1,0 +1,410 @@
+{
+  "runTime": 1740199336429,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1607098,
+        "num": 1607098,
+        "word": "美国一公园吸毒者如丧尸实拍",
+        "onboard_time": 1740187698,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 973966,
+        "num": 973966,
+        "word": "200斤女生cos石矶娘娘被当真",
+        "onboard_time": 1740190458,
+        "rank": 1,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 37206,
+        "num": 684421,
+        "word": "民营企业爱拼会赢背后蕴藏的机遇",
+        "onboard_time": 1740197120,
+        "rank": 2,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 531258,
+        "num": 531258,
+        "word": "私家侦探提供女子信息致其被丈夫打死",
+        "onboard_time": 1740190759,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 467579,
+        "num": 467579,
+        "word": "未患癌刘翔峰却医嘱化疗致九级伤残",
+        "onboard_time": 1740193460,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1669326,
+        "num": 453718,
+        "word": "瘦下来的麦琳",
+        "onboard_time": 1740194959,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 434449,
+        "num": 434449,
+        "word": "老师一堂课没收几十个裂空爪",
+        "onboard_time": 1740177853,
+        "rank": 6,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 388321,
+        "num": 388321,
+        "word": "有剧集给平台赚了10亿",
+        "onboard_time": 1740187038,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 376094,
+        "num": 376094,
+        "word": "DeepSeek最新预测哪吒2票房",
+        "onboard_time": 1740194779,
+        "rank": 8,
+        "category": "电影,互联网"
+      },
+      {
+        "raw_hot": 70551,
+        "num": 372949,
+        "word": "特朗普解除美军参联会主席布朗职务",
+        "onboard_time": 1740193039,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 527369,
+        "num": 372727,
+        "word": "男子到超市买67张购物卡店员秒报警",
+        "onboard_time": 1740196399,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 505513,
+        "num": 371855,
+        "word": "阿诺生第一个孩子时很危险",
+        "onboard_time": 1740193941,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370122,
+        "num": 370122,
+        "word": "白敬亭吃汉堡被粉丝吓到的反应",
+        "onboard_time": 1740194842,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351728,
+        "num": 351728,
+        "word": "官方通报2岁男童托育园午睡身亡",
+        "onboard_time": 1740198498,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335389,
+        "num": 335389,
+        "word": "这还是我认识的姜小果吗",
+        "onboard_time": 1740191600,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321329,
+        "num": 321329,
+        "word": "德军工企业CEO说欧洲只能坐小孩那桌",
+        "onboard_time": 1740195980,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 320373,
+        "num": 320373,
+        "word": "36岁女子直播一夜后猝死",
+        "onboard_time": 1740189621,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266366,
+        "num": 308968,
+        "word": "网传宋轶也在白敬亭录制hi6现场",
+        "onboard_time": 1740186979,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225277,
+        "num": 304431,
+        "word": "吒儿一亿一亿往上冲",
+        "onboard_time": 1740196759,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120341,
+        "num": 301703,
+        "word": "孙颖莎把自己打乐了",
+        "onboard_time": 1740198860,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 300053,
+        "num": 300053,
+        "word": "无限暖暖",
+        "onboard_time": 1740197060,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 243502,
+        "num": 243502,
+        "word": "林高远vs张本智和",
+        "onboard_time": 1740197301,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236288,
+        "num": 236288,
+        "word": "女子生日收万元花束20天后发霉",
+        "onboard_time": 1740186560,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233224,
+        "num": 233224,
+        "word": "00后警察1条朋友圈获264个赞",
+        "onboard_time": 1740191359,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78029,
+        "num": 232199,
+        "word": "奔驰高管怒怼恶意竞争",
+        "onboard_time": 1740194599,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 231274,
+        "num": 231274,
+        "word": "无限暖暖发光发亮黑化版",
+        "onboard_time": 1740198498,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 204307,
+        "num": 204307,
+        "word": "肖战一起拍下按钮",
+        "onboard_time": 1740198680,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198821,
+        "num": 198821,
+        "word": "杨肸子哭播赛道",
+        "onboard_time": 1740198321,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202360,
+        "num": 197382,
+        "word": "女主视角校园暗恋男主视角校园霸凌",
+        "onboard_time": 1740198860,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226751,
+        "num": 196983,
+        "word": "第五人格",
+        "onboard_time": 1740198799,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 48013,
+        "num": 195409,
+        "word": "平时熬的夜周末可以补回来",
+        "onboard_time": 1740199160,
+        "rank": 30,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 193898,
+        "num": 193898,
+        "word": "肖战感恩相遇江湖再见",
+        "onboard_time": 1740198200,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 206918,
+        "num": 189358,
+        "word": "DeepSeek创始人实习时月薪已超1.6万",
+        "onboard_time": 1740186621,
+        "rank": 32,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 198141,
+        "num": 185284,
+        "word": "光渊",
+        "onboard_time": 1740198441,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171883,
+        "num": 171883,
+        "word": "宋伊人演我替别人尴尬",
+        "onboard_time": 1740194541,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169014,
+        "num": 169014,
+        "word": "赵露思模仿小露思讲话",
+        "onboard_time": 1740196701,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160971,
+        "num": 160971,
+        "word": "孙颖莎晋级亚洲杯8强",
+        "onboard_time": 1740197900,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160369,
+        "num": 160369,
+        "word": "白宫称即将成为美国第51州的加拿大",
+        "onboard_time": 1740184518,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 159016,
+        "num": 159016,
+        "word": "闪耀暖暖",
+        "onboard_time": 1740198141,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157035,
+        "num": 157035,
+        "word": "医生称DeepSeek让看病效率更高",
+        "onboard_time": 1740198141,
+        "rank": 39,
+        "category": "健康医疗,互联网"
+      },
+      {
+        "raw_hot": 31633,
+        "num": 156695,
+        "word": "专家解读平台给骑手上社保",
+        "onboard_time": 1740197240,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156490,
+        "num": 156490,
+        "word": "爱你OST阵容",
+        "onboard_time": 1740198018,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152801,
+        "num": 152801,
+        "word": "用大侦探的方式打开你好星期六",
+        "onboard_time": 1740198380,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150493,
+        "num": 150493,
+        "word": "凭哪吒2票根可免费游多家景区",
+        "onboard_time": 1740152238,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147981,
+        "num": 147981,
+        "word": "孙颖莎爆冲球把邱教练肚子打红",
+        "onboard_time": 1740195620,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146487,
+        "num": 146487,
+        "word": "演讲稿在眼镜里动动戒指就翻页",
+        "onboard_time": 1740193160,
+        "rank": 45,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 133549,
+        "num": 133549,
+        "word": "王楚钦说自己准备充分",
+        "onboard_time": 1740197360,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129792,
+        "num": 129792,
+        "word": "李嘉琦回应六姊妹争议",
+        "onboard_time": 1740198921,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127545,
+        "num": 127545,
+        "word": "夫妻报考同一岗位下班后开启备战模式",
+        "onboard_time": 1740188238,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118937,
+        "num": 118937,
+        "word": "中药泡脚包暗藏病菌越用越伤身",
+        "onboard_time": 1740196519,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记鼓励民企做强做优做大#"
+    }
+  }
+}
