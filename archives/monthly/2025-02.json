@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740180927983,
+  "endTime": 1740188408765,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -289,6 +289,14 @@
       "onboard_time": 1738985183,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 4253645,
+      "num": 4253645,
+      "word": "王星失联前曾提分手女友瞬间秒懂",
+      "onboard_time": 1740186560,
+      "rank": 0,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 4199194,
@@ -4939,6 +4947,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1032029,
+      "num": 1032029,
+      "word": "老师一堂课没收几十个裂空爪",
+      "onboard_time": 1740177853,
+      "rank": 11,
+      "category": "民生新闻,电影"
+    },
+    {
       "raw_hot": 1030500,
       "num": 399327,
       "word": "俞灏明王晓晨韩国约会",
@@ -6377,6 +6393,14 @@
       "onboard_time": 1739230217,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 859034,
+      "num": 133847,
+      "word": "美国一公园吸毒者如丧尸实拍",
+      "onboard_time": 1740187698,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 858522,
@@ -8009,6 +8033,14 @@
       "onboard_time": 1740062661,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 715098,
+      "num": 715098,
+      "word": "白宫称即将成为美国第51州的加拿大",
+      "onboard_time": 1740184518,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 714805,
@@ -10419,6 +10451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 577213,
+      "num": 577213,
+      "word": "麦琳cos袁湘琴",
+      "onboard_time": 1740186979,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 576767,
       "num": 207423,
       "word": "大S曾邀请新人时的陈紫函一起候场",
@@ -10697,14 +10737,6 @@
       "onboard_time": 1738906524,
       "rank": 20,
       "category": "数码"
-    },
-    {
-      "raw_hot": 566213,
-      "num": 885663,
-      "word": "老师一堂课没收几十个裂空爪",
-      "onboard_time": 1740177853,
-      "rank": 11,
-      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 566104,
@@ -12235,6 +12267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 506826,
+      "num": 506826,
+      "word": "网传宋轶也在白敬亭录制hi6现场",
+      "onboard_time": 1740186979,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 506568,
       "num": 532768,
       "word": "2024年全国结婚登记数再度下探",
@@ -13001,6 +13041,14 @@
       "onboard_time": 1739716104,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 478835,
+      "num": 312616,
+      "word": "郭品超前女友发文回应分手",
+      "onboard_time": 1740186979,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 477646,
@@ -14443,6 +14491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 431024,
+      "num": 431024,
+      "word": "辣目洋子演技",
+      "onboard_time": 1740181756,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 430946,
       "num": 298786,
       "word": "男子心脏骤停急救醒来后要赶去上班",
@@ -15617,6 +15673,14 @@
       "onboard_time": 1739984235,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 395936,
+      "num": 395936,
+      "word": "哪吒2票房130亿了",
+      "onboard_time": 1740182958,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 395892,
@@ -17217,6 +17281,14 @@
       "onboard_time": 1740150321,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 355764,
+      "num": 308803,
+      "word": "哪吒2引得台湾文化界开始反思",
+      "onboard_time": 1740182176,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 355748,
@@ -19115,6 +19187,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 319967,
+      "num": 319967,
+      "word": "DeepSeek分析大学每月1500够花吗",
+      "onboard_time": 1740175751,
+      "rank": 41,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 319902,
       "num": 319902,
       "word": "邓为演技",
@@ -19929,6 +20009,14 @@
       "onboard_time": 1738383077,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 304872,
+      "num": 304872,
+      "word": "向太透露为何结婚45年未举行过婚礼",
+      "onboard_time": 1740186259,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 304447,
@@ -24145,6 +24233,14 @@
       "onboard_time": 1738842925,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 247016,
+      "num": 247016,
+      "word": "王一博首登001号",
+      "onboard_time": 1740183737,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 246937,
@@ -28513,6 +28609,14 @@
       "onboard_time": 1739087960,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211592,
+      "num": 211592,
+      "word": "DeepSeek创始人实习时月薪已超1.6万",
+      "onboard_time": 1740186621,
+      "rank": 16,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 211559,
@@ -34891,6 +34995,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 183105,
+      "num": 183105,
+      "word": "有剧集给平台赚了10亿",
+      "onboard_time": 1740187038,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183022,
       "num": 183022,
       "word": "张真源出发非洲机场look",
@@ -40003,6 +40115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 159322,
+      "num": 132908,
+      "word": "夫妻报考同一岗位下班后开启备战模式",
+      "onboard_time": 1740188238,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159252,
       "num": 159252,
       "word": "红房子剧宣",
@@ -42291,6 +42411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149393,
+      "num": 149393,
+      "word": "特朗普称泽连斯基是否谈判不重要",
+      "onboard_time": 1740184698,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 149384,
       "num": 149384,
       "word": "深圳一商场惊现哪吒通天梯",
@@ -43283,6 +43411,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 145142,
+      "num": 145142,
+      "word": "饺子导演老乡给扎起了",
+      "onboard_time": 1740184758,
+      "rank": 26,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 145131,
       "num": 145131,
       "word": "恋与制作人白起情人节气球",
@@ -43889,6 +44025,14 @@
       "onboard_time": 1738746926,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 142650,
+      "num": 142650,
+      "word": "白敬亭红温到脖子了",
+      "onboard_time": 1740159254,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 142574,
@@ -45275,6 +45419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 135987,
+      "num": 135987,
+      "word": "张萌谢谢李梦为拍戏放弃大热综艺",
+      "onboard_time": 1740187038,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135958,
       "num": 135958,
       "word": "网传嘘国王在冬眠上星",
@@ -46603,6 +46755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 129781,
+      "num": 129781,
+      "word": "孙颖莎发球失误没忍住笑场",
+      "onboard_time": 1740180554,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129738,
       "num": 129738,
       "word": "不敢相信浓眉换东契奇",
@@ -46665,6 +46825,14 @@
       "onboard_time": 1739715924,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 129385,
+      "num": 129385,
+      "word": "女子生日收万元花束20天后发霉",
+      "onboard_time": 1740186560,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129373,
@@ -47081,6 +47249,14 @@
       "onboard_time": 1738479078,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127465,
+      "num": 127465,
+      "word": "万斯称泽连斯基侮辱了特朗普",
+      "onboard_time": 1740181816,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 127441,
@@ -48024,6 +48200,14 @@
       "word": "掌心男女主开局抢人头",
       "onboard_time": 1738840943,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 122728,
+      "num": 122728,
+      "word": "红房子 封神",
+      "onboard_time": 1740186499,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -48979,6 +49163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117341,
+      "num": 117341,
+      "word": "小伙请全城免费看哪吒2花销约40万",
+      "onboard_time": 1740185778,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 117273,
       "num": 98119,
       "word": "陈哲远憋不了一点",
@@ -49009,6 +49201,14 @@
       "onboard_time": 1739689518,
       "rank": 39,
       "category": "汽车,电竞"
+    },
+    {
+      "raw_hot": 117113,
+      "num": 117113,
+      "word": "我要把真相还给无数中国人民",
+      "onboard_time": 1740186560,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116672,
@@ -52051,6 +52251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100777,
+      "num": 149240,
+      "word": "性骚扰不该成为流量密码",
+      "onboard_time": 1740169272,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100739,
       "num": 334022,
       "word": "感情越好的情侣越容易长胖",
@@ -52160,6 +52368,14 @@
       "word": "云南7万亩油菜花已开好",
       "onboard_time": 1739668100,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100359,
+      "num": 100359,
+      "word": "被重庆地铁站里的化妆摊惊艳到了",
+      "onboard_time": 1740185359,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -52387,14 +52603,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 99132,
-      "num": 149240,
-      "word": "性骚扰不该成为流量密码",
-      "onboard_time": 1740169272,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 99012,
       "num": 99012,
       "word": "当我问DeepSeek不想上班怎么办",
@@ -52601,6 +52809,14 @@
       "onboard_time": 1739541922,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97154,
+      "num": 97154,
+      "word": "王昶首次回应梁王组合拆对传闻",
+      "onboard_time": 1740178813,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 97086,
@@ -52849,6 +53065,14 @@
       "onboard_time": 1738727302,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95710,
+      "num": 95710,
+      "word": "温以凡妈妈人设",
+      "onboard_time": 1740168611,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 95638,
@@ -53987,6 +54211,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 86307,
+      "num": 86307,
+      "word": "杨大昆逝世",
+      "onboard_time": 1740185299,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86293,
       "num": 417476,
       "word": "为哪吒2无量仙翁配音大爷85岁学会开飞机",
@@ -54371,6 +54603,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 83707,
+      "num": 319156,
+      "word": "特朗普说乌克兰无牌可打",
+      "onboard_time": 1740186560,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 83547,
       "num": 162186,
       "word": "王一博向世界传递中国青年声音",
@@ -54585,14 +54825,6 @@
       "onboard_time": 1740036921,
       "rank": 40,
       "category": "财经"
-    },
-    {
-      "raw_hot": 81672,
-      "num": 81672,
-      "word": "白敬亭红温到脖子了",
-      "onboard_time": 1740159254,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 81436,
@@ -56435,14 +56667,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 68007,
-      "num": 68007,
-      "word": "DeepSeek分析大学每月1500够花吗",
-      "onboard_time": 1740175751,
-      "rank": 41,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 67965,
       "num": 304436,
       "word": "春节综合征并非年轻人专属",
@@ -56697,6 +56921,14 @@
       "onboard_time": 1739831593,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 66226,
+      "num": 105850,
+      "word": "孙颖莎女单出战",
+      "onboard_time": 1740187459,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 66140,
@@ -57296,14 +57528,6 @@
       "word": "梁靖崑玩的就是心跳",
       "onboard_time": 1738679546,
       "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 62003,
-      "num": 62003,
-      "word": "王昶首次回应梁王组合拆对传闻",
-      "onboard_time": 1740178813,
-      "rank": 40,
       "category": "体育"
     },
     {
@@ -57985,14 +58209,6 @@
       "onboard_time": 1739314994,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 57976,
-      "num": 57976,
-      "word": "温以凡妈妈人设",
-      "onboard_time": 1740168611,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 57931,
@@ -61025,14 +61241,6 @@
       "onboard_time": 1739114242,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 39949,
-      "num": 41325,
-      "word": "孙颖莎发球失误没忍住笑场",
-      "onboard_time": 1740180554,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 39942,

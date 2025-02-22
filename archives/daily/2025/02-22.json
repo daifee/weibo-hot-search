@@ -1,7 +1,15 @@
 {
   "startTime": 1740155309204,
-  "endTime": 1740180927983,
+  "endTime": 1740188408765,
   "band_list": [
+    {
+      "raw_hot": 4253645,
+      "num": 4253645,
+      "word": "王星失联前曾提分手女友瞬间秒懂",
+      "onboard_time": 1740186560,
+      "rank": 0,
+      "category": "民生新闻,艺人"
+    },
     {
       "raw_hot": 1334865,
       "num": 269177,
@@ -11,11 +19,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1032029,
+      "num": 1032029,
+      "word": "老师一堂课没收几十个裂空爪",
+      "onboard_time": 1740177853,
+      "rank": 11,
+      "category": "民生新闻,电影"
+    },
+    {
       "raw_hot": 976213,
       "num": 976213,
       "word": "五毛人民币假钞在美国卖五美金",
       "onboard_time": 1740147922,
       "rank": 0,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 859034,
+      "num": 133847,
+      "word": "美国一公园吸毒者如丧尸实拍",
+      "onboard_time": 1740187698,
+      "rank": 30,
       "category": "海外新闻"
     },
     {
@@ -35,6 +59,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 715098,
+      "num": 715098,
+      "word": "白宫称即将成为美国第51州的加拿大",
+      "onboard_time": 1740184518,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 604613,
       "num": 604613,
       "word": "择天记",
@@ -43,12 +75,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 566213,
-      "num": 885663,
-      "word": "老师一堂课没收几十个裂空爪",
-      "onboard_time": 1740177853,
-      "rank": 11,
-      "category": "民生新闻,电影"
+      "raw_hot": 577213,
+      "num": 577213,
+      "word": "麦琳cos袁湘琴",
+      "onboard_time": 1740186979,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 560153,
@@ -67,12 +99,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 506826,
+      "num": 506826,
+      "word": "网传宋轶也在白敬亭录制hi6现场",
+      "onboard_time": 1740186979,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 484336,
       "num": 462855,
       "word": "陈凯歌说太假了全是套路",
       "onboard_time": 1740149240,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 478835,
+      "num": 312616,
+      "word": "郭品超前女友发文回应分手",
+      "onboard_time": 1740186979,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 474848,
@@ -83,11 +131,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 431024,
+      "num": 431024,
+      "word": "辣目洋子演技",
+      "onboard_time": 1740181756,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 420543,
       "num": 205546,
       "word": "凭哪吒2票根可免费游多家景区",
       "onboard_time": 1740152238,
       "rank": 21,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 395936,
+      "num": 395936,
+      "word": "哪吒2票房130亿了",
+      "onboard_time": 1740182958,
+      "rank": 7,
       "category": "电影"
     },
     {
@@ -123,11 +187,35 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 355764,
+      "num": 308803,
+      "word": "哪吒2引得台湾文化界开始反思",
+      "onboard_time": 1740182176,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 320972,
       "num": 320972,
       "word": "宋亚轩重现出国表情包",
       "onboard_time": 1740151640,
       "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 319967,
+      "num": 319967,
+      "word": "DeepSeek分析大学每月1500够花吗",
+      "onboard_time": 1740175751,
+      "rank": 41,
+      "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 304872,
+      "num": 304872,
+      "word": "向太透露为何结婚45年未举行过婚礼",
+      "onboard_time": 1740186259,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -155,12 +243,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 247016,
+      "num": 247016,
+      "word": "王一博首登001号",
+      "onboard_time": 1740183737,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215232,
       "num": 215232,
       "word": "奶奶每天玩手机到凌晨近视2300度",
       "onboard_time": 1740115881,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 211592,
+      "num": 211592,
+      "word": "DeepSeek创始人实习时月薪已超1.6万",
+      "onboard_time": 1740186621,
+      "rank": 16,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 203693,
@@ -203,12 +307,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 183105,
+      "num": 183105,
+      "word": "有剧集给平台赚了10亿",
+      "onboard_time": 1740187038,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174347,
       "num": 174347,
       "word": "红房子 无人生还",
       "onboard_time": 1740138800,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159322,
+      "num": 132908,
+      "word": "夫妻报考同一岗位下班后开启备战模式",
+      "onboard_time": 1740188238,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159191,
@@ -225,6 +345,38 @@
       "onboard_time": 1740150742,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149393,
+      "num": 149393,
+      "word": "特朗普称泽连斯基是否谈判不重要",
+      "onboard_time": 1740184698,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 145344,
+      "num": 145344,
+      "word": "关晓彤未来感镭射风造型",
+      "onboard_time": 1740143481,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 145142,
+      "num": 145142,
+      "word": "饺子导演老乡给扎起了",
+      "onboard_time": 1740184758,
+      "rank": 26,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 142650,
+      "num": 142650,
+      "word": "白敬亭红温到脖子了",
+      "onboard_time": 1740159254,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 141641,
@@ -267,12 +419,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135987,
+      "num": 135987,
+      "word": "张萌谢谢李梦为拍戏放弃大热综艺",
+      "onboard_time": 1740187038,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 129781,
+      "num": 129781,
+      "word": "孙颖莎发球失误没忍住笑场",
+      "onboard_time": 1740180554,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 129385,
+      "num": 129385,
+      "word": "女子生日收万元花束20天后发霉",
+      "onboard_time": 1740186560,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127830,
       "num": 127830,
       "word": "灌面汤杀妻案家属发声",
       "onboard_time": 1740140478,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127465,
+      "num": 127465,
+      "word": "万斯称泽连斯基侮辱了特朗普",
+      "onboard_time": 1740181816,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 125317,
@@ -288,6 +472,30 @@
       "word": "厂家回应AI硅胶娃娃提供情绪价值",
       "onboard_time": 1740153979,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122728,
+      "num": 122728,
+      "word": "红房子 封神",
+      "onboard_time": 1740186499,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 117341,
+      "num": 117341,
+      "word": "小伙请全城免费看哪吒2花销约40万",
+      "onboard_time": 1740185778,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 117113,
+      "num": 117113,
+      "word": "我要把真相还给无数中国人民",
+      "onboard_time": 1740186560,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -355,12 +563,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99132,
+      "raw_hot": 100777,
       "num": 149240,
       "word": "性骚扰不该成为流量密码",
       "onboard_time": 1740169272,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100359,
+      "num": 100359,
+      "word": "被重庆地铁站里的化妆摊惊艳到了",
+      "onboard_time": 1740185359,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97154,
+      "num": 97154,
+      "word": "王昶首次回应梁王组合拆对传闻",
+      "onboard_time": 1740178813,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 96755,
@@ -369,6 +593,14 @@
       "onboard_time": 1740150680,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 95710,
+      "num": 95710,
+      "word": "温以凡妈妈人设",
+      "onboard_time": 1740168611,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 93845,
@@ -384,6 +616,14 @@
       "word": "城管回应住户在楼顶上种树",
       "onboard_time": 1740174431,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86307,
+      "num": 86307,
+      "word": "杨大昆逝世",
+      "onboard_time": 1740185299,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -419,12 +659,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 81672,
-      "num": 81672,
-      "word": "白敬亭红温到脖子了",
-      "onboard_time": 1740159254,
-      "rank": 47,
-      "category": "剧集"
+      "raw_hot": 83707,
+      "num": 319156,
+      "word": "特朗普说乌克兰无牌可打",
+      "onboard_time": 1740186560,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 80311,
@@ -451,14 +691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 68007,
-      "num": 68007,
-      "word": "DeepSeek分析大学每月1500够花吗",
-      "onboard_time": 1740175751,
-      "rank": 41,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 67705,
       "num": 67705,
       "word": "难哄删除争议镜头",
@@ -467,28 +699,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 62010,
-      "num": 573181,
-      "word": "中国空间站首个舱内在轨机器人试验",
-      "onboard_time": 1740146121,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 62003,
-      "num": 62003,
-      "word": "王昶首次回应梁王组合拆对传闻",
-      "onboard_time": 1740178813,
+      "raw_hot": 66226,
+      "num": 105850,
+      "word": "孙颖莎女单出战",
+      "onboard_time": 1740187459,
       "rank": 40,
       "category": "体育"
     },
     {
-      "raw_hot": 57976,
-      "num": 57976,
-      "word": "温以凡妈妈人设",
-      "onboard_time": 1740168611,
-      "rank": 39,
-      "category": "剧集"
+      "raw_hot": 62010,
+      "num": 864711,
+      "word": "中国空间站首个舱内在轨机器人试验",
+      "onboard_time": 1740146121,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 55331,
@@ -537,14 +761,6 @@
       "onboard_time": 1740163632,
       "rank": 22,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 39949,
-      "num": 41325,
-      "word": "孙颖莎发球失误没忍住笑场",
-      "onboard_time": 1740180554,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 38078,

@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1740180927983,
+  "endTime": 1740188408765,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -753,6 +753,14 @@
       "onboard_time": 1736121019,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 4253645,
+      "num": 4253645,
+      "word": "王星失联前曾提分手女友瞬间秒懂",
+      "onboard_time": 1740186560,
+      "rank": 0,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 4199194,
@@ -2392,14 +2400,6 @@
       "word": "十个勤天开场",
       "onboard_time": 1737722299,
       "rank": 39,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 2321064,
-      "num": 2321064,
-      "word": "春晚 用心",
-      "onboard_time": 1738069837,
-      "rank": 16,
       "category": "综艺"
     }
   ],
