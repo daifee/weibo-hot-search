@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740230598466,
+  "endTime": 1740231299484,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -2084,7 +2084,7 @@
     },
     {
       "raw_hot": 1730599,
-      "num": 691113,
+      "num": 709816,
       "word": "台当局宣布封杀三所大陆高校遭猛批",
       "onboard_time": 1740227002,
       "rank": 11,
@@ -5691,6 +5691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 958844,
+      "num": 665355,
+      "word": "黄明昊演唱会也没错过杨幂电话",
+      "onboard_time": 1740229222,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 958481,
       "num": 759347,
       "word": "孤注一掷",
@@ -6611,6 +6619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 852024,
+      "num": 852024,
+      "word": "乌克兰被曝并无大量稀土",
+      "onboard_time": 1740228382,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 851596,
       "num": 447656,
       "word": "唐艺昕腰身比",
@@ -7305,6 +7321,14 @@
       "onboard_time": 1739334743,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 792592,
+      "num": 546033,
+      "word": "670万买的楼王交钱时发现采光差",
+      "onboard_time": 1740226702,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 792173,
@@ -8283,14 +8307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 711796,
-      "num": 653723,
-      "word": "黄明昊演唱会也没错过杨幂电话",
-      "onboard_time": 1740229222,
-      "rank": 6,
-      "category": "演出"
-    },
-    {
       "raw_hot": 711528,
       "num": 711528,
       "word": "麻六记复播2天销售额达300万",
@@ -8649,14 +8665,6 @@
       "onboard_time": 1739283621,
       "rank": 44,
       "category": "网红"
-    },
-    {
-      "raw_hot": 685996,
-      "num": 685996,
-      "word": "乌克兰被曝并无大量稀土",
-      "onboard_time": 1740228382,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 684789,
@@ -10243,14 +10251,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 602621,
-      "num": 513848,
-      "word": "670万买的楼王交钱时发现采光差",
-      "onboard_time": 1740226702,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 602505,
       "num": 544784,
       "word": "她以为在牢里就算赎罪",
@@ -10753,6 +10753,14 @@
       "onboard_time": 1738393756,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 577521,
+      "num": 577521,
+      "word": "王楚钦获得澳门世界杯资格",
+      "onboard_time": 1740229822,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 577385,
@@ -11321,6 +11329,14 @@
       "onboard_time": 1739544263,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 555745,
+      "num": 555745,
+      "word": "刘晓庆回应就不死",
+      "onboard_time": 1740227601,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 555672,
@@ -12195,6 +12211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 520522,
+      "num": 520522,
+      "word": "哪吒2超134亿",
+      "onboard_time": 1740228323,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 519970,
       "num": 519970,
       "word": "零下35度一家三口救下路边冻僵大爷",
@@ -12241,6 +12265,14 @@
       "onboard_time": 1739768661,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 519122,
+      "num": 519122,
+      "word": "小蘑菇",
+      "onboard_time": 1740228982,
+      "rank": 20,
+      "category": "动漫"
     },
     {
       "raw_hot": 519107,
@@ -12321,6 +12353,14 @@
       "onboard_time": 1739104461,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 516036,
+      "num": 516036,
+      "word": "周杰伦五月天唱了难哄主题曲",
+      "onboard_time": 1740227961,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 515810,
@@ -12625,14 +12665,6 @@
       "onboard_time": 1740210141,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 508068,
-      "num": 508068,
-      "word": "刘晓庆回应就不死",
-      "onboard_time": 1740227601,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 507850,
@@ -14203,14 +14235,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 455707,
-      "num": 455707,
-      "word": "哪吒2超134亿",
-      "onboard_time": 1740228323,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 455187,
       "num": 455187,
       "word": "张本智和大满贯出局",
@@ -14297,14 +14321,6 @@
       "onboard_time": 1738749986,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 453096,
-      "num": 453096,
-      "word": "周杰伦五月天唱了难哄主题曲",
-      "onboard_time": 1740227961,
-      "rank": 32,
-      "category": "演出"
     },
     {
       "raw_hot": 453078,
@@ -16323,14 +16339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 394441,
-      "num": 394441,
-      "word": "小蘑菇",
-      "onboard_time": 1740228982,
-      "rank": 20,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 394415,
       "num": 394415,
       "word": "玉泽演否认求婚成功",
@@ -17824,14 +17832,6 @@
       "word": "浓眉",
       "onboard_time": 1738474457,
       "rank": 16,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 356442,
-      "num": 356442,
-      "word": "王楚钦获得澳门世界杯资格",
-      "onboard_time": 1740229822,
-      "rank": 25,
       "category": "体育"
     },
     {
@@ -19865,6 +19865,14 @@
       "onboard_time": 1739249601,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 318473,
+      "num": 318473,
+      "word": "黄友政3比4林昀儒",
+      "onboard_time": 1740229942,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 318463,
@@ -22955,6 +22963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 269904,
+      "num": 269904,
+      "word": "王鹤棣肉眼可见的慌乱",
+      "onboard_time": 1740230721,
+      "rank": 31,
+      "category": "艺人,艺人"
+    },
+    {
       "raw_hot": 269716,
       "num": 463000,
       "word": "网友偶遇赵露思山区做公益",
@@ -23025,6 +23041,14 @@
       "onboard_time": 1739249062,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 269251,
+      "num": 269251,
+      "word": "邱贻可演我的状态",
+      "onboard_time": 1740229163,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 269228,
@@ -24203,20 +24227,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 254602,
-      "num": 254602,
-      "word": "邱贻可演我的状态",
-      "onboard_time": 1740229163,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 254588,
       "num": 347935,
       "word": "留几手我亏钱了",
       "onboard_time": 1738757785,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 254454,
+      "num": 254454,
+      "word": "熬夜后不要吃完饭再补觉",
+      "onboard_time": 1740228622,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 254442,
@@ -24739,6 +24763,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 249814,
+      "num": 249814,
+      "word": "西芹汁治好了我30年的起床困难症",
+      "onboard_time": 1740221240,
+      "rank": 30,
+      "category": "健康医疗,美食"
+    },
+    {
       "raw_hot": 249800,
       "num": 249800,
       "word": "过年偶遇丁程鑫打麻将",
@@ -25001,14 +25033,6 @@
       "onboard_time": 1739712505,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 247265,
-      "num": 247265,
-      "word": "熬夜后不要吃完饭再补觉",
-      "onboard_time": 1740228622,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 247096,
@@ -25483,6 +25507,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 242575,
+      "num": 509363,
+      "word": "央视披露獐子岛案细节",
+      "onboard_time": 1740229462,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 242517,
       "num": 242517,
       "word": "迪丽热巴录开推3",
@@ -25779,14 +25811,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 239197,
-      "num": 229046,
-      "word": "西芹汁治好了我30年的起床困难症",
-      "onboard_time": 1740221240,
-      "rank": 30,
-      "category": "健康医疗,美食"
-    },
-    {
       "raw_hot": 239141,
       "num": 239141,
       "word": "谁家爸爸带娃只带13秒啊",
@@ -25833,6 +25857,14 @@
       "onboard_time": 1738387637,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 238529,
+      "num": 238529,
+      "word": "归棹剧本",
+      "onboard_time": 1740229283,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 238437,
@@ -26299,6 +26331,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 234195,
+      "num": 234195,
+      "word": "梁靖崑vs张本智和",
+      "onboard_time": 1740230603,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 234189,
       "num": 234189,
       "word": "小行星撞出物种灭绝平均要隔1亿年",
@@ -26753,14 +26793,6 @@
       "onboard_time": 1738334480,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 230132,
-      "num": 230132,
-      "word": "归棹剧本",
-      "onboard_time": 1740229283,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 230009,
@@ -29697,14 +29729,6 @@
       "onboard_time": 1740217761,
       "rank": 26,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 210043,
-      "num": 210043,
-      "word": "黄友政3比4林昀儒",
-      "onboard_time": 1740229942,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 210040,
@@ -34491,6 +34515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190133,
+      "num": 190133,
+      "word": "碎玉投珠",
+      "onboard_time": 1740231202,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 190126,
       "num": 249984,
       "word": "王家卫说影院是所有电影梦的开始",
@@ -37219,6 +37251,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 178395,
+      "num": 565586,
+      "word": "我国成功发射中星10R卫星",
+      "onboard_time": 1740230783,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 178376,
       "num": 178402,
       "word": "林诗栋说没想到4比0赢",
@@ -39513,6 +39553,14 @@
       "onboard_time": 1740192141,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167365,
+      "num": 324341,
+      "word": "孙颖莎反应太牛了",
+      "onboard_time": 1740231022,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 167300,
@@ -44171,6 +44219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148262,
+      "num": 475051,
+      "word": "邓为入魔把我钓成翘嘴",
+      "onboard_time": 1740231022,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148181,
       "num": 148181,
       "word": "情人节的玫瑰是王心凌送的",
@@ -47931,14 +47987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131772,
-      "num": 509363,
-      "word": "央视披露獐子岛案细节",
-      "onboard_time": 1740229462,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 131767,
       "num": 131767,
       "word": "演技是演员最好的医美",
@@ -48480,6 +48528,14 @@
       "word": "亚冬会小狐狸不语只是一味挖挖挖",
       "onboard_time": 1739096301,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 129663,
+      "num": 291751,
+      "word": "梁靖崑4比2张本智和",
+      "onboard_time": 1740231143,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -55328,6 +55384,14 @@
       "word": "东契奇将魔法带到洛杉矶了",
       "onboard_time": 1739422762,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 93545,
+      "num": 517062,
+      "word": "王楚钦告诉自己抛除杂念",
+      "onboard_time": 1740230243,
+      "rank": 21,
       "category": "体育"
     },
     {
@@ -62507,6 +62571,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 45217,
+      "num": 539978,
+      "word": "现场直击王鹤棣狂宠雅迪摩登车主",
+      "onboard_time": 1740228502,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 45188,
       "num": 285086,
       "word": "哪吒rap配解放军武器毫无违和感",
@@ -64291,14 +64363,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 35640,
-      "num": 512708,
-      "word": "现场直击王鹤棣狂宠雅迪摩登车主",
-      "onboard_time": 1740228502,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 35635,
       "num": 93599,
       "word": "马龙现身小学的开学典礼",
@@ -64640,6 +64704,14 @@
       "word": "锣鼓一响敲出新年满满精气神",
       "onboard_time": 1738486398,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33728,
+      "num": 275888,
+      "word": "男子搬家式盗窃被抓",
+      "onboard_time": 1740229582,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -65217,6 +65289,14 @@
       "onboard_time": 1738838424,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30428,
+      "num": 484272,
+      "word": "官方回应村民老宅成文物不能翻建",
+      "onboard_time": 1740230963,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30418,
@@ -65905,14 +65985,6 @@
       "onboard_time": 1738668986,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 26611,
-      "num": 267526,
-      "word": "男子搬家式盗窃被抓",
-      "onboard_time": 1740229582,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26566,
@@ -67497,14 +67569,6 @@
       "onboard_time": 1738966572,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 19840,
-      "num": 393416,
-      "word": "王楚钦告诉自己抛除杂念",
-      "onboard_time": 1740230243,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 19836,
@@ -69937,6 +70001,14 @@
       "onboard_time": 1739345541,
       "rank": 2,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 6612,
+      "num": 208264,
+      "word": "王曼昱4比1郑怡静",
+      "onboard_time": 1740231263,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 6556,

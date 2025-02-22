@@ -1,6 +1,6 @@
 {
   "startTime": 1740155309204,
-  "endTime": 1740230598466,
+  "endTime": 1740231299484,
   "band_list": [
     {
       "raw_hot": 12791228,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1730599,
-      "num": 691113,
+      "num": 709816,
       "word": "台当局宣布封杀三所大陆高校遭猛批",
       "onboard_time": 1740227002,
       "rank": 11,
@@ -163,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 958844,
+      "num": 665355,
+      "word": "黄明昊演唱会也没错过杨幂电话",
+      "onboard_time": 1740229222,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 926885,
       "num": 926885,
       "word": "难哄 鬼片镜头",
@@ -179,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 852024,
+      "num": 852024,
+      "word": "乌克兰被曝并无大量稀土",
+      "onboard_time": 1740228382,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 844062,
       "num": 844062,
       "word": "王楚钦vs户上隼辅",
@@ -193,6 +209,14 @@
       "onboard_time": 1740128661,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 792592,
+      "num": 546033,
+      "word": "670万买的楼王交钱时发现采光差",
+      "onboard_time": 1740226702,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 792173,
@@ -267,28 +291,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 711796,
-      "num": 653723,
-      "word": "黄明昊演唱会也没错过杨幂电话",
-      "onboard_time": 1740229222,
-      "rank": 6,
-      "category": "演出"
-    },
-    {
       "raw_hot": 692668,
       "num": 692668,
       "word": "敖丙传",
       "onboard_time": 1740220521,
       "rank": 33,
       "category": "电影,动漫"
-    },
-    {
-      "raw_hot": 685996,
-      "num": 685996,
-      "word": "乌克兰被曝并无大量稀土",
-      "onboard_time": 1740228382,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 683864,
@@ -339,14 +347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 602621,
-      "num": 513848,
-      "word": "670万买的楼王交钱时发现采光差",
-      "onboard_time": 1740226702,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 600888,
       "num": 600888,
       "word": "大角度",
@@ -387,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 577521,
+      "num": 577521,
+      "word": "王楚钦获得澳门世界杯资格",
+      "onboard_time": 1740229822,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 572559,
       "num": 572559,
       "word": "有剧集给平台赚了10亿",
@@ -409,6 +417,14 @@
       "onboard_time": 1740147860,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 555745,
+      "num": 555745,
+      "word": "刘晓庆回应就不死",
+      "onboard_time": 1740227601,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 545507,
@@ -459,6 +475,30 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 520522,
+      "num": 520522,
+      "word": "哪吒2超134亿",
+      "onboard_time": 1740228323,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 519122,
+      "num": 519122,
+      "word": "小蘑菇",
+      "onboard_time": 1740228982,
+      "rank": 20,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 516036,
+      "num": 516036,
+      "word": "周杰伦五月天唱了难哄主题曲",
+      "onboard_time": 1740227961,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 513839,
       "num": 513839,
       "word": "u20国足点球不进",
@@ -481,14 +521,6 @@
       "onboard_time": 1740210141,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 508068,
-      "num": 508068,
-      "word": "刘晓庆回应就不死",
-      "onboard_time": 1740227601,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 506728,
@@ -587,22 +619,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 455707,
-      "num": 455707,
-      "word": "哪吒2超134亿",
-      "onboard_time": 1740228323,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 453096,
-      "num": 453096,
-      "word": "周杰伦五月天唱了难哄主题曲",
-      "onboard_time": 1740227961,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 451066,
       "num": 446782,
       "word": "难哄原著粉",
@@ -699,14 +715,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 394441,
-      "num": 394441,
-      "word": "小蘑菇",
-      "onboard_time": 1740228982,
-      "rank": 20,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 393397,
       "num": 332204,
       "word": "向太透露为何结婚45年未举行过婚礼",
@@ -760,14 +768,6 @@
       "word": "王楚钦连续爆冲太凶了",
       "onboard_time": 1740227840,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 356442,
-      "num": 356442,
-      "word": "王楚钦获得澳门世界杯资格",
-      "onboard_time": 1740229822,
-      "rank": 25,
       "category": "体育"
     },
     {
@@ -857,6 +857,14 @@
       "onboard_time": 1740175751,
       "rank": 41,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 318473,
+      "num": 318473,
+      "word": "黄友政3比4林昀儒",
+      "onboard_time": 1740229942,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 315461,
@@ -979,6 +987,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 269904,
+      "num": 269904,
+      "word": "王鹤棣肉眼可见的慌乱",
+      "onboard_time": 1740230721,
+      "rank": 31,
+      "category": "艺人,艺人"
+    },
+    {
+      "raw_hot": 269251,
+      "num": 269251,
+      "word": "邱贻可演我的状态",
+      "onboard_time": 1740229163,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 267513,
       "num": 267513,
       "word": "杀破狼",
@@ -1035,12 +1059,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 254602,
-      "num": 254602,
-      "word": "邱贻可演我的状态",
-      "onboard_time": 1740229163,
-      "rank": 34,
-      "category": "体育"
+      "raw_hot": 254454,
+      "num": 254454,
+      "word": "熬夜后不要吃完饭再补觉",
+      "onboard_time": 1740228622,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 251039,
@@ -1051,12 +1075,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 247265,
-      "num": 247265,
-      "word": "熬夜后不要吃完饭再补觉",
-      "onboard_time": 1740228622,
-      "rank": 42,
-      "category": "健康医疗"
+      "raw_hot": 249814,
+      "num": 249814,
+      "word": "西芹汁治好了我30年的起床困难症",
+      "onboard_time": 1740221240,
+      "rank": 30,
+      "category": "健康医疗,美食"
     },
     {
       "raw_hot": 247016,
@@ -1091,6 +1115,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 242575,
+      "num": 509363,
+      "word": "央视披露獐子岛案细节",
+      "onboard_time": 1740229462,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239271,
       "num": 239271,
       "word": "我家那小子",
@@ -1099,12 +1131,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 239197,
-      "num": 229046,
-      "word": "西芹汁治好了我30年的起床困难症",
-      "onboard_time": 1740221240,
-      "rank": 30,
-      "category": "健康医疗,美食"
+      "raw_hot": 238529,
+      "num": 238529,
+      "word": "归棹剧本",
+      "onboard_time": 1740229283,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 234195,
+      "num": 234195,
+      "word": "梁靖崑vs张本智和",
+      "onboard_time": 1740230603,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 231274,
@@ -1129,14 +1169,6 @@
       "onboard_time": 1740226761,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 230132,
-      "num": 230132,
-      "word": "归棹剧本",
-      "onboard_time": 1740229283,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 226751,
@@ -1217,14 +1249,6 @@
       "onboard_time": 1740217761,
       "rank": 26,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 210043,
-      "num": 210043,
-      "word": "黄友政3比4林昀儒",
-      "onboard_time": 1740229942,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 209042,
@@ -1531,6 +1555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190133,
+      "num": 190133,
+      "word": "碎玉投珠",
+      "onboard_time": 1740231202,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 188959,
       "num": 188959,
       "word": "石洵瑶0比3伊藤美诚",
@@ -1617,6 +1649,14 @@
       "onboard_time": 1740191180,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 178395,
+      "num": 565586,
+      "word": "我国成功发射中星10R卫星",
+      "onboard_time": 1740230783,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 176657,
@@ -1745,6 +1785,14 @@
       "onboard_time": 1740192141,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167365,
+      "num": 324341,
+      "word": "孙颖莎反应太牛了",
+      "onboard_time": 1740231022,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 165798,
@@ -1995,6 +2043,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 148262,
+      "num": 475051,
+      "word": "邓为入魔把我钓成翘嘴",
+      "onboard_time": 1740231022,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146927,
       "num": 157749,
       "word": "王昶黄雅琼打混双",
@@ -2203,14 +2259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131772,
-      "num": 509363,
-      "word": "央视披露獐子岛案细节",
-      "onboard_time": 1740229462,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 131138,
       "num": 131138,
       "word": "余承恩王子璇他在笑她在爆笑",
@@ -2233,6 +2281,14 @@
       "onboard_time": 1740209779,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129663,
+      "num": 291751,
+      "word": "梁靖崑4比2张本智和",
+      "onboard_time": 1740231143,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 129473,
@@ -2715,6 +2771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93545,
+      "num": 517062,
+      "word": "王楚钦告诉自己抛除杂念",
+      "onboard_time": 1740230243,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92656,
       "num": 269416,
       "word": "王楚钦绝对的主力",
@@ -3035,6 +3099,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 45217,
+      "num": 539978,
+      "word": "现场直击王鹤棣狂宠雅迪摩登车主",
+      "onboard_time": 1740228502,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 44647,
       "num": 153664,
       "word": "智搜ds预测U20国足险胜沙特",
@@ -3155,20 +3227,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 35640,
-      "num": 512708,
-      "word": "现场直击王鹤棣狂宠雅迪摩登车主",
-      "onboard_time": 1740228502,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 34179,
       "num": 289196,
       "word": "王钰栋单刀遗憾打偏",
       "onboard_time": 1740216081,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33728,
+      "num": 275888,
+      "word": "男子搬家式盗窃被抓",
+      "onboard_time": 1740229582,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31633,
@@ -3185,6 +3257,14 @@
       "onboard_time": 1740209298,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 30428,
+      "num": 484272,
+      "word": "官方回应村民老宅成文物不能翻建",
+      "onboard_time": 1740230963,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29304,
@@ -3209,14 +3289,6 @@
       "onboard_time": 1740158834,
       "rank": 15,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 26611,
-      "num": 267526,
-      "word": "男子搬家式盗窃被抓",
-      "onboard_time": 1740229582,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26078,
@@ -3289,14 +3361,6 @@
       "onboard_time": 1740163332,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 19840,
-      "num": 393416,
-      "word": "王楚钦告诉自己抛除杂念",
-      "onboard_time": 1740230243,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 19696,
@@ -3416,6 +3480,14 @@
       "word": "王曼昱11比0沙赫萨瓦里",
       "onboard_time": 1740159135,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 6612,
+      "num": 208264,
+      "word": "王曼昱4比1郑怡静",
+      "onboard_time": 1740231263,
+      "rank": 42,
       "category": "体育"
     }
   ],

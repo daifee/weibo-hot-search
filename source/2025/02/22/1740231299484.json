@@ -1,0 +1,410 @@
+{
+  "runTime": 1740231299484,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1242021,
+        "num": 1242021,
+        "word": "黄灿灿回应",
+        "onboard_time": 1740223100,
+        "rank": 0,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 852024,
+        "num": 852024,
+        "word": "乌克兰被曝并无大量稀土",
+        "onboard_time": 1740228382,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 38315,
+        "num": 722318,
+        "word": "天问二号一次发射实施多项任务",
+        "onboard_time": 1740215480,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1657702,
+        "num": 709816,
+        "word": "台当局宣布封杀三所大陆高校遭猛批",
+        "onboard_time": 1740227002,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 958844,
+        "num": 665355,
+        "word": "黄明昊演唱会也没错过杨幂电话",
+        "onboard_time": 1740229222,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 599995,
+        "num": 599995,
+        "word": "再世权臣",
+        "onboard_time": 1740223882,
+        "rank": 5,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 922349,
+        "num": 598078,
+        "word": "何炅吐槽的人到底是谁",
+        "onboard_time": 1740222980,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 577521,
+        "num": 577521,
+        "word": "王楚钦获得澳门世界杯资格",
+        "onboard_time": 1740229822,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178395,
+        "num": 565586,
+        "word": "我国成功发射中星10R卫星",
+        "onboard_time": 1740230783,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 555745,
+        "num": 555745,
+        "word": "刘晓庆回应就不死",
+        "onboard_time": 1740227601,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 792592,
+        "num": 546033,
+        "word": "670万买的楼王交钱时发现采光差",
+        "onboard_time": 1740226702,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45217,
+        "num": 539978,
+        "word": "现场直击王鹤棣狂宠雅迪摩登车主",
+        "onboard_time": 1740228502,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 535773,
+        "num": 535773,
+        "word": "孙颖莎与刘国梁复盘比赛",
+        "onboard_time": 1740227720,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 520522,
+        "num": 520522,
+        "word": "哪吒2超134亿",
+        "onboard_time": 1740228323,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 519122,
+        "num": 519122,
+        "word": "小蘑菇",
+        "onboard_time": 1740228982,
+        "rank": 14,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 93545,
+        "num": 517062,
+        "word": "王楚钦告诉自己抛除杂念",
+        "onboard_time": 1740230243,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 516036,
+        "num": 516036,
+        "word": "周杰伦五月天唱了难哄主题曲",
+        "onboard_time": 1740227961,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 501804,
+        "num": 501804,
+        "word": "敖丙传",
+        "onboard_time": 1740220521,
+        "rank": 17,
+        "category": "动漫,电影"
+      },
+      {
+        "raw_hot": 30428,
+        "num": 484272,
+        "word": "官方回应村民老宅成文物不能翻建",
+        "onboard_time": 1740230963,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148262,
+        "num": 475051,
+        "word": "邓为入魔把我钓成翘嘴",
+        "onboard_time": 1740231022,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242575,
+        "num": 469837,
+        "word": "央视披露獐子岛案细节",
+        "onboard_time": 1740229462,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 469368,
+        "num": 469368,
+        "word": "天雷滚滚我好怕怕传到联合国",
+        "onboard_time": 1740219379,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 407091,
+        "num": 407091,
+        "word": "全体土拨鼠抬头那一刻绷不住了",
+        "onboard_time": 1740214461,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 386383,
+        "num": 386383,
+        "word": "体检无异常1年半后确诊癌症晚期",
+        "onboard_time": 1740215421,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167365,
+        "num": 324341,
+        "word": "孙颖莎反应太牛了",
+        "onboard_time": 1740231022,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 319783,
+        "num": 319783,
+        "word": "男子冒充女童隔空猥亵40多个女孩",
+        "onboard_time": 1740222800,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318473,
+        "num": 318473,
+        "word": "黄友政3比4林昀儒",
+        "onboard_time": 1740229942,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129663,
+        "num": 291751,
+        "word": "梁靖崑4比2张本智和",
+        "onboard_time": 1740231143,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288648,
+        "num": 288648,
+        "word": "王楚钦vs户上隼辅",
+        "onboard_time": 1740226222,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33728,
+        "num": 275888,
+        "word": "男子搬家式盗窃被抓",
+        "onboard_time": 1740229582,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275250,
+        "num": 275250,
+        "word": "大角度",
+        "onboard_time": 1740225441,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269904,
+        "num": 269904,
+        "word": "王鹤棣肉眼可见的慌乱",
+        "onboard_time": 1740230721,
+        "rank": 31,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 269251,
+        "num": 269251,
+        "word": "邱贻可演我的状态",
+        "onboard_time": 1740229163,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260092,
+        "num": 260092,
+        "word": "王楚钦连续爆冲太凶了",
+        "onboard_time": 1740227840,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254454,
+        "num": 254454,
+        "word": "熬夜后不要吃完饭再补觉",
+        "onboard_time": 1740228622,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 249814,
+        "num": 249814,
+        "word": "西芹汁治好了我30年的起床困难症",
+        "onboard_time": 1740221240,
+        "rank": 35,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 240610,
+        "num": 240610,
+        "word": "孙颖莎说落后没有放弃",
+        "onboard_time": 1740228143,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238529,
+        "num": 238529,
+        "word": "归棹剧本",
+        "onboard_time": 1740229283,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237612,
+        "num": 237612,
+        "word": "从24岁患癌到37岁重生她用13年自救",
+        "onboard_time": 1740220461,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236604,
+        "num": 236604,
+        "word": "杀破狼",
+        "onboard_time": 1740225142,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 234195,
+        "num": 234195,
+        "word": "梁靖崑vs张本智和",
+        "onboard_time": 1740230603,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215590,
+        "num": 215590,
+        "word": "张凌赫工作室必有高人指点",
+        "onboard_time": 1740214761,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 6612,
+        "num": 208264,
+        "word": "王曼昱4比1郑怡静",
+        "onboard_time": 1740231263,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208223,
+        "num": 208223,
+        "word": "家有儿女到底花了多少经费在餐桌上",
+        "onboard_time": 1740219322,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202169,
+        "num": 202169,
+        "word": "漂白受伤替身发文",
+        "onboard_time": 1740215722,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190946,
+        "num": 190946,
+        "word": "哪吒2海洋制作1年老外以为是真海水",
+        "onboard_time": 1740226761,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190626,
+        "num": 190626,
+        "word": "郭敬明再晒月鳞绮纪原始帧",
+        "onboard_time": 1740229103,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190133,
+        "num": 190133,
+        "word": "碎玉投珠",
+        "onboard_time": 1740231202,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 187490,
+        "num": 187490,
+        "word": "JDG对战DYG",
+        "onboard_time": 1740230302,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 182234,
+        "num": 182234,
+        "word": "孙颖莎爱吃椰子鸡",
+        "onboard_time": 1740230123,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持把谋打赢作为最大职责#"
+    }
+  }
+}
