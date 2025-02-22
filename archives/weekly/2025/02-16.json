@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1740194717608,
+  "endTime": 1740195552124,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -2635,6 +2635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 727897,
+      "num": 327133,
+      "word": "阿诺生第一个孩子时很危险",
+      "onboard_time": 1740193941,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 726814,
       "num": 262867,
       "word": "周扬青回应网曝新恋情",
@@ -2817,6 +2825,14 @@
       "onboard_time": 1739782882,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 683864,
+      "num": 683864,
+      "word": "私家侦探提供女子信息致其被丈夫打死",
+      "onboard_time": 1740190759,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 682634,
@@ -3097,14 +3113,6 @@
       "onboard_time": 1739966840,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 633942,
-      "num": 633942,
-      "word": "私家侦探提供女子信息致其被丈夫打死",
-      "onboard_time": 1740190759,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 633893,
@@ -4067,14 +4075,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 489171,
-      "num": 327133,
-      "word": "阿诺生第一个孩子时很危险",
-      "onboard_time": 1740193941,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 489153,
       "num": 489153,
       "word": "酒店擅自分装洗发水沐浴露涉嫌违法",
@@ -4987,6 +4987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 402179,
+      "num": 402179,
+      "word": "00后警察1条朋友圈获264个赞",
+      "onboard_time": 1740191359,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 401865,
       "num": 314670,
       "word": "谁家老公把老婆当员工啊",
@@ -5419,14 +5427,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 372099,
-      "num": 372099,
-      "word": "00后警察1条朋友圈获264个赞",
-      "onboard_time": 1740191359,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 372045,
       "num": 372045,
       "word": "顾盼生辉",
@@ -5673,6 +5673,14 @@
       "onboard_time": 1739979321,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 354258,
+      "num": 354258,
+      "word": "这还是我认识的姜小果吗",
+      "onboard_time": 1740191600,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 353768,
@@ -6297,14 +6305,6 @@
       "onboard_time": 1739780242,
       "rank": 9,
       "category": "电影"
-    },
-    {
-      "raw_hot": 313875,
-      "num": 313875,
-      "word": "这还是我认识的姜小果吗",
-      "onboard_time": 1740191600,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 312910,
@@ -6937,6 +6937,14 @@
       "onboard_time": 1739946021,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 280893,
+      "num": 280893,
+      "word": "王楚钦vs高承睿",
+      "onboard_time": 1740192619,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 280435,
@@ -7667,6 +7675,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 251039,
+      "num": 251039,
+      "word": "宋伊人演我替别人尴尬",
+      "onboard_time": 1740194541,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 250909,
       "num": 360953,
       "word": "仙台有树新浪扫楼",
@@ -7689,6 +7705,14 @@
       "onboard_time": 1740051682,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 250617,
+      "num": 329651,
+      "word": "未患癌刘翔峰却医嘱化疗致九级伤残",
+      "onboard_time": 1740193460,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 249903,
@@ -8145,6 +8169,14 @@
       "onboard_time": 1739955141,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 237417,
+      "num": 152240,
+      "word": "瘦下来的麦琳",
+      "onboard_time": 1740194959,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 237415,
@@ -9081,6 +9113,14 @@
       "onboard_time": 1739784799,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 211817,
+      "num": 338266,
+      "word": "演讲稿在眼镜里动动戒指就翻页",
+      "onboard_time": 1740193160,
+      "rank": 9,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 211625,
@@ -10187,14 +10227,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 195594,
-      "num": 338266,
-      "word": "演讲稿在眼镜里动动戒指就翻页",
-      "onboard_time": 1740193160,
-      "rank": 9,
-      "category": "互联网,民生新闻"
-    },
-    {
       "raw_hot": 195570,
       "num": 195570,
       "word": "周峻纬优绩主义将人物化",
@@ -10225,14 +10257,6 @@
       "onboard_time": 1739773639,
       "rank": 35,
       "category": "体育,电影"
-    },
-    {
-      "raw_hot": 195088,
-      "num": 195088,
-      "word": "未患癌刘翔峰却医嘱化疗致九级伤残",
-      "onboard_time": 1740193460,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 194946,
@@ -10289,6 +10313,14 @@
       "onboard_time": 1740030262,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194360,
+      "num": 317620,
+      "word": "唱K喝酒呕吐坠亡案中KTV担三成责任",
+      "onboard_time": 1740193520,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194263,
@@ -11579,6 +11611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173175,
+      "num": 251277,
+      "word": "白敬亭吃汉堡被粉丝吓到的反应",
+      "onboard_time": 1740194842,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172997,
       "num": 172997,
       "word": "宁艺卓 FILA",
@@ -12315,6 +12355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162539,
+      "num": 251110,
+      "word": "王楚钦火速进8强",
+      "onboard_time": 1740195139,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162461,
       "num": 162461,
       "word": "桑家出情种",
@@ -12355,12 +12403,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 162162,
-      "num": 162162,
-      "word": "宋伊人演我替别人尴尬",
-      "onboard_time": 1740194541,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 162013,
+      "num": 162013,
+      "word": "DeepSeek最新预测哪吒2票房",
+      "onboard_time": 1740194779,
+      "rank": 26,
+      "category": "电影,互联网"
     },
     {
       "raw_hot": 161848,
@@ -12947,6 +12995,14 @@
       "category": "美食,电影"
     },
     {
+      "raw_hot": 152790,
+      "num": 152790,
+      "word": "张远新加坡演唱会话筒没声",
+      "onboard_time": 1740194240,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 152789,
       "num": 152789,
       "word": "鸡煲店擦边营销模特把脚放餐桌上",
@@ -13145,6 +13201,14 @@
       "onboard_time": 1739779762,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150130,
+      "num": 215432,
+      "word": "法律不能拿猥琐老人没办法",
+      "onboard_time": 1740193580,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150099,
@@ -14227,6 +14291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132653,
+      "num": 154937,
+      "word": "孙颖莎vs李恩惠",
+      "onboard_time": 1740194720,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132473,
       "num": 132473,
       "word": "孙颖莎笑容使者",
@@ -14289,14 +14361,6 @@
       "onboard_time": 1739697378,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 131131,
-      "num": 131131,
-      "word": "张远新加坡演唱会话筒没声",
-      "onboard_time": 1740194240,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 130937,
@@ -14787,14 +14851,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 123542,
-      "num": 131753,
-      "word": "王楚钦vs高承睿",
-      "onboard_time": 1740192619,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 123521,
       "num": 123521,
       "word": "XYG羲和退役",
@@ -14849,6 +14905,14 @@
       "onboard_time": 1739839100,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122021,
+      "num": 122021,
+      "word": "电影天堂旅行团定档",
+      "onboard_time": 1740194180,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 121977,
@@ -14953,6 +15017,14 @@
       "onboard_time": 1739933840,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120374,
+      "num": 120374,
+      "word": "霸总带娃敷衍到给孩子吃剩饭",
+      "onboard_time": 1740189799,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 120282,
@@ -15065,14 +15137,6 @@
       "onboard_time": 1740125959,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 118167,
-      "num": 118167,
-      "word": "霸总带娃敷衍到给孩子吃剩饭",
-      "onboard_time": 1740189799,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 117884,
@@ -15715,28 +15779,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 103117,
-      "num": 215432,
-      "word": "法律不能拿猥琐老人没办法",
-      "onboard_time": 1740193580,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 103060,
       "num": 314209,
       "word": "珍贵程度堪比月壤的万米岩芯首次亮相",
       "onboard_time": 1740039382,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 103041,
-      "num": 103041,
-      "word": "电影天堂旅行团定档",
-      "onboard_time": 1740194180,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 102995,
@@ -15921,6 +15969,14 @@
       "onboard_time": 1739965759,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 100042,
+      "num": 100042,
+      "word": "奔驰高管怒怼恶意竞争",
+      "onboard_time": 1740194599,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 100001,
@@ -16225,14 +16281,6 @@
       "onboard_time": 1739771660,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 93528,
-      "num": 93528,
-      "word": "奔驰高管怒怼恶意竞争",
-      "onboard_time": 1740194599,
-      "rank": 49,
-      "category": "汽车"
     },
     {
       "raw_hot": 93521,
@@ -17987,14 +18035,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 52950,
-      "num": 317620,
-      "word": "唱K喝酒呕吐坠亡案中KTV担三成责任",
-      "onboard_time": 1740193520,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 52932,
       "num": 257502,
       "word": "藕饼烈火焚尽桎梏",
@@ -18473,6 +18513,14 @@
       "onboard_time": 1740124279,
       "rank": 16,
       "category": "体育,汽车"
+    },
+    {
+      "raw_hot": 44647,
+      "num": 153664,
+      "word": "智搜ds预测U20国足险胜沙特",
+      "onboard_time": 1740193580,
+      "rank": 29,
+      "category": "体育,互联网"
     },
     {
       "raw_hot": 44546,

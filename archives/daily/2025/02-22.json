@@ -1,6 +1,6 @@
 {
   "startTime": 1740155309204,
-  "endTime": 1740194717608,
+  "endTime": 1740195552124,
   "band_list": [
     {
       "raw_hot": 4253645,
@@ -67,6 +67,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 727897,
+      "num": 327133,
+      "word": "阿诺生第一个孩子时很危险",
+      "onboard_time": 1740193941,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 715098,
       "num": 715098,
       "word": "白宫称即将成为美国第51州的加拿大",
@@ -83,8 +91,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 633942,
-      "num": 633942,
+      "raw_hot": 683864,
+      "num": 683864,
       "word": "私家侦探提供女子信息致其被丈夫打死",
       "onboard_time": 1740190759,
       "rank": 8,
@@ -147,14 +155,6 @@
       "category": "互联网,民生新闻"
     },
     {
-      "raw_hot": 489171,
-      "num": 327133,
-      "word": "阿诺生第一个孩子时很危险",
-      "onboard_time": 1740193941,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 484557,
       "num": 348643,
       "word": "女子生日收万元花束20天后发霉",
@@ -211,6 +211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 402179,
+      "num": 402179,
+      "word": "00后警察1条朋友圈获264个赞",
+      "onboard_time": 1740191359,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 395936,
       "num": 395936,
       "word": "哪吒2票房130亿了",
@@ -232,14 +240,6 @@
       "word": "官方回应有智力缺陷孩子在校被霸凌",
       "onboard_time": 1740156377,
       "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 372099,
-      "num": 372099,
-      "word": "00后警察1条朋友圈获264个赞",
-      "onboard_time": 1740191359,
-      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -275,6 +275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 354258,
+      "num": 354258,
+      "word": "这还是我认识的姜小果吗",
+      "onboard_time": 1740191600,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 320972,
       "num": 320972,
       "word": "宋亚轩重现出国表情包",
@@ -289,14 +297,6 @@
       "onboard_time": 1740175751,
       "rank": 41,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 313875,
-      "num": 313875,
-      "word": "这还是我认识的姜小果吗",
-      "onboard_time": 1740191600,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 304081,
@@ -315,12 +315,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 280893,
+      "num": 280893,
+      "word": "王楚钦vs高承睿",
+      "onboard_time": 1740192619,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 258173,
       "num": 258173,
       "word": "Jennie牙钉",
       "onboard_time": 1740145162,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 251039,
+      "num": 251039,
+      "word": "宋伊人演我替别人尴尬",
+      "onboard_time": 1740194541,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 250617,
+      "num": 329651,
+      "word": "未患癌刘翔峰却医嘱化疗致九级伤残",
+      "onboard_time": 1740193460,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 247016,
@@ -331,12 +355,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 237417,
+      "num": 152240,
+      "word": "瘦下来的麦琳",
+      "onboard_time": 1740194959,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215232,
       "num": 215232,
       "word": "奶奶每天玩手机到凌晨近视2300度",
       "onboard_time": 1740115881,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 211817,
+      "num": 338266,
+      "word": "演讲稿在眼镜里动动戒指就翻页",
+      "onboard_time": 1740193160,
+      "rank": 9,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 210483,
@@ -387,19 +427,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 195594,
-      "num": 338266,
-      "word": "演讲稿在眼镜里动动戒指就翻页",
-      "onboard_time": 1740193160,
-      "rank": 9,
-      "category": "互联网,民生新闻"
-    },
-    {
-      "raw_hot": 195088,
-      "num": 195088,
-      "word": "未患癌刘翔峰却医嘱化疗致九级伤残",
-      "onboard_time": 1740193460,
-      "rank": 22,
+      "raw_hot": 194360,
+      "num": 317620,
+      "word": "唱K喝酒呕吐坠亡案中KTV担三成责任",
+      "onboard_time": 1740193520,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -443,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173175,
+      "num": 251277,
+      "word": "白敬亭吃汉堡被粉丝吓到的反应",
+      "onboard_time": 1740194842,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167372,
       "num": 167372,
       "word": "北上",
@@ -451,12 +491,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 162162,
-      "num": 162162,
-      "word": "宋伊人演我替别人尴尬",
-      "onboard_time": 1740194541,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 162539,
+      "num": 251110,
+      "word": "王楚钦火速进8强",
+      "onboard_time": 1740195139,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 162013,
+      "num": 162013,
+      "word": "DeepSeek最新预测哪吒2票房",
+      "onboard_time": 1740194779,
+      "rank": 26,
+      "category": "电影,互联网"
     },
     {
       "raw_hot": 161241,
@@ -491,12 +539,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152790,
+      "num": 152790,
+      "word": "张远新加坡演唱会话筒没声",
+      "onboard_time": 1740194240,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 150955,
       "num": 150955,
       "word": "孙颖莎发球失误没忍住笑场",
       "onboard_time": 1740180554,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150130,
+      "num": 215432,
+      "word": "法律不能拿猥琐老人没办法",
+      "onboard_time": 1740193580,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149393,
@@ -595,12 +659,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131131,
-      "num": 131131,
-      "word": "张远新加坡演唱会话筒没声",
-      "onboard_time": 1740194240,
-      "rank": 31,
-      "category": "演出"
+      "raw_hot": 132653,
+      "num": 154937,
+      "word": "孙颖莎vs李恩惠",
+      "onboard_time": 1740194720,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 127943,
@@ -659,12 +723,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 123542,
-      "num": 131753,
-      "word": "王楚钦vs高承睿",
-      "onboard_time": 1740192619,
-      "rank": 29,
-      "category": "体育"
+      "raw_hot": 122021,
+      "num": 122021,
+      "word": "电影天堂旅行团定档",
+      "onboard_time": 1740194180,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 121977,
@@ -691,8 +755,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 118167,
-      "num": 118167,
+      "raw_hot": 120374,
+      "num": 120374,
       "word": "霸总带娃敷衍到给孩子吃剩饭",
       "onboard_time": 1740189799,
       "rank": 38,
@@ -755,22 +819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 103117,
-      "num": 215432,
-      "word": "法律不能拿猥琐老人没办法",
-      "onboard_time": 1740193580,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 103041,
-      "num": 103041,
-      "word": "电影天堂旅行团定档",
-      "onboard_time": 1740194180,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 102362,
       "num": 102362,
       "word": "德基厕所",
@@ -801,6 +849,14 @@
       "onboard_time": 1740185359,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100042,
+      "num": 100042,
+      "word": "奔驰高管怒怼恶意竞争",
+      "onboard_time": 1740194599,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 97154,
@@ -865,14 +921,6 @@
       "onboard_time": 1740148281,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 93528,
-      "num": 93528,
-      "word": "奔驰高管怒怼恶意竞争",
-      "onboard_time": 1740194599,
-      "rank": 49,
-      "category": "汽车"
     },
     {
       "raw_hot": 89411,
@@ -1011,14 +1059,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 52950,
-      "num": 317620,
-      "word": "唱K喝酒呕吐坠亡案中KTV担三成责任",
-      "onboard_time": 1740193520,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 51840,
       "num": 200483,
       "word": "王曼昱打出11比0",
@@ -1033,6 +1073,14 @@
       "onboard_time": 1740193881,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 44647,
+      "num": 153664,
+      "word": "智搜ds预测U20国足险胜沙特",
+      "onboard_time": 1740193580,
+      "rank": 29,
+      "category": "体育,互联网"
     },
     {
       "raw_hot": 41656,
