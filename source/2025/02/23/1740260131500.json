@@ -1,0 +1,410 @@
+{
+  "runTime": 1740260131500,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 133851,
+        "num": 178100,
+        "word": "看似养胃其实伤胃的4件事",
+        "onboard_time": 1740245295,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 86089,
+        "num": 86089,
+        "word": "官方回应公开6000多名农民隐私",
+        "onboard_time": 1740246974,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9970,
+        "num": 78722,
+        "word": "破解民营企业融资难各地有新招",
+        "onboard_time": 1740231382,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73939,
+        "num": 73939,
+        "word": "大衣哥拒绝直播带货也不代言",
+        "onboard_time": 1740254232,
+        "rank": 3,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 58541,
+        "num": 58541,
+        "word": "国家能源集团官网删除拟录用公示名单",
+        "onboard_time": 1740241938,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56335,
+        "num": 56335,
+        "word": "女子误踩油门撞入医院致1死1伤",
+        "onboard_time": 1740239658,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47550,
+        "num": 47550,
+        "word": "乌克兰被曝并无大量稀土",
+        "onboard_time": 1740228382,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 44703,
+        "num": 44703,
+        "word": "A怎么会没发现b喜欢c的秘密呢",
+        "onboard_time": 1740236004,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40562,
+        "num": 40562,
+        "word": "台当局宣布封杀三所大陆高校遭猛批",
+        "onboard_time": 1740227002,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40369,
+        "num": 40369,
+        "word": "黄灿灿回应",
+        "onboard_time": 1740223100,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138113,
+        "num": 40259,
+        "word": "沈月的猫去世了",
+        "onboard_time": 1740241998,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39987,
+        "num": 39987,
+        "word": "官方通报女子抱孩子投河",
+        "onboard_time": 1740252852,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39957,
+        "num": 39957,
+        "word": "美国威胁切断星链",
+        "onboard_time": 1740249012,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 34512,
+        "num": 34512,
+        "word": "肖战赴约米兰",
+        "onboard_time": 1740238940,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33933,
+        "num": 33933,
+        "word": "白宫希望泽连斯基离开乌克兰",
+        "onboard_time": 1740238521,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32965,
+        "num": 32965,
+        "word": "DeepSeek评2025年十大赚钱行业",
+        "onboard_time": 1740227361,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 30844,
+        "num": 30844,
+        "word": "670万买的楼王交钱时发现采光差",
+        "onboard_time": 1740226702,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27881,
+        "num": 27881,
+        "word": "花间令收视新高",
+        "onboard_time": 1740235822,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25964,
+        "num": 25964,
+        "word": "何炅吐槽的人到底是谁",
+        "onboard_time": 1740222980,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25330,
+        "num": 25330,
+        "word": "敖光",
+        "onboard_time": 1740238281,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 31649,
+        "num": 24961,
+        "word": "熬夜后不要吃完饭再补觉",
+        "onboard_time": 1740228622,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 24282,
+        "num": 24282,
+        "word": "你好星期六下期是难哄剧组",
+        "onboard_time": 1740239540,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24268,
+        "num": 24268,
+        "word": "湖南卫视连发10条李现",
+        "onboard_time": 1740241998,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23544,
+        "num": 23544,
+        "word": "网红罗大美遇害案28日开庭",
+        "onboard_time": 1740240919,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22883,
+        "num": 22883,
+        "word": "敖丙传",
+        "onboard_time": 1740220521,
+        "rank": 24,
+        "category": "动漫,电影"
+      },
+      {
+        "raw_hot": 21820,
+        "num": 21820,
+        "word": "浙江人实现一户一雪人",
+        "onboard_time": 1740232045,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21726,
+        "num": 21726,
+        "word": "红房子听诊器名场面",
+        "onboard_time": 1740242958,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21174,
+        "num": 21174,
+        "word": "已婚女谎称是毒枭女儿诈骗男子160万",
+        "onboard_time": 1740236662,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20517,
+        "num": 20517,
+        "word": "刘梓晨版的白鹤少年",
+        "onboard_time": 1740238821,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20108,
+        "num": 20108,
+        "word": "男子冒充女童隔空猥亵40多个女孩",
+        "onboard_time": 1740222800,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19843,
+        "num": 19843,
+        "word": "外媒称美国提出切断星链服务施压乌克兰",
+        "onboard_time": 1740237322,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19669,
+        "num": 19669,
+        "word": "体检无异常1年半后确诊癌症晚期",
+        "onboard_time": 1740215421,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18717,
+        "num": 18717,
+        "word": "美女网红救人去世母亲车祸父亲发声",
+        "onboard_time": 1740231686,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 18496,
+        "num": 18496,
+        "word": "全体土拨鼠抬头那一刻绷不住了",
+        "onboard_time": 1740214461,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18471,
+        "num": 18471,
+        "word": "谁家剧情侣还没吻上嘴就先破了",
+        "onboard_time": 1740240739,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18293,
+        "num": 18293,
+        "word": "哪吒2超134亿",
+        "onboard_time": 1740228323,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18265,
+        "num": 18265,
+        "word": "说到红蓝第一个想到的cp",
+        "onboard_time": 1740237621,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 18074,
+        "num": 18074,
+        "word": "大批电动车车主推开隔离墩躲避检查",
+        "onboard_time": 1740241159,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17641,
+        "num": 17641,
+        "word": "王栎鑫紫纱",
+        "onboard_time": 1740234682,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17164,
+        "num": 17164,
+        "word": "孙颖莎vs张本美和",
+        "onboard_time": 1740222380,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16292,
+        "num": 16292,
+        "word": "黄明昊演唱会也没错过杨幂电话",
+        "onboard_time": 1740229222,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15877,
+        "num": 15877,
+        "word": "秦霄贤直播",
+        "onboard_time": 1740234563,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14549,
+        "num": 15877,
+        "word": "EDG对阵G2",
+        "onboard_time": 1740239240,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14435,
+        "num": 15875,
+        "word": "王鹤棣肉眼可见的慌乱",
+        "onboard_time": 1740230721,
+        "rank": 43,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 14012,
+        "num": 15872,
+        "word": "十个勤天演唱会",
+        "onboard_time": 1740221959,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13993,
+        "num": 15872,
+        "word": "小米15Ultra",
+        "onboard_time": 1740234923,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 13792,
+        "num": 15871,
+        "word": "警方通报铁岭私家车撞进医院",
+        "onboard_time": 1740249133,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13294,
+        "num": 15869,
+        "word": "天雷滚滚我好怕怕传到联合国",
+        "onboard_time": 1740219379,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 12694,
+        "num": 15867,
+        "word": "石矶娘娘秒变24K金矶娘娘",
+        "onboard_time": 1740259751,
+        "rank": 48,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 12457,
+        "num": 15865,
+        "word": "中国经济驶向一个新的春天",
+        "onboard_time": 1740251292,
+        "rank": 49,
+        "category": "民生新闻,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#绿水青山瞰我家#"
+    }
+  }
+}
