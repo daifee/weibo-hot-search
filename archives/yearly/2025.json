@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1740212769187,
+  "endTime": 1740213572800,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -169,6 +169,14 @@
       "onboard_time": 1740064343,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 12791228,
+      "num": 12791228,
+      "word": "漂白 替身",
+      "onboard_time": 1740210141,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 12629127,
@@ -401,14 +409,6 @@
       "onboard_time": 1736001995,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 8468397,
-      "num": 8468397,
-      "word": "漂白 替身",
-      "onboard_time": 1740210141,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 8395718,
