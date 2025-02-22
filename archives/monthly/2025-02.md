@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/02/01 00:26:54 ~ 2025/02/22 18:41:23
+本榜单时间：2025/02/01 00:26:54 ~ 2025/02/22 19:17:13
 </p>
 </blockquote>
 <p>
@@ -3423,6 +3423,12 @@ S妈小梅回应（热度：1282981）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E4%B8%80%E4%B8%AD%E5%AD%A6%E7%94%9F%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%23" target="weibo">
+武汉一中学生坠楼身亡（热度：1099878）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%A6%81%E6%AD%A2%E6%96%B0%E7%94%A8%E6%88%B7%E4%B8%8B%E8%BD%BDDeepSeek%23" target="weibo">
 韩国禁止新用户下载DeepSeek（热度：1097972）
 </a>
@@ -6005,12 +6011,6 @@ AI才女罗福莉已到新岗位上班（热度：729823）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%92%E7%A5%A8%E6%88%BF%E4%B8%80%E4%BC%9A%E5%B0%B1%E5%A4%9A%E4%B8%80%E4%B8%AA%E4%BA%BF%23" target="weibo">
 哪吒票房一会就多一个亿（热度：728653）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23psy%E5%9B%A0%E8%BF%87%E5%BA%A6%E5%87%8F%E8%82%A5%E5%90%91%E7%B2%89%E4%B8%9D%E9%81%93%E6%AD%89%23" target="weibo">
-psy因过度减肥向粉丝道歉（热度：728423）
 </a>
 </li>
 

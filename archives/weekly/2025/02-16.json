@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1740220883852,
+  "endTime": 1740223033465,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -1529,6 +1529,14 @@
       "onboard_time": 1739846538,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1099878,
+      "num": 1099878,
+      "word": "武汉一中学生坠楼身亡",
+      "onboard_time": 1740221779,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1097972,
@@ -3507,6 +3515,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 583321,
+      "num": 459158,
+      "word": "张凌赫工作室必有高人指点",
+      "onboard_time": 1740214761,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 581541,
       "num": 581541,
       "word": "张婉莹拿到了S级",
@@ -3561,14 +3577,6 @@
       "onboard_time": 1739693418,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 574522,
-      "num": 459158,
-      "word": "张凌赫工作室必有高人指点",
-      "onboard_time": 1740214761,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 573707,
@@ -3648,6 +3656,14 @@
       "word": "男童3年前生吃蟹腿寄生虫钻进心脏",
       "onboard_time": 1739771479,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 566639,
+      "num": 408420,
+      "word": "从24岁患癌到37岁重生她用13年自救",
+      "onboard_time": 1740220461,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -4107,6 +4123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 510505,
+      "num": 410678,
+      "word": "家有儿女到底花了多少经费在餐桌上",
+      "onboard_time": 1740219322,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 509756,
       "num": 509756,
       "word": "特朗普威胁禁止跨性别者参加女子赛事",
@@ -4227,6 +4251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 495012,
+      "num": 400476,
+      "word": "哪吒2票房133亿",
+      "onboard_time": 1740218001,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 494742,
       "num": 404615,
       "word": "黄杨钿甜拜了艺考之神董思成",
@@ -4257,6 +4289,14 @@
       "onboard_time": 1739952261,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 490489,
+      "num": 361108,
+      "word": "敖丙传",
+      "onboard_time": 1739677700,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 490364,
@@ -4457,14 +4497,6 @@
       "onboard_time": 1739874264,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 471235,
-      "num": 287882,
-      "word": "敖丙传",
-      "onboard_time": 1739677700,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 471065,
@@ -5184,14 +5216,6 @@
       "word": "法小伙带622张日军侵华照片抵达北京",
       "onboard_time": 1739717242,
       "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 408420,
-      "num": 408420,
-      "word": "从24岁患癌到37岁重生她用13年自救",
-      "onboard_time": 1740220461,
-      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -6299,6 +6323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 334489,
+      "num": 411176,
+      "word": "乌克兰所有稀土资源都在交战区",
+      "onboard_time": 1740218302,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 334141,
       "num": 334141,
       "word": "卢靖姗把煎饼认成抽纸",
@@ -6523,14 +6555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 322019,
-      "num": 322019,
-      "word": "哪吒2票房133亿",
-      "onboard_time": 1740218001,
-      "rank": 15,
-      "category": "电影"
-    },
-    {
       "raw_hot": 321334,
       "num": 622212,
       "word": "美国财长称乌克兰将签5000亿美元协议",
@@ -6659,6 +6683,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 314557,
+      "num": 279185,
+      "word": "天雷滚滚我好怕怕传到联合国",
+      "onboard_time": 1740219379,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 312910,
       "num": 312910,
       "word": "光遇复刻",
@@ -6760,14 +6792,6 @@
       "word": "北美不卖IMAX票当地华人包场支持哪吒2",
       "onboard_time": 1739940683,
       "rank": 26,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 306856,
-      "num": 279185,
-      "word": "天雷滚滚我好怕怕传到联合国",
-      "onboard_time": 1740219379,
-      "rank": 23,
       "category": "电影"
     },
     {
@@ -6897,14 +6921,6 @@
       "onboard_time": 1740029302,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 299080,
-      "num": 299080,
-      "word": "家有儿女到底花了多少经费在餐桌上",
-      "onboard_time": 1740219322,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 298837,
@@ -8836,7 +8852,7 @@
     },
     {
       "raw_hot": 230873,
-      "num": 230873,
+      "num": 269499,
       "word": "130亿三岁影帝接了多少广告",
       "onboard_time": 1740217102,
       "rank": 25,
@@ -8881,6 +8897,14 @@
       "onboard_time": 1739661735,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 229809,
+      "num": 205591,
+      "word": "西芹汁治好了我30年的起床困难症",
+      "onboard_time": 1740221240,
+      "rank": 30,
+      "category": "健康医疗,美食"
     },
     {
       "raw_hot": 229022,
@@ -9041,14 +9065,6 @@
       "onboard_time": 1739771960,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 223498,
-      "num": 411176,
-      "word": "乌克兰所有稀土资源都在交战区",
-      "onboard_time": 1740218302,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 223413,
@@ -9633,6 +9649,14 @@
       "onboard_time": 1739784799,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 212006,
+      "num": 212006,
+      "word": "雅迪 王鹤棣",
+      "onboard_time": 1740221839,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 211817,
@@ -11067,6 +11091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192553,
+      "num": 192553,
+      "word": "十个勤天演唱会",
+      "onboard_time": 1740221959,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192546,
       "num": 432095,
       "word": "为骑手缴纳社保单均成本增幅1元",
@@ -11555,6 +11587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 186572,
+      "num": 186572,
+      "word": "王俊凯晒单板滑雪vlog",
+      "onboard_time": 1740222501,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186383,
       "num": 186383,
       "word": "张凌赫吊威亚撞到了摇臂",
@@ -11705,6 +11745,14 @@
       "onboard_time": 1740066501,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183889,
+      "num": 183889,
+      "word": "没想过李瓒和段嘉许是同一张脸",
+      "onboard_time": 1740222980,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 183863,
@@ -12483,6 +12531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170682,
+      "num": 170682,
+      "word": "男子冒充女童隔空猥亵40多个女孩",
+      "onboard_time": 1740222800,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170671,
       "num": 170671,
       "word": "宋佳你往这些视频里加了什么",
@@ -13025,6 +13081,14 @@
       "onboard_time": 1740040225,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 163907,
+      "num": 280409,
+      "word": "国青球员赛后集体痛哭",
+      "onboard_time": 1740220401,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 163883,
@@ -14019,6 +14083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151402,
+      "num": 151402,
+      "word": "邓佳鑫因太清晰而格格不入",
+      "onboard_time": 1740222920,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151229,
       "num": 470755,
       "word": "翟潇闻怎么折都有面",
@@ -14923,6 +14995,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 138187,
+      "num": 138187,
+      "word": "何炅吐槽的人到底是谁",
+      "onboard_time": 1740222980,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138106,
       "num": 175294,
       "word": "金赛纶在话剧排练时脸色变得煞白",
@@ -15224,6 +15304,14 @@
       "word": "马龙被小学生逼出大招",
       "onboard_time": 1739788639,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 133887,
+      "num": 392174,
+      "word": "孙颖莎vs张本美和",
+      "onboard_time": 1740222380,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -16344,6 +16432,14 @@
       "word": "许昕班味好重",
       "onboard_time": 1739955800,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114482,
+      "num": 338806,
+      "word": "陈幸同4比1伊藤美诚",
+      "onboard_time": 1740221839,
+      "rank": 15,
       "category": "体育"
     },
     {
@@ -17947,6 +18043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82446,
+      "num": 389218,
+      "word": "特朗普称将起诉美联社",
+      "onboard_time": 1740222200,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 82276,
       "num": 200483,
       "word": "王曼昱打出11比0",
@@ -17985,6 +18089,14 @@
       "onboard_time": 1740110662,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 81153,
+      "num": 217503,
+      "word": "林诗栋4比1宇田幸矢",
+      "onboard_time": 1740221839,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 80589,
@@ -18729,14 +18841,6 @@
       "onboard_time": 1739767160,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 65612,
-      "num": 280409,
-      "word": "国青球员赛后集体痛哭",
-      "onboard_time": 1740220401,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 65493,
@@ -19668,7 +19772,7 @@
     },
     {
       "raw_hot": 47465,
-      "num": 860858,
+      "num": 916208,
       "word": "天问二号一次发射实施多项任务",
       "onboard_time": 1740215480,
       "rank": 2,
@@ -20291,6 +20395,14 @@
       "category": "国内时政,财经"
     },
     {
+      "raw_hot": 36771,
+      "num": 236995,
+      "word": "GEN晋级LCK杯决赛",
+      "onboard_time": 1740222740,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 36694,
       "num": 1302724,
       "word": "中国智造已经是NextLevel",
@@ -20329,6 +20441,14 @@
       "onboard_time": 1740167232,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 36376,
+      "num": 357868,
+      "word": "王艺迪vs蒯曼",
+      "onboard_time": 1740222440,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 36225,
@@ -21243,6 +21363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 22058,
+      "num": 266659,
+      "word": "多方回应电梯故障冲顶致业主身亡",
+      "onboard_time": 1740222561,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22038,
       "num": 284667,
       "word": "20年前海盗爷的叛逆千金时装秀",
@@ -21449,6 +21577,14 @@
       "onboard_time": 1740126020,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 19816,
+      "num": 344473,
+      "word": "你怎么看跟孩子动手这件事",
+      "onboard_time": 1740222260,
+      "rank": 14,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 19711,
@@ -21705,6 +21841,14 @@
       "onboard_time": 1740180375,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 15058,
+      "num": 207207,
+      "word": "MK秋冬秀场简直杀疯了",
+      "onboard_time": 1740222501,
+      "rank": 29,
+      "category": "时尚"
     },
     {
       "raw_hot": 15009,
