@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740228826796,
+  "endTime": 1740230598466,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -2083,6 +2083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1730599,
+      "num": 691113,
+      "word": "台当局宣布封杀三所大陆高校遭猛批",
+      "onboard_time": 1740227002,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1729074,
       "num": 1729074,
       "word": "拐卖王星的中国籍嫌犯押解回国现场",
@@ -3281,14 +3289,6 @@
       "onboard_time": 1739191159,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1351886,
-      "num": 497390,
-      "word": "台当局宣布封杀三所大陆高校遭猛批",
-      "onboard_time": 1740227002,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1347412,
@@ -8283,6 +8283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 711796,
+      "num": 653723,
+      "word": "黄明昊演唱会也没错过杨幂电话",
+      "onboard_time": 1740229222,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 711528,
       "num": 711528,
       "word": "麻六记复播2天销售额达300万",
@@ -8641,6 +8649,14 @@
       "onboard_time": 1739283621,
       "rank": 44,
       "category": "网红"
+    },
+    {
+      "raw_hot": 685996,
+      "num": 685996,
+      "word": "乌克兰被曝并无大量稀土",
+      "onboard_time": 1740228382,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 684789,
@@ -9044,7 +9060,7 @@
     },
     {
       "raw_hot": 661598,
-      "num": 314568,
+      "num": 392599,
       "word": "体检无异常1年半后确诊癌症晚期",
       "onboard_time": 1740215421,
       "rank": 21,
@@ -10225,6 +10241,14 @@
       "onboard_time": 1738651282,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 602621,
+      "num": 513848,
+      "word": "670万买的楼王交钱时发现采光差",
+      "onboard_time": 1740226702,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 602505,
@@ -11523,6 +11547,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 545507,
+      "num": 535944,
+      "word": "孙颖莎与刘国梁复盘比赛",
+      "onboard_time": 1740227720,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 545420,
       "num": 545420,
       "word": "儿子爆改50岁老爸迷住妈妈",
@@ -11825,14 +11857,6 @@
       "onboard_time": 1738401857,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 535944,
-      "num": 535944,
-      "word": "孙颖莎与刘国梁复盘比赛",
-      "onboard_time": 1740227720,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 535691,
@@ -12601,6 +12625,14 @@
       "onboard_time": 1740210141,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 508068,
+      "num": 508068,
+      "word": "刘晓庆回应就不死",
+      "onboard_time": 1740227601,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 507850,
@@ -14171,6 +14203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 455707,
+      "num": 455707,
+      "word": "哪吒2超134亿",
+      "onboard_time": 1740228323,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 455187,
       "num": 455187,
       "word": "张本智和大满贯出局",
@@ -14257,6 +14297,14 @@
       "onboard_time": 1738749986,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 453096,
+      "num": 453096,
+      "word": "周杰伦五月天唱了难哄主题曲",
+      "onboard_time": 1740227961,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 453078,
@@ -16275,6 +16323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 394441,
+      "num": 394441,
+      "word": "小蘑菇",
+      "onboard_time": 1740228982,
+      "rank": 20,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 394415,
       "num": 394415,
       "word": "玉泽演否认求婚成功",
@@ -17499,6 +17555,14 @@
       "category": "民生新闻,美食"
     },
     {
+      "raw_hot": 363352,
+      "num": 478107,
+      "word": "王楚钦连续爆冲太凶了",
+      "onboard_time": 1740227840,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 363143,
       "num": 348198,
       "word": "崔漫莉回应自曝无证酒驾肇事逃逸",
@@ -17760,6 +17824,14 @@
       "word": "浓眉",
       "onboard_time": 1738474457,
       "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 356442,
+      "num": 356442,
+      "word": "王楚钦获得澳门世界杯资格",
+      "onboard_time": 1740229822,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -18121,14 +18193,6 @@
       "onboard_time": 1739284762,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 349404,
-      "num": 349404,
-      "word": "670万买的楼王交钱时发现采光差",
-      "onboard_time": 1740226702,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 349383,
@@ -19953,6 +20017,14 @@
       "onboard_time": 1738741641,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 315461,
+      "num": 315597,
+      "word": "孙颖莎说落后没有放弃",
+      "onboard_time": 1740228143,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 315340,
@@ -22539,14 +22611,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 275209,
-      "num": 312010,
-      "word": "刘晓庆回应就不死",
-      "onboard_time": 1740227601,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 275115,
       "num": 275115,
       "word": "王者S39新赛季爆料",
@@ -23107,6 +23171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 267513,
+      "num": 267513,
+      "word": "杀破狼",
+      "onboard_time": 1740225142,
+      "rank": 26,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 267426,
       "num": 267426,
       "word": "湖人交易惊呆NBA群星",
@@ -23233,6 +23305,14 @@
       "onboard_time": 1739769079,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 265807,
+      "num": 265807,
+      "word": "DeepSeek评2025年十大赚钱行业",
+      "onboard_time": 1740227361,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 265673,
@@ -24123,6 +24203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 254602,
+      "num": 254602,
+      "word": "邱贻可演我的状态",
+      "onboard_time": 1740229163,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 254588,
       "num": 347935,
       "word": "留几手我亏钱了",
@@ -24915,6 +25003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247265,
+      "num": 247265,
+      "word": "熬夜后不要吃完饭再补觉",
+      "onboard_time": 1740228622,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 247096,
       "num": 247096,
       "word": "虞书欣双轨黄裙造型",
@@ -25179,14 +25275,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 244760,
-      "num": 244760,
-      "word": "杀破狼",
-      "onboard_time": 1740225142,
-      "rank": 26,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 244649,
       "num": 259866,
       "word": "郑晓龙透露甄嬛传未删减版进度",
@@ -25377,14 +25465,6 @@
       "onboard_time": 1739947700,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 242765,
-      "num": 242765,
-      "word": "哪吒2超134亿",
-      "onboard_time": 1740228323,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 242753,
@@ -25700,7 +25780,7 @@
     },
     {
       "raw_hot": 239197,
-      "num": 219490,
+      "num": 229046,
       "word": "西芹汁治好了我30年的起床困难症",
       "onboard_time": 1740221240,
       "rank": 30,
@@ -26675,6 +26755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230132,
+      "num": 230132,
+      "word": "归棹剧本",
+      "onboard_time": 1740229283,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 230009,
       "num": 220923,
       "word": "SM新男团出道方式",
@@ -26729,14 +26817,6 @@
       "onboard_time": 1739100022,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 229552,
-      "num": 478107,
-      "word": "王楚钦连续爆冲太凶了",
-      "onboard_time": 1740227840,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 229505,
@@ -27689,14 +27769,6 @@
       "onboard_time": 1738812204,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 222367,
-      "num": 222367,
-      "word": "周杰伦五月天唱了难哄主题曲",
-      "onboard_time": 1740227961,
-      "rank": 32,
-      "category": "演出"
     },
     {
       "raw_hot": 222270,
@@ -29627,6 +29699,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 210043,
+      "num": 210043,
+      "word": "黄友政3比4林昀儒",
+      "onboard_time": 1740229942,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210040,
       "num": 210040,
       "word": "王星越给赵晴吓得韩语都出来了",
@@ -31107,6 +31187,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 203537,
+      "num": 203537,
+      "word": "孙颖莎爱吃椰子鸡",
+      "onboard_time": 1740230123,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203515,
       "num": 203515,
       "word": "终于知道陈哲远为什么哭了",
@@ -32515,6 +32603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197731,
+      "num": 197731,
+      "word": "郭敬明再晒月鳞绮纪原始帧",
+      "onboard_time": 1740229103,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197710,
       "num": 143814,
       "word": "张峻豪谈solo艺人",
@@ -32817,14 +32913,6 @@
       "onboard_time": 1739255300,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 196481,
-      "num": 196481,
-      "word": "DeepSeek评2025年十大赚钱行业",
-      "onboard_time": 1740227361,
-      "rank": 47,
-      "category": "互联网"
     },
     {
       "raw_hot": 196456,
@@ -33843,6 +33931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192410,
+      "num": 192410,
+      "word": "王楚钦火速进4强",
+      "onboard_time": 1740229404,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192355,
       "num": 218682,
       "word": "HLE战胜GEN",
@@ -34051,6 +34147,14 @@
       "category": "民生新闻,科学科普"
     },
     {
+      "raw_hot": 191749,
+      "num": 191530,
+      "word": "国安",
+      "onboard_time": 1740230482,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191727,
       "num": 299653,
       "word": "归期 鹤辞",
@@ -34097,6 +34201,14 @@
       "onboard_time": 1740054441,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191626,
+      "num": 191626,
+      "word": "JDG对战DYG",
+      "onboard_time": 1740230302,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 191512,
@@ -35875,14 +35987,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 184088,
-      "num": 184088,
-      "word": "熬夜后不要吃完饭再补觉",
-      "onboard_time": 1740228622,
-      "rank": 42,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 184085,
       "num": 253014,
       "word": "哪吒打油诗英文也押韵",
@@ -36865,6 +36969,14 @@
       "onboard_time": 1739781621,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 179666,
+      "num": 267514,
+      "word": "2025LPL",
+      "onboard_time": 1740230423,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 179650,
@@ -47817,6 +47929,14 @@
       "onboard_time": 1740065362,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131772,
+      "num": 509363,
+      "word": "央视披露獐子岛案细节",
+      "onboard_time": 1740229462,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131767,
@@ -59067,14 +59187,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 64600,
-      "num": 315597,
-      "word": "孙颖莎说落后没有放弃",
-      "onboard_time": 1740228143,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 64580,
       "num": 384643,
       "word": "周柯宇白磷型剧宣",
@@ -59520,6 +59632,14 @@
       "word": "媒人成农村婚配市场的关键人物",
       "onboard_time": 1738379777,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61508,
+      "num": 516377,
+      "word": "女子遭电诈手机失控狂下APP",
+      "onboard_time": 1740221240,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -64172,7 +64292,7 @@
     },
     {
       "raw_hot": 35640,
-      "num": 156384,
+      "num": 512708,
       "word": "现场直击王鹤棣狂宠雅迪摩登车主",
       "onboard_time": 1740228502,
       "rank": 49,
@@ -64545,14 +64665,6 @@
       "onboard_time": 1739959221,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 33645,
-      "num": 498307,
-      "word": "乌克兰被曝并无大量稀土",
-      "onboard_time": 1740228382,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 33620,
@@ -65793,6 +65905,14 @@
       "onboard_time": 1738668986,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 26611,
+      "num": 267526,
+      "word": "男子搬家式盗窃被抓",
+      "onboard_time": 1740229582,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26566,
@@ -67377,6 +67497,14 @@
       "onboard_time": 1738966572,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 19840,
+      "num": 393416,
+      "word": "王楚钦告诉自己抛除杂念",
+      "onboard_time": 1740230243,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 19836,
