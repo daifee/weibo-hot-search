@@ -1,6 +1,6 @@
 {
   "startTime": 1739636698758,
-  "endTime": 1740237666695,
+  "endTime": 1740238535694,
   "band_list": [
     {
       "raw_hot": 28357732,
@@ -2763,6 +2763,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 752631,
+      "num": 752631,
+      "word": "花间令收视新高",
+      "onboard_time": 1740235822,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 752321,
       "num": 400869,
       "word": "董力夫妻综艺拿了杨子的剧本吧",
@@ -2817,14 +2825,6 @@
       "onboard_time": 1740049821,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 733762,
-      "num": 733762,
-      "word": "花间令收视新高",
-      "onboard_time": 1740235822,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 731357,
@@ -5579,6 +5579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 399446,
+      "num": 399446,
+      "word": "小米15Ultra",
+      "onboard_time": 1740234923,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 399429,
       "num": 399429,
       "word": "红房子 父母爱情",
@@ -5625,14 +5633,6 @@
       "onboard_time": 1740143840,
       "rank": 42,
       "category": "剧集,作品衍生"
-    },
-    {
-      "raw_hot": 396547,
-      "num": 396547,
-      "word": "小米15Ultra",
-      "onboard_time": 1740234923,
-      "rank": 43,
-      "category": "数码"
     },
     {
       "raw_hot": 396030,
@@ -8195,6 +8195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259378,
+      "num": 336883,
+      "word": "已婚女谎称是毒枭女儿诈骗男子160万",
+      "onboard_time": 1740236662,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 259192,
       "num": 259192,
       "word": "男子酒后死亡同饮者没劝酒被判无责",
@@ -8369,6 +8377,14 @@
       "onboard_time": 1739632461,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 254772,
+      "num": 254772,
+      "word": "十个勤天演唱会",
+      "onboard_time": 1740221959,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 254041,
@@ -8649,14 +8665,6 @@
       "onboard_time": 1739753841,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 246301,
-      "num": 246301,
-      "word": "十个勤天演唱会",
-      "onboard_time": 1740221959,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 246176,
@@ -8985,6 +8993,14 @@
       "onboard_time": 1739711725,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 238046,
+      "num": 355238,
+      "word": "建议别给年轻人建议",
+      "onboard_time": 1740236662,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 237904,
@@ -11508,7 +11524,7 @@
     },
     {
       "raw_hot": 194078,
-      "num": 245358,
+      "num": 259369,
       "word": "赵磊发红包",
       "onboard_time": 1740234382,
       "rank": 39,
@@ -12443,6 +12459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182566,
+      "num": 336405,
+      "word": "国企招聘不妨以公开透明回应质疑",
+      "onboard_time": 1740236722,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182548,
       "num": 182548,
       "word": "周深正在治疗休养",
@@ -12747,6 +12771,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 178253,
+      "num": 178253,
+      "word": "A怎么会没发现b喜欢c的秘密呢",
+      "onboard_time": 1740236004,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178160,
       "num": 178160,
       "word": "董思成喊话黄杨钿甜叫哥哥",
@@ -12971,6 +13003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173339,
+      "num": 259159,
+      "word": "王楚钦提醒对手球台上有汗",
+      "onboard_time": 1740237082,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172997,
       "num": 172997,
       "word": "宁艺卓 FILA",
@@ -13104,14 +13144,6 @@
       "word": "陈哲远不愧是现偶饭必吃榜",
       "onboard_time": 1739773100,
       "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 171261,
-      "num": 171261,
-      "word": "A怎么会没发现b喜欢c的秘密呢",
-      "onboard_time": 1740236004,
-      "rank": 43,
       "category": "剧集"
     },
     {
@@ -13417,14 +13449,6 @@
       "onboard_time": 1740231863,
       "rank": 43,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 167793,
-      "num": 245042,
-      "word": "王楚钦提醒对手球台上有汗",
-      "onboard_time": 1740237082,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 167547,
@@ -15147,6 +15171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 146404,
+      "num": 146404,
+      "word": "说到红蓝第一个想到的cp",
+      "onboard_time": 1740237621,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 146377,
       "num": 146377,
       "word": "惠英红哼唱一出毛骨悚然",
@@ -15569,14 +15601,6 @@
       "onboard_time": 1740145340,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 140369,
-      "num": 140369,
-      "word": "说到红蓝第一个想到的cp",
-      "onboard_time": 1740237621,
-      "rank": 48,
-      "category": "动漫"
     },
     {
       "raw_hot": 140209,
@@ -16081,6 +16105,14 @@
       "onboard_time": 1740194720,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132489,
+      "num": 132489,
+      "word": "敖光",
+      "onboard_time": 1740238281,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 132473,
@@ -17427,6 +17459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108597,
+      "num": 108597,
+      "word": "中超联赛",
+      "onboard_time": 1740238460,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108565,
       "num": 108565,
       "word": "藕饼",
@@ -18555,14 +18595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 89088,
-      "num": 336883,
-      "word": "已婚女谎称是毒枭女儿诈骗男子160万",
-      "onboard_time": 1740236662,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88488,
       "num": 139868,
       "word": "马库斯说儿时对日本侵华史一无所知",
@@ -19667,6 +19699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 63889,
+      "num": 377976,
+      "word": "外媒称美国提出切断星链服务施压乌克兰",
+      "onboard_time": 1740237322,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 63401,
       "num": 237190,
       "word": "陈梦说所有一切向好",
@@ -19809,14 +19849,6 @@
       "onboard_time": 1740203661,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 60936,
-      "num": 336405,
-      "word": "国企招聘不妨以公开透明回应质疑",
-      "onboard_time": 1740236722,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60674,
@@ -21107,14 +21139,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 38591,
-      "num": 355238,
-      "word": "建议别给年轻人建议",
-      "onboard_time": 1740236662,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 38396,
       "num": 1082584,
       "word": "网络普法看贵州",
@@ -21617,14 +21641,6 @@
       "onboard_time": 1740209298,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 30888,
-      "num": 336775,
-      "word": "外媒称美国提出切断星链服务施压乌克兰",
-      "onboard_time": 1740237322,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 30428,

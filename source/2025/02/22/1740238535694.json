@@ -1,0 +1,410 @@
+{
+  "runTime": 1740238535694,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1924668,
+        "num": 1924668,
+        "word": "小蘑菇",
+        "onboard_time": 1740228982,
+        "rank": 0,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 906396,
+        "num": 906396,
+        "word": "美女网红救人去世母亲车祸父亲发声",
+        "onboard_time": 1740231686,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 34865,
+        "num": 787180,
+        "word": "破解民营企业融资难各地有新招",
+        "onboard_time": 1740231382,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 752631,
+        "num": 752631,
+        "word": "花间令收视新高",
+        "onboard_time": 1740235822,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 723021,
+        "num": 723021,
+        "word": "台当局宣布封杀三所大陆高校遭猛批",
+        "onboard_time": 1740227002,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 573711,
+        "num": 573711,
+        "word": "浙江人实现一户一雪人",
+        "onboard_time": 1740232045,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 483129,
+        "num": 483129,
+        "word": "何炅吐槽的人到底是谁",
+        "onboard_time": 1740222980,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 401948,
+        "num": 401948,
+        "word": "王鹤棣肉眼可见的慌乱",
+        "onboard_time": 1740230721,
+        "rank": 7,
+        "category": "艺人,艺人"
+      },
+      {
+        "raw_hot": 399446,
+        "num": 399446,
+        "word": "小米15Ultra",
+        "onboard_time": 1740234923,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 63889,
+        "num": 377976,
+        "word": "外媒称美国提出切断星链服务施压乌克兰",
+        "onboard_time": 1740237322,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 583716,
+        "num": 376655,
+        "word": "王栎鑫紫纱",
+        "onboard_time": 1740234682,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 358580,
+        "num": 358580,
+        "word": "黄明昊演唱会也没错过杨幂电话",
+        "onboard_time": 1740229222,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 356080,
+        "num": 356080,
+        "word": "亚洲杯四强",
+        "onboard_time": 1740233183,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 323584,
+        "num": 323584,
+        "word": "哪吒2超134亿",
+        "onboard_time": 1740228323,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 296180,
+        "num": 296180,
+        "word": "大衣哥称希望社会忘掉朱之文",
+        "onboard_time": 1740234563,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294098,
+        "num": 294098,
+        "word": "碎玉投珠",
+        "onboard_time": 1740231202,
+        "rank": 15,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 267078,
+        "num": 267078,
+        "word": "乌克兰被曝并无大量稀土",
+        "onboard_time": 1740228382,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 259378,
+        "num": 259378,
+        "word": "已婚女谎称是毒枭女儿诈骗男子160万",
+        "onboard_time": 1740236662,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190038,
+        "num": 259369,
+        "word": "赵磊发红包",
+        "onboard_time": 1740234382,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182566,
+        "num": 259346,
+        "word": "国企招聘不妨以公开透明回应质疑",
+        "onboard_time": 1740236722,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238046,
+        "num": 259314,
+        "word": "建议别给年轻人建议",
+        "onboard_time": 1740236662,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 425323,
+        "num": 259261,
+        "word": "秦霄贤直播",
+        "onboard_time": 1740234563,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248144,
+        "num": 259229,
+        "word": "670万买的楼王交钱时发现采光差",
+        "onboard_time": 1740226702,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263086,
+        "num": 259207,
+        "word": "黄灿灿回应",
+        "onboard_time": 1740223100,
+        "rank": 23,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 173339,
+        "num": 259159,
+        "word": "王楚钦提醒对手球台上有汗",
+        "onboard_time": 1740237082,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259159,
+        "num": 259158,
+        "word": "体检无异常1年半后确诊癌症晚期",
+        "onboard_time": 1740215421,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254772,
+        "num": 254772,
+        "word": "十个勤天演唱会",
+        "onboard_time": 1740221959,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 229507,
+        "num": 229507,
+        "word": "周杰伦五月天唱了难哄主题曲",
+        "onboard_time": 1740227961,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 205777,
+        "num": 205777,
+        "word": "黄明昊杨超越双人舞",
+        "onboard_time": 1740232762,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 79541,
+        "num": 205104,
+        "word": "多子女家庭里的长姐牺牲了什么",
+        "onboard_time": 1740236781,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205082,
+        "num": 205082,
+        "word": "西芹汁治好了我30年的起床困难症",
+        "onboard_time": 1740221240,
+        "rank": 30,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 191735,
+        "num": 191735,
+        "word": "曼联太有节目了",
+        "onboard_time": 1740237383,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189501,
+        "num": 189501,
+        "word": "九尾请大家看哪吒",
+        "onboard_time": 1740234382,
+        "rank": 32,
+        "category": "电竞,电影"
+      },
+      {
+        "raw_hot": 187418,
+        "num": 187418,
+        "word": "天雷滚滚我好怕怕传到联合国",
+        "onboard_time": 1740219379,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178253,
+        "num": 178253,
+        "word": "A怎么会没发现b喜欢c的秘密呢",
+        "onboard_time": 1740236004,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175878,
+        "num": 175878,
+        "word": "林一去了黄明昊演唱会",
+        "onboard_time": 1740236362,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162711,
+        "num": 162711,
+        "word": "熬夜后不要吃完饭再补觉",
+        "onboard_time": 1740228622,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 162443,
+        "num": 162443,
+        "word": "王栎鑫紫纱鲨疯了",
+        "onboard_time": 1740237022,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156521,
+        "num": 156521,
+        "word": "DeepSeek评2025年十大赚钱行业",
+        "onboard_time": 1740227361,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 155981,
+        "num": 155981,
+        "word": "全体土拨鼠抬头那一刻绷不住了",
+        "onboard_time": 1740214461,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146404,
+        "num": 146404,
+        "word": "说到红蓝第一个想到的cp",
+        "onboard_time": 1740237621,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 145111,
+        "num": 145111,
+        "word": "孙颖莎vs张本美和",
+        "onboard_time": 1740222380,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139941,
+        "num": 139941,
+        "word": "从24岁患癌到37岁重生她用13年自救",
+        "onboard_time": 1740220461,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132489,
+        "num": 132489,
+        "word": "敖光",
+        "onboard_time": 1740238281,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129544,
+        "num": 129544,
+        "word": "NIP对战AL",
+        "onboard_time": 1740229883,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128781,
+        "num": 128781,
+        "word": "男子冒充女童隔空猥亵40多个女孩",
+        "onboard_time": 1740222800,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127775,
+        "num": 127775,
+        "word": "王楚钦获得澳门世界杯资格",
+        "onboard_time": 1740229822,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118218,
+        "num": 118218,
+        "word": "陈立农演唱会嘉宾杨丞琳",
+        "onboard_time": 1740236421,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113954,
+        "num": 113954,
+        "word": "王天辰回应脸越来越清晰了",
+        "onboard_time": 1740236903,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108597,
+        "num": 108597,
+        "word": "中超联赛",
+        "onboard_time": 1740238460,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持把谋打赢作为最大职责#"
+    }
+  }
+}
