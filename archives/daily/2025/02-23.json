@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740289080566,
+  "endTime": 1740292166068,
   "band_list": [
     {
       "raw_hot": 1962897,
@@ -115,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 756907,
+      "num": 610892,
+      "word": "哪吒3催更到联合国了",
+      "onboard_time": 1740286880,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 752433,
       "num": 752433,
       "word": "重庆排队吃轻轨",
@@ -145,6 +153,22 @@
       "onboard_time": 1740287659,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 715166,
+      "num": 420312,
+      "word": "终于有部剧还原了我的高清童年",
+      "onboard_time": 1740288978,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 713903,
+      "num": 415106,
+      "word": "00后花2万相亲匹配到近40岁男子",
+      "onboard_time": 1740288260,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 705828,
@@ -195,20 +219,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 610892,
-      "num": 610892,
-      "word": "哪吒3催更到联合国了",
-      "onboard_time": 1740286880,
-      "rank": 9,
-      "category": "电影"
-    },
-    {
       "raw_hot": 592668,
       "num": 527953,
       "word": "沈月说我好想出去看看春天啊",
       "onboard_time": 1740279200,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 580532,
+      "num": 580532,
+      "word": "蒯曼vs王曼昱",
+      "onboard_time": 1740288439,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 556008,
@@ -259,12 +283,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 536112,
+      "num": 536112,
+      "word": "王楚钦vs林昀儒",
+      "onboard_time": 1740289459,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 534199,
       "num": 534199,
       "word": "台当局宣布封杀三所大陆高校遭猛批",
       "onboard_time": 1740227002,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 533976,
+      "num": 407322,
+      "word": "刘晓庆录完一路繁花要拍十部短剧",
+      "onboard_time": 1740287239,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 520220,
@@ -323,20 +363,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 368041,
-      "num": 368041,
-      "word": "刘晓庆录完一路繁花要拍十部短剧",
-      "onboard_time": 1740287239,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 367804,
       "num": 239599,
       "word": "科学家测算出人类灭绝时间",
       "onboard_time": 1740276438,
       "rank": 21,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 367570,
+      "num": 367570,
+      "word": "医生称DeepSeek有三甲医院专家水平",
+      "onboard_time": 1740290839,
+      "rank": 14,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 363239,
@@ -392,6 +432,22 @@
       "word": "你好星期六下期是难哄剧组",
       "onboard_time": 1740239540,
       "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 342346,
+      "num": 342346,
+      "word": "王曼昱4比1蒯曼",
+      "onboard_time": 1740291080,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 331160,
+      "num": 331160,
+      "word": "胡静老公跪在地上帮她拍照",
+      "onboard_time": 1740291319,
+      "rank": 16,
       "category": "综艺"
     },
     {
@@ -499,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 248380,
+      "num": 248380,
+      "word": "杨迪在机场等粉丝上厕所",
+      "onboard_time": 1740289520,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 246742,
       "num": 246742,
       "word": "梁靖崑0比6落后没有放弃",
@@ -513,6 +577,14 @@
       "onboard_time": 1740285439,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 237814,
+      "num": 237814,
+      "word": "男主死追女主装死",
+      "onboard_time": 1740290719,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 236527,
@@ -579,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 222423,
+      "num": 222423,
+      "word": "谁给邓为递个武侠本子",
+      "onboard_time": 1740290600,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221895,
       "num": 221895,
       "word": "情侣等地铁男生突然掏出戒指求婚",
@@ -619,6 +699,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 206160,
+      "num": 206160,
+      "word": "舒淇恭喜姚晨",
+      "onboard_time": 1740290059,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 201742,
       "num": 201742,
       "word": "孙颖莎胜陈幸同",
@@ -643,12 +731,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 198596,
-      "num": 198596,
-      "word": "00后花2万相亲匹配到近40岁男子",
-      "onboard_time": 1740288260,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 193392,
+      "num": 193392,
+      "word": "开始推理吧",
+      "onboard_time": 1740291019,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 192108,
@@ -697,6 +785,14 @@
       "onboard_time": 1740286939,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188739,
+      "num": 188739,
+      "word": "朴成训 阿迪达斯",
+      "onboard_time": 1740291259,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 188670,
@@ -787,6 +883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174878,
+      "num": 174878,
+      "word": "金智秀和男粉丝互戴戒指",
+      "onboard_time": 1740289159,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172828,
       "num": 172828,
       "word": "饺子导演谈哪吒2成功的关键",
@@ -827,14 +931,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 168085,
-      "num": 299382,
-      "word": "蒯曼vs王曼昱",
-      "onboard_time": 1740288439,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 168071,
       "num": 168071,
       "word": "美国威胁切断星链",
@@ -865,6 +961,14 @@
       "onboard_time": 1740288380,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166198,
+      "num": 166198,
+      "word": "似锦",
+      "onboard_time": 1740289699,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 165995,
@@ -905,6 +1009,14 @@
       "onboard_time": 1740274699,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 161463,
+      "num": 161463,
+      "word": "一首歌从TFBOYS唱到了青藏高原",
+      "onboard_time": 1740290480,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 161093,
@@ -971,6 +1083,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 149912,
+      "num": 149912,
+      "word": "留几手说于正在网上随便抓人演戏",
+      "onboard_time": 1740289038,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148786,
       "num": 148786,
       "word": "梁靖崑逆转晋级决赛",
@@ -985,6 +1105,14 @@
       "onboard_time": 1740241998,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145988,
+      "num": 240620,
+      "word": "孙颖莎是小小勇士",
+      "onboard_time": 1740291019,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 145764,
@@ -1083,10 +1211,10 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 127536,
-      "num": 127536,
-      "word": "终于有部剧还原了我的高清童年",
-      "onboard_time": 1740288978,
+      "raw_hot": 126392,
+      "num": 126392,
+      "word": "一家四口有8个群",
+      "onboard_time": 1740292099,
       "rank": 47,
       "category": "剧集"
     },
@@ -1169,6 +1297,14 @@
       "onboard_time": 1740237621,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 114127,
+      "num": 114127,
+      "word": "六姊妹统一全家三代遥控器",
+      "onboard_time": 1740290120,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 113080,
@@ -1265,14 +1401,6 @@
       "onboard_time": 1740222800,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 96904,
-      "num": 139472,
-      "word": "留几手说于正在网上随便抓人演戏",
-      "onboard_time": 1740289038,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 96449,
@@ -1379,6 +1507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 61813,
+      "num": 428827,
+      "word": "新加坡一航班因故障返航旅客发声",
+      "onboard_time": 1740291319,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 55671,
       "num": 55671,
       "word": "敖丙传",
@@ -1409,6 +1545,14 @@
       "onboard_time": 1740275058,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 51696,
+      "num": 330597,
+      "word": "老人花2万多买床垫拆开主材是泡沫",
+      "onboard_time": 1740291378,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51413,
@@ -1449,6 +1593,14 @@
       "onboard_time": 1740239181,
       "rank": 49,
       "category": "汽车,互联网"
+    },
+    {
+      "raw_hot": 40113,
+      "num": 222584,
+      "word": "国外一枪手扮律师进法院杀黑帮老大",
+      "onboard_time": 1740291440,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 38987,

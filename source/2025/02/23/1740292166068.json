@@ -1,0 +1,410 @@
+{
+  "runTime": 1740292166068,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1449356,
+        "num": 1449356,
+        "word": "姚晨闷声干大事",
+        "onboard_time": 1740282258,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 920856,
+        "num": 920856,
+        "word": "女孩逃票进景区后坠亡景区被判无责",
+        "onboard_time": 1740279319,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 48361,
+        "num": 592632,
+        "word": "今年国之重器的目标看热血了",
+        "onboard_time": 1740269837,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1138585,
+        "num": 587755,
+        "word": "过安检时肖战仰了仰头",
+        "onboard_time": 1740283819,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 580532,
+        "num": 580532,
+        "word": "蒯曼vs王曼昱",
+        "onboard_time": 1740288439,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 536112,
+        "num": 536112,
+        "word": "王楚钦vs林昀儒",
+        "onboard_time": 1740289459,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 756907,
+        "num": 525057,
+        "word": "哪吒3催更到联合国了",
+        "onboard_time": 1740286880,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 739328,
+        "num": 487584,
+        "word": "黄杨钿甜艺考照",
+        "onboard_time": 1740286819,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431304,
+        "num": 431304,
+        "word": "孙颖莎也嫌黄色衣服晃眼",
+        "onboard_time": 1740282978,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61813,
+        "num": 428827,
+        "word": "新加坡一航班因故障返航旅客发声",
+        "onboard_time": 1740291319,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 715166,
+        "num": 420312,
+        "word": "终于有部剧还原了我的高清童年",
+        "onboard_time": 1740288978,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 713903,
+        "num": 415106,
+        "word": "00后花2万相亲匹配到近40岁男子",
+        "onboard_time": 1740288260,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 533976,
+        "num": 407322,
+        "word": "刘晓庆录完一路繁花要拍十部短剧",
+        "onboard_time": 1740287239,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 405932,
+        "num": 405932,
+        "word": "为什么天气还这么冷",
+        "onboard_time": 1740273439,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 367570,
+        "num": 367570,
+        "word": "医生称DeepSeek有三甲医院专家水平",
+        "onboard_time": 1740290839,
+        "rank": 14,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 342346,
+        "num": 342346,
+        "word": "王曼昱4比1蒯曼",
+        "onboard_time": 1740291080,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 331160,
+        "num": 331160,
+        "word": "胡静老公跪在地上帮她拍照",
+        "onboard_time": 1740291319,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51696,
+        "num": 330597,
+        "word": "老人花2万多买床垫拆开主材是泡沫",
+        "onboard_time": 1740291378,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330493,
+        "num": 330493,
+        "word": "梁靖崑4比3林诗栋",
+        "onboard_time": 1740287659,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256483,
+        "num": 256483,
+        "word": "现实版哪吒敖丙身高差",
+        "onboard_time": 1740285679,
+        "rank": 19,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 270802,
+        "num": 255413,
+        "word": "胖东来决定来郑州开店",
+        "onboard_time": 1740279558,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253336,
+        "num": 253336,
+        "word": "曹操说Yellow中文翻译错了",
+        "onboard_time": 1740276618,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 248380,
+        "num": 248380,
+        "word": "杨迪在机场等粉丝上厕所",
+        "onboard_time": 1740289520,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243192,
+        "num": 243192,
+        "word": "哪吒票房",
+        "onboard_time": 1740275599,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145988,
+        "num": 240620,
+        "word": "孙颖莎是小小勇士",
+        "onboard_time": 1740291019,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240453,
+        "num": 240453,
+        "word": "女生患乳腺癌后称要重视月经异常",
+        "onboard_time": 1740282017,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237814,
+        "num": 237814,
+        "word": "男主死追女主装死",
+        "onboard_time": 1740290719,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224726,
+        "num": 224726,
+        "word": "邢菲你在对漂亮脸蛋做什么",
+        "onboard_time": 1740287540,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222800,
+        "num": 222800,
+        "word": "厚衣服先别着急收起来",
+        "onboard_time": 1740284899,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40113,
+        "num": 222584,
+        "word": "国外一枪手扮律师进法院杀黑帮老大",
+        "onboard_time": 1740291440,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 222423,
+        "num": 222423,
+        "word": "谁给邓为递个武侠本子",
+        "onboard_time": 1740290600,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217822,
+        "num": 217822,
+        "word": "重庆排队吃轻轨",
+        "onboard_time": 1740279558,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206160,
+        "num": 206160,
+        "word": "舒淇恭喜姚晨",
+        "onboard_time": 1740290059,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199511,
+        "num": 199511,
+        "word": "石矶娘娘原身能拉出比头发还细的丝",
+        "onboard_time": 1740278959,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193392,
+        "num": 193392,
+        "word": "开始推理吧",
+        "onboard_time": 1740291019,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188898,
+        "num": 188898,
+        "word": "沈月的猫去世了",
+        "onboard_time": 1740241998,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188739,
+        "num": 188739,
+        "word": "朴成训 阿迪达斯",
+        "onboard_time": 1740291259,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180987,
+        "num": 180987,
+        "word": "梁靖崑0比6落后没有放弃",
+        "onboard_time": 1740287720,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45274,
+        "num": 179592,
+        "word": "似锦恶婶认定嫡女身亡急办丧事",
+        "onboard_time": 1740286939,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179549,
+        "num": 179549,
+        "word": "难哄",
+        "onboard_time": 1740285500,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174878,
+        "num": 174878,
+        "word": "金智秀和男粉丝互戴戒指",
+        "onboard_time": 1740289159,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166198,
+        "num": 166198,
+        "word": "似锦",
+        "onboard_time": 1740289699,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161463,
+        "num": 161463,
+        "word": "一首歌从TFBOYS唱到了青藏高原",
+        "onboard_time": 1740290480,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158096,
+        "num": 158096,
+        "word": "28岁未婚未育女生确诊卵巢癌",
+        "onboard_time": 1740269356,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149912,
+        "num": 149912,
+        "word": "留几手说于正在网上随便抓人演戏",
+        "onboard_time": 1740289038,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142950,
+        "num": 142950,
+        "word": "29岁女子新婚被打失明男方获刑11年",
+        "onboard_time": 1740271218,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135173,
+        "num": 135173,
+        "word": "最低气温回升速度赶不上最高气温",
+        "onboard_time": 1740283639,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126392,
+        "num": 126392,
+        "word": "一家四口有8个群",
+        "onboard_time": 1740292099,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116226,
+        "num": 116226,
+        "word": "情侣等地铁男生突然掏出戒指求婚",
+        "onboard_time": 1740283819,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114127,
+        "num": 114127,
+        "word": "六姊妹统一全家三代遥控器",
+        "onboard_time": 1740290120,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记始终关心牵挂乡亲们#"
+    }
+  }
+}
