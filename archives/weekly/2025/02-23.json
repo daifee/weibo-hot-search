@@ -1,7 +1,15 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740285738777,
+  "endTime": 1740288056103,
   "band_list": [
+    {
+      "raw_hot": 1962897,
+      "num": 1962897,
+      "word": "姚晨闷声干大事",
+      "onboard_time": 1740282258,
+      "rank": 1,
+      "category": "电影"
+    },
     {
       "raw_hot": 1934759,
       "num": 1934759,
@@ -9,14 +17,6 @@
       "onboard_time": 1740279319,
       "rank": 43,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 1846120,
-      "num": 1846120,
-      "word": "姚晨闷声干大事",
-      "onboard_time": 1740282258,
-      "rank": 1,
-      "category": "电影"
     },
     {
       "raw_hot": 1796415,
@@ -43,6 +43,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1239246,
+      "num": 1239246,
+      "word": "梁靖崑vs林诗栋",
+      "onboard_time": 1740283879,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1237172,
+      "num": 1237172,
+      "word": "过安检时肖战仰了仰头",
+      "onboard_time": 1740283819,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1163298,
       "num": 1163298,
       "word": "孙颖莎也嫌黄色衣服晃眼",
@@ -57,14 +73,6 @@
       "onboard_time": 1740275599,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 945437,
-      "num": 945437,
-      "word": "过安检时肖战仰了仰头",
-      "onboard_time": 1740283819,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 935807,
@@ -137,6 +145,14 @@
       "onboard_time": 1740239658,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 698112,
+      "num": 698112,
+      "word": "黄杨钿甜艺考照",
+      "onboard_time": 1740286819,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 697707,
@@ -243,6 +259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 448316,
+      "num": 448316,
+      "word": "哪吒3催更到联合国了",
+      "onboard_time": 1740286880,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 430512,
       "num": 430512,
       "word": "黄雅琼和王昶遗憾告负",
@@ -260,7 +284,7 @@
     },
     {
       "raw_hot": 400532,
-      "num": 232921,
+      "num": 251399,
       "word": "女生患乳腺癌后称要重视月经异常",
       "onboard_time": 1740282017,
       "rank": 35,
@@ -323,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 350681,
+      "num": 350681,
+      "word": "厚衣服先别着急收起来",
+      "onboard_time": 1740284899,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 344422,
       "num": 344422,
       "word": "你好星期六下期是难哄剧组",
@@ -363,12 +395,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 306848,
-      "num": 306848,
-      "word": "梁靖崑vs林诗栋",
-      "onboard_time": 1740283879,
-      "rank": 19,
-      "category": "体育"
+      "raw_hot": 300176,
+      "num": 300176,
+      "word": "一部剧集齐现偶三苏",
+      "onboard_time": 1740284299,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 282542,
@@ -395,6 +427,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 272622,
+      "num": 272622,
+      "word": "现实版哪吒敖丙身高差",
+      "onboard_time": 1740285679,
+      "rank": 49,
+      "category": "民生新闻,电影"
+    },
+    {
       "raw_hot": 271724,
       "num": 271724,
       "word": "A怎么会没发现b喜欢c的秘密呢",
@@ -409,14 +449,6 @@
       "onboard_time": 1740229222,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 268309,
-      "num": 268309,
-      "word": "一部剧集齐现偶三苏",
-      "onboard_time": 1740284299,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 267861,
@@ -435,12 +467,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 248876,
-      "num": 248876,
+      "raw_hot": 249191,
+      "num": 249191,
       "word": "难哄",
       "onboard_time": 1740285500,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 240312,
+      "num": 240312,
+      "word": "理解梁靖崑成为梁靖崑",
+      "onboard_time": 1740285439,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 236527,
@@ -507,20 +547,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 221895,
+      "num": 221895,
+      "word": "情侣等地铁男生突然掏出戒指求婚",
+      "onboard_time": 1740283819,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220315,
       "num": 167603,
       "word": "建议别给年轻人建议",
       "onboard_time": 1740236662,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 217677,
-      "num": 217677,
-      "word": "情侣等地铁男生突然掏出戒指求婚",
-      "onboard_time": 1740283819,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 215089,
@@ -537,6 +577,14 @@
       "onboard_time": 1740270257,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 212971,
+      "num": 212971,
+      "word": "刘晓庆录完一路繁花要拍十部短剧",
+      "onboard_time": 1740287239,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 210946,
@@ -571,6 +619,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 194023,
+      "num": 194023,
+      "word": "邢菲你在对漂亮脸蛋做什么",
+      "onboard_time": 1740287540,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192108,
       "num": 192108,
       "word": "EDG对阵G2",
@@ -595,12 +651,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190375,
+      "num": 190375,
+      "word": "年代剧轮到90后当主角了",
+      "onboard_time": 1740286100,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190196,
       "num": 190196,
       "word": "第五人格入选2026亚运会电竞项目",
       "onboard_time": 1740279558,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 190164,
+      "num": 190164,
+      "word": "似锦恶婶认定嫡女身亡急办丧事",
+      "onboard_time": 1740286939,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 188670,
@@ -665,6 +737,22 @@
       "onboard_time": 1740221959,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 178588,
+      "num": 178588,
+      "word": "六姊妹",
+      "onboard_time": 1740285500,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 177815,
+      "num": 251944,
+      "word": "梁靖崑4比3林诗栋",
+      "onboard_time": 1740287659,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 175737,
@@ -747,6 +835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165995,
+      "num": 165995,
+      "word": "教育局回应男孩校园内被4人霸凌",
+      "onboard_time": 1740282799,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164745,
       "num": 164745,
       "word": "最低气温回升速度赶不上最高气温",
@@ -763,20 +859,20 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 164171,
+      "num": 164171,
+      "word": "北上买了5首老歌版权",
+      "onboard_time": 1740287060,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163564,
       "num": 163564,
       "word": "DeepSeek",
       "onboard_time": 1740274699,
       "rank": 29,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 163000,
-      "num": 163000,
-      "word": "理解梁靖崑成为梁靖崑",
-      "onboard_time": 1740285439,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 161093,
@@ -811,6 +907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158893,
+      "num": 158893,
+      "word": "梁靖崑0比6落后没有放弃",
+      "onboard_time": 1740287720,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158749,
       "num": 439120,
       "word": "咸阳机场回应一航班疑因起火返航",
@@ -841,14 +945,6 @@
       "onboard_time": 1740267314,
       "rank": 15,
       "category": "作品衍生,艺人"
-    },
-    {
-      "raw_hot": 150152,
-      "num": 150152,
-      "word": "教育局回应男孩校园内被4人霸凌",
-      "onboard_time": 1740282799,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 146154,
@@ -883,6 +979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138115,
+      "num": 138115,
+      "word": "朱易 随机应变",
+      "onboard_time": 1740286939,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136633,
       "num": 136633,
       "word": "柏林电影节",
@@ -905,14 +1009,6 @@
       "onboard_time": 1740228622,
       "rank": 33,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 130005,
-      "num": 130005,
-      "word": "厚衣服先别着急收起来",
-      "onboard_time": 1740284899,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 129027,
@@ -947,12 +1043,12 @@
       "category": "电竞,电影"
     },
     {
-      "raw_hot": 124848,
-      "num": 124848,
-      "word": "现实版哪吒敖丙身高差",
-      "onboard_time": 1740285679,
+      "raw_hot": 124702,
+      "num": 124702,
+      "word": "蒋敦豪我们的第一次体育场演唱会",
+      "onboard_time": 1740288020,
       "rank": 49,
-      "category": "民生新闻,电影"
+      "category": "演出"
     },
     {
       "raw_hot": 124664,
@@ -977,6 +1073,14 @@
       "onboard_time": 1740221240,
       "rank": 37,
       "category": "健康医疗,美食"
+    },
+    {
+      "raw_hot": 118173,
+      "num": 160354,
+      "word": "詹姆斯化身吃饼人",
+      "onboard_time": 1740286280,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 116077,
@@ -1073,6 +1177,14 @@
       "onboard_time": 1740264192,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98871,
+      "num": 190734,
+      "word": "姚晨恭喜霍猛导演",
+      "onboard_time": 1740287960,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 97711,
