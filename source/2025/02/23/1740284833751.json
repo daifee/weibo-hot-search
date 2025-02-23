@@ -1,0 +1,410 @@
+{
+  "runTime": 1740284833751,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1934759,
+        "num": 1934759,
+        "word": "女孩逃票进景区后坠亡景区被判无责",
+        "onboard_time": 1740279319,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1720132,
+        "num": 1720132,
+        "word": "姚晨闷声干大事",
+        "onboard_time": 1740282258,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 55089,
+        "num": 1228737,
+        "word": "今年国之重器的目标看热血了",
+        "onboard_time": 1740269837,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1163298,
+        "num": 1163298,
+        "word": "孙颖莎也嫌黄色衣服晃眼",
+        "onboard_time": 1740282978,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 844027,
+        "num": 844027,
+        "word": "哪吒票房",
+        "onboard_time": 1740275599,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 752433,
+        "num": 752433,
+        "word": "重庆排队吃轻轨",
+        "onboard_time": 1740279558,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 540854,
+        "num": 540854,
+        "word": "过安检时肖战仰了仰头",
+        "onboard_time": 1740283819,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 527953,
+        "num": 527953,
+        "word": "沈月说我好想出去看看春天啊",
+        "onboard_time": 1740279200,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 500650,
+        "num": 500650,
+        "word": "孙颖莎vs陈幸同",
+        "onboard_time": 1740279259,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24456,
+        "num": 489011,
+        "word": "黄山景区回应游客失联",
+        "onboard_time": 1740284119,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 587035,
+        "num": 488573,
+        "word": "曹操说Yellow中文翻译错了",
+        "onboard_time": 1740276618,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 479708,
+        "num": 479708,
+        "word": "石矶娘娘原身能拉出比头发还细的丝",
+        "onboard_time": 1740278959,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 434619,
+        "num": 434619,
+        "word": "为什么天气还这么冷",
+        "onboard_time": 1740273439,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370105,
+        "num": 370105,
+        "word": "DeepSeek预测哪吒2或跻身全球影史前五",
+        "onboard_time": 1740274520,
+        "rank": 13,
+        "category": "互联网,电影"
+      },
+      {
+        "raw_hot": 368883,
+        "num": 368883,
+        "word": "沈月的猫去世了",
+        "onboard_time": 1740241998,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365926,
+        "num": 365926,
+        "word": "29岁女子新婚被打失明男方获刑11年",
+        "onboard_time": 1740271218,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262436,
+        "num": 262436,
+        "word": "长歌行动画开播",
+        "onboard_time": 1740280038,
+        "rank": 16,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 234527,
+        "num": 234527,
+        "word": "黄灿灿这件事在我心里翻篇了",
+        "onboard_time": 1740265813,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230848,
+        "num": 230848,
+        "word": "孙颖莎4比0陈幸同",
+        "onboard_time": 1740283099,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167031,
+        "num": 230816,
+        "word": "梁靖崑vs林诗栋",
+        "onboard_time": 1740283879,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 539007,
+        "num": 230648,
+        "word": "胖东来决定来郑州开店",
+        "onboard_time": 1740279558,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 398268,
+        "num": 230465,
+        "word": "28岁未婚未育女生确诊卵巢癌",
+        "onboard_time": 1740269356,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 374080,
+        "num": 230410,
+        "word": "女生患乳腺癌后称要重视月经异常",
+        "onboard_time": 1740282017,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230337,
+        "num": 230337,
+        "word": "孙颖莎晋级亚洲杯决赛",
+        "onboard_time": 1740283999,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225816,
+        "num": 225816,
+        "word": "湖南严禁用AI生成处方",
+        "onboard_time": 1740274038,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219753,
+        "num": 219753,
+        "word": "一部剧集齐现偶三苏",
+        "onboard_time": 1740284299,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214194,
+        "num": 216439,
+        "word": "黄景瑜方取证维权",
+        "onboard_time": 1740276559,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191564,
+        "num": 215681,
+        "word": "东契奇的魔法又回来了",
+        "onboard_time": 1740283941,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215089,
+        "num": 215089,
+        "word": "周深演唱会勇敢退场是因为敬畏",
+        "onboard_time": 1740283879,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 214974,
+        "num": 214974,
+        "word": "情侣等地铁男生突然掏出戒指求婚",
+        "onboard_time": 1740283819,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201742,
+        "num": 201742,
+        "word": "孙颖莎胜陈幸同",
+        "onboard_time": 1740283579,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188670,
+        "num": 188670,
+        "word": "吴昕怎么掏个包都这么有梗",
+        "onboard_time": 1740282919,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188555,
+        "num": 188555,
+        "word": "多人贪吃春笋呕血晕厥",
+        "onboard_time": 1740269837,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184847,
+        "num": 184847,
+        "word": "朱志鑫女装",
+        "onboard_time": 1740282378,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183898,
+        "num": 183898,
+        "word": "迪丽热巴时装刊预热",
+        "onboard_time": 1740283219,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 173653,
+        "num": 173653,
+        "word": "科学家测算出人类灭绝时间",
+        "onboard_time": 1740276438,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 172828,
+        "num": 172828,
+        "word": "饺子导演谈哪吒2成功的关键",
+        "onboard_time": 1740281957,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168632,
+        "num": 168632,
+        "word": "全红婵又变身带娃德华了",
+        "onboard_time": 1740280878,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51014,
+        "num": 168106,
+        "word": "卢昱晓收工第一件事",
+        "onboard_time": 1740282199,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81045,
+        "num": 167953,
+        "word": "李昊 身骑白马",
+        "onboard_time": 1740283460,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 173517,
+        "num": 167951,
+        "word": "迪丽热巴金世佳新剧下证",
+        "onboard_time": 1740272478,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167940,
+        "num": 167940,
+        "word": "女儿遭家暴失明母亲自责让其闪婚",
+        "onboard_time": 1740271218,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159276,
+        "num": 159276,
+        "word": "最低气温回升速度赶不上最高气温",
+        "onboard_time": 1740283639,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158749,
+        "num": 158749,
+        "word": "咸阳机场回应一航班疑因起火返航",
+        "onboard_time": 1740281658,
+        "rank": 43,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 152250,
+        "num": 152250,
+        "word": "北上预约破150万",
+        "onboard_time": 1740284419,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142004,
+        "num": 142004,
+        "word": "滤镜预告",
+        "onboard_time": 1740284601,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62813,
+        "num": 141581,
+        "word": "医院回应被曝诱骗智障患者网贷4万",
+        "onboard_time": 1740282859,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141537,
+        "num": 141537,
+        "word": "湖人vs掘金",
+        "onboard_time": 1740276438,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139440,
+        "num": 139440,
+        "word": "教育局回应男孩校园内被4人霸凌",
+        "onboard_time": 1740282799,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131738,
+        "num": 131738,
+        "word": "肖战针织拼接飞行员夹克",
+        "onboard_time": 1740282079,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记始终关心牵挂乡亲们#"
+    }
+  }
+}
