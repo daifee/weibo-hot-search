@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740309533769,
+  "endTime": 1740310581892,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -4515,6 +4515,14 @@
       "category": "民生新闻,电影"
     },
     {
+      "raw_hot": 1136847,
+      "num": 1136847,
+      "word": "将进酒",
+      "onboard_time": 1740306979,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1135025,
       "num": 1135025,
       "word": "宝妈兼职配音4天被骗66万",
@@ -5051,6 +5059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1053593,
+      "num": 1053593,
+      "word": "推进农村高额彩礼问题综合治理",
+      "onboard_time": 1740306500,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1051629,
       "num": 383932,
       "word": "谢娜女儿",
@@ -5113,14 +5129,6 @@
       "onboard_time": 1738394656,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1047308,
-      "num": 1047308,
-      "word": "将进酒",
-      "onboard_time": 1740306979,
-      "rank": 33,
-      "category": "音乐"
     },
     {
       "raw_hot": 1047087,
@@ -6363,14 +6371,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 907744,
-      "num": 907744,
-      "word": "推进农村高额彩礼问题综合治理",
-      "onboard_time": 1740306500,
-      "rank": 17,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 907300,
       "num": 907300,
       "word": "玉泽演求婚成功",
@@ -6913,6 +6913,14 @@
       "onboard_time": 1739714002,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 847405,
+      "num": 847405,
+      "word": "王曼昱vs孙颖莎",
+      "onboard_time": 1740307820,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 847023,
@@ -7593,14 +7601,6 @@
       "onboard_time": 1739672358,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 790046,
-      "num": 790046,
-      "word": "王曼昱vs孙颖莎",
-      "onboard_time": 1740307820,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 789619,
@@ -10091,6 +10091,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 632421,
+      "num": 632421,
+      "word": "迪丽热巴出发长沙录开推",
+      "onboard_time": 1740306979,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 632377,
       "num": 632377,
       "word": "赵本山纽约演出",
@@ -11897,14 +11905,6 @@
       "onboard_time": 1739688079,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 548747,
-      "num": 548747,
-      "word": "迪丽热巴出发长沙录开推",
-      "onboard_time": 1740306979,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 548540,
@@ -14193,6 +14193,14 @@
       "onboard_time": 1739431280,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 472403,
+      "num": 636033,
+      "word": "哪吒2冲向全球票房第7",
+      "onboard_time": 1740303201,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 472349,
@@ -17947,6 +17955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 369669,
+      "num": 369669,
+      "word": "林诗栋vs林昀儒",
+      "onboard_time": 1740306679,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 369504,
       "num": 343828,
       "word": "董力已有一儿一女",
@@ -18905,14 +18921,6 @@
       "onboard_time": 1738409660,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 347569,
-      "num": 256486,
-      "word": "哪吒2冲向全球票房第7",
-      "onboard_time": 1740303201,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 347557,
@@ -22675,14 +22683,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 285694,
-      "num": 285694,
-      "word": "林诗栋vs林昀儒",
-      "onboard_time": 1740306679,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 285614,
       "num": 285614,
       "word": "中方从俄罗斯进口油气是为弥补缺口",
@@ -22713,6 +22713,14 @@
       "onboard_time": 1738561953,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 285299,
+      "num": 653586,
+      "word": "DeepSeek回答AI有没可能欺骗人类",
+      "onboard_time": 1740308838,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 285147,
@@ -23697,6 +23705,14 @@
       "onboard_time": 1739968580,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 271604,
+      "num": 271604,
+      "word": "国企拟录用3名本科生名单被删",
+      "onboard_time": 1740306021,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 271436,
@@ -26531,6 +26547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 240853,
+      "num": 240853,
+      "word": "HLE获得LCK杯冠军",
+      "onboard_time": 1740308838,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 240791,
       "num": 240791,
       "word": "迪丽热巴陈星旭祝大家情人节快乐",
@@ -28539,6 +28563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 224305,
+      "num": 237340,
+      "word": "蒯曼胜利现场放姐就是女王",
+      "onboard_time": 1740309320,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 224221,
       "num": 339998,
       "word": "妈妈为追梦辞职后又离婚6年无音讯",
@@ -30275,6 +30307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213138,
+      "num": 213138,
+      "word": "TE对阵T1",
+      "onboard_time": 1740310041,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 213088,
       "num": 213088,
       "word": "仙台有树开播",
@@ -31785,6 +31825,14 @@
       "onboard_time": 1739690237,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205159,
+      "num": 205159,
+      "word": "十个勤天方称舞美不存在任何抄袭",
+      "onboard_time": 1740309320,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 205158,
@@ -33755,14 +33803,6 @@
       "category": "电影,动漫"
     },
     {
-      "raw_hot": 197550,
-      "num": 197550,
-      "word": "HLE获得LCK杯冠军",
-      "onboard_time": 1740308838,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 197534,
       "num": 197534,
       "word": "谁家女主给一条鲫鱼送终",
@@ -33889,14 +33929,6 @@
       "onboard_time": 1739023884,
       "rank": 45,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 197046,
-      "num": 265525,
-      "word": "国企拟录用3名本科生名单被删",
-      "onboard_time": 1740306021,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 197031,
@@ -35891,6 +35923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189558,
+      "num": 189558,
+      "word": "桑延对温以凡撒娇",
+      "onboard_time": 1740309619,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189487,
       "num": 145927,
       "word": "云秀行",
@@ -37041,6 +37081,14 @@
       "onboard_time": 1739029580,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 185190,
+      "num": 197687,
+      "word": "TES对战iG",
+      "onboard_time": 1740309680,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 185179,
@@ -38827,6 +38875,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 177078,
+      "num": 177078,
+      "word": "赵磊希望记住我而不是哪个团的",
+      "onboard_time": 1740306559,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177029,
       "num": 177029,
       "word": "邝玲玲精品购物指南封面",
@@ -39323,14 +39379,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 174452,
-      "num": 174452,
-      "word": "赵磊希望记住我而不是哪个团的",
-      "onboard_time": 1740306559,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 174433,
       "num": 555945,
       "word": "宜宾筠连滑坡山体垂直高差达437米",
@@ -39609,6 +39657,14 @@
       "onboard_time": 1738753103,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173072,
+      "num": 173072,
+      "word": "潮汕女孩开糖水铺日入1万的一天",
+      "onboard_time": 1740309079,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 173059,
@@ -40473,14 +40529,6 @@
       "onboard_time": 1740299179,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 169451,
-      "num": 169451,
-      "word": "十个勤天方称舞美不存在任何抄袭",
-      "onboard_time": 1740309320,
-      "rank": 38,
-      "category": "演出"
     },
     {
       "raw_hot": 169446,
@@ -44153,6 +44201,14 @@
       "onboard_time": 1739331321,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 155580,
+      "num": 155580,
+      "word": "HLE晋级全球先锋赛",
+      "onboard_time": 1740310041,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 155542,
@@ -48739,6 +48795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136568,
+      "num": 284164,
+      "word": "徐璐直播",
+      "onboard_time": 1740308959,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136560,
       "num": 136560,
       "word": "蛇年元宵十五的月亮十五圆",
@@ -48905,14 +48969,6 @@
       "onboard_time": 1738898306,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 136079,
-      "num": 136079,
-      "word": "潮汕女孩开糖水铺日入1万的一天",
-      "onboard_time": 1740309079,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 135993,
@@ -51705,6 +51761,14 @@
       "onboard_time": 1739801422,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123588,
+      "num": 123588,
+      "word": "刘浩存好优越的侧脸",
+      "onboard_time": 1740309979,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 123576,
@@ -56387,6 +56451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100400,
+      "num": 214259,
+      "word": "因地制宜发展农业新质生产力",
+      "onboard_time": 1740310338,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 100396,
       "num": 100396,
       "word": "美军拒绝公开坠机丧生的女飞行员身份",
@@ -58899,6 +58971,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 82363,
+      "num": 361790,
+      "word": "白敬亭猫系男友",
+      "onboard_time": 1740308959,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 82338,
       "num": 82338,
       "word": "亚冬会公众门票赛时销售启动",
@@ -59817,6 +59897,14 @@
       "onboard_time": 1739105362,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76682,
+      "num": 191037,
+      "word": "林诗栋4比0林昀儒",
+      "onboard_time": 1740310401,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 76593,
@@ -61131,14 +61219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 66732,
-      "num": 653586,
-      "word": "DeepSeek回答AI有没可能欺骗人类",
-      "onboard_time": 1740308838,
-      "rank": 9,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 66704,
       "num": 339153,
       "word": "哪吒2能否掀起中国动画电影热潮",
@@ -61337,6 +61417,14 @@
       "onboard_time": 1739722819,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 65487,
+      "num": 221817,
+      "word": "总制片人谈六姊妹为何受欢迎",
+      "onboard_time": 1740307160,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 65372,
@@ -62177,14 +62265,6 @@
       "onboard_time": 1740135799,
       "rank": 14,
       "category": "财经"
-    },
-    {
-      "raw_hot": 60176,
-      "num": 237340,
-      "word": "蒯曼胜利现场放姐就是女王",
-      "onboard_time": 1740309320,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 60145,
@@ -64843,6 +64923,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 45575,
+      "num": 1077768,
+      "word": "我国海洋工程装备制造连续7年霸榜全球",
+      "onboard_time": 1740297020,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 45566,
       "num": 477936,
       "word": "加沙冲突等热点不应被边缘化",
@@ -65555,14 +65643,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 41384,
-      "num": 221817,
-      "word": "总制片人谈六姊妹为何受欢迎",
-      "onboard_time": 1740307160,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 41374,
       "num": 218384,
       "word": "一诺新年第一烤",
@@ -65745,14 +65825,6 @@
       "onboard_time": 1739672060,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 40564,
-      "num": 361790,
-      "word": "白敬亭猫系男友",
-      "onboard_time": 1740308959,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 40513,
@@ -66803,14 +66875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 35449,
-      "num": 284164,
-      "word": "徐璐直播",
-      "onboard_time": 1740308959,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 35441,
       "num": 241674,
       "word": "贾巴尔回应首次击败郑钦文",
@@ -67587,14 +67651,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 31600,
-      "num": 910676,
-      "word": "我国海洋工程装备制造连续7年霸榜全球",
-      "onboard_time": 1740297020,
-      "rank": 2,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 31588,
       "num": 336185,
       "word": "韩聪说担任执旗手激动又紧张",
@@ -68233,6 +68289,14 @@
       "onboard_time": 1738725621,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 27681,
+      "num": 241185,
+      "word": "林诗栋亚洲杯男单摘铜",
+      "onboard_time": 1740310338,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 27671,
@@ -71096,6 +71160,14 @@
       "word": "运动员滑冰点燃主火炬",
       "onboard_time": 1738948635,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 14298,
+      "num": 217126,
+      "word": "国乒包揽亚洲杯所有奖牌",
+      "onboard_time": 1740310338,
+      "rank": 26,
       "category": "体育"
     },
     {
