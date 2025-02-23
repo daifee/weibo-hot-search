@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740317013422,
+  "endTime": 1740317710792,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1227,6 +1227,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 2197754,
+      "num": 2197754,
+      "word": "王楚钦vs梁靖崑",
+      "onboard_time": 1739009301,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2186129,
       "num": 2186129,
       "word": "部分日本人开始反对上四休三了",
@@ -1553,14 +1561,6 @@
       "onboard_time": 1739326217,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1992085,
-      "num": 1992085,
-      "word": "王楚钦vs梁靖崑",
-      "onboard_time": 1739009301,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 1990747,
@@ -2777,6 +2777,14 @@
       "onboard_time": 1739519960,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1520337,
+      "num": 597233,
+      "word": "厌食女子被加喂营养餐多脏器衰竭",
+      "onboard_time": 1740315080,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1516720,
@@ -4307,14 +4315,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1185862,
-      "num": 597233,
-      "word": "厌食女子被加喂营养餐多脏器衰竭",
-      "onboard_time": 1740315080,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1185006,
       "num": 1457679,
       "word": "2025亚冬会开幕式",
@@ -5497,6 +5497,14 @@
       "onboard_time": 1739625140,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1004426,
+      "num": 1004426,
+      "word": "王曼昱4比0孙颖莎",
+      "onboard_time": 1740314003,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 1002600,
@@ -8627,14 +8635,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 714048,
-      "num": 714048,
-      "word": "王曼昱4比0孙颖莎",
-      "onboard_time": 1740314003,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 713903,
       "num": 415106,
       "word": "00后花2万相亲匹配到近40岁男子",
@@ -10107,6 +10107,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 636341,
+      "num": 636341,
+      "word": "王楚钦板板都是高质量",
+      "onboard_time": 1740316401,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 636102,
       "num": 601446,
       "word": "谢广坤扮演者前妻替女儿道歉",
@@ -11033,6 +11041,14 @@
       "onboard_time": 1740230721,
       "rank": 31,
       "category": "艺人,艺人"
+    },
+    {
+      "raw_hot": 586508,
+      "num": 520441,
+      "word": "女子持续发热两周未愈确诊白血病",
+      "onboard_time": 1740315621,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 586504,
@@ -12388,7 +12404,7 @@
     },
     {
       "raw_hot": 536435,
-      "num": 426786,
+      "num": 438757,
       "word": "95后情侣夜市摆摊卖麻糍日入4000元",
       "onboard_time": 1740304278,
       "rank": 20,
@@ -14251,6 +14267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 473268,
+      "num": 473268,
+      "word": "孙颖莎收到球迷震耳欲聋的爱",
+      "onboard_time": 1740315140,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 472765,
       "num": 362961,
       "word": "节后减重多吃3种发酵食物",
@@ -15761,6 +15785,14 @@
       "onboard_time": 1739700739,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 426146,
+      "num": 529357,
+      "word": "肖战男模机场秀",
+      "onboard_time": 1740314662,
+      "rank": 46,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 425832,
@@ -17707,14 +17739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 376338,
-      "num": 376338,
-      "word": "孙颖莎收到球迷震耳欲聋的爱",
-      "onboard_time": 1740315140,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 376094,
       "num": 376094,
       "word": "DeepSeek最新预测哪吒2票房",
@@ -17979,6 +18003,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 371550,
+      "num": 371550,
+      "word": "虞书欣机车婚纱造型",
+      "onboard_time": 1740311538,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 371052,
       "num": 371052,
       "word": "李赫宰一位",
@@ -18067,6 +18099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 369451,
+      "num": 327772,
+      "word": "王曼昱让观战粉丝保护嗓子",
+      "onboard_time": 1740316943,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 368908,
       "num": 368908,
       "word": "小警犬在考试中得了最后一名",
@@ -18129,6 +18169,14 @@
       "onboard_time": 1738894281,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 367128,
+      "num": 367128,
+      "word": "韩国ins最具影响力TOP10",
+      "onboard_time": 1740313582,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 367072,
@@ -19211,14 +19259,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 345515,
-      "num": 347130,
-      "word": "韩国ins最具影响力TOP10",
-      "onboard_time": 1740313582,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 345342,
       "num": 260937,
       "word": "哪吒2突破121亿",
@@ -19241,6 +19281,14 @@
       "onboard_time": 1738451652,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 344602,
+      "num": 344602,
+      "word": "桑延 来财",
+      "onboard_time": 1740316220,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 344422,
@@ -19553,14 +19601,6 @@
       "onboard_time": 1739328259,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 339205,
-      "num": 339205,
-      "word": "虞书欣机车婚纱造型",
-      "onboard_time": 1740311538,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 339148,
@@ -21051,6 +21091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 312721,
+      "num": 575204,
+      "word": "王楚钦亚洲杯金牌",
+      "onboard_time": 1740317244,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 312663,
       "num": 534843,
       "word": "男子怕媳妇看到酒瓶直接从18楼抛出",
@@ -21105,6 +21153,14 @@
       "onboard_time": 1738672403,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 311234,
+      "num": 311234,
+      "word": "迪丽热巴机场和粉丝跳舞",
+      "onboard_time": 1740317183,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 311187,
@@ -21296,14 +21352,6 @@
       "word": "洒水车0℃以下洒水致路面结冰酿事故",
       "onboard_time": 1739165001,
       "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 308336,
-      "num": 475477,
-      "word": "女子持续发热两周未愈确诊白血病",
-      "onboard_time": 1740315621,
-      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -21769,14 +21817,6 @@
       "onboard_time": 1739822050,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 301301,
-      "num": 301301,
-      "word": "肖战男模机场秀",
-      "onboard_time": 1740314662,
-      "rank": 46,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 301266,
@@ -22689,6 +22729,14 @@
       "onboard_time": 1740034521,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 288484,
+      "num": 288484,
+      "word": "吞海",
+      "onboard_time": 1740316880,
+      "rank": 41,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 288154,
@@ -24089,14 +24137,6 @@
       "onboard_time": 1739590940,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 268557,
-      "num": 268557,
-      "word": "桑延 来财",
-      "onboard_time": 1740316220,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 268487,
@@ -25953,14 +25993,6 @@
       "onboard_time": 1739875822,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 248768,
-      "num": 248768,
-      "word": "吞海",
-      "onboard_time": 1740316880,
-      "rank": 41,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 248747,
@@ -33187,6 +33219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 200833,
+      "num": 249047,
+      "word": "时代少年团肤色",
+      "onboard_time": 1740314481,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200829,
       "num": 477181,
       "word": "张元英mv镜头",
@@ -38643,14 +38683,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 179585,
-      "num": 249047,
-      "word": "时代少年团肤色",
-      "onboard_time": 1740314481,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 179569,
       "num": 179569,
       "word": "杨洋给白敬亭包场梦回旋风少女",
@@ -39801,6 +39833,14 @@
       "onboard_time": 1738933883,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173720,
+      "num": 549827,
+      "word": "王楚钦4比0胜梁靖崑",
+      "onboard_time": 1740317303,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 173672,
@@ -42441,14 +42481,6 @@
       "onboard_time": 1739270661,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 163231,
-      "num": 248832,
-      "word": "王曼昱让观战粉丝保护嗓子",
-      "onboard_time": 1740316943,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 163198,
@@ -57667,6 +57699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94431,
+      "num": 527009,
+      "word": "官方通报村民清理化粪池致2死",
+      "onboard_time": 1740315980,
+      "rank": 19,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 94418,
       "num": 297480,
       "word": "原来速食拉面也能吃得健康",
@@ -58507,6 +58547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 88326,
+      "num": 291456,
+      "word": "下周气温开启大回暖",
+      "onboard_time": 1740315980,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88177,
       "num": 244574,
       "word": "谢娜这段时间一直陪孩子们",
@@ -59264,6 +59312,14 @@
       "word": "大年初四北京下雪",
       "onboard_time": 1738385839,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82682,
+      "num": 560038,
+      "word": "黄山临时关闭部分游步道",
+      "onboard_time": 1740316943,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -60369,14 +60425,6 @@
       "onboard_time": 1740199160,
       "rank": 30,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 75315,
-      "num": 250655,
-      "word": "黄山临时关闭部分游步道",
-      "onboard_time": 1740316943,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75265,
@@ -64523,14 +64571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 49755,
-      "num": 445912,
-      "word": "官方通报村民清理化粪池致2死",
-      "onboard_time": 1740315980,
-      "rank": 19,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 49699,
       "num": 227077,
       "word": "A股主线重要变化",
@@ -65913,14 +65953,6 @@
       "onboard_time": 1739365040,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 41817,
-      "num": 492273,
-      "word": "王楚钦板板都是高质量",
-      "onboard_time": 1740316401,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 41713,
@@ -69625,6 +69657,14 @@
       "onboard_time": 1738580968,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23222,
+      "num": 327840,
+      "word": "时代少年团模仿非洲部落",
+      "onboard_time": 1740317423,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 23200,
