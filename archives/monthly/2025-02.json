@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740336076098,
+  "endTime": 1740338240764,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -69979,6 +69979,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 23897,
+      "num": 44261,
+      "word": "有一群女孩真的很爱英歌舞",
+      "onboard_time": 1740335831,
+      "rank": 27,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 23829,
       "num": 23829,
       "word": "老师用DeepSeek制作随机点名系统",
@@ -71073,6 +71081,14 @@
       "onboard_time": 1739860291,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 19545,
+      "num": 20089,
+      "word": "被校服男孩一个伸手暖到了",
+      "onboard_time": 1740337813,
+      "rank": 48,
+      "category": "正能量"
     },
     {
       "raw_hot": 19503,
@@ -72251,6 +72267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 13416,
+      "num": 284841,
+      "word": "龙马乘组太空出差将满120天",
+      "onboard_time": 1740320002,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 13370,
       "num": 47688,
       "word": "黄旭华这段话再听依然感动",
@@ -72627,14 +72651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 11940,
-      "num": 284841,
-      "word": "龙马乘组太空出差将满120天",
-      "onboard_time": 1740320002,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 11923,
       "num": 102362,
       "word": "舒寒联赛1000淘汰",
@@ -72657,6 +72673,14 @@
       "onboard_time": 1739848338,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 11847,
+      "num": 47308,
+      "word": "推进粮食节约和反食品浪费行动",
+      "onboard_time": 1740337032,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 11837,
@@ -72721,14 +72745,6 @@
       "onboard_time": 1740219443,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 11524,
-      "num": 44261,
-      "word": "有一群女孩真的很爱英歌舞",
-      "onboard_time": 1740335831,
-      "rank": 27,
-      "category": "正能量"
     },
     {
       "raw_hot": 11507,
@@ -72889,6 +72905,14 @@
       "onboard_time": 1740081851,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 10810,
+      "num": 36289,
+      "word": "HLE夺冠",
+      "onboard_time": 1740337452,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 10773,
