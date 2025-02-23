@@ -1,0 +1,410 @@
+{
+  "runTime": 1740335301832,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 510107,
+        "num": 510107,
+        "word": "林一",
+        "onboard_time": 1740327738,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 498446,
+        "num": 498446,
+        "word": "印度女孩13岁起被60余人性侵5年",
+        "onboard_time": 1740327438,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 10098,
+        "num": 284841,
+        "word": "龙马乘组太空出差将满120天",
+        "onboard_time": 1740320002,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 202230,
+        "num": 202230,
+        "word": "职业闭店是违法犯罪行为",
+        "onboard_time": 1740329057,
+        "rank": 3,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 125662,
+        "num": 125662,
+        "word": "骗子盯上了你的手机NFC功能",
+        "onboard_time": 1740326120,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122142,
+        "num": 122142,
+        "word": "王曼昱4比0孙颖莎",
+        "onboard_time": 1740314003,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98549,
+        "num": 98549,
+        "word": "中央一号文件划重点",
+        "onboard_time": 1740329236,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 96608,
+        "num": 96608,
+        "word": "马嘉祺一句话触发四个非洲土著",
+        "onboard_time": 1740327501,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87414,
+        "num": 87414,
+        "word": "王曼昱使用樊A",
+        "onboard_time": 1740327679,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14508,
+        "num": 87293,
+        "word": "2025年三农工作这么干",
+        "onboard_time": 1740334632,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 535120,
+        "num": 87210,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1740301458,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289078,
+        "num": 86994,
+        "word": "高露洁",
+        "onboard_time": 1740327859,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260492,
+        "num": 86892,
+        "word": "网红罗大美转账200万元仍遭灭口",
+        "onboard_time": 1740323303,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 230578,
+        "num": 86735,
+        "word": "陈赫回应被鹿晗关晓彤刷屏",
+        "onboard_time": 1740323242,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118744,
+        "num": 86529,
+        "word": "某某",
+        "onboard_time": 1740318201,
+        "rank": 14,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 86492,
+        "num": 86492,
+        "word": "章若楠好美",
+        "onboard_time": 1740319343,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80686,
+        "num": 80686,
+        "word": "杨肸子为红房子随地大小舞",
+        "onboard_time": 1740327919,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63586,
+        "num": 63586,
+        "word": "种地吧",
+        "onboard_time": 1740327080,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201703,
+        "num": 62720,
+        "word": "鹿晗关晓彤分手博坚持打卡2694天",
+        "onboard_time": 1740311359,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60324,
+        "num": 60324,
+        "word": "王曼昱亚洲杯冠军",
+        "onboard_time": 1740313522,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133715,
+        "num": 59418,
+        "word": "睡得少和睡得晚哪个伤害大",
+        "onboard_time": 1740322403,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 79817,
+        "num": 59247,
+        "word": "内裤袜子丢进洗衣机真比手洗好",
+        "onboard_time": 1740318683,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 57104,
+        "num": 57104,
+        "word": "迪丽热巴机场和粉丝跳舞",
+        "onboard_time": 1740317183,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56885,
+        "num": 56885,
+        "word": "印度强奸案只有27%被定罪",
+        "onboard_time": 1740328037,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 54437,
+        "num": 54437,
+        "word": "因哪吒2爆火的影院紧急大扫除迎客",
+        "onboard_time": 1740332474,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 53446,
+        "num": 53446,
+        "word": "不允许城镇居民到农村购买宅基地",
+        "onboard_time": 1740310700,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 51707,
+        "num": 51707,
+        "word": "韩国ins最具影响力TOP10",
+        "onboard_time": 1740313582,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15781,
+        "num": 49805,
+        "word": "胡兵说睡得好比黄金还重要",
+        "onboard_time": 1740335053,
+        "rank": 27,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 48894,
+        "num": 48894,
+        "word": "Rookie 菜得可怕",
+        "onboard_time": 1740319822,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 47699,
+        "num": 47699,
+        "word": "拆迁6套房分配不均引发兄妹矛盾",
+        "onboard_time": 1740321562,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45433,
+        "num": 45433,
+        "word": "高中生手搓折叠屏惊动手机厂商",
+        "onboard_time": 1740325041,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44845,
+        "num": 44845,
+        "word": "考研明天查分",
+        "onboard_time": 1740316100,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 41358,
+        "num": 41358,
+        "word": "郭艾伦眼睛受伤或涉及自甘风险",
+        "onboard_time": 1740331693,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40641,
+        "num": 40641,
+        "word": "央视曝光网购陷阱",
+        "onboard_time": 1740318983,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39783,
+        "num": 39783,
+        "word": "good day",
+        "onboard_time": 1740324501,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39546,
+        "num": 39546,
+        "word": "王曼昱集齐亚洲三大赛单打金牌",
+        "onboard_time": 1740324081,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39106,
+        "num": 39106,
+        "word": "虞书欣何与婚礼吻戏路透",
+        "onboard_time": 1740324921,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36681,
+        "num": 36681,
+        "word": "樊A",
+        "onboard_time": 1740320782,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36333,
+        "num": 36333,
+        "word": "买了会员卡碰上职业闭店人怎么办",
+        "onboard_time": 1740332893,
+        "rank": 38,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 35134,
+        "num": 35134,
+        "word": "黄子琪因拍消失的她患深海恐惧症",
+        "onboard_time": 1740300740,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34306,
+        "num": 34306,
+        "word": "肖战男模机场秀",
+        "onboard_time": 1740314662,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 34220,
+        "num": 34220,
+        "word": "白敬亭小号为难哄改名",
+        "onboard_time": 1740299600,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34107,
+        "num": 34107,
+        "word": "5个考研查分通道",
+        "onboard_time": 1740328637,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 33642,
+        "num": 33642,
+        "word": "哪吒2冲向全球票房第7",
+        "onboard_time": 1740303201,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20795,
+        "num": 33601,
+        "word": "吴艳妮60米栏8秒16再夺冠",
+        "onboard_time": 1740322224,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33601,
+        "num": 33600,
+        "word": "舒肤佳 李昀锐",
+        "onboard_time": 1740300440,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32914,
+        "num": 32914,
+        "word": "时代少年团三专9天预售额2亿",
+        "onboard_time": 1740332053,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 31864,
+        "num": 31864,
+        "word": "桑延 来财",
+        "onboard_time": 1740316220,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30949,
+        "num": 30949,
+        "word": "这些春菜里藏着春天的味道",
+        "onboard_time": 1740320242,
+        "rank": 48,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 30495,
+        "num": 30495,
+        "word": "被王楚钦的庆祝动作硬控了",
+        "onboard_time": 1740320602,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#扎实推进乡村全面振兴#"
+    }
+  }
+}
