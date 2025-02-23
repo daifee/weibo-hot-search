@@ -1,6 +1,6 @@
 {
   "startTime": 1740327929685,
-  "endTime": 1740345638553,
+  "endTime": 1740346551625,
   "band_list": [
     {
       "raw_hot": 1749367,
@@ -515,6 +515,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 24055,
+      "num": 24055,
+      "word": "麦当娜炮轰特朗普",
+      "onboard_time": 1740342371,
+      "rank": 48,
+      "category": "国际时政,艺人"
+    },
+    {
       "raw_hot": 23897,
       "num": 44261,
       "word": "有一群女孩真的很爱英歌舞",
@@ -537,14 +545,6 @@
       "onboard_time": 1740339012,
       "rank": 47,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 21619,
-      "num": 21619,
-      "word": "麦当娜炮轰特朗普",
-      "onboard_time": 1740342371,
-      "rank": 48,
-      "category": "国际时政,艺人"
     },
     {
       "raw_hot": 20795,
