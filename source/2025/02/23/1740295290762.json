@@ -1,0 +1,410 @@
+{
+  "runTime": 1740295290762,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1164076,
+        "num": 1186252,
+        "word": "姚晨闷声干大事",
+        "onboard_time": 1740282258,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1163303,
+        "num": 1163303,
+        "word": "王楚钦vs林昀儒",
+        "onboard_time": 1740289459,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40667,
+        "num": 1138920,
+        "word": "今年国之重器的目标看热血了",
+        "onboard_time": 1740269837,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1115563,
+        "num": 1115563,
+        "word": "医生称DeepSeek有三甲医院专家水平",
+        "onboard_time": 1740290839,
+        "rank": 3,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 780035,
+        "num": 780035,
+        "word": "男主死追女主装死",
+        "onboard_time": 1740290719,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 518898,
+        "num": 518898,
+        "word": "女孩逃票进景区后坠亡景区被判无责",
+        "onboard_time": 1740279319,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 578331,
+        "num": 512082,
+        "word": "终于有部剧还原了我的高清童年",
+        "onboard_time": 1740288978,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 452365,
+        "num": 452365,
+        "word": "黄杨钿甜艺考照",
+        "onboard_time": 1740286819,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425339,
+        "num": 425339,
+        "word": "老人花2万多买床垫拆开主材是泡沫",
+        "onboard_time": 1740291378,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77988,
+        "num": 401708,
+        "word": "国能置业再回应拟录用名单质疑",
+        "onboard_time": 1740294439,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 711223,
+        "num": 400057,
+        "word": "胡静老公跪在地上帮她拍照",
+        "onboard_time": 1740291319,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 393764,
+        "num": 393764,
+        "word": "哪吒3催更到联合国了",
+        "onboard_time": 1740286880,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 386939,
+        "num": 386939,
+        "word": "马斯克称泽连斯基已被开除",
+        "onboard_time": 1740293959,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 350831,
+        "num": 350831,
+        "word": "我妈不情愿照护爷爷奶奶的那些年",
+        "onboard_time": 1740293358,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 342980,
+        "num": 342980,
+        "word": "一家四口有8个群",
+        "onboard_time": 1740292099,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 338353,
+        "num": 338353,
+        "word": "新加坡一航班因故障返航旅客发声",
+        "onboard_time": 1740291319,
+        "rank": 15,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 325385,
+        "num": 325385,
+        "word": "3名本科生不存在违规操作",
+        "onboard_time": 1740294439,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286672,
+        "num": 286672,
+        "word": "特朗普说要把给乌克兰的钱要回来",
+        "onboard_time": 1740292158,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 284696,
+        "num": 284696,
+        "word": "00后花2万相亲匹配到近40岁男子",
+        "onboard_time": 1740288260,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281090,
+        "num": 281090,
+        "word": "孙颖莎也嫌黄色衣服晃眼",
+        "onboard_time": 1740282978,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 824294,
+        "num": 270753,
+        "word": "过安检时肖战仰了仰头",
+        "onboard_time": 1740283819,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233592,
+        "num": 233592,
+        "word": "胖东来决定来郑州开店",
+        "onboard_time": 1740279558,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221572,
+        "num": 221572,
+        "word": "为什么天气还这么冷",
+        "onboard_time": 1740273439,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212353,
+        "num": 212353,
+        "word": "杨迪在机场等粉丝上厕所",
+        "onboard_time": 1740289520,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48280,
+        "num": 198211,
+        "word": "宋亚东技术判定战胜赛胡多",
+        "onboard_time": 1740294138,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195427,
+        "num": 195427,
+        "word": "刘晓庆录完一路繁花要拍十部短剧",
+        "onboard_time": 1740287239,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193777,
+        "num": 193777,
+        "word": "女生患乳腺癌后称要重视月经异常",
+        "onboard_time": 1740282017,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189330,
+        "num": 189330,
+        "word": "赫丽摸金宇真的开推了",
+        "onboard_time": 1740295220,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181042,
+        "num": 181042,
+        "word": "蒯曼vs王曼昱",
+        "onboard_time": 1740288439,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74149,
+        "num": 170211,
+        "word": "男子独自登山失联8天后遗体被找到",
+        "onboard_time": 1740294439,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168343,
+        "num": 168343,
+        "word": "朴成训 阿迪达斯",
+        "onboard_time": 1740291259,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164623,
+        "num": 164623,
+        "word": "哪吒票房",
+        "onboard_time": 1740275599,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154340,
+        "num": 154340,
+        "word": "开始推理吧",
+        "onboard_time": 1740291019,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150387,
+        "num": 150387,
+        "word": "网传西安一航班因发动机起火返航",
+        "onboard_time": 1740283579,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145912,
+        "num": 145912,
+        "word": "舒淇恭喜姚晨",
+        "onboard_time": 1740290059,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137981,
+        "num": 137981,
+        "word": "黄明昊演唱会圈内人缘",
+        "onboard_time": 1740294018,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135674,
+        "num": 135674,
+        "word": "王曼昱给球迷送香蕉",
+        "onboard_time": 1740295099,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135550,
+        "num": 135550,
+        "word": "HLE对战GEN",
+        "onboard_time": 1740294258,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134919,
+        "num": 134919,
+        "word": "年轻人为什么对大牌美妆祛魅了",
+        "onboard_time": 1740294138,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 133137,
+        "num": 133137,
+        "word": "梁靖崑4比3林诗栋",
+        "onboard_time": 1740287659,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129741,
+        "num": 129741,
+        "word": "28岁未婚未育女生确诊卵巢癌",
+        "onboard_time": 1740269356,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125007,
+        "num": 125007,
+        "word": "湖北一地明确生三孩奖励3万",
+        "onboard_time": 1740293898,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121904,
+        "num": 121904,
+        "word": "滤镜美女听完告白跳河了",
+        "onboard_time": 1740294738,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121389,
+        "num": 121389,
+        "word": "难哄",
+        "onboard_time": 1740285500,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121255,
+        "num": 121255,
+        "word": "现实版哪吒敖丙身高差",
+        "onboard_time": 1740285679,
+        "rank": 44,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 115990,
+        "num": 115990,
+        "word": "重庆排队吃轻轨",
+        "onboard_time": 1740279558,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115603,
+        "num": 115603,
+        "word": "何炅选魏大勋最百搭旅游搭子",
+        "onboard_time": 1740292698,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112946,
+        "num": 112946,
+        "word": "似锦",
+        "onboard_time": 1740289699,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112850,
+        "num": 112850,
+        "word": "曹操说Yellow中文翻译错了",
+        "onboard_time": 1740276618,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 109081,
+        "num": 109081,
+        "word": "看似单向暗恋实际双向奔赴",
+        "onboard_time": 1740295220,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记始终关心牵挂乡亲们#"
+    }
+  }
+}

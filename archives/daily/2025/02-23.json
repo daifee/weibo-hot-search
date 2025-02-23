@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740292944603,
+  "endTime": 1740295290762,
   "band_list": [
     {
       "raw_hot": 1962897,
@@ -59,12 +59,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1163303,
+      "num": 1163303,
+      "word": "王楚钦vs林昀儒",
+      "onboard_time": 1740289459,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1163298,
       "num": 1163298,
       "word": "孙颖莎也嫌黄色衣服晃眼",
       "onboard_time": 1740282978,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1115563,
+      "num": 1115563,
+      "word": "医生称DeepSeek有三甲医院专家水平",
+      "onboard_time": 1740290839,
+      "rank": 14,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 949169,
@@ -99,14 +115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 830831,
-      "num": 830831,
-      "word": "医生称DeepSeek有三甲医院专家水平",
-      "onboard_time": 1740290839,
-      "rank": 14,
-      "category": "互联网,民生新闻"
-    },
-    {
       "raw_hot": 808429,
       "num": 808429,
       "word": "DeepSeek预测哪吒2或跻身全球影史前五",
@@ -123,12 +131,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 789299,
-      "num": 789299,
-      "word": "王楚钦vs林昀儒",
-      "onboard_time": 1740289459,
-      "rank": 5,
-      "category": "体育"
+      "raw_hot": 780035,
+      "num": 780035,
+      "word": "男主死追女主装死",
+      "onboard_time": 1740290719,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 756907,
@@ -185,6 +193,14 @@
       "onboard_time": 1740288260,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 711223,
+      "num": 400057,
+      "word": "胡静老公跪在地上帮她拍照",
+      "onboard_time": 1740291319,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 705828,
@@ -267,14 +283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 553848,
-      "num": 391595,
-      "word": "胡静老公跪在地上帮她拍照",
-      "onboard_time": 1740291319,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 549632,
       "num": 256830,
       "word": "28岁未婚未育女生确诊卵巢癌",
@@ -347,12 +355,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 425339,
+      "num": 425339,
+      "word": "老人花2万多买床垫拆开主材是泡沫",
+      "onboard_time": 1740291378,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 400532,
       "num": 294834,
       "word": "女生患乳腺癌后称要重视月经异常",
       "onboard_time": 1740282017,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 386939,
+      "num": 386939,
+      "word": "马斯克称泽连斯基已被开除",
+      "onboard_time": 1740293959,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 381961,
@@ -427,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 350831,
+      "num": 350831,
+      "word": "我妈不情愿照护爷爷奶奶的那些年",
+      "onboard_time": 1740293358,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 346141,
       "num": 407274,
       "word": "现实版哪吒敖丙身高差",
@@ -443,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 342980,
+      "num": 342980,
+      "word": "一家四口有8个群",
+      "onboard_time": 1740292099,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 342346,
       "num": 342346,
       "word": "王曼昱4比1蒯曼",
@@ -451,12 +491,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 327986,
-      "num": 327986,
-      "word": "男主死追女主装死",
-      "onboard_time": 1740290719,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 338353,
+      "num": 428827,
+      "word": "新加坡一航班因故障返航旅客发声",
+      "onboard_time": 1740291319,
+      "rank": 9,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 326729,
@@ -465,6 +505,14 @@
       "onboard_time": 1740234682,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 325385,
+      "num": 325385,
+      "word": "3名本科生不存在违规操作",
+      "onboard_time": 1740294439,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 322372,
@@ -499,20 +547,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 286672,
+      "num": 358693,
+      "word": "特朗普说要把给乌克兰的钱要回来",
+      "onboard_time": 1740292158,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 282542,
       "num": 282542,
       "word": "长歌行动画开播",
       "onboard_time": 1740280038,
       "rank": 25,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 282096,
-      "num": 330597,
-      "word": "老人花2万多买床垫拆开主材是泡沫",
-      "onboard_time": 1740291378,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 280070,
@@ -529,14 +577,6 @@
       "onboard_time": 1740254232,
       "rank": 11,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 276345,
-      "num": 428827,
-      "word": "新加坡一航班因故障返航旅客发声",
-      "onboard_time": 1740291319,
-      "rank": 9,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 271724,
@@ -763,14 +803,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 192013,
-      "num": 192013,
-      "word": "一家四口有8个群",
-      "onboard_time": 1740292099,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 191564,
       "num": 216334,
       "word": "东契奇的魔法又回来了",
@@ -817,6 +849,14 @@
       "onboard_time": 1740291259,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189330,
+      "num": 189330,
+      "word": "赫丽摸金宇真的开推了",
+      "onboard_time": 1740295220,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 188670,
@@ -1115,6 +1155,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 150387,
+      "num": 150387,
+      "word": "网传西安一航班因发动机起火返航",
+      "onboard_time": 1740283579,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 149912,
       "num": 149912,
       "word": "留几手说于正在网上随便抓人演戏",
@@ -1179,14 +1227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 141981,
-      "num": 141981,
-      "word": "网传西安一航班因发动机起火返航",
-      "onboard_time": 1740283579,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 138951,
       "num": 138951,
       "word": "第一次给檀健次做造型有点紧张",
@@ -1203,6 +1243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137981,
+      "num": 137981,
+      "word": "黄明昊演唱会圈内人缘",
+      "onboard_time": 1740294018,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 136633,
       "num": 136633,
       "word": "柏林电影节",
@@ -1217,6 +1265,30 @@
       "onboard_time": 1740269356,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135674,
+      "num": 135674,
+      "word": "王曼昱给球迷送香蕉",
+      "onboard_time": 1740295099,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 135550,
+      "num": 135550,
+      "word": "HLE对战GEN",
+      "onboard_time": 1740294258,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 134919,
+      "num": 134919,
+      "word": "年轻人为什么对大牌美妆祛魅了",
+      "onboard_time": 1740294138,
+      "rank": 38,
+      "category": "美妆"
     },
     {
       "raw_hot": 133429,
@@ -1275,6 +1347,14 @@
       "category": "电竞,电影"
     },
     {
+      "raw_hot": 125007,
+      "num": 125007,
+      "word": "湖北一地明确生三孩奖励3万",
+      "onboard_time": 1740293898,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124664,
       "num": 124664,
       "word": "外媒称美国提出切断星链服务施压乌克兰",
@@ -1297,6 +1377,14 @@
       "onboard_time": 1740288319,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121904,
+      "num": 121904,
+      "word": "滤镜美女听完告白跳河了",
+      "onboard_time": 1740294738,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 121773,
@@ -1361,6 +1449,14 @@
       "onboard_time": 1740252852,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109081,
+      "num": 109081,
+      "word": "看似单向暗恋实际双向奔赴",
+      "onboard_time": 1740295220,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 107302,
@@ -1531,12 +1627,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 68297,
-      "num": 358693,
-      "word": "特朗普说要把给乌克兰的钱要回来",
-      "onboard_time": 1740292158,
-      "rank": 14,
-      "category": "国际时政"
+      "raw_hot": 77988,
+      "num": 401708,
+      "word": "国能置业再回应拟录用名单质疑",
+      "onboard_time": 1740294439,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74149,
+      "num": 170211,
+      "word": "男子独自登山失联8天后遗体被找到",
+      "onboard_time": 1740294439,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65746,
@@ -1609,6 +1713,14 @@
       "onboard_time": 1740282199,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 48280,
+      "num": 198211,
+      "word": "宋亚东技术判定战胜赛胡多",
+      "onboard_time": 1740294138,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 43708,
