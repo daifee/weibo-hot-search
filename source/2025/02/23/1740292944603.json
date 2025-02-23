@@ -1,0 +1,410 @@
+{
+  "runTime": 1740292944603,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1359654,
+        "num": 1359654,
+        "word": "姚晨闷声干大事",
+        "onboard_time": 1740282258,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 868205,
+        "num": 868205,
+        "word": "女孩逃票进景区后坠亡景区被判无责",
+        "onboard_time": 1740279319,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 49092,
+        "num": 848670,
+        "word": "今年国之重器的目标看热血了",
+        "onboard_time": 1740269837,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1009304,
+        "num": 842991,
+        "word": "过安检时肖战仰了仰头",
+        "onboard_time": 1740283819,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 830831,
+        "num": 830831,
+        "word": "医生称DeepSeek有三甲医院专家水平",
+        "onboard_time": 1740290839,
+        "rank": 4,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 789299,
+        "num": 789299,
+        "word": "王楚钦vs林昀儒",
+        "onboard_time": 1740289459,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 705597,
+        "num": 705597,
+        "word": "终于有部剧还原了我的高清童年",
+        "onboard_time": 1740288978,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 625817,
+        "num": 625817,
+        "word": "黄杨钿甜艺考照",
+        "onboard_time": 1740286819,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392184,
+        "num": 392184,
+        "word": "蒯曼vs王曼昱",
+        "onboard_time": 1740288439,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276345,
+        "num": 392177,
+        "word": "新加坡一航班因故障返航旅客发声",
+        "onboard_time": 1740291319,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 637823,
+        "num": 391892,
+        "word": "00后花2万相亲匹配到近40岁男子",
+        "onboard_time": 1740288260,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 620189,
+        "num": 391804,
+        "word": "哪吒3催更到联合国了",
+        "onboard_time": 1740286880,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 553848,
+        "num": 391595,
+        "word": "胡静老公跪在地上帮她拍照",
+        "onboard_time": 1740291319,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 391552,
+        "num": 391552,
+        "word": "刘晓庆录完一路繁花要拍十部短剧",
+        "onboard_time": 1740287239,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68297,
+        "num": 358693,
+        "word": "特朗普说要把给乌克兰的钱要回来",
+        "onboard_time": 1740292158,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 347972,
+        "num": 347972,
+        "word": "孙颖莎也嫌黄色衣服晃眼",
+        "onboard_time": 1740282978,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 327986,
+        "num": 327986,
+        "word": "男主死追女主装死",
+        "onboard_time": 1740290719,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159822,
+        "num": 325001,
+        "word": "张文昕谈和肖战庄达菲对手戏幕后",
+        "onboard_time": 1740292400,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 324736,
+        "num": 324736,
+        "word": "为什么天气还这么冷",
+        "onboard_time": 1740273439,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282096,
+        "num": 282096,
+        "word": "老人花2万多买床垫拆开主材是泡沫",
+        "onboard_time": 1740291378,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267985,
+        "num": 267985,
+        "word": "胖东来决定来郑州开店",
+        "onboard_time": 1740279558,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251636,
+        "num": 251636,
+        "word": "梁靖崑4比3林诗栋",
+        "onboard_time": 1740287659,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246119,
+        "num": 246119,
+        "word": "王曼昱4比1蒯曼",
+        "onboard_time": 1740291080,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221783,
+        "num": 221783,
+        "word": "现实版哪吒敖丙身高差",
+        "onboard_time": 1740285679,
+        "rank": 23,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 219335,
+        "num": 219335,
+        "word": "女生患乳腺癌后称要重视月经异常",
+        "onboard_time": 1740282017,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218548,
+        "num": 218548,
+        "word": "杨迪在机场等粉丝上厕所",
+        "onboard_time": 1740289520,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216249,
+        "num": 216249,
+        "word": "哪吒票房",
+        "onboard_time": 1740275599,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 69574,
+        "num": 208629,
+        "word": "朱易 随机应变",
+        "onboard_time": 1740286939,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127053,
+        "num": 206591,
+        "word": "赵磊直播唱难哄OST",
+        "onboard_time": 1740292639,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79444,
+        "num": 206043,
+        "word": "国外一枪手扮律师进法院杀黑帮老大",
+        "onboard_time": 1740291440,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 205649,
+        "num": 205649,
+        "word": "曹操说Yellow中文翻译错了",
+        "onboard_time": 1740276618,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 192096,
+        "num": 192096,
+        "word": "舒淇恭喜姚晨",
+        "onboard_time": 1740290059,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192013,
+        "num": 192013,
+        "word": "一家四口有8个群",
+        "onboard_time": 1740292099,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189899,
+        "num": 189899,
+        "word": "朴成训 阿迪达斯",
+        "onboard_time": 1740291259,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185006,
+        "num": 185006,
+        "word": "难哄",
+        "onboard_time": 1740285500,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176246,
+        "num": 176246,
+        "word": "厚衣服先别着急收起来",
+        "onboard_time": 1740284899,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173947,
+        "num": 173947,
+        "word": "重庆排队吃轻轨",
+        "onboard_time": 1740279558,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168406,
+        "num": 168406,
+        "word": "28岁未婚未育女生确诊卵巢癌",
+        "onboard_time": 1740269356,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165490,
+        "num": 165490,
+        "word": "似锦",
+        "onboard_time": 1740289699,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152359,
+        "num": 152359,
+        "word": "一首歌从TFBOYS唱到了青藏高原",
+        "onboard_time": 1740290480,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150001,
+        "num": 150001,
+        "word": "开始推理吧",
+        "onboard_time": 1740291019,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146933,
+        "num": 146933,
+        "word": "梁靖崑0比6落后没有放弃",
+        "onboard_time": 1740287720,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145788,
+        "num": 145788,
+        "word": "沈月的猫去世了",
+        "onboard_time": 1740241998,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144506,
+        "num": 144506,
+        "word": "金智秀和男粉丝互戴戒指",
+        "onboard_time": 1740289159,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140698,
+        "num": 140698,
+        "word": "邢菲你在对漂亮脸蛋做什么",
+        "onboard_time": 1740287540,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139066,
+        "num": 139066,
+        "word": "石矶娘娘原身能拉出比头发还细的丝",
+        "onboard_time": 1740278959,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135129,
+        "num": 135129,
+        "word": "留几手说于正在网上随便抓人演戏",
+        "onboard_time": 1740289038,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133836,
+        "num": 133836,
+        "word": "孙颖莎是小小勇士",
+        "onboard_time": 1740291019,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124721,
+        "num": 124721,
+        "word": "情侣等地铁男生突然掏出戒指求婚",
+        "onboard_time": 1740283819,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122880,
+        "num": 122880,
+        "word": "何炅选魏大勋最百搭旅游搭子",
+        "onboard_time": 1740292698,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记始终关心牵挂乡亲们#"
+    }
+  }
+}

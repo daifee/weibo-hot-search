@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740292166068,
+  "endTime": 1740292944603,
   "band_list": [
     {
       "raw_hot": 1962897,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 830831,
+      "num": 830831,
+      "word": "医生称DeepSeek有三甲医院专家水平",
+      "onboard_time": 1740290839,
+      "rank": 14,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 808429,
       "num": 808429,
       "word": "DeepSeek预测哪吒2或跻身全球影史前五",
@@ -113,6 +121,14 @@
       "onboard_time": 1740274038,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 789299,
+      "num": 789299,
+      "word": "王楚钦vs林昀儒",
+      "onboard_time": 1740289459,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 756907,
@@ -156,7 +172,7 @@
     },
     {
       "raw_hot": 715166,
-      "num": 420312,
+      "num": 705597,
       "word": "终于有部剧还原了我的高清童年",
       "onboard_time": 1740288978,
       "rank": 47,
@@ -251,6 +267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 553848,
+      "num": 391595,
+      "word": "胡静老公跪在地上帮她拍照",
+      "onboard_time": 1740291319,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 549632,
       "num": 256830,
       "word": "28岁未婚未育女生确诊卵巢癌",
@@ -281,14 +305,6 @@
       "onboard_time": 1740235822,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 536112,
-      "num": 536112,
-      "word": "王楚钦vs林昀儒",
-      "onboard_time": 1740289459,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 534199,
@@ -371,14 +387,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 367570,
-      "num": 367570,
-      "word": "医生称DeepSeek有三甲医院专家水平",
-      "onboard_time": 1740290839,
-      "rank": 14,
-      "category": "互联网,民生新闻"
-    },
-    {
       "raw_hot": 363239,
       "num": 363239,
       "word": "缺觉的人全身都在发炎",
@@ -443,12 +451,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 331160,
-      "num": 331160,
-      "word": "胡静老公跪在地上帮她拍照",
-      "onboard_time": 1740291319,
-      "rank": 16,
-      "category": "综艺"
+      "raw_hot": 327986,
+      "num": 327986,
+      "word": "男主死追女主装死",
+      "onboard_time": 1740290719,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 326729,
@@ -499,6 +507,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 282096,
+      "num": 330597,
+      "word": "老人花2万多买床垫拆开主材是泡沫",
+      "onboard_time": 1740291378,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 280070,
       "num": 280070,
       "word": "浙江人实现一户一雪人",
@@ -513,6 +529,14 @@
       "onboard_time": 1740254232,
       "rank": 11,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 276345,
+      "num": 428827,
+      "word": "新加坡一航班因故障返航旅客发声",
+      "onboard_time": 1740291319,
+      "rank": 9,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 271724,
@@ -577,14 +601,6 @@
       "onboard_time": 1740285439,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 237814,
-      "num": 237814,
-      "word": "男主死追女主装死",
-      "onboard_time": 1740290719,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 236527,
@@ -747,6 +763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 192013,
+      "num": 192013,
+      "word": "一家四口有8个群",
+      "onboard_time": 1740292099,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191564,
       "num": 216334,
       "word": "东契奇的魔法又回来了",
@@ -787,8 +811,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 188739,
-      "num": 188739,
+      "raw_hot": 189899,
+      "num": 189899,
       "word": "朴成训 阿迪达斯",
       "onboard_time": 1740291259,
       "rank": 36,
@@ -1043,6 +1067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159822,
+      "num": 325001,
+      "word": "张文昕谈和肖战庄达菲对手戏幕后",
+      "onboard_time": 1740292400,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 159759,
       "num": 159759,
       "word": "仙台有树结局升华了",
@@ -1164,7 +1196,7 @@
     },
     {
       "raw_hot": 138115,
-      "num": 138115,
+      "num": 208629,
       "word": "朱易 随机应变",
       "onboard_time": 1740286939,
       "rank": 41,
@@ -1211,11 +1243,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 126392,
-      "num": 126392,
-      "word": "一家四口有8个群",
-      "onboard_time": 1740292099,
-      "rank": 47,
+      "raw_hot": 127053,
+      "num": 206591,
+      "word": "赵磊直播唱难哄OST",
+      "onboard_time": 1740292639,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -1249,6 +1281,14 @@
       "onboard_time": 1740237322,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 122880,
+      "num": 122880,
+      "word": "何炅选魏大勋最百搭旅游搭子",
+      "onboard_time": 1740292698,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 121912,
@@ -1475,12 +1515,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 79444,
+      "num": 222584,
+      "word": "国外一枪手扮律师进法院杀黑帮老大",
+      "onboard_time": 1740291440,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 78524,
       "num": 81566,
       "word": "DeepSeek评2025年十大赚钱行业",
       "onboard_time": 1740227361,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 68297,
+      "num": 358693,
+      "word": "特朗普说要把给乌克兰的钱要回来",
+      "onboard_time": 1740292158,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 65746,
@@ -1505,14 +1561,6 @@
       "onboard_time": 1740282859,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 61813,
-      "num": 428827,
-      "word": "新加坡一航班因故障返航旅客发声",
-      "onboard_time": 1740291319,
-      "rank": 9,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 55671,
@@ -1545,14 +1593,6 @@
       "onboard_time": 1740275058,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 51696,
-      "num": 330597,
-      "word": "老人花2万多买床垫拆开主材是泡沫",
-      "onboard_time": 1740291378,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 51413,
@@ -1593,14 +1633,6 @@
       "onboard_time": 1740239181,
       "rank": 49,
       "category": "汽车,互联网"
-    },
-    {
-      "raw_hot": 40113,
-      "num": 222584,
-      "word": "国外一枪手扮律师进法院杀黑帮老大",
-      "onboard_time": 1740291440,
-      "rank": 29,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 38987,
