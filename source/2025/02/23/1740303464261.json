@@ -1,0 +1,410 @@
+{
+  "runTime": 1740303464261,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1392168,
+        "num": 1392168,
+        "word": "3名本科生不存在违规操作",
+        "onboard_time": 1740294439,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1352585,
+        "num": 1352585,
+        "word": "白敬亭小号为难哄改名",
+        "onboard_time": 1740299600,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54130,
+        "num": 1084080,
+        "word": "2025春运多项数据创历史新高",
+        "onboard_time": 1740297800,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 918635,
+        "num": 918635,
+        "word": "黄子琪因拍消失的她患深海恐惧症",
+        "onboard_time": 1740300740,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 430205,
+        "num": 430205,
+        "word": "郭艾伦要求队友担责或需提供证明",
+        "onboard_time": 1740298098,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 373637,
+        "num": 373637,
+        "word": "王楚钦突破自己的最好成绩",
+        "onboard_time": 1740297559,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 474665,
+        "num": 330725,
+        "word": "塌房大主播集体复活",
+        "onboard_time": 1740301818,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 423367,
+        "num": 291901,
+        "word": "难哄12集口碑",
+        "onboard_time": 1740295878,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248326,
+        "num": 248326,
+        "word": "女孩逃票进景区后坠亡景区被判无责",
+        "onboard_time": 1740279319,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 227846,
+        "num": 227846,
+        "word": "来深毕业生免费7天住升级为15天",
+        "onboard_time": 1740300859,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3218042,
+        "num": 227473,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1740301458,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1505976,
+        "num": 225693,
+        "word": "十个勤天演唱会疑似抄袭五月天",
+        "onboard_time": 1740302479,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 998270,
+        "num": 224461,
+        "word": "舒肤佳 李昀锐",
+        "onboard_time": 1740300440,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356595,
+        "num": 223781,
+        "word": "男主死追女主装死",
+        "onboard_time": 1740290719,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287977,
+        "num": 221273,
+        "word": "马斯克称泽连斯基已被开除",
+        "onboard_time": 1740293959,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 393645,
+        "num": 220735,
+        "word": "医生称DeepSeek有三甲医院专家水平",
+        "onboard_time": 1740290839,
+        "rank": 15,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 340228,
+        "num": 218800,
+        "word": "胡静老公跪在地上帮她拍照",
+        "onboard_time": 1740291319,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281279,
+        "num": 218591,
+        "word": "周深的回复是我的淡斑精华",
+        "onboard_time": 1740297978,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274984,
+        "num": 216027,
+        "word": "姚晨闷声干大事",
+        "onboard_time": 1740282258,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 267559,
+        "num": 214938,
+        "word": "我妈不情愿照护爷爷奶奶的那些年",
+        "onboard_time": 1740293358,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 257768,
+        "num": 214181,
+        "word": "年轻人也开始得带状疱疹了",
+        "onboard_time": 1740301458,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253251,
+        "num": 212219,
+        "word": "哪吒2票房136亿",
+        "onboard_time": 1740295759,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 227852,
+        "num": 211861,
+        "word": "余承恩说自己脸再小就没了",
+        "onboard_time": 1740301818,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210691,
+        "num": 210691,
+        "word": "金泰亨肌肉",
+        "onboard_time": 1740302059,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50219,
+        "num": 188298,
+        "word": "王楚钦回应首进亚洲杯决赛",
+        "onboard_time": 1740298699,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178776,
+        "num": 178776,
+        "word": "难哄",
+        "onboard_time": 1740285500,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169788,
+        "num": 169788,
+        "word": "戚薇李承铉到底有多少情侣装",
+        "onboard_time": 1740299119,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157941,
+        "num": 157941,
+        "word": "难哄云合登顶",
+        "onboard_time": 1740302179,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161903,
+        "num": 156546,
+        "word": "董力躺大街上帮老婆拍照",
+        "onboard_time": 1740303139,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149733,
+        "num": 149733,
+        "word": "王兴兴自曝英语考300次只及格过3次",
+        "onboard_time": 1740301458,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175349,
+        "num": 149623,
+        "word": "国防部深感诧异强烈不满",
+        "onboard_time": 1740302659,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 149382,
+        "num": 149382,
+        "word": "男子买二手车故障频出厂家倒闭维修难",
+        "onboard_time": 1740299179,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148581,
+        "num": 148581,
+        "word": "AG轮换公告",
+        "onboard_time": 1740295400,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20331,
+        "num": 142163,
+        "word": "澳方心知肚明情况下对中方无理指责",
+        "onboard_time": 1740302118,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 140913,
+        "num": 140913,
+        "word": "六姊妹母亲可以不完美",
+        "onboard_time": 1740298879,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136499,
+        "num": 136499,
+        "word": "胖东来决定来郑州开店",
+        "onboard_time": 1740279558,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133808,
+        "num": 133808,
+        "word": "民警高铁上细心盘问救下被卖婴儿",
+        "onboard_time": 1740298938,
+        "rank": 36,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 133040,
+        "num": 133040,
+        "word": "终于有部剧还原了我的高清童年",
+        "onboard_time": 1740288978,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131241,
+        "num": 131241,
+        "word": "云合",
+        "onboard_time": 1740302239,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124221,
+        "num": 124221,
+        "word": "哪吒3催更到联合国了",
+        "onboard_time": 1740286880,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121469,
+        "num": 121469,
+        "word": "肖战素颜复古黑框眼镜",
+        "onboard_time": 1740298938,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 115613,
+        "num": 115613,
+        "word": "女生患乳腺癌后称要重视月经异常",
+        "onboard_time": 1740282017,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115435,
+        "num": 115435,
+        "word": "林允自产团综",
+        "onboard_time": 1740300560,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110678,
+        "num": 110678,
+        "word": "黄杨钿甜艺考照",
+        "onboard_time": 1740286819,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110182,
+        "num": 110182,
+        "word": "哪吒2冲向全球票房第7",
+        "onboard_time": 1740303201,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116906,
+        "num": 110074,
+        "word": "过安检时肖战仰了仰头",
+        "onboard_time": 1740283819,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106351,
+        "num": 106351,
+        "word": "马库斯被北京的空气质量震惊了",
+        "onboard_time": 1740300379,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105704,
+        "num": 105704,
+        "word": "中医称百病都是由伤寒来的",
+        "onboard_time": 1740301339,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103766,
+        "num": 103766,
+        "word": "孙颖莎甩手后一顿暴抽许昕调侃学我",
+        "onboard_time": 1740302901,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97823,
+        "num": 97823,
+        "word": "小伙好心搀扶老人却被打了5个耳光",
+        "onboard_time": 1740301339,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#民营企业要保持爱拼会赢精气神#"
+    }
+  }
+}

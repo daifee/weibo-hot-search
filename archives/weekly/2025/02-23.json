@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740302572533,
+  "endTime": 1740303464261,
   "band_list": [
     {
       "raw_hot": 4198472,
@@ -59,6 +59,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1352585,
+      "num": 1352585,
+      "word": "白敬亭小号为难哄改名",
+      "onboard_time": 1740299600,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1248933,
       "num": 431009,
       "word": "29岁女子新婚被打失明男方获刑11年",
@@ -91,14 +99,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1180195,
-      "num": 1180195,
-      "word": "白敬亭小号为难哄改名",
-      "onboard_time": 1740299600,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1163298,
       "num": 1163298,
       "word": "孙颖莎也嫌黄色衣服晃眼",
@@ -113,6 +113,14 @@
       "onboard_time": 1740290839,
       "rank": 14,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 998270,
+      "num": 283166,
+      "word": "舒肤佳 李昀锐",
+      "onboard_time": 1740300440,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 970137,
@@ -155,6 +163,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 918635,
+      "num": 918635,
+      "word": "黄子琪因拍消失的她患深海恐惧症",
+      "onboard_time": 1740300740,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 916175,
       "num": 797294,
       "word": "黄杨钿甜艺考照",
@@ -177,14 +193,6 @@
       "onboard_time": 1740274038,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 768361,
-      "num": 768361,
-      "word": "黄子琪因拍消失的她患深海恐惧症",
-      "onboard_time": 1740300740,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 756907,
@@ -347,14 +355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 551966,
-      "num": 283166,
-      "word": "舒肤佳 李昀锐",
-      "onboard_time": 1740300440,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 549632,
       "num": 256830,
       "word": "28岁未婚未育女生确诊卵巢癌",
@@ -417,6 +417,14 @@
       "onboard_time": 1740298098,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 474665,
+      "num": 330725,
+      "word": "塌房大主播集体复活",
+      "onboard_time": 1740301818,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 455410,
@@ -651,6 +659,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 281279,
+      "num": 272183,
+      "word": "周深的回复是我的淡斑精华",
+      "onboard_time": 1740297978,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 280070,
       "num": 280070,
       "word": "浙江人实现一户一雪人",
@@ -673,14 +689,6 @@
       "onboard_time": 1740295400,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 272183,
-      "num": 272183,
-      "word": "周深的回复是我的淡斑精华",
-      "onboard_time": 1740297978,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 271724,
@@ -713,6 +721,14 @@
       "onboard_time": 1740237082,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 257768,
+      "num": 229904,
+      "word": "年轻人也开始得带状疱疹了",
+      "onboard_time": 1740301458,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 249191,
@@ -811,20 +827,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 229904,
-      "num": 229904,
-      "word": "年轻人也开始得带状疱疹了",
-      "onboard_time": 1740301458,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 229363,
       "num": 229363,
       "word": "戚薇李承铉到底有多少情侣装",
       "onboard_time": 1740299119,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 227852,
+      "num": 211861,
+      "word": "余承恩说自己脸再小就没了",
+      "onboard_time": 1740301818,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 227846,
+      "num": 287412,
+      "word": "来深毕业生免费7天住升级为15天",
+      "onboard_time": 1740300859,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 225805,
@@ -883,6 +907,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 210691,
+      "num": 210691,
+      "word": "金泰亨肌肉",
+      "onboard_time": 1740302059,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206160,
       "num": 206160,
       "word": "舒淇恭喜姚晨",
@@ -905,14 +937,6 @@
       "onboard_time": 1740295099,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 202455,
-      "num": 274432,
-      "word": "塌房大主播集体复活",
-      "onboard_time": 1740301818,
-      "rank": 19,
-      "category": "网红"
     },
     {
       "raw_hot": 201742,
@@ -1027,14 +1051,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 189204,
-      "num": 189204,
-      "word": "余承恩说自己脸再小就没了",
-      "onboard_time": 1740301818,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 188670,
       "num": 188670,
       "word": "吴昕怎么掏个包都这么有梗",
@@ -1145,6 +1161,14 @@
       "onboard_time": 1740233183,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175349,
+      "num": 149623,
+      "word": "国防部深感诧异强烈不满",
+      "onboard_time": 1740302659,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 174878,
@@ -1283,14 +1307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164158,
-      "num": 164158,
-      "word": "金泰亨肌肉",
-      "onboard_time": 1740302059,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 163564,
       "num": 163564,
       "word": "DeepSeek",
@@ -1313,6 +1329,14 @@
       "onboard_time": 1740295759,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161903,
+      "num": 156546,
+      "word": "董力躺大街上帮老婆拍照",
+      "onboard_time": 1740303139,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 161463,
@@ -1699,14 +1723,6 @@
       "category": "健康医疗,美食"
     },
     {
-      "raw_hot": 119006,
-      "num": 287412,
-      "word": "来深毕业生免费7天住升级为15天",
-      "onboard_time": 1740300859,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 118173,
       "num": 160354,
       "word": "詹姆斯化身吃饼人",
@@ -1721,6 +1737,14 @@
       "onboard_time": 1740236722,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115435,
+      "num": 115435,
+      "word": "林允自产团综",
+      "onboard_time": 1740300560,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 115302,
@@ -1753,14 +1777,6 @@
       "onboard_time": 1740219379,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 112607,
-      "num": 112607,
-      "word": "林允自产团综",
-      "onboard_time": 1740300560,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 112472,
@@ -1796,11 +1812,19 @@
     },
     {
       "raw_hot": 111328,
-      "num": 111328,
+      "num": 188298,
       "word": "王楚钦回应首进亚洲杯决赛",
       "onboard_time": 1740298699,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110182,
+      "num": 110182,
+      "word": "哪吒2冲向全球票房第7",
+      "onboard_time": 1740303201,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 109099,
@@ -1857,6 +1881,14 @@
       "onboard_time": 1740284119,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103766,
+      "num": 103766,
+      "word": "孙颖莎甩手后一顿暴抽许昕调侃学我",
+      "onboard_time": 1740302901,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 103179,
@@ -2020,7 +2052,7 @@
     },
     {
       "raw_hot": 64732,
-      "num": 923516,
+      "num": 1084080,
       "word": "2025春运多项数据创历史新高",
       "onboard_time": 1740297800,
       "rank": 2,
@@ -2233,6 +2265,14 @@
       "onboard_time": 1740251292,
       "rank": 36,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 20331,
+      "num": 142163,
+      "word": "澳方心知肚明情况下对中方无理指责",
+      "onboard_time": 1740302118,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 19443,
