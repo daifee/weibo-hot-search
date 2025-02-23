@@ -1,6 +1,6 @@
 {
   "startTime": 1740327929685,
-  "endTime": 1740339335145,
+  "endTime": 1740342191337,
   "band_list": [
     {
       "raw_hot": 1749367,
@@ -531,6 +531,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 21800,
+      "num": 21800,
+      "word": "男孩高情商化解大人的尴尬",
+      "onboard_time": 1740339012,
+      "rank": 47,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 20795,
       "num": 33601,
       "word": "吴艳妮60米栏8秒16再夺冠",
@@ -539,12 +547,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 18042,
-      "num": 18042,
-      "word": "男孩高情商化解大人的尴尬",
-      "onboard_time": 1740339012,
-      "rank": 47,
-      "category": "正能量"
+      "raw_hot": 18651,
+      "num": 18651,
+      "word": "火车上破获一起买卖婴儿案",
+      "onboard_time": 1740339431,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16802,
@@ -579,6 +587,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 11457,
+      "num": 18320,
+      "word": "2000多年前的青铜神兽吐舌卖萌",
+      "onboard_time": 1740340631,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11374,
       "num": 42845,
       "word": "文化中国行文博日历",
@@ -593,6 +609,14 @@
       "onboard_time": 1740337452,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 8448,
+      "num": 31868,
+      "word": "高三女生离家出走被女警抱抱",
+      "onboard_time": 1740341830,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 7016,
