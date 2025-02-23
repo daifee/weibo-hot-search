@@ -1,0 +1,410 @@
+{
+  "runTime": 1740299992166,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2030361,
+        "num": 2030361,
+        "word": "3名本科生不存在违规操作",
+        "onboard_time": 1740294439,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 954411,
+        "num": 954411,
+        "word": "难哄12集口碑",
+        "onboard_time": 1740295878,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62717,
+        "num": 693439,
+        "word": "2025春运多项数据创历史新高",
+        "onboard_time": 1740297800,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 617623,
+        "num": 617623,
+        "word": "男主死追女主装死",
+        "onboard_time": 1740290719,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 520040,
+        "num": 520040,
+        "word": "医生称DeepSeek有三甲医院专家水平",
+        "onboard_time": 1740290839,
+        "rank": 4,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 329637,
+        "num": 329637,
+        "word": "AG轮换公告",
+        "onboard_time": 1740295400,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 462809,
+        "num": 307864,
+        "word": "姚晨闷声干大事",
+        "onboard_time": 1740282258,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 373312,
+        "num": 299299,
+        "word": "哪吒2票房136亿",
+        "onboard_time": 1740295759,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 283323,
+        "num": 283323,
+        "word": "女孩逃票进景区后坠亡景区被判无责",
+        "onboard_time": 1740279319,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 130188,
+        "num": 280917,
+        "word": "民警高铁上细心盘问救下被卖婴儿",
+        "onboard_time": 1740298938,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 664568,
+        "num": 277933,
+        "word": "我妈不情愿照护爷爷奶奶的那些年",
+        "onboard_time": 1740293358,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 443174,
+        "num": 273634,
+        "word": "胡静老公跪在地上帮她拍照",
+        "onboard_time": 1740291319,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 392842,
+        "num": 271009,
+        "word": "马斯克称泽连斯基已被开除",
+        "onboard_time": 1740293959,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 386799,
+        "num": 267158,
+        "word": "郭艾伦要求队友担责或需提供证明",
+        "onboard_time": 1740298098,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 312855,
+        "num": 260715,
+        "word": "王楚钦突破自己的最好成绩",
+        "onboard_time": 1740297559,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260516,
+        "num": 260516,
+        "word": "王楚钦4比2胜林昀儒",
+        "onboard_time": 1740295400,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251414,
+        "num": 251414,
+        "word": "周深的回复是我的淡斑精华",
+        "onboard_time": 1740297978,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244946,
+        "num": 244946,
+        "word": "终于有部剧还原了我的高清童年",
+        "onboard_time": 1740288978,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239721,
+        "num": 239721,
+        "word": "黄杨钿甜艺考照",
+        "onboard_time": 1740286819,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76970,
+        "num": 239356,
+        "word": "男子买二手车故障频出厂家倒闭维修难",
+        "onboard_time": 1740299179,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239218,
+        "num": 239218,
+        "word": "湖北一地明确生三孩奖励3万",
+        "onboard_time": 1740293898,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236394,
+        "num": 236394,
+        "word": "白敬亭小号为难哄改名",
+        "onboard_time": 1740299600,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220838,
+        "num": 220838,
+        "word": "章若楠新剧真梦游vs假梦游",
+        "onboard_time": 1740295400,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215439,
+        "num": 215439,
+        "word": "哪吒3催更到联合国了",
+        "onboard_time": 1740286880,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 63866,
+        "num": 200346,
+        "word": "国乒亚洲杯23日赛程",
+        "onboard_time": 1740299359,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200096,
+        "num": 200096,
+        "word": "祝绪丹来黄明昊演唱会当站姐",
+        "onboard_time": 1740299540,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 196456,
+        "num": 196456,
+        "word": "难哄",
+        "onboard_time": 1740285500,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187264,
+        "num": 187264,
+        "word": "王曼昱给球迷送香蕉",
+        "onboard_time": 1740295099,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186303,
+        "num": 186303,
+        "word": "肖战素颜复古黑框眼镜",
+        "onboard_time": 1740298938,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 18810,
+        "num": 158151,
+        "word": "医学专家评AI看病局限性",
+        "onboard_time": 1740299238,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153306,
+        "num": 153306,
+        "word": "女生患乳腺癌后称要重视月经异常",
+        "onboard_time": 1740282017,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152566,
+        "num": 152566,
+        "word": "胖东来决定来郑州开店",
+        "onboard_time": 1740279558,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148703,
+        "num": 148703,
+        "word": "为什么天气还这么冷",
+        "onboard_time": 1740273439,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166674,
+        "num": 148612,
+        "word": "过安检时肖战仰了仰头",
+        "onboard_time": 1740283819,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148161,
+        "num": 148161,
+        "word": "六姊妹母亲可以不完美",
+        "onboard_time": 1740298879,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144339,
+        "num": 144339,
+        "word": "老人花2万多买床垫拆开主材是泡沫",
+        "onboard_time": 1740291378,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142303,
+        "num": 142303,
+        "word": "四川5人清理化粪池4人遇险身亡",
+        "onboard_time": 1740298459,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141301,
+        "num": 141301,
+        "word": "戚薇李承铉到底有多少情侣装",
+        "onboard_time": 1740299119,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127279,
+        "num": 127279,
+        "word": "年轻人为什么对大牌美妆祛魅了",
+        "onboard_time": 1740294138,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 125788,
+        "num": 125788,
+        "word": "一家四口有8个群",
+        "onboard_time": 1740292099,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123282,
+        "num": 123282,
+        "word": "HYBE男团为创亚2学员传递团魂",
+        "onboard_time": 1740297439,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116620,
+        "num": 116620,
+        "word": "八方来财",
+        "onboard_time": 1740297140,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114610,
+        "num": 114610,
+        "word": "孙颖莎也嫌黄色衣服晃眼",
+        "onboard_time": 1740282978,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112388,
+        "num": 112388,
+        "word": "糖艺师用白砂糖做了一只鸭翅",
+        "onboard_time": 1740298759,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 112273,
+        "num": 112273,
+        "word": "王楚钦胜林昀儒",
+        "onboard_time": 1740299899,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111642,
+        "num": 111642,
+        "word": "中国男篮vs关岛男篮",
+        "onboard_time": 1740297140,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111328,
+        "num": 111328,
+        "word": "王楚钦回应首进亚洲杯决赛",
+        "onboard_time": 1740298699,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103535,
+        "num": 103535,
+        "word": "00后花2万相亲匹配到近40岁男子",
+        "onboard_time": 1740288260,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103103,
+        "num": 103103,
+        "word": "王曼昱说决赛全力以赴拼莎莎",
+        "onboard_time": 1740295820,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102551,
+        "num": 102551,
+        "word": "杨迪在机场等粉丝上厕所",
+        "onboard_time": 1740289520,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#民营企业和民营企业家勇担重任#"
+    }
+  }
+}

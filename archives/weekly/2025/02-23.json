@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740299257098,
+  "endTime": 1740299992166,
   "band_list": [
     {
       "raw_hot": 2241383,
@@ -251,6 +251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 664568,
+      "num": 433242,
+      "word": "我妈不情愿照护爷爷奶奶的那些年",
+      "onboard_time": 1740293358,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 659269,
       "num": 659269,
       "word": "美女网红救人去世母亲车祸父亲发声",
@@ -273,14 +281,6 @@
       "onboard_time": 1740293959,
       "rank": 12,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 629162,
-      "num": 433242,
-      "word": "我妈不情愿照护爷爷奶奶的那些年",
-      "onboard_time": 1740293358,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 592668,
@@ -411,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 386799,
+      "num": 267158,
+      "word": "郭艾伦要求队友担责或需提供证明",
+      "onboard_time": 1740298098,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 381961,
       "num": 381961,
       "word": "肖战赴约米兰",
@@ -433,6 +441,14 @@
       "onboard_time": 1740246974,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 373312,
+      "num": 339792,
+      "word": "哪吒2票房136亿",
+      "onboard_time": 1740295759,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 367804,
@@ -523,14 +539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 339792,
-      "num": 339792,
-      "word": "哪吒2票房136亿",
-      "onboard_time": 1740295759,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
       "raw_hot": 338353,
       "num": 428827,
       "word": "新加坡一航班因故障返航旅客发声",
@@ -563,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 312855,
+      "num": 260715,
+      "word": "王楚钦突破自己的最好成绩",
+      "onboard_time": 1740297559,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 311635,
       "num": 311635,
       "word": "加拿大民众请愿撤销马斯克公民身份",
@@ -585,14 +601,6 @@
       "onboard_time": 1740292158,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 282762,
-      "num": 147810,
-      "word": "郭艾伦要求队友担责或需提供证明",
-      "onboard_time": 1740298098,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 282542,
@@ -659,6 +667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 251414,
+      "num": 251414,
+      "word": "周深的回复是我的淡斑精华",
+      "onboard_time": 1740297978,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 249191,
       "num": 249191,
       "word": "难哄",
@@ -705,6 +721,14 @@
       "onboard_time": 1740230721,
       "rank": 21,
       "category": "艺人,艺人"
+    },
+    {
+      "raw_hot": 236394,
+      "num": 236394,
+      "word": "白敬亭小号为难哄改名",
+      "onboard_time": 1740299600,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 235323,
@@ -795,14 +819,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 214663,
-      "num": 201979,
-      "word": "周深的回复是我的淡斑精华",
-      "onboard_time": 1740297978,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 213760,
       "num": 213760,
       "word": "特朗普要从乌克兰获得任何能得的",
@@ -817,14 +833,6 @@
       "onboard_time": 1740228382,
       "rank": 16,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 208894,
-      "num": 208894,
-      "word": "王楚钦突破自己的最好成绩",
-      "onboard_time": 1740297559,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 206160,
@@ -865,6 +873,14 @@
       "onboard_time": 1740282079,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 200096,
+      "num": 200096,
+      "word": "祝绪丹来黄明昊演唱会当站姐",
+      "onboard_time": 1740299540,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 199990,
@@ -977,6 +993,14 @@
       "onboard_time": 1740279619,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 186303,
+      "num": 186303,
+      "word": "肖战素颜复古黑框眼镜",
+      "onboard_time": 1740298938,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 184847,
@@ -1299,6 +1323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148161,
+      "num": 148161,
+      "word": "六姊妹母亲可以不完美",
+      "onboard_time": 1740298879,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147711,
       "num": 147711,
       "word": "年轻人为什么对大牌美妆祛魅了",
@@ -1347,14 +1379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 143229,
-      "num": 143229,
-      "word": "肖战素颜复古黑框眼镜",
-      "onboard_time": 1740298938,
-      "rank": 32,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 142004,
       "num": 142004,
       "word": "滤镜预告",
@@ -1369,6 +1393,14 @@
       "onboard_time": 1740295820,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141301,
+      "num": 141301,
+      "word": "戚薇李承铉到底有多少情侣装",
+      "onboard_time": 1740299119,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 138951,
@@ -1449,6 +1481,14 @@
       "onboard_time": 1740297439,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130188,
+      "num": 280917,
+      "word": "民警高铁上细心盘问救下被卖婴儿",
+      "onboard_time": 1740298938,
+      "rank": 23,
+      "category": "正能量"
     },
     {
       "raw_hot": 129027,
@@ -1539,14 +1579,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 120528,
-      "num": 120528,
-      "word": "六姊妹母亲可以不完美",
-      "onboard_time": 1740298879,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 120100,
       "num": 120100,
       "word": "西芹汁治好了我30年的起床困难症",
@@ -1603,6 +1635,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 112273,
+      "num": 112273,
+      "word": "王楚钦胜林昀儒",
+      "onboard_time": 1740299899,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 111642,
+      "num": 111642,
+      "word": "中国男篮vs关岛男篮",
+      "onboard_time": 1740297140,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111382,
       "num": 111382,
       "word": "官方通报女子抱孩子投河",
@@ -1611,20 +1659,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111328,
+      "num": 111328,
+      "word": "王楚钦回应首进亚洲杯决赛",
+      "onboard_time": 1740298699,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109099,
       "num": 433628,
       "word": "国能置业再回应拟录用名单质疑",
       "onboard_time": 1740294439,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 108017,
-      "num": 108017,
-      "word": "王楚钦回应首进亚洲杯决赛",
-      "onboard_time": 1740298699,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 107302,
@@ -1675,14 +1723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 103008,
-      "num": 103008,
-      "word": "戚薇李承铉到底有多少情侣装",
-      "onboard_time": 1740299119,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 102238,
       "num": 102238,
       "word": "赵磊发红包",
@@ -1705,14 +1745,6 @@
       "onboard_time": 1740264192,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 100893,
-      "num": 100893,
-      "word": "中国男篮vs关岛男篮",
-      "onboard_time": 1740297140,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 98871,
@@ -1827,20 +1859,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 71624,
-      "num": 136525,
+      "raw_hot": 76970,
+      "num": 239356,
       "word": "男子买二手车故障频出厂家倒闭维修难",
       "onboard_time": 1740299179,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 69696,
-      "num": 172353,
-      "word": "民警高铁上细心盘问救下被卖婴儿",
-      "onboard_time": 1740298938,
-      "rank": 23,
-      "category": "正能量"
     },
     {
       "raw_hot": 65746,
@@ -1865,6 +1889,14 @@
       "onboard_time": 1740297800,
       "rank": 2,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 63866,
+      "num": 200346,
+      "word": "国乒亚洲杯23日赛程",
+      "onboard_time": 1740299359,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 62813,
@@ -2067,6 +2099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 18810,
+      "num": 158151,
+      "word": "医学专家评AI看病局限性",
+      "onboard_time": 1740299238,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17919,
       "num": 146049,
       "word": "DeepSeek评35岁职场危机",
@@ -2089,14 +2129,6 @@
       "onboard_time": 1740247574,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 14367,
-      "num": 113804,
-      "word": "医学专家评AI看病局限性",
-      "onboard_time": 1740299238,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12515,
