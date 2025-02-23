@@ -1,0 +1,410 @@
+{
+  "runTime": 1740315305227,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3045444,
+        "num": 3045444,
+        "word": "孙颖莎亚洲杯亚军",
+        "onboard_time": 1740313342,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2992374,
+        "num": 2992374,
+        "word": "王曼昱亚洲杯冠军",
+        "onboard_time": 1740313522,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38811,
+        "num": 1814594,
+        "word": "我国海洋工程装备制造连续7年霸榜全球",
+        "onboard_time": 1740297020,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1700278,
+        "num": 1700278,
+        "word": "不允许城镇居民到农村购买宅基地",
+        "onboard_time": 1740310700,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1599530,
+        "num": 1599530,
+        "word": "王曼昱vs孙颖莎",
+        "onboard_time": 1740307820,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 895965,
+        "num": 895965,
+        "word": "塌房大主播集体复活",
+        "onboard_time": 1740301818,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 826187,
+        "num": 826187,
+        "word": "孙颖莎王曼昱场边休息神画面",
+        "onboard_time": 1740312622,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 776574,
+        "num": 776574,
+        "word": "哪吒2冲向全球票房第7",
+        "onboard_time": 1740303201,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 672776,
+        "num": 672776,
+        "word": "樊振东巴奥挫伤了张本智和的士气",
+        "onboard_time": 1740310578,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70307,
+        "num": 651621,
+        "word": "深入整治低俗表演活动",
+        "onboard_time": 1740311900,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3115187,
+        "num": 650827,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1740301458,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1018005,
+        "num": 650551,
+        "word": "鹿晗关晓彤分手博坚持打卡2694天",
+        "onboard_time": 1740311359,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 649621,
+        "num": 649621,
+        "word": "2025年中央一号文件发布",
+        "onboard_time": 1740304699,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 609320,
+        "num": 609320,
+        "word": "王楚钦vs梁靖崑",
+        "onboard_time": 1740311660,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 559676,
+        "num": 559676,
+        "word": "推进农村高额彩礼问题综合治理",
+        "onboard_time": 1740306500,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 558548,
+        "num": 558548,
+        "word": "黄子琪因拍消失的她患深海恐惧症",
+        "onboard_time": 1740300740,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 458484,
+        "num": 458484,
+        "word": "3名本科生不存在违规操作",
+        "onboard_time": 1740294439,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 458154,
+        "num": 458154,
+        "word": "白敬亭小号为难哄改名",
+        "onboard_time": 1740299600,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 442289,
+        "num": 442289,
+        "word": "舒肤佳 李昀锐",
+        "onboard_time": 1740300440,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319618,
+        "num": 435014,
+        "word": "enhypen直播",
+        "onboard_time": 1740314421,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 434502,
+        "num": 434502,
+        "word": "王曼昱4比0孙颖莎",
+        "onboard_time": 1740314003,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 416675,
+        "num": 416675,
+        "word": "将进酒",
+        "onboard_time": 1740306979,
+        "rank": 21,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 412883,
+        "num": 412883,
+        "word": "代露娃出发时装周线下人气",
+        "onboard_time": 1740313642,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 177456,
+        "num": 400640,
+        "word": "厌食女子被加喂营养餐多脏器衰竭",
+        "onboard_time": 1740315080,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396724,
+        "num": 396724,
+        "word": "95后情侣夜市摆摊卖麻糍日入4000元",
+        "onboard_time": 1740304278,
+        "rank": 24,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 235136,
+        "num": 391322,
+        "word": "孙颖莎亚洲杯银牌",
+        "onboard_time": 1740314960,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 389311,
+        "num": 389311,
+        "word": "王曼昱关键暂停",
+        "onboard_time": 1740312679,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 364614,
+        "num": 364614,
+        "word": "孟子义蓝色抹胸长裙",
+        "onboard_time": 1740313943,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 350380,
+        "num": 350380,
+        "word": "李清照出现的那刻太惊艳",
+        "onboard_time": 1740312622,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 305002,
+        "num": 347130,
+        "word": "韩国ins最具影响力TOP10",
+        "onboard_time": 1740313582,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345199,
+        "num": 345199,
+        "word": "十个勤天演唱会疑似抄袭五月天",
+        "onboard_time": 1740302479,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 332308,
+        "num": 332308,
+        "word": "黄山遭遇大雪多名游客在台阶滑倒",
+        "onboard_time": 1740312500,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275125,
+        "num": 275125,
+        "word": "孙颖莎收到球迷震耳欲聋的爱",
+        "onboard_time": 1740315140,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89180,
+        "num": 268075,
+        "word": "泄露6000农民隐私不是失误是失职",
+        "onboard_time": 1740313464,
+        "rank": 33,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 265644,
+        "num": 265644,
+        "word": "1米58女子厌食体重如8岁",
+        "onboard_time": 1740304278,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263265,
+        "num": 263265,
+        "word": "虞书欣机车婚纱造型",
+        "onboard_time": 1740311538,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250283,
+        "num": 250283,
+        "word": "迪丽热巴出发长沙录开推",
+        "onboard_time": 1740306979,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245124,
+        "num": 245124,
+        "word": "难哄",
+        "onboard_time": 1740310700,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239538,
+        "num": 239538,
+        "word": "叫狗名狗不理法院判定不是狗主人",
+        "onboard_time": 1740313102,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238425,
+        "num": 238425,
+        "word": "TES对战iG",
+        "onboard_time": 1740309680,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 238122,
+        "num": 238122,
+        "word": "哪吒2票房137亿",
+        "onboard_time": 1740310760,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 232645,
+        "num": 232645,
+        "word": "肖战米兰到达",
+        "onboard_time": 1740310578,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 216929,
+        "num": 216929,
+        "word": "国企拟录用3名本科生名单被删",
+        "onboard_time": 1740306021,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196953,
+        "num": 196953,
+        "word": "十刻想见你",
+        "onboard_time": 1740314122,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 195123,
+        "num": 195123,
+        "word": "亚洲杯",
+        "onboard_time": 1740314181,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188906,
+        "num": 188906,
+        "word": "看了仙台有树才知道",
+        "onboard_time": 1740312140,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210030,
+        "num": 188870,
+        "word": "肖战男模机场秀",
+        "onboard_time": 1740314662,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 188811,
+        "num": 188811,
+        "word": "iG阵容",
+        "onboard_time": 1740310578,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141119,
+        "num": 175699,
+        "word": "蒯曼完全压制",
+        "onboard_time": 1740313582,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169888,
+        "num": 169888,
+        "word": "Zeus获得LCK杯FMVP",
+        "onboard_time": 1740315261,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#民营企业和民营企业家勇担重任#"
+    }
+  }
+}
