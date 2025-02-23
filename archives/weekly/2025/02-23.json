@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740321507837,
+  "endTime": 1740324075531,
   "band_list": [
     {
       "raw_hot": 4198472,
@@ -17,6 +17,14 @@
       "onboard_time": 1740318201,
       "rank": 10,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 3213583,
+      "num": 544249,
+      "word": "陈赫回应被鹿晗关晓彤刷屏",
+      "onboard_time": 1740323242,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 3045444,
@@ -155,6 +163,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1297722,
+      "num": 529710,
+      "word": "拆迁6套房分配不均引发兄妹矛盾",
+      "onboard_time": 1740321562,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1267807,
+      "num": 1267807,
+      "word": "樊A",
+      "onboard_time": 1740320782,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1248933,
       "num": 431009,
       "word": "29岁女子新婚被打失明男方获刑11年",
@@ -243,6 +267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1010145,
+      "num": 1010145,
+      "word": "央视曝光网购陷阱",
+      "onboard_time": 1740318983,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1004426,
       "num": 1004426,
       "word": "王曼昱4比0孙颖莎",
@@ -315,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 912534,
+      "num": 912534,
+      "word": "网红罗大美转账200万元仍遭灭口",
+      "onboard_time": 1740323303,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 812791,
       "num": 812791,
       "word": "樊振东巴奥挫伤了张本智和的士气",
@@ -369,6 +409,22 @@
       "onboard_time": 1740273439,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 748768,
+      "num": 528799,
+      "word": "迪丽热巴机场和粉丝跳舞",
+      "onboard_time": 1740317183,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 725402,
+      "num": 725402,
+      "word": "章若楠好美",
+      "onboard_time": 1740319343,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 722428,
@@ -435,14 +491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 700582,
-      "num": 700582,
-      "word": "央视曝光网购陷阱",
-      "onboard_time": 1740318983,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 700370,
       "num": 700370,
       "word": "女子误踩油门撞入医院致1死1伤",
@@ -465,6 +513,14 @@
       "onboard_time": 1740278959,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 678617,
+      "num": 514564,
+      "word": "睡得少和睡得晚哪个伤害大",
+      "onboard_time": 1740322403,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 664568,
@@ -523,14 +579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 589059,
-      "num": 589059,
-      "word": "章若楠好美",
-      "onboard_time": 1740319343,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 586508,
       "num": 520441,
       "word": "女子持续发热两周未愈确诊白血病",
@@ -577,6 +625,14 @@
       "onboard_time": 1740269356,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 545294,
+      "num": 545294,
+      "word": "泽连斯基愿为和平放弃总统职位",
+      "onboard_time": 1740322523,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 540315,
@@ -635,14 +691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 528799,
-      "num": 528799,
-      "word": "迪丽热巴机场和粉丝跳舞",
-      "onboard_time": 1740317183,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 522361,
       "num": 522361,
       "word": "Rookie 菜得可怕",
@@ -657,6 +705,14 @@
       "onboard_time": 1740238281,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 513707,
+      "num": 513707,
+      "word": "被王楚钦的庆祝动作硬控了",
+      "onboard_time": 1740320602,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 507788,
@@ -763,28 +819,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 399211,
-      "num": 455469,
-      "word": "被王楚钦的庆祝动作硬控了",
-      "onboard_time": 1740320602,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 389586,
       "num": 282314,
       "word": "时代少年团直播",
       "onboard_time": 1740305960,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 388116,
-      "num": 388116,
-      "word": "樊A",
-      "onboard_time": 1740320782,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 381961,
@@ -1041,6 +1081,14 @@
       "onboard_time": 1740310578,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 301902,
+      "num": 301902,
+      "word": "4岁女孩爱吃甜食确诊糖尿病",
+      "onboard_time": 1740321562,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 300176,
@@ -1467,6 +1515,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 208682,
+      "num": 208682,
+      "word": "猫耳",
+      "onboard_time": 1740323602,
+      "rank": 41,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 206451,
       "num": 360495,
       "word": "王曼昱的亚洲杯夺冠感言",
@@ -1592,6 +1648,14 @@
       "word": "王楚钦捧起奖杯",
       "onboard_time": 1740321143,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 193671,
+      "num": 324059,
+      "word": "许昕称孙颖莎输球未必是坏事",
+      "onboard_time": 1740323841,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -1755,6 +1819,14 @@
       "category": "民生新闻,电影"
     },
     {
+      "raw_hot": 180107,
+      "num": 180107,
+      "word": "林一参加黄明昊签售会",
+      "onboard_time": 1740322463,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 179319,
       "num": 179319,
       "word": "董力躺大街上帮老婆拍照",
@@ -1873,6 +1945,14 @@
       "onboard_time": 1740314781,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170022,
+      "num": 170022,
+      "word": "吴艳妮60米栏8秒16再夺冠",
+      "onboard_time": 1740322224,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 169888,
@@ -2163,6 +2243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153781,
+      "num": 1053447,
+      "word": "这些春菜里藏着春天的味道",
+      "onboard_time": 1740320242,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 152025,
       "num": 152025,
       "word": "六姊妹母亲可以不完美",
@@ -2225,6 +2313,14 @@
       "onboard_time": 1740294138,
       "rank": 38,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 146841,
+      "num": 180110,
+      "word": "黄山通报游步道结冰情况",
+      "onboard_time": 1740322463,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146154,
@@ -2513,14 +2609,6 @@
       "onboard_time": 1740221240,
       "rank": 37,
       "category": "健康医疗,美食"
-    },
-    {
-      "raw_hot": 118845,
-      "num": 1053447,
-      "word": "这些春菜里藏着春天的味道",
-      "onboard_time": 1740320242,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 118173,
@@ -3059,6 +3147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 41093,
+      "num": 547467,
+      "word": "iG发文告别第一赛段",
+      "onboard_time": 1740323482,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 40768,
       "num": 52605,
       "word": "马斯克投资的飞行汽车试飞",
@@ -3129,6 +3225,14 @@
       "onboard_time": 1740241039,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 29678,
+      "num": 481236,
+      "word": "故障航班在西安上空飞行2圈后返航",
+      "onboard_time": 1740323661,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28886,
@@ -3217,6 +3321,14 @@
       "onboard_time": 1740302118,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 20328,
+      "num": 180194,
+      "word": "王曼昱说坚持到底永不放弃",
+      "onboard_time": 1740324022,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 19443,
