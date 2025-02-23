@@ -1,17 +1,17 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740279972116,
+  "endTime": 1740281338141,
   "band_list": [
     {
       "raw_hot": 1796415,
-      "num": 367051,
+      "num": 390414,
       "word": "沈月的猫去世了",
       "onboard_time": 1740241998,
       "rank": 10,
       "category": "艺人"
     },
     {
-      "raw_hot": 1386949,
+      "raw_hot": 1537201,
       "num": 1386949,
       "word": "偶像剧终于有不回避成长女主了",
       "onboard_time": 1740277639,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 777166,
-      "num": 777166,
+      "num": 1109287,
       "word": "哪吒票房",
       "onboard_time": 1740275599,
       "rank": 8,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 722428,
-      "num": 367815,
+      "num": 424797,
       "word": "曹操说Yellow中文翻译错了",
       "onboard_time": 1740276618,
       "rank": 11,
@@ -123,6 +123,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 607941,
+      "num": 607941,
+      "word": "女孩逃票进景区后坠亡景区被判无责",
+      "onboard_time": 1740279319,
+      "rank": 43,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 600944,
+      "num": 600944,
+      "word": "石矶娘娘原身能拉出比头发还细的丝",
+      "onboard_time": 1740278959,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 556008,
       "num": 554972,
       "word": "国家能源集团官网删除拟录用公示名单",
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 549632,
-      "num": 214345,
+      "num": 228332,
       "word": "28岁未婚未育女生确诊卵巢癌",
       "onboard_time": 1740269356,
       "rank": 20,
@@ -155,6 +171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 537835,
+      "num": 537835,
+      "word": "孙颖莎vs陈幸同",
+      "onboard_time": 1740279259,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 534199,
       "num": 534199,
       "word": "台当局宣布封杀三所大陆高校遭猛批",
@@ -171,12 +195,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 483868,
-      "num": 293088,
-      "word": "石矶娘娘原身能拉出比头发还细的丝",
-      "onboard_time": 1740278959,
-      "rank": 18,
-      "category": "电影"
+      "raw_hot": 494986,
+      "num": 229007,
+      "word": "胖东来决定来郑州开店",
+      "onboard_time": 1740279558,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 430512,
@@ -193,6 +217,14 @@
       "onboard_time": 1740268336,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 387767,
+      "num": 306457,
+      "word": "沈月说我好想出去看看春天啊",
+      "onboard_time": 1740279200,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 381961,
@@ -212,7 +244,7 @@
     },
     {
       "raw_hot": 367804,
-      "num": 209100,
+      "num": 227856,
       "word": "科学家测算出人类灭绝时间",
       "onboard_time": 1740276438,
       "rank": 21,
@@ -339,6 +371,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246635,
+      "num": 442070,
+      "word": "重庆排队吃轻轨",
+      "onboard_time": 1740279558,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 243491,
+      "num": 226856,
+      "word": "长歌行动画开播",
+      "onboard_time": 1740280038,
+      "rank": 25,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 236527,
       "num": 168300,
       "word": "王鹤棣肉眼可见的慌乱",
@@ -361,6 +409,14 @@
       "onboard_time": 1740240739,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 230699,
+      "num": 230699,
+      "word": "哪吒2票房超135亿",
+      "onboard_time": 1740280219,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 225805,
@@ -403,30 +459,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 196777,
-      "num": 196777,
-      "word": "沈月说我好想出去看看春天啊",
-      "onboard_time": 1740279200,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 195702,
-      "num": 190140,
-      "word": "胖东来决定来郑州开店",
-      "onboard_time": 1740279558,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 192802,
-      "num": 192802,
-      "word": "女孩逃票进景区后坠亡景区被判无责",
-      "onboard_time": 1740279319,
-      "rank": 43,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 192108,
       "num": 192108,
       "word": "EDG对阵G2",
@@ -457,6 +489,14 @@
       "onboard_time": 1740276559,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186516,
+      "num": 206576,
+      "word": "要求美方停止甩锅到中方头上",
+      "onboard_time": 1740279619,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 180416,
@@ -563,14 +603,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 161781,
-      "num": 193706,
-      "word": "孙颖莎vs陈幸同",
-      "onboard_time": 1740279259,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 161093,
       "num": 143017,
       "word": "周杰伦五月天唱了难哄主题曲",
@@ -603,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151322,
+      "num": 151322,
+      "word": "全红婵又变身带娃德华了",
+      "onboard_time": 1740280878,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150465,
       "num": 164306,
       "word": "肖战再出发米兰时装周",
@@ -617,6 +657,14 @@
       "onboard_time": 1740241998,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145673,
+      "num": 152636,
+      "word": "向太包场支持哪吒2",
+      "onboard_time": 1740280638,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 136633,
@@ -641,6 +689,14 @@
       "onboard_time": 1740228622,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 129027,
+      "num": 129027,
+      "word": "滤镜",
+      "onboard_time": 1740280519,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 126135,
@@ -675,14 +731,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 124634,
-      "num": 206576,
-      "word": "要求美方停止甩锅到中方头上",
-      "onboard_time": 1740279619,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 121773,
       "num": 121773,
       "word": "黄明昊杨超越双人舞",
@@ -697,14 +745,6 @@
       "onboard_time": 1740221240,
       "rank": 37,
       "category": "健康医疗,美食"
-    },
-    {
-      "raw_hot": 118948,
-      "num": 118948,
-      "word": "重庆排队吃轻轨",
-      "onboard_time": 1740279558,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116077,
@@ -836,7 +876,7 @@
     },
     {
       "raw_hot": 86204,
-      "num": 86204,
+      "num": 227395,
       "word": "王楚钦一个动作全场安静",
       "onboard_time": 1740271638,
       "rank": 43,
