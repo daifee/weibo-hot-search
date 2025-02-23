@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740306180200,
+  "endTime": 1740307178377,
   "band_list": [
     {
       "raw_hot": 4198472,
@@ -19,6 +19,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2205143,
+      "num": 2205143,
+      "word": "塌房大主播集体复活",
+      "onboard_time": 1740301818,
+      "rank": 19,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1962897,
       "num": 1962897,
       "word": "姚晨闷声干大事",
@@ -33,14 +41,6 @@
       "onboard_time": 1740279319,
       "rank": 43,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 1928815,
-      "num": 1928815,
-      "word": "塌房大主播集体复活",
-      "onboard_time": 1740301818,
-      "rank": 19,
-      "category": "网红"
     },
     {
       "raw_hot": 1796415,
@@ -65,6 +65,14 @@
       "onboard_time": 1740277639,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1435996,
+      "num": 1435996,
+      "word": "2025年中央一号文件发布",
+      "onboard_time": 1740304699,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1352585,
@@ -185,14 +193,6 @@
       "onboard_time": 1740286819,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 907625,
-      "num": 907625,
-      "word": "2025年中央一号文件发布",
-      "onboard_time": 1740304699,
-      "rank": 3,
-      "category": "国内时政"
     },
     {
       "raw_hot": 808429,
@@ -355,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 574795,
+      "num": 275717,
+      "word": "国防部深感诧异强烈不满",
+      "onboard_time": 1740302659,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 556008,
       "num": 554972,
       "word": "国家能源集团官网删除拟录用公示名单",
@@ -419,20 +427,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 520357,
-      "num": 202135,
-      "word": "国防部深感诧异强烈不满",
-      "onboard_time": 1740302659,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 520220,
       "num": 520220,
       "word": "敖光",
       "onboard_time": 1740238281,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 507099,
+      "num": 254803,
+      "word": "95后情侣夜市摆摊卖麻糍日入4000元",
+      "onboard_time": 1740304278,
+      "rank": 20,
+      "category": "正能量"
     },
     {
       "raw_hot": 492059,
@@ -451,12 +459,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 451282,
-      "num": 194566,
-      "word": "95后情侣夜市摆摊卖麻糍日入4000元",
+      "raw_hot": 434522,
+      "num": 252600,
+      "word": "1米58女子厌食体重如8岁",
       "onboard_time": 1740304278,
-      "rank": 20,
-      "category": "正能量"
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 430512,
@@ -483,14 +491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 415370,
-      "num": 192558,
-      "word": "1米58女子厌食体重如8岁",
-      "onboard_time": 1740304278,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 400532,
       "num": 294834,
       "word": "女生患乳腺癌后称要重视月经异常",
@@ -505,6 +505,14 @@
       "onboard_time": 1740297559,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 389586,
+      "num": 282314,
+      "word": "时代少年团直播",
+      "onboard_time": 1740305960,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 381961,
@@ -603,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 347569,
+      "num": 252279,
+      "word": "哪吒2冲向全球票房第7",
+      "onboard_time": 1740303201,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 346141,
       "num": 407274,
       "word": "现实版哪吒敖丙身高差",
@@ -628,7 +644,7 @@
     },
     {
       "raw_hot": 339753,
-      "num": 210691,
+      "num": 275626,
       "word": "金泰亨肌肉",
       "onboard_time": 1740302059,
       "rank": 32,
@@ -668,7 +684,7 @@
     },
     {
       "raw_hot": 314845,
-      "num": 191862,
+      "num": 244705,
       "word": "突然发现单休比双休多上7年班",
       "onboard_time": 1740304340,
       "rank": 22,
@@ -689,14 +705,6 @@
       "onboard_time": 1740276018,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 301602,
-      "num": 190267,
-      "word": "哪吒2冲向全球票房第7",
-      "onboard_time": 1740303201,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 300176,
@@ -777,6 +785,14 @@
       "onboard_time": 1740267254,
       "rank": 40,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 267451,
+      "num": 267451,
+      "word": "推进农村高额彩礼问题综合治理",
+      "onboard_time": 1740306500,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 263320,
@@ -963,14 +979,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 209330,
-      "num": 195931,
-      "word": "时代少年团直播",
-      "onboard_time": 1740305960,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 206160,
       "num": 206160,
       "word": "舒淇恭喜姚晨",
@@ -993,6 +1001,14 @@
       "onboard_time": 1740295099,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204079,
+      "num": 204079,
+      "word": "阿信晒与周杰伦合唱新单曲初舞台",
+      "onboard_time": 1740306259,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 201742,
@@ -1025,6 +1041,14 @@
       "onboard_time": 1740267674,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 197046,
+      "num": 197046,
+      "word": "国企拟录用3名本科生名单被删",
+      "onboard_time": 1740306021,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195345,
@@ -1235,12 +1259,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173503,
+      "num": 173503,
+      "word": "将进酒",
+      "onboard_time": 1740306979,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 172828,
       "num": 172828,
       "word": "饺子导演谈哪吒2成功的关键",
       "onboard_time": 1740281957,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 172660,
+      "num": 172660,
+      "word": "赵磊希望记住我而不是哪个团的",
+      "onboard_time": 1740306559,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 172112,
@@ -1491,6 +1531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154012,
+      "num": 154012,
+      "word": "迪丽热巴出发长沙录开推",
+      "onboard_time": 1740306979,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152025,
       "num": 152025,
       "word": "六姊妹母亲可以不完美",
@@ -1587,6 +1635,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 145606,
+      "num": 275926,
+      "word": "林诗栋vs林昀儒",
+      "onboard_time": 1740306679,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 144967,
+      "num": 144967,
+      "word": "白鹿北上物料",
+      "onboard_time": 1740306141,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143396,
       "num": 143396,
       "word": "永远在自救的古偶女主",
@@ -1609,6 +1673,14 @@
       "onboard_time": 1740295820,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140042,
+      "num": 140042,
+      "word": "家属还原网红罗大美遇害细节",
+      "onboard_time": 1740305361,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138951,
@@ -1636,7 +1708,7 @@
     },
     {
       "raw_hot": 136935,
-      "num": 136935,
+      "num": 187633,
       "word": "王楚钦林昀儒世界级对攻",
       "onboard_time": 1740297978,
       "rank": 34,
@@ -1697,6 +1769,14 @@
       "onboard_time": 1740297439,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130347,
+      "num": 130347,
+      "word": "马库斯被北京的空气质量震惊了",
+      "onboard_time": 1740300379,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129027,
@@ -1811,14 +1891,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 115614,
-      "num": 115614,
-      "word": "家属还原网红罗大美遇害细节",
-      "onboard_time": 1740305361,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 115435,
       "num": 115435,
       "word": "林允自产团综",
@@ -1833,14 +1905,6 @@
       "onboard_time": 1740237621,
       "rank": 39,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 114153,
-      "num": 114153,
-      "word": "马库斯被北京的空气质量震惊了",
-      "onboard_time": 1740300379,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 114127,
@@ -1881,14 +1945,6 @@
       "onboard_time": 1740297140,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 111870,
-      "num": 165402,
-      "word": "国企拟录用3名本科生名单被删",
-      "onboard_time": 1740306021,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111382,
@@ -1937,14 +1993,6 @@
       "onboard_time": 1740236362,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 105875,
-      "num": 105875,
-      "word": "白鹿北上物料",
-      "onboard_time": 1740306141,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 104509,
@@ -2083,8 +2131,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 82124,
-      "num": 108421,
+      "raw_hot": 84156,
+      "num": 131216,
       "word": "胡兵和申公豹的共同点找到了",
       "onboard_time": 1740304699,
       "rank": 46,
@@ -2147,6 +2195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66419,
+      "num": 255519,
+      "word": "为什么越规划越焦虑",
+      "onboard_time": 1740305719,
+      "rank": 19,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 65746,
       "num": 1355442,
       "word": "今年国之重器的目标看热血了",
@@ -2164,7 +2220,7 @@
     },
     {
       "raw_hot": 64732,
-      "num": 1084080,
+      "num": 1107644,
       "word": "2025春运多项数据创历史新高",
       "onboard_time": 1740297800,
       "rank": 2,
@@ -2241,6 +2297,14 @@
       "onboard_time": 1740282199,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 49413,
+      "num": 276511,
+      "word": "持续整治形式主义为基层减负",
+      "onboard_time": 1740306319,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 48280,
@@ -2427,20 +2491,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 12564,
+      "num": 188544,
+      "word": "哪吒2放映国家越来越多",
+      "onboard_time": 1740306979,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 12515,
       "num": 47877,
       "word": "辅警火场救人后一氧化碳中毒狂吐",
       "onboard_time": 1740255431,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11795,
-      "num": 195350,
-      "word": "为什么越规划越焦虑",
-      "onboard_time": 1740305719,
-      "rank": 19,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 11692,
@@ -2505,6 +2569,14 @@
       "onboard_time": 1740254831,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 6414,
+      "num": 168213,
+      "word": "总制片人谈六姊妹为何受欢迎",
+      "onboard_time": 1740307160,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 5839,
