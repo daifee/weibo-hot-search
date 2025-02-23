@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740320424694,
+  "endTime": 1740321507837,
   "band_list": [
     {
       "raw_hot": 4198472,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1730311,
+      "num": 717522,
+      "word": "鹿晗关晓彤分手博坚持打卡2694天",
+      "onboard_time": 1740311359,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1700278,
       "num": 1700278,
       "word": "不允许城镇居民到农村购买宅基地",
@@ -145,14 +153,6 @@
       "onboard_time": 1740299600,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1279642,
-      "num": 717522,
-      "word": "鹿晗关晓彤分手博坚持打卡2694天",
-      "onboard_time": 1740311359,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1248933,
@@ -235,6 +235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1020092,
+      "num": 523055,
+      "word": "内裤袜子丢进洗衣机真比手洗好",
+      "onboard_time": 1740318683,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1004426,
       "num": 1004426,
       "word": "王曼昱4比0孙颖莎",
@@ -276,7 +284,7 @@
     },
     {
       "raw_hot": 926827,
-      "num": 531484,
+      "num": 531910,
       "word": "王曼昱让观战粉丝保护嗓子",
       "onboard_time": 1740316943,
       "rank": 40,
@@ -305,14 +313,6 @@
       "onboard_time": 1740286819,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 854732,
-      "num": 440959,
-      "word": "内裤袜子丢进洗衣机真比手洗好",
-      "onboard_time": 1740318683,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 812791,
@@ -427,6 +427,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 701231,
+      "num": 701231,
+      "word": "桑延 来财",
+      "onboard_time": 1740316220,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 700582,
+      "num": 700582,
+      "word": "央视曝光网购陷阱",
+      "onboard_time": 1740318983,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 700370,
       "num": 700370,
       "word": "女子误踩油门撞入医院致1死1伤",
@@ -449,14 +465,6 @@
       "onboard_time": 1740278959,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 673913,
-      "num": 673913,
-      "word": "桑延 来财",
-      "onboard_time": 1740316220,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 664568,
@@ -513,6 +521,14 @@
       "onboard_time": 1740279200,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 589059,
+      "num": 589059,
+      "word": "章若楠好美",
+      "onboard_time": 1740319343,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 586508,
@@ -617,6 +633,22 @@
       "onboard_time": 1740313582,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 528799,
+      "num": 528799,
+      "word": "迪丽热巴机场和粉丝跳舞",
+      "onboard_time": 1740317183,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 522361,
+      "num": 522361,
+      "word": "Rookie 菜得可怕",
+      "onboard_time": 1740319822,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 520220,
@@ -731,12 +763,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 399211,
+      "num": 455469,
+      "word": "被王楚钦的庆祝动作硬控了",
+      "onboard_time": 1740320602,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 389586,
       "num": 282314,
       "word": "时代少年团直播",
       "onboard_time": 1740305960,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 388116,
+      "num": 388116,
+      "word": "樊A",
+      "onboard_time": 1740320782,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 381961,
@@ -777,14 +825,6 @@
       "onboard_time": 1740311538,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 370244,
-      "num": 370244,
-      "word": "迪丽热巴机场和粉丝跳舞",
-      "onboard_time": 1740317183,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 369669,
@@ -931,19 +971,11 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 337675,
-      "num": 337675,
-      "word": "央视曝光网购陷阱",
-      "onboard_time": 1740318983,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 330443,
-      "num": 341791,
-      "word": "章若楠好美",
-      "onboard_time": 1740319343,
-      "rank": 29,
+      "raw_hot": 333348,
+      "num": 333348,
+      "word": "难哄追剧日历",
+      "onboard_time": 1740319942,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -1089,6 +1121,14 @@
       "onboard_time": 1740254232,
       "rank": 11,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 275532,
+      "num": 563402,
+      "word": "22个超大特大城市重排座次",
+      "onboard_time": 1740318502,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 274152,
@@ -1331,14 +1371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 226221,
-      "num": 226221,
-      "word": "难哄追剧日历",
-      "onboard_time": 1740319942,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 225850,
       "num": 225850,
       "word": "亚洲杯",
@@ -1435,14 +1467,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 210223,
-      "num": 210223,
-      "word": "Rookie 菜得可怕",
-      "onboard_time": 1740319822,
-      "rank": 43,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 206451,
       "num": 360495,
       "word": "王曼昱的亚洲杯夺冠感言",
@@ -1465,14 +1489,6 @@
       "onboard_time": 1740295220,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205882,
-      "num": 563402,
-      "word": "22个超大特大城市重排座次",
-      "onboard_time": 1740318502,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 205159,
@@ -1569,6 +1585,14 @@
       "onboard_time": 1740312441,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193744,
+      "num": 193744,
+      "word": "王楚钦捧起奖杯",
+      "onboard_time": 1740321143,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 193392,
@@ -2355,6 +2379,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 131347,
+      "num": 535895,
+      "word": "男子被酒店装饰砸伤缝6针索赔17万",
+      "onboard_time": 1740320182,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130447,
       "num": 130447,
       "word": "HYBE男团为创亚2学员传递团魂",
@@ -2481,6 +2513,14 @@
       "onboard_time": 1740221240,
       "rank": 37,
       "category": "健康医疗,美食"
+    },
+    {
+      "raw_hot": 118845,
+      "num": 1053447,
+      "word": "这些春菜里藏着春天的味道",
+      "onboard_time": 1740320242,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 118173,
@@ -3003,6 +3043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42543,
+      "num": 328074,
+      "word": "IG无缘全球先锋赛",
+      "onboard_time": 1740321323,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 42162,
       "num": 248266,
       "word": "美国意图获取乌克兰港口收益的一半",
@@ -3017,6 +3065,14 @@
       "onboard_time": 1740239181,
       "rank": 49,
       "category": "汽车,互联网"
+    },
+    {
+      "raw_hot": 40682,
+      "num": 260092,
+      "word": "TES晋级败者组下一轮",
+      "onboard_time": 1740321383,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 38987,
@@ -3075,12 +3131,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 27916,
-      "num": 346279,
-      "word": "男子被酒店装饰砸伤缝6针索赔17万",
-      "onboard_time": 1740320182,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 28886,
+      "num": 455077,
+      "word": "巴菲特称绝大多数资金仍投向股票",
+      "onboard_time": 1740321323,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 27681,
@@ -3283,14 +3339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 7101,
-      "num": 1053447,
-      "word": "这些春菜里藏着春天的味道",
-      "onboard_time": 1740320242,
-      "rank": 2,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 6743,
       "num": 25398,
       "word": "媒体评U20国青小将将撑起国足大梁",
@@ -3322,6 +3370,9 @@
     },
     {
       "word": "#民营企业要保持爱拼会赢精气神#"
+    },
+    {
+      "word": "#扎实推进乡村全面振兴#"
     }
   ]
 }
