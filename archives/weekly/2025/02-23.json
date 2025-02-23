@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740317710792,
+  "endTime": 1740320424694,
   "band_list": [
     {
       "raw_hot": 4198472,
@@ -9,6 +9,14 @@
       "onboard_time": 1740301458,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3601714,
+      "num": 557961,
+      "word": "某某",
+      "onboard_time": 1740318201,
+      "rank": 10,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 3045444,
@@ -75,6 +83,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1837643,
+      "num": 1837643,
+      "word": "王楚钦亚洲杯金牌",
+      "onboard_time": 1740317244,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1796415,
       "num": 437517,
       "word": "沈月的猫去世了",
@@ -131,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1279642,
+      "num": 717522,
+      "word": "鹿晗关晓彤分手博坚持打卡2694天",
+      "onboard_time": 1740311359,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1248933,
       "num": 431009,
       "word": "29岁女子新婚被打失明男方获刑11年",
@@ -185,14 +209,6 @@
       "onboard_time": 1740306979,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1135938,
-      "num": 717522,
-      "word": "鹿晗关晓彤分手博坚持打卡2694天",
-      "onboard_time": 1740311359,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1115563,
@@ -259,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 926827,
+      "num": 531484,
+      "word": "王曼昱让观战粉丝保护嗓子",
+      "onboard_time": 1740316943,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 922988,
       "num": 1147678,
       "word": "看似养胃其实伤胃的4件事",
@@ -281,6 +305,14 @@
       "onboard_time": 1740286819,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 854732,
+      "num": 440959,
+      "word": "内裤袜子丢进洗衣机真比手洗好",
+      "onboard_time": 1740318683,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 812791,
@@ -379,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 709370,
+      "num": 709370,
+      "word": "肖战男模机场秀",
+      "onboard_time": 1740314662,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 705828,
       "num": 922932,
       "word": "已婚女谎称是毒枭女儿诈骗男子160万",
@@ -409,6 +449,14 @@
       "onboard_time": 1740278959,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 673913,
+      "num": 673913,
+      "word": "桑延 来财",
+      "onboard_time": 1740316220,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 664568,
@@ -563,12 +611,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 530859,
+      "num": 530859,
+      "word": "韩国ins最具影响力TOP10",
+      "onboard_time": 1740313582,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 520220,
       "num": 520220,
       "word": "敖光",
       "onboard_time": 1740238281,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 507788,
+      "num": 507788,
+      "word": "王楚钦夺冠现场放光辉岁月",
+      "onboard_time": 1740317961,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 492059,
@@ -627,14 +691,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 426146,
-      "num": 529357,
-      "word": "肖战男模机场秀",
-      "onboard_time": 1740314662,
-      "rank": 46,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 425339,
       "num": 425339,
       "word": "老人花2万多买床垫拆开主材是泡沫",
@@ -644,7 +700,7 @@
     },
     {
       "raw_hot": 412883,
-      "num": 438730,
+      "num": 442755,
       "word": "代露娃出发时装周线下人气",
       "onboard_time": 1740313642,
       "rank": 19,
@@ -723,19 +779,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 370244,
+      "num": 370244,
+      "word": "迪丽热巴机场和粉丝跳舞",
+      "onboard_time": 1740317183,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 369669,
       "num": 369669,
       "word": "林诗栋vs林昀儒",
       "onboard_time": 1740306679,
       "rank": 13,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 369451,
-      "num": 327772,
-      "word": "王曼昱让观战粉丝保护嗓子",
-      "onboard_time": 1740316943,
-      "rank": 40,
       "category": "体育"
     },
     {
@@ -745,14 +801,6 @@
       "onboard_time": 1740276438,
       "rank": 21,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 367128,
-      "num": 367128,
-      "word": "韩国ins最具影响力TOP10",
-      "onboard_time": 1740313582,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 364727,
@@ -851,14 +899,6 @@
       "category": "民生新闻,电影"
     },
     {
-      "raw_hot": 344602,
-      "num": 344602,
-      "word": "桑延 来财",
-      "onboard_time": 1740316220,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 344422,
       "num": 344422,
       "word": "你好星期六下期是难哄剧组",
@@ -889,6 +929,22 @@
       "onboard_time": 1740291319,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 337675,
+      "num": 337675,
+      "word": "央视曝光网购陷阱",
+      "onboard_time": 1740318983,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 330443,
+      "num": 341791,
+      "word": "章若楠好美",
+      "onboard_time": 1740319343,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 326729,
@@ -931,28 +987,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 312721,
-      "num": 575204,
-      "word": "王楚钦亚洲杯金牌",
-      "onboard_time": 1740317244,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 311635,
       "num": 311635,
       "word": "加拿大民众请愿撤销马斯克公民身份",
       "onboard_time": 1740276018,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 311234,
-      "num": 311234,
-      "word": "迪丽热巴机场和粉丝跳舞",
-      "onboard_time": 1740317183,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 310766,
@@ -1083,6 +1123,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 265978,
+      "num": 265978,
+      "word": "王楚钦说很开心活到了最后",
+      "onboard_time": 1740318021,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 263320,
       "num": 263320,
       "word": "王楚钦提醒对手球台上有汗",
@@ -1203,6 +1251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 234645,
+      "num": 291456,
+      "word": "下周气温开启大回暖",
+      "onboard_time": 1740315980,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 232963,
       "num": 232963,
       "word": "iG阵容",
@@ -1272,6 +1328,14 @@
       "word": "看了仙台有树才知道",
       "onboard_time": 1740312140,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 226221,
+      "num": 226221,
+      "word": "难哄追剧日历",
+      "onboard_time": 1740319942,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -1371,6 +1435,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 210223,
+      "num": 210223,
+      "word": "Rookie 菜得可怕",
+      "onboard_time": 1740319822,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 206451,
+      "num": 360495,
+      "word": "王曼昱的亚洲杯夺冠感言",
+      "onboard_time": 1740318383,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206160,
       "num": 206160,
       "word": "舒淇恭喜姚晨",
@@ -1385,6 +1465,14 @@
       "onboard_time": 1740295220,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205882,
+      "num": 563402,
+      "word": "22个超大特大城市重排座次",
+      "onboard_time": 1740318502,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 205159,
@@ -1449,6 +1537,14 @@
       "onboard_time": 1740267674,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 197275,
+      "num": 197275,
+      "word": "王楚钦夺冠",
+      "onboard_time": 1740320242,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 196953,
@@ -1667,6 +1763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177266,
+      "num": 177266,
+      "word": "王曼昱孙颖莎蒯曼登上领奖台",
+      "onboard_time": 1740317722,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177078,
       "num": 177078,
       "word": "赵磊希望记住我而不是哪个团的",
@@ -1761,6 +1865,14 @@
       "onboard_time": 1740299179,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169463,
+      "num": 169463,
+      "word": "fog",
+      "onboard_time": 1740319102,
+      "rank": 49,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 168831,
@@ -2627,14 +2739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88326,
-      "num": 291456,
-      "word": "下周气温开启大回暖",
-      "onboard_time": 1740315980,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 86204,
       "num": 227395,
       "word": "王楚钦一个动作全场安静",
@@ -2971,6 +3075,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 27916,
+      "num": 346279,
+      "word": "男子被酒店装饰砸伤缝6针索赔17万",
+      "onboard_time": 1740320182,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27681,
       "num": 241185,
       "word": "林诗栋亚洲杯男单摘铜",
@@ -3169,6 +3281,14 @@
       "onboard_time": 1740248773,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 7101,
+      "num": 1053447,
+      "word": "这些春菜里藏着春天的味道",
+      "onboard_time": 1740320242,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 6743,

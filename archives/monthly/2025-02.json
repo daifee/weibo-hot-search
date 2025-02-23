@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740317710792,
+  "endTime": 1740320424694,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -401,6 +401,14 @@
       "onboard_time": 1738986867,
       "rank": 10,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 3601714,
+      "num": 557961,
+      "word": "某某",
+      "onboard_time": 1740318201,
+      "rank": 10,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 3560113,
@@ -1937,6 +1945,14 @@
       "onboard_time": 1739950641,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1837643,
+      "num": 1837643,
+      "word": "王楚钦亚洲杯金牌",
+      "onboard_time": 1740317244,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 1836965,
@@ -3771,6 +3787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1279642,
+      "num": 717522,
+      "word": "鹿晗关晓彤分手博坚持打卡2694天",
+      "onboard_time": 1740311359,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1278985,
       "num": 1278985,
       "word": "丽江机场被曝撕头等舱乘客登机牌",
@@ -4561,14 +4585,6 @@
       "onboard_time": 1740306979,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 1135938,
-      "num": 717522,
-      "word": "鹿晗关晓彤分手博坚持打卡2694天",
-      "onboard_time": 1740311359,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1135025,
@@ -6227,6 +6243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 926827,
+      "num": 531484,
+      "word": "王曼昱让观战粉丝保护嗓子",
+      "onboard_time": 1740316943,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 926272,
       "num": 943273,
       "word": "大批妙瓦底电诈园受害者被救",
@@ -6873,6 +6897,14 @@
       "onboard_time": 1738716620,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 854732,
+      "num": 440959,
+      "word": "内裤袜子丢进洗衣机真比手洗好",
+      "onboard_time": 1740318683,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 854456,
@@ -8739,6 +8771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 709370,
+      "num": 709370,
+      "word": "肖战男模机场秀",
+      "onboard_time": 1740314662,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 709282,
       "num": 550094,
       "word": "陈丽君大圣太帅了",
@@ -9257,6 +9297,14 @@
       "onboard_time": 1739696839,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 673913,
+      "num": 673913,
+      "word": "桑延 来财",
+      "onboard_time": 1740316220,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 673670,
@@ -12547,6 +12595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 530859,
+      "num": 530859,
+      "word": "韩国ins最具影响力TOP10",
+      "onboard_time": 1740313582,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 530818,
       "num": 530818,
       "word": "初十",
@@ -13233,6 +13289,14 @@
       "onboard_time": 1738590810,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 507788,
+      "num": 507788,
+      "word": "王楚钦夺冠现场放光辉岁月",
+      "onboard_time": 1740317961,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 507288,
@@ -15787,14 +15851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 426146,
-      "num": 529357,
-      "word": "肖战男模机场秀",
-      "onboard_time": 1740314662,
-      "rank": 46,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 425832,
       "num": 425832,
       "word": "漫城定档情人节",
@@ -16228,7 +16284,7 @@
     },
     {
       "raw_hot": 412883,
-      "num": 438730,
+      "num": 442755,
       "word": "代露娃出发时装周线下人气",
       "onboard_time": 1740313642,
       "rank": 19,
@@ -18043,6 +18099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 370244,
+      "num": 370244,
+      "word": "迪丽热巴机场和粉丝跳舞",
+      "onboard_time": 1740317183,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 370234,
       "num": 370234,
       "word": "王濛发视频怒斥韩国选手推搡林孝埈",
@@ -18097,14 +18161,6 @@
       "onboard_time": 1740031762,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 369451,
-      "num": 327772,
-      "word": "王曼昱让观战粉丝保护嗓子",
-      "onboard_time": 1740316943,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 368908,
@@ -18169,14 +18225,6 @@
       "onboard_time": 1738894281,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 367128,
-      "num": 367128,
-      "word": "韩国ins最具影响力TOP10",
-      "onboard_time": 1740313582,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 367072,
@@ -19283,14 +19331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 344602,
-      "num": 344602,
-      "word": "桑延 来财",
-      "onboard_time": 1740316220,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 344422,
       "num": 344422,
       "word": "你好星期六下期是难哄剧组",
@@ -19691,6 +19731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 337675,
+      "num": 337675,
+      "word": "央视曝光网购陷阱",
+      "onboard_time": 1740318983,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 337417,
       "num": 337417,
       "word": "邓为勇闯贞洁烈男赛道",
@@ -19969,6 +20017,14 @@
       "onboard_time": 1740206060,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 330443,
+      "num": 341791,
+      "word": "章若楠好美",
+      "onboard_time": 1740319343,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 330316,
@@ -21091,14 +21147,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 312721,
-      "num": 575204,
-      "word": "王楚钦亚洲杯金牌",
-      "onboard_time": 1740317244,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 312663,
       "num": 534843,
       "word": "男子怕媳妇看到酒瓶直接从18楼抛出",
@@ -21153,14 +21201,6 @@
       "onboard_time": 1738672403,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 311234,
-      "num": 311234,
-      "word": "迪丽热巴机场和粉丝跳舞",
-      "onboard_time": 1740317183,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 311187,
@@ -24387,6 +24427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 265978,
+      "num": 265978,
+      "word": "王楚钦说很开心活到了最后",
+      "onboard_time": 1740318021,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 265940,
       "num": 265940,
       "word": "林高远14比16赵大成",
@@ -27475,6 +27523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234645,
+      "num": 291456,
+      "word": "下周气温开启大回暖",
+      "onboard_time": 1740315980,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 234591,
       "num": 234591,
       "word": "母亲说今后不会出现伤害瑶一瑶情况",
@@ -28561,6 +28617,14 @@
       "onboard_time": 1738493719,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 226221,
+      "num": 226221,
+      "word": "难哄追剧日历",
+      "onboard_time": 1740319942,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 226180,
@@ -31043,6 +31107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210223,
+      "num": 210223,
+      "word": "Rookie 菜得可怕",
+      "onboard_time": 1740319822,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 210216,
       "num": 250945,
       "word": "仙台有树倒退式追剧",
@@ -31803,6 +31875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206451,
+      "num": 360495,
+      "word": "王曼昱的亚洲杯夺冠感言",
+      "onboard_time": 1740318383,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206428,
       "num": 206428,
       "word": "难哄给哄蜜把汪苏泷找来了",
@@ -31945,6 +32025,14 @@
       "onboard_time": 1740295220,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205882,
+      "num": 563402,
+      "word": "22个超大特大城市重排座次",
+      "onboard_time": 1740318502,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 205842,
@@ -34161,6 +34249,14 @@
       "onboard_time": 1739268141,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197275,
+      "num": 197275,
+      "word": "王楚钦夺冠",
+      "onboard_time": 1740320242,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 197245,
@@ -39163,6 +39259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177266,
+      "num": 177266,
+      "word": "王曼昱孙颖莎蒯曼登上领奖台",
+      "onboard_time": 1740317722,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177147,
       "num": 261468,
       "word": "日语版就是哪吒",
@@ -40849,6 +40953,14 @@
       "onboard_time": 1740299179,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169463,
+      "num": 169463,
+      "word": "fog",
+      "onboard_time": 1740319102,
+      "rank": 49,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 169446,
@@ -58547,14 +58659,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 88326,
-      "num": 291456,
-      "word": "下周气温开启大回暖",
-      "onboard_time": 1740315980,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88177,
       "num": 244574,
       "word": "谢娜这段时间一直陪孩子们",
@@ -68595,6 +68699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 27916,
+      "num": 346279,
+      "word": "男子被酒店装饰砸伤缝6针索赔17万",
+      "onboard_time": 1740320182,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27906,
       "num": 303349,
       "word": "胡兵纽约时装周街拍碎片",
@@ -73025,6 +73137,14 @@
       "onboard_time": 1739471833,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 7101,
+      "num": 1053447,
+      "word": "这些春菜里藏着春天的味道",
+      "onboard_time": 1740320242,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 7028,

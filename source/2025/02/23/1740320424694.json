@@ -1,0 +1,410 @@
+{
+  "runTime": 1740320424694,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1837643,
+        "num": 1837643,
+        "word": "王楚钦亚洲杯金牌",
+        "onboard_time": 1740317244,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1377837,
+        "num": 1377837,
+        "word": "孙颖莎亚洲杯亚军",
+        "onboard_time": 1740313342,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7101,
+        "num": 1053447,
+        "word": "这些春菜里藏着春天的味道",
+        "onboard_time": 1740320242,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 825183,
+        "num": 825183,
+        "word": "不允许城镇居民到农村购买宅基地",
+        "onboard_time": 1740310700,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 765163,
+        "num": 765163,
+        "word": "王曼昱4比0孙颖莎",
+        "onboard_time": 1740314003,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 709370,
+        "num": 709370,
+        "word": "肖战男模机场秀",
+        "onboard_time": 1740314662,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 673913,
+        "num": 673913,
+        "word": "桑延 来财",
+        "onboard_time": 1740316220,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 580526,
+        "num": 580526,
+        "word": "2025年中央一号文件发布",
+        "onboard_time": 1740304699,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 569168,
+        "num": 569168,
+        "word": "哪吒2冲向全球票房第7",
+        "onboard_time": 1740303201,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 205882,
+        "num": 563402,
+        "word": "22个超大特大城市重排座次",
+        "onboard_time": 1740318502,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3601714,
+        "num": 557961,
+        "word": "某某",
+        "onboard_time": 1740318201,
+        "rank": 10,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 2430681,
+        "num": 555954,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1740301458,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1279642,
+        "num": 546933,
+        "word": "鹿晗关晓彤分手博坚持打卡2694天",
+        "onboard_time": 1740311359,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1172628,
+        "num": 539927,
+        "word": "厌食女子被加喂营养餐多脏器衰竭",
+        "onboard_time": 1740315080,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 926827,
+        "num": 531484,
+        "word": "王曼昱让观战粉丝保护嗓子",
+        "onboard_time": 1740316943,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 531427,
+        "num": 531427,
+        "word": "塌房大主播集体复活",
+        "onboard_time": 1740301818,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 530859,
+        "num": 530859,
+        "word": "韩国ins最具影响力TOP10",
+        "onboard_time": 1740313582,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 507788,
+        "num": 507788,
+        "word": "王楚钦夺冠现场放光辉岁月",
+        "onboard_time": 1740317961,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 459168,
+        "num": 459168,
+        "word": "王曼昱亚洲杯冠军",
+        "onboard_time": 1740313522,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134106,
+        "num": 442755,
+        "word": "代露娃出发时装周线下人气",
+        "onboard_time": 1740313642,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 854732,
+        "num": 440959,
+        "word": "内裤袜子丢进洗衣机真比手洗好",
+        "onboard_time": 1740318683,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 434648,
+        "num": 434648,
+        "word": "推进农村高额彩礼问题综合治理",
+        "onboard_time": 1740306500,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 392170,
+        "num": 392170,
+        "word": "黄子琪因拍消失的她患深海恐惧症",
+        "onboard_time": 1740300740,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370244,
+        "num": 370244,
+        "word": "迪丽热巴机场和粉丝跳舞",
+        "onboard_time": 1740317183,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206451,
+        "num": 360495,
+        "word": "王曼昱的亚洲杯夺冠感言",
+        "onboard_time": 1740318383,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 358522,
+        "num": 358522,
+        "word": "舒肤佳 李昀锐",
+        "onboard_time": 1740300440,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349155,
+        "num": 349155,
+        "word": "孟子义蓝色抹胸长裙",
+        "onboard_time": 1740313943,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 27916,
+        "num": 346279,
+        "word": "男子被酒店装饰砸伤缝6针索赔17万",
+        "onboard_time": 1740320182,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345444,
+        "num": 345444,
+        "word": "女子持续发热两周未愈确诊白血病",
+        "onboard_time": 1740315621,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330443,
+        "num": 341791,
+        "word": "章若楠好美",
+        "onboard_time": 1740319343,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 341416,
+        "num": 341416,
+        "word": "95后情侣夜市摆摊卖麻糍日入4000元",
+        "onboard_time": 1740304278,
+        "rank": 30,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 337675,
+        "num": 337675,
+        "word": "央视曝光网购陷阱",
+        "onboard_time": 1740318983,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292649,
+        "num": 292649,
+        "word": "白敬亭小号为难哄改名",
+        "onboard_time": 1740299600,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283800,
+        "num": 283800,
+        "word": "虞书欣机车婚纱造型",
+        "onboard_time": 1740311538,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274675,
+        "num": 274675,
+        "word": "王楚钦vs梁靖崑",
+        "onboard_time": 1740311660,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265978,
+        "num": 265978,
+        "word": "王楚钦说很开心活到了最后",
+        "onboard_time": 1740318021,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242660,
+        "num": 242660,
+        "word": "李清照出现的那刻太惊艳",
+        "onboard_time": 1740312622,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 240273,
+        "num": 240273,
+        "word": "孙颖莎收到球迷震耳欲聋的爱",
+        "onboard_time": 1740315140,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236953,
+        "num": 236953,
+        "word": "吞海",
+        "onboard_time": 1740316880,
+        "rank": 38,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 234645,
+        "num": 234645,
+        "word": "下周气温开启大回暖",
+        "onboard_time": 1740315980,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226221,
+        "num": 226221,
+        "word": "难哄追剧日历",
+        "onboard_time": 1740319942,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27280,
+        "num": 224787,
+        "word": "我国海洋工程装备制造连续7年霸榜全球",
+        "onboard_time": 1740297020,
+        "rank": 41,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 224698,
+        "num": 224698,
+        "word": "十个勤天演唱会疑似抄袭五月天",
+        "onboard_time": 1740302479,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 210223,
+        "num": 210223,
+        "word": "Rookie 菜得可怕",
+        "onboard_time": 1740319822,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 197275,
+        "num": 197275,
+        "word": "王楚钦夺冠",
+        "onboard_time": 1740320242,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190006,
+        "num": 190006,
+        "word": "营业悖论",
+        "onboard_time": 1740315801,
+        "rank": 45,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 189555,
+        "num": 189555,
+        "word": "樊振东巴奥挫伤了张本智和的士气",
+        "onboard_time": 1740310578,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184014,
+        "num": 184014,
+        "word": "王楚钦板板都是高质量",
+        "onboard_time": 1740316401,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177266,
+        "num": 177266,
+        "word": "王曼昱孙颖莎蒯曼登上领奖台",
+        "onboard_time": 1740317722,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169463,
+        "num": 169463,
+        "word": "fog",
+        "onboard_time": 1740319102,
+        "rank": 49,
+        "category": "动漫,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#民营企业和民营企业家勇担重任#"
+    }
+  }
+}
