@@ -1,6 +1,6 @@
 {
   "startTime": 1740327929685,
-  "endTime": 1740350280408,
+  "endTime": 1740352845759,
   "band_list": [
     {
       "raw_hot": 1749367,
@@ -9,6 +9,14 @@
       "onboard_time": 1740301458,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1653389,
+      "num": 1338555,
+      "word": "印度女孩13岁起被60余人性侵5年",
+      "onboard_time": 1740327438,
+      "rank": 4,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1634960,
@@ -33,14 +41,6 @@
       "onboard_time": 1740323242,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1338555,
-      "num": 1338555,
-      "word": "印度女孩13岁起被60余人性侵5年",
-      "onboard_time": 1740327438,
-      "rank": 4,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1292531,
@@ -123,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 386811,
+      "num": 386811,
+      "word": "因哪吒2爆火的影院紧急大扫除迎客",
+      "onboard_time": 1740332474,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 386608,
       "num": 305811,
       "word": "内裤袜子丢进洗衣机真比手洗好",
@@ -187,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 295341,
+      "num": 295341,
+      "word": "麦当娜炮轰特朗普",
+      "onboard_time": 1740342371,
+      "rank": 48,
+      "category": "国际时政,艺人"
+    },
+    {
       "raw_hot": 289617,
       "num": 289617,
       "word": "考研明天查分",
@@ -217,6 +233,14 @@
       "onboard_time": 1740327501,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 250496,
+      "num": 250496,
+      "word": "王曼昱使用樊A",
+      "onboard_time": 1740327679,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 246113,
@@ -272,14 +296,6 @@
       "word": "王曼昱亚洲杯冠军",
       "onboard_time": 1740313522,
       "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 209000,
-      "num": 222722,
-      "word": "王曼昱使用樊A",
-      "onboard_time": 1740327679,
-      "rank": 45,
       "category": "体育"
     },
     {
@@ -363,6 +379,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 164043,
+      "num": 164043,
+      "word": "电梯疾坠又猛冲至33楼致业主身亡",
+      "onboard_time": 1740351855,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154740,
       "num": 154740,
       "word": "林一参加黄明昊签售会",
@@ -393,6 +417,14 @@
       "onboard_time": 1740321562,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134885,
+      "num": 134885,
+      "word": "林一回应虞书欣",
+      "onboard_time": 1740352756,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 131888,
@@ -427,20 +459,36 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 119942,
-      "num": 119942,
-      "word": "因哪吒2爆火的影院紧急大扫除迎客",
-      "onboard_time": 1740332474,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 111818,
       "num": 111818,
       "word": "5个考研查分通道",
       "onboard_time": 1740328637,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 96269,
+      "num": 96269,
+      "word": "女子晒自家墓景房楼下就是考古工地",
+      "onboard_time": 1740347351,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95289,
+      "num": 95289,
+      "word": "姑娘辞职去传承女子英歌舞",
+      "onboard_time": 1740326419,
+      "rank": 39,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 94643,
+      "num": 98338,
+      "word": "郭艾伦眼睛受伤或涉及自甘风险",
+      "onboard_time": 1740331693,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 92904,
@@ -451,12 +499,28 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 73784,
-      "num": 73784,
-      "word": "麦当娜炮轰特朗普",
-      "onboard_time": 1740342371,
+      "raw_hot": 81218,
+      "num": 81218,
+      "word": "被校服男孩一个伸手暖到了",
+      "onboard_time": 1740337813,
       "rank": 48,
-      "category": "国际时政,艺人"
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 65844,
+      "num": 65844,
+      "word": "独行侠vs勇士",
+      "onboard_time": 1740352696,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 62400,
+      "num": 62400,
+      "word": "塌房大主播集体复活",
+      "onboard_time": 1740301818,
+      "rank": 40,
+      "category": "网红"
     },
     {
       "raw_hot": 60572,
@@ -475,6 +539,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57652,
+      "num": 57652,
+      "word": "日本动画导演来华狂炫中华美食",
+      "onboard_time": 1740351194,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 56981,
+      "num": 56981,
+      "word": "当我问DeepSeek对女儿最好的托举",
+      "onboard_time": 1740351494,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 56779,
       "num": 56779,
       "word": "时代少年团三专9天预售额2亿",
@@ -491,28 +571,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 45514,
-      "num": 98338,
-      "word": "郭艾伦眼睛受伤或涉及自甘风险",
-      "onboard_time": 1740331693,
-      "rank": 24,
+      "raw_hot": 43007,
+      "num": 43007,
+      "word": "乌总统称不签需十代人付出代价协议",
+      "onboard_time": 1740352696,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 39139,
+      "num": 39139,
+      "word": "王曼昱孙颖莎蒯曼合影",
+      "onboard_time": 1740349153,
+      "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 44529,
-      "num": 57723,
-      "word": "被校服男孩一个伸手暖到了",
-      "onboard_time": 1740337813,
-      "rank": 48,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 40949,
-      "num": 40949,
-      "word": "女子晒自家墓景房楼下就是考古工地",
-      "onboard_time": 1740347351,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 36333,
@@ -523,12 +595,12 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 35962,
-      "num": 64633,
-      "word": "姑娘辞职去传承女子英歌舞",
-      "onboard_time": 1740326419,
-      "rank": 39,
-      "category": "正能量"
+      "raw_hot": 32835,
+      "num": 97283,
+      "word": "团体赛王曼昱屡次发挥定海神针作用",
+      "onboard_time": 1740351914,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 32294,
@@ -536,6 +608,14 @@
       "word": "持续增强粮食等重要农产品供给保障能力",
       "onboard_time": 1740331934,
       "rank": 17,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 32254,
+      "num": 325509,
+      "word": "龙马乘组太空出差将满120天",
+      "onboard_time": 1740320002,
+      "rank": 2,
       "category": "国内时政"
     },
     {
@@ -569,22 +649,6 @@
       "onboard_time": 1740341830,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20327,
-      "num": 22696,
-      "word": "王曼昱孙颖莎蒯曼合影",
-      "onboard_time": 1740349153,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 20317,
-      "num": 284841,
-      "word": "龙马乘组太空出差将满120天",
-      "onboard_time": 1740320002,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 18651,
