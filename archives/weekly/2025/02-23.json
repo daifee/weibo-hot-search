@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740295290762,
+  "endTime": 1740296142323,
   "band_list": [
     {
       "raw_hot": 1962897,
@@ -35,6 +35,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1333447,
+      "num": 1333447,
+      "word": "3名本科生不存在违规操作",
+      "onboard_time": 1740294439,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1248933,
       "num": 431009,
       "word": "29岁女子新婚被打失明男方获刑11年",
@@ -59,8 +67,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1163303,
-      "num": 1163303,
+      "raw_hot": 1197987,
+      "num": 1197987,
       "word": "王楚钦vs林昀儒",
       "onboard_time": 1740289459,
       "rank": 5,
@@ -81,6 +89,14 @@
       "onboard_time": 1740290839,
       "rank": 14,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 970137,
+      "num": 970137,
+      "word": "男主死追女主装死",
+      "onboard_time": 1740290719,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 949169,
@@ -129,14 +145,6 @@
       "onboard_time": 1740274038,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 780035,
-      "num": 780035,
-      "word": "男主死追女主装死",
-      "onboard_time": 1740290719,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 756907,
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 711223,
-      "num": 400057,
+      "num": 433443,
       "word": "胡静老公跪在地上帮她拍照",
       "onboard_time": 1740291319,
       "rank": 16,
@@ -249,6 +257,14 @@
       "onboard_time": 1740271218,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 639276,
+      "num": 433460,
+      "word": "马斯克称泽连斯基已被开除",
+      "onboard_time": 1740293959,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 592668,
@@ -339,6 +355,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 455410,
+      "num": 455410,
+      "word": "AG轮换公告",
+      "onboard_time": 1740295400,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 433242,
+      "num": 433242,
+      "word": "我妈不情愿照护爷爷奶奶的那些年",
+      "onboard_time": 1740293358,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 430512,
       "num": 430512,
       "word": "黄雅琼和王昶遗憾告负",
@@ -369,14 +401,6 @@
       "onboard_time": 1740282017,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 386939,
-      "num": 386939,
-      "word": "马斯克称泽连斯基已被开除",
-      "onboard_time": 1740293959,
-      "rank": 12,
-      "category": "国际时政"
     },
     {
       "raw_hot": 381961,
@@ -427,6 +451,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 362272,
+      "num": 362272,
+      "word": "一家四口有8个群",
+      "onboard_time": 1740292099,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 358542,
       "num": 277086,
       "word": "何炅吐槽的人到底是谁",
@@ -451,14 +483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 350831,
-      "num": 350831,
-      "word": "我妈不情愿照护爷爷奶奶的那些年",
-      "onboard_time": 1740293358,
-      "rank": 13,
-      "category": "情感"
-    },
-    {
       "raw_hot": 346141,
       "num": 407274,
       "word": "现实版哪吒敖丙身高差",
@@ -473,14 +497,6 @@
       "onboard_time": 1740239540,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 342980,
-      "num": 342980,
-      "word": "一家四口有8个群",
-      "onboard_time": 1740292099,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 342346,
@@ -505,14 +521,6 @@
       "onboard_time": 1740234682,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 325385,
-      "num": 325385,
-      "word": "3名本科生不存在违规操作",
-      "onboard_time": 1740294439,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 322372,
@@ -643,6 +651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 236883,
+      "num": 282352,
+      "word": "王楚钦4比2胜林昀儒",
+      "onboard_time": 1740295400,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 236527,
       "num": 168300,
       "word": "王鹤棣肉眼可见的慌乱",
@@ -763,6 +779,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 205889,
+      "num": 205889,
+      "word": "赫丽摸金宇真的开推了",
+      "onboard_time": 1740295220,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 204146,
+      "num": 210531,
+      "word": "王曼昱给球迷送香蕉",
+      "onboard_time": 1740295099,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201742,
       "num": 201742,
       "word": "孙颖莎胜陈幸同",
@@ -785,6 +817,14 @@
       "onboard_time": 1740267674,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 195345,
+      "num": 195345,
+      "word": "看似单向暗恋实际双向奔赴",
+      "onboard_time": 1740295220,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 193392,
@@ -851,14 +891,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 189330,
-      "num": 189330,
-      "word": "赫丽摸金宇真的开推了",
-      "onboard_time": 1740295220,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 188670,
       "num": 188670,
       "word": "吴昕怎么掏个包都这么有梗",
@@ -899,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184671,
+      "num": 184671,
+      "word": "章若楠新剧真梦游vs假梦游",
+      "onboard_time": 1740295400,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183898,
       "num": 183898,
       "word": "迪丽热巴时装刊预热",
@@ -921,6 +961,14 @@
       "onboard_time": 1740221959,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 178922,
+      "num": 178922,
+      "word": "轩染受伤",
+      "onboard_time": 1740295699,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 178588,
@@ -1003,6 +1051,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 167848,
+      "num": 165813,
+      "word": "哪吒2票房136亿",
+      "onboard_time": 1740295759,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 167107,
       "num": 167107,
       "word": "体检无异常1年半后确诊癌症晚期",
@@ -1032,6 +1088,14 @@
       "word": "似锦",
       "onboard_time": 1740289699,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 166005,
+      "num": 166005,
+      "word": "难哄12集口碑",
+      "onboard_time": 1740295878,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -1073,6 +1137,14 @@
       "onboard_time": 1740274699,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 162961,
+      "num": 162961,
+      "word": "王楚钦11比9扳平",
+      "onboard_time": 1740295759,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 161463,
@@ -1147,6 +1219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151155,
+      "num": 151155,
+      "word": "黄明昊演唱会圈内人缘",
+      "onboard_time": 1740294018,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 150465,
       "num": 164306,
       "word": "肖战再出发米兰时装周",
@@ -1177,6 +1257,14 @@
       "onboard_time": 1740288859,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147711,
+      "num": 147711,
+      "word": "年轻人为什么对大牌美妆祛魅了",
+      "onboard_time": 1740294138,
+      "rank": 38,
+      "category": "美妆"
     },
     {
       "raw_hot": 146154,
@@ -1227,6 +1315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141462,
+      "num": 141462,
+      "word": "王曼昱说决赛全力以赴拼莎莎",
+      "onboard_time": 1740295820,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138951,
       "num": 138951,
       "word": "第一次给檀健次做造型有点紧张",
@@ -1241,14 +1337,6 @@
       "onboard_time": 1740286939,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 137981,
-      "num": 137981,
-      "word": "黄明昊演唱会圈内人缘",
-      "onboard_time": 1740294018,
-      "rank": 35,
-      "category": "演出"
     },
     {
       "raw_hot": 136633,
@@ -1267,28 +1355,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 135674,
-      "num": 135674,
-      "word": "王曼昱给球迷送香蕉",
-      "onboard_time": 1740295099,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 135550,
       "num": 135550,
       "word": "HLE对战GEN",
       "onboard_time": 1740294258,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 134919,
-      "num": 134919,
-      "word": "年轻人为什么对大牌美妆祛魅了",
-      "onboard_time": 1740294138,
-      "rank": 38,
-      "category": "美妆"
     },
     {
       "raw_hot": 133429,
@@ -1331,6 +1403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 125634,
+      "num": 125634,
+      "word": "湖北一地明确生三孩奖励3万",
+      "onboard_time": 1740293898,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125558,
       "num": 261326,
       "word": "特朗普有信心本周完成谈判",
@@ -1345,14 +1425,6 @@
       "onboard_time": 1740234382,
       "rank": 34,
       "category": "电竞,电影"
-    },
-    {
-      "raw_hot": 125007,
-      "num": 125007,
-      "word": "湖北一地明确生三孩奖励3万",
-      "onboard_time": 1740293898,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 124664,
@@ -1451,12 +1523,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 109081,
-      "num": 109081,
-      "word": "看似单向暗恋实际双向奔赴",
-      "onboard_time": 1740295220,
-      "rank": 49,
-      "category": "剧集"
+      "raw_hot": 109099,
+      "num": 433628,
+      "word": "国能置业再回应拟录用名单质疑",
+      "onboard_time": 1740294439,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107302,
@@ -1579,6 +1651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84883,
+      "num": 191686,
+      "word": "男子独自登山失联8天后遗体被找到",
+      "onboard_time": 1740294439,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84307,
       "num": 84307,
       "word": "医生谈女子用土方敷脚被染色",
@@ -1625,22 +1705,6 @@
       "onboard_time": 1740227361,
       "rank": 28,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 77988,
-      "num": 401708,
-      "word": "国能置业再回应拟录用名单质疑",
-      "onboard_time": 1740294439,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 74149,
-      "num": 170211,
-      "word": "男子独自登山失联8天后遗体被找到",
-      "onboard_time": 1740294439,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 65746,
@@ -1801,6 +1865,14 @@
       "onboard_time": 1740288439,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 27062,
+      "num": 285958,
+      "word": "留几手解释为什么自称知名艺人",
+      "onboard_time": 1740295459,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 26760,
