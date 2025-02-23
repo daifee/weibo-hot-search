@@ -1,13 +1,37 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740267341715,
+  "endTime": 1740275331800,
   "band_list": [
     {
       "raw_hot": 1796415,
-      "num": 275467,
+      "num": 367051,
       "word": "沈月的猫去世了",
       "onboard_time": 1740241998,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1248933,
+      "num": 367812,
+      "word": "29岁女子新婚被打失明男方获刑11年",
+      "onboard_time": 1740271218,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 922988,
+      "num": 1147678,
+      "word": "看似养胃其实伤胃的4件事",
+      "onboard_time": 1740245295,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 912231,
+      "num": 912231,
+      "word": "黄灿灿这件事在我心里翻篇了",
+      "onboard_time": 1740265813,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -27,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 697707,
+      "num": 697707,
+      "word": "多人贪吃春笋呕血晕厥",
+      "onboard_time": 1740269837,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 659269,
       "num": 659269,
       "word": "美女网红救人去世母亲车祸父亲发声",
@@ -35,12 +67,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 567269,
-      "num": 893280,
-      "word": "看似养胃其实伤胃的4件事",
-      "onboard_time": 1740245295,
-      "rank": 25,
-      "category": "健康医疗"
+      "raw_hot": 652192,
+      "num": 364650,
+      "word": "女儿遭家暴失明母亲自责让其闪婚",
+      "onboard_time": 1740271218,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 557333,
+      "num": 557333,
+      "word": "DeepSeek预测哪吒2或跻身全球影史前五",
+      "onboard_time": 1740274520,
+      "rank": 4,
+      "category": "互联网,电影"
     },
     {
       "raw_hot": 556008,
@@ -48,6 +88,14 @@
       "word": "国家能源集团官网删除拟录用公示名单",
       "onboard_time": 1740241938,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 549632,
+      "num": 214345,
+      "word": "28岁未婚未育女生确诊卵巢癌",
+      "onboard_time": 1740269356,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -75,6 +123,30 @@
       "category": "电影"
     },
     {
+      "raw_hot": 449849,
+      "num": 449849,
+      "word": "迪丽热巴金世佳新剧下证",
+      "onboard_time": 1740272478,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 430512,
+      "num": 430512,
+      "word": "黄雅琼和王昶遗憾告负",
+      "onboard_time": 1740269537,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 430382,
+      "num": 430382,
+      "word": "特朗普再提加拿大将成美国第51州",
+      "onboard_time": 1740268336,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 381961,
       "num": 381961,
       "word": "肖战赴约米兰",
@@ -89,6 +161,14 @@
       "onboard_time": 1740246974,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 363239,
+      "num": 363239,
+      "word": "缺觉的人全身都在发炎",
+      "onboard_time": 1740269296,
+      "rank": 13,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 362500,
@@ -113,6 +193,14 @@
       "onboard_time": 1740239540,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 335133,
+      "num": 371222,
+      "word": "为什么天气还这么冷",
+      "onboard_time": 1740273439,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 326729,
@@ -147,6 +235,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 271724,
+      "num": 271724,
+      "word": "A怎么会没发现b喜欢c的秘密呢",
+      "onboard_time": 1740236004,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 269535,
       "num": 258333,
       "word": "黄明昊演唱会也没错过杨幂电话",
@@ -163,12 +259,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 239328,
-      "num": 223264,
-      "word": "A怎么会没发现b喜欢c的秘密呢",
-      "onboard_time": 1740236004,
-      "rank": 20,
-      "category": "剧集"
+      "raw_hot": 262611,
+      "num": 262611,
+      "word": "38岁男子人生三次选择都是新疆",
+      "onboard_time": 1740267254,
+      "rank": 40,
+      "category": "正能量"
     },
     {
       "raw_hot": 236527,
@@ -187,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225805,
+      "num": 225805,
+      "word": "手机出现异常先断网",
+      "onboard_time": 1740267254,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220315,
       "num": 167603,
       "word": "建议别给年轻人建议",
@@ -195,12 +299,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 220305,
+      "num": 220305,
+      "word": "谁家剧情侣还没吻上嘴就先破了",
+      "onboard_time": 1740240739,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 213760,
+      "num": 213760,
+      "word": "特朗普要从乌克兰获得任何能得的",
+      "onboard_time": 1740270257,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 210946,
       "num": 281992,
       "word": "乌克兰被曝并无大量稀土",
       "onboard_time": 1740228382,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 199990,
+      "num": 214664,
+      "word": "佟丽娅祝绪丹林一现身黄明昊演唱会",
+      "onboard_time": 1740267674,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 192108,
@@ -217,6 +345,14 @@
       "onboard_time": 1740223100,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180416,
+      "num": 180416,
+      "word": "石矶娘娘秒变24K金矶娘娘",
+      "onboard_time": 1740259751,
+      "rank": 48,
+      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 179106,
@@ -259,6 +395,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 168071,
+      "num": 168071,
+      "word": "美国威胁切断星链",
+      "onboard_time": 1740249012,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 167107,
       "num": 167107,
       "word": "体检无异常1年半后确诊癌症晚期",
@@ -283,12 +427,28 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 163564,
+      "num": 163564,
+      "word": "DeepSeek",
+      "onboard_time": 1740274699,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 161093,
       "num": 143017,
       "word": "周杰伦五月天唱了难哄主题曲",
       "onboard_time": 1740227961,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 150465,
+      "num": 164306,
+      "word": "肖战再出发米兰时装周",
+      "onboard_time": 1740267314,
+      "rank": 15,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 146154,
@@ -299,20 +459,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 135243,
-      "num": 135243,
-      "word": "美国威胁切断星链",
-      "onboard_time": 1740249012,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 132961,
       "num": 132961,
       "word": "熬夜后不要吃完饭再补觉",
       "onboard_time": 1740228622,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 126135,
+      "num": 126135,
+      "word": "柏林电影节获奖名单",
+      "onboard_time": 1740270137,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 125863,
+      "num": 125863,
+      "word": "兔狲走猫步一顿一顿像卡帧了",
+      "onboard_time": 1740269356,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125132,
@@ -363,6 +531,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 113961,
+      "num": 113961,
+      "word": "湖南严禁用AI生成处方",
+      "onboard_time": 1740274038,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113080,
       "num": 113080,
       "word": "天雷滚滚我好怕怕传到联合国",
@@ -393,14 +569,6 @@
       "onboard_time": 1740236362,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 104590,
-      "num": 104590,
-      "word": "肖战再出发米兰时装周",
-      "onboard_time": 1740267314,
-      "rank": 15,
-      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 104509,
@@ -435,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101192,
+      "num": 101192,
+      "word": "四大平台三月排播剧",
+      "onboard_time": 1740264192,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97711,
       "num": 97711,
       "word": "男子冒充女童隔空猥亵40多个女孩",
@@ -459,36 +635,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86204,
+      "num": 86204,
+      "word": "王楚钦一个动作全场安静",
+      "onboard_time": 1740271638,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 84307,
+      "num": 84307,
+      "word": "医生谈女子用土方敷脚被染色",
+      "onboard_time": 1740274819,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81544,
+      "num": 81544,
+      "word": "樊振东是首位超级金满贯得主",
+      "onboard_time": 1740267254,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 78524,
+      "num": 81566,
+      "word": "DeepSeek评2025年十大赚钱行业",
+      "onboard_time": 1740227361,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 65372,
       "num": 109818,
       "word": "昆明冲顶电梯最近维保显示暂无",
       "onboard_time": 1740242716,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 61809,
-      "num": 61809,
-      "word": "谁家剧情侣还没吻上嘴就先破了",
-      "onboard_time": 1740240739,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 56907,
-      "num": 53837,
-      "word": "黄灿灿这件事在我心里翻篇了",
-      "onboard_time": 1740265813,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 56722,
-      "num": 56722,
-      "word": "石矶娘娘秒变24K金矶娘娘",
-      "onboard_time": 1740259751,
-      "rank": 48,
-      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 55671,
@@ -515,20 +699,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 51283,
-      "num": 51283,
-      "word": "DeepSeek评2025年十大赚钱行业",
-      "onboard_time": 1740227361,
-      "rank": 28,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 45458,
-      "num": 45458,
-      "word": "四大平台三月排播剧",
-      "onboard_time": 1740264192,
-      "rank": 33,
-      "category": "剧集"
+      "raw_hot": 52238,
+      "num": 170295,
+      "word": "黄子弘凡度假十八宫格",
+      "onboard_time": 1740275058,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 43708,
@@ -539,14 +715,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 41257,
-      "num": 48773,
-      "word": "樊振东是首位超级金满贯得主",
-      "onboard_time": 1740267254,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 40768,
       "num": 52605,
       "word": "马斯克投资的飞行汽车试飞",
@@ -555,12 +723,12 @@
       "category": "汽车,互联网"
     },
     {
-      "raw_hot": 39127,
-      "num": 39127,
-      "word": "手机出现异常先断网",
-      "onboard_time": 1740267254,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 38987,
+      "num": 183290,
+      "word": "无畏契约曼谷大师赛",
+      "onboard_time": 1740274758,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 36146,
@@ -579,14 +747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33352,
-      "num": 43513,
-      "word": "38岁男子人生三次选择都是新疆",
-      "onboard_time": 1740267254,
-      "rank": 40,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 32924,
       "num": 68527,
       "word": "特朗普要通过美乌矿产协议拿回美国的钱",
@@ -603,8 +763,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 26298,
-      "num": 563808,
+      "raw_hot": 26760,
+      "num": 716713,
       "word": "破解民营企业融资难各地有新招",
       "onboard_time": 1740231382,
       "rank": 2,
