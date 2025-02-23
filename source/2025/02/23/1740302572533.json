@@ -1,0 +1,410 @@
+{
+  "runTime": 1740302572533,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1471873,
+        "num": 1471873,
+        "word": "3名本科生不存在违规操作",
+        "onboard_time": 1740294439,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1180195,
+        "num": 1180195,
+        "word": "白敬亭小号为难哄改名",
+        "onboard_time": 1740299600,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56018,
+        "num": 923516,
+        "word": "2025春运多项数据创历史新高",
+        "onboard_time": 1740297800,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 768361,
+        "num": 768361,
+        "word": "黄子琪因拍消失的她患深海恐惧症",
+        "onboard_time": 1740300740,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 492059,
+        "num": 492059,
+        "word": "郭艾伦要求队友担责或需提供证明",
+        "onboard_time": 1740298098,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 399509,
+        "num": 399509,
+        "word": "王楚钦突破自己的最好成绩",
+        "onboard_time": 1740297559,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 466585,
+        "num": 395259,
+        "word": "难哄12集口碑",
+        "onboard_time": 1740295878,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 390909,
+        "num": 390909,
+        "word": "男主死追女主装死",
+        "onboard_time": 1740290719,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287498,
+        "num": 287498,
+        "word": "女孩逃票进景区后坠亡景区被判无责",
+        "onboard_time": 1740279319,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 119006,
+        "num": 287412,
+        "word": "来深毕业生免费7天住升级为15天",
+        "onboard_time": 1740300859,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4198472,
+        "num": 285408,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1740301458,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1551748,
+        "num": 284319,
+        "word": "十个勤天演唱会疑似抄袭五月天",
+        "onboard_time": 1740302479,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 551966,
+        "num": 283166,
+        "word": "舒肤佳 李昀锐",
+        "onboard_time": 1740300440,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346439,
+        "num": 281977,
+        "word": "胡静老公跪在地上帮她拍照",
+        "onboard_time": 1740291319,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314024,
+        "num": 280764,
+        "word": "我妈不情愿照护爷爷奶奶的那些年",
+        "onboard_time": 1740293358,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 436223,
+        "num": 279452,
+        "word": "医生称DeepSeek有三甲医院专家水平",
+        "onboard_time": 1740290839,
+        "rank": 15,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 305693,
+        "num": 279107,
+        "word": "马斯克称泽连斯基已被开除",
+        "onboard_time": 1740293959,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 290048,
+        "num": 277652,
+        "word": "姚晨闷声干大事",
+        "onboard_time": 1740282258,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 276857,
+        "num": 276857,
+        "word": "哪吒2票房136亿",
+        "onboard_time": 1740295759,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202455,
+        "num": 274432,
+        "word": "塌房大主播集体复活",
+        "onboard_time": 1740301818,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 272183,
+        "num": 272183,
+        "word": "周深的回复是我的淡斑精华",
+        "onboard_time": 1740297978,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198683,
+        "num": 247074,
+        "word": "AG轮换公告",
+        "onboard_time": 1740295400,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 229904,
+        "num": 229904,
+        "word": "年轻人也开始得带状疱疹了",
+        "onboard_time": 1740301458,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229363,
+        "num": 229363,
+        "word": "戚薇李承铉到底有多少情侣装",
+        "onboard_time": 1740299119,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79845,
+        "num": 196484,
+        "word": "AG水逆",
+        "onboard_time": 1740296720,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192219,
+        "num": 192219,
+        "word": "王兴兴自曝英语考300次只及格过3次",
+        "onboard_time": 1740301458,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189204,
+        "num": 189204,
+        "word": "余承恩说自己脸再小就没了",
+        "onboard_time": 1740301818,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169498,
+        "num": 183155,
+        "word": "男子买二手车故障频出厂家倒闭维修难",
+        "onboard_time": 1740299179,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182376,
+        "num": 182376,
+        "word": "难哄云合登顶",
+        "onboard_time": 1740302179,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61514,
+        "num": 177928,
+        "word": "三分之一的人至少患一次带状疱疹",
+        "onboard_time": 1740301818,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 174289,
+        "num": 174289,
+        "word": "难哄",
+        "onboard_time": 1740285500,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166859,
+        "num": 166859,
+        "word": "张碧晨写歌好像在上人生必修课",
+        "onboard_time": 1740302000,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 164158,
+        "num": 164158,
+        "word": "金泰亨肌肉",
+        "onboard_time": 1740302059,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162985,
+        "num": 162985,
+        "word": "民警高铁上细心盘问救下被卖婴儿",
+        "onboard_time": 1740298938,
+        "rank": 33,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 154129,
+        "num": 154129,
+        "word": "云合",
+        "onboard_time": 1740302239,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152025,
+        "num": 152025,
+        "word": "六姊妹母亲可以不完美",
+        "onboard_time": 1740298879,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145744,
+        "num": 145744,
+        "word": "终于有部剧还原了我的高清童年",
+        "onboard_time": 1740288978,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142076,
+        "num": 142076,
+        "word": "哪吒3催更到联合国了",
+        "onboard_time": 1740286880,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137931,
+        "num": 137931,
+        "word": "中医称百病都是由伤寒来的",
+        "onboard_time": 1740301339,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131498,
+        "num": 131498,
+        "word": "胖东来决定来郑州开店",
+        "onboard_time": 1740279558,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131386,
+        "num": 131386,
+        "word": "过安检时肖战仰了仰头",
+        "onboard_time": 1740283819,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128788,
+        "num": 128788,
+        "word": "黄杨钿甜艺考照",
+        "onboard_time": 1740286819,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125188,
+        "num": 125188,
+        "word": "女生患乳腺癌后称要重视月经异常",
+        "onboard_time": 1740282017,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112607,
+        "num": 112607,
+        "word": "林允自产团综",
+        "onboard_time": 1740300560,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112472,
+        "num": 112472,
+        "word": "马库斯被北京的空气质量震惊了",
+        "onboard_time": 1740300379,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125087,
+        "num": 112262,
+        "word": "肖战素颜复古黑框眼镜",
+        "onboard_time": 1740298938,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 111909,
+        "num": 111909,
+        "word": "中国男篮vs关岛男篮",
+        "onboard_time": 1740297140,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107509,
+        "num": 107509,
+        "word": "小伙好心搀扶老人却被打了5个耳光",
+        "onboard_time": 1740301339,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105880,
+        "num": 105880,
+        "word": "四川5人清理化粪池4人遇险身亡",
+        "onboard_time": 1740298459,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105188,
+        "num": 105188,
+        "word": "祝绪丹来黄明昊演唱会当站姐",
+        "onboard_time": 1740299540,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#民营企业要保持爱拼会赢精气神#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1740299992166,
+  "endTime": 1740302572533,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -777,6 +777,14 @@
       "onboard_time": 1739261481,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 4198472,
+      "num": 285408,
+      "word": "鹿晗 关晓彤",
+      "onboard_time": 1740301458,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 4153442,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736596469,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 2344339,
-      "num": 530249,
-      "word": "具俊晔崩溃",
-      "onboard_time": 1738629080,
-      "rank": 3,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
