@@ -1,0 +1,410 @@
+{
+  "runTime": 1740276606165,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 935807,
+        "num": 1149729,
+        "word": "黄灿灿这件事在我心里翻篇了",
+        "onboard_time": 1740265813,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 782962,
+        "num": 782962,
+        "word": "DeepSeek预测哪吒2或跻身全球影史前五",
+        "onboard_time": 1740274520,
+        "rank": 1,
+        "category": "互联网,电影"
+      },
+      {
+        "raw_hot": 21565,
+        "num": 711679,
+        "word": "破解民营企业融资难各地有新招",
+        "onboard_time": 1740231382,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 669922,
+        "num": 669922,
+        "word": "为什么天气还这么冷",
+        "onboard_time": 1740273439,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 579339,
+        "num": 579339,
+        "word": "多人贪吃春笋呕血晕厥",
+        "onboard_time": 1740269837,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 533820,
+        "num": 533820,
+        "word": "迪丽热巴金世佳新剧下证",
+        "onboard_time": 1740272478,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 357320,
+        "num": 357320,
+        "word": "特朗普再提加拿大将成美国第51州",
+        "onboard_time": 1740268336,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 326939,
+        "num": 326939,
+        "word": "黄雅琼和王昶遗憾告负",
+        "onboard_time": 1740269537,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 296208,
+        "num": 296208,
+        "word": "哪吒票房",
+        "onboard_time": 1740275599,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177924,
+        "num": 292983,
+        "word": "湖南严禁用AI生成处方",
+        "onboard_time": 1740274038,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 995887,
+        "num": 287351,
+        "word": "29岁女子新婚被打失明男方获刑11年",
+        "onboard_time": 1740271218,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 652314,
+        "num": 281183,
+        "word": "沈月的猫去世了",
+        "onboard_time": 1740241998,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 512196,
+        "num": 268371,
+        "word": "女儿遭家暴失明母亲自责让其闪婚",
+        "onboard_time": 1740271218,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267861,
+        "num": 267861,
+        "word": "38岁男子人生三次选择都是新疆",
+        "onboard_time": 1740267254,
+        "rank": 13,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 90137,
+        "num": 261326,
+        "word": "特朗普有信心本周完成谈判",
+        "onboard_time": 1740275719,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 261076,
+        "num": 261076,
+        "word": "官方回应公开6000多名农民隐私",
+        "onboard_time": 1740246974,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234721,
+        "num": 234721,
+        "word": "A怎么会没发现b喜欢c的秘密呢",
+        "onboard_time": 1740236004,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232013,
+        "num": 232013,
+        "word": "谁家剧情侣还没吻上嘴就先破了",
+        "onboard_time": 1740240739,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191781,
+        "num": 191781,
+        "word": "敖光",
+        "onboard_time": 1740238281,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 184909,
+        "num": 184909,
+        "word": "大衣哥拒绝直播带货也不代言",
+        "onboard_time": 1740254232,
+        "rank": 19,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 454964,
+        "num": 184862,
+        "word": "28岁未婚未育女生确诊卵巢癌",
+        "onboard_time": 1740269356,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 367804,
+        "num": 183464,
+        "word": "科学家测算出人类灭绝时间",
+        "onboard_time": 1740276438,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 180868,
+        "num": 180868,
+        "word": "特朗普要从乌克兰获得任何能得的",
+        "onboard_time": 1740270257,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 170878,
+        "num": 170878,
+        "word": "石矶娘娘秒变24K金矶娘娘",
+        "onboard_time": 1740259751,
+        "rank": 23,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 164487,
+        "num": 164487,
+        "word": "佟丽娅祝绪丹林一现身黄明昊演唱会",
+        "onboard_time": 1740267674,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 161841,
+        "num": 161841,
+        "word": "王栎鑫紫纱",
+        "onboard_time": 1740234682,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 159864,
+        "num": 159864,
+        "word": "湖人vs掘金",
+        "onboard_time": 1740276438,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154419,
+        "num": 154419,
+        "word": "已婚女谎称是毒枭女儿诈骗男子160万",
+        "onboard_time": 1740236662,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149659,
+        "num": 149659,
+        "word": "手机出现异常先断网",
+        "onboard_time": 1740267254,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147086,
+        "num": 147086,
+        "word": "肖战再出发米兰时装周",
+        "onboard_time": 1740267314,
+        "rank": 29,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 146986,
+        "num": 146986,
+        "word": "国家能源集团官网删除拟录用公示名单",
+        "onboard_time": 1740241938,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130085,
+        "num": 130085,
+        "word": "加拿大民众请愿撤销马斯克公民身份",
+        "onboard_time": 1740276018,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128072,
+        "num": 128072,
+        "word": "浙江人实现一户一雪人",
+        "onboard_time": 1740232045,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125534,
+        "num": 125534,
+        "word": "美国威胁切断星链",
+        "onboard_time": 1740249012,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 360070,
+        "num": 124269,
+        "word": "缺觉的人全身都在发炎",
+        "onboard_time": 1740269296,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 117169,
+        "num": 117169,
+        "word": "已婚女到婚介所征婚与4男子交往",
+        "onboard_time": 1740276438,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104838,
+        "num": 104838,
+        "word": "柏林电影节获奖名单",
+        "onboard_time": 1740270137,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 101893,
+        "num": 101893,
+        "word": "男生用镜头记录女友5年自信蜕变",
+        "onboard_time": 1740276018,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98233,
+        "num": 98233,
+        "word": "兔狲走猫步一顿一顿像卡帧了",
+        "onboard_time": 1740269356,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 707423,
+        "num": 96886,
+        "word": "看似养胃其实伤胃的4件事",
+        "onboard_time": 1740245295,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 93457,
+        "num": 93457,
+        "word": "孙颖莎回应自己的局点才是局点",
+        "onboard_time": 1740276258,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93247,
+        "num": 93247,
+        "word": "670万买的楼王交钱时发现采光差",
+        "onboard_time": 1740226702,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92279,
+        "num": 92279,
+        "word": "黄景瑜方取证维权",
+        "onboard_time": 1740276559,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91170,
+        "num": 91170,
+        "word": "花间令收视新高",
+        "onboard_time": 1740235822,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90984,
+        "num": 90984,
+        "word": "十个勤天福州演唱会",
+        "onboard_time": 1740275537,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 90690,
+        "num": 90690,
+        "word": "乌克兰被曝并无大量稀土",
+        "onboard_time": 1740228382,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87021,
+        "num": 87021,
+        "word": "鞠婧祎白发狐狸造型",
+        "onboard_time": 1740276559,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86645,
+        "num": 86645,
+        "word": "你好星期六下期是难哄剧组",
+        "onboard_time": 1740239540,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84678,
+        "num": 84678,
+        "word": "湖南卫视连发10条李现",
+        "onboard_time": 1740241998,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81923,
+        "num": 81923,
+        "word": "四大平台三月排播剧",
+        "onboard_time": 1740264192,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#绿水青山瞰我家#"
+    }
+  }
+}
