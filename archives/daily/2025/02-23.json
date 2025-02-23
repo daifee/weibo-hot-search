@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740279436050,
+  "endTime": 1740279972116,
   "band_list": [
     {
       "raw_hot": 1796415,
@@ -11,20 +11,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1386949,
+      "num": 1386949,
+      "word": "偶像剧终于有不回避成长女主了",
+      "onboard_time": 1740277639,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1248933,
       "num": 372569,
       "word": "29岁女子新婚被打失明男方获刑11年",
       "onboard_time": 1740271218,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1222295,
-      "num": 1222295,
-      "word": "偶像剧终于有不回避成长女主了",
-      "onboard_time": 1740277639,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 935807,
@@ -75,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 722428,
+      "num": 367815,
+      "word": "曹操说Yellow中文翻译错了",
+      "onboard_time": 1740276618,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 705828,
       "num": 922932,
       "word": "已婚女谎称是毒枭女儿诈骗男子160万",
@@ -97,14 +105,6 @@
       "onboard_time": 1740269837,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 696919,
-      "num": 367815,
-      "word": "曹操说Yellow中文翻译错了",
-      "onboard_time": 1740276618,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 659269,
@@ -168,6 +168,14 @@
       "word": "敖光",
       "onboard_time": 1740238281,
       "rank": 7,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 483868,
+      "num": 293088,
+      "word": "石矶娘娘原身能拉出比头发还细的丝",
+      "onboard_time": 1740278959,
+      "rank": 18,
       "category": "电影"
     },
     {
@@ -235,20 +243,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 351079,
+      "num": 343605,
+      "word": "黄景瑜方取证维权",
+      "onboard_time": 1740276559,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 344422,
       "num": 344422,
       "word": "你好星期六下期是难哄剧组",
       "onboard_time": 1740239540,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 343605,
-      "num": 343605,
-      "word": "黄景瑜方取证维权",
-      "onboard_time": 1740276559,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 326729,
@@ -267,12 +275,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 304978,
+      "raw_hot": 313645,
       "num": 304978,
       "word": "男生用镜头记录女友5年自信蜕变",
       "onboard_time": 1740276018,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 311635,
+      "num": 311635,
+      "word": "加拿大民众请愿撤销马斯克公民身份",
+      "onboard_time": 1740276018,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 280070,
@@ -299,14 +315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 271409,
-      "num": 271409,
-      "word": "加拿大民众请愿撤销马斯克公民身份",
-      "onboard_time": 1740276018,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 269535,
       "num": 258333,
       "word": "黄明昊演唱会也没错过杨幂电话",
@@ -329,14 +337,6 @@
       "onboard_time": 1740237082,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 257029,
-      "num": 257029,
-      "word": "石矶娘娘原身能拉出比头发还细的丝",
-      "onboard_time": 1740278959,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 236527,
@@ -403,11 +403,43 @@
       "category": "演出"
     },
     {
+      "raw_hot": 196777,
+      "num": 196777,
+      "word": "沈月说我好想出去看看春天啊",
+      "onboard_time": 1740279200,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 195702,
+      "num": 190140,
+      "word": "胖东来决定来郑州开店",
+      "onboard_time": 1740279558,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192802,
+      "num": 192802,
+      "word": "女孩逃票进景区后坠亡景区被判无责",
+      "onboard_time": 1740279319,
+      "rank": 43,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 192108,
       "num": 192108,
       "word": "EDG对阵G2",
       "onboard_time": 1740239240,
       "rank": 30,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 190196,
+      "num": 190196,
+      "word": "第五人格入选2026亚运会电竞项目",
+      "onboard_time": 1740279558,
+      "rank": 25,
       "category": "电竞"
     },
     {
@@ -459,12 +491,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171058,
+      "num": 171058,
+      "word": "已婚女到婚介所征婚与4男子交往",
+      "onboard_time": 1740276438,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168831,
       "num": 198909,
       "word": "大批电动车车主推开隔离墩躲避检查",
       "onboard_time": 1740241159,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168714,
+      "num": 168714,
+      "word": "肖战后脑勺视角",
+      "onboard_time": 1740279919,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 168490,
@@ -515,12 +563,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 161781,
+      "num": 193706,
+      "word": "孙颖莎vs陈幸同",
+      "onboard_time": 1740279259,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161093,
       "num": 143017,
       "word": "周杰伦五月天唱了难哄主题曲",
       "onboard_time": 1740227961,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 159963,
+      "num": 159963,
+      "word": "吴彤关注余宇涵",
+      "onboard_time": 1740279019,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 159864,
@@ -531,8 +595,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 155897,
-      "num": 155897,
+      "raw_hot": 159759,
+      "num": 159759,
       "word": "仙台有树结局升华了",
       "onboard_time": 1740277338,
       "rank": 32,
@@ -555,12 +619,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 136890,
-      "num": 136890,
-      "word": "已婚女到婚介所征婚与4男子交往",
-      "onboard_time": 1740276438,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 136633,
+      "num": 136633,
+      "word": "柏林电影节",
+      "onboard_time": 1740279139,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 135904,
@@ -577,14 +641,6 @@
       "onboard_time": 1740228622,
       "rank": 33,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 126208,
-      "num": 126208,
-      "word": "吴彤关注余宇涵",
-      "onboard_time": 1740279019,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 126135,
@@ -619,6 +675,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 124634,
+      "num": 206576,
+      "word": "要求美方停止甩锅到中方头上",
+      "onboard_time": 1740279619,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 121773,
       "num": 121773,
       "word": "黄明昊杨超越双人舞",
@@ -633,6 +697,14 @@
       "onboard_time": 1740221240,
       "rank": 37,
       "category": "健康医疗,美食"
+    },
+    {
+      "raw_hot": 118948,
+      "num": 118948,
+      "word": "重庆排队吃轻轨",
+      "onboard_time": 1740279558,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116077,
@@ -667,14 +739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 111001,
-      "num": 111001,
-      "word": "女孩逃票进景区后坠亡景区被判无责",
-      "onboard_time": 1740279319,
-      "rank": 43,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 107302,
       "num": 107302,
       "word": "王栎鑫紫纱鲨疯了",
@@ -696,14 +760,6 @@
       "word": "孙颖莎vs张本美和",
       "onboard_time": 1740222380,
       "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 104500,
-      "num": 104500,
-      "word": "孙颖莎vs陈幸同",
-      "onboard_time": 1740279259,
-      "rank": 45,
       "category": "体育"
     },
     {
@@ -755,14 +811,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 95244,
-      "num": 95244,
-      "word": "柏林电影节",
-      "onboard_time": 1740279139,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 93457,
       "num": 190498,
       "word": "孙颖莎回应自己的局点才是局点",
@@ -803,6 +851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81807,
+      "num": 384275,
+      "word": "2025大国重器最新剧透",
+      "onboard_time": 1740278839,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 81544,
       "num": 81544,
       "word": "樊振东是首位超级金满贯得主",
@@ -811,28 +867,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 80892,
-      "num": 171957,
-      "word": "沈月说我好想出去看看春天啊",
-      "onboard_time": 1740279200,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 78524,
       "num": 81566,
       "word": "DeepSeek评2025年十大赚钱行业",
       "onboard_time": 1740227361,
       "rank": 28,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 68482,
-      "num": 384275,
-      "word": "2025大国重器最新剧透",
-      "onboard_time": 1740278839,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 65372,
@@ -875,6 +915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51413,
+      "num": 190553,
+      "word": "孙颖莎赢球后邱贻可振臂高呼",
+      "onboard_time": 1740272417,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 43708,
       "num": 43708,
       "word": "网红罗大美遇害案28日开庭",
@@ -907,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36080,
+      "num": 172778,
+      "word": "不同年代模特走秀有什么不同",
+      "onboard_time": 1740278839,
+      "rank": 29,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 35202,
       "num": 121397,
       "word": "警方通报铁岭私家车撞进医院",
@@ -921,14 +977,6 @@
       "onboard_time": 1740247274,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 32318,
-      "num": 167122,
-      "word": "不同年代模特走秀有什么不同",
-      "onboard_time": 1740278839,
-      "rank": 29,
-      "category": "时尚"
     },
     {
       "raw_hot": 32160,
