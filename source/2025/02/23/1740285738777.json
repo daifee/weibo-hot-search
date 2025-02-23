@@ -1,0 +1,410 @@
+{
+  "runTime": 1740285738777,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1846120,
+        "num": 1846120,
+        "word": "姚晨闷声干大事",
+        "onboard_time": 1740282258,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1589280,
+        "num": 1589280,
+        "word": "女孩逃票进景区后坠亡景区被判无责",
+        "onboard_time": 1740279319,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 65746,
+        "num": 1355442,
+        "word": "今年国之重器的目标看热血了",
+        "onboard_time": 1740269837,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1156088,
+        "num": 1156088,
+        "word": "孙颖莎也嫌黄色衣服晃眼",
+        "onboard_time": 1740282978,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 945437,
+        "num": 945437,
+        "word": "过安检时肖战仰了仰头",
+        "onboard_time": 1740283819,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 619977,
+        "num": 619977,
+        "word": "重庆排队吃轻轨",
+        "onboard_time": 1740279558,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 731312,
+        "num": 590135,
+        "word": "哪吒票房",
+        "onboard_time": 1740275599,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 387992,
+        "num": 387992,
+        "word": "为什么天气还这么冷",
+        "onboard_time": 1740273439,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 373825,
+        "num": 373825,
+        "word": "沈月说我好想出去看看春天啊",
+        "onboard_time": 1740279200,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103952,
+        "num": 369107,
+        "word": "黄山景区回应游客失联",
+        "onboard_time": 1740284119,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 508356,
+        "num": 368746,
+        "word": "曹操说Yellow中文翻译错了",
+        "onboard_time": 1740276618,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 367548,
+        "num": 367548,
+        "word": "石矶娘娘原身能拉出比头发还细的丝",
+        "onboard_time": 1740278959,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 330966,
+        "num": 330966,
+        "word": "29岁女子新婚被打失明男方获刑11年",
+        "onboard_time": 1740271218,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 348645,
+        "num": 324918,
+        "word": "沈月的猫去世了",
+        "onboard_time": 1740241998,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310909,
+        "num": 310909,
+        "word": "DeepSeek预测哪吒2或跻身全球影史前五",
+        "onboard_time": 1740274520,
+        "rank": 14,
+        "category": "互联网,电影"
+      },
+      {
+        "raw_hot": 306848,
+        "num": 306848,
+        "word": "梁靖崑vs林诗栋",
+        "onboard_time": 1740283879,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292294,
+        "num": 292294,
+        "word": "孙颖莎vs陈幸同",
+        "onboard_time": 1740279259,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268309,
+        "num": 268309,
+        "word": "一部剧集齐现偶三苏",
+        "onboard_time": 1740284299,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248876,
+        "num": 248876,
+        "word": "难哄",
+        "onboard_time": 1740285500,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42162,
+        "num": 248266,
+        "word": "美国意图获取乌克兰港口收益的一半",
+        "onboard_time": 1740284959,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 462625,
+        "num": 234792,
+        "word": "胖东来决定来郑州开店",
+        "onboard_time": 1740279558,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 400532,
+        "num": 232921,
+        "word": "女生患乳腺癌后称要重视月经异常",
+        "onboard_time": 1740282017,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 340081,
+        "num": 219663,
+        "word": "28岁未婚未育女生确诊卵巢癌",
+        "onboard_time": 1740269356,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217677,
+        "num": 217677,
+        "word": "情侣等地铁男生突然掏出戒指求婚",
+        "onboard_time": 1740283819,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183225,
+        "num": 216334,
+        "word": "东契奇的魔法又回来了",
+        "onboard_time": 1740283941,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215362,
+        "num": 215362,
+        "word": "长歌行动画开播",
+        "onboard_time": 1740280038,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 204629,
+        "num": 204629,
+        "word": "黄灿灿这件事在我心里翻篇了",
+        "onboard_time": 1740265813,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194145,
+        "num": 194145,
+        "word": "孙颖莎4比0陈幸同",
+        "onboard_time": 1740283099,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180812,
+        "num": 180812,
+        "word": "黄景瑜方取证维权",
+        "onboard_time": 1740276559,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156687,
+        "num": 180426,
+        "word": "无限超越班全网摇监制",
+        "onboard_time": 1740285021,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190675,
+        "num": 180417,
+        "word": "孙颖莎进亚洲杯女单决赛",
+        "onboard_time": 1740285078,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180358,
+        "num": 180358,
+        "word": "女儿遭家暴失明母亲自责让其闪婚",
+        "onboard_time": 1740271218,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176173,
+        "num": 176173,
+        "word": "湖南严禁用AI生成处方",
+        "onboard_time": 1740274038,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168763,
+        "num": 168763,
+        "word": "朱志鑫女装",
+        "onboard_time": 1740282378,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165338,
+        "num": 165338,
+        "word": "多人贪吃春笋呕血晕厥",
+        "onboard_time": 1740269837,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164745,
+        "num": 164745,
+        "word": "最低气温回升速度赶不上最高气温",
+        "onboard_time": 1740283639,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163000,
+        "num": 163000,
+        "word": "理解梁靖崑成为梁靖崑",
+        "onboard_time": 1740285439,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162335,
+        "num": 162335,
+        "word": "哪吒2票房超135亿",
+        "onboard_time": 1740280219,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 45904,
+        "num": 161493,
+        "word": "卢昱晓收工第一件事",
+        "onboard_time": 1740282199,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155022,
+        "num": 161375,
+        "word": "北上预约破150万",
+        "onboard_time": 1740284419,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161264,
+        "num": 161264,
+        "word": "科学家测算出人类灭绝时间",
+        "onboard_time": 1740276438,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 159601,
+        "num": 159601,
+        "word": "迪丽热巴时装刊预热",
+        "onboard_time": 1740283219,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 154229,
+        "num": 154229,
+        "word": "全红婵又变身带娃德华了",
+        "onboard_time": 1740280878,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150662,
+        "num": 150662,
+        "word": "咸阳机场回应一航班疑因起火返航",
+        "onboard_time": 1740281658,
+        "rank": 43,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 150152,
+        "num": 150152,
+        "word": "教育局回应男孩校园内被4人霸凌",
+        "onboard_time": 1740282799,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140843,
+        "num": 140843,
+        "word": "吴昕怎么掏个包都这么有梗",
+        "onboard_time": 1740282919,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147321,
+        "num": 137404,
+        "word": "迪丽热巴金世佳新剧下证",
+        "onboard_time": 1740272478,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130188,
+        "num": 130188,
+        "word": "饺子导演谈哪吒2成功的关键",
+        "onboard_time": 1740281957,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130005,
+        "num": 130005,
+        "word": "厚衣服先别着急收起来",
+        "onboard_time": 1740284899,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124848,
+        "num": 124848,
+        "word": "现实版哪吒敖丙身高差",
+        "onboard_time": 1740285679,
+        "rank": 49,
+        "category": "民生新闻,电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记始终关心牵挂乡亲们#"
+    }
+  }
+}

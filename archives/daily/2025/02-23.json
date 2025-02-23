@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740284833751,
+  "endTime": 1740285738777,
   "band_list": [
     {
       "raw_hot": 1934759,
@@ -11,20 +11,20 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1846120,
+      "num": 1846120,
+      "word": "姚晨闷声干大事",
+      "onboard_time": 1740282258,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1796415,
       "num": 437517,
       "word": "沈月的猫去世了",
       "onboard_time": 1740241998,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1720132,
-      "num": 1720132,
-      "word": "姚晨闷声干大事",
-      "onboard_time": 1740282258,
-      "rank": 1,
-      "category": "电影"
     },
     {
       "raw_hot": 1537201,
@@ -57,6 +57,14 @@
       "onboard_time": 1740275599,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 945437,
+      "num": 945437,
+      "word": "过安检时肖战仰了仰头",
+      "onboard_time": 1740283819,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 935807,
@@ -195,14 +203,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 540854,
-      "num": 540854,
-      "word": "过安检时肖战仰了仰头",
-      "onboard_time": 1740283819,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 540315,
       "num": 540315,
       "word": "迪丽热巴金世佳新剧下证",
@@ -259,6 +259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 400532,
+      "num": 232921,
+      "word": "女生患乳腺癌后称要重视月经异常",
+      "onboard_time": 1740282017,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 381961,
       "num": 381961,
       "word": "肖战赴约米兰",
@@ -272,14 +280,6 @@
       "word": "官方回应公开6000多名农民隐私",
       "onboard_time": 1740246974,
       "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 374080,
-      "num": 230410,
-      "word": "女生患乳腺癌后称要重视月经异常",
-      "onboard_time": 1740282017,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -363,6 +363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 306848,
+      "num": 306848,
+      "word": "梁靖崑vs林诗栋",
+      "onboard_time": 1740283879,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 282542,
       "num": 282542,
       "word": "长歌行动画开播",
@@ -403,6 +411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 268309,
+      "num": 268309,
+      "word": "一部剧集齐现偶三苏",
+      "onboard_time": 1740284299,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 267861,
       "num": 267861,
       "word": "38岁男子人生三次选择都是新疆",
@@ -417,6 +433,14 @@
       "onboard_time": 1740237082,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 248876,
+      "num": 248876,
+      "word": "难哄",
+      "onboard_time": 1740285500,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 236527,
@@ -491,12 +515,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 219753,
-      "num": 219753,
-      "word": "一部剧集齐现偶三苏",
-      "onboard_time": 1740284299,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 217677,
+      "num": 217677,
+      "word": "情侣等地铁男生突然掏出戒指求婚",
+      "onboard_time": 1740283819,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 215089,
@@ -505,14 +529,6 @@
       "onboard_time": 1740283879,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 214974,
-      "num": 214974,
-      "word": "情侣等地铁男生突然掏出戒指求婚",
-      "onboard_time": 1740283819,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 213760,
@@ -564,10 +580,18 @@
     },
     {
       "raw_hot": 191564,
-      "num": 215681,
+      "num": 216334,
       "word": "东契奇的魔法又回来了",
       "onboard_time": 1740283941,
       "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 190675,
+      "num": 180417,
+      "word": "孙颖莎进亚洲杯女单决赛",
+      "onboard_time": 1740285078,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -715,19 +739,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 167031,
-      "num": 230816,
-      "word": "梁靖崑vs林诗栋",
-      "onboard_time": 1740283879,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 166488,
       "num": 166488,
       "word": "670万买的楼王交钱时发现采光差",
       "onboard_time": 1740226702,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164745,
+      "num": 164745,
+      "word": "最低气温回升速度赶不上最高气温",
+      "onboard_time": 1740283639,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -745,6 +769,14 @@
       "onboard_time": 1740274699,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 163000,
+      "num": 163000,
+      "word": "理解梁靖崑成为梁靖崑",
+      "onboard_time": 1740285439,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 161093,
@@ -779,14 +811,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 159276,
-      "num": 159276,
-      "word": "最低气温回升速度赶不上最高气温",
-      "onboard_time": 1740283639,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 158749,
       "num": 439120,
       "word": "咸阳机场回应一航班疑因起火返航",
@@ -795,8 +819,16 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 152250,
-      "num": 152250,
+      "raw_hot": 156687,
+      "num": 180426,
+      "word": "无限超越班全网摇监制",
+      "onboard_time": 1740285021,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 155022,
+      "num": 161375,
       "word": "北上预约破150万",
       "onboard_time": 1740284419,
       "rank": 44,
@@ -809,6 +841,14 @@
       "onboard_time": 1740267314,
       "rank": 15,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 150152,
+      "num": 150152,
+      "word": "教育局回应男孩校园内被4人霸凌",
+      "onboard_time": 1740282799,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146154,
@@ -843,14 +883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 139440,
-      "num": 139440,
-      "word": "教育局回应男孩校园内被4人霸凌",
-      "onboard_time": 1740282799,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136633,
       "num": 136633,
       "word": "柏林电影节",
@@ -873,6 +905,14 @@
       "onboard_time": 1740228622,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 130005,
+      "num": 130005,
+      "word": "厚衣服先别着急收起来",
+      "onboard_time": 1740284899,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129027,
@@ -905,6 +945,14 @@
       "onboard_time": 1740234382,
       "rank": 34,
       "category": "电竞,电影"
+    },
+    {
+      "raw_hot": 124848,
+      "num": 124848,
+      "word": "现实版哪吒敖丙身高差",
+      "onboard_time": 1740285679,
+      "rank": 49,
+      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 124664,
@@ -992,6 +1040,14 @@
       "word": "全体土拨鼠抬头那一刻绷不住了",
       "onboard_time": 1740214461,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103952,
+      "num": 489011,
+      "word": "黄山景区回应游客失联",
+      "onboard_time": 1740284119,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1107,6 +1163,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 65746,
+      "num": 1355442,
+      "word": "今年国之重器的目标看热血了",
+      "onboard_time": 1740269837,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65372,
       "num": 109818,
       "word": "昆明冲顶电梯最近维保显示暂无",
@@ -1137,14 +1201,6 @@
       "onboard_time": 1740240381,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 55089,
-      "num": 1228737,
-      "word": "今年国之重器的目标看热血了",
-      "onboard_time": 1740269837,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 54244,
@@ -1185,6 +1241,14 @@
       "onboard_time": 1740240919,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42162,
+      "num": 248266,
+      "word": "美国意图获取乌克兰港口收益的一半",
+      "onboard_time": 1740284959,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 40768,
@@ -1248,14 +1312,6 @@
       "word": "破解民营企业融资难各地有新招",
       "onboard_time": 1740231382,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24456,
-      "num": 489011,
-      "word": "黄山景区回应游客失联",
-      "onboard_time": 1740284119,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
