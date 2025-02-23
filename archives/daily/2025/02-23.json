@@ -1,10 +1,10 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740281338141,
+  "endTime": 1740282133288,
   "band_list": [
     {
       "raw_hot": 1796415,
-      "num": 390414,
+      "num": 437517,
       "word": "沈月的猫去世了",
       "onboard_time": 1740241998,
       "rank": 10,
@@ -19,12 +19,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1285662,
+      "num": 1285662,
+      "word": "女孩逃票进景区后坠亡景区被判无责",
+      "onboard_time": 1740279319,
+      "rank": 43,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1248933,
-      "num": 372569,
+      "num": 431009,
       "word": "29岁女子新婚被打失明男方获刑11年",
       "onboard_time": 1740271218,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 949169,
+      "num": 1109287,
+      "word": "哪吒票房",
+      "onboard_time": 1740275599,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 935807,
@@ -59,14 +75,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 777166,
-      "num": 1109287,
-      "word": "哪吒票房",
-      "onboard_time": 1740275599,
-      "rank": 8,
-      "category": "电影"
-    },
-    {
       "raw_hot": 751539,
       "num": 751539,
       "word": "为什么天气还这么冷",
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 722428,
-      "num": 424797,
+      "num": 438255,
       "word": "曹操说Yellow中文翻译错了",
       "onboard_time": 1740276618,
       "rank": 11,
@@ -107,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 687287,
+      "num": 687287,
+      "word": "石矶娘娘原身能拉出比头发还细的丝",
+      "onboard_time": 1740278959,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 659269,
       "num": 659269,
       "word": "美女网红救人去世母亲车祸父亲发声",
@@ -123,20 +139,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 607941,
-      "num": 607941,
-      "word": "女孩逃票进景区后坠亡景区被判无责",
-      "onboard_time": 1740279319,
-      "rank": 43,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 600944,
-      "num": 600944,
-      "word": "石矶娘娘原身能拉出比头发还细的丝",
-      "onboard_time": 1740278959,
-      "rank": 18,
-      "category": "电影"
+      "raw_hot": 592668,
+      "num": 502423,
+      "word": "沈月说我好想出去看看春天啊",
+      "onboard_time": 1740279200,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 556008,
@@ -147,8 +155,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 555570,
+      "num": 555570,
+      "word": "孙颖莎vs陈幸同",
+      "onboard_time": 1740279259,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 549632,
-      "num": 228332,
+      "num": 254586,
       "word": "28岁未婚未育女生确诊卵巢癌",
       "onboard_time": 1740269356,
       "rank": 20,
@@ -171,14 +187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 537835,
-      "num": 537835,
-      "word": "孙颖莎vs陈幸同",
-      "onboard_time": 1740279259,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 534199,
       "num": 534199,
       "word": "台当局宣布封杀三所大陆高校遭猛批",
@@ -195,11 +203,19 @@
       "category": "电影"
     },
     {
-      "raw_hot": 494986,
-      "num": 229007,
+      "raw_hot": 510021,
+      "num": 255475,
       "word": "胖东来决定来郑州开店",
       "onboard_time": 1740279558,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 451153,
+      "num": 451153,
+      "word": "重庆排队吃轻轨",
+      "onboard_time": 1740279558,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -219,14 +235,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 387767,
-      "num": 306457,
-      "word": "沈月说我好想出去看看春天啊",
-      "onboard_time": 1740279200,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 381961,
       "num": 381961,
       "word": "肖战赴约米兰",
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 367804,
-      "num": 227856,
+      "num": 239599,
       "word": "科学家测算出人类灭绝时间",
       "onboard_time": 1740276438,
       "rank": 21,
@@ -323,6 +331,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 282542,
+      "num": 282542,
+      "word": "长歌行动画开播",
+      "onboard_time": 1740280038,
+      "rank": 25,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 280070,
       "num": 280070,
       "word": "浙江人实现一户一雪人",
@@ -371,28 +387,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 246635,
-      "num": 442070,
-      "word": "重庆排队吃轻轨",
-      "onboard_time": 1740279558,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 243491,
-      "num": 226856,
-      "word": "长歌行动画开播",
-      "onboard_time": 1740280038,
-      "rank": 25,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 236527,
       "num": 168300,
       "word": "王鹤棣肉眼可见的慌乱",
       "onboard_time": 1740230721,
       "rank": 21,
       "category": "艺人,艺人"
+    },
+    {
+      "raw_hot": 235323,
+      "num": 151322,
+      "word": "全红婵又变身带娃德华了",
+      "onboard_time": 1740280878,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 232650,
@@ -451,6 +459,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 200729,
+      "num": 200729,
+      "word": "肖战针织拼接飞行员夹克",
+      "onboard_time": 1740282079,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 199990,
       "num": 214664,
       "word": "佟丽娅祝绪丹林一现身黄明昊演唱会",
@@ -465,6 +481,14 @@
       "onboard_time": 1740239240,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 191343,
+      "num": 140994,
+      "word": "女生患乳腺癌后称要重视月经异常",
+      "onboard_time": 1740282017,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190196,
@@ -635,14 +659,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151322,
-      "num": 151322,
-      "word": "全红婵又变身带娃德华了",
-      "onboard_time": 1740280878,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 150465,
       "num": 164306,
       "word": "肖战再出发米兰时装周",
@@ -665,6 +681,14 @@
       "onboard_time": 1740280638,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 143396,
+      "num": 143396,
+      "word": "永远在自救的古偶女主",
+      "onboard_time": 1740281359,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 136633,
@@ -971,6 +995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42670,
+      "num": 439120,
+      "word": "咸阳机场回应一航班疑因起火返航",
+      "onboard_time": 1740281658,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 40768,
       "num": 52605,
       "word": "马斯克投资的飞行汽车试飞",
@@ -1028,7 +1060,7 @@
     },
     {
       "raw_hot": 26760,
-      "num": 798192,
+      "num": 798327,
       "word": "破解民营企业融资难各地有新招",
       "onboard_time": 1740231382,
       "rank": 2,
@@ -1075,12 +1107,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 17919,
+      "num": 146049,
+      "word": "DeepSeek评35岁职场危机",
+      "onboard_time": 1740281778,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 17232,
       "num": 109226,
       "word": "王昶说场上把自己代入成郑思维",
       "onboard_time": 1740243976,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 16780,
+      "num": 143531,
+      "word": "饺子导演谈哪吒2成功的关键",
+      "onboard_time": 1740281957,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 16020,
@@ -1099,12 +1147,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 11692,
+      "num": 203554,
+      "word": "社交平台现贩卖婴儿暗语该如何监管",
+      "onboard_time": 1740281957,
+      "rank": 24,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 11259,
       "num": 91959,
       "word": "Doinb常规赛MVP颁奖",
       "onboard_time": 1740245175,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 9263,
+      "num": 143067,
+      "word": "东莞上市公司千里迢迢赶集招工",
+      "onboard_time": 1740282017,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 8536,

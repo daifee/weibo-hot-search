@@ -1,0 +1,410 @@
+{
+  "runTime": 1740282133288,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1285662,
+        "num": 1285662,
+        "word": "女孩逃票进景区后坠亡景区被判无责",
+        "onboard_time": 1740279319,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 949169,
+        "num": 949169,
+        "word": "哪吒票房",
+        "onboard_time": 1740275599,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19435,
+        "num": 798327,
+        "word": "破解民营企业融资难各地有新招",
+        "onboard_time": 1740231382,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 687287,
+        "num": 687287,
+        "word": "石矶娘娘原身能拉出比头发还细的丝",
+        "onboard_time": 1740278959,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 555570,
+        "num": 555570,
+        "word": "孙颖莎vs陈幸同",
+        "onboard_time": 1740279259,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 520821,
+        "num": 520821,
+        "word": "为什么天气还这么冷",
+        "onboard_time": 1740273439,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 592668,
+        "num": 502423,
+        "word": "沈月说我好想出去看看春天啊",
+        "onboard_time": 1740279200,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483733,
+        "num": 483733,
+        "word": "DeepSeek预测哪吒2或跻身全球影史前五",
+        "onboard_time": 1740274520,
+        "rank": 7,
+        "category": "互联网,电影"
+      },
+      {
+        "raw_hot": 451153,
+        "num": 451153,
+        "word": "重庆排队吃轻轨",
+        "onboard_time": 1740279558,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42670,
+        "num": 439120,
+        "word": "咸阳机场回应一航班疑因起火返航",
+        "onboard_time": 1740281658,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 721164,
+        "num": 438255,
+        "word": "曹操说Yellow中文翻译错了",
+        "onboard_time": 1740276618,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 496608,
+        "num": 437517,
+        "word": "沈月的猫去世了",
+        "onboard_time": 1740241998,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431009,
+        "num": 431009,
+        "word": "29岁女子新婚被打失明男方获刑11年",
+        "onboard_time": 1740271218,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 408011,
+        "num": 408011,
+        "word": "湖南严禁用AI生成处方",
+        "onboard_time": 1740274038,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389489,
+        "num": 389489,
+        "word": "黄灿灿这件事在我心里翻篇了",
+        "onboard_time": 1740265813,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301548,
+        "num": 301548,
+        "word": "多人贪吃春笋呕血晕厥",
+        "onboard_time": 1740269837,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282542,
+        "num": 282542,
+        "word": "长歌行动画开播",
+        "onboard_time": 1740280038,
+        "rank": 16,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 280588,
+        "num": 280588,
+        "word": "黄景瑜方取证维权",
+        "onboard_time": 1740276559,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264690,
+        "num": 264690,
+        "word": "迪丽热巴金世佳新剧下证",
+        "onboard_time": 1740272478,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260836,
+        "num": 260836,
+        "word": "女儿遭家暴失明母亲自责让其闪婚",
+        "onboard_time": 1740271218,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 510021,
+        "num": 255475,
+        "word": "胖东来决定来郑州开店",
+        "onboard_time": 1740279558,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 413951,
+        "num": 254586,
+        "word": "28岁未婚未育女生确诊卵巢癌",
+        "onboard_time": 1740269356,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239599,
+        "num": 239599,
+        "word": "科学家测算出人类灭绝时间",
+        "onboard_time": 1740276438,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 216691,
+        "num": 216691,
+        "word": "男生用镜头记录女友5年自信蜕变",
+        "onboard_time": 1740276018,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11692,
+        "num": 203554,
+        "word": "社交平台现贩卖婴儿暗语该如何监管",
+        "onboard_time": 1740281957,
+        "rank": 24,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 200729,
+        "num": 200729,
+        "word": "肖战针织拼接飞行员夹克",
+        "onboard_time": 1740282079,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 181716,
+        "num": 181716,
+        "word": "加拿大民众请愿撤销马斯克公民身份",
+        "onboard_time": 1740276018,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153844,
+        "num": 153844,
+        "word": "仙台有树结局升华了",
+        "onboard_time": 1740277338,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149020,
+        "num": 149020,
+        "word": "哪吒2票房超135亿",
+        "onboard_time": 1740280219,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 17919,
+        "num": 146049,
+        "word": "DeepSeek评35岁职场危机",
+        "onboard_time": 1740281778,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 16780,
+        "num": 143531,
+        "word": "饺子导演谈哪吒2成功的关键",
+        "onboard_time": 1740281957,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174769,
+        "num": 143498,
+        "word": "特朗普再提加拿大将成美国第51州",
+        "onboard_time": 1740268336,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 143396,
+        "num": 143396,
+        "word": "永远在自救的古偶女主",
+        "onboard_time": 1740281359,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9263,
+        "num": 143067,
+        "word": "东莞上市公司千里迢迢赶集招工",
+        "onboard_time": 1740282017,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235323,
+        "num": 141387,
+        "word": "全红婵又变身带娃德华了",
+        "onboard_time": 1740280878,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191343,
+        "num": 140994,
+        "word": "女生患乳腺癌后称要重视月经异常",
+        "onboard_time": 1740282017,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150465,
+        "num": 139767,
+        "word": "要求美方停止甩锅到中方头上",
+        "onboard_time": 1740279619,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 139121,
+        "num": 139121,
+        "word": "谁家剧情侣还没吻上嘴就先破了",
+        "onboard_time": 1740240739,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138326,
+        "num": 138326,
+        "word": "已婚女到婚介所征婚与4男子交往",
+        "onboard_time": 1740276438,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134232,
+        "num": 134232,
+        "word": "第五人格入选2026亚运会电竞项目",
+        "onboard_time": 1740279558,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129158,
+        "num": 129158,
+        "word": "鞠婧祎白发狐狸造型",
+        "onboard_time": 1740276559,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127145,
+        "num": 127145,
+        "word": "A怎么会没发现b喜欢c的秘密呢",
+        "onboard_time": 1740236004,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125763,
+        "num": 125763,
+        "word": "向太包场支持哪吒2",
+        "onboard_time": 1740280638,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 54149,
+        "num": 124631,
+        "word": "王楚钦一个动作全场安静",
+        "onboard_time": 1740271638,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123869,
+        "num": 123869,
+        "word": "肖战后脑勺视角",
+        "onboard_time": 1740279919,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 113804,
+        "num": 117889,
+        "word": "滤镜",
+        "onboard_time": 1740280519,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116431,
+        "num": 116431,
+        "word": "特朗普要从乌克兰获得任何能得的",
+        "onboard_time": 1740270257,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113131,
+        "num": 113131,
+        "word": "王栎鑫紫纱",
+        "onboard_time": 1740234682,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112902,
+        "num": 112902,
+        "word": "湖人vs掘金",
+        "onboard_time": 1740276438,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112417,
+        "num": 112417,
+        "word": "佟丽娅祝绪丹林一现身黄明昊演唱会",
+        "onboard_time": 1740267674,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持把谋打赢作为最大职责#"
+    }
+  }
+}
