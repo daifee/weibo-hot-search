@@ -1,0 +1,410 @@
+{
+  "runTime": 1740353759063,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 509575,
+        "num": 884049,
+        "word": "骗子盯上了你的手机NFC功能",
+        "onboard_time": 1740326120,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 454184,
+        "num": 454184,
+        "word": "因哪吒2爆火的影院紧急大扫除迎客",
+        "onboard_time": 1740332474,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 44581,
+        "num": 389861,
+        "word": "龙马乘组太空出差将满120天",
+        "onboard_time": 1740320002,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 389713,
+        "num": 389713,
+        "word": "林一回应虞书欣",
+        "onboard_time": 1740352756,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379258,
+        "num": 379258,
+        "word": "电梯疾坠又猛冲至33楼致业主身亡",
+        "onboard_time": 1740351855,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230054,
+        "num": 230054,
+        "word": "王曼昱使用樊A",
+        "onboard_time": 1740327679,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208036,
+        "num": 208036,
+        "word": "不允许城镇居民到农村购买宅基地",
+        "onboard_time": 1740310700,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 394034,
+        "num": 207531,
+        "word": "麦当娜炮轰特朗普",
+        "onboard_time": 1740342371,
+        "rank": 7,
+        "category": "国际时政,艺人"
+      },
+      {
+        "raw_hot": 206860,
+        "num": 206860,
+        "word": "央视曝光网购陷阱",
+        "onboard_time": 1740318983,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107530,
+        "num": 205954,
+        "word": "乌总统称不签需十代人付出代价协议",
+        "onboard_time": 1740352696,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1551589,
+        "num": 204195,
+        "word": "印度女孩13岁起被60余人性侵5年",
+        "onboard_time": 1740327438,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 877209,
+        "num": 201056,
+        "word": "网红罗大美转账200万元仍遭灭口",
+        "onboard_time": 1740323303,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 491724,
+        "num": 196836,
+        "word": "拆迁6套房分配不均引发兄妹矛盾",
+        "onboard_time": 1740321562,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 425920,
+        "num": 194468,
+        "word": "鹿晗关晓彤分手博坚持打卡2694天",
+        "onboard_time": 1740311359,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193754,
+        "num": 193754,
+        "word": "高露洁",
+        "onboard_time": 1740327859,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187857,
+        "num": 187857,
+        "word": "职业闭店是违法犯罪行为",
+        "onboard_time": 1740329057,
+        "rank": 15,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 167274,
+        "num": 167274,
+        "word": "肖战男模机场秀",
+        "onboard_time": 1740314662,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 142701,
+        "num": 142701,
+        "word": "考研查分",
+        "onboard_time": 1740353295,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 110973,
+        "num": 142412,
+        "word": "章若楠好美",
+        "onboard_time": 1740319343,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103432,
+        "num": 141870,
+        "word": "马嘉祺一句话触发四个非洲土著",
+        "onboard_time": 1740327501,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 822424,
+        "num": 141024,
+        "word": "陈赫回应被鹿晗关晓彤刷屏",
+        "onboard_time": 1740323242,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 754282,
+        "num": 140765,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1740301458,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333659,
+        "num": 140321,
+        "word": "睡得少和睡得晚哪个伤害大",
+        "onboard_time": 1740322403,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 252460,
+        "num": 139726,
+        "word": "内裤袜子丢进洗衣机真比手洗好",
+        "onboard_time": 1740318683,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139245,
+        "num": 139245,
+        "word": "王曼昱4比0孙颖莎",
+        "onboard_time": 1740314003,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136464,
+        "num": 136464,
+        "word": "早安我的中国",
+        "onboard_time": 1740353176,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130389,
+        "num": 130389,
+        "word": "高中生手搓折叠屏惊动手机厂商",
+        "onboard_time": 1740325041,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114968,
+        "num": 114968,
+        "word": "女子晒自家墓景房楼下就是考古工地",
+        "onboard_time": 1740347351,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96639,
+        "num": 114127,
+        "word": "卡梅隆称阿凡达3为三部中最佳",
+        "onboard_time": 1740353537,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 68392,
+        "num": 113951,
+        "word": "种地吧",
+        "onboard_time": 1740327080,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113901,
+        "num": 113901,
+        "word": "印度强奸案只有27%被定罪",
+        "onboard_time": 1740328037,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 108818,
+        "num": 108818,
+        "word": "郭艾伦眼睛受伤或涉及自甘风险",
+        "onboard_time": 1740331693,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103052,
+        "num": 103052,
+        "word": "许昕称孙颖莎输球未必是坏事",
+        "onboard_time": 1740323841,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99094,
+        "num": 99094,
+        "word": "樊A",
+        "onboard_time": 1740320782,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94293,
+        "num": 94293,
+        "word": "姑娘辞职去传承女子英歌舞",
+        "onboard_time": 1740326419,
+        "rank": 34,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 90637,
+        "num": 90637,
+        "word": "迪丽热巴机场和粉丝跳舞",
+        "onboard_time": 1740317183,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86821,
+        "num": 86821,
+        "word": "Rookie 菜得可怕",
+        "onboard_time": 1740319822,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 81222,
+        "num": 81222,
+        "word": "高露洁 孙颖莎",
+        "onboard_time": 1740353416,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78769,
+        "num": 78769,
+        "word": "某某",
+        "onboard_time": 1740318201,
+        "rank": 38,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 77924,
+        "num": 77924,
+        "word": "王曼昱亚洲杯冠军",
+        "onboard_time": 1740313522,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61499,
+        "num": 77518,
+        "word": "杨肸子为红房子随地大小舞",
+        "onboard_time": 1740327919,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77201,
+        "num": 77201,
+        "word": "独行侠vs勇士",
+        "onboard_time": 1740352696,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76138,
+        "num": 76138,
+        "word": "被校服男孩一个伸手暖到了",
+        "onboard_time": 1740337813,
+        "rank": 42,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 73116,
+        "num": 73116,
+        "word": "当我问DeepSeek对女儿最好的托举",
+        "onboard_time": 1740351494,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 65796,
+        "num": 65796,
+        "word": "塌房大主播集体复活",
+        "onboard_time": 1740301818,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 65256,
+        "num": 65256,
+        "word": "中央一号文件划重点",
+        "onboard_time": 1740329236,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 64778,
+        "num": 64778,
+        "word": "虞书欣何与婚礼吻戏路透",
+        "onboard_time": 1740324921,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56606,
+        "num": 56606,
+        "word": "日本动画导演来华狂炫中华美食",
+        "onboard_time": 1740351194,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 51437,
+        "num": 51437,
+        "word": "被王楚钦的庆祝动作硬控了",
+        "onboard_time": 1740320602,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48783,
+        "num": 48783,
+        "word": "明日起可查考研成绩",
+        "onboard_time": 1740353236,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#扎实推进乡村全面振兴#"
+    }
+  }
+}

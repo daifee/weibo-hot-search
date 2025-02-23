@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740352845759,
+  "endTime": 1740353759063,
   "band_list": [
     {
       "raw_hot": 4198472,
@@ -803,6 +803,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 454184,
+      "num": 454184,
+      "word": "因哪吒2爆火的影院紧急大扫除迎客",
+      "onboard_time": 1740332474,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 430512,
       "num": 430512,
       "word": "黄雅琼和王昶遗憾告负",
@@ -859,20 +867,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 394034,
+      "num": 295341,
+      "word": "麦当娜炮轰特朗普",
+      "onboard_time": 1740342371,
+      "rank": 48,
+      "category": "国际时政,艺人"
+    },
+    {
+      "raw_hot": 389713,
+      "num": 389713,
+      "word": "林一回应虞书欣",
+      "onboard_time": 1740352756,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 389586,
       "num": 282314,
       "word": "时代少年团直播",
       "onboard_time": 1740305960,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 386811,
-      "num": 386811,
-      "word": "因哪吒2爆火的影院紧急大扫除迎客",
-      "onboard_time": 1740332474,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 381961,
@@ -896,6 +912,14 @@
       "word": "官方回应公开6000多名农民隐私",
       "onboard_time": 1740246974,
       "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 379258,
+      "num": 379258,
+      "word": "电梯疾坠又猛冲至33楼致业主身亡",
+      "onboard_time": 1740351855,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -1177,14 +1201,6 @@
       "onboard_time": 1740284299,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 295341,
-      "num": 295341,
-      "word": "麦当娜炮轰特朗普",
-      "onboard_time": 1740342371,
-      "rank": 48,
-      "category": "国际时政,艺人"
     },
     {
       "raw_hot": 292498,
@@ -2267,14 +2283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164043,
-      "num": 164043,
-      "word": "电梯疾坠又猛冲至33楼致业主身亡",
-      "onboard_time": 1740351855,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 163564,
       "num": 163564,
       "word": "DeepSeek",
@@ -2547,6 +2555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142701,
+      "num": 142701,
+      "word": "考研查分",
+      "onboard_time": 1740353295,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 142004,
       "num": 142004,
       "word": "滤镜预告",
@@ -2611,6 +2627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136464,
+      "num": 136464,
+      "word": "早安我的中国",
+      "onboard_time": 1740353176,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135904,
       "num": 135904,
       "word": "兔狲走猫步一顿一顿像卡帧了",
@@ -2625,14 +2649,6 @@
       "onboard_time": 1740294258,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 134885,
-      "num": 134885,
-      "word": "林一回应虞书欣",
-      "onboard_time": 1740352756,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 133621,
@@ -2843,6 +2859,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 114968,
+      "num": 114968,
+      "word": "女子晒自家墓景房楼下就是考古工地",
+      "onboard_time": 1740347351,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114127,
       "num": 114127,
       "word": "六姊妹统一全家三代遥控器",
@@ -2913,6 +2937,22 @@
       "onboard_time": 1740294439,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108818,
+      "num": 108818,
+      "word": "郭艾伦眼睛受伤或涉及自甘风险",
+      "onboard_time": 1740331693,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 107530,
+      "num": 205954,
+      "word": "乌总统称不签需十代人付出代价协议",
+      "onboard_time": 1740352696,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 107509,
@@ -3027,6 +3067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96639,
+      "num": 114127,
+      "word": "卡梅隆称阿凡达3为三部中最佳",
+      "onboard_time": 1740353537,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 96449,
       "num": 96449,
       "word": "陈立农演唱会嘉宾杨丞琳",
@@ -3035,28 +3083,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 96269,
-      "num": 96269,
-      "word": "女子晒自家墓景房楼下就是考古工地",
-      "onboard_time": 1740347351,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 95289,
       "num": 95289,
       "word": "姑娘辞职去传承女子英歌舞",
       "onboard_time": 1740326419,
       "rank": 39,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 94643,
-      "num": 98338,
-      "word": "郭艾伦眼睛受伤或涉及自甘风险",
-      "onboard_time": 1740331693,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 94431,
@@ -3179,6 +3211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81222,
+      "num": 81222,
+      "word": "高露洁 孙颖莎",
+      "onboard_time": 1740353416,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81218,
       "num": 81218,
       "word": "被校服男孩一个伸手暖到了",
@@ -3211,6 +3251,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 77201,
+      "num": 77201,
+      "word": "独行侠vs勇士",
+      "onboard_time": 1740352696,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76682,
       "num": 191037,
       "word": "林诗栋4比0林昀儒",
@@ -3235,6 +3283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73116,
+      "num": 73116,
+      "word": "当我问DeepSeek对女儿最好的托举",
+      "onboard_time": 1740351494,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 70307,
       "num": 651621,
       "word": "深入整治低俗表演活动",
@@ -3249,14 +3305,6 @@
       "onboard_time": 1740305719,
       "rank": 19,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 65844,
-      "num": 65844,
-      "word": "独行侠vs勇士",
-      "onboard_time": 1740352696,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 65746,
@@ -3331,14 +3379,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 56981,
-      "num": 56981,
-      "word": "当我问DeepSeek对女儿最好的托举",
-      "onboard_time": 1740351494,
-      "rank": 43,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 56779,
       "num": 56779,
       "word": "时代少年团三专9天预售额2亿",
@@ -3403,6 +3443,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 48783,
+      "num": 48783,
+      "word": "明日起可查考研成绩",
+      "onboard_time": 1740353236,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 48280,
       "num": 198211,
       "word": "宋亚东技术判定战胜赛胡多",
@@ -3419,20 +3467,20 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 44581,
+      "num": 389861,
+      "word": "龙马乘组太空出差将满120天",
+      "onboard_time": 1740320002,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 43708,
       "num": 43708,
       "word": "网红罗大美遇害案28日开庭",
       "onboard_time": 1740240919,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43007,
-      "num": 43007,
-      "word": "乌总统称不签需十代人付出代价协议",
-      "onboard_time": 1740352696,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 42543,
@@ -3544,14 +3592,6 @@
       "word": "持续增强粮食等重要农产品供给保障能力",
       "onboard_time": 1740331934,
       "rank": 17,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 32254,
-      "num": 325509,
-      "word": "龙马乘组太空出差将满120天",
-      "onboard_time": 1740320002,
-      "rank": 2,
       "category": "国内时政"
     },
     {
