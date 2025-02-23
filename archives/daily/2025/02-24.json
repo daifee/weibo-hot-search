@@ -1,6 +1,6 @@
 {
   "startTime": 1740327929685,
-  "endTime": 1740327929685,
+  "endTime": 1740328815134,
   "band_list": [
     {
       "raw_hot": 1749367,
@@ -27,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1338555,
+      "num": 1338555,
+      "word": "印度女孩13岁起被60余人性侵5年",
+      "onboard_time": 1740327438,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1292531,
       "num": 336495,
       "word": "某某",
@@ -43,6 +51,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1051937,
+      "num": 1051937,
+      "word": "林一",
+      "onboard_time": 1740327738,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 967796,
       "num": 322366,
       "word": "鹿晗关晓彤分手博坚持打卡2694天",
@@ -51,15 +67,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 783563,
-      "num": 783563,
+      "raw_hot": 959509,
+      "num": 959509,
       "word": "骗子盯上了你的手机NFC功能",
       "onboard_time": 1740326120,
       "rank": 1,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 774664,
+      "raw_hot": 889410,
       "num": 333309,
       "word": "高露洁",
       "onboard_time": 1740327859,
@@ -81,14 +97,6 @@
       "onboard_time": 1740321562,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 549890,
-      "num": 549890,
-      "word": "印度女孩13岁起被60余人性侵5年",
-      "onboard_time": 1740327438,
-      "rank": 4,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 513161,
@@ -211,6 +219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217539,
+      "num": 258639,
+      "word": "种地吧",
+      "onboard_time": 1740327080,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213340,
       "num": 313587,
       "word": "桑延 来财",
@@ -227,6 +243,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 210104,
+      "num": 210104,
+      "word": "马嘉祺一句话触发四个非洲土著",
+      "onboard_time": 1740327501,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210034,
       "num": 210034,
       "word": "王曼昱亚洲杯冠军",
@@ -235,12 +259,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 202385,
-      "num": 265308,
-      "word": "林一",
-      "onboard_time": 1740327738,
-      "rank": 26,
-      "category": "音乐"
+      "raw_hot": 209000,
+      "num": 222722,
+      "word": "王曼昱使用樊A",
+      "onboard_time": 1740327679,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 199439,
@@ -259,20 +283,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 193931,
-      "num": 258639,
-      "word": "种地吧",
-      "onboard_time": 1740327080,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 190630,
       "num": 190630,
       "word": "许昕称孙颖莎输球未必是坏事",
       "onboard_time": 1740323841,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187136,
+      "num": 203308,
+      "word": "杨肸子为红房子随地大小舞",
+      "onboard_time": 1740327919,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 185631,
@@ -315,14 +339,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 165349,
-      "num": 165349,
-      "word": "马嘉祺一句话触发四个非洲土著",
-      "onboard_time": 1740327501,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 164274,
       "num": 164274,
       "word": "Rookie 菜得可怕",
@@ -353,14 +369,6 @@
       "onboard_time": 1740312622,
       "rank": 44,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 148093,
-      "num": 148093,
-      "word": "王曼昱使用樊A",
-      "onboard_time": 1740327679,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 135560,
@@ -395,12 +403,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111818,
+      "num": 111818,
+      "word": "5个考研查分通道",
+      "onboard_time": 1740328637,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 92904,
-      "num": 631157,
+      "num": 963242,
       "word": "这些春菜里藏着春天的味道",
       "onboard_time": 1740320242,
       "rank": 2,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 49792,
+      "num": 268563,
+      "word": "印度强奸案只有27%被定罪",
+      "onboard_time": 1740328037,
+      "rank": 9,
+      "category": "海外新闻"
     }
   ],
   "hotgov_list": [

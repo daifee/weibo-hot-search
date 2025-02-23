@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740327929685,
+  "endTime": 1740328815134,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -3531,6 +3531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1338555,
+      "num": 1338555,
+      "word": "印度女孩13岁起被60余人性侵5年",
+      "onboard_time": 1740327438,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1334865,
       "num": 269177,
       "word": "吴川三中",
@@ -5163,6 +5171,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1051937,
+      "num": 1051937,
+      "word": "林一",
+      "onboard_time": 1740327738,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1051629,
       "num": 383932,
       "word": "谢娜女儿",
@@ -5995,6 +6011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 959509,
+      "num": 959509,
+      "word": "骗子盯上了你的手机NFC功能",
+      "onboard_time": 1740326120,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 959049,
       "num": 437314,
       "word": "偶遇留几手葛夕带狗做手术",
@@ -6633,6 +6657,14 @@
       "onboard_time": 1738902566,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 889410,
+      "num": 333309,
+      "word": "高露洁",
+      "onboard_time": 1740327859,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 889347,
@@ -7811,14 +7843,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 783563,
-      "num": 783563,
-      "word": "骗子盯上了你的手机NFC功能",
-      "onboard_time": 1740326120,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 783508,
       "num": 739659,
       "word": "怎么敢让孙丞潇和于佩尔搭戏的啊",
@@ -7984,14 +8008,6 @@
       "word": "U20国足vs沙特U20",
       "onboard_time": 1740204140,
       "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 774664,
-      "num": 333309,
-      "word": "高露洁",
-      "onboard_time": 1740327859,
-      "rank": 14,
       "category": "体育"
     },
     {
@@ -12073,14 +12089,6 @@
       "onboard_time": 1739425161,
       "rank": 4,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 549890,
-      "num": 549890,
-      "word": "印度女孩13岁起被60余人性侵5年",
-      "onboard_time": 1740327438,
-      "rank": 4,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 549632,
@@ -31283,6 +31291,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 210104,
+      "num": 210104,
+      "word": "马嘉祺一句话触发四个非洲土著",
+      "onboard_time": 1740327501,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210040,
       "num": 210040,
       "word": "王星越给赵晴吓得韩语都出来了",
@@ -31481,6 +31497,14 @@
       "onboard_time": 1739949259,
       "rank": 41,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 209000,
+      "num": 222722,
+      "word": "王曼昱使用樊A",
+      "onboard_time": 1740327679,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 208942,
@@ -33105,14 +33129,6 @@
       "onboard_time": 1739247442,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 202385,
-      "num": 265308,
-      "word": "林一",
-      "onboard_time": 1740327738,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 202360,
@@ -37201,6 +37217,14 @@
       "onboard_time": 1739031859,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187136,
+      "num": 203308,
+      "word": "杨肸子为红房子随地大小舞",
+      "onboard_time": 1740327919,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 187100,
@@ -42243,14 +42267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 165349,
-      "num": 165349,
-      "word": "马嘉祺一句话触发四个非洲土著",
-      "onboard_time": 1740327501,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 165160,
       "num": 165160,
       "word": "真的有T6666次列车",
@@ -46656,14 +46672,6 @@
       "word": "吴敬平谈WTT制度改革",
       "onboard_time": 1739588959,
       "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 148093,
-      "num": 148093,
-      "word": "王曼昱使用樊A",
-      "onboard_time": 1740327679,
-      "rank": 45,
       "category": "体育"
     },
     {
@@ -54849,6 +54857,14 @@
       "onboard_time": 1739378237,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111818,
+      "num": 111818,
+      "word": "5个考研查分通道",
+      "onboard_time": 1740328637,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 111781,
@@ -64945,6 +64961,14 @@
       "onboard_time": 1739794640,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49792,
+      "num": 268563,
+      "word": "印度强奸案只有27%被定罪",
+      "onboard_time": 1740328037,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 49699,

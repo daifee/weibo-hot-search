@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740327929685,
+  "endTime": 1740328815134,
   "band_list": [
     {
       "raw_hot": 4198472,
@@ -179,6 +179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1338555,
+      "num": 1338555,
+      "word": "印度女孩13岁起被60余人性侵5年",
+      "onboard_time": 1740327438,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1297722,
       "num": 738135,
       "word": "拆迁6套房分配不均引发兄妹矛盾",
@@ -259,6 +267,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1051937,
+      "num": 1051937,
+      "word": "林一",
+      "onboard_time": 1740327738,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1047184,
       "num": 1047184,
       "word": "孙颖莎王曼昱场边休息神画面",
@@ -305,6 +321,14 @@
       "onboard_time": 1740295878,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 959509,
+      "num": 959509,
+      "word": "骗子盯上了你的手机NFC功能",
+      "onboard_time": 1740326120,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 949169,
@@ -355,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 889410,
+      "num": 333309,
+      "word": "高露洁",
+      "onboard_time": 1740327859,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 843518,
       "num": 843518,
       "word": "章若楠好美",
@@ -393,22 +425,6 @@
       "onboard_time": 1740274038,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 783563,
-      "num": 783563,
-      "word": "骗子盯上了你的手机NFC功能",
-      "onboard_time": 1740326120,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 774664,
-      "num": 333309,
-      "word": "高露洁",
-      "onboard_time": 1740327859,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 771014,
@@ -641,14 +657,6 @@
       "onboard_time": 1740279259,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 549890,
-      "num": 549890,
-      "word": "印度女孩13岁起被60余人性侵5年",
-      "onboard_time": 1740327438,
-      "rank": 4,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 549632,
@@ -1555,6 +1563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 217539,
+      "num": 258639,
+      "word": "种地吧",
+      "onboard_time": 1740327080,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 215089,
       "num": 215089,
       "word": "周深演唱会勇敢退场是因为敬畏",
@@ -1593,6 +1609,22 @@
       "onboard_time": 1740228382,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 210104,
+      "num": 210104,
+      "word": "马嘉祺一句话触发四个非洲土著",
+      "onboard_time": 1740327501,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 209000,
+      "num": 222722,
+      "word": "王曼昱使用樊A",
+      "onboard_time": 1740327679,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 206451,
@@ -1639,14 +1671,6 @@
       "num": 204079,
       "word": "阿信晒与周杰伦合唱新单曲初舞台",
       "onboard_time": 1740306259,
-      "rank": 26,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 202385,
-      "num": 265308,
-      "word": "林一",
-      "onboard_time": 1740327738,
       "rank": 26,
       "category": "音乐"
     },
@@ -1737,14 +1761,6 @@
       "onboard_time": 1740312441,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 193931,
-      "num": 258639,
-      "word": "种地吧",
-      "onboard_time": 1740327080,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 193744,
@@ -1864,6 +1880,14 @@
       "word": "鞠婧祎白发狐狸造型",
       "onboard_time": 1740276559,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 187136,
+      "num": 203308,
+      "word": "杨肸子为红房子随地大小舞",
+      "onboard_time": 1740327919,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -2187,14 +2211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 165349,
-      "num": 165349,
-      "word": "马嘉祺一句话触发四个非洲土著",
-      "onboard_time": 1740327501,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 164745,
       "num": 164745,
       "word": "最低气温回升速度赶不上最高气温",
@@ -2424,14 +2440,6 @@
       "word": "梁靖崑逆转晋级决赛",
       "onboard_time": 1740288859,
       "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 148093,
-      "num": 148093,
-      "word": "王曼昱使用樊A",
-      "onboard_time": 1740327679,
-      "rank": 45,
       "category": "体育"
     },
     {
@@ -2817,6 +2825,14 @@
       "onboard_time": 1740297140,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111818,
+      "num": 111818,
+      "word": "5个考研查分通道",
+      "onboard_time": 1740328637,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 111382,
@@ -3249,6 +3265,14 @@
       "onboard_time": 1740282199,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 49792,
+      "num": 268563,
+      "word": "印度强奸案只有27%被定罪",
+      "onboard_time": 1740328037,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 49413,
