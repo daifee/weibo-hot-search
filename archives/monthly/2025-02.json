@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740315305227,
+  "endTime": 1740317013422,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -4307,6 +4307,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1185862,
+      "num": 597233,
+      "word": "厌食女子被加喂营养餐多脏器衰竭",
+      "onboard_time": 1740315080,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1185006,
       "num": 1457679,
       "word": "2025亚冬会开幕式",
@@ -4553,6 +4561,14 @@
       "onboard_time": 1740306979,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1135938,
+      "num": 717522,
+      "word": "鹿晗关晓彤分手博坚持打卡2694天",
+      "onboard_time": 1740311359,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1135025,
@@ -5385,14 +5401,6 @@
       "onboard_time": 1738902265,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1018005,
-      "num": 717522,
-      "word": "鹿晗关晓彤分手博坚持打卡2694天",
-      "onboard_time": 1740311359,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1017957,
@@ -7395,6 +7403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 808487,
+      "num": 808487,
+      "word": "哪吒2冲向全球票房第7",
+      "onboard_time": 1740303201,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 808429,
       "num": 808429,
       "word": "DeepSeek预测哪吒2或跻身全球影史前五",
@@ -7777,14 +7793,6 @@
       "onboard_time": 1739877263,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 780435,
-      "num": 780435,
-      "word": "哪吒2冲向全球票房第7",
-      "onboard_time": 1740303201,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 779495,
@@ -8617,6 +8625,14 @@
       "onboard_time": 1739338281,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 714048,
+      "num": 714048,
+      "word": "王曼昱4比0孙颖莎",
+      "onboard_time": 1740314003,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 713903,
@@ -12372,7 +12388,7 @@
     },
     {
       "raw_hot": 536435,
-      "num": 423509,
+      "num": 426786,
       "word": "95后情侣夜市摆摊卖麻糍日入4000元",
       "onboard_time": 1740304278,
       "rank": 20,
@@ -15483,14 +15499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 434502,
-      "num": 434502,
-      "word": "王曼昱4比0孙颖莎",
-      "onboard_time": 1740314003,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 434446,
       "num": 376364,
       "word": "朴灿烈ins晒与张艺兴合照",
@@ -16377,6 +16385,14 @@
       "onboard_time": 1739881462,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 407455,
+      "num": 451203,
+      "word": "enhypen直播",
+      "onboard_time": 1740314421,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 407159,
@@ -17689,6 +17705,14 @@
       "onboard_time": 1739355682,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 376338,
+      "num": 376338,
+      "word": "孙颖莎收到球迷震耳欲聋的爱",
+      "onboard_time": 1740315140,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 376094,
@@ -19187,6 +19211,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 345515,
+      "num": 347130,
+      "word": "韩国ins最具影响力TOP10",
+      "onboard_time": 1740313582,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 345342,
       "num": 260937,
       "word": "哪吒2突破121亿",
@@ -19521,6 +19553,14 @@
       "onboard_time": 1739328259,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 339205,
+      "num": 339205,
+      "word": "虞书欣机车婚纱造型",
+      "onboard_time": 1740311538,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 339148,
@@ -20659,14 +20699,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 319618,
-      "num": 435014,
-      "word": "enhypen直播",
-      "onboard_time": 1740314421,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 319482,
       "num": 319482,
       "word": "美国反对称俄为侵略者",
@@ -21107,6 +21139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 310766,
+      "num": 298332,
+      "word": "营业悖论",
+      "onboard_time": 1740315801,
+      "rank": 30,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 310764,
       "num": 279062,
       "word": "3种蔬菜比牛奶还补钙",
@@ -21256,6 +21296,14 @@
       "word": "洒水车0℃以下洒水致路面结冰酿事故",
       "onboard_time": 1739165001,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 308336,
+      "num": 475477,
+      "word": "女子持续发热两周未愈确诊白血病",
+      "onboard_time": 1740315621,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -21539,14 +21587,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 305002,
-      "num": 347130,
-      "word": "韩国ins最具影响力TOP10",
-      "onboard_time": 1740313582,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 305001,
       "num": 305001,
       "word": "Deepseek被问最多的问题",
@@ -21729,6 +21769,14 @@
       "onboard_time": 1739822050,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 301301,
+      "num": 301301,
+      "word": "肖战男模机场秀",
+      "onboard_time": 1740314662,
+      "rank": 46,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 301266,
@@ -23211,14 +23259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 280178,
-      "num": 280178,
-      "word": "虞书欣机车婚纱造型",
-      "onboard_time": 1740311538,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 279845,
       "num": 279845,
       "word": "吴京包场",
@@ -23577,14 +23617,6 @@
       "onboard_time": 1738908442,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 275125,
-      "num": 275125,
-      "word": "孙颖莎收到球迷震耳欲聋的爱",
-      "onboard_time": 1740315140,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 275115,
@@ -24057,6 +24089,14 @@
       "onboard_time": 1739590940,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 268557,
+      "num": 268557,
+      "word": "桑延 来财",
+      "onboard_time": 1740316220,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 268487,
@@ -24995,6 +25035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257402,
+      "num": 257402,
+      "word": "桑延 李羲承进行曲",
+      "onboard_time": 1740315500,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 257357,
       "num": 257357,
       "word": "骑手缴纳社保增加的成本由谁承担",
@@ -25905,6 +25953,14 @@
       "onboard_time": 1739875822,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 248768,
+      "num": 248768,
+      "word": "吞海",
+      "onboard_time": 1740316880,
+      "rank": 41,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 248747,
@@ -29299,6 +29355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220462,
+      "num": 220462,
+      "word": "考研明天查分",
+      "onboard_time": 1740316100,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 220460,
       "num": 220460,
       "word": "不怕富二代啃老就怕富二代创业",
@@ -30969,14 +31033,6 @@
       "onboard_time": 1738918104,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 210030,
-      "num": 188870,
-      "word": "肖战男模机场秀",
-      "onboard_time": 1740314662,
-      "rank": 46,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 210014,
@@ -38587,6 +38643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 179585,
+      "num": 249047,
+      "word": "时代少年团肤色",
+      "onboard_time": 1740314481,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179569,
       "num": 179569,
       "word": "杨洋给白敬亭包场梦回旋风少女",
@@ -39009,14 +39073,6 @@
       "onboard_time": 1738568847,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 177456,
-      "num": 400640,
-      "word": "厌食女子被加喂营养餐多脏器衰竭",
-      "onboard_time": 1740315080,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 177444,
@@ -40368,6 +40424,14 @@
       "word": "宋亚轩回应手电筒打光",
       "onboard_time": 1738484297,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 171032,
+      "num": 171032,
+      "word": "enhypen 我不同意开学",
+      "onboard_time": 1740314781,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -42377,6 +42441,14 @@
       "onboard_time": 1739270661,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163231,
+      "num": 248832,
+      "word": "王曼昱让观战粉丝保护嗓子",
+      "onboard_time": 1740316943,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 163198,
@@ -60299,6 +60371,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 75315,
+      "num": 250655,
+      "word": "黄山临时关闭部分游步道",
+      "onboard_time": 1740316943,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75265,
       "num": 223824,
       "word": "潘展乐说用金牌击溃无端的质疑",
@@ -64443,6 +64523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49755,
+      "num": 445912,
+      "word": "官方通报村民清理化粪池致2死",
+      "onboard_time": 1740315980,
+      "rank": 19,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 49699,
       "num": 227077,
       "word": "A股主线重要变化",
@@ -65825,6 +65913,14 @@
       "onboard_time": 1739365040,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 41817,
+      "num": 492273,
+      "word": "王楚钦板板都是高质量",
+      "onboard_time": 1740316401,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 41713,
