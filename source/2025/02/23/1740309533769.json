@@ -1,0 +1,410 @@
+{
+  "runTime": 1740309533769,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1208037,
+        "num": 1208037,
+        "word": "2025年中央一号文件发布",
+        "onboard_time": 1740304699,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1047308,
+        "num": 1047308,
+        "word": "将进酒",
+        "onboard_time": 1740306979,
+        "rank": 1,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 31600,
+        "num": 910676,
+        "word": "我国海洋工程装备制造连续7年霸榜全球",
+        "onboard_time": 1740297020,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 907744,
+        "num": 907744,
+        "word": "推进农村高额彩礼问题综合治理",
+        "onboard_time": 1740306500,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1954435,
+        "num": 899407,
+        "word": "塌房大主播集体复活",
+        "onboard_time": 1740301818,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 854900,
+        "num": 854900,
+        "word": "3名本科生不存在违规操作",
+        "onboard_time": 1740294439,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 790046,
+        "num": 790046,
+        "word": "王曼昱vs孙颖莎",
+        "onboard_time": 1740307820,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 748997,
+        "num": 748997,
+        "word": "黄子琪因拍消失的她患深海恐惧症",
+        "onboard_time": 1740300740,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282824,
+        "num": 677996,
+        "word": "蒯曼亚洲杯女单铜牌",
+        "onboard_time": 1740307941,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66732,
+        "num": 653586,
+        "word": "DeepSeek回答AI有没可能欺骗人类",
+        "onboard_time": 1740308838,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 2721123,
+        "num": 651015,
+        "word": "鹿晗 关晓彤",
+        "onboard_time": 1740301458,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 647604,
+        "num": 647604,
+        "word": "十个勤天演唱会疑似抄袭五月天",
+        "onboard_time": 1740302479,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 612305,
+        "num": 612305,
+        "word": "舒肤佳 李昀锐",
+        "onboard_time": 1740300440,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 597918,
+        "num": 597918,
+        "word": "白敬亭小号为难哄改名",
+        "onboard_time": 1740299600,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38640,
+        "num": 555358,
+        "word": "业内称动画师收入跟农民工差不多",
+        "onboard_time": 1740308899,
+        "rank": 14,
+        "category": "动漫,财经"
+      },
+      {
+        "raw_hot": 548747,
+        "num": 548747,
+        "word": "迪丽热巴出发长沙录开推",
+        "onboard_time": 1740306979,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 441283,
+        "num": 441283,
+        "word": "国防部深感诧异强烈不满",
+        "onboard_time": 1740302659,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 40564,
+        "num": 361790,
+        "word": "白敬亭猫系男友",
+        "onboard_time": 1740308959,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285694,
+        "num": 285694,
+        "word": "林诗栋vs林昀儒",
+        "onboard_time": 1740306679,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35449,
+        "num": 284164,
+        "word": "徐璐直播",
+        "onboard_time": 1740308959,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 536435,
+        "num": 278755,
+        "word": "95后情侣夜市摆摊卖麻糍日入4000元",
+        "onboard_time": 1740304278,
+        "rank": 20,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 455580,
+        "num": 276606,
+        "word": "1米58女子厌食体重如8岁",
+        "onboard_time": 1740304278,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 324663,
+        "num": 268506,
+        "word": "突然发现单休比双休多上7年班",
+        "onboard_time": 1740304340,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194873,
+        "num": 265525,
+        "word": "国企拟录用3名本科生名单被删",
+        "onboard_time": 1740306021,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10982,
+        "num": 263548,
+        "word": "清清回应舆论",
+        "onboard_time": 1740309019,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 315247,
+        "num": 256486,
+        "word": "哪吒2冲向全球票房第7",
+        "onboard_time": 1740303201,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 255183,
+        "num": 255183,
+        "word": "哪吒2放映国家越来越多",
+        "onboard_time": 1740306979,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 60176,
+        "num": 237340,
+        "word": "蒯曼胜利现场放姐就是女王",
+        "onboard_time": 1740309320,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231464,
+        "num": 231464,
+        "word": "金泰亨肌肉",
+        "onboard_time": 1740302059,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41384,
+        "num": 221817,
+        "word": "总制片人谈六姊妹为何受欢迎",
+        "onboard_time": 1740307160,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215117,
+        "num": 215117,
+        "word": "难哄12集口碑",
+        "onboard_time": 1740295878,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213993,
+        "num": 213993,
+        "word": "蒯曼4比0胜陈幸同",
+        "onboard_time": 1740307820,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208966,
+        "num": 208966,
+        "word": "郭艾伦要求队友担责或需提供证明",
+        "onboard_time": 1740298098,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197748,
+        "num": 197748,
+        "word": "医生称DeepSeek有三甲医院专家水平",
+        "onboard_time": 1740290839,
+        "rank": 33,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 197550,
+        "num": 197550,
+        "word": "HLE获得LCK杯冠军",
+        "onboard_time": 1740308838,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192694,
+        "num": 192694,
+        "word": "肖宇梁说国家强大很幸福",
+        "onboard_time": 1740308718,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175668,
+        "num": 175668,
+        "word": "男主死追女主装死",
+        "onboard_time": 1740290719,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174452,
+        "num": 174452,
+        "word": "赵磊希望记住我而不是哪个团的",
+        "onboard_time": 1740306559,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169451,
+        "num": 169451,
+        "word": "十个勤天方称舞美不存在任何抄袭",
+        "onboard_time": 1740309320,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 165962,
+        "num": 165962,
+        "word": "家属还原网红罗大美遇害细节",
+        "onboard_time": 1740305361,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159810,
+        "num": 159810,
+        "word": "马斯克称泽连斯基已被开除",
+        "onboard_time": 1740293959,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 149002,
+        "num": 149002,
+        "word": "时代少年团直播",
+        "onboard_time": 1740305960,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147519,
+        "num": 147519,
+        "word": "胡静老公跪在地上帮她拍照",
+        "onboard_time": 1740291319,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143272,
+        "num": 143272,
+        "word": "年轻人也开始得带状疱疹了",
+        "onboard_time": 1740301458,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140938,
+        "num": 140938,
+        "word": "终于有部剧还原了我的高清童年",
+        "onboard_time": 1740288978,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136357,
+        "num": 136357,
+        "word": "董力躺大街上帮老婆拍照",
+        "onboard_time": 1740303139,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136079,
+        "num": 136079,
+        "word": "潮汕女孩开糖水铺日入1万的一天",
+        "onboard_time": 1740309079,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135244,
+        "num": 135244,
+        "word": "蒯曼vs陈幸同",
+        "onboard_time": 1740303741,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127688,
+        "num": 127688,
+        "word": "韩媒称韩国半导体技术全面落后中国",
+        "onboard_time": 1740309378,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125076,
+        "num": 125076,
+        "word": "王楚钦说亚洲杯圆满了",
+        "onboard_time": 1740307519,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#民营企业要保持爱拼会赢精气神#"
+    }
+  }
+}

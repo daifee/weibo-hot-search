@@ -1,10 +1,10 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740307178377,
+  "endTime": 1740309533769,
   "band_list": [
     {
       "raw_hot": 4198472,
-      "num": 285408,
+      "num": 651015,
       "word": "鹿晗 关晓彤",
       "onboard_time": 1740301458,
       "rank": 10,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1551748,
-      "num": 284319,
+      "num": 647604,
       "word": "十个勤天演唱会疑似抄袭五月天",
       "onboard_time": 1740302479,
       "rank": 11,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 1188045,
-      "num": 283166,
+      "num": 612305,
       "word": "舒肤佳 李昀锐",
       "onboard_time": 1740300440,
       "rank": 12,
@@ -137,6 +137,14 @@
       "onboard_time": 1740290839,
       "rank": 14,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 1047308,
+      "num": 1047308,
+      "word": "将进酒",
+      "onboard_time": 1740306979,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 970137,
@@ -195,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 907744,
+      "num": 907744,
+      "word": "推进农村高额彩礼问题综合治理",
+      "onboard_time": 1740306500,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 808429,
       "num": 808429,
       "word": "DeepSeek预测哪吒2或跻身全球影史前五",
@@ -209,6 +225,14 @@
       "onboard_time": 1740274038,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 790046,
+      "num": 790046,
+      "word": "王曼昱vs孙颖莎",
+      "onboard_time": 1740307820,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 756907,
@@ -356,7 +380,7 @@
     },
     {
       "raw_hot": 574795,
-      "num": 275717,
+      "num": 441283,
       "word": "国防部深感诧异强烈不满",
       "onboard_time": 1740302659,
       "rank": 30,
@@ -387,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 548747,
+      "num": 548747,
+      "word": "迪丽热巴出发长沙录开推",
+      "onboard_time": 1740306979,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 540315,
       "num": 540315,
       "word": "迪丽热巴金世佳新剧下证",
@@ -409,6 +441,14 @@
       "onboard_time": 1740235822,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 536435,
+      "num": 278755,
+      "word": "95后情侣夜市摆摊卖麻糍日入4000元",
+      "onboard_time": 1740304278,
+      "rank": 20,
+      "category": "正能量"
     },
     {
       "raw_hot": 534199,
@@ -435,14 +475,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 507099,
-      "num": 254803,
-      "word": "95后情侣夜市摆摊卖麻糍日入4000元",
-      "onboard_time": 1740304278,
-      "rank": 20,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 492059,
       "num": 492059,
       "word": "郭艾伦要求队友担责或需提供证明",
@@ -451,20 +483,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 455580,
+      "num": 276606,
+      "word": "1米58女子厌食体重如8岁",
+      "onboard_time": 1740304278,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 455410,
       "num": 455410,
       "word": "AG轮换公告",
       "onboard_time": 1740295400,
       "rank": 7,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 434522,
-      "num": 252600,
-      "word": "1米58女子厌食体重如8岁",
-      "onboard_time": 1740304278,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 430512,
@@ -612,7 +644,7 @@
     },
     {
       "raw_hot": 347569,
-      "num": 252279,
+      "num": 256486,
       "word": "哪吒2冲向全球票房第7",
       "onboard_time": 1740303201,
       "rank": 44,
@@ -667,6 +699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 324663,
+      "num": 268506,
+      "word": "突然发现单休比双休多上7年班",
+      "onboard_time": 1740304340,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 322372,
       "num": 273898,
       "word": "哪吒2超134亿",
@@ -681,14 +721,6 @@
       "onboard_time": 1740300859,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 314845,
-      "num": 244705,
-      "word": "突然发现单休比双休多上7年班",
-      "onboard_time": 1740304340,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 313645,
@@ -721,6 +753,22 @@
       "onboard_time": 1740292158,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 285694,
+      "num": 285694,
+      "word": "林诗栋vs林昀儒",
+      "onboard_time": 1740306679,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 282824,
+      "num": 677996,
+      "word": "蒯曼亚洲杯女单铜牌",
+      "onboard_time": 1740307941,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 282542,
@@ -787,14 +835,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 267451,
-      "num": 267451,
-      "word": "推进农村高额彩礼问题综合治理",
-      "onboard_time": 1740306500,
-      "rank": 17,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 263320,
       "num": 263320,
       "word": "王楚钦提醒对手球台上有汗",
@@ -809,6 +849,14 @@
       "onboard_time": 1740301458,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 255183,
+      "num": 255183,
+      "word": "哪吒2放映国家越来越多",
+      "onboard_time": 1740306979,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 249191,
@@ -963,6 +1011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 213993,
+      "num": 213993,
+      "word": "蒯曼4比0胜陈幸同",
+      "onboard_time": 1740307820,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 213760,
       "num": 213760,
       "word": "特朗普要从乌克兰获得任何能得的",
@@ -1043,8 +1099,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 197550,
+      "num": 197550,
+      "word": "HLE获得LCK杯冠军",
+      "onboard_time": 1740308838,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 197046,
-      "num": 197046,
+      "num": 265525,
       "word": "国企拟录用3名本科生名单被删",
       "onboard_time": 1740306021,
       "rank": 32,
@@ -1065,6 +1129,14 @@
       "onboard_time": 1740291019,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192694,
+      "num": 192694,
+      "word": "肖宇梁说国家强大很幸福",
+      "onboard_time": 1740308718,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 192219,
@@ -1259,12 +1331,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 173503,
-      "num": 173503,
-      "word": "将进酒",
-      "onboard_time": 1740306979,
-      "rank": 33,
-      "category": "音乐"
+      "raw_hot": 174452,
+      "num": 174452,
+      "word": "赵磊希望记住我而不是哪个团的",
+      "onboard_time": 1740306559,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 172828,
@@ -1273,14 +1345,6 @@
       "onboard_time": 1740281957,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 172660,
-      "num": 172660,
-      "word": "赵磊希望记住我而不是哪个团的",
-      "onboard_time": 1740306559,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 172112,
@@ -1305,6 +1369,14 @@
       "onboard_time": 1740299179,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169451,
+      "num": 169451,
+      "word": "十个勤天方称舞美不存在任何抄袭",
+      "onboard_time": 1740309320,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 168831,
@@ -1392,6 +1464,14 @@
       "word": "教育局回应男孩校园内被4人霸凌",
       "onboard_time": 1740282799,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165962,
+      "num": 165962,
+      "word": "家属还原网红罗大美遇害细节",
+      "onboard_time": 1740305361,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -1531,14 +1611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 154012,
-      "num": 154012,
-      "word": "迪丽热巴出发长沙录开推",
-      "onboard_time": 1740306979,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 152025,
       "num": 152025,
       "word": "六姊妹母亲可以不完美",
@@ -1635,14 +1707,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 145606,
-      "num": 275926,
-      "word": "林诗栋vs林昀儒",
-      "onboard_time": 1740306679,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 144967,
       "num": 144967,
       "word": "白鹿北上物料",
@@ -1673,14 +1737,6 @@
       "onboard_time": 1740295820,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140042,
-      "num": 140042,
-      "word": "家属还原网红罗大美遇害细节",
-      "onboard_time": 1740305361,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 138951,
@@ -1721,6 +1777,14 @@
       "onboard_time": 1740279139,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 136079,
+      "num": 136079,
+      "word": "潮汕女孩开糖水铺日入1万的一天",
+      "onboard_time": 1740309079,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 135904,
@@ -1787,6 +1851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127688,
+      "num": 127688,
+      "word": "韩媒称韩国半导体技术全面落后中国",
+      "onboard_time": 1740309378,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 127053,
       "num": 206591,
       "word": "赵磊直播唱难哄OST",
@@ -1824,6 +1896,14 @@
       "word": "王楚钦决赛对阵梁靖崑",
       "onboard_time": 1740296600,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 125076,
+      "num": 125076,
+      "word": "王楚钦说亚洲杯圆满了",
+      "onboard_time": 1740307519,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -2195,6 +2275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66732,
+      "num": 653586,
+      "word": "DeepSeek回答AI有没可能欺骗人类",
+      "onboard_time": 1740308838,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 66419,
       "num": 255519,
       "word": "为什么越规划越焦虑",
@@ -2249,6 +2337,14 @@
       "onboard_time": 1740301818,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 60176,
+      "num": 237340,
+      "word": "蒯曼胜利现场放姐就是女王",
+      "onboard_time": 1740309320,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 55671,
@@ -2331,6 +2427,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 41384,
+      "num": 221817,
+      "word": "总制片人谈六姊妹为何受欢迎",
+      "onboard_time": 1740307160,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 40768,
       "num": 52605,
       "word": "马斯克投资的飞行汽车试飞",
@@ -2339,12 +2443,28 @@
       "category": "汽车,互联网"
     },
     {
+      "raw_hot": 40564,
+      "num": 361790,
+      "word": "白敬亭猫系男友",
+      "onboard_time": 1740308959,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 38987,
       "num": 183290,
       "word": "无畏契约曼谷大师赛",
       "onboard_time": 1740274758,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 38640,
+      "num": 555358,
+      "word": "业内称动画师收入跟农民工差不多",
+      "onboard_time": 1740308899,
+      "rank": 14,
+      "category": "动漫,财经"
     },
     {
       "raw_hot": 36146,
@@ -2361,6 +2481,14 @@
       "onboard_time": 1740278839,
       "rank": 29,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 35449,
+      "num": 284164,
+      "word": "徐璐直播",
+      "onboard_time": 1740308959,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 35202,
@@ -2385,6 +2513,14 @@
       "onboard_time": 1740241039,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 31600,
+      "num": 910676,
+      "word": "我国海洋工程装备制造连续7年霸榜全球",
+      "onboard_time": 1740297020,
+      "rank": 2,
+      "category": "正能量"
     },
     {
       "raw_hot": 27450,
@@ -2491,14 +2627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 12564,
-      "num": 188544,
-      "word": "哪吒2放映国家越来越多",
-      "onboard_time": 1740306979,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 12515,
       "num": 47877,
       "word": "辅警火场救人后一氧化碳中毒狂吐",
@@ -2519,6 +2647,14 @@
       "num": 91959,
       "word": "Doinb常规赛MVP颁奖",
       "onboard_time": 1740245175,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 10982,
+      "num": 263548,
+      "word": "清清回应舆论",
+      "onboard_time": 1740309019,
       "rank": 24,
       "category": "电竞"
     },
@@ -2569,14 +2705,6 @@
       "onboard_time": 1740254831,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 6414,
-      "num": 168213,
-      "word": "总制片人谈六姊妹为何受欢迎",
-      "onboard_time": 1740307160,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 5839,
