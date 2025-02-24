@@ -1,6 +1,6 @@
 {
   "startTime": 1740327929685,
-  "endTime": 1740378794283,
+  "endTime": 1740379539062,
   "band_list": [
     {
       "raw_hot": 2195594,
@@ -99,6 +99,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1115463,
+      "num": 1115463,
+      "word": "坏回暖来了",
+      "onboard_time": 1740375681,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1083170,
       "num": 639495,
       "word": "窃贼买彩票中381万受害者要求分奖金",
@@ -163,14 +171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 949900,
-      "num": 949900,
-      "word": "坏回暖来了",
-      "onboard_time": 1740375681,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 914924,
       "num": 502432,
       "word": "贾静雯19岁大女儿晒海边比基尼照",
@@ -219,12 +219,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 855289,
+      "num": 220255,
+      "word": "她一个月干了我一辈子的工作",
+      "onboard_time": 1740379519,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 806736,
       "num": 806736,
       "word": "王心凌回应成为高清画质单位",
       "onboard_time": 1740355098,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 803521,
+      "num": 345183,
+      "word": "迪丽热巴脚趾接大工程了",
+      "onboard_time": 1740378081,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 800841,
@@ -635,12 +651,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 303755,
-      "num": 303755,
-      "word": "迪丽热巴脚趾接大工程了",
-      "onboard_time": 1740378081,
-      "rank": 15,
-      "category": "综艺"
+      "raw_hot": 303413,
+      "num": 249672,
+      "word": "考研人数大幅下降考研会更简单吗",
+      "onboard_time": 1740376100,
+      "rank": 22,
+      "category": "教育"
     },
     {
       "raw_hot": 299960,
@@ -657,6 +673,14 @@
       "onboard_time": 1740367101,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 297696,
+      "num": 305957,
+      "word": "员工如厕须带离岗证且限次数和时间",
+      "onboard_time": 1740377001,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 296548,
@@ -697,14 +721,6 @@
       "onboard_time": 1740313582,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 277171,
-      "num": 249672,
-      "word": "考研人数大幅下降考研会更简单吗",
-      "onboard_time": 1740376100,
-      "rank": 22,
-      "category": "教育"
     },
     {
       "raw_hot": 276004,
@@ -827,6 +843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221458,
+      "num": 221458,
+      "word": "刘亦菲素颜逛家具城",
+      "onboard_time": 1740376283,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221117,
       "num": 241220,
       "word": "撒贝宁王鸥现身福州",
@@ -881,14 +905,6 @@
       "onboard_time": 1740356179,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 213781,
-      "num": 213781,
-      "word": "刘亦菲素颜逛家具城",
-      "onboard_time": 1740376283,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 213340,
@@ -1227,6 +1243,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 177656,
+      "num": 177656,
+      "word": "考研",
+      "onboard_time": 1740379400,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 177355,
       "num": 191522,
       "word": "建议全国推广自制下车站发卡",
@@ -1315,14 +1339,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 163010,
-      "num": 305957,
-      "word": "员工如厕须带离岗证且限次数和时间",
-      "onboard_time": 1740377001,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 160016,
       "num": 275979,
       "word": "泽连斯基称将与特朗普会谈",
@@ -1337,6 +1353,14 @@
       "onboard_time": 1740376822,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 159123,
+      "num": 207122,
+      "word": "王楚钦时隔3月再晒男单冠军自拍",
+      "onboard_time": 1740379099,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 157703,
@@ -1387,6 +1411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148464,
+      "num": 294610,
+      "word": "泽连斯基再表态称希望得到中国帮助",
+      "onboard_time": 1740374839,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 148434,
       "num": 396937,
       "word": "成都一幼儿园建成4年仍闲置",
@@ -1419,12 +1451,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 140035,
-      "num": 294610,
-      "word": "泽连斯基再表态称希望得到中国帮助",
-      "onboard_time": 1740374839,
-      "rank": 28,
-      "category": "国际时政"
+      "raw_hot": 137590,
+      "num": 137590,
+      "word": "安娜唐探1900路演vlog",
+      "onboard_time": 1740379280,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 137259,
+      "num": 137259,
+      "word": "95后男孩从孤儿院到年薪百万",
+      "onboard_time": 1740379459,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136464,
@@ -1515,6 +1555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122493,
+      "num": 227776,
+      "word": "檀健次跳舞",
+      "onboard_time": 1740378741,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119284,
       "num": 336599,
       "word": "王楚钦感谢低迷期对自己鼓励的人",
@@ -1536,6 +1584,14 @@
       "word": "警方提醒不要随便下载APP",
       "onboard_time": 1740360439,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115141,
+      "num": 204695,
+      "word": "警方通报男子自制箭射伤数只猫",
+      "onboard_time": 1740379040,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -1579,20 +1635,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 103248,
+      "num": 213167,
+      "word": "考研人查成绩状态一览",
+      "onboard_time": 1740378621,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 100380,
       "num": 244165,
       "word": "王鹤棣新片30秒预告15个身份",
       "onboard_time": 1740377421,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 95027,
-      "num": 213167,
-      "word": "考研人查成绩状态一览",
-      "onboard_time": 1740378621,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 92904,
@@ -1609,14 +1665,6 @@
       "onboard_time": 1740369322,
       "rank": 26,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 86501,
-      "num": 189690,
-      "word": "檀健次跳舞",
-      "onboard_time": 1740378741,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 85820,
@@ -1723,12 +1771,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59604,
+      "num": 211997,
+      "word": "人民日报社论解读中央一号文件",
+      "onboard_time": 1740378500,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 59206,
       "num": 433148,
       "word": "考研名师谈查分",
       "onboard_time": 1740371181,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 58525,
+      "num": 154181,
+      "word": "小米15Ultra徕卡相机感设计",
+      "onboard_time": 1740378981,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 57745,
@@ -1803,20 +1867,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 49326,
+      "num": 148964,
+      "word": "组建诈骗集团冒充高富帅骗1亿多元",
+      "onboard_time": 1740378561,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48783,
       "num": 48783,
       "word": "明日起可查考研成绩",
       "onboard_time": 1740353236,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 47679,
-      "num": 211997,
-      "word": "人民日报社论解读中央一号文件",
-      "onboard_time": 1740378500,
-      "rank": 33,
-      "category": "国内时政"
     },
     {
       "raw_hot": 46902,
@@ -1915,6 +1979,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 28162,
+      "num": 212763,
+      "word": "美航客机收到炸弹威胁改道意大利",
+      "onboard_time": 1740378621,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 27891,
       "num": 241288,
       "word": "郑某峰若涉罪将来还能做导演吗",
@@ -1961,14 +2033,6 @@
       "onboard_time": 1740339431,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17468,
-      "num": 212763,
-      "word": "美航客机收到炸弹威胁改道意大利",
-      "onboard_time": 1740378621,
-      "rank": 31,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 16802,
