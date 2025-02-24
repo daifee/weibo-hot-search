@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740432060618,
+  "endTime": 1740432991215,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -69035,6 +69035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 44061,
+      "num": 44061,
+      "word": "张雨绮前夫袁巴元被限消",
+      "onboard_time": 1740429911,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 44004,
       "num": 235323,
       "word": "原神5.4版本",
@@ -72763,14 +72771,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 25894,
-      "num": 25894,
-      "word": "张雨绮前夫袁巴元被限消",
-      "onboard_time": 1740429911,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 25850,
       "num": 405570,
       "word": "汪顺说亚冬会中国队加油",
@@ -74019,12 +74019,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 21018,
+      "num": 20158,
+      "word": "根本不敢和酒店其他的人碰面",
+      "onboard_time": 1740427931,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 20996,
       "num": 238067,
       "word": "金巧巧力挺蛟龙行动",
       "onboard_time": 1739954481,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 20940,
+      "num": 34840,
+      "word": "这个反常行为引起朝阳群众警觉",
+      "onboard_time": 1740431710,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20931,
@@ -74297,14 +74313,6 @@
       "onboard_time": 1739863645,
       "rank": 26,
       "category": "教育"
-    },
-    {
-      "raw_hot": 20059,
-      "num": 19205,
-      "word": "根本不敢和酒店其他的人碰面",
-      "onboard_time": 1740427931,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 19988,
@@ -75627,6 +75635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 13535,
+      "num": 16326,
+      "word": "男童卡喉脸已发紫路人出手了",
+      "onboard_time": 1740428651,
+      "rank": 49,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 13528,
       "num": 16611,
       "word": "今天星期五",
@@ -75635,20 +75651,20 @@
       "category": "民生新闻,情感"
     },
     {
+      "raw_hot": 13526,
+      "num": 16328,
+      "word": "多方辟谣网传车主被索要5千过路费",
+      "onboard_time": 1740419353,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13486,
       "num": 31078,
       "word": "哪吒2仅用21天登顶全球动画榜",
       "onboard_time": 1739909650,
       "rank": 9,
       "category": "电影"
-    },
-    {
-      "raw_hot": 13409,
-      "num": 16326,
-      "word": "男童卡喉脸已发紫路人出手了",
-      "onboard_time": 1740428651,
-      "rank": 49,
-      "category": "正能量"
     },
     {
       "raw_hot": 13370,
@@ -75729,14 +75745,6 @@
       "onboard_time": 1739623220,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 13120,
-      "num": 16328,
-      "word": "多方辟谣网传车主被索要5千过路费",
-      "onboard_time": 1740419353,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13095,
@@ -76864,14 +76872,6 @@
       "word": "翻翻内存卡看火箭军锤炼本领",
       "onboard_time": 1739911931,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 8336,
-      "num": 34840,
-      "word": "这个反常行为引起朝阳群众警觉",
-      "onboard_time": 1740431710,
-      "rank": 12,
       "category": "民生新闻"
     },
     {
