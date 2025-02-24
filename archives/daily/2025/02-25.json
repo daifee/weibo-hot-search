@@ -1,6 +1,6 @@
 {
   "startTime": 1740414610412,
-  "endTime": 1740418671756,
+  "endTime": 1740421917434,
   "band_list": [
     {
       "raw_hot": 1148255,
@@ -459,12 +459,52 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 16174,
+      "raw_hot": 27873,
+      "num": 27873,
+      "word": "丁程鑫23岁状态",
+      "onboard_time": 1740419353,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 27317,
+      "num": 27317,
+      "word": "俄乌冲突三年给世界带来了什么",
+      "onboard_time": 1740411619,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 26197,
       "num": 66046,
       "word": "因为爱聊天获诺贝尔一直讲",
       "onboard_time": 1740418333,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22921,
+      "num": 22921,
+      "word": "唐奇的造型师们选的真不错",
+      "onboard_time": 1740421271,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 20911,
+      "num": 25671,
+      "word": "被小孩哥高情商化解尴尬暖到了",
+      "onboard_time": 1740420732,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18686,
+      "num": 22566,
+      "word": "Hearts2Hearts出道曲MV",
+      "onboard_time": 1740420791,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 11770,

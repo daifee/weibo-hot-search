@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740418671756,
+  "endTime": 1740421917434,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -6699,6 +6699,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 27873,
+      "num": 27873,
+      "word": "丁程鑫23岁状态",
+      "onboard_time": 1740419353,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27681,
       "num": 241185,
       "word": "林诗栋亚洲杯男单摘铜",
@@ -6723,6 +6731,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 27317,
+      "num": 27317,
+      "word": "俄乌冲突三年给世界带来了什么",
+      "onboard_time": 1740411619,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 27062,
       "num": 285958,
       "word": "留几手解释为什么自称知名艺人",
@@ -6736,6 +6752,14 @@
       "word": "破解民营企业融资难各地有新招",
       "onboard_time": 1740231382,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26197,
+      "num": 66046,
+      "word": "因为爱聊天获诺贝尔一直讲",
+      "onboard_time": 1740418333,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -6777,6 +6801,14 @@
       "onboard_time": 1740388221,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 22921,
+      "num": 22921,
+      "word": "唐奇的造型师们选的真不错",
+      "onboard_time": 1740421271,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 22894,
@@ -6835,6 +6867,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 20911,
+      "num": 25671,
+      "word": "被小孩哥高情商化解尴尬暖到了",
+      "onboard_time": 1740420732,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20653,
       "num": 33244,
       "word": "高三女生离家出走被女警抱抱",
@@ -6891,6 +6931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18686,
+      "num": 22566,
+      "word": "Hearts2Hearts出道曲MV",
+      "onboard_time": 1740420791,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 18651,
       "num": 18651,
       "word": "火车上破获一起买卖婴儿案",
@@ -6945,14 +6993,6 @@
       "onboard_time": 1740335053,
       "rank": 27,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 16174,
-      "num": 66046,
-      "word": "因为爱聊天获诺贝尔一直讲",
-      "onboard_time": 1740418333,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16020,
