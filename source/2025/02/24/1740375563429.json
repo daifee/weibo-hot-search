@@ -1,0 +1,410 @@
+{
+  "runTime": 1740375563429,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1340224,
+        "num": 1340224,
+        "word": "查分查到自己考研全国第一belike",
+        "onboard_time": 1740373281,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1151264,
+        "num": 1151264,
+        "word": "联想电脑坏了售后让去美国修",
+        "onboard_time": 1740372142,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67155,
+        "num": 743750,
+        "word": "强农惠农富农的政策持续加力",
+        "onboard_time": 1740366019,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 714437,
+        "num": 714437,
+        "word": "考研查分",
+        "onboard_time": 1740353295,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 682318,
+        "num": 682318,
+        "word": "国家线",
+        "onboard_time": 1740361460,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 639495,
+        "num": 639495,
+        "word": "窃贼买彩票中381万受害者要求分奖金",
+        "onboard_time": 1740373701,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 632252,
+        "num": 632252,
+        "word": "小行星撞地球概率调整为接近为零",
+        "onboard_time": 1740373642,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 525331,
+        "num": 525331,
+        "word": "半熟恋人4官宣",
+        "onboard_time": 1740372741,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 524868,
+        "num": 524868,
+        "word": "星河入梦定档",
+        "onboard_time": 1740363680,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 522970,
+        "num": 522970,
+        "word": "赵丽颖四平台破万",
+        "onboard_time": 1740371241,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 644723,
+        "num": 502432,
+        "word": "贾静雯19岁大女儿晒海边比基尼照",
+        "onboard_time": 1740374181,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 574527,
+        "num": 472102,
+        "word": "陈妍希官宣离婚后与友人聚餐",
+        "onboard_time": 1740374422,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 439059,
+        "num": 439059,
+        "word": "迪丽热巴金靖直播走秀",
+        "onboard_time": 1740372263,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 437733,
+        "num": 437733,
+        "word": "权志龙 我们三个也不是想这样才三个人的",
+        "onboard_time": 1740365600,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 399535,
+        "num": 399535,
+        "word": "泽连斯基说希望在重建中得到中国帮助",
+        "onboard_time": 1740365000,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 418178,
+        "num": 398920,
+        "word": "偶遇王俊凯公园锻炼",
+        "onboard_time": 1740373341,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417830,
+        "num": 397128,
+        "word": "林允站姐级别的出片",
+        "onboard_time": 1740369920,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 427026,
+        "num": 396357,
+        "word": "迪丽热巴我觉得有点尴尬",
+        "onboard_time": 1740373941,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 399718,
+        "num": 395098,
+        "word": "网剧轧戏",
+        "onboard_time": 1740362059,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 394315,
+        "num": 394315,
+        "word": "谭瑞松被开除党籍",
+        "onboard_time": 1740368540,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 598013,
+        "num": 388075,
+        "word": "建议睡觉时把手机放1.5米以外",
+        "onboard_time": 1740367882,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 378242,
+        "num": 378242,
+        "word": "5旬算命先生被情人喂百草枯中毒身亡",
+        "onboard_time": 1740368780,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350638,
+        "num": 350638,
+        "word": "男主爱7次结果是1人",
+        "onboard_time": 1740373041,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 344250,
+        "num": 344250,
+        "word": "毛利兰被击倒了",
+        "onboard_time": 1740369140,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 340409,
+        "num": 340409,
+        "word": "iPhone17全系CAD图",
+        "onboard_time": 1740365600,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 42055,
+        "num": 337782,
+        "word": "60秒回顾俄乌战局变化",
+        "onboard_time": 1740374241,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 336105,
+        "num": 336105,
+        "word": "乌克兰取消战时状态后将选总统",
+        "onboard_time": 1740355518,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123829,
+        "num": 301894,
+        "word": "孙颖莎继续追梦奔赴下一个赛场",
+        "onboard_time": 1740375322,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69524,
+        "num": 294610,
+        "word": "泽连斯基再表态称希望得到中国帮助",
+        "onboard_time": 1740374839,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 205823,
+        "num": 294201,
+        "word": "国产剧进入千禧梦核时代",
+        "onboard_time": 1740374542,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294100,
+        "num": 294100,
+        "word": "王子文带儿子和亲友聚餐",
+        "onboard_time": 1740375322,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277331,
+        "num": 277331,
+        "word": "麦琳cos十年前的自己",
+        "onboard_time": 1740368421,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229914,
+        "num": 229914,
+        "word": "小哪吒海外打赢美队4",
+        "onboard_time": 1740366381,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 223778,
+        "num": 223778,
+        "word": "难哄剧组聚餐vlog",
+        "onboard_time": 1740375021,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220252,
+        "num": 220252,
+        "word": "英语一我恨你",
+        "onboard_time": 1740362179,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 211484,
+        "num": 211484,
+        "word": "欧洲内部对俄态度出现分裂",
+        "onboard_time": 1740373402,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 202125,
+        "num": 202125,
+        "word": "米兰街头偶遇肖战逛街",
+        "onboard_time": 1740372922,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187622,
+        "num": 187622,
+        "word": "父亲让俩儿子抓阄凭运气选房",
+        "onboard_time": 1740372862,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56827,
+        "num": 184501,
+        "word": "早餐酸汤水饺",
+        "onboard_time": 1740375380,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 60883,
+        "num": 182965,
+        "word": "泽连斯基称美援是捐赠不是债务",
+        "onboard_time": 1740374901,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 182644,
+        "num": 182644,
+        "word": "男子套现损失6千发信息说诅咒很灵",
+        "onboard_time": 1740365721,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180366,
+        "num": 180366,
+        "word": "韩庚米兰街头再跳SorrySorry",
+        "onboard_time": 1740374061,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176032,
+        "num": 176032,
+        "word": "难哄好甜",
+        "onboard_time": 1740375322,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54085,
+        "num": 167867,
+        "word": "孟子义确认出席米兰时装周",
+        "onboard_time": 1740375439,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 162714,
+        "num": 162714,
+        "word": "没人能在雪景里打败刘诗诗",
+        "onboard_time": 1740373881,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158590,
+        "num": 158590,
+        "word": "52岁女子跳断头舞走红",
+        "onboard_time": 1740375142,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157231,
+        "num": 157231,
+        "word": "25考研",
+        "onboard_time": 1740373341,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 149047,
+        "num": 149047,
+        "word": "桑延温以凡爱情全靠梦游助攻",
+        "onboard_time": 1740375502,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148756,
+        "num": 148756,
+        "word": "滤镜",
+        "onboard_time": 1740374299,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148751,
+        "num": 148751,
+        "word": "白雪公主内地定档3月21日",
+        "onboard_time": 1740367160,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#扎实推进乡村全面振兴#"
+    }
+  }
+}
