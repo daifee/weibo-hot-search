@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740417568613,
+  "endTime": 1740418671756,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -2595,6 +2595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 241022,
+      "num": 241022,
+      "word": "高校聘博士初中学历配偶属劳务派遣",
+      "onboard_time": 1740415936,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 240853,
       "num": 240853,
       "word": "HLE获得LCK杯冠军",
@@ -3041,14 +3049,6 @@
       "onboard_time": 1740379400,
       "rank": 33,
       "category": "教育"
-    },
-    {
-      "raw_hot": 210022,
-      "num": 210022,
-      "word": "高校聘博士初中学历配偶属劳务派遣",
-      "onboard_time": 1740415936,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 210016,
@@ -4553,6 +4553,14 @@
       "onboard_time": 1740305960,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 151342,
+      "num": 151342,
+      "word": "湖北师大回应录用初中学历人员",
+      "onboard_time": 1740417134,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151155,
@@ -6083,6 +6091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62431,
+      "num": 62431,
+      "word": "难哄导演给白敬亭拍出偶像包袱了",
+      "onboard_time": 1740415275,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 61655,
       "num": 259149,
       "word": "deepseek教你如何和香菜共处",
@@ -6121,14 +6137,6 @@
       "onboard_time": 1740371181,
       "rank": 44,
       "category": "教育"
-    },
-    {
-      "raw_hot": 59153,
-      "num": 59153,
-      "word": "难哄导演给白敬亭拍出偶像包袱了",
-      "onboard_time": 1740415275,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 58525,
@@ -6499,6 +6507,14 @@
       "category": "动漫,财经"
     },
     {
+      "raw_hot": 37630,
+      "num": 37630,
+      "word": "酒吧偶遇蒋奇明",
+      "onboard_time": 1740417973,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 36877,
       "num": 453713,
       "word": "俄乌冲突三年来对全球的影响",
@@ -6787,14 +6803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 22267,
-      "num": 137294,
-      "word": "湖北师大回应录用初中学历人员",
-      "onboard_time": 1740417134,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 22181,
       "num": 34927,
       "word": "中国经济驶向一个新的春天",
@@ -6937,6 +6945,14 @@
       "onboard_time": 1740335053,
       "rank": 27,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 16174,
+      "num": 66046,
+      "word": "因为爱聊天获诺贝尔一直讲",
+      "onboard_time": 1740418333,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16020,

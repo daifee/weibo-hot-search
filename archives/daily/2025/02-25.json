@@ -1,6 +1,6 @@
 {
   "startTime": 1740414610412,
-  "endTime": 1740417568613,
+  "endTime": 1740418671756,
   "band_list": [
     {
       "raw_hot": 1148255,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 241022,
+      "num": 241022,
+      "word": "高校聘博士初中学历配偶属劳务派遣",
+      "onboard_time": 1740415936,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 238778,
       "num": 238778,
       "word": "长期熬夜晚睡消耗气血",
@@ -137,14 +145,6 @@
       "onboard_time": 1740404062,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 210022,
-      "num": 210022,
-      "word": "高校聘博士初中学历配偶属劳务派遣",
-      "onboard_time": 1740415936,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 188551,
@@ -193,6 +193,14 @@
       "onboard_time": 1740396619,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151342,
+      "num": 151342,
+      "word": "湖北师大回应录用初中学历人员",
+      "onboard_time": 1740417134,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146060,
@@ -395,8 +403,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 59153,
-      "num": 59153,
+      "raw_hot": 62431,
+      "num": 62431,
       "word": "难哄导演给白敬亭拍出偶像包袱了",
       "onboard_time": 1740415275,
       "rank": 30,
@@ -427,6 +435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 37630,
+      "num": 37630,
+      "word": "酒吧偶遇蒋奇明",
+      "onboard_time": 1740417973,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 36213,
       "num": 90753,
       "word": "中俄是搬不走的好邻居",
@@ -443,11 +459,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 22267,
-      "num": 137294,
-      "word": "湖北师大回应录用初中学历人员",
-      "onboard_time": 1740417134,
-      "rank": 9,
+      "raw_hot": 16174,
+      "num": 66046,
+      "word": "因为爱聊天获诺贝尔一直讲",
+      "onboard_time": 1740418333,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
