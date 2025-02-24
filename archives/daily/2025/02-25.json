@@ -1,6 +1,6 @@
 {
   "startTime": 1740414610412,
-  "endTime": 1740435717493,
+  "endTime": 1740436769024,
   "band_list": [
     {
       "raw_hot": 1148255,
@@ -107,8 +107,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 241022,
-      "num": 241022,
+      "raw_hot": 248013,
+      "num": 473084,
       "word": "高校聘博士初中学历配偶属劳务派遣",
       "onboard_time": 1740415936,
       "rank": 5,
@@ -203,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148284,
+      "num": 97178,
+      "word": "张雨绮前夫袁巴元被限消",
+      "onboard_time": 1740429911,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146060,
       "num": 146060,
       "word": "丈夫设局让妻子离婚时背75万巨债",
@@ -265,14 +273,6 @@
       "onboard_time": 1740391999,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 102957,
-      "num": 77631,
-      "word": "张雨绮前夫袁巴元被限消",
-      "onboard_time": 1740429911,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 100567,
@@ -371,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80702,
+      "num": 80702,
+      "word": "这个反常行为引起朝阳群众警觉",
+      "onboard_time": 1740431710,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71916,
       "num": 71916,
       "word": "湖北师大回应初中学历者进校就职",
@@ -411,20 +419,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 63702,
+      "num": 63702,
+      "word": "俄乌冲突三年给世界带来了什么",
+      "onboard_time": 1740411619,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 62431,
       "num": 62431,
       "word": "难哄导演给白敬亭拍出偶像包袱了",
       "onboard_time": 1740415275,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 57950,
-      "num": 57950,
-      "word": "这个反常行为引起朝阳群众警觉",
-      "onboard_time": 1740431710,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 57940,
@@ -443,20 +451,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 48328,
-      "num": 48328,
-      "word": "俄乌冲突三年给世界带来了什么",
-      "onboard_time": 1740411619,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 45762,
       "num": 45762,
       "word": "labubu",
       "onboard_time": 1740427510,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 44687,
+      "num": 39956,
+      "word": "4岁女童每天饮料甜食不断确诊糖尿病",
+      "onboard_time": 1740425772,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42926,
+      "num": 39494,
+      "word": "留学生为父母养老放弃绿卡回国",
+      "onboard_time": 1740422891,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42808,
@@ -467,20 +483,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 38970,
+      "num": 38970,
+      "word": "一男子地铁吵架吼对方听不懂上海话",
+      "onboard_time": 1740422832,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37630,
       "num": 37630,
       "word": "酒吧偶遇蒋奇明",
       "onboard_time": 1740417973,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 36725,
-      "num": 33027,
-      "word": "留学生为父母养老放弃绿卡回国",
-      "onboard_time": 1740422891,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 36213,
@@ -491,20 +507,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 32714,
-      "num": 32714,
-      "word": "一男子地铁吵架吼对方听不懂上海话",
-      "onboard_time": 1740422832,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32297,
-      "num": 32297,
-      "word": "4岁女童每天饮料甜食不断确诊糖尿病",
-      "onboard_time": 1740425772,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 31638,
+      "num": 31638,
+      "word": "哪吒汽车从未对哪吒2电影方提起诉讼",
+      "onboard_time": 1740435552,
+      "rank": 47,
+      "category": "汽车,电影"
     },
     {
       "raw_hot": 29285,
@@ -513,6 +521,14 @@
       "onboard_time": 1740414738,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 29034,
+      "num": 29034,
+      "word": "根本不敢和酒店其他的人碰面",
+      "onboard_time": 1740427931,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 27873,
@@ -529,14 +545,6 @@
       "onboard_time": 1740418333,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23905,
-      "num": 23905,
-      "word": "根本不敢和酒店其他的人碰面",
-      "onboard_time": 1740427931,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 23167,
@@ -563,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18836,
+      "num": 26213,
+      "word": "曝特斯拉准备在华部署FSD",
+      "onboard_time": 1740436573,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 18686,
       "num": 22566,
       "word": "Hearts2Hearts出道曲MV",
@@ -577,14 +593,6 @@
       "onboard_time": 1740422232,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 16419,
-      "num": 22058,
-      "word": "哪吒汽车从未对哪吒2电影方提起诉讼",
-      "onboard_time": 1740435552,
-      "rank": 47,
-      "category": "汽车,电影"
     },
     {
       "raw_hot": 13535,
