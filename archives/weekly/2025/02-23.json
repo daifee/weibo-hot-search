@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740436769024,
+  "endTime": 1740439327327,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -1251,6 +1251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 538994,
+      "num": 787645,
+      "word": "高校聘博士初中学历配偶属劳务派遣",
+      "onboard_time": 1740415936,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 537927,
       "num": 537927,
       "word": "花间令收视新高",
@@ -2283,6 +2291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 286274,
+      "num": 228801,
+      "word": "张雨绮前夫袁巴元被限消",
+      "onboard_time": 1740429911,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 285299,
       "num": 653586,
       "word": "DeepSeek回答AI有没可能欺骗人类",
@@ -2529,14 +2545,6 @@
       "onboard_time": 1740289520,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 248013,
-      "num": 473084,
-      "word": "高校聘博士初中学历配偶属劳务派遣",
-      "onboard_time": 1740415936,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 247547,
@@ -2921,6 +2929,14 @@
       "onboard_time": 1740373341,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 218824,
+      "num": 218824,
+      "word": "吉祥航空回应被曝给乘客过期坚果",
+      "onboard_time": 1740413237,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 218302,
@@ -4659,14 +4675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148284,
-      "num": 97178,
-      "word": "张雨绮前夫袁巴元被限消",
-      "onboard_time": 1740429911,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 148079,
       "num": 148079,
       "word": "捡到了桑延的手机",
@@ -5251,6 +5259,14 @@
       "category": "健康医疗,美食"
     },
     {
+      "raw_hot": 119474,
+      "num": 119474,
+      "word": "俄乌冲突三年给世界带来了什么",
+      "onboard_time": 1740411619,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 119284,
       "num": 336599,
       "word": "王楚钦感谢低迷期对自己鼓励的人",
@@ -5435,6 +5451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111283,
+      "num": 111283,
+      "word": "哪吒汽车从未对哪吒2电影方提起诉讼",
+      "onboard_time": 1740435552,
+      "rank": 47,
+      "category": "汽车,电影"
+    },
+    {
       "raw_hot": 110330,
       "num": 280090,
       "word": "女子减肥患厌食症瘦到只剩40斤",
@@ -5499,12 +5523,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 107285,
+      "num": 103030,
+      "word": "4岁女童每天饮料甜食不断确诊糖尿病",
+      "onboard_time": 1740425772,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106135,
       "num": 106135,
       "word": "林一去了黄明昊演唱会",
       "onboard_time": 1740236362,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 106100,
+      "num": 106100,
+      "word": "这个反常行为引起朝阳群众警觉",
+      "onboard_time": 1740431710,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104710,
@@ -5635,6 +5675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97471,
+      "num": 97471,
+      "word": "一男子地铁吵架吼对方听不懂上海话",
+      "onboard_time": 1740422832,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96449,
       "num": 96449,
       "word": "陈立农演唱会嘉宾杨丞琳",
@@ -5643,20 +5691,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 95185,
-      "num": 163967,
-      "word": "吉祥航空回应被曝给乘客过期坚果",
-      "onboard_time": 1740413237,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 94431,
       "num": 527009,
       "word": "官方通报村民清理化粪池致2死",
       "onboard_time": 1740315980,
       "rank": 19,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 94143,
+      "num": 68934,
+      "word": "联合国安理会通过美涉乌决议",
+      "onboard_time": 1740438194,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 93457,
@@ -5771,6 +5819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84324,
+      "num": 84324,
+      "word": "酒吧偶遇蒋奇明",
+      "onboard_time": 1740417973,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84307,
       "num": 84307,
       "word": "医生谈女子用土方敷脚被染色",
@@ -5859,12 +5915,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 80702,
-      "num": 80702,
-      "word": "这个反常行为引起朝阳群众警觉",
-      "onboard_time": 1740431710,
-      "rank": 12,
-      "category": "民生新闻"
+      "raw_hot": 80494,
+      "num": 68810,
+      "word": "美国一波音客机飞行中机内冒烟",
+      "onboard_time": 1740437834,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 79444,
@@ -5979,6 +6035,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 72682,
+      "num": 72682,
+      "word": "labubu",
+      "onboard_time": 1740427510,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 72569,
       "num": 413595,
       "word": "白天辉二审死刑",
@@ -6003,6 +6067,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 67397,
+      "num": 67397,
+      "word": "留学生为父母养老放弃绿卡回国",
+      "onboard_time": 1740422891,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66948,
       "num": 671160,
       "word": "一男子自制工具伤害多只猫被行拘",
@@ -6025,6 +6097,22 @@
       "onboard_time": 1740367101,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65974,
+      "num": 103531,
+      "word": "丁程鑫 严严",
+      "onboard_time": 1740438314,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 65841,
+      "num": 65841,
+      "word": "根本不敢和酒店其他的人碰面",
+      "onboard_time": 1740427931,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 65746,
@@ -6089,14 +6177,6 @@
       "onboard_time": 1740299359,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 63702,
-      "num": 63702,
-      "word": "俄乌冲突三年给世界带来了什么",
-      "onboard_time": 1740411619,
-      "rank": 32,
-      "category": "国际时政"
     },
     {
       "raw_hot": 63005,
@@ -6411,28 +6491,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 45762,
-      "num": 45762,
-      "word": "labubu",
-      "onboard_time": 1740427510,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 44905,
       "num": 207690,
       "word": "男子一个飞扑救起落水男孩",
       "onboard_time": 1740385763,
       "rank": 37,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 44687,
-      "num": 39956,
-      "word": "4岁女童每天饮料甜食不断确诊糖尿病",
-      "onboard_time": 1740425772,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 44580,
@@ -6459,14 +6523,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 42926,
-      "num": 39494,
-      "word": "留学生为父母养老放弃绿卡回国",
-      "onboard_time": 1740422891,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 42543,
       "num": 328074,
       "word": "IG无缘全球先锋赛",
@@ -6481,6 +6537,14 @@
       "onboard_time": 1740284959,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 42069,
+      "num": 66046,
+      "word": "因为爱聊天获诺贝尔一直讲",
+      "onboard_time": 1740418333,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42055,
@@ -6547,28 +6611,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 38970,
-      "num": 38970,
-      "word": "一男子地铁吵架吼对方听不懂上海话",
-      "onboard_time": 1740422832,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 38640,
       "num": 555358,
       "word": "业内称动画师收入跟农民工差不多",
       "onboard_time": 1740308899,
       "rank": 14,
       "category": "动漫,财经"
-    },
-    {
-      "raw_hot": 37630,
-      "num": 37630,
-      "word": "酒吧偶遇蒋奇明",
-      "onboard_time": 1740417973,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 36877,
@@ -6643,6 +6691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 33012,
+      "num": 41779,
+      "word": "曝特斯拉准备在华部署FSD",
+      "onboard_time": 1740436573,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 32924,
       "num": 68527,
       "word": "特朗普要通过美乌矿产协议拿回美国的钱",
@@ -6691,14 +6747,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 31638,
-      "num": 31638,
-      "word": "哪吒汽车从未对哪吒2电影方提起诉讼",
-      "onboard_time": 1740435552,
-      "rank": 47,
-      "category": "汽车,电影"
-    },
-    {
       "raw_hot": 31125,
       "num": 340873,
       "word": "今日看盘",
@@ -6721,14 +6769,6 @@
       "onboard_time": 1740414738,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 29034,
-      "num": 29034,
-      "word": "根本不敢和酒店其他的人碰面",
-      "onboard_time": 1740427931,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 28886,
@@ -6816,14 +6856,6 @@
       "word": "破解民营企业融资难各地有新招",
       "onboard_time": 1740231382,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26197,
-      "num": 66046,
-      "word": "因为爱聊天获诺贝尔一直讲",
-      "onboard_time": 1740418333,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -6993,14 +7025,6 @@
       "onboard_time": 1740324861,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 18836,
-      "num": 26213,
-      "word": "曝特斯拉准备在华部署FSD",
-      "onboard_time": 1740436573,
-      "rank": 48,
-      "category": "汽车"
     },
     {
       "raw_hot": 18810,

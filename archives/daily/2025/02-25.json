@@ -1,6 +1,6 @@
 {
   "startTime": 1740414610412,
-  "endTime": 1740436769024,
+  "endTime": 1740439327327,
   "band_list": [
     {
       "raw_hot": 1148255,
@@ -43,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 538994,
+      "num": 787645,
+      "word": "高校聘博士初中学历配偶属劳务派遣",
+      "onboard_time": 1740415936,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 515843,
       "num": 267259,
       "word": "李威已被保释",
@@ -72,6 +80,14 @@
       "word": "总算见识到刘亦菲的高颅顶了",
       "onboard_time": 1740397819,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 286274,
+      "num": 228801,
+      "word": "张雨绮前夫袁巴元被限消",
+      "onboard_time": 1740429911,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -107,14 +123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 248013,
-      "num": 473084,
-      "word": "高校聘博士初中学历配偶属劳务派遣",
-      "onboard_time": 1740415936,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 238778,
       "num": 238778,
       "word": "长期熬夜晚睡消耗气血",
@@ -131,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218824,
+      "num": 218824,
+      "word": "吉祥航空回应被曝给乘客过期坚果",
+      "onboard_time": 1740413237,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 217497,
       "num": 217497,
       "word": "女子曝在西藏旅游遭出租车司机套路",
@@ -140,7 +156,7 @@
     },
     {
       "raw_hot": 212293,
-      "num": 163048,
+      "num": 163713,
       "word": "六姊妹大结局",
       "onboard_time": 1740404062,
       "rank": 20,
@@ -203,14 +219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148284,
-      "num": 97178,
-      "word": "张雨绮前夫袁巴元被限消",
-      "onboard_time": 1740429911,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 146060,
       "num": 146060,
       "word": "丈夫设局让妻子离婚时背75万巨债",
@@ -233,6 +241,14 @@
       "onboard_time": 1740412040,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119474,
+      "num": 119474,
+      "word": "俄乌冲突三年给世界带来了什么",
+      "onboard_time": 1740411619,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 116123,
@@ -259,12 +275,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 111283,
+      "num": 111283,
+      "word": "哪吒汽车从未对哪吒2电影方提起诉讼",
+      "onboard_time": 1740435552,
+      "rank": 47,
+      "category": "汽车,电影"
+    },
+    {
       "raw_hot": 110654,
       "num": 110654,
       "word": "瑞典乒协威胁莫雷加德参赛",
       "onboard_time": 1740409521,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107285,
+      "num": 103030,
+      "word": "4岁女童每天饮料甜食不断确诊糖尿病",
+      "onboard_time": 1740425772,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106100,
+      "num": 106100,
+      "word": "这个反常行为引起朝阳群众警觉",
+      "onboard_time": 1740431710,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104212,
@@ -291,12 +331,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 95185,
-      "num": 163967,
-      "word": "吉祥航空回应被曝给乘客过期坚果",
-      "onboard_time": 1740413237,
-      "rank": 18,
+      "raw_hot": 97471,
+      "num": 97471,
+      "word": "一男子地铁吵架吼对方听不懂上海话",
+      "onboard_time": 1740422832,
+      "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94143,
+      "num": 68934,
+      "word": "联合国安理会通过美涉乌决议",
+      "onboard_time": 1740438194,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 92537,
@@ -363,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84324,
+      "num": 84324,
+      "word": "酒吧偶遇蒋奇明",
+      "onboard_time": 1740417973,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82014,
       "num": 82014,
       "word": "女子在公司微信群看到自己被裁员",
@@ -371,12 +427,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 80702,
-      "num": 80702,
-      "word": "这个反常行为引起朝阳群众警觉",
-      "onboard_time": 1740431710,
-      "rank": 12,
-      "category": "民生新闻"
+      "raw_hot": 80494,
+      "num": 68810,
+      "word": "美国一波音客机飞行中机内冒烟",
+      "onboard_time": 1740437834,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 72682,
+      "num": 72682,
+      "word": "labubu",
+      "onboard_time": 1740427510,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 71916,
@@ -403,12 +467,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67397,
+      "num": 67397,
+      "word": "留学生为父母养老放弃绿卡回国",
+      "onboard_time": 1740422891,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67153,
       "num": 67153,
       "word": "央视镜头下的吴倩",
       "onboard_time": 1740389720,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 65974,
+      "num": 103531,
+      "word": "丁程鑫 严严",
+      "onboard_time": 1740438314,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 65841,
+      "num": 65841,
+      "word": "根本不敢和酒店其他的人碰面",
+      "onboard_time": 1740427931,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 65635,
+      "num": 65635,
+      "word": "比起来月经 器官时间不和谐更让我烦躁",
+      "onboard_time": 1740387263,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 64919,
@@ -419,12 +515,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 63702,
-      "num": 63702,
-      "word": "俄乌冲突三年给世界带来了什么",
-      "onboard_time": 1740411619,
-      "rank": 32,
-      "category": "国际时政"
+      "raw_hot": 62442,
+      "num": 384268,
+      "word": "专家解读中央一号文件亮点",
+      "onboard_time": 1740406522,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 62431,
@@ -443,60 +539,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 53725,
-      "num": 384268,
-      "word": "专家解读中央一号文件亮点",
-      "onboard_time": 1740406522,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 45762,
-      "num": 45762,
-      "word": "labubu",
-      "onboard_time": 1740427510,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 44687,
-      "num": 39956,
-      "word": "4岁女童每天饮料甜食不断确诊糖尿病",
-      "onboard_time": 1740425772,
-      "rank": 31,
+      "raw_hot": 42069,
+      "num": 66046,
+      "word": "因为爱聊天获诺贝尔一直讲",
+      "onboard_time": 1740418333,
+      "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 42926,
-      "num": 39494,
-      "word": "留学生为父母养老放弃绿卡回国",
-      "onboard_time": 1740422891,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 42808,
-      "num": 42808,
-      "word": "比起来月经 器官时间不和谐更让我烦躁",
-      "onboard_time": 1740387263,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 38970,
-      "num": 38970,
-      "word": "一男子地铁吵架吼对方听不懂上海话",
-      "onboard_time": 1740422832,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 37630,
-      "num": 37630,
-      "word": "酒吧偶遇蒋奇明",
-      "onboard_time": 1740417973,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 36213,
@@ -507,12 +555,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 31638,
-      "num": 31638,
-      "word": "哪吒汽车从未对哪吒2电影方提起诉讼",
-      "onboard_time": 1740435552,
-      "rank": 47,
-      "category": "汽车,电影"
+      "raw_hot": 33012,
+      "num": 41779,
+      "word": "曝特斯拉准备在华部署FSD",
+      "onboard_time": 1740436573,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 29285,
@@ -523,28 +571,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 29034,
-      "num": 29034,
-      "word": "根本不敢和酒店其他的人碰面",
-      "onboard_time": 1740427931,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 27873,
       "num": 27873,
       "word": "丁程鑫23岁状态",
       "onboard_time": 1740419353,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 26197,
-      "num": 66046,
-      "word": "因为爱聊天获诺贝尔一直讲",
-      "onboard_time": 1740418333,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23167,
@@ -569,14 +601,6 @@
       "onboard_time": 1740430511,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18836,
-      "num": 26213,
-      "word": "曝特斯拉准备在华部署FSD",
-      "onboard_time": 1740436573,
-      "rank": 48,
-      "category": "汽车"
     },
     {
       "raw_hot": 18686,
