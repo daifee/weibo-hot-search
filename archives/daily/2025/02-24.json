@@ -1,6 +1,6 @@
 {
   "startTime": 1740327929685,
-  "endTime": 1740367846172,
+  "endTime": 1740368654138,
   "band_list": [
     {
       "raw_hot": 2195594,
@@ -139,8 +139,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 840911,
-      "num": 840911,
+      "raw_hot": 887983,
+      "num": 887983,
       "word": "权志龙 我们三个也不是想这样才三个人的",
       "onboard_time": 1740365600,
       "rank": 18,
@@ -163,6 +163,30 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 783779,
+      "num": 783779,
+      "word": "iPhone17全系CAD图",
+      "onboard_time": 1740365600,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 757339,
+      "num": 757339,
+      "word": "男子套现损失6千发信息说诅咒很灵",
+      "onboard_time": 1740365721,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 738717,
+      "num": 738717,
+      "word": "泽连斯基说希望在重建中得到中国帮助",
+      "onboard_time": 1740365000,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 702246,
       "num": 702246,
       "word": "四六级",
@@ -177,30 +201,6 @@
       "onboard_time": 1740366621,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 643179,
-      "num": 643179,
-      "word": "iPhone17全系CAD图",
-      "onboard_time": 1740365600,
-      "rank": 36,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 615424,
-      "num": 615424,
-      "word": "男子套现损失6千发信息说诅咒很灵",
-      "onboard_time": 1740365721,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 608039,
-      "num": 608039,
-      "word": "泽连斯基说希望在重建中得到中国帮助",
-      "onboard_time": 1740365000,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 603466,
@@ -225,6 +225,14 @@
       "onboard_time": 1740321562,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 550294,
+      "num": 550294,
+      "word": "开始推理吧直播",
+      "onboard_time": 1740368060,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 549615,
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 404817,
-      "num": 254599,
+      "num": 336584,
       "word": "小哪吒海外打赢美队4",
       "onboard_time": 1740366381,
       "rank": 33,
@@ -305,6 +313,14 @@
       "onboard_time": 1740317183,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 400525,
+      "num": 400525,
+      "word": "建议睡觉时把手机放1.5米以外",
+      "onboard_time": 1740367882,
+      "rank": 15,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 396335,
@@ -363,6 +379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 352776,
+      "num": 352776,
+      "word": "原来长这样的就是淋巴肉",
+      "onboard_time": 1740366500,
+      "rank": 33,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 350671,
       "num": 350671,
       "word": "中央一号文件划重点",
@@ -385,6 +409,14 @@
       "onboard_time": 1740366080,
       "rank": 18,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 337298,
+      "num": 337298,
+      "word": "白雪公主内地定档3月21日",
+      "onboard_time": 1740367160,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 331280,
@@ -427,12 +459,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 306480,
+      "num": 306480,
+      "word": "麦琳cos十年前的自己",
+      "onboard_time": 1740368421,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 299960,
       "num": 299960,
       "word": "被王楚钦的庆祝动作硬控了",
       "onboard_time": 1740320602,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 297938,
+      "num": 297938,
+      "word": "张晚意出道10年第一部双世剧",
+      "onboard_time": 1740367101,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 292799,
@@ -483,14 +531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 256683,
-      "num": 256683,
-      "word": "白雪公主内地定档3月21日",
-      "onboard_time": 1740367160,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 250496,
       "num": 250496,
       "word": "王曼昱使用樊A",
@@ -539,14 +579,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 233123,
-      "num": 215664,
-      "word": "原来长这样的就是淋巴肉",
-      "onboard_time": 1740366500,
-      "rank": 33,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 232879,
       "num": 322439,
       "word": "管综",
@@ -560,6 +592,14 @@
       "word": "法硕",
       "onboard_time": 1740360738,
       "rank": 36,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 226057,
+      "num": 226057,
+      "word": "考研政治",
+      "onboard_time": 1740368181,
+      "rank": 33,
       "category": "教育"
     },
     {
@@ -619,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212859,
+      "num": 212859,
+      "word": "张真源第一章回国",
+      "onboard_time": 1740367641,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212711,
       "num": 212711,
       "word": "不允许城镇居民到农村购买宅基地",
@@ -641,14 +689,6 @@
       "onboard_time": 1740365960,
       "rank": 46,
       "category": "教育"
-    },
-    {
-      "raw_hot": 209731,
-      "num": 209731,
-      "word": "张晚意出道10年第一部双世剧",
-      "onboard_time": 1740367101,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 205347,
@@ -675,6 +715,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 201555,
+      "num": 530676,
+      "word": "北方在升温了南方也快了",
+      "onboard_time": 1740368242,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200479,
       "num": 203308,
       "word": "杨肸子为红房子随地大小舞",
@@ -699,8 +747,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 197832,
+      "num": 197832,
+      "word": "王鹤棣宋茜对手戏",
+      "onboard_time": 1740367820,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 194334,
-      "num": 194334,
+      "num": 300347,
       "word": "孙颖莎战胜去年夏天的自己",
       "onboard_time": 1740366860,
       "rank": 41,
@@ -729,14 +785,6 @@
       "onboard_time": 1740323841,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 186255,
-      "num": 186255,
-      "word": "张真源第一章回国",
-      "onboard_time": 1740367641,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 186208,
@@ -771,6 +819,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 181893,
+      "num": 181893,
+      "word": "双流机场T1航站楼正式恢复投用",
+      "onboard_time": 1740368060,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181559,
       "num": 181559,
       "word": "广西钟山一起交通事故致6死3伤",
@@ -787,20 +843,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 180530,
+      "num": 180530,
+      "word": "谭瑞松被开除党籍",
+      "onboard_time": 1740368540,
+      "rank": 46,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 179535,
       "num": 179535,
       "word": "宁艺卓 FILA",
       "onboard_time": 1740364519,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 178420,
-      "num": 178420,
-      "word": "王鹤棣宋茜对手戏",
-      "onboard_time": 1740367820,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 178256,
@@ -996,11 +1052,19 @@
     },
     {
       "raw_hot": 119284,
-      "num": 204402,
+      "num": 336599,
       "word": "王楚钦感谢低迷期对自己鼓励的人",
       "onboard_time": 1740367820,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118027,
+      "num": 254710,
+      "word": "老人2万买治疗仪竟把自己电到头疼",
+      "onboard_time": 1740366500,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116981,
@@ -1051,15 +1115,7 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 90519,
-      "num": 254710,
-      "word": "老人2万买治疗仪竟把自己电到头疼",
-      "onboard_time": 1740366500,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 84475,
+      "raw_hot": 85820,
       "num": 1213237,
       "word": "强农惠农富农的政策持续加力",
       "onboard_time": 1740366019,
@@ -1171,7 +1227,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 50626,
+      "raw_hot": 53577,
       "num": 173639,
       "word": "成毅涂鸦墙",
       "onboard_time": 1740364701,
@@ -1211,6 +1267,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 33513,
+      "num": 336873,
+      "word": "白敬亭演技缓缓入心",
+      "onboard_time": 1740368242,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 32835,
       "num": 97283,
       "word": "团体赛王曼昱屡次发挥定海神针作用",
@@ -1225,6 +1289,14 @@
       "onboard_time": 1740331934,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 27891,
+      "num": 241288,
+      "word": "郑某峰若涉罪将来还能做导演吗",
+      "onboard_time": 1740366920,
+      "rank": 29,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 23897,
@@ -1289,14 +1361,6 @@
       "onboard_time": 1740335053,
       "rank": 27,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 15399,
-      "num": 219724,
-      "word": "郑某峰若涉罪将来还能做导演吗",
-      "onboard_time": 1740366920,
-      "rank": 29,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 11847,
