@@ -1,6 +1,6 @@
 {
   "startTime": 1740414610412,
-  "endTime": 1740439327327,
+  "endTime": 1740440146186,
   "band_list": [
     {
       "raw_hot": 1148255,
@@ -43,8 +43,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 538994,
-      "num": 787645,
+      "raw_hot": 581619,
+      "num": 895576,
       "word": "高校聘博士初中学历配偶属劳务派遣",
       "onboard_time": 1740415936,
       "rank": 5,
@@ -83,7 +83,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 286274,
+      "raw_hot": 331839,
       "num": 228801,
       "word": "张雨绮前夫袁巴元被限消",
       "onboard_time": 1740429911,
@@ -105,6 +105,14 @@
       "onboard_time": 1740410120,
       "rank": 8,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 259875,
+      "num": 151826,
+      "word": "联合国安理会通过美涉乌决议",
+      "onboard_time": 1740438194,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 259664,
@@ -161,6 +169,14 @@
       "onboard_time": 1740404062,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191969,
+      "num": 150494,
+      "word": "哪吒汽车从未对哪吒2电影方提起诉讼",
+      "onboard_time": 1740435552,
+      "rank": 47,
+      "category": "汽车,电影"
     },
     {
       "raw_hot": 188551,
@@ -267,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112340,
+      "num": 108740,
+      "word": "一男子地铁吵架吼对方听不懂上海话",
+      "onboard_time": 1740422832,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111484,
       "num": 156912,
       "word": "TES让一追三nip",
@@ -275,12 +299,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 111283,
-      "num": 111283,
-      "word": "哪吒汽车从未对哪吒2电影方提起诉讼",
-      "onboard_time": 1740435552,
-      "rank": 47,
-      "category": "汽车,电影"
+      "raw_hot": 110960,
+      "num": 110960,
+      "word": "这个反常行为引起朝阳群众警觉",
+      "onboard_time": 1740431710,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110654,
@@ -291,20 +315,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 107285,
-      "num": 103030,
+      "raw_hot": 107788,
+      "num": 107788,
       "word": "4岁女童每天饮料甜食不断确诊糖尿病",
       "onboard_time": 1740425772,
       "rank": 31,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 106100,
-      "num": 106100,
-      "word": "这个反常行为引起朝阳群众警觉",
-      "onboard_time": 1740431710,
-      "rank": 12,
-      "category": "民生新闻"
+      "raw_hot": 107769,
+      "num": 107769,
+      "word": "美国一波音客机飞行中机内冒烟",
+      "onboard_time": 1740437834,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 104588,
+      "num": 104588,
+      "word": "丁程鑫 严严",
+      "onboard_time": 1740438314,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 104212,
@@ -331,20 +363,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 97471,
-      "num": 97471,
-      "word": "一男子地铁吵架吼对方听不懂上海话",
-      "onboard_time": 1740422832,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 95989,
+      "num": 95989,
+      "word": "林俊杰纽约演唱会发周深荧光棒",
+      "onboard_time": 1740439395,
+      "rank": 27,
+      "category": "演出"
     },
     {
-      "raw_hot": 94143,
-      "num": 68934,
-      "word": "联合国安理会通过美涉乌决议",
-      "onboard_time": 1740438194,
-      "rank": 30,
-      "category": "国际时政"
+      "raw_hot": 93011,
+      "num": 93011,
+      "word": "酒吧偶遇蒋奇明",
+      "onboard_time": 1740417973,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 92537,
@@ -411,14 +443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 84324,
-      "num": 84324,
-      "word": "酒吧偶遇蒋奇明",
-      "onboard_time": 1740417973,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 82014,
       "num": 82014,
       "word": "女子在公司微信群看到自己被裁员",
@@ -427,12 +451,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 80494,
-      "num": 68810,
-      "word": "美国一波音客机飞行中机内冒烟",
-      "onboard_time": 1740437834,
-      "rank": 31,
-      "category": "海外新闻"
+      "raw_hot": 80745,
+      "num": 80745,
+      "word": "留学生为父母养老放弃绿卡回国",
+      "onboard_time": 1740422891,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74200,
+      "num": 391652,
+      "word": "专家解读中央一号文件亮点",
+      "onboard_time": 1740406522,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 72682,
@@ -451,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70322,
+      "num": 70322,
+      "word": "央视镜头下的吴倩",
+      "onboard_time": 1740389720,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 69942,
       "num": 69942,
       "word": "王鹤棣宋茜星河入梦领衔主演",
@@ -465,30 +505,6 @@
       "onboard_time": 1740382281,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 67397,
-      "num": 67397,
-      "word": "留学生为父母养老放弃绿卡回国",
-      "onboard_time": 1740422891,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 67153,
-      "num": 67153,
-      "word": "央视镜头下的吴倩",
-      "onboard_time": 1740389720,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 65974,
-      "num": 103531,
-      "word": "丁程鑫 严严",
-      "onboard_time": 1740438314,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 65841,
@@ -515,14 +531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 62442,
-      "num": 384268,
-      "word": "专家解读中央一号文件亮点",
-      "onboard_time": 1740406522,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 62431,
       "num": 62431,
       "word": "难哄导演给白敬亭拍出偶像包袱了",
@@ -539,12 +547,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 42069,
+      "raw_hot": 52315,
       "num": 66046,
       "word": "因为爱聊天获诺贝尔一直讲",
       "onboard_time": 1740418333,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45894,
+      "num": 45894,
+      "word": "曝特斯拉准备在华部署FSD",
+      "onboard_time": 1740436573,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 36213,
@@ -553,14 +569,6 @@
       "onboard_time": 1740411081,
       "rank": 37,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 33012,
-      "num": 41779,
-      "word": "曝特斯拉准备在华部署FSD",
-      "onboard_time": 1740436573,
-      "rank": 48,
-      "category": "汽车"
     },
     {
       "raw_hot": 29285,
