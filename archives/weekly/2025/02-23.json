@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740379539062,
+  "endTime": 1740381725509,
   "band_list": [
     {
       "raw_hot": 4198472,
@@ -291,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1143174,
+      "num": 1143174,
+      "word": "坏回暖来了",
+      "onboard_time": 1740375681,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1136847,
       "num": 1136847,
       "word": "将进酒",
@@ -305,14 +313,6 @@
       "onboard_time": 1740290839,
       "rank": 14,
       "category": "互联网,民生新闻"
-    },
-    {
-      "raw_hot": 1115463,
-      "num": 1115463,
-      "word": "坏回暖来了",
-      "onboard_time": 1740375681,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1083170,
@@ -369,6 +369,14 @@
       "onboard_time": 1740318683,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1016613,
+      "num": 1016613,
+      "word": "张馨予没有瘦身成功",
+      "onboard_time": 1740380060,
+      "rank": 3,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1012849,
@@ -524,7 +532,7 @@
     },
     {
       "raw_hot": 855289,
-      "num": 220255,
+      "num": 315019,
       "word": "她一个月干了我一辈子的工作",
       "onboard_time": 1740379519,
       "rank": 20,
@@ -840,6 +848,14 @@
       "word": "5旬算命先生被情人喂百草枯中毒身亡",
       "onboard_time": 1740368780,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 613332,
+      "num": 613332,
+      "word": "小行星撞地球概率为何一变再变",
+      "onboard_time": 1740376159,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -1243,6 +1259,14 @@
       "category": "国际时政,艺人"
     },
     {
+      "raw_hot": 391757,
+      "num": 391757,
+      "word": "张凌赫谁允许你这么叫姐姐的",
+      "onboard_time": 1740379939,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 389713,
       "num": 389713,
       "word": "林一回应虞书欣",
@@ -1297,6 +1321,14 @@
       "onboard_time": 1740295759,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 371957,
+      "num": 371957,
+      "word": "95后男孩从孤儿院到年薪百万",
+      "onboard_time": 1740379459,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 371550,
@@ -1475,6 +1507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 344137,
+      "num": 344137,
+      "word": "员工如厕须带离岗证且限次数和时间",
+      "onboard_time": 1740377001,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 342346,
       "num": 342346,
       "word": "王曼昱4比1蒯曼",
@@ -1579,12 +1619,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 313631,
+      "num": 313631,
+      "word": "敖丙把哪吒哄成胚胎了",
+      "onboard_time": 1740377601,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 313152,
       "num": 313152,
       "word": "黄子弘凡好抽象一直播",
       "onboard_time": 1740326480,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 311860,
+      "num": 311860,
+      "word": "考研人数大幅下降考研会更简单吗",
+      "onboard_time": 1740376100,
+      "rank": 22,
+      "category": "教育"
     },
     {
       "raw_hot": 311635,
@@ -1627,14 +1683,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 303413,
-      "num": 249672,
-      "word": "考研人数大幅下降考研会更简单吗",
-      "onboard_time": 1740376100,
-      "rank": 22,
-      "category": "教育"
-    },
-    {
       "raw_hot": 301902,
       "num": 301902,
       "word": "4岁女孩爱吃甜食确诊糖尿病",
@@ -1657,14 +1705,6 @@
       "onboard_time": 1740367101,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 297696,
-      "num": 305957,
-      "word": "员工如厕须带离岗证且限次数和时间",
-      "onboard_time": 1740377001,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 296548,
@@ -1723,12 +1763,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 286350,
+      "num": 286350,
+      "word": "警方通报男子自制箭射伤数只猫",
+      "onboard_time": 1740379040,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 285299,
       "num": 653586,
       "word": "DeepSeek回答AI有没可能欺骗人类",
       "onboard_time": 1740308838,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 283019,
+      "num": 312738,
+      "word": "迪丽热巴黑金look",
+      "onboard_time": 1740380840,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 282824,
@@ -1809,14 +1865,6 @@
       "onboard_time": 1740229222,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 269477,
-      "num": 269477,
-      "word": "小行星撞地球概率为何一变再变",
-      "onboard_time": 1740376159,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 267861,
@@ -2075,6 +2123,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 231770,
+      "num": 231770,
+      "word": "刘亦菲素颜逛家具城",
+      "onboard_time": 1740376283,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 230848,
       "num": 230848,
       "word": "孙颖莎4比0陈幸同",
@@ -2177,14 +2233,6 @@
       "onboard_time": 1740325220,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 221458,
-      "num": 221458,
-      "word": "刘亦菲素颜逛家具城",
-      "onboard_time": 1740376283,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 221117,
@@ -2315,6 +2363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 210187,
+      "num": 210187,
+      "word": "考研",
+      "onboard_time": 1740379400,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 210016,
       "num": 210016,
       "word": "英语二",
@@ -2409,6 +2465,14 @@
       "onboard_time": 1740367280,
       "rank": 40,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 203477,
+      "num": 203477,
+      "word": "警方介入网传医科大研究生自杀",
+      "onboard_time": 1740380181,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 201742,
@@ -2643,6 +2707,14 @@
       "category": "互联网,游戏"
     },
     {
+      "raw_hot": 190893,
+      "num": 190893,
+      "word": "政协委员建议将法定婚龄调至18岁",
+      "onboard_time": 1740381200,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190675,
       "num": 180417,
       "word": "孙颖莎进亚洲杯女单决赛",
@@ -2675,14 +2747,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 190150,
-      "num": 212353,
-      "word": "敖丙把哪吒哄成胚胎了",
-      "onboard_time": 1740377601,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
       "raw_hot": 189899,
       "num": 189899,
       "word": "朴成训 阿迪达斯",
@@ -2697,6 +2761,14 @@
       "onboard_time": 1740309619,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188893,
+      "num": 313618,
+      "word": "国家线 砍一刀",
+      "onboard_time": 1740380959,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 188670,
@@ -2793,6 +2865,14 @@
       "onboard_time": 1740283219,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 183507,
+      "num": 331760,
+      "word": "李兰迪一变身檀健次就要演三遍",
+      "onboard_time": 1740381081,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 183460,
@@ -2897,14 +2977,6 @@
       "onboard_time": 1740285500,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 177656,
-      "num": 177656,
-      "word": "考研",
-      "onboard_time": 1740379400,
-      "rank": 33,
-      "category": "教育"
     },
     {
       "raw_hot": 177355,
@@ -3179,6 +3251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165972,
+      "num": 165972,
+      "word": "严浩翔祝帅气的丁哥23岁生日快乐",
+      "onboard_time": 1740381081,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165962,
       "num": 165962,
       "word": "家属还原网红罗大美遇害细节",
@@ -3193,6 +3273,14 @@
       "onboard_time": 1740283639,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164370,
+      "num": 164370,
+      "word": "车主称小米车机弹窗影响倒车影像",
+      "onboard_time": 1740381200,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 164264,
@@ -3363,6 +3451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155601,
+      "num": 155601,
+      "word": "韩国将关停49所中小学",
+      "onboard_time": 1740379640,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 155580,
       "num": 155580,
       "word": "HLE晋级全球先锋赛",
@@ -3441,6 +3537,14 @@
       "onboard_time": 1740289038,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149597,
+      "num": 149597,
+      "word": "逆水寒手游",
+      "onboard_time": 1740381139,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 149047,
@@ -3619,11 +3723,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 137259,
-      "num": 137259,
-      "word": "95后男孩从孤儿院到年薪百万",
-      "onboard_time": 1740379459,
-      "rank": 47,
+      "raw_hot": 137205,
+      "num": 312155,
+      "word": "神秘客住酒店2天打了140个电话",
+      "onboard_time": 1740381259,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -3715,6 +3819,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 131875,
+      "num": 375552,
+      "word": "00后自杀医科大女研究生父亲发声",
+      "onboard_time": 1740381439,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131772,
       "num": 131772,
       "word": "仙台有树豆瓣开分7.0",
@@ -3745,6 +3857,14 @@
       "onboard_time": 1740300379,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128834,
+      "num": 401792,
+      "word": "国新办发布会解读中央一号文件",
+      "onboard_time": 1740381439,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 127769,
@@ -3947,14 +4067,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 115141,
-      "num": 204695,
-      "word": "警方通报男子自制箭射伤数只猫",
-      "onboard_time": 1740379040,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 114864,
       "num": 114864,
       "word": "姑娘辞职去传承女子英歌舞",
@@ -4033,6 +4145,14 @@
       "onboard_time": 1740298699,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109146,
+      "num": 321690,
+      "word": "何凯文考研英语89分",
+      "onboard_time": 1740381380,
+      "rank": 21,
+      "category": "教育"
     },
     {
       "raw_hot": 109099,
@@ -4339,6 +4459,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 81091,
+      "num": 204857,
+      "word": "翟潇闻说大家都是红房子的热血主角",
+      "onboard_time": 1740381558,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 81045,
       "num": 167953,
       "word": "李昊 身骑白马",
@@ -4548,7 +4676,7 @@
     },
     {
       "raw_hot": 58525,
-      "num": 154181,
+      "num": 340080,
       "word": "小米15Ultra徕卡相机感设计",
       "onboard_time": 1740378981,
       "rank": 39,
@@ -4987,6 +5115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 23053,
+      "num": 312201,
+      "word": "怎样区分面部皮炎和荨麻疹",
+      "onboard_time": 1740381558,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 22894,
       "num": 23887,
       "word": "陈立农广州演唱会",
@@ -5017,6 +5153,14 @@
       "onboard_time": 1740251292,
       "rank": 36,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 22066,
+      "num": 332467,
+      "word": "宋雨琦启程米兰时装周",
+      "onboard_time": 1740380900,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 20653,
