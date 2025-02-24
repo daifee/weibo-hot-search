@@ -1,6 +1,6 @@
 {
   "startTime": 1740327929685,
-  "endTime": 1740362700419,
+  "endTime": 1740365864090,
   "band_list": [
     {
       "raw_hot": 2195594,
@@ -59,12 +59,28 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 1270178,
+      "num": 1270178,
+      "word": "国家线",
+      "onboard_time": 1740361460,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1119028,
       "num": 1119028,
       "word": "樊A",
       "onboard_time": 1740320782,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1057809,
+      "num": 1057809,
+      "word": "星河入梦定档",
+      "onboard_time": 1740363680,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 1032603,
@@ -83,6 +99,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1012849,
+      "num": 1012849,
+      "word": "网剧轧戏",
+      "onboard_time": 1740362059,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 967796,
       "num": 322366,
       "word": "鹿晗关晓彤分手博坚持打卡2694天",
@@ -97,6 +121,14 @@
       "onboard_time": 1740326120,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 902859,
+      "num": 902859,
+      "word": "英语一我恨你",
+      "onboard_time": 1740362179,
+      "rank": 8,
+      "category": "教育"
     },
     {
       "raw_hot": 889410,
@@ -243,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 388922,
+      "num": 303730,
+      "word": "女子煮6根面兰寿金鱼嗦掉半根",
+      "onboard_time": 1740362118,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 359971,
       "num": 359971,
       "word": "央视曝光网购陷阱",
@@ -265,6 +305,30 @@
       "onboard_time": 1740329236,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 346379,
+      "num": 346379,
+      "word": "英语一",
+      "onboard_time": 1740361699,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 331280,
+      "num": 331280,
+      "word": "考研国家线预测",
+      "onboard_time": 1740360858,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 324974,
+      "num": 381064,
+      "word": "泽连斯基说希望在重建中得到中国帮助",
+      "onboard_time": 1740365000,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 321407,
@@ -291,11 +355,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 310785,
+      "num": 310785,
+      "word": "权志龙 我们三个也不是想这样才三个人的",
+      "onboard_time": 1740365600,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 309130,
       "num": 350556,
       "word": "轧戏",
       "onboard_time": 1740362059,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 304739,
+      "num": 304739,
+      "word": "陈星旭卢昱晓新剧轧戏开机",
+      "onboard_time": 1740363319,
+      "rank": 19,
       "category": "剧集"
     },
     {
@@ -329,6 +409,14 @@
       "onboard_time": 1740313582,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 283167,
+      "num": 549118,
+      "word": "乌方拒绝给美国价值5000亿美元协议",
+      "onboard_time": 1740361879,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 276004,
@@ -379,22 +467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 241872,
-      "num": 241872,
-      "word": "考研国家线预测",
-      "onboard_time": 1740360858,
-      "rank": 44,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 241141,
-      "num": 241141,
-      "word": "国家线",
-      "onboard_time": 1740361460,
-      "rank": 43,
-      "category": "教育"
-    },
-    {
       "raw_hot": 239172,
       "num": 239172,
       "word": "默茨宣布获胜朔尔茨承认失利",
@@ -419,6 +491,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 231946,
+      "num": 303573,
+      "word": "法硕",
+      "onboard_time": 1740360738,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 221744,
       "num": 221744,
       "word": "王楚钦说亚洲杯打得很干净",
@@ -433,6 +513,14 @@
       "onboard_time": 1740357860,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218022,
+      "num": 259834,
+      "word": "A股",
+      "onboard_time": 1740363800,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 217539,
@@ -515,12 +603,52 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190494,
+      "num": 190494,
+      "word": "小米15Ultra",
+      "onboard_time": 1740365419,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 185631,
       "num": 251460,
       "word": "宋丛人设",
       "onboard_time": 1740325101,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183460,
+      "num": 183460,
+      "word": "世界讨厌香菜日",
+      "onboard_time": 1740363560,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 183081,
+      "num": 183081,
+      "word": "妈妈来横店看你了",
+      "onboard_time": 1740364519,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 182635,
+      "num": 182635,
+      "word": "iPhone17全系CAD图",
+      "onboard_time": 1740365600,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 181592,
+      "num": 181592,
+      "word": "管综",
+      "onboard_time": 1740365240,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 180989,
@@ -531,12 +659,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 178434,
-      "num": 549118,
-      "word": "乌方拒绝给美国价值5000亿美元协议",
-      "onboard_time": 1740361879,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 179535,
+      "num": 179535,
+      "word": "宁艺卓 FILA",
+      "onboard_time": 1740364519,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 178256,
@@ -555,19 +683,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171873,
+      "num": 171873,
+      "word": "小米接入DeepSeek",
+      "onboard_time": 1740364280,
+      "rank": 41,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 168597,
       "num": 168597,
       "word": "女子晒自家墓景房楼下就是考古工地",
       "onboard_time": 1740347351,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 167682,
-      "num": 167682,
-      "word": "女子煮6根面兰寿金鱼嗦掉半根",
-      "onboard_time": 1740362118,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -603,6 +731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157457,
+      "num": 157457,
+      "word": "建议全国推广自制下车站发卡",
+      "onboard_time": 1740363499,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154740,
       "num": 154740,
       "word": "林一参加黄明昊签售会",
@@ -617,22 +753,6 @@
       "onboard_time": 1740300740,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 152003,
-      "num": 152003,
-      "word": "英语一",
-      "onboard_time": 1740361699,
-      "rank": 38,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 150625,
-      "num": 303573,
-      "word": "法硕",
-      "onboard_time": 1740360738,
-      "rank": 36,
-      "category": "教育"
     },
     {
       "raw_hot": 149934,
@@ -665,6 +785,14 @@
       "onboard_time": 1740353176,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135911,
+      "num": 135911,
+      "word": "余承东官宣原生鸿蒙新形态手机",
+      "onboard_time": 1740365660,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 135688,
@@ -763,14 +891,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 108863,
-      "num": 554395,
-      "word": "英语一我恨你",
-      "onboard_time": 1740362179,
-      "rank": 8,
-      "category": "教育"
-    },
-    {
       "raw_hot": 108818,
       "num": 108818,
       "word": "郭艾伦眼睛受伤或涉及自甘风险",
@@ -812,7 +932,7 @@
     },
     {
       "raw_hot": 74320,
-      "num": 1006051,
+      "num": 1092864,
       "word": "龙马乘组太空出差将满120天",
       "onboard_time": 1740320002,
       "rank": 2,
@@ -825,6 +945,14 @@
       "onboard_time": 1740351494,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 65892,
+      "num": 425584,
+      "word": "默茨谈获胜原因",
+      "onboard_time": 1740364460,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 65796,
@@ -883,6 +1011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 50023,
+      "num": 224226,
+      "word": "近16年考研国家线汇总",
+      "onboard_time": 1740365721,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 48783,
       "num": 48783,
       "word": "明日起可查考研成绩",
@@ -905,6 +1041,14 @@
       "onboard_time": 1740332893,
       "rank": 38,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 35073,
+      "num": 192982,
+      "word": "男子套现损失6千发信息说诅咒很灵",
+      "onboard_time": 1740365721,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32835,
@@ -961,6 +1105,14 @@
       "onboard_time": 1740339431,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17587,
+      "num": 162975,
+      "word": "成毅涂鸦墙",
+      "onboard_time": 1740364701,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 16802,

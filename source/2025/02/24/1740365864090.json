@@ -1,0 +1,410 @@
+{
+  "runTime": 1740365864090,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1954954,
+        "num": 1954954,
+        "word": "考研查分",
+        "onboard_time": 1740353295,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1270178,
+        "num": 1270178,
+        "word": "国家线",
+        "onboard_time": 1740361460,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 63844,
+        "num": 1092864,
+        "word": "龙马乘组太空出差将满120天",
+        "onboard_time": 1740320002,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1057809,
+        "num": 1057809,
+        "word": "星河入梦定档",
+        "onboard_time": 1740363680,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1012849,
+        "num": 1012849,
+        "word": "网剧轧戏",
+        "onboard_time": 1740362059,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 902859,
+        "num": 902859,
+        "word": "英语一我恨你",
+        "onboard_time": 1740362179,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 680374,
+        "num": 680374,
+        "word": "乌克兰取消战时状态后将选总统",
+        "onboard_time": 1740355518,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 633188,
+        "num": 633188,
+        "word": "四六级",
+        "onboard_time": 1740359419,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 438960,
+        "num": 438960,
+        "word": "00后住户呼吁不要妖魔化杭州丽晶国际",
+        "onboard_time": 1740355878,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65892,
+        "num": 425584,
+        "word": "默茨谈获胜原因",
+        "onboard_time": 1740364460,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 507178,
+        "num": 425516,
+        "word": "网红罗大美转账200万元仍遭灭口",
+        "onboard_time": 1740323303,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 425218,
+        "num": 425218,
+        "word": "乌克兰总统称美国赠款不用还",
+        "onboard_time": 1740356900,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 398232,
+        "num": 398232,
+        "word": "骗子盯上了你的手机NFC功能",
+        "onboard_time": 1740326120,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 392596,
+        "num": 392596,
+        "word": "王心凌回应成为高清画质单位",
+        "onboard_time": 1740355098,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 324974,
+        "num": 381064,
+        "word": "泽连斯基说希望在重建中得到中国帮助",
+        "onboard_time": 1740365000,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 380704,
+        "num": 380704,
+        "word": "鹿童 许愿",
+        "onboard_time": 1740357978,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 346379,
+        "num": 346379,
+        "word": "英语一",
+        "onboard_time": 1740361699,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 331280,
+        "num": 331280,
+        "word": "考研国家线预测",
+        "onboard_time": 1740360858,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 310785,
+        "num": 310785,
+        "word": "权志龙 我们三个也不是想这样才三个人的",
+        "onboard_time": 1740365600,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 304739,
+        "num": 304739,
+        "word": "陈星旭卢昱晓新剧轧戏开机",
+        "onboard_time": 1740363319,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 388922,
+        "num": 303730,
+        "word": "女子煮6根面兰寿金鱼嗦掉半根",
+        "onboard_time": 1740362118,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287448,
+        "num": 287448,
+        "word": "睡得少和睡得晚哪个伤害大",
+        "onboard_time": 1740322403,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 285324,
+        "num": 285324,
+        "word": "印度女孩13岁起被60余人性侵5年",
+        "onboard_time": 1740327438,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 283167,
+        "num": 283167,
+        "word": "乌方拒绝给美国价值5000亿美元协议",
+        "onboard_time": 1740361879,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 218022,
+        "num": 259834,
+        "word": "A股",
+        "onboard_time": 1740363800,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 248259,
+        "num": 248259,
+        "word": "内裤袜子丢进洗衣机真比手洗好",
+        "onboard_time": 1740318683,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 247927,
+        "num": 247927,
+        "word": "问问星星吧 癫剧",
+        "onboard_time": 1740359541,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231946,
+        "num": 231946,
+        "word": "法硕",
+        "onboard_time": 1740360738,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 50023,
+        "num": 224226,
+        "word": "近16年考研国家线汇总",
+        "onboard_time": 1740365721,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 222723,
+        "num": 222723,
+        "word": "林一回应虞书欣",
+        "onboard_time": 1740352756,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195649,
+        "num": 195649,
+        "word": "中介称杭州网红大楼名声越搞越差",
+        "onboard_time": 1740356719,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35073,
+        "num": 192982,
+        "word": "男子套现损失6千发信息说诅咒很灵",
+        "onboard_time": 1740365721,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192123,
+        "num": 192123,
+        "word": "拆迁6套房分配不均引发兄妹矛盾",
+        "onboard_time": 1740321562,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190494,
+        "num": 190494,
+        "word": "小米15Ultra",
+        "onboard_time": 1740365419,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 183460,
+        "num": 183460,
+        "word": "世界讨厌香菜日",
+        "onboard_time": 1740363560,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 183081,
+        "num": 183081,
+        "word": "妈妈来横店看你了",
+        "onboard_time": 1740364519,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182635,
+        "num": 182635,
+        "word": "iPhone17全系CAD图",
+        "onboard_time": 1740365600,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 181592,
+        "num": 181592,
+        "word": "管综",
+        "onboard_time": 1740365240,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 179535,
+        "num": 179535,
+        "word": "宁艺卓 FILA",
+        "onboard_time": 1740364519,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177787,
+        "num": 177787,
+        "word": "电梯疾坠又猛冲至33楼致业主身亡",
+        "onboard_time": 1740351855,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173587,
+        "num": 173587,
+        "word": "手机信号差时辐射更大",
+        "onboard_time": 1740357320,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171873,
+        "num": 171873,
+        "word": "小米接入DeepSeek",
+        "onboard_time": 1740364280,
+        "rank": 41,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 164308,
+        "num": 164308,
+        "word": "高露洁 孙颖莎",
+        "onboard_time": 1740353416,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17587,
+        "num": 162975,
+        "word": "成毅涂鸦墙",
+        "onboard_time": 1740364701,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162907,
+        "num": 162907,
+        "word": "杭州武汉本周热到快30摄氏度",
+        "onboard_time": 1740356179,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157457,
+        "num": 157457,
+        "word": "建议全国推广自制下车站发卡",
+        "onboard_time": 1740363499,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141344,
+        "num": 141344,
+        "word": "2025考研查分时间表",
+        "onboard_time": 1740359659,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 135911,
+        "num": 135911,
+        "word": "余承东官宣原生鸿蒙新形态手机",
+        "onboard_time": 1740365660,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 133808,
+        "num": 133808,
+        "word": "章若楠好美",
+        "onboard_time": 1740319343,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133127,
+        "num": 133127,
+        "word": "职业闭店是违法犯罪行为",
+        "onboard_time": 1740329057,
+        "rank": 49,
+        "category": "正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#扎实推进乡村全面振兴#"
+    }
+  }
+}
