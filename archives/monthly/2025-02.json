@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740393761249,
+  "endTime": 1740395998937,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -4955,6 +4955,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 1095706,
+      "num": 993226,
+      "word": "女子在公司微信群看到自己被裁员",
+      "onboard_time": 1740390380,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1095439,
       "num": 1095439,
       "word": "孙颖莎黄牌",
@@ -5785,14 +5793,6 @@
       "onboard_time": 1739014822,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 993226,
-      "num": 993226,
-      "word": "女子在公司微信群看到自己被裁员",
-      "onboard_time": 1740390380,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 991425,
@@ -7547,6 +7547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 822799,
+      "num": 822799,
+      "word": "小小的勇气 赵露思",
+      "onboard_time": 1740393739,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 822750,
       "num": 613898,
       "word": "美队4悉尼排片量远高于哪吒2",
@@ -8900,7 +8908,7 @@
     },
     {
       "raw_hot": 723728,
-      "num": 399763,
+      "num": 422368,
       "word": "比起来月经 器官时间不和谐更让我烦躁",
       "onboard_time": 1740387263,
       "rank": 12,
@@ -10057,6 +10065,14 @@
       "onboard_time": 1738901726,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 659259,
+      "num": 659259,
+      "word": "李昀锐能和孟子义一直唠",
+      "onboard_time": 1740391999,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 659187,
@@ -14259,6 +14275,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 494603,
+      "num": 494603,
+      "word": "女友陪王星录制新综艺",
+      "onboard_time": 1740390200,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 494479,
       "num": 370141,
       "word": "吴敬平发文品行干净好运自来",
@@ -16835,6 +16859,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 416734,
+      "num": 416734,
+      "word": "王楚钦发博庆祝夺冠",
+      "onboard_time": 1740394219,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 416578,
       "num": 416578,
       "word": "今年国家线降了",
@@ -17411,14 +17443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 400378,
-      "num": 400378,
-      "word": "女友陪王星录制新综艺",
-      "onboard_time": 1740390200,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 400156,
       "num": 400156,
       "word": "男主爱7次结果是1人",
@@ -17561,6 +17585,14 @@
       "onboard_time": 1739193861,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 397668,
+      "num": 397668,
+      "word": "黑长直惠利欧尼",
+      "onboard_time": 1740393560,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 397659,
@@ -18313,6 +18345,14 @@
       "onboard_time": 1740284899,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 381332,
+      "num": 381332,
+      "word": "陈星旭轧戏一番",
+      "onboard_time": 1740391460,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 381158,
@@ -20113,14 +20153,6 @@
       "onboard_time": 1738451652,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 344574,
-      "num": 344574,
-      "word": "陈星旭轧戏一番",
-      "onboard_time": 1740391460,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 344422,
@@ -23571,14 +23603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 290284,
-      "num": 290284,
-      "word": "李昀锐能和孟子义一直唠",
-      "onboard_time": 1740391999,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 290159,
       "num": 333038,
       "word": "有网店假冒必吃榜卖了100万单",
@@ -23817,6 +23841,14 @@
       "onboard_time": 1740042441,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 286680,
+      "num": 286680,
+      "word": "DeepSeek不适合INFP的5个工作",
+      "onboard_time": 1740391399,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 286672,
@@ -24081,6 +24113,22 @@
       "onboard_time": 1740116059,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 283509,
+      "num": 283509,
+      "word": "留几手磨皮磨成胚胎了",
+      "onboard_time": 1740392539,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 283348,
+      "num": 394206,
+      "word": "如何治理农村高额彩礼",
+      "onboard_time": 1740391819,
+      "rank": 9,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 283328,
@@ -24377,14 +24425,6 @@
       "onboard_time": 1739970500,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 278920,
-      "num": 394206,
-      "word": "如何治理农村高额彩礼",
-      "onboard_time": 1740391819,
-      "rank": 9,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 278898,
@@ -25531,14 +25571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 264696,
-      "num": 264696,
-      "word": "DeepSeek不适合INFP的5个工作",
-      "onboard_time": 1740391399,
-      "rank": 25,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 264671,
       "num": 264671,
       "word": "仙台有树直播",
@@ -26281,6 +26313,14 @@
       "onboard_time": 1739671759,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 256198,
+      "num": 478619,
+      "word": "乌克兰3月将从欧盟获得35亿欧元",
+      "onboard_time": 1740394520,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 256172,
@@ -27795,14 +27835,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 242325,
-      "num": 242325,
-      "word": "留几手磨皮磨成胚胎了",
-      "onboard_time": 1740392539,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 242316,
       "num": 242316,
       "word": "乌方不承认美俄谈判达成协议",
@@ -29257,6 +29289,14 @@
       "onboard_time": 1739351840,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 229712,
+      "num": 229712,
+      "word": "肖战外套叠穿",
+      "onboard_time": 1740392840,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 229699,
@@ -31809,6 +31849,14 @@
       "onboard_time": 1740024502,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213275,
+      "num": 213275,
+      "word": "京东承担外卖骑手五险一金所有成本",
+      "onboard_time": 1740394461,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 213259,
@@ -38971,6 +39019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 185004,
+      "num": 185004,
+      "word": "周雨彤我这辈子跟定你了",
+      "onboard_time": 1740394401,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184936,
       "num": 184936,
       "word": "相关部门正调查乘客飞机捡鞭炮事件",
@@ -38985,6 +39041,14 @@
       "onboard_time": 1738635984,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 184849,
+      "num": 184849,
+      "word": "湖南卫视重映大唐荣耀",
+      "onboard_time": 1740393440,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 184847,
@@ -40609,14 +40673,6 @@
       "onboard_time": 1739161643,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 178129,
-      "num": 177256,
-      "word": "肖战外套叠穿",
-      "onboard_time": 1740392840,
-      "rank": 34,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 178055,
@@ -42443,6 +42499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169967,
+      "num": 169967,
+      "word": "时代少年团这一次讲爱也讲被爱",
+      "onboard_time": 1740395600,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169962,
       "num": 231849,
       "word": "雄鹿奇才交易",
@@ -43011,6 +43075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167821,
+      "num": 366671,
+      "word": "文学类国家线降14分",
+      "onboard_time": 1740394759,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 167794,
       "num": 167794,
       "word": "只有杜海涛一个人悲伤的故事",
@@ -43449,6 +43521,14 @@
       "onboard_time": 1739348780,
       "rank": 34,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 166205,
+      "num": 166205,
+      "word": "杭州科技感爆棚",
+      "onboard_time": 1740395479,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166198,
@@ -43945,6 +44025,14 @@
       "onboard_time": 1740239360,
       "rank": 23,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 164256,
+      "num": 364573,
+      "word": "丁真横店骑马上班",
+      "onboard_time": 1740391099,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 164252,
@@ -46137,6 +46225,14 @@
       "onboard_time": 1739719041,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 156545,
+      "num": 190513,
+      "word": "公司在微信群通知裁员被判违法",
+      "onboard_time": 1740393620,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156525,
@@ -49539,6 +49635,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 143661,
+      "num": 293813,
+      "word": "全红婵下个月就18岁了",
+      "onboard_time": 1740395659,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143645,
       "num": 143645,
       "word": "女生花10个晚上缝制凤冠送朋友出嫁",
@@ -50145,14 +50249,6 @@
       "onboard_time": 1740210679,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 141340,
-      "num": 141340,
-      "word": "黑长直惠利欧尼",
-      "onboard_time": 1740393560,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 141257,
@@ -53235,14 +53331,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 127913,
-      "num": 127913,
-      "word": "湖南卫视重映大唐荣耀",
-      "onboard_time": 1740393440,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 127849,
       "num": 127849,
       "word": "一葱油饼老板因跳投卖饼走红",
@@ -55729,14 +55817,6 @@
       "onboard_time": 1739163802,
       "rank": 9,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 116094,
-      "num": 116094,
-      "word": "小小的勇气 赵露思",
-      "onboard_time": 1740393739,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 116060,
@@ -62675,6 +62755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76018,
+      "num": 280090,
+      "word": "女子减肥患厌食症瘦到只剩40斤",
+      "onboard_time": 1740395479,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76012,
       "num": 214568,
       "word": "重庆通报污水排入长江事件",
@@ -62873,6 +62961,14 @@
       "onboard_time": 1739425283,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74488,
+      "num": 473755,
+      "word": "律师建议不要找陌生人代查考研成绩",
+      "onboard_time": 1740394879,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 74484,
@@ -66379,14 +66475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 53476,
-      "num": 190513,
-      "word": "公司在微信群通知裁员被判违法",
-      "onboard_time": 1740393620,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 53470,
       "num": 53470,
       "word": "IU朴宝剑新剧3月上线",
@@ -69745,6 +69833,14 @@
       "onboard_time": 1738534572,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 36171,
+      "num": 379211,
+      "word": "AI虽有大用看病还得靠医生",
+      "onboard_time": 1740395659,
+      "rank": 16,
+      "category": "互联网"
     },
     {
       "raw_hot": 36146,
@@ -73155,6 +73251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 20458,
+      "num": 352623,
+      "word": "租户车停房东院子村里要收费",
+      "onboard_time": 1740395659,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20429,
       "num": 23273,
       "word": "用中国式浪漫打开立春节气",
@@ -73361,6 +73465,14 @@
       "onboard_time": 1740180375,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 19694,
+      "num": 386004,
+      "word": "湖南湘乡一河流被白色泡沫覆盖",
+      "onboard_time": 1740395360,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19673,

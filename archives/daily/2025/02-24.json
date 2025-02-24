@@ -1,6 +1,6 @@
 {
   "startTime": 1740327929685,
-  "endTime": 1740393761249,
+  "endTime": 1740395998937,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -147,6 +147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1095706,
+      "num": 993226,
+      "word": "女子在公司微信群看到自己被裁员",
+      "onboard_time": 1740390380,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1088495,
       "num": 1016613,
       "word": "张馨予没有瘦身成功",
@@ -193,14 +201,6 @@
       "onboard_time": 1740362059,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 993226,
-      "num": 993226,
-      "word": "女子在公司微信群看到自己被裁员",
-      "onboard_time": 1740390380,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 988249,
@@ -283,6 +283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 822799,
+      "num": 822799,
+      "word": "小小的勇气 赵露思",
+      "onboard_time": 1740393739,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 816015,
       "num": 671077,
       "word": "胎儿给妈妈倒输血出生后全身发白",
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 723728,
-      "num": 399763,
+      "num": 422368,
       "word": "比起来月经 器官时间不和谐更让我烦躁",
       "onboard_time": 1740387263,
       "rank": 12,
@@ -400,6 +408,14 @@
       "word": "开始推理吧3",
       "onboard_time": 1740366621,
       "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 659259,
+      "num": 659259,
+      "word": "李昀锐能和孟子义一直唠",
+      "onboard_time": 1740391999,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -547,6 +563,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 494603,
+      "num": 494603,
+      "word": "女友陪王星录制新综艺",
+      "onboard_time": 1740390200,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 491445,
       "num": 196157,
       "word": "现在结婚滚床都这么卷了吗",
@@ -627,6 +651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 416734,
+      "num": 416734,
+      "word": "王楚钦发博庆祝夺冠",
+      "onboard_time": 1740394219,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 416578,
       "num": 416578,
       "word": "今年国家线降了",
@@ -659,20 +691,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 400378,
-      "num": 400378,
-      "word": "女友陪王星录制新综艺",
-      "onboard_time": 1740390200,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 400156,
       "num": 400156,
       "word": "男主爱7次结果是1人",
       "onboard_time": 1740373041,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 397668,
+      "num": 397668,
+      "word": "黑长直惠利欧尼",
+      "onboard_time": 1740393560,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 396335,
@@ -729,6 +761,14 @@
       "onboard_time": 1740381200,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 381332,
+      "num": 381332,
+      "word": "陈星旭轧戏一番",
+      "onboard_time": 1740391460,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 359971,
@@ -809,14 +849,6 @@
       "onboard_time": 1740366080,
       "rank": 18,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 344574,
-      "num": 344574,
-      "word": "陈星旭轧戏一番",
-      "onboard_time": 1740391460,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 344137,
@@ -979,20 +1011,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 290284,
-      "num": 290284,
-      "word": "李昀锐能和孟子义一直唠",
-      "onboard_time": 1740391999,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 289617,
       "num": 289617,
       "word": "考研明天查分",
       "onboard_time": 1740316100,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 286680,
+      "num": 286680,
+      "word": "DeepSeek不适合INFP的5个工作",
+      "onboard_time": 1740391399,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 286350,
@@ -1011,6 +1043,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 283509,
+      "num": 283509,
+      "word": "留几手磨皮磨成胚胎了",
+      "onboard_time": 1740392539,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 283348,
+      "num": 394206,
+      "word": "如何治理农村高额彩礼",
+      "onboard_time": 1740391819,
+      "rank": 9,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 283019,
       "num": 331069,
       "word": "迪丽热巴黑金look",
@@ -1025,14 +1073,6 @@
       "onboard_time": 1740389720,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 278920,
-      "num": 394206,
-      "word": "如何治理农村高额彩礼",
-      "onboard_time": 1740391819,
-      "rank": 9,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 276004,
@@ -1059,20 +1099,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 264696,
-      "num": 264696,
-      "word": "DeepSeek不适合INFP的5个工作",
-      "onboard_time": 1740391399,
-      "rank": 25,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 260061,
       "num": 260061,
       "word": "马嘉祺一句话触发四个非洲土著",
       "onboard_time": 1740327501,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 256198,
+      "num": 478619,
+      "word": "乌克兰3月将从欧盟获得35亿欧元",
+      "onboard_time": 1740394520,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 250496,
@@ -1113,14 +1153,6 @@
       "onboard_time": 1740387741,
       "rank": 29,
       "category": "教育"
-    },
-    {
-      "raw_hot": 242325,
-      "num": 242325,
-      "word": "留几手磨皮磨成胚胎了",
-      "onboard_time": 1740392539,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 240116,
@@ -1185,6 +1217,14 @@
       "onboard_time": 1740376283,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229712,
+      "num": 229712,
+      "word": "肖战外套叠穿",
+      "onboard_time": 1740392840,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 221744,
@@ -1257,6 +1297,14 @@
       "onboard_time": 1740316220,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213275,
+      "num": 213275,
+      "word": "京东承担外卖骑手五险一金所有成本",
+      "onboard_time": 1740394461,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 212859,
@@ -1571,6 +1619,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185004,
+      "num": 185004,
+      "word": "周雨彤我这辈子跟定你了",
+      "onboard_time": 1740394401,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 184849,
+      "num": 184849,
+      "word": "湖南卫视重映大唐荣耀",
+      "onboard_time": 1740393440,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184641,
       "num": 211704,
       "word": "闺蜜走后我活成了她的样子",
@@ -1656,14 +1720,6 @@
       "word": "肖战男模机场秀",
       "onboard_time": 1740314662,
       "rank": 29,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 178129,
-      "num": 177256,
-      "word": "肖战外套叠穿",
-      "onboard_time": 1740392840,
-      "rank": 34,
       "category": "作品衍生,时尚"
     },
     {
@@ -1763,6 +1819,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 169967,
+      "num": 169967,
+      "word": "时代少年团这一次讲爱也讲被爱",
+      "onboard_time": 1740395600,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169668,
       "num": 149379,
       "word": "迪丽热巴别走了吧",
@@ -1779,12 +1843,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167821,
+      "num": 366671,
+      "word": "文学类国家线降14分",
+      "onboard_time": 1740394759,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 167116,
       "num": 167116,
       "word": "哪吒2冲向全球票房第7",
       "onboard_time": 1740303201,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 166205,
+      "num": 166205,
+      "word": "杭州科技感爆棚",
+      "onboard_time": 1740395479,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165972,
@@ -1809,6 +1889,14 @@
       "onboard_time": 1740319822,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 164256,
+      "num": 364573,
+      "word": "丁真横店骑马上班",
+      "onboard_time": 1740391099,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 164046,
@@ -1889,6 +1977,14 @@
       "onboard_time": 1740357740,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156545,
+      "num": 190513,
+      "word": "公司在微信群通知裁员被判违法",
+      "onboard_time": 1740393620,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155601,
@@ -2027,6 +2123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143661,
+      "num": 293813,
+      "word": "全红婵下个月就18岁了",
+      "onboard_time": 1740395659,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143103,
       "num": 331749,
       "word": "神秘客住酒店2天打了140个电话",
@@ -2049,14 +2153,6 @@
       "onboard_time": 1740362536,
       "rank": 41,
       "category": "教育"
-    },
-    {
-      "raw_hot": 141340,
-      "num": 141340,
-      "word": "黑长直惠利欧尼",
-      "onboard_time": 1740393560,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 137627,
@@ -2171,14 +2267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 127913,
-      "num": 127913,
-      "word": "湖南卫视重映大唐荣耀",
-      "onboard_time": 1740393440,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 127769,
       "num": 268563,
       "word": "印度强奸案只有27%被定罪",
@@ -2249,14 +2337,6 @@
       "onboard_time": 1740360439,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 116094,
-      "num": 116094,
-      "word": "小小的勇气 赵露思",
-      "onboard_time": 1740393739,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 114864,
@@ -2425,6 +2505,22 @@
       "onboard_time": 1740352696,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 76018,
+      "num": 280090,
+      "word": "女子减肥患厌食症瘦到只剩40斤",
+      "onboard_time": 1740395479,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74488,
+      "num": 473755,
+      "word": "律师建议不要找陌生人代查考研成绩",
+      "onboard_time": 1740394879,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 74320,
@@ -2627,14 +2723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 53476,
-      "num": 190513,
-      "word": "公司在微信群通知裁员被判违法",
-      "onboard_time": 1740393620,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 52219,
       "num": 332900,
       "word": "高盛称A股有望在三个月内反超港股",
@@ -2753,6 +2841,14 @@
       "onboard_time": 1740332893,
       "rank": 38,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 36171,
+      "num": 379211,
+      "word": "AI虽有大用看病还得靠医生",
+      "onboard_time": 1740395659,
+      "rank": 16,
+      "category": "互联网"
     },
     {
       "raw_hot": 35688,
@@ -2891,12 +2987,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20458,
+      "num": 352623,
+      "word": "租户车停房东院子村里要收费",
+      "onboard_time": 1740395659,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19878,
       "num": 390048,
       "word": "老戏骨林保怡没拿影帝但赢了人生",
       "onboard_time": 1740384321,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 19694,
+      "num": 386004,
+      "word": "湖南湘乡一河流被白色泡沫覆盖",
+      "onboard_time": 1740395360,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18651,
