@@ -1,0 +1,410 @@
+{
+  "runTime": 1740401085125,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1253840,
+        "num": 1253840,
+        "word": "小小的勇气 赵露思",
+        "onboard_time": 1740393739,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 737051,
+        "num": 737051,
+        "word": "中俄关系不受任何第三方影响",
+        "onboard_time": 1740396500,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 88126,
+        "num": 714144,
+        "word": "中央一号文件对三农工作划重点",
+        "onboard_time": 1740383180,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1139288,
+        "num": 710437,
+        "word": "滤镜 容貌焦虑",
+        "onboard_time": 1740396619,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 698773,
+        "num": 698773,
+        "word": "妈妈 我有学上了",
+        "onboard_time": 1740388818,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 496346,
+        "num": 496346,
+        "word": "2025考研国家线发布",
+        "onboard_time": 1740384441,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1122458,
+        "num": 427816,
+        "word": "3号厅检票员工 难哄",
+        "onboard_time": 1740398479,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 509031,
+        "num": 405615,
+        "word": "湖南卫视重映大唐荣耀",
+        "onboard_time": 1740393440,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 347694,
+        "num": 347694,
+        "word": "王楚钦发博庆祝夺冠",
+        "onboard_time": 1740394219,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 309364,
+        "num": 309364,
+        "word": "全红婵保送至暨南大学",
+        "onboard_time": 1740385041,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 689739,
+        "num": 306920,
+        "word": "上海土拨鼠",
+        "onboard_time": 1740397520,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 619369,
+        "num": 306169,
+        "word": "比起来月经 器官时间不和谐更让我烦躁",
+        "onboard_time": 1740387263,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 607963,
+        "num": 303172,
+        "word": "医学生疑因数据被挪用烧炭身亡",
+        "onboard_time": 1740396019,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160990,
+        "num": 299244,
+        "word": "当地回应小学课后延时服务收费",
+        "onboard_time": 1740399499,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38310,
+        "num": 297279,
+        "word": "专家称考研实际录取分数线可能会涨",
+        "onboard_time": 1740400760,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 508729,
+        "num": 295804,
+        "word": "包文婧孕肚照",
+        "onboard_time": 1740400520,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 436619,
+        "num": 291565,
+        "word": "爷爷得知医学生孙女自杀后脑溢血",
+        "onboard_time": 1740383540,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 400953,
+        "num": 288218,
+        "word": "央视镜头下的吴倩",
+        "onboard_time": 1740389720,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340235,
+        "num": 287171,
+        "word": "李昀锐能和孟子义一直唠",
+        "onboard_time": 1740391999,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24830,
+        "num": 284703,
+        "word": "俄称愿与乌克兰和欧洲谈判",
+        "onboard_time": 1740400460,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 333097,
+        "num": 280508,
+        "word": "总算见识到刘亦菲的高颅顶了",
+        "onboard_time": 1740397819,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280120,
+        "num": 280120,
+        "word": "胎儿给妈妈倒输血出生后全身发白",
+        "onboard_time": 1740382281,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272806,
+        "num": 272806,
+        "word": "黑长直惠利欧尼",
+        "onboard_time": 1740393560,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269198,
+        "num": 269198,
+        "word": "桑延一集比一集穿得少",
+        "onboard_time": 1740387142,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266358,
+        "num": 266358,
+        "word": "中方回应泽连斯基希望得到中国帮助",
+        "onboard_time": 1740389480,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 240696,
+        "num": 240696,
+        "word": "关晓彤事业心",
+        "onboard_time": 1740396619,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203674,
+        "num": 203674,
+        "word": "DeepSeek不适合INFP的5个工作",
+        "onboard_time": 1740391399,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 12411,
+        "num": 202749,
+        "word": "京沪高铁人均工作状态",
+        "onboard_time": 1740397640,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57203,
+        "num": 202019,
+        "word": "王曼昱说会为国乒球队争取更多荣誉",
+        "onboard_time": 1740397879,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201903,
+        "num": 201903,
+        "word": "爱你",
+        "onboard_time": 1740399860,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81905,
+        "num": 200819,
+        "word": "农村移风易俗不能一刀切硬干蛮干",
+        "onboard_time": 1740396019,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108154,
+        "num": 199559,
+        "word": "欧洲和加拿大领导人扎堆访乌",
+        "onboard_time": 1740397099,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 180915,
+        "num": 197866,
+        "word": "张馨予没有瘦身成功",
+        "onboard_time": 1740380060,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 283575,
+        "num": 196692,
+        "word": "女子在公司微信群看到自己被裁员",
+        "onboard_time": 1740390380,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181961,
+        "num": 194896,
+        "word": "逆水寒",
+        "onboard_time": 1740399919,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 194654,
+        "num": 194654,
+        "word": "吉林桦甸3年145人因农机致残",
+        "onboard_time": 1740399141,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235826,
+        "num": 192806,
+        "word": "英语名师王江涛英语二考80分",
+        "onboard_time": 1740400580,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 198259,
+        "num": 190056,
+        "word": "原来头皮屑变多是因为溢脂性皮炎",
+        "onboard_time": 1740398720,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 183202,
+        "num": 183202,
+        "word": "五熊官宣怀孕",
+        "onboard_time": 1740400879,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176505,
+        "num": 176505,
+        "word": "天津大姨的松弛感都顶头上了",
+        "onboard_time": 1740400340,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173431,
+        "num": 173431,
+        "word": "哪吒2从100亿到137亿仅用10天",
+        "onboard_time": 1740395299,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169176,
+        "num": 169176,
+        "word": "肖战外套叠穿",
+        "onboard_time": 1740392840,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 168498,
+        "num": 168498,
+        "word": "00后自杀医科大女研究生父亲发声",
+        "onboard_time": 1740381439,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157045,
+        "num": 157045,
+        "word": "雷军OOTD",
+        "onboard_time": 1740401000,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 148404,
+        "num": 148404,
+        "word": "章若楠头像大户上新",
+        "onboard_time": 1740400941,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147201,
+        "num": 147201,
+        "word": "尔冬升我在无限超越班绝对没有关系户",
+        "onboard_time": 1740398061,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141984,
+        "num": 141984,
+        "word": "2025考研复试时间全国统一",
+        "onboard_time": 1740398240,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 164469,
+        "num": 140698,
+        "word": "女友陪王星录制新综艺",
+        "onboard_time": 1740390200,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137878,
+        "num": 137878,
+        "word": "六姊妹",
+        "onboard_time": 1740401061,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137826,
+        "num": 137826,
+        "word": "快乐再出发3好神经的特效",
+        "onboard_time": 1740399319,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心系的头等大事#"
+    }
+  }
+}

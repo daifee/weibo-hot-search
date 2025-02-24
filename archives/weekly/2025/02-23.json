@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740396964684,
+  "endTime": 1740401085125,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -267,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1253840,
+      "num": 1253840,
+      "word": "小小的勇气 赵露思",
+      "onboard_time": 1740393739,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1248933,
       "num": 431009,
       "word": "29岁女子新婚被打失明男方获刑11年",
@@ -307,14 +315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1169779,
-      "num": 1169779,
-      "word": "小小的勇气 赵露思",
-      "onboard_time": 1740393739,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1163298,
       "num": 1163298,
       "word": "孙颖莎也嫌黄色衣服晃眼",
@@ -347,12 +347,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1139288,
+      "num": 710437,
+      "word": "滤镜 容貌焦虑",
+      "onboard_time": 1740396619,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1136847,
       "num": 1136847,
       "word": "将进酒",
       "onboard_time": 1740306979,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1122458,
+      "num": 427816,
+      "word": "3号厅检票员工 难哄",
+      "onboard_time": 1740398479,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 1115563,
@@ -731,6 +747,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 737051,
+      "num": 737051,
+      "word": "中俄关系不受任何第三方影响",
+      "onboard_time": 1740396500,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 723728,
       "num": 445416,
       "word": "比起来月经 器官时间不和谐更让我烦躁",
@@ -840,6 +864,14 @@
       "word": "多人贪吃春笋呕血晕厥",
       "onboard_time": 1740269837,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 689739,
+      "num": 306920,
+      "word": "上海土拨鼠",
+      "onboard_time": 1740397520,
+      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -984,6 +1016,14 @@
       "word": "小行星撞地球概率为何一变再变",
       "onboard_time": 1740376159,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 607963,
+      "num": 303172,
+      "word": "医学生疑因数据被挪用烧炭身亡",
+      "onboard_time": 1740396019,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -1193,6 +1233,22 @@
       "onboard_time": 1740320602,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 509031,
+      "num": 405615,
+      "word": "湖南卫视重映大唐荣耀",
+      "onboard_time": 1740393440,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 508729,
+      "num": 295804,
+      "word": "包文婧孕肚照",
+      "onboard_time": 1740400520,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 507788,
@@ -1417,6 +1473,14 @@
       "onboard_time": 1740314421,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 400953,
+      "num": 288218,
+      "word": "央视镜头下的吴倩",
+      "onboard_time": 1740389720,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 400532,
@@ -1787,6 +1851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 333097,
+      "num": 280508,
+      "word": "总算见识到刘亦菲的高颅顶了",
+      "onboard_time": 1740397819,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 331280,
       "num": 331280,
       "word": "考研国家线预测",
@@ -1825,14 +1897,6 @@
       "onboard_time": 1740304340,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 324651,
-      "num": 324651,
-      "word": "湖南卫视重映大唐荣耀",
-      "onboard_time": 1740393440,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 322372,
@@ -2107,14 +2171,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 281708,
-      "num": 281708,
-      "word": "央视镜头下的吴倩",
-      "onboard_time": 1740389720,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 281279,
       "num": 272183,
       "word": "周深的回复是我的淡斑精华",
@@ -2225,14 +2281,6 @@
       "onboard_time": 1740309680,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 259347,
-      "num": 259347,
-      "word": "医学生疑因数据被挪用烧炭身亡",
-      "onboard_time": 1740396019,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 257768,
@@ -2347,6 +2395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 240696,
+      "num": 240696,
+      "word": "关晓彤事业心",
+      "onboard_time": 1740396619,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240312,
       "num": 240312,
       "word": "理解梁靖崑成为梁靖崑",
@@ -2401,6 +2457,14 @@
       "onboard_time": 1740375021,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 235826,
+      "num": 192806,
+      "word": "英语名师王江涛英语二考80分",
+      "onboard_time": 1740400580,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 235323,
@@ -2843,6 +2907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 201903,
+      "num": 201903,
+      "word": "爱你",
+      "onboard_time": 1740399860,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201742,
       "num": 201742,
       "word": "孙颖莎胜陈幸同",
@@ -2923,6 +2995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 198259,
+      "num": 190056,
+      "word": "原来头皮屑变多是因为溢脂性皮炎",
+      "onboard_time": 1740398720,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 198231,
       "num": 198231,
       "word": "董思成问DeepSeek应该怎么营业",
@@ -2977,6 +3057,14 @@
       "onboard_time": 1740295220,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194654,
+      "num": 194654,
+      "word": "吉林桦甸3年145人因农机致残",
+      "onboard_time": 1740399141,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194334,
@@ -3041,14 +3129,6 @@
       "onboard_time": 1740291019,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 193267,
-      "num": 193267,
-      "word": "滤镜 容貌焦虑",
-      "onboard_time": 1740396619,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 192866,
@@ -3299,6 +3379,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 183202,
+      "num": 183202,
+      "word": "五熊官宣怀孕",
+      "onboard_time": 1740400879,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182471,
       "num": 182471,
       "word": "林一参加黄明昊签售会",
@@ -3321,6 +3409,14 @@
       "onboard_time": 1740388221,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181961,
+      "num": 194896,
+      "word": "逆水寒",
+      "onboard_time": 1740399919,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 181893,
@@ -3451,20 +3547,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176505,
+      "num": 176505,
+      "word": "天津大姨的松弛感都顶头上了",
+      "onboard_time": 1740400340,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 176032,
       "num": 176032,
       "word": "难哄好甜",
       "onboard_time": 1740375322,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 175811,
-      "num": 448709,
-      "word": "中俄关系不受任何第三方影响",
-      "onboard_time": 1740396500,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 175737,
@@ -3545,6 +3641,14 @@
       "onboard_time": 1740309079,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 173431,
+      "num": 173431,
+      "word": "哪吒2从100亿到137亿仅用10天",
+      "onboard_time": 1740395299,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 173356,
@@ -3883,6 +3987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160990,
+      "num": 299244,
+      "word": "当地回应小学课后延时服务收费",
+      "onboard_time": 1740399499,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160902,
       "num": 160902,
       "word": "许昕反驳林诗栋被指关系户",
@@ -3963,14 +4075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 158771,
-      "num": 158771,
-      "word": "关晓彤事业心",
-      "onboard_time": 1740396619,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 158749,
       "num": 439120,
       "word": "咸阳机场回应一航班疑因起火返航",
@@ -4001,6 +4105,14 @@
       "onboard_time": 1740313582,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157045,
+      "num": 157045,
+      "word": "雷军OOTD",
+      "onboard_time": 1740401000,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 156687,
@@ -4179,20 +4291,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148404,
+      "num": 148404,
+      "word": "章若楠头像大户上新",
+      "onboard_time": 1740400941,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148079,
       "num": 148079,
       "word": "捡到了桑延的手机",
       "onboard_time": 1740388281,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 147923,
-      "num": 145860,
-      "word": "哪吒2从100亿到137亿仅用10天",
-      "onboard_time": 1740395299,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 147711,
@@ -4209,6 +4321,14 @@
       "onboard_time": 1740386123,
       "rank": 6,
       "category": "教育"
+    },
+    {
+      "raw_hot": 147201,
+      "num": 147201,
+      "word": "尔冬升我在无限超越班绝对没有关系户",
+      "onboard_time": 1740398061,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 146859,
@@ -4323,6 +4443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141984,
+      "num": 141984,
+      "word": "2025考研复试时间全国统一",
+      "onboard_time": 1740398240,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 141850,
       "num": 141850,
       "word": "四六级成绩还不出",
@@ -4363,8 +4491,16 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 137826,
+      "num": 137826,
+      "word": "快乐再出发3好神经的特效",
+      "onboard_time": 1740399319,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137751,
-      "num": 140959,
+      "num": 200819,
       "word": "农村移风易俗不能一刀切硬干蛮干",
       "onboard_time": 1740396019,
       "rank": 48,
@@ -4888,6 +5024,14 @@
       "word": "默茨谈获胜原因",
       "onboard_time": 1740364460,
       "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 108154,
+      "num": 199559,
+      "word": "欧洲和加拿大领导人扎堆访乌",
+      "onboard_time": 1740397099,
+      "rank": 31,
       "category": "国际时政"
     },
     {
@@ -5507,6 +5651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 57203,
+      "num": 202019,
+      "word": "王曼昱说会为国乒球队争取更多荣誉",
+      "onboard_time": 1740397879,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 56878,
       "num": 292476,
       "word": "职院阻止摆摊人行道设置百米石墩阵",
@@ -5795,6 +5947,14 @@
       "category": "动漫,财经"
     },
     {
+      "raw_hot": 38310,
+      "num": 297279,
+      "word": "专家称考研实际录取分数线可能会涨",
+      "onboard_time": 1740400760,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 36877,
       "num": 453713,
       "word": "俄乌冲突三年来对全球的影响",
@@ -5977,6 +6137,14 @@
       "onboard_time": 1740381558,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 24830,
+      "num": 284703,
+      "word": "俄称愿与乌克兰和欧洲谈判",
+      "onboard_time": 1740400460,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 23897,
@@ -6192,6 +6360,14 @@
       "word": "辅警火场救人后一氧化碳中毒狂吐",
       "onboard_time": 1740255431,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12411,
+      "num": 202749,
+      "word": "京沪高铁人均工作状态",
+      "onboard_time": 1740397640,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
