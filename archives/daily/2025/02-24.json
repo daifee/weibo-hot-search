@@ -1,6 +1,6 @@
 {
   "startTime": 1740327929685,
-  "endTime": 1740403808603,
+  "endTime": 1740404501862,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -11,8 +11,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 3973494,
-      "num": 3973494,
+      "raw_hot": 5161573,
+      "num": 5161573,
       "word": "李威涉嫌伤害致死",
       "onboard_time": 1740401241,
       "rank": 3,
@@ -387,6 +387,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 730291,
+      "num": 402000,
+      "word": "总算见识到刘亦菲的高颅顶了",
+      "onboard_time": 1740397819,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 723728,
       "num": 445416,
       "word": "比起来月经 器官时间不和谐更让我烦躁",
@@ -508,7 +516,7 @@
     },
     {
       "raw_hot": 623009,
-      "num": 405765,
+      "num": 556141,
       "word": "英语名师王江涛英语二考80分",
       "onboard_time": 1740400580,
       "rank": 36,
@@ -521,6 +529,14 @@
       "onboard_time": 1740376159,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 609352,
+      "num": 401361,
+      "word": "敖犬老婆曾因严重忧郁暴瘦",
+      "onboard_time": 1740401600,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 603466,
@@ -577,14 +593,6 @@
       "onboard_time": 1740321562,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 552225,
-      "num": 402000,
-      "word": "总算见识到刘亦菲的高颅顶了",
-      "onboard_time": 1740397819,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 549615,
@@ -681,14 +689,6 @@
       "onboard_time": 1740389720,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 488117,
-      "num": 401361,
-      "word": "敖犬老婆曾因严重忧郁暴瘦",
-      "onboard_time": 1740401600,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 483370,
@@ -819,6 +819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 397777,
+      "num": 347540,
+      "word": "原来头皮屑变多是因为溢脂性皮炎",
+      "onboard_time": 1740398720,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 396335,
       "num": 396335,
       "word": "电梯疾坠又猛冲至33楼致业主身亡",
@@ -947,14 +955,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 347540,
-      "num": 347540,
-      "word": "原来头皮屑变多是因为溢脂性皮炎",
-      "onboard_time": 1740398720,
-      "rank": 37,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 346615,
       "num": 346615,
       "word": "考研政治",
@@ -977,6 +977,14 @@
       "onboard_time": 1740377001,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 331758,
+      "num": 303364,
+      "word": "每天8杯水到底是多大的杯子",
+      "onboard_time": 1740401660,
+      "rank": 39,
+      "category": "科学科普"
     },
     {
       "raw_hot": 331280,
@@ -1073,14 +1081,6 @@
       "onboard_time": 1740373881,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 303364,
-      "num": 303364,
-      "word": "每天8杯水到底是多大的杯子",
-      "onboard_time": 1740401660,
-      "rank": 39,
-      "category": "科学科普"
     },
     {
       "raw_hot": 299960,
@@ -1211,6 +1211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 270949,
+      "num": 270949,
+      "word": "滤镜癫剧",
+      "onboard_time": 1740403222,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 267777,
       "num": 333140,
       "word": "李兰迪一变身檀健次就要演三遍",
@@ -1235,6 +1243,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 253759,
+      "num": 411436,
+      "word": "俄称愿与乌克兰和欧洲谈判",
+      "onboard_time": 1740400460,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 253610,
+      "num": 253610,
+      "word": "李兰迪气色",
+      "onboard_time": 1740403401,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 250586,
       "num": 250586,
       "word": "哪吒 土拨鼠",
@@ -1249,14 +1273,6 @@
       "onboard_time": 1740327679,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 246879,
-      "num": 411436,
-      "word": "俄称愿与乌克兰和欧洲谈判",
-      "onboard_time": 1740400460,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 246113,
@@ -1491,6 +1507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 211216,
+      "num": 211216,
+      "word": "六姊妹大结局",
+      "onboard_time": 1740404062,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210187,
       "num": 210187,
       "word": "考研",
@@ -1515,12 +1539,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 209519,
+      "num": 400864,
+      "word": "法院释疑女生遭侵犯溺亡被告未获死刑",
+      "onboard_time": 1740402982,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208231,
       "num": 208231,
       "word": "父亲让俩儿子抓阄凭运气选房",
       "onboard_time": 1740372862,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207807,
+      "num": 207807,
+      "word": "桑延温以凡睡一起了",
+      "onboard_time": 1740402201,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 205823,
@@ -1571,20 +1611,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204073,
+      "num": 204073,
+      "word": "章若楠头像大户上新",
+      "onboard_time": 1740400941,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203887,
       "num": 203887,
       "word": "成毅 丝塔芙",
       "onboard_time": 1740367280,
       "rank": 40,
       "category": "艺人,美妆"
-    },
-    {
-      "raw_hot": 203513,
-      "num": 203513,
-      "word": "章若楠头像大户上新",
-      "onboard_time": 1740400941,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 203477,
@@ -1635,14 +1675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199439,
-      "num": 199439,
-      "word": "滤镜癫剧",
-      "onboard_time": 1740403222,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 198513,
       "num": 279908,
       "word": "王阳孙千首搭制服杀",
@@ -1665,14 +1697,6 @@
       "onboard_time": 1740371543,
       "rank": 38,
       "category": "艺人,互联网"
-    },
-    {
-      "raw_hot": 198228,
-      "num": 198228,
-      "word": "桑延温以凡睡一起了",
-      "onboard_time": 1740402201,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 197832,
@@ -1769,6 +1793,14 @@
       "onboard_time": 1740400520,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192550,
+      "num": 192550,
+      "word": "龚俊高定",
+      "onboard_time": 1740403822,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 192535,
@@ -1987,14 +2019,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 177269,
-      "num": 177269,
-      "word": "李兰迪气色",
-      "onboard_time": 1740403401,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 176682,
       "num": 176682,
       "word": "唐总 夫人爬出门逃跑啦",
@@ -2171,6 +2195,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 164232,
+      "num": 410103,
+      "word": "看哪吒后网购土拨鼠疑收到野生旱獭",
+      "onboard_time": 1740403161,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164046,
       "num": 150683,
       "word": "檀健次配音太乙真人",
@@ -2185,6 +2217,14 @@
       "onboard_time": 1740387142,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 162915,
+      "num": 310364,
+      "word": "女大学生打车18公里被收581元",
+      "onboard_time": 1740402560,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161470,
@@ -2249,6 +2289,14 @@
       "onboard_time": 1740357740,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157682,
+      "num": 404873,
+      "word": "土拨鼠携带鼠疫可致人死亡",
+      "onboard_time": 1740402743,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156545,
@@ -2451,14 +2499,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 138423,
-      "num": 310364,
-      "word": "女大学生打车18公里被收581元",
-      "onboard_time": 1740402560,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 137826,
       "num": 137826,
       "word": "快乐再出发3好神经的特效",
@@ -2627,6 +2667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121069,
+      "num": 305610,
+      "word": "教授公开聊天记录指责学生娇生惯养",
+      "onboard_time": 1740403520,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119284,
       "num": 336599,
       "word": "王楚钦感谢低迷期对自己鼓励的人",
@@ -2729,14 +2777,6 @@
       "onboard_time": 1740331693,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 108693,
-      "num": 404873,
-      "word": "土拨鼠携带鼠疫可致人死亡",
-      "onboard_time": 1740402743,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 108282,
@@ -2899,12 +2939,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 75828,
-      "num": 410103,
-      "word": "看哪吒后网购土拨鼠疑收到野生旱獭",
-      "onboard_time": 1740403161,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 75096,
+      "num": 205050,
+      "word": "老铺黄金近4成产品由外包生产",
+      "onboard_time": 1740404481,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 74488,
@@ -2920,6 +2960,14 @@
       "word": "龙马乘组太空出差将满120天",
       "onboard_time": 1740320002,
       "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 73682,
+      "num": 252593,
+      "word": "中俄元首通电话",
+      "onboard_time": 1740404362,
+      "rank": 32,
       "category": "国内时政"
     },
     {
@@ -3187,6 +3235,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 48699,
+      "num": 404786,
+      "word": "律师解读医大女生轻生校方是否担责",
+      "onboard_time": 1740402861,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46902,
       "num": 155989,
       "word": "徐涛分享考研出分的5点建议",
@@ -3215,22 +3271,6 @@
       "num": 352623,
       "word": "租户车停房东院子村里要收费",
       "onboard_time": 1740395659,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43483,
-      "num": 404786,
-      "word": "律师解读医大女生轻生校方是否担责",
-      "onboard_time": 1740402861,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 42475,
-      "num": 400864,
-      "word": "法院释疑女生遭侵犯溺亡被告未获死刑",
-      "onboard_time": 1740402982,
       "rank": 19,
       "category": "民生新闻"
     },
@@ -3337,14 +3377,6 @@
       "onboard_time": 1740402743,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 30623,
-      "num": 305610,
-      "word": "教授公开聊天记录指责学生娇生惯养",
-      "onboard_time": 1740403520,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 28685,
@@ -3499,6 +3531,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 15090,
+      "num": 269272,
+      "word": "梁王组合任亚锦赛形象大使",
+      "onboard_time": 1740398119,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 12411,
       "num": 202749,
       "word": "京沪高铁人均工作状态",
@@ -3561,6 +3601,14 @@
       "onboard_time": 1740382281,
       "rank": 16,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 7500,
+      "num": 577459,
+      "word": "您的声音我的故事",
+      "onboard_time": 1740404301,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 7016,
