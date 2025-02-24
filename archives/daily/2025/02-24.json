@@ -1,6 +1,6 @@
 {
   "startTime": 1740327929685,
-  "endTime": 1740395998937,
+  "endTime": 1740396964684,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -113,6 +113,14 @@
       "onboard_time": 1740318201,
       "rank": 13,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 1169779,
+      "num": 1169779,
+      "word": "小小的勇气 赵露思",
+      "onboard_time": 1740393739,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 1151264,
@@ -283,14 +291,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 822799,
-      "num": 822799,
-      "word": "小小的勇气 赵露思",
-      "onboard_time": 1740393739,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 816015,
       "num": 671077,
       "word": "胎儿给妈妈倒输血出生后全身发白",
@@ -348,7 +348,7 @@
     },
     {
       "raw_hot": 723728,
-      "num": 422368,
+      "num": 445416,
       "word": "比起来月经 器官时间不和谐更让我烦躁",
       "onboard_time": 1740387263,
       "rank": 12,
@@ -361,6 +361,14 @@
       "onboard_time": 1740381861,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 702928,
+      "num": 702928,
+      "word": "李昀锐能和孟子义一直唠",
+      "onboard_time": 1740391999,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 702246,
@@ -411,20 +419,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 659259,
-      "num": 659259,
-      "word": "李昀锐能和孟子义一直唠",
-      "onboard_time": 1740391999,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 658493,
       "num": 658493,
       "word": "难哄配角 加戏",
       "onboard_time": 1740382580,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 651632,
+      "num": 651632,
+      "word": "王楚钦发博庆祝夺冠",
+      "onboard_time": 1740394219,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 630105,
@@ -635,6 +643,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 452389,
+      "num": 452389,
+      "word": "黑长直惠利欧尼",
+      "onboard_time": 1740393560,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 444767,
+      "num": 478619,
+      "word": "乌克兰3月将从欧盟获得35亿欧元",
+      "onboard_time": 1740394520,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 428312,
       "num": 461802,
       "word": "偶遇王俊凯公园锻炼",
@@ -649,14 +673,6 @@
       "onboard_time": 1740318683,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 416734,
-      "num": 416734,
-      "word": "王楚钦发博庆祝夺冠",
-      "onboard_time": 1740394219,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 416578,
@@ -697,14 +713,6 @@
       "onboard_time": 1740373041,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 397668,
-      "num": 397668,
-      "word": "黑长直惠利欧尼",
-      "onboard_time": 1740393560,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 396335,
@@ -883,6 +891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 324651,
+      "num": 324651,
+      "word": "湖南卫视重映大唐荣耀",
+      "onboard_time": 1740393440,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 321407,
       "num": 321407,
       "word": "2025年中央一号文件发布",
@@ -1019,8 +1035,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 286680,
-      "num": 286680,
+      "raw_hot": 287902,
+      "num": 287902,
       "word": "DeepSeek不适合INFP的5个工作",
       "onboard_time": 1740391399,
       "rank": 25,
@@ -1107,12 +1123,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 256198,
-      "num": 478619,
-      "word": "乌克兰3月将从欧盟获得35亿欧元",
-      "onboard_time": 1740394520,
-      "rank": 8,
-      "category": "国际时政"
+      "raw_hot": 259347,
+      "num": 259347,
+      "word": "医学生疑因数据被挪用烧炭身亡",
+      "onboard_time": 1740396019,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 250496,
@@ -1219,8 +1235,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 229712,
-      "num": 229712,
+      "raw_hot": 231495,
+      "num": 242272,
       "word": "肖战外套叠穿",
       "onboard_time": 1740392840,
       "rank": 34,
@@ -1539,6 +1555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193267,
+      "num": 193267,
+      "word": "滤镜 容貌焦虑",
+      "onboard_time": 1740396619,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192866,
       "num": 192866,
       "word": "无限超越班3导师阵容",
@@ -1587,6 +1611,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 187922,
+      "num": 187922,
+      "word": "射雕泰国票房周冠",
+      "onboard_time": 1740396019,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 187345,
       "num": 277165,
       "word": "大侦探流星来的那一夜",
@@ -1624,14 +1656,6 @@
       "word": "周雨彤我这辈子跟定你了",
       "onboard_time": 1740394401,
       "rank": 34,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 184849,
-      "num": 184849,
-      "word": "湖南卫视重映大唐荣耀",
-      "onboard_time": 1740393440,
-      "rank": 42,
       "category": "剧集"
     },
     {
@@ -1707,6 +1731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178915,
+      "num": 364573,
+      "word": "丁真横店骑马上班",
+      "onboard_time": 1740391099,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178799,
       "num": 523568,
       "word": "再坚持两天就可以脱棉袄了",
@@ -1753,6 +1785,14 @@
       "onboard_time": 1740375322,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175811,
+      "num": 448709,
+      "word": "中俄关系不受任何第三方影响",
+      "onboard_time": 1740396500,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 175721,
@@ -1860,7 +1900,7 @@
     },
     {
       "raw_hot": 166205,
-      "num": 166205,
+      "num": 320863,
       "word": "杭州科技感爆棚",
       "onboard_time": 1740395479,
       "rank": 39,
@@ -1889,14 +1929,6 @@
       "onboard_time": 1740319822,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 164256,
-      "num": 364573,
-      "word": "丁真横店骑马上班",
-      "onboard_time": 1740391099,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 164046,
@@ -1961,6 +1993,14 @@
       "onboard_time": 1740379099,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158771,
+      "num": 158771,
+      "word": "关晓彤事业心",
+      "onboard_time": 1740396619,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 157863,
@@ -2091,6 +2131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147923,
+      "num": 145860,
+      "word": "哪吒2从100亿到137亿仅用10天",
+      "onboard_time": 1740395299,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 147614,
       "num": 671760,
       "word": "教育部部署研究生招生复试录取工作",
@@ -2153,6 +2201,14 @@
       "onboard_time": 1740362536,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 137751,
+      "num": 140959,
+      "word": "农村移风易俗不能一刀切硬干蛮干",
+      "onboard_time": 1740396019,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137627,
@@ -2363,6 +2419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113105,
+      "num": 386004,
+      "word": "湖南湘乡一河流被白色泡沫覆盖",
+      "onboard_time": 1740395360,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111818,
       "num": 111818,
       "word": "5个考研查分通道",
@@ -2377,6 +2441,14 @@
       "onboard_time": 1740392600,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110330,
+      "num": 280090,
+      "word": "女子减肥患厌食症瘦到只剩40斤",
+      "onboard_time": 1740395479,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108818,
@@ -2443,6 +2515,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 87685,
+      "num": 316129,
+      "word": "轧戏官宣",
+      "onboard_time": 1740396079,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 86432,
+      "num": 181753,
+      "word": "孙颖莎领奖局里局气",
+      "onboard_time": 1740394161,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85820,
       "num": 1213237,
       "word": "强农惠农富农的政策持续加力",
@@ -2505,14 +2593,6 @@
       "onboard_time": 1740352696,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 76018,
-      "num": 280090,
-      "word": "女子减肥患厌食症瘦到只剩40斤",
-      "onboard_time": 1740395479,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 74488,
@@ -2723,6 +2803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 53276,
+      "num": 379211,
+      "word": "AI虽有大用看病还得靠医生",
+      "onboard_time": 1740395659,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 52219,
       "num": 332900,
       "word": "高盛称A股有望在三个月内反超港股",
@@ -2787,6 +2875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43585,
+      "num": 352623,
+      "word": "租户车停房东院子村里要收费",
+      "onboard_time": 1740395659,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42055,
       "num": 494949,
       "word": "60秒回顾俄乌战局变化",
@@ -2841,14 +2937,6 @@
       "onboard_time": 1740332893,
       "rank": 38,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 36171,
-      "num": 379211,
-      "word": "AI虽有大用看病还得靠医生",
-      "onboard_time": 1740395659,
-      "rank": 16,
-      "category": "互联网"
     },
     {
       "raw_hot": 35688,
@@ -2987,28 +3075,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20458,
-      "num": 352623,
-      "word": "租户车停房东院子村里要收费",
-      "onboard_time": 1740395659,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 19878,
       "num": 390048,
       "word": "老戏骨林保怡没拿影帝但赢了人生",
       "onboard_time": 1740384321,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 19694,
-      "num": 386004,
-      "word": "湖南湘乡一河流被白色泡沫覆盖",
-      "onboard_time": 1740395360,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18651,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1740396964684,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1182530,
+        "num": 1189204,
+        "word": "妈妈 我有学上了",
+        "onboard_time": 1740388818,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1169779,
+        "num": 1169779,
+        "word": "小小的勇气 赵露思",
+        "onboard_time": 1740393739,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90264,
+        "num": 817708,
+        "word": "中央一号文件对三农工作划重点",
+        "onboard_time": 1740383180,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 772875,
+        "num": 772875,
+        "word": "2025考研国家线发布",
+        "onboard_time": 1740384441,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 702928,
+        "num": 702928,
+        "word": "李昀锐能和孟子义一直唠",
+        "onboard_time": 1740391999,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 651632,
+        "num": 651632,
+        "word": "王楚钦发博庆祝夺冠",
+        "onboard_time": 1740394219,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 588935,
+        "num": 588935,
+        "word": "全红婵保送至暨南大学",
+        "onboard_time": 1740385041,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 499952,
+        "num": 499952,
+        "word": "中方回应泽连斯基希望得到中国帮助",
+        "onboard_time": 1740389480,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 452389,
+        "num": 452389,
+        "word": "黑长直惠利欧尼",
+        "onboard_time": 1740393560,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175811,
+        "num": 448709,
+        "word": "中俄关系不受任何第三方影响",
+        "onboard_time": 1740396500,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 778061,
+        "num": 447257,
+        "word": "爷爷得知医学生孙女自杀后脑溢血",
+        "onboard_time": 1740383540,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 445416,
+        "num": 445416,
+        "word": "比起来月经 器官时间不和谐更让我烦躁",
+        "onboard_time": 1740387263,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 403962,
+        "num": 403962,
+        "word": "女友陪王星录制新综艺",
+        "onboard_time": 1740390200,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113105,
+        "num": 326474,
+        "word": "湖南湘乡一河流被白色泡沫覆盖",
+        "onboard_time": 1740395360,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53276,
+        "num": 325293,
+        "word": "AI虽有大用看病还得靠医生",
+        "onboard_time": 1740395659,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 324651,
+        "num": 324651,
+        "word": "湖南卫视重映大唐荣耀",
+        "onboard_time": 1740393440,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 444767,
+        "num": 324483,
+        "word": "乌克兰3月将从欧盟获得35亿欧元",
+        "onboard_time": 1740394520,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132194,
+        "num": 320863,
+        "word": "杭州科技感爆棚",
+        "onboard_time": 1740395479,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87685,
+        "num": 316129,
+        "word": "轧戏官宣",
+        "onboard_time": 1740396079,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43585,
+        "num": 310865,
+        "word": "租户车停房东院子村里要收费",
+        "onboard_time": 1740395659,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309899,
+        "num": 309899,
+        "word": "陈星旭轧戏一番",
+        "onboard_time": 1740391460,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 324391,
+        "num": 309195,
+        "word": "胎儿给妈妈倒输血出生后全身发白",
+        "onboard_time": 1740382281,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304507,
+        "num": 304507,
+        "word": "桑延一集比一集穿得少",
+        "onboard_time": 1740387142,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299610,
+        "num": 299610,
+        "word": "00后自杀医科大女研究生父亲发声",
+        "onboard_time": 1740381439,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287902,
+        "num": 287902,
+        "word": "DeepSeek不适合INFP的5个工作",
+        "onboard_time": 1740391399,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 272116,
+        "num": 272116,
+        "word": "张馨予没有瘦身成功",
+        "onboard_time": 1740380060,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 259347,
+        "num": 259347,
+        "word": "医学生疑因数据被挪用烧炭身亡",
+        "onboard_time": 1740396019,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253972,
+        "num": 253972,
+        "word": "女生遭侵犯溺亡被告死缓检方抗诉",
+        "onboard_time": 1740389420,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231495,
+        "num": 242272,
+        "word": "肖战外套叠穿",
+        "onboard_time": 1740392840,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 110330,
+        "num": 241436,
+        "word": "女子减肥患厌食症瘦到只剩40斤",
+        "onboard_time": 1740395479,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 839503,
+        "num": 241395,
+        "word": "女子在公司微信群看到自己被裁员",
+        "onboard_time": 1740390380,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240844,
+        "num": 240844,
+        "word": "如何治理农村高额彩礼",
+        "onboard_time": 1740391819,
+        "rank": 31,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 201103,
+        "num": 201103,
+        "word": "陈妍希官宣离婚后与友人聚餐",
+        "onboard_time": 1740374422,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193267,
+        "num": 193267,
+        "word": "滤镜 容貌焦虑",
+        "onboard_time": 1740396619,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187922,
+        "num": 187922,
+        "word": "射雕泰国票房周冠",
+        "onboard_time": 1740396019,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100598,
+        "num": 186392,
+        "word": "全红婵下个月就18岁了",
+        "onboard_time": 1740395659,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185342,
+        "num": 185342,
+        "word": "京东承担外卖骑手五险一金所有成本",
+        "onboard_time": 1740394461,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 86432,
+        "num": 181753,
+        "word": "孙颖莎领奖局里局气",
+        "onboard_time": 1740394161,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178915,
+        "num": 178915,
+        "word": "丁真横店骑马上班",
+        "onboard_time": 1740391099,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159930,
+        "num": 159930,
+        "word": "真心建议上班要适当叹气",
+        "onboard_time": 1740392419,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158771,
+        "num": 158771,
+        "word": "关晓彤事业心",
+        "onboard_time": 1740396619,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156008,
+        "num": 156008,
+        "word": "时代少年团这一次讲爱也讲被爱",
+        "onboard_time": 1740395600,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151656,
+        "num": 151656,
+        "word": "难哄配角 加戏",
+        "onboard_time": 1740382580,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151121,
+        "num": 151121,
+        "word": "文学类国家线降14分",
+        "onboard_time": 1740394759,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 150381,
+        "num": 150381,
+        "word": "王星去录无限超越班了",
+        "onboard_time": 1740382099,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147326,
+        "num": 147326,
+        "word": "周雨彤我这辈子跟定你了",
+        "onboard_time": 1740394401,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147923,
+        "num": 145860,
+        "word": "哪吒2从100亿到137亿仅用10天",
+        "onboard_time": 1740395299,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143933,
+        "num": 143933,
+        "word": "贾静雯19岁大女儿晒海边比基尼照",
+        "onboard_time": 1740374181,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137751,
+        "num": 140959,
+        "word": "农村移风易俗不能一刀切硬干蛮干",
+        "onboard_time": 1740396019,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139987,
+        "num": 139987,
+        "word": "今年国家线降了",
+        "onboard_time": 1740386843,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平与陕北农民的一段对话#"
+    }
+  }
+}

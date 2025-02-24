@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740395998937,
+  "endTime": 1740396964684,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -4563,6 +4563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1169779,
+      "num": 1169779,
+      "word": "小小的勇气 赵露思",
+      "onboard_time": 1740393739,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1167967,
       "num": 1167967,
       "word": "光线传媒5分钟巨震40%",
@@ -7547,14 +7555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 822799,
-      "num": 822799,
-      "word": "小小的勇气 赵露思",
-      "onboard_time": 1740393739,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 822750,
       "num": 613898,
       "word": "美队4悉尼排片量远高于哪吒2",
@@ -8908,7 +8908,7 @@
     },
     {
       "raw_hot": 723728,
-      "num": 422368,
+      "num": 445416,
       "word": "比起来月经 器官时间不和谐更让我烦躁",
       "onboard_time": 1740387263,
       "rank": 12,
@@ -9233,6 +9233,14 @@
       "onboard_time": 1739148020,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 702928,
+      "num": 702928,
+      "word": "李昀锐能和孟子义一直唠",
+      "onboard_time": 1740391999,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 702246,
@@ -10067,14 +10075,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 659259,
-      "num": 659259,
-      "word": "李昀锐能和孟子义一直唠",
-      "onboard_time": 1740391999,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 659187,
       "num": 659187,
       "word": "我的一生属于核潜艇属于祖国",
@@ -10289,6 +10289,14 @@
       "onboard_time": 1738833324,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 651632,
+      "num": 651632,
+      "word": "王楚钦发博庆祝夺冠",
+      "onboard_time": 1740394219,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 651461,
@@ -15659,6 +15667,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 452389,
+      "num": 452389,
+      "word": "黑长直惠利欧尼",
+      "onboard_time": 1740393560,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 452373,
       "num": 452373,
       "word": "DeepSeek下棋骗赢了ChatGPT",
@@ -15953,6 +15969,14 @@
       "onboard_time": 1738719921,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 444767,
+      "num": 478619,
+      "word": "乌克兰3月将从欧盟获得35亿欧元",
+      "onboard_time": 1740394520,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 444651,
@@ -16859,14 +16883,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 416734,
-      "num": 416734,
-      "word": "王楚钦发博庆祝夺冠",
-      "onboard_time": 1740394219,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 416578,
       "num": 416578,
       "word": "今年国家线降了",
@@ -17585,14 +17601,6 @@
       "onboard_time": 1739193861,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 397668,
-      "num": 397668,
-      "word": "黑长直惠利欧尼",
-      "onboard_time": 1740393560,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 397659,
@@ -21339,6 +21347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 324651,
+      "num": 324651,
+      "word": "湖南卫视重映大唐荣耀",
+      "onboard_time": 1740393440,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 324277,
       "num": 324277,
       "word": "孟子义开工红裙",
@@ -23779,6 +23795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 287902,
+      "num": 287902,
+      "word": "DeepSeek不适合INFP的5个工作",
+      "onboard_time": 1740391399,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 287872,
       "num": 287872,
       "word": "日本学校寒潮天仍禁止学生穿裤袜",
@@ -23841,14 +23865,6 @@
       "onboard_time": 1740042441,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 286680,
-      "num": 286680,
-      "word": "DeepSeek不适合INFP的5个工作",
-      "onboard_time": 1740391399,
-      "rank": 25,
-      "category": "互联网"
     },
     {
       "raw_hot": 286672,
@@ -25955,6 +25971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 259347,
+      "num": 259347,
+      "word": "医学生疑因数据被挪用烧炭身亡",
+      "onboard_time": 1740396019,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 259315,
       "num": 259315,
       "word": "DeepSeek创始人或跻身全球富豪榜",
@@ -26313,14 +26337,6 @@
       "onboard_time": 1739671759,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 256198,
-      "num": 478619,
-      "word": "乌克兰3月将从欧盟获得35亿欧元",
-      "onboard_time": 1740394520,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 256172,
@@ -29035,6 +29051,14 @@
       "category": "教育,体育"
     },
     {
+      "raw_hot": 231495,
+      "num": 242272,
+      "word": "肖战外套叠穿",
+      "onboard_time": 1740392840,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 231304,
       "num": 210235,
       "word": "SM新男团开设新账号",
@@ -29289,14 +29313,6 @@
       "onboard_time": 1739351840,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 229712,
-      "num": 229712,
-      "word": "肖战外套叠穿",
-      "onboard_time": 1740392840,
-      "rank": 34,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 229699,
@@ -36763,6 +36779,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 193267,
+      "num": 193267,
+      "word": "滤镜 容貌焦虑",
+      "onboard_time": 1740396619,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193226,
       "num": 351245,
       "word": "卢昱晓感谢这场盛大的相逢",
@@ -38243,6 +38267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 187922,
+      "num": 187922,
+      "word": "射雕泰国票房周冠",
+      "onboard_time": 1740396019,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 187870,
       "num": 185359,
       "word": "美队4中国预测票房不足2亿",
@@ -39041,14 +39073,6 @@
       "onboard_time": 1738635984,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 184849,
-      "num": 184849,
-      "word": "湖南卫视重映大唐荣耀",
-      "onboard_time": 1740393440,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 184847,
@@ -40483,6 +40507,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 178915,
+      "num": 364573,
+      "word": "丁真横店骑马上班",
+      "onboard_time": 1740391099,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178900,
       "num": 518852,
       "word": "潘展乐说被徐梦桃的经历鼓励到",
@@ -41145,6 +41177,14 @@
       "onboard_time": 1739540004,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 175811,
+      "num": 448709,
+      "word": "中俄关系不受任何第三方影响",
+      "onboard_time": 1740396500,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 175738,
@@ -43524,7 +43564,7 @@
     },
     {
       "raw_hot": 166205,
-      "num": 166205,
+      "num": 320863,
       "word": "杭州科技感爆棚",
       "onboard_time": 1740395479,
       "rank": 39,
@@ -44025,14 +44065,6 @@
       "onboard_time": 1740239360,
       "rank": 23,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 164256,
-      "num": 364573,
-      "word": "丁真横店骑马上班",
-      "onboard_time": 1740391099,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 164252,
@@ -45584,6 +45616,14 @@
       "word": "田曦薇 祝福你每个节日都快乐",
       "onboard_time": 1739538983,
       "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 158771,
+      "num": 158771,
+      "word": "关晓彤事业心",
+      "onboard_time": 1740396619,
+      "rank": 40,
       "category": "艺人"
     },
     {
@@ -48371,6 +48411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147923,
+      "num": 145860,
+      "word": "哪吒2从100亿到137亿仅用10天",
+      "onboard_time": 1740395299,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 147906,
       "num": 313560,
       "word": "申公豹的结巴需要心理脱敏",
@@ -50961,6 +51009,14 @@
       "onboard_time": 1739722217,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 137751,
+      "num": 140959,
+      "word": "农村移风易俗不能一刀切硬干蛮干",
+      "onboard_time": 1740396019,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137746,
@@ -56411,6 +56467,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 113105,
+      "num": 386004,
+      "word": "湖南湘乡一河流被白色泡沫覆盖",
+      "onboard_time": 1740395360,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113075,
       "num": 253563,
       "word": "李云霄一曲相思祝福元宵佳节",
@@ -57073,6 +57137,14 @@
       "onboard_time": 1739750598,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 110330,
+      "num": 280090,
+      "word": "女子减肥患厌食症瘦到只剩40斤",
+      "onboard_time": 1740395479,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110308,
@@ -60971,6 +61043,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 87685,
+      "num": 316129,
+      "word": "轧戏官宣",
+      "onboard_time": 1740396079,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 87679,
       "num": 290952,
       "word": "WTT追加100万美元奖金",
@@ -61113,6 +61193,14 @@
       "onboard_time": 1739413760,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 86432,
+      "num": 181753,
+      "word": "孙颖莎领奖局里局气",
+      "onboard_time": 1740394161,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 86429,
@@ -62752,14 +62840,6 @@
       "word": "当地市民作诗献花祭拜救人白龙马",
       "onboard_time": 1739340501,
       "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 76018,
-      "num": 280090,
-      "word": "女子减肥患厌食症瘦到只剩40斤",
-      "onboard_time": 1740395479,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -66507,6 +66587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 53276,
+      "num": 379211,
+      "word": "AI虽有大用看病还得靠医生",
+      "onboard_time": 1740395659,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 53146,
       "num": 325104,
       "word": "WTT新加坡大满贯今日收官",
@@ -68323,6 +68411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43585,
+      "num": 352623,
+      "word": "租户车停房东院子村里要收费",
+      "onboard_time": 1740395659,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43581,
       "num": 53358,
       "word": "婆婆背了满满一筐菜徒步送到灾区",
@@ -69833,14 +69929,6 @@
       "onboard_time": 1738534572,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 36171,
-      "num": 379211,
-      "word": "AI虽有大用看病还得靠医生",
-      "onboard_time": 1740395659,
-      "rank": 16,
-      "category": "互联网"
     },
     {
       "raw_hot": 36146,
@@ -73251,14 +73339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 20458,
-      "num": 352623,
-      "word": "租户车停房东院子村里要收费",
-      "onboard_time": 1740395659,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 20429,
       "num": 23273,
       "word": "用中国式浪漫打开立春节气",
@@ -73465,14 +73545,6 @@
       "onboard_time": 1740180375,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 19694,
-      "num": 386004,
-      "word": "湖南湘乡一河流被白色泡沫覆盖",
-      "onboard_time": 1740395360,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19673,
