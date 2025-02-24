@@ -1,0 +1,410 @@
+{
+  "runTime": 1740389932395,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7114366,
+        "num": 7114366,
+        "word": "2025考研国家线发布",
+        "onboard_time": 1740384441,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1472370,
+        "num": 1472370,
+        "word": "全红婵保送至暨南大学",
+        "onboard_time": 1740385041,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90478,
+        "num": 640817,
+        "word": "中央一号文件对三农工作划重点",
+        "onboard_time": 1740383180,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 579120,
+        "num": 579120,
+        "word": "颜安喊李昀锐孟子义哥哥嫂子",
+        "onboard_time": 1740385041,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 458268,
+        "num": 458268,
+        "word": "妈妈 我有学上了",
+        "onboard_time": 1740388818,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 443250,
+        "num": 443250,
+        "word": "查分查到自己考研全国第一belike",
+        "onboard_time": 1740373281,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 407505,
+        "num": 407505,
+        "word": "王星去录无限超越班了",
+        "onboard_time": 1740382099,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376423,
+        "num": 376423,
+        "word": "今年国家线降了",
+        "onboard_time": 1740386843,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 173458,
+        "num": 375470,
+        "word": "复试时间",
+        "onboard_time": 1740388701,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 57145,
+        "num": 372793,
+        "word": "中方回应泽连斯基希望得到中国帮助",
+        "onboard_time": 1740389480,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 862416,
+        "num": 370288,
+        "word": "爷爷得知医学生孙女自杀后脑溢血",
+        "onboard_time": 1740383540,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 723728,
+        "num": 367946,
+        "word": "比起来月经 器官时间不和谐更让我烦躁",
+        "onboard_time": 1740387263,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 468337,
+        "num": 366694,
+        "word": "胎儿给妈妈倒输血出生后全身发白",
+        "onboard_time": 1740382281,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365482,
+        "num": 365482,
+        "word": "何凯文考研英语89分",
+        "onboard_time": 1740381380,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 348473,
+        "num": 348473,
+        "word": "张馨予没有瘦身成功",
+        "onboard_time": 1740380060,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 329777,
+        "num": 329777,
+        "word": "00后自杀医科大女研究生父亲发声",
+        "onboard_time": 1740381439,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314214,
+        "num": 314214,
+        "word": "桑延一集比一集穿得少",
+        "onboard_time": 1740387142,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311045,
+        "num": 311045,
+        "word": "猫的树导演轧戏",
+        "onboard_time": 1740384081,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304532,
+        "num": 304532,
+        "word": "贾静雯19岁大女儿晒海边比基尼照",
+        "onboard_time": 1740374181,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51745,
+        "num": 286888,
+        "word": "女生遭侵犯溺亡被告死缓检方抗诉",
+        "onboard_time": 1740389420,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370920,
+        "num": 285716,
+        "word": "政协委员建议将法定婚龄调至18岁",
+        "onboard_time": 1740381200,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284384,
+        "num": 284384,
+        "word": "难哄配角 加戏",
+        "onboard_time": 1740382580,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260308,
+        "num": 260308,
+        "word": "降分",
+        "onboard_time": 1740386064,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 248287,
+        "num": 248287,
+        "word": "英语一国家线",
+        "onboard_time": 1740386123,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 243141,
+        "num": 243141,
+        "word": "调剂",
+        "onboard_time": 1740387741,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 208989,
+        "num": 208989,
+        "word": "网剧轧戏",
+        "onboard_time": 1740385463,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51897,
+        "num": 201614,
+        "word": "俄驻法一领馆附近传出爆炸声",
+        "onboard_time": 1740389720,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 201531,
+        "num": 201531,
+        "word": "迪丽热巴我觉得有点尴尬",
+        "onboard_time": 1740373941,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198975,
+        "num": 198975,
+        "word": "谢娜否认将参加花少7",
+        "onboard_time": 1740387621,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23171,
+        "num": 196429,
+        "word": "专家称各方或达成临时协议暂停俄乌冲突",
+        "onboard_time": 1740388221,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 214472,
+        "num": 196257,
+        "word": "乒乓球从不以金牌论英雄",
+        "onboard_time": 1740381861,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 491445,
+        "num": 196157,
+        "word": "现在结婚滚床都这么卷了吗",
+        "onboard_time": 1740389720,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195954,
+        "num": 195954,
+        "word": "小孩哥DeepSeek三步法学数学",
+        "onboard_time": 1740383961,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195402,
+        "num": 195402,
+        "word": "她一个月干了我一辈子的工作",
+        "onboard_time": 1740379519,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 56878,
+        "num": 187567,
+        "word": "职院阻止摆摊人行道设置百米石墩阵",
+        "onboard_time": 1740387981,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187243,
+        "num": 187243,
+        "word": "建议睡觉时把手机放1.5米以外",
+        "onboard_time": 1740367882,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 181994,
+        "num": 181994,
+        "word": "孙颖莎领奖像夹了个公文包",
+        "onboard_time": 1740388221,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176682,
+        "num": 176682,
+        "word": "唐总 夫人爬出门逃跑啦",
+        "onboard_time": 1740387201,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161949,
+        "num": 161949,
+        "word": "雷军发个预告累坏了小米客服",
+        "onboard_time": 1740387142,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 21746,
+        "num": 160991,
+        "word": "老广严选果木烧鸡",
+        "onboard_time": 1740389240,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 160816,
+        "num": 160816,
+        "word": "无限超越班3导师阵容",
+        "onboard_time": 1740387921,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156693,
+        "num": 156693,
+        "word": "国家线",
+        "onboard_time": 1740361460,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 156292,
+        "num": 156292,
+        "word": "央视镜头下的吴倩",
+        "onboard_time": 1740389720,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13989,
+        "num": 151746,
+        "word": "孟子义有种无视紫外线的美",
+        "onboard_time": 1740389720,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147542,
+        "num": 147542,
+        "word": "捡到了桑延的手机",
+        "onboard_time": 1740388281,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146875,
+        "num": 146875,
+        "word": "王阳孙千首搭制服杀",
+        "onboard_time": 1740385101,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122546,
+        "num": 146535,
+        "word": "梁伟铿回应任亚锦赛形象大使",
+        "onboard_time": 1740388881,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146317,
+        "num": 146317,
+        "word": "复试",
+        "onboard_time": 1740387621,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 145429,
+        "num": 145429,
+        "word": "窃贼买彩票中381万受害者要求分奖金",
+        "onboard_time": 1740373701,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 143430,
+        "num": 143430,
+        "word": "韩国街头8500韩元的韩式拌饭",
+        "onboard_time": 1740384921,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心系的头等大事#"
+    }
+  }
+}
