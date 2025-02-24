@@ -1,6 +1,6 @@
 {
   "startTime": 1740327929685,
-  "endTime": 1740406974456,
+  "endTime": 1740408087099,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -25,6 +25,14 @@
       "onboard_time": 1740361460,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2221026,
+      "num": 2221026,
+      "word": "教授公开聊天记录指责学生娇生惯养",
+      "onboard_time": 1740403520,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2195594,
@@ -121,14 +129,6 @@
       "onboard_time": 1740398479,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1346418,
-      "num": 1346418,
-      "word": "教授公开聊天记录指责学生娇生惯养",
-      "onboard_time": 1740403520,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1292531,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 1043134,
-      "num": 402000,
+      "num": 408963,
       "word": "总算见识到刘亦菲的高颅顶了",
       "onboard_time": 1740397819,
       "rank": 20,
@@ -371,6 +371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 794805,
+      "num": 508890,
+      "word": "李威妻子被保释",
+      "onboard_time": 1740407064,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 783779,
       "num": 783779,
       "word": "iPhone17全系CAD图",
@@ -499,8 +507,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 655190,
-      "num": 401361,
+      "raw_hot": 656140,
+      "num": 402117,
       "word": "敖犬老婆曾因严重忧郁暴瘦",
       "onboard_time": 1740401600,
       "rank": 32,
@@ -651,20 +659,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 514670,
+      "num": 514670,
+      "word": "哪吒 土拨鼠",
+      "onboard_time": 1740402141,
+      "rank": 32,
+      "category": "民生新闻,电影"
+    },
+    {
       "raw_hot": 513161,
       "num": 343509,
       "word": "睡得少和睡得晚哪个伤害大",
       "onboard_time": 1740322403,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 511226,
-      "num": 511226,
-      "word": "哪吒 土拨鼠",
-      "onboard_time": 1740402141,
-      "rank": 32,
-      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 509031,
@@ -827,6 +835,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 414105,
+      "num": 414105,
+      "word": "特朗普迟到让波兰总统干等1.5小时",
+      "onboard_time": 1740405322,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 411438,
       "num": 374006,
       "word": "小哪吒海外打赢美队4",
@@ -841,6 +857,14 @@
       "onboard_time": 1740317183,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 401235,
+      "num": 401235,
+      "word": "滤镜癫剧",
+      "onboard_time": 1740403222,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 400156,
@@ -1115,28 +1139,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 304287,
-      "num": 304287,
-      "word": "滤镜癫剧",
-      "onboard_time": 1740403222,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 299960,
       "num": 299960,
       "word": "被王楚钦的庆祝动作硬控了",
       "onboard_time": 1740320602,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 299428,
-      "num": 299428,
-      "word": "特朗普迟到让波兰总统干等1.5小时",
-      "onboard_time": 1740405322,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 297938,
@@ -1259,6 +1267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 272923,
+      "num": 272923,
+      "word": "网友怒斥遇一男团插队登机",
+      "onboard_time": 1740407662,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 267777,
       "num": 333140,
       "word": "李兰迪一变身檀健次就要演三遍",
@@ -1273,6 +1289,14 @@
       "onboard_time": 1740306500,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 265935,
+      "num": 294466,
+      "word": "赵小童直播",
+      "onboard_time": 1740407303,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 260061,
@@ -1305,6 +1329,14 @@
       "onboard_time": 1740327679,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 247547,
+      "num": 302855,
+      "word": "DeepSeek技术优化减少繁忙次数",
+      "onboard_time": 1740406583,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 246113,
@@ -1427,6 +1459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 221982,
+      "num": 310364,
+      "word": "女大学生打车18公里被收581元",
+      "onboard_time": 1740402560,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 221744,
       "num": 221744,
       "word": "王楚钦说亚洲杯打得很干净",
@@ -1504,14 +1544,6 @@
       "word": "杭州武汉本周热到快30摄氏度",
       "onboard_time": 1740356179,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 213703,
-      "num": 310364,
-      "word": "女大学生打车18公里被收581元",
-      "onboard_time": 1740402560,
-      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -1643,14 +1675,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 204864,
-      "num": 302855,
-      "word": "DeepSeek技术优化减少繁忙次数",
-      "onboard_time": 1740406583,
-      "rank": 19,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 204798,
       "num": 209411,
       "word": "谢娜否认将参加花少7",
@@ -1777,6 +1801,14 @@
       "onboard_time": 1740399141,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194626,
+      "num": 194626,
+      "word": "滤镜手镯",
+      "onboard_time": 1740407603,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 194334,
@@ -2411,6 +2443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149180,
+      "num": 252593,
+      "word": "中俄元首通电话",
+      "onboard_time": 1740404362,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 149047,
       "num": 149047,
       "word": "桑延温以凡爱情全靠梦游助攻",
@@ -2515,14 +2555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143269,
-      "num": 252593,
-      "word": "中俄元首通电话",
-      "onboard_time": 1740404362,
-      "rank": 32,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 143103,
       "num": 331749,
       "word": "神秘客住酒店2天打了140个电话",
@@ -2537,6 +2569,14 @@
       "onboard_time": 1740388881,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142715,
+      "num": 142715,
+      "word": "很喜欢用嘿嘿这两个字",
+      "onboard_time": 1740404963,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 141984,
@@ -2867,6 +2907,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 102678,
+      "num": 1187355,
+      "word": "专家解读中央一号文件亮点",
+      "onboard_time": 1740406522,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 102299,
       "num": 213924,
       "word": "太烫的水真的不要喝",
@@ -3027,6 +3075,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 72569,
+      "num": 413595,
+      "word": "白天辉二审死刑",
+      "onboard_time": 1740390500,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66948,
       "num": 671160,
       "word": "一男子自制工具伤害多只猫被行拘",
@@ -3065,6 +3121,14 @@
       "onboard_time": 1740361819,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 63960,
+      "num": 239347,
+      "word": "王楚钦说中国乒乓球队yyds",
+      "onboard_time": 1740406703,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 63005,
@@ -3171,6 +3235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56878,
+      "num": 364114,
+      "word": "丈夫设局让妻子离婚时背75万巨债",
+      "onboard_time": 1740407422,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56827,
       "num": 184501,
       "word": "早餐酸汤水饺",
@@ -3225,14 +3297,6 @@
       "onboard_time": 1740364701,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 53545,
-      "num": 239347,
-      "word": "王楚钦说中国乒乓球队yyds",
-      "onboard_time": 1740406703,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 53276,
@@ -3339,14 +3403,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 41282,
-      "num": 367848,
-      "word": "白天辉二审死刑",
-      "onboard_time": 1740390500,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40743,
       "num": 340479,
       "word": "70后的我学会做一个退场的父母",
@@ -3427,6 +3483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32455,
+      "num": 213352,
+      "word": "俄乌冲突十八个关键节点",
+      "onboard_time": 1740407961,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 32294,
       "num": 132243,
       "word": "持续增强粮食等重要农产品供给保障能力",
@@ -3441,14 +3505,6 @@
       "onboard_time": 1740402743,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 30932,
-      "num": 862183,
-      "word": "专家解读中央一号文件亮点",
-      "onboard_time": 1740406522,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 28685,
@@ -3467,6 +3523,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 27932,
+      "num": 215149,
+      "word": "广东一外出打工男子被控隔空绑架",
+      "onboard_time": 1740406043,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27891,
       "num": 241288,
       "word": "郑某峰若涉罪将来还能做导演吗",
@@ -3481,14 +3545,6 @@
       "onboard_time": 1740381800,
       "rank": 19,
       "category": "教育,电影"
-    },
-    {
-      "raw_hot": 27521,
-      "num": 215149,
-      "word": "广东一外出打工男子被控隔空绑架",
-      "onboard_time": 1740406043,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25850,
@@ -3617,6 +3673,14 @@
       "onboard_time": 1740398119,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 14290,
+      "num": 231238,
+      "word": "BLG成功复仇TT",
+      "onboard_time": 1740405084,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 12411,
