@@ -1,0 +1,410 @@
+{
+  "runTime": 1740415558933,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 919148,
+        "num": 919148,
+        "word": "李威涉嫌伤害致死",
+        "onboard_time": 1740401241,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 720658,
+        "num": 720658,
+        "word": "吉祥航空被曝给乘客发过期坚果",
+        "onboard_time": 1740410899,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46241,
+        "num": 296560,
+        "word": "专家解读中央一号文件亮点",
+        "onboard_time": 1740406522,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 785480,
+        "num": 295967,
+        "word": "千金归来",
+        "onboard_time": 1740410899,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293347,
+        "num": 293347,
+        "word": "特朗普迟到让波兰总统干等1.5小时",
+        "onboard_time": 1740405322,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 232696,
+        "num": 232696,
+        "word": "西北大学回应贾浅浅更改简历",
+        "onboard_time": 1740410120,
+        "rank": 5,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 538664,
+        "num": 231899,
+        "word": "网友怒斥遇一男团插队登机",
+        "onboard_time": 1740407662,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 447756,
+        "num": 227462,
+        "word": "李威已被保释",
+        "onboard_time": 1740408143,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222365,
+        "num": 222365,
+        "word": "长期熬夜晚睡消耗气血",
+        "onboard_time": 1740412938,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 29285,
+        "num": 222043,
+        "word": "中俄的外交政策是管长远的",
+        "onboard_time": 1740414738,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 891654,
+        "num": 221932,
+        "word": "教授公开聊天记录指责学生娇生惯养",
+        "onboard_time": 1740403520,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296853,
+        "num": 221491,
+        "word": "总算见识到刘亦菲的高颅顶了",
+        "onboard_time": 1740397819,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224433,
+        "num": 221126,
+        "word": "哪吒票房",
+        "onboard_time": 1740410721,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 220964,
+        "num": 220964,
+        "word": "Loong9回应插队登机",
+        "onboard_time": 1740409881,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210656,
+        "num": 210656,
+        "word": "妈妈 我有学上了",
+        "onboard_time": 1740388818,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 201074,
+        "num": 201074,
+        "word": "小小的勇气 赵露思",
+        "onboard_time": 1740393739,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194882,
+        "num": 194882,
+        "word": "包文婧孕肚照",
+        "onboard_time": 1740400520,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141110,
+        "num": 141110,
+        "word": "女子曝在西藏旅游遭出租车司机套路",
+        "onboard_time": 1740408622,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140895,
+        "num": 140895,
+        "word": "村民集资修路被压反被质疑收过路费",
+        "onboard_time": 1740411199,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114361,
+        "num": 114361,
+        "word": "英语名师王江涛英语二考80分",
+        "onboard_time": 1740400580,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 189026,
+        "num": 113322,
+        "word": "六姊妹大结局",
+        "onboard_time": 1740404062,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159338,
+        "num": 110335,
+        "word": "原来头皮屑变多是因为溢脂性皮炎",
+        "onboard_time": 1740398720,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 156135,
+        "num": 109483,
+        "word": "每天8杯水到底是多大的杯子",
+        "onboard_time": 1740401660,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 146474,
+        "num": 108229,
+        "word": "连续跑步35天的面部变化",
+        "onboard_time": 1740409462,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 144558,
+        "num": 104921,
+        "word": "敖犬老婆曾因严重忧郁暴瘦",
+        "onboard_time": 1740401600,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138122,
+        "num": 104028,
+        "word": "滤镜 容貌焦虑",
+        "onboard_time": 1740396619,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102183,
+        "num": 102183,
+        "word": "丈夫设局让妻子离婚时背75万巨债",
+        "onboard_time": 1740407422,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99906,
+        "num": 99906,
+        "word": "白鹿黏黏合照",
+        "onboard_time": 1740410959,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99865,
+        "num": 99865,
+        "word": "贾浅浅已博士毕业",
+        "onboard_time": 1740412040,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95538,
+        "num": 95538,
+        "word": "桑延温以凡睡一起了",
+        "onboard_time": 1740402201,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93570,
+        "num": 93570,
+        "word": "2025考研国家线发布",
+        "onboard_time": 1740384441,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 11770,
+        "num": 93470,
+        "word": "接考研国家线降分",
+        "onboard_time": 1740411499,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 93470,
+        "num": 93469,
+        "word": "吉祥航空回应被曝给乘客过期坚果",
+        "onboard_time": 1740413237,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91066,
+        "num": 91066,
+        "word": "瑞典乒协威胁莫雷加德参赛",
+        "onboard_time": 1740409521,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89102,
+        "num": 89102,
+        "word": "李昀锐能和孟子义一直唠",
+        "onboard_time": 1740391999,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87901,
+        "num": 87901,
+        "word": "五熊官宣怀孕",
+        "onboard_time": 1740400879,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78925,
+        "num": 78925,
+        "word": "关晓彤事业心",
+        "onboard_time": 1740396619,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76255,
+        "num": 76255,
+        "word": "TES让一追三nip",
+        "onboard_time": 1740413237,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 75547,
+        "num": 75547,
+        "word": "女子在公司微信群看到自己被裁员",
+        "onboard_time": 1740390380,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75165,
+        "num": 75165,
+        "word": "很喜欢用嘿嘿这两个字",
+        "onboard_time": 1740404963,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 70224,
+        "num": 70224,
+        "word": "滤镜手镯",
+        "onboard_time": 1740407603,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68983,
+        "num": 68983,
+        "word": "滤镜癫剧",
+        "onboard_time": 1740403222,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67218,
+        "num": 67218,
+        "word": "余宇涵先让尔冬升耳熟了",
+        "onboard_time": 1740408322,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63355,
+        "num": 63355,
+        "word": "章若楠头像大户上新",
+        "onboard_time": 1740400941,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62410,
+        "num": 62410,
+        "word": "王鹤棣宋茜星河入梦领衔主演",
+        "onboard_time": 1740414077,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 58508,
+        "num": 58508,
+        "word": "胎儿给妈妈倒输血出生后全身发白",
+        "onboard_time": 1740382281,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57940,
+        "num": 57940,
+        "word": "六姊妹",
+        "onboard_time": 1740401061,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56124,
+        "num": 56124,
+        "word": "湖北师大回应初中学历者进校就职",
+        "onboard_time": 1740408981,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53548,
+        "num": 53548,
+        "word": "央视镜头下的吴倩",
+        "onboard_time": 1740389720,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51441,
+        "num": 51441,
+        "word": "滤镜编剧",
+        "onboard_time": 1740406343,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同俄罗斯总统普京通电话#"
+    }
+  }
+}
