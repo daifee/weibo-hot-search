@@ -1,6 +1,6 @@
 {
   "startTime": 1740327929685,
-  "endTime": 1740392739119,
+  "endTime": 1740393761249,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -331,8 +331,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 739037,
+      "num": 739037,
+      "word": "中方回应泽连斯基希望得到中国帮助",
+      "onboard_time": 1740389480,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 723728,
-      "num": 371825,
+      "num": 399763,
       "word": "比起来月经 器官时间不和谐更让我烦躁",
       "onboard_time": 1740387263,
       "rank": 12,
@@ -353,14 +361,6 @@
       "onboard_time": 1740359419,
       "rank": 5,
       "category": "教育"
-    },
-    {
-      "raw_hot": 695250,
-      "num": 695250,
-      "word": "中方回应泽连斯基希望得到中国帮助",
-      "onboard_time": 1740389480,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 684792,
@@ -659,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 400378,
+      "num": 400378,
+      "word": "女友陪王星录制新综艺",
+      "onboard_time": 1740390200,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 400156,
       "num": 400156,
       "word": "男主爱7次结果是1人",
@@ -683,14 +691,6 @@
       "category": "国际时政,艺人"
     },
     {
-      "raw_hot": 393123,
-      "num": 393123,
-      "word": "女友陪王星录制新综艺",
-      "onboard_time": 1740390200,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 391757,
       "num": 391757,
       "word": "张凌赫谁允许你这么叫姐姐的",
@@ -712,6 +712,14 @@
       "word": "女子煮6根面兰寿金鱼嗦掉半根",
       "onboard_time": 1740362118,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 386349,
+      "num": 386349,
+      "word": "女生遭侵犯溺亡被告死缓检方抗诉",
+      "onboard_time": 1740389420,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -803,6 +811,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 344574,
+      "num": 344574,
+      "word": "陈星旭轧戏一番",
+      "onboard_time": 1740391460,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 344137,
       "num": 344137,
       "word": "员工如厕须带离岗证且限次数和时间",
@@ -891,35 +907,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 305762,
-      "num": 333544,
-      "word": "没人能在雪景里打败刘诗诗",
-      "onboard_time": 1740373881,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 305661,
-      "num": 305661,
-      "word": "女生遭侵犯溺亡被告死缓检方抗诉",
-      "onboard_time": 1740389420,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 304836,
-      "num": 304836,
+      "raw_hot": 307924,
+      "num": 307924,
       "word": "滤镜开播",
       "onboard_time": 1740367039,
       "rank": 44,
       "category": "剧集"
     },
     {
-      "raw_hot": 304366,
-      "num": 304366,
-      "word": "陈星旭轧戏一番",
-      "onboard_time": 1740391460,
-      "rank": 19,
+      "raw_hot": 305762,
+      "num": 333544,
+      "word": "没人能在雪景里打败刘诗诗",
+      "onboard_time": 1740373881,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -979,6 +979,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 290284,
+      "num": 290284,
+      "word": "李昀锐能和孟子义一直唠",
+      "onboard_time": 1740391999,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 289617,
       "num": 289617,
       "word": "考研明天查分",
@@ -1019,6 +1027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 278920,
+      "num": 394206,
+      "word": "如何治理农村高额彩礼",
+      "onboard_time": 1740391819,
+      "rank": 9,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 276004,
       "num": 276004,
       "word": "乌总统称不签需十代人付出代价协议",
@@ -1041,6 +1057,14 @@
       "onboard_time": 1740306500,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 264696,
+      "num": 264696,
+      "word": "DeepSeek不适合INFP的5个工作",
+      "onboard_time": 1740391399,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 260061,
@@ -1089,6 +1113,14 @@
       "onboard_time": 1740387741,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 242325,
+      "num": 242325,
+      "word": "留几手磨皮磨成胚胎了",
+      "onboard_time": 1740392539,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 240116,
@@ -1153,14 +1185,6 @@
       "onboard_time": 1740376283,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 223572,
-      "num": 223572,
-      "word": "DeepSeek不适合INFP的5个工作",
-      "onboard_time": 1740391399,
-      "rank": 25,
-      "category": "互联网"
     },
     {
       "raw_hot": 221744,
@@ -1363,14 +1387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 201166,
-      "num": 201166,
-      "word": "李昀锐能和孟子义一直唠",
-      "onboard_time": 1740391999,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 200479,
       "num": 203308,
       "word": "杨肸子为红房子随地大小舞",
@@ -1547,6 +1563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185147,
+      "num": 185147,
+      "word": "无限超越班3",
+      "onboard_time": 1740393080,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184641,
       "num": 211704,
       "word": "闺蜜走后我活成了她的样子",
@@ -1635,12 +1659,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 178129,
+      "num": 177256,
+      "word": "肖战外套叠穿",
+      "onboard_time": 1740392840,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 177355,
       "num": 191522,
       "word": "建议全国推广自制下车站发卡",
       "onboard_time": 1740363499,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177341,
+      "num": 177341,
+      "word": "专家谈考研人数下降的多重原因",
+      "onboard_time": 1740392419,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 176682,
@@ -1753,6 +1793,14 @@
       "onboard_time": 1740381081,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164404,
+      "num": 164404,
+      "word": "真心建议上班要适当叹气",
+      "onboard_time": 1740392419,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 164274,
@@ -1899,20 +1947,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 149425,
+      "num": 149425,
+      "word": "李兰迪模仿石矶娘娘",
+      "onboard_time": 1740393260,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149047,
       "num": 149047,
       "word": "桑延温以凡爱情全靠梦游助攻",
       "onboard_time": 1740375502,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 148929,
-      "num": 148929,
-      "word": "专家谈考研人数下降的多重原因",
-      "onboard_time": 1740392419,
-      "rank": 39,
-      "category": "教育"
     },
     {
       "raw_hot": 148785,
@@ -2003,12 +2051,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 140499,
-      "num": 140499,
-      "word": "真心建议上班要适当叹气",
-      "onboard_time": 1740392419,
-      "rank": 43,
-      "category": "情感"
+      "raw_hot": 141340,
+      "num": 141340,
+      "word": "黑长直惠利欧尼",
+      "onboard_time": 1740393560,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 137627,
@@ -2075,14 +2123,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 132639,
-      "num": 394206,
-      "word": "如何治理农村高额彩礼",
-      "onboard_time": 1740391819,
-      "rank": 9,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 132525,
       "num": 132525,
       "word": "Hearts2Hearts正式出道",
@@ -2107,14 +2147,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131755,
-      "num": 131755,
-      "word": "留几手磨皮磨成胚胎了",
-      "onboard_time": 1740392539,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 130962,
       "num": 130962,
       "word": "虞书欣机车婚纱造型",
@@ -2136,6 +2168,14 @@
       "word": "白敬亭小号为难哄改名",
       "onboard_time": 1740299600,
       "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 127913,
+      "num": 127913,
+      "word": "湖南卫视重映大唐荣耀",
+      "onboard_time": 1740393440,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -2195,12 +2235,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117457,
+      "num": 187739,
+      "word": "BLG战胜TT",
+      "onboard_time": 1740393499,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 116981,
       "num": 116981,
       "word": "警方提醒不要随便下载APP",
       "onboard_time": 1740360439,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116094,
+      "num": 116094,
+      "word": "小小的勇气 赵露思",
+      "onboard_time": 1740393739,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 114864,
@@ -2236,7 +2292,7 @@
     },
     {
       "raw_hot": 111649,
-      "num": 149477,
+      "num": 218666,
       "word": "孙颖莎这动作训练过吧",
       "onboard_time": 1740392600,
       "rank": 37,
@@ -2313,6 +2369,14 @@
       "onboard_time": 1740366019,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 83335,
+      "num": 125351,
+      "word": "檀健次李兰迪跳广播体操",
+      "onboard_time": 1740392899,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 82765,
@@ -2561,6 +2625,14 @@
       "onboard_time": 1740364701,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 53476,
+      "num": 190513,
+      "word": "公司在微信群通知裁员被判违法",
+      "onboard_time": 1740393620,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52219,

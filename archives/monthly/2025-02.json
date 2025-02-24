@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740392739119,
+  "endTime": 1740393761249,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -8683,6 +8683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 739037,
+      "num": 739037,
+      "word": "中方回应泽连斯基希望得到中国帮助",
+      "onboard_time": 1740389480,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 738850,
       "num": 589737,
       "word": "哪吒2票房一天一个新突破",
@@ -8892,7 +8900,7 @@
     },
     {
       "raw_hot": 723728,
-      "num": 371825,
+      "num": 399763,
       "word": "比起来月经 器官时间不和谐更让我烦躁",
       "onboard_time": 1740387263,
       "rank": 12,
@@ -9369,14 +9377,6 @@
       "onboard_time": 1738724841,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 695250,
-      "num": 695250,
-      "word": "中方回应泽连斯基希望得到中国帮助",
-      "onboard_time": 1740389480,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 694194,
@@ -17411,6 +17411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 400378,
+      "num": 400378,
+      "word": "女友陪王星录制新综艺",
+      "onboard_time": 1740390200,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 400156,
       "num": 400156,
       "word": "男主爱7次结果是1人",
@@ -17827,14 +17835,6 @@
       "category": "剧集,电影"
     },
     {
-      "raw_hot": 393123,
-      "num": 393123,
-      "word": "女友陪王星录制新综艺",
-      "onboard_time": 1740390200,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 392997,
       "num": 313359,
       "word": "章子怡被演员的表演雷到",
@@ -18105,6 +18105,14 @@
       "onboard_time": 1740233183,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 386349,
+      "num": 386349,
+      "word": "女生遭侵犯溺亡被告死缓检方抗诉",
+      "onboard_time": 1740389420,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 386293,
@@ -20105,6 +20113,14 @@
       "onboard_time": 1738451652,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 344574,
+      "num": 344574,
+      "word": "陈星旭轧戏一番",
+      "onboard_time": 1740391460,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 344422,
@@ -22275,6 +22291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 307924,
+      "num": 307924,
+      "word": "滤镜开播",
+      "onboard_time": 1740367039,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 307888,
       "num": 307888,
       "word": "2025清朗行动8大重点整治任务",
@@ -22475,14 +22499,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 305661,
-      "num": 305661,
-      "word": "女生遭侵犯溺亡被告死缓检方抗诉",
-      "onboard_time": 1740389420,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 305652,
       "num": 478839,
       "word": "重庆燃气集团收费问题通报",
@@ -22571,27 +22587,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 304836,
-      "num": 304836,
-      "word": "滤镜开播",
-      "onboard_time": 1740367039,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 304447,
       "num": 297419,
       "word": "何老师我们还是太熟了",
       "onboard_time": 1740038481,
       "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 304366,
-      "num": 304366,
-      "word": "陈星旭轧戏一番",
-      "onboard_time": 1740391460,
-      "rank": 19,
       "category": "剧集"
     },
     {
@@ -23571,6 +23571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 290284,
+      "num": 290284,
+      "word": "李昀锐能和孟子义一直唠",
+      "onboard_time": 1740391999,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 290159,
       "num": 333038,
       "word": "有网店假冒必吃榜卖了100万单",
@@ -24369,6 +24377,14 @@
       "onboard_time": 1739970500,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 278920,
+      "num": 394206,
+      "word": "如何治理农村高额彩礼",
+      "onboard_time": 1740391819,
+      "rank": 9,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 278898,
@@ -25513,6 +25529,14 @@
       "onboard_time": 1739530701,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 264696,
+      "num": 264696,
+      "word": "DeepSeek不适合INFP的5个工作",
+      "onboard_time": 1740391399,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 264671,
@@ -27769,6 +27793,14 @@
       "onboard_time": 1738323498,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 242325,
+      "num": 242325,
+      "word": "留几手磨皮磨成胚胎了",
+      "onboard_time": 1740392539,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 242316,
@@ -30105,14 +30137,6 @@
       "onboard_time": 1739771960,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 223572,
-      "num": 223572,
-      "word": "DeepSeek不适合INFP的5个工作",
-      "onboard_time": 1740391399,
-      "rank": 25,
-      "category": "互联网"
     },
     {
       "raw_hot": 223523,
@@ -34481,14 +34505,6 @@
       "onboard_time": 1740140840,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 201166,
-      "num": 201166,
-      "word": "李昀锐能和孟子义一直唠",
-      "onboard_time": 1740391999,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 201138,
@@ -38907,6 +38923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185147,
+      "num": 185147,
+      "word": "无限超越班3",
+      "onboard_time": 1740393080,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185099,
       "num": 185099,
       "word": "金价上涨三大原因曝光",
@@ -40587,6 +40611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178129,
+      "num": 177256,
+      "word": "肖战外套叠穿",
+      "onboard_time": 1740392840,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 178055,
       "num": 178055,
       "word": "毛不易郁可唯对我耳朵好",
@@ -40745,6 +40777,14 @@
       "onboard_time": 1740034521,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177341,
+      "num": 177341,
+      "word": "专家谈考研人数下降的多重原因",
+      "onboard_time": 1740392419,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 177336,
@@ -43825,6 +43865,14 @@
       "onboard_time": 1739334021,
       "rank": 45,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 164404,
+      "num": 164404,
+      "word": "真心建议上班要适当叹气",
+      "onboard_time": 1740392419,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 164397,
@@ -47867,6 +47915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149425,
+      "num": 149425,
+      "word": "李兰迪模仿石矶娘娘",
+      "onboard_time": 1740393260,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149408,
       "num": 149408,
       "word": "2025版流感诊疗方案",
@@ -48033,14 +48089,6 @@
       "onboard_time": 1739355682,
       "rank": 48,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 148929,
-      "num": 148929,
-      "word": "专家谈考研人数下降的多重原因",
-      "onboard_time": 1740392419,
-      "rank": 39,
-      "category": "教育"
     },
     {
       "raw_hot": 148925,
@@ -50099,6 +50147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141340,
+      "num": 141340,
+      "word": "黑长直惠利欧尼",
+      "onboard_time": 1740393560,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141257,
       "num": 141257,
       "word": "武林外传早就在暗示女装现状了",
@@ -50249,14 +50305,6 @@
       "onboard_time": 1738378517,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 140499,
-      "num": 140499,
-      "word": "真心建议上班要适当叹气",
-      "onboard_time": 1740392419,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 140466,
@@ -52059,14 +52107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132639,
-      "num": 394206,
-      "word": "如何治理农村高额彩礼",
-      "onboard_time": 1740391819,
-      "rank": 9,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 132576,
       "num": 132576,
       "word": "黎深招财咪",
@@ -52257,14 +52297,6 @@
       "onboard_time": 1739459601,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 131755,
-      "num": 131755,
-      "word": "留几手磨皮磨成胚胎了",
-      "onboard_time": 1740392539,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 131713,
@@ -53201,6 +53233,14 @@
       "onboard_time": 1740188900,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 127913,
+      "num": 127913,
+      "word": "湖南卫视重映大唐荣耀",
+      "onboard_time": 1740393440,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 127849,
@@ -55459,6 +55499,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 117457,
+      "num": 187739,
+      "word": "BLG战胜TT",
+      "onboard_time": 1740393499,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 117453,
       "num": 151184,
       "word": "陈幸同3比2早田希娜",
@@ -55681,6 +55729,14 @@
       "onboard_time": 1739163802,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 116094,
+      "num": 116094,
+      "word": "小小的勇气 赵露思",
+      "onboard_time": 1740393739,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 116060,
@@ -56708,7 +56764,7 @@
     },
     {
       "raw_hot": 111649,
-      "num": 149477,
+      "num": 218666,
       "word": "孙颖莎这动作训练过吧",
       "onboard_time": 1740392600,
       "rank": 37,
@@ -61465,6 +61521,14 @@
       "onboard_time": 1738491259,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 83335,
+      "num": 125351,
+      "word": "檀健次李兰迪跳广播体操",
+      "onboard_time": 1740392899,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 83320,
@@ -66312,6 +66376,14 @@
       "word": "绿牌网约车上保险被亮红灯",
       "onboard_time": 1738991364,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53476,
+      "num": 190513,
+      "word": "公司在微信群通知裁员被判违法",
+      "onboard_time": 1740393620,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
