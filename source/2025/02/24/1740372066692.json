@@ -1,0 +1,410 @@
+{
+  "runTime": 1740372066692,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1275902,
+        "num": 1275902,
+        "word": "考研查分",
+        "onboard_time": 1740353295,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1059828,
+        "num": 1059828,
+        "word": "国家线",
+        "onboard_time": 1740361460,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 80078,
+        "num": 934376,
+        "word": "强农惠农富农的政策持续加力",
+        "onboard_time": 1740366019,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 856047,
+        "num": 856047,
+        "word": "星河入梦定档",
+        "onboard_time": 1740363680,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 743596,
+        "num": 743596,
+        "word": "泽连斯基说希望在重建中得到中国帮助",
+        "onboard_time": 1740365000,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 703035,
+        "num": 703035,
+        "word": "权志龙 我们三个也不是想这样才三个人的",
+        "onboard_time": 1740365600,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 683513,
+        "num": 683513,
+        "word": "赵丽颖四平台破万",
+        "onboard_time": 1740371241,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 658211,
+        "num": 658211,
+        "word": "iPhone17全系CAD图",
+        "onboard_time": 1740365600,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 548608,
+        "num": 548608,
+        "word": "麦琳cos十年前的自己",
+        "onboard_time": 1740368421,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51237,
+        "num": 544531,
+        "word": "男子3年频繁跳槽只为窃密",
+        "onboard_time": 1740371481,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 742649,
+        "num": 544264,
+        "word": "男子套现损失6千发信息说诅咒很灵",
+        "onboard_time": 1740365721,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 542486,
+        "num": 542486,
+        "word": "乌克兰取消战时状态后将选总统",
+        "onboard_time": 1740355518,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 525261,
+        "num": 525261,
+        "word": "网剧轧戏",
+        "onboard_time": 1740362059,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 514273,
+        "num": 514273,
+        "word": "开始推理吧直播",
+        "onboard_time": 1740368060,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65733,
+        "num": 485789,
+        "word": "一图速览考研复试流程",
+        "onboard_time": 1740371181,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 476136,
+        "num": 476136,
+        "word": "白雪公主内地定档3月21日",
+        "onboard_time": 1740367160,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 36877,
+        "num": 453713,
+        "word": "俄乌冲突三年来对全球的影响",
+        "onboard_time": 1740371722,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 444550,
+        "num": 444550,
+        "word": "谭瑞松被开除党籍",
+        "onboard_time": 1740368540,
+        "rank": 17,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 437408,
+        "num": 437408,
+        "word": "毛利兰被击倒了",
+        "onboard_time": 1740369140,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 59176,
+        "num": 433148,
+        "word": "考研名师谈查分",
+        "onboard_time": 1740371181,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 192535,
+        "num": 428325,
+        "word": "宋亚轩祝无比帅气的丁程鑫生日快乐",
+        "onboard_time": 1740371602,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1413833,
+        "num": 421022,
+        "word": "建议睡觉时把手机放1.5米以外",
+        "onboard_time": 1740367882,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 628520,
+        "num": 413097,
+        "word": "5旬算命先生被情人喂百草枯中毒身亡",
+        "onboard_time": 1740368780,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 412797,
+        "num": 412797,
+        "word": "英语一我恨你",
+        "onboard_time": 1740362179,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 374006,
+        "num": 374006,
+        "word": "小哪吒海外打赢美队4",
+        "onboard_time": 1740366381,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 339878,
+        "num": 339878,
+        "word": "林允站姐级别的出片",
+        "onboard_time": 1740369920,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321767,
+        "num": 321767,
+        "word": "考研政治",
+        "onboard_time": 1740368181,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 296548,
+        "num": 296548,
+        "word": "孟子义给粉丝送手串",
+        "onboard_time": 1740370401,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143204,
+        "num": 279430,
+        "word": "全场都在找孙颖莎",
+        "onboard_time": 1740370341,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184678,
+        "num": 277165,
+        "word": "大侦探流星来的那一夜",
+        "onboard_time": 1740370581,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276129,
+        "num": 276129,
+        "word": "原来长这样的就是淋巴肉",
+        "onboard_time": 1740366500,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 237191,
+        "num": 237191,
+        "word": "印度女孩13岁起被60余人性侵5年",
+        "onboard_time": 1740327438,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 225065,
+        "num": 225065,
+        "word": "张晚意出道10年第一部双世剧",
+        "onboard_time": 1740367101,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218809,
+        "num": 218809,
+        "word": "鹿童 许愿",
+        "onboard_time": 1740357978,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 215937,
+        "num": 215937,
+        "word": "肖战ins更新九宫格",
+        "onboard_time": 1740366080,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 204008,
+        "num": 204008,
+        "word": "感觉在职考公比在家考公更划算",
+        "onboard_time": 1740369261,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 203192,
+        "num": 203192,
+        "word": "大仓忠义结婚",
+        "onboard_time": 1740368903,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40601,
+        "num": 198586,
+        "word": "德联盟党胜选对政局有何影响",
+        "onboard_time": 1740370101,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 198231,
+        "num": 198231,
+        "word": "董思成问DeepSeek应该怎么营业",
+        "onboard_time": 1740371543,
+        "rank": 38,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 196282,
+        "num": 196282,
+        "word": "易立竞观察细致到了美甲",
+        "onboard_time": 1740371481,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193555,
+        "num": 193555,
+        "word": "四六级",
+        "onboard_time": 1740359419,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 178799,
+        "num": 178799,
+        "word": "再坚持两天就可以脱棉袄了",
+        "onboard_time": 1740370641,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145408,
+        "num": 176893,
+        "word": "许昕称王曼昱决赛打得满分",
+        "onboard_time": 1740371423,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175721,
+        "num": 175721,
+        "word": "苏州一男子为躲查酒驾开进派出所",
+        "onboard_time": 1740369983,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174553,
+        "num": 174553,
+        "word": "妈妈来横店看你了",
+        "onboard_time": 1740364519,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173684,
+        "num": 173684,
+        "word": "甜茶演员工会奖影帝",
+        "onboard_time": 1740371423,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172446,
+        "num": 172446,
+        "word": "乌克兰总统称美国赠款不用还",
+        "onboard_time": 1740356900,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 170312,
+        "num": 170312,
+        "word": "哪吒2小孩子长得就是快",
+        "onboard_time": 1740371062,
+        "rank": 47,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 166403,
+        "num": 166403,
+        "word": "网红罗大美转账200万元仍遭灭口",
+        "onboard_time": 1740323303,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 164155,
+        "num": 164155,
+        "word": "睡得少和睡得晚哪个伤害大",
+        "onboard_time": 1740322403,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国要强农业必须强#"
+    }
+  }
+}

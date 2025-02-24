@@ -1,6 +1,6 @@
 {
   "startTime": 1740327929685,
-  "endTime": 1740371245648,
+  "endTime": 1740372066692,
   "band_list": [
     {
       "raw_hot": 2195594,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1905873,
-      "num": 400525,
+      "num": 421022,
       "word": "建议睡觉时把手机放1.5米以外",
       "onboard_time": 1740367882,
       "rank": 15,
@@ -203,6 +203,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 683513,
+      "num": 683513,
+      "word": "赵丽颖四平台破万",
+      "onboard_time": 1740371241,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 662616,
       "num": 629560,
       "word": "开始推理吧3",
@@ -217,6 +225,14 @@
       "onboard_time": 1740368060,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 628520,
+      "num": 413097,
+      "word": "5旬算命先生被情人喂百草枯中毒身亡",
+      "onboard_time": 1740368780,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 603466,
@@ -235,14 +251,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 560679,
-      "num": 276375,
-      "word": "5旬算命先生被情人喂百草枯中毒身亡",
-      "onboard_time": 1740368780,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 559541,
       "num": 389902,
       "word": "拆迁6套房分配不均引发兄妹矛盾",
@@ -259,8 +267,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 520508,
-      "num": 520508,
+      "raw_hot": 548608,
+      "num": 548608,
       "word": "麦琳cos十年前的自己",
       "onboard_time": 1740368421,
       "rank": 23,
@@ -281,6 +289,14 @@
       "onboard_time": 1740322403,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 476136,
+      "num": 476136,
+      "word": "白雪公主内地定档3月21日",
+      "onboard_time": 1740367160,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 457945,
@@ -307,12 +323,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 443796,
-      "num": 443796,
-      "word": "白雪公主内地定档3月21日",
-      "onboard_time": 1740367160,
-      "rank": 18,
-      "category": "电影"
+      "raw_hot": 444550,
+      "num": 444550,
+      "word": "谭瑞松被开除党籍",
+      "onboard_time": 1740368540,
+      "rank": 46,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 437408,
+      "num": 437408,
+      "word": "毛利兰被击倒了",
+      "onboard_time": 1740369140,
+      "rank": 17,
+      "category": "动漫"
     },
     {
       "raw_hot": 416808,
@@ -332,7 +356,7 @@
     },
     {
       "raw_hot": 411438,
-      "num": 336584,
+      "num": 374006,
       "word": "小哪吒海外打赢美队4",
       "onboard_time": 1740366381,
       "rank": 33,
@@ -443,6 +467,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 339878,
+      "num": 339878,
+      "word": "林允站姐级别的出片",
+      "onboard_time": 1740369920,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 331280,
       "num": 331280,
       "word": "考研国家线预测",
@@ -475,28 +507,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 311547,
-      "num": 311547,
-      "word": "谭瑞松被开除党籍",
-      "onboard_time": 1740368540,
-      "rank": 46,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 309130,
       "num": 350556,
       "word": "轧戏",
       "onboard_time": 1740362059,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 306206,
-      "num": 306206,
-      "word": "毛利兰被击倒了",
-      "onboard_time": 1740369140,
-      "rank": 17,
-      "category": "动漫"
     },
     {
       "raw_hot": 299960,
@@ -513,6 +529,14 @@
       "onboard_time": 1740367101,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 296548,
+      "num": 297702,
+      "word": "孟子义给粉丝送手串",
+      "onboard_time": 1740370401,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 292799,
@@ -569,14 +593,6 @@
       "onboard_time": 1740327679,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 250438,
-      "num": 250438,
-      "word": "林允站姐级别的出片",
-      "onboard_time": 1740369920,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 246113,
@@ -795,12 +811,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 198231,
+      "num": 198231,
+      "word": "董思成问DeepSeek应该怎么营业",
+      "onboard_time": 1740371543,
+      "rank": 38,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 197832,
       "num": 197832,
       "word": "王鹤棣宋茜对手戏",
       "onboard_time": 1740367820,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 196282,
+      "num": 196282,
+      "word": "易立竞观察细致到了美甲",
+      "onboard_time": 1740371481,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 194334,
@@ -817,6 +849,14 @@
       "onboard_time": 1740370462,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192535,
+      "num": 428325,
+      "word": "宋亚轩祝无比帅气的丁程鑫生日快乐",
+      "onboard_time": 1740371602,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 191665,
@@ -844,7 +884,7 @@
     },
     {
       "raw_hot": 187345,
-      "num": 187345,
+      "num": 277165,
       "word": "大侦探流星来的那一夜",
       "onboard_time": 1740370581,
       "rank": 37,
@@ -915,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178799,
+      "num": 523568,
+      "word": "再坚持两天就可以脱棉袄了",
+      "onboard_time": 1740370641,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 178256,
       "num": 247653,
       "word": "肖战男模机场秀",
@@ -931,12 +979,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175721,
+      "num": 241656,
+      "word": "苏州一男子为躲查酒驾开进派出所",
+      "onboard_time": 1740369983,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174397,
       "num": 174397,
       "word": "王曼昱4比0孙颖莎",
       "onboard_time": 1740314003,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173684,
+      "num": 173684,
+      "word": "甜茶演员工会奖影帝",
+      "onboard_time": 1740371423,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 170312,
+      "num": 170312,
+      "word": "哪吒2小孩子长得就是快",
+      "onboard_time": 1740371062,
+      "rank": 47,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 168597,
@@ -979,14 +1051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 156039,
-      "num": 297702,
-      "word": "孟子义给粉丝送手串",
-      "onboard_time": 1740370401,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 154740,
       "num": 154740,
       "word": "林一参加黄明昊签售会",
@@ -1019,12 +1083,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145408,
+      "num": 176893,
+      "word": "许昕称王曼昱决赛打得满分",
+      "onboard_time": 1740371423,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144889,
       "num": 144889,
       "word": "国安揭露境外间谍高额兼职套路",
       "onboard_time": 1740360738,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143204,
+      "num": 279430,
+      "word": "全场都在找孙颖莎",
+      "onboard_time": 1740370341,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 141850,
@@ -1099,14 +1179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129148,
-      "num": 241656,
-      "word": "苏州一男子为躲查酒驾开进派出所",
-      "onboard_time": 1740369983,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 127769,
       "num": 268563,
       "word": "印度强奸案只有27%被定罪",
@@ -1136,14 +1208,6 @@
       "word": "老人2万买治疗仪竟把自己电到头疼",
       "onboard_time": 1740366500,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 117589,
-      "num": 523568,
-      "word": "再坚持两天就可以脱棉袄了",
-      "onboard_time": 1740370641,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1267,20 +1331,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 65733,
+      "num": 485789,
+      "word": "一图速览考研复试流程",
+      "onboard_time": 1740371181,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 64272,
       "num": 369535,
       "word": "朔尔茨称这是一个痛苦结果",
       "onboard_time": 1740361819,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 63254,
-      "num": 179190,
-      "word": "一图速览考研复试流程",
-      "onboard_time": 1740371181,
-      "rank": 42,
-      "category": "教育"
     },
     {
       "raw_hot": 60572,
@@ -1292,7 +1356,7 @@
     },
     {
       "raw_hot": 59206,
-      "num": 175229,
+      "num": 433148,
       "word": "考研名师谈查分",
       "onboard_time": 1740371181,
       "rank": 44,
@@ -1339,6 +1403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51237,
+      "num": 544531,
+      "word": "男子3年频繁跳槽只为窃密",
+      "onboard_time": 1740371481,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50023,
       "num": 373095,
       "word": "近16年考研国家线汇总",
@@ -1363,12 +1435,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 40601,
+      "num": 295124,
+      "word": "德联盟党胜选对政局有何影响",
+      "onboard_time": 1740370101,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 39139,
       "num": 39139,
       "word": "王曼昱孙颖莎蒯曼合影",
       "onboard_time": 1740349153,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 36877,
+      "num": 453713,
+      "word": "俄乌冲突三年来对全球的影响",
+      "onboard_time": 1740371722,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 36333,
@@ -1401,14 +1489,6 @@
       "onboard_time": 1740331934,
       "rank": 17,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 29154,
-      "num": 295124,
-      "word": "德联盟党胜选对政局有何影响",
-      "onboard_time": 1740370101,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 27891,
