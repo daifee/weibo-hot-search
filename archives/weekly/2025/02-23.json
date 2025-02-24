@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740428740702,
+  "endTime": 1740429523397,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -6931,6 +6931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 18884,
+      "num": 18884,
+      "word": "labubu",
+      "onboard_time": 1740427510,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 18845,
       "num": 218368,
       "word": "美国联邦雇员命运或被一封邮件决定",
@@ -6971,6 +6979,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 18144,
+      "num": 18144,
+      "word": "4岁女童每天饮料甜食不断确诊糖尿病",
+      "onboard_time": 1740425772,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17919,
       "num": 146049,
       "word": "DeepSeek评35岁职场危机",
@@ -6987,28 +7003,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 17557,
-      "num": 17557,
-      "word": "labubu",
-      "onboard_time": 1740427510,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 17389,
-      "num": 17389,
-      "word": "4岁女童每天饮料甜食不断确诊糖尿病",
-      "onboard_time": 1740425772,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 17232,
       "num": 109226,
       "word": "王昶说场上把自己代入成郑思维",
       "onboard_time": 1740243976,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17197,
+      "num": 17197,
+      "word": "根本不敢和酒店其他的人碰面",
+      "onboard_time": 1740427931,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 16802,
@@ -7067,14 +7075,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 14012,
-      "num": 16342,
-      "word": "根本不敢和酒店其他的人碰面",
-      "onboard_time": 1740427931,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 12515,
       "num": 47877,
       "word": "辅警火场救人后一氧化碳中毒狂吐",
@@ -7107,12 +7107,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 11923,
+      "raw_hot": 12308,
       "num": 16328,
       "word": "多方辟谣网传车主被索要5千过路费",
       "onboard_time": 1740419353,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12289,
+      "num": 16326,
+      "word": "男童卡喉脸已发紫路人出手了",
+      "onboard_time": 1740428651,
+      "rank": 49,
+      "category": "正能量"
     },
     {
       "raw_hot": 11847,
@@ -7163,14 +7171,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 11321,
-      "num": 16326,
-      "word": "男童卡喉脸已发紫路人出手了",
-      "onboard_time": 1740428651,
-      "rank": 49,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 11259,
       "num": 91959,
       "word": "Doinb常规赛MVP颁奖",
@@ -7193,6 +7193,14 @@
       "onboard_time": 1740337452,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 9405,
+      "num": 21881,
+      "word": "白天辉受贿案驳回上诉",
+      "onboard_time": 1740429311,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9388,

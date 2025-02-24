@@ -1,6 +1,6 @@
 {
   "startTime": 1740414610412,
-  "endTime": 1740428740702,
+  "endTime": 1740429523397,
   "band_list": [
     {
       "raw_hot": 1148255,
@@ -515,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18884,
+      "num": 18884,
+      "word": "labubu",
+      "onboard_time": 1740427510,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 18686,
       "num": 22566,
       "word": "Hearts2Hearts出道曲MV",
@@ -531,36 +539,36 @@
       "category": "演出"
     },
     {
-      "raw_hot": 17557,
-      "num": 17557,
-      "word": "labubu",
-      "onboard_time": 1740427510,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 17389,
-      "num": 17389,
+      "raw_hot": 18144,
+      "num": 18144,
       "word": "4岁女童每天饮料甜食不断确诊糖尿病",
       "onboard_time": 1740425772,
       "rank": 31,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14012,
-      "num": 16342,
+      "raw_hot": 17197,
+      "num": 17197,
       "word": "根本不敢和酒店其他的人碰面",
       "onboard_time": 1740427931,
       "rank": 42,
       "category": "幽默"
     },
     {
-      "raw_hot": 11923,
+      "raw_hot": 12308,
       "num": 16328,
       "word": "多方辟谣网传车主被索要5千过路费",
       "onboard_time": 1740419353,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12289,
+      "num": 16326,
+      "word": "男童卡喉脸已发紫路人出手了",
+      "onboard_time": 1740428651,
+      "rank": 49,
+      "category": "正能量"
     },
     {
       "raw_hot": 11770,
@@ -571,12 +579,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 11321,
-      "num": 16326,
-      "word": "男童卡喉脸已发紫路人出手了",
-      "onboard_time": 1740428651,
-      "rank": 49,
-      "category": "正能量"
+      "raw_hot": 9405,
+      "num": 21881,
+      "word": "白天辉受贿案驳回上诉",
+      "onboard_time": 1740429311,
+      "rank": 23,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
