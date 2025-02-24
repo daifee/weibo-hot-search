@@ -1,0 +1,410 @@
+{
+  "runTime": 1740371245648,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1270896,
+        "num": 1270896,
+        "word": "考研查分",
+        "onboard_time": 1740353295,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 969469,
+        "num": 969469,
+        "word": "国家线",
+        "onboard_time": 1740361460,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 80701,
+        "num": 900894,
+        "word": "强农惠农富农的政策持续加力",
+        "onboard_time": 1740366019,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 889794,
+        "num": 889794,
+        "word": "泽连斯基说希望在重建中得到中国帮助",
+        "onboard_time": 1740365000,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 817249,
+        "num": 817249,
+        "word": "星河入梦定档",
+        "onboard_time": 1740363680,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 756953,
+        "num": 756953,
+        "word": "iPhone17全系CAD图",
+        "onboard_time": 1740365600,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 752897,
+        "num": 752897,
+        "word": "权志龙 我们三个也不是想这样才三个人的",
+        "onboard_time": 1740365600,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 630105,
+        "num": 630105,
+        "word": "开始推理吧直播",
+        "onboard_time": 1740368060,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 539385,
+        "num": 539385,
+        "word": "乌克兰取消战时状态后将选总统",
+        "onboard_time": 1740355518,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117589,
+        "num": 523568,
+        "word": "再坚持两天就可以脱棉袄了",
+        "onboard_time": 1740370641,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 902184,
+        "num": 522514,
+        "word": "男子套现损失6千发信息说诅咒很灵",
+        "onboard_time": 1740365721,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 520508,
+        "num": 520508,
+        "word": "麦琳cos十年前的自己",
+        "onboard_time": 1740368421,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 514597,
+        "num": 514597,
+        "word": "网剧轧戏",
+        "onboard_time": 1740362059,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 443796,
+        "num": 443796,
+        "word": "白雪公主内地定档3月21日",
+        "onboard_time": 1740367160,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 402683,
+        "num": 402683,
+        "word": "英语一我恨你",
+        "onboard_time": 1740362179,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 346615,
+        "num": 346615,
+        "word": "考研政治",
+        "onboard_time": 1740368181,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 311547,
+        "num": 311547,
+        "word": "谭瑞松被开除党籍",
+        "onboard_time": 1740368540,
+        "rank": 16,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 306206,
+        "num": 306206,
+        "word": "毛利兰被击倒了",
+        "onboard_time": 1740369140,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 156039,
+        "num": 297702,
+        "word": "孟子义给粉丝送手串",
+        "onboard_time": 1740370401,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29154,
+        "num": 295124,
+        "word": "德联盟党胜选对政局有何影响",
+        "onboard_time": 1740370101,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1905873,
+        "num": 288366,
+        "word": "建议睡觉时把手机放1.5米以外",
+        "onboard_time": 1740367882,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 560679,
+        "num": 276375,
+        "word": "5旬算命先生被情人喂百草枯中毒身亡",
+        "onboard_time": 1740368780,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 411438,
+        "num": 271540,
+        "word": "小哪吒海外打赢美队4",
+        "onboard_time": 1740366381,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 262878,
+        "num": 262878,
+        "word": "肖战ins更新九宫格",
+        "onboard_time": 1740366080,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 217061,
+        "num": 262273,
+        "word": "感觉在职考公比在家考公更划算",
+        "onboard_time": 1740369261,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 261820,
+        "num": 261820,
+        "word": "原来长这样的就是淋巴肉",
+        "onboard_time": 1740366500,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 90735,
+        "num": 255481,
+        "word": "盘点3年来俄乌局势关键事件",
+        "onboard_time": 1740369322,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 253638,
+        "num": 253638,
+        "word": "张晚意出道10年第一部双世剧",
+        "onboard_time": 1740367101,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250438,
+        "num": 250438,
+        "word": "林允站姐级别的出片",
+        "onboard_time": 1740369920,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129148,
+        "num": 241656,
+        "word": "苏州一男子为躲查酒驾开进派出所",
+        "onboard_time": 1740369983,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240116,
+        "num": 240116,
+        "word": "大仓忠义结婚",
+        "onboard_time": 1740368903,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234653,
+        "num": 234653,
+        "word": "四六级",
+        "onboard_time": 1740359419,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 219309,
+        "num": 219309,
+        "word": "印度女孩13岁起被60余人性侵5年",
+        "onboard_time": 1740327438,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 205322,
+        "num": 205322,
+        "word": "鹿童 许愿",
+        "onboard_time": 1740357978,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195984,
+        "num": 195984,
+        "word": "网红罗大美转账200万元仍遭灭口",
+        "onboard_time": 1740323303,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 194274,
+        "num": 194274,
+        "word": "嘘国王在冬眠优酷三月排片",
+        "onboard_time": 1740370462,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189411,
+        "num": 189411,
+        "word": "开始推理吧3",
+        "onboard_time": 1740366621,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187345,
+        "num": 187345,
+        "word": "大侦探流星来的那一夜",
+        "onboard_time": 1740370581,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184248,
+        "num": 184248,
+        "word": "妈妈来横店看你了",
+        "onboard_time": 1740364519,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183867,
+        "num": 183867,
+        "word": "乌克兰总统称美国赠款不用还",
+        "onboard_time": 1740356900,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 180472,
+        "num": 180472,
+        "word": "管综",
+        "onboard_time": 1740365240,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 180393,
+        "num": 180393,
+        "word": "骗子盯上了你的手机NFC功能",
+        "onboard_time": 1740326120,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63254,
+        "num": 179190,
+        "word": "一图速览考研复试流程",
+        "onboard_time": 1740371181,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 178847,
+        "num": 178847,
+        "word": "睡得少和睡得晚哪个伤害大",
+        "onboard_time": 1740322403,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 59206,
+        "num": 175229,
+        "word": "考研名师谈查分",
+        "onboard_time": 1740371181,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 173478,
+        "num": 173478,
+        "word": "北方在升温了南方也快了",
+        "onboard_time": 1740368242,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158200,
+        "num": 158200,
+        "word": "孙颖莎战胜去年夏天的自己",
+        "onboard_time": 1740366860,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46902,
+        "num": 155989,
+        "word": "徐涛分享考研出分的5点建议",
+        "onboard_time": 1740369803,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 154134,
+        "num": 154134,
+        "word": "王心凌回应成为高清画质单位",
+        "onboard_time": 1740355098,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148802,
+        "num": 148802,
+        "word": "陈星旭卢昱晓新剧轧戏开机",
+        "onboard_time": 1740363319,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#扎实推进乡村全面振兴#"
+    }
+  }
+}

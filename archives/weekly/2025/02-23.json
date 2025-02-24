@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740368654138,
+  "endTime": 1740371245648,
   "band_list": [
     {
       "raw_hot": 4198472,
@@ -105,6 +105,14 @@
       "onboard_time": 1740279319,
       "rank": 43,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 1905873,
+      "num": 400525,
+      "word": "建议睡觉时把手机放1.5米以外",
+      "onboard_time": 1740367882,
+      "rank": 15,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1837643,
@@ -435,6 +443,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 902184,
+      "num": 757339,
+      "word": "男子套现损失6千发信息说诅咒很灵",
+      "onboard_time": 1740365721,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 889794,
+      "num": 889794,
+      "word": "泽连斯基说希望在重建中得到中国帮助",
+      "onboard_time": 1740365000,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 889410,
       "num": 333309,
       "word": "高露洁",
@@ -523,14 +547,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 757339,
-      "num": 757339,
-      "word": "男子套现损失6千发信息说诅咒很灵",
-      "onboard_time": 1740365721,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 756907,
       "num": 610892,
       "word": "哪吒3催更到联合国了",
@@ -561,14 +577,6 @@
       "onboard_time": 1740317183,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 738717,
-      "num": 738717,
-      "word": "泽连斯基说希望在重建中得到中国帮助",
-      "onboard_time": 1740365000,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 722428,
@@ -731,6 +739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 630105,
+      "num": 630105,
+      "word": "开始推理吧直播",
+      "onboard_time": 1740368060,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 603466,
       "num": 603466,
       "word": "中介称杭州网红大楼名声越搞越差",
@@ -771,6 +787,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 560679,
+      "num": 276375,
+      "word": "5旬算命先生被情人喂百草枯中毒身亡",
+      "onboard_time": 1740368780,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 556008,
       "num": 554972,
       "word": "国家能源集团官网删除拟录用公示名单",
@@ -785,14 +809,6 @@
       "onboard_time": 1740279259,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 550294,
-      "num": 550294,
-      "word": "开始推理吧直播",
-      "onboard_time": 1740368060,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 549632,
@@ -873,6 +889,14 @@
       "onboard_time": 1740319822,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 520508,
+      "num": 520508,
+      "word": "麦琳cos十年前的自己",
+      "onboard_time": 1740368421,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 520220,
@@ -971,6 +995,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 443796,
+      "num": 443796,
+      "word": "白雪公主内地定档3月21日",
+      "onboard_time": 1740367160,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 430512,
       "num": 430512,
       "word": "黄雅琼和王昶遗憾告负",
@@ -1011,6 +1043,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 411438,
+      "num": 336584,
+      "word": "小哪吒海外打赢美队4",
+      "onboard_time": 1740366381,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 407455,
       "num": 451203,
       "word": "enhypen直播",
@@ -1019,28 +1059,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 404817,
-      "num": 336584,
-      "word": "小哪吒海外打赢美队4",
-      "onboard_time": 1740366381,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 400532,
       "num": 294834,
       "word": "女生患乳腺癌后称要重视月经异常",
       "onboard_time": 1740282017,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 400525,
-      "num": 400525,
-      "word": "建议睡觉时把手机放1.5米以外",
-      "onboard_time": 1740367882,
-      "rank": 15,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 399509,
@@ -1267,6 +1291,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 346615,
+      "num": 346615,
+      "word": "考研政治",
+      "onboard_time": 1740368181,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 346376,
       "num": 348441,
       "word": "肖战ins更新九宫格",
@@ -1321,14 +1353,6 @@
       "onboard_time": 1740291319,
       "rank": 9,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 337298,
-      "num": 337298,
-      "word": "白雪公主内地定档3月21日",
-      "onboard_time": 1740367160,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 333348,
@@ -1411,6 +1435,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 311547,
+      "num": 311547,
+      "word": "谭瑞松被开除党籍",
+      "onboard_time": 1740368540,
+      "rank": 46,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 310766,
       "num": 298332,
       "word": "营业悖论",
@@ -1427,12 +1459,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 306480,
-      "num": 306480,
-      "word": "麦琳cos十年前的自己",
-      "onboard_time": 1740368421,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 306206,
+      "num": 306206,
+      "word": "毛利兰被击倒了",
+      "onboard_time": 1740369140,
+      "rank": 17,
+      "category": "动漫"
     },
     {
       "raw_hot": 306121,
@@ -1667,6 +1699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 250438,
+      "num": 250438,
+      "word": "林允站姐级别的出片",
+      "onboard_time": 1740369920,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 249191,
       "num": 249191,
       "word": "难哄",
@@ -1737,6 +1777,14 @@
       "onboard_time": 1740285439,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 240116,
+      "num": 240116,
+      "word": "大仓忠义结婚",
+      "onboard_time": 1740368903,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 239172,
@@ -1883,14 +1931,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 226057,
-      "num": 226057,
-      "word": "考研政治",
-      "onboard_time": 1740368181,
-      "rank": 33,
-      "category": "教育"
-    },
-    {
       "raw_hot": 225850,
       "num": 225850,
       "word": "亚洲杯",
@@ -1985,6 +2025,14 @@
       "onboard_time": 1740327080,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 217061,
+      "num": 262273,
+      "word": "感觉在职考公比在家考公更划算",
+      "onboard_time": 1740369261,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 215089,
@@ -2227,6 +2275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194274,
+      "num": 194274,
+      "word": "嘘国王在冬眠优酷三月排片",
+      "onboard_time": 1740370462,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194144,
       "num": 349448,
       "word": "官方通报四川一县发生山体垮塌",
@@ -2363,6 +2419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187345,
+      "num": 187345,
+      "word": "大侦探流星来的那一夜",
+      "onboard_time": 1740370581,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187193,
       "num": 187193,
       "word": "鞠婧祎白发狐狸造型",
@@ -2473,14 +2537,6 @@
       "onboard_time": 1740324681,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 180530,
-      "num": 180530,
-      "word": "谭瑞松被开除党籍",
-      "onboard_time": 1740368540,
-      "rank": 46,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 180416,
@@ -2923,6 +2979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156039,
+      "num": 297702,
+      "word": "孟子义给粉丝送手串",
+      "onboard_time": 1740370401,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155580,
       "num": 155580,
       "word": "HLE晋级全球先锋赛",
@@ -3259,6 +3323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129148,
+      "num": 241656,
+      "word": "苏州一男子为躲查酒驾开进派出所",
+      "onboard_time": 1740369983,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129027,
       "num": 129027,
       "word": "滤镜",
@@ -3416,6 +3488,14 @@
       "word": "老人2万买治疗仪竟把自己电到头疼",
       "onboard_time": 1740366500,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117589,
+      "num": 523568,
+      "word": "再坚持两天就可以脱棉袄了",
+      "onboard_time": 1740370641,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -3691,6 +3771,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 90735,
+      "num": 255481,
+      "word": "盘点3年来俄乌局势关键事件",
+      "onboard_time": 1740369322,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 89755,
       "num": 481236,
       "word": "故障航班在西安上空飞行2圈后返航",
@@ -3955,6 +4043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63254,
+      "num": 179190,
+      "word": "一图速览考研复试流程",
+      "onboard_time": 1740371181,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 62813,
       "num": 141581,
       "word": "医院回应被曝诱骗智障患者网贷4万",
@@ -3969,6 +4065,14 @@
       "onboard_time": 1740301818,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 59206,
+      "num": 175229,
+      "word": "考研名师谈查分",
+      "onboard_time": 1740371181,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 57745,
@@ -4081,6 +4185,14 @@
       "onboard_time": 1740294138,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 46902,
+      "num": 155989,
+      "word": "徐涛分享考研出分的5点建议",
+      "onboard_time": 1740369803,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 46466,
@@ -4233,6 +4345,14 @@
       "onboard_time": 1740324141,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 29154,
+      "num": 295124,
+      "word": "德联盟党胜选对政局有何影响",
+      "onboard_time": 1740370101,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 28886,
