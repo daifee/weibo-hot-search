@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740361563294,
+  "endTime": 1740362700419,
   "band_list": [
     {
       "raw_hot": 4198472,
@@ -83,6 +83,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2195594,
+      "num": 2195594,
+      "word": "考研查分",
+      "onboard_time": 1740353295,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1962897,
       "num": 1962897,
       "word": "姚晨闷声干大事",
@@ -113,14 +121,6 @@
       "onboard_time": 1740241998,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1789613,
-      "num": 1789613,
-      "word": "考研查分",
-      "onboard_time": 1740353295,
-      "rank": 17,
-      "category": "教育"
     },
     {
       "raw_hot": 1730311,
@@ -291,6 +291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1032603,
+      "num": 1032603,
+      "word": "00后住户呼吁不要妖魔化杭州丽晶国际",
+      "onboard_time": 1740355878,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1026792,
       "num": 1026792,
       "word": "乌克兰取消战时状态后将选总统",
@@ -321,14 +329,6 @@
       "onboard_time": 1740314003,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 990450,
-      "num": 990450,
-      "word": "00后住户呼吁不要妖魔化杭州丽晶国际",
-      "onboard_time": 1740355878,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 970137,
@@ -449,6 +449,14 @@
       "onboard_time": 1740355098,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 800841,
+      "num": 800841,
+      "word": "乌克兰总统称美国赠款不用还",
+      "onboard_time": 1740356900,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 797767,
@@ -835,14 +843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 468702,
-      "num": 468702,
-      "word": "乌克兰总统称美国赠款不用还",
-      "onboard_time": 1740356900,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 457945,
       "num": 457945,
       "word": "王曼昱集齐亚洲三大赛单打金牌",
@@ -865,6 +865,14 @@
       "onboard_time": 1740295400,
       "rank": 7,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 454325,
+      "num": 587326,
+      "word": "问问星星吧 癫剧",
+      "onboard_time": 1740359541,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 454184,
@@ -969,14 +977,6 @@
       "onboard_time": 1740305960,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 383134,
-      "num": 383134,
-      "word": "问问星星吧 癫剧",
-      "onboard_time": 1740359541,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 381961,
@@ -1259,6 +1259,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 309130,
+      "num": 350556,
+      "word": "轧戏",
+      "onboard_time": 1740362059,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 306121,
       "num": 356778,
       "word": "肖战米兰到达",
@@ -1281,6 +1289,14 @@
       "onboard_time": 1740284299,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 292799,
+      "num": 292799,
+      "word": "高露洁 孙颖莎",
+      "onboard_time": 1740353416,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 292498,
@@ -1531,6 +1547,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 241872,
+      "num": 241872,
+      "word": "考研国家线预测",
+      "onboard_time": 1740360858,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 241141,
+      "num": 241141,
+      "word": "国家线",
+      "onboard_time": 1740361460,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 240853,
       "num": 240853,
       "word": "HLE获得LCK杯冠军",
@@ -1732,7 +1764,7 @@
     },
     {
       "raw_hot": 221117,
-      "num": 221117,
+      "num": 241220,
       "word": "撒贝宁王鸥现身福州",
       "onboard_time": 1740357860,
       "rank": 28,
@@ -1753,14 +1785,6 @@
       "onboard_time": 1740327080,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 216518,
-      "num": 244349,
-      "word": "高露洁 孙颖莎",
-      "onboard_time": 1740353416,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 215089,
@@ -2187,6 +2211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178434,
+      "num": 549118,
+      "word": "乌方拒绝给美国价值5000亿美元协议",
+      "onboard_time": 1740361879,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 177266,
       "num": 177266,
       "word": "王曼昱孙颖莎蒯曼登上领奖台",
@@ -2345,6 +2377,14 @@
       "onboard_time": 1740249012,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 167682,
+      "num": 167682,
+      "word": "女子煮6根面兰寿金鱼嗦掉半根",
+      "onboard_time": 1740362118,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 167107,
@@ -2611,6 +2651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152003,
+      "num": 152003,
+      "word": "英语一",
+      "onboard_time": 1740361699,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 151834,
       "num": 151834,
       "word": "BLG战胜WBG",
@@ -2628,7 +2676,7 @@
     },
     {
       "raw_hot": 150625,
-      "num": 150625,
+      "num": 303573,
       "word": "法硕",
       "onboard_time": 1740360738,
       "rank": 36,
@@ -2747,6 +2795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141850,
+      "num": 141850,
+      "word": "四六级成绩还不出",
+      "onboard_time": 1740362536,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 141462,
       "num": 171833,
       "word": "王曼昱说决赛全力以赴拼莎莎",
@@ -2851,6 +2907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132981,
+      "num": 132981,
+      "word": "考研查分紧张",
+      "onboard_time": 1740362660,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 132961,
       "num": 132961,
       "word": "熬夜后不要吃完饭再补觉",
@@ -2891,28 +2955,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130059,
-      "num": 130059,
-      "word": "国家线",
-      "onboard_time": 1740361460,
-      "rank": 43,
-      "category": "教育"
-    },
-    {
       "raw_hot": 129027,
       "num": 129027,
       "word": "滤镜",
       "onboard_time": 1740280519,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128970,
-      "num": 128970,
-      "word": "考研国家线预测",
-      "onboard_time": 1740360858,
-      "rank": 44,
-      "category": "教育"
     },
     {
       "raw_hot": 127769,
@@ -3161,6 +3209,14 @@
       "onboard_time": 1740294439,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108863,
+      "num": 554395,
+      "word": "英语一我恨你",
+      "onboard_time": 1740362179,
+      "rank": 8,
+      "category": "教育"
     },
     {
       "raw_hot": 108818,
@@ -3545,6 +3601,14 @@
       "onboard_time": 1740297800,
       "rank": 2,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 64272,
+      "num": 369535,
+      "word": "朔尔茨称这是一个痛苦结果",
+      "onboard_time": 1740361819,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 63866,
