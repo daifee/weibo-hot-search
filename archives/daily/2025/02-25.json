@@ -1,6 +1,6 @@
 {
   "startTime": 1740414610412,
-  "endTime": 1740421917434,
+  "endTime": 1740422698419,
   "band_list": [
     {
       "raw_hot": 1148255,
@@ -483,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23167,
+      "num": 25671,
+      "word": "被小孩哥高情商化解尴尬暖到了",
+      "onboard_time": 1740420732,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22921,
       "num": 22921,
       "word": "唐奇的造型师们选的真不错",
@@ -491,20 +499,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 20911,
-      "num": 25671,
-      "word": "被小孩哥高情商化解尴尬暖到了",
-      "onboard_time": 1740420732,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 18686,
       "num": 22566,
       "word": "Hearts2Hearts出道曲MV",
       "onboard_time": 1740420791,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 18607,
+      "num": 21404,
+      "word": "邓佳鑫翻唱流浪地球主题曲人是",
+      "onboard_time": 1740422232,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 11770,
