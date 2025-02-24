@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740429523397,
+  "endTime": 1740432060618,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -6579,6 +6579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35461,
+      "num": 35461,
+      "word": "labubu",
+      "onboard_time": 1740427510,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 35202,
       "num": 121397,
       "word": "警方通报铁岭私家车撞进医院",
@@ -6771,6 +6779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25894,
+      "num": 25894,
+      "word": "张雨绮前夫袁巴元被限消",
+      "onboard_time": 1740429911,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25850,
       "num": 332307,
       "word": "怎样区分面部皮炎和荨麻疹",
@@ -6891,6 +6907,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 20755,
+      "num": 20755,
+      "word": "农村移风易俗要避免急风骤雨",
+      "onboard_time": 1740430511,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20653,
       "num": 33244,
       "word": "高三女生离家出走被女警抱抱",
@@ -6905,6 +6929,22 @@
       "onboard_time": 1740302118,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 20059,
+      "num": 19205,
+      "word": "根本不敢和酒店其他的人碰面",
+      "onboard_time": 1740427931,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 19988,
+      "num": 19988,
+      "word": "4岁女童每天饮料甜食不断确诊糖尿病",
+      "onboard_time": 1740425772,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19878,
@@ -6929,14 +6969,6 @@
       "onboard_time": 1740410120,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 18884,
-      "num": 18884,
-      "word": "labubu",
-      "onboard_time": 1740427510,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 18845,
@@ -6979,14 +7011,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 18144,
-      "num": 18144,
-      "word": "4岁女童每天饮料甜食不断确诊糖尿病",
-      "onboard_time": 1740425772,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 17919,
       "num": 146049,
       "word": "DeepSeek评35岁职场危机",
@@ -7009,14 +7033,6 @@
       "onboard_time": 1740243976,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 17197,
-      "num": 17197,
-      "word": "根本不敢和酒店其他的人碰面",
-      "onboard_time": 1740427931,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 16802,
@@ -7075,6 +7091,30 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 13409,
+      "num": 16326,
+      "word": "男童卡喉脸已发紫路人出手了",
+      "onboard_time": 1740428651,
+      "rank": 49,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 13120,
+      "num": 16328,
+      "word": "多方辟谣网传车主被索要5千过路费",
+      "onboard_time": 1740419353,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12759,
+      "num": 14852,
+      "word": "宋雨琦启程米兰",
+      "onboard_time": 1740429972,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 12515,
       "num": 47877,
       "word": "辅警火场救人后一氧化碳中毒狂吐",
@@ -7105,22 +7145,6 @@
       "onboard_time": 1740409881,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 12308,
-      "num": 16328,
-      "word": "多方辟谣网传车主被索要5千过路费",
-      "onboard_time": 1740419353,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12289,
-      "num": 16326,
-      "word": "男童卡喉脸已发紫路人出手了",
-      "onboard_time": 1740428651,
-      "rank": 49,
-      "category": "正能量"
     },
     {
       "raw_hot": 11847,
@@ -7225,6 +7249,14 @@
       "onboard_time": 1740249073,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 8336,
+      "num": 34840,
+      "word": "这个反常行为引起朝阳群众警觉",
+      "onboard_time": 1740431710,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 8212,
