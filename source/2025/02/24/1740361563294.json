@@ -1,0 +1,410 @@
+{
+  "runTime": 1740361563294,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1789613,
+        "num": 1789613,
+        "word": "考研查分",
+        "onboard_time": 1740353295,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1026792,
+        "num": 1026792,
+        "word": "乌克兰取消战时状态后将选总统",
+        "onboard_time": 1740355518,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 74320,
+        "num": 1006051,
+        "word": "龙马乘组太空出差将满120天",
+        "onboard_time": 1740320002,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 990450,
+        "num": 990450,
+        "word": "00后住户呼吁不要妖魔化杭州丽晶国际",
+        "onboard_time": 1740355878,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 806736,
+        "num": 806736,
+        "word": "王心凌回应成为高清画质单位",
+        "onboard_time": 1740355098,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 702246,
+        "num": 702246,
+        "word": "四六级",
+        "onboard_time": 1740359419,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 618873,
+        "num": 618873,
+        "word": "骗子盯上了你的手机NFC功能",
+        "onboard_time": 1740326120,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 603466,
+        "num": 603466,
+        "word": "中介称杭州网红大楼名声越搞越差",
+        "onboard_time": 1740356719,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 549615,
+        "num": 549615,
+        "word": "鹿童 许愿",
+        "onboard_time": 1740357978,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 468702,
+        "num": 468702,
+        "word": "乌克兰总统称美国赠款不用还",
+        "onboard_time": 1740356900,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 742784,
+        "num": 459334,
+        "word": "网红罗大美转账200万元仍遭灭口",
+        "onboard_time": 1740323303,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 416302,
+        "num": 416302,
+        "word": "2025考研查分时间表",
+        "onboard_time": 1740359659,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 396335,
+        "num": 396335,
+        "word": "电梯疾坠又猛冲至33楼致业主身亡",
+        "onboard_time": 1740351855,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389902,
+        "num": 389902,
+        "word": "拆迁6套房分配不均引发兄妹矛盾",
+        "onboard_time": 1740321562,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383134,
+        "num": 383134,
+        "word": "问问星星吧 癫剧",
+        "onboard_time": 1740359541,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306949,
+        "num": 306949,
+        "word": "林一回应虞书欣",
+        "onboard_time": 1740352756,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276004,
+        "num": 276004,
+        "word": "乌总统称不签需十代人付出代价协议",
+        "onboard_time": 1740352696,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160016,
+        "num": 275979,
+        "word": "泽连斯基称将与特朗普会谈",
+        "onboard_time": 1740359778,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 191665,
+        "num": 274099,
+        "word": "卡梅隆称阿凡达3为三部中最佳",
+        "onboard_time": 1740353537,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177066,
+        "num": 272987,
+        "word": "因哪吒2爆火的影院紧急大扫除迎客",
+        "onboard_time": 1740332474,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 485610,
+        "num": 272362,
+        "word": "睡得少和睡得晚哪个伤害大",
+        "onboard_time": 1740322403,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 416808,
+        "num": 271420,
+        "word": "内裤袜子丢进洗衣机真比手洗好",
+        "onboard_time": 1740318683,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 401437,
+        "num": 269541,
+        "word": "印度女孩13岁起被60余人性侵5年",
+        "onboard_time": 1740327438,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 269315,
+        "num": 269315,
+        "word": "职业闭店是违法犯罪行为",
+        "onboard_time": 1740329057,
+        "rank": 23,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 216518,
+        "num": 244349,
+        "word": "高露洁 孙颖莎",
+        "onboard_time": 1740353416,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244345,
+        "num": 244345,
+        "word": "手机信号差时辐射更大",
+        "onboard_time": 1740357320,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239172,
+        "num": 239172,
+        "word": "默茨宣布获胜朔尔茨承认失利",
+        "onboard_time": 1740356240,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 238157,
+        "num": 238157,
+        "word": "因为不够混血被误以为见的是假爹",
+        "onboard_time": 1740356299,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 221117,
+        "num": 221117,
+        "word": "撒贝宁王鸥现身福州",
+        "onboard_time": 1740357860,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173038,
+        "num": 217162,
+        "word": "章若楠好美",
+        "onboard_time": 1740319343,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234796,
+        "num": 216879,
+        "word": "某某",
+        "onboard_time": 1740318201,
+        "rank": 30,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 214860,
+        "num": 214860,
+        "word": "杭州武汉本周热到快30摄氏度",
+        "onboard_time": 1740356179,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176083,
+        "num": 176083,
+        "word": "鹿晗关晓彤分手博坚持打卡2694天",
+        "onboard_time": 1740311359,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168597,
+        "num": 168597,
+        "word": "女子晒自家墓景房楼下就是考古工地",
+        "onboard_time": 1740347351,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165492,
+        "num": 165492,
+        "word": "高露洁",
+        "onboard_time": 1740327859,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157703,
+        "num": 157703,
+        "word": "王楚钦称庆祝动作是在指奖杯",
+        "onboard_time": 1740357740,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150625,
+        "num": 150625,
+        "word": "法硕",
+        "onboard_time": 1740360738,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 144889,
+        "num": 144889,
+        "word": "国安揭露境外间谍高额兼职套路",
+        "onboard_time": 1740360738,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135688,
+        "num": 135688,
+        "word": "张仲景的医学观念还是太超前了",
+        "onboard_time": 1740358761,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 79427,
+        "num": 133583,
+        "word": "智搜DS预测考研国家线",
+        "onboard_time": 1740359900,
+        "rank": 39,
+        "category": "教育,互联网"
+      },
+      {
+        "raw_hot": 133296,
+        "num": 133296,
+        "word": "Rookie 菜得可怕",
+        "onboard_time": 1740319822,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131803,
+        "num": 131803,
+        "word": "高中生手搓折叠屏惊动手机厂商",
+        "onboard_time": 1740325041,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131772,
+        "num": 131772,
+        "word": "仙台有树豆瓣开分7.0",
+        "onboard_time": 1740358280,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130059,
+        "num": 130059,
+        "word": "国家线",
+        "onboard_time": 1740361460,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 128970,
+        "num": 128970,
+        "word": "考研国家线预测",
+        "onboard_time": 1740360858,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 124027,
+        "num": 124027,
+        "word": "5G基站电磁辐射量低于家电",
+        "onboard_time": 1740359179,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116981,
+        "num": 116981,
+        "word": "警方提醒不要随便下载APP",
+        "onboard_time": 1740360439,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114864,
+        "num": 114864,
+        "word": "姑娘辞职去传承女子英歌舞",
+        "onboard_time": 1740326419,
+        "rank": 47,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 111170,
+        "num": 111170,
+        "word": "王曼昱4比0孙颖莎",
+        "onboard_time": 1740314003,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109281,
+        "num": 109281,
+        "word": "王曼昱亚洲杯冠军",
+        "onboard_time": 1740313522,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#扎实推进乡村全面振兴#"
+    }
+  }
+}
