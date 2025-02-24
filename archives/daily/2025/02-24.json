@@ -1,6 +1,6 @@
 {
   "startTime": 1740327929685,
-  "endTime": 1740366402092,
+  "endTime": 1740367846172,
   "band_list": [
     {
       "raw_hot": 2195594,
@@ -139,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 840911,
+      "num": 840911,
+      "word": "权志龙 我们三个也不是想这样才三个人的",
+      "onboard_time": 1740365600,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 806736,
       "num": 806736,
       "word": "王心凌回应成为高清画质单位",
@@ -163,12 +171,36 @@
       "category": "教育"
     },
     {
-      "raw_hot": 606217,
-      "num": 606217,
-      "word": "权志龙 我们三个也不是想这样才三个人的",
+      "raw_hot": 662616,
+      "num": 629560,
+      "word": "开始推理吧3",
+      "onboard_time": 1740366621,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 643179,
+      "num": 643179,
+      "word": "iPhone17全系CAD图",
       "onboard_time": 1740365600,
-      "rank": 18,
-      "category": "音乐"
+      "rank": 36,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 615424,
+      "num": 615424,
+      "word": "男子套现损失6千发信息说诅咒很灵",
+      "onboard_time": 1740365721,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 608039,
+      "num": 608039,
+      "word": "泽连斯基说希望在重建中得到中国帮助",
+      "onboard_time": 1740365000,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 603466,
@@ -243,14 +275,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 448827,
-      "num": 448827,
-      "word": "泽连斯基说希望在重建中得到中国帮助",
-      "onboard_time": 1740365000,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 416808,
       "num": 339449,
       "word": "内裤袜子丢进洗衣机真比手洗好",
@@ -265,6 +289,14 @@
       "onboard_time": 1740359659,
       "rank": 11,
       "category": "教育"
+    },
+    {
+      "raw_hot": 404817,
+      "num": 254599,
+      "word": "小哪吒海外打赢美队4",
+      "onboard_time": 1740366381,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 402186,
@@ -363,14 +395,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 321740,
-      "num": 321740,
-      "word": "iPhone17全系CAD图",
-      "onboard_time": 1740365600,
-      "rank": 36,
-      "category": "数码"
-    },
-    {
       "raw_hot": 321407,
       "num": 321407,
       "word": "2025年中央一号文件发布",
@@ -459,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256683,
+      "num": 256683,
+      "word": "白雪公主内地定档3月21日",
+      "onboard_time": 1740367160,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 250496,
       "num": 250496,
       "word": "王曼昱使用樊A",
@@ -507,6 +539,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 233123,
+      "num": 215664,
+      "word": "原来长这样的就是淋巴肉",
+      "onboard_time": 1740366500,
+      "rank": 33,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 232879,
       "num": 322439,
       "word": "管综",
@@ -539,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219859,
+      "num": 219859,
+      "word": "小米接入DeepSeek",
+      "onboard_time": 1740364280,
+      "rank": 41,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 218022,
       "num": 259834,
       "word": "A股",
@@ -553,14 +601,6 @@
       "onboard_time": 1740327080,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 216220,
-      "num": 216220,
-      "word": "小哪吒海外打赢美队4",
-      "onboard_time": 1740366381,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 214860,
@@ -595,12 +635,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210016,
+      "num": 210016,
+      "word": "英语二",
+      "onboard_time": 1740365960,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 209731,
+      "num": 209731,
+      "word": "张晚意出道10年第一部双世剧",
+      "onboard_time": 1740367101,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205347,
       "num": 205347,
       "word": "小米15Ultra",
       "onboard_time": 1740365419,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 205338,
+      "num": 205338,
+      "word": "妈妈来横店看你了",
+      "onboard_time": 1740364519,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 203887,
+      "num": 203887,
+      "word": "成毅 丝塔芙",
+      "onboard_time": 1740367280,
+      "rank": 40,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 200479,
@@ -627,12 +699,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194334,
+      "num": 194334,
+      "word": "孙颖莎战胜去年夏天的自己",
+      "onboard_time": 1740366860,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191665,
       "num": 274099,
       "word": "卡梅隆称阿凡达3为三部中最佳",
       "onboard_time": 1740353537,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 191459,
+      "num": 191459,
+      "word": "腾讯游戏宣布升级未成年人保护体系",
+      "onboard_time": 1740367340,
+      "rank": 43,
+      "category": "互联网,游戏"
     },
     {
       "raw_hot": 190630,
@@ -643,11 +731,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186255,
+      "num": 186255,
+      "word": "张真源第一章回国",
+      "onboard_time": 1740367641,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 186208,
+      "num": 186208,
+      "word": "余承东官宣原生鸿蒙新形态手机",
+      "onboard_time": 1740365660,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 185631,
       "num": 251460,
       "word": "宋丛人设",
       "onboard_time": 1740325101,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 183928,
+      "num": 188815,
+      "word": "滤镜开播",
+      "onboard_time": 1740367039,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -659,20 +771,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 183081,
-      "num": 183081,
-      "word": "妈妈来横店看你了",
-      "onboard_time": 1740364519,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 181612,
-      "num": 181612,
-      "word": "小米接入DeepSeek",
-      "onboard_time": 1740364280,
-      "rank": 41,
-      "category": "数码,互联网"
+      "raw_hot": 181559,
+      "num": 181559,
+      "word": "广西钟山一起交通事故致6死3伤",
+      "onboard_time": 1740366800,
+      "rank": 47,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 180989,
@@ -691,12 +795,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178754,
-      "num": 178754,
-      "word": "余承东官宣原生鸿蒙新形态手机",
-      "onboard_time": 1740365660,
-      "rank": 47,
-      "category": "数码"
+      "raw_hot": 178420,
+      "num": 178420,
+      "word": "王鹤棣宋茜对手戏",
+      "onboard_time": 1740367820,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 178256,
@@ -708,7 +812,7 @@
     },
     {
       "raw_hot": 177355,
-      "num": 177355,
+      "num": 191522,
       "word": "建议全国推广自制下车站发卡",
       "onboard_time": 1740363499,
       "rank": 45,
@@ -737,14 +841,6 @@
       "onboard_time": 1740303201,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 166404,
-      "num": 166404,
-      "word": "英语二",
-      "onboard_time": 1740365960,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 164274,
@@ -793,6 +889,14 @@
       "onboard_time": 1740312622,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 148434,
+      "num": 396937,
+      "word": "成都一幼儿园建成4年仍闲置",
+      "onboard_time": 1740365901,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144889,
@@ -891,6 +995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119284,
+      "num": 204402,
+      "word": "王楚钦感谢低迷期对自己鼓励的人",
+      "onboard_time": 1740367820,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116981,
       "num": 116981,
       "word": "警方提醒不要随便下载APP",
@@ -939,6 +1051,22 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 90519,
+      "num": 254710,
+      "word": "老人2万买治疗仪竟把自己电到头疼",
+      "onboard_time": 1740366500,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84475,
+      "num": 1213237,
+      "word": "强农惠农富农的政策持续加力",
+      "onboard_time": 1740366019,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 81218,
       "num": 81218,
       "word": "被校服男孩一个伸手暖到了",
@@ -971,20 +1099,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 74150,
-      "num": 347817,
-      "word": "男子套现损失6千发信息说诅咒很灵",
-      "onboard_time": 1740365721,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 73116,
       "num": 73116,
       "word": "当我问DeepSeek对女儿最好的托举",
       "onboard_time": 1740351494,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 66165,
+      "num": 216884,
+      "word": "龙马乘组忙忙碌碌又是一周",
+      "onboard_time": 1740367101,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65796,
@@ -1009,14 +1137,6 @@
       "onboard_time": 1740300440,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 58894,
-      "num": 396937,
-      "word": "成都一幼儿园建成4年仍闲置",
-      "onboard_time": 1740365901,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 57745,
@@ -1051,6 +1171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 50626,
+      "num": 173639,
+      "word": "成毅涂鸦墙",
+      "onboard_time": 1740364701,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 50023,
       "num": 373095,
       "word": "近16年考研国家线汇总",
@@ -1065,14 +1193,6 @@
       "onboard_time": 1740353236,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 39604,
-      "num": 1213237,
-      "word": "强农惠农富农的政策持续加力",
-      "onboard_time": 1740366019,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 39139,
@@ -1105,14 +1225,6 @@
       "onboard_time": 1740331934,
       "rank": 17,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 25101,
-      "num": 167128,
-      "word": "成毅涂鸦墙",
-      "onboard_time": 1740364701,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 23897,
@@ -1177,6 +1289,14 @@
       "onboard_time": 1740335053,
       "rank": 27,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 15399,
+      "num": 219724,
+      "word": "郑某峰若涉罪将来还能做导演吗",
+      "onboard_time": 1740366920,
+      "rank": 29,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 11847,
