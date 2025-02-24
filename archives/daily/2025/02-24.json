@@ -1,6 +1,6 @@
 {
   "startTime": 1740327929685,
-  "endTime": 1740401085125,
+  "endTime": 1740402009365,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1355600,
+      "num": 1355600,
+      "word": "3号厅检票员工 难哄",
+      "onboard_time": 1740398479,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1292531,
       "num": 336495,
       "word": "某某",
@@ -115,12 +123,28 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 1286999,
+      "num": 639224,
+      "word": "李威涉嫌伤害致死",
+      "onboard_time": 1740401241,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1253840,
       "num": 1253840,
       "word": "小小的勇气 赵露思",
       "onboard_time": 1740393739,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1157645,
+      "num": 424043,
+      "word": "包文婧孕肚照",
+      "onboard_time": 1740400520,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1151264,
@@ -152,14 +176,6 @@
       "word": "滤镜 容貌焦虑",
       "onboard_time": 1740396619,
       "rank": 33,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 1122458,
-      "num": 427816,
-      "word": "3号厅检票员工 难哄",
-      "onboard_time": 1740398479,
-      "rank": 6,
       "category": "剧集"
     },
     {
@@ -403,8 +419,16 @@
       "category": "教育"
     },
     {
+      "raw_hot": 690607,
+      "num": 348370,
+      "word": "医学生疑因数据被挪用烧炭身亡",
+      "onboard_time": 1740396019,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 689739,
-      "num": 306920,
+      "num": 638031,
       "word": "上海土拨鼠",
       "onboard_time": 1740397520,
       "rank": 10,
@@ -491,14 +515,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 607963,
-      "num": 303172,
-      "word": "医学生疑因数据被挪用烧炭身亡",
-      "onboard_time": 1740396019,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 603466,
       "num": 603466,
       "word": "中介称杭州网红大楼名声越搞越差",
@@ -563,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 524803,
+      "num": 422836,
+      "word": "央视镜头下的吴倩",
+      "onboard_time": 1740389720,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 521452,
       "num": 521452,
       "word": "毛利兰被击倒了",
@@ -596,19 +620,11 @@
     },
     {
       "raw_hot": 509031,
-      "num": 405615,
+      "num": 419858,
       "word": "湖南卫视重映大唐荣耀",
       "onboard_time": 1740393440,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 508729,
-      "num": 295804,
-      "word": "包文婧孕肚照",
-      "onboard_time": 1740400520,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 502969,
@@ -763,14 +779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 400953,
-      "num": 288218,
-      "word": "央视镜头下的吴倩",
-      "onboard_time": 1740389720,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 400156,
       "num": 400156,
       "word": "男主爱7次结果是1人",
@@ -843,6 +851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 378752,
+      "num": 213564,
+      "word": "英语名师王江涛英语二考80分",
+      "onboard_time": 1740400580,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 359971,
       "num": 359971,
       "word": "央视曝光网购陷阱",
@@ -891,6 +907,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 350424,
+      "num": 350424,
+      "word": "五熊官宣怀孕",
+      "onboard_time": 1740400879,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 348882,
       "num": 348882,
       "word": "敖丙把哪吒哄成胚胎了",
@@ -932,7 +956,7 @@
     },
     {
       "raw_hot": 333097,
-      "num": 280508,
+      "num": 298619,
       "word": "总算见识到刘亦菲的高颅顶了",
       "onboard_time": 1740397819,
       "rank": 20,
@@ -1195,6 +1219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 245913,
+      "num": 245913,
+      "word": "六姊妹",
+      "onboard_time": 1740401061,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 244349,
       "num": 546475,
       "word": "4人千元倒卖哪吒2电影票被拘",
@@ -1267,14 +1299,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 235826,
-      "num": 192806,
-      "word": "英语名师王江涛英语二考80分",
-      "onboard_time": 1740400580,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
       "raw_hot": 232879,
       "num": 322439,
       "word": "管综",
@@ -1305,6 +1329,14 @@
       "onboard_time": 1740392840,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 222453,
+      "num": 212228,
+      "word": "敖犬老婆曾因严重忧郁暴瘦",
+      "onboard_time": 1740401600,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 221744,
@@ -1369,6 +1401,14 @@
       "onboard_time": 1740356179,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 214360,
+      "num": 214360,
+      "word": "曝王大陆因逃兵役丢工作",
+      "onboard_time": 1740401180,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 213340,
@@ -1483,6 +1523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 205035,
+      "num": 205035,
+      "word": "雷军OOTD",
+      "onboard_time": 1740401000,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 204798,
       "num": 209411,
       "word": "谢娜否认将参加花少7",
@@ -1520,6 +1568,14 @@
       "word": "北方在升温了南方也快了",
       "onboard_time": 1740368242,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200648,
+      "num": 299244,
+      "word": "当地回应小学课后延时服务收费",
+      "onboard_time": 1740399499,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -1585,6 +1641,14 @@
       "onboard_time": 1740381439,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 197096,
+      "num": 197096,
+      "word": "章若楠头像大户上新",
+      "onboard_time": 1740400941,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 196282,
@@ -1723,6 +1787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185328,
+      "num": 185328,
+      "word": "李兰迪小小老子脾气爆",
+      "onboard_time": 1740401481,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185147,
       "num": 185147,
       "word": "无限超越班3",
@@ -1763,14 +1835,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 183202,
-      "num": 183202,
-      "word": "五熊官宣怀孕",
-      "onboard_time": 1740400879,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 182920,
       "num": 182920,
       "word": "难哄",
@@ -1788,7 +1852,7 @@
     },
     {
       "raw_hot": 181961,
-      "num": 194896,
+      "num": 246176,
       "word": "逆水寒",
       "onboard_time": 1740399919,
       "rank": 34,
@@ -1873,6 +1937,14 @@
       "onboard_time": 1740387201,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176605,
+      "num": 176605,
+      "word": "每天8杯水到底是多大的杯子",
+      "onboard_time": 1740401660,
+      "rank": 39,
+      "category": "科学科普"
     },
     {
       "raw_hot": 176505,
@@ -2059,14 +2131,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 160990,
-      "num": 299244,
-      "word": "当地回应小学课后延时服务收费",
-      "onboard_time": 1740399499,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 160843,
       "num": 160843,
       "word": "3个月宝宝不想打针装睡被识破",
@@ -2121,14 +2185,6 @@
       "onboard_time": 1740357740,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 157045,
-      "num": 157045,
-      "word": "雷军OOTD",
-      "onboard_time": 1740401000,
-      "rank": 43,
-      "category": "互联网"
     },
     {
       "raw_hot": 156545,
@@ -2235,14 +2291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148404,
-      "num": 148404,
-      "word": "章若楠头像大户上新",
-      "onboard_time": 1740400941,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 148079,
       "num": 148079,
       "word": "捡到了桑延的手机",
@@ -2331,12 +2379,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 137878,
-      "num": 137878,
-      "word": "六姊妹",
-      "onboard_time": 1740401061,
+      "raw_hot": 141640,
+      "num": 300377,
+      "word": "俄称愿与乌克兰和欧洲谈判",
+      "onboard_time": 1740400460,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 139483,
+      "num": 139483,
+      "word": "劝你心情不好时叹叹气",
+      "onboard_time": 1740399619,
       "rank": 48,
-      "category": "剧集"
+      "category": "健康医疗"
     },
     {
       "raw_hot": 137826,
@@ -2441,6 +2497,14 @@
       "onboard_time": 1740358280,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131056,
+      "num": 149049,
+      "word": "极氪007GT将科幻照进现实",
+      "onboard_time": 1740401780,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 130962,
@@ -2635,6 +2699,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 102299,
+      "num": 213924,
+      "word": "太烫的水真的不要喝",
+      "onboard_time": 1740401540,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 100380,
       "num": 244165,
       "word": "王鹤棣新片30秒预告15个身份",
@@ -2729,6 +2801,14 @@
       "onboard_time": 1740359900,
       "rank": 39,
       "category": "教育,互联网"
+    },
+    {
+      "raw_hot": 79110,
+      "num": 298629,
+      "word": "专家称考研实际录取分数线可能会涨",
+      "onboard_time": 1740400760,
+      "rank": 14,
+      "category": "教育"
     },
     {
       "raw_hot": 77712,
@@ -2947,6 +3027,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 54359,
+      "num": 155302,
+      "word": "土拨鼠可爱但收一只不行",
+      "onboard_time": 1740401963,
+      "rank": 43,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 54085,
       "num": 167867,
       "word": "孟子义确认出席米兰时装周",
@@ -2969,6 +3057,14 @@
       "onboard_time": 1740395659,
       "rank": 16,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 53005,
+      "num": 425817,
+      "word": "中方回应乌克兰危机和谈",
+      "onboard_time": 1740401540,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 52219,
@@ -3075,14 +3171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 38310,
-      "num": 297279,
-      "word": "专家称考研实际录取分数线可能会涨",
-      "onboard_time": 1740400760,
-      "rank": 14,
-      "category": "教育"
-    },
-    {
       "raw_hot": 36877,
       "num": 453713,
       "word": "俄乌冲突三年来对全球的影响",
@@ -3177,14 +3265,6 @@
       "onboard_time": 1740381558,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 24830,
-      "num": 284703,
-      "word": "俄称愿与乌克兰和欧洲谈判",
-      "onboard_time": 1740400460,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 23897,
