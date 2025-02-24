@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1740382539555,
+  "endTime": 1740385826593,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -265,6 +265,14 @@
       "onboard_time": 1738032856,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 11010975,
+      "num": 11010975,
+      "word": "2025考研国家线发布",
+      "onboard_time": 1740384441,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 10780408,
@@ -1611,6 +1619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2875244,
+      "num": 2875244,
+      "word": "国家线",
+      "onboard_time": 1740361460,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 2873262,
       "num": 1070739,
       "word": "金赛纶 金秀贤",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1737383781,
       "rank": 31,
       "category": "网红"
-    },
-    {
-      "raw_hot": 2362209,
-      "num": 2362209,
-      "word": "台湾歌手撞人致死第2天仍参加演唱会",
-      "onboard_time": 1736217561,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2358182,
-      "num": 2358182,
-      "word": "张峻豪正式出道",
-      "onboard_time": 1735737440,
-      "rank": 3,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

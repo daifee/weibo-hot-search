@@ -1,7 +1,23 @@
 {
   "startTime": 1740327929685,
-  "endTime": 1740382539555,
+  "endTime": 1740385826593,
   "band_list": [
+    {
+      "raw_hot": 11010975,
+      "num": 11010975,
+      "word": "2025考研国家线发布",
+      "onboard_time": 1740384441,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 2875244,
+      "num": 2875244,
+      "word": "国家线",
+      "onboard_time": 1740361460,
+      "rank": 43,
+      "category": "教育"
+    },
     {
       "raw_hot": 2195594,
       "num": 2195594,
@@ -59,12 +75,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1453541,
-      "num": 1453541,
-      "word": "国家线",
-      "onboard_time": 1740361460,
-      "rank": 43,
-      "category": "教育"
+      "raw_hot": 1483831,
+      "num": 634556,
+      "word": "00后自杀医科大女研究生父亲发声",
+      "onboard_time": 1740381439,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1376671,
@@ -88,6 +104,14 @@
       "word": "联想电脑坏了售后让去美国修",
       "onboard_time": 1740372142,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1144098,
+      "num": 600384,
+      "word": "爷爷得知医学生孙女自杀后脑溢血",
+      "onboard_time": 1740383540,
+      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -180,7 +204,7 @@
     },
     {
       "raw_hot": 914924,
-      "num": 502432,
+      "num": 538354,
       "word": "贾静雯19岁大女儿晒海边比基尼照",
       "onboard_time": 1740374181,
       "rank": 31,
@@ -228,11 +252,19 @@
     },
     {
       "raw_hot": 855289,
-      "num": 334230,
+      "num": 389831,
       "word": "她一个月干了我一辈子的工作",
       "onboard_time": 1740379519,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 816015,
+      "num": 588612,
+      "word": "胎儿给妈妈倒输血出生后全身发白",
+      "onboard_time": 1740382281,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 806736,
@@ -251,14 +283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 801724,
-      "num": 375552,
-      "word": "00后自杀医科大女研究生父亲发声",
-      "onboard_time": 1740381439,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 800841,
       "num": 800841,
       "word": "乌克兰总统称美国赠款不用还",
@@ -273,6 +297,22 @@
       "onboard_time": 1740365600,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 772029,
+      "num": 772029,
+      "word": "王星去录无限超越班了",
+      "onboard_time": 1740382099,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 713879,
+      "num": 713879,
+      "word": "乒乓球从不以金牌论英雄",
+      "onboard_time": 1740381861,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 702246,
@@ -299,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 679038,
+      "num": 679038,
+      "word": "何凯文考研英语89分",
+      "onboard_time": 1740381380,
+      "rank": 21,
+      "category": "教育"
+    },
+    {
       "raw_hot": 665714,
       "num": 665714,
       "word": "小行星撞地球概率调整为接近为零",
@@ -313,6 +361,14 @@
       "onboard_time": 1740366621,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 658493,
+      "num": 658493,
+      "word": "难哄配角 加戏",
+      "onboard_time": 1740382580,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 630105,
@@ -352,6 +408,14 @@
       "word": "章若楠好美",
       "onboard_time": 1740319343,
       "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 572357,
+      "num": 572357,
+      "word": "林允方逸伦牵手逛街好甜",
+      "onboard_time": 1740382099,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -417,14 +481,6 @@
       "onboard_time": 1740322403,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 510542,
-      "num": 337551,
-      "word": "何凯文考研英语89分",
-      "onboard_time": 1740381380,
-      "rank": 21,
-      "category": "教育"
     },
     {
       "raw_hot": 494671,
@@ -555,6 +611,14 @@
       "category": "国际时政,艺人"
     },
     {
+      "raw_hot": 392770,
+      "num": 392770,
+      "word": "颜安喊李昀锐孟子义哥哥嫂子",
+      "onboard_time": 1740385041,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 391757,
       "num": 391757,
       "word": "张凌赫谁允许你这么叫姐姐的",
@@ -579,12 +643,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 383887,
+      "num": 383887,
+      "word": "政协委员建议将法定婚龄调至18岁",
+      "onboard_time": 1740381200,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 382751,
+      "num": 657605,
+      "word": "全红婵保送至暨南大学",
+      "onboard_time": 1740385041,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 359971,
       "num": 359971,
       "word": "央视曝光网购陷阱",
       "onboard_time": 1740318983,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 358359,
+      "num": 358359,
+      "word": "猫的树导演轧戏",
+      "onboard_time": 1740384081,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 358092,
@@ -667,12 +755,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 330553,
-      "num": 330553,
-      "word": "乒乓球从不以金牌论英雄",
-      "onboard_time": 1740381861,
-      "rank": 32,
-      "category": "体育"
+      "raw_hot": 329142,
+      "num": 329142,
+      "word": "国家线 砍一刀",
+      "onboard_time": 1740380959,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 326920,
+      "num": 326920,
+      "word": "小孩哥DeepSeek三步法学数学",
+      "onboard_time": 1740383961,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 321407,
@@ -729,14 +825,6 @@
       "onboard_time": 1740373881,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 300881,
-      "num": 300881,
-      "word": "政协委员建议将法定婚龄调至18岁",
-      "onboard_time": 1740381200,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 299960,
@@ -817,30 +905,6 @@
       "onboard_time": 1740352696,
       "rank": 46,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 274838,
-      "num": 274838,
-      "word": "胎儿给妈妈倒输血出生后全身发白",
-      "onboard_time": 1740382281,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 272459,
-      "num": 333390,
-      "word": "王星去录无限超越班了",
-      "onboard_time": 1740382099,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 267789,
-      "num": 313618,
-      "word": "国家线 砍一刀",
-      "onboard_time": 1740380959,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 267777,
@@ -969,14 +1033,6 @@
       "onboard_time": 1740357860,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 219887,
-      "num": 219887,
-      "word": "林允方逸伦牵手逛街好甜",
-      "onboard_time": 1740382099,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 219859,
@@ -1275,6 +1331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187610,
+      "num": 187610,
+      "word": "王阳孙千首搭制服杀",
+      "onboard_time": 1740385101,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187345,
       "num": 277165,
       "word": "大侦探流星来的那一夜",
@@ -1297,6 +1361,14 @@
       "onboard_time": 1740325101,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184685,
+      "num": 184685,
+      "word": "腾讯回应余承东鸿蒙喊话",
+      "onboard_time": 1740385101,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 184641,
@@ -1443,6 +1515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 173356,
+      "num": 173356,
+      "word": "卢昱晓轧戏出妆路透",
+      "onboard_time": 1740383780,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170312,
       "num": 331454,
       "word": "哪吒2小孩子长得就是快",
@@ -1483,6 +1563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 164046,
+      "num": 150683,
+      "word": "檀健次配音太乙真人",
+      "onboard_time": 1740384141,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160843,
       "num": 160843,
       "word": "3个月宝宝不想打针装睡被识破",
@@ -1515,6 +1603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157863,
+      "num": 154240,
+      "word": "迪丽热巴这几步把这辈子难过的事都想了一遍",
+      "onboard_time": 1740384802,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157703,
       "num": 157703,
       "word": "王楚钦称庆祝动作是在指奖杯",
@@ -1539,12 +1635,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 154396,
+      "num": 154396,
+      "word": "韩国街头8500韩元的韩式拌饭",
+      "onboard_time": 1740384921,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 153798,
       "num": 153798,
       "word": "黄子琪因拍消失的她患深海恐惧症",
       "onboard_time": 1740300740,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151917,
+      "num": 151917,
+      "word": "鞠婧祎田嘉瑞 二搭",
+      "onboard_time": 1740383600,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 149934,
@@ -1595,6 +1707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146859,
+      "num": 329546,
+      "word": "周翊然赛车vlog电影感",
+      "onboard_time": 1740384501,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145408,
       "num": 176893,
       "word": "许昕称王曼昱决赛打得满分",
@@ -1641,6 +1761,14 @@
       "onboard_time": 1740353176,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135946,
+      "num": 955770,
+      "word": "中央一号文件对三农工作划重点",
+      "onboard_time": 1740383180,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 135688,
@@ -1787,11 +1915,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108749,
+      "num": 338399,
+      "word": "不租不买房年轻人盯上长住酒店",
+      "onboard_time": 1740383720,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108282,
       "num": 425584,
       "word": "默茨谈获胜原因",
       "onboard_time": 1740364460,
       "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 107628,
+      "num": 546475,
+      "word": "4人千元倒卖哪吒2电影票被拘",
+      "onboard_time": 1740384202,
+      "rank": 14,
+      "category": "民生新闻,电影"
+    },
+    {
+      "raw_hot": 104710,
+      "num": 285882,
+      "word": "莫斯科民众说乌克兰仍是兄弟",
+      "onboard_time": 1740384381,
+      "rank": 29,
       "category": "国际时政"
     },
     {
@@ -1857,6 +2009,14 @@
       "onboard_time": 1740359900,
       "rank": 39,
       "category": "教育,互联网"
+    },
+    {
+      "raw_hot": 77712,
+      "num": 330185,
+      "word": "王楚钦相信肯定有扭转回来的那一天",
+      "onboard_time": 1740384862,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 77201,
@@ -2059,6 +2219,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 48404,
+      "num": 239253,
+      "word": "一男子自制工具伤害多只猫被行拘",
+      "onboard_time": 1740385161,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46902,
       "num": 155989,
       "word": "徐涛分享考研出分的5点建议",
@@ -2067,12 +2235,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 44905,
+      "num": 207690,
+      "word": "男子一个飞扑救起落水男孩",
+      "onboard_time": 1740385763,
+      "rank": 37,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 42055,
       "num": 494949,
       "word": "60秒回顾俄乌战局变化",
       "onboard_time": 1740374241,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 41716,
+      "num": 390555,
+      "word": "离岸人民币升破7.23关口",
+      "onboard_time": 1740385403,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 40796,
+      "num": 263605,
+      "word": "男子打120调戏女接线员被行拘7天",
+      "onboard_time": 1740385643,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40743,
@@ -2235,6 +2427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19878,
+      "num": 390048,
+      "word": "老戏骨林保怡没拿影帝但赢了人生",
+      "onboard_time": 1740384321,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 18651,
       "num": 18651,
       "word": "火车上破获一起买卖婴儿案",
@@ -2337,6 +2537,9 @@
     },
     {
       "word": "#中国要强农业必须强#"
+    },
+    {
+      "word": "#习近平与陕北农民的一段对话#"
     }
   ]
 }
