@@ -1,6 +1,6 @@
 {
   "startTime": 1740414610412,
-  "endTime": 1740432991215,
+  "endTime": 1740435717493,
   "band_list": [
     {
       "raw_hot": 1148255,
@@ -267,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102957,
+      "num": 77631,
+      "word": "张雨绮前夫袁巴元被限消",
+      "onboard_time": 1740429911,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100567,
       "num": 100567,
       "word": "桑延温以凡睡一起了",
@@ -411,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 57950,
+      "num": 57950,
+      "word": "这个反常行为引起朝阳群众警觉",
+      "onboard_time": 1740431710,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57940,
       "num": 57940,
       "word": "六姊妹",
@@ -427,12 +443,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 44061,
-      "num": 44061,
-      "word": "张雨绮前夫袁巴元被限消",
-      "onboard_time": 1740429911,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 48328,
+      "num": 48328,
+      "word": "俄乌冲突三年给世界带来了什么",
+      "onboard_time": 1740411619,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 45762,
+      "num": 45762,
+      "word": "labubu",
+      "onboard_time": 1740427510,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 42808,
@@ -443,20 +467,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 42222,
-      "num": 42222,
-      "word": "俄乌冲突三年给世界带来了什么",
-      "onboard_time": 1740411619,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 37630,
       "num": 37630,
       "word": "酒吧偶遇蒋奇明",
       "onboard_time": 1740417973,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 36725,
+      "num": 33027,
+      "word": "留学生为父母养老放弃绿卡回国",
+      "onboard_time": 1740422891,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36213,
@@ -467,19 +491,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 35461,
-      "num": 35461,
-      "word": "labubu",
-      "onboard_time": 1740427510,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 32714,
+      "num": 32714,
+      "word": "一男子地铁吵架吼对方听不懂上海话",
+      "onboard_time": 1740422832,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 34701,
-      "num": 28119,
-      "word": "留学生为父母养老放弃绿卡回国",
-      "onboard_time": 1740422891,
-      "rank": 23,
+      "raw_hot": 32297,
+      "num": 32297,
+      "word": "4岁女童每天饮料甜食不断确诊糖尿病",
+      "onboard_time": 1740425772,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -507,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23905,
+      "num": 23905,
+      "word": "根本不敢和酒店其他的人碰面",
+      "onboard_time": 1740427931,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 23167,
       "num": 25671,
       "word": "被小孩哥高情商化解尴尬暖到了",
@@ -523,43 +555,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 22893,
-      "num": 22893,
-      "word": "一男子地铁吵架吼对方听不懂上海话",
-      "onboard_time": 1740422832,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21018,
-      "num": 20158,
-      "word": "根本不敢和酒店其他的人碰面",
-      "onboard_time": 1740427931,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 20940,
-      "num": 34840,
-      "word": "这个反常行为引起朝阳群众警觉",
-      "onboard_time": 1740431710,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 20755,
-      "num": 20755,
+      "num": 22058,
       "word": "农村移风易俗要避免急风骤雨",
       "onboard_time": 1740430511,
       "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19988,
-      "num": 19988,
-      "word": "4岁女童每天饮料甜食不断确诊糖尿病",
-      "onboard_time": 1740425772,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -577,6 +577,14 @@
       "onboard_time": 1740422232,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 16419,
+      "num": 22058,
+      "word": "哪吒汽车从未对哪吒2电影方提起诉讼",
+      "onboard_time": 1740435552,
+      "rank": 47,
+      "category": "汽车,电影"
     },
     {
       "raw_hot": 13535,
