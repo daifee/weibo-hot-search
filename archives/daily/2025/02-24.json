@@ -1,6 +1,6 @@
 {
   "startTime": 1740327929685,
-  "endTime": 1740375563429,
+  "endTime": 1740378794283,
   "band_list": [
     {
       "raw_hot": 2195594,
@@ -51,6 +51,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1624828,
+      "num": 1624828,
+      "word": "查分查到自己考研全国第一belike",
+      "onboard_time": 1740373281,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1453541,
       "num": 1453541,
       "word": "国家线",
@@ -65,14 +73,6 @@
       "onboard_time": 1740323242,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1340224,
-      "num": 1340224,
-      "word": "查分查到自己考研全国第一belike",
-      "onboard_time": 1740373281,
-      "rank": 19,
-      "category": "教育"
     },
     {
       "raw_hot": 1292531,
@@ -97,6 +97,14 @@
       "onboard_time": 1740320782,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1083170,
+      "num": 639495,
+      "word": "窃贼买彩票中381万受害者要求分奖金",
+      "onboard_time": 1740373701,
+      "rank": 26,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1057809,
@@ -131,6 +139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 988249,
+      "num": 988249,
+      "word": "迪丽热巴我觉得有点尴尬",
+      "onboard_time": 1740373941,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 967796,
       "num": 322366,
       "word": "鹿晗关晓彤分手博坚持打卡2694天",
@@ -145,6 +161,22 @@
       "onboard_time": 1740326120,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 949900,
+      "num": 949900,
+      "word": "坏回暖来了",
+      "onboard_time": 1740375681,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 914924,
+      "num": 502432,
+      "word": "贾静雯19岁大女儿晒海边比基尼照",
+      "onboard_time": 1740374181,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 902859,
@@ -219,6 +251,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 684792,
+      "num": 472102,
+      "word": "陈妍希官宣离婚后与友人聚餐",
+      "onboard_time": 1740374422,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 683513,
       "num": 683513,
       "word": "赵丽颖四平台破万",
@@ -227,36 +267,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 665714,
+      "num": 665714,
+      "word": "小行星撞地球概率调整为接近为零",
+      "onboard_time": 1740373642,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 662616,
       "num": 629560,
       "word": "开始推理吧3",
       "onboard_time": 1740366621,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 644723,
-      "num": 502432,
-      "word": "贾静雯19岁大女儿晒海边比基尼照",
-      "onboard_time": 1740374181,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 639495,
-      "num": 639495,
-      "word": "窃贼买彩票中381万受害者要求分奖金",
-      "onboard_time": 1740373701,
-      "rank": 26,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 632252,
-      "num": 632252,
-      "word": "小行星撞地球概率调整为接近为零",
-      "onboard_time": 1740373642,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 630105,
@@ -289,14 +313,6 @@
       "onboard_time": 1740319343,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 574527,
-      "num": 472102,
-      "word": "陈妍希官宣离婚后与友人聚餐",
-      "onboard_time": 1740374422,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 564288,
@@ -387,6 +403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 464805,
+      "num": 307995,
+      "word": "王子文带儿子和亲友聚餐",
+      "onboard_time": 1740375322,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 457945,
       "num": 457945,
       "word": "王曼昱集齐亚洲三大赛单打金牌",
@@ -411,15 +435,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 427026,
-      "num": 396357,
-      "word": "迪丽热巴我觉得有点尴尬",
-      "onboard_time": 1740373941,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 418178,
+      "raw_hot": 428312,
       "num": 461802,
       "word": "偶遇王俊凯公园锻炼",
       "onboard_time": 1740373341,
@@ -619,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 303755,
+      "num": 303755,
+      "word": "迪丽热巴脚趾接大工程了",
+      "onboard_time": 1740378081,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 299960,
       "num": 299960,
       "word": "被王楚钦的庆祝动作硬控了",
@@ -643,20 +667,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 294100,
-      "num": 294100,
-      "word": "王子文带儿子和亲友聚餐",
-      "onboard_time": 1740375322,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 292799,
       "num": 292799,
       "word": "高露洁 孙颖莎",
       "onboard_time": 1740353416,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 292187,
+      "num": 292187,
+      "word": "滤镜直播",
+      "onboard_time": 1740377721,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 289617,
@@ -675,12 +699,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 277171,
+      "num": 249672,
+      "word": "考研人数大幅下降考研会更简单吗",
+      "onboard_time": 1740376100,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 276004,
       "num": 276004,
       "word": "乌总统称不签需十代人付出代价协议",
       "onboard_time": 1740352696,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 269477,
+      "num": 269477,
+      "word": "小行星撞地球概率为何一变再变",
+      "onboard_time": 1740376159,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 266472,
@@ -755,6 +795,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 235878,
+      "num": 235878,
+      "word": "难哄剧组聚餐vlog",
+      "onboard_time": 1740375021,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232879,
       "num": 322439,
       "word": "管综",
@@ -769,14 +817,6 @@
       "onboard_time": 1740360738,
       "rank": 36,
       "category": "教育"
-    },
-    {
-      "raw_hot": 223778,
-      "num": 223778,
-      "word": "难哄剧组聚餐vlog",
-      "onboard_time": 1740375021,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 221744,
@@ -843,6 +883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 213781,
+      "num": 213781,
+      "word": "刘亦菲素颜逛家具城",
+      "onboard_time": 1740376283,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213340,
       "num": 313587,
       "word": "桑延 来财",
@@ -873,6 +921,14 @@
       "onboard_time": 1740373402,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 211364,
+      "num": 211364,
+      "word": "52岁女子跳断头舞走红",
+      "onboard_time": 1740375142,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 210034,
@@ -921,6 +977,14 @@
       "onboard_time": 1740364519,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205322,
+      "num": 205322,
+      "word": "乌克兰",
+      "onboard_time": 1740373222,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 203887,
@@ -1051,6 +1115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190150,
+      "num": 212353,
+      "word": "敖丙把哪吒哄成胚胎了",
+      "onboard_time": 1740377601,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 187345,
       "num": 277165,
       "word": "大侦探流星来的那一夜",
@@ -1072,6 +1144,14 @@
       "word": "宋丛人设",
       "onboard_time": 1740325101,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 184641,
+      "num": 211704,
+      "word": "闺蜜走后我活成了她的样子",
+      "onboard_time": 1740377303,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -1235,6 +1315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 163010,
+      "num": 305957,
+      "word": "员工如厕须带离岗证且限次数和时间",
+      "onboard_time": 1740377001,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160016,
       "num": 275979,
       "word": "泽连斯基称将与特朗普会谈",
@@ -1243,12 +1331,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 158590,
-      "num": 158590,
-      "word": "52岁女子跳断头舞走红",
-      "onboard_time": 1740375142,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 159595,
+      "num": 159595,
+      "word": "EDG公告",
+      "onboard_time": 1740376822,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 157703,
@@ -1329,6 +1417,14 @@
       "onboard_time": 1740362536,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 140035,
+      "num": 294610,
+      "word": "泽连斯基再表态称希望得到中国帮助",
+      "onboard_time": 1740374839,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 136464,
@@ -1451,6 +1547,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 113880,
+      "num": 165935,
+      "word": "山东考研",
+      "onboard_time": 1740375021,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 111818,
       "num": 111818,
       "word": "5个考研查分通道",
@@ -1475,6 +1579,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 100380,
+      "num": 244165,
+      "word": "王鹤棣新片30秒预告15个身份",
+      "onboard_time": 1740377421,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 95027,
+      "num": 213167,
+      "word": "考研人查成绩状态一览",
+      "onboard_time": 1740378621,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 92904,
       "num": 963242,
       "word": "这些春菜里藏着春天的味道",
@@ -1489,6 +1609,14 @@
       "onboard_time": 1740369322,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 86501,
+      "num": 189690,
+      "word": "檀健次跳舞",
+      "onboard_time": 1740378741,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 85820,
@@ -1539,14 +1667,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 69524,
-      "num": 294610,
-      "word": "泽连斯基再表态称希望得到中国帮助",
-      "onboard_time": 1740374839,
-      "rank": 28,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 66165,
       "num": 216884,
       "word": "龙马乘组忙忙碌碌又是一周",
@@ -1577,6 +1697,14 @@
       "onboard_time": 1740361819,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 61655,
+      "num": 259149,
+      "word": "deepseek教你如何和香菜共处",
+      "onboard_time": 1740377001,
+      "rank": 19,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 60883,
@@ -1643,6 +1771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 54517,
+      "num": 211598,
+      "word": "考研调剂不是退而求其次",
+      "onboard_time": 1740377541,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 54085,
       "num": 167867,
       "word": "孟子义确认出席米兰时装周",
@@ -1673,6 +1809,14 @@
       "onboard_time": 1740353236,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 47679,
+      "num": 211997,
+      "word": "人民日报社论解读中央一号文件",
+      "onboard_time": 1740378500,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 46902,
@@ -1723,6 +1867,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 36604,
+      "num": 213765,
+      "word": "讨厌香菜可能是命中注定",
+      "onboard_time": 1740378081,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 36333,
       "num": 36333,
       "word": "买了会员卡碰上职业闭店人怎么办",
@@ -1753,6 +1905,14 @@
       "onboard_time": 1740331934,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 28685,
+      "num": 213199,
+      "word": "你一般每天睡多长时间",
+      "onboard_time": 1740377721,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 27891,
@@ -1801,6 +1961,14 @@
       "onboard_time": 1740339431,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17468,
+      "num": 212763,
+      "word": "美航客机收到炸弹威胁改道意大利",
+      "onboard_time": 1740378621,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 16802,
