@@ -1,6 +1,6 @@
 {
   "startTime": 1740414610412,
-  "endTime": 1740415558933,
+  "endTime": 1740417568613,
   "band_list": [
     {
       "raw_hot": 1148255,
@@ -107,20 +107,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 238778,
+      "num": 238778,
+      "word": "长期熬夜晚睡消耗气血",
+      "onboard_time": 1740412938,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 232419,
       "num": 201074,
       "word": "小小的勇气 赵露思",
       "onboard_time": 1740393739,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 222365,
-      "num": 222365,
-      "word": "长期熬夜晚睡消耗气血",
-      "onboard_time": 1740412938,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 217497,
@@ -137,6 +137,14 @@
       "onboard_time": 1740404062,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 210022,
+      "num": 210022,
+      "word": "高校聘博士初中学历配偶属劳务派遣",
+      "onboard_time": 1740415936,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 188551,
@@ -387,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 59153,
+      "num": 59153,
+      "word": "难哄导演给白敬亭拍出偶像包袱了",
+      "onboard_time": 1740415275,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 57940,
       "num": 57940,
       "word": "六姊妹",
@@ -401,6 +417,14 @@
       "onboard_time": 1740406522,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 42808,
+      "num": 42808,
+      "word": "比起来月经 器官时间不和谐更让我烦躁",
+      "onboard_time": 1740387263,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 36213,
@@ -419,6 +443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 22267,
+      "num": 137294,
+      "word": "湖北师大回应录用初中学历人员",
+      "onboard_time": 1740417134,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11770,
       "num": 93470,
       "word": "接考研国家线降分",
@@ -430,6 +462,9 @@
   "hotgov_list": [
     {
       "word": "#习近平同俄罗斯总统普京通电话#"
+    },
+    {
+      "word": "#习近平同普京通电话#"
     }
   ]
 }
