@@ -1,0 +1,410 @@
+{
+  "runTime": 1740428740702,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 108241,
+        "num": 108241,
+        "word": "千金归来",
+        "onboard_time": 1740410899,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77067,
+        "num": 77067,
+        "word": "长期熬夜晚睡消耗气血",
+        "onboard_time": 1740412938,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 15177,
+        "num": 75698,
+        "word": "专家解读中央一号文件亮点",
+        "onboard_time": 1740406522,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 75632,
+        "num": 75632,
+        "word": "李威涉嫌伤害致死",
+        "onboard_time": 1740401241,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57221,
+        "num": 57221,
+        "word": "高校聘博士初中学历配偶属劳务派遣",
+        "onboard_time": 1740415936,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49003,
+        "num": 49003,
+        "word": "吉祥航空被曝给乘客发过期坚果",
+        "onboard_time": 1740410899,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63601,
+        "num": 48188,
+        "word": "哪吒票房",
+        "onboard_time": 1740410721,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 44573,
+        "num": 44573,
+        "word": "特朗普迟到让波兰总统干等1.5小时",
+        "onboard_time": 1740405322,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 40159,
+        "num": 40159,
+        "word": "李威已被保释",
+        "onboard_time": 1740408143,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39740,
+        "num": 39740,
+        "word": "俄乌冲突三年给世界带来了什么",
+        "onboard_time": 1740411619,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107898,
+        "num": 39138,
+        "word": "教授公开聊天记录指责学生娇生惯养",
+        "onboard_time": 1740403520,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35255,
+        "num": 35255,
+        "word": "网友怒斥遇一男团插队登机",
+        "onboard_time": 1740407662,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30452,
+        "num": 30452,
+        "word": "女子曝在西藏旅游遭出租车司机套路",
+        "onboard_time": 1740408622,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29972,
+        "num": 29972,
+        "word": "总算见识到刘亦菲的高颅顶了",
+        "onboard_time": 1740397819,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28835,
+        "num": 28835,
+        "word": "滤镜 容貌焦虑",
+        "onboard_time": 1740396619,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27151,
+        "num": 27151,
+        "word": "湖北师大回应录用初中学历人员",
+        "onboard_time": 1740417134,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25029,
+        "num": 25029,
+        "word": "西北大学回应贾浅浅更改简历",
+        "onboard_time": 1740410120,
+        "rank": 16,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 24799,
+        "num": 24799,
+        "word": "敖犬老婆曾因严重忧郁暴瘦",
+        "onboard_time": 1740401600,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23893,
+        "num": 23893,
+        "word": "吉祥航空回应被曝给乘客过期坚果",
+        "onboard_time": 1740413237,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23203,
+        "num": 23203,
+        "word": "包文婧孕肚照",
+        "onboard_time": 1740400520,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34701,
+        "num": 23193,
+        "word": "留学生为父母养老放弃绿卡回国",
+        "onboard_time": 1740422891,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26321,
+        "num": 23191,
+        "word": "六姊妹大结局",
+        "onboard_time": 1740404062,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23167,
+        "num": 23167,
+        "word": "贾浅浅已博士毕业",
+        "onboard_time": 1740412040,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22893,
+        "num": 22893,
+        "word": "一男子地铁吵架吼对方听不懂上海话",
+        "onboard_time": 1740422832,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19781,
+        "num": 19781,
+        "word": "六姊妹",
+        "onboard_time": 1740401061,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19391,
+        "num": 19391,
+        "word": "原来头皮屑变多是因为溢脂性皮炎",
+        "onboard_time": 1740398720,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 19092,
+        "num": 19092,
+        "word": "丈夫设局让妻子离婚时背75万巨债",
+        "onboard_time": 1740407422,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18853,
+        "num": 18853,
+        "word": "2025考研国家线发布",
+        "onboard_time": 1740384441,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 18227,
+        "num": 18227,
+        "word": "英语名师王江涛英语二考80分",
+        "onboard_time": 1740400580,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 18156,
+        "num": 18156,
+        "word": "酒吧偶遇蒋奇明",
+        "onboard_time": 1740417973,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17557,
+        "num": 17557,
+        "word": "labubu",
+        "onboard_time": 1740427510,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17389,
+        "num": 17389,
+        "word": "4岁女童每天饮料甜食不断确诊糖尿病",
+        "onboard_time": 1740425772,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17318,
+        "num": 17318,
+        "word": "五熊官宣怀孕",
+        "onboard_time": 1740400879,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17306,
+        "num": 17306,
+        "word": "女子在公司微信群看到自己被裁员",
+        "onboard_time": 1740390380,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17065,
+        "num": 17065,
+        "word": "每天8杯水到底是多大的杯子",
+        "onboard_time": 1740401660,
+        "rank": 34,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 16573,
+        "num": 16573,
+        "word": "小小的勇气 赵露思",
+        "onboard_time": 1740393739,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16501,
+        "num": 16501,
+        "word": "连续跑步35天的面部变化",
+        "onboard_time": 1740409462,
+        "rank": 36,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 16353,
+        "num": 16353,
+        "word": "桑延温以凡睡一起了",
+        "onboard_time": 1740402201,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15118,
+        "num": 16351,
+        "word": "Loong9回应插队登机",
+        "onboard_time": 1740409881,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14450,
+        "num": 16348,
+        "word": "比起来月经 器官时间不和谐更让我烦躁",
+        "onboard_time": 1740387263,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14416,
+        "num": 16347,
+        "word": "难哄导演给白敬亭拍出偶像包袱了",
+        "onboard_time": 1740415275,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14339,
+        "num": 16345,
+        "word": "关晓彤事业心",
+        "onboard_time": 1740396619,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14012,
+        "num": 16342,
+        "word": "根本不敢和酒店其他的人碰面",
+        "onboard_time": 1740427931,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 13777,
+        "num": 16339,
+        "word": "TES让一追三nip",
+        "onboard_time": 1740413237,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 13627,
+        "num": 16338,
+        "word": "丁程鑫23岁状态",
+        "onboard_time": 1740419353,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13080,
+        "num": 16335,
+        "word": "因为爱聊天获诺贝尔一直讲",
+        "onboard_time": 1740418333,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12762,
+        "num": 16334,
+        "word": "妈妈 我有学上了",
+        "onboard_time": 1740388818,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 12552,
+        "num": 16331,
+        "word": "央视镜头下的吴倩",
+        "onboard_time": 1740389720,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11923,
+        "num": 16328,
+        "word": "多方辟谣网传车主被索要5千过路费",
+        "onboard_time": 1740419353,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11321,
+        "num": 16326,
+        "word": "男童卡喉脸已发紫路人出手了",
+        "onboard_time": 1740428651,
+        "rank": 49,
+        "category": "正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同俄罗斯总统普京通电话#"
+    }
+  }
+}
