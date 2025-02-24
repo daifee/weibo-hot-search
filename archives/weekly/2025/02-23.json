@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740372066692,
+  "endTime": 1740374571154,
   "band_list": [
     {
       "raw_hot": 4198472,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1905873,
-      "num": 421022,
+      "num": 449389,
       "word": "建议睡觉时把手机放1.5米以外",
       "onboard_time": 1740367882,
       "rank": 15,
@@ -383,6 +383,14 @@
       "num": 959509,
       "word": "骗子盯上了你的手机NFC功能",
       "onboard_time": 1740326120,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 957630,
+      "num": 957630,
+      "word": "联想电脑坏了售后让去美国修",
+      "onboard_time": 1740372142,
       "rank": 1,
       "category": "民生新闻"
     },
@@ -756,7 +764,7 @@
     },
     {
       "raw_hot": 628520,
-      "num": 413097,
+      "num": 446149,
       "word": "5旬算命先生被情人喂百草枯中毒身亡",
       "onboard_time": 1740368780,
       "rank": 21,
@@ -801,6 +809,14 @@
       "onboard_time": 1740302659,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 564288,
+      "num": 564288,
+      "word": "半熟恋人4官宣",
+      "onboard_time": 1740372741,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 556008,
@@ -907,6 +923,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 521452,
+      "num": 521452,
+      "word": "毛利兰被击倒了",
+      "onboard_time": 1740369140,
+      "rank": 17,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 520220,
       "num": 520220,
       "word": "敖光",
@@ -921,6 +945,14 @@
       "onboard_time": 1740361699,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 518789,
+      "num": 518789,
+      "word": "林允站姐级别的出片",
+      "onboard_time": 1740369920,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 513707,
@@ -939,6 +971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 494671,
+      "num": 494671,
+      "word": "谭瑞松被开除党籍",
+      "onboard_time": 1740368540,
+      "rank": 46,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 492059,
       "num": 492059,
       "word": "郭艾伦要求队友担责或需提供证明",
@@ -953,6 +993,14 @@
       "onboard_time": 1740312679,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 483370,
+      "num": 483370,
+      "word": "迪丽热巴金靖直播走秀",
+      "onboard_time": 1740372263,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 476136,
@@ -977,6 +1025,14 @@
       "onboard_time": 1740324081,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 457162,
+      "num": 457162,
+      "word": "查分查到自己考研全国第一belike",
+      "onboard_time": 1740373281,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 455580,
@@ -1009,22 +1065,6 @@
       "onboard_time": 1740332474,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 444550,
-      "num": 444550,
-      "word": "谭瑞松被开除党籍",
-      "onboard_time": 1740368540,
-      "rank": 46,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 437408,
-      "num": 437408,
-      "word": "毛利兰被击倒了",
-      "onboard_time": 1740369140,
-      "rank": 17,
-      "category": "动漫"
     },
     {
       "raw_hot": 430512,
@@ -1089,6 +1129,14 @@
       "onboard_time": 1740282017,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 400156,
+      "num": 400156,
+      "word": "男主爱7次结果是1人",
+      "onboard_time": 1740373041,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 399509,
@@ -1259,6 +1307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 358334,
+      "num": 358334,
+      "word": "窃贼买彩票中381万受害者要求分奖金",
+      "onboard_time": 1740373701,
+      "rank": 26,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 358029,
       "num": 358029,
       "word": "国企拟录用3名本科生名单被删",
@@ -1363,14 +1419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 339878,
-      "num": 339878,
-      "word": "林允站姐级别的出片",
-      "onboard_time": 1740369920,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 339753,
       "num": 275626,
       "word": "金泰亨肌肉",
@@ -1435,6 +1483,22 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 319361,
+      "num": 461802,
+      "word": "偶遇王俊凯公园锻炼",
+      "onboard_time": 1740373341,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 318244,
+      "num": 318244,
+      "word": "米兰街头偶遇肖战逛街",
+      "onboard_time": 1740372922,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 318115,
       "num": 318115,
       "word": "来深毕业生免费7天住升级为15天",
@@ -1483,12 +1547,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 306195,
+      "num": 306195,
+      "word": "贾静雯19岁大女儿晒海边比基尼照",
+      "onboard_time": 1740374181,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 306121,
       "num": 356778,
       "word": "肖战米兰到达",
       "onboard_time": 1740310578,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 305762,
+      "num": 333544,
+      "word": "没人能在雪景里打败刘诗诗",
+      "onboard_time": 1740373881,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 301902,
@@ -1523,6 +1603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 294704,
+      "num": 294704,
+      "word": "迪丽热巴我觉得有点尴尬",
+      "onboard_time": 1740373941,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 292799,
       "num": 292799,
       "word": "高露洁 孙颖莎",
@@ -1537,6 +1625,14 @@
       "onboard_time": 1740310760,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 292302,
+      "num": 519686,
+      "word": "小行星撞地球概率调整为接近为零",
+      "onboard_time": 1740373642,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 289617,
@@ -2027,6 +2123,14 @@
       "category": "数码,互联网"
     },
     {
+      "raw_hot": 218866,
+      "num": 408883,
+      "word": "25考研",
+      "onboard_time": 1740373341,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 218022,
       "num": 259834,
       "word": "A股",
@@ -2113,6 +2217,14 @@
       "onboard_time": 1740365960,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 208231,
+      "num": 208231,
+      "word": "父亲让俩儿子抓阄凭运气选房",
+      "onboard_time": 1740372862,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 206451,
@@ -2323,6 +2435,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194110,
+      "num": 194110,
+      "word": "韩庚米兰街头再跳SorrySorry",
+      "onboard_time": 1740374061,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 193947,
+      "num": 193947,
+      "word": "滤镜",
+      "onboard_time": 1740280519,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193744,
       "num": 193744,
       "word": "王楚钦捧起奖杯",
@@ -2393,6 +2521,14 @@
       "onboard_time": 1740367340,
       "rank": 43,
       "category": "互联网,游戏"
+    },
+    {
+      "raw_hot": 190988,
+      "num": 190988,
+      "word": "陈妍希官宣离婚后与友人聚餐",
+      "onboard_time": 1740374422,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 190675,
@@ -2689,6 +2825,22 @@
       "onboard_time": 1740289159,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174742,
+      "num": 174742,
+      "word": "哪吒2香港票房两天超两千万",
+      "onboard_time": 1740373041,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 173968,
+      "num": 544531,
+      "word": "男子3年频繁跳槽只为窃密",
+      "onboard_time": 1740371481,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173720,
@@ -3027,6 +3179,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 158005,
+      "num": 495874,
+      "word": "欧洲内部对俄态度出现分裂",
+      "onboard_time": 1740373402,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 157703,
       "num": 157703,
       "word": "王楚钦称庆祝动作是在指奖杯",
@@ -3139,6 +3299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148785,
+      "num": 279430,
+      "word": "全场都在找孙颖莎",
+      "onboard_time": 1740370341,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148434,
       "num": 396937,
       "word": "成都一幼儿园建成4年仍闲置",
@@ -3195,6 +3363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 145515,
+      "num": 145515,
+      "word": "国产剧进入千禧梦核时代",
+      "onboard_time": 1740374542,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145408,
       "num": 176893,
       "word": "许昕称王曼昱决赛打得满分",
@@ -3225,14 +3401,6 @@
       "onboard_time": 1740281359,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 143204,
-      "num": 279430,
-      "word": "全场都在找孙颖莎",
-      "onboard_time": 1740370341,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 142004,
@@ -3401,14 +3569,6 @@
       "onboard_time": 1740300379,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 129027,
-      "num": 129027,
-      "word": "滤镜",
-      "onboard_time": 1740280519,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 127769,
@@ -4211,14 +4371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 51237,
-      "num": 544531,
-      "word": "男子3年频繁跳槽只为窃密",
-      "onboard_time": 1740371481,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 51014,
       "num": 168106,
       "word": "卢昱晓收工第一件事",
@@ -4305,6 +4457,14 @@
       "onboard_time": 1740239181,
       "rank": 49,
       "category": "汽车,互联网"
+    },
+    {
+      "raw_hot": 40743,
+      "num": 340479,
+      "word": "70后的我学会做一个退场的父母",
+      "onboard_time": 1740372922,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40682,
@@ -4537,6 +4697,14 @@
       "onboard_time": 1740251292,
       "rank": 36,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 20865,
+      "num": 494949,
+      "word": "60秒回顾俄乌战局变化",
+      "onboard_time": 1740374241,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 20653,

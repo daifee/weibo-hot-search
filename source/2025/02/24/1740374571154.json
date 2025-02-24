@@ -1,0 +1,410 @@
+{
+  "runTime": 1740374571154,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 959240,
+        "num": 1153478,
+        "word": "考研查分",
+        "onboard_time": 1740353295,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 957630,
+        "num": 957630,
+        "word": "联想电脑坏了售后让去美国修",
+        "onboard_time": 1740372142,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68495,
+        "num": 873015,
+        "word": "强农惠农富农的政策持续加力",
+        "onboard_time": 1740366019,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 837443,
+        "num": 837443,
+        "word": "国家线",
+        "onboard_time": 1740361460,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 638222,
+        "num": 638222,
+        "word": "赵丽颖四平台破万",
+        "onboard_time": 1740371241,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 626579,
+        "num": 626579,
+        "word": "星河入梦定档",
+        "onboard_time": 1740363680,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 564288,
+        "num": 564288,
+        "word": "半熟恋人4官宣",
+        "onboard_time": 1740372741,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 526131,
+        "num": 526131,
+        "word": "权志龙 我们三个也不是想这样才三个人的",
+        "onboard_time": 1740365600,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 521452,
+        "num": 521452,
+        "word": "毛利兰被击倒了",
+        "onboard_time": 1740369140,
+        "rank": 8,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 292302,
+        "num": 519686,
+        "word": "小行星撞地球概率调整为接近为零",
+        "onboard_time": 1740373642,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 518789,
+        "num": 518789,
+        "word": "林允站姐级别的出片",
+        "onboard_time": 1740369920,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 508534,
+        "num": 508534,
+        "word": "乌克兰取消战时状态后将选总统",
+        "onboard_time": 1740355518,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 500270,
+        "num": 500270,
+        "word": "泽连斯基说希望在重建中得到中国帮助",
+        "onboard_time": 1740365000,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158005,
+        "num": 495874,
+        "word": "欧洲内部对俄态度出现分裂",
+        "onboard_time": 1740373402,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20865,
+        "num": 494949,
+        "word": "60秒回顾俄乌战局变化",
+        "onboard_time": 1740374241,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 494671,
+        "num": 494671,
+        "word": "谭瑞松被开除党籍",
+        "onboard_time": 1740368540,
+        "rank": 15,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 483567,
+        "num": 483567,
+        "word": "网剧轧戏",
+        "onboard_time": 1740362059,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 483370,
+        "num": 483370,
+        "word": "迪丽热巴金靖直播走秀",
+        "onboard_time": 1740372263,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319361,
+        "num": 461802,
+        "word": "偶遇王俊凯公园锻炼",
+        "onboard_time": 1740373341,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 457162,
+        "num": 457162,
+        "word": "查分查到自己考研全国第一belike",
+        "onboard_time": 1740373281,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 602133,
+        "num": 449389,
+        "word": "建议睡觉时把手机放1.5米以外",
+        "onboard_time": 1740367882,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 460459,
+        "num": 446149,
+        "word": "5旬算命先生被情人喂百草枯中毒身亡",
+        "onboard_time": 1740368780,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 435916,
+        "num": 435916,
+        "word": "iPhone17全系CAD图",
+        "onboard_time": 1740365600,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 420220,
+        "num": 420220,
+        "word": "麦琳cos十年前的自己",
+        "onboard_time": 1740368421,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218866,
+        "num": 408883,
+        "word": "25考研",
+        "onboard_time": 1740373341,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 400156,
+        "num": 400156,
+        "word": "男主爱7次结果是1人",
+        "onboard_time": 1740373041,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 358334,
+        "num": 358334,
+        "word": "窃贼买彩票中381万受害者要求分奖金",
+        "onboard_time": 1740373701,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 40743,
+        "num": 340479,
+        "word": "70后的我学会做一个退场的父母",
+        "onboard_time": 1740372922,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305762,
+        "num": 333544,
+        "word": "没人能在雪景里打败刘诗诗",
+        "onboard_time": 1740373881,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 331911,
+        "num": 331911,
+        "word": "男子套现损失6千发信息说诅咒很灵",
+        "onboard_time": 1740365721,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318244,
+        "num": 318244,
+        "word": "米兰街头偶遇肖战逛街",
+        "onboard_time": 1740372922,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306195,
+        "num": 306195,
+        "word": "贾静雯19岁大女儿晒海边比基尼照",
+        "onboard_time": 1740374181,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294704,
+        "num": 294704,
+        "word": "迪丽热巴我觉得有点尴尬",
+        "onboard_time": 1740373941,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272620,
+        "num": 272620,
+        "word": "英语一我恨你",
+        "onboard_time": 1740362179,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 259180,
+        "num": 259180,
+        "word": "小哪吒海外打赢美队4",
+        "onboard_time": 1740366381,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 221072,
+        "num": 221072,
+        "word": "原来长这样的就是淋巴肉",
+        "onboard_time": 1740366500,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 208786,
+        "num": 208786,
+        "word": "白雪公主内地定档3月21日",
+        "onboard_time": 1740367160,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 208231,
+        "num": 208231,
+        "word": "父亲让俩儿子抓阄凭运气选房",
+        "onboard_time": 1740372862,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206125,
+        "num": 206125,
+        "word": "开始推理吧直播",
+        "onboard_time": 1740368060,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194110,
+        "num": 194110,
+        "word": "韩庚米兰街头再跳SorrySorry",
+        "onboard_time": 1740374061,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193947,
+        "num": 193947,
+        "word": "滤镜",
+        "onboard_time": 1740374299,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190988,
+        "num": 190988,
+        "word": "陈妍希官宣离婚后与友人聚餐",
+        "onboard_time": 1740374422,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182920,
+        "num": 182920,
+        "word": "难哄",
+        "onboard_time": 1740372682,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174742,
+        "num": 174742,
+        "word": "哪吒2香港票房两天超两千万",
+        "onboard_time": 1740373041,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 173968,
+        "num": 173968,
+        "word": "男子3年频繁跳槽只为窃密",
+        "onboard_time": 1740371481,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170001,
+        "num": 170001,
+        "word": "张晚意出道10年第一部双世剧",
+        "onboard_time": 1740367101,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167754,
+        "num": 167754,
+        "word": "孟子义给粉丝送手串",
+        "onboard_time": 1740370401,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166342,
+        "num": 166342,
+        "word": "印度女孩13岁起被60余人性侵5年",
+        "onboard_time": 1740327438,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 148785,
+        "num": 148785,
+        "word": "全场都在找孙颖莎",
+        "onboard_time": 1740370341,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145515,
+        "num": 145515,
+        "word": "国产剧进入千禧梦核时代",
+        "onboard_time": 1740374542,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#扎实推进乡村全面振兴#"
+    }
+  }
+}
