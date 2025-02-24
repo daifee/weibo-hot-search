@@ -1,6 +1,6 @@
 {
   "startTime": 1740327929685,
-  "endTime": 1740410780970,
+  "endTime": 1740411610291,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -163,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1149049,
+      "num": 497464,
+      "word": "网友怒斥遇一男团插队登机",
+      "onboard_time": 1740407662,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1144098,
       "num": 659052,
       "word": "爷爷得知医学生孙女自杀后脑溢血",
@@ -267,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 971194,
+      "num": 465825,
+      "word": "李威已被保释",
+      "onboard_time": 1740408143,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 967796,
       "num": 322366,
       "word": "鹿晗关晓彤分手博坚持打卡2694天",
@@ -281,14 +297,6 @@
       "onboard_time": 1740326120,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 936303,
-      "num": 465825,
-      "word": "李威已被保释",
-      "onboard_time": 1740408143,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 914924,
@@ -313,14 +321,6 @@
       "onboard_time": 1740365721,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 891537,
-      "num": 464547,
-      "word": "网友怒斥遇一男团插队登机",
-      "onboard_time": 1740407662,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 889794,
@@ -1019,6 +1019,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 352462,
+      "num": 352462,
+      "word": "西北大学回应贾浅浅更改简历",
+      "onboard_time": 1740410120,
+      "rank": 14,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 350671,
       "num": 350671,
       "word": "中央一号文件划重点",
@@ -1073,6 +1081,14 @@
       "onboard_time": 1740360858,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 329672,
+      "num": 364114,
+      "word": "丈夫设局让妻子离婚时背75万巨债",
+      "onboard_time": 1740407422,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 329142,
@@ -1145,14 +1161,6 @@
       "onboard_time": 1740362059,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 308335,
-      "num": 364114,
-      "word": "丈夫设局让妻子离婚时背75万巨债",
-      "onboard_time": 1740407422,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 307924,
@@ -1305,6 +1313,14 @@
       "onboard_time": 1740381081,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 266818,
+      "num": 409370,
+      "word": "Loong9回应插队登机",
+      "onboard_time": 1740409881,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 266472,
@@ -1483,6 +1499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 230260,
+      "num": 230260,
+      "word": "千金归来",
+      "onboard_time": 1740410899,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221982,
       "num": 310364,
       "word": "女大学生打车18公里被收581元",
@@ -1563,20 +1587,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 216429,
+      "num": 216429,
+      "word": "很喜欢用嘿嘿这两个字",
+      "onboard_time": 1740404963,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 214860,
       "num": 291413,
       "word": "杭州武汉本周热到快30摄氏度",
       "onboard_time": 1740356179,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 214510,
-      "num": 214510,
-      "word": "很喜欢用嘿嘿这两个字",
-      "onboard_time": 1740404963,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 213340,
@@ -1705,6 +1729,14 @@
       "onboard_time": 1740401000,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 205010,
+      "num": 205010,
+      "word": "哪吒票房",
+      "onboard_time": 1740410721,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 204798,
@@ -2035,6 +2067,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 183377,
+      "num": 183377,
+      "word": "白鹿黏黏合照",
+      "onboard_time": 1740410959,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182920,
       "num": 182920,
       "word": "难哄",
@@ -2092,7 +2132,7 @@
     },
     {
       "raw_hot": 179491,
-      "num": 161820,
+      "num": 172449,
       "word": "连续跑步35天的面部变化",
       "onboard_time": 1740409462,
       "rank": 30,
@@ -2203,14 +2243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 173701,
-      "num": 335767,
-      "word": "西北大学回应贾浅浅更改简历",
-      "onboard_time": 1740410120,
-      "rank": 14,
-      "category": "民生新闻,艺人"
-    },
-    {
       "raw_hot": 173684,
       "num": 173684,
       "word": "甜茶演员工会奖影帝",
@@ -2267,14 +2299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 169020,
-      "num": 409370,
-      "word": "Loong9回应插队登机",
-      "onboard_time": 1740409881,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 168597,
       "num": 168597,
       "word": "女子晒自家墓景房楼下就是考古工地",
@@ -2321,6 +2345,14 @@
       "onboard_time": 1740381081,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164553,
+      "num": 164553,
+      "word": "瑞典乒协威胁莫雷加德参赛",
+      "onboard_time": 1740409521,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 164404,
@@ -2585,14 +2617,6 @@
       "onboard_time": 1740384501,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 145822,
-      "num": 145822,
-      "word": "瑞典乒协威胁莫雷加德参赛",
-      "onboard_time": 1740409521,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 145408,
@@ -2955,6 +2979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109647,
+      "num": 109647,
+      "word": "今天你吃香菜了吗",
+      "onboard_time": 1740411379,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 108818,
       "num": 108818,
       "word": "郭艾伦眼睛受伤或涉及自甘风险",
@@ -2977,14 +3009,6 @@
       "onboard_time": 1740397099,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 105179,
-      "num": 105179,
-      "word": "哪吒票房",
-      "onboard_time": 1740410721,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 104710,
@@ -3291,6 +3315,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 58090,
+      "num": 264670,
+      "word": "吉祥航空被曝给乘客发过期坚果",
+      "onboard_time": 1740410899,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58089,
       "num": 151746,
       "word": "孟子义有种无视紫外线的美",
@@ -3515,6 +3547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38971,
+      "num": 399822,
+      "word": "中俄是搬不走的好邻居",
+      "onboard_time": 1740411081,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 36877,
       "num": 453713,
       "word": "俄乌冲突三年来对全球的影响",
@@ -3643,6 +3683,14 @@
       "category": "教育,电影"
     },
     {
+      "raw_hot": 27221,
+      "num": 293556,
+      "word": "村民集资修路被压反被质疑收过路费",
+      "onboard_time": 1740411199,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25850,
       "num": 332307,
       "word": "怎样区分面部皮炎和荨麻疹",
@@ -3721,6 +3769,14 @@
       "onboard_time": 1740384321,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 19238,
+      "num": 155131,
+      "word": "别离开我秦彻",
+      "onboard_time": 1740410120,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 18651,
@@ -3857,6 +3913,14 @@
       "onboard_time": 1740404301,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 7230,
+      "num": 157436,
+      "word": "接考研国家线降分",
+      "onboard_time": 1740411499,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 7016,

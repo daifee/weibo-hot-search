@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740410780970,
+  "endTime": 1740411610291,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -4683,6 +4683,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1149049,
+      "num": 497464,
+      "word": "网友怒斥遇一男团插队登机",
+      "onboard_time": 1740407662,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1148822,
       "num": 633309,
       "word": "匪我思存 拆官配",
@@ -6099,6 +6107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 971194,
+      "num": 465825,
+      "word": "李威已被保释",
+      "onboard_time": 1740408143,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 970984,
       "num": 455957,
       "word": "吴尊疑似被贴脸开大",
@@ -6401,14 +6417,6 @@
       "onboard_time": 1739749157,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 936303,
-      "num": 465825,
-      "word": "李威已被保释",
-      "onboard_time": 1740408143,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 935907,
@@ -6873,14 +6881,6 @@
       "onboard_time": 1739464877,
       "rank": 5,
       "category": "情感"
-    },
-    {
-      "raw_hot": 891537,
-      "num": 464547,
-      "word": "网友怒斥遇一男团插队登机",
-      "onboard_time": 1740407662,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 891295,
@@ -19923,6 +19923,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 352462,
+      "num": 352462,
+      "word": "西北大学回应贾浅浅更改简历",
+      "onboard_time": 1740410120,
+      "rank": 14,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 352348,
       "num": 187929,
       "word": "小姨摘下眼罩时明显慌了",
@@ -21129,6 +21137,14 @@
       "onboard_time": 1738815747,
       "rank": 36,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 329672,
+      "num": 364114,
+      "word": "丈夫设局让妻子离婚时背75万巨债",
+      "onboard_time": 1740407422,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 329617,
@@ -22504,14 +22520,6 @@
       "word": "洒水车0℃以下洒水致路面结冰酿事故",
       "onboard_time": 1739165001,
       "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 308335,
-      "num": 364114,
-      "word": "丈夫设局让妻子离婚时背75万巨债",
-      "onboard_time": 1740407422,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -25649,6 +25657,14 @@
       "onboard_time": 1739504242,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 266818,
+      "num": 409370,
+      "word": "Loong9回应插队登机",
+      "onboard_time": 1740409881,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 266756,
@@ -29507,6 +29523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 230260,
+      "num": 230260,
+      "word": "千金归来",
+      "onboard_time": 1740410899,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 230232,
       "num": 230232,
       "word": "WTT抽签仪式主持人用LunarNewYear",
@@ -31603,6 +31627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216429,
+      "num": 216429,
+      "word": "很喜欢用嘿嘿这两个字",
+      "onboard_time": 1740404963,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 216414,
       "num": 419069,
       "word": "周笔畅声生不息微博网友挚爱歌手",
@@ -31953,14 +31985,6 @@
       "onboard_time": 1738376177,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 214510,
-      "num": 214510,
-      "word": "很喜欢用嘿嘿这两个字",
-      "onboard_time": 1740404963,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 214416,
@@ -39771,6 +39795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183377,
+      "num": 183377,
+      "word": "白鹿黏黏合照",
+      "onboard_time": 1740410959,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183369,
       "num": 183369,
       "word": "我妈到底都在网上看了些啥",
@@ -40740,7 +40772,7 @@
     },
     {
       "raw_hot": 179491,
-      "num": 161820,
+      "num": 172449,
       "word": "连续跑步35天的面部变化",
       "onboard_time": 1740409462,
       "rank": 30,
@@ -41987,14 +42019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 173701,
-      "num": 335767,
-      "word": "西北大学回应贾浅浅更改简历",
-      "onboard_time": 1740410120,
-      "rank": 14,
-      "category": "民生新闻,艺人"
-    },
-    {
       "raw_hot": 173684,
       "num": 173684,
       "word": "甜茶演员工会奖影帝",
@@ -43145,14 +43169,6 @@
       "onboard_time": 1740148941,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 169020,
-      "num": 409370,
-      "word": "Loong9回应插队登机",
-      "onboard_time": 1740409881,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 169014,
@@ -44320,6 +44336,14 @@
       "word": "医生称郭艾伦情况较乐观",
       "onboard_time": 1739973624,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 164553,
+      "num": 164553,
+      "word": "瑞典乒协威胁莫雷加德参赛",
+      "onboard_time": 1740409521,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -49441,14 +49465,6 @@
       "onboard_time": 1739377398,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 145822,
-      "num": 145822,
-      "word": "瑞典乒协威胁莫雷加德参赛",
-      "onboard_time": 1740409521,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 145786,
@@ -57777,6 +57793,14 @@
       "onboard_time": 1739540062,
       "rank": 22,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 109647,
+      "num": 109647,
+      "word": "今天你吃香菜了吗",
+      "onboard_time": 1740411379,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 109633,
@@ -66187,6 +66211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58090,
+      "num": 264670,
+      "word": "吉祥航空被曝给乘客发过期坚果",
+      "onboard_time": 1740410899,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58089,
       "num": 214873,
       "word": "NIP对战RNG",
@@ -69851,6 +69883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 38971,
+      "num": 399822,
+      "word": "中俄是搬不走的好邻居",
+      "onboard_time": 1740411081,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 38945,
       "num": 123078,
       "word": "deepseek预测U20国足险胜沙特",
@@ -72299,6 +72339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27221,
+      "num": 293556,
+      "word": "村民集资修路被压反被质疑收过路费",
+      "onboard_time": 1740411199,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27211,
       "num": 331053,
       "word": "亚冬会闭幕式杂粮煎饼杀回C位",
@@ -74241,6 +74289,14 @@
       "onboard_time": 1739121915,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19238,
+      "num": 155131,
+      "word": "别离开我秦彻",
+      "onboard_time": 1740410120,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 19193,
@@ -76745,6 +76801,14 @@
       "onboard_time": 1739041692,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 7230,
+      "num": 157436,
+      "word": "接考研国家线降分",
+      "onboard_time": 1740411499,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 7103,
