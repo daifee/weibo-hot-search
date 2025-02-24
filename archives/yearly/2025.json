@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1740404501862,
+  "endTime": 1740406974456,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -523,6 +523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 7050394,
+      "num": 7050394,
+      "word": "李威涉嫌伤害致死",
+      "onboard_time": 1740401241,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 7020821,
       "num": 7020821,
       "word": "马丽演上沈腾丈母娘了",
@@ -609,14 +617,6 @@
       "onboard_time": 1738067987,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 5161573,
-      "num": 5161573,
-      "word": "李威涉嫌伤害致死",
-      "onboard_time": 1740401241,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 5151427,
