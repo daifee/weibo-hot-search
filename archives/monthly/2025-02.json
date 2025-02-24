@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740389932395,
+  "endTime": 1740392739119,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -2585,6 +2585,14 @@
       "onboard_time": 1739255661,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1618960,
+      "num": 1618960,
+      "word": "妈妈 我有学上了",
+      "onboard_time": 1740388818,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 1616797,
@@ -5779,6 +5787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 993226,
+      "num": 993226,
+      "word": "女子在公司微信群看到自己被裁员",
+      "onboard_time": 1740390380,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 991425,
       "num": 706839,
       "word": "马丽方律师声明",
@@ -8876,7 +8892,7 @@
     },
     {
       "raw_hot": 723728,
-      "num": 367946,
+      "num": 371825,
       "word": "比起来月经 器官时间不和谐更让我烦躁",
       "onboard_time": 1740387263,
       "rank": 12,
@@ -9353,6 +9369,14 @@
       "onboard_time": 1738724841,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 695250,
+      "num": 695250,
+      "word": "中方回应泽连斯基希望得到中国帮助",
+      "onboard_time": 1740389480,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 694194,
@@ -13931,6 +13955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 502969,
+      "num": 502969,
+      "word": "桑延一集比一集穿得少",
+      "onboard_time": 1740387142,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 502940,
       "num": 502940,
       "word": "金包银项链1克金售价1900元",
@@ -15401,14 +15433,6 @@
       "onboard_time": 1739346801,
       "rank": 4,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 458268,
-      "num": 458268,
-      "word": "妈妈 我有学上了",
-      "onboard_time": 1740388818,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 458146,
@@ -17801,6 +17825,14 @@
       "onboard_time": 1739889263,
       "rank": 21,
       "category": "剧集,电影"
+    },
+    {
+      "raw_hot": 393123,
+      "num": 393123,
+      "word": "女友陪王星录制新综艺",
+      "onboard_time": 1740390200,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 392997,
@@ -21859,14 +21891,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 314214,
-      "num": 314214,
-      "word": "桑延一集比一集穿得少",
-      "onboard_time": 1740387142,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 313897,
       "num": 313751,
       "word": "乌尔善谈殷郊三头六臂形象灵感",
@@ -22451,6 +22475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 305661,
+      "num": 305661,
+      "word": "女生遭侵犯溺亡被告死缓检方抗诉",
+      "onboard_time": 1740389420,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 305652,
       "num": 478839,
       "word": "重庆燃气集团收费问题通报",
@@ -22539,11 +22571,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 304836,
+      "num": 304836,
+      "word": "滤镜开播",
+      "onboard_time": 1740367039,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 304447,
       "num": 297419,
       "word": "何老师我们还是太熟了",
       "onboard_time": 1740038481,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 304366,
+      "num": 304366,
+      "word": "陈星旭轧戏一番",
+      "onboard_time": 1740391460,
+      "rank": 19,
       "category": "剧集"
     },
     {
@@ -24121,6 +24169,14 @@
       "onboard_time": 1739396351,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 281708,
+      "num": 281708,
+      "word": "央视镜头下的吴倩",
+      "onboard_time": 1740389720,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 281668,
@@ -30051,6 +30107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 223572,
+      "num": 223572,
+      "word": "DeepSeek不适合INFP的5个工作",
+      "onboard_time": 1740391399,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 223523,
       "num": 223523,
       "word": "肖战现场回应愤怒的脏脏包",
@@ -34419,6 +34483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 201166,
+      "num": 201166,
+      "word": "李昀锐能和孟子义一直唠",
+      "onboard_time": 1740391999,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201138,
       "num": 201138,
       "word": "董思成 丹凤眼",
@@ -36561,6 +36633,14 @@
       "onboard_time": 1738983982,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193564,
+      "num": 193564,
+      "word": "余宇涵职场新人belike",
+      "onboard_time": 1740392180,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 193462,
@@ -39129,14 +39209,6 @@
       "onboard_time": 1738576346,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 183928,
-      "num": 188815,
-      "word": "滤镜开播",
-      "onboard_time": 1740367039,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 183898,
@@ -42411,6 +42483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 169668,
+      "num": 149379,
+      "word": "迪丽热巴别走了吧",
+      "onboard_time": 1740391640,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169665,
       "num": 351673,
       "word": "王俊凯谈出演蛟龙行动声呐兵角色",
@@ -44971,6 +45051,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 160166,
+      "num": 160166,
+      "word": "暨南大学回应拟录取全红婵",
+      "onboard_time": 1740390681,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160157,
       "num": 160157,
       "word": "看陈哲远收官博泪水一下变成口水",
@@ -46065,14 +46153,6 @@
       "onboard_time": 1740195620,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 156292,
-      "num": 156292,
-      "word": "央视镜头下的吴倩",
-      "onboard_time": 1740389720,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 156287,
@@ -47953,6 +48033,14 @@
       "onboard_time": 1739355682,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 148929,
+      "num": 148929,
+      "word": "专家谈考研人数下降的多重原因",
+      "onboard_time": 1740392419,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 148925,
@@ -50163,6 +50251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140499,
+      "num": 140499,
+      "word": "真心建议上班要适当叹气",
+      "onboard_time": 1740392419,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 140466,
       "num": 364400,
       "word": "外交部回应中方移除钓鱼岛附近浮标",
@@ -51467,6 +51563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134839,
+      "num": 134839,
+      "word": "王一博起诉多家公司侵权",
+      "onboard_time": 1740389299,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134837,
       "num": 134837,
       "word": "徐娇还原长江七号名台词",
@@ -51955,6 +52059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132639,
+      "num": 394206,
+      "word": "如何治理农村高额彩礼",
+      "onboard_time": 1740391819,
+      "rank": 9,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 132576,
       "num": 132576,
       "word": "黎深招财咪",
@@ -51969,6 +52081,14 @@
       "onboard_time": 1738850546,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132525,
+      "num": 132525,
+      "word": "Hearts2Hearts正式出道",
+      "onboard_time": 1740390020,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 132514,
@@ -52137,6 +52257,14 @@
       "onboard_time": 1739459601,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131755,
+      "num": 131755,
+      "word": "留几手磨皮磨成胚胎了",
+      "onboard_time": 1740392539,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 131713,
@@ -56577,6 +56705,14 @@
       "onboard_time": 1739959699,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111649,
+      "num": 149477,
+      "word": "孙颖莎这动作训练过吧",
+      "onboard_time": 1740392600,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 111503,
@@ -64315,6 +64451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 63005,
+      "num": 225521,
+      "word": "四川一公司要求员工不入股就辞退",
+      "onboard_time": 1740390920,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62930,
       "num": 151800,
       "word": "大同一商铺被工作人员撬锁开灯",
@@ -65275,6 +65419,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 58089,
+      "num": 151746,
+      "word": "孟子义有种无视紫外线的美",
+      "onboard_time": 1740389720,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58067,
       "num": 1077572,
       "word": "歌词海报送给开学的你",
@@ -65473,14 +65625,6 @@
       "onboard_time": 1738797317,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 57145,
-      "num": 372793,
-      "word": "中方回应泽连斯基希望得到中国帮助",
-      "onboard_time": 1740389480,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 57141,
@@ -66497,14 +66641,6 @@
       "onboard_time": 1738912462,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 51745,
-      "num": 286888,
-      "word": "女生遭侵犯溺亡被告死缓检方抗诉",
-      "onboard_time": 1740389420,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 51686,
@@ -67849,6 +67985,14 @@
       "onboard_time": 1740193580,
       "rank": 29,
       "category": "体育,互联网"
+    },
+    {
+      "raw_hot": 44580,
+      "num": 179366,
+      "word": "男子花13500修漏水越修越漏",
+      "onboard_time": 1740390920,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44546,
@@ -69641,6 +69785,14 @@
       "onboard_time": 1739098821,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 35688,
+      "num": 331418,
+      "word": "官方回应志愿者堵路与乘客起冲突",
+      "onboard_time": 1740391399,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35680,
@@ -74283,14 +74435,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 13989,
-      "num": 151746,
-      "word": "孟子义有种无视紫外线的美",
-      "onboard_time": 1740389720,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 13965,
       "num": 19369,
       "word": "相思令收官",
@@ -74649,6 +74793,14 @@
       "onboard_time": 1739315235,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12410,
+      "num": 194188,
+      "word": "坂田银时又蛊又帅",
+      "onboard_time": 1740391760,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 12392,
