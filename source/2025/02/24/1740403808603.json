@@ -1,0 +1,410 @@
+{
+  "runTime": 1740403808603,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3973494,
+        "num": 3973494,
+        "word": "李威涉嫌伤害致死",
+        "onboard_time": 1740401241,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 718359,
+        "num": 718359,
+        "word": "妈妈 我有学上了",
+        "onboard_time": 1740388818,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 93425,
+        "num": 532043,
+        "word": "中央一号文件对三农工作划重点",
+        "onboard_time": 1740383180,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1008835,
+        "num": 503631,
+        "word": "3号厅检票员工 难哄",
+        "onboard_time": 1740398479,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 440885,
+        "num": 440885,
+        "word": "上海土拨鼠",
+        "onboard_time": 1740397520,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 422530,
+        "num": 422530,
+        "word": "中俄关系不受任何第三方影响",
+        "onboard_time": 1740396500,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 819424,
+        "num": 420232,
+        "word": "小小的勇气 赵露思",
+        "onboard_time": 1740393739,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 756739,
+        "num": 418008,
+        "word": "滤镜 容貌焦虑",
+        "onboard_time": 1740396619,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246879,
+        "num": 411436,
+        "word": "俄称愿与乌克兰和欧洲谈判",
+        "onboard_time": 1740400460,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 75828,
+        "num": 410103,
+        "word": "看哪吒后网购土拨鼠疑收到野生旱獭",
+        "onboard_time": 1740403161,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 407059,
+        "num": 407059,
+        "word": "2025考研国家线发布",
+        "onboard_time": 1740384441,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1132334,
+        "num": 406457,
+        "word": "包文婧孕肚照",
+        "onboard_time": 1740400520,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 623009,
+        "num": 405765,
+        "word": "英语名师王江涛英语二考80分",
+        "onboard_time": 1740400580,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 108693,
+        "num": 404873,
+        "word": "土拨鼠携带鼠疫可致人死亡",
+        "onboard_time": 1740402743,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43483,
+        "num": 404786,
+        "word": "律师解读医大女生轻生校方是否担责",
+        "onboard_time": 1740402861,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 569267,
+        "num": 403588,
+        "word": "五熊官宣怀孕",
+        "onboard_time": 1740400879,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63230,
+        "num": 403288,
+        "word": "极氪007GT将科幻照进现实",
+        "onboard_time": 1740401780,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 552225,
+        "num": 402000,
+        "word": "总算见识到刘亦菲的高颅顶了",
+        "onboard_time": 1740397819,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 488117,
+        "num": 401361,
+        "word": "敖犬老婆曾因严重忧郁暴瘦",
+        "onboard_time": 1740401600,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42475,
+        "num": 400864,
+        "word": "法院释疑女生遭侵犯溺亡被告未获死刑",
+        "onboard_time": 1740402982,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 447719,
+        "num": 399875,
+        "word": "比起来月经 器官时间不和谐更让我烦躁",
+        "onboard_time": 1740387263,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 399733,
+        "num": 399733,
+        "word": "央视镜头下的吴倩",
+        "onboard_time": 1740389720,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347540,
+        "num": 347540,
+        "word": "原来头皮屑变多是因为溢脂性皮炎",
+        "onboard_time": 1740398720,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 220352,
+        "num": 346276,
+        "word": "曝王大陆因逃兵役丢工作",
+        "onboard_time": 1740401180,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31125,
+        "num": 340873,
+        "word": "今日看盘",
+        "onboard_time": 1740402743,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 275113,
+        "num": 340145,
+        "word": "六姊妹",
+        "onboard_time": 1740401061,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242420,
+        "num": 333110,
+        "word": "湖南卫视重映大唐荣耀",
+        "onboard_time": 1740393440,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 332801,
+        "num": 332801,
+        "word": "李昀锐能和孟子义一直唠",
+        "onboard_time": 1740391999,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138423,
+        "num": 310364,
+        "word": "女大学生打车18公里被收581元",
+        "onboard_time": 1740402560,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30623,
+        "num": 305610,
+        "word": "教授公开聊天记录指责学生娇生惯养",
+        "onboard_time": 1740403520,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303364,
+        "num": 303364,
+        "word": "每天8杯水到底是多大的杯子",
+        "onboard_time": 1740401660,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 252366,
+        "num": 252366,
+        "word": "胎儿给妈妈倒输血出生后全身发白",
+        "onboard_time": 1740382281,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250586,
+        "num": 250586,
+        "word": "哪吒 土拨鼠",
+        "onboard_time": 1740402141,
+        "rank": 32,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 229774,
+        "num": 229774,
+        "word": "王楚钦发博庆祝夺冠",
+        "onboard_time": 1740394219,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203513,
+        "num": 203513,
+        "word": "章若楠头像大户上新",
+        "onboard_time": 1740400941,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201338,
+        "num": 201338,
+        "word": "全红婵保送至暨南大学",
+        "onboard_time": 1740385041,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35746,
+        "num": 200214,
+        "word": "吴宇恒北海道等雪vlog",
+        "onboard_time": 1740402320,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199439,
+        "num": 199439,
+        "word": "滤镜癫剧",
+        "onboard_time": 1740403222,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198228,
+        "num": 198228,
+        "word": "桑延温以凡睡一起了",
+        "onboard_time": 1740402201,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197889,
+        "num": 197889,
+        "word": "爱你",
+        "onboard_time": 1740399860,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195044,
+        "num": 195044,
+        "word": "广州南站再现黑车宰客",
+        "onboard_time": 1740402020,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192648,
+        "num": 192648,
+        "word": "男子网聊花75万养老钱被上门催债",
+        "onboard_time": 1740400520,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188227,
+        "num": 188227,
+        "word": "女子在公司微信群看到自己被裁员",
+        "onboard_time": 1740390380,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182422,
+        "num": 182422,
+        "word": "雷军OOTD",
+        "onboard_time": 1740401000,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 181099,
+        "num": 181099,
+        "word": "关晓彤事业心",
+        "onboard_time": 1740396619,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177269,
+        "num": 177269,
+        "word": "李兰迪气色",
+        "onboard_time": 1740403401,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173632,
+        "num": 173632,
+        "word": "DeepSeek不适合INFP的5个工作",
+        "onboard_time": 1740391399,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 166204,
+        "num": 166204,
+        "word": "丁禹兮上班wink路透",
+        "onboard_time": 1740403342,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159374,
+        "num": 159374,
+        "word": "当地回应小学课后延时服务收费",
+        "onboard_time": 1740399499,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154668,
+        "num": 154668,
+        "word": "肖战外套叠穿",
+        "onboard_time": 1740392840,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平与陕北农民的一段对话#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1740327929685,
-  "endTime": 1740402009365,
+  "endTime": 1740403808603,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -9,6 +9,14 @@
       "onboard_time": 1740384441,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 3973494,
+      "num": 3973494,
+      "word": "李威涉嫌伤害致死",
+      "onboard_time": 1740401241,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 2875244,
@@ -121,14 +129,6 @@
       "onboard_time": 1740318201,
       "rank": 13,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 1286999,
-      "num": 639224,
-      "word": "李威涉嫌伤害致死",
-      "onboard_time": 1740401241,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1253840,
@@ -507,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 623009,
+      "num": 405765,
+      "word": "英语名师王江涛英语二考80分",
+      "onboard_time": 1740400580,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 613332,
       "num": 613332,
       "word": "小行星撞地球概率为何一变再变",
@@ -547,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 569267,
+      "num": 403588,
+      "word": "五熊官宣怀孕",
+      "onboard_time": 1740400879,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 564288,
       "num": 564288,
       "word": "半熟恋人4官宣",
@@ -561,6 +577,14 @@
       "onboard_time": 1740321562,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 552225,
+      "num": 402000,
+      "word": "总算见识到刘亦菲的高颅顶了",
+      "onboard_time": 1740397819,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 549615,
@@ -657,6 +681,14 @@
       "onboard_time": 1740389720,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 488117,
+      "num": 401361,
+      "word": "敖犬老婆曾因严重忧郁暴瘦",
+      "onboard_time": 1740401600,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 483370,
@@ -851,14 +883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 378752,
-      "num": 213564,
-      "word": "英语名师王江涛英语二考80分",
-      "onboard_time": 1740400580,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
       "raw_hot": 359971,
       "num": 359971,
       "word": "央视曝光网购陷阱",
@@ -907,14 +931,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 350424,
-      "num": 350424,
-      "word": "五熊官宣怀孕",
-      "onboard_time": 1740400879,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 348882,
       "num": 348882,
       "word": "敖丙把哪吒哄成胚胎了",
@@ -929,6 +945,14 @@
       "onboard_time": 1740361879,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 347540,
+      "num": 347540,
+      "word": "原来头皮屑变多是因为溢脂性皮炎",
+      "onboard_time": 1740398720,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 346615,
@@ -953,14 +977,6 @@
       "onboard_time": 1740377001,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 333097,
-      "num": 298619,
-      "word": "总算见识到刘亦菲的高颅顶了",
-      "onboard_time": 1740397819,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 331280,
@@ -1057,6 +1073,14 @@
       "onboard_time": 1740373881,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 303364,
+      "num": 303364,
+      "word": "每天8杯水到底是多大的杯子",
+      "onboard_time": 1740401660,
+      "rank": 39,
+      "category": "科学科普"
     },
     {
       "raw_hot": 299960,
@@ -1179,6 +1203,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 275113,
+      "num": 340145,
+      "word": "六姊妹",
+      "onboard_time": 1740401061,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 267777,
       "num": 333140,
       "word": "李兰迪一变身檀健次就要演三遍",
@@ -1203,6 +1235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 250586,
+      "num": 250586,
+      "word": "哪吒 土拨鼠",
+      "onboard_time": 1740402141,
+      "rank": 32,
+      "category": "民生新闻,电影"
+    },
+    {
       "raw_hot": 250496,
       "num": 250496,
       "word": "王曼昱使用樊A",
@@ -1211,19 +1251,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246879,
+      "num": 411436,
+      "word": "俄称愿与乌克兰和欧洲谈判",
+      "onboard_time": 1740400460,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 246113,
       "num": 246113,
       "word": "虞书欣何与婚礼吻戏路透",
       "onboard_time": 1740324921,
       "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 245913,
-      "num": 245913,
-      "word": "六姊妹",
-      "onboard_time": 1740401061,
-      "rank": 48,
       "category": "剧集"
     },
     {
@@ -1331,14 +1371,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 222453,
-      "num": 212228,
-      "word": "敖犬老婆曾因严重忧郁暴瘦",
-      "onboard_time": 1740401600,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 221744,
       "num": 221744,
       "word": "王楚钦说亚洲杯打得很干净",
@@ -1351,6 +1383,14 @@
       "num": 241220,
       "word": "撒贝宁王鸥现身福州",
       "onboard_time": 1740357860,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 220352,
+      "num": 346276,
+      "word": "曝王大陆因逃兵役丢工作",
+      "onboard_time": 1740401180,
       "rank": 28,
       "category": "艺人"
     },
@@ -1401,14 +1441,6 @@
       "onboard_time": 1740356179,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 214360,
-      "num": 214360,
-      "word": "曝王大陆因逃兵役丢工作",
-      "onboard_time": 1740401180,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 213340,
@@ -1547,6 +1579,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 203513,
+      "num": 203513,
+      "word": "章若楠头像大户上新",
+      "onboard_time": 1740400941,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203477,
       "num": 203477,
       "word": "警方介入网传医科大研究生自杀",
@@ -1595,6 +1635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199439,
+      "num": 199439,
+      "word": "滤镜癫剧",
+      "onboard_time": 1740403222,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198513,
       "num": 279908,
       "word": "王阳孙千首搭制服杀",
@@ -1611,20 +1659,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 198259,
-      "num": 190056,
-      "word": "原来头皮屑变多是因为溢脂性皮炎",
-      "onboard_time": 1740398720,
-      "rank": 37,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 198231,
       "num": 198231,
       "word": "董思成问DeepSeek应该怎么营业",
       "onboard_time": 1740371543,
       "rank": 38,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 198228,
+      "num": 198228,
+      "word": "桑延温以凡睡一起了",
+      "onboard_time": 1740402201,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 197832,
@@ -1643,20 +1691,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 197096,
-      "num": 197096,
-      "word": "章若楠头像大户上新",
-      "onboard_time": 1740400941,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 196282,
       "num": 196282,
       "word": "易立竞观察细致到了美甲",
       "onboard_time": 1740371481,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195044,
+      "num": 195044,
+      "word": "广州南站再现黑车宰客",
+      "onboard_time": 1740402020,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194654,
@@ -1713,6 +1761,14 @@
       "onboard_time": 1740387921,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192648,
+      "num": 192648,
+      "word": "男子网聊花75万养老钱被上门催债",
+      "onboard_time": 1740400520,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 192535,
@@ -1931,20 +1987,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 177269,
+      "num": 177269,
+      "word": "李兰迪气色",
+      "onboard_time": 1740403401,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176682,
       "num": 176682,
       "word": "唐总 夫人爬出门逃跑啦",
       "onboard_time": 1740387201,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 176605,
-      "num": 176605,
-      "word": "每天8杯水到底是多大的杯子",
-      "onboard_time": 1740401660,
-      "rank": 39,
-      "category": "科学科普"
     },
     {
       "raw_hot": 176505,
@@ -2081,6 +2137,14 @@
       "onboard_time": 1740395479,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166204,
+      "num": 166204,
+      "word": "丁禹兮上班wink路透",
+      "onboard_time": 1740403342,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 165972,
@@ -2379,20 +2443,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 141640,
-      "num": 300377,
-      "word": "俄称愿与乌克兰和欧洲谈判",
-      "onboard_time": 1740400460,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 139483,
       "num": 139483,
       "word": "劝你心情不好时叹叹气",
       "onboard_time": 1740399619,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 138423,
+      "num": 310364,
+      "word": "女大学生打车18公里被收581元",
+      "onboard_time": 1740402560,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137826,
@@ -2500,7 +2564,7 @@
     },
     {
       "raw_hot": 131056,
-      "num": 149049,
+      "num": 403288,
       "word": "极氪007GT将科幻照进现实",
       "onboard_time": 1740401780,
       "rank": 45,
@@ -2667,6 +2731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108693,
+      "num": 404873,
+      "word": "土拨鼠携带鼠疫可致人死亡",
+      "onboard_time": 1740402743,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108282,
       "num": 425584,
       "word": "默茨谈获胜原因",
@@ -2825,6 +2897,14 @@
       "onboard_time": 1740352696,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75828,
+      "num": 410103,
+      "word": "看哪吒后网购土拨鼠疑收到野生旱獭",
+      "onboard_time": 1740403161,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74488,
@@ -3139,6 +3219,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43483,
+      "num": 404786,
+      "word": "律师解读医大女生轻生校方是否担责",
+      "onboard_time": 1740402861,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42475,
+      "num": 400864,
+      "word": "法院释疑女生遭侵犯溺亡被告未获死刑",
+      "onboard_time": 1740402982,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42055,
       "num": 494949,
       "word": "60秒回顾俄乌战局变化",
@@ -3195,6 +3291,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 35746,
+      "num": 200214,
+      "word": "吴宇恒北海道等雪vlog",
+      "onboard_time": 1740402320,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 35688,
       "num": 331418,
       "word": "官方回应志愿者堵路与乘客起冲突",
@@ -3225,6 +3329,22 @@
       "onboard_time": 1740331934,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 31125,
+      "num": 340873,
+      "word": "今日看盘",
+      "onboard_time": 1740402743,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 30623,
+      "num": 305610,
+      "word": "教授公开聊天记录指责学生娇生惯养",
+      "onboard_time": 1740403520,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28685,

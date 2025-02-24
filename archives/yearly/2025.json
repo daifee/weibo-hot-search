@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1740402009365,
+  "endTime": 1740403808603,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -831,6 +831,14 @@
       "num": 1571832,
       "word": "星星疑被剃去头发腿上有红斑",
       "onboard_time": 1736237304,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3973494,
+      "num": 3973494,
+      "word": "李威涉嫌伤害致死",
+      "onboard_time": 1740401241,
       "rank": 3,
       "category": "艺人"
     },
@@ -2393,14 +2401,6 @@
       "onboard_time": 1739537602,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2363224,
-      "num": 1371308,
-      "word": "周锐官宣恋情",
-      "onboard_time": 1737383781,
-      "rank": 31,
-      "category": "网红"
     }
   ],
   "hotgov_list": [
