@@ -1,0 +1,410 @@
+{
+  "runTime": 1740410780970,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3713727,
+        "num": 3713727,
+        "word": "李威涉嫌伤害致死",
+        "onboard_time": 1740401241,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 746088,
+        "num": 746088,
+        "word": "特朗普迟到让波兰总统干等1.5小时",
+        "onboard_time": 1740405322,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 145367,
+        "num": 579580,
+        "word": "专家解读中央一号文件亮点",
+        "onboard_time": 1740406522,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 522574,
+        "num": 522574,
+        "word": "妈妈 我有学上了",
+        "onboard_time": 1740388818,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 474855,
+        "num": 474855,
+        "word": "哪吒 土拨鼠",
+        "onboard_time": 1740402141,
+        "rank": 4,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 936303,
+        "num": 465825,
+        "word": "李威已被保释",
+        "onboard_time": 1740408143,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 891537,
+        "num": 464547,
+        "word": "网友怒斥遇一男团插队登机",
+        "onboard_time": 1740407662,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 452777,
+        "num": 452777,
+        "word": "小小的勇气 赵露思",
+        "onboard_time": 1740393739,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421480,
+        "num": 421480,
+        "word": "女子曝在西藏旅游遭出租车司机套路",
+        "onboard_time": 1740408622,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169020,
+        "num": 409370,
+        "word": "Loong9回应插队登机",
+        "onboard_time": 1740409881,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2291876,
+        "num": 403653,
+        "word": "教授公开聊天记录指责学生娇生惯养",
+        "onboard_time": 1740403520,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 687892,
+        "num": 380499,
+        "word": "总算见识到刘亦菲的高颅顶了",
+        "onboard_time": 1740397819,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 519334,
+        "num": 373072,
+        "word": "包文婧孕肚照",
+        "onboard_time": 1740400520,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429967,
+        "num": 345311,
+        "word": "敖犬老婆曾因严重忧郁暴瘦",
+        "onboard_time": 1740401600,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173701,
+        "num": 335767,
+        "word": "西北大学回应贾浅浅更改简历",
+        "onboard_time": 1740410120,
+        "rank": 14,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 329433,
+        "num": 329433,
+        "word": "英语名师王江涛英语二考80分",
+        "onboard_time": 1740400580,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 326659,
+        "num": 326659,
+        "word": "滤镜 容貌焦虑",
+        "onboard_time": 1740396619,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308335,
+        "num": 308335,
+        "word": "丈夫设局让妻子离婚时背75万巨债",
+        "onboard_time": 1740407422,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286165,
+        "num": 286165,
+        "word": "滤镜癫剧",
+        "onboard_time": 1740403222,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243808,
+        "num": 243808,
+        "word": "2025考研国家线发布",
+        "onboard_time": 1740384441,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 305182,
+        "num": 237601,
+        "word": "六姊妹大结局",
+        "onboard_time": 1740404062,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300471,
+        "num": 236520,
+        "word": "每天8杯水到底是多大的杯子",
+        "onboard_time": 1740401660,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 273492,
+        "num": 231355,
+        "word": "原来头皮屑变多是因为溢脂性皮炎",
+        "onboard_time": 1740398720,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 214510,
+        "num": 214510,
+        "word": "很喜欢用嘿嘿这两个字",
+        "onboard_time": 1740404963,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 12367,
+        "num": 198723,
+        "word": "王曼昱说奖杯特别沉",
+        "onboard_time": 1740409881,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188363,
+        "num": 188363,
+        "word": "央视镜头下的吴倩",
+        "onboard_time": 1740389720,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176293,
+        "num": 176293,
+        "word": "五熊官宣怀孕",
+        "onboard_time": 1740400879,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169755,
+        "num": 169755,
+        "word": "余宇涵先让尔冬升耳熟了",
+        "onboard_time": 1740408322,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169637,
+        "num": 169637,
+        "word": "李昀锐能和孟子义一直唠",
+        "onboard_time": 1740391999,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132149,
+        "num": 163393,
+        "word": "湖北师大回应初中学历者进校就职",
+        "onboard_time": 1740408981,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179491,
+        "num": 161820,
+        "word": "连续跑步35天的面部变化",
+        "onboard_time": 1740409462,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 160181,
+        "num": 160181,
+        "word": "滤镜手镯",
+        "onboard_time": 1740407603,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146964,
+        "num": 146964,
+        "word": "胎儿给妈妈倒输血出生后全身发白",
+        "onboard_time": 1740382281,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32762,
+        "num": 146180,
+        "word": "南京大屠杀幸存者讲述战争后遗症",
+        "onboard_time": 1740408922,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145822,
+        "num": 145822,
+        "word": "瑞典乒协威胁莫雷加德参赛",
+        "onboard_time": 1740409521,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78333,
+        "num": 141971,
+        "word": "中医称deepseek开方达到初学者水平",
+        "onboard_time": 1740408802,
+        "rank": 35,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 140592,
+        "num": 140592,
+        "word": "女子在公司微信群看到自己被裁员",
+        "onboard_time": 1740390380,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136869,
+        "num": 136869,
+        "word": "桑延温以凡睡一起了",
+        "onboard_time": 1740402201,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136743,
+        "num": 136743,
+        "word": "女大学生打车18公里被收581元",
+        "onboard_time": 1740402560,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132692,
+        "num": 132692,
+        "word": "关晓彤事业心",
+        "onboard_time": 1740396619,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132597,
+        "num": 132597,
+        "word": "滤镜编剧",
+        "onboard_time": 1740406343,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129445,
+        "num": 129445,
+        "word": "法院释疑女生遭侵犯溺亡被告未获死刑",
+        "onboard_time": 1740402982,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124334,
+        "num": 124334,
+        "word": "DeepSeek技术优化减少繁忙次数",
+        "onboard_time": 1740406583,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 115979,
+        "num": 115979,
+        "word": "桑延一集比一集穿得少",
+        "onboard_time": 1740387142,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111654,
+        "num": 111654,
+        "word": "迪丽热巴推眼镜这一下",
+        "onboard_time": 1740406703,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111220,
+        "num": 111220,
+        "word": "李兰迪气色",
+        "onboard_time": 1740403401,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105179,
+        "num": 105179,
+        "word": "哪吒票房",
+        "onboard_time": 1740410721,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97466,
+        "num": 97466,
+        "word": "中俄元首通电话",
+        "onboard_time": 1740404362,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 97238,
+        "num": 97238,
+        "word": "六姊妹",
+        "onboard_time": 1740401061,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96407,
+        "num": 96407,
+        "word": "广州南站再现黑车宰客",
+        "onboard_time": 1740402020,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同普京通电话#"
+    }
+  }
+}
