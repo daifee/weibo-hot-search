@@ -1,6 +1,6 @@
 {
   "startTime": 1740327929685,
-  "endTime": 1740381725509,
+  "endTime": 1740382539555,
   "band_list": [
     {
       "raw_hot": 2195594,
@@ -107,6 +107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1088495,
+      "num": 1016613,
+      "word": "张馨予没有瘦身成功",
+      "onboard_time": 1740380060,
+      "rank": 3,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1083170,
       "num": 639495,
       "word": "窃贼买彩票中381万受害者要求分奖金",
@@ -137,14 +145,6 @@
       "onboard_time": 1740355518,
       "rank": 1,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1016613,
-      "num": 1016613,
-      "word": "张馨予没有瘦身成功",
-      "onboard_time": 1740380060,
-      "rank": 3,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1012849,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 855289,
-      "num": 315019,
+      "num": 334230,
       "word": "她一个月干了我一辈子的工作",
       "onboard_time": 1740379519,
       "rank": 20,
@@ -249,6 +249,14 @@
       "onboard_time": 1740378081,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 801724,
+      "num": 375552,
+      "word": "00后自杀医科大女研究生父亲发声",
+      "onboard_time": 1740381439,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 800841,
@@ -411,6 +419,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 510542,
+      "num": 337551,
+      "word": "何凯文考研英语89分",
+      "onboard_time": 1740381380,
+      "rank": 21,
+      "category": "教育"
+    },
+    {
       "raw_hot": 494671,
       "num": 494671,
       "word": "谭瑞松被开除党籍",
@@ -441,6 +457,14 @@
       "onboard_time": 1740375322,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 461891,
+      "num": 461891,
+      "word": "95后男孩从孤儿院到年薪百万",
+      "onboard_time": 1740379459,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 457945,
@@ -555,14 +579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 371957,
-      "num": 371957,
-      "word": "95后男孩从孤儿院到年薪百万",
-      "onboard_time": 1740379459,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 359971,
       "num": 359971,
       "word": "央视曝光网购陷阱",
@@ -601,6 +617,14 @@
       "onboard_time": 1740329236,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 348882,
+      "num": 348882,
+      "word": "敖丙把哪吒哄成胚胎了",
+      "onboard_time": 1740377601,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 347749,
@@ -643,6 +667,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 330553,
+      "num": 330553,
+      "word": "乒乓球从不以金牌论英雄",
+      "onboard_time": 1740381861,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 321407,
       "num": 321407,
       "word": "2025年中央一号文件发布",
@@ -665,14 +697,6 @@
       "onboard_time": 1740372922,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 313631,
-      "num": 313631,
-      "word": "敖丙把哪吒哄成胚胎了",
-      "onboard_time": 1740377601,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 313152,
@@ -705,6 +729,14 @@
       "onboard_time": 1740373881,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 300881,
+      "num": 300881,
+      "word": "政协委员建议将法定婚龄调至18岁",
+      "onboard_time": 1740381200,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 299960,
@@ -772,7 +804,7 @@
     },
     {
       "raw_hot": 283019,
-      "num": 312738,
+      "num": 331069,
       "word": "迪丽热巴黑金look",
       "onboard_time": 1740380840,
       "rank": 27,
@@ -785,6 +817,38 @@
       "onboard_time": 1740352696,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 274838,
+      "num": 274838,
+      "word": "胎儿给妈妈倒输血出生后全身发白",
+      "onboard_time": 1740382281,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 272459,
+      "num": 333390,
+      "word": "王星去录无限超越班了",
+      "onboard_time": 1740382099,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 267789,
+      "num": 313618,
+      "word": "国家线 砍一刀",
+      "onboard_time": 1740380959,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 267777,
+      "num": 333140,
+      "word": "李兰迪一变身檀健次就要演三遍",
+      "onboard_time": 1740381081,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 266472,
@@ -905,6 +969,14 @@
       "onboard_time": 1740357860,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 219887,
+      "num": 219887,
+      "word": "林允方逸伦牵手逛街好甜",
+      "onboard_time": 1740382099,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 219859,
@@ -1123,6 +1195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 197815,
+      "num": 401792,
+      "word": "国新办发布会解读中央一号文件",
+      "onboard_time": 1740381439,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 196282,
       "num": 196282,
       "word": "易立竞观察细致到了美甲",
@@ -1187,28 +1267,12 @@
       "category": "互联网,游戏"
     },
     {
-      "raw_hot": 190893,
-      "num": 190893,
-      "word": "政协委员建议将法定婚龄调至18岁",
-      "onboard_time": 1740381200,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 190630,
       "num": 190630,
       "word": "许昕称孙颖莎输球未必是坏事",
       "onboard_time": 1740323841,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 188893,
-      "num": 313618,
-      "word": "国家线 砍一刀",
-      "onboard_time": 1740380959,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 187345,
@@ -1248,14 +1312,6 @@
       "word": "滤镜开播",
       "onboard_time": 1740367039,
       "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 183507,
-      "num": 331760,
-      "word": "李兰迪一变身檀健次就要演三遍",
-      "onboard_time": 1740381081,
-      "rank": 20,
       "category": "剧集"
     },
     {
@@ -1355,6 +1411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 174588,
+      "num": 174588,
+      "word": "车主称小米车机弹窗影响倒车影像",
+      "onboard_time": 1740381200,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 174397,
       "num": 174397,
       "word": "王曼昱4比0孙颖莎",
@@ -1380,7 +1444,7 @@
     },
     {
       "raw_hot": 170312,
-      "num": 170312,
+      "num": 331454,
       "word": "哪吒2小孩子长得就是快",
       "onboard_time": 1740371062,
       "rank": 47,
@@ -1411,20 +1475,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 164370,
-      "num": 164370,
-      "word": "车主称小米车机弹窗影响倒车影像",
-      "onboard_time": 1740381200,
-      "rank": 42,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 164274,
       "num": 164274,
       "word": "Rookie 菜得可怕",
       "onboard_time": 1740319822,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 160843,
+      "num": 160843,
+      "word": "3个月宝宝不想打针装睡被识破",
+      "onboard_time": 1740382040,
+      "rank": 49,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 160016,
@@ -1547,6 +1611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143103,
+      "num": 331749,
+      "word": "神秘客住酒店2天打了140个电话",
+      "onboard_time": 1740381259,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141850,
       "num": 141850,
       "word": "四六级成绩还不出",
@@ -1561,14 +1633,6 @@
       "onboard_time": 1740379280,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 137205,
-      "num": 312155,
-      "word": "神秘客住酒店2天打了140个电话",
-      "onboard_time": 1740381259,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 136464,
@@ -1611,14 +1675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 131875,
-      "num": 375552,
-      "word": "00后自杀医科大女研究生父亲发声",
-      "onboard_time": 1740381439,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 131772,
       "num": 131772,
       "word": "仙台有树豆瓣开分7.0",
@@ -1641,14 +1697,6 @@
       "onboard_time": 1740299600,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128834,
-      "num": 401792,
-      "word": "国新办发布会解读中央一号文件",
-      "onboard_time": 1740381439,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 127769,
@@ -1731,14 +1779,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 109146,
-      "num": 321690,
-      "word": "何凯文考研英语89分",
-      "onboard_time": 1740381380,
-      "rank": 21,
-      "category": "教育"
-    },
-    {
       "raw_hot": 108818,
       "num": 108818,
       "word": "郭艾伦眼睛受伤或涉及自甘风险",
@@ -1771,6 +1811,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 98794,
+      "num": 257602,
+      "word": "翟潇闻说大家都是红房子的热血主角",
+      "onboard_time": 1740381558,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92904,
       "num": 963242,
       "word": "这些春菜里藏着春天的味道",
@@ -1801,14 +1849,6 @@
       "onboard_time": 1740337813,
       "rank": 48,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 81091,
-      "num": 204857,
-      "word": "翟潇闻说大家都是红房子的热血主角",
-      "onboard_time": 1740381558,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 79427,
@@ -1987,6 +2027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 52219,
+      "num": 332900,
+      "word": "高盛称A股有望在三个月内反超港股",
+      "onboard_time": 1740382219,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 50023,
       "num": 373095,
       "word": "近16年考研国家线汇总",
@@ -2123,6 +2171,22 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 27580,
+      "num": 334506,
+      "word": "哪吒版考研查分表情包",
+      "onboard_time": 1740381800,
+      "rank": 19,
+      "category": "教育,电影"
+    },
+    {
+      "raw_hot": 25850,
+      "num": 332307,
+      "word": "怎样区分面部皮炎和荨麻疹",
+      "onboard_time": 1740381558,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 23897,
       "num": 44261,
       "word": "有一群女孩真的很爱英歌舞",
@@ -2139,20 +2203,20 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 23053,
-      "num": 312201,
-      "word": "怎样区分面部皮炎和荨麻疹",
-      "onboard_time": 1740381558,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 22066,
       "num": 332467,
       "word": "宋雨琦启程米兰时装周",
       "onboard_time": 1740380900,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 21127,
+      "num": 331931,
+      "word": "当小可被当成玩偶塞进衣服",
+      "onboard_time": 1740382340,
+      "rank": 27,
+      "category": "动漫"
     },
     {
       "raw_hot": 20795,
@@ -2177,6 +2241,14 @@
       "onboard_time": 1740339431,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17826,
+      "num": 335125,
+      "word": "张之臻亚洲男网一哥",
+      "onboard_time": 1740381979,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 16802,
@@ -2241,6 +2313,14 @@
       "onboard_time": 1740337452,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 9388,
+      "num": 335287,
+      "word": "2025还能吃到仙剑三同人",
+      "onboard_time": 1740382281,
+      "rank": 16,
+      "category": "动漫"
     },
     {
       "raw_hot": 7016,
