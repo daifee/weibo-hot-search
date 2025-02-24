@@ -1,6 +1,6 @@
 {
   "startTime": 1740327929685,
-  "endTime": 1740365864090,
+  "endTime": 1740366402092,
   "band_list": [
     {
       "raw_hot": 2195594,
@@ -43,6 +43,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1453541,
+      "num": 1453541,
+      "word": "国家线",
+      "onboard_time": 1740361460,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1376671,
       "num": 342522,
       "word": "陈赫回应被鹿晗关晓彤刷屏",
@@ -57,14 +65,6 @@
       "onboard_time": 1740318201,
       "rank": 13,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 1270178,
-      "num": 1270178,
-      "word": "国家线",
-      "onboard_time": 1740361460,
-      "rank": 43,
-      "category": "教育"
     },
     {
       "raw_hot": 1119028,
@@ -163,6 +163,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 606217,
+      "num": 606217,
+      "word": "权志龙 我们三个也不是想这样才三个人的",
+      "onboard_time": 1740365600,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 603466,
       "num": 603466,
       "word": "中介称杭州网红大楼名声越搞越差",
@@ -195,6 +203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 519229,
+      "num": 519229,
+      "word": "英语一",
+      "onboard_time": 1740361699,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 513161,
       "num": 343509,
       "word": "睡得少和睡得晚哪个伤害大",
@@ -225,6 +241,14 @@
       "onboard_time": 1740332474,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 448827,
+      "num": 448827,
+      "word": "泽连斯基说希望在重建中得到中国帮助",
+      "onboard_time": 1740365000,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 416808,
@@ -276,7 +300,7 @@
     },
     {
       "raw_hot": 388922,
-      "num": 303730,
+      "num": 342648,
       "word": "女子煮6根面兰寿金鱼嗦掉半根",
       "onboard_time": 1740362118,
       "rank": 35,
@@ -299,6 +323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 355876,
+      "num": 355876,
+      "word": "陈星旭卢昱晓新剧轧戏开机",
+      "onboard_time": 1740363319,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 350671,
       "num": 350671,
       "word": "中央一号文件划重点",
@@ -307,12 +339,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 346379,
-      "num": 346379,
-      "word": "英语一",
-      "onboard_time": 1740361699,
-      "rank": 38,
-      "category": "教育"
+      "raw_hot": 347749,
+      "num": 549118,
+      "word": "乌方拒绝给美国价值5000亿美元协议",
+      "onboard_time": 1740361879,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 346376,
+      "num": 348441,
+      "word": "肖战ins更新九宫格",
+      "onboard_time": 1740366080,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 331280,
@@ -323,12 +363,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 324974,
-      "num": 381064,
-      "word": "泽连斯基说希望在重建中得到中国帮助",
-      "onboard_time": 1740365000,
-      "rank": 14,
-      "category": "国际时政"
+      "raw_hot": 321740,
+      "num": 321740,
+      "word": "iPhone17全系CAD图",
+      "onboard_time": 1740365600,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 321407,
@@ -355,27 +395,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 310785,
-      "num": 310785,
-      "word": "权志龙 我们三个也不是想这样才三个人的",
-      "onboard_time": 1740365600,
-      "rank": 18,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 309130,
       "num": 350556,
       "word": "轧戏",
       "onboard_time": 1740362059,
       "rank": 17,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 304739,
-      "num": 304739,
-      "word": "陈星旭卢昱晓新剧轧戏开机",
-      "onboard_time": 1740363319,
-      "rank": 19,
       "category": "剧集"
     },
     {
@@ -409,14 +433,6 @@
       "onboard_time": 1740313582,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 283167,
-      "num": 549118,
-      "word": "乌方拒绝给美国价值5000亿美元协议",
-      "onboard_time": 1740361879,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 276004,
@@ -491,6 +507,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 232879,
+      "num": 322439,
+      "word": "管综",
+      "onboard_time": 1740365240,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 231946,
       "num": 303573,
       "word": "法硕",
@@ -531,8 +555,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 216220,
+      "num": 216220,
+      "word": "小哪吒海外打赢美队4",
+      "onboard_time": 1740366381,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 214860,
-      "num": 214860,
+      "num": 291413,
       "word": "杭州武汉本周热到快30摄氏度",
       "onboard_time": 1740356179,
       "rank": 31,
@@ -561,6 +593,14 @@
       "onboard_time": 1740313522,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205347,
+      "num": 205347,
+      "word": "小米15Ultra",
+      "onboard_time": 1740365419,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 200479,
@@ -603,14 +643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 190494,
-      "num": 190494,
-      "word": "小米15Ultra",
-      "onboard_time": 1740365419,
-      "rank": 33,
-      "category": "数码"
-    },
-    {
       "raw_hot": 185631,
       "num": 251460,
       "word": "宋丛人设",
@@ -635,20 +667,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 182635,
-      "num": 182635,
-      "word": "iPhone17全系CAD图",
-      "onboard_time": 1740365600,
-      "rank": 36,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 181592,
-      "num": 181592,
-      "word": "管综",
-      "onboard_time": 1740365240,
-      "rank": 37,
-      "category": "教育"
+      "raw_hot": 181612,
+      "num": 181612,
+      "word": "小米接入DeepSeek",
+      "onboard_time": 1740364280,
+      "rank": 41,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 180989,
@@ -667,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178754,
+      "num": 178754,
+      "word": "余承东官宣原生鸿蒙新形态手机",
+      "onboard_time": 1740365660,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 178256,
       "num": 247653,
       "word": "肖战男模机场秀",
@@ -675,20 +707,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 177355,
+      "num": 177355,
+      "word": "建议全国推广自制下车站发卡",
+      "onboard_time": 1740363499,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174397,
       "num": 174397,
       "word": "王曼昱4比0孙颖莎",
       "onboard_time": 1740314003,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 171873,
-      "num": 171873,
-      "word": "小米接入DeepSeek",
-      "onboard_time": 1740364280,
-      "rank": 41,
-      "category": "数码,互联网"
     },
     {
       "raw_hot": 168597,
@@ -705,6 +737,14 @@
       "onboard_time": 1740303201,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 166404,
+      "num": 166404,
+      "word": "英语二",
+      "onboard_time": 1740365960,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 164274,
@@ -729,14 +769,6 @@
       "onboard_time": 1740357740,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 157457,
-      "num": 157457,
-      "word": "建议全国推广自制下车站发卡",
-      "onboard_time": 1740363499,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 154740,
@@ -785,14 +817,6 @@
       "onboard_time": 1740353176,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 135911,
-      "num": 135911,
-      "word": "余承东官宣原生鸿蒙新形态手机",
-      "onboard_time": 1740365660,
-      "rank": 47,
-      "category": "数码"
     },
     {
       "raw_hot": 135688,
@@ -899,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108282,
+      "num": 425584,
+      "word": "默茨谈获胜原因",
+      "onboard_time": 1740364460,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 92904,
       "num": 963242,
       "word": "这些春菜里藏着春天的味道",
@@ -939,20 +971,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 74150,
+      "num": 347817,
+      "word": "男子套现损失6千发信息说诅咒很灵",
+      "onboard_time": 1740365721,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73116,
       "num": 73116,
       "word": "当我问DeepSeek对女儿最好的托举",
       "onboard_time": 1740351494,
       "rank": 43,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 65892,
-      "num": 425584,
-      "word": "默茨谈获胜原因",
-      "onboard_time": 1740364460,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 65796,
@@ -977,6 +1009,14 @@
       "onboard_time": 1740300440,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 58894,
+      "num": 396937,
+      "word": "成都一幼儿园建成4年仍闲置",
+      "onboard_time": 1740365901,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57745,
@@ -1012,7 +1052,7 @@
     },
     {
       "raw_hot": 50023,
-      "num": 224226,
+      "num": 373095,
       "word": "近16年考研国家线汇总",
       "onboard_time": 1740365721,
       "rank": 28,
@@ -1025,6 +1065,14 @@
       "onboard_time": 1740353236,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 39604,
+      "num": 1213237,
+      "word": "强农惠农富农的政策持续加力",
+      "onboard_time": 1740366019,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 39139,
@@ -1043,14 +1091,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 35073,
-      "num": 192982,
-      "word": "男子套现损失6千发信息说诅咒很灵",
-      "onboard_time": 1740365721,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 32835,
       "num": 97283,
       "word": "团体赛王曼昱屡次发挥定海神针作用",
@@ -1065,6 +1105,14 @@
       "onboard_time": 1740331934,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 25101,
+      "num": 167128,
+      "word": "成毅涂鸦墙",
+      "onboard_time": 1740364701,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 23897,
@@ -1105,14 +1153,6 @@
       "onboard_time": 1740339431,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17587,
-      "num": 162975,
-      "word": "成毅涂鸦墙",
-      "onboard_time": 1740364701,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 16802,
@@ -1190,6 +1230,9 @@
   "hotgov_list": [
     {
       "word": "#扎实推进乡村全面振兴#"
+    },
+    {
+      "word": "#中国要强农业必须强#"
     }
   ]
 }
