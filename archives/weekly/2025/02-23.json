@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740411610291,
+  "endTime": 1740414610412,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -627,6 +627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 896881,
+      "num": 382306,
+      "word": "千金归来",
+      "onboard_time": 1740410899,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 889794,
       "num": 889794,
       "word": "泽连斯基说希望在重建中得到中国帮助",
@@ -953,6 +961,14 @@
       "onboard_time": 1740278959,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 686293,
+      "num": 686293,
+      "word": "吉祥航空被曝给乘客发过期坚果",
+      "onboard_time": 1740410899,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 684792,
@@ -2763,14 +2779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 230260,
-      "num": 230260,
-      "word": "千金归来",
-      "onboard_time": 1740410899,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 229363,
       "num": 229363,
       "word": "戚薇李承铉到底有多少情侣装",
@@ -3547,6 +3555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188551,
+      "num": 293556,
+      "word": "村民集资修路被压反被质疑收过路费",
+      "onboard_time": 1740411199,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187922,
       "num": 187922,
       "word": "射雕泰国票房周冠",
@@ -4257,6 +4273,14 @@
       "onboard_time": 1740387142,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 163255,
+      "num": 163255,
+      "word": "长期熬夜晚睡消耗气血",
+      "onboard_time": 1740412938,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 162985,
@@ -5139,6 +5163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123111,
+      "num": 123111,
+      "word": "贾浅浅已博士毕业",
+      "onboard_time": 1740412040,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122880,
       "num": 122880,
       "word": "何炅选魏大勋最百搭旅游搭子",
@@ -5353,6 +5385,14 @@
       "onboard_time": 1740392600,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111484,
+      "num": 156912,
+      "word": "TES让一追三nip",
+      "onboard_time": 1740413237,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 111382,
@@ -5579,6 +5619,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 95185,
+      "num": 163967,
+      "word": "吉祥航空回应被曝给乘客过期坚果",
+      "onboard_time": 1740413237,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94431,
       "num": 527009,
       "word": "官方通报村民清理化粪池致2死",
@@ -5609,6 +5657,14 @@
       "onboard_time": 1740369322,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 90644,
+      "num": 90644,
+      "word": "4句话送给正在迷茫的你",
+      "onboard_time": 1740413417,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 89755,
@@ -5649,6 +5705,14 @@
       "onboard_time": 1740396079,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87140,
+      "num": 87140,
+      "word": "去屑洗发水含4种成分才有效",
+      "onboard_time": 1740412398,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 86432,
@@ -5899,6 +5963,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 69942,
+      "num": 69942,
+      "word": "王鹤棣宋茜星河入梦领衔主演",
+      "onboard_time": 1740414077,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 66948,
       "num": 671160,
       "word": "一男子自制工具伤害多只猫被行拘",
@@ -6057,14 +6129,6 @@
       "onboard_time": 1740385403,
       "rank": 18,
       "category": "财经"
-    },
-    {
-      "raw_hot": 58090,
-      "num": 264670,
-      "word": "吉祥航空被曝给乘客发过期坚果",
-      "onboard_time": 1740410899,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 58089,
@@ -6617,14 +6681,6 @@
       "onboard_time": 1740288439,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 27221,
-      "num": 293556,
-      "word": "村民集资修路被压反被质疑收过路费",
-      "onboard_time": 1740411199,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27062,
