@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740422698419,
+  "endTime": 1740424744788,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -6579,6 +6579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33771,
+      "num": 33771,
+      "word": "俄乌冲突三年给世界带来了什么",
+      "onboard_time": 1740411619,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 33513,
       "num": 336873,
       "word": "白敬亭演技缓缓入心",
@@ -6641,6 +6649,14 @@
       "onboard_time": 1740402743,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 29493,
+      "num": 27008,
+      "word": "留学生为父母养老放弃绿卡回国",
+      "onboard_time": 1740422891,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29318,
@@ -6728,14 +6744,6 @@
       "word": "美空军基地发生枪击致士兵死伤",
       "onboard_time": 1740288439,
       "rank": 29,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 27317,
-      "num": 27317,
-      "word": "俄乌冲突三年给世界带来了什么",
-      "onboard_time": 1740411619,
-      "rank": 32,
       "category": "国际时政"
     },
     {
@@ -6889,6 +6897,14 @@
       "onboard_time": 1740302118,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 19986,
+      "num": 19986,
+      "word": "一男子地铁吵架吼对方听不懂上海话",
+      "onboard_time": 1740422832,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19878,
