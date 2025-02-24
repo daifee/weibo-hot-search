@@ -1,6 +1,6 @@
 {
   "startTime": 1740327929685,
-  "endTime": 1740386635509,
+  "endTime": 1740389153621,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -75,20 +75,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1622858,
+      "num": 1622858,
+      "word": "全红婵保送至暨南大学",
+      "onboard_time": 1740385041,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1483831,
       "num": 659968,
       "word": "00后自杀医科大女研究生父亲发声",
       "onboard_time": 1740381439,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1391892,
-      "num": 1391892,
-      "word": "全红婵保送至暨南大学",
-      "onboard_time": 1740385041,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 1376671,
@@ -467,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 536188,
+      "num": 314651,
+      "word": "比起来月经 器官时间不和谐更让我烦躁",
+      "onboard_time": 1740387263,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 521452,
       "num": 521452,
       "word": "毛利兰被击倒了",
@@ -577,6 +585,14 @@
       "onboard_time": 1740318683,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 416578,
+      "num": 416578,
+      "word": "今年国家线降了",
+      "onboard_time": 1740386843,
+      "rank": 6,
+      "category": "教育"
     },
     {
       "raw_hot": 416302,
@@ -779,6 +795,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 320356,
+      "num": 671514,
+      "word": "降分",
+      "onboard_time": 1740386064,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
       "raw_hot": 320173,
       "num": 320173,
       "word": "职业闭店是违法犯罪行为",
@@ -851,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 293084,
+      "num": 293084,
+      "word": "英语一国家线",
+      "onboard_time": 1740386123,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 292799,
       "num": 292799,
       "word": "高露洁 孙颖莎",
@@ -865,6 +897,14 @@
       "onboard_time": 1740377721,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 292034,
+      "num": 292034,
+      "word": "复试",
+      "onboard_time": 1740387621,
+      "rank": 21,
+      "category": "教育"
     },
     {
       "raw_hot": 289617,
@@ -963,14 +1003,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 243171,
-      "num": 243171,
-      "word": "英语一国家线",
-      "onboard_time": 1740386123,
-      "rank": 32,
-      "category": "教育"
-    },
-    {
       "raw_hot": 240116,
       "num": 240116,
       "word": "大仓忠义结婚",
@@ -1033,6 +1065,14 @@
       "onboard_time": 1740376283,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 230712,
+      "num": 230712,
+      "word": "桑延一集比一集穿得少",
+      "onboard_time": 1740387142,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 221744,
@@ -1203,6 +1243,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 204798,
+      "num": 209411,
+      "word": "谢娜否认将参加花少7",
+      "onboard_time": 1740387621,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203887,
       "num": 203887,
       "word": "成毅 丝塔芙",
@@ -1323,12 +1371,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192866,
+      "num": 192866,
+      "word": "无限超越班3导师阵容",
+      "onboard_time": 1740387921,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192535,
       "num": 428325,
       "word": "宋亚轩祝无比帅气的丁程鑫生日快乐",
       "onboard_time": 1740371602,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191767,
+      "num": 208971,
+      "word": "调剂",
+      "onboard_time": 1740387741,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 191665,
@@ -1395,6 +1459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184402,
+      "num": 184402,
+      "word": "复试时间",
+      "onboard_time": 1740388701,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 183928,
       "num": 188815,
       "word": "滤镜开播",
@@ -1417,6 +1489,14 @@
       "onboard_time": 1740372682,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182361,
+      "num": 182361,
+      "word": "妈妈 我有学上了",
+      "onboard_time": 1740388818,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 181893,
@@ -1587,6 +1667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163428,
+      "num": 163428,
+      "word": "雷军发个预告累坏了小米客服",
+      "onboard_time": 1740387142,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 161470,
       "num": 161470,
       "word": "韩国街头8500韩元的韩式拌饭",
@@ -1651,6 +1739,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 154780,
+      "num": 357318,
+      "word": "不租不买房年轻人盯上长住酒店",
+      "onboard_time": 1740383720,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154740,
       "num": 154740,
       "word": "林一参加黄明昊签售会",
@@ -1673,6 +1769,14 @@
       "onboard_time": 1740383600,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151231,
+      "num": 151231,
+      "word": "唐总 夫人爬出门逃跑啦",
+      "onboard_time": 1740387201,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 149934,
@@ -1723,6 +1827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148079,
+      "num": 148079,
+      "word": "捡到了桑延的手机",
+      "onboard_time": 1740388281,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147614,
       "num": 671760,
       "word": "教育部部署研究生招生复试录取工作",
@@ -1763,12 +1875,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142828,
+      "num": 142828,
+      "word": "梁伟铿回应任亚锦赛形象大使",
+      "onboard_time": 1740388881,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141850,
       "num": 141850,
       "word": "四六级成绩还不出",
       "onboard_time": 1740362536,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 140931,
+      "num": 182835,
+      "word": "孙颖莎领奖像夹了个公文包",
+      "onboard_time": 1740388221,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 137627,
+      "num": 137627,
+      "word": "年轻人放弃租房在酒店安家",
+      "onboard_time": 1740387201,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137590,
@@ -1865,14 +2001,6 @@
       "onboard_time": 1740328037,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 126545,
-      "num": 357318,
-      "word": "不租不买房年轻人盯上长住酒店",
-      "onboard_time": 1740383720,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 124027,
@@ -2011,14 +2139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 95423,
-      "num": 671514,
-      "word": "降分",
-      "onboard_time": 1740386064,
-      "rank": 7,
-      "category": "教育"
-    },
-    {
       "raw_hot": 92904,
       "num": 963242,
       "word": "这些春菜里藏着春天的味道",
@@ -2041,6 +2161,14 @@
       "onboard_time": 1740366019,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 82765,
+      "num": 318184,
+      "word": "2000元倒卖哪吒2电影票4人被拘",
+      "onboard_time": 1740387680,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82526,
@@ -2419,6 +2547,14 @@
       "category": "教育,电影"
     },
     {
+      "raw_hot": 27071,
+      "num": 292476,
+      "word": "职院阻止摆摊人行道设置百米石墩阵",
+      "onboard_time": 1740387981,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25850,
       "num": 332307,
       "word": "怎样区分面部皮炎和荨麻疹",
@@ -2489,6 +2625,14 @@
       "onboard_time": 1740339431,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18397,
+      "num": 209135,
+      "word": "专家称各方或达成临时协议暂停俄乌冲突",
+      "onboard_time": 1740388221,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 17826,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1740389153621,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7002730,
+        "num": 7002730,
+        "word": "2025考研国家线发布",
+        "onboard_time": 1740384441,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1622858,
+        "num": 1622858,
+        "word": "全红婵保送至暨南大学",
+        "onboard_time": 1740385041,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101405,
+        "num": 767040,
+        "word": "中央一号文件对三农工作划重点",
+        "onboard_time": 1740383180,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 513707,
+        "num": 513707,
+        "word": "颜安喊李昀锐孟子义哥哥嫂子",
+        "onboard_time": 1740385041,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 439916,
+        "num": 439916,
+        "word": "查分查到自己考研全国第一belike",
+        "onboard_time": 1740373281,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 435144,
+        "num": 435144,
+        "word": "王星去录无限超越班了",
+        "onboard_time": 1740382099,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 416578,
+        "num": 416578,
+        "word": "今年国家线降了",
+        "onboard_time": 1740386843,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 356006,
+        "num": 356006,
+        "word": "何凯文考研英语89分",
+        "onboard_time": 1740381380,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 324221,
+        "num": 324221,
+        "word": "张馨予没有瘦身成功",
+        "onboard_time": 1740380060,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 320356,
+        "num": 320356,
+        "word": "降分",
+        "onboard_time": 1740386064,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 817456,
+        "num": 319519,
+        "word": "爷爷得知医学生孙女自杀后脑溢血",
+        "onboard_time": 1740383540,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82765,
+        "num": 318184,
+        "word": "2000元倒卖哪吒2电影票4人被拘",
+        "onboard_time": 1740387680,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 536188,
+        "num": 314651,
+        "word": "比起来月经 器官时间不和谐更让我烦躁",
+        "onboard_time": 1740387263,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 467654,
+        "num": 312248,
+        "word": "胎儿给妈妈倒输血出生后全身发白",
+        "onboard_time": 1740382281,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338975,
+        "num": 311720,
+        "word": "00后自杀医科大女研究生父亲发声",
+        "onboard_time": 1740381439,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323466,
+        "num": 309825,
+        "word": "贾静雯19岁大女儿晒海边比基尼照",
+        "onboard_time": 1740374181,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307861,
+        "num": 307861,
+        "word": "难哄配角 加戏",
+        "onboard_time": 1740382580,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303039,
+        "num": 303039,
+        "word": "猫的树导演轧戏",
+        "onboard_time": 1740384081,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293084,
+        "num": 293084,
+        "word": "英语一国家线",
+        "onboard_time": 1740386123,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 27071,
+        "num": 292476,
+        "word": "职院阻止摆摊人行道设置百米石墩阵",
+        "onboard_time": 1740387981,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293860,
+        "num": 292367,
+        "word": "政协委员建议将法定婚龄调至18岁",
+        "onboard_time": 1740381200,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292034,
+        "num": 292034,
+        "word": "复试",
+        "onboard_time": 1740387621,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 230712,
+        "num": 230712,
+        "word": "桑延一集比一集穿得少",
+        "onboard_time": 1740387142,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223880,
+        "num": 223880,
+        "word": "她一个月干了我一辈子的工作",
+        "onboard_time": 1740379519,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 216024,
+        "num": 216024,
+        "word": "小孩哥DeepSeek三步法学数学",
+        "onboard_time": 1740383961,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209526,
+        "num": 209526,
+        "word": "网剧轧戏",
+        "onboard_time": 1740385463,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204798,
+        "num": 209411,
+        "word": "谢娜否认将参加花少7",
+        "onboard_time": 1740387621,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197800,
+        "num": 209308,
+        "word": "迪丽热巴我觉得有点尴尬",
+        "onboard_time": 1740373941,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18397,
+        "num": 209135,
+        "word": "专家称各方或达成临时协议暂停俄乌冲突",
+        "onboard_time": 1740388221,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 191767,
+        "num": 208971,
+        "word": "调剂",
+        "onboard_time": 1740387741,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 214954,
+        "num": 208700,
+        "word": "国家线",
+        "onboard_time": 1740361460,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 208635,
+        "num": 208635,
+        "word": "乒乓球从不以金牌论英雄",
+        "onboard_time": 1740381861,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192866,
+        "num": 192866,
+        "word": "无限超越班3导师阵容",
+        "onboard_time": 1740387921,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184402,
+        "num": 184402,
+        "word": "复试时间",
+        "onboard_time": 1740388701,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 140931,
+        "num": 182835,
+        "word": "孙颖莎领奖像夹了个公文包",
+        "onboard_time": 1740388221,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182361,
+        "num": 182361,
+        "word": "妈妈 我有学上了",
+        "onboard_time": 1740388818,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 180471,
+        "num": 180471,
+        "word": "建议睡觉时把手机放1.5米以外",
+        "onboard_time": 1740367882,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 163428,
+        "num": 163428,
+        "word": "雷军发个预告累坏了小米客服",
+        "onboard_time": 1740387142,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 159562,
+        "num": 159562,
+        "word": "王阳孙千首搭制服杀",
+        "onboard_time": 1740385101,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156993,
+        "num": 156993,
+        "word": "林允方逸伦牵手逛街好甜",
+        "onboard_time": 1740382099,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154780,
+        "num": 154780,
+        "word": "不租不买房年轻人盯上长住酒店",
+        "onboard_time": 1740383720,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151231,
+        "num": 151231,
+        "word": "唐总 夫人爬出门逃跑啦",
+        "onboard_time": 1740387201,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148079,
+        "num": 148079,
+        "word": "捡到了桑延的手机",
+        "onboard_time": 1740388281,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142828,
+        "num": 142828,
+        "word": "梁伟铿回应任亚锦赛形象大使",
+        "onboard_time": 1740388881,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137627,
+        "num": 137627,
+        "word": "年轻人放弃租房在酒店安家",
+        "onboard_time": 1740387201,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137263,
+        "num": 137263,
+        "word": "韩国街头8500韩元的韩式拌饭",
+        "onboard_time": 1740384921,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 133865,
+        "num": 133865,
+        "word": "4人千元倒卖哪吒2电影票被拘",
+        "onboard_time": 1740384202,
+        "rank": 46,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 132125,
+        "num": 132125,
+        "word": "窃贼买彩票中381万受害者要求分奖金",
+        "onboard_time": 1740373701,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 129082,
+        "num": 129082,
+        "word": "坏回暖来了",
+        "onboard_time": 1740375681,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128267,
+        "num": 128267,
+        "word": "陈妍希官宣离婚后与友人聚餐",
+        "onboard_time": 1740374422,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心系的头等大事#"
+    }
+  }
+}
