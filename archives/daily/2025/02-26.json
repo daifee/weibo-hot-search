@@ -1,6 +1,6 @@
 {
   "startTime": 1740500996613,
-  "endTime": 1740504222890,
+  "endTime": 1740505250798,
   "band_list": [
     {
       "raw_hot": 1334843,
@@ -139,6 +139,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 239772,
+      "num": 164859,
+      "word": "偷偷藏着哄",
+      "onboard_time": 1740502337,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 227766,
       "num": 227766,
       "word": "王俊凯那期能不能直接放母带",
@@ -169,14 +177,6 @@
       "onboard_time": 1740491001,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 206237,
-      "num": 164859,
-      "word": "偷偷藏着哄",
-      "onboard_time": 1740502337,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 201657,
@@ -219,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130043,
+      "num": 268858,
+      "word": "男子境外遭遇车祸需回国急救民警紧急协调",
+      "onboard_time": 1740500595,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126771,
       "num": 126771,
       "word": "官方回应4人烧秸秆被烟闷身亡",
@@ -249,14 +257,6 @@
       "onboard_time": 1740482901,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 119626,
-      "num": 268858,
-      "word": "男子境外遭遇车祸需回国急救民警紧急协调",
-      "onboard_time": 1740500595,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 112412,
@@ -419,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46783,
+      "num": 126573,
+      "word": "中方回应加拿大制裁20余家中国实体",
+      "onboard_time": 1740504254,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 30971,
       "num": 144968,
       "word": "特朗普称欧洲能拿回援乌资金",
@@ -432,6 +440,22 @@
       "word": "古诗词里的长江有多美",
       "onboard_time": 1740495683,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30546,
+      "num": 50732,
+      "word": "杨幂谈胳膊钙化",
+      "onboard_time": 1740477324,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 25848,
+      "num": 50713,
+      "word": "潘宏关联企业已被重点审查",
+      "onboard_time": 1740501435,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
