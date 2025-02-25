@@ -1,0 +1,410 @@
+{
+  "runTime": 1740476323336,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1252224,
+        "num": 1252224,
+        "word": "鹿晗关晓彤名下并无商业关联",
+        "onboard_time": 1740475220,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1144832,
+        "num": 1144832,
+        "word": "金价",
+        "onboard_time": 1740464359,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 29955,
+        "num": 928003,
+        "word": "祖国大地春耕色块明艳动人",
+        "onboard_time": 1740456981,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 821739,
+        "num": 821739,
+        "word": "男子举报南师大博士女友出轨导师",
+        "onboard_time": 1740475041,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 774168,
+        "num": 774168,
+        "word": "独身女子病逝房产收归国家",
+        "onboard_time": 1740470062,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1563092,
+        "num": 748874,
+        "word": "鹿晗工作室告黑声明",
+        "onboard_time": 1740469400,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 815501,
+        "num": 745133,
+        "word": "何炅这么多年了还是没放过鬼鬼",
+        "onboard_time": 1740473181,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 623731,
+        "num": 623731,
+        "word": "马天宇三人行杀青文",
+        "onboard_time": 1740471620,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 468354,
+        "num": 468354,
+        "word": "30万年薪大厂女生改做健身教练",
+        "onboard_time": 1740471501,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129378,
+        "num": 468291,
+        "word": "灌面汤呛妻案嫌疑人称喝酒失去神志",
+        "onboard_time": 1740475160,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2583399,
+        "num": 467557,
+        "word": "南师大",
+        "onboard_time": 1740468321,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 586088,
+        "num": 466968,
+        "word": "邓为回应一年不进组的原因",
+        "onboard_time": 1740470299,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 519314,
+        "num": 466493,
+        "word": "艺考女生136斤减到87斤",
+        "onboard_time": 1740465739,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 466286,
+        "num": 466286,
+        "word": "村里的大蒜咖啡一年卖7万杯",
+        "onboard_time": 1740471980,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22591,
+        "num": 463442,
+        "word": "暗访烟花非法运输链",
+        "onboard_time": 1740475761,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 462580,
+        "num": 462580,
+        "word": "大蒜也没想到自己成了咖啡搭子",
+        "onboard_time": 1740466520,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338955,
+        "num": 338955,
+        "word": "恋人重新开机",
+        "onboard_time": 1740471740,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316983,
+        "num": 316983,
+        "word": "复旦大学通报博士后抄袭硕士论文",
+        "onboard_time": 1740464598,
+        "rank": 17,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 315537,
+        "num": 315537,
+        "word": "IU美得不知今夕是何年",
+        "onboard_time": 1740468321,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306127,
+        "num": 306127,
+        "word": "驾校学员喝了酒去考科目三",
+        "onboard_time": 1740468321,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 384210,
+        "num": 285317,
+        "word": "怀孕21周时胎儿小脚丫掉了出来",
+        "onboard_time": 1740451758,
+        "rank": 20,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 254725,
+        "num": 254725,
+        "word": "老伯买震楼器报复楼上结果对方耳背",
+        "onboard_time": 1740468439,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246622,
+        "num": 246622,
+        "word": "虞书欣偶遇一位好像羽公子的何医生",
+        "onboard_time": 1740475461,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231191,
+        "num": 231191,
+        "word": "权志龙唱中文",
+        "onboard_time": 1740460462,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 215652,
+        "num": 215652,
+        "word": "第五人格",
+        "onboard_time": 1740475821,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 30636,
+        "num": 214353,
+        "word": "韩桥梁倒塌目击者听见巨响称像打仗",
+        "onboard_time": 1740474922,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 100189,
+        "num": 212703,
+        "word": "空置房物业费到底该不该打折",
+        "onboard_time": 1740474501,
+        "rank": 26,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 28288,
+        "num": 210817,
+        "word": "25年是AI眼镜元年吗",
+        "onboard_time": 1740475522,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 90481,
+        "num": 210183,
+        "word": "为什么手机超大杯都在影像发力",
+        "onboard_time": 1740476120,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 27702,
+        "num": 207896,
+        "word": "医生表示高度白酒送服药物没必要",
+        "onboard_time": 1740475701,
+        "rank": 29,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 557535,
+        "num": 205970,
+        "word": "迈巴赫车主称车被尊界官方暴力测试",
+        "onboard_time": 1740470601,
+        "rank": 30,
+        "category": "汽车,民生新闻"
+      },
+      {
+        "raw_hot": 205887,
+        "num": 205887,
+        "word": "许昕说乒坛最恐怖的运动员是张怡宁",
+        "onboard_time": 1740461720,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194955,
+        "num": 194955,
+        "word": "权志龙新歌屠榜",
+        "onboard_time": 1740474860,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 175748,
+        "num": 175748,
+        "word": "DeepSeek分析现在还适合买黄金吗",
+        "onboard_time": 1740475041,
+        "rank": 33,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 164267,
+        "num": 164267,
+        "word": "Yamy演技被李诚儒饶雪漫肯定",
+        "onboard_time": 1740471081,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163985,
+        "num": 163985,
+        "word": "邓科 被换",
+        "onboard_time": 1740475999,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155245,
+        "num": 155245,
+        "word": "手机NFC功能碰一下钱就没了系摆拍",
+        "onboard_time": 1740460100,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150197,
+        "num": 150197,
+        "word": "灌面汤呛妻案检方建议定罪故意杀人",
+        "onboard_time": 1740472821,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140741,
+        "num": 140741,
+        "word": "徐娇新剧贵女爆改女帝",
+        "onboard_time": 1740465919,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138938,
+        "num": 138938,
+        "word": "樊振东奥运封训时手臂缠满肌贴",
+        "onboard_time": 1740473723,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131127,
+        "num": 131127,
+        "word": "一过性牙痛可能是心梗前兆",
+        "onboard_time": 1740473601,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 130900,
+        "num": 130900,
+        "word": "马克龙拉住特朗普纠正其说法",
+        "onboard_time": 1740473539,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126440,
+        "num": 126440,
+        "word": "手机锁定状态无法进行碰一下支付",
+        "onboard_time": 1740461000,
+        "rank": 42,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 121592,
+        "num": 121592,
+        "word": "白敬亭被网友截图气笑了",
+        "onboard_time": 1740454942,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116844,
+        "num": 116844,
+        "word": "张杰谢娜飞机上热聊",
+        "onboard_time": 1740465498,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115693,
+        "num": 115693,
+        "word": "余宇涵小孩儿哥具象化",
+        "onboard_time": 1740474860,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106853,
+        "num": 106853,
+        "word": "虞书欣偶遇张凌赫正在出诊",
+        "onboard_time": 1740476300,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103930,
+        "num": 103930,
+        "word": "迪丽热巴开推3粉色芭比造型",
+        "onboard_time": 1740459322,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102827,
+        "num": 102827,
+        "word": "韩国消防称2名中国工人遇难",
+        "onboard_time": 1740464661,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 100604,
+        "num": 100604,
+        "word": "诛仙世界",
+        "onboard_time": 1740472761,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这样论三农#"
+    }
+  }
+}
