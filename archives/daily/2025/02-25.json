@@ -1,6 +1,6 @@
 {
   "startTime": 1740414610412,
-  "endTime": 1740497148901,
+  "endTime": 1740497996541,
   "band_list": [
     {
       "raw_hot": 3735413,
@@ -123,6 +123,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1467531,
+      "num": 1467531,
+      "word": "九旬老人离世后四亲属被烟闷身亡",
+      "onboard_time": 1740495441,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1450573,
+      "num": 1450573,
+      "word": "司藤原班人马 龙骨焚箱",
+      "onboard_time": 1740494484,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1449527,
       "num": 1449527,
       "word": "旅行青蛙宣布终止运营",
@@ -169,14 +185,6 @@
       "onboard_time": 1740444380,
       "rank": 1,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1310731,
-      "num": 1310731,
-      "word": "司藤原班人马 龙骨焚箱",
-      "onboard_time": 1740494484,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 1275789,
@@ -291,6 +299,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 930069,
+      "num": 930069,
+      "word": "哪吒2预测票房下调至146亿",
+      "onboard_time": 1740495201,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 907752,
       "num": 332200,
       "word": "老伯买震楼器报复楼上结果对方耳背",
@@ -363,27 +379,11 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 798070,
-      "num": 523170,
-      "word": "哪吒2预测票房下调至146亿",
-      "onboard_time": 1740495201,
-      "rank": 3,
-      "category": "电影"
-    },
-    {
       "raw_hot": 793102,
       "num": 793102,
       "word": "湖南师范大学",
       "onboard_time": 1740477079,
       "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 787571,
-      "num": 787571,
-      "word": "九旬老人离世后四亲属被烟闷身亡",
-      "onboard_time": 1740495441,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -875,6 +875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 393588,
+      "num": 360328,
+      "word": "最会穿搭的现偶男主出现了",
+      "onboard_time": 1740492981,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 390842,
       "num": 390842,
       "word": "90岁奶奶摔倒70岁大伯拼尽全力抱回家",
@@ -889,6 +897,14 @@
       "onboard_time": 1740461000,
       "rank": 14,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 376312,
+      "num": 376312,
+      "word": "气血不足的人就要多出去玩",
+      "onboard_time": 1740481461,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 375389,
@@ -907,14 +923,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 370088,
-      "num": 370088,
-      "word": "气血不足的人就要多出去玩",
-      "onboard_time": 1740481461,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 367741,
       "num": 367741,
       "word": "爱你",
@@ -929,14 +937,6 @@
       "onboard_time": 1740405322,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 360328,
-      "num": 360328,
-      "word": "最会穿搭的现偶男主出现了",
-      "onboard_time": 1740492981,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 355237,
@@ -1065,6 +1065,14 @@
       "onboard_time": 1740486741,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 293101,
+      "num": 293101,
+      "word": "潘宏账号内容被一夜清空",
+      "onboard_time": 1740493283,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 291852,
@@ -1267,14 +1275,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 254257,
-      "num": 254257,
-      "word": "潘宏账号内容被一夜清空",
-      "onboard_time": 1740493283,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 250294,
       "num": 250294,
       "word": "国乒新队服公式照",
@@ -1369,6 +1369,14 @@
       "onboard_time": 1740393739,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231740,
+      "num": 231740,
+      "word": "南师大环境学院官网崩了",
+      "onboard_time": 1740484821,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 229341,
@@ -1491,6 +1499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218014,
+      "num": 218014,
+      "word": "王俊凯那期能不能直接放母带",
+      "onboard_time": 1740497300,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217497,
       "num": 217497,
       "word": "女子曝在西藏旅游遭出租车司机套路",
@@ -1595,6 +1611,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 210708,
+      "num": 231921,
+      "word": "科考队员溶洞失联69小时奇迹生还",
+      "onboard_time": 1740495803,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208774,
       "num": 208774,
       "word": "8万人围观1个人洗碗有啥魔力",
@@ -1617,6 +1641,14 @@
       "onboard_time": 1740480921,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 206981,
+      "num": 206981,
+      "word": "爱你热度",
+      "onboard_time": 1740497000,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 205437,
@@ -1675,6 +1707,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 199200,
+      "num": 199200,
+      "word": "肖战官摄镜头",
+      "onboard_time": 1740497720,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 197423,
       "num": 319987,
       "word": "Gucci大秀",
@@ -1731,14 +1771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 193364,
-      "num": 193364,
-      "word": "南师大环境学院官网崩了",
-      "onboard_time": 1740484821,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 191969,
       "num": 150494,
       "word": "哪吒汽车从未对哪吒2电影方提起诉讼",
@@ -1761,14 +1793,6 @@
       "onboard_time": 1740453018,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 191598,
-      "num": 191598,
-      "word": "爱你热度",
-      "onboard_time": 1740497000,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 190881,
@@ -1995,11 +2019,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 170239,
+      "num": 170239,
+      "word": "六姊妹谁不想要曹斐然这样的妈",
+      "onboard_time": 1740496401,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170151,
       "num": 170151,
       "word": "吴磊有种真人吊打建模的帅",
       "onboard_time": 1740456921,
       "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 170023,
+      "num": 244149,
+      "word": "翟潇闻说最近老有人想掰我牙",
+      "onboard_time": 1740496761,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -2089,14 +2129,6 @@
       "onboard_time": 1740458182,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 164763,
-      "num": 231921,
-      "word": "科考队员溶洞失联69小时奇迹生还",
-      "onboard_time": 1740495803,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 163493,
@@ -2219,14 +2251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 155313,
-      "num": 155313,
-      "word": "六姊妹谁不想要曹斐然这样的妈",
-      "onboard_time": 1740496401,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 155128,
       "num": 155128,
       "word": "理想汽车高管疑似暗讽华为",
@@ -2275,12 +2299,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 153337,
-      "num": 207989,
-      "word": "翟潇闻说最近老有人想掰我牙",
-      "onboard_time": 1740496761,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 152938,
+      "num": 234812,
+      "word": "乌大部分最具价值矿藏已归入俄罗斯",
+      "onboard_time": 1740496042,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 151982,
@@ -2579,14 +2603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127935,
-      "num": 234812,
-      "word": "乌大部分最具价值矿藏已归入俄罗斯",
-      "onboard_time": 1740496042,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 127876,
       "num": 127876,
       "word": "JDG对战AL",
@@ -2633,6 +2649,14 @@
       "onboard_time": 1740495742,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 122193,
+      "num": 278015,
+      "word": "滤镜出品方回应编剧维权",
+      "onboard_time": 1740496282,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 121359,
@@ -2860,7 +2884,7 @@
     },
     {
       "raw_hot": 93532,
-      "num": 159504,
+      "num": 282617,
       "word": "举报2277起违章男子称会继续拍",
       "onboard_time": 1740496761,
       "rank": 38,
@@ -3204,7 +3228,7 @@
     },
     {
       "raw_hot": 54706,
-      "num": 566568,
+      "num": 1073717,
       "word": "古诗词里的长江有多美",
       "onboard_time": 1740495683,
       "rank": 2,
@@ -3355,6 +3379,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32783,
+      "num": 218163,
+      "word": "李盈莹短时间内无法出场",
+      "onboard_time": 1740496821,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 31480,
+      "num": 130179,
+      "word": "大衣哥回应正采访中翻墙走了",
+      "onboard_time": 1740497960,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31158,
       "num": 129889,
       "word": "许昕回应任亚乒联第一副主席",
@@ -3425,14 +3465,6 @@
       "onboard_time": 1740475701,
       "rank": 29,
       "category": "健康医疗,民生新闻"
-    },
-    {
-      "raw_hot": 27189,
-      "num": 247254,
-      "word": "滤镜出品方回应编剧维权",
-      "onboard_time": 1740496282,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 26814,
@@ -3529,14 +3561,6 @@
       "onboard_time": 1740480561,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 19720,
-      "num": 218163,
-      "word": "李盈莹短时间内无法出场",
-      "onboard_time": 1740496821,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 18686,
