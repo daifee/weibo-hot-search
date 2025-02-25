@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1740472190266,
+  "endTime": 1740472979649,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -915,6 +915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3735413,
+      "num": 333615,
+      "word": "南师大",
+      "onboard_time": 1740468321,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 3716611,
       "num": 3716611,
       "word": "李明德 张颂文",
@@ -1217,14 +1225,6 @@
       "onboard_time": 1737692719,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 3217799,
-      "num": 333615,
-      "word": "南师大",
-      "onboard_time": 1740468321,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 3213583,

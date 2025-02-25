@@ -1,0 +1,410 @@
+{
+  "runTime": 1740472979649,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2166331,
+        "num": 2166331,
+        "word": "鹿晗工作室告黑声明",
+        "onboard_time": 1740469400,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1214916,
+        "num": 1214916,
+        "word": "金价",
+        "onboard_time": 1740464359,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 33095,
+        "num": 1191701,
+        "word": "祖国大地春耕色块明艳动人",
+        "onboard_time": 1740456981,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1174832,
+        "num": 1174832,
+        "word": "独身女子病逝房产收归国家",
+        "onboard_time": 1740470062,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 540971,
+        "num": 540971,
+        "word": "IU美得不知今夕是何年",
+        "onboard_time": 1740468321,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 491426,
+        "num": 491426,
+        "word": "复旦大学通报博士后抄袭硕士论文",
+        "onboard_time": 1740464598,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 507687,
+        "num": 470164,
+        "word": "恋人重新开机",
+        "onboard_time": 1740471740,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 420236,
+        "num": 420236,
+        "word": "权志龙唱中文",
+        "onboard_time": 1740460462,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 329210,
+        "num": 329210,
+        "word": "俄方开停战条件",
+        "onboard_time": 1740448998,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 181743,
+        "num": 329191,
+        "word": "村里的大蒜咖啡一年卖7万杯",
+        "onboard_time": 1740471980,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3735413,
+        "num": 328690,
+        "word": "南师大",
+        "onboard_time": 1740468321,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 848528,
+        "num": 328367,
+        "word": "老伯买震楼器报复楼上结果对方耳背",
+        "onboard_time": 1740468439,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 719966,
+        "num": 328045,
+        "word": "艺考女生136斤减到87斤",
+        "onboard_time": 1740465739,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52275,
+        "num": 327971,
+        "word": "十个勤天这日子也是好起来了",
+        "onboard_time": 1740468741,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327750,
+        "num": 327750,
+        "word": "复旦抄袭论文博士后退站",
+        "onboard_time": 1740466279,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 413943,
+        "num": 326278,
+        "word": "马天宇三人行杀青文",
+        "onboard_time": 1740471620,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 330619,
+        "num": 319780,
+        "word": "邓为回应一年不进组的原因",
+        "onboard_time": 1740470299,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302460,
+        "num": 302460,
+        "word": "林高远说我们下个赛场见",
+        "onboard_time": 1740471861,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 298807,
+        "num": 298807,
+        "word": "驾校学员喝了酒去考科目三",
+        "onboard_time": 1740468321,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125321,
+        "num": 284030,
+        "word": "陈鑫海领带给我扯一下",
+        "onboard_time": 1740471921,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483552,
+        "num": 283668,
+        "word": "怀孕21周时胎儿小脚丫掉了出来",
+        "onboard_time": 1740451758,
+        "rank": 20,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 304339,
+        "num": 282906,
+        "word": "徐娇新剧贵女爆改女帝",
+        "onboard_time": 1740465919,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280679,
+        "num": 280679,
+        "word": "30万年薪大厂女生改做健身教练",
+        "onboard_time": 1740471501,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64858,
+        "num": 277393,
+        "word": "全运会乒乓球资格赛落地宁波",
+        "onboard_time": 1740469160,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276273,
+        "num": 276273,
+        "word": "难听",
+        "onboard_time": 1740466700,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 264338,
+        "num": 264338,
+        "word": "大蒜也没想到自己成了咖啡搭子",
+        "onboard_time": 1740466520,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101449,
+        "num": 248311,
+        "word": "最适合粉色的男人出现了",
+        "onboard_time": 1740471320,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 242017,
+        "num": 242017,
+        "word": "韩国消防称2名中国工人遇难",
+        "onboard_time": 1740464661,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 9828,
+        "num": 238935,
+        "word": "灌面汤呛妻案检方建议定罪故意杀人",
+        "onboard_time": 1740472821,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238809,
+        "num": 238809,
+        "word": "鹿晗多平台维权",
+        "onboard_time": 1740472100,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238733,
+        "num": 238733,
+        "word": "Yamy演技被李诚儒饶雪漫肯定",
+        "onboard_time": 1740471081,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230003,
+        "num": 230003,
+        "word": "手机NFC功能碰一下钱就没了系摆拍",
+        "onboard_time": 1740460100,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72055,
+        "num": 227509,
+        "word": "学生吐槽放假回校热水费涨成天价",
+        "onboard_time": 1740471081,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226463,
+        "num": 226463,
+        "word": "张杰谢娜飞机上热聊",
+        "onboard_time": 1740465498,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223129,
+        "num": 223129,
+        "word": "迈巴赫车主称车被尊界官方暴力测试",
+        "onboard_time": 1740470601,
+        "rank": 34,
+        "category": "汽车,民生新闻"
+      },
+      {
+        "raw_hot": 186538,
+        "num": 186538,
+        "word": "白敬亭被网友截图气笑了",
+        "onboard_time": 1740454942,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185086,
+        "num": 185086,
+        "word": "手机锁定状态无法进行碰一下支付",
+        "onboard_time": 1740461000,
+        "rank": 36,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 184068,
+        "num": 184068,
+        "word": "许昕说乒坛最恐怖的运动员是张怡宁",
+        "onboard_time": 1740461720,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178037,
+        "num": 178037,
+        "word": "病人住院把病床睡塌被要求赔1800",
+        "onboard_time": 1740467660,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174867,
+        "num": 174867,
+        "word": "雷军感谢李想",
+        "onboard_time": 1740468680,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 165750,
+        "num": 165750,
+        "word": "诛仙世界",
+        "onboard_time": 1740472761,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155622,
+        "num": 155622,
+        "word": "权志龙柳智敏双人舞",
+        "onboard_time": 1740464238,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 154165,
+        "num": 154165,
+        "word": "迪丽热巴开推3粉色芭比造型",
+        "onboard_time": 1740459322,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139927,
+        "num": 139927,
+        "word": "强降雪致日本多地积雪超4米",
+        "onboard_time": 1740468861,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 139649,
+        "num": 139649,
+        "word": "白敬亭多拍女性向",
+        "onboard_time": 1740468200,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134657,
+        "num": 134657,
+        "word": "婚内私赠第三者的财产配偶有权要回",
+        "onboard_time": 1740468982,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128392,
+        "num": 128392,
+        "word": "黄景瑜宣传徐若晗爱你",
+        "onboard_time": 1740467840,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121445,
+        "num": 121445,
+        "word": "外国人演我见到肖战",
+        "onboard_time": 1740470720,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114623,
+        "num": 114623,
+        "word": "男子因认为牌友没给暗杠钱争吵去世",
+        "onboard_time": 1740470362,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108911,
+        "num": 108911,
+        "word": "李威教唆犯罪录音疑曝光",
+        "onboard_time": 1740454339,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄是搬不走的好邻居#"
+    }
+  }
+}

@@ -1,9 +1,9 @@
 {
   "startTime": 1740414610412,
-  "endTime": 1740472190266,
+  "endTime": 1740472979649,
   "band_list": [
     {
-      "raw_hot": 3217799,
+      "raw_hot": 3735413,
       "num": 333615,
       "word": "南师大",
       "onboard_time": 1740468321,
@@ -107,6 +107,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 1174832,
+      "num": 1174832,
+      "word": "独身女子病逝房产收归国家",
+      "onboard_time": 1740470062,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1148255,
       "num": 1148255,
       "word": "李威涉嫌伤害致死",
@@ -145,14 +153,6 @@
       "onboard_time": 1740441258,
       "rank": 11,
       "category": "网红"
-    },
-    {
-      "raw_hot": 970253,
-      "num": 970253,
-      "word": "独身女子病逝房产收归国家",
-      "onboard_time": 1740470062,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 950186,
@@ -435,6 +435,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 507687,
+      "num": 470164,
+      "word": "恋人重新开机",
+      "onboard_time": 1740471740,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 502408,
       "num": 587831,
       "word": "韩国一高速桥梁倒塌致3死5伤",
@@ -481,6 +489,14 @@
       "onboard_time": 1740466279,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 413943,
+      "num": 326278,
+      "word": "马天宇三人行杀青文",
+      "onboard_time": 1740471620,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 408604,
@@ -579,20 +595,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 330619,
+      "num": 319780,
+      "word": "邓为回应一年不进组的原因",
+      "onboard_time": 1740470299,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 317021,
       "num": 317021,
       "word": "张婧仪G社镜头",
       "onboard_time": 1740453741,
       "rank": 21,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 313904,
-      "num": 313904,
-      "word": "恋人重新开机",
-      "onboard_time": 1740471740,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 311917,
@@ -609,6 +625,22 @@
       "onboard_time": 1740452899,
       "rank": 14,
       "category": "健康医疗,互联网"
+    },
+    {
+      "raw_hot": 302460,
+      "num": 302460,
+      "word": "林高远说我们下个赛场见",
+      "onboard_time": 1740471861,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 298807,
+      "num": 298807,
+      "word": "驾校学员喝了酒去考科目三",
+      "onboard_time": 1740468321,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 296504,
@@ -659,27 +691,19 @@
       "category": "教育"
     },
     {
+      "raw_hot": 280679,
+      "num": 280679,
+      "word": "30万年薪大厂女生改做健身教练",
+      "onboard_time": 1740471501,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 279435,
       "num": 411125,
       "word": "大蒜也没想到自己成了咖啡搭子",
       "onboard_time": 1740466520,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 278699,
-      "num": 278699,
-      "word": "邓为回应一年不进组的原因",
-      "onboard_time": 1740470299,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 276870,
-      "num": 276870,
-      "word": "驾校学员喝了酒去考科目三",
-      "onboard_time": 1740468321,
-      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -771,12 +795,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 238809,
+      "num": 279014,
+      "word": "鹿晗多平台维权",
+      "onboard_time": 1740472100,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 238778,
       "num": 238778,
       "word": "长期熬夜晚睡消耗气血",
       "onboard_time": 1740412938,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 238733,
+      "num": 238733,
+      "word": "Yamy演技被李诚儒饶雪漫肯定",
+      "onboard_time": 1740471081,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 232419,
@@ -809,6 +849,14 @@
       "onboard_time": 1740453801,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 223129,
+      "num": 223129,
+      "word": "迈巴赫车主称车被尊界官方暴力测试",
+      "onboard_time": 1740470601,
+      "rank": 46,
+      "category": "汽车,民生新闻"
     },
     {
       "raw_hot": 222734,
@@ -848,14 +896,6 @@
       "word": "柯淳上无限超越班害怕被骂",
       "onboard_time": 1740461061,
       "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 218881,
-      "num": 205581,
-      "word": "Yamy演技被李诚儒饶雪漫肯定",
-      "onboard_time": 1740471081,
-      "rank": 32,
       "category": "综艺"
     },
     {
@@ -955,14 +995,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 209570,
-      "num": 279014,
-      "word": "鹿晗多平台维权",
-      "onboard_time": 1740472100,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 208774,
       "num": 208774,
       "word": "8万人围观1个人洗碗有啥魔力",
@@ -1016,14 +1048,6 @@
       "word": "她抱着必死的决心走向了结局",
       "onboard_time": 1740465080,
       "rank": 48,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 193520,
-      "num": 193520,
-      "word": "马天宇三人行杀青文",
-      "onboard_time": 1740471620,
-      "rank": 35,
       "category": "剧集"
     },
     {
@@ -1132,11 +1156,19 @@
     },
     {
       "raw_hot": 183701,
-      "num": 280105,
+      "num": 284030,
       "word": "陈鑫海领带给我扯一下",
       "onboard_time": 1740471921,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181743,
+      "num": 329191,
+      "word": "村里的大蒜咖啡一年卖7万杯",
+      "onboard_time": 1740471980,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180632,
@@ -1153,6 +1185,14 @@
       "onboard_time": 1740438314,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 178037,
+      "num": 279946,
+      "word": "病人住院把病床睡塌被要求赔1800",
+      "onboard_time": 1740467660,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177425,
@@ -1208,6 +1248,14 @@
       "word": "祁煜全球热恋",
       "onboard_time": 1740457823,
       "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 165750,
+      "num": 165750,
+      "word": "诛仙世界",
+      "onboard_time": 1740472761,
+      "rank": 40,
       "category": "游戏"
     },
     {
@@ -1371,14 +1419,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 147003,
-      "num": 147003,
-      "word": "30万年薪大厂女生改做健身教练",
-      "onboard_time": 1740471501,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 146755,
       "num": 146755,
       "word": "理想公布首款纯电SUV",
@@ -1419,12 +1459,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140914,
-      "num": 140914,
-      "word": "迈巴赫车主称车被尊界官方暴力测试",
-      "onboard_time": 1740470601,
-      "rank": 46,
-      "category": "汽车,民生新闻"
+      "raw_hot": 139927,
+      "num": 181658,
+      "word": "强降雪致日本多地积雪超4米",
+      "onboard_time": 1740468861,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 138527,
@@ -1459,14 +1499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 136916,
-      "num": 277503,
-      "word": "林高远说我们下个赛场见",
-      "onboard_time": 1740471861,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 134667,
       "num": 134667,
       "word": "湖南师大回应教授指责学生娇生惯养",
@@ -1491,14 +1523,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 131206,
-      "num": 181658,
-      "word": "强降雪致日本多地积雪超4米",
-      "onboard_time": 1740468861,
-      "rank": 40,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 129959,
       "num": 129959,
       "word": "波士顿动力已购买宇树机器人",
@@ -1512,14 +1536,6 @@
       "word": "专家建议提高个税免征额至6000元",
       "onboard_time": 1740446298,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 128145,
-      "num": 279946,
-      "word": "病人住院把病床睡塌被要求赔1800",
-      "onboard_time": 1740467660,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1601,14 +1617,6 @@
       "onboard_time": 1740384441,
       "rank": 29,
       "category": "教育"
-    },
-    {
-      "raw_hot": 116120,
-      "num": 278345,
-      "word": "村里的大蒜咖啡一年卖7万杯",
-      "onboard_time": 1740471980,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115129,
@@ -1745,6 +1753,14 @@
       "onboard_time": 1740448759,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 101449,
+      "num": 278284,
+      "word": "最适合粉色的男人出现了",
+      "onboard_time": 1740471320,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 100567,
@@ -1899,6 +1915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 72055,
+      "num": 316303,
+      "word": "学生吐槽放假回校热水费涨成天价",
+      "onboard_time": 1740471081,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71916,
       "num": 71916,
       "word": "湖北师大回应初中学历者进校就职",
@@ -1956,19 +1980,11 @@
     },
     {
       "raw_hot": 66827,
-      "num": 314386,
+      "num": 327971,
       "word": "十个勤天这日子也是好起来了",
       "onboard_time": 1740468741,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 66278,
-      "num": 278284,
-      "word": "最适合粉色的男人出现了",
-      "onboard_time": 1740471320,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 66112,
@@ -2009,6 +2025,14 @@
       "onboard_time": 1740457463,
       "rank": 29,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 64858,
+      "num": 277393,
+      "word": "全运会乒乓球资格赛落地宁波",
+      "onboard_time": 1740469160,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 62431,
@@ -2073,14 +2097,6 @@
       "onboard_time": 1740455661,
       "rank": 40,
       "category": "舆论监督,健康医疗"
-    },
-    {
-      "raw_hot": 51932,
-      "num": 316303,
-      "word": "学生吐槽放假回校热水费涨成天价",
-      "onboard_time": 1740471081,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 51149,
@@ -2289,6 +2305,14 @@
       "onboard_time": 1740411499,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 9828,
+      "num": 238935,
+      "word": "灌面汤呛妻案检方建议定罪故意杀人",
+      "onboard_time": 1740472821,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9405,
