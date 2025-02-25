@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740468138483,
+  "endTime": 1740468936910,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -323,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1377168,
+      "num": 1377168,
+      "word": "金价",
+      "onboard_time": 1740464359,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1355600,
       "num": 1355600,
       "word": "3号厅检票员工 难哄",
@@ -352,6 +360,14 @@
       "word": "拆迁6套房分配不均引发兄妹矛盾",
       "onboard_time": 1740321562,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1262756,
+      "num": 411117,
+      "word": "艺考女生136斤减到87斤",
+      "onboard_time": 1740465739,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -387,20 +403,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1233789,
+      "num": 1233789,
+      "word": "复旦大学通报博士后抄袭硕士论文",
+      "onboard_time": 1740464598,
+      "rank": 39,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 1197987,
       "num": 1197987,
       "word": "王楚钦vs林昀儒",
       "onboard_time": 1740289459,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1190466,
-      "num": 411117,
-      "word": "艺考女生136斤减到87斤",
-      "onboard_time": 1740465739,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1188045,
@@ -569,14 +585,6 @@
       "onboard_time": 1740318683,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1013262,
-      "num": 1162122,
-      "word": "复旦大学通报博士后抄袭硕士论文",
-      "onboard_time": 1740464598,
-      "rank": 39,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1012849,
@@ -803,14 +811,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 824371,
-      "num": 824371,
-      "word": "金价",
-      "onboard_time": 1740464359,
-      "rank": 26,
-      "category": "财经"
-    },
-    {
       "raw_hot": 816015,
       "num": 671077,
       "word": "胎儿给妈妈倒输血出生后全身发白",
@@ -993,6 +993,14 @@
       "onboard_time": 1740396500,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 727637,
+      "num": 727637,
+      "word": "徐娇新剧贵女爆改女帝",
+      "onboard_time": 1740465919,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 723728,
@@ -1225,14 +1233,6 @@
       "onboard_time": 1740373642,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 664972,
-      "num": 664972,
-      "word": "徐娇新剧贵女爆改女帝",
-      "onboard_time": 1740465919,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 664568,
@@ -1819,6 +1819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 472592,
+      "num": 410225,
+      "word": "张杰谢娜飞机上热聊",
+      "onboard_time": 1740465498,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 464805,
       "num": 307995,
       "word": "王子文带儿子和亲友聚餐",
@@ -1931,6 +1939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 427023,
+      "num": 427023,
+      "word": "IU美得不知今夕是何年",
+      "onboard_time": 1740468321,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 425339,
       "num": 425339,
       "word": "老人花2万多买床垫拆开主材是泡沫",
@@ -1977,14 +1993,6 @@
       "onboard_time": 1740366381,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 410225,
-      "num": 410225,
-      "word": "张杰谢娜飞机上热聊",
-      "onboard_time": 1740465498,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 408604,
@@ -2371,6 +2379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 347271,
+      "num": 347271,
+      "word": "复旦抄袭论文博士后退站",
+      "onboard_time": 1740466279,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 346615,
       "num": 346615,
       "word": "考研政治",
@@ -2393,6 +2409,14 @@
       "onboard_time": 1740285679,
       "rank": 49,
       "category": "民生新闻,电影"
+    },
+    {
+      "raw_hot": 344704,
+      "num": 344704,
+      "word": "难听",
+      "onboard_time": 1740466700,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 344422,
@@ -2659,14 +2683,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 299514,
-      "num": 299514,
-      "word": "难听",
-      "onboard_time": 1740466700,
-      "rank": 17,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 297938,
       "num": 297938,
       "word": "张晚意出道10年第一部双世剧",
@@ -2849,6 +2865,14 @@
       "onboard_time": 1740458302,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 281551,
+      "num": 281551,
+      "word": "四六级明天查分",
+      "onboard_time": 1740466818,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 281279,
@@ -3073,14 +3097,6 @@
       "onboard_time": 1740327679,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 250294,
-      "num": 250294,
-      "word": "复旦抄袭论文博士后退站",
-      "onboard_time": 1740466279,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 249191,
@@ -3363,6 +3379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 230497,
+      "num": 230497,
+      "word": "南师大",
+      "onboard_time": 1740468321,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 230337,
       "num": 230337,
       "word": "孙颖莎晋级亚洲杯决赛",
@@ -3427,6 +3451,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 225266,
+      "num": 310051,
+      "word": "黄景瑜宣传徐若晗爱你",
+      "onboard_time": 1740467840,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 224305,
       "num": 237340,
       "word": "蒯曼胜利现场放姐就是女王",
@@ -3441,6 +3473,14 @@
       "onboard_time": 1740453801,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 223495,
+      "num": 411125,
+      "word": "大蒜也没想到自己成了咖啡搭子",
+      "onboard_time": 1740466520,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 222734,
@@ -3659,6 +3699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 214238,
+      "num": 321252,
+      "word": "偶像男团插队登机合理吗",
+      "onboard_time": 1740467121,
+      "rank": 19,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 213993,
       "num": 213993,
       "word": "蒯曼4比0胜陈幸同",
@@ -3785,6 +3833,14 @@
       "onboard_time": 1740318383,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206322,
+      "num": 206322,
+      "word": "驾校学员喝了酒去考科目三",
+      "onboard_time": 1740468321,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 206160,
@@ -4171,14 +4227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192866,
-      "num": 192866,
-      "word": "四六级明天查分",
-      "onboard_time": 1740466818,
-      "rank": 28,
-      "category": "教育"
-    },
-    {
       "raw_hot": 192694,
       "num": 192694,
       "word": "肖宇梁说国家强大很幸福",
@@ -4563,6 +4611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 182430,
+      "num": 182430,
+      "word": "老伯买震楼器报复楼上结果对方耳背",
+      "onboard_time": 1740468439,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182376,
       "num": 182376,
       "word": "难哄云合登顶",
@@ -4883,6 +4939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170419,
+      "num": 170419,
+      "word": "雷军感谢李想",
+      "onboard_time": 1740468680,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 170312,
       "num": 331454,
       "word": "哪吒2小孩子长得就是快",
@@ -4953,6 +5017,14 @@
       "onboard_time": 1740319102,
       "rank": 49,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 168866,
+      "num": 168866,
+      "word": "白敬亭多拍女性向",
+      "onboard_time": 1740468200,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 168831,
@@ -5499,14 +5571,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 152061,
-      "num": 411125,
-      "word": "大蒜也没想到自己成了咖啡搭子",
-      "onboard_time": 1740466520,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 152025,
       "num": 152025,
       "word": "六姊妹母亲可以不完美",
@@ -5713,6 +5777,14 @@
       "onboard_time": 1740398061,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147200,
+      "num": 299019,
+      "word": "祁煜玻璃同一侧",
+      "onboard_time": 1740468021,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 146859,
@@ -6161,14 +6233,6 @@
       "onboard_time": 1740300379,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 130144,
-      "num": 130144,
-      "word": "黄景瑜宣传徐若晗爱你",
-      "onboard_time": 1740467840,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 129965,
@@ -6635,14 +6699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 110992,
-      "num": 110992,
-      "word": "祁煜玻璃同一侧",
-      "onboard_time": 1740468021,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 110960,
       "num": 110960,
       "word": "这个反常行为引起朝阳群众警觉",
@@ -7036,7 +7092,7 @@
     },
     {
       "raw_hot": 84594,
-      "num": 189636,
+      "num": 280417,
       "word": "梁靖崑带偏王楚钦林诗栋",
       "onboard_time": 1740467840,
       "rank": 29,
@@ -7299,6 +7355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 69077,
+      "num": 325759,
+      "word": "多方回应学校要求学生提交消费明细",
+      "onboard_time": 1740467900,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68048,
       "num": 159058,
       "word": "网售甄嬛传息肌丸已卖出1.1万单",
@@ -7329,6 +7393,14 @@
       "onboard_time": 1740367101,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66112,
+      "num": 288329,
+      "word": "易孕体质的说法科学吗",
+      "onboard_time": 1740467962,
+      "rank": 30,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 65841,
@@ -7457,6 +7529,14 @@
       "onboard_time": 1740374901,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 60725,
+      "num": 161941,
+      "word": "强降雪致日本多地积雪超4米",
+      "onboard_time": 1740468861,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 60538,
@@ -7611,14 +7691,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 54380,
-      "num": 253180,
-      "word": "偶像男团插队登机合理吗",
-      "onboard_time": 1740467121,
-      "rank": 19,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 54359,
       "num": 155302,
       "word": "土拨鼠可爱但收一只不行",
@@ -7769,14 +7841,6 @@
       "onboard_time": 1740402861,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 48610,
-      "num": 187643,
-      "word": "易孕体质的说法科学吗",
-      "onboard_time": 1740467962,
-      "rank": 30,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 48280,
@@ -8027,6 +8091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34394,
+      "num": 284111,
+      "word": "负责人称墩子在后厨撒尿系误会",
+      "onboard_time": 1740467359,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33513,
       "num": 336873,
       "word": "白敬亭演技缓缓入心",
@@ -8097,14 +8169,6 @@
       "onboard_time": 1740449418,
       "rank": 19,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 29684,
-      "num": 198354,
-      "word": "多方回应学校要求学生提交消费明细",
-      "onboard_time": 1740467900,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29318,
@@ -8225,14 +8289,6 @@
       "onboard_time": 1740465498,
       "rank": 19,
       "category": "艺人,互联网"
-    },
-    {
-      "raw_hot": 25297,
-      "num": 193393,
-      "word": "负责人称墩子在后厨撒尿系误会",
-      "onboard_time": 1740467359,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 24775,
@@ -8657,6 +8713,14 @@
       "onboard_time": 1740337452,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 10349,
+      "num": 160919,
+      "word": "十个勤天这日子也是好起来了",
+      "onboard_time": 1740468741,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 9405,

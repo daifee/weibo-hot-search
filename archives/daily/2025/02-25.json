@@ -1,6 +1,6 @@
 {
   "startTime": 1740414610412,
-  "endTime": 1740468138483,
+  "endTime": 1740468936910,
   "band_list": [
     {
       "raw_hot": 2114020,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1377168,
+      "num": 1377168,
+      "word": "金价",
+      "onboard_time": 1740464359,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1325670,
       "num": 1325670,
       "word": "DeepSeek评以为很卫生实际巨脏的行为",
@@ -67,12 +75,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1190466,
+      "raw_hot": 1262756,
       "num": 411117,
       "word": "艺考女生136斤减到87斤",
       "onboard_time": 1740465739,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1233789,
+      "num": 1233789,
+      "word": "复旦大学通报博士后抄袭硕士论文",
+      "onboard_time": 1740464598,
+      "rank": 39,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1148255,
@@ -97,14 +113,6 @@
       "onboard_time": 1740454942,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1013262,
-      "num": 1162122,
-      "word": "复旦大学通报博士后抄袭硕士论文",
-      "onboard_time": 1740464598,
-      "rank": 39,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 992695,
@@ -155,14 +163,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 824371,
-      "num": 824371,
-      "word": "金价",
-      "onboard_time": 1740464359,
-      "rank": 26,
-      "category": "财经"
-    },
-    {
       "raw_hot": 810306,
       "num": 810306,
       "word": "理想i8",
@@ -201,6 +201,14 @@
       "onboard_time": 1740446719,
       "rank": 14,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 727637,
+      "num": 727637,
+      "word": "徐娇新剧贵女爆改女帝",
+      "onboard_time": 1740465919,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 720658,
@@ -257,14 +265,6 @@
       "onboard_time": 1740442399,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 664972,
-      "num": 664972,
-      "word": "徐娇新剧贵女爆改女帝",
-      "onboard_time": 1740465919,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 652614,
@@ -411,6 +411,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 472592,
+      "num": 410225,
+      "word": "张杰谢娜飞机上热聊",
+      "onboard_time": 1740465498,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 433540,
       "num": 433540,
       "word": "孙丞潇自曝焦虑到要吃药",
@@ -427,11 +435,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 410225,
-      "num": 410225,
-      "word": "张杰谢娜飞机上热聊",
-      "onboard_time": 1740465498,
-      "rank": 32,
+      "raw_hot": 427023,
+      "num": 427023,
+      "word": "IU美得不知今夕是何年",
+      "onboard_time": 1740468321,
+      "rank": 7,
       "category": "艺人"
     },
     {
@@ -515,6 +523,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 347271,
+      "num": 347271,
+      "word": "复旦抄袭论文博士后退站",
+      "onboard_time": 1740466279,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 344704,
+      "num": 344704,
+      "word": "难听",
+      "onboard_time": 1740466700,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 331839,
       "num": 228801,
       "word": "张雨绮前夫袁巴元被限消",
@@ -545,14 +569,6 @@
       "onboard_time": 1740452899,
       "rank": 14,
       "category": "健康医疗,互联网"
-    },
-    {
-      "raw_hot": 299514,
-      "num": 299514,
-      "word": "难听",
-      "onboard_time": 1740466700,
-      "rank": 17,
-      "category": "音乐"
     },
     {
       "raw_hot": 296504,
@@ -593,6 +609,14 @@
       "onboard_time": 1740458302,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 281551,
+      "num": 281551,
+      "word": "四六级明天查分",
+      "onboard_time": 1740466818,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 275597,
@@ -667,14 +691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 250294,
-      "num": 250294,
-      "word": "复旦抄袭论文博士后退站",
-      "onboard_time": 1740466279,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 246815,
       "num": 214679,
       "word": "放羊的星星",
@@ -707,11 +723,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230497,
+      "num": 230497,
+      "word": "南师大",
+      "onboard_time": 1740468321,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 228384,
       "num": 214294,
       "word": "掌心",
       "onboard_time": 1740460462,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 225266,
+      "num": 310051,
+      "word": "黄景瑜宣传徐若晗爱你",
+      "onboard_time": 1740467840,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -721,6 +753,14 @@
       "onboard_time": 1740453801,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 223495,
+      "num": 411125,
+      "word": "大蒜也没想到自己成了咖啡搭子",
+      "onboard_time": 1740466520,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 222734,
@@ -827,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214238,
+      "num": 321252,
+      "word": "偶像男团插队登机合理吗",
+      "onboard_time": 1740467121,
+      "rank": 19,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 212293,
       "num": 163713,
       "word": "六姊妹大结局",
@@ -857,6 +905,14 @@
       "onboard_time": 1740445520,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 206322,
+      "num": 206322,
+      "word": "驾校学员喝了酒去考科目三",
+      "onboard_time": 1740468321,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 205102,
@@ -897,14 +953,6 @@
       "onboard_time": 1740465080,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 192866,
-      "num": 192866,
-      "word": "四六级明天查分",
-      "onboard_time": 1740466818,
-      "rank": 28,
-      "category": "教育"
     },
     {
       "raw_hot": 191969,
@@ -1011,6 +1059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 182430,
+      "num": 182430,
+      "word": "老伯买震楼器报复楼上结果对方耳背",
+      "onboard_time": 1740468439,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180632,
       "num": 180632,
       "word": "难哄",
@@ -1051,12 +1107,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 170419,
+      "num": 170419,
+      "word": "雷军感谢李想",
+      "onboard_time": 1740468680,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 170151,
       "num": 170151,
       "word": "吴磊有种真人吊打建模的帅",
       "onboard_time": 1740456921,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168866,
+      "num": 168866,
+      "word": "白敬亭多拍女性向",
+      "onboard_time": 1740468200,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 168324,
@@ -1171,14 +1243,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 152061,
-      "num": 411125,
-      "word": "大蒜也没想到自己成了咖啡搭子",
-      "onboard_time": 1740466520,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 151982,
       "num": 283041,
       "word": "小伙裸眼铅笔芯上复刻哪吒",
@@ -1225,6 +1289,14 @@
       "onboard_time": 1740465860,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 147200,
+      "num": 299019,
+      "word": "祁煜玻璃同一侧",
+      "onboard_time": 1740468021,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 146755,
@@ -1305,14 +1377,6 @@
       "onboard_time": 1740447377,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 130144,
-      "num": 130144,
-      "word": "黄景瑜宣传徐若晗爱你",
-      "onboard_time": 1740467840,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 129959,
@@ -1465,14 +1529,6 @@
       "onboard_time": 1740413237,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 110992,
-      "num": 110992,
-      "word": "祁煜玻璃同一侧",
-      "onboard_time": 1740468021,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 110960,
@@ -1652,7 +1708,7 @@
     },
     {
       "raw_hot": 84594,
-      "num": 189636,
+      "num": 280417,
       "word": "梁靖崑带偏王楚钦林诗栋",
       "onboard_time": 1740467840,
       "rank": 29,
@@ -1731,12 +1787,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69077,
+      "num": 325759,
+      "word": "多方回应学校要求学生提交消费明细",
+      "onboard_time": 1740467900,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68048,
       "num": 159058,
       "word": "网售甄嬛传息肌丸已卖出1.1万单",
       "onboard_time": 1740465800,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 66112,
+      "num": 288329,
+      "word": "易孕体质的说法科学吗",
+      "onboard_time": 1740467962,
+      "rank": 30,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 65841,
@@ -1777,6 +1849,14 @@
       "onboard_time": 1740415275,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 60725,
+      "num": 161941,
+      "word": "强降雪致日本多地积雪超4米",
+      "onboard_time": 1740468861,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 60538,
@@ -1827,14 +1907,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 54380,
-      "num": 253180,
-      "word": "偶像男团插队登机合理吗",
-      "onboard_time": 1740467121,
-      "rank": 19,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 52315,
       "num": 66046,
       "word": "因为爱聊天获诺贝尔一直讲",
@@ -1857,14 +1929,6 @@
       "onboard_time": 1740458842,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 48610,
-      "num": 187643,
-      "word": "易孕体质的说法科学吗",
-      "onboard_time": 1740467962,
-      "rank": 30,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 45894,
@@ -1915,6 +1979,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 34394,
+      "num": 284111,
+      "word": "负责人称墩子在后厨撒尿系误会",
+      "onboard_time": 1740467359,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30051,
       "num": 405629,
       "word": "A股",
@@ -1929,14 +2001,6 @@
       "onboard_time": 1740449418,
       "rank": 19,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 29684,
-      "num": 198354,
-      "word": "多方回应学校要求学生提交消费明细",
-      "onboard_time": 1740467900,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29285,
@@ -1961,14 +2025,6 @@
       "onboard_time": 1740465498,
       "rank": 19,
       "category": "艺人,互联网"
-    },
-    {
-      "raw_hot": 25297,
-      "num": 193393,
-      "word": "负责人称墩子在后厨撒尿系误会",
-      "onboard_time": 1740467359,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 24775,
@@ -2065,6 +2121,14 @@
       "onboard_time": 1740411499,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 10349,
+      "num": 160919,
+      "word": "十个勤天这日子也是好起来了",
+      "onboard_time": 1740468741,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 9405,
