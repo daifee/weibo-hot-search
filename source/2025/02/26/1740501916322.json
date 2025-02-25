@@ -1,0 +1,410 @@
+{
+  "runTime": 1740501916322,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1143211,
+        "num": 1143211,
+        "word": "你要撑住马上就可以到中国抢救了",
+        "onboard_time": 1740499758,
+        "rank": 0,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 699541,
+        "num": 699541,
+        "word": "司藤原班人马 龙骨焚箱",
+        "onboard_time": 1740494484,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25102,
+        "num": 606188,
+        "word": "古诗词里的长江有多美",
+        "onboard_time": 1740495683,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 594909,
+        "num": 594909,
+        "word": "哪吒2预测票房下调至146亿",
+        "onboard_time": 1740495201,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 322625,
+        "num": 322625,
+        "word": "潘宏账号内容被一夜清空",
+        "onboard_time": 1740493283,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261966,
+        "num": 261966,
+        "word": "气血不足的人就要多出去玩",
+        "onboard_time": 1740481461,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 472324,
+        "num": 251610,
+        "word": "肖战和文淇合影",
+        "onboard_time": 1740500297,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 232942,
+        "num": 232942,
+        "word": "白敬亭章若楠发合照了",
+        "onboard_time": 1740487762,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149632,
+        "num": 231057,
+        "word": "王楚钦LV品牌大使",
+        "onboard_time": 1740482001,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128504,
+        "num": 227561,
+        "word": "科考队员溶洞失联69小时奇迹生还",
+        "onboard_time": 1740495803,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1009028,
+        "num": 225037,
+        "word": "九旬老人离世后四亲属被烟闷身亡",
+        "onboard_time": 1740495441,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 924673,
+        "num": 218280,
+        "word": "关晓彤回应近日状态",
+        "onboard_time": 1740477561,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 727774,
+        "num": 217453,
+        "word": "CEO会换但肖战的座位不会换",
+        "onboard_time": 1740499338,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 419954,
+        "num": 213749,
+        "word": "为保胎妈妈以臀高位姿势卧床1个月",
+        "onboard_time": 1740493822,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302390,
+        "num": 207296,
+        "word": "郑润泽护妻",
+        "onboard_time": 1740488359,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63748,
+        "num": 206608,
+        "word": "男子境外遭遇车祸需回国急救民警紧急协调",
+        "onboard_time": 1740500595,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266280,
+        "num": 201214,
+        "word": "南师大环境学院官网崩了",
+        "onboard_time": 1740484821,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199622,
+        "num": 199622,
+        "word": "最会穿搭的现偶男主出现了",
+        "onboard_time": 1740492981,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185379,
+        "num": 185379,
+        "word": "艺考女生136斤减到87斤",
+        "onboard_time": 1740465739,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175748,
+        "num": 175748,
+        "word": "王俊凯那期能不能直接放母带",
+        "onboard_time": 1740497300,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270135,
+        "num": 171941,
+        "word": "鹿晗工作室告黑声明",
+        "onboard_time": 1740469400,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19129,
+        "num": 167057,
+        "word": "鹤秋被贴脸红房子听诊器之吻",
+        "onboard_time": 1740501495,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164839,
+        "num": 164839,
+        "word": "网友偶遇许凯坐地铁",
+        "onboard_time": 1740492263,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152533,
+        "num": 152533,
+        "word": "香港偶遇李钟硕",
+        "onboard_time": 1740491001,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138999,
+        "num": 138999,
+        "word": "爱你第一集就锁v",
+        "onboard_time": 1740484099,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164278,
+        "num": 138578,
+        "word": "鹿晗关晓彤名下并无商业关联",
+        "onboard_time": 1740475220,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137989,
+        "num": 137989,
+        "word": "温以凡把桑延钓成翘嘴了",
+        "onboard_time": 1740498499,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123671,
+        "num": 123671,
+        "word": "文淇米兰Gucci大秀",
+        "onboard_time": 1740500297,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 107355,
+        "num": 107355,
+        "word": "徐若晗朋友圈",
+        "onboard_time": 1740477324,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104758,
+        "num": 104758,
+        "word": "官方回应4人烧秸秆被烟闷身亡",
+        "onboard_time": 1740498799,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263903,
+        "num": 102721,
+        "word": "爱奇艺 吃相",
+        "onboard_time": 1740485661,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97482,
+        "num": 97482,
+        "word": "优酷 度华年全集限免",
+        "onboard_time": 1740498560,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100884,
+        "num": 96690,
+        "word": "爱你",
+        "onboard_time": 1740482901,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89274,
+        "num": 89274,
+        "word": "10万多个网络账号被关闭",
+        "onboard_time": 1740488061,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88067,
+        "num": 88067,
+        "word": "拷贝漫画崩了",
+        "onboard_time": 1740498920,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 87810,
+        "num": 87810,
+        "word": "撒贝宁也收到了王鸥的明侦手链",
+        "onboard_time": 1740484640,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86043,
+        "num": 86043,
+        "word": "六姊妹谁不想要曹斐然这样的妈",
+        "onboard_time": 1740496401,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38993,
+        "num": 82937,
+        "word": "马克龙直接上手拦住特朗普发言",
+        "onboard_time": 1740501855,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 82222,
+        "num": 82222,
+        "word": "龙骨焚箱",
+        "onboard_time": 1740498319,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81125,
+        "num": 81125,
+        "word": "大衣哥回应正采访中翻墙走了",
+        "onboard_time": 1740497960,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81978,
+        "num": 80744,
+        "word": "在被檀健次笑抽和帅晕中横跳",
+        "onboard_time": 1740500537,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 79994,
+        "num": 79994,
+        "word": "与凤行重映预告",
+        "onboard_time": 1740494061,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78068,
+        "num": 78068,
+        "word": "58岁王祖贤现状",
+        "onboard_time": 1740483200,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76301,
+        "num": 76301,
+        "word": "脾虚的人往往有6个特点",
+        "onboard_time": 1740500238,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 73091,
+        "num": 76299,
+        "word": "百万网红迅猛龙称考研结果很好",
+        "onboard_time": 1740483081,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 72417,
+        "num": 76288,
+        "word": "爱你热度",
+        "onboard_time": 1740497000,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69966,
+        "num": 76282,
+        "word": "何炅这么多年了还是没放过鬼鬼",
+        "onboard_time": 1740473181,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68408,
+        "num": 76268,
+        "word": "阴阳师",
+        "onboard_time": 1740488841,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 61751,
+        "num": 76256,
+        "word": "孙艺珍43岁状态",
+        "onboard_time": 1740485242,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59355,
+        "num": 76250,
+        "word": "乌大部分最具价值矿藏已归入俄罗斯",
+        "onboard_time": 1740496042,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#更好发挥县城连接城市带动乡村作用#"
+    }
+  }
+}

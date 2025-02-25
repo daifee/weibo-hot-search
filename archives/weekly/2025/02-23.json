@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740500996613,
+  "endTime": 1740501916322,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -603,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1143211,
+      "num": 1143211,
+      "word": "你要撑住马上就可以到中国抢救了",
+      "onboard_time": 1740499758,
+      "rank": 0,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 1143174,
       "num": 1143174,
       "word": "坏回暖来了",
@@ -665,14 +673,6 @@
       "onboard_time": 1740373701,
       "rank": 26,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1077683,
-      "num": 1077683,
-      "word": "你要撑住马上就可以到中国抢救了",
-      "onboard_time": 1740499758,
-      "rank": 0,
-      "category": "正能量"
     },
     {
       "raw_hot": 1057809,
@@ -1227,6 +1227,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 727774,
+      "num": 266620,
+      "word": "CEO会换但肖战的座位不会换",
+      "onboard_time": 1740499338,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 727637,
       "num": 727637,
       "word": "徐娇新剧贵女爆改女帝",
@@ -1609,14 +1617,6 @@
       "onboard_time": 1740447858,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 614484,
-      "num": 266620,
-      "word": "CEO会换但肖战的座位不会换",
-      "onboard_time": 1740499338,
-      "rank": 12,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 613715,
@@ -2163,6 +2163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 472324,
+      "num": 307921,
+      "word": "肖战和文淇合影",
+      "onboard_time": 1740500297,
+      "rank": 6,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 469214,
       "num": 469214,
       "word": "村里的大蒜咖啡一年卖7万杯",
@@ -2385,14 +2393,6 @@
       "onboard_time": 1740408622,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 420133,
-      "num": 307921,
-      "word": "肖战和文淇合影",
-      "onboard_time": 1740500297,
-      "rank": 6,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 416578,
@@ -7619,6 +7619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123671,
+      "num": 215326,
+      "word": "文淇米兰Gucci大秀",
+      "onboard_time": 1740500297,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 123111,
       "num": 123111,
       "word": "贾浅浅已博士毕业",
@@ -8235,6 +8243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97482,
+      "num": 97482,
+      "word": "优酷 度华年全集限免",
+      "onboard_time": 1740498560,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 96449,
       "num": 96449,
       "word": "陈立农演唱会嘉宾杨丞琳",
@@ -8273,14 +8289,6 @@
       "onboard_time": 1740417973,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 91470,
-      "num": 91470,
-      "word": "优酷 度华年全集限免",
-      "onboard_time": 1740498560,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 90984,
@@ -8363,12 +8371,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88188,
-      "num": 215326,
-      "word": "文淇米兰Gucci大秀",
-      "onboard_time": 1740500297,
-      "rank": 19,
-      "category": "作品衍生,时尚"
+      "raw_hot": 88067,
+      "num": 88067,
+      "word": "拷贝漫画崩了",
+      "onboard_time": 1740498920,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 87982,
@@ -8515,6 +8523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82222,
+      "num": 82222,
+      "word": "龙骨焚箱",
+      "onboard_time": 1740498319,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 81853,
       "num": 252929,
       "word": "特朗普称泽连斯基将赴美签矿产协议",
@@ -8561,14 +8577,6 @@
       "onboard_time": 1740456981,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 80541,
-      "num": 80541,
-      "word": "龙骨焚箱",
-      "onboard_time": 1740498319,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 79444,
@@ -8633,6 +8641,14 @@
       "onboard_time": 1740310401,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 76301,
+      "num": 76301,
+      "word": "脾虚的人往往有6个特点",
+      "onboard_time": 1740500238,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 75117,
@@ -8763,14 +8779,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 67107,
-      "num": 67107,
-      "word": "脾虚的人往往有6个特点",
-      "onboard_time": 1740500238,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 66948,
       "num": 671160,
       "word": "一男子自制工具伤害多只猫被行拘",
@@ -8899,6 +8907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63748,
+      "num": 268858,
+      "word": "男子境外遭遇车祸需回国急救民警紧急协调",
+      "onboard_time": 1740500595,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63005,
       "num": 225521,
       "word": "四川一公司要求员工不入股就辞退",
@@ -8929,14 +8945,6 @@
       "onboard_time": 1740377001,
       "rank": 19,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 61525,
-      "num": 67069,
-      "word": "拷贝漫画崩了",
-      "onboard_time": 1740498920,
-      "rank": 48,
-      "category": "动漫"
     },
     {
       "raw_hot": 61514,
@@ -9467,6 +9475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38993,
+      "num": 82937,
+      "word": "马克龙直接上手拦住特朗普发言",
+      "onboard_time": 1740501855,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 38987,
       "num": 183290,
       "word": "无畏契约曼谷大师赛",
@@ -9569,14 +9585,6 @@
       "onboard_time": 1740487401,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 34477,
-      "num": 268858,
-      "word": "男子境外遭遇车祸需回国急救民警紧急协调",
-      "onboard_time": 1740500595,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 34394,
@@ -10041,6 +10049,14 @@
       "onboard_time": 1740410120,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 19129,
+      "num": 167057,
+      "word": "鹤秋被贴脸红房子听诊器之吻",
+      "onboard_time": 1740501495,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 18845,

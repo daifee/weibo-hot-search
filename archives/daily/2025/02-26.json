@@ -1,6 +1,6 @@
 {
   "startTime": 1740500996613,
-  "endTime": 1740500996613,
+  "endTime": 1740501916322,
   "band_list": [
     {
       "raw_hot": 1334843,
@@ -11,20 +11,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1143211,
+      "num": 1143211,
+      "word": "你要撑住马上就可以到中国抢救了",
+      "onboard_time": 1740499758,
+      "rank": 0,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 1103594,
       "num": 267066,
       "word": "关晓彤回应近日状态",
       "onboard_time": 1740477561,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1077683,
-      "num": 1077683,
-      "word": "你要撑住马上就可以到中国抢救了",
-      "onboard_time": 1740499758,
-      "rank": 0,
-      "category": "正能量"
     },
     {
       "raw_hot": 897317,
@@ -35,20 +35,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 727774,
+      "num": 266620,
+      "word": "CEO会换但肖战的座位不会换",
+      "onboard_time": 1740499338,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 725545,
       "num": 725545,
       "word": "哪吒2预测票房下调至146亿",
       "onboard_time": 1740495201,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 614484,
-      "num": 266620,
-      "word": "CEO会换但肖战的座位不会换",
-      "onboard_time": 1740499338,
-      "rank": 12,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 518887,
@@ -59,7 +59,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 420133,
+      "raw_hot": 472324,
       "num": 307921,
       "word": "肖战和文淇合影",
       "onboard_time": 1740500297,
@@ -219,6 +219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123671,
+      "num": 215326,
+      "word": "文淇米兰Gucci大秀",
+      "onboard_time": 1740500297,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 121434,
       "num": 104650,
       "word": "爱你",
@@ -259,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97482,
+      "num": 97482,
+      "word": "优酷 度华年全集限免",
+      "onboard_time": 1740498560,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92504,
       "num": 92504,
       "word": "爱你热度",
@@ -275,14 +291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 91470,
-      "num": 91470,
-      "word": "优酷 度华年全集限免",
-      "onboard_time": 1740498560,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 90636,
       "num": 90636,
       "word": "大衣哥回应正采访中翻墙走了",
@@ -291,12 +299,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 88188,
-      "num": 215326,
-      "word": "文淇米兰Gucci大秀",
-      "onboard_time": 1740500297,
-      "rank": 19,
-      "category": "作品衍生,时尚"
+      "raw_hot": 89274,
+      "num": 89274,
+      "word": "10万多个网络账号被关闭",
+      "onboard_time": 1740488061,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88067,
+      "num": 88067,
+      "word": "拷贝漫画崩了",
+      "onboard_time": 1740498920,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 83736,
@@ -307,8 +323,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 80541,
-      "num": 80541,
+      "raw_hot": 82222,
+      "num": 82222,
       "word": "龙骨焚箱",
       "onboard_time": 1740498319,
       "rank": 40,
@@ -331,12 +347,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 76718,
-      "num": 76718,
-      "word": "10万多个网络账号被关闭",
-      "onboard_time": 1740488061,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 76301,
+      "num": 76301,
+      "word": "脾虚的人往往有6个特点",
+      "onboard_time": 1740500238,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 76268,
@@ -355,28 +371,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 68066,
-      "num": 68066,
+      "raw_hot": 68408,
+      "num": 76268,
       "word": "阴阳师",
       "onboard_time": 1740488841,
       "rank": 46,
       "category": "游戏"
     },
     {
-      "raw_hot": 67107,
-      "num": 67107,
-      "word": "脾虚的人往往有6个特点",
-      "onboard_time": 1740500238,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 61525,
-      "num": 67069,
-      "word": "拷贝漫画崩了",
-      "onboard_time": 1740498920,
-      "rank": 48,
-      "category": "动漫"
+      "raw_hot": 63748,
+      "num": 268858,
+      "word": "男子境外遭遇车祸需回国急救民警紧急协调",
+      "onboard_time": 1740500595,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60726,
@@ -387,12 +395,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34477,
-      "num": 268858,
-      "word": "男子境外遭遇车祸需回国急救民警紧急协调",
-      "onboard_time": 1740500595,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 38993,
+      "num": 82937,
+      "word": "马克龙直接上手拦住特朗普发言",
+      "onboard_time": 1740501855,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 30840,
@@ -401,6 +409,14 @@
       "onboard_time": 1740495683,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19129,
+      "num": 167057,
+      "word": "鹤秋被贴脸红房子听诊器之吻",
+      "onboard_time": 1740501495,
+      "rank": 21,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
