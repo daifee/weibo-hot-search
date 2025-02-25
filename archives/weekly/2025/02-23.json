@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740523187142,
+  "endTime": 1740525709698,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -1427,6 +1427,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 685953,
+      "num": 685953,
+      "word": "老人去世130万分堂弟1套房收归国有",
+      "onboard_time": 1740506892,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 684792,
       "num": 472102,
       "word": "陈妍希官宣离婚后与友人聚餐",
@@ -2164,7 +2172,7 @@
     },
     {
       "raw_hot": 472324,
-      "num": 307921,
+      "num": 389923,
       "word": "肖战和文淇合影",
       "onboard_time": 1740500297,
       "rank": 6,
@@ -2979,6 +2987,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 328197,
+      "num": 67503,
+      "word": "网红迅猛龙特蕾莎停播三个月备考",
+      "onboard_time": 1740523634,
+      "rank": 30,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 326920,
       "num": 326920,
       "word": "小孩哥DeepSeek三步法学数学",
@@ -3352,14 +3368,6 @@
       "word": "警方通报男子自制箭射伤数只猫",
       "onboard_time": 1740379040,
       "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 285899,
-      "num": 285899,
-      "word": "老人去世130万分堂弟1套房收归国有",
-      "onboard_time": 1740506892,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -4297,6 +4305,14 @@
       "onboard_time": 1740364280,
       "rank": 41,
       "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 219632,
+      "num": 219632,
+      "word": "官方回应4人烧秸秆被烟闷身亡",
+      "onboard_time": 1740498799,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 219172,
@@ -5241,6 +5257,14 @@
       "onboard_time": 1740286939,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190066,
+      "num": 190066,
+      "word": "四级",
+      "onboard_time": 1740525013,
+      "rank": 8,
+      "category": "教育"
     },
     {
       "raw_hot": 189899,
@@ -7579,14 +7603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 126771,
-      "num": 126771,
-      "word": "官方回应4人烧秸秆被烟闷身亡",
-      "onboard_time": 1740498799,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 126135,
       "num": 126135,
       "word": "柏林电影节获奖名单",
@@ -8121,6 +8137,14 @@
       "onboard_time": 1740237022,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 106781,
+      "num": 160687,
+      "word": "春风十里不如你",
+      "onboard_time": 1740505814,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 106135,
@@ -8739,6 +8763,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 72842,
+      "num": 72842,
+      "word": "中方敦促加方立即撤销错误决定",
+      "onboard_time": 1740522253,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 72682,
       "num": 72682,
       "word": "labubu",
@@ -8753,6 +8785,14 @@
       "onboard_time": 1740390500,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72067,
+      "num": 72067,
+      "word": "爱你 好看",
+      "onboard_time": 1740507673,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 72055,
@@ -8808,6 +8848,14 @@
       "word": "网售甄嬛传息肌丸已卖出1.1万单",
       "onboard_time": 1740465800,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 67759,
+      "num": 67759,
+      "word": "虞书欣给张凌赫宣传爱你",
+      "onboard_time": 1740514991,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -9091,6 +9139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56873,
+      "num": 56873,
+      "word": "谢霆锋喂外甥女吃饭",
+      "onboard_time": 1740518651,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 56827,
       "num": 184501,
       "word": "早餐酸汤水饺",
@@ -9307,14 +9363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 49312,
-      "num": 41374,
-      "word": "春风十里不如你",
-      "onboard_time": 1740505814,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 48783,
       "num": 48783,
       "word": "明日起可查考研成绩",
@@ -9395,12 +9443,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 45373,
-      "num": 45373,
-      "word": "爱你 好看",
-      "onboard_time": 1740507673,
-      "rank": 33,
-      "category": "剧集"
+      "raw_hot": 45158,
+      "num": 106006,
+      "word": "老外成了我的互联网嘴替",
+      "onboard_time": 1740522312,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44905,
@@ -9459,12 +9507,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 42354,
-      "num": 42354,
-      "word": "虞书欣给张凌赫宣传爱你",
-      "onboard_time": 1740514991,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 42460,
+      "num": 85939,
+      "word": "李武军说深圳亚洲杯创造乒乓球界神话",
+      "onboard_time": 1740525013,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 42162,
@@ -9587,14 +9635,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 36524,
-      "num": 39055,
-      "word": "谢霆锋喂外甥女吃饭",
-      "onboard_time": 1740518651,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 36333,
       "num": 36333,
       "word": "买了会员卡碰上职业闭店人怎么办",
@@ -9641,6 +9681,14 @@
       "onboard_time": 1740249133,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35100,
+      "num": 50568,
+      "word": "无遗嘱无法定继承人的遗产该归谁",
+      "onboard_time": 1740506652,
+      "rank": 24,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 35059,
@@ -9915,14 +9963,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25971,
-      "num": 40640,
-      "word": "无遗嘱无法定继承人的遗产该归谁",
-      "onboard_time": 1740506652,
-      "rank": 24,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 25850,
       "num": 332307,
       "word": "怎样区分面部皮炎和荨麻疹",
@@ -10049,14 +10089,6 @@
       "onboard_time": 1740421271,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 22905,
-      "num": 39042,
-      "word": "中方敦促加方立即撤销错误决定",
-      "onboard_time": 1740522253,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 22894,
@@ -10355,14 +10387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 15946,
-      "num": 106006,
-      "word": "老外成了我的互联网嘴替",
-      "onboard_time": 1740522312,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 15443,
       "num": 25962,
       "word": "外交部回应特朗普欲加大限制中国芯片",
@@ -10377,6 +10401,14 @@
       "onboard_time": 1740398119,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 14397,
+      "num": 189736,
+      "word": "守护校园舌尖上的安全",
+      "onboard_time": 1740525077,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14298,
