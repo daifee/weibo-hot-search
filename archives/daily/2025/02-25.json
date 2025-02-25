@@ -1,7 +1,31 @@
 {
   "startTime": 1740414610412,
-  "endTime": 1740440146186,
+  "endTime": 1740447922849,
   "band_list": [
+    {
+      "raw_hot": 1913803,
+      "num": 405533,
+      "word": "北京警方抓获一名演员",
+      "onboard_time": 1740444380,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1687964,
+      "num": 1687964,
+      "word": "大衣哥正采访中突然翻墙走了",
+      "onboard_time": 1740444319,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1199886,
+      "num": 1199886,
+      "word": "DeepSeek评以为很卫生实际巨脏的行为",
+      "onboard_time": 1740444380,
+      "rank": 1,
+      "category": "互联网"
+    },
     {
       "raw_hot": 1148255,
       "num": 1148255,
@@ -12,11 +36,19 @@
     },
     {
       "raw_hot": 1141089,
-      "num": 221932,
+      "num": 404962,
       "word": "教授公开聊天记录指责学生娇生惯养",
       "onboard_time": 1740403520,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 985995,
+      "num": 405172,
+      "word": "韩安冉怒斥前夫",
+      "onboard_time": 1740441258,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 896881,
@@ -43,11 +75,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 645302,
+      "num": 645302,
+      "word": "王楚钦7925分世界第二",
+      "onboard_time": 1740442399,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 581619,
       "num": 895576,
       "word": "高校聘博士初中学历配偶属劳务派遣",
       "onboard_time": 1740415936,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 562675,
+      "num": 562675,
+      "word": "DeepSeek总结我国最值钱十大证书",
+      "onboard_time": 1740444140,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 517485,
+      "num": 226952,
+      "word": "贵州有分娩记录以来年龄最大产妇",
+      "onboard_time": 1740441979,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -57,6 +113,30 @@
       "onboard_time": 1740408143,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 511086,
+      "num": 511086,
+      "word": "张婧仪官摄",
+      "onboard_time": 1740444680,
+      "rank": 5,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 494311,
+      "num": 494311,
+      "word": "司法坚决保护无过错配偶一方的权益",
+      "onboard_time": 1740444858,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 406174,
+      "num": 406174,
+      "word": "林俊杰纽约演唱会发周深荧光棒",
+      "onboard_time": 1740439395,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 370169,
@@ -81,6 +161,14 @@
       "onboard_time": 1740397819,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 338876,
+      "num": 338876,
+      "word": "江西通报初中生在校坠楼身亡",
+      "onboard_time": 1740446719,
+      "rank": 14,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 331839,
@@ -108,7 +196,7 @@
     },
     {
       "raw_hot": 259875,
-      "num": 151826,
+      "num": 247059,
       "word": "联合国安理会通过美涉乌决议",
       "onboard_time": 1740438194,
       "rank": 30,
@@ -147,6 +235,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223779,
+      "num": 223779,
+      "word": "Deepseek给气血不足职场女性建议",
+      "onboard_time": 1740445520,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 220060,
+      "num": 220060,
+      "word": "每天8杯水到底是多大的杯子",
+      "onboard_time": 1740401660,
+      "rank": 21,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 218824,
       "num": 218824,
       "word": "吉祥航空回应被曝给乘客过期坚果",
@@ -169,6 +273,30 @@
       "onboard_time": 1740404062,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211037,
+      "num": 211037,
+      "word": "美股",
+      "onboard_time": 1740444739,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 208774,
+      "num": 208774,
+      "word": "8万人围观1个人洗碗有啥魔力",
+      "onboard_time": 1740445520,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 201203,
+      "num": 201203,
+      "word": "连续跑步35天的面部变化",
+      "onboard_time": 1740409462,
+      "rank": 22,
+      "category": "运动健身"
     },
     {
       "raw_hot": 191969,
@@ -195,20 +323,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 185850,
-      "num": 161630,
-      "word": "每天8杯水到底是多大的杯子",
-      "onboard_time": 1740401660,
-      "rank": 21,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 165426,
-      "num": 160334,
-      "word": "连续跑步35天的面部变化",
-      "onboard_time": 1740409462,
-      "rank": 22,
-      "category": "运动健身"
+      "raw_hot": 179249,
+      "num": 179249,
+      "word": "丁程鑫 严严",
+      "onboard_time": 1740438314,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 163493,
@@ -217,6 +337,14 @@
       "onboard_time": 1740398720,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 160562,
+      "num": 160562,
+      "word": "4岁女童每天饮料甜食不断确诊糖尿病",
+      "onboard_time": 1740425772,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156839,
@@ -235,11 +363,43 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151176,
+      "num": 151176,
+      "word": "辣目洋子演技",
+      "onboard_time": 1740447619,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 150909,
+      "num": 150909,
+      "word": "苹果宣布超5000亿美元投资计划",
+      "onboard_time": 1740446480,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 147036,
+      "num": 147036,
+      "word": "虞书欣陈靖可新剧4月初开机",
+      "onboard_time": 1740445339,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146060,
       "num": 146060,
       "word": "丈夫设局让妻子离婚时背75万巨债",
       "onboard_time": 1740407422,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145504,
+      "num": 145504,
+      "word": "一男子地铁吵架吼对方听不懂上海话",
+      "onboard_time": 1740422832,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -251,12 +411,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 129892,
+      "num": 129892,
+      "word": "专家建议提高个税免征额至6000元",
+      "onboard_time": 1740446298,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127248,
+      "num": 127248,
+      "word": "安理会乌克兰问题会议投了7轮票",
+      "onboard_time": 1740444319,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 123111,
       "num": 123111,
       "word": "贾浅浅已博士毕业",
       "onboard_time": 1740412040,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119612,
+      "num": 119612,
+      "word": "哪吒",
+      "onboard_time": 1740447377,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 119474,
@@ -275,6 +459,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 114109,
+      "num": 114109,
+      "word": "哪吒2票房138亿",
+      "onboard_time": 1740446659,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 113657,
       "num": 113657,
       "word": "白鹿黏黏合照",
@@ -283,12 +475,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 112340,
-      "num": 108740,
-      "word": "一男子地铁吵架吼对方听不懂上海话",
-      "onboard_time": 1740422832,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 112950,
+      "num": 112950,
+      "word": "shamon考研",
+      "onboard_time": 1740440237,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 112229,
+      "num": 112229,
+      "word": "胡兵戴自己设计的珍珠挂饰",
+      "onboard_time": 1740444380,
+      "rank": 43,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 111484,
@@ -297,6 +497,14 @@
       "onboard_time": 1740413237,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 111001,
+      "num": 111001,
+      "word": "留学生为父母养老放弃绿卡回国",
+      "onboard_time": 1740422891,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110960,
@@ -315,14 +523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 107788,
-      "num": 107788,
-      "word": "4岁女童每天饮料甜食不断确诊糖尿病",
-      "onboard_time": 1740425772,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 107769,
       "num": 107769,
       "word": "美国一波音客机飞行中机内冒烟",
@@ -331,11 +531,27 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 104588,
-      "num": 104588,
-      "word": "丁程鑫 严严",
-      "onboard_time": 1740438314,
-      "rank": 19,
+      "raw_hot": 107345,
+      "num": 744907,
+      "word": "专家解读中央一号文件亮点",
+      "onboard_time": 1740406522,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 106783,
+      "num": 106783,
+      "word": "阿里跌超10%",
+      "onboard_time": 1740443599,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 106271,
+      "num": 106271,
+      "word": "权志龙亮片粉西装造型",
+      "onboard_time": 1740444620,
+      "rank": 47,
       "category": "作品衍生"
     },
     {
@@ -363,12 +579,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 95989,
-      "num": 95989,
-      "word": "林俊杰纽约演唱会发周深荧光棒",
-      "onboard_time": 1740439395,
-      "rank": 27,
-      "category": "演出"
+      "raw_hot": 98972,
+      "num": 98972,
+      "word": "上海一女子坐地铁躺地上补觉睡10站",
+      "onboard_time": 1740447858,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93011,
@@ -451,20 +667,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 80745,
-      "num": 80745,
-      "word": "留学生为父母养老放弃绿卡回国",
-      "onboard_time": 1740422891,
-      "rank": 23,
+      "raw_hot": 73884,
+      "num": 405975,
+      "word": "文化中国行看机场里的中华文化",
+      "onboard_time": 1740447318,
+      "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 74200,
-      "num": 391652,
-      "word": "专家解读中央一号文件亮点",
-      "onboard_time": 1740406522,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 72682,
@@ -563,12 +771,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 41120,
+      "num": 228044,
+      "word": "檀健次暮冬温暖出发",
+      "onboard_time": 1740447259,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 36213,
       "num": 90753,
       "word": "中俄是搬不走的好邻居",
       "onboard_time": 1740411081,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 30051,
+      "num": 405629,
+      "word": "A股",
+      "onboard_time": 1740363800,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 29285,
