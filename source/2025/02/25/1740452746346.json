@@ -1,0 +1,410 @@
+{
+  "runTime": 1740452746346,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1895725,
+        "num": 1895725,
+        "word": "俄方开停战条件",
+        "onboard_time": 1740448998,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1495642,
+        "num": 1495642,
+        "word": "旅行青蛙渠道服停运",
+        "onboard_time": 1740449899,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 76596,
+        "num": 788731,
+        "word": "专家解读中央一号文件亮点",
+        "onboard_time": 1740406522,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 748891,
+        "num": 748891,
+        "word": "大衣哥正采访中突然翻墙走了",
+        "onboard_time": 1740444319,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 593579,
+        "num": 593579,
+        "word": "辣目洋子演技",
+        "onboard_time": 1740447619,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 473818,
+        "num": 473818,
+        "word": "王楚钦7925分世界第二",
+        "onboard_time": 1740442399,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 468728,
+        "num": 468728,
+        "word": "男主用命换女主再活一次",
+        "onboard_time": 1740451279,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 442809,
+        "num": 442809,
+        "word": "韩国一高速桥梁倒塌致3死5伤",
+        "onboard_time": 1740449299,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 432370,
+        "num": 432370,
+        "word": "马克龙拉住特朗普打断他抱怨",
+        "onboard_time": 1740449058,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 402400,
+        "num": 402400,
+        "word": "理想i8",
+        "onboard_time": 1740451998,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 985544,
+        "num": 397946,
+        "word": "DeepSeek评以为很卫生实际巨脏的行为",
+        "onboard_time": 1740444380,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 765795,
+        "num": 391688,
+        "word": "北京警方抓获一名演员",
+        "onboard_time": 1740444380,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 673437,
+        "num": 390045,
+        "word": "曝韩安冉差点被骗到东南亚",
+        "onboard_time": 1740449178,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 530550,
+        "num": 383750,
+        "word": "上海一女子坐地铁躺地上补觉睡10站",
+        "onboard_time": 1740447858,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 377879,
+        "num": 377879,
+        "word": "DeepSeek总结我国最值钱十大证书",
+        "onboard_time": 1740444140,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 271835,
+        "num": 271835,
+        "word": "宝安机场回应男团插队登机",
+        "onboard_time": 1740451100,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267239,
+        "num": 267239,
+        "word": "张婧仪郑恩彩同框合照",
+        "onboard_time": 1740448818,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 252478,
+        "num": 252478,
+        "word": "司法坚决保护无过错配偶一方的权益",
+        "onboard_time": 1740444858,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216089,
+        "num": 216089,
+        "word": "汤唯张婧仪米卡G社生图",
+        "onboard_time": 1740452480,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 19748,
+        "num": 209427,
+        "word": "年龄越大越容易得带状疱疹",
+        "onboard_time": 1740449418,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 603712,
+        "num": 204122,
+        "word": "韩安冉怒斥前夫",
+        "onboard_time": 1740441258,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 556499,
+        "num": 196042,
+        "word": "怀孕21周时胎儿小脚丫掉了出来",
+        "onboard_time": 1740451758,
+        "rank": 21,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 286555,
+        "num": 190683,
+        "word": "贵州有分娩记录以来年龄最大产妇",
+        "onboard_time": 1740441979,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158924,
+        "num": 181434,
+        "word": "高校聘博士初中学历配偶属劳务派遣",
+        "onboard_time": 1740415936,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174837,
+        "num": 174837,
+        "word": "哪吒2票房138亿",
+        "onboard_time": 1740446659,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174750,
+        "num": 174750,
+        "word": "哪吒票房",
+        "onboard_time": 1740410721,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155685,
+        "num": 174288,
+        "word": "王楚钦签名回复粉丝祝福",
+        "onboard_time": 1740450739,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145270,
+        "num": 173973,
+        "word": "林俊杰纽约演唱会发周深荧光棒",
+        "onboard_time": 1740439395,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127956,
+        "num": 173373,
+        "word": "王楚钦赵心童合照",
+        "onboard_time": 1740449719,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132059,
+        "num": 172447,
+        "word": "俄方愿同美国开展稀土合作",
+        "onboard_time": 1740449178,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 264879,
+        "num": 172179,
+        "word": "Deepseek给气血不足职场女性建议",
+        "onboard_time": 1740445520,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 177871,
+        "num": 171128,
+        "word": "少女遭欺凌为求解脱被骗沾染毒品",
+        "onboard_time": 1740450017,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170957,
+        "num": 170957,
+        "word": "姿态喊话Doinb",
+        "onboard_time": 1740448878,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 156091,
+        "num": 156091,
+        "word": "连续跑步35天的面部变化",
+        "onboard_time": 1740409462,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 155435,
+        "num": 155435,
+        "word": "教授公开聊天记录指责学生娇生惯养",
+        "onboard_time": 1740403520,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142893,
+        "num": 142893,
+        "word": "安理会涉乌决议中美俄均投赞成票",
+        "onboard_time": 1740448218,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 135523,
+        "num": 135523,
+        "word": "虞书欣陈靖可新剧4月初开机",
+        "onboard_time": 1740445339,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131123,
+        "num": 131123,
+        "word": "李威涉嫌伤害致死",
+        "onboard_time": 1740401241,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127612,
+        "num": 127612,
+        "word": "小伙裸眼铅笔芯上复刻哪吒",
+        "onboard_time": 1740452721,
+        "rank": 38,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 123493,
+        "num": 123493,
+        "word": "湖南师大回应教授指责学生娇生惯养",
+        "onboard_time": 1740451998,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122827,
+        "num": 122827,
+        "word": "丁程鑫 严严",
+        "onboard_time": 1740438314,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122184,
+        "num": 122184,
+        "word": "俄方要求乌军投降不再加入北约",
+        "onboard_time": 1740451459,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121957,
+        "num": 121957,
+        "word": "北上",
+        "onboard_time": 1740450617,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120333,
+        "num": 120333,
+        "word": "李威已被保释",
+        "onboard_time": 1740408143,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118198,
+        "num": 118198,
+        "word": "每天8杯水到底是多大的杯子",
+        "onboard_time": 1740401660,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 103175,
+        "num": 113944,
+        "word": "去年农民人均可支配收入达23119元",
+        "onboard_time": 1740448759,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112708,
+        "num": 112708,
+        "word": "似锦定档3月1日播出",
+        "onboard_time": 1740448759,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112262,
+        "num": 112262,
+        "word": "理想公布首款纯电SUV",
+        "onboard_time": 1740452721,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 108230,
+        "num": 108230,
+        "word": "联合国安理会通过美涉乌决议",
+        "onboard_time": 1740438194,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 90830,
+        "num": 103489,
+        "word": "专家建议提高个税免征额至6000元",
+        "onboard_time": 1740446298,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同普京通电话#"
+    }
+  }
+}
