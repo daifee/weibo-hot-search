@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740488398246,
+  "endTime": 1740490219250,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -99,20 +99,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2642293,
+      "num": 2642293,
+      "word": "爱奇艺 吃相",
+      "onboard_time": 1740485661,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2480211,
       "num": 2480211,
       "word": "网红罗大美转账200万元仍遭灭口",
       "onboard_time": 1740323303,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2326148,
-      "num": 2326148,
-      "word": "爱奇艺 吃相",
-      "onboard_time": 1740485661,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 2298993,
@@ -443,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1275789,
+      "num": 866400,
+      "word": "中国男子在日本猥亵女高中生被捕",
+      "onboard_time": 1740486561,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1262756,
       "num": 534110,
       "word": "艺考女生136斤减到87斤",
@@ -619,6 +627,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1073866,
+      "num": 272984,
+      "word": "郑润泽护妻",
+      "onboard_time": 1740488359,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1057809,
       "num": 1057809,
       "word": "星河入梦定档",
@@ -707,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 992728,
+      "num": 351651,
+      "word": "南京师范大学PPT",
+      "onboard_time": 1740486981,
+      "rank": 34,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 992695,
       "num": 992695,
       "word": "这居然是钟丽丽",
@@ -744,6 +768,14 @@
       "word": "男主死追女主装死",
       "onboard_time": 1740290719,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 967872,
+      "num": 627071,
+      "word": "白敬亭章若楠发合照了",
+      "onboard_time": 1740487762,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -889,14 +921,6 @@
       "onboard_time": 1740365600,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 866400,
-      "num": 866400,
-      "word": "中国男子在日本猥亵女高中生被捕",
-      "onboard_time": 1740486561,
-      "rank": 22,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 861212,
@@ -2171,14 +2195,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 443209,
-      "num": 351651,
-      "word": "南京师范大学PPT",
-      "onboard_time": 1740486981,
-      "rank": 34,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 443181,
       "num": 443181,
       "word": "诺如病毒能轻易瘫痪一个公司",
@@ -2257,6 +2273,14 @@
       "onboard_time": 1740291378,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 422153,
+      "num": 345251,
+      "word": "孙艺珍43岁状态",
+      "onboard_time": 1740485242,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 421605,
@@ -2737,14 +2761,6 @@
       "onboard_time": 1740285679,
       "rank": 49,
       "category": "民生新闻,电影"
-    },
-    {
-      "raw_hot": 345251,
-      "num": 345251,
-      "word": "孙艺珍43岁状态",
-      "onboard_time": 1740485242,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 344704,
@@ -3379,14 +3395,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 269316,
-      "num": 269316,
-      "word": "白敬亭章若楠发合照了",
-      "onboard_time": 1740487762,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 267861,
       "num": 267861,
       "word": "38岁男子人生三次选择都是新疆",
@@ -3515,6 +3523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 254326,
+      "num": 254326,
+      "word": "千金归来 有毒",
+      "onboard_time": 1740483981,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 253759,
       "num": 411436,
       "word": "俄称愿与乌克兰和欧洲谈判",
@@ -3545,14 +3561,6 @@
       "onboard_time": 1740484580,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 249426,
-      "num": 249426,
-      "word": "千金归来 有毒",
-      "onboard_time": 1740483981,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 249191,
@@ -3784,6 +3792,14 @@
       "word": "下周气温开启大回暖",
       "onboard_time": 1740315980,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 234166,
+      "num": 325591,
+      "word": "10万多个网络账号被关闭",
+      "onboard_time": 1740488061,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -4057,6 +4073,14 @@
       "onboard_time": 1740364280,
       "rank": 41,
       "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 219300,
+      "num": 219300,
+      "word": "许凯染发了",
+      "onboard_time": 1740487641,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 219075,
@@ -4651,6 +4675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196363,
+      "num": 200954,
+      "word": "阴阳师",
+      "onboard_time": 1740488841,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 196282,
       "num": 196282,
       "word": "易立竞观察细致到了美甲",
@@ -4659,12 +4691,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195719,
-      "num": 195719,
-      "word": "许凯染发了",
-      "onboard_time": 1740487641,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 195918,
+      "num": 200968,
+      "word": "Gucci大秀",
+      "onboard_time": 1740489623,
+      "rank": 33,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 195345,
@@ -5515,6 +5547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 172476,
+      "num": 172476,
+      "word": "檀健次怎么这么会演暗爽",
+      "onboard_time": 1740489741,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172112,
       "num": 172112,
       "word": "面试现场被嘲P图过度",
@@ -5617,6 +5657,14 @@
       "onboard_time": 1740483141,
       "rank": 46,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 169076,
+      "num": 276843,
+      "word": "加大力度处置违法违规MCN机构账号",
+      "onboard_time": 1740488302,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168866,
@@ -5819,14 +5867,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 164683,
-      "num": 325591,
-      "word": "10万多个网络账号被关闭",
-      "onboard_time": 1740488061,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 164553,
       "num": 164553,
       "word": "瑞典乒协威胁莫雷加德参赛",
@@ -5923,12 +5963,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162341,
+      "num": 162341,
+      "word": "溪木源直播",
+      "onboard_time": 1740489382,
+      "rank": 44,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 161715,
       "num": 161715,
       "word": "专家预测金价走势",
       "onboard_time": 1740482421,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 161485,
+      "num": 233707,
+      "word": "刘宇宁荣获2024微博直播King",
+      "onboard_time": 1740488122,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 161470,
@@ -6249,6 +6305,14 @@
       "onboard_time": 1740482061,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154301,
+      "num": 154301,
+      "word": "百度21亿美元收购YY直播",
+      "onboard_time": 1740489982,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 154129,
@@ -6851,6 +6915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136133,
+      "num": 269128,
+      "word": "中学回应辞退清洁工让学生打扫全校",
+      "onboard_time": 1740488841,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135946,
       "num": 1495980,
       "word": "中央一号文件对三农工作划重点",
@@ -6891,6 +6963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134693,
+      "num": 134693,
+      "word": "徐海东梦到跟林高远打半小时电话",
+      "onboard_time": 1740489081,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134667,
       "num": 134667,
       "word": "湖南师大回应教授指责学生娇生惯养",
@@ -6899,12 +6979,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 133653,
-      "num": 133653,
-      "word": "加大力度处置违法违规MCN机构账号",
-      "onboard_time": 1740488302,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 133981,
+      "num": 133981,
+      "word": "李盈莹受伤程度超预期",
+      "onboard_time": 1740490161,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 133621,
@@ -6953,14 +7033,6 @@
       "onboard_time": 1740390020,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 132403,
-      "num": 132403,
-      "word": "郑润泽护妻",
-      "onboard_time": 1740488359,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 132149,
@@ -7361,14 +7433,6 @@
       "onboard_time": 1740360439,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 116315,
-      "num": 199246,
-      "word": "刘宇宁荣获2024微博直播King",
-      "onboard_time": 1740488122,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 116077,
@@ -8795,6 +8859,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 46479,
+      "num": 184193,
+      "word": "记者回忆采访樊振东细节",
+      "onboard_time": 1740487880,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 46466,
       "num": 1874863,
       "word": "我国海洋工程装备制造连续7年霸榜全球",
@@ -9545,6 +9617,14 @@
       "onboard_time": 1740243976,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 16851,
+      "num": 260043,
+      "word": "普货违规运烟花销售称保证上高速",
+      "onboard_time": 1740488841,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16802,
