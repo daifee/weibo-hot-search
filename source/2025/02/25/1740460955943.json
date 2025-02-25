@@ -1,0 +1,410 @@
+{
+  "runTime": 1740460955943,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1257054,
+        "num": 1257054,
+        "word": "俄方开停战条件",
+        "onboard_time": 1740448998,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1064332,
+        "num": 1064332,
+        "word": "李威教唆犯罪录音疑曝光",
+        "onboard_time": 1740454339,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49640,
+        "num": 955312,
+        "word": "祖国大地春耕色块明艳动人",
+        "onboard_time": 1740456981,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 947162,
+        "num": 947162,
+        "word": "这居然是钟丽丽",
+        "onboard_time": 1740459202,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 651505,
+        "num": 651505,
+        "word": "老人再就业简历含金量有多高",
+        "onboard_time": 1740455661,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 544292,
+        "num": 544292,
+        "word": "马航MH370新一轮搜索重启",
+        "onboard_time": 1740454280,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 765214,
+        "num": 503629,
+        "word": "金靖 昨天何医生又给我把脉了",
+        "onboard_time": 1740456141,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 747296,
+        "num": 490447,
+        "word": "白敬亭被网友截图气笑了",
+        "onboard_time": 1740454942,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 448271,
+        "num": 448271,
+        "word": "未来五年将有2万座加油站消失",
+        "onboard_time": 1740455000,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 142455,
+        "num": 439593,
+        "word": "手机NFC功能碰一下钱就没了系摆拍",
+        "onboard_time": 1740460100,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 704745,
+        "num": 436090,
+        "word": "迪丽热巴开推3粉色芭比造型",
+        "onboard_time": 1740459322,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162373,
+        "num": 420105,
+        "word": "杨紫首谈置顶自己",
+        "onboard_time": 1740456441,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 561525,
+        "num": 415709,
+        "word": "权志龙唱中文",
+        "onboard_time": 1740460462,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407862,
+        "num": 407862,
+        "word": "旅行青蛙",
+        "onboard_time": 1740454101,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 21538,
+        "num": 395729,
+        "word": "抢注DEEPSEEK等相关商标被依法驳回",
+        "onboard_time": 1740459982,
+        "rank": 14,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 390842,
+        "num": 390842,
+        "word": "90岁奶奶摔倒70岁大伯拼尽全力抱回家",
+        "onboard_time": 1740455060,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388835,
+        "num": 388835,
+        "word": "张婧仪 好完美的一颗头",
+        "onboard_time": 1740454280,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 338709,
+        "num": 338709,
+        "word": "北京警方抓获一名演员",
+        "onboard_time": 1740444380,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219263,
+        "num": 219263,
+        "word": "理想i8",
+        "onboard_time": 1740451998,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 40428,
+        "num": 219180,
+        "word": "当陷入颓废循环的年轻人决定早起",
+        "onboard_time": 1740459863,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 781178,
+        "num": 219002,
+        "word": "怀孕21周时胎儿小脚丫掉了出来",
+        "onboard_time": 1740451758,
+        "rank": 20,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 378164,
+        "num": 218937,
+        "word": "SM新女团IAN疑似陷入霸凌争议",
+        "onboard_time": 1740454642,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368505,
+        "num": 218744,
+        "word": "权志龙点赞水原希子韩服照",
+        "onboard_time": 1740453801,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282257,
+        "num": 218602,
+        "word": "邓为说已经向猫交学费了",
+        "onboard_time": 1740458302,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 336428,
+        "num": 218527,
+        "word": "流浪猫尸首分离被塞进学生课桌",
+        "onboard_time": 1740459144,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43193,
+        "num": 218258,
+        "word": "王楚钦有点真诚又浪漫",
+        "onboard_time": 1740452780,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 336337,
+        "num": 218197,
+        "word": "迅猛龙分享考研",
+        "onboard_time": 1740456081,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 218089,
+        "num": 218089,
+        "word": "邓为谈首部男主作品上线心情",
+        "onboard_time": 1740458902,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22121,
+        "num": 217552,
+        "word": "地图下的地图是什么",
+        "onboard_time": 1740460462,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 318834,
+        "num": 217466,
+        "word": "大衣哥正采访中突然翻墙走了",
+        "onboard_time": 1740444319,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331461,
+        "num": 216551,
+        "word": "DeepSeek评以为很卫生实际巨脏的行为",
+        "onboard_time": 1740444380,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 232585,
+        "num": 216120,
+        "word": "李威已被保释",
+        "onboard_time": 1740408143,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183773,
+        "num": 215249,
+        "word": "周棋洛奉上鲜红的心",
+        "onboard_time": 1740458842,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 239956,
+        "num": 214679,
+        "word": "放羊的星星",
+        "onboard_time": 1740457823,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228384,
+        "num": 214294,
+        "word": "掌心",
+        "onboard_time": 1740460462,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226491,
+        "num": 213364,
+        "word": "贵州有分娩记录以来年龄最大产妇",
+        "onboard_time": 1740441979,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221461,
+        "num": 213195,
+        "word": "韩安冉怒斥前夫",
+        "onboard_time": 1740441258,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 219057,
+        "num": 212329,
+        "word": "哪吒2连续两周北美票房榜前5",
+        "onboard_time": 1740454700,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134405,
+        "num": 212104,
+        "word": "王星回应录制无限超越班",
+        "onboard_time": 1740456861,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211592,
+        "num": 211592,
+        "word": "白敬亭谈难哄片尾彩蛋",
+        "onboard_time": 1740458602,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205102,
+        "num": 205102,
+        "word": "谁家明星带彩椒录制综艺啊",
+        "onboard_time": 1740460041,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204474,
+        "num": 204474,
+        "word": "恋与制作人",
+        "onboard_time": 1740459802,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 196926,
+        "num": 196926,
+        "word": "南京将步入双机场时代",
+        "onboard_time": 1740459202,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185290,
+        "num": 185290,
+        "word": "虞书欣包场支持爱你",
+        "onboard_time": 1740457402,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180632,
+        "num": 180632,
+        "word": "难哄",
+        "onboard_time": 1740458724,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179863,
+        "num": 179863,
+        "word": "上海一女子坐地铁躺地上补觉睡10站",
+        "onboard_time": 1740447858,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166000,
+        "num": 166000,
+        "word": "张凌赫让周柯宇合照弯下点",
+        "onboard_time": 1740458424,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157581,
+        "num": 157581,
+        "word": "未定事件簿",
+        "onboard_time": 1740459443,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150066,
+        "num": 150066,
+        "word": "特斯拉 FSD",
+        "onboard_time": 1740455480,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 140177,
+        "num": 140177,
+        "word": "王楚钦7925分世界第二",
+        "onboard_time": 1740442399,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这样论三农#"
+    }
+  }
+}

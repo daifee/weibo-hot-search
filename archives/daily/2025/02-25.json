@@ -1,6 +1,6 @@
 {
   "startTime": 1740414610412,
-  "endTime": 1740458483442,
+  "endTime": 1740460955943,
   "band_list": [
     {
       "raw_hot": 2114020,
@@ -99,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 947162,
+      "num": 947162,
+      "word": "这居然是钟丽丽",
+      "onboard_time": 1740459202,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 937556,
       "num": 318246,
       "word": "怀孕21周时胎儿小脚丫掉了出来",
@@ -147,7 +155,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 748313,
+      "raw_hot": 765214,
       "num": 748313,
       "word": "金靖 昨天何医生又给我把脉了",
       "onboard_time": 1740456141,
@@ -185,6 +193,14 @@
       "onboard_time": 1740449178,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 704745,
+      "num": 436090,
+      "word": "迪丽热巴开推3粉色芭比造型",
+      "onboard_time": 1740459322,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 690541,
@@ -249,6 +265,14 @@
       "onboard_time": 1740444140,
       "rank": 4,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 561525,
+      "num": 415709,
+      "word": "权志龙唱中文",
+      "onboard_time": 1740460462,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 537631,
@@ -339,6 +363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 390842,
+      "num": 390842,
+      "word": "90岁奶奶摔倒70岁大伯拼尽全力抱回家",
+      "onboard_time": 1740455060,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 370169,
       "num": 221126,
       "word": "哪吒票房",
@@ -369,6 +401,14 @@
       "onboard_time": 1740397819,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 336428,
+      "num": 218527,
+      "word": "流浪猫尸首分离被塞进学生课桌",
+      "onboard_time": 1740459144,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 331839,
@@ -416,6 +456,14 @@
       "word": "景甜新剧第二世创飞所有人",
       "onboard_time": 1740453081,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 282257,
+      "num": 218602,
+      "word": "邓为说已经向猫交学费了",
+      "onboard_time": 1740458302,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -499,6 +547,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 239956,
+      "num": 214679,
+      "word": "放羊的星星",
+      "onboard_time": 1740457823,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 238778,
       "num": 238778,
       "word": "长期熬夜晚睡消耗气血",
@@ -513,6 +569,14 @@
       "onboard_time": 1740393739,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 228384,
+      "num": 214294,
+      "word": "掌心",
+      "onboard_time": 1740460462,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 223728,
@@ -555,6 +619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 218089,
+      "num": 218089,
+      "word": "邓为谈首部男主作品上线心情",
+      "onboard_time": 1740458902,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217497,
       "num": 217497,
       "word": "女子曝在西藏旅游遭出租车司机套路",
@@ -595,19 +667,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 214791,
-      "num": 211575,
-      "word": "放羊的星星",
-      "onboard_time": 1740457823,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 212293,
       "num": 163713,
       "word": "六姊妹大结局",
       "onboard_time": 1740404062,
       "rank": 20,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 211592,
+      "num": 211592,
+      "word": "白敬亭谈难哄片尾彩蛋",
+      "onboard_time": 1740458602,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -627,6 +699,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 205102,
+      "num": 205102,
+      "word": "谁家明星带彩椒录制综艺啊",
+      "onboard_time": 1740460041,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 204474,
+      "num": 204474,
+      "word": "恋与制作人",
+      "onboard_time": 1740459802,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 202787,
       "num": 202787,
       "word": "连续跑步35天的面部变化",
@@ -635,11 +723,11 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 194967,
-      "num": 218229,
-      "word": "90岁奶奶摔倒70岁大伯拼尽全力抱回家",
-      "onboard_time": 1740455060,
-      "rank": 39,
+      "raw_hot": 196926,
+      "num": 196926,
+      "word": "南京将步入双机场时代",
+      "onboard_time": 1740459202,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -715,11 +803,19 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 181193,
-      "num": 217593,
-      "word": "邓为说已经向猫交学费了",
-      "onboard_time": 1740458302,
-      "rank": 36,
+      "raw_hot": 183773,
+      "num": 215249,
+      "word": "周棋洛奉上鲜红的心",
+      "onboard_time": 1740458842,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 180632,
+      "num": 180632,
+      "word": "难哄",
+      "onboard_time": 1740458724,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -795,6 +891,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 162373,
+      "num": 487886,
+      "word": "杨紫首谈置顶自己",
+      "onboard_time": 1740456441,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160562,
       "num": 160562,
       "word": "4岁女童每天饮料甜食不断确诊糖尿病",
@@ -809,6 +913,14 @@
       "onboard_time": 1740445339,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157581,
+      "num": 157581,
+      "word": "未定事件簿",
+      "onboard_time": 1740459443,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 156839,
@@ -883,14 +995,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 146365,
-      "num": 487886,
-      "word": "杨紫首谈置顶自己",
-      "onboard_time": 1740456441,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 146060,
       "num": 146060,
       "word": "丈夫设局让妻子离婚时背75万巨债",
@@ -904,6 +1008,14 @@
       "word": "一男子地铁吵架吼对方听不懂上海话",
       "onboard_time": 1740422832,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142455,
+      "num": 439593,
+      "word": "手机NFC功能碰一下钱就没了系摆拍",
+      "onboard_time": 1740460100,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -988,7 +1100,7 @@
     },
     {
       "raw_hot": 121359,
-      "num": 137632,
+      "num": 218258,
       "word": "王楚钦有点真诚又浪漫",
       "onboard_time": 1740452780,
       "rank": 47,
@@ -1403,6 +1515,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 40428,
+      "num": 219180,
+      "word": "当陷入颓废循环的年轻人决定早起",
+      "onboard_time": 1740459863,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37839,
       "num": 194601,
       "word": "网红罗大美妹妹称罪犯求生欲望很强",
@@ -1465,6 +1585,22 @@
       "onboard_time": 1740421271,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 22121,
+      "num": 217552,
+      "word": "地图下的地图是什么",
+      "onboard_time": 1740460462,
+      "rank": 28,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 21538,
+      "num": 395729,
+      "word": "抢注DEEPSEEK等相关商标被依法驳回",
+      "onboard_time": 1740459982,
+      "rank": 14,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 20755,
