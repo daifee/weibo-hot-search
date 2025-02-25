@@ -1,6 +1,6 @@
 {
   "startTime": 1740414610412,
-  "endTime": 1740457662397,
+  "endTime": 1740458483442,
   "band_list": [
     {
       "raw_hot": 2114020,
@@ -115,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 861212,
+      "num": 861212,
+      "word": "马航MH370新一轮搜索重启",
+      "onboard_time": 1740454280,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 810306,
       "num": 810306,
       "word": "理想i8",
@@ -137,6 +145,14 @@
       "onboard_time": 1740407662,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 748313,
+      "num": 748313,
+      "word": "金靖 昨天何医生又给我把脉了",
+      "onboard_time": 1740456141,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 739475,
@@ -187,14 +203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 638891,
-      "num": 581947,
-      "word": "金靖 昨天何医生又给我把脉了",
-      "onboard_time": 1740456141,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 621462,
       "num": 401047,
       "word": "上海一女子坐地铁躺地上补觉睡10站",
@@ -211,12 +219,12 @@
       "category": "艺人,美妆"
     },
     {
-      "raw_hot": 581983,
-      "num": 581983,
-      "word": "马航MH370新一轮搜索重启",
-      "onboard_time": 1740454280,
-      "rank": 49,
-      "category": "海外新闻"
+      "raw_hot": 593312,
+      "num": 593312,
+      "word": "未来五年将有2万座加油站消失",
+      "onboard_time": 1740455000,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 581817,
@@ -283,14 +291,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 504048,
-      "num": 504048,
-      "word": "未来五年将有2万座加油站消失",
-      "onboard_time": 1740455000,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 502408,
       "num": 587831,
       "word": "韩国一高速桥梁倒塌致3死5伤",
@@ -299,8 +299,8 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 464643,
-      "num": 464643,
+      "raw_hot": 483892,
+      "num": 483892,
       "word": "迅猛龙分享考研",
       "onboard_time": 1740456081,
       "rank": 14,
@@ -403,6 +403,14 @@
       "category": "健康医疗,互联网"
     },
     {
+      "raw_hot": 288657,
+      "num": 230590,
+      "word": "虞书欣包场支持爱你",
+      "onboard_time": 1740457402,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 285146,
       "num": 285146,
       "word": "景甜新剧第二世创飞所有人",
@@ -467,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259541,
+      "num": 217789,
+      "word": "爱你开播",
+      "onboard_time": 1740454280,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 254865,
       "num": 220964,
       "word": "Loong9回应插队登机",
@@ -499,20 +515,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 230590,
-      "num": 230590,
-      "word": "虞书欣包场支持爱你",
-      "onboard_time": 1740457402,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 223728,
       "num": 563241,
       "word": "普京称俄罗斯稀土储量多于乌克兰",
       "onboard_time": 1740453801,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 222519,
+      "num": 217937,
+      "word": "佳佳一个人完成买菜考验",
+      "onboard_time": 1740457343,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 221693,
@@ -547,14 +563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 217165,
-      "num": 204788,
-      "word": "爱你开播",
-      "onboard_time": 1740454280,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 216099,
       "num": 216099,
       "word": "少女遭欺凌为求解脱被骗沾染毒品",
@@ -571,11 +579,27 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 215729,
+      "num": 215729,
+      "word": "张凌赫让周柯宇合照弯下点",
+      "onboard_time": 1740458424,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215038,
       "num": 179739,
       "word": "张凌赫新头像是徐若晗画的",
       "onboard_time": 1740455961,
       "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 214791,
+      "num": 211575,
+      "word": "放羊的星星",
+      "onboard_time": 1740457823,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -611,12 +635,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 194967,
+      "num": 218229,
+      "word": "90岁奶奶摔倒70岁大伯拼尽全力抱回家",
+      "onboard_time": 1740455060,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191969,
       "num": 150494,
       "word": "哪吒汽车从未对哪吒2电影方提起诉讼",
       "onboard_time": 1740435552,
       "rank": 47,
       "category": "汽车,电影"
+    },
+    {
+      "raw_hot": 191931,
+      "num": 226004,
+      "word": "王星回应录制无限超越班",
+      "onboard_time": 1740456861,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 191670,
@@ -651,8 +691,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186950,
+      "num": 215002,
+      "word": "王楚钦担任首都无偿献血宣传形象大使",
+      "onboard_time": 1740458064,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185781,
-      "num": 185781,
+      "num": 218836,
       "word": "姿态喊话Doinb",
       "onboard_time": 1740448878,
       "rank": 46,
@@ -665,6 +713,14 @@
       "onboard_time": 1740454461,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 181193,
+      "num": 217593,
+      "word": "邓为说已经向猫交学费了",
+      "onboard_time": 1740458302,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 179249,
@@ -681,22 +737,6 @@
       "onboard_time": 1740453199,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 175659,
-      "num": 179029,
-      "word": "90岁奶奶摔倒70岁大伯拼尽全力抱回家",
-      "onboard_time": 1740455060,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 175568,
-      "num": 175568,
-      "word": "王星回应录制无限超越班",
-      "onboard_time": 1740456861,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 174726,
@@ -723,6 +763,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168324,
+      "num": 168324,
+      "word": "特斯拉 FSD",
+      "onboard_time": 1740455480,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 165823,
+      "num": 165823,
+      "word": "祁煜全球热恋",
+      "onboard_time": 1740457823,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 164822,
+      "num": 164822,
+      "word": "恋与深空",
+      "onboard_time": 1740458182,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 163493,
       "num": 159004,
       "word": "原来头皮屑变多是因为溢脂性皮炎",
@@ -737,14 +801,6 @@
       "onboard_time": 1740425772,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 158832,
-      "num": 158832,
-      "word": "佳佳一个人完成买菜考验",
-      "onboard_time": 1740457343,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 157662,
@@ -769,6 +825,14 @@
       "onboard_time": 1740450739,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154571,
+      "num": 218889,
+      "word": "米卡一年半集齐四大时装周",
+      "onboard_time": 1740458124,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 151982,
@@ -820,7 +884,7 @@
     },
     {
       "raw_hot": 146365,
-      "num": 262689,
+      "num": 487886,
       "word": "杨紫首谈置顶自己",
       "onboard_time": 1740456441,
       "rank": 18,
@@ -937,6 +1001,14 @@
       "onboard_time": 1740411619,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 118030,
+      "num": 217885,
+      "word": "哪吒要不你还是骂我是妖怪吧",
+      "onboard_time": 1740457944,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 117225,
@@ -1267,12 +1339,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 64874,
+      "num": 492816,
+      "word": "人工智能抢得走咱的饭碗吗",
+      "onboard_time": 1740457463,
+      "rank": 29,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 62431,
       "num": 62431,
       "word": "难哄导演给白敬亭拍出偶像包袱了",
       "onboard_time": 1740415275,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 60538,
+      "num": 1233713,
+      "word": "祖国大地春耕色块明艳动人",
+      "onboard_time": 1740456981,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57940,
@@ -1297,14 +1385,6 @@
       "onboard_time": 1740455661,
       "rank": 40,
       "category": "舆论监督,健康医疗"
-    },
-    {
-      "raw_hot": 51923,
-      "num": 246930,
-      "word": "人工智能抢得走咱的饭碗吗",
-      "onboard_time": 1740457463,
-      "rank": 29,
-      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 45894,
@@ -1361,14 +1441,6 @@
       "onboard_time": 1740414738,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 28684,
-      "num": 1188042,
-      "word": "祖国大地春耕色块明艳动人",
-      "onboard_time": 1740456981,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27873,
@@ -1468,6 +1540,9 @@
     },
     {
       "word": "#总书记这样论三农#"
+    },
+    {
+      "word": "#中俄是搬不走的好邻居#"
     }
   ]
 }
