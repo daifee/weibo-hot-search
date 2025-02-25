@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740519361801,
+  "endTime": 1740522117954,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -5387,6 +5387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185530,
+      "num": 185530,
+      "word": "老人去世130万分堂弟1套房收归国有",
+      "onboard_time": 1740506892,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 185328,
       "num": 185328,
       "word": "李兰迪小小老子脾气爆",
@@ -6793,14 +6801,6 @@
       "onboard_time": 1740393260,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 149327,
-      "num": 149327,
-      "word": "老人去世130万分堂弟1套房收归国有",
-      "onboard_time": 1740506892,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 149180,
@@ -9643,6 +9643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33674,
+      "num": 33674,
+      "word": "虞书欣给张凌赫宣传爱你",
+      "onboard_time": 1740514991,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 33513,
       "num": 336873,
       "word": "白敬亭演技缓缓入心",
@@ -9753,6 +9761,14 @@
       "onboard_time": 1740449418,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 29543,
+      "num": 26738,
+      "word": "谢霆锋喂外甥女吃饭",
+      "onboard_time": 1740518651,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 29439,
@@ -9881,14 +9897,6 @@
       "onboard_time": 1740295459,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 26885,
-      "num": 26885,
-      "word": "虞书欣给张凌赫宣传爱你",
-      "onboard_time": 1740514991,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 26814,
@@ -10180,7 +10188,7 @@
     },
     {
       "raw_hot": 19401,
-      "num": 19401,
+      "num": 25244,
       "word": "泰国切断边境可疑通信网络信号",
       "onboard_time": 1740512651,
       "rank": 29,
@@ -10291,6 +10299,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 16757,
+      "num": 25247,
+      "word": "我国研制出船舶心脏中的巨无霸",
+      "onboard_time": 1740515780,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 16756,
       "num": 190987,
       "word": "俄乌战场上的特殊武器",
@@ -10305,6 +10321,14 @@
       "onboard_time": 1740335053,
       "rank": 27,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 16305,
+      "num": 25233,
+      "word": "虞书欣宣传了爱你",
+      "onboard_time": 1740520812,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 16020,
@@ -10347,14 +10371,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 14139,
-      "num": 17228,
-      "word": "我国研制出船舶心脏中的巨无霸",
-      "onboard_time": 1740515780,
-      "rank": 36,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 13535,
       "num": 16326,
       "word": "男童卡喉脸已发紫路人出手了",
@@ -10369,14 +10385,6 @@
       "onboard_time": 1740419353,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12905,
-      "num": 15372,
-      "word": "谢霆锋喂外甥女吃饭",
-      "onboard_time": 1740518651,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 12759,
@@ -10433,6 +10441,14 @@
       "onboard_time": 1740409881,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12365,
+      "num": 54190,
+      "word": "看你投手榴弹我大气都不敢喘",
+      "onboard_time": 1740521051,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11847,
