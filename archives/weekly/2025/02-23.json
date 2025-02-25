@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740490219250,
+  "endTime": 1740490888171,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -427,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1328817,
+      "num": 319557,
+      "word": "郑润泽护妻",
+      "onboard_time": 1740488359,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1325670,
       "num": 1325670,
       "word": "DeepSeek评以为很卫生实际巨脏的行为",
@@ -521,6 +529,14 @@
       "onboard_time": 1740470062,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1171497,
+      "num": 713952,
+      "word": "白敬亭章若楠发合照了",
+      "onboard_time": 1740487762,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 1163298,
@@ -625,14 +641,6 @@
       "onboard_time": 1740373701,
       "rank": 26,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1073866,
-      "num": 272984,
-      "word": "郑润泽护妻",
-      "onboard_time": 1740488359,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 1057809,
@@ -768,14 +776,6 @@
       "word": "男主死追女主装死",
       "onboard_time": 1740290719,
       "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 967872,
-      "num": 627071,
-      "word": "白敬亭章若楠发合照了",
-      "onboard_time": 1740487762,
-      "rank": 28,
       "category": "剧集"
     },
     {
@@ -2235,6 +2235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 432233,
+      "num": 352873,
+      "word": "孙艺珍43岁状态",
+      "onboard_time": 1740485242,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 430512,
       "num": 430512,
       "word": "黄雅琼和王昶遗憾告负",
@@ -2273,14 +2281,6 @@
       "onboard_time": 1740291378,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 422153,
-      "num": 345251,
-      "word": "孙艺珍43岁状态",
-      "onboard_time": 1740485242,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 421605,
@@ -2512,6 +2512,14 @@
       "word": "官方回应公开6000多名农民隐私",
       "onboard_time": 1740246974,
       "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 375586,
+      "num": 375586,
+      "word": "中学回应辞退清洁工让学生打扫全校",
+      "onboard_time": 1740488841,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -3379,6 +3387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 272777,
+      "num": 272777,
+      "word": "许凯染发了",
+      "onboard_time": 1740487641,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 271724,
       "num": 271724,
       "word": "A怎么会没发现b喜欢c的秘密呢",
@@ -4075,11 +4091,11 @@
       "category": "数码,互联网"
     },
     {
-      "raw_hot": 219300,
-      "num": 219300,
-      "word": "许凯染发了",
-      "onboard_time": 1740487641,
-      "rank": 40,
+      "raw_hot": 219172,
+      "num": 292579,
+      "word": "杨紫的年终总结",
+      "onboard_time": 1740490401,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -4692,7 +4708,7 @@
     },
     {
       "raw_hot": 195918,
-      "num": 200968,
+      "num": 319987,
       "word": "Gucci大秀",
       "onboard_time": 1740489623,
       "rank": 33,
@@ -4761,6 +4777,14 @@
       "onboard_time": 1740374061,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194056,
+      "num": 194056,
+      "word": "檀健次怎么这么会演暗爽",
+      "onboard_time": 1740489741,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 193947,
@@ -5547,14 +5571,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 172476,
-      "num": 172476,
-      "word": "檀健次怎么这么会演暗爽",
-      "onboard_time": 1740489741,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 172112,
       "num": 172112,
       "word": "面试现场被嘲P图过度",
@@ -5915,6 +5931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163568,
+      "num": 163568,
+      "word": "李盈莹受伤程度超预期",
+      "onboard_time": 1740490161,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163564,
       "num": 163564,
       "word": "DeepSeek",
@@ -6145,6 +6169,14 @@
       "onboard_time": 1740384802,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157775,
+      "num": 238735,
+      "word": "徐海东梦到跟林高远打半小时电话",
+      "onboard_time": 1740489081,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 157703,
@@ -6915,14 +6947,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 136133,
-      "num": 269128,
-      "word": "中学回应辞退清洁工让学生打扫全校",
-      "onboard_time": 1740488841,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 135946,
       "num": 1495980,
       "word": "中央一号文件对三农工作划重点",
@@ -6963,28 +6987,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 134693,
-      "num": 134693,
-      "word": "徐海东梦到跟林高远打半小时电话",
-      "onboard_time": 1740489081,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 134667,
       "num": 134667,
       "word": "湖南师大回应教授指责学生娇生惯养",
       "onboard_time": 1740451998,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 133981,
-      "num": 133981,
-      "word": "李盈莹受伤程度超预期",
-      "onboard_time": 1740490161,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 133621,
@@ -7713,6 +7721,14 @@
       "onboard_time": 1740301339,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107350,
+      "num": 300937,
+      "word": "湖南沅陵船只相撞已致2人死亡",
+      "onboard_time": 1740490462,
+      "rank": 18,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 107302,
@@ -9363,6 +9379,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 25484,
+      "num": 260043,
+      "word": "普货违规运烟花销售称保证上高速",
+      "onboard_time": 1740488841,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24775,
       "num": 190900,
       "word": "考研和工作如何平衡",
@@ -9617,14 +9641,6 @@
       "onboard_time": 1740243976,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 16851,
-      "num": 260043,
-      "word": "普货违规运烟花销售称保证上高速",
-      "onboard_time": 1740488841,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16802,

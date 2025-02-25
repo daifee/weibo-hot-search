@@ -1,6 +1,6 @@
 {
   "startTime": 1740414610412,
-  "endTime": 1740490219250,
+  "endTime": 1740490888171,
   "band_list": [
     {
       "raw_hot": 3735413,
@@ -147,6 +147,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1328817,
+      "num": 319557,
+      "word": "郑润泽护妻",
+      "onboard_time": 1740488359,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1325670,
       "num": 1325670,
       "word": "DeepSeek评以为很卫生实际巨脏的行为",
@@ -187,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1171497,
+      "num": 713952,
+      "word": "白敬亭章若楠发合照了",
+      "onboard_time": 1740487762,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1148255,
       "num": 1148255,
       "word": "李威涉嫌伤害致死",
@@ -209,14 +225,6 @@
       "onboard_time": 1740479183,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1073866,
-      "num": 272984,
-      "word": "郑润泽护妻",
-      "onboard_time": 1740488359,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 1027060,
@@ -249,14 +257,6 @@
       "onboard_time": 1740441258,
       "rank": 11,
       "category": "网红"
-    },
-    {
-      "raw_hot": 967872,
-      "num": 627071,
-      "word": "白敬亭章若楠发合照了",
-      "onboard_time": 1740487762,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 950186,
@@ -755,20 +755,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 432233,
+      "num": 352873,
+      "word": "孙艺珍43岁状态",
+      "onboard_time": 1740485242,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 425867,
       "num": 425867,
       "word": "复旦抄袭论文博士后退站",
       "onboard_time": 1740466279,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 422153,
-      "num": 345251,
-      "word": "孙艺珍43岁状态",
-      "onboard_time": 1740485242,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 421605,
@@ -817,6 +817,14 @@
       "onboard_time": 1740461000,
       "rank": 14,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 375586,
+      "num": 375586,
+      "word": "中学回应辞退清洁工让学生打扫全校",
+      "onboard_time": 1740488841,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 375389,
@@ -1067,6 +1075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 272777,
+      "num": 272777,
+      "word": "许凯染发了",
+      "onboard_time": 1740487641,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 271238,
       "num": 271238,
       "word": "妈妈 我有学上了",
@@ -1299,11 +1315,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 219300,
-      "num": 219300,
-      "word": "许凯染发了",
-      "onboard_time": 1740487641,
-      "rank": 40,
+      "raw_hot": 219172,
+      "num": 292579,
+      "word": "杨紫的年终总结",
+      "onboard_time": 1740490401,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -1524,7 +1540,7 @@
     },
     {
       "raw_hot": 195918,
-      "num": 200968,
+      "num": 319987,
       "word": "Gucci大秀",
       "onboard_time": 1740489623,
       "rank": 33,
@@ -1537,6 +1553,14 @@
       "onboard_time": 1740482722,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 194056,
+      "num": 194056,
+      "word": "檀健次怎么这么会演暗爽",
+      "onboard_time": 1740489741,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 193520,
@@ -1747,14 +1771,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 172476,
-      "num": 172476,
-      "word": "檀健次怎么这么会演暗爽",
-      "onboard_time": 1740489741,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 170151,
       "num": 170151,
       "word": "吴磊有种真人吊打建模的帅",
@@ -1835,6 +1851,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 163568,
+      "num": 163568,
+      "word": "李盈莹受伤程度超预期",
+      "onboard_time": 1740490161,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163493,
       "num": 159004,
       "word": "原来头皮屑变多是因为溢脂性皮炎",
@@ -1905,6 +1929,14 @@
       "onboard_time": 1740462379,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157775,
+      "num": 238735,
+      "word": "徐海东梦到跟林高远打半小时电话",
+      "onboard_time": 1740489081,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 157662,
@@ -2195,36 +2227,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 136133,
-      "num": 269128,
-      "word": "中学回应辞退清洁工让学生打扫全校",
-      "onboard_time": 1740488841,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 134693,
-      "num": 134693,
-      "word": "徐海东梦到跟林高远打半小时电话",
-      "onboard_time": 1740489081,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 134667,
       "num": 134667,
       "word": "湖南师大回应教授指责学生娇生惯养",
       "onboard_time": 1740451998,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 133981,
-      "num": 133981,
-      "word": "李盈莹受伤程度超预期",
-      "onboard_time": 1740490161,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 133668,
@@ -2513,6 +2521,14 @@
       "onboard_time": 1740407064,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107350,
+      "num": 300937,
+      "word": "湖南沅陵船只相撞已致2人死亡",
+      "onboard_time": 1740490462,
+      "rank": 18,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 107345,
@@ -3107,6 +3123,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 25484,
+      "num": 260043,
+      "word": "普货违规运烟花销售称保证上高速",
+      "onboard_time": 1740488841,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24775,
       "num": 190900,
       "word": "考研和工作如何平衡",
@@ -3185,14 +3209,6 @@
       "onboard_time": 1740422232,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 16851,
-      "num": 260043,
-      "word": "普货违规运烟花销售称保证上高速",
-      "onboard_time": 1740488841,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16756,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1740490888171,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2315063,
+        "num": 2315063,
+        "word": "爱奇艺 吃相",
+        "onboard_time": 1740485661,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 935560,
+        "num": 935560,
+        "word": "南京师范大学宋某某被免职",
+        "onboard_time": 1740477561,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18653,
+        "num": 753463,
+        "word": "祖国大地春耕色块明艳动人",
+        "onboard_time": 1740456981,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1171497,
+        "num": 713952,
+        "word": "白敬亭章若楠发合照了",
+        "onboard_time": 1740487762,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 592253,
+        "num": 592253,
+        "word": "王楚钦LV品牌大使",
+        "onboard_time": 1740482001,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 375586,
+        "num": 375586,
+        "word": "中学回应辞退清洁工让学生打扫全校",
+        "onboard_time": 1740488841,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 432233,
+        "num": 352873,
+        "word": "孙艺珍43岁状态",
+        "onboard_time": 1740485242,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 422440,
+        "num": 342433,
+        "word": "刘晓庆毛戈平 友情比爱情更长久",
+        "onboard_time": 1740485242,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320678,
+        "num": 320678,
+        "word": "诺如病毒能轻易瘫痪一个公司",
+        "onboard_time": 1740479242,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276897,
+        "num": 320411,
+        "word": "男子照顾同村老人12年继承5套房",
+        "onboard_time": 1740482240,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1814796,
+        "num": 320112,
+        "word": "关晓彤回应近日状态",
+        "onboard_time": 1740477561,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145801,
+        "num": 319987,
+        "word": "Gucci大秀",
+        "onboard_time": 1740489623,
+        "rank": 11,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 1328817,
+        "num": 319557,
+        "word": "郑润泽护妻",
+        "onboard_time": 1740488359,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 984578,
+        "num": 319459,
+        "word": "南京师范大学PPT",
+        "onboard_time": 1740486981,
+        "rank": 13,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 794557,
+        "num": 318900,
+        "word": "暂停宋某某一切工作",
+        "onboard_time": 1740479183,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 360059,
+        "num": 318780,
+        "word": "迪丽热巴宣传爱你",
+        "onboard_time": 1740484703,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 351586,
+        "num": 318481,
+        "word": "懂瓜呱被禁言",
+        "onboard_time": 1740486379,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318268,
+        "num": 318268,
+        "word": "爱你第一集就锁v",
+        "onboard_time": 1740484099,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107350,
+        "num": 300937,
+        "word": "湖南沅陵船只相撞已致2人死亡",
+        "onboard_time": 1740490462,
+        "rank": 18,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 219172,
+        "num": 292579,
+        "word": "杨紫的年终总结",
+        "onboard_time": 1740490401,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 646632,
+        "num": 292358,
+        "word": "鹿晗关晓彤名下并无商业关联",
+        "onboard_time": 1740475220,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291222,
+        "num": 291222,
+        "word": "张凌赫 现偶",
+        "onboard_time": 1740485721,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225916,
+        "num": 278953,
+        "word": "10万多个网络账号被关闭",
+        "onboard_time": 1740488061,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272777,
+        "num": 272777,
+        "word": "许凯染发了",
+        "onboard_time": 1740487641,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210061,
+        "num": 258915,
+        "word": "艺考女生136斤减到87斤",
+        "onboard_time": 1740465739,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 418825,
+        "num": 258073,
+        "word": "鹿晗工作室告黑声明",
+        "onboard_time": 1740469400,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257010,
+        "num": 257010,
+        "word": "58岁王祖贤现状",
+        "onboard_time": 1740483200,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157775,
+        "num": 238735,
+        "word": "徐海东梦到跟林高远打半小时电话",
+        "onboard_time": 1740489081,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232258,
+        "num": 232258,
+        "word": "徐若晗朋友圈",
+        "onboard_time": 1740477324,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225361,
+        "num": 225361,
+        "word": "撒贝宁也收到了王鸥的明侦手链",
+        "onboard_time": 1740484640,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223196,
+        "num": 223196,
+        "word": "千金归来 有毒",
+        "onboard_time": 1740483981,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218286,
+        "num": 218286,
+        "word": "宁艺卓美宝莲",
+        "onboard_time": 1740486741,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208631,
+        "num": 208631,
+        "word": "母女10年流水3000万拒付73万赔偿款",
+        "onboard_time": 1740478581,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194056,
+        "num": 194056,
+        "word": "檀健次怎么这么会演暗爽",
+        "onboard_time": 1740489741,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191066,
+        "num": 191066,
+        "word": "何炅这么多年了还是没放过鬼鬼",
+        "onboard_time": 1740473181,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190725,
+        "num": 190725,
+        "word": "气血不足的人就要多出去玩",
+        "onboard_time": 1740481461,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 188219,
+        "num": 188219,
+        "word": "阴阳师",
+        "onboard_time": 1740488841,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 181964,
+        "num": 181964,
+        "word": "王祖贤开艾灸馆",
+        "onboard_time": 1740476360,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173638,
+        "num": 173638,
+        "word": "怀孕21周时胎儿小脚丫掉了出来",
+        "onboard_time": 1740451758,
+        "rank": 38,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 25484,
+        "num": 169472,
+        "word": "普货违规运烟花销售称保证上高速",
+        "onboard_time": 1740488841,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166742,
+        "num": 166742,
+        "word": "加大力度处置违法违规MCN机构账号",
+        "onboard_time": 1740488302,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163912,
+        "num": 163912,
+        "word": "千金归来只剩千金",
+        "onboard_time": 1740480741,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163568,
+        "num": 163568,
+        "word": "李盈莹受伤程度超预期",
+        "onboard_time": 1740490161,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157299,
+        "num": 157299,
+        "word": "百万网红迅猛龙称考研结果很好",
+        "onboard_time": 1740483081,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 153166,
+        "num": 153166,
+        "word": "26岁低能量不自律女孩如何度过一天",
+        "onboard_time": 1740480921,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151792,
+        "num": 151792,
+        "word": "独居老人猝死堂弟要求继承遗产",
+        "onboard_time": 1740484941,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147554,
+        "num": 147554,
+        "word": "百度21亿美元收购YY直播",
+        "onboard_time": 1740489982,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 146124,
+        "num": 146124,
+        "word": "溪木源直播",
+        "onboard_time": 1740489382,
+        "rank": 47,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 132148,
+        "num": 132148,
+        "word": "杨幂谈胳膊钙化",
+        "onboard_time": 1740477324,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130993,
+        "num": 130993,
+        "word": "国乒新队服公式照",
+        "onboard_time": 1740484580,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄是搬不走的好邻居#"
+    }
+  }
+}
