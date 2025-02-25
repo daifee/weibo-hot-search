@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740476323336,
+  "endTime": 1740479118214,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 3735413,
-      "num": 467557,
+      "num": 3390379,
       "word": "南师大",
       "onboard_time": 1740468321,
       "rank": 32,
@@ -89,6 +89,14 @@
       "onboard_time": 1740323303,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2415021,
+      "num": 719137,
+      "word": "关晓彤回应近日状态",
+      "onboard_time": 1740477561,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 2298993,
@@ -179,6 +187,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1875225,
+      "num": 1875225,
+      "word": "鹿晗关晓彤名下并无商业关联",
+      "onboard_time": 1740475220,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1837643,
       "num": 1837643,
       "word": "王楚钦亚洲杯金牌",
@@ -203,12 +219,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1736331,
+      "num": 1736331,
+      "word": "男子举报南师大博士女友出轨导师",
+      "onboard_time": 1740475041,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1730311,
       "num": 717522,
       "word": "鹿晗关晓彤分手博坚持打卡2694天",
       "onboard_time": 1740311359,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1726212,
+      "num": 780609,
+      "word": "南京师范大学宋某某被免职",
+      "onboard_time": 1740477561,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1700278,
@@ -380,7 +412,7 @@
     },
     {
       "raw_hot": 1262756,
-      "num": 466493,
+      "num": 534110,
       "word": "艺考女生136斤减到87斤",
       "onboard_time": 1740465739,
       "rank": 38,
@@ -393,14 +425,6 @@
       "onboard_time": 1740393739,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1252224,
-      "num": 1252224,
-      "word": "鹿晗关晓彤名下并无商业关联",
-      "onboard_time": 1740475220,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1248933,
@@ -716,7 +740,7 @@
     },
     {
       "raw_hot": 937556,
-      "num": 318246,
+      "num": 385331,
       "word": "怀孕21周时胎儿小脚丫掉了出来",
       "onboard_time": 1740451758,
       "rank": 25,
@@ -851,11 +875,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 821739,
-      "num": 821739,
-      "word": "男子举报南师大博士女友出轨导师",
-      "onboard_time": 1740475041,
-      "rank": 23,
+      "raw_hot": 824403,
+      "num": 568967,
+      "word": "丈夫将刚出生女儿送人谎称没气息",
+      "onboard_time": 1740476661,
+      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -953,6 +977,14 @@
       "onboard_time": 1740365600,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 782537,
+      "num": 782537,
+      "word": "湖南师范大学",
+      "onboard_time": 1740477079,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 777593,
@@ -1579,6 +1611,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 560622,
+      "num": 560622,
+      "word": "演员李威可能面临无期徒刑或死刑",
+      "onboard_time": 1740477200,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 556008,
       "num": 554972,
       "word": "国家能源集团官网删除拟录用公示名单",
@@ -1593,6 +1633,14 @@
       "onboard_time": 1740279259,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 555411,
+      "num": 555411,
+      "word": "虞书欣偶遇一位好像羽公子的何医生",
+      "onboard_time": 1740475461,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 549632,
@@ -1897,6 +1945,22 @@
       "onboard_time": 1740372263,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 483127,
+      "num": 483127,
+      "word": "王祖贤开艾灸馆",
+      "onboard_time": 1740476360,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 480122,
+      "num": 480122,
+      "word": "杨幂谈胳膊钙化",
+      "onboard_time": 1740477324,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 476136,
@@ -2739,6 +2803,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 311205,
+      "num": 214114,
+      "word": "高校回应副院长出轨女博士传闻",
+      "onboard_time": 1740478941,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 310766,
       "num": 298332,
       "word": "营业悖论",
@@ -3219,6 +3291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 252125,
+      "num": 252125,
+      "word": "徐若晗朋友圈",
+      "onboard_time": 1740477324,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 250496,
       "num": 250496,
       "word": "王曼昱使用樊A",
@@ -3265,14 +3345,6 @@
       "onboard_time": 1740287720,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 246622,
-      "num": 246622,
-      "word": "虞书欣偶遇一位好像羽公子的何医生",
-      "onboard_time": 1740475461,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 246113,
@@ -3547,6 +3619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229070,
+      "num": 475998,
+      "word": "南京师范大学发布情况通报",
+      "onboard_time": 1740478820,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 228384,
       "num": 214294,
       "word": "掌心",
@@ -3665,6 +3745,14 @@
       "onboard_time": 1740325220,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 221475,
+      "num": 221475,
+      "word": "特朗普加大对中国芯片限制",
+      "onboard_time": 1740477141,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 221117,
@@ -4147,6 +4235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 201421,
+      "num": 201421,
+      "word": "邓科 被换",
+      "onboard_time": 1740475999,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200833,
       "num": 249047,
       "word": "时代少年团肤色",
@@ -4281,6 +4377,14 @@
       "onboard_time": 1740371481,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195936,
+      "num": 195936,
+      "word": "虞书欣偶遇张凌赫正在出诊",
+      "onboard_time": 1740476300,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 195345,
@@ -5419,14 +5523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 163985,
-      "num": 163985,
-      "word": "邓科 被换",
-      "onboard_time": 1740475999,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 163564,
       "num": 163564,
       "word": "DeepSeek",
@@ -5529,6 +5625,14 @@
       "onboard_time": 1740382040,
       "rank": 49,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 160648,
+      "num": 160648,
+      "word": "母女10年流水3000万拒付73万赔偿款",
+      "onboard_time": 1740478581,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160562,
@@ -5729,6 +5833,14 @@
       "onboard_time": 1740284419,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154928,
+      "num": 154928,
+      "word": "一过性牙痛可能是心梗前兆",
+      "onboard_time": 1740473601,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 154870,
@@ -5987,6 +6099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147211,
+      "num": 147211,
+      "word": "宋亚轩新歌预告片段",
+      "onboard_time": 1740478222,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 147201,
       "num": 147201,
       "word": "尔冬升我在无限超越班绝对没有关系户",
@@ -6185,6 +6305,14 @@
       "onboard_time": 1740464898,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140487,
+      "num": 140487,
+      "word": "金钟仁cha了WATER",
+      "onboard_time": 1740478459,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 139927,
@@ -6427,6 +6555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131976,
+      "num": 131976,
+      "word": "温以凡先说的我想亲你",
+      "onboard_time": 1740476960,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131772,
       "num": 131772,
       "word": "仙台有树豆瓣开分7.0",
@@ -6449,14 +6585,6 @@
       "onboard_time": 1740320182,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 131127,
-      "num": 131127,
-      "word": "一过性牙痛可能是心梗前兆",
-      "onboard_time": 1740473601,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 131056,
@@ -6523,6 +6651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128977,
+      "num": 128977,
+      "word": "翟潇闻问你要毁了哥吗",
+      "onboard_time": 1740479061,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128031,
       "num": 128031,
       "word": "谢楠经常收到吴京发的丑照",
@@ -6537,6 +6673,14 @@
       "onboard_time": 1740449719,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127876,
+      "num": 127876,
+      "word": "JDG对战AL",
+      "onboard_time": 1740478041,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 127853,
@@ -6577,6 +6721,14 @@
       "onboard_time": 1740292639,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126994,
+      "num": 322660,
+      "word": "王子奇同意过生日",
+      "onboard_time": 1740478882,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 126135,
@@ -7083,14 +7235,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 106853,
-      "num": 106853,
-      "word": "虞书欣偶遇张凌赫正在出诊",
-      "onboard_time": 1740476300,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 106135,
       "num": 106135,
       "word": "林一去了黄明昊演唱会",
@@ -7508,11 +7652,19 @@
     },
     {
       "raw_hot": 80816,
-      "num": 1233713,
+      "num": 1774176,
       "word": "祖国大地春耕色块明艳动人",
       "onboard_time": 1740456981,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79536,
+      "num": 504001,
+      "word": "老铺黄金最高涨价12%",
+      "onboard_time": 1740478222,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 79444,
@@ -8291,6 +8443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 41843,
+      "num": 215172,
+      "word": "哈利波特视觉特效公司即将倒闭",
+      "onboard_time": 1740477921,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 41120,
       "num": 228044,
       "word": "檀健次暮冬温暖出发",
@@ -8603,6 +8763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27829,
+      "num": 474458,
+      "word": "小米15Ultra夜神人像",
+      "onboard_time": 1740476421,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 27702,
       "num": 207896,
       "word": "医生表示高度白酒送服药物没必要",
@@ -8689,6 +8857,14 @@
       "onboard_time": 1740339012,
       "rank": 47,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 23310,
+      "num": 474860,
+      "word": "千万投资农田被指为应付检查作假",
+      "onboard_time": 1740478401,
+      "rank": 18,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 23222,
