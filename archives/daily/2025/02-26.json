@@ -1,6 +1,6 @@
 {
   "startTime": 1740500996613,
-  "endTime": 1740508324223,
+  "endTime": 1740509111421,
   "band_list": [
     {
       "raw_hot": 1334843,
@@ -411,6 +411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 66703,
+      "num": 66703,
+      "word": "老人去世130万分堂弟1套房收归国有",
+      "onboard_time": 1740506892,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60726,
       "num": 67054,
       "word": "大衣哥说搬家到哪都可能被找到",
@@ -419,7 +427,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 47333,
+      "raw_hot": 52107,
       "num": 126573,
       "word": "中方回应加拿大制裁20余家中国实体",
       "onboard_time": 1740504254,
@@ -427,8 +435,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 41098,
-      "num": 41098,
+      "raw_hot": 41312,
+      "num": 41312,
       "word": "春风十里不如你",
       "onboard_time": 1740505814,
       "rank": 23,
@@ -443,8 +451,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 35255,
-      "num": 35255,
+      "raw_hot": 38495,
+      "num": 38495,
       "word": "爱你 好看",
       "onboard_time": 1740507673,
       "rank": 33,
@@ -507,12 +515,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 23855,
-      "num": 23855,
+      "raw_hot": 25147,
+      "num": 25147,
       "word": "苏新皓盒子里的猫综艺感",
       "onboard_time": 1740507913,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 24211,
+      "num": 24211,
+      "word": "张凌赫的桃花眼",
+      "onboard_time": 1740508632,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 22443,
+      "num": 22443,
+      "word": "刘宇宁直播",
+      "onboard_time": 1740508750,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 20207,
+      "num": 30474,
+      "word": "檀健次米兰行程",
+      "onboard_time": 1740506233,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 19129,
@@ -523,12 +555,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 15652,
-      "num": 36171,
-      "word": "老人去世130万分堂弟1套房收归国有",
-      "onboard_time": 1740506892,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 10531,
+      "num": 25962,
+      "word": "外交部回应特朗普欲加大限制中国芯片",
+      "onboard_time": 1740509052,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 8459,
+      "num": 26400,
+      "word": "金硕珍米兰时装周",
+      "onboard_time": 1740508991,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     }
   ],
   "hotgov_list": [
