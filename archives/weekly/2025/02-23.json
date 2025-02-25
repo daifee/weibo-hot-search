@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740483358918,
+  "endTime": 1740487457286,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -235,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1802085,
+      "num": 1802085,
+      "word": "爱奇艺 吃相",
+      "onboard_time": 1740485661,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1796415,
       "num": 437517,
       "word": "沈月的猫去世了",
@@ -377,6 +385,14 @@
       "onboard_time": 1740304699,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1422728,
+      "num": 909412,
+      "word": "爱你第一集就锁v",
+      "onboard_time": 1740484099,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1389499,
@@ -819,6 +835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 903151,
+      "num": 355103,
+      "word": "暂停宋某某一切工作",
+      "onboard_time": 1740479183,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 902859,
       "num": 902859,
       "word": "英语一我恨你",
@@ -897,6 +921,14 @@
       "onboard_time": 1740319343,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 830758,
+      "num": 783838,
+      "word": "演员李威可能面临无期徒刑或死刑",
+      "onboard_time": 1740477200,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 824403,
@@ -1001,14 +1033,6 @@
       "onboard_time": 1740477079,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 783838,
-      "num": 783838,
-      "word": "演员李威可能面临无期徒刑或死刑",
-      "onboard_time": 1740477200,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 783779,
@@ -1627,6 +1651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 571418,
+      "num": 429516,
+      "word": "刘晓庆毛戈平 友情比爱情更长久",
+      "onboard_time": 1740485242,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 569267,
       "num": 403588,
       "word": "五熊官宣怀孕",
@@ -1841,6 +1873,14 @@
       "onboard_time": 1740441979,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 517181,
+      "num": 287607,
+      "word": "迪丽热巴宣传爱你",
+      "onboard_time": 1740484703,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 514670,
@@ -2115,6 +2155,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 443181,
+      "num": 443181,
+      "word": "诺如病毒能轻易瘫痪一个公司",
+      "onboard_time": 1740479242,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 436646,
+      "num": 357554,
+      "word": "千金归来只剩千金",
+      "onboard_time": 1740480741,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 433540,
       "num": 433540,
       "word": "孙丞潇自曝焦虑到要吃药",
@@ -2168,6 +2224,14 @@
       "word": "老人花2万多买床垫拆开主材是泡沫",
       "onboard_time": 1740291378,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 421605,
+      "num": 421605,
+      "word": "男子照顾同村老人12年继承5套房",
+      "onboard_time": 1740482240,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -2451,14 +2515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 364985,
-      "num": 355103,
-      "word": "暂停宋某某一切工作",
-      "onboard_time": 1740479183,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 364727,
       "num": 364727,
       "word": "李清照出现的那刻太惊艳",
@@ -2531,20 +2587,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 358268,
+      "num": 282349,
+      "word": "懂瓜呱被禁言",
+      "onboard_time": 1740486379,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 358029,
       "num": 358029,
       "word": "国企拟录用3名本科生名单被删",
       "onboard_time": 1740306021,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 357554,
-      "num": 357554,
-      "word": "千金归来只剩千金",
-      "onboard_time": 1740480741,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 355876,
@@ -2899,6 +2955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 308931,
+      "num": 281618,
+      "word": "孙艺珍43岁状态",
+      "onboard_time": 1740485242,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 308191,
       "num": 412681,
       "word": "患者查DeepSeek后质疑医生治疗方案",
@@ -3041,6 +3105,14 @@
       "onboard_time": 1740480621,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 289947,
+      "num": 289947,
+      "word": "独居老人猝死堂弟要求继承遗产",
+      "onboard_time": 1740484941,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 289617,
@@ -3187,12 +3259,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 281173,
+      "num": 187067,
+      "word": "张凌赫 现偶",
+      "onboard_time": 1740485721,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 280070,
       "num": 280070,
       "word": "浙江人实现一户一雪人",
       "onboard_time": 1740232045,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 277944,
+      "num": 277944,
+      "word": "中国男子在日本猥亵女高中生被捕",
+      "onboard_time": 1740486561,
+      "rank": 22,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 277517,
@@ -3379,6 +3467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 255404,
+      "num": 255404,
+      "word": "百万网红迅猛龙称考研结果很好",
+      "onboard_time": 1740483081,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 255183,
       "num": 255183,
       "word": "哪吒2放映国家越来越多",
@@ -3403,11 +3499,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 251879,
+      "num": 284389,
+      "word": "58岁王祖贤现状",
+      "onboard_time": 1740483200,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250496,
       "num": 250496,
       "word": "王曼昱使用樊A",
       "onboard_time": 1740327679,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 250294,
+      "num": 250294,
+      "word": "国乒新队服公式照",
+      "onboard_time": 1740484580,
+      "rank": 28,
       "category": "体育"
     },
     {
@@ -3539,6 +3651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 239530,
+      "num": 239530,
+      "word": "宁艺卓美宝莲",
+      "onboard_time": 1740486741,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239172,
       "num": 239172,
       "word": "默茨宣布获胜朔尔茨承认失利",
@@ -3585,6 +3705,14 @@
       "onboard_time": 1740326839,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 237375,
+      "num": 237375,
+      "word": "撒贝宁也收到了王鸥的明侦手链",
+      "onboard_time": 1740484640,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 236527,
@@ -3729,6 +3857,14 @@
       "onboard_time": 1740478882,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 228495,
+      "num": 228495,
+      "word": "千金归来 有毒",
+      "onboard_time": 1740483981,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 228384,
@@ -3923,14 +4059,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 218698,
-      "num": 344186,
-      "word": "诺如病毒能轻易瘫痪一个公司",
-      "onboard_time": 1740479242,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 218302,
       "num": 218302,
       "word": "滤镜编剧桐华",
@@ -4121,6 +4249,14 @@
       "onboard_time": 1740375142,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 211311,
+      "num": 211311,
+      "word": "南京师范大学PPT",
+      "onboard_time": 1740486981,
+      "rank": 34,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 211037,
@@ -4395,6 +4531,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 200161,
+      "num": 282276,
+      "word": "气血不足的人就要多出去玩",
+      "onboard_time": 1740481461,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 200096,
       "num": 200096,
       "word": "祝绪丹来黄明昊演唱会当站姐",
@@ -4435,6 +4579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 198260,
+      "num": 198260,
+      "word": "王楚钦说每一次旅程都是一种选择",
+      "onboard_time": 1740486921,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198231,
       "num": 198231,
       "word": "董思成问DeepSeek应该怎么营业",
@@ -4457,14 +4609,6 @@
       "onboard_time": 1740381439,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 197441,
-      "num": 282276,
-      "word": "气血不足的人就要多出去玩",
-      "onboard_time": 1740481461,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 197275,
@@ -4763,14 +4907,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 190111,
-      "num": 282299,
-      "word": "男子照顾同村老人12年继承5套房",
-      "onboard_time": 1740482240,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 189899,
       "num": 189899,
       "word": "朴成训 阿迪达斯",
@@ -4793,6 +4929,14 @@
       "onboard_time": 1740385101,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 189087,
+      "num": 189087,
+      "word": "刘诗诗掌心照片是如来的掌心",
+      "onboard_time": 1740486441,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 188926,
@@ -4971,14 +5115,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 184401,
-      "num": 184401,
-      "word": "百万网红迅猛龙称考研结果很好",
-      "onboard_time": 1740483081,
-      "rank": 35,
-      "category": "教育"
-    },
-    {
       "raw_hot": 183898,
       "num": 183898,
       "word": "迪丽热巴时装刊预热",
@@ -5083,6 +5219,14 @@
       "category": "民生新闻,电影"
     },
     {
+      "raw_hot": 180080,
+      "num": 180080,
+      "word": "无血缘关系签遗赠扶养协议有效吗",
+      "onboard_time": 1740485181,
+      "rank": 41,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 179535,
       "num": 179535,
       "word": "宁艺卓 FILA",
@@ -5185,6 +5329,14 @@
       "onboard_time": 1740306559,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176952,
+      "num": 263478,
+      "word": "跟孙颖莎学习热身动作",
+      "onboard_time": 1740486681,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 176682,
@@ -5433,6 +5585,14 @@
       "onboard_time": 1740319102,
       "rank": 49,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 169252,
+      "num": 169252,
+      "word": "孟子义米兰时装周",
+      "onboard_time": 1740483141,
+      "rank": 46,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 168866,
@@ -5755,6 +5915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161283,
+      "num": 161283,
+      "word": "桑延战歌",
+      "onboard_time": 1740483860,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161199,
       "num": 356134,
       "word": "樊振东奥运封训时手臂缠满肌贴",
@@ -5985,6 +6153,14 @@
       "onboard_time": 1740310041,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 155239,
+      "num": 155239,
+      "word": "南师大环境学院官网崩了",
+      "onboard_time": 1740484821,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155128,
@@ -6233,6 +6409,14 @@
       "onboard_time": 1740365901,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148376,
+      "num": 148376,
+      "word": "基辅民众指停战长远看对乌是减分项",
+      "onboard_time": 1740485301,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 148079,
@@ -6531,14 +6715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 138488,
-      "num": 138488,
-      "word": "58岁王祖贤现状",
-      "onboard_time": 1740483200,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 138375,
       "num": 138375,
       "word": "婚内私赠第三者的财产配偶有权要回",
@@ -6673,14 +6849,6 @@
       "onboard_time": 1740294258,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 135123,
-      "num": 135123,
-      "word": "孟子义米兰时装周",
-      "onboard_time": 1740483141,
-      "rank": 46,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 134839,
@@ -6897,6 +7065,14 @@
       "onboard_time": 1740309378,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 127558,
+      "num": 200339,
+      "word": "中学老师当众连续掌掴学生",
+      "onboard_time": 1740485602,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127248,
@@ -8809,6 +8985,14 @@
       "onboard_time": 1740249133,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35059,
+      "num": 200879,
+      "word": "律师解读演员李威涉嫌伤害致死",
+      "onboard_time": 1740487401,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 34394,
