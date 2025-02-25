@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740447922849,
+  "endTime": 1740448915055,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -299,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1325670,
+      "num": 1325670,
+      "word": "DeepSeek评以为很卫生实际巨脏的行为",
+      "onboard_time": 1740444380,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1297722,
       "num": 738135,
       "word": "拆迁6套房分配不均引发兄妹矛盾",
@@ -337,14 +345,6 @@
       "onboard_time": 1740283819,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1199886,
-      "num": 1199886,
-      "word": "DeepSeek评以为很卫生实际巨脏的行为",
-      "onboard_time": 1740444380,
-      "rank": 1,
-      "category": "互联网"
     },
     {
       "raw_hot": 1197987,
@@ -843,6 +843,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 739475,
+      "num": 338876,
+      "word": "江西通报初中生在校坠楼身亡",
+      "onboard_time": 1740446719,
+      "rank": 14,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 739037,
       "num": 739037,
       "word": "中方回应泽连斯基希望得到中国帮助",
@@ -1035,6 +1043,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 671484,
+      "num": 671484,
+      "word": "王楚钦7925分世界第二",
+      "onboard_time": 1740442399,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 665714,
       "num": 665714,
       "word": "小行星撞地球概率调整为接近为零",
@@ -1096,14 +1112,6 @@
       "word": "王楚钦发博庆祝夺冠",
       "onboard_time": 1740394219,
       "rank": 12,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 645302,
-      "num": 645302,
-      "word": "王楚钦7925分世界第二",
-      "onboard_time": 1740442399,
-      "rank": 3,
       "category": "体育"
     },
     {
@@ -1267,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 554623,
+      "num": 554623,
+      "word": "辣目洋子演技",
+      "onboard_time": 1740447619,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 549632,
       "num": 256830,
       "word": "28岁未婚未育女生确诊卵巢癌",
@@ -1395,6 +1411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 518233,
+      "num": 518233,
+      "word": "司法坚决保护无过错配偶一方的权益",
+      "onboard_time": 1740444858,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 517485,
       "num": 226952,
       "word": "贵州有分娩记录以来年龄最大产妇",
@@ -1419,8 +1443,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 511086,
-      "num": 511086,
+      "raw_hot": 513584,
+      "num": 513584,
       "word": "张婧仪官摄",
       "onboard_time": 1740444680,
       "rank": 5,
@@ -1473,14 +1497,6 @@
       "onboard_time": 1740390200,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 494311,
-      "num": 494311,
-      "word": "司法坚决保护无过错配偶一方的权益",
-      "onboard_time": 1740444858,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 492059,
@@ -2083,14 +2099,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 338876,
-      "num": 338876,
-      "word": "江西通报初中生在校坠楼身亡",
-      "onboard_time": 1740446719,
-      "rank": 14,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 338353,
       "num": 428827,
       "word": "新加坡一航班因故障返航旅客发声",
@@ -2497,6 +2505,14 @@
       "onboard_time": 1740236004,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 270075,
+      "num": 270075,
+      "word": "Deepseek给气血不足职场女性建议",
+      "onboard_time": 1740445520,
+      "rank": 21,
+      "category": "互联网"
     },
     {
       "raw_hot": 269535,
@@ -2955,14 +2971,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 223779,
-      "num": 223779,
-      "word": "Deepseek给气血不足职场女性建议",
-      "onboard_time": 1740445520,
-      "rank": 21,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 222423,
       "num": 222423,
       "word": "谁给邓为递个武侠本子",
@@ -3147,6 +3155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 211426,
+      "num": 211426,
+      "word": "上海一女子坐地铁躺地上补觉睡10站",
+      "onboard_time": 1740447858,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 211364,
       "num": 211364,
       "word": "52岁女子跳断头舞走红",
@@ -3156,7 +3172,7 @@
     },
     {
       "raw_hot": 211037,
-      "num": 211037,
+      "num": 228888,
       "word": "美股",
       "onboard_time": 1740444739,
       "rank": 23,
@@ -3323,6 +3339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 202787,
+      "num": 202787,
+      "word": "连续跑步35天的面部变化",
+      "onboard_time": 1740409462,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 201903,
       "num": 201903,
       "word": "爱你",
@@ -3345,14 +3369,6 @@
       "onboard_time": 1740368242,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 201203,
-      "num": 201203,
-      "word": "连续跑步35天的面部变化",
-      "onboard_time": 1740409462,
-      "rank": 30,
-      "category": "运动健身"
     },
     {
       "raw_hot": 200833,
@@ -4619,6 +4635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157662,
+      "num": 157662,
+      "word": "虞书欣陈靖可新剧4月初开机",
+      "onboard_time": 1740445339,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157172,
       "num": 369722,
       "word": "蒯曼完全压制",
@@ -4721,14 +4745,6 @@
       "onboard_time": 1740417134,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 151176,
-      "num": 151176,
-      "word": "辣目洋子演技",
-      "onboard_time": 1740447619,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 151155,
@@ -4875,14 +4891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 147036,
-      "num": 147036,
-      "word": "虞书欣陈靖可新剧4月初开机",
-      "onboard_time": 1740445339,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 146859,
       "num": 329546,
       "word": "周翊然赛车vlog电影感",
@@ -4932,7 +4940,7 @@
     },
     {
       "raw_hot": 145504,
-      "num": 145504,
+      "num": 158009,
       "word": "一男子地铁吵架吼对方听不懂上海话",
       "onboard_time": 1740422832,
       "rank": 37,
@@ -4985,6 +4993,14 @@
       "onboard_time": 1740395659,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143453,
+      "num": 333378,
+      "word": "安理会涉乌决议中美俄均投赞成票",
+      "onboard_time": 1740448218,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 143396,
@@ -5105,6 +5121,14 @@
       "onboard_time": 1740379280,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 137232,
+      "num": 137232,
+      "word": "似锦定档3月1日播出",
+      "onboard_time": 1740448759,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 136935,
@@ -5241,6 +5265,14 @@
       "onboard_time": 1740358280,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131682,
+      "num": 131682,
+      "word": "哪吒",
+      "onboard_time": 1740447377,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 131347,
@@ -5427,6 +5459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121903,
+      "num": 121903,
+      "word": "哪吒2票房138亿",
+      "onboard_time": 1740446659,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 121773,
       "num": 121773,
       "word": "黄明昊杨超越双人舞",
@@ -5449,14 +5489,6 @@
       "onboard_time": 1740221240,
       "rank": 37,
       "category": "健康医疗,美食"
-    },
-    {
-      "raw_hot": 119612,
-      "num": 119612,
-      "word": "哪吒",
-      "onboard_time": 1740447377,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 119474,
@@ -5507,6 +5539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 117225,
+      "num": 117225,
+      "word": "留学生为父母养老放弃绿卡回国",
+      "onboard_time": 1740422891,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116981,
       "num": 116981,
       "word": "警方提醒不要随便下载APP",
@@ -5555,14 +5595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 114109,
-      "num": 114109,
-      "word": "哪吒2票房138亿",
-      "onboard_time": 1740446659,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 113880,
       "num": 165935,
       "word": "山东考研",
@@ -5603,12 +5635,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 112993,
+      "num": 222616,
+      "word": "黄铉辰澄清",
+      "onboard_time": 1740448459,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112950,
       "num": 112950,
       "word": "shamon考研",
       "onboard_time": 1740440237,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 112732,
+      "num": 112732,
+      "word": "阿里跌超10%",
+      "onboard_time": 1740443599,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 112273,
@@ -5651,6 +5699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111521,
+      "num": 111521,
+      "word": "权志龙亮片粉西装造型",
+      "onboard_time": 1740444620,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 111484,
       "num": 156912,
       "word": "TES让一追三nip",
@@ -5673,14 +5729,6 @@
       "onboard_time": 1740298699,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 111001,
-      "num": 111001,
-      "word": "留学生为父母养老放弃绿卡回国",
-      "onboard_time": 1740422891,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 110960,
@@ -5763,22 +5811,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 106783,
-      "num": 106783,
-      "word": "阿里跌超10%",
-      "onboard_time": 1740443599,
-      "rank": 46,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 106271,
-      "num": 106271,
-      "word": "权志龙亮片粉西装造型",
-      "onboard_time": 1740444620,
-      "rank": 47,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 106135,
       "num": 106135,
       "word": "林一去了黄明昊演唱会",
@@ -5859,6 +5891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101505,
+      "num": 101505,
+      "word": "张婧仪郑恩彩同框合照",
+      "onboard_time": 1740448818,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 101198,
       "num": 196484,
       "word": "AG水逆",
@@ -5891,12 +5931,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 98972,
-      "num": 98972,
-      "word": "上海一女子坐地铁躺地上补觉睡10站",
-      "onboard_time": 1740447858,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 99243,
+      "num": 99243,
+      "word": "姿态喊话Doinb",
+      "onboard_time": 1740448878,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 98871,
@@ -5953,6 +5993,14 @@
       "onboard_time": 1740417973,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92900,
+      "num": 92900,
+      "word": "去年农民人均可支配收入达23119元",
+      "onboard_time": 1740448759,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 90984,

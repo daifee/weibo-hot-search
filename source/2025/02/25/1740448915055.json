@@ -1,0 +1,410 @@
+{
+  "runTime": 1740448915055,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1477942,
+        "num": 1477942,
+        "word": "大衣哥正采访中突然翻墙走了",
+        "onboard_time": 1740444319,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1325670,
+        "num": 1325670,
+        "word": "DeepSeek评以为很卫生实际巨脏的行为",
+        "onboard_time": 1740444380,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 93858,
+        "num": 809332,
+        "word": "专家解读中央一号文件亮点",
+        "onboard_time": 1740406522,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 671484,
+        "num": 671484,
+        "word": "王楚钦7925分世界第二",
+        "onboard_time": 1740442399,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 554623,
+        "num": 554623,
+        "word": "辣目洋子演技",
+        "onboard_time": 1740447619,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 538850,
+        "num": 538850,
+        "word": "DeepSeek总结我国最值钱十大证书",
+        "onboard_time": 1740444140,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 518233,
+        "num": 518233,
+        "word": "司法坚决保护无过错配偶一方的权益",
+        "onboard_time": 1740444858,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 513584,
+        "num": 513584,
+        "word": "张婧仪官摄",
+        "onboard_time": 1740444680,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 335646,
+        "num": 335646,
+        "word": "林俊杰纽约演唱会发周深荧光棒",
+        "onboard_time": 1740439395,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143453,
+        "num": 333378,
+        "word": "安理会涉乌决议中美俄均投赞成票",
+        "onboard_time": 1740448218,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1779058,
+        "num": 310630,
+        "word": "北京警方抓获一名演员",
+        "onboard_time": 1740444380,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 923145,
+        "num": 307287,
+        "word": "韩安冉怒斥前夫",
+        "onboard_time": 1740441258,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 739475,
+        "num": 291969,
+        "word": "江西通报初中生在校坠楼身亡",
+        "onboard_time": 1740446719,
+        "rank": 12,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 339598,
+        "num": 275527,
+        "word": "教授公开聊天记录指责学生娇生惯养",
+        "onboard_time": 1740403520,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272618,
+        "num": 272618,
+        "word": "高校聘博士初中学历配偶属劳务派遣",
+        "onboard_time": 1740415936,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270075,
+        "num": 270075,
+        "word": "Deepseek给气血不足职场女性建议",
+        "onboard_time": 1740445520,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 246773,
+        "num": 246773,
+        "word": "李威涉嫌伤害致死",
+        "onboard_time": 1740401241,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135263,
+        "num": 228888,
+        "word": "美股",
+        "onboard_time": 1740444739,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 227454,
+        "num": 227454,
+        "word": "联合国安理会通过美涉乌决议",
+        "onboard_time": 1740438194,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112993,
+        "num": 222616,
+        "word": "黄铉辰澄清",
+        "onboard_time": 1740448459,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 465254,
+        "num": 222519,
+        "word": "贵州有分娩记录以来年龄最大产妇",
+        "onboard_time": 1740441979,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221693,
+        "num": 221693,
+        "word": "每天8杯水到底是多大的杯子",
+        "onboard_time": 1740401660,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 211426,
+        "num": 211426,
+        "word": "上海一女子坐地铁躺地上补觉睡10站",
+        "onboard_time": 1740447858,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202787,
+        "num": 202787,
+        "word": "连续跑步35天的面部变化",
+        "onboard_time": 1740409462,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 201822,
+        "num": 201822,
+        "word": "哪吒票房",
+        "onboard_time": 1740410721,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188655,
+        "num": 188655,
+        "word": "8万人围观1个人洗碗有啥魔力",
+        "onboard_time": 1740445520,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188020,
+        "num": 188020,
+        "word": "李威已被保释",
+        "onboard_time": 1740408143,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183106,
+        "num": 183106,
+        "word": "网友怒斥遇一男团插队登机",
+        "onboard_time": 1740407662,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144322,
+        "num": 160246,
+        "word": "4岁女童每天饮料甜食不断确诊糖尿病",
+        "onboard_time": 1740425772,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137913,
+        "num": 158009,
+        "word": "一男子地铁吵架吼对方听不懂上海话",
+        "onboard_time": 1740422832,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157662,
+        "num": 157662,
+        "word": "虞书欣陈靖可新剧4月初开机",
+        "onboard_time": 1740445339,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156784,
+        "num": 156784,
+        "word": "千金归来",
+        "onboard_time": 1740410899,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148880,
+        "num": 148880,
+        "word": "丁程鑫 严严",
+        "onboard_time": 1740438314,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142017,
+        "num": 142017,
+        "word": "苹果宣布超5000亿美元投资计划",
+        "onboard_time": 1740446480,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 137232,
+        "num": 137232,
+        "word": "似锦定档3月1日播出",
+        "onboard_time": 1740448759,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135041,
+        "num": 135041,
+        "word": "长期熬夜晚睡消耗气血",
+        "onboard_time": 1740412938,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131682,
+        "num": 131682,
+        "word": "哪吒",
+        "onboard_time": 1740447377,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122924,
+        "num": 122924,
+        "word": "专家建议提高个税免征额至6000元",
+        "onboard_time": 1740446298,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121903,
+        "num": 121903,
+        "word": "哪吒2票房138亿",
+        "onboard_time": 1740446659,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117225,
+        "num": 117225,
+        "word": "留学生为父母养老放弃绿卡回国",
+        "onboard_time": 1740422891,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112732,
+        "num": 112732,
+        "word": "阿里跌超10%",
+        "onboard_time": 1740443599,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 111521,
+        "num": 111521,
+        "word": "权志龙亮片粉西装造型",
+        "onboard_time": 1740444620,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 103570,
+        "num": 103570,
+        "word": "shamon考研",
+        "onboard_time": 1740440237,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 103477,
+        "num": 103477,
+        "word": "六姊妹大结局",
+        "onboard_time": 1740404062,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101505,
+        "num": 101505,
+        "word": "张婧仪郑恩彩同框合照",
+        "onboard_time": 1740448818,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 100029,
+        "num": 100029,
+        "word": "吉祥航空被曝给乘客发过期坚果",
+        "onboard_time": 1740410899,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99243,
+        "num": 99243,
+        "word": "姿态喊话Doinb",
+        "onboard_time": 1740448878,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98534,
+        "num": 98534,
+        "word": "安理会乌克兰问题会议投了7轮票",
+        "onboard_time": 1740444319,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96365,
+        "num": 96365,
+        "word": "特朗普迟到让波兰总统干等1.5小时",
+        "onboard_time": 1740405322,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 92900,
+        "num": 92900,
+        "word": "去年农民人均可支配收入达23119元",
+        "onboard_time": 1740448759,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同普京通电话#"
+    }
+  }
+}
