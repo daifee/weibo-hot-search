@@ -1,6 +1,6 @@
 {
   "startTime": 1740500996613,
-  "endTime": 1740522117954,
+  "endTime": 1740523187142,
   "band_list": [
     {
       "raw_hot": 1334843,
@@ -115,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 285899,
+      "num": 285899,
+      "word": "老人去世130万分堂弟1套房收归国有",
+      "onboard_time": 1740506892,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 270261,
       "num": 270261,
       "word": "白敬亭章若楠发合照了",
@@ -187,12 +195,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 185530,
-      "num": 185530,
-      "word": "老人去世130万分堂弟1套房收归国有",
-      "onboard_time": 1740506892,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 196056,
+      "num": 196056,
+      "word": "四六级",
+      "onboard_time": 1740522613,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 177119,
@@ -436,7 +444,7 @@
     },
     {
       "raw_hot": 49312,
-      "num": 41312,
+      "num": 41374,
       "word": "春风十里不如你",
       "onboard_time": 1740505814,
       "rank": 23,
@@ -451,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 42354,
+      "num": 42354,
+      "word": "虞书欣给张凌赫宣传爱你",
+      "onboard_time": 1740514991,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 40589,
       "num": 40589,
       "word": "DeepSeek",
@@ -459,12 +475,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 33674,
-      "num": 33674,
-      "word": "虞书欣给张凌赫宣传爱你",
-      "onboard_time": 1740514991,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 36524,
+      "num": 39055,
+      "word": "谢霆锋喂外甥女吃饭",
+      "onboard_time": 1740518651,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 32478,
@@ -496,14 +512,6 @@
       "word": "杨幂谈胳膊钙化",
       "onboard_time": 1740477324,
       "rank": 48,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 29543,
-      "num": 26738,
-      "word": "谢霆锋喂外甥女吃饭",
-      "onboard_time": 1740518651,
-      "rank": 49,
       "category": "艺人"
     },
     {
@@ -555,12 +563,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 22905,
+      "num": 39042,
+      "word": "中方敦促加方立即撤销错误决定",
+      "onboard_time": 1740522253,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 22443,
       "num": 22443,
       "word": "刘宇宁直播",
       "onboard_time": 1740508750,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 21876,
+      "num": 54190,
+      "word": "看你投手榴弹我大气都不敢喘",
+      "onboard_time": 1740521051,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20207,
@@ -611,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 15946,
+      "num": 106006,
+      "word": "老外成了我的互联网嘴替",
+      "onboard_time": 1740522312,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15443,
       "num": 25962,
       "word": "外交部回应特朗普欲加大限制中国芯片",
@@ -625,14 +657,6 @@
       "onboard_time": 1740513431,
       "rank": 15,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 12365,
-      "num": 54190,
-      "word": "看你投手榴弹我大气都不敢喘",
-      "onboard_time": 1740521051,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11190,
