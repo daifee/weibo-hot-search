@@ -1,6 +1,6 @@
 {
   "startTime": 1740500996613,
-  "endTime": 1740505250798,
+  "endTime": 1740508324223,
   "band_list": [
     {
       "raw_hot": 1334843,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 239772,
-      "num": 164859,
+      "num": 165296,
       "word": "偷偷藏着哄",
       "onboard_time": 1740502337,
       "rank": 7,
@@ -419,12 +419,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 46783,
+      "raw_hot": 47333,
       "num": 126573,
       "word": "中方回应加拿大制裁20余家中国实体",
       "onboard_time": 1740504254,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 41098,
+      "num": 41098,
+      "word": "春风十里不如你",
+      "onboard_time": 1740505814,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 40589,
+      "num": 40589,
+      "word": "DeepSeek",
+      "onboard_time": 1740507072,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 35255,
+      "num": 35255,
+      "word": "爱你 好看",
+      "onboard_time": 1740507673,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 30971,
@@ -451,6 +475,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 29439,
+      "num": 29439,
+      "word": "拔河关键时刻老师大喊一句免作业了",
+      "onboard_time": 1740505453,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25971,
+      "num": 40640,
+      "word": "无遗嘱无法定继承人的遗产该归谁",
+      "onboard_time": 1740506652,
+      "rank": 24,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 25848,
       "num": 50713,
       "word": "潘宏关联企业已被重点审查",
@@ -459,17 +499,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25214,
+      "num": 46699,
+      "word": "刘宇宁2025努力多播多见",
+      "onboard_time": 1740506831,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 23855,
+      "num": 23855,
+      "word": "苏新皓盒子里的猫综艺感",
+      "onboard_time": 1740507913,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 19129,
       "num": 167057,
       "word": "鹤秋被贴脸红房子听诊器之吻",
       "onboard_time": 1740501495,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 15652,
+      "num": 36171,
+      "word": "老人去世130万分堂弟1套房收归国有",
+      "onboard_time": 1740506892,
+      "rank": 31,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#更好发挥县城连接城市带动乡村作用#"
+    },
+    {
+      "word": "#习近平为基层减负的故事#"
     }
   ]
 }
