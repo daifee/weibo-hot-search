@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740452746346,
+  "endTime": 1740454199961,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -123,6 +123,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 2114020,
+      "num": 2114020,
+      "word": "俄方开停战条件",
+      "onboard_time": 1740448998,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1962897,
       "num": 1962897,
       "word": "姚晨闷声干大事",
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 1913803,
-      "num": 405533,
+      "num": 495839,
       "word": "北京警方抓获一名演员",
       "onboard_time": 1740444380,
       "rank": 10,
@@ -153,14 +161,6 @@
       "onboard_time": 1740367882,
       "rank": 15,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1895725,
-      "num": 1895725,
-      "word": "俄方开停战条件",
-      "onboard_time": 1740448998,
-      "rank": 0,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1837643,
@@ -572,7 +572,7 @@
     },
     {
       "raw_hot": 985995,
-      "num": 405172,
+      "num": 432304,
       "word": "韩安冉怒斥前夫",
       "onboard_time": 1740441258,
       "rank": 11,
@@ -715,6 +715,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 866205,
+      "num": 272717,
+      "word": "怀孕21周时胎儿小脚丫掉了出来",
+      "onboard_time": 1740451758,
+      "rank": 25,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 855289,
       "num": 389831,
       "word": "她一个月干了我一辈子的工作",
@@ -745,6 +753,14 @@
       "onboard_time": 1740310578,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 810306,
+      "num": 810306,
+      "word": "理想i8",
+      "onboard_time": 1740451998,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 808487,
@@ -1035,6 +1051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 690541,
+      "num": 690541,
+      "word": "男主用命换女主再活一次",
+      "onboard_time": 1740451279,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 689739,
       "num": 638031,
       "word": "上海土拨鼠",
@@ -1204,7 +1228,7 @@
     },
     {
       "raw_hot": 621462,
-      "num": 383750,
+      "num": 401047,
       "word": "上海一女子坐地铁躺地上补觉睡10站",
       "onboard_time": 1740447858,
       "rank": 48,
@@ -1217,6 +1241,14 @@
       "onboard_time": 1740376159,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 611741,
+      "num": 611741,
+      "word": "杨紫置顶自己",
+      "onboard_time": 1740452899,
+      "rank": 7,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 603466,
@@ -1305,14 +1337,6 @@
       "onboard_time": 1740444140,
       "rank": 4,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 556499,
-      "num": 196042,
-      "word": "怀孕21周时胎儿小脚丫掉了出来",
-      "onboard_time": 1740451758,
-      "rank": 25,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 556008,
@@ -1468,7 +1492,7 @@
     },
     {
       "raw_hot": 517485,
-      "num": 226952,
+      "num": 246521,
       "word": "贵州有分娩记录以来年龄最大产妇",
       "onboard_time": 1740441979,
       "rank": 20,
@@ -1524,7 +1548,7 @@
     },
     {
       "raw_hot": 502408,
-      "num": 502408,
+      "num": 587831,
       "word": "韩国一高速桥梁倒塌致3死5伤",
       "onboard_time": 1740449299,
       "rank": 5,
@@ -1609,14 +1633,6 @@
       "onboard_time": 1740315140,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 468728,
-      "num": 468728,
-      "word": "男主用命换女主再活一次",
-      "onboard_time": 1740451279,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 464805,
@@ -1785,14 +1801,6 @@
       "onboard_time": 1740439395,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 402400,
-      "num": 402400,
-      "word": "理想i8",
-      "onboard_time": 1740451998,
-      "rank": 35,
-      "category": "汽车"
     },
     {
       "raw_hot": 401235,
@@ -2419,6 +2427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 292650,
+      "num": 242992,
+      "word": "权志龙点赞水原希子韩服照",
+      "onboard_time": 1740453801,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 292498,
       "num": 356269,
       "word": "哪吒2票房137亿",
@@ -2563,6 +2579,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 275597,
+      "num": 389230,
+      "word": "宝安机场回应男团插队登机",
+      "onboard_time": 1740451100,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275532,
       "num": 563402,
       "word": "22个超大特大城市重排座次",
@@ -2587,14 +2611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 271835,
-      "num": 389230,
-      "word": "宝安机场回应男团插队登机",
-      "onboard_time": 1740451100,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 271724,
       "num": 271724,
       "word": "A怎么会没发现b喜欢c的秘密呢",
@@ -2609,6 +2625,14 @@
       "onboard_time": 1740229222,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 268636,
+      "num": 268636,
+      "word": "张婧仪G社镜头",
+      "onboard_time": 1740453741,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 267861,
@@ -2657,6 +2681,14 @@
       "onboard_time": 1740407303,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 265429,
+      "num": 265429,
+      "word": "张凌赫人缘",
+      "onboard_time": 1740453321,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 263320,
@@ -2713,6 +2745,14 @@
       "onboard_time": 1740306979,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 254043,
+      "num": 295952,
+      "word": "3岁女儿让妈妈人多的时候向着自己",
+      "onboard_time": 1740452899,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 253759,
@@ -2817,6 +2857,14 @@
       "onboard_time": 1740313102,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 242335,
+      "num": 242335,
+      "word": "俄方愿同美国开展稀土合作",
+      "onboard_time": 1740449178,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 240853,
@@ -3187,6 +3235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 216099,
+      "num": 216099,
+      "word": "少女遭欺凌为求解脱被骗沾染毒品",
+      "onboard_time": 1740450017,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 216089,
       "num": 216089,
       "word": "汤唯张婧仪米卡G社生图",
@@ -3265,6 +3321,14 @@
       "onboard_time": 1740375142,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 211313,
+      "num": 211313,
+      "word": "景甜新剧第二世创飞所有人",
+      "onboard_time": 1740453081,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 211037,
@@ -3747,6 +3811,14 @@
       "category": "汽车,电影"
     },
     {
+      "raw_hot": 191670,
+      "num": 191670,
+      "word": "李威",
+      "onboard_time": 1740453018,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191665,
       "num": 274099,
       "word": "卡梅隆称阿凡达3为三部中最佳",
@@ -3955,14 +4027,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 184790,
-      "num": 184790,
-      "word": "少女遭欺凌为求解脱被骗沾染毒品",
-      "onboard_time": 1740450017,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 184641,
       "num": 211704,
       "word": "闺蜜走后我活成了她的样子",
@@ -4121,6 +4185,14 @@
       "onboard_time": 1740370641,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177425,
+      "num": 260058,
+      "word": "王楚钦偷师邱贻可青蛙跳",
+      "onboard_time": 1740453199,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 177355,
@@ -4297,6 +4369,14 @@
       "onboard_time": 1740304640,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171117,
+      "num": 171117,
+      "word": "旅行青蛙",
+      "onboard_time": 1740454101,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 171058,
@@ -4899,6 +4979,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 150798,
+      "num": 215198,
+      "word": "俄方要求乌军投降不再加入北约",
+      "onboard_time": 1740451459,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 150465,
       "num": 164306,
       "word": "肖战再出发米兰时装周",
@@ -4953,6 +5041,14 @@
       "onboard_time": 1740375502,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148939,
+      "num": 255554,
+      "word": "小伙裸眼铅笔芯上复刻哪吒",
+      "onboard_time": 1740452721,
+      "rank": 38,
+      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 148786,
@@ -5041,6 +5137,14 @@
       "onboard_time": 1740322463,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146755,
+      "num": 146755,
+      "word": "理想公布首款纯电SUV",
+      "onboard_time": 1740452721,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 146154,
@@ -5331,20 +5435,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 135128,
-      "num": 172447,
-      "word": "俄方愿同美国开展稀土合作",
-      "onboard_time": 1740449178,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 134839,
       "num": 134839,
       "word": "王一博起诉多家公司侵权",
       "onboard_time": 1740389299,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134667,
+      "num": 134667,
+      "word": "湖南师大回应教授指责学生娇生惯养",
+      "onboard_time": 1740451998,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133621,
@@ -5491,14 +5595,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 127612,
-      "num": 127612,
-      "word": "小伙裸眼铅笔芯上复刻哪吒",
-      "onboard_time": 1740452721,
-      "rank": 38,
-      "category": "民生新闻,电影"
-    },
-    {
       "raw_hot": 127248,
       "num": 127248,
       "word": "安理会乌克兰问题会议投了7轮票",
@@ -5579,14 +5675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123493,
-      "num": 123493,
-      "word": "湖南师大回应教授指责学生娇生惯养",
-      "onboard_time": 1740451998,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 123111,
       "num": 123111,
       "word": "贾浅浅已博士毕业",
@@ -5609,14 +5697,6 @@
       "onboard_time": 1740378741,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 122184,
-      "num": 215198,
-      "word": "俄方要求乌军投降不再加入北约",
-      "onboard_time": 1740451459,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 121912,
@@ -5649,6 +5729,14 @@
       "onboard_time": 1740323482,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 121359,
+      "num": 137632,
+      "word": "王楚钦有点真诚又浪漫",
+      "onboard_time": 1740452780,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 120100,
@@ -5835,14 +5923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112262,
-      "num": 112262,
-      "word": "理想公布首款纯电SUV",
-      "onboard_time": 1740452721,
-      "rank": 47,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 112229,
       "num": 112229,
       "word": "胡兵戴自己设计的珍珠挂饰",
@@ -5907,12 +5987,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111004,
+      "num": 563241,
+      "word": "普京称俄罗斯稀土储量多于乌克兰",
+      "onboard_time": 1740453801,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 110960,
       "num": 110960,
       "word": "这个反常行为引起朝阳群众警觉",
       "onboard_time": 1740431710,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110400,
+      "num": 135479,
+      "word": "万吨大驱开炮瞬间大片感拉满",
+      "onboard_time": 1740453860,
+      "rank": 48,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 110358,
+      "num": 265556,
+      "word": "汤唯全圆佑同框合照",
+      "onboard_time": 1740453559,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 110330,
@@ -6321,6 +6425,14 @@
       "onboard_time": 1740308959,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 82268,
+      "num": 412681,
+      "word": "患者查DeepSeek后质疑医生治疗方案",
+      "onboard_time": 1740452899,
+      "rank": 14,
+      "category": "健康医疗,互联网"
     },
     {
       "raw_hot": 81807,
@@ -7057,6 +7169,22 @@
       "onboard_time": 1740308899,
       "rank": 14,
       "category": "动漫,财经"
+    },
+    {
+      "raw_hot": 38497,
+      "num": 252929,
+      "word": "特朗普称泽连斯基将赴美签矿产协议",
+      "onboard_time": 1740453018,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 37839,
+      "num": 194601,
+      "word": "网红罗大美妹妹称罪犯求生欲望很强",
+      "onboard_time": 1740452838,
+      "rank": 35,
+      "category": "网红"
     },
     {
       "raw_hot": 36877,
