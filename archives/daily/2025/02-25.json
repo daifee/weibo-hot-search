@@ -1,6 +1,6 @@
 {
   "startTime": 1740414610412,
-  "endTime": 1740461967164,
+  "endTime": 1740465134719,
   "band_list": [
     {
       "raw_hot": 2114020,
@@ -219,11 +219,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 679133,
+      "num": 372697,
+      "word": "陈妍希1月份还戴着婚戒",
+      "onboard_time": 1740461481,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 671484,
       "num": 671484,
       "word": "王楚钦7925分世界第二",
       "onboard_time": 1740442399,
       "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 634441,
+      "num": 634441,
+      "word": "许昕说乒坛最恐怖的运动员是张怡宁",
+      "onboard_time": 1740461720,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -235,12 +251,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 613715,
+      "num": 613715,
+      "word": "手机NFC功能碰一下钱就没了系摆拍",
+      "onboard_time": 1740460100,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 611741,
       "num": 611741,
       "word": "杨紫置顶自己",
       "onboard_time": 1740452899,
       "rank": 7,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 599533,
+      "num": 359922,
+      "word": "校方回应猫咪尸体被塞进学生课桌",
+      "onboard_time": 1740461360,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 593312,
@@ -331,6 +363,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 433540,
+      "num": 433540,
+      "word": "孙丞潇自曝焦虑到要吃药",
+      "onboard_time": 1740461900,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 432370,
       "num": 432370,
       "word": "马克龙拉住特朗普打断他抱怨",
@@ -371,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 389063,
+      "num": 389063,
+      "word": "手机锁定状态无法进行碰一下支付",
+      "onboard_time": 1740461000,
+      "rank": 14,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 370169,
       "num": 221126,
       "word": "哪吒票房",
@@ -385,6 +433,14 @@
       "onboard_time": 1740405322,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 355237,
+      "num": 274371,
+      "word": "流浪猫尸首分离被塞进学生课桌",
+      "onboard_time": 1740459144,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 354174,
@@ -403,12 +459,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 340220,
-      "num": 218527,
-      "word": "流浪猫尸首分离被塞进学生课桌",
-      "onboard_time": 1740459144,
-      "rank": 24,
-      "category": "民生新闻"
+      "raw_hot": 345657,
+      "num": 255697,
+      "word": "权志龙柳智敏双人舞",
+      "onboard_time": 1740464238,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 331839,
@@ -443,6 +499,14 @@
       "category": "健康医疗,互联网"
     },
     {
+      "raw_hot": 296504,
+      "num": 230771,
+      "word": "难哄 单更",
+      "onboard_time": 1740461781,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 288657,
       "num": 230590,
       "word": "虞书欣包场支持爱你",
@@ -465,22 +529,6 @@
       "onboard_time": 1740458302,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 279668,
-      "num": 279668,
-      "word": "手机锁定状态无法进行碰一下支付",
-      "onboard_time": 1740461000,
-      "rank": 14,
-      "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 276528,
-      "num": 439593,
-      "word": "手机NFC功能碰一下钱就没了系摆拍",
-      "onboard_time": 1740460100,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 275597,
@@ -555,14 +603,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 252765,
-      "num": 200438,
-      "word": "陈妍希1月份还戴着婚戒",
-      "onboard_time": 1740461481,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 246815,
       "num": 214679,
       "word": "放羊的星星",
@@ -601,6 +641,14 @@
       "onboard_time": 1740460462,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225242,
+      "num": 225242,
+      "word": "金价",
+      "onboard_time": 1740464359,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 223728,
@@ -819,6 +867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188345,
+      "num": 188345,
+      "word": "肖战氛围大片幕后现场",
+      "onboard_time": 1740464719,
+      "rank": 31,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 188085,
       "num": 188085,
       "word": "哪吒2票房138亿",
@@ -923,6 +979,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 166299,
+      "num": 188919,
+      "word": "张凌赫又给金靖把脉了",
+      "onboard_time": 1740463638,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165823,
       "num": 165823,
       "word": "祁煜全球热恋",
@@ -963,14 +1027,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 158143,
-      "num": 158143,
-      "word": "难哄 单更",
-      "onboard_time": 1740461781,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 157662,
       "num": 157662,
       "word": "虞书欣陈靖可新剧4月初开机",
@@ -1003,12 +1059,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 155442,
-      "num": 155442,
-      "word": "许昕说乒坛最恐怖的运动员是张怡宁",
-      "onboard_time": 1740461720,
-      "rank": 43,
-      "category": "体育"
+      "raw_hot": 155128,
+      "num": 155128,
+      "word": "理想汽车高管疑似暗讽华为",
+      "onboard_time": 1740462080,
+      "rank": 36,
+      "category": "汽车"
     },
     {
       "raw_hot": 154571,
@@ -1017,14 +1073,6 @@
       "onboard_time": 1740458124,
       "rank": 23,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 152991,
-      "num": 152991,
-      "word": "校方回应猫咪尸体被塞进学生课桌",
-      "onboard_time": 1740461360,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 151982,
@@ -1067,6 +1115,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149796,
+      "num": 149796,
+      "word": "这次桐华给了相柳没有遗憾的人生",
+      "onboard_time": 1740461961,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 148461,
+      "num": 148461,
+      "word": "复旦大学通报博士后抄袭硕士论文",
+      "onboard_time": 1740464598,
+      "rank": 39,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 146755,
       "num": 146755,
       "word": "理想公布首款纯电SUV",
@@ -1091,12 +1155,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 145056,
-      "num": 145056,
-      "word": "孙丞潇自曝焦虑到要吃药",
-      "onboard_time": 1740461900,
-      "rank": 47,
-      "category": "综艺"
+      "raw_hot": 139407,
+      "num": 139407,
+      "word": "拉粪三轮车逆行泼小车一车",
+      "onboard_time": 1740462379,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138527,
+      "num": 138527,
+      "word": "我想追桑延",
+      "onboard_time": 1740463040,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 137232,
@@ -1171,6 +1243,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 124285,
+      "num": 384758,
+      "word": "捐赠日军侵华照片法国小伙回应质疑",
+      "onboard_time": 1740463638,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123111,
       "num": 123111,
       "word": "贾浅浅已博士毕业",
@@ -1195,6 +1275,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 119360,
+      "num": 378617,
+      "word": "韩国消防称2名中国工人遇难",
+      "onboard_time": 1740464661,
+      "rank": 10,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 118030,
       "num": 217885,
       "word": "哪吒要不你还是骂我是妖怪吧",
@@ -1217,6 +1305,14 @@
       "onboard_time": 1740384441,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 115129,
+      "num": 292305,
+      "word": "网友称教授让学生发生活照方便认识",
+      "onboard_time": 1740463521,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113657,
@@ -1259,6 +1355,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 112173,
+      "num": 112173,
+      "word": "李诚儒给刘胤君下跪表演",
+      "onboard_time": 1740464898,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111521,
       "num": 111521,
       "word": "权志龙亮片粉西装造型",
@@ -1281,6 +1385,14 @@
       "onboard_time": 1740431710,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110860,
+      "num": 110860,
+      "word": "她抱着必死的决心走向了结局",
+      "onboard_time": 1740465080,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 110654,
@@ -1603,12 +1715,28 @@
       "category": "舆论监督,健康医疗"
     },
     {
+      "raw_hot": 51657,
+      "num": 368406,
+      "word": "张婧仪美得好权威",
+      "onboard_time": 1740461961,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 45894,
       "num": 45894,
       "word": "曝特斯拉准备在华部署FSD",
       "onboard_time": 1740436573,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 44713,
+      "num": 250166,
+      "word": "割眼袋差点背上年化28%高利贷",
+      "onboard_time": 1740463221,
+      "rank": 23,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 41120,
@@ -1633,6 +1761,14 @@
       "onboard_time": 1740411081,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 34549,
+      "num": 244902,
+      "word": "金价涨到2952美元",
+      "onboard_time": 1740458842,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 30051,
@@ -1744,6 +1880,14 @@
       "word": "接考研国家线降分",
       "onboard_time": 1740411499,
       "rank": 31,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 10496,
+      "num": 190208,
+      "word": "考研和工作如何平衡",
+      "onboard_time": 1740464898,
+      "rank": 28,
       "category": "教育"
     },
     {

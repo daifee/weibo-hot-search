@@ -1,0 +1,410 @@
+{
+  "runTime": 1740465134719,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 950390,
+        "num": 1152062,
+        "word": "权志龙唱中文",
+        "onboard_time": 1740460462,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 798080,
+        "num": 798080,
+        "word": "俄方开停战条件",
+        "onboard_time": 1740448998,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 42671,
+        "num": 682374,
+        "word": "祖国大地春耕色块明艳动人",
+        "onboard_time": 1740456981,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 634441,
+        "num": 634441,
+        "word": "许昕说乒坛最恐怖的运动员是张怡宁",
+        "onboard_time": 1740461720,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 613715,
+        "num": 613715,
+        "word": "手机NFC功能碰一下钱就没了系摆拍",
+        "onboard_time": 1740460100,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 433540,
+        "num": 433540,
+        "word": "孙丞潇自曝焦虑到要吃药",
+        "onboard_time": 1740461900,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 433538,
+        "num": 433538,
+        "word": "李威教唆犯罪录音疑曝光",
+        "onboard_time": 1740454339,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 411722,
+        "num": 411722,
+        "word": "金靖 昨天何医生又给我把脉了",
+        "onboard_time": 1740456141,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 389063,
+        "num": 389063,
+        "word": "手机锁定状态无法进行碰一下支付",
+        "onboard_time": 1740461000,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 124285,
+        "num": 384758,
+        "word": "捐赠日军侵华照片法国小伙回应质疑",
+        "onboard_time": 1740463638,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119360,
+        "num": 378617,
+        "word": "韩国消防称2名中国工人遇难",
+        "onboard_time": 1740464661,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 679133,
+        "num": 372697,
+        "word": "陈妍希1月份还戴着婚戒",
+        "onboard_time": 1740461481,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51657,
+        "num": 368406,
+        "word": "张婧仪美得好权威",
+        "onboard_time": 1740461961,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 361794,
+        "num": 361794,
+        "word": "老人再就业简历含金量有多高",
+        "onboard_time": 1740455661,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 599533,
+        "num": 359922,
+        "word": "校方回应猫咪尸体被塞进学生课桌",
+        "onboard_time": 1740461360,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380647,
+        "num": 359745,
+        "word": "白敬亭被网友截图气笑了",
+        "onboard_time": 1740454942,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 357438,
+        "num": 357438,
+        "word": "这居然是钟丽丽",
+        "onboard_time": 1740459202,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346739,
+        "num": 346739,
+        "word": "迪丽热巴开推3粉色芭比造型",
+        "onboard_time": 1740459322,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295513,
+        "num": 295513,
+        "word": "马航MH370新一轮搜索重启",
+        "onboard_time": 1740454280,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 115129,
+        "num": 292305,
+        "word": "网友称教授让学生发生活照方便认识",
+        "onboard_time": 1740463521,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 519220,
+        "num": 277826,
+        "word": "怀孕21周时胎儿小脚丫掉了出来",
+        "onboard_time": 1740451758,
+        "rank": 20,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 355237,
+        "num": 274371,
+        "word": "流浪猫尸首分离被塞进学生课桌",
+        "onboard_time": 1740459144,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345657,
+        "num": 255697,
+        "word": "权志龙柳智敏双人舞",
+        "onboard_time": 1740464238,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 44713,
+        "num": 250166,
+        "word": "割眼袋差点背上年化28%高利贷",
+        "onboard_time": 1740463221,
+        "rank": 23,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 34549,
+        "num": 244902,
+        "word": "金价涨到2952美元",
+        "onboard_time": 1740458842,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 296504,
+        "num": 230771,
+        "word": "难哄 单更",
+        "onboard_time": 1740461781,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225242,
+        "num": 225242,
+        "word": "金价",
+        "onboard_time": 1740464359,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 211169,
+        "num": 211169,
+        "word": "北京警方抓获一名演员",
+        "onboard_time": 1740444380,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10496,
+        "num": 190208,
+        "word": "考研和工作如何平衡",
+        "onboard_time": 1740464898,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 166299,
+        "num": 188919,
+        "word": "张凌赫又给金靖把脉了",
+        "onboard_time": 1740463638,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221148,
+        "num": 188773,
+        "word": "DeepSeek评以为很卫生实际巨脏的行为",
+        "onboard_time": 1740444380,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 188345,
+        "num": 188345,
+        "word": "肖战氛围大片幕后现场",
+        "onboard_time": 1740464719,
+        "rank": 31,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 180714,
+        "num": 180714,
+        "word": "南京将步入双机场时代",
+        "onboard_time": 1740459202,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176270,
+        "num": 176270,
+        "word": "大衣哥正采访中突然翻墙走了",
+        "onboard_time": 1740444319,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171055,
+        "num": 171055,
+        "word": "旅行青蛙",
+        "onboard_time": 1740454101,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164670,
+        "num": 164670,
+        "word": "未来五年将有2万座加油站消失",
+        "onboard_time": 1740455000,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 155128,
+        "num": 155128,
+        "word": "理想汽车高管疑似暗讽华为",
+        "onboard_time": 1740462080,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 152307,
+        "num": 152307,
+        "word": "理想i8",
+        "onboard_time": 1740451998,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 149796,
+        "num": 149796,
+        "word": "这次桐华给了相柳没有遗憾的人生",
+        "onboard_time": 1740461961,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148461,
+        "num": 148461,
+        "word": "复旦大学通报博士后抄袭硕士论文",
+        "onboard_time": 1740464598,
+        "rank": 39,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 140698,
+        "num": 140698,
+        "word": "放羊的星星",
+        "onboard_time": 1740457823,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139765,
+        "num": 139765,
+        "word": "张婧仪 好完美的一颗头",
+        "onboard_time": 1740454280,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 139407,
+        "num": 139407,
+        "word": "拉粪三轮车逆行泼小车一车",
+        "onboard_time": 1740462379,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138527,
+        "num": 138527,
+        "word": "我想追桑延",
+        "onboard_time": 1740463040,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135267,
+        "num": 135267,
+        "word": "2025第一部双强重生爽剧",
+        "onboard_time": 1740460940,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124676,
+        "num": 124676,
+        "word": "SM新女团IAN疑似陷入霸凌争议",
+        "onboard_time": 1740454642,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112173,
+        "num": 112173,
+        "word": "李诚儒给刘胤君下跪表演",
+        "onboard_time": 1740464898,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110960,
+        "num": 110960,
+        "word": "李威已被保释",
+        "onboard_time": 1740408143,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110860,
+        "num": 110860,
+        "word": "她抱着必死的决心走向了结局",
+        "onboard_time": 1740465080,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108536,
+        "num": 108536,
+        "word": "迅猛龙分享考研",
+        "onboard_time": 1740456081,
+        "rank": 49,
+        "category": "网红,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄是搬不走的好邻居#"
+    }
+  }
+}
