@@ -1,0 +1,410 @@
+{
+  "runTime": 1740480153274,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2824946,
+        "num": 2824946,
+        "word": "南师大",
+        "onboard_time": 1740468321,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1571970,
+        "num": 1571970,
+        "word": "鹿晗关晓彤名下并无商业关联",
+        "onboard_time": 1740475220,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26579,
+        "num": 841342,
+        "word": "祖国大地春耕色块明艳动人",
+        "onboard_time": 1740456981,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1801628,
+        "num": 820627,
+        "word": "南京师范大学宋某某被免职",
+        "onboard_time": 1740477561,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 793102,
+        "num": 793102,
+        "word": "湖南师范大学",
+        "onboard_time": 1740477079,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 779703,
+        "num": 779703,
+        "word": "演员李威可能面临无期徒刑或死刑",
+        "onboard_time": 1740477200,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 635173,
+        "num": 635173,
+        "word": "何炅这么多年了还是没放过鬼鬼",
+        "onboard_time": 1740473181,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 588194,
+        "num": 588194,
+        "word": "杨幂谈胳膊钙化",
+        "onboard_time": 1740477324,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399793,
+        "num": 584872,
+        "word": "独身女子病逝房产收归国家",
+        "onboard_time": 1740470062,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 401804,
+        "num": 569450,
+        "word": "南京师范大学发布情况通报",
+        "onboard_time": 1740478820,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1359052,
+        "num": 544251,
+        "word": "男子举报南师大博士女友出轨导师",
+        "onboard_time": 1740475041,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2946157,
+        "num": 519337,
+        "word": "关晓彤回应近日状态",
+        "onboard_time": 1740477561,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 692119,
+        "num": 507085,
+        "word": "丈夫将刚出生女儿送人谎称没气息",
+        "onboard_time": 1740476661,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 495491,
+        "num": 495491,
+        "word": "艺考女生136斤减到87斤",
+        "onboard_time": 1740465739,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 450404,
+        "num": 450404,
+        "word": "虞书欣偶遇一位好像羽公子的何医生",
+        "onboard_time": 1740475461,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 380270,
+        "num": 380270,
+        "word": "王祖贤开艾灸馆",
+        "onboard_time": 1740476360,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357341,
+        "num": 357341,
+        "word": "金价",
+        "onboard_time": 1740464359,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 332977,
+        "num": 332977,
+        "word": "暂停宋某某一切工作",
+        "onboard_time": 1740479183,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228578,
+        "num": 323963,
+        "word": "王子奇同意过生日",
+        "onboard_time": 1740478882,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51169,
+        "num": 309162,
+        "word": "千万投资农田被指为应付检查作假",
+        "onboard_time": 1740478401,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 872461,
+        "num": 301102,
+        "word": "鹿晗工作室告黑声明",
+        "onboard_time": 1740469400,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381321,
+        "num": 286945,
+        "word": "怀孕21周时胎儿小脚丫掉了出来",
+        "onboard_time": 1740451758,
+        "rank": 21,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 283022,
+        "num": 283022,
+        "word": "26岁清华博士上演学术级婚礼滚床",
+        "onboard_time": 1740479242,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252611,
+        "num": 252611,
+        "word": "母女10年流水3000万拒付73万赔偿款",
+        "onboard_time": 1740478581,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245556,
+        "num": 245556,
+        "word": "徐若晗朋友圈",
+        "onboard_time": 1740477324,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166206,
+        "num": 232257,
+        "word": "老铺黄金最高涨价12%",
+        "onboard_time": 1740478222,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 228626,
+        "num": 228626,
+        "word": "大蒜也没想到自己成了咖啡搭子",
+        "onboard_time": 1740466520,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208424,
+        "num": 208424,
+        "word": "虞书欣偶遇张凌赫正在出诊",
+        "onboard_time": 1740476300,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205437,
+        "num": 205437,
+        "word": "邓科 被换",
+        "onboard_time": 1740475999,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203383,
+        "num": 203383,
+        "word": "特朗普加大对中国芯片限制",
+        "onboard_time": 1740477141,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 262023,
+        "num": 202081,
+        "word": "高校回应副院长出轨女博士传闻",
+        "onboard_time": 1740478941,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227485,
+        "num": 200873,
+        "word": "迈巴赫车主称车被尊界官方暴力测试",
+        "onboard_time": 1740470601,
+        "rank": 31,
+        "category": "汽车,民生新闻"
+      },
+      {
+        "raw_hot": 189711,
+        "num": 189711,
+        "word": "村里的大蒜咖啡一年卖7万杯",
+        "onboard_time": 1740471980,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181733,
+        "num": 181733,
+        "word": "诺如病毒能轻易瘫痪一个公司",
+        "onboard_time": 1740479242,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14857,
+        "num": 177994,
+        "word": "小米15Ultra夜神人像",
+        "onboard_time": 1740476421,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 176392,
+        "num": 176392,
+        "word": "权志龙唱中文",
+        "onboard_time": 1740460462,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 176069,
+        "num": 176069,
+        "word": "邓为回应一年不进组的原因",
+        "onboard_time": 1740470299,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175904,
+        "num": 175904,
+        "word": "马天宇三人行杀青文",
+        "onboard_time": 1740471620,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172086,
+        "num": 172086,
+        "word": "IU美得不知今夕是何年",
+        "onboard_time": 1740468321,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49651,
+        "num": 170750,
+        "word": "长得美丑可能与豌豆有关",
+        "onboard_time": 1740480081,
+        "rank": 39,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 169945,
+        "num": 169945,
+        "word": "脆薯饼下班",
+        "onboard_time": 1740479660,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 165881,
+        "num": 165881,
+        "word": "翟潇闻问你要毁了哥吗",
+        "onboard_time": 1740479061,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153713,
+        "num": 153713,
+        "word": "DeepSeek分析现在还适合买黄金吗",
+        "onboard_time": 1740475041,
+        "rank": 42,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 151988,
+        "num": 151988,
+        "word": "复旦大学通报博士后抄袭硕士论文",
+        "onboard_time": 1740464598,
+        "rank": 43,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 135104,
+        "num": 135104,
+        "word": "30万年薪大厂女生改做健身教练",
+        "onboard_time": 1740471501,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134374,
+        "num": 134374,
+        "word": "权志龙新歌屠榜",
+        "onboard_time": 1740474860,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 133269,
+        "num": 133269,
+        "word": "陈妍希方辟谣",
+        "onboard_time": 1740479540,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130641,
+        "num": 130641,
+        "word": "许昕说乒坛最恐怖的运动员是张怡宁",
+        "onboard_time": 1740461720,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129044,
+        "num": 129044,
+        "word": "金钟仁cha了WATER",
+        "onboard_time": 1740478459,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128769,
+        "num": 128769,
+        "word": "一过性牙痛可能是心梗前兆",
+        "onboard_time": 1740473601,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这样论三农#"
+    }
+  }
+}

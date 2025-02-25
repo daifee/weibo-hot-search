@@ -1,6 +1,6 @@
 {
   "startTime": 1740414610412,
-  "endTime": 1740479118214,
+  "endTime": 1740480153274,
   "band_list": [
     {
       "raw_hot": 3735413,
@@ -11,7 +11,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 2415021,
+      "raw_hot": 2946157,
       "num": 719137,
       "word": "关晓彤回应近日状态",
       "onboard_time": 1740477561,
@@ -59,19 +59,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1801628,
+      "num": 820627,
+      "word": "南京师范大学宋某某被免职",
+      "onboard_time": 1740477561,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1736331,
       "num": 1736331,
       "word": "男子举报南师大博士女友出轨导师",
       "onboard_time": 1740475041,
       "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1726212,
-      "num": 780609,
-      "word": "南京师范大学宋某某被免职",
-      "onboard_time": 1740477561,
-      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -251,12 +251,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 782537,
-      "num": 782537,
+      "raw_hot": 793102,
+      "num": 793102,
       "word": "湖南师范大学",
       "onboard_time": 1740477079,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 779703,
+      "num": 779703,
+      "word": "演员李威可能面临无期徒刑或死刑",
+      "onboard_time": 1740477200,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 777593,
@@ -435,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 588194,
+      "num": 588194,
+      "word": "杨幂谈胳膊钙化",
+      "onboard_time": 1740477324,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 581817,
       "num": 581817,
       "word": "张婧仪 好完美的一颗头",
@@ -457,14 +473,6 @@
       "onboard_time": 1740444140,
       "rank": 4,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 560622,
-      "num": 560622,
-      "word": "演员李威可能面临无期徒刑或死刑",
-      "onboard_time": 1740477200,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 555411,
@@ -563,14 +571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 480122,
-      "num": 480122,
-      "word": "杨幂谈胳膊钙化",
-      "onboard_time": 1740477324,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 472592,
       "num": 410225,
       "word": "张杰谢娜飞机上热聊",
@@ -651,6 +651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 401804,
+      "num": 569450,
+      "word": "南京师范大学发布情况通报",
+      "onboard_time": 1740478820,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 390842,
       "num": 390842,
       "word": "90岁奶奶摔倒70岁大伯拼尽全力抱回家",
@@ -721,6 +729,14 @@
       "onboard_time": 1740466700,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 332977,
+      "num": 332977,
+      "word": "暂停宋某某一切工作",
+      "onboard_time": 1740479183,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 331839,
@@ -801,6 +817,14 @@
       "onboard_time": 1740453081,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 283022,
+      "num": 283022,
+      "word": "26岁清华博士上演学术级婚礼滚床",
+      "onboard_time": 1740479242,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 282257,
@@ -891,6 +915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252611,
+      "num": 252611,
+      "word": "母女10年流水3000万拒付73万赔偿款",
+      "onboard_time": 1740478581,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 252125,
       "num": 252125,
       "word": "徐若晗朋友圈",
@@ -947,12 +979,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 229070,
-      "num": 475998,
-      "word": "南京师范大学发布情况通报",
-      "onboard_time": 1740478820,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 228578,
+      "num": 323963,
+      "word": "王子奇同意过生日",
+      "onboard_time": 1740478882,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 228384,
@@ -1147,12 +1179,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 208424,
+      "num": 208424,
+      "word": "虞书欣偶遇张凌赫正在出诊",
+      "onboard_time": 1740476300,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208118,
       "num": 238935,
       "word": "灌面汤呛妻案检方建议定罪故意杀人",
       "onboard_time": 1740472821,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 205437,
+      "num": 205437,
+      "word": "邓科 被换",
+      "onboard_time": 1740475999,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 205102,
@@ -1179,14 +1227,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 201421,
-      "num": 201421,
-      "word": "邓科 被换",
-      "onboard_time": 1740475999,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 200287,
       "num": 200287,
       "word": "雷军感谢李想",
@@ -1201,14 +1241,6 @@
       "onboard_time": 1740459202,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 195936,
-      "num": 195936,
-      "word": "虞书欣偶遇张凌赫正在出诊",
-      "onboard_time": 1740476300,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 193520,
@@ -1331,6 +1363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181733,
+      "num": 181733,
+      "word": "诺如病毒能轻易瘫痪一个公司",
+      "onboard_time": 1740479242,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180632,
       "num": 180632,
       "word": "难哄",
@@ -1395,6 +1435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169945,
+      "num": 169945,
+      "word": "脆薯饼下班",
+      "onboard_time": 1740479660,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 168866,
       "num": 168866,
       "word": "白敬亭多拍女性向",
@@ -1409,6 +1457,22 @@
       "onboard_time": 1740455480,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 166206,
+      "num": 504001,
+      "word": "老铺黄金最高涨价12%",
+      "onboard_time": 1740478222,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 165881,
+      "num": 165881,
+      "word": "翟潇闻问你要毁了哥吗",
+      "onboard_time": 1740479061,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 165823,
@@ -1457,14 +1521,6 @@
       "onboard_time": 1740473723,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 160648,
-      "num": 160648,
-      "word": "母女10年流水3000万拒付73万赔偿款",
-      "onboard_time": 1740478581,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 160562,
@@ -1739,6 +1795,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 133269,
+      "num": 133269,
+      "word": "陈妍希方辟谣",
+      "onboard_time": 1740479540,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131976,
       "num": 131976,
       "word": "温以凡先说的我想亲你",
@@ -1787,14 +1851,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 128977,
-      "num": 128977,
-      "word": "翟潇闻问你要毁了哥吗",
-      "onboard_time": 1740479061,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 128031,
       "num": 128031,
       "word": "谢楠经常收到吴京发的丑照",
@@ -1833,14 +1889,6 @@
       "onboard_time": 1740444319,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 126994,
-      "num": 322660,
-      "word": "王子奇同意过生日",
-      "onboard_time": 1740478882,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 123111,
@@ -2195,14 +2243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 79536,
-      "num": 504001,
-      "word": "老铺黄金最高涨价12%",
-      "onboard_time": 1740478222,
-      "rank": 14,
-      "category": "财经"
-    },
-    {
       "raw_hot": 73884,
       "num": 405975,
       "word": "文化中国行看机场里的中华文化",
@@ -2411,12 +2451,28 @@
       "category": "舆论监督,健康医疗"
     },
     {
+      "raw_hot": 51169,
+      "num": 474860,
+      "word": "千万投资农田被指为应付检查作假",
+      "onboard_time": 1740478401,
+      "rank": 18,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 51149,
       "num": 244902,
       "word": "金价涨到2952美元",
       "onboard_time": 1740458842,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 49651,
+      "num": 170750,
+      "word": "长得美丑可能与豌豆有关",
+      "onboard_time": 1740480081,
+      "rank": 39,
+      "category": "民生新闻,科学科普"
     },
     {
       "raw_hot": 48782,
@@ -2577,14 +2633,6 @@
       "onboard_time": 1740464898,
       "rank": 28,
       "category": "教育"
-    },
-    {
-      "raw_hot": 23310,
-      "num": 474860,
-      "word": "千万投资农田被指为应付检查作假",
-      "onboard_time": 1740478401,
-      "rank": 18,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 23167,

@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740479118214,
+  "endTime": 1740480153274,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -67,6 +67,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2946157,
+      "num": 719137,
+      "word": "关晓彤回应近日状态",
+      "onboard_time": 1740477561,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2875244,
       "num": 2875244,
       "word": "国家线",
@@ -89,14 +97,6 @@
       "onboard_time": 1740323303,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2415021,
-      "num": 719137,
-      "word": "关晓彤回应近日状态",
-      "onboard_time": 1740477561,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 2298993,
@@ -211,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1801628,
+      "num": 820627,
+      "word": "南京师范大学宋某某被免职",
+      "onboard_time": 1740477561,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1796415,
       "num": 437517,
       "word": "沈月的猫去世了",
@@ -233,14 +241,6 @@
       "onboard_time": 1740311359,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1726212,
-      "num": 780609,
-      "word": "南京师范大学宋某某被免职",
-      "onboard_time": 1740477561,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1700278,
@@ -971,6 +971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 793102,
+      "num": 793102,
+      "word": "湖南师范大学",
+      "onboard_time": 1740477079,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 783779,
       "num": 783779,
       "word": "iPhone17全系CAD图",
@@ -979,12 +987,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 782537,
-      "num": 782537,
-      "word": "湖南师范大学",
-      "onboard_time": 1740477079,
-      "rank": 4,
-      "category": "民生新闻"
+      "raw_hot": 779703,
+      "num": 779703,
+      "word": "演员李威可能面临无期徒刑或死刑",
+      "onboard_time": 1740477200,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 777593,
@@ -1531,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 588194,
+      "num": 588194,
+      "word": "杨幂谈胳膊钙化",
+      "onboard_time": 1740477324,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 586508,
       "num": 520441,
       "word": "女子持续发热两周未愈确诊白血病",
@@ -1609,14 +1625,6 @@
       "onboard_time": 1740444140,
       "rank": 4,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 560622,
-      "num": 560622,
-      "word": "演员李威可能面临无期徒刑或死刑",
-      "onboard_time": 1740477200,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 556008,
@@ -1955,14 +1963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 480122,
-      "num": 480122,
-      "word": "杨幂谈胳膊钙化",
-      "onboard_time": 1740477324,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 476136,
       "num": 476136,
       "word": "白雪公主内地定档3月21日",
@@ -2209,6 +2209,14 @@
       "onboard_time": 1740454700,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 401804,
+      "num": 569450,
+      "word": "南京师范大学发布情况通报",
+      "onboard_time": 1740478820,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 401235,
@@ -2659,6 +2667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 332977,
+      "num": 332977,
+      "word": "暂停宋某某一切工作",
+      "onboard_time": 1740479183,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 331839,
       "num": 228801,
       "word": "张雨绮前夫袁巴元被限消",
@@ -3035,6 +3051,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 283022,
+      "num": 283022,
+      "word": "26岁清华博士上演学术级婚礼滚床",
+      "onboard_time": 1740479242,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 283019,
       "num": 331069,
       "word": "迪丽热巴黑金look",
@@ -3289,6 +3313,14 @@
       "onboard_time": 1740403401,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 252611,
+      "num": 252611,
+      "word": "母女10年流水3000万拒付73万赔偿款",
+      "onboard_time": 1740478581,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 252125,
@@ -3619,12 +3651,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 229070,
-      "num": 475998,
-      "word": "南京师范大学发布情况通报",
-      "onboard_time": 1740478820,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 228578,
+      "num": 323963,
+      "word": "王子奇同意过生日",
+      "onboard_time": 1740478882,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 228384,
@@ -4051,6 +4083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 208424,
+      "num": 208424,
+      "word": "虞书欣偶遇张凌赫正在出诊",
+      "onboard_time": 1740476300,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208231,
       "num": 208231,
       "word": "父亲让俩儿子抓阄凭运气选房",
@@ -4105,6 +4145,14 @@
       "onboard_time": 1740374542,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205437,
+      "num": 205437,
+      "word": "邓科 被换",
+      "onboard_time": 1740475999,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 205338,
@@ -4233,14 +4281,6 @@
       "onboard_time": 1740368242,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 201421,
-      "num": 201421,
-      "word": "邓科 被换",
-      "onboard_time": 1740475999,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 200833,
@@ -4377,14 +4417,6 @@
       "onboard_time": 1740371481,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 195936,
-      "num": 195936,
-      "word": "虞书欣偶遇张凌赫正在出诊",
-      "onboard_time": 1740476300,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 195345,
@@ -4915,6 +4947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 181733,
+      "num": 181733,
+      "word": "诺如病毒能轻易瘫痪一个公司",
+      "onboard_time": 1740479242,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181559,
       "num": 181559,
       "word": "广西钟山一起交通事故致6死3伤",
@@ -5251,6 +5291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169945,
+      "num": 169945,
+      "word": "脆薯饼下班",
+      "onboard_time": 1740479660,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 169888,
       "num": 169888,
       "word": "Zeus获得LCK杯FMVP",
@@ -5395,6 +5443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166206,
+      "num": 504001,
+      "word": "老铺黄金最高涨价12%",
+      "onboard_time": 1740478222,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 166205,
       "num": 320863,
       "word": "杭州科技感爆棚",
@@ -5441,6 +5497,14 @@
       "onboard_time": 1740305361,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165881,
+      "num": 165881,
+      "word": "翟潇闻问你要毁了哥吗",
+      "onboard_time": 1740479061,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 165823,
@@ -5625,14 +5689,6 @@
       "onboard_time": 1740382040,
       "rank": 49,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 160648,
-      "num": 160648,
-      "word": "母女10年流水3000万拒付73万赔偿款",
-      "onboard_time": 1740478581,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 160562,
@@ -6515,6 +6571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133269,
+      "num": 133269,
+      "word": "陈妍希方辟谣",
+      "onboard_time": 1740479540,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132981,
       "num": 132981,
       "word": "考研查分紧张",
@@ -6651,14 +6715,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 128977,
-      "num": 128977,
-      "word": "翟潇闻问你要毁了哥吗",
-      "onboard_time": 1740479061,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 128031,
       "num": 128031,
       "word": "谢楠经常收到吴京发的丑照",
@@ -6721,14 +6777,6 @@
       "onboard_time": 1740292639,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 126994,
-      "num": 322660,
-      "word": "王子奇同意过生日",
-      "onboard_time": 1740478882,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 126135,
@@ -7659,14 +7707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 79536,
-      "num": 504001,
-      "word": "老铺黄金最高涨价12%",
-      "onboard_time": 1740478222,
-      "rank": 14,
-      "category": "财经"
-    },
-    {
       "raw_hot": 79444,
       "num": 222584,
       "word": "国外一枪手扮律师进法院杀黑帮老大",
@@ -8275,6 +8315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51169,
+      "num": 474860,
+      "word": "千万投资农田被指为应付检查作假",
+      "onboard_time": 1740478401,
+      "rank": 18,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 51149,
       "num": 244902,
       "word": "金价涨到2952美元",
@@ -8297,6 +8345,14 @@
       "onboard_time": 1740365721,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 49651,
+      "num": 170750,
+      "word": "长得美丑可能与豌豆有关",
+      "onboard_time": 1740480081,
+      "rank": 39,
+      "category": "民生新闻,科学科普"
     },
     {
       "raw_hot": 49413,
@@ -8857,14 +8913,6 @@
       "onboard_time": 1740339012,
       "rank": 47,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 23310,
-      "num": 474860,
-      "word": "千万投资农田被指为应付检查作假",
-      "onboard_time": 1740478401,
-      "rank": 18,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 23222,
