@@ -1,0 +1,410 @@
+{
+  "runTime": 1740457662397,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1818148,
+        "num": 1818148,
+        "word": "李威教唆犯罪录音疑曝光",
+        "onboard_time": 1740454339,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1652686,
+        "num": 1652686,
+        "word": "俄方开停战条件",
+        "onboard_time": 1740448998,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28684,
+        "num": 1188042,
+        "word": "祖国大地春耕色块明艳动人",
+        "onboard_time": 1740456981,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1027060,
+        "num": 1027060,
+        "word": "白敬亭被网友截图气笑了",
+        "onboard_time": 1740454942,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 950186,
+        "num": 950186,
+        "word": "老人再就业简历含金量有多高",
+        "onboard_time": 1740455661,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 581983,
+        "num": 581983,
+        "word": "马航MH370新一轮搜索重启",
+        "onboard_time": 1740454280,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 638891,
+        "num": 581947,
+        "word": "金靖 昨天何医生又给我把脉了",
+        "onboard_time": 1740456141,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 581817,
+        "num": 581817,
+        "word": "张婧仪 好完美的一颗头",
+        "onboard_time": 1740454280,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 542301,
+        "num": 542301,
+        "word": "理想i8",
+        "onboard_time": 1740451998,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 504048,
+        "num": 504048,
+        "word": "未来五年将有2万座加油站消失",
+        "onboard_time": 1740455000,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 661734,
+        "num": 501179,
+        "word": "权志龙点赞水原希子韩服照",
+        "onboard_time": 1740453801,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 563322,
+        "num": 493054,
+        "word": "大衣哥正采访中突然翻墙走了",
+        "onboard_time": 1740444319,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 537631,
+        "num": 482003,
+        "word": "SM新女团IAN疑似陷入霸凌争议",
+        "onboard_time": 1740454642,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 509546,
+        "num": 471409,
+        "word": "北京警方抓获一名演员",
+        "onboard_time": 1740444380,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 464643,
+        "num": 464643,
+        "word": "迅猛龙分享考研",
+        "onboard_time": 1740456081,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 408604,
+        "num": 408604,
+        "word": "旅行青蛙",
+        "onboard_time": 1740454101,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 300283,
+        "num": 300283,
+        "word": "王楚钦7925分世界第二",
+        "onboard_time": 1740442399,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274397,
+        "num": 274397,
+        "word": "患者查DeepSeek后质疑医生治疗方案",
+        "onboard_time": 1740452899,
+        "rank": 17,
+        "category": "健康医疗,互联网"
+      },
+      {
+        "raw_hot": 146365,
+        "num": 262689,
+        "word": "杨紫首谈置顶自己",
+        "onboard_time": 1740456441,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260814,
+        "num": 260814,
+        "word": "3岁女儿让妈妈人多的时候向着自己",
+        "onboard_time": 1740452899,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403691,
+        "num": 259626,
+        "word": "哪吒2连续两周北美票房榜前5",
+        "onboard_time": 1740454700,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 318583,
+        "num": 257971,
+        "word": "韩安冉怒斥前夫",
+        "onboard_time": 1740441258,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 937556,
+        "num": 257665,
+        "word": "怀孕21周时胎儿小脚丫掉了出来",
+        "onboard_time": 1740451758,
+        "rank": 22,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 318809,
+        "num": 256333,
+        "word": "李威已被保释",
+        "onboard_time": 1740408143,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150593,
+        "num": 253906,
+        "word": "孙颖莎与邱贻可开心聊天",
+        "onboard_time": 1740455542,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 302103,
+        "num": 253079,
+        "word": "贵州有分娩记录以来年龄最大产妇",
+        "onboard_time": 1740441979,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301209,
+        "num": 251830,
+        "word": "张凌赫人缘",
+        "onboard_time": 1740453321,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289243,
+        "num": 250269,
+        "word": "男主用命换女主再活一次",
+        "onboard_time": 1740451279,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221074,
+        "num": 248614,
+        "word": "林俊杰回应演唱会上发周深的荧光棒",
+        "onboard_time": 1740456681,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 51923,
+        "num": 246930,
+        "word": "人工智能抢得走咱的饭碗吗",
+        "onboard_time": 1740457463,
+        "rank": 29,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 488774,
+        "num": 244692,
+        "word": "DeepSeek评以为很卫生实际巨脏的行为",
+        "onboard_time": 1740444380,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 174726,
+        "num": 244591,
+        "word": "欧盟不满美国涉俄乌冲突表态",
+        "onboard_time": 1740454220,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 243129,
+        "num": 243129,
+        "word": "上海一女子坐地铁躺地上补觉睡10站",
+        "onboard_time": 1740447858,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230590,
+        "num": 230590,
+        "word": "虞书欣包场支持爱你",
+        "onboard_time": 1740457402,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213215,
+        "num": 213215,
+        "word": "DeepSeek总结我国最值钱十大证书",
+        "onboard_time": 1740444140,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 217165,
+        "num": 202428,
+        "word": "爱你开播",
+        "onboard_time": 1740454280,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181123,
+        "num": 181123,
+        "word": "辣目洋子演技",
+        "onboard_time": 1740447619,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86438,
+        "num": 180278,
+        "word": "汤唯全圆佑同框合照",
+        "onboard_time": 1740453559,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215038,
+        "num": 179739,
+        "word": "张凌赫新头像是徐若晗画的",
+        "onboard_time": 1740455961,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175659,
+        "num": 179029,
+        "word": "90岁奶奶摔倒70岁大伯拼尽全力抱回家",
+        "onboard_time": 1740455060,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52285,
+        "num": 178483,
+        "word": "健身圈类固醇乱象调查",
+        "onboard_time": 1740455661,
+        "rank": 40,
+        "category": "舆论监督,健康医疗"
+      },
+      {
+        "raw_hot": 177649,
+        "num": 177649,
+        "word": "马克龙拉住特朗普打断他抱怨",
+        "onboard_time": 1740449058,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 175568,
+        "num": 175568,
+        "word": "王星回应录制无限超越班",
+        "onboard_time": 1740456861,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170151,
+        "num": 170151,
+        "word": "吴磊有种真人吊打建模的帅",
+        "onboard_time": 1740456921,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168031,
+        "num": 168031,
+        "word": "哪吒票房",
+        "onboard_time": 1740410721,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161862,
+        "num": 161862,
+        "word": "张婧仪G社镜头",
+        "onboard_time": 1740453741,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 158832,
+        "num": 158832,
+        "word": "佳佳一个人完成买菜考验",
+        "onboard_time": 1740457343,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151747,
+        "num": 151747,
+        "word": "王楚钦偷师邱贻可青蛙跳",
+        "onboard_time": 1740453199,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146206,
+        "num": 146206,
+        "word": "韩国一高速桥梁倒塌致3死5伤",
+        "onboard_time": 1740449299,
+        "rank": 48,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 118880,
+        "num": 146171,
+        "word": "司法坚决保护无过错配偶一方的权益",
+        "onboard_time": 1740444858,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这样论三农#"
+    }
+  }
+}
