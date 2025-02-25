@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740460955943,
+  "endTime": 1740461967164,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -315,6 +315,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1389499,
+      "num": 1389499,
+      "word": "权志龙唱中文",
+      "onboard_time": 1740460462,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1355600,
       "num": 1355600,
       "word": "3号厅检票员工 难哄",
@@ -579,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 992695,
+      "num": 992695,
+      "word": "这居然是钟丽丽",
+      "onboard_time": 1740459202,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 988249,
       "num": 988249,
       "word": "迪丽热巴我觉得有点尴尬",
@@ -641,14 +657,6 @@
       "onboard_time": 1740275599,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 947162,
-      "num": 947162,
-      "word": "这居然是钟丽丽",
-      "onboard_time": 1740459202,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 937556,
@@ -1417,14 +1425,6 @@
       "onboard_time": 1740444140,
       "rank": 4,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 561525,
-      "num": 415709,
-      "word": "权志龙唱中文",
-      "onboard_time": 1740460462,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 556008,
@@ -2315,6 +2315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 340220,
+      "num": 218527,
+      "word": "流浪猫尸首分离被塞进学生课桌",
+      "onboard_time": 1740459144,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 339753,
       "num": 275626,
       "word": "金泰亨肌肉",
@@ -2329,14 +2337,6 @@
       "onboard_time": 1740291319,
       "rank": 9,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 336428,
-      "num": 218527,
-      "word": "流浪猫尸首分离被塞进学生课桌",
-      "onboard_time": 1740459144,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 333348,
@@ -2739,12 +2739,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 279668,
+      "num": 279668,
+      "word": "手机锁定状态无法进行碰一下支付",
+      "onboard_time": 1740461000,
+      "rank": 14,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 277517,
       "num": 277517,
       "word": "大衣哥拒绝直播带货也不代言",
       "onboard_time": 1740254232,
       "rank": 11,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 276528,
+      "num": 439593,
+      "word": "手机NFC功能碰一下钱就没了系摆拍",
+      "onboard_time": 1740460100,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 276004,
@@ -2939,6 +2955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 252765,
+      "num": 200438,
+      "word": "陈妍希1月份还戴着婚戒",
+      "onboard_time": 1740461481,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250496,
       "num": 250496,
       "word": "王曼昱使用樊A",
@@ -2969,6 +2993,14 @@
       "onboard_time": 1740406583,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 246815,
+      "num": 214679,
+      "word": "放羊的星星",
+      "onboard_time": 1740457823,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 246742,
@@ -3065,14 +3097,6 @@
       "onboard_time": 1740368903,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 239956,
-      "num": 214679,
-      "word": "放羊的星星",
-      "onboard_time": 1740457823,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 239172,
@@ -3307,6 +3331,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 222734,
+      "num": 196195,
+      "word": "2025第一部双强重生爽剧",
+      "onboard_time": 1740460940,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222519,
       "num": 217937,
       "word": "佳佳一个人完成买菜考验",
@@ -3387,6 +3419,14 @@
       "category": "数码,互联网"
     },
     {
+      "raw_hot": 219075,
+      "num": 195875,
+      "word": "柯淳上无限超越班害怕被骂",
+      "onboard_time": 1740461061,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218866,
       "num": 408883,
       "word": "25考研",
@@ -3465,6 +3505,14 @@
       "onboard_time": 1740452480,
       "rank": 18,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 215949,
+      "num": 198472,
+      "word": "180天里的母女精神状态好超前",
+      "onboard_time": 1740460821,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 215729,
@@ -3892,7 +3940,7 @@
     },
     {
       "raw_hot": 196926,
-      "num": 196926,
+      "num": 205653,
       "word": "南京将步入双机场时代",
       "onboard_time": 1740459202,
       "rank": 42,
@@ -4113,6 +4161,14 @@
       "onboard_time": 1740285078,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190596,
+      "num": 190596,
+      "word": "李诚儒被王术一激怒",
+      "onboard_time": 1740461601,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 190375,
@@ -5147,6 +5203,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 158143,
+      "num": 158143,
+      "word": "难哄 单更",
+      "onboard_time": 1740461781,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157863,
       "num": 156986,
       "word": "迪丽热巴这几步把这辈子难过的事都想了一遍",
@@ -5235,6 +5299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 155442,
+      "num": 155442,
+      "word": "许昕说乒坛最恐怖的运动员是张怡宁",
+      "onboard_time": 1740461720,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155022,
       "num": 161375,
       "word": "北上预约破150万",
@@ -5273,6 +5345,14 @@
       "onboard_time": 1740320242,
       "rank": 2,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 152991,
+      "num": 152991,
+      "word": "校方回应猫咪尸体被塞进学生课桌",
+      "onboard_time": 1740461360,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152025,
@@ -5555,6 +5635,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 145056,
+      "num": 145056,
+      "word": "孙丞潇自曝焦虑到要吃药",
+      "onboard_time": 1740461900,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144967,
       "num": 144967,
       "word": "白鹿北上物料",
@@ -5609,14 +5697,6 @@
       "onboard_time": 1740388881,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 142455,
-      "num": 439593,
-      "word": "手机NFC功能碰一下钱就没了系摆拍",
-      "onboard_time": 1740460100,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 142004,
@@ -6715,6 +6795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86300,
+      "num": 201845,
+      "word": "王柳懿王芊懿为王曼昱打call",
+      "onboard_time": 1740461121,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86204,
       "num": 227395,
       "word": "王楚钦一个动作全场安静",
@@ -7171,6 +7259,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 58689,
+      "num": 395729,
+      "word": "抢注DEEPSEEK等相关商标被依法驳回",
+      "onboard_time": 1740459982,
+      "rank": 14,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 58525,
       "num": 340080,
       "word": "小米15Ultra徕卡相机感设计",
@@ -7241,6 +7337,14 @@
       "onboard_time": 1740332053,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 56675,
+      "num": 219180,
+      "word": "当陷入颓废循环的年轻人决定早起",
+      "onboard_time": 1740459863,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55671,
@@ -7537,14 +7641,6 @@
       "onboard_time": 1740370101,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 40428,
-      "num": 219180,
-      "word": "当陷入颓废循环的年轻人决定早起",
-      "onboard_time": 1740459863,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39139,
@@ -7937,14 +8033,6 @@
       "onboard_time": 1740389240,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 21538,
-      "num": 395729,
-      "word": "抢注DEEPSEEK等相关商标被依法驳回",
-      "onboard_time": 1740459982,
-      "rank": 14,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 21127,
