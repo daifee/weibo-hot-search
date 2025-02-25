@@ -1,0 +1,410 @@
+{
+  "runTime": 1740465897524,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 845325,
+        "num": 1135252,
+        "word": "权志龙唱中文",
+        "onboard_time": 1740460462,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 834517,
+        "num": 834517,
+        "word": "俄方开停战条件",
+        "onboard_time": 1740448998,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 37755,
+        "num": 669205,
+        "word": "祖国大地春耕色块明艳动人",
+        "onboard_time": 1740456981,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 652614,
+        "num": 652614,
+        "word": "许昕说乒坛最恐怖的运动员是张怡宁",
+        "onboard_time": 1740461720,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 523021,
+        "num": 523021,
+        "word": "手机NFC功能碰一下钱就没了系摆拍",
+        "onboard_time": 1740460100,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 530209,
+        "num": 470098,
+        "word": "权志龙柳智敏双人舞",
+        "onboard_time": 1740464238,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 408193,
+        "num": 408193,
+        "word": "孙丞潇自曝焦虑到要吃药",
+        "onboard_time": 1740461900,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 389388,
+        "num": 389388,
+        "word": "李威教唆犯罪录音疑曝光",
+        "onboard_time": 1740454339,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370099,
+        "num": 370099,
+        "word": "手机锁定状态无法进行碰一下支付",
+        "onboard_time": 1740461000,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 312600,
+        "num": 369904,
+        "word": "韩国消防称2名中国工人遇难",
+        "onboard_time": 1740464661,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 679531,
+        "num": 366844,
+        "word": "陈妍希1月份还戴着婚戒",
+        "onboard_time": 1740461481,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 590564,
+        "num": 365937,
+        "word": "校方回应猫咪尸体被塞进学生课桌",
+        "onboard_time": 1740461360,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381565,
+        "num": 364092,
+        "word": "金靖 昨天何医生又给我把脉了",
+        "onboard_time": 1740456141,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 344205,
+        "num": 362475,
+        "word": "老人再就业简历含金量有多高",
+        "onboard_time": 1740455661,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381265,
+        "num": 360665,
+        "word": "白敬亭被网友截图气笑了",
+        "onboard_time": 1740454942,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59720,
+        "num": 358765,
+        "word": "张婧仪美得好权威",
+        "onboard_time": 1740461961,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 358254,
+        "num": 358254,
+        "word": "复旦大学通报博士后抄袭硕士论文",
+        "onboard_time": 1740464598,
+        "rank": 16,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 308158,
+        "num": 308158,
+        "word": "迪丽热巴开推3粉色芭比造型",
+        "onboard_time": 1740459322,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286540,
+        "num": 286540,
+        "word": "捐赠日军侵华照片法国小伙回应质疑",
+        "onboard_time": 1740463638,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25775,
+        "num": 257374,
+        "word": "智搜ds认为李威最重可判无期",
+        "onboard_time": 1740465498,
+        "rank": 19,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 497110,
+        "num": 256969,
+        "word": "怀孕21周时胎儿小脚丫掉了出来",
+        "onboard_time": 1740451758,
+        "rank": 20,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 295337,
+        "num": 256797,
+        "word": "这居然是钟丽丽",
+        "onboard_time": 1740459202,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256374,
+        "num": 256374,
+        "word": "流浪猫尸首分离被塞进学生课桌",
+        "onboard_time": 1740459144,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248644,
+        "num": 251252,
+        "word": "马航MH370新一轮搜索重启",
+        "onboard_time": 1740454280,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 249231,
+        "num": 249231,
+        "word": "金价",
+        "onboard_time": 1740464359,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 228807,
+        "num": 228807,
+        "word": "难哄 单更",
+        "onboard_time": 1740461781,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198244,
+        "num": 198244,
+        "word": "北京警方抓获一名演员",
+        "onboard_time": 1740444380,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193520,
+        "num": 193520,
+        "word": "她抱着必死的决心走向了结局",
+        "onboard_time": 1740465080,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16756,
+        "num": 190987,
+        "word": "俄乌战场上的特殊武器",
+        "onboard_time": 1740465680,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24775,
+        "num": 190900,
+        "word": "考研和工作如何平衡",
+        "onboard_time": 1740464898,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 196978,
+        "num": 190886,
+        "word": "DeepSeek评以为很卫生实际巨脏的行为",
+        "onboard_time": 1740444380,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 190868,
+        "num": 190868,
+        "word": "张凌赫又给金靖把脉了",
+        "onboard_time": 1740463638,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179783,
+        "num": 179783,
+        "word": "张杰谢娜飞机上热聊",
+        "onboard_time": 1740465498,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172093,
+        "num": 172093,
+        "word": "肖战氛围大片幕后现场",
+        "onboard_time": 1740464719,
+        "rank": 33,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 160513,
+        "num": 160513,
+        "word": "这次桐华给了相柳没有遗憾的人生",
+        "onboard_time": 1740461961,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68048,
+        "num": 159058,
+        "word": "网售甄嬛传息肌丸已卖出1.1万单",
+        "onboard_time": 1740465800,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158161,
+        "num": 158161,
+        "word": "拉粪三轮车逆行泼小车一车",
+        "onboard_time": 1740462379,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156662,
+        "num": 156662,
+        "word": "理想i8",
+        "onboard_time": 1740451998,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 152218,
+        "num": 152218,
+        "word": "艺考女生136斤减到87斤",
+        "onboard_time": 1740465739,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147738,
+        "num": 147738,
+        "word": "未来五年将有2万座加油站消失",
+        "onboard_time": 1740455000,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 147658,
+        "num": 147658,
+        "word": "旅行青蛙",
+        "onboard_time": 1740454101,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144697,
+        "num": 144697,
+        "word": "大衣哥正采访中突然翻墙走了",
+        "onboard_time": 1740444319,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141320,
+        "num": 141320,
+        "word": "李诚儒给刘胤君下跪表演",
+        "onboard_time": 1740464898,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137133,
+        "num": 137133,
+        "word": "我想追桑延",
+        "onboard_time": 1740463040,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66897,
+        "num": 136501,
+        "word": "肖战米兰氛围感路透",
+        "onboard_time": 1740465860,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 51149,
+        "num": 136303,
+        "word": "金价涨到2952美元",
+        "onboard_time": 1740458842,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 136123,
+        "num": 136123,
+        "word": "理想汽车高管疑似暗讽华为",
+        "onboard_time": 1740462080,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 135262,
+        "num": 135262,
+        "word": "南京将步入双机场时代",
+        "onboard_time": 1740459202,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128031,
+        "num": 128031,
+        "word": "谢楠经常收到吴京发的丑照",
+        "onboard_time": 1740465379,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124243,
+        "num": 124243,
+        "word": "2025第一部双强重生爽剧",
+        "onboard_time": 1740460940,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这样论三农#"
+    }
+  }
+}

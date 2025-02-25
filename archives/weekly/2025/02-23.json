@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740465134719,
+  "endTime": 1740465897524,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -1163,7 +1163,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 679133,
+      "raw_hot": 679531,
       "num": 372697,
       "word": "陈妍希1月份还戴着婚戒",
       "onboard_time": 1740461481,
@@ -1243,6 +1243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 652614,
+      "num": 652614,
+      "word": "许昕说乒坛最恐怖的运动员是张怡宁",
+      "onboard_time": 1740461720,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 652192,
       "num": 364650,
       "word": "女儿遭家暴失明母亲自责让其闪婚",
@@ -1272,14 +1280,6 @@
       "word": "王楚钦板板都是高质量",
       "onboard_time": 1740316401,
       "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 634441,
-      "num": 634441,
-      "word": "许昕说乒坛最恐怖的运动员是张怡宁",
-      "onboard_time": 1740461720,
-      "rank": 43,
       "category": "体育"
     },
     {
@@ -1356,7 +1356,7 @@
     },
     {
       "raw_hot": 599533,
-      "num": 359922,
+      "num": 365937,
       "word": "校方回应猫咪尸体被塞进学生课桌",
       "onboard_time": 1740461360,
       "rank": 44,
@@ -1561,6 +1561,14 @@
       "onboard_time": 1740313582,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 530209,
+      "num": 470098,
+      "word": "权志龙柳智敏双人舞",
+      "onboard_time": 1740464238,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 524803,
@@ -2227,6 +2235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 358254,
+      "num": 358254,
+      "word": "复旦大学通报博士后抄袭硕士论文",
+      "onboard_time": 1740464598,
+      "rank": 39,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 358029,
       "num": 358029,
       "word": "国企拟录用3名本科生名单被删",
@@ -2337,14 +2353,6 @@
       "onboard_time": 1740285679,
       "rank": 49,
       "category": "民生新闻,电影"
-    },
-    {
-      "raw_hot": 345657,
-      "num": 255697,
-      "word": "权志龙柳智敏双人舞",
-      "onboard_time": 1740464238,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 344422,
@@ -2521,6 +2529,14 @@
       "onboard_time": 1740326480,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 312600,
+      "num": 378617,
+      "word": "韩国消防称2名中国工人遇难",
+      "onboard_time": 1740464661,
+      "rank": 10,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 311917,
@@ -2713,6 +2729,14 @@
       "onboard_time": 1740292158,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 286540,
+      "num": 384758,
+      "word": "捐赠日军侵华照片法国小伙回应质疑",
+      "onboard_time": 1740463638,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 286350,
@@ -3009,6 +3033,14 @@
       "onboard_time": 1740327679,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 249231,
+      "num": 249231,
+      "word": "金价",
+      "onboard_time": 1740464359,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 249191,
@@ -3353,14 +3385,6 @@
       "onboard_time": 1740323602,
       "rank": 41,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 225242,
-      "num": 225242,
-      "word": "金价",
-      "onboard_time": 1740464359,
-      "rank": 26,
-      "category": "财经"
     },
     {
       "raw_hot": 224305,
@@ -4083,6 +4107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193520,
+      "num": 193520,
+      "word": "她抱着必死的决心走向了结局",
+      "onboard_time": 1740465080,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193392,
       "num": 193392,
       "word": "开始推理吧",
@@ -4201,6 +4233,14 @@
       "onboard_time": 1740367340,
       "rank": 43,
       "category": "互联网,游戏"
+    },
+    {
+      "raw_hot": 190868,
+      "num": 190868,
+      "word": "张凌赫又给金靖把脉了",
+      "onboard_time": 1740463638,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 190675,
@@ -4529,6 +4569,14 @@
       "onboard_time": 1740259751,
       "rank": 48,
       "category": "民生新闻,电影"
+    },
+    {
+      "raw_hot": 179783,
+      "num": 179783,
+      "word": "张杰谢娜飞机上热聊",
+      "onboard_time": 1740465498,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 179535,
@@ -4947,14 +4995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 166299,
-      "num": 188919,
-      "word": "张凌赫又给金靖把脉了",
-      "onboard_time": 1740463638,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 166255,
       "num": 166255,
       "word": "蒯曼vs陈幸同",
@@ -5195,6 +5235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160513,
+      "num": 160513,
+      "word": "这次桐华给了相柳没有遗憾的人生",
+      "onboard_time": 1740461961,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160166,
       "num": 160166,
       "word": "暨南大学回应拟录取全红婵",
@@ -5265,6 +5313,14 @@
       "onboard_time": 1740281658,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 158161,
+      "num": 158161,
+      "word": "拉粪三轮车逆行泼小车一车",
+      "onboard_time": 1740462379,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157863,
@@ -5403,6 +5459,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 152218,
+      "num": 152218,
+      "word": "艺考女生136斤减到87斤",
+      "onboard_time": 1740465739,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152025,
       "num": 152025,
       "word": "六姊妹母亲可以不完美",
@@ -5499,14 +5563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 149796,
-      "num": 149796,
-      "word": "这次桐华给了相柳没有遗憾的人生",
-      "onboard_time": 1740461961,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 149597,
       "num": 149597,
       "word": "逆水寒手游",
@@ -5561,14 +5617,6 @@
       "onboard_time": 1740374839,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 148461,
-      "num": 148461,
-      "word": "复旦大学通报博士后抄袭硕士论文",
-      "onboard_time": 1740464598,
-      "rank": 39,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 148434,
@@ -5787,20 +5835,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141320,
+      "num": 141320,
+      "word": "李诚儒给刘胤君下跪表演",
+      "onboard_time": 1740464898,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139483,
       "num": 139483,
       "word": "劝你心情不好时叹叹气",
       "onboard_time": 1740399619,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 139407,
-      "num": 139407,
-      "word": "拉粪三轮车逆行泼小车一车",
-      "onboard_time": 1740462379,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 138951,
@@ -6091,6 +6139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128031,
+      "num": 128031,
+      "word": "谢楠经常收到吴京发的丑照",
+      "onboard_time": 1740465379,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127956,
       "num": 185784,
       "word": "王楚钦赵心童合照",
@@ -6177,14 +6233,6 @@
       "onboard_time": 1740237322,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 124285,
-      "num": 384758,
-      "word": "捐赠日军侵华照片法国小伙回应质疑",
-      "onboard_time": 1740463638,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 124027,
@@ -6281,14 +6329,6 @@
       "onboard_time": 1740411619,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 119360,
-      "num": 378617,
-      "word": "韩国消防称2名中国工人遇难",
-      "onboard_time": 1740464661,
-      "rank": 10,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 119284,
@@ -6483,14 +6523,6 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 112173,
-      "num": 112173,
-      "word": "李诚儒给刘胤君下跪表演",
-      "onboard_time": 1740464898,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 111909,
       "num": 111909,
       "word": "中国男篮vs关岛男篮",
@@ -6553,14 +6585,6 @@
       "onboard_time": 1740431710,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 110860,
-      "num": 110860,
-      "word": "她抱着必死的决心走向了结局",
-      "onboard_time": 1740465080,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 110400,
@@ -7195,12 +7219,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 68048,
+      "num": 159058,
+      "word": "网售甄嬛传息肌丸已卖出1.1万单",
+      "onboard_time": 1740465800,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 66948,
       "num": 671160,
       "word": "一男子自制工具伤害多只猫被行拘",
       "onboard_time": 1740385161,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66897,
+      "num": 136501,
+      "word": "肖战米兰氛围感路透",
+      "onboard_time": 1740465860,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 66419,
@@ -7353,6 +7393,14 @@
       "onboard_time": 1740456981,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59720,
+      "num": 368406,
+      "word": "张婧仪美得好权威",
+      "onboard_time": 1740461961,
+      "rank": 12,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 59604,
@@ -7571,20 +7619,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 51657,
-      "num": 368406,
-      "word": "张婧仪美得好权威",
-      "onboard_time": 1740461961,
-      "rank": 12,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 51413,
       "num": 190553,
       "word": "孙颖莎赢球后邱贻可振臂高呼",
       "onboard_time": 1740272417,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51149,
+      "num": 244902,
+      "word": "金价涨到2952美元",
+      "onboard_time": 1740458842,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 51014,
@@ -7875,14 +7923,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34549,
-      "num": 244902,
-      "word": "金价涨到2952美元",
-      "onboard_time": 1740458842,
-      "rank": 24,
-      "category": "财经"
-    },
-    {
       "raw_hot": 33513,
       "num": 336873,
       "word": "白敬亭演技缓缓入心",
@@ -8065,6 +8105,22 @@
       "onboard_time": 1740381558,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 25775,
+      "num": 257374,
+      "word": "智搜ds认为李威最重可判无期",
+      "onboard_time": 1740465498,
+      "rank": 19,
+      "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 24775,
+      "num": 190900,
+      "word": "考研和工作如何平衡",
+      "onboard_time": 1740464898,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 23897,
@@ -8307,6 +8363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 16756,
+      "num": 190987,
+      "word": "俄乌战场上的特殊武器",
+      "onboard_time": 1740465680,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 16451,
       "num": 49805,
       "word": "胡兵说睡得好比黄金还重要",
@@ -8473,14 +8537,6 @@
       "onboard_time": 1740337452,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 10496,
-      "num": 190208,
-      "word": "考研和工作如何平衡",
-      "onboard_time": 1740464898,
-      "rank": 28,
-      "category": "教育"
     },
     {
       "raw_hot": 9405,
