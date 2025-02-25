@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740511158268,
+  "endTime": 1740512167501,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -71691,6 +71691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45373,
+      "num": 45373,
+      "word": "爱你 好看",
+      "onboard_time": 1740507673,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 45320,
       "num": 73861,
       "word": "官方回应多人烧炮被鞭炮炸伤",
@@ -73049,14 +73057,6 @@
       "onboard_time": 1739075299,
       "rank": 13,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 38495,
-      "num": 38495,
-      "word": "爱你 好看",
-      "onboard_time": 1740507673,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 38396,
@@ -79385,6 +79385,14 @@
       "onboard_time": 1739523200,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 11144,
+      "num": 35284,
+      "word": "法国小伙马库斯已返回巴黎",
+      "onboard_time": 1740511451,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 11095,

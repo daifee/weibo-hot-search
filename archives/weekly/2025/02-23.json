@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740511158268,
+  "endTime": 1740512167501,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -9395,6 +9395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 45373,
+      "num": 45373,
+      "word": "爱你 好看",
+      "onboard_time": 1740507673,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 44905,
       "num": 207690,
       "word": "男子一个飞扑救起落水男孩",
@@ -9545,14 +9553,6 @@
       "onboard_time": 1740308899,
       "rank": 14,
       "category": "动漫,财经"
-    },
-    {
-      "raw_hot": 38495,
-      "num": 38495,
-      "word": "爱你 好看",
-      "onboard_time": 1740507673,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 37839,
@@ -10449,6 +10449,14 @@
       "onboard_time": 1740510251,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 11144,
+      "num": 35284,
+      "word": "法国小伙马库斯已返回巴黎",
+      "onboard_time": 1740511451,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 10982,

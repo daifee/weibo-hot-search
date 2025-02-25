@@ -1,0 +1,410 @@
+{
+  "runTime": 1740512167501,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 169560,
+        "num": 169560,
+        "word": "你要撑住马上就可以到中国抢救了",
+        "onboard_time": 1740499758,
+        "rank": 0,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 127366,
+        "num": 127366,
+        "word": "老人去世130万分堂弟1套房收归国有",
+        "onboard_time": 1740506892,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11355,
+        "num": 98006,
+        "word": "古诗词里的长江有多美",
+        "onboard_time": 1740495683,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85709,
+        "num": 85709,
+        "word": "肖战和文淇合影",
+        "onboard_time": 1740500297,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 64374,
+        "num": 64374,
+        "word": "哪吒2预测票房下调至146亿",
+        "onboard_time": 1740495201,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 50766,
+        "num": 50766,
+        "word": "潘宏账号内容被一夜清空",
+        "onboard_time": 1740493283,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60804,
+        "num": 48888,
+        "word": "偷偷藏着哄",
+        "onboard_time": 1740502337,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45373,
+        "num": 45373,
+        "word": "爱你 好看",
+        "onboard_time": 1740507673,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35447,
+        "num": 35447,
+        "word": "气血不足的人就要多出去玩",
+        "onboard_time": 1740481461,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 11144,
+        "num": 35284,
+        "word": "法国小伙马库斯已返回巴黎",
+        "onboard_time": 1740511451,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 145224,
+        "num": 35136,
+        "word": "关晓彤回应近日状态",
+        "onboard_time": 1740477561,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45208,
+        "num": 34921,
+        "word": "春风十里不如你",
+        "onboard_time": 1740505814,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102511,
+        "num": 34682,
+        "word": "九旬老人离世后四亲属被烟闷身亡",
+        "onboard_time": 1740495441,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59919,
+        "num": 34363,
+        "word": "CEO会换但肖战的座位不会换",
+        "onboard_time": 1740499338,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 54496,
+        "num": 34077,
+        "word": "为保胎妈妈以臀高位姿势卧床1个月",
+        "onboard_time": 1740493822,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44855,
+        "num": 33883,
+        "word": "司藤原班人马 龙骨焚箱",
+        "onboard_time": 1740494484,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41610,
+        "num": 33724,
+        "word": "郑润泽护妻",
+        "onboard_time": 1740488359,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37532,
+        "num": 33435,
+        "word": "艺考女生136斤减到87斤",
+        "onboard_time": 1740465739,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33308,
+        "num": 33308,
+        "word": "南师大环境学院官网崩了",
+        "onboard_time": 1740484821,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28448,
+        "num": 28448,
+        "word": "爱你",
+        "onboard_time": 1740482901,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62587,
+        "num": 28423,
+        "word": "鹿晗工作室告黑声明",
+        "onboard_time": 1740469400,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27840,
+        "num": 27840,
+        "word": "中方回应加拿大制裁20余家中国实体",
+        "onboard_time": 1740504254,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 26993,
+        "num": 26993,
+        "word": "马克龙直接上手拦住特朗普发言",
+        "onboard_time": 1740501855,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26889,
+        "num": 26889,
+        "word": "阴阳师",
+        "onboard_time": 1740488841,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 25913,
+        "num": 25913,
+        "word": "DeepSeek",
+        "onboard_time": 1740507072,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 25409,
+        "num": 25409,
+        "word": "王楚钦LV品牌大使",
+        "onboard_time": 1740482001,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24434,
+        "num": 24434,
+        "word": "龙骨焚箱",
+        "onboard_time": 1740498319,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23623,
+        "num": 23623,
+        "word": "官方回应4人烧秸秆被烟闷身亡",
+        "onboard_time": 1740498799,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22822,
+        "num": 22822,
+        "word": "白敬亭章若楠发合照了",
+        "onboard_time": 1740487762,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22447,
+        "num": 22447,
+        "word": "鹿晗关晓彤名下并无商业关联",
+        "onboard_time": 1740475220,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26145,
+        "num": 21995,
+        "word": "爱奇艺 吃相",
+        "onboard_time": 1740485661,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21272,
+        "num": 21272,
+        "word": "拷贝漫画崩了",
+        "onboard_time": 1740498920,
+        "rank": 31,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 22147,
+        "num": 21259,
+        "word": "爱你第一集就锁v",
+        "onboard_time": 1740484099,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21228,
+        "num": 21228,
+        "word": "香港偶遇李钟硕",
+        "onboard_time": 1740491001,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21152,
+        "num": 21152,
+        "word": "侯明昊米兰时装周",
+        "onboard_time": 1740503115,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 21087,
+        "num": 21087,
+        "word": "在被檀健次笑抽和帅晕中横跳",
+        "onboard_time": 1740500537,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 19756,
+        "num": 19756,
+        "word": "男子境外遭遇车祸需回国急救民警紧急协调",
+        "onboard_time": 1740500595,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19549,
+        "num": 19549,
+        "word": "百万网红迅猛龙称考研结果很好",
+        "onboard_time": 1740483081,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 19436,
+        "num": 19436,
+        "word": "58岁王祖贤现状",
+        "onboard_time": 1740483200,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18560,
+        "num": 18560,
+        "word": "最会穿搭的现偶男主出现了",
+        "onboard_time": 1740492981,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18322,
+        "num": 18322,
+        "word": "何炅这么多年了还是没放过鬼鬼",
+        "onboard_time": 1740473181,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16573,
+        "num": 18320,
+        "word": "科考队员溶洞失联69小时奇迹生还",
+        "onboard_time": 1740495803,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17219,
+        "num": 18318,
+        "word": "撒贝宁也收到了王鸥的明侦手链",
+        "onboard_time": 1740484640,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16562,
+        "num": 18315,
+        "word": "网友偶遇许凯坐地铁",
+        "onboard_time": 1740492263,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15382,
+        "num": 18312,
+        "word": "徐若晗朋友圈",
+        "onboard_time": 1740477324,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15276,
+        "num": 18308,
+        "word": "乌大部分最具价值矿藏已归入俄罗斯",
+        "onboard_time": 1740496042,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14817,
+        "num": 18306,
+        "word": "温以凡把桑延钓成翘嘴了",
+        "onboard_time": 1740498499,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14680,
+        "num": 18306,
+        "word": "10万多个网络账号被关闭",
+        "onboard_time": 1740488061,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14084,
+        "num": 18301,
+        "word": "无遗嘱无法定继承人的遗产该归谁",
+        "onboard_time": 1740506652,
+        "rank": 48,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 13823,
+        "num": 18299,
+        "word": "外交部回应特朗普欲加大限制中国芯片",
+        "onboard_time": 1740509052,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平为基层减负的故事#"
+    }
+  }
+}
