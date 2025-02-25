@@ -1,6 +1,6 @@
 {
   "startTime": 1740414610412,
-  "endTime": 1740448915055,
+  "endTime": 1740452209657,
   "band_list": [
     {
       "raw_hot": 1913803,
@@ -11,12 +11,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1752458,
+      "num": 1752458,
+      "word": "俄方开停战条件",
+      "onboard_time": 1740448998,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1687964,
       "num": 1687964,
       "word": "大衣哥正采访中突然翻墙走了",
       "onboard_time": 1740444319,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1449527,
+      "num": 1449527,
+      "word": "旅行青蛙宣布终止运营",
+      "onboard_time": 1740449899,
+      "rank": 1,
+      "category": "游戏"
     },
     {
       "raw_hot": 1325670,
@@ -83,12 +99,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 709690,
+      "num": 709690,
+      "word": "辣目洋子演技",
+      "onboard_time": 1740447619,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 707806,
+      "num": 309290,
+      "word": "曝韩安冉差点被骗到东南亚",
+      "onboard_time": 1740449178,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 671484,
       "num": 671484,
       "word": "王楚钦7925分世界第二",
       "onboard_time": 1740442399,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 621462,
+      "num": 288556,
+      "word": "上海一女子坐地铁躺地上补觉睡10站",
+      "onboard_time": 1740447858,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 581619,
@@ -105,14 +145,6 @@
       "onboard_time": 1740444140,
       "rank": 4,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 554623,
-      "num": 554623,
-      "word": "辣目洋子演技",
-      "onboard_time": 1740447619,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 518233,
@@ -145,6 +177,22 @@
       "onboard_time": 1740444680,
       "rank": 5,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 502408,
+      "num": 502408,
+      "word": "韩国一高速桥梁倒塌致3死5伤",
+      "onboard_time": 1740449299,
+      "rank": 5,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 412444,
+      "num": 412444,
+      "word": "马克龙拉住特朗普打断他抱怨",
+      "onboard_time": 1740449058,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 406174,
@@ -187,20 +235,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311917,
+      "num": 270075,
+      "word": "Deepseek给气血不足职场女性建议",
+      "onboard_time": 1740445520,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 284745,
+      "num": 189734,
+      "word": "怀孕21周时胎儿小脚丫掉了出来",
+      "onboard_time": 1740451758,
+      "rank": 25,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 271238,
       "num": 271238,
       "word": "妈妈 我有学上了",
       "onboard_time": 1740388818,
       "rank": 5,
       "category": "教育"
-    },
-    {
-      "raw_hot": 270075,
-      "num": 270075,
-      "word": "Deepseek给气血不足职场女性建议",
-      "onboard_time": 1740445520,
-      "rank": 21,
-      "category": "互联网"
     },
     {
       "raw_hot": 264143,
@@ -235,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 253917,
+      "num": 253917,
+      "word": "张婧仪郑恩彩同框合照",
+      "onboard_time": 1740448818,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 238778,
       "num": 238778,
       "word": "长期熬夜晚睡消耗气血",
@@ -259,6 +323,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 221635,
+      "num": 221635,
+      "word": "男主用命换女主再活一次",
+      "onboard_time": 1740451279,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218824,
       "num": 218824,
       "word": "吉祥航空回应被曝给乘客过期坚果",
@@ -275,20 +347,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 216885,
+      "num": 389230,
+      "word": "宝安机场回应男团插队登机",
+      "onboard_time": 1740451100,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212293,
       "num": 163713,
       "word": "六姊妹大结局",
       "onboard_time": 1740404062,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 211426,
-      "num": 211426,
-      "word": "上海一女子坐地铁躺地上补觉睡10站",
-      "onboard_time": 1740447858,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 211037,
@@ -331,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188085,
+      "num": 188085,
+      "word": "哪吒2票房138亿",
+      "onboard_time": 1740446659,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 187578,
       "num": 187578,
       "word": "敖犬老婆曾因严重忧郁暴瘦",
@@ -339,12 +419,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185781,
+      "num": 185781,
+      "word": "姿态喊话Doinb",
+      "onboard_time": 1740448878,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 184790,
+      "num": 184790,
+      "word": "少女遭欺凌为求解脱被骗沾染毒品",
+      "onboard_time": 1740450017,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179249,
       "num": 179249,
       "word": "丁程鑫 严严",
       "onboard_time": 1740438314,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 173886,
+      "num": 333378,
+      "word": "安理会涉乌决议中美俄均投赞成票",
+      "onboard_time": 1740448218,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 165750,
+      "num": 165750,
+      "word": "理想i8",
+      "onboard_time": 1740451998,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 163493,
@@ -411,12 +523,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 143453,
-      "num": 333378,
-      "word": "安理会涉乌决议中美俄均投赞成票",
-      "onboard_time": 1740448218,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 139651,
+      "num": 192165,
+      "word": "王楚钦签名回复粉丝祝福",
+      "onboard_time": 1740450739,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 137232,
@@ -425,6 +537,22 @@
       "onboard_time": 1740448759,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137134,
+      "num": 137134,
+      "word": "北上",
+      "onboard_time": 1740450617,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 135128,
+      "num": 135128,
+      "word": "俄方愿同美国开展稀土合作",
+      "onboard_time": 1740449178,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 133668,
@@ -459,20 +587,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 124629,
+      "num": 185784,
+      "word": "王楚钦赵心童合照",
+      "onboard_time": 1740449719,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123111,
       "num": 123111,
       "word": "贾浅浅已博士毕业",
       "onboard_time": 1740412040,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 121903,
-      "num": 121903,
-      "word": "哪吒2票房138亿",
-      "onboard_time": 1740446659,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 119474,
@@ -579,12 +707,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 107401,
+      "num": 106231,
+      "word": "李威妻子被保释",
+      "onboard_time": 1740407064,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107345,
-      "num": 809332,
+      "num": 952126,
       "word": "专家解读中央一号文件亮点",
       "onboard_time": 1740406522,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 106954,
+      "num": 106954,
+      "word": "湖南师大回应教授指责学生娇生惯养",
+      "onboard_time": 1740451998,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104212,
@@ -593,14 +737,6 @@
       "onboard_time": 1740391999,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 101505,
-      "num": 101505,
-      "word": "张婧仪郑恩彩同框合照",
-      "onboard_time": 1740448818,
-      "rank": 44,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 100567,
@@ -619,12 +755,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 99243,
-      "num": 99243,
-      "word": "姿态喊话Doinb",
-      "onboard_time": 1740448878,
-      "rank": 46,
-      "category": "电竞"
+      "raw_hot": 99097,
+      "num": 99097,
+      "word": "去年农民人均可支配收入达23119元",
+      "onboard_time": 1740448759,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 93011,
@@ -633,14 +769,6 @@
       "onboard_time": 1740417973,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 92900,
-      "num": 92900,
-      "word": "去年农民人均可支配收入达23119元",
-      "onboard_time": 1740448759,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 92537,
@@ -811,6 +939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47833,
+      "num": 215198,
+      "word": "俄方要求乌军投降不再加入北约",
+      "onboard_time": 1740451459,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 45894,
       "num": 45894,
       "word": "曝特斯拉准备在华部署FSD",
@@ -841,6 +977,14 @@
       "onboard_time": 1740363800,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 29863,
+      "num": 211232,
+      "word": "年龄越大越容易得带状疱疹",
+      "onboard_time": 1740449418,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 29285,

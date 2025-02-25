@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740448915055,
+  "endTime": 1740452209657,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -171,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1752458,
+      "num": 1752458,
+      "word": "俄方开停战条件",
+      "onboard_time": 1740448998,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1730311,
       "num": 717522,
       "word": "鹿晗关晓彤分手博坚持打卡2694天",
@@ -273,6 +281,14 @@
       "onboard_time": 1740381439,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1449527,
+      "num": 1449527,
+      "word": "旅行青蛙宣布终止运营",
+      "onboard_time": 1740449899,
+      "rank": 1,
+      "category": "游戏"
     },
     {
       "raw_hot": 1435996,
@@ -931,12 +947,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 709690,
+      "num": 709690,
+      "word": "辣目洋子演技",
+      "onboard_time": 1740447619,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 709370,
       "num": 709370,
       "word": "肖战男模机场秀",
       "onboard_time": 1740314662,
       "rank": 46,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 707806,
+      "num": 309290,
+      "word": "曝韩安冉差点被骗到东南亚",
+      "onboard_time": 1740449178,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 705828,
@@ -1163,6 +1195,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 621462,
+      "num": 288556,
+      "word": "上海一女子坐地铁躺地上补觉睡10站",
+      "onboard_time": 1740447858,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 613332,
       "num": 613332,
       "word": "小行星撞地球概率为何一变再变",
@@ -1273,14 +1313,6 @@
       "onboard_time": 1740279259,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 554623,
-      "num": 554623,
-      "word": "辣目洋子演技",
-      "onboard_time": 1740447619,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 549632,
@@ -1473,6 +1505,14 @@
       "onboard_time": 1740387142,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 502408,
+      "num": 502408,
+      "word": "韩国一高速桥梁倒塌致3死5伤",
+      "onboard_time": 1740449299,
+      "rank": 5,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 497100,
@@ -1689,6 +1729,14 @@
       "onboard_time": 1740313642,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 412444,
+      "num": 412444,
+      "word": "马克龙拉住特朗普打断他抱怨",
+      "onboard_time": 1740449058,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 411438,
@@ -2227,6 +2275,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 311917,
+      "num": 270075,
+      "word": "Deepseek给气血不足职场女性建议",
+      "onboard_time": 1740445520,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 311860,
       "num": 311860,
       "word": "考研人数大幅下降考研会更简单吗",
@@ -2403,6 +2459,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 284745,
+      "num": 189734,
+      "word": "怀孕21周时胎儿小脚丫掉了出来",
+      "onboard_time": 1740451758,
+      "rank": 25,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 283509,
       "num": 283509,
       "word": "留几手磨皮磨成胚胎了",
@@ -2507,14 +2571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 270075,
-      "num": 270075,
-      "word": "Deepseek给气血不足职场女性建议",
-      "onboard_time": 1740445520,
-      "rank": 21,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 269535,
       "num": 258333,
       "word": "黄明昊演唱会也没错过杨幂电话",
@@ -2617,6 +2673,14 @@
       "onboard_time": 1740306979,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 253917,
+      "num": 253917,
+      "word": "张婧仪郑恩彩同框合照",
+      "onboard_time": 1740448818,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 253759,
@@ -3003,6 +3067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221635,
+      "num": 221635,
+      "word": "男主用命换女主再活一次",
+      "onboard_time": 1740451279,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221117,
       "num": 241220,
       "word": "撒贝宁王鸥现身福州",
@@ -3083,6 +3155,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 216885,
+      "num": 389230,
+      "word": "宝安机场回应男团插队登机",
+      "onboard_time": 1740451100,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216429,
       "num": 216429,
       "word": "很喜欢用嘿嘿这两个字",
@@ -3153,14 +3233,6 @@
       "onboard_time": 1740373402,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 211426,
-      "num": 211426,
-      "word": "上海一女子坐地铁躺地上补觉睡10站",
-      "onboard_time": 1740447858,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 211364,
@@ -3747,6 +3819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188085,
+      "num": 188085,
+      "word": "哪吒2票房138亿",
+      "onboard_time": 1740446659,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 187922,
       "num": 187922,
       "word": "射雕泰国票房周冠",
@@ -3803,6 +3883,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 185781,
+      "num": 185781,
+      "word": "姿态喊话Doinb",
+      "onboard_time": 1740448878,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 185631,
       "num": 251460,
       "word": "宋丛人设",
@@ -3841,6 +3929,14 @@
       "onboard_time": 1740282378,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184790,
+      "num": 184790,
+      "word": "少女遭欺凌为求解脱被骗沾染毒品",
+      "onboard_time": 1740450017,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 184641,
@@ -4115,6 +4211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173886,
+      "num": 333378,
+      "word": "安理会涉乌决议中美俄均投赞成票",
+      "onboard_time": 1740448218,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 173720,
       "num": 549827,
       "word": "王楚钦4比0胜梁靖崑",
@@ -4385,6 +4489,14 @@
       "onboard_time": 1740305361,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165750,
+      "num": 165750,
+      "word": "理想i8",
+      "onboard_time": 1740451998,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 164745,
@@ -4995,14 +5107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143453,
-      "num": 333378,
-      "word": "安理会涉乌决议中美俄均投赞成票",
-      "onboard_time": 1740448218,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 143396,
       "num": 143396,
       "word": "永远在自救的古偶女主",
@@ -5056,6 +5160,14 @@
       "word": "王曼昱说决赛全力以赴拼莎莎",
       "onboard_time": 1740295820,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 139651,
+      "num": 192165,
+      "word": "王楚钦签名回复粉丝祝福",
+      "onboard_time": 1740450739,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -5131,6 +5243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137134,
+      "num": 137134,
+      "word": "北上",
+      "onboard_time": 1740450617,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136935,
       "num": 187633,
       "word": "王楚钦林昀儒世界级对攻",
@@ -5193,6 +5313,14 @@
       "onboard_time": 1740294258,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 135128,
+      "num": 135128,
+      "word": "俄方愿同美国开展稀土合作",
+      "onboard_time": 1740449178,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 134839,
@@ -5403,6 +5531,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 124629,
+      "num": 185784,
+      "word": "王楚钦赵心童合照",
+      "onboard_time": 1740449719,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124027,
       "num": 124027,
       "word": "5G基站电磁辐射量低于家电",
@@ -5457,14 +5593,6 @@
       "onboard_time": 1740294738,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121903,
-      "num": 121903,
-      "word": "哪吒2票房138亿",
-      "onboard_time": 1740446659,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 121773,
@@ -5811,6 +5939,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 106954,
+      "num": 106954,
+      "word": "湖南师大回应教授指责学生娇生惯养",
+      "onboard_time": 1740451998,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106135,
       "num": 106135,
       "word": "林一去了黄明昊演唱会",
@@ -5891,14 +6027,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 101505,
-      "num": 101505,
-      "word": "张婧仪郑恩彩同框合照",
-      "onboard_time": 1740448818,
-      "rank": 44,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 101198,
       "num": 196484,
       "word": "AG水逆",
@@ -5931,12 +6059,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 99243,
-      "num": 99243,
-      "word": "姿态喊话Doinb",
-      "onboard_time": 1740448878,
-      "rank": 46,
-      "category": "电竞"
+      "raw_hot": 99097,
+      "num": 99097,
+      "word": "去年农民人均可支配收入达23119元",
+      "onboard_time": 1740448759,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 98871,
@@ -5993,14 +6121,6 @@
       "onboard_time": 1740417973,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 92900,
-      "num": 92900,
-      "word": "去年农民人均可支配收入达23119元",
-      "onboard_time": 1740448759,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 90984,
@@ -6747,6 +6867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47833,
+      "num": 215198,
+      "word": "俄方要求乌军投降不再加入北约",
+      "onboard_time": 1740451459,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 46902,
       "num": 155989,
       "word": "徐涛分享考研出分的5点建议",
@@ -7025,6 +7153,14 @@
       "onboard_time": 1740402743,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 29863,
+      "num": 211232,
+      "word": "年龄越大越容易得带状疱疹",
+      "onboard_time": 1740449418,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 29318,
