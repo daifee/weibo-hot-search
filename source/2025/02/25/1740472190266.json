@@ -1,0 +1,410 @@
+{
+  "runTime": 1740472190266,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2298993,
+        "num": 2298993,
+        "word": "鹿晗工作室告黑声明",
+        "onboard_time": 1740469400,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1257282,
+        "num": 1257282,
+        "word": "金价",
+        "onboard_time": 1740464359,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 80816,
+        "num": 1067950,
+        "word": "祖国大地春耕色块明艳动人",
+        "onboard_time": 1740456981,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 970253,
+        "num": 970253,
+        "word": "独身女子病逝房产收归国家",
+        "onboard_time": 1740470062,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 628060,
+        "num": 628060,
+        "word": "复旦大学通报博士后抄袭硕士论文",
+        "onboard_time": 1740464598,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 597106,
+        "num": 597106,
+        "word": "IU美得不知今夕是何年",
+        "onboard_time": 1740468321,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432141,
+        "num": 432141,
+        "word": "权志龙唱中文",
+        "onboard_time": 1740460462,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 425867,
+        "num": 425867,
+        "word": "复旦抄袭论文博士后退站",
+        "onboard_time": 1740466279,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 368838,
+        "num": 368838,
+        "word": "徐娇新剧贵女爆改女帝",
+        "onboard_time": 1740465919,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 337466,
+        "num": 337466,
+        "word": "俄方开停战条件",
+        "onboard_time": 1740448998,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 3217799,
+        "num": 333615,
+        "word": "南师大",
+        "onboard_time": 1740468321,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 907752,
+        "num": 332200,
+        "word": "老伯买震楼器报复楼上结果对方耳背",
+        "onboard_time": 1740468439,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 759921,
+        "num": 331410,
+        "word": "艺考女生136斤减到87斤",
+        "onboard_time": 1740465739,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329718,
+        "num": 329718,
+        "word": "难听",
+        "onboard_time": 1740466700,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 51932,
+        "num": 316303,
+        "word": "学生吐槽放假回校热水费涨成天价",
+        "onboard_time": 1740471081,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66827,
+        "num": 314386,
+        "word": "十个勤天这日子也是好起来了",
+        "onboard_time": 1740468741,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313904,
+        "num": 313904,
+        "word": "恋人重新开机",
+        "onboard_time": 1740471740,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280168,
+        "num": 280168,
+        "word": "张杰谢娜飞机上热聊",
+        "onboard_time": 1740465498,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183701,
+        "num": 280105,
+        "word": "陈鑫海领带给我扯一下",
+        "onboard_time": 1740471921,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128145,
+        "num": 279946,
+        "word": "病人住院把病床睡塌被要求赔1800",
+        "onboard_time": 1740467660,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 487603,
+        "num": 279775,
+        "word": "怀孕21周时胎儿小脚丫掉了出来",
+        "onboard_time": 1740451758,
+        "rank": 20,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 270536,
+        "num": 279566,
+        "word": "韩国消防称2名中国工人遇难",
+        "onboard_time": 1740464661,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 279435,
+        "num": 279435,
+        "word": "大蒜也没想到自己成了咖啡搭子",
+        "onboard_time": 1740466520,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209570,
+        "num": 279014,
+        "word": "鹿晗多平台维权",
+        "onboard_time": 1740472100,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278699,
+        "num": 278699,
+        "word": "邓为回应一年不进组的原因",
+        "onboard_time": 1740470299,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116120,
+        "num": 278345,
+        "word": "村里的大蒜咖啡一年卖7万杯",
+        "onboard_time": 1740471980,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66278,
+        "num": 278284,
+        "word": "最适合粉色的男人出现了",
+        "onboard_time": 1740471320,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119174,
+        "num": 277740,
+        "word": "男子因认为牌友没给暗杠钱争吵去世",
+        "onboard_time": 1740470362,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136916,
+        "num": 277503,
+        "word": "林高远说我们下个赛场见",
+        "onboard_time": 1740471861,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48782,
+        "num": 277215,
+        "word": "教授说文科衰落不分国界",
+        "onboard_time": 1740471620,
+        "rank": 29,
+        "category": "教育,互联网"
+      },
+      {
+        "raw_hot": 276870,
+        "num": 276870,
+        "word": "驾校学员喝了酒去考科目三",
+        "onboard_time": 1740468321,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207729,
+        "num": 207729,
+        "word": "白敬亭被网友截图气笑了",
+        "onboard_time": 1740454942,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218881,
+        "num": 205581,
+        "word": "Yamy演技被李诚儒饶雪漫肯定",
+        "onboard_time": 1740471081,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203303,
+        "num": 203303,
+        "word": "校方回应猫咪尸体被塞进学生课桌",
+        "onboard_time": 1740461360,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200287,
+        "num": 200287,
+        "word": "雷军感谢李想",
+        "onboard_time": 1740468680,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 193520,
+        "num": 193520,
+        "word": "马天宇三人行杀青文",
+        "onboard_time": 1740471620,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191358,
+        "num": 191358,
+        "word": "许昕说乒坛最恐怖的运动员是张怡宁",
+        "onboard_time": 1740461720,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186944,
+        "num": 186944,
+        "word": "权志龙柳智敏双人舞",
+        "onboard_time": 1740464238,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 131206,
+        "num": 181658,
+        "word": "强降雪致日本多地积雪超4米",
+        "onboard_time": 1740468861,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 181029,
+        "num": 181029,
+        "word": "手机锁定状态无法进行碰一下支付",
+        "onboard_time": 1740461000,
+        "rank": 39,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 174454,
+        "num": 174454,
+        "word": "手机NFC功能碰一下钱就没了系摆拍",
+        "onboard_time": 1740460100,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154870,
+        "num": 154870,
+        "word": "上班针灸推拿下班泡面轮滑",
+        "onboard_time": 1740471200,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149297,
+        "num": 149297,
+        "word": "白敬亭多拍女性向",
+        "onboard_time": 1740468200,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147003,
+        "num": 147003,
+        "word": "30万年薪大厂女生改做健身教练",
+        "onboard_time": 1740471501,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143806,
+        "num": 143806,
+        "word": "外国人演我见到肖战",
+        "onboard_time": 1740470720,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143305,
+        "num": 143305,
+        "word": "黄景瑜宣传徐若晗爱你",
+        "onboard_time": 1740467840,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140914,
+        "num": 140914,
+        "word": "迈巴赫车主称车被尊界官方暴力测试",
+        "onboard_time": 1740470601,
+        "rank": 46,
+        "category": "汽车,民生新闻"
+      },
+      {
+        "raw_hot": 138375,
+        "num": 138375,
+        "word": "婚内私赠第三者的财产配偶有权要回",
+        "onboard_time": 1740468982,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131150,
+        "num": 131150,
+        "word": "迪丽热巴开推3粉色芭比造型",
+        "onboard_time": 1740459322,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129202,
+        "num": 129202,
+        "word": "未来五年将有2万座加油站消失",
+        "onboard_time": 1740455000,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄是搬不走的好邻居#"
+    }
+  }
+}

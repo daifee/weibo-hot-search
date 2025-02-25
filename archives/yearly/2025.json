@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1740468936910,
+  "endTime": 1740472190266,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1219,6 +1219,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 3217799,
+      "num": 333615,
+      "word": "南师大",
+      "onboard_time": 1740468321,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 3213583,
       "num": 750746,
       "word": "陈赫回应被鹿晗关晓彤刷屏",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1739108782,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2363990,
-      "num": 298863,
-      "word": "张碧晨晒与女儿合照",
-      "onboard_time": 1739537602,
-      "rank": 15,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
