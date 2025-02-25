@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740487457286,
+  "endTime": 1740488398246,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -105,6 +105,14 @@
       "onboard_time": 1740323303,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2326148,
+      "num": 2326148,
+      "word": "爱奇艺 吃相",
+      "onboard_time": 1740485661,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 2298993,
@@ -233,14 +241,6 @@
       "onboard_time": 1740454339,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1802085,
-      "num": 1802085,
-      "word": "爱奇艺 吃相",
-      "onboard_time": 1740485661,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 1796415,
@@ -579,6 +579,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1121888,
+      "num": 368650,
+      "word": "暂停宋某某一切工作",
+      "onboard_time": 1740479183,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1115563,
       "num": 1115563,
       "word": "医生称DeepSeek有三甲医院专家水平",
@@ -835,14 +843,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 903151,
-      "num": 355103,
-      "word": "暂停宋某某一切工作",
-      "onboard_time": 1740479183,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 902859,
       "num": 902859,
       "word": "英语一我恨你",
@@ -889,6 +889,14 @@
       "onboard_time": 1740365600,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 866400,
+      "num": 866400,
+      "word": "中国男子在日本猥亵女高中生被捕",
+      "onboard_time": 1740486561,
+      "rank": 22,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 861212,
@@ -1652,7 +1660,7 @@
     },
     {
       "raw_hot": 571418,
-      "num": 429516,
+      "num": 539284,
       "word": "刘晓庆毛戈平 友情比爱情更长久",
       "onboard_time": 1740485242,
       "rank": 7,
@@ -1876,7 +1884,7 @@
     },
     {
       "raw_hot": 517181,
-      "num": 287607,
+      "num": 511681,
       "word": "迪丽热巴宣传爱你",
       "onboard_time": 1740484703,
       "rank": 12,
@@ -2067,6 +2075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 465377,
+      "num": 364731,
+      "word": "懂瓜呱被禁言",
+      "onboard_time": 1740486379,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 464805,
       "num": 307995,
       "word": "王子文带儿子和亲友聚餐",
@@ -2155,6 +2171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 443209,
+      "num": 351651,
+      "word": "南京师范大学PPT",
+      "onboard_time": 1740486981,
+      "rank": 34,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 443181,
       "num": 443181,
       "word": "诺如病毒能轻易瘫痪一个公司",
@@ -2169,6 +2193,14 @@
       "onboard_time": 1740480741,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 434127,
+      "num": 347867,
+      "word": "58岁王祖贤现状",
+      "onboard_time": 1740483200,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 433540,
@@ -2587,14 +2619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 358268,
-      "num": 282349,
-      "word": "懂瓜呱被禁言",
-      "onboard_time": 1740486379,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 358029,
       "num": 358029,
       "word": "国企拟录用3名本科生名单被删",
@@ -2713,6 +2737,14 @@
       "onboard_time": 1740285679,
       "rank": 49,
       "category": "民生新闻,电影"
+    },
+    {
+      "raw_hot": 345251,
+      "num": 345251,
+      "word": "孙艺珍43岁状态",
+      "onboard_time": 1740485242,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 344704,
@@ -2883,6 +2915,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 315597,
+      "num": 315597,
+      "word": "张凌赫 现偶",
+      "onboard_time": 1740485721,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 313645,
       "num": 304978,
       "word": "男生用镜头记录女友5年自信蜕变",
@@ -2953,14 +2993,6 @@
       "onboard_time": 1740362059,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 308931,
-      "num": 281618,
-      "word": "孙艺珍43岁状态",
-      "onboard_time": 1740485242,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 308191,
@@ -3049,6 +3081,14 @@
       "onboard_time": 1740461781,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 293146,
+      "num": 293146,
+      "word": "宁艺卓美宝莲",
+      "onboard_time": 1740486741,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 293084,
@@ -3211,6 +3251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 282873,
+      "num": 282873,
+      "word": "百万网红迅猛龙称考研结果很好",
+      "onboard_time": 1740483081,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 282824,
       "num": 677996,
       "word": "蒯曼亚洲杯女单铜牌",
@@ -3259,28 +3307,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 281173,
-      "num": 187067,
-      "word": "张凌赫 现偶",
-      "onboard_time": 1740485721,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 280070,
       "num": 280070,
       "word": "浙江人实现一户一雪人",
       "onboard_time": 1740232045,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 277944,
-      "num": 277944,
-      "word": "中国男子在日本猥亵女高中生被捕",
-      "onboard_time": 1740486561,
-      "rank": 22,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 277517,
@@ -3345,6 +3377,14 @@
       "onboard_time": 1740229222,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 269316,
+      "num": 269316,
+      "word": "白敬亭章若楠发合照了",
+      "onboard_time": 1740487762,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 267861,
@@ -3467,14 +3507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 255404,
-      "num": 255404,
-      "word": "百万网红迅猛龙称考研结果很好",
-      "onboard_time": 1740483081,
-      "rank": 35,
-      "category": "教育"
-    },
-    {
       "raw_hot": 255183,
       "num": 255183,
       "word": "哪吒2放映国家越来越多",
@@ -3499,14 +3531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 251879,
-      "num": 284389,
-      "word": "58岁王祖贤现状",
-      "onboard_time": 1740483200,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 250496,
       "num": 250496,
       "word": "王曼昱使用樊A",
@@ -3521,6 +3545,14 @@
       "onboard_time": 1740484580,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 249426,
+      "num": 249426,
+      "word": "千金归来 有毒",
+      "onboard_time": 1740483981,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 249191,
@@ -3619,6 +3651,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 241414,
+      "num": 295013,
+      "word": "王楚钦说每一次旅程都是一种选择",
+      "onboard_time": 1740486921,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 240853,
       "num": 240853,
       "word": "HLE获得LCK杯冠军",
@@ -3648,14 +3688,6 @@
       "word": "大仓忠义结婚",
       "onboard_time": 1740368903,
       "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 239530,
-      "num": 239530,
-      "word": "宁艺卓美宝莲",
-      "onboard_time": 1740486741,
-      "rank": 29,
       "category": "艺人"
     },
     {
@@ -3857,14 +3889,6 @@
       "onboard_time": 1740478882,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 228495,
-      "num": 228495,
-      "word": "千金归来 有毒",
-      "onboard_time": 1740483981,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 228384,
@@ -4107,6 +4131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 216315,
+      "num": 216315,
+      "word": "桑延战歌",
+      "onboard_time": 1740483860,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216099,
       "num": 216099,
       "word": "少女遭欺凌为求解脱被骗沾染毒品",
@@ -4251,14 +4283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 211311,
-      "num": 211311,
-      "word": "南京师范大学PPT",
-      "onboard_time": 1740486981,
-      "rank": 34,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 211037,
       "num": 228888,
       "word": "美股",
@@ -4329,6 +4353,14 @@
       "onboard_time": 1740402201,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207054,
+      "num": 282276,
+      "word": "气血不足的人就要多出去玩",
+      "onboard_time": 1740481461,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 206451,
@@ -4531,14 +4563,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 200161,
-      "num": 282276,
-      "word": "气血不足的人就要多出去玩",
-      "onboard_time": 1740481461,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 200096,
       "num": 200096,
       "word": "祝绪丹来黄明昊演唱会当站姐",
@@ -4577,14 +4601,6 @@
       "onboard_time": 1740325041,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 198260,
-      "num": 198260,
-      "word": "王楚钦说每一次旅程都是一种选择",
-      "onboard_time": 1740486921,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 198231,
@@ -4641,6 +4657,14 @@
       "onboard_time": 1740371481,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195719,
+      "num": 195719,
+      "word": "许凯染发了",
+      "onboard_time": 1740487641,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 195345,
@@ -5795,6 +5819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164683,
+      "num": 325591,
+      "word": "10万多个网络账号被关闭",
+      "onboard_time": 1740488061,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164553,
       "num": 164553,
       "word": "瑞典乒协威胁莫雷加德参赛",
@@ -5913,14 +5945,6 @@
       "onboard_time": 1740290480,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 161283,
-      "num": 161283,
-      "word": "桑延战歌",
-      "onboard_time": 1740483860,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 161199,
@@ -6635,6 +6659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142309,
+      "num": 142309,
+      "word": "罗秋韵滤镜气血感很足的美",
+      "onboard_time": 1740487762,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142004,
       "num": 142004,
       "word": "滤镜预告",
@@ -6867,6 +6899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133653,
+      "num": 133653,
+      "word": "加大力度处置违法违规MCN机构账号",
+      "onboard_time": 1740488302,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133621,
       "num": 133621,
       "word": "八方来财",
@@ -6913,6 +6953,14 @@
       "onboard_time": 1740390020,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 132403,
+      "num": 132403,
+      "word": "郑润泽护妻",
+      "onboard_time": 1740488359,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 132149,
@@ -7313,6 +7361,14 @@
       "onboard_time": 1740360439,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116315,
+      "num": 199246,
+      "word": "刘宇宁荣获2024微博直播King",
+      "onboard_time": 1740488122,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 116077,
