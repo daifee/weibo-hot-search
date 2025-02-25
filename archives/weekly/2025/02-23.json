@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740454199961,
+  "endTime": 1740455009308,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -667,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 908157,
+      "num": 318246,
+      "word": "怀孕21周时胎儿小脚丫掉了出来",
+      "onboard_time": 1740451758,
+      "rank": 25,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 902859,
       "num": 902859,
       "word": "英语一我恨你",
@@ -713,14 +721,6 @@
       "onboard_time": 1740365600,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 866205,
-      "num": 272717,
-      "word": "怀孕21周时胎儿小脚丫掉了出来",
-      "onboard_time": 1740451758,
-      "rank": 25,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 855289,
@@ -825,6 +825,14 @@
       "onboard_time": 1740365600,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 777593,
+      "num": 358823,
+      "word": "权志龙点赞水原希子韩服照",
+      "onboard_time": 1740453801,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 772029,
@@ -1492,7 +1500,7 @@
     },
     {
       "raw_hot": 517485,
-      "num": 246521,
+      "num": 257443,
       "word": "贵州有分娩记录以来年龄最大产妇",
       "onboard_time": 1740441979,
       "rank": 20,
@@ -1907,6 +1915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 382596,
+      "num": 382596,
+      "word": "李威教唆犯罪录音疑曝光",
+      "onboard_time": 1740454339,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 381961,
       "num": 381961,
       "word": "肖战赴约米兰",
@@ -2064,6 +2080,14 @@
       "word": "陈星旭卢昱晓新剧轧戏开机",
       "onboard_time": 1740363319,
       "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 354174,
+      "num": 354174,
+      "word": "张凌赫人缘",
+      "onboard_time": 1740453321,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -2299,6 +2323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 317021,
+      "num": 317021,
+      "word": "张婧仪G社镜头",
+      "onboard_time": 1740453741,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 313645,
       "num": 304978,
       "word": "男生用镜头记录女友5年自信蜕变",
@@ -2353,6 +2385,14 @@
       "onboard_time": 1740362059,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 308191,
+      "num": 412681,
+      "word": "患者查DeepSeek后质疑医生治疗方案",
+      "onboard_time": 1740452899,
+      "rank": 14,
+      "category": "健康医疗,互联网"
     },
     {
       "raw_hot": 307924,
@@ -2427,14 +2467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 292650,
-      "num": 242992,
-      "word": "权志龙点赞水原希子韩服照",
-      "onboard_time": 1740453801,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 292498,
       "num": 356269,
       "word": "哪吒2票房137亿",
@@ -2505,6 +2537,14 @@
       "onboard_time": 1740308838,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 285146,
+      "num": 285146,
+      "word": "景甜新剧第二世创飞所有人",
+      "onboard_time": 1740453081,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 283509,
@@ -2627,14 +2667,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 268636,
-      "num": 268636,
-      "word": "张婧仪G社镜头",
-      "onboard_time": 1740453741,
-      "rank": 21,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 267861,
       "num": 267861,
       "word": "38岁男子人生三次选择都是新疆",
@@ -2683,20 +2715,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 265429,
-      "num": 265429,
-      "word": "张凌赫人缘",
-      "onboard_time": 1740453321,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 263320,
       "num": 263320,
       "word": "王楚钦提醒对手球台上有汗",
       "onboard_time": 1740237082,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 261647,
+      "num": 341745,
+      "word": "张婧仪 好完美的一颗头",
+      "onboard_time": 1740454280,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 260061,
@@ -2739,6 +2771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257320,
+      "num": 354076,
+      "word": "3岁女儿让妈妈人多的时候向着自己",
+      "onboard_time": 1740452899,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 255183,
       "num": 255183,
       "word": "哪吒2放映国家越来越多",
@@ -2747,12 +2787,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 254043,
-      "num": 295952,
-      "word": "3岁女儿让妈妈人多的时候向着自己",
-      "onboard_time": 1740452899,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 254442,
+      "num": 254442,
+      "word": "旅行青蛙",
+      "onboard_time": 1740454101,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 253759,
@@ -3115,6 +3155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223728,
+      "num": 563241,
+      "word": "普京称俄罗斯稀土储量多于乌克兰",
+      "onboard_time": 1740453801,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 222423,
       "num": 222423,
       "word": "谁给邓为递个武侠本子",
@@ -3307,6 +3355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212677,
+      "num": 212677,
+      "word": "SM新女团IAN疑似陷入霸凌争议",
+      "onboard_time": 1740454642,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211484,
       "num": 495874,
       "word": "欧洲内部对俄态度出现分裂",
@@ -3321,14 +3377,6 @@
       "onboard_time": 1740375142,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 211313,
-      "num": 211313,
-      "word": "景甜新剧第二世创飞所有人",
-      "onboard_time": 1740453081,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 211037,
@@ -3457,6 +3505,14 @@
       "onboard_time": 1740387621,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204788,
+      "num": 204788,
+      "word": "爱你开播",
+      "onboard_time": 1740454280,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 204342,
@@ -4019,6 +4075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184851,
+      "num": 184851,
+      "word": "旅行青蛙停运只涉及vivo渠道",
+      "onboard_time": 1740454461,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 184847,
       "num": 184847,
       "word": "朱志鑫女装",
@@ -4188,7 +4252,7 @@
     },
     {
       "raw_hot": 177425,
-      "num": 260058,
+      "num": 276789,
       "word": "王楚钦偷师邱贻可青蛙跳",
       "onboard_time": 1740453199,
       "rank": 27,
@@ -4369,14 +4433,6 @@
       "onboard_time": 1740304640,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 171117,
-      "num": 171117,
-      "word": "旅行青蛙",
-      "onboard_time": 1740454101,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 171058,
@@ -4931,12 +4987,28 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 152216,
+      "num": 152216,
+      "word": "白敬亭被网友截图气笑了",
+      "onboard_time": 1740454942,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152025,
       "num": 152025,
       "word": "六姊妹母亲可以不完美",
       "onboard_time": 1740298879,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151982,
+      "num": 283041,
+      "word": "小伙裸眼铅笔芯上复刻哪吒",
+      "onboard_time": 1740452721,
+      "rank": 38,
+      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 151917,
@@ -5041,14 +5113,6 @@
       "onboard_time": 1740375502,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 148939,
-      "num": 255554,
-      "word": "小伙裸眼铅笔芯上复刻哪吒",
-      "onboard_time": 1740452721,
-      "rank": 38,
-      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 148786,
@@ -5563,6 +5627,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 129959,
+      "num": 129959,
+      "word": "波士顿动力已购买宇树机器人",
+      "onboard_time": 1740454942,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 129892,
       "num": 129892,
       "word": "专家建议提高个税免征额至6000元",
@@ -5803,6 +5875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117113,
+      "num": 127942,
+      "word": "马航MH370新一轮搜索重启",
+      "onboard_time": 1740454280,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 116981,
       "num": 116981,
       "word": "警方提醒不要随便下载APP",
@@ -5985,14 +6065,6 @@
       "onboard_time": 1740298699,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 111004,
-      "num": 563241,
-      "word": "普京称俄罗斯稀土储量多于乌克兰",
-      "onboard_time": 1740453801,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 110960,
@@ -6427,12 +6499,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 82268,
-      "num": 412681,
-      "word": "患者查DeepSeek后质疑医生治疗方案",
-      "onboard_time": 1740452899,
-      "rank": 14,
-      "category": "健康医疗,互联网"
+      "raw_hot": 81853,
+      "num": 252929,
+      "word": "特朗普称泽连斯基将赴美签矿产协议",
+      "onboard_time": 1740453018,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 81807,
@@ -6601,6 +6673,14 @@
       "onboard_time": 1740390500,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70875,
+      "num": 268788,
+      "word": "胡兵伦敦安利中国设计师",
+      "onboard_time": 1740454580,
+      "rank": 29,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 70307,
@@ -6825,6 +6905,14 @@
       "onboard_time": 1740397879,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56977,
+      "num": 318386,
+      "word": "欧盟不满美国涉俄乌冲突表态",
+      "onboard_time": 1740454220,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 56878,
@@ -7171,14 +7259,6 @@
       "category": "动漫,财经"
     },
     {
-      "raw_hot": 38497,
-      "num": 252929,
-      "word": "特朗普称泽连斯基将赴美签矿产协议",
-      "onboard_time": 1740453018,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 37839,
       "num": 194601,
       "word": "网红罗大美妹妹称罪犯求生欲望很强",
@@ -7313,6 +7393,14 @@
       "onboard_time": 1740402743,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 30781,
+      "num": 339006,
+      "word": "哪吒2连续两周北美票房榜前5",
+      "onboard_time": 1740454700,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 29863,

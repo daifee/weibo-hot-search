@@ -1,6 +1,6 @@
 {
   "startTime": 1740414610412,
-  "endTime": 1740454199961,
+  "endTime": 1740455009308,
   "band_list": [
     {
       "raw_hot": 2114020,
@@ -75,6 +75,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 908157,
+      "num": 318246,
+      "word": "怀孕21周时胎儿小脚丫掉了出来",
+      "onboard_time": 1740451758,
+      "rank": 25,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 896881,
       "num": 382306,
       "word": "千金归来",
@@ -83,20 +91,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 866205,
-      "num": 272717,
-      "word": "怀孕21周时胎儿小脚丫掉了出来",
-      "onboard_time": 1740451758,
-      "rank": 25,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 810306,
       "num": 810306,
       "word": "理想i8",
       "onboard_time": 1740451998,
       "rank": 35,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 777593,
+      "num": 358823,
+      "word": "权志龙点赞水原希子韩服照",
+      "onboard_time": 1740453801,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 767263,
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 517485,
-      "num": 246521,
+      "num": 257443,
       "word": "贵州有分娩记录以来年龄最大产妇",
       "onboard_time": 1740441979,
       "rank": 20,
@@ -243,6 +251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 382596,
+      "num": 382596,
+      "word": "李威教唆犯罪录音疑曝光",
+      "onboard_time": 1740454339,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 370169,
       "num": 221126,
       "word": "哪吒票房",
@@ -257,6 +273,14 @@
       "onboard_time": 1740405322,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 354174,
+      "num": 354174,
+      "word": "张凌赫人缘",
+      "onboard_time": 1740453321,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 349102,
@@ -275,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 317021,
+      "num": 317021,
+      "word": "张婧仪G社镜头",
+      "onboard_time": 1740453741,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 311917,
       "num": 270075,
       "word": "Deepseek给气血不足职场女性建议",
@@ -283,12 +315,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 292650,
-      "num": 242992,
-      "word": "权志龙点赞水原希子韩服照",
-      "onboard_time": 1740453801,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 308191,
+      "num": 412681,
+      "word": "患者查DeepSeek后质疑医生治疗方案",
+      "onboard_time": 1740452899,
+      "rank": 14,
+      "category": "健康医疗,互联网"
+    },
+    {
+      "raw_hot": 285146,
+      "num": 285146,
+      "word": "景甜新剧第二世创飞所有人",
+      "onboard_time": 1740453081,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 275597,
@@ -307,14 +347,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 268636,
-      "num": 268636,
-      "word": "张婧仪G社镜头",
-      "onboard_time": 1740453741,
-      "rank": 21,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 267239,
       "num": 267239,
       "word": "张婧仪郑恩彩同框合照",
@@ -323,20 +355,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 265429,
-      "num": 265429,
-      "word": "张凌赫人缘",
-      "onboard_time": 1740453321,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 264143,
       "num": 264143,
       "word": "西北大学回应贾浅浅更改简历",
       "onboard_time": 1740410120,
       "rank": 8,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 261647,
+      "num": 341745,
+      "word": "张婧仪 好完美的一颗头",
+      "onboard_time": 1740454280,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 259875,
@@ -355,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 257320,
+      "num": 354076,
+      "word": "3岁女儿让妈妈人多的时候向着自己",
+      "onboard_time": 1740452899,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 254865,
       "num": 220964,
       "word": "Loong9回应插队登机",
@@ -363,12 +403,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 254043,
-      "num": 295952,
-      "word": "3岁女儿让妈妈人多的时候向着自己",
-      "onboard_time": 1740452899,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 254442,
+      "num": 254442,
+      "word": "旅行青蛙",
+      "onboard_time": 1740454101,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 242335,
@@ -393,6 +433,14 @@
       "onboard_time": 1740393739,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 223728,
+      "num": 563241,
+      "word": "普京称俄罗斯稀土储量多于乌克兰",
+      "onboard_time": 1740453801,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 221693,
@@ -435,19 +483,19 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 212677,
+      "num": 212677,
+      "word": "SM新女团IAN疑似陷入霸凌争议",
+      "onboard_time": 1740454642,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212293,
       "num": 163713,
       "word": "六姊妹大结局",
       "onboard_time": 1740404062,
       "rank": 20,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 211313,
-      "num": 211313,
-      "word": "景甜新剧第二世创飞所有人",
-      "onboard_time": 1740453081,
-      "rank": 34,
       "category": "剧集"
     },
     {
@@ -465,6 +513,14 @@
       "onboard_time": 1740445520,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 204788,
+      "num": 204788,
+      "word": "爱你开播",
+      "onboard_time": 1740454280,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 202787,
@@ -523,6 +579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 184851,
+      "num": 184851,
+      "word": "旅行青蛙停运只涉及vivo渠道",
+      "onboard_time": 1740454461,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 179249,
       "num": 179249,
       "word": "丁程鑫 严严",
@@ -532,7 +596,7 @@
     },
     {
       "raw_hot": 177425,
-      "num": 260058,
+      "num": 276789,
       "word": "王楚钦偷师邱贻可青蛙跳",
       "onboard_time": 1740453199,
       "rank": 27,
@@ -545,14 +609,6 @@
       "onboard_time": 1740448218,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 171117,
-      "num": 171117,
-      "word": "旅行青蛙",
-      "onboard_time": 1740454101,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 163493,
@@ -595,6 +651,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152216,
+      "num": 152216,
+      "word": "白敬亭被网友截图气笑了",
+      "onboard_time": 1740454942,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 151982,
+      "num": 283041,
+      "word": "小伙裸眼铅笔芯上复刻哪吒",
+      "onboard_time": 1740452721,
+      "rank": 38,
+      "category": "民生新闻,电影"
+    },
+    {
       "raw_hot": 151342,
       "num": 151342,
       "word": "湖北师大回应录用初中学历人员",
@@ -617,14 +689,6 @@
       "onboard_time": 1740451459,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 148939,
-      "num": 255554,
-      "word": "小伙裸眼铅笔芯上复刻哪吒",
-      "onboard_time": 1740452721,
-      "rank": 38,
-      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 146755,
@@ -691,6 +755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 129959,
+      "num": 129959,
+      "word": "波士顿动力已购买宇树机器人",
+      "onboard_time": 1740454942,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 129892,
       "num": 129892,
       "word": "专家建议提高个税免征额至6000元",
@@ -745,6 +817,14 @@
       "onboard_time": 1740422891,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117113,
+      "num": 127942,
+      "word": "马航MH370新一轮搜索重启",
+      "onboard_time": 1740454280,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 116123,
@@ -809,14 +889,6 @@
       "onboard_time": 1740413237,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 111004,
-      "num": 563241,
-      "word": "普京称俄罗斯稀土储量多于乌克兰",
-      "onboard_time": 1740453801,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 110960,
@@ -979,20 +1051,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 82268,
-      "num": 412681,
-      "word": "患者查DeepSeek后质疑医生治疗方案",
-      "onboard_time": 1740452899,
-      "rank": 14,
-      "category": "健康医疗,互联网"
-    },
-    {
       "raw_hot": 82014,
       "num": 82014,
       "word": "女子在公司微信群看到自己被裁员",
       "onboard_time": 1740390380,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81853,
+      "num": 252929,
+      "word": "特朗普称泽连斯基将赴美签矿产协议",
+      "onboard_time": 1740453018,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 73884,
@@ -1017,6 +1089,14 @@
       "onboard_time": 1740408981,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70875,
+      "num": 268788,
+      "word": "胡兵伦敦安利中国设计师",
+      "onboard_time": 1740454580,
+      "rank": 29,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 70322,
@@ -1083,6 +1163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 56977,
+      "num": 318386,
+      "word": "欧盟不满美国涉俄乌冲突表态",
+      "onboard_time": 1740454220,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 52315,
       "num": 66046,
       "word": "因为爱聊天获诺贝尔一直讲",
@@ -1107,14 +1195,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 38497,
-      "num": 252929,
-      "word": "特朗普称泽连斯基将赴美签矿产协议",
-      "onboard_time": 1740453018,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 37839,
       "num": 194601,
       "word": "网红罗大美妹妹称罪犯求生欲望很强",
@@ -1129,6 +1209,14 @@
       "onboard_time": 1740411081,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 30781,
+      "num": 339006,
+      "word": "哪吒2连续两周北美票房榜前5",
+      "onboard_time": 1740454700,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 30051,
