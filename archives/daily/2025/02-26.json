@@ -1,6 +1,6 @@
 {
   "startTime": 1740500996613,
-  "endTime": 1740525709698,
+  "endTime": 1740526550530,
   "band_list": [
     {
       "raw_hot": 1334843,
@@ -35,6 +35,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 763681,
+      "num": 204106,
+      "word": "网红迅猛龙特蕾莎停播三个月备考",
+      "onboard_time": 1740523634,
+      "rank": 30,
+      "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 749021,
+      "num": 749021,
+      "word": "老人去世130万分堂弟1套房收归国有",
+      "onboard_time": 1740506892,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 727774,
       "num": 266620,
       "word": "CEO会换但肖战的座位不会换",
@@ -51,15 +67,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 685953,
-      "num": 685953,
-      "word": "老人去世130万分堂弟1套房收归国有",
-      "onboard_time": 1740506892,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 518887,
+      "raw_hot": 521898,
       "num": 265278,
       "word": "为保胎妈妈以臀高位姿势卧床1个月",
       "onboard_time": 1740493822,
@@ -115,14 +123,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 328197,
-      "num": 67503,
-      "word": "网红迅猛龙特蕾莎停播三个月备考",
-      "onboard_time": 1740523634,
-      "rank": 30,
-      "category": "民生新闻,艺人"
-    },
-    {
       "raw_hot": 316689,
       "num": 215310,
       "word": "鹿晗工作室告黑声明",
@@ -163,6 +163,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 240927,
+      "num": 240927,
+      "word": "官方回应4人烧秸秆被烟闷身亡",
+      "onboard_time": 1740498799,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239772,
       "num": 165296,
       "word": "偷偷藏着哄",
@@ -177,14 +185,6 @@
       "onboard_time": 1740497300,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 219632,
-      "num": 219632,
-      "word": "官方回应4人烧秸秆被烟闷身亡",
-      "onboard_time": 1740498799,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 215065,
@@ -219,8 +219,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198251,
+      "num": 198251,
+      "word": "四六级成绩",
+      "onboard_time": 1740526218,
+      "rank": 21,
+      "category": "教育"
+    },
+    {
       "raw_hot": 190066,
-      "num": 190066,
+      "num": 198317,
       "word": "四级",
       "onboard_time": 1740525013,
       "rank": 8,
@@ -236,7 +244,7 @@
     },
     {
       "raw_hot": 167719,
-      "num": 167719,
+      "num": 198979,
       "word": "温以凡把桑延钓成翘嘴了",
       "onboard_time": 1740498499,
       "rank": 24,
@@ -257,6 +265,14 @@
       "onboard_time": 1740495803,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135063,
+      "num": 200212,
+      "word": "春风十里不如你",
+      "onboard_time": 1740505814,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 130043,
@@ -307,14 +323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 106781,
-      "num": 160687,
-      "word": "春风十里不如你",
-      "onboard_time": 1740505814,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 102896,
       "num": 102896,
       "word": "在被檀健次笑抽和帅晕中横跳",
@@ -331,6 +339,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 100370,
+      "num": 100370,
+      "word": "58岁王祖贤现状",
+      "onboard_time": 1740483200,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 98852,
+      "num": 98852,
+      "word": "中方敦促加方立即撤销错误决定",
+      "onboard_time": 1740522253,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 98802,
       "num": 98802,
       "word": "与凤行重映预告",
@@ -345,14 +369,6 @@
       "onboard_time": 1740498560,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 94371,
-      "num": 94371,
-      "word": "58岁王祖贤现状",
-      "onboard_time": 1740483200,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 92504,
@@ -387,6 +403,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 83200,
+      "num": 83200,
+      "word": "乌大部分最具价值矿藏已归入俄罗斯",
+      "onboard_time": 1740496042,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 82716,
+      "num": 85783,
+      "word": "爱你 好看",
+      "onboard_time": 1740507673,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 82222,
       "num": 82222,
       "word": "龙骨焚箱",
@@ -395,12 +427,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 78797,
-      "num": 78797,
-      "word": "乌大部分最具价值矿藏已归入俄罗斯",
-      "onboard_time": 1740496042,
-      "rank": 41,
-      "category": "国际时政"
+      "raw_hot": 80545,
+      "num": 80545,
+      "word": "DeepSeek",
+      "onboard_time": 1740507072,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 78462,
+      "num": 78462,
+      "word": "四六级明天查分",
+      "onboard_time": 1740466818,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 77498,
@@ -409,6 +449,14 @@
       "onboard_time": 1740473181,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 77021,
+      "num": 77021,
+      "word": "虞书欣给张凌赫宣传爱你",
+      "onboard_time": 1740514991,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 76301,
@@ -425,22 +473,6 @@
       "onboard_time": 1740485242,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 72842,
-      "num": 72842,
-      "word": "中方敦促加方立即撤销错误决定",
-      "onboard_time": 1740522253,
-      "rank": 47,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 72067,
-      "num": 72067,
-      "word": "爱你 好看",
-      "onboard_time": 1740507673,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 71147,
@@ -467,14 +499,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 67759,
-      "num": 67759,
-      "word": "虞书欣给张凌赫宣传爱你",
-      "onboard_time": 1740514991,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 60726,
       "num": 67054,
       "word": "大衣哥说搬家到哪都可能被找到",
@@ -483,20 +507,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 56938,
-      "num": 56938,
-      "word": "DeepSeek",
-      "onboard_time": 1740507072,
-      "rank": 25,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 56873,
-      "num": 56873,
+      "raw_hot": 60613,
+      "num": 60613,
       "word": "谢霆锋喂外甥女吃饭",
       "onboard_time": 1740518651,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 54337,
+      "num": 85939,
+      "word": "李武军说深圳亚洲杯创造乒乓球界神话",
+      "onboard_time": 1740525013,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 52107,
@@ -507,28 +531,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 45158,
+      "raw_hot": 51080,
+      "num": 51080,
+      "word": "无遗嘱无法定继承人的遗产该归谁",
+      "onboard_time": 1740506652,
+      "rank": 24,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 49962,
       "num": 106006,
       "word": "老外成了我的互联网嘴替",
       "onboard_time": 1740522312,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 42460,
-      "num": 85939,
-      "word": "李武军说深圳亚洲杯创造乒乓球界神话",
-      "onboard_time": 1740525013,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 35100,
-      "num": 50568,
-      "word": "无遗嘱无法定继承人的遗产该归谁",
-      "onboard_time": 1740506652,
-      "rank": 24,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 32478,
@@ -571,11 +587,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29206,
+      "num": 206700,
+      "word": "特朗普称基本与乌达成矿产协议",
+      "onboard_time": 1740526097,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 28099,
+      "num": 200539,
+      "word": "万吨大驱太平洋海域开炮现场视频",
+      "onboard_time": 1740526276,
+      "rank": 17,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 25848,
       "num": 50713,
       "word": "潘宏关联企业已被重点审查",
       "onboard_time": 1740501435,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25628,
+      "num": 189736,
+      "word": "守护校园舌尖上的安全",
+      "onboard_time": 1740525077,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -673,14 +713,6 @@
       "onboard_time": 1740509052,
       "rank": 38,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 14397,
-      "num": 189736,
-      "word": "守护校园舌尖上的安全",
-      "onboard_time": 1740525077,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12443,
