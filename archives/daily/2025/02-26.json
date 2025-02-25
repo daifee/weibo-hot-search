@@ -1,6 +1,6 @@
 {
   "startTime": 1740500996613,
-  "endTime": 1740518504630,
+  "endTime": 1740519361801,
   "band_list": [
     {
       "raw_hot": 1334843,
@@ -499,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26885,
+      "num": 26885,
+      "word": "虞书欣给张凌赫宣传爱你",
+      "onboard_time": 1740514991,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 25971,
       "num": 40640,
       "word": "无遗嘱无法定继承人的遗产该归谁",
@@ -529,14 +537,6 @@
       "onboard_time": 1740507913,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 24361,
-      "num": 25352,
-      "word": "虞书欣给张凌赫宣传爱你",
-      "onboard_time": 1740514991,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 24211,
@@ -595,12 +595,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 14132,
+      "raw_hot": 14139,
       "num": 17228,
       "word": "我国研制出船舶心脏中的巨无霸",
       "onboard_time": 1740515780,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12905,
+      "num": 15372,
+      "word": "谢霆锋喂外甥女吃饭",
+      "onboard_time": 1740518651,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 12443,
@@ -624,6 +632,14 @@
       "word": "湖南通报沅陵县两船相撞事故情况",
       "onboard_time": 1740515051,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9270,
+      "num": 37545,
+      "word": "第一视角沉浸式体验实投手榴弹",
+      "onboard_time": 1740518711,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
