@@ -1,0 +1,410 @@
+{
+  "runTime": 1740483358918,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1956057,
+        "num": 1956057,
+        "word": "王楚钦LV品牌大使",
+        "onboard_time": 1740482001,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1696511,
+        "num": 1696511,
+        "word": "南京师范大学宋某某被免职",
+        "onboard_time": 1740477561,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22158,
+        "num": 695285,
+        "word": "祖国大地春耕色块明艳动人",
+        "onboard_time": 1740456981,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 645339,
+        "num": 645339,
+        "word": "演员李威可能面临无期徒刑或死刑",
+        "onboard_time": 1740477200,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464419,
+        "num": 464419,
+        "word": "母女10年流水3000万拒付73万赔偿款",
+        "onboard_time": 1740478581,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 422294,
+        "num": 422294,
+        "word": "杨幂谈胳膊钙化",
+        "onboard_time": 1740477324,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397134,
+        "num": 397134,
+        "word": "何炅这么多年了还是没放过鬼鬼",
+        "onboard_time": 1740473181,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367741,
+        "num": 367741,
+        "word": "爱你",
+        "onboard_time": 1740482901,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 347153,
+        "num": 347153,
+        "word": "独身女子病逝房产收归国家",
+        "onboard_time": 1740470062,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218352,
+        "num": 344186,
+        "word": "诺如病毒能轻易瘫痪一个公司",
+        "onboard_time": 1740479242,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2340652,
+        "num": 344134,
+        "word": "关晓彤回应近日状态",
+        "onboard_time": 1740477561,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1504810,
+        "num": 344079,
+        "word": "南师大",
+        "onboard_time": 1740468321,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 344012,
+        "num": 344012,
+        "word": "千金归来只剩千金",
+        "onboard_time": 1740480741,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 845795,
+        "num": 343103,
+        "word": "南京师范大学发布情况通报",
+        "onboard_time": 1740478820,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45796,
+        "num": 342500,
+        "word": "台民众开始咨询如何到大陆看哪吒2",
+        "onboard_time": 1740481702,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 614119,
+        "num": 341545,
+        "word": "男子举报南师大博士女友出轨导师",
+        "onboard_time": 1740475041,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 536190,
+        "num": 339749,
+        "word": "湖南师范大学",
+        "onboard_time": 1740477079,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 472947,
+        "num": 338540,
+        "word": "艺考女生136斤减到87斤",
+        "onboard_time": 1740465739,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364985,
+        "num": 337812,
+        "word": "暂停宋某某一切工作",
+        "onboard_time": 1740479183,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12706,
+        "num": 336566,
+        "word": "网友澳门偶遇白敬亭",
+        "onboard_time": 1740482840,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1125940,
+        "num": 336025,
+        "word": "鹿晗关晓彤名下并无商业关联",
+        "onboard_time": 1740475220,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335250,
+        "num": 335250,
+        "word": "丈夫将刚出生女儿送人谎称没气息",
+        "onboard_time": 1740476661,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330848,
+        "num": 330848,
+        "word": "陈妍希方辟谣",
+        "onboard_time": 1740479540,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322550,
+        "num": 322550,
+        "word": "怀孕21周时胎儿小脚丫掉了出来",
+        "onboard_time": 1740451758,
+        "rank": 23,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 75923,
+        "num": 312394,
+        "word": "第五人格",
+        "onboard_time": 1740475821,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 700628,
+        "num": 311574,
+        "word": "鹿晗工作室告黑声明",
+        "onboard_time": 1740469400,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309643,
+        "num": 309643,
+        "word": "徐若晗朋友圈",
+        "onboard_time": 1740477324,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306809,
+        "num": 306809,
+        "word": "饶雪漫说赵樱子已经很红了",
+        "onboard_time": 1740481882,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290992,
+        "num": 290992,
+        "word": "迪丽热巴 看得出她是公主",
+        "onboard_time": 1740480621,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190111,
+        "num": 282299,
+        "word": "男子照顾同村老人12年继承5套房",
+        "onboard_time": 1740482240,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275184,
+        "num": 275184,
+        "word": "虞书欣偶遇张凌赫正在出诊",
+        "onboard_time": 1740476300,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199913,
+        "num": 199913,
+        "word": "脆薯饼下班",
+        "onboard_time": 1740479660,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 197441,
+        "num": 197441,
+        "word": "气血不足的人就要多出去玩",
+        "onboard_time": 1740481461,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 194413,
+        "num": 194413,
+        "word": "湖南卫视团建欢迎华晨宇回家",
+        "onboard_time": 1740482722,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192697,
+        "num": 192697,
+        "word": "26岁低能量不自律女孩如何度过一天",
+        "onboard_time": 1740480921,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184401,
+        "num": 184401,
+        "word": "百万网红迅猛龙称考研结果很好",
+        "onboard_time": 1740483081,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 183185,
+        "num": 183185,
+        "word": "王祖贤开艾灸馆",
+        "onboard_time": 1740476360,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166393,
+        "num": 166393,
+        "word": "26岁清华博士上演学术级婚礼滚床",
+        "onboard_time": 1740479242,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165046,
+        "num": 165046,
+        "word": "虞书欣偶遇一位好像羽公子的何医生",
+        "onboard_time": 1740475461,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161715,
+        "num": 161715,
+        "word": "专家预测金价走势",
+        "onboard_time": 1740482421,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 160063,
+        "num": 160063,
+        "word": "邓为回应一年不进组的原因",
+        "onboard_time": 1740470299,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156906,
+        "num": 156906,
+        "word": "李栋旭踩箱子和李光洙拍摄",
+        "onboard_time": 1740480501,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150973,
+        "num": 150973,
+        "word": "特朗普加大对中国芯片限制",
+        "onboard_time": 1740477141,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146674,
+        "num": 146674,
+        "word": "爱你的男人会自己攻略自己",
+        "onboard_time": 1740482061,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141967,
+        "num": 141967,
+        "word": "李现韩国到达",
+        "onboard_time": 1740481281,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138488,
+        "num": 138488,
+        "word": "58岁王祖贤现状",
+        "onboard_time": 1740483200,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135123,
+        "num": 135123,
+        "word": "孟子义米兰时装周",
+        "onboard_time": 1740483141,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 128448,
+        "num": 128448,
+        "word": "大蒜也没想到自己成了咖啡搭子",
+        "onboard_time": 1740466520,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122313,
+        "num": 122313,
+        "word": "IU美得不知今夕是何年",
+        "onboard_time": 1740468321,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120328,
+        "num": 120328,
+        "word": "俄媒披露美乌矿产协议内容细节",
+        "onboard_time": 1740480862,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄是搬不走的好邻居#"
+    }
+  }
+}
