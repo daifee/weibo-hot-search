@@ -1,0 +1,410 @@
+{
+  "runTime": 1740468138483,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1013262,
+        "num": 1162122,
+        "word": "复旦大学通报博士后抄袭硕士论文",
+        "onboard_time": 1740464598,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 824371,
+        "num": 824371,
+        "word": "金价",
+        "onboard_time": 1740464359,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 34107,
+        "num": 699479,
+        "word": "祖国大地春耕色块明艳动人",
+        "onboard_time": 1740456981,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 664972,
+        "num": 664972,
+        "word": "徐娇新剧贵女爆改女帝",
+        "onboard_time": 1740465919,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 591264,
+        "num": 591264,
+        "word": "俄方开停战条件",
+        "onboard_time": 1740448998,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 568890,
+        "num": 568890,
+        "word": "权志龙唱中文",
+        "onboard_time": 1740460462,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 537383,
+        "num": 537383,
+        "word": "韩国消防称2名中国工人遇难",
+        "onboard_time": 1740464661,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 419103,
+        "num": 419103,
+        "word": "许昕说乒坛最恐怖的运动员是张怡宁",
+        "onboard_time": 1740461720,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 316164,
+        "num": 413452,
+        "word": "白敬亭被网友截图气笑了",
+        "onboard_time": 1740454942,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152061,
+        "num": 411125,
+        "word": "大蒜也没想到自己成了咖啡搭子",
+        "onboard_time": 1740466520,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1190466,
+        "num": 411117,
+        "word": "艺考女生136斤减到87斤",
+        "onboard_time": 1740465739,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 410225,
+        "num": 410225,
+        "word": "张杰谢娜飞机上热聊",
+        "onboard_time": 1740465498,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401566,
+        "num": 401566,
+        "word": "权志龙柳智敏双人舞",
+        "onboard_time": 1740464238,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 374225,
+        "num": 374225,
+        "word": "陈妍希1月份还戴着婚戒",
+        "onboard_time": 1740461481,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312707,
+        "num": 312707,
+        "word": "手机NFC功能碰一下钱就没了系摆拍",
+        "onboard_time": 1740460100,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 457870,
+        "num": 312335,
+        "word": "校方回应猫咪尸体被塞进学生课桌",
+        "onboard_time": 1740461360,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309690,
+        "num": 309690,
+        "word": "手机锁定状态无法进行碰一下支付",
+        "onboard_time": 1740461000,
+        "rank": 16,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 299514,
+        "num": 299514,
+        "word": "难听",
+        "onboard_time": 1740466700,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 232981,
+        "num": 270379,
+        "word": "金靖 昨天何医生又给我把脉了",
+        "onboard_time": 1740456141,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54380,
+        "num": 253180,
+        "word": "偶像男团插队登机合理吗",
+        "onboard_time": 1740467121,
+        "rank": 19,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 417072,
+        "num": 252721,
+        "word": "怀孕21周时胎儿小脚丫掉了出来",
+        "onboard_time": 1740451758,
+        "rank": 20,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 250294,
+        "num": 250294,
+        "word": "复旦抄袭论文博士后退站",
+        "onboard_time": 1740466279,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220822,
+        "num": 220822,
+        "word": "李威教唆犯罪录音疑曝光",
+        "onboard_time": 1740454339,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209007,
+        "num": 209007,
+        "word": "孙丞潇自曝焦虑到要吃药",
+        "onboard_time": 1740461900,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29684,
+        "num": 198354,
+        "word": "多方回应学校要求学生提交消费明细",
+        "onboard_time": 1740467900,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198181,
+        "num": 198181,
+        "word": "这居然是钟丽丽",
+        "onboard_time": 1740459202,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43105,
+        "num": 195521,
+        "word": "这些人群不建议早起喝蜂蜜水",
+        "onboard_time": 1740467180,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 25297,
+        "num": 193393,
+        "word": "负责人称墩子在后厨撒尿系误会",
+        "onboard_time": 1740467359,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192866,
+        "num": 192866,
+        "word": "四六级明天查分",
+        "onboard_time": 1740466818,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 84594,
+        "num": 189636,
+        "word": "梁靖崑带偏王楚钦林诗栋",
+        "onboard_time": 1740467840,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48610,
+        "num": 187643,
+        "word": "易孕体质的说法科学吗",
+        "onboard_time": 1740467962,
+        "rank": 30,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 209795,
+        "num": 182360,
+        "word": "迪丽热巴开推3粉色芭比造型",
+        "onboard_time": 1740459322,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202777,
+        "num": 177608,
+        "word": "老人再就业简历含金量有多高",
+        "onboard_time": 1740455661,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59735,
+        "num": 170039,
+        "word": "王楚钦距离世界第一仅差100分",
+        "onboard_time": 1740462859,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168310,
+        "num": 168310,
+        "word": "难哄 单更",
+        "onboard_time": 1740461781,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152508,
+        "num": 152508,
+        "word": "理想i8",
+        "onboard_time": 1740451998,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 150640,
+        "num": 150640,
+        "word": "马航MH370新一轮搜索重启",
+        "onboard_time": 1740454280,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 147997,
+        "num": 147997,
+        "word": "肖战米兰氛围感路透",
+        "onboard_time": 1740465860,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 147164,
+        "num": 147164,
+        "word": "张凌赫又给金靖把脉了",
+        "onboard_time": 1740463638,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146724,
+        "num": 146724,
+        "word": "拉粪三轮车逆行泼小车一车",
+        "onboard_time": 1740462379,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133004,
+        "num": 133004,
+        "word": "DeepSeek评以为很卫生实际巨脏的行为",
+        "onboard_time": 1740444380,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 130144,
+        "num": 130144,
+        "word": "黄景瑜宣传徐若晗爱你",
+        "onboard_time": 1740467840,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126694,
+        "num": 126694,
+        "word": "北京警方抓获一名演员",
+        "onboard_time": 1740444380,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118743,
+        "num": 118743,
+        "word": "这次桐华给了相柳没有遗憾的人生",
+        "onboard_time": 1740461961,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114413,
+        "num": 114413,
+        "word": "旅行青蛙",
+        "onboard_time": 1740454101,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 87506,
+        "num": 113075,
+        "word": "疾控回应网友网购土拨鼠",
+        "onboard_time": 1740466100,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112349,
+        "num": 112349,
+        "word": "未来五年将有2万座加油站消失",
+        "onboard_time": 1740455000,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 111858,
+        "num": 111858,
+        "word": "捐赠日军侵华照片法国小伙回应质疑",
+        "onboard_time": 1740463638,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110992,
+        "num": 110992,
+        "word": "祁煜玻璃同一侧",
+        "onboard_time": 1740468021,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 101233,
+        "num": 101233,
+        "word": "她抱着必死的决心走向了结局",
+        "onboard_time": 1740465080,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中俄是搬不走的好邻居#"
+    }
+  }
+}
