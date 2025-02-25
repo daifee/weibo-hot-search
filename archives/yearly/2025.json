@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1740480153274,
+  "endTime": 1740482384482,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1091,6 +1091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3422281,
+      "num": 384094,
+      "word": "曝导演马进强奸被判刑",
+      "onboard_time": 1740480621,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3421929,
       "num": 610786,
       "word": "日本导游曝光大S去世全过程",
@@ -1547,19 +1555,19 @@
       "category": "电影"
     },
     {
+      "raw_hot": 2960141,
+      "num": 719137,
+      "word": "关晓彤回应近日状态",
+      "onboard_time": 1740477561,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2946760,
       "num": 2946760,
       "word": "赵露思换了想了十年的发色",
       "onboard_time": 1738153161,
       "rank": 0,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2946157,
-      "num": 719137,
-      "word": "关晓彤回应近日状态",
-      "onboard_time": 1740477561,
-      "rank": 6,
       "category": "艺人"
     },
     {
@@ -2393,14 +2401,6 @@
       "onboard_time": 1738080388,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 2376681,
-      "num": 1034841,
-      "word": "员工年会中608万彩票公司要求退还",
-      "onboard_time": 1736301860,
-      "rank": 1,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

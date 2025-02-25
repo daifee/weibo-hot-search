@@ -1,6 +1,6 @@
 {
   "startTime": 1740414610412,
-  "endTime": 1740480153274,
+  "endTime": 1740482384482,
   "band_list": [
     {
       "raw_hot": 3735413,
@@ -11,7 +11,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 2946157,
+      "raw_hot": 3422281,
+      "num": 384094,
+      "word": "曝导演马进强奸被判刑",
+      "onboard_time": 1740480621,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2960141,
       "num": 719137,
       "word": "关晓彤回应近日状态",
       "onboard_time": 1740477561,
@@ -51,20 +59,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1868178,
+      "num": 1868178,
+      "word": "南京师范大学宋某某被免职",
+      "onboard_time": 1740477561,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1818148,
       "num": 1818148,
       "word": "李威教唆犯罪录音疑曝光",
       "onboard_time": 1740454339,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1801628,
-      "num": 820627,
-      "word": "南京师范大学宋某某被免职",
-      "onboard_time": 1740477561,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1736331,
@@ -121,6 +129,14 @@
       "onboard_time": 1740444380,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1318471,
+      "num": 1318471,
+      "word": "王楚钦LV品牌大使",
+      "onboard_time": 1740482001,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1262756,
@@ -259,8 +275,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 779703,
-      "num": 779703,
+      "raw_hot": 785167,
+      "num": 569450,
+      "word": "南京师范大学发布情况通报",
+      "onboard_time": 1740478820,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 783838,
+      "num": 783838,
       "word": "演员李威可能面临无期徒刑或死刑",
       "onboard_time": 1740477200,
       "rank": 11,
@@ -603,6 +627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 448582,
+      "num": 430100,
+      "word": "母女10年流水3000万拒付73万赔偿款",
+      "onboard_time": 1740478581,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 433540,
       "num": 433540,
       "word": "孙丞潇自曝焦虑到要吃药",
@@ -651,14 +683,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 401804,
-      "num": 569450,
-      "word": "南京师范大学发布情况通报",
-      "onboard_time": 1740478820,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 390842,
       "num": 390842,
       "word": "90岁奶奶摔倒70岁大伯拼尽全力抱回家",
@@ -699,11 +723,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 357554,
+      "num": 357554,
+      "word": "千金归来只剩千金",
+      "onboard_time": 1740480741,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 355237,
       "num": 274371,
       "word": "流浪猫尸首分离被塞进学生课桌",
       "onboard_time": 1740459144,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 355103,
+      "num": 355103,
+      "word": "暂停宋某某一切工作",
+      "onboard_time": 1740479183,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -713,6 +753,14 @@
       "onboard_time": 1740453321,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 349615,
+      "num": 349615,
+      "word": "陈妍希方辟谣",
+      "onboard_time": 1740479540,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 349102,
@@ -729,14 +777,6 @@
       "onboard_time": 1740466700,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 332977,
-      "num": 332977,
-      "word": "暂停宋某某一切工作",
-      "onboard_time": 1740479183,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 331839,
@@ -795,6 +835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 291852,
+      "num": 283918,
+      "word": "26岁清华博士上演学术级婚礼滚床",
+      "onboard_time": 1740479242,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 288657,
       "num": 230590,
       "word": "虞书欣包场支持爱你",
@@ -819,12 +867,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 283022,
-      "num": 283022,
-      "word": "26岁清华博士上演学术级婚礼滚床",
-      "onboard_time": 1740479242,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 285082,
+      "num": 285082,
+      "word": "迪丽热巴 看得出她是公主",
+      "onboard_time": 1740480621,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 282257,
@@ -841,6 +889,14 @@
       "onboard_time": 1740466818,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 281367,
+      "num": 281367,
+      "word": "虞书欣偶遇张凌赫正在出诊",
+      "onboard_time": 1740476300,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 275597,
@@ -907,20 +963,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 259451,
+      "num": 259451,
+      "word": "脆薯饼下班",
+      "onboard_time": 1740479660,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 254865,
       "num": 220964,
       "word": "Loong9回应插队登机",
       "onboard_time": 1740409881,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 252611,
-      "num": 252611,
-      "word": "母女10年流水3000万拒付73万赔偿款",
-      "onboard_time": 1740478581,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 252125,
@@ -1067,6 +1123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 218698,
+      "num": 218698,
+      "word": "诺如病毒能轻易瘫痪一个公司",
+      "onboard_time": 1740479242,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218089,
       "num": 218089,
       "word": "邓为谈首部男主作品上线心情",
@@ -1179,20 +1243,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 208424,
-      "num": 208424,
-      "word": "虞书欣偶遇张凌赫正在出诊",
-      "onboard_time": 1740476300,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 208118,
       "num": 238935,
       "word": "灌面汤呛妻案检方建议定罪故意杀人",
       "onboard_time": 1740472821,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 208056,
+      "num": 208056,
+      "word": "26岁低能量不自律女孩如何度过一天",
+      "onboard_time": 1740480921,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 207071,
+      "num": 207071,
+      "word": "饶雪漫说赵樱子已经很红了",
+      "onboard_time": 1740481882,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 205437,
@@ -1291,6 +1363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188926,
+      "num": 188926,
+      "word": "李现韩国到达",
+      "onboard_time": 1740481281,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188551,
       "num": 188551,
       "word": "村民集资修路被压反被质疑收过路费",
@@ -1363,14 +1443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 181733,
-      "num": 181733,
-      "word": "诺如病毒能轻易瘫痪一个公司",
-      "onboard_time": 1740479242,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 180632,
       "num": 180632,
       "word": "难哄",
@@ -1433,14 +1505,6 @@
       "onboard_time": 1740456921,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 169945,
-      "num": 169945,
-      "word": "脆薯饼下班",
-      "onboard_time": 1740479660,
-      "rank": 40,
-      "category": "美食"
     },
     {
       "raw_hot": 168866,
@@ -1516,7 +1580,7 @@
     },
     {
       "raw_hot": 161199,
-      "num": 161199,
+      "num": 356134,
       "word": "樊振东奥运封训时手臂缠满肌贴",
       "onboard_time": 1740473723,
       "rank": 32,
@@ -1619,12 +1683,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 154467,
+      "num": 154467,
+      "word": "爱你的男人会自己攻略自己",
+      "onboard_time": 1740482061,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151982,
       "num": 283041,
       "word": "小伙裸眼铅笔芯上复刻哪吒",
       "onboard_time": 1740452721,
       "rank": 38,
       "category": "民生新闻,电影"
+    },
+    {
+      "raw_hot": 151632,
+      "num": 151632,
+      "word": "李栋旭踩箱子和李光洙拍摄",
+      "onboard_time": 1740480501,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 151342,
@@ -1657,6 +1737,22 @@
       "onboard_time": 1740455542,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150533,
+      "num": 150533,
+      "word": "DeepSeek重新开放API充值并调价",
+      "onboard_time": 1740481461,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 150320,
+      "num": 150320,
+      "word": "男子照顾同村老人12年继承5套房",
+      "onboard_time": 1740482240,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147997,
@@ -1795,20 +1891,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 133269,
-      "num": 133269,
-      "word": "陈妍希方辟谣",
-      "onboard_time": 1740479540,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 131976,
       "num": 131976,
       "word": "温以凡先说的我想亲你",
       "onboard_time": 1740476960,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131898,
+      "num": 282276,
+      "word": "气血不足的人就要多出去玩",
+      "onboard_time": 1740481461,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 131682,
@@ -2171,6 +2267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87982,
+      "num": 612269,
+      "word": "女儿刚出生被送人妈妈寻找30年",
+      "onboard_time": 1740481342,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87506,
       "num": 113075,
       "word": "疾控回应网友网购土拨鼠",
@@ -2483,6 +2587,14 @@
       "category": "教育,互联网"
     },
     {
+      "raw_hot": 46975,
+      "num": 400665,
+      "word": "俄媒披露美乌矿产协议内容细节",
+      "onboard_time": 1740480862,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 45894,
       "num": 45894,
       "word": "曝特斯拉准备在华部署FSD",
@@ -2635,6 +2747,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 24262,
+      "num": 409208,
+      "word": "汤唯伦敦夜色中的黄玫瑰",
+      "onboard_time": 1740481642,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 23167,
       "num": 25671,
       "word": "被小孩哥高情商化解尴尬暖到了",
@@ -2675,6 +2795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20732,
+      "num": 181812,
+      "word": "李威卷入精舍命案详情",
+      "onboard_time": 1740480561,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 18686,
       "num": 22566,
       "word": "Hearts2Hearts出道曲MV",
@@ -2697,6 +2825,14 @@
       "onboard_time": 1740465680,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 16304,
+      "num": 477803,
+      "word": "台民众开始咨询如何到大陆看哪吒2",
+      "onboard_time": 1740481702,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 13535,

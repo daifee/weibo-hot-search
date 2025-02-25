@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740480153274,
+  "endTime": 1740482384482,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -43,6 +43,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 3422281,
+      "num": 384094,
+      "word": "曝导演马进强奸被判刑",
+      "onboard_time": 1740480621,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3213583,
       "num": 750746,
       "word": "陈赫回应被鹿晗关晓彤刷屏",
@@ -67,7 +75,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2946157,
+      "raw_hot": 2960141,
       "num": 719137,
       "word": "关晓彤回应近日状态",
       "onboard_time": 1740477561,
@@ -195,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1868178,
+      "num": 1868178,
+      "word": "南京师范大学宋某某被免职",
+      "onboard_time": 1740477561,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1837643,
       "num": 1837643,
       "word": "王楚钦亚洲杯金牌",
@@ -209,14 +225,6 @@
       "onboard_time": 1740454339,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1801628,
-      "num": 820627,
-      "word": "南京师范大学宋某某被免职",
-      "onboard_time": 1740477561,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1796415,
@@ -401,6 +409,14 @@
       "onboard_time": 1740444380,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1318471,
+      "num": 1318471,
+      "word": "王楚钦LV品牌大使",
+      "onboard_time": 1740482001,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1297722,
@@ -979,20 +995,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 785167,
+      "num": 569450,
+      "word": "南京师范大学发布情况通报",
+      "onboard_time": 1740478820,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 783838,
+      "num": 783838,
+      "word": "演员李威可能面临无期徒刑或死刑",
+      "onboard_time": 1740477200,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 783779,
       "num": 783779,
       "word": "iPhone17全系CAD图",
       "onboard_time": 1740365600,
       "rank": 36,
       "category": "数码"
-    },
-    {
-      "raw_hot": 779703,
-      "num": 779703,
-      "word": "演员李威可能面临无期徒刑或死刑",
-      "onboard_time": 1740477200,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 777593,
@@ -2075,6 +2099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 448582,
+      "num": 430100,
+      "word": "母女10年流水3000万拒付73万赔偿款",
+      "onboard_time": 1740478581,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 444767,
       "num": 478619,
       "word": "乌克兰3月将从欧盟获得35亿欧元",
@@ -2209,14 +2241,6 @@
       "onboard_time": 1740454700,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 401804,
-      "num": 569450,
-      "word": "南京师范大学发布情况通报",
-      "onboard_time": 1740478820,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 401235,
@@ -2499,6 +2523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 357554,
+      "num": 357554,
+      "word": "千金归来只剩千金",
+      "onboard_time": 1740480741,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 355876,
       "num": 355876,
       "word": "陈星旭卢昱晓新剧轧戏开机",
@@ -2512,6 +2544,14 @@
       "word": "流浪猫尸首分离被塞进学生课桌",
       "onboard_time": 1740459144,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 355103,
+      "num": 355103,
+      "word": "暂停宋某某一切工作",
+      "onboard_time": 1740479183,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -2561,6 +2601,14 @@
       "onboard_time": 1740329236,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 349615,
+      "num": 349615,
+      "word": "陈妍希方辟谣",
+      "onboard_time": 1740479540,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 348882,
@@ -2665,14 +2713,6 @@
       "onboard_time": 1740319942,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 332977,
-      "num": 332977,
-      "word": "暂停宋某某一切工作",
-      "onboard_time": 1740479183,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 331839,
@@ -2963,6 +3003,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 291852,
+      "num": 283918,
+      "word": "26岁清华博士上演学术级婚礼滚床",
+      "onboard_time": 1740479242,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 289617,
       "num": 289617,
       "word": "考研明天查分",
@@ -3035,6 +3083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 285082,
+      "num": 285082,
+      "word": "迪丽热巴 看得出她是公主",
+      "onboard_time": 1740480621,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 283509,
       "num": 283509,
       "word": "留几手磨皮磨成胚胎了",
@@ -3049,14 +3105,6 @@
       "onboard_time": 1740391819,
       "rank": 9,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 283022,
-      "num": 283022,
-      "word": "26岁清华博士上演学术级婚礼滚床",
-      "onboard_time": 1740479242,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 283019,
@@ -3097,6 +3145,14 @@
       "onboard_time": 1740466818,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 281367,
+      "num": 281367,
+      "word": "虞书欣偶遇张凌赫正在出诊",
+      "onboard_time": 1740476300,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 281279,
@@ -3275,6 +3331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 259451,
+      "num": 259451,
+      "word": "脆薯饼下班",
+      "onboard_time": 1740479660,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 257768,
       "num": 229904,
       "word": "年轻人也开始得带状疱疹了",
@@ -3313,14 +3377,6 @@
       "onboard_time": 1740403401,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 252611,
-      "num": 252611,
-      "word": "母女10年流水3000万拒付73万赔偿款",
-      "onboard_time": 1740478581,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 252125,
@@ -3851,6 +3907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 218698,
+      "num": 218698,
+      "word": "诺如病毒能轻易瘫痪一个公司",
+      "onboard_time": 1740479242,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218302,
       "num": 218302,
       "word": "滤镜编剧桐华",
@@ -4083,14 +4147,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 208424,
-      "num": 208424,
-      "word": "虞书欣偶遇张凌赫正在出诊",
-      "onboard_time": 1740476300,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 208231,
       "num": 208231,
       "word": "父亲让俩儿子抓阄凭运气选房",
@@ -4107,12 +4163,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208056,
+      "num": 208056,
+      "word": "26岁低能量不自律女孩如何度过一天",
+      "onboard_time": 1740480921,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 207807,
       "num": 207807,
       "word": "桑延温以凡睡一起了",
       "onboard_time": 1740402201,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207071,
+      "num": 207071,
+      "word": "饶雪漫说赵樱子已经很红了",
+      "onboard_time": 1740481882,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 206451,
@@ -4699,6 +4771,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 188926,
+      "num": 188926,
+      "word": "李现韩国到达",
+      "onboard_time": 1740481281,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188670,
       "num": 188670,
       "word": "吴昕怎么掏个包都这么有梗",
@@ -4944,14 +5024,6 @@
       "word": "双流机场T1航站楼正式恢复投用",
       "onboard_time": 1740368060,
       "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 181733,
-      "num": 181733,
-      "word": "诺如病毒能轻易瘫痪一个公司",
-      "onboard_time": 1740479242,
-      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -5289,14 +5361,6 @@
       "onboard_time": 1740395600,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 169945,
-      "num": 169945,
-      "word": "脆薯饼下班",
-      "onboard_time": 1740479660,
-      "rank": 40,
-      "category": "美食"
     },
     {
       "raw_hot": 169888,
@@ -5652,7 +5716,7 @@
     },
     {
       "raw_hot": 161199,
-      "num": 161199,
+      "num": 356134,
       "word": "樊振东奥运封训时手臂缠满肌贴",
       "onboard_time": 1740473723,
       "rank": 32,
@@ -5931,6 +5995,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 154467,
+      "num": 154467,
+      "word": "爱你的男人会自己攻略自己",
+      "onboard_time": 1740482061,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154129,
       "num": 154129,
       "word": "云合",
@@ -5979,6 +6051,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 151632,
+      "num": 151632,
+      "word": "李栋旭踩箱子和李光洙拍摄",
+      "onboard_time": 1740480501,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151342,
       "num": 151342,
       "word": "湖北师大回应录用初中学历人员",
@@ -6019,6 +6099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150533,
+      "num": 150533,
+      "word": "DeepSeek重新开放API充值并调价",
+      "onboard_time": 1740481461,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 150465,
       "num": 164306,
       "word": "肖战再出发米兰时装周",
@@ -6032,6 +6120,14 @@
       "word": "网传西安一航班因发动机起火返航",
       "onboard_time": 1740283579,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150320,
+      "num": 150320,
+      "word": "男子照顾同村老人12年继承5套房",
+      "onboard_time": 1740482240,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -6571,14 +6667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133269,
-      "num": 133269,
-      "word": "陈妍希方辟谣",
-      "onboard_time": 1740479540,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 132981,
       "num": 132981,
       "word": "考研查分紧张",
@@ -6625,6 +6713,14 @@
       "onboard_time": 1740476960,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131898,
+      "num": 282276,
+      "word": "气血不足的人就要多出去玩",
+      "onboard_time": 1740481461,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 131772,
@@ -7531,6 +7627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87982,
+      "num": 612269,
+      "word": "女儿刚出生被送人妈妈寻找30年",
+      "onboard_time": 1740481342,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87685,
       "num": 316129,
       "word": "轧戏官宣",
@@ -8403,6 +8507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46975,
+      "num": 400665,
+      "word": "俄媒披露美乌矿产协议内容细节",
+      "onboard_time": 1740480862,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 46902,
       "num": 155989,
       "word": "徐涛分享考研出分的5点建议",
@@ -8899,6 +9011,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 24262,
+      "num": 409208,
+      "word": "汤唯伦敦夜色中的黄玫瑰",
+      "onboard_time": 1740481642,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 23897,
       "num": 44261,
       "word": "有一群女孩真的很爱英歌舞",
@@ -9025,6 +9145,14 @@
       "onboard_time": 1740430511,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20732,
+      "num": 181812,
+      "word": "李威卷入精舍命案详情",
+      "onboard_time": 1740480561,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 20653,
@@ -9161,6 +9289,14 @@
       "onboard_time": 1740335053,
       "rank": 27,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 16304,
+      "num": 477803,
+      "word": "台民众开始咨询如何到大陆看哪吒2",
+      "onboard_time": 1740481702,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 16020,
