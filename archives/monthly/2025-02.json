@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740574793401,
+  "endTime": 1740576590435,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -6020,7 +6020,7 @@
     },
     {
       "raw_hot": 1022639,
-      "num": 429229,
+      "num": 444203,
       "word": "南京师范大学",
       "onboard_time": 1740569300,
       "rank": 31,
@@ -7849,6 +7849,14 @@
       "onboard_time": 1739781442,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 850198,
+      "num": 1136031,
+      "word": "TES战胜BLG",
+      "onboard_time": 1740574161,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 849969,
@@ -13667,14 +13675,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 552781,
-      "num": 552781,
-      "word": "TES战胜BLG",
-      "onboard_time": 1740574161,
-      "rank": 1,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 552730,
       "num": 357651,
       "word": "哪吒2官方玩梗",
@@ -14979,6 +14979,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 513420,
+      "num": 513420,
+      "word": "博主回应报考北大研究生笔试412",
+      "onboard_time": 1740572360,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 513295,
       "num": 513295,
       "word": "王楚钦林诗栋男双冠军",
@@ -16019,6 +16027,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 483924,
+      "num": 443164,
+      "word": "郭涛儿子石头18岁近照",
+      "onboard_time": 1740575480,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 483892,
       "num": 483892,
       "word": "迅猛龙分享考研",
@@ -16369,6 +16385,14 @@
       "onboard_time": 1740315140,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 473242,
+      "num": 447678,
+      "word": "桑延 温霜降生日快乐",
+      "onboard_time": 1740572299,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 472765,
@@ -17587,6 +17611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 442176,
+      "num": 442176,
+      "word": "Bin",
+      "onboard_time": 1740571099,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 442134,
       "num": 291784,
       "word": "洗头发干净又油得慢的小方法",
@@ -17785,14 +17817,6 @@
       "onboard_time": 1739858435,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 435373,
-      "num": 427622,
-      "word": "桑延 温霜降生日快乐",
-      "onboard_time": 1740572299,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 435367,
@@ -18481,6 +18505,14 @@
       "onboard_time": 1739836699,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 418469,
+      "num": 418469,
+      "word": "北上导演因白鹿太漂亮有过顾虑",
+      "onboard_time": 1740575720,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 418329,
@@ -23299,14 +23331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 323910,
-      "num": 323910,
-      "word": "Bin",
-      "onboard_time": 1740571099,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 323867,
       "num": 305142,
       "word": "全球热包场",
@@ -24985,6 +25009,14 @@
       "onboard_time": 1739434100,
       "rank": 7,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 299178,
+      "num": 329126,
+      "word": "BLG无缘全球先锋赛",
+      "onboard_time": 1740574340,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 298969,
@@ -31227,6 +31259,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 234519,
+      "num": 234519,
+      "word": "吒儿继续一亿一亿往上冲",
+      "onboard_time": 1740572540,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 234432,
       "num": 349326,
       "word": "前田陆归队",
@@ -31907,14 +31947,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 229147,
-      "num": 229147,
-      "word": "博主回应报考北大研究生笔试412",
-      "onboard_time": 1740572360,
-      "rank": 30,
-      "category": "教育"
-    },
-    {
       "raw_hot": 229063,
       "num": 229063,
       "word": "我是杨肸子我同意红房子加更",
@@ -31929,14 +31961,6 @@
       "onboard_time": 1738563094,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 229054,
-      "num": 229054,
-      "word": "吒儿继续一亿一亿往上冲",
-      "onboard_time": 1740572540,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 229022,
@@ -33155,6 +33179,14 @@
       "category": "国际时政,互联网"
     },
     {
+      "raw_hot": 221602,
+      "num": 221602,
+      "word": "徐若晗 用心",
+      "onboard_time": 1740575720,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221595,
       "num": 250171,
       "word": "许昕坐刘国梁旁边",
@@ -33393,6 +33425,14 @@
       "onboard_time": 1740020181,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 220275,
+      "num": 220275,
+      "word": "存款利息低DeepSeek建议钱往哪里放",
+      "onboard_time": 1740573619,
+      "rank": 44,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 220240,
@@ -37627,14 +37667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 201024,
-      "num": 329126,
-      "word": "BLG无缘全球先锋赛",
-      "onboard_time": 1740574340,
-      "rank": 14,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 200987,
       "num": 304253,
       "word": "西藏网友说王一博是藏羚羊",
@@ -39897,14 +39929,6 @@
       "onboard_time": 1739369662,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 193385,
-      "num": 193385,
-      "word": "存款利息低DeepSeek建议钱往哪里放",
-      "onboard_time": 1740573619,
-      "rank": 44,
-      "category": "互联网,财经"
     },
     {
       "raw_hot": 193341,
@@ -44867,6 +44891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174939,
+      "num": 174939,
+      "word": "陈冠希晒与老婆自拍照",
+      "onboard_time": 1740576260,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174896,
       "num": 174896,
       "word": "谢娜你好星期六惩罚舞蹈",
@@ -47187,6 +47219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166636,
+      "num": 166636,
+      "word": "西安人至死都会暴烈地爱菜夹馍",
+      "onboard_time": 1740574760,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 166610,
       "num": 166610,
       "word": "掌心热度",
@@ -47777,6 +47817,14 @@
       "onboard_time": 1740144801,
       "rank": 26,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 164491,
+      "num": 164491,
+      "word": "多哈世乒赛已完成世界排名席位分配",
+      "onboard_time": 1740576200,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 164450,
@@ -49635,6 +49683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158475,
+      "num": 176206,
+      "word": "肖战看秀观后感",
+      "onboard_time": 1740576500,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 158436,
       "num": 221453,
       "word": "此沙二月第一天剪了个春",
@@ -50465,6 +50521,14 @@
       "onboard_time": 1739082799,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155629,
+      "num": 291266,
+      "word": "S14冠亚军无缘全球先锋赛",
+      "onboard_time": 1740574460,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 155620,
@@ -55259,6 +55323,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 138736,
+      "num": 138736,
+      "word": "优酷预排播剧目",
+      "onboard_time": 1740575480,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138728,
       "num": 138728,
       "word": "哈尔滨亚冬会主火炬点燃",
@@ -56993,14 +57065,6 @@
       "onboard_time": 1740476960,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 131961,
-      "num": 131961,
-      "word": "西安人至死都会暴烈地爱菜夹馍",
-      "onboard_time": 1740574760,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 131927,
@@ -61251,6 +61315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114127,
+      "num": 165937,
+      "word": "电影平原上的火焰定档",
+      "onboard_time": 1740575002,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 114115,
       "num": 114115,
       "word": "周鸿祎称很多00后员工都单身",
@@ -61625,6 +61697,14 @@
       "onboard_time": 1739443220,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112312,
+      "num": 445426,
+      "word": "联合国播放加沙女孩遇害前求救声",
+      "onboard_time": 1740576021,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 112301,
@@ -62449,6 +62529,14 @@
       "onboard_time": 1740560599,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 109383,
+      "num": 221971,
+      "word": "王楚钦说和马龙奥运双打很完美",
+      "onboard_time": 1740575541,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 109351,
@@ -65129,6 +65217,14 @@
       "onboard_time": 1740095479,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 95990,
+      "num": 237433,
+      "word": "王楚钦回应如何突破阴影",
+      "onboard_time": 1740575361,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 95894,
@@ -68371,6 +68467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75720,
+      "num": 221776,
+      "word": "一女子为挽回丈夫交了32万学费",
+      "onboard_time": 1740575361,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75718,
       "num": 75718,
       "word": "凌晨四五点吃年夜饭全家一脸困意",
@@ -70185,6 +70289,14 @@
       "onboard_time": 1739002824,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64352,
+      "num": 241573,
+      "word": "Hero率先锁定S组",
+      "onboard_time": 1740569780,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 64272,
@@ -73555,6 +73667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48146,
+      "num": 571285,
+      "word": "我国综合极端条件实验装置通过验收",
+      "onboard_time": 1740575841,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48132,
       "num": 442897,
       "word": "白敬亭脸上笑嘻嘻心里哭唧唧",
@@ -75033,6 +75153,14 @@
       "onboard_time": 1739672060,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 40565,
+      "num": 300127,
+      "word": "中国游客5天花62万踏上南极囧途",
+      "onboard_time": 1740575300,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40513,
@@ -77131,6 +77259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31089,
+      "num": 410841,
+      "word": "日照160亩永久基本农田撂荒两年多",
+      "onboard_time": 1740575421,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31076,
       "num": 344271,
       "word": "首汽约车被曝司机拒载还称投诉也没用",
@@ -78681,6 +78817,14 @@
       "onboard_time": 1740481642,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 24255,
+      "num": 165767,
+      "word": "蛋黄烤酥饼",
+      "onboard_time": 1740576141,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 24243,
@@ -80817,14 +80961,6 @@
       "onboard_time": 1738861756,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15485,
-      "num": 291266,
-      "word": "S14冠亚军无缘全球先锋赛",
-      "onboard_time": 1740574460,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 15443,
@@ -83245,6 +83381,9 @@
     },
     {
       "word": "#习近平为基层减负的故事#"
+    },
+    {
+      "word": "#让民营企业心无旁骛谋发展#"
     }
   ]
 }

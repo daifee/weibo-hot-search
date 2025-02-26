@@ -1,0 +1,410 @@
+{
+  "runTime": 1740576590435,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 850198,
+        "num": 1136031,
+        "word": "TES战胜BLG",
+        "onboard_time": 1740574161,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 692177,
+        "num": 692177,
+        "word": "甄嬛传演员在颖儿评论区团建",
+        "onboard_time": 1740571639,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48146,
+        "num": 571285,
+        "word": "我国综合极端条件实验装置通过验收",
+        "onboard_time": 1740575841,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 513420,
+        "num": 513420,
+        "word": "博主回应报考北大研究生笔试412",
+        "onboard_time": 1740572360,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 450648,
+        "num": 450648,
+        "word": "BLG虐泉",
+        "onboard_time": 1740569960,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1120637,
+        "num": 449842,
+        "word": "方媛称已报警",
+        "onboard_time": 1740565638,
+        "rank": 5,
+        "category": "艺人,海外新闻"
+      },
+      {
+        "raw_hot": 781352,
+        "num": 448449,
+        "word": "关晓彤新片出品人是邓超",
+        "onboard_time": 1740565519,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 473242,
+        "num": 447678,
+        "word": "桑延 温霜降生日快乐",
+        "onboard_time": 1740572299,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 387247,
+        "num": 446952,
+        "word": "张伟丽说男友难找后私信爆炸",
+        "onboard_time": 1740569421,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112312,
+        "num": 445426,
+        "word": "联合国播放加沙女孩遇害前求救声",
+        "onboard_time": 1740576021,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 773372,
+        "num": 444203,
+        "word": "南京师范大学",
+        "onboard_time": 1740569300,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 483924,
+        "num": 443164,
+        "word": "郭涛儿子石头18岁近照",
+        "onboard_time": 1740575480,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 442176,
+        "num": 442176,
+        "word": "Bin",
+        "onboard_time": 1740571099,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 418469,
+        "num": 418469,
+        "word": "北上导演因白鹿太漂亮有过顾虑",
+        "onboard_time": 1740575720,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31089,
+        "num": 410841,
+        "word": "日照160亩永久基本农田撂荒两年多",
+        "onboard_time": 1740575421,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 410270,
+        "num": 410270,
+        "word": "乌克兰和美国已定矿产协议最终版本",
+        "onboard_time": 1740570439,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 333938,
+        "num": 333938,
+        "word": "哪吒2冲全球票房第7",
+        "onboard_time": 1740539958,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 326019,
+        "num": 326019,
+        "word": "专家称金价很难再有大幅上涨",
+        "onboard_time": 1740568399,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 302777,
+        "num": 302777,
+        "word": "红房子",
+        "onboard_time": 1740568460,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40565,
+        "num": 300127,
+        "word": "中国游客5天花62万踏上南极囧途",
+        "onboard_time": 1740575300,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299178,
+        "num": 299178,
+        "word": "BLG无缘全球先锋赛",
+        "onboard_time": 1740574340,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 272242,
+        "num": 272242,
+        "word": "BLG对战TES",
+        "onboard_time": 1740563540,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 269436,
+        "num": 269436,
+        "word": "前男友用牙签抠走女子存钱罐3000多元",
+        "onboard_time": 1740565760,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249956,
+        "num": 249956,
+        "word": "夫妻收养弃婴3年办不了领养证",
+        "onboard_time": 1740567981,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64352,
+        "num": 241573,
+        "word": "Hero率先锁定S组",
+        "onboard_time": 1740569780,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 95990,
+        "num": 237433,
+        "word": "王楚钦回应如何突破阴影",
+        "onboard_time": 1740575361,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234519,
+        "num": 234519,
+        "word": "吒儿继续一亿一亿往上冲",
+        "onboard_time": 1740572540,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 228501,
+        "num": 228501,
+        "word": "郭富城妻子称在米兰被抢劫",
+        "onboard_time": 1740561319,
+        "rank": 27,
+        "category": "艺人,海外新闻"
+      },
+      {
+        "raw_hot": 109383,
+        "num": 221971,
+        "word": "王楚钦说和马龙奥运双打很完美",
+        "onboard_time": 1740575541,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75720,
+        "num": 221776,
+        "word": "一女子为挽回丈夫交了32万学费",
+        "onboard_time": 1740575361,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221602,
+        "num": 221602,
+        "word": "徐若晗 用心",
+        "onboard_time": 1740575720,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220275,
+        "num": 220275,
+        "word": "存款利息低DeepSeek建议钱往哪里放",
+        "onboard_time": 1740573619,
+        "rank": 31,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 212294,
+        "num": 212294,
+        "word": "难哄豆瓣开分5.4",
+        "onboard_time": 1740563540,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211465,
+        "num": 211465,
+        "word": "李兰迪 金发洋娃娃",
+        "onboard_time": 1740564020,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158475,
+        "num": 176206,
+        "word": "肖战看秀观后感",
+        "onboard_time": 1740576500,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 174939,
+        "num": 174939,
+        "word": "陈冠希晒与老婆自拍照",
+        "onboard_time": 1740576260,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166636,
+        "num": 166636,
+        "word": "西安人至死都会暴烈地爱菜夹馍",
+        "onboard_time": 1740574760,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 112186,
+        "num": 166451,
+        "word": "李彩桦滑雪掉进2米深洞",
+        "onboard_time": 1740566779,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114127,
+        "num": 165937,
+        "word": "电影平原上的火焰定档",
+        "onboard_time": 1740575002,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24255,
+        "num": 165767,
+        "word": "蛋黄烤酥饼",
+        "onboard_time": 1740576141,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 94343,
+        "num": 164923,
+        "word": "小鹏特斯拉智驾晚高峰对比直播首测",
+        "onboard_time": 1740572660,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 174762,
+        "num": 164839,
+        "word": "肖战休闲风出门了",
+        "onboard_time": 1740571460,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 164491,
+        "num": 164491,
+        "word": "多哈世乒赛已完成世界排名席位分配",
+        "onboard_time": 1740576200,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155716,
+        "num": 155716,
+        "word": "患者称等医院员工玩游戏排队近1小时",
+        "onboard_time": 1740571700,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155629,
+        "num": 155629,
+        "word": "S14冠亚军无缘全球先锋赛",
+        "onboard_time": 1740574460,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 155432,
+        "num": 155432,
+        "word": "漫画难哄名场面1比1还原",
+        "onboard_time": 1740563659,
+        "rank": 45,
+        "category": "动漫,剧集"
+      },
+      {
+        "raw_hot": 151351,
+        "num": 151351,
+        "word": "爱你",
+        "onboard_time": 1740568460,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150333,
+        "num": 150333,
+        "word": "23岁中职老师上5节课的一天",
+        "onboard_time": 1740570980,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140574,
+        "num": 140574,
+        "word": "高露洁 孙颖莎",
+        "onboard_time": 1740573682,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138736,
+        "num": 138736,
+        "word": "优酷预排播剧目",
+        "onboard_time": 1740575480,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#让民营企业心无旁骛谋发展#"
+    }
+  }
+}

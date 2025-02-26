@@ -1,6 +1,6 @@
 {
   "startTime": 1740500996613,
-  "endTime": 1740574793401,
+  "endTime": 1740576590435,
   "band_list": [
     {
       "raw_hot": 2799685,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 1022639,
-      "num": 429229,
+      "num": 444203,
       "word": "南京师范大学",
       "onboard_time": 1740569300,
       "rank": 31,
@@ -273,6 +273,14 @@
       "onboard_time": 1740556878,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 850198,
+      "num": 1136031,
+      "word": "TES战胜BLG",
+      "onboard_time": 1740574161,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 843817,
@@ -523,14 +531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 552781,
-      "num": 552781,
-      "word": "TES战胜BLG",
-      "onboard_time": 1740574161,
-      "rank": 1,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 541505,
       "num": 299599,
       "word": "前男友用牙签抠走女子存钱罐3000多元",
@@ -561,6 +561,14 @@
       "onboard_time": 1740553458,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 513420,
+      "num": 513420,
+      "word": "博主回应报考北大研究生笔试412",
+      "onboard_time": 1740572360,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 492854,
@@ -595,6 +603,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 483924,
+      "num": 443164,
+      "word": "郭涛儿子石头18岁近照",
+      "onboard_time": 1740575480,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 483389,
       "num": 456796,
       "word": "猫尸体塞课桌学校称不确定是否人为",
@@ -609,6 +625,14 @@
       "onboard_time": 1740529099,
       "rank": 7,
       "category": "情感,剧集"
+    },
+    {
+      "raw_hot": 473242,
+      "num": 447678,
+      "word": "桑延 温霜降生日快乐",
+      "onboard_time": 1740572299,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 472324,
@@ -699,12 +723,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 435373,
-      "num": 427622,
-      "word": "桑延 温霜降生日快乐",
-      "onboard_time": 1740572299,
-      "rank": 12,
-      "category": "剧集"
+      "raw_hot": 442176,
+      "num": 442176,
+      "word": "Bin",
+      "onboard_time": 1740571099,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 431940,
@@ -721,6 +745,14 @@
       "onboard_time": 1740538698,
       "rank": 14,
       "category": "教育"
+    },
+    {
+      "raw_hot": 418469,
+      "num": 418469,
+      "word": "北上导演因白鹿太漂亮有过顾虑",
+      "onboard_time": 1740575720,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 412148,
@@ -875,14 +907,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 323910,
-      "num": 323910,
-      "word": "Bin",
-      "onboard_time": 1740571099,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 322242,
       "num": 322242,
       "word": "男子钓鱼剖开鱼肚发现17个假饵",
@@ -953,6 +977,14 @@
       "onboard_time": 1740561679,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 299178,
+      "num": 329126,
+      "word": "BLG无缘全球先锋赛",
+      "onboard_time": 1740574340,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 297915,
@@ -1171,16 +1203,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 229147,
-      "num": 229147,
-      "word": "博主回应报考北大研究生笔试412",
-      "onboard_time": 1740572360,
-      "rank": 30,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 229054,
-      "num": 229054,
+      "raw_hot": 234519,
+      "num": 234519,
       "word": "吒儿继续一亿一亿往上冲",
       "onboard_time": 1740572540,
       "rank": 31,
@@ -1227,6 +1251,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 221602,
+      "num": 221602,
+      "word": "徐若晗 用心",
+      "onboard_time": 1740575720,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220945,
       "num": 220945,
       "word": "边伯贤权志龙合照",
@@ -1241,6 +1273,14 @@
       "onboard_time": 1740543322,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 220275,
+      "num": 220275,
+      "word": "存款利息低DeepSeek建议钱往哪里放",
+      "onboard_time": 1740573619,
+      "rank": 44,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 219715,
@@ -1371,14 +1411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 201024,
-      "num": 329126,
-      "word": "BLG无缘全球先锋赛",
-      "onboard_time": 1740574340,
-      "rank": 14,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 200619,
       "num": 200619,
       "word": "北上一部剧触发三代熟脸",
@@ -1417,14 +1449,6 @@
       "onboard_time": 1740541279,
       "rank": 26,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 193385,
-      "num": 193385,
-      "word": "存款利息低DeepSeek建议钱往哪里放",
-      "onboard_time": 1740573619,
-      "rank": 44,
-      "category": "互联网,财经"
     },
     {
       "raw_hot": 193140,
@@ -1579,6 +1603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174939,
+      "num": 174939,
+      "word": "陈冠希晒与老婆自拍照",
+      "onboard_time": 1740576260,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174766,
       "num": 171255,
       "word": "宋慧乔港版VOGUE开季刊",
@@ -1691,6 +1723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166636,
+      "num": 166636,
+      "word": "西安人至死都会暴烈地爱菜夹馍",
+      "onboard_time": 1740574760,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 166348,
       "num": 415960,
       "word": "未患癌被切胆囊签名医生称未参与手术",
@@ -1729,6 +1769,14 @@
       "onboard_time": 1740537199,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 164491,
+      "num": 164491,
+      "word": "多哈世乒赛已完成世界排名席位分配",
+      "onboard_time": 1740576200,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 163992,
@@ -1795,12 +1843,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158475,
+      "num": 176206,
+      "word": "肖战看秀观后感",
+      "onboard_time": 1740576500,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 155673,
       "num": 307236,
       "word": "日本近海5.8级地震",
       "onboard_time": 1740551959,
       "rank": 16,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 155629,
+      "num": 291266,
+      "word": "S14冠亚军无缘全球先锋赛",
+      "onboard_time": 1740574460,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 155618,
@@ -2027,6 +2091,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 138736,
+      "num": 138736,
+      "word": "优酷预排播剧目",
+      "onboard_time": 1740575480,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137725,
       "num": 137725,
       "word": "肖战低头看胸口",
@@ -2121,14 +2193,6 @@
       "onboard_time": 1740554539,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 131961,
-      "num": 131961,
-      "word": "西安人至死都会暴烈地爱菜夹馍",
-      "onboard_time": 1740574760,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 130366,
@@ -2323,6 +2387,14 @@
       "category": "财经,汽车"
     },
     {
+      "raw_hot": 114127,
+      "num": 165937,
+      "word": "电影平原上的火焰定档",
+      "onboard_time": 1740575002,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 113326,
       "num": 113326,
       "word": "倩碧 马柏全",
@@ -2345,6 +2417,14 @@
       "onboard_time": 1740496401,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112312,
+      "num": 445426,
+      "word": "联合国播放加沙女孩遇害前求救声",
+      "onboard_time": 1740576021,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 111986,
@@ -2385,6 +2465,14 @@
       "onboard_time": 1740560599,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 109383,
+      "num": 221971,
+      "word": "王楚钦说和马龙奥运双打很完美",
+      "onboard_time": 1740575541,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 108271,
@@ -2520,6 +2608,14 @@
       "word": "欧文思念科比Gigi",
       "onboard_time": 1740541579,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 95990,
+      "num": 237433,
+      "word": "王楚钦回应如何突破阴影",
+      "onboard_time": 1740575361,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -2707,6 +2803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75720,
+      "num": 221776,
+      "word": "一女子为挽回丈夫交了32万学费",
+      "onboard_time": 1740575361,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74476,
       "num": 282033,
       "word": "代露娃米兰时装周直播",
@@ -2777,6 +2881,14 @@
       "onboard_time": 1740550039,
       "rank": 22,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 64352,
+      "num": 241573,
+      "word": "Hero率先锁定S组",
+      "onboard_time": 1740569780,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 63618,
@@ -2907,6 +3019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 48146,
+      "num": 571285,
+      "word": "我国综合极端条件实验装置通过验收",
+      "onboard_time": 1740575841,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47068,
       "num": 234607,
       "word": "坚持长期主义做困难而正确的事",
@@ -2953,6 +3073,14 @@
       "onboard_time": 1740540319,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 40565,
+      "num": 300127,
+      "word": "中国游客5天花62万踏上南极囧途",
+      "onboard_time": 1740575300,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39586,
@@ -3017,6 +3145,14 @@
       "onboard_time": 1740511451,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 31089,
+      "num": 410841,
+      "word": "日照160亩永久基本农田撂荒两年多",
+      "onboard_time": 1740575421,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30971,
@@ -3139,6 +3275,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 24255,
+      "num": 165767,
+      "word": "蛋黄烤酥饼",
+      "onboard_time": 1740576141,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 24211,
       "num": 24211,
       "word": "张凌赫的桃花眼",
@@ -3233,14 +3377,6 @@
       "onboard_time": 1740520812,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 15485,
-      "num": 291266,
-      "word": "S14冠亚军无缘全球先锋赛",
-      "onboard_time": 1740574460,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 15443,
@@ -3345,6 +3481,9 @@
     },
     {
       "word": "#习近平为基层减负的故事#"
+    },
+    {
+      "word": "#让民营企业心无旁骛谋发展#"
     }
   ]
 }
