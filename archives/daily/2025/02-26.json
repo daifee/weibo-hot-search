@@ -1,6 +1,6 @@
 {
   "startTime": 1740500996613,
-  "endTime": 1740534285871,
+  "endTime": 1740535287197,
   "band_list": [
     {
       "raw_hot": 1334843,
@@ -9,6 +9,14 @@
       "onboard_time": 1740495441,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1175462,
+      "num": 1188073,
+      "word": "李威 因果业力来了",
+      "onboard_time": 1740532820,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1143211,
@@ -59,14 +67,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 883816,
-      "num": 883816,
-      "word": "李威 因果业力来了",
-      "onboard_time": 1740532820,
-      "rank": 1,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 749021,
       "num": 749021,
       "word": "老人去世130万分堂弟1套房收归国有",
@@ -107,6 +107,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 596028,
+      "num": 596028,
+      "word": "女主一集下来微信步数第一",
+      "onboard_time": 1740528681,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 586331,
       "num": 457218,
       "word": "为保胎妈妈以臀高位姿势卧床1个月",
@@ -123,20 +131,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 486251,
+      "num": 486251,
+      "word": "四六级成绩",
+      "onboard_time": 1740526218,
+      "rank": 21,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 485732,
+      "num": 485732,
+      "word": "马来西亚政府签署无发现无收费合同",
+      "onboard_time": 1740533119,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 483389,
       "num": 456796,
       "word": "猫尸体塞课桌学校称不确定是否人为",
       "onboard_time": 1740530300,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 482649,
-      "num": 482649,
-      "word": "女主一集下来微信步数第一",
-      "onboard_time": 1740528681,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 481859,
@@ -163,12 +179,28 @@
       "category": "网红"
     },
     {
-      "raw_hot": 455115,
-      "num": 455115,
-      "word": "四六级成绩",
-      "onboard_time": 1740526218,
-      "rank": 21,
-      "category": "教育"
+      "raw_hot": 411192,
+      "num": 411192,
+      "word": "饺子导演撤回了一份入职通知书",
+      "onboard_time": 1740534618,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 396586,
+      "num": 335156,
+      "word": "肖战一上微博天塌了",
+      "onboard_time": 1740534798,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 372096,
+      "num": 372096,
+      "word": "黄金",
+      "onboard_time": 1740532939,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 369000,
@@ -235,28 +267,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 279777,
-      "num": 460099,
-      "word": "马来西亚政府签署无发现无收费合同",
-      "onboard_time": 1740533119,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 270261,
       "num": 270261,
       "word": "白敬亭章若楠发合照了",
       "onboard_time": 1740487762,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 267656,
-      "num": 267656,
-      "word": "黄金",
-      "onboard_time": 1740532939,
-      "rank": 23,
-      "category": "财经"
     },
     {
       "raw_hot": 262374,
@@ -275,6 +291,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 247409,
+      "num": 247409,
+      "word": "二本情侣苦战3年携手闯入985复试",
+      "onboard_time": 1740534618,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 240927,
       "num": 240927,
       "word": "官方回应4人烧秸秆被烟闷身亡",
@@ -284,7 +308,7 @@
     },
     {
       "raw_hot": 239772,
-      "num": 183766,
+      "num": 184040,
       "word": "偷偷藏着哄",
       "onboard_time": 1740502337,
       "rank": 7,
@@ -355,11 +379,19 @@
       "category": "教育"
     },
     {
-      "raw_hot": 182121,
-      "num": 182121,
+      "raw_hot": 187942,
+      "num": 187942,
       "word": "女子离异8年请前婆婆带娃秒答应",
       "onboard_time": 1740532220,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 185420,
+      "num": 411149,
+      "word": "小孩哥打鼓逗小孩喜感十足",
+      "onboard_time": 1740531199,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -369,14 +401,6 @@
       "onboard_time": 1740482001,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 176736,
-      "num": 176736,
-      "word": "小孩哥打鼓逗小孩喜感十足",
-      "onboard_time": 1740531199,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 171572,
@@ -411,12 +435,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155686,
+      "num": 376033,
+      "word": "李威保释后首发声",
+      "onboard_time": 1740534618,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 155530,
+      "num": 155530,
+      "word": "大奉打更人",
+      "onboard_time": 1740534438,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153742,
       "num": 153742,
       "word": "考过四六级会让工作更有竞争力吗",
       "onboard_time": 1740529940,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 145458,
+      "num": 145458,
+      "word": "鹿晗方未回应与关晓彤事件",
+      "onboard_time": 1740531920,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 142149,
@@ -427,20 +475,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 141674,
+      "num": 141674,
+      "word": "四六级裸考过了",
+      "onboard_time": 1740531199,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 140902,
       "num": 140902,
       "word": "全固态电池预计2027年开始装车",
       "onboard_time": 1740533060,
       "rank": 35,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 136523,
-      "num": 129981,
-      "word": "鹿晗方未回应与关晓彤事件",
-      "onboard_time": 1740531920,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 135063,
@@ -499,14 +547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119965,
-      "num": 119965,
-      "word": "四六级裸考过了",
-      "onboard_time": 1740531199,
-      "rank": 39,
-      "category": "教育"
-    },
-    {
       "raw_hot": 114190,
       "num": 114190,
       "word": "特斯拉市值一夜蒸发6469亿",
@@ -523,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110277,
+      "num": 110277,
+      "word": "大学英语四级几次过的",
+      "onboard_time": 1740531680,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 108271,
       "num": 108271,
       "word": "撒贝宁也收到了王鸥的明侦手链",
@@ -537,6 +585,14 @@
       "onboard_time": 1740531562,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106065,
+      "num": 106065,
+      "word": "独行侠vs湖人",
+      "onboard_time": 1740531860,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 105429,
@@ -569,14 +625,6 @@
       "onboard_time": 1740483200,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 99837,
-      "num": 99837,
-      "word": "独行侠vs湖人",
-      "onboard_time": 1740531860,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 99310,
@@ -649,6 +697,22 @@
       "onboard_time": 1740498920,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 86328,
+      "num": 86328,
+      "word": "湖人主场致敬浓眉",
+      "onboard_time": 1740532100,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 86319,
+      "num": 86319,
+      "word": "美国一客机降落被另一飞机阻挡",
+      "onboard_time": 1740534559,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 83200,
