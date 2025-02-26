@@ -1,0 +1,410 @@
+{
+  "runTime": 1740555357219,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 974544,
+        "num": 1155927,
+        "word": "华春莹添新职",
+        "onboard_time": 1740551900,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 786546,
+        "num": 786546,
+        "word": "哪吒2冲全球票房第7",
+        "onboard_time": 1740539958,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 45333,
+        "num": 762588,
+        "word": "我国测量水平进入国际第1梯队",
+        "onboard_time": 1740543981,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1542435,
+        "num": 762426,
+        "word": "孙杨说禁赛时只能从足浴店找按摩师",
+        "onboard_time": 1740550819,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 761740,
+        "num": 761740,
+        "word": "于正恭喜白鹿北上央一播出",
+        "onboard_time": 1740552499,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 585697,
+        "num": 585697,
+        "word": "网恋2个月后发现女友是AI",
+        "onboard_time": 1740547700,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 709745,
+        "num": 580633,
+        "word": "饶雪漫说苏有朋不用整过容的演员",
+        "onboard_time": 1740548419,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 567479,
+        "num": 567479,
+        "word": "985女生5年十战六级终上岸",
+        "onboard_time": 1740549919,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 483811,
+        "num": 483811,
+        "word": "徐志胜蛐蛐黄磊被当场逮住",
+        "onboard_time": 1740548119,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 463293,
+        "num": 463293,
+        "word": "考了这些证书的可享个税扣除",
+        "onboard_time": 1740554178,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1560679,
+        "num": 433959,
+        "word": "男友去世女子想生遗腹子被公婆劝阻",
+        "onboard_time": 1740547998,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 578248,
+        "num": 425027,
+        "word": "监控还原猫咪尸体被放课桌事件",
+        "onboard_time": 1740546139,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393009,
+        "num": 393009,
+        "word": "美议员提议把特朗普印在250元钞票上",
+        "onboard_time": 1740551180,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 349406,
+        "num": 349406,
+        "word": "真人版豆包",
+        "onboard_time": 1740553580,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65879,
+        "num": 334080,
+        "word": "孙杨中国现役最大年纪游泳运动员",
+        "onboard_time": 1740554838,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 333611,
+        "num": 333611,
+        "word": "宣璐首部古偶女主剧",
+        "onboard_time": 1740543261,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 332057,
+        "num": 332057,
+        "word": "难哄16集好暧昧",
+        "onboard_time": 1740554239,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311562,
+        "num": 311562,
+        "word": "李威由被告转为污点证人",
+        "onboard_time": 1740546200,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299388,
+        "num": 299388,
+        "word": "被性侵后沉默18年的她为何现在发声",
+        "onboard_time": 1740549259,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 160546,
+        "num": 292977,
+        "word": "邓为把谦逊刻进DNA了",
+        "onboard_time": 1740554359,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326710,
+        "num": 292951,
+        "word": "狼队小胖",
+        "onboard_time": 1740554298,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 288551,
+        "num": 288551,
+        "word": "迪丽热巴开推埃及艳后造型",
+        "onboard_time": 1740544882,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287291,
+        "num": 287291,
+        "word": "章昊因为我是中国人啊",
+        "onboard_time": 1740554239,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274937,
+        "num": 274937,
+        "word": "禁止电竞选手2月23号洗澡",
+        "onboard_time": 1740554719,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 258428,
+        "num": 258428,
+        "word": "普京称准备向美国供应200万吨铝",
+        "onboard_time": 1740545602,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 241683,
+        "num": 241683,
+        "word": "肖战和容祖儿合照了",
+        "onboard_time": 1740548119,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209950,
+        "num": 209950,
+        "word": "白鹿欧豪平番",
+        "onboard_time": 1740554899,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200482,
+        "num": 200482,
+        "word": "面汤呛妻案丈夫称施暴是为了吓妻子",
+        "onboard_time": 1740553458,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192436,
+        "num": 192436,
+        "word": "柳智敏短发",
+        "onboard_time": 1740540258,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 35051,
+        "num": 180953,
+        "word": "6000元以上的手机补贴来了",
+        "onboard_time": 1740554719,
+        "rank": 29,
+        "category": "数码,民生新闻"
+      },
+      {
+        "raw_hot": 176603,
+        "num": 176603,
+        "word": "Melody方回应新恋情",
+        "onboard_time": 1740542301,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159361,
+        "num": 159361,
+        "word": "官方通报4后人处理丧事意外身亡",
+        "onboard_time": 1740553339,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159311,
+        "num": 159311,
+        "word": "全亚洲最大IMAXGT影厅因哪吒改命",
+        "onboard_time": 1740546860,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156981,
+        "num": 156981,
+        "word": "你要撑住马上就可以到中国抢救了",
+        "onboard_time": 1740499758,
+        "rank": 33,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 155673,
+        "num": 155673,
+        "word": "日本近海5.8级地震",
+        "onboard_time": 1740551959,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 153915,
+        "num": 153915,
+        "word": "王曼昱称亚洲杯决赛印象最深刻",
+        "onboard_time": 1740553339,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151518,
+        "num": 151518,
+        "word": "北上定档",
+        "onboard_time": 1740553219,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149963,
+        "num": 149963,
+        "word": "金价高台再跳水",
+        "onboard_time": 1740547820,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 146932,
+        "num": 146932,
+        "word": "教育局回应让学生签上晚自习申请书",
+        "onboard_time": 1740552558,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132521,
+        "num": 132521,
+        "word": "下午有约然后一整天都做不了事",
+        "onboard_time": 1740554539,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130031,
+        "num": 130031,
+        "word": "宋慧乔港版VOGUE开季刊",
+        "onboard_time": 1740550819,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 129107,
+        "num": 129107,
+        "word": "足金价格一夜下跌近10元",
+        "onboard_time": 1740540198,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124336,
+        "num": 124336,
+        "word": "一人之下漫画十周年",
+        "onboard_time": 1740554418,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 122908,
+        "num": 122908,
+        "word": "恋爱兄妹综艺",
+        "onboard_time": 1740545842,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122482,
+        "num": 122482,
+        "word": "团伙用AI女友网恋诈骗200多万",
+        "onboard_time": 1740550039,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119804,
+        "num": 119804,
+        "word": "有一个情绪稳定的妈妈有多重要",
+        "onboard_time": 1740548539,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118808,
+        "num": 118808,
+        "word": "主人称小猫洗澡烘干70分钟后死亡",
+        "onboard_time": 1740545363,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114043,
+        "num": 114043,
+        "word": "李威供出5名信徒身份",
+        "onboard_time": 1740551479,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111731,
+        "num": 111731,
+        "word": "徐海乔宣传宣璐新剧",
+        "onboard_time": 1740555319,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107438,
+        "num": 107438,
+        "word": "日方在台湾问题上负有历史罪责",
+        "onboard_time": 1740548360,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#更好发挥县城连接城市带动乡村作用#"
+    }
+  }
+}

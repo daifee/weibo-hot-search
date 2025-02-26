@@ -1,10 +1,10 @@
 {
   "startTime": 1740500996613,
-  "endTime": 1740554515501,
+  "endTime": 1740555357219,
   "band_list": [
     {
       "raw_hot": 2799685,
-      "num": 312955,
+      "num": 433959,
       "word": "男友去世女子想生遗腹子被公婆劝阻",
       "onboard_time": 1740547998,
       "rank": 22,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 1057796,
-      "num": 394026,
+      "num": 425027,
       "word": "监控还原猫咪尸体被放课桌事件",
       "onboard_time": 1740546139,
       "rank": 22,
@@ -201,6 +201,14 @@
       "onboard_time": 1740545602,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 761740,
+      "num": 761740,
+      "word": "于正恭喜白鹿北上央一播出",
+      "onboard_time": 1740552499,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 758747,
@@ -323,14 +331,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 574764,
-      "num": 574764,
-      "word": "于正恭喜白鹿北上央一播出",
-      "onboard_time": 1740552499,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 564735,
       "num": 564735,
       "word": "徐志胜蛐蛐黄磊被当场逮住",
@@ -419,6 +419,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 463293,
+      "num": 463293,
+      "word": "考了这些证书的可享个税扣除",
+      "onboard_time": 1740554178,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 460322,
       "num": 460322,
       "word": "青海摇网红阿浩患肝癌离世",
@@ -436,7 +444,7 @@
     },
     {
       "raw_hot": 446572,
-      "num": 310676,
+      "num": 333611,
       "word": "宣璐首部古偶女主剧",
       "onboard_time": 1740543261,
       "rank": 27,
@@ -468,7 +476,7 @@
     },
     {
       "raw_hot": 407261,
-      "num": 311794,
+      "num": 393009,
       "word": "美议员提议把特朗普印在250元钞票上",
       "onboard_time": 1740551180,
       "rank": 34,
@@ -531,12 +539,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 349406,
+      "num": 349406,
+      "word": "真人版豆包",
+      "onboard_time": 1740553580,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 335416,
       "num": 335416,
       "word": "四六级",
       "onboard_time": 1740522613,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 332057,
+      "num": 332057,
+      "word": "难哄16集好暧昧",
+      "onboard_time": 1740554239,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 330572,
@@ -553,6 +577,14 @@
       "onboard_time": 1740528620,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 326710,
+      "num": 292951,
+      "word": "狼队小胖",
+      "onboard_time": 1740554298,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 325398,
@@ -619,20 +651,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 296981,
-      "num": 296981,
-      "word": "真人版豆包",
-      "onboard_time": 1740553580,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 291159,
       "num": 263061,
       "word": "南师大环境学院官网崩了",
       "onboard_time": 1740484821,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 287291,
+      "num": 287291,
+      "word": "章昊因为我是中国人啊",
+      "onboard_time": 1740554239,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 274937,
+      "num": 274937,
+      "word": "禁止电竞选手2月23号洗澡",
+      "onboard_time": 1740554719,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 270261,
@@ -723,14 +763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 235607,
-      "num": 235607,
-      "word": "难哄16集好暧昧",
-      "onboard_time": 1740554239,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 228814,
       "num": 228814,
       "word": "孙颖莎笑自有光",
@@ -811,6 +843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 209950,
+      "num": 209950,
+      "word": "白鹿欧豪平番",
+      "onboard_time": 1740554899,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209302,
       "num": 209302,
       "word": "艺考女生136斤减到87斤",
@@ -859,20 +899,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200482,
+      "num": 200482,
+      "word": "面汤呛妻案丈夫称施暴是为了吓妻子",
+      "onboard_time": 1740553458,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200025,
       "num": 376033,
       "word": "李威保释后首发声",
       "onboard_time": 1740534618,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 196609,
-      "num": 196609,
-      "word": "章昊因为我是中国人啊",
-      "onboard_time": 1740554239,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 193594,
@@ -920,14 +960,6 @@
       "word": "小孩哥打鼓逗小孩喜感十足",
       "onboard_time": 1740531199,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 185292,
-      "num": 312399,
-      "word": "考了这些证书的可享个税扣除",
-      "onboard_time": 1740554178,
-      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -1099,20 +1131,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 161921,
-      "num": 161921,
-      "word": "面汤呛妻案丈夫称施暴是为了吓妻子",
-      "onboard_time": 1740553458,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 161760,
       "num": 264680,
       "word": "科考队员溶洞失联69小时奇迹生还",
       "onboard_time": 1740495803,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160546,
+      "num": 292977,
+      "word": "邓为把谦逊刻进DNA了",
+      "onboard_time": 1740554359,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 159361,
+      "num": 311453,
+      "word": "官方通报4后人处理丧事意外身亡",
+      "onboard_time": 1740553339,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155673,
+      "num": 307236,
+      "word": "日本近海5.8级地震",
+      "onboard_time": 1740551959,
+      "rank": 16,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 155618,
@@ -1147,6 +1195,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 153915,
+      "num": 153915,
+      "word": "王曼昱称亚洲杯决赛印象最深刻",
+      "onboard_time": 1740553339,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153774,
       "num": 153774,
       "word": "滤镜连猴哥都变出来了",
@@ -1171,12 +1227,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 151619,
-      "num": 307236,
-      "word": "日本近海5.8级地震",
-      "onboard_time": 1740551959,
-      "rank": 16,
-      "category": "海外新闻"
+      "raw_hot": 149963,
+      "num": 149963,
+      "word": "金价高台再跳水",
+      "onboard_time": 1740547820,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 149139,
@@ -1185,14 +1241,6 @@
       "onboard_time": 1740544700,
       "rank": 25,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 148976,
-      "num": 148976,
-      "word": "金价高台再跳水",
-      "onboard_time": 1740547820,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 148192,
@@ -1209,6 +1257,14 @@
       "onboard_time": 1740531562,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146932,
+      "num": 146932,
+      "word": "教育局回应让学生签上晚自习申请书",
+      "onboard_time": 1740552558,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146904,
@@ -1241,14 +1297,6 @@
       "onboard_time": 1740526097,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 142109,
-      "num": 142109,
-      "word": "狼队小胖",
-      "onboard_time": 1740554298,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 141674,
@@ -1339,20 +1387,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133429,
-      "num": 133429,
-      "word": "教育局回应让学生签上晚自习申请书",
-      "onboard_time": 1740552558,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 131096,
-      "num": 131096,
-      "word": "王曼昱称亚洲杯决赛印象最深刻",
-      "onboard_time": 1740553339,
-      "rank": 38,
-      "category": "体育"
+      "raw_hot": 132521,
+      "num": 132521,
+      "word": "下午有约然后一整天都做不了事",
+      "onboard_time": 1740554539,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 130366,
@@ -1403,6 +1443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 124336,
+      "num": 124336,
+      "word": "一人之下漫画十周年",
+      "onboard_time": 1740554418,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 123734,
       "num": 123734,
       "word": "徐若晗朋友圈",
@@ -1451,22 +1499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118661,
-      "num": 152984,
-      "word": "邓为把谦逊刻进DNA了",
-      "onboard_time": 1740554359,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 117390,
-      "num": 117390,
-      "word": "一人之下漫画十周年",
-      "onboard_time": 1740554418,
-      "rank": 48,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 116703,
       "num": 116703,
       "word": "叔叔句句有回应句句不答应",
@@ -1497,6 +1529,14 @@
       "onboard_time": 1740550159,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111731,
+      "num": 111731,
+      "word": "徐海乔宣传宣璐新剧",
+      "onboard_time": 1740555319,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 110598,
@@ -1763,14 +1803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 72476,
-      "num": 311453,
-      "word": "官方通报4后人处理丧事意外身亡",
-      "onboard_time": 1740553339,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 71147,
       "num": 71147,
       "word": "侯明昊米兰时装周",
@@ -1801,6 +1833,14 @@
       "onboard_time": 1740488841,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 65879,
+      "num": 334080,
+      "word": "孙杨中国现役最大年纪游泳运动员",
+      "onboard_time": 1740554838,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 65508,
@@ -1929,6 +1969,14 @@
       "onboard_time": 1740550518,
       "rank": 18,
       "category": "教育"
+    },
+    {
+      "raw_hot": 35051,
+      "num": 180953,
+      "word": "6000元以上的手机补贴来了",
+      "onboard_time": 1740554719,
+      "rank": 29,
+      "category": "数码,民生新闻"
     },
     {
       "raw_hot": 34555,
