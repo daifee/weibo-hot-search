@@ -1,10 +1,10 @@
 {
   "startTime": 1740500996613,
-  "endTime": 1740526550530,
+  "endTime": 1740534285871,
   "band_list": [
     {
       "raw_hot": 1334843,
-      "num": 268492,
+      "num": 458208,
       "word": "九旬老人离世后四亲属被烟闷身亡",
       "onboard_time": 1740495441,
       "rank": 10,
@@ -20,11 +20,35 @@
     },
     {
       "raw_hot": 1103594,
-      "num": 267066,
+      "num": 458648,
       "word": "关晓彤回应近日状态",
       "onboard_time": 1740477561,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1015204,
+      "num": 459788,
+      "word": "素人时期的王安宇",
+      "onboard_time": 1740529640,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1008524,
+      "num": 459367,
+      "word": "02年男生苦追班主任终喜结连理",
+      "onboard_time": 1740528440,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 993323,
+      "num": 1158931,
+      "word": "网红迅猛龙特蕾莎停播三个月备考",
+      "onboard_time": 1740523634,
+      "rank": 30,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 897317,
@@ -35,12 +59,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 763681,
-      "num": 204106,
-      "word": "网红迅猛龙特蕾莎停播三个月备考",
-      "onboard_time": 1740523634,
-      "rank": 30,
-      "category": "民生新闻,艺人"
+      "raw_hot": 883816,
+      "num": 883816,
+      "word": "李威 因果业力来了",
+      "onboard_time": 1740532820,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 749021,
@@ -67,12 +91,60 @@
       "category": "电影"
     },
     {
-      "raw_hot": 521898,
-      "num": 265278,
+      "raw_hot": 625541,
+      "num": 625541,
+      "word": "智利灾难紧急状态",
+      "onboard_time": 1740531320,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 605922,
+      "num": 457552,
+      "word": "肖战突然从怀里掏出一个小风扇",
+      "onboard_time": 1740529159,
+      "rank": 14,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 586331,
+      "num": 457218,
       "word": "为保胎妈妈以臀高位姿势卧床1个月",
       "onboard_time": 1740493822,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 576187,
+      "num": 576187,
+      "word": "马航MH370重启搜索最新进展",
+      "onboard_time": 1740528020,
+      "rank": 5,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 483389,
+      "num": 456796,
+      "word": "猫尸体塞课桌学校称不确定是否人为",
+      "onboard_time": 1740530300,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 482649,
+      "num": 482649,
+      "word": "女主一集下来微信步数第一",
+      "onboard_time": 1740528681,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 481859,
+      "num": 481859,
+      "word": "爱你致歉",
+      "onboard_time": 1740529099,
+      "rank": 7,
+      "category": "情感,剧集"
     },
     {
       "raw_hot": 472324,
@@ -81,6 +153,22 @@
       "onboard_time": 1740500297,
       "rank": 6,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 460322,
+      "num": 460322,
+      "word": "青海摇网红阿浩患肝癌离世",
+      "onboard_time": 1740528500,
+      "rank": 8,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 455115,
+      "num": 455115,
+      "word": "四六级成绩",
+      "onboard_time": 1740526218,
+      "rank": 21,
+      "category": "教育"
     },
     {
       "raw_hot": 369000,
@@ -123,6 +211,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 328240,
+      "num": 328240,
+      "word": "哪吒2香港上映3天就成年度票房冠军",
+      "onboard_time": 1740528620,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 316689,
       "num": 215310,
       "word": "鹿晗工作室告黑声明",
@@ -139,12 +235,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 279777,
+      "num": 460099,
+      "word": "马来西亚政府签署无发现无收费合同",
+      "onboard_time": 1740533119,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 270261,
       "num": 270261,
       "word": "白敬亭章若楠发合照了",
       "onboard_time": 1740487762,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 267656,
+      "num": 267656,
+      "word": "黄金",
+      "onboard_time": 1740532939,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 262374,
@@ -172,11 +284,19 @@
     },
     {
       "raw_hot": 239772,
-      "num": 165296,
+      "num": 183766,
       "word": "偷偷藏着哄",
       "onboard_time": 1740502337,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 237222,
+      "num": 237222,
+      "word": "张凌赫回复了虞书欣",
+      "onboard_time": 1740527179,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 227766,
@@ -211,20 +331,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202867,
+      "num": 202867,
+      "word": "肖战头排C位主咖",
+      "onboard_time": 1740532039,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 201657,
       "num": 167451,
       "word": "鹿晗关晓彤名下并无商业关联",
       "onboard_time": 1740475220,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 198251,
-      "num": 198251,
-      "word": "四六级成绩",
-      "onboard_time": 1740526218,
-      "rank": 21,
-      "category": "教育"
     },
     {
       "raw_hot": 190066,
@@ -235,12 +355,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 182121,
+      "num": 182121,
+      "word": "女子离异8年请前婆婆带娃秒答应",
+      "onboard_time": 1740532220,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177119,
       "num": 269492,
       "word": "王楚钦LV品牌大使",
       "onboard_time": 1740482001,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176736,
+      "num": 176736,
+      "word": "小孩哥打鼓逗小孩喜感十足",
+      "onboard_time": 1740531199,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171572,
+      "num": 171572,
+      "word": "善意的竞争",
+      "onboard_time": 1740531979,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 167719,
@@ -267,6 +411,38 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153742,
+      "num": 153742,
+      "word": "考过四六级会让工作更有竞争力吗",
+      "onboard_time": 1740529940,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 142149,
+      "num": 206700,
+      "word": "特朗普称基本与乌达成矿产协议",
+      "onboard_time": 1740526097,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 140902,
+      "num": 140902,
+      "word": "全固态电池预计2027年开始装车",
+      "onboard_time": 1740533060,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 136523,
+      "num": 129981,
+      "word": "鹿晗方未回应与关晓彤事件",
+      "onboard_time": 1740531920,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135063,
       "num": 200212,
       "word": "春风十里不如你",
@@ -275,12 +451,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133586,
+      "num": 455517,
+      "word": "权志龙ins更新",
+      "onboard_time": 1740532639,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130043,
       "num": 268858,
       "word": "男子境外遭遇车祸需回国急救民警紧急协调",
       "onboard_time": 1740500595,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126114,
+      "num": 126114,
+      "word": "无限暖暖",
+      "onboard_time": 1740533719,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 123734,
@@ -307,6 +499,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119965,
+      "num": 119965,
+      "word": "四六级裸考过了",
+      "onboard_time": 1740531199,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 114190,
+      "num": 114190,
+      "word": "特斯拉市值一夜蒸发6469亿",
+      "onboard_time": 1740530540,
+      "rank": 42,
+      "category": "财经,汽车"
+    },
+    {
       "raw_hot": 112412,
       "num": 112412,
       "word": "六姊妹谁不想要曹斐然这样的妈",
@@ -321,6 +529,22 @@
       "onboard_time": 1740484640,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107709,
+      "num": 107709,
+      "word": "虞书欣片场跳了Jennie新歌",
+      "onboard_time": 1740531562,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 105429,
+      "num": 105429,
+      "word": "歼10与月亮同框上演硬核浪漫",
+      "onboard_time": 1740532879,
+      "rank": 45,
+      "category": "军事"
     },
     {
       "raw_hot": 102896,
@@ -345,6 +569,30 @@
       "onboard_time": 1740483200,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99837,
+      "num": 99837,
+      "word": "独行侠vs湖人",
+      "onboard_time": 1740531860,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 99310,
+      "num": 99310,
+      "word": "四大满贯祝李娜生日快乐",
+      "onboard_time": 1740533778,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 99033,
+      "num": 99033,
+      "word": "上海一8个月大女宝宝爱看帅哥",
+      "onboard_time": 1740526757,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98852,
@@ -523,6 +771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52608,
+      "num": 868455,
+      "word": "古诗词里的长江有多美",
+      "onboard_time": 1740495683,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52107,
       "num": 126573,
       "word": "中方回应加拿大制裁20余家中国实体",
@@ -563,14 +819,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 30840,
-      "num": 800218,
-      "word": "古诗词里的长江有多美",
-      "onboard_time": 1740495683,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30546,
       "num": 50732,
       "word": "杨幂谈胳膊钙化",
@@ -585,14 +833,6 @@
       "onboard_time": 1740505453,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29206,
-      "num": 206700,
-      "word": "特朗普称基本与乌达成矿产协议",
-      "onboard_time": 1740526097,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 28099,

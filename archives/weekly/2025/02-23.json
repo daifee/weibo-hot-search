@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740526550530,
+  "endTime": 1740534285871,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -436,7 +436,7 @@
     },
     {
       "raw_hot": 1365643,
-      "num": 288709,
+      "num": 457218,
       "word": "为保胎妈妈以臀高位姿势卧床1个月",
       "onboard_time": 1740493822,
       "rank": 16,
@@ -739,6 +739,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1015204,
+      "num": 459788,
+      "word": "素人时期的王安宇",
+      "onboard_time": 1740529640,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1012849,
       "num": 1012849,
       "word": "网剧轧戏",
@@ -755,12 +763,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1008524,
+      "num": 459367,
+      "word": "02年男生苦追班主任终喜结连理",
+      "onboard_time": 1740528440,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1004426,
       "num": 1004426,
       "word": "王曼昱4比0孙颖莎",
       "onboard_time": 1740314003,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 993323,
+      "num": 1158931,
+      "word": "网红迅猛龙特蕾莎停播三个月备考",
+      "onboard_time": 1740523634,
+      "rank": 30,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 992728,
@@ -963,6 +987,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 883816,
+      "num": 883816,
+      "word": "李威 因果业力来了",
+      "onboard_time": 1740532820,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 861212,
       "num": 861212,
       "word": "马航MH370新一轮搜索重启",
@@ -1153,14 +1185,6 @@
       "onboard_time": 1740456141,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 763681,
-      "num": 204106,
-      "word": "网红迅猛龙特蕾莎停播三个月备考",
-      "onboard_time": 1740523634,
-      "rank": 30,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 756907,
@@ -1619,6 +1643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 625541,
+      "num": 625541,
+      "word": "智利灾难紧急状态",
+      "onboard_time": 1740531320,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 623009,
       "num": 556141,
       "word": "英语名师王江涛英语二考80分",
@@ -1657,6 +1689,14 @@
       "onboard_time": 1740452899,
       "rank": 7,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 605922,
+      "num": 457552,
+      "word": "肖战突然从怀里掏出一个小风扇",
+      "onboard_time": 1740529159,
+      "rank": 14,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 603466,
@@ -1745,6 +1785,14 @@
       "onboard_time": 1740385041,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 576187,
+      "num": 576187,
+      "word": "马航MH370重启搜索最新进展",
+      "onboard_time": 1740528020,
+      "rank": 5,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 574795,
@@ -2139,6 +2187,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 483389,
+      "num": 456796,
+      "word": "猫尸体塞课桌学校称不确定是否人为",
+      "onboard_time": 1740530300,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 483370,
       "num": 483370,
       "word": "迪丽热巴金靖直播走秀",
@@ -2153,6 +2209,22 @@
       "onboard_time": 1740476360,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 482649,
+      "num": 482649,
+      "word": "女主一集下来微信步数第一",
+      "onboard_time": 1740528681,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 481859,
+      "num": 481859,
+      "word": "爱你致歉",
+      "onboard_time": 1740529099,
+      "rank": 7,
+      "category": "情感,剧集"
     },
     {
       "raw_hot": 476136,
@@ -2243,6 +2315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 460322,
+      "num": 460322,
+      "word": "青海摇网红阿浩患肝癌离世",
+      "onboard_time": 1740528500,
+      "rank": 8,
+      "category": "网红"
+    },
+    {
       "raw_hot": 457945,
       "num": 457945,
       "word": "王曼昱集齐亚洲三大赛单打金牌",
@@ -2265,6 +2345,14 @@
       "onboard_time": 1740295400,
       "rank": 7,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 455115,
+      "num": 455115,
+      "word": "四六级成绩",
+      "onboard_time": 1740526218,
+      "rank": 21,
+      "category": "教育"
     },
     {
       "raw_hot": 454325,
@@ -2995,6 +3083,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 328240,
+      "num": 328240,
+      "word": "哪吒2香港上映3天就成年度票房冠军",
+      "onboard_time": 1740528620,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 326920,
       "num": 326920,
       "word": "小孩哥DeepSeek三步法学数学",
@@ -3483,6 +3579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 279777,
+      "num": 460099,
+      "word": "马来西亚政府签署无发现无收费合同",
+      "onboard_time": 1740533119,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 277517,
       "num": 277517,
       "word": "大衣哥拒绝直播带货也不代言",
@@ -3569,6 +3673,14 @@
       "onboard_time": 1740381081,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 267656,
+      "num": 267656,
+      "word": "黄金",
+      "onboard_time": 1740532939,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 267239,
@@ -3908,7 +4020,7 @@
     },
     {
       "raw_hot": 239772,
-      "num": 165296,
+      "num": 183766,
       "word": "偷偷藏着哄",
       "onboard_time": 1740502337,
       "rank": 7,
@@ -3969,6 +4081,14 @@
       "onboard_time": 1740484640,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 237222,
+      "num": 237222,
+      "word": "张凌赫回复了虞书欣",
+      "onboard_time": 1740527179,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 236527,
@@ -4779,6 +4899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 202867,
+      "num": 202867,
+      "word": "肖战头排C位主咖",
+      "onboard_time": 1740532039,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 202787,
       "num": 202787,
       "word": "连续跑步35天的面部变化",
@@ -4897,14 +5025,6 @@
       "onboard_time": 1740325041,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 198251,
-      "num": 198251,
-      "word": "四六级成绩",
-      "onboard_time": 1740526218,
-      "rank": 21,
-      "category": "教育"
     },
     {
       "raw_hot": 198231,
@@ -5547,6 +5667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182121,
+      "num": 182121,
+      "word": "女子离异8年请前婆婆带娃秒答应",
+      "onboard_time": 1740532220,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181994,
       "num": 182835,
       "word": "孙颖莎领奖像夹了个公文包",
@@ -5731,6 +5859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176736,
+      "num": 176736,
+      "word": "小孩哥打鼓逗小孩喜感十足",
+      "onboard_time": 1740531199,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176682,
       "num": 176682,
       "word": "唐总 夫人爬出门逃跑啦",
@@ -5903,6 +6039,14 @@
       "num": 172112,
       "word": "面试现场被嘲P图过度",
       "onboard_time": 1740304640,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 171572,
+      "num": 171572,
+      "word": "善意的竞争",
+      "onboard_time": 1740531979,
       "rank": 30,
       "category": "剧集"
     },
@@ -6707,6 +6851,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 153742,
+      "num": 153742,
+      "word": "考过四六级会让工作更有竞争力吗",
+      "onboard_time": 1740529940,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 152938,
       "num": 234812,
       "word": "乌大部分最具价值矿藏已归入俄罗斯",
@@ -7123,6 +7275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142149,
+      "num": 206700,
+      "word": "特朗普称基本与乌达成矿产协议",
+      "onboard_time": 1740526097,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 142004,
       "num": 142004,
       "word": "滤镜预告",
@@ -7161,6 +7321,14 @@
       "onboard_time": 1740464898,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140902,
+      "num": 140902,
+      "word": "全固态电池预计2027年开始装车",
+      "onboard_time": 1740533060,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 140487,
@@ -7307,6 +7475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136523,
+      "num": 129981,
+      "word": "鹿晗方未回应与关晓彤事件",
+      "onboard_time": 1740531920,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136464,
       "num": 136464,
       "word": "早安我的中国",
@@ -7393,6 +7569,14 @@
       "onboard_time": 1740297140,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 133586,
+      "num": 455517,
+      "word": "权志龙ins更新",
+      "onboard_time": 1740532639,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 133429,
@@ -7627,6 +7811,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 126114,
+      "num": 126114,
+      "word": "无限暖暖",
+      "onboard_time": 1740533719,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 125558,
       "num": 261326,
       "word": "特朗普有信心本周完成谈判",
@@ -7787,6 +7979,14 @@
       "category": "健康医疗,美食"
     },
     {
+      "raw_hot": 119965,
+      "num": 119965,
+      "word": "四六级裸考过了",
+      "onboard_time": 1740531199,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 119474,
       "num": 119474,
       "word": "俄乌冲突三年给世界带来了什么",
@@ -7913,6 +8113,14 @@
       "onboard_time": 1740326419,
       "rank": 39,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 114190,
+      "num": 114190,
+      "word": "特斯拉市值一夜蒸发6469亿",
+      "onboard_time": 1740530540,
+      "rank": 42,
+      "category": "财经,汽车"
     },
     {
       "raw_hot": 114127,
@@ -8139,6 +8347,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 107709,
+      "num": 107709,
+      "word": "虞书欣片场跳了Jennie新歌",
+      "onboard_time": 1740531562,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107509,
       "num": 107509,
       "word": "小伙好心搀扶老人却被打了5个耳光",
@@ -8161,6 +8377,14 @@
       "onboard_time": 1740236362,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 105429,
+      "num": 105429,
+      "word": "歼10与月亮同框上演硬核浪漫",
+      "onboard_time": 1740532879,
+      "rank": 45,
+      "category": "军事"
     },
     {
       "raw_hot": 104710,
@@ -8289,6 +8513,30 @@
       "onboard_time": 1740474501,
       "rank": 19,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 99837,
+      "num": 99837,
+      "word": "独行侠vs湖人",
+      "onboard_time": 1740531860,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 99310,
+      "num": 99310,
+      "word": "四大满贯祝李娜生日快乐",
+      "onboard_time": 1740533778,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 99033,
+      "num": 99033,
+      "word": "上海一8个月大女宝宝爱看帅哥",
+      "onboard_time": 1740526757,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98871,
@@ -9847,14 +10095,6 @@
       "num": 222043,
       "word": "中俄的外交政策是管长远的",
       "onboard_time": 1740414738,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 29206,
-      "num": 206700,
-      "word": "特朗普称基本与乌达成矿产协议",
-      "onboard_time": 1740526097,
       "rank": 9,
       "category": "国际时政"
     },
