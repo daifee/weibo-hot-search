@@ -1,6 +1,6 @@
 {
   "startTime": 1740500996613,
-  "endTime": 1740579752016,
+  "endTime": 1740580874216,
   "band_list": [
     {
       "raw_hot": 2799685,
@@ -33,6 +33,14 @@
       "onboard_time": 1740532939,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1795422,
+      "num": 1795422,
+      "word": "下调法定婚龄的建议应被舆论严肃对待",
+      "onboard_time": 1740577160,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1734871,
@@ -73,14 +81,6 @@
       "onboard_time": 1740550819,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1459433,
-      "num": 1459433,
-      "word": "下调法定婚龄的建议应被舆论严肃对待",
-      "onboard_time": 1740577160,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1378107,
@@ -411,6 +411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 709659,
+      "num": 412542,
+      "word": "看得出迪丽热巴刘宇宁推理得很激烈",
+      "onboard_time": 1740578420,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 706392,
       "num": 706392,
       "word": "985女生5年十战六级终上岸",
@@ -419,20 +427,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 700591,
-      "num": 412542,
-      "word": "看得出迪丽热巴刘宇宁推理得很激烈",
-      "onboard_time": 1740578420,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 700285,
       "num": 700285,
       "word": "特朗普将推售500万美元移民金卡",
       "onboard_time": 1740535338,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 698394,
+      "num": 698394,
+      "word": "每年因乳腺癌死亡的人数将增加68%",
+      "onboard_time": 1740577761,
+      "rank": 3,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 682938,
@@ -451,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 670606,
+      "num": 393896,
+      "word": "唐嫣压轴走秀",
+      "onboard_time": 1740579141,
+      "rank": 14,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 668013,
       "num": 450060,
       "word": "特朗普政府解冻8.7亿美元对台军援",
@@ -467,12 +483,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 642424,
-      "num": 642424,
-      "word": "每年因乳腺癌死亡的人数将增加68%",
-      "onboard_time": 1740577761,
-      "rank": 3,
-      "category": "健康医疗"
+      "raw_hot": 643139,
+      "num": 293865,
+      "word": "温以凡 草莓蛋糕很好吃",
+      "onboard_time": 1740578361,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 638040,
@@ -529,14 +545,6 @@
       "onboard_time": 1740541399,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 589450,
-      "num": 293865,
-      "word": "温以凡 草莓蛋糕很好吃",
-      "onboard_time": 1740578361,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 586331,
@@ -667,12 +675,28 @@
       "category": "情感,剧集"
     },
     {
+      "raw_hot": 478721,
+      "num": 293095,
+      "word": "陈冠希晒与老婆自拍照",
+      "onboard_time": 1740576260,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 473242,
       "num": 447678,
       "word": "桑延 温霜降生日快乐",
       "onboard_time": 1740572299,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 473026,
+      "num": 269751,
+      "word": "演员请就位延播",
+      "onboard_time": 1740579681,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 472324,
@@ -779,14 +803,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 424189,
-      "num": 293095,
-      "word": "陈冠希晒与老婆自拍照",
-      "onboard_time": 1740576260,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 419355,
       "num": 419355,
       "word": "四六级成绩0分是什么情况",
@@ -817,6 +833,14 @@
       "onboard_time": 1740551180,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 399622,
+      "num": 290404,
+      "word": "章昊 除了脏话我不会闽南话",
+      "onboard_time": 1740576681,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 397086,
@@ -867,14 +891,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 372791,
-      "num": 290826,
-      "word": "唐嫣压轴走秀",
-      "onboard_time": 1740579141,
-      "rank": 14,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 369000,
       "num": 263539,
       "word": "郑润泽护妻",
@@ -891,14 +907,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 359059,
-      "num": 290404,
-      "word": "章昊 除了脏话我不会闽南话",
-      "onboard_time": 1740576681,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 359050,
       "num": 359050,
       "word": "潘宏账号内容被一夜清空",
@@ -907,7 +915,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 341082,
+      "raw_hot": 346801,
       "num": 341082,
       "word": "吒儿继续一亿一亿往上冲",
       "onboard_time": 1740572540,
@@ -1091,6 +1099,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 281787,
+      "num": 281787,
+      "word": "Bin 傲慢",
+      "onboard_time": 1740578061,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 276444,
       "num": 276444,
       "word": "白鹿欧豪平番",
@@ -1155,14 +1171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 263501,
-      "num": 263501,
-      "word": "Bin 傲慢",
-      "onboard_time": 1740578061,
-      "rank": 21,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 262374,
       "num": 262374,
       "word": "最会穿搭的现偶男主出现了",
@@ -1185,6 +1193,14 @@
       "onboard_time": 1740501855,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 255631,
+      "num": 255631,
+      "word": "王蓉浪姐路透豪门姐感",
+      "onboard_time": 1740579742,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 252954,
@@ -1225,6 +1241,14 @@
       "onboard_time": 1740568100,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 245346,
+      "num": 245346,
+      "word": "文颖倩 女团学",
+      "onboard_time": 1740579681,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 243738,
@@ -1523,14 +1547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 193762,
-      "num": 193762,
-      "word": "演员请就位延播",
-      "onboard_time": 1740579681,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 193594,
       "num": 303963,
       "word": "每天8杯水是多大杯子",
@@ -1568,6 +1584,14 @@
       "word": "桐华虐檀健次只有0次和无数次",
       "onboard_time": 1740576860,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 190787,
+      "num": 190787,
+      "word": "我现在的精神状态就这样",
+      "onboard_time": 1740579742,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -1680,14 +1704,6 @@
       "word": "非洲登陆计划拟邀登陆少年",
       "onboard_time": 1740566059,
       "rank": 36,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 182926,
-      "num": 182926,
-      "word": "文颖倩 女团学",
-      "onboard_time": 1740579681,
-      "rank": 35,
       "category": "综艺"
     },
     {
@@ -1883,6 +1899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165786,
+      "num": 261422,
+      "word": "WTT需给出令人信服的回应",
+      "onboard_time": 1740579742,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165680,
       "num": 121889,
       "word": "一集去八百次卫生间的女主",
@@ -1913,6 +1937,14 @@
       "onboard_time": 1740537199,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 164599,
+      "num": 264146,
+      "word": "深圳市监局回应一楼盘设假地铁站牌",
+      "onboard_time": 1740578601,
+      "rank": 19,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 163992,
@@ -1979,6 +2011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160514,
+      "num": 160514,
+      "word": "爱你 治愈",
+      "onboard_time": 1740580281,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159361,
       "num": 311453,
       "word": "官方通报4后人处理丧事意外身亡",
@@ -1993,6 +2033,14 @@
       "onboard_time": 1740551959,
       "rank": 16,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 155639,
+      "num": 195811,
+      "word": "中国新增一个世界独一无二科学装置",
+      "onboard_time": 1740579800,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155629,
@@ -2075,6 +2123,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 151845,
+      "num": 151845,
+      "word": "逆水寒手游时装公告",
+      "onboard_time": 1740580042,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 150197,
       "num": 150197,
       "word": "王者荣耀",
@@ -2140,7 +2196,7 @@
     },
     {
       "raw_hot": 145668,
-      "num": 145668,
+      "num": 187843,
       "word": "BLG 记得",
       "onboard_time": 1740577160,
       "rank": 47,
@@ -2345,6 +2401,14 @@
       "onboard_time": 1740554539,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 130370,
+      "num": 130370,
+      "word": "LGDNBW零封WB",
+      "onboard_time": 1740580581,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 130366,
@@ -2987,14 +3051,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 71003,
-      "num": 264146,
-      "word": "深圳市监局回应一楼盘设假地铁站牌",
-      "onboard_time": 1740578601,
-      "rank": 19,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 70719,
       "num": 277948,
       "word": "詹姆斯欧文再见前任",
@@ -3057,6 +3113,14 @@
       "onboard_time": 1740544282,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 62805,
+      "num": 223179,
+      "word": "青旅用年龄筛选顾客是自我阉割",
+      "onboard_time": 1740578962,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60846,
@@ -3180,7 +3244,7 @@
     },
     {
       "raw_hot": 48146,
-      "num": 694944,
+      "num": 705755,
       "word": "我国综合极端条件实验装置通过验收",
       "onboard_time": 1740575841,
       "rank": 2,
@@ -3216,14 +3280,6 @@
       "word": "日照160亩永久基本农田撂荒两年多",
       "onboard_time": 1740575421,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43349,
-      "num": 223179,
-      "word": "青旅用年龄筛选顾客是自我阉割",
-      "onboard_time": 1740578962,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -3299,6 +3355,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 33851,
+      "num": 271154,
+      "word": "有老车主等了6年没收到FSD更新推送",
+      "onboard_time": 1740579681,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 32760,
       "num": 875954,
       "word": "我国研制出船舶心脏中的巨无霸",
@@ -3355,6 +3419,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 29056,
+      "num": 191888,
+      "word": "胡兵连续工作16小时的高能一天",
+      "onboard_time": 1740580760,
+      "rank": 34,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 28387,
       "num": 269731,
       "word": "33希望新赛季像狮子一样",
@@ -3369,14 +3441,6 @@
       "onboard_time": 1740526276,
       "rank": 17,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 27700,
-      "num": 169751,
-      "word": "有老车主等了6年没收到FSD更新推送",
-      "onboard_time": 1740579681,
-      "rank": 39,
-      "category": "汽车"
     },
     {
       "raw_hot": 26714,
@@ -3459,6 +3523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 22945,
+      "num": 235810,
+      "word": "女子举报副教授前夫孕期出轨女学生",
+      "onboard_time": 1740580700,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22443,
       "num": 22443,
       "word": "刘宇宁直播",
@@ -3531,6 +3603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 16775,
+      "num": 199809,
+      "word": "高校回应副教授被前妻举报出轨",
+      "onboard_time": 1740580641,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16549,
       "num": 271515,
       "word": "deepseek总结的春招找工作技巧",
@@ -3553,6 +3633,14 @@
       "onboard_time": 1740509052,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 13769,
+      "num": 197917,
+      "word": "网红罗大美遇害案母亲发声",
+      "onboard_time": 1740580700,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 12443,
@@ -3641,6 +3729,14 @@
       "onboard_time": 1740562158,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 7369,
+      "num": 166166,
+      "word": "电诈犯自述囚于狗笼半月",
+      "onboard_time": 1740580821,
+      "rank": 42,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
