@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740602320632,
+  "endTime": 1740604924834,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -72835,6 +72835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54138,
+      "num": 54138,
+      "word": "大学老师说AI作文全判0分",
+      "onboard_time": 1740593414,
+      "rank": 29,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 54110,
       "num": 330912,
       "word": "苏翊鸣世界杯坡障银牌",
@@ -74657,14 +74665,6 @@
       "onboard_time": 1740040763,
       "rank": 28,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 45678,
-      "num": 45678,
-      "word": "大学老师说AI作文全判0分",
-      "onboard_time": 1740593414,
-      "rank": 29,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 45645,
@@ -81283,20 +81283,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 17150,
+      "num": 17150,
+      "word": "韩国中小学将迎规模最大关停潮",
+      "onboard_time": 1740596113,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 17094,
       "num": 39068,
       "word": "郑钦文多哈赛首战落败",
       "onboard_time": 1739315894,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 17003,
-      "num": 17003,
-      "word": "韩国中小学将迎规模最大关停潮",
-      "onboard_time": 1740596113,
-      "rank": 44,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 17002,
@@ -82571,6 +82571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 11948,
+      "num": 12209,
+      "word": "更好发挥县城连接城市带动乡村作用",
+      "onboard_time": 1740602410,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 11923,
       "num": 102362,
       "word": "舒寒联赛1000淘汰",
@@ -82657,6 +82665,14 @@
       "onboard_time": 1739006664,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 11571,
+      "num": 12204,
+      "word": "欧盟也想与乌达成关键原料协议",
+      "onboard_time": 1740603850,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 11548,
