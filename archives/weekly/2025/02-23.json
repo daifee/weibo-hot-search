@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740566539777,
+  "endTime": 1740568811924,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -233,6 +233,14 @@
       "onboard_time": 1740532939,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1876512,
+      "num": 1876512,
+      "word": "方媛称已报警",
+      "onboard_time": 1740565638,
+      "rank": 14,
+      "category": "艺人,海外新闻"
     },
     {
       "raw_hot": 1875225,
@@ -633,6 +641,14 @@
       "onboard_time": 1740300440,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1186729,
+      "num": 447611,
+      "word": "关晓彤新片出品人是邓超",
+      "onboard_time": 1740565519,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 1175462,
@@ -1795,6 +1811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 668013,
+      "num": 450060,
+      "word": "特朗普政府解冻8.7亿美元对台军援",
+      "onboard_time": 1740565399,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 665714,
       "num": 665714,
       "word": "小行星撞地球概率调整为接近为零",
@@ -2043,6 +2067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 593013,
+      "num": 593013,
+      "word": "漫画难哄名场面1比1还原",
+      "onboard_time": 1740563659,
+      "rank": 8,
+      "category": "动漫,剧集"
+    },
+    {
       "raw_hot": 592668,
       "num": 527953,
       "word": "沈月说我好想出去看看春天啊",
@@ -2259,6 +2291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 538472,
+      "num": 299599,
+      "word": "前男友用牙签抠走女子存钱罐3000多元",
+      "onboard_time": 1740565760,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 537927,
       "num": 537927,
       "word": "花间令收视新高",
@@ -2321,6 +2361,14 @@
       "onboard_time": 1740464238,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 526917,
+      "num": 348804,
+      "word": "李兰迪 金发洋娃娃",
+      "onboard_time": 1740564020,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 524803,
@@ -2547,14 +2595,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 484118,
-      "num": 484118,
-      "word": "漫画难哄名场面1比1还原",
-      "onboard_time": 1740563659,
-      "rank": 8,
-      "category": "动漫,剧集"
-    },
-    {
       "raw_hot": 483892,
       "num": 483892,
       "word": "迅猛龙分享考研",
@@ -2753,14 +2793,6 @@
       "onboard_time": 1740295400,
       "rank": 7,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 454787,
-      "num": 447611,
-      "word": "关晓彤新片出品人是邓超",
-      "onboard_time": 1740565519,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 454325,
@@ -3185,14 +3217,6 @@
       "onboard_time": 1740238940,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 381875,
-      "num": 306663,
-      "word": "李兰迪 金发洋娃娃",
-      "onboard_time": 1740564020,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 381367,
@@ -3753,14 +3777,6 @@
       "onboard_time": 1740326480,
       "rank": 20,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 313031,
-      "num": 299599,
-      "word": "前男友用牙签抠走女子存钱罐3000多元",
-      "onboard_time": 1740565760,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 312859,
@@ -4465,14 +4481,6 @@
       "onboard_time": 1740501855,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 255273,
-      "num": 450060,
-      "word": "特朗普政府解冻8.7亿美元对台军援",
-      "onboard_time": 1740565399,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 255183,
@@ -5411,6 +5419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213483,
+      "num": 213483,
+      "word": "夫妻收养弃婴3年办不了领养证",
+      "onboard_time": 1740567981,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213275,
       "num": 213275,
       "word": "京东承担外卖骑手五险一金所有成本",
@@ -5795,6 +5811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200511,
+      "num": 200511,
+      "word": "吴奇隆带儿子公园玩耍",
+      "onboard_time": 1740567678,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200479,
       "num": 203308,
       "word": "杨肸子为红房子随地大小舞",
@@ -5817,6 +5841,14 @@
       "onboard_time": 1740299540,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 200036,
+      "num": 200036,
+      "word": "李彩桦滑雪掉进2米深洞",
+      "onboard_time": 1740566779,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 200025,
@@ -5968,6 +6000,14 @@
       "word": "滤镜手镯",
       "onboard_time": 1740407603,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 194533,
+      "num": 194533,
+      "word": "大唐荣耀重映收视第一",
+      "onboard_time": 1740565999,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -6185,6 +6225,14 @@
       "onboard_time": 1740367340,
       "rank": 43,
       "category": "互联网,游戏"
+    },
+    {
+      "raw_hot": 191409,
+      "num": 191409,
+      "word": "汕头偶遇宋轶逛博物馆",
+      "onboard_time": 1740568100,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 190881,
@@ -6747,14 +6795,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 177948,
-      "num": 177948,
-      "word": "大唐荣耀重映收视第一",
-      "onboard_time": 1740565999,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 177425,
       "num": 276789,
       "word": "王楚钦偷师邱贻可青蛙跳",
@@ -7105,6 +7145,14 @@
       "onboard_time": 1740408322,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169691,
+      "num": 169691,
+      "word": "DeepSeek降价",
+      "onboard_time": 1740567379,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 169668,
@@ -7515,6 +7563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163240,
+      "num": 163240,
+      "word": "海浪",
+      "onboard_time": 1740568219,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163144,
       "num": 282604,
       "word": "无畏微博里的含猫量",
@@ -7569,6 +7625,14 @@
       "onboard_time": 1740539419,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161967,
+      "num": 161967,
+      "word": "难哄周四断更的原因",
+      "onboard_time": 1740567320,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 161715,
@@ -7715,6 +7779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159732,
+      "num": 159732,
+      "word": "红房子",
+      "onboard_time": 1740568460,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159595,
       "num": 159595,
       "word": "EDG公告",
@@ -7817,6 +7889,14 @@
       "onboard_time": 1740480501,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156834,
+      "num": 156834,
+      "word": "专家称金价很难再有大幅上涨",
+      "onboard_time": 1740568399,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 156687,
@@ -8571,14 +8651,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 140861,
-      "num": 448116,
-      "word": "方媛称已报警",
-      "onboard_time": 1740565638,
-      "rank": 14,
-      "category": "艺人,海外新闻"
-    },
-    {
       "raw_hot": 140487,
       "num": 140487,
       "word": "金钟仁cha了WATER",
@@ -8617,6 +8689,14 @@
       "onboard_time": 1740550999,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139183,
+      "num": 196518,
+      "word": "农民卖羊肉获利180被罚10万后续",
+      "onboard_time": 1740567200,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139175,
@@ -10283,6 +10363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87273,
+      "num": 195196,
+      "word": "外交部回应美解冻8.7亿美元对台军援",
+      "onboard_time": 1740567079,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 87140,
       "num": 87140,
       "word": "去屑洗发水含4种成分才有效",
@@ -10377,6 +10465,14 @@
       "onboard_time": 1740550100,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 82796,
+      "num": 208569,
+      "word": "肖战与美版VOGUE主编合影",
+      "onboard_time": 1740567740,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 82765,
@@ -10716,7 +10812,7 @@
     },
     {
       "raw_hot": 68826,
-      "num": 143234,
+      "num": 162441,
       "word": "中国技术加速出海",
       "onboard_time": 1740566359,
       "rank": 45,
@@ -10753,6 +10849,14 @@
       "onboard_time": 1740468741,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 66822,
+      "num": 162030,
+      "word": "诈骗电话又出坑人新招",
+      "onboard_time": 1740563659,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66419,
@@ -11315,6 +11419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48861,
+      "num": 145687,
+      "word": "胡兵的一天VS我的一天",
+      "onboard_time": 1740566299,
+      "rank": 44,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 48783,
       "num": 48783,
       "word": "明日起可查考研成绩",
@@ -11419,6 +11531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 45700,
+      "num": 294663,
+      "word": "刘浩存怎么怼脸还这么美",
+      "onboard_time": 1740564379,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 44905,
       "num": 207690,
       "word": "男子一个飞扑救起落水男孩",
@@ -11459,20 +11579,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43372,
-      "num": 294663,
-      "word": "刘浩存怎么怼脸还这么美",
-      "onboard_time": 1740564379,
-      "rank": 29,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 43105,
       "num": 195521,
       "word": "这些人群不建议早起喝蜂蜜水",
       "onboard_time": 1740467180,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 43021,
+      "num": 188531,
+      "word": "秦彻乌鸦车",
+      "onboard_time": 1740568579,
+      "rank": 33,
+      "category": "动漫"
     },
     {
       "raw_hot": 42564,
@@ -12699,20 +12819,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 9952,
-      "num": 145687,
-      "word": "胡兵的一天VS我的一天",
-      "onboard_time": 1740566299,
-      "rank": 44,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 9579,
       "num": 23718,
       "word": "湖南通报沅陵县两船相撞事故情况",
       "onboard_time": 1740515051,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9425,
+      "num": 200271,
+      "word": "方媛被抢的包找回的可能性有多大",
+      "onboard_time": 1740568579,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 9405,
