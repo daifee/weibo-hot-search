@@ -1,0 +1,410 @@
+{
+  "runTime": 1740574793401,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 837994,
+        "num": 1134079,
+        "word": "甄嬛传演员在颖儿评论区团建",
+        "onboard_time": 1740571639,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 552781,
+        "num": 552781,
+        "word": "TES战胜BLG",
+        "onboard_time": 1740574161,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 32153,
+        "num": 534968,
+        "word": "2024我国民营经济外贸领域再创佳绩",
+        "onboard_time": 1740561739,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 521704,
+        "num": 521704,
+        "word": "BLG虐泉",
+        "onboard_time": 1740569960,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1171061,
+        "num": 514927,
+        "word": "方媛称已报警",
+        "onboard_time": 1740565638,
+        "rank": 4,
+        "category": "艺人,海外新闻"
+      },
+      {
+        "raw_hot": 502550,
+        "num": 502550,
+        "word": "专家称金价很难再有大幅上涨",
+        "onboard_time": 1740568399,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 709188,
+        "num": 500546,
+        "word": "关晓彤新片出品人是邓超",
+        "onboard_time": 1740565519,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 492854,
+        "num": 492854,
+        "word": "张伟丽说男友难找后私信爆炸",
+        "onboard_time": 1740569421,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 462643,
+        "num": 462643,
+        "word": "BLG对战TES",
+        "onboard_time": 1740563540,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 431940,
+        "num": 431940,
+        "word": "乌克兰和美国已定矿产协议最终版本",
+        "onboard_time": 1740570439,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1022639,
+        "num": 429229,
+        "word": "南京师范大学",
+        "onboard_time": 1740569300,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 435373,
+        "num": 427622,
+        "word": "桑延 温霜降生日快乐",
+        "onboard_time": 1740572299,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 423821,
+        "num": 423821,
+        "word": "红房子",
+        "onboard_time": 1740568460,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 338112,
+        "num": 338112,
+        "word": "哪吒2冲全球票房第7",
+        "onboard_time": 1740539958,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 201024,
+        "num": 329126,
+        "word": "BLG无缘全球先锋赛",
+        "onboard_time": 1740574340,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 323910,
+        "num": 323910,
+        "word": "Bin",
+        "onboard_time": 1740571099,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 315187,
+        "num": 315187,
+        "word": "夫妻收养弃婴3年办不了领养证",
+        "onboard_time": 1740567981,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306138,
+        "num": 306138,
+        "word": "李兰迪 金发洋娃娃",
+        "onboard_time": 1740564020,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 228124,
+        "num": 305325,
+        "word": "孙杨说禁赛时只能从足浴店找按摩师",
+        "onboard_time": 1740550819,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15485,
+        "num": 291266,
+        "word": "S14冠亚军无缘全球先锋赛",
+        "onboard_time": 1740574460,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 226678,
+        "num": 283507,
+        "word": "肖战休闲风出门了",
+        "onboard_time": 1740571460,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 402650,
+        "num": 272330,
+        "word": "郭富城妻子称在米兰被抢劫",
+        "onboard_time": 1740561319,
+        "rank": 21,
+        "category": "艺人,海外新闻"
+      },
+      {
+        "raw_hot": 268814,
+        "num": 268814,
+        "word": "23岁中职老师上5节课的一天",
+        "onboard_time": 1740570980,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 236859,
+        "num": 236859,
+        "word": "漫画难哄名场面1比1还原",
+        "onboard_time": 1740563659,
+        "rank": 23,
+        "category": "动漫,剧集"
+      },
+      {
+        "raw_hot": 91092,
+        "num": 229631,
+        "word": "孙杨三句话不离豆豆",
+        "onboard_time": 1740572360,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160015,
+        "num": 229157,
+        "word": "中金称未得到任何有关合并信息",
+        "onboard_time": 1740573259,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 266078,
+        "num": 229109,
+        "word": "前男友用牙签抠走女子存钱罐3000多元",
+        "onboard_time": 1740565760,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229054,
+        "num": 229054,
+        "word": "吒儿继续一亿一亿往上冲",
+        "onboard_time": 1740572540,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 217382,
+        "num": 217382,
+        "word": "难哄豆瓣开分5.4",
+        "onboard_time": 1740563540,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215318,
+        "num": 217349,
+        "word": "患者称等医院员工玩游戏排队近1小时",
+        "onboard_time": 1740571700,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189293,
+        "num": 217344,
+        "word": "博主回应报考北大研究生笔试412",
+        "onboard_time": 1740572360,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 74476,
+        "num": 217344,
+        "word": "代露娃米兰时装周直播",
+        "onboard_time": 1740573319,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 217344,
+        "num": 217343,
+        "word": "TES绝境翻盘BLG",
+        "onboard_time": 1740571700,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100111,
+        "num": 214025,
+        "word": "湖北发现253.8万吨铌矿",
+        "onboard_time": 1740569000,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213313,
+        "num": 213313,
+        "word": "农民卖羊肉获利180被罚10万后续",
+        "onboard_time": 1740567200,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207971,
+        "num": 207971,
+        "word": "肖战求推荐川菜",
+        "onboard_time": 1740573919,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193385,
+        "num": 193385,
+        "word": "存款利息低DeepSeek建议钱往哪里放",
+        "onboard_time": 1740573619,
+        "rank": 36,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 191686,
+        "num": 191686,
+        "word": "爱你",
+        "onboard_time": 1740568460,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128876,
+        "num": 187440,
+        "word": "小鹏特斯拉智驾晚高峰对比直播首测",
+        "onboard_time": 1740572660,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 186706,
+        "num": 186706,
+        "word": "高露洁 孙颖莎",
+        "onboard_time": 1740573682,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185065,
+        "num": 185065,
+        "word": "檀健次哭戏",
+        "onboard_time": 1740574039,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180798,
+        "num": 180798,
+        "word": "企三代称只要不瞎创新就不会败家",
+        "onboard_time": 1740572418,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180316,
+        "num": 180316,
+        "word": "翟潇闻杨肸子评论区彩蛋",
+        "onboard_time": 1740572719,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168727,
+        "num": 168727,
+        "word": "汕头偶遇宋轶逛博物馆",
+        "onboard_time": 1740568100,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158350,
+        "num": 158350,
+        "word": "张豆豆说孙杨年纪大孙杨搞笑挥拳",
+        "onboard_time": 1740564078,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146160,
+        "num": 146160,
+        "word": "考了这些证书的可享个税扣除",
+        "onboard_time": 1740554178,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143029,
+        "num": 143029,
+        "word": "刘宇宁高伟光友情",
+        "onboard_time": 1740573560,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134172,
+        "num": 134172,
+        "word": "中国诸神体系为什么搞不明白",
+        "onboard_time": 1740573919,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 131961,
+        "num": 131961,
+        "word": "西安人至死都会暴烈地爱菜夹馍",
+        "onboard_time": 1740574760,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 131480,
+        "num": 131480,
+        "word": "滤镜",
+        "onboard_time": 1740564199,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#更好发挥县城连接城市带动乡村作用#"
+    }
+  }
+}
