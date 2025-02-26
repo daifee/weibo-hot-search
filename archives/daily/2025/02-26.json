@@ -1,6 +1,6 @@
 {
   "startTime": 1740500996613,
-  "endTime": 1740583605586,
+  "endTime": 1740584456502,
   "band_list": [
     {
       "raw_hot": 2799685,
@@ -83,6 +83,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1393408,
+      "num": 559653,
+      "word": "女子举报副教授前夫孕期出轨女学生",
+      "onboard_time": 1740580700,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1378107,
       "num": 485347,
       "word": "早就说了李承铉对戚薇是生理性喜欢",
@@ -105,14 +113,6 @@
       "onboard_time": 1740575720,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1226643,
-      "num": 559653,
-      "word": "女子举报副教授前夫孕期出轨女学生",
-      "onboard_time": 1740580700,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1209091,
@@ -467,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 671958,
+      "num": 517410,
+      "word": "单依纯胖了更有力气唱歌",
+      "onboard_time": 1740581839,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 670606,
       "num": 553999,
       "word": "唐嫣压轴走秀",
@@ -579,6 +587,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 569930,
+      "num": 339592,
+      "word": "贾静雯大女儿梧桐妹回怼继父",
+      "onboard_time": 1740584240,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 569377,
       "num": 452877,
       "word": "方媛称米兰遭抢劫网友支招",
@@ -633,14 +649,6 @@
       "onboard_time": 1740553458,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 517410,
-      "num": 517410,
-      "word": "单依纯胖了更有力气唱歌",
-      "onboard_time": 1740581839,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 513420,
@@ -931,19 +939,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 368678,
+      "num": 368678,
+      "word": "六姊妹 辣目洋子",
+      "onboard_time": 1740581001,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 362380,
       "num": 111743,
       "word": "爱奇艺 吃相",
       "onboard_time": 1740485661,
       "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 359669,
-      "num": 359669,
-      "word": "六姊妹 辣目洋子",
-      "onboard_time": 1740581001,
-      "rank": 15,
       "category": "剧集"
     },
     {
@@ -1059,6 +1067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 307202,
+      "num": 307202,
+      "word": "肖指导打了7针封闭",
+      "onboard_time": 1740581721,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 305638,
       "num": 251276,
       "word": "米兰偶遇肖战吃川菜",
@@ -1147,20 +1163,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 280250,
-      "num": 280250,
-      "word": "肖指导打了7针封闭",
-      "onboard_time": 1740581721,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 276444,
       "num": 276444,
       "word": "白鹿欧豪平番",
       "onboard_time": 1740554899,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 274940,
+      "num": 274940,
+      "word": "中国男子在韩国交易加密货币被劫杀",
+      "onboard_time": 1740581839,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 274090,
@@ -1236,11 +1252,19 @@
     },
     {
       "raw_hot": 260346,
-      "num": 232397,
+      "num": 236183,
       "word": "张康乐 马柏全",
       "onboard_time": 1740581301,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 259242,
+      "num": 259242,
+      "word": "且初 李昀锐",
+      "onboard_time": 1740582861,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 256268,
@@ -1299,12 +1323,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245981,
+      "num": 245981,
+      "word": "女生称面试王安宇新剧电动车被聘了",
+      "onboard_time": 1740583639,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 245346,
       "num": 245346,
       "word": "文颖倩 女团学",
       "onboard_time": 1740579681,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 243955,
+      "num": 360262,
+      "word": "外媒曝美欲将加拿大逐出五眼联盟",
+      "onboard_time": 1740582500,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 243738,
@@ -1361,6 +1401,14 @@
       "onboard_time": 1740527179,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 236288,
+      "num": 236288,
+      "word": "美国队长4票房破亿",
+      "onboard_time": 1740583879,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 234652,
@@ -1531,14 +1579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 208214,
-      "num": 208214,
-      "word": "中国男子在韩国交易加密货币被劫杀",
-      "onboard_time": 1740581839,
-      "rank": 29,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 207971,
       "num": 207971,
       "word": "肖战求推荐川菜",
@@ -1571,11 +1611,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 203382,
-      "num": 203382,
-      "word": "且初 李昀锐",
-      "onboard_time": 1740582861,
-      "rank": 30,
+      "raw_hot": 203310,
+      "num": 203310,
+      "word": "两辈子都爱一个人的男主",
+      "onboard_time": 1740583280,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -1763,6 +1803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185483,
+      "num": 226553,
+      "word": "Bin输和赢都是人生常态",
+      "onboard_time": 1740582861,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 185420,
       "num": 411149,
       "word": "小孩哥打鼓逗小孩喜感十足",
@@ -1947,14 +1995,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 170346,
-      "num": 226553,
-      "word": "Bin输和赢都是人生常态",
-      "onboard_time": 1740582861,
-      "rank": 24,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 169691,
       "num": 169691,
       "word": "DeepSeek降价",
@@ -2081,14 +2121,6 @@
       "onboard_time": 1740538698,
       "rank": 13,
       "category": "教育"
-    },
-    {
-      "raw_hot": 163423,
-      "num": 163423,
-      "word": "两辈子都爱一个人的男主",
-      "onboard_time": 1740583280,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 163335,
@@ -2611,6 +2643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127736,
+      "num": 244873,
+      "word": "招聘人员与求职者争吵扬言带刀约架",
+      "onboard_time": 1740582440,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126191,
       "num": 334080,
       "word": "孙杨中国现役最大年纪游泳运动员",
@@ -2665,6 +2705,14 @@
       "onboard_time": 1740554418,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 124003,
+      "num": 272277,
+      "word": "戴墨镜真的能快速提高颜值",
+      "onboard_time": 1740583579,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123734,
@@ -2995,14 +3043,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 93824,
-      "num": 172033,
-      "word": "戴墨镜真的能快速提高颜值",
-      "onboard_time": 1740583579,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 93136,
       "num": 300127,
       "word": "中国游客5天花62万踏上南极囧途",
@@ -3267,14 +3307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 66009,
-      "num": 360262,
-      "word": "外媒曝美欲将加拿大逐出五眼联盟",
-      "onboard_time": 1740582500,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 65508,
       "num": 265275,
       "word": "苏醒在现场跟扣篮的欧文合影了",
@@ -3289,6 +3321,14 @@
       "onboard_time": 1740569780,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 63996,
+      "num": 236209,
+      "word": "女生遭性侵溺亡案检方将抗诉",
+      "onboard_time": 1740582800,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63618,
@@ -3329,6 +3369,14 @@
       "onboard_time": 1740518651,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 60498,
+      "num": 203684,
+      "word": "王楚钦说拼命去绽放最好的自己",
+      "onboard_time": 1740584300,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 56318,
@@ -3499,6 +3547,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 39008,
+      "num": 270843,
+      "word": "男子性侵未遂致人溺亡案二审将开庭",
+      "onboard_time": 1740583579,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37176,
       "num": 263237,
       "word": "张伟丽重回14年前发传单路口",
@@ -3507,28 +3563,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 36801,
-      "num": 208452,
-      "word": "女生遭性侵溺亡案检方将抗诉",
-      "onboard_time": 1740582800,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 36752,
       "num": 280227,
       "word": "智搜DS谈四六级重要性",
       "onboard_time": 1740550518,
       "rank": 18,
       "category": "教育"
-    },
-    {
-      "raw_hot": 35456,
-      "num": 244873,
-      "word": "招聘人员与求职者争吵扬言带刀约架",
-      "onboard_time": 1740582440,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 35051,
@@ -3563,6 +3603,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 33155,
+      "num": 248593,
+      "word": "热门AI集体预测哪吒2总票房",
+      "onboard_time": 1740584300,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 32760,
       "num": 875954,
       "word": "我国研制出船舶心脏中的巨无霸",
@@ -3577,6 +3625,14 @@
       "onboard_time": 1740511451,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 31462,
+      "num": 236186,
+      "word": "乌克兰矿产是肥肉还是陷阱",
+      "onboard_time": 1740584240,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 30971,
@@ -3641,14 +3697,6 @@
       "onboard_time": 1740526276,
       "rank": 17,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 27489,
-      "num": 181797,
-      "word": "男子性侵未遂致人溺亡案二审将开庭",
-      "onboard_time": 1740583579,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26714,

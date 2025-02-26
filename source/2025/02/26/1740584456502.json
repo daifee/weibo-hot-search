@@ -1,0 +1,410 @@
+{
+  "runTime": 1740584456502,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 694647,
+        "num": 1111143,
+        "word": "北上导演因白鹿太漂亮有过顾虑",
+        "onboard_time": 1740575720,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 480985,
+        "num": 480985,
+        "word": "樊振东和黄老板打乒乓球",
+        "onboard_time": 1740581182,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34244,
+        "num": 433074,
+        "word": "我国综合极端条件实验装置通过验收",
+        "onboard_time": 1740575841,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 671958,
+        "num": 425265,
+        "word": "单依纯胖了更有力气唱歌",
+        "onboard_time": 1740581839,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414596,
+        "num": 414596,
+        "word": "每年因乳腺癌死亡的人数将增加68%",
+        "onboard_time": 1740577761,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1393408,
+        "num": 405898,
+        "word": "女子举报副教授前夫孕期出轨女学生",
+        "onboard_time": 1740580700,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1141117,
+        "num": 402457,
+        "word": "下调法定婚龄的建议应被舆论严肃对待",
+        "onboard_time": 1740577160,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 475849,
+        "num": 400437,
+        "word": "唐嫣压轴走秀",
+        "onboard_time": 1740579141,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 394941,
+        "num": 394941,
+        "word": "温以凡 草莓蛋糕很好吃",
+        "onboard_time": 1740578361,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 368678,
+        "num": 368678,
+        "word": "六姊妹 辣目洋子",
+        "onboard_time": 1740581001,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 569930,
+        "num": 339592,
+        "word": "贾静雯大女儿梧桐妹回怼继父",
+        "onboard_time": 1740584240,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404123,
+        "num": 327440,
+        "word": "郭涛儿子石头18岁近照",
+        "onboard_time": 1740575480,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397739,
+        "num": 322095,
+        "word": "李一桐神女",
+        "onboard_time": 1740581240,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307202,
+        "num": 307202,
+        "word": "肖指导打了7针封闭",
+        "onboard_time": 1740581721,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274940,
+        "num": 274940,
+        "word": "中国男子在韩国交易加密货币被劫杀",
+        "onboard_time": 1740581839,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 362933,
+        "num": 274190,
+        "word": "看得出迪丽热巴刘宇宁推理得很激烈",
+        "onboard_time": 1740578420,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281137,
+        "num": 274148,
+        "word": "演员请就位延播",
+        "onboard_time": 1740579681,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273439,
+        "num": 273439,
+        "word": "Bin",
+        "onboard_time": 1740571099,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124003,
+        "num": 272277,
+        "word": "戴墨镜真的能快速提高颜值",
+        "onboard_time": 1740583579,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39008,
+        "num": 270843,
+        "word": "男子性侵未遂致人溺亡案二审将开庭",
+        "onboard_time": 1740583579,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 786551,
+        "num": 269169,
+        "word": "方媛称已报警",
+        "onboard_time": 1740565638,
+        "rank": 20,
+        "category": "艺人,海外新闻"
+      },
+      {
+        "raw_hot": 484800,
+        "num": 266340,
+        "word": "关晓彤新片出品人是邓超",
+        "onboard_time": 1740565519,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 265323,
+        "num": 265323,
+        "word": "前男友用牙签抠走女子存钱罐3000多元",
+        "onboard_time": 1740565760,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259242,
+        "num": 259242,
+        "word": "且初 李昀锐",
+        "onboard_time": 1740582861,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33155,
+        "num": 248593,
+        "word": "热门AI集体预测哪吒2总票房",
+        "onboard_time": 1740584300,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 245981,
+        "num": 245981,
+        "word": "女生称面试王安宇新剧电动车被聘了",
+        "onboard_time": 1740583639,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243955,
+        "num": 243955,
+        "word": "外媒曝美欲将加拿大逐出五眼联盟",
+        "onboard_time": 1740582500,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 236288,
+        "num": 236288,
+        "word": "美国队长4票房破亿",
+        "onboard_time": 1740583879,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 63996,
+        "num": 236209,
+        "word": "女生遭性侵溺亡案检方将抗诉",
+        "onboard_time": 1740582800,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31462,
+        "num": 236186,
+        "word": "乌克兰矿产是肥肉还是陷阱",
+        "onboard_time": 1740584240,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 236183,
+        "num": 236183,
+        "word": "张康乐 马柏全",
+        "onboard_time": 1740581301,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 63466,
+        "num": 215312,
+        "word": "宇树科技发布提醒",
+        "onboard_time": 1740579982,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 205315,
+        "num": 205315,
+        "word": "Bin 傲慢",
+        "onboard_time": 1740578061,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 60498,
+        "num": 203684,
+        "word": "王楚钦说拼命去绽放最好的自己",
+        "onboard_time": 1740584300,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203310,
+        "num": 203310,
+        "word": "两辈子都爱一个人的男主",
+        "onboard_time": 1740583280,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185483,
+        "num": 185483,
+        "word": "Bin输和赢都是人生常态",
+        "onboard_time": 1740582861,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 184769,
+        "num": 184769,
+        "word": "谭松韵张新成 二搭",
+        "onboard_time": 1740580881,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170803,
+        "num": 170803,
+        "word": "吒儿继续一亿一亿往上冲",
+        "onboard_time": 1740572540,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127736,
+        "num": 168536,
+        "word": "招聘人员与求职者争吵扬言带刀约架",
+        "onboard_time": 1740582440,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167919,
+        "num": 167919,
+        "word": "文颖倩 女团学",
+        "onboard_time": 1740579681,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161377,
+        "num": 161377,
+        "word": "陈冠希晒与老婆自拍照",
+        "onboard_time": 1740576260,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159328,
+        "num": 159328,
+        "word": "滤镜 虐男主",
+        "onboard_time": 1740581721,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152351,
+        "num": 152351,
+        "word": "存款利息低DeepSeek建议钱往哪里放",
+        "onboard_time": 1740573619,
+        "rank": 42,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 151547,
+        "num": 151547,
+        "word": "章昊 除了脏话我不会闽南话",
+        "onboard_time": 1740576681,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150090,
+        "num": 150090,
+        "word": "买到贵但是不后悔的好东西",
+        "onboard_time": 1740582921,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147620,
+        "num": 147620,
+        "word": "难哄豆瓣开分5.4",
+        "onboard_time": 1740563540,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144601,
+        "num": 144601,
+        "word": "爱你",
+        "onboard_time": 1740568460,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143605,
+        "num": 143605,
+        "word": "高校回应副教授被前妻举报出轨",
+        "onboard_time": 1740580641,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138986,
+        "num": 138986,
+        "word": "鹅桃裤全面pk",
+        "onboard_time": 1740583280,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137960,
+        "num": 137960,
+        "word": "中国新增一个世界独一无二科学装置",
+        "onboard_time": 1740579800,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让民营企业心无旁骛谋发展#"
+    }
+  }
+}
