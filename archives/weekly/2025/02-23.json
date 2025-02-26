@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740569760175,
+  "endTime": 1740573859295,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -1027,6 +1027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 966748,
+      "num": 374113,
+      "word": "南京师范大学",
+      "onboard_time": 1740569300,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 964855,
       "num": 964855,
       "word": "难哄12集口碑",
@@ -1771,6 +1779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 682938,
+      "num": 682938,
+      "word": "专家称金价很难再有大幅上涨",
+      "onboard_time": 1740568399,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 680373,
       "num": 674390,
       "word": "Melody方回应新恋情",
@@ -2275,6 +2291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 542143,
+      "num": 413331,
+      "word": "甄嬛传演员在颖儿评论区团建",
+      "onboard_time": 1740571639,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 541505,
       "num": 299599,
       "word": "前男友用牙签抠走女子存钱罐3000多元",
@@ -2364,7 +2388,7 @@
     },
     {
       "raw_hot": 526917,
-      "num": 348804,
+      "num": 370611,
       "word": "李兰迪 金发洋娃娃",
       "onboard_time": 1740564020,
       "rank": 25,
@@ -2787,6 +2811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 457121,
+      "num": 412026,
+      "word": "红房子",
+      "onboard_time": 1740568460,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 455580,
       "num": 316529,
       "word": "1米58女子厌食体重如8岁",
@@ -2833,6 +2865,14 @@
       "onboard_time": 1740393560,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 449329,
+      "num": 449329,
+      "word": "张伟丽说男友难找后私信爆炸",
+      "onboard_time": 1740569421,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 446572,
@@ -3040,6 +3080,14 @@
       "word": "美议员提议把特朗普印在250元钞票上",
       "onboard_time": 1740551180,
       "rank": 34,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 406956,
+      "num": 406956,
+      "word": "乌克兰和美国已定矿产协议最终版本",
+      "onboard_time": 1740570439,
+      "rank": 8,
       "category": "国际时政"
     },
     {
@@ -3683,6 +3731,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 325022,
+      "num": 325022,
+      "word": "桑延 温霜降生日快乐",
+      "onboard_time": 1740572299,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 324663,
       "num": 268506,
       "word": "突然发现单休比双休多上7年班",
@@ -4059,6 +4115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 290227,
+      "num": 290227,
+      "word": "农民卖羊肉获利180被罚10万后续",
+      "onboard_time": 1740567200,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 289947,
       "num": 289947,
       "word": "独居老人猝死堂弟要求继承遗产",
@@ -4153,6 +4217,14 @@
       "onboard_time": 1740557840,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 283889,
+      "num": 283889,
+      "word": "BLG虐泉",
+      "onboard_time": 1740569960,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 283509,
@@ -4321,6 +4393,14 @@
       "onboard_time": 1740560479,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270356,
+      "num": 270356,
+      "word": "BLG对战TES",
+      "onboard_time": 1740563540,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 269535,
@@ -4499,14 +4579,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 254765,
-      "num": 254765,
-      "word": "红房子",
-      "onboard_time": 1740568460,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 254326,
       "num": 254326,
       "word": "千金归来 有毒",
@@ -4537,6 +4609,14 @@
       "onboard_time": 1740543202,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 251306,
+      "num": 251306,
+      "word": "患者称等医院员工玩游戏排队近1小时",
+      "onboard_time": 1740571700,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 250496,
@@ -4601,6 +4681,14 @@
       "onboard_time": 1740561918,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 247139,
+      "num": 247139,
+      "word": "汕头偶遇宋轶逛博物馆",
+      "onboard_time": 1740568100,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 246815,
@@ -4875,6 +4963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 234652,
+      "num": 272109,
+      "word": "肖战休闲风出门了",
+      "onboard_time": 1740571460,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 234645,
       "num": 291456,
       "word": "下周气温开启大回暖",
@@ -4985,6 +5081,14 @@
       "onboard_time": 1740493462,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 229147,
+      "num": 229147,
+      "word": "博主回应报考北大研究生笔试412",
+      "onboard_time": 1740572360,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 229063,
@@ -5243,6 +5347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 219368,
+      "num": 219368,
+      "word": "吒儿继续一亿一亿往上冲",
+      "onboard_time": 1740572540,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 219172,
       "num": 292579,
       "word": "杨紫的年终总结",
@@ -5377,6 +5489,14 @@
       "onboard_time": 1740475821,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 215443,
+      "num": 215443,
+      "word": "23岁中职老师上5节课的一天",
+      "onboard_time": 1740570980,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 215089,
@@ -5939,14 +6059,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 197682,
-      "num": 197682,
-      "word": "农民卖羊肉获利180被罚10万后续",
-      "onboard_time": 1740567200,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 197423,
       "num": 319987,
       "word": "Gucci大秀",
@@ -6089,14 +6201,6 @@
       "onboard_time": 1740321143,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 193657,
-      "num": 193657,
-      "word": "汕头偶遇宋轶逛博物馆",
-      "onboard_time": 1740568100,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 193594,
@@ -6363,14 +6467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 188801,
-      "num": 188801,
-      "word": "南京师范大学",
-      "onboard_time": 1740569300,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 188670,
       "num": 188670,
       "word": "吴昕怎么掏个包都这么有梗",
@@ -6585,14 +6681,6 @@
       "onboard_time": 1740377303,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 184550,
-      "num": 328830,
-      "word": "专家称金价很难再有大幅上涨",
-      "onboard_time": 1740568399,
-      "rank": 43,
-      "category": "财经"
     },
     {
       "raw_hot": 184402,
@@ -7339,6 +7427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167362,
+      "num": 377476,
+      "word": "中金称未得到任何有关合并信息",
+      "onboard_time": 1740573259,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 167129,
       "num": 167129,
       "word": "横纹肌溶解综合征",
@@ -7384,6 +7480,14 @@
       "word": "未患癌被切胆囊签名医生称未参与手术",
       "onboard_time": 1740546261,
       "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 166298,
+      "num": 280082,
+      "word": "翟潇闻杨肸子评论区彩蛋",
+      "onboard_time": 1740572719,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -8057,6 +8161,14 @@
       "onboard_time": 1740549439,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 154256,
+      "num": 154256,
+      "word": "Bin",
+      "onboard_time": 1740571099,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 154129,
@@ -9091,6 +9203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 131645,
+      "num": 131645,
+      "word": "刘宇宁高伟光友情",
+      "onboard_time": 1740573560,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131347,
       "num": 535895,
       "word": "男子被酒店装饰砸伤缝6针索赔17万",
@@ -9187,6 +9307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128647,
+      "num": 128647,
+      "word": "孙杨三句话不离豆豆",
+      "onboard_time": 1740572360,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128031,
       "num": 128031,
       "word": "谢楠经常收到吴京发的丑照",
@@ -9257,6 +9385,14 @@
       "onboard_time": 1740292639,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126731,
+      "num": 126731,
+      "word": "存款利息低DeepSeek建议钱往哪里放",
+      "onboard_time": 1740573619,
+      "rank": 44,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 126191,
@@ -9403,6 +9539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122653,
+      "num": 122653,
+      "word": "女主花500块把男主给买了",
+      "onboard_time": 1740570139,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122538,
       "num": 299422,
       "word": "王境泽想摆脱真香标签",
@@ -9424,6 +9568,14 @@
       "word": "檀健次跳舞",
       "onboard_time": 1740378741,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 122299,
+      "num": 122299,
+      "word": "全慧珍宣布复工",
+      "onboard_time": 1740573259,
+      "rank": 46,
       "category": "剧集"
     },
     {
@@ -10265,6 +10417,14 @@
       "onboard_time": 1740276258,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93287,
+      "num": 138625,
+      "word": "小鹏特斯拉智驾晚高峰对比直播首测",
+      "onboard_time": 1740572660,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 93011,
@@ -11187,6 +11347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56851,
+      "num": 278170,
+      "word": "企三代称只要不瞎创新就不会败家",
+      "onboard_time": 1740572418,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56827,
       "num": 184501,
       "word": "早餐酸汤水饺",
@@ -11241,6 +11409,14 @@
       "onboard_time": 1740542721,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 55311,
+      "num": 259147,
+      "word": "高圆圆谈认真才会出圈",
+      "onboard_time": 1740569960,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 54989,
@@ -11763,12 +11939,28 @@
       "category": "动漫,财经"
     },
     {
+      "raw_hot": 38127,
+      "num": 282033,
+      "word": "代露娃米兰时装周直播",
+      "onboard_time": 1740573319,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 37839,
       "num": 194601,
       "word": "网红罗大美妹妹称罪犯求生欲望很强",
       "onboard_time": 1740452838,
       "rank": 35,
       "category": "网红"
+    },
+    {
+      "raw_hot": 37176,
+      "num": 229258,
+      "word": "张伟丽重回14年前发传单路口",
+      "onboard_time": 1740573682,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 36877,
