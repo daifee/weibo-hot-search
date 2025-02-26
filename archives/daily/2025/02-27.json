@@ -1,6 +1,6 @@
 {
   "startTime": 1740587402639,
-  "endTime": 1740594705530,
+  "endTime": 1740595503729,
   "band_list": [
     {
       "raw_hot": 1135494,
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 62560,
-      "num": 50835,
+      "num": 58260,
       "word": "文淇书评",
       "onboard_time": 1740589453,
       "rank": 37,
@@ -443,20 +443,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 28263,
+      "num": 31352,
+      "word": "大学老师说AI作文全判0分",
+      "onboard_time": 1740593414,
+      "rank": 29,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 27070,
       "num": 41460,
       "word": "樊振东退出的球赛为何陷入争议",
       "onboard_time": 1740581962,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 26244,
-      "num": 31352,
-      "word": "大学老师说AI作文全判0分",
-      "onboard_time": 1740593414,
-      "rank": 29,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 25860,
@@ -475,20 +475,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 21113,
+      "num": 21624,
+      "word": "宋亚轩新歌demo",
+      "onboard_time": 1740594313,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 20743,
       "num": 100968,
       "word": "Bin群访",
       "onboard_time": 1740582382,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 20740,
-      "num": 21624,
-      "word": "宋亚轩新歌demo",
-      "onboard_time": 1740594313,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 20572,

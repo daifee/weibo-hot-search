@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740594705530,
+  "endTime": 1740595503729,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -11900,7 +11900,7 @@
     },
     {
       "raw_hot": 62560,
-      "num": 50835,
+      "num": 58260,
       "word": "文淇书评",
       "onboard_time": 1740589453,
       "rank": 37,
@@ -13035,6 +13035,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 28263,
+      "num": 31352,
+      "word": "大学老师说AI作文全判0分",
+      "onboard_time": 1740593414,
+      "rank": 29,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 28162,
       "num": 212763,
       "word": "美航客机收到炸弹威胁改道意大利",
@@ -13161,14 +13169,6 @@
       "onboard_time": 1740576141,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 26244,
-      "num": 31352,
-      "word": "大学老师说AI作文全判0分",
-      "onboard_time": 1740593414,
-      "rank": 29,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 25934,
@@ -13411,6 +13411,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 21113,
+      "num": 21624,
+      "word": "宋亚轩新歌demo",
+      "onboard_time": 1740594313,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 20755,
       "num": 22058,
       "word": "农村移风易俗要避免急风骤雨",
@@ -13425,14 +13433,6 @@
       "onboard_time": 1740582382,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 20740,
-      "num": 21624,
-      "word": "宋亚轩新歌demo",
-      "onboard_time": 1740594313,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 20732,

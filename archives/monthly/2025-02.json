@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740594705530,
+  "endTime": 1740595503729,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -71100,7 +71100,7 @@
     },
     {
       "raw_hot": 62560,
-      "num": 50835,
+      "num": 58260,
       "word": "文淇书评",
       "onboard_time": 1740589453,
       "rank": 37,
@@ -78347,6 +78347,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 28263,
+      "num": 31352,
+      "word": "大学老师说AI作文全判0分",
+      "onboard_time": 1740593414,
+      "rank": 29,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 28250,
       "num": 130536,
       "word": "广东已成立民营经济局",
@@ -78897,14 +78905,6 @@
       "onboard_time": 1739994910,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26244,
-      "num": 31352,
-      "word": "大学老师说AI作文全判0分",
-      "onboard_time": 1740593414,
-      "rank": 29,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 26218,
@@ -80339,6 +80339,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 21113,
+      "num": 21624,
+      "word": "宋亚轩新歌demo",
+      "onboard_time": 1740594313,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 21108,
       "num": 308876,
       "word": "得过一次流感不代表终身免疫",
@@ -80425,14 +80433,6 @@
       "onboard_time": 1739258780,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 20740,
-      "num": 21624,
-      "word": "宋亚轩新歌demo",
-      "onboard_time": 1740594313,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 20732,

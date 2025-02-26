@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/02/23 00:25:25 ~ 2025/02/27 02:31:45
+本榜单时间：2025/02/23 00:25:25 ~ 2025/02/27 02:45:03
 </p>
 </blockquote>
 <p>
@@ -9789,6 +9789,12 @@ TES晋级败者组下一轮（热度：40682）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E8%80%81%E5%B8%88%E8%AF%B4AI%E4%BD%9C%E6%96%87%E5%85%A8%E5%88%A40%E5%88%86%23" target="weibo">
+大学老师说AI作文全判0分（热度：28263）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%88%AA%E5%AE%A2%E6%9C%BA%E6%94%B6%E5%88%B0%E7%82%B8%E5%BC%B9%E5%A8%81%E8%83%81%E6%94%B9%E9%81%93%E6%84%8F%E5%A4%A7%E5%88%A9%23" target="weibo">
 美航客机收到炸弹威胁改道意大利（热度：28162）
 </a>
@@ -9881,12 +9887,6 @@ C罗打进生涯第925球（热度：26714）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%9B%8B%E9%BB%84%E7%83%A4%E9%85%A5%E9%A5%BC%23" target="weibo">
 蛋黄烤酥饼（热度：26542）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E8%80%81%E5%B8%88%E8%AF%B4AI%E4%BD%9C%E6%96%87%E5%85%A8%E5%88%A40%E5%88%86%23" target="weibo">
-大学老师说AI作文全判0分（热度：26244）
 </a>
 </li>
 
@@ -10071,6 +10071,12 @@ C罗打进生涯第925球（热度：26714）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E6%96%B0%E6%AD%8Cdemo%23" target="weibo">
+宋亚轩新歌demo（热度：21113）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%9C%E6%9D%91%E7%A7%BB%E9%A3%8E%E6%98%93%E4%BF%97%E8%A6%81%E9%81%BF%E5%85%8D%E6%80%A5%E9%A3%8E%E9%AA%A4%E9%9B%A8%23" target="weibo">
 农村移风易俗要避免急风骤雨（热度：20755）
 </a>
@@ -10079,12 +10085,6 @@ C罗打进生涯第925球（热度：26714）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Bin%E7%BE%A4%E8%AE%BF%23" target="weibo">
 Bin群访（热度：20743）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E6%96%B0%E6%AD%8Cdemo%23" target="weibo">
-宋亚轩新歌demo（热度：20740）
 </a>
 </li>
 
