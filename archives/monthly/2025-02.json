@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740590455073,
+  "endTime": 1740591509870,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -74163,8 +74163,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 48214,
-      "num": 48214,
+      "raw_hot": 48227,
+      "num": 48227,
       "word": "湖南卫视考古张艺兴",
       "onboard_time": 1740588495,
       "rank": 46,
@@ -74601,6 +74601,14 @@
       "onboard_time": 1740481702,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 45756,
+      "num": 45756,
+      "word": "文淇书评",
+      "onboard_time": 1740589453,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 45740,
@@ -77240,6 +77248,14 @@
       "word": "白敬亭演技缓缓入心",
       "onboard_time": 1740368242,
       "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 33446,
+      "num": 36950,
+      "word": "温霜降角色号晒独家物料",
+      "onboard_time": 1740591015,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -82571,6 +82587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 11565,
+      "num": 184643,
+      "word": "春耕农忙正当时",
+      "onboard_time": 1740575240,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11548,
       "num": 15575,
       "word": "电饭煲4个地方不洗变蟑螂蒸饭",
@@ -82929,14 +82953,6 @@
       "onboard_time": 1739172439,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 10113,
-      "num": 184643,
-      "word": "春耕农忙正当时",
-      "onboard_time": 1740575240,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10001,

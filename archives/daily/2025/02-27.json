@@ -1,6 +1,6 @@
 {
   "startTime": 1740587402639,
-  "endTime": 1740590455073,
+  "endTime": 1740591509870,
   "band_list": [
     {
       "raw_hot": 1135494,
@@ -395,8 +395,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 48214,
-      "num": 48214,
+      "raw_hot": 48227,
+      "num": 48227,
       "word": "湖南卫视考古张艺兴",
       "onboard_time": 1740588495,
       "rank": 46,
@@ -411,12 +411,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 45756,
+      "num": 45756,
+      "word": "文淇书评",
+      "onboard_time": 1740589453,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 45534,
       "num": 45534,
       "word": "张凌赫好帅",
       "onboard_time": 1740582319,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 33446,
+      "num": 36950,
+      "word": "温霜降角色号晒独家物料",
+      "onboard_time": 1740591015,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 30819,
+      "num": 36947,
+      "word": "博主回应报考北大研究生笔试412",
+      "onboard_time": 1740572360,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 27070,
@@ -459,7 +483,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 10113,
+      "raw_hot": 11565,
       "num": 184643,
       "word": "春耕农忙正当时",
       "onboard_time": 1740575240,
@@ -478,6 +502,9 @@
   "hotgov_list": [
     {
       "word": "#习近平为基层减负的故事#"
+    },
+    {
+      "word": "#让民营企业心无旁骛谋发展#"
     }
   ]
 }
