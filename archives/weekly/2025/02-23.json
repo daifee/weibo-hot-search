@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740612196434,
+  "endTime": 1740613068199,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -2067,6 +2067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 631440,
+      "num": 918547,
+      "word": "六姊妹 辣目洋子",
+      "onboard_time": 1740581001,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 630105,
       "num": 630105,
       "word": "开始推理吧直播",
@@ -3019,14 +3027,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 453750,
-      "num": 453750,
-      "word": "六姊妹 辣目洋子",
-      "onboard_time": 1740581001,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 453402,
       "num": 453402,
       "word": "李一桐神女",
@@ -3835,6 +3835,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 338069,
+      "num": 338069,
+      "word": "大学老师说AI作文全判0分",
+      "onboard_time": 1740593414,
+      "rank": 29,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 333348,
       "num": 333348,
       "word": "难哄追剧日历",
@@ -4041,14 +4049,6 @@
       "onboard_time": 1740564078,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 312266,
-      "num": 312266,
-      "word": "大学老师说AI作文全判0分",
-      "onboard_time": 1740593414,
-      "rank": 29,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 311917,
@@ -4435,6 +4435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 284529,
+      "num": 284529,
+      "word": "存款利息低DeepSeek建议钱往哪里放",
+      "onboard_time": 1740573619,
+      "rank": 44,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 283509,
       "num": 283509,
       "word": "留几手磨皮磨成胚胎了",
@@ -4745,14 +4753,6 @@
       "onboard_time": 1740452899,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 260381,
-      "num": 260381,
-      "word": "存款利息低DeepSeek建议钱往哪里放",
-      "onboard_time": 1740573619,
-      "rank": 44,
-      "category": "互联网,财经"
     },
     {
       "raw_hot": 260346,
@@ -5385,6 +5385,14 @@
       "onboard_time": 1740494901,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228991,
+      "num": 236209,
+      "word": "女生遭性侵溺亡案检方将抗诉",
+      "onboard_time": 1740582800,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 228814,
@@ -6427,6 +6435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195582,
+      "num": 195582,
+      "word": "100天后高考",
+      "onboard_time": 1740591015,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 195418,
       "num": 195418,
       "word": "肖战单手插兜打招呼",
@@ -6939,6 +6955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186970,
+      "num": 272277,
+      "word": "戴墨镜真的能快速提高颜值",
+      "onboard_time": 1740583579,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186950,
       "num": 215002,
       "word": "王楚钦担任首都无偿献血宣传形象大使",
@@ -7259,14 +7283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 180254,
-      "num": 236209,
-      "word": "女生遭性侵溺亡案检方将抗诉",
-      "onboard_time": 1740582800,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 180080,
       "num": 180080,
       "word": "无血缘关系签遗赠扶养协议有效吗",
@@ -7465,6 +7481,14 @@
       "onboard_time": 1740490462,
       "rank": 18,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 175834,
+      "num": 89865,
+      "word": "梧桐妹怼继父修杰楷",
+      "onboard_time": 1740612015,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 175748,
@@ -7833,14 +7857,6 @@
       "onboard_time": 1740279919,
       "rank": 33,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 168679,
-      "num": 272277,
-      "word": "戴墨镜真的能快速提高颜值",
-      "onboard_time": 1740583579,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 168597,
@@ -8683,14 +8699,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 154506,
-      "num": 169953,
-      "word": "100天后高考",
-      "onboard_time": 1740591015,
-      "rank": 49,
-      "category": "教育"
-    },
-    {
       "raw_hot": 154467,
       "num": 154467,
       "word": "爱你的男人会自己攻略自己",
@@ -9467,6 +9475,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 137925,
+      "num": 137925,
+      "word": "韩国中小学将迎规模最大关停潮",
+      "onboard_time": 1740596113,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 137826,
       "num": 137826,
       "word": "快乐再出发3好神经的特效",
@@ -10033,6 +10049,14 @@
       "onboard_time": 1740576920,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125689,
+      "num": 125689,
+      "word": "蛇年正月最后一天",
+      "onboard_time": 1740612795,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125666,
@@ -10675,14 +10699,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 109648,
-      "num": 109648,
-      "word": "韩国中小学将迎规模最大关停潮",
-      "onboard_time": 1740596113,
-      "rank": 44,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 109647,
       "num": 109647,
       "word": "今天你吃香菜了吗",
@@ -11003,14 +11019,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 97597,
-      "num": 67916,
-      "word": "梧桐妹怼继父修杰楷",
-      "onboard_time": 1740612015,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 97482,
       "num": 97482,
       "word": "优酷 度华年全集限免",
@@ -11147,6 +11155,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 90272,
+      "num": 125685,
+      "word": "曝赵露思将离开银河酷娱",
+      "onboard_time": 1740612436,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89962,
       "num": 256408,
       "word": "戈娅玫蓝誓约皮肤",
@@ -11169,6 +11185,14 @@
       "onboard_time": 1740313464,
       "rank": 29,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 89069,
+      "num": 89069,
+      "word": "侄子代办丧事花光老人23万遗产被告",
+      "onboard_time": 1740612795,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89018,
@@ -12035,12 +12059,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 59009,
+      "num": 59009,
+      "word": "翟潇闻说告白戏床塌了后全现挂",
+      "onboard_time": 1740611055,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 58689,
       "num": 395729,
       "word": "抢注DEEPSEEK等相关商标被依法驳回",
       "onboard_time": 1740459982,
       "rank": 14,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 58558,
+      "num": 58558,
+      "word": "爱你 紫苏叶包烤肉",
+      "onboard_time": 1740609133,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 58525,
@@ -12067,6 +12107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58024,
+      "num": 121659,
+      "word": "大罗不同意C罗是历史最佳",
+      "onboard_time": 1740611836,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57745,
       "num": 129005,
       "word": "王曼昱说技战术发挥非常坚决",
@@ -12083,12 +12131,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 57369,
+      "num": 57369,
+      "word": "白宫确认美政府效率部正式负责人",
+      "onboard_time": 1740612436,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 57203,
       "num": 202019,
       "word": "王曼昱说会为国乒球队争取更多荣誉",
       "onboard_time": 1740397879,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56988,
+      "num": 57507,
+      "word": "英伟达第四财季净利润大增80%",
+      "onboard_time": 1740611836,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 56878,
@@ -12105,14 +12169,6 @@
       "onboard_time": 1740375380,
       "rank": 38,
       "category": "美食"
-    },
-    {
-      "raw_hot": 56803,
-      "num": 56803,
-      "word": "爱你 紫苏叶包烤肉",
-      "onboard_time": 1740609133,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 56779,
@@ -12185,14 +12241,6 @@
       "onboard_time": 1740543981,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 54865,
-      "num": 54865,
-      "word": "翟潇闻说告白戏床塌了后全现挂",
-      "onboard_time": 1740611055,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 54706,
@@ -12363,14 +12411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 50270,
-      "num": 50270,
-      "word": "英伟达第四财季净利润大增80%",
-      "onboard_time": 1740611836,
-      "rank": 41,
-      "category": "财经"
-    },
-    {
       "raw_hot": 50023,
       "num": 373095,
       "word": "近16年考研国家线汇总",
@@ -12408,6 +12448,14 @@
       "word": "组建诈骗集团冒充高富帅骗1亿多元",
       "onboard_time": 1740378561,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49061,
+      "num": 49061,
+      "word": "社恐小老虎与游客互动紧抱管理员",
+      "onboard_time": 1740608832,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -12667,14 +12715,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 41073,
-      "num": 41073,
-      "word": "社恐小老虎与游客互动紧抱管理员",
-      "onboard_time": 1740608832,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40768,
       "num": 52605,
       "word": "马斯克投资的飞行汽车试飞",
@@ -12761,6 +12801,14 @@
       "onboard_time": 1740452838,
       "rank": 35,
       "category": "网红"
+    },
+    {
+      "raw_hot": 37645,
+      "num": 414598,
+      "word": "春耕农忙正当时",
+      "onboard_time": 1740575240,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37176,
@@ -12859,14 +12907,6 @@
       "category": "数码,民生新闻"
     },
     {
-      "raw_hot": 34908,
-      "num": 81693,
-      "word": "大罗不同意C罗是历史最佳",
-      "onboard_time": 1740611836,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 34856,
       "num": 274520,
       "word": "以军坦克再度开进约旦河西岸",
@@ -12961,14 +13001,6 @@
       "onboard_time": 1740515780,
       "rank": 36,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 32666,
-      "num": 350161,
-      "word": "春耕农忙正当时",
-      "onboard_time": 1740575240,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32478,
@@ -13185,6 +13217,14 @@
       "onboard_time": 1740475701,
       "rank": 29,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 27682,
+      "num": 49306,
+      "word": "Knight下次会赢回来的",
+      "onboard_time": 1740612317,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 27681,

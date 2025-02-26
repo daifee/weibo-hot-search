@@ -1,0 +1,410 @@
+{
+  "runTime": 1740613068199,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 631440,
+        "num": 918547,
+        "word": "六姊妹 辣目洋子",
+        "onboard_time": 1740581001,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 557196,
+        "num": 557196,
+        "word": "中国男子在韩国交易加密货币被劫杀",
+        "onboard_time": 1740581839,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 37645,
+        "num": 414598,
+        "word": "春耕农忙正当时",
+        "onboard_time": 1740575240,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338069,
+        "num": 338069,
+        "word": "大学老师说AI作文全判0分",
+        "onboard_time": 1740593414,
+        "rank": 3,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 284529,
+        "num": 284529,
+        "word": "存款利息低DeepSeek建议钱往哪里放",
+        "onboard_time": 1740573619,
+        "rank": 4,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 262071,
+        "num": 262071,
+        "word": "单依纯胖了更有力气唱歌",
+        "onboard_time": 1740581839,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234238,
+        "num": 234238,
+        "word": "北上导演因白鹿太漂亮有过顾虑",
+        "onboard_time": 1740575720,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230963,
+        "num": 230963,
+        "word": "女子辱骂冲撞交警被刑拘",
+        "onboard_time": 1740606612,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228991,
+        "num": 228991,
+        "word": "女生遭性侵溺亡案检方将抗诉",
+        "onboard_time": 1740582800,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195582,
+        "num": 195582,
+        "word": "100天后高考",
+        "onboard_time": 1740591015,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 857542,
+        "num": 194967,
+        "word": "贾静雯大女儿梧桐妹回怼继父",
+        "onboard_time": 1740584240,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 472271,
+        "num": 191174,
+        "word": "女生称面试王安宇新剧电动车被聘了",
+        "onboard_time": 1740583639,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186970,
+        "num": 186970,
+        "word": "戴墨镜真的能快速提高颜值",
+        "onboard_time": 1740583579,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185972,
+        "num": 185972,
+        "word": "外媒曝美欲将加拿大逐出五眼联盟",
+        "onboard_time": 1740582500,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 164909,
+        "num": 164909,
+        "word": "吒儿继续一亿一亿往上冲",
+        "onboard_time": 1740572540,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154276,
+        "num": 154276,
+        "word": "美国队长4票房破亿",
+        "onboard_time": 1740583879,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137925,
+        "num": 137925,
+        "word": "韩国中小学将迎规模最大关停潮",
+        "onboard_time": 1740596113,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 133630,
+        "num": 133630,
+        "word": "每年因乳腺癌死亡的人数将增加68%",
+        "onboard_time": 1740577761,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 125689,
+        "num": 125689,
+        "word": "蛇年正月最后一天",
+        "onboard_time": 1740612795,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90272,
+        "num": 125685,
+        "word": "曝赵露思将离开银河酷娱",
+        "onboard_time": 1740612436,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230146,
+        "num": 125605,
+        "word": "关晓彤新片出品人是邓超",
+        "onboard_time": 1740565519,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 196486,
+        "num": 125581,
+        "word": "方媛称已报警",
+        "onboard_time": 1740565638,
+        "rank": 21,
+        "category": "艺人,海外新闻"
+      },
+      {
+        "raw_hot": 174007,
+        "num": 125506,
+        "word": "前男友用牙签抠走女子存钱罐3000多元",
+        "onboard_time": 1740565760,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125488,
+        "num": 125488,
+        "word": "看得出迪丽热巴刘宇宁推理得很激烈",
+        "onboard_time": 1740578420,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58024,
+        "num": 121659,
+        "word": "大罗不同意C罗是历史最佳",
+        "onboard_time": 1740611836,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121611,
+        "num": 121611,
+        "word": "樊振东和黄老板打乒乓球",
+        "onboard_time": 1740581182,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103804,
+        "num": 103804,
+        "word": "张康乐 马柏全",
+        "onboard_time": 1740581301,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99271,
+        "num": 99271,
+        "word": "郭涛儿子石头18岁近照",
+        "onboard_time": 1740575480,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92689,
+        "num": 92689,
+        "word": "博主回应报考北大研究生笔试412",
+        "onboard_time": 1740572360,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 82214,
+        "num": 89916,
+        "word": "演员请就位延播",
+        "onboard_time": 1740579681,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175834,
+        "num": 89865,
+        "word": "梧桐妹怼继父修杰楷",
+        "onboard_time": 1740612015,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89069,
+        "num": 89069,
+        "word": "侄子代办丧事花光老人23万遗产被告",
+        "onboard_time": 1740612795,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85461,
+        "num": 85461,
+        "word": "乌克兰和美国已定矿产协议最终版本",
+        "onboard_time": 1740570439,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 80795,
+        "num": 80795,
+        "word": "唐嫣压轴走秀",
+        "onboard_time": 1740579141,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 78713,
+        "num": 78713,
+        "word": "肖指导打了7针封闭",
+        "onboard_time": 1740581721,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72645,
+        "num": 72645,
+        "word": "且初 李昀锐",
+        "onboard_time": 1740582861,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68892,
+        "num": 68892,
+        "word": "谭松韵张新成 二搭",
+        "onboard_time": 1740580881,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66155,
+        "num": 66155,
+        "word": "滤镜 虐男主",
+        "onboard_time": 1740581721,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59192,
+        "num": 59192,
+        "word": "女子推理社",
+        "onboard_time": 1740588854,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59009,
+        "num": 59009,
+        "word": "翟潇闻说告白戏床塌了后全现挂",
+        "onboard_time": 1740611055,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58558,
+        "num": 58558,
+        "word": "爱你 紫苏叶包烤肉",
+        "onboard_time": 1740609133,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58482,
+        "num": 58482,
+        "word": "Bin",
+        "onboard_time": 1740571099,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 57908,
+        "num": 57908,
+        "word": "温以凡 草莓蛋糕很好吃",
+        "onboard_time": 1740578361,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56988,
+        "num": 57507,
+        "word": "英伟达第四财季净利润大增80%",
+        "onboard_time": 1740611836,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 57369,
+        "num": 57369,
+        "word": "白宫确认美政府效率部正式负责人",
+        "onboard_time": 1740612436,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 53598,
+        "num": 53598,
+        "word": "文颖倩 女团学",
+        "onboard_time": 1740579681,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52294,
+        "num": 52294,
+        "word": "特朗普称有必要在乌部署维和部队",
+        "onboard_time": 1740586458,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 27682,
+        "num": 49306,
+        "word": "Knight下次会赢回来的",
+        "onboard_time": 1740612317,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 49061,
+        "num": 49061,
+        "word": "社恐小老虎与游客互动紧抱管理员",
+        "onboard_time": 1740608832,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48097,
+        "num": 48097,
+        "word": "两辈子都爱一个人的男主",
+        "onboard_time": 1740583280,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平为基层减负的故事#"
+    }
+  }
+}
