@@ -1,6 +1,6 @@
 {
   "startTime": 1740587402639,
-  "endTime": 1740608526946,
+  "endTime": 1740609584885,
   "band_list": [
     {
       "raw_hot": 1135494,
@@ -211,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135463,
+      "num": 135463,
+      "word": "大学老师说AI作文全判0分",
+      "onboard_time": 1740593414,
+      "rank": 29,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 130226,
       "num": 130226,
       "word": "吒儿继续一亿一亿往上冲",
@@ -363,12 +371,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 85657,
-      "num": 85657,
-      "word": "大学老师说AI作文全判0分",
-      "onboard_time": 1740593414,
-      "rank": 29,
-      "category": "民生新闻,教育"
+      "raw_hot": 74536,
+      "num": 74536,
+      "word": "女子辱骂冲撞交警被刑拘",
+      "onboard_time": 1740606612,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66791,
@@ -435,28 +443,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 33446,
-      "num": 36950,
-      "word": "温霜降角色号晒独家物料",
-      "onboard_time": 1740591015,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 32910,
-      "num": 36947,
+      "raw_hot": 41742,
+      "num": 41742,
       "word": "博主回应报考北大研究生笔试412",
       "onboard_time": 1740572360,
       "rank": 48,
       "category": "教育"
     },
     {
-      "raw_hot": 30548,
-      "num": 30548,
-      "word": "女子辱骂冲撞交警被刑拘",
-      "onboard_time": 1740606612,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 37306,
+      "num": 37306,
+      "word": "韩国中小学将迎规模最大关停潮",
+      "onboard_time": 1740596113,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 33446,
+      "num": 36950,
+      "word": "温霜降角色号晒独家物料",
+      "onboard_time": 1740591015,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 27070,
@@ -467,14 +475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 26653,
-      "num": 26653,
-      "word": "韩国中小学将迎规模最大关停潮",
-      "onboard_time": 1740596113,
-      "rank": 44,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 25860,
       "num": 437075,
       "word": "我国综合极端条件实验装置通过验收",
@@ -483,12 +483,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25065,
+      "num": 25065,
+      "word": "100天后高考",
+      "onboard_time": 1740591015,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 24035,
       "num": 24035,
       "word": "檀健次矜贵公子气质",
       "onboard_time": 1740593651,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 23117,
+      "num": 23117,
+      "word": "欧盟也想与乌达成关键原料协议",
+      "onboard_time": 1740603850,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 22304,
@@ -516,19 +532,19 @@
     },
     {
       "raw_hot": 20572,
-      "num": 21622,
+      "num": 21886,
       "word": "肖战海外秀场应援",
       "onboard_time": 1740594131,
       "rank": 46,
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 20113,
-      "num": 20113,
-      "word": "欧盟也想与乌达成关键原料协议",
-      "onboard_time": 1740603850,
-      "rank": 48,
-      "category": "国际时政"
+      "raw_hot": 19531,
+      "num": 184643,
+      "word": "春耕农忙正当时",
+      "onboard_time": 1740575240,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19517,
@@ -539,12 +555,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 16911,
-      "num": 21618,
-      "word": "100天后高考",
-      "onboard_time": 1740591015,
-      "rank": 49,
-      "category": "教育"
+      "raw_hot": 18170,
+      "num": 21870,
+      "word": "爱你 紫苏叶包烤肉",
+      "onboard_time": 1740609133,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 16426,
@@ -555,20 +571,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15894,
+      "num": 21853,
+      "word": "当我不小心在墙上多打了两个洞",
+      "onboard_time": 1740609313,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 14662,
       "num": 15478,
       "word": "反复上星重播的热剧",
       "onboard_time": 1740595031,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 14222,
-      "num": 184643,
-      "word": "春耕农忙正当时",
-      "onboard_time": 1740575240,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13418,

@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740608526946,
+  "endTime": 1740609584885,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -9619,6 +9619,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 135463,
+      "num": 135463,
+      "word": "大学老师说AI作文全判0分",
+      "onboard_time": 1740593414,
+      "rank": 29,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 135063,
       "num": 200212,
       "word": "春风十里不如你",
@@ -11259,14 +11267,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 85657,
-      "num": 85657,
-      "word": "大学老师说AI作文全判0分",
-      "onboard_time": 1740593414,
-      "rank": 29,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 84883,
       "num": 191686,
       "word": "男子独自登山失联8天后遗体被找到",
@@ -11553,6 +11553,14 @@
       "onboard_time": 1740404481,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 74536,
+      "num": 74536,
+      "word": "女子辱骂冲撞交警被刑拘",
+      "onboard_time": 1740606612,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74488,
@@ -12691,6 +12699,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 37306,
+      "num": 37306,
+      "word": "韩国中小学将迎规模最大关停潮",
+      "onboard_time": 1740596113,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 37176,
       "num": 263237,
       "word": "张伟丽重回14年前发传单路口",
@@ -12955,14 +12971,6 @@
       "category": "民生新闻,国际时政"
     },
     {
-      "raw_hot": 30548,
-      "num": 30548,
-      "word": "女子辱骂冲撞交警被刑拘",
-      "onboard_time": 1740606612,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30061,
       "num": 163363,
       "word": "智搜DS预测金价走势",
@@ -13171,14 +13179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 26653,
-      "num": 26653,
-      "word": "韩国中小学将迎规模最大关停潮",
-      "onboard_time": 1740596113,
-      "rank": 44,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 26542,
       "num": 191978,
       "word": "蛋黄烤酥饼",
@@ -13249,6 +13249,14 @@
       "onboard_time": 1740507913,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25065,
+      "num": 25065,
+      "word": "100天后高考",
+      "onboard_time": 1740591015,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 24775,
@@ -13329,6 +13337,14 @@
       "onboard_time": 1740493822,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23117,
+      "num": 23117,
+      "word": "欧盟也想与乌达成关键原料协议",
+      "onboard_time": 1740603850,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 22921,
@@ -13476,7 +13492,7 @@
     },
     {
       "raw_hot": 20572,
-      "num": 21622,
+      "num": 21886,
       "word": "肖战海外秀场应援",
       "onboard_time": 1740594131,
       "rank": 46,
@@ -13507,20 +13523,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 20113,
-      "num": 20113,
-      "word": "欧盟也想与乌达成关键原料协议",
-      "onboard_time": 1740603850,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 19878,
       "num": 390048,
       "word": "老戏骨林保怡没拿影帝但赢了人生",
       "onboard_time": 1740384321,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 19531,
+      "num": 184643,
+      "word": "春耕农忙正当时",
+      "onboard_time": 1740575240,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19517,
@@ -13619,6 +13635,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 18170,
+      "num": 21870,
+      "word": "爱你 紫苏叶包烤肉",
+      "onboard_time": 1740609133,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 17919,
       "num": 146049,
       "word": "DeepSeek评35岁职场危机",
@@ -13649,14 +13673,6 @@
       "onboard_time": 1740510491,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 16911,
-      "num": 21618,
-      "word": "100天后高考",
-      "onboard_time": 1740591015,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 16802,
@@ -13723,6 +13739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 15894,
+      "num": 21853,
+      "word": "当我不小心在墙上多打了两个洞",
+      "onboard_time": 1740609313,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 15443,
       "num": 25962,
       "word": "外交部回应特朗普欲加大限制中国芯片",
@@ -13761,14 +13785,6 @@
       "onboard_time": 1740405084,
       "rank": 26,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 14222,
-      "num": 184643,
-      "word": "春耕农忙正当时",
-      "onboard_time": 1740575240,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13535,

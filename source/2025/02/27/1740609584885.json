@@ -1,0 +1,410 @@
+{
+  "runTime": 1740609584885,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 255992,
+        "num": 479864,
+        "word": "中国男子在韩国交易加密货币被劫杀",
+        "onboard_time": 1740581839,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 135463,
+        "num": 135463,
+        "word": "大学老师说AI作文全判0分",
+        "onboard_time": 1740593414,
+        "rank": 1,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 19531,
+        "num": 110521,
+        "word": "春耕农忙正当时",
+        "onboard_time": 1740575240,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107145,
+        "num": 107145,
+        "word": "六姊妹 辣目洋子",
+        "onboard_time": 1740581001,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101810,
+        "num": 101810,
+        "word": "单依纯胖了更有力气唱歌",
+        "onboard_time": 1740581839,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88419,
+        "num": 88419,
+        "word": "外媒曝美欲将加拿大逐出五眼联盟",
+        "onboard_time": 1740582500,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 83080,
+        "num": 83080,
+        "word": "女生遭性侵溺亡案检方将抗诉",
+        "onboard_time": 1740582800,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78090,
+        "num": 78090,
+        "word": "存款利息低DeepSeek建议钱往哪里放",
+        "onboard_time": 1740573619,
+        "rank": 7,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 75920,
+        "num": 75920,
+        "word": "北上导演因白鹿太漂亮有过顾虑",
+        "onboard_time": 1740575720,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74536,
+        "num": 74536,
+        "word": "女子辱骂冲撞交警被刑拘",
+        "onboard_time": 1740606612,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303259,
+        "num": 73601,
+        "word": "贾静雯大女儿梧桐妹回怼继父",
+        "onboard_time": 1740584240,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163822,
+        "num": 71222,
+        "word": "女生称面试王安宇新剧电动车被聘了",
+        "onboard_time": 1740583639,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68004,
+        "num": 68004,
+        "word": "戴墨镜真的能快速提高颜值",
+        "onboard_time": 1740583579,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60183,
+        "num": 60183,
+        "word": "美国队长4票房破亿",
+        "onboard_time": 1740583879,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 58462,
+        "num": 58462,
+        "word": "吒儿继续一亿一亿往上冲",
+        "onboard_time": 1740572540,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 56294,
+        "num": 56294,
+        "word": "每年因乳腺癌死亡的人数将增加68%",
+        "onboard_time": 1740577761,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 52212,
+        "num": 52212,
+        "word": "樊振东和黄老板打乒乓球",
+        "onboard_time": 1740581182,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45269,
+        "num": 45269,
+        "word": "乌克兰和美国已定矿产协议最终版本",
+        "onboard_time": 1740570439,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 44221,
+        "num": 44221,
+        "word": "郭涛儿子石头18岁近照",
+        "onboard_time": 1740575480,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41811,
+        "num": 41811,
+        "word": "看得出迪丽热巴刘宇宁推理得很激烈",
+        "onboard_time": 1740578420,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114261,
+        "num": 41786,
+        "word": "关晓彤新片出品人是邓超",
+        "onboard_time": 1740565519,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 92265,
+        "num": 41785,
+        "word": "方媛称已报警",
+        "onboard_time": 1740565638,
+        "rank": 21,
+        "category": "艺人,海外新闻"
+      },
+      {
+        "raw_hot": 64824,
+        "num": 41777,
+        "word": "前男友用牙签抠走女子存钱罐3000多元",
+        "onboard_time": 1740565760,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41742,
+        "num": 41742,
+        "word": "博主回应报考北大研究生笔试412",
+        "onboard_time": 1740572360,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 37306,
+        "num": 37306,
+        "word": "韩国中小学将迎规模最大关停潮",
+        "onboard_time": 1740596113,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 35561,
+        "num": 35561,
+        "word": "肖指导打了7针封闭",
+        "onboard_time": 1740581721,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34284,
+        "num": 34284,
+        "word": "特朗普称有必要在乌部署维和部队",
+        "onboard_time": 1740586458,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 33804,
+        "num": 33804,
+        "word": "且初 李昀锐",
+        "onboard_time": 1740582861,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33237,
+        "num": 33237,
+        "word": "张康乐 马柏全",
+        "onboard_time": 1740581301,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31492,
+        "num": 31492,
+        "word": "演员请就位延播",
+        "onboard_time": 1740579681,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30093,
+        "num": 30093,
+        "word": "谭松韵张新成 二搭",
+        "onboard_time": 1740580881,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28968,
+        "num": 28968,
+        "word": "女子推理社",
+        "onboard_time": 1740588854,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28957,
+        "num": 28957,
+        "word": "买到贵但是不后悔的好东西",
+        "onboard_time": 1740582921,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28851,
+        "num": 28851,
+        "word": "Bin",
+        "onboard_time": 1740571099,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 27685,
+        "num": 27685,
+        "word": "2025年的汤唯",
+        "onboard_time": 1740584600,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26760,
+        "num": 26760,
+        "word": "李一桐神女",
+        "onboard_time": 1740581240,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26418,
+        "num": 26418,
+        "word": "唐嫣压轴走秀",
+        "onboard_time": 1740579141,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 25444,
+        "num": 25444,
+        "word": "滤镜 虐男主",
+        "onboard_time": 1740581721,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25214,
+        "num": 25214,
+        "word": "湖南卫视考古张艺兴",
+        "onboard_time": 1740588495,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 25065,
+        "num": 25065,
+        "word": "100天后高考",
+        "onboard_time": 1740591015,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 24760,
+        "num": 24760,
+        "word": "文颖倩 女团学",
+        "onboard_time": 1740579681,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24254,
+        "num": 24254,
+        "word": "温以凡 草莓蛋糕很好吃",
+        "onboard_time": 1740578361,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23117,
+        "num": 23117,
+        "word": "欧盟也想与乌达成关键原料协议",
+        "onboard_time": 1740603850,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21944,
+        "num": 21944,
+        "word": "樊振东黄老板互关",
+        "onboard_time": 1740585319,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21886,
+        "num": 21886,
+        "word": "男子性侵未遂致人溺亡案二审将开庭",
+        "onboard_time": 1740583579,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20373,
+        "num": 21886,
+        "word": "肖战海外秀场应援",
+        "onboard_time": 1740594131,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 19240,
+        "num": 21874,
+        "word": "Bin 傲慢",
+        "onboard_time": 1740578061,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 18170,
+        "num": 21870,
+        "word": "爱你 紫苏叶包烤肉",
+        "onboard_time": 1740609133,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16465,
+        "num": 21864,
+        "word": "Bin输和赢都是人生常态",
+        "onboard_time": 1740582861,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 15894,
+        "num": 21853,
+        "word": "当我不小心在墙上多打了两个洞",
+        "onboard_time": 1740609313,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平为基层减负的故事#"
+    }
+  }
+}
