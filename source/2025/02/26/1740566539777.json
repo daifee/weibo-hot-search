@@ -1,0 +1,410 @@
+{
+  "runTime": 1740566539777,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1704069,
+        "num": 1704069,
+        "word": "郭富城妻子称在米兰被抢劫",
+        "onboard_time": 1740561319,
+        "rank": 0,
+        "category": "艺人,海外新闻"
+      },
+      {
+        "raw_hot": 655092,
+        "num": 655092,
+        "word": "公司要求抄佛经逼员工离职赔12万",
+        "onboard_time": 1740560359,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46937,
+        "num": 546425,
+        "word": "2024我国民营经济外贸领域再创佳绩",
+        "onboard_time": 1740561739,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 867324,
+        "num": 526320,
+        "word": "总领馆回应郭富城妻子称米兰遭抢劫",
+        "onboard_time": 1740562939,
+        "rank": 3,
+        "category": "艺人,海外新闻"
+      },
+      {
+        "raw_hot": 484118,
+        "num": 484118,
+        "word": "漫画难哄名场面1比1还原",
+        "onboard_time": 1740563659,
+        "rank": 4,
+        "category": "动漫,剧集"
+      },
+      {
+        "raw_hot": 454662,
+        "num": 454662,
+        "word": "未来可能钱存越久利息越少",
+        "onboard_time": 1740557419,
+        "rank": 5,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 765919,
+        "num": 454154,
+        "word": "难哄豆瓣开分5.4",
+        "onboard_time": 1740563540,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 569377,
+        "num": 452877,
+        "word": "方媛称米兰遭抢劫网友支招",
+        "onboard_time": 1740564678,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450415,
+        "num": 450415,
+        "word": "孙杨说禁赛时只能从足浴店找按摩师",
+        "onboard_time": 1740550819,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255273,
+        "num": 450060,
+        "word": "特朗普政府解冻8.7亿美元对台军援",
+        "onboard_time": 1740565399,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 881567,
+        "num": 449868,
+        "word": "男友去世女子想生遗腹子被公婆劝阻",
+        "onboard_time": 1740547998,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 728572,
+        "num": 449398,
+        "word": "南京师范大学涉事办公室已被查封",
+        "onboard_time": 1740563239,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 663673,
+        "num": 448940,
+        "word": "禁止电竞选手2月23号洗澡",
+        "onboard_time": 1740554719,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 470503,
+        "num": 448593,
+        "word": "创124青123打起来了",
+        "onboard_time": 1740556399,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140861,
+        "num": 448116,
+        "word": "方媛称已报警",
+        "onboard_time": 1740565638,
+        "rank": 14,
+        "category": "艺人,海外新闻"
+      },
+      {
+        "raw_hot": 454787,
+        "num": 447611,
+        "word": "关晓彤新片出品人是邓超",
+        "onboard_time": 1740565519,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 447571,
+        "num": 447571,
+        "word": "哪吒2冲全球票房第7",
+        "onboard_time": 1740539958,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 318775,
+        "num": 318775,
+        "word": "监控还原猫咪尸体被放课桌事件",
+        "onboard_time": 1740546139,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136527,
+        "num": 313016,
+        "word": "是唐九洲本人能干出来的事",
+        "onboard_time": 1740565399,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311414,
+        "num": 311414,
+        "word": "男童走失用银行ATM自救",
+        "onboard_time": 1740558499,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381875,
+        "num": 306663,
+        "word": "李兰迪 金发洋娃娃",
+        "onboard_time": 1740564020,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 313031,
+        "num": 299599,
+        "word": "前男友用牙签抠走女子存钱罐3000多元",
+        "onboard_time": 1740565760,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43372,
+        "num": 294663,
+        "word": "刘浩存怎么怼脸还这么美",
+        "onboard_time": 1740564379,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 312859,
+        "num": 289186,
+        "word": "张豆豆说孙杨年纪大孙杨搞笑挥拳",
+        "onboard_time": 1740564078,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163144,
+        "num": 282604,
+        "word": "无畏微博里的含猫量",
+        "onboard_time": 1740566299,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 276816,
+        "num": 276816,
+        "word": "考了这些证书的可享个税扣除",
+        "onboard_time": 1740554178,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274169,
+        "num": 274169,
+        "word": "肖战billkin金硕珍G社生图",
+        "onboard_time": 1740555919,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 237234,
+        "num": 237234,
+        "word": "宋丹丹和老公手牵手逛街",
+        "onboard_time": 1740564438,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226702,
+        "num": 226702,
+        "word": "饶雪漫说苏有朋不用整过容的演员",
+        "onboard_time": 1740548419,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93884,
+        "num": 223071,
+        "word": "魏建军又给高阶智驾上强度了",
+        "onboard_time": 1740564259,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 220945,
+        "num": 220945,
+        "word": "边伯贤权志龙合照",
+        "onboard_time": 1740565760,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217665,
+        "num": 217665,
+        "word": "祝绪丹亲了王珞丹",
+        "onboard_time": 1740560479,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214298,
+        "num": 214298,
+        "word": "跳绳是最佳减肥塑身运动",
+        "onboard_time": 1740559579,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 199680,
+        "num": 199680,
+        "word": "豪车女销冠称两年卖340台车却不快乐",
+        "onboard_time": 1740564259,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 194315,
+        "num": 194315,
+        "word": "男子钓鱼剖开鱼肚发现17个假饵",
+        "onboard_time": 1740558199,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184467,
+        "num": 184467,
+        "word": "于正恭喜白鹿北上央一播出",
+        "onboard_time": 1740552499,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183078,
+        "num": 183078,
+        "word": "非洲登陆计划拟邀登陆少年",
+        "onboard_time": 1740566059,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177948,
+        "num": 177948,
+        "word": "大唐荣耀重映收视第一",
+        "onboard_time": 1740565999,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174399,
+        "num": 174399,
+        "word": "农民工65万元工资被转移截留",
+        "onboard_time": 1740566240,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154911,
+        "num": 154911,
+        "word": "迪丽热巴开推埃及艳后造型",
+        "onboard_time": 1740544882,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45699,
+        "num": 153862,
+        "word": "青海湖边的小村庄居然也包邮",
+        "onboard_time": 1740562578,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153782,
+        "num": 153782,
+        "word": "代拍镜头下的迪丽热巴",
+        "onboard_time": 1740563597,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153097,
+        "num": 153097,
+        "word": "早就说了李承铉对戚薇是生理性喜欢",
+        "onboard_time": 1740560539,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150865,
+        "num": 150865,
+        "word": "女子给大学老师打工被拖欠8万工资",
+        "onboard_time": 1740561918,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9952,
+        "num": 145687,
+        "word": "胡兵的一天VS我的一天",
+        "onboard_time": 1740566299,
+        "rank": 44,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 68826,
+        "num": 143234,
+        "word": "中国技术加速出海",
+        "onboard_time": 1740566359,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 142001,
+        "num": 142001,
+        "word": "网恋2个月后发现女友是AI",
+        "onboard_time": 1740547700,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137109,
+        "num": 137109,
+        "word": "丁禹兮百万直拍达成",
+        "onboard_time": 1740565699,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127175,
+        "num": 127175,
+        "word": "滤镜",
+        "onboard_time": 1740564199,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124334,
+        "num": 124334,
+        "word": "肖战低头看胸口",
+        "onboard_time": 1740562820,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#更好发挥县城连接城市带动乡村作用#"
+    }
+  }
+}

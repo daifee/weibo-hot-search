@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740565516469,
+  "endTime": 1740566539777,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -1387,6 +1387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 765919,
+      "num": 454154,
+      "word": "难哄豆瓣开分5.4",
+      "onboard_time": 1740563540,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 765214,
       "num": 748313,
       "word": "金靖 昨天何医生又给我把脉了",
@@ -1505,6 +1513,14 @@
       "onboard_time": 1740396500,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 728572,
+      "num": 449398,
+      "word": "南京师范大学涉事办公室已被查封",
+      "onboard_time": 1740563239,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 727774,
@@ -1739,14 +1755,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 682471,
-      "num": 428991,
-      "word": "难哄豆瓣开分5.4",
-      "onboard_time": 1740563540,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 680373,
       "num": 674390,
       "word": "Melody方回应新恋情",
@@ -1841,6 +1849,14 @@
       "onboard_time": 1740401600,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 655092,
+      "num": 655092,
+      "word": "公司要求抄佛经逼员工离职赔12万",
+      "onboard_time": 1740560359,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 652614,
@@ -1947,14 +1963,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 619102,
-      "num": 619102,
-      "word": "公司要求抄佛经逼员工离职赔12万",
-      "onboard_time": 1740560359,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 613715,
       "num": 613715,
       "word": "手机NFC功能碰一下钱就没了系摆拍",
@@ -2008,14 +2016,6 @@
       "word": "校方回应猫咪尸体被塞进学生课桌",
       "onboard_time": 1740461360,
       "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 597420,
-      "num": 334635,
-      "word": "南京师范大学涉事办公室已被查封",
-      "onboard_time": 1740563239,
-      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -2136,6 +2136,14 @@
       "word": "刘晓庆毛戈平 友情比爱情更长久",
       "onboard_time": 1740485242,
       "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 569377,
+      "num": 452877,
+      "word": "方媛称米兰遭抢劫网友支招",
+      "onboard_time": 1740564678,
+      "rank": 9,
       "category": "艺人"
     },
     {
@@ -2539,6 +2547,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 484118,
+      "num": 484118,
+      "word": "漫画难哄名场面1比1还原",
+      "onboard_time": 1740563659,
+      "rank": 8,
+      "category": "动漫,剧集"
+    },
+    {
       "raw_hot": 483892,
       "num": 483892,
       "word": "迅猛龙分享考研",
@@ -2737,6 +2753,14 @@
       "onboard_time": 1740295400,
       "rank": 7,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 454787,
+      "num": 447611,
+      "word": "关晓彤新片出品人是邓超",
+      "onboard_time": 1740565519,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 454325,
@@ -3163,6 +3187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 381875,
+      "num": 306663,
+      "word": "李兰迪 金发洋娃娃",
+      "onboard_time": 1740564020,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 381367,
       "num": 381367,
       "word": "厚衣服先别着急收起来",
@@ -3523,14 +3555,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 338086,
-      "num": 338086,
-      "word": "漫画难哄名场面1比1还原",
-      "onboard_time": 1740563659,
-      "rank": 8,
-      "category": "动漫,剧集"
-    },
-    {
       "raw_hot": 333348,
       "num": 333348,
       "word": "难哄追剧日历",
@@ -3729,6 +3753,22 @@
       "onboard_time": 1740326480,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 313031,
+      "num": 299599,
+      "word": "前男友用牙签抠走女子存钱罐3000多元",
+      "onboard_time": 1740565760,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 312859,
+      "num": 289186,
+      "word": "张豆豆说孙杨年纪大孙杨搞笑挥拳",
+      "onboard_time": 1740564078,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 311917,
@@ -4099,14 +4139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 283384,
-      "num": 283384,
-      "word": "张豆豆说孙杨年纪大孙杨搞笑挥拳",
-      "onboard_time": 1740564078,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 283348,
       "num": 394206,
       "word": "如何治理农村高额彩礼",
@@ -4233,14 +4265,6 @@
       "onboard_time": 1740285500,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 274630,
-      "num": 274630,
-      "word": "李兰迪 金发洋娃娃",
-      "onboard_time": 1740564020,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 274152,
@@ -4441,6 +4465,14 @@
       "onboard_time": 1740501855,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 255273,
+      "num": 450060,
+      "word": "特朗普政府解冻8.7亿美元对台军援",
+      "onboard_time": 1740565399,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 255183,
@@ -4761,6 +4793,14 @@
       "onboard_time": 1740484640,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 237234,
+      "num": 237234,
+      "word": "宋丹丹和老公手牵手逛街",
+      "onboard_time": 1740564438,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 237222,
@@ -5123,6 +5163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 220945,
+      "num": 220945,
+      "word": "边伯贤权志龙合照",
+      "onboard_time": 1740565760,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220430,
       "num": 256066,
       "word": "NBA",
@@ -5417,14 +5465,6 @@
       "onboard_time": 1740373402,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 211446,
-      "num": 211446,
-      "word": "宋丹丹和老公手牵手逛街",
-      "onboard_time": 1740564438,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 211364,
@@ -6531,6 +6571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183078,
+      "num": 183078,
+      "word": "非洲登陆计划拟邀登陆少年",
+      "onboard_time": 1740566059,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182471,
       "num": 182471,
       "word": "林一参加黄明昊签售会",
@@ -6697,6 +6745,14 @@
       "onboard_time": 1740467660,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177948,
+      "num": 177948,
+      "word": "大唐荣耀重映收视第一",
+      "onboard_time": 1740565999,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 177425,
@@ -6873,6 +6929,14 @@
       "onboard_time": 1740548360,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174399,
+      "num": 174399,
+      "word": "农民工65万元工资被转移截留",
+      "onboard_time": 1740566240,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173968,
@@ -7449,6 +7513,14 @@
       "onboard_time": 1740555678,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163144,
+      "num": 282604,
+      "word": "无畏微博里的含猫量",
+      "onboard_time": 1740566299,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 162985,
@@ -8499,6 +8571,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 140861,
+      "num": 448116,
+      "word": "方媛称已报警",
+      "onboard_time": 1740565638,
+      "rank": 14,
+      "category": "艺人,海外新闻"
+    },
+    {
       "raw_hot": 140487,
       "num": 140487,
       "word": "金钟仁cha了WATER",
@@ -8651,6 +8731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137109,
+      "num": 137109,
+      "word": "丁禹兮百万直拍达成",
+      "onboard_time": 1740565699,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136935,
       "num": 187633,
       "word": "王楚钦林昀儒世界级对攻",
@@ -8689,6 +8777,14 @@
       "onboard_time": 1740308959,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136527,
+      "num": 313016,
+      "word": "是唐九洲本人能干出来的事",
+      "onboard_time": 1740565399,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 136464,
@@ -9563,14 +9659,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 112470,
-      "num": 112470,
-      "word": "特朗普政府解冻8.7亿美元对台军援",
-      "onboard_time": 1740565399,
-      "rank": 49,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 112273,
       "num": 112273,
       "word": "王楚钦胜林昀儒",
@@ -9777,14 +9865,6 @@
       "onboard_time": 1740237022,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 107302,
-      "num": 337913,
-      "word": "方媛称米兰遭抢劫网友支招",
-      "onboard_time": 1740564678,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 106135,
@@ -10635,6 +10715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68826,
+      "num": 143234,
+      "word": "中国技术加速出海",
+      "onboard_time": 1740566359,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 68048,
       "num": 159058,
       "word": "网售甄嬛传息肌丸已卖出1.1万单",
@@ -10857,14 +10945,6 @@
       "onboard_time": 1740518651,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 60573,
-      "num": 138376,
-      "word": "是唐九洲本人能干出来的事",
-      "onboard_time": 1740565399,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 59735,
@@ -11291,6 +11371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 46937,
+      "num": 993062,
+      "word": "2024我国民营经济外贸领域再创佳绩",
+      "onboard_time": 1740561739,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46902,
       "num": 155989,
       "word": "徐涛分享考研出分的5点建议",
@@ -11371,6 +11459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43372,
+      "num": 294663,
+      "word": "刘浩存怎么怼脸还这么美",
+      "onboard_time": 1740564379,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 43105,
       "num": 195521,
       "word": "这些人群不建议早起喝蜂蜜水",
@@ -11425,14 +11521,6 @@
       "onboard_time": 1740540319,
       "rank": 29,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 41135,
-      "num": 993062,
-      "word": "2024我国民营经济外贸领域再创佳绩",
-      "onboard_time": 1740561739,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 41120,
@@ -11529,14 +11617,6 @@
       "onboard_time": 1740371722,
       "rank": 16,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 36813,
-      "num": 247975,
-      "word": "刘浩存怎么怼脸还这么美",
-      "onboard_time": 1740564379,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 36752,
@@ -12617,6 +12697,14 @@
       "onboard_time": 1740337452,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 9952,
+      "num": 145687,
+      "word": "胡兵的一天VS我的一天",
+      "onboard_time": 1740566299,
+      "rank": 44,
+      "category": "时尚"
     },
     {
       "raw_hot": 9579,

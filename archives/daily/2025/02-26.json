@@ -1,6 +1,6 @@
 {
   "startTime": 1740500996613,
-  "endTime": 1740565516469,
+  "endTime": 1740566539777,
   "band_list": [
     {
       "raw_hot": 2799685,
@@ -275,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 765919,
+      "num": 454154,
+      "word": "难哄豆瓣开分5.4",
+      "onboard_time": 1740563540,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 761740,
       "num": 761740,
       "word": "于正恭喜白鹿北上央一播出",
@@ -315,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 728572,
+      "num": 449398,
+      "word": "南京师范大学涉事办公室已被查封",
+      "onboard_time": 1740563239,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 727774,
       "num": 266620,
       "word": "CEO会换但肖战的座位不会换",
@@ -347,20 +363,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 682471,
-      "num": 428991,
-      "word": "难哄豆瓣开分5.4",
-      "onboard_time": 1740563540,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 680373,
       "num": 674390,
       "word": "Melody方回应新恋情",
       "onboard_time": 1740542301,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 655092,
+      "num": 655092,
+      "word": "公司要求抄佛经逼员工离职赔12万",
+      "onboard_time": 1740560359,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 638040,
@@ -379,14 +395,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 619102,
-      "num": 619102,
-      "word": "公司要求抄佛经逼员工离职赔12万",
-      "onboard_time": 1740560359,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 611238,
       "num": 611238,
       "word": "肖战billkin金硕珍G社生图",
@@ -401,14 +409,6 @@
       "onboard_time": 1740529159,
       "rank": 14,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 597420,
-      "num": 334635,
-      "word": "南京师范大学涉事办公室已被查封",
-      "onboard_time": 1740563239,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 596028,
@@ -441,6 +441,14 @@
       "onboard_time": 1740528020,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 569377,
+      "num": 452877,
+      "word": "方媛称米兰遭抢劫网友支招",
+      "onboard_time": 1740564678,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 564735,
@@ -481,6 +489,14 @@
       "onboard_time": 1740533119,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 484118,
+      "num": 484118,
+      "word": "漫画难哄名场面1比1还原",
+      "onboard_time": 1740563659,
+      "rank": 8,
+      "category": "动漫,剧集"
     },
     {
       "raw_hot": 483389,
@@ -553,6 +569,14 @@
       "onboard_time": 1740528500,
       "rank": 8,
       "category": "网红"
+    },
+    {
+      "raw_hot": 454787,
+      "num": 447611,
+      "word": "关晓彤新片出品人是邓超",
+      "onboard_time": 1740565519,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 452953,
@@ -635,6 +659,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 381875,
+      "num": 306663,
+      "word": "李兰迪 金发洋娃娃",
+      "onboard_time": 1740564020,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 380119,
       "num": 380119,
       "word": "全亚洲最大IMAXGT影厅因哪吒改命",
@@ -673,14 +705,6 @@
       "onboard_time": 1740493283,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 338086,
-      "num": 338086,
-      "word": "漫画难哄名场面1比1还原",
-      "onboard_time": 1740563659,
-      "rank": 8,
-      "category": "动漫,剧集"
     },
     {
       "raw_hot": 335416,
@@ -771,6 +795,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 313031,
+      "num": 299599,
+      "word": "前男友用牙签抠走女子存钱罐3000多元",
+      "onboard_time": 1740565760,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 312859,
+      "num": 289186,
+      "word": "张豆豆说孙杨年纪大孙杨搞笑挥拳",
+      "onboard_time": 1740564078,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 305638,
       "num": 251276,
       "word": "米兰偶遇肖战吃川菜",
@@ -835,28 +875,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 283384,
-      "num": 283384,
-      "word": "张豆豆说孙杨年纪大孙杨搞笑挥拳",
-      "onboard_time": 1740564078,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 276444,
       "num": 276444,
       "word": "白鹿欧豪平番",
       "onboard_time": 1740554899,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 274630,
-      "num": 274630,
-      "word": "李兰迪 金发洋娃娃",
-      "onboard_time": 1740564020,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 271430,
@@ -905,6 +929,14 @@
       "onboard_time": 1740501855,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 255273,
+      "num": 450060,
+      "word": "特朗普政府解冻8.7亿美元对台军援",
+      "onboard_time": 1740565399,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 252954,
@@ -971,6 +1003,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 237234,
+      "num": 237234,
+      "word": "宋丹丹和老公手牵手逛街",
+      "onboard_time": 1740564438,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237222,
       "num": 237222,
       "word": "张凌赫回复了虞书欣",
@@ -1017,6 +1057,14 @@
       "onboard_time": 1740556338,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 220945,
+      "num": 220945,
+      "word": "边伯贤权志龙合照",
+      "onboard_time": 1740565760,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 220430,
@@ -1073,14 +1121,6 @@
       "onboard_time": 1740539660,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 211446,
-      "num": 211446,
-      "word": "宋丹丹和老公手牵手逛街",
-      "onboard_time": 1740564438,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 210702,
@@ -1235,6 +1275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183078,
+      "num": 183078,
+      "word": "非洲登陆计划拟邀登陆少年",
+      "onboard_time": 1740566059,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179905,
       "num": 179905,
       "word": "难哄",
@@ -1257,6 +1305,14 @@
       "onboard_time": 1740536418,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177948,
+      "num": 177948,
+      "word": "大唐荣耀重映收视第一",
+      "onboard_time": 1740565999,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 177119,
@@ -1289,6 +1345,14 @@
       "onboard_time": 1740548360,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174399,
+      "num": 174399,
+      "word": "农民工65万元工资被转移截留",
+      "onboard_time": 1740566240,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172320,
@@ -1409,6 +1473,14 @@
       "onboard_time": 1740555678,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163144,
+      "num": 282604,
+      "word": "无畏微博里的含猫量",
+      "onboard_time": 1740566299,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 162051,
@@ -1627,6 +1699,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 140861,
+      "num": 448116,
+      "word": "方媛称已报警",
+      "onboard_time": 1740565638,
+      "rank": 14,
+      "category": "艺人,海外新闻"
+    },
+    {
       "raw_hot": 140169,
       "num": 172799,
       "word": "乌克兰议会通过禁止战时选举议案",
@@ -1667,12 +1747,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137109,
+      "num": 137109,
+      "word": "丁禹兮百万直拍达成",
+      "onboard_time": 1740565699,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136797,
       "num": 136797,
       "word": "俄多地遭大规模无人机袭击",
       "onboard_time": 1740559398,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 136527,
+      "num": 313016,
+      "word": "是唐九洲本人能干出来的事",
+      "onboard_time": 1740565399,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 136143,
@@ -1907,14 +2003,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 112470,
-      "num": 112470,
-      "word": "特朗普政府解冻8.7亿美元对台军援",
-      "onboard_time": 1740565399,
-      "rank": 49,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 112412,
       "num": 112412,
       "word": "六姊妹谁不想要曹斐然这样的妈",
@@ -1969,14 +2057,6 @@
       "onboard_time": 1740484640,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 107302,
-      "num": 337913,
-      "word": "方媛称米兰遭抢劫网友支招",
-      "onboard_time": 1740564678,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 106065,
@@ -2283,6 +2363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68826,
+      "num": 143234,
+      "word": "中国技术加速出海",
+      "onboard_time": 1740566359,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 68627,
       "num": 68627,
       "word": "我是杨肸子我同意红房子加更",
@@ -2337,14 +2425,6 @@
       "onboard_time": 1740518651,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 60573,
-      "num": 138376,
-      "word": "是唐九洲本人能干出来的事",
-      "onboard_time": 1740565399,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 56318,
@@ -2435,6 +2515,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 46937,
+      "num": 993062,
+      "word": "2024我国民营经济外贸领域再创佳绩",
+      "onboard_time": 1740561739,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43372,
+      "num": 294663,
+      "word": "刘浩存怎么怼脸还这么美",
+      "onboard_time": 1740564379,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 42564,
       "num": 143894,
       "word": "OPPOFindN5托举千斤钢琴",
@@ -2451,28 +2547,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 41135,
-      "num": 993062,
-      "word": "2024我国民营经济外贸领域再创佳绩",
-      "onboard_time": 1740561739,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 39586,
       "num": 236093,
       "word": "特朗普称不止乌资源还想购买俄矿产",
       "onboard_time": 1740558679,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 36813,
-      "num": 247975,
-      "word": "刘浩存怎么怼脸还这么美",
-      "onboard_time": 1740564379,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 36752,
@@ -2777,6 +2857,14 @@
       "onboard_time": 1740510251,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 9952,
+      "num": 145687,
+      "word": "胡兵的一天VS我的一天",
+      "onboard_time": 1740566299,
+      "rank": 44,
+      "category": "时尚"
     },
     {
       "raw_hot": 9579,
