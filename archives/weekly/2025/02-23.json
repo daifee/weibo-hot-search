@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740539086471,
+  "endTime": 1740540585425,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -939,6 +939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 924394,
+      "num": 461309,
+      "word": "警方回应猫尸体被塞课桌",
+      "onboard_time": 1740538458,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 922988,
       "num": 1147678,
       "word": "看似养胃其实伤胃的4件事",
@@ -1457,6 +1465,14 @@
       "onboard_time": 1740239658,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 700285,
+      "num": 700285,
+      "word": "特朗普将推售500万美元移民金卡",
+      "onboard_time": 1740535338,
+      "rank": 4,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 697707,
@@ -2307,6 +2323,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 472142,
+      "num": 472142,
+      "word": "哪吒2票房破139亿",
+      "onboard_time": 1740538638,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 469214,
       "num": 469214,
       "word": "村里的大蒜咖啡一年卖7万杯",
@@ -2537,6 +2561,14 @@
       "onboard_time": 1740408622,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 419355,
+      "num": 419355,
+      "word": "四六级成绩0分是什么情况",
+      "onboard_time": 1740538698,
+      "rank": 14,
+      "category": "教育"
     },
     {
       "raw_hot": 416578,
@@ -3699,6 +3731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 273093,
+      "num": 273093,
+      "word": "白宫称特朗普手背淤青因握手太多",
+      "onboard_time": 1740538339,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 272777,
       "num": 272777,
       "word": "许凯染发了",
@@ -4219,6 +4259,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 232777,
+      "num": 232777,
+      "word": "恋与深空",
+      "onboard_time": 1740458182,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 232650,
       "num": 168075,
       "word": "秦霄贤直播",
@@ -4515,14 +4563,6 @@
       "category": "数码,互联网"
     },
     {
-      "raw_hot": 219446,
-      "num": 200462,
-      "word": "白宫称特朗普手背淤青因握手太多",
-      "onboard_time": 1740538339,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 219172,
       "num": 292579,
       "word": "杨紫的年终总结",
@@ -4699,6 +4739,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 213508,
+      "num": 213508,
+      "word": "柳智敏短发",
+      "onboard_time": 1740540258,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 213275,
       "num": 213275,
       "word": "京东承担外卖骑手五险一金所有成本",
@@ -4713,6 +4761,14 @@
       "onboard_time": 1740310041,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 213107,
+      "num": 213107,
+      "word": "翟潇闻从内娱190的全世界路过",
+      "onboard_time": 1740539660,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 212859,
@@ -4753,14 +4809,6 @@
       "onboard_time": 1740375142,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 211091,
-      "num": 211091,
-      "word": "哪吒2票房破139亿",
-      "onboard_time": 1740538638,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 211037,
@@ -4843,6 +4891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207126,
+      "num": 207126,
+      "word": "北上要上央一了",
+      "onboard_time": 1740538218,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206981,
       "num": 206981,
       "word": "爱你热度",
@@ -4889,6 +4945,14 @@
       "onboard_time": 1740475999,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205376,
+      "num": 205376,
+      "word": "足金价格一夜下跌近10元",
+      "onboard_time": 1740540198,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 205338,
@@ -5035,14 +5099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 201414,
-      "num": 201414,
-      "word": "北上要上央一了",
-      "onboard_time": 1740538218,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 200833,
       "num": 249047,
       "word": "时代少年团肤色",
@@ -5099,20 +5155,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 200025,
+      "num": 376033,
+      "word": "李威保释后首发声",
+      "onboard_time": 1740534618,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199990,
       "num": 214664,
       "word": "佟丽娅祝绪丹林一现身黄明昊演唱会",
       "onboard_time": 1740267674,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 199805,
-      "num": 199805,
-      "word": "警方回应猫尸体被塞课桌",
-      "onboard_time": 1740538458,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 199439,
@@ -5257,14 +5313,6 @@
       "onboard_time": 1740407603,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 194482,
-      "num": 376033,
-      "word": "李威保释后首发声",
-      "onboard_time": 1740534618,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 194413,
@@ -5923,6 +5971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 179068,
+      "num": 179068,
+      "word": "白鹿北上短发海报",
+      "onboard_time": 1740539839,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178922,
       "num": 178922,
       "word": "轩染受伤",
@@ -6531,12 +6587,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 164822,
-      "num": 164822,
-      "word": "恋与深空",
-      "onboard_time": 1740458182,
-      "rank": 47,
-      "category": "游戏"
+      "raw_hot": 165409,
+      "num": 340956,
+      "word": "智利大停电影响98%人口",
+      "onboard_time": 1740537199,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 164745,
@@ -6595,6 +6651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163992,
+      "num": 333840,
+      "word": "四六级总分为什么是710分",
+      "onboard_time": 1740538698,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 163564,
       "num": 163564,
       "word": "DeepSeek",
@@ -6627,6 +6691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162909,
+      "num": 162909,
+      "word": "祁煜沉入无尽海",
+      "onboard_time": 1740540439,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 162615,
       "num": 162615,
       "word": "刘浩存好优越的侧脸",
@@ -6649,6 +6721,14 @@
       "onboard_time": 1740489382,
       "rank": 44,
       "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 162051,
+      "num": 162051,
+      "word": "老人坐轮椅穿马路被货车推行几百米",
+      "onboard_time": 1740539419,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161715,
@@ -7291,6 +7371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 146904,
+      "num": 146904,
+      "word": "他是怎么做到小小年纪就一把年纪的",
+      "onboard_time": 1740535519,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146859,
       "num": 329546,
       "word": "周翊然赛车vlog电影感",
@@ -7385,14 +7473,6 @@
       "onboard_time": 1740406522,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 144997,
-      "num": 144997,
-      "word": "他是怎么做到小小年纪就一把年纪的",
-      "onboard_time": 1740535519,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 144967,
@@ -7537,6 +7617,14 @@
       "onboard_time": 1740478459,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 140169,
+      "num": 172799,
+      "word": "乌克兰议会通过禁止战时选举议案",
+      "onboard_time": 1740535879,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 139927,
@@ -7684,7 +7772,7 @@
     },
     {
       "raw_hot": 136124,
-      "num": 136124,
+      "num": 233446,
       "word": "王楚钦外协细节控白月光",
       "onboard_time": 1740537979,
       "rank": 43,
@@ -7761,14 +7849,6 @@
       "onboard_time": 1740492862,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 133843,
-      "num": 172799,
-      "word": "乌克兰议会通过禁止战时选举议案",
-      "onboard_time": 1740535879,
-      "rank": 32,
-      "category": "国际时政"
     },
     {
       "raw_hot": 133621,
@@ -7857,14 +7937,6 @@
       "onboard_time": 1740447377,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 131516,
-      "num": 340956,
-      "word": "智利大停电影响98%人口",
-      "onboard_time": 1740537199,
-      "rank": 15,
-      "category": "国际时政"
     },
     {
       "raw_hot": 131347,
@@ -8851,6 +8923,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 90900,
+      "num": 470888,
+      "word": "哪吒2冲全球票房第7",
+      "onboard_time": 1740539958,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 90735,
       "num": 255481,
       "word": "盘点3年来俄乌局势关键事件",
@@ -9731,14 +9811,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 53347,
-      "num": 333840,
-      "word": "四六级总分为什么是710分",
-      "onboard_time": 1740538698,
-      "rank": 13,
-      "category": "教育"
-    },
-    {
       "raw_hot": 53276,
       "num": 379211,
       "word": "AI虽有大用看病还得靠医生",
@@ -10043,6 +10115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 41592,
+      "num": 215286,
+      "word": "为什么有时越玩手机越累",
+      "onboard_time": 1740540319,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 41120,
       "num": 228044,
       "word": "檀健次暮冬温暖出发",
@@ -10305,14 +10385,6 @@
       "onboard_time": 1740474922,
       "rank": 28,
       "category": "民生新闻,国际时政"
-    },
-    {
-      "raw_hot": 30276,
-      "num": 333769,
-      "word": "四六级成绩0分是什么情况",
-      "onboard_time": 1740538698,
-      "rank": 14,
-      "category": "教育"
     },
     {
       "raw_hot": 29863,

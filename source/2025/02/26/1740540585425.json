@@ -1,0 +1,410 @@
+{
+  "runTime": 1740540585425,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1362691,
+        "num": 1362691,
+        "word": "黄金",
+        "onboard_time": 1740532939,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1349544,
+        "num": 1349544,
+        "word": "饺子导演撤回了一份入职通知书",
+        "onboard_time": 1740534618,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 42859,
+        "num": 971284,
+        "word": "古诗词里的长江有多美",
+        "onboard_time": 1740495683,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 752443,
+        "num": 752443,
+        "word": "二本情侣苦战3年携手闯入985复试",
+        "onboard_time": 1740534618,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 700285,
+        "num": 700285,
+        "word": "特朗普将推售500万美元移民金卡",
+        "onboard_time": 1740535338,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 693658,
+        "num": 693658,
+        "word": "李威 因果业力来了",
+        "onboard_time": 1740532820,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 626692,
+        "num": 626692,
+        "word": "网红迅猛龙特蕾莎停播三个月备考",
+        "onboard_time": 1740523634,
+        "rank": 6,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 548210,
+        "num": 548210,
+        "word": "你要撑住马上就可以到中国抢救了",
+        "onboard_time": 1740499758,
+        "rank": 7,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 472142,
+        "num": 472142,
+        "word": "哪吒2票房破139亿",
+        "onboard_time": 1740538638,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 90900,
+        "num": 470888,
+        "word": "哪吒2冲全球票房第7",
+        "onboard_time": 1740539958,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 924394,
+        "num": 461309,
+        "word": "警方回应猫尸体被塞课桌",
+        "onboard_time": 1740538458,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 634670,
+        "num": 445614,
+        "word": "九旬老人离世后四亲属被烟闷身亡",
+        "onboard_time": 1740495441,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 586149,
+        "num": 430977,
+        "word": "02年男生苦追班主任终喜结连理",
+        "onboard_time": 1740528440,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 576639,
+        "num": 421490,
+        "word": "素人时期的王安宇",
+        "onboard_time": 1740529640,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420171,
+        "num": 420171,
+        "word": "关晓彤回应近日状态",
+        "onboard_time": 1740477561,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419355,
+        "num": 419355,
+        "word": "四六级成绩0分是什么情况",
+        "onboard_time": 1740538698,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 371812,
+        "num": 371812,
+        "word": "种地吧第三季定档",
+        "onboard_time": 1740536959,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349552,
+        "num": 349552,
+        "word": "女主一集下来微信步数第一",
+        "onboard_time": 1740528681,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 327568,
+        "num": 327568,
+        "word": "猫尸体塞课桌学校称不确定是否人为",
+        "onboard_time": 1740530300,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315453,
+        "num": 315453,
+        "word": "肖战突然从怀里掏出一个小风扇",
+        "onboard_time": 1740529159,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 273093,
+        "num": 273093,
+        "word": "白宫称特朗普手背淤青因握手太多",
+        "onboard_time": 1740538339,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 249901,
+        "num": 249901,
+        "word": "大奉打更人",
+        "onboard_time": 1740534438,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244583,
+        "num": 244583,
+        "word": "泰国一巴士翻车致17人死亡",
+        "onboard_time": 1740535638,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 237633,
+        "num": 237633,
+        "word": "为保胎妈妈以臀高位姿势卧床1个月",
+        "onboard_time": 1740493822,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103770,
+        "num": 233446,
+        "word": "王楚钦外协细节控白月光",
+        "onboard_time": 1740537979,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259717,
+        "num": 233367,
+        "word": "米兰偶遇肖战吃川菜",
+        "onboard_time": 1740535998,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 232777,
+        "num": 232777,
+        "word": "恋与深空",
+        "onboard_time": 1740539899,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 231031,
+        "num": 231031,
+        "word": "司藤原班人马 龙骨焚箱",
+        "onboard_time": 1740494484,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219305,
+        "num": 219305,
+        "word": "四六级成绩",
+        "onboard_time": 1740526218,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 41592,
+        "num": 215286,
+        "word": "为什么有时越玩手机越累",
+        "onboard_time": 1740540319,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 213508,
+        "num": 213508,
+        "word": "柳智敏短发",
+        "onboard_time": 1740540258,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 213396,
+        "num": 213396,
+        "word": "张凌赫回复了虞书欣",
+        "onboard_time": 1740527179,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213107,
+        "num": 213107,
+        "word": "翟潇闻从内娱190的全世界路过",
+        "onboard_time": 1740539660,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209842,
+        "num": 209842,
+        "word": "一家4人处理老人丧事后意外身亡",
+        "onboard_time": 1740537498,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207126,
+        "num": 207126,
+        "word": "北上要上央一了",
+        "onboard_time": 1740538218,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205875,
+        "num": 205875,
+        "word": "哪吒2预测票房下调至146亿",
+        "onboard_time": 1740495201,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 205376,
+        "num": 205376,
+        "word": "足金价格一夜下跌近10元",
+        "onboard_time": 1740540198,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 200025,
+        "num": 200025,
+        "word": "李威保释后首发声",
+        "onboard_time": 1740534618,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196636,
+        "num": 196636,
+        "word": "全球热",
+        "onboard_time": 1740536418,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179068,
+        "num": 179068,
+        "word": "白鹿北上短发海报",
+        "onboard_time": 1740539839,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172181,
+        "num": 172181,
+        "word": "孙颖莎笑自有光",
+        "onboard_time": 1740538278,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165409,
+        "num": 165409,
+        "word": "智利大停电影响98%人口",
+        "onboard_time": 1740537199,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 163992,
+        "num": 163992,
+        "word": "四六级总分为什么是710分",
+        "onboard_time": 1740538698,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 162909,
+        "num": 162909,
+        "word": "祁煜沉入无尽海",
+        "onboard_time": 1740540439,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162051,
+        "num": 162051,
+        "word": "老人坐轮椅穿马路被货车推行几百米",
+        "onboard_time": 1740539419,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161902,
+        "num": 161902,
+        "word": "横纹肌溶解综合征",
+        "onboard_time": 1740537798,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154313,
+        "num": 154313,
+        "word": "女子离异8年请前婆婆带娃秒答应",
+        "onboard_time": 1740532220,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148675,
+        "num": 148675,
+        "word": "盒子里的猫",
+        "onboard_time": 1740536418,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146904,
+        "num": 146904,
+        "word": "他是怎么做到小小年纪就一把年纪的",
+        "onboard_time": 1740535519,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140169,
+        "num": 140169,
+        "word": "乌克兰议会通过禁止战时选举议案",
+        "onboard_time": 1740535879,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#更好发挥县城连接城市带动乡村作用#"
+    }
+  }
+}
