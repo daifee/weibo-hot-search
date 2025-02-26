@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740535287197,
+  "endTime": 1740538543710,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -235,6 +235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1835824,
+      "num": 1835824,
+      "word": "黄金",
+      "onboard_time": 1740532939,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1818148,
       "num": 1818148,
       "word": "李威教唆犯罪录音疑曝光",
@@ -321,6 +329,14 @@
       "onboard_time": 1740388818,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1594429,
+      "num": 1594429,
+      "word": "饺子导演撤回了一份入职通知书",
+      "onboard_time": 1740534618,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 1551748,
@@ -659,6 +675,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 1114607,
+      "num": 357553,
+      "word": "特朗普将开售移民金卡",
+      "onboard_time": 1740535338,
+      "rank": 10,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1095706,
       "num": 993226,
       "word": "女子在公司微信群看到自己被裁员",
@@ -889,6 +913,14 @@
       "onboard_time": 1740265813,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 933483,
+      "num": 933483,
+      "word": "二本情侣苦战3年携手闯入985复试",
+      "onboard_time": 1740534618,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 930069,
@@ -2539,12 +2571,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 411192,
-      "num": 411192,
-      "word": "饺子导演撤回了一份入职通知书",
-      "onboard_time": 1740534618,
-      "rank": 8,
-      "category": "电影"
+      "raw_hot": 411356,
+      "num": 411356,
+      "word": "种地吧第三季定档",
+      "onboard_time": 1740536959,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 408604,
@@ -2769,14 +2801,6 @@
       "onboard_time": 1740295759,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 372096,
-      "num": 372096,
-      "word": "黄金",
-      "onboard_time": 1740532939,
-      "rank": 23,
-      "category": "财经"
     },
     {
       "raw_hot": 371550,
@@ -3139,6 +3163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 325398,
+      "num": 325398,
+      "word": "泰国一巴士翻车致17人死亡",
+      "onboard_time": 1740535638,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 324663,
       "num": 268506,
       "word": "突然发现单休比双休多上7年班",
@@ -3313,6 +3345,14 @@
       "onboard_time": 1740373881,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 305638,
+      "num": 251276,
+      "word": "米兰偶遇肖战吃川菜",
+      "onboard_time": 1740535998,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 302460,
@@ -3747,6 +3787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 263875,
+      "num": 263875,
+      "word": "大奉打更人",
+      "onboard_time": 1740534438,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 263320,
       "num": 263320,
       "word": "王楚钦提醒对手球台上有汗",
@@ -3905,14 +3953,6 @@
       "onboard_time": 1740406583,
       "rank": 19,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 247409,
-      "num": 247409,
-      "word": "二本情侣苦战3年携手闯入985复试",
-      "onboard_time": 1740534618,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 246815,
@@ -4923,6 +4963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 202976,
+      "num": 202976,
+      "word": "孙颖莎笑自有光",
+      "onboard_time": 1740538278,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202867,
       "num": 202867,
       "word": "肖战头排C位主咖",
@@ -4985,6 +5033,14 @@
       "onboard_time": 1740399499,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200619,
+      "num": 200619,
+      "word": "北上一部剧触发三代熟脸",
+      "onboard_time": 1740537379,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 200479,
@@ -5057,6 +5113,14 @@
       "onboard_time": 1740371543,
       "rank": 38,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 198115,
+      "num": 198115,
+      "word": "全球热",
+      "onboard_time": 1740536418,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 197832,
@@ -5153,6 +5217,14 @@
       "onboard_time": 1740407603,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194482,
+      "num": 376033,
+      "word": "李威保释后首发声",
+      "onboard_time": 1740534618,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 194413,
@@ -5563,6 +5635,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 186208,
+      "num": 186208,
+      "word": "盒子里的猫2玩家阵容官宣",
+      "onboard_time": 1740537557,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185781,
       "num": 218836,
       "word": "姿态喊话Doinb",
@@ -5608,6 +5688,14 @@
       "word": "周雨彤我这辈子跟定你了",
       "onboard_time": 1740394401,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 184977,
+      "num": 184977,
+      "word": "北上要上央一了",
+      "onboard_time": 1740538218,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -6049,6 +6137,14 @@
       "onboard_time": 1740383780,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173220,
+      "num": 173220,
+      "word": "一家4人处理老人丧事后意外身亡",
+      "onboard_time": 1740537498,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172828,
@@ -6771,14 +6867,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 155686,
-      "num": 376033,
-      "word": "李威保释后首发声",
-      "onboard_time": 1740534618,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 155685,
       "num": 192165,
       "word": "王楚钦签名回复粉丝祝福",
@@ -6801,14 +6889,6 @@
       "onboard_time": 1740310041,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 155530,
-      "num": 155530,
-      "word": "大奉打更人",
-      "onboard_time": 1740534438,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 155128,
@@ -6889,6 +6969,14 @@
       "onboard_time": 1740320242,
       "rank": 2,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 153774,
+      "num": 153774,
+      "word": "滤镜连猴哥都变出来了",
+      "onboard_time": 1740537679,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 153742,
@@ -7187,6 +7275,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 146331,
+      "num": 146331,
+      "word": "横纹肌溶解综合征",
+      "onboard_time": 1740537798,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146154,
       "num": 145061,
       "word": "湖南卫视连发10条李现",
@@ -7272,6 +7368,14 @@
       "word": "国安揭露境外间谍高额兼职套路",
       "onboard_time": 1740360738,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144226,
+      "num": 144226,
+      "word": "他是怎么做到小小年纪就一把年纪的",
+      "onboard_time": 1740535519,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -7387,12 +7491,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 140668,
+      "num": 140668,
+      "word": "盒子里的猫",
+      "onboard_time": 1740536418,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140487,
       "num": 140487,
       "word": "金钟仁cha了WATER",
       "onboard_time": 1740478459,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 140128,
+      "num": 140128,
+      "word": "研究中心回应学生被指猥亵多名男生",
+      "onboard_time": 1740535758,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139927,
@@ -7507,6 +7627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136887,
+      "num": 136887,
+      "word": "白宫称特朗普手背淤青因握手太多",
+      "onboard_time": 1740538339,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 136814,
       "num": 136814,
       "word": "米兰时装周",
@@ -7537,6 +7665,14 @@
       "onboard_time": 1740353176,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136124,
+      "num": 136124,
+      "word": "王楚钦外协细节控白月光",
+      "onboard_time": 1740537979,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 136100,
@@ -7609,6 +7745,22 @@
       "onboard_time": 1740492862,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 134090,
+      "num": 134090,
+      "word": "警方回应猫尸体被塞课桌",
+      "onboard_time": 1740538458,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133843,
+      "num": 172799,
+      "word": "乌克兰议会通过禁止战时选举议案",
+      "onboard_time": 1740535879,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 133621,
@@ -7729,6 +7881,14 @@
       "onboard_time": 1740297439,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130366,
+      "num": 130366,
+      "word": "美国一客机降落被另一飞机阻挡",
+      "onboard_time": 1740534559,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 130347,
@@ -8451,6 +8611,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 104706,
+      "num": 340956,
+      "word": "智利大停电影响98%人口",
+      "onboard_time": 1740537199,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 104509,
       "num": 104509,
       "word": "孙颖莎vs张本美和",
@@ -8801,14 +8969,6 @@
       "onboard_time": 1740532100,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 86319,
-      "num": 86319,
-      "word": "美国一客机降落被另一飞机阻挡",
-      "onboard_time": 1740534559,
-      "rank": 49,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 86300,
@@ -9508,7 +9668,7 @@
     },
     {
       "raw_hot": 54706,
-      "num": 1073717,
+      "num": 1175599,
       "word": "古诗词里的长江有多美",
       "onboard_time": 1740495683,
       "rank": 2,

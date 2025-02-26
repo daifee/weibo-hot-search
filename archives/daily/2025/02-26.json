@@ -1,7 +1,23 @@
 {
   "startTime": 1740500996613,
-  "endTime": 1740535287197,
+  "endTime": 1740538543710,
   "band_list": [
+    {
+      "raw_hot": 1835824,
+      "num": 1835824,
+      "word": "黄金",
+      "onboard_time": 1740532939,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 1594429,
+      "num": 1594429,
+      "word": "饺子导演撤回了一份入职通知书",
+      "onboard_time": 1740534618,
+      "rank": 8,
+      "category": "电影"
+    },
     {
       "raw_hot": 1334843,
       "num": 458208,
@@ -25,6 +41,14 @@
       "onboard_time": 1740499758,
       "rank": 0,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 1114607,
+      "num": 357553,
+      "word": "特朗普将开售移民金卡",
+      "onboard_time": 1740535338,
+      "rank": 10,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1103594,
@@ -57,6 +81,14 @@
       "onboard_time": 1740523634,
       "rank": 30,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 933483,
+      "num": 933483,
+      "word": "二本情侣苦战3年携手闯入985复试",
+      "onboard_time": 1740534618,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 897317,
@@ -179,12 +211,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 411192,
-      "num": 411192,
-      "word": "饺子导演撤回了一份入职通知书",
-      "onboard_time": 1740534618,
-      "rank": 8,
-      "category": "电影"
+      "raw_hot": 411356,
+      "num": 411356,
+      "word": "种地吧第三季定档",
+      "onboard_time": 1740536959,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 396586,
@@ -193,14 +225,6 @@
       "onboard_time": 1740534798,
       "rank": 22,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 372096,
-      "num": 372096,
-      "word": "黄金",
-      "onboard_time": 1740532939,
-      "rank": 23,
-      "category": "财经"
     },
     {
       "raw_hot": 369000,
@@ -251,12 +275,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 325398,
+      "num": 325398,
+      "word": "泰国一巴士翻车致17人死亡",
+      "onboard_time": 1740535638,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 316689,
       "num": 215310,
       "word": "鹿晗工作室告黑声明",
       "onboard_time": 1740469400,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 305638,
+      "num": 251276,
+      "word": "米兰偶遇肖战吃川菜",
+      "onboard_time": 1740535998,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 291159,
@@ -275,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 263875,
+      "num": 263875,
+      "word": "大奉打更人",
+      "onboard_time": 1740534438,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 262374,
       "num": 262374,
       "word": "最会穿搭的现偶男主出现了",
@@ -289,14 +337,6 @@
       "onboard_time": 1740501855,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 247409,
-      "num": 247409,
-      "word": "二本情侣苦战3年携手闯入985复试",
-      "onboard_time": 1740534618,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 240927,
@@ -355,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202976,
+      "num": 202976,
+      "word": "孙颖莎笑自有光",
+      "onboard_time": 1740538278,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202867,
       "num": 202867,
       "word": "肖战头排C位主咖",
@@ -368,6 +416,30 @@
       "word": "鹿晗关晓彤名下并无商业关联",
       "onboard_time": 1740475220,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 200619,
+      "num": 200619,
+      "word": "北上一部剧触发三代熟脸",
+      "onboard_time": 1740537379,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 198115,
+      "num": 198115,
+      "word": "全球热",
+      "onboard_time": 1740536418,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 194482,
+      "num": 376033,
+      "word": "李威保释后首发声",
+      "onboard_time": 1740534618,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -387,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 186208,
+      "num": 186208,
+      "word": "盒子里的猫2玩家阵容官宣",
+      "onboard_time": 1740537557,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185420,
       "num": 411149,
       "word": "小孩哥打鼓逗小孩喜感十足",
@@ -395,12 +475,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184977,
+      "num": 184977,
+      "word": "北上要上央一了",
+      "onboard_time": 1740538218,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177119,
       "num": 269492,
       "word": "王楚钦LV品牌大使",
       "onboard_time": 1740482001,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173220,
+      "num": 173220,
+      "word": "一家4人处理老人丧事后意外身亡",
+      "onboard_time": 1740537498,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171572,
@@ -435,19 +531,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 155686,
-      "num": 376033,
-      "word": "李威保释后首发声",
-      "onboard_time": 1740534618,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 155530,
-      "num": 155530,
-      "word": "大奉打更人",
-      "onboard_time": 1740534438,
-      "rank": 30,
+      "raw_hot": 153774,
+      "num": 153774,
+      "word": "滤镜连猴哥都变出来了",
+      "onboard_time": 1740537679,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -459,12 +547,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 146331,
+      "num": 146331,
+      "word": "横纹肌溶解综合征",
+      "onboard_time": 1740537798,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145458,
       "num": 145458,
       "word": "鹿晗方未回应与关晓彤事件",
       "onboard_time": 1740531920,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144226,
+      "num": 144226,
+      "word": "他是怎么做到小小年纪就一把年纪的",
+      "onboard_time": 1740535519,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142149,
@@ -491,6 +595,38 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 140668,
+      "num": 140668,
+      "word": "盒子里的猫",
+      "onboard_time": 1740536418,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 140128,
+      "num": 140128,
+      "word": "研究中心回应学生被指猥亵多名男生",
+      "onboard_time": 1740535758,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136887,
+      "num": 136887,
+      "word": "白宫称特朗普手背淤青因握手太多",
+      "onboard_time": 1740538339,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 136124,
+      "num": 136124,
+      "word": "王楚钦外协细节控白月光",
+      "onboard_time": 1740537979,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135063,
       "num": 200212,
       "word": "春风十里不如你",
@@ -499,12 +635,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134090,
+      "num": 134090,
+      "word": "警方回应猫尸体被塞课桌",
+      "onboard_time": 1740538458,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133843,
+      "num": 172799,
+      "word": "乌克兰议会通过禁止战时选举议案",
+      "onboard_time": 1740535879,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 133586,
       "num": 455517,
       "word": "权志龙ins更新",
       "onboard_time": 1740532639,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130366,
+      "num": 130366,
+      "word": "美国一客机降落被另一飞机阻挡",
+      "onboard_time": 1740534559,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 130043,
@@ -601,6 +761,14 @@
       "onboard_time": 1740532879,
       "rank": 45,
       "category": "军事"
+    },
+    {
+      "raw_hot": 104706,
+      "num": 340956,
+      "word": "智利大停电影响98%人口",
+      "onboard_time": 1740537199,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 102896,
@@ -705,14 +873,6 @@
       "onboard_time": 1740532100,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 86319,
-      "num": 86319,
-      "word": "美国一客机降落被另一飞机阻挡",
-      "onboard_time": 1740534559,
-      "rank": 49,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 83200,
@@ -836,7 +996,7 @@
     },
     {
       "raw_hot": 52608,
-      "num": 868455,
+      "num": 1175599,
       "word": "古诗词里的长江有多美",
       "onboard_time": 1740495683,
       "rank": 2,
