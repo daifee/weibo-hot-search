@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/02/27 00:30:02 ~ 2025/02/27 02:45:03
+本榜单时间：2025/02/27 00:30:02 ~ 2025/02/27 03:19:12
 </p>
 </blockquote>
 <p>
@@ -333,6 +333,12 @@ TES战胜BLG（热度：97389）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E8%80%81%E5%B8%88%E8%AF%B4AI%E4%BD%9C%E6%96%87%E5%85%A8%E5%88%A40%E5%88%86%23" target="weibo">
+大学老师说AI作文全判0分（热度：40298）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%A9%E9%9C%9C%E9%99%8D%E8%A7%92%E8%89%B2%E5%8F%B7%E6%99%92%E7%8B%AC%E5%AE%B6%E7%89%A9%E6%96%99%23" target="weibo">
 温霜降角色号晒独家物料（热度：33446）
 </a>
@@ -341,12 +347,6 @@ TES战胜BLG（热度：97389）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BB%E5%9B%9E%E5%BA%94%E6%8A%A5%E8%80%83%E5%8C%97%E5%A4%A7%E7%A0%94%E7%A9%B6%E7%94%9F%E7%AC%94%E8%AF%95412%23" target="weibo">
 博主回应报考北大研究生笔试412（热度：30819）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E8%80%81%E5%B8%88%E8%AF%B4AI%E4%BD%9C%E6%96%87%E5%85%A8%E5%88%A40%E5%88%86%23" target="weibo">
-大学老师说AI作文全判0分（热度：28263）
 </a>
 </li>
 
@@ -399,8 +399,20 @@ Bin群访（热度：20743）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%B0%86%E8%BF%8E%E8%A7%84%E6%A8%A1%E6%9C%80%E5%A4%A7%E5%85%B3%E5%81%9C%E6%BD%AE%23" target="weibo">
+韩国中小学将迎规模最大关停潮（热度：16147）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23100%E5%A4%A9%E5%90%8E%E9%AB%98%E8%80%83%23" target="weibo">
 100天后高考（热度：16076）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8D%E5%A4%8D%E4%B8%8A%E6%98%9F%E9%87%8D%E6%92%AD%E7%9A%84%E7%83%AD%E5%89%A7%23" target="weibo">
+反复上星重播的热剧（热度：14662）
 </a>
 </li>
 

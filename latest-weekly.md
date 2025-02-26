@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/02/23 00:25:25 ~ 2025/02/27 02:45:03
+本榜单时间：2025/02/23 00:25:25 ~ 2025/02/27 03:19:12
 </p>
 </blockquote>
 <p>
@@ -9489,6 +9489,12 @@ TES晋级败者组下一轮（热度：40682）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E8%80%81%E5%B8%88%E8%AF%B4AI%E4%BD%9C%E6%96%87%E5%85%A8%E5%88%A40%E5%88%86%23" target="weibo">
+大学老师说AI作文全判0分（热度：40298）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E6%AD%A2%E4%B9%8C%E8%B5%84%E6%BA%90%E8%BF%98%E6%83%B3%E8%B4%AD%E4%B9%B0%E4%BF%84%E7%9F%BF%E4%BA%A7%23" target="weibo">
 特朗普称不止乌资源还想购买俄矿产（热度：39586）
 </a>
@@ -9785,12 +9791,6 @@ TES晋级败者组下一轮（热度：40682）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2325%E5%B9%B4%E6%98%AFAI%E7%9C%BC%E9%95%9C%E5%85%83%E5%B9%B4%E5%90%97%23" target="weibo">
 25年是AI眼镜元年吗（热度：28288）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E8%80%81%E5%B8%88%E8%AF%B4AI%E4%BD%9C%E6%96%87%E5%85%A8%E5%88%A40%E5%88%86%23" target="weibo">
-大学老师说AI作文全判0分（热度：28263）
 </a>
 </li>
 
@@ -10269,6 +10269,12 @@ deepseek总结的春招找工作技巧（热度：16549）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%B0%86%E8%BF%8E%E8%A7%84%E6%A8%A1%E6%9C%80%E5%A4%A7%E5%85%B3%E5%81%9C%E6%BD%AE%23" target="weibo">
+韩国中小学将迎规模最大关停潮（热度：16147）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23100%E5%A4%A9%E5%90%8E%E9%AB%98%E8%80%83%23" target="weibo">
 100天后高考（热度：16076）
 </a>
@@ -10289,6 +10295,12 @@ deepseek总结的春招找工作技巧（热度：16549）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E7%8E%8B%E7%BB%84%E5%90%88%E4%BB%BB%E4%BA%9A%E9%94%A6%E8%B5%9B%E5%BD%A2%E8%B1%A1%E5%A4%A7%E4%BD%BF%23" target="weibo">
 梁王组合任亚锦赛形象大使（热度：15090）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8D%E5%A4%8D%E4%B8%8A%E6%98%9F%E9%87%8D%E6%92%AD%E7%9A%84%E7%83%AD%E5%89%A7%23" target="weibo">
+反复上星重播的热剧（热度：14662）
 </a>
 </li>
 

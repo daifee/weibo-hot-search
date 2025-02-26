@@ -1,6 +1,6 @@
 {
   "startTime": 1740587402639,
-  "endTime": 1740595503729,
+  "endTime": 1740597552644,
   "band_list": [
     {
       "raw_hot": 1135494,
@@ -427,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 40298,
+      "num": 40298,
+      "word": "大学老师说AI作文全判0分",
+      "onboard_time": 1740593414,
+      "rank": 29,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 33446,
       "num": 36950,
       "word": "温霜降角色号晒独家物料",
@@ -441,14 +449,6 @@
       "onboard_time": 1740572360,
       "rank": 48,
       "category": "教育"
-    },
-    {
-      "raw_hot": 28263,
-      "num": 31352,
-      "word": "大学老师说AI作文全判0分",
-      "onboard_time": 1740593414,
-      "rank": 29,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 27070,
@@ -515,12 +515,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16147,
+      "num": 16147,
+      "word": "韩国中小学将迎规模最大关停潮",
+      "onboard_time": 1740596113,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 16076,
       "num": 21618,
       "word": "100天后高考",
       "onboard_time": 1740591015,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 14662,
+      "num": 15478,
+      "word": "反复上星重播的热剧",
+      "onboard_time": 1740595031,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 13406,

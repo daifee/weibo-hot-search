@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740595503729,
+  "endTime": 1740597552644,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -75755,6 +75755,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 40298,
+      "num": 40298,
+      "word": "大学老师说AI作文全判0分",
+      "onboard_time": 1740593414,
+      "rank": 29,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 40221,
       "num": 265022,
       "word": "恋与深空猫猫天使",
@@ -78345,14 +78353,6 @@
       "onboard_time": 1739936181,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 28263,
-      "num": 31352,
-      "word": "大学老师说AI作文全判0分",
-      "onboard_time": 1740593414,
-      "rank": 29,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 28250,
@@ -81435,6 +81435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 16147,
+      "num": 16147,
+      "word": "韩国中小学将迎规模最大关停潮",
+      "onboard_time": 1740596113,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 16076,
       "num": 21618,
       "word": "100天后高考",
@@ -81841,6 +81849,14 @@
       "onboard_time": 1738398558,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 14662,
+      "num": 15478,
+      "word": "反复上星重播的热剧",
+      "onboard_time": 1740595031,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 14661,
