@@ -1,0 +1,410 @@
+{
+  "runTime": 1740547348184,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1178311,
+        "num": 1188529,
+        "word": "哪吒2冲全球票房第7",
+        "onboard_time": 1740539958,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 867328,
+        "num": 867328,
+        "word": "国台办回应王大陆等人涉嫌逃兵役",
+        "onboard_time": 1740541460,
+        "rank": 1,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 54989,
+        "num": 844127,
+        "word": "我国测量水平进入国际第1梯队",
+        "onboard_time": 1740543981,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 831067,
+        "num": 831067,
+        "word": "恋爱兄妹综艺",
+        "onboard_time": 1740545842,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 788586,
+        "num": 788586,
+        "word": "普京称准备向美国供应200万吨铝",
+        "onboard_time": 1740545602,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 530245,
+        "num": 530245,
+        "word": "女生考研查分紧张手抖结果出人意料",
+        "onboard_time": 1740541399,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 758747,
+        "num": 527703,
+        "word": "迪丽热巴开推埃及艳后造型",
+        "onboard_time": 1740544882,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 556634,
+        "num": 516357,
+        "word": "法医秦明谈李威案受害者致死原因",
+        "onboard_time": 1740543621,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463458,
+        "num": 463458,
+        "word": "菲律宾保安上班迟到被同事3枪毙命",
+        "onboard_time": 1740541999,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 455454,
+        "num": 455454,
+        "word": "你要撑住马上就可以到中国抢救了",
+        "onboard_time": 1740499758,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 843817,
+        "num": 442345,
+        "word": "吴尊带neinei和Max上恋综",
+        "onboard_time": 1740544282,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 482956,
+        "num": 435286,
+        "word": "Melody方回应新恋情",
+        "onboard_time": 1740542301,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468635,
+        "num": 432700,
+        "word": "警方回应猫尸体被塞课桌",
+        "onboard_time": 1740538458,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 425519,
+        "num": 425519,
+        "word": "柳智敏短发",
+        "onboard_time": 1740540258,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 57498,
+        "num": 415960,
+        "word": "未患癌被切胆囊签名医生称未参与手术",
+        "onboard_time": 1740546261,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 414066,
+        "num": 414066,
+        "word": "主人称小猫洗澡烘干70分钟后死亡",
+        "onboard_time": 1740545363,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 390286,
+        "num": 390286,
+        "word": "李威由被告转为污点证人",
+        "onboard_time": 1740546200,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341996,
+        "num": 341996,
+        "word": "九旬老人离世后四亲属被烟闷身亡",
+        "onboard_time": 1740495441,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45031,
+        "num": 324797,
+        "word": "私家车贴公务用车加塞伤人",
+        "onboard_time": 1740546500,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323185,
+        "num": 323185,
+        "word": "网红迅猛龙特蕾莎停播三个月备考",
+        "onboard_time": 1740523634,
+        "rank": 19,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 319947,
+        "num": 319947,
+        "word": "素人时期的王安宇",
+        "onboard_time": 1740529640,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299586,
+        "num": 299586,
+        "word": "孙俪婴儿时期旧照",
+        "onboard_time": 1740542361,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278752,
+        "num": 278752,
+        "word": "监控还原猫咪尸体被放课桌事件",
+        "onboard_time": 1740546139,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267896,
+        "num": 267896,
+        "word": "宣璐首部古偶女主剧",
+        "onboard_time": 1740543261,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254796,
+        "num": 254796,
+        "word": "足金价格一夜下跌近10元",
+        "onboard_time": 1740540198,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 250463,
+        "num": 250463,
+        "word": "猫尸体塞课桌学校称不确定是否人为",
+        "onboard_time": 1740530300,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249467,
+        "num": 249467,
+        "word": "湖南卫视连发11条虞书欣",
+        "onboard_time": 1740546620,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 95492,
+        "num": 247333,
+        "word": "巴以冲突",
+        "onboard_time": 1740546139,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 165595,
+        "num": 242184,
+        "word": "祁煜沉入无尽海",
+        "onboard_time": 1740540439,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 34555,
+        "num": 237843,
+        "word": "尹锡悦携77页纸做最终陈述",
+        "onboard_time": 1740546261,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 47068,
+        "num": 234607,
+        "word": "坚持长期主义做困难而正确的事",
+        "onboard_time": 1740544941,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 232357,
+        "num": 232357,
+        "word": "台媒曝Melody新恋情",
+        "onboard_time": 1740543441,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219715,
+        "num": 219715,
+        "word": "男子带狗取快递受惊竟将猫打死",
+        "onboard_time": 1740544999,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203430,
+        "num": 203430,
+        "word": "白敬亭谈和章若楠合作感受",
+        "onboard_time": 1740544522,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175799,
+        "num": 175799,
+        "word": "白宫称特朗普手背淤青因握手太多",
+        "onboard_time": 1740538339,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 168482,
+        "num": 168482,
+        "word": "十个勤天展开一天实体专辑",
+        "onboard_time": 1740546021,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 167955,
+        "num": 167955,
+        "word": "每天8杯水是多大杯子",
+        "onboard_time": 1740541279,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 164119,
+        "num": 164119,
+        "word": "全亚洲最大IMAXGT影厅因哪吒改命",
+        "onboard_time": 1740546860,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 163532,
+        "num": 163532,
+        "word": "陈梦去盒子里的猫了",
+        "onboard_time": 1740542781,
+        "rank": 38,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 157411,
+        "num": 157411,
+        "word": "二本情侣苦战3年携手闯入985复试",
+        "onboard_time": 1740534618,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155618,
+        "num": 155618,
+        "word": "南师大官网已查不到宋某某信息",
+        "onboard_time": 1740545120,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150924,
+        "num": 150924,
+        "word": "难哄",
+        "onboard_time": 1740544461,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149139,
+        "num": 149139,
+        "word": "肖战辛纳握手",
+        "onboard_time": 1740544700,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 137828,
+        "num": 137828,
+        "word": "女主一集下来微信步数第一",
+        "onboard_time": 1740528681,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137103,
+        "num": 137103,
+        "word": "光与夜之恋",
+        "onboard_time": 1740543380,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122466,
+        "num": 122466,
+        "word": "张元英好会拍",
+        "onboard_time": 1740543021,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116762,
+        "num": 116762,
+        "word": "法国退休医生25年间性侵299名患者",
+        "onboard_time": 1740543202,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 522033,
+        "num": 115798,
+        "word": "02年男生苦追班主任终喜结连理",
+        "onboard_time": 1740528440,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147336,
+        "num": 115528,
+        "word": "肖战突然从怀里掏出一个小风扇",
+        "onboard_time": 1740529159,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 114547,
+        "num": 114547,
+        "word": "种地吧第三季定档",
+        "onboard_time": 1740536959,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平为基层减负的故事#"
+    }
+  }
+}
