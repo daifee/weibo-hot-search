@@ -1,0 +1,410 @@
+{
+  "runTime": 1740565516469,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2062676,
+        "num": 2062676,
+        "word": "郭富城妻子称在米兰被抢劫",
+        "onboard_time": 1740561319,
+        "rank": 0,
+        "category": "艺人,海外新闻"
+      },
+      {
+        "raw_hot": 630460,
+        "num": 630460,
+        "word": "未来可能钱存越久利息越少",
+        "onboard_time": 1740557419,
+        "rank": 1,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 41135,
+        "num": 623954,
+        "word": "2024我国民营经济外贸领域再创佳绩",
+        "onboard_time": 1740561739,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1092351,
+        "num": 622771,
+        "word": "总领馆回应郭富城妻子称米兰遭抢劫",
+        "onboard_time": 1740562939,
+        "rank": 3,
+        "category": "艺人,海外新闻"
+      },
+      {
+        "raw_hot": 619102,
+        "num": 619102,
+        "word": "公司要求抄佛经逼员工离职赔12万",
+        "onboard_time": 1740560359,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 442712,
+        "num": 442712,
+        "word": "孙杨说禁赛时只能从足浴店找按摩师",
+        "onboard_time": 1740550819,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 682471,
+        "num": 428991,
+        "word": "难哄豆瓣开分5.4",
+        "onboard_time": 1740563540,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353467,
+        "num": 353467,
+        "word": "男童走失用银行ATM自救",
+        "onboard_time": 1740558499,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338086,
+        "num": 338086,
+        "word": "漫画难哄名场面1比1还原",
+        "onboard_time": 1740563659,
+        "rank": 8,
+        "category": "动漫,剧集"
+      },
+      {
+        "raw_hot": 107302,
+        "num": 337913,
+        "word": "方媛称米兰遭抢劫网友支招",
+        "onboard_time": 1740564678,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 953695,
+        "num": 337009,
+        "word": "男友去世女子想生遗腹子被公婆劝阻",
+        "onboard_time": 1740547998,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 790429,
+        "num": 335382,
+        "word": "禁止电竞选手2月23号洗澡",
+        "onboard_time": 1740554719,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 597420,
+        "num": 334635,
+        "word": "南京师范大学涉事办公室已被查封",
+        "onboard_time": 1740563239,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333776,
+        "num": 333776,
+        "word": "考了这些证书的可享个税扣除",
+        "onboard_time": 1740554178,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81268,
+        "num": 331503,
+        "word": "台湾旅行社推出哪吒之旅",
+        "onboard_time": 1740558619,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 552374,
+        "num": 329924,
+        "word": "创124青123打起来了",
+        "onboard_time": 1740556399,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 480602,
+        "num": 327474,
+        "word": "哪吒2冲全球票房第7",
+        "onboard_time": 1740539958,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183144,
+        "num": 323625,
+        "word": "李兰迪新剧好灵动",
+        "onboard_time": 1740564799,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 362320,
+        "num": 320606,
+        "word": "监控还原猫咪尸体被放课桌事件",
+        "onboard_time": 1740546139,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56069,
+        "num": 319631,
+        "word": "青海湖边的小村庄居然也包邮",
+        "onboard_time": 1740562578,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 424643,
+        "num": 315837,
+        "word": "早就说了李承铉对戚薇是生理性喜欢",
+        "onboard_time": 1740560539,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315240,
+        "num": 315240,
+        "word": "肖战billkin金硕珍G社生图",
+        "onboard_time": 1740555919,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 72555,
+        "num": 303338,
+        "word": "权志龙金秀贤丁海寅拍人生四格",
+        "onboard_time": 1740563540,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294945,
+        "num": 294945,
+        "word": "跳绳是最佳减肥塑身运动",
+        "onboard_time": 1740559579,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 283384,
+        "num": 283384,
+        "word": "张豆豆说孙杨年纪大孙杨搞笑挥拳",
+        "onboard_time": 1740564078,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274630,
+        "num": 274630,
+        "word": "李兰迪 金发洋娃娃",
+        "onboard_time": 1740564020,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 262587,
+        "num": 262587,
+        "word": "祝绪丹亲了王珞丹",
+        "onboard_time": 1740560479,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257099,
+        "num": 257099,
+        "word": "于正恭喜白鹿北上央一播出",
+        "onboard_time": 1740552499,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112824,
+        "num": 251657,
+        "word": "魏建军又给高阶智驾上强度了",
+        "onboard_time": 1740564259,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 36813,
+        "num": 247975,
+        "word": "刘浩存怎么怼脸还这么美",
+        "onboard_time": 1740564379,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 247387,
+        "num": 247387,
+        "word": "女子给大学老师打工被拖欠8万工资",
+        "onboard_time": 1740561918,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239596,
+        "num": 239596,
+        "word": "饶雪漫说苏有朋不用整过容的演员",
+        "onboard_time": 1740548419,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238796,
+        "num": 238796,
+        "word": "豪车女销冠称两年卖340台车却不快乐",
+        "onboard_time": 1740564259,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 211446,
+        "num": 211446,
+        "word": "宋丹丹和老公手牵手逛街",
+        "onboard_time": 1740564438,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198720,
+        "num": 198720,
+        "word": "男子钓鱼剖开鱼肚发现17个假饵",
+        "onboard_time": 1740558199,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188893,
+        "num": 188893,
+        "word": "中国人民解放军退役誓词发布",
+        "onboard_time": 1740558259,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 187171,
+        "num": 187171,
+        "word": "代拍镜头下的迪丽热巴",
+        "onboard_time": 1740563597,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19184,
+        "num": 174864,
+        "word": "RIIZE今生注定是沧桑",
+        "onboard_time": 1740562458,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 166745,
+        "num": 166745,
+        "word": "迪丽热巴开推埃及艳后造型",
+        "onboard_time": 1740544882,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156569,
+        "num": 156569,
+        "word": "网恋2个月后发现女友是AI",
+        "onboard_time": 1740547700,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147486,
+        "num": 147486,
+        "word": "滤镜",
+        "onboard_time": 1740564199,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60573,
+        "num": 138376,
+        "word": "是唐九洲本人能干出来的事",
+        "onboard_time": 1740565399,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137725,
+        "num": 137725,
+        "word": "肖战低头看胸口",
+        "onboard_time": 1740562820,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136797,
+        "num": 136797,
+        "word": "俄多地遭大规模无人机袭击",
+        "onboard_time": 1740559398,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124664,
+        "num": 124664,
+        "word": "徐志胜蛐蛐黄磊被当场逮住",
+        "onboard_time": 1740548119,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121493,
+        "num": 121493,
+        "word": "陈晓费加罗男士雪中大片",
+        "onboard_time": 1740563120,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 119122,
+        "num": 119122,
+        "word": "认亲16年发现是假爹男子将起诉养父",
+        "onboard_time": 1740557240,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118476,
+        "num": 118476,
+        "word": "张继科祝贺王曼昱夺冠",
+        "onboard_time": 1740556759,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117793,
+        "num": 117793,
+        "word": "章昊因为我是中国人啊",
+        "onboard_time": 1740554239,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112470,
+        "num": 112470,
+        "word": "特朗普政府解冻8.7亿美元对台军援",
+        "onboard_time": 1740565399,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平为基层减负的故事#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1740500996613,
-  "endTime": 1740562724898,
+  "endTime": 1740565516469,
   "band_list": [
     {
       "raw_hot": 2799685,
@@ -9,6 +9,14 @@
       "onboard_time": 1740547998,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2062676,
+      "num": 2062676,
+      "word": "郭富城妻子称在米兰被抢劫",
+      "onboard_time": 1740561319,
+      "rank": 25,
+      "category": "艺人,海外新闻"
     },
     {
       "raw_hot": 1880791,
@@ -131,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1092351,
+      "num": 622771,
+      "word": "总领馆回应郭富城妻子称米兰遭抢劫",
+      "onboard_time": 1740562939,
+      "rank": 3,
+      "category": "艺人,海外新闻"
+    },
+    {
       "raw_hot": 1081858,
       "num": 1081858,
       "word": "未来可能钱存越久利息越少",
@@ -201,14 +217,6 @@
       "onboard_time": 1740551900,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 983618,
-      "num": 983618,
-      "word": "郭富城妻子称在米兰被抢劫",
-      "onboard_time": 1740561319,
-      "rank": 25,
-      "category": "艺人,海外新闻"
     },
     {
       "raw_hot": 967229,
@@ -339,6 +347,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 682471,
+      "num": 428991,
+      "word": "难哄豆瓣开分5.4",
+      "onboard_time": 1740563540,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 680373,
       "num": 674390,
       "word": "Melody方回应新恋情",
@@ -363,6 +379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 619102,
+      "num": 619102,
+      "word": "公司要求抄佛经逼员工离职赔12万",
+      "onboard_time": 1740560359,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 611238,
       "num": 611238,
       "word": "肖战billkin金硕珍G社生图",
@@ -377,6 +401,14 @@
       "onboard_time": 1740529159,
       "rank": 14,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 597420,
+      "num": 334635,
+      "word": "南京师范大学涉事办公室已被查封",
+      "onboard_time": 1740563239,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 596028,
@@ -643,6 +675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 338086,
+      "num": 338086,
+      "word": "漫画难哄名场面1比1还原",
+      "onboard_time": 1740563659,
+      "rank": 8,
+      "category": "动漫,剧集"
+    },
+    {
       "raw_hot": 335416,
       "num": 335416,
       "word": "四六级",
@@ -795,12 +835,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 283384,
+      "num": 283384,
+      "word": "张豆豆说孙杨年纪大孙杨搞笑挥拳",
+      "onboard_time": 1740564078,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 276444,
       "num": 276444,
       "word": "白鹿欧豪平番",
       "onboard_time": 1740554899,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 274630,
+      "num": 274630,
+      "word": "李兰迪 金发洋娃娃",
+      "onboard_time": 1740564020,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 271430,
@@ -867,6 +923,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 247387,
+      "num": 302912,
+      "word": "女子给大学老师打工被拖欠8万工资",
+      "onboard_time": 1740561918,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 243738,
       "num": 243738,
       "word": "一家4人处理老人丧事后意外身亡",
@@ -897,6 +961,14 @@
       "onboard_time": 1740540439,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 238796,
+      "num": 238796,
+      "word": "豪车女销冠称两年卖340台车却不快乐",
+      "onboard_time": 1740564259,
+      "rank": 32,
+      "category": "汽车"
     },
     {
       "raw_hot": 237222,
@@ -1003,6 +1075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211446,
+      "num": 211446,
+      "word": "宋丹丹和老公手牵手逛街",
+      "onboard_time": 1740564438,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210702,
       "num": 210702,
       "word": "湖南被撞沉客船是村里主要交通工具",
@@ -1016,14 +1096,6 @@
       "word": "艺考女生136斤减到87斤",
       "onboard_time": 1740465739,
       "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 208733,
-      "num": 228334,
-      "word": "公司要求抄佛经逼员工离职赔12万",
-      "onboard_time": 1740560359,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -1131,6 +1203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187171,
+      "num": 187171,
+      "word": "代拍镜头下的迪丽热巴",
+      "onboard_time": 1740563597,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186208,
       "num": 186208,
       "word": "盒子里的猫2玩家阵容官宣",
@@ -1145,6 +1225,14 @@
       "onboard_time": 1740531199,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183144,
+      "num": 323625,
+      "word": "李兰迪新剧好灵动",
+      "onboard_time": 1740564799,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 179905,
@@ -1483,6 +1571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147486,
+      "num": 147486,
+      "word": "滤镜",
+      "onboard_time": 1740564199,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146904,
       "num": 146904,
       "word": "他是怎么做到小小年纪就一把年纪的",
@@ -1561,6 +1657,22 @@
       "onboard_time": 1740549199,
       "rank": 43,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 137725,
+      "num": 137725,
+      "word": "肖战低头看胸口",
+      "onboard_time": 1740562820,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 136797,
+      "num": 136797,
+      "word": "俄多地遭大规模无人机袭击",
+      "onboard_time": 1740559398,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 136143,
@@ -1723,6 +1835,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 121493,
+      "num": 121493,
+      "word": "陈晓费加罗男士雪中大片",
+      "onboard_time": 1740563120,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 121434,
       "num": 104650,
       "word": "爱你",
@@ -1763,14 +1883,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 116301,
-      "num": 116301,
-      "word": "俄多地遭大规模无人机袭击",
-      "onboard_time": 1740559398,
-      "rank": 43,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 114190,
       "num": 114190,
       "word": "特斯拉市值一夜蒸发6469亿",
@@ -1785,6 +1897,22 @@
       "onboard_time": 1740555797,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112824,
+      "num": 251657,
+      "word": "魏建军又给高阶智驾上强度了",
+      "onboard_time": 1740564259,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 112470,
+      "num": 112470,
+      "word": "特朗普政府解冻8.7亿美元对台军援",
+      "onboard_time": 1740565399,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 112412,
@@ -1809,14 +1937,6 @@
       "onboard_time": 1740555319,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 111296,
-      "num": 302912,
-      "word": "女子给大学老师打工被拖欠8万工资",
-      "onboard_time": 1740561918,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 110598,
@@ -1849,6 +1969,14 @@
       "onboard_time": 1740484640,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107302,
+      "num": 337913,
+      "word": "方媛称米兰遭抢劫网友支招",
+      "onboard_time": 1740564678,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 106065,
@@ -1988,7 +2116,7 @@
     },
     {
       "raw_hot": 92445,
-      "num": 116749,
+      "num": 319631,
       "word": "青海湖边的小村庄居然也包邮",
       "onboard_time": 1740562578,
       "rank": 43,
@@ -2067,6 +2195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81268,
+      "num": 331503,
+      "word": "台湾旅行社推出哪吒之旅",
+      "onboard_time": 1740558619,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 80545,
       "num": 80545,
       "word": "DeepSeek",
@@ -2123,6 +2259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 72555,
+      "num": 303338,
+      "word": "权志龙金秀贤丁海寅拍人生四格",
+      "onboard_time": 1740563540,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71147,
       "num": 71147,
       "word": "侯明昊米兰时装周",
@@ -2153,14 +2297,6 @@
       "onboard_time": 1740488841,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 67525,
-      "num": 199857,
-      "word": "台湾旅行社推出哪吒之旅",
-      "onboard_time": 1740558619,
-      "rank": 31,
-      "category": "旅游"
     },
     {
       "raw_hot": 65508,
@@ -2201,6 +2337,14 @@
       "onboard_time": 1740518651,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 60573,
+      "num": 138376,
+      "word": "是唐九洲本人能干出来的事",
+      "onboard_time": 1740565399,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 56318,
@@ -2307,6 +2451,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 41135,
+      "num": 993062,
+      "word": "2024我国民营经济外贸领域再创佳绩",
+      "onboard_time": 1740561739,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39586,
       "num": 236093,
       "word": "特朗普称不止乌资源还想购买俄矿产",
@@ -2315,20 +2467,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 36813,
+      "num": 247975,
+      "word": "刘浩存怎么怼脸还这么美",
+      "onboard_time": 1740564379,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 36752,
       "num": 280227,
       "word": "智搜DS谈四六级重要性",
       "onboard_time": 1740550518,
       "rank": 18,
       "category": "教育"
-    },
-    {
-      "raw_hot": 35729,
-      "num": 993062,
-      "word": "2024我国民营经济外贸领域再创佳绩",
-      "onboard_time": 1740561739,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 35051,
@@ -2539,6 +2691,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 19184,
+      "num": 301575,
+      "word": "RIIZE今生注定是沧桑",
+      "onboard_time": 1740562458,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 19129,
       "num": 167057,
       "word": "鹤秋被贴脸红房子听诊器之吻",
@@ -2585,14 +2745,6 @@
       "onboard_time": 1740509052,
       "rank": 38,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 13552,
-      "num": 301575,
-      "word": "RIIZE今生注定是沧桑",
-      "onboard_time": 1740562458,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 12443,
