@@ -1,6 +1,6 @@
 {
   "startTime": 1740587402639,
-  "endTime": 1740588316600,
+  "endTime": 1740590455073,
   "band_list": [
     {
       "raw_hot": 1135494,
@@ -171,6 +171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168679,
+      "num": 168679,
+      "word": "戴墨镜真的能快速提高颜值",
+      "onboard_time": 1740583579,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150372,
       "num": 150372,
       "word": "郭涛儿子石头18岁近照",
@@ -227,20 +235,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 125282,
-      "num": 154671,
-      "word": "戴墨镜真的能快速提高颜值",
-      "onboard_time": 1740583579,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 115703,
       "num": 115703,
       "word": "滤镜 虐男主",
       "onboard_time": 1740581721,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115116,
+      "num": 74211,
+      "word": "女子推理社",
+      "onboard_time": 1740588854,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 108113,
@@ -387,6 +395,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 48214,
+      "num": 48214,
+      "word": "湖南卫视考古张艺兴",
+      "onboard_time": 1740588495,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 47111,
       "num": 47111,
       "word": "爱你 治愈",
@@ -401,6 +417,14 @@
       "onboard_time": 1740582319,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 27070,
+      "num": 41460,
+      "word": "樊振东退出的球赛为何陷入争议",
+      "onboard_time": 1740581962,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 25860,
@@ -425,6 +449,30 @@
       "onboard_time": 1740586697,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16426,
+      "num": 49929,
+      "word": "2025全国盼春地图",
+      "onboard_time": 1740588854,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10113,
+      "num": 184643,
+      "word": "春耕农忙正当时",
+      "onboard_time": 1740575240,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7353,
+      "num": 80679,
+      "word": "阿黛拉说改变世界才能修复我们",
+      "onboard_time": 1740590054,
+      "rank": 9,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
