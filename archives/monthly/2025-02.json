@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740591509870,
+  "endTime": 1740594705530,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -71099,6 +71099,14 @@
       "category": "国内时政,财经"
     },
     {
+      "raw_hot": 62560,
+      "num": 50835,
+      "word": "文淇书评",
+      "onboard_time": 1740589453,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 62498,
       "num": 308965,
       "word": "deepseek点亮了科技树的分枝",
@@ -74601,14 +74609,6 @@
       "onboard_time": 1740481702,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 45756,
-      "num": 45756,
-      "word": "文淇书评",
-      "onboard_time": 1740589453,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 45740,
@@ -78899,6 +78899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26244,
+      "num": 31352,
+      "word": "大学老师说AI作文全判0分",
+      "onboard_time": 1740593414,
+      "rank": 29,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 26218,
       "num": 257091,
       "word": "2025亚冬会正式闭幕",
@@ -79457,6 +79465,14 @@
       "onboard_time": 1739954841,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24035,
+      "num": 24035,
+      "word": "檀健次矜贵公子气质",
+      "onboard_time": 1740593651,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 24018,
@@ -80411,6 +80427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20740,
+      "num": 21624,
+      "word": "宋亚轩新歌demo",
+      "onboard_time": 1740594313,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 20732,
       "num": 181812,
       "word": "李威卷入精舍命案详情",
@@ -80473,6 +80497,14 @@
       "onboard_time": 1739387832,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20572,
+      "num": 21622,
+      "word": "肖战海外秀场应援",
+      "onboard_time": 1740594131,
+      "rank": 46,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 20529,
@@ -81403,6 +81435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 16076,
+      "num": 21618,
+      "word": "100天后高考",
+      "onboard_time": 1740591015,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 16053,
       "num": 118209,
       "word": "紫幻希望狼队多拿冠军",
@@ -82075,6 +82115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 13406,
+      "num": 184643,
+      "word": "春耕农忙正当时",
+      "onboard_time": 1740575240,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13370,
       "num": 47688,
       "word": "黄旭华这段话再听依然感动",
@@ -82585,14 +82633,6 @@
       "onboard_time": 1739006664,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 11565,
-      "num": 184643,
-      "word": "春耕农忙正当时",
-      "onboard_time": 1740575240,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11548,

@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740591509870,
+  "endTime": 1740594705530,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -11899,6 +11899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62560,
+      "num": 50835,
+      "word": "文淇书评",
+      "onboard_time": 1740589453,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 62431,
       "num": 62431,
       "word": "难哄导演给白敬亭拍出偶像包袱了",
@@ -12465,14 +12473,6 @@
       "onboard_time": 1740481702,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 45756,
-      "num": 45756,
-      "word": "文淇书评",
-      "onboard_time": 1740589453,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 45700,
@@ -13163,6 +13163,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 26244,
+      "num": 31352,
+      "word": "大学老师说AI作文全判0分",
+      "onboard_time": 1740593414,
+      "rank": 29,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 25934,
       "num": 307136,
       "word": "建议将电信网络诈骗作为独立罪名",
@@ -13249,6 +13257,14 @@
       "onboard_time": 1740508632,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 24035,
+      "num": 24035,
+      "word": "檀健次矜贵公子气质",
+      "onboard_time": 1740593651,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 23897,
@@ -13411,6 +13427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 20740,
+      "num": 21624,
+      "word": "宋亚轩新歌demo",
+      "onboard_time": 1740594313,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 20732,
       "num": 181812,
       "word": "李威卷入精舍命案详情",
@@ -13425,6 +13449,14 @@
       "onboard_time": 1740341830,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20572,
+      "num": 21622,
+      "word": "肖战海外秀场应援",
+      "onboard_time": 1740594131,
+      "rank": 46,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 20331,
@@ -13643,6 +13675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 16076,
+      "num": 21618,
+      "word": "100天后高考",
+      "onboard_time": 1740591015,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 16020,
       "num": 44669,
       "word": "孙颖莎说邱指导一直鼓励我",
@@ -13696,6 +13736,14 @@
       "word": "多方辟谣网传车主被索要5千过路费",
       "onboard_time": 1740419353,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13406,
+      "num": 184643,
+      "word": "春耕农忙正当时",
+      "onboard_time": 1740575240,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -13777,14 +13825,6 @@
       "onboard_time": 1740281957,
       "rank": 24,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 11565,
-      "num": 184643,
-      "word": "春耕农忙正当时",
-      "onboard_time": 1740575240,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11509,

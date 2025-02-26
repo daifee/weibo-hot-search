@@ -1,6 +1,6 @@
 {
   "startTime": 1740587402639,
-  "endTime": 1740591509870,
+  "endTime": 1740594705530,
   "band_list": [
     {
       "raw_hot": 1135494,
@@ -387,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62560,
+      "num": 50835,
+      "word": "文淇书评",
+      "onboard_time": 1740589453,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 55214,
       "num": 163885,
       "word": "特朗普称有必要在乌部署维和部队",
@@ -409,14 +417,6 @@
       "onboard_time": 1740580281,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 45756,
-      "num": 45756,
-      "word": "文淇书评",
-      "onboard_time": 1740589453,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 45534,
@@ -451,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26244,
+      "num": 31352,
+      "word": "大学老师说AI作文全判0分",
+      "onboard_time": 1740593414,
+      "rank": 29,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 25860,
       "num": 437075,
       "word": "我国综合极端条件实验装置通过验收",
@@ -459,12 +467,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24035,
+      "num": 24035,
+      "word": "檀健次矜贵公子气质",
+      "onboard_time": 1740593651,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 20743,
       "num": 100968,
       "word": "Bin群访",
       "onboard_time": 1740582382,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 20740,
+      "num": 21624,
+      "word": "宋亚轩新歌demo",
+      "onboard_time": 1740594313,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 20572,
+      "num": 21622,
+      "word": "肖战海外秀场应援",
+      "onboard_time": 1740594131,
+      "rank": 46,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 19517,
@@ -483,7 +515,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 11565,
+      "raw_hot": 16076,
+      "num": 21618,
+      "word": "100天后高考",
+      "onboard_time": 1740591015,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 13406,
       "num": 184643,
       "word": "春耕农忙正当时",
       "onboard_time": 1740575240,
