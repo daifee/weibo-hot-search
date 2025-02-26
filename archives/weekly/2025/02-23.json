@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740598567029,
+  "endTime": 1740601529085,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -13419,6 +13419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 20942,
+      "num": 20942,
+      "word": "世界之外",
+      "onboard_time": 1740600491,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 20755,
       "num": 22058,
       "word": "农村移风易俗要避免急风骤雨",
@@ -13667,20 +13675,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16329,
+      "num": 16632,
+      "word": "韩国中小学将迎规模最大关停潮",
+      "onboard_time": 1740596113,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 16305,
       "num": 25233,
       "word": "虞书欣宣传了爱你",
       "onboard_time": 1740520812,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 16147,
-      "num": 16147,
-      "word": "韩国中小学将迎规模最大关停潮",
-      "onboard_time": 1740596113,
-      "rank": 44,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 16076,

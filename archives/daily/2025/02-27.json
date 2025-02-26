@@ -1,6 +1,6 @@
 {
   "startTime": 1740587402639,
-  "endTime": 1740598567029,
+  "endTime": 1740601529085,
   "band_list": [
     {
       "raw_hot": 1135494,
@@ -483,6 +483,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 20942,
+      "num": 20942,
+      "word": "世界之外",
+      "onboard_time": 1740600491,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 20743,
       "num": 100968,
       "word": "Bin群访",
@@ -515,8 +523,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 16147,
-      "num": 16147,
+      "raw_hot": 16329,
+      "num": 16632,
       "word": "韩国中小学将迎规模最大关停潮",
       "onboard_time": 1740596113,
       "rank": 44,
