@@ -1,10 +1,10 @@
 {
   "startTime": 1740500996613,
-  "endTime": 1740552302146,
+  "endTime": 1740554515501,
   "band_list": [
     {
       "raw_hot": 2799685,
-      "num": 310974,
+      "num": 312955,
       "word": "男友去世女子想生遗腹子被公婆劝阻",
       "onboard_time": 1740547998,
       "rank": 22,
@@ -43,20 +43,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1551292,
+      "num": 762499,
+      "word": "孙杨说禁赛时只能从足浴店找按摩师",
+      "onboard_time": 1740550819,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1334843,
       "num": 517942,
       "word": "九旬老人离世后四亲属被烟闷身亡",
       "onboard_time": 1740495441,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1217024,
-      "num": 309744,
-      "word": "孙杨说禁赛时只能从足浴店找按摩师",
-      "onboard_time": 1740550819,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 1209091,
@@ -163,6 +163,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 985888,
+      "num": 1157742,
+      "word": "华春莹添新职",
+      "onboard_time": 1740551900,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 967229,
       "num": 831067,
       "word": "恋爱兄妹综艺",
@@ -235,6 +243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 706392,
+      "num": 706392,
+      "word": "985女生5年十战六级终上岸",
+      "onboard_time": 1740549919,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
       "raw_hot": 700285,
       "num": 700285,
       "word": "特朗普将推售500万美元移民金卡",
@@ -249,14 +265,6 @@
       "onboard_time": 1740542301,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 673740,
-      "num": 673740,
-      "word": "985女生5年十战六级终上岸",
-      "onboard_time": 1740549919,
-      "rank": 5,
-      "category": "教育"
     },
     {
       "raw_hot": 638040,
@@ -313,6 +321,22 @@
       "onboard_time": 1740528020,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 574764,
+      "num": 574764,
+      "word": "于正恭喜白鹿北上央一播出",
+      "onboard_time": 1740552499,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 564735,
+      "num": 564735,
+      "word": "徐志胜蛐蛐黄磊被当场逮住",
+      "onboard_time": 1740548119,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 556634,
@@ -412,7 +436,7 @@
     },
     {
       "raw_hot": 446572,
-      "num": 302324,
+      "num": 310676,
       "word": "宣璐首部古偶女主剧",
       "onboard_time": 1740543261,
       "rank": 27,
@@ -441,6 +465,14 @@
       "onboard_time": 1740536959,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 407261,
+      "num": 311794,
+      "word": "美议员提议把特朗普印在250元钞票上",
+      "onboard_time": 1740551180,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 396586,
@@ -497,14 +529,6 @@
       "onboard_time": 1740493283,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 345438,
-      "num": 306788,
-      "word": "徐志胜蛐蛐黄磊被当场逮住",
-      "onboard_time": 1740548119,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 335416,
@@ -592,6 +616,14 @@
       "word": "台媒曝Melody新恋情",
       "onboard_time": 1740543441,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 296981,
+      "num": 296981,
+      "word": "真人版豆包",
+      "onboard_time": 1740553580,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -691,12 +723,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 233974,
-      "num": 233974,
-      "word": "美议员提议把特朗普印在250元钞票上",
-      "onboard_time": 1740551180,
-      "rank": 34,
-      "category": "国际时政"
+      "raw_hot": 235607,
+      "num": 235607,
+      "word": "难哄16集好暧昧",
+      "onboard_time": 1740554239,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 228814,
@@ -771,14 +803,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 210752,
-      "num": 210752,
-      "word": "华春莹添新职",
-      "onboard_time": 1740551900,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 210702,
       "num": 210702,
       "word": "湖南被撞沉客船是村里主要交通工具",
@@ -843,6 +867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196609,
+      "num": 196609,
+      "word": "章昊因为我是中国人啊",
+      "onboard_time": 1740554239,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193594,
       "num": 303963,
       "word": "每天8杯水是多大杯子",
@@ -867,6 +899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 187417,
+      "num": 187417,
+      "word": "北上定档",
+      "onboard_time": 1740553219,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186208,
       "num": 186208,
       "word": "盒子里的猫2玩家阵容官宣",
@@ -880,6 +920,14 @@
       "word": "小孩哥打鼓逗小孩喜感十足",
       "onboard_time": 1740531199,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 185292,
+      "num": 312399,
+      "word": "考了这些证书的可享个税扣除",
+      "onboard_time": 1740554178,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -1051,6 +1099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161921,
+      "num": 161921,
+      "word": "面汤呛妻案丈夫称施暴是为了吓妻子",
+      "onboard_time": 1740553458,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161760,
       "num": 264680,
       "word": "科考队员溶洞失联69小时奇迹生还",
@@ -1115,12 +1171,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 151619,
+      "num": 307236,
+      "word": "日本近海5.8级地震",
+      "onboard_time": 1740551959,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 149139,
       "num": 250682,
       "word": "肖战辛纳握手",
       "onboard_time": 1740544700,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 148976,
+      "num": 148976,
+      "word": "金价高台再跳水",
+      "onboard_time": 1740547820,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 148192,
@@ -1169,6 +1241,14 @@
       "onboard_time": 1740526097,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 142109,
+      "num": 142109,
+      "word": "狼队小胖",
+      "onboard_time": 1740554298,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 141674,
@@ -1259,6 +1339,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133429,
+      "num": 133429,
+      "word": "教育局回应让学生签上晚自习申请书",
+      "onboard_time": 1740552558,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131096,
+      "num": 131096,
+      "word": "王曼昱称亚洲杯决赛印象最深刻",
+      "onboard_time": 1740553339,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130366,
       "num": 200495,
       "word": "美国一客机降落被另一飞机阻挡",
@@ -1288,6 +1384,22 @@
       "word": "无限暖暖",
       "onboard_time": 1740533719,
       "rank": 38,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 125445,
+      "num": 177467,
+      "word": "亳州参与非法代孕警察被处理",
+      "onboard_time": 1740550100,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124524,
+      "num": 124524,
+      "word": "光与夜之恋如醉初醒时",
+      "onboard_time": 1740554178,
+      "rank": 43,
       "category": "游戏"
     },
     {
@@ -1339,12 +1451,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 117300,
-      "num": 117300,
-      "word": "金价高台再跳水",
-      "onboard_time": 1740547820,
-      "rank": 49,
-      "category": "财经"
+      "raw_hot": 118661,
+      "num": 152984,
+      "word": "邓为把谦逊刻进DNA了",
+      "onboard_time": 1740554359,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 117390,
+      "num": 117390,
+      "word": "一人之下漫画十周年",
+      "onboard_time": 1740554418,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 116703,
@@ -1523,14 +1643,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 90246,
-      "num": 307236,
-      "word": "日本近海5.8级地震",
-      "onboard_time": 1740551959,
-      "rank": 16,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 89274,
       "num": 89274,
       "word": "10万多个网络账号被关闭",
@@ -1651,6 +1763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 72476,
+      "num": 311453,
+      "word": "官方通报4后人处理丧事意外身亡",
+      "onboard_time": 1740553339,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71147,
       "num": 71147,
       "word": "侯明昊米兰时装周",
@@ -1697,14 +1817,6 @@
       "onboard_time": 1740544282,
       "rank": 19,
       "category": "教育"
-    },
-    {
-      "raw_hot": 63583,
-      "num": 177467,
-      "word": "亳州参与非法代孕警察被处理",
-      "onboard_time": 1740550100,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60726,

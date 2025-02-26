@@ -1,0 +1,410 @@
+{
+  "runTime": 1740554515501,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 985888,
+        "num": 1157742,
+        "word": "华春莹添新职",
+        "onboard_time": 1740551900,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 787786,
+        "num": 787786,
+        "word": "饶雪漫说苏有朋不用整过容的演员",
+        "onboard_time": 1740548419,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44932,
+        "num": 765320,
+        "word": "我国测量水平进入国际第1梯队",
+        "onboard_time": 1740543981,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1551292,
+        "num": 762499,
+        "word": "孙杨说禁赛时只能从足浴店找按摩师",
+        "onboard_time": 1740550819,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 758076,
+        "num": 758076,
+        "word": "哪吒2冲全球票房第7",
+        "onboard_time": 1740539958,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 706392,
+        "num": 706392,
+        "word": "985女生5年十战六级终上岸",
+        "onboard_time": 1740549919,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 633716,
+        "num": 633716,
+        "word": "网恋2个月后发现女友是AI",
+        "onboard_time": 1740547700,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 574764,
+        "num": 574764,
+        "word": "于正恭喜白鹿北上央一播出",
+        "onboard_time": 1740552499,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 564735,
+        "num": 564735,
+        "word": "徐志胜蛐蛐黄磊被当场逮住",
+        "onboard_time": 1740548119,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313198,
+        "num": 313198,
+        "word": "普京称准备向美国供应200万吨铝",
+        "onboard_time": 1740545602,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1741664,
+        "num": 312955,
+        "word": "男友去世女子想生遗腹子被公婆劝阻",
+        "onboard_time": 1740547998,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 674264,
+        "num": 312701,
+        "word": "监控还原猫咪尸体被放课桌事件",
+        "onboard_time": 1740546139,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185292,
+        "num": 312399,
+        "word": "考了这些证书的可享个税扣除",
+        "onboard_time": 1740554178,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 407261,
+        "num": 311794,
+        "word": "美议员提议把特朗普印在250元钞票上",
+        "onboard_time": 1740551180,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 72476,
+        "num": 311453,
+        "word": "官方通报4后人处理丧事意外身亡",
+        "onboard_time": 1740553339,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 382981,
+        "num": 311215,
+        "word": "李威由被告转为污点证人",
+        "onboard_time": 1740546200,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366457,
+        "num": 310676,
+        "word": "宣璐首部古偶女主剧",
+        "onboard_time": 1740543261,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310661,
+        "num": 310661,
+        "word": "被性侵后沉默18年的她为何现在发声",
+        "onboard_time": 1740549259,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 305295,
+        "num": 305295,
+        "word": "迪丽热巴开推埃及艳后造型",
+        "onboard_time": 1740544882,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296981,
+        "num": 296981,
+        "word": "真人版豆包",
+        "onboard_time": 1740553580,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257034,
+        "num": 257034,
+        "word": "肖战和容祖儿合照了",
+        "onboard_time": 1740548119,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235607,
+        "num": 235607,
+        "word": "难哄16集好暧昧",
+        "onboard_time": 1740554239,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214983,
+        "num": 214983,
+        "word": "Melody方回应新恋情",
+        "onboard_time": 1740542301,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199406,
+        "num": 199406,
+        "word": "你要撑住马上就可以到中国抢救了",
+        "onboard_time": 1740499758,
+        "rank": 23,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 198289,
+        "num": 198289,
+        "word": "全亚洲最大IMAXGT影厅因哪吒改命",
+        "onboard_time": 1740546860,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 196609,
+        "num": 196609,
+        "word": "章昊因为我是中国人啊",
+        "onboard_time": 1740554239,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194721,
+        "num": 194721,
+        "word": "柳智敏短发",
+        "onboard_time": 1740540258,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 187417,
+        "num": 187417,
+        "word": "北上定档",
+        "onboard_time": 1740553219,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161921,
+        "num": 161921,
+        "word": "面汤呛妻案丈夫称施暴是为了吓妻子",
+        "onboard_time": 1740553458,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155395,
+        "num": 155395,
+        "word": "恋爱兄妹综艺",
+        "onboard_time": 1740545842,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118661,
+        "num": 152984,
+        "word": "邓为把谦逊刻进DNA了",
+        "onboard_time": 1740554359,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151619,
+        "num": 151619,
+        "word": "日本近海5.8级地震",
+        "onboard_time": 1740551959,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 150012,
+        "num": 150012,
+        "word": "主人称小猫洗澡烘干70分钟后死亡",
+        "onboard_time": 1740545363,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148976,
+        "num": 148976,
+        "word": "金价高台再跳水",
+        "onboard_time": 1740547820,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 142109,
+        "num": 142109,
+        "word": "狼队小胖",
+        "onboard_time": 1740554298,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137049,
+        "num": 137049,
+        "word": "爱你谈一场气血很足的恋爱",
+        "onboard_time": 1740550518,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136641,
+        "num": 136641,
+        "word": "足金价格一夜下跌近10元",
+        "onboard_time": 1740540198,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 133429,
+        "num": 133429,
+        "word": "教育局回应让学生签上晚自习申请书",
+        "onboard_time": 1740552558,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131096,
+        "num": 131096,
+        "word": "王曼昱称亚洲杯决赛印象最深刻",
+        "onboard_time": 1740553339,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129854,
+        "num": 129854,
+        "word": "宋慧乔港版VOGUE开季刊",
+        "onboard_time": 1740550819,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 127612,
+        "num": 127612,
+        "word": "李威供出5名信徒身份",
+        "onboard_time": 1740551479,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125839,
+        "num": 125839,
+        "word": "团伙用AI女友网恋诈骗200多万",
+        "onboard_time": 1740550039,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125445,
+        "num": 125445,
+        "word": "亳州参与非法代孕警察被处理",
+        "onboard_time": 1740550100,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124524,
+        "num": 124524,
+        "word": "光与夜之恋如醉初醒时",
+        "onboard_time": 1740554178,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124189,
+        "num": 124189,
+        "word": "邓为 演猫",
+        "onboard_time": 1740548659,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124127,
+        "num": 124127,
+        "word": "国台办回应王大陆等人涉嫌逃兵役",
+        "onboard_time": 1740541460,
+        "rank": 45,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 121621,
+        "num": 121621,
+        "word": "有一个情绪稳定的妈妈有多重要",
+        "onboard_time": 1740548539,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119232,
+        "num": 119232,
+        "word": "日方在台湾问题上负有历史罪责",
+        "onboard_time": 1740548360,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117390,
+        "num": 117390,
+        "word": "一人之下漫画十周年",
+        "onboard_time": 1740554418,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 114291,
+        "num": 114291,
+        "word": "蔡徐坤灰发机场造型",
+        "onboard_time": 1740548480,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#更好发挥县城连接城市带动乡村作用#"
+    }
+  }
+}
