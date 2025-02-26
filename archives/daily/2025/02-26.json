@@ -1,6 +1,6 @@
 {
   "startTime": 1740500996613,
-  "endTime": 1740547348184,
+  "endTime": 1740548386554,
   "band_list": [
     {
       "raw_hot": 1880791,
@@ -41,6 +41,14 @@
       "onboard_time": 1740495441,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1209091,
+      "num": 1209091,
+      "word": "李威由被告转为污点证人",
+      "onboard_time": 1740546200,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1175462,
@@ -123,6 +131,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 967229,
+      "num": 831067,
+      "word": "恋爱兄妹综艺",
+      "onboard_time": 1740545842,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 897317,
       "num": 897317,
       "word": "司藤原班人马 龙骨焚箱",
@@ -139,16 +155,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 831067,
-      "num": 831067,
-      "word": "恋爱兄妹综艺",
-      "onboard_time": 1740545842,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 788586,
-      "num": 788586,
+      "raw_hot": 800224,
+      "num": 800224,
       "word": "普京称准备向美国供应200万吨铝",
       "onboard_time": 1740545602,
       "rank": 4,
@@ -176,6 +184,14 @@
       "word": "老人去世130万分堂弟1套房收归国有",
       "onboard_time": 1740506892,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 730084,
+      "num": 394026,
+      "word": "监控还原猫咪尸体被放课桌事件",
+      "onboard_time": 1740546139,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -323,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 465527,
+      "num": 414066,
+      "word": "主人称小猫洗澡烘干70分钟后死亡",
+      "onboard_time": 1740545363,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 463458,
       "num": 463458,
       "word": "菲律宾保安上班迟到被同事3枪毙命",
@@ -363,14 +387,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 414066,
-      "num": 414066,
-      "word": "主人称小猫洗澡烘干70分钟后死亡",
-      "onboard_time": 1740545363,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 412148,
       "num": 412148,
       "word": "陈梦去盒子里的猫了",
@@ -401,14 +417,6 @@
       "onboard_time": 1740540198,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 390286,
-      "num": 390286,
-      "word": "李威由被告转为污点证人",
-      "onboard_time": 1740546200,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 373898,
@@ -523,14 +531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 278752,
-      "num": 278752,
-      "word": "监控还原猫咪尸体被放课桌事件",
-      "onboard_time": 1740546139,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 270261,
       "num": 270261,
       "word": "白敬亭章若楠发合照了",
@@ -545,6 +545,14 @@
       "onboard_time": 1740534438,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 269027,
+      "num": 269027,
+      "word": "男友去世女子想生遗腹子被公婆劝阻",
+      "onboard_time": 1740547998,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 262374,
@@ -568,6 +576,14 @@
       "word": "电影天堂旅行团首支长预告",
       "onboard_time": 1740543202,
       "rank": 14,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 251500,
+      "num": 251500,
+      "word": "全亚洲最大IMAXGT影厅因哪吒改命",
+      "onboard_time": 1740546860,
+      "rank": 37,
       "category": "电影"
     },
     {
@@ -603,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 238837,
+      "num": 242184,
+      "word": "祁煜沉入无尽海",
+      "onboard_time": 1740540439,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 237222,
       "num": 237222,
       "word": "张凌赫回复了虞书欣",
@@ -625,14 +649,6 @@
       "onboard_time": 1740497300,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 225987,
-      "num": 242184,
-      "word": "祁煜沉入无尽海",
-      "onboard_time": 1740540439,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 220430,
@@ -665,6 +681,14 @@
       "onboard_time": 1740492263,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213644,
+      "num": 213644,
+      "word": "白敬亭谈和章若楠合作感受",
+      "onboard_time": 1740544522,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 213107,
@@ -705,14 +729,6 @@
       "onboard_time": 1740536418,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 203430,
-      "num": 203430,
-      "word": "白敬亭谈和章若楠合作感受",
-      "onboard_time": 1740544522,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 202867,
@@ -787,6 +803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 183849,
+      "num": 183849,
+      "word": "徐志胜蛐蛐黄磊被当场逮住",
+      "onboard_time": 1740548119,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179905,
       "num": 179905,
       "word": "难哄",
@@ -819,12 +843,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174571,
+      "num": 275609,
+      "word": "肖战和容祖儿合照了",
+      "onboard_time": 1740548119,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171572,
       "num": 171572,
       "word": "善意的竞争",
       "onboard_time": 1740531979,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169234,
+      "num": 169234,
+      "word": "日方在台湾问题上负有历史罪责",
+      "onboard_time": 1740548360,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 168482,
@@ -851,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166348,
+      "num": 415960,
+      "word": "未患癌被切胆囊签名医生称未参与手术",
+      "onboard_time": 1740546261,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165661,
       "num": 165661,
       "word": "爱你第一集就锁v",
@@ -865,14 +913,6 @@
       "onboard_time": 1740537199,
       "rank": 15,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 164119,
-      "num": 164119,
-      "word": "全亚洲最大IMAXGT影厅因哪吒改命",
-      "onboard_time": 1740546860,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 163992,
@@ -1019,6 +1059,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 136660,
+      "num": 396098,
+      "word": "网恋2个月后发现女友是AI",
+      "onboard_time": 1740547700,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136124,
       "num": 233446,
       "word": "王楚钦外协细节控白月光",
@@ -1043,12 +1091,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133539,
+      "num": 151459,
+      "word": "东契奇这肥说减就减",
+      "onboard_time": 1740547460,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130366,
       "num": 200495,
       "word": "美国一客机降落被另一飞机阻挡",
       "onboard_time": 1740534559,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 130080,
+      "num": 130080,
+      "word": "萧逸灼金遗梦",
+      "onboard_time": 1740547639,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 130043,
@@ -1107,6 +1171,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118497,
+      "num": 118497,
+      "word": "桑延很好哄",
+      "onboard_time": 1740548360,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 117300,
+      "num": 117300,
+      "word": "金价高台再跳水",
+      "onboard_time": 1740547820,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 114190,
       "num": 114190,
       "word": "特斯拉市值一夜蒸发6469亿",
@@ -1121,6 +1201,14 @@
       "onboard_time": 1740496401,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110598,
+      "num": 324797,
+      "word": "私家车贴公务用车加塞伤人",
+      "onboard_time": 1740546500,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110277,
@@ -1217,6 +1305,14 @@
       "onboard_time": 1740498560,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96870,
+      "num": 275761,
+      "word": "广东一中学37平宿舍塞下14人",
+      "onboard_time": 1740547520,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96288,
@@ -1411,14 +1507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 57498,
-      "num": 415960,
-      "word": "未患癌被切胆囊签名医生称未参与手术",
-      "onboard_time": 1740546261,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 55534,
       "num": 176867,
       "word": "吴希泽攻击严恒最薄弱的地方",
@@ -1475,20 +1563,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48602,
+      "num": 202330,
+      "word": "贺峻霖太有节目了",
+      "onboard_time": 1740547340,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 47068,
       "num": 234607,
       "word": "坚持长期主义做困难而正确的事",
       "onboard_time": 1740544941,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 45031,
-      "num": 324797,
-      "word": "私家车贴公务用车加塞伤人",
-      "onboard_time": 1740546500,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 41592,
