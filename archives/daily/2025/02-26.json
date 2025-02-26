@@ -1,10 +1,10 @@
 {
   "startTime": 1740500996613,
-  "endTime": 1740551539381,
+  "endTime": 1740552302146,
   "band_list": [
     {
       "raw_hot": 2799685,
-      "num": 289441,
+      "num": 310974,
       "word": "男友去世女子想生遗腹子被公婆劝阻",
       "onboard_time": 1740547998,
       "rank": 22,
@@ -49,6 +49,14 @@
       "onboard_time": 1740495441,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1217024,
+      "num": 309744,
+      "word": "孙杨说禁赛时只能从足浴店找按摩师",
+      "onboard_time": 1740550819,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 1209091,
@@ -243,6 +251,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 673740,
+      "num": 673740,
+      "word": "985女生5年十战六级终上岸",
+      "onboard_time": 1740549919,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 638040,
+      "num": 638040,
+      "word": "网恋2个月后发现女友是AI",
+      "onboard_time": 1740547700,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 625541,
       "num": 625541,
       "word": "智利灾难紧急状态",
@@ -297,14 +321,6 @@
       "onboard_time": 1740543621,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 522318,
-      "num": 522318,
-      "word": "网恋2个月后发现女友是AI",
-      "onboard_time": 1740547700,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 486251,
@@ -403,28 +419,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 426397,
-      "num": 426397,
-      "word": "985女生5年十战六级终上岸",
-      "onboard_time": 1740549919,
-      "rank": 5,
-      "category": "教育"
-    },
-    {
       "raw_hot": 419355,
       "num": 419355,
       "word": "四六级成绩0分是什么情况",
       "onboard_time": 1740538698,
       "rank": 14,
       "category": "教育"
-    },
-    {
-      "raw_hot": 417232,
-      "num": 285406,
-      "word": "孙杨说禁赛时只能从足浴店找按摩师",
-      "onboard_time": 1740550819,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 412148,
@@ -499,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 345438,
+      "num": 306788,
+      "word": "徐志胜蛐蛐黄磊被当场逮住",
+      "onboard_time": 1740548119,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 335416,
       "num": 335416,
       "word": "四六级",
@@ -532,7 +540,7 @@
     },
     {
       "raw_hot": 319391,
-      "num": 275609,
+      "num": 306647,
       "word": "肖战和容祖儿合照了",
       "onboard_time": 1740548119,
       "rank": 20,
@@ -545,6 +553,14 @@
       "onboard_time": 1740469400,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 314607,
+      "num": 314607,
+      "word": "被性侵后沉默18年的她为何现在发声",
+      "onboard_time": 1740549259,
+      "rank": 17,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 305638,
@@ -585,14 +601,6 @@
       "onboard_time": 1740484821,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 282411,
-      "num": 282411,
-      "word": "被性侵后沉默18年的她为何现在发声",
-      "onboard_time": 1740549259,
-      "rank": 17,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 270261,
@@ -683,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 233974,
+      "num": 233974,
+      "word": "美议员提议把特朗普印在250元钞票上",
+      "onboard_time": 1740551180,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 228814,
       "num": 228814,
       "word": "孙颖莎笑自有光",
@@ -705,14 +721,6 @@
       "onboard_time": 1740550518,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 226435,
-      "num": 226435,
-      "word": "徐志胜蛐蛐黄磊被当场逮住",
-      "onboard_time": 1740548119,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 220430,
@@ -761,6 +769,14 @@
       "onboard_time": 1740539660,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 210752,
+      "num": 210752,
+      "word": "华春莹添新职",
+      "onboard_time": 1740551900,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 210702,
@@ -899,11 +915,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176612,
+      "num": 176612,
+      "word": "邓为 演猫",
+      "onboard_time": 1740548659,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 174766,
+      "num": 171255,
+      "word": "宋慧乔港版VOGUE开季刊",
+      "onboard_time": 1740550819,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 174578,
       "num": 174578,
       "word": "桑延很好哄",
       "onboard_time": 1740548360,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 172320,
+      "num": 172320,
+      "word": "欧豪新剧是同桌型竹马",
+      "onboard_time": 1740551959,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -921,6 +961,14 @@
       "onboard_time": 1740548360,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 168839,
+      "num": 168839,
+      "word": "大侦探",
+      "onboard_time": 1740552018,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 168482,
@@ -955,12 +1003,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166415,
-      "num": 166415,
-      "word": "美议员提议把特朗普印在250元钞票上",
-      "onboard_time": 1740551180,
-      "rank": 34,
-      "category": "国际时政"
+      "raw_hot": 166799,
+      "num": 166799,
+      "word": "团伙用AI女友网恋诈骗200多万",
+      "onboard_time": 1740550039,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166348,
@@ -1019,6 +1067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155420,
+      "num": 155420,
+      "word": "李威供出5名信徒身份",
+      "onboard_time": 1740551479,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155204,
       "num": 155204,
       "word": "肖战手持花束",
@@ -1065,14 +1121,6 @@
       "onboard_time": 1740544700,
       "rank": 25,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 148451,
-      "num": 148451,
-      "word": "邓为 演猫",
-      "onboard_time": 1740548659,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 148192,
@@ -1155,20 +1203,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139175,
+      "num": 139175,
+      "word": "有一个情绪稳定的妈妈有多重要",
+      "onboard_time": 1740548539,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138758,
       "num": 138758,
       "word": "孩子到底需要怎样的沟通方式",
       "onboard_time": 1740549199,
       "rank": 43,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 136584,
-      "num": 136584,
-      "word": "李威供出5名信徒身份",
-      "onboard_time": 1740551479,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 136143,
@@ -1185,14 +1233,6 @@
       "onboard_time": 1740537979,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 135416,
-      "num": 135416,
-      "word": "有一个情绪稳定的妈妈有多重要",
-      "onboard_time": 1740548539,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 135063,
@@ -1291,6 +1331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118897,
+      "num": 118897,
+      "word": "湖人vs独行侠",
+      "onboard_time": 1740549020,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117300,
       "num": 117300,
       "word": "金价高台再跳水",
@@ -1299,12 +1347,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 115443,
-      "num": 141354,
-      "word": "团伙用AI女友网恋诈骗200多万",
-      "onboard_time": 1740550039,
-      "rank": 40,
-      "category": "民生新闻"
+      "raw_hot": 116703,
+      "num": 116703,
+      "word": "叔叔句句有回应句句不答应",
+      "onboard_time": 1740549680,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 114190,
@@ -1315,20 +1363,20 @@
       "category": "财经,汽车"
     },
     {
-      "raw_hot": 112867,
-      "num": 138451,
-      "word": "宋慧乔港版VOGUE开季刊",
-      "onboard_time": 1740550819,
-      "rank": 44,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 112412,
       "num": 112412,
       "word": "六姊妹谁不想要曹斐然这样的妈",
       "onboard_time": 1740496401,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111986,
+      "num": 276337,
+      "word": "想攒钱的年轻人上邮轮打工了",
+      "onboard_time": 1740550159,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110598,
@@ -1467,20 +1515,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 92050,
-      "num": 276337,
-      "word": "想攒钱的年轻人上邮轮打工了",
-      "onboard_time": 1740550159,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90636,
       "num": 90636,
       "word": "大衣哥回应正采访中翻墙走了",
       "onboard_time": 1740497960,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90246,
+      "num": 307236,
+      "word": "日本近海5.8级地震",
+      "onboard_time": 1740551959,
+      "rank": 16,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 89274,
@@ -1537,6 +1585,14 @@
       "onboard_time": 1740498319,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 81834,
+      "num": 309195,
+      "word": "肖战Gucci秀场造型",
+      "onboard_time": 1740548539,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 80545,
@@ -1609,14 +1665,6 @@
       "onboard_time": 1740543860,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 69974,
-      "num": 286494,
-      "word": "肖战Gucci秀场造型",
-      "onboard_time": 1740548539,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 68627,
@@ -1969,6 +2017,14 @@
       "onboard_time": 1740513431,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 11348,
+      "num": 230067,
+      "word": "亚洲杯夺冠王楚钦想感谢很多人",
+      "onboard_time": 1740551659,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 11190,
