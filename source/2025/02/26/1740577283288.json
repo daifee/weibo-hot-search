@@ -1,0 +1,410 @@
+{
+  "runTime": 1740577283288,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 720332,
+        "num": 1115253,
+        "word": "北上导演因白鹿太漂亮有过顾虑",
+        "onboard_time": 1740575720,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 619745,
+        "num": 619745,
+        "word": "TES战胜BLG",
+        "onboard_time": 1740574161,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 42368,
+        "num": 558601,
+        "word": "我国综合极端条件实验装置通过验收",
+        "onboard_time": 1740575841,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 506980,
+        "num": 506980,
+        "word": "博主回应报考北大研究生笔试412",
+        "onboard_time": 1740572360,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 406266,
+        "num": 406266,
+        "word": "BLG虐泉",
+        "onboard_time": 1740569960,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1214905,
+        "num": 404760,
+        "word": "方媛称已报警",
+        "onboard_time": 1740565638,
+        "rank": 5,
+        "category": "艺人,海外新闻"
+      },
+      {
+        "raw_hot": 793436,
+        "num": 399602,
+        "word": "关晓彤新片出品人是邓超",
+        "onboard_time": 1740565519,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 670737,
+        "num": 397088,
+        "word": "甄嬛传演员在颖儿评论区团建",
+        "onboard_time": 1740571639,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 412729,
+        "num": 392594,
+        "word": "桑延 温霜降生日快乐",
+        "onboard_time": 1740572299,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306716,
+        "num": 390646,
+        "word": "张伟丽说男友难找后私信爆炸",
+        "onboard_time": 1740569421,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 751422,
+        "num": 386398,
+        "word": "郭涛儿子石头18岁近照",
+        "onboard_time": 1740575480,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 711364,
+        "num": 382915,
+        "word": "南京师范大学",
+        "onboard_time": 1740569300,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381973,
+        "num": 381973,
+        "word": "Bin",
+        "onboard_time": 1740571099,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 343997,
+        "num": 343997,
+        "word": "乌克兰和美国已定矿产协议最终版本",
+        "onboard_time": 1740570439,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 339278,
+        "num": 339278,
+        "word": "哪吒2冲全球票房第7",
+        "onboard_time": 1740539958,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167388,
+        "num": 334921,
+        "word": "联合国播放加沙女孩遇害前求救声",
+        "onboard_time": 1740576021,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 277940,
+        "num": 332126,
+        "word": "专家称金价很难再有大幅上涨",
+        "onboard_time": 1740568399,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 162238,
+        "num": 326323,
+        "word": "电影平原上的火焰定档",
+        "onboard_time": 1740575002,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177924,
+        "num": 324053,
+        "word": "肖战看秀观后感",
+        "onboard_time": 1740576500,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 25847,
+        "num": 314343,
+        "word": "米兰华人称方媛找回财物可能性不大",
+        "onboard_time": 1740576681,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 29337,
+        "num": 310709,
+        "word": "浙江一医院用DeepSeek帮患者看懂病历",
+        "onboard_time": 1740576980,
+        "rank": 20,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 43884,
+        "num": 308310,
+        "word": "日照160亩永久基本农田撂荒两年多",
+        "onboard_time": 1740575421,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304149,
+        "num": 304149,
+        "word": "红房子",
+        "onboard_time": 1740568460,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279631,
+        "num": 279631,
+        "word": "陈冠希晒与老婆自拍照",
+        "onboard_time": 1740576260,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24047,
+        "num": 263237,
+        "word": "张伟丽重回14年前发传单路口",
+        "onboard_time": 1740573682,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259438,
+        "num": 259438,
+        "word": "前男友用牙签抠走女子存钱罐3000多元",
+        "onboard_time": 1740565760,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242488,
+        "num": 242488,
+        "word": "存款利息低DeepSeek建议钱往哪里放",
+        "onboard_time": 1740573619,
+        "rank": 26,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 234730,
+        "num": 234730,
+        "word": "夫妻收养弃婴3年办不了领养证",
+        "onboard_time": 1740567981,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221723,
+        "num": 221723,
+        "word": "吒儿继续一亿一亿往上冲",
+        "onboard_time": 1740572540,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 210816,
+        "num": 210816,
+        "word": "难哄豆瓣开分5.4",
+        "onboard_time": 1740563540,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202605,
+        "num": 202605,
+        "word": "BLG无缘全球先锋赛",
+        "onboard_time": 1740574340,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 197682,
+        "num": 197682,
+        "word": "李兰迪 金发洋娃娃",
+        "onboard_time": 1740564020,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196712,
+        "num": 196712,
+        "word": "徐若晗 用心",
+        "onboard_time": 1740575720,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188575,
+        "num": 193634,
+        "word": "多哈世乒赛已完成世界排名席位分配",
+        "onboard_time": 1740576200,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93136,
+        "num": 193201,
+        "word": "中国游客5天花62万踏上南极囧途",
+        "onboard_time": 1740575300,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192994,
+        "num": 192994,
+        "word": "BLG对战TES",
+        "onboard_time": 1740563540,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139850,
+        "num": 192830,
+        "word": "下调法定婚龄的建议应被舆论严肃对待",
+        "onboard_time": 1740577160,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81448,
+        "num": 192829,
+        "word": "一女子为挽回丈夫交了32万学费",
+        "onboard_time": 1740575361,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192829,
+        "num": 192828,
+        "word": "西安人至死都会暴烈地爱菜夹馍",
+        "onboard_time": 1740574760,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 26542,
+        "num": 191978,
+        "word": "蛋黄烤酥饼",
+        "onboard_time": 1740576141,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 191880,
+        "num": 191880,
+        "word": "桐华虐檀健次只有0次和无数次",
+        "onboard_time": 1740576860,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185716,
+        "num": 185716,
+        "word": "唐嫣直播",
+        "onboard_time": 1740576740,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182119,
+        "num": 182119,
+        "word": "章昊 除了脏话我不会闽南话",
+        "onboard_time": 1740576681,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176729,
+        "num": 176729,
+        "word": "郭富城妻子称在米兰被抢劫",
+        "onboard_time": 1740561319,
+        "rank": 43,
+        "category": "艺人,海外新闻"
+      },
+      {
+        "raw_hot": 165931,
+        "num": 165931,
+        "word": "爱你",
+        "onboard_time": 1740568460,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152286,
+        "num": 152286,
+        "word": "漫画难哄名场面1比1还原",
+        "onboard_time": 1740563659,
+        "rank": 45,
+        "category": "动漫,剧集"
+      },
+      {
+        "raw_hot": 151130,
+        "num": 151130,
+        "word": "肖战休闲风出门了",
+        "onboard_time": 1740571460,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 141720,
+        "num": 141720,
+        "word": "BLG 记得",
+        "onboard_time": 1740577160,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127666,
+        "num": 138206,
+        "word": "患者称等医院员工玩游戏排队近1小时",
+        "onboard_time": 1740571700,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134961,
+        "num": 134961,
+        "word": "S14冠亚军无缘全球先锋赛",
+        "onboard_time": 1740574460,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#让民营企业心无旁骛谋发展#"
+    }
+  }
+}
