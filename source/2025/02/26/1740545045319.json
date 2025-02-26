@@ -1,0 +1,410 @@
+{
+  "runTime": 1740545045319,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1610883,
+        "num": 1610883,
+        "word": "哪吒2冲全球票房第7",
+        "onboard_time": 1740539958,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1016611,
+        "num": 1016611,
+        "word": "国台办回应王大陆等人涉嫌逃兵役",
+        "onboard_time": 1740541460,
+        "rank": 1,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 48280,
+        "num": 725991,
+        "word": "我国测量水平进入国际第1梯队",
+        "onboard_time": 1740543981,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 674390,
+        "num": 674390,
+        "word": "Melody方回应新恋情",
+        "onboard_time": 1740542301,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 591931,
+        "num": 591931,
+        "word": "女生考研查分紧张手抖结果出人意料",
+        "onboard_time": 1740541399,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 555850,
+        "num": 555850,
+        "word": "你要撑住马上就可以到中国抢救了",
+        "onboard_time": 1740499758,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 485867,
+        "num": 485867,
+        "word": "吴尊带neinei和Max上恋综",
+        "onboard_time": 1740544282,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 482670,
+        "num": 482670,
+        "word": "网红迅猛龙特蕾莎停播三个月备考",
+        "onboard_time": 1740523634,
+        "rank": 7,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 397539,
+        "num": 482139,
+        "word": "法医秦明谈李威案受害者致死原因",
+        "onboard_time": 1740543621,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379484,
+        "num": 475128,
+        "word": "足金价格一夜下跌近10元",
+        "onboard_time": 1740540198,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 710368,
+        "num": 469065,
+        "word": "柳智敏短发",
+        "onboard_time": 1740540258,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 689134,
+        "num": 463316,
+        "word": "警方回应猫尸体被塞课桌",
+        "onboard_time": 1740538458,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 580012,
+        "num": 457192,
+        "word": "02年男生苦追班主任终喜结连理",
+        "onboard_time": 1740528440,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 454799,
+        "num": 454799,
+        "word": "九旬老人离世后四亲属被烟闷身亡",
+        "onboard_time": 1740495441,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 414855,
+        "num": 414855,
+        "word": "素人时期的王安宇",
+        "onboard_time": 1740529640,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402052,
+        "num": 402052,
+        "word": "孙俪婴儿时期旧照",
+        "onboard_time": 1740542361,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316170,
+        "num": 316170,
+        "word": "陈梦去盒子里的猫了",
+        "onboard_time": 1740542781,
+        "rank": 16,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 308104,
+        "num": 308104,
+        "word": "二本情侣苦战3年携手闯入985复试",
+        "onboard_time": 1740534618,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25934,
+        "num": 307136,
+        "word": "建议将电信网络诈骗作为独立罪名",
+        "onboard_time": 1740544282,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63618,
+        "num": 305557,
+        "word": "智搜DS谈四六级对找工作的帮助大吗",
+        "onboard_time": 1740544282,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1099397,
+        "num": 304492,
+        "word": "保安上班迟到30分钟被同事3枪毙命",
+        "onboard_time": 1740541999,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 446572,
+        "num": 302324,
+        "word": "宣璐首部古偶女主剧",
+        "onboard_time": 1740543261,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302083,
+        "num": 302083,
+        "word": "光与夜之恋",
+        "onboard_time": 1740543380,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 285248,
+        "num": 285248,
+        "word": "台媒曝Melody新恋情",
+        "onboard_time": 1740543441,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220430,
+        "num": 256066,
+        "word": "NBA",
+        "onboard_time": 1740543322,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123539,
+        "num": 250682,
+        "word": "肖战辛纳握手",
+        "onboard_time": 1740544700,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 250656,
+        "num": 250656,
+        "word": "白宫称特朗普手背淤青因握手太多",
+        "onboard_time": 1740538339,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 207254,
+        "num": 239131,
+        "word": "电影天堂旅行团首支长预告",
+        "onboard_time": 1740543202,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 230452,
+        "num": 230452,
+        "word": "女主一集下来微信步数第一",
+        "onboard_time": 1740528681,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220550,
+        "num": 220550,
+        "word": "猫尸体塞课桌学校称不确定是否人为",
+        "onboard_time": 1740530300,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256267,
+        "num": 219209,
+        "word": "肖战突然从怀里掏出一个小风扇",
+        "onboard_time": 1740529159,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 122538,
+        "num": 211070,
+        "word": "王境泽想摆脱真香标签",
+        "onboard_time": 1740543080,
+        "rank": 31,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 27598,
+        "num": 210884,
+        "word": "坚持长期主义做困难而正确的事",
+        "onboard_time": 1740544941,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 210702,
+        "num": 210702,
+        "word": "湖南被撞沉客船是村里主要交通工具",
+        "onboard_time": 1740542061,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204950,
+        "num": 204950,
+        "word": "种地吧第三季定档",
+        "onboard_time": 1740536959,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152335,
+        "num": 203023,
+        "word": "法国退休医生25年间性侵299名患者",
+        "onboard_time": 1740543202,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 202757,
+        "num": 202757,
+        "word": "男子带狗取快递受惊竟将猫打死",
+        "onboard_time": 1740544999,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193594,
+        "num": 193594,
+        "word": "每天8杯水是多大杯子",
+        "onboard_time": 1740541279,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 180158,
+        "num": 180158,
+        "word": "白敬亭谈和章若楠合作感受",
+        "onboard_time": 1740544522,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179905,
+        "num": 179905,
+        "word": "难哄",
+        "onboard_time": 1740544461,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179815,
+        "num": 179815,
+        "word": "恋与深空",
+        "onboard_time": 1740539899,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 55534,
+        "num": 176867,
+        "word": "吴希泽攻击严恒最薄弱的地方",
+        "onboard_time": 1740542721,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174283,
+        "num": 174283,
+        "word": "翟潇闻从内娱190的全世界路过",
+        "onboard_time": 1740539660,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172836,
+        "num": 172836,
+        "word": "黄金",
+        "onboard_time": 1740532939,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 170126,
+        "num": 170126,
+        "word": "四六级成绩0分是什么情况",
+        "onboard_time": 1740538698,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 161665,
+        "num": 161665,
+        "word": "迪丽热巴开推埃及艳后造型",
+        "onboard_time": 1740544882,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148869,
+        "num": 148869,
+        "word": "关晓彤回应近日状态",
+        "onboard_time": 1740477561,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147988,
+        "num": 147988,
+        "word": "虞书欣片场跳了Jennie新歌",
+        "onboard_time": 1740531562,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145269,
+        "num": 145269,
+        "word": "张元英好会拍",
+        "onboard_time": 1740543021,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134043,
+        "num": 142489,
+        "word": "北上要上央一了",
+        "onboard_time": 1740538218,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平为基层减负的故事#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740544121662,
+  "endTime": 1740545045319,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -331,6 +331,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1610883,
+      "num": 1610883,
+      "word": "哪吒2冲全球票房第7",
+      "onboard_time": 1740539958,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1594429,
       "num": 1594429,
       "word": "饺子导演撤回了一份入职通知书",
@@ -369,14 +377,6 @@
       "onboard_time": 1740320782,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1520634,
-      "num": 1520634,
-      "word": "哪吒2冲全球票房第7",
-      "onboard_time": 1740539958,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 1520337,
@@ -700,7 +700,7 @@
     },
     {
       "raw_hot": 1107173,
-      "num": 299155,
+      "num": 304492,
       "word": "保安上班迟到30分钟被同事3枪毙命",
       "onboard_time": 1740541999,
       "rank": 20,
@@ -793,6 +793,14 @@
       "onboard_time": 1740318683,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1016611,
+      "num": 1016611,
+      "word": "国台办回应王大陆等人涉嫌逃兵役",
+      "onboard_time": 1740541460,
+      "rank": 48,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 1015204,
@@ -1009,14 +1017,6 @@
       "onboard_time": 1740362179,
       "rank": 8,
       "category": "教育"
-    },
-    {
-      "raw_hot": 902743,
-      "num": 902743,
-      "word": "国台办回应王大陆等人涉嫌逃兵役",
-      "onboard_time": 1740541460,
-      "rank": 48,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 902184,
@@ -1564,7 +1564,7 @@
     },
     {
       "raw_hot": 680373,
-      "num": 302391,
+      "num": 674390,
       "word": "Melody方回应新恋情",
       "onboard_time": 1740542301,
       "rank": 12,
@@ -1833,6 +1833,14 @@
       "onboard_time": 1740279200,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 591931,
+      "num": 591931,
+      "word": "女生考研查分紧张手抖结果出人意料",
+      "onboard_time": 1740541399,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 588194,
@@ -2275,6 +2283,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 485867,
+      "num": 485867,
+      "word": "吴尊带neinei和Max上恋综",
+      "onboard_time": 1740544282,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 485732,
       "num": 485732,
       "word": "马来西亚政府签署无发现无收费合同",
@@ -2388,7 +2404,7 @@
     },
     {
       "raw_hot": 466713,
-      "num": 300570,
+      "num": 402052,
       "word": "孙俪婴儿时期旧照",
       "onboard_time": 1740542361,
       "rank": 16,
@@ -2497,6 +2513,14 @@
       "onboard_time": 1740393560,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 446572,
+      "num": 302324,
+      "word": "宣璐首部古偶女主剧",
+      "onboard_time": 1740543261,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 444767,
@@ -2747,6 +2771,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 397539,
+      "num": 482139,
+      "word": "法医秦明谈李威案受害者致死原因",
+      "onboard_time": 1740543621,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 396586,
       "num": 335156,
       "word": "肖战一上微博天塌了",
@@ -2788,7 +2820,7 @@
     },
     {
       "raw_hot": 391542,
-      "num": 391542,
+      "num": 475128,
       "word": "足金价格一夜下跌近10元",
       "onboard_time": 1740540198,
       "rank": 36,
@@ -3475,20 +3507,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 303421,
-      "num": 303421,
-      "word": "女生考研查分紧张手抖结果出人意料",
-      "onboard_time": 1740541399,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 302460,
       "num": 302460,
       "word": "林高远说我们下个赛场见",
       "onboard_time": 1740471861,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 302083,
+      "num": 302083,
+      "word": "光与夜之恋",
+      "onboard_time": 1740543380,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 301902,
@@ -3785,22 +3817,6 @@
       "onboard_time": 1740232045,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 278051,
-      "num": 278051,
-      "word": "光与夜之恋",
-      "onboard_time": 1740543380,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 277878,
-      "num": 277878,
-      "word": "宣璐首部古偶女主剧",
-      "onboard_time": 1740543261,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 277517,
@@ -4611,14 +4627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 222268,
-      "num": 277894,
-      "word": "法医秦明谈李威案受害者致死原因",
-      "onboard_time": 1740543621,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 221982,
       "num": 310364,
       "word": "女大学生打车18公里被收581元",
@@ -4665,6 +4673,14 @@
       "onboard_time": 1740456681,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 220430,
+      "num": 256066,
+      "word": "NBA",
+      "onboard_time": 1740543322,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 220352,
@@ -4963,6 +4979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 210702,
+      "num": 210702,
+      "word": "湖南被撞沉客船是村里主要交通工具",
+      "onboard_time": 1740542061,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 210187,
       "num": 210187,
       "word": "考研",
@@ -5195,6 +5219,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 202757,
+      "num": 202757,
+      "word": "男子带狗取快递受惊竟将猫打死",
+      "onboard_time": 1740544999,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 202488,
       "num": 202488,
       "word": "檀健次李兰迪cos许仙青蛇",
@@ -5395,14 +5427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195902,
-      "num": 195902,
-      "word": "湖南被撞沉客船是村里主要交通工具",
-      "onboard_time": 1740542061,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 195418,
       "num": 195418,
       "word": "肖战单手插兜打招呼",
@@ -5497,6 +5521,14 @@
       "onboard_time": 1740321143,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193594,
+      "num": 303963,
+      "word": "每天8杯水是多大杯子",
+      "onboard_time": 1740541279,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 193564,
@@ -5979,14 +6011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 182519,
-      "num": 303963,
-      "word": "每天8杯水是多大杯子",
-      "onboard_time": 1740541279,
-      "rank": 26,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 182471,
       "num": 182471,
       "word": "林一参加黄明昊签售会",
@@ -6057,6 +6081,14 @@
       "onboard_time": 1740259751,
       "rank": 48,
       "category": "民生新闻,电影"
+    },
+    {
+      "raw_hot": 180158,
+      "num": 180158,
+      "word": "白敬亭谈和章若楠合作感受",
+      "onboard_time": 1740544522,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 180080,
@@ -6177,14 +6209,6 @@
       "onboard_time": 1740392419,
       "rank": 39,
       "category": "教育"
-    },
-    {
-      "raw_hot": 177273,
-      "num": 177273,
-      "word": "NBA",
-      "onboard_time": 1740543322,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 177266,
@@ -6875,6 +6899,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 161665,
+      "num": 161665,
+      "word": "迪丽热巴开推埃及艳后造型",
+      "onboard_time": 1740544882,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161485,
       "num": 233707,
       "word": "刘宇宁荣获2024微博直播King",
@@ -7251,6 +7283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 152335,
+      "num": 247980,
+      "word": "法国退休医生25年间性侵299名患者",
+      "onboard_time": 1740543202,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 152025,
       "num": 152025,
       "word": "六姊妹母亲可以不完美",
@@ -7451,6 +7491,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 147988,
+      "num": 147988,
+      "word": "虞书欣片场跳了Jennie新歌",
+      "onboard_time": 1740531562,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147711,
       "num": 147711,
       "word": "年轻人为什么对大牌美妆祛魅了",
@@ -7609,6 +7657,14 @@
       "onboard_time": 1740406522,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 145269,
+      "num": 145269,
+      "word": "张元英好会拍",
+      "onboard_time": 1740543021,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 144967,
@@ -8027,14 +8083,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 132724,
-      "num": 132724,
-      "word": "张元英好会拍",
-      "onboard_time": 1740543021,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 132597,
       "num": 132597,
       "word": "滤镜编剧",
@@ -8323,12 +8371,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 123553,
-      "num": 247980,
-      "word": "法国退休医生25年间性侵299名患者",
-      "onboard_time": 1740543202,
-      "rank": 29,
-      "category": "海外新闻"
+      "raw_hot": 123539,
+      "num": 250682,
+      "word": "肖战辛纳握手",
+      "onboard_time": 1740544700,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 123111,
@@ -8345,6 +8393,14 @@
       "onboard_time": 1740292698,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122538,
+      "num": 299422,
+      "word": "王境泽想摆脱真香标签",
+      "onboard_time": 1740543080,
+      "rank": 19,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 122535,
@@ -8801,14 +8857,6 @@
       "onboard_time": 1740437834,
       "rank": 31,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 107709,
-      "num": 107709,
-      "word": "虞书欣片场跳了Jennie新歌",
-      "onboard_time": 1740531562,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 107509,
@@ -9739,6 +9787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63618,
+      "num": 305557,
+      "word": "智搜DS谈四六级对找工作的帮助大吗",
+      "onboard_time": 1740544282,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 63005,
       "num": 225521,
       "word": "四川一公司要求员工不入股就辞退",
@@ -9931,12 +9987,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 55544,
-      "num": 299422,
-      "word": "王境泽想摆脱真香标签",
-      "onboard_time": 1740543080,
-      "rank": 19,
-      "category": "网红,民生新闻"
+      "raw_hot": 55534,
+      "num": 176867,
+      "word": "吴希泽攻击严恒最薄弱的地方",
+      "onboard_time": 1740542721,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 54706,
@@ -10169,6 +10225,14 @@
       "onboard_time": 1740294138,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 48280,
+      "num": 725991,
+      "word": "我国测量水平进入国际第1梯队",
+      "onboard_time": 1740543981,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47663,
@@ -10707,6 +10771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27598,
+      "num": 210884,
+      "word": "坚持长期主义做困难而正确的事",
+      "onboard_time": 1740544941,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 27580,
       "num": 334506,
       "word": "哪吒版考研查分表情包",
@@ -10744,6 +10816,14 @@
       "word": "破解民营企业融资难各地有新招",
       "onboard_time": 1740231382,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25934,
+      "num": 307136,
+      "word": "建议将电信网络诈骗作为独立罪名",
+      "onboard_time": 1740544282,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -11457,14 +11537,6 @@
       "onboard_time": 1740248773,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 7672,
-      "num": 619286,
-      "word": "我国测量水平进入国际第1梯队",
-      "onboard_time": 1740543981,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 7500,
