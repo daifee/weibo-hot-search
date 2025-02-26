@@ -1,6 +1,6 @@
 {
   "startTime": 1740500996613,
-  "endTime": 1740540585425,
+  "endTime": 1740541487556,
   "band_list": [
     {
       "raw_hot": 1880791,
@@ -19,8 +19,16 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1583136,
+      "num": 518533,
+      "word": "警方回应猫尸体被塞课桌",
+      "onboard_time": 1740538458,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1334843,
-      "num": 458208,
+      "num": 517942,
       "word": "九旬老人离世后四亲属被烟闷身亡",
       "onboard_time": 1740495441,
       "rank": 10,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 1015204,
-      "num": 459788,
+      "num": 517555,
       "word": "素人时期的王安宇",
       "onboard_time": 1740529640,
       "rank": 10,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 1008524,
-      "num": 459367,
+      "num": 517364,
       "word": "02年男生苦追班主任终喜结连理",
       "onboard_time": 1740528440,
       "rank": 11,
@@ -89,14 +97,6 @@
       "onboard_time": 1740523634,
       "rank": 30,
       "category": "民生新闻,艺人"
-    },
-    {
-      "raw_hot": 924394,
-      "num": 461309,
-      "word": "警方回应猫尸体被塞课桌",
-      "onboard_time": 1740538458,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 897317,
@@ -139,12 +139,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 689990,
+      "num": 518371,
+      "word": "柳智敏短发",
+      "onboard_time": 1740540258,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 625541,
       "num": 625541,
       "word": "智利灾难紧急状态",
       "onboard_time": 1740531320,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 615033,
+      "num": 615033,
+      "word": "哪吒2冲全球票房第7",
+      "onboard_time": 1740539958,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 605922,
@@ -220,7 +236,7 @@
     },
     {
       "raw_hot": 472142,
-      "num": 472142,
+      "num": 519211,
       "word": "哪吒2票房破139亿",
       "onboard_time": 1740538638,
       "rank": 28,
@@ -233,6 +249,14 @@
       "onboard_time": 1740528500,
       "rank": 8,
       "category": "网红"
+    },
+    {
+      "raw_hot": 452953,
+      "num": 452953,
+      "word": "白宫称特朗普手背淤青因握手太多",
+      "onboard_time": 1740538339,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 419355,
@@ -257,6 +281,14 @@
       "onboard_time": 1740534798,
       "rank": 22,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 373898,
+      "num": 373898,
+      "word": "恋与深空",
+      "onboard_time": 1740539899,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 369000,
@@ -289,6 +321,14 @@
       "onboard_time": 1740522613,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 334393,
+      "num": 334393,
+      "word": "足金价格一夜下跌近10元",
+      "onboard_time": 1740540198,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 330572,
@@ -331,20 +371,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 305077,
+      "num": 305077,
+      "word": "孙颖莎挑战只会让我更强大",
+      "onboard_time": 1740540677,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 291159,
       "num": 263061,
       "word": "南师大环境学院官网崩了",
       "onboard_time": 1740484821,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 273093,
-      "num": 273093,
-      "word": "白宫称特朗普手背淤青因握手太多",
-      "onboard_time": 1740538339,
-      "rank": 42,
-      "category": "国际时政"
     },
     {
       "raw_hot": 270261,
@@ -379,6 +419,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 243738,
+      "num": 243738,
+      "word": "一家4人处理老人丧事后意外身亡",
+      "onboard_time": 1740537498,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 240927,
       "num": 240927,
       "word": "官方回应4人烧秸秆被烟闷身亡",
@@ -403,14 +451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 232777,
-      "num": 232777,
-      "word": "恋与深空",
-      "onboard_time": 1740539899,
-      "rank": 26,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 228814,
       "num": 228814,
       "word": "孙颖莎笑自有光",
@@ -427,12 +467,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 222545,
-      "num": 222545,
-      "word": "一家4人处理老人丧事后意外身亡",
-      "onboard_time": 1740537498,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 225987,
+      "num": 225987,
+      "word": "祁煜沉入无尽海",
+      "onboard_time": 1740540439,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 219541,
+      "num": 307861,
+      "word": "北上要上央一了",
+      "onboard_time": 1740538218,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 215065,
@@ -443,16 +491,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 213508,
-      "num": 213508,
-      "word": "柳智敏短发",
-      "onboard_time": 1740540258,
-      "rank": 30,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 213107,
-      "num": 213107,
+      "num": 304978,
       "word": "翟潇闻从内娱190的全世界路过",
       "onboard_time": 1740539660,
       "rank": 32,
@@ -467,14 +507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 207126,
-      "num": 207126,
-      "word": "北上要上央一了",
-      "onboard_time": 1740538218,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 206852,
       "num": 206852,
       "word": "香港偶遇李钟硕",
@@ -483,12 +515,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205376,
-      "num": 205376,
-      "word": "足金价格一夜下跌近10元",
-      "onboard_time": 1740540198,
-      "rank": 36,
-      "category": "财经"
+      "raw_hot": 206437,
+      "num": 206437,
+      "word": "全球热",
+      "onboard_time": 1740536418,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 202867,
@@ -521,14 +553,6 @@
       "onboard_time": 1740534618,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 198115,
-      "num": 198115,
-      "word": "全球热",
-      "onboard_time": 1740536418,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 190066,
@@ -571,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178229,
+      "num": 178229,
+      "word": "盒子里的猫",
+      "onboard_time": 1740536418,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177119,
       "num": 269492,
       "word": "王楚钦LV品牌大使",
@@ -585,6 +617,14 @@
       "onboard_time": 1740531979,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168637,
+      "num": 168637,
+      "word": "女生考研查分紧张手抖结果出人意料",
+      "onboard_time": 1740541399,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 167719,
@@ -627,14 +667,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 162909,
-      "num": 162909,
-      "word": "祁煜沉入无尽海",
-      "onboard_time": 1740540439,
-      "rank": 43,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 162051,
       "num": 162051,
       "word": "老人坐轮椅穿马路被货车推行几百米",
@@ -649,14 +681,6 @@
       "onboard_time": 1740495803,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 158919,
-      "num": 158919,
-      "word": "盒子里的猫",
-      "onboard_time": 1740536418,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 153774,
@@ -721,6 +745,14 @@
       "onboard_time": 1740533060,
       "rank": 35,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 140796,
+      "num": 140796,
+      "word": "国台办回应王大陆等人涉嫌逃兵役",
+      "onboard_time": 1740541460,
+      "rank": 48,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 140169,
@@ -931,14 +963,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 90900,
-      "num": 470888,
-      "word": "哪吒2冲全球票房第7",
-      "onboard_time": 1740539958,
-      "rank": 9,
-      "category": "电影"
-    },
-    {
       "raw_hot": 90636,
       "num": 90636,
       "word": "大衣哥回应正采访中翻墙走了",
@@ -1123,8 +1147,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42150,
+      "num": 303963,
+      "word": "每天8杯水是多大杯子",
+      "onboard_time": 1740541279,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 41592,
-      "num": 215286,
+      "num": 303026,
       "word": "为什么有时越玩手机越累",
       "onboard_time": 1740540319,
       "rank": 29,
@@ -1161,6 +1193,14 @@
       "onboard_time": 1740505453,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29390,
+      "num": 302507,
+      "word": "诺如病毒家庭预防提示",
+      "onboard_time": 1740540677,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 28099,
@@ -1227,6 +1267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20290,
+      "num": 303594,
+      "word": "洪都拉斯总统所乘直升机紧急降落",
+      "onboard_time": 1740541338,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 20207,
       "num": 30474,
       "word": "檀健次米兰行程",
@@ -1241,6 +1289,14 @@
       "onboard_time": 1740512651,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 19249,
+      "num": 345344,
+      "word": "乌媒称美欧就乌矿产资源展开争夺",
+      "onboard_time": 1740541100,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 19129,
