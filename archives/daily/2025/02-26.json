@@ -1,6 +1,6 @@
 {
   "startTime": 1740500996613,
-  "endTime": 1740561913486,
+  "endTime": 1740562724898,
   "band_list": [
     {
       "raw_hot": 2799685,
@@ -57,6 +57,14 @@
       "onboard_time": 1740550819,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1378107,
+      "num": 485347,
+      "word": "早就说了李承铉对戚薇是生理性喜欢",
+      "onboard_time": 1740560539,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1334843,
@@ -123,20 +131,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1081858,
+      "num": 1081858,
+      "word": "未来可能钱存越久利息越少",
+      "onboard_time": 1740557419,
+      "rank": 35,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 1057796,
       "num": 496894,
       "word": "监控还原猫咪尸体被放课桌事件",
       "onboard_time": 1740546139,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1027671,
-      "num": 1027671,
-      "word": "未来可能钱存越久利息越少",
-      "onboard_time": 1740557419,
-      "rank": 35,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 1016611,
@@ -195,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 983618,
+      "num": 983618,
+      "word": "郭富城妻子称在米兰被抢劫",
+      "onboard_time": 1740561319,
+      "rank": 25,
+      "category": "艺人,海外新闻"
+    },
+    {
       "raw_hot": 967229,
       "num": 831067,
       "word": "恋爱兄妹综艺",
@@ -233,14 +249,6 @@
       "onboard_time": 1740544282,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 839668,
-      "num": 485347,
-      "word": "早就说了李承铉对戚薇是生理性喜欢",
-      "onboard_time": 1740560539,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 800224,
@@ -587,6 +595,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 384021,
+      "num": 300707,
+      "word": "跳绳是最佳减肥塑身运动",
+      "onboard_time": 1740559579,
+      "rank": 21,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 380119,
       "num": 380119,
       "word": "全亚洲最大IMAXGT影厅因哪吒改命",
@@ -633,6 +649,14 @@
       "onboard_time": 1740522613,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 332584,
+      "num": 543396,
+      "word": "中国人民解放军退役誓词发布",
+      "onboard_time": 1740558259,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 332057,
@@ -731,20 +755,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 300402,
+      "num": 300402,
+      "word": "方媛的包被抢了",
+      "onboard_time": 1740561679,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 297915,
       "num": 297915,
       "word": "台媒曝Melody新恋情",
       "onboard_time": 1740543441,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 295165,
-      "num": 295165,
-      "word": "跳绳是最佳减肥塑身运动",
-      "onboard_time": 1740559579,
-      "rank": 21,
-      "category": "运动健身"
     },
     {
       "raw_hot": 291411,
@@ -763,8 +787,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 279813,
-      "num": 279813,
+      "raw_hot": 284843,
+      "num": 284843,
       "word": "恋与深空仍未回应秦彻爆率争议",
       "onboard_time": 1740557840,
       "rank": 25,
@@ -777,6 +801,14 @@
       "onboard_time": 1740554899,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 271430,
+      "num": 271430,
+      "word": "祝绪丹亲了王珞丹",
+      "onboard_time": 1740560479,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 270261,
@@ -827,28 +859,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 251335,
-      "num": 251335,
-      "word": "郭富城妻子称在米兰被抢劫",
-      "onboard_time": 1740561319,
-      "rank": 25,
-      "category": "艺人,海外新闻"
-    },
-    {
       "raw_hot": 249467,
       "num": 249467,
       "word": "湖南卫视连发11条虞书欣",
       "onboard_time": 1740546620,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 245768,
-      "num": 235393,
-      "word": "祝绪丹亲了王珞丹",
-      "onboard_time": 1740560479,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 243738,
@@ -955,6 +971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218669,
+      "num": 218669,
+      "word": "丁程鑫新伤和难哄好适配",
+      "onboard_time": 1740562399,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215065,
       "num": 215065,
       "word": "网友偶遇许凯坐地铁",
@@ -996,7 +1020,7 @@
     },
     {
       "raw_hot": 208733,
-      "num": 208733,
+      "num": 228334,
       "word": "公司要求抄佛经逼员工离职赔12万",
       "onboard_time": 1740560359,
       "rank": 31,
@@ -1195,22 +1219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 170095,
-      "num": 543396,
-      "word": "中国人民解放军退役誓词发布",
-      "onboard_time": 1740558259,
-      "rank": 49,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 169006,
-      "num": 169006,
-      "word": "方媛的包被抢了",
-      "onboard_time": 1740561679,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 168839,
       "num": 168839,
       "word": "大侦探",
@@ -1272,6 +1280,14 @@
       "word": "一集去八百次卫生间的女主",
       "onboard_time": 1740559159,
       "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 165674,
+      "num": 165674,
+      "word": "北上在现偶剧里夹缝生存",
+      "onboard_time": 1740561980,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -1401,6 +1417,14 @@
       "onboard_time": 1740529940,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 152345,
+      "num": 418080,
+      "word": "古法黄金比普通金饰更保值吗",
+      "onboard_time": 1740547340,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 152335,
@@ -1675,6 +1699,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 122673,
+      "num": 122673,
+      "word": "癫到连主演都在惊叹的剧",
+      "onboard_time": 1740560840,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122538,
       "num": 299422,
       "word": "王境泽想摆脱真香标签",
@@ -1747,14 +1779,6 @@
       "category": "财经,汽车"
     },
     {
-      "raw_hot": 113822,
-      "num": 113822,
-      "word": "癫到连主演都在惊叹的剧",
-      "onboard_time": 1740560840,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 113326,
       "num": 113326,
       "word": "倩碧 马柏全",
@@ -1785,6 +1809,14 @@
       "onboard_time": 1740555319,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111296,
+      "num": 302912,
+      "word": "女子给大学老师打工被拖欠8万工资",
+      "onboard_time": 1740561918,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110598,
@@ -1833,14 +1865,6 @@
       "onboard_time": 1740532879,
       "rank": 45,
       "category": "军事"
-    },
-    {
-      "raw_hot": 105330,
-      "num": 418080,
-      "word": "古法黄金比普通金饰更保值吗",
-      "onboard_time": 1740547340,
-      "rank": 14,
-      "category": "财经"
     },
     {
       "raw_hot": 105276,
@@ -1961,6 +1985,14 @@
       "onboard_time": 1740497000,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92445,
+      "num": 116749,
+      "word": "青海湖边的小村庄居然也包邮",
+      "onboard_time": 1740562578,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90636,
@@ -2123,6 +2155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 67525,
+      "num": 199857,
+      "word": "台湾旅行社推出哪吒之旅",
+      "onboard_time": 1740558619,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 65508,
       "num": 265275,
       "word": "苏醒在现场跟扣篮的欧文合影了",
@@ -2281,6 +2321,14 @@
       "onboard_time": 1740550518,
       "rank": 18,
       "category": "教育"
+    },
+    {
+      "raw_hot": 35729,
+      "num": 993062,
+      "word": "2024我国民营经济外贸领域再创佳绩",
+      "onboard_time": 1740561739,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35051,
@@ -2499,6 +2547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 18853,
+      "num": 303497,
+      "word": "按摩时真的要避开脖子",
+      "onboard_time": 1740562038,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 17198,
       "num": 18907,
       "word": "丁程鑫新伤破壳大片",
@@ -2529,6 +2585,14 @@
       "onboard_time": 1740509052,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 13552,
+      "num": 301575,
+      "word": "RIIZE今生注定是沧桑",
+      "onboard_time": 1740562458,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 12443,
@@ -2611,12 +2675,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 5896,
-      "num": 989549,
-      "word": "2024我国民营经济外贸领域再创佳绩",
-      "onboard_time": 1740561739,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 7721,
+      "num": 104644,
+      "word": "圣枪哥我们一起去就是最好的",
+      "onboard_time": 1740562158,
+      "rank": 48,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [
