@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/02/27 00:30:02 ~ 2025/02/27 03:19:12
+本榜单时间：2025/02/27 00:30:02 ~ 2025/02/27 03:36:07
 </p>
 </blockquote>
 <p>
@@ -327,14 +327,14 @@ TES战胜BLG（热度：97389）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%A5%BD%E5%B8%85%23" target="weibo">
-张凌赫好帅（热度：45534）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E8%80%81%E5%B8%88%E8%AF%B4AI%E4%BD%9C%E6%96%87%E5%85%A8%E5%88%A40%E5%88%86%23" target="weibo">
+大学老师说AI作文全判0分（热度：45678）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E8%80%81%E5%B8%88%E8%AF%B4AI%E4%BD%9C%E6%96%87%E5%85%A8%E5%88%A40%E5%88%86%23" target="weibo">
-大学老师说AI作文全判0分（热度：40298）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%A5%BD%E5%B8%85%23" target="weibo">
+张凌赫好帅（热度：45534）
 </a>
 </li>
 
@@ -419,6 +419,12 @@ Bin群访（热度：20743）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%80%95%E5%86%9C%E5%BF%99%E6%AD%A3%E5%BD%93%E6%97%B6%23" target="weibo">
 春耕农忙正当时（热度：13406）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E4%BD%A0%E7%94%B7%E4%B8%BB%E6%9A%A7%E6%98%A7%E5%A4%B1%E6%81%8B%E5%85%A8%E9%9D%A0%E8%84%91%E8%A1%A5%23" target="weibo">
+爱你男主暧昧失恋全靠脑补（热度：12934）
 </a>
 </li>
 

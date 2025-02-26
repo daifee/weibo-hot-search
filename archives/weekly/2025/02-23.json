@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740597552644,
+  "endTime": 1740598567029,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -12483,6 +12483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 45678,
+      "num": 45678,
+      "word": "大学老师说AI作文全判0分",
+      "onboard_time": 1740593414,
+      "rank": 29,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 44905,
       "num": 207690,
       "word": "男子一个飞扑救起落水男孩",
@@ -12633,14 +12641,6 @@
       "onboard_time": 1740370101,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 40298,
-      "num": 40298,
-      "word": "大学老师说AI作文全判0分",
-      "onboard_time": 1740593414,
-      "rank": 29,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 39586,
@@ -13761,6 +13761,14 @@
       "onboard_time": 1740575240,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12934,
+      "num": 14695,
+      "word": "爱你男主暧昧失恋全靠脑补",
+      "onboard_time": 1740597911,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 12759,

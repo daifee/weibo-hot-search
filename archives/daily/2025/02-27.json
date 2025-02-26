@@ -1,6 +1,6 @@
 {
   "startTime": 1740587402639,
-  "endTime": 1740597552644,
+  "endTime": 1740598567029,
   "band_list": [
     {
       "raw_hot": 1135494,
@@ -419,20 +419,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 45678,
+      "num": 45678,
+      "word": "大学老师说AI作文全判0分",
+      "onboard_time": 1740593414,
+      "rank": 29,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 45534,
       "num": 45534,
       "word": "张凌赫好帅",
       "onboard_time": 1740582319,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 40298,
-      "num": 40298,
-      "word": "大学老师说AI作文全判0分",
-      "onboard_time": 1740593414,
-      "rank": 29,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 33446,
@@ -545,6 +545,14 @@
       "onboard_time": 1740575240,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12934,
+      "num": 14695,
+      "word": "爱你男主暧昧失恋全靠脑补",
+      "onboard_time": 1740597911,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 7353,
