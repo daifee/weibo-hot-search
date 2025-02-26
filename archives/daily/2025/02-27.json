@@ -1,6 +1,6 @@
 {
   "startTime": 1740587402639,
-  "endTime": 1740609584885,
+  "endTime": 1740612196434,
   "band_list": [
     {
       "raw_hot": 1135494,
@@ -44,11 +44,19 @@
     },
     {
       "raw_hot": 577214,
-      "num": 577214,
+      "num": 783839,
       "word": "中国男子在韩国交易加密货币被劫杀",
       "onboard_time": 1740581839,
       "rank": 1,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 453750,
+      "num": 453750,
+      "word": "六姊妹 辣目洋子",
+      "onboard_time": 1740581001,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 387631,
@@ -75,6 +83,14 @@
       "category": "艺人,海外新闻"
     },
     {
+      "raw_hot": 312266,
+      "num": 312266,
+      "word": "大学老师说AI作文全判0分",
+      "onboard_time": 1740593414,
+      "rank": 29,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 283373,
       "num": 198779,
       "word": "2025年的汤唯",
@@ -91,12 +107,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 255742,
-      "num": 211361,
-      "word": "六姊妹 辣目洋子",
-      "onboard_time": 1740581001,
-      "rank": 7,
-      "category": "剧集"
+      "raw_hot": 233870,
+      "num": 233870,
+      "word": "女子辱骂冲撞交警被刑拘",
+      "onboard_time": 1740606612,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 227014,
@@ -123,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217883,
+      "num": 217883,
+      "word": "存款利息低DeepSeek建议钱往哪里放",
+      "onboard_time": 1740573619,
+      "rank": 44,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 204873,
       "num": 204873,
       "word": "肖指导打了7针封闭",
@@ -145,6 +169,14 @@
       "onboard_time": 1740571099,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 180254,
+      "num": 180254,
+      "word": "女生遭性侵溺亡案检方将抗诉",
+      "onboard_time": 1740582800,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179787,
@@ -179,20 +211,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160065,
+      "num": 160065,
+      "word": "外媒曝美欲将加拿大逐出五眼联盟",
+      "onboard_time": 1740582500,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 155711,
+      "num": 148435,
+      "word": "前男友用牙签抠走女子存钱罐3000多元",
+      "onboard_time": 1740565760,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154506,
+      "num": 169953,
+      "word": "100天后高考",
+      "onboard_time": 1740591015,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 150372,
       "num": 150372,
       "word": "郭涛儿子石头18岁近照",
       "onboard_time": 1740575480,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 148435,
-      "num": 148435,
-      "word": "前男友用牙签抠走女子存钱罐3000多元",
-      "onboard_time": 1740565760,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 145639,
@@ -209,14 +257,6 @@
       "onboard_time": 1740578420,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 135463,
-      "num": 135463,
-      "word": "大学老师说AI作文全判0分",
-      "onboard_time": 1740593414,
-      "rank": 29,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 130226,
@@ -257,6 +297,14 @@
       "onboard_time": 1740588854,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109648,
+      "num": 109648,
+      "word": "韩国中小学将迎规模最大关停潮",
+      "onboard_time": 1740596113,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 108113,
@@ -307,12 +355,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 100101,
-      "num": 100101,
-      "word": "存款利息低DeepSeek建议钱往哪里放",
-      "onboard_time": 1740573619,
-      "rank": 44,
-      "category": "互联网,财经"
+      "raw_hot": 97597,
+      "num": 67916,
+      "word": "梧桐妹怼继父修杰楷",
+      "onboard_time": 1740612015,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 97389,
@@ -339,19 +387,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 95139,
-      "num": 102822,
-      "word": "女生遭性侵溺亡案检方将抗诉",
-      "onboard_time": 1740582800,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 92120,
-      "num": 92120,
-      "word": "外媒曝美欲将加拿大逐出五眼联盟",
-      "onboard_time": 1740582500,
-      "rank": 48,
+      "raw_hot": 96115,
+      "num": 86107,
+      "word": "乌克兰和美国已定矿产协议最终版本",
+      "onboard_time": 1740570439,
+      "rank": 44,
       "category": "国际时政"
     },
     {
@@ -371,20 +411,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 74536,
-      "num": 74536,
-      "word": "女子辱骂冲撞交警被刑拘",
-      "onboard_time": 1740606612,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 66791,
-      "num": 66791,
-      "word": "乌克兰和美国已定矿产协议最终版本",
-      "onboard_time": 1740570439,
-      "rank": 44,
-      "category": "国际时政"
+      "raw_hot": 79021,
+      "num": 79021,
+      "word": "博主回应报考北大研究生笔试412",
+      "onboard_time": 1740572360,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 65458,
@@ -411,12 +443,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 56803,
+      "num": 56803,
+      "word": "爱你 紫苏叶包烤肉",
+      "onboard_time": 1740609133,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 55214,
       "num": 163885,
       "word": "特朗普称有必要在乌部署维和部队",
       "onboard_time": 1740586458,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 54865,
+      "num": 54865,
+      "word": "翟潇闻说告白戏床塌了后全现挂",
+      "onboard_time": 1740611055,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 50270,
+      "num": 50270,
+      "word": "英伟达第四财季净利润大增80%",
+      "onboard_time": 1740611836,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 48227,
@@ -443,20 +499,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 41742,
-      "num": 41742,
-      "word": "博主回应报考北大研究生笔试412",
-      "onboard_time": 1740572360,
-      "rank": 48,
-      "category": "教育"
+      "raw_hot": 41073,
+      "num": 41073,
+      "word": "社恐小老虎与游客互动紧抱管理员",
+      "onboard_time": 1740608832,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 37306,
-      "num": 37306,
-      "word": "韩国中小学将迎规模最大关停潮",
-      "onboard_time": 1740596113,
-      "rank": 44,
-      "category": "海外新闻"
+      "raw_hot": 39701,
+      "num": 39701,
+      "word": "当我不小心在墙上多打了两个洞",
+      "onboard_time": 1740609313,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 34908,
+      "num": 81693,
+      "word": "大罗不同意C罗是历史最佳",
+      "onboard_time": 1740611836,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 33446,
@@ -465,6 +529,14 @@
       "onboard_time": 1740591015,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 32666,
+      "num": 350161,
+      "word": "春耕农忙正当时",
+      "onboard_time": 1740575240,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27070,
@@ -481,14 +553,6 @@
       "onboard_time": 1740575841,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25065,
-      "num": 25065,
-      "word": "100天后高考",
-      "onboard_time": 1740591015,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 24035,
@@ -539,14 +603,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 19531,
-      "num": 184643,
-      "word": "春耕农忙正当时",
-      "onboard_time": 1740575240,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 19517,
       "num": 105155,
       "word": "海浪卷起千堆雪的一瞬定格文物上",
@@ -555,28 +611,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18170,
-      "num": 21870,
-      "word": "爱你 紫苏叶包烤肉",
-      "onboard_time": 1740609133,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 16426,
       "num": 49929,
       "word": "2025全国盼春地图",
       "onboard_time": 1740588854,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15894,
-      "num": 21853,
-      "word": "当我不小心在墙上多打了两个洞",
-      "onboard_time": 1740609313,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 14662,
