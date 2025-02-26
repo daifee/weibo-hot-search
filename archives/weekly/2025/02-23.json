@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740559406003,
+  "endTime": 1740561913486,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 2799685,
-      "num": 498395,
+      "num": 511273,
       "word": "男友去世女子想生遗腹子被公婆劝阻",
       "onboard_time": 1740547998,
       "rank": 22,
@@ -819,6 +819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1027671,
+      "num": 1027671,
+      "word": "未来可能钱存越久利息越少",
+      "onboard_time": 1740557419,
+      "rank": 35,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 1027060,
       "num": 1027060,
       "word": "白敬亭被网友截图气笑了",
@@ -928,6 +936,14 @@
       "word": "迪丽热巴我觉得有点尴尬",
       "onboard_time": 1740373941,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 987234,
+      "num": 987234,
+      "word": "创124青123打起来了",
+      "onboard_time": 1740556399,
+      "rank": 5,
       "category": "综艺"
     },
     {
@@ -1131,14 +1147,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 883935,
-      "num": 883935,
-      "word": "创124青123打起来了",
-      "onboard_time": 1740556399,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 861212,
       "num": 861212,
       "word": "马航MH370新一轮搜索重启",
@@ -1192,6 +1200,14 @@
       "word": "香港偶遇李钟硕",
       "onboard_time": 1740491001,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 839668,
+      "num": 485347,
+      "word": "早就说了李承铉对戚薇是生理性喜欢",
+      "onboard_time": 1740560539,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -1307,6 +1323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 794015,
+      "num": 731985,
+      "word": "认亲16年发现是假爹男子将起诉养父",
+      "onboard_time": 1740557240,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 793102,
       "num": 793102,
       "word": "湖南师范大学",
@@ -1377,6 +1401,14 @@
       "onboard_time": 1740286880,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 756651,
+      "num": 756651,
+      "word": "男童走失用银行ATM自救",
+      "onboard_time": 1740558499,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 754526,
@@ -1457,14 +1489,6 @@
       "onboard_time": 1740396500,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 731985,
-      "num": 731985,
-      "word": "认亲16年发现是假爹男子将起诉养父",
-      "onboard_time": 1740557240,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 727774,
@@ -1921,6 +1945,14 @@
       "onboard_time": 1740452899,
       "rank": 7,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 611238,
+      "num": 611238,
+      "word": "肖战billkin金硕珍G社生图",
+      "onboard_time": 1740555919,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 605922,
@@ -2963,14 +2995,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 397504,
-      "num": 447447,
-      "word": "肖战billkin金硕珍G社生图",
-      "onboard_time": 1740555919,
-      "rank": 16,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 397086,
       "num": 397086,
       "word": "教育局回应让学生签上晚自习申请书",
@@ -3555,6 +3579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 322242,
+      "num": 322242,
+      "word": "男子钓鱼剖开鱼肚发现17个假饵",
+      "onboard_time": 1740558199,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 320356,
       "num": 671514,
       "word": "降分",
@@ -3577,14 +3609,6 @@
       "onboard_time": 1740548119,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 318722,
-      "num": 318722,
-      "word": "男子钓鱼剖开鱼肚发现17个假饵",
-      "onboard_time": 1740558199,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 318244,
@@ -3817,6 +3841,14 @@
       "onboard_time": 1740461781,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 295165,
+      "num": 295165,
+      "word": "跳绳是最佳减肥塑身运动",
+      "onboard_time": 1740559579,
+      "rank": 21,
+      "category": "运动健身"
     },
     {
       "raw_hot": 293146,
@@ -4363,6 +4395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 251335,
+      "num": 251335,
+      "word": "郭富城妻子称在米兰被抢劫",
+      "onboard_time": 1740561319,
+      "rank": 25,
+      "category": "艺人,海外新闻"
+    },
+    {
       "raw_hot": 250496,
       "num": 250496,
       "word": "王曼昱使用樊A",
@@ -4441,6 +4481,14 @@
       "onboard_time": 1740324921,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 245768,
+      "num": 235393,
+      "word": "祝绪丹亲了王珞丹",
+      "onboard_time": 1740560479,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 244559,
@@ -4771,14 +4819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 229499,
-      "num": 277097,
-      "word": "未来可能钱存越久利息越少",
-      "onboard_time": 1740557419,
-      "rank": 35,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 229363,
       "num": 229363,
       "word": "戚薇李承铉到底有多少情侣装",
@@ -5107,14 +5147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 217418,
-      "num": 217418,
-      "word": "男童走失用银行ATM自救",
-      "onboard_time": 1740558499,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 217061,
       "num": 262273,
       "word": "感觉在职考公比在家考公更划算",
@@ -5353,6 +5385,14 @@
       "onboard_time": 1740445520,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 208733,
+      "num": 208733,
+      "word": "公司要求抄佛经逼员工离职赔12万",
+      "onboard_time": 1740560359,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 208231,
@@ -6851,6 +6891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170095,
+      "num": 543396,
+      "word": "中国人民解放军退役誓词发布",
+      "onboard_time": 1740558259,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 170023,
       "num": 244149,
       "word": "翟潇闻说最近老有人想掰我牙",
@@ -6929,6 +6977,14 @@
       "onboard_time": 1740488302,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169006,
+      "num": 169006,
+      "word": "方媛的包被抢了",
+      "onboard_time": 1740561679,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 168866,
@@ -7185,6 +7241,14 @@
       "onboard_time": 1740472761,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 165680,
+      "num": 121889,
+      "word": "一集去八百次卫生间的女主",
+      "onboard_time": 1740559159,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 165409,
@@ -8075,14 +8139,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 147071,
-      "num": 147071,
-      "word": "中国人民解放军退役誓词发布",
-      "onboard_time": 1740558259,
-      "rank": 49,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 146904,
       "num": 146904,
       "word": "他是怎么做到小小年纪就一把年纪的",
@@ -8899,6 +8955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 125666,
+      "num": 308183,
+      "word": "张宥浩不语只一味追星合影",
+      "onboard_time": 1740561260,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125558,
       "num": 261326,
       "word": "特朗普有信心本周完成谈判",
@@ -9059,14 +9123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121889,
-      "num": 121889,
-      "word": "一集去八百次卫生间的女主",
-      "onboard_time": 1740559159,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 121773,
       "num": 121773,
       "word": "黄明昊杨超越双人舞",
@@ -9179,6 +9235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117868,
+      "num": 117868,
+      "word": "檀健次两个角色获奖",
+      "onboard_time": 1740561619,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117457,
       "num": 187739,
       "word": "BLG战胜TT",
@@ -9209,6 +9273,14 @@
       "onboard_time": 1740549680,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 116301,
+      "num": 116301,
+      "word": "俄多地遭大规模无人机袭击",
+      "onboard_time": 1740559398,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 116077,
@@ -9283,6 +9355,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 113822,
+      "num": 113822,
+      "word": "癫到连主演都在惊叹的剧",
+      "onboard_time": 1740560840,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113803,
       "num": 113803,
       "word": "糖艺师用白砂糖做了一只鸭翅",
@@ -9297,6 +9377,14 @@
       "onboard_time": 1740384742,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113326,
+      "num": 113326,
+      "word": "倩碧 马柏全",
+      "onboard_time": 1740555797,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 113105,
@@ -9483,6 +9571,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 109431,
+      "num": 109431,
+      "word": "A股超4200股上涨",
+      "onboard_time": 1740560599,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 109099,
       "num": 433628,
       "word": "国能置业再回应拟录用名单质疑",
@@ -9561,6 +9657,14 @@
       "onboard_time": 1740532879,
       "rank": 45,
       "category": "军事"
+    },
+    {
+      "raw_hot": 105330,
+      "num": 418080,
+      "word": "古法黄金比普通金饰更保值吗",
+      "onboard_time": 1740547340,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 105276,
@@ -9705,6 +9809,14 @@
       "onboard_time": 1740474501,
       "rank": 19,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 99346,
+      "num": 99346,
+      "word": "猫咪睡觉时的警觉性为0",
+      "onboard_time": 1740561800,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 99310,
@@ -12433,6 +12545,14 @@
       "onboard_time": 1740254831,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 5896,
+      "num": 989549,
+      "word": "2024我国民营经济外贸领域再创佳绩",
+      "onboard_time": 1740561739,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 5839,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1740561913486,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1215191,
+        "num": 1215191,
+        "word": "禁止电竞选手2月23号洗澡",
+        "onboard_time": 1740554719,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1027671,
+        "num": 1027671,
+        "word": "未来可能钱存越久利息越少",
+        "onboard_time": 1740557419,
+        "rank": 1,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 5896,
+        "num": 989549,
+        "word": "2024我国民营经济外贸领域再创佳绩",
+        "onboard_time": 1740561739,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 987234,
+        "num": 987234,
+        "word": "创124青123打起来了",
+        "onboard_time": 1740556399,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 756651,
+        "num": 756651,
+        "word": "男童走失用银行ATM自救",
+        "onboard_time": 1740558499,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 615574,
+        "num": 615574,
+        "word": "哪吒2冲全球票房第7",
+        "onboard_time": 1740539958,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 611238,
+        "num": 611238,
+        "word": "肖战billkin金硕珍G社生图",
+        "onboard_time": 1740555919,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 586362,
+        "num": 586362,
+        "word": "考了这些证书的可享个税扣除",
+        "onboard_time": 1740554178,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 554067,
+        "num": 554067,
+        "word": "孙杨说禁赛时只能从足浴店找按摩师",
+        "onboard_time": 1740550819,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170095,
+        "num": 543396,
+        "word": "中国人民解放军退役誓词发布",
+        "onboard_time": 1740558259,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1042129,
+        "num": 511273,
+        "word": "男友去世女子想生遗腹子被公婆劝阻",
+        "onboard_time": 1740547998,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 839668,
+        "num": 485347,
+        "word": "早就说了李承铉对戚薇是生理性喜欢",
+        "onboard_time": 1740560539,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 794015,
+        "num": 458420,
+        "word": "认亲16年发现是假爹男子将起诉养父",
+        "onboard_time": 1740557240,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 455453,
+        "num": 455453,
+        "word": "于正恭喜白鹿北上央一播出",
+        "onboard_time": 1740552499,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105330,
+        "num": 418080,
+        "word": "古法黄金比普通金饰更保值吗",
+        "onboard_time": 1740547340,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 408606,
+        "num": 408606,
+        "word": "国外一航班上夫妻俩被迫与遗体同飞",
+        "onboard_time": 1740556878,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 307033,
+        "num": 404053,
+        "word": "饶雪漫说苏有朋不用整过容的演员",
+        "onboard_time": 1740548419,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 403782,
+        "num": 403782,
+        "word": "监控还原猫咪尸体被放课桌事件",
+        "onboard_time": 1740546139,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322242,
+        "num": 322242,
+        "word": "男子钓鱼剖开鱼肚发现17个假饵",
+        "onboard_time": 1740558199,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125666,
+        "num": 308183,
+        "word": "张宥浩不语只一味追星合影",
+        "onboard_time": 1740561260,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302167,
+        "num": 302167,
+        "word": "网恋2个月后发现女友是AI",
+        "onboard_time": 1740547700,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295165,
+        "num": 295165,
+        "word": "跳绳是最佳减肥塑身运动",
+        "onboard_time": 1740559579,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 269918,
+        "num": 269918,
+        "word": "面汤呛妻案丈夫称施暴是为了吓妻子",
+        "onboard_time": 1740553458,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257846,
+        "num": 257846,
+        "word": "恋与深空仍未回应秦彻爆率争议",
+        "onboard_time": 1740557840,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 252509,
+        "num": 252509,
+        "word": "张继科祝贺王曼昱夺冠",
+        "onboard_time": 1740556759,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251335,
+        "num": 251335,
+        "word": "郭富城妻子称在米兰被抢劫",
+        "onboard_time": 1740561319,
+        "rank": 25,
+        "category": "艺人,海外新闻"
+      },
+      {
+        "raw_hot": 237143,
+        "num": 237143,
+        "word": "章昊因为我是中国人啊",
+        "onboard_time": 1740554239,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245768,
+        "num": 235393,
+        "word": "祝绪丹亲了王珞丹",
+        "onboard_time": 1740560479,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219330,
+        "num": 219330,
+        "word": "宣璐首部古偶女主剧",
+        "onboard_time": 1740543261,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210120,
+        "num": 210120,
+        "word": "真人版豆包",
+        "onboard_time": 1740553580,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26322,
+        "num": 209305,
+        "word": "33希望新赛季像狮子一样",
+        "onboard_time": 1740552619,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 208733,
+        "num": 208733,
+        "word": "公司要求抄佛经逼员工离职赔12万",
+        "onboard_time": 1740560359,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204067,
+        "num": 204067,
+        "word": "徐志胜蛐蛐黄磊被当场逮住",
+        "onboard_time": 1740548119,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174800,
+        "num": 174800,
+        "word": "迪丽热巴开推埃及艳后造型",
+        "onboard_time": 1740544882,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169006,
+        "num": 169006,
+        "word": "方媛的包被抢了",
+        "onboard_time": 1740561679,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26201,
+        "num": 159759,
+        "word": "我国研制出船舶心脏中的巨无霸",
+        "onboard_time": 1740515780,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159238,
+        "num": 159238,
+        "word": "难哄16集好暧昧",
+        "onboard_time": 1740554239,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136405,
+        "num": 136405,
+        "word": "王者荣耀",
+        "onboard_time": 1740555379,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134264,
+        "num": 134264,
+        "word": "985女生5年十战六级终上岸",
+        "onboard_time": 1740549919,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 131449,
+        "num": 131449,
+        "word": "白鹿欧豪平番",
+        "onboard_time": 1740554899,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125607,
+        "num": 125607,
+        "word": "Melody方回应新恋情",
+        "onboard_time": 1740542301,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117868,
+        "num": 117868,
+        "word": "檀健次两个角色获奖",
+        "onboard_time": 1740561619,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165680,
+        "num": 117766,
+        "word": "一集去八百次卫生间的女主",
+        "onboard_time": 1740559159,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116301,
+        "num": 116301,
+        "word": "俄多地遭大规模无人机袭击",
+        "onboard_time": 1740559398,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113822,
+        "num": 113822,
+        "word": "癫到连主演都在惊叹的剧",
+        "onboard_time": 1740560840,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113474,
+        "num": 113474,
+        "word": "weeekly解散",
+        "onboard_time": 1740557539,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113326,
+        "num": 113326,
+        "word": "倩碧 马柏全",
+        "onboard_time": 1740555797,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113026,
+        "num": 113026,
+        "word": "港股彻底大爆发",
+        "onboard_time": 1740556338,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 109431,
+        "num": 109431,
+        "word": "A股超4200股上涨",
+        "onboard_time": 1740560599,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 99346,
+        "num": 99346,
+        "word": "猫咪睡觉时的警觉性为0",
+        "onboard_time": 1740561800,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#更好发挥县城连接城市带动乡村作用#"
+    }
+  }
+}
