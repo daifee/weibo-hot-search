@@ -1,6 +1,6 @@
 {
   "startTime": 1740500996613,
-  "endTime": 1740541487556,
+  "endTime": 1740544121662,
   "band_list": [
     {
       "raw_hot": 1880791,
@@ -25,6 +25,14 @@
       "onboard_time": 1740538458,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1520634,
+      "num": 1520634,
+      "word": "哪吒2冲全球票房第7",
+      "onboard_time": 1740539958,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 1334843,
@@ -57,6 +65,14 @@
       "onboard_time": 1740499758,
       "rank": 0,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 1107173,
+      "num": 299155,
+      "word": "保安上班迟到30分钟被同事3枪毙命",
+      "onboard_time": 1740541999,
+      "rank": 20,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1103594,
@@ -99,12 +115,28 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 902743,
+      "num": 902743,
+      "word": "国台办回应王大陆等人涉嫌逃兵役",
+      "onboard_time": 1740541460,
+      "rank": 48,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 897317,
       "num": 897317,
       "word": "司藤原班人马 龙骨焚箱",
       "onboard_time": 1740494484,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 754526,
+      "num": 518371,
+      "word": "柳智敏短发",
+      "onboard_time": 1740540258,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 749021,
@@ -139,12 +171,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 689990,
-      "num": 518371,
-      "word": "柳智敏短发",
-      "onboard_time": 1740540258,
-      "rank": 30,
-      "category": "作品衍生,时尚"
+      "raw_hot": 680373,
+      "num": 302391,
+      "word": "Melody方回应新恋情",
+      "onboard_time": 1740542301,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 625541,
@@ -153,14 +185,6 @@
       "onboard_time": 1740531320,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 615033,
-      "num": 615033,
-      "word": "哪吒2冲全球票房第7",
-      "onboard_time": 1740539958,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 605922,
@@ -243,6 +267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 466713,
+      "num": 300570,
+      "word": "孙俪婴儿时期旧照",
+      "onboard_time": 1740542361,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 460322,
       "num": 460322,
       "word": "青海摇网红阿浩患肝癌离世",
@@ -267,6 +299,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 412148,
+      "num": 412148,
+      "word": "陈梦去盒子里的猫了",
+      "onboard_time": 1740542781,
+      "rank": 5,
+      "category": "体育,综艺"
+    },
+    {
       "raw_hot": 411356,
       "num": 411356,
       "word": "种地吧第三季定档",
@@ -281,6 +321,14 @@
       "onboard_time": 1740534798,
       "rank": 22,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 391542,
+      "num": 391542,
+      "word": "足金价格一夜下跌近10元",
+      "onboard_time": 1740540198,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 373898,
@@ -321,14 +369,6 @@
       "onboard_time": 1740522613,
       "rank": 5,
       "category": "教育"
-    },
-    {
-      "raw_hot": 334393,
-      "num": 334393,
-      "word": "足金价格一夜下跌近10元",
-      "onboard_time": 1740540198,
-      "rank": 36,
-      "category": "财经"
     },
     {
       "raw_hot": 330572,
@@ -379,12 +419,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 303421,
+      "num": 303421,
+      "word": "女生考研查分紧张手抖结果出人意料",
+      "onboard_time": 1740541399,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 297915,
+      "num": 297915,
+      "word": "台媒曝Melody新恋情",
+      "onboard_time": 1740543441,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 291159,
       "num": 263061,
       "word": "南师大环境学院官网崩了",
       "onboard_time": 1740484821,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 278051,
+      "num": 278051,
+      "word": "光与夜之恋",
+      "onboard_time": 1740543380,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 277878,
+      "num": 277878,
+      "word": "宣璐首部古偶女主剧",
+      "onboard_time": 1740543261,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 270261,
@@ -417,6 +489,14 @@
       "onboard_time": 1740501855,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 252954,
+      "num": 301678,
+      "word": "电影天堂旅行团首支长预告",
+      "onboard_time": 1740543202,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 243738,
@@ -473,6 +553,14 @@
       "onboard_time": 1740540439,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 222268,
+      "num": 277894,
+      "word": "法医秦明谈李威案受害者致死原因",
+      "onboard_time": 1740543621,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 219541,
@@ -555,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195902,
+      "num": 195902,
+      "word": "湖南被撞沉客船是村里主要交通工具",
+      "onboard_time": 1740542061,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190066,
       "num": 198317,
       "word": "四级",
@@ -587,6 +683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182519,
+      "num": 303963,
+      "word": "每天8杯水是多大杯子",
+      "onboard_time": 1740541279,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 179068,
       "num": 179068,
       "word": "白鹿北上短发海报",
@@ -603,6 +707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177273,
+      "num": 177273,
+      "word": "NBA",
+      "onboard_time": 1740543322,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177119,
       "num": 269492,
       "word": "王楚钦LV品牌大使",
@@ -617,14 +729,6 @@
       "onboard_time": 1740531979,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 168637,
-      "num": 168637,
-      "word": "女生考研查分紧张手抖结果出人意料",
-      "onboard_time": 1740541399,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 167719,
@@ -681,6 +785,14 @@
       "onboard_time": 1740495803,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155204,
+      "num": 155204,
+      "word": "肖战手持花束",
+      "onboard_time": 1740542660,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 153774,
@@ -747,14 +859,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 140796,
-      "num": 140796,
-      "word": "国台办回应王大陆等人涉嫌逃兵役",
-      "onboard_time": 1740541460,
-      "rank": 48,
-      "category": "民生新闻,艺人"
-    },
-    {
       "raw_hot": 140169,
       "num": 172799,
       "word": "乌克兰议会通过禁止战时选举议案",
@@ -784,6 +888,14 @@
       "word": "权志龙ins更新",
       "onboard_time": 1740532639,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 132724,
+      "num": 132724,
+      "word": "张元英好会拍",
+      "onboard_time": 1740543021,
+      "rank": 44,
       "category": "艺人"
     },
     {
@@ -825,6 +937,22 @@
       "onboard_time": 1740500297,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 123553,
+      "num": 247980,
+      "word": "法国退休医生25年间性侵299名患者",
+      "onboard_time": 1740543202,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 122535,
+      "num": 345344,
+      "word": "乌媒称美欧就乌矿产资源展开争夺",
+      "onboard_time": 1740541100,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 121434,
@@ -955,6 +1083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96288,
+      "num": 112688,
+      "word": "欧文思念科比Gigi",
+      "onboard_time": 1740541579,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92504,
       "num": 92504,
       "word": "爱你热度",
@@ -1027,6 +1163,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 78804,
+      "num": 252593,
+      "word": "爱奇艺客服回应爱你第1集锁V",
+      "onboard_time": 1740542539,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 78462,
       "num": 78462,
       "word": "四六级明天查分",
@@ -1075,6 +1219,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 70719,
+      "num": 277948,
+      "word": "詹姆斯欧文再见前任",
+      "onboard_time": 1740543860,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68627,
       "num": 68627,
       "word": "我是杨肸子我同意红房子加更",
@@ -1105,6 +1257,14 @@
       "onboard_time": 1740518651,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 55544,
+      "num": 299422,
+      "word": "王境泽想摆脱真香标签",
+      "onboard_time": 1740543080,
+      "rank": 19,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 54337,
@@ -1147,20 +1307,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 42150,
-      "num": 303963,
-      "word": "每天8杯水是多大杯子",
-      "onboard_time": 1740541279,
-      "rank": 26,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 41592,
       "num": 303026,
       "word": "为什么有时越玩手机越累",
       "onboard_time": 1740540319,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 32760,
+      "num": 300035,
+      "word": "我国研制出船舶心脏中的巨无霸",
+      "onboard_time": 1740515780,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 32478,
@@ -1291,14 +1451,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 19249,
-      "num": 345344,
-      "word": "乌媒称美欧就乌矿产资源展开争夺",
-      "onboard_time": 1740541100,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 19129,
       "num": 167057,
       "word": "鹤秋被贴脸红房子听诊器之吻",
@@ -1313,14 +1465,6 @@
       "onboard_time": 1740510491,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 16757,
-      "num": 25247,
-      "word": "我国研制出船舶心脏中的巨无霸",
-      "onboard_time": 1740515780,
-      "rank": 36,
-      "category": "国内时政"
     },
     {
       "raw_hot": 16305,
@@ -1393,6 +1537,14 @@
       "onboard_time": 1740508991,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 7672,
+      "num": 619286,
+      "word": "我国测量水平进入国际第1梯队",
+      "onboard_time": 1740543981,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

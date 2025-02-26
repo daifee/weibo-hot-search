@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740541487556,
+  "endTime": 1740544121662,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -371,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1520634,
+      "num": 1520634,
+      "word": "哪吒2冲全球票房第7",
+      "onboard_time": 1740539958,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1520337,
       "num": 597233,
       "word": "厌食女子被加喂营养餐多脏器衰竭",
@@ -691,6 +699,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 1107173,
+      "num": 299155,
+      "word": "保安上班迟到30分钟被同事3枪毙命",
+      "onboard_time": 1740541999,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1095706,
       "num": 993226,
       "word": "女子在公司微信群看到自己被裁员",
@@ -995,6 +1011,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 902743,
+      "num": 902743,
+      "word": "国台办回应王大陆等人涉嫌逃兵役",
+      "onboard_time": 1740541460,
+      "rank": 48,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 902184,
       "num": 757339,
       "word": "男子套现损失6千发信息说诅咒很灵",
@@ -1233,6 +1257,14 @@
       "onboard_time": 1740286880,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 754526,
+      "num": 518371,
+      "word": "柳智敏短发",
+      "onboard_time": 1740540258,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 752433,
@@ -1499,14 +1531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 689990,
-      "num": 518371,
-      "word": "柳智敏短发",
-      "onboard_time": 1740540258,
-      "rank": 30,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 689739,
       "num": 638031,
       "word": "上海土拨鼠",
@@ -1536,6 +1560,14 @@
       "word": "赵丽颖四平台破万",
       "onboard_time": 1740371241,
       "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 680373,
+      "num": 302391,
+      "word": "Melody方回应新恋情",
+      "onboard_time": 1740542301,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -1721,14 +1753,6 @@
       "onboard_time": 1740447858,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 615033,
-      "num": 615033,
-      "word": "哪吒2冲全球票房第7",
-      "onboard_time": 1740539958,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 613715,
@@ -2363,6 +2387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 466713,
+      "num": 300570,
+      "word": "孙俪婴儿时期旧照",
+      "onboard_time": 1740542361,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 465377,
       "num": 364731,
       "word": "懂瓜呱被禁言",
@@ -2619,6 +2651,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 412148,
+      "num": 412148,
+      "word": "陈梦去盒子里的猫了",
+      "onboard_time": 1740542781,
+      "rank": 5,
+      "category": "体育,综艺"
+    },
+    {
       "raw_hot": 411438,
       "num": 374006,
       "word": "小哪吒海外打赢美队4",
@@ -2745,6 +2785,14 @@
       "onboard_time": 1740379939,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 391542,
+      "num": 391542,
+      "word": "足金价格一夜下跌近10元",
+      "onboard_time": 1740540198,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 390842,
@@ -3163,14 +3211,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 334393,
-      "num": 334393,
-      "word": "足金价格一夜下跌近10元",
-      "onboard_time": 1740540198,
-      "rank": 36,
-      "category": "财经"
-    },
-    {
       "raw_hot": 333348,
       "num": 333348,
       "word": "难哄追剧日历",
@@ -3435,6 +3475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 303421,
+      "num": 303421,
+      "word": "女生考研查分紧张手抖结果出人意料",
+      "onboard_time": 1740541399,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 302460,
       "num": 302460,
       "word": "林高远说我们下个赛场见",
@@ -3465,6 +3513,14 @@
       "onboard_time": 1740367101,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 297915,
+      "num": 297915,
+      "word": "台媒曝Melody新恋情",
+      "onboard_time": 1740543441,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 296548,
@@ -3731,6 +3787,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 278051,
+      "num": 278051,
+      "word": "光与夜之恋",
+      "onboard_time": 1740543380,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 277878,
+      "num": 277878,
+      "word": "宣璐首部古偶女主剧",
+      "onboard_time": 1740543261,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 277517,
       "num": 277517,
       "word": "大衣哥拒绝直播带货也不代言",
@@ -3985,6 +4057,14 @@
       "onboard_time": 1740403401,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 252954,
+      "num": 301678,
+      "word": "电影天堂旅行团首支长预告",
+      "onboard_time": 1740543202,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 250496,
@@ -4529,6 +4609,14 @@
       "onboard_time": 1740290600,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222268,
+      "num": 277894,
+      "word": "法医秦明谈李威案受害者致死原因",
+      "onboard_time": 1740543621,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 221982,
@@ -5307,6 +5395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195902,
+      "num": 195902,
+      "word": "湖南被撞沉客船是村里主要交通工具",
+      "onboard_time": 1740542061,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 195418,
       "num": 195418,
       "word": "肖战单手插兜打招呼",
@@ -5883,6 +5979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182519,
+      "num": 303963,
+      "word": "每天8杯水是多大杯子",
+      "onboard_time": 1740541279,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 182471,
       "num": 182471,
       "word": "林一参加黄明昊签售会",
@@ -6073,6 +6177,14 @@
       "onboard_time": 1740392419,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 177273,
+      "num": 177273,
+      "word": "NBA",
+      "onboard_time": 1740543322,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 177266,
@@ -6425,14 +6537,6 @@
       "onboard_time": 1740279919,
       "rank": 33,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 168637,
-      "num": 168637,
-      "word": "女生考研查分紧张手抖结果出人意料",
-      "onboard_time": 1740541399,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 168597,
@@ -7035,6 +7139,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 155204,
+      "num": 155204,
+      "word": "肖战手持花束",
+      "onboard_time": 1740542660,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 155128,
       "num": 155128,
       "word": "理想汽车高管疑似暗讽华为",
@@ -7635,14 +7747,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 140796,
-      "num": 140796,
-      "word": "国台办回应王大陆等人涉嫌逃兵役",
-      "onboard_time": 1740541460,
-      "rank": 48,
-      "category": "民生新闻,艺人"
-    },
-    {
       "raw_hot": 140487,
       "num": 140487,
       "word": "金钟仁cha了WATER",
@@ -7921,6 +8025,14 @@
       "onboard_time": 1740228622,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 132724,
+      "num": 132724,
+      "word": "张元英好会拍",
+      "onboard_time": 1740543021,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 132597,
@@ -8211,6 +8323,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 123553,
+      "num": 247980,
+      "word": "法国退休医生25年间性侵299名患者",
+      "onboard_time": 1740543202,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 123111,
       "num": 123111,
       "word": "贾浅浅已博士毕业",
@@ -8225,6 +8345,14 @@
       "onboard_time": 1740292698,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122535,
+      "num": 345344,
+      "word": "乌媒称美欧就乌矿产资源展开争夺",
+      "onboard_time": 1740541100,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 122493,
@@ -8915,6 +9043,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 96288,
+      "num": 112688,
+      "word": "欧文思念科比Gigi",
+      "onboard_time": 1740541579,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94431,
       "num": 527009,
       "word": "官方通报村民清理化粪池致2死",
@@ -9267,6 +9403,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 78804,
+      "num": 252593,
+      "word": "爱奇艺客服回应爱你第1集锁V",
+      "onboard_time": 1740542539,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 78524,
       "num": 81566,
       "word": "DeepSeek评2025年十大赚钱行业",
@@ -9417,6 +9561,14 @@
       "onboard_time": 1740454580,
       "rank": 29,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 70719,
+      "num": 277948,
+      "word": "詹姆斯欧文再见前任",
+      "onboard_time": 1740543860,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 70307,
@@ -9779,6 +9931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55544,
+      "num": 299422,
+      "word": "王境泽想摆脱真香标签",
+      "onboard_time": 1740543080,
+      "rank": 19,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 54706,
       "num": 1193000,
       "word": "古诗词里的长江有多美",
@@ -10123,14 +10283,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 42150,
-      "num": 303963,
-      "word": "每天8杯水是多大杯子",
-      "onboard_time": 1740541279,
-      "rank": 26,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 42055,
       "num": 494949,
       "word": "60秒回顾俄乌战局变化",
@@ -10353,6 +10505,14 @@
       "onboard_time": 1740408922,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32760,
+      "num": 300035,
+      "word": "我国研制出船舶心脏中的巨无霸",
+      "onboard_time": 1740515780,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 32478,
@@ -10883,14 +11043,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 19249,
-      "num": 345344,
-      "word": "乌媒称美欧就乌矿产资源展开争夺",
-      "onboard_time": 1740541100,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 19238,
       "num": 155131,
       "word": "别离开我秦彻",
@@ -10993,14 +11145,6 @@
       "onboard_time": 1740349393,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 16757,
-      "num": 25247,
-      "word": "我国研制出船舶心脏中的巨无霸",
-      "onboard_time": 1740515780,
-      "rank": 36,
-      "category": "国内时政"
     },
     {
       "raw_hot": 16756,
@@ -11313,6 +11457,14 @@
       "onboard_time": 1740248773,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 7672,
+      "num": 619286,
+      "word": "我国测量水平进入国际第1梯队",
+      "onboard_time": 1740543981,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 7500,
