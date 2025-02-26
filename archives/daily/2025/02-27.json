@@ -1,6 +1,6 @@
 {
   "startTime": 1740587402639,
-  "endTime": 1740587402639,
+  "endTime": 1740588316600,
   "band_list": [
     {
       "raw_hot": 1135494,
@@ -75,20 +75,28 @@
       "category": "艺人,海外新闻"
     },
     {
+      "raw_hot": 283373,
+      "num": 198779,
+      "word": "2025年的汤唯",
+      "onboard_time": 1740584600,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 262436,
+      "num": 208351,
+      "word": "美国队长4票房破亿",
+      "onboard_time": 1740583879,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 255742,
       "num": 211361,
       "word": "六姊妹 辣目洋子",
       "onboard_time": 1740581001,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 232068,
-      "num": 208351,
-      "word": "美国队长4票房破亿",
-      "onboard_time": 1740583879,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 227014,
@@ -121,14 +129,6 @@
       "onboard_time": 1740581721,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 198779,
-      "num": 198779,
-      "word": "2025年的汤唯",
-      "onboard_time": 1740584600,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 197175,
@@ -299,6 +299,14 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 97389,
+      "num": 97389,
+      "word": "TES战胜BLG",
+      "onboard_time": 1740574161,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 97169,
       "num": 97169,
       "word": "两辈子都爱一个人的男主",
@@ -315,12 +323,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 95397,
-      "num": 95397,
-      "word": "TES战胜BLG",
-      "onboard_time": 1740574161,
-      "rank": 47,
-      "category": "电竞"
+      "raw_hot": 95139,
+      "num": 102822,
+      "word": "女生遭性侵溺亡案检方将抗诉",
+      "onboard_time": 1740582800,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92120,
@@ -347,12 +355,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 66246,
-      "num": 102430,
-      "word": "女生遭性侵溺亡案检方将抗诉",
-      "onboard_time": 1740582800,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 66791,
+      "num": 66791,
+      "word": "乌克兰和美国已定矿产协议最终版本",
+      "onboard_time": 1740570439,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 65458,
@@ -371,20 +379,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55214,
+      "num": 163885,
+      "word": "特朗普称有必要在乌部署维和部队",
+      "onboard_time": 1740586458,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 47111,
+      "num": 47111,
+      "word": "爱你 治愈",
+      "onboard_time": 1740580281,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 45534,
+      "num": 45534,
+      "word": "张凌赫好帅",
+      "onboard_time": 1740582319,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 25860,
       "num": 437075,
       "word": "我国综合极端条件实验装置通过验收",
       "onboard_time": 1740575841,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21131,
-      "num": 163885,
-      "word": "特朗普称有必要在乌部署维和部队",
-      "onboard_time": 1740586458,
-      "rank": 22,
-      "category": "国际时政"
     },
     {
       "raw_hot": 20743,
@@ -395,7 +419,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 18741,
+      "raw_hot": 19517,
       "num": 105155,
       "word": "海浪卷起千堆雪的一瞬定格文物上",
       "onboard_time": 1740586697,
