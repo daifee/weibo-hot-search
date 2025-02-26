@@ -1,0 +1,410 @@
+{
+  "runTime": 1740539086471,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1880791,
+        "num": 1880791,
+        "word": "黄金",
+        "onboard_time": 1740532939,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1568715,
+        "num": 1568715,
+        "word": "饺子导演撤回了一份入职通知书",
+        "onboard_time": 1740534618,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 45080,
+        "num": 1193000,
+        "word": "古诗词里的长江有多美",
+        "onboard_time": 1740495683,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1003936,
+        "num": 1003936,
+        "word": "二本情侣苦战3年携手闯入985复试",
+        "onboard_time": 1740534618,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 708360,
+        "num": 708360,
+        "word": "李威 因果业力来了",
+        "onboard_time": 1740532820,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 633653,
+        "num": 633653,
+        "word": "网红迅猛龙特蕾莎停播三个月备考",
+        "onboard_time": 1740523634,
+        "rank": 5,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 550412,
+        "num": 550412,
+        "word": "你要撑住马上就可以到中国抢救了",
+        "onboard_time": 1740499758,
+        "rank": 6,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 397387,
+        "num": 397387,
+        "word": "种地吧第三季定档",
+        "onboard_time": 1740536959,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383499,
+        "num": 383499,
+        "word": "女主一集下来微信步数第一",
+        "onboard_time": 1740528681,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 334027,
+        "num": 334027,
+        "word": "四六级成绩",
+        "onboard_time": 1740526218,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1165940,
+        "num": 334023,
+        "word": "特朗普将开售移民金卡",
+        "onboard_time": 1740535338,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 618073,
+        "num": 333962,
+        "word": "02年男生苦追班主任终喜结连理",
+        "onboard_time": 1740528440,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 593960,
+        "num": 333890,
+        "word": "素人时期的王安宇",
+        "onboard_time": 1740529640,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53347,
+        "num": 333840,
+        "word": "四六级总分为什么是710分",
+        "onboard_time": 1740538698,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 30276,
+        "num": 333769,
+        "word": "四六级成绩0分是什么情况",
+        "onboard_time": 1740538698,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 588377,
+        "num": 333693,
+        "word": "九旬老人离世后四亲属被烟闷身亡",
+        "onboard_time": 1740495441,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 478051,
+        "num": 333682,
+        "word": "关晓彤回应近日状态",
+        "onboard_time": 1740477561,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416516,
+        "num": 333591,
+        "word": "猫尸体塞课桌学校称不确定是否人为",
+        "onboard_time": 1740530300,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333571,
+        "num": 333571,
+        "word": "肖战突然从怀里掏出一个小风扇",
+        "onboard_time": 1740529159,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 325651,
+        "num": 325651,
+        "word": "为保胎妈妈以臀高位姿势卧床1个月",
+        "onboard_time": 1740493822,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293863,
+        "num": 293863,
+        "word": "泰国一巴士翻车致17人死亡",
+        "onboard_time": 1740535638,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 269260,
+        "num": 269260,
+        "word": "大奉打更人",
+        "onboard_time": 1740534438,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268184,
+        "num": 268184,
+        "word": "司藤原班人马 龙骨焚箱",
+        "onboard_time": 1740494484,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295545,
+        "num": 250554,
+        "word": "米兰偶遇肖战吃川菜",
+        "onboard_time": 1740535998,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 228814,
+        "num": 228814,
+        "word": "孙颖莎笑自有光",
+        "onboard_time": 1740538278,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222545,
+        "num": 222545,
+        "word": "一家4人处理老人丧事后意外身亡",
+        "onboard_time": 1740537498,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217329,
+        "num": 217329,
+        "word": "张凌赫回复了虞书欣",
+        "onboard_time": 1740527179,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131516,
+        "num": 211756,
+        "word": "智利大停电影响98%人口",
+        "onboard_time": 1740537199,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 211091,
+        "num": 211091,
+        "word": "哪吒2票房破139亿",
+        "onboard_time": 1740538638,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 201414,
+        "num": 201414,
+        "word": "北上要上央一了",
+        "onboard_time": 1740538218,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116125,
+        "num": 200495,
+        "word": "美国一客机降落被另一飞机阻挡",
+        "onboard_time": 1740534559,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 219446,
+        "num": 200462,
+        "word": "白宫称特朗普手背淤青因握手太多",
+        "onboard_time": 1740538339,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 199805,
+        "num": 199805,
+        "word": "警方回应猫尸体被塞课桌",
+        "onboard_time": 1740538458,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199234,
+        "num": 199234,
+        "word": "哪吒2预测票房下调至146亿",
+        "onboard_time": 1740495201,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193253,
+        "num": 193253,
+        "word": "全球热",
+        "onboard_time": 1740536418,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192580,
+        "num": 192580,
+        "word": "李威保释后首发声",
+        "onboard_time": 1740534618,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167129,
+        "num": 167129,
+        "word": "横纹肌溶解综合征",
+        "onboard_time": 1740537798,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158919,
+        "num": 158919,
+        "word": "盒子里的猫",
+        "onboard_time": 1740536418,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144997,
+        "num": 144997,
+        "word": "他是怎么做到小小年纪就一把年纪的",
+        "onboard_time": 1740535519,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143936,
+        "num": 143936,
+        "word": "女子离异8年请前婆婆带娃秒答应",
+        "onboard_time": 1740532220,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143224,
+        "num": 143224,
+        "word": "马航MH370重启搜索最新进展",
+        "onboard_time": 1740528020,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 141661,
+        "num": 141661,
+        "word": "滤镜连猴哥都变出来了",
+        "onboard_time": 1740537679,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148192,
+        "num": 139783,
+        "word": "研究中心回应学生被指猥亵多名男生",
+        "onboard_time": 1740535758,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136994,
+        "num": 136994,
+        "word": "马来西亚政府签署无发现无收费合同",
+        "onboard_time": 1740533119,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 134317,
+        "num": 134317,
+        "word": "智利灾难紧急状态",
+        "onboard_time": 1740531320,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133029,
+        "num": 133029,
+        "word": "王楚钦外协细节控白月光",
+        "onboard_time": 1740537979,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128865,
+        "num": 128865,
+        "word": "盒子里的猫2玩家阵容官宣",
+        "onboard_time": 1740537557,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119314,
+        "num": 119314,
+        "word": "乌克兰议会通过禁止战时选举议案",
+        "onboard_time": 1740535879,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119214,
+        "num": 119214,
+        "word": "偷偷藏着哄",
+        "onboard_time": 1740502337,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117916,
+        "num": 117916,
+        "word": "小孩哥打鼓逗小孩喜感十足",
+        "onboard_time": 1740531199,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#更好发挥县城连接城市带动乡村作用#"
+    }
+  }
+}

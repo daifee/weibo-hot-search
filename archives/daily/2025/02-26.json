@@ -1,10 +1,10 @@
 {
   "startTime": 1740500996613,
-  "endTime": 1740538543710,
+  "endTime": 1740539086471,
   "band_list": [
     {
-      "raw_hot": 1835824,
-      "num": 1835824,
+      "raw_hot": 1880791,
+      "num": 1880791,
       "word": "黄金",
       "onboard_time": 1740532939,
       "rank": 23,
@@ -35,20 +35,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1165940,
+      "num": 357553,
+      "word": "特朗普将开售移民金卡",
+      "onboard_time": 1740535338,
+      "rank": 10,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1143211,
       "num": 1143211,
       "word": "你要撑住马上就可以到中国抢救了",
       "onboard_time": 1740499758,
       "rank": 0,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 1114607,
-      "num": 357553,
-      "word": "特朗普将开售移民金卡",
-      "onboard_time": 1740535338,
-      "rank": 10,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1103594,
@@ -75,20 +75,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1003936,
+      "num": 1003936,
+      "word": "二本情侣苦战3年携手闯入985复试",
+      "onboard_time": 1740534618,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 993323,
       "num": 1158931,
       "word": "网红迅猛龙特蕾莎停播三个月备考",
       "onboard_time": 1740523634,
       "rank": 30,
       "category": "民生新闻,艺人"
-    },
-    {
-      "raw_hot": 933483,
-      "num": 933483,
-      "word": "二本情侣苦战3年携手闯入985复试",
-      "onboard_time": 1740534618,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 897317,
@@ -315,8 +315,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 263875,
-      "num": 263875,
+      "raw_hot": 269260,
+      "num": 269260,
       "word": "大奉打更人",
       "onboard_time": 1740534438,
       "rank": 30,
@@ -363,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228814,
+      "num": 228814,
+      "word": "孙颖莎笑自有光",
+      "onboard_time": 1740538278,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 227766,
       "num": 227766,
       "word": "王俊凯那期能不能直接放母带",
@@ -371,12 +379,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222545,
+      "num": 222545,
+      "word": "一家4人处理老人丧事后意外身亡",
+      "onboard_time": 1740537498,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219446,
+      "num": 200462,
+      "word": "白宫称特朗普手背淤青因握手太多",
+      "onboard_time": 1740538339,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 215065,
       "num": 215065,
       "word": "网友偶遇许凯坐地铁",
       "onboard_time": 1740492263,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211091,
+      "num": 211091,
+      "word": "哪吒2票房破139亿",
+      "onboard_time": 1740538638,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 209302,
@@ -395,14 +427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 202976,
-      "num": 202976,
-      "word": "孙颖莎笑自有光",
-      "onboard_time": 1740538278,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 202867,
       "num": 202867,
       "word": "肖战头排C位主咖",
@@ -419,12 +443,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201414,
+      "num": 201414,
+      "word": "北上要上央一了",
+      "onboard_time": 1740538218,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200619,
       "num": 200619,
       "word": "北上一部剧触发三代熟脸",
       "onboard_time": 1740537379,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199805,
+      "num": 199805,
+      "word": "警方回应猫尸体被塞课桌",
+      "onboard_time": 1740538458,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198115,
@@ -475,28 +515,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 184977,
-      "num": 184977,
-      "word": "北上要上央一了",
-      "onboard_time": 1740538218,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 177119,
       "num": 269492,
       "word": "王楚钦LV品牌大使",
       "onboard_time": 1740482001,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 173220,
-      "num": 173220,
-      "word": "一家4人处理老人丧事后意外身亡",
-      "onboard_time": 1740537498,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 171572,
@@ -515,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167129,
+      "num": 167129,
+      "word": "横纹肌溶解综合征",
+      "onboard_time": 1740537798,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165661,
       "num": 165661,
       "word": "爱你第一集就锁v",
@@ -529,6 +561,14 @@
       "onboard_time": 1740495803,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158919,
+      "num": 158919,
+      "word": "盒子里的猫",
+      "onboard_time": 1740536418,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 153774,
@@ -547,12 +587,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 146331,
-      "num": 146331,
-      "word": "横纹肌溶解综合征",
-      "onboard_time": 1740537798,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 148192,
+      "num": 140128,
+      "word": "研究中心回应学生被指猥亵多名男生",
+      "onboard_time": 1740535758,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145458,
@@ -563,8 +603,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 144226,
-      "num": 144226,
+      "raw_hot": 144997,
+      "num": 144997,
       "word": "他是怎么做到小小年纪就一把年纪的",
       "onboard_time": 1740535519,
       "rank": 38,
@@ -595,30 +635,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 140668,
-      "num": 140668,
-      "word": "盒子里的猫",
-      "onboard_time": 1740536418,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 140128,
-      "num": 140128,
-      "word": "研究中心回应学生被指猥亵多名男生",
-      "onboard_time": 1740535758,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 136887,
-      "num": 136887,
-      "word": "白宫称特朗普手背淤青因握手太多",
-      "onboard_time": 1740538339,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 136124,
       "num": 136124,
       "word": "王楚钦外协细节控白月光",
@@ -633,14 +649,6 @@
       "onboard_time": 1740505814,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134090,
-      "num": 134090,
-      "word": "警方回应猫尸体被塞课桌",
-      "onboard_time": 1740538458,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 133843,
@@ -659,8 +667,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131516,
+      "num": 340956,
+      "word": "智利大停电影响98%人口",
+      "onboard_time": 1740537199,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 130366,
-      "num": 130366,
+      "num": 200495,
       "word": "美国一客机降落被另一飞机阻挡",
       "onboard_time": 1740534559,
       "rank": 49,
@@ -761,14 +777,6 @@
       "onboard_time": 1740532879,
       "rank": 45,
       "category": "军事"
-    },
-    {
-      "raw_hot": 104706,
-      "num": 340956,
-      "word": "智利大停电影响98%人口",
-      "onboard_time": 1740537199,
-      "rank": 15,
-      "category": "国际时政"
     },
     {
       "raw_hot": 102896,
@@ -995,8 +1003,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53347,
+      "num": 333840,
+      "word": "四六级总分为什么是710分",
+      "onboard_time": 1740538698,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 52608,
-      "num": 1175599,
+      "num": 1193000,
       "word": "古诗词里的长江有多美",
       "onboard_time": 1740495683,
       "rank": 2,
@@ -1049,6 +1065,14 @@
       "onboard_time": 1740477324,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 30276,
+      "num": 333769,
+      "word": "四六级成绩0分是什么情况",
+      "onboard_time": 1740538698,
+      "rank": 14,
+      "category": "教育"
     },
     {
       "raw_hot": 29439,
