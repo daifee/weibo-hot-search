@@ -1,6 +1,6 @@
 {
   "startTime": 1740673831596,
-  "endTime": 1740674739975,
+  "endTime": 1740676877786,
   "band_list": [
     {
       "raw_hot": 1564084,
@@ -9,6 +9,14 @@
       "onboard_time": 1740667942,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1512918,
+      "num": 171986,
+      "word": "关晓彤",
+      "onboard_time": 1740674355,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 607231,
@@ -83,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 272687,
+      "num": 168316,
+      "word": "陈昊宇柳智敏边佑锡生图",
+      "onboard_time": 1740673576,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 247286,
       "num": 220121,
       "word": "香港丁克夫妻29平的房怎么住",
@@ -107,14 +123,6 @@
       "category": "数码,汽车"
     },
     {
-      "raw_hot": 239581,
-      "num": 171986,
-      "word": "关晓彤",
-      "onboard_time": 1740674355,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 227582,
       "num": 181512,
       "word": "偶遇靳东以为是公司领导",
@@ -128,14 +136,6 @@
       "word": "孟子义米兰时装周出发啦",
       "onboard_time": 1740671719,
       "rank": 17,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 221090,
-      "num": 168316,
-      "word": "陈昊宇柳智敏边佑锡生图",
-      "onboard_time": 1740673576,
-      "rank": 23,
       "category": "作品衍生,时尚"
     },
     {
@@ -161,6 +161,14 @@
       "onboard_time": 1740671178,
       "rank": 19,
       "category": "网红"
+    },
+    {
+      "raw_hot": 157824,
+      "num": 157824,
+      "word": "小米",
+      "onboard_time": 1740675436,
+      "rank": 6,
+      "category": "汽车,数码"
     },
     {
       "raw_hot": 151578,
@@ -339,6 +347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83313,
+      "num": 83313,
+      "word": "母鸡卡",
+      "onboard_time": 1740671119,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 82985,
       "num": 82985,
       "word": "JackeyLove一鼓作气赢到最后",
@@ -379,14 +395,6 @@
       "category": "互联网,财经"
     },
     {
-      "raw_hot": 79962,
-      "num": 79962,
-      "word": "母鸡卡",
-      "onboard_time": 1740671119,
-      "rank": 47,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 76542,
       "num": 76542,
       "word": "周扬青自曝新恋情见光死",
@@ -420,11 +428,35 @@
     },
     {
       "raw_hot": 60622,
-      "num": 79666,
+      "num": 90202,
       "word": "行动是打消不安最好的利器",
       "onboard_time": 1740674655,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 51364,
+      "num": 89788,
+      "word": "美国放弃乌克兰欧洲能站出来吗",
+      "onboard_time": 1740675494,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 48408,
+      "num": 173296,
+      "word": "男子陪妻子看病医生多看一眼救一命",
+      "onboard_time": 1740669739,
+      "rank": 13,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 40668,
+      "num": 92206,
+      "word": "宝可梦29周年",
+      "onboard_time": 1740675854,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 39576,
@@ -435,12 +467,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 38372,
-      "num": 173296,
-      "word": "男子陪妻子看病医生多看一眼救一命",
-      "onboard_time": 1740669739,
-      "rank": 13,
-      "category": "正能量"
+      "raw_hot": 18574,
+      "num": 90480,
+      "word": "外交部回应美挑拨离间中俄关系",
+      "onboard_time": 1740676694,
+      "rank": 28,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740674739975,
+  "endTime": 1740676877786,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -537,6 +537,14 @@
       "onboard_time": 1740315080,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1512918,
+      "num": 171986,
+      "word": "关晓彤",
+      "onboard_time": 1740674355,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1495642,
@@ -5547,6 +5555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 272687,
+      "num": 168316,
+      "word": "陈昊宇柳智敏边佑锡生图",
+      "onboard_time": 1740673576,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 271724,
       "num": 271724,
       "word": "A怎么会没发现b喜欢c的秘密呢",
@@ -6139,14 +6155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 239581,
-      "num": 171986,
-      "word": "关晓彤",
-      "onboard_time": 1740674355,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 239172,
       "num": 239172,
       "word": "默茨宣布获胜朔尔茨承认失利",
@@ -6713,14 +6721,6 @@
       "onboard_time": 1740357860,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 221090,
-      "num": 168316,
-      "word": "陈昊宇柳智敏边佑锡生图",
-      "onboard_time": 1740673576,
-      "rank": 23,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 221074,
@@ -10209,6 +10209,14 @@
       "onboard_time": 1740384802,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157824,
+      "num": 157824,
+      "word": "小米",
+      "onboard_time": 1740675436,
+      "rank": 6,
+      "category": "汽车,数码"
     },
     {
       "raw_hot": 157775,
@@ -13875,6 +13883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83313,
+      "num": 83313,
+      "word": "母鸡卡",
+      "onboard_time": 1740671119,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 82985,
       "num": 82985,
       "word": "JackeyLove一鼓作气赢到最后",
@@ -14033,14 +14049,6 @@
       "onboard_time": 1740456981,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 79962,
-      "num": 79962,
-      "word": "母鸡卡",
-      "onboard_time": 1740671119,
-      "rank": 47,
-      "category": "动漫"
     },
     {
       "raw_hot": 79444,
@@ -14684,7 +14692,7 @@
     },
     {
       "raw_hot": 60622,
-      "num": 79666,
+      "num": 90202,
       "word": "行动是打消不安最好的利器",
       "onboard_time": 1740674655,
       "rank": 39,
@@ -15089,6 +15097,14 @@
       "onboard_time": 1740272417,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51364,
+      "num": 89788,
+      "word": "美国放弃乌克兰欧洲能站出来吗",
+      "onboard_time": 1740675494,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 51169,
@@ -15545,6 +15561,14 @@
       "onboard_time": 1740321383,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 40668,
+      "num": 92206,
+      "word": "宝可梦29周年",
+      "onboard_time": 1740675854,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 40601,
@@ -16641,6 +16665,14 @@
       "onboard_time": 1740422232,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 18574,
+      "num": 90480,
+      "word": "外交部回应美挑拨离间中俄关系",
+      "onboard_time": 1740676694,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 17919,
