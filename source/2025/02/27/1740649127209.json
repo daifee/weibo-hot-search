@@ -1,0 +1,410 @@
+{
+  "runTime": 1740649127209,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1598674,
+        "num": 1598674,
+        "word": "国防部表示早晚要来收了你们",
+        "onboard_time": 1740645198,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 628355,
+        "num": 628355,
+        "word": "湖南卫视播赵丽颖的剧收视23连冠",
+        "onboard_time": 1740647058,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45922,
+        "num": 571414,
+        "word": "沉浸式感受春日里生机勃勃的中国",
+        "onboard_time": 1740647179,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1624745,
+        "num": 570421,
+        "word": "雷军回应当首富",
+        "onboard_time": 1740644657,
+        "rank": 3,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 565391,
+        "num": 565391,
+        "word": "霸王茶姬哪吒2联名",
+        "onboard_time": 1740638539,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 446745,
+        "num": 446745,
+        "word": "手机系统一直不更新可能被黑",
+        "onboard_time": 1740642318,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 519701,
+        "num": 441423,
+        "word": "林一给虞书欣送了妮妮玩偶",
+        "onboard_time": 1740645618,
+        "rank": 6,
+        "category": "剧集,综艺"
+      },
+      {
+        "raw_hot": 384407,
+        "num": 384407,
+        "word": "中国结欢迎借鉴反对挪用",
+        "onboard_time": 1740643639,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333835,
+        "num": 333835,
+        "word": "被勒索200万撕票的罗大美案28日开庭",
+        "onboard_time": 1740646159,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327715,
+        "num": 327715,
+        "word": "特朗普宣称要靠移民金卡赚50万亿还债",
+        "onboard_time": 1740645618,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1365378,
+        "num": 326109,
+        "word": "韩佳人自曝曾一年内流产三次",
+        "onboard_time": 1740646580,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1112815,
+        "num": 323554,
+        "word": "周扬青自曝新恋情见光死",
+        "onboard_time": 1740644239,
+        "rank": 11,
+        "category": "时尚,网红"
+      },
+      {
+        "raw_hot": 806684,
+        "num": 322691,
+        "word": "IU车银优同框",
+        "onboard_time": 1740647719,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319954,
+        "num": 319954,
+        "word": "哪吒来了刘畊宏直播间也得跳操",
+        "onboard_time": 1740642140,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 59239,
+        "num": 301278,
+        "word": "不追内娱的年轻人沉迷地下偶像",
+        "onboard_time": 1740647658,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286675,
+        "num": 286675,
+        "word": "我是文淇我不敢不同意开学",
+        "onboard_time": 1740639498,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265770,
+        "num": 265770,
+        "word": "7岁女童心脏骤停路人用AED救回",
+        "onboard_time": 1740639618,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235908,
+        "num": 235908,
+        "word": "韩安冉向薛小婉道歉",
+        "onboard_time": 1740631220,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228938,
+        "num": 228938,
+        "word": "我国牵头制定养老机器人国际标准",
+        "onboard_time": 1740625519,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 108664,
+        "num": 228563,
+        "word": "退货监控能看到新买家",
+        "onboard_time": 1740647358,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 540773,
+        "num": 228315,
+        "word": "王安宇脾气",
+        "onboard_time": 1740644839,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 341468,
+        "num": 227871,
+        "word": "女护士怀上58岁已婚教授孩子后勒索",
+        "onboard_time": 1740636438,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67954,
+        "num": 227717,
+        "word": "罗大美16岁离家打拼赚钱供妹妹读书",
+        "onboard_time": 1740648501,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 270309,
+        "num": 227016,
+        "word": "公务员考试",
+        "onboard_time": 1740643578,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 262124,
+        "num": 226799,
+        "word": "田曦薇下班要兼职程序员吗",
+        "onboard_time": 1740645497,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23842,
+        "num": 226422,
+        "word": "律师谈罗大美遇害案凶手或面临死刑",
+        "onboard_time": 1740648979,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149942,
+        "num": 226223,
+        "word": "疑似桐华说出了心里话",
+        "onboard_time": 1740644419,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148118,
+        "num": 225537,
+        "word": "迪丽热巴轻轻一夹把我吊成翘嘴",
+        "onboard_time": 1740635658,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174875,
+        "num": 225307,
+        "word": "被前妻实名举报出轨副教授最新回应",
+        "onboard_time": 1740647779,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9522,
+        "num": 225005,
+        "word": "向鱼竟然是e人",
+        "onboard_time": 1740648620,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 229295,
+        "num": 224289,
+        "word": "SM历代C位",
+        "onboard_time": 1740647658,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 444402,
+        "num": 224079,
+        "word": "Fendi回应中国结争议",
+        "onboard_time": 1740634938,
+        "rank": 31,
+        "category": "民生新闻,时尚"
+      },
+      {
+        "raw_hot": 198374,
+        "num": 223901,
+        "word": "我国一箭双星发射圆满成功",
+        "onboard_time": 1740648979,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 223514,
+        "num": 223514,
+        "word": "伍声2009",
+        "onboard_time": 1740648680,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 123423,
+        "num": 208355,
+        "word": "薛之谦不敢相信吉克隽逸肤色这么漂亮",
+        "onboard_time": 1740638899,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25324,
+        "num": 203272,
+        "word": "疑凶假装罗大美骗其母聊天记录曝光",
+        "onboard_time": 1740649039,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201386,
+        "num": 201386,
+        "word": "辞职半个月又回来上班有点尴尬",
+        "onboard_time": 1740643698,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188465,
+        "num": 188465,
+        "word": "苏州一抓娃娃机惊现活体小猫",
+        "onboard_time": 1740648440,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179555,
+        "num": 179555,
+        "word": "泽连斯基称10美分都不会还给美国",
+        "onboard_time": 1740648019,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 173846,
+        "num": 173846,
+        "word": "两车相撞女子夹中间毫发未伤",
+        "onboard_time": 1740645497,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158043,
+        "num": 158043,
+        "word": "女子求复合花4万找大师给前任下情蛊",
+        "onboard_time": 1740637579,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150502,
+        "num": 150502,
+        "word": "长沙一6岁女孩来月经",
+        "onboard_time": 1740637819,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136369,
+        "num": 136369,
+        "word": "奔驰裁员",
+        "onboard_time": 1740626780,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 129659,
+        "num": 129659,
+        "word": "章若楠现在94斤",
+        "onboard_time": 1740633559,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127853,
+        "num": 127853,
+        "word": "渐冻症女孩去世母亲想离开老家",
+        "onboard_time": 1740637637,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9118,
+        "num": 121641,
+        "word": "沈星回兔兔车",
+        "onboard_time": 1740648501,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120980,
+        "num": 120980,
+        "word": "奔驰中国裁员赔偿N加9",
+        "onboard_time": 1740630441,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 105186,
+        "num": 114364,
+        "word": "77年一遇的七星连珠肉眼可见3颗",
+        "onboard_time": 1740648739,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 114164,
+        "num": 114164,
+        "word": "张杰鸟巢演唱会",
+        "onboard_time": 1740645679,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111902,
+        "num": 111902,
+        "word": "周雨彤吴越新剧豆瓣开分7.9",
+        "onboard_time": 1740646819,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋进的春天#"
+    }
+  }
+}
