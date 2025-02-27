@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740631350115,
+  "endTime": 1740633823604,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -427,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1542780,
+      "num": 1542780,
+      "word": "Fendi 中国结",
+      "onboard_time": 1740629598,
+      "rank": 23,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 1537201,
       "num": 1386949,
       "word": "偶像剧终于有不回避成长女主了",
@@ -568,6 +576,14 @@
       "word": "3号厅检票员工 难哄",
       "onboard_time": 1740398479,
       "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1352661,
+      "num": 1352661,
+      "word": "章若楠回应外貌变化",
+      "onboard_time": 1740631160,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -1707,6 +1723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 720707,
+      "num": 720707,
+      "word": "奔驰中国裁员赔偿N加9",
+      "onboard_time": 1740630441,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 720658,
       "num": 720658,
       "word": "吉祥航空被曝给乘客发过期坚果",
@@ -2099,6 +2123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 651063,
+      "num": 651063,
+      "word": "蔡徐坤 CT",
+      "onboard_time": 1740631101,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 649269,
       "num": 223129,
       "word": "迈巴赫车主称车被尊界官方暴力测试",
@@ -2169,6 +2201,14 @@
       "onboard_time": 1740368780,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 628143,
+      "num": 425619,
+      "word": "韩安冉向薛小婉道歉",
+      "onboard_time": 1740631220,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 625541,
@@ -2529,14 +2569,6 @@
       "onboard_time": 1740368421,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 541821,
-      "num": 541821,
-      "word": "Fendi 中国结",
-      "onboard_time": 1740629598,
-      "rank": 23,
-      "category": "时尚"
     },
     {
       "raw_hot": 541505,
@@ -3195,6 +3227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 451228,
+      "num": 516572,
+      "word": "小米股价大跌超8%",
+      "onboard_time": 1740629899,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 448525,
       "num": 530586,
       "word": "樊振东距离霉霉又近了一步",
@@ -3208,6 +3248,14 @@
       "word": "宣璐首部古偶女主剧",
       "onboard_time": 1740543261,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 445262,
+      "num": 419367,
+      "word": "章若楠瘦到94斤",
+      "onboard_time": 1740633559,
+      "rank": 15,
       "category": "剧集"
     },
     {
@@ -3297,6 +3345,14 @@
       "onboard_time": 1740485242,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 432035,
+      "num": 432035,
+      "word": "颖儿把劲儿劲儿感演得真好",
+      "onboard_time": 1740631160,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 431940,
@@ -3443,14 +3499,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 408064,
-      "num": 527829,
-      "word": "奔驰中国裁员赔偿N加9",
-      "onboard_time": 1740630441,
-      "rank": 30,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 407455,
       "num": 451203,
       "word": "enhypen直播",
@@ -3561,6 +3609,14 @@
       "onboard_time": 1740351855,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 395460,
+      "num": 395460,
+      "word": "陈好晒备课照",
+      "onboard_time": 1740631700,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 394034,
@@ -4227,14 +4283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 319312,
-      "num": 516572,
-      "word": "小米股价大跌超8%",
-      "onboard_time": 1740629899,
-      "rank": 32,
-      "category": "财经"
-    },
-    {
       "raw_hot": 318244,
       "num": 318244,
       "word": "米兰街头偶遇肖战逛街",
@@ -4249,14 +4297,6 @@
       "onboard_time": 1740300859,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 317883,
-      "num": 514826,
-      "word": "蔡徐坤 CT",
-      "onboard_time": 1740631101,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 317021,
@@ -5771,14 +5811,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 226417,
-      "num": 226417,
-      "word": "颖儿把劲儿劲儿感演得真好",
-      "onboard_time": 1740631160,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 225850,
       "num": 225850,
       "word": "亚洲杯",
@@ -6139,6 +6171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 215481,
+      "num": 215481,
+      "word": "医院通报医生上班玩游戏致患者排队",
+      "onboard_time": 1740633020,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 215089,
       "num": 215089,
       "word": "周深演唱会勇敢退场是因为敬畏",
@@ -6385,14 +6425,6 @@
       "onboard_time": 1740402201,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 207565,
-      "num": 207565,
-      "word": "韩安冉向薛小婉道歉",
-      "onboard_time": 1740631220,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 206981,
@@ -6857,6 +6889,14 @@
       "onboard_time": 1740295220,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195078,
+      "num": 215260,
+      "word": "沈月头像大户上新",
+      "onboard_time": 1740633619,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 194654,
@@ -9259,6 +9299,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 153306,
+      "num": 513066,
+      "word": "我不想再被二手烟腌制入味了",
+      "onboard_time": 1740630260,
+      "rank": 25,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 152938,
       "num": 234812,
       "word": "乌大部分最具价值矿藏已归入俄罗斯",
@@ -9849,6 +9897,14 @@
       "onboard_time": 1740569180,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 142446,
+      "num": 142446,
+      "word": "邵雨薇否认与吴慷仁结婚",
+      "onboard_time": 1740633559,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 142309,
@@ -10499,6 +10555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128582,
+      "num": 128582,
+      "word": "檀健次宋雨琦宋慧乔方灿G社生图",
+      "onboard_time": 1740633738,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128031,
       "num": 128031,
       "word": "谢楠经常收到吴京发的丑照",
@@ -10640,6 +10704,14 @@
       "word": "亳州参与非法代孕警察被处理",
       "onboard_time": 1740550100,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125445,
+      "num": 420068,
+      "word": "建议男性陪产假不低于30天",
+      "onboard_time": 1740632541,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -10785,6 +10857,14 @@
       "onboard_time": 1740495742,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 122261,
+      "num": 124374,
+      "word": "爱你第6集红温了",
+      "onboard_time": 1740632541,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 122193,
@@ -11049,14 +11129,6 @@
       "onboard_time": 1740290120,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 113995,
-      "num": 513066,
-      "word": "我不想再被二手烟腌制入味了",
-      "onboard_time": 1740630260,
-      "rank": 25,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 113880,
@@ -11577,6 +11649,14 @@
       "onboard_time": 1740621439,
       "rank": 17,
       "category": "美食"
+    },
+    {
+      "raw_hot": 99722,
+      "num": 810005,
+      "word": "国家高新区发展成绩单来了",
+      "onboard_time": 1740630740,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99346,
@@ -12251,6 +12331,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 78893,
+      "num": 391299,
+      "word": "全智贤美得好有生命力",
+      "onboard_time": 1740631281,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 78804,
       "num": 252593,
       "word": "爱奇艺客服回应爱你第1集锁V",
@@ -12337,6 +12425,14 @@
       "onboard_time": 1740404481,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 74878,
+      "num": 432699,
+      "word": "美乌最终协议是美方让步了吗",
+      "onboard_time": 1740632901,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 74488,
@@ -12907,6 +13003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 55832,
+      "num": 405060,
+      "word": "男子参加400两日游花8千买玉镯",
+      "onboard_time": 1740632600,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55671,
       "num": 55671,
       "word": "敖丙传",
@@ -13419,14 +13523,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 41982,
-      "num": 810005,
-      "word": "国家高新区发展成绩单来了",
-      "onboard_time": 1740630740,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 41843,
       "num": 215172,
       "word": "哈利波特视觉特效公司即将倒闭",
@@ -13795,14 +13891,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 31010,
-      "num": 216987,
-      "word": "章若楠回应外貌变化",
-      "onboard_time": 1740631160,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 30971,
       "num": 144968,
       "word": "特朗普称欧洲能拿回援乌资金",
@@ -14105,14 +14193,6 @@
       "onboard_time": 1740488841,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25322,
-      "num": 145600,
-      "word": "全智贤美得好有生命力",
-      "onboard_time": 1740631281,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 25214,

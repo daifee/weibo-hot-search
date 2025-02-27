@@ -1,0 +1,410 @@
+{
+  "runTime": 1740633823604,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1542780,
+        "num": 1542780,
+        "word": "Fendi 中国结",
+        "onboard_time": 1740629598,
+        "rank": 0,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 1352661,
+        "num": 1352661,
+        "word": "章若楠回应外貌变化",
+        "onboard_time": 1740631160,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99722,
+        "num": 742872,
+        "word": "国家高新区发展成绩单来了",
+        "onboard_time": 1740630740,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 720707,
+        "num": 720707,
+        "word": "奔驰中国裁员赔偿N加9",
+        "onboard_time": 1740630441,
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 656235,
+        "num": 656235,
+        "word": "雷军身家超钟睒睒登顶中国首富",
+        "onboard_time": 1740625159,
+        "rank": 4,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 651063,
+        "num": 651063,
+        "word": "蔡徐坤 CT",
+        "onboard_time": 1740631101,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 581768,
+        "num": 581768,
+        "word": "香港全体公务员冻薪",
+        "onboard_time": 1740617838,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 451228,
+        "num": 451228,
+        "word": "小米股价大跌超8%",
+        "onboard_time": 1740629899,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 433427,
+        "num": 433427,
+        "word": "樊振东距离霉霉又近了一步",
+        "onboard_time": 1740629241,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74878,
+        "num": 432699,
+        "word": "美乌最终协议是美方让步了吗",
+        "onboard_time": 1740632901,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1015498,
+        "num": 432392,
+        "word": "留几手离婚搬进50平出租屋",
+        "onboard_time": 1740626359,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 900119,
+        "num": 432257,
+        "word": "性教育课上男生大方展示卫生巾",
+        "onboard_time": 1740623781,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 432035,
+        "num": 432035,
+        "word": "颖儿把劲儿劲儿感演得真好",
+        "onboard_time": 1740631160,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 628143,
+        "num": 425619,
+        "word": "韩安冉向薛小婉道歉",
+        "onboard_time": 1740631220,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125445,
+        "num": 420068,
+        "word": "建议男性陪产假不低于30天",
+        "onboard_time": 1740632541,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 445262,
+        "num": 419367,
+        "word": "章若楠瘦到94斤",
+        "onboard_time": 1740633559,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 416718,
+        "num": 416718,
+        "word": "哪吒2已做好台湾上映一切准备",
+        "onboard_time": 1740629120,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 55832,
+        "num": 405060,
+        "word": "男子参加400两日游花8千买玉镯",
+        "onboard_time": 1740632600,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 395460,
+        "num": 395460,
+        "word": "陈好晒备课照",
+        "onboard_time": 1740631700,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78893,
+        "num": 391299,
+        "word": "全智贤美得好有生命力",
+        "onboard_time": 1740631281,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388226,
+        "num": 388226,
+        "word": "怀孕遭辞退老师未签合同有五险",
+        "onboard_time": 1740626120,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370274,
+        "num": 370274,
+        "word": "我国牵头制定养老机器人国际标准",
+        "onboard_time": 1740625519,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 331527,
+        "num": 331527,
+        "word": "奔驰裁员",
+        "onboard_time": 1740626780,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 308557,
+        "num": 308557,
+        "word": "曾求助过蔡磊的98年渐冻症女孩去世",
+        "onboard_time": 1740626359,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273444,
+        "num": 273444,
+        "word": "胡兵49岁身高又长了1厘米",
+        "onboard_time": 1740626780,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266709,
+        "num": 266709,
+        "word": "奚梦瑶重返T台走秀",
+        "onboard_time": 1740627020,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215481,
+        "num": 215481,
+        "word": "医院通报医生上班玩游戏致患者排队",
+        "onboard_time": 1740633020,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194458,
+        "num": 215480,
+        "word": "方媛在米兰遭抢劫当地华人发声",
+        "onboard_time": 1740623539,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156145,
+        "num": 215349,
+        "word": "蒋奇明张艺凡雨夜私奔芭莎大片",
+        "onboard_time": 1740628760,
+        "rank": 28,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 195078,
+        "num": 215260,
+        "word": "沈月头像大户上新",
+        "onboard_time": 1740633619,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 796725,
+        "num": 215158,
+        "word": "南师大",
+        "onboard_time": 1740627199,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215060,
+        "num": 215060,
+        "word": "七星连珠",
+        "onboard_time": 1740622279,
+        "rank": 31,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 200630,
+        "num": 200630,
+        "word": "乒羽中心谴责侮辱中国运动员言行",
+        "onboard_time": 1740628100,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191085,
+        "num": 191085,
+        "word": "贾静雯大女儿梧桐妹回怼继父",
+        "onboard_time": 1740584240,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175842,
+        "num": 175842,
+        "word": "戴墨镜真的能快速提高颜值",
+        "onboard_time": 1740583579,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153306,
+        "num": 153306,
+        "word": "我不想再被二手烟腌制入味了",
+        "onboard_time": 1740630260,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 148470,
+        "num": 148470,
+        "word": "王楚钦想不通为何球板被踩断",
+        "onboard_time": 1740617240,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142446,
+        "num": 142446,
+        "word": "邵雨薇否认与吴慷仁结婚",
+        "onboard_time": 1740633559,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142278,
+        "num": 142278,
+        "word": "特朗普让乌克兰忘了北约吧",
+        "onboard_time": 1740626061,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138984,
+        "num": 138984,
+        "word": "李现现偶男主该有的样子",
+        "onboard_time": 1740629960,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131803,
+        "num": 131803,
+        "word": "大学老师说AI作文全判0分",
+        "onboard_time": 1740593414,
+        "rank": 40,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 131477,
+        "num": 131477,
+        "word": "滤镜",
+        "onboard_time": 1740633799,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131285,
+        "num": 131285,
+        "word": "苏见信说哪吒3可以找他",
+        "onboard_time": 1740620180,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131037,
+        "num": 131037,
+        "word": "辛芷蕾新剧卡鸡麻",
+        "onboard_time": 1740631160,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130438,
+        "num": 130438,
+        "word": "银行土银行水遭年轻人疯抢",
+        "onboard_time": 1740627439,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128582,
+        "num": 128582,
+        "word": "檀健次宋雨琦宋慧乔方灿G社生图",
+        "onboard_time": 1740633738,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125719,
+        "num": 125719,
+        "word": "白鹿多起名誉权维权案将开庭",
+        "onboard_time": 1740627081,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122261,
+        "num": 124374,
+        "word": "爱你第6集红温了",
+        "onboard_time": 1740632541,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123511,
+        "num": 123511,
+        "word": "涵艺怒斥Bin",
+        "onboard_time": 1740626898,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122326,
+        "num": 122326,
+        "word": "绯闻女孩乔治娜演员去世",
+        "onboard_time": 1740614478,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋进的春天#"
+    }
+  }
+}

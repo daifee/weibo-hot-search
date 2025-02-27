@@ -1,6 +1,6 @@
 {
   "startTime": 1740587402639,
-  "endTime": 1740631350115,
+  "endTime": 1740633823604,
   "band_list": [
     {
       "raw_hot": 2180306,
@@ -19,12 +19,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1542780,
+      "num": 1542780,
+      "word": "Fendi 中国结",
+      "onboard_time": 1740629598,
+      "rank": 23,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 1453420,
       "num": 519539,
       "word": "性教育课上男生大方展示卫生巾",
       "onboard_time": 1740623781,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1352661,
+      "num": 1352661,
+      "word": "章若楠回应外貌变化",
+      "onboard_time": 1740631160,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 1320459,
@@ -99,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 720707,
+      "num": 720707,
+      "word": "奔驰中国裁员赔偿N加9",
+      "onboard_time": 1740630441,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 696259,
       "num": 696259,
       "word": "王楚钦想不通为何球板被踩断",
@@ -123,12 +147,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 651063,
+      "num": 651063,
+      "word": "蔡徐坤 CT",
+      "onboard_time": 1740631101,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 631440,
       "num": 918547,
       "word": "六姊妹 辣目洋子",
       "onboard_time": 1740581001,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 628143,
+      "num": 425619,
+      "word": "韩安冉向薛小婉道歉",
+      "onboard_time": 1740631220,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 600923,
@@ -187,14 +227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 541821,
-      "num": 541821,
-      "word": "Fendi 中国结",
-      "onboard_time": 1740629598,
-      "rank": 23,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 533529,
       "num": 533529,
       "word": "叶挺将军之子叶正光先生逝世",
@@ -219,12 +251,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 451228,
+      "num": 516572,
+      "word": "小米股价大跌超8%",
+      "onboard_time": 1740629899,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 448525,
       "num": 530586,
       "word": "樊振东距离霉霉又近了一步",
       "onboard_time": 1740629241,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 445262,
+      "num": 419367,
+      "word": "章若楠瘦到94斤",
+      "onboard_time": 1740633559,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 442166,
@@ -251,6 +299,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 432035,
+      "num": 432035,
+      "word": "颖儿把劲儿劲儿感演得真好",
+      "onboard_time": 1740631160,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 419311,
       "num": 419311,
       "word": "戴墨镜真的能快速提高颜值",
@@ -259,20 +315,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 408064,
-      "num": 527829,
-      "word": "奔驰中国裁员赔偿N加9",
-      "onboard_time": 1740630441,
-      "rank": 30,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 405178,
       "num": 405178,
       "word": "日本米价暴涨90%引发民众愤怒",
       "onboard_time": 1740614539,
       "rank": 6,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 395460,
+      "num": 395460,
+      "word": "陈好晒备课照",
+      "onboard_time": 1740631700,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 390999,
@@ -345,22 +401,6 @@
       "onboard_time": 1740617838,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 319312,
-      "num": 516572,
-      "word": "小米股价大跌超8%",
-      "onboard_time": 1740629899,
-      "rank": 32,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 317883,
-      "num": 514826,
-      "word": "蔡徐坤 CT",
-      "onboard_time": 1740631101,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 297473,
@@ -475,14 +515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 226417,
-      "num": 226417,
-      "word": "颖儿把劲儿劲儿感演得真好",
-      "onboard_time": 1740631160,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 225518,
       "num": 225518,
       "word": "每年因乳腺癌死亡的人数将增加68%",
@@ -507,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215481,
+      "num": 215481,
+      "word": "医院通报医生上班玩游戏致患者排队",
+      "onboard_time": 1740633020,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 209194,
       "num": 209194,
       "word": "文科教授谈AI加速文科之死",
@@ -529,14 +569,6 @@
       "onboard_time": 1740615199,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 207565,
-      "num": 207565,
-      "word": "韩安冉向薛小婉道歉",
-      "onboard_time": 1740631220,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 204873,
@@ -600,6 +632,14 @@
       "word": "linglingkwong",
       "onboard_time": 1740630441,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 195078,
+      "num": 215260,
+      "word": "沈月头像大户上新",
+      "onboard_time": 1740633619,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -779,6 +819,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 153306,
+      "num": 513066,
+      "word": "我不想再被二手烟腌制入味了",
+      "onboard_time": 1740630260,
+      "rank": 25,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 152052,
       "num": 152052,
       "word": "武汉小伙澳洲留学吃不惯3个月瘦30斤",
@@ -843,6 +891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142446,
+      "num": 142446,
+      "word": "邵雨薇否认与吴慷仁结婚",
+      "onboard_time": 1740633559,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139197,
       "num": 139197,
       "word": "看得出迪丽热巴刘宇宁推理得很激烈",
@@ -875,6 +931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131477,
+      "num": 131477,
+      "word": "滤镜",
+      "onboard_time": 1740633799,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130477,
       "num": 130477,
       "word": "乌克兰与美国矿产协议全文",
@@ -891,6 +955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128582,
+      "num": 128582,
+      "word": "檀健次宋雨琦宋慧乔方灿G社生图",
+      "onboard_time": 1740633738,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128534,
       "num": 128534,
       "word": "张康乐 马柏全",
@@ -903,6 +975,22 @@
       "num": 126057,
       "word": "爱你 紫苏叶包烤肉",
       "onboard_time": 1740609133,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 125445,
+      "num": 420068,
+      "word": "建议男性陪产假不低于30天",
+      "onboard_time": 1740632541,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122261,
+      "num": 124374,
+      "word": "爱你第6集红温了",
+      "onboard_time": 1740632541,
       "rank": 47,
       "category": "剧集"
     },
@@ -929,14 +1017,6 @@
       "onboard_time": 1740622339,
       "rank": 40,
       "category": "国际时政,互联网"
-    },
-    {
-      "raw_hot": 113995,
-      "num": 513066,
-      "word": "我不想再被二手烟腌制入味了",
-      "onboard_time": 1740630260,
-      "rank": 25,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 110488,
@@ -1025,6 +1105,14 @@
       "onboard_time": 1740621439,
       "rank": 17,
       "category": "美食"
+    },
+    {
+      "raw_hot": 99722,
+      "num": 810005,
+      "word": "国家高新区发展成绩单来了",
+      "onboard_time": 1740630740,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98607,
@@ -1195,12 +1283,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 78893,
+      "num": 391299,
+      "word": "全智贤美得好有生命力",
+      "onboard_time": 1740631281,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 76405,
       "num": 96200,
       "word": "容貌焦虑已经过时了吗",
       "onboard_time": 1740620659,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 74878,
+      "num": 432699,
+      "word": "美乌最终协议是美方让步了吗",
+      "onboard_time": 1740632901,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 65458,
@@ -1249,6 +1353,14 @@
       "onboard_time": 1740611836,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 55832,
+      "num": 405060,
+      "word": "男子参加400两日游花8千买玉镯",
+      "onboard_time": 1740632600,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55214,
@@ -1307,14 +1419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 41982,
-      "num": 810005,
-      "word": "国家高新区发展成绩单来了",
-      "onboard_time": 1740630740,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 39701,
       "num": 39701,
       "word": "当我不小心在墙上多打了两个洞",
@@ -1336,14 +1440,6 @@
       "word": "温霜降角色号晒独家物料",
       "onboard_time": 1740591015,
       "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 31010,
-      "num": 216987,
-      "word": "章若楠回应外貌变化",
-      "onboard_time": 1740631160,
-      "rank": 32,
       "category": "剧集"
     },
     {
@@ -1385,14 +1481,6 @@
       "onboard_time": 1740575841,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25322,
-      "num": 145600,
-      "word": "全智贤美得好有生命力",
-      "onboard_time": 1740631281,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 24035,
