@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740670767055,
+  "endTime": 1740673831596,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -16675,6 +16675,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 484933,
+      "num": 235245,
+      "word": "sk卡卡",
+      "onboard_time": 1740670458,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 484557,
       "num": 348643,
       "word": "女子生日收万元花束20天后发霉",
@@ -24155,6 +24163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 325264,
+      "num": 242881,
+      "word": "李维嘉这辈子有为王栎鑫拼过命",
+      "onboard_time": 1740661820,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 325103,
       "num": 283399,
       "word": "白鹿包场仙台有树",
@@ -27779,14 +27795,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 278479,
-      "num": 242881,
-      "word": "李维嘉这辈子有为王栎鑫拼过命",
-      "onboard_time": 1740661820,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 278455,
       "num": 278455,
       "word": "台媒称看李现的剧想去云南定居",
@@ -31097,6 +31105,14 @@
       "onboard_time": 1739073979,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 245436,
+      "num": 245436,
+      "word": "小米15Ultra及SU7Ultra今日发布",
+      "onboard_time": 1740671119,
+      "rank": 8,
+      "category": "数码,汽车"
     },
     {
       "raw_hot": 245413,
@@ -37019,6 +37035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208669,
+      "num": 443647,
+      "word": "美国民众称特朗普卖金卡是笑话",
+      "onboard_time": 1740670218,
+      "rank": 13,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 208656,
       "num": 1044108,
       "word": "母亲说瑶一瑶小肉包没受伤",
@@ -37513,6 +37537,14 @@
       "onboard_time": 1739968281,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206548,
+      "num": 206548,
+      "word": "孟子义米兰时装周出发啦",
+      "onboard_time": 1740671719,
+      "rank": 17,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 206535,
@@ -45115,6 +45147,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 181512,
+      "num": 181512,
+      "word": "偶遇靳东以为是公司领导",
+      "onboard_time": 1740671778,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181482,
       "num": 181482,
       "word": "AL红色方",
@@ -52635,14 +52675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155525,
-      "num": 155525,
-      "word": "sk卡卡",
-      "onboard_time": 1740670458,
-      "rank": 31,
-      "category": "网红"
-    },
-    {
       "raw_hot": 155438,
       "num": 139816,
       "word": "被诬陷偷拍男子结婚了",
@@ -56233,6 +56265,14 @@
       "onboard_time": 1738511719,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 143706,
+      "num": 161413,
+      "word": "方媛感受到了祖国的温暖",
+      "onboard_time": 1740671178,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 143705,
@@ -61260,7 +61300,7 @@
     },
     {
       "raw_hot": 125114,
-      "num": 125114,
+      "num": 131903,
       "word": "宝可梦手游新作",
       "onboard_time": 1740670279,
       "rank": 42,
@@ -62051,6 +62091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122253,
+      "num": 122253,
+      "word": "零食鲍菇螺肉主配料为福寿螺肉",
+      "onboard_time": 1740668961,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122229,
       "num": 168650,
       "word": "身边的年味",
@@ -62425,6 +62473,14 @@
       "onboard_time": 1738738401,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120803,
+      "num": 120803,
+      "word": "翟潇闻创2的含金量还在上升",
+      "onboard_time": 1740672378,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 120788,
@@ -64715,6 +64771,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 111159,
+      "num": 111159,
+      "word": "周杰伦演唱会唱了难哄主题曲任性",
+      "onboard_time": 1740672678,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 111056,
       "num": 159929,
       "word": "郑钦文黑长裙亮相晚宴",
@@ -65249,6 +65313,14 @@
       "onboard_time": 1738840642,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108992,
+      "num": 483650,
+      "word": "我国古代已人手中国结",
+      "onboard_time": 1740670158,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108970,
@@ -70115,6 +70187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82985,
+      "num": 82985,
+      "word": "JackeyLove一鼓作气赢到最后",
+      "onboard_time": 1740673277,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 82928,
       "num": 202951,
       "word": "哈勒普退役",
@@ -70641,6 +70721,14 @@
       "onboard_time": 1738338079,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 79962,
+      "num": 79962,
+      "word": "母鸡卡",
+      "onboard_time": 1740671119,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 79960,
@@ -73443,6 +73531,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 63612,
+      "num": 244389,
+      "word": "专家科普中国结来源",
+      "onboard_time": 1740673158,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63515,
       "num": 632866,
       "word": "四川山体滑坡多户被埋已救出2人",
@@ -74969,6 +75065,14 @@
       "onboard_time": 1738942462,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56373,
+      "num": 133201,
+      "word": "陈昊宇柳智敏边佑锡生图",
+      "onboard_time": 1740673576,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 56346,
@@ -78697,14 +78801,6 @@
       "onboard_time": 1739542044,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 39198,
-      "num": 443647,
-      "word": "美国民众称特朗普卖金卡是笑话",
-      "onboard_time": 1740670218,
-      "rank": 13,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 39139,
@@ -82689,14 +82785,6 @@
       "onboard_time": 1739907311,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 22817,
-      "num": 483650,
-      "word": "我国古代已人手中国结",
-      "onboard_time": 1740670158,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22799,
