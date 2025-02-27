@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740667271831,
+  "endTime": 1740669990145,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -235,6 +235,14 @@
       "category": "艺人,海外新闻"
     },
     {
+      "raw_hot": 2005894,
+      "num": 1715419,
+      "word": "凶手埋尸后以风水为由叫施工加土",
+      "onboard_time": 1740664880,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1980318,
       "num": 1980318,
       "word": "Fendi回应中国结争议",
@@ -387,14 +395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1715419,
-      "num": 1715419,
-      "word": "凶手埋尸后以风水为由叫施工加土",
-      "onboard_time": 1740664880,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1700278,
       "num": 1700278,
       "word": "不允许城镇居民到农村购买宅基地",
@@ -425,6 +425,14 @@
       "onboard_time": 1740327738,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1633622,
+      "num": 1633622,
+      "word": "哪吒2配音演员起诉配音公司",
+      "onboard_time": 1740667942,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 1624828,
@@ -1715,6 +1723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 785518,
+      "num": 785518,
+      "word": "小猪佩奇猪妈妈怀三胎",
+      "onboard_time": 1740665960,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 783779,
       "num": 783779,
       "word": "iPhone17全系CAD图",
@@ -2713,14 +2729,6 @@
       "onboard_time": 1740288439,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 579840,
-      "num": 579840,
-      "word": "小猪佩奇猪妈妈怀三胎",
-      "onboard_time": 1740665960,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 579207,
@@ -4051,6 +4059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 393061,
+      "num": 347457,
+      "word": "香港丁克夫妻29平的房怎么住",
+      "onboard_time": 1740664581,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 391757,
       "num": 391757,
       "word": "张凌赫谁允许你这么叫姐姐的",
@@ -4497,6 +4513,14 @@
       "onboard_time": 1740368181,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 346516,
+      "num": 346516,
+      "word": "前TVB甜妹唐宁回应满头白发",
+      "onboard_time": 1740668479,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 346376,
@@ -4985,6 +5009,14 @@
       "onboard_time": 1740658218,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 305132,
+      "num": 386350,
+      "word": "陈昊宇米兰首秀g社生图",
+      "onboard_time": 1740666019,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 305077,
@@ -5731,14 +5763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 257786,
-      "num": 204780,
-      "word": "香港丁克夫妻29平的房怎么住",
-      "onboard_time": 1740664581,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 257768,
       "num": 229904,
       "word": "年轻人也开始得带状疱疹了",
@@ -6227,6 +6251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235010,
+      "num": 547394,
+      "word": "建议整治卡牌盲盒乱象",
+      "onboard_time": 1740666475,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 234652,
       "num": 283507,
       "word": "肖战休闲风出门了",
@@ -6363,12 +6395,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 229621,
+      "num": 229621,
+      "word": "Prada大秀",
+      "onboard_time": 1740667942,
+      "rank": 25,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 229363,
       "num": 229363,
       "word": "戚薇李承铉到底有多少情侣装",
       "onboard_time": 1740299119,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 229342,
+      "num": 229342,
+      "word": "mujica动画",
+      "onboard_time": 1740668961,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 229341,
@@ -6665,14 +6713,6 @@
       "onboard_time": 1740236662,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 220007,
-      "num": 386350,
-      "word": "陈昊宇米兰首秀g社生图",
-      "onboard_time": 1740666019,
-      "rank": 43,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 219859,
@@ -8115,6 +8155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 188757,
+      "num": 188757,
+      "word": "柳智敏好美",
+      "onboard_time": 1740664461,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 188670,
       "num": 188670,
       "word": "吴昕怎么掏个包都这么有梗",
@@ -8768,14 +8816,6 @@
       "word": "肖战看秀观后感",
       "onboard_time": 1740576500,
       "rank": 34,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 177609,
-      "num": 177609,
-      "word": "柳智敏好美",
-      "onboard_time": 1740664461,
-      "rank": 45,
       "category": "作品衍生,时尚"
     },
     {
@@ -9449,6 +9489,14 @@
       "onboard_time": 1740550039,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166665,
+      "num": 186406,
+      "word": "PEL",
+      "onboard_time": 1740668361,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 166558,
@@ -10363,6 +10411,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 153702,
+      "num": 153702,
+      "word": "樊振东可直接参加全运会决赛阶段单打比赛",
+      "onboard_time": 1740669919,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153306,
       "num": 513066,
       "word": "我不想再被二手烟腌制入味了",
@@ -10481,6 +10537,14 @@
       "onboard_time": 1740294018,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 151135,
+      "num": 321997,
+      "word": "厂家回应零食主配料为福寿螺肉",
+      "onboard_time": 1740668840,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150909,
@@ -11459,6 +11523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134929,
+      "num": 134929,
+      "word": "Gemini花海情头",
+      "onboard_time": 1740669019,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 134839,
       "num": 134839,
       "word": "王一博起诉多家公司侵权",
@@ -11723,6 +11795,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 129961,
+      "num": 129961,
+      "word": "鬼灭之刃变柱灭之刃",
+      "onboard_time": 1740669200,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 129959,
       "num": 129959,
       "word": "波士顿动力已购买宇树机器人",
@@ -11761,6 +11841,14 @@
       "onboard_time": 1740572660,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 128840,
+      "num": 128840,
+      "word": "研招网回应考生伪造考研成绩",
+      "onboard_time": 1740669260,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 128647,
@@ -13339,6 +13427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91137,
+      "num": 316567,
+      "word": "俄方称特朗普愿意倾听他人",
+      "onboard_time": 1740665780,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 90984,
       "num": 90984,
       "word": "十个勤天福州演唱会",
@@ -14420,7 +14516,7 @@
     },
     {
       "raw_hot": 60831,
-      "num": 209582,
+      "num": 229409,
       "word": "小米加国补省钱又靠谱",
       "onboard_time": 1740666861,
       "rank": 29,
@@ -14441,14 +14537,6 @@
       "onboard_time": 1740584300,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 60354,
-      "num": 316567,
-      "word": "俄方称特朗普愿意倾听他人",
-      "onboard_time": 1740665780,
-      "rank": 22,
-      "category": "国际时政"
     },
     {
       "raw_hot": 59735,
@@ -14763,6 +14851,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 52394,
+      "num": 1151916,
+      "word": "看AI如何助力春耕育种",
+      "onboard_time": 1740668541,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 52315,
       "num": 66046,
       "word": "因为爱聊天获诺贝尔一直讲",
@@ -14843,6 +14939,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 51137,
+      "num": 125013,
+      "word": "男子陪妻子看病医生多看一眼救一命",
+      "onboard_time": 1740669739,
+      "rank": 49,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 51080,
       "num": 51080,
       "word": "无遗嘱无法定继承人的遗产该归谁",
@@ -14875,6 +14979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49787,
+      "num": 229368,
+      "word": "80多岁爷爷把一走失者送到派出所",
+      "onboard_time": 1740669560,
+      "rank": 27,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 49651,
       "num": 170750,
       "word": "长得美丑可能与豌豆有关",
@@ -14889,6 +15001,14 @@
       "onboard_time": 1740306319,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 49364,
+      "num": 263460,
+      "word": "建议将防性侵列入中小学必修课",
+      "onboard_time": 1740669680,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49326,
@@ -15603,14 +15723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 31156,
-      "num": 547394,
-      "word": "建议整治卡牌盲盒乱象",
-      "onboard_time": 1740666475,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 31125,
       "num": 340873,
       "word": "今日看盘",
@@ -16257,6 +16369,14 @@
       "onboard_time": 1740506233,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 19918,
+      "num": 258852,
+      "word": "孟佳重返可可托海滑雪",
+      "onboard_time": 1740667520,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 19878,
