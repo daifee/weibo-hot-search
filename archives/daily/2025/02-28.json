@@ -1,6 +1,6 @@
 {
   "startTime": 1740673831596,
-  "endTime": 1740677938611,
+  "endTime": 1740681133848,
   "band_list": [
     {
       "raw_hot": 1564084,
@@ -227,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127675,
+      "num": 127675,
+      "word": "卡卡我尽了一切努力挽救婚姻",
+      "onboard_time": 1740664581,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125408,
       "num": 125408,
       "word": "周杰伦演唱会唱了难哄主题曲任性",
@@ -305,14 +313,6 @@
       "onboard_time": 1740661760,
       "rank": 38,
       "category": "数码"
-    },
-    {
-      "raw_hot": 92657,
-      "num": 93161,
-      "word": "卡卡我尽了一切努力挽救婚姻",
-      "onboard_time": 1740664581,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 88447,
@@ -459,6 +459,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 48853,
+      "num": 48853,
+      "word": "国防部发言人引用哪吒2台词",
+      "onboard_time": 1740679092,
+      "rank": 21,
+      "category": "国内时政,电影"
+    },
+    {
       "raw_hot": 48408,
       "num": 173296,
       "word": "男子陪妻子看病医生多看一眼救一命",
@@ -491,6 +499,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 33114,
+      "num": 46790,
+      "word": "美方对中俄挑拨离间完全是徒劳的",
+      "onboard_time": 1740677892,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 25726,
+      "num": 25726,
+      "word": "吉恩哈克曼去世",
+      "onboard_time": 1740679153,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 14857,
       "num": 66763,
       "word": "宝可梦传说ZA秋季发售",
@@ -499,12 +523,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 12669,
-      "num": 46790,
-      "word": "美方对中俄挑拨离间完全是徒劳的",
-      "onboard_time": 1740677892,
-      "rank": 37,
-      "category": "国际时政"
+      "raw_hot": 14008,
+      "num": 49825,
+      "word": "比模特更像模特的GAWON",
+      "onboard_time": 1740679873,
+      "rank": 19,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 13273,
+      "num": 70926,
+      "word": "国安提醒这些机场风景不能拍",
+      "onboard_time": 1740680413,
+      "rank": 9,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

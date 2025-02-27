@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740677938611,
+  "endTime": 1740681133848,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -76819,6 +76819,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 48853,
+      "num": 48853,
+      "word": "国防部发言人引用哪吒2台词",
+      "onboard_time": 1740679092,
+      "rank": 21,
+      "category": "国内时政,电影"
+    },
+    {
       "raw_hot": 48823,
       "num": 326849,
       "word": "泰国总理说全力照顾好每位赴泰游客",
@@ -80267,6 +80275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 33114,
+      "num": 46790,
+      "word": "美方对中俄挑拨离间完全是徒劳的",
+      "onboard_time": 1740677892,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 33101,
       "num": 300592,
       "word": "景区否认千名游客被困无人回应",
@@ -82025,6 +82041,14 @@
       "onboard_time": 1738805963,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 25726,
+      "num": 25726,
+      "word": "吉恩哈克曼去世",
+      "onboard_time": 1740679153,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 25628,
@@ -85091,6 +85115,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 14008,
+      "num": 49825,
+      "word": "比模特更像模特的GAWON",
+      "onboard_time": 1740679873,
+      "rank": 19,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 13965,
       "num": 19369,
       "word": "相思令收官",
@@ -85225,6 +85257,14 @@
       "onboard_time": 1740108979,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 13273,
+      "num": 70926,
+      "word": "国安提醒这些机场风景不能拍",
+      "onboard_time": 1740680413,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13256,
@@ -85417,14 +85457,6 @@
       "onboard_time": 1738787831,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12669,
-      "num": 46790,
-      "word": "美方对中俄挑拨离间完全是徒劳的",
-      "onboard_time": 1740677892,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 12662,
