@@ -1,6 +1,6 @@
 {
   "startTime": 1740673831596,
-  "endTime": 1740692183766,
+  "endTime": 1740694995103,
   "band_list": [
     {
       "raw_hot": 1564084,
@@ -171,6 +171,14 @@
       "category": "汽车,数码"
     },
     {
+      "raw_hot": 152925,
+      "num": 152925,
+      "word": "卡卡我尽了一切努力挽救婚姻",
+      "onboard_time": 1740664581,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151578,
       "num": 151578,
       "word": "Gucci全平台更新肖战",
@@ -195,20 +203,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 135870,
-      "num": 135870,
-      "word": "卡卡我尽了一切努力挽救婚姻",
-      "onboard_time": 1740664581,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 135456,
       "num": 135456,
       "word": "陈昊宇米兰首秀g社生图",
       "onboard_time": 1740666019,
       "rank": 22,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 133510,
+      "num": 102705,
+      "word": "婚房7年没住被小区保洁换锁养鸡",
+      "onboard_time": 1740653418,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131448,
@@ -289,14 +297,6 @@
       "onboard_time": 1740669200,
       "rank": 35,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 102705,
-      "num": 102705,
-      "word": "婚房7年没住被小区保洁换锁养鸡",
-      "onboard_time": 1740653418,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 97910,
@@ -427,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 66227,
+      "num": 173296,
+      "word": "男子陪妻子看病医生多看一眼救一命",
+      "onboard_time": 1740669739,
+      "rank": 13,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 65306,
       "num": 244389,
       "word": "专家科普中国结来源",
@@ -467,12 +475,12 @@
       "category": "国内时政,电影"
     },
     {
-      "raw_hot": 48408,
-      "num": 173296,
-      "word": "男子陪妻子看病医生多看一眼救一命",
-      "onboard_time": 1740669739,
-      "rank": 13,
-      "category": "正能量"
+      "raw_hot": 44111,
+      "num": 39199,
+      "word": "卡卡前妻回应离婚说他太完美了",
+      "onboard_time": 1740690791,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 40668,
@@ -523,6 +531,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 29317,
+      "num": 29317,
+      "word": "53万的小米SU7Ultra到底值不值",
+      "onboard_time": 1740687851,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 26328,
       "num": 25831,
       "word": "刘品言说和李威没有私交",
@@ -539,14 +555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 22722,
-      "num": 22722,
-      "word": "卡卡前妻回应离婚说他太完美了",
-      "onboard_time": 1740690791,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 19852,
       "num": 49825,
       "word": "比模特更像模特的GAWON",
@@ -555,12 +563,28 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 19397,
-      "num": 19397,
-      "word": "53万的小米SU7Ultra到底值不值",
-      "onboard_time": 1740687851,
-      "rank": 32,
-      "category": "汽车"
+      "raw_hot": 19636,
+      "num": 100451,
+      "word": "那些你不知道的北京地儿",
+      "onboard_time": 1740655218,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 17202,
+      "num": 20799,
+      "word": "第一部只刷切片看不明白的剧",
+      "onboard_time": 1740693551,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 16914,
+      "num": 20796,
+      "word": "180天重启计划",
+      "onboard_time": 1740678012,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 15659,
@@ -571,28 +595,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 14864,
-      "num": 18224,
-      "word": "180天重启计划",
-      "onboard_time": 1740678012,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 14857,
       "num": 66763,
       "word": "宝可梦传说ZA秋季发售",
       "onboard_time": 1740677294,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 14179,
-      "num": 69903,
-      "word": "那些你不知道的北京地儿",
-      "onboard_time": 1740655218,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 11606,
