@@ -1,6 +1,6 @@
 {
   "startTime": 1740587402639,
-  "endTime": 1740621775265,
+  "endTime": 1740625012821,
   "band_list": [
     {
       "raw_hot": 2157603,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1135494,
-      "num": 291745,
+      "num": 373055,
       "word": "贾静雯大女儿梧桐妹回怼继父",
       "onboard_time": 1740584240,
       "rank": 10,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1059761,
-      "num": 285256,
+      "num": 364713,
       "word": "女生称面试王安宇新剧电动车被聘了",
       "onboard_time": 1740583639,
       "rank": 11,
@@ -33,6 +33,14 @@
       "onboard_time": 1740593414,
       "rank": 29,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 944268,
+      "num": 944268,
+      "word": "金价",
+      "onboard_time": 1740620780,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 755330,
@@ -91,12 +99,44 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 533529,
+      "num": 533529,
+      "word": "叶挺将军之子叶正光先生逝世",
+      "onboard_time": 1740620118,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 508460,
-      "num": 270851,
+      "num": 271972,
       "word": "首尔街头偶遇李现逛街",
       "onboard_time": 1740617120,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 504504,
+      "num": 504504,
+      "word": "方媛在米兰遭抢劫当地华人发声",
+      "onboard_time": 1740623539,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 454445,
+      "num": 365736,
+      "word": "性教育课上男生大方展示卫生巾",
+      "onboard_time": 1740623781,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 442166,
+      "num": 442166,
+      "word": "苏见信说哪吒3可以找他",
+      "onboard_time": 1740620180,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 419311,
@@ -113,6 +153,14 @@
       "onboard_time": 1740614539,
       "rank": 6,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 390999,
+      "num": 390999,
+      "word": "19岁女棋手用AI作弊禁赛8年",
+      "onboard_time": 1740621258,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 387631,
@@ -132,7 +180,7 @@
     },
     {
       "raw_hot": 367188,
-      "num": 269102,
+      "num": 272428,
       "word": "曝赵露思将离开银河酷娱",
       "onboard_time": 1740612436,
       "rank": 19,
@@ -155,20 +203,20 @@
       "category": "艺人,海外新闻"
     },
     {
+      "raw_hot": 353124,
+      "num": 353124,
+      "word": "张元英粉丝暂停对接中国非头部杂志",
+      "onboard_time": 1740622579,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 321755,
       "num": 321755,
       "word": "美情报人员被爆色情聊天",
       "onboard_time": 1740617838,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 313881,
-      "num": 247544,
-      "word": "苏见信说哪吒3可以找他",
-      "onboard_time": 1740620180,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 297473,
@@ -188,7 +236,7 @@
     },
     {
       "raw_hot": 290001,
-      "num": 203655,
+      "num": 240666,
       "word": "专家说孕妇要像减脂期一样吃饭",
       "onboard_time": 1740618740,
       "rank": 21,
@@ -227,12 +275,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 236827,
-      "num": 236827,
-      "word": "金价",
-      "onboard_time": 1740620780,
-      "rank": 16,
-      "category": "财经"
+      "raw_hot": 241248,
+      "num": 241248,
+      "word": "35岁秦舒培状态",
+      "onboard_time": 1740621980,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 233870,
@@ -273,6 +321,14 @@
       "onboard_time": 1740581182,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213059,
+      "num": 175951,
+      "word": "七星连珠",
+      "onboard_time": 1740622279,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 207865,
@@ -331,6 +387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 188544,
+      "num": 188544,
+      "word": "封神2票房超12亿",
+      "onboard_time": 1740624680,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 185972,
       "num": 185972,
       "word": "外媒曝美欲将加拿大逐出五眼联盟",
@@ -371,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175941,
+      "num": 175941,
+      "word": "小伙澳洲留学吃不惯仨月瘦30斤",
+      "onboard_time": 1740623120,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175834,
       "num": 89865,
       "word": "梧桐妹怼继父修杰楷",
@@ -395,16 +467,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 160086,
-      "num": 189553,
-      "word": "叶挺将军之子叶正光先生逝世",
-      "onboard_time": 1740620118,
-      "rank": 45,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 157087,
-      "num": 157087,
+      "num": 181675,
       "word": "钟楚曦走秀",
       "onboard_time": 1740619519,
       "rank": 34,
@@ -427,12 +491,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150366,
+      "num": 150366,
+      "word": "武汉小伙澳洲留学吃不惯3个月瘦30斤",
+      "onboard_time": 1740622218,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145639,
       "num": 156091,
       "word": "Bin输和赢都是人生常态",
       "onboard_time": 1740582861,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 143165,
+      "num": 182974,
+      "word": "难哄又有新预告了",
+      "onboard_time": 1740622759,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 139197,
@@ -444,7 +524,7 @@
     },
     {
       "raw_hot": 137996,
-      "num": 137996,
+      "num": 185753,
       "word": "第五人格",
       "onboard_time": 1740621258,
       "rank": 29,
@@ -457,6 +537,14 @@
       "onboard_time": 1740596113,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 132384,
+      "num": 132384,
+      "word": "结婚人数为何下降",
+      "onboard_time": 1740624018,
+      "rank": 35,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 130477,
@@ -491,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117660,
+      "num": 117660,
+      "word": "小米市值突破1.4万亿港元",
+      "onboard_time": 1740623419,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 115703,
       "num": 115703,
       "word": "滤镜 虐男主",
@@ -507,12 +603,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 108977,
-      "num": 108977,
-      "word": "19岁女棋手用AI作弊禁赛8年",
-      "onboard_time": 1740621258,
-      "rank": 38,
-      "category": "体育"
+      "raw_hot": 115105,
+      "num": 115105,
+      "word": "特朗普说把不满马斯克的人扔出去",
+      "onboard_time": 1740622339,
+      "rank": 40,
+      "category": "国际时政,互联网"
     },
     {
       "raw_hot": 108829,
@@ -571,6 +667,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 100060,
+      "num": 228705,
+      "word": "加拿大咖啡店把美式咖啡改名加式咖啡",
+      "onboard_time": 1740621439,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 98607,
       "num": 98607,
       "word": "学生给足排面猫咪才下来",
@@ -603,12 +707,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96086,
+      "num": 96086,
+      "word": "男子花50元套圈被大鹅上了一课",
+      "onboard_time": 1740621799,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94413,
       "num": 109617,
       "word": "驻米兰总领馆提醒游客加强安全防范",
       "onboard_time": 1740620479,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 93135,
+      "num": 93135,
+      "word": "杜兰特上追梦播客笑嘻了",
+      "onboard_time": 1740623959,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 92689,
@@ -633,6 +753,14 @@
       "onboard_time": 1740616279,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 86184,
+      "num": 86184,
+      "word": "痛经艾灸",
+      "onboard_time": 1740624980,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 85881,
@@ -665,6 +793,22 @@
       "onboard_time": 1740621678,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 81423,
+      "num": 325685,
+      "word": "DeepSeek出现后学文科还有价值吗",
+      "onboard_time": 1740624439,
+      "rank": 14,
+      "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 80520,
+      "num": 273616,
+      "word": "办理年度个税汇算问答",
+      "onboard_time": 1740623479,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76405,
@@ -769,14 +913,6 @@
       "onboard_time": 1740582319,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 42898,
-      "num": 228705,
-      "word": "加拿大咖啡店把美式咖啡改名加式咖啡",
-      "onboard_time": 1740621439,
-      "rank": 17,
-      "category": "美食"
     },
     {
       "raw_hot": 39701,
@@ -889,6 +1025,14 @@
       "onboard_time": 1740588854,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15400,
+      "num": 252444,
+      "word": "徐若晗生日直播",
+      "onboard_time": 1740624078,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 14662,
