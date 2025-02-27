@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740627873684,
+  "endTime": 1740630460096,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 2180306,
-      "num": 361966,
+      "num": 496849,
       "word": "留几手离婚搬进50平出租屋",
       "onboard_time": 1740626359,
       "rank": 11,
@@ -484,7 +484,7 @@
     },
     {
       "raw_hot": 1453420,
-      "num": 369409,
+      "num": 478605,
       "word": "性教育课上男生大方展示卫生巾",
       "onboard_time": 1740623781,
       "rank": 11,
@@ -585,6 +585,14 @@
       "onboard_time": 1740444380,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1320459,
+      "num": 1320459,
+      "word": "雷军身家超钟睒睒登顶中国首富",
+      "onboard_time": 1740625159,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 1312282,
@@ -955,12 +963,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1024535,
-      "num": 1024535,
-      "word": "雷军身家超钟睒睒登顶中国首富",
-      "onboard_time": 1740625159,
-      "rank": 17,
-      "category": "财经"
+      "raw_hot": 1025550,
+      "num": 1025550,
+      "word": "怀孕遭辞退老师未签合同有五险",
+      "onboard_time": 1740626120,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1022639,
@@ -1643,6 +1651,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 736941,
+      "num": 736941,
+      "word": "奔驰裁员",
+      "onboard_time": 1740626780,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 728572,
       "num": 449398,
       "word": "南京师范大学涉事办公室已被查封",
@@ -1947,6 +1963,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 677912,
+      "num": 677912,
+      "word": "DeepSeek出现后学文科还有价值吗",
+      "onboard_time": 1740624439,
+      "rank": 14,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 671958,
       "num": 868523,
       "word": "单依纯胖了更有力气唱歌",
@@ -2099,14 +2123,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 638745,
-      "num": 638745,
-      "word": "怀孕遭辞退老师未签合同有五险",
-      "onboard_time": 1740626120,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 638040,
       "num": 638040,
       "word": "网恋2个月后发现女友是AI",
@@ -2251,6 +2267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 599433,
+      "num": 599433,
+      "word": "曾求助过蔡磊的98年渐冻症女孩去世",
+      "onboard_time": 1740626359,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 597106,
       "num": 597106,
       "word": "IU美得不知今夕是何年",
@@ -2369,6 +2393,14 @@
       "onboard_time": 1740302659,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 574105,
+      "num": 574105,
+      "word": "奚梦瑶重返T台走秀",
+      "onboard_time": 1740627020,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 572357,
@@ -2691,6 +2723,14 @@
       "category": "民生新闻,电影"
     },
     {
+      "raw_hot": 514252,
+      "num": 514252,
+      "word": "我国牵头制定养老机器人国际标准",
+      "onboard_time": 1740625519,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 513707,
       "num": 513707,
       "word": "被王楚钦的庆祝动作硬控了",
@@ -2737,6 +2777,14 @@
       "onboard_time": 1740317961,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 507736,
+      "num": 507736,
+      "word": "哪吒2已做好台湾上映一切准备",
+      "onboard_time": 1740629120,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 507687,
@@ -3195,6 +3243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 433782,
+      "num": 433782,
+      "word": "胡兵49岁身高又长了1厘米",
+      "onboard_time": 1740626780,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 433540,
       "num": 433540,
       "word": "孙丞潇自曝焦虑到要吃药",
@@ -3203,28 +3259,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 433186,
-      "num": 433186,
-      "word": "DeepSeek出现后学文科还有价值吗",
-      "onboard_time": 1740624439,
-      "rank": 14,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 432798,
-      "num": 284249,
+      "num": 291634,
       "word": "七星连珠",
       "onboard_time": 1740622279,
       "rank": 30,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 432574,
-      "num": 432574,
-      "word": "曾求助过蔡磊的98年渐冻症女孩去世",
-      "onboard_time": 1740626359,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 432370,
@@ -3819,12 +3859,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 357459,
-      "num": 357459,
-      "word": "我国牵头制定养老机器人国际标准",
-      "onboard_time": 1740625519,
-      "rank": 45,
-      "category": "国内时政"
+      "raw_hot": 357450,
+      "num": 357450,
+      "word": "樊振东距离霉霉又近了一步",
+      "onboard_time": 1740629241,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 355876,
@@ -4009,6 +4049,14 @@
       "onboard_time": 1740291319,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 337699,
+      "num": 337699,
+      "word": "蒋奇明张艺凡雨夜私奔芭莎大片",
+      "onboard_time": 1740628760,
+      "rank": 17,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 333348,
@@ -4201,14 +4249,6 @@
       "onboard_time": 1740549259,
       "rank": 17,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 313744,
-      "num": 313744,
-      "word": "奚梦瑶重返T台走秀",
-      "onboard_time": 1740627020,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 313645,
@@ -4747,6 +4787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 280732,
+      "num": 280732,
+      "word": "Fendi 中国结",
+      "onboard_time": 1740629598,
+      "rank": 23,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 280070,
       "num": 280070,
       "word": "浙江人实现一户一雪人",
@@ -4865,6 +4913,14 @@
       "onboard_time": 1740570980,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 268227,
+      "num": 268227,
+      "word": "乒羽中心谴责侮辱中国运动员言行",
+      "onboard_time": 1740628100,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 267919,
@@ -5097,14 +5153,6 @@
       "onboard_time": 1740543202,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 251310,
-      "num": 251310,
-      "word": "胡兵49岁身高又长了1厘米",
-      "onboard_time": 1740626780,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 251306,
@@ -5601,14 +5649,6 @@
       "onboard_time": 1740283999,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 229482,
-      "num": 229482,
-      "word": "奔驰裁员",
-      "onboard_time": 1740626780,
-      "rank": 41,
-      "category": "汽车"
     },
     {
       "raw_hot": 229363,
@@ -6251,6 +6291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 208639,
+      "num": 208639,
+      "word": "奔驰中国裁员赔偿N加9",
+      "onboard_time": 1740630441,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 208353,
       "num": 271876,
       "word": "封神2票房超12亿",
@@ -6417,6 +6465,14 @@
       "onboard_time": 1740387621,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204739,
+      "num": 204739,
+      "word": "小米股价大跌超8%",
+      "onboard_time": 1740629899,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 204510,
@@ -6681,6 +6737,14 @@
       "onboard_time": 1740626061,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 197485,
+      "num": 197485,
+      "word": "涵艺怒斥Bin",
+      "onboard_time": 1740626898,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 197423,
@@ -6985,6 +7049,14 @@
       "onboard_time": 1740576860,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191838,
+      "num": 191838,
+      "word": "接电话后手机突然黑屏不听使唤",
+      "onboard_time": 1740627981,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191670,
@@ -7875,6 +7947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175043,
+      "num": 193647,
+      "word": "白鹿多起名誉权维权案将开庭",
+      "onboard_time": 1740627081,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174878,
       "num": 174878,
       "word": "金智秀和男粉丝互戴戒指",
@@ -8011,6 +8091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 172718,
+      "num": 268493,
+      "word": "有种熟人成为首富的感觉",
+      "onboard_time": 1740627199,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 172320,
       "num": 172320,
       "word": "欧豪新剧是同桌型竹马",
@@ -8041,6 +8129,14 @@
       "onboard_time": 1740531979,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171312,
+      "num": 171312,
+      "word": "李现现偶男主该有的样子",
+      "onboard_time": 1740629960,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 171058,
@@ -8611,6 +8707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162494,
+      "num": 267702,
+      "word": "银行土银行水遭年轻人疯抢",
+      "onboard_time": 1740627439,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162373,
       "num": 487886,
       "word": "杨紫首谈置顶自己",
@@ -8705,14 +8809,6 @@
       "onboard_time": 1740298459,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 160961,
-      "num": 160961,
-      "word": "白鹿多起名誉权维权案将开庭",
-      "onboard_time": 1740627081,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 160902,
@@ -9635,6 +9731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144435,
+      "num": 144435,
+      "word": "奔驰或在全球范围裁员2万人",
+      "onboard_time": 1740630381,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 143806,
       "num": 143806,
       "word": "外国人演我见到肖战",
@@ -9673,14 +9777,6 @@
       "onboard_time": 1740381259,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 143095,
-      "num": 143095,
-      "word": "涵艺怒斥Bin",
-      "onboard_time": 1740626898,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 143029,
@@ -11091,6 +11187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110488,
+      "num": 141387,
+      "word": "从养儿防老到养老防儿养老理念变了",
+      "onboard_time": 1740628339,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110400,
       "num": 135479,
       "word": "万吨大驱开炮瞬间大片感拉满",
@@ -11499,20 +11603,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 96465,
-      "num": 267702,
-      "word": "银行土银行水遭年轻人疯抢",
-      "onboard_time": 1740627439,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 96449,
       "num": 96449,
       "word": "陈立农演唱会嘉宾杨丞琳",
       "onboard_time": 1740236421,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 96384,
+      "num": 250107,
+      "word": "我不想再被二手烟腌制入味了",
+      "onboard_time": 1740630260,
+      "rank": 25,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 96288,
@@ -11553,6 +11657,14 @@
       "onboard_time": 1740546139,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 95303,
+      "num": 281110,
+      "word": "在米兰遇小偷摸包游客发声",
+      "onboard_time": 1740628940,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94431,
@@ -11867,6 +11979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84499,
+      "num": 206528,
+      "word": "于正总结古装剧四大经验",
+      "onboard_time": 1740630140,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84307,
       "num": 84307,
       "word": "医生谈女子用土方敷脚被染色",
@@ -11889,6 +12009,14 @@
       "onboard_time": 1740579982,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 83469,
+      "num": 176606,
+      "word": "linglingkwong",
+      "onboard_time": 1740630441,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 83366,
@@ -12843,14 +12971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 53390,
-      "num": 268493,
-      "word": "有种熟人成为首富的感觉",
-      "onboard_time": 1740627199,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 53276,
       "num": 379211,
       "word": "AI虽有大用看病还得靠医生",
@@ -12953,6 +13073,14 @@
       "onboard_time": 1740282199,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 50958,
+      "num": 208825,
+      "word": "官方回应老师带儿子闯教室殴打学生",
+      "onboard_time": 1740630200,
+      "rank": 29,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 50023,
@@ -13348,7 +13476,7 @@
     },
     {
       "raw_hot": 37645,
-      "num": 771371,
+      "num": 851811,
       "word": "春耕农忙正当时",
       "onboard_time": 1740575240,
       "rank": 2,
@@ -13576,6 +13704,14 @@
       "word": "过去三年俄乌战场态势有何变化",
       "onboard_time": 1740241039,
       "rank": 31,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 31541,
+      "num": 402997,
+      "word": "泽连斯基希望美国不要停止对乌援助",
+      "onboard_time": 1740629598,
+      "rank": 14,
       "category": "国际时政"
     },
     {
@@ -14854,6 +14990,9 @@
     },
     {
       "word": "#让民营企业心无旁骛谋发展#"
+    },
+    {
+      "word": "#总书记强调打好关键核心技术攻坚战#"
     }
   ]
 }
