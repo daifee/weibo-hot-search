@@ -1,0 +1,410 @@
+{
+  "runTime": 1740620720657,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2125389,
+        "num": 2125389,
+        "word": "香港全体公务员冻薪",
+        "onboard_time": 1740617838,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 961659,
+        "num": 961659,
+        "word": "大学老师说AI作文全判0分",
+        "onboard_time": 1740593414,
+        "rank": 1,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 33261,
+        "num": 766522,
+        "word": "春耕农忙正当时",
+        "onboard_time": 1740575240,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 696259,
+        "num": 696259,
+        "word": "王楚钦想不通为何球板被踩断",
+        "onboard_time": 1740617240,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 662866,
+        "num": 662866,
+        "word": "绯闻女孩乔治娜演员去世",
+        "onboard_time": 1740614478,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419311,
+        "num": 419311,
+        "word": "戴墨镜真的能快速提高颜值",
+        "onboard_time": 1740583579,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 405178,
+        "num": 405178,
+        "word": "日本米价暴涨90%引发民众愤怒",
+        "onboard_time": 1740614539,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 368036,
+        "num": 368036,
+        "word": "代露娃韩孝周同框",
+        "onboard_time": 1740613156,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298656,
+        "num": 298656,
+        "word": "单依纯胖了更有力气唱歌",
+        "onboard_time": 1740581839,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276801,
+        "num": 276801,
+        "word": "吒儿继续一亿一亿往上冲",
+        "onboard_time": 1740572540,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 733119,
+        "num": 274916,
+        "word": "贾静雯大女儿梧桐妹回怼继父",
+        "onboard_time": 1740584240,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 561907,
+        "num": 273491,
+        "word": "女生称面试王安宇新剧电动车被聘了",
+        "onboard_time": 1740583639,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 508460,
+        "num": 270851,
+        "word": "首尔街头偶遇李现逛街",
+        "onboard_time": 1740617120,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367188,
+        "num": 269102,
+        "word": "曝赵露思将离开银河酷娱",
+        "onboard_time": 1740612436,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197874,
+        "num": 267583,
+        "word": "美情报人员被爆色情聊天",
+        "onboard_time": 1740617838,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 265799,
+        "num": 265799,
+        "word": "特朗普称欧盟占美国便宜",
+        "onboard_time": 1740615919,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 257646,
+        "num": 257646,
+        "word": "六姊妹 辣目洋子",
+        "onboard_time": 1740581001,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244977,
+        "num": 244977,
+        "word": "北上导演因白鹿太漂亮有过顾虑",
+        "onboard_time": 1740575720,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207865,
+        "num": 207865,
+        "word": "老总震惊主播月销量顶传统集团一年",
+        "onboard_time": 1740615199,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189395,
+        "num": 189395,
+        "word": "侄子代办丧事花光老人23万遗产被告",
+        "onboard_time": 1740612795,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293281,
+        "num": 189127,
+        "word": "印度两女子欲用行李箱抛尸被逮捕",
+        "onboard_time": 1740616218,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 273523,
+        "num": 189064,
+        "word": "专家说孕妇要像减脂期一样吃饭",
+        "onboard_time": 1740618740,
+        "rank": 21,
+        "category": "母婴育儿,健康医疗"
+      },
+      {
+        "raw_hot": 190622,
+        "num": 189042,
+        "word": "前男友用牙签抠走女子存钱罐3000多元",
+        "onboard_time": 1740565760,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188820,
+        "num": 188820,
+        "word": "白宫确认美政府效率部正式负责人",
+        "onboard_time": 1740612436,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 88512,
+        "num": 176259,
+        "word": "芈月新皮肤瑰影绮梦",
+        "onboard_time": 1740616279,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174938,
+        "num": 174938,
+        "word": "乌克兰和美国已定矿产协议最终版本",
+        "onboard_time": 1740570439,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 165995,
+        "num": 165995,
+        "word": "苏见信说哪吒3可以找他",
+        "onboard_time": 1740620180,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 84662,
+        "num": 154248,
+        "word": "乌方将向美乌基金缴纳矿产收入的50%",
+        "onboard_time": 1740613517,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 150791,
+        "num": 153506,
+        "word": "王鸥捂嘴大张伟",
+        "onboard_time": 1740619400,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144886,
+        "num": 153084,
+        "word": "美国队长4票房破亿",
+        "onboard_time": 1740583879,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152970,
+        "num": 152970,
+        "word": "蛇年正月最后一天",
+        "onboard_time": 1740612795,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147642,
+        "num": 147642,
+        "word": "中国男子在韩国交易加密货币被劫杀",
+        "onboard_time": 1740581839,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 146698,
+        "num": 146698,
+        "word": "每年因乳腺癌死亡的人数将增加68%",
+        "onboard_time": 1740577761,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143976,
+        "num": 143976,
+        "word": "100天后高考",
+        "onboard_time": 1740591015,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 140220,
+        "num": 140220,
+        "word": "钟楚曦走秀",
+        "onboard_time": 1740619519,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 133998,
+        "num": 133998,
+        "word": "存款利息低DeepSeek建议钱往哪里放",
+        "onboard_time": 1740573619,
+        "rank": 35,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 130477,
+        "num": 130477,
+        "word": "乌克兰与美国矿产协议全文",
+        "onboard_time": 1740613398,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126057,
+        "num": 126057,
+        "word": "爱你 紫苏叶包烤肉",
+        "onboard_time": 1740609133,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94413,
+        "num": 109617,
+        "word": "驻米兰总领馆提醒游客加强安全防范",
+        "onboard_time": 1740620479,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 108829,
+        "num": 108829,
+        "word": "李诚儒真实",
+        "onboard_time": 1740617539,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105834,
+        "num": 105834,
+        "word": "看得出迪丽热巴刘宇宁推理得很激烈",
+        "onboard_time": 1740578420,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101204,
+        "num": 101204,
+        "word": "唐嫣压轴走秀",
+        "onboard_time": 1740579141,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 99546,
+        "num": 99546,
+        "word": "李一桐神女",
+        "onboard_time": 1740581240,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99432,
+        "num": 99432,
+        "word": "女子辱骂冲撞交警被刑拘",
+        "onboard_time": 1740606612,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76405,
+        "num": 96200,
+        "word": "容貌焦虑已经过时了吗",
+        "onboard_time": 1740620659,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94895,
+        "num": 94895,
+        "word": "叶挺将军之子叶正光先生逝世",
+        "onboard_time": 1740620118,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 94237,
+        "num": 94237,
+        "word": "Bin",
+        "onboard_time": 1740571099,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 94071,
+        "num": 94071,
+        "word": "关晓彤新片出品人是邓超",
+        "onboard_time": 1740565519,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 89444,
+        "num": 89444,
+        "word": "我家那小子",
+        "onboard_time": 1740617600,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 87570,
+        "num": 87570,
+        "word": "张康乐 马柏全",
+        "onboard_time": 1740581301,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#让民营企业心无旁骛谋发展#"
+    }
+  }
+}
