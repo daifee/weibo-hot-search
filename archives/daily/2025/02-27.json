@@ -1,7 +1,15 @@
 {
   "startTime": 1740587402639,
-  "endTime": 1740661224648,
+  "endTime": 1740663025364,
   "band_list": [
+    {
+      "raw_hot": 2231722,
+      "num": 421528,
+      "word": "接吻超58小时破纪录夫妇宣布分手",
+      "onboard_time": 1740655519,
+      "rank": 20,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 2180306,
       "num": 523433,
@@ -35,20 +43,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 2050494,
-      "num": 309151,
-      "word": "接吻超58小时破纪录夫妇宣布分手",
-      "onboard_time": 1740655519,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1980318,
       "num": 1980318,
       "word": "Fendi回应中国结争议",
       "onboard_time": 1740634938,
       "rank": 0,
       "category": "民生新闻,时尚"
+    },
+    {
+      "raw_hot": 1934792,
+      "num": 1934792,
+      "word": "小米15ultra价格",
+      "onboard_time": 1740658400,
+      "rank": 8,
+      "category": "数码"
     },
     {
       "raw_hot": 1778697,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 1425552,
-      "num": 324797,
+      "num": 332958,
       "word": "周扬青自曝新恋情见光死",
       "onboard_time": 1740644239,
       "rank": 15,
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 1417785,
-      "num": 329641,
+      "num": 388221,
       "word": "韩佳人自曝曾一年内流产三次",
       "onboard_time": 1740646580,
       "rank": 11,
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 1375528,
-      "num": 516085,
+      "num": 901323,
       "word": "女子嫌金价太高在家自制金戒指",
       "onboard_time": 1740656599,
       "rank": 3,
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 1329386,
-      "num": 333955,
+      "num": 334398,
       "word": "婚房7年没住被小区保洁换锁养鸡",
       "onboard_time": 1740653418,
       "rank": 10,
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 1268856,
-      "num": 331892,
+      "num": 420059,
       "word": "薛小婉怒斥韩安冉",
       "onboard_time": 1740651259,
       "rank": 16,
@@ -243,6 +251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 900933,
+      "num": 900933,
+      "word": "雷军夸保时捷",
+      "onboard_time": 1740660319,
+      "rank": 9,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 806684,
       "num": 322691,
       "word": "IU车银优同框",
@@ -265,6 +281,14 @@
       "onboard_time": 1740626780,
       "rank": 41,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 766573,
+      "num": 766573,
+      "word": "长沙一32层居民楼承重墙被装修误拆",
+      "onboard_time": 1740657980,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 755330,
@@ -460,7 +484,7 @@
     },
     {
       "raw_hot": 579207,
-      "num": 305007,
+      "num": 392303,
       "word": "章若楠追星周杰伦成功",
       "onboard_time": 1740652698,
       "rank": 41,
@@ -555,14 +579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 484550,
-      "num": 484550,
-      "word": "小米15ultra价格",
-      "onboard_time": 1740658400,
-      "rank": 8,
-      "category": "数码"
-    },
-    {
       "raw_hot": 475722,
       "num": 432022,
       "word": "薛之谦不敢相信吉克隽逸肤色这么漂亮",
@@ -580,7 +596,7 @@
     },
     {
       "raw_hot": 463075,
-      "num": 322499,
+      "num": 399337,
       "word": "老人退休金9000多元家中却垃圾成山",
       "onboard_time": 1740654739,
       "rank": 36,
@@ -643,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 429107,
+      "num": 429107,
+      "word": "小米SU7Ultra",
+      "onboard_time": 1740662481,
+      "rank": 7,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 420010,
       "num": 274409,
       "word": "难哄断更",
@@ -700,7 +724,7 @@
     },
     {
       "raw_hot": 386390,
-      "num": 386390,
+      "num": 416423,
       "word": "TVB三部热播剧停播为哪吒1让路",
       "onboard_time": 1740650478,
       "rank": 25,
@@ -772,7 +796,7 @@
     },
     {
       "raw_hot": 335114,
-      "num": 335114,
+      "num": 411418,
       "word": "吴越辟谣与赵文瑄恋情",
       "onboard_time": 1740656839,
       "rank": 7,
@@ -851,14 +875,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 305577,
-      "num": 305577,
-      "word": "雷军夸保时捷",
-      "onboard_time": 1740660319,
-      "rank": 9,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 305361,
       "num": 279853,
       "word": "张萌孟子义米兰吃火锅",
@@ -899,12 +915,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 288336,
+      "num": 405932,
+      "word": "EDG击败T1晋级胜决",
+      "onboard_time": 1740661939,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 288184,
       "num": 263355,
       "word": "玱玹不敢吻似锦处处吻",
       "onboard_time": 1740638899,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 288158,
+      "num": 288158,
+      "word": "俄美已准备好重新建立合作关系",
+      "onboard_time": 1740661519,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 284529,
@@ -921,6 +953,22 @@
       "onboard_time": 1740584600,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 282090,
+      "num": 282090,
+      "word": "小米中央空调",
+      "onboard_time": 1740661642,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 276559,
+      "num": 276559,
+      "word": "小米SU7Ultra定价52.99万元",
+      "onboard_time": 1740662900,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 268227,
@@ -961,6 +1009,14 @@
       "onboard_time": 1740645497,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 258995,
+      "num": 258995,
+      "word": "小米耳机",
+      "onboard_time": 1740661760,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 246232,
@@ -1009,6 +1065,22 @@
       "onboard_time": 1740606612,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 233258,
+      "num": 233258,
+      "word": "李维嘉这辈子有为王栎鑫拼过命",
+      "onboard_time": 1740661820,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 230637,
+      "num": 230637,
+      "word": "赵露思新头像寓意",
+      "onboard_time": 1740657199,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 229295,
@@ -1083,14 +1155,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 214398,
-      "num": 202789,
-      "word": "赵露思新头像寓意",
-      "onboard_time": 1740657199,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 214061,
       "num": 214061,
       "word": "滤镜",
@@ -1115,6 +1179,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 208475,
+      "num": 412261,
+      "word": "创始人回应月薪5千不要吃巴奴言论",
+      "onboard_time": 1740656540,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208353,
       "num": 271876,
       "word": "封神2票房超12亿",
@@ -1128,14 +1200,6 @@
       "word": "老总震惊主播月销量顶传统集团一年",
       "onboard_time": 1740615199,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 205596,
-      "num": 300338,
-      "word": "长沙一32层居民楼承重墙被装修误拆",
-      "onboard_time": 1740657980,
-      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -1169,6 +1233,14 @@
       "onboard_time": 1740636677,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201503,
+      "num": 304604,
+      "word": "TES晋级决赛",
+      "onboard_time": 1740660558,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 200254,
@@ -1411,6 +1483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175753,
+      "num": 175753,
+      "word": "李嘉琦六姊妹杀青长文",
+      "onboard_time": 1740656417,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175333,
       "num": 225687,
       "word": "朱志鑫串门苏新皓一键跟随",
@@ -1499,6 +1579,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 166558,
+      "num": 166558,
+      "word": "无畏契约",
+      "onboard_time": 1740662121,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 165239,
       "num": 230586,
       "word": "KSG 古老的阵容",
@@ -1579,27 +1667,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160038,
-      "num": 160038,
-      "word": "创始人回应月薪5千不要吃巴奴言论",
-      "onboard_time": 1740656540,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 158434,
       "num": 230215,
       "word": "疑似桐华说出了心里话",
       "onboard_time": 1740644419,
       "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 157881,
-      "num": 157881,
-      "word": "李嘉琦六姊妹杀青长文",
-      "onboard_time": 1740656417,
-      "rank": 36,
       "category": "剧集"
     },
     {
@@ -1625,6 +1697,14 @@
       "onboard_time": 1740637759,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156109,
+      "num": 156109,
+      "word": "爱你",
+      "onboard_time": 1740568460,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 153306,
@@ -1756,7 +1836,7 @@
     },
     {
       "raw_hot": 145220,
-      "num": 145220,
+      "num": 402902,
       "word": "翟潇闻直播",
       "onboard_time": 1740660138,
       "rank": 44,
@@ -1792,6 +1872,14 @@
       "word": "难哄又有新预告了",
       "onboard_time": 1740622759,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 142303,
+      "num": 394799,
+      "word": "唐九洲新剧全自动闯祸弟",
+      "onboard_time": 1740662601,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -1939,14 +2027,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 126419,
-      "num": 304604,
-      "word": "TES晋级决赛",
-      "onboard_time": 1740660558,
-      "rank": 14,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 126057,
       "num": 126057,
       "word": "爱你 紫苏叶包烤肉",
@@ -2008,14 +2088,6 @@
       "word": "爱你第6集红温了",
       "onboard_time": 1740632541,
       "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 121559,
-      "num": 121559,
-      "word": "爱你",
-      "onboard_time": 1740568460,
-      "rank": 36,
       "category": "剧集"
     },
     {
@@ -2339,6 +2411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95072,
+      "num": 407351,
+      "word": "住建局回应32层居民楼承重柱被拆",
+      "onboard_time": 1740662361,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94413,
       "num": 109617,
       "word": "驻米兰总领馆提醒游客加强安全防范",
@@ -2484,7 +2564,7 @@
     },
     {
       "raw_hot": 83101,
-      "num": 115266,
+      "num": 304236,
       "word": "高空掉落30cm螺丝刀直插男子胸腔",
       "onboard_time": 1740656059,
       "rank": 49,
@@ -2568,6 +2648,14 @@
       "word": "033号33Svan上线开打",
       "onboard_time": 1740655338,
       "rank": 24,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 66324,
+      "num": 425659,
+      "word": "TES一穿四挺进决赛",
+      "onboard_time": 1740662240,
+      "rank": 9,
       "category": "电竞"
     },
     {
@@ -2740,7 +2828,7 @@
     },
     {
       "raw_hot": 47909,
-      "num": 304893,
+      "num": 423333,
       "word": "夜神小米15Ultra真的绝了",
       "onboard_time": 1740658939,
       "rank": 12,
@@ -2985,6 +3073,14 @@
       "onboard_time": 1740586697,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18091,
+      "num": 260506,
+      "word": "哪吒炸出了多少民间高手",
+      "onboard_time": 1740662960,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 17408,
