@@ -1,6 +1,6 @@
 {
   "startTime": 1740587402639,
-  "endTime": 1740633823604,
+  "endTime": 1740634833949,
   "band_list": [
     {
       "raw_hot": 2180306,
@@ -19,7 +19,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1542780,
+      "raw_hot": 1778697,
       "num": 1542780,
       "word": "Fendi 中国结",
       "onboard_time": 1740629598,
@@ -97,6 +97,14 @@
       "onboard_time": 1740627199,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 800527,
+      "num": 419367,
+      "word": "章若楠瘦到94斤",
+      "onboard_time": 1740633559,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 779168,
@@ -251,7 +259,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 451228,
+      "raw_hot": 507616,
+      "num": 395460,
+      "word": "陈好晒备课照",
+      "onboard_time": 1740631700,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 456830,
       "num": 516572,
       "word": "小米股价大跌超8%",
       "onboard_time": 1740629899,
@@ -265,14 +281,6 @@
       "onboard_time": 1740629241,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 445262,
-      "num": 419367,
-      "word": "章若楠瘦到94斤",
-      "onboard_time": 1740633559,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 442166,
@@ -307,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 423512,
+      "num": 423512,
+      "word": "建议男性陪产假不低于30天",
+      "onboard_time": 1740632541,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 419311,
       "num": 419311,
       "word": "戴墨镜真的能快速提高颜值",
@@ -323,14 +339,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 395460,
-      "num": 395460,
-      "word": "陈好晒备课照",
-      "onboard_time": 1740631700,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 390999,
       "num": 390999,
       "word": "19岁女棋手用AI作弊禁赛8年",
@@ -345,6 +353,14 @@
       "onboard_time": 1740565519,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 376835,
+      "num": 365019,
+      "word": "沈月头像大户上新",
+      "onboard_time": 1740633619,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 368036,
@@ -451,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 273960,
+      "num": 273960,
+      "word": "医院通报医生上班玩游戏致患者排队",
+      "onboard_time": 1740633020,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 268227,
       "num": 268227,
       "word": "乒羽中心谴责侮辱中国运动员言行",
@@ -539,12 +563,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 215481,
-      "num": 215481,
-      "word": "医院通报医生上班玩游戏致患者排队",
-      "onboard_time": 1740633020,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 214061,
+      "num": 214061,
+      "word": "滤镜",
+      "onboard_time": 1740633799,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 209194,
@@ -595,6 +619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 198179,
+      "num": 198179,
+      "word": "邵雨薇否认与吴慷仁结婚",
+      "onboard_time": 1740633559,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197681,
       "num": 254573,
       "word": "特朗普让乌克兰忘了北约吧",
@@ -632,14 +664,6 @@
       "word": "linglingkwong",
       "onboard_time": 1740630441,
       "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 195078,
-      "num": 215260,
-      "word": "沈月头像大户上新",
-      "onboard_time": 1740633619,
-      "rank": 29,
       "category": "艺人"
     },
     {
@@ -705,6 +729,14 @@
       "onboard_time": 1740625699,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 180841,
+      "num": 180841,
+      "word": "檀健次宋雨琦宋慧乔方灿G社生图",
+      "onboard_time": 1740633738,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 179787,
@@ -891,14 +923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142446,
-      "num": 142446,
-      "word": "邵雨薇否认与吴慷仁结婚",
-      "onboard_time": 1740633559,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 139197,
       "num": 139197,
       "word": "看得出迪丽热巴刘宇宁推理得很激烈",
@@ -923,20 +947,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 134490,
+      "num": 162302,
+      "word": "特朗普发布AI生成加沙视频",
+      "onboard_time": 1740632783,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 133566,
       "num": 133566,
       "word": "种地吧",
       "onboard_time": 1740625220,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 131477,
-      "num": 131477,
-      "word": "滤镜",
-      "onboard_time": 1740633799,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 130477,
@@ -947,20 +971,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 130161,
+      "num": 130161,
+      "word": "哪吒",
+      "onboard_time": 1740634458,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 130107,
       "num": 130107,
       "word": "演员请就位延播",
       "onboard_time": 1740579681,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 128582,
-      "num": 128582,
-      "word": "檀健次宋雨琦宋慧乔方灿G社生图",
-      "onboard_time": 1740633738,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 128534,
@@ -971,20 +995,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 127163,
+      "num": 405060,
+      "word": "男子参加400两日游花8千买玉镯",
+      "onboard_time": 1740632600,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126057,
       "num": 126057,
       "word": "爱你 紫苏叶包烤肉",
       "onboard_time": 1740609133,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 125445,
-      "num": 420068,
-      "word": "建议男性陪产假不低于30天",
-      "onboard_time": 1740632541,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 122261,
@@ -995,12 +1019,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121520,
+      "num": 121520,
+      "word": "代露娃粉丝做了6个小时的弓箭",
+      "onboard_time": 1740634640,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 117818,
+      "num": 117818,
+      "word": "第一次在综艺里感受到浓浓的be味儿",
+      "onboard_time": 1740634759,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115703,
       "num": 115703,
       "word": "滤镜 虐男主",
       "onboard_time": 1740581721,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115589,
+      "num": 810005,
+      "word": "国家高新区发展成绩单来了",
+      "onboard_time": 1740630740,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115116,
@@ -1017,6 +1065,14 @@
       "onboard_time": 1740622339,
       "rank": 40,
       "category": "国际时政,互联网"
+    },
+    {
+      "raw_hot": 113201,
+      "num": 113201,
+      "word": "王传君齐溪一起接女儿放学",
+      "onboard_time": 1740634039,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 110488,
@@ -1075,6 +1131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103456,
+      "num": 432699,
+      "word": "美乌最终协议是美方让步了吗",
+      "onboard_time": 1740632901,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 102785,
       "num": 102785,
       "word": "难哄豆瓣开分5.4",
@@ -1105,14 +1169,6 @@
       "onboard_time": 1740621439,
       "rank": 17,
       "category": "美食"
-    },
-    {
-      "raw_hot": 99722,
-      "num": 810005,
-      "word": "国家高新区发展成绩单来了",
-      "onboard_time": 1740630740,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 98607,
@@ -1201,6 +1257,14 @@
       "onboard_time": 1740623959,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92883,
+      "num": 166586,
+      "word": "徐若晗新剧哭戏破碎感",
+      "onboard_time": 1740633980,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 92755,
@@ -1299,14 +1363,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 74878,
-      "num": 432699,
-      "word": "美乌最终协议是美方让步了吗",
-      "onboard_time": 1740632901,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 65458,
       "num": 102332,
       "word": "王楚钦不是为了谁的声音打乒乓球",
@@ -1353,14 +1409,6 @@
       "onboard_time": 1740611836,
       "rank": 41,
       "category": "财经"
-    },
-    {
-      "raw_hot": 55832,
-      "num": 405060,
-      "word": "男子参加400两日游花8千买玉镯",
-      "onboard_time": 1740632600,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 55214,
