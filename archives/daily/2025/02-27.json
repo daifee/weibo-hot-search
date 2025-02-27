@@ -1,6 +1,6 @@
 {
   "startTime": 1740587402639,
-  "endTime": 1740669990145,
+  "endTime": 1740670767055,
   "band_list": [
     {
       "raw_hot": 2231722,
@@ -75,20 +75,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1904012,
+      "num": 1904012,
+      "word": "哪吒2配音演员起诉配音公司",
+      "onboard_time": 1740667942,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1778697,
       "num": 1542780,
       "word": "Fendi 中国结",
       "onboard_time": 1740629598,
       "rank": 23,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 1633622,
-      "num": 1633622,
-      "word": "哪吒2配音演员起诉配音公司",
-      "onboard_time": 1740667942,
-      "rank": 0,
-      "category": "电影"
     },
     {
       "raw_hot": 1624745,
@@ -563,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 544559,
+      "num": 459405,
+      "word": "香港丁克夫妻29平的房怎么住",
+      "onboard_time": 1740664581,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 543825,
       "num": 543825,
       "word": "建议男性陪产假不低于30天",
@@ -715,6 +723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 430000,
+      "num": 430000,
+      "word": "前TVB甜妹唐宁回应满头白发",
+      "onboard_time": 1740668479,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 420010,
       "num": 274409,
       "word": "难哄断更",
@@ -753,14 +769,6 @@
       "onboard_time": 1740614539,
       "rank": 6,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 393061,
-      "num": 347457,
-      "word": "香港丁克夫妻29平的房怎么住",
-      "onboard_time": 1740664581,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 390999,
@@ -849,14 +857,6 @@
       "onboard_time": 1740642140,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 346516,
-      "num": 346516,
-      "word": "前TVB甜妹唐宁回应满头白发",
-      "onboard_time": 1740668479,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 337699,
@@ -956,7 +956,7 @@
     },
     {
       "raw_hot": 305132,
-      "num": 386350,
+      "num": 487079,
       "word": "陈昊宇米兰首秀g社生图",
       "onboard_time": 1740666019,
       "rank": 43,
@@ -1049,6 +1049,14 @@
       "onboard_time": 1740661642,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 278479,
+      "num": 242881,
+      "word": "李维嘉这辈子有为王栎鑫拼过命",
+      "onboard_time": 1740661820,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 268227,
@@ -1161,14 +1169,6 @@
       "onboard_time": 1740663381,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 233258,
-      "num": 233258,
-      "word": "李维嘉这辈子有为王栎鑫拼过命",
-      "onboard_time": 1740661820,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 230637,
@@ -1305,6 +1305,14 @@
       "onboard_time": 1740642621,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210647,
+      "num": 321997,
+      "word": "厂家回应零食主配料为福寿螺肉",
+      "onboard_time": 1740668840,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 209194,
@@ -1955,8 +1963,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155525,
+      "num": 155525,
+      "word": "sk卡卡",
+      "onboard_time": 1740670458,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 153702,
-      "num": 153702,
+      "num": 193214,
       "word": "樊振东可直接参加全运会决赛阶段单打比赛",
       "onboard_time": 1740669919,
       "rank": 39,
@@ -2001,14 +2017,6 @@
       "onboard_time": 1740641839,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151135,
-      "num": 321997,
-      "word": "厂家回应零食主配料为福寿螺肉",
-      "onboard_time": 1740668840,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 150799,
@@ -2163,6 +2171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138316,
+      "num": 138316,
+      "word": "鬼灭之刃变柱灭之刃",
+      "onboard_time": 1740669200,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 137996,
       "num": 185753,
       "word": "第五人格",
@@ -2259,14 +2275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129961,
-      "num": 129961,
-      "word": "鬼灭之刃变柱灭之刃",
-      "onboard_time": 1740669200,
-      "rank": 43,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 129703,
       "num": 261143,
       "word": "花卷猫塑自己",
@@ -2345,6 +2353,14 @@
       "onboard_time": 1740653839,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125114,
+      "num": 125114,
+      "word": "宝可梦手游新作",
+      "onboard_time": 1740670279,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 124224,
@@ -2465,6 +2481,14 @@
       "onboard_time": 1740622339,
       "rank": 40,
       "category": "国际时政,互联网"
+    },
+    {
+      "raw_hot": 113652,
+      "num": 113652,
+      "word": "全运会体测",
+      "onboard_time": 1740669860,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 113201,
@@ -2665,6 +2689,14 @@
       "onboard_time": 1740652220,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 97906,
+      "num": 97906,
+      "word": "宝可梦发布会",
+      "onboard_time": 1740669620,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 97389,
@@ -2907,6 +2939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 79403,
+      "num": 432920,
+      "word": "建议将防性侵列入中小学必修课",
+      "onboard_time": 1740669680,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78893,
       "num": 391299,
       "word": "全智贤美得好有生命力",
@@ -3107,7 +3147,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 52394,
+      "raw_hot": 53620,
       "num": 1151916,
       "word": "看AI如何助力春耕育种",
       "onboard_time": 1740668541,
@@ -3137,14 +3177,6 @@
       "onboard_time": 1740669560,
       "rank": 27,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 49364,
-      "num": 263460,
-      "word": "建议将防性侵列入中小学必修课",
-      "onboard_time": 1740669680,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 49138,
@@ -3273,6 +3305,14 @@
       "onboard_time": 1740609313,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 39198,
+      "num": 443647,
+      "word": "美国民众称特朗普卖金卡是笑话",
+      "onboard_time": 1740670218,
+      "rank": 13,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 38738,
@@ -3411,6 +3451,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 22817,
+      "num": 483650,
+      "word": "我国古代已人手中国结",
+      "onboard_time": 1740670158,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22304,
       "num": 22304,
       "word": "世界之外",
@@ -3473,6 +3521,14 @@
       "onboard_time": 1740639979,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 17299,
+      "num": 243157,
+      "word": "常德一4S店向精神病患者卖车伪造手续",
+      "onboard_time": 1740670158,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16426,
