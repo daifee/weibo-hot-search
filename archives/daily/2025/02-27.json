@@ -1,6 +1,6 @@
 {
   "startTime": 1740587402639,
-  "endTime": 1740638715094,
+  "endTime": 1740640931432,
   "band_list": [
     {
       "raw_hot": 2180306,
@@ -11,20 +11,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2171484,
+      "num": 2171484,
+      "word": "雷军喜提1小时首富体验卡",
+      "onboard_time": 1740636677,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 2157603,
       "num": 2157603,
       "word": "香港全体公务员冻薪",
       "onboard_time": 1740617838,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 2141959,
-      "num": 2141959,
-      "word": "雷军喜提1小时首富体验卡",
-      "onboard_time": 1740636677,
-      "rank": 1,
-      "category": "互联网"
     },
     {
       "raw_hot": 1980318,
@@ -83,11 +83,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1034618,
+      "num": 1034618,
+      "word": "霸王茶姬哪吒2联名",
+      "onboard_time": 1740638539,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1025550,
       "num": 1025550,
       "word": "怀孕遭辞退老师未签合同有五险",
       "onboard_time": 1740626120,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1024012,
+      "num": 439074,
+      "word": "女护士怀上58岁已婚教授孩子后勒索",
+      "onboard_time": 1740636438,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -179,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 648428,
+      "num": 362887,
+      "word": "周扬青和男嘉宾情人节约会vlog",
+      "onboard_time": 1740637399,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 632108,
       "num": 632108,
       "word": "医院通报医生上班玩游戏致患者排队",
@@ -201,14 +225,6 @@
       "onboard_time": 1740631220,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 626497,
-      "num": 439074,
-      "word": "女护士怀上58岁已婚教授孩子后勒索",
-      "onboard_time": 1740636438,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 600923,
@@ -315,20 +331,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 482047,
+      "num": 253047,
+      "word": "长沙一6岁女孩来月经",
+      "onboard_time": 1740637819,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 475722,
+      "num": 349089,
+      "word": "薛之谦不敢相信吉克隽逸肤色这么漂亮",
+      "onboard_time": 1740638899,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 456830,
       "num": 516572,
       "word": "小米股价大跌超8%",
       "onboard_time": 1740629899,
       "rank": 32,
       "category": "财经"
-    },
-    {
-      "raw_hot": 449608,
-      "num": 167708,
-      "word": "周扬青和男嘉宾情人节约会vlog",
-      "onboard_time": 1740637399,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 448525,
@@ -353,6 +377,14 @@
       "onboard_time": 1740626780,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 432998,
+      "num": 441895,
+      "word": "渐冻症女孩去世母亲想离开老家",
+      "onboard_time": 1740637637,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 432798,
@@ -393,6 +425,14 @@
       "onboard_time": 1740614539,
       "rank": 6,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 400241,
+      "num": 248221,
+      "word": "难哄断更",
+      "onboard_time": 1740638059,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 390999,
@@ -451,6 +491,14 @@
       "category": "艺人,海外新闻"
     },
     {
+      "raw_hot": 366003,
+      "num": 366003,
+      "word": "女子求复合花4万找大师给前任下情蛊",
+      "onboard_time": 1740637579,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 353124,
       "num": 353124,
       "word": "张元英粉丝暂停对接中国非头部杂志",
@@ -480,6 +528,14 @@
       "word": "檀健次宋雨琦宋慧乔方灿G社生图",
       "onboard_time": 1740633738,
       "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 307630,
+      "num": 257058,
+      "word": "我是文淇我不敢不同意开学",
+      "onboard_time": 1740639498,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -556,7 +612,7 @@
     },
     {
       "raw_hot": 244635,
-      "num": 244635,
+      "num": 284586,
       "word": "四川近200岁盐井每天产盐2000公斤",
       "onboard_time": 1740637579,
       "rank": 26,
@@ -579,20 +635,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 240201,
-      "num": 240201,
-      "word": "长沙一6岁女孩来月经",
-      "onboard_time": 1740637819,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 233870,
       "num": 233870,
       "word": "女子辱骂冲撞交警被刑拘",
       "onboard_time": 1740606612,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 232062,
+      "num": 232062,
+      "word": "玱玹不敢吻似锦处处吻",
+      "onboard_time": 1740638899,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 228991,
@@ -763,14 +819,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 191610,
-      "num": 191610,
-      "word": "难哄断更",
-      "onboard_time": 1740638059,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 190622,
       "num": 189042,
       "word": "前男友用牙签抠走女子存钱罐3000多元",
@@ -809,14 +857,6 @@
       "onboard_time": 1740582500,
       "rank": 48,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 185145,
-      "num": 441895,
-      "word": "渐冻症女孩去世母亲想离开老家",
-      "onboard_time": 1740637637,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 185043,
@@ -939,12 +979,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 165383,
-      "num": 165383,
-      "word": "女子求复合花4万找大师给前任下情蛊",
-      "onboard_time": 1740637579,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 166580,
+      "num": 225687,
+      "word": "朱志鑫串门苏新皓一键跟随",
+      "onboard_time": 1740640698,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 163126,
@@ -1043,12 +1083,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 147885,
-      "num": 147885,
-      "word": "霸王茶姬哪吒2联名",
-      "onboard_time": 1740638539,
+      "raw_hot": 149025,
+      "num": 149025,
+      "word": "陈楚生问大家都到哪里了",
+      "onboard_time": 1740640339,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 148590,
+      "num": 148590,
+      "word": "饺子导演自己配音的含金量还在上升",
+      "onboard_time": 1740638719,
       "rank": 37,
-      "category": "电影"
+      "category": "综艺"
     },
     {
       "raw_hot": 145639,
@@ -1067,12 +1115,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 143587,
+      "num": 143587,
+      "word": "周深悉尼演唱会购票排队人数破十万",
+      "onboard_time": 1740640037,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 143165,
       "num": 199261,
       "word": "难哄又有新预告了",
       "onboard_time": 1740622759,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141629,
+      "num": 141629,
+      "word": "曾孙女找太爷爷告爷爷状",
+      "onboard_time": 1740640037,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140737,
@@ -1107,12 +1171,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 133622,
+      "num": 133622,
+      "word": "胡歌洗兰花眉头紧锁但试图理解",
+      "onboard_time": 1740640398,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133566,
       "num": 133566,
       "word": "种地吧",
       "onboard_time": 1740625220,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130698,
+      "num": 130698,
+      "word": "原来羊肚菌都是狗狗找到的",
+      "onboard_time": 1740640818,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 130477,
@@ -1155,6 +1235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126698,
+      "num": 126698,
+      "word": "国补后iPhone怎么选",
+      "onboard_time": 1740639860,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 126057,
       "num": 126057,
       "word": "爱你 紫苏叶包烤肉",
@@ -1177,6 +1265,14 @@
       "onboard_time": 1740632901,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 123228,
+      "num": 123228,
+      "word": "养老机器人",
+      "onboard_time": 1740640457,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122261,
@@ -1539,6 +1635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78260,
+      "num": 211662,
+      "word": "韩国婚礼兴起自助收银机",
+      "onboard_time": 1740640037,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 76405,
       "num": 96200,
       "word": "容貌焦虑已经过时了吗",
@@ -1579,6 +1683,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 60532,
+      "num": 262639,
+      "word": "美司法部长称27日公布爱泼斯坦文件",
+      "onboard_time": 1740639919,
+      "rank": 17,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 59009,
       "num": 59009,
       "word": "翟潇闻说告白戏床塌了后全现挂",
@@ -1617,6 +1729,22 @@
       "onboard_time": 1740620780,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54148,
+      "num": 236334,
+      "word": "詹姆斯5万分伟大继续",
+      "onboard_time": 1740634697,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 52421,
+      "num": 274713,
+      "word": "唐嫣明媚大方的美",
+      "onboard_time": 1740637998,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 49061,
@@ -1707,12 +1835,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 29327,
-      "num": 145087,
-      "word": "唐嫣明媚大方的美",
-      "onboard_time": 1740637998,
-      "rank": 39,
-      "category": "艺人"
+      "raw_hot": 31412,
+      "num": 273244,
+      "word": "泽连斯基称要问特朗普三个问题",
+      "onboard_time": 1740639919,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 27682,
@@ -1721,6 +1849,14 @@
       "onboard_time": 1740612317,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 27173,
+      "num": 255091,
+      "word": "长沙女子大理旅游遭商家辱骂骚扰",
+      "onboard_time": 1740640457,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27070,
@@ -1761,6 +1897,14 @@
       "onboard_time": 1740593651,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 23340,
+      "num": 217357,
+      "word": "一米九的动漫帅哥有多帅",
+      "onboard_time": 1740630980,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 23117,
@@ -1809,6 +1953,14 @@
       "onboard_time": 1740586697,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17408,
+      "num": 123906,
+      "word": "张集骏潮汕美食vlog",
+      "onboard_time": 1740639979,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 16426,
