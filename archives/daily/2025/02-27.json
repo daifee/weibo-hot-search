@@ -1,6 +1,6 @@
 {
   "startTime": 1740587402639,
-  "endTime": 1740640931432,
+  "endTime": 1740641746885,
   "band_list": [
     {
       "raw_hot": 2180306,
@@ -83,8 +83,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1034618,
-      "num": 1034618,
+      "raw_hot": 1053374,
+      "num": 1053374,
       "word": "霸王茶姬哪吒2联名",
       "onboard_time": 1740638539,
       "rank": 37,
@@ -179,6 +179,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 671711,
+      "num": 671711,
+      "word": "女子求复合花4万找大师给前任下情蛊",
+      "onboard_time": 1740637579,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 662866,
       "num": 662866,
       "word": "绯闻女孩乔治娜演员去世",
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 648428,
-      "num": 362887,
+      "num": 648184,
       "word": "周扬青和男嘉宾情人节约会vlog",
       "onboard_time": 1740637399,
       "rank": 31,
@@ -225,6 +233,14 @@
       "onboard_time": 1740631220,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 603472,
+      "num": 603472,
+      "word": "渐冻症女孩去世母亲想离开老家",
+      "onboard_time": 1740637637,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 600923,
@@ -283,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 568234,
+      "num": 416481,
+      "word": "章若楠现在94斤",
+      "onboard_time": 1740633559,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 543825,
       "num": 543825,
       "word": "建议男性陪产假不低于30天",
@@ -297,6 +321,22 @@
       "onboard_time": 1740620118,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 514693,
+      "num": 253047,
+      "word": "长沙一6岁女孩来月经",
+      "onboard_time": 1740637819,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 514267,
+      "num": 257058,
+      "word": "我是文淇我不敢不同意开学",
+      "onboard_time": 1740639498,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 514252,
@@ -331,16 +371,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 482047,
-      "num": 253047,
-      "word": "长沙一6岁女孩来月经",
-      "onboard_time": 1740637819,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 475722,
-      "num": 349089,
+      "num": 432022,
       "word": "薛之谦不敢相信吉克隽逸肤色这么漂亮",
       "onboard_time": 1740638899,
       "rank": 7,
@@ -379,14 +411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 432998,
-      "num": 441895,
-      "word": "渐冻症女孩去世母亲想离开老家",
-      "onboard_time": 1740637637,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 432798,
       "num": 291634,
       "word": "七星连珠",
@@ -403,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 420010,
+      "num": 248221,
+      "word": "难哄断更",
+      "onboard_time": 1740638059,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 419311,
       "num": 419311,
       "word": "戴墨镜真的能快速提高颜值",
@@ -411,28 +443,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 416481,
-      "num": 416481,
-      "word": "章若楠现在94斤",
-      "onboard_time": 1740633559,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 405178,
       "num": 405178,
       "word": "日本米价暴涨90%引发民众愤怒",
       "onboard_time": 1740614539,
       "rank": 6,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 400241,
-      "num": 248221,
-      "word": "难哄断更",
-      "onboard_time": 1740638059,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 390999,
@@ -491,14 +507,6 @@
       "category": "艺人,海外新闻"
     },
     {
-      "raw_hot": 366003,
-      "num": 366003,
-      "word": "女子求复合花4万找大师给前任下情蛊",
-      "onboard_time": 1740637579,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 353124,
       "num": 353124,
       "word": "张元英粉丝暂停对接中国非头部杂志",
@@ -528,14 +536,6 @@
       "word": "檀健次宋雨琦宋慧乔方灿G社生图",
       "onboard_time": 1740633738,
       "rank": 45,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 307630,
-      "num": 257058,
-      "word": "我是文淇我不敢不同意开学",
-      "onboard_time": 1740639498,
-      "rank": 18,
       "category": "艺人"
     },
     {
@@ -635,20 +635,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 239894,
+      "num": 239894,
+      "word": "玱玹不敢吻似锦处处吻",
+      "onboard_time": 1740638899,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 233870,
       "num": 233870,
       "word": "女子辱骂冲撞交警被刑拘",
       "onboard_time": 1740606612,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 232062,
-      "num": 232062,
-      "word": "玱玹不敢吻似锦处处吻",
-      "onboard_time": 1740638899,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 228991,
@@ -883,6 +883,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 180229,
+      "num": 180229,
+      "word": "迪丽热巴双丸子头好可爱",
+      "onboard_time": 1740641237,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179787,
       "num": 179787,
       "word": "胡兵54岁状态",
@@ -915,6 +923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176525,
+      "num": 176525,
+      "word": "池约翰呼呼生女",
+      "onboard_time": 1740641060,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176185,
       "num": 176185,
       "word": "温以凡 草莓蛋糕很好吃",
@@ -929,6 +945,14 @@
       "onboard_time": 1740612015,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175333,
+      "num": 225687,
+      "word": "朱志鑫串门苏新皓一键跟随",
+      "onboard_time": 1740640698,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 175043,
@@ -977,14 +1001,6 @@
       "onboard_time": 1740631101,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 166580,
-      "num": 225687,
-      "word": "朱志鑫串门苏新皓一键跟随",
-      "onboard_time": 1740640698,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 163126,
@@ -1043,6 +1059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151651,
+      "num": 151651,
+      "word": "曾孙女找太爷爷告爷爷状",
+      "onboard_time": 1740640037,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150799,
       "num": 150799,
       "word": "奔驰或在全球范围裁员2万人",
@@ -1084,7 +1108,7 @@
     },
     {
       "raw_hot": 149025,
-      "num": 149025,
+      "num": 175615,
       "word": "陈楚生问大家都到哪里了",
       "onboard_time": 1740640339,
       "rank": 35,
@@ -1105,6 +1129,14 @@
       "onboard_time": 1740582861,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 145483,
+      "num": 145483,
+      "word": "胡歌洗兰花眉头紧锁但试图理解",
+      "onboard_time": 1740640398,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 145347,
@@ -1129,14 +1161,6 @@
       "onboard_time": 1740622759,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 141629,
-      "num": 141629,
-      "word": "曾孙女找太爷爷告爷爷状",
-      "onboard_time": 1740640037,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 140737,
@@ -1171,20 +1195,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 133622,
-      "num": 133622,
-      "word": "胡歌洗兰花眉头紧锁但试图理解",
-      "onboard_time": 1740640398,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 133566,
       "num": 133566,
       "word": "种地吧",
       "onboard_time": 1740625220,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132095,
+      "num": 132095,
+      "word": "国补后iPhone怎么选",
+      "onboard_time": 1740639860,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 130698,
@@ -1227,20 +1251,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127188,
+      "num": 127188,
+      "word": "养老机器人",
+      "onboard_time": 1740640457,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127163,
       "num": 405060,
       "word": "男子参加400两日游花8千买玉镯",
       "onboard_time": 1740632600,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 126698,
-      "num": 126698,
-      "word": "国补后iPhone怎么选",
-      "onboard_time": 1740639860,
-      "rank": 43,
-      "category": "数码"
     },
     {
       "raw_hot": 126057,
@@ -1267,14 +1291,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 123228,
-      "num": 123228,
-      "word": "养老机器人",
-      "onboard_time": 1740640457,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 122261,
       "num": 124374,
       "word": "爱你第6集红温了",
@@ -1297,6 +1313,14 @@
       "onboard_time": 1740635179,
       "rank": 48,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 115777,
+      "num": 115777,
+      "word": "特朗普称或无法促成俄乌和平",
+      "onboard_time": 1740641478,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 115703,
@@ -1345,6 +1369,14 @@
       "onboard_time": 1740636498,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111151,
+      "num": 111151,
+      "word": "相柳第三世",
+      "onboard_time": 1740641661,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 110488,
@@ -1523,6 +1555,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 93749,
+      "num": 211662,
+      "word": "韩国婚礼兴起自助收银机",
+      "onboard_time": 1740640037,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 93135,
       "num": 93135,
       "word": "杜兰特上追梦播客笑嘻了",
@@ -1579,6 +1619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86640,
+      "num": 262639,
+      "word": "美司法部长称27日公布爱泼斯坦文件",
+      "onboard_time": 1740639919,
+      "rank": 17,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 85881,
       "num": 130154,
       "word": "男子性侵未遂致人溺亡案二审将开庭",
@@ -1619,6 +1667,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 81023,
+      "num": 250290,
+      "word": "7岁女童心脏骤停路人用AED救回",
+      "onboard_time": 1740639618,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79439,
       "num": 130953,
       "word": "贺峻霖玩天凉破梗",
@@ -1635,11 +1691,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 78260,
-      "num": 211662,
-      "word": "韩国婚礼兴起自助收银机",
-      "onboard_time": 1740640037,
-      "rank": 29,
+      "raw_hot": 78075,
+      "num": 273244,
+      "word": "泽连斯基称要问特朗普三个问题",
+      "onboard_time": 1740639919,
+      "rank": 14,
       "category": "国际时政"
     },
     {
@@ -1667,6 +1723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63832,
+      "num": 274713,
+      "word": "唐嫣明媚大方的美",
+      "onboard_time": 1740637998,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 62560,
       "num": 58260,
       "word": "文淇书评",
@@ -1683,12 +1747,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 60532,
-      "num": 262639,
-      "word": "美司法部长称27日公布爱泼斯坦文件",
-      "onboard_time": 1740639919,
-      "rank": 17,
-      "category": "海外新闻"
+      "raw_hot": 59181,
+      "num": 236334,
+      "word": "詹姆斯5万分伟大继续",
+      "onboard_time": 1740634697,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 59009,
@@ -1731,20 +1795,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 54148,
-      "num": 236334,
-      "word": "詹姆斯5万分伟大继续",
-      "onboard_time": 1740634697,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 52421,
-      "num": 274713,
-      "word": "唐嫣明媚大方的美",
-      "onboard_time": 1740637998,
-      "rank": 39,
-      "category": "艺人"
+      "raw_hot": 49138,
+      "num": 255091,
+      "word": "长沙女子大理旅游遭商家辱骂骚扰",
+      "onboard_time": 1740640457,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49061,
@@ -1819,6 +1875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 38738,
+      "num": 174188,
+      "word": "哈登复刻审判之投",
+      "onboard_time": 1740636618,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37645,
       "num": 851811,
       "word": "春耕农忙正当时",
@@ -1835,12 +1899,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 31412,
-      "num": 273244,
-      "word": "泽连斯基称要问特朗普三个问题",
-      "onboard_time": 1740639919,
-      "rank": 14,
-      "category": "国际时政"
+      "raw_hot": 28081,
+      "num": 217357,
+      "word": "一米九的动漫帅哥有多帅",
+      "onboard_time": 1740630980,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 27682,
@@ -1849,14 +1913,6 @@
       "onboard_time": 1740612317,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 27173,
-      "num": 255091,
-      "word": "长沙女子大理旅游遭商家辱骂骚扰",
-      "onboard_time": 1740640457,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27070,
@@ -1897,14 +1953,6 @@
       "onboard_time": 1740593651,
       "rank": 40,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 23340,
-      "num": 217357,
-      "word": "一米九的动漫帅哥有多帅",
-      "onboard_time": 1740630980,
-      "rank": 28,
-      "category": "动漫"
     },
     {
       "raw_hot": 23117,
@@ -1956,7 +2004,7 @@
     },
     {
       "raw_hot": 17408,
-      "num": 123906,
+      "num": 168203,
       "word": "张集骏潮汕美食vlog",
       "onboard_time": 1740639979,
       "rank": 45,

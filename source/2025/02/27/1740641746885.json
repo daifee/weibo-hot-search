@@ -1,0 +1,410 @@
+{
+  "runTime": 1740641746885,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1962722,
+        "num": 1962722,
+        "word": "雷军喜提1小时首富体验卡",
+        "onboard_time": 1740636677,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1053374,
+        "num": 1053374,
+        "word": "霸王茶姬哪吒2联名",
+        "onboard_time": 1740638539,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 78817,
+        "num": 744866,
+        "word": "国家高新区发展成绩单来了",
+        "onboard_time": 1740630740,
+        "rank": 2,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 671711,
+        "num": 671711,
+        "word": "女子求复合花4万找大师给前任下情蛊",
+        "onboard_time": 1740637579,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 648184,
+        "num": 648184,
+        "word": "周扬青和男嘉宾情人节约会vlog",
+        "onboard_time": 1740637399,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 603472,
+        "num": 603472,
+        "word": "渐冻症女孩去世母亲想离开老家",
+        "onboard_time": 1740637637,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 522445,
+        "num": 522445,
+        "word": "章若楠回应外貌变化",
+        "onboard_time": 1740631160,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 432022,
+        "num": 432022,
+        "word": "薛之谦不敢相信吉克隽逸肤色这么漂亮",
+        "onboard_time": 1740638899,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273417,
+        "num": 273417,
+        "word": "医院通报医生上班玩游戏致患者排队",
+        "onboard_time": 1740633020,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255952,
+        "num": 255952,
+        "word": "我国牵头制定养老机器人国际标准",
+        "onboard_time": 1740625519,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 910797,
+        "num": 255943,
+        "word": "女护士怀上58岁已婚教授孩子后勒索",
+        "onboard_time": 1740636438,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 568234,
+        "num": 254293,
+        "word": "章若楠现在94斤",
+        "onboard_time": 1740633559,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63832,
+        "num": 252662,
+        "word": "唐嫣明媚大方的美",
+        "onboard_time": 1740637998,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 514267,
+        "num": 251584,
+        "word": "我是文淇我不敢不同意开学",
+        "onboard_time": 1740639498,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81023,
+        "num": 250290,
+        "word": "7岁女童心脏骤停路人用AED救回",
+        "onboard_time": 1740639618,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 464894,
+        "num": 248143,
+        "word": "留几手离婚搬进50平出租屋",
+        "onboard_time": 1740626359,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420010,
+        "num": 247451,
+        "word": "难哄断更",
+        "onboard_time": 1740638059,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 350179,
+        "num": 246441,
+        "word": "迪丽热巴轻轻一夹把我吊成翘嘴",
+        "onboard_time": 1740635658,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304248,
+        "num": 244597,
+        "word": "韩安冉向薛小婉道歉",
+        "onboard_time": 1740631220,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49138,
+        "num": 243451,
+        "word": "长沙女子大理旅游遭商家辱骂骚扰",
+        "onboard_time": 1740640457,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78075,
+        "num": 242201,
+        "word": "泽连斯基称要问特朗普三个问题",
+        "onboard_time": 1740639919,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 514693,
+        "num": 240157,
+        "word": "长沙一6岁女孩来月经",
+        "onboard_time": 1740637819,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239894,
+        "num": 239894,
+        "word": "玱玹不敢吻似锦处处吻",
+        "onboard_time": 1740638899,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180229,
+        "num": 180229,
+        "word": "迪丽热巴双丸子头好可爱",
+        "onboard_time": 1740641237,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86640,
+        "num": 177341,
+        "word": "美司法部长称27日公布爱泼斯坦文件",
+        "onboard_time": 1740639919,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 176525,
+        "num": 176525,
+        "word": "池约翰呼呼生女",
+        "onboard_time": 1740641060,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148551,
+        "num": 175615,
+        "word": "陈楚生问大家都到哪里了",
+        "onboard_time": 1740640339,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175333,
+        "num": 175333,
+        "word": "朱志鑫串门苏新皓一键跟随",
+        "onboard_time": 1740640698,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38738,
+        "num": 174188,
+        "word": "哈登复刻审判之投",
+        "onboard_time": 1740636618,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93749,
+        "num": 170621,
+        "word": "韩国婚礼兴起自助收银机",
+        "onboard_time": 1740640037,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15728,
+        "num": 168203,
+        "word": "张集骏潮汕美食vlog",
+        "onboard_time": 1740639979,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 661292,
+        "num": 165406,
+        "word": "Fendi回应中国结争议",
+        "onboard_time": 1740634938,
+        "rank": 31,
+        "category": "民生新闻,时尚"
+      },
+      {
+        "raw_hot": 239654,
+        "num": 162027,
+        "word": "奔驰中国裁员赔偿N加9",
+        "onboard_time": 1740630441,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 178808,
+        "num": 158321,
+        "word": "奔驰裁员",
+        "onboard_time": 1740626780,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 158213,
+        "num": 158213,
+        "word": "建议男性陪产假不低于30天",
+        "onboard_time": 1740632541,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151651,
+        "num": 151651,
+        "word": "曾孙女找太爷爷告爷爷状",
+        "onboard_time": 1740640037,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151036,
+        "num": 151036,
+        "word": "曾求助过蔡磊的98年渐冻症女孩去世",
+        "onboard_time": 1740626359,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145483,
+        "num": 145483,
+        "word": "胡歌洗兰花眉头紧锁但试图理解",
+        "onboard_time": 1740640398,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142802,
+        "num": 142802,
+        "word": "蔡徐坤 CT",
+        "onboard_time": 1740631101,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135923,
+        "num": 135923,
+        "word": "四川近200岁盐井每天产盐2000公斤",
+        "onboard_time": 1740637579,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28081,
+        "num": 133867,
+        "word": "一米九的动漫帅哥有多帅",
+        "onboard_time": 1740630980,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 132095,
+        "num": 132095,
+        "word": "国补后iPhone怎么选",
+        "onboard_time": 1740639860,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 131305,
+        "num": 131305,
+        "word": "饺子导演自己配音的含金量还在上升",
+        "onboard_time": 1740638719,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129960,
+        "num": 129960,
+        "word": "沈月头像大户上新",
+        "onboard_time": 1740633619,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127188,
+        "num": 127188,
+        "word": "养老机器人",
+        "onboard_time": 1740640457,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126425,
+        "num": 126425,
+        "word": "原来羊肚菌都是狗狗找到的",
+        "onboard_time": 1740640818,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 59181,
+        "num": 124197,
+        "word": "詹姆斯5万分伟大继续",
+        "onboard_time": 1740634697,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123415,
+        "num": 123415,
+        "word": "田曦薇让王鹤棣替临安公主吃好喝好",
+        "onboard_time": 1740637520,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115777,
+        "num": 115777,
+        "word": "特朗普称或无法促成俄乌和平",
+        "onboard_time": 1740641478,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111151,
+        "num": 111151,
+        "word": "相柳第三世",
+        "onboard_time": 1740641661,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋进的春天#"
+    }
+  }
+}
