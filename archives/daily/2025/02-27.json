@@ -1,6 +1,6 @@
 {
   "startTime": 1740587402639,
-  "endTime": 1740655190578,
+  "endTime": 1740656170780,
   "band_list": [
     {
       "raw_hot": 2180306,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1417785,
-      "num": 326109,
+      "num": 329641,
       "word": "韩佳人自曝曾一年内流产三次",
       "onboard_time": 1740646580,
       "rank": 11,
@@ -107,6 +107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1329386,
+      "num": 333955,
+      "word": "婚房7年没住被小区保洁换锁养鸡",
+      "onboard_time": 1740653418,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1320459,
       "num": 1320459,
       "word": "雷军身家超钟睒睒登顶中国首富",
@@ -116,19 +124,11 @@
     },
     {
       "raw_hot": 1268856,
-      "num": 317606,
+      "num": 331892,
       "word": "薛小婉怒斥韩安冉",
       "onboard_time": 1740651259,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1184355,
-      "num": 310830,
-      "word": "婚房7年没住被小区保洁换锁养鸡",
-      "onboard_time": 1740653418,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1135494,
@@ -211,8 +211,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 888731,
-      "num": 888731,
+      "raw_hot": 925175,
+      "num": 925175,
       "word": "周雨彤回应辞职发疯戏",
       "onboard_time": 1740651439,
       "rank": 27,
@@ -299,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 665899,
+      "num": 665899,
+      "word": "小米双Ultra",
+      "onboard_time": 1740653720,
+      "rank": 6,
+      "category": "数码"
+    },
+    {
       "raw_hot": 662866,
       "num": 662866,
       "word": "绯闻女孩乔治娜演员去世",
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 642849,
-      "num": 304811,
+      "num": 326782,
       "word": "男子花光27万货款打赏主播被赶出家门",
       "onboard_time": 1740651919,
       "rank": 19,
@@ -361,6 +369,14 @@
       "onboard_time": 1740631220,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 608172,
+      "num": 608172,
+      "word": "罗大美遇害现场曝光",
+      "onboard_time": 1740652939,
+      "rank": 20,
+      "category": "民生新闻,剧集"
     },
     {
       "raw_hot": 603472,
@@ -507,14 +523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 497218,
-      "num": 497218,
-      "word": "小米双Ultra",
-      "onboard_time": 1740653720,
-      "rank": 6,
-      "category": "数码"
-    },
-    {
       "raw_hot": 486833,
       "num": 486833,
       "word": "迪丽热巴轻轻一夹把我吊成翘嘴",
@@ -545,6 +553,14 @@
       "onboard_time": 1740629899,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 452104,
+      "num": 309151,
+      "word": "接吻超58小时破纪录夫妇宣布分手",
+      "onboard_time": 1740655519,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 448950,
@@ -651,6 +667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 386390,
+      "num": 386390,
+      "word": "TVB三部热播剧停播为哪吒1让路",
+      "onboard_time": 1740650478,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 376835,
       "num": 365019,
       "word": "沈月头像大户上新",
@@ -691,14 +715,6 @@
       "category": "艺人,海外新闻"
     },
     {
-      "raw_hot": 353634,
-      "num": 353634,
-      "word": "TVB三部热播剧停播为哪吒1让路",
-      "onboard_time": 1740650478,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 353124,
       "num": 353124,
       "word": "张元英粉丝暂停对接中国非头部杂志",
@@ -729,6 +745,14 @@
       "onboard_time": 1740645618,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 322499,
+      "num": 322499,
+      "word": "老人退休金9000多元家中却垃圾成山",
+      "onboard_time": 1740654739,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 322461,
@@ -779,6 +803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 307430,
+      "num": 307430,
+      "word": "花几十元可伪造考研成绩",
+      "onboard_time": 1740651919,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 297473,
       "num": 297473,
       "word": "吒儿继续一亿一亿往上冲",
@@ -793,14 +825,6 @@
       "onboard_time": 1740616218,
       "rank": 20,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 292509,
-      "num": 292509,
-      "word": "罗大美遇害现场曝光",
-      "onboard_time": 1740652939,
-      "rank": 20,
-      "category": "民生新闻,剧集"
     },
     {
       "raw_hot": 290001,
@@ -915,6 +939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 237305,
+      "num": 310541,
+      "word": "权志龙打歌舞台",
+      "onboard_time": 1740654140,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 233870,
       "num": 233870,
       "word": "女子辱骂冲撞交警被刑拘",
@@ -955,6 +987,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 223180,
+      "num": 314055,
+      "word": "不追内娱的年轻人沉迷地下偶像",
+      "onboard_time": 1740647658,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223078,
       "num": 223078,
       "word": "樊振东和黄老板打乒乓球",
@@ -987,20 +1027,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209356,
-      "num": 314055,
-      "word": "不追内娱的年轻人沉迷地下偶像",
-      "onboard_time": 1740647658,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 209194,
       "num": 209194,
       "word": "文科教授谈AI加速文科之死",
       "onboard_time": 1740625879,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 208479,
+      "num": 208479,
+      "word": "章若楠追星周杰伦成功",
+      "onboard_time": 1740652698,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 208353,
@@ -1019,14 +1059,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 204937,
-      "num": 204937,
-      "word": "权志龙打歌舞台",
-      "onboard_time": 1740654140,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 204873,
       "num": 204873,
       "word": "肖指导打了7针封闭",
@@ -1041,6 +1073,14 @@
       "onboard_time": 1740623120,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 202226,
+      "num": 202226,
+      "word": "李羲承机场新闻图",
+      "onboard_time": 1740655338,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 201713,
@@ -1105,14 +1145,6 @@
       "onboard_time": 1740626898,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 197182,
-      "num": 197182,
-      "word": "章若楠追星周杰伦成功",
-      "onboard_time": 1740652698,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 197175,
@@ -1371,6 +1403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167901,
+      "num": 167901,
+      "word": "如鸢",
+      "onboard_time": 1740655519,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 167317,
       "num": 167317,
       "word": "张馨予身上好多花儿",
@@ -1385,6 +1425,14 @@
       "onboard_time": 1740653959,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 164579,
+      "num": 164579,
+      "word": "龚俊好清爽的帅",
+      "onboard_time": 1740655639,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 164523,
@@ -1408,14 +1456,6 @@
       "word": "银行土银行水遭年轻人疯抢",
       "onboard_time": 1740627439,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 161974,
-      "num": 161974,
-      "word": "老人退休金9000多元家中却垃圾成山",
-      "onboard_time": 1740654739,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -1473,6 +1513,14 @@
       "onboard_time": 1740630260,
       "rank": 25,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 152512,
+      "num": 152512,
+      "word": "JDG常规赛开门红",
+      "onboard_time": 1740655519,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 152052,
@@ -1547,6 +1595,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 148888,
+      "num": 148888,
+      "word": "张康乐直播",
+      "onboard_time": 1740655697,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148590,
       "num": 148590,
       "word": "饺子导演自己配音的含金量还在上升",
@@ -1577,6 +1633,14 @@
       "onboard_time": 1740637158,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 144863,
+      "num": 144863,
+      "word": "关晓彤新片杀青后无缝进组年代剧",
+      "onboard_time": 1740655278,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 143587,
@@ -1643,7 +1707,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 136465,
+      "raw_hot": 137264,
       "num": 296252,
       "word": "张凌赫怎么也逃不出谢危的世界",
       "onboard_time": 1740654140,
@@ -1665,14 +1729,6 @@
       "onboard_time": 1740625220,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 133300,
-      "num": 302602,
-      "word": "花几十元可伪造考研成绩",
-      "onboard_time": 1740651919,
-      "rank": 14,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 132095,
@@ -1737,6 +1793,14 @@
       "onboard_time": 1740632600,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126531,
+      "num": 126531,
+      "word": "小米直播",
+      "onboard_time": 1740656059,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 126057,
@@ -2259,6 +2323,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 83101,
+      "num": 115266,
+      "word": "高空掉落30cm螺丝刀直插男子胸腔",
+      "onboard_time": 1740656059,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82748,
       "num": 222860,
       "word": "四种常见睡姿正在伤害你的脊椎",
@@ -2313,6 +2385,14 @@
       "onboard_time": 1740646519,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67325,
+      "num": 233518,
+      "word": "033号33Svan上线开打",
+      "onboard_time": 1740655338,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 65811,
@@ -2531,20 +2611,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 41133,
+      "num": 935151,
+      "word": "那些你不知道的北京地儿",
+      "onboard_time": 1740655218,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 40720,
+      "num": 293169,
+      "word": "月薪万元疗愈师或为20天速成",
+      "onboard_time": 1740654260,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 40599,
       "num": 264890,
       "word": "换季维稳护肤搭子",
       "onboard_time": 1740643278,
       "rank": 14,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 40026,
-      "num": 293169,
-      "word": "月薪万元疗愈师或为20天速成",
-      "onboard_time": 1740654260,
-      "rank": 19,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 39701,

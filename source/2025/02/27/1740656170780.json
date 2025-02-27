@@ -1,0 +1,410 @@
+{
+  "runTime": 1740656170780,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1398412,
+        "num": 1398412,
+        "word": "建议春节假期取消调休",
+        "onboard_time": 1740649820,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 955016,
+        "num": 955016,
+        "word": "哪吒2票房已破140亿",
+        "onboard_time": 1740649398,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41133,
+        "num": 935151,
+        "word": "那些你不知道的北京地儿",
+        "onboard_time": 1740655218,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 925175,
+        "num": 925175,
+        "word": "周雨彤回应辞职发疯戏",
+        "onboard_time": 1740651439,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 665899,
+        "num": 665899,
+        "word": "小米双Ultra",
+        "onboard_time": 1740653720,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 665446,
+        "num": 665446,
+        "word": "300元一张的始祖鸟吊牌到底谁在买",
+        "onboard_time": 1740652758,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 608172,
+        "num": 608172,
+        "word": "罗大美遇害现场曝光",
+        "onboard_time": 1740652939,
+        "rank": 6,
+        "category": "民生新闻,剧集"
+      },
+      {
+        "raw_hot": 489892,
+        "num": 489892,
+        "word": "国防部表示早晚要来收了你们",
+        "onboard_time": 1740645198,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 386390,
+        "num": 386390,
+        "word": "TVB三部热播剧停播为哪吒1让路",
+        "onboard_time": 1740650478,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 335027,
+        "num": 335027,
+        "word": "泽连斯基称10美分都不会还给美国",
+        "onboard_time": 1740648019,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1329386,
+        "num": 333955,
+        "word": "婚房7年没住被小区保洁换锁养鸡",
+        "onboard_time": 1740653418,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1026063,
+        "num": 331892,
+        "word": "薛小婉怒斥韩安冉",
+        "onboard_time": 1740651259,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 789040,
+        "num": 330154,
+        "word": "被前妻实名举报出轨副教授最新回应",
+        "onboard_time": 1740647779,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 550244,
+        "num": 329641,
+        "word": "韩佳人自曝曾一年内流产三次",
+        "onboard_time": 1740646580,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 462836,
+        "num": 326782,
+        "word": "男子花光27万货款打赏主播被赶出家门",
+        "onboard_time": 1740651919,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 444315,
+        "num": 324337,
+        "word": "雷军回应当首富",
+        "onboard_time": 1740644657,
+        "rank": 15,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 402626,
+        "num": 324260,
+        "word": "周扬青自曝新恋情见光死",
+        "onboard_time": 1740644239,
+        "rank": 16,
+        "category": "时尚,网红"
+      },
+      {
+        "raw_hot": 322499,
+        "num": 322499,
+        "word": "老人退休金9000多元家中却垃圾成山",
+        "onboard_time": 1740654739,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238874,
+        "num": 314060,
+        "word": "湖南卫视播赵丽颖的剧收视23连冠",
+        "onboard_time": 1740647058,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237305,
+        "num": 310541,
+        "word": "权志龙打歌舞台",
+        "onboard_time": 1740654140,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 452104,
+        "num": 309151,
+        "word": "接吻超58小时破纪录夫妇宣布分手",
+        "onboard_time": 1740655519,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307430,
+        "num": 307430,
+        "word": "花几十元可伪造考研成绩",
+        "onboard_time": 1740651919,
+        "rank": 21,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 303098,
+        "num": 303098,
+        "word": "代号鸢",
+        "onboard_time": 1740653418,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 258283,
+        "num": 258283,
+        "word": "IU车银优同框",
+        "onboard_time": 1740647719,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67325,
+        "num": 233518,
+        "word": "033号33Svan上线开打",
+        "onboard_time": 1740655338,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 223180,
+        "num": 223180,
+        "word": "不追内娱的年轻人沉迷地下偶像",
+        "onboard_time": 1740647658,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208479,
+        "num": 208479,
+        "word": "章若楠追星周杰伦成功",
+        "onboard_time": 1740652698,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207973,
+        "num": 207973,
+        "word": "王安宇脾气",
+        "onboard_time": 1740644839,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202226,
+        "num": 202226,
+        "word": "李羲承机场新闻图",
+        "onboard_time": 1740655338,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40720,
+        "num": 196446,
+        "word": "月薪万元疗愈师或为20天速成",
+        "onboard_time": 1740654260,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 227675,
+        "num": 196103,
+        "word": "Fendi回应中国结争议",
+        "onboard_time": 1740634938,
+        "rank": 30,
+        "category": "民生新闻,时尚"
+      },
+      {
+        "raw_hot": 195179,
+        "num": 195179,
+        "word": "赵露思与友人吃路边摊",
+        "onboard_time": 1740649218,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192380,
+        "num": 192380,
+        "word": "霸王茶姬哪吒2联名",
+        "onboard_time": 1740638539,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167901,
+        "num": 167901,
+        "word": "如鸢",
+        "onboard_time": 1740655519,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164579,
+        "num": 164579,
+        "word": "龚俊好清爽的帅",
+        "onboard_time": 1740655639,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155059,
+        "num": 155059,
+        "word": "伍声2009",
+        "onboard_time": 1740648680,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152512,
+        "num": 152512,
+        "word": "JDG常规赛开门红",
+        "onboard_time": 1740655519,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 150951,
+        "num": 150951,
+        "word": "苏州一抓娃娃机惊现活体小猫",
+        "onboard_time": 1740648440,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148888,
+        "num": 148888,
+        "word": "张康乐直播",
+        "onboard_time": 1740655697,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111944,
+        "num": 147069,
+        "word": "中国结欢迎借鉴反对挪用",
+        "onboard_time": 1740643639,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146818,
+        "num": 146818,
+        "word": "长沙一6岁女孩来月经",
+        "onboard_time": 1740637819,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144863,
+        "num": 144863,
+        "word": "关晓彤新片杀青后无缝进组年代剧",
+        "onboard_time": 1740655278,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142673,
+        "num": 142673,
+        "word": "SM历代C位",
+        "onboard_time": 1740647658,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137264,
+        "num": 137264,
+        "word": "张凌赫怎么也逃不出谢危的世界",
+        "onboard_time": 1740654140,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126531,
+        "num": 126531,
+        "word": "小米直播",
+        "onboard_time": 1740656059,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 124849,
+        "num": 124849,
+        "word": "韩安冉向薛小婉道歉",
+        "onboard_time": 1740631220,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123593,
+        "num": 123593,
+        "word": "张馨予身上好多花儿",
+        "onboard_time": 1740653118,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 117078,
+        "num": 117078,
+        "word": "女护士怀上58岁已婚教授孩子后勒索",
+        "onboard_time": 1740636438,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105515,
+        "num": 115824,
+        "word": "3个小细节识别干净外卖",
+        "onboard_time": 1740652339,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83101,
+        "num": 115266,
+        "word": "高空掉落30cm螺丝刀直插男子胸腔",
+        "onboard_time": 1740656059,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会之问#"
+    }
+  }
+}
