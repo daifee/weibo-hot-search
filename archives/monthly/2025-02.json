@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740644983862,
+  "endTime": 1740645769031,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -4185,6 +4185,14 @@
       "onboard_time": 1739090299,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1292119,
+      "num": 280317,
+      "word": "周扬青自曝新恋情见光死",
+      "onboard_time": 1740644239,
+      "rank": 15,
+      "category": "时尚,网红"
     },
     {
       "raw_hot": 1292020,
@@ -10996,7 +11004,7 @@
     },
     {
       "raw_hot": 670111,
-      "num": 265977,
+      "num": 270139,
       "word": "我是文淇我不敢不同意开学",
       "onboard_time": 1740639498,
       "rank": 18,
@@ -12795,6 +12803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 596193,
+      "num": 596193,
+      "word": "中国结欢迎借鉴反对挪用",
+      "onboard_time": 1740643639,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 596084,
       "num": 453314,
       "word": "成毅直播",
@@ -13041,6 +13057,14 @@
       "onboard_time": 1739075960,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 585567,
+      "num": 260481,
+      "word": "王安宇脾气",
+      "onboard_time": 1740644839,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 585128,
@@ -19139,14 +19163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 413172,
-      "num": 264427,
-      "word": "周扬青自曝新恋情见光死",
-      "onboard_time": 1740644239,
-      "rank": 15,
-      "category": "时尚,网红"
-    },
-    {
       "raw_hot": 412987,
       "num": 412987,
       "word": "李帝努泡泡",
@@ -19409,6 +19425,14 @@
       "onboard_time": 1739353281,
       "rank": 41,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 406289,
+      "num": 259552,
+      "word": "公务员考试",
+      "onboard_time": 1739763620,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 406174,
@@ -20955,14 +20979,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 375496,
-      "num": 375496,
-      "word": "中国结欢迎借鉴反对挪用",
-      "onboard_time": 1740643639,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 375389,
       "num": 306127,
       "word": "驾校学员喝了酒去考科目三",
@@ -22145,6 +22161,14 @@
       "onboard_time": 1740366500,
       "rank": 33,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 352739,
+      "num": 315693,
+      "word": "哪吒来了刘畊宏直播间也得跳操",
+      "onboard_time": 1740642140,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 352462,
@@ -23699,6 +23723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 326386,
+      "num": 326386,
+      "word": "雷军回应当首富",
+      "onboard_time": 1740644657,
+      "rank": 32,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 326354,
       "num": 305848,
       "word": "韩东君一演戏想谈想撩又想离",
@@ -24041,6 +24073,14 @@
       "onboard_time": 1740617838,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 321647,
+      "num": 260701,
+      "word": "辞职半个月又回来上班有点尴尬",
+      "onboard_time": 1740643698,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 321334,
@@ -24473,14 +24513,6 @@
       "onboard_time": 1738815508,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 314673,
-      "num": 263753,
-      "word": "哪吒来了刘畊宏直播间也得跳操",
-      "onboard_time": 1740642140,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 314607,
@@ -25683,14 +25715,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 298292,
-      "num": 260701,
-      "word": "辞职半个月又回来上班有点尴尬",
-      "onboard_time": 1740643698,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 298087,
       "num": 254282,
       "word": "刘少林评价韩国队",
@@ -26833,14 +26857,6 @@
       "onboard_time": 1738764024,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 285067,
-      "num": 260481,
-      "word": "王安宇脾气",
-      "onboard_time": 1740644839,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 284882,
@@ -28993,14 +29009,6 @@
       "onboard_time": 1739014162,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 259552,
-      "num": 259552,
-      "word": "公务员考试",
-      "onboard_time": 1739763620,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 259541,
@@ -32041,14 +32049,6 @@
       "onboard_time": 1740315980,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 234638,
-      "num": 234638,
-      "word": "雷军回应当首富",
-      "onboard_time": 1740644657,
-      "rank": 32,
-      "category": "互联网,财经"
     },
     {
       "raw_hot": 234591,
@@ -48979,6 +48979,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 164523,
+      "num": 164523,
+      "word": "董明珠回答DeepSeek犀利提问",
+      "onboard_time": 1740643879,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 164519,
       "num": 460819,
       "word": "男孩被拐养家不让上学自己挣钱读书",
@@ -49369,6 +49377,14 @@
       "onboard_time": 1740387142,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 163390,
+      "num": 163390,
+      "word": "林一给虞书欣送了妮妮玩偶",
+      "onboard_time": 1740645618,
+      "rank": 40,
+      "category": "剧集,综艺"
     },
     {
       "raw_hot": 163384,
@@ -49867,6 +49883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161930,
+      "num": 161930,
+      "word": "原来羊肚菌都是狗狗找到的",
+      "onboard_time": 1740640818,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 161855,
       "num": 161855,
       "word": "相柳第三世",
@@ -50041,14 +50065,6 @@
       "onboard_time": 1739522001,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 161422,
-      "num": 161422,
-      "word": "董明珠回答DeepSeek犀利提问",
-      "onboard_time": 1740643879,
-      "rank": 38,
-      "category": "互联网"
     },
     {
       "raw_hot": 161405,
@@ -51931,14 +51947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155230,
-      "num": 155230,
-      "word": "原来羊肚菌都是狗狗找到的",
-      "onboard_time": 1740640818,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 155215,
       "num": 155215,
       "word": "一个醉酒放肆一个红温克制",
@@ -52673,6 +52681,14 @@
       "onboard_time": 1738655905,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 152260,
+      "num": 152260,
+      "word": "疑似桐华说出了心里话",
+      "onboard_time": 1740644419,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 152239,
@@ -58931,6 +58947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130423,
+      "num": 130423,
+      "word": "田曦薇下班要兼职程序员吗",
+      "onboard_time": 1740645497,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130370,
       "num": 130370,
       "word": "LGDNBW零封WB",
@@ -60331,6 +60355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125183,
+      "num": 239198,
+      "word": "手机系统一直不更新可能被黑",
+      "onboard_time": 1740642318,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 125128,
       "num": 125128,
       "word": "王楚钦决赛对阵梁靖崑",
@@ -60641,6 +60673,14 @@
       "onboard_time": 1740375322,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123801,
+      "num": 123801,
+      "word": "高考倒计时100天",
+      "onboard_time": 1740645740,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 123800,
@@ -61835,14 +61875,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 119236,
-      "num": 119236,
-      "word": "疑似桐华说出了心里话",
-      "onboard_time": 1740644419,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 119174,
       "num": 277740,
       "word": "男子因认为牌友没给暗杠钱争吵去世",
@@ -62217,6 +62249,14 @@
       "onboard_time": 1739092221,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117373,
+      "num": 117373,
+      "word": "张杰鸟巢演唱会",
+      "onboard_time": 1740645679,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 117273,
@@ -62641,14 +62681,6 @@
       "onboard_time": 1740463521,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 115127,
-      "num": 115127,
-      "word": "手机系统一直不更新可能被黑",
-      "onboard_time": 1740642318,
-      "rank": 45,
-      "category": "数码"
     },
     {
       "raw_hot": 115116,
@@ -65659,6 +65691,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 102207,
+      "num": 305012,
+      "word": "国防部表示早晚要来收了你们",
+      "onboard_time": 1740645198,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 102139,
       "num": 283858,
       "word": "姬发的顶级共情力",
@@ -68123,6 +68163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88920,
+      "num": 265149,
+      "word": "想用6万元追回100万结果又被骗了",
+      "onboard_time": 1740643639,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88637,
       "num": 277248,
       "word": "家庭矛盾9旬老人日夜大喊唤仨儿子",
@@ -69803,6 +69851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 78779,
+      "num": 265445,
+      "word": "下阶段中美两军交往已有初步计划",
+      "onboard_time": 1740644119,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 78678,
       "num": 158090,
       "word": "守望先锋新中国英雄",
@@ -70409,6 +70465,14 @@
       "onboard_time": 1738833982,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75184,
+      "num": 218444,
+      "word": "两车相撞女子夹中间毫发未伤",
+      "onboard_time": 1740645497,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75155,
@@ -71195,14 +71259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 70167,
-      "num": 265149,
-      "word": "想用6万元追回100万结果又被骗了",
-      "onboard_time": 1740643639,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 70136,
       "num": 258499,
       "word": "猫耳直播",
@@ -71905,6 +71961,14 @@
       "onboard_time": 1740427931,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 65811,
+      "num": 227840,
+      "word": "李佳航给Bin留言",
+      "onboard_time": 1740645378,
+      "rank": 23,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 65746,
@@ -73835,14 +73899,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 56069,
-      "num": 265445,
-      "word": "下阶段中美两军交往已有初步计划",
-      "onboard_time": 1740644119,
-      "rank": 12,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 55927,
       "num": 350097,
       "word": "这些文物都与蛇有关",
@@ -75393,6 +75449,14 @@
       "onboard_time": 1740640457,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49076,
+      "num": 289125,
+      "word": "俄美代表在伊斯坦布尔会谈开始",
+      "onboard_time": 1740645198,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 49075,
@@ -80651,6 +80715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 25519,
+      "num": 259582,
+      "word": "高三百日誓师哪吒版",
+      "onboard_time": 1740644839,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 25499,
       "num": 71401,
       "word": "北京多条地铁线延长运营至凌晨一两点",
@@ -83291,6 +83363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 15069,
+      "num": 219237,
+      "word": "Linda李静米兰第一站",
+      "onboard_time": 1740645378,
+      "rank": 27,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 15058,
       "num": 207207,
       "word": "MK秋冬秀场简直杀疯了",
@@ -84697,14 +84777,6 @@
       "onboard_time": 1738966452,
       "rank": 9,
       "category": "电影"
-    },
-    {
-      "raw_hot": 9725,
-      "num": 259582,
-      "word": "高三百日誓师哪吒版",
-      "onboard_time": 1740644839,
-      "rank": 28,
-      "category": "教育"
     },
     {
       "raw_hot": 9720,

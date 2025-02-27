@@ -1,6 +1,6 @@
 {
   "startTime": 1740587402639,
-  "endTime": 1740644983862,
+  "endTime": 1740645769031,
   "band_list": [
     {
       "raw_hot": 2180306,
@@ -65,6 +65,14 @@
       "onboard_time": 1740625159,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1292119,
+      "num": 280317,
+      "word": "周扬青自曝新恋情见光死",
+      "onboard_time": 1740644239,
+      "rank": 15,
+      "category": "时尚,网红"
     },
     {
       "raw_hot": 1135494,
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 670111,
-      "num": 265977,
+      "num": 270139,
       "word": "我是文淇我不敢不同意开学",
       "onboard_time": 1740639498,
       "rank": 18,
@@ -291,12 +299,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 596193,
+      "num": 596193,
+      "word": "中国结欢迎借鉴反对挪用",
+      "onboard_time": 1740643639,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 586508,
       "num": 217354,
       "word": "下调法定婚龄的建议应被舆论严肃对待",
       "onboard_time": 1740577160,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 585567,
+      "num": 260481,
+      "word": "王安宇脾气",
+      "onboard_time": 1740644839,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 577214,
@@ -451,12 +475,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 413172,
-      "num": 264427,
-      "word": "周扬青自曝新恋情见光死",
-      "onboard_time": 1740644239,
-      "rank": 15,
-      "category": "时尚,网红"
+      "raw_hot": 406289,
+      "num": 259552,
+      "word": "公务员考试",
+      "onboard_time": 1740643578,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 405178,
@@ -489,14 +513,6 @@
       "onboard_time": 1740633619,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 375496,
-      "num": 375496,
-      "word": "中国结欢迎借鉴反对挪用",
-      "onboard_time": 1740643639,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 368036,
@@ -539,12 +555,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 352739,
+      "num": 315693,
+      "word": "哪吒来了刘畊宏直播间也得跳操",
+      "onboard_time": 1740642140,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 337699,
       "num": 514142,
       "word": "蒋奇明张艺凡雨夜私奔芭莎大片",
       "onboard_time": 1740628760,
       "rank": 17,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 326386,
+      "num": 326386,
+      "word": "雷军回应当首富",
+      "onboard_time": 1740644657,
+      "rank": 32,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 321755,
@@ -555,12 +587,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 314673,
-      "num": 263753,
-      "word": "哪吒来了刘畊宏直播间也得跳操",
-      "onboard_time": 1740642140,
-      "rank": 17,
-      "category": "电影"
+      "raw_hot": 321647,
+      "num": 260701,
+      "word": "辞职半个月又回来上班有点尴尬",
+      "onboard_time": 1740643698,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 314402,
@@ -569,14 +601,6 @@
       "onboard_time": 1740633738,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 298292,
-      "num": 260701,
-      "word": "辞职半个月又回来上班有点尴尬",
-      "onboard_time": 1740643698,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 297473,
@@ -616,14 +640,6 @@
       "word": "玱玹不敢吻似锦处处吻",
       "onboard_time": 1740638899,
       "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 285067,
-      "num": 260481,
-      "word": "王安宇脾气",
-      "onboard_time": 1740644839,
-      "rank": 26,
       "category": "剧集"
     },
     {
@@ -667,14 +683,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 259552,
-      "num": 259552,
-      "word": "公务员考试",
-      "onboard_time": 1740643578,
-      "rank": 29,
-      "category": "教育"
-    },
-    {
       "raw_hot": 244635,
       "num": 284586,
       "word": "四川近200岁盐井每天产盐2000公斤",
@@ -697,14 +705,6 @@
       "onboard_time": 1740621980,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 234638,
-      "num": 234638,
-      "word": "雷军回应当首富",
-      "onboard_time": 1740644657,
-      "rank": 32,
-      "category": "互联网,财经"
     },
     {
       "raw_hot": 233870,
@@ -1083,6 +1083,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164523,
+      "num": 164523,
+      "word": "董明珠回答DeepSeek犀利提问",
+      "onboard_time": 1740643879,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 163390,
+      "num": 163390,
+      "word": "林一给虞书欣送了妮妮玩偶",
+      "onboard_time": 1740645618,
+      "rank": 40,
+      "category": "剧集,综艺"
+    },
+    {
       "raw_hot": 163126,
       "num": 163126,
       "word": "吉克隽逸自曝曾对蔡国庆心动",
@@ -1097,6 +1113,14 @@
       "onboard_time": 1740627439,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161930,
+      "num": 161930,
+      "word": "原来羊肚菌都是狗狗找到的",
+      "onboard_time": 1740640818,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 161855,
@@ -1115,14 +1139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 161422,
-      "num": 161422,
-      "word": "董明珠回答DeepSeek犀利提问",
-      "onboard_time": 1740643879,
-      "rank": 38,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 157087,
       "num": 181675,
       "word": "钟楚曦走秀",
@@ -1139,20 +1155,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 155230,
-      "num": 155230,
-      "word": "原来羊肚菌都是狗狗找到的",
-      "onboard_time": 1740640818,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 153306,
       "num": 513066,
       "word": "我不想再被二手烟腌制入味了",
       "onboard_time": 1740630260,
       "rank": 25,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 152260,
+      "num": 152260,
+      "word": "疑似桐华说出了心里话",
+      "onboard_time": 1740644419,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 152052,
@@ -1339,6 +1355,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 130423,
+      "num": 130423,
+      "word": "田曦薇下班要兼职程序员吗",
+      "onboard_time": 1740645497,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130107,
       "num": 130107,
       "word": "演员请就位延播",
@@ -1395,12 +1419,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125183,
+      "num": 239198,
+      "word": "手机系统一直不更新可能被黑",
+      "onboard_time": 1740642318,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 124224,
       "num": 170577,
       "word": "代露娃粉丝做了6个小时的弓箭",
       "onboard_time": 1740634640,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123801,
+      "num": 123801,
+      "word": "高考倒计时100天",
+      "onboard_time": 1740645740,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 123269,
@@ -1435,12 +1475,12 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 119236,
-      "num": 119236,
-      "word": "疑似桐华说出了心里话",
-      "onboard_time": 1740644419,
-      "rank": 44,
-      "category": "剧集"
+      "raw_hot": 117373,
+      "num": 117373,
+      "word": "张杰鸟巢演唱会",
+      "onboard_time": 1740645679,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 115777,
@@ -1465,14 +1505,6 @@
       "onboard_time": 1740630740,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 115127,
-      "num": 115127,
-      "word": "手机系统一直不更新可能被黑",
-      "onboard_time": 1740642318,
-      "rank": 45,
-      "category": "数码"
     },
     {
       "raw_hot": 115116,
@@ -1593,6 +1625,14 @@
       "onboard_time": 1740579681,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102207,
+      "num": 305012,
+      "word": "国防部表示早晚要来收了你们",
+      "onboard_time": 1740645198,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 100337,
@@ -1739,6 +1779,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 88920,
+      "num": 265149,
+      "word": "想用6万元追回100万结果又被骗了",
+      "onboard_time": 1740643639,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88512,
       "num": 176259,
       "word": "芈月新皮肤瑰影绮梦",
@@ -1819,6 +1867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78779,
+      "num": 265445,
+      "word": "下阶段中美两军交往已有初步计划",
+      "onboard_time": 1740644119,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 78075,
       "num": 273244,
       "word": "泽连斯基称要问特朗普三个问题",
@@ -1835,12 +1891,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 70167,
-      "num": 265149,
-      "word": "想用6万元追回100万结果又被骗了",
-      "onboard_time": 1740643639,
-      "rank": 13,
+      "raw_hot": 75184,
+      "num": 218444,
+      "word": "两车相撞女子夹中间毫发未伤",
+      "onboard_time": 1740645497,
+      "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65811,
+      "num": 227840,
+      "word": "李佳航给Bin留言",
+      "onboard_time": 1740645378,
+      "rank": 23,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 65458,
@@ -1915,14 +1979,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 56069,
-      "num": 265445,
-      "word": "下阶段中美两军交往已有初步计划",
-      "onboard_time": 1740644119,
-      "rank": 12,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 55214,
       "num": 163885,
       "word": "特朗普称有必要在乌部署维和部队",
@@ -1945,6 +2001,14 @@
       "onboard_time": 1740640457,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49076,
+      "num": 289125,
+      "word": "俄美代表在伊斯坦布尔会谈开始",
+      "onboard_time": 1740645198,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 49061,
@@ -2107,6 +2171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25519,
+      "num": 259582,
+      "word": "高三百日誓师哪吒版",
+      "onboard_time": 1740644839,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 24035,
       "num": 24035,
       "word": "檀健次矜贵公子气质",
@@ -2187,6 +2259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 15069,
+      "num": 219237,
+      "word": "Linda李静米兰第一站",
+      "onboard_time": 1740645378,
+      "rank": 27,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 14662,
       "num": 15478,
       "word": "反复上星重播的热剧",
@@ -2219,12 +2299,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 9725,
-      "num": 259582,
-      "word": "高三百日誓师哪吒版",
-      "onboard_time": 1740644839,
-      "rank": 28,
-      "category": "教育"
+      "raw_hot": 11649,
+      "num": 629393,
+      "word": "中国新增一个世界独一无二科学装置",
+      "onboard_time": 1740579800,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 7353,
@@ -2233,14 +2313,6 @@
       "onboard_time": 1740590054,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3455,
-      "num": 629393,
-      "word": "中国新增一个世界独一无二科学装置",
-      "onboard_time": 1740579800,
-      "rank": 2,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

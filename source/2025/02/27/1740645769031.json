@@ -1,0 +1,410 @@
+{
+  "runTime": 1740645769031,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1040460,
+        "num": 1166473,
+        "word": "霸王茶姬哪吒2联名",
+        "onboard_time": 1740638539,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 618289,
+        "num": 618289,
+        "word": "7岁女童心脏骤停路人用AED救回",
+        "onboard_time": 1740639618,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11649,
+        "num": 606120,
+        "word": "中国新增一个世界独一无二科学装置",
+        "onboard_time": 1740579800,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 596193,
+        "num": 596193,
+        "word": "中国结欢迎借鉴反对挪用",
+        "onboard_time": 1740643639,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 496273,
+        "num": 496273,
+        "word": "周扬青和男嘉宾情人节约会vlog",
+        "onboard_time": 1740637399,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326386,
+        "num": 326386,
+        "word": "雷军回应当首富",
+        "onboard_time": 1740644657,
+        "rank": 5,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 435696,
+        "num": 321550,
+        "word": "章若楠回应外貌变化",
+        "onboard_time": 1740631160,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 352739,
+        "num": 315693,
+        "word": "哪吒来了刘畊宏直播间也得跳操",
+        "onboard_time": 1740642140,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102207,
+        "num": 305012,
+        "word": "国防部表示早晚要来收了你们",
+        "onboard_time": 1740645198,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 49076,
+        "num": 289125,
+        "word": "俄美代表在伊斯坦布尔会谈开始",
+        "onboard_time": 1740645198,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 285624,
+        "num": 285624,
+        "word": "我国牵头制定养老机器人国际标准",
+        "onboard_time": 1740625519,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1292119,
+        "num": 280317,
+        "word": "周扬青自曝新恋情见光死",
+        "onboard_time": 1740644239,
+        "rank": 11,
+        "category": "时尚,网红"
+      },
+      {
+        "raw_hot": 789160,
+        "num": 275758,
+        "word": "女子求复合花4万找大师给前任下情蛊",
+        "onboard_time": 1740637579,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 542417,
+        "num": 270139,
+        "word": "我是文淇我不敢不同意开学",
+        "onboard_time": 1740639498,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22267,
+        "num": 263318,
+        "word": "换季维稳护肤搭子",
+        "onboard_time": 1740643278,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 302885,
+        "num": 261015,
+        "word": "渐冻症女孩去世母亲想离开老家",
+        "onboard_time": 1740637637,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309347,
+        "num": 253339,
+        "word": "韩安冉向薛小婉道歉",
+        "onboard_time": 1740631220,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251163,
+        "num": 251163,
+        "word": "医院通报医生上班玩游戏致患者排队",
+        "onboard_time": 1740633020,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251145,
+        "num": 251145,
+        "word": "难哄断更",
+        "onboard_time": 1740638059,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242962,
+        "num": 242962,
+        "word": "薛之谦不敢相信吉克隽逸肤色这么漂亮",
+        "onboard_time": 1740638899,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125183,
+        "num": 239198,
+        "word": "手机系统一直不更新可能被黑",
+        "onboard_time": 1740642318,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 644299,
+        "num": 236152,
+        "word": "女护士怀上58岁已婚教授孩子后勒索",
+        "onboard_time": 1740636438,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 585567,
+        "num": 231951,
+        "word": "王安宇脾气",
+        "onboard_time": 1740644839,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65811,
+        "num": 227840,
+        "word": "李佳航给Bin留言",
+        "onboard_time": 1740645378,
+        "rank": 23,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 415149,
+        "num": 222732,
+        "word": "长沙一6岁女孩来月经",
+        "onboard_time": 1740637819,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221983,
+        "num": 221983,
+        "word": "玱玹不敢吻似锦处处吻",
+        "onboard_time": 1740638899,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25519,
+        "num": 221324,
+        "word": "高三百日誓师哪吒版",
+        "onboard_time": 1740644839,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 15069,
+        "num": 219237,
+        "word": "Linda李静米兰第一站",
+        "onboard_time": 1740645378,
+        "rank": 27,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 75184,
+        "num": 218444,
+        "word": "两车相撞女子夹中间毫发未伤",
+        "onboard_time": 1740645497,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 406289,
+        "num": 216816,
+        "word": "公务员考试",
+        "onboard_time": 1740643578,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 558202,
+        "num": 214905,
+        "word": "Fendi回应中国结争议",
+        "onboard_time": 1740634938,
+        "rank": 30,
+        "category": "民生新闻,时尚"
+      },
+      {
+        "raw_hot": 321647,
+        "num": 212808,
+        "word": "辞职半个月又回来上班有点尴尬",
+        "onboard_time": 1740643698,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 238970,
+        "num": 211043,
+        "word": "章若楠现在94斤",
+        "onboard_time": 1740633559,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210548,
+        "num": 210548,
+        "word": "奔驰裁员",
+        "onboard_time": 1740626780,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 185523,
+        "num": 185523,
+        "word": "西安33岁丸子西施走红",
+        "onboard_time": 1740642259,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182509,
+        "num": 182509,
+        "word": "奔驰中国裁员赔偿N加9",
+        "onboard_time": 1740630441,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 179934,
+        "num": 179934,
+        "word": "孟美岐李振宁给郑人予跪下了",
+        "onboard_time": 1740642621,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78779,
+        "num": 172231,
+        "word": "下阶段中美两军交往已有初步计划",
+        "onboard_time": 1740644119,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 170890,
+        "num": 170890,
+        "word": "迪丽热巴轻轻一夹把我吊成翘嘴",
+        "onboard_time": 1740635658,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164523,
+        "num": 164523,
+        "word": "董明珠回答DeepSeek犀利提问",
+        "onboard_time": 1740643879,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 163390,
+        "num": 163390,
+        "word": "林一给虞书欣送了妮妮玩偶",
+        "onboard_time": 1740645618,
+        "rank": 40,
+        "category": "剧集,综艺"
+      },
+      {
+        "raw_hot": 161930,
+        "num": 161930,
+        "word": "原来羊肚菌都是狗狗找到的",
+        "onboard_time": 1740640818,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152260,
+        "num": 152260,
+        "word": "疑似桐华说出了心里话",
+        "onboard_time": 1740644419,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88920,
+        "num": 143220,
+        "word": "想用6万元追回100万结果又被骗了",
+        "onboard_time": 1740643639,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136264,
+        "num": 136264,
+        "word": "迪丽热巴双丸子头好可爱",
+        "onboard_time": 1740641237,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130423,
+        "num": 130423,
+        "word": "田曦薇下班要兼职程序员吗",
+        "onboard_time": 1740645497,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128247,
+        "num": 128247,
+        "word": "人民网评辱骂运动员该受法律惩戒",
+        "onboard_time": 1740641839,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123801,
+        "num": 123801,
+        "word": "高考倒计时100天",
+        "onboard_time": 1740645740,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 117463,
+        "num": 117463,
+        "word": "相柳第三世",
+        "onboard_time": 1740641661,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117373,
+        "num": 117373,
+        "word": "张杰鸟巢演唱会",
+        "onboard_time": 1740645679,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记强调打好关键核心技术攻坚战#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740644983862,
+  "endTime": 1740645769031,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -641,6 +641,14 @@
       "onboard_time": 1740321562,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1292119,
+      "num": 280317,
+      "word": "周扬青自曝新恋情见光死",
+      "onboard_time": 1740644239,
+      "rank": 15,
+      "category": "时尚,网红"
     },
     {
       "raw_hot": 1275789,
@@ -2076,7 +2084,7 @@
     },
     {
       "raw_hot": 670111,
-      "num": 265977,
+      "num": 270139,
       "word": "我是文淇我不敢不同意开学",
       "onboard_time": 1740639498,
       "rank": 18,
@@ -2419,6 +2427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 596193,
+      "num": 596193,
+      "word": "中国结欢迎借鉴反对挪用",
+      "onboard_time": 1740643639,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 596028,
       "num": 596028,
       "word": "女主一集下来微信步数第一",
@@ -2473,6 +2489,14 @@
       "onboard_time": 1740315621,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 585567,
+      "num": 260481,
+      "word": "王安宇脾气",
+      "onboard_time": 1740644839,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 581817,
@@ -3595,14 +3619,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 413172,
-      "num": 264427,
-      "word": "周扬青自曝新恋情见光死",
-      "onboard_time": 1740644239,
-      "rank": 15,
-      "category": "时尚,网红"
-    },
-    {
       "raw_hot": 412883,
       "num": 442755,
       "word": "代露娃出发时装周线下人气",
@@ -3657,6 +3673,14 @@
       "onboard_time": 1740551180,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 406289,
+      "num": 259552,
+      "word": "公务员考试",
+      "onboard_time": 1740643578,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 406174,
@@ -3915,14 +3939,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 375496,
-      "num": 375496,
-      "word": "中国结欢迎借鉴反对挪用",
-      "onboard_time": 1740643639,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 375389,
       "num": 306127,
       "word": "驾校学员喝了酒去考科目三",
@@ -4137,6 +4153,14 @@
       "onboard_time": 1740366500,
       "rank": 33,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 352739,
+      "num": 315693,
+      "word": "哪吒来了刘畊宏直播间也得跳操",
+      "onboard_time": 1740642140,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 352462,
@@ -4371,6 +4395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 326386,
+      "num": 326386,
+      "word": "雷军回应当首富",
+      "onboard_time": 1740644657,
+      "rank": 32,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 325398,
       "num": 325398,
       "word": "泰国一巴士翻车致17人死亡",
@@ -4409,6 +4441,14 @@
       "onboard_time": 1740617838,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 321647,
+      "num": 260701,
+      "word": "辞职半个月又回来上班有点尴尬",
+      "onboard_time": 1740643698,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 320356,
@@ -4465,14 +4505,6 @@
       "onboard_time": 1740485721,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 314673,
-      "num": 263753,
-      "word": "哪吒来了刘畊宏直播间也得跳操",
-      "onboard_time": 1740642140,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 314607,
@@ -4681,14 +4713,6 @@
       "onboard_time": 1740574340,
       "rank": 14,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 298292,
-      "num": 260701,
-      "word": "辞职半个月又回来上班有点尴尬",
-      "onboard_time": 1740643698,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 297938,
@@ -4920,14 +4944,6 @@
       "word": "景甜新剧第二世创飞所有人",
       "onboard_time": 1740453081,
       "rank": 34,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 285067,
-      "num": 260481,
-      "word": "王安宇脾气",
-      "onboard_time": 1740644839,
-      "rank": 26,
       "category": "剧集"
     },
     {
@@ -5313,14 +5329,6 @@
       "onboard_time": 1740309680,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 259552,
-      "num": 259552,
-      "word": "公务员考试",
-      "onboard_time": 1740643578,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 259541,
@@ -5825,14 +5833,6 @@
       "onboard_time": 1740315980,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 234638,
-      "num": 234638,
-      "word": "雷军回应当首富",
-      "onboard_time": 1740644657,
-      "rank": 32,
-      "category": "互联网,财经"
     },
     {
       "raw_hot": 233870,
@@ -8947,6 +8947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164523,
+      "num": 164523,
+      "word": "董明珠回答DeepSeek犀利提问",
+      "onboard_time": 1740643879,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 164404,
       "num": 164404,
       "word": "真心建议上班要适当叹气",
@@ -9009,6 +9017,14 @@
       "onboard_time": 1740387142,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 163390,
+      "num": 163390,
+      "word": "林一给虞书欣送了妮妮玩偶",
+      "onboard_time": 1740645618,
+      "rank": 40,
+      "category": "剧集,综艺"
     },
     {
       "raw_hot": 163335,
@@ -9107,6 +9123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161930,
+      "num": 161930,
+      "word": "原来羊肚菌都是狗狗找到的",
+      "onboard_time": 1740640818,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 161855,
       "num": 161855,
       "word": "相柳第三世",
@@ -9161,14 +9185,6 @@
       "onboard_time": 1740581962,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 161422,
-      "num": 161422,
-      "word": "董明珠回答DeepSeek犀利提问",
-      "onboard_time": 1740643879,
-      "rank": 38,
-      "category": "互联网"
     },
     {
       "raw_hot": 161199,
@@ -9491,14 +9507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155230,
-      "num": 155230,
-      "word": "原来羊肚菌都是狗狗找到的",
-      "onboard_time": 1740640818,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 155204,
       "num": 155204,
       "word": "肖战手持花束",
@@ -9649,6 +9657,14 @@
       "onboard_time": 1740543202,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 152260,
+      "num": 152260,
+      "word": "疑似桐华说出了心里话",
+      "onboard_time": 1740644419,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 152052,
@@ -10851,6 +10867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130423,
+      "num": 130423,
+      "word": "田曦薇下班要兼职程序员吗",
+      "onboard_time": 1740645497,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130370,
       "num": 130370,
       "word": "LGDNBW零封WB",
@@ -11115,6 +11139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125183,
+      "num": 239198,
+      "word": "手机系统一直不更新可能被黑",
+      "onboard_time": 1740642318,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 125132,
       "num": 125132,
       "word": "九尾请大家看哪吒",
@@ -11185,6 +11217,14 @@
       "onboard_time": 1740375322,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123801,
+      "num": 123801,
+      "word": "高考倒计时100天",
+      "onboard_time": 1740645740,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 123671,
@@ -11395,14 +11435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 119236,
-      "num": 119236,
-      "word": "疑似桐华说出了心里话",
-      "onboard_time": 1740644419,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 119174,
       "num": 277740,
       "word": "男子因认为牌友没给暗杠钱争吵去世",
@@ -11465,6 +11497,14 @@
       "onboard_time": 1740393499,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 117373,
+      "num": 117373,
+      "word": "张杰鸟巢演唱会",
+      "onboard_time": 1740645679,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 117225,
@@ -11545,14 +11585,6 @@
       "onboard_time": 1740463521,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 115127,
-      "num": 115127,
-      "word": "手机系统一直不更新可能被黑",
-      "onboard_time": 1740642318,
-      "rank": 45,
-      "category": "数码"
     },
     {
       "raw_hot": 115116,
@@ -12091,6 +12123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102207,
+      "num": 305012,
+      "word": "国防部表示早晚要来收了你们",
+      "onboard_time": 1740645198,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 101198,
       "num": 196484,
       "word": "AG水逆",
@@ -12483,6 +12523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88920,
+      "num": 265149,
+      "word": "想用6万元追回100万结果又被骗了",
+      "onboard_time": 1740643639,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88512,
       "num": 176259,
       "word": "芈月新皮肤瑰影绮梦",
@@ -12867,6 +12915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 78779,
+      "num": 265445,
+      "word": "下阶段中美两军交往已有初步计划",
+      "onboard_time": 1740644119,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 78524,
       "num": 81566,
       "word": "DeepSeek评2025年十大赚钱行业",
@@ -12937,6 +12993,14 @@
       "onboard_time": 1740500238,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 75184,
+      "num": 218444,
+      "word": "两车相撞女子夹中间毫发未伤",
+      "onboard_time": 1740645497,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75117,
@@ -13067,14 +13131,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 70167,
-      "num": 265149,
-      "word": "想用6万元追回100万结果又被骗了",
-      "onboard_time": 1740643639,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 69942,
       "num": 69942,
       "word": "王鹤棣宋茜星河入梦领衔主演",
@@ -13169,6 +13225,14 @@
       "onboard_time": 1740427931,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 65811,
+      "num": 227840,
+      "word": "李佳航给Bin留言",
+      "onboard_time": 1740645378,
+      "rank": 23,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 65746,
@@ -13555,14 +13619,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 56069,
-      "num": 265445,
-      "word": "下阶段中美两军交往已有初步计划",
-      "onboard_time": 1740644119,
-      "rank": 12,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 55671,
       "num": 55671,
       "word": "敖丙传",
@@ -13833,6 +13889,14 @@
       "onboard_time": 1740640457,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49076,
+      "num": 289125,
+      "word": "俄美代表在伊斯坦布尔会谈开始",
+      "onboard_time": 1740645198,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 49061,
@@ -14803,6 +14867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25519,
+      "num": 259582,
+      "word": "高三百日誓师哪吒版",
+      "onboard_time": 1740644839,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 25484,
       "num": 260043,
       "word": "普货违规运烟花销售称保证上高速",
@@ -15323,6 +15395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 15069,
+      "num": 219237,
+      "word": "Linda李静米兰第一站",
+      "onboard_time": 1740645378,
+      "rank": 27,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 14662,
       "num": 15478,
       "word": "反复上星重播的热剧",
@@ -15537,14 +15617,6 @@
       "onboard_time": 1740337452,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 9725,
-      "num": 259582,
-      "word": "高三百日誓师哪吒版",
-      "onboard_time": 1740644839,
-      "rank": 28,
-      "category": "教育"
     },
     {
       "raw_hot": 9579,
