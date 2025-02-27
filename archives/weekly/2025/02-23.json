@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740660260401,
+  "endTime": 1740661224648,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -217,6 +217,14 @@
       "onboard_time": 1740561319,
       "rank": 25,
       "category": "艺人,海外新闻"
+    },
+    {
+      "raw_hot": 2050494,
+      "num": 309151,
+      "word": "接吻超58小时破纪录夫妇宣布分手",
+      "onboard_time": 1740655519,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1980318,
@@ -628,7 +636,7 @@
     },
     {
       "raw_hot": 1375528,
-      "num": 500152,
+      "num": 516085,
       "word": "女子嫌金价太高在家自制金戒指",
       "onboard_time": 1740656599,
       "rank": 3,
@@ -824,14 +832,6 @@
       "word": "独身女子病逝房产收归国家",
       "onboard_time": 1740470062,
       "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1171594,
-      "num": 309151,
-      "word": "接吻超58小时破纪录夫妇宣布分手",
-      "onboard_time": 1740655519,
-      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -2660,7 +2660,7 @@
     },
     {
       "raw_hot": 579207,
-      "num": 280620,
+      "num": 305007,
       "word": "章若楠追星周杰伦成功",
       "onboard_time": 1740652698,
       "rank": 41,
@@ -3241,6 +3241,14 @@
       "onboard_time": 1740533119,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 484550,
+      "num": 484550,
+      "word": "小米15ultra价格",
+      "onboard_time": 1740658400,
+      "rank": 8,
+      "category": "数码"
     },
     {
       "raw_hot": 484205,
@@ -4659,6 +4667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 320903,
+      "num": 300697,
+      "word": "北漂快递大叔首笔退休金10780元",
+      "onboard_time": 1740659299,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 320356,
       "num": 671514,
       "word": "降分",
@@ -4889,6 +4905,14 @@
       "onboard_time": 1740535998,
       "rank": 22,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 305577,
+      "num": 305577,
+      "word": "雷军夸保时捷",
+      "onboard_time": 1740660319,
+      "rank": 9,
+      "category": "汽车"
     },
     {
       "raw_hot": 305361,
@@ -5299,14 +5323,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 281335,
-      "num": 281335,
-      "word": "小米15ultra价格",
-      "onboard_time": 1740658400,
-      "rank": 8,
-      "category": "数码"
-    },
-    {
       "raw_hot": 281279,
       "num": 272183,
       "word": "周深的回复是我的淡斑精华",
@@ -5393,14 +5409,6 @@
       "onboard_time": 1740236004,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 271617,
-      "num": 271617,
-      "word": "北漂快递大叔首笔退休金10780元",
-      "onboard_time": 1740659299,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 271430,
@@ -6323,6 +6331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226037,
+      "num": 314055,
+      "word": "不追内娱的年轻人沉迷地下偶像",
+      "onboard_time": 1740647658,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225850,
       "num": 225850,
       "word": "亚洲杯",
@@ -6379,12 +6395,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 223180,
-      "num": 314055,
-      "word": "不追内娱的年轻人沉迷地下偶像",
-      "onboard_time": 1740647658,
-      "rank": 14,
-      "category": "艺人"
+      "raw_hot": 223537,
+      "num": 223537,
+      "word": "TES对战JDG",
+      "onboard_time": 1740652579,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 222734,
@@ -6683,6 +6699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215707,
+      "num": 303073,
+      "word": "花间毅壶九",
+      "onboard_time": 1740660498,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 215652,
       "num": 312394,
       "word": "第五人格",
@@ -6713,6 +6737,14 @@
       "onboard_time": 1740356179,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 214398,
+      "num": 202789,
+      "word": "赵露思新头像寓意",
+      "onboard_time": 1740657199,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 214238,
@@ -7003,6 +7035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205596,
+      "num": 300338,
+      "word": "长沙一32层居民楼承重墙被装修误拆",
+      "onboard_time": 1740657980,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205437,
       "num": 205437,
       "word": "邓科 被换",
@@ -7137,14 +7177,6 @@
       "onboard_time": 1740532039,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 202789,
-      "num": 202789,
-      "word": "赵露思新头像寓意",
-      "onboard_time": 1740657199,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 202787,
@@ -8803,14 +8835,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 172768,
-      "num": 190723,
-      "word": "长沙一32层居民楼承重墙被装修误拆",
-      "onboard_time": 1740657980,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 172718,
       "num": 268493,
       "word": "有种熟人成为首富的感觉",
@@ -9363,6 +9387,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 164407,
+      "num": 157477,
+      "word": "姜妍说选衣服就像做饭一样简单",
+      "onboard_time": 1740658519,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164404,
       "num": 164404,
       "word": "真心建议上班要适当叹气",
@@ -9803,6 +9835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157699,
+      "num": 281232,
+      "word": "吴越认证吴俪梅是恋爱脑",
+      "onboard_time": 1740659419,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157682,
       "num": 404873,
       "word": "土拨鼠携带鼠疫可致人死亡",
@@ -10089,14 +10129,6 @@
       "onboard_time": 1740543202,
       "rank": 29,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 152308,
-      "num": 152308,
-      "word": "姜妍说选衣服就像做饭一样简单",
-      "onboard_time": 1740658519,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 152052,
@@ -10635,6 +10667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145220,
+      "num": 145220,
+      "word": "翟潇闻直播",
+      "onboard_time": 1740660138,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144967,
       "num": 144967,
       "word": "白鹿北上物料",
@@ -10665,6 +10705,14 @@
       "onboard_time": 1740655278,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144128,
+      "num": 144128,
+      "word": "TES零封KSG",
+      "onboard_time": 1740656839,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 143806,
@@ -10809,14 +10857,6 @@
       "onboard_time": 1740533060,
       "rank": 35,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 140763,
-      "num": 140763,
-      "word": "TES对战JDG",
-      "onboard_time": 1740652579,
-      "rank": 38,
-      "category": "电竞"
     },
     {
       "raw_hot": 140737,
@@ -11291,6 +11331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131812,
+      "num": 131812,
+      "word": "雷军称小米手机国内市场份额排第2",
+      "onboard_time": 1740657079,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 131772,
       "num": 131772,
       "word": "仙台有树豆瓣开分7.0",
@@ -11547,6 +11595,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 126419,
+      "num": 304604,
+      "word": "TES晋级决赛",
+      "onboard_time": 1740660558,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 126191,
       "num": 334080,
       "word": "孙杨中国现役最大年纪游泳运动员",
@@ -11641,14 +11697,6 @@
       "onboard_time": 1740296600,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125104,
-      "num": 125104,
-      "word": "雷军称小米手机国内市场份额排第2",
-      "onboard_time": 1740657079,
-      "rank": 41,
-      "category": "数码"
     },
     {
       "raw_hot": 125076,
@@ -11859,14 +11907,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 121545,
-      "num": 121545,
-      "word": "TES零封KSG",
-      "onboard_time": 1740656839,
-      "rank": 43,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 121493,
       "num": 121493,
       "word": "陈晓费加罗男士雪中大片",
@@ -11913,14 +11953,6 @@
       "onboard_time": 1740556999,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119690,
-      "num": 119690,
-      "word": "翟潇闻直播",
-      "onboard_time": 1740660138,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 119556,
@@ -12411,6 +12443,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 109532,
+      "num": 227395,
+      "word": "王楚钦一个动作全场安静",
+      "onboard_time": 1740271638,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109431,
       "num": 109431,
       "word": "A股超4200股上涨",
@@ -12552,14 +12592,6 @@
       "word": "独行侠vs湖人",
       "onboard_time": 1740531860,
       "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 105833,
-      "num": 227395,
-      "word": "王楚钦一个动作全场安静",
-      "onboard_time": 1740271638,
-      "rank": 43,
       "category": "体育"
     },
     {
@@ -13627,14 +13659,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 74946,
-      "num": 281232,
-      "word": "吴越认证吴俪梅是恋爱脑",
-      "onboard_time": 1740659419,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 74488,
       "num": 473755,
       "word": "律师建议不要找陌生人代查考研成绩",
@@ -13672,6 +13696,14 @@
       "word": "文化中国行看机场里的中华文化",
       "onboard_time": 1740447318,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73805,
+      "num": 106694,
+      "word": "湖北大学1.9亿申购存量房用作宿舍",
+      "onboard_time": 1740658758,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -14636,7 +14668,7 @@
     },
     {
       "raw_hot": 47909,
-      "num": 280919,
+      "num": 304893,
       "word": "夜神小米15Ultra真的绝了",
       "onboard_time": 1740658939,
       "rank": 12,

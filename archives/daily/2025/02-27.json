@@ -1,6 +1,6 @@
 {
   "startTime": 1740587402639,
-  "endTime": 1740660260401,
+  "endTime": 1740661224648,
   "band_list": [
     {
       "raw_hot": 2180306,
@@ -32,6 +32,14 @@
       "word": "建议春节假期取消调休",
       "onboard_time": 1740649820,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2050494,
+      "num": 309151,
+      "word": "接吻超58小时破纪录夫妇宣布分手",
+      "onboard_time": 1740655519,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 1375528,
-      "num": 500152,
+      "num": 516085,
       "word": "女子嫌金价太高在家自制金戒指",
       "onboard_time": 1740656599,
       "rank": 3,
@@ -137,14 +145,6 @@
       "onboard_time": 1740651259,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1171594,
-      "num": 309151,
-      "word": "接吻超58小时破纪录夫妇宣布分手",
-      "onboard_time": 1740655519,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1135494,
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 579207,
-      "num": 280620,
+      "num": 305007,
       "word": "章若楠追星周杰伦成功",
       "onboard_time": 1740652698,
       "rank": 41,
@@ -553,6 +553,14 @@
       "onboard_time": 1740635658,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 484550,
+      "num": 484550,
+      "word": "小米15ultra价格",
+      "onboard_time": 1740658400,
+      "rank": 8,
+      "category": "数码"
     },
     {
       "raw_hot": 475722,
@@ -803,6 +811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 320903,
+      "num": 300697,
+      "word": "北漂快递大叔首笔退休金10780元",
+      "onboard_time": 1740659299,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 318897,
       "num": 275961,
       "word": "赵露思与友人吃路边摊",
@@ -833,6 +849,14 @@
       "onboard_time": 1740651919,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 305577,
+      "num": 305577,
+      "word": "雷军夸保时捷",
+      "onboard_time": 1740660319,
+      "rank": 9,
+      "category": "汽车"
     },
     {
       "raw_hot": 305361,
@@ -897,22 +921,6 @@
       "onboard_time": 1740584600,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 281335,
-      "num": 281335,
-      "word": "小米15ultra价格",
-      "onboard_time": 1740658400,
-      "rank": 8,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 271617,
-      "num": 271617,
-      "word": "北漂快递大叔首笔退休金10780元",
-      "onboard_time": 1740659299,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 268227,
@@ -1027,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226037,
+      "num": 314055,
+      "word": "不追内娱的年轻人沉迷地下偶像",
+      "onboard_time": 1740647658,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225518,
       "num": 225518,
       "word": "每年因乳腺癌死亡的人数将增加68%",
@@ -1035,12 +1051,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 223180,
-      "num": 314055,
-      "word": "不追内娱的年轻人沉迷地下偶像",
-      "onboard_time": 1740647658,
-      "rank": 14,
-      "category": "艺人"
+      "raw_hot": 223537,
+      "num": 223537,
+      "word": "TES对战JDG",
+      "onboard_time": 1740652579,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 223078,
@@ -1056,6 +1072,22 @@
       "word": "李现现偶男主该有的样子",
       "onboard_time": 1740629960,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 215707,
+      "num": 303073,
+      "word": "花间毅壶九",
+      "onboard_time": 1740660498,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 214398,
+      "num": 202789,
+      "word": "赵露思新头像寓意",
+      "onboard_time": 1740657199,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -1099,6 +1131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205596,
+      "num": 300338,
+      "word": "长沙一32层居民楼承重墙被装修误拆",
+      "onboard_time": 1740657980,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 204873,
       "num": 204873,
       "word": "肖指导打了7针封闭",
@@ -1113,14 +1153,6 @@
       "onboard_time": 1740623120,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 202789,
-      "num": 202789,
-      "word": "赵露思新头像寓意",
-      "onboard_time": 1740657199,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 202226,
@@ -1419,14 +1451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 172768,
-      "num": 190723,
-      "word": "长沙一32层居民楼承重墙被装修误拆",
-      "onboard_time": 1740657980,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 172718,
       "num": 268493,
       "word": "有种熟人成为首富的感觉",
@@ -1507,6 +1531,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 164407,
+      "num": 157477,
+      "word": "姜妍说选衣服就像做饭一样简单",
+      "onboard_time": 1740658519,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163126,
       "num": 163126,
       "word": "吉克隽逸自曝曾对蔡国庆心动",
@@ -1571,6 +1603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157699,
+      "num": 281232,
+      "word": "吴越认证吴俪梅是恋爱脑",
+      "onboard_time": 1740659419,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157087,
       "num": 181675,
       "word": "钟楚曦走秀",
@@ -1601,14 +1641,6 @@
       "onboard_time": 1740655519,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 152308,
-      "num": 152308,
-      "word": "姜妍说选衣服就像做饭一样简单",
-      "onboard_time": 1740658519,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 152052,
@@ -1723,12 +1755,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 145220,
+      "num": 145220,
+      "word": "翟潇闻直播",
+      "onboard_time": 1740660138,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144863,
       "num": 144863,
       "word": "关晓彤新片杀青后无缝进组年代剧",
       "onboard_time": 1740655278,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144128,
+      "num": 144128,
+      "word": "TES零封KSG",
+      "onboard_time": 1740656839,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 143587,
@@ -1745,14 +1793,6 @@
       "onboard_time": 1740622759,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 140763,
-      "num": 140763,
-      "word": "TES对战JDG",
-      "onboard_time": 1740652579,
-      "rank": 38,
-      "category": "电竞"
     },
     {
       "raw_hot": 140737,
@@ -1827,6 +1867,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 131812,
+      "num": 131812,
+      "word": "雷军称小米手机国内市场份额排第2",
+      "onboard_time": 1740657079,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 130477,
       "num": 130477,
       "word": "乌克兰与美国矿产协议全文",
@@ -1891,6 +1939,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 126419,
+      "num": 304604,
+      "word": "TES晋级决赛",
+      "onboard_time": 1740660558,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 126057,
       "num": 126057,
       "word": "爱你 紫苏叶包烤肉",
@@ -1913,14 +1969,6 @@
       "onboard_time": 1740653839,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 125104,
-      "num": 125104,
-      "word": "雷军称小米手机国内市场份额排第2",
-      "onboard_time": 1740657079,
-      "rank": 41,
-      "category": "数码"
     },
     {
       "raw_hot": 124224,
@@ -1971,28 +2019,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121545,
-      "num": 121545,
-      "word": "TES零封KSG",
-      "onboard_time": 1740656839,
-      "rank": 43,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 121260,
       "num": 121260,
       "word": "妈妈回应26岁渐冻症女儿去世",
       "onboard_time": 1740635420,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119690,
-      "num": 119690,
-      "word": "翟潇闻直播",
-      "onboard_time": 1740660138,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 119556,
@@ -2099,6 +2131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109532,
+      "num": 109532,
+      "word": "王楚钦一个动作全场安静",
+      "onboard_time": 1740658879,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109120,
       "num": 268590,
       "word": "医院回应网传坐自带轮椅被阻止进入",
@@ -2153,14 +2193,6 @@
       "onboard_time": 1740642680,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105833,
-      "num": 105833,
-      "word": "王楚钦一个动作全场安静",
-      "onboard_time": 1740658879,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 105186,
@@ -2523,12 +2555,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 74946,
-      "num": 281232,
-      "word": "吴越认证吴俪梅是恋爱脑",
-      "onboard_time": 1740659419,
-      "rank": 9,
-      "category": "剧集"
+      "raw_hot": 73805,
+      "num": 106694,
+      "word": "湖北大学1.9亿申购存量房用作宿舍",
+      "onboard_time": 1740658758,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67325,
@@ -2708,7 +2740,7 @@
     },
     {
       "raw_hot": 47909,
-      "num": 280919,
+      "num": 304893,
       "word": "夜神小米15Ultra真的绝了",
       "onboard_time": 1740658939,
       "rank": 12,
