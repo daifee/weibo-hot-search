@@ -1,6 +1,6 @@
 {
   "startTime": 1740673831596,
-  "endTime": 1740694995103,
+  "endTime": 1740696036241,
   "band_list": [
     {
       "raw_hot": 1564084,
@@ -123,6 +123,14 @@
       "category": "数码,汽车"
     },
     {
+      "raw_hot": 227618,
+      "num": 227618,
+      "word": "卡卡我尽了一切努力挽救婚姻",
+      "onboard_time": 1740664581,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 227582,
       "num": 181512,
       "word": "偶遇靳东以为是公司领导",
@@ -155,6 +163,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 205921,
+      "num": 102705,
+      "word": "婚房7年没住被小区保洁换锁养鸡",
+      "onboard_time": 1740653418,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176569,
       "num": 166963,
       "word": "方媛感受到了祖国的温暖",
@@ -169,14 +185,6 @@
       "onboard_time": 1740675436,
       "rank": 6,
       "category": "汽车,数码"
-    },
-    {
-      "raw_hot": 152925,
-      "num": 152925,
-      "word": "卡卡我尽了一切努力挽救婚姻",
-      "onboard_time": 1740664581,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 151578,
@@ -211,11 +219,11 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 133510,
-      "num": 102705,
-      "word": "婚房7年没住被小区保洁换锁养鸡",
-      "onboard_time": 1740653418,
-      "rank": 36,
+      "raw_hot": 133801,
+      "num": 133801,
+      "word": "零食鲍菇螺肉主配料为福寿螺肉",
+      "onboard_time": 1740668961,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -232,14 +240,6 @@
       "word": "厂家回应零食主配料为福寿螺肉",
       "onboard_time": 1740668840,
       "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 128111,
-      "num": 128111,
-      "word": "零食鲍菇螺肉主配料为福寿螺肉",
-      "onboard_time": 1740668961,
-      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -313,6 +313,14 @@
       "onboard_time": 1740661760,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 91579,
+      "num": 173296,
+      "word": "男子陪妻子看病医生多看一眼救一命",
+      "onboard_time": 1740669739,
+      "rank": 13,
+      "category": "正能量"
     },
     {
       "raw_hot": 88447,
@@ -427,20 +435,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 66227,
-      "num": 173296,
-      "word": "男子陪妻子看病医生多看一眼救一命",
-      "onboard_time": 1740669739,
-      "rank": 13,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 65306,
       "num": 244389,
       "word": "专家科普中国结来源",
       "onboard_time": 1740673158,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61669,
+      "num": 47713,
+      "word": "卡卡前妻回应离婚说他太完美了",
+      "onboard_time": 1740690791,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 60622,
@@ -475,12 +483,12 @@
       "category": "国内时政,电影"
     },
     {
-      "raw_hot": 44111,
-      "num": 39199,
-      "word": "卡卡前妻回应离婚说他太完美了",
-      "onboard_time": 1740690791,
-      "rank": 24,
-      "category": "体育"
+      "raw_hot": 42443,
+      "num": 42443,
+      "word": "53万的小米SU7Ultra到底值不值",
+      "onboard_time": 1740687851,
+      "rank": 32,
+      "category": "汽车"
     },
     {
       "raw_hot": 40668,
@@ -515,6 +523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 32947,
+      "num": 32947,
+      "word": "刘品言说和李威没有私交",
+      "onboard_time": 1740682092,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 30854,
       "num": 70926,
       "word": "国安提醒这些机场风景不能拍",
@@ -531,20 +547,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 29317,
-      "num": 29317,
-      "word": "53万的小米SU7Ultra到底值不值",
-      "onboard_time": 1740687851,
-      "rank": 32,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 26328,
-      "num": 25831,
-      "word": "刘品言说和李威没有私交",
-      "onboard_time": 1740682092,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 29034,
+      "num": 41021,
+      "word": "第一部只刷切片看不明白的剧",
+      "onboard_time": 1740693551,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 25726,
@@ -555,28 +563,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 19852,
-      "num": 49825,
-      "word": "比模特更像模特的GAWON",
-      "onboard_time": 1740679873,
-      "rank": 19,
-      "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 19636,
-      "num": 100451,
+      "raw_hot": 25478,
+      "num": 174308,
       "word": "那些你不知道的北京地儿",
       "onboard_time": 1740655218,
       "rank": 2,
       "category": "正能量"
     },
     {
-      "raw_hot": 17202,
-      "num": 20799,
-      "word": "第一部只刷切片看不明白的剧",
-      "onboard_time": 1740693551,
-      "rank": 42,
+      "raw_hot": 23451,
+      "num": 23451,
+      "word": "滤镜 傲慢与偏见",
+      "onboard_time": 1740695233,
+      "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 19852,
+      "num": 49825,
+      "word": "比模特更像模特的GAWON",
+      "onboard_time": 1740679873,
+      "rank": 19,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 16914,
