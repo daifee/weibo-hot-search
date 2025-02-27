@@ -1,0 +1,410 @@
+{
+  "runTime": 1740637942203,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1980318,
+        "num": 1980318,
+        "word": "Fendi回应中国结争议",
+        "onboard_time": 1740634938,
+        "rank": 0,
+        "category": "民生新闻,时尚"
+      },
+      {
+        "raw_hot": 1172513,
+        "num": 1172513,
+        "word": "雷军喜提1小时首富体验卡",
+        "onboard_time": 1740636677,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 86657,
+        "num": 838594,
+        "word": "国家高新区发展成绩单来了",
+        "onboard_time": 1740630740,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 783430,
+        "num": 783430,
+        "word": "章若楠回应外貌变化",
+        "onboard_time": 1740631160,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 632108,
+        "num": 632108,
+        "word": "医院通报医生上班玩游戏致患者排队",
+        "onboard_time": 1740633020,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 543825,
+        "num": 543825,
+        "word": "建议男性陪产假不低于30天",
+        "onboard_time": 1740632541,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 460681,
+        "num": 460681,
+        "word": "迪丽热巴轻轻一夹把我吊成翘嘴",
+        "onboard_time": 1740635658,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336179,
+        "num": 336179,
+        "word": "蔡徐坤 CT",
+        "onboard_time": 1740631101,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315152,
+        "num": 315152,
+        "word": "小米股价大跌超8%",
+        "onboard_time": 1740629899,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 314402,
+        "num": 314402,
+        "word": "檀健次宋雨琦宋慧乔方灿G社生图",
+        "onboard_time": 1740633738,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 751156,
+        "num": 310921,
+        "word": "留几手离婚搬进50平出租屋",
+        "onboard_time": 1740626359,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 623368,
+        "num": 309718,
+        "word": "章若楠瘦到94斤",
+        "onboard_time": 1740633559,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 541178,
+        "num": 301631,
+        "word": "性教育课上男生大方展示卫生巾",
+        "onboard_time": 1740623781,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 508336,
+        "num": 300622,
+        "word": "韩安冉向薛小婉道歉",
+        "onboard_time": 1740631220,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367824,
+        "num": 295461,
+        "word": "陈好晒备课照",
+        "onboard_time": 1740631700,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292605,
+        "num": 292605,
+        "word": "女护士怀上58岁已婚教授孩子后勒索",
+        "onboard_time": 1740636438,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274671,
+        "num": 274671,
+        "word": "沈月头像大户上新",
+        "onboard_time": 1740633619,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62396,
+        "num": 274517,
+        "word": "檀健次米兰时装周采访",
+        "onboard_time": 1740637637,
+        "rank": 17,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 113348,
+        "num": 272138,
+        "word": "小米4分钟市值蒸发近800亿港元",
+        "onboard_time": 1740637158,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 43878,
+        "num": 268590,
+        "word": "医院回应网传坐自带轮椅被阻止进入",
+        "onboard_time": 1740636618,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83130,
+        "num": 266598,
+        "word": "渐冻症女孩去世母亲想离开老家",
+        "onboard_time": 1740637637,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265163,
+        "num": 265163,
+        "word": "雷军身家超钟睒睒登顶中国首富",
+        "onboard_time": 1740625159,
+        "rank": 21,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 192174,
+        "num": 255986,
+        "word": "NCTWISH空降",
+        "onboard_time": 1740636677,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253057,
+        "num": 253057,
+        "word": "我国牵头制定养老机器人国际标准",
+        "onboard_time": 1740625519,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 448463,
+        "num": 244256,
+        "word": "奔驰中国裁员赔偿N加9",
+        "onboard_time": 1740630441,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 210192,
+        "num": 210192,
+        "word": "香港全体公务员冻薪",
+        "onboard_time": 1740617838,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 201354,
+        "num": 201354,
+        "word": "四川近200岁盐井每天产盐2000公斤",
+        "onboard_time": 1740637579,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179372,
+        "num": 179372,
+        "word": "颖儿把劲儿劲儿感演得真好",
+        "onboard_time": 1740631160,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172350,
+        "num": 172350,
+        "word": "哪吒",
+        "onboard_time": 1740634458,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124224,
+        "num": 170577,
+        "word": "代露娃粉丝做了6个小时的弓箭",
+        "onboard_time": 1740634640,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197766,
+        "num": 169821,
+        "word": "特朗普发布AI生成加沙视频",
+        "onboard_time": 1740632783,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 212970,
+        "num": 167336,
+        "word": "周扬青和男嘉宾情人节约会vlog",
+        "onboard_time": 1740637399,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44344,
+        "num": 164807,
+        "word": "男子杀害女友27年后当街被抓",
+        "onboard_time": 1740637819,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185010,
+        "num": 162485,
+        "word": "奔驰裁员",
+        "onboard_time": 1740626780,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 161713,
+        "num": 161713,
+        "word": "第一次在综艺里感受到浓浓的be味儿",
+        "onboard_time": 1740634759,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157882,
+        "num": 157882,
+        "word": "曾求助过蔡磊的98年渐冻症女孩去世",
+        "onboard_time": 1740626359,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157598,
+        "num": 157598,
+        "word": "哪吒2已做好台湾上映一切准备",
+        "onboard_time": 1740629120,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150313,
+        "num": 150313,
+        "word": "樊振东距离霉霉又近了一步",
+        "onboard_time": 1740629241,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141967,
+        "num": 141967,
+        "word": "田曦薇让王鹤棣替临安公主吃好喝好",
+        "onboard_time": 1740637520,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140737,
+        "num": 140737,
+        "word": "Jennie专辑试听",
+        "onboard_time": 1740637579,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 137330,
+        "num": 137330,
+        "word": "怀孕遭辞退老师未签合同有五险",
+        "onboard_time": 1740626120,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125840,
+        "num": 125840,
+        "word": "爱你热度登顶",
+        "onboard_time": 1740635719,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123328,
+        "num": 123328,
+        "word": "女子求复合花4万找大师给前任下情蛊",
+        "onboard_time": 1740637579,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123269,
+        "num": 123269,
+        "word": "美乌最终协议是美方让步了吗",
+        "onboard_time": 1740632901,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 123024,
+        "num": 123024,
+        "word": "乒羽中心谴责侮辱中国运动员言行",
+        "onboard_time": 1740628100,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122099,
+        "num": 122099,
+        "word": "羽绒服还没收短袖就得穿出来了",
+        "onboard_time": 1740637759,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43216,
+        "num": 121627,
+        "word": "特朗普召开第二任期首次内阁会议",
+        "onboard_time": 1740637218,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121386,
+        "num": 121386,
+        "word": "长沙一6岁女孩来月经",
+        "onboard_time": 1740637819,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119556,
+        "num": 119556,
+        "word": "迪丽热巴模仿机器人同意开推",
+        "onboard_time": 1740635179,
+        "rank": 48,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 111434,
+        "num": 114859,
+        "word": "春天在田曦薇这里",
+        "onboard_time": 1740636498,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记强调打好关键核心技术攻坚战#"
+    }
+  }
+}

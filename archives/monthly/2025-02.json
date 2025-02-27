@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740634833949,
+  "endTime": 1740637942203,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1729,6 +1729,14 @@
       "onboard_time": 1739676259,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1980318,
+      "num": 1980318,
+      "word": "Fendi回应中国结争议",
+      "onboard_time": 1740634938,
+      "rank": 0,
+      "category": "民生新闻,时尚"
     },
     {
       "raw_hot": 1972417,
@@ -4977,6 +4985,14 @@
       "onboard_time": 1738507459,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1172513,
+      "num": 1172513,
+      "word": "雷军喜提1小时首富体验卡",
+      "onboard_time": 1740636677,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 1171497,
@@ -11907,6 +11923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 632108,
+      "num": 632108,
+      "word": "医院通报医生上班玩游戏致患者排队",
+      "onboard_time": 1740633020,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 631861,
       "num": 415073,
       "word": "徐艺洋配音小石矶娘娘",
@@ -14201,6 +14225,14 @@
       "onboard_time": 1740150381,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 543825,
+      "num": 543825,
+      "word": "建议男性陪产假不低于30天",
+      "onboard_time": 1740632541,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 542792,
@@ -17275,6 +17307,14 @@
       "category": "综艺,旅游"
     },
     {
+      "raw_hot": 460681,
+      "num": 460681,
+      "word": "迪丽热巴轻轻一夹把我吊成翘嘴",
+      "onboard_time": 1740635658,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 460322,
       "num": 460322,
       "word": "青海摇网红阿浩患肝癌离世",
@@ -18616,14 +18656,6 @@
       "word": "印度23岁女子婚礼台上跳舞猝死",
       "onboard_time": 1739196262,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 423512,
-      "num": 423512,
-      "word": "建议男性陪产假不低于30天",
-      "onboard_time": 1740632541,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -24355,6 +24387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 314402,
+      "num": 314402,
+      "word": "檀健次宋雨琦宋慧乔方灿G社生图",
+      "onboard_time": 1740633738,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 314243,
       "num": 286581,
       "word": "唐探1900票房超30亿",
@@ -25953,6 +25993,14 @@
       "onboard_time": 1739892202,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 292605,
+      "num": 292605,
+      "word": "女护士怀上58岁已婚教授孩子后勒索",
+      "onboard_time": 1740636438,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 292590,
@@ -27592,14 +27640,6 @@
       "word": "男子复合后借200万准丈人报警",
       "onboard_time": 1739606840,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 273960,
-      "num": 273960,
-      "word": "医院通报医生上班玩游戏致患者排队",
-      "onboard_time": 1740633020,
-      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -35451,6 +35491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212970,
+      "num": 167336,
+      "word": "周扬青和男嘉宾情人节约会vlog",
+      "onboard_time": 1740637399,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212948,
       "num": 212948,
       "word": "王俊凯 路演",
@@ -38243,6 +38291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201354,
+      "num": 201354,
+      "word": "四川近200岁盐井每天产盐2000公斤",
+      "onboard_time": 1740637579,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201311,
       "num": 201311,
       "word": "杨幂英伦格调",
@@ -39313,6 +39369,14 @@
       "onboard_time": 1740223460,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197766,
+      "num": 169821,
+      "word": "特朗普发布AI生成加沙视频",
+      "onboard_time": 1740632783,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 197731,
@@ -40985,6 +41049,14 @@
       "onboard_time": 1738680685,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192174,
+      "num": 255986,
+      "word": "NCTWISH空降",
+      "onboard_time": 1740636677,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 192171,
@@ -44377,14 +44449,6 @@
       "onboard_time": 1739411659,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 180841,
-      "num": 180841,
-      "word": "檀健次宋雨琦宋慧乔方灿G社生图",
-      "onboard_time": 1740633738,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 180798,
@@ -49665,6 +49729,14 @@
       "onboard_time": 1740482421,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 161713,
+      "num": 161713,
+      "word": "第一次在综艺里感受到浓浓的be味儿",
+      "onboard_time": 1740634759,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 161700,
@@ -55635,6 +55707,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 141967,
+      "num": 141967,
+      "word": "田曦薇让王鹤棣替临安公主吃好喝好",
+      "onboard_time": 1740637520,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141943,
       "num": 141943,
       "word": "iPhone16e配置",
@@ -55897,6 +55977,14 @@
       "onboard_time": 1738676366,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 140737,
+      "num": 140737,
+      "word": "Jennie专辑试听",
+      "onboard_time": 1740637579,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 140730,
@@ -57561,14 +57649,6 @@
       "onboard_time": 1739690717,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134490,
-      "num": 162302,
-      "word": "特朗普发布AI生成加沙视频",
-      "onboard_time": 1740632783,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 134425,
@@ -59843,6 +59923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125840,
+      "num": 125840,
+      "word": "爱你热度登顶",
+      "onboard_time": 1740635719,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125830,
       "num": 125830,
       "word": "苏敏阿姨说对射雕的江湖观很有感触",
@@ -60171,6 +60259,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 124224,
+      "num": 170577,
+      "word": "代露娃粉丝做了6个小时的弓箭",
+      "onboard_time": 1740634640,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124150,
       "num": 477086,
       "word": "2025年中国电影票房破百亿",
@@ -60457,6 +60553,22 @@
       "onboard_time": 1740012141,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123328,
+      "num": 123328,
+      "word": "女子求复合花4万找大师给前任下情蛊",
+      "onboard_time": 1740637579,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123269,
+      "num": 432699,
+      "word": "美乌最终协议是美方让步了吗",
+      "onboard_time": 1740632901,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 123249,
@@ -60763,6 +60875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122099,
+      "num": 122099,
+      "word": "羽绒服还没收短袖就得穿出来了",
+      "onboard_time": 1740637759,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122057,
       "num": 376190,
       "word": "王楚钦说红旗升起最让他骄傲",
@@ -60931,14 +61051,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 121520,
-      "num": 121520,
-      "word": "代露娃粉丝做了6个小时的弓箭",
-      "onboard_time": 1740634640,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 121493,
       "num": 121493,
       "word": "陈晓费加罗男士雪中大片",
@@ -60985,6 +61097,14 @@
       "onboard_time": 1739453722,
       "rank": 43,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 121386,
+      "num": 121386,
+      "word": "长沙一6岁女孩来月经",
+      "onboard_time": 1740637819,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121359,
@@ -61345,6 +61465,14 @@
       "onboard_time": 1738768286,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 119556,
+      "num": 119556,
+      "word": "迪丽热巴模仿机器人同意开推",
+      "onboard_time": 1740635179,
+      "rank": 48,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 119474,
@@ -61745,14 +61873,6 @@
       "onboard_time": 1740561619,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 117818,
-      "num": 117818,
-      "word": "第一次在综艺里感受到浓浓的be味儿",
-      "onboard_time": 1740634759,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 117752,
@@ -62156,7 +62276,7 @@
     },
     {
       "raw_hot": 115589,
-      "num": 810005,
+      "num": 838594,
       "word": "国家高新区发展成绩单来了",
       "onboard_time": 1740630740,
       "rank": 2,
@@ -62641,6 +62761,14 @@
       "onboard_time": 1738632381,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 113348,
+      "num": 272138,
+      "word": "小米4分钟市值蒸发近800亿港元",
+      "onboard_time": 1740637158,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 113335,
@@ -63225,6 +63353,14 @@
       "onboard_time": 1740413237,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 111434,
+      "num": 114859,
+      "word": "春天在田曦薇这里",
+      "onboard_time": 1740636498,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 111422,
@@ -64921,14 +65057,6 @@
       "onboard_time": 1739854764,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 103456,
-      "num": 432699,
-      "word": "美乌最终协议是美方让步了吗",
-      "onboard_time": 1740632901,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 103420,
@@ -68587,6 +68715,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 83130,
+      "num": 266598,
+      "word": "渐冻症女孩去世母亲想离开老家",
+      "onboard_time": 1740637637,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83053,
       "num": 127032,
       "word": "太阳认真考虑交易杜兰特",
@@ -72081,6 +72217,14 @@
       "onboard_time": 1738766006,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62396,
+      "num": 274517,
+      "word": "檀健次米兰时装周采访",
+      "onboard_time": 1740637637,
+      "rank": 17,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 62349,
@@ -75891,6 +76035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 44344,
+      "num": 164807,
+      "word": "男子杀害女友27年后当街被抓",
+      "onboard_time": 1740637819,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44279,
       "num": 292004,
       "word": "梦回冬奥",
@@ -75976,6 +76128,14 @@
       "word": "日照160亩永久基本农田撂荒两年多",
       "onboard_time": 1740575421,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43878,
+      "num": 268590,
+      "word": "医院回应网传坐自带轮椅被阻止进入",
+      "onboard_time": 1740636618,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -76137,6 +76297,14 @@
       "onboard_time": 1739158762,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 43216,
+      "num": 121627,
+      "word": "特朗普召开第二任期首次内阁会议",
+      "onboard_time": 1740637218,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 43125,
