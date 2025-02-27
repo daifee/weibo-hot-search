@@ -1,6 +1,6 @@
 {
   "startTime": 1740673831596,
-  "endTime": 1740681133848,
+  "endTime": 1740681911107,
   "band_list": [
     {
       "raw_hot": 1564084,
@@ -195,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135870,
+      "num": 135870,
+      "word": "卡卡我尽了一切努力挽救婚姻",
+      "onboard_time": 1740664581,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135456,
       "num": 135456,
       "word": "陈昊宇米兰首秀g社生图",
@@ -225,14 +233,6 @@
       "onboard_time": 1740668961,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 127675,
-      "num": 127675,
-      "word": "卡卡我尽了一切努力挽救婚姻",
-      "onboard_time": 1740664581,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 125408,
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 48853,
-      "num": 48853,
+      "num": 51710,
       "word": "国防部发言人引用哪吒2台词",
       "onboard_time": 1740679092,
       "rank": 21,
@@ -507,12 +507,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 30854,
+      "num": 70926,
+      "word": "国安提醒这些机场风景不能拍",
+      "onboard_time": 1740680413,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25726,
       "num": 25726,
       "word": "吉恩哈克曼去世",
       "onboard_time": 1740679153,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 19852,
+      "num": 49825,
+      "word": "比模特更像模特的GAWON",
+      "onboard_time": 1740679873,
+      "rank": 19,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 14857,
@@ -523,20 +539,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 14008,
-      "num": 49825,
-      "word": "比模特更像模特的GAWON",
-      "onboard_time": 1740679873,
-      "rank": 19,
-      "category": "艺人,时尚"
+      "raw_hot": 10942,
+      "num": 36236,
+      "word": "重庆的轨道列车载着春色穿行花海",
+      "onboard_time": 1740680292,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 13273,
-      "num": 70926,
-      "word": "国安提醒这些机场风景不能拍",
-      "onboard_time": 1740680413,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 8241,
+      "num": 45969,
+      "word": "陈昊宇柳智敏同框看秀",
+      "onboard_time": 1740681371,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     }
   ],
   "hotgov_list": [
