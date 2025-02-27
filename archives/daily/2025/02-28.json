@@ -1,6 +1,6 @@
 {
   "startTime": 1740673831596,
-  "endTime": 1740676877786,
+  "endTime": 1740677938611,
   "band_list": [
     {
       "raw_hot": 1564084,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 92657,
-      "num": 92657,
+      "num": 93161,
       "word": "卡卡我尽了一切努力挽救婚姻",
       "onboard_time": 1740664581,
       "rank": 39,
@@ -395,6 +395,14 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 79906,
+      "num": 79906,
+      "word": "PEL",
+      "onboard_time": 1740668361,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 76542,
       "num": 76542,
       "word": "周扬青自曝新恋情见光死",
@@ -435,6 +443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 56780,
+      "num": 98136,
+      "word": "外交部回应美挑拨离间中俄关系",
+      "onboard_time": 1740676694,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 51364,
       "num": 89788,
       "word": "美国放弃乌克兰欧洲能站出来吗",
@@ -467,11 +483,27 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 18574,
-      "num": 90480,
-      "word": "外交部回应美挑拨离间中俄关系",
-      "onboard_time": 1740676694,
-      "rank": 28,
+      "raw_hot": 33127,
+      "num": 35982,
+      "word": "周雨彤回应辞职发疯戏",
+      "onboard_time": 1740651439,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 14857,
+      "num": 66763,
+      "word": "宝可梦传说ZA秋季发售",
+      "onboard_time": 1740677294,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 12669,
+      "num": 46790,
+      "word": "美方对中俄挑拨离间完全是徒劳的",
+      "onboard_time": 1740677892,
+      "rank": 37,
       "category": "国际时政"
     }
   ],
