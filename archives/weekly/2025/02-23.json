@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740663025364,
+  "endTime": 1740663700789,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -588,7 +588,7 @@
     },
     {
       "raw_hot": 1425552,
-      "num": 332958,
+      "num": 349477,
       "word": "周扬青自曝新恋情见光死",
       "onboard_time": 1740644239,
       "rank": 15,
@@ -644,7 +644,7 @@
     },
     {
       "raw_hot": 1375528,
-      "num": 901323,
+      "num": 971923,
       "word": "女子嫌金价太高在家自制金戒指",
       "onboard_time": 1740656599,
       "rank": 3,
@@ -721,6 +721,14 @@
       "onboard_time": 1740321562,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1295987,
+      "num": 1295987,
+      "word": "小米SU7Ultra",
+      "onboard_time": 1740662481,
+      "rank": 7,
+      "category": "汽车"
     },
     {
       "raw_hot": 1275789,
@@ -1211,6 +1219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 991378,
+      "num": 991378,
+      "word": "雷军夸保时捷",
+      "onboard_time": 1740660319,
+      "rank": 9,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 988249,
       "num": 988249,
       "word": "迪丽热巴我觉得有点尴尬",
@@ -1425,14 +1441,6 @@
       "onboard_time": 1740365721,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 900933,
-      "num": 900933,
-      "word": "雷军夸保时捷",
-      "onboard_time": 1740660319,
-      "rank": 9,
-      "category": "汽车"
     },
     {
       "raw_hot": 896881,
@@ -2684,7 +2692,7 @@
     },
     {
       "raw_hot": 579207,
-      "num": 392303,
+      "num": 418141,
       "word": "章若楠追星周杰伦成功",
       "onboard_time": 1740652698,
       "rank": 41,
@@ -3731,14 +3739,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 429107,
-      "num": 429107,
-      "word": "小米SU7Ultra",
-      "onboard_time": 1740662481,
-      "rank": 7,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 428312,
       "num": 461802,
       "word": "偶遇王俊凯公园锻炼",
@@ -3809,6 +3809,14 @@
       "onboard_time": 1740583579,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 418051,
+      "num": 418051,
+      "word": "小米SU7Ultra定价52.99万元",
+      "onboard_time": 1740662900,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 416847,
@@ -4328,6 +4336,14 @@
       "word": "国企拟录用3名本科生名单被删",
       "onboard_time": 1740306021,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 357799,
+      "num": 412261,
+      "word": "创始人回应月薪5千不要吃巴奴言论",
+      "onboard_time": 1740656540,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -4851,6 +4867,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 310548,
+      "num": 310548,
+      "word": "小米耳机",
+      "onboard_time": 1740661760,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 309643,
       "num": 309643,
       "word": "徐若晗朋友圈",
@@ -5027,6 +5051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 296081,
+      "num": 296081,
+      "word": "俄美已准备好重新建立合作关系",
+      "onboard_time": 1740661519,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 295478,
       "num": 203722,
       "word": "印度两女子欲用行李箱抛尸被逮捕",
@@ -5185,14 +5217,6 @@
       "onboard_time": 1740638899,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 288158,
-      "num": 288158,
-      "word": "俄美已准备好重新建立合作关系",
-      "onboard_time": 1740661519,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 287902,
@@ -5385,14 +5409,6 @@
       "onboard_time": 1740254232,
       "rank": 11,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 276559,
-      "num": 276559,
-      "word": "小米SU7Ultra定价52.99万元",
-      "onboard_time": 1740662900,
-      "rank": 33,
-      "category": "汽车"
     },
     {
       "raw_hot": 276444,
@@ -5681,14 +5697,6 @@
       "onboard_time": 1740582861,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 258995,
-      "num": 258995,
-      "word": "小米耳机",
-      "onboard_time": 1740661760,
-      "rank": 37,
-      "category": "数码"
     },
     {
       "raw_hot": 257768,
@@ -6811,6 +6819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 214330,
+      "num": 394799,
+      "word": "唐九洲新剧全自动闯祸弟",
+      "onboard_time": 1740662601,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214238,
       "num": 321252,
       "word": "偶像男团插队登机合理吗",
@@ -6993,14 +7009,6 @@
       "onboard_time": 1740445520,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 208475,
-      "num": 412261,
-      "word": "创始人回应月薪5千不要吃巴奴言论",
-      "onboard_time": 1740656540,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 208353,
@@ -7755,6 +7763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192289,
+      "num": 192289,
+      "word": "李嘉琦六姊妹杀青长文",
+      "onboard_time": 1740656417,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192266,
       "num": 445426,
       "word": "联合国播放加沙女孩遇害前求救声",
@@ -8331,6 +8347,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182952,
+      "num": 182952,
+      "word": "狼队BP",
+      "onboard_time": 1740663080,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 182634,
+      "num": 182634,
+      "word": "Prada米兰女装秀",
+      "onboard_time": 1740663560,
+      "rank": 40,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 182471,
       "num": 182471,
       "word": "林一参加黄明昊签售会",
@@ -8457,6 +8489,14 @@
       "onboard_time": 1740641237,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 180170,
+      "num": 180170,
+      "word": "虚构女主",
+      "onboard_time": 1740663499,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 180080,
@@ -8697,14 +8737,6 @@
       "onboard_time": 1740612015,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 175753,
-      "num": 175753,
-      "word": "李嘉琦六姊妹杀青长文",
-      "onboard_time": 1740656417,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 175748,
@@ -10323,6 +10355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150536,
+      "num": 150536,
+      "word": "白敬亭回应眼睛会爱人",
+      "onboard_time": 1740663381,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150533,
       "num": 150533,
       "word": "DeepSeek重新开放API充值并调价",
@@ -10867,14 +10907,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142303,
-      "num": 394799,
-      "word": "唐九洲新剧全自动闯祸弟",
-      "onboard_time": 1740662601,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 142149,
       "num": 206700,
       "word": "特朗普称基本与乌达成矿产协议",
@@ -11337,6 +11369,14 @@
       "onboard_time": 1740288978,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133393,
+      "num": 345746,
+      "word": "NJZ开通新账号",
+      "onboard_time": 1740662061,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 132981,
@@ -12347,6 +12387,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 112445,
+      "num": 407351,
+      "word": "住建局回应32层居民楼承重柱被拆",
+      "onboard_time": 1740662361,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112273,
       "num": 112273,
       "word": "王楚钦胜林昀儒",
@@ -12649,6 +12697,14 @@
       "onboard_time": 1740237022,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 107127,
+      "num": 311783,
+      "word": "JDG无缘全球先锋赛",
+      "onboard_time": 1740663020,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 106135,
@@ -13019,14 +13075,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 95072,
-      "num": 407351,
-      "word": "住建局回应32层居民楼承重柱被拆",
-      "onboard_time": 1740662361,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 94431,
       "num": 527009,
       "word": "官方通报村民清理化粪池致2死",
@@ -13387,6 +13435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84471,
+      "num": 304236,
+      "word": "高空掉落30cm螺丝刀直插男子胸腔",
+      "onboard_time": 1740656059,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84307,
       "num": 84307,
       "word": "医生谈女子用土方敷脚被染色",
@@ -13425,14 +13481,6 @@
       "onboard_time": 1740392899,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 83101,
-      "num": 304236,
-      "word": "高空掉落30cm螺丝刀直插男子胸腔",
-      "onboard_time": 1740656059,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 82858,
@@ -13564,7 +13612,7 @@
     },
     {
       "raw_hot": 81155,
-      "num": 935151,
+      "num": 1007873,
       "word": "那些你不知道的北京地儿",
       "onboard_time": 1740655218,
       "rank": 2,
@@ -13753,6 +13801,14 @@
       "onboard_time": 1740573319,
       "rank": 17,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 74408,
+      "num": 418335,
+      "word": "哪吒炸出了多少民间高手",
+      "onboard_time": 1740662960,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 74339,
@@ -16089,14 +16145,6 @@
       "onboard_time": 1740422232,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 18091,
-      "num": 260506,
-      "word": "哪吒炸出了多少民间高手",
-      "onboard_time": 1740662960,
-      "rank": 36,
-      "category": "电影"
     },
     {
       "raw_hot": 17919,

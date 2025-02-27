@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740663025364,
+  "endTime": 1740663700789,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -3580,7 +3580,7 @@
     },
     {
       "raw_hot": 1425552,
-      "num": 332958,
+      "num": 349477,
       "word": "周扬青自曝新恋情见光死",
       "onboard_time": 1740644239,
       "rank": 15,
@@ -3860,7 +3860,7 @@
     },
     {
       "raw_hot": 1375528,
-      "num": 901323,
+      "num": 971923,
       "word": "女子嫌金价太高在家自制金戒指",
       "onboard_time": 1740656599,
       "rank": 3,
@@ -4249,6 +4249,14 @@
       "onboard_time": 1740321562,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1295987,
+      "num": 1295987,
+      "word": "小米SU7Ultra",
+      "onboard_time": 1740662481,
+      "rank": 7,
+      "category": "汽车"
     },
     {
       "raw_hot": 1293657,
@@ -6547,6 +6555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 991378,
+      "num": 991378,
+      "word": "雷军夸保时捷",
+      "onboard_time": 1740660319,
+      "rank": 9,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 990909,
       "num": 990909,
       "word": "金价连涨一克左右的金饰成市场主流",
@@ -7609,14 +7625,6 @@
       "onboard_time": 1740365721,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 900933,
-      "num": 900933,
-      "word": "雷军夸保时捷",
-      "onboard_time": 1740660319,
-      "rank": 9,
-      "category": "汽车"
     },
     {
       "raw_hot": 896881,
@@ -13388,7 +13396,7 @@
     },
     {
       "raw_hot": 579207,
-      "num": 392303,
+      "num": 418141,
       "word": "章若楠追星周杰伦成功",
       "onboard_time": 1740652698,
       "rank": 41,
@@ -18755,14 +18763,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 429107,
-      "num": 429107,
-      "word": "小米SU7Ultra",
-      "onboard_time": 1740662481,
-      "rank": 7,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 428920,
       "num": 428920,
       "word": "高亭宇破亚洲纪录",
@@ -19273,6 +19273,14 @@
       "onboard_time": 1739516301,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 418051,
+      "num": 418051,
+      "word": "小米SU7Ultra定价52.99万元",
+      "onboard_time": 1740662900,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 417041,
@@ -22065,6 +22073,14 @@
       "onboard_time": 1738767446,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 357799,
+      "num": 412261,
+      "word": "创始人回应月薪5千不要吃巴奴言论",
+      "onboard_time": 1740656540,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 357575,
@@ -25043,6 +25059,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 310548,
+      "num": 310548,
+      "word": "小米耳机",
+      "onboard_time": 1740661760,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 310546,
       "num": 310546,
       "word": "特朗普为内塔尼亚胡推椅子",
@@ -26131,6 +26155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 296081,
+      "num": 296081,
+      "word": "俄美已准备好重新建立合作关系",
+      "onboard_time": 1740661519,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 295977,
       "num": 295977,
       "word": "花1980元可定做一张AI人脸",
@@ -26873,14 +26905,6 @@
       "onboard_time": 1740638899,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 288158,
-      "num": 288158,
-      "word": "俄美已准备好重新建立合作关系",
-      "onboard_time": 1740661519,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 288154,
@@ -27905,14 +27929,6 @@
       "onboard_time": 1739632461,
       "rank": 32,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 276559,
-      "num": 276559,
-      "word": "小米SU7Ultra定价52.99万元",
-      "onboard_time": 1740662900,
-      "rank": 33,
-      "category": "汽车"
     },
     {
       "raw_hot": 276444,
@@ -29393,14 +29409,6 @@
       "onboard_time": 1739105542,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 258995,
-      "num": 258995,
-      "word": "小米耳机",
-      "onboard_time": 1740661760,
-      "rank": 37,
-      "category": "数码"
     },
     {
       "raw_hot": 258985,
@@ -35811,6 +35819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214330,
+      "num": 394799,
+      "word": "唐九洲新剧全自动闯祸弟",
+      "onboard_time": 1740662601,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214301,
       "num": 214301,
       "word": "女子多次楼道烧香倒灰撒冥纸邻居崩溃",
@@ -36945,14 +36961,6 @@
       "onboard_time": 1739358741,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 208475,
-      "num": 412261,
-      "word": "创始人回应月薪5千不要吃巴奴言论",
-      "onboard_time": 1740656540,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 208415,
@@ -41579,6 +41587,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 192289,
+      "num": 192289,
+      "word": "李嘉琦六姊妹杀青长文",
+      "onboard_time": 1740656417,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192266,
       "num": 445426,
       "word": "联合国播放加沙女孩遇害前求救声",
@@ -44427,6 +44443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182952,
+      "num": 182952,
+      "word": "狼队BP",
+      "onboard_time": 1740663080,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 182941,
       "num": 182941,
       "word": "DeepSeek评国补买什么手机最值",
@@ -44537,6 +44561,14 @@
       "onboard_time": 1739795239,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 182634,
+      "num": 182634,
+      "word": "Prada米兰女装秀",
+      "onboard_time": 1740663560,
+      "rank": 40,
+      "category": "时尚"
     },
     {
       "raw_hot": 182623,
@@ -45217,6 +45249,14 @@
       "onboard_time": 1739974762,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180170,
+      "num": 180170,
+      "word": "虚构女主",
+      "onboard_time": 1740663499,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 180141,
@@ -46297,14 +46337,6 @@
       "onboard_time": 1739540004,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 175753,
-      "num": 175753,
-      "word": "李嘉琦六姊妹杀青长文",
-      "onboard_time": 1740656417,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 175748,
@@ -53811,6 +53843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150536,
+      "num": 150536,
+      "word": "白敬亭回应眼睛会爱人",
+      "onboard_time": 1740663381,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150533,
       "num": 150533,
       "word": "DeepSeek重新开放API充值并调价",
@@ -56403,14 +56443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142303,
-      "num": 394799,
-      "word": "唐九洲新剧全自动闯祸弟",
-      "onboard_time": 1740662601,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 142273,
       "num": 295807,
       "word": "蛇年开工首日",
@@ -58761,6 +58793,14 @@
       "onboard_time": 1740288978,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133393,
+      "num": 345746,
+      "word": "NJZ开通新账号",
+      "onboard_time": 1740662061,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 133293,
@@ -63923,6 +63963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112445,
+      "num": 407351,
+      "word": "住建局回应32层居民楼承重柱被拆",
+      "onboard_time": 1740662361,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112381,
       "num": 112381,
       "word": "财神爷 财神奶",
@@ -65353,6 +65401,14 @@
       "onboard_time": 1740154398,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107127,
+      "num": 311783,
+      "word": "JDG无缘全球先锋赛",
+      "onboard_time": 1740663020,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 107108,
@@ -67811,14 +67867,6 @@
       "category": "运动健身,教育"
     },
     {
-      "raw_hot": 95072,
-      "num": 407351,
-      "word": "住建局回应32层居民楼承重柱被拆",
-      "onboard_time": 1740662361,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 95029,
       "num": 211931,
       "word": "亚冬会丁香花",
@@ -69539,6 +69587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84471,
+      "num": 304236,
+      "word": "高空掉落30cm螺丝刀直插男子胸腔",
+      "onboard_time": 1740656059,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84426,
       "num": 119460,
       "word": "首次进国补的洗碗机受欢迎",
@@ -69761,14 +69817,6 @@
       "onboard_time": 1738570166,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 83101,
-      "num": 304236,
-      "word": "高空掉落30cm螺丝刀直插男子胸腔",
-      "onboard_time": 1740656059,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 83053,
@@ -70108,7 +70156,7 @@
     },
     {
       "raw_hot": 81155,
-      "num": 935151,
+      "num": 1007873,
       "word": "那些你不知道的北京地儿",
       "onboard_time": 1740655218,
       "rank": 2,
@@ -71313,6 +71361,14 @@
       "onboard_time": 1739265321,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74408,
+      "num": 418335,
+      "word": "哪吒炸出了多少民间高手",
+      "onboard_time": 1740662960,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 74339,
@@ -83585,14 +83641,6 @@
       "onboard_time": 1740191658,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 18091,
-      "num": 260506,
-      "word": "哪吒炸出了多少民间高手",
-      "onboard_time": 1740662960,
-      "rank": 36,
-      "category": "电影"
     },
     {
       "raw_hot": 18016,
