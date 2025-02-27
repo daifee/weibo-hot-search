@@ -1,0 +1,410 @@
+{
+  "runTime": 1740692183766,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 111754,
+        "num": 174564,
+        "word": "哪吒2配音演员起诉配音公司",
+        "onboard_time": 1740667942,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 80353,
+        "num": 80353,
+        "word": "卡卡我尽了一切努力挽救婚姻",
+        "onboard_time": 1740664581,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14179,
+        "num": 48433,
+        "word": "那些你不知道的北京地儿",
+        "onboard_time": 1740655218,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 47968,
+        "num": 47968,
+        "word": "零食鲍菇螺肉主配料为福寿螺肉",
+        "onboard_time": 1740668961,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47778,
+        "num": 47778,
+        "word": "小米",
+        "onboard_time": 1740675436,
+        "rank": 4,
+        "category": "汽车,数码"
+      },
+      {
+        "raw_hot": 47147,
+        "num": 47147,
+        "word": "小米SU7Ultra",
+        "onboard_time": 1740662481,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 45618,
+        "num": 45618,
+        "word": "男子陪妻子看病医生多看一眼救一命",
+        "onboard_time": 1740669739,
+        "rank": 6,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 37584,
+        "num": 37584,
+        "word": "小猪佩奇猪妈妈怀三胎",
+        "onboard_time": 1740665960,
+        "rank": 7,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 27864,
+        "num": 37580,
+        "word": "前TVB甜妹唐宁回应满头白发",
+        "onboard_time": 1740668479,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22589,
+        "num": 37449,
+        "word": "对重大犯罪依法严惩绝不手软",
+        "onboard_time": 1740682691,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 178823,
+        "num": 37387,
+        "word": "关晓彤",
+        "onboard_time": 1740674355,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77647,
+        "num": 37325,
+        "word": "婚房7年没住被小区保洁换锁养鸡",
+        "onboard_time": 1740653418,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47888,
+        "num": 37254,
+        "word": "接吻超58小时破纪录夫妇宣布分手",
+        "onboard_time": 1740655519,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43254,
+        "num": 37187,
+        "word": "偶遇靳东以为是公司领导",
+        "onboard_time": 1740671778,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40459,
+        "num": 37170,
+        "word": "方媛感受到了祖国的温暖",
+        "onboard_time": 1740671178,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 37103,
+        "num": 37103,
+        "word": "母鸡卡",
+        "onboard_time": 1740671119,
+        "rank": 15,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 35458,
+        "num": 35458,
+        "word": "薛小婉怒斥韩安冉",
+        "onboard_time": 1740651259,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31034,
+        "num": 31034,
+        "word": "李维嘉这辈子有为王栎鑫拼过命",
+        "onboard_time": 1740661820,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29627,
+        "num": 29627,
+        "word": "小米SU7Ultra定价52.99万元",
+        "onboard_time": 1740662900,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 24775,
+        "num": 24775,
+        "word": "女子嫌金价太高在家自制金戒指",
+        "onboard_time": 1740656599,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31352,
+        "num": 24300,
+        "word": "Gucci全平台更新肖战",
+        "onboard_time": 1740674236,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 29772,
+        "num": 24042,
+        "word": "老人退休金9000多元家中却垃圾成山",
+        "onboard_time": 1740654739,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23182,
+        "num": 23182,
+        "word": "雷军夸保时捷",
+        "onboard_time": 1740660319,
+        "rank": 22,
+        "category": "汽车,互联网"
+      },
+      {
+        "raw_hot": 22722,
+        "num": 22722,
+        "word": "卡卡前妻回应离婚说他太完美了",
+        "onboard_time": 1740690791,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22292,
+        "num": 22292,
+        "word": "美国民众称特朗普卖金卡是笑话",
+        "onboard_time": 1740670218,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 22212,
+        "num": 22212,
+        "word": "美国放弃乌克兰欧洲能站出来吗",
+        "onboard_time": 1740675494,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21320,
+        "num": 21320,
+        "word": "300元一张的始祖鸟吊牌到底谁在买",
+        "onboard_time": 1740652758,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20788,
+        "num": 20788,
+        "word": "长沙一32层居民楼承重墙被装修误拆",
+        "onboard_time": 1740657980,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18321,
+        "num": 20257,
+        "word": "美方对中俄挑拨离间完全是徒劳的",
+        "onboard_time": 1740677892,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17141,
+        "num": 20097,
+        "word": "爱你",
+        "onboard_time": 1740656299,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20084,
+        "num": 20084,
+        "word": "陈昊宇柳智敏边佑锡生图",
+        "onboard_time": 1740673576,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 19977,
+        "num": 19977,
+        "word": "韩佳人自曝曾一年内流产三次",
+        "onboard_time": 1740646580,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19941,
+        "num": 19941,
+        "word": "小米15Ultra及SU7Ultra今日发布",
+        "onboard_time": 1740671119,
+        "rank": 32,
+        "category": "数码,汽车"
+      },
+      {
+        "raw_hot": 19397,
+        "num": 19397,
+        "word": "53万的小米SU7Ultra到底值不值",
+        "onboard_time": 1740687851,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 18285,
+        "num": 18285,
+        "word": "香港丁克夫妻29平的房怎么住",
+        "onboard_time": 1740664581,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17660,
+        "num": 17660,
+        "word": "国防部发言人引用哪吒2台词",
+        "onboard_time": 1740679092,
+        "rank": 35,
+        "category": "国内时政,电影"
+      },
+      {
+        "raw_hot": 17336,
+        "num": 17336,
+        "word": "建议春节假期取消调休",
+        "onboard_time": 1740649820,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15662,
+        "num": 15662,
+        "word": "PEL",
+        "onboard_time": 1740668361,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14795,
+        "num": 14795,
+        "word": "刘品言说和李威没有私交",
+        "onboard_time": 1740682092,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13814,
+        "num": 13814,
+        "word": "行动是打消不安最好的利器",
+        "onboard_time": 1740674655,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13685,
+        "num": 13685,
+        "word": "哪吒2票房已破140亿",
+        "onboard_time": 1740649398,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13647,
+        "num": 13647,
+        "word": "Prada大秀",
+        "onboard_time": 1740667942,
+        "rank": 41,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 12909,
+        "num": 13582,
+        "word": "国安提醒这些机场风景不能拍",
+        "onboard_time": 1740680413,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13520,
+        "num": 13520,
+        "word": "孟子义米兰时装周出发啦",
+        "onboard_time": 1740671719,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 12815,
+        "num": 13475,
+        "word": "周扬青自曝新恋情见光死",
+        "onboard_time": 1740644239,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 12699,
+        "num": 13455,
+        "word": "鬼灭之刃变柱灭之刃",
+        "onboard_time": 1740669200,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 12641,
+        "num": 13420,
+        "word": "外交部回应美挑拨离间中俄关系",
+        "onboard_time": 1740676694,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 12328,
+        "num": 13337,
+        "word": "看AI如何助力春耕育种",
+        "onboard_time": 1740668541,
+        "rank": 47,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 12206,
+        "num": 13321,
+        "word": "180天重启计划",
+        "onboard_time": 1740678012,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10987,
+        "num": 13233,
+        "word": "翟潇闻创2的含金量还在上升",
+        "onboard_time": 1740672378,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#种下石榴籽开出团结花#"
+    }
+  }
+}

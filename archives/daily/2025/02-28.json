@@ -1,6 +1,6 @@
 {
   "startTime": 1740673831596,
-  "endTime": 1740691323291,
+  "endTime": 1740692183766,
   "band_list": [
     {
       "raw_hot": 1564084,
@@ -539,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 22722,
+      "num": 22722,
+      "word": "卡卡前妻回应离婚说他太完美了",
+      "onboard_time": 1740690791,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 19852,
       "num": 49825,
       "word": "比模特更像模特的GAWON",
@@ -547,16 +555,8 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 16604,
-      "num": 20370,
-      "word": "卡卡前妻回应离婚说他太完美了",
-      "onboard_time": 1740690791,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 16526,
-      "num": 16526,
+      "raw_hot": 19397,
+      "num": 19397,
       "word": "53万的小米SU7Ultra到底值不值",
       "onboard_time": 1740687851,
       "rank": 32,
@@ -587,7 +587,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 12017,
+      "raw_hot": 14179,
       "num": 69903,
       "word": "那些你不知道的北京地儿",
       "onboard_time": 1740655218,

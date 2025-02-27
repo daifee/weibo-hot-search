@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740691323291,
+  "endTime": 1740692183766,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -82939,6 +82939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 22722,
+      "num": 22722,
+      "word": "卡卡前妻回应离婚说他太完美了",
+      "onboard_time": 1740690791,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 22643,
       "num": 22643,
       "word": "特朗普称撞机时黑鹰直升机高度过高",
@@ -83923,6 +83931,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 19397,
+      "num": 19397,
+      "word": "53万的小米SU7Ultra到底值不值",
+      "onboard_time": 1740687851,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 19394,
       "num": 430979,
       "word": "吕先景公路车亚锦赛冠军",
@@ -84467,14 +84483,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 16604,
-      "num": 20370,
-      "word": "卡卡前妻回应离婚说他太完美了",
-      "onboard_time": 1740690791,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 16584,
       "num": 147859,
       "word": "跟着吒儿去旅行",
@@ -84497,14 +84505,6 @@
       "onboard_time": 1740129982,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 16526,
-      "num": 16526,
-      "word": "53万的小米SU7Ultra到底值不值",
-      "onboard_time": 1740687851,
-      "rank": 32,
-      "category": "汽车"
     },
     {
       "raw_hot": 16451,
