@@ -1,6 +1,6 @@
 {
   "startTime": 1740587402639,
-  "endTime": 1740637942203,
+  "endTime": 1740638715094,
   "band_list": [
     {
       "raw_hot": 2180306,
@@ -17,6 +17,14 @@
       "onboard_time": 1740617838,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2141959,
+      "num": 2141959,
+      "word": "雷军喜提1小时首富体验卡",
+      "onboard_time": 1740636677,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 1980318,
@@ -57,14 +65,6 @@
       "onboard_time": 1740625159,
       "rank": 17,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1172513,
-      "num": 1172513,
-      "word": "雷军喜提1小时首富体验卡",
-      "onboard_time": 1740636677,
-      "rank": 1,
-      "category": "互联网"
     },
     {
       "raw_hot": 1135494,
@@ -196,11 +196,19 @@
     },
     {
       "raw_hot": 628143,
-      "num": 425619,
+      "num": 434969,
       "word": "韩安冉向薛小婉道歉",
       "onboard_time": 1740631220,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 626497,
+      "num": 439074,
+      "word": "女护士怀上58岁已婚教授孩子后勒索",
+      "onboard_time": 1740636438,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 600923,
@@ -299,8 +307,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 460681,
-      "num": 460681,
+      "raw_hot": 486833,
+      "num": 486833,
       "word": "迪丽热巴轻轻一夹把我吊成翘嘴",
       "onboard_time": 1740635658,
       "rank": 6,
@@ -313,6 +321,14 @@
       "onboard_time": 1740629899,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 449608,
+      "num": 167708,
+      "word": "周扬青和男嘉宾情人节约会vlog",
+      "onboard_time": 1740637399,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 448525,
@@ -361,6 +377,14 @@
       "onboard_time": 1740583579,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 416481,
+      "num": 416481,
+      "word": "章若楠现在94斤",
+      "onboard_time": 1740633559,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 405178,
@@ -452,7 +476,7 @@
     },
     {
       "raw_hot": 314402,
-      "num": 314402,
+      "num": 444549,
       "word": "檀健次宋雨琦宋慧乔方灿G社生图",
       "onboard_time": 1740633738,
       "rank": 45,
@@ -473,14 +497,6 @@
       "onboard_time": 1740616218,
       "rank": 20,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 292605,
-      "num": 292605,
-      "word": "女护士怀上58岁已婚教授孩子后勒索",
-      "onboard_time": 1740636438,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 290001,
@@ -539,6 +555,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 244635,
+      "num": 244635,
+      "word": "四川近200岁盐井每天产盐2000公斤",
+      "onboard_time": 1740637579,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 241813,
       "num": 241813,
       "word": "结婚人数为何下降",
@@ -553,6 +577,14 @@
       "onboard_time": 1740621980,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 240201,
+      "num": 240201,
+      "word": "长沙一6岁女孩来月经",
+      "onboard_time": 1740637819,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 233870,
@@ -611,14 +643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 212970,
-      "num": 167336,
-      "word": "周扬青和男嘉宾情人节约会vlog",
-      "onboard_time": 1740637399,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 209194,
       "num": 209194,
       "word": "文科教授谈AI加速文科之死",
@@ -659,12 +683,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 201354,
-      "num": 201354,
-      "word": "四川近200岁盐井每天产盐2000公斤",
-      "onboard_time": 1740637579,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 201713,
+      "num": 255986,
+      "word": "NCTWISH空降",
+      "onboard_time": 1740636677,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 199252,
@@ -731,20 +755,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192174,
-      "num": 255986,
-      "word": "NCTWISH空降",
-      "onboard_time": 1740636677,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 191838,
       "num": 191838,
       "word": "接电话后手机突然黑屏不听使唤",
       "onboard_time": 1740627981,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191610,
+      "num": 191610,
+      "word": "难哄断更",
+      "onboard_time": 1740638059,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 190622,
@@ -785,6 +809,22 @@
       "onboard_time": 1740582500,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 185145,
+      "num": 441895,
+      "word": "渐冻症女孩去世母亲想离开老家",
+      "onboard_time": 1740637637,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 185043,
+      "num": 185043,
+      "word": "田曦薇让王鹤棣替临安公主吃好喝好",
+      "onboard_time": 1740637520,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 182503,
@@ -899,6 +939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165383,
+      "num": 165383,
+      "word": "女子求复合花4万找大师给前任下情蛊",
+      "onboard_time": 1740637579,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163126,
       "num": 163126,
       "word": "吉克隽逸自曝曾对蔡国庆心动",
@@ -929,6 +977,14 @@
       "onboard_time": 1740619519,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 156596,
+      "num": 156596,
+      "word": "羽绒服还没收短袖就得穿出来了",
+      "onboard_time": 1740637759,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153306,
@@ -987,6 +1043,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 147885,
+      "num": 147885,
+      "word": "霸王茶姬哪吒2联名",
+      "onboard_time": 1740638539,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 145639,
       "num": 156091,
       "word": "Bin输和赢都是人生常态",
@@ -995,19 +1059,19 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 145347,
+      "num": 272138,
+      "word": "小米4分钟市值蒸发近800亿港元",
+      "onboard_time": 1740637158,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 143165,
       "num": 199261,
       "word": "难哄又有新预告了",
       "onboard_time": 1740622759,
       "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 141967,
-      "num": 141967,
-      "word": "田曦薇让王鹤棣替临安公主吃好喝好",
-      "onboard_time": 1740637520,
-      "rank": 38,
       "category": "剧集"
     },
     {
@@ -1075,6 +1139,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 128300,
+      "num": 128300,
+      "word": "爱你热度登顶",
+      "onboard_time": 1740635719,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127163,
       "num": 405060,
       "word": "男子参加400两日游花8千买玉镯",
@@ -1091,28 +1163,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125840,
-      "num": 125840,
-      "word": "爱你热度登顶",
-      "onboard_time": 1740635719,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 124224,
       "num": 170577,
       "word": "代露娃粉丝做了6个小时的弓箭",
       "onboard_time": 1740634640,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 123328,
-      "num": 123328,
-      "word": "女子求复合花4万找大师给前任下情蛊",
-      "onboard_time": 1740637579,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 123269,
@@ -1131,18 +1187,10 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122099,
-      "num": 122099,
-      "word": "羽绒服还没收短袖就得穿出来了",
-      "onboard_time": 1740637759,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 121386,
-      "num": 121386,
-      "word": "长沙一6岁女孩来月经",
-      "onboard_time": 1740637819,
+      "raw_hot": 121260,
+      "num": 121260,
+      "word": "妈妈回应26岁渐冻症女儿去世",
+      "onboard_time": 1740635420,
       "rank": 47,
       "category": "民生新闻"
     },
@@ -1187,14 +1235,6 @@
       "category": "国际时政,互联网"
     },
     {
-      "raw_hot": 113348,
-      "num": 272138,
-      "word": "小米4分钟市值蒸发近800亿港元",
-      "onboard_time": 1740637158,
-      "rank": 18,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 113201,
       "num": 113201,
       "word": "王传君齐溪一起接女儿放学",
@@ -1216,6 +1256,14 @@
       "word": "从养儿防老到养老防儿养老理念变了",
       "onboard_time": 1740628339,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109120,
+      "num": 268590,
+      "word": "医院回应网传坐自带轮椅被阻止进入",
+      "onboard_time": 1740636618,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1475,12 +1523,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 83130,
-      "num": 266598,
-      "word": "渐冻症女孩去世母亲想离开老家",
-      "onboard_time": 1740637637,
-      "rank": 20,
-      "category": "民生新闻"
+      "raw_hot": 79439,
+      "num": 130953,
+      "word": "贺峻霖玩天凉破梗",
+      "onboard_time": 1740638418,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 78893,
@@ -1612,19 +1660,19 @@
     },
     {
       "raw_hot": 44344,
-      "num": 164807,
+      "num": 168429,
       "word": "男子杀害女友27年后当街被抓",
       "onboard_time": 1740637819,
       "rank": 32,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43878,
-      "num": 268590,
-      "word": "医院回应网传坐自带轮椅被阻止进入",
-      "onboard_time": 1740636618,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 43347,
+      "num": 169450,
+      "word": "膝盖疼可能是因为气血不足",
+      "onboard_time": 1740638299,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 43216,
@@ -1657,6 +1705,14 @@
       "onboard_time": 1740591015,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 29327,
+      "num": 145087,
+      "word": "唐嫣明媚大方的美",
+      "onboard_time": 1740637998,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 27682,

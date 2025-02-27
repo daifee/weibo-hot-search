@@ -1,0 +1,410 @@
+{
+  "runTime": 1740638715094,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2141959,
+        "num": 2141959,
+        "word": "雷军喜提1小时首富体验卡",
+        "onboard_time": 1740636677,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 764328,
+        "num": 764328,
+        "word": "章若楠回应外貌变化",
+        "onboard_time": 1740631160,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69151,
+        "num": 614801,
+        "word": "国家高新区发展成绩单来了",
+        "onboard_time": 1740630740,
+        "rank": 2,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 559961,
+        "num": 559961,
+        "word": "医院通报医生上班玩游戏致患者排队",
+        "onboard_time": 1740633020,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1830715,
+        "num": 531119,
+        "word": "Fendi回应中国结争议",
+        "onboard_time": 1740634938,
+        "rank": 4,
+        "category": "民生新闻,时尚"
+      },
+      {
+        "raw_hot": 486833,
+        "num": 486833,
+        "word": "迪丽热巴轻轻一夹把我吊成翘嘴",
+        "onboard_time": 1740635658,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 447872,
+        "num": 447872,
+        "word": "建议男性陪产假不低于30天",
+        "onboard_time": 1740632541,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310446,
+        "num": 446165,
+        "word": "蔡徐坤 CT",
+        "onboard_time": 1740631101,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270587,
+        "num": 444549,
+        "word": "檀健次宋雨琦宋慧乔方灿G社生图",
+        "onboard_time": 1740633738,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185145,
+        "num": 441895,
+        "word": "渐冻症女孩去世母亲想离开老家",
+        "onboard_time": 1740637637,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 678019,
+        "num": 439737,
+        "word": "留几手离婚搬进50平出租屋",
+        "onboard_time": 1740626359,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 626497,
+        "num": 439074,
+        "word": "女护士怀上58岁已婚教授孩子后勒索",
+        "onboard_time": 1740636438,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 477441,
+        "num": 436707,
+        "word": "性教育课上男生大方展示卫生巾",
+        "onboard_time": 1740623781,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 434969,
+        "num": 434969,
+        "word": "韩安冉向薛小婉道歉",
+        "onboard_time": 1740631220,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416481,
+        "num": 416481,
+        "word": "章若楠现在94斤",
+        "onboard_time": 1740633559,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325515,
+        "num": 325515,
+        "word": "陈好晒备课照",
+        "onboard_time": 1740631700,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276722,
+        "num": 276722,
+        "word": "沈月头像大户上新",
+        "onboard_time": 1740633619,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256218,
+        "num": 256218,
+        "word": "小米股价大跌超8%",
+        "onboard_time": 1740629899,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 248389,
+        "num": 248389,
+        "word": "我国牵头制定养老机器人国际标准",
+        "onboard_time": 1740625519,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 201713,
+        "num": 244682,
+        "word": "NCTWISH空降",
+        "onboard_time": 1740636677,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244635,
+        "num": 244635,
+        "word": "四川近200岁盐井每天产盐2000公斤",
+        "onboard_time": 1740637579,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240201,
+        "num": 240201,
+        "word": "长沙一6岁女孩来月经",
+        "onboard_time": 1740637819,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191610,
+        "num": 191610,
+        "word": "难哄断更",
+        "onboard_time": 1740638059,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185043,
+        "num": 185043,
+        "word": "田曦薇让王鹤棣替临安公主吃好喝好",
+        "onboard_time": 1740637520,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179852,
+        "num": 179852,
+        "word": "香港全体公务员冻薪",
+        "onboard_time": 1740617838,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 172317,
+        "num": 172317,
+        "word": "曾求助过蔡磊的98年渐冻症女孩去世",
+        "onboard_time": 1740626359,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170924,
+        "num": 170924,
+        "word": "哪吒",
+        "onboard_time": 1740634458,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152500,
+        "num": 170049,
+        "word": "颖儿把劲儿劲儿感演得真好",
+        "onboard_time": 1740631160,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43347,
+        "num": 169450,
+        "word": "膝盖疼可能是因为气血不足",
+        "onboard_time": 1740638299,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 38782,
+        "num": 168429,
+        "word": "男子杀害女友27年后当街被抓",
+        "onboard_time": 1740637819,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 449608,
+        "num": 167708,
+        "word": "周扬青和男嘉宾情人节约会vlog",
+        "onboard_time": 1740637399,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369663,
+        "num": 166595,
+        "word": "奔驰中国裁员赔偿N加9",
+        "onboard_time": 1740630441,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 177009,
+        "num": 165917,
+        "word": "奔驰裁员",
+        "onboard_time": 1740626780,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 165383,
+        "num": 165383,
+        "word": "女子求复合花4万找大师给前任下情蛊",
+        "onboard_time": 1740637579,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156744,
+        "num": 156744,
+        "word": "特朗普发布AI生成加沙视频",
+        "onboard_time": 1740632783,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114450,
+        "num": 156612,
+        "word": "代露娃粉丝做了6个小时的弓箭",
+        "onboard_time": 1740634640,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156596,
+        "num": 156596,
+        "word": "羽绒服还没收短袖就得穿出来了",
+        "onboard_time": 1740637759,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147885,
+        "num": 147885,
+        "word": "霸王茶姬哪吒2联名",
+        "onboard_time": 1740638539,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145347,
+        "num": 145347,
+        "word": "小米4分钟市值蒸发近800亿港元",
+        "onboard_time": 1740637158,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 29327,
+        "num": 145087,
+        "word": "唐嫣明媚大方的美",
+        "onboard_time": 1740637998,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144951,
+        "num": 144951,
+        "word": "哪吒2已做好台湾上映一切准备",
+        "onboard_time": 1740629120,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131799,
+        "num": 131799,
+        "word": "乒羽中心谴责侮辱中国运动员言行",
+        "onboard_time": 1740628100,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131556,
+        "num": 131556,
+        "word": "樊振东距离霉霉又近了一步",
+        "onboard_time": 1740629241,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79439,
+        "num": 130953,
+        "word": "贺峻霖玩天凉破梗",
+        "onboard_time": 1740638418,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130885,
+        "num": 130885,
+        "word": "Jennie专辑试听",
+        "onboard_time": 1740637579,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 130157,
+        "num": 130157,
+        "word": "第一次在综艺里感受到浓浓的be味儿",
+        "onboard_time": 1740634759,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128300,
+        "num": 128300,
+        "word": "爱你热度登顶",
+        "onboard_time": 1740635719,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121260,
+        "num": 121260,
+        "word": "妈妈回应26岁渐冻症女儿去世",
+        "onboard_time": 1740635420,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109120,
+        "num": 109120,
+        "word": "医院回应网传坐自带轮椅被阻止进入",
+        "onboard_time": 1740636618,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105699,
+        "num": 105699,
+        "word": "怀孕遭辞退老师未签合同有五险",
+        "onboard_time": 1740626120,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记强调打好关键核心技术攻坚战#"
+    }
+  }
+}
