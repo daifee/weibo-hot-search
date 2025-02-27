@@ -1,7 +1,15 @@
 {
   "startTime": 1740587402639,
-  "endTime": 1740627032091,
+  "endTime": 1740627873684,
   "band_list": [
+    {
+      "raw_hot": 2180306,
+      "num": 361966,
+      "word": "留几手离婚搬进50平出租屋",
+      "onboard_time": 1740626359,
+      "rank": 11,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2157603,
       "num": 2157603,
@@ -17,14 +25,6 @@
       "onboard_time": 1740623781,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1234620,
-      "num": 332866,
-      "word": "留几手离婚搬进50平出租屋",
-      "onboard_time": 1740626359,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1135494,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 638745,
+      "num": 638745,
+      "word": "怀孕遭辞退老师未签合同有五险",
+      "onboard_time": 1740626120,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 631440,
       "num": 918547,
       "word": "六姊妹 辣目洋子",
@@ -155,6 +163,30 @@
       "category": "电影"
     },
     {
+      "raw_hot": 433186,
+      "num": 433186,
+      "word": "DeepSeek出现后学文科还有价值吗",
+      "onboard_time": 1740624439,
+      "rank": 14,
+      "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 432798,
+      "num": 284249,
+      "word": "七星连珠",
+      "onboard_time": 1740622279,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 432574,
+      "num": 432574,
+      "word": "曾求助过蔡磊的98年渐冻症女孩去世",
+      "onboard_time": 1740626359,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 419311,
       "num": 419311,
       "word": "戴墨镜真的能快速提高颜值",
@@ -185,14 +217,6 @@
       "onboard_time": 1740565519,
       "rank": 20,
       "category": "电影"
-    },
-    {
-      "raw_hot": 369475,
-      "num": 284249,
-      "word": "七星连珠",
-      "onboard_time": 1740622279,
-      "rank": 30,
-      "category": "科学科普"
     },
     {
       "raw_hot": 368036,
@@ -227,20 +251,20 @@
       "category": "艺人,海外新闻"
     },
     {
+      "raw_hot": 357459,
+      "num": 357459,
+      "word": "我国牵头制定养老机器人国际标准",
+      "onboard_time": 1740625519,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 353124,
       "num": 353124,
       "word": "张元英粉丝暂停对接中国非头部杂志",
       "onboard_time": 1740622579,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 341673,
-      "num": 341673,
-      "word": "DeepSeek出现后学文科还有价值吗",
-      "onboard_time": 1740624439,
-      "rank": 14,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 321755,
@@ -251,12 +275,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 313604,
-      "num": 330901,
-      "word": "我国牵头制定养老机器人国际标准",
-      "onboard_time": 1740625519,
-      "rank": 45,
-      "category": "国内时政"
+      "raw_hot": 313744,
+      "num": 313744,
+      "word": "奚梦瑶重返T台走秀",
+      "onboard_time": 1740627020,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 297473,
@@ -307,14 +331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 272681,
-      "num": 272681,
-      "word": "曾求助过蔡磊的98年渐冻症女孩去世",
-      "onboard_time": 1740626359,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 265799,
       "num": 265799,
       "word": "特朗普称欧盟占美国便宜",
@@ -329,6 +345,14 @@
       "onboard_time": 1740583879,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 251310,
+      "num": 251310,
+      "word": "胡兵49岁身高又长了1厘米",
+      "onboard_time": 1740626780,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 241813,
@@ -353,6 +377,14 @@
       "onboard_time": 1740606612,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 229482,
+      "num": 229482,
+      "word": "奔驰裁员",
+      "onboard_time": 1740626780,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 228991,
@@ -435,6 +467,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 197681,
+      "num": 254573,
+      "word": "特朗普让乌克兰忘了北约吧",
+      "onboard_time": 1740626061,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 197175,
       "num": 197175,
       "word": "唐嫣压轴走秀",
@@ -449,14 +489,6 @@
       "onboard_time": 1740591015,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 193834,
-      "num": 285486,
-      "word": "怀孕遭辞退老师未签合同有五险",
-      "onboard_time": 1740626120,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 190622,
@@ -523,6 +555,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 179732,
+      "num": 337078,
+      "word": "小米市值突破1.4万亿港元",
+      "onboard_time": 1740623419,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 178385,
       "num": 178385,
       "word": "特斯拉理想",
@@ -571,6 +611,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163126,
+      "num": 163126,
+      "word": "吉克隽逸自曝曾对蔡国庆心动",
+      "onboard_time": 1740627439,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 160961,
+      "num": 160961,
+      "word": "白鹿多起名誉权维权案将开庭",
+      "onboard_time": 1740627081,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157087,
       "num": 181675,
       "word": "钟楚曦走秀",
@@ -585,22 +641,6 @@
       "onboard_time": 1740622218,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 151564,
-      "num": 337078,
-      "word": "小米市值突破1.4万亿港元",
-      "onboard_time": 1740623419,
-      "rank": 39,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 150883,
-      "num": 150883,
-      "word": "奔驰裁员",
-      "onboard_time": 1740626780,
-      "rank": 41,
-      "category": "汽车"
     },
     {
       "raw_hot": 150791,
@@ -619,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149305,
+      "num": 327156,
+      "word": "泽连斯基28日赴美签署矿产协议",
+      "onboard_time": 1740625938,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 145639,
       "num": 156091,
       "word": "Bin输和赢都是人生常态",
@@ -633,6 +681,14 @@
       "onboard_time": 1740622759,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143095,
+      "num": 143095,
+      "word": "涵艺怒斥Bin",
+      "onboard_time": 1740626898,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 139197,
@@ -657,6 +713,14 @@
       "onboard_time": 1740596113,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 137126,
+      "num": 137126,
+      "word": "南师大",
+      "onboard_time": 1740627199,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133566,
@@ -697,22 +761,6 @@
       "onboard_time": 1740609133,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121170,
-      "num": 254573,
-      "word": "特朗普让乌克兰忘了北约吧",
-      "onboard_time": 1740626061,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 118725,
-      "num": 118725,
-      "word": "胡兵49岁身高又长了1厘米",
-      "onboard_time": 1740626780,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 115703,
@@ -851,6 +899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96465,
+      "num": 267702,
+      "word": "银行土银行水遭年轻人疯抢",
+      "onboard_time": 1740627439,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96086,
       "num": 96086,
       "word": "男子花50元套圈被大鹅上了一课",
@@ -881,6 +937,14 @@
       "onboard_time": 1740623959,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92755,
+      "num": 254574,
+      "word": "檀健次人生第一支舞认定",
+      "onboard_time": 1740627620,
+      "rank": 23,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 92689,
@@ -979,14 +1043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 61096,
-      "num": 327156,
-      "word": "泽连斯基28日赴美签署矿产协议",
-      "onboard_time": 1740625938,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 59009,
       "num": 59009,
       "word": "翟潇闻说告白戏床塌了后全现挂",
@@ -1025,6 +1081,14 @@
       "onboard_time": 1740620780,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 53390,
+      "num": 268493,
+      "word": "有种熟人成为首富的感觉",
+      "onboard_time": 1740627199,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 49061,
@@ -1105,6 +1169,14 @@
       "onboard_time": 1740623781,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26556,
+      "num": 262231,
+      "word": "离异女性对冷冻胚胎是否有处置权",
+      "onboard_time": 1740627620,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25860,

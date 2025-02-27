@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740627032091,
+  "endTime": 1740627873684,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1361,6 +1361,14 @@
       "onboard_time": 1739872284,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2180306,
+      "num": 361966,
+      "word": "留几手离婚搬进50平出租屋",
+      "onboard_time": 1740626359,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 2176498,
@@ -4489,14 +4497,6 @@
       "onboard_time": 1739631022,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1234620,
-      "num": 332866,
-      "word": "留几手离婚搬进50平出租屋",
-      "onboard_time": 1740626359,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1234619,
@@ -11691,6 +11691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 638745,
+      "num": 638745,
+      "word": "怀孕遭辞退老师未签合同有五险",
+      "onboard_time": 1740626120,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 638603,
       "num": 318503,
       "word": "刘晓庆泳装",
@@ -18123,6 +18131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 433186,
+      "num": 433186,
+      "word": "DeepSeek出现后学文科还有价值吗",
+      "onboard_time": 1740624439,
+      "rank": 14,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 433003,
       "num": 433003,
       "word": "加拿大对美国实施报复性关税",
@@ -18137,6 +18153,22 @@
       "onboard_time": 1738385598,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 432798,
+      "num": 284249,
+      "word": "七星连珠",
+      "onboard_time": 1740622279,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 432574,
+      "num": 432574,
+      "word": "曾求助过蔡磊的98年渐冻症女孩去世",
+      "onboard_time": 1740626359,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 432406,
@@ -20987,14 +21019,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 369475,
-      "num": 284249,
-      "word": "七星连珠",
-      "onboard_time": 1740622279,
-      "rank": 30,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 368908,
       "num": 368908,
       "word": "小警犬在考试中得了最后一名",
@@ -21537,6 +21561,14 @@
       "onboard_time": 1738469118,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 357459,
+      "num": 357459,
+      "word": "我国牵头制定养老机器人国际标准",
+      "onboard_time": 1740625519,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 357403,
@@ -22505,14 +22537,6 @@
       "onboard_time": 1739083098,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 341673,
-      "num": 341673,
-      "word": "DeepSeek出现后学文科还有价值吗",
-      "onboard_time": 1740624439,
-      "rank": 14,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 341510,
@@ -24227,20 +24251,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 313744,
+      "num": 313744,
+      "word": "奚梦瑶重返T台走秀",
+      "onboard_time": 1740627020,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 313645,
       "num": 304978,
       "word": "男生用镜头记录女友5年自信蜕变",
       "onboard_time": 1740276018,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 313604,
-      "num": 330901,
-      "word": "我国牵头制定养老机器人国际标准",
-      "onboard_time": 1740625519,
-      "rank": 45,
-      "category": "国内时政"
     },
     {
       "raw_hot": 313593,
@@ -27523,14 +27547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 272681,
-      "num": 272681,
-      "word": "曾求助过蔡磊的98年渐冻症女孩去世",
-      "onboard_time": 1740626359,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 272657,
       "num": 155255,
       "word": "周深",
@@ -29593,6 +29609,14 @@
       "onboard_time": 1739949141,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 251310,
+      "num": 251310,
+      "word": "胡兵49岁身高又长了1厘米",
+      "onboard_time": 1740626780,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 251306,
@@ -32361,6 +32385,14 @@
       "onboard_time": 1739171840,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 229482,
+      "num": 229482,
+      "word": "奔驰裁员",
+      "onboard_time": 1740626780,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 229363,
@@ -39171,6 +39203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197681,
+      "num": 254573,
+      "word": "特朗普让乌克兰忘了北约吧",
+      "onboard_time": 1740626061,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 197559,
       "num": 197559,
       "word": "给敖丙送礼物的哪吒",
@@ -40321,14 +40361,6 @@
       "onboard_time": 1739006364,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 193834,
-      "num": 285486,
-      "word": "怀孕遭辞退老师未签合同有五险",
-      "onboard_time": 1740626120,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 193811,
@@ -44457,6 +44489,14 @@
       "onboard_time": 1739781621,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 179732,
+      "num": 337078,
+      "word": "小米市值突破1.4万亿港元",
+      "onboard_time": 1740623419,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 179666,
@@ -49003,6 +49043,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 163126,
+      "num": 163126,
+      "word": "吉克隽逸自曝曾对蔡国庆心动",
+      "onboard_time": 1740627439,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163114,
       "num": 163114,
       "word": "黄明昊薄荷曼波发色",
@@ -49713,6 +49761,14 @@
       "onboard_time": 1739150300,
       "rank": 36,
       "category": "国际时政,体育"
+    },
+    {
+      "raw_hot": 160961,
+      "num": 160961,
+      "word": "白鹿多起名誉权维权案将开庭",
+      "onboard_time": 1740627081,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 160930,
@@ -52379,14 +52435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 151564,
-      "num": 337078,
-      "word": "小米市值突破1.4万亿港元",
-      "onboard_time": 1740623419,
-      "rank": 39,
-      "category": "财经"
-    },
-    {
       "raw_hot": 151563,
       "num": 282203,
       "word": "容嬷嬷下桌何医生上桌",
@@ -52585,14 +52633,6 @@
       "onboard_time": 1738664962,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 150883,
-      "num": 150883,
-      "word": "奔驰裁员",
-      "onboard_time": 1740626780,
-      "rank": 41,
-      "category": "汽车"
     },
     {
       "raw_hot": 150825,
@@ -53113,6 +53153,14 @@
       "onboard_time": 1739501783,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149305,
+      "num": 327156,
+      "word": "泽连斯基28日赴美签署矿产协议",
+      "onboard_time": 1740625938,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 149301,
@@ -55017,6 +55065,14 @@
       "onboard_time": 1740381259,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143095,
+      "num": 143095,
+      "word": "涵艺怒斥Bin",
+      "onboard_time": 1740626898,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 143084,
@@ -60723,14 +60779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121170,
-      "num": 254573,
-      "word": "特朗普让乌克兰忘了北约吧",
-      "onboard_time": 1740626061,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 121161,
       "num": 121161,
       "word": "浣碧也是好起来都骂上甄远道了",
@@ -61257,14 +61305,6 @@
       "onboard_time": 1738809681,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 118725,
-      "num": 118725,
-      "word": "胡兵49岁身高又长了1厘米",
-      "onboard_time": 1740626780,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 118686,
@@ -66051,6 +66091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96465,
+      "num": 267702,
+      "word": "银行土银行水遭年轻人疯抢",
+      "onboard_time": 1740627439,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96366,
       "num": 96366,
       "word": "只有浙江人才知道的省饮",
@@ -66713,6 +66761,14 @@
       "onboard_time": 1739548160,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92755,
+      "num": 254574,
+      "word": "檀健次人生第一支舞认定",
+      "onboard_time": 1740627620,
+      "rank": 23,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 92747,
@@ -71891,14 +71947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 61096,
-      "num": 327156,
-      "word": "泽连斯基28日赴美签署矿产协议",
-      "onboard_time": 1740625938,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 61041,
       "num": 79707,
       "word": "大年初七",
@@ -73601,6 +73649,14 @@
       "onboard_time": 1738938803,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53390,
+      "num": 268493,
+      "word": "有种熟人成为首富的感觉",
+      "onboard_time": 1740627199,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 53333,
@@ -79416,6 +79472,14 @@
       "word": "重庆燃气别添堵了",
       "onboard_time": 1739777300,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26556,
+      "num": 262231,
+      "word": "离异女性对冷冻胚胎是否有处置权",
+      "onboard_time": 1740627620,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
