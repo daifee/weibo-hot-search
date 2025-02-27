@@ -1,6 +1,6 @@
 {
   "startTime": 1740673831596,
-  "endTime": 1740696036241,
+  "endTime": 1740698560489,
   "band_list": [
     {
       "raw_hot": 1564084,
@@ -19,6 +19,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 607619,
+      "num": 607619,
+      "word": "卡卡我尽了一切努力挽救婚姻",
+      "onboard_time": 1740664581,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 607231,
       "num": 607231,
       "word": "小米SU7Ultra",
@@ -32,6 +40,14 @@
       "word": "接吻超58小时破纪录夫妇宣布分手",
       "onboard_time": 1740655519,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 520240,
+      "num": 165871,
+      "word": "婚房7年没住被小区保洁换锁养鸡",
+      "onboard_time": 1740653418,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -59,12 +75,28 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 361761,
+      "num": 361761,
+      "word": "顾茜茜抖音账号被禁言",
+      "onboard_time": 1740698477,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
       "raw_hot": 350579,
       "num": 350579,
       "word": "前TVB甜妹唐宁回应满头白发",
       "onboard_time": 1740668479,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 343858,
+      "num": 343858,
+      "word": "零食鲍菇螺肉主配料为福寿螺肉",
+      "onboard_time": 1740668961,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 337480,
@@ -123,12 +155,12 @@
       "category": "数码,汽车"
     },
     {
-      "raw_hot": 227618,
-      "num": 227618,
-      "word": "卡卡我尽了一切努力挽救婚姻",
-      "onboard_time": 1740664581,
-      "rank": 39,
-      "category": "体育"
+      "raw_hot": 234619,
+      "num": 234619,
+      "word": "方媛感受到了祖国的温暖",
+      "onboard_time": 1740671178,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 227582,
@@ -163,20 +195,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 205921,
-      "num": 102705,
-      "word": "婚房7年没住被小区保洁换锁养鸡",
-      "onboard_time": 1740653418,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 176569,
-      "num": 166963,
-      "word": "方媛感受到了祖国的温暖",
-      "onboard_time": 1740671178,
-      "rank": 19,
-      "category": "网红"
+      "raw_hot": 160740,
+      "num": 160740,
+      "word": "53万的小米SU7Ultra到底值不值",
+      "onboard_time": 1740687851,
+      "rank": 32,
+      "category": "汽车"
     },
     {
       "raw_hot": 157824,
@@ -185,6 +209,14 @@
       "onboard_time": 1740675436,
       "rank": 6,
       "category": "汽车,数码"
+    },
+    {
+      "raw_hot": 155262,
+      "num": 173296,
+      "word": "男子陪妻子看病医生多看一眼救一命",
+      "onboard_time": 1740669739,
+      "rank": 13,
+      "category": "正能量"
     },
     {
       "raw_hot": 151578,
@@ -217,14 +249,6 @@
       "onboard_time": 1740666019,
       "rank": 22,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 133801,
-      "num": 133801,
-      "word": "零食鲍菇螺肉主配料为福寿螺肉",
-      "onboard_time": 1740668961,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131448,
@@ -299,8 +323,16 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 97910,
-      "num": 97910,
+      "raw_hot": 104766,
+      "num": 104766,
+      "word": "卡卡前妻回应离婚说他太完美了",
+      "onboard_time": 1740690791,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 99526,
+      "num": 99526,
       "word": "300元一张的始祖鸟吊牌到底谁在买",
       "onboard_time": 1740652758,
       "rank": 37,
@@ -315,12 +347,36 @@
       "category": "数码"
     },
     {
-      "raw_hot": 91579,
-      "num": 173296,
-      "word": "男子陪妻子看病医生多看一眼救一命",
-      "onboard_time": 1740669739,
-      "rank": 13,
-      "category": "正能量"
+      "raw_hot": 91487,
+      "num": 119008,
+      "word": "哪吒炸出了多少民间高手",
+      "onboard_time": 1740662960,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 91035,
+      "num": 91035,
+      "word": "2025已过2个月",
+      "onboard_time": 1740698355,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 89791,
+      "num": 89791,
+      "word": "难哄",
+      "onboard_time": 1740698115,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 89315,
+      "num": 89788,
+      "word": "美国放弃乌克兰欧洲能站出来吗",
+      "onboard_time": 1740675494,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 88447,
@@ -387,14 +443,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 80518,
-      "num": 119008,
-      "word": "哪吒炸出了多少民间高手",
-      "onboard_time": 1740662960,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 80028,
       "num": 80028,
       "word": "雷军回应当首富",
@@ -435,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 69900,
+      "num": 69900,
+      "word": "上海大雾",
+      "onboard_time": 1740698176,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65306,
       "num": 244389,
       "word": "专家科普中国结来源",
@@ -443,12 +499,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 61669,
-      "num": 47713,
-      "word": "卡卡前妻回应离婚说他太完美了",
-      "onboard_time": 1740690791,
-      "rank": 24,
-      "category": "体育"
+      "raw_hot": 64294,
+      "num": 64294,
+      "word": "付辛博说颖儿的努力会被看到",
+      "onboard_time": 1740698414,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 63993,
+      "num": 63993,
+      "word": "第一部只刷切片看不明白的剧",
+      "onboard_time": 1740693551,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 60622,
@@ -467,15 +531,31 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 51364,
-      "num": 89788,
-      "word": "美国放弃乌克兰欧洲能站出来吗",
-      "onboard_time": 1740675494,
-      "rank": 30,
-      "category": "国际时政"
+      "raw_hot": 56577,
+      "num": 56577,
+      "word": "滤镜 傲慢与偏见",
+      "onboard_time": 1740695233,
+      "rank": 43,
+      "category": "剧集"
     },
     {
-      "raw_hot": 48853,
+      "raw_hot": 54719,
+      "num": 54719,
+      "word": "刘品言说和李威没有私交",
+      "onboard_time": 1740682092,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 53001,
+      "num": 362434,
+      "word": "那些你不知道的北京地儿",
+      "onboard_time": 1740655218,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 49968,
       "num": 51710,
       "word": "国防部发言人引用哪吒2台词",
       "onboard_time": 1740679092,
@@ -483,12 +563,20 @@
       "category": "国内时政,电影"
     },
     {
-      "raw_hot": 42443,
-      "num": 42443,
-      "word": "53万的小米SU7Ultra到底值不值",
-      "onboard_time": 1740687851,
-      "rank": 32,
-      "category": "汽车"
+      "raw_hot": 47843,
+      "num": 47843,
+      "word": "美方对中俄挑拨离间完全是徒劳的",
+      "onboard_time": 1740677892,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 45040,
+      "num": 70926,
+      "word": "国安提醒这些机场风景不能拍",
+      "onboard_time": 1740680413,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40668,
@@ -507,36 +595,20 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 38446,
+      "num": 44343,
+      "word": "孟子义紫色长裙造型",
+      "onboard_time": 1740698536,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 33127,
       "num": 35982,
       "word": "周雨彤回应辞职发疯戏",
       "onboard_time": 1740651439,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 33114,
-      "num": 46790,
-      "word": "美方对中俄挑拨离间完全是徒劳的",
-      "onboard_time": 1740677892,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 32947,
-      "num": 32947,
-      "word": "刘品言说和李威没有私交",
-      "onboard_time": 1740682092,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 30854,
-      "num": 70926,
-      "word": "国安提醒这些机场风景不能拍",
-      "onboard_time": 1740680413,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30547,
@@ -547,14 +619,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 29034,
-      "num": 41021,
-      "word": "第一部只刷切片看不明白的剧",
-      "onboard_time": 1740693551,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 25726,
       "num": 25726,
       "word": "吉恩哈克曼去世",
@@ -563,28 +627,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 25478,
-      "num": 174308,
-      "word": "那些你不知道的北京地儿",
-      "onboard_time": 1740655218,
-      "rank": 2,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 23451,
-      "num": 23451,
-      "word": "滤镜 傲慢与偏见",
-      "onboard_time": 1740695233,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 19852,
       "num": 49825,
       "word": "比模特更像模特的GAWON",
       "onboard_time": 1740679873,
       "rank": 19,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 19571,
+      "num": 126815,
+      "word": "被无限循环版哪吒主角画硬控住了",
+      "onboard_time": 1740698236,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 16914,
