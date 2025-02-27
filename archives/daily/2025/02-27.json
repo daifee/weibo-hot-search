@@ -1,10 +1,10 @@
 {
   "startTime": 1740587402639,
-  "endTime": 1740620720657,
+  "endTime": 1740621775265,
   "band_list": [
     {
-      "raw_hot": 2125389,
-      "num": 2125389,
+      "raw_hot": 2157603,
+      "num": 2157603,
       "word": "香港全体公务员冻薪",
       "onboard_time": 1740617838,
       "rank": 0,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1135494,
-      "num": 274916,
+      "num": 291745,
       "word": "贾静雯大女儿梧桐妹回怼继父",
       "onboard_time": 1740584240,
       "rank": 10,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1059761,
-      "num": 273491,
+      "num": 285256,
       "word": "女生称面试王安宇新剧电动车被聘了",
       "onboard_time": 1740583639,
       "rank": 11,
@@ -155,12 +155,44 @@
       "category": "艺人,海外新闻"
     },
     {
-      "raw_hot": 293281,
-      "num": 189127,
+      "raw_hot": 321755,
+      "num": 321755,
+      "word": "美情报人员被爆色情聊天",
+      "onboard_time": 1740617838,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 313881,
+      "num": 247544,
+      "word": "苏见信说哪吒3可以找他",
+      "onboard_time": 1740620180,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 297473,
+      "num": 297473,
+      "word": "吒儿继续一亿一亿往上冲",
+      "onboard_time": 1740572540,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 295478,
+      "num": 203722,
       "word": "印度两女子欲用行李箱抛尸被逮捕",
       "onboard_time": 1740616218,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 290001,
+      "num": 203655,
+      "word": "专家说孕妇要像减脂期一样吃饭",
+      "onboard_time": 1740618740,
+      "rank": 21,
+      "category": "母婴育儿,健康医疗"
     },
     {
       "raw_hot": 284529,
@@ -179,22 +211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 276801,
-      "num": 276801,
-      "word": "吒儿继续一亿一亿往上冲",
-      "onboard_time": 1740572540,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 273523,
-      "num": 189064,
-      "word": "专家说孕妇要像减脂期一样吃饭",
-      "onboard_time": 1740618740,
-      "rank": 21,
-      "category": "母婴育儿,健康医疗"
-    },
-    {
       "raw_hot": 265799,
       "num": 265799,
       "word": "特朗普称欧盟占美国便宜",
@@ -209,6 +225,14 @@
       "onboard_time": 1740583879,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 236827,
+      "num": 236827,
+      "word": "金价",
+      "onboard_time": 1740620780,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 233870,
@@ -265,14 +289,6 @@
       "onboard_time": 1740581721,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 197874,
-      "num": 267583,
-      "word": "美情报人员被爆色情聊天",
-      "onboard_time": 1740617838,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 197175,
@@ -371,20 +387,28 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 165995,
-      "num": 165995,
-      "word": "苏见信说哪吒3可以找他",
-      "onboard_time": 1740620180,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 152970,
-      "num": 152970,
+      "raw_hot": 174027,
+      "num": 174027,
       "word": "蛇年正月最后一天",
       "onboard_time": 1740612795,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160086,
+      "num": 189553,
+      "word": "叶挺将军之子叶正光先生逝世",
+      "onboard_time": 1740620118,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 157087,
+      "num": 157087,
+      "word": "钟楚曦走秀",
+      "onboard_time": 1740619519,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 150791,
@@ -411,20 +435,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 140220,
-      "num": 140220,
-      "word": "钟楚曦走秀",
-      "onboard_time": 1740619519,
-      "rank": 34,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 139197,
       "num": 139197,
       "word": "看得出迪丽热巴刘宇宁推理得很激烈",
       "onboard_time": 1740578420,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137996,
+      "num": 137996,
+      "word": "第五人格",
+      "onboard_time": 1740621258,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 137925,
@@ -483,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108977,
+      "num": 108977,
+      "word": "19岁女棋手用AI作弊禁赛8年",
+      "onboard_time": 1740621258,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108829,
       "num": 108829,
       "word": "李诚儒真实",
@@ -539,6 +571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 98607,
+      "num": 98607,
+      "word": "学生给足排面猫咪才下来",
+      "onboard_time": 1740621380,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 97389,
       "num": 97389,
       "word": "TES战胜BLG",
@@ -561,14 +601,6 @@
       "onboard_time": 1740580881,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 94895,
-      "num": 94895,
-      "word": "叶挺将军之子叶正光先生逝世",
-      "onboard_time": 1740620118,
-      "rank": 45,
-      "category": "国内时政"
     },
     {
       "raw_hot": 94413,
@@ -624,6 +656,14 @@
       "word": "乌方将向美乌基金缴纳矿产收入的50%",
       "onboard_time": 1740613517,
       "rank": 27,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 83366,
+      "num": 83366,
+      "word": "特朗普和泽连斯基或会面",
+      "onboard_time": 1740621678,
+      "rank": 48,
       "category": "国际时政"
     },
     {
@@ -691,6 +731,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 54271,
+      "num": 186135,
+      "word": "王楚钦2025年第一个单打冠军",
+      "onboard_time": 1740620780,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 49061,
       "num": 49061,
       "word": "社恐小老虎与游客互动紧抱管理员",
@@ -721,6 +769,14 @@
       "onboard_time": 1740582319,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 42898,
+      "num": 228705,
+      "word": "加拿大咖啡店把美式咖啡改名加式咖啡",
+      "onboard_time": 1740621439,
+      "rank": 17,
+      "category": "美食"
     },
     {
       "raw_hot": 39701,
