@@ -1,6 +1,6 @@
 {
   "startTime": 1740673831596,
-  "endTime": 1740673831596,
+  "endTime": 1740674739975,
   "band_list": [
     {
       "raw_hot": 1564084,
@@ -107,6 +107,38 @@
       "category": "数码,汽车"
     },
     {
+      "raw_hot": 239581,
+      "num": 171986,
+      "word": "关晓彤",
+      "onboard_time": 1740674355,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 227582,
+      "num": 181512,
+      "word": "偶遇靳东以为是公司领导",
+      "onboard_time": 1740671778,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 225914,
+      "num": 206548,
+      "word": "孟子义米兰时装周出发啦",
+      "onboard_time": 1740671719,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 221090,
+      "num": 168316,
+      "word": "陈昊宇柳智敏边佑锡生图",
+      "onboard_time": 1740673576,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 215502,
       "num": 215502,
       "word": "女子嫌金价太高在家自制金戒指",
@@ -123,20 +155,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 206548,
-      "num": 206548,
-      "word": "孟子义米兰时装周出发啦",
-      "onboard_time": 1740671719,
-      "rank": 17,
-      "category": "作品衍生,时尚"
+      "raw_hot": 176569,
+      "num": 166963,
+      "word": "方媛感受到了祖国的温暖",
+      "onboard_time": 1740671178,
+      "rank": 19,
+      "category": "网红"
     },
     {
-      "raw_hot": 181512,
-      "num": 181512,
-      "word": "偶遇靳东以为是公司领导",
-      "onboard_time": 1740671778,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 151578,
+      "num": 151578,
+      "word": "Gucci全平台更新肖战",
+      "onboard_time": 1740674236,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 150318,
@@ -153,14 +185,6 @@
       "onboard_time": 1740654739,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 143706,
-      "num": 161413,
-      "word": "方媛感受到了祖国的温暖",
-      "onboard_time": 1740671178,
-      "rank": 19,
-      "category": "网红"
     },
     {
       "raw_hot": 135456,
@@ -187,12 +211,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 122253,
-      "num": 122253,
+      "raw_hot": 128111,
+      "num": 128111,
       "word": "零食鲍菇螺肉主配料为福寿螺肉",
       "onboard_time": 1740668961,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125408,
+      "num": 125408,
+      "word": "周杰伦演唱会唱了难哄主题曲任性",
+      "onboard_time": 1740672678,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 120803,
@@ -225,14 +257,6 @@
       "onboard_time": 1740656299,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 111159,
-      "num": 111159,
-      "word": "周杰伦演唱会唱了难哄主题曲任性",
-      "onboard_time": 1740672678,
-      "rank": 33,
-      "category": "演出"
     },
     {
       "raw_hot": 108992,
@@ -371,6 +395,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 75679,
+      "num": 125441,
+      "word": "宝可梦发布会",
+      "onboard_time": 1740669620,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 75471,
       "num": 75471,
       "word": "李嘉琦六姊妹杀青长文",
@@ -379,7 +411,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 63612,
+      "raw_hot": 65306,
       "num": 244389,
       "word": "专家科普中国结来源",
       "onboard_time": 1740673158,
@@ -387,12 +419,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 56373,
-      "num": 133201,
-      "word": "陈昊宇柳智敏边佑锡生图",
-      "onboard_time": 1740673576,
-      "rank": 23,
-      "category": "作品衍生,时尚"
+      "raw_hot": 60622,
+      "num": 79666,
+      "word": "行动是打消不安最好的利器",
+      "onboard_time": 1740674655,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 39576,
@@ -401,11 +433,22 @@
       "onboard_time": 1740668541,
       "rank": 2,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 38372,
+      "num": 173296,
+      "word": "男子陪妻子看病医生多看一眼救一命",
+      "onboard_time": 1740669739,
+      "rank": 13,
+      "category": "正能量"
     }
   ],
   "hotgov_list": [
     {
       "word": "#奋进的春天#"
+    },
+    {
+      "word": "#种下石榴籽开出团结花#"
     }
   ]
 }

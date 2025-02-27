@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740673831596,
+  "endTime": 1740674739975,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -31843,6 +31843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239581,
+      "num": 171986,
+      "word": "关晓彤",
+      "onboard_time": 1740674355,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239523,
       "num": 239523,
       "word": "奥尼尔队全明星夺冠",
@@ -33499,6 +33507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 227582,
+      "num": 181512,
+      "word": "偶遇靳东以为是公司领导",
+      "onboard_time": 1740671778,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227537,
       "num": 343532,
       "word": "江西路中房没料到当地宁肯多花钱改道",
@@ -33801,6 +33817,14 @@
       "onboard_time": 1739948421,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 225914,
+      "num": 206548,
+      "word": "孟子义米兰时装周出发啦",
+      "onboard_time": 1740671719,
+      "rank": 17,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 225805,
@@ -34625,6 +34649,14 @@
       "onboard_time": 1740357860,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221090,
+      "num": 168316,
+      "word": "陈昊宇柳智敏边佑锡生图",
+      "onboard_time": 1740673576,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 221074,
@@ -37537,14 +37569,6 @@
       "onboard_time": 1739968281,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 206548,
-      "num": 206548,
-      "word": "孟子义米兰时装周出发啦",
-      "onboard_time": 1740671719,
-      "rank": 17,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 206535,
@@ -45147,14 +45171,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 181512,
-      "num": 181512,
-      "word": "偶遇靳东以为是公司领导",
-      "onboard_time": 1740671778,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 181482,
       "num": 181482,
       "word": "AL红色方",
@@ -46377,6 +46393,14 @@
       "onboard_time": 1740548659,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176569,
+      "num": 166963,
+      "word": "方媛感受到了祖国的温暖",
+      "onboard_time": 1740671178,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 176545,
@@ -53755,6 +53779,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 151578,
+      "num": 151578,
+      "word": "Gucci全平台更新肖战",
+      "onboard_time": 1740674236,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 151570,
       "num": 1118001,
       "word": "多地以旧换新多重buff拉满",
@@ -56265,14 +56297,6 @@
       "onboard_time": 1738511719,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 143706,
-      "num": 161413,
-      "word": "方媛感受到了祖国的温暖",
-      "onboard_time": 1740671178,
-      "rank": 19,
-      "category": "网红"
     },
     {
       "raw_hot": 143705,
@@ -60499,6 +60523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128111,
+      "num": 128111,
+      "word": "零食鲍菇螺肉主配料为福寿螺肉",
+      "onboard_time": 1740668961,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128109,
       "num": 241433,
       "word": "孙颖莎全球主场",
@@ -61273,6 +61305,14 @@
       "onboard_time": 1740550100,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125408,
+      "num": 125408,
+      "word": "周杰伦演唱会唱了难哄主题曲任性",
+      "onboard_time": 1740672678,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 125212,
@@ -62089,14 +62129,6 @@
       "onboard_time": 1740632541,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 122253,
-      "num": 122253,
-      "word": "零食鲍菇螺肉主配料为福寿螺肉",
-      "onboard_time": 1740668961,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 122229,
@@ -64769,14 +64801,6 @@
       "onboard_time": 1740034701,
       "rank": 47,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 111159,
-      "num": 111159,
-      "word": "周杰伦演唱会唱了难哄主题曲任性",
-      "onboard_time": 1740672678,
-      "rank": 33,
-      "category": "演出"
     },
     {
       "raw_hot": 111056,
@@ -67716,7 +67740,7 @@
     },
     {
       "raw_hot": 97906,
-      "num": 97906,
+      "num": 125441,
       "word": "宝可梦发布会",
       "onboard_time": 1740669620,
       "rank": 49,
@@ -73227,6 +73251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65306,
+      "num": 244389,
+      "word": "专家科普中国结来源",
+      "onboard_time": 1740673158,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65284,
       "num": 458589,
       "word": "新的一年蛇么都好",
@@ -73529,14 +73561,6 @@
       "onboard_time": 1739326279,
       "rank": 44,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 63612,
-      "num": 244389,
-      "word": "专家科普中国结来源",
-      "onboard_time": 1740673158,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 63515,
@@ -74129,6 +74153,14 @@
       "onboard_time": 1739997912,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 60622,
+      "num": 79666,
+      "word": "行动是打消不安最好的利器",
+      "onboard_time": 1740674655,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 60613,
@@ -75065,14 +75097,6 @@
       "onboard_time": 1738942462,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 56373,
-      "num": 133201,
-      "word": "陈昊宇柳智敏边佑锡生图",
-      "onboard_time": 1740673576,
-      "rank": 23,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 56346,
@@ -76284,7 +76308,7 @@
     },
     {
       "raw_hot": 51137,
-      "num": 125013,
+      "num": 173296,
       "word": "男子陪妻子看病医生多看一眼救一命",
       "onboard_time": 1740669739,
       "rank": 49,
