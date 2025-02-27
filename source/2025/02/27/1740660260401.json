@@ -1,0 +1,410 @@
+{
+  "runTime": 1740660260401,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1098583,
+        "num": 1175773,
+        "word": "建议春节假期取消调休",
+        "onboard_time": 1740649820,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 634917,
+        "num": 634917,
+        "word": "哪吒2票房已破140亿",
+        "onboard_time": 1740649398,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 81155,
+        "num": 510611,
+        "word": "那些你不知道的北京地儿",
+        "onboard_time": 1740655218,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1375528,
+        "num": 500152,
+        "word": "女子嫌金价太高在家自制金戒指",
+        "onboard_time": 1740656599,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 478437,
+        "num": 478437,
+        "word": "周雨彤回应辞职发疯戏",
+        "onboard_time": 1740651439,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 434620,
+        "num": 434620,
+        "word": "300元一张的始祖鸟吊牌到底谁在买",
+        "onboard_time": 1740652758,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 401343,
+        "num": 401343,
+        "word": "国防部表示早晚要来收了你们",
+        "onboard_time": 1740645198,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 335114,
+        "num": 335114,
+        "word": "吴越辟谣与赵文瑄恋情",
+        "onboard_time": 1740656839,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281335,
+        "num": 281335,
+        "word": "小米15ultra价格",
+        "onboard_time": 1740658400,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 74946,
+        "num": 281232,
+        "word": "吴越认证吴俪梅是恋爱脑",
+        "onboard_time": 1740659419,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1171594,
+        "num": 281152,
+        "word": "接吻超58小时破纪录夫妇宣布分手",
+        "onboard_time": 1740655519,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 893233,
+        "num": 280965,
+        "word": "薛小婉怒斥韩安冉",
+        "onboard_time": 1740651259,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47909,
+        "num": 280919,
+        "word": "夜神小米15Ultra真的绝了",
+        "onboard_time": 1740658939,
+        "rank": 12,
+        "category": "游戏,电竞"
+      },
+      {
+        "raw_hot": 598157,
+        "num": 280652,
+        "word": "婚房7年没住被小区保洁换锁养鸡",
+        "onboard_time": 1740653418,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 579207,
+        "num": 280620,
+        "word": "章若楠追星周杰伦成功",
+        "onboard_time": 1740652698,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425920,
+        "num": 280442,
+        "word": "韩佳人自曝曾一年内流产三次",
+        "onboard_time": 1740646580,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334881,
+        "num": 280260,
+        "word": "被前妻实名举报出轨副教授最新回应",
+        "onboard_time": 1740647779,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1086646,
+        "num": 280221,
+        "word": "罗大美遇害现场曝光",
+        "onboard_time": 1740652939,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309583,
+        "num": 280072,
+        "word": "周扬青自曝新恋情见光死",
+        "onboard_time": 1740644239,
+        "rank": 18,
+        "category": "时尚,网红"
+      },
+      {
+        "raw_hot": 305361,
+        "num": 279853,
+        "word": "张萌孟子义米兰吃火锅",
+        "onboard_time": 1740658218,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463075,
+        "num": 279731,
+        "word": "老人退休金9000多元家中却垃圾成山",
+        "onboard_time": 1740654739,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289513,
+        "num": 279595,
+        "word": "雷军回应当首富",
+        "onboard_time": 1740644657,
+        "rank": 21,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 279552,
+        "num": 279552,
+        "word": "TVB三部热播剧停播为哪吒1让路",
+        "onboard_time": 1740650478,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 271617,
+        "num": 271617,
+        "word": "北漂快递大叔首笔退休金10780元",
+        "onboard_time": 1740659299,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45306,
+        "num": 230586,
+        "word": "KSG 古老的阵容",
+        "onboard_time": 1740653959,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 222860,
+        "num": 222860,
+        "word": "不追内娱的年轻人沉迷地下偶像",
+        "onboard_time": 1740647658,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218187,
+        "num": 218187,
+        "word": "权志龙打歌舞台",
+        "onboard_time": 1740654140,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202789,
+        "num": 202789,
+        "word": "赵露思新头像寓意",
+        "onboard_time": 1740657199,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172768,
+        "num": 190723,
+        "word": "长沙一32层居民楼承重墙被装修误拆",
+        "onboard_time": 1740657980,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171538,
+        "num": 189048,
+        "word": "湖南卫视播赵丽颖的剧收视23连冠",
+        "onboard_time": 1740647058,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187502,
+        "num": 187502,
+        "word": "代号鸢",
+        "onboard_time": 1740653418,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180393,
+        "num": 180393,
+        "word": "Fendi回应中国结争议",
+        "onboard_time": 1740634938,
+        "rank": 31,
+        "category": "民生新闻,时尚"
+      },
+      {
+        "raw_hot": 164496,
+        "num": 164496,
+        "word": "小米15Ultra",
+        "onboard_time": 1740657738,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 163879,
+        "num": 163879,
+        "word": "IU车银优同框",
+        "onboard_time": 1740647719,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162660,
+        "num": 162660,
+        "word": "王安宇脾气",
+        "onboard_time": 1740644839,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160038,
+        "num": 160038,
+        "word": "创始人回应月薪5千不要吃巴奴言论",
+        "onboard_time": 1740656540,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157881,
+        "num": 157881,
+        "word": "李嘉琦六姊妹杀青长文",
+        "onboard_time": 1740656417,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152308,
+        "num": 152308,
+        "word": "姜妍说选衣服就像做饭一样简单",
+        "onboard_time": 1740658519,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143230,
+        "num": 143230,
+        "word": "霸王茶姬哪吒2联名",
+        "onboard_time": 1740638539,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128819,
+        "num": 128819,
+        "word": "赵露思与友人吃路边摊",
+        "onboard_time": 1740649218,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126120,
+        "num": 126120,
+        "word": "苏州一抓娃娃机惊现活体小猫",
+        "onboard_time": 1740648440,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125104,
+        "num": 125104,
+        "word": "雷军称小米手机国内市场份额排第2",
+        "onboard_time": 1740657079,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 121559,
+        "num": 121559,
+        "word": "爱你",
+        "onboard_time": 1740656299,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121545,
+        "num": 121545,
+        "word": "TES零封KSG",
+        "onboard_time": 1740656839,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119690,
+        "num": 119690,
+        "word": "翟潇闻直播",
+        "onboard_time": 1740660138,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118112,
+        "num": 118112,
+        "word": "关晓彤新片杀青后无缝进组年代剧",
+        "onboard_time": 1740655278,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114377,
+        "num": 114377,
+        "word": "李羲承机场新闻图",
+        "onboard_time": 1740655338,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108521,
+        "num": 108521,
+        "word": "藕饼你们两个在谈恋爱吗",
+        "onboard_time": 1740659179,
+        "rank": 47,
+        "category": "动漫,电影"
+      },
+      {
+        "raw_hot": 105833,
+        "num": 105833,
+        "word": "王楚钦一个动作全场安静",
+        "onboard_time": 1740658879,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87956,
+        "num": 103825,
+        "word": "花几十元可伪造考研成绩",
+        "onboard_time": 1740651919,
+        "rank": 49,
+        "category": "舆论监督,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋进的春天#"
+    }
+  }
+}

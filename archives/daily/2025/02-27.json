@@ -1,6 +1,6 @@
 {
   "startTime": 1740587402639,
-  "endTime": 1740656170780,
+  "endTime": 1740660260401,
   "band_list": [
     {
       "raw_hot": 2180306,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1375528,
+      "num": 500152,
+      "word": "女子嫌金价太高在家自制金戒指",
+      "onboard_time": 1740656599,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1352661,
       "num": 1352661,
       "word": "章若楠回应外貌变化",
@@ -131,12 +139,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1171594,
+      "num": 309151,
+      "word": "接吻超58小时破纪录夫妇宣布分手",
+      "onboard_time": 1740655519,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1135494,
       "num": 373055,
       "word": "贾静雯大女儿梧桐妹回怼继父",
       "onboard_time": 1740584240,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1086646,
+      "num": 608172,
+      "word": "罗大美遇害现场曝光",
+      "onboard_time": 1740652939,
+      "rank": 20,
+      "category": "民生新闻,剧集"
     },
     {
       "raw_hot": 1068426,
@@ -371,14 +395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 608172,
-      "num": 608172,
-      "word": "罗大美遇害现场曝光",
-      "onboard_time": 1740652939,
-      "rank": 20,
-      "category": "民生新闻,剧集"
-    },
-    {
       "raw_hot": 603472,
       "num": 603472,
       "word": "渐冻症女孩去世母亲想离开老家",
@@ -441,6 +457,14 @@
       "onboard_time": 1740644839,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 579207,
+      "num": 280620,
+      "word": "章若楠追星周杰伦成功",
+      "onboard_time": 1740652698,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 577214,
@@ -547,20 +571,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 463075,
+      "num": 322499,
+      "word": "老人退休金9000多元家中却垃圾成山",
+      "onboard_time": 1740654739,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 456830,
       "num": 516572,
       "word": "小米股价大跌超8%",
       "onboard_time": 1740629899,
       "rank": 32,
       "category": "财经"
-    },
-    {
-      "raw_hot": 452104,
-      "num": 309151,
-      "word": "接吻超58小时破纪录夫妇宣布分手",
-      "onboard_time": 1740655519,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 448950,
@@ -739,20 +763,20 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 335114,
+      "num": 335114,
+      "word": "吴越辟谣与赵文瑄恋情",
+      "onboard_time": 1740656839,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 327715,
       "num": 327715,
       "word": "特朗普宣称要靠移民金卡赚50万亿还债",
       "onboard_time": 1740645618,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 322499,
-      "num": 322499,
-      "word": "老人退休金9000多元家中却垃圾成山",
-      "onboard_time": 1740654739,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 322461,
@@ -811,6 +835,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 305361,
+      "num": 279853,
+      "word": "张萌孟子义米兰吃火锅",
+      "onboard_time": 1740658218,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 297473,
       "num": 297473,
       "word": "吒儿继续一亿一亿往上冲",
@@ -865,6 +897,22 @@
       "onboard_time": 1740584600,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 281335,
+      "num": 281335,
+      "word": "小米15ultra价格",
+      "onboard_time": 1740658400,
+      "rank": 8,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 271617,
+      "num": 271617,
+      "word": "北漂快递大叔首笔退休金10780元",
+      "onboard_time": 1740659299,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 268227,
@@ -1035,14 +1083,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 208479,
-      "num": 208479,
-      "word": "章若楠追星周杰伦成功",
-      "onboard_time": 1740652698,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 208353,
       "num": 271876,
       "word": "封神2票房超12亿",
@@ -1073,6 +1113,14 @@
       "onboard_time": 1740623120,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 202789,
+      "num": 202789,
+      "word": "赵露思新头像寓意",
+      "onboard_time": 1740657199,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 202226,
@@ -1371,6 +1419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172768,
+      "num": 190723,
+      "word": "长沙一32层居民楼承重墙被装修误拆",
+      "onboard_time": 1740657980,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172718,
       "num": 268493,
       "word": "有种熟人成为首富的感觉",
@@ -1420,7 +1476,7 @@
     },
     {
       "raw_hot": 165239,
-      "num": 165239,
+      "num": 230586,
       "word": "KSG 古老的阵容",
       "onboard_time": 1740653959,
       "rank": 35,
@@ -1441,6 +1497,14 @@
       "onboard_time": 1740643879,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 164496,
+      "num": 164496,
+      "word": "小米15Ultra",
+      "onboard_time": 1740657738,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 163126,
@@ -1483,11 +1547,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160038,
+      "num": 160038,
+      "word": "创始人回应月薪5千不要吃巴奴言论",
+      "onboard_time": 1740656540,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158434,
       "num": 230215,
       "word": "疑似桐华说出了心里话",
       "onboard_time": 1740644419,
       "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 157881,
+      "num": 157881,
+      "word": "李嘉琦六姊妹杀青长文",
+      "onboard_time": 1740656417,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -1521,6 +1601,14 @@
       "onboard_time": 1740655519,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 152308,
+      "num": 152308,
+      "word": "姜妍说选衣服就像做饭一样简单",
+      "onboard_time": 1740658519,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 152052,
@@ -1827,6 +1915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125104,
+      "num": 125104,
+      "word": "雷军称小米手机国内市场份额排第2",
+      "onboard_time": 1740657079,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 124224,
       "num": 170577,
       "word": "代露娃粉丝做了6个小时的弓箭",
@@ -1867,12 +1963,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121559,
+      "num": 121559,
+      "word": "爱你",
+      "onboard_time": 1740568460,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 121545,
+      "num": 121545,
+      "word": "TES零封KSG",
+      "onboard_time": 1740656839,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121260,
       "num": 121260,
       "word": "妈妈回应26岁渐冻症女儿去世",
       "onboard_time": 1740635420,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119690,
+      "num": 119690,
+      "word": "翟潇闻直播",
+      "onboard_time": 1740660138,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 119556,
@@ -2003,6 +2123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108521,
+      "num": 108521,
+      "word": "藕饼你们两个在谈恋爱吗",
+      "onboard_time": 1740659179,
+      "rank": 47,
+      "category": "动漫,电影"
+    },
+    {
       "raw_hot": 108133,
       "num": 108133,
       "word": "似锦男女主不谈恋爱先除四恶",
@@ -2027,6 +2155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105833,
+      "num": 105833,
+      "word": "王楚钦一个动作全场安静",
+      "onboard_time": 1740658879,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105186,
       "num": 114364,
       "word": "77年一遇的七星连珠肉眼可见3颗",
@@ -2041,14 +2177,6 @@
       "onboard_time": 1740582921,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 104486,
-      "num": 104486,
-      "word": "爱你",
-      "onboard_time": 1740568460,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 103650,
@@ -2339,6 +2467,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 81155,
+      "num": 935151,
+      "word": "那些你不知道的北京地儿",
+      "onboard_time": 1740655218,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 79439,
       "num": 130953,
       "word": "贺峻霖玩天凉破梗",
@@ -2385,6 +2521,14 @@
       "onboard_time": 1740646519,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74946,
+      "num": 281232,
+      "word": "吴越认证吴俪梅是恋爱脑",
+      "onboard_time": 1740659419,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 67325,
@@ -2563,6 +2707,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 47909,
+      "num": 280919,
+      "word": "夜神小米15Ultra真的绝了",
+      "onboard_time": 1740658939,
+      "rank": 12,
+      "category": "游戏,电竞"
+    },
+    {
       "raw_hot": 47111,
       "num": 47111,
       "word": "爱你 治愈",
@@ -2609,14 +2761,6 @@
       "onboard_time": 1740637218,
       "rank": 46,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 41133,
-      "num": 935151,
-      "word": "那些你不知道的北京地儿",
-      "onboard_time": 1740655218,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 40720,
