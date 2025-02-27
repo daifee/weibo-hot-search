@@ -1,0 +1,410 @@
+{
+  "runTime": 1740652947490,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2112568,
+        "num": 2112568,
+        "word": "建议春节假期取消调休",
+        "onboard_time": 1740649820,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1418712,
+        "num": 1418712,
+        "word": "哪吒2票房已破140亿",
+        "onboard_time": 1740649398,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38753,
+        "num": 999977,
+        "word": "沉浸式感受春日里生机勃勃的中国",
+        "onboard_time": 1740647179,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 937669,
+        "num": 937669,
+        "word": "被前妻实名举报出轨副教授最新回应",
+        "onboard_time": 1740647779,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 869313,
+        "num": 869313,
+        "word": "国防部表示早晚要来收了你们",
+        "onboard_time": 1740645198,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 453385,
+        "num": 453385,
+        "word": "湖南卫视播赵丽颖的剧收视23连冠",
+        "onboard_time": 1740647058,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 416847,
+        "num": 416847,
+        "word": "泽连斯基称10美分都不会还给美国",
+        "onboard_time": 1740648019,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 323714,
+        "num": 323714,
+        "word": "林一给虞书欣送了妮妮玩偶",
+        "onboard_time": 1740645618,
+        "rank": 7,
+        "category": "剧集,综艺"
+      },
+      {
+        "raw_hot": 322461,
+        "num": 322461,
+        "word": "小楼",
+        "onboard_time": 1740649939,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 53899,
+        "num": 320789,
+        "word": "40名中国籍偷渡人员从泰国遣返",
+        "onboard_time": 1740652220,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1268856,
+        "num": 317606,
+        "word": "薛小婉怒斥韩安冉",
+        "onboard_time": 1740651259,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 928226,
+        "num": 312032,
+        "word": "韩佳人自曝曾一年内流产三次",
+        "onboard_time": 1740646580,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 812099,
+        "num": 309231,
+        "word": "雷军回应当首富",
+        "onboard_time": 1740644657,
+        "rank": 12,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 627129,
+        "num": 305074,
+        "word": "周扬青自曝新恋情见光死",
+        "onboard_time": 1740644239,
+        "rank": 13,
+        "category": "时尚,网红"
+      },
+      {
+        "raw_hot": 515339,
+        "num": 304849,
+        "word": "IU车银优同框",
+        "onboard_time": 1740647719,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301552,
+        "num": 301552,
+        "word": "周雨彤回应辞职发疯戏",
+        "onboard_time": 1740651439,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261963,
+        "num": 278794,
+        "word": "霸王茶姬哪吒2联名",
+        "onboard_time": 1740638539,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 276942,
+        "num": 276942,
+        "word": "被勒索200万撕票的罗大美案28日开庭",
+        "onboard_time": 1740646159,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55428,
+        "num": 276159,
+        "word": "韩国毒品为何泛滥",
+        "onboard_time": 1740652040,
+        "rank": 18,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 181194,
+        "num": 275985,
+        "word": "男子花光27万货款打赏主播被赶出家门",
+        "onboard_time": 1740651919,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318897,
+        "num": 275961,
+        "word": "赵露思与友人吃路边摊",
+        "onboard_time": 1740649218,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275923,
+        "num": 275923,
+        "word": "女护士怀上58岁已婚教授孩子后勒索",
+        "onboard_time": 1740636438,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262809,
+        "num": 262809,
+        "word": "王安宇脾气",
+        "onboard_time": 1740644839,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239722,
+        "num": 239722,
+        "word": "苏州一抓娃娃机惊现活体小猫",
+        "onboard_time": 1740648440,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229665,
+        "num": 229665,
+        "word": "韩安冉向薛小婉道歉",
+        "onboard_time": 1740631220,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225256,
+        "num": 225256,
+        "word": "伍声2009",
+        "onboard_time": 1740648680,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 224152,
+        "num": 224152,
+        "word": "我是文淇我不敢不同意开学",
+        "onboard_time": 1740639498,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86960,
+        "num": 213862,
+        "word": "美国将取消价值540亿美元对外援助合同",
+        "onboard_time": 1740651020,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 209356,
+        "num": 209356,
+        "word": "不追内娱的年轻人沉迷地下偶像",
+        "onboard_time": 1740647658,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205479,
+        "num": 205479,
+        "word": "TVB三部热播剧停播为哪吒1让路",
+        "onboard_time": 1740650478,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118627,
+        "num": 200488,
+        "word": "借助AI写的论文小说受产权保护吗",
+        "onboard_time": 1740650959,
+        "rank": 30,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 321122,
+        "num": 200064,
+        "word": "Fendi回应中国结争议",
+        "onboard_time": 1740634938,
+        "rank": 31,
+        "category": "民生新闻,时尚"
+      },
+      {
+        "raw_hot": 209981,
+        "num": 199847,
+        "word": "SM历代C位",
+        "onboard_time": 1740647658,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199326,
+        "num": 199326,
+        "word": "长沙一6岁女孩来月经",
+        "onboard_time": 1740637819,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186775,
+        "num": 186775,
+        "word": "特朗普宣称要靠移民金卡赚50万亿还债",
+        "onboard_time": 1740645618,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 166603,
+        "num": 166603,
+        "word": "手机系统一直不更新可能被黑",
+        "onboard_time": 1740642318,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 155032,
+        "num": 155032,
+        "word": "哪吒来了刘畊宏直播间也得跳操",
+        "onboard_time": 1740642140,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153000,
+        "num": 153000,
+        "word": "中国结欢迎借鉴反对挪用",
+        "onboard_time": 1740643639,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140763,
+        "num": 140763,
+        "word": "TES对战JDG",
+        "onboard_time": 1740652579,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136074,
+        "num": 136074,
+        "word": "罗大美16岁离家打拼赚钱供妹妹读书",
+        "onboard_time": 1740648501,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 136065,
+        "num": 136065,
+        "word": "辞职半个月又回来上班有点尴尬",
+        "onboard_time": 1740643698,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133412,
+        "num": 133412,
+        "word": "章若楠追星周杰伦成功",
+        "onboard_time": 1740652698,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36398,
+        "num": 131934,
+        "word": "3个小细节识别干净外卖",
+        "onboard_time": 1740652339,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130498,
+        "num": 130498,
+        "word": "300元一张的始祖鸟吊牌到底谁在买",
+        "onboard_time": 1740652758,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129126,
+        "num": 129126,
+        "word": "迪丽热巴轻轻一夹把我吊成翘嘴",
+        "onboard_time": 1740635658,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119418,
+        "num": 119418,
+        "word": "我国牵头制定养老机器人国际标准",
+        "onboard_time": 1740625519,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 117768,
+        "num": 117768,
+        "word": "滤镜",
+        "onboard_time": 1740651499,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110344,
+        "num": 117522,
+        "word": "始祖鸟大中华区业绩大涨超50%",
+        "onboard_time": 1740651259,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 77836,
+        "num": 117365,
+        "word": "Deepseek推荐华为ADS迎战特斯拉FSD",
+        "onboard_time": 1740646399,
+        "rank": 48,
+        "category": "汽车,互联网"
+      },
+      {
+        "raw_hot": 117323,
+        "num": 117323,
+        "word": "家有仙妻的回旋镖正中李兰迪的眉心",
+        "onboard_time": 1740652878,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会之问#"
+    }
+  }
+}

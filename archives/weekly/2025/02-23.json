@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740651907900,
+  "endTime": 1740652947490,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -201,6 +201,14 @@
       "onboard_time": 1740448998,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2112568,
+      "num": 2112568,
+      "word": "建议春节假期取消调休",
+      "onboard_time": 1740649820,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2062676,
@@ -451,14 +459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1571091,
-      "num": 1571091,
-      "word": "建议春节假期取消调休",
-      "onboard_time": 1740649820,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1551748,
       "num": 647604,
       "word": "十个勤天演唱会疑似抄袭五月天",
@@ -697,6 +697,14 @@
       "onboard_time": 1740486561,
       "rank": 22,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1268856,
+      "num": 317606,
+      "word": "薛小婉怒斥韩安冉",
+      "onboard_time": 1740651259,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1262756,
@@ -1257,6 +1265,14 @@
       "onboard_time": 1740275599,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 937669,
+      "num": 937669,
+      "word": "被前妻实名举报出轨副教授最新回应",
+      "onboard_time": 1740647779,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 937556,
@@ -2548,7 +2564,7 @@
     },
     {
       "raw_hot": 585567,
-      "num": 260481,
+      "num": 262809,
       "word": "王安宇脾气",
       "onboard_time": 1740644839,
       "rank": 26,
@@ -3203,14 +3219,6 @@
       "category": "情感,剧集"
     },
     {
-      "raw_hot": 480669,
-      "num": 292197,
-      "word": "薛小婉怒斥韩安冉",
-      "onboard_time": 1740651259,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 478721,
       "num": 293095,
       "word": "陈冠希晒与老婆自拍照",
@@ -3531,14 +3539,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 440481,
-      "num": 440481,
-      "word": "被前妻实名举报出轨副教授最新回应",
-      "onboard_time": 1740647779,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 436646,
       "num": 357554,
       "word": "千金归来只剩千金",
@@ -3697,6 +3697,14 @@
       "onboard_time": 1740583579,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 416847,
+      "num": 416847,
+      "word": "泽连斯基称10美分都不会还给美国",
+      "onboard_time": 1740648019,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 416578,
@@ -4515,6 +4523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 322461,
+      "num": 322461,
+      "word": "小楼",
+      "onboard_time": 1740649939,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 322372,
       "num": 273898,
       "word": "哪吒2超134亿",
@@ -4568,6 +4584,14 @@
       "word": "肖战和容祖儿合照了",
       "onboard_time": 1740548119,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 318897,
+      "num": 275961,
+      "word": "赵露思与友人吃路边摊",
+      "onboard_time": 1740649218,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -4641,14 +4665,6 @@
       "onboard_time": 1740564078,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 312750,
-      "num": 312750,
-      "word": "泽连斯基称10美分都不会还给美国",
-      "onboard_time": 1740648019,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 311917,
@@ -4795,12 +4811,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 301575,
-      "num": 256658,
-      "word": "赵露思与友人吃路边摊",
-      "onboard_time": 1740649218,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 301552,
+      "num": 301552,
+      "word": "周雨彤回应辞职发疯戏",
+      "onboard_time": 1740651439,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 300402,
@@ -4809,14 +4825,6 @@
       "onboard_time": 1740561679,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 300346,
-      "num": 300346,
-      "word": "小楼",
-      "onboard_time": 1740649939,
-      "rank": 9,
-      "category": "电竞"
     },
     {
       "raw_hot": 300176,
@@ -6739,6 +6747,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 209356,
+      "num": 314055,
+      "word": "不追内娱的年轻人沉迷地下偶像",
+      "onboard_time": 1740647658,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209194,
       "num": 209194,
       "word": "文科教授谈AI加速文科之死",
@@ -7384,14 +7400,6 @@
       "word": "檀健次怎么这么会演暗爽",
       "onboard_time": 1740489741,
       "rank": 43,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 193767,
-      "num": 220140,
-      "word": "周雨彤回应辞职发疯戏",
-      "onboard_time": 1740651439,
-      "rank": 27,
       "category": "剧集"
     },
     {
@@ -8145,6 +8153,14 @@
       "onboard_time": 1740625699,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 181194,
+      "num": 275985,
+      "word": "男子花光27万货款打赏主播被赶出家门",
+      "onboard_time": 1740651919,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 181024,
@@ -10571,6 +10587,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 140763,
+      "num": 140763,
+      "word": "TES对战JDG",
+      "onboard_time": 1740652579,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 140737,
       "num": 140737,
       "word": "Jennie专辑试听",
@@ -10955,6 +10979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133412,
+      "num": 133412,
+      "word": "章若楠追星周杰伦成功",
+      "onboard_time": 1740652698,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132981,
       "num": 132981,
       "word": "考研查分紧张",
@@ -11059,12 +11091,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 130710,
-      "num": 314055,
-      "word": "不追内娱的年轻人沉迷地下偶像",
-      "onboard_time": 1740647658,
-      "rank": 14,
-      "category": "艺人"
+      "raw_hot": 130498,
+      "num": 130498,
+      "word": "300元一张的始祖鸟吊牌到底谁在买",
+      "onboard_time": 1740652758,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130477,
@@ -11659,6 +11691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118627,
+      "num": 296799,
+      "word": "借助AI写的论文小说受产权保护吗",
+      "onboard_time": 1740650959,
+      "rank": 14,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 118611,
       "num": 118611,
       "word": "冰雪大世界26日22时闭园",
@@ -11705,6 +11745,14 @@
       "onboard_time": 1740393499,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 117323,
+      "num": 117323,
+      "word": "家有仙妻的回旋镖正中李兰迪的眉心",
+      "onboard_time": 1740652878,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 117225,
@@ -12059,6 +12107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110344,
+      "num": 117522,
+      "word": "始祖鸟大中华区业绩大涨超50%",
+      "onboard_time": 1740651259,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 110330,
       "num": 280090,
       "word": "女子减肥患厌食症瘦到只剩40斤",
@@ -12324,7 +12380,7 @@
     },
     {
       "raw_hot": 102826,
-      "num": 115664,
+      "num": 117365,
       "word": "Deepseek推荐华为ADS迎战特斯拉FSD",
       "onboard_time": 1740646399,
       "rank": 48,
@@ -12481,14 +12537,6 @@
       "onboard_time": 1740498560,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 97299,
-      "num": 114531,
-      "word": "始祖鸟大中华区业绩大涨超50%",
-      "onboard_time": 1740651259,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 97125,
@@ -12827,6 +12875,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 86960,
+      "num": 262740,
+      "word": "美国将取消价值540亿美元对外援助合同",
+      "onboard_time": 1740651020,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 86640,
       "num": 262639,
       "word": "美司法部长称27日公布爱泼斯坦文件",
@@ -13001,14 +13057,6 @@
       "onboard_time": 1740507673,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 82706,
-      "num": 262740,
-      "word": "美国将取消价值540亿美元对外援助合同",
-      "onboard_time": 1740651020,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 82682,
@@ -13899,6 +13947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 55428,
+      "num": 276159,
+      "word": "韩国毒品为何泛滥",
+      "onboard_time": 1740652040,
+      "rank": 18,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 55311,
       "num": 259147,
       "word": "高圆圆谈认真才会出圈",
@@ -13985,6 +14041,14 @@
       "onboard_time": 1740375439,
       "rank": 43,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 53899,
+      "num": 320789,
+      "word": "40名中国籍偷渡人员从泰国遣返",
+      "onboard_time": 1740652220,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 53805,
@@ -14627,20 +14691,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 36398,
+      "num": 131934,
+      "word": "3个小细节识别干净外卖",
+      "onboard_time": 1740652339,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36333,
       "num": 36333,
       "word": "买了会员卡碰上职业闭店人怎么办",
       "onboard_time": 1740332893,
       "rank": 38,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 36206,
-      "num": 296799,
-      "word": "借助AI写的论文小说受产权保护吗",
-      "onboard_time": 1740650959,
-      "rank": 14,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 36146,
