@@ -1,6 +1,6 @@
 {
   "startTime": 1740587402639,
-  "endTime": 1740625569081,
+  "endTime": 1740627032091,
   "band_list": [
     {
       "raw_hot": 2157603,
@@ -11,12 +11,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1141993,
+      "raw_hot": 1453420,
       "num": 369409,
       "word": "性教育课上男生大方展示卫生巾",
       "onboard_time": 1740623781,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1234620,
+      "num": 332866,
+      "word": "留几手离婚搬进50平出租屋",
+      "onboard_time": 1740626359,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1135494,
@@ -33,6 +41,14 @@
       "onboard_time": 1740583639,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1024535,
+      "num": 1024535,
+      "word": "雷军身家超钟睒睒登顶中国首富",
+      "onboard_time": 1740625159,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 961659,
@@ -83,6 +99,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 600010,
+      "num": 600010,
+      "word": "方媛在米兰遭抢劫当地华人发声",
+      "onboard_time": 1740623539,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 597434,
       "num": 868523,
       "word": "单依纯胖了更有力气唱歌",
@@ -105,14 +129,6 @@
       "onboard_time": 1740581839,
       "rank": 1,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 576094,
-      "num": 576094,
-      "word": "方媛在米兰遭抢劫当地华人发声",
-      "onboard_time": 1740623539,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 533529,
@@ -171,6 +187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 369475,
+      "num": 284249,
+      "word": "七星连珠",
+      "onboard_time": 1740622279,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 368036,
       "num": 368036,
       "word": "代露娃韩孝周同框",
@@ -211,12 +235,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 341673,
+      "num": 341673,
+      "word": "DeepSeek出现后学文科还有价值吗",
+      "onboard_time": 1740624439,
+      "rank": 14,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 321755,
       "num": 321755,
       "word": "美情报人员被爆色情聊天",
       "onboard_time": 1740617838,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 313604,
+      "num": 330901,
+      "word": "我国牵头制定养老机器人国际标准",
+      "onboard_time": 1740625519,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 297473,
@@ -243,6 +283,14 @@
       "category": "母婴育儿,健康医疗"
     },
     {
+      "raw_hot": 288394,
+      "num": 288394,
+      "word": "章若楠直播",
+      "onboard_time": 1740625279,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284529,
       "num": 284529,
       "word": "存款利息低DeepSeek建议钱往哪里放",
@@ -259,12 +307,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 270599,
-      "num": 270599,
-      "word": "七星连珠",
-      "onboard_time": 1740622279,
-      "rank": 30,
-      "category": "科学科普"
+      "raw_hot": 272681,
+      "num": 272681,
+      "word": "曾求助过蔡磊的98年渐冻症女孩去世",
+      "onboard_time": 1740626359,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 265799,
@@ -283,16 +331,16 @@
       "category": "电影"
     },
     {
-      "raw_hot": 250745,
-      "num": 273621,
-      "word": "雷军身家超钟睒睒登顶中国首富",
-      "onboard_time": 1740625159,
-      "rank": 17,
-      "category": "财经"
+      "raw_hot": 241813,
+      "num": 241813,
+      "word": "结婚人数为何下降",
+      "onboard_time": 1740624018,
+      "rank": 35,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 241248,
-      "num": 241248,
+      "num": 286199,
       "word": "35岁秦舒培状态",
       "onboard_time": 1740621980,
       "rank": 20,
@@ -339,20 +387,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209194,
+      "num": 209194,
+      "word": "文科教授谈AI加速文科之死",
+      "onboard_time": 1740625879,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 208353,
+      "num": 271876,
+      "word": "封神2票房超12亿",
+      "onboard_time": 1740624680,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 207865,
       "num": 207865,
       "word": "老总震惊主播月销量顶传统集团一年",
       "onboard_time": 1740615199,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 205714,
-      "num": 205714,
-      "word": "封神2票房超12亿",
-      "onboard_time": 1740624680,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 204873,
@@ -395,6 +451,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 193834,
+      "num": 285486,
+      "word": "怀孕遭辞退老师未签合同有五险",
+      "onboard_time": 1740626120,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190622,
       "num": 189042,
       "word": "前男友用牙签抠走女子存钱罐3000多元",
@@ -420,7 +484,7 @@
     },
     {
       "raw_hot": 186704,
-      "num": 200602,
+      "num": 264317,
       "word": "嘉人易烊千玺三月刊",
       "onboard_time": 1740625340,
       "rank": 27,
@@ -443,12 +507,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 181375,
+      "num": 181375,
+      "word": "iPhone16e评测",
+      "onboard_time": 1740625699,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 179787,
       "num": 179787,
       "word": "胡兵54岁状态",
       "onboard_time": 1740584898,
       "rank": 17,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 178385,
+      "num": 178385,
+      "word": "特斯拉理想",
+      "onboard_time": 1740625639,
+      "rank": 36,
+      "category": "汽车"
     },
     {
       "raw_hot": 176921,
@@ -499,36 +579,28 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 156955,
-      "num": 271035,
-      "word": "章若楠直播",
-      "onboard_time": 1740625279,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 156458,
-      "num": 325685,
-      "word": "DeepSeek出现后学文科还有价值吗",
-      "onboard_time": 1740624439,
-      "rank": 14,
-      "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 152125,
-      "num": 152125,
-      "word": "结婚人数为何下降",
-      "onboard_time": 1740624018,
-      "rank": 35,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 152052,
       "num": 152052,
       "word": "武汉小伙澳洲留学吃不惯3个月瘦30斤",
       "onboard_time": 1740622218,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151564,
+      "num": 337078,
+      "word": "小米市值突破1.4万亿港元",
+      "onboard_time": 1740623419,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 150883,
+      "num": 150883,
+      "word": "奔驰裁员",
+      "onboard_time": 1740626780,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 150791,
@@ -587,14 +659,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 136823,
-      "num": 136823,
-      "word": "小米市值突破1.4万亿港元",
-      "onboard_time": 1740623419,
-      "rank": 39,
-      "category": "财经"
-    },
-    {
       "raw_hot": 133566,
       "num": 133566,
       "word": "种地吧",
@@ -635,6 +699,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121170,
+      "num": 254573,
+      "word": "特朗普让乌克兰忘了北约吧",
+      "onboard_time": 1740626061,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 118725,
+      "num": 118725,
+      "word": "胡兵49岁身高又长了1厘米",
+      "onboard_time": 1740626780,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115703,
       "num": 115703,
       "word": "滤镜 虐男主",
@@ -667,12 +747,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 108696,
-      "num": 108696,
-      "word": "我国牵头制定养老机器人国际标准",
-      "onboard_time": 1740625519,
-      "rank": 45,
-      "category": "国内时政"
+      "raw_hot": 108133,
+      "num": 108133,
+      "word": "似锦男女主不谈恋爱先除四恶",
+      "onboard_time": 1740625998,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 108113,
@@ -827,6 +907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 88445,
+      "num": 273616,
+      "word": "办理年度个税汇算问答",
+      "onboard_time": 1740623479,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85881,
       "num": 130154,
       "word": "男子性侵未遂致人溺亡案二审将开庭",
@@ -859,14 +947,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 80520,
-      "num": 273616,
-      "word": "办理年度个税汇算问答",
-      "onboard_time": 1740623479,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 76405,
       "num": 96200,
       "word": "容貌焦虑已经过时了吗",
@@ -897,6 +977,14 @@
       "onboard_time": 1740589453,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 61096,
+      "num": 327156,
+      "word": "泽连斯基28日赴美签署矿产协议",
+      "onboard_time": 1740625938,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 59009,
@@ -980,7 +1068,7 @@
     },
     {
       "raw_hot": 37645,
-      "num": 766522,
+      "num": 771371,
       "word": "春耕农忙正当时",
       "onboard_time": 1740575240,
       "rank": 2,

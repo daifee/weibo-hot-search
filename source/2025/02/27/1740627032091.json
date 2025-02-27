@@ -1,0 +1,410 @@
+{
+  "runTime": 1740627032091,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1182559,
+        "num": 1189209,
+        "word": "香港全体公务员冻薪",
+        "onboard_time": 1740617838,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1024535,
+        "num": 1024535,
+        "word": "雷军身家超钟睒睒登顶中国首富",
+        "onboard_time": 1740625159,
+        "rank": 1,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 27722,
+        "num": 771371,
+        "word": "春耕农忙正当时",
+        "onboard_time": 1740575240,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 663343,
+        "num": 663343,
+        "word": "金价",
+        "onboard_time": 1740620780,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 600010,
+        "num": 600010,
+        "word": "方媛在米兰遭抢劫当地华人发声",
+        "onboard_time": 1740623539,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367623,
+        "num": 367623,
+        "word": "大学老师说AI作文全判0分",
+        "onboard_time": 1740593414,
+        "rank": 5,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 352973,
+        "num": 352973,
+        "word": "戴墨镜真的能快速提高颜值",
+        "onboard_time": 1740583579,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341673,
+        "num": 341673,
+        "word": "DeepSeek出现后学文科还有价值吗",
+        "onboard_time": 1740624439,
+        "rank": 7,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 292246,
+        "num": 339930,
+        "word": "苏见信说哪吒3可以找他",
+        "onboard_time": 1740620180,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151564,
+        "num": 337078,
+        "word": "小米市值突破1.4万亿港元",
+        "onboard_time": 1740623419,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1453420,
+        "num": 335862,
+        "word": "性教育课上男生大方展示卫生巾",
+        "onboard_time": 1740623781,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1234620,
+        "num": 332866,
+        "word": "留几手离婚搬进50平出租屋",
+        "onboard_time": 1740626359,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313604,
+        "num": 330901,
+        "word": "我国牵头制定养老机器人国际标准",
+        "onboard_time": 1740625519,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 430282,
+        "num": 329923,
+        "word": "贾静雯大女儿梧桐妹回怼继父",
+        "onboard_time": 1740584240,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61096,
+        "num": 327156,
+        "word": "泽连斯基28日赴美签署矿产协议",
+        "onboard_time": 1740625938,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 325476,
+        "num": 325476,
+        "word": "叶挺将军之子叶正光先生逝世",
+        "onboard_time": 1740620118,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 288394,
+        "num": 288394,
+        "word": "章若楠直播",
+        "onboard_time": 1740625279,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268987,
+        "num": 288143,
+        "word": "绯闻女孩乔治娜演员去世",
+        "onboard_time": 1740614478,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144263,
+        "num": 286199,
+        "word": "35岁秦舒培状态",
+        "onboard_time": 1740621980,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193834,
+        "num": 285486,
+        "word": "怀孕遭辞退老师未签合同有五险",
+        "onboard_time": 1740626120,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369475,
+        "num": 284249,
+        "word": "七星连珠",
+        "onboard_time": 1740622279,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 321521,
+        "num": 283170,
+        "word": "女生称面试王安宇新剧电动车被聘了",
+        "onboard_time": 1740583639,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282350,
+        "num": 282350,
+        "word": "王楚钦想不通为何球板被踩断",
+        "onboard_time": 1740617240,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280888,
+        "num": 280888,
+        "word": "张元英粉丝暂停对接中国非头部杂志",
+        "onboard_time": 1740622579,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280029,
+        "num": 280029,
+        "word": "19岁女棋手用AI作弊禁赛8年",
+        "onboard_time": 1740621258,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 272681,
+        "num": 272681,
+        "word": "曾求助过蔡磊的98年渐冻症女孩去世",
+        "onboard_time": 1740626359,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208353,
+        "num": 271876,
+        "word": "封神2票房超12亿",
+        "onboard_time": 1740624680,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 184978,
+        "num": 264317,
+        "word": "嘉人易烊千玺三月刊",
+        "onboard_time": 1740625340,
+        "rank": 27,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 125274,
+        "num": 259074,
+        "word": "代露娃韩孝周同框",
+        "onboard_time": 1740613156,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121170,
+        "num": 254573,
+        "word": "特朗普让乌克兰忘了北约吧",
+        "onboard_time": 1740626061,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 252609,
+        "num": 252609,
+        "word": "曝赵露思将离开银河酷娱",
+        "onboard_time": 1740612436,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241813,
+        "num": 241813,
+        "word": "结婚人数为何下降",
+        "onboard_time": 1740624018,
+        "rank": 31,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 209194,
+        "num": 209194,
+        "word": "文科教授谈AI加速文科之死",
+        "onboard_time": 1740625879,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 187426,
+        "num": 187426,
+        "word": "小伙澳洲留学吃不惯仨月瘦30斤",
+        "onboard_time": 1740623120,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181375,
+        "num": 181375,
+        "word": "iPhone16e评测",
+        "onboard_time": 1740625699,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 180540,
+        "num": 180540,
+        "word": "首尔街头偶遇李现逛街",
+        "onboard_time": 1740617120,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178385,
+        "num": 178385,
+        "word": "特斯拉理想",
+        "onboard_time": 1740625639,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 177244,
+        "num": 177244,
+        "word": "专家说孕妇要像减脂期一样吃饭",
+        "onboard_time": 1740618740,
+        "rank": 37,
+        "category": "母婴育儿,健康医疗"
+      },
+      {
+        "raw_hot": 88445,
+        "num": 170052,
+        "word": "办理年度个税汇算问答",
+        "onboard_time": 1740623479,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169055,
+        "num": 169055,
+        "word": "光遇",
+        "onboard_time": 1740625220,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160005,
+        "num": 160005,
+        "word": "印度两女子欲用行李箱抛尸被逮捕",
+        "onboard_time": 1740616218,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 150883,
+        "num": 150883,
+        "word": "奔驰裁员",
+        "onboard_time": 1740626780,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 142632,
+        "num": 142632,
+        "word": "武汉小伙澳洲留学吃不惯3个月瘦30斤",
+        "onboard_time": 1740622218,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127704,
+        "num": 127704,
+        "word": "美情报人员被爆色情聊天",
+        "onboard_time": 1740617838,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125045,
+        "num": 125045,
+        "word": "难哄又有新预告了",
+        "onboard_time": 1740622759,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118725,
+        "num": 118725,
+        "word": "胡兵49岁身高又长了1厘米",
+        "onboard_time": 1740626780,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118367,
+        "num": 118367,
+        "word": "蛇年正月最后一天",
+        "onboard_time": 1740612795,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110802,
+        "num": 110802,
+        "word": "100天后高考",
+        "onboard_time": 1740591015,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 110381,
+        "num": 110381,
+        "word": "乌克兰和美国已定矿产协议最终版本",
+        "onboard_time": 1740570439,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108133,
+        "num": 108133,
+        "word": "似锦男女主不谈恋爱先除四恶",
+        "onboard_time": 1740625998,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#让民营企业心无旁骛谋发展#"
+    }
+  }
+}
