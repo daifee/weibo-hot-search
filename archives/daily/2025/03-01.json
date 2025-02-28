@@ -1,10 +1,10 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740760172219,
+  "endTime": 1740761071960,
   "band_list": [
     {
-      "raw_hot": 1655171,
-      "num": 1655171,
+      "raw_hot": 2475221,
+      "num": 2475221,
       "word": "这周放5天",
       "onboard_time": 1740758299,
       "rank": 0,
@@ -43,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 554654,
+      "num": 554654,
+      "word": "张艺兴说成员们都年过半六十",
+      "onboard_time": 1740758238,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 515279,
       "num": 365773,
       "word": "小盐巴手机壳",
@@ -51,12 +59,20 @@
       "category": "时尚,网红"
     },
     {
-      "raw_hot": 487586,
-      "num": 487586,
+      "raw_hot": 500284,
+      "num": 500284,
       "word": "湖南水上交通事故已致11人遇难",
       "onboard_time": 1740756199,
       "rank": 4,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 499257,
+      "num": 499257,
+      "word": "哪吒票房",
+      "onboard_time": 1740737479,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 469316,
@@ -67,28 +83,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 460779,
-      "num": 460779,
-      "word": "张艺兴说成员们都年过半六十",
-      "onboard_time": 1740758238,
-      "rank": 6,
-      "category": "演出"
-    },
-    {
       "raw_hot": 384578,
       "num": 384578,
       "word": "李宁 王楚钦",
       "onboard_time": 1740754819,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 370925,
-      "num": 370925,
-      "word": "哪吒票房",
-      "onboard_time": 1740737479,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 364431,
@@ -187,6 +187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 158354,
+      "num": 370302,
+      "word": "你应该退税还是补税",
+      "onboard_time": 1740751043,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155614,
       "num": 155614,
       "word": "李晨Angelababy友谊",
@@ -243,14 +251,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 119408,
-      "num": 370302,
-      "word": "你应该退税还是补税",
-      "onboard_time": 1740751043,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 109155,
       "num": 109155,
       "word": "单依纯薛之谦合唱",
@@ -273,6 +273,14 @@
       "onboard_time": 1740755240,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 104792,
+      "num": 104792,
+      "word": "张若昀系领带这一下",
+      "onboard_time": 1740760157,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 103160,
@@ -379,6 +387,22 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 67913,
+      "num": 67913,
+      "word": "赵丽颖杨幂迪丽热巴杨紫2024商业价值明星",
+      "onboard_time": 1740738439,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 64649,
+      "num": 238989,
+      "word": "文在寅最新涉华表态",
+      "onboard_time": 1740760757,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 27972,
       "num": 84525,
       "word": "2025CBA全明星周末",
@@ -387,25 +411,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 22670,
-      "num": 236713,
-      "word": "证监会通报东方集团财务造假案调查进展",
-      "onboard_time": 1740759918,
-      "rank": 23,
-      "category": "国内时政,财经"
-    },
-    {
-      "raw_hot": 15151,
+      "raw_hot": 27689,
       "num": 248040,
       "word": "于正会竭尽全力拍好之后的每一部剧",
       "onboard_time": 1740759918,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25895,
+      "num": 236713,
+      "word": "证监会通报东方集团财务造假案调查进展",
+      "onboard_time": 1740759918,
+      "rank": 23,
+      "category": "国内时政,财经"
     }
   ],
   "hotgov_list": [
     {
       "word": "#中共中央政治局召开会议#"
+    },
+    {
+      "word": "#习近平会见俄罗斯联邦安全会议秘书绍伊古#"
     }
   ]
 }
