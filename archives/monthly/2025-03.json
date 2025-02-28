@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740784905591,
+  "endTime": 1740785749373,
   "band_list": [
     {
       "raw_hot": 2475221,
@@ -43,20 +43,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 579514,
-      "num": 173259,
-      "word": "50岁大叔每天吃两斤花生瓜子胸部变大",
-      "onboard_time": 1740761355,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 571735,
-      "num": 792883,
+      "raw_hot": 624140,
+      "num": 902379,
       "word": "吒儿龙抬头这天冲上全球第七",
       "onboard_time": 1740762256,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 584549,
+      "num": 584549,
+      "word": "美乌总统会晤多次发生争执",
+      "onboard_time": 1740783793,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 579514,
+      "num": 225981,
+      "word": "50岁大叔每天吃两斤花生瓜子胸部变大",
+      "onboard_time": 1740761355,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 554654,
@@ -99,14 +107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 422790,
-      "num": 422790,
-      "word": "美乌总统会晤多次发生争执",
-      "onboard_time": 1740783793,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 384578,
       "num": 384578,
       "word": "李宁 王楚钦",
@@ -139,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 276546,
+      "num": 221614,
+      "word": "特朗普称泽连斯基28日早抵美",
+      "onboard_time": 1740767773,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 276062,
       "num": 276062,
       "word": "杀害河南女法官男子已被执行死刑",
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 263916,
-      "num": 201720,
+      "num": 244273,
       "word": "刘畊宏谈流量下降",
       "onboard_time": 1740779591,
       "rank": 14,
@@ -187,6 +195,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 245924,
+      "num": 245924,
+      "word": "央视用9年跟拍一群长跑少年",
+      "onboard_time": 1740781032,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 244762,
+      "num": 244762,
+      "word": "姐妹俩患不食人间烟火罕见病",
+      "onboard_time": 1740747858,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 243849,
       "num": 243849,
       "word": "三月最幸运星座",
@@ -203,6 +227,30 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 233785,
+      "num": 233785,
+      "word": "七星连珠 穿越时空的爱恋",
+      "onboard_time": 1740772930,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 227310,
+      "num": 227310,
+      "word": "美国记者第一次见白宫里吵架",
+      "onboard_time": 1740785175,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 217506,
+      "num": 141143,
+      "word": "蒋欣自曝体重112斤",
+      "onboard_time": 1740784334,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215865,
       "num": 249322,
       "word": "杨紫上身25春夏最新季高定",
@@ -211,12 +259,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 215656,
-      "num": 165078,
-      "word": "特朗普称泽连斯基28日早抵美",
-      "onboard_time": 1740767773,
-      "rank": 29,
-      "category": "国际时政"
+      "raw_hot": 214222,
+      "num": 214222,
+      "word": "二月二",
+      "onboard_time": 1740785056,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 214049,
@@ -225,30 +273,6 @@
       "onboard_time": 1740707118,
       "rank": 25,
       "category": "财经"
-    },
-    {
-      "raw_hot": 207978,
-      "num": 201110,
-      "word": "七星连珠 穿越时空的爱恋",
-      "onboard_time": 1740772930,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 202285,
-      "num": 202285,
-      "word": "姐妹俩患不食人间烟火罕见病",
-      "onboard_time": 1740747858,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 200272,
-      "num": 200272,
-      "word": "央视用9年跟拍一群长跑少年",
-      "onboard_time": 1740781032,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 183147,
@@ -275,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156610,
+      "num": 156610,
+      "word": "邓超说拍个视频发给热巴",
+      "onboard_time": 1740785296,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155614,
       "num": 155614,
       "word": "李晨Angelababy友谊",
@@ -299,12 +331,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151605,
-      "num": 93905,
-      "word": "蒋欣自曝体重112斤",
-      "onboard_time": 1740784334,
-      "rank": 20,
-      "category": "艺人"
+      "raw_hot": 140482,
+      "num": 140482,
+      "word": "治理高额彩礼有决心有办法",
+      "onboard_time": 1740778511,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 134932,
@@ -313,6 +345,14 @@
       "onboard_time": 1740749720,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 130572,
+      "num": 145737,
+      "word": "文化中国行打卡龙抬头",
+      "onboard_time": 1740785056,
+      "rank": 16,
+      "category": "正能量"
     },
     {
       "raw_hot": 125739,
@@ -339,20 +379,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 116787,
-      "num": 116787,
-      "word": "治理高额彩礼有决心有办法",
-      "onboard_time": 1740778511,
+      "raw_hot": 117925,
+      "num": 117925,
+      "word": "多名环卫工对着公厕跪拜",
+      "onboard_time": 1740774131,
       "rank": 49,
-      "category": "国内时政"
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 110274,
-      "num": 93449,
+      "raw_hot": 117765,
+      "num": 117765,
       "word": "女子手麻跑错3科室靠DeepSeek找对医生",
       "onboard_time": 1740780613,
       "rank": 44,
       "category": "健康医疗,互联网"
+    },
+    {
+      "raw_hot": 113886,
+      "num": 113886,
+      "word": "三月第1天龙抬头",
+      "onboard_time": 1740784274,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109155,
@@ -379,11 +427,11 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 105322,
-      "num": 105322,
-      "word": "多名环卫工对着公厕跪拜",
-      "onboard_time": 1740774131,
-      "rank": 49,
+      "raw_hot": 105687,
+      "num": 105687,
+      "word": "二月二有三个风俗",
+      "onboard_time": 1740785175,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -396,7 +444,7 @@
     },
     {
       "raw_hot": 103706,
-      "num": 103706,
+      "num": 105725,
       "word": "王鹤棣颁奖现场尖叫声",
       "onboard_time": 1740761416,
       "rank": 31,
@@ -417,6 +465,14 @@
       "onboard_time": 1740746118,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95992,
+      "num": 95992,
+      "word": "二月二你会和理发师过招吗",
+      "onboard_time": 1740763575,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94799,
@@ -531,14 +587,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 72094,
-      "num": 72094,
-      "word": "二月二你会和理发师过招吗",
-      "onboard_time": 1740763575,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 69745,
       "num": 69745,
       "word": "谁懂斗罗斗破在国漫的含金量",
@@ -563,12 +611,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62288,
+      "num": 62288,
+      "word": "王一博抱过的小甲长大啦",
+      "onboard_time": 1740785355,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 62112,
       "num": 62112,
       "word": "3月第一个好消息是吒儿给的",
       "onboard_time": 1740769512,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 57802,
+      "num": 62126,
+      "word": "美乌未签矿产协议",
+      "onboard_time": 1740785535,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 56765,
@@ -587,6 +651,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 51268,
+      "num": 120950,
+      "word": "知名电影人宋歌被判刑",
+      "onboard_time": 1740748218,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 49991,
       "num": 54479,
       "word": "英国首相称必须赢得乌克兰和平",
@@ -595,28 +667,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 47746,
-      "num": 120950,
-      "word": "知名电影人宋歌被判刑",
-      "onboard_time": 1740748218,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 45086,
       "num": 45086,
       "word": "七星连珠穿越文",
       "onboard_time": 1740764114,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 44714,
-      "num": 54636,
-      "word": "三月第1天龙抬头",
-      "onboard_time": 1740784274,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 43940,
@@ -672,6 +728,14 @@
       "word": "2025CBA全明星周末",
       "onboard_time": 1740758719,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 27945,
+      "num": 116535,
+      "word": "樊振东将出席启德体育园开幕典礼",
+      "onboard_time": 1740785296,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -785,6 +849,14 @@
       "onboard_time": 1740767113,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 6085,
+      "num": 62161,
+      "word": "林允回应造型争议",
+      "onboard_time": 1740785715,
+      "rank": 40,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
