@@ -1,6 +1,6 @@
 {
   "startTime": 1740673831596,
-  "endTime": 1740756308377,
+  "endTime": 1740757155964,
   "band_list": [
     {
       "raw_hot": 8399964,
@@ -243,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 848382,
+      "num": 848382,
+      "word": "死刑犯行刑前见亲属不得交流案情",
+      "onboard_time": 1740752182,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 835344,
       "num": 835344,
       "word": "花少七阵容",
@@ -267,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 791198,
+      "num": 447391,
+      "word": "小盐巴手机壳",
+      "onboard_time": 1740748640,
+      "rank": 37,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 779610,
       "num": 779610,
       "word": "美公布爱泼斯坦案文件百页被涂黑",
@@ -289,14 +305,6 @@
       "onboard_time": 1740702860,
       "rank": 8,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 703350,
-      "num": 412651,
-      "word": "小盐巴手机壳",
-      "onboard_time": 1740748640,
-      "rank": 37,
-      "category": "时尚"
     },
     {
       "raw_hot": 679114,
@@ -579,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 486022,
+      "num": 486022,
+      "word": "李宁 王楚钦",
+      "onboard_time": 1740754819,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 484933,
       "num": 235245,
       "word": "sk卡卡",
@@ -681,14 +697,6 @@
       "onboard_time": 1740738439,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 435059,
-      "num": 435059,
-      "word": "死刑犯行刑前见亲属不得交流案情",
-      "onboard_time": 1740752182,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 429426,
@@ -803,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 352995,
+      "num": 354586,
+      "word": "杀害河南女法官男子已被执行死刑",
+      "onboard_time": 1740754643,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 350579,
       "num": 350579,
       "word": "前TVB甜妹唐宁回应满头白发",
@@ -843,14 +859,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 331808,
-      "num": 331808,
-      "word": "李宁 王楚钦",
-      "onboard_time": 1740754819,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 330445,
       "num": 310261,
       "word": "于正说把赵露思当自己家小孩",
@@ -859,20 +867,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 329860,
-      "num": 354586,
-      "word": "杀害河南女法官男子已被执行死刑",
-      "onboard_time": 1740754643,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 329030,
       "num": 329030,
       "word": "雷军夸保时捷",
       "onboard_time": 1740660319,
       "rank": 7,
       "category": "汽车,互联网"
+    },
+    {
+      "raw_hot": 326416,
+      "num": 312675,
+      "word": "三月最幸运星座",
+      "onboard_time": 1740754221,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 326284,
@@ -929,14 +937,6 @@
       "onboard_time": 1740736579,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 312675,
-      "num": 312675,
-      "word": "三月最幸运星座",
-      "onboard_time": 1740754221,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 312577,
@@ -1065,6 +1065,14 @@
       "onboard_time": 1740712397,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 259123,
+      "num": 259123,
+      "word": "AG对战KLG",
+      "onboard_time": 1740746839,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 256811,
@@ -1283,6 +1291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 232487,
+      "num": 351664,
+      "word": "以为身体好实则是疾病的表现",
+      "onboard_time": 1740755240,
+      "rank": 14,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 231358,
       "num": 337244,
       "word": "带货博主虚假助农敛财440多万",
@@ -1296,6 +1312,14 @@
       "word": "港星黄百鸣涉内幕交易被证监会检控",
       "onboard_time": 1740710179,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 227999,
+      "num": 314494,
+      "word": "林允直播卸妆化妆",
+      "onboard_time": 1740755960,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -1555,14 +1579,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 194087,
-      "num": 351664,
-      "word": "以为身体好实则是疾病的表现",
-      "onboard_time": 1740755240,
-      "rank": 14,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 192884,
       "num": 194135,
       "word": "cos饺子导演的第一次见",
@@ -1675,6 +1691,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 185058,
+      "num": 185058,
+      "word": "七星连珠许愿点名双子射手双鱼",
+      "onboard_time": 1740754941,
+      "rank": 27,
+      "category": "民生新闻,情感"
+    },
+    {
       "raw_hot": 184628,
       "num": 184628,
       "word": "魔兽世界",
@@ -1705,6 +1729,14 @@
       "onboard_time": 1740720141,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184150,
+      "num": 184150,
+      "word": "单依纯薛之谦合唱",
+      "onboard_time": 1740756559,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 183223,
@@ -1755,6 +1787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180802,
+      "num": 180802,
+      "word": "于正发了晴川",
+      "onboard_time": 1740756679,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180606,
       "num": 180606,
       "word": "今年的夏装已经提前上班了",
@@ -1777,14 +1817,6 @@
       "onboard_time": 1740724759,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 179019,
-      "num": 179019,
-      "word": "七星连珠许愿点名双子射手双鱼",
-      "onboard_time": 1740754941,
-      "rank": 27,
-      "category": "民生新闻,情感"
     },
     {
       "raw_hot": 178896,
@@ -1843,6 +1875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 175513,
+      "num": 175513,
+      "word": "迪丽热巴开推发布会黑长直造型",
+      "onboard_time": 1740754580,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175333,
       "num": 175333,
       "word": "董力想公开阿诺说再等等",
@@ -1857,14 +1897,6 @@
       "onboard_time": 1740731658,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 174732,
-      "num": 174732,
-      "word": "迪丽热巴开推发布会黑长直造型",
-      "onboard_time": 1740754580,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 172743,
@@ -2467,14 +2499,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 140399,
-      "num": 140399,
-      "word": "AG对战KLG",
-      "onboard_time": 1740746839,
-      "rank": 42,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 140303,
       "num": 140303,
       "word": "于适 路漫漫其修远兮",
@@ -2931,6 +2955,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 109507,
+      "num": 109507,
+      "word": "爱你第九集好甜",
+      "onboard_time": 1740757100,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108992,
       "num": 108992,
       "word": "我国古代已人手中国结",
@@ -3323,14 +3355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 68070,
-      "num": 314494,
-      "word": "林允直播卸妆化妆",
-      "onboard_time": 1740755960,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 66752,
       "num": 111302,
       "word": "张凌赫不语只是一味换ootd",
@@ -3385,6 +3409,14 @@
       "onboard_time": 1740728959,
       "rank": 36,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 60788,
+      "num": 180568,
+      "word": "律师谈男子坐飞机被废弃针头扎出血",
+      "onboard_time": 1740755840,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60724,
@@ -3675,14 +3707,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 30547,
-      "num": 175625,
-      "word": "律师谈男子坐飞机被废弃针头扎出血",
-      "onboard_time": 1740755840,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 28934,
       "num": 143499,
       "word": "纳指重挫530点",
@@ -3729,6 +3753,22 @@
       "onboard_time": 1740679153,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25347,
+      "num": 134474,
+      "word": "周也3月有巴黎时装周行程",
+      "onboard_time": 1740757100,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 24116,
+      "num": 229926,
+      "word": "媒体评余华英被执行死刑大快人心",
+      "onboard_time": 1740756379,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24047,
