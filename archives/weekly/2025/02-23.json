@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740724319495,
+  "endTime": 1740725098428,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -867,6 +867,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 1220134,
+      "num": 1220134,
+      "word": "余华英执行死刑前会见了近亲属",
+      "onboard_time": 1740719300,
+      "rank": 15,
+      "category": "民生新闻,读书作家"
+    },
+    {
       "raw_hot": 1209091,
       "num": 1209091,
       "word": "李威由被告转为污点证人",
@@ -1105,14 +1113,6 @@
       "onboard_time": 1740557419,
       "rank": 35,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 1077977,
-      "num": 1077977,
-      "word": "余华英执行死刑前会见了近亲属",
-      "onboard_time": 1740719300,
-      "rank": 15,
-      "category": "民生新闻,读书作家"
     },
     {
       "raw_hot": 1068426,
@@ -1859,6 +1859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 786750,
+      "num": 786750,
+      "word": "花少七阵容",
+      "onboard_time": 1740721459,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 785518,
       "num": 785518,
       "word": "小猪佩奇猪妈妈怀三胎",
@@ -2065,14 +2073,6 @@
       "onboard_time": 1740702860,
       "rank": 8,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 733533,
-      "num": 733533,
-      "word": "花少七阵容",
-      "onboard_time": 1740721459,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 728572,
@@ -3963,6 +3963,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 452540,
+      "num": 452540,
+      "word": "A股",
+      "onboard_time": 1740363800,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 452389,
       "num": 452389,
       "word": "黑长直惠利欧尼",
@@ -4425,6 +4433,14 @@
       "onboard_time": 1740351855,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 394650,
+      "num": 394650,
+      "word": "DeepSeek去AI痕迹真的很牛",
+      "onboard_time": 1740723258,
+      "rank": 17,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 394034,
@@ -5131,6 +5147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 323926,
+      "num": 323926,
+      "word": "甜馨说我咋可能整容",
+      "onboard_time": 1740721040,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 322461,
       "num": 322461,
       "word": "小楼",
@@ -5177,14 +5201,6 @@
       "onboard_time": 1740659299,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 320546,
-      "num": 405629,
-      "word": "A股",
-      "onboard_time": 1740363800,
-      "rank": 24,
-      "category": "财经"
     },
     {
       "raw_hot": 320356,
@@ -5563,14 +5579,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 294835,
-      "num": 294835,
-      "word": "DeepSeek去AI痕迹真的很牛",
-      "onboard_time": 1740723258,
-      "rank": 17,
-      "category": "互联网,数码"
-    },
-    {
       "raw_hot": 293146,
       "num": 293146,
       "word": "宁艺卓美宝莲",
@@ -5585,14 +5593,6 @@
       "onboard_time": 1740386123,
       "rank": 32,
       "category": "教育"
-    },
-    {
-      "raw_hot": 293072,
-      "num": 293072,
-      "word": "甜馨说我咋可能整容",
-      "onboard_time": 1740721040,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 292799,
@@ -5971,20 +5971,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 274223,
+      "num": 274223,
+      "word": "复旦博士建议学生慎选人工智能等专业",
+      "onboard_time": 1740722778,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 274152,
       "num": 274152,
       "word": "章若楠新剧真梦游vs假梦游",
       "onboard_time": 1740295400,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 273905,
-      "num": 180664,
-      "word": "复旦博士建议学生慎选人工智能等专业",
-      "onboard_time": 1740722778,
-      "rank": 32,
-      "category": "教育"
     },
     {
       "raw_hot": 272777,
@@ -6283,6 +6283,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 256811,
+      "num": 256811,
+      "word": "杨蓉央视严选",
+      "onboard_time": 1740724098,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 256393,
+      "num": 191045,
+      "word": "中共中央政治局召开会议讨论政府工作报告",
+      "onboard_time": 1740723798,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 256268,
       "num": 256268,
       "word": "马克龙直接上手拦住特朗普发言",
@@ -6417,6 +6433,14 @@
       "onboard_time": 1740711198,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 248534,
+      "num": 236620,
+      "word": "胡静老公提前给自己办葬礼",
+      "onboard_time": 1740723199,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 248380,
@@ -6588,7 +6612,7 @@
     },
     {
       "raw_hot": 242888,
-      "num": 183650,
+      "num": 237274,
       "word": "2024微博涨粉量TOP20明星",
       "onboard_time": 1740722179,
       "rank": 30,
@@ -6849,14 +6873,6 @@
       "onboard_time": 1740314960,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 235053,
-      "num": 182103,
-      "word": "胡静老公提前给自己办葬礼",
-      "onboard_time": 1740723199,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 235010,
@@ -7859,14 +7875,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 207283,
-      "num": 207283,
-      "word": "杨蓉央视严选",
-      "onboard_time": 1740724098,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 206981,
       "num": 206981,
       "word": "爱你热度",
@@ -8795,14 +8803,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 191045,
-      "num": 191045,
-      "word": "中共中央政治局召开会议讨论政府工作报告",
-      "onboard_time": 1740723798,
-      "rank": 24,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 190911,
       "num": 190911,
       "word": "桑延温以凡开始甜了",
@@ -9595,6 +9595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 179228,
+      "num": 171536,
+      "word": "古偶终于有不拘小情的女性互助",
+      "onboard_time": 1740724759,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179106,
       "num": 167232,
       "word": "十个勤天演唱会",
@@ -10219,6 +10227,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 169215,
+      "num": 169215,
+      "word": "山姆分姆包围县城",
+      "onboard_time": 1740721879,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169076,
       "num": 276843,
       "word": "加大力度处置违法违规MCN机构账号",
@@ -10392,14 +10408,6 @@
       "word": "体检无异常1年半后确诊癌症晚期",
       "onboard_time": 1740215421,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 166967,
-      "num": 166967,
-      "word": "山姆分姆包围县城",
-      "onboard_time": 1740721879,
-      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -11211,6 +11219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157514,
+      "num": 157514,
+      "word": "杨子被谁夺舍了",
+      "onboard_time": 1740724338,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157496,
       "num": 191645,
       "word": "这Ending pose不愧是男团出道的",
@@ -11281,6 +11297,14 @@
       "onboard_time": 1740716899,
       "rank": 46,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 156324,
+      "num": 161227,
+      "word": "2024年商业价值最高的10位明星",
+      "onboard_time": 1740724639,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 155685,
@@ -12019,6 +12043,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 146550,
+      "num": 146550,
+      "word": "成毅鞠婧祎领衔热议角色",
+      "onboard_time": 1740724460,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146487,
       "num": 297082,
       "word": "国务院安委会挂牌督办湖南撞船事故",
@@ -12489,6 +12521,14 @@
       "onboard_time": 1740286939,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137979,
+      "num": 137979,
+      "word": "BLG",
+      "onboard_time": 1740721640,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 137931,
@@ -13107,6 +13147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128000,
+      "num": 128000,
+      "word": "桃花坞",
+      "onboard_time": 1740724998,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127956,
       "num": 185784,
       "word": "王楚钦赵心童合照",
@@ -13395,6 +13443,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 123615,
+      "num": 123615,
+      "word": "单依纯淡淡的疯感",
+      "onboard_time": 1740725058,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123269,
       "num": 432699,
       "word": "美乌最终协议是美方让步了吗",
@@ -13593,6 +13649,14 @@
       "onboard_time": 1740635179,
       "rank": 48,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 119476,
+      "num": 233231,
+      "word": "WTT奥运冠军金卡新规4月实施",
+      "onboard_time": 1740724698,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 119474,
@@ -14283,6 +14347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105937,
+      "num": 441420,
+      "word": "当地回应男子扶摔倒老人反被诬陷",
+      "onboard_time": 1740723499,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105429,
       "num": 105429,
       "word": "歼10与月亮同框上演硬核浪漫",
@@ -14804,7 +14876,7 @@
     },
     {
       "raw_hot": 90844,
-      "num": 190217,
+      "num": 230338,
       "word": "中国汽车格局打开",
       "onboard_time": 1740722239,
       "rank": 25,
@@ -15835,6 +15907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64824,
+      "num": 235085,
+      "word": "DeepSeek分析金价为何大跳水",
+      "onboard_time": 1740724818,
+      "rank": 23,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 64732,
       "num": 1107644,
       "word": "2025春运多项数据创历史新高",
@@ -16363,6 +16443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 53303,
+      "num": 329843,
+      "word": "江苏卫健委回应女子怀孕被当妇科病",
+      "onboard_time": 1740724818,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53276,
       "num": 379211,
       "word": "AI虽有大用看病还得靠医生",
@@ -16776,14 +16864,6 @@
       "word": "男子花13500修漏水越修越漏",
       "onboard_time": 1740390920,
       "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44409,
-      "num": 441420,
-      "word": "当地回应男子扶摔倒老人反被诬陷",
-      "onboard_time": 1740723499,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
