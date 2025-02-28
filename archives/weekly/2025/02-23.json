@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740757155964,
+  "endTime": 1740760172219,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -465,6 +465,14 @@
       "onboard_time": 1740444319,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1655171,
+      "num": 1655171,
+      "word": "这周放5天",
+      "onboard_time": 1740758299,
+      "rank": 0,
+      "category": "幽默"
     },
     {
       "raw_hot": 1653389,
@@ -2081,6 +2089,14 @@
       "onboard_time": 1740552499,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 761732,
+      "num": 367836,
+      "word": "七星连珠许愿点名双子射手双鱼",
+      "onboard_time": 1740754941,
+      "rank": 27,
+      "category": "民生新闻,情感"
     },
     {
       "raw_hot": 759476,
@@ -3843,6 +3859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 487586,
+      "num": 487586,
+      "word": "湖南水上交通事故已致11人遇难",
+      "onboard_time": 1740756199,
+      "rank": 4,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 486833,
       "num": 486833,
       "word": "迪丽热巴轻轻一夹把我吊成翘嘴",
@@ -4177,6 +4201,14 @@
       "onboard_time": 1740737900,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 460779,
+      "num": 460779,
+      "word": "张艺兴说成员们都年过半六十",
+      "onboard_time": 1740758238,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 460322,
@@ -5049,6 +5081,14 @@
       "onboard_time": 1740313943,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 364431,
+      "num": 364431,
+      "word": "林允直播卸妆化妆",
+      "onboard_time": 1740755960,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 363289,
@@ -6883,6 +6923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 250810,
+      "num": 250810,
+      "word": "碧游村还是别欢迎我了",
+      "onboard_time": 1740758479,
+      "rank": 18,
+      "category": "综艺,动漫"
+    },
+    {
       "raw_hot": 250496,
       "num": 250496,
       "word": "王曼昱使用樊A",
@@ -6953,6 +7001,14 @@
       "onboard_time": 1740289520,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 247877,
+      "num": 247877,
+      "word": "于正发了晴川",
+      "onboard_time": 1740756679,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 247843,
@@ -7665,14 +7721,6 @@
       "onboard_time": 1740460462,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 227999,
-      "num": 314494,
-      "word": "林允直播卸妆化妆",
-      "onboard_time": 1740755960,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 227852,
@@ -9963,14 +10011,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185058,
-      "num": 185058,
-      "word": "七星连珠许愿点名双子射手双鱼",
-      "onboard_time": 1740754941,
-      "rank": 27,
-      "category": "民生新闻,情感"
-    },
-    {
       "raw_hot": 185043,
       "num": 185043,
       "word": "田曦薇让王鹤棣替临安公主吃好喝好",
@@ -10289,14 +10329,6 @@
       "onboard_time": 1740665960,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 180802,
-      "num": 180802,
-      "word": "于正发了晴川",
-      "onboard_time": 1740756679,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 180798,
@@ -11988,7 +12020,7 @@
     },
     {
       "raw_hot": 160345,
-      "num": 160345,
+      "num": 370302,
       "word": "你应该退税还是补税",
       "onboard_time": 1740751043,
       "rank": 39,
@@ -16979,6 +17011,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 76250,
+      "num": 94454,
+      "word": "于适说会一直向前跑不回头",
+      "onboard_time": 1740758719,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 76189,
       "num": 245673,
       "word": "KPL选手曝被战队拖欠工资",
@@ -17009,6 +17049,14 @@
       "onboard_time": 1740404481,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 74743,
+      "num": 82445,
+      "word": "湖南怀化水上交通事故已致9人遇难",
+      "onboard_time": 1740758299,
+      "rank": 48,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 74488,
@@ -19203,6 +19251,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 27972,
+      "num": 84525,
+      "word": "2025CBA全明星周末",
+      "onboard_time": 1740758719,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 27932,
       "num": 215149,
       "word": "广东一外出打工男子被控隔空绑架",
@@ -19617,6 +19673,14 @@
       "onboard_time": 1740242358,
       "rank": 36,
       "category": "民生新闻,科学科普"
+    },
+    {
+      "raw_hot": 22670,
+      "num": 236713,
+      "word": "证监会通报东方集团财务造假案调查进展",
+      "onboard_time": 1740759918,
+      "rank": 23,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 22618,
@@ -20128,6 +20192,14 @@
       "word": "徐若晗生日直播",
       "onboard_time": 1740624078,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 15151,
+      "num": 248040,
+      "word": "于正会竭尽全力拍好之后的每一部剧",
+      "onboard_time": 1740759918,
+      "rank": 20,
       "category": "艺人"
     },
     {
