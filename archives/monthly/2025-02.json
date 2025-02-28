@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740708177092,
+  "endTime": 1740711436855,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -849,6 +849,14 @@
       "onboard_time": 1740114501,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2810111,
+      "num": 2810111,
+      "word": "金价大跳水了",
+      "onboard_time": 1740707118,
+      "rank": 5,
+      "category": "财经"
     },
     {
       "raw_hot": 2799685,
@@ -4067,6 +4075,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1336179,
+      "num": 410317,
+      "word": "Angelababy36岁生日照",
+      "onboard_time": 1740708019,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1334865,
       "num": 269177,
       "word": "吴川三中",
@@ -7115,6 +7131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 948545,
+      "num": 384905,
+      "word": "于正说娜扎Angelababy是漂亮天花板",
+      "onboard_time": 1740709398,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 947527,
       "num": 947527,
       "word": "邹家华逝世",
@@ -9747,6 +9771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 747950,
+      "num": 747950,
+      "word": "刘畊宏较巅峰时期掉粉854万",
+      "onboard_time": 1740707058,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 747824,
       "num": 249849,
       "word": "蔡徐坤 穆格勒",
@@ -10153,14 +10185,6 @@
       "onboard_time": 1739101342,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 723303,
-      "num": 772501,
-      "word": "金价大跳水了",
-      "onboard_time": 1740707118,
-      "rank": 5,
-      "category": "财经"
     },
     {
       "raw_hot": 722428,
@@ -17027,6 +17051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 476883,
+      "num": 409647,
+      "word": "老伴去世4个月大爷每天去墓前看望",
+      "onboard_time": 1740705379,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 476734,
       "num": 360008,
       "word": "张馨予 求教程",
@@ -18249,6 +18281,14 @@
       "onboard_time": 1739981420,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 448115,
+      "num": 448115,
+      "word": "金价为何大跳水",
+      "onboard_time": 1740707058,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 447900,
@@ -19667,20 +19707,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 411114,
+      "num": 411114,
+      "word": "库里56分",
+      "onboard_time": 1740710719,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 411102,
       "num": 394647,
       "word": "男子酒后点燃礼花弹被炸当场身亡",
       "onboard_time": 1739331921,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 411065,
-      "num": 411065,
-      "word": "刘畊宏较巅峰时期掉粉854万",
-      "onboard_time": 1740707058,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 410820,
@@ -19841,6 +19881,14 @@
       "onboard_time": 1739179221,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 406531,
+      "num": 406531,
+      "word": "库里逆天压哨后场三分",
+      "onboard_time": 1740709098,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 406406,
@@ -21875,14 +21923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 366251,
-      "num": 366251,
-      "word": "老伴去世4个月大爷每天去墓前看望",
-      "onboard_time": 1740705379,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 365877,
       "num": 365877,
       "word": "梅婷回复沈月",
@@ -22041,6 +22081,14 @@
       "onboard_time": 1738713978,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 362606,
+      "num": 362606,
+      "word": "偶遇林志炫在拙政园当导游",
+      "onboard_time": 1740707958,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 362563,
@@ -25059,14 +25107,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 314141,
-      "num": 314141,
-      "word": "金价为何大跳水",
-      "onboard_time": 1740707058,
-      "rank": 47,
-      "category": "财经"
-    },
-    {
       "raw_hot": 313897,
       "num": 313751,
       "word": "乌尔善谈殷郊三头六臂形象灵感",
@@ -27955,6 +27995,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 278480,
+      "num": 267146,
+      "word": "房东感慨房子靠自己难出租",
+      "onboard_time": 1740709219,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 278455,
       "num": 278455,
       "word": "台媒称看李现的剧想去云南定居",
@@ -28937,6 +28985,14 @@
       "onboard_time": 1739011883,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 267005,
+      "num": 267005,
+      "word": "小米股价",
+      "onboard_time": 1740708977,
+      "rank": 22,
+      "category": "互联网"
     },
     {
       "raw_hot": 266997,
@@ -33395,6 +33451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 229457,
+      "num": 229457,
+      "word": "我是湖南大学生我不同意双休",
+      "onboard_time": 1740711198,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 229363,
       "num": 229363,
       "word": "戚薇李承铉到底有多少情侣装",
@@ -35016,14 +35080,6 @@
       "word": "方时赫减肥前后对比照",
       "onboard_time": 1740069018,
       "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 220039,
-      "num": 220039,
-      "word": "偶遇林志炫在拙政园当导游",
-      "onboard_time": 1740707958,
-      "rank": 28,
       "category": "艺人"
     },
     {
@@ -37467,14 +37523,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 207942,
-      "num": 207942,
-      "word": "Angelababy36岁生日照",
-      "onboard_time": 1740708019,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 207929,
       "num": 207929,
       "word": "男子买金条5天就赚了2万多",
@@ -39281,6 +39329,14 @@
       "onboard_time": 1739235801,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201398,
+      "num": 201398,
+      "word": "CT 蔡徐坤",
+      "onboard_time": 1740710837,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 201311,
@@ -46075,6 +46131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178896,
+      "num": 267381,
+      "word": "绵柔巾不是棉柔巾",
+      "onboard_time": 1740708318,
+      "rank": 19,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 178889,
       "num": 178889,
       "word": "云边有个红房子",
@@ -49081,6 +49145,14 @@
       "onboard_time": 1739112504,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 167666,
+      "num": 184779,
+      "word": "韩国小学生的最爱爱豆投票结果",
+      "onboard_time": 1740710657,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 167611,
@@ -53787,6 +53859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 152445,
+      "num": 184627,
+      "word": "开春第一部暖心年代剧来了",
+      "onboard_time": 1740709999,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152440,
       "num": 299715,
       "word": "林孝埈拿过短道所有单项金牌",
@@ -53939,6 +54019,14 @@
       "category": "民生新闻,电影"
     },
     {
+      "raw_hot": 151978,
+      "num": 151978,
+      "word": "小米转跌",
+      "onboard_time": 1740710598,
+      "rank": 34,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 151947,
       "num": 371924,
       "word": "法国小伙所捐部分照片甚至带着血迹",
@@ -53993,6 +54081,14 @@
       "onboard_time": 1739587520,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151871,
+      "num": 151871,
+      "word": "港星黄百鸣涉内幕交易被证监会检控",
+      "onboard_time": 1740710179,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 151845,
@@ -58947,6 +59043,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 135239,
+      "num": 135239,
+      "word": "梁洁也走不出白色橄榄树",
+      "onboard_time": 1740711138,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135184,
       "num": 135184,
       "word": "王楚钦说第一场男双赢了最重要",
@@ -61443,6 +61547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126278,
+      "num": 126278,
+      "word": "一顺风车司机被曝载客时放不雅视频",
+      "onboard_time": 1740711018,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126264,
       "num": 100772,
       "word": "刘昊然嘴在前面飞脑子在后面追",
@@ -63185,6 +63297,14 @@
       "onboard_time": 1739250560,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119338,
+      "num": 119338,
+      "word": "肖战米兰大衣造型",
+      "onboard_time": 1740709158,
+      "rank": 45,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 119284,
@@ -66065,6 +66185,14 @@
       "onboard_time": 1738631001,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107302,
+      "num": 107302,
+      "word": "小米汽车概念爆发",
+      "onboard_time": 1740711377,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 107272,

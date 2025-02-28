@@ -1,7 +1,15 @@
 {
   "startTime": 1740673831596,
-  "endTime": 1740708177092,
+  "endTime": 1740711436855,
   "band_list": [
+    {
+      "raw_hot": 2810111,
+      "num": 2810111,
+      "word": "金价大跳水了",
+      "onboard_time": 1740707118,
+      "rank": 5,
+      "category": "财经"
+    },
     {
       "raw_hot": 1564084,
       "num": 1564084,
@@ -27,11 +35,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1336179,
+      "num": 410317,
+      "word": "Angelababy36岁生日照",
+      "onboard_time": 1740708019,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 974787,
       "num": 861562,
       "word": "无忧传媒称与刘畊宏变为商务合作",
       "onboard_time": 1740703459,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 948545,
+      "num": 384905,
+      "word": "于正说娜扎Angelababy是漂亮天花板",
+      "onboard_time": 1740709398,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -51,20 +75,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 747950,
+      "num": 747950,
+      "word": "刘畊宏较巅峰时期掉粉854万",
+      "onboard_time": 1740707058,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 734643,
       "num": 734643,
       "word": "Bin说因为bug输掉比赛",
       "onboard_time": 1740702860,
       "rank": 8,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 723303,
-      "num": 772501,
-      "word": "金价大跳水了",
-      "onboard_time": 1740707118,
-      "rank": 5,
-      "category": "财经"
     },
     {
       "raw_hot": 663962,
@@ -147,6 +171,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 476883,
+      "num": 409647,
+      "word": "老伴去世4个月大爷每天去墓前看望",
+      "onboard_time": 1740705379,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 464981,
       "num": 464981,
       "word": "中国人研究月球土特产最新成果",
@@ -163,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 448115,
+      "num": 448115,
+      "word": "金价为何大跳水",
+      "onboard_time": 1740707058,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 416597,
       "num": 416597,
       "word": "麻花特开心2 沈腾马丽",
@@ -171,12 +211,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 411065,
-      "num": 411065,
-      "word": "刘畊宏较巅峰时期掉粉854万",
-      "onboard_time": 1740707058,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 411114,
+      "num": 411114,
+      "word": "库里56分",
+      "onboard_time": 1740710719,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 406531,
+      "num": 406531,
+      "word": "库里逆天压哨后场三分",
+      "onboard_time": 1740709098,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 399735,
@@ -195,12 +243,12 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 366251,
-      "num": 366251,
-      "word": "老伴去世4个月大爷每天去墓前看望",
-      "onboard_time": 1740705379,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 362606,
+      "num": 362606,
+      "word": "偶遇林志炫在拙政园当导游",
+      "onboard_time": 1740707958,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 353023,
@@ -217,6 +265,14 @@
       "onboard_time": 1740668479,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 347088,
+      "num": 347088,
+      "word": "嘘国王在冬眠",
+      "onboard_time": 1740709578,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 337480,
@@ -251,12 +307,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 314141,
-      "num": 314141,
-      "word": "金价为何大跳水",
-      "onboard_time": 1740707058,
-      "rank": 47,
-      "category": "财经"
+      "raw_hot": 278480,
+      "num": 267146,
+      "word": "房东感慨房子靠自己难出租",
+      "onboard_time": 1740709219,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 272687,
@@ -265,6 +321,14 @@
       "onboard_time": 1740673576,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 267005,
+      "num": 267005,
+      "word": "小米股价",
+      "onboard_time": 1740708977,
+      "rank": 22,
+      "category": "互联网"
     },
     {
       "raw_hot": 247286,
@@ -323,6 +387,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 229457,
+      "num": 229457,
+      "word": "我是湖南大学生我不同意双休",
+      "onboard_time": 1740711198,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 227582,
       "num": 181512,
       "word": "偶遇靳东以为是公司领导",
@@ -347,14 +419,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 220039,
-      "num": 220039,
-      "word": "偶遇林志炫在拙政园当导游",
-      "onboard_time": 1740707958,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 215502,
       "num": 215502,
       "word": "女子嫌金价太高在家自制金戒指",
@@ -371,20 +435,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 207942,
-      "num": 207942,
-      "word": "Angelababy36岁生日照",
-      "onboard_time": 1740708019,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 204883,
       "num": 204883,
       "word": "中传毕业生龙丽莎发视频报平安",
       "onboard_time": 1740701958,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201398,
+      "num": 201398,
+      "word": "CT 蔡徐坤",
+      "onboard_time": 1740710837,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 199834,
@@ -419,12 +483,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 178896,
+      "num": 267381,
+      "word": "绵柔巾不是棉柔巾",
+      "onboard_time": 1740708318,
+      "rank": 19,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 168743,
       "num": 168743,
       "word": "法国也想要乌克兰矿产",
       "onboard_time": 1740702679,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 167666,
+      "num": 184779,
+      "word": "韩国小学生的最爱爱豆投票结果",
+      "onboard_time": 1740710657,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 164936,
@@ -483,6 +563,30 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 152445,
+      "num": 184627,
+      "word": "开春第一部暖心年代剧来了",
+      "onboard_time": 1740709999,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 151978,
+      "num": 151978,
+      "word": "小米转跌",
+      "onboard_time": 1740710598,
+      "rank": 34,
+      "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 151871,
+      "num": 151871,
+      "word": "港星黄百鸣涉内幕交易被证监会检控",
+      "onboard_time": 1740710179,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151578,
       "num": 151578,
       "word": "Gucci全平台更新肖战",
@@ -539,6 +643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135239,
+      "num": 135239,
+      "word": "梁洁也走不出白色橄榄树",
+      "onboard_time": 1740711138,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134519,
       "num": 134519,
       "word": "卡卡前妻回应离婚说他太完美了",
@@ -563,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130730,
+      "num": 130730,
+      "word": "A股",
+      "onboard_time": 1740708619,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 130615,
       "num": 130615,
       "word": "厂家回应零食主配料为福寿螺肉",
@@ -577,6 +697,14 @@
       "onboard_time": 1740704538,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126278,
+      "num": 126278,
+      "word": "一顺风车司机被曝载客时放不雅视频",
+      "onboard_time": 1740711018,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125408,
@@ -609,6 +737,14 @@
       "onboard_time": 1740662960,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 119338,
+      "num": 119338,
+      "word": "肖战米兰大衣造型",
+      "onboard_time": 1740709158,
+      "rank": 45,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 118983,
@@ -657,6 +793,14 @@
       "onboard_time": 1740652758,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107302,
+      "num": 107302,
+      "word": "小米汽车概念爆发",
+      "onboard_time": 1740711377,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 105220,
