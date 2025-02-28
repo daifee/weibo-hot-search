@@ -1,6 +1,6 @@
 {
   "startTime": 1740673831596,
-  "endTime": 1740749349385,
+  "endTime": 1740750017986,
   "band_list": [
     {
       "raw_hot": 8399964,
@@ -35,6 +35,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2181547,
+      "num": 2181547,
+      "word": "晴川",
+      "onboard_time": 1740747979,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2033111,
       "num": 603682,
       "word": "甜馨回应变白了",
@@ -49,14 +57,6 @@
       "onboard_time": 1740667942,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1531747,
-      "num": 1531747,
-      "word": "晴川",
-      "onboard_time": 1740747979,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 1522697,
@@ -379,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 563245,
+      "num": 563245,
+      "word": "桑太太",
+      "onboard_time": 1740746899,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 561555,
       "num": 561555,
       "word": "七星连珠不建议上当",
@@ -539,12 +547,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 470680,
-      "num": 470680,
-      "word": "桑太太",
-      "onboard_time": 1740746899,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 466040,
+      "num": 466040,
+      "word": "姐妹俩患不食人间烟火罕见病",
+      "onboard_time": 1740747858,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 464981,
@@ -563,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 461704,
+      "num": 425354,
+      "word": "刘浩存广告词 既要又要凭什么不可以",
+      "onboard_time": 1740737900,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 457686,
       "num": 421867,
       "word": "种地吧 藏医",
@@ -577,6 +593,14 @@
       "onboard_time": 1740727699,
       "rank": 30,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 440675,
+      "num": 440675,
+      "word": "七星连珠好运连连",
+      "onboard_time": 1740725178,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 438173,
@@ -600,22 +624,6 @@
       "word": "赵丽颖杨幂迪丽热巴杨紫2024商业价值明星",
       "onboard_time": 1740738439,
       "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 434829,
-      "num": 434829,
-      "word": "七星连珠好运连连",
-      "onboard_time": 1740725178,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 429560,
-      "num": 425354,
-      "word": "刘浩存广告词 既要又要凭什么不可以",
-      "onboard_time": 1740737900,
-      "rank": 46,
       "category": "艺人"
     },
     {
@@ -681,6 +689,14 @@
       "onboard_time": 1740719841,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 388393,
+      "num": 388393,
+      "word": "你看到的公务车可能是私家车",
+      "onboard_time": 1740747919,
+      "rank": 18,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 387295,
@@ -827,28 +843,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 307365,
+      "num": 466961,
+      "word": "台湾正研究让所有适龄女性去当兵",
+      "onboard_time": 1740748460,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 304705,
       "num": 304705,
       "word": "种地吧第三季开播",
       "onboard_time": 1740715400,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 303167,
-      "num": 303167,
-      "word": "你看到的公务车可能是私家车",
-      "onboard_time": 1740747919,
-      "rank": 18,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 300454,
-      "num": 408496,
-      "word": "姐妹俩患不食人间烟火罕见病",
-      "onboard_time": 1740747858,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 299629,
@@ -913,6 +921,14 @@
       "onboard_time": 1740722778,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 273860,
+      "num": 273860,
+      "word": "白敬亭卫衣",
+      "onboard_time": 1740747799,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 272687,
@@ -1115,14 +1131,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 242115,
-      "num": 242115,
-      "word": "白敬亭卫衣",
-      "onboard_time": 1740747799,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 240784,
       "num": 240784,
       "word": "ILLIT公开应援棒",
@@ -1259,6 +1267,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 206552,
+      "num": 206552,
+      "word": "原来古代就有红黑榜",
+      "onboard_time": 1740749541,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205888,
       "num": 365891,
       "word": "微博娱乐白皮书",
@@ -1305,6 +1321,14 @@
       "onboard_time": 1740725117,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 202199,
+      "num": 202199,
+      "word": "小盐巴手机壳",
+      "onboard_time": 1740748640,
+      "rank": 37,
+      "category": "时尚"
     },
     {
       "raw_hot": 201633,
@@ -1412,7 +1436,7 @@
     },
     {
       "raw_hot": 191718,
-      "num": 191718,
+      "num": 206789,
       "word": "知名电影人宋歌被判刑",
       "onboard_time": 1740748218,
       "rank": 32,
@@ -1483,12 +1507,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 189129,
+      "num": 189129,
+      "word": "古人用2座亭子当红黑榜",
+      "onboard_time": 1740749720,
+      "rank": 32,
+      "category": "民生新闻,科学科普"
+    },
+    {
       "raw_hot": 187344,
       "num": 187344,
       "word": "原神班尼特",
       "onboard_time": 1740718822,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 187243,
+      "num": 187243,
+      "word": "陈林犯罪情节极为恶劣",
+      "onboard_time": 1740747199,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186501,
@@ -1571,6 +1611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 182403,
+      "num": 182403,
+      "word": "张若昀薄荷绿西装",
+      "onboard_time": 1740749120,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 181734,
       "num": 181734,
       "word": "EDG胜决对阵G2",
@@ -1601,6 +1649,14 @@
       "onboard_time": 1740743778,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180315,
+      "num": 180315,
+      "word": "莲花集团CEO疑似回应小米",
+      "onboard_time": 1740749720,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 179228,
@@ -1723,6 +1779,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 169687,
+      "num": 169687,
+      "word": "单依纯南京演唱会",
+      "onboard_time": 1740749601,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 169215,
       "num": 169215,
       "word": "山姆分姆包围县城",
@@ -1841,6 +1905,14 @@
       "onboard_time": 1740743899,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161352,
+      "num": 161352,
+      "word": "最强大脑",
+      "onboard_time": 1740747618,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 160666,
@@ -1971,14 +2043,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 154596,
-      "num": 466961,
-      "word": "台湾正研究让所有适龄女性去当兵",
-      "onboard_time": 1740748460,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 153837,
       "num": 153837,
       "word": "美俄正秘密谈判开发北极",
@@ -2009,6 +2073,14 @@
       "onboard_time": 1740703519,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 152742,
+      "num": 152742,
+      "word": "王一博电影人鱼将择机上映",
+      "onboard_time": 1740747199,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 152564,
@@ -2107,6 +2179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 148113,
+      "num": 148113,
+      "word": "微信好霸道",
+      "onboard_time": 1740749181,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 147929,
       "num": 266762,
       "word": "罗永浩评夸克取代传统搜索",
@@ -2153,14 +2233,6 @@
       "onboard_time": 1740724460,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 146169,
-      "num": 146169,
-      "word": "王一博电影人鱼将择机上映",
-      "onboard_time": 1740747199,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 146108,
@@ -2243,14 +2315,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 140613,
-      "num": 140613,
-      "word": "小盐巴手机壳",
-      "onboard_time": 1740748640,
-      "rank": 37,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 140399,
       "num": 140399,
       "word": "AG对战KLG",
@@ -2299,14 +2363,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 137622,
-      "num": 137622,
-      "word": "最强大脑",
-      "onboard_time": 1740747618,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 137309,
       "num": 296279,
       "word": "真正的七星连珠长什么样",
@@ -2347,6 +2403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134538,
+      "num": 134538,
+      "word": "DeepSeek智搜评内娱十大爆剧女演员",
+      "onboard_time": 1740749840,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 134519,
       "num": 134519,
       "word": "卡卡前妻回应离婚说他太完美了",
@@ -2377,6 +2441,14 @@
       "onboard_time": 1740726258,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133064,
+      "num": 133064,
+      "word": "李沁紫色流苏长裙",
+      "onboard_time": 1740749480,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 132914,
@@ -2475,14 +2547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126265,
-      "num": 126265,
-      "word": "微信好霸道",
-      "onboard_time": 1740749181,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 125813,
       "num": 125813,
       "word": "绝区零",
@@ -2521,14 +2585,6 @@
       "onboard_time": 1740742039,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 124239,
-      "num": 124239,
-      "word": "陈林犯罪情节极为恶劣",
-      "onboard_time": 1740747199,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 123761,
@@ -3243,6 +3299,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 48467,
+      "num": 319525,
+      "word": "七星连珠使用说明书",
+      "onboard_time": 1740749120,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 47987,
       "num": 269432,
       "word": "吉村真晴晒与樊振东合照",
@@ -3259,8 +3323,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 47210,
-      "num": 1155466,
+      "raw_hot": 47442,
+      "num": 1253435,
       "word": "收好这份春日赏花地图攻略",
       "onboard_time": 1740742940,
       "rank": 2,
@@ -3273,6 +3337,14 @@
       "onboard_time": 1740726980,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 45948,
+      "num": 160650,
+      "word": "对象卷跑7万男子没钱透析",
+      "onboard_time": 1740749960,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45040,
@@ -3379,14 +3451,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 30882,
-      "num": 202093,
-      "word": "七星连珠使用说明书",
-      "onboard_time": 1740749120,
-      "rank": 30,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 30547,
       "num": 44316,
       "word": "对重大犯罪依法严惩绝不手软",
@@ -3443,6 +3507,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 22324,
+      "num": 319988,
+      "word": "微博娱乐白皮书明星榜单",
+      "onboard_time": 1740747559,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 20238,
       "num": 258363,
       "word": "美国使世界回到强国向弱国索取贡品时代",
@@ -3475,14 +3547,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 17529,
-      "num": 244260,
-      "word": "微博娱乐白皮书明星榜单",
-      "onboard_time": 1740747559,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 17443,
       "num": 208189,
       "word": "爱泼斯坦首批文件深度编辑处理",
@@ -3505,6 +3569,14 @@
       "onboard_time": 1740707958,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 16947,
+      "num": 206352,
+      "word": "江西上饶冒牌消防员向商户卖灭火器",
+      "onboard_time": 1740748940,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16914,
@@ -3555,14 +3627,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 11174,
-      "num": 202093,
-      "word": "江西上饶冒牌消防员向商户卖灭火器",
-      "onboard_time": 1740748940,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 10942,
       "num": 36236,
       "word": "重庆的轨道列车载着春色穿行花海",
@@ -3604,6 +3668,9 @@
     },
     {
       "word": "#习近平的两会之问#"
+    },
+    {
+      "word": "#习近平会见俄罗斯联邦安全会议秘书绍伊古#"
     }
   ]
 }
