@@ -1,6 +1,6 @@
 {
   "startTime": 1740673831596,
-  "endTime": 1740727342121,
+  "endTime": 1740728131202,
   "band_list": [
     {
       "raw_hot": 8399964,
@@ -73,6 +73,14 @@
       "onboard_time": 1740719300,
       "rank": 15,
       "category": "民生新闻,读书作家"
+    },
+    {
+      "raw_hot": 1197973,
+      "num": 1197973,
+      "word": "下午3点到5点心情最糟糕",
+      "onboard_time": 1740725778,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1107643,
@@ -203,28 +211,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 631526,
-      "num": 631526,
-      "word": "桑延 鸭中之王",
-      "onboard_time": 1740719420,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 617470,
-      "num": 617470,
+      "raw_hot": 645443,
+      "num": 645443,
       "word": "董力和妻子没求婚没婚礼",
       "onboard_time": 1740722239,
       "rank": 13,
       "category": "综艺"
     },
     {
-      "raw_hot": 616368,
-      "num": 616368,
-      "word": "下午3点到5点心情最糟糕",
-      "onboard_time": 1740725778,
+      "raw_hot": 631526,
+      "num": 631526,
+      "word": "桑延 鸭中之王",
+      "onboard_time": 1740719420,
       "rank": 7,
-      "category": "民生新闻"
+      "category": "剧集"
     },
     {
       "raw_hot": 612787,
@@ -467,6 +467,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 358628,
+      "num": 358628,
+      "word": "男子患癌花40多万半张脸没了",
+      "onboard_time": 1740727939,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 353023,
       "num": 353023,
       "word": "米兰偶遇孟子义宋雨琦吃川菜",
@@ -523,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 322879,
+      "num": 322879,
+      "word": "胡静发的长文好真诚",
+      "onboard_time": 1740726859,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 319066,
       "num": 328618,
       "word": "对张凌赫190的身高有了实感",
@@ -553,6 +569,14 @@
       "onboard_time": 1740715400,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 299629,
+      "num": 299629,
+      "word": "Karsa 9哥我们火了",
+      "onboard_time": 1740726859,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 297227,
@@ -611,6 +635,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 261453,
+      "num": 261453,
+      "word": "郑渊洁宣布和大家告别",
+      "onboard_time": 1740727699,
+      "rank": 30,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 256811,
       "num": 256811,
       "word": "杨蓉央视严选",
@@ -641,6 +673,14 @@
       "onboard_time": 1740716780,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 251115,
+      "num": 327772,
+      "word": "网红餐厅未标过敏原致男子进ICU",
+      "onboard_time": 1740726379,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 250098,
@@ -811,6 +851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 216606,
+      "num": 302276,
+      "word": "赵丽颖2024微博品质度TOP1",
+      "onboard_time": 1740726617,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215502,
       "num": 215502,
       "word": "女子嫌金价太高在家自制金戒指",
@@ -825,14 +873,6 @@
       "onboard_time": 1740715219,
       "rank": 35,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 208888,
-      "num": 208888,
-      "word": "胡静发的长文好真诚",
-      "onboard_time": 1740726859,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 208669,
@@ -931,14 +971,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 197943,
-      "num": 302276,
-      "word": "赵丽颖2024微博品质度TOP1",
-      "onboard_time": 1740726617,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 194981,
       "num": 185987,
       "word": "易烊千玺杂志",
@@ -1003,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185604,
+      "num": 185604,
+      "word": "王心凌评论区成霸总直聘现场",
+      "onboard_time": 1740725659,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 184464,
       "num": 184464,
       "word": "陈赫被端上来的活鸭吓得不敢睁眼",
@@ -1017,14 +1057,6 @@
       "onboard_time": 1740720141,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 184242,
-      "num": 184242,
-      "word": "Karsa 9哥我们火了",
-      "onboard_time": 1740726859,
-      "rank": 37,
-      "category": "电竞"
     },
     {
       "raw_hot": 183223,
@@ -1073,14 +1105,6 @@
       "onboard_time": 1740710598,
       "rank": 34,
       "category": "互联网,财经"
-    },
-    {
-      "raw_hot": 177120,
-      "num": 177120,
-      "word": "王心凌评论区成霸总直聘现场",
-      "onboard_time": 1740725659,
-      "rank": 38,
-      "category": "演出"
     },
     {
       "raw_hot": 172743,
@@ -1195,6 +1219,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 163300,
+      "num": 302422,
+      "word": "赵丽颖包揽热议电影女角色前三",
+      "onboard_time": 1740725719,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 162713,
       "num": 212818,
       "word": "369 咖哥我练好了",
@@ -1225,6 +1257,14 @@
       "onboard_time": 1740722540,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160541,
+      "num": 520434,
+      "word": "杨妞花得知余华英被执行死刑激动流泪",
+      "onboard_time": 1740726199,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159424,
@@ -1369,6 +1409,14 @@
       "onboard_time": 1740723918,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 150018,
+      "num": 150018,
+      "word": "绍伊古已抵达北京",
+      "onboard_time": 1740727820,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 148235,
@@ -1523,6 +1571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130817,
+      "num": 130817,
+      "word": "中驻澳大使表示没必要为演习道歉",
+      "onboard_time": 1740727459,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 130615,
       "num": 130615,
       "word": "厂家回应零食主配料为福寿螺肉",
@@ -1545,14 +1601,6 @@
       "onboard_time": 1740724998,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 127686,
-      "num": 520434,
-      "word": "杨妞花得知余华英被执行死刑激动流泪",
-      "onboard_time": 1740726199,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127621,
@@ -1699,11 +1747,11 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 102959,
-      "num": 327772,
-      "word": "网红餐厅未标过敏原致男子进ICU",
-      "onboard_time": 1740726379,
-      "rank": 19,
+      "raw_hot": 101800,
+      "num": 604224,
+      "word": "4年多次闪婚收高额彩礼被判返还",
+      "onboard_time": 1740726498,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1979,6 +2027,14 @@
       "category": "财经,互联网"
     },
     {
+      "raw_hot": 64515,
+      "num": 428606,
+      "word": "爱泼斯坦案文件内容主要是飞行记录",
+      "onboard_time": 1740726798,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 60724,
       "num": 253396,
       "word": "沈星回这个视角好赞",
@@ -2123,14 +2179,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 36063,
-      "num": 604224,
-      "word": "4年多次闪婚收高额彩礼被判返还",
-      "onboard_time": 1740726498,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 35894,
       "num": 1521725,
       "word": "田间春管科技范儿十足",
@@ -2139,12 +2187,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34407,
-      "num": 428606,
-      "word": "爱泼斯坦案文件内容主要是飞行记录",
-      "onboard_time": 1740726798,
-      "rank": 14,
-      "category": "海外新闻"
+      "raw_hot": 33689,
+      "num": 173825,
+      "word": "家庭版烤鱼做法",
+      "onboard_time": 1740726980,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 33127,
@@ -2153,6 +2201,14 @@
       "onboard_time": 1740651439,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 33025,
+      "num": 263512,
+      "word": "罕见病孩子家长组团跑外卖",
+      "onboard_time": 1740727219,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30547,
@@ -2193,22 +2249,6 @@
       "onboard_time": 1740679153,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 20632,
-      "num": 205498,
-      "word": "罕见病孩子家长组团跑外卖",
-      "onboard_time": 1740727219,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20395,
-      "num": 173825,
-      "word": "家庭版烤鱼做法",
-      "onboard_time": 1740726980,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 19852,
@@ -2299,8 +2339,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 9460,
-      "num": 201522,
+      "raw_hot": 10239,
+      "num": 294495,
       "word": "郑钦文亮相WTA全新宣传片",
       "onboard_time": 1740727219,
       "rank": 32,
