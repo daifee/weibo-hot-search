@@ -1,6 +1,6 @@
 {
   "startTime": 1740673831596,
-  "endTime": 1740746613214,
+  "endTime": 1740747535142,
   "band_list": [
     {
       "raw_hot": 8399964,
@@ -11,8 +11,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 3490162,
-      "num": 3490162,
+      "raw_hot": 3549641,
+      "num": 3549641,
       "word": "七星连珠",
       "onboard_time": 1740714259,
       "rank": 3,
@@ -265,6 +265,14 @@
       "onboard_time": 1740664581,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 645639,
+      "num": 645639,
+      "word": "上海中小学已全面实施AB制午餐模式",
+      "onboard_time": 1740744319,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 645443,
@@ -651,6 +659,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 367420,
+      "num": 393104,
+      "word": "中国空间站将迎来首位外籍航天员",
+      "onboard_time": 1740746180,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 355681,
       "num": 355681,
       "word": "金晨一天穿了4套最新季高定",
@@ -803,20 +819,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 293938,
+      "num": 293938,
+      "word": "许凯香港被偶遇",
+      "onboard_time": 1740745338,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 292575,
       "num": 292575,
       "word": "偶遇王鹤棣新加坡逛商场",
       "onboard_time": 1740729079,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 286459,
-      "num": 286459,
-      "word": "上海中小学已全面实施AB制午餐模式",
-      "onboard_time": 1740744319,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 282021,
@@ -995,6 +1011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 246667,
+      "num": 246667,
+      "word": "为8岁女儿买教育险提取要等到60岁",
+      "onboard_time": 1740744619,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 245448,
       "num": 376744,
       "word": "建议春节假期取消调休",
@@ -1083,14 +1107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 234072,
-      "num": 234072,
-      "word": "为8岁女儿买教育险提取要等到60岁",
-      "onboard_time": 1740744619,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 231358,
       "num": 337244,
       "word": "带货博主虚假助农敛财440多万",
@@ -1131,6 +1147,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 224640,
+      "num": 224640,
+      "word": "周也空气齐刘海",
+      "onboard_time": 1740746118,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221740,
       "num": 221740,
       "word": "树下有片红房子",
@@ -1169,6 +1193,14 @@
       "onboard_time": 1740734360,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 212591,
+      "num": 212591,
+      "word": "桑太太",
+      "onboard_time": 1740746899,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 212072,
@@ -1315,6 +1347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195247,
+      "num": 195247,
+      "word": "徐若晗新剧酒醒后天塌了",
+      "onboard_time": 1740746358,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194981,
       "num": 185987,
       "word": "易烊千玺杂志",
@@ -1419,14 +1459,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185964,
-      "num": 241273,
-      "word": "许凯香港被偶遇",
-      "onboard_time": 1740745338,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 185604,
       "num": 185604,
       "word": "王心凌评论区成霸总直聘现场",
@@ -1473,6 +1505,14 @@
       "onboard_time": 1740687851,
       "rank": 32,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 182722,
+      "num": 182722,
+      "word": "宁艺卓高洁丝",
+      "onboard_time": 1740747378,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 181734,
@@ -1675,14 +1715,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 165935,
-      "num": 165935,
-      "word": "周也空气齐刘海",
-      "onboard_time": 1740746118,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 165223,
       "num": 165223,
       "word": "余华英被执行死刑杨妞花激动落泪",
@@ -1819,6 +1851,14 @@
       "category": "汽车,数码"
     },
     {
+      "raw_hot": 157774,
+      "num": 157774,
+      "word": "董思成和winwin都不同意开学",
+      "onboard_time": 1740742819,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157515,
       "num": 157515,
       "word": "库里单场12记三分",
@@ -1843,6 +1883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157239,
+      "num": 271830,
+      "word": "刘宇宁燕子京2024微博热议男角色",
+      "onboard_time": 1740744918,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156921,
       "num": 156921,
       "word": "白鹿或将缺席奔跑吧13录制",
@@ -1865,14 +1913,6 @@
       "onboard_time": 1740669739,
       "rank": 13,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 155060,
-      "num": 155060,
-      "word": "董思成和winwin都不同意开学",
-      "onboard_time": 1740742819,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 153837,
@@ -1979,6 +2019,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 150162,
+      "num": 150162,
+      "word": "魔兽世界",
+      "onboard_time": 1740746358,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 150081,
       "num": 173397,
       "word": "2024年微博十大热搜演唱会",
@@ -2004,7 +2052,7 @@
     },
     {
       "raw_hot": 147929,
-      "num": 257489,
+      "num": 266762,
       "word": "罗永浩评夸克取代传统搜索",
       "onboard_time": 1740744138,
       "rank": 19,
@@ -2049,6 +2097,14 @@
       "onboard_time": 1740724460,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146169,
+      "num": 146169,
+      "word": "王一博电影人鱼将择机上映",
+      "onboard_time": 1740747199,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 146108,
@@ -2121,6 +2177,22 @@
       "onboard_time": 1740714017,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140776,
+      "num": 218331,
+      "word": "eStar战胜DYG",
+      "onboard_time": 1740746719,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 140399,
+      "num": 140399,
+      "word": "AG对战KLG",
+      "onboard_time": 1740746839,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 139862,
@@ -2299,14 +2371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 128661,
-      "num": 128661,
-      "word": "徐若晗新剧酒醒后天塌了",
-      "onboard_time": 1740746358,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 128000,
       "num": 128000,
       "word": "桃花坞",
@@ -2339,6 +2403,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125813,
+      "num": 125813,
+      "word": "绝区零",
+      "onboard_time": 1740747260,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 125593,
+      "num": 125593,
+      "word": "哪吒2距离全球票房第7还差1亿",
+      "onboard_time": 1740742879,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 125408,
       "num": 125408,
       "word": "周杰伦演唱会唱了难哄主题曲任性",
@@ -2363,6 +2443,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 124239,
+      "num": 124239,
+      "word": "陈林犯罪情节极为恶劣",
+      "onboard_time": 1740747199,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123761,
+      "num": 123761,
+      "word": "沈月更新了vlog",
+      "onboard_time": 1740747320,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123615,
       "num": 123615,
       "word": "单依纯淡淡的疯感",
@@ -2377,14 +2473,6 @@
       "onboard_time": 1740698115,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 123055,
-      "num": 123055,
-      "word": "哪吒2距离全球票房第7还差1亿",
-      "onboard_time": 1740742879,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 120803,
@@ -2441,14 +2529,6 @@
       "onboard_time": 1740713838,
       "rank": 48,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 117586,
-      "num": 117586,
-      "word": "魔兽世界",
-      "onboard_time": 1740746358,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 116651,
@@ -2561,14 +2641,6 @@
       "onboard_time": 1740669200,
       "rank": 35,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 104997,
-      "num": 393104,
-      "word": "中国空间站将迎来首位外籍航天员",
-      "onboard_time": 1740746180,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 101800,
@@ -2867,14 +2939,6 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 71503,
-      "num": 131313,
-      "word": "刘宇宁燕子京2024微博热议男角色",
-      "onboard_time": 1740744918,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 71232,
       "num": 394669,
       "word": "丁禹兮超话全年热度等级上升7级",
@@ -3091,20 +3155,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 47210,
+      "num": 769852,
+      "word": "收好这份春日赏花地图攻略",
+      "onboard_time": 1740742940,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46530,
       "num": 205868,
       "word": "又有自称KPL选手曝被MTG欠薪",
       "onboard_time": 1740726980,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 45954,
-      "num": 769852,
-      "word": "收好这份春日赏花地图攻略",
-      "onboard_time": 1740742940,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 45040,
@@ -3176,6 +3240,14 @@
       "word": "田间春管科技范儿十足",
       "onboard_time": 1740715338,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33708,
+      "num": 169151,
+      "word": "七星连珠并不罕见",
+      "onboard_time": 1740747440,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -3267,6 +3339,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 20238,
+      "num": 258363,
+      "word": "美国使世界回到强国向弱国索取贡品时代",
+      "onboard_time": 1740746779,
+      "rank": 19,
+      "category": ""
+    },
+    {
       "raw_hot": 19852,
       "num": 49825,
       "word": "比模特更像模特的GAWON",
@@ -3297,6 +3377,14 @@
       "onboard_time": 1740708019,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 17225,
+      "num": 196305,
+      "word": "为何北方第一商帮出现在山西",
+      "onboard_time": 1740746598,
+      "rank": 29,
+      "category": "科学科普"
     },
     {
       "raw_hot": 17218,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1740747535142,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3549641,
+        "num": 3549641,
+        "word": "七星连珠",
+        "onboard_time": 1740714259,
+        "rank": 0,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 1263980,
+        "num": 1263980,
+        "word": "强奸未遂致人溺亡男子被判死刑",
+        "onboard_time": 1740742819,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47210,
+        "num": 693783,
+        "word": "收好这份春日赏花地图攻略",
+        "onboard_time": 1740742940,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 645639,
+        "num": 645639,
+        "word": "上海中小学已全面实施AB制午餐模式",
+        "onboard_time": 1740744319,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 606357,
+        "num": 606357,
+        "word": "优酷 12集",
+        "onboard_time": 1740728358,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 560867,
+        "num": 560867,
+        "word": "全国高度近视患者超1.3亿人",
+        "onboard_time": 1740741320,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 525482,
+        "num": 525482,
+        "word": "哪吒票房",
+        "onboard_time": 1740737479,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 490048,
+        "num": 490048,
+        "word": "金价大跳水了",
+        "onboard_time": 1740707118,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 387291,
+        "num": 387291,
+        "word": "七星连珠好运连连",
+        "onboard_time": 1740725178,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 367420,
+        "num": 367420,
+        "word": "中国空间站将迎来首位外籍航天员",
+        "onboard_time": 1740746180,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 580046,
+        "num": 357076,
+        "word": "李晨Angelababy友谊",
+        "onboard_time": 1740735740,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 465281,
+        "num": 331510,
+        "word": "男子患癌花40多万半张脸没了",
+        "onboard_time": 1740727939,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293938,
+        "num": 293938,
+        "word": "许凯香港被偶遇",
+        "onboard_time": 1740745338,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288082,
+        "num": 288082,
+        "word": "甜馨回应变白了",
+        "onboard_time": 1740719721,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61516,
+        "num": 284657,
+        "word": "十个勤天喊你一起云种地",
+        "onboard_time": 1740744078,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 365328,
+        "num": 277146,
+        "word": "刘浩存广告词 既要又要凭什么不可以",
+        "onboard_time": 1740737900,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157239,
+        "num": 271830,
+        "word": "刘宇宁燕子京2024微博热议男角色",
+        "onboard_time": 1740744918,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111758,
+        "num": 266762,
+        "word": "罗永浩评夸克取代传统搜索",
+        "onboard_time": 1740744138,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 266090,
+        "num": 266090,
+        "word": "南航乘客被废弃针头扎出血后陷抑郁",
+        "onboard_time": 1740728297,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20238,
+        "num": 258363,
+        "word": "美国使世界回到强国向弱国索取贡品时代",
+        "onboard_time": 1740746779,
+        "rank": 19,
+        "category": ""
+      },
+      {
+        "raw_hot": 254418,
+        "num": 254418,
+        "word": "赵丽颖杨幂迪丽热巴杨紫2024商业价值明星",
+        "onboard_time": 1740738439,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246667,
+        "num": 246667,
+        "word": "为8岁女儿买教育险提取要等到60岁",
+        "onboard_time": 1740744619,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246225,
+        "num": 246225,
+        "word": "鞠婧祎丁禹兮 嫁反派",
+        "onboard_time": 1740734958,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224640,
+        "num": 224640,
+        "word": "周也空气齐刘海",
+        "onboard_time": 1740746118,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140776,
+        "num": 218331,
+        "word": "eStar战胜DYG",
+        "onboard_time": 1740746719,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 212591,
+        "num": 212591,
+        "word": "桑太太",
+        "onboard_time": 1740746899,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210098,
+        "num": 210098,
+        "word": "于正说把赵露思当自己家小孩",
+        "onboard_time": 1740734360,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207767,
+        "num": 207767,
+        "word": "是狐妖小红娘亲爹我们有救了",
+        "onboard_time": 1740744499,
+        "rank": 27,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 201396,
+        "num": 201396,
+        "word": "特朗普一句够了打断回答",
+        "onboard_time": 1740736698,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17225,
+        "num": 196305,
+        "word": "为何北方第一商帮出现在山西",
+        "onboard_time": 1740746598,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 195247,
+        "num": 195247,
+        "word": "徐若晗新剧酒醒后天塌了",
+        "onboard_time": 1740746358,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193058,
+        "num": 193058,
+        "word": "余华英被执行死刑",
+        "onboard_time": 1740716960,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192453,
+        "num": 192453,
+        "word": "树下有片红房子",
+        "onboard_time": 1740738739,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182722,
+        "num": 182722,
+        "word": "宁艺卓高洁丝",
+        "onboard_time": 1740747378,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178846,
+        "num": 178846,
+        "word": "田曦薇新剧扛猪路透",
+        "onboard_time": 1740743778,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33708,
+        "num": 169151,
+        "word": "七星连珠并不罕见",
+        "onboard_time": 1740747440,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167773,
+        "num": 167773,
+        "word": "3月十二星座注意事项",
+        "onboard_time": 1740744378,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157774,
+        "num": 157774,
+        "word": "董思成和winwin都不同意开学",
+        "onboard_time": 1740742819,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150162,
+        "num": 150162,
+        "word": "魔兽世界",
+        "onboard_time": 1740746358,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147976,
+        "num": 147976,
+        "word": "经纪公司拒绝董力夫妇拍孕肚照",
+        "onboard_time": 1740732679,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146169,
+        "num": 146169,
+        "word": "王一博电影人鱼将择机上映",
+        "onboard_time": 1740747199,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143249,
+        "num": 143249,
+        "word": "哪吒2破141亿元",
+        "onboard_time": 1740743359,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140399,
+        "num": 140399,
+        "word": "AG对战KLG",
+        "onboard_time": 1740746839,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139703,
+        "num": 139703,
+        "word": "杨妞花说早知道今天就不会直播带货",
+        "onboard_time": 1740743899,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132805,
+        "num": 132805,
+        "word": "文在寅称中国对韩国至关重要",
+        "onboard_time": 1740742219,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132624,
+        "num": 132624,
+        "word": "韩安冉直播切片1个月卖了800多万",
+        "onboard_time": 1740736159,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 125813,
+        "num": 125813,
+        "word": "绝区零",
+        "onboard_time": 1740747260,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125593,
+        "num": 125593,
+        "word": "哪吒2距离全球票房第7还差1亿",
+        "onboard_time": 1740742879,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124239,
+        "num": 124239,
+        "word": "陈林犯罪情节极为恶劣",
+        "onboard_time": 1740747199,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123761,
+        "num": 123761,
+        "word": "沈月更新了vlog",
+        "onboard_time": 1740747320,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋进的春天#"
+    }
+  }
+}

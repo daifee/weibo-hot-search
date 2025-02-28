@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1740746613214,
+  "endTime": 1740747535142,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1043,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3549641,
+      "num": 3549641,
+      "word": "七星连珠",
+      "onboard_time": 1740622279,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 3533201,
       "num": 3533201,
       "word": "哪吒2票房破80亿",
@@ -1065,14 +1073,6 @@
       "onboard_time": 1737033080,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3490162,
-      "num": 3490162,
-      "word": "七星连珠",
-      "onboard_time": 1740622279,
-      "rank": 30,
-      "category": "科学科普"
     },
     {
       "raw_hot": 3475997,
