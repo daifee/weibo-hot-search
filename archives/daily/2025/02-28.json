@@ -1,6 +1,6 @@
 {
   "startTime": 1740673831596,
-  "endTime": 1740699363164,
+  "endTime": 1740707132670,
   "band_list": [
     {
       "raw_hot": 1564084,
@@ -19,12 +19,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 771996,
-      "num": 501940,
+      "raw_hot": 1470846,
+      "num": 1470846,
       "word": "顾茜茜抖音账号被禁言",
       "onboard_time": 1740698477,
       "rank": 3,
       "category": "网红"
+    },
+    {
+      "raw_hot": 974787,
+      "num": 567992,
+      "word": "无忧传媒称与刘畊宏变为商务合作",
+      "onboard_time": 1740703459,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 651300,
@@ -33,6 +41,30 @@
       "onboard_time": 1740664581,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 647424,
+      "num": 553620,
+      "word": "安宥真曾称中国结为韩国之美",
+      "onboard_time": 1740705319,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 613090,
+      "num": 613090,
+      "word": "雷军昨晚有点失眠",
+      "onboard_time": 1740701778,
+      "rank": 1,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 611458,
+      "num": 492253,
+      "word": "两中国男子夜潜韩国寺庙偷骨灰",
+      "onboard_time": 1740698717,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 607231,
@@ -51,11 +83,43 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 563947,
+      "num": 563947,
+      "word": "美司法部公布爱泼斯坦案首批文件",
+      "onboard_time": 1740702018,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 551474,
+      "num": 551474,
+      "word": "Bin说因为bug输掉比赛",
+      "onboard_time": 1740702860,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 542376,
+      "num": 554891,
+      "word": "女演员遭遇中传失联学生同款剧组套路",
+      "onboard_time": 1740700037,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 533389,
       "num": 336181,
       "word": "婚房7年没住被小区保洁换锁养鸡",
       "onboard_time": 1740653418,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 501895,
+      "num": 501895,
+      "word": "零食鲍菇螺肉主配料为福寿螺肉",
+      "onboard_time": 1740668961,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -67,12 +131,36 @@
       "category": "网红"
     },
     {
-      "raw_hot": 415501,
-      "num": 415501,
-      "word": "零食鲍菇螺肉主配料为福寿螺肉",
-      "onboard_time": 1740668961,
-      "rank": 27,
+      "raw_hot": 464981,
+      "num": 464981,
+      "word": "中国人研究月球土特产最新成果",
+      "onboard_time": 1740702259,
+      "rank": 11,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 462772,
+      "num": 244206,
+      "word": "女子买一斤半小番茄被路人吃掉一斤",
+      "onboard_time": 1740701419,
+      "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 432266,
+      "num": 432266,
+      "word": "保时捷",
+      "onboard_time": 1740705319,
+      "rank": 12,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 416597,
+      "num": 416597,
+      "word": "麻花特开心2 沈腾马丽",
+      "onboard_time": 1740701238,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 399735,
@@ -91,6 +179,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 353023,
+      "num": 353023,
+      "word": "米兰偶遇孟子义宋雨琦吃川菜",
+      "onboard_time": 1740702860,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 350579,
       "num": 350579,
       "word": "前TVB甜妹唐宁回应满头白发",
@@ -105,6 +201,14 @@
       "onboard_time": 1740651259,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 334680,
+      "num": 334680,
+      "word": "境外间谍以调研为由哄骗未成年人拍照",
+      "onboard_time": 1740698717,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 329030,
@@ -131,6 +235,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 268958,
+      "num": 268958,
+      "word": "老伴去世4个月大爷每天去墓前看望",
+      "onboard_time": 1740705379,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 247286,
       "num": 220121,
       "word": "香港丁克夫妻29平的房怎么住",
@@ -153,6 +265,22 @@
       "onboard_time": 1740671119,
       "rank": 8,
       "category": "数码,汽车"
+    },
+    {
+      "raw_hot": 244177,
+      "num": 244177,
+      "word": "樊振东可以金卡身份参加WTT大满贯正赛",
+      "onboard_time": 1740704301,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 240161,
+      "num": 240161,
+      "word": "李惠利晒郑秀斌送的蛋糕",
+      "onboard_time": 1740706158,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 234619,
@@ -195,6 +323,38 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 204883,
+      "num": 204883,
+      "word": "中传毕业生龙丽莎发视频报平安",
+      "onboard_time": 1740701958,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203248,
+      "num": 203248,
+      "word": "58岁男子胸部长拇指大疙瘩确诊乳腺癌",
+      "onboard_time": 1740705258,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199834,
+      "num": 199834,
+      "word": "这些看似平常的照片可能暴露个人隐私",
+      "onboard_time": 1740700337,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192884,
+      "num": 194135,
+      "word": "cos饺子导演的第一次见",
+      "onboard_time": 1740706158,
+      "rank": 28,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 183172,
       "num": 183172,
       "word": "53万的小米SU7Ultra到底值不值",
@@ -209,6 +369,14 @@
       "onboard_time": 1740654739,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168743,
+      "num": 168743,
+      "word": "法国也想要乌克兰矿产",
+      "onboard_time": 1740702679,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 157824,
@@ -227,6 +395,22 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 153837,
+      "num": 153837,
+      "word": "美俄正秘密谈判开发北极",
+      "onboard_time": 1740701357,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 153171,
+      "num": 153171,
+      "word": "伍声 小楼",
+      "onboard_time": 1740705138,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 151578,
       "num": 151578,
       "word": "Gucci全平台更新肖战",
@@ -243,12 +427,60 @@
       "category": "电影"
     },
     {
+      "raw_hot": 149215,
+      "num": 149215,
+      "word": "白玉兰",
+      "onboard_time": 1740703459,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 143561,
+      "num": 143561,
+      "word": "用鹿晗一首歌向春天说你好",
+      "onboard_time": 1740703519,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 142859,
+      "num": 142859,
+      "word": "杭州评分2.6分的快餐",
+      "onboard_time": 1740698717,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 139740,
+      "num": 139740,
+      "word": "369 咖哥我练好了",
+      "onboard_time": 1740706338,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 135456,
       "num": 135456,
       "word": "陈昊宇米兰首秀g社生图",
       "onboard_time": 1740666019,
       "rank": 22,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 135423,
+      "num": 135423,
+      "word": "澳军方从民航通报才得知中方在军演",
+      "onboard_time": 1740699075,
+      "rank": 32,
+      "category": "国际时政,国内时政"
+    },
+    {
+      "raw_hot": 134823,
+      "num": 134823,
+      "word": "上海户籍人口平均生育年龄32.58岁",
+      "onboard_time": 1740706697,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134519,
@@ -275,12 +507,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130303,
+      "num": 130303,
+      "word": "一只猫怎么可以倒霉成这样",
+      "onboard_time": 1740702679,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 129713,
+      "num": 129713,
+      "word": "付辛博说颖儿的努力会被看到",
+      "onboard_time": 1740698414,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 125752,
+      "num": 125752,
+      "word": "勇士vs魔术",
+      "onboard_time": 1740706938,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125408,
       "num": 125408,
       "word": "周杰伦演唱会唱了难哄主题曲任性",
       "onboard_time": 1740672678,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 124655,
+      "num": 124655,
+      "word": "金价为何大跳水",
+      "onboard_time": 1740707058,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 123258,
@@ -315,6 +579,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 118753,
+      "num": 118753,
+      "word": "刘畊宏较巅峰时期掉粉854万",
+      "onboard_time": 1740707058,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115008,
       "num": 115008,
       "word": "韩佳人自曝曾一年内流产三次",
@@ -347,14 +619,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 108528,
-      "num": 108528,
-      "word": "付辛博说颖儿的努力会被看到",
-      "onboard_time": 1740698414,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 107603,
       "num": 107603,
       "word": "300元一张的始祖鸟吊牌到底谁在买",
@@ -371,14 +635,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 99927,
-      "num": 99927,
-      "word": "澳军方从民航通报才得知中方在军演",
-      "onboard_time": 1740699075,
-      "rank": 32,
-      "category": "国际时政,国内时政"
-    },
-    {
       "raw_hot": 95512,
       "num": 95512,
       "word": "上海大雾",
@@ -387,12 +643,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 94722,
-      "num": 94722,
-      "word": "两中国男子夜潜韩国寺庙偷骨灰",
-      "onboard_time": 1740698717,
-      "rank": 35,
-      "category": "国际时政"
+      "raw_hot": 94734,
+      "num": 244225,
+      "word": "刘品言说和李威没有私交",
+      "onboard_time": 1740682092,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 93572,
@@ -491,14 +747,6 @@
       "category": "互联网,财经"
     },
     {
-      "raw_hot": 79934,
-      "num": 79934,
-      "word": "杭州评分2.6分的快餐",
-      "onboard_time": 1740698717,
-      "rank": 38,
-      "category": "美食"
-    },
-    {
       "raw_hot": 79906,
       "num": 79906,
       "word": "PEL",
@@ -529,14 +777,6 @@
       "onboard_time": 1740656417,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 73104,
-      "num": 73104,
-      "word": "境外间谍以调研为由哄骗未成年人拍照",
-      "onboard_time": 1740698717,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 71941,
@@ -595,14 +835,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 56740,
-      "num": 56740,
-      "word": "刘品言说和李威没有私交",
-      "onboard_time": 1740682092,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 56577,
       "num": 56577,
       "word": "滤镜 傲慢与偏见",
@@ -612,7 +844,7 @@
     },
     {
       "raw_hot": 55337,
-      "num": 530204,
+      "num": 568503,
       "word": "那些你不知道的北京地儿",
       "onboard_time": 1740655218,
       "rank": 2,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1740707132670,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1470846,
+        "num": 1470846,
+        "word": "顾茜茜抖音账号被禁言",
+        "onboard_time": 1740698477,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 613090,
+        "num": 613090,
+        "word": "雷军昨晚有点失眠",
+        "onboard_time": 1740701778,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 50857,
+        "num": 568503,
+        "word": "那些你不知道的北京地儿",
+        "onboard_time": 1740655218,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 974787,
+        "num": 567992,
+        "word": "无忧传媒称与刘畊宏变为商务合作",
+        "onboard_time": 1740703459,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 563947,
+        "num": 563947,
+        "word": "美司法部公布爱泼斯坦案首批文件",
+        "onboard_time": 1740702018,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 542376,
+        "num": 554891,
+        "word": "女演员遭遇中传失联学生同款剧组套路",
+        "onboard_time": 1740700037,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 955121,
+        "num": 554629,
+        "word": "哪吒2配音演员起诉配音公司",
+        "onboard_time": 1740667942,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 647424,
+        "num": 553620,
+        "word": "安宥真曾称中国结为韩国之美",
+        "onboard_time": 1740705319,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 551474,
+        "num": 551474,
+        "word": "Bin说因为bug输掉比赛",
+        "onboard_time": 1740702860,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 501895,
+        "num": 501895,
+        "word": "零食鲍菇螺肉主配料为福寿螺肉",
+        "onboard_time": 1740668961,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 611458,
+        "num": 492253,
+        "word": "两中国男子夜潜韩国寺庙偷骨灰",
+        "onboard_time": 1740698717,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 464981,
+        "num": 464981,
+        "word": "中国人研究月球土特产最新成果",
+        "onboard_time": 1740702259,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 432266,
+        "num": 432266,
+        "word": "保时捷",
+        "onboard_time": 1740705319,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 416597,
+        "num": 416597,
+        "word": "麻花特开心2 沈腾马丽",
+        "onboard_time": 1740701238,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 402502,
+        "num": 402502,
+        "word": "小米SU7Ultra",
+        "onboard_time": 1740662481,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 353023,
+        "num": 353023,
+        "word": "米兰偶遇孟子义宋雨琦吃川菜",
+        "onboard_time": 1740702860,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334680,
+        "num": 334680,
+        "word": "境外间谍以调研为由哄骗未成年人拍照",
+        "onboard_time": 1740698717,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 268958,
+        "num": 268958,
+        "word": "老伴去世4个月大爷每天去墓前看望",
+        "onboard_time": 1740705379,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244783,
+        "num": 244783,
+        "word": "雷军夸保时捷",
+        "onboard_time": 1740660319,
+        "rank": 18,
+        "category": "汽车,互联网"
+      },
+      {
+        "raw_hot": 94734,
+        "num": 244225,
+        "word": "刘品言说和李威没有私交",
+        "onboard_time": 1740682092,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 462772,
+        "num": 244206,
+        "word": "女子买一斤半小番茄被路人吃掉一斤",
+        "onboard_time": 1740701419,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244177,
+        "num": 244177,
+        "word": "樊振东可以金卡身份参加WTT大满贯正赛",
+        "onboard_time": 1740704301,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240161,
+        "num": 240161,
+        "word": "李惠利晒郑秀斌送的蛋糕",
+        "onboard_time": 1740706158,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224801,
+        "num": 224801,
+        "word": "卡卡我尽了一切努力挽救婚姻",
+        "onboard_time": 1740664581,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204883,
+        "num": 204883,
+        "word": "中传毕业生龙丽莎发视频报平安",
+        "onboard_time": 1740701958,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203248,
+        "num": 203248,
+        "word": "58岁男子胸部长拇指大疙瘩确诊乳腺癌",
+        "onboard_time": 1740705258,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199834,
+        "num": 199834,
+        "word": "这些看似平常的照片可能暴露个人隐私",
+        "onboard_time": 1740700337,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196752,
+        "num": 196752,
+        "word": "李维嘉这辈子有为王栎鑫拼过命",
+        "onboard_time": 1740661820,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192884,
+        "num": 194135,
+        "word": "cos饺子导演的第一次见",
+        "onboard_time": 1740706158,
+        "rank": 28,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 154545,
+        "num": 194016,
+        "word": "前TVB甜妹唐宁回应满头白发",
+        "onboard_time": 1740668479,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193911,
+        "num": 193911,
+        "word": "小猪佩奇猪妈妈怀三胎",
+        "onboard_time": 1740665960,
+        "rank": 30,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 192297,
+        "num": 192297,
+        "word": "婚房7年没住被小区保洁换锁养鸡",
+        "onboard_time": 1740653418,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168743,
+        "num": 168743,
+        "word": "法国也想要乌克兰矿产",
+        "onboard_time": 1740702679,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153837,
+        "num": 153837,
+        "word": "美俄正秘密谈判开发北极",
+        "onboard_time": 1740701357,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153171,
+        "num": 153171,
+        "word": "伍声 小楼",
+        "onboard_time": 1740705138,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149215,
+        "num": 149215,
+        "word": "白玉兰",
+        "onboard_time": 1740703459,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147152,
+        "num": 147152,
+        "word": "接吻超58小时破纪录夫妇宣布分手",
+        "onboard_time": 1740655519,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143561,
+        "num": 143561,
+        "word": "用鹿晗一首歌向春天说你好",
+        "onboard_time": 1740703519,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 142859,
+        "num": 142859,
+        "word": "杭州评分2.6分的快餐",
+        "onboard_time": 1740698717,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 141233,
+        "num": 141233,
+        "word": "老人退休金9000多元家中却垃圾成山",
+        "onboard_time": 1740654739,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139740,
+        "num": 139740,
+        "word": "369 咖哥我练好了",
+        "onboard_time": 1740706338,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135423,
+        "num": 135423,
+        "word": "澳军方从民航通报才得知中方在军演",
+        "onboard_time": 1740699075,
+        "rank": 41,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 135275,
+        "num": 135275,
+        "word": "偶遇靳东以为是公司领导",
+        "onboard_time": 1740671778,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134823,
+        "num": 134823,
+        "word": "上海户籍人口平均生育年龄32.58岁",
+        "onboard_time": 1740706697,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130303,
+        "num": 130303,
+        "word": "一只猫怎么可以倒霉成这样",
+        "onboard_time": 1740702679,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129713,
+        "num": 129713,
+        "word": "付辛博说颖儿的努力会被看到",
+        "onboard_time": 1740698414,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125752,
+        "num": 125752,
+        "word": "勇士vs魔术",
+        "onboard_time": 1740706938,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124655,
+        "num": 124655,
+        "word": "金价为何大跳水",
+        "onboard_time": 1740707058,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 122874,
+        "num": 122874,
+        "word": "小米",
+        "onboard_time": 1740675436,
+        "rank": 48,
+        "category": "汽车,数码"
+      },
+      {
+        "raw_hot": 118753,
+        "num": 118753,
+        "word": "刘畊宏较巅峰时期掉粉854万",
+        "onboard_time": 1740707058,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋进的春天#"
+    }
+  }
+}
