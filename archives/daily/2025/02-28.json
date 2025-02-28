@@ -1,6 +1,6 @@
 {
   "startTime": 1740673831596,
-  "endTime": 1740747535142,
+  "endTime": 1740749349385,
   "band_list": [
     {
       "raw_hot": 8399964,
@@ -49,6 +49,14 @@
       "onboard_time": 1740667942,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1531747,
+      "num": 1531747,
+      "word": "晴川",
+      "onboard_time": 1740747979,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 1522697,
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 1230172,
-      "num": 407830,
+      "num": 465734,
       "word": "李晨Angelababy友谊",
       "onboard_time": 1740735740,
       "rank": 10,
@@ -185,6 +193,14 @@
       "onboard_time": 1740701778,
       "rank": 1,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 896577,
+      "num": 896577,
+      "word": "上海中小学已全面实施AB制午餐模式",
+      "onboard_time": 1740744319,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 883414,
@@ -251,6 +267,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 666247,
+      "num": 466604,
+      "word": "肖战穿TODS",
+      "onboard_time": 1740747618,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 663962,
       "num": 553620,
       "word": "安宥真曾称中国结为韩国之美",
@@ -265,14 +289,6 @@
       "onboard_time": 1740664581,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 645639,
-      "num": 645639,
-      "word": "上海中小学已全面实施AB制午餐模式",
-      "onboard_time": 1740744319,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 645443,
@@ -347,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 578793,
+      "num": 578793,
+      "word": "哪吒票房",
+      "onboard_time": 1740737479,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 569021,
       "num": 569021,
       "word": "库里56分",
@@ -403,14 +427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 541280,
-      "num": 541280,
-      "word": "哪吒票房",
-      "onboard_time": 1740737479,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 537518,
       "num": 537518,
       "word": "电影7天撤档",
@@ -441,6 +457,14 @@
       "onboard_time": 1740719721,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 521653,
+      "num": 521653,
+      "word": "中国空间站将迎来首位外籍航天员",
+      "onboard_time": 1740746180,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 504592,
@@ -515,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 470680,
+      "num": 470680,
+      "word": "桑太太",
+      "onboard_time": 1740746899,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 464981,
       "num": 464981,
       "word": "中国人研究月球土特产最新成果",
@@ -571,15 +603,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 430909,
-      "num": 430909,
+      "raw_hot": 434829,
+      "num": 434829,
       "word": "七星连珠好运连连",
       "onboard_time": 1740725178,
       "rank": 7,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 425354,
+      "raw_hot": 429560,
       "num": 425354,
       "word": "刘浩存广告词 既要又要凭什么不可以",
       "onboard_time": 1740737900,
@@ -659,14 +691,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 367420,
-      "num": 393104,
-      "word": "中国空间站将迎来首位外籍航天员",
-      "onboard_time": 1740746180,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 355681,
       "num": 355681,
       "word": "金晨一天穿了4套最新季高定",
@@ -688,6 +712,14 @@
       "word": "前TVB甜妹唐宁回应满头白发",
       "onboard_time": 1740668479,
       "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 346164,
+      "num": 346164,
+      "word": "周也空气齐刘海",
+      "onboard_time": 1740746118,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -801,6 +833,22 @@
       "onboard_time": 1740715400,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 303167,
+      "num": 303167,
+      "word": "你看到的公务车可能是私家车",
+      "onboard_time": 1740747919,
+      "rank": 18,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 300454,
+      "num": 408496,
+      "word": "姐妹俩患不食人间烟火罕见病",
+      "onboard_time": 1740747858,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 299629,
@@ -1067,6 +1115,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 242115,
+      "num": 242115,
+      "word": "白敬亭卫衣",
+      "onboard_time": 1740747799,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 240784,
       "num": 240784,
       "word": "ILLIT公开应援棒",
@@ -1147,14 +1203,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 224640,
-      "num": 224640,
-      "word": "周也空气齐刘海",
-      "onboard_time": 1740746118,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 221740,
       "num": 221740,
       "word": "树下有片红房子",
@@ -1193,14 +1241,6 @@
       "onboard_time": 1740734360,
       "rank": 46,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 212591,
-      "num": 212591,
-      "word": "桑太太",
-      "onboard_time": 1740746899,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 212072,
@@ -1348,7 +1388,7 @@
     },
     {
       "raw_hot": 195247,
-      "num": 195247,
+      "num": 202094,
       "word": "徐若晗新剧酒醒后天塌了",
       "onboard_time": 1740746358,
       "rank": 40,
@@ -1369,6 +1409,14 @@
       "onboard_time": 1740706158,
       "rank": 28,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 191718,
+      "num": 191718,
+      "word": "知名电影人宋歌被判刑",
+      "onboard_time": 1740748218,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 191203,
@@ -1465,6 +1513,14 @@
       "onboard_time": 1740725659,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 184628,
+      "num": 184628,
+      "word": "魔兽世界",
+      "onboard_time": 1740746358,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 184464,
@@ -1915,6 +1971,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 154596,
+      "num": 466961,
+      "word": "台湾正研究让所有适龄女性去当兵",
+      "onboard_time": 1740748460,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 153837,
       "num": 153837,
       "word": "美俄正秘密谈判开发北极",
@@ -2017,14 +2081,6 @@
       "onboard_time": 1740649398,
       "rank": 20,
       "category": "电影"
-    },
-    {
-      "raw_hot": 150162,
-      "num": 150162,
-      "word": "魔兽世界",
-      "onboard_time": 1740746358,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 150081,
@@ -2187,6 +2243,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 140613,
+      "num": 140613,
+      "word": "小盐巴手机壳",
+      "onboard_time": 1740748640,
+      "rank": 37,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 140399,
       "num": 140399,
       "word": "AG对战KLG",
@@ -2233,6 +2297,14 @@
       "onboard_time": 1740721640,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 137622,
+      "num": 137622,
+      "word": "最强大脑",
+      "onboard_time": 1740747618,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 137309,
@@ -2403,6 +2475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126265,
+      "num": 126265,
+      "word": "微信好霸道",
+      "onboard_time": 1740749181,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125813,
       "num": 125813,
       "word": "绝区零",
@@ -2481,6 +2561,14 @@
       "onboard_time": 1740672378,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120563,
+      "num": 120563,
+      "word": "二月最后一天",
+      "onboard_time": 1740748100,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 120071,
@@ -2779,6 +2867,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 85043,
+      "num": 169151,
+      "word": "七星连珠并不罕见",
+      "onboard_time": 1740747440,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84735,
       "num": 245594,
       "word": "美乌矿产协议更多细节曝光",
@@ -2995,6 +3091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 66589,
+      "num": 228876,
+      "word": "马龙北京消防宣传片",
+      "onboard_time": 1740748881,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65675,
       "num": 65675,
       "word": "第一部只刷切片看不明白的剧",
@@ -3156,7 +3260,7 @@
     },
     {
       "raw_hot": 47210,
-      "num": 769852,
+      "num": 1155466,
       "word": "收好这份春日赏花地图攻略",
       "onboard_time": 1740742940,
       "rank": 2,
@@ -3243,14 +3347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33708,
-      "num": 169151,
-      "word": "七星连珠并不罕见",
-      "onboard_time": 1740747440,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 33689,
       "num": 173825,
       "word": "家庭版烤鱼做法",
@@ -3281,6 +3377,14 @@
       "onboard_time": 1740733398,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 30882,
+      "num": 202093,
+      "word": "七星连珠使用说明书",
+      "onboard_time": 1740749120,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 30547,
@@ -3371,6 +3475,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 17529,
+      "num": 244260,
+      "word": "微博娱乐白皮书明星榜单",
+      "onboard_time": 1740747559,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 17443,
       "num": 208189,
       "word": "爱泼斯坦首批文件深度编辑处理",
@@ -3441,6 +3553,14 @@
       "onboard_time": 1740683411,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11174,
+      "num": 202093,
+      "word": "江西上饶冒牌消防员向商户卖灭火器",
+      "onboard_time": 1740748940,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10942,

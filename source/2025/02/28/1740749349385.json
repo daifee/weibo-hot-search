@@ -1,0 +1,410 @@
+{
+  "runTime": 1740749349385,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3314885,
+        "num": 3314885,
+        "word": "七星连珠",
+        "onboard_time": 1740714259,
+        "rank": 0,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 1531747,
+        "num": 1531747,
+        "word": "晴川",
+        "onboard_time": 1740747979,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45095,
+        "num": 1155466,
+        "word": "收好这份春日赏花地图攻略",
+        "onboard_time": 1740742940,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 999869,
+        "num": 999869,
+        "word": "强奸未遂致人溺亡男子被判死刑",
+        "onboard_time": 1740742819,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 896577,
+        "num": 896577,
+        "word": "上海中小学已全面实施AB制午餐模式",
+        "onboard_time": 1740744319,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 578793,
+        "num": 578793,
+        "word": "哪吒票房",
+        "onboard_time": 1740737479,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 521653,
+        "num": 521653,
+        "word": "中国空间站将迎来首位外籍航天员",
+        "onboard_time": 1740746180,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 478308,
+        "num": 478308,
+        "word": "优酷 12集",
+        "onboard_time": 1740728358,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 470680,
+        "num": 470680,
+        "word": "桑太太",
+        "onboard_time": 1740746899,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154596,
+        "num": 466961,
+        "word": "台湾正研究让所有适龄女性去当兵",
+        "onboard_time": 1740748460,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 666247,
+        "num": 466604,
+        "word": "肖战穿TODS",
+        "onboard_time": 1740747618,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 537873,
+        "num": 466414,
+        "word": "男子患癌花40多万半张脸没了",
+        "onboard_time": 1740727939,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 465734,
+        "num": 465734,
+        "word": "李晨Angelababy友谊",
+        "onboard_time": 1740735740,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 434829,
+        "num": 434829,
+        "word": "七星连珠好运连连",
+        "onboard_time": 1740725178,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300454,
+        "num": 408496,
+        "word": "姐妹俩患不食人间烟火罕见病",
+        "onboard_time": 1740747858,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 406381,
+        "num": 406381,
+        "word": "金价大跳水了",
+        "onboard_time": 1740707118,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 360250,
+        "num": 360250,
+        "word": "全国高度近视患者超1.3亿人",
+        "onboard_time": 1740741320,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346164,
+        "num": 346164,
+        "word": "周也空气齐刘海",
+        "onboard_time": 1740746118,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303167,
+        "num": 303167,
+        "word": "你看到的公务车可能是私家车",
+        "onboard_time": 1740747919,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 17529,
+        "num": 244260,
+        "word": "微博娱乐白皮书明星榜单",
+        "onboard_time": 1740747559,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429560,
+        "num": 243803,
+        "word": "刘浩存广告词 既要又要凭什么不可以",
+        "onboard_time": 1740737900,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242115,
+        "num": 242115,
+        "word": "白敬亭卫衣",
+        "onboard_time": 1740747799,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241996,
+        "num": 241996,
+        "word": "许凯香港被偶遇",
+        "onboard_time": 1740745338,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233848,
+        "num": 233848,
+        "word": "甜馨回应变白了",
+        "onboard_time": 1740719721,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66589,
+        "num": 228876,
+        "word": "马龙北京消防宣传片",
+        "onboard_time": 1740748881,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227559,
+        "num": 227559,
+        "word": "赵丽颖杨幂迪丽热巴杨紫2024商业价值明星",
+        "onboard_time": 1740738439,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212409,
+        "num": 212409,
+        "word": "韩安冉直播切片1个月卖了800多万",
+        "onboard_time": 1740736159,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 202097,
+        "num": 202097,
+        "word": "余华英被执行死刑",
+        "onboard_time": 1740716960,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192961,
+        "num": 202094,
+        "word": "徐若晗新剧酒醒后天塌了",
+        "onboard_time": 1740746358,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11174,
+        "num": 202093,
+        "word": "江西上饶冒牌消防员向商户卖灭火器",
+        "onboard_time": 1740748940,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30882,
+        "num": 202093,
+        "word": "七星连珠使用说明书",
+        "onboard_time": 1740749120,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 202093,
+        "num": 202092,
+        "word": "南航乘客被废弃针头扎出血后陷抑郁",
+        "onboard_time": 1740728297,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191718,
+        "num": 191718,
+        "word": "知名电影人宋歌被判刑",
+        "onboard_time": 1740748218,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184628,
+        "num": 184628,
+        "word": "魔兽世界",
+        "onboard_time": 1740746358,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169024,
+        "num": 169024,
+        "word": "于正说把赵露思当自己家小孩",
+        "onboard_time": 1740734360,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157731,
+        "num": 157731,
+        "word": "3月十二星座注意事项",
+        "onboard_time": 1740744378,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155290,
+        "num": 155290,
+        "word": "鞠婧祎丁禹兮 嫁反派",
+        "onboard_time": 1740734958,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140613,
+        "num": 140613,
+        "word": "小盐巴手机壳",
+        "onboard_time": 1740748640,
+        "rank": 37,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 140316,
+        "num": 140316,
+        "word": "是狐妖小红娘亲爹我们有救了",
+        "onboard_time": 1740744499,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 85043,
+        "num": 139877,
+        "word": "七星连珠并不罕见",
+        "onboard_time": 1740747440,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139736,
+        "num": 139736,
+        "word": "树下有片红房子",
+        "onboard_time": 1740738739,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138896,
+        "num": 138896,
+        "word": "宁艺卓高洁丝",
+        "onboard_time": 1740747378,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137622,
+        "num": 137622,
+        "word": "最强大脑",
+        "onboard_time": 1740747618,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135096,
+        "num": 135096,
+        "word": "王一博电影人鱼将择机上映",
+        "onboard_time": 1740747199,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129215,
+        "num": 129215,
+        "word": "AG对战KLG",
+        "onboard_time": 1740746839,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126265,
+        "num": 126265,
+        "word": "微信好霸道",
+        "onboard_time": 1740749181,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124702,
+        "num": 124702,
+        "word": "为8岁女儿买教育险提取要等到60岁",
+        "onboard_time": 1740744619,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124003,
+        "num": 124003,
+        "word": "田曦薇新剧扛猪路透",
+        "onboard_time": 1740743778,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120563,
+        "num": 120563,
+        "word": "二月最后一天",
+        "onboard_time": 1740748100,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120425,
+        "num": 120425,
+        "word": "经纪公司拒绝董力夫妇拍孕肚照",
+        "onboard_time": 1740732679,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋进的春天#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740747535142,
+  "endTime": 1740749349385,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -563,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1531747,
+      "num": 1531747,
+      "word": "晴川",
+      "onboard_time": 1740747979,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1527188,
       "num": 1527188,
       "word": "樊A",
@@ -924,7 +932,7 @@
     },
     {
       "raw_hot": 1230172,
-      "num": 407830,
+      "num": 465734,
       "word": "李晨Angelababy友谊",
       "onboard_time": 1740735740,
       "rank": 10,
@@ -1649,6 +1657,14 @@
       "onboard_time": 1740410899,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 896577,
+      "num": 896577,
+      "word": "上海中小学已全面实施AB制午餐模式",
+      "onboard_time": 1740744319,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 889794,
@@ -2523,6 +2539,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 666247,
+      "num": 466604,
+      "word": "肖战穿TODS",
+      "onboard_time": 1740747618,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 665899,
       "num": 665899,
       "word": "小米双Ultra",
@@ -2665,14 +2689,6 @@
       "onboard_time": 1740637399,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 645639,
-      "num": 645639,
-      "word": "上海中小学已全面实施AB制午餐模式",
-      "onboard_time": 1740744319,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 645443,
@@ -3459,6 +3475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 521653,
+      "num": 521653,
+      "word": "中国空间站将迎来首位外籍航天员",
+      "onboard_time": 1740746180,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 521452,
       "num": 521452,
       "word": "毛利兰被击倒了",
@@ -3923,6 +3947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 470680,
+      "num": 470680,
+      "word": "桑太太",
+      "onboard_time": 1740746899,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 469214,
       "num": 469214,
       "word": "村里的大蒜咖啡一年卖7万杯",
@@ -4243,6 +4275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 434829,
+      "num": 434829,
+      "word": "七星连珠好运连连",
+      "onboard_time": 1740725178,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 434127,
       "num": 347867,
       "word": "58岁王祖贤现状",
@@ -4299,14 +4339,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 430909,
-      "num": 430909,
-      "word": "七星连珠好运连连",
-      "onboard_time": 1740725178,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 430512,
       "num": 430512,
       "word": "黄雅琼和王昶遗憾告负",
@@ -4328,6 +4360,14 @@
       "word": "前TVB甜妹唐宁回应满头白发",
       "onboard_time": 1740668479,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 429560,
+      "num": 425354,
+      "word": "刘浩存广告词 既要又要凭什么不可以",
+      "onboard_time": 1740737900,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -4353,14 +4393,6 @@
       "onboard_time": 1740466279,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 425354,
-      "num": 425354,
-      "word": "刘浩存广告词 既要又要凭什么不可以",
-      "onboard_time": 1740737900,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 425339,
@@ -4891,14 +4923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 367420,
-      "num": 393104,
-      "word": "中国空间站将迎来首位外籍航天员",
-      "onboard_time": 1740746180,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 367188,
       "num": 288282,
       "word": "曝赵露思将离开银河酷娱",
@@ -5145,6 +5169,14 @@
       "onboard_time": 1740366080,
       "rank": 18,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 346164,
+      "num": 346164,
+      "word": "周也空气齐刘海",
+      "onboard_time": 1740746118,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 346141,
@@ -5739,6 +5771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 303167,
+      "num": 303167,
+      "word": "你看到的公务车可能是私家车",
+      "onboard_time": 1740747919,
+      "rank": 18,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 302460,
       "num": 302460,
       "word": "林高远说我们下个赛场见",
@@ -5760,6 +5800,14 @@
       "word": "4岁女孩爱吃甜食确诊糖尿病",
       "onboard_time": 1740321562,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 300454,
+      "num": 408496,
+      "word": "姐妹俩患不食人间烟火罕见病",
+      "onboard_time": 1740747858,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -6995,6 +7043,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 242115,
+      "num": 242115,
+      "word": "白敬亭卫衣",
+      "onboard_time": 1740747799,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 241813,
       "num": 241813,
       "word": "结婚人数为何下降",
@@ -7587,14 +7643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 224640,
-      "num": 224640,
-      "word": "周也空气齐刘海",
-      "onboard_time": 1740746118,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 224571,
       "num": 226903,
       "word": "李嘉琦六姊妹杀青长文",
@@ -8089,14 +8137,6 @@
       "onboard_time": 1740474860,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 212591,
-      "num": 212591,
-      "word": "桑太太",
-      "onboard_time": 1740746899,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 212072,
@@ -8948,7 +8988,7 @@
     },
     {
       "raw_hot": 195247,
-      "num": 195247,
+      "num": 202094,
       "word": "徐若晗新剧酒醒后天塌了",
       "onboard_time": 1740746358,
       "rank": 40,
@@ -9209,6 +9249,14 @@
       "onboard_time": 1740627981,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191718,
+      "num": 191718,
+      "word": "知名电影人宋歌被判刑",
+      "onboard_time": 1740748218,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 191670,
@@ -9785,6 +9833,14 @@
       "onboard_time": 1740377303,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184628,
+      "num": 184628,
+      "word": "魔兽世界",
+      "onboard_time": 1740746358,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 184464,
@@ -12115,6 +12171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154596,
+      "num": 466961,
+      "word": "台湾正研究让所有适龄女性去当兵",
+      "onboard_time": 1740748460,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 154571,
       "num": 218889,
       "word": "米卡一年半集齐四大时装周",
@@ -12472,14 +12536,6 @@
       "word": "王者荣耀",
       "onboard_time": 1740555379,
       "rank": 47,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 150162,
-      "num": 150162,
-      "word": "魔兽世界",
-      "onboard_time": 1740746358,
-      "rank": 43,
       "category": "游戏"
     },
     {
@@ -13219,6 +13275,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 140613,
+      "num": 140613,
+      "word": "小盐巴手机壳",
+      "onboard_time": 1740748640,
+      "rank": 37,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 140487,
       "num": 140487,
       "word": "金钟仁cha了WATER",
@@ -13425,6 +13489,14 @@
       "onboard_time": 1740387201,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137622,
+      "num": 137622,
+      "word": "最强大脑",
+      "onboard_time": 1740747618,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 137590,
@@ -14179,6 +14251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126265,
+      "num": 126265,
+      "word": "微信好霸道",
+      "onboard_time": 1740749181,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 126191,
       "num": 334080,
       "word": "孙杨中国现役最大年纪游泳运动员",
@@ -14585,6 +14665,14 @@
       "onboard_time": 1740672378,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120563,
+      "num": 120563,
+      "word": "二月最后一天",
+      "onboard_time": 1740748100,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 120328,
@@ -16179,6 +16267,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 85043,
+      "num": 169151,
+      "word": "七星连珠并不罕见",
+      "onboard_time": 1740747440,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84883,
       "num": 191686,
       "word": "男子独自登山失联8天后遗体被找到",
@@ -16897,6 +16993,14 @@
       "onboard_time": 1740733041,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 66589,
+      "num": 228876,
+      "word": "马龙北京消防宣传片",
+      "onboard_time": 1740748881,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 66419,
@@ -17924,7 +18028,7 @@
     },
     {
       "raw_hot": 47210,
-      "num": 769852,
+      "num": 1155466,
       "word": "收好这份春日赏花地图攻略",
       "onboard_time": 1740742940,
       "rank": 2,
@@ -18483,14 +18587,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 33708,
-      "num": 169151,
-      "word": "七星连珠并不罕见",
-      "onboard_time": 1740747440,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 33689,
       "num": 173825,
       "word": "家庭版烤鱼做法",
@@ -18641,6 +18737,14 @@
       "onboard_time": 1740503055,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 30882,
+      "num": 202093,
+      "word": "七星连珠使用说明书",
+      "onboard_time": 1740749120,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 30636,
@@ -19491,6 +19595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 17529,
+      "num": 244260,
+      "word": "微博娱乐白皮书明星榜单",
+      "onboard_time": 1740747559,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 17443,
       "num": 208189,
       "word": "爱泼斯坦首批文件深度编辑处理",
@@ -19897,6 +20009,14 @@
       "onboard_time": 1740510251,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 11174,
+      "num": 202093,
+      "word": "江西上饶冒牌消防员向商户卖灭火器",
+      "onboard_time": 1740748940,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10982,
