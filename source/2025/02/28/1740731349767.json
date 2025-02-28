@@ -1,0 +1,410 @@
+{
+  "runTime": 1740731349767,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2099708,
+        "num": 2099708,
+        "word": "优酷 12集",
+        "onboard_time": 1740728358,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1344833,
+        "num": 1344833,
+        "word": "南航乘客被废弃针头扎出血后陷抑郁",
+        "onboard_time": 1740728297,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26007,
+        "num": 1077301,
+        "word": "田间春管科技范儿十足",
+        "onboard_time": 1740715338,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 813397,
+        "num": 813397,
+        "word": "金价大跳水了",
+        "onboard_time": 1740707118,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 727400,
+        "num": 727400,
+        "word": "下午3点到5点心情最糟糕",
+        "onboard_time": 1740725778,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 698062,
+        "num": 698062,
+        "word": "余华英被执行死刑",
+        "onboard_time": 1740716960,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 657993,
+        "num": 657993,
+        "word": "余华英执行死刑前会见了近亲属",
+        "onboard_time": 1740719300,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 558929,
+        "num": 558929,
+        "word": "小米申请小米SU7MAX商标被驳回",
+        "onboard_time": 1740728658,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 357202,
+        "num": 531160,
+        "word": "董力和妻子没求婚没婚礼",
+        "onboard_time": 1740722239,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57304,
+        "num": 510424,
+        "word": "金饰价3天跌近20元",
+        "onboard_time": 1740730517,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1418327,
+        "num": 491400,
+        "word": "男子患癌花40多万半张脸没了",
+        "onboard_time": 1740727939,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 815263,
+        "num": 455257,
+        "word": "甜馨回应变白了",
+        "onboard_time": 1740719721,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424442,
+        "num": 424442,
+        "word": "DeepSeek去AI痕迹真的很牛",
+        "onboard_time": 1740723258,
+        "rank": 12,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 346459,
+        "num": 423362,
+        "word": "花少七阵容",
+        "onboard_time": 1740721459,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57263,
+        "num": 406291,
+        "word": "女儿回应父亲打赏女主播花光27万",
+        "onboard_time": 1740730459,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 312554,
+        "num": 384194,
+        "word": "种地吧 爆哭",
+        "onboard_time": 1740719659,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306577,
+        "num": 377244,
+        "word": "Angelababy白色蕾丝Look",
+        "onboard_time": 1740728899,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 362738,
+        "num": 362738,
+        "word": "杨妞花将回老家告慰父母",
+        "onboard_time": 1740722118,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138803,
+        "num": 307963,
+        "word": "被盒猫2笑翻在沙发上",
+        "onboard_time": 1740730879,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45752,
+        "num": 296279,
+        "word": "真正的七星连珠长什么样",
+        "onboard_time": 1740730039,
+        "rank": 19,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 451457,
+        "num": 295876,
+        "word": "郑渊洁宣布和大家告别",
+        "onboard_time": 1740727699,
+        "rank": 20,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 295449,
+        "num": 295449,
+        "word": "赵露思的苹果肌",
+        "onboard_time": 1740719540,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292575,
+        "num": 292575,
+        "word": "偶遇王鹤棣新加坡逛商场",
+        "onboard_time": 1740729079,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288653,
+        "num": 288653,
+        "word": "怀孕被误诊涉事人员已被移送公安",
+        "onboard_time": 1740730517,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222236,
+        "num": 287979,
+        "word": "对张凌赫190的身高有了实感",
+        "onboard_time": 1740717442,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175597,
+        "num": 287463,
+        "word": "哪吒2连续30天单日票房TOP1",
+        "onboard_time": 1740725117,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 287448,
+        "num": 287448,
+        "word": "胡静发的长文好真诚",
+        "onboard_time": 1740726859,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80745,
+        "num": 279709,
+        "word": "男子想花200元去越南买媳妇险被骗",
+        "onboard_time": 1740730039,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91503,
+        "num": 272203,
+        "word": "成毅鞠婧祎领衔热议角色",
+        "onboard_time": 1740724460,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142808,
+        "num": 272068,
+        "word": "小鹏G6升级太多了害怕超预算",
+        "onboard_time": 1740728239,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 272042,
+        "num": 272042,
+        "word": "育儿嫂睡梦中大叫翻滚压伤婴儿",
+        "onboard_time": 1740730698,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270329,
+        "num": 270329,
+        "word": "Karsa 9哥我们火了",
+        "onboard_time": 1740726859,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 200069,
+        "num": 200069,
+        "word": "穿越",
+        "onboard_time": 1740730218,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190995,
+        "num": 190995,
+        "word": "丁禹兮虞书欣孟子义李昀锐破圈上桌",
+        "onboard_time": 1740730398,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184316,
+        "num": 184316,
+        "word": "张馨予首次米兰街头走秀",
+        "onboard_time": 1740730758,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 176968,
+        "num": 176968,
+        "word": "杨妞花说自己真的要重生了",
+        "onboard_time": 1740728178,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63269,
+        "num": 162137,
+        "word": "樊振东说开心交到新朋友",
+        "onboard_time": 1740728959,
+        "rank": 36,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 159552,
+        "num": 159552,
+        "word": "王心凌评论区成霸总直聘现场",
+        "onboard_time": 1740725659,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 155822,
+        "num": 155822,
+        "word": "带状疱疹经济负担超百亿",
+        "onboard_time": 1740726077,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148249,
+        "num": 148249,
+        "word": "七星连珠",
+        "onboard_time": 1740714259,
+        "rank": 39,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 146026,
+        "num": 146026,
+        "word": "2024年商业价值最高的10位明星",
+        "onboard_time": 1740724639,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137532,
+        "num": 137532,
+        "word": "绍伊古已抵达北京",
+        "onboard_time": 1740727820,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134677,
+        "num": 134677,
+        "word": "Angelababy36岁生日照",
+        "onboard_time": 1740708019,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133341,
+        "num": 133341,
+        "word": "网红餐厅未标过敏原致男子进ICU",
+        "onboard_time": 1740726379,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131228,
+        "num": 131228,
+        "word": "股市",
+        "onboard_time": 1740729138,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 128784,
+        "num": 128784,
+        "word": "今年的夏装已经提前上班了",
+        "onboard_time": 1740730879,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128161,
+        "num": 128161,
+        "word": "A股",
+        "onboard_time": 1740724040,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 127149,
+        "num": 127149,
+        "word": "金价为何大跳水",
+        "onboard_time": 1740707058,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 126979,
+        "num": 126979,
+        "word": "王楚钦地广",
+        "onboard_time": 1740728538,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123530,
+        "num": 123530,
+        "word": "孟子义三月有三个代言要官宣",
+        "onboard_time": 1740731299,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋进的春天#"
+    }
+  }
+}
