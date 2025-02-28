@@ -1,6 +1,6 @@
 {
   "startTime": 1740673831596,
-  "endTime": 1740714247033,
+  "endTime": 1740716885609,
   "band_list": [
     {
       "raw_hot": 2810111,
@@ -36,11 +36,27 @@
     },
     {
       "raw_hot": 1336179,
-      "num": 410317,
+      "num": 428685,
       "word": "Angelababy36岁生日照",
       "onboard_time": 1740708019,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1189385,
+      "num": 1189385,
+      "word": "陈赫贴脸开大黄磊",
+      "onboard_time": 1740714859,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1107643,
+      "num": 1107643,
+      "word": "七星连珠",
+      "onboard_time": 1740714259,
+      "rank": 3,
+      "category": "科学科普"
     },
     {
       "raw_hot": 974787,
@@ -52,7 +68,7 @@
     },
     {
       "raw_hot": 953510,
-      "num": 384905,
+      "num": 406590,
       "word": "于正说娜扎Angelababy是漂亮天花板",
       "onboard_time": 1740709398,
       "rank": 15,
@@ -65,6 +81,14 @@
       "onboard_time": 1740701778,
       "rank": 1,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 850847,
+      "num": 850847,
+      "word": "670万买到采光差的楼王终于退了",
+      "onboard_time": 1740713358,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 831624,
@@ -81,6 +105,22 @@
       "onboard_time": 1740707058,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 817577,
+      "num": 817577,
+      "word": "刘浩存不改图一次过",
+      "onboard_time": 1740713358,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 779610,
+      "num": 779610,
+      "word": "美公布爱泼斯坦案文件百页被涂黑",
+      "onboard_time": 1740713059,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 734643,
@@ -227,6 +267,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 437382,
+      "num": 437382,
+      "word": "极氪祝贺小米",
+      "onboard_time": 1740713478,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 416597,
       "num": 416597,
       "word": "麻花特开心2 沈腾马丽",
@@ -241,6 +289,14 @@
       "onboard_time": 1740707958,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 408343,
+      "num": 408343,
+      "word": "七星连珠不建议上当",
+      "onboard_time": 1740714498,
+      "rank": 14,
+      "category": "科学科普"
     },
     {
       "raw_hot": 406531,
@@ -273,14 +329,6 @@
       "onboard_time": 1740665960,
       "rank": 4,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 362944,
-      "num": 362944,
-      "word": "刘浩存不改图一次过",
-      "onboard_time": 1740713358,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 353023,
@@ -331,12 +379,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 309661,
-      "num": 309661,
-      "word": "670万买到采光差的楼王终于退了",
-      "onboard_time": 1740713358,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 304705,
+      "num": 304705,
+      "word": "种地吧第三季开播",
+      "onboard_time": 1740715400,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 278480,
@@ -347,20 +395,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 276917,
-      "num": 367283,
-      "word": "美公布爱泼斯坦案文件百页被涂黑",
-      "onboard_time": 1740713059,
-      "rank": 15,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 272687,
       "num": 168316,
       "word": "陈昊宇柳智敏边佑锡生图",
       "onboard_time": 1740673576,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 269065,
+      "num": 269065,
+      "word": "王一博新片人鱼有消息了",
+      "onboard_time": 1740712697,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 267005,
@@ -377,14 +425,6 @@
       "onboard_time": 1740712397,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 260384,
-      "num": 260384,
-      "word": "王一博新片人鱼有消息了",
-      "onboard_time": 1740712697,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 249124,
@@ -427,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 242666,
+      "num": 242666,
+      "word": "郑渊洁停止更新所有社媒",
+      "onboard_time": 1740711858,
+      "rank": 30,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 240161,
       "num": 240161,
       "word": "李惠利晒郑秀斌送的蛋糕",
@@ -457,6 +505,14 @@
       "onboard_time": 1740712098,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 229694,
+      "num": 229694,
+      "word": "港星黄百鸣涉内幕交易被证监会检控",
+      "onboard_time": 1740710179,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 227582,
@@ -491,12 +547,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 214451,
+      "num": 357723,
+      "word": "刘浩存新片演单亲妈妈",
+      "onboard_time": 1740715879,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 208669,
       "num": 208669,
       "word": "美国民众称特朗普卖金卡是笑话",
       "onboard_time": 1740670218,
       "rank": 16,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 205146,
+      "num": 205146,
+      "word": "肖战民国小公子",
+      "onboard_time": 1740715219,
+      "rank": 35,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 204883,
@@ -515,12 +587,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 202237,
-      "num": 231836,
-      "word": "郑渊洁停止更新所有社媒",
-      "onboard_time": 1740711858,
-      "rank": 30,
-      "category": "读书作家"
+      "raw_hot": 201633,
+      "num": 201633,
+      "word": "易烊千玺嘉人三月刊封面",
+      "onboard_time": 1740716120,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 199834,
@@ -531,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194981,
+      "num": 185987,
+      "word": "易烊千玺杂志",
+      "onboard_time": 1740716420,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 192884,
       "num": 194135,
       "word": "cos饺子导演的第一次见",
@@ -539,12 +619,20 @@
       "category": "艺人,美妆"
     },
     {
-      "raw_hot": 187879,
-      "num": 187879,
-      "word": "极氪祝贺小米",
-      "onboard_time": 1740713478,
-      "rank": 33,
-      "category": "汽车"
+      "raw_hot": 190002,
+      "num": 190002,
+      "word": "蔡磊现已基本依赖眼控技术交流",
+      "onboard_time": 1740716298,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189278,
+      "num": 189278,
+      "word": "凤凰传奇苏州抢票",
+      "onboard_time": 1740716420,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 186399,
@@ -553,6 +641,14 @@
       "onboard_time": 1740711138,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183223,
+      "num": 245712,
+      "word": "三月行程送达",
+      "onboard_time": 1740714318,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 183172,
@@ -603,14 +699,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 171403,
-      "num": 171403,
-      "word": "港星黄百鸣涉内幕交易被证监会检控",
-      "onboard_time": 1740710179,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 168743,
       "num": 168743,
       "word": "法国也想要乌克兰矿产",
@@ -649,6 +737,22 @@
       "onboard_time": 1740706338,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 162324,
+      "num": 308420,
+      "word": "侯明昊米兰时装周",
+      "onboard_time": 1740715879,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 159215,
+      "num": 159215,
+      "word": "妻子的浪漫旅行",
+      "onboard_time": 1740716780,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 157824,
@@ -756,7 +860,7 @@
     },
     {
       "raw_hot": 140840,
-      "num": 140840,
+      "num": 149969,
       "word": "薛之谦告别火星情报局",
       "onboard_time": 1740714017,
       "rank": 42,
@@ -963,6 +1067,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 97670,
+      "num": 245627,
+      "word": "爱泼斯坦案受害女孩超250人",
+      "onboard_time": 1740714919,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 95512,
       "num": 95512,
       "word": "上海大雾",
@@ -1027,6 +1139,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 84735,
+      "num": 245594,
+      "word": "美乌矿产协议更多细节曝光",
+      "onboard_time": 1740714919,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 84115,
       "num": 84115,
       "word": "樊振东可直接参加全运会决赛阶段单打比赛",
@@ -1083,12 +1203,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 78924,
+      "num": 150520,
+      "word": "改善血脂的坚果排行榜",
+      "onboard_time": 1740715458,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 76542,
       "num": 76542,
       "word": "周扬青自曝新恋情见光死",
       "onboard_time": 1740644239,
       "rank": 48,
       "category": "网红"
+    },
+    {
+      "raw_hot": 76189,
+      "num": 245673,
+      "word": "KPL选手曝被战队拖欠工资",
+      "onboard_time": 1740715879,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 75679,
@@ -1123,12 +1259,28 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 70918,
+      "num": 429450,
+      "word": "美乌矿产协议双方或仍存分歧",
+      "onboard_time": 1740716120,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 69746,
       "num": 69746,
       "word": "卖糖葫芦喷口水大姨道歉",
       "onboard_time": 1740698717,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66323,
+      "num": 414049,
+      "word": "成毅品牌宠儿",
+      "onboard_time": 1740714439,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 65675,
@@ -1243,6 +1395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 39657,
+      "num": 245654,
+      "word": "美国斥资10亿美元应对鸡蛋荒",
+      "onboard_time": 1740715338,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 39576,
       "num": 422244,
       "word": "看AI如何助力春耕育种",
@@ -1273,6 +1433,14 @@
       "onboard_time": 1740711978,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 25860,
+      "num": 1118797,
+      "word": "田间春管科技范儿十足",
+      "onboard_time": 1740715338,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25726,

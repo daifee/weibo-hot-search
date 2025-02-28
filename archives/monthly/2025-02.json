@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740714247033,
+  "endTime": 1740716885609,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -4076,7 +4076,7 @@
     },
     {
       "raw_hot": 1336179,
-      "num": 410317,
+      "num": 428685,
       "word": "Angelababy36岁生日照",
       "onboard_time": 1740708019,
       "rank": 30,
@@ -4987,6 +4987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1189385,
+      "num": 1189385,
+      "word": "陈赫贴脸开大黄磊",
+      "onboard_time": 1740714859,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1188045,
       "num": 612305,
       "word": "舒肤佳 李昀锐",
@@ -5513,6 +5521,14 @@
       "onboard_time": 1738481718,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1107643,
+      "num": 1107643,
+      "word": "七星连珠",
+      "onboard_time": 1740622279,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 1107173,
@@ -7092,7 +7108,7 @@
     },
     {
       "raw_hot": 953510,
-      "num": 384905,
+      "num": 406590,
       "word": "于正说娜扎Angelababy是漂亮天花板",
       "onboard_time": 1740709398,
       "rank": 15,
@@ -8211,6 +8227,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 850847,
+      "num": 850847,
+      "word": "670万买到采光差的楼王终于退了",
+      "onboard_time": 1740713358,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 850428,
       "num": 850428,
       "word": "妙瓦底电诈园区被三个国家联合打击",
@@ -8673,6 +8697,14 @@
       "onboard_time": 1739711907,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 817577,
+      "num": 817577,
+      "word": "刘浩存不改图一次过",
+      "onboard_time": 1740713358,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 817538,
@@ -9281,6 +9313,14 @@
       "onboard_time": 1739877263,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 779610,
+      "num": 779610,
+      "word": "美公布爱泼斯坦案文件百页被涂黑",
+      "onboard_time": 1740713059,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 779495,
@@ -18707,6 +18747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 437382,
+      "num": 437382,
+      "word": "极氪祝贺小米",
+      "onboard_time": 1740713478,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 436984,
       "num": 436984,
       "word": "吴宗宪大女儿代班小S",
@@ -18873,14 +18921,6 @@
       "onboard_time": 1738385598,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 432798,
-      "num": 291634,
-      "word": "七星连珠",
-      "onboard_time": 1740622279,
-      "rank": 30,
-      "category": "科学科普"
     },
     {
       "raw_hot": 432406,
@@ -19849,6 +19889,14 @@
       "onboard_time": 1738904844,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 408343,
+      "num": 408343,
+      "word": "七星连珠不建议上当",
+      "onboard_time": 1740714498,
+      "rank": 14,
+      "category": "科学科普"
     },
     {
       "raw_hot": 408179,
@@ -22096,14 +22144,6 @@
       "word": "崔漫莉回应自曝无证酒驾肇事逃逸",
       "onboard_time": 1739343020,
       "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 362944,
-      "num": 362944,
-      "word": "刘浩存不改图一次过",
-      "onboard_time": 1740713358,
-      "rank": 41,
       "category": "艺人"
     },
     {
@@ -25443,14 +25483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 309661,
-      "num": 309661,
-      "word": "670万买到采光差的楼王终于退了",
-      "onboard_time": 1740713358,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 309643,
       "num": 309643,
       "word": "徐若晗朋友圈",
@@ -25913,6 +25945,14 @@
       "onboard_time": 1738383077,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 304705,
+      "num": 304705,
+      "word": "种地吧第三季开播",
+      "onboard_time": 1740715400,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 304447,
@@ -28195,14 +28235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 276917,
-      "num": 367283,
-      "word": "美公布爱泼斯坦案文件百页被涂黑",
-      "onboard_time": 1740713059,
-      "rank": 15,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 276910,
       "num": 303973,
       "word": "世界之外",
@@ -28809,6 +28841,14 @@
       "onboard_time": 1739886082,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 269065,
+      "num": 269065,
+      "word": "王一博新片人鱼有消息了",
+      "onboard_time": 1740712697,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 269048,
@@ -29625,14 +29665,6 @@
       "onboard_time": 1739866702,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 260384,
-      "num": 260384,
-      "word": "王一博新片人鱼有消息了",
-      "onboard_time": 1740712697,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 260346,
@@ -31763,6 +31795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 242666,
+      "num": 242666,
+      "word": "郑渊洁停止更新所有社媒",
+      "onboard_time": 1740711858,
+      "rank": 30,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 242599,
       "num": 242599,
       "word": "晋江",
@@ -33489,6 +33529,14 @@
       "onboard_time": 1739498000,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 229694,
+      "num": 229694,
+      "word": "港星黄百鸣涉内幕交易被证监会检控",
+      "onboard_time": 1740710179,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 229676,
@@ -36259,6 +36307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 214451,
+      "num": 357723,
+      "word": "刘浩存新片演单亲妈妈",
+      "onboard_time": 1740715879,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 214416,
       "num": 214416,
       "word": "肖战怼脸皮肤状态",
@@ -38275,6 +38331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205146,
+      "num": 205146,
+      "word": "肖战民国小公子",
+      "onboard_time": 1740715219,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 205144,
       "num": 205144,
       "word": "云合",
@@ -39171,14 +39235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 202237,
-      "num": 231836,
-      "word": "郑渊洁停止更新所有社媒",
-      "onboard_time": 1740711858,
-      "rank": 30,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 202226,
       "num": 202226,
       "word": "李羲承机场新闻图",
@@ -39361,6 +39417,14 @@
       "onboard_time": 1740047421,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 201633,
+      "num": 201633,
+      "word": "易烊千玺嘉人三月刊封面",
+      "onboard_time": 1740716120,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 201608,
@@ -41331,6 +41395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194981,
+      "num": 185987,
+      "word": "易烊千玺杂志",
+      "onboard_time": 1740716420,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 194949,
       "num": 194949,
       "word": "陈哲远还是有点见外了",
@@ -42907,6 +42979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190002,
+      "num": 190002,
+      "word": "蔡磊现已基本依赖眼控技术交流",
+      "onboard_time": 1740716298,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189975,
       "num": 189975,
       "word": "李冰冰 这姑娘帅爆啦",
@@ -43169,6 +43249,14 @@
       "onboard_time": 1739423962,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189278,
+      "num": 189278,
+      "word": "凤凰传奇苏州抢票",
+      "onboard_time": 1740716420,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 189276,
@@ -43633,14 +43721,6 @@
       "onboard_time": 1740396019,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 187879,
-      "num": 187879,
-      "word": "极氪祝贺小米",
-      "onboard_time": 1740713478,
-      "rank": 33,
-      "category": "汽车"
     },
     {
       "raw_hot": 187870,
@@ -44993,6 +45073,14 @@
       "onboard_time": 1738825582,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 183223,
+      "num": 245712,
+      "word": "三月行程送达",
+      "onboard_time": 1740714318,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 183210,
@@ -48139,14 +48227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 171403,
-      "num": 171403,
-      "word": "港星黄百鸣涉内幕交易被证监会检控",
-      "onboard_time": 1740710179,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 171357,
       "num": 171357,
       "word": "家长让男孩站好拍照时男孩踩爆水管",
@@ -51001,6 +51081,14 @@
       "onboard_time": 1739719941,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162324,
+      "num": 308420,
+      "word": "侯明昊米兰时装周",
+      "onboard_time": 1740503115,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 162312,
@@ -57652,7 +57740,7 @@
     },
     {
       "raw_hot": 140840,
-      "num": 140840,
+      "num": 149969,
       "word": "薛之谦告别火星情报局",
       "onboard_time": 1740714017,
       "rank": 42,
@@ -68395,6 +68483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97670,
+      "num": 245627,
+      "word": "爱泼斯坦案受害女孩超250人",
+      "onboard_time": 1740714919,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 97668,
       "num": 267808,
       "word": "小鹏重回新势力销量第一",
@@ -70563,6 +70659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 84735,
+      "num": 245594,
+      "word": "美乌矿产协议更多细节曝光",
+      "onboard_time": 1740714919,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 84662,
       "num": 154248,
       "word": "乌方将向美乌基金缴纳矿产收入的50%",
@@ -71611,6 +71715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 78924,
+      "num": 150520,
+      "word": "改善血脂的坚果排行榜",
+      "onboard_time": 1740715458,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 78893,
       "num": 391299,
       "word": "全智贤美得好有生命力",
@@ -72145,6 +72257,14 @@
       "onboard_time": 1740500238,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 76189,
+      "num": 245673,
+      "word": "KPL选手曝被战队拖欠工资",
+      "onboard_time": 1740715879,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 76133,
@@ -72915,12 +73035,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 71147,
-      "num": 71147,
-      "word": "侯明昊米兰时装周",
-      "onboard_time": 1740503115,
-      "rank": 31,
-      "category": "作品衍生,时尚"
+      "raw_hot": 70918,
+      "num": 429450,
+      "word": "美乌矿产协议双方或仍存分歧",
+      "onboard_time": 1740716120,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 70888,
@@ -73713,6 +73833,14 @@
       "onboard_time": 1740662240,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 66323,
+      "num": 414049,
+      "word": "成毅品牌宠儿",
+      "onboard_time": 1740714439,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 66306,
@@ -79483,6 +79611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 39657,
+      "num": 245654,
+      "word": "美国斥资10亿美元应对鸡蛋荒",
+      "onboard_time": 1740715338,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 39651,
       "num": 39651,
       "word": "百色市联合工作组通报唐某某调查进展",
@@ -82713,6 +82849,14 @@
       "onboard_time": 1740083771,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 25860,
+      "num": 1118797,
+      "word": "田间春管科技范儿十足",
+      "onboard_time": 1740715338,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25850,

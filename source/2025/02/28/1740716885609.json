@@ -1,0 +1,410 @@
+{
+  "runTime": 1740716885609,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2373514,
+        "num": 2373514,
+        "word": "金价大跳水了",
+        "onboard_time": 1740707118,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1189385,
+        "num": 1189385,
+        "word": "陈赫贴脸开大黄磊",
+        "onboard_time": 1740714859,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25860,
+        "num": 1118797,
+        "word": "田间春管科技范儿十足",
+        "onboard_time": 1740715338,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1107643,
+        "num": 1107643,
+        "word": "七星连珠",
+        "onboard_time": 1740714259,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 850847,
+        "num": 850847,
+        "word": "670万买到采光差的楼王终于退了",
+        "onboard_time": 1740713358,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 817577,
+        "num": 817577,
+        "word": "刘浩存不改图一次过",
+        "onboard_time": 1740713358,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 779610,
+        "num": 779610,
+        "word": "美公布爱泼斯坦案文件百页被涂黑",
+        "onboard_time": 1740713059,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 444398,
+        "num": 444398,
+        "word": "顾茜茜抖音账号被禁言",
+        "onboard_time": 1740698477,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 437382,
+        "num": 437382,
+        "word": "极氪祝贺小米",
+        "onboard_time": 1740713478,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 70918,
+        "num": 429450,
+        "word": "美乌矿产协议双方或仍存分歧",
+        "onboard_time": 1740716120,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 846120,
+        "num": 428685,
+        "word": "Angelababy36岁生日照",
+        "onboard_time": 1740708019,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427666,
+        "num": 427666,
+        "word": "刘畊宏较巅峰时期掉粉854万",
+        "onboard_time": 1740707058,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66323,
+        "num": 414049,
+        "word": "成毅品牌宠儿",
+        "onboard_time": 1740714439,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410421,
+        "num": 410421,
+        "word": "金价为何大跳水",
+        "onboard_time": 1740707058,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 408343,
+        "num": 408343,
+        "word": "七星连珠不建议上当",
+        "onboard_time": 1740714498,
+        "rank": 14,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 562230,
+        "num": 406590,
+        "word": "于正说娜扎Angelababy是漂亮天花板",
+        "onboard_time": 1740709398,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237058,
+        "num": 369129,
+        "word": "库里56分",
+        "onboard_time": 1740710719,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 362476,
+        "num": 362476,
+        "word": "大侦探这案封神",
+        "onboard_time": 1740712218,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214451,
+        "num": 357723,
+        "word": "刘浩存新片演单亲妈妈",
+        "onboard_time": 1740715879,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 357529,
+        "num": 357529,
+        "word": "韩国小学生的最爱爱豆投票结果",
+        "onboard_time": 1740710657,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347745,
+        "num": 347745,
+        "word": "哪吒2配音演员起诉配音公司",
+        "onboard_time": 1740667942,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 334711,
+        "num": 334711,
+        "word": "Bin说因为bug输掉比赛",
+        "onboard_time": 1740702860,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 162324,
+        "num": 308420,
+        "word": "侯明昊米兰时装周",
+        "onboard_time": 1740715879,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 304705,
+        "num": 304705,
+        "word": "种地吧第三季开播",
+        "onboard_time": 1740715400,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269065,
+        "num": 269065,
+        "word": "王一博新片人鱼有消息了",
+        "onboard_time": 1740712697,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 231406,
+        "num": 246305,
+        "word": "女子买一斤半小番茄被路人吃掉一斤",
+        "onboard_time": 1740701419,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245723,
+        "num": 245723,
+        "word": "雷军昨晚有点失眠",
+        "onboard_time": 1740701778,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 183223,
+        "num": 245712,
+        "word": "三月行程送达",
+        "onboard_time": 1740714318,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76189,
+        "num": 245673,
+        "word": "KPL选手曝被战队拖欠工资",
+        "onboard_time": 1740715879,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 39657,
+        "num": 245654,
+        "word": "美国斥资10亿美元应对鸡蛋荒",
+        "onboard_time": 1740715338,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 97670,
+        "num": 245627,
+        "word": "爱泼斯坦案受害女孩超250人",
+        "onboard_time": 1740714919,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84735,
+        "num": 245594,
+        "word": "美乌矿产协议更多细节曝光",
+        "onboard_time": 1740714919,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 245584,
+        "num": 245584,
+        "word": "我是湖南大学生我不同意双休",
+        "onboard_time": 1740711198,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242666,
+        "num": 242666,
+        "word": "郑渊洁停止更新所有社媒",
+        "onboard_time": 1740711858,
+        "rank": 33,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 229694,
+        "num": 229694,
+        "word": "港星黄百鸣涉内幕交易被证监会检控",
+        "onboard_time": 1740710179,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205146,
+        "num": 205146,
+        "word": "肖战民国小公子",
+        "onboard_time": 1740715219,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 201633,
+        "num": 201633,
+        "word": "易烊千玺嘉人三月刊封面",
+        "onboard_time": 1740716120,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 194693,
+        "num": 194693,
+        "word": "安宥真曾称中国结为韩国之美",
+        "onboard_time": 1740705319,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190732,
+        "num": 190732,
+        "word": "小米股价",
+        "onboard_time": 1740708977,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 190002,
+        "num": 190002,
+        "word": "蔡磊现已基本依赖眼控技术交流",
+        "onboard_time": 1740716298,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189278,
+        "num": 189278,
+        "word": "凤凰传奇苏州抢票",
+        "onboard_time": 1740716420,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 194981,
+        "num": 185987,
+        "word": "易烊千玺杂志",
+        "onboard_time": 1740716420,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 159215,
+        "num": 159215,
+        "word": "妻子的浪漫旅行",
+        "onboard_time": 1740716780,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155366,
+        "num": 155366,
+        "word": "美司法部公布爱泼斯坦案首批文件",
+        "onboard_time": 1740702018,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152754,
+        "num": 152754,
+        "word": "国防部称将隆重纪念抗战胜利80周年",
+        "onboard_time": 1740712397,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 152035,
+        "num": 152035,
+        "word": "让杨子语塞的人出现了",
+        "onboard_time": 1740713478,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78924,
+        "num": 150520,
+        "word": "改善血脂的坚果排行榜",
+        "onboard_time": 1740715458,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 134605,
+        "num": 149969,
+        "word": "薛之谦告别火星情报局",
+        "onboard_time": 1740714017,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149435,
+        "num": 149435,
+        "word": "无忧传媒称与刘畊宏变为商务合作",
+        "onboard_time": 1740703459,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147647,
+        "num": 147647,
+        "word": "房东感慨房子靠自己难出租",
+        "onboard_time": 1740709219,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋进的春天#"
+    }
+  }
+}
