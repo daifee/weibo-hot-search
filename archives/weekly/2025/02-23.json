@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740731349767,
+  "endTime": 1740732151915,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -171,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2216350,
+      "num": 2216350,
+      "word": "优酷 12集",
+      "onboard_time": 1740728358,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2205143,
       "num": 2205143,
       "word": "塌房大主播集体复活",
@@ -233,14 +241,6 @@
       "onboard_time": 1740649820,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2099708,
-      "num": 2099708,
-      "word": "优酷 12集",
-      "onboard_time": 1740728358,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 2079643,
@@ -4123,6 +4123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 435672,
+      "num": 435672,
+      "word": "怀孕被误诊涉事人员已被移送公安",
+      "onboard_time": 1740730517,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 434127,
       "num": 347867,
       "word": "58岁王祖贤现状",
@@ -5171,6 +5179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 326284,
+      "num": 377244,
+      "word": "Angelababy白色蕾丝Look",
+      "onboard_time": 1740728899,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 325398,
       "num": 325398,
       "word": "泰国一巴士翻车致17人死亡",
@@ -5491,14 +5507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 306577,
-      "num": 377244,
-      "word": "Angelababy白色蕾丝Look",
-      "onboard_time": 1740728899,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 306121,
       "num": 356778,
       "word": "肖战米兰到达",
@@ -5795,14 +5803,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 288653,
-      "num": 288653,
-      "word": "怀孕被误诊涉事人员已被移送公安",
-      "onboard_time": 1740730517,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 288484,
       "num": 288484,
       "word": "吞海",
@@ -5987,6 +5987,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 281741,
+      "num": 281741,
+      "word": "育儿嫂睡梦中大叫翻滚压伤婴儿",
+      "onboard_time": 1740730698,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 281551,
       "num": 281551,
       "word": "四六级明天查分",
@@ -6105,14 +6113,6 @@
       "onboard_time": 1740673576,
       "rank": 23,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 272042,
-      "num": 272042,
-      "word": "育儿嫂睡梦中大叫翻滚压伤婴儿",
-      "onboard_time": 1740730698,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 271724,
@@ -8379,6 +8379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200247,
+      "num": 200247,
+      "word": "种地吧 藏医",
+      "onboard_time": 1740731480,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200096,
       "num": 200096,
       "word": "祝绪丹来黄明昊演唱会当站姐",
@@ -9691,6 +9699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180606,
+      "num": 180606,
+      "word": "今年的夏装已经提前上班了",
+      "onboard_time": 1740730879,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180416,
       "num": 180416,
       "word": "石矶娘娘秒变24K金矶娘娘",
@@ -10049,6 +10065,30 @@
       "onboard_time": 1740640698,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175333,
+      "num": 175333,
+      "word": "董力想公开阿诺说再等等",
+      "onboard_time": 1740731839,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 175125,
+      "num": 175125,
+      "word": "电影7天撤档",
+      "onboard_time": 1740731779,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 175044,
+      "num": 175044,
+      "word": "导演爆料掌心提档了一个月",
+      "onboard_time": 1740731658,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 175043,
@@ -10545,6 +10585,14 @@
       "onboard_time": 1740655519,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 167852,
+      "num": 167852,
+      "word": "孟子义三月有三个代言要官宣",
+      "onboard_time": 1740731299,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 167821,
@@ -11307,6 +11355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 159509,
+      "num": 510424,
+      "word": "金饰价3天跌近20元",
+      "onboard_time": 1740730517,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 159424,
       "num": 167441,
       "word": "爱德华兹被驱逐",
@@ -11504,6 +11560,14 @@
       "word": "公司在微信群通知裁员被判违法",
       "onboard_time": 1740393620,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156508,
+      "num": 406291,
+      "word": "女儿回应父亲打赏女主播花光27万",
+      "onboard_time": 1740730459,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -12260,7 +12324,7 @@
     },
     {
       "raw_hot": 146550,
-      "num": 272203,
+      "num": 284024,
       "word": "成毅鞠婧祎领衔热议角色",
       "onboard_time": 1740724460,
       "rank": 42,
@@ -12819,6 +12883,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 137309,
+      "num": 296279,
+      "word": "真正的七星连珠长什么样",
+      "onboard_time": 1740730039,
+      "rank": 19,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 137264,
       "num": 296252,
       "word": "张凌赫怎么也逃不出谢危的世界",
@@ -12953,6 +13025,14 @@
       "onboard_time": 1740269356,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135842,
+      "num": 135842,
+      "word": "相亲相到准嫂子",
+      "onboard_time": 1740731599,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 135759,
@@ -13137,6 +13217,14 @@
       "onboard_time": 1740569000,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132631,
+      "num": 132631,
+      "word": "小米SU7Ultra的杯子被抢光了",
+      "onboard_time": 1740731420,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 132597,
@@ -13377,14 +13465,6 @@
       "onboard_time": 1740669260,
       "rank": 45,
       "category": "教育"
-    },
-    {
-      "raw_hot": 128784,
-      "num": 128784,
-      "word": "今年的夏装已经提前上班了",
-      "onboard_time": 1740730879,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128647,
@@ -13721,14 +13801,6 @@
       "onboard_time": 1740725058,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 123530,
-      "num": 123530,
-      "word": "孟子义三月有三个代言要官宣",
-      "onboard_time": 1740731299,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 123269,
@@ -14089,6 +14161,14 @@
       "onboard_time": 1740236722,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116062,
+      "num": 116062,
+      "word": "中超联赛",
+      "onboard_time": 1740731539,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 115777,
@@ -16531,22 +16611,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 57304,
-      "num": 510424,
-      "word": "金饰价3天跌近20元",
-      "onboard_time": 1740730517,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 57263,
-      "num": 406291,
-      "word": "女儿回应父亲打赏女主播花光27万",
-      "onboard_time": 1740730459,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 57203,
       "num": 202019,
       "word": "王曼昱说会为国乒球队争取更多荣誉",
@@ -17153,14 +17217,6 @@
       "onboard_time": 1740481702,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 45752,
-      "num": 296279,
-      "word": "真正的七星连珠长什么样",
-      "onboard_time": 1740730039,
-      "rank": 19,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 45700,

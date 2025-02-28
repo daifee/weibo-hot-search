@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740731349767,
+  "endTime": 1740732151915,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1315,6 +1315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 2216350,
+      "num": 2216350,
+      "word": "优酷 12集",
+      "onboard_time": 1740728358,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2210988,
       "num": 646945,
       "word": "张兰回应抖音被无限期封禁",
@@ -1529,14 +1537,6 @@
       "onboard_time": 1739615661,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 2099708,
-      "num": 2099708,
-      "word": "优酷 12集",
-      "onboard_time": 1740728358,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 2095693,
@@ -18955,6 +18955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 435672,
+      "num": 435672,
+      "word": "怀孕被误诊涉事人员已被移送公安",
+      "onboard_time": 1740730517,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 435631,
       "num": 400384,
       "word": "皓衣行",
@@ -24499,6 +24507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 326284,
+      "num": 377244,
+      "word": "Angelababy白色蕾丝Look",
+      "onboard_time": 1740728899,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 326273,
       "num": 326273,
       "word": "深圳一公交车碰撞站台致2死1伤",
@@ -25945,14 +25961,6 @@
       "onboard_time": 1739678057,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 306577,
-      "num": 377244,
-      "word": "Angelababy白色蕾丝Look",
-      "onboard_time": 1740728899,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 306486,
@@ -27443,14 +27451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 288653,
-      "num": 288653,
-      "word": "怀孕被误诊涉事人员已被移送公安",
-      "onboard_time": 1740730517,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 288573,
       "num": 242430,
       "word": "哪吒2版权保护公告发布",
@@ -28049,6 +28049,14 @@
       "onboard_time": 1740578061,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 281741,
+      "num": 281741,
+      "word": "育儿嫂睡梦中大叫翻滚压伤婴儿",
+      "onboard_time": 1740730698,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 281668,
@@ -28848,14 +28856,6 @@
       "word": "被行李箱砸中致早产孕妇发声",
       "onboard_time": 1739953823,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 272042,
-      "num": 272042,
-      "word": "育儿嫂睡梦中大叫翻滚压伤婴儿",
-      "onboard_time": 1740730698,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -40195,6 +40195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200247,
+      "num": 200247,
+      "word": "种地吧 藏医",
+      "onboard_time": 1740731480,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200215,
       "num": 200215,
       "word": "苏新皓拍了灯牌",
@@ -46331,6 +46339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180606,
+      "num": 180606,
+      "word": "今年的夏装已经提前上班了",
+      "onboard_time": 1740730879,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180554,
       "num": 180554,
       "word": "上证指数",
@@ -47715,6 +47731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175333,
+      "num": 175333,
+      "word": "董力想公开阿诺说再等等",
+      "onboard_time": 1740731839,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175320,
       "num": 175320,
       "word": "看了哪吒2才知道大闹天宫的含金量",
@@ -47760,6 +47784,22 @@
       "word": "邓为新剧是灭世版涂山璟",
       "onboard_time": 1738465336,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 175125,
+      "num": 175125,
+      "word": "电影7天撤档",
+      "onboard_time": 1740731779,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 175044,
+      "num": 175044,
+      "word": "导演爆料掌心提档了一个月",
+      "onboard_time": 1740731658,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -49817,6 +49857,14 @@
       "onboard_time": 1738739182,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167852,
+      "num": 167852,
+      "word": "孟子义三月有三个代言要官宣",
+      "onboard_time": 1740731299,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 167821,
@@ -52603,6 +52651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159509,
+      "num": 510424,
+      "word": "金饰价3天跌近20元",
+      "onboard_time": 1740730517,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 159438,
       "num": 147281,
       "word": "BamBam是胡烨韬铁血单推",
@@ -53585,6 +53641,14 @@
       "onboard_time": 1738746685,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 156508,
+      "num": 406291,
+      "word": "女儿回应父亲打赏女主播花光27万",
+      "onboard_time": 1740730459,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156458,
@@ -56668,7 +56732,7 @@
     },
     {
       "raw_hot": 146550,
-      "num": 272203,
+      "num": 284024,
       "word": "成毅鞠婧祎领衔热议角色",
       "onboard_time": 1740724460,
       "rank": 42,
@@ -59371,6 +59435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 137309,
+      "num": 296279,
+      "word": "真正的七星连珠长什么样",
+      "onboard_time": 1740730039,
+      "rank": 19,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 137304,
       "num": 137304,
       "word": "今麦郎",
@@ -59857,6 +59929,14 @@
       "onboard_time": 1739493020,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 135842,
+      "num": 135842,
+      "word": "相亲相到准嫂子",
+      "onboard_time": 1740731599,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 135789,
@@ -60689,6 +60769,14 @@
       "onboard_time": 1740569000,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132631,
+      "num": 132631,
+      "word": "小米SU7Ultra的杯子被抢光了",
+      "onboard_time": 1740731420,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 132597,
@@ -61809,14 +61897,6 @@
       "onboard_time": 1739546122,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128784,
-      "num": 128784,
-      "word": "今年的夏装已经提前上班了",
-      "onboard_time": 1740730879,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128781,
@@ -63257,14 +63337,6 @@
       "onboard_time": 1739368643,
       "rank": 46,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 123530,
-      "num": 123530,
-      "word": "孟子义三月有三个代言要官宣",
-      "onboard_time": 1740731299,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 123523,
@@ -64993,6 +65065,14 @@
       "onboard_time": 1739163802,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 116062,
+      "num": 116062,
+      "word": "中超联赛",
+      "onboard_time": 1740238460,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 116060,
@@ -66929,14 +67009,6 @@
       "onboard_time": 1739603898,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 108597,
-      "num": 108597,
-      "word": "中超联赛",
-      "onboard_time": 1740238460,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 108521,
@@ -76635,14 +76707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 57304,
-      "num": 510424,
-      "word": "金饰价3天跌近20元",
-      "onboard_time": 1740730517,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 57279,
       "num": 252201,
       "word": "金智秀告黑",
@@ -76657,14 +76721,6 @@
       "onboard_time": 1738797317,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 57263,
-      "num": 406291,
-      "word": "女儿回应父亲打赏女主播花光27万",
-      "onboard_time": 1740730459,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 57203,
@@ -79225,14 +79281,6 @@
       "onboard_time": 1740481702,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 45752,
-      "num": 296279,
-      "word": "真正的七星连珠长什么样",
-      "onboard_time": 1740730039,
-      "rank": 19,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 45740,
