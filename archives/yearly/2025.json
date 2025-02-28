@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1740742573660,
+  "endTime": 1740746613214,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -1065,6 +1065,14 @@
       "onboard_time": 1737033080,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3490162,
+      "num": 3490162,
+      "word": "七星连珠",
+      "onboard_time": 1740622279,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 3475997,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1737635839,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2402372,
-      "num": 1720477,
-      "word": "小红书崩了",
-      "onboard_time": 1737014360,
-      "rank": 1,
-      "category": "互联网"
     }
   ],
   "hotgov_list": [

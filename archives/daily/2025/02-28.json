@@ -1,6 +1,6 @@
 {
   "startTime": 1740673831596,
-  "endTime": 1740742573660,
+  "endTime": 1740746613214,
   "band_list": [
     {
       "raw_hot": 8399964,
@@ -9,6 +9,14 @@
       "onboard_time": 1740716960,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 3490162,
+      "num": 3490162,
+      "word": "七星连珠",
+      "onboard_time": 1740714259,
+      "rank": 3,
+      "category": "科学科普"
     },
     {
       "raw_hot": 2810111,
@@ -75,14 +83,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1367259,
-      "num": 1367259,
-      "word": "七星连珠",
-      "onboard_time": 1740714259,
-      "rank": 3,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 1344833,
       "num": 1344833,
       "word": "南航乘客被废弃针头扎出血后陷抑郁",
@@ -113,6 +113,14 @@
       "onboard_time": 1740714859,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1265070,
+      "num": 1265070,
+      "word": "强奸未遂致人溺亡男子被判死刑",
+      "onboard_time": 1740742819,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1230172,
@@ -267,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 637270,
+      "num": 637270,
+      "word": "全国高度近视患者超1.3亿人",
+      "onboard_time": 1740741320,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 635931,
       "num": 635931,
       "word": "怀孕被误诊涉事人员已被移送公安",
@@ -377,6 +393,14 @@
       "onboard_time": 1740700037,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 541280,
+      "num": 541280,
+      "word": "哪吒票房",
+      "onboard_time": 1740737479,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 537518,
@@ -539,20 +563,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 430909,
+      "num": 430909,
+      "word": "七星连珠好运连连",
+      "onboard_time": 1740725178,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 425354,
+      "num": 425354,
+      "word": "刘浩存广告词 既要又要凭什么不可以",
+      "onboard_time": 1740737900,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 416597,
       "num": 416597,
       "word": "麻花特开心2 沈腾马丽",
       "onboard_time": 1740701238,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 413030,
-      "num": 413030,
-      "word": "刘浩存广告词 既要又要凭什么不可以",
-      "onboard_time": 1740737900,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 412837,
@@ -755,14 +787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 302759,
-      "num": 302759,
-      "word": "哪吒票房",
-      "onboard_time": 1740737479,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 299629,
       "num": 299629,
       "word": "Karsa 9哥我们火了",
@@ -785,6 +809,14 @@
       "onboard_time": 1740729079,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 286459,
+      "num": 286459,
+      "word": "上海中小学已全面实施AB制午餐模式",
+      "onboard_time": 1740744319,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 282021,
@@ -889,6 +921,14 @@
       "onboard_time": 1740719780,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 252743,
+      "num": 252743,
+      "word": "是狐妖小红娘亲爹我们有救了",
+      "onboard_time": 1740744499,
+      "rank": 21,
+      "category": "动漫"
     },
     {
       "raw_hot": 251493,
@@ -1043,6 +1083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 234072,
+      "num": 234072,
+      "word": "为8岁女儿买教育险提取要等到60岁",
+      "onboard_time": 1740744619,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 231358,
       "num": 337244,
       "word": "带货博主虚假助农敛财440多万",
@@ -1081,14 +1129,6 @@
       "onboard_time": 1740671719,
       "rank": 17,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 225068,
-      "num": 402417,
-      "word": "全国高度近视患者超1.3亿人",
-      "onboard_time": 1740741320,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 221740,
@@ -1331,6 +1371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190234,
+      "num": 190234,
+      "word": "张真源3月底将录制跑男",
+      "onboard_time": 1740745579,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189578,
       "num": 462591,
       "word": "成毅品牌宠儿",
@@ -1369,6 +1417,14 @@
       "onboard_time": 1740711138,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185964,
+      "num": 241273,
+      "word": "许凯香港被偶遇",
+      "onboard_time": 1740745338,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 185604,
@@ -1443,6 +1499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180581,
+      "num": 180581,
+      "word": "田曦薇新剧扛猪路透",
+      "onboard_time": 1740743778,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179228,
       "num": 171536,
       "word": "古偶终于有不拘小情的女性互助",
@@ -1475,12 +1539,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176924,
+      "num": 176924,
+      "word": "文在寅称中国对韩国至关重要",
+      "onboard_time": 1740742219,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 175848,
       "num": 175848,
       "word": "南航回应乘客被废弃针头扎出血",
       "onboard_time": 1740739039,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175636,
+      "num": 175636,
+      "word": "3月十二星座注意事项",
+      "onboard_time": 1740744378,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 175333,
@@ -1497,14 +1577,6 @@
       "onboard_time": 1740731658,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 172870,
-      "num": 172870,
-      "word": "文在寅称中国对韩国至关重要",
-      "onboard_time": 1740742219,
-      "rank": 27,
-      "category": "国际时政"
     },
     {
       "raw_hot": 172743,
@@ -1603,6 +1675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165935,
+      "num": 165935,
+      "word": "周也空气齐刘海",
+      "onboard_time": 1740746118,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165223,
       "num": 165223,
       "word": "余华英被执行死刑杨妞花激动落泪",
@@ -1667,6 +1747,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 161647,
+      "num": 161647,
+      "word": "杨妞花说早知道今天就不会直播带货",
+      "onboard_time": 1740743899,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160666,
       "num": 160666,
       "word": "种地吧剪辑",
@@ -1713,6 +1801,14 @@
       "onboard_time": 1740740299,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158060,
+      "num": 158060,
+      "word": "哪吒2破141亿元",
+      "onboard_time": 1740743359,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 157824,
@@ -1769,6 +1865,14 @@
       "onboard_time": 1740669739,
       "rank": 13,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 155060,
+      "num": 155060,
+      "word": "董思成和winwin都不同意开学",
+      "onboard_time": 1740742819,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 153837,
@@ -1897,6 +2001,14 @@
       "onboard_time": 1740702679,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 147929,
+      "num": 257489,
+      "word": "罗永浩评夸克取代传统搜索",
+      "onboard_time": 1740744138,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 147872,
@@ -2187,6 +2299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128661,
+      "num": 128661,
+      "word": "徐若晗新剧酒醒后天塌了",
+      "onboard_time": 1740746358,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128000,
       "num": 128000,
       "word": "桃花坞",
@@ -2259,6 +2379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123055,
+      "num": 123055,
+      "word": "哪吒2距离全球票房第7还差1亿",
+      "onboard_time": 1740742879,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 120803,
       "num": 120803,
       "word": "翟潇闻创2的含金量还在上升",
@@ -2315,6 +2443,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 117586,
+      "num": 117586,
+      "word": "魔兽世界",
+      "onboard_time": 1740746358,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 116651,
       "num": 116651,
       "word": "余华英死刑大快人心",
@@ -2332,7 +2468,7 @@
     },
     {
       "raw_hot": 115536,
-      "num": 115536,
+      "num": 169737,
       "word": "樊振东朋友圈再添一员",
       "onboard_time": 1740742280,
       "rank": 48,
@@ -2427,6 +2563,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 104997,
+      "num": 393104,
+      "word": "中国空间站将迎来首位外籍航天员",
+      "onboard_time": 1740746180,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 101800,
       "num": 604224,
       "word": "4年多次闪婚收高额彩礼被判返还",
@@ -2435,12 +2579,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100976,
+      "num": 100976,
+      "word": "鹤棣穿西装",
+      "onboard_time": 1740745458,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 97670,
       "num": 245627,
       "word": "爱泼斯坦案受害女孩超250人",
       "onboard_time": 1740714919,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 97467,
+      "num": 97467,
+      "word": "BABI马柏全",
+      "onboard_time": 1740744800,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 96649,
@@ -2465,6 +2625,14 @@
       "onboard_time": 1740682092,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94011,
+      "num": 94011,
+      "word": "华为回应Mate70Pro优享版与原版区别",
+      "onboard_time": 1740745818,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 93572,
@@ -2545,6 +2713,14 @@
       "onboard_time": 1740714919,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 84241,
+      "num": 284832,
+      "word": "十个勤天喊你一起云种地",
+      "onboard_time": 1740744078,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 84115,
@@ -2689,6 +2865,14 @@
       "onboard_time": 1740713119,
       "rank": 23,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 71503,
+      "num": 131313,
+      "word": "刘宇宁燕子京2024微博热议男角色",
+      "onboard_time": 1740744918,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 71232,
@@ -2913,6 +3097,14 @@
       "onboard_time": 1740726980,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 45954,
+      "num": 769852,
+      "word": "收好这份春日赏花地图攻略",
+      "onboard_time": 1740742940,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45040,
