@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740775150275,
+  "endTime": 1740777677461,
   "band_list": [
     {
       "raw_hot": 2475221,
@@ -483,6 +483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66476,
+      "num": 66476,
+      "word": "七星连珠 穿越时空的爱恋",
+      "onboard_time": 1740772930,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 56765,
       "num": 56765,
       "word": "杨肸子说红房子陈欢尔是人生角色",
@@ -497,14 +505,6 @@
       "onboard_time": 1740757280,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 54617,
-      "num": 46620,
-      "word": "七星连珠 穿越时空的爱恋",
-      "onboard_time": 1740772930,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 51504,
@@ -555,6 +555,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 37768,
+      "num": 120950,
+      "word": "知名电影人宋歌被判刑",
+      "onboard_time": 1740748218,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 37144,
       "num": 108426,
       "word": "偶遇王楚钦笑容藏不住了",
@@ -563,12 +571,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 36517,
-      "num": 120950,
-      "word": "知名电影人宋歌被判刑",
-      "onboard_time": 1740748218,
-      "rank": 9,
-      "category": "艺人"
+      "raw_hot": 34447,
+      "num": 34447,
+      "word": "多名环卫工对着公厕跪拜",
+      "onboard_time": 1740774131,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31635,
@@ -659,14 +667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 18476,
-      "num": 18476,
-      "word": "多名环卫工对着公厕跪拜",
-      "onboard_time": 1740774131,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 18262,
       "num": 21003,
       "word": "苏新皓彩排花絮反差感",
@@ -683,20 +683,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 14727,
+      "num": 17314,
+      "word": "2025花样滑冰世青赛",
+      "onboard_time": 1740776351,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 14533,
+      "num": 35193,
+      "word": "中方反复声明贸易战关税战没有赢家",
+      "onboard_time": 1740774371,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 11242,
+      "num": 43912,
+      "word": "外交部称中俄一直保持密切的高层交往",
+      "onboard_time": 1740777131,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 11025,
       "num": 41471,
       "word": "专家解答七星连珠真的罕见吗",
       "onboard_time": 1740773891,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10613,
-      "num": 35193,
-      "word": "中方反复声明贸易战关税战没有赢家",
-      "onboard_time": 1740774371,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 8874,
