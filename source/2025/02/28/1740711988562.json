@@ -1,0 +1,410 @@
+{
+  "runTime": 1740711988562,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2617122,
+        "num": 2617122,
+        "word": "金价大跳水了",
+        "onboard_time": 1740707118,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 870377,
+        "num": 870377,
+        "word": "顾茜茜抖音账号被禁言",
+        "onboard_time": 1740698477,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 32796,
+        "num": 830752,
+        "word": "那些你不知道的北京地儿",
+        "onboard_time": 1740655218,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 825559,
+        "num": 825559,
+        "word": "刘畊宏较巅峰时期掉粉854万",
+        "onboard_time": 1740707058,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 569021,
+        "num": 569021,
+        "word": "库里56分",
+        "onboard_time": 1740710719,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 456932,
+        "num": 456932,
+        "word": "Bin说因为bug输掉比赛",
+        "onboard_time": 1740702860,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 441947,
+        "num": 441947,
+        "word": "雷军昨晚有点失眠",
+        "onboard_time": 1740701778,
+        "rank": 6,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 416413,
+        "num": 416413,
+        "word": "金价为何大跳水",
+        "onboard_time": 1740707058,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 275236,
+        "num": 402309,
+        "word": "美司法部公布爱泼斯坦案首批文件",
+        "onboard_time": 1740702018,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 401845,
+        "num": 401845,
+        "word": "安宥真曾称中国结为韩国之美",
+        "onboard_time": 1740705319,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1264690,
+        "num": 400870,
+        "word": "Angelababy36岁生日照",
+        "onboard_time": 1740708019,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468231,
+        "num": 400843,
+        "word": "哪吒2配音演员起诉配音公司",
+        "onboard_time": 1740667942,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 412837,
+        "num": 399847,
+        "word": "偶遇林志炫在拙政园当导游",
+        "onboard_time": 1740707958,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398325,
+        "num": 398325,
+        "word": "嘘国王在冬眠",
+        "onboard_time": 1740709578,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 377272,
+        "num": 377272,
+        "word": "老伴去世4个月大爷每天去墓前看望",
+        "onboard_time": 1740705379,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 953510,
+        "num": 365615,
+        "word": "于正说娜扎Angelababy是漂亮天花板",
+        "onboard_time": 1740709398,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349157,
+        "num": 349157,
+        "word": "保时捷",
+        "onboard_time": 1740705319,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 345699,
+        "num": 345699,
+        "word": "库里逆天压哨后场三分",
+        "onboard_time": 1740709098,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260023,
+        "num": 260023,
+        "word": "无忧传媒称与刘畊宏变为商务合作",
+        "onboard_time": 1740703459,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203621,
+        "num": 247435,
+        "word": "CT 蔡徐坤",
+        "onboard_time": 1740710837,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371382,
+        "num": 247189,
+        "word": "女子买一斤半小番茄被路人吃掉一斤",
+        "onboard_time": 1740701419,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246713,
+        "num": 246713,
+        "word": "小米股价",
+        "onboard_time": 1740708977,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 244403,
+        "num": 244403,
+        "word": "我是湖南大学生我不同意双休",
+        "onboard_time": 1740711198,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 241828,
+        "num": 241828,
+        "word": "房东感慨房子靠自己难出租",
+        "onboard_time": 1740709219,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195350,
+        "num": 195350,
+        "word": "韩国小学生的最爱爱豆投票结果",
+        "onboard_time": 1740710657,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193998,
+        "num": 193998,
+        "word": "女演员遭遇中传失联学生同款剧组套路",
+        "onboard_time": 1740700037,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180340,
+        "num": 180340,
+        "word": "58岁男子胸部长拇指大疙瘩确诊乳腺癌",
+        "onboard_time": 1740705258,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175315,
+        "num": 180316,
+        "word": "梁洁也走不出白色橄榄树",
+        "onboard_time": 1740711138,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165141,
+        "num": 179719,
+        "word": "麻花特开心2 沈腾马丽",
+        "onboard_time": 1740701238,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164513,
+        "num": 179335,
+        "word": "中国人研究月球土特产最新成果",
+        "onboard_time": 1740702259,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 42832,
+        "num": 178723,
+        "word": "郑渊洁停止更新所有社媒",
+        "onboard_time": 1740711858,
+        "rank": 30,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 178464,
+        "num": 178464,
+        "word": "小米转跌",
+        "onboard_time": 1740710598,
+        "rank": 31,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 163119,
+        "num": 163119,
+        "word": "上海户籍人口平均生育年龄32.58岁",
+        "onboard_time": 1740706697,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161029,
+        "num": 162324,
+        "word": "绵柔巾不是棉柔巾",
+        "onboard_time": 1740708318,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 172846,
+        "num": 162185,
+        "word": "雷军夸保时捷",
+        "onboard_time": 1740660319,
+        "rank": 34,
+        "category": "汽车,互联网"
+      },
+      {
+        "raw_hot": 161887,
+        "num": 161887,
+        "word": "零食鲍菇螺肉主配料为福寿螺肉",
+        "onboard_time": 1740668961,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155481,
+        "num": 155481,
+        "word": "一顺风车司机被曝载客时放不雅视频",
+        "onboard_time": 1740711018,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146108,
+        "num": 146108,
+        "word": "勇士战胜魔术",
+        "onboard_time": 1740711558,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143142,
+        "num": 143142,
+        "word": "港星黄百鸣涉内幕交易被证监会检控",
+        "onboard_time": 1740710179,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136786,
+        "num": 136786,
+        "word": "偶遇靳东以为是公司领导",
+        "onboard_time": 1740671778,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134578,
+        "num": 134578,
+        "word": "369 咖哥我练好了",
+        "onboard_time": 1740706338,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132914,
+        "num": 132914,
+        "word": "小米汽车概念爆发",
+        "onboard_time": 1740711377,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 127621,
+        "num": 127621,
+        "word": "BABI机制",
+        "onboard_time": 1740711679,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125573,
+        "num": 125573,
+        "word": "李惠利晒郑秀斌送的蛋糕",
+        "onboard_time": 1740706158,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119058,
+        "num": 119058,
+        "word": "米兰偶遇孟子义宋雨琦吃川菜",
+        "onboard_time": 1740702860,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118547,
+        "num": 118547,
+        "word": "肖战米兰大衣造型",
+        "onboard_time": 1740709158,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 117927,
+        "num": 117927,
+        "word": "开春第一部暖心年代剧来了",
+        "onboard_time": 1740709999,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116754,
+        "num": 116754,
+        "word": "这些看似平常的照片可能暴露个人隐私",
+        "onboard_time": 1740700337,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112299,
+        "num": 112299,
+        "word": "A股",
+        "onboard_time": 1740708619,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 107786,
+        "num": 107786,
+        "word": "JDG发表不当言论的保安已被开除",
+        "onboard_time": 1740708259,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#种下石榴籽开出团结花#"
+    }
+  }
+}

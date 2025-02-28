@@ -1,6 +1,6 @@
 {
   "startTime": 1740673831596,
-  "endTime": 1740711436855,
+  "endTime": 1740711988562,
   "band_list": [
     {
       "raw_hot": 2810111,
@@ -51,7 +51,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 948545,
+      "raw_hot": 953510,
       "num": 384905,
       "word": "于正说娜扎Angelababy是漂亮天花板",
       "onboard_time": 1740709398,
@@ -75,8 +75,8 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 747950,
-      "num": 747950,
+      "raw_hot": 825559,
+      "num": 825559,
       "word": "刘畊宏较巅峰时期掉粉854万",
       "onboard_time": 1740707058,
       "rank": 49,
@@ -137,6 +137,14 @@
       "onboard_time": 1740655519,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 569021,
+      "num": 569021,
+      "word": "库里56分",
+      "onboard_time": 1740710719,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 542376,
@@ -211,12 +219,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 411114,
-      "num": 411114,
-      "word": "库里56分",
-      "onboard_time": 1740710719,
-      "rank": 9,
-      "category": "体育"
+      "raw_hot": 412837,
+      "num": 399847,
+      "word": "偶遇林志炫在拙政园当导游",
+      "onboard_time": 1740707958,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 406531,
@@ -235,20 +243,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 398325,
+      "num": 398325,
+      "word": "嘘国王在冬眠",
+      "onboard_time": 1740709578,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 387295,
       "num": 387295,
       "word": "小猪佩奇猪妈妈怀三胎",
       "onboard_time": 1740665960,
       "rank": 4,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 362606,
-      "num": 362606,
-      "word": "偶遇林志炫在拙政园当导游",
-      "onboard_time": 1740707958,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 353023,
@@ -265,14 +273,6 @@
       "onboard_time": 1740668479,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 347088,
-      "num": 347088,
-      "word": "嘘国王在冬眠",
-      "onboard_time": 1740709578,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 337480,
@@ -355,6 +355,14 @@
       "category": "数码,汽车"
     },
     {
+      "raw_hot": 244403,
+      "num": 244403,
+      "word": "我是湖南大学生我不同意双休",
+      "onboard_time": 1740711198,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 244177,
       "num": 244177,
       "word": "樊振东可以金卡身份参加WTT大满贯正赛",
@@ -385,14 +393,6 @@
       "onboard_time": 1740671178,
       "rank": 19,
       "category": "网红"
-    },
-    {
-      "raw_hot": 229457,
-      "num": 229457,
-      "word": "我是湖南大学生我不同意双休",
-      "onboard_time": 1740711198,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 227582,
@@ -443,8 +443,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 201398,
-      "num": 201398,
+      "raw_hot": 203621,
+      "num": 247435,
       "word": "CT 蔡徐坤",
       "onboard_time": 1740710837,
       "rank": 25,
@@ -457,6 +457,14 @@
       "onboard_time": 1740700337,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195350,
+      "num": 195350,
+      "word": "韩国小学生的最爱爱豆投票结果",
+      "onboard_time": 1740710657,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 192884,
@@ -491,20 +499,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 178464,
+      "num": 178464,
+      "word": "小米转跌",
+      "onboard_time": 1740710598,
+      "rank": 34,
+      "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 175315,
+      "num": 180316,
+      "word": "梁洁也走不出白色橄榄树",
+      "onboard_time": 1740711138,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168743,
       "num": 168743,
       "word": "法国也想要乌克兰矿产",
       "onboard_time": 1740702679,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 167666,
-      "num": 184779,
-      "word": "韩国小学生的最爱爱豆投票结果",
-      "onboard_time": 1740710657,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 164936,
@@ -529,6 +545,14 @@
       "onboard_time": 1740675436,
       "rank": 6,
       "category": "汽车,数码"
+    },
+    {
+      "raw_hot": 155481,
+      "num": 155481,
+      "word": "一顺风车司机被曝载客时放不雅视频",
+      "onboard_time": 1740711018,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155262,
@@ -571,14 +595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151978,
-      "num": 151978,
-      "word": "小米转跌",
-      "onboard_time": 1740710598,
-      "rank": 34,
-      "category": "互联网,财经"
-    },
-    {
       "raw_hot": 151871,
       "num": 151871,
       "word": "港星黄百鸣涉内幕交易被证监会检控",
@@ -609,6 +625,14 @@
       "onboard_time": 1740702679,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146108,
+      "num": 146108,
+      "word": "勇士战胜魔术",
+      "onboard_time": 1740711558,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 142859,
@@ -643,20 +667,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135239,
-      "num": 135239,
-      "word": "梁洁也走不出白色橄榄树",
-      "onboard_time": 1740711138,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 134519,
       "num": 134519,
       "word": "卡卡前妻回应离婚说他太完美了",
       "onboard_time": 1740690791,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132914,
+      "num": 132914,
+      "word": "小米汽车概念爆发",
+      "onboard_time": 1740711377,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 132180,
@@ -699,12 +723,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126278,
-      "num": 126278,
-      "word": "一顺风车司机被曝载客时放不雅视频",
-      "onboard_time": 1740711018,
+      "raw_hot": 127621,
+      "num": 127621,
+      "word": "BABI机制",
+      "onboard_time": 1740711679,
       "rank": 42,
-      "category": "民生新闻"
+      "category": "艺人"
     },
     {
       "raw_hot": 125408,
@@ -787,20 +811,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107786,
+      "num": 107786,
+      "word": "JDG发表不当言论的保安已被开除",
+      "onboard_time": 1740708259,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 107603,
       "num": 107603,
       "word": "300元一张的始祖鸟吊牌到底谁在买",
       "onboard_time": 1740652758,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 107302,
-      "num": 107302,
-      "word": "小米汽车概念爆发",
-      "onboard_time": 1740711377,
-      "rank": 49,
-      "category": "汽车"
     },
     {
       "raw_hot": 105220,
@@ -1065,6 +1089,14 @@
       "onboard_time": 1740680413,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42832,
+      "num": 178723,
+      "word": "郑渊洁停止更新所有社媒",
+      "onboard_time": 1740711858,
+      "rank": 30,
+      "category": "读书作家"
     },
     {
       "raw_hot": 40668,

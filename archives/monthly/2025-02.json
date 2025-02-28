@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740711436855,
+  "endTime": 1740711988562,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -7091,6 +7091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 953510,
+      "num": 384905,
+      "word": "于正说娜扎Angelababy是漂亮天花板",
+      "onboard_time": 1740709398,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 951518,
       "num": 951518,
       "word": "Deepseek预测有多靠谱",
@@ -7129,14 +7137,6 @@
       "onboard_time": 1740455661,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 948545,
-      "num": 384905,
-      "word": "于正说娜扎Angelababy是漂亮天花板",
-      "onboard_time": 1740709398,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 947527,
@@ -8555,6 +8555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 825559,
+      "num": 825559,
+      "word": "刘畊宏较巅峰时期掉粉854万",
+      "onboard_time": 1740707058,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 825301,
       "num": 429134,
       "word": "南宁一大桥发生交通事故多人躺地",
@@ -9769,14 +9777,6 @@
       "onboard_time": 1738823365,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 747950,
-      "num": 747950,
-      "word": "刘畊宏较巅峰时期掉粉854万",
-      "onboard_time": 1740707058,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 747824,
@@ -13905,6 +13905,14 @@
       "onboard_time": 1740492622,
       "rank": 6,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 569021,
+      "num": 569021,
+      "word": "库里56分",
+      "onboard_time": 1740710719,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 568780,
@@ -19635,6 +19643,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 412837,
+      "num": 399847,
+      "word": "偶遇林志炫在拙政园当导游",
+      "onboard_time": 1740707958,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 412493,
       "num": 412493,
       "word": "男子潜入前女友男友家找出轨证据",
@@ -19705,14 +19721,6 @@
       "onboard_time": 1740536959,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 411114,
-      "num": 411114,
-      "word": "库里56分",
-      "onboard_time": 1740710719,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 411102,
@@ -22081,14 +22089,6 @@
       "onboard_time": 1738713978,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 362606,
-      "num": 362606,
-      "word": "偶遇林志炫在拙政园当导游",
-      "onboard_time": 1740707958,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 362563,
@@ -31475,6 +31475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 244403,
+      "num": 244403,
+      "word": "我是湖南大学生我不同意双休",
+      "onboard_time": 1740711198,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 244391,
       "num": 301335,
       "word": "泽连斯基被曝仅有1小时同意美方方案",
@@ -33449,14 +33457,6 @@
       "onboard_time": 1739171840,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 229457,
-      "num": 229457,
-      "word": "我是湖南大学生我不同意双休",
-      "onboard_time": 1740711198,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 229363,
@@ -38715,6 +38715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 203621,
+      "num": 247435,
+      "word": "CT 蔡徐坤",
+      "onboard_time": 1740710837,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203620,
       "num": 203620,
       "word": "肖战一袭暗红西装",
@@ -39329,14 +39337,6 @@
       "onboard_time": 1739235801,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 201398,
-      "num": 201398,
-      "word": "CT 蔡徐坤",
-      "onboard_time": 1740710837,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 201311,
@@ -41160,6 +41160,14 @@
       "word": "linglingkwong",
       "onboard_time": 1740630441,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 195350,
+      "num": 195350,
+      "word": "韩国小学生的最爱爱豆投票结果",
+      "onboard_time": 1740710657,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -46251,6 +46259,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 178464,
+      "num": 178464,
+      "word": "小米转跌",
+      "onboard_time": 1740710598,
+      "rank": 34,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 178395,
       "num": 565586,
       "word": "我国成功发射中星10R卫星",
@@ -47041,6 +47057,14 @@
       "onboard_time": 1738560334,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 175315,
+      "num": 180316,
+      "word": "梁洁也走不出白色橄榄树",
+      "onboard_time": 1740711138,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 175297,
@@ -49145,14 +49169,6 @@
       "onboard_time": 1739112504,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 167666,
-      "num": 184779,
-      "word": "韩国小学生的最爱爱豆投票结果",
-      "onboard_time": 1740710657,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 167611,
@@ -53035,6 +53051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155481,
+      "num": 155481,
+      "word": "一顺风车司机被曝载客时放不雅视频",
+      "onboard_time": 1740711018,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155438,
       "num": 139816,
       "word": "被诬陷偷拍男子结婚了",
@@ -54017,14 +54041,6 @@
       "onboard_time": 1740452721,
       "rank": 38,
       "category": "民生新闻,电影"
-    },
-    {
-      "raw_hot": 151978,
-      "num": 151978,
-      "word": "小米转跌",
-      "onboard_time": 1740710598,
-      "rank": 34,
-      "category": "互联网,财经"
     },
     {
       "raw_hot": 151947,
@@ -55905,6 +55921,14 @@
       "onboard_time": 1738984221,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 146108,
+      "num": 146108,
+      "word": "勇士战胜魔术",
+      "onboard_time": 1740711558,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 146054,
@@ -59043,14 +59067,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 135239,
-      "num": 135239,
-      "word": "梁洁也走不出白色橄榄树",
-      "onboard_time": 1740711138,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 135184,
       "num": 135184,
       "word": "王楚钦说第一场男双赢了最重要",
@@ -59641,6 +59657,14 @@
       "onboard_time": 1738501760,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132914,
+      "num": 132914,
+      "word": "小米汽车概念爆发",
+      "onboard_time": 1740711377,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 132911,
@@ -61171,6 +61195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127621,
+      "num": 127621,
+      "word": "BABI机制",
+      "onboard_time": 1740711679,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127591,
       "num": 1708397,
       "word": "中国古人测定一年时间误差仅26秒",
@@ -61545,14 +61577,6 @@
       "onboard_time": 1739619321,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 126278,
-      "num": 126278,
-      "word": "一顺风车司机被曝载客时放不雅视频",
-      "onboard_time": 1740711018,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126264,
@@ -66075,6 +66099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 107786,
+      "num": 107786,
+      "word": "JDG发表不当言论的保安已被开除",
+      "onboard_time": 1740708259,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 107769,
       "num": 107769,
       "word": "美国一波音客机飞行中机内冒烟",
@@ -66185,14 +66217,6 @@
       "onboard_time": 1738631001,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107302,
-      "num": 107302,
-      "word": "小米汽车概念爆发",
-      "onboard_time": 1740711377,
-      "rank": 49,
-      "category": "汽车"
     },
     {
       "raw_hot": 107272,
@@ -78657,6 +78681,14 @@
       "onboard_time": 1740151941,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 42832,
+      "num": 178723,
+      "word": "郑渊洁停止更新所有社媒",
+      "onboard_time": 1740711858,
+      "rank": 30,
+      "category": "读书作家"
     },
     {
       "raw_hot": 42773,
