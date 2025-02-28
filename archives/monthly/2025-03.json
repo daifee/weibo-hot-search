@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740771357287,
+  "endTime": 1740774298700,
   "band_list": [
     {
       "raw_hot": 2475221,
@@ -507,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49991,
+      "num": 49991,
+      "word": "英国首相称必须赢得乌克兰和平",
+      "onboard_time": 1740768312,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 45883,
       "num": 45883,
       "word": "二月二你会和理发师过招吗",
@@ -531,20 +539,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 41885,
+      "num": 41885,
+      "word": "七星连珠 穿越时空的爱恋",
+      "onboard_time": 1740772930,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 39885,
       "num": 39885,
       "word": "初步举证 女性力量",
       "onboard_time": 1740764234,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 39320,
-      "num": 39320,
-      "word": "英国首相称必须赢得乌克兰和平",
-      "onboard_time": 1740768312,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 37144,
@@ -635,6 +643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 21628,
+      "num": 39334,
+      "word": "中俄是百炼成钢的真心朋友",
+      "onboard_time": 1740770711,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 21467,
       "num": 21467,
       "word": "禹事不慌张",
@@ -659,12 +675,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 13787,
-      "num": 39334,
-      "word": "中俄是百炼成钢的真心朋友",
-      "onboard_time": 1740770711,
-      "rank": 20,
-      "category": "国际时政"
+      "raw_hot": 14166,
+      "num": 17732,
+      "word": "多名环卫工对着公厕跪拜",
+      "onboard_time": 1740774131,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10426,
+      "num": 41471,
+      "word": "专家解答七星连珠真的罕见吗",
+      "onboard_time": 1740773891,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 8874,
