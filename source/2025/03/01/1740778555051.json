@@ -1,0 +1,410 @@
+{
+  "runTime": 1740778555051,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 121761,
+        "num": 176165,
+        "word": "七星连珠",
+        "onboard_time": 1740714259,
+        "rank": 0,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 86633,
+        "num": 86633,
+        "word": "吒儿龙抬头这天冲上全球第七",
+        "onboard_time": 1740762256,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 21010,
+        "num": 71873,
+        "word": "外国人上太空要先学中文了",
+        "onboard_time": 1740750801,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 70808,
+        "num": 70808,
+        "word": "七星连珠 穿越时空的爱恋",
+        "onboard_time": 1740772930,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49955,
+        "num": 49955,
+        "word": "日本米价暴涨却怪中国",
+        "onboard_time": 1740751221,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 48825,
+        "num": 48825,
+        "word": "姐妹俩患不食人间烟火罕见病",
+        "onboard_time": 1740747858,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65455,
+        "num": 48660,
+        "word": "晴川",
+        "onboard_time": 1740747979,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52757,
+        "num": 47936,
+        "word": "爱你 黄灿灿",
+        "onboard_time": 1740751879,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45396,
+        "num": 45396,
+        "word": "特朗普灵魂发问英首相",
+        "onboard_time": 1740766752,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14121,
+        "num": 44643,
+        "word": "外交部称中俄一直保持密切的高层交往",
+        "onboard_time": 1740777131,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 139201,
+        "num": 43691,
+        "word": "50岁大叔每天吃两斤花生瓜子胸部变大",
+        "onboard_time": 1740761355,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73241,
+        "num": 42930,
+        "word": "东方集团涉嫌重大财务造假",
+        "onboard_time": 1740750979,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58976,
+        "num": 42068,
+        "word": "特朗普称泽连斯基28日早抵美",
+        "onboard_time": 1740767773,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 53423,
+        "num": 41407,
+        "word": "小盐巴手机壳",
+        "onboard_time": 1740748640,
+        "rank": 13,
+        "category": "时尚,网红"
+      },
+      {
+        "raw_hot": 41061,
+        "num": 41061,
+        "word": "台湾正研究让所有适龄女性去当兵",
+        "onboard_time": 1740748460,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 40606,
+        "num": 40606,
+        "word": "文在寅最新涉华表态",
+        "onboard_time": 1740760757,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 38071,
+        "num": 38071,
+        "word": "张艺兴说成员们都年过半六十",
+        "onboard_time": 1740758238,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 37970,
+        "num": 37970,
+        "word": "死刑犯行刑前见亲属不得交流案情",
+        "onboard_time": 1740752182,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37528,
+        "num": 37528,
+        "word": "知名电影人宋歌被判刑",
+        "onboard_time": 1740748218,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37524,
+        "num": 37524,
+        "word": "多名环卫工对着公厕跪拜",
+        "onboard_time": 1740774131,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33880,
+        "num": 33880,
+        "word": "英国首相称必须赢得乌克兰和平",
+        "onboard_time": 1740768312,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 31496,
+        "num": 31496,
+        "word": "王鹤棣颁奖现场尖叫声",
+        "onboard_time": 1740761416,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31343,
+        "num": 31343,
+        "word": "男子患癌花40多万半张脸没了",
+        "onboard_time": 1740727939,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31321,
+        "num": 31321,
+        "word": "七星连珠许愿点名双子射手双鱼",
+        "onboard_time": 1740754941,
+        "rank": 23,
+        "category": "民生新闻,情感"
+      },
+      {
+        "raw_hot": 26307,
+        "num": 26307,
+        "word": "碧游村还是别欢迎我了",
+        "onboard_time": 1740758479,
+        "rank": 24,
+        "category": "综艺,动漫"
+      },
+      {
+        "raw_hot": 23938,
+        "num": 23938,
+        "word": "杨紫上身25春夏最新季高定",
+        "onboard_time": 1740751221,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23451,
+        "num": 23451,
+        "word": "哪吒2配音公司注销旗下所有企业",
+        "onboard_time": 1740761955,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23300,
+        "num": 23300,
+        "word": "中国空间站将迎来首位外籍航天员",
+        "onboard_time": 1740746180,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 23279,
+        "num": 23279,
+        "word": "二月二你会和理发师过招吗",
+        "onboard_time": 1740763575,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23040,
+        "num": 23040,
+        "word": "三月第一天",
+        "onboard_time": 1740762615,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22951,
+        "num": 22951,
+        "word": "杀害河南女法官男子已被执行死刑",
+        "onboard_time": 1740754643,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21224,
+        "num": 21224,
+        "word": "3月第一个好消息是吒儿给的",
+        "onboard_time": 1740769512,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20285,
+        "num": 20285,
+        "word": "你应该退税还是补税",
+        "onboard_time": 1740751043,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20198,
+        "num": 20198,
+        "word": "上海中小学已全面实施AB制午餐模式",
+        "onboard_time": 1740744319,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19978,
+        "num": 19978,
+        "word": "于正发了晴川",
+        "onboard_time": 1740756679,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19790,
+        "num": 19790,
+        "word": "莲花集团CEO疑似回应小米",
+        "onboard_time": 1740749720,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 18848,
+        "num": 18848,
+        "word": "李宁 王楚钦",
+        "onboard_time": 1740754819,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18804,
+        "num": 18804,
+        "word": "微信好霸道",
+        "onboard_time": 1740749181,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17321,
+        "num": 18801,
+        "word": "中俄是百炼成钢的真心朋友",
+        "onboard_time": 1740770711,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16313,
+        "num": 18791,
+        "word": "三月最幸运星座",
+        "onboard_time": 1740754221,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16101,
+        "num": 18780,
+        "word": "AG对战KLG",
+        "onboard_time": 1740746839,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 16041,
+        "num": 18777,
+        "word": "拍摄七星连珠评论区被当成许愿池",
+        "onboard_time": 1740764353,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15942,
+        "num": 18768,
+        "word": "梅西说在巴黎的两年每天都不开心",
+        "onboard_time": 1740763215,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15860,
+        "num": 18762,
+        "word": "2025花样滑冰世青赛",
+        "onboard_time": 1740776351,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15490,
+        "num": 18753,
+        "word": "李晨Angelababy友谊",
+        "onboard_time": 1740735740,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15217,
+        "num": 18737,
+        "word": "回南天",
+        "onboard_time": 1740761955,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14949,
+        "num": 18732,
+        "word": "七星连珠好运连连",
+        "onboard_time": 1740725178,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14831,
+        "num": 18723,
+        "word": "桑太太",
+        "onboard_time": 1740746899,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14559,
+        "num": 18715,
+        "word": "七星连珠穿越文",
+        "onboard_time": 1740764114,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13656,
+        "num": 18703,
+        "word": "治理高额彩礼有决心有办法",
+        "onboard_time": 1740778511,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}

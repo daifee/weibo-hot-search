@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740777677461,
+  "endTime": 1740778555051,
   "band_list": [
     {
       "raw_hot": 2475221,
@@ -459,6 +459,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 70808,
+      "num": 70808,
+      "word": "七星连珠 穿越时空的爱恋",
+      "onboard_time": 1740772930,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 69745,
       "num": 69745,
       "word": "谁懂斗罗斗破在国漫的含金量",
@@ -481,14 +489,6 @@
       "onboard_time": 1740763215,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 66476,
-      "num": 66476,
-      "word": "七星连珠 穿越时空的爱恋",
-      "onboard_time": 1740772930,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 56765,
@@ -563,20 +563,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 37524,
+      "num": 37524,
+      "word": "多名环卫工对着公厕跪拜",
+      "onboard_time": 1740774131,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37144,
       "num": 108426,
       "word": "偶遇王楚钦笑容藏不住了",
       "onboard_time": 1740762615,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 34447,
-      "num": 34447,
-      "word": "多名环卫工对着公厕跪拜",
-      "onboard_time": 1740774131,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 31635,
@@ -683,8 +683,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 14727,
-      "num": 17314,
+      "raw_hot": 15860,
+      "num": 18762,
       "word": "2025花样滑冰世青赛",
       "onboard_time": 1740776351,
       "rank": 45,
@@ -699,12 +699,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 11242,
-      "num": 43912,
+      "raw_hot": 14121,
+      "num": 44643,
       "word": "外交部称中俄一直保持密切的高层交往",
       "onboard_time": 1740777131,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 13656,
+      "num": 18703,
+      "word": "治理高额彩礼有决心有办法",
+      "onboard_time": 1740778511,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 11025,
