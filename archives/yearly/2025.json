@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1740720241782,
+  "endTime": 1740721229495,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -419,20 +419,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 8399964,
+      "num": 9538692,
+      "word": "余华英被执行死刑",
+      "onboard_time": 1740716960,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 8395718,
       "num": 2716623,
       "word": "王一博 安全扣没扣好",
       "onboard_time": 1735659686,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 8372205,
-      "num": 9538692,
-      "word": "余华英被执行死刑",
-      "onboard_time": 1740716960,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 8226159,

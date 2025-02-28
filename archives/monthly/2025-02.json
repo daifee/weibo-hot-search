@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740720241782,
+  "endTime": 1740721229495,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -187,7 +187,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 8372205,
+      "raw_hot": 8399964,
       "num": 9538692,
       "word": "余华英被执行死刑",
       "onboard_time": 1740716960,
@@ -1681,6 +1681,14 @@
       "onboard_time": 1739415438,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 2033111,
+      "num": 487062,
+      "word": "甜馨回应变白了",
+      "onboard_time": 1740719721,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2031661,
@@ -4084,7 +4092,7 @@
     },
     {
       "raw_hot": 1336179,
-      "num": 462164,
+      "num": 486310,
       "word": "Angelababy36岁生日照",
       "onboard_time": 1740708019,
       "rank": 30,
@@ -6491,14 +6499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1008234,
-      "num": 432229,
-      "word": "甜馨回应变白了",
-      "onboard_time": 1740719721,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1007552,
       "num": 1007552,
       "word": "肯德基满地垃圾无人收",
@@ -8241,6 +8241,14 @@
       "onboard_time": 1740228382,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 851739,
+      "num": 851739,
+      "word": "余华英执行死刑前会见了近亲属",
+      "onboard_time": 1740719300,
+      "rank": 15,
+      "category": "民生新闻,读书作家"
     },
     {
       "raw_hot": 851596,
@@ -12051,6 +12059,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 643745,
+      "num": 643745,
+      "word": "种地吧 爆哭",
+      "onboard_time": 1740719659,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 643271,
       "num": 394739,
       "word": "被烟花击中摘除眼球男子寻找目击者",
@@ -12384,6 +12400,14 @@
       "word": "玖月晞 白色橄榄树",
       "onboard_time": 1738757124,
       "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 631526,
+      "num": 631526,
+      "word": "桑延 鸭中之王",
+      "onboard_time": 1740719420,
+      "rank": 7,
       "category": "剧集"
     },
     {
@@ -15411,6 +15435,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 522275,
+      "num": 522275,
+      "word": "当杨妞花得知余华英被执行死刑",
+      "onboard_time": 1740719721,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 522003,
       "num": 1019870,
       "word": "医生谈郭艾伦结膜受伤",
@@ -16939,6 +16971,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 484079,
+      "num": 484079,
+      "word": "赵露思的苹果肌",
+      "onboard_time": 1740719540,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 483892,
       "num": 483892,
       "word": "迅猛龙分享考研",
@@ -17817,14 +17857,6 @@
       "onboard_time": 1740553580,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 462826,
-      "num": 434812,
-      "word": "桑延 鸭中之王",
-      "onboard_time": 1740719420,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 462772,
@@ -19283,14 +19315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 424225,
-      "num": 424225,
-      "word": "余华英执行死刑前会见了近亲属",
-      "onboard_time": 1740719300,
-      "rank": 15,
-      "category": "民生新闻,读书作家"
-    },
-    {
       "raw_hot": 424010,
       "num": 424010,
       "word": "女生父亲为催婚拆掉迎宾墙",
@@ -20483,6 +20507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 397242,
+      "num": 397242,
+      "word": "种地吧 刀我",
+      "onboard_time": 1740720319,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 397121,
       "num": 272300,
       "word": "崔漫莉",
@@ -20793,6 +20825,14 @@
       "onboard_time": 1739454563,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 392204,
+      "num": 392204,
+      "word": "奔跑吧13将在三月底录制",
+      "onboard_time": 1740719841,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 392132,
@@ -23297,14 +23337,6 @@
       "onboard_time": 1739157802,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 343945,
-      "num": 343945,
-      "word": "赵露思的苹果肌",
-      "onboard_time": 1740719540,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 343743,
@@ -30555,6 +30587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 253011,
+      "num": 253011,
+      "word": "白鹿将缺席奔跑吧首轮录制",
+      "onboard_time": 1740719780,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252954,
       "num": 301678,
       "word": "电影天堂旅行团首支长预告",
@@ -33139,14 +33179,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 233119,
-      "num": 233119,
-      "word": "奔跑吧13将在三月底录制",
-      "onboard_time": 1740719841,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 232994,
       "num": 244411,
       "word": "田志希说不去韩国就没有乒乓球生涯",
@@ -34369,14 +34401,6 @@
       "onboard_time": 1740323602,
       "rank": 41,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 225345,
-      "num": 225345,
-      "word": "当杨妞花得知余华英被执行死刑",
-      "onboard_time": 1740719721,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 225324,
@@ -35609,14 +35633,6 @@
       "onboard_time": 1740413237,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 218791,
-      "num": 218791,
-      "word": "种地吧 爆哭",
-      "onboard_time": 1740719659,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 218781,
@@ -38259,6 +38275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205888,
+      "num": 365891,
+      "word": "微博娱乐白皮书",
+      "onboard_time": 1740719841,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205842,
       "num": 452476,
       "word": "中国海军喊话菲律宾现场视频",
@@ -39577,14 +39601,6 @@
       "onboard_time": 1740368242,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 201555,
-      "num": 201555,
-      "word": "白鹿将缺席奔跑吧首轮录制",
-      "onboard_time": 1740719780,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 201554,
@@ -42915,6 +42931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190911,
+      "num": 190911,
+      "word": "桑延温以凡开始甜了",
+      "onboard_time": 1740720680,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190881,
       "num": 190881,
       "word": "爱你 柔光滤镜",
@@ -43241,6 +43265,14 @@
       "onboard_time": 1738837644,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 189681,
+      "num": 189681,
+      "word": "雷军发布会同款皮衣5分钟断货",
+      "onboard_time": 1740720619,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 189659,
@@ -44969,6 +45001,14 @@
       "onboard_time": 1738845263,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184275,
+      "num": 184812,
+      "word": "看完爱你把膻中穴按通了",
+      "onboard_time": 1740720141,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 184265,
@@ -48227,6 +48267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 172032,
+      "num": 172032,
+      "word": "永夜星河有效播放量破15亿",
+      "onboard_time": 1740720380,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171997,
       "num": 171997,
       "word": "一顺风车司机被曝载客时放不雅视频",
@@ -48273,14 +48321,6 @@
       "onboard_time": 1740582921,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 171837,
-      "num": 365891,
-      "word": "微博娱乐白皮书",
-      "onboard_time": 1740719841,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 171827,
@@ -48641,6 +48681,14 @@
       "onboard_time": 1740116180,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170332,
+      "num": 170332,
+      "word": "粉丝帮爱豆找工作成功",
+      "onboard_time": 1740720740,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 170324,
@@ -49923,6 +49971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166443,
+      "num": 166443,
+      "word": "曹斐然95后青衣",
+      "onboard_time": 1740720740,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166429,
       "num": 284940,
       "word": "特朗普称涉事军机飞行高度远超限制",
@@ -50857,6 +50913,14 @@
       "onboard_time": 1739428940,
       "rank": 38,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 163594,
+      "num": 400558,
+      "word": "特朗普说要去乌克兰挖挖挖",
+      "onboard_time": 1740718401,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 163581,
@@ -52587,14 +52651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 158113,
-      "num": 158113,
-      "word": "看完爱你把膻中穴按通了",
-      "onboard_time": 1740720141,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 158086,
       "num": 158086,
       "word": "王楚钦一箭穿心",
@@ -52857,6 +52913,14 @@
       "onboard_time": 1740712818,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157496,
+      "num": 191645,
+      "word": "这Ending pose不愧是男团出道的",
+      "onboard_time": 1740721099,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 157441,
@@ -54969,6 +55033,14 @@
       "onboard_time": 1739241200,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 150443,
+      "num": 150443,
+      "word": "种地吧陪看",
+      "onboard_time": 1740721099,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 150406,
@@ -57291,6 +57363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143261,
+      "num": 399088,
+      "word": "20元白T恤过夏天的程序员花4万买快乐",
+      "onboard_time": 1740719481,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143259,
       "num": 143259,
       "word": "腾讯回应微信接入DeepSeek",
@@ -59363,6 +59443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135759,
+      "num": 433386,
+      "word": "余华英拐卖17名儿童被执行死刑",
+      "onboard_time": 1740719242,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135746,
       "num": 135746,
       "word": "网红豹警官减肥成功",
@@ -59785,14 +59873,6 @@
       "onboard_time": 1739446406,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134058,
-      "num": 240365,
-      "word": "特朗普说要去乌克兰挖挖挖",
-      "onboard_time": 1740718401,
-      "rank": 26,
-      "category": "国际时政"
     },
     {
       "raw_hot": 134049,
@@ -62451,14 +62531,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 124299,
-      "num": 433386,
-      "word": "余华英拐卖17名儿童被执行死刑",
-      "onboard_time": 1740719242,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124287,
       "num": 481365,
       "word": "李心鹏金牌",
@@ -63369,6 +63441,14 @@
       "onboard_time": 1739271741,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121137,
+      "num": 206950,
+      "word": "甜馨说我咋可能整容",
+      "onboard_time": 1740721040,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 121120,
@@ -65705,14 +65785,6 @@
       "onboard_time": 1740298699,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 111307,
-      "num": 399088,
-      "word": "20元白T恤过夏天的程序员花4万买快乐",
-      "onboard_time": 1740719481,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111285,
@@ -73475,6 +73547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69989,
+      "num": 193649,
+      "word": "一个罕见病家庭的700天",
+      "onboard_time": 1740721040,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69942,
       "num": 69942,
       "word": "王鹤棣宋茜星河入梦领衔主演",
@@ -75177,6 +75257,14 @@
       "onboard_time": 1738752698,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60724,
+      "num": 253396,
+      "word": "沈星回这个视角好赞",
+      "onboard_time": 1740720619,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 60674,

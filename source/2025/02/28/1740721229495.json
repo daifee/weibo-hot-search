@@ -1,0 +1,410 @@
+{
+  "runTime": 1740721229495,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8399964,
+        "num": 8900229,
+        "word": "余华英被执行死刑",
+        "onboard_time": 1740716960,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1283705,
+        "num": 1283705,
+        "word": "金价大跳水了",
+        "onboard_time": 1740707118,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 34603,
+        "num": 1077773,
+        "word": "田间春管科技范儿十足",
+        "onboard_time": 1740715338,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 885804,
+        "num": 885804,
+        "word": "锦月如歌已完成换脸",
+        "onboard_time": 1740718222,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 851739,
+        "num": 851739,
+        "word": "余华英执行死刑前会见了近亲属",
+        "onboard_time": 1740719300,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 643745,
+        "num": 643745,
+        "word": "种地吧 爆哭",
+        "onboard_time": 1740719659,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 631526,
+        "num": 631526,
+        "word": "桑延 鸭中之王",
+        "onboard_time": 1740719420,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 538753,
+        "num": 538753,
+        "word": "陈赫贴脸开大黄磊",
+        "onboard_time": 1740714859,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 522275,
+        "num": 522275,
+        "word": "当杨妞花得知余华英被执行死刑",
+        "onboard_time": 1740719721,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 487206,
+        "num": 487206,
+        "word": "金价为何大跳水",
+        "onboard_time": 1740707058,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 2033111,
+        "num": 487062,
+        "word": "甜馨回应变白了",
+        "onboard_time": 1740719721,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 512667,
+        "num": 486310,
+        "word": "Angelababy36岁生日照",
+        "onboard_time": 1740708019,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 484079,
+        "num": 484079,
+        "word": "赵露思的苹果肌",
+        "onboard_time": 1740719540,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433070,
+        "num": 433070,
+        "word": "刘浩存不改图一次过",
+        "onboard_time": 1740713358,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163594,
+        "num": 400558,
+        "word": "特朗普说要去乌克兰挖挖挖",
+        "onboard_time": 1740718401,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 397242,
+        "num": 397242,
+        "word": "种地吧 刀我",
+        "onboard_time": 1740720319,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 392204,
+        "num": 392204,
+        "word": "奔跑吧13将在三月底录制",
+        "onboard_time": 1740719841,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299586,
+        "num": 299586,
+        "word": "七星连珠",
+        "onboard_time": 1740714259,
+        "rank": 17,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 143261,
+        "num": 297596,
+        "word": "20元白T恤过夏天的程序员花4万买快乐",
+        "onboard_time": 1740719481,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296472,
+        "num": 296472,
+        "word": "刘畊宏较巅峰时期掉粉854万",
+        "onboard_time": 1740707058,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283418,
+        "num": 283418,
+        "word": "670万买到采光差的楼王终于退了",
+        "onboard_time": 1740713358,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274129,
+        "num": 274129,
+        "word": "对张凌赫190的身高有了实感",
+        "onboard_time": 1740717442,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258229,
+        "num": 258229,
+        "word": "于正说娜扎Angelababy是漂亮天花板",
+        "onboard_time": 1740709398,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253842,
+        "num": 253842,
+        "word": "七星连珠不建议上当",
+        "onboard_time": 1740714498,
+        "rank": 23,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 60724,
+        "num": 253396,
+        "word": "沈星回这个视角好赞",
+        "onboard_time": 1740720619,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135759,
+        "num": 253116,
+        "word": "余华英拐卖17名儿童被执行死刑",
+        "onboard_time": 1740719242,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253011,
+        "num": 253011,
+        "word": "白鹿将缺席奔跑吧首轮录制",
+        "onboard_time": 1740719780,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230752,
+        "num": 230752,
+        "word": "美公布爱泼斯坦案文件百页被涂黑",
+        "onboard_time": 1740713059,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 222658,
+        "num": 222658,
+        "word": "娜扎完全是老公级别的",
+        "onboard_time": 1740717139,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213508,
+        "num": 213508,
+        "word": "蔡磊现已基本依赖眼控技术交流",
+        "onboard_time": 1740716298,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121137,
+        "num": 206950,
+        "word": "甜馨说我咋可能整容",
+        "onboard_time": 1740721040,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205888,
+        "num": 205888,
+        "word": "微博娱乐白皮书",
+        "onboard_time": 1740719841,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200332,
+        "num": 200332,
+        "word": "今年的车险价格变贵了",
+        "onboard_time": 1740719721,
+        "rank": 32,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 69989,
+        "num": 193649,
+        "word": "一个罕见病家庭的700天",
+        "onboard_time": 1740721040,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157496,
+        "num": 191645,
+        "word": "这Ending pose不愧是男团出道的",
+        "onboard_time": 1740721099,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190911,
+        "num": 190911,
+        "word": "桑延温以凡开始甜了",
+        "onboard_time": 1740720680,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189681,
+        "num": 189681,
+        "word": "雷军发布会同款皮衣5分钟断货",
+        "onboard_time": 1740720619,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 184275,
+        "num": 184812,
+        "word": "看完爱你把膻中穴按通了",
+        "onboard_time": 1740720141,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184744,
+        "num": 184744,
+        "word": "Bin说因为bug输掉比赛",
+        "onboard_time": 1740702860,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 60520,
+        "num": 183668,
+        "word": "美乌矿产协议双方或仍存分歧",
+        "onboard_time": 1740716120,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 183655,
+        "num": 183655,
+        "word": "原神班尼特",
+        "onboard_time": 1740718822,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148855,
+        "num": 175072,
+        "word": "滤镜剧圈DeepSeek",
+        "onboard_time": 1740719121,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172032,
+        "num": 172032,
+        "word": "永夜星河有效播放量破15亿",
+        "onboard_time": 1740720380,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170332,
+        "num": 170332,
+        "word": "粉丝帮爱豆找工作成功",
+        "onboard_time": 1740720740,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169684,
+        "num": 169684,
+        "word": "妻子的浪漫旅行",
+        "onboard_time": 1740716780,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168172,
+        "num": 168172,
+        "word": "杨妞花姐姐回应余华英死刑执行",
+        "onboard_time": 1740718222,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166443,
+        "num": 166443,
+        "word": "曹斐然95后青衣",
+        "onboard_time": 1740720740,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166242,
+        "num": 166242,
+        "word": "顾茜茜抖音账号被禁言",
+        "onboard_time": 1740698477,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 154649,
+        "num": 154649,
+        "word": "哪吒2配音演员起诉配音公司",
+        "onboard_time": 1740667942,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150443,
+        "num": 150443,
+        "word": "种地吧陪看",
+        "onboard_time": 1740721099,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋进的春天#"
+    }
+  }
+}
