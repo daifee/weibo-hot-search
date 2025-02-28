@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740764305672,
+  "endTime": 1740767504010,
   "band_list": [
     {
       "raw_hot": 2475221,
@@ -147,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 253637,
+      "num": 253637,
+      "word": "吒儿龙抬头这天冲上全球第七",
+      "onboard_time": 1740762256,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 250810,
       "num": 250810,
       "word": "碧游村还是别欢迎我了",
@@ -195,20 +203,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 203500,
-      "num": 168583,
-      "word": "吒儿龙抬头这天冲上全球第七",
-      "onboard_time": 1740762256,
-      "rank": 8,
-      "category": "电影"
-    },
-    {
       "raw_hot": 183147,
       "num": 131906,
       "word": "微信好霸道",
       "onboard_time": 1740749181,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 167136,
+      "num": 167136,
+      "word": "回南天",
+      "onboard_time": 1740761955,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158354,
@@ -240,14 +248,6 @@
       "word": "姐妹俩患不食人间烟火罕见病",
       "onboard_time": 1740747858,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 139346,
-      "num": 139346,
-      "word": "回南天",
-      "onboard_time": 1740761955,
-      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -315,6 +315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 103706,
+      "num": 103706,
+      "word": "王鹤棣颁奖现场尖叫声",
+      "onboard_time": 1740761416,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 103160,
       "num": 103160,
       "word": "刘浩存广告词 既要又要凭什么不可以",
@@ -329,14 +337,6 @@
       "onboard_time": 1740746118,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 101015,
-      "num": 95621,
-      "word": "王鹤棣颁奖现场尖叫声",
-      "onboard_time": 1740761416,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 94799,
@@ -467,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 55990,
+      "num": 55990,
+      "word": "拍摄七星连珠评论区被当成许愿池",
+      "onboard_time": 1740764353,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55609,
       "num": 55609,
       "word": "薛之谦单依纯合唱像风一样",
@@ -499,6 +507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43940,
+      "num": 43940,
+      "word": "京城大师赛",
+      "onboard_time": 1740766213,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 39885,
       "num": 39885,
       "word": "初步举证 女性力量",
@@ -523,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 28329,
+      "num": 28329,
+      "word": "民进党当局打算让女性上战场",
+      "onboard_time": 1740765074,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 27972,
       "num": 84525,
       "word": "2025CBA全明星周末",
@@ -539,12 +563,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27633,
+      "num": 99320,
+      "word": "特朗普灵魂发问英首相",
+      "onboard_time": 1740766752,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 26567,
+      "num": 26567,
+      "word": "左航连续三天给粉丝唱晚安曲",
+      "onboard_time": 1740766631,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 25908,
+      "num": 26426,
+      "word": "王鹤棣复刻打更人敲锣",
+      "onboard_time": 1740767292,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 25895,
       "num": 236713,
       "word": "证监会通报东方集团财务造假案调查进展",
       "onboard_time": 1740759918,
       "rank": 23,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 8088,
+      "num": 44931,
+      "word": "黄金牛市是否结束",
+      "onboard_time": 1740767113,
+      "rank": 24,
+      "category": "财经"
     }
   ],
   "hotgov_list": [

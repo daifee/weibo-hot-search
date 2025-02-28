@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740764305672,
+  "endTime": 1740767504010,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -6875,6 +6875,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 253637,
+      "num": 253637,
+      "word": "吒儿龙抬头这天冲上全球第七",
+      "onboard_time": 1740762256,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 253610,
       "num": 253610,
       "word": "李兰迪气色",
@@ -8753,14 +8761,6 @@
       "onboard_time": 1740710837,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 203500,
-      "num": 168583,
-      "word": "吒儿龙抬头这天冲上全球第七",
-      "onboard_time": 1740762256,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 203477,
@@ -11363,6 +11363,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 167136,
+      "num": 167136,
+      "word": "回南天",
+      "onboard_time": 1740761955,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167129,
       "num": 167129,
       "word": "横纹肌溶解综合征",
@@ -13651,14 +13659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 139346,
-      "num": 139346,
-      "word": "回南天",
-      "onboard_time": 1740761955,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 139290,
       "num": 139290,
       "word": "朱兆祥和儿子蛐蛐胡静",
@@ -15875,6 +15875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103706,
+      "num": 103706,
+      "word": "王鹤棣颁奖现场尖叫声",
+      "onboard_time": 1740761416,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 103650,
       "num": 103650,
       "word": "痛经艾灸",
@@ -15977,14 +15985,6 @@
       "onboard_time": 1740264192,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 101015,
-      "num": 95621,
-      "word": "王鹤棣颁奖现场尖叫声",
-      "onboard_time": 1740761416,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 100976,
@@ -17955,6 +17955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 55990,
+      "num": 55990,
+      "word": "拍摄七星连珠评论区被当成许愿池",
+      "onboard_time": 1740764353,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55671,
       "num": 55671,
       "word": "敖丙传",
@@ -18625,6 +18633,14 @@
       "onboard_time": 1740637819,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43940,
+      "num": 43940,
+      "word": "京城大师赛",
+      "onboard_time": 1740766213,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 43884,
@@ -19347,6 +19363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 28329,
+      "num": 28329,
+      "word": "民进党当局打算让女性上战场",
+      "onboard_time": 1740765074,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 28288,
       "num": 210817,
       "word": "25年是AI眼镜元年吗",
@@ -19459,6 +19483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27633,
+      "num": 99320,
+      "word": "特朗普灵魂发问英首相",
+      "onboard_time": 1740766752,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 27580,
       "num": 334506,
       "word": "哪吒版考研查分表情包",
@@ -19539,6 +19571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26567,
+      "num": 26567,
+      "word": "左航连续三天给粉丝唱晚安曲",
+      "onboard_time": 1740766631,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26556,
       "num": 262231,
       "word": "离异女性对冷冻胚胎是否有处置权",
@@ -19577,6 +19617,14 @@
       "onboard_time": 1740544282,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25908,
+      "num": 26426,
+      "word": "王鹤棣复刻打更人敲锣",
+      "onboard_time": 1740767292,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 25895,
@@ -20729,6 +20777,14 @@
       "onboard_time": 1740249252,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 8088,
+      "num": 44931,
+      "word": "黄金牛市是否结束",
+      "onboard_time": 1740767113,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 7995,
