@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740781306070,
+  "endTime": 1740782384323,
   "band_list": [
     {
       "raw_hot": 2475221,
@@ -251,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138245,
+      "num": 65621,
+      "word": "特朗普称泽连斯基28日早抵美",
+      "onboard_time": 1740767773,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 134932,
       "num": 134932,
       "word": "莲花集团CEO疑似回应小米",
@@ -267,6 +275,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 125386,
+      "num": 125386,
+      "word": "七星连珠 穿越时空的爱恋",
+      "onboard_time": 1740772930,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122940,
       "num": 122940,
       "word": "MLB 邓为",
@@ -281,6 +297,14 @@
       "onboard_time": 1740750801,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 115730,
+      "num": 89340,
+      "word": "刘畊宏谈流量下降",
+      "onboard_time": 1740779591,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 109155,
@@ -305,14 +329,6 @@
       "onboard_time": 1740755240,
       "rank": 35,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 105354,
-      "num": 105354,
-      "word": "七星连珠 穿越时空的爱恋",
-      "onboard_time": 1740772930,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 104792,
@@ -345,14 +361,6 @@
       "onboard_time": 1740746118,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 96237,
-      "num": 58129,
-      "word": "特朗普称泽连斯基28日早抵美",
-      "onboard_time": 1740767773,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 94799,
@@ -491,12 +499,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 66099,
-      "num": 55962,
-      "word": "刘畊宏谈流量下降",
-      "onboard_time": 1740779591,
-      "rank": 14,
-      "category": "艺人"
+      "raw_hot": 67255,
+      "num": 67255,
+      "word": "治理高额彩礼有决心有办法",
+      "onboard_time": 1740778511,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 58430,
+      "num": 58430,
+      "word": "多名环卫工对着公厕跪拜",
+      "onboard_time": 1740774131,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56765,
@@ -531,11 +547,19 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 47924,
-      "num": 47924,
-      "word": "多名环卫工对着公厕跪拜",
-      "onboard_time": 1740774131,
-      "rank": 49,
+      "raw_hot": 47746,
+      "num": 120950,
+      "word": "知名电影人宋歌被判刑",
+      "onboard_time": 1740748218,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 46361,
+      "num": 46361,
+      "word": "央视用9年跟拍一群长跑少年",
+      "onboard_time": 1740781032,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -545,14 +569,6 @@
       "onboard_time": 1740763575,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45133,
-      "num": 45133,
-      "word": "治理高额彩礼有决心有办法",
-      "onboard_time": 1740778511,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 45086,
@@ -571,28 +587,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 39885,
-      "num": 39885,
-      "word": "初步举证 女性力量",
-      "onboard_time": 1740764234,
-      "rank": 49,
-      "category": "电影"
+      "raw_hot": 43247,
+      "num": 43247,
+      "word": "女子手麻跑错3科室靠DeepSeek找对医生",
+      "onboard_time": 1740780613,
+      "rank": 44,
+      "category": "健康医疗,互联网"
     },
     {
-      "raw_hot": 37977,
-      "num": 37977,
+      "raw_hot": 41512,
+      "num": 41512,
       "word": "3月第一个好消息是吒儿给的",
       "onboard_time": 1740769512,
       "rank": 31,
       "category": "电影"
     },
     {
-      "raw_hot": 37768,
-      "num": 120950,
-      "word": "知名电影人宋歌被判刑",
-      "onboard_time": 1740748218,
-      "rank": 9,
-      "category": "艺人"
+      "raw_hot": 39885,
+      "num": 39885,
+      "word": "初步举证 女性力量",
+      "onboard_time": 1740764234,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 37144,
@@ -691,14 +707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 17538,
-      "num": 21619,
-      "word": "女子手麻跑错3科室靠DeepSeek找对医生",
-      "onboard_time": 1740780613,
-      "rank": 44,
-      "category": "健康医疗,互联网"
-    },
-    {
       "raw_hot": 16245,
       "num": 72114,
       "word": "建议用法治保障特定群体出行无碍",
@@ -723,20 +731,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 14312,
-      "num": 37468,
-      "word": "央视用9年跟拍一群长跑少年",
-      "onboard_time": 1740781032,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 14121,
       "num": 44643,
       "word": "外交部称中俄一直保持密切的高层交往",
       "onboard_time": 1740777131,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 11739,
+      "num": 41683,
+      "word": "得知余华英被执行死刑杨妞花哽咽",
+      "onboard_time": 1740776890,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11025,
