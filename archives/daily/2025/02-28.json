@@ -1,6 +1,6 @@
 {
   "startTime": 1740673831596,
-  "endTime": 1740741575810,
+  "endTime": 1740742573660,
   "band_list": [
     {
       "raw_hot": 8399964,
@@ -59,12 +59,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1469475,
+      "num": 1469475,
+      "word": "男子买猪脚多打一个0转账34万被拉黑",
+      "onboard_time": 1740740719,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1418327,
       "num": 491400,
       "word": "男子患癌花40多万半张脸没了",
       "onboard_time": 1740727939,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1367259,
+      "num": 1367259,
+      "word": "七星连珠",
+      "onboard_time": 1740714259,
+      "rank": 3,
+      "category": "科学科普"
     },
     {
       "raw_hot": 1344833,
@@ -100,7 +116,7 @@
     },
     {
       "raw_hot": 1230172,
-      "num": 399999,
+      "num": 407830,
       "word": "李晨Angelababy友谊",
       "onboard_time": 1740735740,
       "rank": 10,
@@ -121,14 +137,6 @@
       "onboard_time": 1740725778,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1107643,
-      "num": 1107643,
-      "word": "七星连珠",
-      "onboard_time": 1740714259,
-      "rank": 3,
-      "category": "科学科普"
     },
     {
       "raw_hot": 974787,
@@ -523,12 +531,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 420872,
-      "num": 420872,
-      "word": "男子买猪脚多打一个0转账34万被拉黑",
-      "onboard_time": 1740740719,
-      "rank": 8,
-      "category": "民生新闻"
+      "raw_hot": 435312,
+      "num": 435312,
+      "word": "赵丽颖杨幂迪丽热巴杨紫2024商业价值明星",
+      "onboard_time": 1740738439,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 416597,
@@ -539,19 +547,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 413030,
+      "num": 413030,
+      "word": "刘浩存广告词 既要又要凭什么不可以",
+      "onboard_time": 1740737900,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 412837,
       "num": 399847,
       "word": "偶遇林志炫在拙政园当导游",
       "onboard_time": 1740707958,
       "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 407749,
-      "num": 407749,
-      "word": "赵丽颖杨幂迪丽热巴杨紫2024商业价值明星",
-      "onboard_time": 1740738439,
-      "rank": 19,
       "category": "艺人"
     },
     {
@@ -1075,6 +1083,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 225068,
+      "num": 402417,
+      "word": "全国高度近视患者超1.3亿人",
+      "onboard_time": 1740741320,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 221740,
+      "num": 221740,
+      "word": "树下有片红房子",
+      "onboard_time": 1740738739,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220564,
       "num": 433498,
       "word": "杨妞花姐姐回应余华英死刑执行",
@@ -1088,14 +1112,6 @@
       "word": "赵丽颖2024微博品质度TOP1",
       "onboard_time": 1740726617,
       "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 216106,
-      "num": 216106,
-      "word": "刘浩存广告词 既要又要凭什么不可以",
-      "onboard_time": 1740737900,
-      "rank": 46,
       "category": "艺人"
     },
     {
@@ -1299,6 +1315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190715,
+      "num": 174051,
+      "word": "被打赏27万女主播已下架所有作品",
+      "onboard_time": 1740737719,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190383,
       "num": 190383,
       "word": "檀健次演8集be了2次",
@@ -1321,14 +1345,6 @@
       "onboard_time": 1740716420,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 188121,
-      "num": 188121,
-      "word": "树下有片红房子",
-      "onboard_time": 1740738739,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 187344,
@@ -1403,6 +1419,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 181734,
+      "num": 181734,
+      "word": "EDG胜决对阵G2",
+      "onboard_time": 1740741799,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 181383,
       "num": 145617,
       "word": "老人退休金9000多元家中却垃圾成山",
@@ -1473,6 +1497,14 @@
       "onboard_time": 1740731658,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172870,
+      "num": 172870,
+      "word": "文在寅称中国对韩国至关重要",
+      "onboard_time": 1740742219,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 172743,
@@ -1723,14 +1755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 156847,
-      "num": 156847,
-      "word": "被打赏27万女主播已下架所有作品",
-      "onboard_time": 1740737719,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 156356,
       "num": 156356,
       "word": "今年好看到熬夜的小说",
@@ -1755,6 +1779,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 153262,
+      "num": 153262,
+      "word": "王一博告别2月一支库存",
+      "onboard_time": 1740741740,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153171,
       "num": 153171,
       "word": "伍声 小楼",
@@ -1777,6 +1809,14 @@
       "onboard_time": 1740724818,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152457,
+      "num": 222461,
+      "word": "檀健次米兰九宫格视频",
+      "onboard_time": 1740739639,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 152445,
@@ -1859,6 +1899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 147872,
+      "num": 147872,
+      "word": "华晨宇演唱会二获德国iF设计奖",
+      "onboard_time": 1740741618,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 147820,
       "num": 193155,
       "word": "在无声的世界里温暖不期而遇",
@@ -1913,6 +1961,14 @@
       "onboard_time": 1740719481,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142989,
+      "num": 142989,
+      "word": "开始推理吧发布会",
+      "onboard_time": 1740741498,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 142859,
@@ -2131,14 +2187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 128792,
-      "num": 128792,
-      "word": "开始推理吧发布会",
-      "onboard_time": 1740741498,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 128000,
       "num": 128000,
       "word": "桃花坞",
@@ -2185,6 +2233,14 @@
       "onboard_time": 1740739220,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125162,
+      "num": 125162,
+      "word": "阅文IP盛典",
+      "onboard_time": 1740742039,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 123615,
@@ -2271,6 +2327,14 @@
       "num": 116062,
       "word": "中超联赛",
       "onboard_time": 1740731539,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 115536,
+      "num": 115536,
+      "word": "樊振东朋友圈再添一员",
+      "onboard_time": 1740742280,
       "rank": 48,
       "category": "体育"
     },
@@ -2419,14 +2483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 91515,
-      "num": 194178,
-      "word": "全国高度近视患者超1.3亿人",
-      "onboard_time": 1740741320,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91035,
       "num": 91035,
       "word": "2025已过2个月",
@@ -2529,6 +2585,14 @@
       "onboard_time": 1740670279,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 80807,
+      "num": 135079,
+      "word": "加拿大华人实探王祖贤艾灸店",
+      "onboard_time": 1740742519,
+      "rank": 39,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 80745,
@@ -2664,6 +2728,14 @@
       "word": "卖糖葫芦喷口水大姨道歉",
       "onboard_time": 1740698717,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69684,
+      "num": 216158,
+      "word": "建议适当延长父母育儿假",
+      "onboard_time": 1740740719,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2867,6 +2939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 41001,
+      "num": 332371,
+      "word": "金价震荡是否是投资的好时机",
+      "onboard_time": 1740740659,
+      "rank": 14,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 40668,
       "num": 92206,
       "word": "宝可梦29周年",
@@ -2913,14 +2993,6 @@
       "onboard_time": 1740726980,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 33290,
-      "num": 332371,
-      "word": "金价震荡是否是投资的好时机",
-      "onboard_time": 1740740659,
-      "rank": 14,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 33127,
@@ -2993,14 +3065,6 @@
       "onboard_time": 1740679153,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 24064,
-      "num": 216158,
-      "word": "建议适当延长父母育儿假",
-      "onboard_time": 1740740719,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22618,
