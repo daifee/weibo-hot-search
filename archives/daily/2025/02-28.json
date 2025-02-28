@@ -1,7 +1,15 @@
 {
   "startTime": 1740673831596,
-  "endTime": 1740717729814,
+  "endTime": 1740720241782,
   "band_list": [
+    {
+      "raw_hot": 8372205,
+      "num": 9538692,
+      "word": "余华英被执行死刑",
+      "onboard_time": 1740716960,
+      "rank": 1,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 2810111,
       "num": 2810111,
@@ -9,14 +17,6 @@
       "onboard_time": 1740707118,
       "rank": 5,
       "category": "财经"
-    },
-    {
-      "raw_hot": 2069981,
-      "num": 2069981,
-      "word": "余华英被执行死刑",
-      "onboard_time": 1740716960,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1564084,
@@ -67,6 +67,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 1008234,
+      "num": 432229,
+      "word": "甜馨回应变白了",
+      "onboard_time": 1740719721,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 974787,
       "num": 861562,
       "word": "无忧传媒称与刘畊宏变为商务合作",
@@ -89,6 +97,14 @@
       "onboard_time": 1740713358,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 926608,
+      "num": 926608,
+      "word": "锦月如歌已完成换脸",
+      "onboard_time": 1740718222,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 901535,
@@ -275,6 +291,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 462826,
+      "num": 434812,
+      "word": "桑延 鸭中之王",
+      "onboard_time": 1740719420,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 462772,
       "num": 298554,
       "word": "女子买一斤半小番茄被路人吃掉一斤",
@@ -289,6 +313,14 @@
       "onboard_time": 1740713478,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 424225,
+      "num": 424225,
+      "word": "余华英执行死刑前会见了近亲属",
+      "onboard_time": 1740719300,
+      "rank": 15,
+      "category": "民生新闻,读书作家"
     },
     {
       "raw_hot": 416597,
@@ -355,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 343945,
+      "num": 343945,
+      "word": "赵露思的苹果肌",
+      "onboard_time": 1740719540,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 337480,
       "num": 230321,
       "word": "薛小婉怒斥韩安冉",
@@ -385,6 +425,14 @@
       "onboard_time": 1740661820,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 319066,
+      "num": 319066,
+      "word": "对张凌赫190的身高有了实感",
+      "onboard_time": 1740717442,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 312167,
@@ -451,6 +499,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250098,
+      "num": 425372,
+      "word": "蔡磊现已基本依赖眼控技术交流",
+      "onboard_time": 1740716298,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 249244,
+      "num": 239498,
+      "word": "滤镜剧圈DeepSeek",
+      "onboard_time": 1740719121,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 249124,
       "num": 249124,
       "word": "我是湖南大学生我不同意双休",
@@ -481,6 +545,14 @@
       "onboard_time": 1740671119,
       "rank": 8,
       "category": "数码,汽车"
+    },
+    {
+      "raw_hot": 245140,
+      "num": 245140,
+      "word": "娜扎完全是老公级别的",
+      "onboard_time": 1740717139,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 244177,
@@ -531,6 +603,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 233119,
+      "num": 233119,
+      "word": "奔跑吧13将在三月底录制",
+      "onboard_time": 1740719841,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231358,
       "num": 337244,
       "word": "带货博主虚假助农敛财440多万",
@@ -571,6 +651,30 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 225345,
+      "num": 225345,
+      "word": "当杨妞花得知余华英被执行死刑",
+      "onboard_time": 1740719721,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 220564,
+      "num": 433498,
+      "word": "杨妞花姐姐回应余华英死刑执行",
+      "onboard_time": 1740718222,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 218791,
+      "num": 218791,
+      "word": "种地吧 爆哭",
+      "onboard_time": 1740719659,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 215502,
       "num": 215502,
       "word": "女子嫌金价太高在家自制金戒指",
@@ -603,6 +707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 204053,
+      "num": 204053,
+      "word": "时尚博主夸易烊千玺比粉丝还敢",
+      "onboard_time": 1740719540,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 203621,
       "num": 247435,
       "word": "CT 蔡徐坤",
@@ -617,6 +729,22 @@
       "onboard_time": 1740716120,
       "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 201555,
+      "num": 201555,
+      "word": "白鹿将缺席奔跑吧首轮录制",
+      "onboard_time": 1740719780,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 201013,
+      "num": 201013,
+      "word": "今年的车险价格变贵了",
+      "onboard_time": 1740719721,
+      "rank": 39,
+      "category": "财经,汽车"
     },
     {
       "raw_hot": 199834,
@@ -643,14 +771,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 195106,
-      "num": 195106,
-      "word": "娜扎完全是老公级别的",
-      "onboard_time": 1740717139,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 194981,
       "num": 185987,
       "word": "易烊千玺杂志",
@@ -675,12 +795,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 191178,
-      "num": 191178,
-      "word": "蔡磊现已基本依赖眼控技术交流",
-      "onboard_time": 1740716298,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 189578,
+      "num": 462591,
+      "word": "成毅品牌宠儿",
+      "onboard_time": 1740714439,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 189278,
@@ -689,6 +809,14 @@
       "onboard_time": 1740716420,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 187344,
+      "num": 187344,
+      "word": "原神班尼特",
+      "onboard_time": 1740718822,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 186399,
@@ -755,12 +883,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 170124,
-      "num": 170124,
-      "word": "对张凌赫190的身高有了实感",
-      "onboard_time": 1740717442,
-      "rank": 41,
-      "category": "剧集"
+      "raw_hot": 171837,
+      "num": 365891,
+      "word": "微博娱乐白皮书",
+      "onboard_time": 1740719841,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 168743,
@@ -769,6 +897,14 @@
       "onboard_time": 1740702679,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 168102,
+      "num": 168102,
+      "word": "林俊杰3月份再度与大家相聚",
+      "onboard_time": 1740719540,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 165979,
@@ -796,11 +932,19 @@
     },
     {
       "raw_hot": 162713,
-      "num": 162713,
+      "num": 212818,
       "word": "369 咖哥我练好了",
       "onboard_time": 1740706338,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 158113,
+      "num": 158113,
+      "word": "看完爱你把膻中穴按通了",
+      "onboard_time": 1740720141,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 157824,
@@ -979,6 +1123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134058,
+      "num": 240365,
+      "word": "特朗普说要去乌克兰挖挖挖",
+      "onboard_time": 1740718401,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 132914,
       "num": 132914,
       "word": "小米汽车概念爆发",
@@ -1041,6 +1193,14 @@
       "onboard_time": 1740672678,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 124299,
+      "num": 433386,
+      "word": "余华英拐卖17名儿童被执行死刑",
+      "onboard_time": 1740719242,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123258,
@@ -1115,6 +1275,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 111307,
+      "num": 399088,
+      "word": "20元白T恤过夏天的程序员花4万买快乐",
+      "onboard_time": 1740719481,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108992,
       "num": 108992,
       "word": "我国古代已人手中国结",
@@ -1153,14 +1321,6 @@
       "onboard_time": 1740714919,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 96128,
-      "num": 462591,
-      "word": "成毅品牌宠儿",
-      "onboard_time": 1740714439,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 95512,
@@ -1483,6 +1643,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 40067,
+      "num": 424618,
+      "word": "一图回顾余华英拐卖儿童案始末",
+      "onboard_time": 1740718822,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39657,
       "num": 245654,
       "word": "美国斥资10亿美元应对鸡蛋荒",
@@ -1499,20 +1667,20 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 35894,
+      "num": 1521725,
+      "word": "田间春管科技范儿十足",
+      "onboard_time": 1740715338,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33127,
       "num": 35982,
       "word": "周雨彤回应辞职发疯戏",
       "onboard_time": 1740651439,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 32444,
-      "num": 1521725,
-      "word": "田间春管科技范儿十足",
-      "onboard_time": 1740715338,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30547,
