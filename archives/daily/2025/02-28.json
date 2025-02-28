@@ -1,6 +1,6 @@
 {
   "startTime": 1740673831596,
-  "endTime": 1740713442128,
+  "endTime": 1740714247033,
   "band_list": [
     {
       "raw_hot": 2810111,
@@ -147,6 +147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 548951,
+      "num": 418181,
+      "word": "大侦探这案封神",
+      "onboard_time": 1740712218,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 542376,
       "num": 554891,
       "word": "女演员遭遇中传失联学生同款剧组套路",
@@ -185,6 +193,14 @@
       "onboard_time": 1740705379,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 474964,
+      "num": 413427,
+      "word": "韩国小学生的最爱爱豆投票结果",
+      "onboard_time": 1740710657,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 464981,
@@ -251,20 +267,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 388432,
-      "num": 388432,
-      "word": "大侦探这案封神",
-      "onboard_time": 1740712218,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 387295,
       "num": 387295,
       "word": "小猪佩奇猪妈妈怀三胎",
       "onboard_time": 1740665960,
       "rank": 4,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 362944,
+      "num": 362944,
+      "word": "刘浩存不改图一次过",
+      "onboard_time": 1740713358,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 353023,
@@ -315,12 +331,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 322858,
-      "num": 322858,
-      "word": "韩国小学生的最爱爱豆投票结果",
-      "onboard_time": 1740710657,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 309661,
+      "num": 309661,
+      "word": "670万买到采光差的楼王终于退了",
+      "onboard_time": 1740713358,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 278480,
@@ -329,6 +345,14 @@
       "onboard_time": 1740709219,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 276917,
+      "num": 367283,
+      "word": "美公布爱泼斯坦案文件百页被涂黑",
+      "onboard_time": 1740713059,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 272687,
@@ -347,12 +371,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 261903,
+      "num": 309815,
+      "word": "国防部称将隆重纪念抗战胜利80周年",
+      "onboard_time": 1740712397,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 260384,
       "num": 260384,
       "word": "王一博新片人鱼有消息了",
       "onboard_time": 1740712697,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 249124,
+      "num": 249124,
+      "word": "我是湖南大学生我不同意双休",
+      "onboard_time": 1740711198,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 247286,
@@ -377,14 +417,6 @@
       "onboard_time": 1740671119,
       "rank": 8,
       "category": "数码,汽车"
-    },
-    {
-      "raw_hot": 244403,
-      "num": 244403,
-      "word": "我是湖南大学生我不同意双休",
-      "onboard_time": 1740711198,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 244177,
@@ -417,6 +449,14 @@
       "onboard_time": 1740671178,
       "rank": 19,
       "category": "网红"
+    },
+    {
+      "raw_hot": 231358,
+      "num": 337244,
+      "word": "带货博主虚假助农敛财440多万",
+      "onboard_time": 1740712098,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 227582,
@@ -475,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202237,
+      "num": 231836,
+      "word": "郑渊洁停止更新所有社媒",
+      "onboard_time": 1740711858,
+      "rank": 30,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 199834,
       "num": 199834,
       "word": "这些看似平常的照片可能暴露个人隐私",
@@ -489,6 +537,14 @@
       "onboard_time": 1740706158,
       "rank": 28,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 187879,
+      "num": 187879,
+      "word": "极氪祝贺小米",
+      "onboard_time": 1740713478,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 186399,
@@ -531,12 +587,44 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 172743,
+      "num": 172743,
+      "word": "让杨子语塞的人出现了",
+      "onboard_time": 1740713478,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 171997,
+      "num": 171997,
+      "word": "一顺风车司机被曝载客时放不雅视频",
+      "onboard_time": 1740711018,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171403,
+      "num": 171403,
+      "word": "港星黄百鸣涉内幕交易被证监会检控",
+      "onboard_time": 1740710179,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168743,
       "num": 168743,
       "word": "法国也想要乌克兰矿产",
       "onboard_time": 1740702679,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 165979,
+      "num": 165979,
+      "word": "这项发现证实火星可能曾经是宜居的",
+      "onboard_time": 1740712697,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164936,
@@ -553,14 +641,6 @@
       "onboard_time": 1740712640,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 164142,
-      "num": 164142,
-      "word": "一顺风车司机被曝载客时放不雅视频",
-      "onboard_time": 1740711018,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 162713,
@@ -627,36 +707,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151871,
-      "num": 151871,
-      "word": "港星黄百鸣涉内幕交易被证监会检控",
-      "onboard_time": 1740710179,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 151747,
-      "num": 151747,
-      "word": "这项发现证实火星可能曾经是宜居的",
-      "onboard_time": 1740712697,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 151578,
       "num": 151578,
       "word": "Gucci全平台更新肖战",
       "onboard_time": 1740674236,
       "rank": 22,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 150895,
-      "num": 150895,
-      "word": "刘浩存不改图一次过",
-      "onboard_time": 1740713358,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 150318,
@@ -673,14 +729,6 @@
       "onboard_time": 1740702679,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 147481,
-      "num": 147481,
-      "word": "670万买到采光差的楼王终于退了",
-      "onboard_time": 1740713358,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 147115,
@@ -705,6 +753,14 @@
       "onboard_time": 1740698717,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 140840,
+      "num": 140840,
+      "word": "薛之谦告别火星情报局",
+      "onboard_time": 1740714017,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 135456,
@@ -787,14 +843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129609,
-      "num": 231836,
-      "word": "郑渊洁停止更新所有社媒",
-      "onboard_time": 1740711858,
-      "rank": 30,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 127621,
       "num": 127621,
       "word": "BABI机制",
@@ -817,14 +865,6 @@
       "onboard_time": 1740698115,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 122131,
-      "num": 334542,
-      "word": "美公布爱泼斯坦案文件百页被涂黑",
-      "onboard_time": 1740713059,
-      "rank": 15,
-      "category": "国际时政"
     },
     {
       "raw_hot": 120803,
@@ -859,6 +899,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 117830,
+      "num": 117830,
+      "word": "郑渊洁将全平台停更",
+      "onboard_time": 1740713838,
+      "rank": 48,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 115008,
       "num": 115008,
       "word": "韩佳人自曝曾一年内流产三次",
@@ -881,14 +929,6 @@
       "onboard_time": 1740698775,
       "rank": 9,
       "category": "财经"
-    },
-    {
-      "raw_hot": 110314,
-      "num": 309815,
-      "word": "国防部称将隆重纪念抗战胜利80周年",
-      "onboard_time": 1740712397,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 108992,
@@ -953,14 +993,6 @@
       "onboard_time": 1740698355,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 90847,
-      "num": 337244,
-      "word": "带货博主虚假助农敛财440多万",
-      "onboard_time": 1740712098,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 90743,
@@ -1083,6 +1115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 71789,
+      "num": 310541,
+      "word": "你会让孩子用DeepSeek写作业吗",
+      "onboard_time": 1740713119,
+      "rank": 23,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 69746,
       "num": 69746,
       "word": "卖糖葫芦喷口水大姨道歉",
@@ -1201,14 +1241,6 @@
       "onboard_time": 1740675854,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 40080,
-      "num": 270096,
-      "word": "你会让孩子用DeepSeek写作业吗",
-      "onboard_time": 1740713119,
-      "rank": 23,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 39576,
