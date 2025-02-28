@@ -1,0 +1,410 @@
+{
+  "runTime": 1740752545613,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2540903,
+        "num": 2540903,
+        "word": "七星连珠",
+        "onboard_time": 1740714259,
+        "rank": 0,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 2300579,
+        "num": 2300579,
+        "word": "晴川",
+        "onboard_time": 1740747979,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215541,
+        "num": 1242790,
+        "word": "外国人上太空要先学中文了",
+        "onboard_time": 1740750801,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 679114,
+        "num": 679114,
+        "word": "姐妹俩患不食人间烟火罕见病",
+        "onboard_time": 1740747858,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 590302,
+        "num": 590302,
+        "word": "哪吒票房",
+        "onboard_time": 1740737479,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 589310,
+        "num": 589310,
+        "word": "你看到的公务车可能是私家车",
+        "onboard_time": 1740747919,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 532294,
+        "num": 532294,
+        "word": "强奸未遂致人溺亡男子被判死刑",
+        "onboard_time": 1740742819,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 478860,
+        "num": 478860,
+        "word": "东方集团涉嫌重大财务造假",
+        "onboard_time": 1740750979,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 458648,
+        "num": 458648,
+        "word": "金价大跳水了",
+        "onboard_time": 1740707118,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 427797,
+        "num": 427797,
+        "word": "爱你 黄灿灿",
+        "onboard_time": 1740751879,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 508636,
+        "num": 425301,
+        "word": "男子患癌花40多万半张脸没了",
+        "onboard_time": 1740727939,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 456511,
+        "num": 423879,
+        "word": "李晨Angelababy友谊",
+        "onboard_time": 1740735740,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419565,
+        "num": 419565,
+        "word": "上海中小学已全面实施AB制午餐模式",
+        "onboard_time": 1740744319,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 418214,
+        "num": 418214,
+        "word": "七星连珠好运连连",
+        "onboard_time": 1740725178,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271114,
+        "num": 415180,
+        "word": "日本米价暴涨却怪中国",
+        "onboard_time": 1740751221,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 413099,
+        "num": 413099,
+        "word": "台湾正研究让所有适龄女性去当兵",
+        "onboard_time": 1740748460,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 408578,
+        "num": 408578,
+        "word": "肖战穿TODS",
+        "onboard_time": 1740747618,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 397827,
+        "num": 397827,
+        "word": "白敬亭卫衣",
+        "onboard_time": 1740747799,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 381347,
+        "num": 381347,
+        "word": "中国空间站将迎来首位外籍航天员",
+        "onboard_time": 1740746180,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 328973,
+        "num": 339702,
+        "word": "杨紫上身25春夏最新季高定",
+        "onboard_time": 1740751221,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39706,
+        "num": 335215,
+        "word": "夸克称好的搜索不必众里寻他",
+        "onboard_time": 1740751043,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 413396,
+        "num": 335133,
+        "word": "MLB 邓为",
+        "onboard_time": 1740750801,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 334563,
+        "num": 334563,
+        "word": "对象卷跑7万男子没钱透析",
+        "onboard_time": 1740749960,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317171,
+        "num": 328754,
+        "word": "桑太太",
+        "onboard_time": 1740746899,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 327677,
+        "num": 327677,
+        "word": "小盐巴手机壳",
+        "onboard_time": 1740748640,
+        "rank": 24,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 323163,
+        "num": 323163,
+        "word": "刘浩存广告词 既要又要凭什么不可以",
+        "onboard_time": 1740737900,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264700,
+        "num": 264700,
+        "word": "优酷 12集",
+        "onboard_time": 1740728358,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262292,
+        "num": 262292,
+        "word": "周也空气齐刘海",
+        "onboard_time": 1740746118,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187387,
+        "num": 260067,
+        "word": "知名电影人宋歌被判刑",
+        "onboard_time": 1740748218,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26743,
+        "num": 257215,
+        "word": "90后北漂被杀猪盘骗光十年积蓄",
+        "onboard_time": 1740751942,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21903,
+        "num": 253456,
+        "word": "2024微博综合热度TOP20明星",
+        "onboard_time": 1740750380,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 727101,
+        "num": 248816,
+        "word": "微信好霸道",
+        "onboard_time": 1740749181,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 9541,
+        "num": 243939,
+        "word": "孟子义点亮春日米兰",
+        "onboard_time": 1740752422,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 242342,
+        "num": 242342,
+        "word": "莲花集团CEO疑似回应小米",
+        "onboard_time": 1740749720,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 224454,
+        "num": 224454,
+        "word": "陈林犯罪情节极为恶劣",
+        "onboard_time": 1740747199,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206438,
+        "num": 206438,
+        "word": "全国高度近视患者超1.3亿人",
+        "onboard_time": 1740741320,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133759,
+        "num": 189523,
+        "word": "老外学好中文有多重要",
+        "onboard_time": 1740752240,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178245,
+        "num": 178245,
+        "word": "南航乘客被废弃针头扎出血后陷抑郁",
+        "onboard_time": 1740728297,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168020,
+        "num": 168020,
+        "word": "最强大脑",
+        "onboard_time": 1740747618,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160345,
+        "num": 160345,
+        "word": "你应该退税还是补税",
+        "onboard_time": 1740751043,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156041,
+        "num": 156041,
+        "word": "徐若晗新剧酒醒后天塌了",
+        "onboard_time": 1740746358,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154241,
+        "num": 154241,
+        "word": "赵丽颖杨幂迪丽热巴杨紫2024商业价值明星",
+        "onboard_time": 1740738439,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153673,
+        "num": 153673,
+        "word": "白鹿是大华子第一人选",
+        "onboard_time": 1740750620,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151170,
+        "num": 151170,
+        "word": "余华英被执行死刑",
+        "onboard_time": 1740716960,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140174,
+        "num": 140174,
+        "word": "韩安冉直播切片1个月卖了800多万",
+        "onboard_time": 1740736159,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 133663,
+        "num": 133663,
+        "word": "王一博电影人鱼将择机上映",
+        "onboard_time": 1740747199,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131650,
+        "num": 131650,
+        "word": "李沁紫色流苏长裙",
+        "onboard_time": 1740749480,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129998,
+        "num": 129998,
+        "word": "死刑犯行刑前见亲属不得交流案情",
+        "onboard_time": 1740752182,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127900,
+        "num": 127900,
+        "word": "黎深咪怒将胡萝卜扇感冒",
+        "onboard_time": 1740752121,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125102,
+        "num": 125102,
+        "word": "张若昀薄荷绿西装",
+        "onboard_time": 1740749120,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见俄罗斯联邦安全会议秘书绍伊古#"
+    }
+  }
+}

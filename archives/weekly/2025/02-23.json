@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740750017986,
+  "endTime": 1740752545613,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -147,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2300579,
+      "num": 2300579,
+      "word": "晴川",
+      "onboard_time": 1740747979,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2298993,
       "num": 2298993,
       "word": "鹿晗工作室告黑声明",
@@ -209,14 +217,6 @@
       "onboard_time": 1740353295,
       "rank": 17,
       "category": "教育"
-    },
-    {
-      "raw_hot": 2181547,
-      "num": 2181547,
-      "word": "晴川",
-      "onboard_time": 1740747979,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 2180306,
@@ -2187,6 +2187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 727101,
+      "num": 248816,
+      "word": "微信好霸道",
+      "onboard_time": 1740749181,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 723728,
       "num": 445416,
       "word": "比起来月经 器官时间不和谐更让我烦躁",
@@ -2457,6 +2465,14 @@
       "onboard_time": 1740461481,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 679114,
+      "num": 679114,
+      "word": "姐妹俩患不食人间烟火罕见病",
+      "onboard_time": 1740747858,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 679038,
@@ -3017,6 +3033,14 @@
       "onboard_time": 1740541399,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 589310,
+      "num": 589310,
+      "word": "你看到的公务车可能是私家车",
+      "onboard_time": 1740747919,
+      "rank": 18,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 588194,
@@ -3867,6 +3891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 478860,
+      "num": 478860,
+      "word": "东方集团涉嫌重大财务造假",
+      "onboard_time": 1740750979,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 478721,
       "num": 293095,
       "word": "陈冠希晒与老婆自拍照",
@@ -3985,14 +4017,6 @@
       "onboard_time": 1740542361,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 466040,
-      "num": 466040,
-      "word": "姐妹俩患不食人间烟火罕见病",
-      "onboard_time": 1740747858,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 465527,
@@ -4387,6 +4411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 427797,
+      "num": 427797,
+      "word": "爱你 黄灿灿",
+      "onboard_time": 1740751879,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 425871,
       "num": 425871,
       "word": "男子回应1年举报2277起违章被骂",
@@ -4481,6 +4513,22 @@
       "onboard_time": 1740359659,
       "rank": 11,
       "category": "教育"
+    },
+    {
+      "raw_hot": 413396,
+      "num": 335133,
+      "word": "MLB 邓为",
+      "onboard_time": 1740750801,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 413099,
+      "num": 466961,
+      "word": "台湾正研究让所有适龄女性去当兵",
+      "onboard_time": 1740748460,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 412883,
@@ -4635,6 +4683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 397827,
+      "num": 397827,
+      "word": "白敬亭卫衣",
+      "onboard_time": 1740747799,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 397777,
       "num": 347540,
       "word": "原来头皮屑变多是因为溢脂性皮炎",
@@ -4769,14 +4825,6 @@
       "onboard_time": 1740362118,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 388393,
-      "num": 388393,
-      "word": "你看到的公务车可能是私家车",
-      "onboard_time": 1740747919,
-      "rank": 18,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 386390,
@@ -5283,6 +5331,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 334563,
+      "num": 334563,
+      "word": "对象卷跑7万男子没钱透析",
+      "onboard_time": 1740749960,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 333348,
       "num": 333348,
       "word": "难哄追剧日历",
@@ -5347,6 +5403,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 328973,
+      "num": 339702,
+      "word": "杨紫上身25春夏最新季高定",
+      "onboard_time": 1740751221,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 328240,
       "num": 328240,
       "word": "哪吒2香港上映3天就成年度票房冠军",
@@ -5361,6 +5425,14 @@
       "onboard_time": 1740645618,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 327677,
+      "num": 327677,
+      "word": "小盐巴手机壳",
+      "onboard_time": 1740748640,
+      "rank": 37,
+      "category": "时尚"
     },
     {
       "raw_hot": 326920,
@@ -5713,14 +5785,6 @@
       "onboard_time": 1740651919,
       "rank": 14,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 307365,
-      "num": 466961,
-      "word": "台湾正研究让所有适龄女性去当兵",
-      "onboard_time": 1740748460,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 307202,
@@ -6347,14 +6411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 273860,
-      "num": 273860,
-      "word": "白敬亭卫衣",
-      "onboard_time": 1740747799,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 272777,
       "num": 272777,
       "word": "许凯染发了",
@@ -6385,6 +6441,14 @@
       "onboard_time": 1740560479,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 271114,
+      "num": 415180,
+      "word": "日本米价暴涨却怪中国",
+      "onboard_time": 1740751221,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 269535,
@@ -7051,6 +7115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 242342,
+      "num": 242342,
+      "word": "莲花集团CEO疑似回应小米",
+      "onboard_time": 1740749720,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 242335,
       "num": 242335,
       "word": "俄方愿同美国开展稀土合作",
@@ -7659,6 +7731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224454,
+      "num": 224454,
+      "word": "陈林犯罪情节极为恶劣",
+      "onboard_time": 1740747199,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 224412,
       "num": 224412,
       "word": "港股彻底大爆发",
@@ -8017,6 +8097,14 @@
       "onboard_time": 1740475821,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 215541,
+      "num": 1242790,
+      "word": "外国人上太空要先学中文了",
+      "onboard_time": 1740750801,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 215089,
@@ -8593,14 +8681,6 @@
       "onboard_time": 1740655338,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 202199,
-      "num": 202199,
-      "word": "小盐巴手机壳",
-      "onboard_time": 1740748640,
-      "rank": 37,
-      "category": "时尚"
     },
     {
       "raw_hot": 201742,
@@ -9276,7 +9356,7 @@
     },
     {
       "raw_hot": 191718,
-      "num": 206789,
+      "num": 260067,
       "word": "知名电影人宋歌被判刑",
       "onboard_time": 1740748218,
       "rank": 32,
@@ -9649,14 +9729,6 @@
       "onboard_time": 1740718822,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 187243,
-      "num": 187243,
-      "word": "陈林犯罪情节极为恶劣",
-      "onboard_time": 1740747199,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 187193,
@@ -10185,14 +10257,6 @@
       "onboard_time": 1740572719,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 180315,
-      "num": 180315,
-      "word": "莲花集团CEO疑似回应小米",
-      "onboard_time": 1740749720,
-      "rank": 35,
-      "category": "互联网"
     },
     {
       "raw_hot": 180229,
@@ -11075,6 +11139,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 168020,
+      "num": 168020,
+      "word": "最强大脑",
+      "onboard_time": 1740747618,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167972,
       "num": 167972,
       "word": "蔡徐坤灰发机场造型",
@@ -11707,14 +11779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161352,
-      "num": 161352,
-      "word": "最强大脑",
-      "onboard_time": 1740747618,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 161199,
       "num": 356134,
       "word": "樊振东奥运封训时手臂缠满肌贴",
@@ -11809,6 +11873,14 @@
       "onboard_time": 1740461961,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160345,
+      "num": 160345,
+      "word": "你应该退税还是补税",
+      "onboard_time": 1740751043,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160166,
@@ -12323,6 +12395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153673,
+      "num": 153673,
+      "word": "白鹿是大华子第一人选",
+      "onboard_time": 1740750620,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153306,
       "num": 513066,
       "word": "我不想再被二手烟腌制入味了",
@@ -12785,14 +12865,6 @@
       "onboard_time": 1740535758,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 148113,
-      "num": 148113,
-      "word": "微信好霸道",
-      "onboard_time": 1740749181,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 148079,
@@ -13827,6 +13899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133759,
+      "num": 189523,
+      "word": "老外学好中文有多重要",
+      "onboard_time": 1740752240,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133621,
       "num": 133621,
       "word": "八方来财",
@@ -14115,6 +14195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129998,
+      "num": 129998,
+      "word": "死刑犯行刑前见亲属不得交流案情",
+      "onboard_time": 1740752182,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129965,
       "num": 129965,
       "word": "实习医院回应网传医科大研究生自杀",
@@ -14209,6 +14297,14 @@
       "onboard_time": 1740449719,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127900,
+      "num": 127900,
+      "word": "黎深咪怒将胡萝卜扇感冒",
+      "onboard_time": 1740752121,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 127876,
@@ -18147,14 +18243,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 45948,
-      "num": 160650,
-      "word": "对象卷跑7万男子没钱透析",
-      "onboard_time": 1740749960,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 45922,
       "num": 1331825,
       "word": "沉浸式感受春日里生机勃勃的中国",
@@ -18433,6 +18521,14 @@
       "onboard_time": 1740718822,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39706,
+      "num": 335215,
+      "word": "夸克称好的搜索不必众里寻他",
+      "onboard_time": 1740751043,
+      "rank": 20,
+      "category": "互联网"
     },
     {
       "raw_hot": 39701,
@@ -19067,6 +19163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26743,
+      "num": 257215,
+      "word": "90后北漂被杀猪盘骗光十年积蓄",
+      "onboard_time": 1740751942,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26714,
       "num": 249118,
       "word": "C罗打进生涯第925球",
@@ -19409,6 +19513,14 @@
       "onboard_time": 1740646940,
       "rank": 2,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 21903,
+      "num": 253456,
+      "word": "2024微博综合热度TOP20明星",
+      "onboard_time": 1740750380,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 21876,
@@ -20121,6 +20233,14 @@
       "onboard_time": 1740515051,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9541,
+      "num": 243939,
+      "word": "孟子义点亮春日米兰",
+      "onboard_time": 1740752422,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 9522,
