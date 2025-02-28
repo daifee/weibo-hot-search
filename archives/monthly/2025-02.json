@@ -1,6 +1,6 @@
 {
   "startTime": 1738340814351,
-  "endTime": 1740721229495,
+  "endTime": 1740724319495,
   "band_list": [
     {
       "raw_hot": 33224710,
@@ -5827,6 +5827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1077977,
+      "num": 1077977,
+      "word": "余华英执行死刑前会见了近亲属",
+      "onboard_time": 1740719300,
+      "rank": 15,
+      "category": "民生新闻,读书作家"
+    },
+    {
       "raw_hot": 1077492,
       "num": 614908,
       "word": "王大陆保释后没道歉",
@@ -8243,14 +8251,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 851739,
-      "num": 851739,
-      "word": "余华英执行死刑前会见了近亲属",
-      "onboard_time": 1740719300,
-      "rank": 15,
-      "category": "民生新闻,读书作家"
-    },
-    {
       "raw_hot": 851596,
       "num": 447656,
       "word": "唐艺昕腰身比",
@@ -9667,6 +9667,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 759476,
+      "num": 759476,
+      "word": "种地吧 爆哭",
+      "onboard_time": 1740719659,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 758747,
       "num": 527703,
       "word": "迪丽热巴开推埃及艳后造型",
@@ -10065,6 +10073,14 @@
       "onboard_time": 1738418779,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 733533,
+      "num": 733533,
+      "word": "花少七阵容",
+      "onboard_time": 1740721459,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 733324,
@@ -12057,14 +12073,6 @@
       "onboard_time": 1740234682,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 643745,
-      "num": 643745,
-      "word": "种地吧 爆哭",
-      "onboard_time": 1740719659,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 643271,
@@ -15073,6 +15081,14 @@
       "onboard_time": 1739350580,
       "rank": 5,
       "category": "美食"
+    },
+    {
+      "raw_hot": 536144,
+      "num": 536144,
+      "word": "雷军发布会同款皮衣5分钟断货",
+      "onboard_time": 1740720619,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 535963,
@@ -18395,6 +18411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 448808,
+      "num": 448808,
+      "word": "杨妞花将回老家告慰父母",
+      "onboard_time": 1740722118,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 448608,
       "num": 448608,
       "word": "DeepSeek测出理想伴侣仅存个位数",
@@ -21481,6 +21505,14 @@
       "onboard_time": 1739030900,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 378529,
+      "num": 378529,
+      "word": "董力和妻子没求婚没婚礼",
+      "onboard_time": 1740722239,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 378527,
@@ -26675,6 +26707,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 294835,
+      "num": 294835,
+      "word": "DeepSeek去AI痕迹真的很牛",
+      "onboard_time": 1740723258,
+      "rank": 17,
+      "category": "互联网,数码"
+    },
+    {
       "raw_hot": 294792,
       "num": 609794,
       "word": "刘少昂超越",
@@ -26841,6 +26881,14 @@
       "onboard_time": 1740386123,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 293072,
+      "num": 293072,
+      "word": "甜馨说我咋可能整容",
+      "onboard_time": 1740721040,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 292886,
@@ -28561,6 +28609,14 @@
       "onboard_time": 1739606840,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 273905,
+      "num": 180664,
+      "word": "复旦博士建议学生慎选人工智能等专业",
+      "onboard_time": 1740722778,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 273883,
@@ -31907,6 +31963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 242888,
+      "num": 183650,
+      "word": "2024微博涨粉量TOP20明星",
+      "onboard_time": 1740722179,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242838,
       "num": 242838,
       "word": "哪吒2票房超88亿元",
@@ -32929,6 +32993,14 @@
       "onboard_time": 1738335260,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 235053,
+      "num": 182103,
+      "word": "胡静老公提前给自己办葬礼",
+      "onboard_time": 1740723199,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 235041,
@@ -37963,6 +38035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207283,
+      "num": 207283,
+      "word": "杨蓉央视严选",
+      "onboard_time": 1740724098,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207282,
       "num": 207282,
       "word": "练背的真实变化",
@@ -39617,6 +39697,14 @@
       "onboard_time": 1740060323,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201516,
+      "num": 201516,
+      "word": "王楚钦一快一慢张弛之间",
+      "onboard_time": 1740722480,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 201503,
@@ -42899,6 +42987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191045,
+      "num": 191045,
+      "word": "中共中央政治局召开会议讨论政府工作报告",
+      "onboard_time": 1740723798,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 191037,
       "num": 191037,
       "word": "一高中禁带面包后菜价降5毛",
@@ -43265,14 +43361,6 @@
       "onboard_time": 1738837644,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 189681,
-      "num": 189681,
-      "word": "雷军发布会同款皮衣5分钟断货",
-      "onboard_time": 1740720619,
-      "rank": 36,
-      "category": "互联网"
     },
     {
       "raw_hot": 189659,
@@ -49803,6 +49891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 166967,
+      "num": 166967,
+      "word": "山姆分姆包围县城",
+      "onboard_time": 1740721879,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166954,
       "num": 166954,
       "word": "吴宣仪分享五福临门群名就一个字",
@@ -50401,6 +50497,14 @@
       "onboard_time": 1738934722,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165115,
+      "num": 167037,
+      "word": "黄老板感谢樊振东的金牌教程",
+      "onboard_time": 1740722840,
+      "rank": 40,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 165085,
@@ -51923,6 +52027,22 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 160666,
+      "num": 160666,
+      "word": "种地吧剪辑",
+      "onboard_time": 1740721580,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 160647,
+      "num": 173219,
+      "word": "王一博纪录片微博影响力榜第一",
+      "onboard_time": 1740722540,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160583,
       "num": 160583,
       "word": "国防部发布当那一天来临MV",
@@ -52265,6 +52385,14 @@
       "onboard_time": 1739114662,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159424,
+      "num": 167441,
+      "word": "爱德华兹被驱逐",
+      "onboard_time": 1740721519,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 159407,
@@ -54731,6 +54859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151361,
+      "num": 151361,
+      "word": "商务部回应美方威胁再加征10%关税",
+      "onboard_time": 1740720980,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 151359,
       "num": 151359,
       "word": "曝微信内测接入DeepSeek",
@@ -54880,6 +55016,14 @@
       "word": "外甥女把小姨拉到角落给压岁钱",
       "onboard_time": 1738664962,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150858,
+      "num": 150858,
+      "word": "余华英被执行死刑杨妞花激动落泪",
+      "onboard_time": 1740721338,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -55169,6 +55313,14 @@
       "onboard_time": 1740106758,
       "rank": 35,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 150081,
+      "num": 173397,
+      "word": "2024年微博十大热搜演唱会",
+      "onboard_time": 1740723918,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 149963,
@@ -63443,14 +63595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121137,
-      "num": 206950,
-      "word": "甜馨说我咋可能整容",
-      "onboard_time": 1740721040,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 121120,
       "num": 121120,
       "word": "余承恩高寒好歹毒的衣服",
@@ -68947,6 +69091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96649,
+      "num": 161478,
+      "word": "虞书欣漫画三月开篇",
+      "onboard_time": 1740723439,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 96622,
       "num": 408108,
       "word": "情人节新中式花束为啥火了",
@@ -69835,6 +69987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92398,
+      "num": 293425,
+      "word": "2024微博剧集影响力TOP20",
+      "onboard_time": 1740722660,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92302,
       "num": 404206,
       "word": "新疆牧民将爱马送给去世白马的主人",
@@ -70049,6 +70209,14 @@
       "onboard_time": 1740031523,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90844,
+      "num": 190217,
+      "word": "中国汽车格局打开",
+      "onboard_time": 1740722239,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 90768,
@@ -72953,6 +73121,14 @@
       "onboard_time": 1740658758,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73756,
+      "num": 189502,
+      "word": "法国再次重申欧洲将全力确保乌克兰安全",
+      "onboard_time": 1740722599,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 73737,
@@ -78931,6 +79107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 44409,
+      "num": 441420,
+      "word": "当地回应男子扶摔倒老人反被诬陷",
+      "onboard_time": 1740723499,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44360,
       "num": 116361,
       "word": "王鹤棣宋雨琦合影",
@@ -82651,6 +82835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27857,
+      "num": 184352,
+      "word": "大学老师说请假需要人性化",
+      "onboard_time": 1740723499,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 27848,
       "num": 361131,
       "word": "马頔 别跟老子摆谱儿",
@@ -83081,6 +83273,14 @@
       "onboard_time": 1739169381,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26293,
+      "num": 187942,
+      "word": "全国首个罕见病AI大模型开放测试",
+      "onboard_time": 1740723618,
+      "rank": 27,
+      "category": "健康医疗,互联网"
     },
     {
       "raw_hot": 26290,
@@ -86409,6 +86609,14 @@
       "onboard_time": 1739646372,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 13709,
+      "num": 186414,
+      "word": "春天女性比男性更容易心情差",
+      "onboard_time": 1740723618,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 13618,

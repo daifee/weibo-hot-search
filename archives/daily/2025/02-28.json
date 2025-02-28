@@ -1,6 +1,6 @@
 {
   "startTime": 1740673831596,
-  "endTime": 1740721229495,
+  "endTime": 1740724319495,
   "band_list": [
     {
       "raw_hot": 8399964,
@@ -75,6 +75,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 1077977,
+      "num": 1077977,
+      "word": "余华英执行死刑前会见了近亲属",
+      "onboard_time": 1740719300,
+      "rank": 15,
+      "category": "民生新闻,读书作家"
+    },
+    {
       "raw_hot": 974787,
       "num": 861562,
       "word": "无忧传媒称与刘畊宏变为商务合作",
@@ -115,14 +123,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 851739,
-      "num": 851739,
-      "word": "余华英执行死刑前会见了近亲属",
-      "onboard_time": 1740719300,
-      "rank": 15,
-      "category": "民生新闻,读书作家"
-    },
-    {
       "raw_hot": 850847,
       "num": 850847,
       "word": "670万买到采光差的楼王终于退了",
@@ -155,12 +155,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 759476,
+      "num": 759476,
+      "word": "种地吧 爆哭",
+      "onboard_time": 1740719659,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 734643,
       "num": 734643,
       "word": "Bin说因为bug输掉比赛",
       "onboard_time": 1740702860,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 733533,
+      "num": 733533,
+      "word": "花少七阵容",
+      "onboard_time": 1740721459,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 663962,
@@ -177,14 +193,6 @@
       "onboard_time": 1740664581,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 643745,
-      "num": 643745,
-      "word": "种地吧 爆哭",
-      "onboard_time": 1740719659,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 631526,
@@ -257,6 +265,14 @@
       "onboard_time": 1740700037,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 536144,
+      "num": 536144,
+      "word": "雷军发布会同款皮衣5分钟断货",
+      "onboard_time": 1740720619,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 533389,
@@ -339,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 448808,
+      "num": 448808,
+      "word": "杨妞花将回老家告慰父母",
+      "onboard_time": 1740722118,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 437382,
       "num": 437382,
       "word": "极氪祝贺小米",
@@ -411,6 +435,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 378529,
+      "num": 378529,
+      "word": "董力和妻子没求婚没婚礼",
+      "onboard_time": 1740722239,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 353023,
       "num": 353023,
       "word": "米兰偶遇孟子义宋雨琦吃川菜",
@@ -459,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 320546,
+      "num": 320546,
+      "word": "A股",
+      "onboard_time": 1740708619,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 319066,
       "num": 319066,
       "word": "对张凌赫190的身高有了实感",
@@ -483,12 +523,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 294835,
+      "num": 294835,
+      "word": "DeepSeek去AI痕迹真的很牛",
+      "onboard_time": 1740723258,
+      "rank": 17,
+      "category": "互联网,数码"
+    },
+    {
+      "raw_hot": 293072,
+      "num": 293072,
+      "word": "甜馨说我咋可能整容",
+      "onboard_time": 1740721040,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 278480,
       "num": 267146,
       "word": "房东感慨房子靠自己难出租",
       "onboard_time": 1740709219,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 273905,
+      "num": 180664,
+      "word": "复旦博士建议学生慎选人工智能等专业",
+      "onboard_time": 1740722778,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 272687,
@@ -603,6 +667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 242888,
+      "num": 183650,
+      "word": "2024微博涨粉量TOP20明星",
+      "onboard_time": 1740722179,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242666,
       "num": 242666,
       "word": "郑渊洁停止更新所有社媒",
@@ -633,6 +705,14 @@
       "onboard_time": 1740705258,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 235053,
+      "num": 182103,
+      "word": "胡静老公提前给自己办葬礼",
+      "onboard_time": 1740723199,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 234619,
@@ -715,6 +795,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 207283,
+      "num": 207283,
+      "word": "杨蓉央视严选",
+      "onboard_time": 1740724098,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205888,
       "num": 365891,
       "word": "微博娱乐白皮书",
@@ -753,6 +841,14 @@
       "onboard_time": 1740716120,
       "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 201516,
+      "num": 201516,
+      "word": "王楚钦一快一慢张弛之间",
+      "onboard_time": 1740722480,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 201013,
@@ -811,20 +907,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191045,
+      "num": 191045,
+      "word": "中共中央政治局召开会议讨论政府工作报告",
+      "onboard_time": 1740723798,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 190911,
       "num": 190911,
       "word": "桑延温以凡开始甜了",
       "onboard_time": 1740720680,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189681,
-      "num": 189681,
-      "word": "雷军发布会同款皮衣5分钟断货",
-      "onboard_time": 1740720619,
-      "rank": 36,
-      "category": "互联网"
     },
     {
       "raw_hot": 189578,
@@ -955,6 +1051,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 166967,
+      "num": 166967,
+      "word": "山姆分姆包围县城",
+      "onboard_time": 1740721879,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166443,
       "num": 166443,
       "word": "曹斐然95后青衣",
@@ -969,6 +1073,14 @@
       "onboard_time": 1740712697,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165115,
+      "num": 167037,
+      "word": "黄老板感谢樊振东的金牌教程",
+      "onboard_time": 1740722840,
+      "rank": 40,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 164936,
@@ -1001,6 +1113,30 @@
       "onboard_time": 1740706338,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 160666,
+      "num": 160666,
+      "word": "种地吧剪辑",
+      "onboard_time": 1740721580,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 160647,
+      "num": 173219,
+      "word": "王一博纪录片微博影响力榜第一",
+      "onboard_time": 1740722540,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 159424,
+      "num": 167441,
+      "word": "爱德华兹被驱逐",
+      "onboard_time": 1740721519,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 157824,
@@ -1091,6 +1227,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 151361,
+      "num": 151361,
+      "word": "商务部回应美方威胁再加征10%关税",
+      "onboard_time": 1740720980,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 150858,
+      "num": 150858,
+      "word": "余华英被执行死刑杨妞花激动落泪",
+      "onboard_time": 1740721338,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150443,
       "num": 150443,
       "word": "种地吧陪看",
@@ -1105,6 +1257,14 @@
       "onboard_time": 1740649398,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 150081,
+      "num": 173397,
+      "word": "2024年微博十大热搜演唱会",
+      "onboard_time": 1740723918,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 148235,
@@ -1235,14 +1395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 130730,
-      "num": 130730,
-      "word": "A股",
-      "onboard_time": 1740708619,
-      "rank": 40,
-      "category": "财经"
-    },
-    {
       "raw_hot": 130615,
       "num": 130615,
       "word": "厂家回应零食主配料为福寿螺肉",
@@ -1281,14 +1433,6 @@
       "onboard_time": 1740698115,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121137,
-      "num": 206950,
-      "word": "甜馨说我咋可能整容",
-      "onboard_time": 1740721040,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 120803,
@@ -1395,6 +1539,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 96649,
+      "num": 161478,
+      "word": "虞书欣漫画三月开篇",
+      "onboard_time": 1740723439,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 95512,
       "num": 95512,
       "word": "上海大雾",
@@ -1419,12 +1571,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 92398,
+      "num": 293425,
+      "word": "2024微博剧集影响力TOP20",
+      "onboard_time": 1740722660,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 91035,
       "num": 91035,
       "word": "2025已过2个月",
       "onboard_time": 1740698355,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 90844,
+      "num": 190217,
+      "word": "中国汽车格局打开",
+      "onboard_time": 1740722239,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 90743,
@@ -1561,6 +1729,14 @@
       "onboard_time": 1740656417,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 73756,
+      "num": 189502,
+      "word": "法国再次重申欧洲将全力确保乌克兰安全",
+      "onboard_time": 1740722599,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 71941,
@@ -1723,6 +1899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44409,
+      "num": 441420,
+      "word": "当地回应男子扶摔倒老人反被诬陷",
+      "onboard_time": 1740723499,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40668,
       "num": 92206,
       "word": "宝可梦29周年",
@@ -1785,6 +1969,22 @@
       "onboard_time": 1740711978,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 27857,
+      "num": 184352,
+      "word": "大学老师说请假需要人性化",
+      "onboard_time": 1740723499,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 26293,
+      "num": 187942,
+      "word": "全国首个罕见病AI大模型开放测试",
+      "onboard_time": 1740723618,
+      "rank": 27,
+      "category": "健康医疗,互联网"
     },
     {
       "raw_hot": 25726,
@@ -1857,6 +2057,14 @@
       "onboard_time": 1740677294,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 13709,
+      "num": 186414,
+      "word": "春天女性比男性更容易心情差",
+      "onboard_time": 1740723618,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 11606,
