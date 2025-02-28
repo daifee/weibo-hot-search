@@ -1,0 +1,410 @@
+{
+  "runTime": 1740753629359,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2212893,
+        "num": 2212893,
+        "word": "七星连珠",
+        "onboard_time": 1740714259,
+        "rank": 0,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 1990785,
+        "num": 1990785,
+        "word": "晴川",
+        "onboard_time": 1740747979,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240975,
+        "num": 1335586,
+        "word": "外国人上太空要先学中文了",
+        "onboard_time": 1740750801,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1033157,
+        "num": 1033157,
+        "word": "东方集团涉嫌重大财务造假",
+        "onboard_time": 1740750979,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1006678,
+        "num": 1006678,
+        "word": "爱你 黄灿灿",
+        "onboard_time": 1740751879,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 569640,
+        "num": 569640,
+        "word": "姐妹俩患不食人间烟火罕见病",
+        "onboard_time": 1740747858,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 621056,
+        "num": 553341,
+        "word": "杨紫上身25春夏最新季高定",
+        "onboard_time": 1740751221,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 589223,
+        "num": 547998,
+        "word": "哪吒票房",
+        "onboard_time": 1740737479,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 530221,
+        "num": 530221,
+        "word": "你看到的公务车可能是私家车",
+        "onboard_time": 1740747919,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 40839,
+        "num": 520292,
+        "word": "律师解读余华英死刑前会见近亲属",
+        "onboard_time": 1740752721,
+        "rank": 9,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 515855,
+        "num": 515855,
+        "word": "七星连珠好运连连",
+        "onboard_time": 1740725178,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 472163,
+        "num": 472163,
+        "word": "男子患癌花40多万半张脸没了",
+        "onboard_time": 1740727939,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 449963,
+        "num": 449963,
+        "word": "李晨Angelababy友谊",
+        "onboard_time": 1740735740,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424607,
+        "num": 424607,
+        "word": "金价大跳水了",
+        "onboard_time": 1740707118,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 403525,
+        "num": 403525,
+        "word": "日本米价暴涨却怪中国",
+        "onboard_time": 1740751221,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 340633,
+        "num": 340633,
+        "word": "小盐巴手机壳",
+        "onboard_time": 1740748640,
+        "rank": 15,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 339447,
+        "num": 339447,
+        "word": "白敬亭卫衣",
+        "onboard_time": 1740747799,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 328399,
+        "num": 328399,
+        "word": "肖战穿TODS",
+        "onboard_time": 1740747618,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 23523,
+        "num": 318265,
+        "word": "孟子义点亮春日米兰",
+        "onboard_time": 1740752422,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 27552,
+        "num": 313340,
+        "word": "FBI被指阻止披露爱泼斯坦信息",
+        "onboard_time": 1740752962,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 429426,
+        "num": 312349,
+        "word": "MLB 邓为",
+        "onboard_time": 1740750801,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 310085,
+        "num": 310085,
+        "word": "台湾正研究让所有适龄女性去当兵",
+        "onboard_time": 1740748460,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 21736,
+        "num": 307333,
+        "word": "夸克称好的搜索不必众里寻他",
+        "onboard_time": 1740751043,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 306914,
+        "num": 306914,
+        "word": "上海中小学已全面实施AB制午餐模式",
+        "onboard_time": 1740744319,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301002,
+        "num": 301002,
+        "word": "刘浩存广告词 既要又要凭什么不可以",
+        "onboard_time": 1740737900,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265989,
+        "num": 265989,
+        "word": "桑太太",
+        "onboard_time": 1740746899,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264314,
+        "num": 264314,
+        "word": "中国空间站将迎来首位外籍航天员",
+        "onboard_time": 1740746180,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 57937,
+        "num": 257985,
+        "word": "网红博主自曝跟团旅游被关进店里",
+        "onboard_time": 1740752901,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17709,
+        "num": 256424,
+        "word": "美国私营监狱股价暴涨背后的生意经",
+        "onboard_time": 1740752661,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 45476,
+        "num": 247614,
+        "word": "90后北漂被杀猪盘骗光十年积蓄",
+        "onboard_time": 1740751942,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 413581,
+        "num": 240811,
+        "word": "强奸未遂致人溺亡男子被判死刑",
+        "onboard_time": 1740742819,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1383258,
+        "num": 237710,
+        "word": "微信好霸道",
+        "onboard_time": 1740749181,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 232414,
+        "num": 232414,
+        "word": "莲花集团CEO疑似回应小米",
+        "onboard_time": 1740749720,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 230530,
+        "num": 230530,
+        "word": "优酷 12集",
+        "onboard_time": 1740728358,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226441,
+        "num": 226441,
+        "word": "周也空气齐刘海",
+        "onboard_time": 1740746118,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214980,
+        "num": 214980,
+        "word": "肖战超季看秀LOOK",
+        "onboard_time": 1740753200,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 213875,
+        "num": 213875,
+        "word": "死刑犯行刑前见亲属不得交流案情",
+        "onboard_time": 1740752182,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210957,
+        "num": 210957,
+        "word": "对象卷跑7万男子没钱透析",
+        "onboard_time": 1740749960,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206816,
+        "num": 206816,
+        "word": "知名电影人宋歌被判刑",
+        "onboard_time": 1740748218,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11411,
+        "num": 186002,
+        "word": "火山三文鱼",
+        "onboard_time": 1740752962,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 177964,
+        "num": 177964,
+        "word": "一顿饭从亲家变成仇家",
+        "onboard_time": 1740752721,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166194,
+        "num": 166194,
+        "word": "全国高度近视患者超1.3亿人",
+        "onboard_time": 1740741320,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165691,
+        "num": 165691,
+        "word": "白鹿是大华子第一人选",
+        "onboard_time": 1740750620,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154068,
+        "num": 154068,
+        "word": "最强大脑",
+        "onboard_time": 1740747618,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152571,
+        "num": 152571,
+        "word": "老外学好中文有多重要",
+        "onboard_time": 1740752240,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148327,
+        "num": 148327,
+        "word": "你应该退税还是补税",
+        "onboard_time": 1740751043,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145288,
+        "num": 145288,
+        "word": "陈林犯罪情节极为恶劣",
+        "onboard_time": 1740747199,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143934,
+        "num": 143934,
+        "word": "赵丽颖杨幂迪丽热巴杨紫2024商业价值明星",
+        "onboard_time": 1740738439,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141087,
+        "num": 141087,
+        "word": "南航乘客被废弃针头扎出血后陷抑郁",
+        "onboard_time": 1740728297,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129706,
+        "num": 129706,
+        "word": "韩妆和酱香饼的教程",
+        "onboard_time": 1740753562,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}

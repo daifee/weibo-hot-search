@@ -1,6 +1,6 @@
 {
   "startTime": 1740673831596,
-  "endTime": 1740752545613,
+  "endTime": 1740753629359,
   "band_list": [
     {
       "raw_hot": 8399964,
@@ -91,6 +91,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1383258,
+      "num": 248816,
+      "word": "微信好霸道",
+      "onboard_time": 1740749181,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1344833,
       "num": 1344833,
       "word": "南航乘客被废弃针头扎出血后陷抑郁",
@@ -153,6 +161,22 @@
       "onboard_time": 1740725778,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1033157,
+      "num": 1033157,
+      "word": "东方集团涉嫌重大财务造假",
+      "onboard_time": 1740750979,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1006678,
+      "num": 1006678,
+      "word": "爱你 黄灿灿",
+      "onboard_time": 1740751879,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 974787,
@@ -267,14 +291,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 727101,
-      "num": 248816,
-      "word": "微信好霸道",
-      "onboard_time": 1740749181,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 679114,
       "num": 679114,
       "word": "姐妹俩患不食人间烟火罕见病",
@@ -337,6 +353,14 @@
       "onboard_time": 1740719420,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 621056,
+      "num": 553341,
+      "word": "杨紫上身25春夏最新季高定",
+      "onboard_time": 1740751221,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 612787,
@@ -499,6 +523,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 515855,
+      "num": 515855,
+      "word": "七星连珠好运连连",
+      "onboard_time": 1740725178,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 504592,
       "num": 504592,
       "word": "金价为何大跳水",
@@ -552,14 +584,6 @@
       "word": "蒋胜男称去年的提案被办复",
       "onboard_time": 1740733158,
       "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 478860,
-      "num": 478860,
-      "word": "东方集团涉嫌重大财务造假",
-      "onboard_time": 1740750979,
-      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -619,14 +643,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 440675,
-      "num": 440675,
-      "word": "七星连珠好运连连",
-      "onboard_time": 1740725178,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 438173,
       "num": 438173,
       "word": "韩安冉直播切片1个月卖了800多万",
@@ -651,12 +667,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 427797,
-      "num": 427797,
-      "word": "爱你 黄灿灿",
-      "onboard_time": 1740751879,
-      "rank": 9,
-      "category": "剧集"
+      "raw_hot": 429426,
+      "num": 335133,
+      "word": "MLB 邓为",
+      "onboard_time": 1740750801,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 416597,
@@ -665,14 +681,6 @@
       "onboard_time": 1740701238,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 413396,
-      "num": 335133,
-      "word": "MLB 邓为",
-      "onboard_time": 1740750801,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 413099,
@@ -697,6 +705,14 @@
       "onboard_time": 1740709098,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 403525,
+      "num": 415180,
+      "word": "日本米价暴涨却怪中国",
+      "onboard_time": 1740751221,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 399735,
@@ -787,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 340633,
+      "num": 340633,
+      "word": "小盐巴手机壳",
+      "onboard_time": 1740748640,
+      "rank": 37,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 337480,
       "num": 230321,
       "word": "薛小婉怒斥韩安冉",
@@ -825,22 +849,6 @@
       "onboard_time": 1740660319,
       "rank": 7,
       "category": "汽车,互联网"
-    },
-    {
-      "raw_hot": 328973,
-      "num": 339702,
-      "word": "杨紫上身25春夏最新季高定",
-      "onboard_time": 1740751221,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 327677,
-      "num": 327677,
-      "word": "小盐巴手机壳",
-      "onboard_time": 1740748640,
-      "rank": 37,
-      "category": "时尚"
     },
     {
       "raw_hot": 326284,
@@ -993,14 +1001,6 @@
       "onboard_time": 1740673576,
       "rank": 23,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 271114,
-      "num": 415180,
-      "word": "日本米价暴涨却怪中国",
-      "onboard_time": 1740751221,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 267005,
@@ -1203,6 +1203,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 240975,
+      "num": 1335586,
+      "word": "外国人上太空要先学中文了",
+      "onboard_time": 1740750801,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 240784,
       "num": 240784,
       "word": "ILLIT公开应援棒",
@@ -1315,19 +1323,27 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 215541,
-      "num": 1242790,
-      "word": "外国人上太空要先学中文了",
-      "onboard_time": 1740750801,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 215502,
       "num": 215502,
       "word": "女子嫌金价太高在家自制金戒指",
       "onboard_time": 1740656599,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 214980,
+      "num": 214980,
+      "word": "肖战超季看秀LOOK",
+      "onboard_time": 1740753200,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 213875,
+      "num": 213875,
+      "word": "死刑犯行刑前见亲属不得交流案情",
+      "onboard_time": 1740752182,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -1353,6 +1369,14 @@
       "onboard_time": 1740670218,
       "rank": 16,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 206816,
+      "num": 260067,
+      "word": "知名电影人宋歌被判刑",
+      "onboard_time": 1740748218,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 206552,
@@ -1513,14 +1537,6 @@
       "onboard_time": 1740706158,
       "rank": 28,
       "category": "艺人,美妆"
-    },
-    {
-      "raw_hot": 191718,
-      "num": 260067,
-      "word": "知名电影人宋歌被判刑",
-      "onboard_time": 1740748218,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 191203,
@@ -1747,6 +1763,14 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 177964,
+      "num": 177964,
+      "word": "一顿饭从亲家变成仇家",
+      "onboard_time": 1740752721,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176968,
       "num": 176968,
       "word": "杨妞花说自己真的要重生了",
@@ -1905,6 +1929,14 @@
       "onboard_time": 1740712697,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165691,
+      "num": 165691,
+      "word": "白鹿是大华子第一人选",
+      "onboard_time": 1740750620,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 165223,
@@ -2123,14 +2155,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 153673,
-      "num": 153673,
-      "word": "白鹿是大华子第一人选",
-      "onboard_time": 1740750620,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 153262,
       "num": 153262,
       "word": "王一博告别2月一支库存",
@@ -2161,6 +2185,14 @@
       "onboard_time": 1740747199,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 152571,
+      "num": 189523,
+      "word": "老外学好中文有多重要",
+      "onboard_time": 1740752240,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152564,
@@ -2499,14 +2531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 133759,
-      "num": 189523,
-      "word": "老外学好中文有多重要",
-      "onboard_time": 1740752240,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 133539,
       "num": 418024,
       "word": "夸克AI搜索上线深度思考",
@@ -2595,12 +2619,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129998,
-      "num": 129998,
-      "word": "死刑犯行刑前见亲属不得交流案情",
-      "onboard_time": 1740752182,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 129706,
+      "num": 129706,
+      "word": "韩妆和酱香饼的教程",
+      "onboard_time": 1740753562,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 128000,
@@ -3315,6 +3339,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 57937,
+      "num": 257985,
+      "word": "网红博主自曝跟团旅游被关进店里",
+      "onboard_time": 1740752901,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56780,
       "num": 98136,
       "word": "外交部回应美挑拨离间中俄关系",
@@ -3435,6 +3467,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 45476,
+      "num": 257215,
+      "word": "90后北漂被杀猪盘骗光十年积蓄",
+      "onboard_time": 1740751942,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45040,
       "num": 70926,
       "word": "国安提醒这些机场风景不能拍",
@@ -3465,6 +3505,14 @@
       "onboard_time": 1740740659,
       "rank": 14,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 40839,
+      "num": 520292,
+      "word": "律师解读余华英死刑前会见近亲属",
+      "onboard_time": 1740752721,
+      "rank": 9,
+      "category": "民生新闻,国内时政"
     },
     {
       "raw_hot": 40668,
@@ -3571,12 +3619,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 26743,
-      "num": 257215,
-      "word": "90后北漂被杀猪盘骗光十年积蓄",
-      "onboard_time": 1740751942,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 27552,
+      "num": 313340,
+      "word": "FBI被指阻止披露爱泼斯坦信息",
+      "onboard_time": 1740752962,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 26293,
@@ -3601,6 +3649,14 @@
       "onboard_time": 1740679153,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 23523,
+      "num": 318265,
+      "word": "孟子义点亮春日米兰",
+      "onboard_time": 1740752422,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 22618,
@@ -3657,6 +3713,14 @@
       "onboard_time": 1740707958,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 17709,
+      "num": 256424,
+      "word": "美国私营监狱股价暴涨背后的生意经",
+      "onboard_time": 1740752661,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 17443,
@@ -3739,6 +3803,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 11411,
+      "num": 186002,
+      "word": "火山三文鱼",
+      "onboard_time": 1740752962,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 10942,
       "num": 36236,
       "word": "重庆的轨道列车载着春色穿行花海",
@@ -3753,14 +3825,6 @@
       "onboard_time": 1740727219,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 9541,
-      "num": 243939,
-      "word": "孟子义点亮春日米兰",
-      "onboard_time": 1740752422,
-      "rank": 32,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 9289,
@@ -3791,6 +3855,9 @@
     },
     {
       "word": "#习近平会见俄罗斯联邦安全会议秘书绍伊古#"
+    },
+    {
+      "word": "#中共中央政治局召开会议#"
     }
   ]
 }
