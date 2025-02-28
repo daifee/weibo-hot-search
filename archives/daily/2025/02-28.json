@@ -1,6 +1,6 @@
 {
   "startTime": 1740673831596,
-  "endTime": 1740707132670,
+  "endTime": 1740708177092,
   "band_list": [
     {
       "raw_hot": 1564084,
@@ -11,6 +11,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1522697,
+      "num": 1522697,
+      "word": "顾茜茜抖音账号被禁言",
+      "onboard_time": 1740698477,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1512918,
       "num": 171986,
       "word": "关晓彤",
@@ -19,19 +27,51 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1470846,
-      "num": 1470846,
-      "word": "顾茜茜抖音账号被禁言",
-      "onboard_time": 1740698477,
-      "rank": 3,
-      "category": "网红"
-    },
-    {
       "raw_hot": 974787,
-      "num": 567992,
+      "num": 861562,
       "word": "无忧传媒称与刘畊宏变为商务合作",
       "onboard_time": 1740703459,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 901535,
+      "num": 901535,
+      "word": "雷军昨晚有点失眠",
+      "onboard_time": 1740701778,
+      "rank": 1,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 831624,
+      "num": 831624,
+      "word": "保时捷",
+      "onboard_time": 1740705319,
+      "rank": 12,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 734643,
+      "num": 734643,
+      "word": "Bin说因为bug输掉比赛",
+      "onboard_time": 1740702860,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 723303,
+      "num": 772501,
+      "word": "金价大跳水了",
+      "onboard_time": 1740707118,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 663962,
+      "num": 553620,
+      "word": "安宥真曾称中国结为韩国之美",
+      "onboard_time": 1740705319,
+      "rank": 7,
       "category": "艺人"
     },
     {
@@ -41,22 +81,6 @@
       "onboard_time": 1740664581,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 647424,
-      "num": 553620,
-      "word": "安宥真曾称中国结为韩国之美",
-      "onboard_time": 1740705319,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 613090,
-      "num": 613090,
-      "word": "雷军昨晚有点失眠",
-      "onboard_time": 1740701778,
-      "rank": 1,
-      "category": "汽车"
     },
     {
       "raw_hot": 611458,
@@ -75,28 +99,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 581510,
-      "num": 239112,
-      "word": "接吻超58小时破纪录夫妇宣布分手",
-      "onboard_time": 1740655519,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 563947,
-      "num": 563947,
+      "raw_hot": 592118,
+      "num": 592118,
       "word": "美司法部公布爱泼斯坦案首批文件",
       "onboard_time": 1740702018,
       "rank": 4,
       "category": "国际时政"
     },
     {
-      "raw_hot": 551474,
-      "num": 551474,
-      "word": "Bin说因为bug输掉比赛",
-      "onboard_time": 1740702860,
-      "rank": 8,
-      "category": "电竞"
+      "raw_hot": 581510,
+      "num": 239112,
+      "word": "接吻超58小时破纪录夫妇宣布分手",
+      "onboard_time": 1740655519,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 542376,
@@ -140,19 +156,11 @@
     },
     {
       "raw_hot": 462772,
-      "num": 244206,
+      "num": 298554,
       "word": "女子买一斤半小番茄被路人吃掉一斤",
       "onboard_time": 1740701419,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 432266,
-      "num": 432266,
-      "word": "保时捷",
-      "onboard_time": 1740705319,
-      "rank": 12,
-      "category": "汽车"
     },
     {
       "raw_hot": 416597,
@@ -161,6 +169,14 @@
       "onboard_time": 1740701238,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 411065,
+      "num": 411065,
+      "word": "刘畊宏较巅峰时期掉粉854万",
+      "onboard_time": 1740707058,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 399735,
@@ -177,6 +193,14 @@
       "onboard_time": 1740665960,
       "rank": 4,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 366251,
+      "num": 366251,
+      "word": "老伴去世4个月大爷每天去墓前看望",
+      "onboard_time": 1740705379,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 353023,
@@ -227,20 +251,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 314141,
+      "num": 314141,
+      "word": "金价为何大跳水",
+      "onboard_time": 1740707058,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 272687,
       "num": 168316,
       "word": "陈昊宇柳智敏边佑锡生图",
       "onboard_time": 1740673576,
       "rank": 23,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 268958,
-      "num": 268958,
-      "word": "老伴去世4个月大爷每天去墓前看望",
-      "onboard_time": 1740705379,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 247286,
@@ -283,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 237448,
+      "num": 237448,
+      "word": "58岁男子胸部长拇指大疙瘩确诊乳腺癌",
+      "onboard_time": 1740705258,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 234619,
       "num": 234619,
       "word": "方媛感受到了祖国的温暖",
@@ -299,12 +331,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227120,
+      "num": 258405,
+      "word": "上海户籍人口平均生育年龄32.58岁",
+      "onboard_time": 1740706697,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 225914,
       "num": 206548,
       "word": "孟子义米兰时装周出发啦",
       "onboard_time": 1740671719,
       "rank": 17,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 220039,
+      "num": 220039,
+      "word": "偶遇林志炫在拙政园当导游",
+      "onboard_time": 1740707958,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 215502,
@@ -323,19 +371,19 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 207942,
+      "num": 207942,
+      "word": "Angelababy36岁生日照",
+      "onboard_time": 1740708019,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204883,
       "num": 204883,
       "word": "中传毕业生龙丽莎发视频报平安",
       "onboard_time": 1740701958,
       "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 203248,
-      "num": 203248,
-      "word": "58岁男子胸部长拇指大疙瘩确诊乳腺癌",
-      "onboard_time": 1740705258,
-      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -379,6 +427,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 164936,
+      "num": 164936,
+      "word": "白玉兰",
+      "onboard_time": 1740703459,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 162713,
+      "num": 162713,
+      "word": "369 咖哥我练好了",
+      "onboard_time": 1740706338,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 157824,
       "num": 157824,
       "word": "小米",
@@ -411,6 +475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 152914,
+      "num": 152914,
+      "word": "用鹿晗一首歌向春天说你好",
+      "onboard_time": 1740703519,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 151578,
       "num": 151578,
       "word": "Gucci全平台更新肖战",
@@ -427,20 +499,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 149215,
-      "num": 149215,
-      "word": "白玉兰",
-      "onboard_time": 1740703459,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 143561,
-      "num": 143561,
-      "word": "用鹿晗一首歌向春天说你好",
-      "onboard_time": 1740703519,
-      "rank": 37,
-      "category": "音乐"
+      "raw_hot": 148235,
+      "num": 148235,
+      "word": "一只猫怎么可以倒霉成这样",
+      "onboard_time": 1740702679,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 142859,
@@ -449,14 +513,6 @@
       "onboard_time": 1740698717,
       "rank": 38,
       "category": "美食"
-    },
-    {
-      "raw_hot": 139740,
-      "num": 139740,
-      "word": "369 咖哥我练好了",
-      "onboard_time": 1740706338,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 135456,
@@ -475,12 +531,12 @@
       "category": "国际时政,国内时政"
     },
     {
-      "raw_hot": 134823,
-      "num": 134823,
-      "word": "上海户籍人口平均生育年龄32.58岁",
-      "onboard_time": 1740706697,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 135301,
+      "num": 135301,
+      "word": "勇士vs魔术",
+      "onboard_time": 1740706938,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 134519,
@@ -489,6 +545,14 @@
       "onboard_time": 1740690791,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132180,
+      "num": 305591,
+      "word": "付辛博说颖儿的努力会被看到",
+      "onboard_time": 1740698414,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 131448,
@@ -507,27 +571,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130303,
-      "num": 130303,
-      "word": "一只猫怎么可以倒霉成这样",
-      "onboard_time": 1740702679,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 129713,
-      "num": 129713,
-      "word": "付辛博说颖儿的努力会被看到",
-      "onboard_time": 1740698414,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 125752,
-      "num": 125752,
-      "word": "勇士vs魔术",
-      "onboard_time": 1740706938,
-      "rank": 46,
+      "raw_hot": 130099,
+      "num": 130099,
+      "word": "陈梦可用金卡身份参加WTT大满贯正赛",
+      "onboard_time": 1740704538,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -537,14 +585,6 @@
       "onboard_time": 1740672678,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 124655,
-      "num": 124655,
-      "word": "金价为何大跳水",
-      "onboard_time": 1740707058,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 123258,
@@ -577,14 +617,6 @@
       "onboard_time": 1740664461,
       "rank": 30,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 118753,
-      "num": 118753,
-      "word": "刘畊宏较巅峰时期掉粉854万",
-      "onboard_time": 1740707058,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 115008,
@@ -844,7 +876,7 @@
     },
     {
       "raw_hot": 55337,
-      "num": 568503,
+      "num": 863616,
       "word": "那些你不知道的北京地儿",
       "onboard_time": 1740655218,
       "rank": 2,
@@ -945,6 +977,30 @@
       "onboard_time": 1740698236,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 18424,
+      "num": 221271,
+      "word": "奥地利将建3党联合政府",
+      "onboard_time": 1740707958,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 17443,
+      "num": 208189,
+      "word": "爱泼斯坦首批文件深度编辑处理",
+      "onboard_time": 1740708019,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 17218,
+      "num": 201149,
+      "word": "美司法部长称爱泼斯坦行为令人作呕",
+      "onboard_time": 1740707958,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 16914,

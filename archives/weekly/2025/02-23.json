@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740707132670,
+  "endTime": 1740708177092,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -531,6 +531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1522697,
+      "num": 1522697,
+      "word": "顾茜茜抖音账号被禁言",
+      "onboard_time": 1740698477,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1520337,
       "num": 597233,
       "word": "厌食女子被加喂营养餐多脏器衰竭",
@@ -569,14 +577,6 @@
       "onboard_time": 1740381439,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1470846,
-      "num": 1470846,
-      "word": "顾茜茜抖音账号被禁言",
-      "onboard_time": 1740698477,
-      "rank": 3,
-      "category": "网红"
     },
     {
       "raw_hot": 1467531,
@@ -1300,7 +1300,7 @@
     },
     {
       "raw_hot": 974787,
-      "num": 567992,
+      "num": 861562,
       "word": "无忧传媒称与刘畊宏变为商务合作",
       "onboard_time": 1740703459,
       "rank": 3,
@@ -1491,6 +1491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 901535,
+      "num": 901535,
+      "word": "雷军昨晚有点失眠",
+      "onboard_time": 1740701778,
+      "rank": 1,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 896881,
       "num": 382306,
       "word": "千金归来",
@@ -1601,6 +1609,14 @@
       "onboard_time": 1740571639,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 831624,
+      "num": 831624,
+      "word": "保时捷",
+      "onboard_time": 1740705319,
+      "rank": 12,
+      "category": "汽车"
     },
     {
       "raw_hot": 830758,
@@ -1931,6 +1947,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 734643,
+      "num": 734643,
+      "word": "Bin说因为bug输掉比赛",
+      "onboard_time": 1740702860,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 728572,
       "num": 449398,
       "word": "南京师范大学涉事办公室已被查封",
@@ -1961,6 +1985,14 @@
       "onboard_time": 1740387263,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 723303,
+      "num": 772501,
+      "word": "金价大跳水了",
+      "onboard_time": 1740707118,
+      "rank": 5,
+      "category": "财经"
     },
     {
       "raw_hot": 722428,
@@ -2331,6 +2363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 663962,
+      "num": 553620,
+      "word": "安宥真曾称中国结为韩国之美",
+      "onboard_time": 1740705319,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 662866,
       "num": 662866,
       "word": "绯闻女孩乔治娜演员去世",
@@ -2440,14 +2480,6 @@
       "word": "周扬青和男嘉宾情人节约会vlog",
       "onboard_time": 1740637399,
       "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 647424,
-      "num": 553620,
-      "word": "安宥真曾称中国结为韩国之美",
-      "onboard_time": 1740705319,
-      "rank": 7,
       "category": "艺人"
     },
     {
@@ -2587,14 +2619,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 613090,
-      "num": 613090,
-      "word": "雷军昨晚有点失眠",
-      "onboard_time": 1740701778,
-      "rank": 1,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 611741,
       "num": 611741,
       "word": "杨紫置顶自己",
@@ -2729,6 +2753,14 @@
       "onboard_time": 1740279200,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 592118,
+      "num": 592118,
+      "word": "美司法部公布爱泼斯坦案首批文件",
+      "onboard_time": 1740702018,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 591931,
@@ -2899,14 +2931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 563947,
-      "num": 563947,
-      "word": "美司法部公布爱泼斯坦案首批文件",
-      "onboard_time": 1740702018,
-      "rank": 4,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 562675,
       "num": 562675,
       "word": "DeepSeek总结我国最值钱十大证书",
@@ -2945,14 +2969,6 @@
       "onboard_time": 1740475461,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 551474,
-      "num": 551474,
-      "word": "Bin说因为bug输掉比赛",
-      "onboard_time": 1740702860,
-      "rank": 8,
-      "category": "电竞"
     },
     {
       "raw_hot": 549632,
@@ -3644,7 +3660,7 @@
     },
     {
       "raw_hot": 462772,
-      "num": 244206,
+      "num": 298554,
       "word": "女子买一斤半小番茄被路人吃掉一斤",
       "onboard_time": 1740701419,
       "rank": 20,
@@ -3867,14 +3883,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 432266,
-      "num": 432266,
-      "word": "保时捷",
-      "onboard_time": 1740705319,
-      "rank": 12,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 432233,
       "num": 352873,
       "word": "孙艺珍43岁状态",
@@ -4057,6 +4065,14 @@
       "onboard_time": 1740536959,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 411065,
+      "num": 411065,
+      "word": "刘畊宏较巅峰时期掉粉854万",
+      "onboard_time": 1740707058,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 408604,
@@ -4433,6 +4449,14 @@
       "onboard_time": 1740612436,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 366251,
+      "num": 366251,
+      "word": "老伴去世4个月大爷每天去墓前看望",
+      "onboard_time": 1740705379,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 364727,
@@ -5001,6 +5025,14 @@
       "onboard_time": 1740633738,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 314141,
+      "num": 314141,
+      "word": "金价为何大跳水",
+      "onboard_time": 1740707058,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 313645,
@@ -5723,14 +5755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 268958,
-      "num": 268958,
-      "word": "老伴去世4个月大爷每天去墓前看望",
-      "onboard_time": 1740705379,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 268814,
       "num": 268814,
       "word": "23岁中职老师上5节课的一天",
@@ -6363,6 +6387,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 237448,
+      "num": 237448,
+      "word": "58岁男子胸部长拇指大疙瘩确诊乳腺癌",
+      "onboard_time": 1740705258,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 237375,
       "num": 237375,
       "word": "撒贝宁也收到了王鸥的明侦手链",
@@ -6683,6 +6715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227120,
+      "num": 258405,
+      "word": "上海户籍人口平均生育年龄32.58岁",
+      "onboard_time": 1740706697,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 227040,
       "num": 227040,
       "word": "爱你谈一场气血很足的恋爱",
@@ -6913,6 +6953,14 @@
       "onboard_time": 1740236662,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 220039,
+      "num": 220039,
+      "word": "偶遇林志炫在拙政园当导游",
+      "onboard_time": 1740707958,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 219859,
@@ -7387,6 +7435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207942,
+      "num": 207942,
+      "word": "Angelababy36岁生日照",
+      "onboard_time": 1740708019,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207865,
       "num": 207865,
       "word": "老总震惊主播月销量顶传统集团一年",
@@ -7585,14 +7641,6 @@
       "onboard_time": 1740583280,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 203248,
-      "num": 203248,
-      "word": "58岁男子胸部长拇指大疙瘩确诊乳腺癌",
-      "onboard_time": 1740705258,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 202867,
@@ -9931,6 +9979,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 164936,
+      "num": 164936,
+      "word": "白玉兰",
+      "onboard_time": 1740703459,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164745,
       "num": 164745,
       "word": "最低气温回升速度赶不上最高气温",
@@ -10089,6 +10145,14 @@
       "onboard_time": 1740295759,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162713,
+      "num": 162713,
+      "word": "369 咖哥我练好了",
+      "onboard_time": 1740706338,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 162698,
@@ -10731,6 +10795,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 152914,
+      "num": 152914,
+      "word": "用鹿晗一首歌向春天说你好",
+      "onboard_time": 1740703519,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 152512,
       "num": 152512,
       "word": "JDG常规赛开门红",
@@ -10971,14 +11043,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 149215,
-      "num": 149215,
-      "word": "白玉兰",
-      "onboard_time": 1740703459,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 149180,
       "num": 252593,
       "word": "中俄元首通电话",
@@ -11065,6 +11129,14 @@
       "onboard_time": 1740485301,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 148235,
+      "num": 148235,
+      "word": "一只猫怎么可以倒霉成这样",
+      "onboard_time": 1740702679,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 148192,
@@ -11379,14 +11451,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 143561,
-      "num": 143561,
-      "word": "用鹿晗一首歌向春天说你好",
-      "onboard_time": 1740703519,
-      "rank": 37,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 143396,
       "num": 143396,
       "word": "永远在自救的古偶女主",
@@ -11545,14 +11609,6 @@
       "onboard_time": 1740468861,
       "rank": 40,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 139740,
-      "num": 139740,
-      "word": "369 咖哥我练好了",
-      "onboard_time": 1740706338,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 139483,
@@ -11859,6 +11915,14 @@
       "category": "国际时政,国内时政"
     },
     {
+      "raw_hot": 135301,
+      "num": 135301,
+      "word": "勇士vs魔术",
+      "onboard_time": 1740706938,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135063,
       "num": 200212,
       "word": "春风十里不如你",
@@ -11881,14 +11945,6 @@
       "onboard_time": 1740389299,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 134823,
-      "num": 134823,
-      "word": "上海户籍人口平均生育年龄32.58岁",
-      "onboard_time": 1740706697,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134667,
@@ -12027,6 +12083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132180,
+      "num": 305591,
+      "word": "付辛博说颖儿的努力会被看到",
+      "onboard_time": 1740698414,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132149,
       "num": 163393,
       "word": "湖北师大回应初中学历者进校就职",
@@ -12131,12 +12195,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130303,
-      "num": 130303,
-      "word": "一只猫怎么可以倒霉成这样",
-      "onboard_time": 1740702679,
-      "rank": 44,
-      "category": "幽默"
+      "raw_hot": 130099,
+      "num": 130099,
+      "word": "陈梦可用金卡身份参加WTT大满贯正赛",
+      "onboard_time": 1740704538,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 130080,
@@ -12177,14 +12241,6 @@
       "onboard_time": 1740446298,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 129713,
-      "num": 129713,
-      "word": "付辛博说颖儿的努力会被看到",
-      "onboard_time": 1740698414,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 129703,
@@ -12395,14 +12451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125752,
-      "num": 125752,
-      "word": "勇士vs魔术",
-      "onboard_time": 1740706938,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 125666,
       "num": 308183,
       "word": "张宥浩不语只一味追星合影",
@@ -12473,14 +12521,6 @@
       "onboard_time": 1740237322,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 124655,
-      "num": 124655,
-      "word": "金价为何大跳水",
-      "onboard_time": 1740707058,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 124524,
@@ -12769,14 +12809,6 @@
       "onboard_time": 1740549020,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 118753,
-      "num": 118753,
-      "word": "刘畊宏较巅峰时期掉粉854万",
-      "onboard_time": 1740707058,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 118627,
@@ -17099,6 +17131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 18424,
+      "num": 221271,
+      "word": "奥地利将建3党联合政府",
+      "onboard_time": 1740707958,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 17919,
       "num": 146049,
       "word": "DeepSeek评35岁职场危机",
@@ -17113,6 +17153,14 @@
       "onboard_time": 1740381979,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17443,
+      "num": 208189,
+      "word": "爱泼斯坦首批文件深度编辑处理",
+      "onboard_time": 1740708019,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 17408,
@@ -17137,6 +17185,14 @@
       "onboard_time": 1740243976,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17218,
+      "num": 201149,
+      "word": "美司法部长称爱泼斯坦行为令人作呕",
+      "onboard_time": 1740707958,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 17198,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1740708177092,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1522697,
+        "num": 1522697,
+        "word": "顾茜茜抖音账号被禁言",
+        "onboard_time": 1740698477,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 901535,
+        "num": 901535,
+        "word": "雷军昨晚有点失眠",
+        "onboard_time": 1740701778,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 52557,
+        "num": 863616,
+        "word": "那些你不知道的北京地儿",
+        "onboard_time": 1740655218,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 966579,
+        "num": 861562,
+        "word": "无忧传媒称与刘畊宏变为商务合作",
+        "onboard_time": 1740703459,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 831624,
+        "num": 831624,
+        "word": "保时捷",
+        "onboard_time": 1740705319,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 723303,
+        "num": 772501,
+        "word": "金价大跳水了",
+        "onboard_time": 1740707118,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 734643,
+        "num": 734643,
+        "word": "Bin说因为bug输掉比赛",
+        "onboard_time": 1740702860,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 592118,
+        "num": 592118,
+        "word": "美司法部公布爱泼斯坦案首批文件",
+        "onboard_time": 1740702018,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 485764,
+        "num": 485764,
+        "word": "女演员遭遇中传失联学生同款剧组套路",
+        "onboard_time": 1740700037,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 411065,
+        "num": 411065,
+        "word": "刘畊宏较巅峰时期掉粉854万",
+        "onboard_time": 1740707058,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 928405,
+        "num": 410897,
+        "word": "哪吒2配音演员起诉配音公司",
+        "onboard_time": 1740667942,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 663962,
+        "num": 406485,
+        "word": "安宥真曾称中国结为韩国之美",
+        "onboard_time": 1740705319,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 546340,
+        "num": 402147,
+        "word": "两中国男子夜潜韩国寺庙偷骨灰",
+        "onboard_time": 1740698717,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 380387,
+        "num": 380387,
+        "word": "零食鲍菇螺肉主配料为福寿螺肉",
+        "onboard_time": 1740668961,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 368692,
+        "num": 368692,
+        "word": "麻花特开心2 沈腾马丽",
+        "onboard_time": 1740701238,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 366251,
+        "num": 366251,
+        "word": "老伴去世4个月大爷每天去墓前看望",
+        "onboard_time": 1740705379,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365525,
+        "num": 365525,
+        "word": "中国人研究月球土特产最新成果",
+        "onboard_time": 1740702259,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 314141,
+        "num": 314141,
+        "word": "金价为何大跳水",
+        "onboard_time": 1740707058,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 132180,
+        "num": 305591,
+        "word": "付辛博说颖儿的努力会被看到",
+        "onboard_time": 1740698414,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299189,
+        "num": 299189,
+        "word": "米兰偶遇孟子义宋雨琦吃川菜",
+        "onboard_time": 1740702860,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403702,
+        "num": 298554,
+        "word": "女子买一斤半小番茄被路人吃掉一斤",
+        "onboard_time": 1740701419,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278070,
+        "num": 278070,
+        "word": "境外间谍以调研为由哄骗未成年人拍照",
+        "onboard_time": 1740698717,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 268456,
+        "num": 268456,
+        "word": "雷军夸保时捷",
+        "onboard_time": 1740660319,
+        "rank": 22,
+        "category": "汽车,互联网"
+      },
+      {
+        "raw_hot": 227120,
+        "num": 258405,
+        "word": "上海户籍人口平均生育年龄32.58岁",
+        "onboard_time": 1740706697,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251929,
+        "num": 251929,
+        "word": "小米SU7Ultra",
+        "onboard_time": 1740662481,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 237448,
+        "num": 237448,
+        "word": "58岁男子胸部长拇指大疙瘩确诊乳腺癌",
+        "onboard_time": 1740705258,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227602,
+        "num": 227602,
+        "word": "李惠利晒郑秀斌送的蛋糕",
+        "onboard_time": 1740706158,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18424,
+        "num": 221271,
+        "word": "奥地利将建3党联合政府",
+        "onboard_time": 1740707958,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 220039,
+        "num": 220039,
+        "word": "偶遇林志炫在拙政园当导游",
+        "onboard_time": 1740707958,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17443,
+        "num": 208189,
+        "word": "爱泼斯坦首批文件深度编辑处理",
+        "onboard_time": 1740708019,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 207942,
+        "num": 207942,
+        "word": "Angelababy36岁生日照",
+        "onboard_time": 1740708019,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17218,
+        "num": 201149,
+        "word": "美司法部长称爱泼斯坦行为令人作呕",
+        "onboard_time": 1740707958,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 198521,
+        "num": 198521,
+        "word": "小猪佩奇猪妈妈怀三胎",
+        "onboard_time": 1740665960,
+        "rank": 32,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 193464,
+        "num": 193464,
+        "word": "樊振东可以金卡身份参加WTT大满贯正赛",
+        "onboard_time": 1740704301,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168790,
+        "num": 168790,
+        "word": "这些看似平常的照片可能暴露个人隐私",
+        "onboard_time": 1740700337,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164936,
+        "num": 164936,
+        "word": "白玉兰",
+        "onboard_time": 1740703459,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164225,
+        "num": 164225,
+        "word": "cos饺子导演的第一次见",
+        "onboard_time": 1740706158,
+        "rank": 36,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 162713,
+        "num": 162713,
+        "word": "369 咖哥我练好了",
+        "onboard_time": 1740706338,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 157558,
+        "num": 157558,
+        "word": "卡卡我尽了一切努力挽救婚姻",
+        "onboard_time": 1740664581,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154919,
+        "num": 154919,
+        "word": "法国也想要乌克兰矿产",
+        "onboard_time": 1740702679,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152914,
+        "num": 152914,
+        "word": "用鹿晗一首歌向春天说你好",
+        "onboard_time": 1740703519,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148235,
+        "num": 148235,
+        "word": "一只猫怎么可以倒霉成这样",
+        "onboard_time": 1740702679,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147391,
+        "num": 147391,
+        "word": "李维嘉这辈子有为王栎鑫拼过命",
+        "onboard_time": 1740661820,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142852,
+        "num": 142852,
+        "word": "伍声 小楼",
+        "onboard_time": 1740705138,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135301,
+        "num": 135301,
+        "word": "勇士vs魔术",
+        "onboard_time": 1740706938,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141497,
+        "num": 135256,
+        "word": "婚房7年没住被小区保洁换锁养鸡",
+        "onboard_time": 1740653418,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134411,
+        "num": 134411,
+        "word": "美俄正秘密谈判开发北极",
+        "onboard_time": 1740701357,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130099,
+        "num": 130099,
+        "word": "陈梦可用金卡身份参加WTT大满贯正赛",
+        "onboard_time": 1740704538,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127052,
+        "num": 127052,
+        "word": "中传毕业生龙丽莎发视频报平安",
+        "onboard_time": 1740701958,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126146,
+        "num": 126146,
+        "word": "前TVB甜妹唐宁回应满头白发",
+        "onboard_time": 1740668479,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#种下石榴籽开出团结花#"
+    }
+  }
+}
