@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740725098428,
+  "endTime": 1740727342121,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 2033111,
-      "num": 487062,
+      "num": 603682,
       "word": "甜馨回应变白了",
       "onboard_time": 1740719721,
       "rank": 10,
@@ -1611,6 +1611,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 883414,
+      "num": 883414,
+      "word": "DeepSeek去AI痕迹真的很牛",
+      "onboard_time": 1740723258,
+      "rank": 17,
+      "category": "互联网,数码"
+    },
+    {
       "raw_hot": 861212,
       "num": 861212,
       "word": "马航MH370新一轮搜索重启",
@@ -1697,6 +1705,14 @@
       "onboard_time": 1740571639,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 835344,
+      "num": 835344,
+      "word": "花少七阵容",
+      "onboard_time": 1740721459,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 831624,
@@ -1857,14 +1873,6 @@
       "onboard_time": 1740477079,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 786750,
-      "num": 786750,
-      "word": "花少七阵容",
-      "onboard_time": 1740721459,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 785518,
@@ -2723,6 +2731,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 617470,
+      "num": 617470,
+      "word": "董力和妻子没求婚没婚礼",
+      "onboard_time": 1740722239,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 616368,
+      "num": 616368,
+      "word": "下午3点到5点心情最糟糕",
+      "onboard_time": 1740725778,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 613715,
       "num": 613715,
       "word": "手机NFC功能碰一下钱就没了系摆拍",
@@ -2736,6 +2760,14 @@
       "word": "小行星撞地球概率为何一变再变",
       "onboard_time": 1740376159,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 612787,
+      "num": 612787,
+      "word": "杨妞花将回老家告慰父母",
+      "onboard_time": 1740722118,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -3507,6 +3539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 501502,
+      "num": 501502,
+      "word": "A股",
+      "onboard_time": 1740363800,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 497100,
       "num": 301878,
       "word": "六姊妹大结局",
@@ -3963,14 +4003,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 452540,
-      "num": 452540,
-      "word": "A股",
-      "onboard_time": 1740363800,
-      "rank": 24,
-      "category": "财经"
-    },
-    {
       "raw_hot": 452389,
       "num": 452389,
       "word": "黑长直惠利欧尼",
@@ -3984,14 +4016,6 @@
       "word": "被勒索200万撕票的罗大美案28日开庭",
       "onboard_time": 1740646159,
       "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 448808,
-      "num": 448808,
-      "word": "杨妞花将回老家告慰父母",
-      "onboard_time": 1740722118,
-      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -4435,14 +4459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 394650,
-      "num": 394650,
-      "word": "DeepSeek去AI痕迹真的很牛",
-      "onboard_time": 1740723258,
-      "rank": 17,
-      "category": "互联网,数码"
-    },
-    {
       "raw_hot": 394034,
       "num": 295341,
       "word": "麦当娜炮轰特朗普",
@@ -4601,14 +4617,6 @@
       "onboard_time": 1740546860,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 378529,
-      "num": 378529,
-      "word": "董力和妻子没求婚没婚礼",
-      "onboard_time": 1740722239,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 376835,
@@ -5228,7 +5236,7 @@
     },
     {
       "raw_hot": 319066,
-      "num": 319066,
+      "num": 328618,
       "word": "对张凌赫190的身高有了实感",
       "onboard_time": 1740717442,
       "rank": 41,
@@ -5313,6 +5321,14 @@
       "onboard_time": 1740564078,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 312577,
+      "num": 312577,
+      "word": "胡静老公提前给自己办葬礼",
+      "onboard_time": 1740723199,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 312167,
@@ -5544,6 +5560,14 @@
       "word": "台媒曝Melody新恋情",
       "onboard_time": 1740543441,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 297227,
+      "num": 297227,
+      "word": "2024年商业价值最高的10位明星",
+      "onboard_time": 1740724639,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -6292,7 +6316,7 @@
     },
     {
       "raw_hot": 256393,
-      "num": 191045,
+      "num": 201067,
       "word": "中共中央政治局召开会议讨论政府工作报告",
       "onboard_time": 1740723798,
       "rank": 24,
@@ -6435,20 +6459,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 248534,
-      "num": 236620,
-      "word": "胡静老公提前给自己办葬礼",
-      "onboard_time": 1740723199,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 248380,
       "num": 248380,
       "word": "杨迪在机场等粉丝上厕所",
       "onboard_time": 1740289520,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 247843,
+      "num": 247843,
+      "word": "带状疱疹经济负担超百亿",
+      "onboard_time": 1740726077,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 247590,
@@ -7803,6 +7827,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 208888,
+      "num": 208888,
+      "word": "胡静发的长文好真诚",
+      "onboard_time": 1740726859,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208774,
       "num": 208774,
       "word": "8万人围观1个人洗碗有啥魔力",
@@ -8081,6 +8113,14 @@
       "onboard_time": 1740583280,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203197,
+      "num": 203197,
+      "word": "哪吒2连续30天单日票房TOP1",
+      "onboard_time": 1740725117,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 202867,
@@ -8369,6 +8409,14 @@
       "onboard_time": 1740717020,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 197943,
+      "num": 302276,
+      "word": "赵丽颖2024微博品质度TOP1",
+      "onboard_time": 1740726617,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 197832,
@@ -9283,6 +9331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184464,
+      "num": 184464,
+      "word": "陈赫被端上来的活鸭吓得不敢睁眼",
+      "onboard_time": 1740725539,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184402,
       "num": 375470,
       "word": "复试时间",
@@ -9297,6 +9353,14 @@
       "onboard_time": 1740720141,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184242,
+      "num": 184242,
+      "word": "Karsa 9哥我们火了",
+      "onboard_time": 1740726859,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 183898,
@@ -9729,6 +9793,14 @@
       "onboard_time": 1740317722,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177120,
+      "num": 177120,
+      "word": "王心凌评论区成霸总直聘现场",
+      "onboard_time": 1740725659,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 177078,
@@ -10619,6 +10691,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 165223,
+      "num": 165223,
+      "word": "余华英被执行死刑杨妞花激动落泪",
+      "onboard_time": 1740721338,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165115,
       "num": 167037,
       "word": "黄老板感谢樊振东的金牌教程",
@@ -10889,6 +10969,14 @@
       "onboard_time": 1740641661,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161746,
+      "num": 161746,
+      "word": "破局饭圈乱象运动员也是关键",
+      "onboard_time": 1740726017,
+      "rank": 43,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 161715,
@@ -11299,14 +11387,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 156324,
-      "num": 161227,
-      "word": "2024年商业价值最高的10位明星",
-      "onboard_time": 1740724639,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 155685,
       "num": 192165,
       "word": "王楚钦签名回复粉丝祝福",
@@ -11539,6 +11619,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 152564,
+      "num": 329843,
+      "word": "江苏卫健委回应女子怀孕被当妇科病",
+      "onboard_time": 1740724818,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152512,
       "num": 152512,
       "word": "JDG常规赛开门红",
@@ -11673,14 +11761,6 @@
       "onboard_time": 1740446480,
       "rank": 32,
       "category": "数码"
-    },
-    {
-      "raw_hot": 150858,
-      "num": 150858,
-      "word": "余华英被执行死刑杨妞花激动落泪",
-      "onboard_time": 1740721338,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 150799,
@@ -12867,6 +12947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133088,
+      "num": 161936,
+      "word": "虞书欣2024微博涨粉量TOP",
+      "onboard_time": 1740726258,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132981,
       "num": 132981,
       "word": "考研查分紧张",
@@ -13201,6 +13289,14 @@
       "onboard_time": 1740309378,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 127686,
+      "num": 520434,
+      "word": "杨妞花得知余华英被执行死刑激动流泪",
+      "onboard_time": 1740726199,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127621,
@@ -14457,6 +14553,14 @@
       "onboard_time": 1740448759,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 102959,
+      "num": 327772,
+      "word": "网红餐厅未标过敏原致男子进ICU",
+      "onboard_time": 1740726379,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102896,
@@ -16443,14 +16547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 53303,
-      "num": 329843,
-      "word": "江苏卫健委回应女子怀孕被当妇科病",
-      "onboard_time": 1740724818,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 53276,
       "num": 379211,
       "word": "AI虽有大用看病还得靠医生",
@@ -16785,6 +16881,14 @@
       "onboard_time": 1740369803,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 46530,
+      "num": 205868,
+      "word": "又有自称KPL选手曝被MTG欠薪",
+      "onboard_time": 1740726980,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 46479,
@@ -17203,6 +17307,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 36063,
+      "num": 604224,
+      "word": "4年多次闪婚收高额彩礼被判返还",
+      "onboard_time": 1740726498,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35894,
       "num": 1521725,
       "word": "田间春管科技范儿十足",
@@ -17265,6 +17377,14 @@
       "onboard_time": 1740546261,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 34407,
+      "num": 428606,
+      "word": "爱泼斯坦案文件内容主要是飞行记录",
+      "onboard_time": 1740726798,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 34394,
@@ -18051,12 +18171,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20632,
+      "num": 205498,
+      "word": "罕见病孩子家长组团跑外卖",
+      "onboard_time": 1740727219,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20572,
       "num": 21886,
       "word": "肖战海外秀场应援",
       "onboard_time": 1740594131,
       "rank": 46,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 20395,
+      "num": 173825,
+      "word": "家庭版烤鱼做法",
+      "onboard_time": 1740726980,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 20331,
@@ -18665,6 +18801,14 @@
       "onboard_time": 1740648620,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 9460,
+      "num": 201522,
+      "word": "郑钦文亮相WTA全新宣传片",
+      "onboard_time": 1740727219,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 9405,

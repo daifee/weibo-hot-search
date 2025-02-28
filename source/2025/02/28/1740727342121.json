@@ -1,0 +1,410 @@
+{
+  "runTime": 1740727342121,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1989841,
+        "num": 1989841,
+        "word": "余华英被执行死刑",
+        "onboard_time": 1740716960,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1036982,
+        "num": 1036982,
+        "word": "余华英执行死刑前会见了近亲属",
+        "onboard_time": 1740719300,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28793,
+        "num": 965101,
+        "word": "田间春管科技范儿十足",
+        "onboard_time": 1740715338,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 923806,
+        "num": 923806,
+        "word": "金价大跳水了",
+        "onboard_time": 1740707118,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 883414,
+        "num": 883414,
+        "word": "DeepSeek去AI痕迹真的很牛",
+        "onboard_time": 1740723258,
+        "rank": 4,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 835344,
+        "num": 835344,
+        "word": "花少七阵容",
+        "onboard_time": 1740721459,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 617470,
+        "num": 617470,
+        "word": "董力和妻子没求婚没婚礼",
+        "onboard_time": 1740722239,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 616368,
+        "num": 616368,
+        "word": "下午3点到5点心情最糟糕",
+        "onboard_time": 1740725778,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 612787,
+        "num": 612787,
+        "word": "杨妞花将回老家告慰父母",
+        "onboard_time": 1740722118,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36063,
+        "num": 604224,
+        "word": "4年多次闪婚收高额彩礼被判返还",
+        "onboard_time": 1740726498,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1324862,
+        "num": 603682,
+        "word": "甜馨回应变白了",
+        "onboard_time": 1740719721,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 601797,
+        "num": 601797,
+        "word": "种地吧 爆哭",
+        "onboard_time": 1740719659,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127686,
+        "num": 520434,
+        "word": "杨妞花得知余华英被执行死刑激动流泪",
+        "onboard_time": 1740726199,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 501502,
+        "num": 501502,
+        "word": "A股",
+        "onboard_time": 1740724040,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 34407,
+        "num": 428606,
+        "word": "爱泼斯坦案文件内容主要是飞行记录",
+        "onboard_time": 1740726798,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 387728,
+        "num": 387728,
+        "word": "赵露思的苹果肌",
+        "onboard_time": 1740719540,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355485,
+        "num": 355485,
+        "word": "Angelababy36岁生日照",
+        "onboard_time": 1740708019,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331224,
+        "num": 331224,
+        "word": "锦月如歌已完成换脸",
+        "onboard_time": 1740718222,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245241,
+        "num": 328618,
+        "word": "对张凌赫190的身高有了实感",
+        "onboard_time": 1740717442,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102959,
+        "num": 327772,
+        "word": "网红餐厅未标过敏原致男子进ICU",
+        "onboard_time": 1740726379,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327111,
+        "num": 327111,
+        "word": "雷军发布会同款皮衣5分钟断货",
+        "onboard_time": 1740720619,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 312577,
+        "num": 312577,
+        "word": "胡静老公提前给自己办葬礼",
+        "onboard_time": 1740723199,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197943,
+        "num": 302276,
+        "word": "赵丽颖2024微博品质度TOP1",
+        "onboard_time": 1740726617,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297227,
+        "num": 297227,
+        "word": "2024年商业价值最高的10位明星",
+        "onboard_time": 1740724639,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265761,
+        "num": 265761,
+        "word": "复旦博士建议学生慎选人工智能等专业",
+        "onboard_time": 1740722778,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 247843,
+        "num": 247843,
+        "word": "带状疱疹经济负担超百亿",
+        "onboard_time": 1740726077,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 221482,
+        "num": 221482,
+        "word": "奔跑吧13将在三月底录制",
+        "onboard_time": 1740719841,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208888,
+        "num": 208888,
+        "word": "胡静发的长文好真诚",
+        "onboard_time": 1740726859,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46530,
+        "num": 205868,
+        "word": "又有自称KPL选手曝被MTG欠薪",
+        "onboard_time": 1740726980,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20632,
+        "num": 205498,
+        "word": "罕见病孩子家长组团跑外卖",
+        "onboard_time": 1740727219,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205344,
+        "num": 205344,
+        "word": "杨蓉央视严选",
+        "onboard_time": 1740724098,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203197,
+        "num": 203197,
+        "word": "哪吒2连续30天单日票房TOP1",
+        "onboard_time": 1740725117,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 9460,
+        "num": 201522,
+        "word": "郑钦文亮相WTA全新宣传片",
+        "onboard_time": 1740727219,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201067,
+        "num": 201067,
+        "word": "中共中央政治局召开会议讨论政府工作报告",
+        "onboard_time": 1740723798,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 200677,
+        "num": 200677,
+        "word": "金价为何大跳水",
+        "onboard_time": 1740707058,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 191914,
+        "num": 191914,
+        "word": "甜馨说我咋可能整容",
+        "onboard_time": 1740721040,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184464,
+        "num": 184464,
+        "word": "陈赫被端上来的活鸭吓得不敢睁眼",
+        "onboard_time": 1740725539,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184242,
+        "num": 184242,
+        "word": "Karsa 9哥我们火了",
+        "onboard_time": 1740726859,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 177120,
+        "num": 177120,
+        "word": "王心凌评论区成霸总直聘现场",
+        "onboard_time": 1740725659,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 20395,
+        "num": 173825,
+        "word": "家庭版烤鱼做法",
+        "onboard_time": 1740726980,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 173392,
+        "num": 173392,
+        "word": "当杨妞花得知余华英被执行死刑",
+        "onboard_time": 1740719721,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165223,
+        "num": 165223,
+        "word": "余华英被执行死刑杨妞花激动落泪",
+        "onboard_time": 1740721338,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133088,
+        "num": 161936,
+        "word": "虞书欣2024微博涨粉量TOP",
+        "onboard_time": 1740726258,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161746,
+        "num": 161746,
+        "word": "破局饭圈乱象运动员也是关键",
+        "onboard_time": 1740726017,
+        "rank": 43,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 159231,
+        "num": 159231,
+        "word": "曹斐然95后青衣",
+        "onboard_time": 1740720740,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72680,
+        "num": 155996,
+        "word": "中国汽车格局打开",
+        "onboard_time": 1740722239,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 51172,
+        "num": 154789,
+        "word": "WTT奥运冠军金卡新规4月实施",
+        "onboard_time": 1740724698,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26755,
+        "num": 154295,
+        "word": "沈星回这个视角好赞",
+        "onboard_time": 1740720619,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154281,
+        "num": 154281,
+        "word": "七星连珠",
+        "onboard_time": 1740714259,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 152564,
+        "num": 152564,
+        "word": "江苏卫健委回应女子怀孕被当妇科病",
+        "onboard_time": 1740724818,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋进的春天#"
+    }
+  }
+}
