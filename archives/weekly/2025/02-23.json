@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740782384323,
+  "endTime": 1740784905591,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -3156,7 +3156,7 @@
     },
     {
       "raw_hot": 579514,
-      "num": 168306,
+      "num": 173259,
       "word": "50岁大叔每天吃两斤花生瓜子胸部变大",
       "onboard_time": 1740761355,
       "rank": 10,
@@ -3217,6 +3217,14 @@
       "onboard_time": 1740382099,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 571735,
+      "num": 792883,
+      "word": "吒儿龙抬头这天冲上全球第七",
+      "onboard_time": 1740762256,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 571418,
@@ -4528,6 +4536,14 @@
       "word": "老人花2万多买床垫拆开主材是泡沫",
       "onboard_time": 1740291378,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 422790,
+      "num": 422790,
+      "word": "美乌总统会晤多次发生争执",
+      "onboard_time": 1740783793,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -6683,6 +6699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 263916,
+      "num": 201720,
+      "word": "刘畊宏谈流量下降",
+      "onboard_time": 1740779591,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 263320,
       "num": 263320,
       "word": "王楚钦提醒对手球台上有汗",
@@ -6873,14 +6897,6 @@
       "onboard_time": 1740400460,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 253637,
-      "num": 253637,
-      "word": "吒儿龙抬头这天冲上全球第七",
-      "onboard_time": 1740762256,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 253610,
@@ -8227,6 +8243,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 215656,
+      "num": 165078,
+      "word": "特朗普称泽连斯基28日早抵美",
+      "onboard_time": 1740767773,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 215652,
       "num": 312394,
       "word": "第五人格",
@@ -8521,6 +8545,14 @@
       "onboard_time": 1740480921,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 207978,
+      "num": 201110,
+      "word": "七星连珠 穿越时空的爱恋",
+      "onboard_time": 1740772930,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 207971,
@@ -8937,6 +8969,14 @@
       "onboard_time": 1740468680,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 200272,
+      "num": 200272,
+      "word": "央视用9年跟拍一群长跑少年",
+      "onboard_time": 1740781032,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200254,
@@ -12419,6 +12459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 155580,
+      "num": 155580,
+      "word": "三月第一天",
+      "onboard_time": 1740762615,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155420,
       "num": 155420,
       "word": "李威供出5名信徒身份",
@@ -12745,6 +12793,14 @@
       "onboard_time": 1740640037,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151605,
+      "num": 93905,
+      "word": "蒋欣自曝体重112斤",
+      "onboard_time": 1740784334,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 151578,
@@ -13739,14 +13795,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 138245,
-      "num": 65621,
-      "word": "特朗普称泽连斯基28日早抵美",
-      "onboard_time": 1740767773,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 138115,
       "num": 208629,
       "word": "朱易 随机应变",
@@ -14707,14 +14755,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 125386,
-      "num": 125386,
-      "word": "七星连珠 穿越时空的爱恋",
-      "onboard_time": 1740772930,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 125369,
       "num": 125369,
       "word": "夫人 唐总当众表白了",
@@ -15203,6 +15243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116787,
+      "num": 116787,
+      "word": "治理高额彩礼有决心有办法",
+      "onboard_time": 1740778511,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 116703,
       "num": 116703,
       "word": "叔叔句句有回应句句不答应",
@@ -15241,14 +15289,6 @@
       "onboard_time": 1740641478,
       "rank": 48,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 115730,
-      "num": 89340,
-      "word": "刘畊宏谈流量下降",
-      "onboard_time": 1740779591,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 115589,
@@ -15627,6 +15667,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 110274,
+      "num": 93449,
+      "word": "女子手麻跑错3科室靠DeepSeek找对医生",
+      "onboard_time": 1740780613,
+      "rank": 44,
+      "category": "健康医疗,互联网"
+    },
+    {
       "raw_hot": 109647,
       "num": 109647,
       "word": "今天你吃香菜了吗",
@@ -15833,6 +15881,14 @@
       "onboard_time": 1740532879,
       "rank": 45,
       "category": "军事"
+    },
+    {
+      "raw_hot": 105322,
+      "num": 105322,
+      "word": "多名环卫工对着公厕跪拜",
+      "onboard_time": 1740774131,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105276,
@@ -17243,6 +17299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 72094,
+      "num": 72094,
+      "word": "二月二你会和理发师过招吗",
+      "onboard_time": 1740763575,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72055,
       "num": 316303,
       "word": "学生吐槽放假回校热水费涨成天价",
@@ -17393,14 +17457,6 @@
       "onboard_time": 1740655338,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 67255,
-      "num": 67255,
-      "word": "治理高额彩礼有决心有办法",
-      "onboard_time": 1740778511,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 66948,
@@ -17715,6 +17771,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 62112,
+      "num": 62112,
+      "word": "3月第一个好消息是吒儿给的",
+      "onboard_time": 1740769512,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 61655,
       "num": 259149,
       "word": "deepseek教你如何和香菜共处",
@@ -17873,14 +17937,6 @@
       "onboard_time": 1740378981,
       "rank": 39,
       "category": "数码"
-    },
-    {
-      "raw_hot": 58430,
-      "num": 58430,
-      "word": "多名环卫工对着公厕跪拜",
-      "onboard_time": 1740774131,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 58260,
@@ -18259,14 +18315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 51504,
-      "num": 51504,
-      "word": "三月第一天",
-      "onboard_time": 1740762615,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 51413,
       "num": 190553,
       "word": "孙颖莎赢球后邱贻可振臂高呼",
@@ -18324,7 +18372,7 @@
     },
     {
       "raw_hot": 49991,
-      "num": 49991,
+      "num": 54479,
       "word": "英国首相称必须赢得乌克兰和平",
       "onboard_time": 1740768312,
       "rank": 21,
@@ -18587,14 +18635,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 46361,
-      "num": 46361,
-      "word": "央视用9年跟拍一群长跑少年",
-      "onboard_time": 1740781032,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 45922,
       "num": 1331825,
       "word": "沉浸式感受春日里生机勃勃的中国",
@@ -18609,14 +18649,6 @@
       "onboard_time": 1740436573,
       "rank": 48,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 45883,
-      "num": 45883,
-      "word": "二月二你会和理发师过招吗",
-      "onboard_time": 1740763575,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 45796,
@@ -18673,6 +18705,14 @@
       "onboard_time": 1740385763,
       "rank": 37,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 44714,
+      "num": 54636,
+      "word": "三月第1天龙抬头",
+      "onboard_time": 1740784274,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44713,
@@ -18737,14 +18777,6 @@
       "onboard_time": 1740638299,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 43247,
-      "num": 43247,
-      "word": "女子手麻跑错3科室靠DeepSeek找对医生",
-      "onboard_time": 1740780613,
-      "rank": 44,
-      "category": "健康医疗,互联网"
     },
     {
       "raw_hot": 43216,
@@ -18824,14 +18856,6 @@
       "word": "热辣滚烫2024热搜电影",
       "onboard_time": 1740737839,
       "rank": 45,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 41512,
-      "num": 41512,
-      "word": "3月第一个好消息是吒儿给的",
-      "onboard_time": 1740769512,
-      "rank": 31,
       "category": "电影"
     },
     {
@@ -19129,6 +19153,14 @@
       "onboard_time": 1740249133,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35131,
+      "num": 54469,
+      "word": "中俄是百炼成钢的真心朋友",
+      "onboard_time": 1740770711,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 35059,
@@ -20057,14 +20089,6 @@
       "onboard_time": 1740389240,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 21628,
-      "num": 39334,
-      "word": "中俄是百炼成钢的真心朋友",
-      "onboard_time": 1740770711,
-      "rank": 20,
-      "category": "国际时政"
     },
     {
       "raw_hot": 21127,

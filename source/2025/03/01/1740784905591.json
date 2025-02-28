@@ -1,0 +1,410 @@
+{
+  "runTime": 1740784905591,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 571735,
+        "num": 792883,
+        "word": "吒儿龙抬头这天冲上全球第七",
+        "onboard_time": 1740762256,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 422790,
+        "num": 422790,
+        "word": "美乌总统会晤多次发生争执",
+        "onboard_time": 1740783793,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71044,
+        "num": 364289,
+        "word": "外国人上太空要先学中文了",
+        "onboard_time": 1740750801,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 315449,
+        "num": 315449,
+        "word": "七星连珠",
+        "onboard_time": 1740714259,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 265442,
+        "num": 265442,
+        "word": "晴川",
+        "onboard_time": 1740747979,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202285,
+        "num": 202285,
+        "word": "姐妹俩患不食人间烟火罕见病",
+        "onboard_time": 1740747858,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263916,
+        "num": 201720,
+        "word": "刘畊宏谈流量下降",
+        "onboard_time": 1740779591,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207978,
+        "num": 201110,
+        "word": "七星连珠 穿越时空的爱恋",
+        "onboard_time": 1740772930,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200272,
+        "num": 200272,
+        "word": "央视用9年跟拍一群长跑少年",
+        "onboard_time": 1740781032,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174828,
+        "num": 174828,
+        "word": "日本米价暴涨却怪中国",
+        "onboard_time": 1740751221,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 523663,
+        "num": 173259,
+        "word": "50岁大叔每天吃两斤花生瓜子胸部变大",
+        "onboard_time": 1740761355,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238784,
+        "num": 171790,
+        "word": "东方集团涉嫌重大财务造假",
+        "onboard_time": 1740750979,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215656,
+        "num": 165078,
+        "word": "特朗普称泽连斯基28日早抵美",
+        "onboard_time": 1740767773,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 155580,
+        "num": 155580,
+        "word": "三月第一天",
+        "onboard_time": 1740762615,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116787,
+        "num": 116787,
+        "word": "治理高额彩礼有决心有办法",
+        "onboard_time": 1740778511,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106054,
+        "num": 106054,
+        "word": "小盐巴手机壳",
+        "onboard_time": 1740748640,
+        "rank": 15,
+        "category": "时尚,网红"
+      },
+      {
+        "raw_hot": 105322,
+        "num": 105322,
+        "word": "多名环卫工对着公厕跪拜",
+        "onboard_time": 1740774131,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103006,
+        "num": 103006,
+        "word": "死刑犯行刑前见亲属不得交流案情",
+        "onboard_time": 1740752182,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100810,
+        "num": 100810,
+        "word": "张艺兴说成员们都年过半六十",
+        "onboard_time": 1740758238,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 95354,
+        "num": 95354,
+        "word": "杨紫上身25春夏最新季高定",
+        "onboard_time": 1740751221,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151605,
+        "num": 93905,
+        "word": "蒋欣自曝体重112斤",
+        "onboard_time": 1740784334,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110274,
+        "num": 93449,
+        "word": "女子手麻跑错3科室靠DeepSeek找对医生",
+        "onboard_time": 1740780613,
+        "rank": 21,
+        "category": "健康医疗,互联网"
+      },
+      {
+        "raw_hot": 92205,
+        "num": 92205,
+        "word": "男子患癌花40多万半张脸没了",
+        "onboard_time": 1740727939,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90924,
+        "num": 90924,
+        "word": "王鹤棣颁奖现场尖叫声",
+        "onboard_time": 1740761416,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 83995,
+        "num": 83995,
+        "word": "文在寅最新涉华表态",
+        "onboard_time": 1740760757,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 83564,
+        "num": 83564,
+        "word": "哪吒2配音公司注销旗下所有企业",
+        "onboard_time": 1740761955,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 78995,
+        "num": 78995,
+        "word": "上海中小学已全面实施AB制午餐模式",
+        "onboard_time": 1740744319,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74659,
+        "num": 74659,
+        "word": "台湾正研究让所有适龄女性去当兵",
+        "onboard_time": 1740748460,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 72094,
+        "num": 72094,
+        "word": "二月二你会和理发师过招吗",
+        "onboard_time": 1740763575,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70049,
+        "num": 70049,
+        "word": "特朗普灵魂发问英首相",
+        "onboard_time": 1740766752,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 68204,
+        "num": 68204,
+        "word": "七星连珠许愿点名双子射手双鱼",
+        "onboard_time": 1740754941,
+        "rank": 30,
+        "category": "民生新闻,情感"
+      },
+      {
+        "raw_hot": 64733,
+        "num": 64733,
+        "word": "中国空间站将迎来首位外籍航天员",
+        "onboard_time": 1740746180,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 62112,
+        "num": 62112,
+        "word": "3月第一个好消息是吒儿给的",
+        "onboard_time": 1740769512,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 61740,
+        "num": 61740,
+        "word": "莲花集团CEO疑似回应小米",
+        "onboard_time": 1740749720,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 58975,
+        "num": 58975,
+        "word": "于正发了晴川",
+        "onboard_time": 1740756679,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54711,
+        "num": 54711,
+        "word": "你应该退税还是补税",
+        "onboard_time": 1740751043,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48081,
+        "num": 54695,
+        "word": "微信好霸道",
+        "onboard_time": 1740749181,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 46338,
+        "num": 54673,
+        "word": "知名电影人宋歌被判刑",
+        "onboard_time": 1740748218,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44714,
+        "num": 54636,
+        "word": "三月第1天龙抬头",
+        "onboard_time": 1740784274,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44371,
+        "num": 54612,
+        "word": "碧游村还是别欢迎我了",
+        "onboard_time": 1740758479,
+        "rank": 39,
+        "category": "综艺,动漫"
+      },
+      {
+        "raw_hot": 41999,
+        "num": 54578,
+        "word": "三月最幸运星座",
+        "onboard_time": 1740754221,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 40702,
+        "num": 54554,
+        "word": "爱你 黄灿灿",
+        "onboard_time": 1740751879,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37981,
+        "num": 54518,
+        "word": "杀害河南女法官男子已被执行死刑",
+        "onboard_time": 1740754643,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36833,
+        "num": 54479,
+        "word": "英国首相称必须赢得乌克兰和平",
+        "onboard_time": 1740768312,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 35131,
+        "num": 54469,
+        "word": "中俄是百炼成钢的真心朋友",
+        "onboard_time": 1740770711,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 33977,
+        "num": 54432,
+        "word": "李晨Angelababy友谊",
+        "onboard_time": 1740735740,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31693,
+        "num": 54408,
+        "word": "桑太太",
+        "onboard_time": 1740746899,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30788,
+        "num": 54368,
+        "word": "梅西说在巴黎的两年每天都不开心",
+        "onboard_time": 1740763215,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29620,
+        "num": 54334,
+        "word": "李宁 王楚钦",
+        "onboard_time": 1740754819,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24956,
+        "num": 54303,
+        "word": "七星连珠好运连连",
+        "onboard_time": 1740725178,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见俄罗斯联邦安全会议秘书绍伊古#"
+    }
+  }
+}
