@@ -1,0 +1,410 @@
+{
+  "runTime": 1740741575810,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1112725,
+        "num": 1178036,
+        "word": "优酷 12集",
+        "onboard_time": 1740728358,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1341322,
+        "num": 1002277,
+        "word": "特朗普一句够了打断回答",
+        "onboard_time": 1740736698,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19255,
+        "num": 838785,
+        "word": "田间春管科技范儿十足",
+        "onboard_time": 1740715338,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 764082,
+        "num": 764082,
+        "word": "金价大跳水了",
+        "onboard_time": 1740707118,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 653146,
+        "num": 653146,
+        "word": "七星连珠",
+        "onboard_time": 1740714259,
+        "rank": 4,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 481825,
+        "num": 481825,
+        "word": "南航乘客被废弃针头扎出血后陷抑郁",
+        "onboard_time": 1740728297,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 433294,
+        "num": 433294,
+        "word": "鞠婧祎丁禹兮 嫁反派",
+        "onboard_time": 1740734958,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 425747,
+        "num": 425747,
+        "word": "余华英被执行死刑",
+        "onboard_time": 1740716960,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 420872,
+        "num": 420872,
+        "word": "男子买猪脚多打一个0转账34万被拉黑",
+        "onboard_time": 1740740719,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 407749,
+        "num": 407749,
+        "word": "赵丽颖杨幂迪丽热巴杨紫2024商业价值明星",
+        "onboard_time": 1740738439,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 772403,
+        "num": 399999,
+        "word": "李晨Angelababy友谊",
+        "onboard_time": 1740735740,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 547945,
+        "num": 396580,
+        "word": "男子患癌花40多万半张脸没了",
+        "onboard_time": 1740727939,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381283,
+        "num": 381283,
+        "word": "韩安冉直播切片1个月卖了800多万",
+        "onboard_time": 1740736159,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 373211,
+        "num": 373211,
+        "word": "甜馨回应变白了",
+        "onboard_time": 1740719721,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33290,
+        "num": 332371,
+        "word": "金价震荡是否是投资的好时机",
+        "onboard_time": 1740740659,
+        "rank": 14,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 315896,
+        "num": 315896,
+        "word": "结婚不到1年离婚男方起诉女方返还彩礼",
+        "onboard_time": 1740736579,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325066,
+        "num": 272966,
+        "word": "韩安冉说准备转幕后",
+        "onboard_time": 1740739579,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 222583,
+        "num": 222583,
+        "word": "怀孕被误诊涉事人员已被移送公安",
+        "onboard_time": 1740730517,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14948,
+        "num": 216604,
+        "word": "疾速追杀4一刀未剪的含金量",
+        "onboard_time": 1740740421,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24064,
+        "num": 216158,
+        "word": "建议适当延长父母育儿假",
+        "onboard_time": 1740740719,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140688,
+        "num": 216121,
+        "word": "WTT退赛新规",
+        "onboard_time": 1740738439,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216106,
+        "num": 216106,
+        "word": "刘浩存广告词 既要又要凭什么不可以",
+        "onboard_time": 1740737900,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198636,
+        "num": 198636,
+        "word": "杨紫2024微博综合热度女明星TOP",
+        "onboard_time": 1740739999,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205776,
+        "num": 198328,
+        "word": "白敬亭章若楠难哄线下展提前路透",
+        "onboard_time": 1740740359,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34946,
+        "num": 197533,
+        "word": "马伊琍陈昊宇米兰同框看秀",
+        "onboard_time": 1740737059,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 197525,
+        "num": 197525,
+        "word": "这舞给李兰迪跳成什么了",
+        "onboard_time": 1740740539,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196606,
+        "num": 196606,
+        "word": "于正说把赵露思当自己家小孩",
+        "onboard_time": 1740734360,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91515,
+        "num": 194178,
+        "word": "全国高度近视患者超1.3亿人",
+        "onboard_time": 1740741320,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85025,
+        "num": 193155,
+        "word": "在无声的世界里温暖不期而遇",
+        "onboard_time": 1740735139,
+        "rank": 28,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 22618,
+        "num": 192786,
+        "word": "酱油为什么会在中国诞生",
+        "onboard_time": 1740740959,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 192690,
+        "num": 192690,
+        "word": "哪吒票房",
+        "onboard_time": 1740737479,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188121,
+        "num": 188121,
+        "word": "树下有片红房子",
+        "onboard_time": 1740738739,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186997,
+        "num": 186997,
+        "word": "余华英执行死刑前会见了近亲属",
+        "onboard_time": 1740719300,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175871,
+        "num": 175871,
+        "word": "郑渊洁宣布和大家告别",
+        "onboard_time": 1740727699,
+        "rank": 33,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 44518,
+        "num": 175850,
+        "word": "丁禹兮超话全年热度等级上升7级",
+        "onboard_time": 1740734360,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175848,
+        "num": 175848,
+        "word": "南航回应乘客被废弃针头扎出血",
+        "onboard_time": 1740739039,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172236,
+        "num": 172236,
+        "word": "初步举证 豆瓣9.6神作",
+        "onboard_time": 1740732200,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164223,
+        "num": 164223,
+        "word": "赵露思的苹果肌",
+        "onboard_time": 1740719540,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158820,
+        "num": 158820,
+        "word": "北上口碑",
+        "onboard_time": 1740740299,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156847,
+        "num": 156847,
+        "word": "被打赏27万女主播已下架所有作品",
+        "onboard_time": 1740737719,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156023,
+        "num": 156023,
+        "word": "被这幕无声的对白打动了",
+        "onboard_time": 1740734598,
+        "rank": 40,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 152918,
+        "num": 152918,
+        "word": "经纪公司拒绝董力夫妇拍孕肚照",
+        "onboard_time": 1740732679,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139275,
+        "num": 139275,
+        "word": "蒋敦豪种地吧备采爆哭",
+        "onboard_time": 1740739939,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136582,
+        "num": 136582,
+        "word": "育儿嫂睡梦中大叫翻滚压伤婴儿",
+        "onboard_time": 1740730698,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128792,
+        "num": 128792,
+        "word": "开始推理吧发布会",
+        "onboard_time": 1740741498,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128084,
+        "num": 128084,
+        "word": "种地吧 藏医",
+        "onboard_time": 1740731480,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127299,
+        "num": 127299,
+        "word": "网易云崩了",
+        "onboard_time": 1740736579,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 124732,
+        "num": 124732,
+        "word": "Bin说不公平",
+        "onboard_time": 1740737900,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122656,
+        "num": 122656,
+        "word": "对这种玩笑永远不要笑",
+        "onboard_time": 1740736220,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120066,
+        "num": 120066,
+        "word": "Angelababy生日刊",
+        "onboard_time": 1740741320,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋进的春天#"
+    }
+  }
+}

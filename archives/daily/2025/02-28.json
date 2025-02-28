@@ -1,6 +1,6 @@
 {
   "startTime": 1740673831596,
-  "endTime": 1740739304521,
+  "endTime": 1740741575810,
   "band_list": [
     {
       "raw_hot": 8399964,
@@ -75,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1341322,
+      "num": 1002277,
+      "word": "特朗普一句够了打断回答",
+      "onboard_time": 1740736698,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1336179,
       "num": 486310,
       "word": "Angelababy36岁生日照",
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 1230172,
-      "num": 385884,
+      "num": 399999,
       "word": "李晨Angelababy友谊",
       "onboard_time": 1740735740,
       "rank": 10,
@@ -515,6 +523,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 420872,
+      "num": 420872,
+      "word": "男子买猪脚多打一个0转账34万被拉黑",
+      "onboard_time": 1740740719,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 416597,
       "num": 416597,
       "word": "麻花特开心2 沈腾马丽",
@@ -531,12 +547,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 411206,
-      "num": 411206,
-      "word": "特朗普一句够了打断回答",
-      "onboard_time": 1740736698,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 407749,
+      "num": 407749,
+      "word": "赵丽颖杨幂迪丽热巴杨紫2024商业价值明星",
+      "onboard_time": 1740738439,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 406531,
@@ -667,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 325066,
+      "num": 272966,
+      "word": "韩安冉说准备转幕后",
+      "onboard_time": 1740739579,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 323926,
       "num": 323926,
       "word": "甜馨说我咋可能整容",
@@ -689,6 +713,14 @@
       "onboard_time": 1740717442,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 315896,
+      "num": 336115,
+      "word": "结婚不到1年离婚男方起诉女方返还彩礼",
+      "onboard_time": 1740736579,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 312577,
@@ -833,14 +865,6 @@
       "onboard_time": 1740723798,
       "rank": 24,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 253522,
-      "num": 336115,
-      "word": "结婚不到1年离婚男方起诉女方返还彩礼",
-      "onboard_time": 1740736579,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 253505,
@@ -1067,6 +1091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216106,
+      "num": 216106,
+      "word": "刘浩存广告词 既要又要凭什么不可以",
+      "onboard_time": 1740737900,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215502,
       "num": 215502,
       "word": "女子嫌金价太高在家自制金戒指",
@@ -1105,6 +1137,14 @@
       "onboard_time": 1740719841,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205776,
+      "num": 198328,
+      "word": "白敬亭章若楠难哄线下展提前路透",
+      "onboard_time": 1740740359,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 204883,
@@ -1187,12 +1227,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 198636,
+      "num": 198636,
+      "word": "杨紫2024微博综合热度女明星TOP",
+      "onboard_time": 1740739999,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198055,
       "num": 212073,
       "word": "蒲熠星生日会",
       "onboard_time": 1740717020,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 197525,
+      "num": 197525,
+      "word": "这舞给李兰迪跳成什么了",
+      "onboard_time": 1740740539,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 195626,
@@ -1267,6 +1323,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 188121,
+      "num": 188121,
+      "word": "树下有片红房子",
+      "onboard_time": 1740738739,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187344,
       "num": 187344,
       "word": "原神班尼特",
@@ -1276,7 +1340,7 @@
     },
     {
       "raw_hot": 186501,
-      "num": 186501,
+      "num": 216121,
       "word": "WTT退赛新规",
       "onboard_time": 1740738439,
       "rank": 32,
@@ -1387,6 +1451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175848,
+      "num": 175848,
+      "word": "南航回应乘客被废弃针头扎出血",
+      "onboard_time": 1740739039,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175333,
       "num": 175333,
       "word": "董力想公开阿诺说再等等",
@@ -1457,22 +1529,6 @@
       "onboard_time": 1740721879,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 168888,
-      "num": 289470,
-      "word": "赵丽颖杨幂迪丽热巴杨紫2024商业价值明星",
-      "onboard_time": 1740738439,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 168810,
-      "num": 168810,
-      "word": "刘浩存广告词 既要又要凭什么不可以",
-      "onboard_time": 1740737900,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 168743,
@@ -1619,6 +1675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158820,
+      "num": 158820,
+      "word": "北上口碑",
+      "onboard_time": 1740740299,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157824,
       "num": 157824,
       "word": "小米",
@@ -1659,6 +1723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156847,
+      "num": 156847,
+      "word": "被打赏27万女主播已下架所有作品",
+      "onboard_time": 1740737719,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156356,
       "num": 156356,
       "word": "今年好看到熬夜的小说",
@@ -1667,28 +1739,12 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 155415,
-      "num": 155415,
-      "word": "被打赏27万女主播已下架所有作品",
-      "onboard_time": 1740737719,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 155262,
       "num": 173296,
       "word": "男子陪妻子看病医生多看一眼救一命",
       "onboard_time": 1740669739,
       "rank": 13,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 154335,
-      "num": 154335,
-      "word": "树下有片红房子",
-      "onboard_time": 1740738739,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 153837,
@@ -1804,7 +1860,7 @@
     },
     {
       "raw_hot": 147820,
-      "num": 147820,
+      "num": 193155,
       "word": "在无声的世界里温暖不期而遇",
       "onboard_time": 1740735139,
       "rank": 37,
@@ -1912,6 +1968,14 @@
       "word": "十个勤天",
       "onboard_time": 1740717681,
       "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 139275,
+      "num": 139275,
+      "word": "蒋敦豪种地吧备采爆哭",
+      "onboard_time": 1740739939,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -2067,6 +2131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128792,
+      "num": 128792,
+      "word": "开始推理吧发布会",
+      "onboard_time": 1740741498,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128000,
       "num": 128000,
       "word": "桃花坞",
@@ -2145,6 +2217,14 @@
       "onboard_time": 1740662960,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 120066,
+      "num": 120066,
+      "word": "Angelababy生日刊",
+      "onboard_time": 1740741320,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 119476,
@@ -2337,6 +2417,14 @@
       "onboard_time": 1740722660,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 91515,
+      "num": 194178,
+      "word": "全国高度近视患者超1.3亿人",
+      "onboard_time": 1740741320,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91035,
@@ -2827,6 +2915,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 33290,
+      "num": 332371,
+      "word": "金价震荡是否是投资的好时机",
+      "onboard_time": 1740740659,
+      "rank": 14,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 33127,
       "num": 35982,
       "word": "周雨彤回应辞职发疯戏",
@@ -2899,12 +2995,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 24408,
-      "num": 129285,
-      "word": "南航回应乘客被废弃针头扎出血",
-      "onboard_time": 1740739039,
-      "rank": 47,
+      "raw_hot": 24064,
+      "num": 216158,
+      "word": "建议适当延长父母育儿假",
+      "onboard_time": 1740740719,
+      "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22618,
+      "num": 192786,
+      "word": "酱油为什么会在中国诞生",
+      "onboard_time": 1740740959,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 19852,
@@ -2961,6 +3065,14 @@
       "onboard_time": 1740681371,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 14948,
+      "num": 216604,
+      "word": "疾速追杀4一刀未剪的含金量",
+      "onboard_time": 1740740421,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 14857,

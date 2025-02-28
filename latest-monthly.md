@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/02/01 00:26:54 ~ 2025/02/28 18:41:44
+本榜单时间：2025/02/01 00:26:54 ~ 2025/02/28 19:19:35
 </p>
 </blockquote>
 <p>
@@ -3087,6 +3087,12 @@ BLACKPINK官宣2025世巡场次（热度：1390535）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%80%E5%8F%A5%E5%A4%9F%E4%BA%86%E6%89%93%E6%96%AD%E5%9B%9E%E7%AD%94%23" target="weibo">
+特朗普一句够了打断回答（热度：1341322）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%A4%E5%A3%AB%E5%9B%A0%E6%8B%94%E9%92%88%E5%87%BA%E8%A1%80%E8%B7%AA%E6%B1%82%E6%82%A3%E8%80%85%E5%8E%9F%E8%B0%85%23" target="weibo">
 护士因拔针出血跪求患者原谅（热度：1340032）
 </a>
@@ -6005,12 +6011,6 @@ DeepSeek去AI痕迹真的很牛（热度：883414）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E6%99%927%E5%B2%81%E7%9A%84%E8%B7%B3%E8%B7%B3%E4%BF%8F%E4%BF%8F%23" target="weibo">
 谢娜晒7岁的跳跳俏俏（热度：873649）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E7%A5%A8%E6%88%BF%E6%A6%9C%23" target="weibo">
-全球票房榜（热度：873545）
 </a>
 </li>
 
