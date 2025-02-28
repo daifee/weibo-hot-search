@@ -1,6 +1,6 @@
 {
   "startTime": 1740673831596,
-  "endTime": 1740716885609,
+  "endTime": 1740717729814,
   "band_list": [
     {
       "raw_hot": 2810111,
@@ -9,6 +9,14 @@
       "onboard_time": 1740707118,
       "rank": 5,
       "category": "财经"
+    },
+    {
+      "raw_hot": 2069981,
+      "num": 2069981,
+      "word": "余华英被执行死刑",
+      "onboard_time": 1740716960,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1564084,
@@ -36,15 +44,15 @@
     },
     {
       "raw_hot": 1336179,
-      "num": 428685,
+      "num": 462164,
       "word": "Angelababy36岁生日照",
       "onboard_time": 1740708019,
       "rank": 30,
       "category": "艺人"
     },
     {
-      "raw_hot": 1189385,
-      "num": 1189385,
+      "raw_hot": 1290055,
+      "num": 1290055,
       "word": "陈赫贴脸开大黄磊",
       "onboard_time": 1740714859,
       "rank": 1,
@@ -72,6 +80,14 @@
       "word": "于正说娜扎Angelababy是漂亮天花板",
       "onboard_time": 1740709398,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 930015,
+      "num": 930015,
+      "word": "刘浩存不改图一次过",
+      "onboard_time": 1740713358,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -104,14 +120,6 @@
       "word": "刘畊宏较巅峰时期掉粉854万",
       "onboard_time": 1740707058,
       "rank": 49,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 817577,
-      "num": 817577,
-      "word": "刘浩存不改图一次过",
-      "onboard_time": 1740713358,
-      "rank": 41,
       "category": "艺人"
     },
     {
@@ -187,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 561555,
+      "num": 561555,
+      "word": "七星连珠不建议上当",
+      "onboard_time": 1740714498,
+      "rank": 14,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 548951,
       "num": 418181,
       "word": "大侦探这案封神",
@@ -209,6 +225,14 @@
       "onboard_time": 1740653418,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 504592,
+      "num": 504592,
+      "word": "金价为何大跳水",
+      "onboard_time": 1740707058,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 501895,
@@ -259,14 +283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 448115,
-      "num": 448115,
-      "word": "金价为何大跳水",
-      "onboard_time": 1740707058,
-      "rank": 47,
-      "category": "财经"
-    },
-    {
       "raw_hot": 437382,
       "num": 437382,
       "word": "极氪祝贺小米",
@@ -289,14 +305,6 @@
       "onboard_time": 1740707958,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 408343,
-      "num": 408343,
-      "word": "七星连珠不建议上当",
-      "onboard_time": 1740714498,
-      "rank": 14,
-      "category": "科学科普"
     },
     {
       "raw_hot": 406531,
@@ -379,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 312167,
+      "num": 312167,
+      "word": "王一博新片人鱼有消息了",
+      "onboard_time": 1740712697,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 304705,
       "num": 304705,
       "word": "种地吧第三季开播",
@@ -403,14 +419,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 269065,
-      "num": 269065,
-      "word": "王一博新片人鱼有消息了",
-      "onboard_time": 1740712697,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 267005,
       "num": 267005,
       "word": "小米股价",
@@ -419,12 +427,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 264972,
+      "num": 357723,
+      "word": "刘浩存新片演单亲妈妈",
+      "onboard_time": 1740715879,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 261903,
       "num": 309815,
       "word": "国防部称将隆重纪念抗战胜利80周年",
       "onboard_time": 1740712397,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 251493,
+      "num": 251493,
+      "word": "妻子的浪漫旅行",
+      "onboard_time": 1740716780,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 249124,
@@ -473,6 +497,14 @@
       "onboard_time": 1740711858,
       "rank": 30,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 240784,
+      "num": 240784,
+      "word": "ILLIT公开应援棒",
+      "onboard_time": 1740717321,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 240161,
@@ -547,12 +579,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 214451,
-      "num": 357723,
-      "word": "刘浩存新片演单亲妈妈",
-      "onboard_time": 1740715879,
-      "rank": 18,
-      "category": "电影"
+      "raw_hot": 212072,
+      "num": 212072,
+      "word": "肖战民国小公子",
+      "onboard_time": 1740715219,
+      "rank": 35,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 208669,
@@ -561,14 +593,6 @@
       "onboard_time": 1740670218,
       "rank": 16,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 205146,
-      "num": 205146,
-      "word": "肖战民国小公子",
-      "onboard_time": 1740715219,
-      "rank": 35,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 204883,
@@ -603,6 +627,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 199194,
+      "num": 312258,
+      "word": "侯明昊米兰时装周",
+      "onboard_time": 1740715879,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 198055,
+      "num": 212073,
+      "word": "蒲熠星生日会",
+      "onboard_time": 1740717020,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 195106,
+      "num": 195106,
+      "word": "娜扎完全是老公级别的",
+      "onboard_time": 1740717139,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194981,
       "num": 185987,
       "word": "易烊千玺杂志",
@@ -619,8 +667,16 @@
       "category": "艺人,美妆"
     },
     {
-      "raw_hot": 190002,
-      "num": 190002,
+      "raw_hot": 191203,
+      "num": 191203,
+      "word": "森林狼vs湖人",
+      "onboard_time": 1740717079,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 191178,
+      "num": 191178,
       "word": "蔡磊现已基本依赖眼控技术交流",
       "onboard_time": 1740716298,
       "rank": 39,
@@ -628,7 +684,7 @@
     },
     {
       "raw_hot": 189278,
-      "num": 189278,
+      "num": 189670,
       "word": "凤凰传奇苏州抢票",
       "onboard_time": 1740716420,
       "rank": 40,
@@ -699,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170124,
+      "num": 170124,
+      "word": "对张凌赫190的身高有了实感",
+      "onboard_time": 1740717442,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168743,
       "num": 168743,
       "word": "法国也想要乌克兰矿产",
@@ -739,22 +803,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 162324,
-      "num": 308420,
-      "word": "侯明昊米兰时装周",
-      "onboard_time": 1740715879,
-      "rank": 22,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 159215,
-      "num": 159215,
-      "word": "妻子的浪漫旅行",
-      "onboard_time": 1740716780,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 157824,
       "num": 157824,
       "word": "小米",
@@ -769,6 +817,22 @@
       "onboard_time": 1740712818,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156921,
+      "num": 156921,
+      "word": "白鹿或将缺席奔跑吧13录制",
+      "onboard_time": 1740717621,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 156356,
+      "num": 156356,
+      "word": "今年好看到熬夜的小说",
+      "onboard_time": 1740716899,
+      "rank": 46,
+      "category": "读书作家"
     },
     {
       "raw_hot": 155262,
@@ -859,11 +923,27 @@
       "category": "美食"
     },
     {
+      "raw_hot": 141689,
+      "num": 141689,
+      "word": "重病女子在监护室遭男护工猥亵",
+      "onboard_time": 1740717499,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140840,
-      "num": 149969,
+      "num": 212074,
       "word": "薛之谦告别火星情报局",
       "onboard_time": 1740714017,
       "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 139839,
+      "num": 139839,
+      "word": "十个勤天",
+      "onboard_time": 1740717681,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -1075,6 +1155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 96128,
+      "num": 462591,
+      "word": "成毅品牌宠儿",
+      "onboard_time": 1740714439,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95512,
       "num": 95512,
       "word": "上海大雾",
@@ -1275,14 +1363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 66323,
-      "num": 414049,
-      "word": "成毅品牌宠儿",
-      "onboard_time": 1740714439,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 65675,
       "num": 65675,
       "word": "第一部只刷切片看不明白的剧",
@@ -1345,6 +1425,14 @@
       "onboard_time": 1740698536,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 51063,
+      "num": 312367,
+      "word": "美股7巨头市值一夜蒸发4万亿",
+      "onboard_time": 1740716899,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 49968,
@@ -1419,6 +1507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 32444,
+      "num": 1521725,
+      "word": "田间春管科技范儿十足",
+      "onboard_time": 1740715338,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30547,
       "num": 44316,
       "word": "对重大犯罪依法严惩绝不手软",
@@ -1433,14 +1529,6 @@
       "onboard_time": 1740711978,
       "rank": 44,
       "category": "财经"
-    },
-    {
-      "raw_hot": 25860,
-      "num": 1118797,
-      "word": "田间春管科技范儿十足",
-      "onboard_time": 1740715338,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25726,
@@ -1553,6 +1641,9 @@
     },
     {
       "word": "#种下石榴籽开出团结花#"
+    },
+    {
+      "word": "#习近平的两会之问#"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740716885609,
+  "endTime": 1740717729814,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -233,6 +233,14 @@
       "onboard_time": 1740662481,
       "rank": 7,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 2069981,
+      "num": 2069981,
+      "word": "余华英被执行死刑",
+      "onboard_time": 1740716960,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2062676,
@@ -732,7 +740,7 @@
     },
     {
       "raw_hot": 1336179,
-      "num": 428685,
+      "num": 462164,
       "word": "Angelababy36岁生日照",
       "onboard_time": 1740708019,
       "rank": 30,
@@ -777,6 +785,14 @@
       "onboard_time": 1740321562,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1290055,
+      "num": 1290055,
+      "word": "陈赫贴脸开大黄磊",
+      "onboard_time": 1740714859,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1275789,
@@ -865,14 +881,6 @@
       "onboard_time": 1740289459,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1189385,
-      "num": 1189385,
-      "word": "陈赫贴脸开大黄磊",
-      "onboard_time": 1740714859,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1188045,
@@ -1443,6 +1451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 930015,
+      "num": 930015,
+      "word": "刘浩存不改图一次过",
+      "onboard_time": 1740713358,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 926970,
       "num": 671711,
       "word": "女子求复合花4万找大师给前任下情蛊",
@@ -1689,14 +1705,6 @@
       "onboard_time": 1740476661,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 817577,
-      "num": 817577,
-      "word": "刘浩存不改图一次过",
-      "onboard_time": 1740713358,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 816015,
@@ -3011,6 +3019,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 561555,
+      "num": 561555,
+      "word": "七星连珠不建议上当",
+      "onboard_time": 1740714498,
+      "rank": 14,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 556634,
       "num": 516357,
       "word": "法医秦明谈李威案受害者致死原因",
@@ -3393,6 +3409,14 @@
       "onboard_time": 1740631700,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 504592,
+      "num": 504592,
+      "word": "金价为何大跳水",
+      "onboard_time": 1740707058,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 502969,
@@ -3891,14 +3915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 448115,
-      "num": 448115,
-      "word": "金价为何大跳水",
-      "onboard_time": 1740707058,
-      "rank": 47,
-      "category": "财经"
-    },
-    {
       "raw_hot": 446572,
       "num": 333611,
       "word": "宣璐首部古偶女主剧",
@@ -4185,14 +4201,6 @@
       "onboard_time": 1740454101,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 408343,
-      "num": 408343,
-      "word": "七星连珠不建议上当",
-      "onboard_time": 1740714498,
-      "rank": 14,
-      "category": "科学科普"
     },
     {
       "raw_hot": 407455,
@@ -5171,6 +5179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 312167,
+      "num": 312167,
+      "word": "王一博新片人鱼有消息了",
+      "onboard_time": 1740712697,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 311917,
       "num": 270075,
       "word": "Deepseek给气血不足职场女性建议",
@@ -5875,14 +5891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 269065,
-      "num": 269065,
-      "word": "王一博新片人鱼有消息了",
-      "onboard_time": 1740712697,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 269048,
       "num": 266145,
       "word": "张继科祝贺王曼昱夺冠",
@@ -5993,6 +6001,14 @@
       "onboard_time": 1740615919,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 264972,
+      "num": 357723,
+      "word": "刘浩存新片演单亲妈妈",
+      "onboard_time": 1740715879,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 264299,
@@ -6177,6 +6193,14 @@
       "onboard_time": 1740543202,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 251493,
+      "num": 251493,
+      "word": "妻子的浪漫旅行",
+      "onboard_time": 1740716780,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 251306,
@@ -6449,6 +6473,14 @@
       "onboard_time": 1740308838,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 240784,
+      "num": 240784,
+      "word": "ILLIT公开应援棒",
+      "onboard_time": 1740717321,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 240696,
@@ -7363,14 +7395,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 214451,
-      "num": 357723,
-      "word": "刘浩存新片演单亲妈妈",
-      "onboard_time": 1740715879,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 214330,
       "num": 394799,
       "word": "唐九洲新剧全自动闯祸弟",
@@ -7465,6 +7489,14 @@
       "onboard_time": 1740474860,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 212072,
+      "num": 212072,
+      "word": "肖战民国小公子",
+      "onboard_time": 1740715219,
+      "rank": 35,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 211592,
@@ -7713,14 +7745,6 @@
       "onboard_time": 1740309320,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 205146,
-      "num": 205146,
-      "word": "肖战民国小公子",
-      "onboard_time": 1740715219,
-      "rank": 35,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 205102,
@@ -8051,6 +8075,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 199194,
+      "num": 312258,
+      "word": "侯明昊米兰时装周",
+      "onboard_time": 1740503115,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 198513,
       "num": 279908,
       "word": "王阳孙千首搭制服杀",
@@ -8089,6 +8121,14 @@
       "onboard_time": 1740633559,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198055,
+      "num": 212073,
+      "word": "蒲熠星生日会",
+      "onboard_time": 1740717020,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 197832,
@@ -8217,6 +8257,14 @@
       "onboard_time": 1740295220,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195106,
+      "num": 195106,
+      "word": "娜扎完全是老公级别的",
+      "onboard_time": 1740717139,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 194981,
@@ -8507,6 +8555,22 @@
       "category": "互联网,游戏"
     },
     {
+      "raw_hot": 191203,
+      "num": 191203,
+      "word": "森林狼vs湖人",
+      "onboard_time": 1740717079,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 191178,
+      "num": 191178,
+      "word": "蔡磊现已基本依赖眼控技术交流",
+      "onboard_time": 1740716298,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191116,
       "num": 199809,
       "word": "高校回应副教授被前妻举报出轨",
@@ -8587,14 +8651,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 190002,
-      "num": 190002,
-      "word": "蔡磊现已基本依赖眼控技术交流",
-      "onboard_time": 1740716298,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 189899,
       "num": 189899,
       "word": "朴成训 阿迪达斯",
@@ -8620,7 +8676,7 @@
     },
     {
       "raw_hot": 189278,
-      "num": 189278,
+      "num": 189670,
       "word": "凤凰传奇苏州抢票",
       "onboard_time": 1740716420,
       "rank": 40,
@@ -9811,6 +9867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170124,
+      "num": 170124,
+      "word": "对张凌赫190的身高有了实感",
+      "onboard_time": 1740717442,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170023,
       "num": 244149,
       "word": "翟潇闻说最近老有人想掰我牙",
@@ -10483,14 +10547,6 @@
       "category": "美妆,艺人"
     },
     {
-      "raw_hot": 162324,
-      "num": 308420,
-      "word": "侯明昊米兰时装周",
-      "onboard_time": 1740503115,
-      "rank": 31,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 162238,
       "num": 326323,
       "word": "电影平原上的火焰定档",
@@ -10715,14 +10771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 159215,
-      "num": 159215,
-      "word": "妻子的浪漫旅行",
-      "onboard_time": 1740716780,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 159123,
       "num": 207122,
       "word": "王楚钦时隔3月再晒男单冠军自拍",
@@ -10851,6 +10899,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 156921,
+      "num": 156921,
+      "word": "白鹿或将缺席奔跑吧13录制",
+      "onboard_time": 1740717621,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156906,
       "num": 156906,
       "word": "李栋旭踩箱子和李光洙拍摄",
@@ -10881,6 +10937,14 @@
       "onboard_time": 1740393620,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156356,
+      "num": 156356,
+      "word": "今年好看到熬夜的小说",
+      "onboard_time": 1740716899,
+      "rank": 46,
+      "category": "读书作家"
     },
     {
       "raw_hot": 155685,
@@ -11875,6 +11939,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 141689,
+      "num": 141689,
+      "word": "重病女子在监护室遭男护工猥亵",
+      "onboard_time": 1740717499,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141674,
       "num": 141674,
       "word": "四六级裸考过了",
@@ -11908,7 +11980,7 @@
     },
     {
       "raw_hot": 140840,
-      "num": 149969,
+      "num": 212074,
       "word": "薛之谦告别火星情报局",
       "onboard_time": 1740714017,
       "rank": 42,
@@ -11945,6 +12017,14 @@
       "onboard_time": 1740468861,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 139839,
+      "num": 139839,
+      "word": "十个勤天",
+      "onboard_time": 1740717681,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 139483,
@@ -14147,6 +14227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96128,
+      "num": 462591,
+      "word": "成毅品牌宠儿",
+      "onboard_time": 1740714439,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96086,
       "num": 96086,
       "word": "男子花50元套圈被大鹅上了一课",
@@ -15211,14 +15299,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 66323,
-      "num": 414049,
-      "word": "成毅品牌宠儿",
-      "onboard_time": 1740714439,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 66165,
       "num": 216884,
       "word": "龙马乘组忙忙碌碌又是一周",
@@ -15961,6 +16041,14 @@
       "onboard_time": 1740506652,
       "rank": 24,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 51063,
+      "num": 312367,
+      "word": "美股7巨头市值一夜蒸发4万亿",
+      "onboard_time": 1740716899,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 51014,
@@ -16747,6 +16835,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 32444,
+      "num": 1521725,
+      "word": "田间春管科技范儿十足",
+      "onboard_time": 1740715338,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32294,
       "num": 132243,
       "word": "持续增强粮食等重要农产品供给保障能力",
@@ -17088,14 +17184,6 @@
       "word": "建议将电信网络诈骗作为独立罪名",
       "onboard_time": 1740544282,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25860,
-      "num": 1118797,
-      "word": "田间春管科技范儿十足",
-      "onboard_time": 1740715338,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
