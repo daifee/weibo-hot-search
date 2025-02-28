@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740711988562,
+  "endTime": 1740713442128,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -4347,6 +4347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 388432,
+      "num": 388432,
+      "word": "大侦探这案封神",
+      "onboard_time": 1740712218,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 386390,
       "num": 416423,
       "word": "TVB三部热播剧停播为哪吒1让路",
@@ -4953,6 +4961,14 @@
       "onboard_time": 1740304340,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 322858,
+      "num": 322858,
+      "word": "韩国小学生的最爱爱豆投票结果",
+      "onboard_time": 1740710657,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 322461,
@@ -5953,6 +5969,14 @@
       "onboard_time": 1740452899,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 260384,
+      "num": 260384,
+      "word": "王一博新片人鱼有消息了",
+      "onboard_time": 1740712697,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 260346,
@@ -8075,14 +8099,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 195350,
-      "num": 195350,
-      "word": "韩国小学生的最爱爱豆投票结果",
-      "onboard_time": 1740710657,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 195345,
       "num": 195345,
       "word": "看似单向暗恋实际双向奔赴",
@@ -8681,6 +8697,14 @@
       "onboard_time": 1740279619,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 186399,
+      "num": 186399,
+      "word": "梁洁也走不出白色橄榄树",
+      "onboard_time": 1740711138,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 186303,
@@ -9379,14 +9403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175315,
-      "num": 180316,
-      "word": "梁洁也走不出白色橄榄树",
-      "onboard_time": 1740711138,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 175043,
       "num": 516076,
       "word": "白鹿多起名誉权维权案将开庭",
@@ -10083,6 +10099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164835,
+      "num": 164835,
+      "word": "黄炎拒绝花时间陪伴孩子",
+      "onboard_time": 1740712640,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164745,
       "num": 164745,
       "word": "最低气温回升速度赶不上最高气温",
@@ -10161,6 +10185,14 @@
       "onboard_time": 1740287060,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164142,
+      "num": 164142,
+      "word": "一顺风车司机被曝载客时放不雅视频",
+      "onboard_time": 1740711018,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164046,
@@ -10619,6 +10651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 157515,
+      "num": 157515,
+      "word": "库里单场12记三分",
+      "onboard_time": 1740712818,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157172,
       "num": 369722,
       "word": "蒯曼完全压制",
@@ -10713,14 +10753,6 @@
       "onboard_time": 1740310041,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 155481,
-      "num": 155481,
-      "word": "一顺风车司机被曝载客时放不雅视频",
-      "onboard_time": 1740711018,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 155420,
@@ -10995,6 +11027,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 151747,
+      "num": 151747,
+      "word": "这项发现证实火星可能曾经是宜居的",
+      "onboard_time": 1740712697,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151651,
       "num": 151651,
       "word": "曾孙女找太爷爷告爷爷状",
@@ -11041,6 +11081,14 @@
       "onboard_time": 1740446480,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 150895,
+      "num": 150895,
+      "word": "刘浩存不改图一次过",
+      "onboard_time": 1740713358,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 150799,
@@ -11321,6 +11369,14 @@
       "onboard_time": 1740386123,
       "rank": 6,
       "category": "教育"
+    },
+    {
+      "raw_hot": 147481,
+      "num": 147481,
+      "word": "670万买到采光差的楼王终于退了",
+      "onboard_time": 1740713358,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147370,
@@ -12387,6 +12443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 129609,
+      "num": 231836,
+      "word": "郑渊洁停止更新所有社媒",
+      "onboard_time": 1740711858,
+      "rank": 30,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 129378,
       "num": 468291,
       "word": "灌面汤呛妻案嫌疑人称喝酒失去神志",
@@ -12825,6 +12889,14 @@
       "onboard_time": 1740496282,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122131,
+      "num": 334542,
+      "word": "美公布爱泼斯坦案文件百页被涂黑",
+      "onboard_time": 1740713059,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 121912,
@@ -13409,6 +13481,14 @@
       "onboard_time": 1740395479,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110314,
+      "num": 309815,
+      "word": "国防部称将隆重纪念抗战胜利80周年",
+      "onboard_time": 1740712397,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 110277,
@@ -14097,6 +14177,14 @@
       "onboard_time": 1740275537,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 90847,
+      "num": 337244,
+      "word": "带货博主虚假助农敛财440多万",
+      "onboard_time": 1740712098,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90743,
@@ -15867,6 +15955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47987,
+      "num": 269432,
+      "word": "吉村真晴晒与樊振东合照",
+      "onboard_time": 1740712577,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47909,
       "num": 423333,
       "word": "夜神小米15Ultra真的绝了",
@@ -16059,14 +16155,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 42832,
-      "num": 178723,
-      "word": "郑渊洁停止更新所有社媒",
-      "onboard_time": 1740711858,
-      "rank": 30,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 42564,
       "num": 143894,
       "word": "OPPOFindN5托举千斤钢琴",
@@ -16185,6 +16273,14 @@
       "onboard_time": 1740643278,
       "rank": 14,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 40080,
+      "num": 270096,
+      "word": "你会让孩子用DeepSeek写作业吗",
+      "onboard_time": 1740713119,
+      "rank": 23,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 39701,
@@ -16601,6 +16697,14 @@
       "onboard_time": 1740580760,
       "rank": 34,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 28934,
+      "num": 143499,
+      "word": "纳指重挫530点",
+      "onboard_time": 1740711978,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 28886,

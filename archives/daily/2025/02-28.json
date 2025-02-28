@@ -1,6 +1,6 @@
 {
   "startTime": 1740673831596,
-  "endTime": 1740711988562,
+  "endTime": 1740713442128,
   "band_list": [
     {
       "raw_hot": 2810111,
@@ -251,6 +251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 388432,
+      "num": 388432,
+      "word": "大侦探这案封神",
+      "onboard_time": 1740712218,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 387295,
       "num": 387295,
       "word": "小猪佩奇猪妈妈怀三胎",
@@ -307,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 322858,
+      "num": 322858,
+      "word": "韩国小学生的最爱爱豆投票结果",
+      "onboard_time": 1740710657,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 278480,
       "num": 267146,
       "word": "房东感慨房子靠自己难出租",
@@ -329,6 +345,14 @@
       "onboard_time": 1740708977,
       "rank": 22,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 260384,
+      "num": 260384,
+      "word": "王一博新片人鱼有消息了",
+      "onboard_time": 1740712697,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 247286,
@@ -459,20 +483,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 195350,
-      "num": 195350,
-      "word": "韩国小学生的最爱爱豆投票结果",
-      "onboard_time": 1740710657,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 192884,
       "num": 194135,
       "word": "cos饺子导演的第一次见",
       "onboard_time": 1740706158,
       "rank": 28,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 186399,
+      "num": 186399,
+      "word": "梁洁也走不出白色橄榄树",
+      "onboard_time": 1740711138,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 183172,
@@ -507,14 +531,6 @@
       "category": "互联网,财经"
     },
     {
-      "raw_hot": 175315,
-      "num": 180316,
-      "word": "梁洁也走不出白色橄榄树",
-      "onboard_time": 1740711138,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 168743,
       "num": 168743,
       "word": "法国也想要乌克兰矿产",
@@ -529,6 +545,22 @@
       "onboard_time": 1740703459,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164835,
+      "num": 164835,
+      "word": "黄炎拒绝花时间陪伴孩子",
+      "onboard_time": 1740712640,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 164142,
+      "num": 164142,
+      "word": "一顺风车司机被曝载客时放不雅视频",
+      "onboard_time": 1740711018,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162713,
@@ -547,12 +579,12 @@
       "category": "汽车,数码"
     },
     {
-      "raw_hot": 155481,
-      "num": 155481,
-      "word": "一顺风车司机被曝载客时放不雅视频",
-      "onboard_time": 1740711018,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 157515,
+      "num": 157515,
+      "word": "库里单场12记三分",
+      "onboard_time": 1740712818,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 155262,
@@ -603,12 +635,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151747,
+      "num": 151747,
+      "word": "这项发现证实火星可能曾经是宜居的",
+      "onboard_time": 1740712697,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151578,
       "num": 151578,
       "word": "Gucci全平台更新肖战",
       "onboard_time": 1740674236,
       "rank": 22,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 150895,
+      "num": 150895,
+      "word": "刘浩存不改图一次过",
+      "onboard_time": 1740713358,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 150318,
@@ -625,6 +673,22 @@
       "onboard_time": 1740702679,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 147481,
+      "num": 147481,
+      "word": "670万买到采光差的楼王终于退了",
+      "onboard_time": 1740713358,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147115,
+      "num": 147115,
+      "word": "NBA",
+      "onboard_time": 1740712878,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 146108,
@@ -723,6 +787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129609,
+      "num": 231836,
+      "word": "郑渊洁停止更新所有社媒",
+      "onboard_time": 1740711858,
+      "rank": 30,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 127621,
       "num": 127621,
       "word": "BABI机制",
@@ -745,6 +817,14 @@
       "onboard_time": 1740698115,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122131,
+      "num": 334542,
+      "word": "美公布爱泼斯坦案文件百页被涂黑",
+      "onboard_time": 1740713059,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 120803,
@@ -801,6 +881,14 @@
       "onboard_time": 1740698775,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 110314,
+      "num": 309815,
+      "word": "国防部称将隆重纪念抗战胜利80周年",
+      "onboard_time": 1740712397,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 108992,
@@ -865,6 +953,14 @@
       "onboard_time": 1740698355,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 90847,
+      "num": 337244,
+      "word": "带货博主虚假助农敛财440多万",
+      "onboard_time": 1740712098,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90743,
@@ -1075,6 +1171,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 47987,
+      "num": 269432,
+      "word": "吉村真晴晒与樊振东合照",
+      "onboard_time": 1740712577,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47843,
       "num": 47843,
       "word": "美方对中俄挑拨离间完全是徒劳的",
@@ -1091,20 +1195,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 42832,
-      "num": 178723,
-      "word": "郑渊洁停止更新所有社媒",
-      "onboard_time": 1740711858,
-      "rank": 30,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 40668,
       "num": 92206,
       "word": "宝可梦29周年",
       "onboard_time": 1740675854,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 40080,
+      "num": 270096,
+      "word": "你会让孩子用DeepSeek写作业吗",
+      "onboard_time": 1740713119,
+      "rank": 23,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 39576,
@@ -1129,6 +1233,14 @@
       "onboard_time": 1740682691,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 28934,
+      "num": 143499,
+      "word": "纳指重挫530点",
+      "onboard_time": 1740711978,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 25726,
