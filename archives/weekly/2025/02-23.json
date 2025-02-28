@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740770413799,
+  "endTime": 1740771357287,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -17195,6 +17195,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 73081,
+      "num": 55280,
+      "word": "特朗普称泽连斯基28日早抵美",
+      "onboard_time": 1740767773,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 72682,
       "num": 72682,
       "word": "labubu",
@@ -17769,14 +17777,6 @@
       "onboard_time": 1740584300,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 60339,
-      "num": 55280,
-      "word": "特朗普称泽连斯基28日早抵美",
-      "onboard_time": 1740767773,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 59735,
@@ -18907,6 +18907,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 39320,
+      "num": 39320,
+      "word": "英国首相称必须赢得乌克兰和平",
+      "onboard_time": 1740768312,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 39139,
       "num": 39139,
       "word": "王曼昱孙颖莎蒯曼合影",
@@ -18992,14 +19000,6 @@
       "word": "俄乌冲突三年来对全球的影响",
       "onboard_time": 1740371722,
       "rank": 16,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 36837,
-      "num": 36837,
-      "word": "英国首相称必须赢得乌克兰和平",
-      "onboard_time": 1740768312,
-      "rank": 21,
       "category": "国际时政"
     },
     {
@@ -19233,6 +19233,14 @@
       "onboard_time": 1740241039,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 31635,
+      "num": 57329,
+      "word": "私贴公务用车车贴或违法",
+      "onboard_time": 1740769512,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31462,
@@ -20483,6 +20491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 13787,
+      "num": 39334,
+      "word": "中俄是百炼成钢的真心朋友",
+      "onboard_time": 1740770711,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 13709,
       "num": 186414,
       "word": "春天女性比男性更容易心情差",
@@ -20665,14 +20681,6 @@
       "onboard_time": 1740551659,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 11342,
-      "num": 57329,
-      "word": "私贴公务用车车贴或违法",
-      "onboard_time": 1740769512,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11259,

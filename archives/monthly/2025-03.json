@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740770413799,
+  "endTime": 1740771357287,
   "band_list": [
     {
       "raw_hot": 2475221,
@@ -451,6 +451,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 73081,
+      "num": 55280,
+      "word": "特朗普称泽连斯基28日早抵美",
+      "onboard_time": 1740767773,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 69745,
       "num": 69745,
       "word": "谁懂斗罗斗破在国漫的含金量",
@@ -473,14 +481,6 @@
       "onboard_time": 1740763215,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 60339,
-      "num": 55280,
-      "word": "特朗普称泽连斯基28日早抵美",
-      "onboard_time": 1740767773,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 56765,
@@ -539,6 +539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 39320,
+      "num": 39320,
+      "word": "英国首相称必须赢得乌克兰和平",
+      "onboard_time": 1740768312,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 37144,
       "num": 108426,
       "word": "偶遇王楚钦笑容藏不住了",
@@ -547,20 +555,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 36837,
-      "num": 36837,
-      "word": "英国首相称必须赢得乌克兰和平",
-      "onboard_time": 1740768312,
-      "rank": 21,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 36517,
       "num": 120950,
       "word": "知名电影人宋歌被判刑",
       "onboard_time": 1740748218,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 31635,
+      "num": 57329,
+      "word": "私贴公务用车车贴或违法",
+      "onboard_time": 1740769512,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29152,
@@ -651,12 +659,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 11342,
-      "num": 57329,
-      "word": "私贴公务用车车贴或违法",
-      "onboard_time": 1740769512,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 13787,
+      "num": 39334,
+      "word": "中俄是百炼成钢的真心朋友",
+      "onboard_time": 1740770711,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 8874,
