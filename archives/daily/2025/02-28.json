@@ -1,6 +1,6 @@
 {
   "startTime": 1740673831596,
-  "endTime": 1740735503767,
+  "endTime": 1740738281754,
   "band_list": [
     {
       "raw_hot": 8399964,
@@ -89,6 +89,14 @@
       "onboard_time": 1740714859,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1230172,
+      "num": 370964,
+      "word": "李晨Angelababy友谊",
+      "onboard_time": 1740735740,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1220134,
@@ -315,6 +323,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 561032,
+      "num": 327880,
+      "word": "网易云崩了",
+      "onboard_time": 1740736579,
+      "rank": 20,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 558929,
       "num": 558929,
       "word": "小米申请小米SU7MAX商标被驳回",
@@ -369,6 +385,14 @@
       "onboard_time": 1740719721,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 519405,
+      "num": 519405,
+      "word": "鞠婧祎丁禹兮 嫁反派",
+      "onboard_time": 1740734958,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 504592,
@@ -523,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 396819,
+      "num": 399475,
+      "word": "初步举证 豆瓣9.6神作",
+      "onboard_time": 1740732200,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 392204,
       "num": 392204,
       "word": "奔跑吧13将在三月底录制",
@@ -537,6 +569,22 @@
       "onboard_time": 1740665960,
       "rank": 4,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 359605,
+      "num": 359605,
+      "word": "蒋胜男称去年的提案被办复",
+      "onboard_time": 1740733158,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 355681,
+      "num": 355681,
+      "word": "金晨一天穿了4套最新季高定",
+      "onboard_time": 1740732679,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 353023,
@@ -555,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 349561,
+      "num": 349561,
+      "word": "韩安冉直播切片1个月卖了800多万",
+      "onboard_time": 1740736159,
+      "rank": 17,
+      "category": "网红"
+    },
+    {
       "raw_hot": 337480,
       "num": 230321,
       "word": "薛小婉怒斥韩安冉",
@@ -571,20 +627,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 330445,
+      "num": 310261,
+      "word": "于正说把赵露思当自己家小孩",
+      "onboard_time": 1740734360,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 329030,
       "num": 329030,
       "word": "雷军夸保时捷",
       "onboard_time": 1740660319,
       "rank": 7,
       "category": "汽车,互联网"
-    },
-    {
-      "raw_hot": 327872,
-      "num": 327872,
-      "word": "金晨一天穿了4套最新季高定",
-      "onboard_time": 1740732679,
-      "rank": 20,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 326284,
@@ -651,11 +707,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 300057,
-      "num": 399475,
-      "word": "初步举证 豆瓣9.6神作",
-      "onboard_time": 1740732200,
-      "rank": 16,
+      "raw_hot": 302759,
+      "num": 302759,
+      "word": "哪吒票房",
+      "onboard_time": 1740737479,
+      "rank": 24,
       "category": "电影"
     },
     {
@@ -680,6 +736,14 @@
       "word": "偶遇王鹤棣新加坡逛商场",
       "onboard_time": 1740729079,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 282021,
+      "num": 352161,
+      "word": "朱志鑫团内唯一入围2024微博涨粉量榜单",
+      "onboard_time": 1740736818,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -731,20 +795,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 264843,
-      "num": 264843,
-      "word": "于正说把赵露思当自己家小孩",
-      "onboard_time": 1740734360,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 261903,
       "num": 309815,
       "word": "国防部称将隆重纪念抗战胜利80周年",
       "onboard_time": 1740712397,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 260839,
+      "num": 349838,
+      "word": "刘亦菲杨幂赵丽颖微博热议女角色",
+      "onboard_time": 1740733519,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 256811,
@@ -761,6 +825,14 @@
       "onboard_time": 1740723798,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 253505,
+      "num": 253505,
+      "word": "被这幕无声的对白打动了",
+      "onboard_time": 1740734598,
+      "rank": 39,
+      "category": "正能量"
     },
     {
       "raw_hot": 253011,
@@ -811,6 +883,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 248901,
+      "num": 248901,
+      "word": "经纪公司拒绝董力夫妇拍孕肚照",
+      "onboard_time": 1740732679,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 248053,
+      "num": 336115,
+      "word": "结婚不到1年离婚男方起诉女方返还彩礼",
+      "onboard_time": 1740736579,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 247843,
       "num": 247843,
       "word": "带状疱疹经济负担超百亿",
@@ -857,6 +945,14 @@
       "onboard_time": 1740704301,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 242927,
+      "num": 372881,
+      "word": "特朗普一句够了打断回答",
+      "onboard_time": 1740736698,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 242888,
@@ -939,28 +1035,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 226957,
-      "num": 226957,
-      "word": "鞠婧祎丁禹兮 嫁反派",
-      "onboard_time": 1740734958,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 225914,
       "num": 206548,
       "word": "孟子义米兰时装周出发啦",
       "onboard_time": 1740671719,
       "rank": 17,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 224264,
-      "num": 224264,
-      "word": "刘亦菲杨幂赵丽颖微博热议女角色",
-      "onboard_time": 1740733519,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 220564,
@@ -1009,14 +1089,6 @@
       "onboard_time": 1740670218,
       "rank": 16,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 208646,
-      "num": 208646,
-      "word": "经纪公司拒绝董力夫妇拍孕肚照",
-      "onboard_time": 1740732679,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 205888,
@@ -1123,14 +1195,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195132,
-      "num": 195132,
-      "word": "被这幕无声的对白打动了",
-      "onboard_time": 1740734598,
-      "rank": 39,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 194981,
       "num": 185987,
       "word": "易烊千玺杂志",
@@ -1168,6 +1232,14 @@
       "word": "桑延温以凡开始甜了",
       "onboard_time": 1740720680,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 190383,
+      "num": 190383,
+      "word": "檀健次演8集be了2次",
+      "onboard_time": 1740737479,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -1467,6 +1539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 161878,
+      "num": 161878,
+      "word": "警方发现疑似中传失联学生",
+      "onboard_time": 1740737539,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161746,
       "num": 161746,
       "word": "破局饭圈乱象运动员也是关键",
@@ -1691,14 +1771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 146875,
-      "num": 146875,
-      "word": "蒋胜男称去年的提案被办复",
-      "onboard_time": 1740733158,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 146550,
       "num": 284024,
       "word": "成毅鞠婧祎领衔热议角色",
@@ -1720,6 +1792,14 @@
       "word": "LGDNBW锁定S组",
       "onboard_time": 1740734180,
       "rank": 36,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 143412,
+      "num": 143412,
+      "word": "Bin说不公平",
+      "onboard_time": 1740737900,
+      "rank": 39,
       "category": "电竞"
     },
     {
@@ -1761,6 +1841,14 @@
       "onboard_time": 1740714017,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139862,
+      "num": 139862,
+      "word": "华为Mate70Pro优享版价格",
+      "onboard_time": 1740737420,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 139839,
@@ -1835,6 +1923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134461,
+      "num": 134461,
+      "word": "桑延雨中告白温以凡",
+      "onboard_time": 1740737120,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133539,
       "num": 418024,
       "word": "夸克AI搜索上线深度思考",
@@ -1881,6 +1977,14 @@
       "onboard_time": 1740652698,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131337,
+      "num": 131337,
+      "word": "被打赏27万女主播已下架所有作品",
+      "onboard_time": 1740737719,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131228,
@@ -1931,12 +2035,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127511,
+      "num": 127511,
+      "word": "张艺兴郑州演唱会",
+      "onboard_time": 1740738079,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 127185,
+      "num": 127184,
+      "word": "刘浩存广告词 既要又要凭什么不可以",
+      "onboard_time": 1740737900,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126979,
       "num": 126979,
       "word": "王楚钦地广",
       "onboard_time": 1740728538,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126325,
+      "num": 267612,
+      "word": "刘畊宏回应掉粉",
+      "onboard_time": 1740735139,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 126263,
+      "num": 126263,
+      "word": "对这种玩笑永远不要笑",
+      "onboard_time": 1740736220,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 125408,
@@ -2091,6 +2227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107166,
+      "num": 340434,
+      "word": "七星连珠开运指南",
+      "onboard_time": 1740735618,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105937,
       "num": 441420,
       "word": "当地回应男子扶摔倒老人反被诬陷",
@@ -2201,14 +2345,6 @@
       "onboard_time": 1740657980,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 87197,
-      "num": 267612,
-      "word": "刘畊宏回应掉粉",
-      "onboard_time": 1740735139,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 86068,
@@ -2507,6 +2643,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 53088,
+      "num": 127185,
+      "word": "当代大学生吃饭经济学",
+      "onboard_time": 1740736698,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 52459,
+      "num": 318619,
+      "word": "马伊琍陈昊宇米兰同框看秀",
+      "onboard_time": 1740737059,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 51063,
       "num": 312367,
       "word": "美股7巨头市值一夜蒸发4万亿",
@@ -2521,6 +2673,14 @@
       "onboard_time": 1740679092,
       "rank": 21,
       "category": "国内时政,电影"
+    },
+    {
+      "raw_hot": 49865,
+      "num": 262485,
+      "word": "企业通报环卫工集体趴地烧纸钱祈福",
+      "onboard_time": 1740736399,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49505,
@@ -2721,6 +2881,14 @@
       "onboard_time": 1740707958,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 17212,
+      "num": 127185,
+      "word": "热辣滚烫2024热搜电影",
+      "onboard_time": 1740737839,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 16914,

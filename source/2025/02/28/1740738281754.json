@@ -1,0 +1,410 @@
+{
+  "runTime": 1740738281754,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1381682,
+        "num": 1381682,
+        "word": "优酷 12集",
+        "onboard_time": 1740728358,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 883758,
+        "num": 883758,
+        "word": "金价大跳水了",
+        "onboard_time": 1740707118,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 21679,
+        "num": 846835,
+        "word": "田间春管科技范儿十足",
+        "onboard_time": 1740715338,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 822594,
+        "num": 822594,
+        "word": "南航乘客被废弃针头扎出血后陷抑郁",
+        "onboard_time": 1740728297,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 519405,
+        "num": 519405,
+        "word": "鞠婧祎丁禹兮 嫁反派",
+        "onboard_time": 1740734958,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 427991,
+        "num": 427991,
+        "word": "余华英被执行死刑",
+        "onboard_time": 1740716960,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 416675,
+        "num": 416675,
+        "word": "怀孕被误诊涉事人员已被移送公安",
+        "onboard_time": 1740730517,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396819,
+        "num": 396819,
+        "word": "初步举证 豆瓣9.6神作",
+        "onboard_time": 1740732200,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 375275,
+        "num": 375275,
+        "word": "余华英执行死刑前会见了近亲属",
+        "onboard_time": 1740719300,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242927,
+        "num": 372881,
+        "word": "特朗普一句够了打断回答",
+        "onboard_time": 1740736698,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1230172,
+        "num": 370964,
+        "word": "李晨Angelababy友谊",
+        "onboard_time": 1740735740,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 697252,
+        "num": 365473,
+        "word": "男子患癌花40多万半张脸没了",
+        "onboard_time": 1740727939,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 540875,
+        "num": 362639,
+        "word": "甜馨回应变白了",
+        "onboard_time": 1740719721,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359605,
+        "num": 359605,
+        "word": "蒋胜男称去年的提案被办复",
+        "onboard_time": 1740733158,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 355681,
+        "num": 355681,
+        "word": "金晨一天穿了4套最新季高定",
+        "onboard_time": 1740732679,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 282021,
+        "num": 352161,
+        "word": "朱志鑫团内唯一入围2024微博涨粉量榜单",
+        "onboard_time": 1740736818,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260839,
+        "num": 349838,
+        "word": "刘亦菲杨幂赵丽颖微博热议女角色",
+        "onboard_time": 1740733519,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 349561,
+        "num": 349561,
+        "word": "韩安冉直播切片1个月卖了800多万",
+        "onboard_time": 1740736159,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 107166,
+        "num": 340434,
+        "word": "七星连珠开运指南",
+        "onboard_time": 1740735618,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248053,
+        "num": 336115,
+        "word": "结婚不到1年离婚男方起诉女方返还彩礼",
+        "onboard_time": 1740736579,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 561032,
+        "num": 327880,
+        "word": "网易云崩了",
+        "onboard_time": 1740736579,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 52459,
+        "num": 318619,
+        "word": "马伊琍陈昊宇米兰同框看秀",
+        "onboard_time": 1740737059,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 310425,
+        "num": 310425,
+        "word": "电影7天撤档",
+        "onboard_time": 1740731779,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 330445,
+        "num": 310261,
+        "word": "于正说把赵露思当自己家小孩",
+        "onboard_time": 1740734360,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302759,
+        "num": 302759,
+        "word": "哪吒票房",
+        "onboard_time": 1740737479,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 281914,
+        "num": 281914,
+        "word": "七星连珠",
+        "onboard_time": 1740714259,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 49865,
+        "num": 262485,
+        "word": "企业通报环卫工集体趴地烧纸钱祈福",
+        "onboard_time": 1740736399,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253505,
+        "num": 253505,
+        "word": "被这幕无声的对白打动了",
+        "onboard_time": 1740734598,
+        "rank": 27,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 248901,
+        "num": 248901,
+        "word": "经纪公司拒绝董力夫妇拍孕肚照",
+        "onboard_time": 1740732679,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246116,
+        "num": 246116,
+        "word": "种地吧 藏医",
+        "onboard_time": 1740731480,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238892,
+        "num": 238892,
+        "word": "郑渊洁宣布和大家告别",
+        "onboard_time": 1740727699,
+        "rank": 30,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 216340,
+        "num": 216340,
+        "word": "小米申请小米SU7MAX商标被驳回",
+        "onboard_time": 1740728658,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 211546,
+        "num": 211546,
+        "word": "下午3点到5点心情最糟糕",
+        "onboard_time": 1740725778,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206363,
+        "num": 206363,
+        "word": "赵露思的苹果肌",
+        "onboard_time": 1740719540,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193176,
+        "num": 193176,
+        "word": "女儿回应父亲打赏女主播花光27万",
+        "onboard_time": 1740730459,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192479,
+        "num": 192479,
+        "word": "育儿嫂睡梦中大叫翻滚压伤婴儿",
+        "onboard_time": 1740730698,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190383,
+        "num": 190383,
+        "word": "檀健次演8集be了2次",
+        "onboard_time": 1740737479,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170259,
+        "num": 170259,
+        "word": "4个部位长疙瘩可能是疾病信号",
+        "onboard_time": 1740734360,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 161878,
+        "num": 161878,
+        "word": "警方发现疑似中传失联学生",
+        "onboard_time": 1740737539,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143412,
+        "num": 143412,
+        "word": "Bin说不公平",
+        "onboard_time": 1740737900,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139862,
+        "num": 139862,
+        "word": "华为Mate70Pro优享版价格",
+        "onboard_time": 1740737420,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 134461,
+        "num": 134461,
+        "word": "桑延雨中告白温以凡",
+        "onboard_time": 1740737120,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131337,
+        "num": 131337,
+        "word": "被打赏27万女主播已下架所有作品",
+        "onboard_time": 1740737719,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127511,
+        "num": 127511,
+        "word": "张艺兴郑州演唱会",
+        "onboard_time": 1740738079,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 53088,
+        "num": 127185,
+        "word": "当代大学生吃饭经济学",
+        "onboard_time": 1740736698,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17212,
+        "num": 127185,
+        "word": "热辣滚烫2024热搜电影",
+        "onboard_time": 1740737839,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127185,
+        "num": 127184,
+        "word": "刘浩存广告词 既要又要凭什么不可以",
+        "onboard_time": 1740737900,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126325,
+        "num": 126325,
+        "word": "刘畊宏回应掉粉",
+        "onboard_time": 1740735139,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126263,
+        "num": 126263,
+        "word": "对这种玩笑永远不要笑",
+        "onboard_time": 1740736220,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125674,
+        "num": 125674,
+        "word": "杨妞花将回老家告慰父母",
+        "onboard_time": 1740722118,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会之问#"
+    }
+  }
+}

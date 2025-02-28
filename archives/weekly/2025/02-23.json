@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740735503767,
+  "endTime": 1740738281754,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -889,6 +889,14 @@
       "onboard_time": 1740464598,
       "rank": 39,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1230172,
+      "num": 370964,
+      "word": "李晨Angelababy友谊",
+      "onboard_time": 1740735740,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1220134,
@@ -3139,6 +3147,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 561032,
+      "num": 327880,
+      "word": "网易云崩了",
+      "onboard_time": 1740736579,
+      "rank": 20,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 558929,
       "num": 558929,
       "word": "小米申请小米SU7MAX商标被驳回",
@@ -3425,6 +3441,14 @@
       "onboard_time": 1740238281,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 519405,
+      "num": 519405,
+      "word": "鞠婧祎丁禹兮 嫁反派",
+      "onboard_time": 1740734958,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 519229,
@@ -4515,6 +4539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 396819,
+      "num": 399475,
+      "word": "初步举证 豆瓣9.6神作",
+      "onboard_time": 1740732200,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 396586,
       "num": 335156,
       "word": "肖战一上微博天塌了",
@@ -4843,6 +4875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 359605,
+      "num": 359605,
+      "word": "蒋胜男称去年的提案被办复",
+      "onboard_time": 1740733158,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 359050,
       "num": 359050,
       "word": "潘宏账号内容被一夜清空",
@@ -4889,6 +4929,14 @@
       "onboard_time": 1740363319,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 355681,
+      "num": 355681,
+      "word": "金晨一天穿了4套最新季高定",
+      "onboard_time": 1740732679,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 355237,
@@ -4977,6 +5025,14 @@
       "onboard_time": 1740479540,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 349561,
+      "num": 349561,
+      "word": "韩安冉直播切片1个月卖了800多万",
+      "onboard_time": 1740736159,
+      "rank": 17,
+      "category": "网红"
     },
     {
       "raw_hot": 348882,
@@ -5147,6 +5203,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 330445,
+      "num": 310261,
+      "word": "于正说把赵露思当自己家小孩",
+      "onboard_time": 1740734360,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 329672,
       "num": 364114,
       "word": "丈夫设局让妻子离婚时背75万巨债",
@@ -5169,14 +5233,6 @@
       "onboard_time": 1740528620,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 327872,
-      "num": 327872,
-      "word": "金晨一天穿了4套最新季高定",
-      "onboard_time": 1740732679,
-      "rank": 20,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 327715,
@@ -5635,14 +5691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 300057,
-      "num": 399475,
-      "word": "初步举证 豆瓣9.6神作",
-      "onboard_time": 1740732200,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 299629,
       "num": 299629,
       "word": "Karsa 9哥我们火了",
@@ -6019,6 +6067,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 282021,
+      "num": 352161,
+      "word": "朱志鑫团内唯一入围2024微博涨粉量榜单",
+      "onboard_time": 1740736818,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 281787,
       "num": 281787,
       "word": "Bin 傲慢",
@@ -6307,14 +6363,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 264843,
-      "num": 264843,
-      "word": "于正说把赵露思当自己家小孩",
-      "onboard_time": 1740734360,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 264299,
       "num": 264299,
       "word": "徐若晗演技",
@@ -6353,6 +6401,14 @@
       "onboard_time": 1740712397,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 260839,
+      "num": 349838,
+      "word": "刘亦菲杨幂赵丽颖微博热议女角色",
+      "onboard_time": 1740733519,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 260814,
@@ -6507,6 +6563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 253505,
+      "num": 253505,
+      "word": "被这幕无声的对白打动了",
+      "onboard_time": 1740734598,
+      "rank": 39,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 253011,
       "num": 253011,
       "word": "白鹿将缺席奔跑吧首轮录制",
@@ -6603,12 +6667,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 248901,
+      "num": 248901,
+      "word": "经纪公司拒绝董力夫妇拍孕肚照",
+      "onboard_time": 1740732679,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248380,
       "num": 248380,
       "word": "杨迪在机场等粉丝上厕所",
       "onboard_time": 1740289520,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 248053,
+      "num": 336115,
+      "word": "结婚不到1年离婚男方起诉女方返还彩礼",
+      "onboard_time": 1740736579,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 247843,
@@ -6777,6 +6857,14 @@
       "onboard_time": 1740313102,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 242927,
+      "num": 372881,
+      "word": "特朗普一句够了打断回答",
+      "onboard_time": 1740736698,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 242888,
@@ -7331,14 +7419,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 226957,
-      "num": 226957,
-      "word": "鞠婧祎丁禹兮 嫁反派",
-      "onboard_time": 1740734958,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 226702,
       "num": 226702,
       "word": "看了仙台有树才知道",
@@ -7425,14 +7505,6 @@
       "onboard_time": 1740309320,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 224264,
-      "num": 224264,
-      "word": "刘亦菲杨幂赵丽颖微博热议女角色",
-      "onboard_time": 1740733519,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 223728,
@@ -8017,14 +8089,6 @@
       "onboard_time": 1740670218,
       "rank": 13,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 208646,
-      "num": 208646,
-      "word": "经纪公司拒绝董力夫妇拍孕肚照",
-      "onboard_time": 1740732679,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 208353,
@@ -8731,14 +8795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195132,
-      "num": 195132,
-      "word": "被这幕无声的对白打动了",
-      "onboard_time": 1740734598,
-      "rank": 39,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 194981,
       "num": 185987,
       "word": "易烊千玺杂志",
@@ -9097,6 +9153,14 @@
       "onboard_time": 1740461601,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190383,
+      "num": 190383,
+      "word": "檀健次演8集be了2次",
+      "onboard_time": 1740737479,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 190375,
@@ -11219,6 +11283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 161878,
+      "num": 161878,
+      "word": "警方发现疑似中传失联学生",
+      "onboard_time": 1740737539,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161855,
       "num": 161855,
       "word": "相柳第三世",
@@ -12395,14 +12467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 146875,
-      "num": 146875,
-      "word": "蒋胜男称去年的提案被办复",
-      "onboard_time": 1740733158,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 146859,
       "num": 329546,
       "word": "周翊然赛车vlog电影感",
@@ -12635,6 +12699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 143412,
+      "num": 143412,
+      "word": "Bin说不公平",
+      "onboard_time": 1740737900,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 143396,
       "num": 143396,
       "word": "永远在自救的古偶女主",
@@ -12825,6 +12897,14 @@
       "onboard_time": 1740468861,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 139862,
+      "num": 139862,
+      "word": "华为Mate70Pro优享版价格",
+      "onboard_time": 1740737420,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 139839,
@@ -13219,6 +13299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134461,
+      "num": 134461,
+      "word": "桑延雨中告白温以凡",
+      "onboard_time": 1740737120,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134256,
       "num": 134256,
       "word": "陈奕恒陈浚铭跳李羲承进行曲",
@@ -13424,6 +13512,14 @@
       "word": "男子被酒店装饰砸伤缝6针索赔17万",
       "onboard_time": 1740320182,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131337,
+      "num": 131337,
+      "word": "被打赏27万女主播已下架所有作品",
+      "onboard_time": 1740737719,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -13675,6 +13771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127511,
+      "num": 127511,
+      "word": "张艺兴郑州演唱会",
+      "onboard_time": 1740738079,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 127248,
       "num": 127248,
       "word": "安理会乌克兰问题会议投了7轮票",
@@ -13689,6 +13793,14 @@
       "onboard_time": 1740640457,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127185,
+      "num": 127184,
+      "word": "刘浩存广告词 既要又要凭什么不可以",
+      "onboard_time": 1740737900,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 127163,
@@ -13721,6 +13833,22 @@
       "onboard_time": 1740656059,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 126325,
+      "num": 267612,
+      "word": "刘畊宏回应掉粉",
+      "onboard_time": 1740735139,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 126263,
+      "num": 126263,
+      "word": "对这种玩笑永远不要笑",
+      "onboard_time": 1740736220,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 126191,
@@ -14819,6 +14947,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 107166,
+      "num": 340434,
+      "word": "七星连珠开运指南",
+      "onboard_time": 1740735618,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107127,
       "num": 311783,
       "word": "JDG无缘全球先锋赛",
@@ -15545,14 +15681,6 @@
       "onboard_time": 1740567079,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 87197,
-      "num": 267612,
-      "word": "刘畊宏回应掉粉",
-      "onboard_time": 1740735139,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 87140,
@@ -17019,12 +17147,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 53088,
+      "num": 127185,
+      "word": "当代大学生吃饭经济学",
+      "onboard_time": 1740736698,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 53005,
       "num": 425817,
       "word": "中方回应乌克兰危机和谈",
       "onboard_time": 1740401540,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 52459,
+      "num": 318619,
+      "word": "马伊琍陈昊宇米兰同框看秀",
+      "onboard_time": 1740737059,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 52315,
@@ -17152,6 +17296,14 @@
       "word": "老外成了我的互联网嘴替",
       "onboard_time": 1740522312,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49865,
+      "num": 262485,
+      "word": "企业通报环卫工集体趴地烧纸钱祈福",
+      "onboard_time": 1740736399,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -18873,6 +19025,14 @@
       "onboard_time": 1740707958,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 17212,
+      "num": 127185,
+      "word": "热辣滚烫2024热搜电影",
+      "onboard_time": 1740737839,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 17198,
