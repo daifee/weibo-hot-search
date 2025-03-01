@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1740811451511,
+  "endTime": 1740813649406,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1476,7 +1476,7 @@
     },
     {
       "raw_hot": 3008661,
-      "num": 706969,
+      "num": 1585175,
       "word": "才二十三",
       "onboard_time": 1740808433,
       "rank": 7,
@@ -1801,6 +1801,14 @@
       "onboard_time": 1740019700,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2819755,
+      "num": 460441,
+      "word": "薛凯琪22号在音乐节哭了",
+      "onboard_time": 1740811715,
+      "rank": 10,
+      "category": "演出"
     },
     {
       "raw_hot": 2814831,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1738216577,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2409556,
-      "num": 2409556,
-      "word": "王源跨年晚会音准",
-      "onboard_time": 1735653450,
-      "rank": 4,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
