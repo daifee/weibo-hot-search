@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1740850549688,
+  "endTime": 1740853733681,
   "band_list": [
     {
       "raw_hot": 1119656,
@@ -131,6 +131,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257398,
+      "num": 117914,
+      "word": "老鼠人",
+      "onboard_time": 1740849975,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 230415,
+      "num": 230415,
+      "word": "你好星期六难哄收视新高",
+      "onboard_time": 1740849856,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204793,
       "num": 316833,
       "word": "专家称可坚定买入黄金",
@@ -145,6 +161,14 @@
       "onboard_time": 1740831623,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197622,
+      "num": 152197,
+      "word": "欧洲多方力挺乌克兰",
+      "onboard_time": 1740848656,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 186016,
@@ -259,14 +283,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 118122,
-      "num": 152197,
-      "word": "欧洲多方力挺乌克兰",
-      "onboard_time": 1740848656,
-      "rank": 23,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 114260,
       "num": 316240,
       "word": "时代少年团演唱会",
@@ -312,14 +328,6 @@
       "word": "蔡明因常年不吃早饭导致胆摘除",
       "onboard_time": 1740818543,
       "rank": 36,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 94858,
-      "num": 118114,
-      "word": "你好星期六难哄收视新高",
-      "onboard_time": 1740849856,
-      "rank": 18,
       "category": "综艺"
     },
     {
@@ -459,14 +467,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 52012,
-      "num": 117914,
-      "word": "老鼠人",
-      "onboard_time": 1740849975,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 46649,
       "num": 315665,
       "word": "国安客场领先申花",
@@ -483,6 +483,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 37660,
+      "num": 118042,
+      "word": "3岁吒儿原来是加法高手",
+      "onboard_time": 1740850334,
+      "rank": 25,
+      "category": "民生新闻,电影"
+    },
+    {
+      "raw_hot": 32176,
+      "num": 54313,
+      "word": "谁能想到博物馆一扇窗变成了景点",
+      "onboard_time": 1740852134,
+      "rank": 25,
+      "category": "民生新闻,旅游"
+    },
+    {
       "raw_hot": 31366,
       "num": 316459,
       "word": "无畏契约曼谷大师赛",
@@ -491,12 +507,44 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 22510,
-      "num": 118042,
-      "word": "3岁吒儿原来是加法高手",
-      "onboard_time": 1740850334,
-      "rank": 25,
-      "category": "民生新闻,电影"
+      "raw_hot": 30651,
+      "num": 54278,
+      "word": "唐总你夫人的马甲掉了",
+      "onboard_time": 1740849676,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 25113,
+      "num": 54268,
+      "word": "鞠婧祎对HelloKitty是真爱",
+      "onboard_time": 1740850756,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 24446,
+      "num": 54266,
+      "word": "陈楚生新歌荒岛好野",
+      "onboard_time": 1740852974,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 16432,
+      "num": 142891,
+      "word": "这个定海神器有多了不起",
+      "onboard_time": 1740826523,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 15959,
+      "num": 54314,
+      "word": "央视曝光量子鞋垫骗局",
+      "onboard_time": 1740852614,
+      "rank": 24,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
