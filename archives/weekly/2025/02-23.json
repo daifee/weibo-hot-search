@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740836184222,
+  "endTime": 1740838854029,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -289,6 +289,22 @@
       "onboard_time": 1740626359,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2179891,
+      "num": 2179891,
+      "word": "陶喆唱爱爱爱悼念方大同",
+      "onboard_time": 1740837444,
+      "rank": 0,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 2176585,
+      "num": 1131006,
+      "word": "单依纯哽咽唱才二十三",
+      "onboard_time": 1740837324,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 2171484,
@@ -1212,7 +1228,7 @@
     },
     {
       "raw_hot": 1162136,
-      "num": 468633,
+      "num": 601541,
       "word": "赵露思直播",
       "onboard_time": 1740832522,
       "rank": 27,
@@ -1843,6 +1859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 926454,
+      "num": 349475,
+      "word": "乳腺癌女子提醒网友少碰购物小票",
+      "onboard_time": 1740835824,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 925175,
       "num": 925175,
       "word": "周雨彤回应辞职发疯戏",
@@ -2121,6 +2145,14 @@
       "onboard_time": 1740476661,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 821487,
+      "num": 821487,
+      "word": "郑业成工作室声明",
+      "onboard_time": 1740836784,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 816015,
@@ -2481,6 +2513,14 @@
       "onboard_time": 1740702860,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 730409,
+      "num": 730409,
+      "word": "邓紫棋演唱会上哭了",
+      "onboard_time": 1740837924,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 728572,
@@ -3316,7 +3356,7 @@
     },
     {
       "raw_hot": 610273,
-      "num": 559077,
+      "num": 871935,
       "word": "泽连斯基抵达英国",
       "onboard_time": 1740830003,
       "rank": 5,
@@ -3417,6 +3457,14 @@
       "onboard_time": 1740528681,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 593794,
+      "num": 593794,
+      "word": "杨紫跳了李羲承进行曲",
+      "onboard_time": 1740834983,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 593312,
@@ -3913,14 +3961,6 @@
       "onboard_time": 1740464661,
       "rank": 10,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 537066,
-      "num": 537066,
-      "word": "杨紫跳了李羲承进行曲",
-      "onboard_time": 1740834983,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 536435,
@@ -6179,6 +6219,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 328469,
+      "num": 328469,
+      "word": "白敬亭章若楠跳troublemaker",
+      "onboard_time": 1740835883,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 328372,
       "num": 328372,
       "word": "3月第一个好消息是吒儿给的",
@@ -7971,6 +8019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 246744,
+      "num": 482161,
+      "word": "抗炎食物",
+      "onboard_time": 1740836063,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 246742,
       "num": 246742,
       "word": "梁靖崑0比6落后没有放弃",
@@ -8089,6 +8145,14 @@
       "onboard_time": 1740537498,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 243502,
+      "num": 668433,
+      "word": "樊振东将去宁波体能补测",
+      "onboard_time": 1740836242,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 243141,
@@ -9539,14 +9603,6 @@
       "category": "美食,艺人"
     },
     {
-      "raw_hot": 209278,
-      "num": 209278,
-      "word": "乳腺癌女子提醒网友少碰购物小票",
-      "onboard_time": 1740835824,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 209194,
       "num": 209194,
       "word": "文科教授谈AI加速文科之死",
@@ -9585,6 +9641,14 @@
       "onboard_time": 1740372862,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 208215,
+      "num": 208215,
+      "word": "香港特首邀请李宇春来港开演唱会",
+      "onboard_time": 1740837204,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 208118,
@@ -9955,6 +10019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 202068,
+      "num": 202068,
+      "word": "又听到樊振东唱粤语歌了",
+      "onboard_time": 1740838404,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201742,
       "num": 201742,
       "word": "孙颖莎胜陈幸同",
@@ -10153,6 +10225,14 @@
       "onboard_time": 1740324501,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199301,
+      "num": 199301,
+      "word": "俄方称泽连斯基访美完全失败",
+      "onboard_time": 1740836843,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 199252,
@@ -10603,6 +10683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192955,
+      "num": 192955,
+      "word": "TES一穿五",
+      "onboard_time": 1740836363,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 192884,
       "num": 194135,
       "word": "cos饺子导演的第一次见",
@@ -10763,6 +10851,14 @@
       "category": "互联网,游戏"
     },
     {
+      "raw_hot": 191254,
+      "num": 191254,
+      "word": "蒲熠星发长文告别最强大脑",
+      "onboard_time": 1740837684,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191203,
       "num": 191203,
       "word": "森林狼vs湖人",
@@ -10873,6 +10969,14 @@
       "onboard_time": 1740279558,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 190188,
+      "num": 186523,
+      "word": "李羲承进行曲",
+      "onboard_time": 1740838465,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 190164,
@@ -11139,6 +11243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186981,
+      "num": 186981,
+      "word": "FMVP",
+      "onboard_time": 1740838043,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 186950,
       "num": 215002,
       "word": "王楚钦担任首都无偿献血宣传形象大使",
@@ -11257,6 +11369,14 @@
       "onboard_time": 1740808493,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 185549,
+      "num": 185549,
+      "word": "你好星期六预告",
+      "onboard_time": 1740836603,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 185483,
@@ -12291,6 +12411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174155,
+      "num": 219169,
+      "word": "全红婵拿表情包贴脸王楚钦",
+      "onboard_time": 1740837085,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174027,
       "num": 174027,
       "word": "蛇年正月最后一天",
@@ -13091,6 +13219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165507,
+      "num": 165507,
+      "word": "王鹤棣回应大奉第二季",
+      "onboard_time": 1740838163,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165409,
       "num": 340956,
       "word": "智利大停电影响98%人口",
@@ -13265,6 +13401,14 @@
       "onboard_time": 1740538698,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 163783,
+      "num": 163783,
+      "word": "EDG告别曼谷大师赛",
+      "onboard_time": 1740838286,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 163594,
@@ -13763,14 +13907,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 158188,
-      "num": 158188,
-      "word": "白敬亭章若楠跳troublemaker",
-      "onboard_time": 1740835883,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 158161,
       "num": 158161,
       "word": "拉粪三轮车逆行泼小车一车",
@@ -13969,6 +14105,14 @@
       "onboard_time": 1740716899,
       "rank": 46,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 155891,
+      "num": 155891,
+      "word": "白鹿版你打我噻",
+      "onboard_time": 1740838824,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 155685,
@@ -14875,6 +15019,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 146290,
+      "num": 146290,
+      "word": "EDG败决对阵T1",
+      "onboard_time": 1740825921,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 146154,
       "num": 145061,
       "word": "湖南卫视连发10条李现",
@@ -14945,6 +15097,14 @@
       "onboard_time": 1740576980,
       "rank": 20,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 145537,
+      "num": 145537,
+      "word": "特朗普泽连斯基吵架前后对比",
+      "onboard_time": 1740837563,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 145504,
@@ -15163,14 +15323,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 142444,
-      "num": 142444,
-      "word": "抗炎食物",
-      "onboard_time": 1740836063,
-      "rank": 44,
-      "category": "美食"
-    },
-    {
       "raw_hot": 142309,
       "num": 142309,
       "word": "罗秋韵滤镜气血感很足的美",
@@ -15219,6 +15371,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 141803,
+      "num": 1478816,
+      "word": "春龙抬首好运当头",
+      "onboard_time": 1740827423,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 141689,
       "num": 141689,
       "word": "重病女子在监护室遭男护工猥亵",
@@ -15257,6 +15417,14 @@
       "onboard_time": 1740820462,
       "rank": 36,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 141132,
+      "num": 1250586,
+      "word": "民营企业海外订单激增",
+      "onboard_time": 1740836544,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 140902,
@@ -18267,6 +18435,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 96960,
+      "num": 326531,
+      "word": "热敏纸含双酚A孕妇婴幼儿最好别碰",
+      "onboard_time": 1740833964,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96870,
       "num": 275761,
       "word": "广东一中学37平宿舍塞下14人",
@@ -18360,6 +18536,14 @@
       "word": "二月二龙抬头来赶场",
       "onboard_time": 1740797417,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94802,
+      "num": 349629,
+      "word": "乘客被针头扎伤南航责任有哪些",
+      "onboard_time": 1740837263,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -18825,6 +19009,14 @@
       "onboard_time": 1740820222,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 85241,
+      "num": 265103,
+      "word": "婚介所相亲见1人花10000",
+      "onboard_time": 1740836904,
+      "rank": 24,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 85157,
@@ -19329,14 +19521,6 @@
       "onboard_time": 1740715879,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 75641,
-      "num": 1478816,
-      "word": "春龙抬首好运当头",
-      "onboard_time": 1740827423,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 75203,
@@ -20089,6 +20273,14 @@
       "onboard_time": 1740797838,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59289,
+      "num": 467486,
+      "word": "年轻人被父母要求按月上交家用",
+      "onboard_time": 1740837743,
+      "rank": 14,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 59206,
@@ -21089,14 +21281,6 @@
       "onboard_time": 1740737839,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 41283,
-      "num": 326531,
-      "word": "热敏纸含双酚A孕妇婴幼儿最好别碰",
-      "onboard_time": 1740833964,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 41169,
@@ -22353,6 +22537,14 @@
       "onboard_time": 1740740959,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 22618,
+      "num": 350922,
+      "word": "景甜新剧首更四集不够看",
+      "onboard_time": 1740838286,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 22591,
