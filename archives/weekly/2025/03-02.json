@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1740871367441,
+  "endTime": 1740872164448,
   "band_list": [
     {
       "raw_hot": 1119656,
@@ -27,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 723322,
+      "num": 918249,
+      "word": "英乌签署22.6亿英镑贷款协议",
+      "onboard_time": 1740870913,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 697824,
       "num": 697824,
       "word": "什么是爆肺",
@@ -49,6 +57,14 @@
       "onboard_time": 1740837924,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 470685,
+      "num": 773819,
+      "word": "方大同经纪人谈后事相关处理",
+      "onboard_time": 1740860710,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 469960,
@@ -75,14 +91,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 408854,
-      "num": 773819,
-      "word": "方大同经纪人谈后事相关处理",
-      "onboard_time": 1740860710,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 390882,
       "num": 316665,
       "word": "乳腺癌女子提醒网友少碰购物小票",
@@ -107,8 +115,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 340382,
-      "num": 161662,
+      "raw_hot": 369692,
+      "num": 210185,
       "word": "特朗普称泽连斯基需停止对普京负面言论",
       "onboard_time": 1740862212,
       "rank": 21,
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 285870,
-      "num": 153257,
+      "num": 179762,
       "word": "老鼠人",
       "onboard_time": 1740849975,
       "rank": 37,
@@ -185,6 +193,14 @@
       "onboard_time": 1740848656,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 187248,
+      "num": 315828,
+      "word": "一个没准备短袖的人轻轻碎了",
+      "onboard_time": 1740829463,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186016,
@@ -243,28 +259,12 @@
       "category": "艺人,综艺"
     },
     {
-      "raw_hot": 153592,
-      "num": 153592,
-      "word": "英乌签署22.6亿英镑贷款协议",
-      "onboard_time": 1740870913,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 145127,
       "num": 316268,
       "word": "李佳隆求婚",
       "onboard_time": 1740838944,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 142283,
-      "num": 315828,
-      "word": "一个没准备短袖的人轻轻碎了",
-      "onboard_time": 1740829463,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 139988,
@@ -275,20 +275,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137421,
+      "num": 137421,
+      "word": "tods副总顺走了肖战的应援手幅秀",
+      "onboard_time": 1740865511,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 133709,
       "num": 316506,
       "word": "全员加速中",
       "onboard_time": 1740831261,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 126940,
-      "num": 126940,
-      "word": "tods副总顺走了肖战的应援手幅秀",
-      "onboard_time": 1740865511,
-      "rank": 17,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 126835,
@@ -403,6 +403,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 90044,
+      "num": 90044,
+      "word": "辛雨锡发肖战早期简历",
+      "onboard_time": 1740871695,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 86856,
+      "num": 68011,
+      "word": "50岁阿姨跳绝命八颠完爆年轻人",
+      "onboard_time": 1740870733,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 85998,
       "num": 176335,
       "word": "何洛洛哭戏层次递进感",
@@ -459,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 75271,
+      "num": 126999,
+      "word": "美联邦快递一架飞机因引擎起火迫降",
+      "onboard_time": 1740870193,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 70923,
       "num": 176326,
       "word": "澳大利亚U20亚洲杯夺冠",
@@ -483,6 +507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 66255,
+      "num": 66255,
+      "word": "唐总你夫人的马甲掉了",
+      "onboard_time": 1740849676,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 65467,
       "num": 199378,
       "word": "短视频可能越刷越焦虑",
@@ -499,12 +531,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 64591,
-      "num": 57524,
-      "word": "50岁阿姨跳绝命八颠完爆年轻人",
+      "raw_hot": 62194,
+      "num": 62194,
+      "word": "贝蒂斯2比1皇马",
       "onboard_time": 1740870733,
-      "rank": 30,
-      "category": "运动健身"
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 57866,
@@ -515,14 +547,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 52322,
-      "num": 54278,
-      "word": "唐总你夫人的马甲掉了",
-      "onboard_time": 1740849676,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 49365,
       "num": 71165,
       "word": "崩坏星穹铁道",
@@ -531,15 +555,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 47237,
-      "num": 47237,
-      "word": "贝蒂斯2比1皇马",
-      "onboard_time": 1740870733,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 46844,
+      "raw_hot": 47077,
       "num": 118042,
       "word": "3岁吒儿原来是加法高手",
       "onboard_time": 1740850334,
@@ -555,6 +571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41962,
+      "num": 41962,
+      "word": "周一全国气温普遍下降",
+      "onboard_time": 1740868331,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41847,
       "num": 150024,
       "word": "3月治愈系壁纸",
@@ -563,12 +587,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 35201,
-      "num": 35201,
-      "word": "周一全国气温普遍下降",
-      "onboard_time": 1740868331,
-      "rank": 23,
+      "raw_hot": 39973,
+      "num": 39973,
+      "word": "广东人最怕的天气套餐来了",
+      "onboard_time": 1740871875,
+      "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37184,
+      "num": 37184,
+      "word": "泽连斯基被要求提前离开",
+      "onboard_time": 1740863413,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 37088,
+      "num": 47552,
+      "word": "将承办全运会的香港最大体育园启幕",
+      "onboard_time": 1740863651,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 34825,
@@ -577,14 +617,6 @@
       "onboard_time": 1740826523,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 33742,
-      "num": 47552,
-      "word": "将承办全运会的香港最大体育园启幕",
-      "onboard_time": 1740863651,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 33068,
@@ -603,14 +635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 32384,
-      "num": 35196,
-      "word": "泽连斯基被要求提前离开",
-      "onboard_time": 1740863413,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 31366,
       "num": 316459,
       "word": "无畏契约曼谷大师赛",
@@ -625,14 +649,6 @@
       "onboard_time": 1740860111,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 28393,
-      "num": 126999,
-      "word": "美联邦快递一架飞机因引擎起火迫降",
-      "onboard_time": 1740870193,
-      "rank": 14,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 27815,
@@ -699,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 20260,
+      "num": 223690,
+      "word": "您的声音我的故事",
+      "onboard_time": 1740871034,
+      "rank": 2,
+      "category": "电影"
+    },
+    {
       "raw_hot": 19268,
       "num": 30159,
       "word": "板蓝根青菜是啥味",
@@ -708,7 +732,7 @@
     },
     {
       "raw_hot": 17637,
-      "num": 23540,
+      "num": 43065,
       "word": "樊振东合唱壮志骄阳",
       "onboard_time": 1740866891,
       "rank": 45,
@@ -809,14 +833,6 @@
       "onboard_time": 1740864851,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 6926,
-      "num": 212102,
-      "word": "您的声音我的故事",
-      "onboard_time": 1740871034,
-      "rank": 2,
-      "category": "电影"
     }
   ],
   "hotgov_list": [
