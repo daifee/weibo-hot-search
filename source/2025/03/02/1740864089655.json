@@ -1,0 +1,410 @@
+{
+  "runTime": 1740864089655,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 116954,
+        "num": 129823,
+        "word": "方大同经纪人谈后事相关处理",
+        "onboard_time": 1740860710,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56974,
+        "num": 56974,
+        "word": "什么是爆肺",
+        "onboard_time": 1740812372,
+        "rank": 1,
+        "category": "健康医疗,艺人"
+      },
+      {
+        "raw_hot": 14705,
+        "num": 53126,
+        "word": "这个定海神器有多了不起",
+        "onboard_time": 1740826523,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 53093,
+        "num": 53093,
+        "word": "女子每天4杯咖啡喝出骨质疏松",
+        "onboard_time": 1740844941,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50802,
+        "num": 50802,
+        "word": "1.88元考试神器已售60万件",
+        "onboard_time": 1740827782,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 69699,
+        "num": 49589,
+        "word": "特朗普泽连斯基吵架前后对比",
+        "onboard_time": 1740837563,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 47132,
+        "num": 47132,
+        "word": "你好星期六难哄收视新高",
+        "onboard_time": 1740849856,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44398,
+        "num": 44398,
+        "word": "电信诈骗开始遥控你的手机了",
+        "onboard_time": 1740844522,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37759,
+        "num": 37759,
+        "word": "单依纯哽咽唱才二十三",
+        "onboard_time": 1740837324,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 9916,
+        "num": 37725,
+        "word": "周日可赏金星伴月",
+        "onboard_time": 1740862750,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73848,
+        "num": 37590,
+        "word": "方大同去世",
+        "onboard_time": 1740807141,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73505,
+        "num": 37410,
+        "word": "老鼠人",
+        "onboard_time": 1740849975,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66037,
+        "num": 37259,
+        "word": "欧洲多方力挺乌克兰",
+        "onboard_time": 1740848656,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 37222,
+        "num": 37222,
+        "word": "著名表演艺术家于洋逝世",
+        "onboard_time": 1740842543,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30069,
+        "num": 30069,
+        "word": "3类人要警惕气胸",
+        "onboard_time": 1740842484,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 34575,
+        "num": 29472,
+        "word": "薛凯琪全平台换封面",
+        "onboard_time": 1740826040,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28438,
+        "num": 28438,
+        "word": "邓紫棋演唱会上哭了",
+        "onboard_time": 1740837924,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26479,
+        "num": 26479,
+        "word": "方大同去世陶晶莹全家都哭了",
+        "onboard_time": 1740831504,
+        "rank": 17,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 26356,
+        "num": 26356,
+        "word": "一个没准备短袖的人轻轻碎了",
+        "onboard_time": 1740829463,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26111,
+        "num": 26111,
+        "word": "冯远征谈晋江式演技",
+        "onboard_time": 1740840863,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43306,
+        "num": 26086,
+        "word": "乳腺癌女子提醒网友少碰购物小票",
+        "onboard_time": 1740835824,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25421,
+        "num": 25421,
+        "word": "特朗普称泽连斯基需停止对普京负面言论",
+        "onboard_time": 1740862212,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24738,
+        "num": 24738,
+        "word": "何秋亊歌友会",
+        "onboard_time": 1740859512,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23557,
+        "num": 23557,
+        "word": "菲律宾非法坐滩军舰冒黑烟疑似焚烧垃圾",
+        "onboard_time": 1740846859,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 23266,
+        "num": 23266,
+        "word": "泽连斯基抵达英国",
+        "onboard_time": 1740830003,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22590,
+        "num": 22590,
+        "word": "这类常见小票可能影响生殖发育和致癌",
+        "onboard_time": 1740831861,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 22437,
+        "num": 22437,
+        "word": "赵露思直播",
+        "onboard_time": 1740832522,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20183,
+        "num": 20183,
+        "word": "专家称可坚定买入黄金",
+        "onboard_time": 1740839244,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19744,
+        "num": 19744,
+        "word": "郑业成工作室声明",
+        "onboard_time": 1740836784,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19614,
+        "num": 19614,
+        "word": "蔡明因常年不吃早饭导致胆摘除",
+        "onboard_time": 1740818543,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19262,
+        "num": 19262,
+        "word": "多位明星曾患气胸",
+        "onboard_time": 1740831623,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18261,
+        "num": 18261,
+        "word": "3岁吒儿原来是加法高手",
+        "onboard_time": 1740850334,
+        "rank": 31,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 18137,
+        "num": 18137,
+        "word": "人生就是一场又一场告别",
+        "onboard_time": 1740856813,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16988,
+        "num": 16988,
+        "word": "高圆圆看秀生图妈妈级别",
+        "onboard_time": 1740833363,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 16555,
+        "num": 16555,
+        "word": "民营企业海外订单激增",
+        "onboard_time": 1740836544,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16521,
+        "num": 16521,
+        "word": "女子炒黄金被暴涨的利润吓得报警",
+        "onboard_time": 1740815906,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15634,
+        "num": 16521,
+        "word": "哪吒2冲上143亿",
+        "onboard_time": 1740828382,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15274,
+        "num": 16520,
+        "word": "369",
+        "onboard_time": 1740835104,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 15197,
+        "num": 16519,
+        "word": "ZmjjKK",
+        "onboard_time": 1740843562,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14715,
+        "num": 16519,
+        "word": "短视频可能越刷越焦虑",
+        "onboard_time": 1740849138,
+        "rank": 39,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 14633,
+        "num": 16518,
+        "word": "鞠婧祎对HelloKitty是真爱",
+        "onboard_time": 1740850756,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14095,
+        "num": 16518,
+        "word": "魏大勋陈伟霆 老九门2",
+        "onboard_time": 1740840024,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13412,
+        "num": 16517,
+        "word": "李佳隆求婚",
+        "onboard_time": 1740838944,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 12743,
+        "num": 16517,
+        "word": "你好星期六 难哄剧组",
+        "onboard_time": 1740856753,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12440,
+        "num": 16516,
+        "word": "李羲承进行曲",
+        "onboard_time": 1740838465,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 12094,
+        "num": 16516,
+        "word": "张泽禹带我们重回梦想的夏天",
+        "onboard_time": 1740860710,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11987,
+        "num": 16516,
+        "word": "唐总你夫人的马甲掉了",
+        "onboard_time": 1740849676,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11858,
+        "num": 16515,
+        "word": "泽连斯基被要求提前离开",
+        "onboard_time": 1740863413,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 11705,
+        "num": 16514,
+        "word": "时代少年团演唱会",
+        "onboard_time": 1740841824,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 11414,
+        "num": 16514,
+        "word": "TES一穿五",
+        "onboard_time": 1740836363,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#把平安中国建设推向更高水平#"
+    }
+  }
+}
