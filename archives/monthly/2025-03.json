@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740818478724,
+  "endTime": 1740820935314,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 2819755,
-      "num": 460441,
+      "num": 805133,
       "word": "薛凯琪22号在音乐节哭了",
       "onboard_time": 1740811715,
       "rank": 10,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1604506,
-      "num": 772975,
+      "num": 778254,
       "word": "杜淳妻子自曝注射肉毒致全身过敏",
       "onboard_time": 1740809986,
       "rank": 31,
@@ -89,6 +89,14 @@
       "onboard_time": 1740811118,
       "rank": 13,
       "category": "健康医疗,艺人"
+    },
+    {
+      "raw_hot": 1562184,
+      "num": 1562184,
+      "word": "众星缅怀方大同",
+      "onboard_time": 1740819684,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 1251055,
@@ -123,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1102004,
+      "num": 1102004,
+      "word": "蔡明因常年不吃早饭导致胆摘除",
+      "onboard_time": 1740818543,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1049473,
       "num": 1049473,
       "word": "晴川",
@@ -148,7 +164,7 @@
     },
     {
       "raw_hot": 993726,
-      "num": 993726,
+      "num": 1612228,
       "word": "女子炒黄金被暴涨的利润吓得报警",
       "onboard_time": 1740815906,
       "rank": 3,
@@ -169,6 +185,14 @@
       "onboard_time": 1740800898,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 919902,
+      "num": 919902,
+      "word": "方大同悼念仪式已完成",
+      "onboard_time": 1740820402,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 892712,
@@ -321,6 +345,14 @@
       "onboard_time": 1740748640,
       "rank": 12,
       "category": "时尚,网红"
+    },
+    {
+      "raw_hot": 511868,
+      "num": 1576274,
+      "word": "爆辣曹氏",
+      "onboard_time": 1740819322,
+      "rank": 4,
+      "category": "美食"
     },
     {
       "raw_hot": 510916,
@@ -683,6 +715,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 269657,
+      "num": 194444,
+      "word": "女子1万元转错人被扣3000感谢费",
+      "onboard_time": 1740818062,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 269164,
       "num": 269164,
       "word": "男子患癌花40多万半张脸没了",
@@ -771,6 +811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 242525,
+      "num": 193068,
+      "word": "费曼一觉醒来以为穿越到愚人节",
+      "onboard_time": 1740819621,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 238987,
       "num": 238987,
       "word": "特朗普与泽连斯基争吵的分歧点是什么",
@@ -825,6 +873,14 @@
       "onboard_time": 1740815725,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 226610,
+      "num": 208221,
+      "word": "上海一独居老人猝死430万遗产无人继承",
+      "onboard_time": 1740815725,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 226114,
@@ -897,14 +953,6 @@
       "onboard_time": 1740811236,
       "rank": 45,
       "category": "美食,艺人"
-    },
-    {
-      "raw_hot": 208221,
-      "num": 208221,
-      "word": "上海一独居老人猝死430万遗产无人继承",
-      "onboard_time": 1740815725,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 207433,
@@ -1001,6 +1049,14 @@
       "onboard_time": 1740812909,
       "rank": 29,
       "category": "健康医疗,艺人"
+    },
+    {
+      "raw_hot": 187907,
+      "num": 187907,
+      "word": "陈梦谈休息耻辱",
+      "onboard_time": 1740819744,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 185592,
@@ -1155,6 +1211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167233,
+      "num": 167233,
+      "word": "祁煜",
+      "onboard_time": 1740820462,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 167199,
       "num": 167199,
       "word": "王一博抱过的小甲长大啦",
@@ -1299,6 +1363,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 141274,
+      "num": 141274,
+      "word": "这20部够再看10年了",
+      "onboard_time": 1740820462,
+      "rank": 36,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 140739,
       "num": 140739,
       "word": "中国空军赴哈瓦那看望古巴老爷爷",
@@ -1369,6 +1441,22 @@
       "onboard_time": 1740749720,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 134260,
+      "num": 134260,
+      "word": "杭州房价要开始涨了吗",
+      "onboard_time": 1740818901,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133605,
+      "num": 380225,
+      "word": "8600元找的育儿嫂隐瞒幽门阳性",
+      "onboard_time": 1740817225,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133568,
@@ -1451,14 +1539,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 121491,
-      "num": 380225,
-      "word": "8600元找的育儿嫂隐瞒幽门阳性",
-      "onboard_time": 1740817225,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 121481,
       "num": 121481,
       "word": "罗大美案三嫌疑人互相道歉",
@@ -1515,12 +1595,12 @@
       "category": "健康医疗,互联网"
     },
     {
-      "raw_hot": 116183,
-      "num": 116183,
-      "word": "女子1万元转错人被扣3000感谢费",
-      "onboard_time": 1740818062,
+      "raw_hot": 116630,
+      "num": 116630,
+      "word": "是我没见过的18岁的韩庚",
+      "onboard_time": 1740820823,
       "rank": 39,
-      "category": "民生新闻"
+      "category": "综艺"
     },
     {
       "raw_hot": 115148,
@@ -1555,6 +1635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112177,
+      "num": 191795,
+      "word": "全运会乒乓球体测",
+      "onboard_time": 1740820283,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111226,
       "num": 111226,
       "word": "古乐风华录",
@@ -1585,6 +1673,14 @@
       "onboard_time": 1740754580,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106918,
+      "num": 106918,
+      "word": "白宫这场骂战震惊世界",
+      "onboard_time": 1740819922,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 106816,
@@ -1627,6 +1723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 104891,
+      "num": 194939,
+      "word": "百万级大沙发",
+      "onboard_time": 1740819983,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 104792,
       "num": 104792,
       "word": "张若昀系领带这一下",
@@ -1643,6 +1747,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 103924,
+      "num": 103924,
+      "word": "吴柳芳香港plog",
+      "onboard_time": 1740817703,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103706,
       "num": 105725,
       "word": "王鹤棣颁奖现场尖叫声",
@@ -1657,14 +1769,6 @@
       "onboard_time": 1740737900,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 102994,
-      "num": 102994,
-      "word": "吴柳芳香港plog",
-      "onboard_time": 1740817703,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 102666,
@@ -1819,6 +1923,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 87684,
+      "num": 102688,
+      "word": "樊振东为中国棒球队加油",
+      "onboard_time": 1740819442,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87109,
       "num": 87109,
       "word": "藕饼",
@@ -1833,6 +1945,14 @@
       "onboard_time": 1740809747,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85490,
+      "num": 195845,
+      "word": "AL对战TES",
+      "onboard_time": 1740820222,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 84293,
@@ -1977,6 +2097,14 @@
       "onboard_time": 1740762195,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 55613,
+      "num": 813172,
+      "word": "AI成学生写作业神器",
+      "onboard_time": 1740819863,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55609,
@@ -2155,6 +2283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26393,
+      "num": 196224,
+      "word": "大爷儿时被抱养做梦都在找父母",
+      "onboard_time": 1740820041,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26155,
       "num": 30330,
       "word": "王鹤棣复刻打更人敲锣",
@@ -2185,6 +2321,14 @@
       "onboard_time": 1740797958,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21670,
+      "num": 185491,
+      "word": "肉毒过敏有哪些症状",
+      "onboard_time": 1740820523,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 21467,

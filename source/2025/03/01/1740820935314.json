@@ -1,0 +1,410 @@
+{
+  "runTime": 1740820935314,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8382011,
+        "num": 8382011,
+        "word": "方大同去世",
+        "onboard_time": 1740807141,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2570178,
+        "num": 2570178,
+        "word": "什么是爆肺",
+        "onboard_time": 1740812372,
+        "rank": 1,
+        "category": "健康医疗,艺人"
+      },
+      {
+        "raw_hot": 127646,
+        "num": 1786548,
+        "word": "二月二民俗有哪些",
+        "onboard_time": 1740804438,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 862004,
+        "num": 1612228,
+        "word": "女子炒黄金被暴涨的利润吓得报警",
+        "onboard_time": 1740815906,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 511868,
+        "num": 1576274,
+        "word": "爆辣曹氏",
+        "onboard_time": 1740819322,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1562184,
+        "num": 1562184,
+        "word": "众星缅怀方大同",
+        "onboard_time": 1740819684,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1102004,
+        "num": 1102004,
+        "word": "蔡明因常年不吃早饭导致胆摘除",
+        "onboard_time": 1740818543,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 919902,
+        "num": 919902,
+        "word": "方大同悼念仪式已完成",
+        "onboard_time": 1740820402,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419536,
+        "num": 825216,
+        "word": "美国记者第一次见白宫里吵架",
+        "onboard_time": 1740785175,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 55613,
+        "num": 813172,
+        "word": "AI成学生写作业神器",
+        "onboard_time": 1740819863,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 805133,
+        "num": 805133,
+        "word": "薛凯琪22号在音乐节哭了",
+        "onboard_time": 1740811715,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 778254,
+        "num": 778254,
+        "word": "杜淳妻子自曝注射肉毒致全身过敏",
+        "onboard_time": 1740809986,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 697728,
+        "num": 697728,
+        "word": "才二十三",
+        "onboard_time": 1740808433,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 322282,
+        "num": 322282,
+        "word": "我要退订这个2025",
+        "onboard_time": 1740814467,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249214,
+        "num": 249214,
+        "word": "退税金额原来是这样算出来的",
+        "onboard_time": 1740816924,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222058,
+        "num": 222058,
+        "word": "男子为办退休要挖512地震废墟",
+        "onboard_time": 1740802698,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196681,
+        "num": 196681,
+        "word": "九寨沟震后修复用了糯米汁",
+        "onboard_time": 1740816264,
+        "rank": 16,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 26393,
+        "num": 196224,
+        "word": "大爷儿时被抱养做梦都在找父母",
+        "onboard_time": 1740820041,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85490,
+        "num": 195845,
+        "word": "AL对战TES",
+        "onboard_time": 1740820222,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104891,
+        "num": 194939,
+        "word": "百万级大沙发",
+        "onboard_time": 1740819983,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 269657,
+        "num": 194444,
+        "word": "女子1万元转错人被扣3000感谢费",
+        "onboard_time": 1740818062,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245740,
+        "num": 193691,
+        "word": "有网友凌晨蹲点退税退了5万多",
+        "onboard_time": 1740816325,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242525,
+        "num": 193068,
+        "word": "费曼一觉醒来以为穿越到愚人节",
+        "onboard_time": 1740819621,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226610,
+        "num": 192771,
+        "word": "上海一独居老人猝死430万遗产无人继承",
+        "onboard_time": 1740815725,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112177,
+        "num": 191795,
+        "word": "全运会乒乓球体测",
+        "onboard_time": 1740820283,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204272,
+        "num": 191165,
+        "word": "王铮亮这两下够白鹿考研了",
+        "onboard_time": 1740804319,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190938,
+        "num": 190938,
+        "word": "乌克兰被端上了餐桌",
+        "onboard_time": 1740802218,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 187907,
+        "num": 187907,
+        "word": "陈梦谈休息耻辱",
+        "onboard_time": 1740819744,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186046,
+        "num": 186046,
+        "word": "为什么高瘦男性容易得气胸",
+        "onboard_time": 1740811118,
+        "rank": 28,
+        "category": "健康医疗,艺人"
+      },
+      {
+        "raw_hot": 21670,
+        "num": 185491,
+        "word": "肉毒过敏有哪些症状",
+        "onboard_time": 1740820523,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 185034,
+        "num": 185034,
+        "word": "世界上少了一个特别的人",
+        "onboard_time": 1740815725,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180497,
+        "num": 180497,
+        "word": "孟子义早期生图",
+        "onboard_time": 1740813508,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 176467,
+        "num": 176467,
+        "word": "银行错给客户存81万亿美元",
+        "onboard_time": 1740813329,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 172929,
+        "num": 172929,
+        "word": "哪吒2票房142亿",
+        "onboard_time": 1740807763,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167233,
+        "num": 167233,
+        "word": "祁煜",
+        "onboard_time": 1740820462,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143766,
+        "num": 143766,
+        "word": "建议医务人员薪酬不得与业务收入挂钩",
+        "onboard_time": 1740813089,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141274,
+        "num": 141274,
+        "word": "这20部够再看10年了",
+        "onboard_time": 1740820462,
+        "rank": 36,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 134260,
+        "num": 134260,
+        "word": "杭州房价要开始涨了吗",
+        "onboard_time": 1740818901,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133605,
+        "num": 133605,
+        "word": "8600元找的育儿嫂隐瞒幽门阳性",
+        "onboard_time": 1740817225,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116630,
+        "num": 116630,
+        "word": "是我没见过的18岁的韩庚",
+        "onboard_time": 1740820823,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115557,
+        "num": 115557,
+        "word": "排便太用力可能会引发气胸",
+        "onboard_time": 1740815844,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 114075,
+        "num": 114075,
+        "word": "低估了白鹿和欧豪的cp感",
+        "onboard_time": 1740812791,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111125,
+        "num": 111125,
+        "word": "罗大美案三嫌疑人互相道歉",
+        "onboard_time": 1740816805,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110758,
+        "num": 110758,
+        "word": "人大代表一句不方便全是凡尔赛",
+        "onboard_time": 1740809393,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106918,
+        "num": 106918,
+        "word": "白宫这场骂战震惊世界",
+        "onboard_time": 1740819922,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105894,
+        "num": 105894,
+        "word": "妈妈包书皮错写成自己名字",
+        "onboard_time": 1740801738,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105369,
+        "num": 105369,
+        "word": "阎鹤祥在德云社还是太权威了",
+        "onboard_time": 1740817945,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105315,
+        "num": 105315,
+        "word": "麦恩莉",
+        "onboard_time": 1740812552,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 103924,
+        "num": 103924,
+        "word": "吴柳芳香港plog",
+        "onboard_time": 1740817703,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87684,
+        "num": 102688,
+        "word": "樊振东为中国棒球队加油",
+        "onboard_time": 1740819442,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#塑造经济发展新动能新优势#"
+    }
+  }
+}
