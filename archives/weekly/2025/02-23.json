@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740785749373,
+  "endTime": 1740793888480,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -473,6 +473,14 @@
       "onboard_time": 1740444319,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1676338,
+      "num": 343891,
+      "word": "美国记者第一次见白宫里吵架",
+      "onboard_time": 1740785175,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1653389,
@@ -969,6 +977,14 @@
       "onboard_time": 1740719300,
       "rank": 15,
       "category": "民生新闻,读书作家"
+    },
+    {
+      "raw_hot": 1212857,
+      "num": 1212857,
+      "word": "退税",
+      "onboard_time": 1740788117,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1209091,
@@ -1771,6 +1787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 850680,
+      "num": 248304,
+      "word": "特朗普没对泽连斯基动手是奇迹",
+      "onboard_time": 1740788417,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 850198,
       "num": 1136031,
       "word": "TES战胜BLG",
@@ -2249,6 +2273,14 @@
       "onboard_time": 1740387263,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 722528,
+      "num": 902379,
+      "word": "吒儿龙抬头这天冲上全球第七",
+      "onboard_time": 1740762256,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 722428,
@@ -2883,20 +2915,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 626377,
+      "num": 626377,
+      "word": "居民拆房挖出一条40斤重娃娃鱼",
+      "onboard_time": 1740789617,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 625541,
       "num": 625541,
       "word": "智利灾难紧急状态",
       "onboard_time": 1740531320,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 624140,
-      "num": 902379,
-      "word": "吒儿龙抬头这天冲上全球第七",
-      "onboard_time": 1740762256,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 623009,
@@ -3097,6 +3129,14 @@
       "onboard_time": 1740541399,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 590455,
+      "num": 231736,
+      "word": "特朗普称泽连斯基何时想和平了再来",
+      "onboard_time": 1740787876,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 589310,
@@ -3833,6 +3873,14 @@
       "onboard_time": 1740404062,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 495967,
+      "num": 206579,
+      "word": "美乌总统争吵乌大使在旁直掐眉心",
+      "onboard_time": 1740788358,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 495303,
@@ -4867,6 +4915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 391556,
+      "num": 239595,
+      "word": "邓超说拍个视频发给热巴",
+      "onboard_time": 1740785296,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 391542,
       "num": 475128,
       "word": "足金价格一夜下跌近10元",
@@ -5155,6 +5211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 359738,
+      "num": 359738,
+      "word": "敖光版龙抬头霸气送祝福",
+      "onboard_time": 1740788177,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 359050,
       "num": 359050,
       "word": "潘宏账号内容被一夜清空",
@@ -5193,6 +5257,14 @@
       "onboard_time": 1740656540,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 357473,
+      "num": 171060,
+      "word": "美国终止乌克兰供电恢复计划",
+      "onboard_time": 1740786497,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 355876,
@@ -5963,6 +6035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 303414,
+      "num": 303414,
+      "word": "二月二龙抬头",
+      "onboard_time": 1740790877,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 302460,
       "num": 302460,
       "word": "林高远说我们下个赛场见",
@@ -6009,6 +6089,14 @@
       "onboard_time": 1740726859,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 299588,
+      "num": 170438,
+      "word": "蒋欣自曝体重112斤",
+      "onboard_time": 1740784334,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 299178,
@@ -6689,6 +6777,14 @@
       "onboard_time": 1740615919,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 265454,
+      "num": 265454,
+      "word": "单依纯没打封闭",
+      "onboard_time": 1740791419,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 264972,
@@ -7811,14 +7907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 227310,
-      "num": 227310,
-      "word": "美国记者第一次见白宫里吵架",
-      "onboard_time": 1740785175,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 227120,
       "num": 258405,
       "word": "上海户籍人口平均生育年龄32.58岁",
@@ -8185,14 +8273,6 @@
       "onboard_time": 1740327080,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 217506,
-      "num": 141143,
-      "word": "蒋欣自曝体重112斤",
-      "onboard_time": 1740784334,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 217344,
@@ -8891,6 +8971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202212,
+      "num": 202212,
+      "word": "多名环卫工对着公厕跪拜",
+      "onboard_time": 1740774131,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201742,
       "num": 201742,
       "word": "孙颖莎胜陈幸同",
@@ -9097,6 +9185,14 @@
       "onboard_time": 1740503115,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 198749,
+      "num": 198749,
+      "word": "许凯上半身身材",
+      "onboard_time": 1740787758,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 198636,
@@ -9505,6 +9601,14 @@
       "onboard_time": 1740576021,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 192254,
+      "num": 169159,
+      "word": "二月二有三个风俗",
+      "onboard_time": 1740785175,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 192236,
@@ -11011,6 +11115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172986,
+      "num": 172986,
+      "word": "3月第一个好消息是吒儿给的",
+      "onboard_time": 1740769512,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 172828,
       "num": 172828,
       "word": "饺子导演谈哪吒2成功的关键",
@@ -11425,6 +11537,14 @@
       "onboard_time": 1740653118,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 167199,
+      "num": 167199,
+      "word": "王一博抱过的小甲长大啦",
+      "onboard_time": 1740785355,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 167136,
@@ -12059,6 +12179,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 160730,
+      "num": 200363,
+      "word": "2025活力中国",
+      "onboard_time": 1740793457,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160666,
       "num": 160666,
       "word": "种地吧剪辑",
@@ -12409,14 +12537,6 @@
       "onboard_time": 1740285021,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 156610,
-      "num": 156610,
-      "word": "邓超说拍个视频发给热巴",
-      "onboard_time": 1740785296,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 156596,
@@ -13203,6 +13323,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 147576,
+      "num": 147576,
+      "word": "特朗普对恢复乌矿产交易不感兴趣了",
+      "onboard_time": 1740791899,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 147448,
       "num": 244000,
       "word": "Bin说不公平",
@@ -13705,6 +13833,14 @@
       "onboard_time": 1740535879,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 139997,
+      "num": 139997,
+      "word": "大国重器带你感受硬核龙抬头",
+      "onboard_time": 1740790577,
+      "rank": 30,
+      "category": "军事"
     },
     {
       "raw_hot": 139927,
@@ -14299,6 +14435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132188,
+      "num": 132188,
+      "word": "三月第1天龙抬头",
+      "onboard_time": 1740784274,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132180,
       "num": 305591,
       "word": "付辛博说颖儿的努力会被看到",
@@ -14489,6 +14633,14 @@
       "onboard_time": 1740446298,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129814,
+      "num": 129814,
+      "word": "尊界报案",
+      "onboard_time": 1740791238,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 129706,
@@ -15091,6 +15243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120785,
+      "num": 120785,
+      "word": "欧洲多国领导人表示支持泽连斯基",
+      "onboard_time": 1740791658,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 120563,
       "num": 120563,
       "word": "二月最后一天",
@@ -15179,6 +15339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119111,
+      "num": 119111,
+      "word": "吴敬平评价18岁的王曼昱",
+      "onboard_time": 1740790637,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118897,
       "num": 118897,
       "word": "湖人vs独行侠",
@@ -15224,14 +15392,6 @@
       "word": "老人2万买治疗仪竟把自己电到头疼",
       "onboard_time": 1740366500,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 117925,
-      "num": 117925,
-      "word": "多名环卫工对着公厕跪拜",
-      "onboard_time": 1740774131,
-      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -15387,6 +15547,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 115148,
+      "num": 115148,
+      "word": "网易云音乐发放故障补偿",
+      "onboard_time": 1740789498,
+      "rank": 37,
+      "category": "互联网,音乐"
+    },
+    {
       "raw_hot": 115129,
       "num": 292305,
       "word": "网友称教授让学生发生活照方便认识",
@@ -15435,10 +15603,10 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 113886,
-      "num": 113886,
-      "word": "三月第1天龙抬头",
-      "onboard_time": 1740784274,
+      "raw_hot": 113891,
+      "num": 113891,
+      "word": "长沙富裕家庭达1.74万户",
+      "onboard_time": 1740791419,
       "rank": 38,
       "category": "民生新闻"
     },
@@ -15723,6 +15891,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 109716,
+      "num": 109716,
+      "word": "美乌未签矿产协议",
+      "onboard_time": 1740785535,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 109647,
       "num": 109647,
       "word": "今天你吃香菜了吗",
@@ -15899,6 +16075,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 106940,
+      "num": 106940,
+      "word": "中山美穗与母亲关系疏远",
+      "onboard_time": 1740793037,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106135,
       "num": 106135,
       "word": "林一去了黄明昊演唱会",
@@ -15920,14 +16104,6 @@
       "word": "当地回应男子扶摔倒老人反被诬陷",
       "onboard_time": 1740723499,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105687,
-      "num": 105687,
-      "word": "二月二有三个风俗",
-      "onboard_time": 1740785175,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -16211,6 +16387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98679,
+      "num": 98679,
+      "word": "邓超跟迪丽热巴粉丝合影",
+      "onboard_time": 1740785296,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98607,
       "num": 98607,
       "word": "学生给足排面猫咪才下来",
@@ -16337,6 +16521,14 @@
       "onboard_time": 1740625519,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95627,
+      "num": 95627,
+      "word": "8岁脑癌男孩吆喝叫卖为妈妈揽客",
+      "onboard_time": 1740791419,
+      "rank": 46,
+      "category": "正能量"
     },
     {
       "raw_hot": 95512,
@@ -16561,6 +16753,22 @@
       "onboard_time": 1740476120,
       "rank": 28,
       "category": "数码"
+    },
+    {
+      "raw_hot": 90316,
+      "num": 90316,
+      "word": "马嘉祺 金色旷野",
+      "onboard_time": 1740793817,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 90116,
+      "num": 90116,
+      "word": "脑综把清华脑王整破防了",
+      "onboard_time": 1740793817,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 89962,
@@ -17819,22 +18027,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 62288,
-      "num": 62288,
-      "word": "王一博抱过的小甲长大啦",
-      "onboard_time": 1740785355,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 62112,
-      "num": 62112,
-      "word": "3月第一个好消息是吒儿给的",
-      "onboard_time": 1740769512,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 61655,
       "num": 259149,
       "word": "deepseek教你如何和香菜共处",
@@ -18025,14 +18217,6 @@
       "onboard_time": 1740752901,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 57802,
-      "num": 62126,
-      "word": "美乌未签矿产协议",
-      "onboard_time": 1740785535,
-      "rank": 42,
-      "category": "国际时政"
     },
     {
       "raw_hot": 57745,
@@ -19129,6 +19313,14 @@
       "onboard_time": 1740762615,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 36937,
+      "num": 98660,
+      "word": "3个动作改善肩周炎",
+      "onboard_time": 1740792557,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 36877,
@@ -20569,6 +20761,14 @@
       "onboard_time": 1740681371,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 15560,
+      "num": 140213,
+      "word": "武汉多家医院接入DeepSeek",
+      "onboard_time": 1740793218,
+      "rank": 29,
+      "category": "健康医疗,互联网"
     },
     {
       "raw_hot": 15443,
