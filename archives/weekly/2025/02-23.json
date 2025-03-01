@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740835496296,
+  "endTime": 1740836184222,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1211,6 +1211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1162136,
+      "num": 468633,
+      "word": "赵露思直播",
+      "onboard_time": 1740832522,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1157645,
       "num": 424043,
       "word": "包文婧孕肚照",
@@ -1225,14 +1233,6 @@
       "onboard_time": 1740818543,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1152815,
-      "num": 468633,
-      "word": "赵露思直播",
-      "onboard_time": 1740832522,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 1151264,
@@ -2771,6 +2771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 689784,
+      "num": 689784,
+      "word": "多位明星曾患气胸",
+      "onboard_time": 1740831623,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 689739,
       "num": 638031,
       "word": "上海土拨鼠",
@@ -3160,6 +3168,14 @@
       "word": "医院通报医生上班玩游戏致患者排队",
       "onboard_time": 1740633020,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 631555,
+      "num": 631555,
+      "word": "深圳一房东退租时拆下窗户验收卫生",
+      "onboard_time": 1740833125,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -3899,6 +3915,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 537066,
+      "num": 537066,
+      "word": "杨紫跳了李羲承进行曲",
+      "onboard_time": 1740834983,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 536435,
       "num": 438757,
       "word": "95后情侣夜市摆摊卖麻糍日入4000元",
@@ -3969,14 +3993,6 @@
       "onboard_time": 1740389720,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 524229,
-      "num": 524229,
-      "word": "多位明星曾患气胸",
-      "onboard_time": 1740831623,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 523241,
@@ -4443,6 +4459,14 @@
       "category": "情感,剧集"
     },
     {
+      "raw_hot": 481799,
+      "num": 481799,
+      "word": "369",
+      "onboard_time": 1740835104,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 481539,
       "num": 481539,
       "word": "难哄全员cha了法海不懂爱",
@@ -4635,6 +4659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 463682,
+      "num": 431457,
+      "word": "跪谢CC女车主获赠全新大众车",
+      "onboard_time": 1740834204,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 463588,
       "num": 463588,
       "word": "340斤男生8块腹肌被誉当代许褚",
@@ -4761,14 +4793,6 @@
       "onboard_time": 1740295400,
       "rank": 7,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 455247,
-      "num": 431483,
-      "word": "杨紫跳了李羲承进行曲",
-      "onboard_time": 1740834983,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 454325,
@@ -5900,7 +5924,7 @@
     },
     {
       "raw_hot": 350330,
-      "num": 326765,
+      "num": 334190,
       "word": "这类常见小票可能影响生殖发育和致癌",
       "onboard_time": 1740831861,
       "rank": 24,
@@ -6203,6 +6227,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 326642,
+      "num": 280412,
+      "word": "陶喆演唱会",
+      "onboard_time": 1740834263,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 326416,
       "num": 312675,
       "word": "三月最幸运星座",
@@ -6291,6 +6323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 322124,
+      "num": 322124,
+      "word": "JackeyLove荣获决赛FMVP",
+      "onboard_time": 1740834682,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 321755,
       "num": 321755,
       "word": "美情报人员被爆色情聊天",
@@ -6337,14 +6377,6 @@
       "onboard_time": 1740548119,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 319350,
-      "num": 470017,
-      "word": "深圳一房东退租时拆下窗户验收卫生",
-      "onboard_time": 1740833125,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 319066,
@@ -6585,14 +6617,6 @@
       "onboard_time": 1740535998,
       "rank": 22,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 305373,
-      "num": 305373,
-      "word": "369",
-      "onboard_time": 1740835104,
-      "rank": 24,
-      "category": "电竞"
     },
     {
       "raw_hot": 305361,
@@ -7659,14 +7683,6 @@
       "category": "健康医疗,艺人"
     },
     {
-      "raw_hot": 257858,
-      "num": 257858,
-      "word": "陶喆演唱会",
-      "onboard_time": 1740834263,
-      "rank": 29,
-      "category": "演出"
-    },
-    {
       "raw_hot": 257768,
       "num": 229904,
       "word": "年轻人也开始得带状疱疹了",
@@ -7721,14 +7737,6 @@
       "onboard_time": 1740579742,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 255372,
-      "num": 431457,
-      "word": "跪谢CC女车主获赠全新大众车",
-      "onboard_time": 1740834204,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 255183,
@@ -9171,6 +9179,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 216611,
+      "num": 431496,
+      "word": "男子婚纱照被多个博主冒用扯上命案",
+      "onboard_time": 1740834263,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 216606,
       "num": 302276,
       "word": "赵丽颖2024微博品质度TOP1",
@@ -9521,6 +9537,14 @@
       "onboard_time": 1740811236,
       "rank": 45,
       "category": "美食,艺人"
+    },
+    {
+      "raw_hot": 209278,
+      "num": 209278,
+      "word": "乳腺癌女子提醒网友少碰购物小票",
+      "onboard_time": 1740835824,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 209194,
@@ -9995,14 +10019,6 @@
       "category": "财经,汽车"
     },
     {
-      "raw_hot": 200883,
-      "num": 200883,
-      "word": "JackeyLove荣获决赛FMVP",
-      "onboard_time": 1740834682,
-      "rank": 32,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 200833,
       "num": 249047,
       "word": "时代少年团肤色",
@@ -10329,6 +10345,14 @@
       "onboard_time": 1740459202,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196890,
+      "num": 196890,
+      "word": "白鹿欧豪好好笑",
+      "onboard_time": 1740835342,
+      "rank": 43,
+      "category": "剧集,综艺"
     },
     {
       "raw_hot": 196363,
@@ -12827,14 +12851,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 167287,
-      "num": 167287,
-      "word": "白鹿欧豪好好笑",
-      "onboard_time": 1740835342,
-      "rank": 43,
-      "category": "剧集,综艺"
-    },
-    {
       "raw_hot": 167199,
       "num": 167199,
       "word": "王一博抱过的小甲长大啦",
@@ -13747,6 +13763,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 158188,
+      "num": 158188,
+      "word": "白敬亭章若楠跳troublemaker",
+      "onboard_time": 1740835883,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158161,
       "num": 158161,
       "word": "拉粪三轮车逆行泼小车一车",
@@ -14113,14 +14137,6 @@
       "onboard_time": 1740302239,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 154099,
-      "num": 431496,
-      "word": "男子婚纱照被多个博主冒用扯上命案",
-      "onboard_time": 1740834263,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 153915,
@@ -15145,6 +15161,14 @@
       "onboard_time": 1740569180,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 142444,
+      "num": 142444,
+      "word": "抗炎食物",
+      "onboard_time": 1740836063,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 142309,
@@ -19156,7 +19180,7 @@
     },
     {
       "raw_hot": 78977,
-      "num": 173007,
+      "num": 233304,
       "word": "全新探岳L越攀登越强大",
       "onboard_time": 1740834924,
       "rank": 37,
@@ -21067,6 +21091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 41283,
+      "num": 326531,
+      "word": "热敏纸含双酚A孕妇婴幼儿最好别碰",
+      "onboard_time": 1740833964,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41169,
       "num": 390676,
       "word": "航司破产平台仍出票致人滞留机场16时",
@@ -21355,6 +21387,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 36295,
+      "num": 172670,
+      "word": "夸克Al已成功进入tony圈",
+      "onboard_time": 1740832583,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 36146,
       "num": 36146,
       "word": "偶遇周杰伦悉尼逛街",
@@ -21401,14 +21441,6 @@
       "onboard_time": 1740391399,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35533,
-      "num": 172670,
-      "word": "夸克Al已成功进入tony圈",
-      "onboard_time": 1740832583,
-      "rank": 47,
-      "category": "互联网"
     },
     {
       "raw_hot": 35202,
@@ -23524,6 +23556,9 @@
     },
     {
       "word": "#中共中央政治局第十九次集体学习#"
+    },
+    {
+      "word": "#把平安中国建设推向更高水平#"
     }
   ]
 }
