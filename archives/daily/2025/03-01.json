@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740798663194,
+  "endTime": 1740800202380,
   "band_list": [
     {
       "raw_hot": 2475221,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1676338,
-      "num": 417754,
+      "num": 517976,
       "word": "美国记者第一次见白宫里吵架",
       "onboard_time": 1740785175,
       "rank": 9,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 892712,
-      "num": 321163,
+      "num": 352791,
       "word": "泽连斯基称自己不需要道歉",
       "onboard_time": 1740796818,
       "rank": 13,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 850680,
-      "num": 319726,
+      "num": 347979,
       "word": "特朗普没对泽连斯基动手是奇迹",
       "onboard_time": 1740788417,
       "rank": 10,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 695500,
-      "num": 320582,
+      "num": 349648,
       "word": "车主刷短视频被乘客误认为放不雅视频",
       "onboard_time": 1740795197,
       "rank": 10,
@@ -97,6 +97,14 @@
       "onboard_time": 1740750979,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 640165,
+      "num": 640165,
+      "word": "抗癌博主陈幸运去世",
+      "onboard_time": 1740798678,
+      "rank": 3,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 626377,
@@ -139,6 +147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 523863,
+      "num": 523863,
+      "word": "宁波4.1万家庭资产超千万元",
+      "onboard_time": 1740795137,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 515279,
       "num": 365773,
       "word": "小盐巴手机壳",
@@ -148,7 +164,7 @@
     },
     {
       "raw_hot": 508351,
-      "num": 318187,
+      "num": 343351,
       "word": "韩安冉爸爸支持女儿起诉妈妈",
       "onboard_time": 1740795137,
       "rank": 24,
@@ -179,6 +195,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 487278,
+      "num": 487278,
+      "word": "以为是初恋女友实际是复婚夫妻",
+      "onboard_time": 1740798678,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 469316,
       "num": 469316,
       "word": "死刑犯行刑前见亲属不得交流案情",
@@ -187,8 +211,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 461511,
-      "num": 461511,
+      "raw_hot": 463588,
+      "num": 463588,
       "word": "340斤男生8块腹肌被誉当代许褚",
       "onboard_time": 1740796338,
       "rank": 6,
@@ -267,14 +291,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 317189,
-      "num": 317189,
-      "word": "宁波4.1万家庭资产超千万元",
-      "onboard_time": 1740795137,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 309715,
       "num": 309715,
       "word": "七星连珠好运连连",
@@ -292,11 +308,27 @@
     },
     {
       "raw_hot": 299588,
-      "num": 207514,
+      "num": 208841,
       "word": "蒋欣自曝体重112斤",
       "onboard_time": 1740784334,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 298320,
+      "num": 257791,
+      "word": "3月狗屎运最旺的星座",
+      "onboard_time": 1740798918,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 287057,
+      "num": 287057,
+      "word": "尊界 迈巴赫",
+      "onboard_time": 1740796458,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 279759,
@@ -345,6 +377,14 @@
       "onboard_time": 1740779591,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 263244,
+      "num": 256340,
+      "word": "赵樱子这一段林多美回来了",
+      "onboard_time": 1740798678,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 250810,
@@ -401,14 +441,6 @@
       "onboard_time": 1740795076,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 221273,
-      "num": 221273,
-      "word": "尊界 迈巴赫",
-      "onboard_time": 1740796458,
-      "rank": 24,
-      "category": "汽车"
     },
     {
       "raw_hot": 215865,
@@ -491,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175375,
+      "num": 154065,
+      "word": "肥娟老公因小吃店营业肌肉男变大肚子",
+      "onboard_time": 1740799338,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167199,
       "num": 167199,
       "word": "王一博抱过的小甲长大啦",
@@ -507,11 +547,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162813,
+      "num": 162813,
+      "word": "卖糖葫芦喷口水阿姨已戴口罩",
+      "onboard_time": 1740799277,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160730,
       "num": 200363,
       "word": "2025活力中国",
       "onboard_time": 1740793457,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159117,
+      "num": 354447,
+      "word": "男子作AI换脸色情视频每分钟50元",
+      "onboard_time": 1740796577,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -547,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152266,
+      "num": 152266,
+      "word": "迪丽热巴三月的行程图",
+      "onboard_time": 1740799578,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148884,
       "num": 148884,
       "word": "长沙富裕家庭达1.74万户",
@@ -561,6 +625,14 @@
       "onboard_time": 1740794419,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 148482,
+      "num": 148482,
+      "word": "二月二260人抬99米巨龙接好运",
+      "onboard_time": 1740799277,
+      "rank": 33,
+      "category": "正能量"
     },
     {
       "raw_hot": 146027,
@@ -587,12 +659,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 137769,
-      "num": 137769,
-      "word": "男子作AI换脸色情视频每分钟50元",
-      "onboard_time": 1740796577,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 139411,
+      "num": 139411,
+      "word": "赵丽颖美好的生活里",
+      "onboard_time": 1740799638,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 135226,
@@ -617,6 +689,14 @@
       "onboard_time": 1740749720,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 132889,
+      "num": 132889,
+      "word": "荷兰郁金香跨境万里仅需18小时",
+      "onboard_time": 1740800058,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 132188,
@@ -651,12 +731,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127322,
+      "num": 127322,
+      "word": "陈雨菲用倔强为自己庆生",
+      "onboard_time": 1740799459,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125739,
       "num": 125739,
       "word": "AG对战KLG",
       "onboard_time": 1740746839,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 123091,
+      "num": 123091,
+      "word": "滤镜",
+      "onboard_time": 1740798738,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 122940,
@@ -675,6 +771,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 119485,
+      "num": 119485,
+      "word": "十个勤天展开一天实体专辑",
+      "onboard_time": 1740798678,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 119111,
       "num": 119111,
       "word": "吴敬平评价18岁的王曼昱",
@@ -691,12 +795,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117952,
+      "num": 117952,
+      "word": "男子喝满月酒酒驾身亡家属索赔主办人",
+      "onboard_time": 1740799277,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117765,
       "num": 117765,
       "word": "女子手麻跑错3科室靠DeepSeek找对医生",
       "onboard_time": 1740780613,
       "rank": 44,
       "category": "健康医疗,互联网"
+    },
+    {
+      "raw_hot": 117640,
+      "num": 117640,
+      "word": "似锦今日开播",
+      "onboard_time": 1740799877,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 115148,
@@ -753,6 +873,14 @@
       "onboard_time": 1740760157,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 104470,
+      "num": 104470,
+      "word": "白敬亭章若楠hi6剧宣好甜",
+      "onboard_time": 1740799518,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 103706,
