@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740825569943,
+  "endTime": 1740827892520,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -25,6 +25,14 @@
       "onboard_time": 1740812372,
       "rank": 1,
       "category": "健康医疗,艺人"
+    },
+    {
+      "raw_hot": 3276712,
+      "num": 3276712,
+      "word": "薛凯琪全平台换封面",
+      "onboard_time": 1740826040,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 3008661,
@@ -155,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1121767,
+      "num": 659194,
+      "word": "陶喆方大同",
+      "onboard_time": 1740827302,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1115938,
       "num": 1115938,
       "word": "王铮亮这两下够白鹿考研了",
@@ -243,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 781496,
+      "num": 781496,
+      "word": "北京警方紧急提醒",
+      "onboard_time": 1740825263,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 761732,
       "num": 367836,
       "word": "七星连珠许愿点名双子射手双鱼",
@@ -296,6 +320,14 @@
       "word": "东方集团涉嫌重大财务造假",
       "onboard_time": 1740750979,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 628789,
+      "num": 628789,
+      "word": "20岁高颜值自闭症男生妈妈发声",
+      "onboard_time": 1740825142,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -521,6 +553,14 @@
       "onboard_time": 1740796458,
       "rank": 24,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 368631,
+      "num": 368631,
+      "word": "张学友回应欠债传闻",
+      "onboard_time": 1740823342,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 364431,
@@ -875,6 +915,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 238663,
+      "num": 246671,
+      "word": "白宫这场骂战震惊世界",
+      "onboard_time": 1740819922,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 236561,
       "num": 236561,
       "word": "孟子义早期生图",
@@ -904,6 +952,14 @@
       "word": "七星连珠 穿越时空的爱恋",
       "onboard_time": 1740772930,
       "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 232396,
+      "num": 232396,
+      "word": "景甜人缘",
+      "onboard_time": 1740826281,
+      "rank": 16,
       "category": "剧集"
     },
     {
@@ -955,19 +1011,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 222158,
+      "num": 690299,
+      "word": "二月二敖光抬头",
+      "onboard_time": 1740824062,
+      "rank": 11,
+      "category": "民生新闻,电影"
+    },
+    {
       "raw_hot": 220789,
       "num": 347753,
       "word": "第一次见余承恩说这么多话",
       "onboard_time": 1740822562,
       "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 219296,
-      "num": 219296,
-      "word": "张学友回应欠债传闻",
-      "onboard_time": 1740823342,
-      "rank": 26,
       "category": "艺人"
     },
     {
@@ -1075,14 +1131,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 200491,
-      "num": 690299,
-      "word": "二月二敖光抬头",
-      "onboard_time": 1740824062,
-      "rank": 11,
-      "category": "民生新闻,电影"
-    },
-    {
       "raw_hot": 199584,
       "num": 199584,
       "word": "似锦今日开播",
@@ -1107,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194885,
+      "num": 165448,
+      "word": "周深拉斯维加斯唱好运来",
+      "onboard_time": 1740827064,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 193290,
       "num": 193290,
       "word": "樊振东将和甄子丹李宇春同台",
@@ -1121,6 +1177,14 @@
       "onboard_time": 1740795137,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 191909,
+      "num": 165427,
+      "word": "白敬亭丁程鑫还原旋风少女名场面",
+      "onboard_time": 1740825681,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 191787,
@@ -1225,14 +1289,6 @@
       "onboard_time": 1740804438,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 177228,
-      "num": 246671,
-      "word": "白宫这场骂战震惊世界",
-      "onboard_time": 1740819922,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 176086,
@@ -1355,6 +1411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165518,
+      "num": 165518,
+      "word": "鬼灭之刃",
+      "onboard_time": 1740826943,
+      "rank": 19,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 164995,
       "num": 164995,
       "word": "白敬亭章若楠hi6剧宣好甜",
@@ -1385,6 +1449,14 @@
       "onboard_time": 1740799277,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161763,
+      "num": 161763,
+      "word": "教师资格证可享个税扣除",
+      "onboard_time": 1740826642,
+      "rank": 30,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 161081,
@@ -1419,6 +1491,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 156796,
+      "num": 176887,
+      "word": "广东今年首场暴雨来了",
+      "onboard_time": 1740824123,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155677,
       "num": 191795,
       "word": "全运会乒乓球体测",
@@ -1449,14 +1529,6 @@
       "onboard_time": 1740747799,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 151224,
-      "num": 176887,
-      "word": "广东今年首场暴雨来了",
-      "onboard_time": 1740824123,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 150579,
@@ -1505,6 +1577,22 @@
       "onboard_time": 1740797357,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145923,
+      "num": 166066,
+      "word": "超9成肠癌由肠息肉发展而来",
+      "onboard_time": 1740824004,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 143151,
+      "num": 143151,
+      "word": "特朗普的鸿门宴泽连斯基一口没吃",
+      "onboard_time": 1740826281,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 142702,
@@ -1577,6 +1665,22 @@
       "onboard_time": 1740817104,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137638,
+      "num": 137638,
+      "word": "一面土墙记载1000多年历史",
+      "onboard_time": 1740826040,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136474,
+      "num": 136474,
+      "word": "鬼灭之刃无限城篇第一部定档",
+      "onboard_time": 1740826523,
+      "rank": 40,
+      "category": "动漫"
     },
     {
       "raw_hot": 135226,
@@ -1659,6 +1763,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 128275,
+      "num": 128275,
+      "word": "LPL",
+      "onboard_time": 1740827662,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 128062,
       "num": 128062,
       "word": "中山美穗与母亲关系疏远",
@@ -1683,12 +1795,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 124550,
-      "num": 166145,
-      "word": "北京警方紧急提醒",
-      "onboard_time": 1740825263,
-      "rank": 23,
-      "category": "民生新闻"
+      "raw_hot": 125213,
+      "num": 125213,
+      "word": "簪星",
+      "onboard_time": 1740827662,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 122940,
@@ -1721,14 +1833,6 @@
       "onboard_time": 1740750801,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 119492,
-      "num": 119492,
-      "word": "20岁高颜值自闭症男生妈妈发声",
-      "onboard_time": 1740825142,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119111,
@@ -1769,6 +1873,14 @@
       "onboard_time": 1740780613,
       "rank": 44,
       "category": "健康医疗,互联网"
+    },
+    {
+      "raw_hot": 117604,
+      "num": 117604,
+      "word": "打标卫生巾销售额暴增超十倍",
+      "onboard_time": 1740827543,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115148,
@@ -2235,6 +2347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67230,
+      "num": 165469,
+      "word": "泽连斯基正飞往伦敦",
+      "onboard_time": 1740827601,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 65872,
       "num": 202374,
       "word": "二月二龙抬头一起接好运",
@@ -2249,6 +2369,14 @@
       "onboard_time": 1740811177,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64932,
+      "num": 165350,
+      "word": "夸克没有接入Deepseek选择自研",
+      "onboard_time": 1740827064,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 62472,
@@ -2347,6 +2475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 40636,
+      "num": 112890,
+      "word": "今年全国两会哪些看点值得期待",
+      "onboard_time": 1740826523,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 39885,
       "num": 39885,
       "word": "初步举证 女性力量",
@@ -2411,14 +2547,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 33306,
-      "num": 166066,
-      "word": "超9成肠癌由肠息肉发展而来",
-      "onboard_time": 1740824004,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 31718,
       "num": 91256,
       "word": "陈梦gap期也在认真享受生活",
@@ -2441,6 +2569,22 @@
       "onboard_time": 1740820041,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30365,
+      "num": 165377,
+      "word": "CBA星锐赛真刀真枪",
+      "onboard_time": 1740825681,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 29576,
+      "num": 136285,
+      "word": "东契奇生日夜喜提一胜",
+      "onboard_time": 1740826462,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 28329,
@@ -2531,6 +2675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 21437,
+      "num": 136897,
+      "word": "问夸克如何5千块穷游欧洲",
+      "onboard_time": 1740827122,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 20567,
       "num": 170600,
       "word": "猛龙裁掉PJ塔克",
@@ -2579,6 +2731,14 @@
       "category": "健康医疗,互联网"
     },
     {
+      "raw_hot": 15417,
+      "num": 1478816,
+      "word": "春龙抬首好运当头",
+      "onboard_time": 1740827423,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 14533,
       "num": 35193,
       "word": "中方反复声明贸易战关税战没有赢家",
@@ -2603,11 +2763,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 11613,
+      "num": 136545,
+      "word": "1.88元考试神器已售60万件",
+      "onboard_time": 1740827782,
+      "rank": 39,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 11025,
       "num": 41471,
       "word": "专家解答七星连珠真的罕见吗",
       "onboard_time": 1740773891,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10323,
+      "num": 165390,
+      "word": "骨折价火车票被年轻人抢疯了",
+      "onboard_time": 1740827722,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -2639,6 +2815,9 @@
     },
     {
       "word": "#塑造经济发展新动能新优势#"
+    },
+    {
+      "word": "#平安中国建设为了人民也依靠人民#"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1740825569943,
+  "endTime": 1740827892520,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1235,6 +1235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3276712,
+      "num": 3276712,
+      "word": "薛凯琪全平台换封面",
+      "onboard_time": 1740826040,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3243282,
       "num": 3243282,
       "word": "哪吒2突破99亿",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1738080508,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2432034,
-      "num": 2432034,
-      "word": "韩国女学生跳车身亡八旬出租车司机无罪",
-      "onboard_time": 1739935100,
-      "rank": 4,
-      "category": "海外新闻"
     }
   ],
   "hotgov_list": [
