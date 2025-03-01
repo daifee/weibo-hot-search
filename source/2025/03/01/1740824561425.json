@@ -1,0 +1,410 @@
+{
+  "runTime": 1740824561425,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6351827,
+        "num": 6351827,
+        "word": "方大同去世",
+        "onboard_time": 1740807141,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1589501,
+        "num": 1589501,
+        "word": "什么是爆肺",
+        "onboard_time": 1740812372,
+        "rank": 1,
+        "category": "健康医疗,艺人"
+      },
+      {
+        "raw_hot": 105546,
+        "num": 1574450,
+        "word": "二月二民俗有哪些",
+        "onboard_time": 1740804438,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1077905,
+        "num": 1572236,
+        "word": "爆辣曹氏",
+        "onboard_time": 1740819322,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 547583,
+        "num": 1572213,
+        "word": "女子炒黄金被暴涨的利润吓得报警",
+        "onboard_time": 1740815906,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1572195,
+        "num": 1572195,
+        "word": "小S悼念方大同",
+        "onboard_time": 1740823704,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1491720,
+        "num": 1491720,
+        "word": "邓紫棋难以置信",
+        "onboard_time": 1740821423,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1459061,
+        "num": 1459061,
+        "word": "方大同悼念仪式已完成",
+        "onboard_time": 1740820402,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315594,
+        "num": 1064611,
+        "word": "美国记者第一次见白宫里吵架",
+        "onboard_time": 1740785175,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 226582,
+        "num": 887308,
+        "word": "陈梦谈休息耻辱",
+        "onboard_time": 1740819744,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 795728,
+        "num": 795728,
+        "word": "王一珩看到方大同去世消息哭了",
+        "onboard_time": 1740821063,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89234,
+        "num": 690299,
+        "word": "二月二敖光抬头",
+        "onboard_time": 1740824062,
+        "rank": 11,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 674427,
+        "num": 674427,
+        "word": "蔡明因常年不吃早饭导致胆摘除",
+        "onboard_time": 1740818543,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 462484,
+        "num": 462484,
+        "word": "薛凯琪22号在音乐节哭了",
+        "onboard_time": 1740811715,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 348830,
+        "num": 348830,
+        "word": "爱你直播",
+        "onboard_time": 1740823222,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220789,
+        "num": 347753,
+        "word": "第一次见余承恩说这么多话",
+        "onboard_time": 1740822562,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217172,
+        "num": 338441,
+        "word": "杭州房价要开始涨了吗",
+        "onboard_time": 1740818901,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198328,
+        "num": 333832,
+        "word": "秦彻",
+        "onboard_time": 1740823402,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 182466,
+        "num": 326673,
+        "word": "乌克兰被端上了餐桌",
+        "onboard_time": 1740802218,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146692,
+        "num": 324994,
+        "word": "男子为办退休要挖512地震废墟",
+        "onboard_time": 1740802698,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319980,
+        "num": 319980,
+        "word": "才二十三",
+        "onboard_time": 1740808433,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 298305,
+        "num": 298305,
+        "word": "在两性关系中要警惕落入信息差陷阱",
+        "onboard_time": 1740823163,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 285453,
+        "num": 285453,
+        "word": "女子1万元转错人被扣3000感谢费",
+        "onboard_time": 1740818062,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145523,
+        "num": 246671,
+        "word": "白宫这场骂战震惊世界",
+        "onboard_time": 1740819922,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18554,
+        "num": 229025,
+        "word": "JDG确定第二轮B组",
+        "onboard_time": 1740816565,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 218056,
+        "num": 218056,
+        "word": "费曼一觉醒来以为穿越到愚人节",
+        "onboard_time": 1740819621,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215444,
+        "num": 215444,
+        "word": "张学友回应欠债传闻",
+        "onboard_time": 1740823342,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189283,
+        "num": 189283,
+        "word": "有网友凌晨蹲点退税退了5万多",
+        "onboard_time": 1740816325,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180056,
+        "num": 180056,
+        "word": "似锦开播",
+        "onboard_time": 1740823222,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33306,
+        "num": 166066,
+        "word": "超9成肠癌由肠息肉发展而来",
+        "onboard_time": 1740824004,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 140256,
+        "num": 152740,
+        "word": "退税金额原来是这样算出来的",
+        "onboard_time": 1740816924,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152569,
+        "num": 152569,
+        "word": "银行错给客户存81万亿美元",
+        "onboard_time": 1740813329,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 142702,
+        "num": 142702,
+        "word": "似锦",
+        "onboard_time": 1740823041,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138402,
+        "num": 138402,
+        "word": "我要退订这个2025",
+        "onboard_time": 1740814467,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127839,
+        "num": 127839,
+        "word": "哪吒2票房142亿",
+        "onboard_time": 1740807763,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127767,
+        "num": 127767,
+        "word": "九寨沟震后修复用了糯米汁",
+        "onboard_time": 1740816264,
+        "rank": 35,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 113656,
+        "num": 126229,
+        "word": "罗大美案三嫌疑人互相道歉",
+        "onboard_time": 1740816805,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125555,
+        "num": 125555,
+        "word": "王铮亮这两下够白鹿考研了",
+        "onboard_time": 1740804319,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122214,
+        "num": 122214,
+        "word": "孟子义早期生图",
+        "onboard_time": 1740813508,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 118773,
+        "num": 118773,
+        "word": "广东今年首场暴雨来了",
+        "onboard_time": 1740824123,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115988,
+        "num": 115988,
+        "word": "为什么高瘦男性容易得气胸",
+        "onboard_time": 1740811118,
+        "rank": 40,
+        "category": "健康医疗,艺人"
+      },
+      {
+        "raw_hot": 115854,
+        "num": 115854,
+        "word": "中山美穗骨灰被曝仍放出租屋中",
+        "onboard_time": 1740821844,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115563,
+        "num": 115563,
+        "word": "全运会乒乓球体测",
+        "onboard_time": 1740820283,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107471,
+        "num": 107471,
+        "word": "卢靖姗父母爱情原件正确",
+        "onboard_time": 1740824302,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106445,
+        "num": 106445,
+        "word": "祁煜",
+        "onboard_time": 1740820462,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 101888,
+        "num": 101888,
+        "word": "是我没见过的18岁的韩庚",
+        "onboard_time": 1740820823,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99008,
+        "num": 99008,
+        "word": "上海一独居老人猝死430万遗产无人继承",
+        "onboard_time": 1740815725,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96180,
+        "num": 96180,
+        "word": "王俊凯宣传景甜新剧似锦",
+        "onboard_time": 1740820944,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31718,
+        "num": 91256,
+        "word": "陈梦gap期也在认真享受生活",
+        "onboard_time": 1740823041,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90925,
+        "num": 90925,
+        "word": "人大代表一句不方便全是凡尔赛",
+        "onboard_time": 1740809393,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设特色优势现代产业体系#"
+    }
+  }
+}

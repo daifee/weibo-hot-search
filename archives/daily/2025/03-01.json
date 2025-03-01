@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740821802451,
+  "endTime": 1740824561425,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1676338,
-      "num": 841369,
+      "num": 1064611,
       "word": "美国记者第一次见白宫里吵架",
       "onboard_time": 1740785175,
       "rank": 9,
@@ -99,11 +99,27 @@
       "category": "健康医疗,艺人"
     },
     {
+      "raw_hot": 1572195,
+      "num": 1572195,
+      "word": "小S悼念方大同",
+      "onboard_time": 1740823704,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1562184,
       "num": 1562184,
       "word": "众星缅怀方大同",
       "onboard_time": 1740819684,
       "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1491720,
+      "num": 1491720,
+      "word": "邓紫棋难以置信",
+      "onboard_time": 1740821423,
+      "rank": 6,
       "category": "艺人"
     },
     {
@@ -145,6 +161,14 @@
       "onboard_time": 1740804319,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1077905,
+      "num": 1576274,
+      "word": "爆辣曹氏",
+      "onboard_time": 1740819322,
+      "rank": 4,
+      "category": "美食"
     },
     {
       "raw_hot": 1049473,
@@ -211,12 +235,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 838427,
-      "num": 1576274,
-      "word": "爆辣曹氏",
-      "onboard_time": 1740819322,
-      "rank": 4,
-      "category": "美食"
+      "raw_hot": 795728,
+      "num": 795728,
+      "word": "王一珩看到方大同去世消息哭了",
+      "onboard_time": 1740821063,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 761732,
@@ -395,14 +419,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 487416,
-      "num": 487416,
-      "word": "王一珩看到方大同去世消息哭了",
-      "onboard_time": 1740821063,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 481539,
       "num": 481539,
       "word": "难哄全员cha了法海不懂爱",
@@ -547,6 +563,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 348830,
+      "num": 348830,
+      "word": "爱你直播",
+      "onboard_time": 1740823222,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 333112,
       "num": 333112,
       "word": "银川地震",
@@ -619,6 +643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 298305,
+      "num": 298305,
+      "word": "在两性关系中要警惕落入信息差陷阱",
+      "onboard_time": 1740823163,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 295749,
       "num": 295749,
       "word": "九寨沟震后修复用了糯米汁",
@@ -628,7 +660,7 @@
     },
     {
       "raw_hot": 295646,
-      "num": 194444,
+      "num": 285453,
       "word": "女子1万元转错人被扣3000感谢费",
       "onboard_time": 1740818062,
       "rank": 39,
@@ -820,7 +852,7 @@
     },
     {
       "raw_hot": 242525,
-      "num": 193068,
+      "num": 218056,
       "word": "费曼一觉醒来以为穿越到愚人节",
       "onboard_time": 1740819621,
       "rank": 22,
@@ -891,6 +923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 226582,
+      "num": 887308,
+      "word": "陈梦谈休息耻辱",
+      "onboard_time": 1740819744,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 226114,
       "num": 226114,
       "word": "爱你",
@@ -907,11 +947,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220789,
+      "num": 347753,
+      "word": "第一次见余承恩说这么多话",
+      "onboard_time": 1740822562,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 217172,
+      "num": 338441,
+      "word": "杭州房价要开始涨了吗",
+      "onboard_time": 1740818901,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 215865,
       "num": 249322,
       "word": "杨紫上身25春夏最新季高定",
       "onboard_time": 1740751221,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 215444,
+      "num": 215444,
+      "word": "张学友回应欠债传闻",
+      "onboard_time": 1740823342,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -1027,6 +1091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198328,
+      "num": 333832,
+      "word": "秦彻",
+      "onboard_time": 1740823402,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 193290,
       "num": 193290,
       "word": "樊振东将和甄子丹李宇春同台",
@@ -1065,14 +1137,6 @@
       "onboard_time": 1740812909,
       "rank": 29,
       "category": "健康医疗,艺人"
-    },
-    {
-      "raw_hot": 187907,
-      "num": 187907,
-      "word": "陈梦谈休息耻辱",
-      "onboard_time": 1740819744,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 185592,
@@ -1121,6 +1185,14 @@
       "onboard_time": 1740803478,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 180056,
+      "num": 180056,
+      "word": "似锦开播",
+      "onboard_time": 1740823222,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 179188,
@@ -1395,6 +1467,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145523,
+      "num": 246671,
+      "word": "白宫这场骂战震惊世界",
+      "onboard_time": 1740819922,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 142702,
+      "num": 142702,
+      "word": "似锦",
+      "onboard_time": 1740823041,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141862,
       "num": 141862,
       "word": "周深已经准备好啦",
@@ -1481,14 +1569,6 @@
       "onboard_time": 1740749720,
       "rank": 29,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 134260,
-      "num": 134260,
-      "word": "杭州房价要开始涨了吗",
-      "onboard_time": 1740818901,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 133605,
@@ -1595,14 +1675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 120224,
-      "num": 120224,
-      "word": "白宫这场骂战震惊世界",
-      "onboard_time": 1740819922,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 120001,
       "num": 1068479,
       "word": "外国人上太空要先学中文了",
@@ -1617,6 +1689,14 @@
       "onboard_time": 1740790637,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118773,
+      "num": 118773,
+      "word": "广东今年首场暴雨来了",
+      "onboard_time": 1740824123,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118349,
@@ -1641,6 +1721,14 @@
       "onboard_time": 1740780613,
       "rank": 44,
       "category": "健康医疗,互联网"
+    },
+    {
+      "raw_hot": 115854,
+      "num": 115854,
+      "word": "中山美穗骨灰被曝仍放出租屋中",
+      "onboard_time": 1740821844,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 115148,
@@ -1707,6 +1795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107471,
+      "num": 107471,
+      "word": "卢靖姗父母爱情原件正确",
+      "onboard_time": 1740824302,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106816,
       "num": 106816,
       "word": "王鹤棣武汉活动人气",
@@ -1764,7 +1860,7 @@
     },
     {
       "raw_hot": 104612,
-      "num": 104612,
+      "num": 229025,
       "word": "JDG确定第二轮B组",
       "onboard_time": 1740816565,
       "rank": 46,
@@ -1937,6 +2033,14 @@
       "onboard_time": 1740746899,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 89234,
+      "num": 690299,
+      "word": "二月二敖光抬头",
+      "onboard_time": 1740824062,
+      "rank": 11,
+      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 88871,
@@ -2257,6 +2361,22 @@
       "onboard_time": 1740770711,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 33306,
+      "num": 166066,
+      "word": "超9成肠癌由肠息肉发展而来",
+      "onboard_time": 1740824004,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 31718,
+      "num": 91256,
+      "word": "陈梦gap期也在认真享受生活",
+      "onboard_time": 1740823041,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 31635,
