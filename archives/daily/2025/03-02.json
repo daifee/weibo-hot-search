@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1740854507995,
+  "endTime": 1740856646218,
   "band_list": [
     {
       "raw_hot": 1119656,
@@ -539,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21857,
+      "num": 30549,
+      "word": "贺峻霖紫色马甲",
+      "onboard_time": 1740855612,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 21115,
       "num": 47557,
       "word": "加点zuo料",
@@ -547,12 +555,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 16432,
+      "raw_hot": 17211,
       "num": 142891,
       "word": "这个定海神器有多了不起",
       "onboard_time": 1740826523,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12377,
+      "num": 37066,
+      "word": "中东部将现隔天如换季式降温",
+      "onboard_time": 1740855313,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9754,
+      "num": 30600,
+      "word": "你以为的你以为是你以为的吗",
+      "onboard_time": 1740856512,
+      "rank": 30,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
