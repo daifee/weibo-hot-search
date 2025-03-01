@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740817667356,
+  "endTime": 1740818478724,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -91,6 +91,14 @@
       "category": "健康医疗,艺人"
     },
     {
+      "raw_hot": 1251055,
+      "num": 918300,
+      "word": "马斯克确认再得一子",
+      "onboard_time": 1740811177,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1219192,
       "num": 1219192,
       "word": "退税",
@@ -113,14 +121,6 @@
       "onboard_time": 1740804319,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1112059,
-      "num": 918300,
-      "word": "马斯克确认再得一子",
-      "onboard_time": 1740811177,
-      "rank": 33,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1049473,
@@ -307,6 +307,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 523241,
+      "num": 523241,
+      "word": "退税金额原来是这样算出来的",
+      "onboard_time": 1740816924,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 515279,
       "num": 365773,
       "word": "小盐巴手机壳",
@@ -435,14 +443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 388235,
-      "num": 388235,
-      "word": "退税金额原来是这样算出来的",
-      "onboard_time": 1740816924,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 386765,
       "num": 386765,
       "word": "单依纯没打封闭",
@@ -489,6 +489,14 @@
       "onboard_time": 1740751879,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 359681,
+      "num": 359681,
+      "word": "我要退订这个2025",
+      "onboard_time": 1740814467,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 357473,
@@ -555,14 +563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 300503,
-      "num": 300503,
-      "word": "我要退订这个2025",
-      "onboard_time": 1740814467,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 299588,
       "num": 208841,
       "word": "蒋欣自曝体重112斤",
@@ -593,6 +593,14 @@
       "onboard_time": 1740808065,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 292496,
+      "num": 279604,
+      "word": "有网友凌晨蹲点退税退了5万多",
+      "onboard_time": 1740816325,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 290585,
@@ -633,14 +641,6 @@
       "onboard_time": 1740751221,
       "rank": 24,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 279604,
-      "num": 279604,
-      "word": "有网友凌晨蹲点退税退了5万多",
-      "onboard_time": 1740816325,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 278004,
@@ -1075,6 +1075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175622,
+      "num": 175622,
+      "word": "樊振东手拿熊猫公仔",
+      "onboard_time": 1740818062,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175360,
       "num": 277436,
       "word": "景甜吴谨言两部爽文女主联动",
@@ -1139,6 +1147,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 169160,
+      "num": 169160,
+      "word": "低估了白鹿和欧豪的cp感",
+      "onboard_time": 1740812791,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167199,
       "num": 167199,
       "word": "王一博抱过的小甲长大啦",
@@ -1201,14 +1217,6 @@
       "onboard_time": 1740793457,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 158547,
-      "num": 158547,
-      "word": "低估了白鹿和欧豪的cp感",
-      "onboard_time": 1740812791,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 158000,
@@ -1387,6 +1395,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 130095,
+      "num": 130095,
+      "word": "阎鹤祥在德云社还是太权威了",
+      "onboard_time": 1740817945,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129814,
       "num": 129814,
       "word": "尊界报案",
@@ -1435,6 +1451,30 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 121491,
+      "num": 380225,
+      "word": "8600元找的育儿嫂隐瞒幽门阳性",
+      "onboard_time": 1740817225,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121481,
+      "num": 121481,
+      "word": "罗大美案三嫌疑人互相道歉",
+      "onboard_time": 1740816805,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121186,
+      "num": 121186,
+      "word": "李小冉说自己要脑子有美貌",
+      "onboard_time": 1740814645,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120001,
       "num": 1068479,
       "word": "外国人上太空要先学中文了",
@@ -1475,12 +1515,12 @@
       "category": "健康医疗,互联网"
     },
     {
-      "raw_hot": 116758,
-      "num": 116758,
-      "word": "李小冉说自己要脑子有美貌",
-      "onboard_time": 1740814645,
-      "rank": 40,
-      "category": "综艺"
+      "raw_hot": 116183,
+      "num": 116183,
+      "word": "女子1万元转错人被扣3000感谢费",
+      "onboard_time": 1740818062,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115148,
@@ -1515,14 +1555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 112075,
-      "num": 112075,
-      "word": "罗大美案三嫌疑人互相道歉",
-      "onboard_time": 1740816805,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 111226,
       "num": 111226,
       "word": "古乐风华录",
@@ -1553,6 +1585,14 @@
       "onboard_time": 1740754580,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106816,
+      "num": 106816,
+      "word": "王鹤棣武汉活动人气",
+      "onboard_time": 1740817945,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 106216,
@@ -1616,6 +1656,22 @@
       "word": "刘浩存广告词 既要又要凭什么不可以",
       "onboard_time": 1740737900,
       "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 102994,
+      "num": 102994,
+      "word": "吴柳芳香港plog",
+      "onboard_time": 1740817703,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 102666,
+      "num": 102666,
+      "word": "方大同 我的青春",
+      "onboard_time": 1740818303,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -1891,12 +1947,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62472,
+      "num": 280551,
+      "word": "搬到迪拜的电诈团伙开始产业升级",
+      "onboard_time": 1740817344,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 59489,
       "num": 100008,
       "word": "年度个税汇算手机APP操作指南",
       "onboard_time": 1740797838,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57435,
+      "num": 312576,
+      "word": "心理咨询室里找不到主体性的女性",
+      "onboard_time": 1740817283,
+      "rank": 14,
+      "category": "情感,读书作家"
     },
     {
       "raw_hot": 56765,
@@ -2139,36 +2211,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 18755,
-      "num": 280551,
-      "word": "搬到迪拜的电诈团伙开始产业升级",
-      "onboard_time": 1740817344,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 18262,
       "num": 21003,
       "word": "苏新皓彩排花絮反差感",
       "onboard_time": 1740768972,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 17707,
-      "num": 312576,
-      "word": "心理咨询室里找不到主体性的女性",
-      "onboard_time": 1740817283,
-      "rank": 14,
-      "category": "情感,读书作家"
-    },
-    {
-      "raw_hot": 17421,
-      "num": 352273,
-      "word": "8600元找的育儿嫂隐瞒幽门阳性",
-      "onboard_time": 1740817225,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16245,

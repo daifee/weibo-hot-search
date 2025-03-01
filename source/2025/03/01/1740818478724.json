@@ -1,0 +1,410 @@
+{
+  "runTime": 1740818478724,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10583989,
+        "num": 10583989,
+        "word": "方大同去世",
+        "onboard_time": 1740807141,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3191734,
+        "num": 3191734,
+        "word": "什么是爆肺",
+        "onboard_time": 1740812372,
+        "rank": 1,
+        "category": "健康医疗,艺人"
+      },
+      {
+        "raw_hot": 128075,
+        "num": 1014933,
+        "word": "二月二民俗有哪些",
+        "onboard_time": 1740804438,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 992107,
+        "num": 992107,
+        "word": "女子炒黄金被暴涨的利润吓得报警",
+        "onboard_time": 1740815906,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 523241,
+        "num": 523241,
+        "word": "退税金额原来是这样算出来的",
+        "onboard_time": 1740816924,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1251055,
+        "num": 518638,
+        "word": "马斯克确认再得一子",
+        "onboard_time": 1740811177,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1975351,
+        "num": 513309,
+        "word": "方大同 薛凯琪",
+        "onboard_time": 1740807827,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1168631,
+        "num": 509610,
+        "word": "杜淳妻子自曝注射肉毒致全身过敏",
+        "onboard_time": 1740809986,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501946,
+        "num": 501946,
+        "word": "美国记者第一次见白宫里吵架",
+        "onboard_time": 1740785175,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121491,
+        "num": 380225,
+        "word": "8600元找的育儿嫂隐瞒幽门阳性",
+        "onboard_time": 1740817225,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 888308,
+        "num": 376300,
+        "word": "才二十三",
+        "onboard_time": 1740808433,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1357303,
+        "num": 368851,
+        "word": "薛凯琪22号在音乐节哭了",
+        "onboard_time": 1740811715,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 359681,
+        "num": 359681,
+        "word": "我要退订这个2025",
+        "onboard_time": 1740814467,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273191,
+        "num": 273191,
+        "word": "男子为办退休要挖512地震废墟",
+        "onboard_time": 1740802698,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57435,
+        "num": 271436,
+        "word": "心理咨询室里找不到主体性的女性",
+        "onboard_time": 1740817283,
+        "rank": 14,
+        "category": "情感,读书作家"
+      },
+      {
+        "raw_hot": 270518,
+        "num": 270518,
+        "word": "九寨沟震后修复用了糯米汁",
+        "onboard_time": 1740816264,
+        "rank": 15,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 263650,
+        "num": 263650,
+        "word": "为什么高瘦男性容易得气胸",
+        "onboard_time": 1740811118,
+        "rank": 16,
+        "category": "健康医疗,艺人"
+      },
+      {
+        "raw_hot": 252723,
+        "num": 252723,
+        "word": "建议医务人员薪酬不得与业务收入挂钩",
+        "onboard_time": 1740813089,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237074,
+        "num": 237074,
+        "word": "王铮亮这两下够白鹿考研了",
+        "onboard_time": 1740804319,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62472,
+        "num": 235347,
+        "word": "搬到迪拜的电诈团伙开始产业升级",
+        "onboard_time": 1740817344,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 292496,
+        "num": 235286,
+        "word": "有网友凌晨蹲点退税退了5万多",
+        "onboard_time": 1740816325,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235190,
+        "num": 235190,
+        "word": "孟子义早期生图",
+        "onboard_time": 1740813508,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 234837,
+        "num": 234837,
+        "word": "麦恩莉",
+        "onboard_time": 1740812552,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 223239,
+        "num": 223239,
+        "word": "乌克兰被端上了餐桌",
+        "onboard_time": 1740802218,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 215215,
+        "num": 215215,
+        "word": "世界上少了一个特别的人",
+        "onboard_time": 1740815725,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199298,
+        "num": 199298,
+        "word": "请把我埋在 在这春天里",
+        "onboard_time": 1740812490,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188766,
+        "num": 188766,
+        "word": "哪吒2票房142亿",
+        "onboard_time": 1740807763,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186187,
+        "num": 186187,
+        "word": "上海一独居老人猝死430万遗产无人继承",
+        "onboard_time": 1740815725,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178883,
+        "num": 178883,
+        "word": "银行错给客户存81万亿美元",
+        "onboard_time": 1740813329,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 175622,
+        "num": 175622,
+        "word": "樊振东手拿熊猫公仔",
+        "onboard_time": 1740818062,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169160,
+        "num": 169160,
+        "word": "低估了白鹿和欧豪的cp感",
+        "onboard_time": 1740812791,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158566,
+        "num": 158566,
+        "word": "人大代表一句不方便全是凡尔赛",
+        "onboard_time": 1740809393,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 149950,
+        "num": 149950,
+        "word": "排便太用力可能会引发气胸",
+        "onboard_time": 1740815844,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136165,
+        "num": 136165,
+        "word": "妈妈包书皮错写成自己名字",
+        "onboard_time": 1740801738,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130095,
+        "num": 130095,
+        "word": "阎鹤祥在德云社还是太权威了",
+        "onboard_time": 1740817945,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128249,
+        "num": 128249,
+        "word": "中国人的基建智慧有多厉害",
+        "onboard_time": 1740816264,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121481,
+        "num": 121481,
+        "word": "罗大美案三嫌疑人互相道歉",
+        "onboard_time": 1740816805,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121186,
+        "num": 121186,
+        "word": "李小冉说自己要脑子有美貌",
+        "onboard_time": 1740814645,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120582,
+        "num": 120582,
+        "word": "陈赫被黄磊整蛊到直呼重签合同",
+        "onboard_time": 1740817104,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116183,
+        "num": 116183,
+        "word": "女子1万元转错人被扣3000感谢费",
+        "onboard_time": 1740818062,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109034,
+        "num": 109034,
+        "word": "章若楠难哄忍泪这一下",
+        "onboard_time": 1740811236,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107522,
+        "num": 107522,
+        "word": "相聚离开 都有时候",
+        "onboard_time": 1740812670,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 107445,
+        "num": 107445,
+        "word": "气胸",
+        "onboard_time": 1740808374,
+        "rank": 42,
+        "category": "艺人,健康医疗"
+      },
+      {
+        "raw_hot": 106816,
+        "num": 106816,
+        "word": "王鹤棣武汉活动人气",
+        "onboard_time": 1740817945,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106509,
+        "num": 106509,
+        "word": "景甜吴谨言两部爽文女主联动",
+        "onboard_time": 1740811308,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104107,
+        "num": 104107,
+        "word": "登陆少年雅合作舞台",
+        "onboard_time": 1740817403,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102994,
+        "num": 102994,
+        "word": "吴柳芳香港plog",
+        "onboard_time": 1740817703,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102920,
+        "num": 102920,
+        "word": "尊界 迈巴赫",
+        "onboard_time": 1740796458,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 102666,
+        "num": 102666,
+        "word": "方大同 我的青春",
+        "onboard_time": 1740818303,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98013,
+        "num": 98013,
+        "word": "夹菜是张凌赫临场发挥的",
+        "onboard_time": 1740814825,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设特色优势现代产业体系#"
+    }
+  }
+}
