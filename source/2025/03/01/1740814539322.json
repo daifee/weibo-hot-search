@@ -1,0 +1,410 @@
+{
+  "runTime": 1740814539322,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 16537725,
+        "num": 16537725,
+        "word": "方大同去世",
+        "onboard_time": 1740807141,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3067305,
+        "num": 3067305,
+        "word": "什么是爆肺",
+        "onboard_time": 1740812372,
+        "rank": 1,
+        "category": "健康医疗,艺人"
+      },
+      {
+        "raw_hot": 144561,
+        "num": 1834438,
+        "word": "二月二民俗有哪些",
+        "onboard_time": 1740804438,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1147048,
+        "num": 1147048,
+        "word": "为什么高瘦男性容易得气胸",
+        "onboard_time": 1740811118,
+        "rank": 3,
+        "category": "健康医疗,艺人"
+      },
+      {
+        "raw_hot": 918300,
+        "num": 918300,
+        "word": "马斯克确认再得一子",
+        "onboard_time": 1740811177,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 6127819,
+        "num": 6127819,
+        "word": "方大同 薛凯琪",
+        "onboard_time": 1740807827,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1455104,
+        "num": 772975,
+        "word": "杜淳妻子自曝注射肉毒致全身过敏",
+        "onboard_time": 1740809986,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 645403,
+        "num": 645403,
+        "word": "美国记者第一次见白宫里吵架",
+        "onboard_time": 1740785175,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 537734,
+        "num": 537734,
+        "word": "男子为办退休要挖512地震废墟",
+        "onboard_time": 1740802698,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345300,
+        "num": 345300,
+        "word": "妈妈包书皮错写成自己名字",
+        "onboard_time": 1740801738,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2286611,
+        "num": 342665,
+        "word": "薛凯琪22号在音乐节哭了",
+        "onboard_time": 1740811715,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1257715,
+        "num": 335468,
+        "word": "才二十三",
+        "onboard_time": 1740808433,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 446027,
+        "num": 329672,
+        "word": "请把我埋在 在这春天里",
+        "onboard_time": 1740812490,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 393457,
+        "num": 326233,
+        "word": "王铮亮这两下够白鹿考研了",
+        "onboard_time": 1740804319,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 384535,
+        "num": 317051,
+        "word": "气胸",
+        "onboard_time": 1740808374,
+        "rank": 14,
+        "category": "艺人,健康医疗"
+      },
+      {
+        "raw_hot": 314898,
+        "num": 314898,
+        "word": "人大代表一句不方便全是凡尔赛",
+        "onboard_time": 1740809393,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 224445,
+        "num": 224445,
+        "word": "抗癌博主陈幸运去世",
+        "onboard_time": 1740798678,
+        "rank": 16,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 177764,
+        "num": 214227,
+        "word": "丁真和粉色适配度好高",
+        "onboard_time": 1740811236,
+        "rank": 17,
+        "category": "美食,艺人"
+      },
+      {
+        "raw_hot": 205804,
+        "num": 205804,
+        "word": "乌克兰被端上了餐桌",
+        "onboard_time": 1740802218,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26398,
+        "num": 205227,
+        "word": "张星特微粒文化解约",
+        "onboard_time": 1740807265,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427641,
+        "num": 199707,
+        "word": "麦恩莉",
+        "onboard_time": 1740812552,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 281733,
+        "num": 196603,
+        "word": "相聚离开 都有时候",
+        "onboard_time": 1740812670,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 257538,
+        "num": 194860,
+        "word": "章若楠难哄忍泪这一下",
+        "onboard_time": 1740811236,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228853,
+        "num": 190745,
+        "word": "哪吒2票房142亿",
+        "onboard_time": 1740807763,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190105,
+        "num": 190105,
+        "word": "建议医务人员薪酬不得与业务收入挂钩",
+        "onboard_time": 1740813089,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210729,
+        "num": 189779,
+        "word": "张蔷鼓励女儿素颜自由",
+        "onboard_time": 1740812432,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76434,
+        "num": 188976,
+        "word": "女警实力演绎眼见不一定为实",
+        "onboard_time": 1740814287,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188868,
+        "num": 188868,
+        "word": "气胸的时候肺会被压扁",
+        "onboard_time": 1740812909,
+        "rank": 27,
+        "category": "健康医疗,艺人"
+      },
+      {
+        "raw_hot": 173001,
+        "num": 183618,
+        "word": "九尾Fly爬山好搭子",
+        "onboard_time": 1740814287,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 181641,
+        "num": 181641,
+        "word": "特别的人",
+        "onboard_time": 1740808374,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 211542,
+        "num": 181588,
+        "word": "银行错给客户存81万亿美元",
+        "onboard_time": 1740813329,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 180962,
+        "num": 180962,
+        "word": "孟子义早期生图",
+        "onboard_time": 1740813508,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 154589,
+        "num": 154589,
+        "word": "低估了白鹿和欧豪的cp感",
+        "onboard_time": 1740812791,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150579,
+        "num": 150579,
+        "word": "刘德华说向太打保龄球像走猫步",
+        "onboard_time": 1740813927,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142878,
+        "num": 142878,
+        "word": "泽连斯基称自己不需要道歉",
+        "onboard_time": 1740796818,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142463,
+        "num": 142463,
+        "word": "前TVB艺人当网约车司机",
+        "onboard_time": 1740808065,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140797,
+        "num": 140797,
+        "word": "凌晨有网友退税超5万",
+        "onboard_time": 1740806717,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140206,
+        "num": 140206,
+        "word": "景甜吴谨言两部爽文女主联动",
+        "onboard_time": 1740811308,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139649,
+        "num": 139649,
+        "word": "被家暴16次女子被前夫控制社交没朋友",
+        "onboard_time": 1740805458,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134848,
+        "num": 137059,
+        "word": "气胸是一种怎样的疾病",
+        "onboard_time": 1740811894,
+        "rank": 39,
+        "category": "健康医疗,艺人"
+      },
+      {
+        "raw_hot": 136825,
+        "num": 136825,
+        "word": "留几手吐槽芒果台瞧不起他",
+        "onboard_time": 1740803118,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136213,
+        "num": 136213,
+        "word": "3月狗屎运最旺的星座",
+        "onboard_time": 1740798918,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132866,
+        "num": 132866,
+        "word": "宁波4.1万家庭资产超千万元",
+        "onboard_time": 1740795137,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132558,
+        "num": 132558,
+        "word": "陈梦拿到了驾照和研究生毕业证",
+        "onboard_time": 1740800898,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115371,
+        "num": 132532,
+        "word": "尊界 迈巴赫",
+        "onboard_time": 1740796458,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 114500,
+        "num": 132517,
+        "word": "湖人战胜快船",
+        "onboard_time": 1740814227,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114401,
+        "num": 132469,
+        "word": "2025 魔幻",
+        "onboard_time": 1740809927,
+        "rank": 46,
+        "category": "艺人,情感"
+      },
+      {
+        "raw_hot": 102041,
+        "num": 132420,
+        "word": "我要退订这个2025",
+        "onboard_time": 1740814467,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101780,
+        "num": 132367,
+        "word": "退税",
+        "onboard_time": 1740788117,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101664,
+        "num": 132354,
+        "word": "特朗普泽连斯基激烈争吵全过程",
+        "onboard_time": 1740812490,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设特色优势现代产业体系#"
+    }
+  }
+}

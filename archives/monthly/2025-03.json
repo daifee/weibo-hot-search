@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740813649406,
+  "endTime": 1740814539322,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -17,6 +17,14 @@
       "onboard_time": 1740807827,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3067305,
+      "num": 3067305,
+      "word": "什么是爆肺",
+      "onboard_time": 1740812372,
+      "rank": 1,
+      "category": "健康医疗,艺人"
     },
     {
       "raw_hot": 3008661,
@@ -59,14 +67,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1626082,
-      "num": 1626082,
-      "word": "什么是爆肺",
-      "onboard_time": 1740812372,
-      "rank": 1,
-      "category": "健康医疗,艺人"
-    },
-    {
       "raw_hot": 1605603,
       "num": 1605603,
       "word": "妈妈包书皮错写成自己名字",
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1604506,
-      "num": 679046,
+      "num": 772975,
       "word": "杜淳妻子自曝注射肉毒致全身过敏",
       "onboard_time": 1740809986,
       "rank": 31,
@@ -153,6 +153,14 @@
       "onboard_time": 1740800898,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 918300,
+      "num": 918300,
+      "word": "马斯克确认再得一子",
+      "onboard_time": 1740811177,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 892712,
@@ -275,14 +283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 574332,
-      "num": 433844,
-      "word": "马斯克确认再得一子",
-      "onboard_time": 1740811177,
-      "rank": 33,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 554654,
       "num": 554654,
       "word": "张艺兴说成员们都年过半六十",
@@ -387,12 +387,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 446027,
+      "num": 329672,
+      "word": "请把我埋在 在这春天里",
+      "onboard_time": 1740812490,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 442634,
       "num": 392507,
       "word": "哪吒2票房142亿",
       "onboard_time": 1740807763,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 427641,
+      "num": 303643,
+      "word": "麦恩莉",
+      "onboard_time": 1740812552,
+      "rank": 22,
+      "category": "音乐"
     },
     {
       "raw_hot": 402089,
@@ -465,22 +481,6 @@
       "onboard_time": 1740786497,
       "rank": 20,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 347702,
-      "num": 308042,
-      "word": "请把我埋在 在这春天里",
-      "onboard_time": 1740812490,
-      "rank": 20,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 345720,
-      "num": 303643,
-      "word": "麦恩莉",
-      "onboard_time": 1740812552,
-      "rank": 22,
-      "category": "音乐"
     },
     {
       "raw_hot": 333112,
@@ -579,6 +579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 281733,
+      "num": 256971,
+      "word": "相聚离开 都有时候",
+      "onboard_time": 1740812670,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 279759,
       "num": 279759,
       "word": "日本米价暴涨却怪中国",
@@ -665,14 +673,6 @@
       "onboard_time": 1740811894,
       "rank": 26,
       "category": "健康医疗,艺人"
-    },
-    {
-      "raw_hot": 256971,
-      "num": 256971,
-      "word": "相聚离开 都有时候",
-      "onboard_time": 1740812670,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 251771,
@@ -819,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211542,
+      "num": 181588,
+      "word": "银行错给客户存81万亿美元",
+      "onboard_time": 1740813329,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 209529,
       "num": 328908,
       "word": "丁真和粉色适配度好高",
@@ -907,12 +915,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 190105,
+      "num": 467448,
+      "word": "建议医务人员薪酬不得与业务收入挂钩",
+      "onboard_time": 1740813089,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189629,
       "num": 246279,
       "word": "十个勤天展开一天实体专辑",
       "onboard_time": 1740798678,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 188868,
+      "num": 242397,
+      "word": "气胸的时候肺会被压扁",
+      "onboard_time": 1740812909,
+      "rank": 29,
+      "category": "健康医疗,艺人"
     },
     {
       "raw_hot": 185592,
@@ -947,6 +971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180962,
+      "num": 180962,
+      "word": "孟子义早期生图",
+      "onboard_time": 1740813508,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 180244,
       "num": 183263,
       "word": "庄达菲心选小狗妹",
@@ -964,7 +996,7 @@
     },
     {
       "raw_hot": 177800,
-      "num": 1606058,
+      "num": 1834438,
       "word": "二月二民俗有哪些",
       "onboard_time": 1740804438,
       "rank": 2,
@@ -1001,6 +1033,14 @@
       "onboard_time": 1740800238,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173001,
+      "num": 183618,
+      "word": "九尾Fly爬山好搭子",
+      "onboard_time": 1740814287,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 171388,
@@ -1099,14 +1139,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 155656,
-      "num": 155656,
-      "word": "银行错给客户存81万亿美元",
-      "onboard_time": 1740813329,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 155614,
       "num": 155614,
       "word": "李晨Angelababy友谊",
@@ -1123,6 +1155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154589,
+      "num": 154589,
+      "word": "低估了白鹿和欧豪的cp感",
+      "onboard_time": 1740812791,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154006,
       "num": 154006,
       "word": "白敬亭卫衣",
@@ -1131,12 +1171,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151341,
-      "num": 151341,
-      "word": "低估了白鹿和欧豪的cp感",
-      "onboard_time": 1740812791,
-      "rank": 39,
-      "category": "剧集"
+      "raw_hot": 150579,
+      "num": 150579,
+      "word": "刘德华说向太打保龄球像走猫步",
+      "onboard_time": 1740813927,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 148884,
@@ -1323,22 +1363,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 119571,
-      "num": 467448,
-      "word": "建议医务人员薪酬不得与业务收入挂钩",
-      "onboard_time": 1740813089,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119364,
-      "num": 119364,
-      "word": "孟子义早期生图",
-      "onboard_time": 1740813508,
-      "rank": 44,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 119111,
       "num": 119111,
       "word": "吴敬平评价18岁的王曼昱",
@@ -1369,6 +1393,14 @@
       "onboard_time": 1740789498,
       "rank": 37,
       "category": "互联网,音乐"
+    },
+    {
+      "raw_hot": 114500,
+      "num": 132517,
+      "word": "湖人战胜快船",
+      "onboard_time": 1740814227,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 112641,
@@ -1451,12 +1483,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102041,
+      "num": 132420,
+      "word": "我要退订这个2025",
+      "onboard_time": 1740814467,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101768,
       "num": 101768,
       "word": "周也空气齐刘海",
       "onboard_time": 1740746118,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101664,
+      "num": 132354,
+      "word": "特朗普泽连斯基激烈争吵全过程",
+      "onboard_time": 1740812490,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 99546,
@@ -1484,7 +1532,7 @@
     },
     {
       "raw_hot": 97919,
-      "num": 97919,
+      "num": 205227,
       "word": "张星特微粒文化解约",
       "onboard_time": 1740807265,
       "rank": 47,
@@ -1497,14 +1545,6 @@
       "onboard_time": 1740763575,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 95270,
-      "num": 242397,
-      "word": "气胸的时候肺会被压扁",
-      "onboard_time": 1740812909,
-      "rank": 29,
-      "category": "健康医疗,艺人"
     },
     {
       "raw_hot": 95248,
@@ -1640,6 +1680,14 @@
       "word": "全国高度近视患者超1.3亿人",
       "onboard_time": 1740741320,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76434,
+      "num": 188976,
+      "word": "女警实力演绎眼见不一定为实",
+      "onboard_time": 1740814287,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
