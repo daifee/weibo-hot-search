@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740849542516,
+  "endTime": 1740850549688,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1723,6 +1723,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 185965,
+      "num": 185965,
+      "word": "吉克隽逸悼念方大同",
+      "onboard_time": 1740849735,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185592,
       "num": 185592,
       "word": "三人游",
@@ -2083,6 +2091,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 163673,
+      "num": 316198,
+      "word": "菲律宾非法坐滩军舰冒黑烟疑似焚烧垃圾",
+      "onboard_time": 1740846859,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 162813,
       "num": 162813,
       "word": "卖糖葫芦喷口水阿姨已戴口罩",
@@ -2177,14 +2193,6 @@
       "onboard_time": 1740762615,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 155369,
-      "num": 316198,
-      "word": "菲律宾非法坐滩军舰冒黑烟疑似焚烧垃圾",
-      "onboard_time": 1740846859,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 154906,
@@ -2627,6 +2635,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 118122,
+      "num": 152197,
+      "word": "欧洲多方力挺乌克兰",
+      "onboard_time": 1740848656,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 117765,
       "num": 117765,
       "word": "女子手麻跑错3科室靠DeepSeek找对医生",
@@ -2891,14 +2907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 97796,
-      "num": 152197,
-      "word": "欧洲多方力挺乌克兰",
-      "onboard_time": 1740848656,
-      "rank": 23,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 96964,
       "num": 381750,
       "word": "鞋垫打上量子两个字卖68元",
@@ -2929,6 +2937,14 @@
       "onboard_time": 1740797417,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94858,
+      "num": 118114,
+      "word": "你好星期六难哄收视新高",
+      "onboard_time": 1740849856,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 94802,
@@ -3227,6 +3243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65467,
+      "num": 199378,
+      "word": "短视频可能越刷越焦虑",
+      "onboard_time": 1740849138,
+      "rank": 10,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 65073,
       "num": 299014,
       "word": "洛城德比",
@@ -3305,6 +3329,14 @@
       "onboard_time": 1740812850,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 52012,
+      "num": 117914,
+      "word": "老鼠人",
+      "onboard_time": 1740849975,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 51268,
@@ -3507,14 +3539,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 28195,
-      "num": 199378,
-      "word": "短视频可能越刷越焦虑",
-      "onboard_time": 1740849138,
-      "rank": 10,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 27972,
       "num": 84525,
       "word": "2025CBA全明星周末",
@@ -3609,6 +3633,14 @@
       "onboard_time": 1740838286,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 22510,
+      "num": 118042,
+      "word": "3岁吒儿原来是加法高手",
+      "onboard_time": 1740850334,
+      "rank": 25,
+      "category": "民生新闻,电影"
     },
     {
       "raw_hot": 21979,
