@@ -1,0 +1,410 @@
+{
+  "runTime": 1740807502829,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 13649599,
+        "num": 13649599,
+        "word": "方大同去世",
+        "onboard_time": 1740807141,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1605603,
+        "num": 1605603,
+        "word": "妈妈包书皮错写成自己名字",
+        "onboard_time": 1740801738,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126132,
+        "num": 1303935,
+        "word": "二月二民俗有哪些",
+        "onboard_time": 1740804438,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1115938,
+        "num": 1115938,
+        "word": "王铮亮这两下够白鹿考研了",
+        "onboard_time": 1740804319,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 883948,
+        "num": 883948,
+        "word": "被家暴16次女子被前夫控制社交没朋友",
+        "onboard_time": 1740805458,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1199116,
+        "num": 841369,
+        "word": "美国记者第一次见白宫里吵架",
+        "onboard_time": 1740785175,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 713149,
+        "num": 713149,
+        "word": "男子为办退休要挖512地震废墟",
+        "onboard_time": 1740802698,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 679019,
+        "num": 679019,
+        "word": "乌克兰被端上了餐桌",
+        "onboard_time": 1740802218,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 637554,
+        "num": 637554,
+        "word": "陈梦拿到了驾照和研究生毕业证",
+        "onboard_time": 1740800898,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78359,
+        "num": 523174,
+        "word": "凌晨有网友退税超5万",
+        "onboard_time": 1740806717,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 657788,
+        "num": 510080,
+        "word": "留几手吐槽芒果台瞧不起他",
+        "onboard_time": 1740803118,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 494617,
+        "num": 494617,
+        "word": "檀健次吃内脏哭戏是现挂",
+        "onboard_time": 1740794837,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 481539,
+        "num": 481539,
+        "word": "难哄全员cha了法海不懂爱",
+        "onboard_time": 1740806179,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222679,
+        "num": 465504,
+        "word": "按DeepSeek建议理发会翻车吗",
+        "onboard_time": 1740805759,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113669,
+        "num": 455681,
+        "word": "夸克硬刚",
+        "onboard_time": 1740805277,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 451565,
+        "num": 451565,
+        "word": "泽连斯基称自己不需要道歉",
+        "onboard_time": 1740796818,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 359416,
+        "num": 359416,
+        "word": "抗癌博主陈幸运去世",
+        "onboard_time": 1740798678,
+        "rank": 16,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 356889,
+        "num": 356889,
+        "word": "退税",
+        "onboard_time": 1740788117,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233931,
+        "num": 353279,
+        "word": "谢娜支持景甜新剧",
+        "onboard_time": 1740805100,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38509,
+        "num": 352737,
+        "word": "罗永浩登上夸克还债榜",
+        "onboard_time": 1740804677,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 352681,
+        "num": 352681,
+        "word": "特朗普没对泽连斯基动手是奇迹",
+        "onboard_time": 1740788417,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 296436,
+        "num": 296436,
+        "word": "退税小法宝",
+        "onboard_time": 1740801199,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276857,
+        "num": 276857,
+        "word": "银川地震",
+        "onboard_time": 1740804258,
+        "rank": 22,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 235693,
+        "num": 235693,
+        "word": "难哄",
+        "onboard_time": 1740801978,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39270,
+        "num": 232773,
+        "word": "中国足协球员自荐系统上线",
+        "onboard_time": 1740801018,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230895,
+        "num": 230895,
+        "word": "吒儿龙抬头这天冲上全球第七",
+        "onboard_time": 1740762256,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 221515,
+        "num": 221515,
+        "word": "特朗普与泽连斯基争吵的分歧点是什么",
+        "onboard_time": 1740802576,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 182317,
+        "num": 220202,
+        "word": "敖光版龙抬头霸气送祝福",
+        "onboard_time": 1740788177,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 220100,
+        "num": 220100,
+        "word": "宁波4.1万家庭资产超千万元",
+        "onboard_time": 1740795137,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164495,
+        "num": 205545,
+        "word": "红房子的青春好好地落幕了",
+        "onboard_time": 1740806599,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200856,
+        "num": 200856,
+        "word": "尊界 迈巴赫",
+        "onboard_time": 1740796458,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 163568,
+        "num": 163568,
+        "word": "杨紫白鸽写真",
+        "onboard_time": 1740801137,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156558,
+        "num": 156558,
+        "word": "邓超一开始以为是自己粉丝",
+        "onboard_time": 1740802998,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138529,
+        "num": 138529,
+        "word": "3月狗屎运最旺的星座",
+        "onboard_time": 1740798918,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130891,
+        "num": 130891,
+        "word": "快船vs湖人",
+        "onboard_time": 1740803898,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129662,
+        "num": 129662,
+        "word": "以为是初恋女友实际是复婚夫妻",
+        "onboard_time": 1740798678,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128328,
+        "num": 128328,
+        "word": "男子喝满月酒酒驾身亡家属索赔主办人",
+        "onboard_time": 1740799277,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128108,
+        "num": 128108,
+        "word": "我家那小子收官",
+        "onboard_time": 1740805937,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122354,
+        "num": 122354,
+        "word": "家庭摄像头遭破解260元可永久观看",
+        "onboard_time": 1740802698,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117706,
+        "num": 117706,
+        "word": "迪丽热巴三月的行程图",
+        "onboard_time": 1740799578,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109883,
+        "num": 109883,
+        "word": "美乌总统会晤多次发生争执",
+        "onboard_time": 1740783793,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105263,
+        "num": 105263,
+        "word": "韩安冉爸爸支持女儿起诉妈妈",
+        "onboard_time": 1740795137,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 107329,
+        "num": 105170,
+        "word": "特朗普称泽连斯基何时想和平了再来",
+        "onboard_time": 1740787876,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99546,
+        "num": 99546,
+        "word": "杨子远程指挥素人爸爸妈妈约会",
+        "onboard_time": 1740806537,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99092,
+        "num": 99092,
+        "word": "3月第一个好消息是吒儿给的",
+        "onboard_time": 1740769512,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 99067,
+        "num": 99067,
+        "word": "难哄好甜",
+        "onboard_time": 1740807388,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95519,
+        "num": 97924,
+        "word": "杨紫坠入淡雅梦境",
+        "onboard_time": 1740804858,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97919,
+        "num": 97919,
+        "word": "张星特微粒文化解约",
+        "onboard_time": 1740807265,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96136,
+        "num": 96136,
+        "word": "340斤男生8块腹肌被誉当代许褚",
+        "onboard_time": 1740796338,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97397,
+        "num": 95241,
+        "word": "赵樱子这一段林多美回来了",
+        "onboard_time": 1740798678,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设特色优势现代产业体系#"
+    }
+  }
+}

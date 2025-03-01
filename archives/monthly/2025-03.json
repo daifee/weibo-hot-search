@@ -1,7 +1,15 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740806496892,
+  "endTime": 1740807502829,
   "band_list": [
+    {
+      "raw_hot": 13649599,
+      "num": 13649599,
+      "word": "方大同去世",
+      "onboard_time": 1740807141,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2475221,
       "num": 2475221,
@@ -12,15 +20,15 @@
     },
     {
       "raw_hot": 1676338,
-      "num": 619976,
+      "num": 841369,
       "word": "美国记者第一次见白宫里吵架",
       "onboard_time": 1740785175,
       "rank": 9,
       "category": "国际时政"
     },
     {
-      "raw_hot": 1249849,
-      "num": 1249849,
+      "raw_hot": 1605603,
+      "num": 1605603,
       "word": "妈妈包书皮错写成自己名字",
       "onboard_time": 1740801738,
       "rank": 15,
@@ -41,6 +49,14 @@
       "onboard_time": 1740714259,
       "rank": 1,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 1115938,
+      "num": 1115938,
+      "word": "王铮亮这两下够白鹿考研了",
+      "onboard_time": 1740804319,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1049473,
@@ -67,20 +83,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 902626,
-      "num": 902626,
-      "word": "王铮亮这两下够白鹿考研了",
-      "onboard_time": 1740804319,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 892712,
-      "num": 437113,
+      "num": 451565,
       "word": "泽连斯基称自己不需要道歉",
       "onboard_time": 1740796818,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 883948,
+      "num": 883948,
+      "word": "被家暴16次女子被前夫控制社交没朋友",
+      "onboard_time": 1740805458,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 850680,
@@ -107,12 +123,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 713149,
+      "num": 713149,
+      "word": "男子为办退休要挖512地震废墟",
+      "onboard_time": 1740802698,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 695500,
       "num": 425958,
       "word": "车主刷短视频被乘客误认为放不雅视频",
       "onboard_time": 1740795197,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 679019,
+      "num": 679019,
+      "word": "乌克兰被端上了餐桌",
+      "onboard_time": 1740802218,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 657788,
+      "num": 510080,
+      "word": "留几手吐槽芒果台瞧不起他",
+      "onboard_time": 1740803118,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 654405,
@@ -129,14 +169,6 @@
       "onboard_time": 1740798678,
       "rank": 3,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 635820,
-      "num": 635820,
-      "word": "男子为办退休要挖512地震废墟",
-      "onboard_time": 1740802698,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 626377,
@@ -177,22 +209,6 @@
       "onboard_time": 1740795137,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 573227,
-      "num": 329536,
-      "word": "留几手吐槽芒果台瞧不起他",
-      "onboard_time": 1740803118,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 558162,
-      "num": 558162,
-      "word": "乌克兰被端上了餐桌",
-      "onboard_time": 1740802218,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 554654,
@@ -249,6 +265,14 @@
       "onboard_time": 1740788358,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 481539,
+      "num": 481539,
+      "word": "难哄全员cha了法海不懂爱",
+      "onboard_time": 1740806179,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 474804,
@@ -403,14 +427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 283013,
-      "num": 283013,
-      "word": "难哄全员cha了法海不懂爱",
-      "onboard_time": 1740806179,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 279759,
       "num": 279759,
       "word": "日本米价暴涨却怪中国",
@@ -425,6 +441,14 @@
       "onboard_time": 1740801137,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 276857,
+      "num": 276857,
+      "word": "银川地震",
+      "onboard_time": 1740804258,
+      "rank": 24,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 276546,
@@ -531,20 +555,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 242825,
-      "num": 242825,
-      "word": "银川地震",
-      "onboard_time": 1740804258,
-      "rank": 24,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 238987,
       "num": 238987,
       "word": "特朗普与泽连斯基争吵的分歧点是什么",
       "onboard_time": 1740802576,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 235693,
+      "num": 235693,
+      "word": "难哄",
+      "onboard_time": 1740801978,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 233931,
+      "num": 353279,
+      "word": "谢娜支持景甜新剧",
+      "onboard_time": 1740805100,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 233785,
@@ -571,12 +603,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 218985,
-      "num": 218985,
-      "word": "难哄",
-      "onboard_time": 1740801978,
-      "rank": 37,
-      "category": "剧集"
+      "raw_hot": 222679,
+      "num": 465504,
+      "word": "按DeepSeek建议理发会翻车吗",
+      "onboard_time": 1740805759,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 215865,
@@ -601,14 +633,6 @@
       "onboard_time": 1740707118,
       "rank": 25,
       "category": "财经"
-    },
-    {
-      "raw_hot": 210272,
-      "num": 282778,
-      "word": "谢娜支持景甜新剧",
-      "onboard_time": 1740805100,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 207433,
@@ -739,14 +763,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 171551,
-      "num": 282754,
-      "word": "被家暴16次女子被前夫控制社交没朋友",
-      "onboard_time": 1740805458,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 171388,
       "num": 235912,
       "word": "赵丽颖美好的生活里",
@@ -795,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164495,
+      "num": 205545,
+      "word": "红房子的青春好好地落幕了",
+      "onboard_time": 1740806599,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162813,
       "num": 162813,
       "word": "卖糖葫芦喷口水阿姨已戴口罩",
@@ -812,7 +836,7 @@
     },
     {
       "raw_hot": 158000,
-      "num": 282919,
+      "num": 455681,
       "word": "夸克硬刚",
       "onboard_time": 1740797298,
       "rank": 27,
@@ -955,6 +979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130891,
+      "num": 136374,
+      "word": "快船vs湖人",
+      "onboard_time": 1740803898,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130572,
       "num": 145737,
       "word": "文化中国行打卡龙抬头",
@@ -985,6 +1017,14 @@
       "onboard_time": 1740799459,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126132,
+      "num": 1303935,
+      "word": "二月二民俗有哪些",
+      "onboard_time": 1740804438,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125739,
@@ -1083,14 +1123,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 107743,
-      "num": 136374,
-      "word": "快船vs湖人",
-      "onboard_time": 1740803898,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 107652,
       "num": 107652,
       "word": "迪丽热巴开推发布会黑长直造型",
@@ -1139,11 +1171,35 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99546,
+      "num": 99546,
+      "word": "杨子远程指挥素人爸爸妈妈约会",
+      "onboard_time": 1740806537,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 99067,
+      "num": 99067,
+      "word": "难哄好甜",
+      "onboard_time": 1740807388,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98679,
       "num": 98679,
       "word": "邓超跟迪丽热巴粉丝合影",
       "onboard_time": 1740785296,
       "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 97919,
+      "num": 97919,
+      "word": "张星特微粒文化解约",
+      "onboard_time": 1740807265,
+      "rank": 47,
       "category": "艺人"
     },
     {
@@ -1267,14 +1323,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 83378,
-      "num": 764723,
-      "word": "二月二民俗有哪些",
-      "onboard_time": 1740804438,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 83155,
       "num": 83155,
       "word": "周鸿祎听到女粉中奖撤回一个离开",
@@ -1288,6 +1336,14 @@
       "word": "全国高度近视患者超1.3亿人",
       "onboard_time": 1740741320,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78359,
+      "num": 523174,
+      "word": "凌晨有网友退税超5万",
+      "onboard_time": 1740806717,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1379,14 +1435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 51235,
-      "num": 282948,
-      "word": "按DeepSeek建议理发会翻车吗",
-      "onboard_time": 1740805759,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 49991,
       "num": 54479,
       "word": "英国首相称必须赢得乌克兰和平",
@@ -1435,6 +1483,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 39270,
+      "num": 232773,
+      "word": "中国足协球员自荐系统上线",
+      "onboard_time": 1740801018,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 38509,
+      "num": 352737,
+      "word": "罗永浩登上夸克还债榜",
+      "onboard_time": 1740804677,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 37144,
       "num": 108426,
       "word": "偶遇王楚钦笑容藏不住了",
@@ -1449,14 +1513,6 @@
       "onboard_time": 1740792557,
       "rank": 44,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 36893,
-      "num": 138199,
-      "word": "中国足协球员自荐系统上线",
-      "onboard_time": 1740801018,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 35743,
@@ -1481,14 +1537,6 @@
       "onboard_time": 1740769512,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28548,
-      "num": 282690,
-      "word": "罗永浩登上夸克还债榜",
-      "onboard_time": 1740804677,
-      "rank": 19,
-      "category": "互联网"
     },
     {
       "raw_hot": 28329,

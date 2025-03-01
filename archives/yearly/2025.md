@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/03/01 13:21:36
+本榜单时间：2025/01/01 00:26:38 ~ 2025/03/01 13:38:22
 </p>
 </blockquote>
 <p>
@@ -131,6 +131,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%85%B0%E6%B1%AA%E5%B0%8F%E8%8F%B2%E6%8A%96%E9%9F%B3%E6%97%A0%E9%99%90%E6%9C%9F%E5%B0%81%E7%A6%81%23" target="weibo">
 张兰汪小菲抖音无限期封禁（热度：14397354）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B9%E5%A4%A7%E5%90%8C%E5%8E%BB%E4%B8%96%23" target="weibo">
+方大同去世（热度：13649599）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ TikTok停止在美服务（热度：2463156）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%BD%93%E5%BD%92%23" target="weibo">
 台湾当归（热度：2404159）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E4%BA%BA%E4%BC%9A%E5%9C%A835%E5%B2%81%E7%AA%81%E7%84%B6%E4%B8%A7%E5%A4%B1%E5%B7%A5%E4%BD%9C%E8%83%BD%E5%8A%9B%23" target="weibo">
-没人会在35岁突然丧失工作能力（热度：2403547）
 </a>
 </li>
 
