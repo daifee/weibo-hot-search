@@ -1,0 +1,410 @@
+{
+  "runTime": 1740825569943,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6009997,
+        "num": 6009997,
+        "word": "方大同去世",
+        "onboard_time": 1740807141,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1607612,
+        "num": 1607612,
+        "word": "什么是爆肺",
+        "onboard_time": 1740812372,
+        "rank": 1,
+        "category": "健康医疗,艺人"
+      },
+      {
+        "raw_hot": 99382,
+        "num": 1189933,
+        "word": "二月二民俗有哪些",
+        "onboard_time": 1740804438,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1808545,
+        "num": 1175514,
+        "word": "邓紫棋难以置信",
+        "onboard_time": 1740821423,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 902713,
+        "num": 902713,
+        "word": "爆辣曹氏",
+        "onboard_time": 1740819322,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 540072,
+        "num": 540072,
+        "word": "女子炒黄金被暴涨的利润吓得报警",
+        "onboard_time": 1740815906,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1397599,
+        "num": 532503,
+        "word": "小S悼念方大同",
+        "onboard_time": 1740823704,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 510580,
+        "num": 510580,
+        "word": "蔡明因常年不吃早饭导致胆摘除",
+        "onboard_time": 1740818543,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301182,
+        "num": 492421,
+        "word": "美国记者第一次见白宫里吵架",
+        "onboard_time": 1740785175,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 200491,
+        "num": 481301,
+        "word": "二月二敖光抬头",
+        "onboard_time": 1740824062,
+        "rank": 9,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 477862,
+        "num": 477862,
+        "word": "薛凯琪22号在音乐节哭了",
+        "onboard_time": 1740811715,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 331537,
+        "num": 331537,
+        "word": "才二十三",
+        "onboard_time": 1740808433,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 293775,
+        "num": 293775,
+        "word": "秦彻",
+        "onboard_time": 1740823402,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 256885,
+        "num": 256885,
+        "word": "爱你直播",
+        "onboard_time": 1740823222,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219296,
+        "num": 219296,
+        "word": "张学友回应欠债传闻",
+        "onboard_time": 1740823342,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198191,
+        "num": 198191,
+        "word": "陈梦谈休息耻辱",
+        "onboard_time": 1740819744,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195042,
+        "num": 195042,
+        "word": "乌克兰被端上了餐桌",
+        "onboard_time": 1740802218,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 191852,
+        "num": 191852,
+        "word": "杭州房价要开始涨了吗",
+        "onboard_time": 1740818901,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177228,
+        "num": 177228,
+        "word": "白宫这场骂战震惊世界",
+        "onboard_time": 1740819922,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151224,
+        "num": 176887,
+        "word": "广东今年首场暴雨来了",
+        "onboard_time": 1740824123,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269580,
+        "num": 174129,
+        "word": "在两性关系中要警惕落入信息差陷阱",
+        "onboard_time": 1740823163,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200907,
+        "num": 171058,
+        "word": "第一次见余承恩说这么多话",
+        "onboard_time": 1740822562,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268094,
+        "num": 169064,
+        "word": "女子1万元转错人被扣3000感谢费",
+        "onboard_time": 1740818062,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124550,
+        "num": 166145,
+        "word": "北京警方紧急提醒",
+        "onboard_time": 1740825263,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197716,
+        "num": 161488,
+        "word": "有网友凌晨蹲点退税退了5万多",
+        "onboard_time": 1740816325,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161081,
+        "num": 161081,
+        "word": "卢靖姗父母爱情原件正确",
+        "onboard_time": 1740824302,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160485,
+        "num": 160485,
+        "word": "银行错给客户存81万亿美元",
+        "onboard_time": 1740813329,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 152398,
+        "num": 152398,
+        "word": "似锦开播",
+        "onboard_time": 1740823222,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150675,
+        "num": 150675,
+        "word": "男子为办退休要挖512地震废墟",
+        "onboard_time": 1740802698,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146987,
+        "num": 146987,
+        "word": "滤镜",
+        "onboard_time": 1740824661,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130709,
+        "num": 130709,
+        "word": "一路繁花下期刘晓庆首度回应前男友",
+        "onboard_time": 1740825263,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128694,
+        "num": 128694,
+        "word": "我要退订这个2025",
+        "onboard_time": 1740814467,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122100,
+        "num": 122100,
+        "word": "九寨沟震后修复用了糯米汁",
+        "onboard_time": 1740816264,
+        "rank": 32,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 120689,
+        "num": 120689,
+        "word": "王铮亮这两下够白鹿考研了",
+        "onboard_time": 1740804319,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20867,
+        "num": 120372,
+        "word": "JDG确定第二轮B组",
+        "onboard_time": 1740816565,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120061,
+        "num": 120061,
+        "word": "孟子义早期生图",
+        "onboard_time": 1740813508,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 119492,
+        "num": 119492,
+        "word": "20岁高颜值自闭症男生妈妈发声",
+        "onboard_time": 1740825142,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119416,
+        "num": 119416,
+        "word": "似锦",
+        "onboard_time": 1740823041,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118673,
+        "num": 118673,
+        "word": "中山美穗骨灰被曝仍放出租屋中",
+        "onboard_time": 1740821844,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117772,
+        "num": 117772,
+        "word": "为什么高瘦男性容易得气胸",
+        "onboard_time": 1740811118,
+        "rank": 39,
+        "category": "健康医疗,艺人"
+      },
+      {
+        "raw_hot": 116781,
+        "num": 116781,
+        "word": "哪吒2票房142亿",
+        "onboard_time": 1740807763,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107609,
+        "num": 116743,
+        "word": "刘晓庆在密室里疯狂摸鱼",
+        "onboard_time": 1740824542,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102288,
+        "num": 116741,
+        "word": "全运会乒乓球体测",
+        "onboard_time": 1740820283,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92908,
+        "num": 116670,
+        "word": "退税金额原来是这样算出来的",
+        "onboard_time": 1740816924,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89773,
+        "num": 116652,
+        "word": "祁煜",
+        "onboard_time": 1740820462,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 88310,
+        "num": 116606,
+        "word": "初步举证 伟大的作品",
+        "onboard_time": 1740825502,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 87469,
+        "num": 116566,
+        "word": "费曼一觉醒来以为穿越到愚人节",
+        "onboard_time": 1740819621,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87251,
+        "num": 116542,
+        "word": "爱人如养花含金量还在上升",
+        "onboard_time": 1740825502,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85401,
+        "num": 116484,
+        "word": "王俊凯宣传景甜新剧似锦",
+        "onboard_time": 1740820944,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84229,
+        "num": 116456,
+        "word": "上海一独居老人猝死430万遗产无人继承",
+        "onboard_time": 1740815725,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#塑造经济发展新动能新优势#"
+    }
+  }
+}
