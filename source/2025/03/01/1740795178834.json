@@ -1,0 +1,410 @@
+{
+  "runTime": 1740795178834,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1219192,
+        "num": 1219192,
+        "word": "退税",
+        "onboard_time": 1740788117,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 667856,
+        "num": 667856,
+        "word": "吒儿龙抬头这天冲上全球第七",
+        "onboard_time": 1740762256,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 93226,
+        "num": 617712,
+        "word": "外国人上太空要先学中文了",
+        "onboard_time": 1740750801,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 614362,
+        "num": 614362,
+        "word": "居民拆房挖出一条40斤重娃娃鱼",
+        "onboard_time": 1740789617,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 390125,
+        "num": 390125,
+        "word": "敖光版龙抬头霸气送祝福",
+        "onboard_time": 1740788177,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1200512,
+        "num": 389082,
+        "word": "美国记者第一次见白宫里吵架",
+        "onboard_time": 1740785175,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 386765,
+        "num": 386765,
+        "word": "单依纯没打封闭",
+        "onboard_time": 1740791419,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279759,
+        "num": 279759,
+        "word": "日本米价暴涨却怪中国",
+        "onboard_time": 1740751221,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 246662,
+        "num": 246662,
+        "word": "3月第一个好消息是吒儿给的",
+        "onboard_time": 1740769512,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148547,
+        "num": 246599,
+        "word": "全国政协会议议程来了",
+        "onboard_time": 1740794419,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 750578,
+        "num": 245176,
+        "word": "特朗普没对泽连斯基动手是奇迹",
+        "onboard_time": 1740788417,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 359739,
+        "num": 244755,
+        "word": "邓超说拍个视频发给热巴",
+        "onboard_time": 1740785296,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 469122,
+        "num": 243166,
+        "word": "特朗普称泽连斯基何时想和平了再来",
+        "onboard_time": 1740787876,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 243028,
+        "num": 243028,
+        "word": "二月二龙抬头",
+        "onboard_time": 1740790877,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 433405,
+        "num": 223471,
+        "word": "美乌总统争吵乌大使在旁直掐眉心",
+        "onboard_time": 1740788358,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 192583,
+        "num": 192583,
+        "word": "多名环卫工对着公厕跪拜",
+        "onboard_time": 1740774131,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351609,
+        "num": 192348,
+        "word": "美国终止乌克兰供电恢复计划",
+        "onboard_time": 1740786497,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 178365,
+        "num": 178365,
+        "word": "爱你",
+        "onboard_time": 1740795076,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 348267,
+        "num": 177668,
+        "word": "美乌总统会晤多次发生争执",
+        "onboard_time": 1740783793,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 176012,
+        "num": 176012,
+        "word": "你应该退税还是补税",
+        "onboard_time": 1740751043,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250258,
+        "num": 174570,
+        "word": "蒋欣自曝体重112斤",
+        "onboard_time": 1740784334,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200778,
+        "num": 173526,
+        "word": "二月二有三个风俗",
+        "onboard_time": 1740785175,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176086,
+        "num": 171875,
+        "word": "特朗普对恢复乌矿产交易不感兴趣了",
+        "onboard_time": 1740791899,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 166654,
+        "num": 166654,
+        "word": "许凯上半身身材",
+        "onboard_time": 1740787758,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162028,
+        "num": 162028,
+        "word": "韩安冉爸爸支持女儿起诉妈妈",
+        "onboard_time": 1740795137,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 156086,
+        "num": 156086,
+        "word": "王一博抱过的小甲长大啦",
+        "onboard_time": 1740785355,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153148,
+        "num": 153148,
+        "word": "晴川",
+        "onboard_time": 1740747979,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148884,
+        "num": 148884,
+        "word": "长沙富裕家庭达1.74万户",
+        "onboard_time": 1740791419,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136926,
+        "num": 136926,
+        "word": "张艺兴说成员们都年过半六十",
+        "onboard_time": 1740758238,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135226,
+        "num": 135226,
+        "word": "8岁脑癌男孩吆喝叫卖为妈妈揽客",
+        "onboard_time": 1740791419,
+        "rank": 29,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 193188,
+        "num": 135216,
+        "word": "个税汇算今起办理",
+        "onboard_time": 1740795137,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 135147,
+        "num": 135147,
+        "word": "欧洲多国领导人表示支持泽连斯基",
+        "onboard_time": 1740791658,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128315,
+        "num": 128315,
+        "word": "大国重器带你感受硬核龙抬头",
+        "onboard_time": 1740790577,
+        "rank": 32,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 128117,
+        "num": 128117,
+        "word": "2025活力中国",
+        "onboard_time": 1740793457,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128062,
+        "num": 128062,
+        "word": "中山美穗与母亲关系疏远",
+        "onboard_time": 1740793037,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125347,
+        "num": 125347,
+        "word": "檀健次吃内脏哭戏是现挂",
+        "onboard_time": 1740794837,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121819,
+        "num": 121819,
+        "word": "尊界报案",
+        "onboard_time": 1740791238,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 118267,
+        "num": 118267,
+        "word": "脑综把清华脑王整破防了",
+        "onboard_time": 1740793817,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118228,
+        "num": 118228,
+        "word": "小盐巴手机壳",
+        "onboard_time": 1740748640,
+        "rank": 38,
+        "category": "时尚,网红"
+      },
+      {
+        "raw_hot": 111657,
+        "num": 111657,
+        "word": "姐妹俩患不食人间烟火罕见病",
+        "onboard_time": 1740747858,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111521,
+        "num": 111521,
+        "word": "七星连珠 穿越时空的爱恋",
+        "onboard_time": 1740772930,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110709,
+        "num": 110709,
+        "word": "网易云音乐发放故障补偿",
+        "onboard_time": 1740789498,
+        "rank": 41,
+        "category": "互联网,音乐"
+      },
+      {
+        "raw_hot": 106933,
+        "num": 106933,
+        "word": "宁波4.1万家庭资产超千万元",
+        "onboard_time": 1740795137,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105685,
+        "num": 105685,
+        "word": "刘畊宏谈流量下降",
+        "onboard_time": 1740779591,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105316,
+        "num": 105316,
+        "word": "吴敬平评价18岁的王曼昱",
+        "onboard_time": 1740790637,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102386,
+        "num": 102386,
+        "word": "死刑犯行刑前见亲属不得交流案情",
+        "onboard_time": 1740752182,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101200,
+        "num": 101200,
+        "word": "三月第1天龙抬头",
+        "onboard_time": 1740784274,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100689,
+        "num": 100689,
+        "word": "古乐风华录",
+        "onboard_time": 1740794238,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93069,
+        "num": 93069,
+        "word": "文化中国行打卡龙抬头",
+        "onboard_time": 1740785056,
+        "rank": 48,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 91222,
+        "num": 91788,
+        "word": "马嘉祺 金色旷野",
+        "onboard_time": 1740793817,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}
