@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1740860584475,
+  "endTime": 1740861391931,
   "band_list": [
     {
       "raw_hot": 1119656,
@@ -483,6 +483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 39414,
+      "num": 39414,
+      "word": "方大同经纪人谈后事相关处理",
+      "onboard_time": 1740860710,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 37660,
       "num": 118042,
       "word": "3岁吒儿原来是加法高手",
@@ -587,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 17593,
+      "num": 25385,
+      "word": "张泽禹带我们重回梦想的夏天",
+      "onboard_time": 1740860710,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 17211,
       "num": 142891,
       "word": "这个定海神器有多了不起",
@@ -603,6 +619,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15096,
+      "num": 25377,
+      "word": "檀健次醉酒戏很有生活了",
+      "onboard_time": 1740860231,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 14665,
+      "num": 25375,
+      "word": "你好星期六下期有虞书欣林一",
+      "onboard_time": 1740860710,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 12377,
       "num": 37066,
       "word": "中东部将现隔天如换季式降温",
@@ -611,20 +643,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 11521,
+      "num": 26977,
+      "word": "2025开年看活力中国",
+      "onboard_time": 1740860171,
+      "rank": 37,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 11481,
       "num": 45916,
       "word": "这些地方可能出现天雷滚滚",
       "onboard_time": 1740857292,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10861,
-      "num": 26977,
-      "word": "2025开年看活力中国",
-      "onboard_time": 1740860171,
-      "rank": 37,
-      "category": "正能量"
     },
     {
       "raw_hot": 9945,
