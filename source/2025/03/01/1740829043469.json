@@ -1,0 +1,410 @@
+{
+  "runTime": 1740829043469,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1320986,
+        "num": 1320986,
+        "word": "方大同留下最后的话",
+        "onboard_time": 1740828622,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1249110,
+        "num": 1249110,
+        "word": "北京警方紧急提醒",
+        "onboard_time": 1740825263,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67810,
+        "num": 1215770,
+        "word": "春龙抬首好运当头",
+        "onboard_time": 1740827423,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1206258,
+        "num": 1206258,
+        "word": "什么是爆肺",
+        "onboard_time": 1740812372,
+        "rank": 3,
+        "category": "健康医疗,艺人"
+      },
+      {
+        "raw_hot": 727272,
+        "num": 727272,
+        "word": "20岁高颜值自闭症男生妈妈发声",
+        "onboard_time": 1740825142,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 555097,
+        "num": 555097,
+        "word": "爆辣曹氏",
+        "onboard_time": 1740819322,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 3233175,
+        "num": 530957,
+        "word": "薛凯琪全平台换封面",
+        "onboard_time": 1740826040,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 505493,
+        "num": 505493,
+        "word": "女子炒黄金被暴涨的利润吓得报警",
+        "onboard_time": 1740815906,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328735,
+        "num": 328735,
+        "word": "张学友回应欠债传闻",
+        "onboard_time": 1740823342,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288123,
+        "num": 317655,
+        "word": "泽连斯基正飞往伦敦",
+        "onboard_time": 1740827601,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 940945,
+        "num": 317015,
+        "word": "邓紫棋难以置信",
+        "onboard_time": 1740821423,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 3215569,
+        "num": 316842,
+        "word": "方大同去世",
+        "onboard_time": 1740807141,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314569,
+        "num": 314569,
+        "word": "蔡明因常年不吃早饭导致胆摘除",
+        "onboard_time": 1740818543,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312770,
+        "num": 312770,
+        "word": "才二十三",
+        "onboard_time": 1740808433,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 257334,
+        "num": 257334,
+        "word": "白宫这场骂战震惊世界",
+        "onboard_time": 1740819922,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 291323,
+        "num": 245408,
+        "word": "景甜人缘",
+        "onboard_time": 1740826281,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297214,
+        "num": 237788,
+        "word": "1.88元考试神器已售60万件",
+        "onboard_time": 1740827782,
+        "rank": 16,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 229802,
+        "num": 229802,
+        "word": "薛凯琪22号在音乐节哭了",
+        "onboard_time": 1740811715,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 228546,
+        "num": 228546,
+        "word": "肖战与ELLE主编同框热聊",
+        "onboard_time": 1740827961,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 53267,
+        "num": 220254,
+        "word": "夸克没有接入Deepseek选择自研",
+        "onboard_time": 1740827064,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 268151,
+        "num": 220124,
+        "word": "女子1万元转错人被扣3000感谢费",
+        "onboard_time": 1740818062,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219458,
+        "num": 219458,
+        "word": "美国记者第一次见白宫里吵架",
+        "onboard_time": 1740785175,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 209365,
+        "num": 209365,
+        "word": "二月二敖光抬头",
+        "onboard_time": 1740824062,
+        "rank": 22,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 203286,
+        "num": 203286,
+        "word": "你私吞我聘礼我明抢你家产",
+        "onboard_time": 1740828322,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57923,
+        "num": 202790,
+        "word": "KSG对战DRG",
+        "onboard_time": 1740828142,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 77379,
+        "num": 202612,
+        "word": "骨折价火车票被年轻人抢疯了",
+        "onboard_time": 1740827722,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202552,
+        "num": 202552,
+        "word": "白敬亭丁程鑫还原旋风少女名场面",
+        "onboard_time": 1740825681,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189195,
+        "num": 189195,
+        "word": "秦彻",
+        "onboard_time": 1740823402,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183198,
+        "num": 183198,
+        "word": "哪吒2冲上143亿",
+        "onboard_time": 1740828382,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 181231,
+        "num": 181231,
+        "word": "鬼灭之刃",
+        "onboard_time": 1740826943,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 180947,
+        "num": 180947,
+        "word": "有网友凌晨蹲点退税退了5万多",
+        "onboard_time": 1740816325,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179229,
+        "num": 179229,
+        "word": "簪星",
+        "onboard_time": 1740827662,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159209,
+        "num": 159209,
+        "word": "教师资格证可享个税扣除",
+        "onboard_time": 1740826642,
+        "rank": 32,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 159152,
+        "num": 159152,
+        "word": "在两性关系中要警惕落入信息差陷阱",
+        "onboard_time": 1740823163,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157005,
+        "num": 157005,
+        "word": "广东今年首场暴雨来了",
+        "onboard_time": 1740824123,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152948,
+        "num": 152948,
+        "word": "超9成肠癌由肠息肉发展而来",
+        "onboard_time": 1740824004,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150518,
+        "num": 150518,
+        "word": "周深拉斯维加斯唱好运来",
+        "onboard_time": 1740827064,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 24088,
+        "num": 148821,
+        "word": "问夸克如何5千块穷游欧洲",
+        "onboard_time": 1740827122,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 148657,
+        "num": 148657,
+        "word": "爱你直播",
+        "onboard_time": 1740823222,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144411,
+        "num": 144411,
+        "word": "特朗普的鸿门宴泽连斯基一口没吃",
+        "onboard_time": 1740826281,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144161,
+        "num": 144161,
+        "word": "第一次见余承恩说这么多话",
+        "onboard_time": 1740822562,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134758,
+        "num": 134758,
+        "word": "似锦开播",
+        "onboard_time": 1740823222,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127713,
+        "num": 127713,
+        "word": "打标卫生巾销量是普通卫生巾四倍",
+        "onboard_time": 1740828443,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125956,
+        "num": 125956,
+        "word": "银行错给客户存81万亿美元",
+        "onboard_time": 1740813329,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 119127,
+        "num": 119127,
+        "word": "LPL",
+        "onboard_time": 1740827662,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118599,
+        "num": 118599,
+        "word": "打标卫生巾销售额暴增超十倍",
+        "onboard_time": 1740827543,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116128,
+        "num": 116128,
+        "word": "翟潇闻清唱情深深雨蒙蒙",
+        "onboard_time": 1740828563,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115327,
+        "num": 115327,
+        "word": "中山美穗骨灰被曝仍放出租屋中",
+        "onboard_time": 1740821844,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114225,
+        "num": 114225,
+        "word": "你好星期六",
+        "onboard_time": 1740828981,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112467,
+        "num": 112467,
+        "word": "上海一独居老人猝死430万遗产无人继承",
+        "onboard_time": 1740815725,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局第十九次集体学习#"
+    }
+  }
+}
