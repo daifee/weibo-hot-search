@@ -1,0 +1,410 @@
+{
+  "runTime": 1740833729495,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1390698,
+        "num": 1390698,
+        "word": "什么是爆肺",
+        "onboard_time": 1740812372,
+        "rank": 0,
+        "category": "健康医疗,艺人"
+      },
+      {
+        "raw_hot": 1044214,
+        "num": 1044214,
+        "word": "1.88元考试神器已售60万件",
+        "onboard_time": 1740827782,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 63883,
+        "num": 853479,
+        "word": "春龙抬首好运当头",
+        "onboard_time": 1740827423,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 723165,
+        "num": 723165,
+        "word": "张馨予想跟何捷绑爱情锁",
+        "onboard_time": 1740830483,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 580380,
+        "num": 580380,
+        "word": "哪吒2冲上143亿",
+        "onboard_time": 1740828382,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 610273,
+        "num": 541876,
+        "word": "泽连斯基抵达英国",
+        "onboard_time": 1740830003,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 485363,
+        "num": 485363,
+        "word": "全员加速中",
+        "onboard_time": 1740831261,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 427588,
+        "num": 427588,
+        "word": "女子炒黄金被暴涨的利润吓得报警",
+        "onboard_time": 1740815906,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389632,
+        "num": 389632,
+        "word": "张晚意 古偶",
+        "onboard_time": 1740829703,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 378319,
+        "num": 378319,
+        "word": "20岁高颜值自闭症男生妈妈发声",
+        "onboard_time": 1740825142,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2051222,
+        "num": 375346,
+        "word": "方大同去世",
+        "onboard_time": 1740807141,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 813927,
+        "num": 370383,
+        "word": "赵露思直播",
+        "onboard_time": 1740832522,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360643,
+        "num": 360643,
+        "word": "一个没准备短袖的人轻轻碎了",
+        "onboard_time": 1740829463,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345226,
+        "num": 345226,
+        "word": "爆辣曹氏",
+        "onboard_time": 1740819322,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 328603,
+        "num": 328603,
+        "word": "白宫这场骂战震惊世界",
+        "onboard_time": 1740819922,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1935248,
+        "num": 326123,
+        "word": "薛凯琪全平台换封面",
+        "onboard_time": 1740826040,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 633445,
+        "num": 323736,
+        "word": "方大同去世陶晶莹全家都哭了",
+        "onboard_time": 1740831504,
+        "rank": 16,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 378452,
+        "num": 320545,
+        "word": "邓紫棋难以置信",
+        "onboard_time": 1740821423,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337654,
+        "num": 316521,
+        "word": "多位明星曾患气胸",
+        "onboard_time": 1740831623,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198465,
+        "num": 310773,
+        "word": "高圆圆看秀生图妈妈级别",
+        "onboard_time": 1740833363,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1471639,
+        "num": 307625,
+        "word": "方大同留下最后的话",
+        "onboard_time": 1740828622,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350330,
+        "num": 305423,
+        "word": "这类常见小票可能影响生殖发育和致癌",
+        "onboard_time": 1740831861,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 302321,
+        "num": 302321,
+        "word": "TES晋级全球先锋赛",
+        "onboard_time": 1740833424,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 287158,
+        "num": 287158,
+        "word": "北京警方紧急提醒",
+        "onboard_time": 1740825263,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63077,
+        "num": 270568,
+        "word": "LPL第一赛段奖杯",
+        "onboard_time": 1740833305,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 262650,
+        "num": 262650,
+        "word": "景甜人缘",
+        "onboard_time": 1740826281,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235779,
+        "num": 235779,
+        "word": "泽连斯基离开美国留一串谢谢",
+        "onboard_time": 1740831381,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 233623,
+        "num": 233623,
+        "word": "才二十三",
+        "onboard_time": 1740808433,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 229004,
+        "num": 229004,
+        "word": "张凌赫戴钻戒一秒钟八百个动作",
+        "onboard_time": 1740832163,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74394,
+        "num": 220744,
+        "word": "商家公然展示考试神器如何作弊",
+        "onboard_time": 1740833484,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218178,
+        "num": 218178,
+        "word": "女子1万元转错人被扣3000感谢费",
+        "onboard_time": 1740818062,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184675,
+        "num": 184675,
+        "word": "EDG",
+        "onboard_time": 1740832764,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 184455,
+        "num": 184455,
+        "word": "长期吃素或会导致抵抗力下降",
+        "onboard_time": 1740830722,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 180567,
+        "num": 180567,
+        "word": "用一张抬头照打卡龙抬头",
+        "onboard_time": 1740832642,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170483,
+        "num": 170483,
+        "word": "超9成肠癌由肠息肉发展而来",
+        "onboard_time": 1740824004,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 167078,
+        "num": 167078,
+        "word": "深圳一房东退租时拆下窗户验收卫生",
+        "onboard_time": 1740833125,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163103,
+        "num": 163103,
+        "word": "陈楚生唱跳",
+        "onboard_time": 1740831802,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153444,
+        "num": 153444,
+        "word": "广东亿万富翁家庭达到17100户",
+        "onboard_time": 1740830722,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29196,
+        "num": 153014,
+        "word": "夸克Al已成功进入tony圈",
+        "onboard_time": 1740832583,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 152646,
+        "num": 152646,
+        "word": "马苏演技",
+        "onboard_time": 1740832163,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152119,
+        "num": 152119,
+        "word": "蔡明因常年不吃早饭导致胆摘除",
+        "onboard_time": 1740818543,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150495,
+        "num": 150495,
+        "word": "二月二敖光抬头",
+        "onboard_time": 1740824062,
+        "rank": 41,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 146322,
+        "num": 146322,
+        "word": "薛凯琪22号在音乐节哭了",
+        "onboard_time": 1740811715,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139879,
+        "num": 139879,
+        "word": "长沙地铁把女生心事投屏了",
+        "onboard_time": 1740831504,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138865,
+        "num": 138865,
+        "word": "爱你的编剧是真上过班",
+        "onboard_time": 1740832283,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130073,
+        "num": 130073,
+        "word": "杨幂包场似锦",
+        "onboard_time": 1740833244,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129392,
+        "num": 129392,
+        "word": "教师资格证可享个税扣除",
+        "onboard_time": 1740826642,
+        "rank": 46,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 123084,
+        "num": 123084,
+        "word": "在两性关系中要警惕落入信息差陷阱",
+        "onboard_time": 1740823163,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109518,
+        "num": 109518,
+        "word": "有网友凌晨蹲点退税退了5万多",
+        "onboard_time": 1740816325,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108873,
+        "num": 108873,
+        "word": "似锦",
+        "onboard_time": 1740823041,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局第十九次集体学习#"
+    }
+  }
+}

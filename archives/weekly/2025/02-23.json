@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740832840027,
+  "endTime": 1740833729495,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1451,20 +1451,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1044214,
+      "num": 1044214,
+      "word": "1.88元考试神器已售60万件",
+      "onboard_time": 1740827782,
+      "rank": 39,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1043134,
       "num": 408963,
       "word": "总算见识到刘亦菲的高颅顶了",
       "onboard_time": 1740397819,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1041451,
-      "num": 1041451,
-      "word": "1.88元考试神器已售60万件",
-      "onboard_time": 1740827782,
-      "rank": 39,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 1038378,
@@ -2131,6 +2131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 813927,
+      "num": 370383,
+      "word": "赵露思直播",
+      "onboard_time": 1740832522,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 812791,
       "num": 812791,
       "word": "樊振东巴奥挫伤了张本智和的士气",
@@ -2521,6 +2529,14 @@
       "onboard_time": 1740387263,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 723165,
+      "num": 723165,
+      "word": "张馨予想跟何捷绑爱情锁",
+      "onboard_time": 1740830483,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 722528,
@@ -3123,6 +3139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 633445,
+      "num": 374578,
+      "word": "方大同去世陶晶莹全家都哭了",
+      "onboard_time": 1740831504,
+      "rank": 11,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 632421,
       "num": 632421,
       "word": "迪丽热巴出发长沙录开推",
@@ -3184,14 +3208,6 @@
       "word": "韩安冉向薛小婉道歉",
       "onboard_time": 1740631220,
       "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 626941,
-      "num": 626941,
-      "word": "张馨予想跟何捷绑爱情锁",
-      "onboard_time": 1740830483,
-      "rank": 3,
       "category": "艺人"
     },
     {
@@ -3281,6 +3297,14 @@
       "onboard_time": 1740555919,
       "rank": 16,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 610273,
+      "num": 541876,
+      "word": "泽连斯基抵达英国",
+      "onboard_time": 1740830003,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 608607,
@@ -3497,6 +3521,14 @@
       "onboard_time": 1740288439,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 580380,
+      "num": 580380,
+      "word": "哪吒2冲上143亿",
+      "onboard_time": 1740828382,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 579514,
@@ -3809,14 +3841,6 @@
       "onboard_time": 1740272478,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 540020,
-      "num": 540020,
-      "word": "哪吒2冲上143亿",
-      "onboard_time": 1740828382,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 539007,
@@ -4155,14 +4179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 506817,
-      "num": 506817,
-      "word": "泽连斯基抵达英国",
-      "onboard_time": 1740830003,
-      "rank": 5,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 504592,
       "num": 504592,
       "word": "金价为何大跳水",
@@ -4329,6 +4345,14 @@
       "onboard_time": 1740533119,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 485363,
+      "num": 485363,
+      "word": "全员加速中",
+      "onboard_time": 1740831261,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 484933,
@@ -4801,14 +4825,6 @@
       "onboard_time": 1740812490,
       "rank": 20,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 445067,
-      "num": 374578,
-      "word": "方大同去世陶晶莹全家都哭了",
-      "onboard_time": 1740831504,
-      "rank": 11,
-      "category": "艺人,综艺"
     },
     {
       "raw_hot": 444767,
@@ -5843,12 +5859,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 349785,
-      "num": 349785,
-      "word": "全员加速中",
-      "onboard_time": 1740831261,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 350330,
+      "num": 305423,
+      "word": "这类常见小票可能影响生殖发育和致癌",
+      "onboard_time": 1740831861,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 349615,
@@ -5987,6 +6003,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 337654,
+      "num": 316521,
+      "word": "多位明星曾患气胸",
+      "onboard_time": 1740831623,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 335114,
       "num": 411418,
       "word": "吴越辟谣与赵文瑄恋情",
@@ -6089,6 +6113,14 @@
       "onboard_time": 1740380959,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 328603,
+      "num": 328603,
+      "word": "白宫这场骂战震惊世界",
+      "onboard_time": 1740819922,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 328372,
@@ -6491,14 +6523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 306640,
-      "num": 306640,
-      "word": "多位明星曾患气胸",
-      "onboard_time": 1740831623,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 306121,
       "num": 356778,
       "word": "肖战米兰到达",
@@ -6571,20 +6595,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 302822,
-      "num": 302822,
-      "word": "白宫这场骂战震惊世界",
-      "onboard_time": 1740819922,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 302460,
       "num": 302460,
       "word": "林高远说我们下个赛场见",
       "onboard_time": 1740471861,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 302321,
+      "num": 302321,
+      "word": "TES晋级全球先锋赛",
+      "onboard_time": 1740833424,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 302083,
@@ -7819,14 +7843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 247897,
-      "num": 247897,
-      "word": "这类常见小票可能影响生殖发育和致癌",
-      "onboard_time": 1740831861,
-      "rank": 24,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 247877,
       "num": 247877,
       "word": "于正发了晴川",
@@ -8307,6 +8323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 235779,
+      "num": 362246,
+      "word": "泽连斯基离开美国留一串谢谢",
+      "onboard_time": 1740831381,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 235323,
       "num": 168632,
       "word": "全红婵又变身带娃德华了",
@@ -8576,6 +8600,14 @@
       "word": "我是杨肸子我同意红房子加更",
       "onboard_time": 1740494901,
       "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 229004,
+      "num": 325425,
+      "word": "张凌赫戴钻戒一秒钟八百个动作",
+      "onboard_time": 1740832163,
+      "rank": 19,
       "category": "剧集"
     },
     {
@@ -9459,14 +9491,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 208246,
-      "num": 208246,
-      "word": "赵露思直播",
-      "onboard_time": 1740832522,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 208231,
       "num": 208231,
       "word": "父亲让俩儿子抓阄凭运气选房",
@@ -10097,6 +10121,14 @@
       "onboard_time": 1740385101,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198465,
+      "num": 310773,
+      "word": "高圆圆看秀生图妈妈级别",
+      "onboard_time": 1740833363,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 198450,
@@ -11099,14 +11131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 185653,
-      "num": 362246,
-      "word": "泽连斯基离开美国留一串谢谢",
-      "onboard_time": 1740831381,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 185631,
       "num": 251460,
       "word": "宋丛人设",
@@ -11211,6 +11235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184675,
+      "num": 184675,
+      "word": "EDG",
+      "onboard_time": 1740832764,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 184641,
       "num": 211704,
       "word": "闺蜜走后我活成了她的样子",
@@ -11233,6 +11265,14 @@
       "onboard_time": 1740725539,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184455,
+      "num": 184455,
+      "word": "长期吃素或会导致抵抗力下降",
+      "onboard_time": 1740830722,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 184402,
@@ -12371,6 +12411,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 170483,
+      "num": 170483,
+      "word": "超9成肠癌由肠息肉发展而来",
+      "onboard_time": 1740824004,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 170332,
       "num": 170332,
       "word": "粉丝帮爱豆找工作成功",
@@ -12712,6 +12760,14 @@
       "word": "体检无异常1年半后确诊癌症晚期",
       "onboard_time": 1740215421,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167078,
+      "num": 167078,
+      "word": "深圳一房东退租时拆下窗户验收卫生",
+      "onboard_time": 1740833125,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -13235,14 +13291,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 162224,
-      "num": 162224,
-      "word": "长期吃素或会导致抵抗力下降",
-      "onboard_time": 1740830722,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 162051,
       "num": 162051,
       "word": "老人坐轮椅穿马路被货车推行几百米",
@@ -13731,14 +13779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 157146,
-      "num": 166066,
-      "word": "超9成肠癌由肠息肉发展而来",
-      "onboard_time": 1740824004,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 157087,
       "num": 181675,
       "word": "钟楚曦走秀",
@@ -14073,6 +14113,14 @@
       "onboard_time": 1740747199,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 152646,
+      "num": 152646,
+      "word": "马苏演技",
+      "onboard_time": 1740832163,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 152571,
@@ -14899,14 +14947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143634,
-      "num": 143634,
-      "word": "马苏演技",
-      "onboard_time": 1740832163,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 143587,
       "num": 143587,
       "word": "周深悉尼演唱会购票排队人数破十万",
@@ -15563,14 +15603,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 135602,
-      "num": 325425,
-      "word": "张凌赫戴钻戒一秒钟八百个动作",
-      "onboard_time": 1740832163,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 135550,
       "num": 135550,
       "word": "HLE对战GEN",
@@ -16025,6 +16057,14 @@
       "onboard_time": 1740547639,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 130073,
+      "num": 130073,
+      "word": "杨幂包场似锦",
+      "onboard_time": 1740833244,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 130043,
@@ -17377,14 +17417,6 @@
       "onboard_time": 1740431710,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 110903,
-      "num": 110903,
-      "word": "EDG",
-      "onboard_time": 1740832764,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 110598,
@@ -19211,6 +19243,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 74394,
+      "num": 220744,
+      "word": "商家公然展示考试神器如何作弊",
+      "onboard_time": 1740833484,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74339,
       "num": 188569,
       "word": "深圳打造最好科技创新生态",
@@ -19729,6 +19769,14 @@
       "onboard_time": 1740728959,
       "rank": 36,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 63077,
+      "num": 270568,
+      "word": "LPL第一赛段奖杯",
+      "onboard_time": 1740833305,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 63005,
@@ -21563,6 +21611,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 29196,
+      "num": 153014,
+      "word": "夸克Al已成功进入tony圈",
+      "onboard_time": 1740832583,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 29154,
       "num": 193204,
       "word": "网约车司机接单只送密码箱果断报警",
@@ -22729,14 +22785,6 @@
       "onboard_time": 1740740421,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 14941,
-      "num": 112498,
-      "word": "夸克Al已成功进入tony圈",
-      "onboard_time": 1740832583,
-      "rank": 47,
-      "category": "互联网"
     },
     {
       "raw_hot": 14857,
