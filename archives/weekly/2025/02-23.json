@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740800826830,
+  "endTime": 1740803208829,
   "band_list": [
     {
       "raw_hot": 11010975,
@@ -1561,6 +1561,14 @@
       "onboard_time": 1740275599,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 941249,
+      "num": 1150599,
+      "word": "陈梦拿到了驾照和研究生毕业证",
+      "onboard_time": 1740800898,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 937669,
@@ -5259,6 +5267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 363869,
+      "num": 363869,
+      "word": "退税小法宝",
+      "onboard_time": 1740801199,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 363289,
       "num": 363289,
       "word": "黄山遭遇大雪多名游客在台阶滑倒",
@@ -6196,7 +6212,7 @@
     },
     {
       "raw_hot": 298320,
-      "num": 271054,
+      "num": 275142,
       "word": "3月狗屎运最旺的星座",
       "onboard_time": 1740798918,
       "rank": 20,
@@ -6241,6 +6257,14 @@
       "onboard_time": 1740461781,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 296135,
+      "num": 296135,
+      "word": "妈妈包书皮错写成自己名字",
+      "onboard_time": 1740801738,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 296081,
@@ -6443,6 +6467,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 287682,
+      "num": 287682,
+      "word": "白龙马上是马龙",
+      "onboard_time": 1740800299,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 286672,
       "num": 358693,
       "word": "特朗普说要把给乌克兰的钱要回来",
@@ -6641,6 +6673,14 @@
       "onboard_time": 1740709219,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 278004,
+      "num": 278004,
+      "word": "杨紫白鸽写真",
+      "onboard_time": 1740801137,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 277517,
@@ -7147,6 +7187,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 251771,
+      "num": 437983,
+      "word": "男子作AI换脸色情视频每分钟50元",
+      "onboard_time": 1740796577,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 251493,
       "num": 251493,
       "word": "妻子的浪漫旅行",
@@ -7200,14 +7248,6 @@
       "word": "蔡磊现已基本依赖眼控技术交流",
       "onboard_time": 1740716298,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 249789,
-      "num": 437983,
-      "word": "男子作AI换脸色情视频每分钟50元",
-      "onboard_time": 1740796577,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -8323,6 +8363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219008,
+      "num": 312394,
+      "word": "第五人格",
+      "onboard_time": 1740475821,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 218866,
       "num": 408883,
       "word": "25考研",
@@ -8473,14 +8521,6 @@
       "onboard_time": 1740660498,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 215652,
-      "num": 312394,
-      "word": "第五人格",
-      "onboard_time": 1740475821,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 215089,
@@ -9145,14 +9185,6 @@
       "onboard_time": 1740785175,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 201359,
-      "num": 201359,
-      "word": "白龙马上是马龙",
-      "onboard_time": 1740800299,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 201013,
@@ -9939,6 +9971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190205,
+      "num": 190205,
+      "word": "迪丽热巴三月的行程图",
+      "onboard_time": 1740799578,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190196,
       "num": 190196,
       "word": "第五人格入选2026亚运会电竞项目",
@@ -9969,6 +10009,14 @@
       "onboard_time": 1740291259,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189629,
+      "num": 246279,
+      "word": "十个勤天展开一天实体专辑",
+      "onboard_time": 1740546021,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 189578,
@@ -10523,6 +10571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 182847,
+      "num": 239704,
+      "word": "聂远两部剧承包央八黄金档",
+      "onboard_time": 1740802278,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182722,
       "num": 182722,
       "word": "宁艺卓高洁丝",
@@ -10995,6 +11051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 176372,
+      "num": 302667,
+      "word": "男子喝满月酒酒驾身亡家属索赔主办人",
+      "onboard_time": 1740799277,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176086,
       "num": 171875,
       "word": "特朗普对恢复乌矿产交易不感兴趣了",
@@ -11041,6 +11105,14 @@
       "onboard_time": 1740612015,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175780,
+      "num": 175780,
+      "word": "乌克兰被端上了餐桌",
+      "onboard_time": 1740802218,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 175748,
@@ -11097,14 +11169,6 @@
       "onboard_time": 1740754580,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 175457,
-      "num": 175457,
-      "word": "迪丽热巴三月的行程图",
-      "onboard_time": 1740799578,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 175356,
@@ -11200,6 +11264,14 @@
       "word": "农民工65万元工资被转移截留",
       "onboard_time": 1740566240,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174320,
+      "num": 174320,
+      "word": "一年一度多退少补来了",
+      "onboard_time": 1740800238,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -11371,6 +11443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171388,
+      "num": 235912,
+      "word": "赵丽颖美好的生活里",
+      "onboard_time": 1740799638,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171364,
       "num": 257388,
       "word": "山东泰山新赛季首球",
@@ -11395,12 +11475,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 170896,
-      "num": 170896,
-      "word": "赵丽颖美好的生活里",
-      "onboard_time": 1740799638,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 170707,
+      "num": 170707,
+      "word": "肖战VOGUE最佳街拍",
+      "onboard_time": 1740801798,
+      "rank": 36,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 170332,
@@ -11601,14 +11681,6 @@
       "onboard_time": 1740238521,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 168482,
-      "num": 168482,
-      "word": "十个勤天展开一天实体专辑",
-      "onboard_time": 1740546021,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 168405,
@@ -11969,6 +12041,14 @@
       "onboard_time": 1740722840,
       "rank": 40,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 164995,
+      "num": 164995,
+      "word": "白敬亭章若楠hi6剧宣好甜",
+      "onboard_time": 1740799518,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 164936,
@@ -12356,7 +12436,7 @@
     },
     {
       "raw_hot": 160730,
-      "num": 200363,
+      "num": 652078,
       "word": "2025活力中国",
       "onboard_time": 1740793457,
       "rank": 16,
@@ -12897,14 +12977,6 @@
       "onboard_time": 1740302239,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 154117,
-      "num": 154117,
-      "word": "一年一度多退少补来了",
-      "onboard_time": 1740800238,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 153915,
@@ -14011,6 +14083,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 140563,
+      "num": 140563,
+      "word": "JackeyLove说自己年龄大了",
+      "onboard_time": 1740801618,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 140487,
       "num": 140487,
       "word": "金钟仁cha了WATER",
@@ -14425,14 +14505,6 @@
       "onboard_time": 1740699075,
       "rank": 32,
       "category": "国际时政,国内时政"
-    },
-    {
-      "raw_hot": 135350,
-      "num": 135350,
-      "word": "男子喝满月酒酒驾身亡家属索赔主办人",
-      "onboard_time": 1740799277,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 135301,
@@ -15899,6 +15971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113275,
+      "num": 113275,
+      "word": "留几手吐槽芒果台瞧不起他",
+      "onboard_time": 1740803118,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113201,
       "num": 113201,
       "word": "王传君齐溪一起接女儿放学",
@@ -15939,6 +16019,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 112869,
+      "num": 112869,
+      "word": "特朗普与泽连斯基争吵的分歧点是什么",
+      "onboard_time": 1740802576,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 112824,
       "num": 251657,
       "word": "魏建军又给高阶智驾上强度了",
@@ -15961,14 +16049,6 @@
       "onboard_time": 1740800537,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 112486,
-      "num": 112486,
-      "word": "白敬亭章若楠hi6剧宣好甜",
-      "onboard_time": 1740799518,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 112445,
@@ -20131,6 +20211,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 27787,
+      "num": 358906,
+      "word": "家庭摄像头遭破解260元可永久观看",
+      "onboard_time": 1740802698,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27702,
       "num": 207896,
       "word": "医生表示高度白酒送服药物没必要",
@@ -20401,6 +20489,14 @@
       "onboard_time": 1740464898,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 24740,
+      "num": 287769,
+      "word": "男子为办退休要挖512地震废墟",
+      "onboard_time": 1740802698,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24641,
@@ -20715,6 +20811,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 20567,
+      "num": 170600,
+      "word": "猛龙裁掉PJ塔克",
+      "onboard_time": 1740800837,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 20331,
       "num": 142163,
       "word": "澳方心知肚明情况下对中方无理指责",
@@ -20769,6 +20873,14 @@
       "onboard_time": 1740679873,
       "rank": 19,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 19753,
+      "num": 248822,
+      "word": "邓超一开始以为是自己粉丝",
+      "onboard_time": 1740802998,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 19571,
