@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740842577958,
+  "endTime": 1740843466871,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -603,6 +603,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 481827,
+      "num": 481827,
+      "word": "魏大勋陈伟霆 老九门2",
+      "onboard_time": 1740840024,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 481799,
       "num": 481799,
       "word": "369",
@@ -689,14 +697,6 @@
       "onboard_time": 1740829463,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 429695,
-      "num": 359605,
-      "word": "魏大勋陈伟霆 老九门2",
-      "onboard_time": 1740840024,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 427641,
@@ -811,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 358136,
+      "num": 358136,
+      "word": "专家称可坚定买入黄金",
+      "onboard_time": 1740839244,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 357473,
       "num": 270261,
       "word": "美国终止乌克兰供电恢复计划",
@@ -825,14 +833,6 @@
       "onboard_time": 1740826281,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 354304,
-      "num": 354304,
-      "word": "专家称可坚定买入黄金",
-      "onboard_time": 1740839244,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 350330,
@@ -1585,6 +1585,14 @@
       "onboard_time": 1740835342,
       "rank": 43,
       "category": "剧集,综艺"
+    },
+    {
+      "raw_hot": 195422,
+      "num": 255328,
+      "word": "著名表演艺术家于洋逝世",
+      "onboard_time": 1740842543,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 195081,
@@ -2443,6 +2451,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 129379,
+      "num": 281253,
+      "word": "餐馆回应员工用炒菜锅洗拖把",
+      "onboard_time": 1740841523,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 128275,
       "num": 128275,
       "word": "LPL",
@@ -2587,6 +2603,14 @@
       "category": "互联网,音乐"
     },
     {
+      "raw_hot": 114535,
+      "num": 114535,
+      "word": "冯远征谈晋江式演技",
+      "onboard_time": 1740840863,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114500,
       "num": 132517,
       "word": "湖人战胜快船",
@@ -2619,28 +2643,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 112250,
-      "num": 112250,
-      "word": "冯远征谈晋江式演技",
-      "onboard_time": 1740840863,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 111226,
       "num": 111226,
       "word": "古乐风华录",
       "onboard_time": 1740794238,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 110433,
-      "num": 110433,
-      "word": "著名表演艺术家于洋逝世",
-      "onboard_time": 1740842543,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 109716,
@@ -2689,6 +2697,14 @@
       "onboard_time": 1740817945,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106267,
+      "num": 106267,
+      "word": "毛不易深圳演唱会",
+      "onboard_time": 1740842962,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 106216,
@@ -2795,6 +2811,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 99552,
+      "num": 181038,
+      "word": "3类人要警惕气胸",
+      "onboard_time": 1740842484,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 99546,
       "num": 99546,
       "word": "杨子远程指挥素人爸爸妈妈约会",
@@ -2809,14 +2833,6 @@
       "onboard_time": 1740815484,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 99119,
-      "num": 181038,
-      "word": "3类人要警惕气胸",
-      "onboard_time": 1740842484,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 99067,
@@ -2841,6 +2857,14 @@
       "onboard_time": 1740807265,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96964,
+      "num": 381750,
+      "word": "鞋垫打上量子两个字卖68元",
+      "onboard_time": 1740841464,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96960,
@@ -2960,6 +2984,14 @@
       "word": "樊振东为中国棒球队加油",
       "onboard_time": 1740819442,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 87650,
+      "num": 117322,
+      "word": "李家超樊振东同框",
+      "onboard_time": 1740842124,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -3099,14 +3131,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 68396,
-      "num": 281253,
-      "word": "餐馆回应员工用炒菜锅洗拖把",
-      "onboard_time": 1740841523,
-      "rank": 19,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 67913,
       "num": 67913,
       "word": "赵丽颖杨幂迪丽热巴杨紫2024商业价值明星",
@@ -3161,14 +3185,6 @@
       "onboard_time": 1740833305,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 62555,
-      "num": 381750,
-      "word": "鞋垫打上量子两个字卖68元",
-      "onboard_time": 1740841464,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 62472,

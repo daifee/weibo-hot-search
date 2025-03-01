@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740842577958,
+  "endTime": 1740843466871,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -4507,6 +4507,14 @@
       "category": "情感,剧集"
     },
     {
+      "raw_hot": 481827,
+      "num": 481827,
+      "word": "魏大勋陈伟霆 老九门2",
+      "onboard_time": 1740840024,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 481799,
       "num": 481799,
       "word": "369",
@@ -5089,14 +5097,6 @@
       "onboard_time": 1740668479,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 429695,
-      "num": 359605,
-      "word": "魏大勋陈伟霆 老九门2",
-      "onboard_time": 1740840024,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 429426,
@@ -5859,6 +5859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 358136,
+      "num": 358136,
+      "word": "专家称可坚定买入黄金",
+      "onboard_time": 1740839244,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 358029,
       "num": 358029,
       "word": "国企拟录用3名本科生名单被删",
@@ -5913,14 +5921,6 @@
       "onboard_time": 1740826281,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 354304,
-      "num": 354304,
-      "word": "专家称可坚定买入黄金",
-      "onboard_time": 1740839244,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 354174,
@@ -10553,6 +10553,14 @@
       "onboard_time": 1740591015,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 195422,
+      "num": 255328,
+      "word": "著名表演艺术家于洋逝世",
+      "onboard_time": 1740842543,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 195418,
@@ -16531,6 +16539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 129379,
+      "num": 281253,
+      "word": "餐馆回应员工用炒菜锅洗拖把",
+      "onboard_time": 1740841523,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 129378,
       "num": 468291,
       "word": "灌面汤呛妻案嫌疑人称喝酒失去神志",
@@ -17547,6 +17563,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 114535,
+      "num": 114535,
+      "word": "冯远征谈晋江式演技",
+      "onboard_time": 1740840863,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114500,
       "num": 132517,
       "word": "湖人战胜快船",
@@ -17707,14 +17731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112250,
-      "num": 112250,
-      "word": "冯远征谈晋江式演技",
-      "onboard_time": 1740840863,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 112229,
       "num": 112229,
       "word": "胡兵戴自己设计的珍珠挂饰",
@@ -17857,14 +17873,6 @@
       "onboard_time": 1740628339,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 110433,
-      "num": 110433,
-      "word": "著名表演艺术家于洋逝世",
-      "onboard_time": 1740842543,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 110400,
@@ -18105,6 +18113,14 @@
       "onboard_time": 1740817945,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106267,
+      "num": 106267,
+      "word": "毛不易深圳演唱会",
+      "onboard_time": 1740842962,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 106135,
@@ -18427,6 +18443,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 99552,
+      "num": 181038,
+      "word": "3类人要警惕气胸",
+      "onboard_time": 1740842484,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 99546,
       "num": 99546,
       "word": "杨子远程指挥素人爸爸妈妈约会",
@@ -18457,14 +18481,6 @@
       "onboard_time": 1740815484,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 99119,
-      "num": 181038,
-      "word": "3类人要警惕气胸",
-      "onboard_time": 1740842484,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 99033,
@@ -18577,6 +18593,14 @@
       "onboard_time": 1740629598,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 96964,
+      "num": 381750,
+      "word": "鞋垫打上量子两个字卖68元",
+      "onboard_time": 1740841464,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96960,
@@ -19024,6 +19048,14 @@
       "word": "樊振东为中国棒球队加油",
       "onboard_time": 1740819442,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 87650,
+      "num": 117322,
+      "word": "李家超樊振东同框",
+      "onboard_time": 1740842124,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -19907,14 +19939,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 68396,
-      "num": 281253,
-      "word": "餐馆回应员工用炒菜锅洗拖把",
-      "onboard_time": 1740841523,
-      "rank": 19,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 68048,
       "num": 159058,
       "word": "网售甄嬛传息肌丸已卖出1.1万单",
@@ -20281,14 +20305,6 @@
       "onboard_time": 1740589453,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 62555,
-      "num": 381750,
-      "word": "鞋垫打上量子两个字卖68元",
-      "onboard_time": 1740841464,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 62472,

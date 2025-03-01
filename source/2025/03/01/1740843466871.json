@@ -1,0 +1,410 @@
+{
+  "runTime": 1740843466871,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1654907,
+        "num": 1654907,
+        "word": "单依纯哽咽唱才二十三",
+        "onboard_time": 1740837324,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1070098,
+        "num": 1070098,
+        "word": "什么是爆肺",
+        "onboard_time": 1740812372,
+        "rank": 1,
+        "category": "健康医疗,艺人"
+      },
+      {
+        "raw_hot": 123730,
+        "num": 942449,
+        "word": "民营企业海外订单激增",
+        "onboard_time": 1740836544,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 891825,
+        "num": 891825,
+        "word": "邓紫棋演唱会上哭了",
+        "onboard_time": 1740837924,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 469040,
+        "num": 706766,
+        "word": "1.88元考试神器已售60万件",
+        "onboard_time": 1740827782,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 554516,
+        "num": 554516,
+        "word": "特朗普泽连斯基吵架前后对比",
+        "onboard_time": 1740837563,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 715608,
+        "num": 521065,
+        "word": "陶喆唱爱爱爱悼念方大同",
+        "onboard_time": 1740837444,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 481827,
+        "num": 481827,
+        "word": "魏大勋陈伟霆 老九门2",
+        "onboard_time": 1740840024,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 358136,
+        "num": 358136,
+        "word": "专家称可坚定买入黄金",
+        "onboard_time": 1740839244,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328937,
+        "num": 328937,
+        "word": "抗炎食物",
+        "onboard_time": 1740836063,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 519821,
+        "num": 328494,
+        "word": "赵露思直播",
+        "onboard_time": 1740832522,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195422,
+        "num": 255328,
+        "word": "著名表演艺术家于洋逝世",
+        "onboard_time": 1740842543,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1572571,
+        "num": 251180,
+        "word": "方大同去世",
+        "onboard_time": 1740807141,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241365,
+        "num": 241365,
+        "word": "女子炒黄金被暴涨的利润吓得报警",
+        "onboard_time": 1740815906,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224362,
+        "num": 224362,
+        "word": "泽连斯基抵达英国",
+        "onboard_time": 1740830003,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 344951,
+        "num": 224091,
+        "word": "郑业成工作室声明",
+        "onboard_time": 1740836784,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334907,
+        "num": 219794,
+        "word": "李佳隆求婚",
+        "onboard_time": 1740838944,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1036951,
+        "num": 216612,
+        "word": "薛凯琪全平台换封面",
+        "onboard_time": 1740826040,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310225,
+        "num": 214253,
+        "word": "白敬亭章若楠跳troublemaker",
+        "onboard_time": 1740835883,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190314,
+        "num": 213854,
+        "word": "20岁高颜值自闭症小伙学音乐10年",
+        "onboard_time": 1740840083,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 643049,
+        "num": 209456,
+        "word": "乳腺癌女子提醒网友少碰购物小票",
+        "onboard_time": 1740835824,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304365,
+        "num": 207598,
+        "word": "杨紫跳了李羲承进行曲",
+        "onboard_time": 1740834983,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276698,
+        "num": 203884,
+        "word": "方大同去世陶晶莹全家都哭了",
+        "onboard_time": 1740831504,
+        "rank": 22,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 237294,
+        "num": 202072,
+        "word": "多位明星曾患气胸",
+        "onboard_time": 1740831623,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200752,
+        "num": 200752,
+        "word": "哪吒2冲上143亿",
+        "onboard_time": 1740828382,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198956,
+        "num": 198956,
+        "word": "蔡明因常年不吃早饭导致胆摘除",
+        "onboard_time": 1740818543,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181134,
+        "num": 181134,
+        "word": "EDGM回应无畏黑称事件",
+        "onboard_time": 1740839303,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 160381,
+        "num": 160381,
+        "word": "时代少年团 太原",
+        "onboard_time": 1740839544,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133678,
+        "num": 157833,
+        "word": "樊振东将去宁波体能补测",
+        "onboard_time": 1740836242,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99552,
+        "num": 156559,
+        "word": "3类人要警惕气胸",
+        "onboard_time": 1740842484,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 155449,
+        "num": 155449,
+        "word": "TES一穿五",
+        "onboard_time": 1740836363,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 96964,
+        "num": 149369,
+        "word": "鞋垫打上量子两个字卖68元",
+        "onboard_time": 1740841464,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149229,
+        "num": 149229,
+        "word": "李羲承进行曲",
+        "onboard_time": 1740838465,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147353,
+        "num": 147353,
+        "word": "你好星期六预告",
+        "onboard_time": 1740836603,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146841,
+        "num": 146841,
+        "word": "全员加速中",
+        "onboard_time": 1740831261,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129379,
+        "num": 145946,
+        "word": "餐馆回应员工用炒菜锅洗拖把",
+        "onboard_time": 1740841523,
+        "rank": 35,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 145586,
+        "num": 145586,
+        "word": "这类常见小票可能影响生殖发育和致癌",
+        "onboard_time": 1740831861,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 135861,
+        "num": 135861,
+        "word": "毛不易来深圳也逃不过讲PPT",
+        "onboard_time": 1740839724,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127724,
+        "num": 127724,
+        "word": "FMVP",
+        "onboard_time": 1740838043,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126559,
+        "num": 126559,
+        "word": "一个没准备短袖的人轻轻碎了",
+        "onboard_time": 1740829463,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118179,
+        "num": 118179,
+        "word": "王鹤棣回应大奉第二季",
+        "onboard_time": 1740838163,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87650,
+        "num": 117322,
+        "word": "李家超樊振东同框",
+        "onboard_time": 1740842124,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116865,
+        "num": 116865,
+        "word": "白敬亭石凯你俩有点暧昧了",
+        "onboard_time": 1740841824,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114802,
+        "num": 114802,
+        "word": "白鹿版你打我噻",
+        "onboard_time": 1740838824,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114535,
+        "num": 114535,
+        "word": "冯远征谈晋江式演技",
+        "onboard_time": 1740840863,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109582,
+        "num": 109582,
+        "word": "香港特首邀请李宇春来港开演唱会",
+        "onboard_time": 1740837204,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 109283,
+        "num": 109283,
+        "word": "全红婵拿表情包贴脸王楚钦",
+        "onboard_time": 1740837085,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106267,
+        "num": 106267,
+        "word": "毛不易深圳演唱会",
+        "onboard_time": 1740842962,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 103747,
+        "num": 103747,
+        "word": "时代少年团演唱会",
+        "onboard_time": 1740841824,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 99816,
+        "num": 99816,
+        "word": "欧豪多上上网吧",
+        "onboard_time": 1740838944,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋进的春天#"
+    }
+  }
+}
