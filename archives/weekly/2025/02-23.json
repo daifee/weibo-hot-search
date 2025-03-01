@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740833729495,
+  "endTime": 1740835496296,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1227,6 +1227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1152815,
+      "num": 468633,
+      "word": "赵露思直播",
+      "onboard_time": 1740832522,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1151264,
       "num": 1151264,
       "word": "联想电脑坏了售后让去美国修",
@@ -2129,14 +2137,6 @@
       "onboard_time": 1740473181,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 813927,
-      "num": 370383,
-      "word": "赵露思直播",
-      "onboard_time": 1740832522,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 812791,
@@ -3140,7 +3140,7 @@
     },
     {
       "raw_hot": 633445,
-      "num": 374578,
+      "num": 431416,
       "word": "方大同去世陶晶莹全家都哭了",
       "onboard_time": 1740831504,
       "rank": 11,
@@ -3300,7 +3300,7 @@
     },
     {
       "raw_hot": 610273,
-      "num": 541876,
+      "num": 559077,
       "word": "泽连斯基抵达英国",
       "onboard_time": 1740830003,
       "rank": 5,
@@ -3659,6 +3659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 564663,
+      "num": 564663,
+      "word": "TES晋级全球先锋赛",
+      "onboard_time": 1740833424,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 564288,
       "num": 564288,
       "word": "半熟恋人4官宣",
@@ -3777,6 +3785,14 @@
       "onboard_time": 1740712218,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 548874,
+      "num": 548874,
+      "word": "高圆圆看秀生图妈妈级别",
+      "onboard_time": 1740833363,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 548608,
@@ -3953,6 +3969,14 @@
       "onboard_time": 1740389720,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 524229,
+      "num": 524229,
+      "word": "多位明星曾患气胸",
+      "onboard_time": 1740831623,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 523241,
@@ -4187,6 +4211,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 503778,
+      "num": 503778,
+      "word": "全员加速中",
+      "onboard_time": 1740831261,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 502969,
       "num": 502969,
       "word": "桑延一集比一集穿得少",
@@ -4345,14 +4377,6 @@
       "onboard_time": 1740533119,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 485363,
-      "num": 485363,
-      "word": "全员加速中",
-      "onboard_time": 1740831261,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 484933,
@@ -4739,6 +4763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 455247,
+      "num": 431483,
+      "word": "杨紫跳了李羲承进行曲",
+      "onboard_time": 1740834983,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 454325,
       "num": 587326,
       "word": "问问星星吧 癫剧",
@@ -4955,6 +4987,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 431512,
+      "num": 431512,
+      "word": "一个没准备短袖的人轻轻碎了",
+      "onboard_time": 1740829463,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 430512,
       "num": 430512,
       "word": "黄雅琼和王昶遗憾告负",
@@ -5097,6 +5137,14 @@
       "onboard_time": 1740359659,
       "rank": 11,
       "category": "教育"
+    },
+    {
+      "raw_hot": 416208,
+      "num": 416208,
+      "word": "杨紫直播",
+      "onboard_time": 1740833964,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 413099,
@@ -5507,14 +5555,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 378388,
-      "num": 378388,
-      "word": "一个没准备短袖的人轻轻碎了",
-      "onboard_time": 1740829463,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 376835,
       "num": 365019,
       "word": "沈月头像大户上新",
@@ -5860,7 +5900,7 @@
     },
     {
       "raw_hot": 350330,
-      "num": 305423,
+      "num": 326765,
       "word": "这类常见小票可能影响生殖发育和致癌",
       "onboard_time": 1740831861,
       "rank": 24,
@@ -6001,14 +6041,6 @@
       "onboard_time": 1740628760,
       "rank": 17,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 337654,
-      "num": 316521,
-      "word": "多位明星曾患气胸",
-      "onboard_time": 1740831623,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 335114,
@@ -6307,6 +6339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 319350,
+      "num": 470017,
+      "word": "深圳一房东退租时拆下窗户验收卫生",
+      "onboard_time": 1740833125,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 319066,
       "num": 328618,
       "word": "对张凌赫190的身高有了实感",
@@ -6547,6 +6587,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 305373,
+      "num": 305373,
+      "word": "369",
+      "onboard_time": 1740835104,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 305361,
       "num": 279853,
       "word": "张萌孟子义米兰吃火锅",
@@ -6601,14 +6649,6 @@
       "onboard_time": 1740471861,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 302321,
-      "num": 302321,
-      "word": "TES晋级全球先锋赛",
-      "onboard_time": 1740833424,
-      "rank": 22,
-      "category": "电竞"
     },
     {
       "raw_hot": 302083,
@@ -6681,6 +6721,14 @@
       "onboard_time": 1740823163,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 298099,
+      "num": 298099,
+      "word": "TES夺得优胜者",
+      "onboard_time": 1740834384,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 297938,
@@ -7611,6 +7659,14 @@
       "category": "健康医疗,艺人"
     },
     {
+      "raw_hot": 257858,
+      "num": 257858,
+      "word": "陶喆演唱会",
+      "onboard_time": 1740834263,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 257768,
       "num": 229904,
       "word": "年轻人也开始得带状疱疹了",
@@ -7665,6 +7721,14 @@
       "onboard_time": 1740579742,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 255372,
+      "num": 431457,
+      "word": "跪谢CC女车主获赠全新大众车",
+      "onboard_time": 1740834204,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 255183,
@@ -9931,6 +9995,14 @@
       "category": "财经,汽车"
     },
     {
+      "raw_hot": 200883,
+      "num": 200883,
+      "word": "JackeyLove荣获决赛FMVP",
+      "onboard_time": 1740834682,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 200833,
       "num": 249047,
       "word": "时代少年团肤色",
@@ -10123,14 +10195,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198465,
-      "num": 310773,
-      "word": "高圆圆看秀生图妈妈级别",
-      "onboard_time": 1740833363,
-      "rank": 19,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 198450,
       "num": 198450,
       "word": "高中生手搓折叠屏惊动手机厂商",
@@ -10145,6 +10209,14 @@
       "onboard_time": 1740648979,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 198243,
+      "num": 198243,
+      "word": "樊振东超大球拍",
+      "onboard_time": 1740833783,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 198231,
@@ -10841,6 +10913,14 @@
       "onboard_time": 1740716420,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 189260,
+      "num": 189260,
+      "word": "张杰 香港启德体育园",
+      "onboard_time": 1740834441,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 189180,
@@ -12403,6 +12483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 170801,
+      "num": 170801,
+      "word": "杨幂包场似锦",
+      "onboard_time": 1740833244,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170707,
       "num": 170707,
       "word": "肖战VOGUE最佳街拍",
@@ -12433,6 +12521,14 @@
       "onboard_time": 1740371062,
       "rank": 47,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 170259,
+      "num": 170259,
+      "word": "TES战胜AL",
+      "onboard_time": 1740834142,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 170239,
@@ -12731,6 +12827,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 167287,
+      "num": 167287,
+      "word": "白鹿欧豪好好笑",
+      "onboard_time": 1740835342,
+      "rank": 43,
+      "category": "剧集,综艺"
+    },
+    {
       "raw_hot": 167199,
       "num": 167199,
       "word": "王一博抱过的小甲长大啦",
@@ -12760,14 +12864,6 @@
       "word": "体检无异常1年半后确诊癌症晚期",
       "onboard_time": 1740215421,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 167078,
-      "num": 167078,
-      "word": "深圳一房东退租时拆下窗户验收卫生",
-      "onboard_time": 1740833125,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -13113,6 +13209,14 @@
       "onboard_time": 1740239360,
       "rank": 23,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 164238,
+      "num": 300033,
+      "word": "以闪亮之名",
+      "onboard_time": 1740834803,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 164232,
@@ -14009,6 +14113,14 @@
       "onboard_time": 1740302239,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154099,
+      "num": 431496,
+      "word": "男子婚纱照被多个博主冒用扯上命案",
+      "onboard_time": 1740834263,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153915,
@@ -15299,6 +15411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139110,
+      "num": 220744,
+      "word": "商家公然展示考试神器如何作弊",
+      "onboard_time": 1740833484,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138951,
       "num": 138951,
       "word": "第一次给檀健次做造型有点紧张",
@@ -16057,14 +16177,6 @@
       "onboard_time": 1740547639,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 130073,
-      "num": 130073,
-      "word": "杨幂包场似锦",
-      "onboard_time": 1740833244,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 130043,
@@ -19043,6 +19155,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 78977,
+      "num": 173007,
+      "word": "全新探岳L越攀登越强大",
+      "onboard_time": 1740834924,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 78924,
       "num": 150520,
       "word": "改善血脂的坚果排行榜",
@@ -19241,14 +19361,6 @@
       "onboard_time": 1740573319,
       "rank": 17,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 74394,
-      "num": 220744,
-      "word": "商家公然展示考试神器如何作弊",
-      "onboard_time": 1740833484,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 74339,
@@ -21291,6 +21403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35533,
+      "num": 172670,
+      "word": "夸克Al已成功进入tony圈",
+      "onboard_time": 1740832583,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 35202,
       "num": 121397,
       "word": "警方通报铁岭私家车撞进医院",
@@ -21609,14 +21729,6 @@
       "onboard_time": 1740414738,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 29196,
-      "num": 153014,
-      "word": "夸克Al已成功进入tony圈",
-      "onboard_time": 1740832583,
-      "rank": 47,
-      "category": "互联网"
     },
     {
       "raw_hot": 29154,
@@ -21969,6 +22081,14 @@
       "onboard_time": 1740679153,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25657,
+      "num": 431425,
+      "word": "胡连馨伦敦时装周vlog",
+      "onboard_time": 1740833964,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 25628,
