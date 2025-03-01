@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740839882702,
+  "endTime": 1740842577958,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -507,6 +507,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 563022,
+      "num": 713861,
+      "word": "特朗普泽连斯基吵架前后对比",
+      "onboard_time": 1740837563,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 554654,
       "num": 554654,
       "word": "张艺兴说成员们都年过半六十",
@@ -683,6 +691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 429695,
+      "num": 359605,
+      "word": "魏大勋陈伟霆 老九门2",
+      "onboard_time": 1740840024,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 427641,
       "num": 303643,
       "word": "麦恩莉",
@@ -707,12 +723,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 399822,
+      "num": 349260,
+      "word": "白敬亭章若楠跳troublemaker",
+      "onboard_time": 1740835883,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 391556,
       "num": 244755,
       "word": "邓超说拍个视频发给热巴",
       "onboard_time": 1740785296,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 387518,
+      "num": 482161,
+      "word": "抗炎食物",
+      "onboard_time": 1740836063,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 386765,
@@ -737,14 +769,6 @@
       "onboard_time": 1740796458,
       "rank": 24,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 373049,
-      "num": 482161,
-      "word": "抗炎食物",
-      "onboard_time": 1740836063,
-      "rank": 44,
-      "category": "美食"
     },
     {
       "raw_hot": 368631,
@@ -803,6 +827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 354304,
+      "num": 354304,
+      "word": "专家称可坚定买入黄金",
+      "onboard_time": 1740839244,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 350330,
       "num": 334190,
       "word": "这类常见小票可能影响生殖发育和致癌",
@@ -817,6 +849,14 @@
       "onboard_time": 1740823222,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 347593,
+      "num": 347593,
+      "word": "李佳隆求婚",
+      "onboard_time": 1740838944,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 333112,
@@ -841,14 +881,6 @@
       "onboard_time": 1740819922,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 328469,
-      "num": 328469,
-      "word": "白敬亭章若楠跳troublemaker",
-      "onboard_time": 1740835883,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 328372,
@@ -1139,6 +1171,14 @@
       "category": "综艺,动漫"
     },
     {
+      "raw_hot": 248048,
+      "num": 248048,
+      "word": "20岁高颜值自闭症小伙学音乐10年",
+      "onboard_time": 1740840083,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 247877,
       "num": 247877,
       "word": "于正发了晴川",
@@ -1153,14 +1193,6 @@
       "onboard_time": 1740781032,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 245876,
-      "num": 245876,
-      "word": "李佳隆求婚",
-      "onboard_time": 1740838944,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 244762,
@@ -1441,14 +1473,6 @@
       "onboard_time": 1740839303,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 205748,
-      "num": 713861,
-      "word": "特朗普泽连斯基吵架前后对比",
-      "onboard_time": 1740837563,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 203553,
@@ -1803,6 +1827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176810,
+      "num": 176810,
+      "word": "白敬亭石凯你俩有点暧昧了",
+      "onboard_time": 1740841824,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176086,
       "num": 171875,
       "word": "特朗普对恢复乌矿产交易不感兴趣了",
@@ -1939,6 +1971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167156,
+      "num": 167156,
+      "word": "时代少年团演唱会",
+      "onboard_time": 1740841824,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 167136,
       "num": 167136,
       "word": "回南天",
@@ -1996,7 +2036,7 @@
     },
     {
       "raw_hot": 163783,
-      "num": 163783,
+      "num": 254897,
       "word": "EDG告别曼谷大师赛",
       "onboard_time": 1740838286,
       "rank": 43,
@@ -2451,6 +2491,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 122226,
+      "num": 122226,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1740841705,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 121481,
       "num": 159034,
       "word": "罗大美案三嫌疑人互相道歉",
@@ -2571,12 +2619,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112250,
+      "num": 112250,
+      "word": "冯远征谈晋江式演技",
+      "onboard_time": 1740840863,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111226,
       "num": 111226,
       "word": "古乐风华录",
       "onboard_time": 1740794238,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110433,
+      "num": 110433,
+      "word": "著名表演艺术家于洋逝世",
+      "onboard_time": 1740842543,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 109716,
@@ -2747,6 +2811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99119,
+      "num": 181038,
+      "word": "3类人要警惕气胸",
+      "onboard_time": 1740842484,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 99067,
       "num": 99067,
       "word": "难哄好甜",
@@ -2881,14 +2953,6 @@
       "onboard_time": 1740825502,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 88003,
-      "num": 271598,
-      "word": "专家称可坚定买入黄金",
-      "onboard_time": 1740839244,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87684,
@@ -3035,6 +3099,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 68396,
+      "num": 281253,
+      "word": "餐馆回应员工用炒菜锅洗拖把",
+      "onboard_time": 1740841523,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 67913,
       "num": 67913,
       "word": "赵丽颖杨幂迪丽热巴杨紫2024商业价值明星",
@@ -3089,6 +3161,14 @@
       "onboard_time": 1740833305,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 62555,
+      "num": 381750,
+      "word": "鞋垫打上量子两个字卖68元",
+      "onboard_time": 1740841464,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62472,
@@ -3401,6 +3481,14 @@
       "onboard_time": 1740820523,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 23449,
+      "num": 271716,
+      "word": "张子枫说在电影中长大很幸福",
+      "onboard_time": 1740841344,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 22618,
