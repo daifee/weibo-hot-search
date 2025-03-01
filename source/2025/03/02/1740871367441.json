@@ -1,0 +1,410 @@
+{
+  "runTime": 1740871367441,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 408854,
+        "num": 773819,
+        "word": "方大同经纪人谈后事相关处理",
+        "onboard_time": 1740860710,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223651,
+        "num": 223651,
+        "word": "女子每天4杯咖啡喝出骨质疏松",
+        "onboard_time": 1740844941,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6926,
+        "num": 212102,
+        "word": "您的声音我的故事",
+        "onboard_time": 1740871034,
+        "rank": 2,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 211027,
+        "num": 211027,
+        "word": "1.88元考试神器已售60万件",
+        "onboard_time": 1740827782,
+        "rank": 3,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 163968,
+        "num": 163968,
+        "word": "什么是爆肺",
+        "onboard_time": 1740812372,
+        "rank": 4,
+        "category": "健康医疗,艺人"
+      },
+      {
+        "raw_hot": 340382,
+        "num": 161662,
+        "word": "特朗普称泽连斯基需停止对普京负面言论",
+        "onboard_time": 1740862212,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 195752,
+        "num": 160760,
+        "word": "你好星期六难哄收视新高",
+        "onboard_time": 1740849856,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186601,
+        "num": 157461,
+        "word": "著名表演艺术家于洋逝世",
+        "onboard_time": 1740842543,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142283,
+        "num": 155436,
+        "word": "一个没准备短袖的人轻轻碎了",
+        "onboard_time": 1740829463,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153592,
+        "num": 153592,
+        "word": "英乌签署22.6亿英镑贷款协议",
+        "onboard_time": 1740870913,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 171912,
+        "num": 153257,
+        "word": "老鼠人",
+        "onboard_time": 1740849975,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158132,
+        "num": 151648,
+        "word": "欧洲多方力挺乌克兰",
+        "onboard_time": 1740848656,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 149638,
+        "num": 149638,
+        "word": "方大同去世",
+        "onboard_time": 1740807141,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137903,
+        "num": 137903,
+        "word": "特朗普泽连斯基吵架前后对比",
+        "onboard_time": 1740837563,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28393,
+        "num": 126999,
+        "word": "美联邦快递一架飞机因引擎起火迫降",
+        "onboard_time": 1740870193,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 126940,
+        "num": 126940,
+        "word": "tods副总顺走了肖战的应援手幅秀",
+        "onboard_time": 1740865511,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 122515,
+        "num": 122515,
+        "word": "电信诈骗开始遥控你的手机了",
+        "onboard_time": 1740844522,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119581,
+        "num": 119581,
+        "word": "杨紫摄影刘任捷",
+        "onboard_time": 1740865391,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110630,
+        "num": 110630,
+        "word": "薛凯琪全平台换封面",
+        "onboard_time": 1740826040,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82610,
+        "num": 82610,
+        "word": "单依纯哽咽唱才二十三",
+        "onboard_time": 1740837324,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 201224,
+        "num": 82189,
+        "word": "乳腺癌女子提醒网友少碰购物小票",
+        "onboard_time": 1740835824,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89072,
+        "num": 81995,
+        "word": "这类常见小票可能影响生殖发育和致癌",
+        "onboard_time": 1740831861,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 81744,
+        "num": 81744,
+        "word": "菲律宾非法坐滩军舰冒黑烟疑似焚烧垃圾",
+        "onboard_time": 1740846859,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 74617,
+        "num": 74617,
+        "word": "高圆圆看秀生图妈妈级别",
+        "onboard_time": 1740833363,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 49365,
+        "num": 71165,
+        "word": "崩坏星穹铁道",
+        "onboard_time": 1740841705,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 69148,
+        "num": 69148,
+        "word": "赵露思直播",
+        "onboard_time": 1740832522,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63733,
+        "num": 63733,
+        "word": "邓紫棋演唱会上哭了",
+        "onboard_time": 1740837924,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 63092,
+        "num": 63092,
+        "word": "专家称可坚定买入黄金",
+        "onboard_time": 1740839244,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61746,
+        "num": 61746,
+        "word": "多位明星曾患气胸",
+        "onboard_time": 1740831623,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58017,
+        "num": 58017,
+        "word": "泽连斯基抵达英国",
+        "onboard_time": 1740830003,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 64591,
+        "num": 57524,
+        "word": "50岁阿姨跳绝命八颠完爆年轻人",
+        "onboard_time": 1740870733,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 56823,
+        "num": 56823,
+        "word": "郑业成工作室声明",
+        "onboard_time": 1740836784,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53781,
+        "num": 53781,
+        "word": "蔡明因常年不吃早饭导致胆摘除",
+        "onboard_time": 1740818543,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52322,
+        "num": 52322,
+        "word": "唐总你夫人的马甲掉了",
+        "onboard_time": 1740849676,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34825,
+        "num": 50788,
+        "word": "这个定海神器有多了不起",
+        "onboard_time": 1740826523,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 50595,
+        "num": 50595,
+        "word": "女子炒黄金被暴涨的利润吓得报警",
+        "onboard_time": 1740815906,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48764,
+        "num": 48764,
+        "word": "冯远征谈晋江式演技",
+        "onboard_time": 1740840863,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33742,
+        "num": 47552,
+        "word": "将承办全运会的香港最大体育园启幕",
+        "onboard_time": 1740863651,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 47237,
+        "num": 47237,
+        "word": "贝蒂斯2比1皇马",
+        "onboard_time": 1740870733,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46844,
+        "num": 46844,
+        "word": "3岁吒儿原来是加法高手",
+        "onboard_time": 1740850334,
+        "rank": 39,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 41439,
+        "num": 41439,
+        "word": "3类人要警惕气胸",
+        "onboard_time": 1740842484,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 41056,
+        "num": 41056,
+        "word": "李羲承进行曲",
+        "onboard_time": 1740838465,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 40723,
+        "num": 40723,
+        "word": "魏大勋陈伟霆 老九门2",
+        "onboard_time": 1740840024,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40669,
+        "num": 40669,
+        "word": "白敬亭章若楠跳troublemaker",
+        "onboard_time": 1740835883,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39382,
+        "num": 39382,
+        "word": "方大同去世陶晶莹全家都哭了",
+        "onboard_time": 1740831504,
+        "rank": 44,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 39020,
+        "num": 39020,
+        "word": "哪吒2冲上143亿",
+        "onboard_time": 1740828382,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 35201,
+        "num": 35201,
+        "word": "周一全国气温普遍下降",
+        "onboard_time": 1740868331,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32384,
+        "num": 35196,
+        "word": "泽连斯基被要求提前离开",
+        "onboard_time": 1740863413,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 30548,
+        "num": 35192,
+        "word": "李佳隆求婚",
+        "onboard_time": 1740838944,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 30296,
+        "num": 35188,
+        "word": "民营企业海外订单激增",
+        "onboard_time": 1740836544,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋进的春天#"
+    }
+  }
+}
