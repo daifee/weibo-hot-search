@@ -1,7 +1,15 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1740807502829,
+  "endTime": 1740810673772,
   "band_list": [
+    {
+      "raw_hot": 38838775,
+      "num": 38838775,
+      "word": "方大同去世",
+      "onboard_time": 1740807141,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 33224710,
       "num": 33224710,
@@ -57,6 +65,14 @@
       "onboard_time": 1735990643,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 19195506,
+      "num": 19195506,
+      "word": "方大同 薛凯琪",
+      "onboard_time": 1740807827,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 18851987,
@@ -160,14 +176,6 @@
       "word": "张兰汪小菲抖音无限期封禁",
       "onboard_time": 1738985241,
       "rank": 3,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 13649599,
-      "num": 13649599,
-      "word": "方大同去世",
-      "onboard_time": 1740807141,
-      "rank": 0,
       "category": "艺人"
     },
     {
@@ -1923,6 +1931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2739654,
+      "num": 650896,
+      "word": "气胸",
+      "onboard_time": 1740808374,
+      "rank": 6,
+      "category": "艺人,健康医疗"
+    },
+    {
       "raw_hot": 2738765,
       "num": 445794,
       "word": "王星称在缅甸吃不饱没时间如厕",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1738993765,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 2404833,
-      "num": 2404833,
-      "word": "李小冉 挂脸",
-      "onboard_time": 1736741478,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 2404159,
-      "num": 2404159,
-      "word": "台湾当归",
-      "onboard_time": 1737107839,
-      "rank": 1,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [

@@ -1,14 +1,30 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740807502829,
+  "endTime": 1740810673772,
   "band_list": [
     {
-      "raw_hot": 13649599,
-      "num": 13649599,
+      "raw_hot": 38838775,
+      "num": 38838775,
       "word": "方大同去世",
       "onboard_time": 1740807141,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 19195506,
+      "num": 19195506,
+      "word": "方大同 薛凯琪",
+      "onboard_time": 1740807827,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2739654,
+      "num": 650896,
+      "word": "气胸",
+      "onboard_time": 1740808374,
+      "rank": 6,
+      "category": "艺人,健康医疗"
     },
     {
       "raw_hot": 2475221,
@@ -17,6 +33,14 @@
       "onboard_time": 1740758299,
       "rank": 0,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2112099,
+      "num": 647709,
+      "word": "才二十三",
+      "onboard_time": 1740808433,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 1676338,
@@ -67,12 +91,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1048140,
+      "num": 1048140,
+      "word": "抗癌博主陈幸运去世",
+      "onboard_time": 1740798678,
+      "rank": 3,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 1038378,
       "num": 1165042,
       "word": "檀健次吃内脏哭戏是现挂",
       "onboard_time": 1740794837,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 954453,
+      "num": 883948,
+      "word": "被家暴16次女子被前夫控制社交没朋友",
+      "onboard_time": 1740805458,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 941249,
@@ -91,14 +131,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 883948,
-      "num": 883948,
-      "word": "被家暴16次女子被前夫控制社交没朋友",
-      "onboard_time": 1740805458,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 850680,
       "num": 418420,
       "word": "特朗普没对泽连斯基动手是奇迹",
@@ -113,6 +145,14 @@
       "onboard_time": 1740754941,
       "rank": 10,
       "category": "民生新闻,情感"
+    },
+    {
+      "raw_hot": 723764,
+      "num": 679019,
+      "word": "乌克兰被端上了餐桌",
+      "onboard_time": 1740802218,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 722528,
@@ -139,16 +179,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 679019,
-      "num": 679019,
-      "word": "乌克兰被端上了餐桌",
-      "onboard_time": 1740802218,
-      "rank": 33,
-      "category": "国际时政"
+      "raw_hot": 683261,
+      "num": 253013,
+      "word": "杜淳妻子自曝注射肉毒致全身过敏",
+      "onboard_time": 1740809986,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 657788,
-      "num": 510080,
+      "num": 521574,
       "word": "留几手吐槽芒果台瞧不起他",
       "onboard_time": 1740803118,
       "rank": 48,
@@ -163,20 +203,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 648427,
-      "num": 648427,
-      "word": "抗癌博主陈幸运去世",
-      "onboard_time": 1740798678,
-      "rank": 3,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 626377,
       "num": 626377,
       "word": "居民拆房挖出一条40斤重娃娃鱼",
       "onboard_time": 1740789617,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 608607,
+      "num": 608607,
+      "word": "特别的人",
+      "onboard_time": 1740808374,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 590455,
@@ -299,6 +339,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 442634,
+      "num": 392507,
+      "word": "哪吒2票房142亿",
+      "onboard_time": 1740807763,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 414587,
+      "num": 613790,
+      "word": "人大代表一句不方便全是凡尔赛",
+      "onboard_time": 1740809393,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 402089,
+      "num": 523174,
+      "word": "凌晨有网友退税超5万",
+      "onboard_time": 1740806717,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 391556,
       "num": 244755,
       "word": "邓超说拍个视频发给热巴",
@@ -363,6 +427,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 333112,
+      "num": 333112,
+      "word": "银川地震",
+      "onboard_time": 1740804258,
+      "rank": 24,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 328372,
       "num": 328372,
       "word": "3月第一个好消息是吒儿给的",
@@ -404,7 +476,7 @@
     },
     {
       "raw_hot": 298320,
-      "num": 275142,
+      "num": 277653,
       "word": "3月狗屎运最旺的星座",
       "onboard_time": 1740798918,
       "rank": 20,
@@ -427,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 279910,
+      "num": 279910,
+      "word": "前TVB艺人当网约车司机",
+      "onboard_time": 1740808065,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 279759,
       "num": 279759,
       "word": "日本米价暴涨却怪中国",
@@ -441,14 +521,6 @@
       "onboard_time": 1740801137,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 276857,
-      "num": 276857,
-      "word": "银川地震",
-      "onboard_time": 1740804258,
-      "rank": 24,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 276546,
@@ -481,6 +553,14 @@
       "onboard_time": 1740727939,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 264157,
+      "num": 264157,
+      "word": "RIP",
+      "onboard_time": 1740809747,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 263916,
@@ -571,6 +651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234388,
+      "num": 234388,
+      "word": "2025 魔幻",
+      "onboard_time": 1740809927,
+      "rank": 35,
+      "category": "艺人,情感"
+    },
+    {
       "raw_hot": 233931,
       "num": 353279,
       "word": "谢娜支持景甜新剧",
@@ -633,6 +721,22 @@
       "onboard_time": 1740707118,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 212805,
+      "num": 212805,
+      "word": "快船vs湖人",
+      "onboard_time": 1740803898,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 212670,
+      "num": 212670,
+      "word": "昨天还在听他的歌",
+      "onboard_time": 1740808857,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 207433,
@@ -707,12 +811,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 185592,
+      "num": 185592,
+      "word": "三人游",
+      "onboard_time": 1740808493,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 183147,
       "num": 131906,
       "word": "微信好霸道",
       "onboard_time": 1740749181,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 182944,
+      "num": 182944,
+      "word": "张晚意两年上了8部剧",
+      "onboard_time": 1740808795,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 182847,
@@ -736,6 +856,14 @@
       "word": "肥娟老公因小吃店营业肌肉男变大肚子",
       "onboard_time": 1740799338,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177800,
+      "num": 1303935,
+      "word": "二月二民俗有哪些",
+      "onboard_time": 1740804438,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -907,6 +1035,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 140739,
+      "num": 140739,
+      "word": "中国空军赴哈瓦那看望古巴老爷爷",
+      "onboard_time": 1740807763,
+      "rank": 46,
+      "category": "军事"
+    },
+    {
       "raw_hot": 140563,
       "num": 140563,
       "word": "JackeyLove说自己年龄大了",
@@ -939,6 +1075,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 136198,
+      "num": 394107,
+      "word": "侯明昊秀场怼脸状态",
+      "onboard_time": 1740810342,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 135226,
       "num": 135226,
       "word": "8岁脑癌男孩吆喝叫卖为妈妈揽客",
@@ -963,6 +1107,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 134776,
+      "num": 253057,
+      "word": "张艺兴sheep真的可以再打一百年",
+      "onboard_time": 1740810522,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 134629,
+      "num": 613144,
+      "word": "夸克让某搜索无路可走",
+      "onboard_time": 1740808857,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 133568,
       "num": 363351,
       "word": "家庭摄像头遭破解260元可永久观看",
@@ -977,14 +1137,6 @@
       "onboard_time": 1740784274,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 130891,
-      "num": 136374,
-      "word": "快船vs湖人",
-      "onboard_time": 1740803898,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 130572,
@@ -1003,6 +1155,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 129011,
+      "num": 133850,
+      "word": "樊振东将和甄子丹李宇春同台",
+      "onboard_time": 1740810463,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128062,
       "num": 128062,
       "word": "中山美穗与母亲关系疏远",
@@ -1017,14 +1177,6 @@
       "onboard_time": 1740799459,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 126132,
-      "num": 1303935,
-      "word": "二月二民俗有哪些",
-      "onboard_time": 1740804438,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 125739,
@@ -1339,14 +1491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 78359,
-      "num": 523174,
-      "word": "凌晨有网友退税超5万",
-      "onboard_time": 1740806717,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 76250,
       "num": 94454,
       "word": "于适说会一直向前跑不回头",
@@ -1529,6 +1673,14 @@
       "onboard_time": 1740770711,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 32782,
+      "num": 638474,
+      "word": "建议重拳整治犬咬伤人问题",
+      "onboard_time": 1740809747,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31635,
@@ -1716,6 +1868,9 @@
     },
     {
       "word": "#建设特色优势现代产业体系#"
+    },
+    {
+      "word": "#塑造经济发展新动能新优势#"
     }
   ]
 }
