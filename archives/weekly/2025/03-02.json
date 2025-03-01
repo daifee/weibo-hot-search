@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1740847267652,
+  "endTime": 1740849542516,
   "band_list": [
     {
       "raw_hot": 1119656,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 335243,
+      "num": 335243,
+      "word": "电信诈骗开始遥控你的手机了",
+      "onboard_time": 1740844522,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 324938,
       "num": 324938,
       "word": "冯远征谈晋江式演技",
@@ -177,6 +185,14 @@
       "onboard_time": 1740831504,
       "rank": 22,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 155369,
+      "num": 316198,
+      "word": "菲律宾非法坐滩军舰冒黑烟疑似焚烧垃圾",
+      "onboard_time": 1740846859,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 145127,
@@ -283,12 +299,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 103455,
-      "num": 316449,
-      "word": "电信诈骗开始遥控你的手机了",
-      "onboard_time": 1740844522,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 97796,
+      "num": 152197,
+      "word": "欧洲多方力挺乌克兰",
+      "onboard_time": 1740848656,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 92368,
@@ -297,14 +313,6 @@
       "onboard_time": 1740836544,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 91765,
-      "num": 316198,
-      "word": "菲律宾非法坐滩军舰冒黑烟疑似焚烧垃圾",
-      "onboard_time": 1740846859,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 91443,
@@ -419,6 +427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 57866,
+      "num": 150936,
+      "word": "369",
+      "onboard_time": 1740835104,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 46649,
       "num": 315665,
       "word": "国安客场领先申花",
@@ -427,12 +443,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41847,
+      "num": 150024,
+      "word": "3月治愈系壁纸",
+      "onboard_time": 1740848057,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 31366,
       "num": 316459,
       "word": "无畏契约曼谷大师赛",
       "onboard_time": 1740845721,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 28195,
+      "num": 199378,
+      "word": "短视频可能越刷越焦虑",
+      "onboard_time": 1740849138,
+      "rank": 10,
+      "category": "议题讨论"
     }
   ],
   "hotgov_list": [
