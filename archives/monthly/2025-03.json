@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740810673772,
+  "endTime": 1740811451511,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -19,8 +19,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3008661,
+      "num": 706969,
+      "word": "才二十三",
+      "onboard_time": 1740808433,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 2739654,
-      "num": 650896,
+      "num": 705370,
       "word": "气胸",
       "onboard_time": 1740808374,
       "rank": 6,
@@ -33,14 +41,6 @@
       "onboard_time": 1740758299,
       "rank": 0,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 2112099,
-      "num": 647709,
-      "word": "才二十三",
-      "onboard_time": 1740808433,
-      "rank": 7,
-      "category": "音乐"
     },
     {
       "raw_hot": 1676338,
@@ -57,6 +57,14 @@
       "onboard_time": 1740801738,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1604506,
+      "num": 679046,
+      "word": "杜淳妻子自曝注射肉毒致全身过敏",
+      "onboard_time": 1740809986,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 1219192,
@@ -163,8 +171,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 713149,
-      "num": 713149,
+      "raw_hot": 722194,
+      "num": 722194,
       "word": "男子为办退休要挖512地震废墟",
       "onboard_time": 1740802698,
       "rank": 19,
@@ -177,14 +185,6 @@
       "onboard_time": 1740795197,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 683261,
-      "num": 253013,
-      "word": "杜淳妻子自曝注射肉毒致全身过敏",
-      "onboard_time": 1740809986,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 657788,
@@ -251,12 +251,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 555577,
+      "num": 555577,
+      "word": "为什么高瘦男性容易得气胸",
+      "onboard_time": 1740811118,
+      "rank": 13,
+      "category": "健康医疗,艺人"
+    },
+    {
       "raw_hot": 554654,
       "num": 554654,
       "word": "张艺兴说成员们都年过半六十",
       "onboard_time": 1740758238,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 551207,
+      "num": 613790,
+      "word": "人大代表一句不方便全是凡尔赛",
+      "onboard_time": 1740809393,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 515279,
@@ -339,20 +355,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 450099,
+      "num": 301637,
+      "word": "RIP",
+      "onboard_time": 1740809747,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 442634,
       "num": 392507,
       "word": "哪吒2票房142亿",
       "onboard_time": 1740807763,
       "rank": 20,
       "category": "电影"
-    },
-    {
-      "raw_hot": 414587,
-      "num": 613790,
-      "word": "人大代表一句不方便全是凡尔赛",
-      "onboard_time": 1740809393,
-      "rank": 13,
-      "category": "国内时政"
     },
     {
       "raw_hot": 402089,
@@ -435,6 +451,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 331046,
+      "num": 296289,
+      "word": "2025 魔幻",
+      "onboard_time": 1740809927,
+      "rank": 35,
+      "category": "艺人,情感"
+    },
+    {
       "raw_hot": 328372,
       "num": 328372,
       "word": "3月第一个好消息是吒儿给的",
@@ -483,6 +507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 295363,
+      "num": 295363,
+      "word": "前TVB艺人当网约车司机",
+      "onboard_time": 1740808065,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 289763,
       "num": 289763,
       "word": "明日方舟",
@@ -497,14 +529,6 @@
       "onboard_time": 1740800299,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 279910,
-      "num": 279910,
-      "word": "前TVB艺人当网约车司机",
-      "onboard_time": 1740808065,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 279759,
@@ -555,14 +579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 264157,
-      "num": 264157,
-      "word": "RIP",
-      "onboard_time": 1740809747,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 263916,
       "num": 244273,
       "word": "刘畊宏谈流量下降",
@@ -585,6 +601,14 @@
       "onboard_time": 1740802819,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 258826,
+      "num": 258826,
+      "word": "马斯克确认再得一子",
+      "onboard_time": 1740811177,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 251771,
@@ -649,14 +673,6 @@
       "onboard_time": 1740801978,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 234388,
-      "num": 234388,
-      "word": "2025 魔幻",
-      "onboard_time": 1740809927,
-      "rank": 35,
-      "category": "艺人,情感"
     },
     {
       "raw_hot": 233931,
@@ -795,12 +811,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193290,
+      "num": 193290,
+      "word": "樊振东将和甄子丹李宇春同台",
+      "onboard_time": 1740810463,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193188,
       "num": 135216,
       "word": "个税汇算今起办理",
       "onboard_time": 1740795137,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 191787,
+      "num": 394107,
+      "word": "侯明昊秀场怼脸状态",
+      "onboard_time": 1740810342,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 189629,
@@ -883,6 +915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175360,
+      "num": 277436,
+      "word": "景甜吴谨言两部爽文女主联动",
+      "onboard_time": 1740811308,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174320,
       "num": 174320,
       "word": "一年一度多退少补来了",
@@ -899,12 +939,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170993,
+      "num": 279937,
+      "word": "张艺兴sheep真的可以再打一百年",
+      "onboard_time": 1740810522,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 170707,
       "num": 170707,
       "word": "肖战VOGUE最佳街拍",
       "onboard_time": 1740801798,
       "rank": 36,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 169223,
+      "num": 613144,
+      "word": "夸克让某搜索无路可走",
+      "onboard_time": 1740808857,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 167199,
@@ -1075,14 +1131,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 136198,
-      "num": 394107,
-      "word": "侯明昊秀场怼脸状态",
-      "onboard_time": 1740810342,
-      "rank": 19,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 135226,
       "num": 135226,
       "word": "8岁脑癌男孩吆喝叫卖为妈妈揽客",
@@ -1104,22 +1152,6 @@
       "word": "莲花集团CEO疑似回应小米",
       "onboard_time": 1740749720,
       "rank": 29,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 134776,
-      "num": 253057,
-      "word": "张艺兴sheep真的可以再打一百年",
-      "onboard_time": 1740810522,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 134629,
-      "num": 613144,
-      "word": "夸克让某搜索无路可走",
-      "onboard_time": 1740808857,
-      "rank": 14,
       "category": "互联网"
     },
     {
@@ -1153,14 +1185,6 @@
       "onboard_time": 1740791238,
       "rank": 34,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 129011,
-      "num": 133850,
-      "word": "樊振东将和甄子丹李宇春同台",
-      "onboard_time": 1740810463,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 128062,
@@ -1451,6 +1475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 85684,
+      "num": 685554,
+      "word": "建议重拳整治犬咬伤人问题",
+      "onboard_time": 1740809747,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84293,
       "num": 84293,
       "word": "台湾正研究让所有适龄女性去当兵",
@@ -1545,6 +1577,14 @@
       "onboard_time": 1740798498,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65073,
+      "num": 299014,
+      "word": "洛城德比",
+      "onboard_time": 1740811177,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 59489,
@@ -1675,14 +1715,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 32782,
-      "num": 638474,
-      "word": "建议重拳整治犬咬伤人问题",
-      "onboard_time": 1740809747,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 31635,
       "num": 57329,
       "word": "私贴公务用车车贴或违法",
@@ -1779,6 +1811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 19487,
+      "num": 303503,
+      "word": "一张图看美乌领导人表情变化",
+      "onboard_time": 1740811236,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 18262,
       "num": 21003,
       "word": "苏新皓彩排花絮反差感",
@@ -1841,6 +1881,14 @@
       "onboard_time": 1740773891,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9360,
+      "num": 159551,
+      "word": "丁真和粉色适配度好高",
+      "onboard_time": 1740811236,
+      "rank": 45,
+      "category": "美食,艺人"
     },
     {
       "raw_hot": 8874,
