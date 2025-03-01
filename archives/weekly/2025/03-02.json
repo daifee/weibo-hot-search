@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1740867650196,
+  "endTime": 1740868688595,
   "band_list": [
     {
       "raw_hot": 1119656,
@@ -187,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185955,
+      "num": 457686,
+      "word": "方大同经纪人谈后事相关处理",
+      "onboard_time": 1740860710,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183443,
       "num": 316566,
       "word": "20岁高颜值自闭症小伙学音乐10年",
@@ -201,6 +209,14 @@
       "onboard_time": 1740835883,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166832,
+      "num": 98897,
+      "word": "特朗普称泽连斯基需停止对普京负面言论",
+      "onboard_time": 1740862212,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 166498,
@@ -225,14 +241,6 @@
       "onboard_time": 1740831504,
       "rank": 22,
       "category": "艺人,综艺"
-    },
-    {
-      "raw_hot": 151710,
-      "num": 364551,
-      "word": "方大同经纪人谈后事相关处理",
-      "onboard_time": 1740860710,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 145127,
@@ -281,14 +289,6 @@
       "onboard_time": 1740836063,
       "rank": 29,
       "category": "美食"
-    },
-    {
-      "raw_hot": 120123,
-      "num": 75403,
-      "word": "特朗普称泽连斯基需停止对普京负面言论",
-      "onboard_time": 1740862212,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 118164,
@@ -483,6 +483,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 52648,
+      "num": 52648,
+      "word": "杨紫摄影刘任捷",
+      "onboard_time": 1740865391,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 46649,
       "num": 315665,
       "word": "国安客场领先申花",
@@ -491,20 +499,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44874,
+      "num": 44874,
+      "word": "tods副总顺走了肖战的应援手幅秀",
+      "onboard_time": 1740865511,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 41847,
       "num": 150024,
       "word": "3月治愈系壁纸",
       "onboard_time": 1740848057,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 40578,
-      "num": 40578,
-      "word": "杨紫摄影刘任捷",
-      "onboard_time": 1740865391,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 37660,
@@ -531,14 +539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 31791,
-      "num": 31791,
-      "word": "tods副总顺走了肖战的应援手幅秀",
-      "onboard_time": 1740865511,
-      "rank": 17,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 31366,
       "num": 316459,
       "word": "无畏契约曼谷大师赛",
@@ -563,11 +563,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 29250,
-      "num": 29250,
+      "raw_hot": 30477,
+      "num": 30477,
       "word": "泽连斯基被要求提前离开",
       "onboard_time": 1740863413,
       "rank": 47,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 27815,
+      "num": 27815,
+      "word": "泽连斯基不认为需要向特朗普道歉",
+      "onboard_time": 1740864432,
+      "rank": 49,
       "category": "国际时政"
     },
     {
@@ -627,20 +635,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 19451,
-      "num": 19451,
-      "word": "泽连斯基不认为需要向特朗普道歉",
-      "onboard_time": 1740864432,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 18205,
+      "raw_hot": 21075,
       "num": 142891,
       "word": "这个定海神器有多了不起",
       "onboard_time": 1740826523,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 19268,
+      "num": 30159,
+      "word": "板蓝根青菜是啥味",
+      "onboard_time": 1740866352,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17637,
+      "num": 23540,
+      "word": "樊振东合唱壮志骄阳",
+      "onboard_time": 1740866891,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 17593,
@@ -659,14 +675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 15360,
-      "num": 17552,
-      "word": "樊振东合唱壮志骄阳",
-      "onboard_time": 1740866891,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 15096,
       "num": 25377,
       "word": "檀健次醉酒戏很有生活了",
@@ -681,14 +689,6 @@
       "onboard_time": 1740860710,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 14102,
-      "num": 30159,
-      "word": "板蓝根青菜是啥味",
-      "onboard_time": 1740866352,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12377,
@@ -731,6 +731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 9025,
+      "num": 27057,
+      "word": "当3月第一天碰上龙抬头",
+      "onboard_time": 1740867551,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 8704,
       "num": 26864,
       "word": "全国政协十四届三次会议发布会",
@@ -747,11 +755,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 8266,
-      "num": 23168,
-      "word": "当3月第一天碰上龙抬头",
-      "onboard_time": 1740867551,
-      "rank": 32,
+      "raw_hot": 8305,
+      "num": 32926,
+      "word": "周一全国气温普遍下降",
+      "onboard_time": 1740868331,
+      "rank": 23,
       "category": "民生新闻"
     }
   ],
