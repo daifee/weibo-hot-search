@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1740853733681,
+  "endTime": 1740854507995,
   "band_list": [
     {
       "raw_hot": 1119656,
@@ -123,20 +123,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 285870,
+      "num": 117914,
+      "word": "老鼠人",
+      "onboard_time": 1740849975,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 280542,
       "num": 316986,
       "word": "魏大勋陈伟霆 老九门2",
       "onboard_time": 1740840024,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 257398,
-      "num": 117914,
-      "word": "老鼠人",
-      "onboard_time": 1740849975,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 230415,
@@ -491,7 +491,7 @@
       "category": "民生新闻,电影"
     },
     {
-      "raw_hot": 32176,
+      "raw_hot": 33068,
       "num": 54313,
       "word": "谁能想到博物馆一扇窗变成了景点",
       "onboard_time": 1740852134,
@@ -515,7 +515,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 25113,
+      "raw_hot": 27052,
       "num": 54268,
       "word": "鞠婧祎对HelloKitty是真爱",
       "onboard_time": 1740850756,
@@ -531,20 +531,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 21868,
+      "num": 54314,
+      "word": "央视曝光量子鞋垫骗局",
+      "onboard_time": 1740852614,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21115,
+      "num": 47557,
+      "word": "加点zuo料",
+      "onboard_time": 1740854413,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 16432,
       "num": 142891,
       "word": "这个定海神器有多了不起",
       "onboard_time": 1740826523,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 15959,
-      "num": 54314,
-      "word": "央视曝光量子鞋垫骗局",
-      "onboard_time": 1740852614,
-      "rank": 24,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
