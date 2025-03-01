@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740838854029,
+  "endTime": 1740839882702,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -67,19 +67,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 2189622,
+      "num": 2189622,
+      "word": "单依纯哽咽唱才二十三",
+      "onboard_time": 1740837324,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 2179891,
       "num": 2179891,
       "word": "陶喆唱爱爱爱悼念方大同",
       "onboard_time": 1740837444,
       "rank": 0,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 2176585,
-      "num": 1131006,
-      "word": "单依纯哽咽唱才二十三",
-      "onboard_time": 1740837324,
-      "rank": 3,
       "category": "演出"
     },
     {
@@ -219,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1106841,
+      "num": 1106841,
+      "word": "邓紫棋演唱会上哭了",
+      "onboard_time": 1740837924,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1077905,
       "num": 1576274,
       "word": "爆辣曹氏",
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 1044214,
-      "num": 1044214,
+      "num": 1148809,
       "word": "1.88元考试神器已售60万件",
       "onboard_time": 1740827782,
       "rank": 39,
@@ -267,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 955934,
+      "num": 349475,
+      "word": "乳腺癌女子提醒网友少碰购物小票",
+      "onboard_time": 1740835824,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 954453,
       "num": 883948,
       "word": "被家暴16次女子被前夫控制社交没朋友",
@@ -281,14 +297,6 @@
       "onboard_time": 1740800898,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 926454,
-      "num": 349475,
-      "word": "乳腺癌女子提醒网友少碰购物小票",
-      "onboard_time": 1740835824,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 892712,
@@ -329,14 +337,6 @@
       "onboard_time": 1740754941,
       "rank": 10,
       "category": "民生新闻,情感"
-    },
-    {
-      "raw_hot": 730409,
-      "num": 730409,
-      "word": "邓紫棋演唱会上哭了",
-      "onboard_time": 1740837924,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 727272,
@@ -436,7 +436,7 @@
     },
     {
       "raw_hot": 610273,
-      "num": 871935,
+      "num": 1116749,
       "word": "泽连斯基抵达英国",
       "onboard_time": 1740830003,
       "rank": 5,
@@ -739,6 +739,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 373049,
+      "num": 482161,
+      "word": "抗炎食物",
+      "onboard_time": 1740836063,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 368631,
       "num": 368631,
       "word": "张学友回应欠债传闻",
@@ -955,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 294341,
+      "num": 668433,
+      "word": "樊振东将去宁波体能补测",
+      "onboard_time": 1740836242,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 293775,
       "num": 333832,
       "word": "秦彻",
@@ -1107,6 +1123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 251184,
+      "num": 251184,
+      "word": "又听到樊振东唱粤语歌了",
+      "onboard_time": 1740838404,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 250810,
       "num": 250810,
       "word": "碧游村还是别欢迎我了",
@@ -1123,20 +1147,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 246744,
-      "num": 482161,
-      "word": "抗炎食物",
-      "onboard_time": 1740836063,
-      "rank": 44,
-      "category": "美食"
-    },
-    {
       "raw_hot": 245924,
       "num": 245924,
       "word": "央视用9年跟拍一群长跑少年",
       "onboard_time": 1740781032,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 245876,
+      "num": 245876,
+      "word": "李佳隆求婚",
+      "onboard_time": 1740838944,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 244762,
@@ -1153,14 +1177,6 @@
       "onboard_time": 1740754221,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 243502,
-      "num": 668433,
-      "word": "樊振东将去宁波体能补测",
-      "onboard_time": 1740836242,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 242525,
@@ -1299,6 +1315,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219633,
+      "num": 219633,
+      "word": "TES一穿五",
+      "onboard_time": 1740836363,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 218693,
+      "num": 218693,
+      "word": "时代少年团 太原",
+      "onboard_time": 1740839544,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 217172,
       "num": 338441,
       "word": "杭州房价要开始涨了吗",
@@ -1403,6 +1435,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206733,
+      "num": 206733,
+      "word": "EDGM回应无畏黑称事件",
+      "onboard_time": 1740839303,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 205748,
+      "num": 713861,
+      "word": "特朗普泽连斯基吵架前后对比",
+      "onboard_time": 1740837563,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 203553,
+      "num": 203553,
+      "word": "欧豪多上上网吧",
+      "onboard_time": 1740838944,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203530,
       "num": 214108,
       "word": "杨紫坠入淡雅梦境",
@@ -1427,6 +1483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202447,
+      "num": 202447,
+      "word": "李羲承进行曲",
+      "onboard_time": 1740838465,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 202212,
       "num": 202212,
       "word": "多名环卫工对着公厕跪拜",
@@ -1435,20 +1499,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 202068,
-      "num": 202068,
-      "word": "又听到樊振东唱粤语歌了",
-      "onboard_time": 1740838404,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 201412,
       "num": 201412,
       "word": "二月二有三个风俗",
       "onboard_time": 1740785175,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 200853,
+      "num": 200853,
+      "word": "白鹿版你打我噻",
+      "onboard_time": 1740838824,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 199584,
@@ -1547,14 +1611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 192955,
-      "num": 192955,
-      "word": "TES一穿五",
-      "onboard_time": 1740836363,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 191787,
       "num": 394107,
       "word": "侯明昊秀场怼脸状态",
@@ -1569,14 +1625,6 @@
       "onboard_time": 1740837684,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 190188,
-      "num": 186523,
-      "word": "李羲承进行曲",
-      "onboard_time": 1740838465,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 189629,
@@ -1681,6 +1729,14 @@
       "onboard_time": 1740826943,
       "rank": 19,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 180951,
+      "num": 180951,
+      "word": "杨紫仙紫妆",
+      "onboard_time": 1740839665,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 180244,
@@ -1995,6 +2051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158266,
+      "num": 158266,
+      "word": "周深来自神秘东方的力量",
+      "onboard_time": 1740839184,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 158000,
       "num": 455681,
       "word": "夸克硬刚",
@@ -2009,14 +2073,6 @@
       "onboard_time": 1740824123,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 155891,
-      "num": 155891,
-      "word": "白鹿版你打我噻",
-      "onboard_time": 1740838824,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 155677,
@@ -2041,6 +2097,14 @@
       "onboard_time": 1740762615,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154906,
+      "num": 154906,
+      "word": "毛不易来深圳也逃不过讲PPT",
+      "onboard_time": 1740839724,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 154006,
@@ -2123,12 +2187,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145537,
-      "num": 145537,
-      "word": "特朗普泽连斯基吵架前后对比",
-      "onboard_time": 1740837563,
-      "rank": 47,
-      "category": "国际时政"
+      "raw_hot": 145947,
+      "num": 1250586,
+      "word": "民营企业海外订单激增",
+      "onboard_time": 1740836544,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 144411,
@@ -2169,14 +2233,6 @@
       "onboard_time": 1740820462,
       "rank": 36,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 141132,
-      "num": 1250586,
-      "word": "民营企业海外订单激增",
-      "onboard_time": 1740836544,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 140739,
@@ -2233,6 +2289,14 @@
       "onboard_time": 1740833484,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138630,
+      "num": 138630,
+      "word": "今屿平衡车撞碎花盆后续",
+      "onboard_time": 1740839424,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 137638,
@@ -2523,6 +2587,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 109385,
+      "num": 467486,
+      "word": "年轻人被父母要求按月上交家用",
+      "onboard_time": 1740837743,
+      "rank": 14,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 109155,
       "num": 109155,
       "word": "单依纯薛之谦合唱",
@@ -2811,6 +2883,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 88003,
+      "num": 271598,
+      "word": "专家称可坚定买入黄金",
+      "onboard_time": 1740839244,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87684,
       "num": 102688,
       "word": "樊振东为中国棒球队加油",
@@ -3025,14 +3105,6 @@
       "onboard_time": 1740797838,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 59289,
-      "num": 467486,
-      "word": "年轻人被父母要求按月上交家用",
-      "onboard_time": 1740837743,
-      "rank": 14,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 57923,
@@ -3472,6 +3544,9 @@
     },
     {
       "word": "#把平安中国建设推向更高水平#"
+    },
+    {
+      "word": "#奋进的春天#"
     }
   ]
 }
