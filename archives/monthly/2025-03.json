@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740803208829,
+  "endTime": 1740804031284,
   "band_list": [
     {
       "raw_hot": 2475221,
@@ -120,6 +120,14 @@
       "word": "居民拆房挖出一条40斤重娃娃鱼",
       "onboard_time": 1740789617,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 590487,
+      "num": 590487,
+      "word": "妈妈包书皮错写成自己名字",
+      "onboard_time": 1740801738,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -347,14 +355,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 296135,
-      "num": 296135,
-      "word": "妈妈包书皮错写成自己名字",
-      "onboard_time": 1740801738,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 289763,
       "num": 289763,
       "word": "明日方舟",
@@ -435,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 260135,
+      "num": 260135,
+      "word": "第五人格",
+      "onboard_time": 1740802819,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 251771,
       "num": 437983,
       "word": "男子作AI换脸色情视频每分钟50元",
@@ -457,6 +465,14 @@
       "onboard_time": 1740756679,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 247706,
+      "num": 247706,
+      "word": "留几手吐槽芒果台瞧不起他",
+      "onboard_time": 1740803118,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 245924,
@@ -491,6 +507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 230332,
+      "num": 330049,
+      "word": "男子喝满月酒酒驾身亡家属索赔主办人",
+      "onboard_time": 1740799277,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 226114,
       "num": 226114,
       "word": "爱你",
@@ -499,12 +523,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 219008,
-      "num": 219008,
-      "word": "第五人格",
-      "onboard_time": 1740802819,
-      "rank": 31,
-      "category": "游戏"
+      "raw_hot": 221959,
+      "num": 221959,
+      "word": "乌克兰被端上了餐桌",
+      "onboard_time": 1740802218,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 215865,
@@ -529,6 +553,14 @@
       "onboard_time": 1740707118,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 207433,
+      "num": 190205,
+      "word": "迪丽热巴三月的行程图",
+      "onboard_time": 1740799578,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 202212,
@@ -571,20 +603,28 @@
       "category": "财经"
     },
     {
-      "raw_hot": 190205,
-      "num": 190205,
-      "word": "迪丽热巴三月的行程图",
-      "onboard_time": 1740799578,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 189629,
       "num": 246279,
       "word": "十个勤天展开一天实体专辑",
       "onboard_time": 1740798678,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 185000,
+      "num": 287769,
+      "word": "男子为办退休要挖512地震废墟",
+      "onboard_time": 1740802698,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183543,
+      "num": 183543,
+      "word": "难哄",
+      "onboard_time": 1740801978,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 183147,
@@ -603,19 +643,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180244,
+      "num": 183263,
+      "word": "庄达菲心选小狗妹",
+      "onboard_time": 1740803478,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 179188,
       "num": 173341,
       "word": "肥娟老公因小吃店营业肌肉男变大肚子",
       "onboard_time": 1740799338,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 176372,
-      "num": 302667,
-      "word": "男子喝满月酒酒驾身亡家属索赔主办人",
-      "onboard_time": 1740799277,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -633,14 +673,6 @@
       "onboard_time": 1740751043,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 175780,
-      "num": 175780,
-      "word": "乌克兰被端上了餐桌",
-      "onboard_time": 1740802218,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 174320,
@@ -665,14 +697,6 @@
       "onboard_time": 1740801798,
       "rank": 36,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 170694,
-      "num": 170694,
-      "word": "难哄",
-      "onboard_time": 1740801978,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 167199,
@@ -939,14 +963,6 @@
       "category": "互联网,音乐"
     },
     {
-      "raw_hot": 113275,
-      "num": 113275,
-      "word": "留几手吐槽芒果台瞧不起他",
-      "onboard_time": 1740803118,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 112869,
       "num": 112869,
       "word": "特朗普与泽连斯基争吵的分歧点是什么",
@@ -985,6 +1001,22 @@
       "onboard_time": 1740756559,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 109096,
+      "num": 363351,
+      "word": "家庭摄像头遭破解260元可永久观看",
+      "onboard_time": 1740802698,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108574,
+      "num": 248822,
+      "word": "邓超一开始以为是自己粉丝",
+      "onboard_time": 1740802998,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 107652,
@@ -1139,6 +1171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 84854,
+      "num": 136374,
+      "word": "快船vs湖人",
+      "onboard_time": 1740803898,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84293,
       "num": 84293,
       "word": "台湾正研究让所有适龄女性去当兵",
@@ -1267,6 +1307,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 48785,
+      "num": 136319,
+      "word": "米切尔41分",
+      "onboard_time": 1740803239,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 45086,
       "num": 45086,
       "word": "七星连珠穿越文",
@@ -1363,14 +1411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 27787,
-      "num": 358906,
-      "word": "家庭摄像头遭破解260元可永久观看",
-      "onboard_time": 1740802698,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 27689,
       "num": 248040,
       "word": "于正会竭尽全力拍好之后的每一部剧",
@@ -1403,14 +1443,6 @@
       "category": "国内时政,财经"
     },
     {
-      "raw_hot": 24740,
-      "num": 287769,
-      "word": "男子为办退休要挖512地震废墟",
-      "onboard_time": 1740802698,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 24641,
       "num": 30314,
       "word": "初步举证 当受害者不再选择沉默",
@@ -1441,14 +1473,6 @@
       "onboard_time": 1740800837,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 19753,
-      "num": 248822,
-      "word": "邓超一开始以为是自己粉丝",
-      "onboard_time": 1740802998,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 18262,
