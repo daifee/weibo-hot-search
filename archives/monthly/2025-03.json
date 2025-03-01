@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740857739260,
+  "endTime": 1740860584475,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -3531,6 +3531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 31305,
+      "num": 27020,
+      "word": "王力宏眼中的方大同",
+      "onboard_time": 1740860111,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 30988,
       "num": 196224,
       "word": "大爷儿时被抱养做梦都在找父母",
@@ -3595,6 +3603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27624,
+      "num": 27624,
+      "word": "何秋亊歌友会",
+      "onboard_time": 1740859512,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27052,
       "num": 54268,
       "word": "鞠婧祎对HelloKitty是真爱",
@@ -3633,6 +3649,14 @@
       "onboard_time": 1740833964,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 25438,
+      "num": 53440,
+      "word": "人生就是一场又一场告别",
+      "onboard_time": 1740856813,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 24641,
@@ -3771,6 +3795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 15786,
+      "num": 30600,
+      "word": "你以为的你以为是你以为的吗",
+      "onboard_time": 1740856512,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15560,
       "num": 140213,
       "word": "武汉多家医院接入DeepSeek",
@@ -3793,14 +3825,6 @@
       "onboard_time": 1740777131,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 13418,
-      "num": 53440,
-      "word": "人生就是一场又一场告别",
-      "onboard_time": 1740856813,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 12377,
@@ -3835,11 +3859,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 9754,
-      "num": 30600,
-      "word": "你以为的你以为是你以为的吗",
-      "onboard_time": 1740856512,
-      "rank": 30,
+      "raw_hot": 10861,
+      "num": 26977,
+      "word": "2025开年看活力中国",
+      "onboard_time": 1740860171,
+      "rank": 37,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 9945,
+      "num": 26935,
+      "word": "二航长青把98.5米钢管桩钉入海底岩层",
+      "onboard_time": 1740860292,
+      "rank": 44,
       "category": "民生新闻"
     },
     {

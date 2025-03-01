@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1740857739260,
+  "endTime": 1740860584475,
   "band_list": [
     {
       "raw_hot": 1119656,
@@ -515,6 +515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 31305,
+      "num": 27020,
+      "word": "王力宏眼中的方大同",
+      "onboard_time": 1740860111,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 30651,
       "num": 54278,
       "word": "唐总你夫人的马甲掉了",
@@ -523,11 +531,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 27624,
+      "num": 27624,
+      "word": "何秋亊歌友会",
+      "onboard_time": 1740859512,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27052,
       "num": 54268,
       "word": "鞠婧祎对HelloKitty是真爱",
       "onboard_time": 1740850756,
       "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 25438,
+      "num": 53440,
+      "word": "人生就是一场又一场告别",
+      "onboard_time": 1740856813,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -571,12 +595,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 13418,
-      "num": 53440,
-      "word": "人生就是一场又一场告别",
-      "onboard_time": 1740856813,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 15786,
+      "num": 30600,
+      "word": "你以为的你以为是你以为的吗",
+      "onboard_time": 1740856512,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12377,
@@ -595,11 +619,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 9754,
-      "num": 30600,
-      "word": "你以为的你以为是你以为的吗",
-      "onboard_time": 1740856512,
-      "rank": 30,
+      "raw_hot": 10861,
+      "num": 26977,
+      "word": "2025开年看活力中国",
+      "onboard_time": 1740860171,
+      "rank": 37,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 9945,
+      "num": 26935,
+      "word": "二航长青把98.5米钢管桩钉入海底岩层",
+      "onboard_time": 1740860292,
+      "rank": 44,
       "category": "民生新闻"
     }
   ],
