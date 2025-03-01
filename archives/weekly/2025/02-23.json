@@ -1,6 +1,6 @@
 {
   "startTime": 1740241525800,
-  "endTime": 1740829043469,
+  "endTime": 1740832840027,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -547,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1678045,
+      "num": 1320986,
+      "word": "方大同留下最后的话",
+      "onboard_time": 1740828622,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1676338,
       "num": 1064611,
       "word": "美国记者第一次见白宫里吵架",
@@ -961,14 +969,6 @@
       "onboard_time": 1740444380,
       "rank": 1,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1320986,
-      "num": 1320986,
-      "word": "方大同留下最后的话",
-      "onboard_time": 1740828622,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 1320459,
@@ -1457,6 +1457,14 @@
       "onboard_time": 1740397819,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1041451,
+      "num": 1041451,
+      "word": "1.88元考试神器已售60万件",
+      "onboard_time": 1740827782,
+      "rank": 39,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 1038378,
@@ -3179,6 +3187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 626941,
+      "num": 626941,
+      "word": "张馨予想跟何捷绑爱情锁",
+      "onboard_time": 1740830483,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 626377,
       "num": 626377,
       "word": "居民拆房挖出一条40斤重娃娃鱼",
@@ -3795,6 +3811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 540020,
+      "num": 540020,
+      "word": "哪吒2冲上143亿",
+      "onboard_time": 1740828382,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 539007,
       "num": 294897,
       "word": "胖东来决定来郑州开店",
@@ -4131,6 +4155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 506817,
+      "num": 506817,
+      "word": "泽连斯基抵达英国",
+      "onboard_time": 1740830003,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 504592,
       "num": 504592,
       "word": "金价为何大跳水",
@@ -4409,6 +4441,14 @@
       "onboard_time": 1740638899,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 475219,
+      "num": 475219,
+      "word": "张晚意 古偶",
+      "onboard_time": 1740829703,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 474964,
@@ -4761,6 +4801,14 @@
       "onboard_time": 1740812490,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 445067,
+      "num": 374578,
+      "word": "方大同去世陶晶莹全家都哭了",
+      "onboard_time": 1740831504,
+      "rank": 11,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 444767,
@@ -5443,6 +5491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 378388,
+      "num": 378388,
+      "word": "一个没准备短袖的人轻轻碎了",
+      "onboard_time": 1740829463,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 376835,
       "num": 365019,
       "word": "沈月头像大户上新",
@@ -5699,6 +5755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 354638,
+      "num": 354638,
+      "word": "景甜人缘",
+      "onboard_time": 1740826281,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 354174,
       "num": 354174,
       "word": "张凌赫人缘",
@@ -5777,6 +5841,14 @@
       "onboard_time": 1740329236,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 349785,
+      "num": 349785,
+      "word": "全员加速中",
+      "onboard_time": 1740831261,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 349615,
@@ -6419,6 +6491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 306640,
+      "num": 306640,
+      "word": "多位明星曾患气胸",
+      "onboard_time": 1740831623,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 306121,
       "num": 356778,
       "word": "肖战米兰到达",
@@ -6489,6 +6569,14 @@
       "onboard_time": 1740790877,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 302822,
+      "num": 302822,
+      "word": "白宫这场骂战震惊世界",
+      "onboard_time": 1740819922,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 302460,
@@ -6593,14 +6681,6 @@
       "onboard_time": 1740724639,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 297214,
-      "num": 237788,
-      "word": "1.88元考试神器已售60万件",
-      "onboard_time": 1740827782,
-      "rank": 39,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 296548,
@@ -6753,14 +6833,6 @@
       "onboard_time": 1740554239,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 291323,
-      "num": 245408,
-      "word": "景甜人缘",
-      "onboard_time": 1740826281,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 291159,
@@ -7539,14 +7611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 257334,
-      "num": 257334,
-      "word": "白宫这场骂战震惊世界",
-      "onboard_time": 1740819922,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 256811,
       "num": 256811,
       "word": "杨蓉央视严选",
@@ -7753,6 +7817,14 @@
       "onboard_time": 1740289520,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 247897,
+      "num": 247897,
+      "word": "这类常见小票可能影响生殖发育和致癌",
+      "onboard_time": 1740831861,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 247877,
@@ -9107,6 +9179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 214783,
+      "num": 214783,
+      "word": "陈楚生唱跳",
+      "onboard_time": 1740831802,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 214330,
       "num": 394799,
       "word": "唐九洲新剧全自动闯祸弟",
@@ -9377,6 +9457,14 @@
       "onboard_time": 1740624680,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 208246,
+      "num": 208246,
+      "word": "赵露思直播",
+      "onboard_time": 1740832522,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 208231,
@@ -10203,6 +10291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195081,
+      "num": 195081,
+      "word": "被压在山下的猴子不只有孙悟空",
+      "onboard_time": 1740831802,
+      "rank": 28,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 194981,
       "num": 185987,
       "word": "易烊千玺杂志",
@@ -10249,6 +10345,14 @@
       "onboard_time": 1740366860,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194308,
+      "num": 194308,
+      "word": "长沙地铁把女生心事投屏了",
+      "onboard_time": 1740831504,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194274,
@@ -10361,6 +10465,14 @@
       "onboard_time": 1740548360,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 193076,
+      "num": 193076,
+      "word": "用一张抬头照打卡龙抬头",
+      "onboard_time": 1740832642,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 192884,
@@ -10987,6 +11099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185653,
+      "num": 362246,
+      "word": "泽连斯基离开美国留一串谢谢",
+      "onboard_time": 1740831381,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 185631,
       "num": 251460,
       "word": "宋丛人设",
@@ -11201,14 +11321,6 @@
       "onboard_time": 1740714318,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 183198,
-      "num": 183198,
-      "word": "哪吒2冲上143亿",
-      "onboard_time": 1740828382,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 183172,
@@ -11603,6 +11715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178913,
+      "num": 178913,
+      "word": "白敬亭回应网友说想跟他谈又想生他",
+      "onboard_time": 1740831923,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178896,
       "num": 267381,
       "word": "绵柔巾不是棉柔巾",
@@ -11681,6 +11801,14 @@
       "onboard_time": 1740804438,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177748,
+      "num": 177748,
+      "word": "北上直播",
+      "onboard_time": 1740831504,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 177425,
@@ -13107,6 +13235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 162224,
+      "num": 162224,
+      "word": "长期吃素或会导致抵抗力下降",
+      "onboard_time": 1740830722,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 162051,
       "num": 162051,
       "word": "老人坐轮椅穿马路被货车推行几百米",
@@ -13411,6 +13547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158951,
+      "num": 158951,
+      "word": "爱你的编剧是真上过班",
+      "onboard_time": 1740832283,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158820,
       "num": 158820,
       "word": "北上口碑",
@@ -13585,6 +13729,14 @@
       "onboard_time": 1740313582,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157146,
+      "num": 166066,
+      "word": "超9成肠癌由肠息肉发展而来",
+      "onboard_time": 1740824004,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 157087,
@@ -13827,6 +13979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153851,
+      "num": 160422,
+      "word": "广东亿万富翁家庭达到17100户",
+      "onboard_time": 1740830722,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153837,
       "num": 153837,
       "word": "美俄正秘密谈判开发北极",
@@ -13889,14 +14049,6 @@
       "onboard_time": 1740705138,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 152948,
-      "num": 166066,
-      "word": "超9成肠癌由肠息肉发展而来",
-      "onboard_time": 1740824004,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 152938,
@@ -14747,6 +14899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143634,
+      "num": 143634,
+      "word": "马苏演技",
+      "onboard_time": 1740832163,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143587,
       "num": 143587,
       "word": "周深悉尼演唱会购票排队人数破十万",
@@ -15401,6 +15561,14 @@
       "onboard_time": 1740358761,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 135602,
+      "num": 325425,
+      "word": "张凌赫戴钻戒一秒钟八百个动作",
+      "onboard_time": 1740832163,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 135550,
@@ -17211,6 +17379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110903,
+      "num": 110903,
+      "word": "EDG",
+      "onboard_time": 1740832764,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 110598,
       "num": 324797,
       "word": "私家车贴公务用车加塞伤人",
@@ -18979,6 +19155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 75641,
+      "num": 1478816,
+      "word": "春龙抬首好运当头",
+      "onboard_time": 1740827423,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 75203,
       "num": 225282,
       "word": "网红罗大美遇害家属透露细节",
@@ -19225,14 +19409,6 @@
       "onboard_time": 1740465800,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 67810,
-      "num": 1478816,
-      "word": "春龙抬首好运当头",
-      "onboard_time": 1740827423,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 67695,
@@ -22553,6 +22729,14 @@
       "onboard_time": 1740740421,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 14941,
+      "num": 112498,
+      "word": "夸克Al已成功进入tony圈",
+      "onboard_time": 1740832583,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 14857,

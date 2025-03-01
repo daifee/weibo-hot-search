@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740829043469,
+  "endTime": 1740832840027,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1678045,
+      "num": 1320986,
+      "word": "方大同留下最后的话",
+      "onboard_time": 1740828622,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1676338,
       "num": 1064611,
       "word": "美国记者第一次见白宫里吵架",
@@ -128,14 +136,6 @@
       "word": "众星缅怀方大同",
       "onboard_time": 1740819684,
       "rank": 5,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1320986,
-      "num": 1320986,
-      "word": "方大同留下最后的话",
-      "onboard_time": 1740828622,
-      "rank": 0,
       "category": "艺人"
     },
     {
@@ -217,6 +217,14 @@
       "onboard_time": 1740798678,
       "rank": 3,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 1041451,
+      "num": 1041451,
+      "word": "1.88元考试神器已售60万件",
+      "onboard_time": 1740827782,
+      "rank": 39,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 1038378,
@@ -339,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 626941,
+      "num": 626941,
+      "word": "张馨予想跟何捷绑爱情锁",
+      "onboard_time": 1740830483,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 626377,
       "num": 626377,
       "word": "居民拆房挖出一条40斤重娃娃鱼",
@@ -403,6 +419,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 540020,
+      "num": 540020,
+      "word": "哪吒2冲上143亿",
+      "onboard_time": 1740828382,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 523241,
       "num": 765753,
       "word": "退税金额原来是这样算出来的",
@@ -435,6 +459,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 506817,
+      "num": 506817,
+      "word": "泽连斯基抵达英国",
+      "onboard_time": 1740830003,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 500284,
       "num": 500284,
       "word": "湖南水上交通事故已致11人遇难",
@@ -465,6 +497,14 @@
       "onboard_time": 1740806179,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 475219,
+      "num": 475219,
+      "word": "张晚意 古偶",
+      "onboard_time": 1740829703,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 474804,
@@ -505,6 +545,14 @@
       "onboard_time": 1740812490,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 445067,
+      "num": 374578,
+      "word": "方大同去世陶晶莹全家都哭了",
+      "onboard_time": 1740831504,
+      "rank": 11,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 442634,
@@ -563,6 +611,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 378388,
+      "num": 378388,
+      "word": "一个没准备短袖的人轻轻碎了",
+      "onboard_time": 1740829463,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 368631,
       "num": 368631,
       "word": "张学友回应欠债传闻",
@@ -609,6 +665,22 @@
       "onboard_time": 1740786497,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 354638,
+      "num": 354638,
+      "word": "景甜人缘",
+      "onboard_time": 1740826281,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 349785,
+      "num": 349785,
+      "word": "全员加速中",
+      "onboard_time": 1740831261,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 348830,
@@ -659,6 +731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 306640,
+      "num": 306640,
+      "word": "多位明星曾患气胸",
+      "onboard_time": 1740831623,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 303798,
       "num": 303798,
       "word": "章若楠难哄忍泪这一下",
@@ -673,6 +753,14 @@
       "onboard_time": 1740790877,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 302822,
+      "num": 302822,
+      "word": "白宫这场骂战震惊世界",
+      "onboard_time": 1740819922,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 299588,
@@ -697,14 +785,6 @@
       "onboard_time": 1740823163,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 297214,
-      "num": 237788,
-      "word": "1.88元考试神器已售60万件",
-      "onboard_time": 1740827782,
-      "rank": 39,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 295749,
@@ -745,14 +825,6 @@
       "onboard_time": 1740816325,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 291323,
-      "num": 245408,
-      "word": "景甜人缘",
-      "onboard_time": 1740826281,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 290585,
@@ -883,14 +955,6 @@
       "category": "健康医疗,艺人"
     },
     {
-      "raw_hot": 257334,
-      "num": 257334,
-      "word": "白宫这场骂战震惊世界",
-      "onboard_time": 1740819922,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 251771,
       "num": 437983,
       "word": "男子作AI换脸色情视频每分钟50元",
@@ -905,6 +969,14 @@
       "onboard_time": 1740758479,
       "rank": 18,
       "category": "综艺,动漫"
+    },
+    {
+      "raw_hot": 247897,
+      "num": 247897,
+      "word": "这类常见小票可能影响生殖发育和致癌",
+      "onboard_time": 1740831861,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 247877,
@@ -1075,6 +1147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214783,
+      "num": 214783,
+      "word": "陈楚生唱跳",
+      "onboard_time": 1740831802,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 214222,
       "num": 214222,
       "word": "二月二",
@@ -1121,6 +1201,14 @@
       "onboard_time": 1740811236,
       "rank": 45,
       "category": "美食,艺人"
+    },
+    {
+      "raw_hot": 208246,
+      "num": 208246,
+      "word": "赵露思直播",
+      "onboard_time": 1740832522,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 207743,
@@ -1203,12 +1291,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195081,
+      "num": 195081,
+      "word": "被压在山下的猴子不只有孙悟空",
+      "onboard_time": 1740831802,
+      "rank": 28,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 194885,
       "num": 165448,
       "word": "周深拉斯维加斯唱好运来",
       "onboard_time": 1740827064,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 194308,
+      "num": 194308,
+      "word": "长沙地铁把女生心事投屏了",
+      "onboard_time": 1740831504,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193290,
@@ -1225,6 +1329,14 @@
       "onboard_time": 1740795137,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 193076,
+      "num": 193076,
+      "word": "用一张抬头照打卡龙抬头",
+      "onboard_time": 1740832642,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191787,
@@ -1251,6 +1363,14 @@
       "category": "健康医疗,艺人"
     },
     {
+      "raw_hot": 185653,
+      "num": 362246,
+      "word": "泽连斯基离开美国留一串谢谢",
+      "onboard_time": 1740831381,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 185592,
       "num": 185592,
       "word": "三人游",
@@ -1265,14 +1385,6 @@
       "onboard_time": 1740821423,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 183198,
-      "num": 183198,
-      "word": "哪吒2冲上143亿",
-      "onboard_time": 1740828382,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 183147,
@@ -1347,12 +1459,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 178913,
+      "num": 178913,
+      "word": "白敬亭回应网友说想跟他谈又想生他",
+      "onboard_time": 1740831923,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177800,
       "num": 1834438,
       "word": "二月二民俗有哪些",
       "onboard_time": 1740804438,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177748,
+      "num": 177748,
+      "word": "北上直播",
+      "onboard_time": 1740831504,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 176086,
@@ -1507,6 +1635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162224,
+      "num": 162224,
+      "word": "长期吃素或会导致抵抗力下降",
+      "onboard_time": 1740830722,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 161763,
       "num": 161763,
       "word": "教师资格证可享个税扣除",
@@ -1531,6 +1667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158951,
+      "num": 158951,
+      "word": "爱你的编剧是真上过班",
+      "onboard_time": 1740832283,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158812,
       "num": 158812,
       "word": "王俊凯宣传景甜新剧似锦",
@@ -1545,6 +1689,14 @@
       "onboard_time": 1740797298,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 157146,
+      "num": 166066,
+      "word": "超9成肠癌由肠息肉发展而来",
+      "onboard_time": 1740824004,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 157005,
@@ -1587,12 +1739,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 152948,
-      "num": 166066,
-      "word": "超9成肠癌由肠息肉发展而来",
-      "onboard_time": 1740824004,
-      "rank": 29,
-      "category": "健康医疗"
+      "raw_hot": 153851,
+      "num": 160422,
+      "word": "广东亿万富翁家庭达到17100户",
+      "onboard_time": 1740830722,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150579,
@@ -1649,6 +1801,14 @@
       "onboard_time": 1740826281,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 143634,
+      "num": 143634,
+      "word": "马苏演技",
+      "onboard_time": 1740832163,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 142702,
@@ -1739,6 +1899,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 135602,
+      "num": 325425,
+      "word": "张凌赫戴钻戒一秒钟八百个动作",
+      "onboard_time": 1740832163,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135226,
       "num": 135226,
       "word": "8岁脑癌男孩吆喝叫卖为妈妈揽客",
@@ -1761,6 +1929,14 @@
       "onboard_time": 1740749720,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 134813,
+      "num": 134813,
+      "word": "张康乐直播",
+      "onboard_time": 1740831324,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 133605,
@@ -1993,6 +2169,14 @@
       "onboard_time": 1740794238,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110903,
+      "num": 110903,
+      "word": "EDG",
+      "onboard_time": 1740832764,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 109716,
@@ -2387,6 +2571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75641,
+      "num": 1478816,
+      "word": "春龙抬首好运当头",
+      "onboard_time": 1740827423,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 74743,
       "num": 82445,
       "word": "湖南怀化水上交通事故已致9人遇难",
@@ -2409,14 +2601,6 @@
       "onboard_time": 1740738439,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 67810,
-      "num": 1478816,
-      "word": "春龙抬首好运当头",
-      "onboard_time": 1740827423,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 67628,
@@ -2817,6 +3001,14 @@
       "onboard_time": 1740793218,
       "rank": 29,
       "category": "健康医疗,互联网"
+    },
+    {
+      "raw_hot": 14941,
+      "num": 112498,
+      "word": "夸克Al已成功进入tony圈",
+      "onboard_time": 1740832583,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 14533,
