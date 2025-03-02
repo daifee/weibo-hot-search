@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1740915363085,
+  "endTime": 1740919183573,
   "band_list": [
     {
       "raw_hot": 3194275,
@@ -73,6 +73,14 @@
       "onboard_time": 1740910819,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 1584179,
+      "num": 391019,
+      "word": "张若昀唐艺昕带女儿踩水",
+      "onboard_time": 1740916460,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1556849,
@@ -235,6 +243,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 718082,
+      "num": 389881,
+      "word": "我不能坐着 我怕我会漏",
+      "onboard_time": 1740912380,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 714139,
+      "num": 714139,
+      "word": "唐奇有孩子",
+      "onboard_time": 1740913640,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 697824,
       "num": 697824,
       "word": "什么是爆肺",
@@ -273,6 +297,14 @@
       "onboard_time": 1740897259,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 670703,
+      "num": 218524,
+      "word": "颜如晶暴瘦60斤后现身重庆马拉松",
+      "onboard_time": 1740918440,
+      "rank": 20,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 638241,
@@ -321,6 +353,14 @@
       "onboard_time": 1740837924,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 584271,
+      "num": 584271,
+      "word": "唐嫣恭喜张杰",
+      "onboard_time": 1740913879,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 583542,
@@ -483,12 +523,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 429365,
-      "num": 429365,
-      "word": "唐嫣恭喜张杰",
-      "onboard_time": 1740913879,
-      "rank": 30,
-      "category": "音乐"
+      "raw_hot": 419813,
+      "num": 419813,
+      "word": "周末总瘫在床上是心力弱的表现",
+      "onboard_time": 1740910940,
+      "rank": 35,
+      "category": "健康医疗,健康医疗"
     },
     {
       "raw_hot": 412866,
@@ -515,14 +555,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 407425,
-      "num": 376934,
-      "word": "我不能坐着 我怕我会漏",
-      "onboard_time": 1740912380,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 406130,
       "num": 269011,
       "word": "董力上节目求婚只用了9朵玫瑰",
@@ -547,12 +579,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 391560,
+      "num": 391560,
+      "word": "滤镜 丰隆",
+      "onboard_time": 1740913159,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 390882,
       "num": 316665,
       "word": "乳腺癌女子提醒网友少碰购物小票",
       "onboard_time": 1740835824,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 389033,
+      "num": 389033,
+      "word": "医院偶遇冉莹颖带儿子打生长激素",
+      "onboard_time": 1740916760,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 387542,
@@ -593,14 +641,6 @@
       "onboard_time": 1740862212,
       "rank": 21,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 359774,
-      "num": 359774,
-      "word": "唐奇有孩子",
-      "onboard_time": 1740913640,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 354133,
@@ -667,14 +707,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 314564,
-      "num": 314564,
-      "word": "周末总瘫在床上是心力弱的表现",
-      "onboard_time": 1740910940,
-      "rank": 35,
-      "category": "健康医疗,健康医疗"
-    },
-    {
       "raw_hot": 304788,
       "num": 296730,
       "word": "孟子义大侦探录制上班路透",
@@ -689,14 +721,6 @@
       "onboard_time": 1740879497,
       "rank": 22,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 295615,
-      "num": 350073,
-      "word": "滤镜 丰隆",
-      "onboard_time": 1740913159,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 294105,
@@ -763,6 +787,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 275937,
+      "num": 275937,
+      "word": "一家四姐妹手撕同一位人渣",
+      "onboard_time": 1740915560,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 270225,
       "num": 270225,
       "word": "河南镇平飞椅事故致1死1伤",
@@ -827,6 +859,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 255159,
+      "num": 255159,
+      "word": "建议从重处罚教师性侵未成年人",
+      "onboard_time": 1740915438,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 241107,
       "num": 171103,
       "word": "张国伟意外受伤",
@@ -841,6 +881,14 @@
       "onboard_time": 1740903918,
       "rank": 46,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 238827,
+      "num": 238827,
+      "word": "王鹤棣 霸王茶姬",
+      "onboard_time": 1740918801,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 236849,
@@ -897,6 +945,14 @@
       "onboard_time": 1740894080,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 225167,
+      "num": 225167,
+      "word": "余华英有30万元债权用于赔偿",
+      "onboard_time": 1740915019,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 224932,
@@ -1019,6 +1075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 204204,
+      "num": 204204,
+      "word": "白敬亭章若楠穿搭 ins情侣博主",
+      "onboard_time": 1740917780,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203586,
       "num": 203586,
       "word": "千年前古人就把跨界玩出花了",
@@ -1049,6 +1113,14 @@
       "onboard_time": 1740913460,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201093,
+      "num": 201093,
+      "word": "00后女班主任开会时装作很凶的样子",
+      "onboard_time": 1740916039,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200595,
@@ -1091,6 +1163,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 193457,
+      "num": 193457,
+      "word": "易烊千玺背头daddy造型",
+      "onboard_time": 1740918981,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192607,
       "num": 192607,
       "word": "当你的男朋友看了难哄",
@@ -1099,12 +1179,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192483,
+      "num": 192483,
+      "word": "小猪佩奇妈妈官宣怀三胎",
+      "onboard_time": 1740918259,
+      "rank": 33,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 190115,
       "num": 205874,
       "word": "姚安娜新剧在急诊室好忙",
       "onboard_time": 1740896897,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189264,
+      "num": 189264,
+      "word": "白百何晒大儿子唱歌视频",
+      "onboard_time": 1740917479,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 188314,
+      "num": 192981,
+      "word": "排球少年",
+      "onboard_time": 1740918500,
+      "rank": 30,
+      "category": "动漫"
     },
     {
       "raw_hot": 187907,
@@ -1219,11 +1323,27 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 174275,
+      "num": 174275,
+      "word": "樊振东孙颖莎等体测现场",
+      "onboard_time": 1740915499,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173577,
       "num": 173577,
       "word": "唐总你夫人的马甲掉了",
       "onboard_time": 1740849676,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 172537,
+      "num": 172537,
+      "word": "冰唐橙",
+      "onboard_time": 1740914719,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -1257,6 +1377,14 @@
       "onboard_time": 1740828382,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 166078,
+      "num": 166078,
+      "word": "她还在情伤期他脑补到热恋期",
+      "onboard_time": 1740918140,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 165649,
@@ -1323,12 +1451,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157986,
+      "num": 157986,
+      "word": "TTG确定第二轮S组",
+      "onboard_time": 1740918440,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 157847,
       "num": 157847,
       "word": "张云龙37岁生日状态",
       "onboard_time": 1740911839,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157445,
+      "num": 157445,
+      "word": "爱你男女主终于亲上了",
+      "onboard_time": 1740918801,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 157377,
@@ -1361,6 +1505,14 @@
       "onboard_time": 1740880639,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154347,
+      "num": 154347,
+      "word": "乌克兰",
+      "onboard_time": 1740919160,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 151817,
@@ -1523,6 +1675,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137156,
+      "num": 137156,
+      "word": "TTG风箫三连MVP",
+      "onboard_time": 1740918440,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 136865,
+      "num": 136865,
+      "word": "TOP登陆少年女装",
+      "onboard_time": 1740916280,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136343,
       "num": 136343,
       "word": "线条小狗具象化",
@@ -1593,6 +1761,14 @@
       "onboard_time": 1740896000,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 128555,
+      "num": 192687,
+      "word": "济南鹅毛大雪积雪半个手掌深",
+      "onboard_time": 1740917840,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128237,
@@ -1708,7 +1884,7 @@
     },
     {
       "raw_hot": 116973,
-      "num": 116973,
+      "num": 131535,
       "word": "国乒全运会首次体测全员通过",
       "onboard_time": 1740913040,
       "rank": 46,
@@ -1745,14 +1921,6 @@
       "onboard_time": 1740908061,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 114092,
-      "num": 114092,
-      "word": "冰唐橙",
-      "onboard_time": 1740914719,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 113049,
@@ -1795,20 +1963,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 111504,
-      "num": 111504,
-      "word": "余华英有30万元债权用于赔偿",
-      "onboard_time": 1740915019,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 110559,
       "num": 315887,
       "word": "毛不易来深圳也逃不过讲PPT",
       "onboard_time": 1740839724,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 110467,
+      "num": 216457,
+      "word": "当诗人玩跨界把把都是高端局",
+      "onboard_time": 1740918921,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110234,
@@ -2281,6 +2449,14 @@
       "onboard_time": 1740894619,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52247,
+      "num": 192104,
+      "word": "多地茅台冰淇淋门店被曝关店",
+      "onboard_time": 1740917239,
+      "rank": 34,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 49811,
