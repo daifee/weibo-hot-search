@@ -1,0 +1,410 @@
+{
+  "runTime": 1740884376697,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 887752,
+        "num": 1142040,
+        "word": "中央气象台一早发5个预警",
+        "onboard_time": 1740874338,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 863622,
+        "num": 863622,
+        "word": "特朗普将英语定为美国官方语言",
+        "onboard_time": 1740883218,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 44958,
+        "num": 814667,
+        "word": "您的声音我的故事",
+        "onboard_time": 1740871034,
+        "rank": 2,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 807166,
+        "num": 807166,
+        "word": "原来刘德华才是最大彩蛋啊",
+        "onboard_time": 1740879319,
+        "rank": 3,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 483401,
+        "num": 774654,
+        "word": "辛雨锡发肖战早期简历",
+        "onboard_time": 1740871695,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292183,
+        "num": 761462,
+        "word": "两会是哪两个会",
+        "onboard_time": 1740879497,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1028179,
+        "num": 759878,
+        "word": "女子欲取17万给梁朝伟订酒店被劝下",
+        "onboard_time": 1740882978,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 754781,
+        "num": 754781,
+        "word": "美官员称乌团队几乎都哭了",
+        "onboard_time": 1740880758,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 712950,
+        "num": 712950,
+        "word": "英乌签署22.6亿英镑贷款协议",
+        "onboard_time": 1740870913,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151817,
+        "num": 576740,
+        "word": "十四届全国人大三次会议发布会",
+        "onboard_time": 1740882799,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2034607,
+        "num": 551215,
+        "word": "男子想复婚利用保姆假戏真做被捅死",
+        "onboard_time": 1740881479,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 467221,
+        "num": 467221,
+        "word": "贾静雯发文悼念方大同",
+        "onboard_time": 1740881357,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433255,
+        "num": 433255,
+        "word": "冯远征招生最痛苦的是演员说不清台词",
+        "onboard_time": 1740880639,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291242,
+        "num": 291242,
+        "word": "钟楚曦新剧短发造型",
+        "onboard_time": 1740882258,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280448,
+        "num": 280448,
+        "word": "山东天气也太抽象了",
+        "onboard_time": 1740874876,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228984,
+        "num": 228984,
+        "word": "单依纯哽咽唱才二十三",
+        "onboard_time": 1740837324,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 224701,
+        "num": 224701,
+        "word": "广东人最怕的天气套餐来了",
+        "onboard_time": 1740871875,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 339320,
+        "num": 223559,
+        "word": "方大同经纪人谈后事相关处理",
+        "onboard_time": 1740860710,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221949,
+        "num": 221949,
+        "word": "你好星期六难哄收视新高",
+        "onboard_time": 1740849856,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144134,
+        "num": 197578,
+        "word": "1.88元考试神器已售60万件",
+        "onboard_time": 1740827782,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 260159,
+        "num": 197427,
+        "word": "妈妈生气踢孩子两脚后被写进记仇本",
+        "onboard_time": 1740879497,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242933,
+        "num": 194404,
+        "word": "乳腺癌女子提醒网友少碰购物小票",
+        "onboard_time": 1740835824,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187503,
+        "num": 187503,
+        "word": "女子每天4杯咖啡喝出骨质疏松",
+        "onboard_time": 1740844941,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159756,
+        "num": 159756,
+        "word": "唐总你夫人的马甲掉了",
+        "onboard_time": 1740849676,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147971,
+        "num": 147971,
+        "word": "连续化妆一个月总结的小技巧",
+        "onboard_time": 1740881298,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139143,
+        "num": 139143,
+        "word": "才刚脱的秋裤又要穿回去了",
+        "onboard_time": 1740875897,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136079,
+        "num": 136079,
+        "word": "tods副总顺走了肖战的应援手幅秀",
+        "onboard_time": 1740865511,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 125191,
+        "num": 125191,
+        "word": "欧豪多上上网吧",
+        "onboard_time": 1740838944,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121724,
+        "num": 121724,
+        "word": "张凌赫徐若晗红温了",
+        "onboard_time": 1740873496,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37551,
+        "num": 120589,
+        "word": "chiikawa松软小八面包",
+        "onboard_time": 1740883518,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 67641,
+        "num": 120477,
+        "word": "郑钦文印第安维尔斯赛场训练",
+        "onboard_time": 1740884119,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120456,
+        "num": 120456,
+        "word": "50岁阿姨跳绝命八颠完爆年轻人",
+        "onboard_time": 1740870733,
+        "rank": 31,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 115762,
+        "num": 115762,
+        "word": "一个没准备短袖的人轻轻碎了",
+        "onboard_time": 1740829463,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114647,
+        "num": 114647,
+        "word": "花花花花花花开了",
+        "onboard_time": 1740873436,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112321,
+        "num": 112321,
+        "word": "著名表演艺术家于洋逝世",
+        "onboard_time": 1740842543,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111586,
+        "num": 111586,
+        "word": "河南7元一碗的焖面",
+        "onboard_time": 1740875897,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 105272,
+        "num": 105272,
+        "word": "代表说带村民挣钱就是头等大事",
+        "onboard_time": 1740883339,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16311,
+        "num": 105260,
+        "word": "建议经常咳嗽的人学会捏脊",
+        "onboard_time": 1740884237,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 105259,
+        "num": 105259,
+        "word": "欧洲多方力挺乌克兰",
+        "onboard_time": 1740848656,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103876,
+        "num": 103876,
+        "word": "欧盟怒批特朗普",
+        "onboard_time": 1740884059,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101721,
+        "num": 101721,
+        "word": "马克龙呼吁美乌冷静",
+        "onboard_time": 1740879799,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101636,
+        "num": 101636,
+        "word": "老鼠人",
+        "onboard_time": 1740849975,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95804,
+        "num": 95804,
+        "word": "勇士vs76人",
+        "onboard_time": 1740882799,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94278,
+        "num": 94278,
+        "word": "晚上看手机的正确方式",
+        "onboard_time": 1740874338,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 90395,
+        "num": 90395,
+        "word": "东京马拉松",
+        "onboard_time": 1740882438,
+        "rank": 44,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 90212,
+        "num": 90212,
+        "word": "美国一快递飞机空中喷火",
+        "onboard_time": 1740877157,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 86062,
+        "num": 86062,
+        "word": "杨紫摄影刘任捷",
+        "onboard_time": 1740865391,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76742,
+        "num": 76742,
+        "word": "李羲承进行曲",
+        "onboard_time": 1740838465,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 75478,
+        "num": 75478,
+        "word": "中央气象台今早5预警齐发",
+        "onboard_time": 1740880639,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73413,
+        "num": 73413,
+        "word": "恋与深空",
+        "onboard_time": 1740880216,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#把平安中国建设推向更高水平#"
+    }
+  }
+}
