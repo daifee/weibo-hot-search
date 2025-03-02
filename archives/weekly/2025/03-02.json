@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1740884918200,
+  "endTime": 1740886392703,
   "band_list": [
     {
       "raw_hot": 2779346,
@@ -11,20 +11,20 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 2064685,
+      "num": 1765201,
+      "word": "特朗普将英语定为美国官方语言",
+      "onboard_time": 1740883218,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 2034607,
       "num": 551215,
       "word": "男子想复婚利用保姆假戏真做被捅死",
       "onboard_time": 1740881479,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1765201,
-      "num": 1765201,
-      "word": "特朗普将英语定为美国官方语言",
-      "onboard_time": 1740883218,
-      "rank": 1,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1556849,
@@ -48,6 +48,14 @@
       "word": "方大同去世",
       "onboard_time": 1740807141,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 998538,
+      "num": 395284,
+      "word": "贾静雯女儿是方大同童书粉",
+      "onboard_time": 1740885439,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -161,6 +169,14 @@
       "onboard_time": 1740827782,
       "rank": 4,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 442816,
+      "num": 442816,
+      "word": "欧盟怒批特朗普",
+      "onboard_time": 1740884059,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 433255,
@@ -299,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 243220,
+      "num": 243220,
+      "word": "前TVB演员回应跑网约车",
+      "onboard_time": 1740885079,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233160,
       "num": 315641,
       "word": "欧豪多上上网吧",
@@ -307,12 +331,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212819,
+      "num": 212819,
+      "word": "台69岁老太称与梁朝伟订婚欲汇17万",
+      "onboard_time": 1740885019,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 212818,
       "num": 212818,
       "word": "才刚脱的秋裤又要穿回去了",
       "onboard_time": 1740875897,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 209145,
+      "num": 209145,
+      "word": "董力上节目求婚只用了9朵玫瑰",
+      "onboard_time": 1740885861,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 204793,
@@ -363,14 +403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 185615,
-      "num": 185615,
-      "word": "欧盟怒批特朗普",
-      "onboard_time": 1740884059,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 183443,
       "num": 316566,
       "word": "20岁高颜值自闭症小伙学音乐10年",
@@ -385,6 +417,22 @@
       "onboard_time": 1740879799,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 180768,
+      "num": 180768,
+      "word": "外媒很难再妖魔化中国",
+      "onboard_time": 1740885439,
+      "rank": 23,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 180439,
+      "num": 180439,
+      "word": "光与夜之恋",
+      "onboard_time": 1740885019,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 176368,
@@ -425,6 +473,14 @@
       "onboard_time": 1740828382,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 165649,
+      "num": 165649,
+      "word": "马龙首次尝试咖啡拉花",
+      "onboard_time": 1740885739,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 164254,
@@ -475,8 +531,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 147971,
-      "num": 147971,
+      "raw_hot": 150507,
+      "num": 150507,
       "word": "连续化妆一个月总结的小技巧",
       "onboard_time": 1740881298,
       "rank": 24,
@@ -497,6 +553,14 @@
       "onboard_time": 1740865511,
       "rank": 17,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 143197,
+      "num": 143197,
+      "word": "百万工资拖欠4年讨回后交税32万7",
+      "onboard_time": 1740886039,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140843,
@@ -579,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118862,
+      "num": 193829,
+      "word": "建议经常咳嗽的人学会捏脊",
+      "onboard_time": 1740884237,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 118164,
       "num": 316400,
       "word": "ZmjjKK",
@@ -620,7 +692,7 @@
     },
     {
       "raw_hot": 105272,
-      "num": 105272,
+      "num": 166414,
       "word": "代表说带村民挣钱就是头等大事",
       "onboard_time": 1740883339,
       "rank": 36,
@@ -633,6 +705,14 @@
       "onboard_time": 1740836363,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 103813,
+      "num": 103813,
+      "word": "粉笔模考",
+      "onboard_time": 1740886279,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 103732,
@@ -649,6 +729,22 @@
       "onboard_time": 1740873615,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97372,
+      "num": 97372,
+      "word": "河南这个庙会太震撼了",
+      "onboard_time": 1740885559,
+      "rank": 40,
+      "category": "旅游,民生新闻"
+    },
+    {
+      "raw_hot": 97138,
+      "num": 212919,
+      "word": "云南通报游客旅游遇关门洗脑消费",
+      "onboard_time": 1740885019,
+      "rank": 18,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 95804,
@@ -707,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86174,
+      "num": 86174,
+      "word": "精神医院里挤满了失眠的中老年女性",
+      "onboard_time": 1740886279,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85998,
       "num": 176335,
       "word": "何洛洛哭戏层次递进感",
@@ -745,6 +849,14 @@
       "onboard_time": 1740836603,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 81782,
+      "num": 81782,
+      "word": "辛芷蕾终于演上喜剧了",
+      "onboard_time": 1740886340,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 79882,
@@ -907,6 +1019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43653,
+      "num": 312940,
+      "word": "建议对胁迫教唆未成年文身重罚",
+      "onboard_time": 1740885439,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 41962,
       "num": 41962,
       "word": "周一全国气温普遍下降",
@@ -977,14 +1097,6 @@
       "onboard_time": 1740860111,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 29904,
-      "num": 193829,
-      "word": "建议经常咳嗽的人学会捏脊",
-      "onboard_time": 1740884237,
-      "rank": 37,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 27815,
