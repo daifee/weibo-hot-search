@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740893954578,
+  "endTime": 1740897039018,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -33,6 +33,14 @@
       "onboard_time": 1740826040,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3036769,
+      "num": 257852,
+      "word": "周雨离婚",
+      "onboard_time": 1740895339,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 3008661,
@@ -105,6 +113,14 @@
       "onboard_time": 1740881479,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1996502,
+      "num": 281689,
+      "word": "方大同遗体在云南大理火化",
+      "onboard_time": 1740893300,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1808545,
@@ -195,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1307982,
+      "num": 1307982,
+      "word": "女子拔牙第3天嘴里散发腐臭味",
+      "onboard_time": 1740895580,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1257225,
       "num": 395284,
       "word": "贾静雯女儿是方大同童书粉",
@@ -225,6 +249,14 @@
       "onboard_time": 1740788117,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1207081,
+      "num": 1207081,
+      "word": "迪丽热巴 电影女足",
+      "onboard_time": 1740892939,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 1162136,
@@ -379,14 +411,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 863240,
-      "num": 281689,
-      "word": "方大同遗体在云南大理火化",
-      "onboard_time": 1740893300,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 850680,
       "num": 418420,
       "word": "特朗普没对泽连斯基动手是奇迹",
@@ -427,12 +451,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 764856,
-      "num": 433495,
-      "word": "迪丽热巴 电影女足",
-      "onboard_time": 1740892939,
-      "rank": 46,
-      "category": "电影"
+      "raw_hot": 783779,
+      "num": 248798,
+      "word": "柯洁全款拿下小米SU7Ultra",
+      "onboard_time": 1740893659,
+      "rank": 30,
+      "category": "汽车,数码"
     },
     {
       "raw_hot": 761732,
@@ -779,6 +803,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 490360,
+      "num": 490360,
+      "word": "章若楠在难哄看到何老师后哭了",
+      "onboard_time": 1740893359,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 487679,
       "num": 487679,
       "word": "泽连斯基与斯塔默会面连说3次感谢",
@@ -907,6 +939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 431700,
+      "num": 431700,
+      "word": "网购100只垃圾袋数完只有38只",
+      "onboard_time": 1740892098,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 431512,
       "num": 431512,
       "word": "一个没准备短袖的人轻轻碎了",
@@ -1001,6 +1041,14 @@
       "onboard_time": 1740796458,
       "rank": 24,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 374680,
+      "num": 318024,
+      "word": "哪吒2票房破144亿",
+      "onboard_time": 1740893719,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 373283,
@@ -1139,6 +1187,14 @@
       "category": "艺人,情感"
     },
     {
+      "raw_hot": 329887,
+      "num": 246823,
+      "word": "毛不易演唱会上缅怀方大同",
+      "onboard_time": 1740896600,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 328603,
       "num": 328603,
       "word": "白宫这场骂战震惊世界",
@@ -1201,6 +1257,14 @@
       "onboard_time": 1740725178,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 304788,
+      "num": 244856,
+      "word": "孟子义大侦探录制上班路透",
+      "onboard_time": 1740895940,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 303979,
@@ -1347,14 +1411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 289289,
-      "num": 187679,
-      "word": "柯洁全款拿下小米SU7Ultra",
-      "onboard_time": 1740893659,
-      "rank": 30,
-      "category": "汽车,数码"
-    },
-    {
       "raw_hot": 288123,
       "num": 317655,
       "word": "泽连斯基正飞往伦敦",
@@ -1377,14 +1433,6 @@
       "onboard_time": 1740849975,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 282694,
-      "num": 282694,
-      "word": "网购100只垃圾袋数完只有38只",
-      "onboard_time": 1740892098,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 281733,
@@ -1489,6 +1537,14 @@
       "onboard_time": 1740802819,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 259946,
+      "num": 259946,
+      "word": "女子婚后发现老实丈夫很暴戾要离婚",
+      "onboard_time": 1740895100,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 258934,
@@ -1635,6 +1691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231838,
+      "num": 231838,
+      "word": "85岁母亲思念女儿泣诉我欠你啊",
+      "onboard_time": 1740894919,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 230332,
       "num": 330049,
       "word": "男子喝满月酒酒驾身亡家属索赔主办人",
@@ -1667,6 +1731,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 226988,
+      "num": 226988,
+      "word": "坏了让她能装一辈子了",
+      "onboard_time": 1740892098,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 226610,
       "num": 208221,
       "word": "上海一独居老人猝死430万遗产无人继承",
@@ -1689,6 +1761,14 @@
       "onboard_time": 1740795076,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225248,
+      "num": 225248,
+      "word": "喀什古城",
+      "onboard_time": 1740894080,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 224932,
@@ -1739,20 +1819,20 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 219039,
+      "num": 219039,
+      "word": "陈都灵老年妆",
+      "onboard_time": 1740896239,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218693,
       "num": 315440,
       "word": "时代少年团 太原",
       "onboard_time": 1740839544,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 218389,
-      "num": 218389,
-      "word": "章若楠在难哄看到何老师后哭了",
-      "onboard_time": 1740893359,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 217172,
@@ -1835,6 +1915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211552,
+      "num": 211552,
+      "word": "倪萍也吃瓜赵本山上不上春晚",
+      "onboard_time": 1740896360,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211542,
       "num": 181588,
       "word": "银行错给客户存81万亿美元",
@@ -1897,6 +1985,14 @@
       "onboard_time": 1740839303,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 205425,
+      "num": 205425,
+      "word": "大侦探",
+      "onboard_time": 1740896600,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 203530,
@@ -2049,14 +2145,6 @@
       "onboard_time": 1740827064,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 194375,
-      "num": 187008,
-      "word": "坏了让她能装一辈子了",
-      "onboard_time": 1740892098,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 194308,
@@ -2435,6 +2523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173772,
+      "num": 205874,
+      "word": "姚安娜新剧在急诊室好忙",
+      "onboard_time": 1740896897,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173577,
       "num": 173577,
       "word": "唐总你夫人的马甲掉了",
@@ -2545,6 +2641,14 @@
       "onboard_time": 1740761955,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166823,
+      "num": 166823,
+      "word": "电影女足",
+      "onboard_time": 1740895100,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 165649,
@@ -2667,6 +2771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160802,
+      "num": 160802,
+      "word": "白敬亭章若楠还原恶作剧之吻名场面",
+      "onboard_time": 1740895640,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160730,
       "num": 652078,
       "word": "2025活力中国",
@@ -2713,6 +2825,14 @@
       "onboard_time": 1740873436,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157329,
+      "num": 157329,
+      "word": "何超莲何超云何猷启为妈妈庆生",
+      "onboard_time": 1740896239,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 157005,
@@ -2889,6 +3009,14 @@
       "onboard_time": 1740836544,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 145727,
+      "num": 145727,
+      "word": "丁程鑫主动降辈分",
+      "onboard_time": 1740895820,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 144476,
@@ -3107,6 +3235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132105,
+      "num": 132105,
+      "word": "京城大师赛",
+      "onboard_time": 1740766213,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 131917,
       "num": 131917,
       "word": "2元和200元的钙片到底有什么区别",
@@ -3227,6 +3363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125562,
+      "num": 223739,
+      "word": "沈星回孤寂盛大的星云穿行",
+      "onboard_time": 1740896000,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 122940,
       "num": 122940,
       "word": "MLB 邓为",
@@ -3249,14 +3393,6 @@
       "onboard_time": 1740816805,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 121247,
-      "num": 121247,
-      "word": "哪吒2票房破144亿",
-      "onboard_time": 1740893719,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 121186,
@@ -3449,6 +3585,14 @@
       "onboard_time": 1740824542,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106922,
+      "num": 157492,
+      "word": "高圆圆许愿2025三部戏顺利播出",
+      "onboard_time": 1740894319,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 106816,
@@ -3777,6 +3921,14 @@
       "onboard_time": 1740728358,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90785,
+      "num": 250327,
+      "word": "美乌会谈是如何突然失控的",
+      "onboard_time": 1740895640,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 90395,
@@ -4147,6 +4299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 63050,
+      "num": 259449,
+      "word": "查办一批盗录传播春节档电影案",
+      "onboard_time": 1740895520,
+      "rank": 9,
+      "category": "民生新闻,国内时政"
+    },
+    {
       "raw_hot": 62472,
       "num": 280551,
       "word": "搬到迪拜的电诈团伙开始产业升级",
@@ -4201,6 +4361,14 @@
       "onboard_time": 1740762195,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 56216,
+      "num": 167197,
+      "word": "路易吉在狱中收到大量粉丝来信",
+      "onboard_time": 1740896962,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 55609,
@@ -4289,14 +4457,6 @@
       "onboard_time": 1740790577,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 43940,
-      "num": 43940,
-      "word": "京城大师赛",
-      "onboard_time": 1740766213,
-      "rank": 25,
-      "category": "游戏"
     },
     {
       "raw_hot": 43653,
