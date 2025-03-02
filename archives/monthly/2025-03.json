@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740872164448,
+  "endTime": 1740880224663,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -49,6 +49,14 @@
       "onboard_time": 1740811715,
       "rank": 10,
       "category": "演出"
+    },
+    {
+      "raw_hot": 2779346,
+      "num": 578461,
+      "word": "上海大学回应女生考研专业课10分",
+      "onboard_time": 1740875718,
+      "rank": 3,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 2739654,
@@ -203,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1146040,
+      "num": 1183366,
+      "word": "中央气象台一早发5个预警",
+      "onboard_time": 1740874338,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1121767,
       "num": 659194,
       "word": "陶喆方大同",
@@ -307,6 +323,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 873714,
+      "num": 918249,
+      "word": "英乌签署22.6亿英镑贷款协议",
+      "onboard_time": 1740870913,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 850680,
       "num": 418420,
       "word": "特朗普没对泽连斯基动手是奇迹",
@@ -352,14 +376,6 @@
       "word": "乌克兰被端上了餐桌",
       "onboard_time": 1740802218,
       "rank": 33,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 723322,
-      "num": 918249,
-      "word": "英乌签署22.6亿英镑贷款协议",
-      "onboard_time": 1740870913,
-      "rank": 9,
       "category": "国际时政"
     },
     {
@@ -417,6 +433,14 @@
       "onboard_time": 1740750979,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 649117,
+      "num": 649117,
+      "word": "辛雨锡发肖战早期简历",
+      "onboard_time": 1740871695,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 633445,
@@ -531,6 +555,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 558886,
+      "num": 558886,
+      "word": "山东天气也太抽象了",
+      "onboard_time": 1740874876,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 554654,
       "num": 554654,
       "word": "张艺兴说成员们都年过半六十",
@@ -619,6 +651,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 482396,
+      "num": 773819,
+      "word": "方大同经纪人谈后事相关处理",
+      "onboard_time": 1740860710,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 481827,
       "num": 481827,
       "word": "魏大勋陈伟霆 老九门2",
@@ -657,14 +697,6 @@
       "onboard_time": 1740788177,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 470685,
-      "num": 773819,
-      "word": "方大同经纪人谈后事相关处理",
-      "onboard_time": 1740860710,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 469960,
@@ -913,6 +945,14 @@
       "onboard_time": 1740804258,
       "rank": 24,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 331321,
+      "num": 331321,
+      "word": "广东人最怕的天气套餐来了",
+      "onboard_time": 1740871875,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 331046,
@@ -1211,6 +1251,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 258107,
+      "num": 258107,
+      "word": "你好星期六难哄收视新高",
+      "onboard_time": 1740849856,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 257958,
       "num": 257958,
       "word": "气胸是一种怎样的疾病",
@@ -1339,12 +1387,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 230415,
-      "num": 230415,
-      "word": "你好星期六难哄收视新高",
-      "onboard_time": 1740849856,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 233160,
+      "num": 315641,
+      "word": "欧豪多上上网吧",
+      "onboard_time": 1740838944,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 230332,
@@ -1491,6 +1539,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 212818,
+      "num": 212818,
+      "word": "才刚脱的秋裤又要穿回去了",
+      "onboard_time": 1740875897,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 212805,
       "num": 212805,
       "word": "快船vs湖人",
@@ -1553,14 +1609,6 @@
       "onboard_time": 1740839303,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 203553,
-      "num": 315641,
-      "word": "欧豪多上上网吧",
-      "onboard_time": 1740838944,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 203530,
@@ -1771,6 +1819,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 186575,
+      "num": 186575,
+      "word": "张凌赫徐若晗红温了",
+      "onboard_time": 1740873496,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185965,
       "num": 185965,
       "word": "吉克隽逸悼念方大同",
@@ -1907,6 +1963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178437,
+      "num": 215763,
+      "word": "原来刘德华才是最大彩蛋啊",
+      "onboard_time": 1740879319,
+      "rank": 14,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 177800,
       "num": 1834438,
       "word": "二月二民俗有哪些",
@@ -1963,6 +2027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175193,
+      "num": 175193,
+      "word": "美国一快递飞机空中喷火",
+      "onboard_time": 1740877157,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 174420,
       "num": 174420,
       "word": "排便太用力可能会引发气胸",
@@ -1985,6 +2057,14 @@
       "onboard_time": 1740837085,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173505,
+      "num": 173505,
+      "word": "两会是哪两个会",
+      "onboard_time": 1740879497,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 173001,
@@ -2211,6 +2291,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 157377,
+      "num": 157377,
+      "word": "花花花花花花开了",
+      "onboard_time": 1740873436,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157005,
       "num": 176887,
       "word": "广东今年首场暴雨来了",
@@ -2339,6 +2427,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 144579,
+      "num": 144579,
+      "word": "唐总你夫人的马甲掉了",
+      "onboard_time": 1740849676,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144411,
       "num": 144411,
       "word": "特朗普的鸿门宴泽连斯基一口没吃",
@@ -2371,12 +2467,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 141612,
+      "num": 141612,
+      "word": "河南7元一碗的焖面",
+      "onboard_time": 1740875897,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 141274,
       "num": 141274,
       "word": "这20部够再看10年了",
       "onboard_time": 1740820462,
       "rank": 36,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 140843,
+      "num": 175292,
+      "word": "三峡小狗山走红",
+      "onboard_time": 1740874157,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140739,
@@ -2555,6 +2667,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 129473,
+      "num": 129473,
+      "word": "暴雪寒潮大雾3预警齐发",
+      "onboard_time": 1740876077,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129379,
       "num": 315405,
       "word": "餐馆回应员工用炒菜锅洗拖把",
@@ -2595,12 +2715,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126451,
+      "num": 126451,
+      "word": "晚上看手机的正确方式",
+      "onboard_time": 1740874338,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 125739,
       "num": 125739,
       "word": "AG对战KLG",
       "onboard_time": 1740746839,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 123205,
+      "num": 123205,
+      "word": "50岁阿姨跳绝命八颠完爆年轻人",
+      "onboard_time": 1740870733,
+      "rank": 30,
+      "category": "运动健身"
     },
     {
       "raw_hot": 122940,
@@ -2753,6 +2889,14 @@
       "onboard_time": 1740800537,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111951,
+      "num": 111951,
+      "word": "妈妈生气踢孩子两脚后被写进记仇本",
+      "onboard_time": 1740879497,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111226,
@@ -2955,6 +3099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98086,
+      "num": 98086,
+      "word": "留几手说晚上约杨子喝点",
+      "onboard_time": 1740873615,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97919,
       "num": 205227,
       "word": "张星特微粒文化解约",
@@ -3059,19 +3211,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 90044,
-      "num": 90044,
-      "word": "辛雨锡发肖战早期简历",
-      "onboard_time": 1740871695,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 89809,
       "num": 89809,
       "word": "桑太太",
       "onboard_time": 1740746899,
       "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 89128,
+      "num": 89128,
+      "word": "电视剧蝉开机",
+      "onboard_time": 1740877457,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -3123,12 +3275,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 86856,
-      "num": 68011,
-      "word": "50岁阿姨跳绝命八颠完爆年轻人",
-      "onboard_time": 1740870733,
-      "rank": 30,
-      "category": "运动健身"
+      "raw_hot": 86442,
+      "num": 86442,
+      "word": "郭富城想回石龙开金铺",
+      "onboard_time": 1740878479,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 85998,
@@ -3145,6 +3297,14 @@
       "onboard_time": 1740809747,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85561,
+      "num": 159067,
+      "word": "马克龙呼吁美乌冷静",
+      "onboard_time": 1740879799,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 85490,
@@ -3211,6 +3371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79882,
+      "num": 79882,
+      "word": "方大同生前最后一次接受采访",
+      "onboard_time": 1740879856,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 78977,
       "num": 233304,
       "word": "全新探岳L越攀登越强大",
@@ -3233,6 +3401,14 @@
       "onboard_time": 1740827722,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76781,
+      "num": 76781,
+      "word": "认真买金子的鸭鸭",
+      "onboard_time": 1740873676,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 76434,
@@ -3265,6 +3441,14 @@
       "onboard_time": 1740758299,
       "rank": 48,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 73347,
+      "num": 73347,
+      "word": "谁给李晟李嘉琦张小婉培训一下比心",
+      "onboard_time": 1740874216,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 70923,
@@ -3305,14 +3489,6 @@
       "onboard_time": 1740763215,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 66255,
-      "num": 66255,
-      "word": "唐总你夫人的马甲掉了",
-      "onboard_time": 1740849676,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 65872,
@@ -3483,6 +3659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 43709,
+      "num": 595831,
+      "word": "您的声音我的故事",
+      "onboard_time": 1740871034,
+      "rank": 2,
+      "category": "电影"
+    },
+    {
       "raw_hot": 41962,
       "num": 41962,
       "word": "周一全国气温普遍下降",
@@ -3505,14 +3689,6 @@
       "onboard_time": 1740826523,
       "rank": 47,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 39973,
-      "num": 39973,
-      "word": "广东人最怕的天气套餐来了",
-      "onboard_time": 1740871875,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39885,
@@ -3873,14 +4049,6 @@
       "onboard_time": 1740800837,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 20260,
-      "num": 223690,
-      "word": "您的声音我的故事",
-      "onboard_time": 1740871034,
-      "rank": 2,
-      "category": "电影"
     },
     {
       "raw_hot": 19487,

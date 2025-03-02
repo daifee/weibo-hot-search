@@ -1,7 +1,23 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1740872164448,
+  "endTime": 1740880224663,
   "band_list": [
+    {
+      "raw_hot": 2779346,
+      "num": 578461,
+      "word": "上海大学回应女生考研专业课10分",
+      "onboard_time": 1740875718,
+      "rank": 3,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 1146040,
+      "num": 1183366,
+      "word": "中央气象台一早发5个预警",
+      "onboard_time": 1740874338,
+      "rank": 0,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1119656,
       "num": 316927,
@@ -19,6 +35,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 873714,
+      "num": 918249,
+      "word": "英乌签署22.6亿英镑贷款协议",
+      "onboard_time": 1740870913,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 750371,
       "num": 316736,
       "word": "薛凯琪全平台换封面",
@@ -27,20 +51,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 723322,
-      "num": 918249,
-      "word": "英乌签署22.6亿英镑贷款协议",
-      "onboard_time": 1740870913,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 697824,
       "num": 697824,
       "word": "什么是爆肺",
       "onboard_time": 1740812372,
       "rank": 1,
       "category": "健康医疗,艺人"
+    },
+    {
+      "raw_hot": 649117,
+      "num": 649117,
+      "word": "辛雨锡发肖战早期简历",
+      "onboard_time": 1740871695,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 604243,
@@ -59,7 +83,15 @@
       "category": "演出"
     },
     {
-      "raw_hot": 470685,
+      "raw_hot": 558886,
+      "num": 558886,
+      "word": "山东天气也太抽象了",
+      "onboard_time": 1740874876,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 482396,
       "num": 773819,
       "word": "方大同经纪人谈后事相关处理",
       "onboard_time": 1740860710,
@@ -123,11 +155,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 337389,
+      "num": 337389,
+      "word": "一个没准备短袖的人轻轻碎了",
+      "onboard_time": 1740829463,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 335243,
       "num": 335243,
       "word": "电信诈骗开始遥控你的手机了",
       "onboard_time": 1740844522,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 331321,
+      "num": 331321,
+      "word": "广东人最怕的天气套餐来了",
+      "onboard_time": 1740871875,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -163,12 +211,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 230415,
-      "num": 230415,
+      "raw_hot": 258107,
+      "num": 258107,
       "word": "你好星期六难哄收视新高",
       "onboard_time": 1740849856,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 233160,
+      "num": 315641,
+      "word": "欧豪多上上网吧",
+      "onboard_time": 1740838944,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 212818,
+      "num": 212818,
+      "word": "才刚脱的秋裤又要穿回去了",
+      "onboard_time": 1740875897,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 204793,
@@ -195,12 +259,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 187248,
-      "num": 315828,
-      "word": "一个没准备短袖的人轻轻碎了",
-      "onboard_time": 1740829463,
-      "rank": 40,
-      "category": "民生新闻"
+      "raw_hot": 186575,
+      "num": 186575,
+      "word": "张凌赫徐若晗红温了",
+      "onboard_time": 1740873496,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 186016,
@@ -227,12 +291,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 178437,
+      "num": 215763,
+      "word": "原来刘德华才是最大彩蛋啊",
+      "onboard_time": 1740879319,
+      "rank": 14,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 176368,
       "num": 316624,
       "word": "白敬亭章若楠跳troublemaker",
       "onboard_time": 1740835883,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175193,
+      "num": 175193,
+      "word": "美国一快递飞机空中喷火",
+      "onboard_time": 1740877157,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 173505,
+      "num": 173505,
+      "word": "两会是哪两个会",
+      "onboard_time": 1740879497,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 166498,
@@ -259,12 +347,44 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 157377,
+      "num": 157377,
+      "word": "花花花花花花开了",
+      "onboard_time": 1740873436,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145127,
       "num": 316268,
       "word": "李佳隆求婚",
       "onboard_time": 1740838944,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 144579,
+      "num": 144579,
+      "word": "唐总你夫人的马甲掉了",
+      "onboard_time": 1740849676,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 141612,
+      "num": 141612,
+      "word": "河南7元一碗的焖面",
+      "onboard_time": 1740875897,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 140843,
+      "num": 175292,
+      "word": "三峡小狗山走红",
+      "onboard_time": 1740874157,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139988,
@@ -291,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129473,
+      "num": 129473,
+      "word": "暴雪寒潮大雾3预警齐发",
+      "onboard_time": 1740876077,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126835,
       "num": 316080,
       "word": "女子炒黄金被暴涨的利润吓得报警",
@@ -299,12 +427,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126451,
+      "num": 126451,
+      "word": "晚上看手机的正确方式",
+      "onboard_time": 1740874338,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 125282,
       "num": 315932,
       "word": "郑业成工作室声明",
       "onboard_time": 1740836784,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123205,
+      "num": 123205,
+      "word": "50岁阿姨跳绝命八颠完爆年轻人",
+      "onboard_time": 1740870733,
+      "rank": 30,
+      "category": "运动健身"
     },
     {
       "raw_hot": 122811,
@@ -347,6 +491,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 111951,
+      "num": 111951,
+      "word": "妈妈生气踢孩子两脚后被写进记仇本",
+      "onboard_time": 1740879497,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110559,
       "num": 315887,
       "word": "毛不易来深圳也逃不过讲PPT",
@@ -379,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98086,
+      "num": 98086,
+      "word": "留几手说晚上约杨子喝点",
+      "onboard_time": 1740873615,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 92368,
       "num": 634280,
       "word": "民营企业海外订单激增",
@@ -403,20 +563,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 90044,
-      "num": 90044,
-      "word": "辛雨锡发肖战早期简历",
-      "onboard_time": 1740871695,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 89128,
+      "num": 89128,
+      "word": "电视剧蝉开机",
+      "onboard_time": 1740877457,
+      "rank": 42,
+      "category": "剧集"
     },
     {
-      "raw_hot": 86856,
-      "num": 68011,
-      "word": "50岁阿姨跳绝命八颠完爆年轻人",
-      "onboard_time": 1740870733,
-      "rank": 30,
-      "category": "运动健身"
+      "raw_hot": 86442,
+      "num": 86442,
+      "word": "郭富城想回石龙开金铺",
+      "onboard_time": 1740878479,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 85998,
@@ -427,20 +587,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85561,
+      "num": 159067,
+      "word": "马克龙呼吁美乌冷静",
+      "onboard_time": 1740879799,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 84959,
       "num": 315405,
       "word": "餐馆回应员工用炒菜锅洗拖把",
       "onboard_time": 1740841523,
       "rank": 42,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 83344,
-      "num": 315641,
-      "word": "欧豪多上上网吧",
-      "onboard_time": 1740838944,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 82960,
@@ -459,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 79882,
+      "num": 79882,
+      "word": "方大同生前最后一次接受采访",
+      "onboard_time": 1740879856,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 78549,
       "num": 176330,
       "word": "白鹿版你打我噻",
@@ -475,12 +643,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76781,
+      "num": 76781,
+      "word": "认真买金子的鸭鸭",
+      "onboard_time": 1740873676,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 75271,
       "num": 126999,
       "word": "美联邦快递一架飞机因引擎起火迫降",
       "onboard_time": 1740870193,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 73347,
+      "num": 73347,
+      "word": "谁给李晟李嘉琦张小婉培训一下比心",
+      "onboard_time": 1740874216,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 70923,
@@ -505,14 +689,6 @@
       "onboard_time": 1740837204,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 66255,
-      "num": 66255,
-      "word": "唐总你夫人的马甲掉了",
-      "onboard_time": 1740849676,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 65467,
@@ -571,6 +747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43709,
+      "num": 595831,
+      "word": "您的声音我的故事",
+      "onboard_time": 1740871034,
+      "rank": 2,
+      "category": "电影"
+    },
+    {
       "raw_hot": 41962,
       "num": 41962,
       "word": "周一全国气温普遍下降",
@@ -585,14 +769,6 @@
       "onboard_time": 1740848057,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 39973,
-      "num": 39973,
-      "word": "广东人最怕的天气套餐来了",
-      "onboard_time": 1740871875,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37184,
@@ -713,14 +889,6 @@
       "onboard_time": 1740854413,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 20260,
-      "num": 223690,
-      "word": "您的声音我的故事",
-      "onboard_time": 1740871034,
-      "rank": 2,
-      "category": "电影"
     },
     {
       "raw_hot": 19268,
