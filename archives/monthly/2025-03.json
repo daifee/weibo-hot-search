@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740947774291,
+  "endTime": 1740950466230,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -5492,7 +5492,7 @@
     },
     {
       "raw_hot": 87355,
-      "num": 87355,
+      "num": 124682,
       "word": "俄乌冲突3年离和平还有多远",
       "onboard_time": 1740940091,
       "rank": 30,
@@ -6203,6 +6203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 35991,
+      "num": 35991,
+      "word": "饲养员缝缝补补坏蛋逆天改命",
+      "onboard_time": 1740946630,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35868,
       "num": 201322,
       "word": "王星越时装周内场状态",
@@ -6547,6 +6555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 21368,
+      "num": 17654,
+      "word": "第97届奥斯卡金像奖最佳影片提名",
+      "onboard_time": 1740949631,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 21115,
       "num": 47557,
       "word": "加点zuo料",
@@ -6595,20 +6611,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18384,
-      "num": 29176,
-      "word": "饲养员缝缝补补坏蛋逆天改命",
-      "onboard_time": 1740946630,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 18262,
       "num": 21003,
       "word": "苏新皓彩排花絮反差感",
       "onboard_time": 1740768972,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 17939,
+      "num": 17939,
+      "word": "耐克配阿迪",
+      "onboard_time": 1740947291,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 17637,
@@ -6641,14 +6657,6 @@
       "onboard_time": 1740942671,
       "rank": 48,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 16247,
-      "num": 16247,
-      "word": "耐克配阿迪",
-      "onboard_time": 1740947291,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 16245,
@@ -6707,12 +6715,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 14244,
+      "num": 17365,
+      "word": "张凌赫还没看过白天的鼋头渚",
+      "onboard_time": 1740946271,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 14121,
       "num": 44643,
       "word": "外交部称中俄一直保持密切的高层交往",
       "onboard_time": 1740777131,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 13258,
+      "num": 17363,
+      "word": "寒潮继续影响中东部地区",
+      "onboard_time": 1740948671,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12664,
@@ -6763,14 +6787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 11229,
-      "num": 16783,
-      "word": "张凌赫还没看过白天的鼋头渚",
-      "onboard_time": 1740946271,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 11025,
       "num": 41471,
       "word": "专家解答七星连珠真的罕见吗",
@@ -6792,6 +6808,14 @@
       "word": "周日可赏金星伴月",
       "onboard_time": 1740862750,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9178,
+      "num": 18657,
+      "word": "山东多地因暴雪停课",
+      "onboard_time": 1740949450,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
