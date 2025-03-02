@@ -1,0 +1,410 @@
+{
+  "runTime": 1740922570896,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1119613,
+        "num": 1179138,
+        "word": "张凌赫的吻戏 荷尔蒙大爆发",
+        "onboard_time": 1740920720,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 861878,
+        "num": 861878,
+        "word": "济南因暴雪停课",
+        "onboard_time": 1740911059,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26810,
+        "num": 847747,
+        "word": "中国信心是怎样炼成的",
+        "onboard_time": 1740908839,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 843095,
+        "num": 843095,
+        "word": "徐若晗好漂亮",
+        "onboard_time": 1740920601,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 777109,
+        "num": 777109,
+        "word": "医院偶遇冉莹颖带儿子打生长激素",
+        "onboard_time": 1740916760,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 645905,
+        "num": 645905,
+        "word": "雷军刚知道柯洁定了SU7Ultra",
+        "onboard_time": 1740910819,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 580389,
+        "num": 580389,
+        "word": "这次山东等地暴雪并不异常",
+        "onboard_time": 1740920480,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 502395,
+        "num": 502395,
+        "word": "周末总瘫在床上是心力弱的表现",
+        "onboard_time": 1740910940,
+        "rank": 7,
+        "category": "健康医疗,健康医疗"
+      },
+      {
+        "raw_hot": 369286,
+        "num": 369286,
+        "word": "唐奇有孩子",
+        "onboard_time": 1740913640,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112933,
+        "num": 367055,
+        "word": "建议性教育作为独立课程在学校推广",
+        "onboard_time": 1740920839,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1009884,
+        "num": 363554,
+        "word": "张若昀唐艺昕带女儿踩水",
+        "onboard_time": 1740916460,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 867290,
+        "num": 359751,
+        "word": "今年已有13位演艺界名人逝世",
+        "onboard_time": 1740904699,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 535196,
+        "num": 353065,
+        "word": "我不能坐着 我怕我会漏",
+        "onboard_time": 1740912380,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 352338,
+        "num": 352338,
+        "word": "唐嫣恭喜张杰",
+        "onboard_time": 1740913879,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 318672,
+        "num": 318672,
+        "word": "白敬亭章若楠穿搭 ins情侣博主",
+        "onboard_time": 1740917780,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208284,
+        "num": 281396,
+        "word": "王传福说科技无国界",
+        "onboard_time": 1740920601,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 266956,
+        "num": 266956,
+        "word": "毕业生档案严禁个人保管携带",
+        "onboard_time": 1740910640,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245215,
+        "num": 245215,
+        "word": "高铁晚点",
+        "onboard_time": 1740919819,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235900,
+        "num": 235900,
+        "word": "一家四姐妹手撕同一位人渣",
+        "onboard_time": 1740915560,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47691,
+        "num": 235739,
+        "word": "专家称无证据支持餐饮小票致癌",
+        "onboard_time": 1740921020,
+        "rank": 19,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 702251,
+        "num": 234867,
+        "word": "颜如晶暴瘦60斤后现身重庆马拉松",
+        "onboard_time": 1740918440,
+        "rank": 20,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 345111,
+        "num": 234365,
+        "word": "李一桐李昀锐 我欲乘风",
+        "onboard_time": 1740919279,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283290,
+        "num": 233262,
+        "word": "乌克兰",
+        "onboard_time": 1740919160,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 183810,
+        "num": 232904,
+        "word": "肖战米兰之行全视角",
+        "onboard_time": 1740921319,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 271955,
+        "num": 232163,
+        "word": "白敬亭章若楠 耐克配阿迪",
+        "onboard_time": 1740902478,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238656,
+        "num": 230952,
+        "word": "摄影师摔倒压到4个月宝宝",
+        "onboard_time": 1740905299,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230792,
+        "num": 230792,
+        "word": "济南气温满20减19",
+        "onboard_time": 1740905299,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213092,
+        "num": 213092,
+        "word": "徐若晗张凌赫吻戏",
+        "onboard_time": 1740920839,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208297,
+        "num": 208297,
+        "word": "滤镜15集37分01秒",
+        "onboard_time": 1740921739,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200501,
+        "num": 200501,
+        "word": "金价未来是涨还是跌",
+        "onboard_time": 1740919399,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 195696,
+        "num": 195696,
+        "word": "方大同遗体在云南大理火化",
+        "onboard_time": 1740893300,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194881,
+        "num": 194881,
+        "word": "王曼昱立定跳远满分",
+        "onboard_time": 1740919879,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190236,
+        "num": 190236,
+        "word": "国际金价跌至近3周以来最低点",
+        "onboard_time": 1740919761,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 189605,
+        "num": 189605,
+        "word": "出轨的未婚夫强势的奶奶顽强的她",
+        "onboard_time": 1740921980,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185240,
+        "num": 185240,
+        "word": "建议结婚前上婚姻辅导课",
+        "onboard_time": 1740920061,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184217,
+        "num": 184217,
+        "word": "小猪佩奇妈妈官宣怀三胎",
+        "onboard_time": 1740918259,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 63633,
+        "num": 178065,
+        "word": "COA8中国大陆赛区抽签",
+        "onboard_time": 1740919399,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 80996,
+        "num": 176446,
+        "word": "侯明昊时装周待遇",
+        "onboard_time": 1740922041,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 174975,
+        "num": 174975,
+        "word": "山东最大积雪深度已达8厘米",
+        "onboard_time": 1740903319,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64016,
+        "num": 174796,
+        "word": "TTG确定第二轮S组",
+        "onboard_time": 1740918440,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 174625,
+        "num": 174625,
+        "word": "午睡超1小时心梗等风险将增加近3成",
+        "onboard_time": 1740899778,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 168810,
+        "num": 168810,
+        "word": "易烊千玺背头daddy造型",
+        "onboard_time": 1740918981,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163475,
+        "num": 163475,
+        "word": "白百何晒大儿子唱歌视频",
+        "onboard_time": 1740917479,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77644,
+        "num": 160003,
+        "word": "雷军诚邀56E用户体验SU7Ultra",
+        "onboard_time": 1740922399,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 159836,
+        "num": 159836,
+        "word": "00后女班主任开会时装作很凶的样子",
+        "onboard_time": 1740916039,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151517,
+        "num": 151517,
+        "word": "樊振东通过体测",
+        "onboard_time": 1740914000,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 503955,
+        "num": 150598,
+        "word": "有密码取不出钱将病重老人推到银行",
+        "onboard_time": 1740910640,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146460,
+        "num": 146460,
+        "word": "CBA",
+        "onboard_time": 1740922520,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139692,
+        "num": 139692,
+        "word": "黄奕的原声台词不看字幕都能听清楚",
+        "onboard_time": 1740922399,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136961,
+        "num": 136961,
+        "word": "特朗普政府希望泽连斯基公开道歉",
+        "onboard_time": 1740907040,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同志关心推动民营经济发展纪实#"
+    }
+  }
+}
