@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740887067498,
+  "endTime": 1740889577644,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -451,6 +451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 719399,
+      "num": 1115103,
+      "word": "百万工资拖欠4年讨回后交税32万7",
+      "onboard_time": 1740886039,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 695500,
       "num": 425958,
       "word": "车主刷短视频被乘客误认为放不雅视频",
@@ -505,6 +513,14 @@
       "onboard_time": 1740833125,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 630316,
+      "num": 514606,
+      "word": "欧盟怒批特朗普",
+      "onboard_time": 1740884059,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 626377,
@@ -651,14 +667,6 @@
       "category": "时尚,网红"
     },
     {
-      "raw_hot": 514606,
-      "num": 514606,
-      "word": "欧盟怒批特朗普",
-      "onboard_time": 1740884059,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 510916,
       "num": 510916,
       "word": "以为是初恋女友实际是复婚夫妻",
@@ -705,6 +713,14 @@
       "onboard_time": 1740788358,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 492844,
+      "num": 184040,
+      "word": "精神医院里挤满了失眠的中老年女性",
+      "onboard_time": 1740886279,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 482396,
@@ -915,6 +931,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 373283,
+      "num": 373283,
+      "word": "前TVB演员回应跑网约车",
+      "onboard_time": 1740885079,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 369692,
       "num": 210185,
       "word": "特朗普称泽连斯基需停止对普京负面言论",
@@ -1107,6 +1131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 306654,
+      "num": 306654,
+      "word": "泽连斯基与斯塔默会面连说3次感谢",
+      "onboard_time": 1740888200,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 303979,
       "num": 761462,
       "word": "两会是哪两个会",
@@ -1195,6 +1227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 294105,
+      "num": 294105,
+      "word": "粉笔模考",
+      "onboard_time": 1740886279,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 293775,
       "num": 333832,
       "word": "秦彻",
@@ -1227,12 +1267,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 290489,
+      "num": 290489,
+      "word": "周深的同传堪比朱广权手语翻译",
+      "onboard_time": 1740887178,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 289763,
       "num": 289763,
       "word": "明日方舟",
       "onboard_time": 1740800238,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 289537,
+      "num": 295400,
+      "word": "辛芷蕾终于演上喜剧了",
+      "onboard_time": 1740886340,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 288123,
@@ -1267,28 +1323,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 280444,
-      "num": 280444,
-      "word": "百万工资拖欠4年讨回后交税32万7",
-      "onboard_time": 1740886039,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 279759,
       "num": 279759,
       "word": "日本米价暴涨却怪中国",
       "onboard_time": 1740751221,
       "rank": 24,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 279463,
-      "num": 279463,
-      "word": "前TVB演员回应跑网约车",
-      "onboard_time": 1740885079,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 278004,
@@ -1747,14 +1787,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 206500,
-      "num": 206500,
-      "word": "辛芷蕾终于演上喜剧了",
-      "onboard_time": 1740886340,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 203530,
       "num": 214108,
       "word": "杨紫坠入淡雅梦境",
@@ -2187,6 +2219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175500,
+      "num": 175500,
+      "word": "DeepSeek智搜评内娱十大国民级歌手",
+      "onboard_time": 1740887059,
+      "rank": 23,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 175360,
       "num": 277436,
       "word": "景甜吴谨言两部爽文女主联动",
@@ -2241,14 +2281,6 @@
       "onboard_time": 1740814287,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 172969,
-      "num": 172969,
-      "word": "粉笔模考",
-      "onboard_time": 1740886279,
-      "rank": 39,
-      "category": "教育"
     },
     {
       "raw_hot": 171388,
@@ -2595,14 +2627,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 149530,
-      "num": 149530,
-      "word": "精神医院里挤满了失眠的中老年女性",
-      "onboard_time": 1740886279,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 148884,
       "num": 148884,
       "word": "长沙富裕家庭达1.74万户",
@@ -2625,6 +2649,14 @@
       "onboard_time": 1740799277,
       "rank": 33,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 147823,
+      "num": 147823,
+      "word": "肖战粉丝G社生图",
+      "onboard_time": 1740888859,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 146987,
@@ -2843,6 +2875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133589,
+      "num": 133589,
+      "word": "宋威龙小说男主在雪山",
+      "onboard_time": 1740888079,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133568,
       "num": 363351,
       "word": "家庭摄像头遭破解260元可永久观看",
@@ -2953,6 +2993,14 @@
       "onboard_time": 1740746839,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 124628,
+      "num": 124628,
+      "word": "库里扣篮",
+      "onboard_time": 1740889099,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 122940,
@@ -3113,6 +3161,14 @@
       "onboard_time": 1740800537,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111807,
+      "num": 111807,
+      "word": "建议折算高速公路免费天数",
+      "onboard_time": 1740887419,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 111226,
@@ -3331,6 +3387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97942,
+      "num": 97942,
+      "word": "魔卡少女樱绝美耳饰",
+      "onboard_time": 1740886818,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 97919,
       "num": 205227,
       "word": "张星特微粒文化解约",
@@ -3377,6 +3441,14 @@
       "onboard_time": 1740882799,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95629,
+      "num": 131570,
+      "word": "男子16岁起每天1包烟32岁重度心梗",
+      "onboard_time": 1740887898,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95248,
@@ -3457,6 +3529,14 @@
       "onboard_time": 1740882438,
       "rank": 44,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 90191,
+      "num": 90191,
+      "word": "第五人格赛季精华",
+      "onboard_time": 1740889280,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 89809,
@@ -3545,14 +3625,6 @@
       "onboard_time": 1740844941,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 85914,
-      "num": 85914,
-      "word": "魔卡少女樱绝美耳饰",
-      "onboard_time": 1740886818,
-      "rank": 46,
-      "category": "动漫"
     },
     {
       "raw_hot": 85864,
@@ -3905,6 +3977,14 @@
       "onboard_time": 1740803239,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 48574,
+      "num": 144941,
+      "word": "邓紫棋说活着就是恩典",
+      "onboard_time": 1740888139,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 48242,
@@ -4451,6 +4531,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 12664,
+      "num": 148097,
+      "word": "互联网搜索产品的价值到底是什么",
+      "onboard_time": 1740887960,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 12377,
       "num": 37066,
       "word": "中东部将现隔天如换季式降温",
@@ -4539,6 +4627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 7207,
+      "num": 386058,
+      "word": "在国之重器里看到奋斗的底气",
+      "onboard_time": 1740889399,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 6085,
       "num": 62161,
       "word": "林允回应造型争议",
@@ -4571,6 +4667,9 @@
     },
     {
       "word": "#奋进的春天#"
+    },
+    {
+      "word": "#三个事关彰显平安中国重大意义#"
     }
   ]
 }

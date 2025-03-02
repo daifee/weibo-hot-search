@@ -1,0 +1,410 @@
+{
+  "runTime": 1740889577644,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 719399,
+        "num": 1115103,
+        "word": "百万工资拖欠4年讨回后交税32万7",
+        "onboard_time": 1740886039,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 463918,
+        "num": 463918,
+        "word": "中央气象台一早发5个预警",
+        "onboard_time": 1740874338,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7207,
+        "num": 386058,
+        "word": "在国之重器里看到奋斗的底气",
+        "onboard_time": 1740889399,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 373283,
+        "num": 373283,
+        "word": "前TVB演员回应跑网约车",
+        "onboard_time": 1740885079,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327912,
+        "num": 327912,
+        "word": "辛雨锡发肖战早期简历",
+        "onboard_time": 1740871695,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 630316,
+        "num": 320795,
+        "word": "欧盟怒批特朗普",
+        "onboard_time": 1740884059,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 494168,
+        "num": 318094,
+        "word": "美官员称乌团队几乎都哭了",
+        "onboard_time": 1740880758,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 418905,
+        "num": 316120,
+        "word": "英乌签署22.6亿英镑贷款协议",
+        "onboard_time": 1740870913,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 310090,
+        "num": 310090,
+        "word": "山东天气也太抽象了",
+        "onboard_time": 1740874876,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306654,
+        "num": 306654,
+        "word": "泽连斯基与斯塔默会面连说3次感谢",
+        "onboard_time": 1740888200,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1472480,
+        "num": 304904,
+        "word": "特朗普将英语定为美国官方语言",
+        "onboard_time": 1740883218,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 923479,
+        "num": 302280,
+        "word": "贾静雯女儿是方大同童书粉",
+        "onboard_time": 1740885439,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 654448,
+        "num": 301198,
+        "word": "男子想复婚利用保姆假戏真做被捅死",
+        "onboard_time": 1740881479,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 645714,
+        "num": 299017,
+        "word": "女子欲取17万给梁朝伟订酒店被劝下",
+        "onboard_time": 1740882978,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289537,
+        "num": 295400,
+        "word": "辛芷蕾终于演上喜剧了",
+        "onboard_time": 1740886340,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294105,
+        "num": 294105,
+        "word": "粉笔模考",
+        "onboard_time": 1740886279,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 290489,
+        "num": 290489,
+        "word": "周深的同传堪比朱广权手语翻译",
+        "onboard_time": 1740887178,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 31133,
+        "num": 216690,
+        "word": "您的声音我的故事",
+        "onboard_time": 1740871034,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186786,
+        "num": 186786,
+        "word": "贾静雯发文悼念方大同",
+        "onboard_time": 1740881357,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185575,
+        "num": 185575,
+        "word": "吴宣仪卡琳娜贴贴",
+        "onboard_time": 1740886759,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 492844,
+        "num": 184040,
+        "word": "精神医院里挤满了失眠的中老年女性",
+        "onboard_time": 1740886279,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372646,
+        "num": 183095,
+        "word": "董力上节目求婚只用了9朵玫瑰",
+        "onboard_time": 1740885861,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198949,
+        "num": 179998,
+        "word": "外媒很难再妖魔化中国",
+        "onboard_time": 1740885439,
+        "rank": 22,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 175500,
+        "num": 175500,
+        "word": "DeepSeek智搜评内娱十大国民级歌手",
+        "onboard_time": 1740887059,
+        "rank": 23,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 166703,
+        "num": 166703,
+        "word": "原来刘德华才是最大彩蛋啊",
+        "onboard_time": 1740879319,
+        "rank": 24,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 152188,
+        "num": 152188,
+        "word": "乳腺癌女子提醒网友少碰购物小票",
+        "onboard_time": 1740835824,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152153,
+        "num": 152153,
+        "word": "冯远征招生最痛苦的是演员说不清台词",
+        "onboard_time": 1740880639,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12664,
+        "num": 148097,
+        "word": "互联网搜索产品的价值到底是什么",
+        "onboard_time": 1740887960,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 147823,
+        "num": 147823,
+        "word": "肖战粉丝G社生图",
+        "onboard_time": 1740888859,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 48574,
+        "num": 144941,
+        "word": "邓紫棋说活着就是恩典",
+        "onboard_time": 1740888139,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144057,
+        "num": 144057,
+        "word": "妈妈生气踢孩子两脚后被写进记仇本",
+        "onboard_time": 1740879497,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136258,
+        "num": 136258,
+        "word": "你好星期六难哄收视新高",
+        "onboard_time": 1740849856,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133589,
+        "num": 133589,
+        "word": "宋威龙小说男主在雪山",
+        "onboard_time": 1740888079,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132941,
+        "num": 132941,
+        "word": "两会是哪两个会",
+        "onboard_time": 1740879497,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 95629,
+        "num": 131570,
+        "word": "男子16岁起每天1包烟32岁重度心梗",
+        "onboard_time": 1740887898,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131548,
+        "num": 131548,
+        "word": "才刚脱的秋裤又要穿回去了",
+        "onboard_time": 1740875897,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126092,
+        "num": 126092,
+        "word": "马龙首次尝试咖啡拉花",
+        "onboard_time": 1740885739,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124628,
+        "num": 124628,
+        "word": "库里扣篮",
+        "onboard_time": 1740889099,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124160,
+        "num": 124160,
+        "word": "女子每天4杯咖啡喝出骨质疏松",
+        "onboard_time": 1740844941,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121241,
+        "num": 121241,
+        "word": "花花花花花花开了",
+        "onboard_time": 1740873436,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118377,
+        "num": 118377,
+        "word": "台69岁老太称与梁朝伟订婚欲汇17万",
+        "onboard_time": 1740885019,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111807,
+        "num": 111807,
+        "word": "建议折算高速公路免费天数",
+        "onboard_time": 1740887419,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 104151,
+        "num": 104151,
+        "word": "钟楚曦新剧短发造型",
+        "onboard_time": 1740882258,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101337,
+        "num": 101337,
+        "word": "云南通报游客旅游遇关门洗脑消费",
+        "onboard_time": 1740885019,
+        "rank": 43,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 97942,
+        "num": 97942,
+        "word": "魔卡少女樱绝美耳饰",
+        "onboard_time": 1740886818,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 97831,
+        "num": 97831,
+        "word": "建议经常咳嗽的人学会捏脊",
+        "onboard_time": 1740884237,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 93724,
+        "num": 93724,
+        "word": "广东人最怕的天气套餐来了",
+        "onboard_time": 1740871875,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91837,
+        "num": 91837,
+        "word": "勇士vs76人",
+        "onboard_time": 1740882799,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90191,
+        "num": 90191,
+        "word": "第五人格赛季精华",
+        "onboard_time": 1740889280,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 87160,
+        "num": 87160,
+        "word": "唐总你夫人的马甲掉了",
+        "onboard_time": 1740849676,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#三个事关彰显平安中国重大意义#"
+    }
+  }
+}
