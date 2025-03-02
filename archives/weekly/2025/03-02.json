@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1740957683121,
+  "endTime": 1740958542171,
   "band_list": [
     {
       "raw_hot": 3194275,
@@ -316,7 +316,7 @@
     },
     {
       "raw_hot": 771960,
-      "num": 771960,
+      "num": 879816,
       "word": "这次山东等地暴雪并不异常",
       "onboard_time": 1740920480,
       "rank": 8,
@@ -763,6 +763,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 365070,
+      "num": 365070,
+      "word": "英法乌将向美提和平计划",
+      "onboard_time": 1740956834,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 354718,
       "num": 354718,
       "word": "出轨的未婚夫强势的奶奶顽强的她",
@@ -979,6 +987,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 285653,
+      "num": 161822,
+      "word": "第97届奥斯卡金像奖最佳影片提名",
+      "onboard_time": 1740949631,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 284341,
+      "num": 284341,
+      "word": "国际金价跌至近3周以来最低点",
+      "onboard_time": 1740919761,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 280542,
       "num": 316986,
       "word": "魏大勋陈伟霆 老九门2",
@@ -1105,22 +1129,6 @@
       "onboard_time": 1740926901,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 250409,
-      "num": 250409,
-      "word": "国际金价跌至近3周以来最低点",
-      "onboard_time": 1740919761,
-      "rank": 43,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 247393,
-      "num": 159877,
-      "word": "第97届奥斯卡金像奖最佳影片提名",
-      "onboard_time": 1740949631,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 241107,
@@ -1875,6 +1883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157466,
+      "num": 157466,
+      "word": "饲养员缝缝补补坏蛋逆天改命",
+      "onboard_time": 1740946630,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157377,
       "num": 157377,
       "word": "花花花花花花开了",
@@ -2115,14 +2131,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 143799,
-      "num": 143799,
-      "word": "饲养员缝缝补补坏蛋逆天改命",
-      "onboard_time": 1740946630,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 142539,
       "num": 142539,
       "word": "A勒布伦期待与樊振东再次交手",
@@ -2289,6 +2297,14 @@
       "onboard_time": 1740919399,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 130379,
+      "num": 98657,
+      "word": "方大同悼念仪式手卡上留下最后的话",
+      "onboard_time": 1740937633,
+      "rank": 22,
+      "category": "艺人,电影"
     },
     {
       "raw_hot": 129728,
@@ -2473,14 +2489,6 @@
       "onboard_time": 1740920360,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 115653,
-      "num": 95351,
-      "word": "方大同悼念仪式手卡上留下最后的话",
-      "onboard_time": 1740937633,
-      "rank": 22,
-      "category": "艺人,电影"
     },
     {
       "raw_hot": 114281,
@@ -2859,14 +2867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 85894,
-      "num": 185852,
-      "word": "英法乌将向美提和平计划",
-      "onboard_time": 1740956834,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 85864,
       "num": 85864,
       "word": "恋与深空",
@@ -3115,6 +3115,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53790,
+      "num": 53790,
+      "word": "74克企鹅吃吃睡睡到快1000克",
+      "onboard_time": 1740944532,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53128,
+      "num": 53128,
+      "word": "董力给岳父送开瓶器",
+      "onboard_time": 1740957376,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 52370,
       "num": 52370,
       "word": "现在不是霸道总裁强制爱的年代了",
@@ -3129,6 +3145,14 @@
       "onboard_time": 1740917239,
       "rank": 34,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 49942,
+      "num": 52423,
+      "word": "张凌赫还没看过白天的鼋头渚",
+      "onboard_time": 1740946271,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 49811,
@@ -3161,14 +3185,6 @@
       "onboard_time": 1740871034,
       "rank": 2,
       "category": "电影"
-    },
-    {
-      "raw_hot": 48044,
-      "num": 48044,
-      "word": "74克企鹅吃吃睡睡到快1000克",
-      "onboard_time": 1740944532,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 47691,
@@ -3235,6 +3251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 41837,
+      "num": 52345,
+      "word": "爱你剧组全员高学历",
+      "onboard_time": 1740957616,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 41224,
       "num": 223079,
       "word": "杜玉波贪欲膨胀靠教育吃教育",
@@ -3273,14 +3297,6 @@
       "onboard_time": 1740911179,
       "rank": 38,
       "category": "美食"
-    },
-    {
-      "raw_hot": 36570,
-      "num": 48031,
-      "word": "张凌赫还没看过白天的鼋头渚",
-      "onboard_time": 1740946271,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 36110,
@@ -3353,22 +3369,6 @@
       "onboard_time": 1740860111,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 29581,
-      "num": 48015,
-      "word": "董力给岳父送开瓶器",
-      "onboard_time": 1740957376,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 28350,
-      "num": 48012,
-      "word": "爱你剧组全员高学历",
-      "onboard_time": 1740957616,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 27815,
@@ -3563,6 +3563,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 17294,
+      "num": 65057,
+      "word": "CBA全明星赛",
+      "onboard_time": 1740958456,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 16649,
       "num": 18111,
       "word": "排球少年剧场版vs小巨人",
@@ -3576,6 +3584,14 @@
       "word": "你以为的你以为是你以为的吗",
       "onboard_time": 1740856512,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15133,
+      "num": 67967,
+      "word": "他守护国宝躲过日寇劫掠",
+      "onboard_time": 1740955994,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -3680,6 +3696,14 @@
       "word": "二月二有啥习俗",
       "onboard_time": 1740864851,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8473,
+      "num": 77322,
+      "word": "歼10云中特写太绝了",
+      "onboard_time": 1740958395,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
