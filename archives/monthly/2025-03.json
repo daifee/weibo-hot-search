@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740880224663,
+  "endTime": 1740881509396,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1323741,
+      "num": 1323741,
+      "word": "中央气象台一早发5个预警",
+      "onboard_time": 1740874338,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1251055,
       "num": 918300,
       "word": "马斯克确认再得一子",
@@ -209,14 +217,6 @@
       "onboard_time": 1740818543,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1146040,
-      "num": 1183366,
-      "word": "中央气象台一早发5个预警",
-      "onboard_time": 1740874338,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1121767,
@@ -419,6 +419,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 688041,
+      "num": 688041,
+      "word": "辛雨锡发肖战早期简历",
+      "onboard_time": 1740871695,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 669488,
+      "num": 261931,
+      "word": "男子想复婚利用保姆假戏真做被捅死",
+      "onboard_time": 1740881479,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 657788,
       "num": 521574,
       "word": "留几手吐槽芒果台瞧不起他",
@@ -427,20 +443,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 655676,
+      "num": 322906,
+      "word": "原来刘德华才是最大彩蛋啊",
+      "onboard_time": 1740879319,
+      "rank": 14,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 654405,
       "num": 367437,
       "word": "东方集团涉嫌重大财务造假",
       "onboard_time": 1740750979,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 649117,
-      "num": 649117,
-      "word": "辛雨锡发肖战早期简历",
-      "onboard_time": 1740871695,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 633445,
@@ -931,6 +947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 342466,
+      "num": 342466,
+      "word": "广东人最怕的天气套餐来了",
+      "onboard_time": 1740871875,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 335243,
       "num": 335243,
       "word": "电信诈骗开始遥控你的手机了",
@@ -945,14 +969,6 @@
       "onboard_time": 1740804258,
       "rank": 24,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 331321,
-      "num": 331321,
-      "word": "广东人最怕的天气套餐来了",
-      "onboard_time": 1740871875,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 331046,
@@ -1025,6 +1041,14 @@
       "onboard_time": 1740725178,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 303979,
+      "num": 303979,
+      "word": "两会是哪两个会",
+      "onboard_time": 1740879497,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 303798,
@@ -1227,6 +1251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 269058,
+      "num": 269058,
+      "word": "你好星期六难哄收视新高",
+      "onboard_time": 1740849856,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263916,
       "num": 244273,
       "word": "刘畊宏谈流量下降",
@@ -1249,14 +1281,6 @@
       "onboard_time": 1740802819,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 258107,
-      "num": 258107,
-      "word": "你好星期六难哄收视新高",
-      "onboard_time": 1740849856,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 257958,
@@ -1467,6 +1491,14 @@
       "category": "民生新闻,电影"
     },
     {
+      "raw_hot": 221856,
+      "num": 252440,
+      "word": "冯远征招生最痛苦的是演员说不清台词",
+      "onboard_time": 1740880639,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220789,
       "num": 347753,
       "word": "第一次见余承恩说这么多话",
@@ -1667,6 +1699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200627,
+      "num": 200627,
+      "word": "美官员称乌团队几乎都哭了",
+      "onboard_time": 1740880758,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 199584,
       "num": 199584,
       "word": "似锦今日开播",
@@ -1723,6 +1763,14 @@
       "category": "剧集,综艺"
     },
     {
+      "raw_hot": 196149,
+      "num": 196149,
+      "word": "妈妈生气踢孩子两脚后被写进记仇本",
+      "onboard_time": 1740879497,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 195081,
       "num": 195081,
       "word": "被压在山下的猴子不只有孙悟空",
@@ -1745,6 +1793,14 @@
       "onboard_time": 1740831504,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193848,
+      "num": 193848,
+      "word": "贾静雯发文悼念方大同",
+      "onboard_time": 1740881357,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 193290,
@@ -1883,6 +1939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 182991,
+      "num": 242536,
+      "word": "马克龙呼吁美乌冷静",
+      "onboard_time": 1740879799,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 182944,
       "num": 182944,
       "word": "张晚意两年上了8部剧",
@@ -1961,14 +2025,6 @@
       "onboard_time": 1740831923,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 178437,
-      "num": 215763,
-      "word": "原来刘德华才是最大彩蛋啊",
-      "onboard_time": 1740879319,
-      "rank": 14,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 177800,
@@ -2059,12 +2115,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 173505,
-      "num": 173505,
-      "word": "两会是哪两个会",
-      "onboard_time": 1740879497,
-      "rank": 22,
-      "category": "国内时政"
+      "raw_hot": 173577,
+      "num": 173577,
+      "word": "唐总你夫人的马甲掉了",
+      "onboard_time": 1740849676,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 173001,
@@ -2137,6 +2193,14 @@
       "onboard_time": 1740812791,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168584,
+      "num": 168584,
+      "word": "河南7元一碗的焖面",
+      "onboard_time": 1740875897,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 167199,
@@ -2339,6 +2403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 154900,
+      "num": 197632,
+      "word": "中央气象台今早5预警齐发",
+      "onboard_time": 1740880639,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154006,
       "num": 154006,
       "word": "白敬亭卫衣",
@@ -2427,12 +2499,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 144579,
-      "num": 144579,
-      "word": "唐总你夫人的马甲掉了",
-      "onboard_time": 1740849676,
-      "rank": 42,
-      "category": "剧集"
+      "raw_hot": 144476,
+      "num": 144476,
+      "word": "tods副总顺走了肖战的应援手幅秀",
+      "onboard_time": 1740865511,
+      "rank": 17,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 144411,
@@ -2465,14 +2537,6 @@
       "onboard_time": 1740827423,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 141612,
-      "num": 141612,
-      "word": "河南7元一碗的焖面",
-      "onboard_time": 1740875897,
-      "rank": 27,
-      "category": "美食"
     },
     {
       "raw_hot": 141274,
@@ -2531,6 +2595,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 139700,
+      "num": 139700,
+      "word": "50岁阿姨跳绝命八颠完爆年轻人",
+      "onboard_time": 1740870733,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 139289,
       "num": 139289,
       "word": "陈赫被黄磊整蛊到直呼重签合同",
@@ -2561,14 +2633,6 @@
       "onboard_time": 1740826040,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 137421,
-      "num": 137421,
-      "word": "tods副总顺走了肖战的应援手幅秀",
-      "onboard_time": 1740865511,
-      "rank": 17,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 136474,
@@ -2731,14 +2795,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 123205,
-      "num": 123205,
-      "word": "50岁阿姨跳绝命八颠完爆年轻人",
-      "onboard_time": 1740870733,
-      "rank": 30,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 122940,
       "num": 122940,
       "word": "MLB 邓为",
@@ -2889,14 +2945,6 @@
       "onboard_time": 1740800537,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 111951,
-      "num": 111951,
-      "word": "妈妈生气踢孩子两脚后被写进记仇本",
-      "onboard_time": 1740879497,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111226,
@@ -3243,6 +3291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 88190,
+      "num": 88190,
+      "word": "郭富城想回石龙开金铺",
+      "onboard_time": 1740878479,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87684,
       "num": 102688,
       "word": "樊振东为中国棒球队加油",
@@ -3275,14 +3331,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 86442,
-      "num": 86442,
-      "word": "郭富城想回石龙开金铺",
-      "onboard_time": 1740878479,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 85998,
       "num": 176335,
       "word": "何洛洛哭戏层次递进感",
@@ -3291,20 +3339,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85864,
+      "num": 85864,
+      "word": "恋与深空",
+      "onboard_time": 1740880216,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 85684,
       "num": 685554,
       "word": "建议重拳整治犬咬伤人问题",
       "onboard_time": 1740809747,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 85561,
-      "num": 159067,
-      "word": "马克龙呼吁美乌冷静",
-      "onboard_time": 1740879799,
-      "rank": 24,
-      "category": "国际时政"
     },
     {
       "raw_hot": 85490,
@@ -3619,6 +3667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48242,
+      "num": 595831,
+      "word": "您的声音我的故事",
+      "onboard_time": 1740871034,
+      "rank": 2,
+      "category": "电影"
+    },
+    {
       "raw_hot": 47077,
       "num": 118042,
       "word": "3岁吒儿原来是加法高手",
@@ -3657,14 +3713,6 @@
       "onboard_time": 1740766213,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 43709,
-      "num": 595831,
-      "word": "您的声音我的故事",
-      "onboard_time": 1740871034,
-      "rank": 2,
-      "category": "电影"
     },
     {
       "raw_hot": 41962,

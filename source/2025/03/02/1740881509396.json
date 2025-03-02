@@ -1,0 +1,410 @@
+{
+  "runTime": 1740881509396,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1323741,
+        "num": 1323741,
+        "word": "中央气象台一早发5个预警",
+        "onboard_time": 1740874338,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 688041,
+        "num": 688041,
+        "word": "辛雨锡发肖战早期简历",
+        "onboard_time": 1740871695,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48242,
+        "num": 417254,
+        "word": "您的声音我的故事",
+        "onboard_time": 1740871034,
+        "rank": 2,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 399178,
+        "num": 399178,
+        "word": "山东天气也太抽象了",
+        "onboard_time": 1740874876,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342466,
+        "num": 342466,
+        "word": "广东人最怕的天气套餐来了",
+        "onboard_time": 1740871875,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 810541,
+        "num": 339383,
+        "word": "英乌签署22.6亿英镑贷款协议",
+        "onboard_time": 1740870913,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 655676,
+        "num": 322906,
+        "word": "原来刘德华才是最大彩蛋啊",
+        "onboard_time": 1740879319,
+        "rank": 6,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 303979,
+        "num": 303979,
+        "word": "两会是哪两个会",
+        "onboard_time": 1740879497,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 282379,
+        "num": 282379,
+        "word": "什么是爆肺",
+        "onboard_time": 1740812372,
+        "rank": 8,
+        "category": "健康医疗,艺人"
+      },
+      {
+        "raw_hot": 269058,
+        "num": 269058,
+        "word": "你好星期六难哄收视新高",
+        "onboard_time": 1740849856,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2323128,
+        "num": 265954,
+        "word": "上海大学回应女生考研专业课10分",
+        "onboard_time": 1740875718,
+        "rank": 10,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 669488,
+        "num": 261931,
+        "word": "男子想复婚利用保姆假戏真做被捅死",
+        "onboard_time": 1740881479,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430273,
+        "num": 254933,
+        "word": "方大同经纪人谈后事相关处理",
+        "onboard_time": 1740860710,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221856,
+        "num": 252440,
+        "word": "冯远征招生最痛苦的是演员说不清台词",
+        "onboard_time": 1740880639,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182991,
+        "num": 242536,
+        "word": "马克龙呼吁美乌冷静",
+        "onboard_time": 1740879799,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 241809,
+        "num": 241809,
+        "word": "单依纯哽咽唱才二十三",
+        "onboard_time": 1740837324,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 235108,
+        "num": 235108,
+        "word": "一个没准备短袖的人轻轻碎了",
+        "onboard_time": 1740829463,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222668,
+        "num": 222668,
+        "word": "欧豪多上上网吧",
+        "onboard_time": 1740838944,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200627,
+        "num": 200627,
+        "word": "美官员称乌团队几乎都哭了",
+        "onboard_time": 1740880758,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 199313,
+        "num": 199313,
+        "word": "1.88元考试神器已售60万件",
+        "onboard_time": 1740827782,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 154900,
+        "num": 197632,
+        "word": "中央气象台今早5预警齐发",
+        "onboard_time": 1740880639,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 347189,
+        "num": 197452,
+        "word": "乳腺癌女子提醒网友少碰购物小票",
+        "onboard_time": 1740835824,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224022,
+        "num": 196860,
+        "word": "女子每天4杯咖啡喝出骨质疏松",
+        "onboard_time": 1740844941,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196149,
+        "num": 196149,
+        "word": "妈妈生气踢孩子两脚后被写进记仇本",
+        "onboard_time": 1740879497,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195542,
+        "num": 195542,
+        "word": "著名表演艺术家于洋逝世",
+        "onboard_time": 1740842543,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193848,
+        "num": 193848,
+        "word": "贾静雯发文悼念方大同",
+        "onboard_time": 1740881357,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173577,
+        "num": 173577,
+        "word": "唐总你夫人的马甲掉了",
+        "onboard_time": 1740849676,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170158,
+        "num": 170158,
+        "word": "才刚脱的秋裤又要穿回去了",
+        "onboard_time": 1740875897,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168584,
+        "num": 168584,
+        "word": "河南7元一碗的焖面",
+        "onboard_time": 1740875897,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 150372,
+        "num": 150372,
+        "word": "张凌赫徐若晗红温了",
+        "onboard_time": 1740873496,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146500,
+        "num": 146500,
+        "word": "美国一快递飞机空中喷火",
+        "onboard_time": 1740877157,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 144476,
+        "num": 144476,
+        "word": "tods副总顺走了肖战的应援手幅秀",
+        "onboard_time": 1740865511,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 140294,
+        "num": 140294,
+        "word": "三峡小狗山走红",
+        "onboard_time": 1740874157,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139700,
+        "num": 139700,
+        "word": "50岁阿姨跳绝命八颠完爆年轻人",
+        "onboard_time": 1740870733,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 137031,
+        "num": 137031,
+        "word": "薛凯琪全平台换封面",
+        "onboard_time": 1740826040,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135594,
+        "num": 135594,
+        "word": "欧洲多方力挺乌克兰",
+        "onboard_time": 1740848656,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122700,
+        "num": 122700,
+        "word": "花花花花花花开了",
+        "onboard_time": 1740873436,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107269,
+        "num": 107269,
+        "word": "赵露思直播",
+        "onboard_time": 1740832522,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105988,
+        "num": 105988,
+        "word": "杨紫摄影刘任捷",
+        "onboard_time": 1740865391,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105603,
+        "num": 105603,
+        "word": "邓紫棋演唱会上哭了",
+        "onboard_time": 1740837924,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100505,
+        "num": 100505,
+        "word": "晚上看手机的正确方式",
+        "onboard_time": 1740874338,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 100470,
+        "num": 100470,
+        "word": "专家称可坚定买入黄金",
+        "onboard_time": 1740839244,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97088,
+        "num": 97088,
+        "word": "老鼠人",
+        "onboard_time": 1740849975,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88190,
+        "num": 88190,
+        "word": "郭富城想回石龙开金铺",
+        "onboard_time": 1740878479,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85864,
+        "num": 85864,
+        "word": "恋与深空",
+        "onboard_time": 1740880216,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 84041,
+        "num": 84041,
+        "word": "电信诈骗开始遥控你的手机了",
+        "onboard_time": 1740844522,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81207,
+        "num": 81207,
+        "word": "电视剧蝉开机",
+        "onboard_time": 1740877457,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79714,
+        "num": 79714,
+        "word": "3类人要警惕气胸",
+        "onboard_time": 1740842484,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 76960,
+        "num": 76960,
+        "word": "李羲承进行曲",
+        "onboard_time": 1740838465,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 73096,
+        "num": 73096,
+        "word": "暴雪寒潮大雾3预警齐发",
+        "onboard_time": 1740876077,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋进的春天#"
+    }
+  }
+}

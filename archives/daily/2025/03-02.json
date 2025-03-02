@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1740880224663,
+  "endTime": 1740881509396,
   "band_list": [
     {
       "raw_hot": 2779346,
@@ -11,8 +11,8 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 1146040,
-      "num": 1183366,
+      "raw_hot": 1323741,
+      "num": 1323741,
       "word": "中央气象台一早发5个预警",
       "onboard_time": 1740874338,
       "rank": 0,
@@ -59,12 +59,28 @@
       "category": "健康医疗,艺人"
     },
     {
-      "raw_hot": 649117,
-      "num": 649117,
+      "raw_hot": 688041,
+      "num": 688041,
       "word": "辛雨锡发肖战早期简历",
       "onboard_time": 1740871695,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 669488,
+      "num": 261931,
+      "word": "男子想复婚利用保姆假戏真做被捅死",
+      "onboard_time": 1740881479,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 655676,
+      "num": 322906,
+      "word": "原来刘德华才是最大彩蛋啊",
+      "onboard_time": 1740879319,
+      "rank": 14,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 604243,
@@ -155,6 +171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 342466,
+      "num": 342466,
+      "word": "广东人最怕的天气套餐来了",
+      "onboard_time": 1740871875,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 337389,
       "num": 337389,
       "word": "一个没准备短袖的人轻轻碎了",
@@ -168,14 +192,6 @@
       "word": "电信诈骗开始遥控你的手机了",
       "onboard_time": 1740844522,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 331321,
-      "num": 331321,
-      "word": "广东人最怕的天气套餐来了",
-      "onboard_time": 1740871875,
-      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -195,6 +211,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 303979,
+      "num": 303979,
+      "word": "两会是哪两个会",
+      "onboard_time": 1740879497,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 285870,
       "num": 179762,
       "word": "老鼠人",
@@ -211,8 +235,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 258107,
-      "num": 258107,
+      "raw_hot": 269058,
+      "num": 269058,
       "word": "你好星期六难哄收视新高",
       "onboard_time": 1740849856,
       "rank": 18,
@@ -225,6 +249,14 @@
       "onboard_time": 1740838944,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221856,
+      "num": 252440,
+      "word": "冯远征招生最痛苦的是演员说不清台词",
+      "onboard_time": 1740880639,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 212818,
@@ -251,12 +283,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200627,
+      "num": 200627,
+      "word": "美官员称乌团队几乎都哭了",
+      "onboard_time": 1740880758,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 197622,
       "num": 152197,
       "word": "欧洲多方力挺乌克兰",
       "onboard_time": 1740848656,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 196149,
+      "num": 196149,
+      "word": "妈妈生气踢孩子两脚后被写进记仇本",
+      "onboard_time": 1740879497,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193848,
+      "num": 193848,
+      "word": "贾静雯发文悼念方大同",
+      "onboard_time": 1740881357,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 186575,
@@ -291,12 +347,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 178437,
-      "num": 215763,
-      "word": "原来刘德华才是最大彩蛋啊",
-      "onboard_time": 1740879319,
-      "rank": 14,
-      "category": "艺人,体育"
+      "raw_hot": 182991,
+      "num": 242536,
+      "word": "马克龙呼吁美乌冷静",
+      "onboard_time": 1740879799,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 176368,
@@ -315,12 +371,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 173505,
-      "num": 173505,
-      "word": "两会是哪两个会",
-      "onboard_time": 1740879497,
-      "rank": 22,
-      "category": "国内时政"
+      "raw_hot": 173577,
+      "num": 173577,
+      "word": "唐总你夫人的马甲掉了",
+      "onboard_time": 1740849676,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 168584,
+      "num": 168584,
+      "word": "河南7元一碗的焖面",
+      "onboard_time": 1740875897,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 166498,
@@ -355,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154900,
+      "num": 197632,
+      "word": "中央气象台今早5预警齐发",
+      "onboard_time": 1740880639,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145127,
       "num": 316268,
       "word": "李佳隆求婚",
@@ -363,20 +435,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 144579,
-      "num": 144579,
-      "word": "唐总你夫人的马甲掉了",
-      "onboard_time": 1740849676,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 141612,
-      "num": 141612,
-      "word": "河南7元一碗的焖面",
-      "onboard_time": 1740875897,
-      "rank": 27,
-      "category": "美食"
+      "raw_hot": 144476,
+      "num": 144476,
+      "word": "tods副总顺走了肖战的应援手幅秀",
+      "onboard_time": 1740865511,
+      "rank": 17,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 140843,
@@ -395,12 +459,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137421,
-      "num": 137421,
-      "word": "tods副总顺走了肖战的应援手幅秀",
-      "onboard_time": 1740865511,
-      "rank": 17,
-      "category": "作品衍生,时尚"
+      "raw_hot": 139700,
+      "num": 139700,
+      "word": "50岁阿姨跳绝命八颠完爆年轻人",
+      "onboard_time": 1740870733,
+      "rank": 30,
+      "category": "运动健身"
     },
     {
       "raw_hot": 133709,
@@ -443,14 +507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 123205,
-      "num": 123205,
-      "word": "50岁阿姨跳绝命八颠完爆年轻人",
-      "onboard_time": 1740870733,
-      "rank": 30,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 122811,
       "num": 316020,
       "word": "抗炎食物",
@@ -489,14 +545,6 @@
       "onboard_time": 1740831861,
       "rank": 34,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 111951,
-      "num": 111951,
-      "word": "妈妈生气踢孩子两脚后被写进记仇本",
-      "onboard_time": 1740879497,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 110559,
@@ -571,8 +619,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 86442,
-      "num": 86442,
+      "raw_hot": 88190,
+      "num": 88190,
       "word": "郭富城想回石龙开金铺",
       "onboard_time": 1740878479,
       "rank": 45,
@@ -587,12 +635,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 85561,
-      "num": 159067,
-      "word": "马克龙呼吁美乌冷静",
-      "onboard_time": 1740879799,
-      "rank": 24,
-      "category": "国际时政"
+      "raw_hot": 85864,
+      "num": 85864,
+      "word": "恋与深空",
+      "onboard_time": 1740880216,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 84959,
@@ -731,6 +779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 48242,
+      "num": 595831,
+      "word": "您的声音我的故事",
+      "onboard_time": 1740871034,
+      "rank": 2,
+      "category": "电影"
+    },
+    {
       "raw_hot": 47077,
       "num": 118042,
       "word": "3岁吒儿原来是加法高手",
@@ -745,14 +801,6 @@
       "onboard_time": 1740845842,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 43709,
-      "num": 595831,
-      "word": "您的声音我的故事",
-      "onboard_time": 1740871034,
-      "rank": 2,
-      "category": "电影"
     },
     {
       "raw_hot": 41962,
