@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1740920080648,
+  "endTime": 1740921858509,
   "band_list": [
     {
       "raw_hot": 3194275,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 897803,
-      "num": 229497,
+      "num": 324422,
       "word": "颜如晶暴瘦60斤后现身重庆马拉松",
       "onboard_time": 1740918440,
       "rank": 20,
@@ -251,6 +251,14 @@
       "category": "汽车,数码"
     },
     {
+      "raw_hot": 778987,
+      "num": 778987,
+      "word": "张凌赫的吻戏 荷尔蒙大爆发",
+      "onboard_time": 1740920720,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 750371,
       "num": 316736,
       "word": "薛凯琪全平台换封面",
@@ -259,8 +267,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 725625,
-      "num": 389033,
+      "raw_hot": 728373,
+      "num": 728373,
       "word": "医院偶遇冉莹颖带儿子打生长激素",
       "onboard_time": 1740916760,
       "rank": 13,
@@ -435,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 516273,
+      "num": 516273,
+      "word": "徐若晗好漂亮",
+      "onboard_time": 1740920601,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 508017,
       "num": 412427,
       "word": "周深的同传堪比朱广权手语翻译",
@@ -449,6 +465,14 @@
       "onboard_time": 1740907399,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 491814,
+      "num": 491814,
+      "word": "周末总瘫在床上是心力弱的表现",
+      "onboard_time": 1740910940,
+      "rank": 35,
+      "category": "健康医疗,健康医疗"
     },
     {
       "raw_hot": 490360,
@@ -505,14 +529,6 @@
       "onboard_time": 1740896360,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 451336,
-      "num": 451336,
-      "word": "周末总瘫在床上是心力弱的表现",
-      "onboard_time": 1740910940,
-      "rank": 35,
-      "category": "健康医疗,健康医疗"
     },
     {
       "raw_hot": 446483,
@@ -611,6 +627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 382532,
+      "num": 382532,
+      "word": "这次山东等地暴雪并不异常",
+      "onboard_time": 1740920480,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 379142,
       "num": 379142,
       "word": "特朗普泽连斯基吵架前后对比",
@@ -675,6 +699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 336367,
+      "num": 336367,
+      "word": "白敬亭章若楠穿搭 ins情侣博主",
+      "onboard_time": 1740917780,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 335243,
       "num": 335243,
       "word": "电信诈骗开始遥控你的手机了",
@@ -713,6 +745,22 @@
       "onboard_time": 1740842484,
       "rank": 13,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 319414,
+      "num": 319414,
+      "word": "李一桐李昀锐 我欲乘风",
+      "onboard_time": 1740919279,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 314970,
+      "num": 314970,
+      "word": "乌克兰",
+      "onboard_time": 1740919160,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 304788,
@@ -760,14 +808,6 @@
       "word": "辛芷蕾终于演上喜剧了",
       "onboard_time": 1740886340,
       "rank": 48,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 287895,
-      "num": 224143,
-      "word": "李一桐李昀锐 我欲乘风",
-      "onboard_time": 1740919279,
-      "rank": 22,
       "category": "剧集"
     },
     {
@@ -833,6 +873,14 @@
       "onboard_time": 1740907099,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 260654,
+      "num": 260654,
+      "word": "高铁晚点",
+      "onboard_time": 1740919819,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 260159,
@@ -907,6 +955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234544,
+      "num": 331502,
+      "word": "王传福说科技无国界",
+      "onboard_time": 1740920601,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 234144,
       "num": 219069,
       "word": "易烊千玺背头daddy造型",
@@ -939,14 +995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 230420,
-      "num": 230420,
-      "word": "白敬亭章若楠穿搭 ins情侣博主",
-      "onboard_time": 1740917780,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 227130,
       "num": 182970,
       "word": "TFBOYS和五禽戏联动了",
@@ -961,6 +1009,14 @@
       "onboard_time": 1740892098,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 225803,
+      "num": 225803,
+      "word": "王曼昱立定跳远满分",
+      "onboard_time": 1740919879,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 225248,
@@ -1057,6 +1113,14 @@
       "onboard_time": 1740885439,
       "rank": 23,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 209059,
+      "num": 209059,
+      "word": "徐若晗张凌赫吻戏",
+      "onboard_time": 1740920839,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 208955,
@@ -1211,20 +1275,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 190307,
-      "num": 190307,
-      "word": "乌克兰",
-      "onboard_time": 1740919160,
-      "rank": 43,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 190115,
       "num": 205874,
       "word": "姚安娜新剧在急诊室好忙",
       "onboard_time": 1740896897,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188409,
+      "num": 188409,
+      "word": "金价未来是涨还是跌",
+      "onboard_time": 1740919399,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 188314,
@@ -1241,6 +1305,14 @@
       "onboard_time": 1740892098,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187267,
+      "num": 187267,
+      "word": "国际金价跌至近3周以来最低点",
+      "onboard_time": 1740919761,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 186799,
@@ -1281,6 +1353,14 @@
       "onboard_time": 1740892759,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184361,
+      "num": 335876,
+      "word": "肖战米兰之行全视角",
+      "onboard_time": 1740921319,
+      "rank": 17,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 183721,
@@ -1379,14 +1459,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 171539,
-      "num": 171539,
-      "word": "金价未来是涨还是跌",
-      "onboard_time": 1740919399,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 168584,
       "num": 168584,
       "word": "河南7元一碗的焖面",
@@ -1467,6 +1539,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 161189,
+      "num": 161189,
+      "word": "滤镜15集37分01秒",
+      "onboard_time": 1740921739,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161175,
       "num": 316691,
       "word": "方大同去世陶晶莹全家都哭了",
@@ -1489,6 +1569,14 @@
       "onboard_time": 1740895640,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158228,
+      "num": 347954,
+      "word": "建议结婚前上婚姻辅导课",
+      "onboard_time": 1740920061,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157986,
@@ -1563,14 +1651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 153584,
-      "num": 156434,
-      "word": "王曼昱立定跳远满分",
-      "onboard_time": 1740919879,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 151817,
       "num": 576740,
       "word": "十四届全国人大三次会议发布会",
@@ -1627,28 +1707,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 149252,
-      "num": 149252,
-      "word": "国际金价跌至近3周以来最低点",
-      "onboard_time": 1740919761,
-      "rank": 43,
-      "category": "财经"
-    },
-    {
       "raw_hot": 148165,
       "num": 148165,
       "word": "谁懂这两个名字出现在大屏幕的感觉",
       "onboard_time": 1740892459,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 148101,
-      "num": 148101,
-      "word": "高铁晚点",
-      "onboard_time": 1740919819,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 145727,
@@ -1828,7 +1892,7 @@
     },
     {
       "raw_hot": 130663,
-      "num": 130663,
+      "num": 303312,
       "word": "COA8中国大陆赛区抽签",
       "onboard_time": 1740919399,
       "rank": 49,
@@ -1985,6 +2049,14 @@
       "onboard_time": 1740899539,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 116290,
+      "num": 261033,
+      "word": "北约秘书长说泽连斯基得跟美国和好",
+      "onboard_time": 1740920360,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 114281,
@@ -2523,6 +2595,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 56519,
+      "num": 376212,
+      "word": "建议性教育作为独立课程在学校推广",
+      "onboard_time": 1740920839,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 55856,
       "num": 142001,
       "word": "贵州的春天超长待机100天",
@@ -2659,6 +2739,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 36526,
+      "num": 326322,
+      "word": "专家称无证据支持餐饮小票致癌",
+      "onboard_time": 1740921020,
+      "rank": 19,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 34825,
       "num": 142891,
       "word": "这个定海神器有多了不起",
@@ -2777,14 +2865,6 @@
       "onboard_time": 1740854413,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 20053,
-      "num": 154462,
-      "word": "建议结婚前上婚姻辅导课",
-      "onboard_time": 1740920061,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19268,
