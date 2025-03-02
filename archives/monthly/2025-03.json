@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740928941689,
+  "endTime": 1740929832036,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -907,6 +907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 564828,
+      "num": 332410,
+      "word": "胡歌杨紫 生命树",
+      "onboard_time": 1740928639,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 564663,
       "num": 564663,
       "word": "TES晋级全球先锋赛",
@@ -1001,6 +1009,14 @@
       "onboard_time": 1740895100,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 548415,
+      "num": 331868,
+      "word": "张凌赫 爸妈爷奶都知道了",
+      "onboard_time": 1740927560,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 523241,
@@ -1627,20 +1643,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 325245,
+      "num": 269227,
+      "word": "网传张艺兴出演女足",
+      "onboard_time": 1740926000,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 324938,
       "num": 324938,
       "word": "冯远征谈晋江式演技",
       "onboard_time": 1740840863,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 323294,
-      "num": 262708,
-      "word": "网传张艺兴出演女足",
-      "onboard_time": 1740926000,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 322124,
@@ -1811,12 +1827,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 291030,
-      "num": 262319,
-      "word": "张凌赫 爸妈爷奶都知道了",
-      "onboard_time": 1740927560,
-      "rank": 17,
-      "category": "剧集"
+      "raw_hot": 291060,
+      "num": 291060,
+      "word": "机器狗在泰山入职了",
+      "onboard_time": 1740923660,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 290585,
@@ -2027,14 +2043,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 261714,
-      "num": 261714,
-      "word": "机器狗在泰山入职了",
-      "onboard_time": 1740923660,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 260159,
       "num": 197427,
       "word": "妈妈生气踢孩子两脚后被写进记仇本",
@@ -2185,6 +2193,14 @@
       "onboard_time": 1740819621,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 241568,
+      "num": 217101,
+      "word": "雷军首曝小米可换镜头手机",
+      "onboard_time": 1740928523,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 241107,
@@ -2467,6 +2483,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 218781,
+      "num": 360642,
+      "word": "张凌赫爸爸妈妈认证爱你好看",
+      "onboard_time": 1740927560,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218693,
       "num": 315440,
       "word": "时代少年团 太原",
@@ -2601,14 +2625,6 @@
       "onboard_time": 1740808857,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 211579,
-      "num": 211579,
-      "word": "胡歌杨紫 生命树",
-      "onboard_time": 1740928639,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 211542,
@@ -2923,6 +2939,14 @@
       "category": "剧集,综艺"
     },
     {
+      "raw_hot": 196287,
+      "num": 196287,
+      "word": "减肥早餐最好以液体为主",
+      "onboard_time": 1740929361,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 195697,
       "num": 195697,
       "word": "金靖月鳞绮纪出妆",
@@ -2985,6 +3009,14 @@
       "onboard_time": 1740892879,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192296,
+      "num": 192296,
+      "word": "浪姐6一公录制",
+      "onboard_time": 1740928879,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 191787,
@@ -3195,12 +3227,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 182003,
-      "num": 360642,
-      "word": "张凌赫爸爸妈妈认证爱你好看",
-      "onboard_time": 1740927560,
-      "rank": 9,
-      "category": "剧集"
+      "raw_hot": 181931,
+      "num": 181931,
+      "word": "周杰伦昆凌儿子拿了网球冠军",
+      "onboard_time": 1740929120,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 181231,
@@ -3531,14 +3563,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 166285,
-      "num": 166285,
-      "word": "雷军首曝小米可换镜头手机",
-      "onboard_time": 1740928523,
-      "rank": 34,
-      "category": "数码"
-    },
-    {
       "raw_hot": 166078,
       "num": 166078,
       "word": "她还在情伤期他脑补到热恋期",
@@ -3761,6 +3785,14 @@
       "onboard_time": 1740824123,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156825,
+      "num": 156825,
+      "word": "张真源贺峻霖低声些光彩吗",
+      "onboard_time": 1740929540,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 156536,
@@ -4244,7 +4276,7 @@
     },
     {
       "raw_hot": 138103,
-      "num": 138103,
+      "num": 166338,
       "word": "14岁少女行云流水展示三把刀",
       "onboard_time": 1740928340,
       "rank": 43,
@@ -4587,14 +4619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 120572,
-      "num": 120572,
-      "word": "浪姐6一公录制",
-      "onboard_time": 1740928879,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 120001,
       "num": 1068479,
       "word": "外国人上太空要先学中文了",
@@ -4665,6 +4689,14 @@
       "onboard_time": 1740817403,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118323,
+      "num": 118323,
+      "word": "奥斯卡提名",
+      "onboard_time": 1740929778,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 118267,
@@ -4883,6 +4915,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 108741,
+      "num": 216561,
+      "word": "33Svan早点休息",
+      "onboard_time": 1740928879,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 107652,
       "num": 107652,
       "word": "迪丽热巴开推发布会黑长直造型",
@@ -5097,14 +5137,6 @@
       "onboard_time": 1740925460,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 99585,
-      "num": 144980,
-      "word": "33Svan早点休息",
-      "onboard_time": 1740928879,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 99546,
