@@ -1,6 +1,6 @@
 {
   "startTime": 1740932816657,
-  "endTime": 1740955109783,
+  "endTime": 1740957683121,
   "band_list": [
     {
       "raw_hot": 1454288,
@@ -49,6 +49,14 @@
       "onboard_time": 1740904699,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 408242,
+      "num": 408242,
+      "word": "这次山东等地暴雪并不异常",
+      "onboard_time": 1740920480,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 394364,
@@ -131,6 +139,22 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 250409,
+      "num": 250409,
+      "word": "国际金价跌至近3周以来最低点",
+      "onboard_time": 1740919761,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 247393,
+      "num": 159877,
+      "word": "第97届奥斯卡金像奖最佳影片提名",
+      "onboard_time": 1740949631,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 243714,
       "num": 243714,
       "word": "济南因暴雪停课",
@@ -139,12 +163,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 222588,
-      "num": 222588,
-      "word": "这次山东等地暴雪并不异常",
-      "onboard_time": 1740920480,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 240015,
+      "num": 240015,
+      "word": "英国首相称对白宫冲突感到不适",
+      "onboard_time": 1740932177,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 201805,
@@ -171,11 +195,11 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 185320,
-      "num": 198921,
-      "word": "英国首相称对白宫冲突感到不适",
-      "onboard_time": 1740932177,
-      "rank": 23,
+      "raw_hot": 189731,
+      "num": 363077,
+      "word": "俄乌冲突3年离和平还有多远",
+      "onboard_time": 1740940091,
+      "rank": 30,
       "category": "国际时政"
     },
     {
@@ -227,12 +251,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 145663,
-      "num": 363077,
-      "word": "俄乌冲突3年离和平还有多远",
-      "onboard_time": 1740940091,
-      "rank": 30,
-      "category": "国际时政"
+      "raw_hot": 143799,
+      "num": 143799,
+      "word": "饲养员缝缝补补坏蛋逆天改命",
+      "onboard_time": 1740946630,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143273,
@@ -249,14 +273,6 @@
       "onboard_time": 1740932657,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 133437,
-      "num": 80496,
-      "word": "第97届奥斯卡金像奖最佳影片提名",
-      "onboard_time": 1740949631,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 133074,
@@ -299,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115653,
+      "num": 95351,
+      "word": "方大同悼念仪式手卡上留下最后的话",
+      "onboard_time": 1740937633,
+      "rank": 22,
+      "category": "艺人,电影"
+    },
+    {
       "raw_hot": 108532,
       "num": 108532,
       "word": "济南气温满20减19",
@@ -323,6 +347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105809,
+      "num": 105809,
+      "word": "山东发暴雪橙色预警",
+      "onboard_time": 1740907399,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105377,
       "num": 105377,
       "word": "金价未来是涨还是跌",
@@ -345,14 +377,6 @@
       "onboard_time": 1740926901,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 95452,
-      "num": 95452,
-      "word": "国际金价跌至近3周以来最低点",
-      "onboard_time": 1740919761,
-      "rank": 41,
-      "category": "财经"
     },
     {
       "raw_hot": 93246,
@@ -393,6 +417,14 @@
       "onboard_time": 1740917780,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 85894,
+      "num": 185852,
+      "word": "英法乌将向美提和平计划",
+      "onboard_time": 1740956834,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 85109,
@@ -443,14 +475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 57709,
-      "num": 57709,
-      "word": "饲养员缝缝补补坏蛋逆天改命",
-      "onboard_time": 1740946630,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 52370,
       "num": 52370,
       "word": "现在不是霸道总裁强制爱的年代了",
@@ -467,19 +491,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 48405,
-      "num": 43239,
-      "word": "方大同悼念仪式手卡上留下最后的话",
-      "onboard_time": 1740937633,
-      "rank": 22,
-      "category": "艺人,电影"
-    },
-    {
-      "raw_hot": 48129,
-      "num": 48129,
-      "word": "山东发暴雪橙色预警",
-      "onboard_time": 1740907399,
-      "rank": 40,
+      "raw_hot": 48044,
+      "num": 48044,
+      "word": "74克企鹅吃吃睡睡到快1000克",
+      "onboard_time": 1740944532,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -499,12 +515,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36570,
+      "num": 48031,
+      "word": "张凌赫还没看过白天的鼋头渚",
+      "onboard_time": 1740946271,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 35267,
+      "num": 48019,
+      "word": "济南所有中小学停课一天",
+      "onboard_time": 1740948911,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31626,
       "num": 154716,
       "word": "陈登星扣篮大赛冠军",
       "onboard_time": 1740932417,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 29581,
+      "num": 48015,
+      "word": "董力给岳父送开瓶器",
+      "onboard_time": 1740957376,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 28350,
+      "num": 48012,
+      "word": "爱你剧组全员高学历",
+      "onboard_time": 1740957616,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 25881,
@@ -544,14 +592,6 @@
       "word": "3人神同步拿灭火器20秒灭火",
       "onboard_time": 1740951790,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23383,
-      "num": 23383,
-      "word": "74克企鹅吃吃睡睡到快1000克",
-      "onboard_time": 1740944532,
-      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -611,14 +651,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 14244,
-      "num": 17365,
-      "word": "张凌赫还没看过白天的鼋头渚",
-      "onboard_time": 1740946271,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 13258,
       "num": 17363,
       "word": "寒潮继续影响中东部地区",
@@ -633,14 +665,6 @@
       "onboard_time": 1740935595,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 8685,
-      "num": 37858,
-      "word": "济南所有中小学停课一天",
-      "onboard_time": 1740948911,
-      "rank": 20,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

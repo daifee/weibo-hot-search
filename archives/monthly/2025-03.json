@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740955109783,
+  "endTime": 1740957683121,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -2179,6 +2179,14 @@
       "category": "综艺,动漫"
     },
     {
+      "raw_hot": 250409,
+      "num": 250409,
+      "word": "国际金价跌至近3周以来最低点",
+      "onboard_time": 1740919761,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 248048,
       "num": 316566,
       "word": "20岁高颜值自闭症小伙学音乐10年",
@@ -2193,6 +2201,14 @@
       "onboard_time": 1740756679,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 247393,
+      "num": 159877,
+      "word": "第97届奥斯卡金像奖最佳影片提名",
+      "onboard_time": 1740949631,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 245924,
@@ -2241,6 +2257,14 @@
       "onboard_time": 1740903918,
       "rank": 46,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 240015,
+      "num": 240015,
+      "word": "英国首相称对白宫冲突感到不适",
+      "onboard_time": 1740932177,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 238987,
@@ -2337,14 +2361,6 @@
       "onboard_time": 1740894919,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 231220,
-      "num": 231220,
-      "word": "国际金价跌至近3周以来最低点",
-      "onboard_time": 1740919761,
-      "rank": 43,
-      "category": "财经"
     },
     {
       "raw_hot": 230332,
@@ -3059,6 +3075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189731,
+      "num": 363077,
+      "word": "俄乌冲突3年离和平还有多远",
+      "onboard_time": 1740940091,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 189629,
       "num": 246279,
       "word": "十个勤天展开一天实体专辑",
@@ -3145,14 +3169,6 @@
       "onboard_time": 1740836603,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 185320,
-      "num": 198921,
-      "word": "英国首相称对白宫冲突感到不适",
-      "onboard_time": 1740932177,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 185240,
@@ -4123,14 +4139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 145663,
-      "num": 363077,
-      "word": "俄乌冲突3年离和平还有多远",
-      "onboard_time": 1740940091,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 144940,
       "num": 144940,
       "word": "微博有自己的孙悟空",
@@ -4169,6 +4177,14 @@
       "onboard_time": 1740924021,
       "rank": 42,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 143799,
+      "num": 143799,
+      "word": "饲养员缝缝补补坏蛋逆天改命",
+      "onboard_time": 1740946630,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142702,
@@ -4457,14 +4473,6 @@
       "onboard_time": 1740802698,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 133437,
-      "num": 80496,
-      "word": "第97届奥斯卡金像奖最佳影片提名",
-      "onboard_time": 1740949631,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 132188,
@@ -4833,6 +4841,14 @@
       "onboard_time": 1740828563,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115653,
+      "num": 95351,
+      "word": "方大同悼念仪式手卡上留下最后的话",
+      "onboard_time": 1740937633,
+      "rank": 22,
+      "category": "艺人,电影"
     },
     {
       "raw_hot": 115148,
@@ -5539,6 +5555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85894,
+      "num": 185852,
+      "word": "英法乌将向美提和平计划",
+      "onboard_time": 1740956834,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 85864,
       "num": 85864,
       "word": "恋与深空",
@@ -5915,14 +5939,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 57709,
-      "num": 57709,
-      "word": "饲养员缝缝补补坏蛋逆天改命",
-      "onboard_time": 1740946630,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 57435,
       "num": 312576,
       "word": "心理咨询室里找不到主体性的女性",
@@ -6019,20 +6035,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 48405,
-      "num": 43239,
-      "word": "方大同悼念仪式手卡上留下最后的话",
-      "onboard_time": 1740937633,
-      "rank": 22,
-      "category": "艺人,电影"
-    },
-    {
       "raw_hot": 48242,
       "num": 814667,
       "word": "您的声音我的故事",
       "onboard_time": 1740871034,
       "rank": 2,
       "category": "电影"
+    },
+    {
+      "raw_hot": 48044,
+      "num": 48044,
+      "word": "74克企鹅吃吃睡睡到快1000克",
+      "onboard_time": 1740944532,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47691,
@@ -6211,6 +6227,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 36570,
+      "num": 48031,
+      "word": "张凌赫还没看过白天的鼋头渚",
+      "onboard_time": 1740946271,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 36295,
       "num": 172670,
       "word": "夸克Al已成功进入tony圈",
@@ -6241,6 +6265,14 @@
       "onboard_time": 1740797717,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 35267,
+      "num": 48019,
+      "word": "济南所有中小学停课一天",
+      "onboard_time": 1740948911,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35131,
@@ -6331,12 +6363,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29581,
+      "num": 48015,
+      "word": "董力给岳父送开瓶器",
+      "onboard_time": 1740957376,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 29576,
       "num": 136285,
       "word": "东契奇生日夜喜提一胜",
       "onboard_time": 1740826462,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28350,
+      "num": 48012,
+      "word": "爱你剧组全员高学历",
+      "onboard_time": 1740957616,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 28329,
@@ -6529,14 +6577,6 @@
       "onboard_time": 1740841344,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 23383,
-      "num": 23383,
-      "word": "74克企鹅吃吃睡睡到快1000克",
-      "onboard_time": 1740944532,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22618,
@@ -6747,14 +6787,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 14244,
-      "num": 17365,
-      "word": "张凌赫还没看过白天的鼋头渚",
-      "onboard_time": 1740946271,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 14121,
       "num": 44643,
       "word": "外交部称中俄一直保持密切的高层交往",
@@ -6865,14 +6897,6 @@
       "onboard_time": 1740856753,
       "rank": 17,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 8685,
-      "num": 37858,
-      "word": "济南所有中小学停课一天",
-      "onboard_time": 1740948911,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 8535,
