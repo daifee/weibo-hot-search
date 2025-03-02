@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740893004944,
+  "endTime": 1740893954578,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -379,6 +379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 863240,
+      "num": 281689,
+      "word": "方大同遗体在云南大理火化",
+      "onboard_time": 1740893300,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 850680,
       "num": 418420,
       "word": "特朗普没对泽连斯基动手是奇迹",
@@ -417,6 +425,14 @@
       "onboard_time": 1740821063,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 764856,
+      "num": 433495,
+      "word": "迪丽热巴 电影女足",
+      "onboard_time": 1740892939,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 761732,
@@ -545,6 +561,14 @@
       "onboard_time": 1740830003,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 608881,
+      "num": 398850,
+      "word": "难哄",
+      "onboard_time": 1740801978,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 608607,
@@ -689,14 +713,6 @@
       "onboard_time": 1740816924,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 520688,
-      "num": 381200,
-      "word": "难哄",
-      "onboard_time": 1740801978,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 515279,
@@ -915,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 412203,
+      "num": 412203,
+      "word": "济南真的下雪啦",
+      "onboard_time": 1740891260,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 406130,
       "num": 269011,
       "word": "董力上节目求婚只用了9朵玫瑰",
@@ -1049,14 +1073,6 @@
       "onboard_time": 1740786497,
       "rank": 20,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 355471,
-      "num": 355471,
-      "word": "济南真的下雪啦",
-      "onboard_time": 1740891260,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 354638,
@@ -1331,6 +1347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 289289,
+      "num": 187679,
+      "word": "柯洁全款拿下小米SU7Ultra",
+      "onboard_time": 1740893659,
+      "rank": 30,
+      "category": "汽车,数码"
+    },
+    {
       "raw_hot": 288123,
       "num": 317655,
       "word": "泽连斯基正飞往伦敦",
@@ -1353,6 +1377,14 @@
       "onboard_time": 1740849975,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 282694,
+      "num": 282694,
+      "word": "网购100只垃圾袋数完只有38只",
+      "onboard_time": 1740892098,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 281733,
@@ -1465,6 +1497,14 @@
       "onboard_time": 1740891080,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 258232,
+      "num": 258232,
+      "word": "张婧仪伦敦时装周vlog",
+      "onboard_time": 1740893240,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 257958,
@@ -1699,20 +1739,20 @@
       "category": "艺人,互联网"
     },
     {
-      "raw_hot": 219128,
-      "num": 219128,
-      "word": "网购100只垃圾袋数完只有38只",
-      "onboard_time": 1740892098,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 218693,
       "num": 315440,
       "word": "时代少年团 太原",
       "onboard_time": 1740839544,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 218389,
+      "num": 218389,
+      "word": "章若楠在难哄看到何老师后哭了",
+      "onboard_time": 1740893359,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 217172,
@@ -1971,6 +2011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197689,
+      "num": 197689,
+      "word": "葛夕海滩照大女主感",
+      "onboard_time": 1740893119,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197622,
       "num": 152197,
       "word": "欧洲多方力挺乌克兰",
@@ -2003,6 +2051,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 194375,
+      "num": 187008,
+      "word": "坏了让她能装一辈子了",
+      "onboard_time": 1740892098,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 194308,
       "num": 194308,
       "word": "长沙地铁把女生心事投屏了",
@@ -2033,6 +2089,14 @@
       "onboard_time": 1740832642,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192607,
+      "num": 192607,
+      "word": "当你的男朋友看了难哄",
+      "onboard_time": 1740892879,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 191787,
@@ -2137,6 +2201,14 @@
       "onboard_time": 1740830722,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 184436,
+      "num": 184436,
+      "word": "下雪",
+      "onboard_time": 1740892759,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 184230,
@@ -2249,14 +2321,6 @@
       "onboard_time": 1740799338,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 179166,
-      "num": 179166,
-      "word": "坏了让她能装一辈子了",
-      "onboard_time": 1740892098,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 179140,
@@ -2507,6 +2571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165459,
+      "num": 190199,
+      "word": "怎么邓为就耐得住寂寞",
+      "onboard_time": 1740893480,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164995,
       "num": 164995,
       "word": "白敬亭章若楠hi6剧宣好甜",
@@ -2649,6 +2721,14 @@
       "onboard_time": 1740824123,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156033,
+      "num": 156033,
+      "word": "弄乱小猫刚舔好的毛后它的反应",
+      "onboard_time": 1740893000,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 155677,
@@ -2987,6 +3067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134335,
+      "num": 134335,
+      "word": "为什么周末要做和平时反差大的事",
+      "onboard_time": 1740891260,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133605,
       "num": 380225,
       "word": "8600元找的育儿嫂隐瞒幽门阳性",
@@ -3163,6 +3251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121247,
+      "num": 121247,
+      "word": "哪吒2票房破144亿",
+      "onboard_time": 1740893719,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 121186,
       "num": 121186,
       "word": "李小冉说自己要脑子有美貌",
@@ -3179,28 +3275,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 119848,
-      "num": 119848,
-      "word": "当你的男朋友看了难哄",
-      "onboard_time": 1740892879,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 119581,
       "num": 119581,
       "word": "杨紫摄影刘任捷",
       "onboard_time": 1740865391,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 119398,
-      "num": 119398,
-      "word": "为什么周末要做和平时反差大的事",
-      "onboard_time": 1740891260,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 119111,
@@ -3267,14 +3347,6 @@
       "category": "健康医疗,互联网"
     },
     {
-      "raw_hot": 117460,
-      "num": 117460,
-      "word": "下雪",
-      "onboard_time": 1740892759,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 116128,
       "num": 116128,
       "word": "翟潇闻清唱情深深雨蒙蒙",
@@ -3305,14 +3377,6 @@
       "onboard_time": 1740828981,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 114199,
-      "num": 114199,
-      "word": "迪丽热巴 电影女足",
-      "onboard_time": 1740892939,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 112935,
@@ -3483,6 +3547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 103588,
+      "num": 349824,
+      "word": "杭州温度满30减20",
+      "onboard_time": 1740891320,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103160,
       "num": 103160,
       "word": "刘浩存广告词 既要又要凭什么不可以",
@@ -3537,6 +3609,14 @@
       "onboard_time": 1740807388,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 99018,
+      "num": 192030,
+      "word": "勇士没巴特勒真不行",
+      "onboard_time": 1740893719,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 98679,
@@ -3667,6 +3747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92695,
+      "num": 137026,
+      "word": "中央气象台再发3个预警",
+      "onboard_time": 1740892159,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91222,
       "num": 91788,
       "word": "马嘉祺 金色旷野",
@@ -3689,14 +3777,6 @@
       "onboard_time": 1740728358,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 90722,
-      "num": 349824,
-      "word": "杭州温度满30减20",
-      "onboard_time": 1740891320,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 90395,
@@ -3816,14 +3896,6 @@
       "word": "建议重拳整治犬咬伤人问题",
       "onboard_time": 1740809747,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 85638,
-      "num": 137026,
-      "word": "中央气象台再发3个预警",
-      "onboard_time": 1740892159,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -3972,7 +4044,7 @@
     },
     {
       "raw_hot": 71850,
-      "num": 194555,
+      "num": 278201,
       "word": "全红婵营业状态好可爱",
       "onboard_time": 1740891797,
       "rank": 26,
