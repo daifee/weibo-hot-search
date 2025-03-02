@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1740884376697,
+  "endTime": 1740884918200,
   "band_list": [
     {
       "raw_hot": 2779346,
@@ -16,6 +16,22 @@
       "word": "男子想复婚利用保姆假戏真做被捅死",
       "onboard_time": 1740881479,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1765201,
+      "num": 1765201,
+      "word": "特朗普将英语定为美国官方语言",
+      "onboard_time": 1740883218,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1556849,
+      "num": 759878,
+      "word": "女子欲取17万给梁朝伟订酒店被劝下",
+      "onboard_time": 1740882978,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -35,14 +51,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1028179,
-      "num": 759878,
-      "word": "女子欲取17万给梁朝伟订酒店被劝下",
-      "onboard_time": 1740882978,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 988005,
       "num": 988005,
       "word": "单依纯哽咽唱才二十三",
@@ -59,11 +67,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 863622,
-      "num": 863622,
-      "word": "特朗普将英语定为美国官方语言",
-      "onboard_time": 1740883218,
-      "rank": 1,
+      "raw_hot": 845442,
+      "num": 754781,
+      "word": "美官员称乌团队几乎都哭了",
+      "onboard_time": 1740880758,
+      "rank": 18,
       "category": "国际时政"
     },
     {
@@ -73,14 +81,6 @@
       "onboard_time": 1740879319,
       "rank": 14,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 754781,
-      "num": 754781,
-      "word": "美官员称乌团队几乎都哭了",
-      "onboard_time": 1740880758,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 750371,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 558886,
-      "num": 558886,
+      "num": 691357,
       "word": "山东天气也太抽象了",
       "onboard_time": 1740874876,
       "rank": 4,
@@ -363,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185615,
+      "num": 185615,
+      "word": "欧盟怒批特朗普",
+      "onboard_time": 1740884059,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 183443,
       "num": 316566,
       "word": "20岁高颜值自闭症小伙学音乐10年",
@@ -417,6 +425,14 @@
       "onboard_time": 1740828382,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 164254,
+      "num": 164254,
+      "word": "肖战米兰时装周全程无翻译",
+      "onboard_time": 1740884658,
+      "rank": 24,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 163673,
@@ -619,14 +635,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 103876,
-      "num": 103876,
-      "word": "欧盟怒批特朗普",
-      "onboard_time": 1740884059,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 103732,
       "num": 315952,
       "word": "蔡明因常年不吃早饭导致胆摘除",
@@ -803,8 +811,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69103,
+      "num": 69103,
+      "word": "早春的一周穿什么",
+      "onboard_time": 1740884419,
+      "rank": 48,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 67641,
-      "num": 120477,
+      "num": 218009,
       "word": "郑钦文印第安维尔斯赛场训练",
       "onboard_time": 1740884119,
       "rank": 30,
@@ -841,6 +857,14 @@
       "onboard_time": 1740870733,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 58386,
+      "num": 120589,
+      "word": "chiikawa松软小八面包",
+      "onboard_time": 1740883518,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 57866,
@@ -899,14 +923,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 37551,
-      "num": 120589,
-      "word": "chiikawa松软小八面包",
-      "onboard_time": 1740883518,
-      "rank": 29,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 37184,
       "num": 37184,
       "word": "泽连斯基被要求提前离开",
@@ -961,6 +977,14 @@
       "onboard_time": 1740860111,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 29904,
+      "num": 193829,
+      "word": "建议经常咳嗽的人学会捏脊",
+      "onboard_time": 1740884237,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 27815,
@@ -1049,14 +1073,6 @@
       "onboard_time": 1740860710,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 16311,
-      "num": 105260,
-      "word": "建议经常咳嗽的人学会捏脊",
-      "onboard_time": 1740884237,
-      "rank": 37,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 15786,

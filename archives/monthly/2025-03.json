@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740884376697,
+  "endTime": 1740884918200,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1765201,
+      "num": 1765201,
+      "word": "特朗普将英语定为美国官方语言",
+      "onboard_time": 1740883218,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1685608,
       "num": 1685608,
       "word": "方大同悼念仪式已完成",
@@ -169,6 +177,14 @@
       "onboard_time": 1740819684,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1556849,
+      "num": 759878,
+      "word": "女子欲取17万给梁朝伟订酒店被劝下",
+      "onboard_time": 1740882978,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1323741,
@@ -291,14 +307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1028179,
-      "num": 759878,
-      "word": "女子欲取17万给梁朝伟订酒店被劝下",
-      "onboard_time": 1740882978,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 993726,
       "num": 1612228,
       "word": "女子炒黄金被暴涨的利润吓得报警",
@@ -347,19 +355,19 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 863622,
-      "num": 863622,
-      "word": "特朗普将英语定为美国官方语言",
-      "onboard_time": 1740883218,
-      "rank": 1,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 850680,
       "num": 418420,
       "word": "特朗普没对泽连斯基动手是奇迹",
       "onboard_time": 1740788417,
       "rank": 10,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 845442,
+      "num": 754781,
+      "word": "美官员称乌团队几乎都哭了",
+      "onboard_time": 1740880758,
+      "rank": 18,
       "category": "国际时政"
     },
     {
@@ -393,14 +401,6 @@
       "onboard_time": 1740754941,
       "rank": 10,
       "category": "民生新闻,情感"
-    },
-    {
-      "raw_hot": 754781,
-      "num": 754781,
-      "word": "美官员称乌团队几乎都哭了",
-      "onboard_time": 1740880758,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 727272,
@@ -596,7 +596,7 @@
     },
     {
       "raw_hot": 558886,
-      "num": 558886,
+      "num": 691357,
       "word": "山东天气也太抽象了",
       "onboard_time": 1740874876,
       "rank": 4,
@@ -1915,6 +1915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185615,
+      "num": 185615,
+      "word": "欧盟怒批特朗普",
+      "onboard_time": 1740884059,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 185592,
       "num": 185592,
       "word": "三人游",
@@ -2289,6 +2297,14 @@
       "onboard_time": 1740806599,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164254,
+      "num": 164254,
+      "word": "肖战米兰时装周全程无翻译",
+      "onboard_time": 1740884658,
+      "rank": 24,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 164238,
@@ -3123,14 +3139,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 103876,
-      "num": 103876,
-      "word": "欧盟怒批特朗普",
-      "onboard_time": 1740884059,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 103706,
       "num": 105725,
       "word": "王鹤棣颁奖现场尖叫声",
@@ -3587,6 +3595,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 69103,
+      "num": 69103,
+      "word": "早春的一周穿什么",
+      "onboard_time": 1740884419,
+      "rank": 48,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 67913,
       "num": 67913,
       "word": "赵丽颖杨幂迪丽热巴杨紫2024商业价值明星",
@@ -3596,7 +3612,7 @@
     },
     {
       "raw_hot": 67641,
-      "num": 120477,
+      "num": 218009,
       "word": "郑钦文印第安维尔斯赛场训练",
       "onboard_time": 1740884119,
       "rank": 30,
@@ -3681,6 +3697,14 @@
       "onboard_time": 1740797838,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58386,
+      "num": 120589,
+      "word": "chiikawa松软小八面包",
+      "onboard_time": 1740883518,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 57923,
@@ -3851,14 +3875,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 37551,
-      "num": 120589,
-      "word": "chiikawa松软小八面包",
-      "onboard_time": 1740883518,
-      "rank": 29,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 37184,
       "num": 37184,
       "word": "泽连斯基被要求提前离开",
@@ -3985,6 +4001,14 @@
       "onboard_time": 1740825681,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 29904,
+      "num": 193829,
+      "word": "建议经常咳嗽的人学会捏脊",
+      "onboard_time": 1740884237,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 29576,
@@ -4225,14 +4249,6 @@
       "onboard_time": 1740860710,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 16311,
-      "num": 105260,
-      "word": "建议经常咳嗽的人学会捏脊",
-      "onboard_time": 1740884237,
-      "rank": 37,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 16245,
