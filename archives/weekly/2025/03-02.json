@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1740926264188,
+  "endTime": 1740928941689,
   "band_list": [
     {
       "raw_hot": 3194275,
@@ -17,6 +17,14 @@
       "onboard_time": 1740875718,
       "rank": 3,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 2654811,
+      "num": 545085,
+      "word": "戚薇眼睛",
+      "onboard_time": 1740925941,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 2236828,
@@ -363,14 +371,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 653973,
-      "num": 545085,
-      "word": "戚薇眼睛",
-      "onboard_time": 1740925941,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 649198,
       "num": 649198,
       "word": "爱你 60场吻戏",
@@ -448,6 +448,14 @@
       "word": "精神医院里挤满了失眠的中老年女性",
       "onboard_time": 1740886279,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 560398,
+      "num": 560398,
+      "word": "广东紧急撤回一个夏天",
+      "onboard_time": 1740922820,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -819,20 +827,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 323294,
+      "num": 262708,
+      "word": "网传张艺兴出演女足",
+      "onboard_time": 1740926000,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 321156,
       "num": 321156,
       "word": "3类人要警惕气胸",
       "onboard_time": 1740842484,
       "rank": 13,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 320593,
-      "num": 490632,
-      "word": "广东紧急撤回一个夏天",
-      "onboard_time": 1740922820,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 314970,
@@ -875,6 +883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 291030,
+      "num": 262319,
+      "word": "张凌赫 爸妈爷奶都知道了",
+      "onboard_time": 1740927560,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 290276,
       "num": 290276,
       "word": "周深回复郎平",
@@ -889,6 +905,14 @@
       "onboard_time": 1740886340,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 287971,
+      "num": 258997,
+      "word": "南京胖哥减重100斤",
+      "onboard_time": 1740927200,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 285870,
@@ -947,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 267809,
+      "num": 259609,
+      "word": "李昀锐巴黎时装周",
+      "onboard_time": 1740926301,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 267624,
       "num": 214438,
       "word": "全红婵在追难哄",
@@ -961,6 +993,14 @@
       "onboard_time": 1740907099,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 261714,
+      "num": 261714,
+      "word": "机器狗在泰山入职了",
+      "onboard_time": 1740923660,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 260159,
@@ -987,6 +1027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 258797,
+      "num": 258797,
+      "word": "周杰伦龙抬头给女儿剪发",
+      "onboard_time": 1740928040,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 258232,
       "num": 258232,
       "word": "张婧仪伦敦时装周vlog",
@@ -1001,6 +1049,22 @@
       "onboard_time": 1740915438,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 253528,
+      "num": 253528,
+      "word": "徐明浩结束创造营亚洲2录制",
+      "onboard_time": 1740927620,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 251102,
+      "num": 251102,
+      "word": "时代峰峻高会回复",
+      "onboard_time": 1740926901,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 241107,
@@ -1081,14 +1145,6 @@
       "onboard_time": 1740919761,
       "rank": 43,
       "category": "财经"
-    },
-    {
-      "raw_hot": 228277,
-      "num": 228277,
-      "word": "网传张艺兴出演女足",
-      "onboard_time": 1740926000,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 227130,
@@ -1227,6 +1283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 211579,
+      "num": 211579,
+      "word": "胡歌杨紫 生命树",
+      "onboard_time": 1740928639,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209073,
       "num": 204481,
       "word": "外媒很难再妖魔化中国",
@@ -1361,6 +1425,14 @@
       "onboard_time": 1740899719,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199601,
+      "num": 199601,
+      "word": "白桃星座",
+      "onboard_time": 1740927262,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 199268,
@@ -1523,6 +1595,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 182003,
+      "num": 360642,
+      "word": "张凌赫爸爸妈妈认证爱你好看",
+      "onboard_time": 1740927560,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180439,
       "num": 180439,
       "word": "光与夜之恋",
@@ -1627,6 +1707,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 166285,
+      "num": 166285,
+      "word": "雷军首曝小米可换镜头手机",
+      "onboard_time": 1740928523,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 166078,
       "num": 166078,
       "word": "她还在情伤期他脑补到热恋期",
@@ -1705,14 +1793,6 @@
       "onboard_time": 1740895640,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 158495,
-      "num": 158495,
-      "word": "机器狗在泰山入职了",
-      "onboard_time": 1740923660,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 157986,
@@ -1931,6 +2011,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 143973,
+      "num": 143973,
+      "word": "这4件事可能在损害你的头发",
+      "onboard_time": 1740924021,
+      "rank": 42,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 142539,
       "num": 142539,
       "word": "A勒布伦期待与樊振东再次交手",
@@ -2001,6 +2089,14 @@
       "onboard_time": 1740922399,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138103,
+      "num": 138103,
+      "word": "14岁少女行云流水展示三把刀",
+      "onboard_time": 1740928340,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137478,
@@ -2177,6 +2273,22 @@
       "onboard_time": 1740836063,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 122283,
+      "num": 122283,
+      "word": "Edsheeran单依纯合唱perfect",
+      "onboard_time": 1740926960,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 120572,
+      "num": 120572,
+      "word": "浪姐6一公录制",
+      "onboard_time": 1740928879,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 119985,
@@ -2459,6 +2571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99585,
+      "num": 144980,
+      "word": "33Svan早点休息",
+      "onboard_time": 1740928879,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 99018,
       "num": 192030,
       "word": "勇士没巴特勒真不行",
@@ -2731,6 +2851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 73001,
+      "num": 166565,
+      "word": "G2总决赛对阵T1",
+      "onboard_time": 1740924501,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 72539,
       "num": 196215,
       "word": "路易吉在狱中收到大量粉丝来信",
@@ -2985,6 +3113,14 @@
       "onboard_time": 1740925582,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 35868,
+      "num": 201322,
+      "word": "王星越时装周内场状态",
+      "onboard_time": 1740927922,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 34825,

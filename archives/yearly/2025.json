@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1740926264188,
+  "endTime": 1740928941689,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -2083,6 +2083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2654811,
+      "num": 545085,
+      "word": "戚薇眼睛",
+      "onboard_time": 1740925941,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2651426,
       "num": 2651426,
       "word": "警方捣毁绑架王星案涉案公司",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736225243,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2432743,
-      "num": 2432743,
-      "word": "大年初一票房排名",
-      "onboard_time": 1738205058,
-      "rank": 32,
-      "category": "电影"
     }
   ],
   "hotgov_list": [
