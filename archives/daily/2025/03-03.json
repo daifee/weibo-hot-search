@@ -1,6 +1,6 @@
 {
   "startTime": 1740932816657,
-  "endTime": 1740951338686,
+  "endTime": 1740954107377,
   "band_list": [
     {
       "raw_hot": 1454288,
@@ -283,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112006,
+      "num": 363077,
+      "word": "俄乌冲突3年离和平还有多远",
+      "onboard_time": 1740940091,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 108532,
       "num": 108532,
       "word": "济南气温满20减19",
@@ -331,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96828,
+      "num": 66586,
+      "word": "第97届奥斯卡金像奖最佳影片提名",
+      "onboard_time": 1740949631,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 93246,
       "num": 93246,
       "word": "权志龙把柳智敏比作光",
@@ -369,14 +385,6 @@
       "onboard_time": 1740917780,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 87355,
-      "num": 170397,
-      "word": "俄乌冲突3年离和平还有多远",
-      "onboard_time": 1740940091,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 85109,
@@ -459,19 +467,19 @@
       "category": "艺人,电影"
     },
     {
+      "raw_hot": 42683,
+      "num": 42683,
+      "word": "饲养员缝缝补补坏蛋逆天改命",
+      "onboard_time": 1740946630,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38468,
       "num": 38468,
       "word": "摄影师摔倒压到4个月宝宝",
       "onboard_time": 1740905299,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36231,
-      "num": 36231,
-      "word": "饲养员缝缝补补坏蛋逆天改命",
-      "onboard_time": 1740946630,
-      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -481,14 +489,6 @@
       "onboard_time": 1740932417,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 30431,
-      "num": 17666,
-      "word": "第97届奥斯卡金像奖最佳影片提名",
-      "onboard_time": 1740949631,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 28890,
@@ -531,6 +531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 21722,
+      "num": 21722,
+      "word": "3人神同步拿灭火器20秒灭火",
+      "onboard_time": 1740951790,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21524,
       "num": 48413,
       "word": "加沙停火协议第一阶段已到期",
@@ -540,7 +548,7 @@
     },
     {
       "raw_hot": 20538,
-      "num": 20538,
+      "num": 21313,
       "word": "74克企鹅吃吃睡睡到快1000克",
       "onboard_time": 1740944532,
       "rank": 24,
@@ -556,7 +564,7 @@
     },
     {
       "raw_hot": 17939,
-      "num": 17939,
+      "num": 21299,
       "word": "耐克配阿迪",
       "onboard_time": 1740947291,
       "rank": 34,
@@ -577,6 +585,14 @@
       "onboard_time": 1740942671,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 16112,
+      "num": 36939,
+      "word": "加油站员工1秒切换灭火模式",
+      "onboard_time": 1740950591,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14244,
@@ -603,19 +619,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 10466,
-      "num": 36939,
-      "word": "加油站员工1秒切换灭火模式",
-      "onboard_time": 1740950591,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 9178,
       "num": 18657,
       "word": "山东多地因暴雪停课",
       "onboard_time": 1740949450,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8896,
+      "num": 69981,
+      "word": "内蒙古现绚烂红色极光",
+      "onboard_time": 1740953651,
+      "rank": 9,
       "category": "民生新闻"
     }
   ],
