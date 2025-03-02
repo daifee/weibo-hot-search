@@ -1,10 +1,10 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1740897039018,
+  "endTime": 1740897810136,
   "band_list": [
     {
-      "raw_hot": 3036769,
-      "num": 257852,
+      "raw_hot": 3194275,
+      "num": 313285,
       "word": "周雨离婚",
       "onboard_time": 1740895339,
       "rank": 10,
@@ -36,11 +36,19 @@
     },
     {
       "raw_hot": 1996502,
-      "num": 281689,
+      "num": 308064,
       "word": "方大同遗体在云南大理火化",
       "onboard_time": 1740893300,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1896314,
+      "num": 1896314,
+      "word": "女子拔牙第3天嘴里散发腐臭味",
+      "onboard_time": 1740895580,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1556849,
@@ -55,14 +63,6 @@
       "num": 1323741,
       "word": "中央气象台一早发5个预警",
       "onboard_time": 1740874338,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1307982,
-      "num": 1307982,
-      "word": "女子拔牙第3天嘴里散发腐臭味",
-      "onboard_time": 1740895580,
       "rank": 0,
       "category": "民生新闻"
     },
@@ -323,12 +323,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 412076,
+      "num": 246823,
+      "word": "毛不易演唱会上缅怀方大同",
+      "onboard_time": 1740896600,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 406130,
       "num": 269011,
       "word": "董力上节目求婚只用了9朵玫瑰",
       "onboard_time": 1740885861,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 391884,
+      "num": 336773,
+      "word": "哪吒2票房破144亿",
+      "onboard_time": 1740893719,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 390882,
@@ -347,12 +363,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 374680,
-      "num": 318024,
-      "word": "哪吒2票房破144亿",
-      "onboard_time": 1740893719,
-      "rank": 45,
-      "category": "电影"
+      "raw_hot": 377573,
+      "num": 335627,
+      "word": "倪萍也吃瓜赵本山上不上春晚",
+      "onboard_time": 1740896360,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 373283,
@@ -387,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 338707,
+      "num": 338707,
+      "word": "女子婚后发现老实丈夫很暴戾要离婚",
+      "onboard_time": 1740895100,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 337389,
       "num": 337389,
       "word": "一个没准备短袖的人轻轻碎了",
@@ -401,14 +425,6 @@
       "onboard_time": 1740844522,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 329887,
-      "num": 246823,
-      "word": "毛不易演唱会上缅怀方大同",
-      "onboard_time": 1740896600,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 324938,
@@ -427,8 +443,16 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 317843,
+      "num": 317843,
+      "word": "宜宾地震",
+      "onboard_time": 1740897259,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 304788,
-      "num": 244856,
+      "num": 296730,
       "word": "孟子义大侦探录制上班路透",
       "onboard_time": 1740895940,
       "rank": 17,
@@ -499,14 +523,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 259946,
-      "num": 259946,
-      "word": "女子婚后发现老实丈夫很暴戾要离婚",
-      "onboard_time": 1740895100,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 258934,
       "num": 258934,
       "word": "陈赫嫌弃徐志胜的表情不像演的",
@@ -563,6 +579,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 222296,
+      "num": 216201,
+      "word": "猪被偷走3个月找回时胖了100斤",
+      "onboard_time": 1740897199,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 219391,
       "num": 219391,
       "word": "DeepSeek智搜评内娱十大国民级歌手",
@@ -593,14 +617,6 @@
       "onboard_time": 1740875897,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 211552,
-      "num": 211552,
-      "word": "倪萍也吃瓜赵本山上不上春晚",
-      "onboard_time": 1740896360,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 209073,
@@ -643,12 +659,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202438,
+      "num": 202438,
+      "word": "京城大师赛",
+      "onboard_time": 1740896780,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 200595,
       "num": 269087,
       "word": "吴宣仪卡琳娜贴贴",
       "onboard_time": 1740886759,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198603,
+      "num": 198603,
+      "word": "何超莲何超云何猷启为妈妈庆生",
+      "onboard_time": 1740896239,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 198363,
@@ -680,6 +712,14 @@
       "word": "当你的男朋友看了难哄",
       "onboard_time": 1740892879,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 190115,
+      "num": 205874,
+      "word": "姚安娜新剧在急诊室好忙",
+      "onboard_time": 1740896897,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -787,14 +827,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 173772,
-      "num": 205874,
-      "word": "姚安娜新剧在急诊室好忙",
-      "onboard_time": 1740896897,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 173577,
       "num": 173577,
       "word": "唐总你夫人的马甲掉了",
@@ -875,6 +907,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 161144,
+      "num": 161144,
+      "word": "白鹿不要虐待海清老师的神欧豪",
+      "onboard_time": 1740897380,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160802,
       "num": 160802,
       "word": "白敬亭章若楠还原恶作剧之吻名场面",
@@ -889,14 +929,6 @@
       "onboard_time": 1740873436,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 157329,
-      "num": 157329,
-      "word": "何超莲何超云何猷启为妈妈庆生",
-      "onboard_time": 1740896239,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 156033,
@@ -1019,14 +1051,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 132105,
-      "num": 132105,
-      "word": "京城大师赛",
-      "onboard_time": 1740896780,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 131917,
       "num": 131917,
       "word": "2元和200元的钙片到底有什么区别",
@@ -1041,6 +1065,14 @@
       "onboard_time": 1740876077,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129425,
+      "num": 223739,
+      "word": "沈星回孤寂盛大的星云穿行",
+      "onboard_time": 1740896000,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 126835,
@@ -1068,19 +1100,11 @@
     },
     {
       "raw_hot": 125600,
-      "num": 125600,
+      "num": 217766,
       "word": "张馨予晒元宝头造型",
       "onboard_time": 1740892638,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 125562,
-      "num": 223739,
-      "word": "沈星回孤寂盛大的星云穿行",
-      "onboard_time": 1740896000,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 125282,
@@ -1097,6 +1121,14 @@
       "onboard_time": 1740836063,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 119985,
+      "num": 250327,
+      "word": "美乌会谈是如何突然失控的",
+      "onboard_time": 1740895640,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 119581,
@@ -1275,14 +1307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 90785,
-      "num": 250327,
-      "word": "美乌会谈是如何突然失控的",
-      "onboard_time": 1740895640,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 90395,
       "num": 90395,
       "word": "东京马拉松",
@@ -1419,6 +1443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 72539,
+      "num": 196215,
+      "word": "路易吉在狱中收到大量粉丝来信",
+      "onboard_time": 1740896962,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 71850,
       "num": 278201,
       "word": "全红婵营业状态好可爱",
@@ -1515,12 +1547,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 56216,
-      "num": 167197,
-      "word": "路易吉在狱中收到大量粉丝来信",
-      "onboard_time": 1740896962,
-      "rank": 36,
-      "category": "海外新闻"
+      "raw_hot": 55856,
+      "num": 142001,
+      "word": "贵州的春天超长待机100天",
+      "onboard_time": 1740894619,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49365,
@@ -1545,6 +1577,14 @@
       "onboard_time": 1740871034,
       "rank": 2,
       "category": "电影"
+    },
+    {
+      "raw_hot": 47488,
+      "num": 212749,
+      "word": "马刺国王争当湖人侠",
+      "onboard_time": 1740897259,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 47077,
@@ -1611,6 +1651,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 33970,
+      "num": 216674,
+      "word": "超六成患者不知道自己听力有问题",
+      "onboard_time": 1740897440,
+      "rank": 21,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 33068,
       "num": 54313,
       "word": "谁能想到博物馆一扇窗变成了景点",
@@ -1641,6 +1689,14 @@
       "onboard_time": 1740860111,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 29656,
+      "num": 189629,
+      "word": "杜玉波贪欲膨胀靠教育吃教育",
+      "onboard_time": 1740897620,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 27815,
@@ -1833,6 +1889,14 @@
       "onboard_time": 1740889399,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2369,
+      "num": 116054,
+      "word": "夸克硬刚",
+      "onboard_time": 1740805277,
+      "rank": 49,
+      "category": "互联网"
     }
   ],
   "hotgov_list": [

@@ -1,0 +1,410 @@
+{
+  "runTime": 1740897810136,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1896314,
+        "num": 1896314,
+        "word": "女子拔牙第3天嘴里散发腐臭味",
+        "onboard_time": 1740895580,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 942830,
+        "num": 942830,
+        "word": "迪丽热巴 电影女足",
+        "onboard_time": 1740892939,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102986,
+        "num": 472308,
+        "word": "两会是哪两个会",
+        "onboard_time": 1740879497,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 466971,
+        "num": 466971,
+        "word": "章若楠在难哄看到何老师后哭了",
+        "onboard_time": 1740893359,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 383346,
+        "num": 383346,
+        "word": "网购100只垃圾袋数完只有38只",
+        "onboard_time": 1740892098,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338707,
+        "num": 338707,
+        "word": "女子婚后发现老实丈夫很暴戾要离婚",
+        "onboard_time": 1740895100,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391884,
+        "num": 336773,
+        "word": "哪吒2票房破144亿",
+        "onboard_time": 1740893719,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 377573,
+        "num": 335627,
+        "word": "倪萍也吃瓜赵本山上不上春晚",
+        "onboard_time": 1740896360,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328501,
+        "num": 328501,
+        "word": "济南真的下雪啦",
+        "onboard_time": 1740891260,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317843,
+        "num": 317843,
+        "word": "宜宾地震",
+        "onboard_time": 1740897259,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 3194275,
+        "num": 313285,
+        "word": "周雨离婚",
+        "onboard_time": 1740895339,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1479423,
+        "num": 308064,
+        "word": "方大同遗体在云南大理火化",
+        "onboard_time": 1740893300,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367714,
+        "num": 306965,
+        "word": "男子想复婚利用保姆假戏真做被捅死",
+        "onboard_time": 1740881479,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300548,
+        "num": 300548,
+        "word": "张柏芝穿了珍珠新中式",
+        "onboard_time": 1740890118,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296730,
+        "num": 296730,
+        "word": "孟子义大侦探录制上班路透",
+        "onboard_time": 1740895940,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239727,
+        "num": 239727,
+        "word": "难哄",
+        "onboard_time": 1740890719,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 412076,
+        "num": 235143,
+        "word": "毛不易演唱会上缅怀方大同",
+        "onboard_time": 1740896600,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 220003,
+        "num": 220003,
+        "word": "女子欲取17万给梁朝伟订酒店被劝下",
+        "onboard_time": 1740882978,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217967,
+        "num": 217967,
+        "word": "坏了让她能装一辈子了",
+        "onboard_time": 1740892098,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26808,
+        "num": 217766,
+        "word": "张馨予晒元宝头造型",
+        "onboard_time": 1740892638,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364769,
+        "num": 217175,
+        "word": "24岁女网红猫又又去世",
+        "onboard_time": 1740890600,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 33970,
+        "num": 216674,
+        "word": "超六成患者不知道自己听力有问题",
+        "onboard_time": 1740897440,
+        "rank": 21,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 222296,
+        "num": 216201,
+        "word": "猪被偷走3个月找回时胖了100斤",
+        "onboard_time": 1740897199,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215898,
+        "num": 215898,
+        "word": "陈都灵老年妆",
+        "onboard_time": 1740896239,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47488,
+        "num": 212749,
+        "word": "马刺国王争当湖人侠",
+        "onboard_time": 1740897259,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212251,
+        "num": 212251,
+        "word": "中央气象台一早发5个预警",
+        "onboard_time": 1740874338,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202438,
+        "num": 202438,
+        "word": "京城大师赛",
+        "onboard_time": 1740896780,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 198603,
+        "num": 198603,
+        "word": "何超莲何超云何猷启为妈妈庆生",
+        "onboard_time": 1740896239,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190115,
+        "num": 196664,
+        "word": "姚安娜新剧在急诊室好忙",
+        "onboard_time": 1740896897,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72539,
+        "num": 196215,
+        "word": "路易吉在狱中收到大量粉丝来信",
+        "onboard_time": 1740896962,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 221038,
+        "num": 196212,
+        "word": "百万工资拖欠4年讨回后交税32万7",
+        "onboard_time": 1740886039,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196084,
+        "num": 196084,
+        "word": "大侦探",
+        "onboard_time": 1740896600,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190138,
+        "num": 190138,
+        "word": "85岁母亲思念女儿泣诉我欠你啊",
+        "onboard_time": 1740894919,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29656,
+        "num": 189629,
+        "word": "杜玉波贪欲膨胀靠教育吃教育",
+        "onboard_time": 1740897620,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 189277,
+        "num": 189277,
+        "word": "喀什古城",
+        "onboard_time": 1740894080,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179247,
+        "num": 179247,
+        "word": "精神医院里挤满了失眠的中老年女性",
+        "onboard_time": 1740886279,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167816,
+        "num": 167816,
+        "word": "董力上节目求婚只用了9朵玫瑰",
+        "onboard_time": 1740885861,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167248,
+        "num": 167248,
+        "word": "陈赫嫌弃徐志胜的表情不像演的",
+        "onboard_time": 1740891080,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161144,
+        "num": 161144,
+        "word": "白鹿不要虐待海清老师的神欧豪",
+        "onboard_time": 1740897380,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157263,
+        "num": 157263,
+        "word": "下雪",
+        "onboard_time": 1740892759,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152836,
+        "num": 152836,
+        "word": "电影女足",
+        "onboard_time": 1740895100,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146486,
+        "num": 146486,
+        "word": "英乌签署22.6亿英镑贷款协议",
+        "onboard_time": 1740870913,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142160,
+        "num": 142160,
+        "word": "欧盟怒批特朗普",
+        "onboard_time": 1740884059,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 55856,
+        "num": 142001,
+        "word": "贵州的春天超长待机100天",
+        "onboard_time": 1740894619,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141887,
+        "num": 141887,
+        "word": "DeepSeek智搜评内娱十大国民级歌手",
+        "onboard_time": 1740887059,
+        "rank": 44,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 137438,
+        "num": 137438,
+        "word": "周深的同传堪比朱广权手语翻译",
+        "onboard_time": 1740887178,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131529,
+        "num": 131529,
+        "word": "王鹤棣心态",
+        "onboard_time": 1740889639,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119985,
+        "num": 129884,
+        "word": "美乌会谈是如何突然失控的",
+        "onboard_time": 1740895640,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129425,
+        "num": 129425,
+        "word": "沈星回孤寂盛大的星云穿行",
+        "onboard_time": 1740896000,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2369,
+        "num": 116054,
+        "word": "夸克硬刚",
+        "onboard_time": 1740805277,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#三个事关彰显平安中国重大意义#"
+    }
+  }
+}
