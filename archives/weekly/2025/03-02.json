@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1740886392703,
+  "endTime": 1740887067498,
   "band_list": [
     {
       "raw_hot": 2779346,
@@ -11,7 +11,7 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 2064685,
+      "raw_hot": 2072238,
       "num": 1765201,
       "word": "特朗普将英语定为美国官方语言",
       "onboard_time": 1740883218,
@@ -43,19 +43,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1257225,
+      "num": 395284,
+      "word": "贾静雯女儿是方大同童书粉",
+      "onboard_time": 1740885439,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1119656,
       "num": 316927,
       "word": "方大同去世",
       "onboard_time": 1740807141,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 998538,
-      "num": 395284,
-      "word": "贾静雯女儿是方大同童书粉",
-      "onboard_time": 1740885439,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -139,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 514606,
+      "num": 514606,
+      "word": "欧盟怒批特朗普",
+      "onboard_time": 1740884059,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 482396,
       "num": 773819,
       "word": "方大同经纪人谈后事相关处理",
@@ -171,14 +179,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 442816,
-      "num": 442816,
-      "word": "欧盟怒批特朗普",
-      "onboard_time": 1740884059,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 433255,
       "num": 433255,
       "word": "冯远征招生最痛苦的是演员说不清台词",
@@ -193,6 +193,14 @@
       "onboard_time": 1740837444,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 406130,
+      "num": 209145,
+      "word": "董力上节目求婚只用了9朵玫瑰",
+      "onboard_time": 1740885861,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 390882,
@@ -299,6 +307,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 280444,
+      "num": 280444,
+      "word": "百万工资拖欠4年讨回后交税32万7",
+      "onboard_time": 1740886039,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 279463,
+      "num": 279463,
+      "word": "前TVB演员回应跑网约车",
+      "onboard_time": 1740885079,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269058,
       "num": 269058,
       "word": "你好星期六难哄收视新高",
@@ -313,14 +337,6 @@
       "onboard_time": 1740879497,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 243220,
-      "num": 243220,
-      "word": "前TVB演员回应跑网约车",
-      "onboard_time": 1740885079,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 233160,
@@ -347,12 +363,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 209145,
-      "num": 209145,
-      "word": "董力上节目求婚只用了9朵玫瑰",
-      "onboard_time": 1740885861,
-      "rank": 21,
-      "category": "综艺"
+      "raw_hot": 209073,
+      "num": 204481,
+      "word": "外媒很难再妖魔化中国",
+      "onboard_time": 1740885439,
+      "rank": 23,
+      "category": "议题讨论"
+    },
+    {
+      "raw_hot": 206500,
+      "num": 206500,
+      "word": "辛芷蕾终于演上喜剧了",
+      "onboard_time": 1740886340,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 204793,
@@ -369,6 +393,14 @@
       "onboard_time": 1740831623,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200595,
+      "num": 200595,
+      "word": "吴宣仪卡琳娜贴贴",
+      "onboard_time": 1740886759,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 197622,
@@ -419,20 +451,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 180768,
-      "num": 180768,
-      "word": "外媒很难再妖魔化中国",
-      "onboard_time": 1740885439,
-      "rank": 23,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 180439,
       "num": 180439,
       "word": "光与夜之恋",
       "onboard_time": 1740885019,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 178303,
+      "num": 212919,
+      "word": "云南通报游客旅游遇关门洗脑消费",
+      "onboard_time": 1740885019,
+      "rank": 18,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 176368,
@@ -457,6 +489,14 @@
       "onboard_time": 1740849676,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172969,
+      "num": 172969,
+      "word": "粉笔模考",
+      "onboard_time": 1740886279,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 168584,
@@ -539,6 +579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 149530,
+      "num": 149530,
+      "word": "精神医院里挤满了失眠的中老年女性",
+      "onboard_time": 1740886279,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145127,
       "num": 316268,
       "word": "李佳隆求婚",
@@ -553,14 +601,6 @@
       "onboard_time": 1740865511,
       "rank": 17,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 143197,
-      "num": 143197,
-      "word": "百万工资拖欠4年讨回后交税32万7",
-      "onboard_time": 1740886039,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 140843,
@@ -707,14 +747,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 103813,
-      "num": 103813,
-      "word": "粉笔模考",
-      "onboard_time": 1740886279,
-      "rank": 39,
-      "category": "教育"
-    },
-    {
       "raw_hot": 103732,
       "num": 315952,
       "word": "蔡明因常年不吃早饭导致胆摘除",
@@ -737,14 +769,6 @@
       "onboard_time": 1740885559,
       "rank": 40,
       "category": "旅游,民生新闻"
-    },
-    {
-      "raw_hot": 97138,
-      "num": 212919,
-      "word": "云南通报游客旅游遇关门洗脑消费",
-      "onboard_time": 1740885019,
-      "rank": 18,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 95804,
@@ -803,12 +827,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 86174,
-      "num": 86174,
-      "word": "精神医院里挤满了失眠的中老年女性",
-      "onboard_time": 1740886279,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 88180,
+      "num": 88180,
+      "word": "北上",
+      "onboard_time": 1740882319,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 85998,
@@ -817,6 +841,14 @@
       "onboard_time": 1740844941,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 85914,
+      "num": 85914,
+      "word": "魔卡少女樱绝美耳饰",
+      "onboard_time": 1740886818,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 85864,
@@ -849,14 +881,6 @@
       "onboard_time": 1740836603,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 81782,
-      "num": 81782,
-      "word": "辛芷蕾终于演上喜剧了",
-      "onboard_time": 1740886340,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 79882,
