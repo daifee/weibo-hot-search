@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740950466230,
+  "endTime": 1740951338686,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -5492,7 +5492,7 @@
     },
     {
       "raw_hot": 87355,
-      "num": 124682,
+      "num": 170397,
       "word": "俄乌冲突3年离和平还有多远",
       "onboard_time": 1740940091,
       "rank": 30,
@@ -6195,20 +6195,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 36231,
+      "num": 36231,
+      "word": "饲养员缝缝补补坏蛋逆天改命",
+      "onboard_time": 1740946630,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36110,
       "num": 330118,
       "word": "北美版相亲大师",
       "onboard_time": 1740925582,
       "rank": 19,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 35991,
-      "num": 35991,
-      "word": "饲养员缝缝补补坏蛋逆天改命",
-      "onboard_time": 1740946630,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 35868,
@@ -6305,6 +6305,14 @@
       "onboard_time": 1740820041,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30431,
+      "num": 17666,
+      "word": "第97届奥斯卡金像奖最佳影片提名",
+      "onboard_time": 1740949631,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 30365,
@@ -6555,14 +6563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 21368,
-      "num": 17654,
-      "word": "第97届奥斯卡金像奖最佳影片提名",
-      "onboard_time": 1740949631,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 21115,
       "num": 47557,
       "word": "加点zuo料",
@@ -6791,6 +6791,14 @@
       "num": 41471,
       "word": "专家解答七星连珠真的罕见吗",
       "onboard_time": 1740773891,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10466,
+      "num": 36939,
+      "word": "加油站员工1秒切换灭火模式",
+      "onboard_time": 1740950591,
       "rank": 9,
       "category": "民生新闻"
     },
