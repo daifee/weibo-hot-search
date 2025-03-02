@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740929832036,
+  "endTime": 1740932816657,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -571,6 +571,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 845441,
+      "num": 930340,
+      "word": "张凌赫 爸妈爷奶都知道了",
+      "onboard_time": 1740927560,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 821487,
       "num": 821487,
       "word": "郑业成工作室声明",
@@ -843,6 +851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 591826,
+      "num": 332410,
+      "word": "胡歌杨紫 生命树",
+      "onboard_time": 1740928639,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 590455,
       "num": 317826,
       "word": "特朗普称泽连斯基何时想和平了再来",
@@ -905,14 +921,6 @@
       "onboard_time": 1740795137,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 564828,
-      "num": 332410,
-      "word": "胡歌杨紫 生命树",
-      "onboard_time": 1740928639,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 564663,
@@ -1011,12 +1019,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 548415,
-      "num": 331868,
-      "word": "张凌赫 爸妈爷奶都知道了",
-      "onboard_time": 1740927560,
-      "rank": 17,
-      "category": "剧集"
+      "raw_hot": 527939,
+      "num": 527939,
+      "word": "减肥早餐最好以液体为主",
+      "onboard_time": 1740929361,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 523241,
@@ -1353,6 +1361,14 @@
       "onboard_time": 1740835883,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 394364,
+      "num": 258797,
+      "word": "周杰伦龙抬头给女儿剪发",
+      "onboard_time": 1740928040,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 391884,
@@ -1731,6 +1747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 302369,
+      "num": 217101,
+      "word": "雷军首曝小米可换镜头手机",
+      "onboard_time": 1740928523,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 299588,
       "num": 208841,
       "word": "蒋欣自曝体重112斤",
@@ -2075,14 +2099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 258797,
-      "num": 258797,
-      "word": "周杰伦龙抬头给女儿剪发",
-      "onboard_time": 1740928040,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 258232,
       "num": 258232,
       "word": "张婧仪伦敦时装周vlog",
@@ -2193,14 +2209,6 @@
       "onboard_time": 1740819621,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 241568,
-      "num": 217101,
-      "word": "雷军首曝小米可换镜头手机",
-      "onboard_time": 1740928523,
-      "rank": 34,
-      "category": "数码"
     },
     {
       "raw_hot": 241107,
@@ -2931,20 +2939,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 197264,
+      "num": 197264,
+      "word": "神镜兵",
+      "onboard_time": 1740931877,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196890,
       "num": 196890,
       "word": "白鹿欧豪好好笑",
       "onboard_time": 1740835342,
       "rank": 43,
       "category": "剧集,综艺"
-    },
-    {
-      "raw_hot": 196287,
-      "num": 196287,
-      "word": "减肥早餐最好以液体为主",
-      "onboard_time": 1740929361,
-      "rank": 27,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 195697,
@@ -3361,6 +3369,14 @@
       "onboard_time": 1740818062,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175617,
+      "num": 175617,
+      "word": "辛芷蕾新剧脚趾接大工程了",
+      "onboard_time": 1740931576,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 175405,
@@ -3843,6 +3859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155420,
+      "num": 155420,
+      "word": "岳阳市区正猛降冰雹",
+      "onboard_time": 1740922340,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154906,
       "num": 315887,
       "word": "毛不易来深圳也逃不过讲PPT",
@@ -3921,6 +3945,14 @@
       "onboard_time": 1740908539,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151247,
+      "num": 151247,
+      "word": "奥斯卡提名",
+      "onboard_time": 1740929778,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 150996,
@@ -4691,14 +4723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 118323,
-      "num": 118323,
-      "word": "奥斯卡提名",
-      "onboard_time": 1740929778,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 118267,
       "num": 118267,
       "word": "脑综把清华脑王整破防了",
@@ -4857,6 +4881,14 @@
       "onboard_time": 1740904158,
       "rank": 9,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 112189,
+      "num": 154884,
+      "word": "英国首相称对白宫冲突感到不适",
+      "onboard_time": 1740932177,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 111807,
@@ -5259,6 +5291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94804,
+      "num": 94804,
+      "word": "重病卧床的男主还急着争宠",
+      "onboard_time": 1740932657,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 94802,
       "num": 349629,
       "word": "乘客被针头扎伤南航责任有哪些",
@@ -5481,6 +5521,14 @@
       "onboard_time": 1740880216,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 85829,
+      "num": 85829,
+      "word": "湖南即将进入寒潮发威最强时段",
+      "onboard_time": 1740932357,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85684,
@@ -6169,6 +6217,14 @@
       "onboard_time": 1740769512,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31626,
+      "num": 154716,
+      "word": "陈登星扣篮大赛冠军",
+      "onboard_time": 1740932417,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 31366,

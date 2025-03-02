@@ -1,0 +1,411 @@
+{
+  "startTime": 1740932816657,
+  "endTime": 1740932816657,
+  "band_list": [
+    {
+      "raw_hot": 1454288,
+      "num": 217877,
+      "word": "戚薇眼睛",
+      "onboard_time": 1740925941,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 845441,
+      "num": 930340,
+      "word": "张凌赫 爸妈爷奶都知道了",
+      "onboard_time": 1740927560,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 591826,
+      "num": 323720,
+      "word": "胡歌杨紫 生命树",
+      "onboard_time": 1740928639,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 583163,
+      "num": 256996,
+      "word": "徐若晗好漂亮",
+      "onboard_time": 1740920601,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 527939,
+      "num": 527939,
+      "word": "减肥早餐最好以液体为主",
+      "onboard_time": 1740929361,
+      "rank": 1,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 495967,
+      "num": 213238,
+      "word": "今年已有13位演艺界名人逝世",
+      "onboard_time": 1740904699,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 394364,
+      "num": 209173,
+      "word": "周杰伦龙抬头给女儿剪发",
+      "onboard_time": 1740928040,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 389832,
+      "num": 155090,
+      "word": "张凌赫的吻戏 荷尔蒙大爆发",
+      "onboard_time": 1740920720,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 328434,
+      "num": 255858,
+      "word": "滤镜15集37分01秒",
+      "onboard_time": 1740921739,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 308910,
+      "num": 308910,
+      "word": "广东紧急撤回一个夏天",
+      "onboard_time": 1740922820,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 302369,
+      "num": 155041,
+      "word": "雷军首曝小米可换镜头手机",
+      "onboard_time": 1740928523,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 282572,
+      "num": 203218,
+      "word": "张若昀唐艺昕带女儿踩水",
+      "onboard_time": 1740916460,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 267253,
+      "num": 267253,
+      "word": "母亲被撞身亡46万赔偿拖欠2年",
+      "onboard_time": 1740923360,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 258714,
+      "num": 154516,
+      "word": "颜如晶暴瘦60斤后现身重庆马拉松",
+      "onboard_time": 1740918440,
+      "rank": 25,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 243714,
+      "num": 243714,
+      "word": "济南因暴雪停课",
+      "onboard_time": 1740911059,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 222588,
+      "num": 222588,
+      "word": "这次山东等地暴雪并不异常",
+      "onboard_time": 1740920480,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201805,
+      "num": 201805,
+      "word": "周末总瘫在床上是心力弱的表现",
+      "onboard_time": 1740910940,
+      "rank": 14,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 199521,
+      "num": 199521,
+      "word": "爱你 60场吻戏",
+      "onboard_time": 1740924081,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 197264,
+      "num": 197264,
+      "word": "神镜兵",
+      "onboard_time": 1740931877,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 190345,
+      "num": 190345,
+      "word": "代表建议个税起征点提高至10万元",
+      "onboard_time": 1740923360,
+      "rank": 17,
+      "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 175617,
+      "num": 175617,
+      "word": "辛芷蕾新剧脚趾接大工程了",
+      "onboard_time": 1740931576,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 173205,
+      "num": 154366,
+      "word": "三部大男主剧四月对打",
+      "onboard_time": 1740924860,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 166335,
+      "num": 154150,
+      "word": "徐明浩结束创造营亚洲2录制",
+      "onboard_time": 1740927620,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 155420,
+      "num": 155420,
+      "word": "岳阳市区正猛降冰雹",
+      "onboard_time": 1740922340,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154026,
+      "num": 154026,
+      "word": "网传张艺兴出演女足",
+      "onboard_time": 1740926000,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 151247,
+      "num": 151247,
+      "word": "奥斯卡提名",
+      "onboard_time": 1740929778,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 140405,
+      "num": 140405,
+      "word": "张真源贺峻霖低声些光彩吗",
+      "onboard_time": 1740929540,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 133074,
+      "num": 133074,
+      "word": "浪姐6一公录制",
+      "onboard_time": 1740928879,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 128767,
+      "num": 128767,
+      "word": "周杰伦昆凌儿子拿了网球冠军",
+      "onboard_time": 1740929120,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 123716,
+      "num": 123716,
+      "word": "白桃星座",
+      "onboard_time": 1740927262,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 122266,
+      "num": 155364,
+      "word": "14岁少女行云流水展示三把刀",
+      "onboard_time": 1740928340,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117927,
+      "num": 117927,
+      "word": "机器狗在泰山入职了",
+      "onboard_time": 1740923660,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112189,
+      "num": 154884,
+      "word": "英国首相称对白宫冲突感到不适",
+      "onboard_time": 1740932177,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 108532,
+      "num": 108532,
+      "word": "济南气温满20减19",
+      "onboard_time": 1740905299,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106746,
+      "num": 106746,
+      "word": "南京胖哥减重100斤",
+      "onboard_time": 1740927200,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106473,
+      "num": 106473,
+      "word": "我不能坐着 我怕我会漏",
+      "onboard_time": 1740912380,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 105377,
+      "num": 105377,
+      "word": "金价未来是涨还是跌",
+      "onboard_time": 1740919399,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 98722,
+      "num": 98722,
+      "word": "方大同遗体在云南大理火化",
+      "onboard_time": 1740893300,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 96989,
+      "num": 96989,
+      "word": "时代峰峻高会回复",
+      "onboard_time": 1740926901,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 94804,
+      "num": 94804,
+      "word": "重病卧床的男主还急着争宠",
+      "onboard_time": 1740932657,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 93246,
+      "num": 93246,
+      "word": "权志龙把柳智敏比作光",
+      "onboard_time": 1740922939,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 91371,
+      "num": 91371,
+      "word": "唐嫣恭喜张杰",
+      "onboard_time": 1740913879,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 88521,
+      "num": 88521,
+      "word": "李昀锐巴黎时装周",
+      "onboard_time": 1740926301,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 88167,
+      "num": 88167,
+      "word": "张凌赫爸爸妈妈认证爱你好看",
+      "onboard_time": 1740927560,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 87511,
+      "num": 87511,
+      "word": "白敬亭章若楠穿搭 ins情侣博主",
+      "onboard_time": 1740917780,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 85829,
+      "num": 85829,
+      "word": "湖南即将进入寒潮发威最强时段",
+      "onboard_time": 1740932357,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85109,
+      "num": 85109,
+      "word": "这4件事可能在损害你的头发",
+      "onboard_time": 1740924021,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 82803,
+      "num": 82803,
+      "word": "乌克兰",
+      "onboard_time": 1740919160,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 51233,
+      "num": 324299,
+      "word": "中国制造硬核出圈",
+      "onboard_time": 1740923120,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 31626,
+      "num": 154716,
+      "word": "陈登星扣篮大赛冠军",
+      "onboard_time": 1740932417,
+      "rank": 24,
+      "category": "体育"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#习近平同志关心推动民营经济发展纪实#"
+    }
+  ]
+}
