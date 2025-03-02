@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1740919183573,
+  "endTime": 1740920080648,
   "band_list": [
     {
       "raw_hot": 3194275,
@@ -75,7 +75,7 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 1584179,
+      "raw_hot": 1590394,
       "num": 391019,
       "word": "张若昀唐艺昕带女儿踩水",
       "onboard_time": 1740916460,
@@ -179,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 897803,
+      "num": 229497,
+      "word": "颜如晶暴瘦60斤后现身重庆马拉松",
+      "onboard_time": 1740918440,
+      "rank": 20,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 897098,
       "num": 1143535,
       "word": "百万工资拖欠4年讨回后交税32万7",
@@ -227,6 +235,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 806066,
+      "num": 389881,
+      "word": "我不能坐着 我怕我会漏",
+      "onboard_time": 1740912380,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 783779,
       "num": 248798,
       "word": "柯洁全款拿下小米SU7Ultra",
@@ -243,12 +259,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 718082,
-      "num": 389881,
-      "word": "我不能坐着 我怕我会漏",
-      "onboard_time": 1740912380,
-      "rank": 23,
-      "category": "剧集"
+      "raw_hot": 725625,
+      "num": 389033,
+      "word": "医院偶遇冉莹颖带儿子打生长激素",
+      "onboard_time": 1740916760,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 714139,
@@ -297,14 +313,6 @@
       "onboard_time": 1740897259,
       "rank": 9,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 670703,
-      "num": 218524,
-      "word": "颜如晶暴瘦60斤后现身重庆马拉松",
-      "onboard_time": 1740918440,
-      "rank": 20,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 638241,
@@ -499,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 451336,
+      "num": 451336,
+      "word": "周末总瘫在床上是心力弱的表现",
+      "onboard_time": 1740910940,
+      "rank": 35,
+      "category": "健康医疗,健康医疗"
+    },
+    {
       "raw_hot": 446483,
       "num": 446483,
       "word": "1.88元考试神器已售60万件",
@@ -521,14 +537,6 @@
       "onboard_time": 1740892098,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 419813,
-      "num": 419813,
-      "word": "周末总瘫在床上是心力弱的表现",
-      "onboard_time": 1740910940,
-      "rank": 35,
-      "category": "健康医疗,健康医疗"
     },
     {
       "raw_hot": 412866,
@@ -595,14 +603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 389033,
-      "num": 389033,
-      "word": "医院偶遇冉莹颖带儿子打生长激素",
-      "onboard_time": 1740916760,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 387542,
       "num": 387542,
       "word": "济南气温满20减19",
@@ -649,6 +649,14 @@
       "onboard_time": 1740905119,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 348640,
+      "num": 348640,
+      "word": "一家四姐妹手撕同一位人渣",
+      "onboard_time": 1740915560,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 342466,
@@ -755,6 +763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 287895,
+      "num": 224143,
+      "word": "李一桐李昀锐 我欲乘风",
+      "onboard_time": 1740919279,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 285870,
       "num": 179762,
       "word": "老鼠人",
@@ -785,14 +801,6 @@
       "onboard_time": 1740904818,
       "rank": 25,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 275937,
-      "num": 275937,
-      "word": "一家四姐妹手撕同一位人渣",
-      "onboard_time": 1740915560,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 270225,
@@ -899,6 +907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234144,
+      "num": 219069,
+      "word": "易烊千玺背头daddy造型",
+      "onboard_time": 1740918981,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233160,
       "num": 315641,
       "word": "欧豪多上上网吧",
@@ -921,6 +937,14 @@
       "onboard_time": 1740894919,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 230420,
+      "num": 230420,
+      "word": "白敬亭章若楠穿搭 ins情侣博主",
+      "onboard_time": 1740917780,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 227130,
@@ -985,6 +1009,14 @@
       "onboard_time": 1740887059,
       "rank": 23,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 218464,
+      "num": 218464,
+      "word": "00后女班主任开会时装作很凶的样子",
+      "onboard_time": 1740916039,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 215060,
@@ -1059,6 +1091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205769,
+      "num": 205769,
+      "word": "AG对战情久",
+      "onboard_time": 1740919639,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 205425,
       "num": 205425,
       "word": "大侦探",
@@ -1075,12 +1115,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 204204,
-      "num": 204204,
-      "word": "白敬亭章若楠穿搭 ins情侣博主",
-      "onboard_time": 1740917780,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 204370,
+      "num": 204370,
+      "word": "白百何晒大儿子唱歌视频",
+      "onboard_time": 1740917479,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 203586,
@@ -1115,14 +1155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 201093,
-      "num": 201093,
-      "word": "00后女班主任开会时装作很凶的样子",
-      "onboard_time": 1740916039,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 200595,
       "num": 269087,
       "word": "吴宣仪卡琳娜贴贴",
@@ -1137,6 +1169,14 @@
       "onboard_time": 1740899719,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199268,
+      "num": 199268,
+      "word": "小猪佩奇妈妈官宣怀三胎",
+      "onboard_time": 1740918259,
+      "rank": 33,
+      "category": "动漫"
     },
     {
       "raw_hot": 198363,
@@ -1163,14 +1203,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 193457,
-      "num": 193457,
-      "word": "易烊千玺背头daddy造型",
-      "onboard_time": 1740918981,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 192607,
       "num": 192607,
       "word": "当你的男朋友看了难哄",
@@ -1179,12 +1211,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 192483,
-      "num": 192483,
-      "word": "小猪佩奇妈妈官宣怀三胎",
-      "onboard_time": 1740918259,
-      "rank": 33,
-      "category": "动漫"
+      "raw_hot": 190307,
+      "num": 190307,
+      "word": "乌克兰",
+      "onboard_time": 1740919160,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 190115,
@@ -1193,14 +1225,6 @@
       "onboard_time": 1740896897,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189264,
-      "num": 189264,
-      "word": "白百何晒大儿子唱歌视频",
-      "onboard_time": 1740917479,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 188314,
@@ -1216,6 +1240,14 @@
       "word": "古装剧终于有支持女儿不结婚的父亲",
       "onboard_time": 1740892098,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 186799,
+      "num": 198585,
+      "word": "爱你男女主终于亲上了",
+      "onboard_time": 1740918801,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -1347,6 +1379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171539,
+      "num": 171539,
+      "word": "金价未来是涨还是跌",
+      "onboard_time": 1740919399,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 168584,
       "num": 168584,
       "word": "河南7元一碗的焖面",
@@ -1467,19 +1507,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 157445,
-      "num": 157445,
-      "word": "爱你男女主终于亲上了",
-      "onboard_time": 1740918801,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 157377,
       "num": 157377,
       "word": "花花花花花花开了",
       "onboard_time": 1740873436,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156536,
+      "num": 192687,
+      "word": "济南鹅毛大雪积雪半个手掌深",
+      "onboard_time": 1740917840,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -1507,12 +1547,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 154347,
-      "num": 154347,
-      "word": "乌克兰",
-      "onboard_time": 1740919160,
-      "rank": 43,
-      "category": "国际时政"
+      "raw_hot": 154700,
+      "num": 154700,
+      "word": "王一博的歌声侠气满满",
+      "onboard_time": 1740919639,
+      "rank": 40,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 154442,
+      "num": 154442,
+      "word": "何老师眼里是真有活儿",
+      "onboard_time": 1740919339,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 153584,
+      "num": 156434,
+      "word": "王曼昱立定跳远满分",
+      "onboard_time": 1740919879,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 151817,
@@ -1521,6 +1577,14 @@
       "onboard_time": 1740882799,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 151510,
+      "num": 337926,
+      "word": "当诗人玩跨界把把都是高端局",
+      "onboard_time": 1740918921,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151342,
@@ -1563,12 +1627,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 149252,
+      "num": 149252,
+      "word": "国际金价跌至近3周以来最低点",
+      "onboard_time": 1740919761,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 148165,
       "num": 148165,
       "word": "谁懂这两个名字出现在大屏幕的感觉",
       "onboard_time": 1740892459,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 148101,
+      "num": 148101,
+      "word": "高铁晚点",
+      "onboard_time": 1740919819,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145727,
@@ -1649,6 +1729,14 @@
       "onboard_time": 1740906079,
       "rank": 32,
       "category": "演出,体育"
+    },
+    {
+      "raw_hot": 139997,
+      "num": 139997,
+      "word": "白鹿粉丝云包场",
+      "onboard_time": 1740920061,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 139988,
@@ -1739,6 +1827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130663,
+      "num": 130663,
+      "word": "COA8中国大陆赛区抽签",
+      "onboard_time": 1740919399,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 129728,
       "num": 129728,
       "word": "毕业后档案放在哪",
@@ -1761,14 +1857,6 @@
       "onboard_time": 1740896000,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 128555,
-      "num": 192687,
-      "word": "济南鹅毛大雪积雪半个手掌深",
-      "onboard_time": 1740917840,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128237,
@@ -1969,14 +2057,6 @@
       "onboard_time": 1740839724,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 110467,
-      "num": 216457,
-      "word": "当诗人玩跨界把把都是高端局",
-      "onboard_time": 1740918921,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 110234,
@@ -2697,6 +2777,14 @@
       "onboard_time": 1740854413,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20053,
+      "num": 154462,
+      "word": "建议结婚前上婚姻辅导课",
+      "onboard_time": 1740920061,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19268,
