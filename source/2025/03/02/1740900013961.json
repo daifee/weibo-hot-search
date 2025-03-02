@@ -1,0 +1,410 @@
+{
+  "runTime": 1740900013961,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 884514,
+        "num": 1141522,
+        "word": "迪丽热巴 电影女足",
+        "onboard_time": 1740892939,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 512745,
+        "num": 512745,
+        "word": "宜宾地震",
+        "onboard_time": 1740897259,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 74438,
+        "num": 466254,
+        "word": "两会是哪两个会",
+        "onboard_time": 1740879497,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 465293,
+        "num": 465293,
+        "word": "倪萍也吃瓜赵本山上不上春晚",
+        "onboard_time": 1740896360,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 393436,
+        "num": 393436,
+        "word": "网购100只垃圾袋数完只有38只",
+        "onboard_time": 1740892098,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234399,
+        "num": 234399,
+        "word": "济南真的下雪啦",
+        "onboard_time": 1740891260,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388907,
+        "num": 228816,
+        "word": "章若楠在难哄看到何老师后哭了",
+        "onboard_time": 1740893359,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323827,
+        "num": 227784,
+        "word": "哪吒2票房破144亿",
+        "onboard_time": 1740893719,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 223119,
+        "num": 223119,
+        "word": "中央气象台一早发5个预警",
+        "onboard_time": 1740874338,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41224,
+        "num": 223079,
+        "word": "杜玉波贪欲膨胀靠教育吃教育",
+        "onboard_time": 1740897620,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2031741,
+        "num": 223045,
+        "word": "周雨",
+        "onboard_time": 1740895339,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1376152,
+        "num": 222989,
+        "word": "女子拔牙第3天嘴里散发腐臭味",
+        "onboard_time": 1740895580,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1081257,
+        "num": 222907,
+        "word": "方大同遗体在云南大理火化",
+        "onboard_time": 1740893300,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158592,
+        "num": 222819,
+        "word": "85岁母亲思念女儿泣诉我欠你啊",
+        "onboard_time": 1740894919,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129220,
+        "num": 222760,
+        "word": "建议企业为全职妈妈设立妈妈岗",
+        "onboard_time": 1740898521,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 528476,
+        "num": 222700,
+        "word": "女子婚后发现老实丈夫很暴戾要离婚",
+        "onboard_time": 1740895100,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388174,
+        "num": 222627,
+        "word": "男子想复婚利用保姆假戏真做被捅死",
+        "onboard_time": 1740881479,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 343932,
+        "num": 222580,
+        "word": "毛不易演唱会上缅怀方大同",
+        "onboard_time": 1740896600,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 262675,
+        "num": 222481,
+        "word": "孟子义大侦探录制上班路透",
+        "onboard_time": 1740895940,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43200,
+        "num": 222455,
+        "word": "工作高压下如何自我救赎",
+        "onboard_time": 1740898399,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274163,
+        "num": 222372,
+        "word": "24岁女网红猫又又去世",
+        "onboard_time": 1740890600,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 258194,
+        "num": 222309,
+        "word": "猪被偷走3个月找回时胖了100斤",
+        "onboard_time": 1740897199,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224141,
+        "num": 222264,
+        "word": "迪丽热巴在广东穿短袖",
+        "onboard_time": 1740898579,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200586,
+        "num": 222173,
+        "word": "景甜扇巴掌戏自己示范扇自己",
+        "onboard_time": 1740899719,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222149,
+        "num": 222149,
+        "word": "陈都灵老年妆",
+        "onboard_time": 1740896239,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208955,
+        "num": 208955,
+        "word": "何超莲何超云何猷启为妈妈庆生",
+        "onboard_time": 1740896239,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204662,
+        "num": 204662,
+        "word": "陈赫嫌弃徐志胜的表情不像演的",
+        "onboard_time": 1740891080,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177708,
+        "num": 177708,
+        "word": "张柏芝穿了珍珠新中式",
+        "onboard_time": 1740890118,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175089,
+        "num": 175089,
+        "word": "坏了让她能装一辈子了",
+        "onboard_time": 1740892098,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159477,
+        "num": 159477,
+        "word": "大侦探",
+        "onboard_time": 1740896600,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165186,
+        "num": 158614,
+        "word": "百万工资拖欠4年讨回后交税32万7",
+        "onboard_time": 1740886039,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156732,
+        "num": 156732,
+        "word": "研究生宿舍生活能有多快乐",
+        "onboard_time": 1740899238,
+        "rank": 31,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 155752,
+        "num": 155752,
+        "word": "麦琳生娃前与生娃后",
+        "onboard_time": 1740899840,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151059,
+        "num": 151059,
+        "word": "电影女足",
+        "onboard_time": 1740895100,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150202,
+        "num": 150202,
+        "word": "白鹿不要虐待海清老师的神欧豪",
+        "onboard_time": 1740897380,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142539,
+        "num": 142539,
+        "word": "A勒布伦期待与樊振东再次交手",
+        "onboard_time": 1740898459,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139962,
+        "num": 139962,
+        "word": "董力上节目求婚只用了9朵玫瑰",
+        "onboard_time": 1740885861,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136019,
+        "num": 136019,
+        "word": "难哄",
+        "onboard_time": 1740890719,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126062,
+        "num": 126062,
+        "word": "午睡超1小时心梗等风险将增加近3成",
+        "onboard_time": 1740899778,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 124809,
+        "num": 124809,
+        "word": "京城大师赛",
+        "onboard_time": 1740896780,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124193,
+        "num": 124193,
+        "word": "金价",
+        "onboard_time": 1740899599,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 122768,
+        "num": 122768,
+        "word": "DeepSeek智搜评内娱十大国民级歌手",
+        "onboard_time": 1740887059,
+        "rank": 41,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 120933,
+        "num": 120933,
+        "word": "精神医院里挤满了失眠的中老年女性",
+        "onboard_time": 1740886279,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119357,
+        "num": 119357,
+        "word": "英乌签署22.6亿英镑贷款协议",
+        "onboard_time": 1740870913,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116715,
+        "num": 116715,
+        "word": "Lucas Dyx",
+        "onboard_time": 1740899539,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116475,
+        "num": 116475,
+        "word": "喀什古城",
+        "onboard_time": 1740894080,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109827,
+        "num": 109827,
+        "word": "欧盟怒批特朗普",
+        "onboard_time": 1740884059,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107146,
+        "num": 107146,
+        "word": "苏醒你敢在迪拜市中心说这句话吗",
+        "onboard_time": 1740897860,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102865,
+        "num": 102865,
+        "word": "超六成患者不知道自己听力有问题",
+        "onboard_time": 1740897440,
+        "rank": 48,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 101580,
+        "num": 101580,
+        "word": "女子欲取17万给梁朝伟订酒店被劝下",
+        "onboard_time": 1740882978,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#三个事关彰显平安中国重大意义#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740897810136,
+  "endTime": 1740900013961,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -113,6 +113,14 @@
       "onboard_time": 1740881479,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2031741,
+      "num": 223045,
+      "word": "周雨",
+      "onboard_time": 1740895339,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 1996502,
@@ -731,6 +739,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 528476,
+      "num": 338707,
+      "word": "女子婚后发现老实丈夫很暴戾要离婚",
+      "onboard_time": 1740895100,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 523241,
       "num": 765753,
       "word": "退税金额原来是这样算出来的",
@@ -745,6 +761,14 @@
       "onboard_time": 1740748640,
       "rank": 12,
       "category": "时尚,网红"
+    },
+    {
+      "raw_hot": 512745,
+      "num": 512745,
+      "word": "宜宾地震",
+      "onboard_time": 1740897259,
+      "rank": 9,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 510916,
@@ -889,6 +913,14 @@
       "onboard_time": 1740881357,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 465293,
+      "num": 465293,
+      "word": "倪萍也吃瓜赵本山上不上春晚",
+      "onboard_time": 1740896360,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 463682,
@@ -1059,14 +1091,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 377573,
-      "num": 335627,
-      "word": "倪萍也吃瓜赵本山上不上春晚",
-      "onboard_time": 1740896360,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 373283,
       "num": 373283,
       "word": "前TVB演员回应跑网约车",
@@ -1179,14 +1203,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 338707,
-      "num": 338707,
-      "word": "女子婚后发现老实丈夫很暴戾要离婚",
-      "onboard_time": 1740895100,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 335243,
       "num": 335243,
       "word": "电信诈骗开始遥控你的手机了",
@@ -1265,14 +1281,6 @@
       "onboard_time": 1740842484,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 317843,
-      "num": 317843,
-      "word": "宜宾地震",
-      "onboard_time": 1740897259,
-      "rank": 9,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 309715,
@@ -1579,6 +1587,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 258194,
+      "num": 222309,
+      "word": "猪被偷走3个月找回时胖了100斤",
+      "onboard_time": 1740897199,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 257958,
       "num": 257958,
       "word": "气胸是一种怎样的疾病",
@@ -1795,19 +1811,19 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 224141,
+      "num": 222264,
+      "word": "迪丽热巴在广东穿短袖",
+      "onboard_time": 1740898579,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222679,
       "num": 465504,
       "word": "按DeepSeek建议理发会翻车吗",
       "onboard_time": 1740805759,
       "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 222296,
-      "num": 216201,
-      "word": "猪被偷走3个月找回时胖了100斤",
-      "onboard_time": 1740897199,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -1817,6 +1833,14 @@
       "onboard_time": 1740824062,
       "rank": 11,
       "category": "民生新闻,电影"
+    },
+    {
+      "raw_hot": 222149,
+      "num": 222149,
+      "word": "陈都灵老年妆",
+      "onboard_time": 1740896239,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 220789,
@@ -1841,14 +1865,6 @@
       "onboard_time": 1740887059,
       "rank": 23,
       "category": "艺人,互联网"
-    },
-    {
-      "raw_hot": 219039,
-      "num": 219039,
-      "word": "陈都灵老年妆",
-      "onboard_time": 1740896239,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 218693,
@@ -1961,6 +1977,14 @@
       "onboard_time": 1740885439,
       "rank": 23,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 208955,
+      "num": 208955,
+      "word": "何超莲何超云何猷启为妈妈庆生",
+      "onboard_time": 1740896239,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 208215,
@@ -2083,6 +2107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200586,
+      "num": 222173,
+      "word": "景甜扇巴掌戏自己示范扇自己",
+      "onboard_time": 1740899719,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199584,
       "num": 199584,
       "word": "似锦今日开播",
@@ -2112,14 +2144,6 @@
       "word": "许凯上半身身材",
       "onboard_time": 1740787758,
       "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 198603,
-      "num": 198603,
-      "word": "何超莲何超云何猷启为妈妈庆生",
-      "onboard_time": 1740896239,
-      "rank": 42,
       "category": "艺人"
     },
     {
@@ -2875,12 +2899,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156732,
+      "num": 156732,
+      "word": "研究生宿舍生活能有多快乐",
+      "onboard_time": 1740899238,
+      "rank": 31,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 156033,
       "num": 156033,
       "word": "弄乱小猫刚舔好的毛后它的反应",
       "onboard_time": 1740893000,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 155752,
+      "num": 155752,
+      "word": "麦琳生娃前与生娃后",
+      "onboard_time": 1740899840,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 155677,
@@ -3073,6 +3113,14 @@
       "onboard_time": 1740823041,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142539,
+      "num": 142539,
+      "word": "A勒布伦期待与樊振东再次交手",
+      "onboard_time": 1740898459,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 141862,
@@ -3331,6 +3379,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 129220,
+      "num": 222760,
+      "word": "建议企业为全职妈妈设立妈妈岗",
+      "onboard_time": 1740898521,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128275,
       "num": 128275,
       "word": "LPL",
@@ -3379,6 +3435,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 126062,
+      "num": 126062,
+      "word": "午睡超1小时心梗等风险将增加近3成",
+      "onboard_time": 1740899778,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 125739,
       "num": 125739,
       "word": "AG对战KLG",
@@ -3393,6 +3457,14 @@
       "onboard_time": 1740892638,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124193,
+      "num": 124193,
+      "word": "金价",
+      "onboard_time": 1740899599,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 122940,
@@ -3515,6 +3587,14 @@
       "category": "健康医疗,互联网"
     },
     {
+      "raw_hot": 116715,
+      "num": 116715,
+      "word": "Lucas Dyx",
+      "onboard_time": 1740899539,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 116128,
       "num": 116128,
       "word": "翟潇闻清唱情深深雨蒙蒙",
@@ -3616,6 +3696,14 @@
       "word": "刘晓庆在密室里疯狂摸鱼",
       "onboard_time": 1740824542,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 107146,
+      "num": 107146,
+      "word": "苏醒你敢在迪拜市中心说这句话吗",
+      "onboard_time": 1740897860,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -3737,6 +3825,14 @@
       "onboard_time": 1740737900,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102865,
+      "num": 216674,
+      "word": "超六成患者不知道自己听力有问题",
+      "onboard_time": 1740897440,
+      "rank": 21,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 102666,
@@ -4507,6 +4603,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 43200,
+      "num": 222455,
+      "word": "工作高压下如何自我救赎",
+      "onboard_time": 1740898399,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41962,
       "num": 41962,
       "word": "周一全国气温普遍下降",
@@ -4521,6 +4625,14 @@
       "onboard_time": 1740848057,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 41224,
+      "num": 223079,
+      "word": "杜玉波贪欲膨胀靠教育吃教育",
+      "onboard_time": 1740897620,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 40636,
@@ -4627,14 +4739,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 33970,
-      "num": 216674,
-      "word": "超六成患者不知道自己听力有问题",
-      "onboard_time": 1740897440,
-      "rank": 21,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 33068,
       "num": 54313,
       "word": "谁能想到博物馆一扇窗变成了景点",
@@ -4697,14 +4801,6 @@
       "onboard_time": 1740825681,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 29656,
-      "num": 189629,
-      "word": "杜玉波贪欲膨胀靠教育吃教育",
-      "onboard_time": 1740897620,
-      "rank": 33,
-      "category": "国内时政"
     },
     {
       "raw_hot": 29576,
