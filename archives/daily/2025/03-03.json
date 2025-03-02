@@ -1,6 +1,6 @@
 {
   "startTime": 1740932816657,
-  "endTime": 1740932816657,
+  "endTime": 1740933665985,
   "band_list": [
     {
       "raw_hot": 1454288,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 591826,
-      "num": 323720,
+      "num": 462944,
       "word": "胡歌杨紫 生命树",
       "onboard_time": 1740928639,
       "rank": 3,
@@ -35,8 +35,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 527939,
-      "num": 527939,
+      "raw_hot": 540408,
+      "num": 540408,
       "word": "减肥早餐最好以液体为主",
       "onboard_time": 1740929361,
       "rank": 1,
@@ -123,12 +123,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 222829,
+      "num": 197264,
+      "word": "神镜兵",
+      "onboard_time": 1740931877,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222588,
       "num": 222588,
       "word": "这次山东等地暴雪并不异常",
       "onboard_time": 1740920480,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 211195,
+      "num": 194639,
+      "word": "辛芷蕾新剧脚趾接大工程了",
+      "onboard_time": 1740931576,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 201805,
@@ -147,14 +163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197264,
-      "num": 197264,
-      "word": "神镜兵",
-      "onboard_time": 1740931877,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 190345,
       "num": 190345,
       "word": "代表建议个税起征点提高至10万元",
@@ -163,12 +171,12 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 175617,
-      "num": 175617,
-      "word": "辛芷蕾新剧脚趾接大工程了",
-      "onboard_time": 1740931576,
-      "rank": 18,
-      "category": "剧集"
+      "raw_hot": 185320,
+      "num": 198921,
+      "word": "英国首相称对白宫冲突感到不适",
+      "onboard_time": 1740932177,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 173205,
@@ -211,12 +219,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 140405,
-      "num": 140405,
+      "raw_hot": 143273,
+      "num": 143273,
       "word": "张真源贺峻霖低声些光彩吗",
       "onboard_time": 1740929540,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133859,
+      "num": 133859,
+      "word": "重病卧床的男主还急着争宠",
+      "onboard_time": 1740932657,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 133074,
@@ -257,14 +273,6 @@
       "onboard_time": 1740923660,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 112189,
-      "num": 154884,
-      "word": "英国首相称对白宫冲突感到不适",
-      "onboard_time": 1740932177,
-      "rank": 23,
-      "category": "国际时政"
     },
     {
       "raw_hot": 108532,
@@ -315,14 +323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 94804,
-      "num": 94804,
-      "word": "重病卧床的男主还急着争宠",
-      "onboard_time": 1740932657,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 93246,
       "num": 93246,
       "word": "权志龙把柳智敏比作光",
@@ -337,6 +337,14 @@
       "onboard_time": 1740913879,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 89215,
+      "num": 89215,
+      "word": "湖南即将进入寒潮发威最强时段",
+      "onboard_time": 1740932357,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88521,
@@ -363,20 +371,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 85829,
-      "num": 85829,
-      "word": "湖南即将进入寒潮发威最强时段",
-      "onboard_time": 1740932357,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 85109,
       "num": 85109,
       "word": "这4件事可能在损害你的头发",
       "onboard_time": 1740924021,
       "rank": 48,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 85002,
+      "num": 85002,
+      "word": "G2总决赛对阵T1",
+      "onboard_time": 1740924501,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 84078,
+      "num": 84078,
+      "word": "国际金价跌至近3周以来最低点",
+      "onboard_time": 1740919761,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 82803,
@@ -388,7 +404,7 @@
     },
     {
       "raw_hot": 51233,
-      "num": 324299,
+      "num": 481742,
       "word": "中国制造硬核出圈",
       "onboard_time": 1740923120,
       "rank": 2,
@@ -401,6 +417,14 @@
       "onboard_time": 1740932417,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18564,
+      "num": 81983,
+      "word": "WB a组",
+      "onboard_time": 1740926059,
+      "rank": 42,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [
