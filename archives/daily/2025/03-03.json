@@ -1,6 +1,6 @@
 {
   "startTime": 1740932816657,
-  "endTime": 1740933665985,
+  "endTime": 1740935927565,
   "band_list": [
     {
       "raw_hot": 1454288,
@@ -75,6 +75,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 322572,
+      "num": 217709,
+      "word": "辛芷蕾新剧脚趾接大工程了",
+      "onboard_time": 1740931576,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 320670,
+      "num": 197264,
+      "word": "神镜兵",
+      "onboard_time": 1740931877,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 308910,
       "num": 308910,
       "word": "广东紧急撤回一个夏天",
@@ -123,28 +139,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 222829,
-      "num": 197264,
-      "word": "神镜兵",
-      "onboard_time": 1740931877,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 222588,
       "num": 222588,
       "word": "这次山东等地暴雪并不异常",
       "onboard_time": 1740920480,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 211195,
-      "num": 194639,
-      "word": "辛芷蕾新剧脚趾接大工程了",
-      "onboard_time": 1740931576,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 201805,
@@ -209,6 +209,14 @@
       "onboard_time": 1740926000,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 151715,
+      "num": 151715,
+      "word": "湖南即将进入寒潮发威最强时段",
+      "onboard_time": 1740932357,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151247,
@@ -339,14 +347,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 89215,
-      "num": 89215,
-      "word": "湖南即将进入寒潮发威最强时段",
-      "onboard_time": 1740932357,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88521,
       "num": 88521,
       "word": "李昀锐巴黎时装周",
@@ -403,12 +403,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 52370,
+      "num": 52370,
+      "word": "现在不是霸道总裁强制爱的年代了",
+      "onboard_time": 1740920780,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 51233,
       "num": 481742,
       "word": "中国制造硬核出圈",
       "onboard_time": 1740923120,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 38468,
+      "num": 38468,
+      "word": "摄影师摔倒压到4个月宝宝",
+      "onboard_time": 1740905299,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31626,
@@ -419,12 +435,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 21191,
+      "num": 150016,
+      "word": "机器狗背着重物嗖嗖爬泰山",
+      "onboard_time": 1740935294,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18564,
       "num": 81983,
       "word": "WB a组",
       "onboard_time": 1740926059,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 8865,
+      "num": 85784,
+      "word": "于嘉全明星开场祝福郭艾伦",
+      "onboard_time": 1740935595,
+      "rank": 24,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
