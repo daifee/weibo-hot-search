@@ -1,6 +1,6 @@
 {
   "startTime": 1740932816657,
-  "endTime": 1740954107377,
+  "endTime": 1740955109783,
   "band_list": [
     {
       "raw_hot": 1454288,
@@ -227,6 +227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 145663,
+      "num": 363077,
+      "word": "俄乌冲突3年离和平还有多远",
+      "onboard_time": 1740940091,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 143273,
       "num": 143273,
       "word": "张真源贺峻霖低声些光彩吗",
@@ -241,6 +249,14 @@
       "onboard_time": 1740932657,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133437,
+      "num": 80496,
+      "word": "第97届奥斯卡金像奖最佳影片提名",
+      "onboard_time": 1740949631,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 133074,
@@ -281,14 +297,6 @@
       "onboard_time": 1740923660,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 112006,
-      "num": 363077,
-      "word": "俄乌冲突3年离和平还有多远",
-      "onboard_time": 1740940091,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 108532,
@@ -339,12 +347,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 96828,
-      "num": 66586,
-      "word": "第97届奥斯卡金像奖最佳影片提名",
-      "onboard_time": 1740949631,
-      "rank": 30,
-      "category": "电影"
+      "raw_hot": 95452,
+      "num": 95452,
+      "word": "国际金价跌至近3周以来最低点",
+      "onboard_time": 1740919761,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 93246,
@@ -403,14 +411,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 84078,
-      "num": 84078,
-      "word": "国际金价跌至近3周以来最低点",
-      "onboard_time": 1740919761,
-      "rank": 41,
-      "category": "财经"
-    },
-    {
       "raw_hot": 82803,
       "num": 82803,
       "word": "乌克兰",
@@ -443,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57709,
+      "num": 57709,
+      "word": "饲养员缝缝补补坏蛋逆天改命",
+      "onboard_time": 1740946630,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52370,
       "num": 52370,
       "word": "现在不是霸道总裁强制爱的年代了",
@@ -459,7 +467,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 48080,
+      "raw_hot": 48405,
       "num": 43239,
       "word": "方大同悼念仪式手卡上留下最后的话",
       "onboard_time": 1740937633,
@@ -467,11 +475,11 @@
       "category": "艺人,电影"
     },
     {
-      "raw_hot": 42683,
-      "num": 42683,
-      "word": "饲养员缝缝补补坏蛋逆天改命",
-      "onboard_time": 1740946630,
-      "rank": 16,
+      "raw_hot": 48129,
+      "num": 48129,
+      "word": "山东发暴雪橙色预警",
+      "onboard_time": 1740907399,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -483,20 +491,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37370,
+      "num": 69981,
+      "word": "内蒙古现绚烂红色极光",
+      "onboard_time": 1740953651,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31626,
       "num": 154716,
       "word": "陈登星扣篮大赛冠军",
       "onboard_time": 1740932417,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 28890,
-      "num": 28890,
-      "word": "山东发暴雪橙色预警",
-      "onboard_time": 1740907399,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25881,
@@ -531,11 +539,19 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 21722,
-      "num": 21722,
+      "raw_hot": 24283,
+      "num": 24283,
       "word": "3人神同步拿灭火器20秒灭火",
       "onboard_time": 1740951790,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23383,
+      "num": 23383,
+      "word": "74克企鹅吃吃睡睡到快1000克",
+      "onboard_time": 1740944532,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -547,12 +563,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 20538,
-      "num": 21313,
-      "word": "74克企鹅吃吃睡睡到快1000克",
-      "onboard_time": 1740944532,
-      "rank": 24,
+      "raw_hot": 21248,
+      "num": 22892,
+      "word": "山东多地因暴雪停课",
+      "onboard_time": 1740949450,
+      "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20341,
+      "num": 36939,
+      "word": "加油站员工1秒切换灭火模式",
+      "onboard_time": 1740950591,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19420,
+      "num": 22548,
+      "word": "耐克配阿迪",
+      "onboard_time": 1740947291,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 18564,
@@ -561,14 +593,6 @@
       "onboard_time": 1740926059,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 17939,
-      "num": 21299,
-      "word": "耐克配阿迪",
-      "onboard_time": 1740947291,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 17374,
@@ -585,14 +609,6 @@
       "onboard_time": 1740942671,
       "rank": 48,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 16112,
-      "num": 36939,
-      "word": "加油站员工1秒切换灭火模式",
-      "onboard_time": 1740950591,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14244,
@@ -619,19 +635,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 9178,
-      "num": 18657,
-      "word": "山东多地因暴雪停课",
-      "onboard_time": 1740949450,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 8896,
-      "num": 69981,
-      "word": "内蒙古现绚烂红色极光",
-      "onboard_time": 1740953651,
-      "rank": 9,
+      "raw_hot": 8685,
+      "num": 37858,
+      "word": "济南所有中小学停课一天",
+      "onboard_time": 1740948911,
+      "rank": 20,
       "category": "民生新闻"
     }
   ],

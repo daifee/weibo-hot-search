@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1740954107377,
+  "endTime": 1740955109783,
   "band_list": [
     {
       "raw_hot": 3194275,
@@ -2059,6 +2059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145663,
+      "num": 363077,
+      "word": "俄乌冲突3年离和平还有多远",
+      "onboard_time": 1740940091,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 145127,
       "num": 316268,
       "word": "李佳隆求婚",
@@ -2241,6 +2249,14 @@
       "onboard_time": 1740888079,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133437,
+      "num": 80496,
+      "word": "第97届奥斯卡金像奖最佳影片提名",
+      "onboard_time": 1740949631,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 131917,
@@ -2515,14 +2531,6 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 112006,
-      "num": 363077,
-      "word": "俄乌冲突3年离和平还有多远",
-      "onboard_time": 1740940091,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 111807,
       "num": 111807,
       "word": "建议折算高速公路免费天数",
@@ -2697,14 +2705,6 @@
       "onboard_time": 1740885559,
       "rank": 40,
       "category": "旅游,民生新闻"
-    },
-    {
-      "raw_hot": 96828,
-      "num": 66586,
-      "word": "第97届奥斯卡金像奖最佳影片提名",
-      "onboard_time": 1740949631,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 96382,
@@ -3083,6 +3083,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 57709,
+      "num": 57709,
+      "word": "饲养员缝缝补补坏蛋逆天改命",
+      "onboard_time": 1740946630,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55856,
       "num": 142001,
       "word": "贵州的春天超长待机100天",
@@ -3131,20 +3139,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 48405,
+      "num": 43239,
+      "word": "方大同悼念仪式手卡上留下最后的话",
+      "onboard_time": 1740937633,
+      "rank": 22,
+      "category": "艺人,电影"
+    },
+    {
       "raw_hot": 48242,
       "num": 814667,
       "word": "您的声音我的故事",
       "onboard_time": 1740871034,
       "rank": 2,
       "category": "电影"
-    },
-    {
-      "raw_hot": 48080,
-      "num": 43239,
-      "word": "方大同悼念仪式手卡上留下最后的话",
-      "onboard_time": 1740937633,
-      "rank": 22,
-      "category": "艺人,电影"
     },
     {
       "raw_hot": 47691,
@@ -3195,14 +3203,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 42683,
-      "num": 42683,
-      "word": "饲养员缝缝补补坏蛋逆天改命",
-      "onboard_time": 1740946630,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 41962,
       "num": 41962,
       "word": "周一全国气温普遍下降",
@@ -3225,6 +3225,14 @@
       "onboard_time": 1740897620,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 37370,
+      "num": 69981,
+      "word": "内蒙古现绚烂红色极光",
+      "onboard_time": 1740953651,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37184,
@@ -3403,6 +3411,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 24283,
+      "num": 24283,
+      "word": "3人神同步拿灭火器20秒灭火",
+      "onboard_time": 1740951790,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23383,
+      "num": 23383,
+      "word": "74克企鹅吃吃睡睡到快1000克",
+      "onboard_time": 1740944532,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21868,
       "num": 54314,
       "word": "央视曝光量子鞋垫骗局",
@@ -3419,20 +3443,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 21722,
-      "num": 21722,
-      "word": "3人神同步拿灭火器20秒灭火",
-      "onboard_time": 1740951790,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 21524,
       "num": 48413,
       "word": "加沙停火协议第一阶段已到期",
       "onboard_time": 1740942012,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 21248,
+      "num": 22892,
+      "word": "山东多地因暴雪停课",
+      "onboard_time": 1740949450,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21115,
@@ -3443,12 +3467,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 20538,
-      "num": 21313,
-      "word": "74克企鹅吃吃睡睡到快1000克",
-      "onboard_time": 1740944532,
-      "rank": 24,
+      "raw_hot": 20341,
+      "num": 36939,
+      "word": "加油站员工1秒切换灭火模式",
+      "onboard_time": 1740950591,
+      "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19420,
+      "num": 22548,
+      "word": "耐克配阿迪",
+      "onboard_time": 1740947291,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 19268,
@@ -3465,14 +3497,6 @@
       "onboard_time": 1740912859,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17939,
-      "num": 21299,
-      "word": "耐克配阿迪",
-      "onboard_time": 1740947291,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 17637,
@@ -3505,14 +3529,6 @@
       "onboard_time": 1740942671,
       "rank": 48,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 16112,
-      "num": 36939,
-      "word": "加油站员工1秒切换灭火模式",
-      "onboard_time": 1740950591,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15786,
@@ -3611,27 +3627,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 9178,
-      "num": 18657,
-      "word": "山东多地因暴雪停课",
-      "onboard_time": 1740949450,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 9025,
       "num": 27057,
       "word": "当3月第一天碰上龙抬头",
       "onboard_time": 1740867551,
       "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 8896,
-      "num": 69981,
-      "word": "内蒙古现绚烂红色极光",
-      "onboard_time": 1740953651,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -3641,6 +3641,14 @@
       "onboard_time": 1740856753,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 8685,
+      "num": 37858,
+      "word": "济南所有中小学停课一天",
+      "onboard_time": 1740948911,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 8535,
