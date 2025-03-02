@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740889577644,
+  "endTime": 1740890418680,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -347,6 +347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 897098,
+      "num": 1143535,
+      "word": "百万工资拖欠4年讨回后交税32万7",
+      "onboard_time": 1740886039,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 892712,
       "num": 451565,
       "word": "泽连斯基称自己不需要道歉",
@@ -448,14 +456,6 @@
       "word": "男子为办退休要挖512地震废墟",
       "onboard_time": 1740802698,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 719399,
-      "num": 1115103,
-      "word": "百万工资拖欠4年讨回后交税32万7",
-      "onboard_time": 1740886039,
-      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -716,7 +716,7 @@
     },
     {
       "raw_hot": 492844,
-      "num": 184040,
+      "num": 361086,
       "word": "精神医院里挤满了失眠的中老年女性",
       "onboard_time": 1740886279,
       "rank": 44,
@@ -867,8 +867,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 412427,
+      "num": 412427,
+      "word": "周深的同传堪比朱广权手语翻译",
+      "onboard_time": 1740887178,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 406130,
-      "num": 209145,
+      "num": 269011,
       "word": "董力上节目求婚只用了9朵玫瑰",
       "onboard_time": 1740885861,
       "rank": 21,
@@ -889,6 +897,14 @@
       "onboard_time": 1740835883,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 398108,
+      "num": 398108,
+      "word": "泽连斯基与斯塔默会面连说3次感谢",
+      "onboard_time": 1740888200,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 391556,
@@ -929,6 +945,14 @@
       "onboard_time": 1740796458,
       "rank": 24,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 375211,
+      "num": 375211,
+      "word": "张柏芝穿了珍珠新中式",
+      "onboard_time": 1740890118,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 373283,
@@ -1131,14 +1155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 306654,
-      "num": 306654,
-      "word": "泽连斯基与斯塔默会面连说3次感谢",
-      "onboard_time": 1740888200,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 303979,
       "num": 761462,
       "word": "两会是哪两个会",
@@ -1265,14 +1281,6 @@
       "onboard_time": 1740813089,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 290489,
-      "num": 290489,
-      "word": "周深的同传堪比朱广权手语翻译",
-      "onboard_time": 1740887178,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 289763,
@@ -1643,6 +1651,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 219391,
+      "num": 219391,
+      "word": "DeepSeek智搜评内娱十大国民级歌手",
+      "onboard_time": 1740887059,
+      "rank": 23,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 218693,
       "num": 315440,
       "word": "时代少年团 太原",
@@ -1779,6 +1795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206753,
+      "num": 206753,
+      "word": "库里扣篮",
+      "onboard_time": 1740889099,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206733,
       "num": 206733,
       "word": "EDGM回应无畏黑称事件",
@@ -1844,7 +1868,7 @@
     },
     {
       "raw_hot": 200595,
-      "num": 200595,
+      "num": 269087,
       "word": "吴宣仪卡琳娜贴贴",
       "onboard_time": 1740886759,
       "rank": 22,
@@ -2059,6 +2083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183249,
+      "num": 183249,
+      "word": "李嘉琦浪姐6路透撞色眼妆",
+      "onboard_time": 1740890118,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183147,
       "num": 131906,
       "word": "微信好霸道",
@@ -2217,14 +2249,6 @@
       "onboard_time": 1740818062,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 175500,
-      "num": 175500,
-      "word": "DeepSeek智搜评内娱十大国民级歌手",
-      "onboard_time": 1740887059,
-      "rank": 23,
-      "category": "艺人,互联网"
     },
     {
       "raw_hot": 175360,
@@ -2611,6 +2635,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 150996,
+      "num": 150996,
+      "word": "肖战粉丝G社生图",
+      "onboard_time": 1740888859,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 150579,
       "num": 150579,
       "word": "刘德华说向太打保龄球像走猫步",
@@ -2649,14 +2681,6 @@
       "onboard_time": 1740799277,
       "rank": 33,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 147823,
-      "num": 147823,
-      "word": "肖战粉丝G社生图",
-      "onboard_time": 1740888859,
-      "rank": 28,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 146987,
@@ -2731,6 +2755,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 141660,
+      "num": 366576,
+      "word": "男子16岁起每天1包烟32岁重度心梗",
+      "onboard_time": 1740887898,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141274,
       "num": 141274,
       "word": "这20部够再看10年了",
@@ -2769,6 +2801,14 @@
       "onboard_time": 1740778511,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 140233,
+      "num": 147494,
+      "word": "王鹤棣心态",
+      "onboard_time": 1740889639,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 139997,
@@ -2987,20 +3027,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 126449,
+      "num": 126449,
+      "word": "魔卡少女樱绝美耳饰",
+      "onboard_time": 1740886818,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 125739,
       "num": 125739,
       "word": "AG对战KLG",
       "onboard_time": 1740746839,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 124628,
-      "num": 124628,
-      "word": "库里扣篮",
-      "onboard_time": 1740889099,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 122940,
@@ -3387,12 +3427,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 97942,
-      "num": 97942,
-      "word": "魔卡少女樱绝美耳饰",
-      "onboard_time": 1740886818,
+      "raw_hot": 98082,
+      "num": 98082,
+      "word": "周日雷军也在工厂上班",
+      "onboard_time": 1740889820,
       "rank": 46,
-      "category": "动漫"
+      "category": "汽车"
     },
     {
       "raw_hot": 97919,
@@ -3443,14 +3483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95629,
-      "num": 131570,
-      "word": "男子16岁起每天1包烟32岁重度心梗",
-      "onboard_time": 1740887898,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 95248,
       "num": 106177,
       "word": "二月二龙抬头来赶场",
@@ -3489,6 +3521,14 @@
       "onboard_time": 1740746180,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 93186,
+      "num": 128388,
+      "word": "180天剧版好东西",
+      "onboard_time": 1740890238,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 92990,
