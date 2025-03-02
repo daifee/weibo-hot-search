@@ -1,0 +1,410 @@
+{
+  "runTime": 1740903997518,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1276936,
+        "num": 1276936,
+        "word": "金价",
+        "onboard_time": 1740899599,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1018586,
+        "num": 1018586,
+        "word": "白敬亭章若楠 耐克配阿迪",
+        "onboard_time": 1740902478,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11135,
+        "num": 693326,
+        "word": "在国之重器里看到奋斗的底气",
+        "onboard_time": 1740889399,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 488750,
+        "num": 488750,
+        "word": "迪丽热巴 电影女足",
+        "onboard_time": 1740892939,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 319980,
+        "num": 319980,
+        "word": "网购100只垃圾袋数完只有38只",
+        "onboard_time": 1740892098,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286238,
+        "num": 286238,
+        "word": "建议企业为全职妈妈设立妈妈岗",
+        "onboard_time": 1740898521,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232927,
+        "num": 232927,
+        "word": "章若楠在难哄看到何老师后哭了",
+        "onboard_time": 1740893359,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231949,
+        "num": 231949,
+        "word": "照镜辞开机",
+        "onboard_time": 1740902360,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229750,
+        "num": 229750,
+        "word": "济南真的下雪啦",
+        "onboard_time": 1740891260,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185161,
+        "num": 229548,
+        "word": "坏了让她能装一辈子了",
+        "onboard_time": 1740892098,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1042930,
+        "num": 228011,
+        "word": "周雨",
+        "onboard_time": 1740895339,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 893276,
+        "num": 226987,
+        "word": "周雨老婆回应",
+        "onboard_time": 1740900978,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 804609,
+        "num": 226733,
+        "word": "方大同遗体在云南大理火化",
+        "onboard_time": 1740893300,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372787,
+        "num": 225134,
+        "word": "男子想复婚利用保姆假戏真做被捅死",
+        "onboard_time": 1740881479,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44751,
+        "num": 224363,
+        "word": "普通人适合如何买金",
+        "onboard_time": 1740898819,
+        "rank": 14,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 367232,
+        "num": 223185,
+        "word": "宜宾地震",
+        "onboard_time": 1740897259,
+        "rank": 15,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 273719,
+        "num": 222190,
+        "word": "女子婚后发现老实丈夫很暴戾要离婚",
+        "onboard_time": 1740895100,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222081,
+        "num": 222081,
+        "word": "毛不易演唱会上缅怀方大同",
+        "onboard_time": 1740896600,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199037,
+        "num": 199037,
+        "word": "倪萍也吃瓜赵本山上不上春晚",
+        "onboard_time": 1740896360,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84756,
+        "num": 198450,
+        "word": "千元一克的一口价金饰成吐槽重灾区",
+        "onboard_time": 1740897080,
+        "rank": 19,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 57366,
+        "num": 197792,
+        "word": "两会是哪两个会",
+        "onboard_time": 1740879497,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 678144,
+        "num": 197170,
+        "word": "午睡超1小时心梗等风险将增加近3成",
+        "onboard_time": 1740899778,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 542527,
+        "num": 195657,
+        "word": "女子拔牙第3天嘴里散发腐臭味",
+        "onboard_time": 1740895580,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233585,
+        "num": 195306,
+        "word": "24岁女网红猫又又去世",
+        "onboard_time": 1740890600,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 222671,
+        "num": 193730,
+        "word": "猪被偷走3个月找回时胖了100斤",
+        "onboard_time": 1740897199,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193505,
+        "num": 193505,
+        "word": "景甜扇巴掌戏自己示范扇自己",
+        "onboard_time": 1740899719,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189625,
+        "num": 189625,
+        "word": "哪吒2票房破144亿",
+        "onboard_time": 1740893719,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 181174,
+        "num": 181174,
+        "word": "山东最大积雪深度已达8厘米",
+        "onboard_time": 1740903319,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171434,
+        "num": 171434,
+        "word": "陈赫嫌弃徐志胜的表情不像演的",
+        "onboard_time": 1740891080,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106291,
+        "num": 163517,
+        "word": "祁煜一直游到海水变粉",
+        "onboard_time": 1740903077,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161165,
+        "num": 161165,
+        "word": "研究生宿舍生活能有多快乐",
+        "onboard_time": 1740899238,
+        "rank": 30,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 159961,
+        "num": 159961,
+        "word": "TFBOYS和五禽戏联动了",
+        "onboard_time": 1740903559,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155653,
+        "num": 155653,
+        "word": "开年现偶大判官",
+        "onboard_time": 1740902659,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149839,
+        "num": 149839,
+        "word": "初步举证",
+        "onboard_time": 1740900739,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145663,
+        "num": 145663,
+        "word": "迪丽热巴在广东穿短袖",
+        "onboard_time": 1740898579,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144596,
+        "num": 144596,
+        "word": "麦琳生娃前与生娃后",
+        "onboard_time": 1740899840,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140456,
+        "num": 140456,
+        "word": "蒋欣不知道先吃哪个",
+        "onboard_time": 1740900918,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129404,
+        "num": 129404,
+        "word": "孟子义大侦探录制上班路透",
+        "onboard_time": 1740895940,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127507,
+        "num": 127507,
+        "word": "中央气象台一早发5个预警",
+        "onboard_time": 1740874338,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119420,
+        "num": 119420,
+        "word": "男子16岁起每天1包烟32岁重度心梗",
+        "onboard_time": 1740887898,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112160,
+        "num": 112160,
+        "word": "陈都灵老年妆",
+        "onboard_time": 1740896239,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110234,
+        "num": 110234,
+        "word": "陈牧驰健身不语只是一味硬撑",
+        "onboard_time": 1740902839,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110051,
+        "num": 110051,
+        "word": "夏以昼狐狸警官",
+        "onboard_time": 1740902119,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109417,
+        "num": 109417,
+        "word": "董力上节目求婚只用了9朵玫瑰",
+        "onboard_time": 1740885861,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106270,
+        "num": 106270,
+        "word": "难哄",
+        "onboard_time": 1740890719,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103830,
+        "num": 103830,
+        "word": "大侦探",
+        "onboard_time": 1740896600,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103313,
+        "num": 103313,
+        "word": "减脂期应该多吃的10种碱性食物",
+        "onboard_time": 1740903918,
+        "rank": 46,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 101641,
+        "num": 101641,
+        "word": "欧盟怒批特朗普",
+        "onboard_time": 1740884059,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101277,
+        "num": 101277,
+        "word": "山东多地降下鹅毛大雪",
+        "onboard_time": 1740903799,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97544,
+        "num": 97544,
+        "word": "张柏芝穿了珍珠新中式",
+        "onboard_time": 1740890118,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#三个事关彰显平安中国重大意义#"
+    }
+  }
+}

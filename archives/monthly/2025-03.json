@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740900941032,
+  "endTime": 1740903997518,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -227,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1276936,
+      "num": 1276936,
+      "word": "金价",
+      "onboard_time": 1740899599,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1257225,
       "num": 395284,
       "word": "贾静雯女儿是方大同童书粉",
@@ -355,6 +363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1018586,
+      "num": 1018586,
+      "word": "白敬亭章若楠 耐克配阿迪",
+      "onboard_time": 1740902478,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 993726,
       "num": 1612228,
       "word": "女子炒黄金被暴涨的利润吓得报警",
@@ -401,6 +417,14 @@
       "onboard_time": 1740886039,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 893276,
+      "num": 226987,
+      "word": "周雨老婆回应",
+      "onboard_time": 1740900978,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 892712,
@@ -537,6 +561,14 @@
       "onboard_time": 1740871695,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 678144,
+      "num": 206452,
+      "word": "午睡超1小时心梗等风险将增加近3成",
+      "onboard_time": 1740899778,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 673139,
@@ -1419,14 +1451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 291418,
-      "num": 291418,
-      "word": "金价",
-      "onboard_time": 1740899599,
-      "rank": 40,
-      "category": "财经"
-    },
-    {
       "raw_hot": 291242,
       "num": 291242,
       "word": "钟楚曦新剧短发造型",
@@ -1739,6 +1763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231949,
+      "num": 231949,
+      "word": "照镜辞开机",
+      "onboard_time": 1740902360,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 231838,
       "num": 231838,
       "word": "85岁母亲思念女儿泣诉我欠你啊",
@@ -1780,7 +1812,7 @@
     },
     {
       "raw_hot": 226988,
-      "num": 226988,
+      "num": 229548,
       "word": "坏了让她能装一辈子了",
       "onboard_time": 1740892098,
       "rank": 31,
@@ -1921,14 +1953,6 @@
       "onboard_time": 1740831802,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 214578,
-      "num": 206452,
-      "word": "午睡超1小时心梗等风险将增加近3成",
-      "onboard_time": 1740899778,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 214222,
@@ -2451,6 +2475,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 181174,
+      "num": 181174,
+      "word": "山东最大积雪深度已达8厘米",
+      "onboard_time": 1740903319,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180951,
       "num": 180951,
       "word": "杨紫仙紫妆",
@@ -2883,6 +2915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159961,
+      "num": 159961,
+      "word": "TFBOYS和五禽戏联动了",
+      "onboard_time": 1740903559,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158951,
       "num": 158951,
       "word": "爱你的编剧是真上过班",
@@ -2953,6 +2993,14 @@
       "onboard_time": 1740820283,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155653,
+      "num": 155653,
+      "word": "开年现偶大判官",
+      "onboard_time": 1740902659,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 155614,
@@ -3041,6 +3089,14 @@
       "onboard_time": 1740881298,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 149839,
+      "num": 149839,
+      "word": "初步举证",
+      "onboard_time": 1740900739,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 148884,
@@ -3201,6 +3257,14 @@
       "onboard_time": 1740778511,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 140456,
+      "num": 140456,
+      "word": "蒋欣不知道先吃哪个",
+      "onboard_time": 1740900918,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 139997,
@@ -3675,6 +3739,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110234,
+      "num": 110234,
+      "word": "陈牧驰健身不语只是一味硬撑",
+      "onboard_time": 1740902839,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 110051,
+      "num": 110051,
+      "word": "夏以昼狐狸警官",
+      "onboard_time": 1740902119,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 109716,
       "num": 109716,
       "word": "美乌未签矿产协议",
@@ -3697,14 +3777,6 @@
       "onboard_time": 1740756559,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 108081,
-      "num": 108081,
-      "word": "初步举证",
-      "onboard_time": 1740900739,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 107652,
@@ -3737,6 +3809,14 @@
       "onboard_time": 1740817945,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106291,
+      "num": 163517,
+      "word": "祁煜一直游到海水变粉",
+      "onboard_time": 1740903077,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 106267,
@@ -3835,6 +3915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103313,
+      "num": 103313,
+      "word": "减脂期应该多吃的10种碱性食物",
+      "onboard_time": 1740903918,
+      "rank": 46,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 103160,
       "num": 103160,
       "word": "刘浩存广告词 既要又要凭什么不可以",
@@ -3873,6 +3961,14 @@
       "onboard_time": 1740812490,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 101277,
+      "num": 101277,
+      "word": "山东多地降下鹅毛大雪",
+      "onboard_time": 1740903799,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99546,
@@ -4001,14 +4097,6 @@
       "onboard_time": 1740752240,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94626,
-      "num": 94626,
-      "word": "蒋欣不知道先吃哪个",
-      "onboard_time": 1740900918,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 94128,
@@ -4619,6 +4707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 44751,
+      "num": 224363,
+      "word": "普通人适合如何买金",
+      "onboard_time": 1740898819,
+      "rank": 14,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 44327,
       "num": 137183,
       "word": "恩比德赛季报销",
@@ -5179,6 +5275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 11135,
+      "num": 693326,
+      "word": "在国之重器里看到奋斗的底气",
+      "onboard_time": 1740889399,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 11025,
       "num": 41471,
       "word": "专家解答七星连珠真的罕见吗",
@@ -5233,14 +5337,6 @@
       "onboard_time": 1740864851,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 7207,
-      "num": 386058,
-      "word": "在国之重器里看到奋斗的底气",
-      "onboard_time": 1740889399,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 6085,
