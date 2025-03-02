@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1740946995483,
+  "endTime": 1740947774291,
   "band_list": [
     {
       "raw_hot": 3194275,
@@ -2811,8 +2811,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 87232,
-      "num": 87232,
+      "raw_hot": 87355,
+      "num": 87355,
       "word": "俄乌冲突3年离和平还有多远",
       "onboard_time": 1740940091,
       "rank": 30,
@@ -3443,6 +3443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18384,
+      "num": 29176,
+      "word": "饲养员缝缝补补坏蛋逆天改命",
+      "onboard_time": 1740946630,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17637,
       "num": 43065,
       "word": "樊振东合唱壮志骄阳",
@@ -3473,6 +3481,14 @@
       "onboard_time": 1740942671,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 16247,
+      "num": 16247,
+      "word": "耐克配阿迪",
+      "onboard_time": 1740947291,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 15786,
@@ -3545,14 +3561,6 @@
       "onboard_time": 1740946271,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 11014,
-      "num": 23310,
-      "word": "饲养员缝缝补补坏蛋逆天改命",
-      "onboard_time": 1740946630,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 9945,

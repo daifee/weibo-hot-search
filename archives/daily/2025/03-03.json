@@ -1,6 +1,6 @@
 {
   "startTime": 1740932816657,
-  "endTime": 1740946995483,
+  "endTime": 1740947774291,
   "band_list": [
     {
       "raw_hot": 1454288,
@@ -371,8 +371,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 87232,
-      "num": 87232,
+      "raw_hot": 87355,
+      "num": 87355,
       "word": "俄乌冲突3年离和平还有多远",
       "onboard_time": 1740940091,
       "rank": 30,
@@ -539,6 +539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 18384,
+      "num": 29176,
+      "word": "饲养员缝缝补补坏蛋逆天改命",
+      "onboard_time": 1740946630,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17374,
       "num": 38618,
       "word": "哈马斯称以色列试图让谈判退回原点",
@@ -555,6 +563,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 16247,
+      "num": 16247,
+      "word": "耐克配阿迪",
+      "onboard_time": 1740947291,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 12049,
       "num": 85784,
       "word": "于嘉全明星开场祝福郭艾伦",
@@ -569,14 +585,6 @@
       "onboard_time": 1740946271,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 11014,
-      "num": 23310,
-      "word": "饲养员缝缝补补坏蛋逆天改命",
-      "onboard_time": 1740946630,
-      "rank": 16,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

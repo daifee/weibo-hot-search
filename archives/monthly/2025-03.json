@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740946995483,
+  "endTime": 1740947774291,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -5491,20 +5491,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87355,
+      "num": 87355,
+      "word": "俄乌冲突3年离和平还有多远",
+      "onboard_time": 1740940091,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 87251,
       "num": 116542,
       "word": "爱人如养花含金量还在上升",
       "onboard_time": 1740825502,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 87232,
-      "num": 87232,
-      "word": "俄乌冲突3年离和平还有多远",
-      "onboard_time": 1740940091,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 87109,
@@ -6595,6 +6595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18384,
+      "num": 29176,
+      "word": "饲养员缝缝补补坏蛋逆天改命",
+      "onboard_time": 1740946630,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18262,
       "num": 21003,
       "word": "苏新皓彩排花絮反差感",
@@ -6633,6 +6641,14 @@
       "onboard_time": 1740942671,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 16247,
+      "num": 16247,
+      "word": "耐克配阿迪",
+      "onboard_time": 1740947291,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 16245,
@@ -6760,14 +6776,6 @@
       "word": "专家解答七星连珠真的罕见吗",
       "onboard_time": 1740773891,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11014,
-      "num": 23310,
-      "word": "饲养员缝缝补补坏蛋逆天改命",
-      "onboard_time": 1740946630,
-      "rank": 16,
       "category": "民生新闻"
     },
     {
