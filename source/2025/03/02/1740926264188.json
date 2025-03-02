@@ -1,0 +1,410 @@
+{
+  "runTime": 1740926264188,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1369265,
+        "num": 1369265,
+        "word": "徐若晗好漂亮",
+        "onboard_time": 1740920601,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1201606,
+        "num": 1201606,
+        "word": "母亲被撞身亡46万赔偿拖欠2年",
+        "onboard_time": 1740923360,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89482,
+        "num": 1150359,
+        "word": "中国制造硬核出圈",
+        "onboard_time": 1740923120,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1124451,
+        "num": 1124451,
+        "word": "张凌赫的吻戏 荷尔蒙大爆发",
+        "onboard_time": 1740920720,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 925079,
+        "num": 925079,
+        "word": "高铁晚点",
+        "onboard_time": 1740919819,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 726218,
+        "num": 726218,
+        "word": "济南因暴雪停课",
+        "onboard_time": 1740911059,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 882380,
+        "num": 715051,
+        "word": "滤镜15集37分01秒",
+        "onboard_time": 1740921739,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 649198,
+        "num": 649198,
+        "word": "爱你 60场吻戏",
+        "onboard_time": 1740924081,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 611098,
+        "num": 611098,
+        "word": "这次山东等地暴雪并不异常",
+        "onboard_time": 1740920480,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99658,
+        "num": 589581,
+        "word": "保险公司拒赔46万跑路成老赖",
+        "onboard_time": 1740925460,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 827007,
+        "num": 582963,
+        "word": "今年已有13位演艺界名人逝世",
+        "onboard_time": 1740904699,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 779892,
+        "num": 559926,
+        "word": "张若昀唐艺昕带女儿踩水",
+        "onboard_time": 1740916460,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 653973,
+        "num": 545085,
+        "word": "戚薇眼睛",
+        "onboard_time": 1740925941,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 523628,
+        "num": 523628,
+        "word": "雷军刚知道柯洁定了SU7Ultra",
+        "onboard_time": 1740910819,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 434629,
+        "num": 434629,
+        "word": "代表建议个税起征点提高至10万元",
+        "onboard_time": 1740923360,
+        "rank": 14,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 404105,
+        "num": 404105,
+        "word": "我不能坐着 我怕我会漏",
+        "onboard_time": 1740912380,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 364456,
+        "num": 364456,
+        "word": "周末总瘫在床上是心力弱的表现",
+        "onboard_time": 1740910940,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 333327,
+        "num": 333327,
+        "word": "出轨的未婚夫强势的奶奶顽强的她",
+        "onboard_time": 1740921980,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102067,
+        "num": 330210,
+        "word": "Ella给儿子剪头发",
+        "onboard_time": 1740924981,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36110,
+        "num": 330118,
+        "word": "北美版相亲大师",
+        "onboard_time": 1740925582,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 587570,
+        "num": 325612,
+        "word": "颜如晶暴瘦60斤后现身重庆马拉松",
+        "onboard_time": 1740918440,
+        "rank": 20,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 474544,
+        "num": 321162,
+        "word": "三部大男主剧四月对打",
+        "onboard_time": 1740924860,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320593,
+        "num": 320593,
+        "word": "广东紧急撤回一个夏天",
+        "onboard_time": 1740922820,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314831,
+        "num": 314831,
+        "word": "医院偶遇冉莹颖带儿子打生长激素",
+        "onboard_time": 1740916760,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276961,
+        "num": 276961,
+        "word": "金价未来是涨还是跌",
+        "onboard_time": 1740919399,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 259644,
+        "num": 259644,
+        "word": "王楚钦央视体测画面好笑程度",
+        "onboard_time": 1740923120,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257216,
+        "num": 257216,
+        "word": "白敬亭章若楠穿搭 ins情侣博主",
+        "onboard_time": 1740917780,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228277,
+        "num": 228277,
+        "word": "网传张艺兴出演女足",
+        "onboard_time": 1740926000,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121073,
+        "num": 212688,
+        "word": "曾凡博扣爽了",
+        "onboard_time": 1740925102,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209523,
+        "num": 209523,
+        "word": "李一桐李昀锐 我欲乘风",
+        "onboard_time": 1740919279,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206751,
+        "num": 206751,
+        "word": "权志龙把柳智敏比作光",
+        "onboard_time": 1740922939,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204654,
+        "num": 204654,
+        "word": "KPL",
+        "onboard_time": 1740925102,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 204598,
+        "num": 204598,
+        "word": "摄影师摔倒压到4个月宝宝",
+        "onboard_time": 1740905299,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147710,
+        "num": 201780,
+        "word": "29块9买50斤米收货只有50克",
+        "onboard_time": 1740924440,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200341,
+        "num": 200341,
+        "word": "济南气温满20减19",
+        "onboard_time": 1740905299,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87912,
+        "num": 197749,
+        "word": "雷军诚邀56E用户体验SU7Ultra",
+        "onboard_time": 1740922399,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 195697,
+        "num": 195697,
+        "word": "金靖月鳞绮纪出妆",
+        "onboard_time": 1740925700,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188124,
+        "num": 188124,
+        "word": "国际金价跌至近3周以来最低点",
+        "onboard_time": 1740919761,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 182018,
+        "num": 182018,
+        "word": "唐奇有孩子",
+        "onboard_time": 1740913640,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172497,
+        "num": 172497,
+        "word": "你叫全胜唐 我还射丰隆呢",
+        "onboard_time": 1740925221,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169922,
+        "num": 169922,
+        "word": "方大同遗体在云南大理火化",
+        "onboard_time": 1740893300,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168810,
+        "num": 168810,
+        "word": "唐嫣恭喜张杰",
+        "onboard_time": 1740913879,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 166366,
+        "num": 166366,
+        "word": "一诺天秀公孙离",
+        "onboard_time": 1740924740,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 163726,
+        "num": 163726,
+        "word": "代表建议个税起征点提高至10万",
+        "onboard_time": 1740925281,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152558,
+        "num": 152558,
+        "word": "白敬亭章若楠 耐克配阿迪",
+        "onboard_time": 1740902478,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146731,
+        "num": 146731,
+        "word": "WB a组",
+        "onboard_time": 1740926059,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145470,
+        "num": 145470,
+        "word": "一诺达成3100击杀",
+        "onboard_time": 1740925221,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145250,
+        "num": 145250,
+        "word": "毕业生档案严禁个人保管携带",
+        "onboard_time": 1740910640,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142573,
+        "num": 142573,
+        "word": "乌克兰",
+        "onboard_time": 1740919160,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142098,
+        "num": 142098,
+        "word": "机器狗在泰山入职了",
+        "onboard_time": 1740923660,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同志关心推动民营经济发展纪实#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740925249112,
+  "endTime": 1740926264188,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 2236828,
-      "num": 478995,
+      "num": 582963,
       "word": "今年已有13位演艺界名人逝世",
       "onboard_time": 1740904699,
       "rank": 45,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 1590394,
-      "num": 476347,
+      "num": 559926,
       "word": "张若昀唐艺昕带女儿踩水",
       "onboard_time": 1740916460,
       "rank": 10,
@@ -339,6 +339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1201606,
+      "num": 1201606,
+      "word": "母亲被撞身亡46万赔偿拖欠2年",
+      "onboard_time": 1740923360,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1190298,
       "num": 1179138,
       "word": "张凌赫的吻戏 荷尔蒙大爆发",
@@ -443,14 +451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1020925,
-      "num": 1020925,
-      "word": "母亲被撞身亡46万赔偿拖欠2年",
-      "onboard_time": 1740923360,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 993726,
       "num": 1612228,
       "word": "女子炒黄金被暴涨的利润吓得报警",
@@ -523,6 +523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 882380,
+      "num": 792407,
+      "word": "滤镜15集37分01秒",
+      "onboard_time": 1740921739,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 876155,
       "num": 876155,
       "word": "毕业生档案严禁个人保管携带",
@@ -537,14 +545,6 @@
       "onboard_time": 1740870913,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 854894,
-      "num": 792407,
-      "word": "滤镜15集37分01秒",
-      "onboard_time": 1740921739,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 850680,
@@ -737,6 +737,22 @@
       "onboard_time": 1740750979,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 653973,
+      "num": 545085,
+      "word": "戚薇眼睛",
+      "onboard_time": 1740925941,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 649198,
+      "num": 649198,
+      "word": "爱你 60场吻戏",
+      "onboard_time": 1740924081,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 638241,
@@ -1131,6 +1147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 474544,
+      "num": 321162,
+      "word": "三部大男主剧四月对打",
+      "onboard_time": 1740924860,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 472287,
       "num": 472287,
       "word": "银行回应卧床老人被推到银行取钱",
@@ -1187,14 +1211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 452157,
-      "num": 452157,
-      "word": "爱你 60场吻戏",
-      "onboard_time": 1740924081,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 450099,
       "num": 301637,
       "word": "RIP",
@@ -1217,6 +1233,14 @@
       "onboard_time": 1740807763,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 434629,
+      "num": 434629,
+      "word": "代表建议个税起征点提高至10万元",
+      "onboard_time": 1740923360,
+      "rank": 22,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 433255,
@@ -1603,14 +1627,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 323934,
-      "num": 323934,
-      "word": "代表建议个税起征点提高至10万元",
-      "onboard_time": 1740923360,
-      "rank": 22,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 322124,
       "num": 322124,
       "word": "JackeyLove荣获决赛FMVP",
@@ -1633,6 +1649,14 @@
       "onboard_time": 1740842484,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 320593,
+      "num": 490632,
+      "word": "广东紧急撤回一个夏天",
+      "onboard_time": 1740922820,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 314970,
@@ -1681,14 +1705,6 @@
       "onboard_time": 1740790877,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 299996,
-      "num": 299996,
-      "word": "三部大男主剧四月对打",
-      "onboard_time": 1740924860,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 299588,
@@ -2139,14 +2155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 237142,
-      "num": 490632,
-      "word": "广东紧急撤回一个夏天",
-      "onboard_time": 1740922820,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 236849,
       "num": 248006,
       "word": "开年现偶大判官",
@@ -2265,6 +2273,14 @@
       "onboard_time": 1740827961,
       "rank": 18,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 228277,
+      "num": 228277,
+      "word": "网传张艺兴出演女足",
+      "onboard_time": 1740926000,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 227130,
@@ -2835,6 +2851,14 @@
       "category": "剧集,综艺"
     },
     {
+      "raw_hot": 195697,
+      "num": 195697,
+      "word": "金靖月鳞绮纪出妆",
+      "onboard_time": 1740925700,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195081,
       "num": 195081,
       "word": "被压在山下的猴子不只有孙悟空",
@@ -3307,6 +3331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172497,
+      "num": 172497,
+      "word": "你叫全胜唐 我还射丰隆呢",
+      "onboard_time": 1740925221,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171388,
       "num": 235912,
       "word": "赵丽颖美好的生活里",
@@ -3505,6 +3537,14 @@
       "onboard_time": 1740838286,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 163726,
+      "num": 163726,
+      "word": "代表建议个税起征点提高至10万",
+      "onboard_time": 1740925281,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163673,
@@ -3811,14 +3851,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 149334,
-      "num": 149334,
-      "word": "你叫全胜唐 我还射丰隆呢",
-      "onboard_time": 1740925221,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 148884,
       "num": 148884,
       "word": "长沙富裕家庭达1.74万户",
@@ -3851,6 +3883,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 147710,
+      "num": 237736,
+      "word": "29块9买50斤米收货只有50克",
+      "onboard_time": 1740924440,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147662,
       "num": 147662,
       "word": "一诺达成3100击杀",
@@ -3873,6 +3913,14 @@
       "onboard_time": 1740922041,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 146731,
+      "num": 146731,
+      "word": "WB a组",
+      "onboard_time": 1740926059,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 146460,
@@ -4419,14 +4467,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 121684,
-      "num": 237736,
-      "word": "29块9买50斤米收货只有50克",
-      "onboard_time": 1740924440,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 121481,
       "num": 159034,
       "word": "罗大美案三嫌疑人互相道歉",
@@ -4907,6 +4947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102067,
+      "num": 346621,
+      "word": "Ella给儿子剪头发",
+      "onboard_time": 1740924981,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101768,
       "num": 101768,
       "word": "周也空气齐刘海",
@@ -4929,6 +4977,14 @@
       "onboard_time": 1740905720,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99658,
+      "num": 589581,
+      "word": "保险公司拒赔46万跑路成老赖",
+      "onboard_time": 1740925460,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99546,
@@ -5171,6 +5227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89482,
+      "num": 1150359,
+      "word": "中国制造硬核出圈",
+      "onboard_time": 1740923120,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 89128,
       "num": 89128,
       "word": "电视剧蝉开机",
@@ -5403,14 +5467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 76263,
-      "num": 1039503,
-      "word": "中国制造硬核出圈",
-      "onboard_time": 1740923120,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 76250,
       "num": 94454,
       "word": "于适说会一直向前跑不回头",
@@ -5585,14 +5641,6 @@
       "onboard_time": 1740870733,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 61880,
-      "num": 346621,
-      "word": "Ella给儿子剪头发",
-      "onboard_time": 1740924981,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 59489,
@@ -5889,6 +5937,14 @@
       "onboard_time": 1740832583,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 36110,
+      "num": 330118,
+      "word": "北美版相亲大师",
+      "onboard_time": 1740925582,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 35743,
