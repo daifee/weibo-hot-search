@@ -1,0 +1,410 @@
+{
+  "runTime": 1740893004944,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 950085,
+        "num": 1152013,
+        "word": "张柏芝穿了珍珠新中式",
+        "onboard_time": 1740890118,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 576070,
+        "num": 576070,
+        "word": "百万工资拖欠4年讨回后交税32万7",
+        "onboard_time": 1740886039,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165728,
+        "num": 560911,
+        "word": "两会是哪两个会",
+        "onboard_time": 1740879497,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 549645,
+        "num": 549645,
+        "word": "王鹤棣心态",
+        "onboard_time": 1740889639,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 487679,
+        "num": 487679,
+        "word": "泽连斯基与斯塔默会面连说3次感谢",
+        "onboard_time": 1740888200,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 382911,
+        "num": 382911,
+        "word": "中央气象台一早发5个预警",
+        "onboard_time": 1740874338,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 520688,
+        "num": 381200,
+        "word": "难哄",
+        "onboard_time": 1740890719,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 508017,
+        "num": 380433,
+        "word": "周深的同传堪比朱广权手语翻译",
+        "onboard_time": 1740887178,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 374460,
+        "num": 374460,
+        "word": "欧盟怒批特朗普",
+        "onboard_time": 1740884059,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 355471,
+        "num": 355471,
+        "word": "济南真的下雪啦",
+        "onboard_time": 1740891260,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 788275,
+        "num": 354883,
+        "word": "男子想复婚利用保姆假戏真做被捅死",
+        "onboard_time": 1740881479,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 599300,
+        "num": 353767,
+        "word": "贾静雯女儿是方大同童书粉",
+        "onboard_time": 1740885439,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 581734,
+        "num": 352478,
+        "word": "精神医院里挤满了失眠的中老年女性",
+        "onboard_time": 1740886279,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 560511,
+        "num": 350629,
+        "word": "美官员称乌团队几乎都哭了",
+        "onboard_time": 1740880758,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 90722,
+        "num": 349824,
+        "word": "杭州温度满30减20",
+        "onboard_time": 1740891320,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 455627,
+        "num": 348568,
+        "word": "女子欲取17万给梁朝伟订酒店被劝下",
+        "onboard_time": 1740882978,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 347668,
+        "num": 347668,
+        "word": "英乌签署22.6亿英镑贷款协议",
+        "onboard_time": 1740870913,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 335929,
+        "num": 335929,
+        "word": "山东天气也太抽象了",
+        "onboard_time": 1740874876,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210470,
+        "num": 260306,
+        "word": "辛雨锡发肖战早期简历",
+        "onboard_time": 1740871695,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198971,
+        "num": 259332,
+        "word": "前TVB演员回应跑网约车",
+        "onboard_time": 1740885079,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 555019,
+        "num": 259245,
+        "word": "24岁女网红猫又又去世",
+        "onboard_time": 1740890600,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 258934,
+        "num": 258934,
+        "word": "陈赫嫌弃徐志胜的表情不像演的",
+        "onboard_time": 1740891080,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232576,
+        "num": 232576,
+        "word": "董力上节目求婚只用了9朵玫瑰",
+        "onboard_time": 1740885861,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224932,
+        "num": 224932,
+        "word": "希望所有高铁行李架都改成这样",
+        "onboard_time": 1740890600,
+        "rank": 23,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 219128,
+        "num": 219128,
+        "word": "网购100只垃圾袋数完只有38只",
+        "onboard_time": 1740892098,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198363,
+        "num": 198363,
+        "word": "赤水丰隆1年后回来复仇了",
+        "onboard_time": 1740892098,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71850,
+        "num": 194555,
+        "word": "全红婵营业状态好可爱",
+        "onboard_time": 1740891797,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192153,
+        "num": 192153,
+        "word": "DeepSeek智搜评内娱十大国民级歌手",
+        "onboard_time": 1740887059,
+        "rank": 27,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 187907,
+        "num": 187907,
+        "word": "古装剧终于有支持女儿不结婚的父亲",
+        "onboard_time": 1740892098,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162981,
+        "num": 184866,
+        "word": "过生日的是张云龙吃上饭的是我",
+        "onboard_time": 1740892039,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 183721,
+        "num": 183721,
+        "word": "男子16岁起每天1包烟32岁重度心梗",
+        "onboard_time": 1740887898,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179166,
+        "num": 179166,
+        "word": "坏了让她能装一辈子了",
+        "onboard_time": 1740892098,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168149,
+        "num": 168149,
+        "word": "李嘉琦浪姐6路透撞色眼妆",
+        "onboard_time": 1740890118,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164089,
+        "num": 164089,
+        "word": "库里扣篮",
+        "onboard_time": 1740889099,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161055,
+        "num": 161055,
+        "word": "辛芷蕾终于演上喜剧了",
+        "onboard_time": 1740886340,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148165,
+        "num": 148165,
+        "word": "谁懂这两个名字出现在大屏幕的感觉",
+        "onboard_time": 1740892459,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 85638,
+        "num": 137026,
+        "word": "中央气象台再发3个预警",
+        "onboard_time": 1740892159,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132258,
+        "num": 132258,
+        "word": "粉笔模考",
+        "onboard_time": 1740886279,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 131917,
+        "num": 131917,
+        "word": "2元和200元的钙片到底有什么区别",
+        "onboard_time": 1740891499,
+        "rank": 38,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 126759,
+        "num": 126759,
+        "word": "肖战粉丝G社生图",
+        "onboard_time": 1740888859,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 125600,
+        "num": 125600,
+        "word": "张馨予晒元宝头造型",
+        "onboard_time": 1740892638,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123266,
+        "num": 123266,
+        "word": "外媒很难再妖魔化中国",
+        "onboard_time": 1740885439,
+        "rank": 41,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 121207,
+        "num": 121207,
+        "word": "冯远征招生最痛苦的是演员说不清台词",
+        "onboard_time": 1740880639,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119848,
+        "num": 119848,
+        "word": "当你的男朋友看了难哄",
+        "onboard_time": 1740892879,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119398,
+        "num": 119398,
+        "word": "为什么周末要做和平时反差大的事",
+        "onboard_time": 1740891260,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117460,
+        "num": 117460,
+        "word": "下雪",
+        "onboard_time": 1740892759,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114199,
+        "num": 114199,
+        "word": "迪丽热巴 电影女足",
+        "onboard_time": 1740892939,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113435,
+        "num": 113435,
+        "word": "妈妈生气踢孩子两脚后被写进记仇本",
+        "onboard_time": 1740879497,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111216,
+        "num": 111216,
+        "word": "宋威龙小说男主在雪山",
+        "onboard_time": 1740888079,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108178,
+        "num": 108178,
+        "word": "吴宣仪卡琳娜贴贴",
+        "onboard_time": 1740886759,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平讲述这个电影片段#"
+    }
+  }
+}
