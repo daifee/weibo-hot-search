@@ -1,6 +1,6 @@
 {
   "startTime": 1740932816657,
-  "endTime": 1740937044408,
+  "endTime": 1740940197183,
   "band_list": [
     {
       "raw_hot": 1454288,
@@ -403,6 +403,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 77701,
+      "num": 77701,
+      "word": "挪威公司断供美军燃料",
+      "onboard_time": 1740937693,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 68910,
       "num": 150016,
       "word": "机器狗背着重物嗖嗖爬泰山",
@@ -427,6 +435,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 48080,
+      "num": 43239,
+      "word": "方大同悼念仪式手卡上留下最后的话",
+      "onboard_time": 1740937633,
+      "rank": 22,
+      "category": "艺人,电影"
+    },
+    {
+      "raw_hot": 46018,
+      "num": 46018,
+      "word": "外贸订单UP",
+      "onboard_time": 1740938892,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38468,
       "num": 38468,
       "word": "摄影师摔倒压到4个月宝宝",
@@ -443,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28890,
+      "num": 28890,
+      "word": "山东发暴雪橙色预警",
+      "onboard_time": 1740907399,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24914,
       "num": 95223,
       "word": "看准了先起步再调整",
@@ -451,12 +483,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24402,
+      "num": 27317,
+      "word": "2025LPL",
+      "onboard_time": 1740939613,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 22626,
+      "num": 42373,
+      "word": "Steam在线人数突破4000万",
+      "onboard_time": 1740939791,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 18564,
       "num": 81983,
       "word": "WB a组",
       "onboard_time": 1740926059,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 16714,
+      "num": 37351,
+      "word": "俄乌冲突3年离和平还有多远",
+      "onboard_time": 1740940091,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 12049,
@@ -470,6 +526,9 @@
   "hotgov_list": [
     {
       "word": "#习近平同志关心推动民营经济发展纪实#"
+    },
+    {
+      "word": "#总书记对年轻干部提出这些要求#"
     }
   ]
 }
