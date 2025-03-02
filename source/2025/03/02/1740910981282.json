@@ -1,0 +1,410 @@
+{
+  "runTime": 1740910981282,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 930214,
+        "num": 1148834,
+        "word": "白敬亭章若楠 耐克配阿迪",
+        "onboard_time": 1740902478,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 714698,
+        "num": 714698,
+        "word": "蒋胜男建议删除离婚冷静期条款",
+        "onboard_time": 1740908959,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27172,
+        "num": 686194,
+        "word": "中国信心是怎样炼成的",
+        "onboard_time": 1740908839,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 660526,
+        "num": 660526,
+        "word": "郑云龙钟楚曦能不能也摸摸我的头",
+        "onboard_time": 1740907819,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 641035,
+        "num": 641035,
+        "word": "金价",
+        "onboard_time": 1740899599,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 559407,
+        "num": 559407,
+        "word": "特朗普政府希望泽连斯基公开道歉",
+        "onboard_time": 1740907040,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 530460,
+        "num": 530460,
+        "word": "山东最大积雪深度已达8厘米",
+        "onboard_time": 1740903319,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 498093,
+        "num": 498093,
+        "word": "山东发暴雪橙色预警",
+        "onboard_time": 1740907399,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 478759,
+        "num": 478759,
+        "word": "雷军仿妆",
+        "onboard_time": 1740904758,
+        "rank": 8,
+        "category": "美妆,互联网"
+      },
+      {
+        "raw_hot": 262086,
+        "num": 445648,
+        "word": "马斯克赞成美国退出联合国和北约",
+        "onboard_time": 1740907099,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1694189,
+        "num": 445641,
+        "word": "今年已有13位演艺界名人逝世",
+        "onboard_time": 1740904699,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428623,
+        "num": 428623,
+        "word": "方大同遗体在云南大理火化",
+        "onboard_time": 1740893300,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416376,
+        "num": 416376,
+        "word": "银行回应卧床老人被推到银行取钱",
+        "onboard_time": 1740908299,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 387542,
+        "num": 387542,
+        "word": "济南气温满20减19",
+        "onboard_time": 1740905299,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29684,
+        "num": 374963,
+        "word": "英首相曾试图说服泽连斯基返回白宫",
+        "onboard_time": 1740910458,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 374514,
+        "num": 374514,
+        "word": "井柏然 今天健身房只有我一个人努力",
+        "onboard_time": 1740909859,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328992,
+        "num": 328992,
+        "word": "济南暴雪机场路拥堵2小时走十几公里",
+        "onboard_time": 1740908239,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280917,
+        "num": 328705,
+        "word": "迪丽热巴 电影女足",
+        "onboard_time": 1740892939,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 257886,
+        "num": 324860,
+        "word": "以延为定",
+        "onboard_time": 1740907219,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254377,
+        "num": 322862,
+        "word": "王俊凯仿佛认为自己是老年人",
+        "onboard_time": 1740905119,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464556,
+        "num": 321235,
+        "word": "摄影师摔倒压到4个月宝宝",
+        "onboard_time": 1740905299,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337439,
+        "num": 319755,
+        "word": "女子拔牙第3天嘴里散发腐臭味",
+        "onboard_time": 1740895580,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318212,
+        "num": 318212,
+        "word": "午睡超1小时心梗等风险将增加近3成",
+        "onboard_time": 1740899778,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 290276,
+        "num": 290276,
+        "word": "周深回复郎平",
+        "onboard_time": 1740909739,
+        "rank": 23,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 259374,
+        "num": 259374,
+        "word": "河南镇平飞椅事故致1死1伤",
+        "onboard_time": 1740904638,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215060,
+        "num": 215060,
+        "word": "叠纸心意",
+        "onboard_time": 1740907940,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 163136,
+        "num": 214228,
+        "word": "开年现偶大判官",
+        "onboard_time": 1740902659,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137478,
+        "num": 207161,
+        "word": "我家那小子",
+        "onboard_time": 1740907638,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137199,
+        "num": 201923,
+        "word": "24岁女网红猫又又去世",
+        "onboard_time": 1740890600,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 75125,
+        "num": 197360,
+        "word": "以色列称已阻止人道物资进入加沙",
+        "onboard_time": 1740910099,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 195435,
+        "num": 195435,
+        "word": "周雨老婆回应",
+        "onboard_time": 1740900978,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183011,
+        "num": 183011,
+        "word": "男子想复婚利用保姆假戏真做被捅死",
+        "onboard_time": 1740881479,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176531,
+        "num": 176531,
+        "word": "减脂期应该多吃的10种碱性食物",
+        "onboard_time": 1740903918,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 166713,
+        "num": 166713,
+        "word": "雷军刚知道柯洁定了SU7Ultra",
+        "onboard_time": 1740910819,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 164073,
+        "num": 164073,
+        "word": "千年前古人就把跨界玩出花了",
+        "onboard_time": 1740907458,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55641,
+        "num": 161999,
+        "word": "周末总瘫在床上是心力弱的表现",
+        "onboard_time": 1740910940,
+        "rank": 35,
+        "category": "健康医疗,健康医疗"
+      },
+      {
+        "raw_hot": 161835,
+        "num": 161835,
+        "word": "DeepSeek",
+        "onboard_time": 1740904818,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 144024,
+        "num": 144024,
+        "word": "有密码取不出钱将病重老人推到银行",
+        "onboard_time": 1740910640,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143746,
+        "num": 143746,
+        "word": "猪被偷走3个月找回时胖了100斤",
+        "onboard_time": 1740897199,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143434,
+        "num": 143434,
+        "word": "曲阜师范大学 贩卖机提供卫生巾",
+        "onboard_time": 1740908539,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141871,
+        "num": 141871,
+        "word": "柯洁 SU7Ultra",
+        "onboard_time": 1740910759,
+        "rank": 40,
+        "category": "体育,汽车"
+      },
+      {
+        "raw_hot": 134217,
+        "num": 134217,
+        "word": "济南真的下雪啦",
+        "onboard_time": 1740891260,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130443,
+        "num": 130443,
+        "word": "大学生考证时间表",
+        "onboard_time": 1740905240,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 126917,
+        "num": 126917,
+        "word": "女子婚后发现老实丈夫很暴戾要离婚",
+        "onboard_time": 1740895100,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124639,
+        "num": 124639,
+        "word": "毕业生档案严禁个人保管携带",
+        "onboard_time": 1740910640,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123948,
+        "num": 123948,
+        "word": "周雨",
+        "onboard_time": 1740895339,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122409,
+        "num": 122409,
+        "word": "全红婵在追难哄",
+        "onboard_time": 1740906139,
+        "rank": 46,
+        "category": "剧集,体育"
+      },
+      {
+        "raw_hot": 115088,
+        "num": 115088,
+        "word": "济南暴雪路上汽车变绝望冰壶",
+        "onboard_time": 1740910880,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116510,
+        "num": 114365,
+        "word": "难哄",
+        "onboard_time": 1740890719,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111626,
+        "num": 111626,
+        "word": "哪吒2票房破144亿",
+        "onboard_time": 1740893719,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#我是一贯支持民营企业的#"
+    }
+  }
+}
