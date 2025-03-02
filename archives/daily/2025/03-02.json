@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1740914317694,
+  "endTime": 1740915363085,
   "band_list": [
     {
       "raw_hot": 3194275,
@@ -185,6 +185,14 @@
       "onboard_time": 1740900978,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 876155,
+      "num": 876155,
+      "word": "毕业生档案严禁个人保管携带",
+      "onboard_time": 1740910640,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 873714,
@@ -475,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 429365,
+      "num": 429365,
+      "word": "唐嫣恭喜张杰",
+      "onboard_time": 1740913879,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 412866,
       "num": 354564,
       "word": "陶喆唱爱爱爱悼念方大同",
@@ -499,12 +515,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 407425,
+      "num": 376934,
+      "word": "我不能坐着 我怕我会漏",
+      "onboard_time": 1740912380,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 406130,
       "num": 269011,
       "word": "董力上节目求婚只用了9朵玫瑰",
       "onboard_time": 1740885861,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 401650,
+      "num": 401650,
+      "word": "樊振东通过体测",
+      "onboard_time": 1740914000,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 391884,
@@ -561,6 +593,14 @@
       "onboard_time": 1740862212,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 359774,
+      "num": 359774,
+      "word": "唐奇有孩子",
+      "onboard_time": 1740913640,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 354133,
@@ -627,6 +667,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 314564,
+      "num": 314564,
+      "word": "周末总瘫在床上是心力弱的表现",
+      "onboard_time": 1740910940,
+      "rank": 35,
+      "category": "健康医疗,健康医疗"
+    },
+    {
       "raw_hot": 304788,
       "num": 296730,
       "word": "孟子义大侦探录制上班路透",
@@ -643,12 +691,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 303260,
-      "num": 303260,
-      "word": "毕业生档案严禁个人保管携带",
-      "onboard_time": 1740910640,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 295615,
+      "num": 350073,
+      "word": "滤镜 丰隆",
+      "onboard_time": 1740913159,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 294105,
@@ -779,20 +827,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 255426,
-      "num": 255426,
-      "word": "我不能坐着 我怕我会漏",
-      "onboard_time": 1740912380,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 253131,
-      "num": 308137,
-      "word": "滤镜 丰隆",
-      "onboard_time": 1740913159,
-      "rank": 16,
-      "category": "剧集"
+      "raw_hot": 241107,
+      "num": 171103,
+      "word": "张国伟意外受伤",
+      "onboard_time": 1740913460,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 240106,
@@ -851,14 +891,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 225474,
-      "num": 225474,
-      "word": "周末总瘫在床上是心力弱的表现",
-      "onboard_time": 1740910940,
-      "rank": 35,
-      "category": "健康医疗,健康医疗"
-    },
-    {
       "raw_hot": 225248,
       "num": 225248,
       "word": "喀什古城",
@@ -907,6 +939,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 214617,
+      "num": 343385,
+      "word": "林一银赫双人cha",
+      "onboard_time": 1740914299,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 212819,
       "num": 212819,
       "word": "台69岁老太称与梁朝伟订婚欲汇17万",
@@ -937,14 +977,6 @@
       "onboard_time": 1740896239,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 208624,
-      "num": 208624,
-      "word": "唐嫣恭喜张杰",
-      "onboard_time": 1740913879,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 207298,
@@ -1059,28 +1091,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 192929,
-      "num": 212553,
-      "word": "唐奇有孩子",
-      "onboard_time": 1740913640,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 192607,
       "num": 192607,
       "word": "当你的男朋友看了难哄",
       "onboard_time": 1740892879,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 190999,
-      "num": 190999,
-      "word": "樊振东通过体测",
-      "onboard_time": 1740914000,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 190115,
@@ -1403,14 +1419,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 146299,
-      "num": 146299,
-      "word": "张国伟意外受伤",
-      "onboard_time": 1740913460,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 145727,
       "num": 145727,
       "word": "丁程鑫主动降辈分",
@@ -1433,6 +1441,14 @@
       "onboard_time": 1740907339,
       "rank": 46,
       "category": "美妆,互联网"
+    },
+    {
+      "raw_hot": 144692,
+      "num": 171155,
+      "word": "王楚钦聊体测",
+      "onboard_time": 1740914779,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 144476,
@@ -1555,6 +1571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129728,
+      "num": 129728,
+      "word": "毕业后档案放在哪",
+      "onboard_time": 1740912078,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129473,
       "num": 129473,
       "word": "暴雪寒潮大雾3预警齐发",
@@ -1624,14 +1648,6 @@
       "word": "建议对剧本杀密室逃脱分级管理",
       "onboard_time": 1740905240,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 123701,
-      "num": 123701,
-      "word": "毕业后档案放在哪",
-      "onboard_time": 1740912078,
-      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -1707,14 +1723,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 114892,
-      "num": 114892,
-      "word": "林一银赫双人cha",
-      "onboard_time": 1740914299,
-      "rank": 47,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 114281,
       "num": 182561,
       "word": "祁煜一直游到海水变粉",
@@ -1737,6 +1745,14 @@
       "onboard_time": 1740908061,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114092,
+      "num": 114092,
+      "word": "冰唐橙",
+      "onboard_time": 1740914719,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 113049,
@@ -1777,6 +1793,14 @@
       "onboard_time": 1740887419,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 111504,
+      "num": 111504,
+      "word": "余华英有30万元债权用于赔偿",
+      "onboard_time": 1740915019,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110559,
@@ -1849,6 +1873,14 @@
       "onboard_time": 1740906318,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103898,
+      "num": 103898,
+      "word": "花花拿下拳王",
+      "onboard_time": 1740915200,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 103732,
@@ -2041,6 +2073,14 @@
       "onboard_time": 1740880216,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 85185,
+      "num": 362036,
+      "word": "济南暴雪多区中小学校幼儿园停课",
+      "onboard_time": 1740914658,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84959,
@@ -2355,6 +2395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 36576,
+      "num": 165995,
+      "word": "汉堡还能是粉色的",
+      "onboard_time": 1740911179,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 34825,
       "num": 142891,
       "word": "这个定海神器有多了不起",
@@ -2393,14 +2441,6 @@
       "onboard_time": 1740860111,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 29126,
-      "num": 165995,
-      "word": "汉堡还能是粉色的",
-      "onboard_time": 1740911179,
-      "rank": 38,
-      "category": "美食"
     },
     {
       "raw_hot": 27815,

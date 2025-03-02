@@ -1,0 +1,410 @@
+{
+  "runTime": 1740915363085,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1534150,
+        "num": 1534150,
+        "word": "雷军刚知道柯洁定了SU7Ultra",
+        "onboard_time": 1740910819,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1265535,
+        "num": 1265535,
+        "word": "蒋胜男建议删除离婚冷静期条款",
+        "onboard_time": 1740908959,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23193,
+        "num": 1205641,
+        "word": "中国信心是怎样炼成的",
+        "onboard_time": 1740908839,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1193287,
+        "num": 1193287,
+        "word": "有密码取不出钱将病重老人推到银行",
+        "onboard_time": 1740910640,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1082414,
+        "num": 1082414,
+        "word": "济南因暴雪停课",
+        "onboard_time": 1740911059,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 876155,
+        "num": 876155,
+        "word": "毕业生档案严禁个人保管携带",
+        "onboard_time": 1740910640,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 429365,
+        "num": 429365,
+        "word": "唐嫣恭喜张杰",
+        "onboard_time": 1740913879,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 692895,
+        "num": 428122,
+        "word": "白敬亭章若楠 耐克配阿迪",
+        "onboard_time": 1740902478,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 401650,
+        "num": 401650,
+        "word": "樊振东通过体测",
+        "onboard_time": 1740914000,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 388105,
+        "num": 388105,
+        "word": "山东最大积雪深度已达8厘米",
+        "onboard_time": 1740903319,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1158792,
+        "num": 384417,
+        "word": "今年已有13位演艺界名人逝世",
+        "onboard_time": 1740904699,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 503314,
+        "num": 380008,
+        "word": "井柏然 今天健身房只有我一个人努力",
+        "onboard_time": 1740909859,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407425,
+        "num": 376934,
+        "word": "我不能坐着 我怕我会漏",
+        "onboard_time": 1740912380,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 373642,
+        "num": 373642,
+        "word": "山东发暴雪橙色预警",
+        "onboard_time": 1740907399,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85185,
+        "num": 362036,
+        "word": "济南暴雪多区中小学校幼儿园停课",
+        "onboard_time": 1740914658,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 359774,
+        "num": 359774,
+        "word": "唐奇有孩子",
+        "onboard_time": 1740913640,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 352128,
+        "num": 352128,
+        "word": "济南气温满20减19",
+        "onboard_time": 1740905299,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295615,
+        "num": 350073,
+        "word": "滤镜 丰隆",
+        "onboard_time": 1740913159,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261372,
+        "num": 345754,
+        "word": "郑云龙钟楚曦能不能也摸摸我的头",
+        "onboard_time": 1740907819,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214617,
+        "num": 343385,
+        "word": "林一银赫双人cha",
+        "onboard_time": 1740914299,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 463394,
+        "num": 341112,
+        "word": "女子拔牙第3天嘴里散发腐臭味",
+        "onboard_time": 1740895580,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365786,
+        "num": 335517,
+        "word": "摄影师摔倒压到4个月宝宝",
+        "onboard_time": 1740905299,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335362,
+        "num": 335362,
+        "word": "方大同遗体在云南大理火化",
+        "onboard_time": 1740893300,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314564,
+        "num": 314564,
+        "word": "周末总瘫在床上是心力弱的表现",
+        "onboard_time": 1740910940,
+        "rank": 23,
+        "category": "健康医疗,健康医疗"
+      },
+      {
+        "raw_hot": 303540,
+        "num": 303540,
+        "word": "金价",
+        "onboard_time": 1740899599,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 280403,
+        "num": 280403,
+        "word": "特朗普政府希望泽连斯基公开道歉",
+        "onboard_time": 1740907040,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 258512,
+        "num": 258512,
+        "word": "午睡超1小时心梗等风险将增加近3成",
+        "onboard_time": 1740899778,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 183035,
+        "num": 183035,
+        "word": "王俊凯仿佛认为自己是老年人",
+        "onboard_time": 1740905119,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126927,
+        "num": 175990,
+        "word": "以延为定",
+        "onboard_time": 1740907219,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144692,
+        "num": 171155,
+        "word": "王楚钦聊体测",
+        "onboard_time": 1740914779,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241107,
+        "num": 171103,
+        "word": "张国伟意外受伤",
+        "onboard_time": 1740913460,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170912,
+        "num": 170912,
+        "word": "雷军仿妆",
+        "onboard_time": 1740904758,
+        "rank": 31,
+        "category": "美妆,互联网"
+      },
+      {
+        "raw_hot": 164854,
+        "num": 164854,
+        "word": "刘诗雯摸孙颖莎小脑袋",
+        "onboard_time": 1740911059,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162838,
+        "num": 162838,
+        "word": "迪丽热巴 电影女足",
+        "onboard_time": 1740892939,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154371,
+        "num": 154371,
+        "word": "济南降雪量达到大暴雪",
+        "onboard_time": 1740911120,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129728,
+        "num": 129728,
+        "word": "毕业后档案放在哪",
+        "onboard_time": 1740912078,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151553,
+        "num": 129721,
+        "word": "周深回复郎平",
+        "onboard_time": 1740909739,
+        "rank": 36,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 129229,
+        "num": 129229,
+        "word": "银行回应卧床老人被推到银行取钱",
+        "onboard_time": 1740908299,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127547,
+        "num": 127547,
+        "word": "猪被偷走3个月找回时胖了100斤",
+        "onboard_time": 1740897199,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124395,
+        "num": 124395,
+        "word": "张云龙37岁生日状态",
+        "onboard_time": 1740911839,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123201,
+        "num": 123201,
+        "word": "济南暴雪路上汽车变绝望冰壶",
+        "onboard_time": 1740910880,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120880,
+        "num": 120880,
+        "word": "美多地爆发抵制特斯拉示威",
+        "onboard_time": 1740913879,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114206,
+        "num": 114206,
+        "word": "哪吒2票房破144亿",
+        "onboard_time": 1740893719,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114092,
+        "num": 114092,
+        "word": "冰唐橙",
+        "onboard_time": 1740914719,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36576,
+        "num": 111610,
+        "word": "汉堡还能是粉色的",
+        "onboard_time": 1740911179,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 111504,
+        "num": 111504,
+        "word": "余华英有30万元债权用于赔偿",
+        "onboard_time": 1740915019,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106955,
+        "num": 106955,
+        "word": "毛不易演唱会上缅怀方大同",
+        "onboard_time": 1740896600,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105204,
+        "num": 105204,
+        "word": "周深一人一台晚会",
+        "onboard_time": 1740913819,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 103898,
+        "num": 103898,
+        "word": "花花拿下拳王",
+        "onboard_time": 1740915200,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100636,
+        "num": 100636,
+        "word": "鞠婧祎月鳞绮纪雨中哭戏",
+        "onboard_time": 1740913460,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#我是一贯支持民营企业的#"
+    }
+  }
+}
