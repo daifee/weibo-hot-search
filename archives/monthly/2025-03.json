@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740904803243,
+  "endTime": 1740907393294,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -171,6 +171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1661327,
+      "num": 223884,
+      "word": "今年已有13位演艺界名人逝世",
+      "onboard_time": 1740904699,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1605603,
       "num": 1605603,
       "word": "妈妈包书皮错写成自己名字",
@@ -219,20 +227,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1394062,
+      "num": 1394062,
+      "word": "白敬亭章若楠 耐克配阿迪",
+      "onboard_time": 1740902478,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1323741,
       "num": 1323741,
       "word": "中央气象台一早发5个预警",
       "onboard_time": 1740874338,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1317105,
-      "num": 1317105,
-      "word": "白敬亭章若楠 耐克配阿迪",
-      "onboard_time": 1740902478,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 1276936,
@@ -595,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 638241,
+      "num": 638241,
+      "word": "山东最大积雪深度已达8厘米",
+      "onboard_time": 1740903319,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 633445,
       "num": 431416,
       "word": "方大同去世陶晶莹全家都哭了",
@@ -675,6 +691,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 588723,
+      "num": 588723,
+      "word": "雷军仿妆",
+      "onboard_time": 1740904758,
+      "rank": 49,
+      "category": "美妆,互联网"
+    },
+    {
       "raw_hot": 584549,
       "num": 584549,
       "word": "美乌总统会晤多次发生争执",
@@ -753,6 +777,14 @@
       "onboard_time": 1740758238,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 554474,
+      "num": 206199,
+      "word": "摄影师摔倒压到4个月宝宝",
+      "onboard_time": 1740905299,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 551207,
@@ -1131,14 +1163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 370057,
-      "num": 370057,
-      "word": "山东最大积雪深度已达8厘米",
-      "onboard_time": 1740903319,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 369692,
       "num": 210185,
       "word": "特朗普称泽连斯基需停止对普京负面言论",
@@ -1209,6 +1233,14 @@
       "onboard_time": 1740826281,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 354133,
+      "num": 354133,
+      "word": "王俊凯仿佛认为自己是老年人",
+      "onboard_time": 1740905119,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 350330,
@@ -1563,6 +1595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 270357,
+      "num": 270357,
+      "word": "济南气温满20减19",
+      "onboard_time": 1740905299,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 270295,
       "num": 270295,
       "word": "文在寅最新涉华表态",
@@ -1585,6 +1625,14 @@
       "onboard_time": 1740849856,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 267624,
+      "num": 196101,
+      "word": "全红婵在追难哄",
+      "onboard_time": 1740906139,
+      "rank": 23,
+      "category": "剧集,体育"
     },
     {
       "raw_hot": 263916,
@@ -1731,6 +1779,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 237692,
+      "num": 187308,
+      "word": "DeepSeek",
+      "onboard_time": 1740904818,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 236561,
       "num": 236561,
       "word": "孟子义早期生图",
@@ -1809,6 +1865,14 @@
       "onboard_time": 1740832163,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228596,
+      "num": 186128,
+      "word": "减脂期应该多吃的10种碱性食物",
+      "onboard_time": 1740903918,
+      "rank": 46,
+      "category": "运动健身"
     },
     {
       "raw_hot": 228546,
@@ -2603,6 +2667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175864,
+      "num": 224910,
+      "word": "河南镇平飞椅事故致1死1伤",
+      "onboard_time": 1740904638,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175622,
       "num": 175622,
       "word": "樊振东手拿熊猫公仔",
@@ -2996,7 +3068,7 @@
     },
     {
       "raw_hot": 155653,
-      "num": 155653,
+      "num": 210690,
       "word": "开年现偶大判官",
       "onboard_time": 1740902659,
       "rank": 32,
@@ -3089,6 +3161,14 @@
       "onboard_time": 1740881298,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 150253,
+      "num": 150253,
+      "word": "大学生考证时间表",
+      "onboard_time": 1740905240,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 149839,
@@ -3267,6 +3347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139999,
+      "num": 139999,
+      "word": "郎平现身周深拉斯维加斯演唱会",
+      "onboard_time": 1740906079,
+      "rank": 32,
+      "category": "演出,体育"
+    },
+    {
       "raw_hot": 139997,
       "num": 139997,
       "word": "大国重器带你感受硬核龙抬头",
@@ -3323,12 +3411,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136893,
+      "num": 136893,
+      "word": "马斯克赞成美国退出联合国和北约",
+      "onboard_time": 1740907099,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 136474,
       "num": 136474,
       "word": "鬼灭之刃无限城篇第一部定档",
       "onboard_time": 1740826523,
       "rank": 40,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 136343,
+      "num": 136343,
+      "word": "线条小狗具象化",
+      "onboard_time": 1740904939,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 135226,
@@ -3531,6 +3635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125174,
+      "num": 125174,
+      "word": "建议对剧本杀密室逃脱分级管理",
+      "onboard_time": 1740905240,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122940,
       "num": 122940,
       "word": "MLB 邓为",
@@ -3691,6 +3803,14 @@
       "category": "互联网,音乐"
     },
     {
+      "raw_hot": 115073,
+      "num": 115073,
+      "word": "以延为定",
+      "onboard_time": 1740907219,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114500,
       "num": 132517,
       "word": "湖人战胜快船",
@@ -3737,6 +3857,14 @@
       "onboard_time": 1740897860,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112231,
+      "num": 202465,
+      "word": "你买过一口价黄金饰品吗",
+      "onboard_time": 1740904158,
+      "rank": 9,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 111807,
@@ -3793,14 +3921,6 @@
       "onboard_time": 1740756559,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 108227,
-      "num": 108227,
-      "word": "减脂期应该多吃的10种碱性食物",
-      "onboard_time": 1740903918,
-      "rank": 46,
-      "category": "运动健身"
     },
     {
       "raw_hot": 107652,
@@ -3907,6 +4027,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 104316,
+      "num": 104316,
+      "word": "男子网恋转40万发现女友竟已婚",
+      "onboard_time": 1740906318,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104250,
+      "num": 104250,
+      "word": "微博有自己的孙悟空",
+      "onboard_time": 1740907339,
+      "rank": 46,
+      "category": "美妆,互联网"
+    },
+    {
       "raw_hot": 103924,
       "num": 103924,
       "word": "吴柳芳香港plog",
@@ -3929,14 +4065,6 @@
       "onboard_time": 1740891320,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 103349,
-      "num": 103349,
-      "word": "今年已有13位演艺界名人逝世",
-      "onboard_time": 1740904699,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 103160,
@@ -3963,6 +4091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101959,
+      "num": 217713,
+      "word": "特朗普政府希望泽连斯基公开道歉",
+      "onboard_time": 1740907040,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 101768,
       "num": 101768,
       "word": "周也空气齐刘海",
@@ -3979,12 +4115,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 100469,
-      "num": 100469,
-      "word": "河南镇平飞椅事故致1死1伤",
-      "onboard_time": 1740904638,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 101165,
+      "num": 101165,
+      "word": "王俊凯重庆胃",
+      "onboard_time": 1740905720,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 99546,
@@ -4073,14 +4209,6 @@
       "onboard_time": 1740833964,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 96303,
-      "num": 96303,
-      "word": "雷军仿妆",
-      "onboard_time": 1740904758,
-      "rank": 49,
-      "category": "美妆,互联网"
     },
     {
       "raw_hot": 95992,
@@ -4385,14 +4513,6 @@
       "onboard_time": 1740879856,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 79399,
-      "num": 202465,
-      "word": "你买过一口价黄金饰品吗",
-      "onboard_time": 1740904158,
-      "rank": 9,
-      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 78977,
@@ -5035,6 +5155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26272,
+      "num": 813058,
+      "word": "在国之重器里看到奋斗的底气",
+      "onboard_time": 1740889399,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 26155,
       "num": 30330,
       "word": "王鹤棣复刻打更人敲锣",
@@ -5201,14 +5329,6 @@
       "onboard_time": 1740860710,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 16627,
-      "num": 813058,
-      "word": "在国之重器里看到奋斗的底气",
-      "onboard_time": 1740889399,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 16245,
