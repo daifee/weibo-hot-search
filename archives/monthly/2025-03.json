@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740903997518,
+  "endTime": 1740904803243,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -227,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1317105,
+      "num": 1317105,
+      "word": "白敬亭章若楠 耐克配阿迪",
+      "onboard_time": 1740902478,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1276936,
       "num": 1276936,
       "word": "金价",
@@ -360,14 +368,6 @@
       "word": "檀健次吃内脏哭戏是现挂",
       "onboard_time": 1740794837,
       "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 1018586,
-      "num": 1018586,
-      "word": "白敬亭章若楠 耐克配阿迪",
-      "onboard_time": 1740902478,
-      "rank": 1,
       "category": "剧集"
     },
     {
@@ -1131,6 +1131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 370057,
+      "num": 370057,
+      "word": "山东最大积雪深度已达8厘米",
+      "onboard_time": 1740903319,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 369692,
       "num": 210185,
       "word": "特朗普称泽连斯基需停止对普京负面言论",
@@ -1811,6 +1819,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 227130,
+      "num": 182970,
+      "word": "TFBOYS和五禽戏联动了",
+      "onboard_time": 1740903559,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226988,
       "num": 229548,
       "word": "坏了让她能装一辈子了",
@@ -2475,14 +2491,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 181174,
-      "num": 181174,
-      "word": "山东最大积雪深度已达8厘米",
-      "onboard_time": 1740903319,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 180951,
       "num": 180951,
       "word": "杨紫仙紫妆",
@@ -2913,14 +2921,6 @@
       "onboard_time": 1740793457,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 159961,
-      "num": 159961,
-      "word": "TFBOYS和五禽戏联动了",
-      "onboard_time": 1740903559,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 158951,
@@ -3659,6 +3659,14 @@
       "category": "健康医疗,互联网"
     },
     {
+      "raw_hot": 117235,
+      "num": 117235,
+      "word": "山东多地降下鹅毛大雪",
+      "onboard_time": 1740903799,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116715,
       "num": 116715,
       "word": "Lucas Dyx",
@@ -3689,6 +3697,14 @@
       "onboard_time": 1740814227,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114281,
+      "num": 182561,
+      "word": "祁煜一直游到海水变粉",
+      "onboard_time": 1740903077,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 114225,
@@ -3779,6 +3795,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 108227,
+      "num": 108227,
+      "word": "减脂期应该多吃的10种碱性食物",
+      "onboard_time": 1740903918,
+      "rank": 46,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 107652,
       "num": 107652,
       "word": "迪丽热巴开推发布会黑长直造型",
@@ -3809,14 +3833,6 @@
       "onboard_time": 1740817945,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 106291,
-      "num": 163517,
-      "word": "祁煜一直游到海水变粉",
-      "onboard_time": 1740903077,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 106267,
@@ -3915,12 +3931,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 103313,
-      "num": 103313,
-      "word": "减脂期应该多吃的10种碱性食物",
-      "onboard_time": 1740903918,
-      "rank": 46,
-      "category": "运动健身"
+      "raw_hot": 103349,
+      "num": 103349,
+      "word": "今年已有13位演艺界名人逝世",
+      "onboard_time": 1740904699,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 103160,
@@ -3963,11 +3979,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 101277,
-      "num": 101277,
-      "word": "山东多地降下鹅毛大雪",
-      "onboard_time": 1740903799,
-      "rank": 48,
+      "raw_hot": 100469,
+      "num": 100469,
+      "word": "河南镇平飞椅事故致1死1伤",
+      "onboard_time": 1740904638,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -4057,6 +4073,14 @@
       "onboard_time": 1740833964,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96303,
+      "num": 96303,
+      "word": "雷军仿妆",
+      "onboard_time": 1740904758,
+      "rank": 49,
+      "category": "美妆,互联网"
     },
     {
       "raw_hot": 95992,
@@ -4363,6 +4387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 79399,
+      "num": 202465,
+      "word": "你买过一口价黄金饰品吗",
+      "onboard_time": 1740904158,
+      "rank": 9,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 78977,
       "num": 233304,
       "word": "全新探岳L越攀登越强大",
@@ -4393,6 +4425,14 @@
       "onboard_time": 1740873676,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 76501,
+      "num": 224363,
+      "word": "普通人适合如何买金",
+      "onboard_time": 1740898819,
+      "rank": 14,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 76434,
@@ -4705,14 +4745,6 @@
       "onboard_time": 1740764114,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 44751,
-      "num": 224363,
-      "word": "普通人适合如何买金",
-      "onboard_time": 1740898819,
-      "rank": 14,
-      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 44327,
@@ -5171,6 +5203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 16627,
+      "num": 813058,
+      "word": "在国之重器里看到奋斗的底气",
+      "onboard_time": 1740889399,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 16245,
       "num": 72114,
       "word": "建议用法治保障特定群体出行无碍",
@@ -5273,14 +5313,6 @@
       "onboard_time": 1740857292,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11135,
-      "num": 693326,
-      "word": "在国之重器里看到奋斗的底气",
-      "onboard_time": 1740889399,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 11025,
