@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1740907393294,
+  "endTime": 1740908173006,
   "band_list": [
     {
       "raw_hot": 3194275,
@@ -17,6 +17,14 @@
       "onboard_time": 1740875718,
       "rank": 3,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 2236828,
+      "num": 258497,
+      "word": "今年已有13位演艺界名人逝世",
+      "onboard_time": 1740904699,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 2072238,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 2031741,
-      "num": 248303,
+      "num": 250660,
       "word": "周雨",
       "onboard_time": 1740895339,
       "rank": 10,
@@ -57,14 +65,6 @@
       "onboard_time": 1740895580,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1661327,
-      "num": 223884,
-      "word": "今年已有13位演艺界名人逝世",
-      "onboard_time": 1740904699,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 1556849,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 893276,
-      "num": 226987,
+      "num": 253910,
       "word": "周雨老婆回应",
       "onboard_time": 1740900978,
       "rank": 11,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 678144,
-      "num": 206452,
+      "num": 247182,
       "word": "午睡超1小时心梗等风险将增加近3成",
       "onboard_time": 1740899778,
       "rank": 38,
@@ -259,20 +259,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 603862,
+      "num": 603862,
+      "word": "雷军仿妆",
+      "onboard_time": 1740904758,
+      "rank": 49,
+      "category": "美妆,互联网"
+    },
+    {
       "raw_hot": 599338,
       "num": 599338,
       "word": "邓紫棋演唱会上哭了",
       "onboard_time": 1740837924,
       "rank": 3,
       "category": "演出"
-    },
-    {
-      "raw_hot": 588723,
-      "num": 588723,
-      "word": "雷军仿妆",
-      "onboard_time": 1740904758,
-      "rank": 49,
-      "category": "美妆,互联网"
     },
     {
       "raw_hot": 581734,
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 554474,
-      "num": 206199,
+      "num": 247455,
       "word": "摄影师摔倒压到4个月宝宝",
       "onboard_time": 1740905299,
       "rank": 20,
@@ -595,11 +595,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 276045,
+      "num": 247091,
+      "word": "DeepSeek",
+      "onboard_time": 1740904818,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 270357,
       "num": 270357,
       "word": "济南气温满20减19",
       "onboard_time": 1740905299,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 270225,
+      "num": 270225,
+      "word": "河南镇平飞椅事故致1死1伤",
+      "onboard_time": 1740904638,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -612,7 +628,7 @@
     },
     {
       "raw_hot": 267624,
-      "num": 196101,
+      "num": 214438,
       "word": "全红婵在追难哄",
       "onboard_time": 1740906139,
       "rank": 23,
@@ -651,12 +667,36 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 237692,
-      "num": 187308,
-      "word": "DeepSeek",
-      "onboard_time": 1740904818,
-      "rank": 25,
-      "category": "互联网"
+      "raw_hot": 248180,
+      "num": 248180,
+      "word": "特朗普政府希望泽连斯基公开道歉",
+      "onboard_time": 1740907040,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 246972,
+      "num": 246972,
+      "word": "马斯克赞成美国退出联合国和北约",
+      "onboard_time": 1740907099,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 240106,
+      "num": 240106,
+      "word": "减脂期应该多吃的10种碱性食物",
+      "onboard_time": 1740903918,
+      "rank": 46,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 236849,
+      "num": 248006,
+      "word": "开年现偶大判官",
+      "onboard_time": 1740902659,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 233160,
@@ -681,14 +721,6 @@
       "onboard_time": 1740894919,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 228596,
-      "num": 186128,
-      "word": "减脂期应该多吃的10种碱性食物",
-      "onboard_time": 1740903918,
-      "rank": 46,
-      "category": "运动健身"
     },
     {
       "raw_hot": 227130,
@@ -747,6 +779,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 213577,
+      "num": 261990,
+      "word": "山东发暴雪橙色预警",
+      "onboard_time": 1740907399,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 212819,
       "num": 212819,
       "word": "台69岁老太称与梁朝伟订婚欲汇17万",
@@ -800,6 +840,14 @@
       "word": "专家称可坚定买入黄金",
       "onboard_time": 1740839244,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203586,
+      "num": 203586,
+      "word": "千年前古人就把跨界玩出花了",
+      "onboard_time": 1740907458,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -863,6 +911,14 @@
       "num": 192607,
       "word": "当你的男朋友看了难哄",
       "onboard_time": 1740892879,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 192034,
+      "num": 247842,
+      "word": "以延为定",
+      "onboard_time": 1740907219,
       "rank": 43,
       "category": "剧集"
     },
@@ -969,14 +1025,6 @@
       "onboard_time": 1740835883,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 175864,
-      "num": 224910,
-      "word": "河南镇平飞椅事故致1死1伤",
-      "onboard_time": 1740904638,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 175193,
@@ -1115,14 +1163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 155653,
-      "num": 210690,
-      "word": "开年现偶大判官",
-      "onboard_time": 1740902659,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 154900,
       "num": 197632,
       "word": "中央气象台今早5预警齐发",
@@ -1179,6 +1219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 148065,
+      "num": 148065,
+      "word": "郑云龙钟楚曦能不能也摸摸我的头",
+      "onboard_time": 1740907819,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145727,
       "num": 145727,
       "word": "丁程鑫主动降辈分",
@@ -1193,6 +1241,14 @@
       "onboard_time": 1740838944,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 144940,
+      "num": 144940,
+      "word": "微博有自己的孙悟空",
+      "onboard_time": 1740907339,
+      "rank": 46,
+      "category": "美妆,互联网"
     },
     {
       "raw_hot": 144476,
@@ -1249,14 +1305,6 @@
       "onboard_time": 1740870733,
       "rank": 30,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 136893,
-      "num": 136893,
-      "word": "马斯克赞成美国退出联合国和北约",
-      "onboard_time": 1740907099,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 136343,
@@ -1395,6 +1443,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 118803,
+      "num": 118803,
+      "word": "叠纸心意",
+      "onboard_time": 1740907940,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 118387,
       "num": 118387,
       "word": "林俊杰 抢票",
@@ -1425,14 +1481,6 @@
       "onboard_time": 1740899539,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 115073,
-      "num": 115073,
-      "word": "以延为定",
-      "onboard_time": 1740907219,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 114281,
@@ -1483,6 +1531,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 111495,
+      "num": 111495,
+      "word": "我家那小子",
+      "onboard_time": 1740907638,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110559,
       "num": 315887,
       "word": "毛不易来深圳也逃不过讲PPT",
@@ -1505,6 +1561,14 @@
       "onboard_time": 1740902119,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 108296,
+      "num": 108296,
+      "word": "年轻人越来越看重情绪价值消费",
+      "onboard_time": 1740908061,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107277,
@@ -1547,14 +1611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104250,
-      "num": 104250,
-      "word": "微博有自己的孙悟空",
-      "onboard_time": 1740907339,
-      "rank": 46,
-      "category": "美妆,互联网"
-    },
-    {
       "raw_hot": 103732,
       "num": 315952,
       "word": "蔡明因常年不吃早饭导致胆摘除",
@@ -1577,14 +1633,6 @@
       "onboard_time": 1740897440,
       "rank": 21,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 101959,
-      "num": 217713,
-      "word": "特朗普政府希望泽连斯基公开道歉",
-      "onboard_time": 1740907040,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 101165,
@@ -1929,6 +1977,14 @@
       "onboard_time": 1740894619,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49811,
+      "num": 247625,
+      "word": "张馨予给自己放假一天再回国",
+      "onboard_time": 1740907638,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 49365,
