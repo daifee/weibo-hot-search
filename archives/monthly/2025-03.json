@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740958542171,
+  "endTime": 1740966504316,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -459,6 +459,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1027151,
+      "num": 1164344,
+      "word": "奥斯卡",
+      "onboard_time": 1740963319,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1002151,
+      "num": 168226,
+      "word": "官方辟谣网传谭乔离职原因",
+      "onboard_time": 1740959658,
+      "rank": 10,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 993726,
       "num": 1612228,
       "word": "女子炒黄金被暴涨的利润吓得报警",
@@ -515,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 896304,
+      "num": 896304,
+      "word": "牙齿会影响整个身体健康",
+      "onboard_time": 1740963259,
+      "rank": 1,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 893276,
       "num": 253910,
       "word": "周雨老婆回应",
@@ -552,6 +576,14 @@
       "word": "英乌签署22.6亿英镑贷款协议",
       "onboard_time": 1740870913,
       "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 855896,
+      "num": 347413,
+      "word": "泽连斯基称愿以辞职换乌进北约",
+      "onboard_time": 1740958877,
+      "rank": 5,
       "category": "国际时政"
     },
     {
@@ -1115,6 +1147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 492148,
+      "num": 492148,
+      "word": "两会",
+      "onboard_time": 1740963979,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 490360,
       "num": 490360,
       "word": "章若楠在难哄看到何老师后哭了",
@@ -1443,6 +1483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 371497,
+      "num": 371497,
+      "word": "美国要的钱乌克兰得还63年",
+      "onboard_time": 1740962180,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 369692,
       "num": 210185,
       "word": "特朗普称泽连斯基需停止对普京负面言论",
@@ -1707,6 +1755,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 321173,
+      "num": 163962,
+      "word": "雷军说大家不要觉得我们赢得很容易",
+      "onboard_time": 1740964219,
+      "rank": 13,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 321156,
       "num": 321156,
       "word": "3类人要警惕气胸",
@@ -1955,6 +2011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 284626,
+      "num": 161315,
+      "word": "徐玉坤为Angelababy发声",
+      "onboard_time": 1740959358,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284341,
       "num": 284341,
       "word": "国际金价跌至近3周以来最低点",
@@ -1969,6 +2033,14 @@
       "onboard_time": 1740812670,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 281234,
+      "num": 159090,
+      "word": "新加坡偶遇林俊杰吃早餐",
+      "onboard_time": 1740963859,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 279954,
@@ -2153,6 +2225,14 @@
       "onboard_time": 1740811894,
       "rank": 26,
       "category": "健康医疗,艺人"
+    },
+    {
+      "raw_hot": 257625,
+      "num": 257625,
+      "word": "美国一92人客机飞行中发紧急信号",
+      "onboard_time": 1740964040,
+      "rank": 6,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 255159,
@@ -3459,6 +3539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174242,
+      "num": 174242,
+      "word": "多国领导人伦敦峰会宣布支持乌克兰4个步骤",
+      "onboard_time": 1740961340,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 174155,
       "num": 219169,
       "word": "全红婵拿表情包贴脸王楚钦",
@@ -3545,6 +3633,14 @@
       "onboard_time": 1740834142,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 169983,
+      "num": 169983,
+      "word": "奥斯卡提名",
+      "onboard_time": 1740929778,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 169223,
@@ -3795,6 +3891,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 158042,
+      "num": 158042,
+      "word": "杨蓉新剧让人好想抱抱她",
+      "onboard_time": 1740958936,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158000,
       "num": 455681,
       "word": "夸克硬刚",
@@ -3817,6 +3921,14 @@
       "onboard_time": 1740911839,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157668,
+      "num": 157668,
+      "word": "要么泽连斯基重返谈判桌要么换人",
+      "onboard_time": 1740959417,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 157466,
@@ -3993,14 +4105,6 @@
       "onboard_time": 1740908539,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 151247,
-      "num": 151247,
-      "word": "奥斯卡提名",
-      "onboard_time": 1740929778,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 150996,
@@ -4195,6 +4299,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 143674,
+      "num": 143674,
+      "word": "似锦5集口碑",
+      "onboard_time": 1740965418,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142702,
       "num": 142702,
       "word": "似锦",
@@ -4283,6 +4395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140298,
+      "num": 140298,
+      "word": "手机碰一下钱就没了是真的吗",
+      "onboard_time": 1740964879,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139999,
       "num": 139999,
       "word": "郎平现身周深拉斯维加斯演唱会",
@@ -4345,6 +4465,14 @@
       "onboard_time": 1740833484,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138711,
+      "num": 112150,
+      "word": "方大同悼念仪式手卡上留下最后的话",
+      "onboard_time": 1740937633,
+      "rank": 22,
+      "category": "艺人,电影"
     },
     {
       "raw_hot": 138630,
@@ -4507,6 +4635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131315,
+      "num": 112129,
+      "word": "湖北一县委书记向躺平式干部宣战",
+      "onboard_time": 1740960559,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130709,
       "num": 130709,
       "word": "一路繁花下期刘晓庆首度回应前男友",
@@ -4529,14 +4665,6 @@
       "onboard_time": 1740785056,
       "rank": 16,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 130379,
-      "num": 98657,
-      "word": "方大同悼念仪式手卡上留下最后的话",
-      "onboard_time": 1740937633,
-      "rank": 22,
-      "category": "艺人,电影"
     },
     {
       "raw_hot": 130095,
@@ -4651,6 +4779,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 126043,
+      "num": 124997,
+      "word": "方大同",
+      "onboard_time": 1740963498,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125739,
       "num": 125739,
       "word": "AG对战KLG",
@@ -4665,6 +4801,14 @@
       "onboard_time": 1740892638,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125540,
+      "num": 125540,
+      "word": "奥斯卡红毯",
+      "onboard_time": 1740959178,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 125174,
@@ -4939,12 +5083,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112287,
+      "num": 112287,
+      "word": "主角",
+      "onboard_time": 1740964040,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112231,
       "num": 202465,
       "word": "你买过一口价黄金饰品吗",
       "onboard_time": 1740904158,
       "rank": 9,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 112105,
+      "num": 112105,
+      "word": "把唐僧的窝囊劲儿都演出来了",
+      "onboard_time": 1740963560,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 111807,
@@ -5009,6 +5169,22 @@
       "onboard_time": 1740928879,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 108000,
+      "num": 108000,
+      "word": "这支短片领衔主演是14亿中国人",
+      "onboard_time": 1740966318,
+      "rank": 33,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 107902,
+      "num": 112262,
+      "word": "猫猫的奇幻漂流奥斯卡最佳动画长片",
+      "onboard_time": 1740965418,
+      "rank": 27,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 107652,
@@ -5323,6 +5499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96124,
+      "num": 112220,
+      "word": "种地吧",
+      "onboard_time": 1740965418,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95992,
       "num": 95992,
       "word": "二月二你会和理发师过招吗",
@@ -5363,6 +5547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94662,
+      "num": 94662,
+      "word": "冷冷冷周一冷冷冷",
+      "onboard_time": 1740960138,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94280,
       "num": 197360,
       "word": "以色列称已阻止人道物资进入加沙",
@@ -5387,6 +5579,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 93277,
+      "num": 112214,
+      "word": "宋亚轩直播改时间",
+      "onboard_time": 1740965599,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93186,
       "num": 128388,
       "word": "180天剧版好东西",
@@ -5409,6 +5609,14 @@
       "onboard_time": 1740892159,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92318,
+      "num": 92318,
+      "word": "董力给岳父送开瓶器",
+      "onboard_time": 1740957376,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 91864,
@@ -5755,6 +5963,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 74007,
+      "num": 74007,
+      "word": "山东暴雪大到模糊",
+      "onboard_time": 1740959236,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73347,
       "num": 73347,
       "word": "谁给李晟李嘉琦张小婉培训一下比心",
@@ -5769,6 +5985,14 @@
       "onboard_time": 1740938892,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72933,
+      "num": 72933,
+      "word": "巴黎时装周",
+      "onboard_time": 1740966198,
+      "rank": 46,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 72539,
@@ -5827,6 +6051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 67825,
+      "num": 166817,
+      "word": "济南清雪除冰现场",
+      "onboard_time": 1740966079,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67641,
       "num": 218009,
       "word": "郑钦文印第安维尔斯赛场训练",
@@ -5849,6 +6081,22 @@
       "onboard_time": 1740763215,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67026,
+      "num": 67026,
+      "word": "雷军请网友支招对战柯洁",
+      "onboard_time": 1740965299,
+      "rank": 48,
+      "category": "互联网,体育"
+    },
+    {
+      "raw_hot": 65982,
+      "num": 65982,
+      "word": "白鹿说因为警察荣誉才能演北上",
+      "onboard_time": 1740959236,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 65872,
@@ -5977,14 +6225,6 @@
       "onboard_time": 1740944532,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 53128,
-      "num": 53128,
-      "word": "董力给岳父送开瓶器",
-      "onboard_time": 1740957376,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 52370,
