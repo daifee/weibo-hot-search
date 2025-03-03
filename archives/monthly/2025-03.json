@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741012893661,
+  "endTime": 1741015558836,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -835,6 +835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 769767,
+      "num": 576169,
+      "word": "夜旅人",
+      "onboard_time": 1741014019,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 763933,
       "num": 763933,
       "word": "奥斯卡获奖动画国内票房惨淡",
@@ -857,6 +865,14 @@
       "onboard_time": 1740754941,
       "rank": 10,
       "category": "民生新闻,情感"
+    },
+    {
+      "raw_hot": 753371,
+      "num": 308247,
+      "word": "徐若晗好韩",
+      "onboard_time": 1741011979,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 739197,
@@ -1611,6 +1627,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 485738,
+      "num": 450114,
+      "word": "难哄吻戏这一分钟",
+      "onboard_time": 1741011380,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 485031,
       "num": 485031,
       "word": "长沙刚刚下雪了",
@@ -1736,14 +1760,6 @@
       "word": "大唐荣耀结局给不了的似锦给了",
       "onboard_time": 1740995958,
       "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 450114,
-      "num": 450114,
-      "word": "难哄吻戏这一分钟",
-      "onboard_time": 1741011380,
-      "rank": 30,
       "category": "剧集"
     },
     {
@@ -2017,6 +2033,14 @@
       "onboard_time": 1740796458,
       "rank": 24,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 380309,
+      "num": 226526,
+      "word": "第一部女A男B的国产剧",
+      "onboard_time": 1741003878,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 373283,
@@ -2403,6 +2427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 319471,
+      "num": 170276,
+      "word": "单休比双休多拿多少钱才算合理",
+      "onboard_time": 1741013238,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 319295,
       "num": 359250,
       "word": "特鲁多将求助英国王室",
@@ -2449,14 +2481,6 @@
       "onboard_time": 1740725178,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 308247,
-      "num": 308247,
-      "word": "徐若晗好韩",
-      "onboard_time": 1741011979,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 304788,
@@ -3627,6 +3651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211823,
+      "num": 211823,
+      "word": "委员谈制止体育界饭圈文化",
+      "onboard_time": 1741013420,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211542,
       "num": 181588,
       "word": "银行错给客户存81万亿美元",
@@ -3913,6 +3945,14 @@
       "onboard_time": 1740913460,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201867,
+      "num": 168909,
+      "word": "花十几小时做的肉一双筷子就能切开",
+      "onboard_time": 1741013720,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 201765,
@@ -4363,6 +4403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185663,
+      "num": 165793,
+      "word": "我是徐明浩我不演了",
+      "onboard_time": 1741013000,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185592,
       "num": 185592,
       "word": "三人游",
@@ -4401,6 +4449,14 @@
       "onboard_time": 1740983719,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 184707,
+      "num": 184707,
+      "word": "爱你 小虐",
+      "onboard_time": 1741013779,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 184675,
@@ -4787,6 +4843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173429,
+      "num": 163209,
+      "word": "翟潇闻直播",
+      "onboard_time": 1741014559,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173001,
       "num": 183618,
       "word": "九尾Fly爬山好搭子",
@@ -4827,20 +4891,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 171947,
-      "num": 171947,
-      "word": "第一部女A男B的国产剧",
-      "onboard_time": 1741003878,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 171388,
       "num": 235912,
       "word": "赵丽颖美好的生活里",
       "onboard_time": 1740799638,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171123,
+      "num": 171123,
+      "word": "ELLE主编孙哲对话肖战",
+      "onboard_time": 1741013120,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 170993,
@@ -5201,6 +5265,14 @@
       "onboard_time": 1740826642,
       "rank": 30,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 161467,
+      "num": 161467,
+      "word": "杨幂把蜜蜂带身上",
+      "onboard_time": 1741012400,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 161217,
@@ -5771,6 +5843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 147305,
+      "num": 147305,
+      "word": "滤镜乱成一锅粥了快吃了吧",
+      "onboard_time": 1741013420,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146910,
       "num": 176446,
       "word": "侯明昊时装周待遇",
@@ -5785,14 +5865,6 @@
       "onboard_time": 1740926059,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 146537,
-      "num": 146537,
-      "word": "杨幂把蜜蜂带身上",
-      "onboard_time": 1741012400,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 146460,
@@ -6403,6 +6475,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 130432,
+      "num": 130432,
+      "word": "狗狗坐电梯也没忘了疼人",
+      "onboard_time": 1741012400,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130095,
       "num": 130095,
       "word": "阎鹤祥在德云社还是太权威了",
@@ -6563,14 +6643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 126809,
-      "num": 126809,
-      "word": "狗狗坐电梯也没忘了疼人",
-      "onboard_time": 1741012400,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 126526,
       "num": 126526,
       "word": "多名马拉松跑者疑在学校牌匾前小便",
@@ -6593,6 +6665,14 @@
       "onboard_time": 1740886818,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 126318,
+      "num": 420052,
+      "word": "山航济南暴雪中硬核降落",
+      "onboard_time": 1741005738,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126284,
@@ -6683,6 +6763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123705,
+      "num": 123705,
+      "word": "苏新皓超话连续九周达成钻三",
+      "onboard_time": 1741013480,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123307,
       "num": 123307,
       "word": "林高远体测跳远满分",
@@ -6713,6 +6801,14 @@
       "onboard_time": 1740989298,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122352,
+      "num": 122352,
+      "word": "谁家女主一拳拿下一个闺蜜",
+      "onboard_time": 1741015219,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 122283,
@@ -6753,6 +6849,14 @@
       "onboard_time": 1740814645,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120947,
+      "num": 120947,
+      "word": "白鹿华子1.0 帅是一种感觉",
+      "onboard_time": 1741015517,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 120930,
@@ -6809,6 +6913,14 @@
       "onboard_time": 1740790637,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118991,
+      "num": 118991,
+      "word": "腾讯元宝下载量超DeepSeek",
+      "onboard_time": 1741014739,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 118862,
@@ -6953,6 +7065,14 @@
       "onboard_time": 1740985997,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115257,
+      "num": 115257,
+      "word": "确诊该省省该花花型老外了",
+      "onboard_time": 1741013959,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 115148,
@@ -7233,6 +7353,14 @@
       "onboard_time": 1740813390,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105598,
+      "num": 105598,
+      "word": "还有我没见过的王一博",
+      "onboard_time": 1741014380,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 105475,
@@ -8995,6 +9123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 31289,
+      "num": 179425,
+      "word": "院士说对年轻人要足够地致敬",
+      "onboard_time": 1741015279,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30988,
       "num": 196224,
       "word": "大爷儿时被抱养做梦都在找父母",
@@ -9089,14 +9225,6 @@
       "onboard_time": 1740908839,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 27064,
-      "num": 420052,
-      "word": "山航济南暴雪中硬核降落",
-      "onboard_time": 1741005738,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27052,
@@ -9355,6 +9483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 19300,
+      "num": 170483,
+      "word": "为何今年开局就逢极端气候",
+      "onboard_time": 1741015338,
+      "rank": 22,
+      "category": "民生新闻,科学科普"
+    },
+    {
       "raw_hot": 19268,
       "num": 30159,
       "word": "板蓝根青菜是啥味",
@@ -9369,6 +9505,14 @@
       "onboard_time": 1740912859,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18521,
+      "num": 165173,
+      "word": "高亭宇不负每一次热爱",
+      "onboard_time": 1741014860,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 18267,
@@ -9724,6 +9868,9 @@
     },
     {
       "word": "#每一个人都是主角#"
+    },
+    {
+      "word": "#习近平总书记心头的重要牵挂#"
     }
   ]
 }

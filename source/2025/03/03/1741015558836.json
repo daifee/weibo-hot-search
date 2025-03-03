@@ -1,0 +1,410 @@
+{
+  "runTime": 1741015558836,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1029227,
+        "num": 1164676,
+        "word": "下一个爆火的小众城市会是谁",
+        "onboard_time": 1741008139,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 771411,
+        "num": 771411,
+        "word": "歌手",
+        "onboard_time": 1741002919,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34469,
+        "num": 654130,
+        "word": "一文速览全国两会首场新闻发布会",
+        "onboard_time": 1741004959,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 581070,
+        "num": 581070,
+        "word": "G2985次动车为救人破例临停",
+        "onboard_time": 1741001419,
+        "rank": 3,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 769767,
+        "num": 576169,
+        "word": "夜旅人",
+        "onboard_time": 1741014019,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255283,
+        "num": 255283,
+        "word": "武汉下雪",
+        "onboard_time": 1741004718,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 610043,
+        "num": 245629,
+        "word": "北上收视率",
+        "onboard_time": 1741006879,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 485738,
+        "num": 240452,
+        "word": "难哄吻戏这一分钟",
+        "onboard_time": 1741011380,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 424964,
+        "num": 239111,
+        "word": "哪吒2成首部破20亿美元亚洲电影",
+        "onboard_time": 1740998358,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 234332,
+        "num": 234332,
+        "word": "盒马不再对标山姆",
+        "onboard_time": 1740991339,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 813781,
+        "num": 228964,
+        "word": "同栋楼数十名男业主女友竟是同一人",
+        "onboard_time": 1741010300,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 753371,
+        "num": 228282,
+        "word": "徐若晗好韩",
+        "onboard_time": 1741011979,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 380309,
+        "num": 226526,
+        "word": "第一部女A男B的国产剧",
+        "onboard_time": 1741003878,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211823,
+        "num": 211823,
+        "word": "委员谈制止体育界饭圈文化",
+        "onboard_time": 1741013420,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199967,
+        "num": 199967,
+        "word": "鲁A55X7E暴雪中拖完公交拖扫雪车",
+        "onboard_time": 1741006700,
+        "rank": 14,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 191505,
+        "num": 191505,
+        "word": "北上好有质感",
+        "onboard_time": 1741007419,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184707,
+        "num": 184707,
+        "word": "爱你 小虐",
+        "onboard_time": 1741013779,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31289,
+        "num": 179425,
+        "word": "院士说对年轻人要足够地致敬",
+        "onboard_time": 1741015279,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175277,
+        "num": 175277,
+        "word": "杨妞花点燃6000米鞭炮祭拜父母",
+        "onboard_time": 1741001718,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171123,
+        "num": 171123,
+        "word": "ELLE主编孙哲对话肖战",
+        "onboard_time": 1741013120,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 414840,
+        "num": 170951,
+        "word": "iPhone13跌至半价后销量暴增10倍",
+        "onboard_time": 1741002738,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 403654,
+        "num": 170768,
+        "word": "刘浩存赵今麦 miumiu",
+        "onboard_time": 1740994700,
+        "rank": 21,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 19300,
+        "num": 170483,
+        "word": "为何今年开局就逢极端气候",
+        "onboard_time": 1741015338,
+        "rank": 22,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 319471,
+        "num": 170276,
+        "word": "单休比双休多拿多少钱才算合理",
+        "onboard_time": 1741013238,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169997,
+        "num": 169997,
+        "word": "被吵醒的小猫变成了申公豹",
+        "onboard_time": 1741004058,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126318,
+        "num": 169655,
+        "word": "山航济南暴雪中硬核降落",
+        "onboard_time": 1741005738,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201867,
+        "num": 168909,
+        "word": "花十几小时做的肉一双筷子就能切开",
+        "onboard_time": 1741013720,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 190638,
+        "num": 166829,
+        "word": "aespa演唱会没给宁艺卓打光",
+        "onboard_time": 1741005798,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 185663,
+        "num": 165793,
+        "word": "我是徐明浩我不演了",
+        "onboard_time": 1741013000,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18521,
+        "num": 165173,
+        "word": "高亭宇不负每一次热爱",
+        "onboard_time": 1741014860,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183667,
+        "num": 164643,
+        "word": "北上开播",
+        "onboard_time": 1741002799,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173429,
+        "num": 163209,
+        "word": "翟潇闻直播",
+        "onboard_time": 1741014559,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177450,
+        "num": 162235,
+        "word": "北上",
+        "onboard_time": 1740993259,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161467,
+        "num": 161467,
+        "word": "杨幂把蜜蜂带身上",
+        "onboard_time": 1741012400,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147305,
+        "num": 147305,
+        "word": "滤镜乱成一锅粥了快吃了吧",
+        "onboard_time": 1741013420,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145825,
+        "num": 145825,
+        "word": "白鹿虞书欣新剧或将对打",
+        "onboard_time": 1741004298,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135446,
+        "num": 135446,
+        "word": "董明珠称挖人是小偷行为",
+        "onboard_time": 1741009339,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 135206,
+        "num": 135206,
+        "word": "爱你",
+        "onboard_time": 1741002678,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131095,
+        "num": 131095,
+        "word": "章若楠我承认之前对你的声音大了点",
+        "onboard_time": 1740990438,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130432,
+        "num": 130432,
+        "word": "狗狗坐电梯也没忘了疼人",
+        "onboard_time": 1741012400,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124820,
+        "num": 124820,
+        "word": "王鹤棣和大奉原著作者互拍互曝",
+        "onboard_time": 1741012162,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123705,
+        "num": 123705,
+        "word": "苏新皓超话连续九周达成钻三",
+        "onboard_time": 1741013480,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122352,
+        "num": 122352,
+        "word": "谁家女主一拳拿下一个闺蜜",
+        "onboard_time": 1741015219,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120947,
+        "num": 120947,
+        "word": "白鹿华子1.0 帅是一种感觉",
+        "onboard_time": 1741015517,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120452,
+        "num": 120452,
+        "word": "张天爱自曝体重96.4斤",
+        "onboard_time": 1740998777,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118991,
+        "num": 118991,
+        "word": "腾讯元宝下载量超DeepSeek",
+        "onboard_time": 1741014739,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 115257,
+        "num": 115257,
+        "word": "确诊该省省该花花型老外了",
+        "onboard_time": 1741013959,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113762,
+        "num": 113762,
+        "word": "田曦薇粉色猫猫头",
+        "onboard_time": 1741010599,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112780,
+        "num": 112780,
+        "word": "马柏全 青海",
+        "onboard_time": 1741004358,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105598,
+        "num": 105598,
+        "word": "还有我没见过的王一博",
+        "onboard_time": 1741014380,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记心头的重要牵挂#"
+    }
+  }
+}
