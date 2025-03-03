@@ -1,6 +1,6 @@
 {
   "startTime": 1740932816657,
-  "endTime": 1740994025634,
+  "endTime": 1740994834457,
   "band_list": [
     {
       "raw_hot": 2261873,
@@ -235,6 +235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 592574,
+      "num": 592574,
+      "word": "以为是缺点其实是基因彩票",
+      "onboard_time": 1740990500,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 591826,
       "num": 462944,
       "word": "胡歌杨紫 生命树",
@@ -305,14 +313,6 @@
       "onboard_time": 1740920601,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 582329,
-      "num": 582329,
-      "word": "以为是缺点其实是基因彩票",
-      "onboard_time": 1740990500,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 571206,
@@ -899,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201421,
+      "num": 323720,
+      "word": "深圳就业应届毕业生最高补贴10万",
+      "onboard_time": 1740988578,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199528,
       "num": 240754,
       "word": "奥斯卡提名",
@@ -931,12 +939,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195526,
+      "num": 214338,
+      "word": "一殡仪馆将向死者家属退还部分费用",
+      "onboard_time": 1740994159,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193728,
       "num": 193728,
       "word": "敖瑞鹏包场了白鹿北上",
       "onboard_time": 1740984438,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193204,
+      "num": 168756,
+      "word": "网友新加坡偶遇尚雯婕",
+      "onboard_time": 1740994159,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 192203,
@@ -1052,7 +1076,7 @@
     },
     {
       "raw_hot": 178324,
-      "num": 148803,
+      "num": 152965,
       "word": "手串",
       "onboard_time": 1740988879,
       "rank": 47,
@@ -1105,6 +1129,14 @@
       "onboard_time": 1740971420,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168959,
+      "num": 153812,
+      "word": "杨浅悠发博",
+      "onboard_time": 1740994397,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 168624,
@@ -1251,14 +1283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 156228,
-      "num": 323720,
-      "word": "深圳就业应届毕业生最高补贴10万",
-      "onboard_time": 1740988578,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 155687,
       "num": 155687,
       "word": "库里扮演邦女郎",
@@ -1313,6 +1337,14 @@
       "onboard_time": 1740974060,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 153614,
+      "num": 153614,
+      "word": "排版大师贺峻霖",
+      "onboard_time": 1740993620,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 153500,
@@ -1403,6 +1435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 145636,
+      "num": 145636,
+      "word": "李兰迪 一下子就夹起来了",
+      "onboard_time": 1740994038,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144268,
       "num": 144268,
       "word": "赵丽颖新角色眼里有刀",
@@ -1417,6 +1457,14 @@
       "onboard_time": 1740929540,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143175,
+      "num": 143175,
+      "word": "明日方舟",
+      "onboard_time": 1740993799,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 143038,
@@ -1515,14 +1563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 136596,
-      "num": 136596,
-      "word": "明日方舟",
-      "onboard_time": 1740993799,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 134869,
       "num": 134869,
       "word": "直播全国政协十四届三次会议发布会",
@@ -1595,14 +1635,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 128145,
-      "num": 128145,
-      "word": "排版大师贺峻霖",
-      "onboard_time": 1740993620,
-      "rank": 39,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 127414,
       "num": 127414,
       "word": "布劳迪二封奥斯卡影帝",
@@ -1665,6 +1697,14 @@
       "onboard_time": 1740959178,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 125148,
+      "num": 125148,
+      "word": "刘浩存赵今麦 miumiu",
+      "onboard_time": 1740994700,
+      "rank": 42,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 124556,
@@ -1859,6 +1899,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 101187,
+      "num": 161054,
+      "word": "年轻人会关心哪些两会话题",
+      "onboard_time": 1740994579,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 100976,
       "num": 112214,
       "word": "宋亚轩直播改时间",
@@ -1891,6 +1939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97277,
+      "num": 294040,
+      "word": "建议将心理健康列为中小学必修课",
+      "onboard_time": 1740992779,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96989,
       "num": 96989,
       "word": "时代峰峻高会回复",
@@ -1905,6 +1961,14 @@
       "onboard_time": 1740965418,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 93358,
+      "num": 150011,
+      "word": "个税起征点可适度提高但不宜过高",
+      "onboard_time": 1740992838,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93246,
@@ -1929,14 +1993,6 @@
       "onboard_time": 1740957376,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 92266,
-      "num": 150011,
-      "word": "个税起征点可适度提高但不宜过高",
-      "onboard_time": 1740992838,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91371,
@@ -2307,14 +2363,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 39333,
-      "num": 294040,
-      "word": "建议将心理健康列为中小学必修课",
-      "onboard_time": 1740992779,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 39257,
       "num": 149318,
       "word": "唐九洲苏叶哥打扰了臣告退",
@@ -2379,6 +2427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 25697,
+      "num": 176174,
+      "word": "当地称将尽全力帮助李坤朋家人",
+      "onboard_time": 1740993738,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25521,
       "num": 42373,
       "word": "Steam在线人数突破4000万",
@@ -2412,7 +2468,7 @@
     },
     {
       "raw_hot": 21535,
-      "num": 150817,
+      "num": 153945,
       "word": "超150万公里验证的电车",
       "onboard_time": 1740993139,
       "rank": 28,
@@ -2515,14 +2571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14474,
-      "num": 176174,
-      "word": "当地称将尽全力帮助李坤朋家人",
-      "onboard_time": 1740993738,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 13258,
       "num": 17363,
       "word": "寒潮继续影响中东部地区",
@@ -2545,6 +2593,14 @@
       "onboard_time": 1740986119,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 8743,
+      "num": 146387,
+      "word": "粉色汉堡出片的神",
+      "onboard_time": 1740994579,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 8473,
