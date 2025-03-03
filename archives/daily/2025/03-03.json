@@ -1,6 +1,6 @@
 {
   "startTime": 1740932816657,
-  "endTime": 1740976148944,
+  "endTime": 1740976971261,
   "band_list": [
     {
       "raw_hot": 2261873,
@@ -91,12 +91,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 823509,
+      "num": 823509,
+      "word": "女生经常熬夜打麻将患上耳石症",
+      "onboard_time": 1740974120,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 805381,
       "num": 805381,
       "word": "雷军说大家不要觉得我们赢得很容易",
       "onboard_time": 1740964219,
       "rank": 13,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 693408,
+      "num": 693408,
+      "word": "诈骗了黄牛3场演唱会被判还8800",
+      "onboard_time": 1740974779,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 651589,
@@ -116,7 +132,7 @@
     },
     {
       "raw_hot": 614587,
-      "num": 285633,
+      "num": 304413,
       "word": "冯小刚全女阵容",
       "onboard_time": 1740971780,
       "rank": 20,
@@ -235,14 +251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 452457,
-      "num": 452457,
-      "word": "女生经常熬夜打麻将患上耳石症",
-      "onboard_time": 1740974120,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 411263,
       "num": 411263,
       "word": "美国要的钱乌克兰得还63年",
@@ -267,12 +275,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 384234,
+      "num": 384234,
+      "word": "白敬亭演技",
+      "onboard_time": 1740974719,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 365070,
       "num": 365070,
       "word": "英法乌将向美提和平计划",
       "onboard_time": 1740956834,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 355606,
+      "num": 408863,
+      "word": "上班杀死了我的文化体力",
+      "onboard_time": 1740974660,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 354288,
@@ -371,20 +395,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 301518,
-      "num": 301518,
-      "word": "白敬亭演技",
-      "onboard_time": 1740974719,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 295965,
       "num": 295965,
       "word": "美国一92人客机飞行中发紧急信号",
       "onboard_time": 1740964040,
       "rank": 6,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 288572,
+      "num": 288572,
+      "word": "奥运冠军演我体测",
+      "onboard_time": 1740972559,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 285653,
@@ -451,14 +475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 240924,
-      "num": 240924,
-      "word": "奥运冠军演我体测",
-      "onboard_time": 1740972559,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 240639,
       "num": 240639,
       "word": "湖北一县委书记向躺平式干部宣战",
@@ -475,6 +491,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 229586,
+      "num": 229586,
+      "word": "36名男士恋爱1个月背上百万房贷",
+      "onboard_time": 1740975861,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 229082,
       "num": 229082,
       "word": "冷冷冷周一冷冷冷",
@@ -483,12 +507,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 218770,
-      "num": 318876,
-      "word": "诈骗了黄牛3场演唱会被判还8800",
-      "onboard_time": 1740974779,
-      "rank": 16,
-      "category": "民生新闻"
+      "raw_hot": 221391,
+      "num": 221391,
+      "word": "改毕业论文把小猫给熬枯了",
+      "onboard_time": 1740973939,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 217938,
@@ -497,14 +521,6 @@
       "onboard_time": 1740972439,
       "rank": 17,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 212991,
-      "num": 408863,
-      "word": "上班杀死了我的文化体力",
-      "onboard_time": 1740974660,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 207446,
@@ -521,6 +537,14 @@
       "onboard_time": 1740968299,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 204479,
+      "num": 204479,
+      "word": "雷军回应发布会穿衣被质疑抄袭",
+      "onboard_time": 1740975382,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 203668,
@@ -571,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195561,
+      "num": 221410,
+      "word": "杨紫听见世界的温柔与澎湃",
+      "onboard_time": 1740976641,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190345,
       "num": 190345,
       "word": "代表建议个税起征点提高至10万元",
@@ -587,12 +619,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 182559,
-      "num": 182559,
+      "raw_hot": 187092,
+      "num": 187092,
       "word": "难哄",
       "onboard_time": 1740975321,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186711,
+      "num": 588758,
+      "word": "妙瓦底620余名中国籍涉诈人员被遣返",
+      "onboard_time": 1740975439,
+      "rank": 9,
+      "category": "民生新闻,国际时政"
     },
     {
       "raw_hot": 181713,
@@ -635,12 +675,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 169308,
-      "num": 169308,
-      "word": "雷军回应发布会穿衣被质疑抄袭",
-      "onboard_time": 1740975382,
-      "rank": 39,
-      "category": "互联网"
+      "raw_hot": 172220,
+      "num": 172220,
+      "word": "难哄会过型女主演我抠门方式",
+      "onboard_time": 1740973099,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 168624,
@@ -667,36 +707,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166538,
-      "num": 166538,
-      "word": "改毕业论文把小猫给熬枯了",
-      "onboard_time": 1740973939,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 166335,
       "num": 154150,
       "word": "徐明浩结束创造营亚洲2录制",
       "onboard_time": 1740927620,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 165219,
-      "num": 165219,
-      "word": "难哄会过型女主演我抠门方式",
-      "onboard_time": 1740973099,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 164349,
-      "num": 164349,
-      "word": "36名男士恋爱1个月背上百万房贷",
-      "onboard_time": 1740975861,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 164149,
@@ -808,6 +824,14 @@
       "word": "湖南即将进入寒潮发威最强时段",
       "onboard_time": 1740932357,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149088,
+      "num": 149088,
+      "word": "上海街头15分钟集邮10个机械姬",
+      "onboard_time": 1740976220,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -923,6 +947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127414,
+      "num": 127414,
+      "word": "布劳迪二封奥斯卡影帝",
+      "onboard_time": 1740976700,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 127362,
       "num": 318645,
       "word": "周也落日回眸巴黎出发图",
@@ -935,6 +967,14 @@
       "num": 127258,
       "word": "北上中式顶级邻里关系",
       "onboard_time": 1740972260,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 126768,
+      "num": 126768,
+      "word": "刘浩存主角开机路透图",
+      "onboard_time": 1740976760,
       "rank": 47,
       "category": "剧集"
     },
@@ -1035,14 +1075,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 109320,
-      "num": 473799,
-      "word": "妙瓦底620余名中国籍涉诈人员被遣返",
-      "onboard_time": 1740975439,
-      "rank": 9,
-      "category": "民生新闻,国际时政"
-    },
-    {
       "raw_hot": 108532,
       "num": 108532,
       "word": "济南气温满20减19",
@@ -1073,6 +1105,14 @@
       "onboard_time": 1740912380,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106131,
+      "num": 293870,
+      "word": "养老规划师招聘号称月入十万",
+      "onboard_time": 1740974899,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105377,
@@ -1131,12 +1171,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 93180,
-      "num": 293870,
-      "word": "养老规划师招聘号称月入十万",
-      "onboard_time": 1740974899,
+      "raw_hot": 93000,
+      "num": 311485,
+      "word": "新加坡偶遇尤长靖",
+      "onboard_time": 1740976342,
       "rank": 19,
-      "category": "民生新闻"
+      "category": "艺人"
     },
     {
       "raw_hot": 92318,
@@ -1153,6 +1193,14 @@
       "onboard_time": 1740913879,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 90940,
+      "num": 126347,
+      "word": "小米15Ultra海外售价超iPhone",
+      "onboard_time": 1740976822,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 88521,
@@ -1251,6 +1299,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 77412,
+      "num": 887735,
+      "word": "9图了解人大知识点",
+      "onboard_time": 1740975680,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 73062,
       "num": 73062,
       "word": "外贸订单UP",
@@ -1339,14 +1395,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 50071,
-      "num": 887735,
-      "word": "9图了解人大知识点",
-      "onboard_time": 1740975680,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 49942,
       "num": 52423,
       "word": "张凌赫还没看过白天的鼋头渚",
@@ -1377,6 +1425,14 @@
       "onboard_time": 1740971780,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 39257,
+      "num": 149318,
+      "word": "唐九洲苏叶哥打扰了臣告退",
+      "onboard_time": 1740974480,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 38468,
@@ -1523,20 +1579,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 16608,
+      "num": 620462,
+      "word": "一起点亮春日中国",
+      "onboard_time": 1740976040,
+      "rank": 34,
+      "category": "民生新闻,国内时政"
+    },
+    {
       "raw_hot": 15133,
       "num": 67967,
       "word": "他守护国宝躲过日寇劫掠",
       "onboard_time": 1740955994,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13634,
-      "num": 184058,
-      "word": "一起点亮春日中国",
-      "onboard_time": 1740976040,
-      "rank": 34,
-      "category": "民生新闻,国内时政"
     },
     {
       "raw_hot": 13258,
@@ -1572,6 +1628,9 @@
     },
     {
       "word": "#总书记两会关心的那些事#"
+    },
+    {
+      "word": "#两会上这些照片吸引了总书记的目光#"
     }
   ]
 }
