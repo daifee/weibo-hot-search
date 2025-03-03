@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741026650557,
+  "endTime": 1741027440257,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -9795,6 +9795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 17429,
+      "num": 43453,
+      "word": "一级保护动物自带彩色小围嘴",
+      "onboard_time": 1741025413,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17374,
       "num": 38618,
       "word": "哈马斯称以色列试图让谈判退回原点",
@@ -9859,6 +9867,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 16075,
+      "num": 19514,
+      "word": "爱你女主一边清醒一边沉沦",
+      "onboard_time": 1741026852,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 15860,
       "num": 18762,
       "word": "2025花样滑冰世青赛",
@@ -9897,14 +9913,6 @@
       "onboard_time": 1740860231,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 15065,
-      "num": 43453,
-      "word": "一级保护动物自带彩色小围嘴",
-      "onboard_time": 1741025413,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14665,
@@ -9987,20 +9995,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 11225,
+      "num": 43900,
+      "word": "建议心理健康纳入必修课",
+      "onboard_time": 1741026612,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 11025,
       "num": 41471,
       "word": "专家解答七星连珠真的罕见吗",
       "onboard_time": 1740773891,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10618,
-      "num": 20757,
-      "word": "建议心理健康纳入必修课",
-      "onboard_time": 1741026612,
-      "rank": 43,
-      "category": "国内时政"
     },
     {
       "raw_hot": 9945,

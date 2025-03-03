@@ -1,6 +1,6 @@
 {
   "startTime": 1741019331864,
-  "endTime": 1741026650557,
+  "endTime": 1741027440257,
   "band_list": [
     {
       "raw_hot": 1352534,
@@ -523,6 +523,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 17429,
+      "num": 43453,
+      "word": "一级保护动物自带彩色小围嘴",
+      "onboard_time": 1741025413,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16703,
       "num": 20583,
       "word": "何浩楠日常干活vlog",
@@ -531,16 +539,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 15065,
-      "num": 43453,
-      "word": "一级保护动物自带彩色小围嘴",
-      "onboard_time": 1741025413,
-      "rank": 15,
-      "category": "民生新闻"
+      "raw_hot": 16075,
+      "num": 19514,
+      "word": "爱你女主一边清醒一边沉沦",
+      "onboard_time": 1741026852,
+      "rank": 48,
+      "category": "剧集"
     },
     {
-      "raw_hot": 10618,
-      "num": 20757,
+      "raw_hot": 11225,
+      "num": 43900,
       "word": "建议心理健康纳入必修课",
       "onboard_time": 1741026612,
       "rank": 43,
