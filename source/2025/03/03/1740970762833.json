@@ -1,0 +1,410 @@
+{
+  "runTime": 1740970762833,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2212103,
+        "num": 2212103,
+        "word": "余华英死刑后杨妞花回应是否会退网",
+        "onboard_time": 1740968839,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1307025,
+        "num": 1307025,
+        "word": "奥斯卡",
+        "onboard_time": 1740963319,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 64223,
+        "num": 1200737,
+        "word": "中国制造硬核出圈",
+        "onboard_time": 1740923120,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1109682,
+        "num": 1109682,
+        "word": "奥斯卡主持人说中文",
+        "onboard_time": 1740967339,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 645070,
+        "num": 645070,
+        "word": "DeepSeek没彻底改变全球AI发展格局",
+        "onboard_time": 1740969558,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 618152,
+        "num": 618152,
+        "word": "雷军说大家不要觉得我们赢得很容易",
+        "onboard_time": 1740964219,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 585217,
+        "num": 585217,
+        "word": "向阳花定档",
+        "onboard_time": 1740967039,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 561038,
+        "num": 561038,
+        "word": "这支短片领衔主演是14亿中国人",
+        "onboard_time": 1740966318,
+        "rank": 7,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 560911,
+        "num": 560911,
+        "word": "牙齿会影响整个身体健康",
+        "onboard_time": 1740963259,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 404588,
+        "num": 523931,
+        "word": "衡水学生家长认为双休是胡搞",
+        "onboard_time": 1740969738,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 513526,
+        "num": 513526,
+        "word": "泽连斯基称愿以辞职换乌进北约",
+        "onboard_time": 1740958877,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 510052,
+        "num": 510052,
+        "word": "两会",
+        "onboard_time": 1740963979,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 434203,
+        "num": 434203,
+        "word": "主角官宣阵容",
+        "onboard_time": 1740967097,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 424189,
+        "num": 424189,
+        "word": "戚薇眼睛",
+        "onboard_time": 1740925941,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 358047,
+        "num": 358047,
+        "word": "方大同",
+        "onboard_time": 1740963498,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308488,
+        "num": 308488,
+        "word": "肖战在巴塞罗那被偶遇",
+        "onboard_time": 1740968479,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113871,
+        "num": 300916,
+        "word": "周也落日回眸巴黎出发图",
+        "onboard_time": 1740970159,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 299019,
+        "num": 299019,
+        "word": "电影长安的荔枝定档",
+        "onboard_time": 1740969800,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 81401,
+        "num": 296584,
+        "word": "猫猫得到了奥斯卡小金人",
+        "onboard_time": 1740970039,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144625,
+        "num": 285335,
+        "word": "快船vs湖人",
+        "onboard_time": 1740970159,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 337232,
+        "num": 280947,
+        "word": "全红婵幽默点评王楚钦化妆",
+        "onboard_time": 1740968359,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258390,
+        "num": 265300,
+        "word": "这次山东等地暴雪并不异常",
+        "onboard_time": 1740920480,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263286,
+        "num": 263286,
+        "word": "建议各地制定彩礼金额上限标准",
+        "onboard_time": 1740968659,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251081,
+        "num": 251081,
+        "word": "新加坡偶遇林俊杰吃早餐",
+        "onboard_time": 1740963859,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230844,
+        "num": 230844,
+        "word": "张凌赫 爸妈爷奶都知道了",
+        "onboard_time": 1740927560,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229082,
+        "num": 229082,
+        "word": "冷冷冷周一冷冷冷",
+        "onboard_time": 1740960138,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218547,
+        "num": 218547,
+        "word": "00后买二手车做婚车遭家人反对",
+        "onboard_time": 1740969558,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210373,
+        "num": 210373,
+        "word": "嘘国王在冬眠",
+        "onboard_time": 1740970219,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116904,
+        "num": 204017,
+        "word": "杨妞花今日回家告慰父母",
+        "onboard_time": 1740968839,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58414,
+        "num": 200380,
+        "word": "这种让牙齿易脱落的病被很多年轻人忽视",
+        "onboard_time": 1740970039,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 199417,
+        "num": 199417,
+        "word": "105岁老太每天遛弯还能洗菜煮饭",
+        "onboard_time": 1740968299,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173343,
+        "num": 173343,
+        "word": "贵女",
+        "onboard_time": 1740970399,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165043,
+        "num": 165043,
+        "word": "徐玉坤为Angelababy发声",
+        "onboard_time": 1740959358,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162365,
+        "num": 162365,
+        "word": "湖北一县委书记向躺平式干部宣战",
+        "onboard_time": 1740960559,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159621,
+        "num": 159621,
+        "word": "美国要的钱乌克兰得还63年",
+        "onboard_time": 1740962180,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146599,
+        "num": 146599,
+        "word": "美国一92人客机飞行中发紧急信号",
+        "onboard_time": 1740964040,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 142893,
+        "num": 142893,
+        "word": "奥斯卡预热派对",
+        "onboard_time": 1740967698,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142829,
+        "num": 142829,
+        "word": "西园寺击掌猫猫疑似emo",
+        "onboard_time": 1740967999,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141563,
+        "num": 141563,
+        "word": "生命树",
+        "onboard_time": 1740967220,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136624,
+        "num": 136624,
+        "word": "白鹿说因为警察荣誉才能演北上",
+        "onboard_time": 1740959236,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125761,
+        "num": 125761,
+        "word": "檀健次工作室真让自己人闯进去了",
+        "onboard_time": 1740967758,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125426,
+        "num": 125426,
+        "word": "蜜雪集团高开超29%",
+        "onboard_time": 1740970039,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124552,
+        "num": 124552,
+        "word": "雷军首曝小米可换镜头手机",
+        "onboard_time": 1740928523,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 122750,
+        "num": 122750,
+        "word": "胡歌杨紫 生命树",
+        "onboard_time": 1740928639,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118400,
+        "num": 118400,
+        "word": "手机碰一下钱就没了是真的吗",
+        "onboard_time": 1740964879,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118343,
+        "num": 118343,
+        "word": "刘浩存 幸会忆秦娥",
+        "onboard_time": 1740970520,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118288,
+        "num": 118288,
+        "word": "甜茶金小妹奥斯卡接吻",
+        "onboard_time": 1740969377,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110503,
+        "num": 110503,
+        "word": "似锦5集口碑",
+        "onboard_time": 1740965418,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110232,
+        "num": 110232,
+        "word": "库里扮演邦女郎",
+        "onboard_time": 1740970699,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110062,
+        "num": 110062,
+        "word": "全国两会里的幸福密码",
+        "onboard_time": 1740969138,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对年轻干部提出这些要求#"
+    }
+  }
+}
