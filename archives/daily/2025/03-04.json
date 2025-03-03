@@ -1,6 +1,6 @@
 {
   "startTime": 1741019331864,
-  "endTime": 1741020322412,
+  "endTime": 1741022468556,
   "band_list": [
     {
       "raw_hot": 1352534,
@@ -27,6 +27,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 571215,
+      "num": 108101,
+      "word": "刘耀文",
+      "onboard_time": 1741021454,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 509977,
       "num": 168328,
       "word": "夜旅人",
@@ -41,6 +49,14 @@
       "onboard_time": 1741002919,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 459883,
+      "num": 106450,
+      "word": "宋亚轩",
+      "onboard_time": 1741021215,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 436847,
@@ -147,11 +163,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199542,
+      "num": 104510,
+      "word": "女子按摩肩颈后急性脑梗死进了ICU",
+      "onboard_time": 1741021215,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180645,
       "num": 157355,
       "word": "白鹿华子1.0 帅是一种感觉",
       "onboard_time": 1741015517,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 175449,
+      "num": 141883,
+      "word": "徐若晗 你真的要和我结婚吗",
+      "onboard_time": 1741017738,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -163,12 +195,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 141883,
-      "num": 141883,
-      "word": "徐若晗 你真的要和我结婚吗",
-      "onboard_time": 1741017738,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 142649,
+      "num": 142649,
+      "word": "官方回应网传汕头出现海市蜃楼",
+      "onboard_time": 1741020076,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134575,
@@ -283,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85724,
+      "num": 173440,
+      "word": "中国成功研制祖冲之三号量子计算原型机",
+      "onboard_time": 1741018637,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 83467,
       "num": 83467,
       "word": "爱你",
@@ -305,14 +345,6 @@
       "onboard_time": 1741015219,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 79915,
-      "num": 173440,
-      "word": "中国成功研制祖冲之三号量子计算原型机",
-      "onboard_time": 1741018637,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 78657,
@@ -425,6 +457,22 @@
       "onboard_time": 1741014559,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 48283,
+      "num": 48283,
+      "word": "仁心俱乐部",
+      "onboard_time": 1741021393,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 36885,
+      "num": 36885,
+      "word": "田曦薇粉色猫猫头",
+      "onboard_time": 1741010599,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 22266,

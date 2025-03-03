@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1741020322412,
+  "endTime": 1741022468556,
   "band_list": [
     {
       "raw_hot": 3194275,
@@ -899,6 +899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 571215,
+      "num": 108101,
+      "word": "刘耀文",
+      "onboard_time": 1741021454,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 571206,
       "num": 455799,
       "word": "奥斯卡缅怀郑佩佩",
@@ -1161,6 +1169,14 @@
       "onboard_time": 1740896360,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 459883,
+      "num": 106450,
+      "word": "宋亚轩",
+      "onboard_time": 1741021215,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 459806,
@@ -2707,6 +2723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 199542,
+      "num": 104510,
+      "word": "女子按摩肩颈后急性脑梗死进了ICU",
+      "onboard_time": 1741021215,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199528,
       "num": 240754,
       "word": "奥斯卡提名",
@@ -3145,6 +3169,14 @@
       "onboard_time": 1740835883,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175449,
+      "num": 141883,
+      "word": "徐若晗 你真的要和我结婚吗",
+      "onboard_time": 1741017738,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 175405,
@@ -4043,6 +4075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142649,
+      "num": 142649,
+      "word": "官方回应网传汕头出现海市蜃楼",
+      "onboard_time": 1741020076,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142539,
       "num": 142539,
       "word": "A勒布伦期待与樊振东再次交手",
@@ -4064,14 +4104,6 @@
       "word": "生命树",
       "onboard_time": 1740967220,
       "rank": 29,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 141883,
-      "num": 141883,
-      "word": "徐若晗 你真的要和我结婚吗",
-      "onboard_time": 1741017738,
-      "rank": 27,
       "category": "剧集"
     },
     {
@@ -5467,6 +5499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 85724,
+      "num": 173440,
+      "word": "中国成功研制祖冲之三号量子计算原型机",
+      "onboard_time": 1741018637,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 85185,
       "num": 362036,
       "word": "济南暴雪多区中小学校幼儿园停课",
@@ -5537,14 +5577,6 @@
       "onboard_time": 1740962000,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 79915,
-      "num": 173440,
-      "word": "中国成功研制祖冲之三号量子计算原型机",
-      "onboard_time": 1741018637,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 79882,
@@ -6025,6 +6057,14 @@
       "onboard_time": 1741000999,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 48283,
+      "num": 48283,
+      "word": "仁心俱乐部",
+      "onboard_time": 1741021393,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 48242,

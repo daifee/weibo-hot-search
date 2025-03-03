@@ -1,0 +1,410 @@
+{
+  "runTime": 1741022468556,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 517961,
+        "num": 527318,
+        "word": "女子炒黄金第1天就赚2000元报了警",
+        "onboard_time": 1741016419,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223997,
+        "num": 223997,
+        "word": "歌手",
+        "onboard_time": 1741002919,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14737,
+        "num": 195150,
+        "word": "一文速览全国两会首场新闻发布会",
+        "onboard_time": 1741004959,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 183532,
+        "num": 183532,
+        "word": "徐若晗谈与张凌赫初吻",
+        "onboard_time": 1741016239,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170498,
+        "num": 170498,
+        "word": "山航飞机暴雪中硬核起飞",
+        "onboard_time": 1741015039,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142649,
+        "num": 142649,
+        "word": "官方回应网传汕头出现海市蜃楼",
+        "onboard_time": 1741020076,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117140,
+        "num": 117140,
+        "word": "北上收视率",
+        "onboard_time": 1741006879,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115510,
+        "num": 115510,
+        "word": "G2985次动车为救人破例临停",
+        "onboard_time": 1741001419,
+        "rank": 7,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 175449,
+        "num": 115472,
+        "word": "徐若晗 你真的要和我结婚吗",
+        "onboard_time": 1741017738,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110761,
+        "num": 110761,
+        "word": "下一个爆火的小众城市会是谁",
+        "onboard_time": 1741008139,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 582377,
+        "num": 109833,
+        "word": "日本大爷掉进下水道35天未获救",
+        "onboard_time": 1741016059,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 571215,
+        "num": 108101,
+        "word": "刘耀文",
+        "onboard_time": 1741021454,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 459883,
+        "num": 106450,
+        "word": "宋亚轩",
+        "onboard_time": 1741021215,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199542,
+        "num": 104510,
+        "word": "女子按摩肩颈后急性脑梗死进了ICU",
+        "onboard_time": 1741021215,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189108,
+        "num": 103799,
+        "word": "殡仪馆馆长张平任上被查",
+        "onboard_time": 1741017618,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 160157,
+        "num": 101522,
+        "word": "我是徐明浩我不演了",
+        "onboard_time": 1741013000,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136934,
+        "num": 99848,
+        "word": "夜旅人",
+        "onboard_time": 1741014019,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99364,
+        "num": 99364,
+        "word": "白鹿华子1.0 帅是一种感觉",
+        "onboard_time": 1741015517,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98508,
+        "num": 98508,
+        "word": "哪吒2成首部破20亿美元亚洲电影",
+        "onboard_time": 1740998358,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 85724,
+        "num": 85724,
+        "word": "中国成功研制祖冲之三号量子计算原型机",
+        "onboard_time": 1741018637,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 189934,
+        "num": 83812,
+        "word": "身体好的人肚子是软软的",
+        "onboard_time": 1741018697,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 183846,
+        "num": 83237,
+        "word": "第一部女A男B的国产剧",
+        "onboard_time": 1741003878,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142456,
+        "num": 81761,
+        "word": "iPhone13跌至半价后销量暴增10倍",
+        "onboard_time": 1741002738,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 76048,
+        "num": 76048,
+        "word": "aespa演唱会没给宁艺卓打光",
+        "onboard_time": 1741005798,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 75287,
+        "num": 75287,
+        "word": "难哄吻戏这一分钟",
+        "onboard_time": 1741011380,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75074,
+        "num": 75074,
+        "word": "刘浩存赵今麦 miumiu",
+        "onboard_time": 1740994700,
+        "rank": 25,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 68441,
+        "num": 68441,
+        "word": "北上开播",
+        "onboard_time": 1741002799,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68083,
+        "num": 68083,
+        "word": "滤镜乱成一锅粥了快吃了吧",
+        "onboard_time": 1741013420,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65959,
+        "num": 65959,
+        "word": "徐若晗好韩",
+        "onboard_time": 1741011979,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 64043,
+        "num": 64043,
+        "word": "北上",
+        "onboard_time": 1740993259,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63509,
+        "num": 63509,
+        "word": "腾讯元宝下载量超DeepSeek",
+        "onboard_time": 1741014739,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 61604,
+        "num": 61604,
+        "word": "白鹿虞书欣新剧或将对打",
+        "onboard_time": 1741004298,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51175,
+        "num": 51175,
+        "word": "盒马不再对标山姆",
+        "onboard_time": 1740991339,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 49272,
+        "num": 49272,
+        "word": "摸猫要先让它闻闻手",
+        "onboard_time": 1741018037,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 48915,
+        "num": 48915,
+        "word": "侯明昊进组玉茗茶骨",
+        "onboard_time": 1741019597,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48535,
+        "num": 48535,
+        "word": "爱你",
+        "onboard_time": 1741002678,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48283,
+        "num": 48283,
+        "word": "仁心俱乐部",
+        "onboard_time": 1741021393,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48184,
+        "num": 48184,
+        "word": "赵冬苓回应白鹿是流量花",
+        "onboard_time": 1741020135,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44349,
+        "num": 44349,
+        "word": "王鹤棣和大奉原著作者互拍互曝",
+        "onboard_time": 1741012162,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41832,
+        "num": 41832,
+        "word": "武汉下雪",
+        "onboard_time": 1741004718,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41349,
+        "num": 41349,
+        "word": "马柏全 青海",
+        "onboard_time": 1741004358,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39389,
+        "num": 39389,
+        "word": "爱你 小虐",
+        "onboard_time": 1741013779,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39090,
+        "num": 39090,
+        "word": "花十几小时做的肉一双筷子就能切开",
+        "onboard_time": 1741013720,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 36885,
+        "num": 36885,
+        "word": "田曦薇粉色猫猫头",
+        "onboard_time": 1741010599,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36297,
+        "num": 36297,
+        "word": "滤镜",
+        "onboard_time": 1740997399,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36249,
+        "num": 36249,
+        "word": "委员谈制止体育界饭圈文化",
+        "onboard_time": 1741013420,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35924,
+        "num": 35924,
+        "word": "变靠谱的3个建议",
+        "onboard_time": 1741016598,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 34358,
+        "num": 34358,
+        "word": "章若楠我承认之前对你的声音大了点",
+        "onboard_time": 1740990438,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33891,
+        "num": 33891,
+        "word": "单休比双休多拿多少钱才算合理",
+        "onboard_time": 1741013238,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28293,
+        "num": 33643,
+        "word": "院士说对年轻人要足够地致敬",
+        "onboard_time": 1741015279,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#每一个人都是主角#"
+    }
+  }
+}
