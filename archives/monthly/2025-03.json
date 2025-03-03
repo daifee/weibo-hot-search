@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740997570022,
+  "endTime": 1740998598680,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -291,6 +291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1484236,
+      "num": 480459,
+      "word": "刘浩存赵今麦 miumiu",
+      "onboard_time": 1740994700,
+      "rank": 42,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 1408858,
       "num": 1408858,
       "word": "奥斯卡",
@@ -313,14 +321,6 @@
       "onboard_time": 1740874338,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1283948,
-      "num": 480459,
-      "word": "刘浩存赵今麦 miumiu",
-      "onboard_time": 1740994700,
-      "rank": 42,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 1278503,
@@ -1627,6 +1627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 459806,
+      "num": 459806,
+      "word": "大唐荣耀结局给不了的似锦给了",
+      "onboard_time": 1740995958,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 450099,
       "num": 301637,
       "word": "RIP",
@@ -1856,14 +1864,6 @@
       "word": "白敬亭演技",
       "onboard_time": 1740974719,
       "rank": 17,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 382972,
-      "num": 382972,
-      "word": "大唐荣耀结局给不了的似锦给了",
-      "onboard_time": 1740995958,
-      "rank": 7,
       "category": "剧集"
     },
     {
@@ -2225,6 +2225,14 @@
       "onboard_time": 1740969558,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 319295,
+      "num": 359250,
+      "word": "特鲁多将求助英国王室",
+      "onboard_time": 1740996618,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 318762,
@@ -2812,7 +2820,7 @@
     },
     {
       "raw_hot": 247432,
-      "num": 247432,
+      "num": 308787,
       "word": "白鹿说暂时不想拍古装戏",
       "onboard_time": 1740990798,
       "rank": 44,
@@ -3995,12 +4003,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186393,
+      "num": 172217,
+      "word": "春捂最该捂的3个部位",
+      "onboard_time": 1740996438,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 185965,
       "num": 185965,
       "word": "吉克隽逸悼念方大同",
       "onboard_time": 1740849735,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185769,
+      "num": 160114,
+      "word": "在韩国点外卖的真实经历",
+      "onboard_time": 1740997158,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 185592,
@@ -4419,14 +4443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 172217,
-      "num": 172217,
-      "word": "春捂最该捂的3个部位",
-      "onboard_time": 1740996438,
-      "rank": 25,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 171388,
       "num": 235912,
       "word": "赵丽颖美好的生活里",
@@ -4577,6 +4593,14 @@
       "onboard_time": 1740761955,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166899,
+      "num": 166899,
+      "word": "终于懂什么叫修音响级歌手了",
+      "onboard_time": 1740997099,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 166823,
@@ -4737,6 +4761,14 @@
       "onboard_time": 1740826642,
       "rank": 30,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 161217,
+      "num": 161217,
+      "word": "檀健次 病娇阴郁男主有了脸",
+      "onboard_time": 1740997338,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 161144,
@@ -5475,6 +5507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140976,
+      "num": 140976,
+      "word": "哪吒里南面结界兽原来真的没有说谎",
+      "onboard_time": 1740993799,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 140843,
       "num": 175292,
       "word": "三峡小狗山走红",
@@ -5497,14 +5537,6 @@
       "onboard_time": 1740801618,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 140514,
-      "num": 140514,
-      "word": "终于懂什么叫修音响级歌手了",
-      "onboard_time": 1740997099,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 140482,
@@ -5649,14 +5681,6 @@
       "onboard_time": 1740976101,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 138179,
-      "num": 138179,
-      "word": "哪吒里南面结界兽原来真的没有说谎",
-      "onboard_time": 1740993799,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 138103,
@@ -5963,20 +5987,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 127978,
-      "num": 359250,
-      "word": "特鲁多将求助英国王室",
-      "onboard_time": 1740996618,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 127713,
       "num": 127713,
       "word": "打标卫生巾销量是普通卫生巾四倍",
       "onboard_time": 1740828443,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127436,
+      "num": 127436,
+      "word": "建议故意伤害致人重伤刑责年龄降至12岁",
+      "onboard_time": 1740997578,
+      "rank": 37,
+      "category": "正能量"
     },
     {
       "raw_hot": 127414,
@@ -6179,6 +6203,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 120594,
+      "num": 120594,
+      "word": "袁娅维不语只是一味肘击徐明浩",
+      "onboard_time": 1740997878,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120001,
       "num": 1068479,
       "word": "外国人上太空要先学中文了",
@@ -6192,6 +6224,14 @@
       "word": "美乌会谈是如何突然失控的",
       "onboard_time": 1740895640,
       "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 119693,
+      "num": 160674,
+      "word": "特朗普政府3日讨论对乌断供",
+      "onboard_time": 1740997637,
+      "rank": 28,
       "category": "国际时政"
     },
     {
@@ -6233,6 +6273,14 @@
       "onboard_time": 1740827543,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118455,
+      "num": 138969,
+      "word": "哪吒2成首部破20亿美元亚洲电影",
+      "onboard_time": 1740998358,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 118387,
@@ -6345,14 +6393,6 @@
       "onboard_time": 1740828563,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 116063,
-      "num": 116063,
-      "word": "在韩国点外卖的真实经历",
-      "onboard_time": 1740997158,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 115600,
@@ -6521,14 +6561,6 @@
       "onboard_time": 1740902119,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 110014,
-      "num": 110014,
-      "word": "檀健次 病娇阴郁男主有了脸",
-      "onboard_time": 1740997338,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 109716,
@@ -8083,6 +8115,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 38371,
+      "num": 160482,
+      "word": "90后00后关心哪些两会话题",
+      "onboard_time": 1740997220,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 37798,
       "num": 243021,
       "word": "传染病学课老师生动示范防护措施",
@@ -8187,19 +8227,19 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 34867,
+      "num": 167583,
+      "word": "低速电动车该不该合法化",
+      "onboard_time": 1740998298,
+      "rank": 17,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 34825,
       "num": 142891,
       "word": "这个定海神器有多了不起",
       "onboard_time": 1740826523,
       "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 34759,
-      "num": 140646,
-      "word": "90后00后关心哪些两会话题",
-      "onboard_time": 1740997220,
-      "rank": 29,
       "category": "国内时政"
     },
     {
