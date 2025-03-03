@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741022468556,
+  "endTime": 1741023534617,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -787,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 816478,
+      "num": 108101,
+      "word": "刘耀文",
+      "onboard_time": 1741021454,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 810555,
       "num": 323364,
       "word": "一殡仪馆将向死者家属退还部分费用",
@@ -1353,14 +1361,6 @@
       "onboard_time": 1740795137,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 571215,
-      "num": 108101,
-      "word": "刘耀文",
-      "onboard_time": 1741021454,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 571206,
@@ -2811,6 +2811,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 283291,
+      "num": 104510,
+      "word": "女子按摩肩颈后急性脑梗死进了ICU",
+      "onboard_time": 1741021215,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 281733,
       "num": 256971,
       "word": "相聚离开 都有时候",
@@ -4091,6 +4099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200617,
+      "num": 83517,
+      "word": "张真源",
+      "onboard_time": 1741022773,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200595,
       "num": 269087,
       "word": "吴宣仪卡琳娜贴贴",
@@ -4129,14 +4145,6 @@
       "onboard_time": 1740799877,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199542,
-      "num": 104510,
-      "word": "女子按摩肩颈后急性脑梗死进了ICU",
-      "onboard_time": 1741021215,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 199528,
@@ -4233,6 +4241,14 @@
       "onboard_time": 1740835342,
       "rank": 43,
       "category": "剧集,综艺"
+    },
+    {
+      "raw_hot": 195828,
+      "num": 52347,
+      "word": "网易崩了",
+      "onboard_time": 1741023373,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 195697,
@@ -4969,6 +4985,14 @@
       "onboard_time": 1740849676,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173175,
+      "num": 173175,
+      "word": "官方回应网传汕头出现海市蜃楼",
+      "onboard_time": 1741020076,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173001,
@@ -6113,14 +6137,6 @@
       "onboard_time": 1740823041,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 142649,
-      "num": 142649,
-      "word": "官方回应网传汕头出现海市蜃楼",
-      "onboard_time": 1741020076,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 142539,
@@ -9067,6 +9083,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 41138,
+      "num": 41138,
+      "word": "最苏橙橙的苏橙橙",
+      "onboard_time": 1741022954,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40780,
       "num": 204476,
       "word": "周也巴黎时装周出发图",
@@ -9449,6 +9473,14 @@
       "onboard_time": 1740766631,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 26497,
+      "num": 37879,
+      "word": "做自然的朋友",
+      "onboard_time": 1741022653,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26272,

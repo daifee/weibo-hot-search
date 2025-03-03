@@ -1,6 +1,6 @@
 {
   "startTime": 1741019331864,
-  "endTime": 1741022468556,
+  "endTime": 1741023534617,
   "band_list": [
     {
       "raw_hot": 1352534,
@@ -19,20 +19,20 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 816478,
+      "num": 108101,
+      "word": "刘耀文",
+      "onboard_time": 1741021454,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 686741,
       "num": 686741,
       "word": "女子炒黄金第1天就赚2000元报了警",
       "onboard_time": 1741016419,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 571215,
-      "num": 108101,
-      "word": "刘耀文",
-      "onboard_time": 1741021454,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 509977,
@@ -107,6 +107,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 283291,
+      "num": 104510,
+      "word": "女子按摩肩颈后急性脑梗死进了ICU",
+      "onboard_time": 1741021215,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 272861,
       "num": 127837,
       "word": "iPhone13跌至半价后销量暴增10倍",
@@ -163,12 +171,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199542,
-      "num": 104510,
-      "word": "女子按摩肩颈后急性脑梗死进了ICU",
-      "onboard_time": 1741021215,
-      "rank": 13,
-      "category": "民生新闻"
+      "raw_hot": 200617,
+      "num": 83517,
+      "word": "张真源",
+      "onboard_time": 1741022773,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 195828,
+      "num": 52347,
+      "word": "网易崩了",
+      "onboard_time": 1741023373,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 180645,
@@ -187,20 +203,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173175,
+      "num": 173175,
+      "word": "官方回应网传汕头出现海市蜃楼",
+      "onboard_time": 1741020076,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152723,
       "num": 123681,
       "word": "刘浩存赵今麦 miumiu",
       "onboard_time": 1740994700,
       "rank": 21,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 142649,
-      "num": 142649,
-      "word": "官方回应网传汕头出现海市蜃楼",
-      "onboard_time": 1741020076,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134575,
@@ -467,12 +483,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 41138,
+      "num": 41138,
+      "word": "最苏橙橙的苏橙橙",
+      "onboard_time": 1741022954,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 36885,
-      "num": 36885,
+      "num": 37942,
       "word": "田曦薇粉色猫猫头",
       "onboard_time": 1741010599,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 26497,
+      "num": 37879,
+      "word": "做自然的朋友",
+      "onboard_time": 1741022653,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22266,
