@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1740994834457,
+  "endTime": 1740997570022,
   "band_list": [
     {
       "raw_hot": 3194275,
@@ -161,6 +161,14 @@
       "onboard_time": 1740874338,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1283948,
+      "num": 480459,
+      "word": "刘浩存赵今麦 miumiu",
+      "onboard_time": 1740994700,
+      "rank": 42,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 1278503,
@@ -400,6 +408,14 @@
       "word": "女生经常熬夜打麻将患上耳石症",
       "onboard_time": 1740974120,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 810555,
+      "num": 323364,
+      "word": "一殡仪馆将向死者家属退还部分费用",
+      "onboard_time": 1740994159,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1100,7 +1116,7 @@
     },
     {
       "raw_hot": 393820,
-      "num": 194969,
+      "num": 208863,
       "word": "肖战成毅杨洋三大男主剧四月对打",
       "onboard_time": 1740991519,
       "rank": 21,
@@ -1144,6 +1160,14 @@
       "word": "白敬亭演技",
       "onboard_time": 1740974719,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 382972,
+      "num": 382972,
+      "word": "大唐荣耀结局给不了的似锦给了",
+      "onboard_time": 1740995958,
+      "rank": 7,
       "category": "剧集"
     },
     {
@@ -1571,6 +1595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 271788,
+      "num": 271788,
+      "word": "杨浅悠发博",
+      "onboard_time": 1740994397,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 270225,
       "num": 270225,
       "word": "河南镇平飞椅事故致1死1伤",
@@ -1689,6 +1721,14 @@
       "onboard_time": 1740926901,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 247432,
+      "num": 247432,
+      "word": "白鹿说暂时不想拍古装戏",
+      "onboard_time": 1740990798,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 247362,
@@ -2027,6 +2067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207700,
+      "num": 207700,
+      "word": "滤镜",
+      "onboard_time": 1740964519,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207446,
       "num": 243263,
       "word": "白鹿说因为警察荣誉才能演北上",
@@ -2267,6 +2315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 197109,
+      "num": 197109,
+      "word": "蓝色郁金香",
+      "onboard_time": 1740996378,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195697,
       "num": 195697,
       "word": "金靖月鳞绮纪出妆",
@@ -2281,14 +2337,6 @@
       "onboard_time": 1740976641,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 195526,
-      "num": 214338,
-      "word": "一殡仪馆将向死者家属退还部分费用",
-      "onboard_time": 1740994159,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 193728,
@@ -2587,14 +2635,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 174586,
-      "num": 174586,
-      "word": "白鹿说暂时不想拍古装戏",
-      "onboard_time": 1740990798,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 174275,
       "num": 174275,
       "word": "樊振东孙颖莎等体测现场",
@@ -2643,6 +2683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172217,
+      "num": 172217,
+      "word": "春捂最该捂的3个部位",
+      "onboard_time": 1740996438,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 169538,
       "num": 169538,
       "word": "宋亚轩港风小卷毛",
@@ -2657,14 +2705,6 @@
       "onboard_time": 1740971420,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 168959,
-      "num": 153812,
-      "word": "杨浅悠发博",
-      "onboard_time": 1740994397,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 168624,
@@ -3331,6 +3371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142022,
+      "num": 142022,
+      "word": "王蓉说我不敢同意你不上班",
+      "onboard_time": 1740996018,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141989,
       "num": 141989,
       "word": "生命树",
@@ -3369,6 +3417,14 @@
       "onboard_time": 1740874157,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140514,
+      "num": 140514,
+      "word": "终于懂什么叫修音响级歌手了",
+      "onboard_time": 1740997099,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 140456,
@@ -3473,6 +3529,14 @@
       "onboard_time": 1740976101,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138179,
+      "num": 138179,
+      "word": "哪吒里南面结界兽原来真的没有说谎",
+      "onboard_time": 1740993799,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 138103,
@@ -3659,6 +3723,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 127978,
+      "num": 359250,
+      "word": "特鲁多将求助英国王室",
+      "onboard_time": 1740996618,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 127414,
       "num": 127414,
       "word": "布劳迪二封奥斯卡影帝",
@@ -3771,20 +3843,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 125148,
-      "num": 125148,
-      "word": "刘浩存赵今麦 miumiu",
-      "onboard_time": 1740994700,
-      "rank": 42,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 124556,
       "num": 124556,
       "word": "赵丽颖起诉多家公司侵犯人格权",
       "onboard_time": 1740982579,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123307,
+      "num": 123307,
+      "word": "林高远体测跳远满分",
+      "onboard_time": 1740996618,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 122826,
@@ -3883,6 +3955,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 117657,
+      "num": 209077,
+      "word": "夸克AI有哪些DeepSeek没有的体验",
+      "onboard_time": 1740996318,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 117235,
       "num": 117235,
       "word": "山东多地降下鹅毛大雪",
@@ -3929,6 +4009,14 @@
       "onboard_time": 1740920360,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 116063,
+      "num": 116063,
+      "word": "在韩国点外卖的真实经历",
+      "onboard_time": 1740997158,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 115600,
@@ -4027,6 +4115,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 111705,
+      "num": 111705,
+      "word": "吴倩不语只一味的going",
+      "onboard_time": 1740996079,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111209,
       "num": 111209,
       "word": "快乐再出发征婚征出连环刀",
@@ -4065,6 +4161,14 @@
       "onboard_time": 1740902119,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 110014,
+      "num": 110014,
+      "word": "檀健次 病娇阴郁男主有了脸",
+      "onboard_time": 1740997338,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 108741,
@@ -4187,14 +4291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 102394,
-      "num": 102394,
-      "word": "哪吒里南面结界兽原来真的没有说谎",
-      "onboard_time": 1740993799,
-      "rank": 49,
-      "category": "电影"
-    },
-    {
       "raw_hot": 102067,
       "num": 346621,
       "word": "Ella给儿子剪头发",
@@ -4283,12 +4379,28 @@
       "category": "旅游,民生新闻"
     },
     {
+      "raw_hot": 97287,
+      "num": 97287,
+      "word": "温州大爷一边做保安一边卖馄饨",
+      "onboard_time": 1740996679,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 97277,
       "num": 294040,
       "word": "建议将心理健康列为中小学必修课",
       "onboard_time": 1740992779,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96536,
+      "num": 166406,
+      "word": "补血最重要的是补气",
+      "onboard_time": 1740991279,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 96382,
@@ -4441,14 +4553,6 @@
       "onboard_time": 1740878479,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 87330,
-      "num": 87330,
-      "word": "滤镜",
-      "onboard_time": 1740964519,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 86568,
@@ -5163,12 +5267,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 33327,
-      "num": 166406,
-      "word": "补血最重要的是补气",
-      "onboard_time": 1740991279,
-      "rank": 37,
-      "category": "健康医疗"
+      "raw_hot": 34759,
+      "num": 140646,
+      "word": "90后00后关心哪些两会话题",
+      "onboard_time": 1740997220,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 34747,
+      "num": 257883,
+      "word": "代表张雨霏想把国风元素带到赛场",
+      "onboard_time": 1740995839,
+      "rank": 14,
+      "category": "国内时政,体育"
     },
     {
       "raw_hot": 33068,
@@ -5323,6 +5435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23383,
+      "num": 146387,
+      "word": "粉色汉堡出片的神",
+      "onboard_time": 1740994579,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 21868,
       "num": 54314,
       "word": "央视曝光量子鞋垫骗局",
@@ -5451,6 +5571,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 16859,
+      "num": 210163,
+      "word": "建议设专人专岗保护受野猪等侵扰地区",
+      "onboard_time": 1740996318,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16649,
       "num": 18111,
       "word": "排球少年剧场版vs小巨人",
@@ -5577,14 +5705,6 @@
       "onboard_time": 1740867551,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 8743,
-      "num": 146387,
-      "word": "粉色汉堡出片的神",
-      "onboard_time": 1740994579,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 8704,

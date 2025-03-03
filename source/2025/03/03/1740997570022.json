@@ -1,0 +1,410 @@
+{
+  "runTime": 1740997570022,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1156705,
+        "num": 1185072,
+        "word": "盒马不再对标山姆",
+        "onboard_time": 1740991339,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 511854,
+        "num": 511854,
+        "word": "奥斯卡获奖动画国内票房惨淡",
+        "onboard_time": 1740990019,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 72841,
+        "num": 480992,
+        "word": "今年两会这些看点值得关注",
+        "onboard_time": 1740990259,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1283948,
+        "num": 480459,
+        "word": "刘浩存赵今麦 miumiu",
+        "onboard_time": 1740994700,
+        "rank": 3,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 476291,
+        "num": 476291,
+        "word": "以为是缺点其实是基因彩票",
+        "onboard_time": 1740990500,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 405847,
+        "num": 405847,
+        "word": "建议降低灵活就业人员社保参保门槛",
+        "onboard_time": 1740987979,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 433760,
+        "num": 402321,
+        "word": "哪吒2票房超145亿",
+        "onboard_time": 1740991879,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 382972,
+        "num": 382972,
+        "word": "大唐荣耀结局给不了的似锦给了",
+        "onboard_time": 1740995958,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 360008,
+        "num": 360008,
+        "word": "济南大暴雪下了387个大明湖",
+        "onboard_time": 1740985038,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127978,
+        "num": 359250,
+        "word": "特鲁多将求助英国王室",
+        "onboard_time": 1740996618,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 810555,
+        "num": 323364,
+        "word": "一殡仪馆将向死者家属退还部分费用",
+        "onboard_time": 1740994159,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 487274,
+        "num": 309156,
+        "word": "赵丽颖黄晓明骑摩托路透",
+        "onboard_time": 1740991101,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 450966,
+        "num": 285367,
+        "word": "高铁无休纯学9小时",
+        "onboard_time": 1740990380,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 271788,
+        "num": 271788,
+        "word": "杨浅悠发博",
+        "onboard_time": 1740994397,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34747,
+        "num": 257883,
+        "word": "代表张雨霏想把国风元素带到赛场",
+        "onboard_time": 1740995839,
+        "rank": 14,
+        "category": "国内时政,体育"
+      },
+      {
+        "raw_hot": 247432,
+        "num": 247432,
+        "word": "白鹿说暂时不想拍古装戏",
+        "onboard_time": 1740990798,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247334,
+        "num": 247334,
+        "word": "不爱上学不爱上班 结果在学校上班",
+        "onboard_time": 1740985278,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210398,
+        "num": 210398,
+        "word": "张凌赫 摇头吻",
+        "onboard_time": 1740980479,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16859,
+        "num": 210163,
+        "word": "建议设专人专岗保护受野猪等侵扰地区",
+        "onboard_time": 1740996318,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117657,
+        "num": 209077,
+        "word": "夸克AI有哪些DeepSeek没有的体验",
+        "onboard_time": 1740996318,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 280939,
+        "num": 208863,
+        "word": "肖战成毅杨洋三大男主剧四月对打",
+        "onboard_time": 1740991519,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257106,
+        "num": 208021,
+        "word": "白敬亭怎么就越演越干净",
+        "onboard_time": 1740980600,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207700,
+        "num": 207700,
+        "word": "滤镜",
+        "onboard_time": 1740997399,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197109,
+        "num": 197109,
+        "word": "蓝色郁金香",
+        "onboard_time": 1740996378,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189280,
+        "num": 189280,
+        "word": "两会",
+        "onboard_time": 1740963979,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 172217,
+        "num": 172217,
+        "word": "春捂最该捂的3个部位",
+        "onboard_time": 1740996438,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 156273,
+        "num": 156273,
+        "word": "盒马X会员店仅剩5家",
+        "onboard_time": 1740989178,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150592,
+        "num": 150592,
+        "word": "章若楠我承认之前对你的声音大了点",
+        "onboard_time": 1740990438,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142022,
+        "num": 142022,
+        "word": "王蓉说我不敢同意你不上班",
+        "onboard_time": 1740996018,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34759,
+        "num": 140646,
+        "word": "90后00后关心哪些两会话题",
+        "onboard_time": 1740997220,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 140514,
+        "num": 140514,
+        "word": "终于懂什么叫修音响级歌手了",
+        "onboard_time": 1740997099,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138179,
+        "num": 138179,
+        "word": "哪吒里南面结界兽原来真的没有说谎",
+        "onboard_time": 1740993799,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136273,
+        "num": 136273,
+        "word": "欧盟主席对中国口气变了",
+        "onboard_time": 1740983539,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126037,
+        "num": 126037,
+        "word": "全国政协十四届三次会议会期6天",
+        "onboard_time": 1740986359,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 123894,
+        "num": 123894,
+        "word": "北上",
+        "onboard_time": 1740993259,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123307,
+        "num": 123307,
+        "word": "林高远体测跳远满分",
+        "onboard_time": 1740996618,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121640,
+        "num": 121640,
+        "word": "谁说这男主老了这男主太嫩了",
+        "onboard_time": 1740992479,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116063,
+        "num": 116063,
+        "word": "在韩国点外卖的真实经历",
+        "onboard_time": 1740997158,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23383,
+        "num": 115731,
+        "word": "粉色汉堡出片的神",
+        "onboard_time": 1740994579,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115479,
+        "num": 115479,
+        "word": "菜刀哥李坤朋去世",
+        "onboard_time": 1740972320,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114005,
+        "num": 114005,
+        "word": "奥斯卡",
+        "onboard_time": 1740963319,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111705,
+        "num": 111705,
+        "word": "吴倩不语只一味的going",
+        "onboard_time": 1740996079,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110014,
+        "num": 110014,
+        "word": "檀健次 病娇阴郁男主有了脸",
+        "onboard_time": 1740997338,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104257,
+        "num": 104257,
+        "word": "杨妞花跪在父母坟前告知余华英死刑",
+        "onboard_time": 1740984259,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102712,
+        "num": 102712,
+        "word": "山东暴雪6学生遇救护车趴窝帮推",
+        "onboard_time": 1740985638,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100903,
+        "num": 100903,
+        "word": "深圳就业应届毕业生最高补贴10万",
+        "onboard_time": 1740988578,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60701,
+        "num": 98347,
+        "word": "明日方舟",
+        "onboard_time": 1740993799,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97287,
+        "num": 97287,
+        "word": "温州大爷一边做保安一边卖馄饨",
+        "onboard_time": 1740996679,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96536,
+        "num": 96536,
+        "word": "补血最重要的是补气",
+        "onboard_time": 1740991279,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 96496,
+        "num": 96496,
+        "word": "女生经常熬夜打麻将患上耳石症",
+        "onboard_time": 1740974120,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化是伟大而艰巨的事业#"
+    }
+  }
+}
