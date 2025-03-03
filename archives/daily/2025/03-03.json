@@ -1,6 +1,6 @@
 {
   "startTime": 1740932816657,
-  "endTime": 1740998598680,
+  "endTime": 1741000816468,
   "band_list": [
     {
       "raw_hot": 2261873,
@@ -64,6 +64,14 @@
       "word": "奥斯卡主持人说中文",
       "onboard_time": 1740967339,
       "rank": 24,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1101260,
+      "num": 1176201,
+      "word": "哪吒2成首部破20亿美元亚洲电影",
+      "onboard_time": 1740998358,
+      "rank": 33,
       "category": "电影"
     },
     {
@@ -355,6 +363,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 555145,
+      "num": 230794,
+      "word": "追星式存钱",
+      "onboard_time": 1741000278,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 548682,
       "num": 548682,
       "word": "白鹿说拍完下部戏要休息一段时间",
@@ -465,6 +481,14 @@
       "onboard_time": 1740972559,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 415707,
+      "num": 180958,
+      "word": "张天爱自曝体重96.4斤",
+      "onboard_time": 1740998777,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 411263,
@@ -584,6 +608,14 @@
       "word": "孙协志夏宇童宣布结婚",
       "onboard_time": 1740979339,
       "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 324550,
+      "num": 178223,
+      "word": "胡歌开了家昆虫酒店",
+      "onboard_time": 1740999019,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -795,12 +827,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 240314,
+      "num": 226016,
+      "word": "在韩国点外卖的真实经历",
+      "onboard_time": 1740997158,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 240015,
       "num": 240015,
       "word": "英国首相称对白宫冲突感到不适",
       "onboard_time": 1740932177,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 237847,
+      "num": 237847,
+      "word": "低速电动车该不该合法化",
+      "onboard_time": 1740998298,
+      "rank": 17,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 237574,
@@ -817,6 +865,14 @@
       "onboard_time": 1740985458,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 232531,
+      "num": 168669,
+      "word": "以为正常其实是身体过敏的表现",
+      "onboard_time": 1741000459,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 229082,
@@ -875,12 +931,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 212076,
+      "num": 212076,
+      "word": "歌手2025网传阵容",
+      "onboard_time": 1741000698,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210081,
       "num": 210081,
       "word": "雷军回应发布会穿衣被质疑抄袭",
       "onboard_time": 1740975382,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 207766,
+      "num": 172217,
+      "word": "春捂最该捂的3个部位",
+      "onboard_time": 1740996438,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 207700,
@@ -963,6 +1035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200783,
+      "num": 200783,
+      "word": "一张机票的事不要再wait",
+      "onboard_time": 1740998658,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199528,
       "num": 240754,
       "word": "奥斯卡提名",
@@ -985,6 +1065,14 @@
       "onboard_time": 1740993259,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197961,
+      "num": 197961,
+      "word": "王者皮肤标签优化",
+      "onboard_time": 1740999319,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 197109,
@@ -1075,22 +1163,6 @@
       "category": "民生新闻,国际时政"
     },
     {
-      "raw_hot": 186393,
-      "num": 172217,
-      "word": "春捂最该捂的3个部位",
-      "onboard_time": 1740996438,
-      "rank": 25,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 185769,
-      "num": 160114,
-      "word": "在韩国点外卖的真实经历",
-      "onboard_time": 1740997158,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 185571,
       "num": 237478,
       "word": "辛芷蕾你要这么演我可就看了",
@@ -1155,12 +1227,28 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 174867,
+      "num": 174867,
+      "word": "原来暖暖的穿搭是有分数的",
+      "onboard_time": 1740998839,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 174242,
       "num": 174242,
       "word": "多国领导人伦敦峰会宣布支持乌克兰4个步骤",
       "onboard_time": 1740961340,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 173576,
+      "num": 173576,
+      "word": "张凌赫说后面会多看现偶的本子",
+      "onboard_time": 1740999498,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 173205,
@@ -1249,6 +1337,14 @@
       "onboard_time": 1740927620,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163657,
+      "num": 163657,
+      "word": "董思成直播",
+      "onboard_time": 1740999978,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 163549,
@@ -1515,6 +1611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144823,
+      "num": 144823,
+      "word": "男子搬家3小时丢失230万名表",
+      "onboard_time": 1740999919,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144268,
       "num": 144268,
       "word": "赵丽颖新角色眼里有刀",
@@ -1675,6 +1779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133446,
+      "num": 133446,
+      "word": "年轻人为了出片能卷到什么程度",
+      "onboard_time": 1741000158,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133358,
       "num": 307457,
       "word": "建议学前教育逐步免费",
@@ -1769,6 +1881,14 @@
       "onboard_time": 1740970520,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126263,
+      "num": 173681,
+      "word": "广州今天可能有下班小冰雹",
+      "onboard_time": 1740999559,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126049,
@@ -1873,14 +1993,6 @@
       "onboard_time": 1740997637,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 118455,
-      "num": 138969,
-      "word": "哪吒2成首部破20亿美元亚洲电影",
-      "onboard_time": 1740998358,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 118288,
@@ -2097,6 +2209,14 @@
       "onboard_time": 1740991279,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 96329,
+      "num": 160166,
+      "word": "爱你 上头",
+      "onboard_time": 1741000759,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 96124,
@@ -2459,6 +2579,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 45177,
+      "num": 160150,
+      "word": "第一批用夸克测每日运势的人出现了",
+      "onboard_time": 1741000039,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42173,
       "num": 296015,
       "word": "全国控烟立法亟待推进",
@@ -2539,14 +2667,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34867,
-      "num": 167583,
-      "word": "低速电动车该不该合法化",
-      "onboard_time": 1740998298,
-      "rank": 17,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 34747,
       "num": 257883,
       "word": "代表张雨霏想把国风元素带到赛场",
@@ -2569,6 +2689,14 @@
       "onboard_time": 1740977841,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 27192,
+      "num": 197404,
+      "word": "重庆马拉松首对同时完赛的盲人夫妻",
+      "onboard_time": 1740998958,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25881,
