@@ -1,0 +1,410 @@
+{
+  "runTime": 1740990690626,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 134728,
+        "num": 1021556,
+        "word": "全国政协十四届三次会议新闻发布会",
+        "onboard_time": 1740985578,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 870725,
+        "num": 870725,
+        "word": "济南大暴雪下了387个大明湖",
+        "onboard_time": 1740985038,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37607,
+        "num": 742472,
+        "word": "今年两会这些看点值得关注",
+        "onboard_time": 1740990259,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 739197,
+        "num": 739197,
+        "word": "建议降低灵活就业人员社保参保门槛",
+        "onboard_time": 1740987979,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 679887,
+        "num": 679887,
+        "word": "山东暴雪6学生遇救护车趴窝帮推",
+        "onboard_time": 1740985638,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 417435,
+        "num": 417435,
+        "word": "盒马X会员店仅剩5家",
+        "onboard_time": 1740989178,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310266,
+        "num": 310266,
+        "word": "玉茗茶骨",
+        "onboard_time": 1740986719,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285603,
+        "num": 285603,
+        "word": "奥斯卡获奖动画国内票房惨淡",
+        "onboard_time": 1740990019,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189583,
+        "num": 285582,
+        "word": "建议推迟中考分流时间",
+        "onboard_time": 1740987080,
+        "rank": 8,
+        "category": "教育,国内时政"
+      },
+      {
+        "raw_hot": 126049,
+        "num": 284251,
+        "word": "今年2个航天员乘组已选定",
+        "onboard_time": 1740990079,
+        "rank": 9,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 750461,
+        "num": 283479,
+        "word": "白敬亭怎么就越演越干净",
+        "onboard_time": 1740980600,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310983,
+        "num": 282455,
+        "word": "欧盟主席对中国口气变了",
+        "onboard_time": 1740983539,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 588801,
+        "num": 281151,
+        "word": "不爱上学不爱上班 结果在学校上班",
+        "onboard_time": 1740985278,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 535038,
+        "num": 280372,
+        "word": "亲嘴天才",
+        "onboard_time": 1740986900,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25848,
+        "num": 278703,
+        "word": "菜刀哥李坤朋去世病因尚不明确",
+        "onboard_time": 1740990019,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278616,
+        "num": 278616,
+        "word": "两会",
+        "onboard_time": 1740963979,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 295788,
+        "num": 278434,
+        "word": "张凌赫 摇头吻",
+        "onboard_time": 1740980479,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71788,
+        "num": 278206,
+        "word": "429岁六姊妹想一起全国旅游",
+        "onboard_time": 1740989298,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247362,
+        "num": 277914,
+        "word": "爱你微博追剧团",
+        "onboard_time": 1740989419,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23660,
+        "num": 277727,
+        "word": "童装店回应门口立牌谢绝乱入",
+        "onboard_time": 1740990138,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279156,
+        "num": 277509,
+        "word": "香港顶流姜涛瘦的时候",
+        "onboard_time": 1740979100,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277273,
+        "num": 277273,
+        "word": "杨妞花跪在父母坟前告知余华英死刑",
+        "onboard_time": 1740984259,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274852,
+        "num": 274852,
+        "word": "j人和P人对计划的理解差异",
+        "onboard_time": 1740986058,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 259795,
+        "num": 259795,
+        "word": "菜刀哥李坤朋去世",
+        "onboard_time": 1740972320,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60889,
+        "num": 246407,
+        "word": "任嘉伦期待詹姆斯破纪录",
+        "onboard_time": 1740990079,
+        "rank": 24,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 237803,
+        "num": 237803,
+        "word": "于正说何健麒是很小的小角色",
+        "onboard_time": 1740983897,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192203,
+        "num": 237560,
+        "word": "胡军新剧胖若两人",
+        "onboard_time": 1740988338,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68290,
+        "num": 230677,
+        "word": "本田造车听劝",
+        "onboard_time": 1740989298,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 187729,
+        "num": 219003,
+        "word": "章若楠我承认之前对你的声音大了点",
+        "onboard_time": 1740990438,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17179,
+        "num": 217722,
+        "word": "大笨狗自我攻防战",
+        "onboard_time": 1740989538,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 211842,
+        "num": 211842,
+        "word": "郑州下雪",
+        "onboard_time": 1740983358,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167276,
+        "num": 205828,
+        "word": "辛芷蕾你要这么演我可就看了",
+        "onboard_time": 1740990138,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202675,
+        "num": 202675,
+        "word": "赵丽颖新片饰演刑满释放女子",
+        "onboard_time": 1740977962,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200738,
+        "num": 200738,
+        "word": "女生经常熬夜打麻将患上耳石症",
+        "onboard_time": 1740974120,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183407,
+        "num": 183407,
+        "word": "奥斯卡",
+        "onboard_time": 1740963319,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 173595,
+        "num": 173595,
+        "word": "余华英死刑后杨妞花回应是否会退网",
+        "onboard_time": 1740968839,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167461,
+        "num": 167461,
+        "word": "欧豪就靠这个动作成为了海清的神",
+        "onboard_time": 1740990198,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158124,
+        "num": 158124,
+        "word": "退役军人终身8折现役军人免费吃",
+        "onboard_time": 1740985458,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156228,
+        "num": 156228,
+        "word": "深圳就业应届毕业生最高补贴10万",
+        "onboard_time": 1740988578,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156176,
+        "num": 156176,
+        "word": "泽连斯基称愿以辞职换乌进北约",
+        "onboard_time": 1740958877,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 140493,
+        "num": 140493,
+        "word": "长沙刚刚下雪了",
+        "onboard_time": 1740978021,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136707,
+        "num": 136707,
+        "word": "以为是缺点其实是基因彩票",
+        "onboard_time": 1740990500,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131734,
+        "num": 131734,
+        "word": "一个视频了解全国两会怎么开",
+        "onboard_time": 1740985339,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 123393,
+        "num": 123393,
+        "word": "中国航天2025将推进载人登月等任务",
+        "onboard_time": 1740984738,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 62327,
+        "num": 123147,
+        "word": "9图了解人大知识点",
+        "onboard_time": 1740975680,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122921,
+        "num": 122921,
+        "word": "诈骗了黄牛3场演唱会被判还8800",
+        "onboard_time": 1740974779,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119107,
+        "num": 119107,
+        "word": "敖瑞鹏包场了白鹿北上",
+        "onboard_time": 1740984438,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116175,
+        "num": 116175,
+        "word": "春天是耳石症高发期",
+        "onboard_time": 1740983719,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 112347,
+        "num": 112347,
+        "word": "高铁无休纯学9小时",
+        "onboard_time": 1740990380,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112138,
+        "num": 112138,
+        "word": "嘘国王在冬眠是林一最后一部待播剧",
+        "onboard_time": 1740984618,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化是伟大而艰巨的事业#"
+    }
+  }
+}
