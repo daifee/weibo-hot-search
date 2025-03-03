@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741027440257,
+  "endTime": 1741029555770,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -9875,6 +9875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 16062,
+      "num": 17060,
+      "word": "阿诺拉奥斯卡最佳原创剧本",
+      "onboard_time": 1741025832,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 15860,
       "num": 18762,
       "word": "2025花样滑冰世青赛",
@@ -9912,6 +9920,14 @@
       "word": "檀健次醉酒戏很有生活了",
       "onboard_time": 1740860231,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 14697,
+      "num": 17059,
+      "word": "何苏叶表白",
+      "onboard_time": 1741028770,
+      "rank": 46,
       "category": "剧集"
     },
     {
@@ -10003,12 +10019,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 11104,
+      "num": 22094,
+      "word": "我俩会会2025",
+      "onboard_time": 1741027932,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 11025,
       "num": 41471,
       "word": "专家解答七星连珠真的罕见吗",
       "onboard_time": 1740773891,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10089,
+      "num": 18652,
+      "word": "民警陪家人踏青时勇救落水女孩",
+      "onboard_time": 1741028651,
+      "rank": 36,
+      "category": "正能量"
     },
     {
       "raw_hot": 9945,

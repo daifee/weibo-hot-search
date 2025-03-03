@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1741027440257,
+  "endTime": 1741029555770,
   "band_list": [
     {
       "raw_hot": 3194275,
@@ -6755,6 +6755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 16062,
+      "num": 17060,
+      "word": "阿诺拉奥斯卡最佳原创剧本",
+      "onboard_time": 1741025832,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 15786,
       "num": 30600,
       "word": "你以为的你以为是你以为的吗",
@@ -6776,6 +6784,14 @@
       "word": "檀健次醉酒戏很有生活了",
       "onboard_time": 1740860231,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 14697,
+      "num": 17059,
+      "word": "何苏叶表白",
+      "onboard_time": 1741028770,
+      "rank": 46,
       "category": "剧集"
     },
     {
@@ -6841,6 +6857,22 @@
       "onboard_time": 1741026612,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11104,
+      "num": 22094,
+      "word": "我俩会会2025",
+      "onboard_time": 1741027932,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 10089,
+      "num": 18652,
+      "word": "民警陪家人踏青时勇救落水女孩",
+      "onboard_time": 1741028651,
+      "rank": 36,
+      "category": "正能量"
     },
     {
       "raw_hot": 9945,
