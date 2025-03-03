@@ -1,6 +1,6 @@
 {
   "startTime": 1740932816657,
-  "endTime": 1740990690626,
+  "endTime": 1740991384003,
   "band_list": [
     {
       "raw_hot": 2261873,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 870725,
-      "num": 870725,
+      "num": 1117049,
       "word": "济南大暴雪下了387个大明湖",
       "onboard_time": 1740985038,
       "rank": 6,
@@ -168,6 +168,14 @@
       "word": "山东暴雪6学生遇救护车趴窝帮推",
       "onboard_time": 1740985638,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 678449,
+      "num": 678449,
+      "word": "盒马X会员店仅剩5家",
+      "onboard_time": 1740989178,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -355,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 489065,
+      "num": 489065,
+      "word": "奥斯卡获奖动画国内票房惨淡",
+      "onboard_time": 1740990019,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 485031,
       "num": 485031,
       "word": "长沙刚刚下雪了",
@@ -385,14 +401,6 @@
       "onboard_time": 1740972559,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 417435,
-      "num": 417435,
-      "word": "盒马X会员店仅剩5家",
-      "onboard_time": 1740989178,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 411263,
@@ -457,6 +465,14 @@
       "onboard_time": 1740963859,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 339977,
+      "num": 339977,
+      "word": "建议推迟中考分流时间",
+      "onboard_time": 1740987080,
+      "rank": 45,
+      "category": "教育,国内时政"
     },
     {
       "raw_hot": 337381,
@@ -579,12 +595,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 285603,
-      "num": 285603,
-      "word": "奥斯卡获奖动画国内票房惨淡",
-      "onboard_time": 1740990019,
-      "rank": 7,
-      "category": "电影"
+      "raw_hot": 284757,
+      "num": 237939,
+      "word": "章若楠我承认之前对你的声音大了点",
+      "onboard_time": 1740990438,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 284341,
@@ -657,6 +673,14 @@
       "onboard_time": 1740918440,
       "rank": 25,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 252818,
+      "num": 240465,
+      "word": "赵丽颖黄晓明骑摩托路透",
+      "onboard_time": 1740991101,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 247362,
@@ -771,12 +795,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 208109,
+      "num": 208109,
+      "word": "以为是缺点其实是基因彩票",
+      "onboard_time": 1740990500,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207446,
       "num": 243263,
       "word": "白鹿说因为警察荣誉才能演北上",
       "onboard_time": 1740959236,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205499,
+      "num": 205499,
+      "word": "王一博探索新境裸上身",
+      "onboard_time": 1740990979,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 204664,
@@ -817,6 +857,14 @@
       "onboard_time": 1740910940,
       "rank": 14,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 201765,
+      "num": 201765,
+      "word": "欧豪就靠这个动作成为了海清的神",
+      "onboard_time": 1740990198,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 199528,
@@ -883,22 +931,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 189583,
-      "num": 285582,
-      "word": "建议推迟中考分流时间",
-      "onboard_time": 1740987080,
-      "rank": 45,
-      "category": "教育,国内时政"
-    },
-    {
-      "raw_hot": 187729,
-      "num": 219003,
-      "word": "章若楠我承认之前对你的声音大了点",
-      "onboard_time": 1740990438,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 187092,
       "num": 187092,
       "word": "难哄",
@@ -921,6 +953,14 @@
       "onboard_time": 1740975439,
       "rank": 9,
       "category": "民生新闻,国际时政"
+    },
+    {
+      "raw_hot": 185571,
+      "num": 237478,
+      "word": "辛芷蕾你要这么演我可就看了",
+      "onboard_time": 1740990138,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 184850,
@@ -995,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170492,
+      "num": 170492,
+      "word": "高铁无休纯学9小时",
+      "onboard_time": 1740990380,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 169538,
       "num": 169538,
       "word": "宋亚轩港风小卷毛",
@@ -1049,22 +1097,6 @@
       "onboard_time": 1740971120,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 167461,
-      "num": 167461,
-      "word": "欧豪就靠这个动作成为了海清的神",
-      "onboard_time": 1740990198,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 167276,
-      "num": 205828,
-      "word": "辛芷蕾你要这么演我可就看了",
-      "onboard_time": 1740990138,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 166335,
@@ -1192,6 +1224,14 @@
       "word": "岳阳市区正猛降冰雹",
       "onboard_time": 1740922340,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155282,
+      "num": 278703,
+      "word": "菜刀哥李坤朋去世病因尚不明确",
+      "onboard_time": 1740990019,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1355,6 +1395,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 140304,
+      "num": 140304,
+      "word": "白鹿说暂时不想拍古装戏",
+      "onboard_time": 1740990798,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140298,
       "num": 140298,
       "word": "手机碰一下钱就没了是真的吗",
@@ -1411,19 +1459,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 136707,
-      "num": 136707,
-      "word": "以为是缺点其实是基因彩票",
-      "onboard_time": 1740990500,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 134869,
       "num": 134869,
       "word": "直播全国政协十四届三次会议发布会",
       "onboard_time": 1740984738,
       "rank": 36,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 134398,
+      "num": 134398,
+      "word": "中国航天2025将推进载人登月等任务",
+      "onboard_time": 1740984738,
+      "rank": 37,
       "category": "国内时政"
     },
     {
@@ -1451,14 +1499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132220,
-      "num": 132220,
-      "word": "中国航天2025将推进载人登月等任务",
-      "onboard_time": 1740984738,
-      "rank": 37,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 131082,
       "num": 131082,
       "word": "把唐僧的窝囊劲儿都演出来了",
@@ -1467,12 +1507,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 129640,
+      "num": 129640,
+      "word": "盒马不再对标山姆",
+      "onboard_time": 1740991339,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 128917,
       "num": 128917,
       "word": "张康乐出发青海",
       "onboard_time": 1740982758,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128823,
+      "num": 128823,
+      "word": "手串",
+      "onboard_time": 1740988879,
+      "rank": 47,
+      "category": "休闲"
     },
     {
       "raw_hot": 128767,
@@ -1579,6 +1635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122686,
+      "num": 278206,
+      "word": "429岁六姊妹想一起全国旅游",
+      "onboard_time": 1740989298,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122266,
       "num": 155364,
       "word": "14岁少女行云流水展示三把刀",
@@ -1633,14 +1697,6 @@
       "onboard_time": 1740975501,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 112347,
-      "num": 112347,
-      "word": "高铁无休纯学9小时",
-      "onboard_time": 1740990380,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 112287,
@@ -1729,6 +1785,14 @@
       "onboard_time": 1740965599,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100303,
+      "num": 246407,
+      "word": "任嘉伦期待詹姆斯破纪录",
+      "onboard_time": 1740990079,
+      "rank": 24,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 100302,
@@ -1907,6 +1971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79409,
+      "num": 277727,
+      "word": "童装店回应门口立牌谢绝乱入",
+      "onboard_time": 1740990138,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77701,
       "num": 77701,
       "word": "挪威公司断供美军燃料",
@@ -1919,6 +1991,14 @@
       "num": 887735,
       "word": "9图了解人大知识点",
       "onboard_time": 1740975680,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 74175,
+      "num": 742472,
+      "word": "今年两会这些看点值得关注",
+      "onboard_time": 1740990259,
       "rank": 2,
       "category": "国内时政"
     },
@@ -1955,12 +2035,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 71788,
-      "num": 278206,
-      "word": "429岁六姊妹想一起全国旅游",
-      "onboard_time": 1740989298,
+      "raw_hot": 72249,
+      "num": 239326,
+      "word": "刘浩存文淇哭戏",
+      "onboard_time": 1740990019,
       "rank": 17,
-      "category": "民生新闻"
+      "category": "电影"
+    },
+    {
+      "raw_hot": 70335,
+      "num": 230677,
+      "word": "本田造车听劝",
+      "onboard_time": 1740989298,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 68910,
@@ -1969,14 +2057,6 @@
       "onboard_time": 1740935294,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 68290,
-      "num": 230677,
-      "word": "本田造车听劝",
-      "onboard_time": 1740989298,
-      "rank": 27,
-      "category": "汽车"
     },
     {
       "raw_hot": 68172,
@@ -2033,14 +2113,6 @@
       "onboard_time": 1740986238,
       "rank": 40,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 60889,
-      "num": 246407,
-      "word": "任嘉伦期待詹姆斯破纪录",
-      "onboard_time": 1740990079,
-      "rank": 24,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 57360,
@@ -2163,14 +2235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 37607,
-      "num": 742472,
-      "word": "今年两会这些看点值得关注",
-      "onboard_time": 1740990259,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 37370,
       "num": 69981,
       "word": "内蒙古现绚烂红色极光",
@@ -2185,6 +2249,14 @@
       "onboard_time": 1740948911,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33327,
+      "num": 166406,
+      "word": "补血最重要的是补气",
+      "onboard_time": 1740991279,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 31626,
@@ -2209,14 +2281,6 @@
       "onboard_time": 1740940512,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 25848,
-      "num": 278703,
-      "word": "菜刀哥李坤朋去世病因尚不明确",
-      "onboard_time": 1740990019,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25521,
@@ -2248,14 +2312,6 @@
       "word": "3人神同步拿灭火器20秒灭火",
       "onboard_time": 1740951790,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23660,
-      "num": 277727,
-      "word": "童装店回应门口立牌谢绝乱入",
-      "onboard_time": 1740990138,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2402,6 +2458,9 @@
     },
     {
       "word": "#中国式现代化是伟大而艰巨的事业#"
+    },
+    {
+      "word": "#总书记心中的头等大事#"
     }
   ]
 }
