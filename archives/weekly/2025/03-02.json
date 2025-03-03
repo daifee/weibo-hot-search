@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1741023534617,
+  "endTime": 1741026650557,
   "band_list": [
     {
       "raw_hot": 3194275,
@@ -2491,6 +2491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207889,
+      "num": 83517,
+      "word": "张真源",
+      "onboard_time": 1741022773,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207700,
       "num": 207700,
       "word": "滤镜",
@@ -2697,14 +2705,6 @@
       "onboard_time": 1740988578,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 200617,
-      "num": 83517,
-      "word": "张真源",
-      "onboard_time": 1741022773,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 200595,
@@ -6555,6 +6555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 22717,
+      "num": 22717,
+      "word": "河南农户自制沙袋阻尼器抵御暴风",
+      "onboard_time": 1741020015,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21868,
       "num": 54314,
       "word": "央视曝光量子鞋垫骗局",
@@ -6707,6 +6715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16703,
+      "num": 20583,
+      "word": "何浩楠日常干活vlog",
+      "onboard_time": 1741026072,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 16649,
       "num": 18111,
       "word": "排球少年剧场版vs小巨人",
@@ -6745,6 +6761,14 @@
       "onboard_time": 1740860231,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 15065,
+      "num": 43453,
+      "word": "一级保护动物自带彩色小围嘴",
+      "onboard_time": 1741025413,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14665,
@@ -6801,6 +6825,14 @@
       "onboard_time": 1740857292,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10618,
+      "num": 20757,
+      "word": "建议心理健康纳入必修课",
+      "onboard_time": 1741026612,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 9945,
