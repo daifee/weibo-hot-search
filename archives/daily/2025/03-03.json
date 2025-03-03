@@ -1,6 +1,6 @@
 {
   "startTime": 1740932816657,
-  "endTime": 1740991384003,
+  "endTime": 1740994025634,
   "band_list": [
     {
       "raw_hot": 2261873,
@@ -17,6 +17,14 @@
       "onboard_time": 1740968839,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1910267,
+      "num": 1910267,
+      "word": "盒马不再对标山姆",
+      "onboard_time": 1740991339,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 1454288,
@@ -139,6 +147,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 763933,
+      "num": 763933,
+      "word": "奥斯卡获奖动画国内票房惨淡",
+      "onboard_time": 1740990019,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 739197,
       "num": 739197,
       "word": "建议降低灵活就业人员社保参保门槛",
@@ -152,6 +168,14 @@
       "word": "张凌赫 摇头吻",
       "onboard_time": 1740980479,
       "rank": 10,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 684622,
+      "num": 684622,
+      "word": "赵丽颖黄晓明骑摩托路透",
+      "onboard_time": 1740991101,
+      "rank": 15,
       "category": "剧集"
     },
     {
@@ -283,11 +307,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 582329,
+      "num": 582329,
+      "word": "以为是缺点其实是基因彩票",
+      "onboard_time": 1740990500,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 571206,
       "num": 455799,
       "word": "奥斯卡缅怀郑佩佩",
       "onboard_time": 1740972380,
       "rank": 27,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 566464,
+      "num": 537570,
+      "word": "哪吒2票房超145亿",
+      "onboard_time": 1740991879,
+      "rank": 6,
       "category": "电影"
     },
     {
@@ -332,11 +372,19 @@
     },
     {
       "raw_hot": 535038,
-      "num": 280372,
+      "num": 286184,
       "word": "亲嘴天才",
       "onboard_time": 1740986900,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 534473,
+      "num": 323655,
+      "word": "高铁无休纯学9小时",
+      "onboard_time": 1740990380,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 518191,
@@ -361,14 +409,6 @@
       "onboard_time": 1740904699,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 489065,
-      "num": 489065,
-      "word": "奥斯卡获奖动画国内票房惨淡",
-      "onboard_time": 1740990019,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 485031,
@@ -425,6 +465,14 @@
       "onboard_time": 1740928040,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 393820,
+      "num": 194969,
+      "word": "肖战成毅杨洋三大男主剧四月对打",
+      "onboard_time": 1740991519,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 389832,
@@ -587,20 +635,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 286909,
+      "num": 237939,
+      "word": "章若楠我承认之前对你的声音大了点",
+      "onboard_time": 1740990438,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 285653,
       "num": 161822,
       "word": "第97届奥斯卡金像奖最佳影片提名",
       "onboard_time": 1740949631,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 284757,
-      "num": 237939,
-      "word": "章若楠我承认之前对你的声音大了点",
-      "onboard_time": 1740990438,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 284341,
@@ -673,14 +721,6 @@
       "onboard_time": 1740918440,
       "rank": 25,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 252818,
-      "num": 240465,
-      "word": "赵丽颖黄晓明骑摩托路透",
-      "onboard_time": 1740991101,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 247362,
@@ -795,14 +835,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 208109,
-      "num": 208109,
-      "word": "以为是缺点其实是基因彩票",
-      "onboard_time": 1740990500,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 207446,
       "num": 243263,
       "word": "白鹿说因为警察荣誉才能演北上",
@@ -880,6 +912,14 @@
       "word": "爱你 60场吻戏",
       "onboard_time": 1740924081,
       "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 198853,
+      "num": 203786,
+      "word": "北上",
+      "onboard_time": 1740993259,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -1011,6 +1051,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 178324,
+      "num": 148803,
+      "word": "手串",
+      "onboard_time": 1740988879,
+      "rank": 47,
+      "category": "休闲"
+    },
+    {
+      "raw_hot": 174586,
+      "num": 174586,
+      "word": "白鹿说暂时不想拍古装戏",
+      "onboard_time": 1740990798,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174242,
       "num": 174242,
       "word": "多国领导人伦敦峰会宣布支持乌克兰4个步骤",
@@ -1033,14 +1089,6 @@
       "onboard_time": 1740973099,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 170492,
-      "num": 170492,
-      "word": "高铁无休纯学9小时",
-      "onboard_time": 1740990380,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 169538,
@@ -1204,7 +1252,7 @@
     },
     {
       "raw_hot": 156228,
-      "num": 156228,
+      "num": 323720,
       "word": "深圳就业应届毕业生最高补贴10万",
       "onboard_time": 1740988578,
       "rank": 38,
@@ -1273,6 +1321,14 @@
       "onboard_time": 1740983178,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 152084,
+      "num": 152084,
+      "word": "难哄 重庆摩天轮",
+      "onboard_time": 1740992658,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 151848,
@@ -1395,11 +1451,11 @@
       "category": "财经"
     },
     {
-      "raw_hot": 140304,
-      "num": 140304,
-      "word": "白鹿说暂时不想拍古装戏",
-      "onboard_time": 1740990798,
-      "rank": 44,
+      "raw_hot": 141134,
+      "num": 151962,
+      "word": "谁说这男主老了这男主太嫩了",
+      "onboard_time": 1740992479,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -1459,6 +1515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136596,
+      "num": 136596,
+      "word": "明日方舟",
+      "onboard_time": 1740993799,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 134869,
       "num": 134869,
       "word": "直播全国政协十四届三次会议发布会",
@@ -1507,28 +1571,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 129640,
-      "num": 129640,
-      "word": "盒马不再对标山姆",
-      "onboard_time": 1740991339,
-      "rank": 46,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 128917,
       "num": 128917,
       "word": "张康乐出发青海",
       "onboard_time": 1740982758,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 128823,
-      "num": 128823,
-      "word": "手串",
-      "onboard_time": 1740988879,
-      "rank": 47,
-      "category": "休闲"
     },
     {
       "raw_hot": 128767,
@@ -1545,6 +1593,14 @@
       "onboard_time": 1740987021,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 128145,
+      "num": 128145,
+      "word": "排版大师贺峻霖",
+      "onboard_time": 1740993620,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 127414,
@@ -1651,6 +1707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122136,
+      "num": 122136,
+      "word": "杨紫李祯灰头土脸",
+      "onboard_time": 1740992299,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120930,
       "num": 201570,
       "word": "这种让牙齿易脱落的病被很多年轻人忽视",
@@ -1705,6 +1769,14 @@
       "onboard_time": 1740964040,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111209,
+      "num": 111209,
+      "word": "快乐再出发征婚征出连环刀",
+      "onboard_time": 1740993499,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 110062,
@@ -1779,6 +1851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102394,
+      "num": 102394,
+      "word": "哪吒里南面结界兽原来真的没有说谎",
+      "onboard_time": 1740993799,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 100976,
       "num": 112214,
       "word": "宋亚轩直播改时间",
@@ -1849,6 +1929,14 @@
       "onboard_time": 1740957376,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92266,
+      "num": 150011,
+      "word": "个税起征点可适度提高但不宜过高",
+      "onboard_time": 1740992838,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91371,
@@ -1955,6 +2043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81616,
+      "num": 742472,
+      "word": "今年两会这些看点值得关注",
+      "onboard_time": 1740990259,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 81401,
       "num": 296584,
       "word": "猫猫得到了奥斯卡小金人",
@@ -1991,14 +2087,6 @@
       "num": 887735,
       "word": "9图了解人大知识点",
       "onboard_time": 1740975680,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 74175,
-      "num": 742472,
-      "word": "今年两会这些看点值得关注",
-      "onboard_time": 1740990259,
       "rank": 2,
       "category": "国内时政"
     },
@@ -2219,6 +2307,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 39333,
+      "num": 294040,
+      "word": "建议将心理健康列为中小学必修课",
+      "onboard_time": 1740992779,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39257,
       "num": 149318,
       "word": "唐九洲苏叶哥打扰了臣告退",
@@ -2315,6 +2411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21535,
+      "num": 150817,
+      "word": "超150万公里验证的电车",
+      "onboard_time": 1740993139,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 21524,
       "num": 48413,
       "word": "加沙停火协议第一阶段已到期",
@@ -2408,6 +2512,14 @@
       "word": "他守护国宝躲过日寇劫掠",
       "onboard_time": 1740955994,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14474,
+      "num": 176174,
+      "word": "当地称将尽全力帮助李坤朋家人",
+      "onboard_time": 1740993738,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
