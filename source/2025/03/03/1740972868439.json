@@ -1,0 +1,410 @@
+{
+  "runTime": 1740972868439,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1578574,
+        "num": 1578574,
+        "word": "余华英死刑后杨妞花回应是否会退网",
+        "onboard_time": 1740968839,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1294723,
+        "num": 1294723,
+        "word": "奥斯卡",
+        "onboard_time": 1740963319,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 59609,
+        "num": 1050903,
+        "word": "中国制造硬核出圈",
+        "onboard_time": 1740923120,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 939627,
+        "num": 939627,
+        "word": "DeepSeek没彻底改变全球AI发展格局",
+        "onboard_time": 1740969558,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 832925,
+        "num": 832925,
+        "word": "菜刀哥李坤朋去世",
+        "onboard_time": 1740972320,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 830553,
+        "num": 830553,
+        "word": "衡水学生家长认为双休是胡搞",
+        "onboard_time": 1740969738,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 602990,
+        "num": 602990,
+        "word": "奥斯卡主持人说中文",
+        "onboard_time": 1740967339,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 559057,
+        "num": 559057,
+        "word": "电影长安的荔枝定档",
+        "onboard_time": 1740969800,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 536256,
+        "num": 536256,
+        "word": "嘘国王在冬眠",
+        "onboard_time": 1740970219,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 436906,
+        "num": 436906,
+        "word": "这支短片领衔主演是14亿中国人",
+        "onboard_time": 1740966318,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 483679,
+        "num": 430202,
+        "word": "贵女",
+        "onboard_time": 1740970399,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 398828,
+        "num": 398828,
+        "word": "泽连斯基称愿以辞职换乌进北约",
+        "onboard_time": 1740958877,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 377939,
+        "num": 377939,
+        "word": "两会",
+        "onboard_time": 1740963979,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 353530,
+        "num": 353530,
+        "word": "向阳花定档",
+        "onboard_time": 1740967039,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 311089,
+        "num": 311089,
+        "word": "戚薇眼睛",
+        "onboard_time": 1740925941,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297918,
+        "num": 297918,
+        "word": "肖战在巴塞罗那被偶遇",
+        "onboard_time": 1740968479,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292664,
+        "num": 292664,
+        "word": "雷军说大家不要觉得我们赢得很容易",
+        "onboard_time": 1740964219,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 167820,
+        "num": 291604,
+        "word": "迪丽热巴时装三月开季封面",
+        "onboard_time": 1740972439,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 178763,
+        "num": 289826,
+        "word": "李健称荣耀不再是智能手机制造商",
+        "onboard_time": 1740971299,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 57360,
+        "num": 287385,
+        "word": "我的器官都在说谢谢我减重",
+        "onboard_time": 1740971299,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 418592,
+        "num": 285633,
+        "word": "冯小刚全女阵容",
+        "onboard_time": 1740971780,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 358716,
+        "num": 281344,
+        "word": "牙齿会影响整个身体健康",
+        "onboard_time": 1740963259,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 315412,
+        "num": 279933,
+        "word": "全红婵幽默点评王楚钦化妆",
+        "onboard_time": 1740968359,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68172,
+        "num": 278802,
+        "word": "巴菲特罕见谈关税",
+        "onboard_time": 1740971000,
+        "rank": 23,
+        "category": "财经,海外新闻"
+      },
+      {
+        "raw_hot": 276735,
+        "num": 276735,
+        "word": "00后买二手车做婚车遭家人反对",
+        "onboard_time": 1740969558,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269224,
+        "num": 269224,
+        "word": "方大同",
+        "onboard_time": 1740963498,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251010,
+        "num": 251010,
+        "word": "建议各地制定彩礼金额上限标准",
+        "onboard_time": 1740968659,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245387,
+        "num": 245387,
+        "word": "奥斯卡缅怀郑佩佩",
+        "onboard_time": 1740972380,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198019,
+        "num": 198019,
+        "word": "蔡徐坤胡茬蓝发造型",
+        "onboard_time": 1740972439,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195032,
+        "num": 195032,
+        "word": "这次山东等地暴雪并不异常",
+        "onboard_time": 1740920480,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188641,
+        "num": 188641,
+        "word": "冷冷冷周一冷冷冷",
+        "onboard_time": 1740960138,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178336,
+        "num": 178336,
+        "word": "程潇向阳花海报",
+        "onboard_time": 1740971598,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168838,
+        "num": 168838,
+        "word": "詹姆斯5万分",
+        "onboard_time": 1740970758,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167609,
+        "num": 167609,
+        "word": "宋妍霏用侯佩岑的脸比心",
+        "onboard_time": 1740971120,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167057,
+        "num": 167057,
+        "word": "张凌赫 爸妈爷奶都知道了",
+        "onboard_time": 1740927560,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12392,
+        "num": 165280,
+        "word": "基南卡尔金奥斯卡最佳男配",
+        "onboard_time": 1740972260,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164351,
+        "num": 164351,
+        "word": "奥斯卡预热派对",
+        "onboard_time": 1740967698,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 66299,
+        "num": 164192,
+        "word": "猫猫得到了奥斯卡小金人",
+        "onboard_time": 1740970039,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 44143,
+        "num": 164166,
+        "word": "小鹏连续2个月新势力销量第一",
+        "onboard_time": 1740971780,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 164149,
+        "num": 164149,
+        "word": "虞书欣卫枝单眼落泪",
+        "onboard_time": 1740971420,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163365,
+        "num": 163365,
+        "word": "杨妞花今日回家告慰父母",
+        "onboard_time": 1740968839,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162714,
+        "num": 162714,
+        "word": "105岁老太每天遛弯还能洗菜煮饭",
+        "onboard_time": 1740968299,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151872,
+        "num": 151872,
+        "word": "主角官宣阵容",
+        "onboard_time": 1740967097,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147487,
+        "num": 147487,
+        "word": "赵丽颖向阳花剧照",
+        "onboard_time": 1740971420,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137183,
+        "num": 137183,
+        "word": "库里扮演邦女郎",
+        "onboard_time": 1740970699,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134622,
+        "num": 134622,
+        "word": "奥运冠军演我体测",
+        "onboard_time": 1740972559,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134591,
+        "num": 134591,
+        "word": "委员建议将学历歧视纳入就业歧视范畴",
+        "onboard_time": 1740971958,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 127258,
+        "num": 127258,
+        "word": "北上中式顶级邻里关系",
+        "onboard_time": 1740972260,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120930,
+        "num": 120930,
+        "word": "这种让牙齿易脱落的病被很多年轻人忽视",
+        "onboard_time": 1740970039,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116955,
+        "num": 116955,
+        "word": "被60岁奶奶的出片表现给惊艳到了",
+        "onboard_time": 1740972800,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同志关心推动民营经济发展纪实#"
+    }
+  }
+}
