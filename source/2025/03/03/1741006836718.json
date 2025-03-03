@@ -1,0 +1,410 @@
+{
+  "runTime": 1741006836718,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1385729,
+        "num": 1385729,
+        "word": "歌手",
+        "onboard_time": 1741002919,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1346628,
+        "num": 1346628,
+        "word": "G2985次动车为救人破例临停",
+        "onboard_time": 1741001419,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 73356,
+        "num": 948459,
+        "word": "今年两会这些看点值得关注",
+        "onboard_time": 1740990259,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 627685,
+        "num": 627685,
+        "word": "北上开播",
+        "onboard_time": 1741002799,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 446103,
+        "num": 446103,
+        "word": "武汉下雪",
+        "onboard_time": 1741004718,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300077,
+        "num": 300077,
+        "word": "盒马不再对标山姆",
+        "onboard_time": 1740991339,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 593334,
+        "num": 284929,
+        "word": "哪吒2成首部破20亿美元亚洲电影",
+        "onboard_time": 1740998358,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 345384,
+        "num": 269675,
+        "word": "章若楠我承认之前对你的声音大了点",
+        "onboard_time": 1740990438,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233291,
+        "num": 233291,
+        "word": "以为是缺点其实是基因彩票",
+        "onboard_time": 1740990500,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 688305,
+        "num": 232888,
+        "word": "杨妞花点燃6000米鞭炮祭拜父母",
+        "onboard_time": 1741001718,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 688082,
+        "num": 232702,
+        "word": "刘浩存赵今麦 miumiu",
+        "onboard_time": 1740994700,
+        "rank": 10,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 420649,
+        "num": 232128,
+        "word": "马柏全 青海",
+        "onboard_time": 1741004358,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410230,
+        "num": 231831,
+        "word": "爱你 上头",
+        "onboard_time": 1741000759,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290310,
+        "num": 231534,
+        "word": "歌手2025网传阵容",
+        "onboard_time": 1741000698,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192448,
+        "num": 231006,
+        "word": "被吵醒的小猫变成了申公豹",
+        "onboard_time": 1741004058,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 286818,
+        "num": 230421,
+        "word": "北上",
+        "onboard_time": 1740993259,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283799,
+        "num": 230274,
+        "word": "一张机票的事不要再wait",
+        "onboard_time": 1740998658,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268498,
+        "num": 229804,
+        "word": "追星式存钱",
+        "onboard_time": 1741000278,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 96999,
+        "num": 229451,
+        "word": "全民智驾的前提是安全",
+        "onboard_time": 1741005439,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 191777,
+        "num": 228897,
+        "word": "济南大暴雪下了387个大明湖",
+        "onboard_time": 1740985038,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58033,
+        "num": 228530,
+        "word": "2025全国两会看点前瞻",
+        "onboard_time": 1741005981,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 672261,
+        "num": 228279,
+        "word": "iPhone13跌至半价后销量暴增10倍",
+        "onboard_time": 1741002738,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 245907,
+        "num": 227526,
+        "word": "樊振东领取终身保障",
+        "onboard_time": 1741003339,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227449,
+        "num": 227449,
+        "word": "白鹿虞书欣新剧或将对打",
+        "onboard_time": 1741004298,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219287,
+        "num": 219287,
+        "word": "aespa演唱会没给宁艺卓打光",
+        "onboard_time": 1741005798,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 198717,
+        "num": 198717,
+        "word": "辛芷蕾真实到好像又看了一集花少",
+        "onboard_time": 1741005981,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191023,
+        "num": 191023,
+        "word": "刘学义落花时节又逢君进入排播",
+        "onboard_time": 1741006640,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194382,
+        "num": 190783,
+        "word": "白鹿北上开播文",
+        "onboard_time": 1741005679,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190276,
+        "num": 190276,
+        "word": "张天爱自曝体重96.4斤",
+        "onboard_time": 1740998777,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179194,
+        "num": 179194,
+        "word": "肖战成毅杨洋三大男主剧四月对打",
+        "onboard_time": 1740991519,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167006,
+        "num": 167006,
+        "word": "青岛一个人收15块加工费的海鲜烩饼",
+        "onboard_time": 1741004900,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 90163,
+        "num": 164820,
+        "word": "夸克给出了时效性超强的答案",
+        "onboard_time": 1741002558,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 88483,
+        "num": 163910,
+        "word": "鲁A55X7E暴雪中拖完公交拖扫雪车",
+        "onboard_time": 1741006700,
+        "rank": 32,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 163525,
+        "num": 163525,
+        "word": "檀健次小作文夸李兰迪",
+        "onboard_time": 1741006039,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152874,
+        "num": 162932,
+        "word": "福州冰雹",
+        "onboard_time": 1741001838,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162737,
+        "num": 162737,
+        "word": "虞书欣一生倔强的小拇指",
+        "onboard_time": 1741005981,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159354,
+        "num": 159354,
+        "word": "田曦薇barbie薇",
+        "onboard_time": 1741005860,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156507,
+        "num": 156507,
+        "word": "第一部女A男B的国产剧",
+        "onboard_time": 1741003878,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145146,
+        "num": 145146,
+        "word": "任容萱为104岁外婆庆生",
+        "onboard_time": 1741003520,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140384,
+        "num": 140384,
+        "word": "春捂最该捂的3个部位",
+        "onboard_time": 1740996438,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 138445,
+        "num": 138445,
+        "word": "李紫婷失声后舞台飙高音",
+        "onboard_time": 1741004298,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138415,
+        "num": 138415,
+        "word": "滤镜",
+        "onboard_time": 1740997399,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132496,
+        "num": 132496,
+        "word": "大唐荣耀结局给不了的似锦给了",
+        "onboard_time": 1740995958,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128465,
+        "num": 128465,
+        "word": "严浩翔开始恢复训练了",
+        "onboard_time": 1741002079,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118603,
+        "num": 128458,
+        "word": "男子搬家3小时丢失230万名表",
+        "onboard_time": 1740999919,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54538,
+        "num": 128453,
+        "word": "鸿蒙智行500万收集黑公关线索",
+        "onboard_time": 1741002558,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 128453,
+        "num": 128452,
+        "word": "哪吒2票房超145亿",
+        "onboard_time": 1740991879,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127402,
+        "num": 127402,
+        "word": "似锦等了两辈子才有一回强吻",
+        "onboard_time": 1741006399,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120553,
+        "num": 120553,
+        "word": "爱你",
+        "onboard_time": 1741002678,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118327,
+        "num": 118327,
+        "word": "两会",
+        "onboard_time": 1740963979,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式现代化是伟大而艰巨的事业#"
+    }
+  }
+}

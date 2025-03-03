@@ -1,6 +1,6 @@
 {
   "startTime": 1740932816657,
-  "endTime": 1741005887259,
+  "endTime": 1741006836718,
   "band_list": [
     {
       "raw_hot": 2261873,
@@ -59,8 +59,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1293320,
-      "num": 1293320,
+      "raw_hot": 1385729,
+      "num": 1385729,
       "word": "歌手",
       "onboard_time": 1741002919,
       "rank": 1,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 761958,
-      "num": 221664,
+      "num": 228279,
       "word": "iPhone13跌至半价后销量暴增10倍",
       "onboard_time": 1741002738,
       "rank": 20,
@@ -264,6 +264,14 @@
       "word": "主角官宣阵容",
       "onboard_time": 1740967097,
       "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 627685,
+      "num": 627685,
+      "word": "北上开播",
+      "onboard_time": 1741002799,
+      "rank": 7,
       "category": "剧集"
     },
     {
@@ -499,20 +507,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 460663,
-      "num": 299165,
-      "word": "北上开播",
-      "onboard_time": 1741002799,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 459806,
       "num": 459806,
       "word": "大唐荣耀结局给不了的似锦给了",
       "onboard_time": 1740995958,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 446103,
+      "num": 446103,
+      "word": "武汉下雪",
+      "onboard_time": 1741004718,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 435355,
@@ -531,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 420649,
+      "num": 266352,
+      "word": "马柏全 青海",
+      "onboard_time": 1741004358,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 415990,
       "num": 200167,
       "word": "张天爱自曝体重96.4斤",
@@ -545,6 +561,14 @@
       "onboard_time": 1740962180,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 410230,
+      "num": 268886,
+      "word": "爱你 上头",
+      "onboard_time": 1741000759,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 402471,
@@ -595,14 +619,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 368240,
-      "num": 268886,
-      "word": "爱你 上头",
-      "onboard_time": 1741000759,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 365070,
       "num": 365070,
       "word": "英法乌将向美提和平计划",
@@ -611,20 +627,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 363685,
-      "num": 266352,
-      "word": "马柏全 青海",
-      "onboard_time": 1741004358,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 354288,
       "num": 302230,
       "word": "新加坡偶遇林俊杰吃早餐",
       "onboard_time": 1740963859,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 345384,
+      "num": 269675,
+      "word": "章若楠我承认之前对你的声音大了点",
+      "onboard_time": 1740990438,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 339977,
@@ -657,14 +673,6 @@
       "onboard_time": 1740973700,
       "rank": 18,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 332648,
-      "num": 254640,
-      "word": "章若楠我承认之前对你的声音大了点",
-      "onboard_time": 1740990438,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 328434,
@@ -787,6 +795,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 286818,
+      "num": 245137,
+      "word": "北上",
+      "onboard_time": 1740993259,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 285653,
       "num": 161822,
       "word": "第97届奥斯卡金像奖最佳影片提名",
@@ -828,7 +844,7 @@
     },
     {
       "raw_hot": 274300,
-      "num": 211974,
+      "num": 227526,
       "word": "樊振东领取终身保障",
       "onboard_time": 1741003339,
       "rank": 21,
@@ -841,14 +857,6 @@
       "onboard_time": 1740994397,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 271098,
-      "num": 245137,
-      "word": "北上",
-      "onboard_time": 1740993259,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 269393,
@@ -864,14 +872,6 @@
       "word": "母亲被撞身亡46万赔偿拖欠2年",
       "onboard_time": 1740923360,
       "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 262965,
-      "num": 262965,
-      "word": "武汉下雪",
-      "onboard_time": 1741004718,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -916,7 +916,7 @@
     },
     {
       "raw_hot": 246826,
-      "num": 206328,
+      "num": 227449,
       "word": "白鹿虞书欣新剧或将对打",
       "onboard_time": 1741004298,
       "rank": 22,
@@ -1004,7 +1004,7 @@
     },
     {
       "raw_hot": 224658,
-      "num": 165406,
+      "num": 231006,
       "word": "被吵醒的小猫变成了申公豹",
       "onboard_time": 1741004058,
       "rank": 30,
@@ -1033,6 +1033,14 @@
       "onboard_time": 1740973939,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 219287,
+      "num": 219287,
+      "word": "aespa演唱会没给宁艺卓打光",
+      "onboard_time": 1741005798,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 218150,
@@ -1171,6 +1179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198717,
+      "num": 198717,
+      "word": "辛芷蕾真实到好像又看了一集花少",
+      "onboard_time": 1741005981,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197109,
       "num": 197109,
       "word": "蓝色郁金香",
@@ -1185,6 +1201,14 @@
       "onboard_time": 1740976641,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194382,
+      "num": 190783,
+      "word": "白鹿北上开播文",
+      "onboard_time": 1741005679,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 193728,
@@ -1207,6 +1231,14 @@
       "num": 237560,
       "word": "胡军新剧胖若两人",
       "onboard_time": 1740988338,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 191023,
+      "num": 191023,
+      "word": "刘学义落花时节又逢君进入排播",
+      "onboard_time": 1741006640,
       "rank": 26,
       "category": "剧集"
     },
@@ -1331,14 +1363,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 175007,
-      "num": 175007,
-      "word": "aespa演唱会没给宁艺卓打光",
-      "onboard_time": 1741005798,
-      "rank": 27,
-      "category": "演出"
-    },
-    {
       "raw_hot": 174867,
       "num": 174867,
       "word": "原来暖暖的穿搭是有分数的",
@@ -1427,6 +1451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167006,
+      "num": 167006,
+      "word": "青岛一个人收15块加工费的海鲜烩饼",
+      "onboard_time": 1741004900,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 166899,
       "num": 166899,
       "word": "终于懂什么叫修音响级歌手了",
@@ -1491,6 +1523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163525,
+      "num": 163525,
+      "word": "檀健次小作文夸李兰迪",
+      "onboard_time": 1741006039,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163365,
       "num": 204017,
       "word": "杨妞花今日回家告慰父母",
@@ -1504,6 +1544,14 @@
       "word": "原来辛芷蕾私下这么抽象",
       "onboard_time": 1740986539,
       "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 162737,
+      "num": 162737,
+      "word": "虞书欣一生倔强的小拇指",
+      "onboard_time": 1741005981,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -1537,6 +1585,14 @@
       "onboard_time": 1740980240,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 159354,
+      "num": 159354,
+      "word": "田曦薇barbie薇",
+      "onboard_time": 1741005860,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 158602,
@@ -1673,6 +1729,14 @@
       "onboard_time": 1740983178,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 152874,
+      "num": 162932,
+      "word": "福州冰雹",
+      "onboard_time": 1741001838,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152084,
@@ -1915,14 +1979,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 134015,
-      "num": 134015,
-      "word": "青岛一个人收15块加工费的海鲜烩饼",
-      "onboard_time": 1741004900,
-      "rank": 40,
-      "category": "美食"
-    },
-    {
       "raw_hot": 133859,
       "num": 133859,
       "word": "重病卧床的男主还急着争宠",
@@ -2011,6 +2067,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 127402,
+      "num": 127402,
+      "word": "似锦等了两辈子才有一回强吻",
+      "onboard_time": 1741006399,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127362,
       "num": 318645,
       "word": "周也落日回眸巴黎出发图",
@@ -2084,7 +2148,7 @@
     },
     {
       "raw_hot": 125264,
-      "num": 176114,
+      "num": 229451,
       "word": "全民智驾的前提是安全",
       "onboard_time": 1741005439,
       "rank": 26,
@@ -2147,14 +2211,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 120974,
-      "num": 120974,
-      "word": "白鹿北上开播文",
-      "onboard_time": 1741005679,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 120930,
       "num": 201570,
       "word": "这种让牙齿易脱落的病被很多年轻人忽视",
@@ -2171,6 +2227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120553,
+      "num": 120553,
+      "word": "爱你",
+      "onboard_time": 1740964819,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119693,
       "num": 160674,
       "word": "特朗普政府3日讨论对乌断供",
@@ -2185,14 +2249,6 @@
       "onboard_time": 1740969377,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 117963,
-      "num": 117963,
-      "word": "福州冰雹",
-      "onboard_time": 1741001838,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117927,
@@ -2225,14 +2281,6 @@
       "onboard_time": 1740985997,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 114853,
-      "num": 114853,
-      "word": "爱你",
-      "onboard_time": 1740964819,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 112815,
@@ -2297,14 +2345,6 @@
       "onboard_time": 1740965418,
       "rank": 27,
       "category": "电影,动漫"
-    },
-    {
-      "raw_hot": 107611,
-      "num": 107611,
-      "word": "田曦薇barbie薇",
-      "onboard_time": 1741005860,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 106746,
@@ -2475,12 +2515,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 90163,
+      "num": 224915,
+      "word": "夸克给出了时效性超强的答案",
+      "onboard_time": 1741002558,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 88521,
       "num": 88521,
       "word": "李昀锐巴黎时装周",
       "onboard_time": 1740926301,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 88483,
+      "num": 163910,
+      "word": "鲁A55X7E暴雪中拖完公交拖扫雪车",
+      "onboard_time": 1741006700,
+      "rank": 32,
+      "category": "正能量"
     },
     {
       "raw_hot": 88459,
@@ -2564,19 +2620,11 @@
     },
     {
       "raw_hot": 81616,
-      "num": 888045,
+      "num": 948459,
       "word": "今年两会这些看点值得关注",
       "onboard_time": 1740990259,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 81446,
-      "num": 224915,
-      "word": "夸克给出了时效性超强的答案",
-      "onboard_time": 1741002558,
-      "rank": 19,
-      "category": "互联网"
     },
     {
       "raw_hot": 81401,
@@ -2731,6 +2779,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 58033,
+      "num": 228530,
+      "word": "2025全国两会看点前瞻",
+      "onboard_time": 1741005981,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 57360,
       "num": 287385,
       "word": "我的器官都在说谢谢我减重",
@@ -2745,6 +2801,14 @@
       "onboard_time": 1740983657,
       "rank": 29,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 54538,
+      "num": 165587,
+      "word": "鸿蒙智行500万收集黑公关线索",
+      "onboard_time": 1741002558,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 53790,
@@ -2769,14 +2833,6 @@
       "onboard_time": 1740946271,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 49425,
-      "num": 165587,
-      "word": "鸿蒙智行500万收集黑公关线索",
-      "onboard_time": 1741002558,
-      "rank": 29,
-      "category": "汽车"
     },
     {
       "raw_hot": 48474,
