@@ -1,6 +1,6 @@
 {
   "startTime": 1741019331864,
-  "endTime": 1741041618314,
+  "endTime": 1741044124298,
   "band_list": [
     {
       "raw_hot": 1352534,
@@ -32,6 +32,14 @@
       "word": "女子炒黄金第1天就赚2000元报了警",
       "onboard_time": 1741016419,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 582863,
+      "num": 104510,
+      "word": "女子按摩肩颈后急性脑梗死进了ICU",
+      "onboard_time": 1741021215,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 333096,
-      "num": 333096,
+      "num": 754174,
       "word": "山航飞机暴雪中硬核起飞",
       "onboard_time": 1741015039,
       "rank": 9,
@@ -107,14 +115,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 288396,
-      "num": 104510,
-      "word": "女子按摩肩颈后急性脑梗死进了ICU",
-      "onboard_time": 1741021215,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 272861,
       "num": 127837,
       "word": "iPhone13跌至半价后销量暴增10倍",
@@ -123,7 +123,7 @@
       "category": "数码"
     },
     {
-      "raw_hot": 252905,
+      "raw_hot": 267734,
       "num": 163091,
       "word": "殡仪馆馆长张平任上被查",
       "onboard_time": 1741017618,
@@ -137,6 +137,14 @@
       "onboard_time": 1741006879,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225416,
+      "num": 225416,
+      "word": "官方回应网传汕头出现海市蜃楼",
+      "onboard_time": 1741020076,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 225024,
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 207889,
-      "num": 83517,
+      "num": 94258,
       "word": "张真源",
       "onboard_time": 1741022773,
       "rank": 14,
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 195828,
-      "num": 52347,
+      "num": 53327,
       "word": "网易崩了",
       "onboard_time": 1741023373,
       "rank": 30,
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 180645,
-      "num": 157355,
+      "num": 159823,
       "word": "白鹿华子1.0 帅是一种感觉",
       "onboard_time": 1741015517,
       "rank": 17,
@@ -203,12 +211,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 173175,
-      "num": 173175,
-      "word": "官方回应网传汕头出现海市蜃楼",
-      "onboard_time": 1741020076,
-      "rank": 5,
-      "category": "民生新闻"
+      "raw_hot": 154562,
+      "num": 154562,
+      "word": "滤镜乱成一锅粥了快吃了吧",
+      "onboard_time": 1741013420,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 152723,
@@ -217,6 +225,14 @@
       "onboard_time": 1740994700,
       "rank": 21,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 135388,
+      "num": 135388,
+      "word": "河南农户自制沙袋阻尼器抵御暴风",
+      "onboard_time": 1741020015,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134575,
@@ -249,14 +265,6 @@
       "onboard_time": 1741014739,
       "rank": 26,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 117846,
-      "num": 141079,
-      "word": "滤镜乱成一锅粥了快吃了吧",
-      "onboard_time": 1741013420,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 116988,
@@ -371,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 72774,
+      "num": 72774,
+      "word": "西园寺击掌猫是被主人带着晒太阳的",
+      "onboard_time": 1741040952,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70710,
       "num": 70710,
       "word": "武汉下雪",
@@ -403,12 +419,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 67212,
-      "num": 67212,
-      "word": "河南农户自制沙袋阻尼器抵御暴风",
-      "onboard_time": 1741020015,
-      "rank": 40,
-      "category": "民生新闻"
+      "raw_hot": 66926,
+      "num": 66926,
+      "word": "胡歌开了家昆虫酒店",
+      "onboard_time": 1740999019,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 65170,
@@ -491,6 +507,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 48232,
+      "num": 48232,
+      "word": "美官员称乌需要能结束战争的领导人",
+      "onboard_time": 1741032490,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 45945,
+      "num": 45945,
+      "word": "网友蹦迪偶遇蔡康永",
+      "onboard_time": 1741029672,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 44297,
+      "num": 44297,
+      "word": "蜜雪冰城平均1天卖近2500万杯",
+      "onboard_time": 1741032851,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 41138,
       "num": 41138,
       "word": "最苏橙橙的苏橙橙",
@@ -507,12 +547,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 32862,
-      "num": 32862,
-      "word": "美官员称乌需要能结束战争的领导人",
-      "onboard_time": 1741032490,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 36227,
+      "num": 36227,
+      "word": "建议药品说明书改变专业用语表述",
+      "onboard_time": 1741035551,
+      "rank": 42,
+      "category": "国内时政,健康医疗"
+    },
+    {
+      "raw_hot": 34932,
+      "num": 36074,
+      "word": "你认为哪吒2票房能超150亿吗",
+      "onboard_time": 1741044016,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 30299,
+      "num": 35959,
+      "word": "两会上大胡子外国记者被点赞",
+      "onboard_time": 1741030331,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 29256,
+      "num": 35930,
+      "word": "张若昀或扮演杜甫",
+      "onboard_time": 1741043296,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 26497,
@@ -523,36 +587,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25062,
-      "num": 25062,
-      "word": "建议药品说明书改变专业用语表述",
-      "onboard_time": 1741035551,
-      "rank": 42,
-      "category": "国内时政,健康医疗"
-    },
-    {
-      "raw_hot": 23565,
-      "num": 23565,
-      "word": "网友蹦迪偶遇蔡康永",
-      "onboard_time": 1741029672,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 22682,
       "num": 22682,
       "word": "智搜DS评王一博内娱最具正能量明星",
       "onboard_time": 1741037111,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 22318,
-      "num": 22318,
-      "word": "蜜雪冰城平均1天卖近2500万杯",
-      "onboard_time": 1741032851,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 22266,
@@ -568,14 +608,6 @@
       "word": "一级保护动物自带彩色小围嘴",
       "onboard_time": 1741025413,
       "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17091,
-      "num": 21564,
-      "word": "西园寺击掌猫是被主人带着晒太阳的",
-      "onboard_time": 1741040952,
-      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -601,14 +633,6 @@
       "onboard_time": 1741025832,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 15526,
-      "num": 21563,
-      "word": "两会上大胡子外国记者被点赞",
-      "onboard_time": 1741030331,
-      "rank": 24,
-      "category": "国内时政"
     },
     {
       "raw_hot": 14697,
