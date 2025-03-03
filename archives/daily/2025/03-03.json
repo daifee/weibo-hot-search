@@ -1,6 +1,6 @@
 {
   "startTime": 1740932816657,
-  "endTime": 1740979418308,
+  "endTime": 1740980431103,
   "band_list": [
     {
       "raw_hot": 2261873,
@@ -115,6 +115,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 682239,
+      "num": 464195,
+      "word": "36名男士恋爱1个月背上百万房贷",
+      "onboard_time": 1740975861,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 651589,
       "num": 651589,
       "word": "主角官宣阵容",
@@ -137,6 +145,14 @@
       "onboard_time": 1740971780,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 592206,
+      "num": 592206,
+      "word": "香港顶流姜涛瘦的时候",
+      "onboard_time": 1740979100,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 591826,
@@ -177,14 +193,6 @@
       "onboard_time": 1740967039,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 583239,
-      "num": 464195,
-      "word": "36名男士恋爱1个月背上百万房贷",
-      "onboard_time": 1740975861,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 583163,
@@ -241,6 +249,14 @@
       "onboard_time": 1740970399,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 510269,
+      "num": 510269,
+      "word": "赵丽颖新片饰演刑满释放女子",
+      "onboard_time": 1740977962,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 510052,
@@ -307,20 +323,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 371420,
+      "num": 408863,
+      "word": "上班杀死了我的文化体力",
+      "onboard_time": 1740974660,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 365070,
       "num": 365070,
       "word": "英法乌将向美提和平计划",
       "onboard_time": 1740956834,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 364122,
-      "num": 408863,
-      "word": "上班杀死了我的文化体力",
-      "onboard_time": 1740974660,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 354288,
@@ -427,6 +443,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 289479,
+      "num": 289479,
+      "word": "难哄 单更加断更",
+      "onboard_time": 1740979520,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 285653,
       "num": 161822,
       "word": "第97届奥斯卡金像奖最佳影片提名",
@@ -483,14 +507,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 254238,
-      "num": 301883,
-      "word": "赵丽颖新片饰演刑满释放女子",
-      "onboard_time": 1740977962,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 243714,
       "num": 243714,
       "word": "济南因暴雪停课",
@@ -515,6 +531,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 237574,
+      "num": 237574,
+      "word": "詹姆斯生涯49999分",
+      "onboard_time": 1740979219,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229082,
       "num": 229082,
       "word": "冷冷冷周一冷冷冷",
@@ -523,7 +547,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 224259,
+      "raw_hot": 226520,
       "num": 224259,
       "word": "桑延温以凡两集亲了四次",
       "onboard_time": 1740977962,
@@ -548,7 +572,7 @@
     },
     {
       "raw_hot": 214574,
-      "num": 214574,
+      "num": 388886,
       "word": "长沙刚刚下雪了",
       "onboard_time": 1740978021,
       "rank": 31,
@@ -561,6 +585,14 @@
       "onboard_time": 1740975382,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 207880,
+      "num": 290230,
+      "word": "孙协志夏宇童宣布结婚",
+      "onboard_time": 1740979339,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 207446,
@@ -609,14 +641,6 @@
       "onboard_time": 1740910940,
       "rank": 14,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 201130,
-      "num": 201130,
-      "word": "香港顶流姜涛瘦的时候",
-      "onboard_time": 1740979100,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 199528,
@@ -675,6 +699,14 @@
       "category": "民生新闻,国际时政"
     },
     {
+      "raw_hot": 183899,
+      "num": 201441,
+      "word": "湖人球迷喊佩林卡MVP",
+      "onboard_time": 1740979160,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181713,
       "num": 181713,
       "word": "詹姆斯5万分",
@@ -705,14 +737,6 @@
       "onboard_time": 1740971598,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 176921,
-      "num": 176921,
-      "word": "詹姆斯生涯49999分",
-      "onboard_time": 1740979219,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 174242,
@@ -809,14 +833,6 @@
       "onboard_time": 1740958936,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 158010,
-      "num": 158010,
-      "word": "湖人球迷喊佩林卡MVP",
-      "onboard_time": 1740979160,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 157670,
@@ -923,20 +939,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 147573,
+      "num": 147573,
+      "word": "温以凡练吻技",
+      "onboard_time": 1740979879,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 147543,
+      "num": 224281,
+      "word": "林诗栋体测憋出痛苦面具",
+      "onboard_time": 1740979579,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147487,
       "num": 147487,
       "word": "赵丽颖向阳花剧照",
       "onboard_time": 1740971420,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 144310,
-      "num": 144310,
-      "word": "孙协志夏宇童宣布结婚",
-      "onboard_time": 1740979339,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 144268,
@@ -1003,6 +1027,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 139907,
+      "num": 139907,
+      "word": "大侦探黑蛋大劫案",
+      "onboard_time": 1740980059,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 139732,
+      "num": 139732,
+      "word": "NBA",
+      "onboard_time": 1740980240,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138763,
       "num": 138763,
       "word": "方大同悼念仪式手卡上留下最后的话",
@@ -1025,6 +1065,14 @@
       "onboard_time": 1740932657,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133358,
+      "num": 307457,
+      "word": "建议学前教育逐步免费",
+      "onboard_time": 1740978501,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133074,
@@ -1107,6 +1155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 123249,
+      "num": 123249,
+      "word": "陶喆回应唱爱爱爱悼念方大同",
+      "onboard_time": 1740980240,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 122826,
       "num": 122826,
       "word": "被60岁奶奶的出片表现给惊艳到了",
@@ -1144,6 +1200,14 @@
       "word": "机器狗在泰山入职了",
       "onboard_time": 1740923660,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116784,
+      "num": 116784,
+      "word": "女子8年将家里阳台爆改菜园",
+      "onboard_time": 1740980240,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -1233,6 +1297,14 @@
       "onboard_time": 1740965599,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100302,
+      "num": 217469,
+      "word": "赵丽颖抬头看吧",
+      "onboard_time": 1740979400,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 98722,
@@ -1371,14 +1443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 82179,
-      "num": 186964,
-      "word": "赵丽颖抬头看吧",
-      "onboard_time": 1740979400,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 81401,
       "num": 296584,
       "word": "猫猫得到了奥斯卡小金人",
@@ -1425,14 +1489,6 @@
       "onboard_time": 1740966198,
       "rank": 46,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 71291,
-      "num": 307457,
-      "word": "建议学前教育逐步免费",
-      "onboard_time": 1740978501,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 68910,
@@ -1523,6 +1579,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 47558,
+      "num": 332978,
+      "word": "家属回应菜刀哥李坤朋去世",
+      "onboard_time": 1740979698,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42173,
+      "num": 296015,
+      "word": "全国控烟立法亟待推进",
+      "onboard_time": 1740978320,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 41837,
       "num": 52345,
       "word": "爱你剧组全员高学历",
@@ -1593,14 +1665,6 @@
       "onboard_time": 1740977841,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 28892,
-      "num": 296015,
-      "word": "全国控烟立法亟待推进",
-      "onboard_time": 1740978320,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 25881,

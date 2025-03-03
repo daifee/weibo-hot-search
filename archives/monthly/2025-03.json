@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740979418308,
+  "endTime": 1740980431103,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -819,6 +819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 682239,
+      "num": 464195,
+      "word": "36名男士恋爱1个月背上百万房贷",
+      "onboard_time": 1740975861,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 678144,
       "num": 318212,
       "word": "午睡超1小时心梗等风险将增加近3成",
@@ -971,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 592206,
+      "num": 592206,
+      "word": "香港顶流姜涛瘦的时候",
+      "onboard_time": 1740979100,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 591826,
       "num": 462944,
       "word": "胡歌杨紫 生命树",
@@ -1041,14 +1057,6 @@
       "onboard_time": 1740909859,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 583239,
-      "num": 464195,
-      "word": "36名男士恋爱1个月背上百万房贷",
-      "onboard_time": 1740975861,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 581734,
@@ -1249,6 +1257,14 @@
       "onboard_time": 1740798678,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 510269,
+      "num": 510269,
+      "word": "赵丽颖新片饰演刑满释放女子",
+      "onboard_time": 1740977962,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 510052,
@@ -1675,6 +1691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 371420,
+      "num": 408863,
+      "word": "上班杀死了我的文化体力",
+      "onboard_time": 1740974660,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 369692,
       "num": 210185,
       "word": "特朗普称泽连斯基需停止对普京负面言论",
@@ -1705,14 +1729,6 @@
       "onboard_time": 1740755960,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 364122,
-      "num": 408863,
-      "word": "上班杀死了我的文化体力",
-      "onboard_time": 1740974660,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 363869,
@@ -2219,6 +2235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 289479,
+      "num": 289479,
+      "word": "难哄 单更加断更",
+      "onboard_time": 1740979520,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 288123,
       "num": 317655,
       "word": "泽连斯基正飞往伦敦",
@@ -2483,14 +2507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 254238,
-      "num": 301883,
-      "word": "赵丽颖新片饰演刑满释放女子",
-      "onboard_time": 1740977962,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 253528,
       "num": 253528,
       "word": "徐明浩结束创造营亚洲2录制",
@@ -2625,6 +2641,14 @@
       "onboard_time": 1740918801,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 237574,
+      "num": 237574,
+      "word": "詹姆斯生涯49999分",
+      "onboard_time": 1740979219,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 236849,
@@ -2779,6 +2803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226520,
+      "num": 224259,
+      "word": "桑延温以凡两集亲了四次",
+      "onboard_time": 1740977962,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 226114,
       "num": 226114,
       "word": "爱你",
@@ -2817,14 +2849,6 @@
       "onboard_time": 1740890600,
       "rank": 23,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 224259,
-      "num": 224259,
-      "word": "桑延温以凡两集亲了四次",
-      "onboard_time": 1740977962,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 224141,
@@ -2988,7 +3012,7 @@
     },
     {
       "raw_hot": 214574,
-      "num": 214574,
+      "num": 388886,
       "word": "长沙刚刚下雪了",
       "onboard_time": 1740978021,
       "rank": 31,
@@ -3097,6 +3121,14 @@
       "onboard_time": 1740837204,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 207880,
+      "num": 290230,
+      "word": "孙协志夏宇童宣布结婚",
+      "onboard_time": 1740979339,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 207743,
@@ -3297,14 +3329,6 @@
       "onboard_time": 1740785175,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 201130,
-      "num": 201130,
-      "word": "香港顶流姜涛瘦的时候",
-      "onboard_time": 1740979100,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 200853,
@@ -3683,6 +3707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183899,
+      "num": 201441,
+      "word": "湖人球迷喊佩林卡MVP",
+      "onboard_time": 1740979160,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183721,
       "num": 366576,
       "word": "男子16岁起每天1包烟32岁重度心梗",
@@ -3865,14 +3897,6 @@
       "onboard_time": 1740831504,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 176921,
-      "num": 176921,
-      "word": "詹姆斯生涯49999分",
-      "onboard_time": 1740979219,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 176810,
@@ -4355,14 +4379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 158010,
-      "num": 158010,
-      "word": "湖人球迷喊佩林卡MVP",
-      "onboard_time": 1740979160,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 158000,
       "num": 455681,
       "word": "夸克硬刚",
@@ -4723,6 +4739,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 147573,
+      "num": 147573,
+      "word": "温以凡练吻技",
+      "onboard_time": 1740979879,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 147543,
+      "num": 224281,
+      "word": "林诗栋体测憋出痛苦面具",
+      "onboard_time": 1740979579,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147487,
       "num": 147487,
       "word": "赵丽颖向阳花剧照",
@@ -4825,14 +4857,6 @@
       "onboard_time": 1740826281,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 144310,
-      "num": 144310,
-      "word": "孙协志夏宇童宣布结婚",
-      "onboard_time": 1740979339,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 144268,
@@ -5019,6 +5043,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 139907,
+      "num": 139907,
+      "word": "大侦探黑蛋大劫案",
+      "onboard_time": 1740980059,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 139732,
+      "num": 139732,
+      "word": "NBA",
+      "onboard_time": 1740980240,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139700,
       "num": 139700,
       "word": "50岁阿姨跳绝命八颠完爆年轻人",
@@ -5200,6 +5240,14 @@
       "word": "家庭摄像头遭破解260元可永久观看",
       "onboard_time": 1740802698,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133358,
+      "num": 307457,
+      "word": "建议学前教育逐步免费",
+      "onboard_time": 1740978501,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -5443,6 +5491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123249,
+      "num": 123249,
+      "word": "陶喆回应唱爱爱爱悼念方大同",
+      "onboard_time": 1740980240,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 122940,
       "num": 122940,
       "word": "MLB 邓为",
@@ -5617,6 +5673,14 @@
       "onboard_time": 1740913040,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116784,
+      "num": 116784,
+      "word": "女子8年将家里阳台爆改菜园",
+      "onboard_time": 1740980240,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116727,
@@ -6065,6 +6129,14 @@
       "onboard_time": 1740965599,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100302,
+      "num": 217469,
+      "word": "赵丽颖抬头看吧",
+      "onboard_time": 1740979400,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 99658,
@@ -6539,14 +6611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 82179,
-      "num": 186964,
-      "word": "赵丽颖抬头看吧",
-      "onboard_time": 1740979400,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 82049,
       "num": 82049,
       "word": "全国高度近视患者超1.3亿人",
@@ -6713,14 +6777,6 @@
       "onboard_time": 1740891797,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 71291,
-      "num": 307457,
-      "word": "建议学前教育逐步免费",
-      "onboard_time": 1740978501,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 70923,
@@ -7043,6 +7099,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 47558,
+      "num": 332978,
+      "word": "家属回应菜刀哥李坤朋去世",
+      "onboard_time": 1740979698,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47488,
       "num": 212749,
       "word": "马刺国王争当湖人侠",
@@ -7097,6 +7161,14 @@
       "onboard_time": 1740898399,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42173,
+      "num": 296015,
+      "word": "全国控烟立法亟待推进",
+      "onboard_time": 1740978320,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 41962,
@@ -7385,14 +7457,6 @@
       "onboard_time": 1740826462,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 28892,
-      "num": 296015,
-      "word": "全国控烟立法亟待推进",
-      "onboard_time": 1740978320,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 28329,
