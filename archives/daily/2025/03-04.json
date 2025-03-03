@@ -1,6 +1,6 @@
 {
   "startTime": 1741019331864,
-  "endTime": 1741044124298,
+  "endTime": 1741044968463,
   "band_list": [
     {
       "raw_hot": 1352534,
@@ -20,14 +20,14 @@
     },
     {
       "raw_hot": 816478,
-      "num": 108101,
+      "num": 119951,
       "word": "刘耀文",
       "onboard_time": 1741021454,
       "rank": 11,
       "category": "艺人"
     },
     {
-      "raw_hot": 686741,
+      "raw_hot": 787720,
       "num": 686741,
       "word": "女子炒黄金第1天就赚2000元报了警",
       "onboard_time": 1741016419,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 582863,
-      "num": 104510,
+      "num": 121288,
       "word": "女子按摩肩颈后急性脑梗死进了ICU",
       "onboard_time": 1741021215,
       "rank": 13,
@@ -60,11 +60,19 @@
     },
     {
       "raw_hot": 459883,
-      "num": 106450,
+      "num": 113045,
       "word": "宋亚轩",
       "onboard_time": 1741021215,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 452748,
+      "num": 874957,
+      "word": "山航飞机暴雪中硬核起飞",
+      "onboard_time": 1741015039,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 436847,
@@ -99,12 +107,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 333096,
-      "num": 754174,
-      "word": "山航飞机暴雪中硬核起飞",
-      "onboard_time": 1741015039,
-      "rank": 9,
+      "raw_hot": 312260,
+      "num": 312260,
+      "word": "官方回应网传汕头出现海市蜃楼",
+      "onboard_time": 1741020076,
+      "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 293889,
+      "num": 163091,
+      "word": "殡仪馆馆长张平任上被查",
+      "onboard_time": 1741017618,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 288535,
@@ -115,20 +131,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 275137,
+      "num": 275137,
+      "word": "G2985次动车为救人破例临停",
+      "onboard_time": 1741001419,
+      "rank": 7,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 272861,
       "num": 127837,
       "word": "iPhone13跌至半价后销量暴增10倍",
       "onboard_time": 1741002738,
       "rank": 20,
       "category": "数码"
-    },
-    {
-      "raw_hot": 267734,
-      "num": 163091,
-      "word": "殡仪馆馆长张平任上被查",
-      "onboard_time": 1741017618,
-      "rank": 15,
-      "category": "国内时政"
     },
     {
       "raw_hot": 249214,
@@ -139,23 +155,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 225416,
-      "num": 225416,
-      "word": "官方回应网传汕头出现海市蜃楼",
-      "onboard_time": 1741020076,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 225024,
-      "num": 225024,
-      "word": "G2985次动车为救人破例临停",
-      "onboard_time": 1741001419,
-      "rank": 7,
-      "category": "正能量"
-    },
-    {
-      "raw_hot": 222642,
+      "raw_hot": 244266,
       "num": 131650,
       "word": "身体好的人肚子是软软的",
       "onboard_time": 1741018697,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 207889,
-      "num": 94258,
+      "num": 111407,
       "word": "张真源",
       "onboard_time": 1741022773,
       "rank": 14,
@@ -195,8 +195,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 180645,
-      "num": 159823,
+      "raw_hot": 182579,
+      "num": 182579,
       "word": "白鹿华子1.0 帅是一种感觉",
       "onboard_time": 1741015517,
       "rank": 17,
@@ -211,8 +211,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 154562,
-      "num": 154562,
+      "raw_hot": 170336,
+      "num": 170336,
       "word": "滤镜乱成一锅粥了快吃了吧",
       "onboard_time": 1741013420,
       "rank": 19,
@@ -227,8 +227,8 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 135388,
-      "num": 135388,
+      "raw_hot": 150032,
+      "num": 150032,
       "word": "河南农户自制沙袋阻尼器抵御暴风",
       "onboard_time": 1741020015,
       "rank": 40,
@@ -315,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97514,
+      "num": 66917,
+      "word": "特朗普说不会再容忍更久了",
+      "onboard_time": 1741044736,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 95564,
       "num": 95564,
       "word": "侯明昊进组玉茗茶骨",
@@ -329,6 +337,14 @@
       "onboard_time": 1740991339,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 92113,
+      "num": 92113,
+      "word": "西园寺击掌猫是被主人带着晒太阳的",
+      "onboard_time": 1741040952,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86843,
@@ -379,12 +395,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 72774,
-      "num": 72774,
-      "word": "西园寺击掌猫是被主人带着晒太阳的",
-      "onboard_time": 1741040952,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 77111,
+      "num": 77111,
+      "word": "胡歌开了家昆虫酒店",
+      "onboard_time": 1740999019,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 70710,
@@ -396,7 +412,7 @@
     },
     {
       "raw_hot": 70218,
-      "num": 70218,
+      "num": 94048,
       "word": "摸猫要先让它闻闻手",
       "onboard_time": 1741018037,
       "rank": 41,
@@ -419,11 +435,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 66926,
-      "num": 66926,
-      "word": "胡歌开了家昆虫酒店",
-      "onboard_time": 1740999019,
-      "rank": 28,
+      "raw_hot": 65548,
+      "num": 65548,
+      "word": "刘耀文说和宋亚轩的成长是同频共进的",
+      "onboard_time": 1741044620,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -433,6 +449,14 @@
       "onboard_time": 1741001718,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65148,
+      "num": 65148,
+      "word": "蜜雪冰城平均1天卖近2500万杯",
+      "onboard_time": 1741032851,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 64924,
@@ -457,6 +481,14 @@
       "onboard_time": 1741006700,
       "rank": 47,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 55359,
+      "num": 55359,
+      "word": "T1登顶LOL全球实力排行榜",
+      "onboard_time": 1741044135,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 55056,
@@ -491,6 +523,38 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 50866,
+      "num": 50866,
+      "word": "夜旅人 男主换脸",
+      "onboard_time": 1741044796,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 50112,
+      "num": 50112,
+      "word": "你认为哪吒2票房能超150亿吗",
+      "onboard_time": 1741044016,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 50038,
+      "num": 50038,
+      "word": "哪吒TVB配音太上头了",
+      "onboard_time": 1741044316,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 48810,
+      "num": 48810,
+      "word": "网友蹦迪偶遇蔡康永",
+      "onboard_time": 1741029672,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 48703,
       "num": 48703,
       "word": "翟潇闻直播",
@@ -515,20 +579,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 45945,
-      "num": 45945,
-      "word": "网友蹦迪偶遇蔡康永",
-      "onboard_time": 1741029672,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 45034,
+      "num": 45034,
+      "word": "张若昀或扮演杜甫",
+      "onboard_time": 1741043296,
+      "rank": 49,
+      "category": "电影"
     },
     {
-      "raw_hot": 44297,
-      "num": 44297,
-      "word": "蜜雪冰城平均1天卖近2500万杯",
-      "onboard_time": 1741032851,
-      "rank": 48,
-      "category": "美食"
+      "raw_hot": 44907,
+      "num": 44907,
+      "word": "53岁爸爸带女儿走出抑郁症的一天",
+      "onboard_time": 1741044856,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 41138,
@@ -555,28 +619,12 @@
       "category": "国内时政,健康医疗"
     },
     {
-      "raw_hot": 34932,
-      "num": 36074,
-      "word": "你认为哪吒2票房能超150亿吗",
-      "onboard_time": 1741044016,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 30299,
       "num": 35959,
       "word": "两会上大胡子外国记者被点赞",
       "onboard_time": 1741030331,
       "rank": 24,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 29256,
-      "num": 35930,
-      "word": "张若昀或扮演杜甫",
-      "onboard_time": 1741043296,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 26497,
@@ -587,20 +635,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22990,
+      "num": 526310,
+      "word": "一文速览全国两会首场新闻发布会",
+      "onboard_time": 1741004959,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 22682,
       "num": 22682,
       "word": "智搜DS评王一博内娱最具正能量明星",
       "onboard_time": 1741037111,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 22266,
-      "num": 526310,
-      "word": "一文速览全国两会首场新闻发布会",
-      "onboard_time": 1741004959,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 17429,
