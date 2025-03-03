@@ -1,0 +1,410 @@
+{
+  "runTime": 1741001766761,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1172220,
+        "num": 1187555,
+        "word": "哪吒2成首部破20亿美元亚洲电影",
+        "onboard_time": 1740998358,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 768313,
+        "num": 768313,
+        "word": "盒马不再对标山姆",
+        "onboard_time": 1740991339,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 58928,
+        "num": 665959,
+        "word": "今年两会这些看点值得关注",
+        "onboard_time": 1740990259,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 624990,
+        "num": 624990,
+        "word": "歌手2025网传阵容",
+        "onboard_time": 1741000698,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 460005,
+        "num": 460005,
+        "word": "以为是缺点其实是基因彩票",
+        "onboard_time": 1740990500,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308588,
+        "num": 308588,
+        "word": "济南大暴雪下了387个大明湖",
+        "onboard_time": 1740985038,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341291,
+        "num": 291753,
+        "word": "大唐荣耀结局给不了的似锦给了",
+        "onboard_time": 1740995958,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229322,
+        "num": 229322,
+        "word": "奥斯卡获奖动画国内票房惨淡",
+        "onboard_time": 1740990019,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 225936,
+        "num": 225936,
+        "word": "低速电动车该不该合法化",
+        "onboard_time": 1740998298,
+        "rank": 8,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 218139,
+        "num": 218139,
+        "word": "王者皮肤标签优化",
+        "onboard_time": 1740999319,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1172365,
+        "num": 216720,
+        "word": "刘浩存赵今麦 miumiu",
+        "onboard_time": 1740994700,
+        "rank": 10,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 536457,
+        "num": 213932,
+        "word": "追星式存钱",
+        "onboard_time": 1741000278,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 326277,
+        "num": 213343,
+        "word": "一张机票的事不要再wait",
+        "onboard_time": 1740998658,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205225,
+        "num": 205225,
+        "word": "张凌赫说后面会多看现偶的本子",
+        "onboard_time": 1740999498,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170937,
+        "num": 203708,
+        "word": "G2985次动车为救人破例临停",
+        "onboard_time": 1741001419,
+        "rank": 14,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 202244,
+        "num": 202244,
+        "word": "哪吒2票房超145亿",
+        "onboard_time": 1740991879,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 197524,
+        "num": 197524,
+        "word": "张凌赫 摇头吻",
+        "onboard_time": 1740980479,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197433,
+        "num": 197433,
+        "word": "爱你 上头",
+        "onboard_time": 1741000759,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169460,
+        "num": 169460,
+        "word": "高铁无休纯学9小时",
+        "onboard_time": 1740990380,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 48474,
+        "num": 169364,
+        "word": "国足飞赴迪拜集训",
+        "onboard_time": 1741000999,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 415990,
+        "num": 168477,
+        "word": "张天爱自曝体重96.4斤",
+        "onboard_time": 1740998777,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400089,
+        "num": 167920,
+        "word": "赵丽颖黄晓明骑摩托路透",
+        "onboard_time": 1740991101,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293021,
+        "num": 166967,
+        "word": "胡歌开了家昆虫酒店",
+        "onboard_time": 1740999019,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287696,
+        "num": 166031,
+        "word": "以为正常其实是身体过敏的表现",
+        "onboard_time": 1741000459,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 165898,
+        "num": 165898,
+        "word": "不爱上学不爱上班 结果在学校上班",
+        "onboard_time": 1740985278,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 229119,
+        "num": 165395,
+        "word": "肖战成毅杨洋三大男主剧四月对打",
+        "onboard_time": 1740991519,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223868,
+        "num": 165142,
+        "word": "春捂最该捂的3个部位",
+        "onboard_time": 1740996438,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 164106,
+        "num": 164106,
+        "word": "滤镜",
+        "onboard_time": 1740997399,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161185,
+        "num": 161185,
+        "word": "章若楠我承认之前对你的声音大了点",
+        "onboard_time": 1740990438,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78771,
+        "num": 155666,
+        "word": "劳伦斯世界体育奖",
+        "onboard_time": 1741001059,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164926,
+        "num": 155631,
+        "word": "男子搬家3小时丢失230万名表",
+        "onboard_time": 1740999919,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155236,
+        "num": 155236,
+        "word": "北上",
+        "onboard_time": 1740993259,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148485,
+        "num": 148485,
+        "word": "蓝色郁金香",
+        "onboard_time": 1740996378,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148520,
+        "num": 147136,
+        "word": "白鹿说暂时不想拍古装戏",
+        "onboard_time": 1740990798,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145485,
+        "num": 145485,
+        "word": "在韩国点外卖的真实经历",
+        "onboard_time": 1740997158,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143839,
+        "num": 143839,
+        "word": "两会",
+        "onboard_time": 1740963979,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 117855,
+        "num": 143251,
+        "word": "广州今天可能有下班小冰雹",
+        "onboard_time": 1740999559,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142970,
+        "num": 142970,
+        "word": "建议降低灵活就业人员社保参保门槛",
+        "onboard_time": 1740987979,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 164276,
+        "num": 141148,
+        "word": "第一批用夸克测每日运势的人出现了",
+        "onboard_time": 1741000039,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138954,
+        "num": 138954,
+        "word": "杨浅悠发博",
+        "onboard_time": 1740994397,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138106,
+        "num": 138106,
+        "word": "一殡仪馆将向死者家属退还部分费用",
+        "onboard_time": 1740994159,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128873,
+        "num": 128873,
+        "word": "Bin排位复刻369决赛英雄",
+        "onboard_time": 1741000819,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126038,
+        "num": 126038,
+        "word": "冰雹",
+        "onboard_time": 1741001178,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116150,
+        "num": 116150,
+        "word": "全国政协十四届三次会议会期6天",
+        "onboard_time": 1740986359,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 286456,
+        "num": 113939,
+        "word": "特鲁多将求助英国王室",
+        "onboard_time": 1740996618,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111070,
+        "num": 111070,
+        "word": "白敬亭怎么就越演越干净",
+        "onboard_time": 1740980600,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110461,
+        "num": 110461,
+        "word": "奥斯卡",
+        "onboard_time": 1740963319,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105837,
+        "num": 105837,
+        "word": "杨妞花点燃6000米鞭炮祭拜父母",
+        "onboard_time": 1741001718,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104635,
+        "num": 104635,
+        "word": "年轻人为了出片能卷到什么程度",
+        "onboard_time": 1741000158,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89745,
+        "num": 103764,
+        "word": "林高远体测跳远满分",
+        "onboard_time": 1740996618,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记心中的头等大事#"
+    }
+  }
+}
