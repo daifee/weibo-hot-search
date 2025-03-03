@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741016417013,
+  "endTime": 1741019331864,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -339,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1352534,
+      "num": 172846,
+      "word": "日本大爷掉进下水道35天未获救",
+      "onboard_time": 1741016059,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1323741,
       "num": 1323741,
       "word": "中央气象台一早发5个预警",
@@ -521,6 +529,14 @@
       "onboard_time": 1740747979,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1048602,
+      "num": 1048602,
+      "word": "deepseek统计利润率最高的10个行业",
+      "onboard_time": 1741015818,
+      "rank": 14,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 1048140,
@@ -1128,6 +1144,14 @@
       "word": "杨妞花跪在父母坟前告知余华英死刑",
       "onboard_time": 1740984259,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 621903,
+      "num": 621903,
+      "word": "女子炒黄金第1天就赚2000元报了警",
+      "onboard_time": 1741016419,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -1795,6 +1819,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 436847,
+      "num": 436847,
+      "word": "徐若晗谈与张凌赫初吻",
+      "onboard_time": 1741016239,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 435355,
       "num": 435355,
       "word": "难哄 单更加断更",
@@ -2041,6 +2073,14 @@
       "onboard_time": 1740796458,
       "rank": 24,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 374648,
+      "num": 234501,
+      "word": "我是徐明浩我不演了",
+      "onboard_time": 1741013000,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 373283,
@@ -3251,14 +3291,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 234501,
-      "num": 234501,
-      "word": "我是徐明浩我不演了",
-      "onboard_time": 1741013000,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 234144,
       "num": 219069,
       "word": "易烊千玺背头daddy造型",
@@ -3801,6 +3833,14 @@
       "onboard_time": 1740839303,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 206651,
+      "num": 134105,
+      "word": "殡仪馆馆长张平任上被查",
+      "onboard_time": 1741017618,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 206299,
@@ -4899,14 +4939,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 172846,
-      "num": 172846,
-      "word": "日本大爷掉进下水道35天未获救",
-      "onboard_time": 1741016059,
-      "rank": 28,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 172537,
       "num": 172537,
       "word": "冰唐橙",
@@ -5523,6 +5555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156187,
+      "num": 156187,
+      "word": "山航飞机暴雪中硬核起飞",
+      "onboard_time": 1741015039,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156033,
       "num": 156033,
       "word": "弄乱小猫刚舔好的毛后它的反应",
@@ -5889,14 +5929,6 @@
       "onboard_time": 1741013420,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 147261,
-      "num": 240882,
-      "word": "deepseek统计利润率最高的10个行业",
-      "onboard_time": 1741015818,
-      "rank": 14,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 146910,
@@ -6811,6 +6843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125161,
+      "num": 125161,
+      "word": "变靠谱的3个建议",
+      "onboard_time": 1741016598,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124556,
       "num": 124556,
       "word": "赵丽颖起诉多家公司侵犯人格权",
@@ -6913,6 +6953,14 @@
       "onboard_time": 1740997878,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120359,
+      "num": 120359,
+      "word": "身体好的人肚子是软软的",
+      "onboard_time": 1741018697,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 120001,
@@ -7019,14 +7067,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 117790,
-      "num": 117790,
-      "word": "徐若晗谈与张凌赫初吻",
-      "onboard_time": 1741016239,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 117765,
       "num": 117765,
       "word": "女子手麻跑错3科室靠DeepSeek找对医生",
@@ -7041,6 +7081,14 @@
       "onboard_time": 1740996318,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 117538,
+      "num": 117538,
+      "word": "徐若晗 你真的要和我结婚吗",
+      "onboard_time": 1741017738,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 117235,
@@ -7152,6 +7200,14 @@
       "word": "年轻人越来越看重情绪价值消费",
       "onboard_time": 1740908061,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114101,
+      "num": 269144,
+      "word": "院士说对年轻人要足够地致敬",
+      "onboard_time": 1741015279,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -7363,14 +7419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 106659,
-      "num": 269144,
-      "word": "院士说对年轻人要足够地致敬",
-      "onboard_time": 1741015279,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 106267,
       "num": 106267,
       "word": "毛不易深圳演唱会",
@@ -7409,14 +7457,6 @@
       "onboard_time": 1741014380,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 105511,
-      "num": 105511,
-      "word": "山航飞机暴雪中硬核起飞",
-      "onboard_time": 1741015039,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 105475,
@@ -8027,6 +8067,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 86843,
+      "num": 86843,
+      "word": "李乃文北上温柔daddy感",
+      "onboard_time": 1741018218,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 86568,
       "num": 411460,
       "word": "英首相曾试图说服泽连斯基返回白宫",
@@ -8379,6 +8427,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 70218,
+      "num": 70218,
+      "word": "摸猫要先让它闻闻手",
+      "onboard_time": 1741018037,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 69745,
       "num": 69745,
       "word": "谁懂斗罗斗破在国漫的含金量",
@@ -8531,6 +8587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63098,
+      "num": 82467,
+      "word": "中国成功研制祖冲之三号量子计算原型机",
+      "onboard_time": 1741018637,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 63077,
       "num": 270568,
       "word": "LPL第一赛段奖杯",
@@ -8561,6 +8625,14 @@
       "onboard_time": 1740870733,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61443,
+      "num": 61443,
+      "word": "严浩翔ccd胶片照",
+      "onboard_time": 1741017257,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 59489,
@@ -8643,6 +8715,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 55056,
+      "num": 61042,
+      "word": "宋亚轩一起听歌吗",
+      "onboard_time": 1741019237,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 54538,
       "num": 165587,
       "word": "鸿蒙智行500万收集黑公关线索",
@@ -8657,6 +8737,14 @@
       "onboard_time": 1740944532,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53656,
+      "num": 61029,
+      "word": "曾可妮网球辣妹造型好飒",
+      "onboard_time": 1741017198,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 52370,
