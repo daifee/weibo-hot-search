@@ -1,6 +1,6 @@
 {
   "startTime": 1740932816657,
-  "endTime": 1741015558836,
+  "endTime": 1741016417013,
   "band_list": [
     {
       "raw_hot": 2261873,
@@ -355,6 +355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 595599,
+      "num": 595599,
+      "word": "第一部女A男B的国产剧",
+      "onboard_time": 1741003878,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 592574,
       "num": 592574,
       "word": "以为是缺点其实是基因彩票",
@@ -675,20 +683,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 380309,
-      "num": 226526,
-      "word": "第一部女A男B的国产剧",
-      "onboard_time": 1741003878,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 371420,
       "num": 408863,
       "word": "上班杀死了我的文化体力",
       "onboard_time": 1740974660,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 365947,
+      "num": 210433,
+      "word": "单休比双休多拿多少钱才算合理",
+      "onboard_time": 1741013238,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 365070,
@@ -811,14 +819,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 319471,
-      "num": 170276,
-      "word": "单休比双休多拿多少钱才算合理",
-      "onboard_time": 1741013238,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 319295,
       "num": 359250,
       "word": "特鲁多将求助英国王室",
@@ -873,6 +873,14 @@
       "onboard_time": 1740964040,
       "rank": 6,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 295776,
+      "num": 295776,
+      "word": "光遇",
+      "onboard_time": 1741016299,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 294012,
@@ -947,6 +955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 272122,
+      "num": 272122,
+      "word": "张继科说要挑战王曼昱",
+      "onboard_time": 1741015939,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 271788,
       "num": 271788,
       "word": "杨浅悠发博",
@@ -1001,6 +1017,14 @@
       "onboard_time": 1740918440,
       "rank": 25,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 258634,
+      "num": 258634,
+      "word": "委员谈制止体育界饭圈文化",
+      "onboard_time": 1741013420,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 254431,
@@ -1083,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 234501,
+      "num": 234501,
+      "word": "我是徐明浩我不演了",
+      "onboard_time": 1741013000,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 233485,
       "num": 233485,
       "word": "退役军人终身8折现役军人免费吃",
@@ -1139,6 +1171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 220827,
+      "num": 220827,
+      "word": "爱你 小虐",
+      "onboard_time": 1741013779,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218150,
       "num": 218150,
       "word": "第五人格",
@@ -1161,14 +1201,6 @@
       "onboard_time": 1740972439,
       "rank": 17,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 211823,
-      "num": 211823,
-      "word": "委员谈制止体育界饭圈文化",
-      "onboard_time": 1741013420,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 210081,
@@ -1299,6 +1331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200406,
+      "num": 218473,
+      "word": "翟潇闻直播",
+      "onboard_time": 1741014559,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199528,
       "num": 240754,
       "word": "奥斯卡提名",
@@ -1337,6 +1377,14 @@
       "onboard_time": 1740976641,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195388,
+      "num": 195388,
+      "word": "白鹿华子1.0 帅是一种感觉",
+      "onboard_time": 1741015517,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 194780,
@@ -1451,6 +1499,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 186755,
+      "num": 186755,
+      "word": "谁家女主一拳拿下一个闺蜜",
+      "onboard_time": 1741015219,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186711,
       "num": 588758,
       "word": "妙瓦底620余名中国籍涉诈人员被遣返",
@@ -1467,14 +1523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 185663,
-      "num": 165793,
-      "word": "我是徐明浩我不演了",
-      "onboard_time": 1741013000,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 185571,
       "num": 237478,
       "word": "辛芷蕾你要这么演我可就看了",
@@ -1489,14 +1537,6 @@
       "onboard_time": 1740983719,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 184707,
-      "num": 184707,
-      "word": "爱你 小虐",
-      "onboard_time": 1741013779,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 183899,
@@ -1595,14 +1635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 173429,
-      "num": 163209,
-      "word": "翟潇闻直播",
-      "onboard_time": 1741014559,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 173205,
       "num": 154366,
       "word": "三部大男主剧四月对打",
@@ -1617,6 +1649,14 @@
       "onboard_time": 1741010659,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172846,
+      "num": 172846,
+      "word": "日本大爷掉进下水道35天未获救",
+      "onboard_time": 1741016059,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 172220,
@@ -2059,6 +2099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147261,
+      "num": 240882,
+      "word": "deepseek统计利润率最高的10个行业",
+      "onboard_time": 1741015818,
+      "rank": 14,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 145636,
       "num": 145636,
       "word": "李兰迪 一下子就夹起来了",
@@ -2403,6 +2451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126115,
+      "num": 126115,
+      "word": "腾讯元宝下载量超DeepSeek",
+      "onboard_time": 1741014739,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 126049,
       "num": 284251,
       "word": "今年2个航天员乘组已选定",
@@ -2491,14 +2547,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 122352,
-      "num": 122352,
-      "word": "谁家女主一拳拿下一个闺蜜",
-      "onboard_time": 1741015219,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 122266,
       "num": 155364,
       "word": "14岁少女行云流水展示三把刀",
@@ -2512,14 +2560,6 @@
       "word": "杨紫李祯灰头土脸",
       "onboard_time": 1740992299,
       "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 120947,
-      "num": 120947,
-      "word": "白鹿华子1.0 帅是一种感觉",
-      "onboard_time": 1741015517,
-      "rank": 43,
       "category": "剧集"
     },
     {
@@ -2547,14 +2587,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 118991,
-      "num": 118991,
-      "word": "腾讯元宝下载量超DeepSeek",
-      "onboard_time": 1741014739,
-      "rank": 45,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 118288,
       "num": 317864,
       "word": "甜茶金小妹奥斯卡接吻",
@@ -2569,6 +2601,14 @@
       "onboard_time": 1740923660,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117790,
+      "num": 117790,
+      "word": "徐若晗谈与张凌赫初吻",
+      "onboard_time": 1741016239,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 117657,
@@ -2675,6 +2715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106659,
+      "num": 269144,
+      "word": "院士说对年轻人要足够地致敬",
+      "onboard_time": 1741015279,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106473,
       "num": 106473,
       "word": "我不能坐着 我怕我会漏",
@@ -2697,6 +2745,14 @@
       "onboard_time": 1741014380,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105511,
+      "num": 105511,
+      "word": "山航飞机暴雪中硬核起飞",
+      "onboard_time": 1741015039,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105377,
@@ -2753,6 +2809,14 @@
       "onboard_time": 1740979400,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 99442,
+      "num": 99442,
+      "word": "白鹿新剧能动手绝不吵吵",
+      "onboard_time": 1741015700,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 98722,
@@ -3299,6 +3363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 38480,
+      "num": 215104,
+      "word": "为何今年开局就逢极端气候",
+      "onboard_time": 1741015338,
+      "rank": 22,
+      "category": "民生新闻,科学科普"
+    },
+    {
       "raw_hot": 38468,
       "num": 38468,
       "word": "摄影师摔倒压到4个月宝宝",
@@ -3377,14 +3449,6 @@
       "onboard_time": 1740932417,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 31289,
-      "num": 179425,
-      "word": "院士说对年轻人要足够地致敬",
-      "onboard_time": 1741015279,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30940,
@@ -3497,14 +3561,6 @@
       "onboard_time": 1740947291,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 19300,
-      "num": 170483,
-      "word": "为何今年开局就逢极端气候",
-      "onboard_time": 1741015338,
-      "rank": 22,
-      "category": "民生新闻,科学科普"
     },
     {
       "raw_hot": 18564,
