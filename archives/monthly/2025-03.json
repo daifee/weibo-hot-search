@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740983621724,
+  "endTime": 1740984394800,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -796,7 +796,7 @@
     },
     {
       "raw_hot": 702142,
-      "num": 295714,
+      "num": 339269,
       "word": "张凌赫 摇头吻",
       "onboard_time": 1740980479,
       "rank": 10,
@@ -1017,6 +1017,14 @@
       "onboard_time": 1740787876,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 589653,
+      "num": 589653,
+      "word": "于正换角",
+      "onboard_time": 1740982878,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 586766,
@@ -1603,6 +1611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 405216,
+      "num": 405216,
+      "word": "白敬亭怎么就越演越干净",
+      "onboard_time": 1740980600,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 402089,
       "num": 523174,
       "word": "凌晨有网友退税超5万",
@@ -1769,6 +1785,14 @@
       "onboard_time": 1740751879,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 360430,
+      "num": 360430,
+      "word": "欧盟主席对中国口气变了",
+      "onboard_time": 1740983539,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 359681,
@@ -2443,14 +2467,6 @@
       "category": "剧集,体育"
     },
     {
-      "raw_hot": 265947,
-      "num": 265947,
-      "word": "欧盟主席对中国口气变了",
-      "onboard_time": 1740983539,
-      "rank": 11,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 263916,
       "num": 244273,
       "word": "刘畊宏谈流量下降",
@@ -2483,12 +2499,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 260982,
-      "num": 260982,
-      "word": "白敬亭怎么就越演越干净",
-      "onboard_time": 1740980600,
-      "rank": 16,
-      "category": "剧集"
+      "raw_hot": 261360,
+      "num": 261360,
+      "word": "金智秀时装周机场出发图",
+      "onboard_time": 1740981979,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 260159,
@@ -3011,6 +3027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 215955,
+      "num": 215955,
+      "word": "郑州下雪",
+      "onboard_time": 1740983358,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 215906,
       "num": 215906,
       "word": "权志龙把柳智敏比作光",
@@ -3097,14 +3121,6 @@
       "onboard_time": 1740875897,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 212809,
-      "num": 219345,
-      "word": "金智秀时装周机场出发图",
-      "onboard_time": 1740981979,
-      "rank": 19,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 212805,
@@ -3395,6 +3411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200540,
+      "num": 168036,
+      "word": "于正说何健麒是很小的小角色",
+      "onboard_time": 1740983897,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199601,
       "num": 199601,
       "word": "白桃星座",
@@ -3513,14 +3537,6 @@
       "onboard_time": 1740831802,
       "rank": 28,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 195034,
-      "num": 195034,
-      "word": "于正换角",
-      "onboard_time": 1740982878,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 194885,
@@ -4131,6 +4147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 169538,
+      "num": 169538,
+      "word": "宋亚轩港风小卷毛",
+      "onboard_time": 1740981979,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169305,
       "num": 212597,
       "word": "虞书欣卫枝单眼落泪",
@@ -4177,6 +4201,14 @@
       "onboard_time": 1740973160,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 167891,
+      "num": 167891,
+      "word": "又到了乱穿衣季节",
+      "onboard_time": 1740981618,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 167805,
@@ -4360,6 +4392,14 @@
       "word": "卖糖葫芦喷口水阿姨已戴口罩",
       "onboard_time": 1740799277,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161932,
+      "num": 161932,
+      "word": "杨妞花跪在父母坟前告知余华英死刑",
+      "onboard_time": 1740984259,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -4747,20 +4787,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 150215,
-      "num": 150215,
-      "word": "宋亚轩港风小卷毛",
-      "onboard_time": 1740981979,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 149839,
       "num": 149839,
       "word": "初步举证",
       "onboard_time": 1740900739,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 149702,
+      "num": 149702,
+      "word": "男子去世获赔百万妻子与哥哥对簿公堂",
+      "onboard_time": 1740980778,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149249,
@@ -4809,14 +4849,6 @@
       "onboard_time": 1740979039,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 148233,
-      "num": 148233,
-      "word": "又到了乱穿衣季节",
-      "onboard_time": 1740981618,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 148165,
@@ -5187,6 +5219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139140,
+      "num": 214644,
+      "word": "体育局回应跑者疑在学校牌匾前小便",
+      "onboard_time": 1740983059,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139110,
       "num": 220744,
       "word": "商家公然展示考试神器如何作弊",
@@ -5273,14 +5313,6 @@
       "onboard_time": 1740904939,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 135538,
-      "num": 135538,
-      "word": "郑州下雪",
-      "onboard_time": 1740983358,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 135226,
@@ -5475,14 +5507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 128729,
-      "num": 214644,
-      "word": "体育局回应跑者疑在学校牌匾前小便",
-      "onboard_time": 1740983059,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 128428,
       "num": 234335,
       "word": "曾凡博扣爽了",
@@ -5507,6 +5531,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 128107,
+      "num": 128107,
+      "word": "杨妞花已将名字注册商标",
+      "onboard_time": 1740980299,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128062,
       "num": 128062,
       "word": "中山美穗与母亲关系疏远",
@@ -5523,20 +5555,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 127442,
-      "num": 127442,
-      "word": "男子去世获赔百万妻子与哥哥对簿公堂",
-      "onboard_time": 1740980778,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 127414,
       "num": 127414,
       "word": "布劳迪二封奥斯卡影帝",
       "onboard_time": 1740976700,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 127368,
+      "num": 168649,
+      "word": "春天是耳石症高发期",
+      "onboard_time": 1740983719,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 127362,
@@ -6659,6 +6691,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 86279,
+      "num": 138416,
+      "word": "名利场奥斯卡派对",
+      "onboard_time": 1740983839,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 85998,
       "num": 176335,
       "word": "何洛洛哭戏层次递进感",
@@ -7163,6 +7203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 55226,
+      "num": 168065,
+      "word": "原来真的有透明的石头",
+      "onboard_time": 1740983657,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 53790,
       "num": 53790,
       "word": "74克企鹅吃吃睡睡到快1000克",
@@ -7361,6 +7409,14 @@
       "onboard_time": 1740957616,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 41681,
+      "num": 183447,
+      "word": "黎深居家超大绒毛毯",
+      "onboard_time": 1740983719,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 41537,
