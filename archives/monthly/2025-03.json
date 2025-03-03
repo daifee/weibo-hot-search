@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741008668649,
+  "endTime": 1741009356397,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -811,6 +811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 768700,
+      "num": 768700,
+      "word": "北上收视率",
+      "onboard_time": 1741006879,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 763933,
       "num": 763933,
       "word": "奥斯卡获奖动画国内票房惨淡",
@@ -913,14 +921,6 @@
       "onboard_time": 1740831623,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 689333,
-      "num": 689333,
-      "word": "北上收视率",
-      "onboard_time": 1741006879,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 688041,
@@ -1691,6 +1691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 464403,
+      "num": 464403,
+      "word": "武汉下雪",
+      "onboard_time": 1741004718,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 463682,
       "num": 431457,
       "word": "跪谢CC女车主获赠全新大众车",
@@ -1721,14 +1729,6 @@
       "onboard_time": 1740809747,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 446103,
-      "num": 446103,
-      "word": "武汉下雪",
-      "onboard_time": 1741004718,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 446027,
@@ -1804,7 +1804,7 @@
     },
     {
       "raw_hot": 420649,
-      "num": 281962,
+      "num": 336785,
       "word": "马柏全 青海",
       "onboard_time": 1741004358,
       "rank": 12,
@@ -2075,6 +2075,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 356793,
+      "num": 356793,
+      "word": "被吵醒的小猫变成了申公豹",
+      "onboard_time": 1741004058,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 354718,
       "num": 354718,
       "word": "出轨的未婚夫强势的奶奶顽强的她",
@@ -2115,6 +2123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 352928,
+      "num": 352928,
+      "word": "章若楠我承认之前对你的声音大了点",
+      "onboard_time": 1740990438,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 350330,
       "num": 334190,
       "word": "这类常见小票可能影响生殖发育和致癌",
@@ -2145,14 +2161,6 @@
       "onboard_time": 1740838944,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 345384,
-      "num": 281489,
-      "word": "章若楠我承认之前对你的声音大了点",
-      "onboard_time": 1740990438,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 345111,
@@ -2377,6 +2385,14 @@
       "onboard_time": 1740968479,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 315910,
+      "num": 315910,
+      "word": "北上好有质感",
+      "onboard_time": 1741007419,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 314981,
@@ -2635,6 +2651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 287253,
+      "num": 277432,
+      "word": "aespa演唱会没给宁艺卓打光",
+      "onboard_time": 1741005798,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 285870,
       "num": 179762,
       "word": "老鼠人",
@@ -2657,14 +2681,6 @@
       "onboard_time": 1740919761,
       "rank": 43,
       "category": "财经"
-    },
-    {
-      "raw_hot": 283552,
-      "num": 283552,
-      "word": "被吵醒的小猫变成了申公豹",
-      "onboard_time": 1741004058,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 281733,
@@ -2705,14 +2721,6 @@
       "onboard_time": 1740801137,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 277432,
-      "num": 277432,
-      "word": "aespa演唱会没给宁艺卓打光",
-      "onboard_time": 1741005798,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 276546,
@@ -2931,6 +2939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 254431,
+      "num": 243328,
+      "word": "青岛一个人收15块加工费的海鲜烩饼",
+      "onboard_time": 1741004900,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 253528,
       "num": 253528,
       "word": "徐明浩结束创造营亚洲2录制",
@@ -3019,14 +3035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 244791,
-      "num": 244791,
-      "word": "北上好有质感",
-      "onboard_time": 1741007419,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 244762,
       "num": 244762,
       "word": "姐妹俩患不食人间烟火罕见病",
@@ -3041,6 +3049,14 @@
       "onboard_time": 1740754221,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 243601,
+      "num": 243601,
+      "word": "下一个爆火的小众城市会是谁",
+      "onboard_time": 1741008139,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 242525,
@@ -3515,14 +3531,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 214765,
-      "num": 214765,
-      "word": "青岛一个人收15块加工费的海鲜烩饼",
-      "onboard_time": 1741004900,
-      "rank": 40,
-      "category": "美食"
-    },
-    {
       "raw_hot": 214617,
       "num": 343385,
       "word": "林一银赫双人cha",
@@ -3883,14 +3891,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 201300,
-      "num": 201300,
-      "word": "下一个爆火的小众城市会是谁",
-      "onboard_time": 1741008139,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 200853,
       "num": 200853,
       "word": "白鹿版你打我噻",
@@ -3915,6 +3915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199954,
+      "num": 280810,
+      "word": "建议制定未成年人惩戒法",
+      "onboard_time": 1741007120,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 199601,
       "num": 199601,
       "word": "白桃星座",
@@ -3929,14 +3937,6 @@
       "onboard_time": 1740799877,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199548,
-      "num": 280810,
-      "word": "建议制定未成年人惩戒法",
-      "onboard_time": 1741007120,
-      "rank": 14,
-      "category": "国内时政"
     },
     {
       "raw_hot": 199528,
@@ -4281,6 +4281,14 @@
       "onboard_time": 1740873496,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186214,
+      "num": 278825,
+      "word": "任容萱为104岁外婆庆生",
+      "onboard_time": 1741003520,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 185965,
@@ -4675,6 +4683,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 174216,
+      "num": 174216,
+      "word": "爱你男主太好哄了",
+      "onboard_time": 1741008680,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174155,
       "num": 219169,
       "word": "全红婵拿表情包贴脸王楚钦",
@@ -4720,6 +4736,14 @@
       "word": "难哄会过型女主演我抠门方式",
       "onboard_time": 1740973099,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 171947,
+      "num": 171947,
+      "word": "第一部女A男B的国产剧",
+      "onboard_time": 1741003878,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -4939,14 +4963,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165219,
-      "num": 278825,
-      "word": "任容萱为104岁外婆庆生",
-      "onboard_time": 1741003520,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 164995,
       "num": 164995,
       "word": "白敬亭章若楠hi6剧宣好甜",
@@ -5099,14 +5115,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 161341,
-      "num": 161341,
-      "word": "第一部女A男B的国产剧",
-      "onboard_time": 1741003878,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 161217,
       "num": 161217,
       "word": "檀健次 病娇阴郁男主有了脸",
@@ -5185,6 +5193,14 @@
       "onboard_time": 1741003639,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158490,
+      "num": 158490,
+      "word": "LingOrm时装周双人大片",
+      "onboard_time": 1741008080,
+      "rank": 44,
+      "category": "时尚"
     },
     {
       "raw_hot": 158266,
@@ -6107,14 +6123,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 135405,
-      "num": 135405,
-      "word": "LingOrm时装周双人大片",
-      "onboard_time": 1741008080,
-      "rank": 44,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 135226,
       "num": 135226,
       "word": "8岁脑癌男孩吆喝叫卖为妈妈揽客",
@@ -6524,7 +6532,7 @@
     },
     {
       "raw_hot": 125264,
-      "num": 280211,
+      "num": 292680,
       "word": "全民智驾的前提是安全",
       "onboard_time": 1741005439,
       "rank": 26,
@@ -6545,6 +6553,14 @@
       "onboard_time": 1740982579,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123683,
+      "num": 123683,
+      "word": "北上小演员好多熟人",
+      "onboard_time": 1741009280,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 123307,
@@ -7443,6 +7459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95610,
+      "num": 342510,
+      "word": "今年来最复杂激烈天气来了",
+      "onboard_time": 1741008320,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95248,
       "num": 106177,
       "word": "二月二龙抬头来赶场",
@@ -7868,7 +7892,7 @@
     },
     {
       "raw_hot": 78771,
-      "num": 155666,
+      "num": 171589,
       "word": "劳伦斯世界体育奖",
       "onboard_time": 1741001059,
       "rank": 29,
@@ -8027,14 +8051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 71073,
-      "num": 277267,
-      "word": "今年来最复杂激烈天气来了",
-      "onboard_time": 1741008320,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 70923,
       "num": 176326,
       "word": "澳大利亚U20亚洲杯夺冠",
@@ -8057,6 +8073,14 @@
       "onboard_time": 1740761355,
       "rank": 35,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 69518,
+      "num": 176835,
+      "word": "校方回应博物馆招保洁保安需硕士学历",
+      "onboard_time": 1741009099,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69103,
@@ -8331,6 +8355,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 51719,
+      "num": 318533,
+      "word": "吉利全球首发L3量产方案",
+      "onboard_time": 1741007061,
+      "rank": 15,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 51268,
       "num": 120950,
       "word": "知名电影人宋歌被判刑",
@@ -8377,6 +8409,14 @@
       "onboard_time": 1740888139,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 48476,
+      "num": 140920,
+      "word": "任嘉伦篮球知识储备太强了",
+      "onboard_time": 1741008558,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 48474,
@@ -8563,14 +8603,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 39483,
-      "num": 280480,
-      "word": "吉利全球首发L3量产方案",
-      "onboard_time": 1741007061,
-      "rank": 15,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 39270,
       "num": 232773,
       "word": "中国足协球员自荐系统上线",
@@ -8691,6 +8723,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 35863,
+      "num": 278516,
+      "word": "居家养老的生活什么样",
+      "onboard_time": 1741007480,
+      "rank": 19,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 35743,
       "num": 235887,
       "word": "陈昊宇马伊琍同框采访",
@@ -8753,14 +8793,6 @@
       "onboard_time": 1740856753,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 32702,
-      "num": 278516,
-      "word": "居家养老的生活什么样",
-      "onboard_time": 1741007480,
-      "rank": 19,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 32284,
