@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740972868439,
+  "endTime": 1740973552029,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -169,6 +169,14 @@
       "onboard_time": 1740821423,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1789552,
+      "num": 1789552,
+      "word": "菜刀哥李坤朋去世",
+      "onboard_time": 1740972320,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1685608,
@@ -491,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1006977,
+      "num": 1006977,
+      "word": "DeepSeek没彻底改变全球AI发展格局",
+      "onboard_time": 1740969558,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1002151,
       "num": 308251,
       "word": "官方辟谣网传谭乔离职原因",
@@ -504,6 +520,14 @@
       "word": "女子炒黄金被暴涨的利润吓得报警",
       "onboard_time": 1740815906,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 992917,
+      "num": 992917,
+      "word": "衡水学生家长认为双休是胡搞",
+      "onboard_time": 1740969738,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -537,14 +561,6 @@
       "onboard_time": 1740800898,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 939627,
-      "num": 939627,
-      "word": "DeepSeek没彻底改变全球AI发展格局",
-      "onboard_time": 1740969558,
-      "rank": 4,
-      "category": "互联网"
     },
     {
       "raw_hot": 922575,
@@ -633,22 +649,6 @@
       "onboard_time": 1740927560,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 832925,
-      "num": 832925,
-      "word": "菜刀哥李坤朋去世",
-      "onboard_time": 1740972320,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 830553,
-      "num": 830553,
-      "word": "衡水学生家长认为双休是胡搞",
-      "onboard_time": 1740969738,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 821487,
@@ -963,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 586672,
+      "num": 586672,
+      "word": "电影长安的荔枝定档",
+      "onboard_time": 1740969800,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 585217,
       "num": 585217,
       "word": "向阳花定档",
@@ -1027,6 +1035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 571206,
+      "num": 407239,
+      "word": "奥斯卡缅怀郑佩佩",
+      "onboard_time": 1740972380,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 564663,
       "num": 564663,
       "word": "TES晋级全球先锋赛",
@@ -1065,14 +1081,6 @@
       "onboard_time": 1740907040,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 559057,
-      "num": 559057,
-      "word": "电影长安的荔枝定档",
-      "onboard_time": 1740969800,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 558886,
@@ -1195,6 +1203,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 508325,
+      "num": 285633,
+      "word": "冯小刚全女阵容",
+      "onboard_time": 1740971780,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 508017,
       "num": 412427,
       "word": "周深的同传堪比朱广权手语翻译",
@@ -1251,6 +1267,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 495794,
+      "num": 495794,
+      "word": "贵女",
+      "onboard_time": 1740970399,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 490360,
       "num": 490360,
       "word": "章若楠在难哄看到何老师后哭了",
@@ -1265,14 +1289,6 @@
       "onboard_time": 1740888200,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 483679,
-      "num": 430202,
-      "word": "贵女",
-      "onboard_time": 1740970399,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 482396,
@@ -1449,14 +1465,6 @@
       "onboard_time": 1740812552,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 418592,
-      "num": 285633,
-      "word": "冯小刚全女阵容",
-      "onboard_time": 1740971780,
-      "rank": 20,
-      "category": "电影"
     },
     {
       "raw_hot": 416208,
@@ -1875,6 +1883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 322384,
+      "num": 243157,
+      "word": "周冬雨刘昊然新片定档",
+      "onboard_time": 1740973040,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 322124,
       "num": 322124,
       "word": "JackeyLove荣获决赛FMVP",
@@ -1905,6 +1921,14 @@
       "onboard_time": 1740931877,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 319558,
+      "num": 276735,
+      "word": "00后买二手车做婚车遭家人反对",
+      "onboard_time": 1740969558,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 318762,
@@ -2203,14 +2227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 276735,
-      "num": 276735,
-      "word": "00后买二手车做婚车遭家人反对",
-      "onboard_time": 1740969558,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 276546,
       "num": 221614,
       "word": "特朗普称泽连斯基28日早抵美",
@@ -2441,14 +2457,6 @@
       "onboard_time": 1740781032,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 245387,
-      "num": 245387,
-      "word": "奥斯卡缅怀郑佩佩",
-      "onboard_time": 1740972380,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 244762,
@@ -2795,6 +2803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 217938,
+      "num": 291604,
+      "word": "迪丽热巴时装三月开季封面",
+      "onboard_time": 1740972439,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 217172,
       "num": 338441,
       "word": "杭州房价要开始涨了吗",
@@ -3059,6 +3075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203668,
+      "num": 203668,
+      "word": "蔡徐坤胡茬蓝发造型",
+      "onboard_time": 1740972439,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203586,
       "num": 203586,
       "word": "千年前古人就把跨界玩出花了",
@@ -3081,6 +3105,22 @@
       "onboard_time": 1740828322,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203103,
+      "num": 203103,
+      "word": "奥斯卡预热派对",
+      "onboard_time": 1740967698,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 202806,
+      "num": 289826,
+      "word": "李健称荣耀不再是智能手机制造商",
+      "onboard_time": 1740971299,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 202552,
@@ -3225,14 +3265,6 @@
       "onboard_time": 1740833783,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 198019,
-      "num": 198019,
-      "word": "蔡徐坤胡茬蓝发造型",
-      "onboard_time": 1740972439,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 197689,
@@ -3555,6 +3587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181713,
+      "num": 181713,
+      "word": "詹姆斯5万分",
+      "onboard_time": 1740970758,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181231,
       "num": 181231,
       "word": "鬼灭之刃",
@@ -3625,14 +3665,6 @@
       "onboard_time": 1740831923,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 178763,
-      "num": 289826,
-      "word": "李健称荣耀不再是智能手机制造商",
-      "onboard_time": 1740971299,
-      "rank": 18,
-      "category": "互联网"
     },
     {
       "raw_hot": 178336,
@@ -3859,14 +3891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 168838,
-      "num": 168838,
-      "word": "詹姆斯5万分",
-      "onboard_time": 1740970758,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 168584,
       "num": 168584,
       "word": "河南7元一碗的焖面",
@@ -3875,12 +3899,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 167820,
-      "num": 291604,
-      "word": "迪丽热巴时装三月开季封面",
-      "onboard_time": 1740972439,
-      "rank": 17,
-      "category": "作品衍生,时尚"
+      "raw_hot": 167917,
+      "num": 167917,
+      "word": "要想安全驾驶还得看大厂",
+      "onboard_time": 1740973160,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 167805,
@@ -3889,6 +3913,14 @@
       "onboard_time": 1740899238,
       "rank": 31,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 167718,
+      "num": 167718,
+      "word": "奥运冠军演我体测",
+      "onboard_time": 1740972559,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 167609,
@@ -3993,14 +4025,6 @@
       "onboard_time": 1740806599,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 164351,
-      "num": 164351,
-      "word": "奥斯卡预热派对",
-      "onboard_time": 1740967698,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 164254,
@@ -4243,6 +4267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155687,
+      "num": 155687,
+      "word": "库里扮演邦女郎",
+      "onboard_time": 1740970699,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155677,
       "num": 191795,
       "word": "全运会乒乓球体测",
@@ -4419,14 +4451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148743,
-      "num": 148743,
-      "word": "库里扮演邦女郎",
-      "onboard_time": 1740970699,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 148547,
       "num": 246599,
       "word": "全国政协会议议程来了",
@@ -4569,6 +4593,14 @@
       "onboard_time": 1740826281,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 144268,
+      "num": 144268,
+      "word": "赵丽颖新角色眼里有刀",
+      "onboard_time": 1740972980,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 143973,
@@ -4731,6 +4763,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 139952,
+      "num": 139952,
+      "word": "委员建议将学历歧视纳入就业歧视范畴",
+      "onboard_time": 1740971958,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 139700,
       "num": 139700,
       "word": "50岁阿姨跳绝命八颠完爆年轻人",
@@ -4867,22 +4907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 134622,
-      "num": 134622,
-      "word": "奥运冠军演我体测",
-      "onboard_time": 1740972559,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 134591,
-      "num": 134591,
-      "word": "委员建议将学历歧视纳入就业歧视范畴",
-      "onboard_time": 1740971958,
-      "rank": 46,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 134335,
       "num": 134335,
       "word": "为什么周末要做和平时反差大的事",
@@ -4969,6 +4993,14 @@
       "onboard_time": 1740919399,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 130604,
+      "num": 130604,
+      "word": "难哄会过型女主演我抠门方式",
+      "onboard_time": 1740973099,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 130572,
@@ -5163,6 +5195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 122826,
+      "num": 122826,
+      "word": "被60岁奶奶的出片表现给惊艳到了",
+      "onboard_time": 1740972800,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122283,
       "num": 122283,
       "word": "Edsheeran单依纯合唱perfect",
@@ -5321,14 +5361,6 @@
       "onboard_time": 1740913040,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 116955,
-      "num": 116955,
-      "word": "被60岁奶奶的出片表现给惊艳到了",
-      "onboard_time": 1740972800,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116727,
@@ -6028,7 +6060,7 @@
     },
     {
       "raw_hot": 89482,
-      "num": 1200737,
+      "num": 1395894,
       "word": "中国制造硬核出圈",
       "onboard_time": 1740923120,
       "rank": 2,
@@ -6115,6 +6147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 86455,
+      "num": 229270,
+      "word": "聚焦2025年全国两会",
+      "onboard_time": 1740968178,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 85998,
       "num": 176335,
       "word": "何洛洛哭戏层次递进感",
@@ -6153,14 +6193,6 @@
       "onboard_time": 1740836904,
       "rank": 24,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 85229,
-      "num": 149527,
-      "word": "聚焦2025年全国两会",
-      "onboard_time": 1740968178,
-      "rank": 33,
-      "category": "国内时政"
     },
     {
       "raw_hot": 85185,
@@ -6385,6 +6417,14 @@
       "onboard_time": 1740843981,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 70835,
+      "num": 290004,
+      "word": "泽连斯基愿意重返白宫进一步会谈",
+      "onboard_time": 1740973099,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 69745,
@@ -6683,6 +6723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 47710,
+      "num": 167741,
+      "word": "小鹏连续2个月新势力销量第一",
+      "onboard_time": 1740971780,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 47691,
       "num": 326322,
       "word": "专家称无证据支持餐饮小票致癌",
@@ -6731,14 +6779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 44143,
-      "num": 164166,
-      "word": "小鹏连续2个月新势力销量第一",
-      "onboard_time": 1740971780,
-      "rank": 38,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 43653,
       "num": 312940,
       "word": "建议对胁迫教唆未成年文身重罚",
@@ -6777,6 +6817,14 @@
       "onboard_time": 1740957616,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 41537,
+      "num": 150534,
+      "word": "黄渤说假期没了好伤心",
+      "onboard_time": 1740971780,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 41224,
@@ -7315,6 +7363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18267,
+      "num": 249539,
+      "word": "基南卡尔金奥斯卡最佳男配",
+      "onboard_time": 1740972260,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 18262,
       "num": 21003,
       "word": "苏新皓彩排花絮反差感",
@@ -7449,14 +7505,6 @@
       "onboard_time": 1740887960,
       "rank": 27,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 12392,
-      "num": 165280,
-      "word": "基南卡尔金奥斯卡最佳男配",
-      "onboard_time": 1740972260,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 12377,
