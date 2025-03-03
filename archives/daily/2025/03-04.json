@@ -1,6 +1,6 @@
 {
   "startTime": 1741019331864,
-  "endTime": 1741040551008,
+  "endTime": 1741041618314,
   "band_list": [
     {
       "raw_hot": 1352534,
@@ -107,7 +107,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 283291,
+      "raw_hot": 288396,
       "num": 104510,
       "word": "女子按摩肩颈后急性脑梗死进了ICU",
       "onboard_time": 1741021215,
@@ -403,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 67212,
+      "num": 67212,
+      "word": "河南农户自制沙袋阻尼器抵御暴风",
+      "onboard_time": 1741020015,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65170,
       "num": 65170,
       "word": "杨妞花点燃6000米鞭炮祭拜父母",
@@ -467,14 +475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 52403,
-      "num": 52403,
-      "word": "河南农户自制沙袋阻尼器抵御暴风",
-      "onboard_time": 1741020015,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 48703,
       "num": 48703,
       "word": "翟潇闻直播",
@@ -523,6 +523,38 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25062,
+      "num": 25062,
+      "word": "建议药品说明书改变专业用语表述",
+      "onboard_time": 1741035551,
+      "rank": 42,
+      "category": "国内时政,健康医疗"
+    },
+    {
+      "raw_hot": 23565,
+      "num": 23565,
+      "word": "网友蹦迪偶遇蔡康永",
+      "onboard_time": 1741029672,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 22682,
+      "num": 22682,
+      "word": "智搜DS评王一博内娱最具正能量明星",
+      "onboard_time": 1741037111,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 22318,
+      "num": 22318,
+      "word": "蜜雪冰城平均1天卖近2500万杯",
+      "onboard_time": 1741032851,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 22266,
       "num": 526310,
       "word": "一文速览全国两会首场新闻发布会",
@@ -531,43 +563,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 20136,
-      "num": 20136,
-      "word": "建议药品说明书改变专业用语表述",
-      "onboard_time": 1741035551,
-      "rank": 42,
-      "category": "国内时政,健康医疗"
-    },
-    {
-      "raw_hot": 19379,
-      "num": 19379,
-      "word": "蜜雪冰城平均1天卖近2500万杯",
-      "onboard_time": 1741032851,
-      "rank": 48,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 18445,
-      "num": 18445,
-      "word": "智搜DS评王一博内娱最具正能量明星",
-      "onboard_time": 1741037111,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 18083,
-      "num": 18083,
-      "word": "网友蹦迪偶遇蔡康永",
-      "onboard_time": 1741029672,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 17429,
       "num": 43453,
       "word": "一级保护动物自带彩色小围嘴",
       "onboard_time": 1741025413,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17091,
+      "num": 21564,
+      "word": "西园寺击掌猫是被主人带着晒太阳的",
+      "onboard_time": 1741040952,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -595,6 +603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 15526,
+      "num": 21563,
+      "word": "两会上大胡子外国记者被点赞",
+      "onboard_time": 1741030331,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 14697,
       "num": 17059,
       "word": "何苏叶表白",
@@ -603,20 +619,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 14463,
-      "num": 18072,
+      "raw_hot": 14607,
+      "num": 21562,
       "word": "世界野生动植物日",
       "onboard_time": 1741039752,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13871,
-      "num": 21104,
-      "word": "两会上大胡子外国记者被点赞",
-      "onboard_time": 1741030331,
-      "rank": 24,
-      "category": "国内时政"
     },
     {
       "raw_hot": 13299,
