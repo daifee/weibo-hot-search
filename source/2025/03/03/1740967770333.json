@@ -1,0 +1,410 @@
+{
+  "runTime": 1740967770333,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1232781,
+        "num": 1232781,
+        "word": "牙齿会影响整个身体健康",
+        "onboard_time": 1740963259,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1055930,
+        "num": 1055930,
+        "word": "奥斯卡",
+        "onboard_time": 1740963319,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 67685,
+        "num": 925083,
+        "word": "中国制造硬核出圈",
+        "onboard_time": 1740923120,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 805381,
+        "num": 805381,
+        "word": "雷军说大家不要觉得我们赢得很容易",
+        "onboard_time": 1740964219,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 651589,
+        "num": 651589,
+        "word": "主角官宣阵容",
+        "onboard_time": 1740967097,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 476253,
+        "num": 476253,
+        "word": "两会",
+        "onboard_time": 1740963979,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 922575,
+        "num": 453256,
+        "word": "泽连斯基称愿以辞职换乌进北约",
+        "onboard_time": 1740958877,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 414626,
+        "num": 414626,
+        "word": "这支短片领衔主演是14亿中国人",
+        "onboard_time": 1740966318,
+        "rank": 7,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 411263,
+        "num": 411263,
+        "word": "美国要的钱乌克兰得还63年",
+        "onboard_time": 1740962180,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 312471,
+        "num": 312471,
+        "word": "这次山东等地暴雪并不异常",
+        "onboard_time": 1740920480,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 588539,
+        "num": 310133,
+        "word": "戚薇眼睛",
+        "onboard_time": 1740925941,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 911193,
+        "num": 308251,
+        "word": "官方辟谣网传谭乔离职原因",
+        "onboard_time": 1740959658,
+        "rank": 11,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 586766,
+        "num": 303119,
+        "word": "方大同",
+        "onboard_time": 1740963498,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354288,
+        "num": 302230,
+        "word": "新加坡偶遇林俊杰吃早餐",
+        "onboard_time": 1740963859,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337381,
+        "num": 296715,
+        "word": "徐玉坤为Angelababy发声",
+        "onboard_time": 1740959358,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295965,
+        "num": 295965,
+        "word": "美国一92人客机飞行中发紧急信号",
+        "onboard_time": 1740964040,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 252342,
+        "num": 252342,
+        "word": "张凌赫 爸妈爷奶都知道了",
+        "onboard_time": 1740927560,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250852,
+        "num": 250852,
+        "word": "向阳花定档",
+        "onboard_time": 1740967039,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 207446,
+        "num": 243263,
+        "word": "白鹿说因为警察荣誉才能演北上",
+        "onboard_time": 1740959236,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199528,
+        "num": 240754,
+        "word": "奥斯卡提名",
+        "onboard_time": 1740929778,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 240639,
+        "num": 240639,
+        "word": "湖北一县委书记向躺平式干部宣战",
+        "onboard_time": 1740960559,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228534,
+        "num": 228534,
+        "word": "冷冷冷周一冷冷冷",
+        "onboard_time": 1740960138,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190180,
+        "num": 190180,
+        "word": "雷军首曝小米可换镜头手机",
+        "onboard_time": 1740928523,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 173263,
+        "num": 173263,
+        "word": "多国领导人伦敦峰会宣布支持乌克兰4个步骤",
+        "onboard_time": 1740961340,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 169251,
+        "num": 169251,
+        "word": "奥斯卡主持人说中文",
+        "onboard_time": 1740967339,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 163549,
+        "num": 163549,
+        "word": "山东暴雪大到模糊",
+        "onboard_time": 1740959236,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160271,
+        "num": 160271,
+        "word": "胡歌杨紫 生命树",
+        "onboard_time": 1740928639,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154959,
+        "num": 154959,
+        "word": "似锦5集口碑",
+        "onboard_time": 1740965418,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149172,
+        "num": 149172,
+        "word": "要么泽连斯基重返谈判桌要么换人",
+        "onboard_time": 1740959417,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141989,
+        "num": 141989,
+        "word": "生命树",
+        "onboard_time": 1740967220,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138763,
+        "num": 138763,
+        "word": "方大同悼念仪式手卡上留下最后的话",
+        "onboard_time": 1740937633,
+        "rank": 30,
+        "category": "艺人,电影"
+      },
+      {
+        "raw_hot": 135790,
+        "num": 135790,
+        "word": "手机碰一下钱就没了是真的吗",
+        "onboard_time": 1740964879,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134187,
+        "num": 134187,
+        "word": "颜如晶暴瘦60斤后现身重庆马拉松",
+        "onboard_time": 1740918440,
+        "rank": 32,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 131082,
+        "num": 131082,
+        "word": "把唐僧的窝囊劲儿都演出来了",
+        "onboard_time": 1740963560,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129903,
+        "num": 129903,
+        "word": "国际金价跌至近3周以来最低点",
+        "onboard_time": 1740919761,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 127594,
+        "num": 127594,
+        "word": "杨蓉新剧让人好想抱抱她",
+        "onboard_time": 1740958936,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102611,
+        "num": 102611,
+        "word": "研究出这个镜头的人是天才",
+        "onboard_time": 1740964697,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100976,
+        "num": 100976,
+        "word": "宋亚轩直播改时间",
+        "onboard_time": 1740965599,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97532,
+        "num": 97532,
+        "word": "周杰伦昆凌儿子拿了网球冠军",
+        "onboard_time": 1740929120,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89183,
+        "num": 89183,
+        "word": "徐明浩结束创造营亚洲2录制",
+        "onboard_time": 1740927620,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87330,
+        "num": 87330,
+        "word": "滤镜",
+        "onboard_time": 1740964519,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86686,
+        "num": 86686,
+        "word": "董力给岳父送开瓶器",
+        "onboard_time": 1740957376,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85085,
+        "num": 85085,
+        "word": "母亲被撞身亡46万赔偿拖欠2年",
+        "onboard_time": 1740923360,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89770,
+        "num": 84805,
+        "word": "周杰伦龙抬头给女儿剪发",
+        "onboard_time": 1740928040,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84201,
+        "num": 84201,
+        "word": "济南因暴雪停课",
+        "onboard_time": 1740911059,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83363,
+        "num": 83363,
+        "word": "主角",
+        "onboard_time": 1740964040,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82967,
+        "num": 82967,
+        "word": "今年已有13位演艺界名人逝世",
+        "onboard_time": 1740904699,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81359,
+        "num": 81359,
+        "word": "冰水刺骨挡不住消防员救人的心",
+        "onboard_time": 1740962000,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78217,
+        "num": 78217,
+        "word": "种地吧",
+        "onboard_time": 1740965418,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74751,
+        "num": 74751,
+        "word": "奥斯卡预热派对",
+        "onboard_time": 1740967698,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对年轻干部提出这些要求#"
+    }
+  }
+}

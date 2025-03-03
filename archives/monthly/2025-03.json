@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1740966504316,
+  "endTime": 1740967770333,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -331,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1232781,
+      "num": 1232781,
+      "word": "牙齿会影响整个身体健康",
+      "onboard_time": 1740963259,
+      "rank": 1,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1219192,
       "num": 1219192,
       "word": "退税",
@@ -427,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1055930,
+      "num": 1164344,
+      "word": "奥斯卡",
+      "onboard_time": 1740963319,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1049473,
       "num": 1049473,
       "word": "晴川",
@@ -459,16 +475,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1027151,
-      "num": 1164344,
-      "word": "奥斯卡",
-      "onboard_time": 1740963319,
-      "rank": 0,
-      "category": "电影"
-    },
-    {
       "raw_hot": 1002151,
-      "num": 168226,
+      "num": 308251,
       "word": "官方辟谣网传谭乔离职原因",
       "onboard_time": 1740959658,
       "rank": 10,
@@ -515,6 +523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 922575,
+      "num": 453256,
+      "word": "泽连斯基称愿以辞职换乌进北约",
+      "onboard_time": 1740958877,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 897803,
       "num": 342214,
       "word": "颜如晶暴瘦60斤后现身重庆马拉松",
@@ -529,14 +545,6 @@
       "onboard_time": 1740886039,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 896304,
-      "num": 896304,
-      "word": "牙齿会影响整个身体健康",
-      "onboard_time": 1740963259,
-      "rank": 1,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 893276,
@@ -576,14 +584,6 @@
       "word": "英乌签署22.6亿英镑贷款协议",
       "onboard_time": 1740870913,
       "rank": 9,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 855896,
-      "num": 347413,
-      "word": "泽连斯基称愿以辞职换乌进北约",
-      "onboard_time": 1740958877,
-      "rank": 5,
       "category": "国际时政"
     },
     {
@@ -633,6 +633,14 @@
       "onboard_time": 1740912380,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 805381,
+      "num": 805381,
+      "word": "雷军说大家不要觉得我们赢得很容易",
+      "onboard_time": 1740964219,
+      "rank": 13,
+      "category": "互联网"
     },
     {
       "raw_hot": 795728,
@@ -787,6 +795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 651589,
+      "num": 651589,
+      "word": "主角官宣阵容",
+      "onboard_time": 1740967097,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 649198,
       "num": 649198,
       "word": "爱你 60场吻戏",
@@ -897,6 +913,14 @@
       "onboard_time": 1740787876,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 586766,
+      "num": 303119,
+      "word": "方大同",
+      "onboard_time": 1740963498,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 584549,
@@ -1355,6 +1379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 414626,
+      "num": 414626,
+      "word": "这支短片领衔主演是14亿中国人",
+      "onboard_time": 1740966318,
+      "rank": 33,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 412203,
       "num": 412203,
       "word": "济南真的下雪啦",
@@ -1369,6 +1401,14 @@
       "onboard_time": 1740896600,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 411263,
+      "num": 411263,
+      "word": "美国要的钱乌克兰得还63年",
+      "onboard_time": 1740962180,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 406130,
@@ -1483,14 +1523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 371497,
-      "num": 371497,
-      "word": "美国要的钱乌克兰得还63年",
-      "onboard_time": 1740962180,
-      "rank": 4,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 369692,
       "num": 210185,
       "word": "特朗普称泽连斯基需停止对普京负面言论",
@@ -1587,6 +1619,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 354288,
+      "num": 302230,
+      "word": "新加坡偶遇林俊杰吃早餐",
+      "onboard_time": 1740963859,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 354133,
       "num": 354133,
       "word": "王俊凯仿佛认为自己是老年人",
@@ -1641,6 +1681,14 @@
       "onboard_time": 1740871875,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 337381,
+      "num": 296715,
+      "word": "徐玉坤为Angelababy发声",
+      "onboard_time": 1740959358,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 336367,
@@ -1755,14 +1803,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 321173,
-      "num": 163962,
-      "word": "雷军说大家不要觉得我们赢得很容易",
-      "onboard_time": 1740964219,
-      "rank": 13,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 321156,
       "num": 321156,
       "word": "3类人要警惕气胸",
@@ -1865,6 +1905,14 @@
       "onboard_time": 1740834384,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 295965,
+      "num": 295965,
+      "word": "美国一92人客机飞行中发紧急信号",
+      "onboard_time": 1740964040,
+      "rank": 6,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 295749,
@@ -2011,14 +2059,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 284626,
-      "num": 161315,
-      "word": "徐玉坤为Angelababy发声",
-      "onboard_time": 1740959358,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 284341,
       "num": 284341,
       "word": "国际金价跌至近3周以来最低点",
@@ -2033,14 +2073,6 @@
       "onboard_time": 1740812670,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 281234,
-      "num": 159090,
-      "word": "新加坡偶遇林俊杰吃早餐",
-      "onboard_time": 1740963859,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 279954,
@@ -2227,14 +2259,6 @@
       "category": "健康医疗,艺人"
     },
     {
-      "raw_hot": 257625,
-      "num": 257625,
-      "word": "美国一92人客机飞行中发紧急信号",
-      "onboard_time": 1740964040,
-      "rank": 6,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 255159,
       "num": 255159,
       "word": "建议从重处罚教师性侵未成年人",
@@ -2273,6 +2297,14 @@
       "onboard_time": 1740926901,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 250852,
+      "num": 250852,
+      "word": "向阳花定档",
+      "onboard_time": 1740967039,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 250810,
@@ -2337,6 +2369,14 @@
       "onboard_time": 1740913460,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 240639,
+      "num": 240639,
+      "word": "湖北一县委书记向躺平式干部宣战",
+      "onboard_time": 1740960559,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 240106,
@@ -2481,6 +2521,14 @@
       "onboard_time": 1740827961,
       "rank": 18,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 228534,
+      "num": 228534,
+      "word": "冷冷冷周一冷冷冷",
+      "onboard_time": 1740960138,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 227130,
@@ -2803,6 +2851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207446,
+      "num": 243263,
+      "word": "白鹿说因为警察荣誉才能演北上",
+      "onboard_time": 1740959236,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207433,
       "num": 190205,
       "word": "迪丽热巴三月的行程图",
@@ -2993,6 +3049,14 @@
       "onboard_time": 1740799877,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199528,
+      "num": 240754,
+      "word": "奥斯卡提名",
+      "onboard_time": 1740929778,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 199301,
@@ -3635,11 +3699,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 169983,
-      "num": 169983,
-      "word": "奥斯卡提名",
-      "onboard_time": 1740929778,
-      "rank": 48,
+      "raw_hot": 169251,
+      "num": 169251,
+      "word": "奥斯卡主持人说中文",
+      "onboard_time": 1740967339,
+      "rank": 24,
       "category": "电影"
     },
     {
@@ -3809,6 +3873,14 @@
       "onboard_time": 1740846859,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 163549,
+      "num": 163549,
+      "word": "山东暴雪大到模糊",
+      "onboard_time": 1740959236,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162981,
@@ -4017,6 +4089,14 @@
       "onboard_time": 1740922340,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154959,
+      "num": 154959,
+      "word": "似锦5集口碑",
+      "onboard_time": 1740965418,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 154906,
@@ -4299,14 +4379,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 143674,
-      "num": 143674,
-      "word": "似锦5集口碑",
-      "onboard_time": 1740965418,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 142702,
       "num": 142702,
       "word": "似锦",
@@ -4321,6 +4393,14 @@
       "onboard_time": 1740898459,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141989,
+      "num": 141989,
+      "word": "生命树",
+      "onboard_time": 1740967220,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 141862,
@@ -4467,8 +4547,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 138711,
-      "num": 112150,
+      "raw_hot": 138763,
+      "num": 138763,
       "word": "方大同悼念仪式手卡上留下最后的话",
       "onboard_time": 1740937633,
       "rank": 22,
@@ -4635,12 +4715,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 131315,
-      "num": 112129,
-      "word": "湖北一县委书记向躺平式干部宣战",
-      "onboard_time": 1740960559,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 131082,
+      "num": 131082,
+      "word": "把唐僧的窝囊劲儿都演出来了",
+      "onboard_time": 1740963560,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 130709,
@@ -4777,14 +4857,6 @@
       "onboard_time": 1740886818,
       "rank": 46,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 126043,
-      "num": 124997,
-      "word": "方大同",
-      "onboard_time": 1740963498,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 125739,
@@ -5099,14 +5171,6 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 112105,
-      "num": 112105,
-      "word": "把唐僧的窝囊劲儿都演出来了",
-      "onboard_time": 1740963560,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 111807,
       "num": 111807,
       "word": "建议折算高速公路免费天数",
@@ -5169,14 +5233,6 @@
       "onboard_time": 1740928879,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 108000,
-      "num": 108000,
-      "word": "这支短片领衔主演是14亿中国人",
-      "onboard_time": 1740966318,
-      "rank": 33,
-      "category": "正能量"
     },
     {
       "raw_hot": 107902,
@@ -5363,6 +5419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102611,
+      "num": 102611,
+      "word": "研究出这个镜头的人是天才",
+      "onboard_time": 1740964697,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102067,
       "num": 346621,
       "word": "Ella给儿子剪头发",
@@ -5392,6 +5456,14 @@
       "word": "王俊凯重庆胃",
       "onboard_time": 1740905720,
       "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100976,
+      "num": 112214,
+      "word": "宋亚轩直播改时间",
+      "onboard_time": 1740965599,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -5547,14 +5619,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 94662,
-      "num": 94662,
-      "word": "冷冷冷周一冷冷冷",
-      "onboard_time": 1740960138,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 94280,
       "num": 197360,
       "word": "以色列称已阻止人道物资进入加沙",
@@ -5577,14 +5641,6 @@
       "onboard_time": 1740746180,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 93277,
-      "num": 112214,
-      "word": "宋亚轩直播改时间",
-      "onboard_time": 1740965599,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 93186,
@@ -5867,6 +5923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81359,
+      "num": 81359,
+      "word": "冰水刺骨挡不住消防员救人的心",
+      "onboard_time": 1740962000,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79882,
       "num": 79882,
       "word": "方大同生前最后一次接受采访",
@@ -5947,6 +6011,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 74751,
+      "num": 74751,
+      "word": "奥斯卡预热派对",
+      "onboard_time": 1740967698,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 74743,
       "num": 82445,
       "word": "湖南怀化水上交通事故已致9人遇难",
@@ -5961,14 +6033,6 @@
       "onboard_time": 1740913220,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 74007,
-      "num": 74007,
-      "word": "山东暴雪大到模糊",
-      "onboard_time": 1740959236,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 73347,
@@ -6089,14 +6153,6 @@
       "onboard_time": 1740965299,
       "rank": 48,
       "category": "互联网,体育"
-    },
-    {
-      "raw_hot": 65982,
-      "num": 65982,
-      "word": "白鹿说因为警察荣誉才能演北上",
-      "onboard_time": 1740959236,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 65872,
