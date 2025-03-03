@@ -1,6 +1,6 @@
 {
   "startTime": 1740932816657,
-  "endTime": 1740976971261,
+  "endTime": 1740979418308,
   "band_list": [
     {
       "raw_hot": 2261873,
@@ -91,6 +91,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 839227,
+      "num": 839227,
+      "word": "诈骗了黄牛3场演唱会被判还8800",
+      "onboard_time": 1740974779,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 823509,
       "num": 823509,
       "word": "女生经常熬夜打麻将患上耳石症",
@@ -105,14 +113,6 @@
       "onboard_time": 1740964219,
       "rank": 13,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 693408,
-      "num": 693408,
-      "word": "诈骗了黄牛3场演唱会被判还8800",
-      "onboard_time": 1740974779,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 651589,
@@ -179,6 +179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 583239,
+      "num": 464195,
+      "word": "36名男士恋爱1个月背上百万房贷",
+      "onboard_time": 1740975861,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 583163,
       "num": 256996,
       "word": "徐若晗好漂亮",
@@ -201,6 +209,14 @@
       "onboard_time": 1740966318,
       "rank": 33,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 548682,
+      "num": 548682,
+      "word": "白鹿说拍完下部戏要休息一段时间",
+      "onboard_time": 1740977722,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 540408,
@@ -251,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 428064,
+      "num": 428064,
+      "word": "奥运冠军演我体测",
+      "onboard_time": 1740972559,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 411263,
       "num": 411263,
       "word": "美国要的钱乌克兰得还63年",
@@ -291,7 +315,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 355606,
+      "raw_hot": 364122,
       "num": 408863,
       "word": "上班杀死了我的文化体力",
       "onboard_time": 1740974660,
@@ -403,14 +427,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 288572,
-      "num": 288572,
-      "word": "奥运冠军演我体测",
-      "onboard_time": 1740972559,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 285653,
       "num": 161822,
       "word": "第97届奥斯卡金像奖最佳影片提名",
@@ -467,6 +483,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 254238,
+      "num": 301883,
+      "word": "赵丽颖新片饰演刑满释放女子",
+      "onboard_time": 1740977962,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 243714,
       "num": 243714,
       "word": "济南因暴雪停课",
@@ -491,20 +515,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 229586,
-      "num": 229586,
-      "word": "36名男士恋爱1个月背上百万房贷",
-      "onboard_time": 1740975861,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 229082,
       "num": 229082,
       "word": "冷冷冷周一冷冷冷",
       "onboard_time": 1740960138,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 224259,
+      "num": 224259,
+      "word": "桑延温以凡两集亲了四次",
+      "onboard_time": 1740977962,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 221391,
@@ -523,6 +547,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 214574,
+      "num": 214574,
+      "word": "长沙刚刚下雪了",
+      "onboard_time": 1740978021,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 210081,
+      "num": 210081,
+      "word": "雷军回应发布会穿衣被质疑抄袭",
+      "onboard_time": 1740975382,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 207446,
       "num": 243263,
       "word": "白鹿说因为警察荣誉才能演北上",
@@ -537,14 +577,6 @@
       "onboard_time": 1740968299,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 204479,
-      "num": 204479,
-      "word": "雷军回应发布会穿衣被质疑抄袭",
-      "onboard_time": 1740975382,
-      "rank": 39,
-      "category": "互联网"
     },
     {
       "raw_hot": 203668,
@@ -577,6 +609,14 @@
       "onboard_time": 1740910940,
       "rank": 14,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 201130,
+      "num": 201130,
+      "word": "香港顶流姜涛瘦的时候",
+      "onboard_time": 1740979100,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 199528,
@@ -651,12 +691,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 178788,
+      "num": 297344,
+      "word": "小米15Ultra海外售价超iPhone",
+      "onboard_time": 1740976822,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 178336,
       "num": 178336,
       "word": "程潇向阳花海报",
       "onboard_time": 1740971598,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 176921,
+      "num": 176921,
+      "word": "詹姆斯生涯49999分",
+      "onboard_time": 1740979219,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 174242,
@@ -680,6 +736,14 @@
       "word": "难哄会过型女主演我抠门方式",
       "onboard_time": 1740973099,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 169305,
+      "num": 212597,
+      "word": "虞书欣卫枝单眼落泪",
+      "onboard_time": 1740971420,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -715,14 +779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 164149,
-      "num": 164149,
-      "word": "虞书欣卫枝单眼落泪",
-      "onboard_time": 1740971420,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 163549,
       "num": 163549,
       "word": "山东暴雪大到模糊",
@@ -753,6 +809,14 @@
       "onboard_time": 1740958936,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158010,
+      "num": 158010,
+      "word": "湖人球迷喊佩林卡MVP",
+      "onboard_time": 1740979160,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 157670,
@@ -819,12 +883,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 151848,
+      "num": 151848,
+      "word": "A股超4000股上涨",
+      "onboard_time": 1740978980,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 151715,
       "num": 171795,
       "word": "湖南即将进入寒潮发威最强时段",
       "onboard_time": 1740932357,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149249,
+      "num": 149249,
+      "word": "朱一龙维权胜诉",
+      "onboard_time": 1740977061,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 149088,
@@ -835,12 +915,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148394,
+      "num": 148394,
+      "word": "北京环球影城原神联动",
+      "onboard_time": 1740979039,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 147487,
       "num": 147487,
       "word": "赵丽颖向阳花剧照",
       "onboard_time": 1740971420,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 144310,
+      "num": 144310,
+      "word": "孙协志夏宇童宣布结婚",
+      "onboard_time": 1740979339,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 144268,
@@ -857,6 +953,14 @@
       "onboard_time": 1740929540,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143038,
+      "num": 143038,
+      "word": "刘浩存主角开机路透图",
+      "onboard_time": 1740976760,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 142829,
@@ -967,14 +1071,6 @@
       "num": 127258,
       "word": "北上中式顶级邻里关系",
       "onboard_time": 1740972260,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 126768,
-      "num": 126768,
-      "word": "刘浩存主角开机路透图",
-      "onboard_time": 1740976760,
       "rank": 47,
       "category": "剧集"
     },
@@ -1195,14 +1291,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 90940,
-      "num": 126347,
-      "word": "小米15Ultra海外售价超iPhone",
-      "onboard_time": 1740976822,
-      "rank": 48,
-      "category": "数码"
-    },
-    {
       "raw_hot": 88521,
       "num": 88521,
       "word": "李昀锐巴黎时装周",
@@ -1275,6 +1363,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 82321,
+      "num": 283091,
+      "word": "王星越在米兰街边吃可乐汉堡",
+      "onboard_time": 1740978621,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 82179,
+      "num": 186964,
+      "word": "赵丽颖抬头看吧",
+      "onboard_time": 1740979400,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 81401,
       "num": 296584,
       "word": "猫猫得到了奥斯卡小金人",
@@ -1321,6 +1425,14 @@
       "onboard_time": 1740966198,
       "rank": 46,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 71291,
+      "num": 307457,
+      "word": "建议学前教育逐步免费",
+      "onboard_time": 1740978501,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68910,
@@ -1427,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 40780,
+      "num": 204476,
+      "word": "周也巴黎时装周出发图",
+      "onboard_time": 1740974241,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 39257,
       "num": 149318,
       "word": "唐九洲苏叶哥打扰了臣告退",
@@ -1465,6 +1585,22 @@
       "onboard_time": 1740932417,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30940,
+      "num": 224358,
+      "word": "没有对白的猫猫电影得了奥斯卡",
+      "onboard_time": 1740977841,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 28892,
+      "num": 296015,
+      "word": "全国控烟立法亟待推进",
+      "onboard_time": 1740978320,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 25881,
