@@ -1,0 +1,410 @@
+{
+  "runTime": 1740983621724,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 783544,
+        "num": 1125367,
+        "word": "余华英死刑后杨妞花回应是否会退网",
+        "onboard_time": 1740968839,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 803113,
+        "num": 803113,
+        "word": "菜刀哥李坤朋去世",
+        "onboard_time": 1740972320,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61504,
+        "num": 632143,
+        "word": "9图了解人大知识点",
+        "onboard_time": 1740975680,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 982209,
+        "num": 627385,
+        "word": "香港顶流姜涛瘦的时候",
+        "onboard_time": 1740979100,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 591313,
+        "num": 591313,
+        "word": "赵丽颖新片饰演刑满释放女子",
+        "onboard_time": 1740977962,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 485031,
+        "num": 485031,
+        "word": "长沙刚刚下雪了",
+        "onboard_time": 1740978021,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 435355,
+        "num": 435355,
+        "word": "难哄 单更加断更",
+        "onboard_time": 1740979520,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 414491,
+        "num": 414491,
+        "word": "白鹿说拍完下部戏要休息一段时间",
+        "onboard_time": 1740977722,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 350063,
+        "num": 350063,
+        "word": "泽连斯基称愿以辞职换乌进北约",
+        "onboard_time": 1740958877,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 321977,
+        "num": 321977,
+        "word": "两会",
+        "onboard_time": 1740963979,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 702142,
+        "num": 295714,
+        "word": "张凌赫 摇头吻",
+        "onboard_time": 1740980479,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265947,
+        "num": 265947,
+        "word": "欧盟主席对中国口气变了",
+        "onboard_time": 1740983539,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 554367,
+        "num": 264983,
+        "word": "诈骗了黄牛3场演唱会被判还8800",
+        "onboard_time": 1740974779,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 398956,
+        "num": 263763,
+        "word": "36名男士恋爱1个月背上百万房贷",
+        "onboard_time": 1740975861,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 324625,
+        "num": 262875,
+        "word": "孙协志夏宇童宣布结婚",
+        "onboard_time": 1740979339,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303926,
+        "num": 261234,
+        "word": "奥斯卡",
+        "onboard_time": 1740963319,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 260982,
+        "num": 260982,
+        "word": "白敬亭怎么就越演越干净",
+        "onboard_time": 1740980600,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226858,
+        "num": 226858,
+        "word": "这支短片领衔主演是14亿中国人",
+        "onboard_time": 1740966318,
+        "rank": 17,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 226697,
+        "num": 226697,
+        "word": "Doinb爆料Zoom不直播了",
+        "onboard_time": 1740982219,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 212809,
+        "num": 219345,
+        "word": "金智秀时装周机场出发图",
+        "onboard_time": 1740981979,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 128729,
+        "num": 214644,
+        "word": "体育局回应跑者疑在学校牌匾前小便",
+        "onboard_time": 1740983059,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231330,
+        "num": 214587,
+        "word": "女生经常熬夜打麻将患上耳石症",
+        "onboard_time": 1740974120,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214459,
+        "num": 214459,
+        "word": "奥斯卡缅怀郑佩佩",
+        "onboard_time": 1740972380,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 213091,
+        "num": 213091,
+        "word": "冯小刚全女阵容",
+        "onboard_time": 1740971780,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 74125,
+        "num": 208339,
+        "word": "祁煜奇迹小鱼",
+        "onboard_time": 1740982519,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 205908,
+        "num": 205908,
+        "word": "周冬雨刘昊然新片定档",
+        "onboard_time": 1740973040,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195034,
+        "num": 195034,
+        "word": "于正换角",
+        "onboard_time": 1740982878,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185722,
+        "num": 185722,
+        "word": "上班杀死了我的文化体力",
+        "onboard_time": 1740974660,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181343,
+        "num": 181343,
+        "word": "牙齿会影响整个身体健康",
+        "onboard_time": 1740963259,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 170897,
+        "num": 170897,
+        "word": "奥运冠军演我体测",
+        "onboard_time": 1740972559,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167992,
+        "num": 167992,
+        "word": "滤镜女二人设",
+        "onboard_time": 1740980959,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159449,
+        "num": 159449,
+        "word": "陶喆回应唱爱爱爱悼念方大同",
+        "onboard_time": 1740980240,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 157442,
+        "num": 157442,
+        "word": "章若楠为了赢真的豁出去了",
+        "onboard_time": 1740981019,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154561,
+        "num": 154561,
+        "word": "湖人升至西部第二",
+        "onboard_time": 1740982159,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153500,
+        "num": 153500,
+        "word": "边伯贤合作曲MV",
+        "onboard_time": 1740983178,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 150215,
+        "num": 150215,
+        "word": "宋亚轩港风小卷毛",
+        "onboard_time": 1740981979,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148233,
+        "num": 148233,
+        "word": "又到了乱穿衣季节",
+        "onboard_time": 1740981618,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136279,
+        "num": 136279,
+        "word": "泽连斯基愿意重返白宫进一步会谈",
+        "onboard_time": 1740973099,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 135538,
+        "num": 135538,
+        "word": "郑州下雪",
+        "onboard_time": 1740983358,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73588,
+        "num": 134039,
+        "word": "小猫头长巨大囊肿遇好心人送医",
+        "onboard_time": 1740981738,
+        "rank": 39,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 133771,
+        "num": 133771,
+        "word": "电影长安的荔枝定档",
+        "onboard_time": 1740969800,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 88459,
+        "num": 133423,
+        "word": "阿德里安布劳迪奥斯卡影帝",
+        "onboard_time": 1740982219,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133127,
+        "num": 133127,
+        "word": "大侦探黑蛋大劫案",
+        "onboard_time": 1740980059,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132308,
+        "num": 132308,
+        "word": "林诗栋体测憋出痛苦面具",
+        "onboard_time": 1740979579,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128947,
+        "num": 128947,
+        "word": "詹姆斯生涯49999分",
+        "onboard_time": 1740979219,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128917,
+        "num": 128917,
+        "word": "张康乐出发青海",
+        "onboard_time": 1740982758,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127442,
+        "num": 127442,
+        "word": "男子去世获赔百万妻子与哥哥对簿公堂",
+        "onboard_time": 1740980778,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126526,
+        "num": 126526,
+        "word": "多名马拉松跑者疑在学校牌匾前小便",
+        "onboard_time": 1740983238,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124556,
+        "num": 124556,
+        "word": "赵丽颖起诉多家公司侵犯人格权",
+        "onboard_time": 1740982579,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122744,
+        "num": 122744,
+        "word": "雷军回应发布会穿衣被质疑抄袭",
+        "onboard_time": 1740975382,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记两会关心的那些事#"
+    }
+  }
+}

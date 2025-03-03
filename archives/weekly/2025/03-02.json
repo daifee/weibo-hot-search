@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1740980431103,
+  "endTime": 1740983621724,
   "band_list": [
     {
       "raw_hot": 3194275,
@@ -275,6 +275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 982209,
+      "num": 627385,
+      "word": "香港顶流姜涛瘦的时候",
+      "onboard_time": 1740979100,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 950085,
       "num": 1152013,
       "word": "张柏芝穿了珍珠新中式",
@@ -435,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 702142,
+      "num": 295714,
+      "word": "张凌赫 摇头吻",
+      "onboard_time": 1740980479,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 697824,
       "num": 697824,
       "word": "什么是爆肺",
@@ -563,20 +579,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 592206,
-      "num": 592206,
-      "word": "香港顶流姜涛瘦的时候",
-      "onboard_time": 1740979100,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 591826,
       "num": 462944,
       "word": "胡歌杨紫 生命树",
       "onboard_time": 1740928639,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 591313,
+      "num": 591313,
+      "word": "赵丽颖新片饰演刑满释放女子",
+      "onboard_time": 1740977962,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 586766,
@@ -739,14 +755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 510269,
-      "num": 510269,
-      "word": "赵丽颖新片饰演刑满释放女子",
-      "onboard_time": 1740977962,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 510052,
       "num": 510052,
       "word": "两会",
@@ -793,6 +801,14 @@
       "onboard_time": 1740888200,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 485031,
+      "num": 485031,
+      "word": "长沙刚刚下雪了",
+      "onboard_time": 1740978021,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 482396,
@@ -849,6 +865,14 @@
       "onboard_time": 1740827782,
       "rank": 4,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 435355,
+      "num": 435355,
+      "word": "难哄 单更加断更",
+      "onboard_time": 1740979520,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 434629,
@@ -1163,6 +1187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 324625,
+      "num": 290230,
+      "word": "孙协志夏宇童宣布结婚",
+      "onboard_time": 1740979339,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 322572,
       "num": 217709,
       "word": "辛芷蕾新剧脚趾接大工程了",
@@ -1291,14 +1323,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 289479,
-      "num": 289479,
-      "word": "难哄 单更加断更",
-      "onboard_time": 1740979520,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 287971,
       "num": 258997,
       "word": "南京胖哥减重100斤",
@@ -1403,6 +1427,14 @@
       "category": "剧集,体育"
     },
     {
+      "raw_hot": 265947,
+      "num": 265947,
+      "word": "欧盟主席对中国口气变了",
+      "onboard_time": 1740983539,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 262086,
       "num": 445648,
       "word": "马斯克赞成美国退出联合国和北约",
@@ -1417,6 +1449,14 @@
       "onboard_time": 1740973761,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 260982,
+      "num": 260982,
+      "word": "白敬亭怎么就越演越干净",
+      "onboard_time": 1740980600,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 260159,
@@ -1595,6 +1635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 226697,
+      "num": 226697,
+      "word": "Doinb爆料Zoom不直播了",
+      "onboard_time": 1740982219,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 226520,
       "num": 224259,
       "word": "桑延温以凡两集亲了四次",
@@ -1723,14 +1771,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 214574,
-      "num": 388886,
-      "word": "长沙刚刚下雪了",
-      "onboard_time": 1740978021,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 213092,
       "num": 213092,
       "word": "徐若晗张凌赫吻戏",
@@ -1755,6 +1795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212809,
+      "num": 219345,
+      "word": "金智秀时装周机场出发图",
+      "onboard_time": 1740981979,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 210081,
       "num": 210081,
       "word": "雷军回应发布会穿衣被质疑抄袭",
@@ -1776,14 +1824,6 @@
       "word": "何超莲何超云何猷启为妈妈庆生",
       "onboard_time": 1740896239,
       "rank": 42,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 207880,
-      "num": 290230,
-      "word": "孙协志夏宇童宣布结婚",
-      "onboard_time": 1740979339,
-      "rank": 47,
       "category": "艺人"
     },
     {
@@ -2009,6 +2049,14 @@
       "onboard_time": 1740976641,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195034,
+      "num": 195034,
+      "word": "于正换角",
+      "onboard_time": 1740982878,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 192607,
@@ -2315,6 +2363,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 167992,
+      "num": 167992,
+      "word": "滤镜女二人设",
+      "onboard_time": 1740980959,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167917,
       "num": 241763,
       "word": "要想安全驾驶还得看大厂",
@@ -2451,6 +2507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159449,
+      "num": 159449,
+      "word": "陶喆回应唱爱爱爱悼念方大同",
+      "onboard_time": 1740980240,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 158042,
       "num": 158042,
       "word": "杨蓉新剧让人好想抱抱她",
@@ -2497,6 +2561,14 @@
       "onboard_time": 1740946630,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157442,
+      "num": 157442,
+      "word": "章若楠为了赢真的豁出去了",
+      "onboard_time": 1740981019,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 157377,
@@ -2579,6 +2651,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 154561,
+      "num": 154561,
+      "word": "湖人升至西部第二",
+      "onboard_time": 1740982159,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154442,
       "num": 154442,
       "word": "何老师眼里是真有活儿",
@@ -2593,6 +2673,14 @@
       "onboard_time": 1740974060,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 153500,
+      "num": 153500,
+      "word": "边伯贤合作曲MV",
+      "onboard_time": 1740983178,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 151848,
@@ -2659,6 +2747,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 150215,
+      "num": 150215,
+      "word": "宋亚轩港风小卷毛",
+      "onboard_time": 1740981979,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149839,
       "num": 149839,
       "word": "初步举证",
@@ -2689,6 +2785,14 @@
       "onboard_time": 1740979039,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 148233,
+      "num": 148233,
+      "word": "又到了乱穿衣季节",
+      "onboard_time": 1740981618,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148165,
@@ -3011,6 +3115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135538,
+      "num": 135538,
+      "word": "郑州下雪",
+      "onboard_time": 1740983358,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134335,
       "num": 134335,
       "word": "为什么周末要做和平时反差大的事",
@@ -3107,6 +3219,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 128917,
+      "num": 128917,
+      "word": "张康乐出发青海",
+      "onboard_time": 1740982758,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 128729,
+      "num": 214644,
+      "word": "体育局回应跑者疑在学校牌匾前小便",
+      "onboard_time": 1740983059,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128428,
       "num": 234335,
       "word": "曾凡博扣爽了",
@@ -3121,6 +3249,14 @@
       "onboard_time": 1740913879,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 127442,
+      "num": 127442,
+      "word": "男子去世获赔百万妻子与哥哥对簿公堂",
+      "onboard_time": 1740980778,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127414,
@@ -3152,6 +3288,14 @@
       "word": "女子炒黄金被暴涨的利润吓得报警",
       "onboard_time": 1740815906,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126526,
+      "num": 126526,
+      "word": "多名马拉松跑者疑在学校牌匾前小便",
+      "onboard_time": 1740983238,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -3219,12 +3363,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 123249,
-      "num": 123249,
-      "word": "陶喆回应唱爱爱爱悼念方大同",
-      "onboard_time": 1740980240,
-      "rank": 46,
-      "category": "演出"
+      "raw_hot": 124556,
+      "num": 124556,
+      "word": "赵丽颖起诉多家公司侵犯人格权",
+      "onboard_time": 1740982579,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 122826,
@@ -3787,6 +3931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88459,
+      "num": 133423,
+      "word": "阿德里安布劳迪奥斯卡影帝",
+      "onboard_time": 1740982219,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 88190,
       "num": 88190,
       "word": "郭富城想回石龙开金铺",
@@ -3985,6 +4137,22 @@
       "onboard_time": 1740913220,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 74125,
+      "num": 208339,
+      "word": "祁煜奇迹小鱼",
+      "onboard_time": 1740982519,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 73588,
+      "num": 134039,
+      "word": "小猫头长巨大囊肿遇好心人送医",
+      "onboard_time": 1740981738,
+      "rank": 39,
+      "category": "正能量"
     },
     {
       "raw_hot": 73347,
