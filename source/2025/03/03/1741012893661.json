@@ -1,0 +1,410 @@
+{
+  "runTime": 1741012893661,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1287999,
+        "num": 1287999,
+        "word": "下一个爆火的小众城市会是谁",
+        "onboard_time": 1741008139,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 992611,
+        "num": 992611,
+        "word": "歌手",
+        "onboard_time": 1741002919,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33925,
+        "num": 922499,
+        "word": "一文速览全国两会首场新闻发布会",
+        "onboard_time": 1741004959,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 865110,
+        "num": 865110,
+        "word": "北上收视率",
+        "onboard_time": 1741006879,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 740114,
+        "num": 740114,
+        "word": "G2985次动车为救人破例临停",
+        "onboard_time": 1741001419,
+        "rank": 4,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 457947,
+        "num": 457947,
+        "word": "武汉下雪",
+        "onboard_time": 1741004718,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 515079,
+        "num": 454741,
+        "word": "哪吒2成首部破20亿美元亚洲电影",
+        "onboard_time": 1740998358,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 450114,
+        "num": 450114,
+        "word": "难哄吻戏这一分钟",
+        "onboard_time": 1741011380,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68685,
+        "num": 426967,
+        "word": "十四五重大工程98%以上已完成目标",
+        "onboard_time": 1741011260,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 27064,
+        "num": 420052,
+        "word": "山航济南暴雪中硬核降落",
+        "onboard_time": 1741005738,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1045499,
+        "num": 419255,
+        "word": "同栋楼数十名男业主女友竟是同一人",
+        "onboard_time": 1741010300,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 414797,
+        "num": 414797,
+        "word": "鲁A55X7E暴雪中拖完公交拖扫雪车",
+        "onboard_time": 1741006700,
+        "rank": 11,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 365070,
+        "num": 365070,
+        "word": "北上好有质感",
+        "onboard_time": 1741007419,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308247,
+        "num": 308247,
+        "word": "徐若晗好韩",
+        "onboard_time": 1741011979,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 96177,
+        "num": 277856,
+        "word": "人大代表称AI替代不了医生",
+        "onboard_time": 1741011200,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 270350,
+        "num": 270350,
+        "word": "盒马不再对标山姆",
+        "onboard_time": 1740991339,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 265271,
+        "num": 265271,
+        "word": "章若楠我承认之前对你的声音大了点",
+        "onboard_time": 1740990438,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257890,
+        "num": 257890,
+        "word": "北上开播",
+        "onboard_time": 1741002799,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240860,
+        "num": 240860,
+        "word": "被吵醒的小猫变成了申公豹",
+        "onboard_time": 1741004058,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 47432,
+        "num": 240834,
+        "word": "常华森厨艺进步了很多",
+        "onboard_time": 1741011920,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 688315,
+        "num": 240689,
+        "word": "刘浩存赵今麦 miumiu",
+        "onboard_time": 1740994700,
+        "rank": 20,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 467672,
+        "num": 240590,
+        "word": "iPhone13跌至半价后销量暴增10倍",
+        "onboard_time": 1741002738,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 45609,
+        "num": 240540,
+        "word": "专家称个税调整应考虑地区差异",
+        "onboard_time": 1741011021,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249839,
+        "num": 240409,
+        "word": "北上",
+        "onboard_time": 1740993259,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64526,
+        "num": 240322,
+        "word": "国乒体测表情包一截一个准",
+        "onboard_time": 1741011079,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240309,
+        "num": 240309,
+        "word": "aespa演唱会没给宁艺卓打光",
+        "onboard_time": 1741005798,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26095,
+        "num": 209814,
+        "word": "吉利全球首发L3量产方案",
+        "onboard_time": 1741007061,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 204320,
+        "num": 204320,
+        "word": "王鹤棣和大奉原著作者互拍互曝",
+        "onboard_time": 1741012162,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194780,
+        "num": 194780,
+        "word": "云包场",
+        "onboard_time": 1741012279,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189913,
+        "num": 189913,
+        "word": "娜扎美的很全面",
+        "onboard_time": 1741011320,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188370,
+        "num": 188370,
+        "word": "青岛一个人收15块加工费的海鲜烩饼",
+        "onboard_time": 1741004900,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 176967,
+        "num": 176967,
+        "word": "董明珠称挖人是小偷行为",
+        "onboard_time": 1741009339,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 176777,
+        "num": 176777,
+        "word": "杨妞花点燃6000米鞭炮祭拜父母",
+        "onboard_time": 1741001718,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172342,
+        "num": 172342,
+        "word": "白鹿虞书欣新剧或将对打",
+        "onboard_time": 1741004298,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168996,
+        "num": 168996,
+        "word": "建议制定未成年人惩戒法",
+        "onboard_time": 1741007120,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 152534,
+        "num": 152534,
+        "word": "张天爱自曝体重96.4斤",
+        "onboard_time": 1740998777,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150979,
+        "num": 150979,
+        "word": "马柏全 青海",
+        "onboard_time": 1741004358,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146537,
+        "num": 146537,
+        "word": "杨幂把蜜蜂带身上",
+        "onboard_time": 1741012400,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145232,
+        "num": 145232,
+        "word": "北上小演员好多熟人",
+        "onboard_time": 1741009280,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144337,
+        "num": 144337,
+        "word": "甘肃地震",
+        "onboard_time": 1741012460,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139037,
+        "num": 139037,
+        "word": "百变火灵儿的衣橱",
+        "onboard_time": 1741012400,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 134213,
+        "num": 134213,
+        "word": "肖战成毅杨洋三大男主剧四月对打",
+        "onboard_time": 1740991519,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137914,
+        "num": 133162,
+        "word": "杨幂第36部电影",
+        "onboard_time": 1741007419,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131758,
+        "num": 131758,
+        "word": "第一部女A男B的国产剧",
+        "onboard_time": 1741003878,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127293,
+        "num": 127293,
+        "word": "樊振东领取终身保障",
+        "onboard_time": 1741003339,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126979,
+        "num": 126979,
+        "word": "春捂最该捂的3个部位",
+        "onboard_time": 1740996438,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126809,
+        "num": 126809,
+        "word": "狗狗坐电梯也没忘了疼人",
+        "onboard_time": 1741012400,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124008,
+        "num": 124008,
+        "word": "爱你",
+        "onboard_time": 1741002678,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118939,
+        "num": 118939,
+        "word": "田曦薇粉色猫猫头",
+        "onboard_time": 1741010599,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117800,
+        "num": 117800,
+        "word": "丁程鑫被饺子香得冒泡",
+        "onboard_time": 1741010540,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#每一个人都是主角#"
+    }
+  }
+}
