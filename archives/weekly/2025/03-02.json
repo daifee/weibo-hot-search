@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1741099293512,
+  "endTime": 1741101959662,
   "band_list": [
     {
       "raw_hot": 13760834,
@@ -483,8 +483,8 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 993014,
-      "num": 1157658,
+      "raw_hot": 995412,
+      "num": 1159265,
       "word": "雷军回应不锈钢纸杯卖爆",
       "onboard_time": 1741090759,
       "rank": 15,
@@ -715,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 842635,
+      "num": 842635,
+      "word": "82岁老人写在烟盒上的建议获采纳",
+      "onboard_time": 1741096101,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 841980,
       "num": 357294,
       "word": "唐山3.0级地震",
@@ -865,14 +873,6 @@
       "onboard_time": 1741011979,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 751065,
-      "num": 751065,
-      "word": "82岁老人写在烟盒上的建议获采纳",
-      "onboard_time": 1741096101,
-      "rank": 5,
-      "category": "国内时政"
     },
     {
       "raw_hot": 750371,
@@ -1147,6 +1147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 603997,
+      "num": 367435,
+      "word": "G社镜头下周也",
+      "onboard_time": 1741097902,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 603862,
       "num": 603862,
       "word": "雷军仿妆",
@@ -1251,6 +1259,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 583647,
+      "num": 302820,
+      "word": "周也金珉奎合影",
+      "onboard_time": 1741100062,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 583542,
       "num": 530382,
       "word": "井柏然 今天健身房只有我一个人努力",
@@ -1273,6 +1289,14 @@
       "onboard_time": 1740886279,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 576335,
+      "num": 576335,
+      "word": "中医说健不健康看眼睛就知道了",
+      "onboard_time": 1741096222,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 571206,
@@ -1955,6 +1979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 384813,
+      "num": 384813,
+      "word": "苹果发布M3芯片iPadAir",
+      "onboard_time": 1741101082,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
       "raw_hot": 384234,
       "num": 384234,
       "word": "白敬亭演技",
@@ -2033,14 +2065,6 @@
       "onboard_time": 1741058959,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 367435,
-      "num": 367435,
-      "word": "G社镜头下周也",
-      "onboard_time": 1741097902,
-      "rank": 40,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 365947,
@@ -2275,11 +2299,27 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 333680,
+      "num": 300314,
+      "word": "宋亚轩回复",
+      "onboard_time": 1741100421,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 331991,
       "num": 228294,
       "word": "马嘉祺 亚轩生日快乐",
       "onboard_time": 1741086922,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 331238,
+      "num": 331238,
+      "word": "杨紫回应舞蹈走红",
+      "onboard_time": 1741101261,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -2395,6 +2435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 320527,
+      "num": 365853,
+      "word": "网传五哈新一季阵容",
+      "onboard_time": 1741101261,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 319558,
       "num": 276735,
       "word": "00后买二手车做婚车遭家人反对",
@@ -2491,6 +2539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 305016,
+      "num": 300537,
+      "word": "滤镜三部现偶开分最高",
+      "onboard_time": 1741101082,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 304869,
       "num": 268099,
       "word": "女摄影师拍的肖战",
@@ -2569,6 +2625,14 @@
       "onboard_time": 1741066698,
       "rank": 49,
       "category": "网红"
+    },
+    {
+      "raw_hot": 296512,
+      "num": 296512,
+      "word": "欧盟宣布8000亿欧元重新武装欧洲计划",
+      "onboard_time": 1741101141,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 295965,
@@ -2977,14 +3041,6 @@
       "onboard_time": 1740879497,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 259432,
-      "num": 259432,
-      "word": "中医说健不健康看眼睛就知道了",
-      "onboard_time": 1741096222,
-      "rank": 35,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 259277,
@@ -3571,6 +3627,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 214769,
+      "num": 214769,
+      "word": "难哄爷爷戏份",
+      "onboard_time": 1741098922,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214617,
       "num": 343385,
       "word": "林一银赫双人cha",
@@ -3745,6 +3809,14 @@
       "onboard_time": 1740911059,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206235,
+      "num": 206235,
+      "word": "爱吃草莓和芹菜的都沉默了",
+      "onboard_time": 1741101141,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 206026,
@@ -4049,6 +4121,14 @@
       "onboard_time": 1740996378,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197065,
+      "num": 197065,
+      "word": "刘家琨获2025普利兹克建筑奖",
+      "onboard_time": 1741099401,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 196454,
@@ -4411,6 +4491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183758,
+      "num": 326763,
+      "word": "质疑泽连斯基着装的美记者遭死亡威胁",
+      "onboard_time": 1741097842,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 183721,
       "num": 366576,
       "word": "男子16岁起每天1包烟32岁重度心梗",
@@ -4537,6 +4625,14 @@
       "onboard_time": 1741002079,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178619,
+      "num": 178619,
+      "word": "短剧演员背调",
+      "onboard_time": 1741101500,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 178336,
@@ -5267,14 +5363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 155641,
-      "num": 326763,
-      "word": "质疑泽连斯基着装的美记者遭死亡威胁",
-      "onboard_time": 1741097842,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 155420,
       "num": 155420,
       "word": "岳阳市区正猛降冰雹",
@@ -6003,14 +6091,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 139103,
-      "num": 139103,
-      "word": "难哄爷爷戏份",
-      "onboard_time": 1741098922,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 139037,
       "num": 139037,
       "word": "百变火灵儿的衣橱",
@@ -6209,6 +6289,14 @@
       "onboard_time": 1740978501,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133253,
+      "num": 133253,
+      "word": "鞠婧祎演技获赞",
+      "onboard_time": 1741100421,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 132754,
@@ -6425,6 +6513,14 @@
       "onboard_time": 1740970159,
       "rank": 16,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 127299,
+      "num": 367688,
+      "word": "代表建议下放教师职称评审权",
+      "onboard_time": 1741098083,
+      "rank": 34,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 127258,
@@ -6675,6 +6771,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 121536,
+      "num": 211930,
+      "word": "工作群模糊工作生活边界致难休假",
+      "onboard_time": 1741097002,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 121508,
       "num": 141108,
       "word": "章若楠 醉酒戏",
@@ -6697,14 +6801,6 @@
       "onboard_time": 1740970039,
       "rank": 29,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 120893,
-      "num": 367688,
-      "word": "代表建议下放教师职称评审权",
-      "onboard_time": 1741098083,
-      "rank": 34,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 120594,
@@ -7331,6 +7427,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 101174,
+      "num": 304347,
+      "word": "李昀锐首次亮相DIOR大秀",
+      "onboard_time": 1741100360,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 101165,
       "num": 101165,
       "word": "王俊凯重庆胃",
@@ -7897,14 +8001,6 @@
       "onboard_time": 1741001059,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 78758,
-      "num": 211930,
-      "word": "工作群模糊工作生活边界致难休假",
-      "onboard_time": 1741097002,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 78549,
@@ -8811,6 +8907,14 @@
       "category": "国内时政,教育"
     },
     {
+      "raw_hot": 40354,
+      "num": 355417,
+      "word": "全国人大会议发言人娄勤俭向网友打招呼",
+      "onboard_time": 1741088960,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 40064,
       "num": 367528,
       "word": "建议在AI嵌入医疗实践中更加扎实慎重",
@@ -8849,6 +8953,14 @@
       "onboard_time": 1740997220,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 37789,
+      "num": 213861,
+      "word": "郭涛儿子参加北电艺考",
+      "onboard_time": 1741101620,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 37552,
@@ -9203,6 +9315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24073,
+      "num": 223754,
+      "word": "工作群消息变相侵占休息时间",
+      "onboard_time": 1741101620,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 23662,
       "num": 173666,
       "word": "你希望AI机器人代替什么工种",
@@ -9433,6 +9553,14 @@
       "onboard_time": 1740976040,
       "rank": 34,
       "category": "民生新闻,国内时政"
+    },
+    {
+      "raw_hot": 16404,
+      "num": 213438,
+      "word": "如何维护青少年的心理健康",
+      "onboard_time": 1741101141,
+      "rank": 29,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 16075,
