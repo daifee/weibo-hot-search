@@ -1,6 +1,6 @@
 {
   "startTime": 1741019331864,
-  "endTime": 1741088172024,
+  "endTime": 1741092279271,
   "band_list": [
     {
       "raw_hot": 13760834,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2284377,
-      "num": 419902,
+      "num": 419994,
       "word": "韩国财阀有多可怕",
       "onboard_time": 1741083261,
       "rank": 19,
@@ -49,6 +49,14 @@
       "onboard_time": 1741072939,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1386451,
+      "num": 247661,
+      "word": "石头参加北电艺考",
+      "onboard_time": 1741089620,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1352534,
@@ -347,6 +355,22 @@
       "category": "国内时政,互联网"
     },
     {
+      "raw_hot": 560494,
+      "num": 560494,
+      "word": "花旗银行误将81万亿美元转给个人",
+      "onboard_time": 1741090759,
+      "rank": 1,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 557598,
+      "num": 240970,
+      "word": "肖战今天有点太大方了",
+      "onboard_time": 1741090280,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 551696,
       "num": 366427,
       "word": "康师傅冰红茶 林俊杰",
@@ -523,6 +547,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 418825,
+      "num": 418825,
+      "word": "我国AI人才缺口达500万人",
+      "onboard_time": 1741088900,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 408297,
+      "num": 408297,
+      "word": "乌克兰回应美国暂停军援",
+      "onboard_time": 1741087580,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 406819,
       "num": 147347,
       "word": "第一部女A男B的国产剧",
@@ -545,6 +585,14 @@
       "onboard_time": 1741072337,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 379372,
+      "num": 246908,
+      "word": "雷军回应不锈钢纸杯卖爆",
+      "onboard_time": 1741090759,
+      "rank": 15,
+      "category": "互联网"
     },
     {
       "raw_hot": 377019,
@@ -617,6 +665,14 @@
       "onboard_time": 1741084282,
       "rank": 7,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 344339,
+      "num": 246653,
+      "word": "酷酷的滕在难哄二婚了",
+      "onboard_time": 1741087040,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 342804,
@@ -761,14 +817,6 @@
       "onboard_time": 1741066698,
       "rank": 49,
       "category": "网红"
-    },
-    {
-      "raw_hot": 297372,
-      "num": 212477,
-      "word": "酷酷的滕在难哄二婚了",
-      "onboard_time": 1741087040,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 295452,
@@ -955,6 +1003,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 247662,
+      "num": 247662,
+      "word": "张小斐迪丽热巴张艺兴 女足",
+      "onboard_time": 1741091600,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 244878,
       "num": 244878,
       "word": "造型师晒与热巴合影",
@@ -971,12 +1027,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 242372,
+      "num": 242372,
+      "word": "这朵花在故宫开了100多年还没谢",
+      "onboard_time": 1741088060,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 240618,
       "num": 264081,
       "word": "记者调查宠物免费领养陷阱",
       "onboard_time": 1741072218,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 233585,
+      "num": 245244,
+      "word": "徐若晗伴手礼亲手画了漫画",
+      "onboard_time": 1741090400,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 227326,
@@ -1299,6 +1371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182131,
+      "num": 182131,
+      "word": "文淇 无所谓反正老娘很美",
+      "onboard_time": 1741091361,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179460,
       "num": 217790,
       "word": "桑延温以凡同居像异地恋",
@@ -1321,6 +1401,14 @@
       "onboard_time": 1741070898,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175479,
+      "num": 243843,
+      "word": "偶遇肖战在巴塞罗那街边捡糖",
+      "onboard_time": 1741091839,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 175449,
@@ -1385,6 +1473,22 @@
       "onboard_time": 1741085240,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167002,
+      "num": 167002,
+      "word": "李昀锐帅帅的照片来了",
+      "onboard_time": 1741090821,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 165882,
+      "num": 244365,
+      "word": "哪吒2让外国电影院经理惊讶了",
+      "onboard_time": 1741090221,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 165358,
@@ -1643,6 +1747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136116,
+      "num": 136116,
+      "word": "周星驰电影女足网传阵容",
+      "onboard_time": 1741091781,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 134575,
       "num": 121457,
       "word": "aespa演唱会没给宁艺卓打光",
@@ -1747,6 +1859,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127551,
+      "num": 127551,
+      "word": "迪丽热巴谈表演瓶颈",
+      "onboard_time": 1741091120,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 125964,
+      "num": 125964,
+      "word": "爱你",
+      "onboard_time": 1741002678,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125583,
       "num": 165527,
       "word": "李艾晒奔5素颜自拍",
@@ -1827,14 +1955,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 118210,
-      "num": 118210,
-      "word": "这朵花在故宫开了100多年还没谢",
-      "onboard_time": 1741088060,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 117826,
       "num": 339235,
       "word": "刘国梁说要把赛场秩序治理好",
@@ -1872,6 +1992,14 @@
       "word": "原来暧昧拉扯比直接谈甜多了",
       "onboard_time": 1741081103,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 113180,
+      "num": 113180,
+      "word": "第一次在年代剧嗑中年cp",
+      "onboard_time": 1741092082,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -2035,6 +2163,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100119,
+      "num": 100119,
+      "word": "建议增加景区女卫生间坑位",
+      "onboard_time": 1741088840,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 99876,
+      "num": 99876,
+      "word": "虞书欣最适配卫枝的一集",
+      "onboard_time": 1741090580,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 98219,
+      "num": 98219,
+      "word": "蓝盈莹饭撒在真诚面前一文不值",
+      "onboard_time": 1741092260,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 97811,
       "num": 240363,
       "word": "荣耀MWC发布了超Open的AI",
@@ -2163,14 +2315,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 83467,
-      "num": 83467,
-      "word": "爱你",
-      "onboard_time": 1741002678,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 83119,
       "num": 83119,
       "word": "花十几小时做的肉一双筷子就能切开",
@@ -2209,6 +2353,14 @@
       "onboard_time": 1741012400,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 78248,
+      "num": 101199,
+      "word": "刘国梁提国球三进",
+      "onboard_time": 1741090821,
+      "rank": 46,
+      "category": "体育,国内时政"
     },
     {
       "raw_hot": 77111,
@@ -2273,14 +2425,6 @@
       "onboard_time": 1741085780,
       "rank": 26,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 68434,
-      "num": 244604,
-      "word": "乌克兰回应美国暂停军援",
-      "onboard_time": 1741087580,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 67552,
@@ -2641,6 +2785,14 @@
       "onboard_time": 1741022653,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25857,
+      "num": 247383,
+      "word": "政协委员建议加强教育类App监管",
+      "onboard_time": 1741090759,
+      "rank": 14,
+      "category": "国内时政,教育"
     },
     {
       "raw_hot": 25459,
