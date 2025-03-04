@@ -1,6 +1,6 @@
 {
   "startTime": 1741105825822,
-  "endTime": 1741119935925,
+  "endTime": 1741120734200,
   "band_list": [
     {
       "raw_hot": 930407,
@@ -507,7 +507,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 13757,
+      "raw_hot": 15364,
       "num": 16597,
       "word": "周也这个长相我预定了",
       "onboard_time": 1741118290,
@@ -547,7 +547,7 @@
       "category": "国内时政,电影"
     },
     {
-      "raw_hot": 9749,
+      "raw_hot": 10418,
       "num": 33375,
       "word": "人大代表建议出台AI标识管理制度",
       "onboard_time": 1741119371,
