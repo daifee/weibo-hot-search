@@ -1,0 +1,410 @@
+{
+  "runTime": 1741095735681,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 985362,
+        "num": 1157658,
+        "word": "雷军回应不锈钢纸杯卖爆",
+        "onboard_time": 1741090759,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 495021,
+        "num": 495021,
+        "word": "何老师的含金量永远都在上升",
+        "onboard_time": 1741093760,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 21116,
+        "num": 431238,
+        "word": "十四届全国人大三次会议议程",
+        "onboard_time": 1741058898,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 738749,
+        "num": 427104,
+        "word": "韩国财阀有多可怕",
+        "onboard_time": 1741083261,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 420351,
+        "num": 420351,
+        "word": "我国AI人才缺口达500万人",
+        "onboard_time": 1741088900,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 335247,
+        "num": 335247,
+        "word": "哪吒2让外国电影院经理惊讶了",
+        "onboard_time": 1741090221,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 309414,
+        "num": 309414,
+        "word": "迪奥二零二五秋冬女装成衣秀",
+        "onboard_time": 1741093462,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259477,
+        "num": 309367,
+        "word": "DeepSeek等成两会热点",
+        "onboard_time": 1741072397,
+        "rank": 7,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 252756,
+        "num": 308595,
+        "word": "两会",
+        "onboard_time": 1741055659,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 174414,
+        "num": 308415,
+        "word": "建议节假日高速免费延长至次日6时",
+        "onboard_time": 1741093999,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 109315,
+        "num": 307958,
+        "word": "DIOR大秀直击",
+        "onboard_time": 1741093341,
+        "rank": 10,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 812847,
+        "num": 307468,
+        "word": "石头参加北电艺考",
+        "onboard_time": 1741089620,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 783223,
+        "num": 306981,
+        "word": "花旗银行误将81万亿美元转给个人",
+        "onboard_time": 1741090759,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 65306,
+        "num": 306708,
+        "word": "全国两会教育热点",
+        "onboard_time": 1741094419,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 41086,
+        "num": 306251,
+        "word": "建议大力整治占用压减体育课现象",
+        "onboard_time": 1741094419,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 220832,
+        "num": 305826,
+        "word": "建议在全国推行春秋假制度",
+        "onboard_time": 1741072939,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 358642,
+        "num": 305475,
+        "word": "莫文蔚谈方大同去世",
+        "onboard_time": 1741092979,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318124,
+        "num": 305183,
+        "word": "哪吒2闯进全球前7却闯不进宝岛台湾",
+        "onboard_time": 1741085240,
+        "rank": 17,
+        "category": "国内时政,电影"
+      },
+      {
+        "raw_hot": 304898,
+        "num": 304898,
+        "word": "女子7号查出怀孕8号直接就生了",
+        "onboard_time": 1741057397,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51372,
+        "num": 300408,
+        "word": "建议出台全面系统的AI法案",
+        "onboard_time": 1741095080,
+        "rank": 19,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 1531723,
+        "num": 292637,
+        "word": "曝王大陆涉嫌杀人未遂移送侦办",
+        "onboard_time": 1741077081,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 801196,
+        "num": 282531,
+        "word": "张小斐迪丽热巴张艺兴 女足",
+        "onboard_time": 1741091600,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 448091,
+        "num": 278797,
+        "word": "肖战今天有点太大方了",
+        "onboard_time": 1741090280,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271526,
+        "num": 271526,
+        "word": "张淼怡直播",
+        "onboard_time": 1741093043,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268509,
+        "num": 268509,
+        "word": "张博恒生日直播",
+        "onboard_time": 1741095080,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304869,
+        "num": 268099,
+        "word": "女摄影师拍的肖战",
+        "onboard_time": 1741094840,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267572,
+        "num": 267572,
+        "word": "每三个15岁以上男性有一人感染HPV",
+        "onboard_time": 1741081223,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260051,
+        "num": 260051,
+        "word": "难哄 暴烈地吻",
+        "onboard_time": 1741074138,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224601,
+        "num": 224601,
+        "word": "宋亚轩把在非洲拍的照片格式化了",
+        "onboard_time": 1741095261,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63734,
+        "num": 207157,
+        "word": "1.88元考试神器换名再上架",
+        "onboard_time": 1741094121,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206026,
+        "num": 206026,
+        "word": "何苏叶 渣女",
+        "onboard_time": 1741094902,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205157,
+        "num": 205157,
+        "word": "血观音 神作",
+        "onboard_time": 1741080984,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 205137,
+        "num": 205137,
+        "word": "阿朵cos敖闰",
+        "onboard_time": 1741095201,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187151,
+        "num": 187151,
+        "word": "天官赐福广播剧第三季",
+        "onboard_time": 1741094782,
+        "rank": 33,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 187122,
+        "num": 187122,
+        "word": "乌克兰回应美国暂停军援",
+        "onboard_time": 1741087580,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138854,
+        "num": 181175,
+        "word": "金珉锡方控诉KBS不公平待遇",
+        "onboard_time": 1741095623,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178011,
+        "num": 178011,
+        "word": "建议每周上班不超44小时",
+        "onboard_time": 1741093640,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 164436,
+        "num": 164436,
+        "word": "XIUMIN与SM艺人不能同时出演KBS节目",
+        "onboard_time": 1741095442,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161003,
+        "num": 161003,
+        "word": "难哄偷偷藏不住联动",
+        "onboard_time": 1741080505,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159302,
+        "num": 159302,
+        "word": "张真源镜花水月上央视了",
+        "onboard_time": 1741095322,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157570,
+        "num": 157570,
+        "word": "黑执事 绿魔女",
+        "onboard_time": 1741094361,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 156517,
+        "num": 156517,
+        "word": "80%以上患者HPV会在一年内清除",
+        "onboard_time": 1741087220,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 156442,
+        "num": 156442,
+        "word": "你俩都亲过一辈子了害什么羞",
+        "onboard_time": 1741081823,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156340,
+        "num": 156340,
+        "word": "北上",
+        "onboard_time": 1741084702,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153873,
+        "num": 153873,
+        "word": "惠英红 神级演技",
+        "onboard_time": 1741092680,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147903,
+        "num": 147903,
+        "word": "西班牙国王参观中国展台",
+        "onboard_time": 1741094060,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144601,
+        "num": 144601,
+        "word": "酷酷的滕在难哄二婚了",
+        "onboard_time": 1741087040,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66938,
+        "num": 135644,
+        "word": "HPV知晓日4城点亮地标",
+        "onboard_time": 1741095261,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131556,
+        "num": 131556,
+        "word": "滤镜",
+        "onboard_time": 1741086560,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130925,
+        "num": 130925,
+        "word": "哪吒半成品 3.5元一斤",
+        "onboard_time": 1741075161,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#全国政协十四届三次会议开幕#"
+    }
+  }
+}
