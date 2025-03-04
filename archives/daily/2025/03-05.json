@@ -1,6 +1,6 @@
 {
   "startTime": 1741105825822,
-  "endTime": 1741126844154,
+  "endTime": 1741127933913,
   "band_list": [
     {
       "raw_hot": 930407,
@@ -75,8 +75,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 352154,
-      "num": 378863,
+      "raw_hot": 355182,
+      "num": 490231,
       "word": "82岁老人写在烟盒上的建议获采纳",
       "onboard_time": 1741096101,
       "rank": 5,
@@ -147,6 +147,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 212461,
+      "num": 95102,
+      "word": "质疑泽连斯基着装的美记者遭死亡威胁",
+      "onboard_time": 1741097842,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 199541,
       "num": 190088,
       "word": "宋亚轩回复",
@@ -193,14 +201,6 @@
       "onboard_time": 1741095801,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 135358,
-      "num": 95102,
-      "word": "质疑泽连斯基着装的美记者遭死亡威胁",
-      "onboard_time": 1741097842,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 133386,
@@ -411,20 +411,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 78166,
+      "num": 78166,
+      "word": "人大代表建议普及家长学校",
+      "onboard_time": 1741112292,
+      "rank": 9,
+      "category": "国内时政,教育"
+    },
+    {
       "raw_hot": 77020,
       "num": 189249,
       "word": "中方将采取反制措施",
       "onboard_time": 1741103479,
       "rank": 23,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 67948,
-      "num": 67948,
-      "word": "人大代表建议普及家长学校",
-      "onboard_time": 1741112292,
-      "rank": 9,
-      "category": "国内时政,教育"
     },
     {
       "raw_hot": 66486,
@@ -440,6 +440,14 @@
       "word": "重庆动物园回应莽灿灿伤情",
       "onboard_time": 1741108754,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54104,
+      "num": 54104,
+      "word": "3月5日16时7分惊蛰",
+      "onboard_time": 1741110613,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -459,12 +467,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 34596,
-      "num": 34596,
-      "word": "3月5日16时7分惊蛰",
-      "onboard_time": 1741110613,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 33012,
+      "num": 37236,
+      "word": "国台办回应台再封杀7所大陆高校",
+      "onboard_time": 1741116430,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 31921,
+      "num": 37210,
+      "word": "冯远征谈流量演员",
+      "onboard_time": 1741124772,
+      "rank": 37,
+      "category": "艺人,国内时政"
     },
     {
       "raw_hot": 31088,
@@ -484,31 +500,15 @@
     },
     {
       "raw_hot": 26858,
-      "num": 26858,
+      "num": 37179,
       "word": "曾沛慈全身麻醉拿子宫息肉",
       "onboard_time": 1741110193,
       "rank": 37,
       "category": "艺人"
     },
     {
-      "raw_hot": 24745,
-      "num": 24745,
-      "word": "国台办回应台再封杀7所大陆高校",
-      "onboard_time": 1741116430,
-      "rank": 45,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 22769,
-      "num": 22769,
-      "word": "冯远征谈流量演员",
-      "onboard_time": 1741124772,
-      "rank": 37,
-      "category": "艺人,国内时政"
-    },
-    {
-      "raw_hot": 18249,
-      "num": 22578,
+      "raw_hot": 20903,
+      "num": 37089,
       "word": "赵冬苓称DeepSeek写剧本很套路化",
       "onboard_time": 1741122850,
       "rank": 38,
