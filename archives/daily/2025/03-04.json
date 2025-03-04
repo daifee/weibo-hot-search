@@ -1,6 +1,6 @@
 {
   "startTime": 1741019331864,
-  "endTime": 1741093228442,
+  "endTime": 1741095011670,
   "band_list": [
     {
       "raw_hot": 13760834,
@@ -179,12 +179,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 957352,
+      "num": 1153176,
+      "word": "雷军回应不锈钢纸杯卖爆",
+      "onboard_time": 1741090759,
+      "rank": 15,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 943864,
+      "num": 632919,
+      "word": "张小斐迪丽热巴张艺兴 女足",
+      "onboard_time": 1741091600,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 920065,
       "num": 371434,
       "word": "特朗普说不会再容忍更久了",
       "onboard_time": 1741044736,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 912338,
+      "num": 1136991,
+      "word": "花旗银行误将81万亿美元转给个人",
+      "onboard_time": 1741090759,
+      "rank": 1,
+      "category": "财经"
     },
     {
       "raw_hot": 893795,
@@ -241,14 +265,6 @@
       "onboard_time": 1741055958,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 856195,
-      "num": 1136991,
-      "word": "花旗银行误将81万亿美元转给个人",
-      "onboard_time": 1741090759,
-      "rank": 1,
-      "category": "财经"
     },
     {
       "raw_hot": 841980,
@@ -339,14 +355,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 632919,
-      "num": 632919,
-      "word": "张小斐迪丽热巴张艺兴 女足",
-      "onboard_time": 1741091600,
-      "rank": 9,
-      "category": "电影"
-    },
-    {
       "raw_hot": 617461,
       "num": 617461,
       "word": "两会",
@@ -369,14 +377,6 @@
       "onboard_time": 1741021215,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 581745,
-      "num": 290418,
-      "word": "雷军回应不锈钢纸杯卖爆",
-      "onboard_time": 1741090759,
-      "rank": 15,
-      "category": "互联网"
     },
     {
       "raw_hot": 569972,
@@ -595,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 392200,
+      "num": 248634,
+      "word": "莫文蔚谈方大同去世",
+      "onboard_time": 1741092979,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 387570,
       "num": 351186,
       "word": "秦昊米粒为伊能静庆生",
@@ -747,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 327651,
+      "num": 327651,
+      "word": "哪吒2让外国电影院经理惊讶了",
+      "onboard_time": 1741090221,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 327604,
       "num": 235535,
       "word": "为什么总在凌晨三四点醒来",
@@ -784,6 +800,14 @@
       "word": "文泰一拘捕令被驳回",
       "onboard_time": 1741072577,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 305730,
+      "num": 246318,
+      "word": "张淼怡直播",
+      "onboard_time": 1741093043,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -987,12 +1011,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 253035,
-      "num": 198659,
-      "word": "莫文蔚谈方大同去世",
-      "onboard_time": 1741092979,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 252882,
+      "num": 252882,
+      "word": "何老师的含金量永远都在上升",
+      "onboard_time": 1741093760,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 252401,
@@ -1017,6 +1041,14 @@
       "onboard_time": 1741066099,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 245593,
+      "num": 245593,
+      "word": "迪奥二零二五秋冬女装成衣秀",
+      "onboard_time": 1741093462,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 244878,
@@ -1097,6 +1129,14 @@
       "onboard_time": 1741070058,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 223823,
+      "num": 244183,
+      "word": "女摄影师拍的肖战",
+      "onboard_time": 1741094840,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 222734,
@@ -1267,14 +1307,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 205185,
-      "num": 297484,
-      "word": "哪吒2让外国电影院经理惊讶了",
-      "onboard_time": 1741090221,
-      "rank": 22,
-      "category": "电影"
-    },
-    {
       "raw_hot": 203458,
       "num": 338222,
       "word": "蔡根花容珮一起在北上摆摊",
@@ -1316,7 +1348,7 @@
     },
     {
       "raw_hot": 196149,
-      "num": 229852,
+      "num": 233461,
       "word": "北上",
       "onboard_time": 1740993259,
       "rank": 32,
@@ -1371,6 +1403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187969,
+      "num": 187969,
+      "word": "天官赐福广播剧第三季",
+      "onboard_time": 1741094782,
+      "rank": 31,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 187349,
       "num": 314167,
       "word": "全国政协十四届三次会议今日开幕",
@@ -1393,6 +1433,14 @@
       "onboard_time": 1741072697,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 182706,
+      "num": 182706,
+      "word": "惠英红 神级演技",
+      "onboard_time": 1741092680,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 182579,
@@ -1547,6 +1595,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 163364,
+      "num": 163364,
+      "word": "建议每周上班不超44小时",
+      "onboard_time": 1741093640,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 157817,
       "num": 157817,
       "word": "女子长白山漂流时落水失联近24小时",
@@ -1611,6 +1667,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 151693,
+      "num": 151693,
+      "word": "西班牙国王参观中国展台",
+      "onboard_time": 1741094060,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 151323,
       "num": 151323,
       "word": "林俊杰黑粉未道歉被公告",
@@ -1665,6 +1729,14 @@
       "onboard_time": 1741073897,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 148947,
+      "num": 148947,
+      "word": "黑执事 绿魔女",
+      "onboard_time": 1741094361,
+      "rank": 38,
+      "category": "动漫"
     },
     {
       "raw_hot": 148021,
@@ -1843,12 +1915,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 132143,
-      "num": 132143,
-      "word": "惠英红 神级演技",
-      "onboard_time": 1741092680,
-      "rank": 43,
-      "category": "作品衍生"
+      "raw_hot": 130822,
+      "num": 130822,
+      "word": "何苏叶 渣女",
+      "onboard_time": 1741094902,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 130106,
@@ -1889,6 +1961,14 @@
       "onboard_time": 1741049059,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 129065,
+      "num": 250571,
+      "word": "DIOR大秀直击",
+      "onboard_time": 1741093341,
+      "rank": 10,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 128079,
@@ -2017,6 +2097,14 @@
       "onboard_time": 1741086140,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117503,
+      "num": 131134,
+      "word": "恋与深空打击各类违规行为",
+      "onboard_time": 1741089501,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 116988,
@@ -2443,6 +2531,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 73344,
+      "num": 251151,
+      "word": "建议节假日高速免费延长至次日6时",
+      "onboard_time": 1741093999,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 71041,
       "num": 202498,
       "word": "东契奇为欧文祈祷",
@@ -2475,6 +2571,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 67629,
+      "num": 249468,
+      "word": "全国两会教育热点",
+      "onboard_time": 1741094419,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 67552,
       "num": 67552,
       "word": "马柏全 青海",
@@ -2489,14 +2593,6 @@
       "onboard_time": 1741012162,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 66206,
-      "num": 168069,
-      "word": "张淼怡直播",
-      "onboard_time": 1741093043,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 65548,
@@ -2617,6 +2713,14 @@
       "onboard_time": 1741064599,
       "rank": 29,
       "category": "艺人,剧集"
+    },
+    {
+      "raw_hot": 55466,
+      "num": 232749,
+      "word": "1.88元考试神器换名再上架",
+      "onboard_time": 1741094121,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55359,
@@ -2817,6 +2921,14 @@
       "onboard_time": 1741069278,
       "rank": 27,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 31139,
+      "num": 249122,
+      "word": "建议大力整治占用压减体育课现象",
+      "onboard_time": 1741094419,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 30299,
