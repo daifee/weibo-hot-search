@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1741080315218,
+  "endTime": 1741081157004,
   "band_list": [
     {
       "raw_hot": 13760834,
@@ -707,6 +707,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 799106,
+      "num": 571152,
+      "word": "哪吒半成品 3.5元一斤",
+      "onboard_time": 1741075161,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 796758,
       "num": 706259,
       "word": "难哄 投影仪镜头",
@@ -953,14 +961,6 @@
       "onboard_time": 1740884059,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 627687,
-      "num": 571152,
-      "word": "哪吒半成品 3.5元一斤",
-      "onboard_time": 1741075161,
-      "rank": 16,
-      "category": "幽默"
     },
     {
       "raw_hot": 627685,
@@ -1331,6 +1331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 519240,
+      "num": 281393,
+      "word": "电影血观音",
+      "onboard_time": 1741078886,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 518191,
       "num": 518191,
       "word": "贵女",
@@ -1353,14 +1361,6 @@
       "onboard_time": 1740910940,
       "rank": 35,
       "category": "健康医疗,健康医疗"
-    },
-    {
-      "raw_hot": 502303,
-      "num": 236477,
-      "word": "电影血观音",
-      "onboard_time": 1741078886,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 498093,
@@ -2348,7 +2348,7 @@
     },
     {
       "raw_hot": 290605,
-      "num": 243827,
+      "num": 251043,
       "word": "肖战 小站记",
       "onboard_time": 1741077143,
       "rank": 22,
@@ -2547,8 +2547,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 268380,
+      "num": 268380,
+      "word": "朱丹晒周一围与儿子背影照",
+      "onboard_time": 1741079725,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 268364,
-      "num": 226656,
+      "num": 241760,
       "word": "费翔 养猫的人都懂",
       "onboard_time": 1741075819,
       "rank": 20,
@@ -3019,6 +3027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222092,
+      "num": 287655,
+      "word": "建议统一公布全国禁养犬大型犬名录",
+      "onboard_time": 1741079905,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 221873,
       "num": 337818,
       "word": "冰红茶代言人程潇",
@@ -3169,14 +3185,6 @@
       "onboard_time": 1740875897,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 211069,
-      "num": 206926,
-      "word": "朱丹晒周一围与儿子背影照",
-      "onboard_time": 1741079725,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 210552,
@@ -3408,6 +3416,14 @@
       "word": "蔡根花容珮一起在北上摆摊",
       "onboard_time": 1741061358,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 203246,
+      "num": 203246,
+      "word": "难哄偷偷藏不住联动",
+      "onboard_time": 1741080505,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -3673,6 +3689,14 @@
       "onboard_time": 1740994159,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192882,
+      "num": 192882,
+      "word": "罗云熙抹额",
+      "onboard_time": 1741080626,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 192607,
@@ -4083,6 +4107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 175005,
+      "num": 273745,
+      "word": "张凌赫演技",
+      "onboard_time": 1740940512,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174867,
       "num": 174867,
       "word": "原来暖暖的穿搭是有分数的",
@@ -4425,6 +4457,14 @@
       "onboard_time": 1740986539,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162773,
+      "num": 272374,
+      "word": "建议男性可申请6个月育儿假",
+      "onboard_time": 1741080204,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 162737,
@@ -4795,14 +4835,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 151506,
-      "num": 229279,
-      "word": "张凌赫演技",
-      "onboard_time": 1740940512,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 151342,
       "num": 151342,
       "word": "曲阜师范大学 贩卖机提供卫生巾",
@@ -4873,6 +4905,14 @@
       "onboard_time": 1741020015,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149840,
+      "num": 149840,
+      "word": "血观音 神作",
+      "onboard_time": 1741080984,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 149839,
@@ -5089,6 +5129,14 @@
       "onboard_time": 1740907339,
       "rank": 46,
       "category": "美妆,互联网"
+    },
+    {
+      "raw_hot": 144751,
+      "num": 144751,
+      "word": "中国的芬太尼类物质管控白皮书发布",
+      "onboard_time": 1741080684,
+      "rank": 36,
+      "category": "国内时政,健康医疗"
     },
     {
       "raw_hot": 144692,
@@ -5505,6 +5553,14 @@
       "onboard_time": 1740978501,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132165,
+      "num": 146734,
+      "word": "王安宇支持刘浩存电影",
+      "onboard_time": 1741078225,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 131917,
@@ -6121,6 +6177,14 @@
       "onboard_time": 1741015279,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113407,
+      "num": 113407,
+      "word": "原来暧昧拉扯比直接谈甜多了",
+      "onboard_time": 1741081103,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 113049,
@@ -6795,6 +6859,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 89668,
+      "num": 269085,
+      "word": "美方如果执意打关税战中方奉陪到底",
+      "onboard_time": 1741080743,
+      "rank": 20,
+      "category": "国际时政,国内时政"
+    },
+    {
       "raw_hot": 89482,
       "num": 1395894,
       "word": "中国制造硬核出圈",
@@ -6841,6 +6913,14 @@
       "onboard_time": 1741018218,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86798,
+      "num": 271795,
+      "word": "未来人形机器人或只需一台手机钱",
+      "onboard_time": 1741080084,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86568,
@@ -6977,6 +7057,14 @@
       "onboard_time": 1740962000,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80880,
+      "num": 279537,
+      "word": "脑机接口有望缩短25%入睡时间",
+      "onboard_time": 1741080144,
+      "rank": 28,
+      "category": "国内时政,健康医疗"
     },
     {
       "raw_hot": 79882,
@@ -7803,14 +7891,6 @@
       "category": "国内时政,教育"
     },
     {
-      "raw_hot": 40178,
-      "num": 228557,
-      "word": "未来人形机器人或只需一台手机钱",
-      "onboard_time": 1741080084,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 39257,
       "num": 149318,
       "word": "唐九洲苏叶哥打扰了臣告退",
@@ -8171,14 +8251,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 23619,
-      "num": 242070,
-      "word": "建议统一公布全国禁养犬大型犬名录",
-      "onboard_time": 1741079905,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23383,
       "num": 146387,
       "word": "粉色汉堡出片的神",
@@ -8411,14 +8483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 15454,
-      "num": 210644,
-      "word": "脑机接口有望缩短25%入睡时间",
-      "onboard_time": 1741080144,
-      "rank": 28,
-      "category": "国内时政,健康医疗"
-    },
-    {
       "raw_hot": 15133,
       "num": 67967,
       "word": "他守护国宝躲过日寇劫掠",
@@ -8513,14 +8577,6 @@
       "onboard_time": 1741059917,
       "rank": 42,
       "category": "美食"
-    },
-    {
-      "raw_hot": 12023,
-      "num": 153955,
-      "word": "建议男性可申请6个月育儿假",
-      "onboard_time": 1741080204,
-      "rank": 35,
-      "category": "国内时政"
     },
     {
       "raw_hot": 11521,
