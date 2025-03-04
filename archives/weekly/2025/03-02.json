@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1741044968463,
+  "endTime": 1741052823705,
   "band_list": [
     {
       "raw_hot": 3194275,
@@ -188,11 +188,19 @@
     },
     {
       "raw_hot": 1352534,
-      "num": 172846,
+      "num": 196660,
       "word": "日本大爷掉进下水道35天未获救",
       "onboard_time": 1741016059,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1324807,
+      "num": 1324807,
+      "word": "美国返还41件中国文物艺术品",
+      "onboard_time": 1741046597,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1323741,
@@ -283,12 +291,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1111121,
+      "num": 209940,
+      "word": "任重孙骁骁带孩子吃早餐",
+      "onboard_time": 1741048159,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1109682,
       "num": 1109682,
       "word": "奥斯卡主持人说中文",
       "onboard_time": 1740967339,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1077440,
+      "num": 205811,
+      "word": "朴槿惠在私宅会见韩执政党领导层",
+      "onboard_time": 1741047020,
+      "rank": 11,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1058085,
@@ -379,6 +403,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 920065,
+      "num": 203247,
+      "word": "特朗普说不会再容忍更久了",
+      "onboard_time": 1741044736,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 906373,
       "num": 906373,
       "word": "北上收视率",
@@ -443,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 864849,
+      "num": 314421,
+      "word": "泽连斯基自拍视频发声明",
+      "onboard_time": 1741046597,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 845442,
       "num": 754781,
       "word": "美官员称乌团队几乎都哭了",
@@ -484,7 +524,7 @@
     },
     {
       "raw_hot": 816478,
-      "num": 119951,
+      "num": 188694,
       "word": "刘耀文",
       "onboard_time": 1741021454,
       "rank": 11,
@@ -715,12 +755,28 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 641140,
+      "num": 641140,
+      "word": "大侦探 IP对撞",
+      "onboard_time": 1741047138,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 638241,
       "num": 638241,
       "word": "山东最大积雪深度已达8厘米",
       "onboard_time": 1740903319,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 635810,
+      "num": 176050,
+      "word": "夜旅人 男主换脸",
+      "onboard_time": 1741044796,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 630316,
@@ -900,7 +956,7 @@
     },
     {
       "raw_hot": 582863,
-      "num": 121288,
+      "num": 182919,
       "word": "女子按摩肩颈后急性脑梗死进了ICU",
       "onboard_time": 1741021215,
       "rank": 13,
@@ -1467,6 +1523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 361875,
+      "num": 172035,
+      "word": "身体好的人肚子是软软的",
+      "onboard_time": 1741018697,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 356793,
       "num": 356793,
       "word": "被吵醒的小猫变成了申公豹",
@@ -1611,12 +1675,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 328384,
+      "num": 328384,
+      "word": "滤镜乱成一锅粥了快吃了吧",
+      "onboard_time": 1741013420,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 328360,
       "num": 246823,
       "word": "一张机票的事不要再wait",
       "onboard_time": 1740998658,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 327979,
+      "num": 186632,
+      "word": "垃圾堆下惊现商朝黄金面具",
+      "onboard_time": 1741046297,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 325245,
@@ -1795,6 +1875,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 293803,
+      "num": 169491,
+      "word": "为什么总在凌晨三四点醒来",
+      "onboard_time": 1741049718,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 291242,
       "num": 291242,
       "word": "钟楚曦新剧短发造型",
@@ -1803,12 +1891,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 291208,
+      "num": 177196,
+      "word": "伊能静开始向往六十岁的自己",
+      "onboard_time": 1741047378,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 291060,
       "num": 291060,
       "word": "机器狗在泰山入职了",
       "onboard_time": 1740923660,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 290963,
+      "num": 290963,
+      "word": "哪吒2",
+      "onboard_time": 1741048879,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 290276,
@@ -2113,14 +2217,6 @@
       "onboard_time": 1741004298,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 244266,
-      "num": 131650,
-      "word": "身体好的人肚子是软软的",
-      "onboard_time": 1741018697,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 241107,
@@ -2500,7 +2596,7 @@
     },
     {
       "raw_hot": 207889,
-      "num": 111407,
+      "num": 126499,
       "word": "张真源",
       "onboard_time": 1741022773,
       "rank": 14,
@@ -3307,14 +3403,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 170336,
-      "num": 170336,
-      "word": "滤镜乱成一锅粥了快吃了吧",
-      "onboard_time": 1741013420,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 169538,
       "num": 169538,
       "word": "宋亚轩港风小卷毛",
@@ -3457,6 +3545,14 @@
       "onboard_time": 1741000039,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164263,
+      "num": 164263,
+      "word": "网民捏造传播80后虚假死亡率",
+      "onboard_time": 1741050379,
+      "rank": 25,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 164254,
@@ -3707,6 +3803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156279,
+      "num": 156279,
+      "word": "为什么下腹部的脂肪难减",
+      "onboard_time": 1741051578,
+      "rank": 26,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 156033,
       "num": 156033,
       "word": "弄乱小猫刚舔好的毛后它的反应",
@@ -3811,6 +3915,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 153455,
+      "num": 214842,
+      "word": "60秒看会功夫的中国机器人",
+      "onboard_time": 1741052058,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 152874,
       "num": 162932,
       "word": "福州冰雹",
@@ -3843,6 +3955,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 151743,
+      "num": 151743,
+      "word": "淘宝 奇迹暖暖",
+      "onboard_time": 1741050379,
+      "rank": 27,
+      "category": "游戏,互联网"
+    },
+    {
       "raw_hot": 151715,
       "num": 171795,
       "word": "湖南即将进入寒潮发威最强时段",
@@ -3867,12 +3987,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151264,
+      "num": 151264,
+      "word": "北京套内80平米的家",
+      "onboard_time": 1741045097,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150996,
       "num": 150996,
       "word": "肖战粉丝G社生图",
       "onboard_time": 1740888859,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 150955,
+      "num": 150955,
+      "word": "三月下雪",
+      "onboard_time": 1741048040,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150507,
@@ -4307,6 +4443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 137087,
+      "num": 137087,
+      "word": "习惯性反问是看不见的暴力",
+      "onboard_time": 1741046658,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 136865,
       "num": 136865,
       "word": "TOP登陆少年女装",
@@ -4683,6 +4827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 124730,
+      "num": 124730,
+      "word": "特朗普要看泽连斯基表现",
+      "onboard_time": 1741050439,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 124556,
       "num": 124556,
       "word": "赵丽颖起诉多家公司侵犯人格权",
@@ -4803,6 +4955,14 @@
       "category": "演出,艺人"
     },
     {
+      "raw_hot": 118296,
+      "num": 118296,
+      "word": "马龙一边聊天一边淡定开测",
+      "onboard_time": 1741051220,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118288,
       "num": 317864,
       "word": "甜茶金小妹奥斯卡接吻",
@@ -4873,6 +5033,14 @@
       "onboard_time": 1740920360,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 116033,
+      "num": 164720,
+      "word": "网易游戏发文致歉",
+      "onboard_time": 1741049059,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 115600,
@@ -5083,6 +5251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106144,
+      "num": 106144,
+      "word": "加拿大准备好对美一系列报复",
+      "onboard_time": 1741051757,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 106131,
       "num": 293870,
       "word": "养老规划师招聘号称月入十万",
@@ -5115,11 +5291,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 104477,
+      "num": 104477,
+      "word": "53岁爸爸带女儿走出抑郁症的一天",
+      "onboard_time": 1741044856,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 104316,
       "num": 104316,
       "word": "男子网恋转40万发现女友竟已婚",
       "onboard_time": 1740906318,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104051,
+      "num": 104051,
+      "word": "寻古中国",
+      "onboard_time": 1741047198,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -5145,6 +5337,14 @@
       "onboard_time": 1740891320,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103518,
+      "num": 103518,
+      "word": "武汉科研团队用藕实现重塑肉身",
+      "onboard_time": 1741047620,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 103225,
@@ -5235,6 +5435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99397,
+      "num": 99397,
+      "word": "美暂停对乌的军事援助",
+      "onboard_time": 1741048520,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 99018,
       "num": 192030,
       "word": "勇士没巴特勒真不行",
@@ -5259,14 +5467,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 97514,
-      "num": 66917,
-      "word": "特朗普说不会再容忍更久了",
-      "onboard_time": 1741044736,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 97372,
       "num": 97372,
       "word": "河南这个庙会太震撼了",
@@ -5289,6 +5489,14 @@
       "onboard_time": 1740992779,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97012,
+      "num": 97012,
+      "word": "恋与深空",
+      "onboard_time": 1740880216,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 96536,
@@ -5345,6 +5553,14 @@
       "onboard_time": 1741019597,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95022,
+      "num": 95022,
+      "word": "英伟达大跌超8%",
+      "onboard_time": 1741050740,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 94280,
@@ -5531,12 +5747,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 85864,
-      "num": 85864,
-      "word": "恋与深空",
-      "onboard_time": 1740880216,
-      "rank": 44,
-      "category": "游戏"
+      "raw_hot": 85741,
+      "num": 95308,
+      "word": "饺子导演破亿海报手稿一次看个够",
+      "onboard_time": 1741051699,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 85724,
@@ -6075,14 +6291,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 50866,
-      "num": 50866,
-      "word": "夜旅人 男主换脸",
-      "onboard_time": 1741044796,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 50112,
       "num": 50112,
       "word": "你认为哪吒2票房能超150亿吗",
@@ -6257,14 +6465,6 @@
       "onboard_time": 1741043296,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 44907,
-      "num": 44907,
-      "word": "53岁爸爸带女儿走出抑郁症的一天",
-      "onboard_time": 1741044856,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 43653,
