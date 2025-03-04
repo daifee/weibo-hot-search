@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1741077834084,
+  "endTime": 1741080315218,
   "band_list": [
     {
       "raw_hot": 13760834,
@@ -955,6 +955,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 627687,
+      "num": 571152,
+      "word": "哪吒半成品 3.5元一斤",
+      "onboard_time": 1741075161,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 627685,
       "num": 627685,
       "word": "北上开播",
@@ -1155,6 +1163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 569972,
+      "num": 569972,
+      "word": "DeepSeek等成两会热点",
+      "onboard_time": 1741072397,
+      "rank": 3,
+      "category": "国内时政,互联网"
+    },
+    {
       "raw_hot": 566464,
       "num": 537570,
       "word": "哪吒2票房超145亿",
@@ -1337,6 +1353,14 @@
       "onboard_time": 1740910940,
       "rank": 35,
       "category": "健康医疗,健康医疗"
+    },
+    {
+      "raw_hot": 502303,
+      "num": 236477,
+      "word": "电影血观音",
+      "onboard_time": 1741078886,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 498093,
@@ -1571,14 +1595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 422549,
-      "num": 422549,
-      "word": "哪吒半成品 3.5元一斤",
-      "onboard_time": 1741075161,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 421634,
       "num": 343476,
       "word": "雷军建议优化新能源汽车号牌设计",
@@ -1601,14 +1617,6 @@
       "onboard_time": 1741004358,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 419751,
-      "num": 419751,
-      "word": "DeepSeek等成两会热点",
-      "onboard_time": 1741072397,
-      "rank": 3,
-      "category": "国内时政,互联网"
     },
     {
       "raw_hot": 415990,
@@ -1936,6 +1944,14 @@
       "word": "李一桐李昀锐 我欲乘风",
       "onboard_time": 1740919279,
       "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 342804,
+      "num": 360554,
+      "word": "章若楠在用你美丽的脸蛋干什么",
+      "onboard_time": 1741076239,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -2331,6 +2347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 290605,
+      "num": 243827,
+      "word": "肖战 小站记",
+      "onboard_time": 1741077143,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 290276,
       "num": 290276,
       "word": "周深回复郎平",
@@ -2523,6 +2547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 268364,
+      "num": 226656,
+      "word": "费翔 养猫的人都懂",
+      "onboard_time": 1741075819,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 267809,
       "num": 259609,
       "word": "李昀锐巴黎时装周",
@@ -2699,14 +2731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 247014,
-      "num": 360554,
-      "word": "章若楠在用你美丽的脸蛋干什么",
-      "onboard_time": 1741076239,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 246826,
       "num": 227449,
       "word": "白鹿虞书欣新剧或将对打",
@@ -2721,14 +2745,6 @@
       "onboard_time": 1741070297,
       "rank": 36,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 243827,
-      "num": 243827,
-      "word": "肖战 小站记",
-      "onboard_time": 1741077143,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 243109,
@@ -2913,6 +2929,14 @@
       "onboard_time": 1740977962,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 226053,
+      "num": 226053,
+      "word": "通过DeepSeek兴起可看到中国的创新性和包容性",
+      "onboard_time": 1741068977,
+      "rank": 35,
+      "category": "国内时政,互联网"
     },
     {
       "raw_hot": 225803,
@@ -3123,14 +3147,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 213128,
-      "num": 213128,
-      "word": "费翔 养猫的人都懂",
-      "onboard_time": 1741075819,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 213092,
       "num": 213092,
       "word": "徐若晗张凌赫吻戏",
@@ -3153,6 +3169,14 @@
       "onboard_time": 1740875897,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 211069,
+      "num": 206926,
+      "word": "朱丹晒周一围与儿子背影照",
+      "onboard_time": 1741079725,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 210552,
@@ -3611,14 +3635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 194591,
-      "num": 194591,
-      "word": "通过DeepSeek兴起可看到中国的创新性和包容性",
-      "onboard_time": 1741068977,
-      "rank": 35,
-      "category": "国内时政,互联网"
-    },
-    {
       "raw_hot": 194513,
       "num": 286757,
       "word": "北上收视",
@@ -3963,6 +3979,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 179460,
+      "num": 217790,
+      "word": "桑延温以凡同居像异地恋",
+      "onboard_time": 1741079427,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178788,
       "num": 297344,
       "word": "小米15Ultra海外售价超iPhone",
@@ -4153,6 +4177,14 @@
       "onboard_time": 1741013120,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 170718,
+      "num": 359420,
+      "word": "建议房租年涨幅不得超过5%",
+      "onboard_time": 1741077022,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 169538,
@@ -4659,6 +4691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154532,
+      "num": 216837,
+      "word": "黄子弘凡这段的控场力",
+      "onboard_time": 1741079246,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 154442,
       "num": 154442,
       "word": "何老师眼里是真有活儿",
@@ -4681,6 +4721,14 @@
       "onboard_time": 1740974060,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 153753,
+      "num": 153753,
+      "word": "刘令姿鹤系美人",
+      "onboard_time": 1741075819,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 153614,
@@ -4745,6 +4793,14 @@
       "onboard_time": 1740918921,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151506,
+      "num": 229279,
+      "word": "张凌赫演技",
+      "onboard_time": 1740940512,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 151342,
@@ -4884,7 +4940,7 @@
     },
     {
       "raw_hot": 148021,
-      "num": 192292,
+      "num": 231569,
       "word": "迪丽热巴时装杂志采访",
       "onboard_time": 1741075701,
       "rank": 23,
@@ -5176,6 +5232,14 @@
       "word": "三峡小狗山走红",
       "onboard_time": 1740874157,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140694,
+      "num": 140694,
+      "word": "广东人被冷空气放鸽子了",
+      "onboard_time": 1741078587,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -5483,6 +5547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 130106,
+      "num": 130106,
+      "word": "肖战白背心live",
+      "onboard_time": 1741079963,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 129728,
       "num": 129728,
       "word": "毕业后档案放在哪",
@@ -5499,8 +5571,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 129517,
-      "num": 129517,
+      "raw_hot": 129631,
+      "num": 129631,
       "word": "两会小课件",
       "onboard_time": 1741071497,
       "rank": 38,
@@ -5843,6 +5915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121421,
+      "num": 121421,
+      "word": "年轻人购车不再盲目选择智能化",
+      "onboard_time": 1741077685,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 120930,
       "num": 201570,
       "word": "这种让牙齿易脱落的病被很多年轻人忽视",
@@ -5865,14 +5945,6 @@
       "onboard_time": 1740895640,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 119949,
-      "num": 119949,
-      "word": "刘令姿鹤系美人",
-      "onboard_time": 1741075819,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 119693,
@@ -5993,6 +6065,14 @@
       "onboard_time": 1740920360,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 115903,
+      "num": 115903,
+      "word": "总制片人肯定刘诗诗对剧集加成",
+      "onboard_time": 1741080204,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 115600,
@@ -6369,14 +6449,6 @@
       "onboard_time": 1741047620,
       "rank": 44,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 103269,
-      "num": 103269,
-      "word": "年轻人购车不再盲目选择智能化",
-      "onboard_time": 1741077685,
-      "rank": 49,
-      "category": "汽车"
     },
     {
       "raw_hot": 103225,
@@ -7267,20 +7339,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62041,
+      "num": 209249,
+      "word": "代表呼吁为全职妈妈设妈妈岗",
+      "onboard_time": 1741079125,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 61443,
       "num": 61443,
       "word": "严浩翔ccd胶片照",
       "onboard_time": 1741017257,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 60971,
-      "num": 359420,
-      "word": "建议房租年涨幅不得超过5%",
-      "onboard_time": 1741077022,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 60799,
@@ -7731,6 +7803,14 @@
       "category": "国内时政,教育"
     },
     {
+      "raw_hot": 40178,
+      "num": 228557,
+      "word": "未来人形机器人或只需一台手机钱",
+      "onboard_time": 1741080084,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39257,
       "num": 149318,
       "word": "唐九洲苏叶哥打扰了臣告退",
@@ -8011,14 +8091,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 25881,
-      "num": 25881,
-      "word": "张凌赫演技",
-      "onboard_time": 1740940512,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 25697,
       "num": 176174,
       "word": "当地称将尽全力帮助李坤朋家人",
@@ -8097,6 +8169,14 @@
       "onboard_time": 1741070177,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 23619,
+      "num": 242070,
+      "word": "建议统一公布全国禁养犬大型犬名录",
+      "onboard_time": 1741079905,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23383,
@@ -8331,6 +8411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15454,
+      "num": 210644,
+      "word": "脑机接口有望缩短25%入睡时间",
+      "onboard_time": 1741080144,
+      "rank": 28,
+      "category": "国内时政,健康医疗"
+    },
+    {
       "raw_hot": 15133,
       "num": 67967,
       "word": "他守护国宝躲过日寇劫掠",
@@ -8425,6 +8513,14 @@
       "onboard_time": 1741059917,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 12023,
+      "num": 153955,
+      "word": "建议男性可申请6个月育儿假",
+      "onboard_time": 1741080204,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 11521,
