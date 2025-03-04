@@ -1,6 +1,6 @@
 {
   "startTime": 1741019331864,
-  "endTime": 1741095735681,
+  "endTime": 1741098156044,
   "band_list": [
     {
       "raw_hot": 13760834,
@@ -20,11 +20,19 @@
     },
     {
       "raw_hot": 2284377,
-      "num": 550772,
+      "num": 890091,
       "word": "韩国财阀有多可怕",
       "onboard_time": 1741083261,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1761268,
+      "num": 1761268,
+      "word": "何老师的含金量永远都在上升",
+      "onboard_time": 1741093760,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1730704,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 1386451,
-      "num": 307468,
+      "num": 354921,
       "word": "石头参加北电艺考",
       "onboard_time": 1741089620,
       "rank": 10,
@@ -115,6 +123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1136712,
+      "num": 358698,
+      "word": "张淼怡直播回应整容",
+      "onboard_time": 1741096041,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1111121,
       "num": 367093,
       "word": "任重孙骁骁带孩子吃早餐",
@@ -155,7 +171,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 985362,
+      "raw_hot": 993014,
       "num": 1157658,
       "word": "雷军回应不锈钢纸杯卖爆",
       "onboard_time": 1741090759,
@@ -332,7 +348,7 @@
     },
     {
       "raw_hot": 639066,
-      "num": 278797,
+      "num": 343511,
       "word": "肖战今天有点太大方了",
       "onboard_time": 1741090280,
       "rank": 28,
@@ -377,6 +393,14 @@
       "onboard_time": 1741021215,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 580509,
+      "num": 580509,
+      "word": "年代剧都演到李宇春了",
+      "onboard_time": 1741095982,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 569972,
@@ -441,14 +465,6 @@
       "onboard_time": 1741088900,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 495021,
-      "num": 495021,
-      "word": "何老师的含金量永远都在上升",
-      "onboard_time": 1741093760,
-      "rank": 7,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 478554,
@@ -523,6 +539,14 @@
       "category": "动漫,电影"
     },
     {
+      "raw_hot": 445914,
+      "num": 445914,
+      "word": "82岁老人写在烟盒上的建议获采纳",
+      "onboard_time": 1741096101,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 439132,
       "num": 280780,
       "word": "为什么下腹部的脂肪难减",
@@ -547,6 +571,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 434912,
+      "num": 352849,
+      "word": "宋亚轩把在非洲拍的照片格式化了",
+      "onboard_time": 1741095261,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 431776,
       "num": 329695,
       "word": "难哄车兴德上线",
@@ -561,6 +593,14 @@
       "onboard_time": 1741080505,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 424010,
+      "num": 424010,
+      "word": "建议节假日高速免费延长至次日6时",
+      "onboard_time": 1741093999,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 421634,
@@ -604,7 +644,7 @@
     },
     {
       "raw_hot": 392200,
-      "num": 305475,
+      "num": 334419,
       "word": "莫文蔚谈方大同去世",
       "onboard_time": 1741092979,
       "rank": 30,
@@ -675,6 +715,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 355721,
+      "num": 355721,
+      "word": "西藏雪崩115人被困全部获救",
+      "onboard_time": 1741095801,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 352769,
+      "num": 352769,
+      "word": "哪吒2让外国电影院经理惊讶了",
+      "onboard_time": 1741090221,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 350286,
       "num": 350286,
       "word": "孙颖莎入选澳门世界杯邀请名单",
@@ -699,6 +755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 343063,
+      "num": 343063,
+      "word": "XIUMIN与SM艺人不能同时出演KBS节目",
+      "onboard_time": 1741095442,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 342804,
       "num": 360554,
       "word": "章若楠在用你美丽的脸蛋干什么",
@@ -721,14 +785,6 @@
       "onboard_time": 1741008139,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 335247,
-      "num": 335247,
-      "word": "哪吒2让外国电影院经理惊讶了",
-      "onboard_time": 1741090221,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 334877,
@@ -796,7 +852,7 @@
     },
     {
       "raw_hot": 309414,
-      "num": 309414,
+      "num": 329898,
       "word": "迪奥二零二五秋冬女装成衣秀",
       "onboard_time": 1741093462,
       "rank": 24,
@@ -1147,14 +1203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 224601,
-      "num": 224601,
-      "word": "宋亚轩把在非洲拍的照片格式化了",
-      "onboard_time": 1741095261,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 222734,
       "num": 266640,
       "word": "滤镜",
@@ -1177,6 +1225,14 @@
       "onboard_time": 1741065620,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 222094,
+      "num": 222094,
+      "word": "中医说健不健康看眼睛就知道了",
+      "onboard_time": 1741096222,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 222092,
@@ -1363,6 +1419,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 202694,
+      "num": 326987,
+      "word": "欧豪 北京到底有谁在啊",
+      "onboard_time": 1741096763,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197612,
       "num": 197612,
       "word": "两会第一线",
@@ -1377,6 +1441,14 @@
       "onboard_time": 1741087821,
       "rank": 36,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 196176,
+      "num": 196176,
+      "word": "上村谦信退团",
+      "onboard_time": 1741098022,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 196149,
@@ -1416,6 +1488,14 @@
       "word": "十四届全国人大三次会议举行发布会",
       "onboard_time": 1741060820,
       "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 192192,
+      "num": 192192,
+      "word": "建议每周上班不超44小时",
+      "onboard_time": 1741093640,
+      "rank": 35,
       "category": "国内时政"
     },
     {
@@ -1515,12 +1595,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 178011,
-      "num": 178011,
-      "word": "建议每周上班不超44小时",
-      "onboard_time": 1741093640,
+      "raw_hot": 178841,
+      "num": 175297,
+      "word": "金珉奎巴黎时装周造型",
+      "onboard_time": 1741096763,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 177939,
+      "num": 352418,
+      "word": "金珉锡方控诉KBS不公平待遇",
+      "onboard_time": 1741095623,
       "rank": 35,
-      "category": "国内时政"
+      "category": "艺人"
     },
     {
       "raw_hot": 177424,
@@ -1553,14 +1641,6 @@
       "onboard_time": 1741079187,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 174414,
-      "num": 308415,
-      "word": "建议节假日高速免费延长至次日6时",
-      "onboard_time": 1741093999,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 173545,
@@ -1625,14 +1705,6 @@
       "onboard_time": 1741052838,
       "rank": 9,
       "category": "国际时政,财经"
-    },
-    {
-      "raw_hot": 164436,
-      "num": 164436,
-      "word": "XIUMIN与SM艺人不能同时出演KBS节目",
-      "onboard_time": 1741095442,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 164275,
@@ -1875,6 +1947,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 141927,
+      "num": 358916,
+      "word": "DIOR大秀直击",
+      "onboard_time": 1741093341,
+      "rank": 10,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 141125,
       "num": 296587,
       "word": "刘雨昕周也李昀锐预热",
@@ -1891,12 +1971,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 138854,
-      "num": 181175,
-      "word": "金珉锡方控诉KBS不公平待遇",
-      "onboard_time": 1741095623,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 140496,
+      "num": 140496,
+      "word": "巴黎时装周",
+      "onboard_time": 1741096222,
+      "rank": 48,
+      "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 138925,
+      "num": 138925,
+      "word": "排超联赛",
+      "onboard_time": 1741097302,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 137929,
@@ -2019,14 +2107,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 129065,
-      "num": 307958,
-      "word": "DIOR大秀直击",
-      "onboard_time": 1741093341,
-      "rank": 10,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 128079,
       "num": 128079,
       "word": "蒋圣龙确诊骨裂",
@@ -2041,6 +2121,14 @@
       "onboard_time": 1741083202,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127692,
+      "num": 178047,
+      "word": "G社镜头下周也",
+      "onboard_time": 1741097902,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 127551,
@@ -2644,7 +2732,7 @@
     },
     {
       "raw_hot": 66938,
-      "num": 135644,
+      "num": 351273,
       "word": "HPV知晓日4城点亮地标",
       "onboard_time": 1741095261,
       "rank": 47,
@@ -2673,6 +2761,14 @@
       "onboard_time": 1741032851,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 64748,
+      "num": 227022,
+      "word": "代表建议下放教师职称评审权",
+      "onboard_time": 1741098083,
+      "rank": 34,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 64432,
@@ -2739,6 +2835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59312,
+      "num": 326763,
+      "word": "质疑泽连斯基着装的美记者遭死亡威胁",
+      "onboard_time": 1741097842,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 58439,
       "num": 163884,
       "word": "王曼昱入选澳门世界杯邀请名单",
@@ -2753,6 +2857,14 @@
       "onboard_time": 1741083861,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 58138,
+      "num": 349767,
+      "word": "建议公立幼儿园开展托育服务",
+      "onboard_time": 1741097601,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 57504,
@@ -2835,6 +2947,14 @@
       "category": "国内时政,互联网"
     },
     {
+      "raw_hot": 51063,
+      "num": 352867,
+      "word": "谢锋用诗词回应中美关税问题",
+      "onboard_time": 1741097722,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 50112,
       "num": 50112,
       "word": "你认为哪吒2票房能超150亿吗",
@@ -2897,6 +3017,22 @@
       "onboard_time": 1741068618,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 46089,
+      "num": 938644,
+      "word": "这场发布会干货满满一文速览",
+      "onboard_time": 1741096521,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 45354,
+      "num": 364811,
+      "word": "中国经济持续向好的三大底气",
+      "onboard_time": 1741097182,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 45034,
@@ -3025,6 +3161,14 @@
       "onboard_time": 1741022653,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25931,
+      "num": 367528,
+      "word": "建议在AI嵌入医疗实践中更加扎实慎重",
+      "onboard_time": 1741097421,
+      "rank": 8,
+      "category": "健康医疗,互联网"
     },
     {
       "raw_hot": 25857,
@@ -3186,6 +3330,9 @@
     },
     {
       "word": "#全国政协十四届三次会议开幕#"
+    },
+    {
+      "word": "#总书记两会上的民生关切#"
     }
   ]
 }
