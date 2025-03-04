@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741087198612,
+  "endTime": 1741088172024,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 2284377,
-      "num": 358921,
+      "num": 419902,
       "word": "韩国财阀有多可怕",
       "onboard_time": 1741083261,
       "rank": 19,
@@ -2899,6 +2899,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 331991,
+      "num": 228294,
+      "word": "马嘉祺 亚轩生日快乐",
+      "onboard_time": 1741086922,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 331046,
       "num": 296289,
       "word": "2025 魔幻",
@@ -3257,6 +3265,14 @@
       "onboard_time": 1741066698,
       "rank": 49,
       "category": "网红"
+    },
+    {
+      "raw_hot": 297372,
+      "num": 212477,
+      "word": "酷酷的滕在难哄二婚了",
+      "onboard_time": 1741087040,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 295965,
@@ -4363,6 +4379,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 222734,
+      "num": 266640,
+      "word": "滤镜",
+      "onboard_time": 1740798738,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222679,
       "num": 465504,
       "word": "按DeepSeek建议理发会翻车吗",
@@ -4579,14 +4603,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 215309,
-      "num": 266640,
-      "word": "滤镜",
-      "onboard_time": 1740798738,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 215060,
       "num": 215060,
       "word": "叠纸心意",
@@ -4673,6 +4689,14 @@
       "onboard_time": 1740808857,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212041,
+      "num": 212041,
+      "word": "80%以上患者HPV会在一年内清除",
+      "onboard_time": 1741087220,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 211542,
@@ -5219,6 +5243,14 @@
       "category": "剧集,综艺"
     },
     {
+      "raw_hot": 196454,
+      "num": 196454,
+      "word": "今天穿什么",
+      "onboard_time": 1741087821,
+      "rank": 36,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 195828,
       "num": 53327,
       "word": "网易崩了",
@@ -5731,14 +5763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 181872,
-      "num": 181872,
-      "word": "马嘉祺 亚轩生日快乐",
-      "onboard_time": 1741086922,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 181713,
       "num": 181713,
       "word": "詹姆斯5万分",
@@ -6121,6 +6145,14 @@
       "onboard_time": 1740973099,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171622,
+      "num": 347470,
+      "word": "中国发起首例反规避调查",
+      "onboard_time": 1741084881,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 171388,
@@ -6955,14 +6987,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 153166,
-      "num": 347470,
-      "word": "中国发起首例反规避调查",
-      "onboard_time": 1741084881,
-      "rank": 41,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 152874,
       "num": 162932,
       "word": "福州冰雹",
@@ -7265,14 +7289,6 @@
       "onboard_time": 1740926059,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 146727,
-      "num": 146727,
-      "word": "酷酷的滕在难哄二婚了",
-      "onboard_time": 1741087040,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 146460,
@@ -8451,6 +8467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121961,
+      "num": 121961,
+      "word": "中国海关一下对美发布两则公告",
+      "onboard_time": 1741086682,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 121508,
       "num": 141108,
       "word": "章若楠 醉酒戏",
@@ -8619,12 +8643,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118210,
+      "num": 118210,
+      "word": "这朵花在故宫开了100多年还没谢",
+      "onboard_time": 1741088060,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118164,
       "num": 316400,
       "word": "ZmjjKK",
       "onboard_time": 1740843562,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 117826,
+      "num": 339235,
+      "word": "刘国梁说要把赛场秩序治理好",
+      "onboard_time": 1741086140,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 117765,
@@ -9707,14 +9747,6 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 91651,
-      "num": 339235,
-      "word": "刘国梁说要把赛场秩序治理好",
-      "onboard_time": 1741086140,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 91222,
       "num": 91788,
       "word": "马嘉祺 金色旷野",
@@ -10347,6 +10379,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 68434,
+      "num": 244604,
+      "word": "乌克兰回应美国暂停军援",
+      "onboard_time": 1741087580,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 68172,
       "num": 317471,
       "word": "巴菲特罕见谈关税",
@@ -10521,6 +10561,14 @@
       "onboard_time": 1741079125,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 61567,
+      "num": 183137,
+      "word": "无畏国服墨子",
+      "onboard_time": 1741085421,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 61443,
@@ -11091,6 +11139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 39405,
+      "num": 292521,
+      "word": "建议AI时代加强中小学逻辑思维教育",
+      "onboard_time": 1741086860,
+      "rank": 21,
+      "category": "教育"
+    },
+    {
       "raw_hot": 39270,
       "num": 232773,
       "word": "中国足协球员自荐系统上线",
@@ -11369,14 +11425,6 @@
       "onboard_time": 1740860111,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 31148,
-      "num": 292521,
-      "word": "建议AI时代加强中小学逻辑思维教育",
-      "onboard_time": 1741086860,
-      "rank": 21,
-      "category": "教育"
     },
     {
       "raw_hot": 30988,
