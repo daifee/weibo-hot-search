@@ -1,0 +1,410 @@
+{
+  "runTime": 1741066788245,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 891481,
+        "num": 1142637,
+        "word": "金价",
+        "onboard_time": 1741053137,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 735867,
+        "num": 735867,
+        "word": "雷军称AI换脸拟声成违法重灾区",
+        "onboard_time": 1741060820,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 97506,
+        "num": 586730,
+        "word": "全国两会事关你我",
+        "onboard_time": 1741058959,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 796758,
+        "num": 573589,
+        "word": "难哄 投影仪镜头",
+        "onboard_time": 1741062320,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 540156,
+        "num": 540156,
+        "word": "恋与深空",
+        "onboard_time": 1741049839,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 535905,
+        "num": 535905,
+        "word": "于正发博祝贺白鹿",
+        "onboard_time": 1741062860,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 468668,
+        "num": 468668,
+        "word": "中国将15家美国实体列入出口管制管控",
+        "onboard_time": 1741065439,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 423218,
+        "num": 423218,
+        "word": "饺子导演破亿海报手稿一次看个够",
+        "onboard_time": 1741051699,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 243717,
+        "num": 378087,
+        "word": "中国绝不接受施压和威胁",
+        "onboard_time": 1741065857,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 364128,
+        "num": 364128,
+        "word": "孩子脊柱侧弯了还以为是体态不好",
+        "onboard_time": 1741056976,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1568372,
+        "num": 364099,
+        "word": "女子7号查出怀孕8号直接就生了",
+        "onboard_time": 1741057397,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 912179,
+        "num": 362802,
+        "word": "麦当劳变成了没有情绪的中年人",
+        "onboard_time": 1741059857,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 868241,
+        "num": 362472,
+        "word": "藕饼欲莲",
+        "onboard_time": 1741062138,
+        "rank": 12,
+        "category": "动漫,电影"
+      },
+      {
+        "raw_hot": 735181,
+        "num": 361705,
+        "word": "迪丽热巴摄影尹超",
+        "onboard_time": 1741062800,
+        "rank": 13,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 94704,
+        "num": 360933,
+        "word": "人大会议发言人点赞DeepSeek",
+        "onboard_time": 1741065138,
+        "rank": 14,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 493549,
+        "num": 360254,
+        "word": "任重孙骁骁带孩子吃早餐",
+        "onboard_time": 1741048159,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377467,
+        "num": 359269,
+        "word": "康师傅冰红茶 林俊杰",
+        "onboard_time": 1741057698,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359265,
+        "num": 359265,
+        "word": "黄杨钿甜北电艺考",
+        "onboard_time": 1741055958,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326131,
+        "num": 326131,
+        "word": "俄罗斯回应日本制裁",
+        "onboard_time": 1741057878,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 323733,
+        "num": 323733,
+        "word": "媒体评二战考研10分争议",
+        "onboard_time": 1741055716,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 320875,
+        "num": 320875,
+        "word": "特朗普说不会再容忍更久了",
+        "onboard_time": 1741044736,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 319526,
+        "num": 319526,
+        "word": "两会",
+        "onboard_time": 1741055659,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 221873,
+        "num": 308278,
+        "word": "冰红茶代言人程潇",
+        "onboard_time": 1741061659,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206729,
+        "num": 308246,
+        "word": "难哄婚宴DV",
+        "onboard_time": 1741065678,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209064,
+        "num": 308222,
+        "word": "似锦再见烂人",
+        "onboard_time": 1741064358,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308218,
+        "num": 308218,
+        "word": "韩束 林一",
+        "onboard_time": 1741063221,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95264,
+        "num": 287509,
+        "word": "刘亦菲让自己愉悦的方式",
+        "onboard_time": 1741061778,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60799,
+        "num": 285825,
+        "word": "巴特勒该出手时就出手",
+        "onboard_time": 1741066580,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285289,
+        "num": 285289,
+        "word": "难哄车兴德上线",
+        "onboard_time": 1741066099,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37552,
+        "num": 268557,
+        "word": "中国一汽与零跑战略合作",
+        "onboard_time": 1741065557,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 262798,
+        "num": 262798,
+        "word": "交警因暴雪疏导车辆一整夜冻成雪人",
+        "onboard_time": 1741061179,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264053,
+        "num": 259870,
+        "word": "爸爸第一次道歉惊呆妈妈",
+        "onboard_time": 1741063940,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247971,
+        "num": 247971,
+        "word": "本周做什么都顺的星座",
+        "onboard_time": 1741066099,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199568,
+        "num": 199568,
+        "word": "买黄金成00后血脉觉醒的文化密码",
+        "onboard_time": 1741065620,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 188034,
+        "num": 188034,
+        "word": "肖战陌森眼镜升title",
+        "onboard_time": 1741065379,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187414,
+        "num": 187414,
+        "word": "敖子逸说宋亚轩老弟生日快乐",
+        "onboard_time": 1741058959,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187287,
+        "num": 187287,
+        "word": "ally直播切片",
+        "onboard_time": 1741054997,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179717,
+        "num": 179717,
+        "word": "大侦探 IP对撞",
+        "onboard_time": 1741047138,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175112,
+        "num": 175112,
+        "word": "特朗普暗示乌克兰总统或换人",
+        "onboard_time": 1741064120,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 163629,
+        "num": 163629,
+        "word": "高度近视的人不建议献血",
+        "onboard_time": 1741059378,
+        "rank": 39,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 157088,
+        "num": 157088,
+        "word": "哪吒2中土拨鼠原本是Q版",
+        "onboard_time": 1741055536,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143856,
+        "num": 143856,
+        "word": "最代表春天的颜色",
+        "onboard_time": 1741066038,
+        "rank": 41,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 143645,
+        "num": 143645,
+        "word": "朴槿惠在私宅会见韩执政党领导层",
+        "onboard_time": 1741047020,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142605,
+        "num": 142605,
+        "word": "柯南最恐怖的案件",
+        "onboard_time": 1741053977,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 142366,
+        "num": 142366,
+        "word": "两会第一线",
+        "onboard_time": 1741066038,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141810,
+        "num": 141810,
+        "word": "为什么总在凌晨三四点醒来",
+        "onboard_time": 1741049718,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136608,
+        "num": 136608,
+        "word": "为什么下腹部的脂肪难减",
+        "onboard_time": 1741051578,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 136136,
+        "num": 136136,
+        "word": "雷军建议优化新能源汽车号牌设计",
+        "onboard_time": 1741057819,
+        "rank": 47,
+        "category": "国内时政,汽车"
+      },
+      {
+        "raw_hot": 127445,
+        "num": 127445,
+        "word": "美暂停对乌的军事援助",
+        "onboard_time": 1741048520,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127196,
+        "num": 127196,
+        "word": "埃文凯尔抵达北京",
+        "onboard_time": 1741066698,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#人民在总书记心中重千钧#"
+    }
+  }
+}
