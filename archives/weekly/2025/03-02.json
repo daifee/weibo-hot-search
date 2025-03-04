@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1741102836088,
+  "endTime": 1741105825822,
   "band_list": [
     {
       "raw_hot": 13760834,
@@ -697,6 +697,14 @@
       "onboard_time": 1741055958,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 860734,
+      "num": 910651,
+      "word": "iPad11售价2999元起",
+      "onboard_time": 1741103179,
+      "rank": 0,
+      "category": "数码"
     },
     {
       "raw_hot": 845442,
@@ -2683,6 +2691,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 291845,
+      "num": 291845,
+      "word": "短剧演员背调",
+      "onboard_time": 1741101500,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 291242,
       "num": 291242,
       "word": "钟楚曦新剧短发造型",
@@ -3225,14 +3241,6 @@
       "onboard_time": 1740932177,
       "rank": 23,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 239394,
-      "num": 239394,
-      "word": "短剧演员背调",
-      "onboard_time": 1741101500,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 238827,
@@ -6667,6 +6675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 125485,
+      "num": 238632,
+      "word": "郭涛儿子参加北电艺考",
+      "onboard_time": 1741101620,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125282,
       "num": 315932,
       "word": "郑业成工作室声明",
@@ -7035,20 +7051,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 113988,
-      "num": 238632,
-      "word": "郭涛儿子参加北电艺考",
-      "onboard_time": 1741101620,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 113407,
       "num": 113407,
       "word": "原来暧昧拉扯比直接谈甜多了",
       "onboard_time": 1741081103,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113299,
+      "num": 189678,
+      "word": "才发现惊蛰与桃花的适配度这么高",
+      "onboard_time": 1741104259,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113049,
@@ -7883,6 +7899,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 85392,
+      "num": 189296,
+      "word": "DeepSeek说梅西是世界最佳球员",
+      "onboard_time": 1741103418,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85185,
       "num": 362036,
       "word": "济南暴雪多区中小学校幼儿园停课",
@@ -8065,6 +8089,14 @@
       "onboard_time": 1740873676,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 76589,
+      "num": 189249,
+      "word": "中方将采取反制措施",
+      "onboard_time": 1741103479,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 76501,
