@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741083949157,
+  "endTime": 1741084999997,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -401,6 +401,14 @@
       "onboard_time": 1740874338,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1316007,
+      "num": 296333,
+      "word": "韩国财阀有多可怕",
+      "onboard_time": 1741083261,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1278503,
@@ -849,6 +857,14 @@
       "onboard_time": 1740921739,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 876793,
+      "num": 322884,
+      "word": "建议男性可申请6个月育儿假",
+      "onboard_time": 1741080204,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 876155,
@@ -1425,14 +1441,6 @@
       "onboard_time": 1740971780,
       "rank": 20,
       "category": "电影"
-    },
-    {
-      "raw_hot": 610958,
-      "num": 322884,
-      "word": "建议男性可申请6个月育儿假",
-      "onboard_time": 1741080204,
-      "rank": 35,
-      "category": "国内时政"
     },
     {
       "raw_hot": 610273,
@@ -2153,6 +2161,14 @@
       "onboard_time": 1740995958,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 455643,
+      "num": 230782,
+      "word": "柯洁发博抱住了蒲熠星",
+      "onboard_time": 1741083921,
+      "rank": 46,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 452748,
@@ -3667,12 +3683,28 @@
       "category": "剧集,体育"
     },
     {
+      "raw_hot": 267174,
+      "num": 267174,
+      "word": "某公司造谣鸿蒙智行多人被缉拿归案",
+      "onboard_time": 1741084282,
+      "rank": 7,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 266763,
       "num": 266763,
       "word": "丁程鑫被饺子香得冒泡",
       "onboard_time": 1741010540,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 265239,
+      "num": 230063,
+      "word": "恋与深空 秦彻",
+      "onboard_time": 1741082903,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 264053,
@@ -5739,6 +5771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178857,
+      "num": 178857,
+      "word": "明日方舟死芒",
+      "onboard_time": 1741084940,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 178788,
       "num": 297344,
       "word": "小米15Ultra海外售价超iPhone",
@@ -5963,6 +6003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173545,
+      "num": 299077,
+      "word": "特朗普下令暂停对乌所有军事援助",
+      "onboard_time": 1741081463,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 173001,
       "num": 183618,
       "word": "九尾Fly爬山好搭子",
@@ -5979,20 +6027,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 172874,
-      "num": 299077,
-      "word": "特朗普下令暂停对乌所有军事援助",
-      "onboard_time": 1741081463,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 172807,
       "num": 172807,
       "word": "杨紫脏脏包造型",
       "onboard_time": 1741071677,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172726,
+      "num": 172726,
+      "word": "暂停进口美国原木",
+      "onboard_time": 1741084940,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 172537,
@@ -6835,6 +6883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 153166,
+      "num": 153166,
+      "word": "中国发起首例反规避调查",
+      "onboard_time": 1741084881,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 152874,
       "num": 162932,
       "word": "福州冰雹",
@@ -6993,14 +7049,6 @@
       "onboard_time": 1740980778,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 149566,
-      "num": 296333,
-      "word": "韩国财阀有多可怕",
-      "onboard_time": 1741083261,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 149249,
@@ -7403,6 +7451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141125,
+      "num": 296587,
+      "word": "刘雨昕周也李昀锐预热",
+      "onboard_time": 1741083502,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 140976,
       "num": 140976,
       "word": "哪吒里南面结界兽原来真的没有说谎",
@@ -7739,6 +7795,14 @@
       "category": "国际时政,军事"
     },
     {
+      "raw_hot": 134022,
+      "num": 134022,
+      "word": "唐奇怎么可能不疯呢",
+      "onboard_time": 1741084342,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133859,
       "num": 133859,
       "word": "重病卧床的男主还急着争宠",
@@ -7865,14 +7929,6 @@
       "onboard_time": 1741012400,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 130404,
-      "num": 130404,
-      "word": "恋与深空 秦彻",
-      "onboard_time": 1741082903,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 130106,
@@ -8025,6 +8081,14 @@
       "onboard_time": 1740793037,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127780,
+      "num": 127780,
+      "word": "李嘉琦浪姐6私服",
+      "onboard_time": 1741083202,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 127713,
@@ -8907,6 +8971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 106229,
+      "num": 106229,
+      "word": "雷总不仅有驾校还有夜校",
+      "onboard_time": 1741083022,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 106216,
       "num": 106216,
       "word": "以为身体好实则是疾病的表现",
@@ -8969,14 +9041,6 @@
       "onboard_time": 1740814825,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 104953,
-      "num": 104953,
-      "word": "柯洁发博抱住了蒲熠星",
-      "onboard_time": 1741083921,
-      "rank": 46,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 104891,
@@ -9385,6 +9449,14 @@
       "onboard_time": 1740882799,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95726,
+      "num": 297638,
+      "word": "建议改革高校非升即走制度",
+      "onboard_time": 1741083322,
+      "rank": 14,
+      "category": "国内时政,教育"
     },
     {
       "raw_hot": 95610,
@@ -9843,6 +9915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81602,
+      "num": 230661,
+      "word": "建议扩大冻卵技术适用人群",
+      "onboard_time": 1741083801,
+      "rank": 30,
+      "category": "国内时政,健康医疗"
+    },
+    {
       "raw_hot": 81401,
       "num": 296584,
       "word": "猫猫得到了奥斯卡小金人",
@@ -9985,6 +10065,14 @@
       "onboard_time": 1741055837,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 74203,
+      "num": 229844,
+      "word": "代表建议将无痛分娩纳入医保",
+      "onboard_time": 1741083441,
+      "rank": 28,
+      "category": "国内时政,健康医疗"
     },
     {
       "raw_hot": 74200,
@@ -10291,14 +10379,6 @@
       "category": "民生新闻,国内时政"
     },
     {
-      "raw_hot": 62609,
-      "num": 297638,
-      "word": "建议改革高校非升即走制度",
-      "onboard_time": 1741083322,
-      "rank": 14,
-      "category": "国内时政,教育"
-    },
-    {
       "raw_hot": 62472,
       "num": 280551,
       "word": "搬到迪拜的电诈团伙开始产业升级",
@@ -10372,7 +10452,7 @@
     },
     {
       "raw_hot": 58277,
-      "num": 189608,
+      "num": 230353,
       "word": "林高远入选澳门世界杯邀请名单",
       "onboard_time": 1741083861,
       "rank": 32,
@@ -10675,6 +10755,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 47699,
+      "num": 231120,
+      "word": "建议增设伪造亲子关系证明新罪名",
+      "onboard_time": 1741084101,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 47691,
       "num": 326322,
       "word": "专家称无证据支持餐饮小票致癌",
@@ -10697,14 +10785,6 @@
       "onboard_time": 1740897259,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 47438,
-      "num": 203125,
-      "word": "代表建议将无痛分娩纳入医保",
-      "onboard_time": 1741083441,
-      "rank": 28,
-      "category": "国内时政,健康医疗"
     },
     {
       "raw_hot": 47432,
@@ -10769,14 +10849,6 @@
       "onboard_time": 1741043296,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 44381,
-      "num": 296587,
-      "word": "刘雨昕周也李昀锐预热",
-      "onboard_time": 1741083502,
-      "rank": 18,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 44327,
@@ -11297,6 +11369,14 @@
       "onboard_time": 1740850756,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 26568,
+      "num": 230525,
+      "word": "我国工业机器人装载量超全球二分之一",
+      "onboard_time": 1741084639,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26567,
@@ -11825,14 +11905,6 @@
       "onboard_time": 1740777131,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 13946,
-      "num": 200187,
-      "word": "建议扩大冻卵技术适用人群",
-      "onboard_time": 1741083801,
-      "rank": 30,
-      "category": "国内时政,健康医疗"
     },
     {
       "raw_hot": 13299,
