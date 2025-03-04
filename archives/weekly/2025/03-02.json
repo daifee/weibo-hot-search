@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1741123346195,
+  "endTime": 1741124182350,
   "band_list": [
     {
       "raw_hot": 13760834,
@@ -9724,11 +9724,19 @@
     },
     {
       "raw_hot": 15364,
-      "num": 17339,
+      "num": 17409,
       "word": "周也这个长相我预定了",
       "onboard_time": 1741118290,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 15210,
+      "num": 22237,
+      "word": "赵冬苓称DeepSeek写剧本很套路化",
+      "onboard_time": 1741122850,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 15133,
@@ -9780,11 +9788,19 @@
     },
     {
       "raw_hot": 13738,
-      "num": 17340,
+      "num": 17416,
       "word": "听见全国两会",
       "onboard_time": 1741117151,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 13504,
+      "num": 37266,
+      "word": "3月10日起对原产于美国的部分进口商品加征关税",
+      "onboard_time": 1741116191,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 13335,
@@ -9819,28 +9835,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 12864,
-      "num": 37266,
-      "word": "3月10日起对原产于美国的部分进口商品加征关税",
-      "onboard_time": 1741116191,
-      "rank": 13,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 12664,
       "num": 148097,
       "word": "互联网搜索产品的价值到底是什么",
       "onboard_time": 1740887960,
       "rank": 27,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 12582,
-      "num": 17341,
-      "word": "赵冬苓称DeepSeek写剧本很套路化",
-      "onboard_time": 1741122850,
-      "rank": 38,
-      "category": "国内时政"
     },
     {
       "raw_hot": 12377,
