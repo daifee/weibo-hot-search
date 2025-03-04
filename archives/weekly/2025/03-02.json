@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1741113965659,
+  "endTime": 1741115937324,
   "band_list": [
     {
       "raw_hot": 13760834,
@@ -9275,6 +9275,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 28187,
+      "num": 28187,
+      "word": "建议增强租客和房东法律意识",
+      "onboard_time": 1741114271,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 27815,
       "num": 27815,
       "word": "泽连斯基不认为需要向特朗普道歉",
@@ -9673,6 +9681,14 @@
       "onboard_time": 1740976040,
       "rank": 34,
       "category": "民生新闻,国内时政"
+    },
+    {
+      "raw_hot": 16296,
+      "num": 18522,
+      "word": "哪吒",
+      "onboard_time": 1741111033,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 16075,
