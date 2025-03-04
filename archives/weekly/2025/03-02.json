@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1741054103814,
+  "endTime": 1741057101088,
   "band_list": [
     {
       "raw_hot": 3194275,
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 1111121,
-      "num": 255837,
+      "num": 307926,
       "word": "任重孙骁骁带孩子吃早餐",
       "onboard_time": 1741048159,
       "rank": 10,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 1077440,
-      "num": 255416,
+      "num": 288358,
       "word": "朴槿惠在私宅会见韩执政党领导层",
       "onboard_time": 1741047020,
       "rank": 11,
@@ -387,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 970822,
+      "num": 970822,
+      "word": "饺子导演破亿海报手稿一次看个够",
+      "onboard_time": 1741051699,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 950085,
       "num": 1152013,
       "word": "张柏芝穿了珍珠新中式",
@@ -404,7 +412,7 @@
     },
     {
       "raw_hot": 920065,
-      "num": 253613,
+      "num": 297810,
       "word": "特朗普说不会再容忍更久了",
       "onboard_time": 1741044736,
       "rank": 30,
@@ -819,6 +827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 617461,
+      "num": 617461,
+      "word": "两会",
+      "onboard_time": 1740963979,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 614587,
       "num": 304413,
       "word": "冯小刚全女阵容",
@@ -849,6 +865,14 @@
       "onboard_time": 1740904758,
       "rank": 49,
       "category": "美妆,互联网"
+    },
+    {
+      "raw_hot": 602274,
+      "num": 303242,
+      "word": "黄杨钿甜北电艺考",
+      "onboard_time": 1741055958,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 599338,
@@ -1099,6 +1123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 534958,
+      "num": 534958,
+      "word": "欧文受伤",
+      "onboard_time": 1741055659,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 534473,
       "num": 323655,
       "word": "高铁无休纯学9小时",
@@ -1113,14 +1145,6 @@
       "onboard_time": 1740970399,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 510052,
-      "num": 510052,
-      "word": "两会",
-      "onboard_time": 1740963979,
-      "rank": 3,
-      "category": "国内时政"
     },
     {
       "raw_hot": 508017,
@@ -1267,6 +1291,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 439132,
+      "num": 239609,
+      "word": "为什么下腹部的脂肪难减",
+      "onboard_time": 1741051578,
+      "rank": 26,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 436847,
       "num": 436847,
       "word": "徐若晗谈与张凌赫初吻",
@@ -1385,14 +1417,6 @@
       "onboard_time": 1740885861,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 405890,
-      "num": 405890,
-      "word": "饺子导演破亿海报手稿一次看个够",
-      "onboard_time": 1741051699,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 402471,
@@ -1659,6 +1683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 335840,
+      "num": 241706,
+      "word": "媒体评二战考研10分争议",
+      "onboard_time": 1741055716,
+      "rank": 20,
+      "category": "教育"
+    },
+    {
       "raw_hot": 335243,
       "num": 335243,
       "word": "电信诈骗开始遥控你的手机了",
@@ -1755,6 +1787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 323674,
+      "num": 323674,
+      "word": "黄金再迎大涨",
+      "onboard_time": 1741055118,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
       "raw_hot": 322572,
       "num": 217709,
       "word": "辛芷蕾新剧脚趾接大工程了",
@@ -1801,6 +1841,14 @@
       "onboard_time": 1740968479,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 317158,
+      "num": 317158,
+      "word": "哪吒2中土拨鼠原本是Q版",
+      "onboard_time": 1741055536,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 314981,
@@ -1857,6 +1905,14 @@
       "onboard_time": 1740928523,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 298015,
+      "num": 270863,
+      "word": "60秒看会功夫的中国机器人",
+      "onboard_time": 1741052058,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 295965,
@@ -1977,6 +2033,14 @@
       "onboard_time": 1740949631,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 284821,
+      "num": 235663,
+      "word": "柯南最恐怖的案件",
+      "onboard_time": 1741053977,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 284341,
@@ -2193,14 +2257,6 @@
       "onboard_time": 1740927620,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 252426,
-      "num": 231318,
-      "word": "为什么下腹部的脂肪难减",
-      "onboard_time": 1741051578,
-      "rank": 26,
-      "category": "科学科普"
     },
     {
       "raw_hot": 251526,
@@ -2459,6 +2515,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 222319,
+      "num": 222319,
+      "word": "男子因家庭矛盾发现自己是被抱养的",
+      "onboard_time": 1741053798,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222149,
       "num": 222149,
       "word": "陈都灵老年妆",
@@ -2531,6 +2595,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 216676,
+      "num": 233546,
+      "word": "淘宝 奇迹暖暖",
+      "onboard_time": 1741050379,
+      "rank": 27,
+      "category": "游戏,互联网"
+    },
+    {
       "raw_hot": 215906,
       "num": 215906,
       "word": "权志龙把柳智敏比作光",
@@ -2585,14 +2657,6 @@
       "onboard_time": 1740875897,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 210922,
-      "num": 214842,
-      "word": "60秒看会功夫的中国机器人",
-      "onboard_time": 1741052058,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 210081,
@@ -3315,6 +3379,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 176423,
+      "num": 176423,
+      "word": "睡不着床头放个苹果管用吗",
+      "onboard_time": 1741054277,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 176368,
       "num": 316624,
       "word": "白敬亭章若楠跳troublemaker",
@@ -3579,6 +3651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164440,
+      "num": 164440,
+      "word": "ally直播切片",
+      "onboard_time": 1741054997,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164276,
       "num": 160150,
       "word": "第一批用夸克测每日运势的人出现了",
@@ -3673,6 +3753,14 @@
       "onboard_time": 1741005981,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162267,
+      "num": 311742,
+      "word": "泽连斯基说乌克兰需要和平",
+      "onboard_time": 1741052897,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 161467,
@@ -3987,14 +4075,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 151743,
-      "num": 151743,
-      "word": "淘宝 奇迹暖暖",
-      "onboard_time": 1741050379,
-      "rank": 27,
-      "category": "游戏,互联网"
-    },
-    {
       "raw_hot": 151715,
       "num": 171795,
       "word": "湖南即将进入寒潮发威最强时段",
@@ -4156,7 +4236,7 @@
     },
     {
       "raw_hot": 147409,
-      "num": 194120,
+      "num": 243563,
       "word": "5GA网络把AI体验拉满了",
       "onboard_time": 1741053738,
       "rank": 26,
@@ -4233,14 +4313,6 @@
       "onboard_time": 1740865511,
       "rank": 17,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 144349,
-      "num": 144349,
-      "word": "泽连斯基说乌克兰需要和平",
-      "onboard_time": 1741052897,
-      "rank": 32,
-      "category": "国际时政"
     },
     {
       "raw_hot": 144337,
@@ -4595,6 +4667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132084,
+      "num": 132084,
+      "word": "阿诺拉",
+      "onboard_time": 1741054097,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 131917,
       "num": 131917,
       "word": "2元和200元的钙片到底有什么区别",
@@ -4641,6 +4721,14 @@
       "onboard_time": 1740912078,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129685,
+      "num": 129685,
+      "word": "刘耀文拍的宋亚轩张真源合照",
+      "onboard_time": 1741055057,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 129473,
@@ -5299,14 +5387,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 107165,
-      "num": 107165,
-      "word": "男子因家庭矛盾发现自己是被抱养的",
-      "onboard_time": 1741053798,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 106922,
       "num": 157492,
       "word": "高圆圆许愿2025三部戏顺利播出",
@@ -5435,6 +5515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102408,
+      "num": 102408,
+      "word": "恋与深空",
+      "onboard_time": 1740880216,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 102097,
       "num": 102097,
       "word": "txt六周年",
@@ -5449,14 +5537,6 @@
       "onboard_time": 1740924981,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 101908,
-      "num": 101908,
-      "word": "柯南最恐怖的案件",
-      "onboard_time": 1741053977,
-      "rank": 46,
-      "category": "动漫"
     },
     {
       "raw_hot": 101187,
@@ -5571,14 +5651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 97012,
-      "num": 97012,
-      "word": "恋与深空",
-      "onboard_time": 1740880216,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 96721,
       "num": 96721,
       "word": "英伟达大跌超8%",
@@ -5673,6 +5745,14 @@
       "onboard_time": 1740976342,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92749,
+      "num": 92749,
+      "word": "哪吒2新加坡首映式电影票半小时售罄",
+      "onboard_time": 1741056919,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 92695,
@@ -5771,6 +5851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88947,
+      "num": 88947,
+      "word": "勇士vs黄蜂",
+      "onboard_time": 1741056317,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88459,
       "num": 133423,
       "word": "阿德里安布劳迪奥斯卡影帝",
@@ -5857,6 +5945,14 @@
       "onboard_time": 1740841523,
       "rank": 42,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 83835,
+      "num": 83835,
+      "word": "中国移动",
+      "onboard_time": 1741054398,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 83291,
@@ -5985,6 +6081,14 @@
       "onboard_time": 1740870193,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 74351,
+      "num": 219610,
+      "word": "广东人工耳蜗从20万元降至5万元",
+      "onboard_time": 1741055837,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 74200,
@@ -7353,6 +7457,14 @@
       "onboard_time": 1740958395,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8316,
+      "num": 132330,
+      "word": "孩子脊柱侧弯了还以为是体态不好",
+      "onboard_time": 1741056976,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 2369,
