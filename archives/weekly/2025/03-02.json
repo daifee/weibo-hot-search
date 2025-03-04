@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1741106738996,
+  "endTime": 1741108871224,
   "band_list": [
     {
       "raw_hot": 13760834,
@@ -1683,6 +1683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 452980,
+      "num": 128863,
+      "word": "DIOR大秀入场待遇",
+      "onboard_time": 1741107076,
+      "rank": 10,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 452748,
       "num": 874957,
       "word": "山航飞机暴雪中硬核起飞",
@@ -3099,6 +3107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 254660,
+      "num": 254660,
+      "word": "欧文赛季报销",
+      "onboard_time": 1741107076,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 254431,
       "num": 243328,
       "word": "青岛一个人收15块加工费的海鲜烩饼",
@@ -4337,6 +4353,14 @@
       "onboard_time": 1741010599,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188472,
+      "num": 188472,
+      "word": "欧文",
+      "onboard_time": 1741107375,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 188314,
@@ -8651,6 +8675,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 51471,
+      "num": 51471,
+      "word": "美国在芬太尼问题上散布各种谎言",
+      "onboard_time": 1741103360,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 51372,
       "num": 300408,
       "word": "建议出台全面系统的AI法案",
@@ -8825,6 +8857,14 @@
       "onboard_time": 1741068618,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 45819,
+      "num": 47413,
+      "word": "一诺回复FMVP皮肤快了",
+      "onboard_time": 1741107135,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 45609,
@@ -9499,6 +9539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18544,
+      "num": 57988,
+      "word": "重庆动物园回应莽灿灿伤情",
+      "onboard_time": 1741108754,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18521,
       "num": 165173,
       "word": "高亭宇不负每一次热爱",
@@ -9665,6 +9713,14 @@
       "onboard_time": 1741039752,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13335,
+      "num": 48518,
+      "word": "很佩服高三的老师",
+      "onboard_time": 1741107614,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 13299,
