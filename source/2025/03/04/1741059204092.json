@@ -1,0 +1,410 @@
+{
+  "runTime": 1741059204092,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1193728,
+        "num": 1193728,
+        "word": "金价",
+        "onboard_time": 1741053137,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 800697,
+        "num": 800697,
+        "word": "饺子导演破亿海报手稿一次看个够",
+        "onboard_time": 1741051699,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 11758,
+        "num": 469760,
+        "word": "全国两会事关你我",
+        "onboard_time": 1741058959,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 467623,
+        "num": 467623,
+        "word": "哪吒2中土拨鼠原本是Q版",
+        "onboard_time": 1741055536,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 440765,
+        "num": 440765,
+        "word": "美国返还41件中国文物艺术品",
+        "onboard_time": 1741046597,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 665518,
+        "num": 440062,
+        "word": "俄罗斯回应日本制裁",
+        "onboard_time": 1741057878,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 408477,
+        "num": 408477,
+        "word": "两会",
+        "onboard_time": 1741055659,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 405455,
+        "num": 405455,
+        "word": "孩子脊柱侧弯了还以为是体态不好",
+        "onboard_time": 1741056976,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 345732,
+        "num": 345732,
+        "word": "欧文受伤",
+        "onboard_time": 1741055659,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330907,
+        "num": 330907,
+        "word": "泽连斯基说乌克兰需要和平",
+        "onboard_time": 1741052897,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 2983650,
+        "num": 328714,
+        "word": "女子7号查出怀孕8号直接就生了",
+        "onboard_time": 1741057397,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 861248,
+        "num": 327361,
+        "word": "黄杨钿甜北电艺考",
+        "onboard_time": 1741055958,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 778638,
+        "num": 323803,
+        "word": "媒体评二战考研10分争议",
+        "onboard_time": 1741055716,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 705059,
+        "num": 320157,
+        "word": "任重孙骁骁带孩子吃早餐",
+        "onboard_time": 1741048159,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450016,
+        "num": 319086,
+        "word": "特朗普说不会再容忍更久了",
+        "onboard_time": 1741044736,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 448498,
+        "num": 314998,
+        "word": "朴槿惠在私宅会见韩执政党领导层",
+        "onboard_time": 1741047020,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 314448,
+        "num": 314448,
+        "word": "大侦探 IP对撞",
+        "onboard_time": 1741047138,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206780,
+        "num": 305035,
+        "word": "十四届全国人大三次会议议程",
+        "onboard_time": 1741058898,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 223005,
+        "num": 303217,
+        "word": "哪吒2票房",
+        "onboard_time": 1741053256,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 301586,
+        "num": 301586,
+        "word": "ally直播切片",
+        "onboard_time": 1741054997,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25365,
+        "num": 300375,
+        "word": "一文速览全国两会首场新闻发布会",
+        "onboard_time": 1741004959,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 421634,
+        "num": 300323,
+        "word": "雷军建议优化新能源汽车号牌设计",
+        "onboard_time": 1741057819,
+        "rank": 21,
+        "category": "国内时政,汽车"
+      },
+      {
+        "raw_hot": 300188,
+        "num": 300188,
+        "word": "黄金再迎大涨",
+        "onboard_time": 1741055118,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 197940,
+        "num": 282959,
+        "word": "敖子逸说宋亚轩老弟生日快乐",
+        "onboard_time": 1741058959,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280780,
+        "num": 280780,
+        "word": "为什么下腹部的脂肪难减",
+        "onboard_time": 1741051578,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 269277,
+        "num": 269277,
+        "word": "柯南最恐怖的案件",
+        "onboard_time": 1741053977,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 73398,
+        "num": 263896,
+        "word": "宫颈癌年轻化趋势越来越明显",
+        "onboard_time": 1741057998,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 263193,
+        "num": 263193,
+        "word": "夜旅人 男主换脸",
+        "onboard_time": 1741044796,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137929,
+        "num": 223516,
+        "word": "哪吒2新加坡首映式电影票半小时售罄",
+        "onboard_time": 1741056919,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24644,
+        "num": 218099,
+        "word": "两会上的建议提案流向哪些部门",
+        "onboard_time": 1741057998,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 214742,
+        "num": 214742,
+        "word": "泽连斯基自拍视频发声明",
+        "onboard_time": 1741046597,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 207425,
+        "num": 207425,
+        "word": "为什么总在凌晨三四点醒来",
+        "onboard_time": 1741049718,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 202772,
+        "num": 202772,
+        "word": "睡不着床头放个苹果管用吗",
+        "onboard_time": 1741054277,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 196444,
+        "num": 196444,
+        "word": "60秒看会功夫的中国机器人",
+        "onboard_time": 1741052058,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 153920,
+        "num": 189062,
+        "word": "NBA伤病潮又来了",
+        "onboard_time": 1741057819,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64432,
+        "num": 187295,
+        "word": "欧文带伤罚球让我想起科比",
+        "onboard_time": 1741057998,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186567,
+        "num": 186567,
+        "word": "康师傅冰红茶 林俊杰",
+        "onboard_time": 1741057698,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173809,
+        "num": 173809,
+        "word": "山航飞机暴雪中硬核起飞",
+        "onboard_time": 1741015039,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130361,
+        "num": 158362,
+        "word": "北上收视",
+        "onboard_time": 1741058778,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96690,
+        "num": 155856,
+        "word": "孙颖莎林诗栋继续第一",
+        "onboard_time": 1741056437,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120125,
+        "num": 155233,
+        "word": "阿诺拉",
+        "onboard_time": 1741054097,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154873,
+        "num": 154873,
+        "word": "垃圾堆下惊现商朝黄金面具",
+        "onboard_time": 1741046297,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146984,
+        "num": 146984,
+        "word": "身体好的人肚子是软软的",
+        "onboard_time": 1741018697,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143244,
+        "num": 143244,
+        "word": "男子因家庭矛盾发现自己是被抱养的",
+        "onboard_time": 1741053798,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133133,
+        "num": 133133,
+        "word": "蔡徐坤 蓝发",
+        "onboard_time": 1741053499,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129737,
+        "num": 129737,
+        "word": "伊能静开始向往六十岁的自己",
+        "onboard_time": 1741047378,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127399,
+        "num": 127399,
+        "word": "刘耀文拍的宋亚轩张真源合照",
+        "onboard_time": 1741055057,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123296,
+        "num": 123296,
+        "word": "日本大爷掉进下水道35天未获救",
+        "onboard_time": 1741016059,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 112066,
+        "num": 112066,
+        "word": "淘宝 奇迹暖暖",
+        "onboard_time": 1741050379,
+        "rank": 48,
+        "category": "游戏,互联网"
+      },
+      {
+        "raw_hot": 111936,
+        "num": 111936,
+        "word": "女子按摩肩颈后急性脑梗死进了ICU",
+        "onboard_time": 1741021215,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记心头的重要牵挂#"
+    }
+  }
+}

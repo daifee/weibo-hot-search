@@ -1,7 +1,15 @@
 {
   "startTime": 1741019331864,
-  "endTime": 1741057704683,
+  "endTime": 1741059204092,
   "band_list": [
+    {
+      "raw_hot": 2983650,
+      "num": 328714,
+      "word": "女子7号查出怀孕8号直接就生了",
+      "onboard_time": 1741057397,
+      "rank": 19,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1352534,
       "num": 254197,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1111121,
-      "num": 307926,
+      "num": 320157,
       "word": "任重孙骁骁带孩子吃早餐",
       "onboard_time": 1741048159,
       "rank": 10,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 1077440,
-      "num": 288358,
+      "num": 314998,
       "word": "朴槿惠在私宅会见韩执政党领导层",
       "onboard_time": 1741047020,
       "rank": 11,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 920065,
-      "num": 297810,
+      "num": 319086,
       "word": "特朗普说不会再容忍更久了",
       "onboard_time": 1741044736,
       "rank": 30,
@@ -75,8 +83,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 821728,
-      "num": 303242,
+      "raw_hot": 861248,
+      "num": 327361,
       "word": "黄杨钿甜北电艺考",
       "onboard_time": 1741055958,
       "rank": 11,
@@ -99,6 +107,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 778638,
+      "num": 323803,
+      "word": "媒体评二战考研10分争议",
+      "onboard_time": 1741055716,
+      "rank": 20,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 665518,
+      "num": 440062,
+      "word": "俄罗斯回应日本制裁",
+      "onboard_time": 1741057878,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 641140,
       "num": 641140,
       "word": "大侦探 IP对撞",
@@ -108,7 +132,7 @@
     },
     {
       "raw_hot": 635810,
-      "num": 258360,
+      "num": 263193,
       "word": "夜旅人 男主换脸",
       "onboard_time": 1741044796,
       "rank": 38,
@@ -147,20 +171,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 483254,
-      "num": 259390,
-      "word": "媒体评二战考研10分争议",
-      "onboard_time": 1741055716,
-      "rank": 20,
-      "category": "教育"
-    },
-    {
       "raw_hot": 468469,
       "num": 468469,
       "word": "歌手",
       "onboard_time": 1741002919,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 467623,
+      "num": 467623,
+      "word": "哪吒2中土拨鼠原本是Q版",
+      "onboard_time": 1741055536,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 459883,
@@ -180,7 +204,7 @@
     },
     {
       "raw_hot": 439132,
-      "num": 258973,
+      "num": 280780,
       "word": "为什么下腹部的脂肪难减",
       "onboard_time": 1741051578,
       "rank": 26,
@@ -195,12 +219,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 421634,
+      "num": 300323,
+      "word": "雷军建议优化新能源汽车号牌设计",
+      "onboard_time": 1741057819,
+      "rank": 21,
+      "category": "国内时政,汽车"
+    },
+    {
       "raw_hot": 406819,
       "num": 147347,
       "word": "第一部女A男B的国产剧",
       "onboard_time": 1741003878,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 405455,
+      "num": 405455,
+      "word": "孩子脊柱侧弯了还以为是体态不好",
+      "onboard_time": 1741056976,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 377019,
@@ -243,20 +283,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 337116,
-      "num": 337116,
-      "word": "哪吒2中土拨鼠原本是Q版",
-      "onboard_time": 1741055536,
-      "rank": 8,
-      "category": "电影"
-    },
-    {
       "raw_hot": 334877,
-      "num": 258850,
+      "num": 269277,
       "word": "柯南最恐怖的案件",
       "onboard_time": 1741053977,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 330907,
+      "num": 330907,
+      "word": "泽连斯基说乌克兰需要和平",
+      "onboard_time": 1741052897,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 328384,
@@ -289,6 +329,14 @@
       "onboard_time": 1741020076,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 301586,
+      "num": 301586,
+      "word": "ally直播切片",
+      "onboard_time": 1741054997,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 298015,
@@ -340,7 +388,7 @@
     },
     {
       "raw_hot": 252401,
-      "num": 260272,
+      "num": 303217,
       "word": "哪吒2票房",
       "onboard_time": 1741053256,
       "rank": 19,
@@ -379,20 +427,20 @@
       "category": "游戏,互联网"
     },
     {
-      "raw_hot": 214887,
-      "num": 214887,
-      "word": "ally直播切片",
-      "onboard_time": 1741054997,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 207889,
       "num": 130109,
       "word": "张真源",
       "onboard_time": 1741022773,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206780,
+      "num": 305035,
+      "word": "十四届全国人大三次会议议程",
+      "onboard_time": 1741058898,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 206611,
@@ -403,12 +451,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197503,
-      "num": 311742,
-      "word": "泽连斯基说乌克兰需要和平",
-      "onboard_time": 1741052897,
+      "raw_hot": 202772,
+      "num": 202772,
+      "word": "睡不着床头放个苹果管用吗",
+      "onboard_time": 1741054277,
       "rank": 32,
-      "category": "国际时政"
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 197940,
+      "num": 282959,
+      "word": "敖子逸说宋亚轩老弟生日快乐",
+      "onboard_time": 1741058959,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 195828,
@@ -419,12 +475,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 183334,
-      "num": 183334,
-      "word": "睡不着床头放个苹果管用吗",
-      "onboard_time": 1741054277,
-      "rank": 32,
-      "category": "健康医疗"
+      "raw_hot": 186567,
+      "num": 186567,
+      "word": "康师傅冰红茶 林俊杰",
+      "onboard_time": 1741057698,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 182579,
@@ -465,6 +521,14 @@
       "onboard_time": 1741053499,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 153920,
+      "num": 189062,
+      "word": "NBA伤病潮又来了",
+      "onboard_time": 1741057819,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 152723,
@@ -515,6 +579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 137929,
+      "num": 223516,
+      "word": "哪吒2新加坡首映式电影票半小时售罄",
+      "onboard_time": 1741056919,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 137087,
       "num": 137087,
       "word": "习惯性反问是看不见的暴力",
@@ -539,6 +611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 130361,
+      "num": 158362,
+      "word": "北上收视",
+      "onboard_time": 1741058778,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129685,
       "num": 129685,
       "word": "刘耀文拍的宋亚轩张真源合照",
@@ -553,14 +633,6 @@
       "onboard_time": 1741049059,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 126908,
-      "num": 126908,
-      "word": "哪吒2新加坡首映式电影票半小时售罄",
-      "onboard_time": 1741056919,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 125161,
@@ -723,6 +795,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 96690,
+      "num": 155856,
+      "word": "孙颖莎林诗栋继续第一",
+      "onboard_time": 1741056437,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95564,
       "num": 95564,
       "word": "侯明昊进组玉茗茶骨",
@@ -761,14 +841,6 @@
       "onboard_time": 1741018218,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 86557,
-      "num": 86557,
-      "word": "孙颖莎林诗栋继续第一",
-      "onboard_time": 1741056437,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 85724,
@@ -824,6 +896,14 @@
       "word": "广东人工耳蜗从20万元降至5万元",
       "onboard_time": 1741055837,
       "rank": 29,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 73398,
+      "num": 263896,
+      "word": "宫颈癌年轻化趋势越来越明显",
+      "onboard_time": 1741057998,
+      "rank": 26,
       "category": "健康医疗"
     },
     {
@@ -891,20 +971,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 63334,
-      "num": 260542,
-      "word": "孩子脊柱侧弯了还以为是体态不好",
-      "onboard_time": 1741056976,
-      "rank": 37,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 61591,
-      "num": 259573,
-      "word": "女子7号查出怀孕8号直接就生了",
-      "onboard_time": 1741057397,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 64432,
+      "num": 187295,
+      "word": "欧文带伤罚球让我想起科比",
+      "onboard_time": 1741057998,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 61443,
@@ -1083,6 +1155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24644,
+      "num": 218099,
+      "word": "两会上的建议提案流向哪些部门",
+      "onboard_time": 1741057998,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 22682,
       "num": 22682,
       "word": "智搜DS评王一博内娱最具正能量明星",
@@ -1152,6 +1232,14 @@
       "word": "建议心理健康纳入必修课",
       "onboard_time": 1741026612,
       "rank": 43,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 11758,
+      "num": 469760,
+      "word": "全国两会事关你我",
+      "onboard_time": 1741058959,
+      "rank": 2,
       "category": "国内时政"
     },
     {
