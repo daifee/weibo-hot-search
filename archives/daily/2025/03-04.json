@@ -1,6 +1,6 @@
 {
   "startTime": 1741019331864,
-  "endTime": 1741066788245,
+  "endTime": 1741069946710,
   "band_list": [
     {
       "raw_hot": 2983650,
@@ -9,6 +9,14 @@
       "onboard_time": 1741057397,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1493367,
+      "num": 1493367,
+      "word": "中国绝不接受施压和威胁",
+      "onboard_time": 1741065857,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1352534,
@@ -179,6 +187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 620203,
+      "num": 620203,
+      "word": "延迟退休后尽快遏制35岁就业歧视",
+      "onboard_time": 1741066938,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 617461,
       "num": 617461,
       "word": "两会",
@@ -307,6 +323,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 431776,
+      "num": 329695,
+      "word": "难哄车兴德上线",
+      "onboard_time": 1741066099,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 421634,
       "num": 343476,
       "word": "雷军建议优化新能源汽车号牌设计",
@@ -371,12 +395,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 346732,
+      "num": 346732,
+      "word": "敖丙在爸爸怀里时才是宝宝",
+      "onboard_time": 1741063281,
+      "rank": 48,
+      "category": "动漫,电影"
+    },
+    {
       "raw_hot": 342279,
       "num": 342279,
       "word": "黄金再迎大涨",
       "onboard_time": 1741055118,
       "rank": 7,
       "category": "财经"
+    },
+    {
+      "raw_hot": 341593,
+      "num": 341593,
+      "word": "中国对美国鸡肉棉花等加征15%关税",
+      "onboard_time": 1741069338,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 339245,
@@ -443,12 +483,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 301345,
+      "num": 301345,
+      "word": "娄勤俭回应美方再次加征关税",
+      "onboard_time": 1741068977,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 298015,
       "num": 270863,
       "word": "60秒看会功夫的中国机器人",
       "onboard_time": 1741052058,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 297985,
+      "num": 297985,
+      "word": "埃文凯尔抵达北京",
+      "onboard_time": 1741066698,
+      "rank": 49,
+      "category": "网红"
     },
     {
       "raw_hot": 293889,
@@ -483,14 +539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 285289,
-      "num": 285289,
-      "word": "难哄车兴德上线",
-      "onboard_time": 1741066099,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 280790,
       "num": 280790,
       "word": "高度近视的人不建议献血",
@@ -513,6 +561,22 @@
       "onboard_time": 1741002738,
       "rank": 20,
       "category": "数码"
+    },
+    {
+      "raw_hot": 270745,
+      "num": 328355,
+      "word": "章若楠拿捏我只需要一场醉酒戏",
+      "onboard_time": 1741069338,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 265698,
+      "num": 265698,
+      "word": "张杰一直没官宣因为还在升级海报",
+      "onboard_time": 1741067717,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 262798,
@@ -555,14 +619,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 243717,
-      "num": 378087,
-      "word": "中国绝不接受施压和威胁",
-      "onboard_time": 1741065857,
-      "rank": 8,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 243109,
       "num": 243109,
       "word": "男子因家庭矛盾发现自己是被抱养的",
@@ -571,12 +627,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 222296,
+      "num": 222296,
+      "word": "买黄金成00后血脉觉醒的文化密码",
+      "onboard_time": 1741065620,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 221873,
       "num": 337818,
       "word": "冰红茶代言人程潇",
       "onboard_time": 1741061659,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218624,
+      "num": 327904,
+      "word": "李昀锐是谁家大馋小子",
+      "onboard_time": 1741068678,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 217661,
+      "num": 234396,
+      "word": "用DeepSeek选国补家电有多省心",
+      "onboard_time": 1741068977,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 216949,
@@ -593,6 +673,14 @@
       "onboard_time": 1741050379,
       "rank": 27,
       "category": "游戏,互联网"
+    },
+    {
+      "raw_hot": 210552,
+      "num": 210552,
+      "word": "建议教育和引导青少年远离网红诱惑",
+      "onboard_time": 1741067778,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 209064,
@@ -659,12 +747,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 199568,
-      "num": 199568,
-      "word": "买黄金成00后血脉觉醒的文化密码",
-      "onboard_time": 1741065620,
-      "rank": 34,
-      "category": "财经"
+      "raw_hot": 200563,
+      "num": 238497,
+      "word": "李行亮唱回留悼念方大同",
+      "onboard_time": 1741068199,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 195828,
@@ -681,6 +769,14 @@
       "onboard_time": 1741059257,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 194591,
+      "num": 194591,
+      "word": "通过DeepSeek兴起可看到中国的创新性和包容性",
+      "onboard_time": 1741068977,
+      "rank": 35,
+      "category": "国内时政,互联网"
     },
     {
       "raw_hot": 194513,
@@ -827,6 +923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147895,
+      "num": 811450,
+      "word": "全国两会事关你我",
+      "onboard_time": 1741058959,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 147409,
       "num": 259720,
       "word": "5GA网络把AI体验拉满了",
@@ -867,14 +971,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 139395,
-      "num": 139395,
-      "word": "敖丙在爸爸怀里时才是宝宝",
-      "onboard_time": 1741063281,
-      "rank": 48,
-      "category": "动漫,电影"
-    },
-    {
       "raw_hot": 137929,
       "num": 229775,
       "word": "哪吒2新加坡首映式电影票半小时售罄",
@@ -897,6 +993,14 @@
       "onboard_time": 1741063160,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 136251,
+      "num": 136251,
+      "word": "虞书欣精装照片的毛坯过程",
+      "onboard_time": 1741069878,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 134575,
@@ -931,14 +1035,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 127196,
-      "num": 127196,
-      "word": "埃文凯尔抵达北京",
-      "onboard_time": 1741066698,
-      "rank": 49,
-      "category": "网红"
-    },
-    {
       "raw_hot": 125161,
       "num": 125161,
       "word": "变靠谱的3个建议",
@@ -953,14 +1049,6 @@
       "onboard_time": 1741050439,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 119939,
-      "num": 811450,
-      "word": "全国两会事关你我",
-      "onboard_time": 1741058959,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 118296,
@@ -995,6 +1083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112550,
+      "num": 334014,
+      "word": "中方在世贸组织追加起诉美方",
+      "onboard_time": 1741068378,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 112439,
       "num": 112439,
       "word": "DojaCat 难听",
@@ -1019,6 +1115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108477,
+      "num": 330655,
+      "word": "10家美国公司对台军售或有所谓军事合作",
+      "onboard_time": 1741068137,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 108356,
       "num": 108356,
       "word": "白鹿虞书欣新剧或将对打",
@@ -1033,6 +1137,14 @@
       "onboard_time": 1741061778,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107831,
+      "num": 333107,
+      "word": "第一场委员通道",
+      "onboard_time": 1741068797,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 107392,
@@ -1203,6 +1315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 78804,
+      "num": 331198,
+      "word": "不可靠实体清单新增10家美国实体",
+      "onboard_time": 1741068378,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 78657,
       "num": 78657,
       "word": "杨幂把蜜蜂带身上",
@@ -1233,6 +1353,14 @@
       "onboard_time": 1741057998,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 71041,
+      "num": 202498,
+      "word": "东契奇为欧文祈祷",
+      "onboard_time": 1741068618,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 70710,
@@ -1459,6 +1587,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 46628,
+      "num": 135508,
+      "word": "家庭早餐蒸的葱香酱肉包子",
+      "onboard_time": 1741068618,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 45034,
       "num": 45034,
       "word": "张若昀或扮演杜甫",
@@ -1505,6 +1641,22 @@
       "onboard_time": 1741004959,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 33455,
+      "num": 237155,
+      "word": "微观2025全国两会",
+      "onboard_time": 1741069157,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 33054,
+      "num": 239608,
+      "word": "时装主编晒拍摄花絮",
+      "onboard_time": 1741069278,
+      "rank": 27,
+      "category": "时尚"
     },
     {
       "raw_hot": 30299,
