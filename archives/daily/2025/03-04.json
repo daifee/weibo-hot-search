@@ -1,6 +1,6 @@
 {
   "startTime": 1741019331864,
-  "endTime": 1741069946710,
+  "endTime": 1741070733486,
   "band_list": [
     {
       "raw_hot": 2983650,
@@ -72,6 +72,14 @@
       "word": "朴槿惠在私宅会见韩执政党领导层",
       "onboard_time": 1741047020,
       "rank": 11,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1069831,
+      "num": 1069831,
+      "word": "中国对美国鸡肉棉花等加征15%关税",
+      "onboard_time": 1741069338,
+      "rank": 6,
       "category": "国际时政"
     },
     {
@@ -171,6 +179,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 669850,
+      "num": 669850,
+      "word": "延迟退休后尽快遏制35岁就业歧视",
+      "onboard_time": 1741066938,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 641140,
       "num": 641140,
       "word": "大侦探 IP对撞",
@@ -185,14 +201,6 @@
       "onboard_time": 1741044796,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 620203,
-      "num": 620203,
-      "word": "延迟退休后尽快遏制35岁就业歧视",
-      "onboard_time": 1741066938,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 617461,
@@ -339,11 +347,27 @@
       "category": "国内时政,汽车"
     },
     {
+      "raw_hot": 412514,
+      "num": 412514,
+      "word": "敖丙在爸爸怀里时才是宝宝",
+      "onboard_time": 1741063281,
+      "rank": 48,
+      "category": "动漫,电影"
+    },
+    {
       "raw_hot": 406819,
       "num": 147347,
       "word": "第一部女A男B的国产剧",
       "onboard_time": 1741003878,
       "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 403335,
+      "num": 328355,
+      "word": "章若楠拿捏我只需要一场醉酒戏",
+      "onboard_time": 1741069338,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -395,28 +419,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 346732,
-      "num": 346732,
-      "word": "敖丙在爸爸怀里时才是宝宝",
-      "onboard_time": 1741063281,
-      "rank": 48,
-      "category": "动漫,电影"
-    },
-    {
       "raw_hot": 342279,
       "num": 342279,
       "word": "黄金再迎大涨",
       "onboard_time": 1741055118,
       "rank": 7,
       "category": "财经"
-    },
-    {
-      "raw_hot": 341593,
-      "num": 341593,
-      "word": "中国对美国鸡肉棉花等加征15%关税",
-      "onboard_time": 1741069338,
-      "rank": 6,
-      "category": "国际时政"
     },
     {
       "raw_hot": 339245,
@@ -475,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 311623,
+      "num": 311623,
+      "word": "张杰一直没官宣因为还在升级海报",
+      "onboard_time": 1741067717,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 308218,
       "num": 308218,
       "word": "韩束 林一",
@@ -484,7 +500,7 @@
     },
     {
       "raw_hot": 301345,
-      "num": 301345,
+      "num": 332168,
       "word": "娄勤俭回应美方再次加征关税",
       "onboard_time": 1741068977,
       "rank": 22,
@@ -547,6 +563,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 278678,
+      "num": 278678,
+      "word": "虞书欣精装照片的毛坯过程",
+      "onboard_time": 1741069878,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275137,
       "num": 275137,
       "word": "G2985次动车为救人破例临停",
@@ -555,28 +579,20 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 274372,
+      "num": 274372,
+      "word": "李行亮唱回留悼念方大同",
+      "onboard_time": 1741068199,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 272861,
       "num": 167496,
       "word": "iPhone13跌至半价后销量暴增10倍",
       "onboard_time": 1741002738,
       "rank": 20,
       "category": "数码"
-    },
-    {
-      "raw_hot": 270745,
-      "num": 328355,
-      "word": "章若楠拿捏我只需要一场醉酒戏",
-      "onboard_time": 1741069338,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 265698,
-      "num": 265698,
-      "word": "张杰一直没官宣因为还在升级海报",
-      "onboard_time": 1741067717,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 262798,
@@ -625,6 +641,14 @@
       "onboard_time": 1741053798,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 224890,
+      "num": 224890,
+      "word": "播了17集男女主才有肢体接触",
+      "onboard_time": 1741070058,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 222296,
@@ -745,14 +769,6 @@
       "onboard_time": 1741054277,
       "rank": 32,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 200563,
-      "num": 238497,
-      "word": "李行亮唱回留悼念方大同",
-      "onboard_time": 1741068199,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 195828,
@@ -924,7 +940,7 @@
     },
     {
       "raw_hot": 147895,
-      "num": 811450,
+      "num": 832550,
       "word": "全国两会事关你我",
       "onboard_time": 1741058959,
       "rank": 2,
@@ -937,6 +953,14 @@
       "onboard_time": 1741053738,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 146505,
+      "num": 146505,
+      "word": "造型师晒与热巴合影",
+      "onboard_time": 1741070297,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 145150,
@@ -995,14 +1019,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 136251,
-      "num": 136251,
-      "word": "虞书欣精装照片的毛坯过程",
-      "onboard_time": 1741069878,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 134575,
       "num": 121457,
       "word": "aespa演唱会没给宁艺卓打光",
@@ -1027,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129391,
+      "num": 171093,
+      "word": "北上台词童年限定语音包",
+      "onboard_time": 1741070537,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129156,
       "num": 164720,
       "word": "网易游戏发文致歉",
@@ -1049,6 +1073,14 @@
       "onboard_time": 1741050439,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 119244,
+      "num": 334014,
+      "word": "中方在世贸组织追加起诉美方",
+      "onboard_time": 1741068378,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 118296,
@@ -1081,14 +1113,6 @@
       "onboard_time": 1741015279,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 112550,
-      "num": 334014,
-      "word": "中方在世贸组织追加起诉美方",
-      "onboard_time": 1741068378,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 112439,
@@ -1291,6 +1315,14 @@
       "category": "国内时政,国际时政"
     },
     {
+      "raw_hot": 84205,
+      "num": 331198,
+      "word": "不可靠实体清单新增10家美国实体",
+      "onboard_time": 1741068378,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 83467,
       "num": 83467,
       "word": "爱你",
@@ -1313,14 +1345,6 @@
       "onboard_time": 1741015219,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 78804,
-      "num": 331198,
-      "word": "不可靠实体清单新增10家美国实体",
-      "onboard_time": 1741068378,
-      "rank": 13,
-      "category": "国内时政"
     },
     {
       "raw_hot": 78657,
@@ -1689,6 +1713,14 @@
       "onboard_time": 1741057998,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 23662,
+      "num": 173666,
+      "word": "你希望AI机器人代替什么工种",
+      "onboard_time": 1741070177,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 22682,
