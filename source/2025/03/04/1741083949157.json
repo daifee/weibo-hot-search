@@ -1,0 +1,410 @@
+{
+  "runTime": 1741083949157,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 924385,
+        "num": 1147901,
+        "word": "建议在全国推行春秋假制度",
+        "onboard_time": 1741072939,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 326546,
+        "num": 326546,
+        "word": "DeepSeek等成两会热点",
+        "onboard_time": 1741072397,
+        "rank": 1,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 51827,
+        "num": 324768,
+        "word": "十四届全国人大三次会议议程",
+        "onboard_time": 1741058898,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 610958,
+        "num": 322884,
+        "word": "建议男性可申请6个月育儿假",
+        "onboard_time": 1741080204,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 556918,
+        "num": 320400,
+        "word": "哪吒半成品 3.5元一斤",
+        "onboard_time": 1741075161,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 427008,
+        "num": 316404,
+        "word": "难哄偷偷藏不住联动",
+        "onboard_time": 1741080505,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304142,
+        "num": 314916,
+        "word": "中国对美国鸡肉棉花等加征15%关税",
+        "onboard_time": 1741069338,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 313002,
+        "num": 313002,
+        "word": "建议研究生考试提前至9月",
+        "onboard_time": 1741070838,
+        "rank": 7,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 299252,
+        "num": 299252,
+        "word": "终于有为女儿撑腰的古装剧了",
+        "onboard_time": 1741081162,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172874,
+        "num": 299077,
+        "word": "特朗普下令暂停对乌所有军事援助",
+        "onboard_time": 1741081463,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 880153,
+        "num": 298904,
+        "word": "女子7号查出怀孕8号直接就生了",
+        "onboard_time": 1741057397,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 754437,
+        "num": 298442,
+        "word": "恋与深空封号",
+        "onboard_time": 1741081702,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 634220,
+        "num": 298227,
+        "word": "血观音 神作",
+        "onboard_time": 1741080984,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 606156,
+        "num": 298115,
+        "word": "每三个15岁以上男性有一人感染HPV",
+        "onboard_time": 1741081223,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62609,
+        "num": 297638,
+        "word": "建议改革高校非升即走制度",
+        "onboard_time": 1741083322,
+        "rank": 14,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 410303,
+        "num": 297434,
+        "word": "方大同离世前BMI",
+        "onboard_time": 1741074198,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404788,
+        "num": 297286,
+        "word": "张馨予怒点16个菜最后全吃光了",
+        "onboard_time": 1741072458,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385443,
+        "num": 296952,
+        "word": "电影血观音",
+        "onboard_time": 1741078886,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 44381,
+        "num": 296587,
+        "word": "刘雨昕周也李昀锐预热",
+        "onboard_time": 1741083502,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 149566,
+        "num": 296333,
+        "word": "韩国财阀有多可怕",
+        "onboard_time": 1741083261,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 5406720,
+        "num": 296183,
+        "word": "曝王大陆涉嫌杀人未遂移送侦办",
+        "onboard_time": 1741077081,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307533,
+        "num": 295981,
+        "word": "两会",
+        "onboard_time": 1741055659,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 462076,
+        "num": 295460,
+        "word": "你俩都亲过一辈子了害什么羞",
+        "onboard_time": 1741081823,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295452,
+        "num": 295452,
+        "word": "罗云熙抹额",
+        "onboard_time": 1741080626,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 268584,
+        "num": 268584,
+        "word": "血观音吊打阿诺拉",
+        "onboard_time": 1741082182,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 257195,
+        "num": 257195,
+        "word": "难哄 暴烈地吻",
+        "onboard_time": 1741074138,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225358,
+        "num": 225358,
+        "word": "美方如果执意打关税战中方奉陪到底",
+        "onboard_time": 1741080743,
+        "rank": 26,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 221831,
+        "num": 221831,
+        "word": "我的少女时代",
+        "onboard_time": 1741083081,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 47438,
+        "num": 203125,
+        "word": "代表建议将无痛分娩纳入医保",
+        "onboard_time": 1741083441,
+        "rank": 28,
+        "category": "国内时政,健康医疗"
+      },
+      {
+        "raw_hot": 23340,
+        "num": 200428,
+        "word": "建议治理提灯定损式恶意克扣押金",
+        "onboard_time": 1741082721,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13946,
+        "num": 200187,
+        "word": "建议扩大冻卵技术适用人群",
+        "onboard_time": 1741083801,
+        "rank": 30,
+        "category": "国内时政,健康医疗"
+      },
+      {
+        "raw_hot": 200105,
+        "num": 200105,
+        "word": "虞书欣精装照片的毛坯过程",
+        "onboard_time": 1741069878,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58277,
+        "num": 189608,
+        "word": "林高远入选澳门世界杯邀请名单",
+        "onboard_time": 1741083861,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183340,
+        "num": 183340,
+        "word": "肖战 小站记",
+        "onboard_time": 1741077143,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167097,
+        "num": 167097,
+        "word": "唐山3.0级地震",
+        "onboard_time": 1741076961,
+        "rank": 34,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 93486,
+        "num": 164296,
+        "word": "今年看过最抽象的一部剧",
+        "onboard_time": 1741082602,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58439,
+        "num": 163884,
+        "word": "王曼昱入选澳门世界杯邀请名单",
+        "onboard_time": 1741078527,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163665,
+        "num": 163665,
+        "word": "朱丹晒周一围与儿子背影照",
+        "onboard_time": 1741079725,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155459,
+        "num": 155459,
+        "word": "通过DeepSeek兴起可看到中国的创新性和包容性",
+        "onboard_time": 1741068977,
+        "rank": 38,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 135426,
+        "num": 135426,
+        "word": "建议统一公布全国禁养犬大型犬名录",
+        "onboard_time": 1741079905,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134234,
+        "num": 134234,
+        "word": "中国的芬太尼类物质管控白皮书发布",
+        "onboard_time": 1741080684,
+        "rank": 40,
+        "category": "国内时政,健康医疗"
+      },
+      {
+        "raw_hot": 130404,
+        "num": 130404,
+        "word": "恋与深空 秦彻",
+        "onboard_time": 1741082903,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122971,
+        "num": 122971,
+        "word": "两会第一线",
+        "onboard_time": 1741066038,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122362,
+        "num": 122362,
+        "word": "费翔 养猫的人都懂",
+        "onboard_time": 1741075819,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118855,
+        "num": 118855,
+        "word": "周鸿祎谈DeepSeek开源",
+        "onboard_time": 1741082782,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 112479,
+        "num": 112479,
+        "word": "麦当劳变成了没有情绪的中年人",
+        "onboard_time": 1741059857,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104953,
+        "num": 104953,
+        "word": "柯洁发博抱住了蒲熠星",
+        "onboard_time": 1741083921,
+        "rank": 46,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 102860,
+        "num": 104721,
+        "word": "胡歌的伪装者DNA动了",
+        "onboard_time": 1741082063,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96268,
+        "num": 104687,
+        "word": "王安宇支持刘浩存电影",
+        "onboard_time": 1741078225,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104670,
+        "num": 104670,
+        "word": "未来人形机器人或只需一台手机钱",
+        "onboard_time": 1741080084,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#全国政协十四届三次会议开幕#"
+    }
+  }
+}

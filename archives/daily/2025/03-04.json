@@ -1,6 +1,6 @@
 {
   "startTime": 1741019331864,
-  "endTime": 1741081157004,
+  "endTime": 1741083949157,
   "band_list": [
     {
       "raw_hot": 13760834,
@@ -243,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 754437,
+      "num": 298442,
+      "word": "恋与深空封号",
+      "onboard_time": 1741081702,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 742802,
       "num": 368170,
       "word": "迪丽热巴摄影尹超",
@@ -275,12 +283,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 634220,
+      "num": 298227,
+      "word": "血观音 神作",
+      "onboard_time": 1741080984,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 617461,
       "num": 617461,
       "word": "两会",
       "onboard_time": 1741055659,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 610958,
+      "num": 322884,
+      "word": "建议男性可申请6个月育儿假",
+      "onboard_time": 1741080204,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 606156,
+      "num": 298115,
+      "word": "每三个15岁以上男性有一人感染HPV",
+      "onboard_time": 1741081223,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 582863,
@@ -332,7 +364,7 @@
     },
     {
       "raw_hot": 519240,
-      "num": 281393,
+      "num": 296952,
       "word": "电影血观音",
       "onboard_time": 1741078886,
       "rank": 15,
@@ -369,6 +401,14 @@
       "onboard_time": 1741002919,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 462076,
+      "num": 295460,
+      "word": "你俩都亲过一辈子了害什么羞",
+      "onboard_time": 1741081823,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 459883,
@@ -432,6 +472,14 @@
       "word": "难哄车兴德上线",
       "onboard_time": 1741066099,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 427008,
+      "num": 316404,
+      "word": "难哄偷偷藏不住联动",
+      "onboard_time": 1741080505,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -635,6 +683,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 299252,
+      "num": 299252,
+      "word": "终于有为女儿撑腰的古装剧了",
+      "onboard_time": 1741081162,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 298015,
       "num": 270863,
       "word": "60秒看会功夫的中国机器人",
@@ -657,6 +713,14 @@
       "onboard_time": 1741066698,
       "rank": 49,
       "category": "网红"
+    },
+    {
+      "raw_hot": 295452,
+      "num": 295452,
+      "word": "罗云熙抹额",
+      "onboard_time": 1741080626,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 293889,
@@ -737,6 +801,14 @@
       "onboard_time": 1741075340,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 268584,
+      "num": 268584,
+      "word": "血观音吊打阿诺拉",
+      "onboard_time": 1741082182,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 268380,
@@ -843,6 +915,14 @@
       "category": "国内时政,互联网"
     },
     {
+      "raw_hot": 225358,
+      "num": 269085,
+      "word": "美方如果执意打关税战中方奉陪到底",
+      "onboard_time": 1741080743,
+      "rank": 20,
+      "category": "国际时政,国内时政"
+    },
+    {
       "raw_hot": 224890,
       "num": 228512,
       "word": "播了17集男女主才有肢体接触",
@@ -873,6 +953,14 @@
       "onboard_time": 1741061659,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221831,
+      "num": 221831,
+      "word": "我的少女时代",
+      "onboard_time": 1741083081,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 218624,
@@ -979,14 +1067,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 203246,
-      "num": 203246,
-      "word": "难哄偷偷藏不住联动",
-      "onboard_time": 1741080505,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 202985,
       "num": 230108,
       "word": "WINTER个人首封",
@@ -1041,14 +1121,6 @@
       "onboard_time": 1741060820,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 192882,
-      "num": 192882,
-      "word": "罗云熙抹额",
-      "onboard_time": 1741080626,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 189440,
@@ -1131,6 +1203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172874,
+      "num": 299077,
+      "word": "特朗普下令暂停对乌所有军事援助",
+      "onboard_time": 1741081463,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 172807,
       "num": 172807,
       "word": "杨紫脏脏包造型",
@@ -1169,14 +1249,6 @@
       "onboard_time": 1741050379,
       "rank": 25,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 162773,
-      "num": 272374,
-      "word": "建议男性可申请6个月育儿假",
-      "onboard_time": 1741080204,
-      "rank": 35,
-      "category": "国内时政"
     },
     {
       "raw_hot": 157080,
@@ -1267,20 +1339,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 149840,
-      "num": 149840,
-      "word": "血观音 神作",
-      "onboard_time": 1741080984,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 149742,
       "num": 149742,
       "word": "虞书欣 企鹅舞",
       "onboard_time": 1741062440,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149566,
+      "num": 296333,
+      "word": "韩国财阀有多可怕",
+      "onboard_time": 1741083261,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 149113,
@@ -1435,6 +1507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 130404,
+      "num": 130404,
+      "word": "恋与深空 秦彻",
+      "onboard_time": 1741082903,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 130106,
       "num": 130106,
       "word": "肖战白背心live",
@@ -1521,6 +1601,14 @@
       "onboard_time": 1741068378,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 118855,
+      "num": 118855,
+      "word": "周鸿祎谈DeepSeek开源",
+      "onboard_time": 1741082782,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 118296,
@@ -1667,6 +1755,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 104953,
+      "num": 104953,
+      "word": "柯洁发博抱住了蒲熠星",
+      "onboard_time": 1741083921,
+      "rank": 46,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 104670,
+      "num": 271795,
+      "word": "未来人形机器人或只需一台手机钱",
+      "onboard_time": 1741080084,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104477,
       "num": 104477,
       "word": "53岁爸爸带女儿走出抑郁症的一天",
@@ -1697,6 +1801,14 @@
       "onboard_time": 1741047620,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 102860,
+      "num": 104721,
+      "word": "胡歌的伪装者DNA动了",
+      "onboard_time": 1741082063,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 102097,
@@ -1763,20 +1875,20 @@
       "category": "国内时政,互联网"
     },
     {
+      "raw_hot": 93486,
+      "num": 164296,
+      "word": "今年看过最抽象的一部剧",
+      "onboard_time": 1741082602,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92113,
       "num": 92113,
       "word": "西园寺击掌猫是被主人带着晒太阳的",
       "onboard_time": 1741040952,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 89668,
-      "num": 269085,
-      "word": "美方如果执意打关税战中方奉陪到底",
-      "onboard_time": 1741080743,
-      "rank": 20,
-      "category": "国际时政,国内时政"
     },
     {
       "raw_hot": 88947,
@@ -1793,14 +1905,6 @@
       "onboard_time": 1741018218,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 86798,
-      "num": 271795,
-      "word": "未来人形机器人或只需一台手机钱",
-      "onboard_time": 1741080084,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 86117,
@@ -1979,6 +2083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62609,
+      "num": 297638,
+      "word": "建议改革高校非升即走制度",
+      "onboard_time": 1741083322,
+      "rank": 14,
+      "category": "国内时政,教育"
+    },
+    {
       "raw_hot": 62041,
       "num": 209249,
       "word": "代表呼吁为全职妈妈设妈妈岗",
@@ -2017,6 +2129,22 @@
       "onboard_time": 1741059378,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58439,
+      "num": 163884,
+      "word": "王曼昱入选澳门世界杯邀请名单",
+      "onboard_time": 1741078527,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 58277,
+      "num": 189608,
+      "word": "林高远入选澳门世界杯邀请名单",
+      "onboard_time": 1741083861,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 57504,
@@ -2139,6 +2267,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 47438,
+      "num": 203125,
+      "word": "代表建议将无痛分娩纳入医保",
+      "onboard_time": 1741083441,
+      "rank": 28,
+      "category": "国内时政,健康医疗"
+    },
+    {
       "raw_hot": 46628,
       "num": 135508,
       "word": "家庭早餐蒸的葱香酱肉包子",
@@ -2153,6 +2289,14 @@
       "onboard_time": 1741043296,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 44381,
+      "num": 296587,
+      "word": "刘雨昕周也李昀锐预热",
+      "onboard_time": 1741083502,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 41138,
@@ -2267,6 +2411,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 23340,
+      "num": 200428,
+      "word": "建议治理提灯定损式恶意克扣押金",
+      "onboard_time": 1741082721,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 22682,
       "num": 22682,
       "word": "智搜DS评王一博内娱最具正能量明星",
@@ -2329,6 +2481,14 @@
       "onboard_time": 1741039752,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13946,
+      "num": 200187,
+      "word": "建议扩大冻卵技术适用人群",
+      "onboard_time": 1741083801,
+      "rank": 30,
+      "category": "国内时政,健康医疗"
     },
     {
       "raw_hot": 13299,
