@@ -1,10 +1,10 @@
 {
   "startTime": 1741019331864,
-  "endTime": 1741059946606,
+  "endTime": 1741062486689,
   "band_list": [
     {
       "raw_hot": 2983650,
-      "num": 365289,
+      "num": 383378,
       "word": "女子7号查出怀孕8号直接就生了",
       "onboard_time": 1741057397,
       "rank": 19,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1111121,
-      "num": 355353,
+      "num": 357512,
       "word": "任重孙骁骁带孩子吃早餐",
       "onboard_time": 1741048159,
       "rank": 10,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1078864,
-      "num": 362766,
+      "num": 365014,
       "word": "媒体评二战考研10分争议",
       "onboard_time": 1741055716,
       "rank": 20,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1077440,
-      "num": 314998,
+      "num": 334610,
       "word": "朴槿惠在私宅会见韩执政党领导层",
       "onboard_time": 1741047020,
       "rank": 11,
@@ -76,10 +76,18 @@
     },
     {
       "raw_hot": 920065,
-      "num": 348356,
+      "num": 371434,
       "word": "特朗普说不会再容忍更久了",
       "onboard_time": 1741044736,
       "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 872589,
+      "num": 444492,
+      "word": "俄罗斯回应日本制裁",
+      "onboard_time": 1741057878,
+      "rank": 5,
       "category": "国际时政"
     },
     {
@@ -92,19 +100,11 @@
     },
     {
       "raw_hot": 861248,
-      "num": 359529,
+      "num": 376019,
       "word": "黄杨钿甜北电艺考",
       "onboard_time": 1741055958,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 844740,
-      "num": 444492,
-      "word": "俄罗斯回应日本制裁",
-      "onboard_time": 1741057878,
-      "rank": 5,
-      "category": "国际时政"
     },
     {
       "raw_hot": 816478,
@@ -171,6 +171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 479420,
+      "num": 348651,
+      "word": "麦当劳变成了没有情绪的中年人",
+      "onboard_time": 1741059857,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 478554,
       "num": 478554,
       "word": "哪吒2中土拨鼠原本是Q版",
@@ -211,6 +219,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 440361,
+      "num": 440361,
+      "word": "雷军称AI换脸拟声成违法重灾区",
+      "onboard_time": 1741060820,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 439132,
       "num": 280780,
       "word": "为什么下腹部的脂肪难减",
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 421634,
-      "num": 300323,
+      "num": 343476,
       "word": "雷军建议优化新能源汽车号牌设计",
       "onboard_time": 1741057819,
       "rank": 21,
@@ -249,6 +265,14 @@
       "onboard_time": 1741003878,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 397083,
+      "num": 343558,
+      "word": "康师傅冰红茶 林俊杰",
+      "onboard_time": 1741057698,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 377019,
@@ -268,7 +292,7 @@
     },
     {
       "raw_hot": 369422,
-      "num": 301586,
+      "num": 338934,
       "word": "ally直播切片",
       "onboard_time": 1741054997,
       "rank": 33,
@@ -276,7 +300,7 @@
     },
     {
       "raw_hot": 368266,
-      "num": 282959,
+      "num": 342774,
       "word": "敖子逸说宋亚轩老弟生日快乐",
       "onboard_time": 1741058959,
       "rank": 23,
@@ -403,6 +427,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 262137,
+      "num": 262137,
+      "word": "美暂停对乌的军事援助",
+      "onboard_time": 1741048520,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 252401,
       "num": 303217,
       "word": "哪吒2票房",
@@ -427,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 238779,
+      "num": 238779,
+      "word": "高度近视的人不建议献血",
+      "onboard_time": 1741059378,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 216949,
       "num": 216949,
       "word": "哪吒2成首部破20亿美元亚洲电影",
@@ -441,6 +481,14 @@
       "onboard_time": 1741050379,
       "rank": 27,
       "category": "游戏,互联网"
+    },
+    {
+      "raw_hot": 216644,
+      "num": 336659,
+      "word": "孙颖莎入选澳门世界杯邀请名单",
+      "onboard_time": 1741062138,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 207889,
@@ -459,12 +507,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203458,
+      "num": 338222,
+      "word": "蔡根花容珮一起在北上摆摊",
+      "onboard_time": 1741061358,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202772,
       "num": 202772,
       "word": "睡不着床头放个苹果管用吗",
       "onboard_time": 1741054277,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 201068,
+      "num": 337818,
+      "word": "冰红茶代言人程潇",
+      "onboard_time": 1741061659,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 199939,
+      "num": 337109,
+      "word": "小黄人说甜茶偷了我们的造型",
+      "onboard_time": 1741061778,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 195828,
@@ -491,12 +563,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 186567,
-      "num": 186567,
-      "word": "康师傅冰红茶 林俊杰",
-      "onboard_time": 1741057698,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 194362,
+      "num": 392747,
+      "word": "十四届全国人大三次会议举行发布会",
+      "onboard_time": 1741060820,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 186873,
+      "num": 186873,
+      "word": "光遇炸服",
+      "onboard_time": 1741061060,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 182579,
@@ -507,12 +587,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 178391,
-      "num": 178391,
-      "word": "美暂停对乌的军事援助",
-      "onboard_time": 1741048520,
-      "rank": 45,
-      "category": "国际时政"
+      "raw_hot": 179634,
+      "num": 179634,
+      "word": "藕饼欲莲",
+      "onboard_time": 1741062138,
+      "rank": 41,
+      "category": "动漫,电影"
+    },
+    {
+      "raw_hot": 178356,
+      "num": 178356,
+      "word": "恋与深空",
+      "onboard_time": 1741049839,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 175449,
@@ -529,6 +617,22 @@
       "onboard_time": 1741052838,
       "rank": 9,
       "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 164576,
+      "num": 164576,
+      "word": "难哄 投影仪镜头",
+      "onboard_time": 1741062320,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 164275,
+      "num": 164275,
+      "word": "俄无限期禁止日本外相等9人入境",
+      "onboard_time": 1741058838,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 164263,
@@ -563,6 +667,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 151323,
+      "num": 151323,
+      "word": "林俊杰黑粉未道歉被公告",
+      "onboard_time": 1741060158,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151264,
       "num": 151264,
       "word": "北京套内80平米的家",
@@ -587,6 +699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149742,
+      "num": 149742,
+      "word": "虞书欣 企鹅舞",
+      "onboard_time": 1741062440,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147409,
       "num": 259720,
       "word": "5GA网络把AI体验拉满了",
@@ -601,6 +721,22 @@
       "onboard_time": 1741054097,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 141511,
+      "num": 335327,
+      "word": "交警因暴雪疏导车辆一整夜冻成雪人",
+      "onboard_time": 1741061179,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138755,
+      "num": 269885,
+      "word": "樊振东入选澳门世界杯邀请名单",
+      "onboard_time": 1741060158,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 137929,
@@ -636,7 +772,7 @@
     },
     {
       "raw_hot": 129685,
-      "num": 129685,
+      "num": 335438,
       "word": "刘耀文拍的宋亚轩张真源合照",
       "onboard_time": 1741055057,
       "rank": 39,
@@ -667,6 +803,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 118857,
+      "num": 607513,
+      "word": "全国两会事关你我",
+      "onboard_time": 1741058959,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 118296,
       "num": 118296,
       "word": "马龙一边聊天一边淡定开测",
@@ -689,14 +833,6 @@
       "onboard_time": 1741013779,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 115532,
-      "num": 115532,
-      "word": "麦当劳变成了没有情绪的中年人",
-      "onboard_time": 1741059857,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 114101,
@@ -745,22 +881,6 @@
       "onboard_time": 1741056437,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 106929,
-      "num": 106929,
-      "word": "恋与深空",
-      "onboard_time": 1741049839,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 106895,
-      "num": 106895,
-      "word": "俄无限期禁止日本外相等9人入境",
-      "onboard_time": 1741058838,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 106144,
@@ -859,20 +979,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 90325,
-      "num": 607513,
-      "word": "全国两会事关你我",
-      "onboard_time": 1741058959,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 88947,
       "num": 88947,
       "word": "勇士vs黄蜂",
       "onboard_time": 1741056317,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88823,
+      "num": 393442,
+      "word": "十四届全国人大三次会议开闭幕时间",
+      "onboard_time": 1741061718,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 86843,
@@ -1036,11 +1156,19 @@
     },
     {
       "raw_hot": 59470,
-      "num": 370904,
+      "num": 388463,
       "word": "中国式现代化励志宣传片主角",
       "onboard_time": 1741059378,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57217,
+      "num": 248203,
+      "word": "刘亦菲让自己愉悦的方式",
+      "onboard_time": 1741061778,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 56302,
@@ -1147,14 +1275,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 48114,
-      "num": 229764,
-      "word": "高度近视的人不建议献血",
-      "onboard_time": 1741059378,
-      "rank": 29,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 45034,
       "num": 45034,
       "word": "张若昀或扮演杜甫",
@@ -1203,6 +1323,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 28092,
+      "num": 343695,
+      "word": "建议老年人居家护理纳入医保",
+      "onboard_time": 1741061778,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26497,
       "num": 37879,
       "word": "做自然的朋友",
@@ -1225,6 +1353,14 @@
       "onboard_time": 1741037111,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 21375,
+      "num": 241501,
+      "word": "燕云十六声服务器波动修复公告",
+      "onboard_time": 1741061358,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 17429,
