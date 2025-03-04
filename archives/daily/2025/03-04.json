@@ -1,6 +1,6 @@
 {
   "startTime": 1741019331864,
-  "endTime": 1741092279271,
+  "endTime": 1741093228442,
   "band_list": [
     {
       "raw_hot": 13760834,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2284377,
-      "num": 419994,
+      "num": 550772,
       "word": "韩国财阀有多可怕",
       "onboard_time": 1741083261,
       "rank": 19,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1386451,
-      "num": 247661,
+      "num": 291926,
       "word": "石头参加北电艺考",
       "onboard_time": 1741089620,
       "rank": 10,
@@ -243,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 856195,
+      "num": 1136991,
+      "word": "花旗银行误将81万亿美元转给个人",
+      "onboard_time": 1741090759,
+      "rank": 1,
+      "category": "财经"
+    },
+    {
       "raw_hot": 841980,
       "num": 357294,
       "word": "唐山3.0级地震",
@@ -307,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 639066,
+      "num": 260927,
+      "word": "肖战今天有点太大方了",
+      "onboard_time": 1741090280,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 635810,
       "num": 263193,
       "word": "夜旅人 男主换脸",
@@ -320,6 +336,14 @@
       "word": "血观音 神作",
       "onboard_time": 1741080984,
       "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 632919,
+      "num": 632919,
+      "word": "张小斐迪丽热巴张艺兴 女足",
+      "onboard_time": 1741091600,
+      "rank": 9,
       "category": "电影"
     },
     {
@@ -347,28 +371,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 581745,
+      "num": 290418,
+      "word": "雷军回应不锈钢纸杯卖爆",
+      "onboard_time": 1741090759,
+      "rank": 15,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 569972,
       "num": 569972,
       "word": "DeepSeek等成两会热点",
       "onboard_time": 1741072397,
       "rank": 3,
       "category": "国内时政,互联网"
-    },
-    {
-      "raw_hot": 560494,
-      "num": 560494,
-      "word": "花旗银行误将81万亿美元转给个人",
-      "onboard_time": 1741090759,
-      "rank": 1,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 557598,
-      "num": 240970,
-      "word": "肖战今天有点太大方了",
-      "onboard_time": 1741090280,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 551696,
@@ -417,6 +433,14 @@
       "onboard_time": 1741014019,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 495581,
+      "num": 495581,
+      "word": "我国AI人才缺口达500万人",
+      "onboard_time": 1741088900,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 478554,
@@ -547,14 +571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 418825,
-      "num": 418825,
-      "word": "我国AI人才缺口达500万人",
-      "onboard_time": 1741088900,
-      "rank": 4,
-      "category": "教育"
-    },
-    {
       "raw_hot": 408297,
       "num": 408297,
       "word": "乌克兰回应美国暂停军援",
@@ -585,14 +601,6 @@
       "onboard_time": 1741072337,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 379372,
-      "num": 246908,
-      "word": "雷军回应不锈钢纸杯卖爆",
-      "onboard_time": 1741090759,
-      "rank": 15,
-      "category": "互联网"
     },
     {
       "raw_hot": 377019,
@@ -668,7 +676,7 @@
     },
     {
       "raw_hot": 344339,
-      "num": 246653,
+      "num": 287268,
       "word": "酷酷的滕在难哄二婚了",
       "onboard_time": 1741087040,
       "rank": 42,
@@ -979,6 +987,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 253035,
+      "num": 198659,
+      "word": "莫文蔚谈方大同去世",
+      "onboard_time": 1741092979,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252401,
       "num": 303217,
       "word": "哪吒2票房",
@@ -1003,20 +1019,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 247662,
-      "num": 247662,
-      "word": "张小斐迪丽热巴张艺兴 女足",
-      "onboard_time": 1741091600,
-      "rank": 9,
-      "category": "电影"
-    },
-    {
       "raw_hot": 244878,
       "num": 244878,
       "word": "造型师晒与热巴合影",
       "onboard_time": 1741070297,
       "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 244691,
+      "num": 243843,
+      "word": "偶遇肖战在巴塞罗那街边捡糖",
+      "onboard_time": 1741091839,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 243109,
@@ -1251,6 +1267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 205185,
+      "num": 297484,
+      "word": "哪吒2让外国电影院经理惊讶了",
+      "onboard_time": 1741090221,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 203458,
       "num": 338222,
       "word": "蔡根花容珮一起在北上摆摊",
@@ -1339,6 +1363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188158,
+      "num": 188158,
+      "word": "宋亚轩给鼠标打电话",
+      "onboard_time": 1741092620,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187349,
       "num": 314167,
       "word": "全国政协十四届三次会议今日开幕",
@@ -1387,6 +1419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179458,
+      "num": 199164,
+      "word": "掌心大结局he",
+      "onboard_time": 1741092440,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178857,
       "num": 178857,
       "word": "明日方舟死芒",
@@ -1401,14 +1441,6 @@
       "onboard_time": 1741070898,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 175479,
-      "num": 243843,
-      "word": "偶遇肖战在巴塞罗那街边捡糖",
-      "onboard_time": 1741091839,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 175449,
@@ -1459,6 +1491,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 171276,
+      "num": 171276,
+      "word": "蓝盈莹饭撒在真诚面前一文不值",
+      "onboard_time": 1741092260,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 170718,
       "num": 359420,
       "word": "建议房租年涨幅不得超过5%",
@@ -1481,14 +1521,6 @@
       "onboard_time": 1741090821,
       "rank": 34,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 165882,
-      "num": 244365,
-      "word": "哪吒2让外国电影院经理惊讶了",
-      "onboard_time": 1741090221,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 165358,
@@ -1545,6 +1577,14 @@
       "onboard_time": 1741079246,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 153926,
+      "num": 153926,
+      "word": "第一次在年代剧嗑中年cp",
+      "onboard_time": 1741092082,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 153920,
@@ -1803,6 +1843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 132143,
+      "num": 132143,
+      "word": "惠英红 神级演技",
+      "onboard_time": 1741092680,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 130106,
       "num": 130106,
       "word": "肖战白背心live",
@@ -1865,6 +1913,14 @@
       "onboard_time": 1741091120,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126408,
+      "num": 288103,
+      "word": "郭艾伦眼伤已拆线",
+      "onboard_time": 1741092320,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 125964,
@@ -1992,14 +2048,6 @@
       "word": "原来暧昧拉扯比直接谈甜多了",
       "onboard_time": 1741081103,
       "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 113180,
-      "num": 113180,
-      "word": "第一次在年代剧嗑中年cp",
-      "onboard_time": 1741092082,
-      "rank": 43,
       "category": "剧集"
     },
     {
@@ -2179,14 +2227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 98219,
-      "num": 98219,
-      "word": "蓝盈莹饭撒在真诚面前一文不值",
-      "onboard_time": 1741092260,
-      "rank": 49,
-      "category": "电影"
-    },
-    {
       "raw_hot": 97811,
       "num": 240363,
       "word": "荣耀MWC发布了超Open的AI",
@@ -2315,6 +2355,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 83602,
+      "num": 205206,
+      "word": "郑钦文蓝色套装走红毯",
+      "onboard_time": 1741090340,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83119,
       "num": 83119,
       "word": "花十几小时做的肉一双筷子就能切开",
@@ -2441,6 +2489,14 @@
       "onboard_time": 1741012162,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 66206,
+      "num": 168069,
+      "word": "张淼怡直播",
+      "onboard_time": 1741093043,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 65548,
@@ -2737,6 +2793,14 @@
       "onboard_time": 1741004959,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 33658,
+      "num": 298710,
+      "word": "DeepSeek打破AI巨头垄断",
+      "onboard_time": 1741092320,
+      "rank": 8,
+      "category": "国内时政,互联网"
     },
     {
       "raw_hot": 33455,
