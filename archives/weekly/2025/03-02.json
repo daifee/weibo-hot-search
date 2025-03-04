@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1741105825822,
+  "endTime": 1741106738996,
   "band_list": [
     {
       "raw_hot": 13760834,
@@ -587,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 905216,
+      "num": 910651,
+      "word": "iPad11售价2999元起",
+      "onboard_time": 1741103179,
+      "rank": 0,
+      "category": "数码"
+    },
+    {
       "raw_hot": 897803,
       "num": 342214,
       "word": "颜如晶暴瘦60斤后现身重庆马拉松",
@@ -697,14 +705,6 @@
       "onboard_time": 1741055958,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 860734,
-      "num": 910651,
-      "word": "iPad11售价2999元起",
-      "onboard_time": 1741103179,
-      "rank": 0,
-      "category": "数码"
     },
     {
       "raw_hot": 845442,
@@ -6307,6 +6307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 133386,
+      "num": 238632,
+      "word": "郭涛儿子参加北电艺考",
+      "onboard_time": 1741101620,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133358,
       "num": 307457,
       "word": "建议学前教育逐步免费",
@@ -6673,14 +6681,6 @@
       "onboard_time": 1740959178,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 125485,
-      "num": 238632,
-      "word": "郭涛儿子参加北电艺考",
-      "onboard_time": 1741101620,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 125282,
@@ -8083,20 +8083,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 77020,
+      "num": 189249,
+      "word": "中方将采取反制措施",
+      "onboard_time": 1741103479,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 76781,
       "num": 76781,
       "word": "认真买金子的鸭鸭",
       "onboard_time": 1740873676,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 76589,
-      "num": 189249,
-      "word": "中方将采取反制措施",
-      "onboard_time": 1741103479,
-      "rank": 23,
-      "category": "国内时政"
     },
     {
       "raw_hot": 76501,

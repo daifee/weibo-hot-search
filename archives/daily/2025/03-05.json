@@ -1,6 +1,6 @@
 {
   "startTime": 1741105825822,
-  "endTime": 1741105825822,
+  "endTime": 1741106738996,
   "band_list": [
     {
       "raw_hot": 930407,
@@ -11,7 +11,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 860734,
+      "raw_hot": 905216,
       "num": 910651,
       "word": "iPad11售价2999元起",
       "onboard_time": 1741103179,
@@ -171,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133386,
+      "num": 189824,
+      "word": "郭涛儿子参加北电艺考",
+      "onboard_time": 1741101620,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130973,
       "num": 130973,
       "word": "爱吃草莓和芹菜的都沉默了",
@@ -185,14 +193,6 @@
       "onboard_time": 1741102220,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 125485,
-      "num": 189824,
-      "word": "郭涛儿子参加北电艺考",
-      "onboard_time": 1741101620,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 125061,
@@ -371,7 +371,7 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 78656,
+      "raw_hot": 84129,
       "num": 85851,
       "word": "宋亚轩把在非洲拍的照片格式化了",
       "onboard_time": 1741095261,
@@ -387,11 +387,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 76589,
+      "raw_hot": 77020,
       "num": 189249,
       "word": "中方将采取反制措施",
       "onboard_time": 1741103479,
       "rank": 23,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 53252,
+      "num": 187461,
+      "word": "建议每周上班不超44小时",
+      "onboard_time": 1741093640,
+      "rank": 9,
       "category": "国内时政"
     },
     {
