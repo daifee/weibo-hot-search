@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741124182350,
+  "endTime": 1741126844154,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -12099,6 +12099,14 @@
       "category": "国内时政,体育"
     },
     {
+      "raw_hot": 34596,
+      "num": 34596,
+      "word": "3月5日16时7分惊蛰",
+      "onboard_time": 1741110613,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34354,
       "num": 202488,
       "word": "代表建议药品说明书改变专业用语表述",
@@ -12443,6 +12451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24745,
+      "num": 24745,
+      "word": "国台办回应台再封杀7所大陆高校",
+      "onboard_time": 1741116430,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 24644,
       "num": 218099,
       "word": "两会上的建议提案流向哪些部门",
@@ -12529,6 +12545,14 @@
       "onboard_time": 1741082721,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 22769,
+      "num": 22769,
+      "word": "冯远征谈流量演员",
+      "onboard_time": 1741124772,
+      "rank": 37,
+      "category": "艺人,国内时政"
     },
     {
       "raw_hot": 22682,
@@ -12619,14 +12643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 20820,
-      "num": 24910,
-      "word": "3月5日16时7分惊蛰",
-      "onboard_time": 1741110613,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 20567,
       "num": 170600,
       "word": "猛龙裁掉PJ塔克",
@@ -12649,14 +12665,6 @@
       "onboard_time": 1740811236,
       "rank": 20,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 19477,
-      "num": 19477,
-      "word": "国台办回应台再封杀7所大陆高校",
-      "onboard_time": 1741116430,
-      "rank": 45,
-      "category": "国内时政"
     },
     {
       "raw_hot": 19420,
@@ -12713,6 +12721,14 @@
       "onboard_time": 1740768972,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 18249,
+      "num": 22578,
+      "word": "赵冬苓称DeepSeek写剧本很套路化",
+      "onboard_time": 1741122850,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 18014,
@@ -12867,14 +12883,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 15210,
-      "num": 22237,
-      "word": "赵冬苓称DeepSeek写剧本很套路化",
-      "onboard_time": 1741122850,
-      "rank": 38,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 15133,
       "num": 67967,
       "word": "他守护国宝躲过日寇劫掠",
@@ -12889,6 +12897,14 @@
       "onboard_time": 1740860231,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 14981,
+      "num": 37266,
+      "word": "3月10日起对原产于美国的部分进口商品加征关税",
+      "onboard_time": 1741116191,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 14697,
@@ -12945,14 +12961,6 @@
       "onboard_time": 1741117151,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 13504,
-      "num": 37266,
-      "word": "3月10日起对原产于美国的部分进口商品加征关税",
-      "onboard_time": 1741116191,
-      "rank": 13,
-      "category": "国际时政"
     },
     {
       "raw_hot": 13335,
