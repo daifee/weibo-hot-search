@@ -1,6 +1,6 @@
 {
   "startTime": 1741019331864,
-  "endTime": 1741084999997,
+  "endTime": 1741087198612,
   "band_list": [
     {
       "raw_hot": 13760834,
@@ -17,6 +17,14 @@
       "onboard_time": 1741057397,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2284377,
+      "num": 358921,
+      "word": "韩国财阀有多可怕",
+      "onboard_time": 1741083261,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1730704,
@@ -59,12 +67,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1316007,
-      "num": 296333,
-      "word": "韩国财阀有多可怕",
-      "onboard_time": 1741083261,
-      "rank": 19,
-      "category": "国际时政"
+      "raw_hot": 1310060,
+      "num": 345204,
+      "word": "哪吒2闯进全球前7却闯不进宝岛台湾",
+      "onboard_time": 1741085240,
+      "rank": 10,
+      "category": "国内时政,电影"
     },
     {
       "raw_hot": 1261543,
@@ -171,6 +179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 893795,
+      "num": 344070,
+      "word": "恋与深空封号",
+      "onboard_time": 1741081702,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 893299,
       "num": 893299,
       "word": "雷军称AI换脸拟声成违法重灾区",
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 876793,
-      "num": 322884,
+      "num": 340168,
       "word": "建议男性可申请6个月育儿假",
       "onboard_time": 1741080204,
       "rank": 35,
@@ -259,14 +275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 754437,
-      "num": 298442,
-      "word": "恋与深空封号",
-      "onboard_time": 1741081702,
-      "rank": 11,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 742802,
       "num": 368170,
       "word": "迪丽热巴摄影尹超",
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 634220,
-      "num": 298227,
+      "num": 337130,
       "word": "血观音 神作",
       "onboard_time": 1741080984,
       "rank": 33,
@@ -316,7 +324,7 @@
     },
     {
       "raw_hot": 606156,
-      "num": 298115,
+      "num": 334527,
       "word": "每三个15岁以上男性有一人感染HPV",
       "onboard_time": 1741081223,
       "rank": 13,
@@ -419,20 +427,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 460358,
+      "num": 335413,
+      "word": "柯洁发博抱住了蒲熠星",
+      "onboard_time": 1741083921,
+      "rank": 46,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 459883,
       "num": 113045,
       "word": "宋亚轩",
       "onboard_time": 1741021215,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 455643,
-      "num": 230782,
-      "word": "柯洁发博抱住了蒲熠星",
-      "onboard_time": 1741083921,
-      "rank": 46,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 452748,
@@ -492,7 +500,7 @@
     },
     {
       "raw_hot": 427008,
-      "num": 316404,
+      "num": 354399,
       "word": "难哄偷偷藏不住联动",
       "onboard_time": 1741080505,
       "rank": 27,
@@ -571,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 362175,
+      "num": 349659,
+      "word": "林一感谢哥哥为我发声",
+      "onboard_time": 1741085421,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 361875,
       "num": 243225,
       "word": "身体好的人肚子是软软的",
@@ -593,6 +609,14 @@
       "onboard_time": 1741062138,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 347988,
+      "num": 347988,
+      "word": "某公司造谣鸿蒙智行多人被缉拿归案",
+      "onboard_time": 1741084282,
+      "rank": 7,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 342804,
@@ -819,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 268761,
+      "num": 268761,
+      "word": "宋亚轩生日直播",
+      "onboard_time": 1741085359,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 268584,
       "num": 268584,
       "word": "血观音吊打阿诺拉",
@@ -841,14 +873,6 @@
       "onboard_time": 1741075819,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 267174,
-      "num": 267174,
-      "word": "某公司造谣鸿蒙智行多人被缉拿归案",
-      "onboard_time": 1741084282,
-      "rank": 7,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 265239,
@@ -880,6 +904,14 @@
       "word": "美暂停对乌的军事援助",
       "onboard_time": 1741048520,
       "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 260188,
+      "num": 260188,
+      "word": "暂停进口美国原木",
+      "onboard_time": 1741084940,
+      "rank": 39,
       "category": "国际时政"
     },
     {
@@ -963,6 +995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222552,
+      "num": 222552,
+      "word": "原神",
+      "onboard_time": 1741086741,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 222296,
       "num": 222296,
       "word": "买黄金成00后血脉觉醒的文化密码",
@@ -1003,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218417,
+      "num": 261369,
+      "word": "银发经济将至少提供1亿个就业岗位",
+      "onboard_time": 1741085720,
+      "rank": 29,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 217661,
       "num": 234396,
       "word": "用DeepSeek选国补家电有多省心",
@@ -1025,6 +1073,14 @@
       "onboard_time": 1741050379,
       "rank": 27,
       "category": "游戏,互联网"
+    },
+    {
+      "raw_hot": 215309,
+      "num": 266640,
+      "word": "滤镜",
+      "onboard_time": 1740997399,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 212641,
@@ -1065,6 +1121,14 @@
       "onboard_time": 1741022773,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206815,
+      "num": 263616,
+      "word": "李兰迪说檀健次边亲边唱歌",
+      "onboard_time": 1741086261,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 206729,
@@ -1203,6 +1267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181872,
+      "num": 181872,
+      "word": "马嘉祺 亚轩生日快乐",
+      "onboard_time": 1741086922,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179460,
       "num": 217790,
       "word": "桑延温以凡同居像异地恋",
@@ -1267,20 +1339,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 172726,
-      "num": 172726,
-      "word": "暂停进口美国原木",
-      "onboard_time": 1741084940,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 170718,
       "num": 359420,
       "word": "建议房租年涨幅不得超过5%",
       "onboard_time": 1741077022,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 168985,
+      "num": 262060,
+      "word": "归棹",
+      "onboard_time": 1741085240,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 165358,
@@ -1305,6 +1377,14 @@
       "onboard_time": 1741050379,
       "rank": 25,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 157817,
+      "num": 157817,
+      "word": "女子长白山漂流时落水失联近24小时",
+      "onboard_time": 1741086261,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157080,
@@ -1348,7 +1428,7 @@
     },
     {
       "raw_hot": 153166,
-      "num": 153166,
+      "num": 347470,
       "word": "中国发起首例反规避调查",
       "onboard_time": 1741084881,
       "rank": 41,
@@ -1441,6 +1521,14 @@
       "onboard_time": 1741053738,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 146727,
+      "num": 146727,
+      "word": "酷酷的滕在难哄二婚了",
+      "onboard_time": 1741087040,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 146336,
@@ -1571,6 +1659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132754,
+      "num": 132754,
+      "word": "刘国梁说中国乒乓球高手在民间",
+      "onboard_time": 1741085301,
+      "rank": 46,
+      "category": "体育,国内时政"
+    },
+    {
       "raw_hot": 132165,
       "num": 146734,
       "word": "王安宇支持刘浩存电影",
@@ -1633,6 +1729,14 @@
       "onboard_time": 1741083202,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125583,
+      "num": 165527,
+      "word": "李艾晒奔5素颜自拍",
+      "onboard_time": 1741085780,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 125161,
@@ -1931,6 +2035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95458,
+      "num": 267764,
+      "word": "吴敬平说樊振东挺有天赋",
+      "onboard_time": 1741086922,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95083,
       "num": 95083,
       "word": "盒马不再对标山姆",
@@ -1961,6 +2073,14 @@
       "onboard_time": 1741040952,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91651,
+      "num": 339235,
+      "word": "刘国梁说要把赛场秩序治理好",
+      "onboard_time": 1741086140,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 88947,
@@ -2115,6 +2235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 69730,
+      "num": 264758,
+      "word": "男女都应接种HPV疫苗",
+      "onboard_time": 1741085780,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 67552,
       "num": 67552,
       "word": "马柏全 青海",
@@ -2153,14 +2281,6 @@
       "onboard_time": 1741032851,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 64924,
-      "num": 64924,
-      "word": "滤镜",
-      "onboard_time": 1740997399,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 64432,
@@ -2433,6 +2553,14 @@
       "onboard_time": 1741069278,
       "rank": 27,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 31148,
+      "num": 292521,
+      "word": "建议AI时代加强中小学逻辑思维教育",
+      "onboard_time": 1741086860,
+      "rank": 21,
+      "category": "教育"
     },
     {
       "raw_hot": 30299,
