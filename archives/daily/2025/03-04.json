@@ -1,6 +1,6 @@
 {
   "startTime": 1741019331864,
-  "endTime": 1741062486689,
+  "endTime": 1741063358702,
   "band_list": [
     {
       "raw_hot": 2983650,
@@ -27,8 +27,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1247751,
-      "num": 1247751,
+      "raw_hot": 1247789,
+      "num": 1247789,
       "word": "金价",
       "onboard_time": 1741053137,
       "rank": 5,
@@ -41,6 +41,14 @@
       "onboard_time": 1741048159,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1084580,
+      "num": 348651,
+      "word": "麦当劳变成了没有情绪的中年人",
+      "onboard_time": 1741059857,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 1078864,
@@ -115,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 804610,
+      "num": 804610,
+      "word": "雷军称AI换脸拟声成违法重灾区",
+      "onboard_time": 1741060820,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 787720,
       "num": 686741,
       "word": "女子炒黄金第1天就赚2000元报了警",
@@ -155,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 551696,
+      "num": 343558,
+      "word": "康师傅冰红茶 林俊杰",
+      "onboard_time": 1741057698,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 534958,
       "num": 534958,
       "word": "欧文受伤",
@@ -169,14 +193,6 @@
       "onboard_time": 1741014019,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 479420,
-      "num": 348651,
-      "word": "麦当劳变成了没有情绪的中年人",
-      "onboard_time": 1741059857,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 478554,
@@ -219,14 +235,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 440361,
-      "num": 440361,
-      "word": "雷军称AI换脸拟声成违法重灾区",
-      "onboard_time": 1741060820,
-      "rank": 3,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 439132,
       "num": 280780,
       "word": "为什么下腹部的脂肪难减",
@@ -265,14 +273,6 @@
       "onboard_time": 1741003878,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 397083,
-      "num": 343558,
-      "word": "康师傅冰红茶 林俊杰",
-      "onboard_time": 1741057698,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 377019,
@@ -315,6 +315,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 350286,
+      "num": 350286,
+      "word": "孙颖莎入选澳门世界杯邀请名单",
+      "onboard_time": 1741062138,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 342279,
       "num": 342279,
       "word": "黄金再迎大涨",
@@ -345,6 +353,14 @@
       "onboard_time": 1741052897,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 328636,
+      "num": 328636,
+      "word": "难哄 投影仪镜头",
+      "onboard_time": 1741062320,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 328384,
@@ -411,6 +427,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 287208,
+      "num": 287208,
+      "word": "藕饼欲莲",
+      "onboard_time": 1741062138,
+      "rank": 41,
+      "category": "动漫,电影"
+    },
+    {
+      "raw_hot": 280790,
+      "num": 280790,
+      "word": "高度近视的人不建议献血",
+      "onboard_time": 1741059378,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 275137,
       "num": 275137,
       "word": "G2985次动车为救人破例临停",
@@ -425,6 +457,14 @@
       "onboard_time": 1741002738,
       "rank": 20,
       "category": "数码"
+    },
+    {
+      "raw_hot": 264899,
+      "num": 338985,
+      "word": "迪丽热巴摄影尹超",
+      "onboard_time": 1741062800,
+      "rank": 18,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 262137,
@@ -459,14 +499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 238779,
-      "num": 238779,
-      "word": "高度近视的人不建议献血",
-      "onboard_time": 1741059378,
-      "rank": 29,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 216949,
       "num": 216949,
       "word": "哪吒2成首部破20亿美元亚洲电影",
@@ -483,11 +515,19 @@
       "category": "游戏,互联网"
     },
     {
-      "raw_hot": 216644,
-      "num": 336659,
-      "word": "孙颖莎入选澳门世界杯邀请名单",
-      "onboard_time": 1741062138,
-      "rank": 27,
+      "raw_hot": 209381,
+      "num": 335327,
+      "word": "交警因暴雪疏导车辆一整夜冻成雪人",
+      "onboard_time": 1741061179,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 208253,
+      "num": 307750,
+      "word": "樊振东入选澳门世界杯邀请名单",
+      "onboard_time": 1741060158,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -505,6 +545,14 @@
       "onboard_time": 1741011380,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206453,
+      "num": 337109,
+      "word": "小黄人说甜茶偷了我们的造型",
+      "onboard_time": 1741061778,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 203458,
@@ -531,12 +579,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 199939,
-      "num": 337109,
-      "word": "小黄人说甜茶偷了我们的造型",
-      "onboard_time": 1741061778,
-      "rank": 26,
-      "category": "电影"
+      "raw_hot": 196361,
+      "num": 293278,
+      "word": "于正发博祝贺白鹿",
+      "onboard_time": 1741062860,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 195828,
@@ -587,14 +635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 179634,
-      "num": 179634,
-      "word": "藕饼欲莲",
-      "onboard_time": 1741062138,
-      "rank": 41,
-      "category": "动漫,电影"
-    },
-    {
       "raw_hot": 178356,
       "num": 178356,
       "word": "恋与深空",
@@ -617,14 +657,6 @@
       "onboard_time": 1741052838,
       "rank": 9,
       "category": "国际时政,财经"
-    },
-    {
-      "raw_hot": 164576,
-      "num": 164576,
-      "word": "难哄 投影仪镜头",
-      "onboard_time": 1741062320,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 164275,
@@ -715,28 +747,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 145833,
+      "num": 145833,
+      "word": "韩束 林一",
+      "onboard_time": 1741063221,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 145150,
+      "num": 393442,
+      "word": "十四届全国人大三次会议开闭幕时间",
+      "onboard_time": 1741061718,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 144100,
       "num": 231216,
       "word": "阿诺拉",
       "onboard_time": 1741054097,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 141511,
-      "num": 335327,
-      "word": "交警因暴雪疏导车辆一整夜冻成雪人",
-      "onboard_time": 1741061179,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 138755,
-      "num": 269885,
-      "word": "樊振东入选澳门世界杯邀请名单",
-      "onboard_time": 1741060158,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 137929,
@@ -755,6 +787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 135557,
+      "num": 135557,
+      "word": "敖丙在爸爸怀里时才是宝宝",
+      "onboard_time": 1741063281,
+      "rank": 48,
+      "category": "动漫,电影"
+    },
+    {
       "raw_hot": 134575,
       "num": 121457,
       "word": "aespa演唱会没给宁艺卓打光",
@@ -769,6 +809,14 @@
       "onboard_time": 1741013238,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 133414,
+      "num": 133414,
+      "word": "我很少内耗的原因",
+      "onboard_time": 1741063160,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 129685,
@@ -803,8 +851,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 118857,
-      "num": 607513,
+      "raw_hot": 119939,
+      "num": 811450,
       "word": "全国两会事关你我",
       "onboard_time": 1741058959,
       "rank": 2,
@@ -971,6 +1019,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 93384,
+      "num": 346387,
+      "word": "刘亦菲让自己愉悦的方式",
+      "onboard_time": 1741061778,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 92113,
       "num": 92113,
       "word": "西园寺击掌猫是被主人带着晒太阳的",
@@ -985,14 +1041,6 @@
       "onboard_time": 1741056317,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 88823,
-      "num": 393442,
-      "word": "十四届全国人大三次会议开闭幕时间",
-      "onboard_time": 1741061718,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 86843,
@@ -1163,12 +1211,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 57217,
-      "num": 248203,
-      "word": "刘亦菲让自己愉悦的方式",
+      "raw_hot": 57504,
+      "num": 343695,
+      "word": "建议老年人居家护理纳入医保",
       "onboard_time": 1741061778,
-      "rank": 35,
-      "category": "艺人"
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56302,
@@ -1323,14 +1371,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 28092,
-      "num": 343695,
-      "word": "建议老年人居家护理纳入医保",
-      "onboard_time": 1741061778,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 26497,
       "num": 37879,
       "word": "做自然的朋友",
@@ -1460,6 +1500,9 @@
     },
     {
       "word": "#始终要把人民放在心中最高的位置#"
+    },
+    {
+      "word": "#人民在总书记心中重千钧#"
     }
   ]
 }
