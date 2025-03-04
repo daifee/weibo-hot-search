@@ -1,0 +1,410 @@
+{
+  "runTime": 1741113965659,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 181578,
+        "num": 181578,
+        "word": "iPad11售价2999元起",
+        "onboard_time": 1741103179,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 92971,
+        "num": 92971,
+        "word": "82岁老人写在烟盒上的建议获采纳",
+        "onboard_time": 1741096101,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13382,
+        "num": 83678,
+        "word": "这场发布会干货满满一文速览",
+        "onboard_time": 1741096521,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 78814,
+        "num": 78814,
+        "word": "欧文赛季报销",
+        "onboard_time": 1741107076,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76880,
+        "num": 76880,
+        "word": "雷军回应不锈钢纸杯卖爆",
+        "onboard_time": 1741090759,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 72352,
+        "num": 72352,
+        "word": "嘘国王在冬眠",
+        "onboard_time": 1741103118,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67948,
+        "num": 67948,
+        "word": "人大代表建议普及家长学校",
+        "onboard_time": 1741112292,
+        "rank": 6,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 63815,
+        "num": 63815,
+        "word": "DeepSeek等成两会热点",
+        "onboard_time": 1741072397,
+        "rank": 7,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 62806,
+        "num": 62806,
+        "word": "欧文",
+        "onboard_time": 1741107375,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40224,
+        "num": 62118,
+        "word": "滤镜三部现偶开分最高",
+        "onboard_time": 1741101082,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143240,
+        "num": 62024,
+        "word": "DIOR大秀入场待遇",
+        "onboard_time": 1741107076,
+        "rank": 10,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 65718,
+        "num": 61945,
+        "word": "张淼怡直播回应整容",
+        "onboard_time": 1741096041,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61536,
+        "num": 61536,
+        "word": "哪吒2闯进全球前7却闯不进宝岛台湾",
+        "onboard_time": 1741085240,
+        "rank": 12,
+        "category": "国内时政,电影"
+      },
+      {
+        "raw_hot": 51708,
+        "num": 51708,
+        "word": "花旗银行误将81万亿美元转给个人",
+        "onboard_time": 1741090759,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 11944,
+        "num": 49691,
+        "word": "委员说中国文化出海需要更多哪吒",
+        "onboard_time": 1741113552,
+        "rank": 14,
+        "category": "国内时政,电影"
+      },
+      {
+        "raw_hot": 49510,
+        "num": 49510,
+        "word": "我国AI人才缺口达500万人",
+        "onboard_time": 1741088900,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 47503,
+        "num": 47503,
+        "word": "中医说健不健康看眼睛就知道了",
+        "onboard_time": 1741096222,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 46400,
+        "num": 46400,
+        "word": "上村谦信退团",
+        "onboard_time": 1741098022,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42145,
+        "num": 42145,
+        "word": "网传五哈新一季阵容",
+        "onboard_time": 1741101261,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37265,
+        "num": 41447,
+        "word": "短剧演员背调",
+        "onboard_time": 1741101500,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137645,
+        "num": 41349,
+        "word": "曝王大陆涉嫌杀人未遂移送侦办",
+        "onboard_time": 1741077081,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130145,
+        "num": 41283,
+        "word": "何老师的含金量永远都在上升",
+        "onboard_time": 1741093760,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 41197,
+        "num": 41197,
+        "word": "重庆动物园回应莽灿灿伤情",
+        "onboard_time": 1741108754,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38204,
+        "num": 38204,
+        "word": "杨紫回应舞蹈走红",
+        "onboard_time": 1741101261,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33972,
+        "num": 33972,
+        "word": "年代剧都演到李宇春了",
+        "onboard_time": 1741095982,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33604,
+        "num": 33604,
+        "word": "石头参加北电艺考",
+        "onboard_time": 1741089620,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33297,
+        "num": 33297,
+        "word": "血观音 神作",
+        "onboard_time": 1741080984,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 31745,
+        "num": 31745,
+        "word": "欧盟宣布8000亿欧元重新武装欧洲计划",
+        "onboard_time": 1741101141,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 31525,
+        "num": 31525,
+        "word": "哪吒2让外国电影院经理惊讶了",
+        "onboard_time": 1741090221,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 31264,
+        "num": 31264,
+        "word": "G社镜头下周也",
+        "onboard_time": 1741097902,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 30873,
+        "num": 30873,
+        "word": "张小斐迪丽热巴张艺兴 女足",
+        "onboard_time": 1741091600,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 30258,
+        "num": 30258,
+        "word": "质疑泽连斯基着装的美记者遭死亡威胁",
+        "onboard_time": 1741097842,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28656,
+        "num": 28656,
+        "word": "爱吃草莓和芹菜的都沉默了",
+        "onboard_time": 1741101141,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 28634,
+        "num": 28634,
+        "word": "每三个15岁以上男性有一人感染HPV",
+        "onboard_time": 1741081223,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26355,
+        "num": 26355,
+        "word": "周也金珉奎合影",
+        "onboard_time": 1741100062,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 24945,
+        "num": 24945,
+        "word": "XIUMIN与SM艺人不能同时出演KBS节目",
+        "onboard_time": 1741095442,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24843,
+        "num": 24843,
+        "word": "莫文蔚谈方大同去世",
+        "onboard_time": 1741092979,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23879,
+        "num": 23879,
+        "word": "曾沛慈全身麻醉拿子宫息肉",
+        "onboard_time": 1741110193,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23628,
+        "num": 23628,
+        "word": "千台旧洗衣机堆里翻出十多万的钻戒",
+        "onboard_time": 1741102220,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23303,
+        "num": 23303,
+        "word": "一诺回复FMVP皮肤快了",
+        "onboard_time": 1741107135,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 23104,
+        "num": 23104,
+        "word": "两会",
+        "onboard_time": 1741055659,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22697,
+        "num": 22697,
+        "word": "中方将采取反制措施",
+        "onboard_time": 1741103479,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22581,
+        "num": 22581,
+        "word": "难哄爷爷戏份",
+        "onboard_time": 1741098922,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21774,
+        "num": 22581,
+        "word": "肖战今天有点太大方了",
+        "onboard_time": 1741090280,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21055,
+        "num": 22579,
+        "word": "建议每周上班不超44小时",
+        "onboard_time": 1741093640,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19491,
+        "num": 22579,
+        "word": "DeepSeek说梅西是世界最佳球员",
+        "onboard_time": 1741103418,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19461,
+        "num": 22578,
+        "word": "难哄 暴烈地吻",
+        "onboard_time": 1741074138,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19452,
+        "num": 22577,
+        "word": "郭涛儿子参加北电艺考",
+        "onboard_time": 1741101620,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19340,
+        "num": 22576,
+        "word": "宋亚轩把在非洲拍的照片格式化了",
+        "onboard_time": 1741095261,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19042,
+        "num": 22575,
+        "word": "爱你",
+        "onboard_time": 1741089620,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}
