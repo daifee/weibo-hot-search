@@ -1,6 +1,6 @@
 {
   "startTime": 1741105825822,
-  "endTime": 1741120734200,
+  "endTime": 1741123346195,
   "band_list": [
     {
       "raw_hot": 930407,
@@ -508,15 +508,23 @@
     },
     {
       "raw_hot": 15364,
-      "num": 16597,
+      "num": 17339,
       "word": "周也这个长相我预定了",
       "onboard_time": 1741118290,
       "rank": 44,
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 13873,
+      "num": 17340,
+      "word": "春天里的来信",
+      "onboard_time": 1741122013,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 13738,
-      "num": 16589,
+      "num": 17340,
       "word": "听见全国两会",
       "onboard_time": 1741117151,
       "rank": 45,
@@ -537,6 +545,14 @@
       "onboard_time": 1741116191,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 12582,
+      "num": 17341,
+      "word": "赵冬苓称DeepSeek写剧本很套路化",
+      "onboard_time": 1741122850,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 11944,
