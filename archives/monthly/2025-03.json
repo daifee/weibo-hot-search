@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741063358702,
+  "endTime": 1741065773950,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -491,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1153217,
+      "num": 368504,
+      "word": "麦当劳变成了没有情绪的中年人",
+      "onboard_time": 1741059857,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1121767,
       "num": 659194,
       "word": "陶喆方大同",
@@ -508,7 +516,7 @@
     },
     {
       "raw_hot": 1111121,
-      "num": 357512,
+      "num": 367093,
       "word": "任重孙骁骁带孩子吃早餐",
       "onboard_time": 1741048159,
       "rank": 10,
@@ -531,16 +539,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 1084580,
-      "num": 348651,
-      "word": "麦当劳变成了没有情绪的中年人",
-      "onboard_time": 1741059857,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1078864,
-      "num": 365014,
+      "num": 365830,
       "word": "媒体评二战考研10分争议",
       "onboard_time": 1741055716,
       "rank": 20,
@@ -747,6 +747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 893299,
+      "num": 893299,
+      "word": "雷军称AI换脸拟声成违法重灾区",
+      "onboard_time": 1741060820,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 893276,
       "num": 253910,
       "word": "周雨老婆回应",
@@ -915,14 +923,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 804610,
-      "num": 804610,
-      "word": "雷军称AI换脸拟声成违法重灾区",
-      "onboard_time": 1741060820,
-      "rank": 3,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 795728,
       "num": 795728,
       "word": "王一珩看到方大同去世消息哭了",
@@ -1003,6 +1003,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 742802,
+      "num": 368170,
+      "word": "迪丽热巴摄影尹超",
+      "onboard_time": 1741062800,
+      "rank": 18,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 739197,
       "num": 739197,
       "word": "建议降低灵活就业人员社保参保门槛",
@@ -1056,6 +1064,14 @@
       "word": "唐奇有孩子",
       "onboard_time": 1740913640,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 706259,
+      "num": 706259,
+      "word": "难哄 投影仪镜头",
+      "onboard_time": 1741062320,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -1588,7 +1604,7 @@
     },
     {
       "raw_hot": 551696,
-      "num": 343558,
+      "num": 366427,
       "word": "康师傅冰红茶 林俊杰",
       "onboard_time": 1741057698,
       "rank": 36,
@@ -1691,6 +1707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 521324,
+      "num": 428747,
+      "word": "藕饼欲莲",
+      "onboard_time": 1741062138,
+      "rank": 41,
+      "category": "动漫,电影"
+    },
+    {
       "raw_hot": 518191,
       "num": 518191,
       "word": "贵女",
@@ -1777,6 +1801,14 @@
       "onboard_time": 1740788358,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 495560,
+      "num": 426591,
+      "word": "于正发博祝贺白鹿",
+      "onboard_time": 1741062860,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 494416,
@@ -2627,14 +2659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 328636,
-      "num": 328636,
-      "word": "难哄 投影仪镜头",
-      "onboard_time": 1741062320,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 328603,
       "num": 328603,
       "word": "白宫这场骂战震惊世界",
@@ -3091,12 +3115,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 287208,
-      "num": 287208,
-      "word": "藕饼欲莲",
-      "onboard_time": 1741062138,
-      "rank": 41,
-      "category": "动漫,电影"
+      "raw_hot": 286834,
+      "num": 286834,
+      "word": "爸爸第一次道歉惊呆妈妈",
+      "onboard_time": 1741063940,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 285870,
@@ -3113,6 +3137,14 @@
       "onboard_time": 1740949631,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 284863,
+      "num": 284863,
+      "word": "韩束 林一",
+      "onboard_time": 1741063221,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 284341,
@@ -3305,14 +3337,6 @@
       "onboard_time": 1741010540,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 264899,
-      "num": 338985,
-      "word": "迪丽热巴摄影尹超",
-      "onboard_time": 1741062800,
-      "rank": 18,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 263916,
@@ -3923,6 +3947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219831,
+      "num": 335327,
+      "word": "交警因暴雪疏导车辆一整夜冻成雪人",
+      "onboard_time": 1741061179,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 219633,
       "num": 316154,
       "word": "TES一穿五",
@@ -4075,6 +4107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212976,
+      "num": 337818,
+      "word": "冰红茶代言人程潇",
+      "onboard_time": 1741061659,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212819,
       "num": 212819,
       "word": "台69岁老太称与梁朝伟订婚欲汇17万",
@@ -4107,6 +4147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212149,
+      "num": 212149,
+      "word": "恋与深空",
+      "onboard_time": 1740880216,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 211542,
       "num": 181588,
       "word": "银行错给客户存81万亿美元",
@@ -4137,14 +4185,6 @@
       "onboard_time": 1740811236,
       "rank": 45,
       "category": "美食,艺人"
-    },
-    {
-      "raw_hot": 209381,
-      "num": 335327,
-      "word": "交警因暴雪疏导车辆一整夜冻成雪人",
-      "onboard_time": 1741061179,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 209073,
@@ -4475,14 +4515,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 201068,
-      "num": 337818,
-      "word": "冰红茶代言人程潇",
-      "onboard_time": 1741061659,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 200853,
       "num": 200853,
       "word": "白鹿版你打我噻",
@@ -4625,14 +4657,6 @@
       "onboard_time": 1740835342,
       "rank": 43,
       "category": "剧集,综艺"
-    },
-    {
-      "raw_hot": 196361,
-      "num": 293278,
-      "word": "于正发博祝贺白鹿",
-      "onboard_time": 1741062860,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 195828,
@@ -4859,6 +4883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 189440,
+      "num": 189440,
+      "word": "肖战陌森眼镜升title",
+      "onboard_time": 1741065379,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189260,
       "num": 189260,
       "word": "张杰 香港启德体育园",
@@ -4889,6 +4921,14 @@
       "onboard_time": 1741010599,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188315,
+      "num": 206050,
+      "word": "似锦再见烂人",
+      "onboard_time": 1741064358,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 188314,
@@ -5227,14 +5267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178356,
-      "num": 178356,
-      "word": "恋与深空",
-      "onboard_time": 1740880216,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 178336,
       "num": 178336,
       "word": "程潇向阳花海报",
@@ -5273,6 +5305,14 @@
       "onboard_time": 1740831504,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177028,
+      "num": 189308,
+      "word": "买黄金成00后血脉觉醒的文化密码",
+      "onboard_time": 1741065620,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 176967,
@@ -5457,6 +5497,14 @@
       "onboard_time": 1740973099,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171720,
+      "num": 170757,
+      "word": "特朗普暗示乌克兰总统或换人",
+      "onboard_time": 1741064120,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 171388,
@@ -6299,6 +6347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151370,
+      "num": 151370,
+      "word": "难哄婚宴DV",
+      "onboard_time": 1741065678,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151342,
       "num": 151342,
       "word": "曲阜师范大学 贩卖机提供卫生巾",
@@ -6545,14 +6601,6 @@
       "onboard_time": 1740836544,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 145833,
-      "num": 145833,
-      "word": "韩束 林一",
-      "onboard_time": 1741063221,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 145727,
@@ -6867,6 +6915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139395,
+      "num": 139395,
+      "word": "敖丙在爸爸怀里时才是宝宝",
+      "onboard_time": 1741063281,
+      "rank": 48,
+      "category": "动漫,电影"
+    },
+    {
       "raw_hot": 139289,
       "num": 139289,
       "word": "陈赫被黄磊整蛊到直呼重签合同",
@@ -6979,6 +7035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136811,
+      "num": 136811,
+      "word": "我很少内耗的原因",
+      "onboard_time": 1741063160,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136474,
       "num": 136474,
       "word": "鬼灭之刃无限城篇第一部定档",
@@ -6993,14 +7057,6 @@
       "onboard_time": 1740904939,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 135557,
-      "num": 135557,
-      "word": "敖丙在爸爸怀里时才是宝宝",
-      "onboard_time": 1741063281,
-      "rank": 48,
-      "category": "动漫,电影"
     },
     {
       "raw_hot": 135226,
@@ -7105,14 +7161,6 @@
       "onboard_time": 1741000158,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 133414,
-      "num": 133414,
-      "word": "我很少内耗的原因",
-      "onboard_time": 1741063160,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 133358,
@@ -7385,6 +7433,14 @@
       "onboard_time": 1740886818,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 126400,
+      "num": 215588,
+      "word": "中国将15家美国实体列入出口管制管控",
+      "onboard_time": 1741065439,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 126318,
@@ -8035,6 +8091,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 107946,
+      "num": 367756,
+      "word": "刘亦菲让自己愉悦的方式",
+      "onboard_time": 1741061778,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107902,
       "num": 112262,
       "word": "猫猫的奇幻漂流奥斯卡最佳动画长片",
@@ -8611,14 +8675,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 93384,
-      "num": 346387,
-      "word": "刘亦菲让自己愉悦的方式",
-      "onboard_time": 1741061778,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 93358,
       "num": 150011,
       "word": "个税起征点可适度提高但不宜过高",
@@ -8921,6 +8977,14 @@
       "onboard_time": 1740924501,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 84333,
+      "num": 294890,
+      "word": "推动民营经济促进法尽快出台",
+      "onboard_time": 1741064059,
+      "rank": 20,
+      "category": "国内时政,国际时政"
     },
     {
       "raw_hot": 84293,
@@ -9505,6 +9569,14 @@
       "onboard_time": 1741053019,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 56289,
+      "num": 212972,
+      "word": "周雨彤谈既演妈妈又饰女儿",
+      "onboard_time": 1741064599,
+      "rank": 29,
+      "category": "艺人,剧集"
     },
     {
       "raw_hot": 55856,
@@ -10123,6 +10195,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 34150,
+      "num": 134263,
+      "word": "中国一汽与零跑战略合作",
+      "onboard_time": 1741065557,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 33068,
       "num": 54313,
       "word": "谁能想到博物馆一扇窗变成了景点",
@@ -10369,6 +10449,14 @@
       "onboard_time": 1740939791,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 25459,
+      "num": 367458,
+      "word": "议案建议和提案是怎样落地的",
+      "onboard_time": 1741064000,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 25438,
