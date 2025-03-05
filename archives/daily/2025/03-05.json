@@ -1,6 +1,6 @@
 {
   "startTime": 1741105825822,
-  "endTime": 1741156385350,
+  "endTime": 1741157147104,
   "band_list": [
     {
       "raw_hot": 1895236,
@@ -41,6 +41,14 @@
       "onboard_time": 1741133541,
       "rank": 11,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 1365312,
+      "num": 404605,
+      "word": "女子染发10多年最终选择与白发和解",
+      "onboard_time": 1741155319,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1323645,
@@ -97,14 +105,6 @@
       "onboard_time": 1741146620,
       "rank": 11,
       "category": "国内时政,互联网"
-    },
-    {
-      "raw_hot": 1028009,
-      "num": 404605,
-      "word": "女子染发10多年最终选择与白发和解",
-      "onboard_time": 1741155319,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 930407,
@@ -427,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 355820,
+      "num": 355820,
+      "word": "孙颖莎短跑成绩接近男选手",
+      "onboard_time": 1741151899,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 352544,
       "num": 282225,
       "word": "关注年轻人不想生问题",
@@ -481,14 +489,6 @@
       "onboard_time": 1741134140,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 317932,
-      "num": 317932,
-      "word": "孙颖莎短跑成绩接近男选手",
-      "onboard_time": 1741151899,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 306268,
@@ -763,12 +763,28 @@
       "category": "国内时政,教育"
     },
     {
+      "raw_hot": 221099,
+      "num": 200157,
+      "word": "李宏毅发型",
+      "onboard_time": 1741153879,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220597,
       "num": 220597,
       "word": "马斯克赞同美国退出北约联合国",
       "onboard_time": 1741132157,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 216813,
+      "num": 216813,
+      "word": "痛经女性经期最好少吃甜食",
+      "onboard_time": 1741155617,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 215362,
@@ -851,6 +867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 199685,
+      "num": 199685,
+      "word": "湖人7连胜",
+      "onboard_time": 1741156519,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199541,
       "num": 190088,
       "word": "宋亚轩回复",
@@ -865,14 +889,6 @@
       "onboard_time": 1741144398,
       "rank": 17,
       "category": "电影,动漫"
-    },
-    {
-      "raw_hot": 199037,
-      "num": 199037,
-      "word": "李宏毅发型",
-      "onboard_time": 1741153879,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 198364,
@@ -897,6 +913,14 @@
       "onboard_time": 1741145239,
       "rank": 16,
       "category": "互联网,教育"
+    },
+    {
+      "raw_hot": 195198,
+      "num": 226469,
+      "word": "种地吧",
+      "onboard_time": 1741156096,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 194203,
@@ -969,14 +993,6 @@
       "onboard_time": 1741136300,
       "rank": 45,
       "category": "国内时政,互联网"
-    },
-    {
-      "raw_hot": 185383,
-      "num": 226469,
-      "word": "种地吧",
-      "onboard_time": 1741156096,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 182111,
@@ -1161,6 +1177,14 @@
       "onboard_time": 1741145180,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 140467,
+      "num": 299975,
+      "word": "缅甸领导人访问俄罗斯",
+      "onboard_time": 1741154298,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 139842,
@@ -1379,6 +1403,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111096,
+      "num": 200354,
+      "word": "十条措施提振消费",
+      "onboard_time": 1741156879,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 110139,
+      "num": 110139,
+      "word": "苹果64GB时代彻底宣告结束",
+      "onboard_time": 1741154000,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 109479,
       "num": 121444,
       "word": "刘家琨获2025普利兹克建筑奖",
@@ -1425,6 +1465,22 @@
       "onboard_time": 1741088900,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 104281,
+      "num": 199806,
+      "word": "白鹿拍北上从造型开始突破",
+      "onboard_time": 1741156938,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 103937,
+      "num": 118893,
+      "word": "直播电商监管办法将出台",
+      "onboard_time": 1741156577,
+      "rank": 44,
+      "category": "国内时政,互联网"
     },
     {
       "raw_hot": 102779,
@@ -1475,14 +1531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 91818,
-      "num": 214032,
-      "word": "痛经女性经期最好少吃甜食",
-      "onboard_time": 1741155617,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 90857,
       "num": 90857,
       "word": "何苏叶 渣女",
@@ -1505,14 +1553,6 @@
       "onboard_time": 1741074138,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 86373,
-      "num": 299975,
-      "word": "缅甸领导人访问俄罗斯",
-      "onboard_time": 1741154298,
-      "rank": 12,
-      "category": "国际时政"
     },
     {
       "raw_hot": 85392,
@@ -1611,8 +1651,16 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 67915,
+      "num": 214088,
+      "word": "我是观众我不同意周雨彤下班",
+      "onboard_time": 1741155918,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 67711,
-      "num": 177877,
+      "num": 200373,
       "word": "MC梦考虑将公开SM录音",
       "onboard_time": 1741156280,
       "rank": 35,
@@ -1649,14 +1697,6 @@
       "onboard_time": 1741127772,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 61467,
-      "num": 214088,
-      "word": "我是观众我不同意周雨彤下班",
-      "onboard_time": 1741155918,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 61155,
@@ -1747,6 +1787,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 38500,
+      "num": 119720,
+      "word": "祁煜贝语鲸歌",
+      "onboard_time": 1741153219,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 34402,
       "num": 355822,
       "word": "优化药品集采政策",
@@ -1761,6 +1809,14 @@
       "onboard_time": 1741142059,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 31375,
+      "num": 408275,
+      "word": "我们的盛会花开中国",
+      "onboard_time": 1741155918,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 30893,
@@ -1793,6 +1849,14 @@
       "onboard_time": 1741140018,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24366,
+      "num": 199778,
+      "word": "政协委员冯远征用DeepSeek写剧本",
+      "onboard_time": 1741156998,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 22834,
@@ -1849,14 +1913,6 @@
       "onboard_time": 1741116191,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 14302,
-      "num": 408275,
-      "word": "我们的盛会花开中国",
-      "onboard_time": 1741155918,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 13873,
