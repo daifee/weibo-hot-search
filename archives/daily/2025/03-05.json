@@ -1,6 +1,6 @@
 {
   "startTime": 1741105825822,
-  "endTime": 1741148892706,
+  "endTime": 1741149716113,
   "band_list": [
     {
       "raw_hot": 1895236,
@@ -35,12 +35,20 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 1156351,
-      "num": 450073,
+      "raw_hot": 1172560,
+      "num": 479645,
       "word": "被大体老师震撼到了",
       "onboard_time": 1741145840,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1130312,
+      "num": 1130312,
+      "word": "近60%高中生在县级中学",
+      "onboard_time": 1741145658,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1080920,
@@ -51,20 +59,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1075003,
-      "num": 1075003,
-      "word": "近60%高中生在县级中学",
-      "onboard_time": 1741145658,
-      "rank": 14,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 1043342,
       "num": 1043342,
       "word": "82岁老人写在烟盒上的建议获采纳",
       "onboard_time": 1741096101,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1031803,
+      "num": 1031803,
+      "word": "雷军称去年每卖七部手机就有一部小米",
+      "onboard_time": 1741146620,
+      "rank": 11,
+      "category": "国内时政,互联网"
     },
     {
       "raw_hot": 930407,
@@ -115,20 +123,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 716450,
-      "num": 533122,
-      "word": "迪奥认领迪丽热巴刘雨昕",
-      "onboard_time": 1741141397,
-      "rank": 10,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 704126,
-      "num": 704126,
+      "raw_hot": 755512,
+      "num": 755512,
       "word": "全专业学生都被打包签走老师笑傻了",
       "onboard_time": 1741145239,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 716450,
+      "num": 542927,
+      "word": "迪奥认领迪丽热巴刘雨昕",
+      "onboard_time": 1741141397,
+      "rank": 10,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 702613,
@@ -139,12 +147,12 @@
       "category": "国内时政,互联网"
     },
     {
-      "raw_hot": 670967,
-      "num": 442174,
-      "word": "雷军称去年每卖七部手机就有一部小米",
-      "onboard_time": 1741146620,
-      "rank": 11,
-      "category": "国内时政,互联网"
+      "raw_hot": 678461,
+      "num": 678461,
+      "word": "鞠婧祎起诉丝芭将开庭",
+      "onboard_time": 1741143679,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 669268,
@@ -169,14 +177,6 @@
       "onboard_time": 1741141938,
       "rank": 21,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 638429,
-      "num": 638429,
-      "word": "鞠婧祎起诉丝芭将开庭",
-      "onboard_time": 1741143679,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 631332,
@@ -225,6 +225,14 @@
       "onboard_time": 1741134260,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 463708,
+      "num": 463708,
+      "word": "恋爱兄妹综艺",
+      "onboard_time": 1741148840,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 463255,
@@ -331,12 +339,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 362152,
+      "num": 362152,
+      "word": "方大同录音",
+      "onboard_time": 1741149261,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 352544,
       "num": 282225,
       "word": "关注年轻人不想生问题",
       "onboard_time": 1741133901,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 350193,
+      "num": 356023,
+      "word": "于适起诉disco雨索赔20万",
+      "onboard_time": 1741144879,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 340917,
@@ -395,14 +419,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 301960,
-      "num": 356023,
-      "word": "于适起诉disco雨索赔20万",
-      "onboard_time": 1741144879,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 301502,
       "num": 272247,
       "word": "DeepSeek等成两会热点",
@@ -427,12 +443,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 289956,
-      "num": 289956,
-      "word": "恋爱兄妹综艺",
-      "onboard_time": 1741148840,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 290913,
+      "num": 295709,
+      "word": "利剑玫瑰",
+      "onboard_time": 1741147702,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 287109,
@@ -465,6 +481,14 @@
       "onboard_time": 1741141938,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 268954,
+      "num": 288761,
+      "word": "詹姆斯5万分",
+      "onboard_time": 1741147580,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 268275,
@@ -505,14 +529,6 @@
       "onboard_time": 1741130296,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 257882,
-      "num": 257882,
-      "word": "詹姆斯5万分",
-      "onboard_time": 1741147580,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 256892,
@@ -577,6 +593,14 @@
       "onboard_time": 1741104259,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 234791,
+      "num": 257053,
+      "word": "难哄",
+      "onboard_time": 1741148481,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 229555,
@@ -651,12 +675,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 212662,
-      "num": 295709,
-      "word": "利剑玫瑰",
-      "onboard_time": 1741147702,
-      "rank": 21,
-      "category": "剧集"
+      "raw_hot": 212709,
+      "num": 212709,
+      "word": "终于解决了眼镜总是下滑这件事",
+      "onboard_time": 1741147939,
+      "rank": 42,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 211978,
@@ -665,6 +689,14 @@
       "onboard_time": 1741143620,
       "rank": 22,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 211886,
+      "num": 211886,
+      "word": "特朗普称乌克兰准备签矿产协议",
+      "onboard_time": 1741149142,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 209825,
@@ -747,12 +779,12 @@
       "category": "互联网,教育"
     },
     {
-      "raw_hot": 194491,
-      "num": 194491,
-      "word": "难哄",
-      "onboard_time": 1741148481,
-      "rank": 38,
-      "category": "剧集"
+      "raw_hot": 194462,
+      "num": 194462,
+      "word": "幸福就是给员工涨工资",
+      "onboard_time": 1741149261,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 194203,
@@ -769,6 +801,14 @@
       "onboard_time": 1741138039,
       "rank": 17,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 192346,
+      "num": 192346,
+      "word": "光与夜之恋",
+      "onboard_time": 1741149442,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 189535,
@@ -817,14 +857,6 @@
       "onboard_time": 1741136300,
       "rank": 45,
       "category": "国内时政,互联网"
-    },
-    {
-      "raw_hot": 185444,
-      "num": 185444,
-      "word": "终于解决了眼镜总是下滑这件事",
-      "onboard_time": 1741147939,
-      "rank": 42,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 182111,
@@ -916,7 +948,7 @@
     },
     {
       "raw_hot": 152710,
-      "num": 1011179,
+      "num": 1079841,
       "word": "中国经济持续向好有底气",
       "onboard_time": 1741140437,
       "rank": 47,
@@ -929,6 +961,14 @@
       "onboard_time": 1741146198,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151032,
+      "num": 151032,
+      "word": "大侦探",
+      "onboard_time": 1741149321,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 147756,
@@ -1347,6 +1387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60834,
+      "num": 187269,
+      "word": "瑷尔博士员工都去拧螺丝了",
+      "onboard_time": 1741148300,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 59784,
       "num": 513285,
       "word": "中国快递已成为亮丽的中国名片",
@@ -1356,11 +1404,19 @@
     },
     {
       "raw_hot": 59698,
-      "num": 185467,
+      "num": 235684,
       "word": "爱你西瓜头小酒鬼天仙配",
       "onboard_time": 1741147521,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 58024,
+      "num": 209085,
+      "word": "库里28分",
+      "onboard_time": 1741149682,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 57578,
@@ -1387,6 +1443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54386,
+      "num": 290661,
+      "word": "王子奇发网盘语音给王星越庆生",
+      "onboard_time": 1741149022,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51471,
       "num": 51471,
       "word": "美国在芬太尼问题上散布各种谎言",
@@ -1411,20 +1475,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 34402,
+      "num": 355822,
+      "word": "优化药品集采政策",
+      "onboard_time": 1741148600,
+      "rank": 15,
+      "category": "国内时政,健康医疗"
+    },
+    {
       "raw_hot": 31833,
       "num": 157237,
       "word": "十个勤天礼盒爆改痛包",
       "onboard_time": 1741142059,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 31754,
-      "num": 301079,
-      "word": "优化药品集采政策",
-      "onboard_time": 1741148600,
-      "rank": 15,
-      "category": "国内时政,健康医疗"
     },
     {
       "raw_hot": 28187,
@@ -1451,6 +1515,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 22477,
+      "num": 484299,
+      "word": "中国经济跑出春日加速度",
+      "onboard_time": 1741148840,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20903,
       "num": 37089,
       "word": "赵冬苓称DeepSeek写剧本很套路化",
@@ -1467,28 +1539,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 17463,
-      "num": 185704,
-      "word": "瑷尔博士员工都去拧螺丝了",
-      "onboard_time": 1741148300,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 17136,
       "num": 18552,
       "word": "哪吒",
       "onboard_time": 1741111033,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 16484,
-      "num": 189177,
-      "word": "中国经济跑出春日加速度",
-      "onboard_time": 1741148840,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15364,
