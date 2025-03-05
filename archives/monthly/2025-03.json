@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741181441825,
+  "endTime": 1741182115749,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -691,6 +691,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1129852,
+      "num": 331496,
+      "word": "吴尊听到Neinei和Max谈恋爱的反应",
+      "onboard_time": 1741170438,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1121767,
       "num": 659194,
       "word": "陶喆方大同",
@@ -987,6 +995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 935740,
+      "num": 1149718,
+      "word": "哪吒2再次刷新纪录",
+      "onboard_time": 1741177939,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 922575,
       "num": 584287,
       "word": "泽连斯基称愿以辞职换乌进北约",
@@ -1020,7 +1036,7 @@
     },
     {
       "raw_hot": 905983,
-      "num": 383353,
+      "num": 400534,
       "word": "北电复试男艺考生颜值",
       "onboard_time": 1741171338,
       "rank": 47,
@@ -1387,14 +1403,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 755887,
-      "num": 755887,
-      "word": "哪吒2再次刷新纪录",
-      "onboard_time": 1741177939,
-      "rank": 14,
-      "category": "电影"
-    },
-    {
       "raw_hot": 755512,
       "num": 755512,
       "word": "全专业学生都被打包签走老师笑傻了",
@@ -1419,14 +1427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 752241,
-      "num": 331496,
-      "word": "吴尊听到Neinei和Max谈恋爱的反应",
-      "onboard_time": 1741170438,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 742802,
       "num": 368170,
       "word": "迪丽热巴摄影尹超",
@@ -1441,6 +1441,14 @@
       "onboard_time": 1740987979,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 734659,
+      "num": 734659,
+      "word": "米津玄师羽生结弦合作",
+      "onboard_time": 1741180998,
+      "rank": 4,
+      "category": "动漫"
     },
     {
       "raw_hot": 727272,
@@ -1801,6 +1809,14 @@
       "onboard_time": 1741170559,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 628219,
+      "num": 201306,
+      "word": "美滞留太空宇航员婉拒马斯克",
+      "onboard_time": 1741180458,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 627728,
@@ -2803,6 +2819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 456674,
+      "num": 456674,
+      "word": "建议每车固定里程高速免费",
+      "onboard_time": 1741180219,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 455249,
       "num": 202879,
       "word": "杭州姑娘退税4190元惊呼巨款",
@@ -3057,14 +3081,6 @@
       "onboard_time": 1740833964,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 416074,
-      "num": 416074,
-      "word": "米津玄师羽生结弦合作",
-      "onboard_time": 1741180998,
-      "rank": 4,
-      "category": "动漫"
     },
     {
       "raw_hot": 415990,
@@ -3379,14 +3395,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 376277,
-      "num": 201306,
-      "word": "美滞留太空宇航员婉拒马斯克",
-      "onboard_time": 1741180458,
-      "rank": 25,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 374648,
       "num": 234501,
       "word": "我是徐明浩我不演了",
@@ -3609,6 +3617,14 @@
       "onboard_time": 1740905119,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 353952,
+      "num": 353952,
+      "word": "北上 小巷人家",
+      "onboard_time": 1741181599,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 352928,
@@ -6219,14 +6235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 207475,
-      "num": 207475,
-      "word": "建议每车固定里程高速免费",
-      "onboard_time": 1741180219,
-      "rank": 17,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 207446,
       "num": 243263,
       "word": "白鹿说因为警察荣誉才能演北上",
@@ -7696,6 +7704,14 @@
       "word": "樊振东手拿熊猫公仔",
       "onboard_time": 1740818062,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 175548,
+      "num": 175548,
+      "word": "CBA",
+      "onboard_time": 1740922520,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -9283,14 +9299,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 146460,
-      "num": 146460,
-      "word": "CBA",
-      "onboard_time": 1740922520,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 146336,
       "num": 221886,
       "word": "建议遏制农村高额彩礼",
@@ -9649,6 +9657,14 @@
       "onboard_time": 1741145180,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 140513,
+      "num": 140513,
+      "word": "徐若晗去见喜欢的人要用跑的",
+      "onboard_time": 1741181359,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 140496,
@@ -11235,6 +11251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112613,
+      "num": 347983,
+      "word": "霍启刚谈政府工作报告",
+      "onboard_time": 1741180399,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 112439,
       "num": 112439,
       "word": "DojaCat 难听",
@@ -11995,6 +12019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98273,
+      "num": 98273,
+      "word": "夏凤华好哄",
+      "onboard_time": 1741181419,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98086,
       "num": 98086,
       "word": "留几手说晚上约杨子喝点",
@@ -12371,14 +12403,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 90247,
-      "num": 90247,
-      "word": "徐若晗去见喜欢的人要用跑的",
-      "onboard_time": 1741181359,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 90191,
       "num": 278467,
       "word": "第五人格赛季精华",
@@ -12393,6 +12417,14 @@
       "onboard_time": 1741002558,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 89900,
+      "num": 89900,
+      "word": "LESSERAFIM超话空降",
+      "onboard_time": 1741182019,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 89809,
@@ -12601,14 +12633,6 @@
       "onboard_time": 1740924501,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 84768,
-      "num": 84768,
-      "word": "夏凤华好哄",
-      "onboard_time": 1741181419,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 84333,
@@ -13219,6 +13243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65892,
+      "num": 255917,
+      "word": "人大代表建议严打坑老骗局",
+      "onboard_time": 1741181119,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 65872,
       "num": 202374,
       "word": "二月二龙抬头一起接好运",
@@ -13409,22 +13441,6 @@
       "onboard_time": 1741158679,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 61121,
-      "num": 347983,
-      "word": "霍启刚谈政府工作报告",
-      "onboard_time": 1741180399,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 61036,
-      "num": 206825,
-      "word": "人大代表建议严打坑老骗局",
-      "onboard_time": 1741181119,
-      "rank": 18,
-      "category": "国内时政"
     },
     {
       "raw_hot": 60834,
@@ -13729,6 +13745,14 @@
       "onboard_time": 1740812850,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 52028,
+      "num": 206005,
+      "word": "建议规范盲盒类产品经营",
+      "onboard_time": 1741180758,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 51719,
@@ -14243,14 +14267,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 37983,
-      "num": 206005,
-      "word": "建议规范盲盒类产品经营",
-      "onboard_time": 1741180758,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 37798,
       "num": 243021,
       "word": "传染病学课老师生动示范防护措施",
@@ -14476,7 +14492,7 @@
     },
     {
       "raw_hot": 32013,
-      "num": 723936,
+      "num": 777300,
       "word": "一组图速览2025重点工作",
       "onboard_time": 1741162698,
       "rank": 2,

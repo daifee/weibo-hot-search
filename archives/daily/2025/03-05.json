@@ -1,6 +1,6 @@
 {
   "startTime": 1741105825822,
-  "endTime": 1741181441825,
+  "endTime": 1741182115749,
   "band_list": [
     {
       "raw_hot": 1895236,
@@ -107,6 +107,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1129852,
+      "num": 331496,
+      "word": "吴尊听到Neinei和Max谈恋爱的反应",
+      "onboard_time": 1741170438,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1103465,
       "num": 375917,
       "word": "红绿灯的黄",
@@ -155,6 +163,14 @@
       "category": "国内时政,互联网"
     },
     {
+      "raw_hot": 935740,
+      "num": 1149718,
+      "word": "哪吒2再次刷新纪录",
+      "onboard_time": 1741177939,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 930407,
       "num": 190387,
       "word": "曝王大陆涉嫌杀人未遂移送侦办",
@@ -164,7 +180,7 @@
     },
     {
       "raw_hot": 905983,
-      "num": 383353,
+      "num": 400534,
       "word": "北电复试男艺考生颜值",
       "onboard_time": 1741171338,
       "rank": 47,
@@ -219,14 +235,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 755887,
-      "num": 755887,
-      "word": "哪吒2再次刷新纪录",
-      "onboard_time": 1741177939,
-      "rank": 14,
-      "category": "电影"
-    },
-    {
       "raw_hot": 755512,
       "num": 755512,
       "word": "全专业学生都被打包签走老师笑傻了",
@@ -243,12 +251,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 752241,
-      "num": 331496,
-      "word": "吴尊听到Neinei和Max谈恋爱的反应",
-      "onboard_time": 1741170438,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 734659,
+      "num": 734659,
+      "word": "米津玄师羽生结弦合作",
+      "onboard_time": 1741180998,
+      "rank": 4,
+      "category": "动漫"
     },
     {
       "raw_hot": 726376,
@@ -361,6 +369,14 @@
       "onboard_time": 1741170559,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 628219,
+      "num": 201306,
+      "word": "美滞留太空宇航员婉拒马斯克",
+      "onboard_time": 1741180458,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 627728,
@@ -539,6 +555,14 @@
       "category": "国内时政,艺人"
     },
     {
+      "raw_hot": 456674,
+      "num": 456674,
+      "word": "建议每车固定里程高速免费",
+      "onboard_time": 1741180219,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 455249,
       "num": 202879,
       "word": "杭州姑娘退税4190元惊呼巨款",
@@ -593,14 +617,6 @@
       "onboard_time": 1741176080,
       "rank": 5,
       "category": "国内时政,电影"
-    },
-    {
-      "raw_hot": 416074,
-      "num": 416074,
-      "word": "米津玄师羽生结弦合作",
-      "onboard_time": 1741180998,
-      "rank": 4,
-      "category": "动漫"
     },
     {
       "raw_hot": 415259,
@@ -699,14 +715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 376277,
-      "num": 201306,
-      "word": "美滞留太空宇航员婉拒马斯克",
-      "onboard_time": 1741180458,
-      "rank": 25,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 374416,
       "num": 374416,
       "word": "嘘国王在冬眠",
@@ -753,6 +761,14 @@
       "onboard_time": 1741155617,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 353952,
+      "num": 353952,
+      "word": "北上 小巷人家",
+      "onboard_time": 1741181599,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 352544,
@@ -1283,14 +1299,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 207475,
-      "num": 207475,
-      "word": "建议每车固定里程高速免费",
-      "onboard_time": 1741180219,
-      "rank": 17,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 203566,
       "num": 209893,
       "word": "虞书欣卫枝各路好友齐来助阵",
@@ -1537,6 +1545,14 @@
       "onboard_time": 1741151360,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175548,
+      "num": 175548,
+      "word": "CBA",
+      "onboard_time": 1741181479,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 175359,
@@ -1817,6 +1833,14 @@
       "onboard_time": 1741145180,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 140513,
+      "num": 140513,
+      "word": "徐若晗去见喜欢的人要用跑的",
+      "onboard_time": 1741181359,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 140467,
@@ -2171,6 +2195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112613,
+      "num": 347983,
+      "word": "霍启刚谈政府工作报告",
+      "onboard_time": 1741180399,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 111332,
       "num": 111332,
       "word": "XIUMIN与SM艺人不能同时出演KBS节目",
@@ -2339,6 +2371,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 98273,
+      "num": 98273,
+      "word": "夏凤华好哄",
+      "onboard_time": 1741181419,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97659,
       "num": 246046,
       "word": "稳住楼市股市首次写进政府工作报告",
@@ -2419,12 +2459,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 90247,
-      "num": 90247,
-      "word": "徐若晗去见喜欢的人要用跑的",
-      "onboard_time": 1741181359,
-      "rank": 46,
-      "category": "剧集"
+      "raw_hot": 89900,
+      "num": 89900,
+      "word": "LESSERAFIM超话空降",
+      "onboard_time": 1741182019,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 89298,
@@ -2457,14 +2497,6 @@
       "onboard_time": 1741100360,
       "rank": 31,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 84768,
-      "num": 84768,
-      "word": "夏凤华好哄",
-      "onboard_time": 1741181419,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 84129,
@@ -2627,6 +2659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65892,
+      "num": 255917,
+      "word": "人大代表建议严打坑老骗局",
+      "onboard_time": 1741181119,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 65755,
       "num": 188624,
       "word": "诡秘之主最新PV",
@@ -2681,22 +2721,6 @@
       "onboard_time": 1741158679,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 61121,
-      "num": 347983,
-      "word": "霍启刚谈政府工作报告",
-      "onboard_time": 1741180399,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 61036,
-      "num": 206825,
-      "word": "人大代表建议严打坑老骗局",
-      "onboard_time": 1741181119,
-      "rank": 18,
-      "category": "国内时政"
     },
     {
       "raw_hot": 60834,
@@ -2779,6 +2803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52028,
+      "num": 206005,
+      "word": "建议规范盲盒类产品经营",
+      "onboard_time": 1741180758,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 51495,
       "num": 244116,
       "word": "王者妇女节活动",
@@ -2859,14 +2891,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 37983,
-      "num": 206005,
-      "word": "建议规范盲盒类产品经营",
-      "onboard_time": 1741180758,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 35092,
       "num": 322489,
       "word": "9图速览2024中国发展成绩单",
@@ -2884,7 +2908,7 @@
     },
     {
       "raw_hot": 32013,
-      "num": 723936,
+      "num": 777300,
       "word": "一组图速览2025重点工作",
       "onboard_time": 1741162698,
       "rank": 2,
