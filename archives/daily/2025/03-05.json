@@ -1,6 +1,6 @@
 {
   "startTime": 1741105825822,
-  "endTime": 1741163450509,
+  "endTime": 1741164247218,
   "band_list": [
     {
       "raw_hot": 1895236,
@@ -83,7 +83,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1096682,
+      "raw_hot": 1103465,
       "num": 321623,
       "word": "红绿灯的黄",
       "onboard_time": 1741160480,
@@ -145,6 +145,14 @@
       "onboard_time": 1741131678,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 845092,
+      "num": 1135214,
+      "word": "记者为了采访雷军有多努力",
+      "onboard_time": 1741159220,
+      "rank": 31,
+      "category": "国内时政,互联网"
     },
     {
       "raw_hot": 833072,
@@ -251,6 +259,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 650971,
+      "num": 292284,
+      "word": "护士用留置针扎耳洞",
+      "onboard_time": 1741161679,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 631332,
       "num": 406842,
       "word": "嘘国王在冬眠定档",
@@ -283,28 +299,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 564537,
-      "num": 292284,
-      "word": "护士用留置针扎耳洞",
-      "onboard_time": 1741161679,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 561025,
       "num": 561025,
       "word": "温以凡扛桑延",
       "onboard_time": 1741150521,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 560773,
-      "num": 560773,
-      "word": "记者为了采访雷军有多努力",
-      "onboard_time": 1741159220,
-      "rank": 31,
-      "category": "国内时政,互联网"
     },
     {
       "raw_hot": 551516,
@@ -323,6 +323,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 545210,
+      "num": 285433,
+      "word": "难哄男二女二 台湾偶像剧",
+      "onboard_time": 1741163658,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 539594,
       "num": 175314,
       "word": "质疑泽连斯基着装的美记者遭死亡威胁",
@@ -337,6 +345,14 @@
       "onboard_time": 1741151899,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 505863,
+      "num": 318252,
+      "word": "Younha官宣结婚",
+      "onboard_time": 1741159998,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 504133,
@@ -417,14 +433,6 @@
       "onboard_time": 1741149261,
       "rank": 36,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 424113,
-      "num": 318252,
-      "word": "Younha官宣结婚",
-      "onboard_time": 1741159998,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 415259,
@@ -691,6 +699,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 278346,
+      "num": 303193,
+      "word": "许凯生日户外骑行",
+      "onboard_time": 1741162698,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 274957,
       "num": 260061,
       "word": "你根本没有意识到你有多么年轻",
@@ -801,14 +817,6 @@
       "onboard_time": 1741085240,
       "rank": 14,
       "category": "国内时政,电影"
-    },
-    {
-      "raw_hot": 243992,
-      "num": 303193,
-      "word": "许凯生日户外骑行",
-      "onboard_time": 1741162698,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 243974,
@@ -1091,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189395,
+      "num": 312427,
+      "word": "建议对餐厅使用预制菜明确标注",
+      "onboard_time": 1741161800,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 189046,
       "num": 189046,
       "word": "欧盟宣布8000亿欧元重新武装欧洲计划",
@@ -1227,14 +1243,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 166412,
-      "num": 312427,
-      "word": "建议对餐厅使用预制菜明确标注",
-      "onboard_time": 1741161800,
-      "rank": 14,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 162642,
       "num": 153070,
       "word": "哪吒2登陆新加坡反响热烈",
@@ -1313,6 +1321,14 @@
       "onboard_time": 1741149321,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150851,
+      "num": 236485,
+      "word": "建议尽早实施12年义务教育",
+      "onboard_time": 1741158378,
+      "rank": 29,
+      "category": "国内时政,教育"
     },
     {
       "raw_hot": 147756,
@@ -1395,14 +1411,6 @@
       "category": "国内时政,教育"
     },
     {
-      "raw_hot": 139143,
-      "num": 236485,
-      "word": "建议尽早实施12年义务教育",
-      "onboard_time": 1741158378,
-      "rank": 29,
-      "category": "国内时政,教育"
-    },
-    {
       "raw_hot": 136439,
       "num": 136439,
       "word": "花旗银行误将81万亿美元转给个人",
@@ -1464,6 +1472,14 @@
       "word": "特朗普称泽连斯基应更加感激美国",
       "onboard_time": 1741149620,
       "rank": 49,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 127585,
+      "num": 119247,
+      "word": "特朗普讲话底下人互呛",
+      "onboard_time": 1741162460,
+      "rank": 44,
       "category": "国际时政"
     },
     {
@@ -1553,14 +1569,6 @@
       "onboard_time": 1741130476,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119247,
-      "num": 119247,
-      "word": "特朗普讲话底下人互呛",
-      "onboard_time": 1741162460,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 117015,
@@ -1739,6 +1747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99180,
+      "num": 176512,
+      "word": "建议提高个税起征点至每年10万元",
+      "onboard_time": 1741163299,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 97659,
       "num": 246046,
       "word": "稳住楼市股市首次写进政府工作报告",
@@ -1875,6 +1891,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 75864,
+      "num": 188855,
+      "word": "App强制采集非实名制信息是霸王条款",
+      "onboard_time": 1741162338,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 75330,
       "num": 250268,
       "word": "詹姆斯时隔5年再获月最佳球员",
@@ -1939,6 +1963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 67876,
+      "num": 283612,
+      "word": "建议中小学每天2小时体育活动时间",
+      "onboard_time": 1741163538,
+      "rank": 14,
+      "category": "国内时政,教育"
+    },
+    {
       "raw_hot": 67711,
       "num": 200373,
       "word": "MC梦考虑将公开SM录音",
@@ -1977,14 +2009,6 @@
       "onboard_time": 1741127772,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 63314,
-      "num": 176512,
-      "word": "建议提高个税起征点至每年10万元",
-      "onboard_time": 1741163299,
-      "rank": 33,
-      "category": "国内时政"
     },
     {
       "raw_hot": 61155,
@@ -2075,19 +2099,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 48334,
-      "num": 188855,
-      "word": "App强制采集非实名制信息是霸王条款",
-      "onboard_time": 1741162338,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 47624,
       "num": 201564,
       "word": "政协委员说中国高铁对手是我们自己",
       "onboard_time": 1741160059,
       "rank": 27,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 47351,
+      "num": 414121,
+      "word": "政府工作报告里的KPI",
+      "onboard_time": 1741163538,
+      "rank": 2,
       "category": "国内时政"
     },
     {
@@ -2107,12 +2131,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 38670,
+      "num": 281119,
+      "word": "建议将规制隐性加班列入监督",
+      "onboard_time": 1741163358,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 38500,
       "num": 119720,
       "word": "祁煜贝语鲸歌",
       "onboard_time": 1741153219,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 35092,
+      "num": 322489,
+      "word": "9图速览2024中国发展成绩单",
+      "onboard_time": 1741162460,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 34402,
@@ -2160,14 +2200,6 @@
       "word": "建议增强租客和房东法律意识",
       "onboard_time": 1741114271,
       "rank": 24,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 27386,
-      "num": 322489,
-      "word": "9图速览2024中国发展成绩单",
-      "onboard_time": 1741162460,
-      "rank": 9,
       "category": "国内时政"
     },
     {
@@ -2265,14 +2297,6 @@
       "onboard_time": 1741113552,
       "rank": 14,
       "category": "国内时政,电影"
-    },
-    {
-      "raw_hot": 10454,
-      "num": 176261,
-      "word": "建议将规制隐性加班列入监督",
-      "onboard_time": 1741163358,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 10418,

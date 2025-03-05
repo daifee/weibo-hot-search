@@ -1,0 +1,410 @@
+{
+  "runTime": 1741164247218,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 845092,
+        "num": 1135214,
+        "word": "记者为了采访雷军有多努力",
+        "onboard_time": 1741159220,
+        "rank": 0,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 631773,
+        "num": 631773,
+        "word": "发放育儿补贴",
+        "onboard_time": 1741140678,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 47351,
+        "num": 414121,
+        "word": "政府工作报告里的KPI",
+        "onboard_time": 1741163538,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 324861,
+        "num": 324861,
+        "word": "政府工作报告",
+        "onboard_time": 1741137138,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 633673,
+        "num": 323984,
+        "word": "虞书欣为了拍右脸无所不用其极",
+        "onboard_time": 1741159220,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322075,
+        "num": 322075,
+        "word": "谢娜 浪姐6",
+        "onboard_time": 1741160297,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320240,
+        "num": 320240,
+        "word": "建议孕产服务免费",
+        "onboard_time": 1741157479,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298316,
+        "num": 298316,
+        "word": "雷军称去年每卖七部手机就有一部小米",
+        "onboard_time": 1741146620,
+        "rank": 7,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 295018,
+        "num": 295018,
+        "word": "政协委员冯远征用DeepSeek写剧本",
+        "onboard_time": 1741156998,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 286230,
+        "num": 286230,
+        "word": "王者荣耀",
+        "onboard_time": 1741158619,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1103465,
+        "num": 285960,
+        "word": "红绿灯的黄",
+        "onboard_time": 1741160480,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 545210,
+        "num": 285433,
+        "word": "难哄男二女二 台湾偶像剧",
+        "onboard_time": 1741163658,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 505863,
+        "num": 285140,
+        "word": "Younha官宣结婚",
+        "onboard_time": 1741159998,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319085,
+        "num": 284522,
+        "word": "陈坤送锦旗感谢医生治愈左手指骨",
+        "onboard_time": 1741161198,
+        "rank": 13,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 67876,
+        "num": 283612,
+        "word": "建议中小学每天2小时体育活动时间",
+        "onboard_time": 1741163538,
+        "rank": 14,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 35092,
+        "num": 283470,
+        "word": "9图速览2024中国发展成绩单",
+        "onboard_time": 1741162460,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 318038,
+        "num": 282674,
+        "word": "大二女学霸课余打3份工1年攒5万",
+        "onboard_time": 1741154179,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314086,
+        "num": 282372,
+        "word": "痛经女性经期最好少吃甜食",
+        "onboard_time": 1741155617,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 305142,
+        "num": 281755,
+        "word": "王安宇上海",
+        "onboard_time": 1741158679,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38670,
+        "num": 281119,
+        "word": "建议将规制隐性加班列入监督",
+        "onboard_time": 1741163358,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 728745,
+        "num": 280668,
+        "word": "王大陆笑着离开地检署",
+        "onboard_time": 1741152139,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312686,
+        "num": 280439,
+        "word": "杨紫全国巡跳",
+        "onboard_time": 1741157719,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 650971,
+        "num": 279752,
+        "word": "护士用留置针扎耳洞",
+        "onboard_time": 1741161679,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 410936,
+        "num": 279205,
+        "word": "女子染发10多年最终选择与白发和解",
+        "onboard_time": 1741155319,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288014,
+        "num": 278715,
+        "word": "Angelababy精彩OK双封",
+        "onboard_time": 1741159639,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 278346,
+        "num": 278346,
+        "word": "许凯生日户外骑行",
+        "onboard_time": 1741162698,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283382,
+        "num": 235252,
+        "word": "温以凡再次离开桑延",
+        "onboard_time": 1741152199,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189395,
+        "num": 189395,
+        "word": "建议对餐厅使用预制菜明确标注",
+        "onboard_time": 1741161800,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 172545,
+        "num": 172545,
+        "word": "日本男子打死外甥女藏入水泥10年",
+        "onboard_time": 1741145060,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 99180,
+        "num": 170650,
+        "word": "建议提高个税起征点至每年10万元",
+        "onboard_time": 1741163299,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 79699,
+        "num": 169815,
+        "word": "李昀锐说快点拍我露着牙笑的",
+        "onboard_time": 1741158498,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 169075,
+        "num": 169075,
+        "word": "孙颖莎短跑成绩接近男选手",
+        "onboard_time": 1741151899,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167493,
+        "num": 167493,
+        "word": "鞠婧祎起诉丝芭将开庭",
+        "onboard_time": 1741143679,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158821,
+        "num": 158821,
+        "word": "人大代表称中考定终身为时过早",
+        "onboard_time": 1741161379,
+        "rank": 33,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 120915,
+        "num": 158553,
+        "word": "迪丽热巴利剑玫瑰预告",
+        "onboard_time": 1741160480,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165953,
+        "num": 158552,
+        "word": "方大同录音",
+        "onboard_time": 1741149261,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158505,
+        "num": 158505,
+        "word": "近60%高中生在县级中学",
+        "onboard_time": 1741145658,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 150851,
+        "num": 150851,
+        "word": "建议尽早实施12年义务教育",
+        "onboard_time": 1741158378,
+        "rank": 37,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 65638,
+        "num": 130074,
+        "word": "FSD入华中国智驾正面迎战",
+        "onboard_time": 1741163239,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 122806,
+        "num": 122806,
+        "word": "恋爱兄妹综艺",
+        "onboard_time": 1741148840,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75864,
+        "num": 119235,
+        "word": "App强制采集非实名制信息是霸王条款",
+        "onboard_time": 1741162338,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 127585,
+        "num": 118804,
+        "word": "特朗普讲话底下人互呛",
+        "onboard_time": 1741162460,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117085,
+        "num": 117085,
+        "word": "建议将学术不端行为入罪",
+        "onboard_time": 1741159639,
+        "rank": 42,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 115040,
+        "num": 115040,
+        "word": "12年救人40次高中生圆梦成动画主角",
+        "onboard_time": 1741159819,
+        "rank": 43,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 108542,
+        "num": 108542,
+        "word": "特朗普国会讲话遭民主党议员抗议",
+        "onboard_time": 1741147458,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104663,
+        "num": 104663,
+        "word": "这样擦眼镜消耗使用寿命",
+        "onboard_time": 1741161679,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 99150,
+        "num": 99150,
+        "word": "十条措施提振消费",
+        "onboard_time": 1741156879,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 98220,
+        "num": 98220,
+        "word": "虞书欣土味宣传新剧",
+        "onboard_time": 1741162460,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92439,
+        "num": 95272,
+        "word": "于适起诉disco雨索赔20万",
+        "onboard_time": 1741144879,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92872,
+        "num": 92872,
+        "word": "樊振东芭莎男士采访",
+        "onboard_time": 1741162099,
+        "rank": 49,
+        "category": "体育,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#十四届全国人大三次会议开幕#"
+    }
+  }
+}
