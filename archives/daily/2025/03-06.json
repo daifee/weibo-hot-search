@@ -1,6 +1,6 @@
 {
   "startTime": 1741192562065,
-  "endTime": 1741206379548,
+  "endTime": 1741207179606,
   "band_list": [
     {
       "raw_hot": 1052270,
@@ -523,20 +523,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 13984,
+      "num": 18966,
+      "word": "AI带你了解两会高频词都有哪些",
+      "onboard_time": 1741203791,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 13803,
       "num": 17579,
       "word": "美方加征关税施压讹诈是恩将仇报",
       "onboard_time": 1741204511,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 13652,
-      "num": 18966,
-      "word": "AI带你了解两会高频词都有哪些",
-      "onboard_time": 1741203791,
-      "rank": 18,
-      "category": "国内时政"
     },
     {
       "raw_hot": 13248,
@@ -547,7 +547,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 12503,
+      "raw_hot": 12949,
       "num": 16237,
       "word": "一起去街头问问老百姓最关心啥",
       "onboard_time": 1741205472,
@@ -555,7 +555,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 11583,
+      "raw_hot": 12186,
       "num": 16212,
       "word": "回顾过去一年成绩来之不易",
       "onboard_time": 1741205111,
@@ -563,7 +563,15 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 11094,
+      "raw_hot": 12145,
+      "num": 13668,
+      "word": "我国机器人技术实现飞跃式发展",
+      "onboard_time": 1741205830,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 11262,
       "num": 17431,
       "word": "针对创新今年政府有哪些方向和保障",
       "onboard_time": 1741201029,
