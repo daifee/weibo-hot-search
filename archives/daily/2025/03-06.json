@@ -1,6 +1,6 @@
 {
   "startTime": 1741192562065,
-  "endTime": 1741202391256,
+  "endTime": 1741203415973,
   "band_list": [
     {
       "raw_hot": 1052270,
@@ -323,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63867,
+      "num": 63867,
+      "word": "建议为低收入群体免费培训AI技能",
+      "onboard_time": 1741197551,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 62454,
       "num": 62454,
       "word": "多方回应租客被房东扣9200元押金",
@@ -369,14 +377,6 @@
       "onboard_time": 1741187839,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 54405,
-      "num": 54405,
-      "word": "建议为低收入群体免费培训AI技能",
-      "onboard_time": 1741197551,
-      "rank": 16,
-      "category": "国内时政"
     },
     {
       "raw_hot": 54315,
@@ -484,7 +484,7 @@
     },
     {
       "raw_hot": 18487,
-      "num": 18487,
+      "num": 18786,
       "word": "难哄男二女二 台湾偶像剧",
       "onboard_time": 1741163658,
       "rank": 46,
@@ -492,7 +492,7 @@
     },
     {
       "raw_hot": 17432,
-      "num": 17432,
+      "num": 18806,
       "word": "靳东回应AI真假靳东",
       "onboard_time": 1741183399,
       "rank": 49,
@@ -515,20 +515,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 12855,
+      "num": 18778,
+      "word": "王大陆登艺人涉案交保金冠军宝座",
+      "onboard_time": 1741203191,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 12164,
+      "num": 18766,
+      "word": "AI给就业带来哪些机遇",
+      "onboard_time": 1741203371,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 10852,
+      "num": 28713,
+      "word": "经济主题记者会6日下午举行",
+      "onboard_time": 1741201750,
+      "rank": 14,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 10764,
       "num": 17431,
       "word": "针对创新今年政府有哪些方向和保障",
       "onboard_time": 1741201029,
       "rank": 35,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 10705,
-      "num": 28713,
-      "word": "经济主题记者会6日下午举行",
-      "onboard_time": 1741201750,
-      "rank": 14,
-      "category": "国内时政,财经"
     },
     {
       "raw_hot": 10555,

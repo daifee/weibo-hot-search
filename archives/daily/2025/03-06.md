@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/03/06 00:36:02 ~ 2025/03/06 03:19:51
+本榜单时间：2025/03/06 00:36:02 ~ 2025/03/06 03:36:55
 </p>
 </blockquote>
 <p>
@@ -255,6 +255,12 @@ MacBook Air（热度：410243）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%B8%BA%E4%BD%8E%E6%94%B6%E5%85%A5%E7%BE%A4%E4%BD%93%E5%85%8D%E8%B4%B9%E5%9F%B9%E8%AE%ADAI%E6%8A%80%E8%83%BD%23" target="weibo">
+建议为低收入群体免费培训AI技能（热度：63867）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E7%A7%9F%E5%AE%A2%E8%A2%AB%E6%88%BF%E4%B8%9C%E6%89%A39200%E5%85%83%E6%8A%BC%E9%87%91%23" target="weibo">
 多方回应租客被房东扣9200元押金（热度：62454）
 </a>
@@ -287,12 +293,6 @@ Angelababy腰身比（热度：59103）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E9%87%8D%E5%BA%86%E5%86%A0%E5%86%9B%E8%B5%9B%E5%AE%A3%E4%BC%A0%E7%89%87%23" target="weibo">
 王曼昱重庆冠军赛宣传片（热度：57556）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%B8%BA%E4%BD%8E%E6%94%B6%E5%85%A5%E7%BE%A4%E4%BD%93%E5%85%8D%E8%B4%B9%E5%9F%B9%E8%AE%ADAI%E6%8A%80%E8%83%BD%23" target="weibo">
-建议为低收入群体免费培训AI技能（热度：54405）
 </a>
 </li>
 
@@ -399,14 +399,26 @@ Angelababy腰身比（热度：59103）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%92%88%E5%AF%B9%E5%88%9B%E6%96%B0%E4%BB%8A%E5%B9%B4%E6%94%BF%E5%BA%9C%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B9%E5%90%91%E5%92%8C%E4%BF%9D%E9%9A%9C%23" target="weibo">
-针对创新今年政府有哪些方向和保障（热度：10764）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%A4%A7%E9%99%86%E7%99%BB%E8%89%BA%E4%BA%BA%E6%B6%89%E6%A1%88%E4%BA%A4%E4%BF%9D%E9%87%91%E5%86%A0%E5%86%9B%E5%AE%9D%E5%BA%A7%23" target="weibo">
+王大陆登艺人涉案交保金冠军宝座（热度：12855）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23AI%E7%BB%99%E5%B0%B1%E4%B8%9A%E5%B8%A6%E6%9D%A5%E5%93%AA%E4%BA%9B%E6%9C%BA%E9%81%87%23" target="weibo">
+AI给就业带来哪些机遇（热度：12164）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%8F%E6%B5%8E%E4%B8%BB%E9%A2%98%E8%AE%B0%E8%80%85%E4%BC%9A6%E6%97%A5%E4%B8%8B%E5%8D%88%E4%B8%BE%E8%A1%8C%23" target="weibo">
-经济主题记者会6日下午举行（热度：10705）
+经济主题记者会6日下午举行（热度：10852）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%92%88%E5%AF%B9%E5%88%9B%E6%96%B0%E4%BB%8A%E5%B9%B4%E6%94%BF%E5%BA%9C%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B9%E5%90%91%E5%92%8C%E4%BF%9D%E9%9A%9C%23" target="weibo">
+针对创新今年政府有哪些方向和保障（热度：10764）
 </a>
 </li>
 
