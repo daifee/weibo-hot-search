@@ -1,0 +1,410 @@
+{
+  "runTime": 1741145535422,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1830464,
+        "num": 1830464,
+        "word": "发放育儿补贴",
+        "onboard_time": 1741140678,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 761411,
+        "num": 761411,
+        "word": "谁说中国人不能制定国际标准",
+        "onboard_time": 1741141158,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 39891,
+        "num": 760876,
+        "word": "这场发布会干货满满一文速览",
+        "onboard_time": 1741096521,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1777412,
+        "num": 760825,
+        "word": "周总理让C位给东风基地科技人员",
+        "onboard_time": 1741141938,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 132825,
+        "num": 760771,
+        "word": "首场部长通道",
+        "onboard_time": 1741143079,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 760768,
+        "num": 760768,
+        "word": "政府工作报告",
+        "onboard_time": 1741137138,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 652900,
+        "num": 652900,
+        "word": "余承东出牌了",
+        "onboard_time": 1741141938,
+        "rank": 6,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 510247,
+        "num": 510247,
+        "word": "微信再次瘦身",
+        "onboard_time": 1741133237,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 412840,
+        "num": 412840,
+        "word": "城乡居民基础养老金最低标准提高20元",
+        "onboard_time": 1741140858,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 386507,
+        "num": 386507,
+        "word": "冯远征说DeepSeek写剧本缺乏人的温度",
+        "onboard_time": 1741144279,
+        "rank": 9,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 683588,
+        "num": 379075,
+        "word": "迪奥认领迪丽热巴刘雨昕",
+        "onboard_time": 1741141397,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 632664,
+        "num": 370636,
+        "word": "鞠婧祎起诉丝芭将开庭",
+        "onboard_time": 1741143679,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 523686,
+        "num": 362216,
+        "word": "人大会议开幕会",
+        "onboard_time": 1741136240,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 442034,
+        "num": 359922,
+        "word": "嘘国王在冬眠定档",
+        "onboard_time": 1741139359,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 352822,
+        "num": 352822,
+        "word": "极简版政府工作报告",
+        "onboard_time": 1741140558,
+        "rank": 14,
+        "category": "教育,运动健身"
+      },
+      {
+        "raw_hot": 207505,
+        "num": 352140,
+        "word": "虞书欣漫画角色为卫枝打call",
+        "onboard_time": 1741144578,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37988,
+        "num": 351627,
+        "word": "教育部部长回应DeepSeek热",
+        "onboard_time": 1741145239,
+        "rank": 16,
+        "category": "互联网,教育"
+      },
+      {
+        "raw_hot": 199384,
+        "num": 350721,
+        "word": "罗小黑战记2今夏上映",
+        "onboard_time": 1741144398,
+        "rank": 17,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 186332,
+        "num": 349356,
+        "word": "于适起诉disco雨索赔20万",
+        "onboard_time": 1741144879,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115005,
+        "num": 348458,
+        "word": "消毒级卫生巾呵护女性经期健康",
+        "onboard_time": 1741143738,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 439868,
+        "num": 347679,
+        "word": "女孩出生确诊蝴蝶宝贝皮肤一碰就碎",
+        "onboard_time": 1741144718,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 374944,
+        "num": 347147,
+        "word": "日本男子打死外甥女藏入水泥10年",
+        "onboard_time": 1741145060,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 157540,
+        "num": 346088,
+        "word": "金智秀卢浮宫慈善晚宴",
+        "onboard_time": 1741143859,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176722,
+        "num": 345325,
+        "word": "罗小黑战记2",
+        "onboard_time": 1741142777,
+        "rank": 23,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 344574,
+        "num": 344574,
+        "word": "小伙失恋睡不着摆40多天共享单车",
+        "onboard_time": 1741139958,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113955,
+        "num": 267157,
+        "word": "推进双一流高校本科扩容",
+        "onboard_time": 1741145299,
+        "rank": 25,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 264534,
+        "num": 264534,
+        "word": "落实和优化休假制度",
+        "onboard_time": 1741139537,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 263614,
+        "num": 263614,
+        "word": "年轻人开始流行过妇女节了",
+        "onboard_time": 1741143620,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252703,
+        "num": 252703,
+        "word": "全专业学生都被打包签走老师笑傻了",
+        "onboard_time": 1741145239,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72435,
+        "num": 250564,
+        "word": "致敬了不起的你们",
+        "onboard_time": 1741144398,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249319,
+        "num": 249319,
+        "word": "女子盗录哪吒2浏览量超35万被罚1.5万",
+        "onboard_time": 1741130356,
+        "rank": 30,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 232057,
+        "num": 232057,
+        "word": "肯德基 孙颖莎",
+        "onboard_time": 1741144339,
+        "rank": 31,
+        "category": "体育,美食"
+      },
+      {
+        "raw_hot": 226254,
+        "num": 226254,
+        "word": "逐步推行免费学前教育",
+        "onboard_time": 1741138818,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 224060,
+        "num": 224060,
+        "word": "你根本没有意识到你有多么年轻",
+        "onboard_time": 1741138278,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205116,
+        "num": 205116,
+        "word": "泽连斯基准备在特朗普领导下实现和平",
+        "onboard_time": 1741134260,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 200587,
+        "num": 200587,
+        "word": "建议带薪休假纳入企业信用评价",
+        "onboard_time": 1741143138,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194367,
+        "num": 194367,
+        "word": "2025年政府工作十大任务",
+        "onboard_time": 1741141938,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 178996,
+        "num": 178996,
+        "word": "林一背后抱虞书欣",
+        "onboard_time": 1741145480,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178293,
+        "num": 178293,
+        "word": "雷军说有点小紧张",
+        "onboard_time": 1741145239,
+        "rank": 38,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 167812,
+        "num": 167812,
+        "word": "赵露思恋人复拍",
+        "onboard_time": 1741130416,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166525,
+        "num": 166525,
+        "word": "关注年轻人不想生问题",
+        "onboard_time": 1741133901,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 165231,
+        "num": 165231,
+        "word": "2024年GDP增长5%",
+        "onboard_time": 1741138159,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 157119,
+        "num": 157119,
+        "word": "两会",
+        "onboard_time": 1741055659,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 153779,
+        "num": 153779,
+        "word": "游客逛长隆发现满地动物饼干",
+        "onboard_time": 1741141638,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152544,
+        "num": 152544,
+        "word": "曝王大陆涉嫌杀人未遂移送侦办",
+        "onboard_time": 1741077081,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151936,
+        "num": 151936,
+        "word": "肖战西班牙机场回国路透",
+        "onboard_time": 1741141519,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149131,
+        "num": 149131,
+        "word": "3000亿元支持消费品以旧换新",
+        "onboard_time": 1741138698,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 145315,
+        "num": 145315,
+        "word": "DeepSeek等成两会热点",
+        "onboard_time": 1741072397,
+        "rank": 47,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 140542,
+        "num": 140542,
+        "word": "全球先锋赛赛程公布",
+        "onboard_time": 1741145180,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 31833,
+        "num": 139650,
+        "word": "十个勤天礼盒爆改痛包",
+        "onboard_time": 1741142059,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记两会上的民生关切#"
+    }
+  }
+}
