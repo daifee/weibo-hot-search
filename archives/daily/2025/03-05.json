@@ -1,21 +1,21 @@
 {
   "startTime": 1741105825822,
-  "endTime": 1741145535422,
+  "endTime": 1741146270563,
   "band_list": [
+    {
+      "raw_hot": 1895236,
+      "num": 1895236,
+      "word": "发放育儿补贴",
+      "onboard_time": 1741140678,
+      "rank": 1,
+      "category": "国内时政"
+    },
     {
       "raw_hot": 1859420,
       "num": 1859420,
       "word": "政府工作报告",
       "onboard_time": 1741137138,
       "rank": 4,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 1830464,
-      "num": 1830464,
-      "word": "发放育儿补贴",
-      "onboard_time": 1741140678,
-      "rank": 1,
       "category": "国内时政"
     },
     {
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 716450,
-      "num": 407339,
+      "num": 494355,
       "word": "迪奥认领迪丽热巴刘雨昕",
       "onboard_time": 1741141397,
       "rank": 10,
@@ -123,8 +123,8 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 632664,
-      "num": 370636,
+      "raw_hot": 633023,
+      "num": 477406,
       "word": "鞠婧祎起诉丝芭将开庭",
       "onboard_time": 1741143679,
       "rank": 18,
@@ -139,12 +139,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 621489,
+      "num": 364147,
+      "word": "女孩出生确诊蝴蝶宝贝皮肤一碰就碎",
+      "onboard_time": 1741144718,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 593987,
       "num": 321768,
       "word": "女子盗录哪吒2浏览量超35万被罚1.5万",
       "onboard_time": 1741130356,
       "rank": 28,
       "category": "民生新闻,电影"
+    },
+    {
+      "raw_hot": 590661,
+      "num": 359390,
+      "word": "日本男子打死外甥女藏入水泥10年",
+      "onboard_time": 1741145060,
+      "rank": 21,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 547578,
@@ -187,20 +203,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 439868,
-      "num": 347679,
-      "word": "女孩出生确诊蝴蝶宝贝皮肤一碰就碎",
-      "onboard_time": 1741144718,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 436816,
       "num": 436816,
       "word": "落实和优化休假制度",
       "onboard_time": 1741139537,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 434013,
+      "num": 434013,
+      "word": "冯远征说DeepSeek写剧本缺乏人的温度",
+      "onboard_time": 1741144279,
+      "rank": 9,
+      "category": "国内时政,艺人"
     },
     {
       "raw_hot": 431248,
@@ -227,14 +243,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 386507,
-      "num": 386507,
-      "word": "冯远征说DeepSeek写剧本缺乏人的温度",
-      "onboard_time": 1741144279,
-      "rank": 9,
-      "category": "国内时政,艺人"
-    },
-    {
       "raw_hot": 384941,
       "num": 216839,
       "word": "网传五哈新一季阵容",
@@ -259,14 +267,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 374944,
-      "num": 347147,
-      "word": "日本男子打死外甥女藏入水泥10年",
-      "onboard_time": 1741145060,
-      "rank": 21,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 374416,
       "num": 374416,
       "word": "嘘国王在冬眠",
@@ -283,6 +283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 371014,
+      "num": 275802,
+      "word": "被大体老师震撼到了",
+      "onboard_time": 1741145840,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 362389,
       "num": 304344,
       "word": "全圆佑4月3日入伍",
@@ -297,6 +305,14 @@
       "onboard_time": 1741133901,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 352524,
+      "num": 352524,
+      "word": "全专业学生都被打包签走老师笑傻了",
+      "onboard_time": 1741145239,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 340917,
@@ -387,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 275276,
+      "num": 275276,
+      "word": "肯德基 孙颖莎",
+      "onboard_time": 1741144339,
+      "rank": 31,
+      "category": "体育,美食"
+    },
+    {
       "raw_hot": 274957,
       "num": 260061,
       "word": "你根本没有意识到你有多么年轻",
@@ -451,12 +475,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 252703,
-      "num": 252703,
-      "word": "全专业学生都被打包签走老师笑傻了",
+      "raw_hot": 246445,
+      "num": 246445,
+      "word": "雷军说有点小紧张",
       "onboard_time": 1741145239,
-      "rank": 28,
-      "category": "民生新闻"
+      "rank": 38,
+      "category": "国内时政,互联网"
     },
     {
       "raw_hot": 244026,
@@ -497,14 +521,6 @@
       "onboard_time": 1741104259,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 232057,
-      "num": 232057,
-      "word": "肯德基 孙颖莎",
-      "onboard_time": 1741144339,
-      "rank": 31,
-      "category": "体育,美食"
     },
     {
       "raw_hot": 229555,
@@ -563,6 +579,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 209037,
+      "num": 209037,
+      "word": "林一背后抱虞书欣",
+      "onboard_time": 1741145480,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207505,
       "num": 352140,
       "word": "虞书欣漫画角色为卫枝打call",
@@ -601,6 +625,14 @@
       "onboard_time": 1741144398,
       "rank": 17,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 195762,
+      "num": 508069,
+      "word": "教育部部长回应DeepSeek热",
+      "onboard_time": 1741145239,
+      "rank": 16,
+      "category": "互联网,教育"
     },
     {
       "raw_hot": 194203,
@@ -668,7 +700,7 @@
     },
     {
       "raw_hot": 186332,
-      "num": 349356,
+      "num": 356023,
       "word": "于适起诉disco雨索赔20万",
       "onboard_time": 1741144879,
       "rank": 18,
@@ -683,11 +715,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 178996,
-      "num": 178996,
-      "word": "林一背后抱虞书欣",
-      "onboard_time": 1741145480,
-      "rank": 37,
+      "raw_hot": 180213,
+      "num": 353504,
+      "word": "IU朴宝剑新剧发布会",
+      "onboard_time": 1741145960,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -696,14 +728,6 @@
       "word": "雷军代表通道发言",
       "onboard_time": 1741135520,
       "rank": 40,
-      "category": "国内时政,互联网"
-    },
-    {
-      "raw_hot": 178293,
-      "num": 178293,
-      "word": "雷军说有点小紧张",
-      "onboard_time": 1741145239,
-      "rank": 38,
       "category": "国内时政,互联网"
     },
     {
@@ -731,12 +755,28 @@
       "category": "国内时政,教育"
     },
     {
+      "raw_hot": 170967,
+      "num": 362372,
+      "word": "林一开启内娱拼命式剧宣新赛道",
+      "onboard_time": 1741145960,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168343,
       "num": 168343,
       "word": "两会",
       "onboard_time": 1741055659,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 167267,
+      "num": 536859,
+      "word": "推进双一流高校本科扩容",
+      "onboard_time": 1741145299,
+      "rank": 25,
+      "category": "国内时政,教育"
     },
     {
       "raw_hot": 159465,
@@ -748,7 +788,7 @@
     },
     {
       "raw_hot": 157540,
-      "num": 346088,
+      "num": 369169,
       "word": "金智秀卢浮宫慈善晚宴",
       "onboard_time": 1741143859,
       "rank": 33,
@@ -769,6 +809,14 @@
       "onboard_time": 1741140437,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 152534,
+      "num": 152534,
+      "word": "宁艺卓 高洁丝",
+      "onboard_time": 1741146198,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 147756,
@@ -868,7 +916,7 @@
     },
     {
       "raw_hot": 126843,
-      "num": 348458,
+      "num": 365886,
       "word": "消毒级卫生巾呵护女性经期健康",
       "onboard_time": 1741143738,
       "rank": 46,
@@ -963,14 +1011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 113955,
-      "num": 267157,
-      "word": "推进双一流高校本科扩容",
-      "onboard_time": 1741145299,
-      "rank": 25,
-      "category": "国内时政,教育"
-    },
-    {
       "raw_hot": 111332,
       "num": 111332,
       "word": "XIUMIN与SM艺人不能同时出演KBS节目",
@@ -1009,6 +1049,14 @@
       "onboard_time": 1741088900,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 102779,
+      "num": 150208,
+      "word": "于适巴黎探店路透",
+      "onboard_time": 1741146019,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 94739,
@@ -1132,11 +1180,19 @@
     },
     {
       "raw_hot": 72435,
-      "num": 250564,
+      "num": 276121,
       "word": "致敬了不起的你们",
       "onboard_time": 1741144398,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 67398,
+      "num": 441073,
+      "word": "近60%高中生在县级中学",
+      "onboard_time": 1741145658,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 66523,
@@ -1169,6 +1225,14 @@
       "onboard_time": 1741127772,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 59784,
+      "num": 513285,
+      "word": "中国快递已成为亮丽的中国名片",
+      "onboard_time": 1741145720,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 57578,
@@ -1209,14 +1273,6 @@
       "onboard_time": 1741138097,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 37988,
-      "num": 351627,
-      "word": "教育部部长回应DeepSeek热",
-      "onboard_time": 1741145239,
-      "rank": 16,
-      "category": "互联网,教育"
     },
     {
       "raw_hot": 31833,
