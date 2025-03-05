@@ -1,6 +1,6 @@
 {
   "startTime": 1741105825822,
-  "endTime": 1741173616937,
+  "endTime": 1741174566629,
   "band_list": [
     {
       "raw_hot": 1895236,
@@ -123,6 +123,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1063417,
+      "num": 227779,
+      "word": "杨紫说怪不得这两天这么累",
+      "onboard_time": 1741172120,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1043342,
       "num": 1043342,
       "word": "82岁老人写在烟盒上的建议获采纳",
@@ -144,6 +152,14 @@
       "word": "曝王大陆涉嫌杀人未遂移送侦办",
       "onboard_time": 1741077081,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 905983,
+      "num": 228002,
+      "word": "北电复试男艺考生颜值",
+      "onboard_time": 1741171338,
+      "rank": 47,
       "category": "艺人"
     },
     {
@@ -185,14 +201,6 @@
       "onboard_time": 1741137378,
       "rank": 1,
       "category": "国内时政,互联网"
-    },
-    {
-      "raw_hot": 827646,
-      "num": 228002,
-      "word": "北电复试男艺考生颜值",
-      "onboard_time": 1741171338,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 761411,
@@ -283,14 +291,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 658707,
-      "num": 227779,
-      "word": "杨紫说怪不得这两天这么累",
-      "onboard_time": 1741172120,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 658048,
       "num": 371706,
       "word": "日本男子打死外甥女藏入水泥10年",
@@ -353,6 +353,14 @@
       "onboard_time": 1741130356,
       "rank": 28,
       "category": "民生新闻,电影"
+    },
+    {
+      "raw_hot": 583071,
+      "num": 227435,
+      "word": "静态焦虑",
+      "onboard_time": 1741169838,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 581259,
@@ -457,6 +465,14 @@
       "onboard_time": 1741163538,
       "rank": 14,
       "category": "国内时政,教育"
+    },
+    {
+      "raw_hot": 467936,
+      "num": 226744,
+      "word": "迪丽热巴的眼线是卡纸做的",
+      "onboard_time": 1741172358,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 463708,
@@ -731,14 +747,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 308129,
-      "num": 227435,
-      "word": "静态焦虑",
-      "onboard_time": 1741169838,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 307152,
       "num": 227104,
       "word": "吴磊气血充足的帅",
@@ -777,14 +785,6 @@
       "onboard_time": 1741072397,
       "rank": 9,
       "category": "国内时政,互联网"
-    },
-    {
-      "raw_hot": 296452,
-      "num": 226744,
-      "word": "迪丽热巴的眼线是卡纸做的",
-      "onboard_time": 1741172358,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 294676,
@@ -1411,6 +1411,14 @@
       "category": "国内时政,教育"
     },
     {
+      "raw_hot": 170784,
+      "num": 170784,
+      "word": "CLOSEYOUREYES官宣出道",
+      "onboard_time": 1741173379,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169105,
       "num": 176222,
       "word": "樊振东芭莎男士采访",
@@ -1451,6 +1459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 162532,
+      "num": 157741,
+      "word": "利剑玫瑰要抬了",
+      "onboard_time": 1741173138,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161808,
       "num": 161808,
       "word": "用Deepseek做韩国色彩测试",
@@ -1489,14 +1505,6 @@
       "onboard_time": 1741166359,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 157741,
-      "num": 157741,
-      "word": "利剑玫瑰要抬了",
-      "onboard_time": 1741173138,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 157540,
@@ -1595,6 +1603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144054,
+      "num": 228381,
+      "word": "特朗普说泽连斯基已准备重返谈判桌",
+      "onboard_time": 1741172839,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 143603,
       "num": 143603,
       "word": "隔代亲才是第一生产力",
@@ -1625,6 +1641,22 @@
       "onboard_time": 1741154298,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 140196,
+      "num": 150323,
+      "word": "建议适当放开卵巢组织及卵子冻存",
+      "onboard_time": 1741172717,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 139974,
+      "num": 148796,
+      "word": "祁煜元宇宙世界",
+      "onboard_time": 1741173438,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 139842,
@@ -1665,6 +1697,14 @@
       "onboard_time": 1741170797,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 138873,
+      "num": 138873,
+      "word": "哪吒2的十五个番外",
+      "onboard_time": 1741173797,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 138275,
@@ -1811,11 +1851,27 @@
       "category": "国内时政,互联网"
     },
     {
+      "raw_hot": 124471,
+      "num": 124471,
+      "word": "杨幂节气博主营业",
+      "onboard_time": 1741174098,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124255,
       "num": 189087,
       "word": "上村谦信退团",
       "onboard_time": 1741098022,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 123262,
+      "num": 123262,
+      "word": "陈冠希为女儿庆祝8岁生日",
+      "onboard_time": 1741173078,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -1859,14 +1915,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 116562,
-      "num": 148796,
-      "word": "祁煜元宇宙世界",
-      "onboard_time": 1741173438,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 116011,
       "num": 116011,
       "word": "石头参加北电艺考",
@@ -1889,6 +1937,14 @@
       "onboard_time": 1741081223,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114445,
+      "num": 114445,
+      "word": "这7类人容易提前长白发",
+      "onboard_time": 1741173919,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 114231,
@@ -1920,14 +1976,6 @@
       "word": "MC梦说SM登门道歉",
       "onboard_time": 1741153279,
       "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 112103,
-      "num": 107927,
-      "word": "陈冠希为女儿庆祝8岁生日",
-      "onboard_time": 1741173078,
-      "rank": 43,
       "category": "艺人"
     },
     {
@@ -2008,6 +2056,14 @@
       "word": "徐若晗爱你春日穿搭",
       "onboard_time": 1741151719,
       "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 105948,
+      "num": 105948,
+      "word": "滤镜闯入短剧赛道",
+      "onboard_time": 1741174038,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -2131,14 +2187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 94624,
-      "num": 150323,
-      "word": "建议适当放开卵巢组织及卵子冻存",
-      "onboard_time": 1741172717,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 94089,
       "num": 94089,
       "word": "血观音 神作",
@@ -2161,14 +2209,6 @@
       "onboard_time": 1741098262,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 91252,
-      "num": 91252,
-      "word": "CLOSEYOUREYES官宣出道",
-      "onboard_time": 1741173379,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 90857,
@@ -2299,14 +2339,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 72651,
-      "num": 228381,
-      "word": "特朗普说泽连斯基已准备重返谈判桌",
-      "onboard_time": 1741172839,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 72435,
       "num": 276121,
       "word": "致敬了不起的你们",
@@ -2395,6 +2427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 64169,
+      "num": 137660,
+      "word": "电饭锅焖的番茄土豆牛肉",
+      "onboard_time": 1741173558,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 61155,
       "num": 236411,
       "word": "省考最后10天还能做什么",
@@ -2441,6 +2481,14 @@
       "onboard_time": 1741147521,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 58416,
+      "num": 147502,
+      "word": "张艺兴惊蛰空降",
+      "onboard_time": 1741174098,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 58024,
@@ -2665,14 +2713,6 @@
       "onboard_time": 1741130416,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 17542,
-      "num": 137660,
-      "word": "电饭锅焖的番茄土豆牛肉",
-      "onboard_time": 1741173558,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 17136,
