@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741184568811,
+  "endTime": 1741185686587,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -187,8 +187,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1931957,
-      "num": 1931957,
+      "raw_hot": 1983998,
+      "num": 1983998,
       "word": "靳东两会建议AI换脸立法",
       "onboard_time": 1741182619,
       "rank": 0,
@@ -2683,6 +2683,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 478315,
+      "num": 321361,
+      "word": "白鹿说作为演员不会干涉妆造",
+      "onboard_time": 1741183279,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 475894,
       "num": 306220,
       "word": "Angelababy精彩OK双封",
@@ -3395,6 +3403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 377771,
+      "num": 213686,
+      "word": "张凌赫把我迷成智障了",
+      "onboard_time": 1741184421,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 377068,
       "num": 303799,
       "word": "王安宇上海",
@@ -3531,6 +3547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 360463,
+      "num": 207855,
+      "word": "周杰伦给权志龙新歌打call",
+      "onboard_time": 1741182619,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 359681,
       "num": 359681,
       "word": "我要退订这个2025",
@@ -3633,14 +3657,6 @@
       "onboard_time": 1740905119,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 353308,
-      "num": 179196,
-      "word": "周杰伦给权志龙新歌打call",
-      "onboard_time": 1741182619,
-      "rank": 12,
-      "category": "音乐"
     },
     {
       "raw_hot": 352928,
@@ -4915,14 +4931,6 @@
       "category": "国内时政,教育"
     },
     {
-      "raw_hot": 265449,
-      "num": 173726,
-      "word": "白鹿说作为演员不会干涉妆造",
-      "onboard_time": 1741183279,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 265239,
       "num": 230063,
       "word": "恋与深空 秦彻",
@@ -5001,6 +5009,14 @@
       "onboard_time": 1740907099,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 261784,
+      "num": 177138,
+      "word": "滤镜 海底捞扯面",
+      "onboard_time": 1741183459,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 261628,
@@ -5499,6 +5515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 233448,
+      "num": 174750,
+      "word": "李现瞿友宁或将二搭",
+      "onboard_time": 1741184480,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233160,
       "num": 315641,
       "word": "欧豪多上上网吧",
@@ -5577,6 +5601,14 @@
       "onboard_time": 1741151659,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 228904,
+      "num": 228904,
+      "word": "福宝脱敏训练",
+      "onboard_time": 1741183159,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 228546,
@@ -6275,6 +6307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207418,
+      "num": 207418,
+      "word": "人大代表称教师对提升学历缺乏动力",
+      "onboard_time": 1741184659,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 207298,
       "num": 154391,
       "word": "柯洁 SU7Ultra",
@@ -6593,14 +6633,6 @@
       "onboard_time": 1740785175,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 201132,
-      "num": 170317,
-      "word": "滤镜 海底捞扯面",
-      "onboard_time": 1741183459,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 200853,
@@ -7235,6 +7267,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 186888,
+      "num": 186888,
+      "word": "靳东回应AI真假靳东",
+      "onboard_time": 1741183399,
+      "rank": 18,
+      "category": "国内时政,艺人"
+    },
+    {
       "raw_hot": 186873,
       "num": 186873,
       "word": "光遇炸服",
@@ -7296,14 +7336,6 @@
       "word": "吉克隽逸悼念方大同",
       "onboard_time": 1740849735,
       "rank": 9,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 185643,
-      "num": 169250,
-      "word": "李现瞿友宁或将二搭",
-      "onboard_time": 1741184480,
-      "rank": 30,
       "category": "艺人"
     },
     {
@@ -7827,14 +7859,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 174384,
-      "num": 174384,
-      "word": "福宝脱敏训练",
-      "onboard_time": 1741183159,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 174320,
       "num": 174320,
       "word": "一年一度多退少补来了",
@@ -7937,6 +7961,14 @@
       "onboard_time": 1740925221,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172335,
+      "num": 172335,
+      "word": "何凯文 周思成",
+      "onboard_time": 1741185319,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 172220,
@@ -8755,14 +8787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 156213,
-      "num": 173391,
-      "word": "靳东回应AI真假靳东",
-      "onboard_time": 1741183399,
-      "rank": 18,
-      "category": "国内时政,艺人"
-    },
-    {
       "raw_hot": 156205,
       "num": 156205,
       "word": "有一种生机勃勃叫惊蛰",
@@ -9539,6 +9563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 143392,
+      "num": 143392,
+      "word": "山西男篮战胜广厦男篮",
+      "onboard_time": 1741185500,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143038,
       "num": 143038,
       "word": "刘浩存主角开机路透图",
@@ -10209,6 +10241,14 @@
       "onboard_time": 1741000158,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 133396,
+      "num": 133396,
+      "word": "辛芷蕾微博真的是本人发的吗",
+      "onboard_time": 1741185439,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 133386,
@@ -10923,6 +10963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121491,
+      "num": 121491,
+      "word": "一个人改造爸妈住了30年的卧室",
+      "onboard_time": 1741185560,
+      "rank": 43,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 121481,
       "num": 159034,
       "word": "罗大美案三嫌疑人互相道歉",
@@ -11041,6 +11089,14 @@
       "onboard_time": 1741082782,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 118728,
+      "num": 118728,
+      "word": "广东男篮战胜辽宁男篮",
+      "onboard_time": 1741185560,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 118673,
@@ -11739,14 +11795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 105704,
-      "num": 105704,
-      "word": "张凌赫把我迷成智障了",
-      "onboard_time": 1741184421,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 105598,
       "num": 105598,
       "word": "还有我没见过的王一博",
@@ -12273,6 +12321,14 @@
       "onboard_time": 1741011200,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 95997,
+      "num": 228710,
+      "word": "人大代表建议免费提供高考志愿指导",
+      "onboard_time": 1741184720,
+      "rank": 9,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 95992,
@@ -13715,6 +13771,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 57353,
+      "num": 190146,
+      "word": "李昀锐看秀采访",
+      "onboard_time": 1741184779,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 57257,
       "num": 168488,
       "word": "宋茜第32位雷锋精神传播者",
@@ -13801,6 +13865,14 @@
       "onboard_time": 1741019237,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 54605,
+      "num": 177722,
+      "word": "建议将心肺复苏操作纳入中考体测",
+      "onboard_time": 1741183819,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 54590,
@@ -13977,6 +14049,14 @@
       "onboard_time": 1741159398,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 48822,
+      "num": 179605,
+      "word": "孙颖莎听声辩位蒙眼抓球",
+      "onboard_time": 1741184539,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 48810,
@@ -14579,14 +14659,6 @@
       "category": "国内时政,互联网"
     },
     {
-      "raw_hot": 33469,
-      "num": 132301,
-      "word": "孙颖莎听声辩位蒙眼抓球",
-      "onboard_time": 1741184539,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 33455,
       "num": 237155,
       "word": "微观2025全国两会",
@@ -14776,14 +14848,6 @@
       "word": "建议增强租客和房东法律意识",
       "onboard_time": 1741114271,
       "rank": 24,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 28079,
-      "num": 172766,
-      "word": "建议将心肺复苏操作纳入中考体测",
-      "onboard_time": 1741183819,
-      "rank": 19,
       "category": "国内时政"
     },
     {
