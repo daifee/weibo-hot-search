@@ -1,6 +1,6 @@
 {
   "startTime": 1741192562065,
-  "endTime": 1741192562065,
+  "endTime": 1741193420344,
   "band_list": [
     {
       "raw_hot": 1052270,
@@ -35,6 +35,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 410243,
+      "num": 410243,
+      "word": "MacBook Air",
+      "onboard_time": 1741188857,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
       "raw_hot": 372728,
       "num": 372728,
       "word": "为何越来越多小众服饰品牌变便宜了",
@@ -51,14 +59,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 363238,
-      "num": 363238,
-      "word": "MacBook Air",
-      "onboard_time": 1741188857,
-      "rank": 4,
-      "category": "数码"
-    },
-    {
       "raw_hot": 323384,
       "num": 323384,
       "word": "靳东两会建议AI换脸立法",
@@ -73,6 +73,14 @@
       "onboard_time": 1741180458,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 262431,
+      "num": 113424,
+      "word": "街道通报男子虐猫事件",
+      "onboard_time": 1741191735,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 254813,
@@ -115,14 +123,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 190159,
-      "num": 112277,
-      "word": "街道通报男子虐猫事件",
-      "onboard_time": 1741191735,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 188022,
       "num": 230104,
       "word": "白鹿说作为演员不会干涉妆造",
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 186492,
-      "num": 186492,
+      "num": 198542,
       "word": "台湾地震",
       "onboard_time": 1741189039,
       "rank": 15,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 145466,
-      "num": 105355,
+      "num": 109854,
       "word": "杭州姑娘退税4190元惊呼巨款",
       "onboard_time": 1741176978,
       "rank": 23,
@@ -177,6 +177,22 @@
       "onboard_time": 1741172120,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121712,
+      "num": 121712,
+      "word": "金昇玟出席尚美巴黎活动",
+      "onboard_time": 1741192635,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 120584,
+      "num": 120584,
+      "word": "刘雨昕金智秀邝玲玲Orm同框",
+      "onboard_time": 1741192815,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 104364,
@@ -259,12 +275,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 84675,
-      "num": 84675,
+      "raw_hot": 85846,
+      "num": 85846,
       "word": "医生建议染发烫发一年不要超过两次",
       "onboard_time": 1741191017,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 75504,
+      "num": 75504,
+      "word": "迪丽热巴心里的路怎么走呀",
+      "onboard_time": 1741192815,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 73342,
@@ -363,6 +387,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 52291,
+      "num": 194865,
+      "word": "哪吒2中的结界兽硬核开麦了",
+      "onboard_time": 1741192515,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 46487,
       "num": 46487,
       "word": "哪吒票房",
@@ -379,14 +411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 44353,
-      "num": 44353,
-      "word": "哪吒2中的结界兽硬核开麦了",
-      "onboard_time": 1741192515,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 43847,
       "num": 43847,
       "word": "李现瞿友宁或将二搭",
@@ -396,7 +420,7 @@
     },
     {
       "raw_hot": 20916,
-      "num": 378397,
+      "num": 407195,
       "word": "政府工作报告里的加与减",
       "onboard_time": 1741182558,
       "rank": 2,

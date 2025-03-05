@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741192562065,
+  "endTime": 1741193420344,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -3227,6 +3227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 410243,
+      "num": 410243,
+      "word": "MacBook Air",
+      "onboard_time": 1741188857,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 410230,
       "num": 277154,
       "word": "爱你 上头",
@@ -3577,14 +3585,6 @@
       "onboard_time": 1740801199,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 363238,
-      "num": 363238,
-      "word": "MacBook Air",
-      "onboard_time": 1741188857,
-      "rank": 28,
-      "category": "数码"
     },
     {
       "raw_hot": 362389,
@@ -5065,6 +5065,14 @@
       "onboard_time": 1741147521,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 262431,
+      "num": 113424,
+      "word": "街道通报男子虐猫事件",
+      "onboard_time": 1741191735,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 262137,
@@ -7139,14 +7147,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 190159,
-      "num": 112277,
-      "word": "街道通报男子虐猫事件",
-      "onboard_time": 1741191735,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 190115,
       "num": 205874,
       "word": "姚安娜新剧在急诊室好忙",
@@ -7412,7 +7412,7 @@
     },
     {
       "raw_hot": 186492,
-      "num": 186492,
+      "num": 198542,
       "word": "台湾地震",
       "onboard_time": 1741189039,
       "rank": 15,
@@ -11067,6 +11067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121712,
+      "num": 121712,
+      "word": "金昇玟出席尚美巴黎活动",
+      "onboard_time": 1741192635,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 121660,
       "num": 121660,
       "word": "杨紫问杨迪她跳舞怎么样",
@@ -11137,6 +11145,14 @@
       "onboard_time": 1740997878,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120584,
+      "num": 120584,
+      "word": "刘雨昕金智秀邝玲玲Orm同框",
+      "onboard_time": 1741192815,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 120087,
@@ -12907,6 +12923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85846,
+      "num": 85846,
+      "word": "医生建议染发烫发一年不要超过两次",
+      "onboard_time": 1741191017,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 85724,
       "num": 173440,
       "word": "中国成功研制祖冲之三号量子计算原型机",
@@ -12969,14 +12993,6 @@
       "onboard_time": 1740924501,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 84675,
-      "num": 84675,
-      "word": "医生建议染发烫发一年不要超过两次",
-      "onboard_time": 1741191017,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 84333,
@@ -13241,6 +13257,14 @@
       "onboard_time": 1741162338,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 75504,
+      "num": 75504,
+      "word": "迪丽热巴心里的路怎么走呀",
+      "onboard_time": 1741192815,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 75330,
@@ -14115,6 +14139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 52291,
+      "num": 194865,
+      "word": "哪吒2中的结界兽硬核开麦了",
+      "onboard_time": 1741192515,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 52247,
       "num": 192104,
       "word": "多地茅台冰淇淋门店被曝关店",
@@ -14457,14 +14489,6 @@
       "onboard_time": 1741138097,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 44353,
-      "num": 44353,
-      "word": "哪吒2中的结界兽硬核开麦了",
-      "onboard_time": 1741192515,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 44327,
