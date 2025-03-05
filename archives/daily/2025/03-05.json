@@ -1,6 +1,6 @@
 {
   "startTime": 1741105825822,
-  "endTime": 1741152214080,
+  "endTime": 1741153229422,
   "band_list": [
     {
       "raw_hot": 1895236,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1323645,
-      "num": 384338,
+      "num": 449857,
       "word": "方大同录音",
       "onboard_time": 1741149261,
       "rank": 13,
@@ -139,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 726376,
+      "num": 597631,
+      "word": "难哄 瞿友宁",
+      "onboard_time": 1741151239,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 716450,
       "num": 542927,
       "word": "迪奥认领迪丽热巴刘雨昕",
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 658048,
-      "num": 359390,
+      "num": 371706,
       "word": "日本男子打死外甥女藏入水泥10年",
       "onboard_time": 1741145060,
       "rank": 21,
@@ -195,6 +203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 629612,
+      "num": 425666,
+      "word": "王大陆笑着离开地检署",
+      "onboard_time": 1741152139,
+      "rank": 48,
+      "category": "艺人,电影"
+    },
+    {
       "raw_hot": 621489,
       "num": 364147,
       "word": "女孩出生确诊蝴蝶宝贝皮肤一碰就碎",
@@ -211,6 +227,14 @@
       "category": "民生新闻,电影"
     },
     {
+      "raw_hot": 581259,
+      "num": 581259,
+      "word": "温以凡再次离开桑延",
+      "onboard_time": 1741152199,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 561025,
       "num": 561025,
       "word": "温以凡扛桑延",
@@ -220,7 +244,7 @@
     },
     {
       "raw_hot": 551516,
-      "num": 339185,
+      "num": 413398,
       "word": "张继科回应挑战王曼昱",
       "onboard_time": 1741150221,
       "rank": 14,
@@ -249,14 +273,6 @@
       "onboard_time": 1741134260,
       "rank": 15,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 468312,
-      "num": 468312,
-      "word": "难哄 瞿友宁",
-      "onboard_time": 1741151239,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 463708,
@@ -308,7 +324,7 @@
     },
     {
       "raw_hot": 425667,
-      "num": 425667,
+      "num": 457043,
       "word": "幸福就是给员工涨工资",
       "onboard_time": 1741149261,
       "rank": 36,
@@ -393,6 +409,14 @@
       "onboard_time": 1741133901,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 345970,
+      "num": 345970,
+      "word": "难哄 魔改",
+      "onboard_time": 1741152499,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 340917,
@@ -563,6 +587,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 262683,
+      "num": 262683,
+      "word": "李嘉诚拟228亿美元卖掉43个港口",
+      "onboard_time": 1741147521,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 260280,
       "num": 260280,
       "word": "惊蛰",
@@ -627,6 +659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 237059,
+      "num": 237059,
+      "word": "北上母女关系",
+      "onboard_time": 1741151961,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 235358,
       "num": 235358,
       "word": "3月5日16时7分惊蛰",
@@ -651,6 +691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234323,
+      "num": 234323,
+      "word": "小孩哥喊话雷军出一款全家出行的车",
+      "onboard_time": 1741151899,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 229555,
       "num": 229555,
       "word": "赵露思恋人复拍",
@@ -659,12 +707,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 229259,
-      "num": 229259,
-      "word": "李嘉诚拟228亿美元卖掉43个港口",
-      "onboard_time": 1741147521,
-      "rank": 33,
-      "category": "财经"
+      "raw_hot": 228976,
+      "num": 236666,
+      "word": "生我养我的人在养我生的人",
+      "onboard_time": 1741151659,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 225357,
@@ -697,6 +745,14 @@
       "onboard_time": 1741132157,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 216209,
+      "num": 216209,
+      "word": "孙颖莎短跑成绩接近男选手",
+      "onboard_time": 1741151899,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 215362,
@@ -779,14 +835,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 200069,
-      "num": 200069,
-      "word": "小孩哥喊话雷军出一款全家出行的车",
-      "onboard_time": 1741151899,
-      "rank": 33,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 199541,
       "num": 190088,
       "word": "宋亚轩回复",
@@ -809,6 +857,14 @@
       "onboard_time": 1741145960,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196261,
+      "num": 247232,
+      "word": "哪吒敖丙三界往事海报",
+      "onboard_time": 1741151480,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 195762,
@@ -841,14 +897,6 @@
       "onboard_time": 1741149442,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 189642,
-      "num": 189642,
-      "word": "孙颖莎短跑成绩接近男选手",
-      "onboard_time": 1741151899,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 189535,
@@ -897,14 +945,6 @@
       "onboard_time": 1741136300,
       "rank": 45,
       "category": "国内时政,互联网"
-    },
-    {
-      "raw_hot": 183066,
-      "num": 247232,
-      "word": "哪吒敖丙三界往事海报",
-      "onboard_time": 1741151480,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 182111,
@@ -979,6 +1019,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 159319,
+      "num": 159319,
+      "word": "杜兰特与太阳主帅发生争执",
+      "onboard_time": 1741152319,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157540,
       "num": 369169,
       "word": "金智秀卢浮宫慈善晚宴",
@@ -993,14 +1041,6 @@
       "onboard_time": 1741137437,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 155193,
-      "num": 155193,
-      "word": "生我养我的人在养我生的人",
-      "onboard_time": 1741151659,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 153251,
@@ -1035,6 +1075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148773,
+      "num": 158881,
+      "word": "春天是养肝的最佳季节",
+      "onboard_time": 1741150582,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 147756,
       "num": 147756,
       "word": "昨夜金价大涨",
@@ -1057,6 +1105,14 @@
       "onboard_time": 1741151360,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 141273,
+      "num": 141273,
+      "word": "郑钦文获终身保障",
+      "onboard_time": 1741153159,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 140542,
@@ -1091,14 +1147,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 138498,
-      "num": 158881,
-      "word": "春天是养肝的最佳季节",
-      "onboard_time": 1741150582,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 136439,
       "num": 136439,
       "word": "花旗银行误将81万亿美元转给个人",
@@ -1115,12 +1163,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 134963,
-      "num": 134963,
-      "word": "北上母女关系",
-      "onboard_time": 1741151961,
-      "rank": 45,
-      "category": "剧集"
+      "raw_hot": 134774,
+      "num": 372255,
+      "word": "李昀锐难忘的看秀之旅",
+      "onboard_time": 1741152259,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 133386,
@@ -1145,14 +1193,6 @@
       "onboard_time": 1741130416,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 127964,
-      "num": 127964,
-      "word": "王大陆笑着离开地检署",
-      "onboard_time": 1741152139,
-      "rank": 48,
-      "category": "艺人,电影"
     },
     {
       "raw_hot": 127603,
@@ -1291,6 +1331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106998,
+      "num": 299211,
+      "word": "徐若晗爱你春日穿搭",
+      "onboard_time": 1741151719,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104646,
       "num": 342912,
       "word": "要推动房地产市场止跌回稳",
@@ -1313,14 +1361,6 @@
       "onboard_time": 1741146019,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 97797,
-      "num": 299211,
-      "word": "徐若晗爱你春日穿搭",
-      "onboard_time": 1741151719,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 95306,
@@ -1476,7 +1516,7 @@
     },
     {
       "raw_hot": 68214,
-      "num": 299516,
+      "num": 513053,
       "word": "2025活力中国",
       "onboard_time": 1741147100,
       "rank": 17,
@@ -1513,6 +1553,14 @@
       "onboard_time": 1741127772,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 61155,
+      "num": 236411,
+      "word": "省考最后10天还能做什么",
+      "onboard_time": 1741152679,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 60834,
@@ -1611,11 +1659,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 30893,
+      "num": 484299,
+      "word": "中国经济跑出春日加速度",
+      "onboard_time": 1741148840,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28187,
       "num": 28187,
       "word": "建议增强租客和房东法律意识",
       "onboard_time": 1741114271,
       "rank": 24,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 27207,
+      "num": 606348,
+      "word": "2025中国发展主要预期目标",
+      "onboard_time": 1741144220,
+      "rank": 2,
       "category": "国内时政"
     },
     {
@@ -1635,20 +1699,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 22477,
-      "num": 484299,
-      "word": "中国经济跑出春日加速度",
-      "onboard_time": 1741148840,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 20903,
       "num": 37089,
       "word": "赵冬苓称DeepSeek写剧本很套路化",
       "onboard_time": 1741122850,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 17780,
+      "num": 236492,
+      "word": "独行侠把运气也交易走了",
+      "onboard_time": 1741151000,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 17560,
