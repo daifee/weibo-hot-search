@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741182115749,
+  "endTime": 1741184568811,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -187,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1931957,
+      "num": 1931957,
+      "word": "靳东两会建议AI换脸立法",
+      "onboard_time": 1741182619,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1914945,
       "num": 1761268,
       "word": "何老师的含金量永远都在上升",
@@ -299,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1626401,
+      "num": 1626401,
+      "word": "北上 小巷人家",
+      "onboard_time": 1741181599,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1605603,
       "num": 1605603,
       "word": "妈妈包书皮错写成自己名字",
@@ -369,6 +385,14 @@
       "onboard_time": 1741001419,
       "rank": 14,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 1499149,
+      "num": 201306,
+      "word": "美滞留太空宇航员婉拒马斯克",
+      "onboard_time": 1741180458,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1493367,
@@ -683,20 +707,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1145835,
+      "num": 331496,
+      "word": "吴尊听到Neinei和Max谈恋爱的反应",
+      "onboard_time": 1741170438,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1130312,
       "num": 1130312,
       "word": "近60%高中生在县级中学",
       "onboard_time": 1741145658,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1129852,
-      "num": 331496,
-      "word": "吴尊听到Neinei和Max谈恋爱的反应",
-      "onboard_time": 1741170438,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 1121767,
@@ -1809,14 +1833,6 @@
       "onboard_time": 1741170559,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 628219,
-      "num": 201306,
-      "word": "美滞留太空宇航员婉拒马斯克",
-      "onboard_time": 1741180458,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 627728,
@@ -3619,12 +3635,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 353952,
-      "num": 353952,
-      "word": "北上 小巷人家",
-      "onboard_time": 1741181599,
-      "rank": 8,
-      "category": "剧集"
+      "raw_hot": 353308,
+      "num": 179196,
+      "word": "周杰伦给权志龙新歌打call",
+      "onboard_time": 1741182619,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 352928,
@@ -4897,6 +4913,14 @@
       "onboard_time": 1741145299,
       "rank": 25,
       "category": "国内时政,教育"
+    },
+    {
+      "raw_hot": 265449,
+      "num": 173726,
+      "word": "白鹿说作为演员不会干涉妆造",
+      "onboard_time": 1741183279,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 265239,
@@ -6571,6 +6595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 201132,
+      "num": 170317,
+      "word": "滤镜 海底捞扯面",
+      "onboard_time": 1741183459,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200853,
       "num": 200853,
       "word": "白鹿版你打我噻",
@@ -7267,6 +7299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185643,
+      "num": 169250,
+      "word": "李现瞿友宁或将二搭",
+      "onboard_time": 1741184480,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185592,
       "num": 185592,
       "word": "三人游",
@@ -7785,6 +7825,14 @@
       "onboard_time": 1740815844,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 174384,
+      "num": 174384,
+      "word": "福宝脱敏训练",
+      "onboard_time": 1741183159,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 174320,
@@ -8707,6 +8755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156213,
+      "num": 173391,
+      "word": "靳东回应AI真假靳东",
+      "onboard_time": 1741183399,
+      "rank": 18,
+      "category": "国内时政,艺人"
+    },
+    {
       "raw_hot": 156205,
       "num": 156205,
       "word": "有一种生机勃勃叫惊蛰",
@@ -8889,6 +8945,14 @@
       "onboard_time": 1741075819,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153668,
+      "num": 153668,
+      "word": "广东男篮vs辽宁男篮",
+      "onboard_time": 1741182859,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 153614,
@@ -10283,6 +10347,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 129746,
+      "num": 129746,
+      "word": "沈惜凡前男友",
+      "onboard_time": 1741183699,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129728,
       "num": 129728,
       "word": "毕业后档案放在哪",
@@ -10891,6 +10963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120087,
+      "num": 171352,
+      "word": "中国影史首部观影人次超3亿电影",
+      "onboard_time": 1741184119,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 120001,
       "num": 1068479,
       "word": "外国人上太空要先学中文了",
@@ -10921,6 +11001,14 @@
       "onboard_time": 1740865391,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119334,
+      "num": 119334,
+      "word": "红绿灯的黄已无三只羊标识",
+      "onboard_time": 1741182619,
+      "rank": 43,
+      "category": "网红"
     },
     {
       "raw_hot": 119244,
@@ -11145,6 +11233,22 @@
       "onboard_time": 1740789498,
       "rank": 37,
       "category": "互联网,音乐"
+    },
+    {
+      "raw_hot": 115075,
+      "num": 115075,
+      "word": "第101次辽粤大战",
+      "onboard_time": 1741182919,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114635,
+      "num": 114635,
+      "word": "爱你爱奇艺热度破8500",
+      "onboard_time": 1741183581,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 114500,
@@ -11571,6 +11675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106414,
+      "num": 106414,
+      "word": "菲律宾贫民窟特色食物二手炸鸡",
+      "onboard_time": 1741182319,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 106267,
       "num": 106267,
       "word": "毛不易深圳演唱会",
@@ -11625,6 +11737,14 @@
       "onboard_time": 1741174038,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105704,
+      "num": 105704,
+      "word": "张凌赫把我迷成智障了",
+      "onboard_time": 1741184421,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 105598,
@@ -13795,6 +13915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 50780,
+      "num": 922900,
+      "word": "政府工作报告里的加与减",
+      "onboard_time": 1741182558,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 50112,
       "num": 50112,
       "word": "你认为哪吒2票房能超150亿吗",
@@ -14451,11 +14579,27 @@
       "category": "国内时政,互联网"
     },
     {
+      "raw_hot": 33469,
+      "num": 132301,
+      "word": "孙颖莎听声辩位蒙眼抓球",
+      "onboard_time": 1741184539,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 33455,
       "num": 237155,
       "word": "微观2025全国两会",
       "onboard_time": 1741069157,
       "rank": 29,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 33335,
+      "num": 151090,
+      "word": "两个字回顾2024成绩单",
+      "onboard_time": 1741182558,
+      "rank": 35,
       "category": "国内时政"
     },
     {
@@ -14632,6 +14776,14 @@
       "word": "建议增强租客和房东法律意识",
       "onboard_time": 1741114271,
       "rank": 24,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 28079,
+      "num": 172766,
+      "word": "建议将心肺复苏操作纳入中考体测",
+      "onboard_time": 1741183819,
+      "rank": 19,
       "category": "国内时政"
     },
     {
@@ -15017,6 +15169,14 @@
       "onboard_time": 1741122850,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 20631,
+      "num": 134863,
+      "word": "西葫芦糊塌子",
+      "onboard_time": 1741183940,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 20567,
@@ -15628,6 +15788,9 @@
     },
     {
       "word": "#习近平总书记的两会之喻#"
+    },
+    {
+      "word": "#总书记的两会时间#"
     }
   ]
 }
