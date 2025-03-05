@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/03/06 00:36:02 ~ 2025/03/06 02:33:13
+本榜单时间：2025/03/06 00:36:02 ~ 2025/03/06 02:46:12
 </p>
 </blockquote>
 <p>
@@ -291,6 +291,12 @@ Angelababy腰身比（热度：59103）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%B8%BA%E4%BD%8E%E6%94%B6%E5%85%A5%E7%BE%A4%E4%BD%93%E5%85%8D%E8%B4%B9%E5%9F%B9%E8%AE%ADAI%E6%8A%80%E8%83%BD%23" target="weibo">
+建议为低收入群体免费培训AI技能（热度：54377）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%BD%B1%E5%8F%B2%E9%A6%96%E9%83%A8%E8%A7%82%E5%BD%B1%E4%BA%BA%E6%AC%A1%E8%B6%853%E4%BA%BF%E7%94%B5%E5%BD%B1%23" target="weibo">
 中国影史首部观影人次超3亿电影（热度：54315）
 </a>
@@ -323,12 +329,6 @@ Angelababy腰身比（热度：59103）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E7%9E%BF%E5%8F%8B%E5%AE%81%E6%88%96%E5%B0%86%E4%BA%8C%E6%90%AD%23" target="weibo">
 李现瞿友宁或将二搭（热度：43847）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%B8%BA%E4%BD%8E%E6%94%B6%E5%85%A5%E7%BE%A4%E4%BD%93%E5%85%8D%E8%B4%B9%E5%9F%B9%E8%AE%ADAI%E6%8A%80%E8%83%BD%23" target="weibo">
-建议为低收入群体免费培训AI技能（热度：35673）
 </a>
 </li>
 
@@ -389,6 +389,12 @@ Angelababy腰身比（热度：59103）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E4%B8%A4%E4%BC%9A%E7%9C%8B%E5%B9%BF%E4%B8%9C%23" target="weibo">
 全国两会看广东（热度：14813）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E8%AF%B4AI%E5%8F%AF%E8%83%BD%E6%AF%94%E4%BD%A0%E6%9B%B4%E6%87%82%E8%87%AA%E5%B7%B1%23" target="weibo">
+人大代表说AI可能比你更懂自己（热度：11743）
 </a>
 </li>
 

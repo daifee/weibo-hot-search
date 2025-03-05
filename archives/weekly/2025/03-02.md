@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/03/02 00:26:07 ~ 2025/03/06 02:33:13
+本榜单时间：2025/03/02 00:26:07 ~ 2025/03/06 02:46:12
 </p>
 </blockquote>
 <p>
@@ -8499,6 +8499,12 @@ T1登顶LOL全球实力排行榜（热度：55359）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%B8%BA%E4%BD%8E%E6%94%B6%E5%85%A5%E7%BE%A4%E4%BD%93%E5%85%8D%E8%B4%B9%E5%9F%B9%E8%AE%ADAI%E6%8A%80%E8%83%BD%23" target="weibo">
+建议为低收入群体免费培训AI技能（热度：54377）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2374%E5%85%8B%E4%BC%81%E9%B9%85%E5%90%83%E5%90%83%E7%9D%A1%E7%9D%A1%E5%88%B0%E5%BF%AB1000%E5%85%8B%23" target="weibo">
 74克企鹅吃吃睡睡到快1000克（热度：53790）
 </a>
@@ -8951,12 +8957,6 @@ T1登顶LOL全球实力排行榜（热度：55359）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%85%E5%AE%B6%E5%85%BB%E8%80%81%E7%9A%84%E7%94%9F%E6%B4%BB%E4%BB%80%E4%B9%88%E6%A0%B7%23" target="weibo">
 居家养老的生活什么样（热度：35863）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%B8%BA%E4%BD%8E%E6%94%B6%E5%85%A5%E7%BE%A4%E4%BD%93%E5%85%8D%E8%B4%B9%E5%9F%B9%E8%AE%ADAI%E6%8A%80%E8%83%BD%23" target="weibo">
-建议为低收入群体免费培训AI技能（热度：35673）
 </a>
 </li>
 
@@ -9605,6 +9605,12 @@ CBA全明星赛（热度：17294）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%91%98%E8%AF%B4%E4%B8%AD%E5%9B%BD%E6%96%87%E5%8C%96%E5%87%BA%E6%B5%B7%E9%9C%80%E8%A6%81%E6%9B%B4%E5%A4%9A%E5%93%AA%E5%90%92%23" target="weibo">
 委员说中国文化出海需要更多哪吒（热度：11944）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E8%AF%B4AI%E5%8F%AF%E8%83%BD%E6%AF%94%E4%BD%A0%E6%9B%B4%E6%87%82%E8%87%AA%E5%B7%B1%23" target="weibo">
+人大代表说AI可能比你更懂自己（热度：11743）
 </a>
 </li>
 

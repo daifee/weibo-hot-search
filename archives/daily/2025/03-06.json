@@ -1,6 +1,6 @@
 {
   "startTime": 1741192562065,
-  "endTime": 1741199593235,
+  "endTime": 1741200372948,
   "band_list": [
     {
       "raw_hot": 1052270,
@@ -371,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54377,
+      "num": 54377,
+      "word": "建议为低收入群体免费培训AI技能",
+      "onboard_time": 1741197551,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 54315,
       "num": 54315,
       "word": "中国影史首部观影人次超3亿电影",
@@ -417,14 +425,6 @@
       "onboard_time": 1741184480,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 35673,
-      "num": 35673,
-      "word": "建议为低收入群体免费培训AI技能",
-      "onboard_time": 1741197551,
-      "rank": 16,
-      "category": "国内时政"
     },
     {
       "raw_hot": 28784,
@@ -504,6 +504,14 @@
       "word": "全国两会看广东",
       "onboard_time": 1741196172,
       "rank": 30,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 11743,
+      "num": 40626,
+      "word": "人大代表说AI可能比你更懂自己",
+      "onboard_time": 1741199832,
+      "rank": 9,
       "category": "国内时政"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1741199593235,
+  "endTime": 1741200372948,
   "band_list": [
     {
       "raw_hot": 13760834,
@@ -11315,6 +11315,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 54377,
+      "num": 54377,
+      "word": "建议为低收入群体免费培训AI技能",
+      "onboard_time": 1741197551,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 53790,
       "num": 53790,
       "word": "74克企鹅吃吃睡睡到快1000克",
@@ -11921,14 +11929,6 @@
       "onboard_time": 1741007480,
       "rank": 19,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 35673,
-      "num": 35673,
-      "word": "建议为低收入群体免费培训AI技能",
-      "onboard_time": 1741197551,
-      "rank": 16,
-      "category": "国内时政"
     },
     {
       "raw_hot": 35267,
@@ -12793,6 +12793,14 @@
       "onboard_time": 1741113552,
       "rank": 14,
       "category": "国内时政,电影"
+    },
+    {
+      "raw_hot": 11743,
+      "num": 40626,
+      "word": "人大代表说AI可能比你更懂自己",
+      "onboard_time": 1741199832,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 11521,
