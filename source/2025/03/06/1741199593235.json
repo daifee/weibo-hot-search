@@ -1,0 +1,410 @@
+{
+  "runTime": 1741199593235,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 111100,
+        "num": 152220,
+        "word": "江苏要主动破除内卷式竞争",
+        "onboard_time": 1741189277,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 99504,
+        "num": 99504,
+        "word": "北上 小巷人家",
+        "onboard_time": 1741181599,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10555,
+        "num": 79069,
+        "word": "政府工作报告里的创新关键词",
+        "onboard_time": 1741182140,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 63415,
+        "num": 63415,
+        "word": "为何越来越多小众服饰品牌变便宜了",
+        "onboard_time": 1741188079,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61576,
+        "num": 61576,
+        "word": "靳东两会建议AI换脸立法",
+        "onboard_time": 1741182619,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 57764,
+        "num": 57764,
+        "word": "MacBook Air",
+        "onboard_time": 1741188857,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 49221,
+        "num": 49221,
+        "word": "哪吒2再次刷新纪录",
+        "onboard_time": 1741177939,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 46958,
+        "num": 46958,
+        "word": "白敬亭两次抬眼含泪",
+        "onboard_time": 1741189758,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45031,
+        "num": 45031,
+        "word": "白鹿说作为演员不会干涉妆造",
+        "onboard_time": 1741183279,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44108,
+        "num": 44108,
+        "word": "台湾地震",
+        "onboard_time": 1741189039,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 156497,
+        "num": 44068,
+        "word": "男子1个月染发4次十多天头发掉光",
+        "onboard_time": 1741189816,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151217,
+        "num": 42066,
+        "word": "辛芷蕾微博真的是本人发的吗",
+        "onboard_time": 1741185439,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82255,
+        "num": 39447,
+        "word": "吴尊听到Neinei和Max谈恋爱的反应",
+        "onboard_time": 1741170438,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68650,
+        "num": 38876,
+        "word": "刘雨昕金智秀邝玲玲Orm同框",
+        "onboard_time": 1741192815,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 44965,
+        "num": 36493,
+        "word": "张凌赫把我迷成智障了",
+        "onboard_time": 1741184421,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36088,
+        "num": 36088,
+        "word": "生命树 张哲华",
+        "onboard_time": 1741186099,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35673,
+        "num": 35673,
+        "word": "建议为低收入群体免费培训AI技能",
+        "onboard_time": 1741197551,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 33889,
+        "num": 33889,
+        "word": "杨紫说怪不得这两天这么累",
+        "onboard_time": 1741172120,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29259,
+        "num": 29259,
+        "word": "哪吒2中的结界兽硬核开麦了",
+        "onboard_time": 1741192515,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26884,
+        "num": 26884,
+        "word": "人大代表称教师对提升学历缺乏动力",
+        "onboard_time": 1741184659,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 234892,
+        "num": 26777,
+        "word": "美滞留太空宇航员婉拒马斯克",
+        "onboard_time": 1741180458,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107513,
+        "num": 26672,
+        "word": "街道通报男子虐猫事件",
+        "onboard_time": 1741191735,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53795,
+        "num": 26509,
+        "word": "喝咖啡与不喝咖啡身体的差距",
+        "onboard_time": 1741172179,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 49196,
+        "num": 26309,
+        "word": "医生建议染发烫发一年不要超过两次",
+        "onboard_time": 1741191017,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 26297,
+        "num": 26297,
+        "word": "北上",
+        "onboard_time": 1741177578,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37317,
+        "num": 26198,
+        "word": "杭州姑娘退税4190元惊呼巨款",
+        "onboard_time": 1741176978,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26583,
+        "num": 26144,
+        "word": "米津玄师羽生结弦合作",
+        "onboard_time": 1741180998,
+        "rank": 26,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 26085,
+        "num": 26085,
+        "word": "杨紫回应全国巡舞",
+        "onboard_time": 1741197252,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25449,
+        "num": 25449,
+        "word": "建议每车固定里程高速免费",
+        "onboard_time": 1741180219,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 25355,
+        "num": 25355,
+        "word": "两会",
+        "onboard_time": 1741185860,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 25300,
+        "num": 25300,
+        "word": "迪丽热巴的眼线是卡纸做的",
+        "onboard_time": 1741172358,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24861,
+        "num": 24861,
+        "word": "建议允许符合条件的职工办理自愿退休",
+        "onboard_time": 1741176679,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 24758,
+        "num": 24758,
+        "word": "北电复试男艺考生颜值",
+        "onboard_time": 1741171338,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24269,
+        "num": 24269,
+        "word": "邝玲玲关心安保被戳到眼睛",
+        "onboard_time": 1741187239,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 23385,
+        "num": 23385,
+        "word": "滤镜 海底捞扯面",
+        "onboard_time": 1741183459,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22586,
+        "num": 22586,
+        "word": "拧巴的人需要一个耐心的爱人",
+        "onboard_time": 1741187839,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22169,
+        "num": 22169,
+        "word": "多方回应租客被房东扣9200元押金",
+        "onboard_time": 1741185260,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22493,
+        "num": 21645,
+        "word": "爱你",
+        "onboard_time": 1741175299,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20497,
+        "num": 20497,
+        "word": "中国影史首部观影人次超3亿电影",
+        "onboard_time": 1741184119,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20474,
+        "num": 20474,
+        "word": "金昇玟出席尚美巴黎活动",
+        "onboard_time": 1741192635,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 20039,
+        "num": 20039,
+        "word": "周杰伦给权志龙新歌打call",
+        "onboard_time": 1741182619,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 19716,
+        "num": 19716,
+        "word": "生命树",
+        "onboard_time": 1741186160,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19663,
+        "num": 19663,
+        "word": "白鹿进组北上前很焦虑",
+        "onboard_time": 1741197073,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19161,
+        "num": 19161,
+        "word": "MacBookAir新增天蓝色",
+        "onboard_time": 1741188318,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 18883,
+        "num": 18883,
+        "word": "内娱剧宣cp双人视频",
+        "onboard_time": 1741187060,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18610,
+        "num": 18610,
+        "word": "爱你 细腻",
+        "onboard_time": 1741196351,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18487,
+        "num": 18487,
+        "word": "难哄男二女二 台湾偶像剧",
+        "onboard_time": 1741163658,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18163,
+        "num": 18163,
+        "word": "檀健次爆发戏",
+        "onboard_time": 1741187658,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17942,
+        "num": 17942,
+        "word": "Angelababy腰身比",
+        "onboard_time": 1741167859,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 17278,
+        "num": 17278,
+        "word": "靳东回应AI真假靳东",
+        "onboard_time": 1741183399,
+        "rank": 49,
+        "category": "国内时政,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平参加江苏代表团审议#"
+    }
+  }
+}
