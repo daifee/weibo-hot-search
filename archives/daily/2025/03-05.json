@@ -1,6 +1,6 @@
 {
   "startTime": 1741105825822,
-  "endTime": 1741159366554,
+  "endTime": 1741160222085,
   "band_list": [
     {
       "raw_hot": 1895236,
@@ -163,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 753192,
+      "num": 574529,
+      "word": "大二女学霸课余打3份工1年攒5万",
+      "onboard_time": 1741154179,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 726376,
       "num": 597631,
       "word": "难哄 瞿友宁",
@@ -259,14 +267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 574529,
-      "num": 574529,
-      "word": "大二女学霸课余打3份工1年攒5万",
-      "onboard_time": 1741154179,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 561025,
       "num": 561025,
       "word": "温以凡扛桑延",
@@ -321,6 +321,14 @@
       "onboard_time": 1741134260,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 475894,
+      "num": 263154,
+      "word": "Angelababy精彩OK双封",
+      "onboard_time": 1741159639,
+      "rank": 10,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 463708,
@@ -427,6 +435,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 377068,
+      "num": 279773,
+      "word": "王安宇上海",
+      "onboard_time": 1741158679,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 374416,
       "num": 374416,
       "word": "嘘国王在冬眠",
@@ -447,6 +463,14 @@
       "num": 304344,
       "word": "全圆佑4月3日入伍",
       "onboard_time": 1741137797,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 358927,
+      "num": 268702,
+      "word": "杨紫全国巡跳",
+      "onboard_time": 1741157719,
       "rank": 16,
       "category": "艺人"
     },
@@ -499,12 +523,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 322450,
+      "num": 322450,
+      "word": "痛经女性经期最好少吃甜食",
+      "onboard_time": 1741155617,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 320337,
       "num": 219891,
       "word": "杨紫回应舞蹈走红",
       "onboard_time": 1741101261,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 320006,
+      "num": 320006,
+      "word": "王者荣耀",
+      "onboard_time": 1741158619,
+      "rank": 12,
+      "category": "游戏"
     },
     {
       "raw_hot": 319997,
@@ -515,12 +555,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 318188,
-      "num": 318188,
-      "word": "痛经女性经期最好少吃甜食",
-      "onboard_time": 1741155617,
-      "rank": 29,
-      "category": "健康医疗"
+      "raw_hot": 313955,
+      "num": 251072,
+      "word": "虞书欣为了拍右脸无所不用其极",
+      "onboard_time": 1741159220,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 306268,
@@ -587,12 +627,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 283936,
-      "num": 283936,
-      "word": "王者荣耀",
-      "onboard_time": 1741158619,
-      "rank": 12,
-      "category": "游戏"
+      "raw_hot": 281526,
+      "num": 250959,
+      "word": "蔡少芬谈与张晋17年婚姻",
+      "onboard_time": 1741157180,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 279690,
@@ -625,14 +665,6 @@
       "onboard_time": 1741147580,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 268702,
-      "num": 268702,
-      "word": "杨紫全国巡跳",
-      "onboard_time": 1741157719,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 268275,
@@ -843,14 +875,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 214284,
-      "num": 250959,
-      "word": "蔡少芬谈与张晋17年婚姻",
-      "onboard_time": 1741157180,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 214246,
       "num": 214246,
       "word": "游客逛长隆发现满地动物饼干",
@@ -955,6 +979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198137,
+      "num": 233197,
+      "word": "记者为了采访雷军有多努力",
+      "onboard_time": 1741159220,
+      "rank": 31,
+      "category": "国内时政,互联网"
+    },
+    {
       "raw_hot": 196261,
       "num": 247232,
       "word": "哪吒敖丙三界往事海报",
@@ -1051,6 +1083,14 @@
       "category": "国内时政,互联网"
     },
     {
+      "raw_hot": 184715,
+      "num": 184715,
+      "word": "12年救人40次高中生圆梦成动画主角",
+      "onboard_time": 1741159819,
+      "rank": 32,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 182111,
       "num": 182111,
       "word": "建议将教师常见病纳入职业病名录",
@@ -1105,14 +1145,6 @@
       "onboard_time": 1741150582,
       "rank": 39,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 172731,
-      "num": 279773,
-      "word": "王安宇上海",
-      "onboard_time": 1741158679,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 171277,
@@ -1219,6 +1251,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 146481,
+      "num": 146481,
+      "word": "Younha官宣结婚",
+      "onboard_time": 1741159998,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143603,
       "num": 143603,
       "word": "隔代亲才是第一生产力",
@@ -1275,6 +1315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139143,
+      "num": 236485,
+      "word": "建议尽早实施12年义务教育",
+      "onboard_time": 1741158378,
+      "rank": 29,
+      "category": "国内时政,教育"
+    },
+    {
       "raw_hot": 136439,
       "num": 136439,
       "word": "花旗银行误将81万亿美元转给个人",
@@ -1313,14 +1361,6 @@
       "onboard_time": 1741101620,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 132386,
-      "num": 132386,
-      "word": "虞书欣为了拍右脸无所不用其极",
-      "onboard_time": 1741159220,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 130973,
@@ -1363,14 +1403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 126235,
-      "num": 236485,
-      "word": "建议尽早实施12年义务教育",
-      "onboard_time": 1741158378,
-      "rank": 29,
-      "category": "国内时政,教育"
-    },
-    {
       "raw_hot": 125738,
       "num": 125738,
       "word": "NBA",
@@ -1409,6 +1441,14 @@
       "onboard_time": 1741098022,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122835,
+      "num": 122835,
+      "word": "腾讯元宝回应修改涉知识产权协议",
+      "onboard_time": 1741158978,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 121982,
@@ -1483,20 +1523,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 112292,
-      "num": 112292,
-      "word": "腾讯元宝回应修改涉知识产权协议",
-      "onboard_time": 1741158978,
-      "rank": 45,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 111332,
       "num": 111332,
       "word": "XIUMIN与SM艺人不能同时出演KBS节目",
       "onboard_time": 1741095442,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110901,
+      "num": 193298,
+      "word": "何苏叶沈惜凡在一起了",
+      "onboard_time": 1741159039,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 110139,
@@ -1515,12 +1555,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 109396,
-      "num": 193298,
-      "word": "何苏叶沈惜凡在一起了",
-      "onboard_time": 1741159039,
-      "rank": 34,
-      "category": "剧集"
+      "raw_hot": 107737,
+      "num": 110731,
+      "word": "陈都灵辛云来一见你就笑上班",
+      "onboard_time": 1741159459,
+      "rank": 49,
+      "category": "综艺,剧集"
     },
     {
       "raw_hot": 107346,
@@ -1571,6 +1611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104223,
+      "num": 279704,
+      "word": "市场监管总局回应主播恶意炒作",
+      "onboard_time": 1741158738,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 103937,
       "num": 118893,
       "word": "直播电商监管办法将出台",
@@ -1585,6 +1633,14 @@
       "onboard_time": 1741146019,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97659,
+      "num": 246046,
+      "word": "稳住楼市股市首次写进政府工作报告",
+      "onboard_time": 1741159159,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 95306,
@@ -1659,14 +1715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 87692,
-      "num": 233197,
-      "word": "记者为了采访雷军有多努力",
-      "onboard_time": 1741159220,
-      "rank": 31,
-      "category": "国内时政,互联网"
-    },
-    {
       "raw_hot": 85392,
       "num": 189296,
       "word": "DeepSeek说梅西是世界最佳球员",
@@ -1699,14 +1747,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 80126,
-      "num": 279704,
-      "word": "市场监管总局回应主播恶意炒作",
-      "onboard_time": 1741158738,
-      "rank": 14,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 78819,
       "num": 78819,
       "word": "欧冠联赛",
@@ -1729,6 +1769,14 @@
       "onboard_time": 1741103479,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 75735,
+      "num": 198543,
+      "word": "建议将学术不端行为入罪",
+      "onboard_time": 1741159639,
+      "rank": 29,
+      "category": "国内时政,教育"
     },
     {
       "raw_hot": 75330,
@@ -1792,14 +1840,6 @@
       "word": "这场发布会干货满满一文速览",
       "onboard_time": 1741096521,
       "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 64531,
-      "num": 237026,
-      "word": "稳住楼市股市首次写进政府工作报告",
-      "onboard_time": 1741159159,
-      "rank": 26,
       "category": "国内时政"
     },
     {
@@ -1907,6 +1947,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 49714,
+      "num": 619112,
+      "word": "2025中国发展主要预期目标",
+      "onboard_time": 1741144220,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 47624,
+      "num": 201564,
+      "word": "政协委员说中国高铁对手是我们自己",
+      "onboard_time": 1741160059,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 45819,
       "num": 47413,
       "word": "一诺回复FMVP皮肤快了",
@@ -1920,14 +1976,6 @@
       "word": "我国发展没有闯不过的难关",
       "onboard_time": 1741138097,
       "rank": 8,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 44131,
-      "num": 619112,
-      "word": "2025中国发展主要预期目标",
-      "onboard_time": 1741144220,
-      "rank": 2,
       "category": "国内时政"
     },
     {
