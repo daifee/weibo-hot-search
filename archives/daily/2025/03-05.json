@@ -1,6 +1,6 @@
 {
   "startTime": 1741105825822,
-  "endTime": 1741178696158,
+  "endTime": 1741179645858,
   "band_list": [
     {
       "raw_hot": 1895236,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1063417,
-      "num": 234831,
+      "num": 244859,
       "word": "杨紫说怪不得这两天这么累",
       "onboard_time": 1741172120,
       "rank": 11,
@@ -145,6 +145,14 @@
       "onboard_time": 1741146620,
       "rank": 11,
       "category": "国内时政,互联网"
+    },
+    {
+      "raw_hot": 945779,
+      "num": 1151324,
+      "word": "建议允许符合条件的职工办理自愿退休",
+      "onboard_time": 1741176679,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 930407,
@@ -267,6 +275,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 686637,
+      "num": 308370,
+      "word": "白敬亭真的演出了得偿所愿",
+      "onboard_time": 1741176199,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 678461,
       "num": 678461,
       "word": "鞠婧祎起诉丝芭将开庭",
@@ -289,14 +305,6 @@
       "onboard_time": 1741156998,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 660366,
-      "num": 234130,
-      "word": "白敬亭真的演出了得偿所愿",
-      "onboard_time": 1741176199,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 658048,
@@ -339,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 627728,
+      "num": 197256,
+      "word": "婚都没结过结什么账",
+      "onboard_time": 1741176679,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 621489,
       "num": 364147,
       "word": "女孩出生确诊蝴蝶宝贝皮肤一碰就碎",
@@ -352,14 +368,6 @@
       "word": "建议破除就业唯学历论",
       "onboard_time": 1741165639,
       "rank": 9,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 609398,
-      "num": 1097503,
-      "word": "建议允许符合条件的职工办理自愿退休",
-      "onboard_time": 1741176679,
-      "rank": 0,
       "category": "国内时政"
     },
     {
@@ -419,14 +427,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 542774,
-      "num": 197256,
-      "word": "婚都没结过结什么账",
-      "onboard_time": 1741176679,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 539594,
       "num": 175314,
       "word": "质疑泽连斯基着装的美记者遭死亡威胁",
@@ -444,7 +444,7 @@
     },
     {
       "raw_hot": 516326,
-      "num": 233227,
+      "num": 234655,
       "word": "迪丽热巴的眼线是卡纸做的",
       "onboard_time": 1741172358,
       "rank": 15,
@@ -563,7 +563,7 @@
       "category": "教育,运动健身"
     },
     {
-      "raw_hot": 427987,
+      "raw_hot": 430794,
       "num": 195902,
       "word": "杭州姑娘退税4190元惊呼巨款",
       "onboard_time": 1741176978,
@@ -577,6 +577,14 @@
       "onboard_time": 1741149261,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 419072,
+      "num": 419072,
+      "word": "霍启刚谈哪吒2",
+      "onboard_time": 1741176080,
+      "rank": 5,
+      "category": "国内时政,电影"
     },
     {
       "raw_hot": 415259,
@@ -675,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 373714,
+      "num": 276351,
+      "word": "哪吒2再次刷新纪录",
+      "onboard_time": 1741177939,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 373204,
       "num": 373204,
       "word": "滤镜三部现偶开分最高",
@@ -689,14 +705,6 @@
       "onboard_time": 1741137797,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 361786,
-      "num": 361786,
-      "word": "霍启刚谈哪吒2",
-      "onboard_time": 1741176080,
-      "rank": 5,
-      "category": "国内时政,电影"
     },
     {
       "raw_hot": 358927,
@@ -803,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 313653,
+      "num": 230239,
+      "word": "北上",
+      "onboard_time": 1741177578,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 307152,
       "num": 227104,
       "word": "吴磊气血充足的帅",
@@ -889,6 +905,14 @@
       "onboard_time": 1741095982,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 286159,
+      "num": 286159,
+      "word": "夏威夷一火山喷泉式喷发",
+      "onboard_time": 1741177698,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 281526,
@@ -1107,14 +1131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 230239,
-      "num": 230239,
-      "word": "北上",
-      "onboard_time": 1741177578,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 229555,
       "num": 229555,
       "word": "赵露思恋人复拍",
@@ -1185,6 +1201,14 @@
       "onboard_time": 1741097902,
       "rank": 18,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 214252,
+      "num": 198723,
+      "word": "似锦第13集手伸不进屏幕的心碎",
+      "onboard_time": 1741177397,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 214246,
@@ -1331,6 +1355,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 193026,
+      "num": 197907,
+      "word": "泽连斯基称对白宫争吵感到遗憾",
+      "onboard_time": 1741177098,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 192346,
       "num": 192346,
       "word": "光与夜之恋",
@@ -1419,14 +1451,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 182913,
-      "num": 198723,
-      "word": "似锦第13集手伸不进屏幕的心碎",
-      "onboard_time": 1741177397,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 182111,
       "num": 182111,
       "word": "建议将教师常见病纳入职业病名录",
@@ -1505,14 +1529,6 @@
       "onboard_time": 1741173379,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 169997,
-      "num": 197907,
-      "word": "泽连斯基称对白宫争吵感到遗憾",
-      "onboard_time": 1741177098,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 169519,
@@ -1611,14 +1627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158039,
-      "num": 230897,
-      "word": "哪吒2再次刷新纪录",
-      "onboard_time": 1741177939,
-      "rank": 14,
-      "category": "电影"
-    },
-    {
       "raw_hot": 157540,
       "num": 369169,
       "word": "金智秀卢浮宫慈善晚宴",
@@ -1631,6 +1639,14 @@
       "num": 156205,
       "word": "有一种生机勃勃叫惊蛰",
       "onboard_time": 1741137437,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155805,
+      "num": 155805,
+      "word": "当年轻人爱上中国非遗",
+      "onboard_time": 1741178418,
       "rank": 43,
       "category": "民生新闻"
     },
@@ -1763,6 +1779,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 140016,
+      "num": 140016,
+      "word": "这7类人容易提前长白发",
+      "onboard_time": 1741173919,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 139974,
       "num": 148796,
       "word": "祁煜元宇宙世界",
@@ -1875,12 +1899,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 133197,
-      "num": 133197,
-      "word": "这7类人容易提前长白发",
-      "onboard_time": 1741173919,
-      "rank": 42,
-      "category": "健康医疗"
+      "raw_hot": 132453,
+      "num": 132453,
+      "word": "欧豪演出了心动不自知",
+      "onboard_time": 1741174758,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 130973,
@@ -1889,14 +1913,6 @@
       "onboard_time": 1741101141,
       "rank": 27,
       "category": "美食"
-    },
-    {
-      "raw_hot": 129926,
-      "num": 235975,
-      "word": "夏威夷一火山喷泉式喷发",
-      "onboard_time": 1741177698,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 129585,
@@ -2259,14 +2275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 101601,
-      "num": 101601,
-      "word": "欧豪演出了心动不自知",
-      "onboard_time": 1741174758,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 99142,
       "num": 378313,
       "word": "建议拐卖与拐骗二罪合一",
@@ -2289,6 +2297,14 @@
       "onboard_time": 1741166780,
       "rank": 29,
       "category": "国内时政,健康医疗"
+    },
+    {
+      "raw_hot": 95932,
+      "num": 95932,
+      "word": "这嵌入式拥抱太萌了",
+      "onboard_time": 1741178958,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 95306,
@@ -2337,14 +2353,6 @@
       "onboard_time": 1741098262,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 91676,
-      "num": 91676,
-      "word": "当年轻人爱上中国非遗",
-      "onboard_time": 1741178418,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 90857,
@@ -2427,6 +2435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80852,
+      "num": 80852,
+      "word": "近十年iPhone在华出货量",
+      "onboard_time": 1741179438,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 78819,
       "num": 78819,
       "word": "欧冠联赛",
@@ -2505,6 +2521,14 @@
       "onboard_time": 1741163239,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 69683,
+      "num": 171747,
+      "word": "成都GG冠军时装",
+      "onboard_time": 1741175897,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 68214,
@@ -2675,6 +2699,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 56432,
+      "num": 206212,
+      "word": "建议农民养老金与务农年限挂钩",
+      "onboard_time": 1741179138,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 55966,
       "num": 106863,
       "word": "重庆动物园回应莽灿灿伤情",
@@ -2801,6 +2833,14 @@
       "onboard_time": 1741155918,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 31242,
+      "num": 174472,
+      "word": "李昀锐巴黎街头撒娇",
+      "onboard_time": 1741179019,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 30893,
