@@ -1,6 +1,6 @@
 {
   "startTime": 1741105825822,
-  "endTime": 1741188320528,
+  "endTime": 1741189199113,
   "band_list": [
     {
       "raw_hot": 1983998,
@@ -9,6 +9,14 @@
       "onboard_time": 1741182619,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1925151,
+      "num": 1362939,
+      "word": "何凯文 周思成",
+      "onboard_time": 1741185319,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 1895236,
@@ -83,14 +91,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1362939,
-      "num": 1362939,
-      "word": "何凯文 周思成",
-      "onboard_time": 1741185319,
-      "rank": 29,
-      "category": "教育"
-    },
-    {
       "raw_hot": 1323645,
       "num": 449857,
       "word": "方大同录音",
@@ -107,20 +107,20 @@
       "category": "国内时政,互联网"
     },
     {
+      "raw_hot": 1318302,
+      "num": 292692,
+      "word": "辛芷蕾微博真的是本人发的吗",
+      "onboard_time": 1741185439,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1305385,
       "num": 234714,
       "word": "小杨哥大徒弟回应因解约问题送医抢救",
       "onboard_time": 1741166359,
       "rank": 31,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1301114,
-      "num": 292692,
-      "word": "辛芷蕾微博真的是本人发的吗",
-      "onboard_time": 1741185439,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 1172560,
@@ -531,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 505684,
+      "num": 378306,
+      "word": "周思成质疑何凯文英语一成绩",
+      "onboard_time": 1741186340,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
       "raw_hot": 504133,
       "num": 504133,
       "word": "建议孕产服务免费",
@@ -769,14 +777,6 @@
       "onboard_time": 1741089620,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 378306,
-      "num": 378306,
-      "word": "周思成质疑何凯文英语一成绩",
-      "onboard_time": 1741186340,
-      "rank": 7,
-      "category": "教育"
     },
     {
       "raw_hot": 377068,
@@ -1299,6 +1299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 227911,
+      "num": 227911,
+      "word": "为何越来越多小众服饰品牌变便宜了",
+      "onboard_time": 1741188079,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 225357,
       "num": 760771,
       "word": "首场部长通道",
@@ -1604,7 +1612,7 @@
     },
     {
       "raw_hot": 186888,
-      "num": 186888,
+      "num": 267519,
       "word": "靳东回应AI真假靳东",
       "onboard_time": 1741183399,
       "rank": 18,
@@ -1753,6 +1761,14 @@
       "onboard_time": 1741168219,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 165178,
+      "num": 165178,
+      "word": "MacBook Air",
+      "onboard_time": 1741188857,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 162642,
@@ -2099,14 +2115,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 136815,
-      "num": 136815,
-      "word": "为何越来越多小众服饰品牌变便宜了",
-      "onboard_time": 1741188079,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136439,
       "num": 136439,
       "word": "花旗银行误将81万亿美元转给个人",
@@ -2267,7 +2275,7 @@
       "category": "国内时政,互联网"
     },
     {
-      "raw_hot": 124559,
+      "raw_hot": 124783,
       "num": 170976,
       "word": "多方回应租客被房东扣9200元押金",
       "onboard_time": 1741185260,
@@ -2345,6 +2353,14 @@
       "onboard_time": 1741184119,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 119519,
+      "num": 119519,
+      "word": "王曼昱重庆冠军赛宣传片",
+      "onboard_time": 1741187839,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 119334,
@@ -2451,6 +2467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113394,
+      "num": 113394,
+      "word": "丁禹兮纯白新中式look",
+      "onboard_time": 1741188498,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112613,
       "num": 347983,
       "word": "霍启刚谈政府工作报告",
@@ -2465,14 +2489,6 @@
       "onboard_time": 1741095442,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 111291,
-      "num": 111291,
-      "word": "王曼昱重庆冠军赛宣传片",
-      "onboard_time": 1741187839,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 110935,
@@ -2651,6 +2667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99160,
+      "num": 99160,
+      "word": "MacBookAir新增天蓝色",
+      "onboard_time": 1741188318,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 99142,
       "num": 378313,
       "word": "建议拐卖与拐骗二罪合一",
@@ -2736,6 +2760,14 @@
       "word": "桑延官宣恋情如同打了胜仗",
       "onboard_time": 1741098262,
       "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 91903,
+      "num": 91903,
+      "word": "似锦",
+      "onboard_time": 1741189097,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -3219,6 +3251,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 38008,
+      "num": 250501,
+      "word": "中学校园里的好朋友在渐渐消失",
+      "onboard_time": 1741188678,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35092,
       "num": 322489,
       "word": "9图速览2024中国发展成绩单",
@@ -3426,6 +3466,9 @@
     },
     {
       "word": "#总书记的两会时间#"
+    },
+    {
+      "word": "#习近平参加江苏代表团审议#"
     }
   ]
 }
