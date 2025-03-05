@@ -1,6 +1,6 @@
 {
   "startTime": 1741105825822,
-  "endTime": 1741166757789,
+  "endTime": 1741167567847,
   "band_list": [
     {
       "raw_hot": 1895236,
@@ -43,7 +43,7 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 1413097,
+      "raw_hot": 1450767,
       "num": 285433,
       "word": "难哄男二女二 台湾偶像剧",
       "onboard_time": 1741163658,
@@ -65,6 +65,14 @@
       "onboard_time": 1741149261,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1321271,
+      "num": 280450,
+      "word": "董明珠称不跟雷军竞争",
+      "onboard_time": 1741165879,
+      "rank": 11,
+      "category": "国内时政,互联网"
     },
     {
       "raw_hot": 1172560,
@@ -201,14 +209,6 @@
       "onboard_time": 1741151239,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 718867,
-      "num": 280450,
-      "word": "董明珠称不跟雷军竞争",
-      "onboard_time": 1741165879,
-      "rank": 11,
-      "category": "国内时政,互联网"
     },
     {
       "raw_hot": 716450,
@@ -353,6 +353,14 @@
       "onboard_time": 1741151899,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 511065,
+      "num": 234714,
+      "word": "小杨哥大徒弟回应因解约问题送医抢救",
+      "onboard_time": 1741166359,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 505863,
@@ -571,6 +579,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 346070,
+      "num": 346070,
+      "word": "建议破除就业唯学历论",
+      "onboard_time": 1741165639,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 343835,
+      "num": 243659,
+      "word": "当你不停运动七个月后",
+      "onboard_time": 1741165939,
+      "rank": 26,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 340917,
       "num": 340917,
       "word": "中医说健不健康看眼睛就知道了",
@@ -635,14 +659,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 318701,
-      "num": 243659,
-      "word": "当你不停运动七个月后",
-      "onboard_time": 1741165939,
-      "rank": 26,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 306268,
       "num": 268917,
       "word": "加拿大宣布报复美国的措施",
@@ -673,6 +689,14 @@
       "onboard_time": 1741144339,
       "rank": 31,
       "category": "体育,美食"
+    },
+    {
+      "raw_hot": 292728,
+      "num": 308071,
+      "word": "建议中小学每天2小时体育活动时间",
+      "onboard_time": 1741163538,
+      "rank": 14,
+      "category": "国内时政,教育"
     },
     {
       "raw_hot": 291845,
@@ -712,6 +736,14 @@
       "word": "蔡少芬谈与张晋17年婚姻",
       "onboard_time": 1741157180,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 281201,
+      "num": 245673,
+      "word": "李羲承进行曲",
+      "onboard_time": 1741165577,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -827,14 +859,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 245673,
-      "num": 245673,
-      "word": "李羲承进行曲",
-      "onboard_time": 1741165577,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 244823,
       "num": 244823,
       "word": "特朗普国会讲话遭民主党议员抗议",
@@ -929,14 +953,6 @@
       "onboard_time": 1741143079,
       "rank": 11,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 224675,
-      "num": 308071,
-      "word": "建议中小学每天2小时体育活动时间",
-      "onboard_time": 1741163538,
-      "rank": 14,
-      "category": "国内时政,教育"
     },
     {
       "raw_hot": 223148,
@@ -1091,14 +1107,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 196148,
-      "num": 196148,
-      "word": "小杨哥大徒弟回应因解约问题送医抢救",
-      "onboard_time": 1741166359,
-      "rank": 31,
-      "category": "网红"
-    },
-    {
       "raw_hot": 195762,
       "num": 508069,
       "word": "教育部部长回应DeepSeek热",
@@ -1195,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187043,
+      "num": 187043,
+      "word": "王一博丹宁拼接",
+      "onboard_time": 1741166718,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 187015,
       "num": 187015,
       "word": "雷军谈科技创新引领新质生产力发展",
@@ -1209,14 +1225,6 @@
       "onboard_time": 1741159819,
       "rank": 32,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 184100,
-      "num": 184100,
-      "word": "王一博丹宁拼接",
-      "onboard_time": 1741166718,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 182111,
@@ -1329,6 +1337,14 @@
       "onboard_time": 1741161379,
       "rank": 37,
       "category": "国内时政,教育"
+    },
+    {
+      "raw_hot": 158200,
+      "num": 158200,
+      "word": "有点子义思",
+      "onboard_time": 1741166359,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 157540,
@@ -1467,14 +1483,6 @@
       "category": "国内时政,教育"
     },
     {
-      "raw_hot": 137236,
-      "num": 137236,
-      "word": "有点子义思",
-      "onboard_time": 1741166359,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 136439,
       "num": 136439,
       "word": "花旗银行误将81万亿美元转给个人",
@@ -1556,7 +1564,7 @@
     },
     {
       "raw_hot": 127585,
-      "num": 184628,
+      "num": 184982,
       "word": "特朗普讲话底下人互呛",
       "onboard_time": 1741162460,
       "rank": 44,
@@ -1627,14 +1635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 123802,
-      "num": 287102,
-      "word": "建议破除就业唯学历论",
-      "onboard_time": 1741165639,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 122835,
       "num": 122835,
       "word": "腾讯元宝回应修改涉知识产权协议",
@@ -1657,6 +1657,22 @@
       "onboard_time": 1741130476,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121660,
+      "num": 121660,
+      "word": "杨紫问杨迪她跳舞怎么样",
+      "onboard_time": 1741167017,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 118510,
+      "num": 118510,
+      "word": "用Deepseek做韩国色彩测试",
+      "onboard_time": 1741166659,
+      "rank": 47,
+      "category": "互联网,美妆"
     },
     {
       "raw_hot": 117015,
@@ -1729,6 +1745,14 @@
       "onboard_time": 1741095442,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110935,
+      "num": 176512,
+      "word": "建议提高个税起征点至每年10万元",
+      "onboard_time": 1741163299,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 110901,
@@ -1857,22 +1881,6 @@
       "onboard_time": 1741146019,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 101885,
-      "num": 101885,
-      "word": "用Deepseek做韩国色彩测试",
-      "onboard_time": 1741166659,
-      "rank": 47,
-      "category": "互联网,美妆"
-    },
-    {
-      "raw_hot": 99180,
-      "num": 176512,
-      "word": "建议提高个税起征点至每年10万元",
-      "onboard_time": 1741163299,
-      "rank": 33,
-      "category": "国内时政"
     },
     {
       "raw_hot": 97659,
@@ -2219,6 +2227,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 48865,
+      "num": 163891,
+      "word": "蔡少芬曾在生日因张晋爆哭",
+      "onboard_time": 1741159398,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 47624,
       "num": 201564,
       "word": "政协委员说中国高铁对手是我们自己",
@@ -2241,6 +2257,14 @@
       "onboard_time": 1741138097,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 40284,
+      "num": 185194,
+      "word": "建议将恶性肿瘤筛查早诊纳入医保",
+      "onboard_time": 1741166780,
+      "rank": 29,
+      "category": "国内时政,健康医疗"
     },
     {
       "raw_hot": 38500,
@@ -2313,6 +2337,14 @@
       "onboard_time": 1741140018,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26225,
+      "num": 216626,
+      "word": "建议推进职业教育招生即招工",
+      "onboard_time": 1741166898,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 22834,
