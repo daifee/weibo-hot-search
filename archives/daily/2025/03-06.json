@@ -1,6 +1,6 @@
 {
   "startTime": 1741192562065,
-  "endTime": 1741193420344,
+  "endTime": 1741195292571,
   "band_list": [
     {
       "raw_hot": 1052270,
@@ -67,20 +67,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 300453,
+      "num": 113424,
+      "word": "街道通报男子虐猫事件",
+      "onboard_time": 1741191735,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 283610,
       "num": 120837,
       "word": "美滞留太空宇航员婉拒马斯克",
       "onboard_time": 1741180458,
       "rank": 20,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 262431,
-      "num": 113424,
-      "word": "街道通报男子虐猫事件",
-      "onboard_time": 1741191735,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 254813,
@@ -139,6 +139,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 185430,
+      "num": 122363,
+      "word": "刘雨昕金智秀邝玲玲Orm同框",
+      "onboard_time": 1741192815,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 145466,
       "num": 109854,
       "word": "杭州姑娘退税4190元惊呼巨款",
@@ -171,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140961,
+      "num": 85846,
+      "word": "医生建议染发烫发一年不要超过两次",
+      "onboard_time": 1741191017,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 123329,
       "num": 123329,
       "word": "杨紫说怪不得这两天这么累",
@@ -184,14 +200,6 @@
       "word": "金昇玟出席尚美巴黎活动",
       "onboard_time": 1741192635,
       "rank": 16,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 120584,
-      "num": 120584,
-      "word": "刘雨昕金智秀邝玲玲Orm同框",
-      "onboard_time": 1741192815,
-      "rank": 18,
       "category": "作品衍生,时尚"
     },
     {
@@ -273,14 +281,6 @@
       "onboard_time": 1741182619,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 85846,
-      "num": 85846,
-      "word": "医生建议染发烫发一年不要超过两次",
-      "onboard_time": 1741191017,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 75504,
@@ -419,12 +419,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26441,
+      "num": 35864,
+      "word": "功夫变脸街舞buff叠满了",
+      "onboard_time": 1741193773,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20916,
       "num": 407195,
       "word": "政府工作报告里的加与减",
       "onboard_time": 1741182558,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 20741,
+      "num": 63631,
+      "word": "超40万辆军车是湖北十堰造",
+      "onboard_time": 1741187180,
+      "rank": 19,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

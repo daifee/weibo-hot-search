@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741193420344,
+  "endTime": 1741195292571,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -4355,6 +4355,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 300453,
+      "num": 113424,
+      "word": "街道通报男子虐猫事件",
+      "onboard_time": 1741191735,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 299588,
       "num": 208841,
       "word": "蒋欣自曝体重112斤",
@@ -5065,14 +5073,6 @@
       "onboard_time": 1741147521,
       "rank": 33,
       "category": "财经"
-    },
-    {
-      "raw_hot": 262431,
-      "num": 113424,
-      "word": "街道通报男子虐猫事件",
-      "onboard_time": 1741191735,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 262137,
@@ -7459,6 +7459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185430,
+      "num": 122363,
+      "word": "刘雨昕金智秀邝玲玲Orm同框",
+      "onboard_time": 1741192815,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 185240,
       "num": 347954,
       "word": "建议结婚前上婚姻辅导课",
@@ -9835,6 +9843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 140961,
+      "num": 85846,
+      "word": "医生建议染发烫发一年不要超过两次",
+      "onboard_time": 1741191017,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 140843,
       "num": 175292,
       "word": "三峡小狗山走红",
@@ -11145,14 +11161,6 @@
       "onboard_time": 1740997878,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 120584,
-      "num": 120584,
-      "word": "刘雨昕金智秀邝玲玲Orm同框",
-      "onboard_time": 1741192815,
-      "rank": 18,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 120087,
@@ -12921,14 +12929,6 @@
       "onboard_time": 1740844941,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 85846,
-      "num": 85846,
-      "word": "医生建议染发烫发一年不要超过两次",
-      "onboard_time": 1741191017,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 85724,
@@ -15184,6 +15184,14 @@
       "word": "做自然的朋友",
       "onboard_time": 1741022653,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26441,
+      "num": 35864,
+      "word": "功夫变脸街舞buff叠满了",
+      "onboard_time": 1741193773,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
