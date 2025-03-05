@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741189199113,
+  "endTime": 1741192562065,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -832,6 +832,14 @@
       "word": "高铁晚点",
       "onboard_time": 1740919819,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1052270,
+      "num": 227268,
+      "word": "男子1个月染发4次十多天头发掉光",
+      "onboard_time": 1741189816,
+      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -1897,6 +1905,14 @@
       "onboard_time": 1740984259,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 622037,
+      "num": 829126,
+      "word": "江苏要主动破除内卷式竞争",
+      "onboard_time": 1741189277,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 621489,
@@ -3483,6 +3499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 372728,
+      "num": 372728,
+      "word": "为何越来越多小众服饰品牌变便宜了",
+      "onboard_time": 1741188079,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 371420,
       "num": 408863,
       "word": "上班杀死了我的文化体力",
@@ -3553,6 +3577,14 @@
       "onboard_time": 1740801199,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 363238,
+      "num": 363238,
+      "word": "MacBook Air",
+      "onboard_time": 1741188857,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 362389,
@@ -5595,6 +5627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 230681,
+      "num": 230681,
+      "word": "白敬亭两次抬眼含泪",
+      "onboard_time": 1741189758,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 230332,
       "num": 330049,
       "word": "男子喝满月酒酒驾身亡家属索赔主办人",
@@ -5657,14 +5697,6 @@
       "onboard_time": 1740827961,
       "rank": 18,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 227911,
-      "num": 227911,
-      "word": "为何越来越多小众服饰品牌变便宜了",
-      "onboard_time": 1741188079,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 227326,
@@ -7107,6 +7139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190159,
+      "num": 112277,
+      "word": "街道通报男子虐猫事件",
+      "onboard_time": 1741191735,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190115,
       "num": 205874,
       "word": "姚安娜新剧在急诊室好忙",
@@ -7369,6 +7409,14 @@
       "onboard_time": 1741072697,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 186492,
+      "num": 186492,
+      "word": "台湾地震",
+      "onboard_time": 1741189039,
+      "rank": 15,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 186214,
@@ -8353,14 +8401,6 @@
       "onboard_time": 1741052838,
       "rank": 9,
       "category": "国际时政,财经"
-    },
-    {
-      "raw_hot": 165178,
-      "num": 165178,
-      "word": "MacBook Air",
-      "onboard_time": 1741188857,
-      "rank": 28,
-      "category": "数码"
     },
     {
       "raw_hot": 164995,
@@ -12931,6 +12971,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 84675,
+      "num": 84675,
+      "word": "医生建议染发烫发一年不要超过两次",
+      "onboard_time": 1741191017,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 84333,
       "num": 294890,
       "word": "推动民营经济促进法尽快出台",
@@ -13379,6 +13427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 69841,
+      "num": 228886,
+      "word": "受益终身的7件小事",
+      "onboard_time": 1741191376,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69745,
       "num": 69745,
       "word": "谁懂斗罗斗破在国漫的含金量",
@@ -13665,6 +13721,14 @@
       "onboard_time": 1741173558,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 64161,
+      "num": 250501,
+      "word": "中学校园里的好朋友在渐渐消失",
+      "onboard_time": 1741188678,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63734,
@@ -14371,6 +14435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 45061,
+      "num": 45061,
+      "word": "爱上张凌赫",
+      "onboard_time": 1741189218,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 45034,
       "num": 45034,
       "word": "张若昀或扮演杜甫",
@@ -14385,6 +14457,14 @@
       "onboard_time": 1741138097,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 44353,
+      "num": 44353,
+      "word": "哪吒2中的结界兽硬核开麦了",
+      "onboard_time": 1741192515,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 44327,
@@ -14601,14 +14681,6 @@
       "onboard_time": 1740997220,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 38008,
-      "num": 250501,
-      "word": "中学校园里的好朋友在渐渐消失",
-      "onboard_time": 1741188678,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37798,

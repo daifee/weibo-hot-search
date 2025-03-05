@@ -1,0 +1,411 @@
+{
+  "startTime": 1741192562065,
+  "endTime": 1741192562065,
+  "band_list": [
+    {
+      "raw_hot": 1052270,
+      "num": 227268,
+      "word": "男子1个月染发4次十多天头发掉光",
+      "onboard_time": 1741189816,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 768977,
+      "num": 226492,
+      "word": "辛芷蕾微博真的是本人发的吗",
+      "onboard_time": 1741185439,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 622037,
+      "num": 829126,
+      "word": "江苏要主动破除内卷式竞争",
+      "onboard_time": 1741189277,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 488900,
+      "num": 488900,
+      "word": "北上 小巷人家",
+      "onboard_time": 1741181599,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 372728,
+      "num": 372728,
+      "word": "为何越来越多小众服饰品牌变便宜了",
+      "onboard_time": 1741188079,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 370234,
+      "num": 225098,
+      "word": "吴尊听到Neinei和Max谈恋爱的反应",
+      "onboard_time": 1741170438,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 363238,
+      "num": 363238,
+      "word": "MacBook Air",
+      "onboard_time": 1741188857,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 323384,
+      "num": 323384,
+      "word": "靳东两会建议AI换脸立法",
+      "onboard_time": 1741182619,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 283610,
+      "num": 120837,
+      "word": "美滞留太空宇航员婉拒马斯克",
+      "onboard_time": 1741180458,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 254813,
+      "num": 254813,
+      "word": "哪吒2再次刷新纪录",
+      "onboard_time": 1741177939,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 230681,
+      "num": 230681,
+      "word": "白敬亭两次抬眼含泪",
+      "onboard_time": 1741189758,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 224906,
+      "num": 224906,
+      "word": "张凌赫把我迷成智障了",
+      "onboard_time": 1741184421,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 220989,
+      "num": 220989,
+      "word": "生命树 张哲华",
+      "onboard_time": 1741186099,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 207695,
+      "num": 115711,
+      "word": "喝咖啡与不喝咖啡身体的差距",
+      "onboard_time": 1741172179,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 190159,
+      "num": 112277,
+      "word": "街道通报男子虐猫事件",
+      "onboard_time": 1741191735,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188022,
+      "num": 230104,
+      "word": "白鹿说作为演员不会干涉妆造",
+      "onboard_time": 1741183279,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 186492,
+      "num": 186492,
+      "word": "台湾地震",
+      "onboard_time": 1741189039,
+      "rank": 15,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 145466,
+      "num": 105355,
+      "word": "杭州姑娘退税4190元惊呼巨款",
+      "onboard_time": 1741176978,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143875,
+      "num": 143875,
+      "word": "两会",
+      "onboard_time": 1741185860,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 141782,
+      "num": 141782,
+      "word": "人大代表称教师对提升学历缺乏动力",
+      "onboard_time": 1741184659,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 141267,
+      "num": 141267,
+      "word": "迪丽热巴的眼线是卡纸做的",
+      "onboard_time": 1741172358,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 123329,
+      "num": 123329,
+      "word": "杨紫说怪不得这两天这么累",
+      "onboard_time": 1741172120,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 104364,
+      "num": 104364,
+      "word": "邝玲玲关心安保被戳到眼睛",
+      "onboard_time": 1741187239,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 104287,
+      "num": 104287,
+      "word": "生命树",
+      "onboard_time": 1741186160,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 103246,
+      "num": 103246,
+      "word": "米津玄师羽生结弦合作",
+      "onboard_time": 1741180998,
+      "rank": 26,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 99204,
+      "num": 99204,
+      "word": "滤镜 海底捞扯面",
+      "onboard_time": 1741183459,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 96098,
+      "num": 96098,
+      "word": "拧巴的人需要一个耐心的爱人",
+      "onboard_time": 1741187839,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 94691,
+      "num": 94691,
+      "word": "内娱剧宣cp双人视频",
+      "onboard_time": 1741187060,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 93325,
+      "num": 93325,
+      "word": "北电复试男艺考生颜值",
+      "onboard_time": 1741171338,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 89251,
+      "num": 89251,
+      "word": "爱你",
+      "onboard_time": 1741175299,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 89050,
+      "num": 89050,
+      "word": "建议允许符合条件的职工办理自愿退休",
+      "onboard_time": 1741176679,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 88637,
+      "num": 88637,
+      "word": "周杰伦给权志龙新歌打call",
+      "onboard_time": 1741182619,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 84675,
+      "num": 84675,
+      "word": "医生建议染发烫发一年不要超过两次",
+      "onboard_time": 1741191017,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 73342,
+      "num": 73342,
+      "word": "建议每车固定里程高速免费",
+      "onboard_time": 1741180219,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 69841,
+      "num": 228886,
+      "word": "受益终身的7件小事",
+      "onboard_time": 1741191376,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67774,
+      "num": 67774,
+      "word": "滤镜",
+      "onboard_time": 1741169359,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 64161,
+      "num": 64161,
+      "word": "中学校园里的好朋友在渐渐消失",
+      "onboard_time": 1741188678,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62454,
+      "num": 62454,
+      "word": "多方回应租客被房东扣9200元押金",
+      "onboard_time": 1741185260,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60556,
+      "num": 60556,
+      "word": "檀健次爆发戏",
+      "onboard_time": 1741187658,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 60426,
+      "num": 60426,
+      "word": "北上",
+      "onboard_time": 1741177578,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 59459,
+      "num": 59459,
+      "word": "MacBookAir新增天蓝色",
+      "onboard_time": 1741188318,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 59103,
+      "num": 59103,
+      "word": "Angelababy腰身比",
+      "onboard_time": 1741167859,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 57556,
+      "num": 57556,
+      "word": "王曼昱重庆冠军赛宣传片",
+      "onboard_time": 1741187839,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 54315,
+      "num": 54315,
+      "word": "中国影史首部观影人次超3亿电影",
+      "onboard_time": 1741184119,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 53338,
+      "num": 53338,
+      "word": "这7类人容易提前长白发",
+      "onboard_time": 1741173919,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 46487,
+      "num": 46487,
+      "word": "哪吒票房",
+      "onboard_time": 1741182859,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 45061,
+      "num": 45061,
+      "word": "爱上张凌赫",
+      "onboard_time": 1741189218,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 44353,
+      "num": 44353,
+      "word": "哪吒2中的结界兽硬核开麦了",
+      "onboard_time": 1741192515,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 43847,
+      "num": 43847,
+      "word": "李现瞿友宁或将二搭",
+      "onboard_time": 1741184480,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 20916,
+      "num": 378397,
+      "word": "政府工作报告里的加与减",
+      "onboard_time": 1741182558,
+      "rank": 2,
+      "category": "国内时政"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#总书记的两会时间#"
+    }
+  ]
+}
