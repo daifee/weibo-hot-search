@@ -1,6 +1,6 @@
 {
   "startTime": 1741105825822,
-  "endTime": 1741170338117,
+  "endTime": 1741171372761,
   "band_list": [
     {
       "raw_hot": 1895236,
@@ -307,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 617189,
+      "num": 1098750,
+      "word": "建议破除就业唯学历论",
+      "onboard_time": 1741165639,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 593987,
       "num": 321768,
       "word": "女子盗录哪吒2浏览量超35万被罚1.5万",
@@ -363,12 +371,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 508713,
-      "num": 508713,
-      "word": "建议破除就业唯学历论",
-      "onboard_time": 1741165639,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 509454,
+      "num": 443165,
+      "word": "杨紫李祯现在要先安心制墨",
+      "onboard_time": 1741169179,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 505863,
@@ -443,14 +451,6 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 443165,
-      "num": 443165,
-      "word": "杨紫李祯现在要先安心制墨",
-      "onboard_time": 1741169179,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 441469,
       "num": 220653,
       "word": "张淼怡直播回应整容",
@@ -497,6 +497,14 @@
       "onboard_time": 1741140858,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 411435,
+      "num": 290314,
+      "word": "曝上村谦信涉嫌性骚扰被捕",
+      "onboard_time": 1741168580,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 403670,
@@ -601,6 +609,14 @@
       "onboard_time": 1741155617,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 353340,
+      "num": 174952,
+      "word": "吴尊听到Neinei和Max谈恋爱的反应",
+      "onboard_time": 1741170438,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 352544,
@@ -731,14 +747,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 290314,
-      "num": 290314,
-      "word": "曝上村谦信涉嫌性骚扰被捕",
-      "onboard_time": 1741168580,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 287109,
       "num": 302341,
       "word": "雷军谈科技创新引领新质生产力",
@@ -779,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 276940,
+      "num": 451874,
+      "word": "滤镜",
+      "onboard_time": 1741086560,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 274957,
       "num": 260061,
       "word": "你根本没有意识到你有多么年轻",
@@ -809,6 +825,14 @@
       "onboard_time": 1741139717,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 268253,
+      "num": 222612,
+      "word": "向佐虾系男友身材",
+      "onboard_time": 1741170559,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 265844,
@@ -1051,6 +1075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207950,
+      "num": 174340,
+      "word": "二手炸鸡好小众的词",
+      "onboard_time": 1741169538,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 207730,
       "num": 264105,
       "word": "种地吧洗芫根直播",
@@ -1120,14 +1152,6 @@
       "word": "IU朴宝剑新剧发布会",
       "onboard_time": 1741145960,
       "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 197790,
-      "num": 451874,
-      "word": "滤镜",
-      "onboard_time": 1741086560,
-      "rank": 43,
       "category": "剧集"
     },
     {
@@ -1299,6 +1323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176029,
+      "num": 176029,
+      "word": "逆水寒",
+      "onboard_time": 1741170858,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 175669,
       "num": 243811,
       "word": "车兴德拆散桑延温以凡",
@@ -1339,12 +1371,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 167739,
-      "num": 167739,
-      "word": "二手炸鸡好小众的词",
-      "onboard_time": 1741169538,
-      "rank": 37,
-      "category": "幽默"
+      "raw_hot": 167028,
+      "num": 376691,
+      "word": "建议未来十年城乡基础养老金涨一倍",
+      "onboard_time": 1741168699,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 165537,
@@ -1427,6 +1459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152987,
+      "num": 152987,
+      "word": "赵露思做了10年公益",
+      "onboard_time": 1741170919,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152710,
       "num": 1079841,
       "word": "中国经济持续向好有底气",
@@ -1473,6 +1513,14 @@
       "onboard_time": 1741138398,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 145963,
+      "num": 377015,
+      "word": "肖战日媒中国电视剧演员人气榜登顶",
+      "onboard_time": 1741168399,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 143603,
@@ -1731,14 +1779,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 116675,
-      "num": 377015,
-      "word": "肖战日媒中国电视剧演员人气榜登顶",
-      "onboard_time": 1741168399,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 116011,
       "num": 116011,
       "word": "石头参加北电艺考",
@@ -1769,6 +1809,14 @@
       "onboard_time": 1741098922,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114102,
+      "num": 174537,
+      "word": "米卡演唱会送黄金",
+      "onboard_time": 1741170797,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 114070,
@@ -1835,6 +1883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108151,
+      "num": 108151,
+      "word": "静态焦虑",
+      "onboard_time": 1741169838,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 108108,
       "num": 187589,
       "word": "景甜古装撑伞",
@@ -1881,6 +1937,14 @@
       "onboard_time": 1741154119,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105154,
+      "num": 105154,
+      "word": "泰坦甄嬛传",
+      "onboard_time": 1741169058,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 104646,
@@ -1931,20 +1995,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 103295,
-      "num": 103295,
-      "word": "泰坦甄嬛传",
-      "onboard_time": 1741169058,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 102779,
       "num": 150208,
       "word": "于适巴黎探店路透",
       "onboard_time": 1741146019,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99142,
+      "num": 378313,
+      "word": "建议拐卖与拐骗二罪合一",
+      "onboard_time": 1741168699,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 97659,
@@ -1995,6 +2059,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 93196,
+      "num": 93196,
+      "word": "张艺兴空降",
+      "onboard_time": 1741167379,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 92251,
       "num": 92251,
       "word": "桑延官宣恋情如同打了胜仗",
@@ -2003,12 +2075,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 91767,
-      "num": 91767,
-      "word": "静态焦虑",
-      "onboard_time": 1741169838,
-      "rank": 46,
-      "category": "情感"
+      "raw_hot": 91267,
+      "num": 91267,
+      "word": "北电复试男艺考生颜值",
+      "onboard_time": 1741171338,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 90857,
@@ -2131,14 +2203,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 72749,
-      "num": 376691,
-      "word": "建议未来十年城乡基础养老金涨一倍",
-      "onboard_time": 1741168699,
-      "rank": 18,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 72435,
       "num": 276121,
       "word": "致敬了不起的你们",
@@ -2152,14 +2216,6 @@
       "word": "中国CR450正加紧试验",
       "onboard_time": 1741165158,
       "rank": 35,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 70906,
-      "num": 378313,
-      "word": "建议拐卖与拐骗二罪合一",
-      "onboard_time": 1741168699,
-      "rank": 14,
       "category": "国内时政"
     },
     {
@@ -2251,6 +2307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60015,
+      "num": 175795,
+      "word": "红绿灯的黄3个月掉粉27万",
+      "onboard_time": 1741170797,
+      "rank": 19,
+      "category": "网红"
+    },
+    {
       "raw_hot": 59784,
       "num": 513285,
       "word": "中国快递已成为亮丽的中国名片",
@@ -2337,6 +2401,14 @@
       "onboard_time": 1741159398,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 47666,
+      "num": 225915,
+      "word": "建议为新就业形态设计专属社保方案",
+      "onboard_time": 1741170797,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 47624,
