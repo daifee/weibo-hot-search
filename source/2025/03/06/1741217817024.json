@@ -1,0 +1,410 @@
+{
+  "runTime": 1741217817024,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 512195,
+        "num": 891951,
+        "word": "江苏要主动破除内卷式竞争",
+        "onboard_time": 1741189277,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 333932,
+        "num": 333932,
+        "word": "哪吒2中的结界兽硬核开麦了",
+        "onboard_time": 1741192515,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27698,
+        "num": 271506,
+        "word": "政府工作报告里的创新关键词",
+        "onboard_time": 1741182140,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 360066,
+        "num": 251128,
+        "word": "为何越来越多小众服饰品牌变便宜了",
+        "onboard_time": 1741188079,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227099,
+        "num": 227099,
+        "word": "靳东两会建议AI换脸立法",
+        "onboard_time": 1741182619,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 211905,
+        "num": 211905,
+        "word": "建议允许符合条件的职工办理自愿退休",
+        "onboard_time": 1741176679,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 202800,
+        "num": 202800,
+        "word": "人大代表称教师对提升学历缺乏动力",
+        "onboard_time": 1741184659,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 196388,
+        "num": 196388,
+        "word": "北上 小巷人家",
+        "onboard_time": 1741181599,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102772,
+        "num": 192525,
+        "word": "3月6日两会日程",
+        "onboard_time": 1741216936,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 75305,
+        "num": 187662,
+        "word": "建议提高学校教师教龄津贴标准",
+        "onboard_time": 1741213332,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 693321,
+        "num": 176824,
+        "word": "冉莹颖回应给儿子打生长激素",
+        "onboard_time": 1741217174,
+        "rank": 10,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 565397,
+        "num": 174358,
+        "word": "男子1个月染发4次十多天头发掉光",
+        "onboard_time": 1741189816,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 452825,
+        "num": 167458,
+        "word": "辛芷蕾微博真的是本人发的吗",
+        "onboard_time": 1741185439,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239305,
+        "num": 160444,
+        "word": "吴尊听到Neinei和Max谈恋爱的反应",
+        "onboard_time": 1741170438,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155419,
+        "num": 155419,
+        "word": "生命树 张哲华",
+        "onboard_time": 1741186099,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154266,
+        "num": 154266,
+        "word": "多方回应租客被房东扣9200元押金",
+        "onboard_time": 1741185260,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144173,
+        "num": 144173,
+        "word": "两会",
+        "onboard_time": 1741185860,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 137672,
+        "num": 137672,
+        "word": "金智秀疑似受伤",
+        "onboard_time": 1741217235,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117000,
+        "num": 134843,
+        "word": "滤镜 海底捞扯面",
+        "onboard_time": 1741183459,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133941,
+        "num": 133941,
+        "word": "退税",
+        "onboard_time": 1741217115,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 122366,
+        "num": 132935,
+        "word": "白敬亭两次抬眼含泪",
+        "onboard_time": 1741189758,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 749430,
+        "num": 132615,
+        "word": "美滞留太空宇航员婉拒马斯克",
+        "onboard_time": 1741180458,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 201169,
+        "num": 131865,
+        "word": "喝咖啡与不喝咖啡身体的差距",
+        "onboard_time": 1741172179,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 113921,
+        "num": 130566,
+        "word": "白鹿说作为演员不会干涉妆造",
+        "onboard_time": 1741183279,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164629,
+        "num": 129795,
+        "word": "杭州姑娘退税4190元惊呼巨款",
+        "onboard_time": 1741176978,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162961,
+        "num": 128156,
+        "word": "医生建议染发烫发一年不要超过两次",
+        "onboard_time": 1741191017,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 157933,
+        "num": 127330,
+        "word": "陈乔恩回应变胖",
+        "onboard_time": 1741217235,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126896,
+        "num": 126896,
+        "word": "建议为低收入群体免费培训AI技能",
+        "onboard_time": 1741197551,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 83339,
+        "num": 115580,
+        "word": "古人吃海鲜剩的壳堆成地层",
+        "onboard_time": 1741217355,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71800,
+        "num": 114068,
+        "word": "哪吒2再次刷新纪录",
+        "onboard_time": 1741177939,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113710,
+        "num": 113710,
+        "word": "巴黎圣日耳曼0比1利物浦",
+        "onboard_time": 1741217056,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109306,
+        "num": 109306,
+        "word": "杨紫说怪不得这两天这么累",
+        "onboard_time": 1741172120,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109262,
+        "num": 109262,
+        "word": "45岁男子花15元中了1800万",
+        "onboard_time": 1741217115,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90808,
+        "num": 90808,
+        "word": "建议每车固定里程高速免费",
+        "onboard_time": 1741180219,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 83411,
+        "num": 83411,
+        "word": "街道通报男子虐猫事件",
+        "onboard_time": 1741191735,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73175,
+        "num": 73175,
+        "word": "张凌赫把我迷成智障了",
+        "onboard_time": 1741184421,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65671,
+        "num": 65671,
+        "word": "本菲卡0比1巴萨",
+        "onboard_time": 1741217056,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63540,
+        "num": 63540,
+        "word": "光遇",
+        "onboard_time": 1741217115,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 63236,
+        "num": 63236,
+        "word": "MacBook Air",
+        "onboard_time": 1741188857,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 62511,
+        "num": 62511,
+        "word": "一生物科技公司培育出长毛猛犸鼠",
+        "onboard_time": 1741217476,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57221,
+        "num": 57221,
+        "word": "王大陆登艺人涉案交保金冠军宝座",
+        "onboard_time": 1741203191,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56391,
+        "num": 56391,
+        "word": "美国又发生三机相撞",
+        "onboard_time": 1741217596,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 50624,
+        "num": 50624,
+        "word": "难哄男二女二 台湾偶像剧",
+        "onboard_time": 1741163658,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49999,
+        "num": 49999,
+        "word": "周思成回应",
+        "onboard_time": 1741217536,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 49457,
+        "num": 49457,
+        "word": "拜仁3比0勒沃库森",
+        "onboard_time": 1741217056,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49094,
+        "num": 49094,
+        "word": "檀健次爆发戏",
+        "onboard_time": 1741187658,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47851,
+        "num": 47851,
+        "word": "生命树",
+        "onboard_time": 1741186160,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47711,
+        "num": 47711,
+        "word": "邝玲玲关心安保被戳到眼睛",
+        "onboard_time": 1741187239,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 45406,
+        "num": 45406,
+        "word": "刘雨昕金智秀邝玲玲Orm同框",
+        "onboard_time": 1741192815,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 44614,
+        "num": 44614,
+        "word": "迪丽热巴的眼线是卡纸做的",
+        "onboard_time": 1741172358,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的两会时间#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1741217024694,
+  "endTime": 1741217817024,
   "band_list": [
     {
       "raw_hot": 13760834,
@@ -1243,6 +1243,14 @@
       "category": "健康医疗,艺人"
     },
     {
+      "raw_hot": 693321,
+      "num": 176824,
+      "word": "冉莹颖回应给儿子打生长激素",
+      "onboard_time": 1741217174,
+      "rank": 10,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 691861,
       "num": 453797,
       "word": "虞书欣为了拍右脸无所不用其极",
@@ -1508,7 +1516,7 @@
     },
     {
       "raw_hot": 622037,
-      "num": 829126,
+      "num": 891951,
       "word": "江苏要主动破除内卷式竞争",
       "onboard_time": 1741189277,
       "rank": 0,
@@ -6715,6 +6723,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 162961,
+      "num": 128156,
+      "word": "医生建议染发烫发一年不要超过两次",
+      "onboard_time": 1741191017,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 162946,
       "num": 205154,
       "word": "原来辛芷蕾私下这么抽象",
@@ -6803,14 +6819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160761,
-      "num": 85846,
-      "word": "医生建议染发烫发一年不要超过两次",
-      "onboard_time": 1741191017,
-      "rank": 34,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 159449,
       "num": 159449,
       "word": "陶喆回应唱爱爱爱悼念方大同",
@@ -6889,6 +6897,14 @@
       "onboard_time": 1740918440,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 157933,
+      "num": 127330,
+      "word": "陈乔恩回应变胖",
+      "onboard_time": 1741217235,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 157847,
@@ -7113,6 +7129,14 @@
       "onboard_time": 1740919339,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154266,
+      "num": 170976,
+      "word": "多方回应租客被房东扣9200元押金",
+      "onboard_time": 1741185260,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153926,
@@ -8067,6 +8091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 137672,
+      "num": 137672,
+      "word": "金智秀疑似受伤",
+      "onboard_time": 1741217235,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137478,
       "num": 207161,
       "word": "我家那小子",
@@ -8177,6 +8209,14 @@
       "onboard_time": 1741084342,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133941,
+      "num": 133941,
+      "word": "退税",
+      "onboard_time": 1741217115,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 133859,
@@ -8305,14 +8345,6 @@
       "onboard_time": 1740963560,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 130814,
-      "num": 170976,
-      "word": "多方回应租客被房东扣9200元押金",
-      "onboard_time": 1741185260,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 130663,
@@ -8545,6 +8577,14 @@
       "onboard_time": 1740972260,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126896,
+      "num": 126896,
+      "word": "建议为低收入群体免费培训AI技能",
+      "onboard_time": 1741197551,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 126843,
@@ -9075,14 +9115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 116818,
-      "num": 116818,
-      "word": "建议为低收入群体免费培训AI技能",
-      "onboard_time": 1741197551,
-      "rank": 16,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 116784,
       "num": 116784,
       "word": "女子8年将家里阳台爆改菜园",
@@ -9201,6 +9233,14 @@
       "onboard_time": 1741178958,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113710,
+      "num": 113710,
+      "word": "巴黎圣日耳曼0比1利物浦",
+      "onboard_time": 1741217056,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 113547,
@@ -9425,6 +9465,14 @@
       "onboard_time": 1740902119,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 109262,
+      "num": 109262,
+      "word": "45岁男子花15元中了1800万",
+      "onboard_time": 1741217115,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108741,
@@ -9769,6 +9817,14 @@
       "onboard_time": 1741146019,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102772,
+      "num": 192525,
+      "word": "3月6日两会日程",
+      "onboard_time": 1741216936,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 102611,
@@ -10379,6 +10435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83339,
+      "num": 115580,
+      "word": "古人吃海鲜剩的壳堆成地层",
+      "onboard_time": 1741217355,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 82960,
       "num": 315810,
       "word": "王鹤棣回应大奉第二季",
@@ -10577,6 +10641,14 @@
       "onboard_time": 1741151719,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75305,
+      "num": 187662,
+      "word": "建议提高学校教师教龄津贴标准",
+      "onboard_time": 1741213332,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 75271,
@@ -10931,6 +11003,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 65671,
+      "num": 65671,
+      "word": "本菲卡0比1巴萨",
+      "onboard_time": 1741217056,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65601,
       "num": 180309,
       "word": "今年流行居家水光",
@@ -11041,6 +11121,14 @@
       "onboard_time": 1740895520,
       "rank": 9,
       "category": "民生新闻,国内时政"
+    },
+    {
+      "raw_hot": 62511,
+      "num": 62511,
+      "word": "一生物科技公司培育出长毛猛犸鼠",
+      "onboard_time": 1741217476,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62194,
@@ -11251,6 +11339,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 57221,
+      "num": 57221,
+      "word": "王大陆登艺人涉案交保金冠军宝座",
+      "onboard_time": 1741203191,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 56391,
+      "num": 56391,
+      "word": "美国又发生三机相撞",
+      "onboard_time": 1741217596,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 56302,
       "num": 115177,
       "word": "成年人的生日蛋糕酒",
@@ -11387,14 +11491,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 51565,
-      "num": 51021,
-      "word": "王大陆登艺人涉案交保金冠军宝座",
-      "onboard_time": 1741203191,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 51495,
       "num": 244116,
       "word": "王者妇女节活动",
@@ -11417,22 +11513,6 @@
       "onboard_time": 1741095080,
       "rank": 19,
       "category": "国内时政,互联网"
-    },
-    {
-      "raw_hot": 51042,
-      "num": 90599,
-      "word": "建议提高学校教师教龄津贴标准",
-      "onboard_time": 1741213332,
-      "rank": 49,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 51023,
-      "num": 51023,
-      "word": "3月6日两会日程",
-      "onboard_time": 1741216936,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 50780,
@@ -11459,6 +11539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 49999,
+      "num": 49999,
+      "word": "周思成回应",
+      "onboard_time": 1741217536,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 49942,
       "num": 52423,
       "word": "张凌赫还没看过白天的鼋头渚",
@@ -11481,6 +11569,14 @@
       "onboard_time": 1741144220,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 49457,
+      "num": 49457,
+      "word": "拜仁3比0勒沃库森",
+      "onboard_time": 1741217056,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 49365,
@@ -12187,6 +12283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 27698,
+      "num": 285601,
+      "word": "政府工作报告里的创新关键词",
+      "onboard_time": 1741182140,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 27624,
       "num": 27624,
       "word": "何秋亊歌友会",
@@ -12377,14 +12481,6 @@
       "onboard_time": 1740951790,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23774,
-      "num": 285601,
-      "word": "政府工作报告里的创新关键词",
-      "onboard_time": 1741182140,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 23662,
