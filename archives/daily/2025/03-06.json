@@ -1,6 +1,6 @@
 {
   "startTime": 1741192562065,
-  "endTime": 1741214418703,
+  "endTime": 1741217024694,
   "band_list": [
     {
       "raw_hot": 1052270,
@@ -17,6 +17,14 @@
       "onboard_time": 1741185439,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 647589,
+      "num": 120837,
+      "word": "美滞留太空宇航员婉拒马斯克",
+      "onboard_time": 1741180458,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 622037,
@@ -59,12 +67,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 329462,
-      "num": 120837,
-      "word": "美滞留太空宇航员婉拒马斯克",
-      "onboard_time": 1741180458,
-      "rank": 20,
-      "category": "国际时政"
+      "raw_hot": 356961,
+      "num": 356961,
+      "word": "哪吒2中的结界兽硬核开麦了",
+      "onboard_time": 1741192515,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 323384,
@@ -123,12 +131,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 188866,
-      "num": 194865,
-      "word": "哪吒2中的结界兽硬核开麦了",
-      "onboard_time": 1741192515,
-      "rank": 48,
-      "category": "电影"
+      "raw_hot": 188781,
+      "num": 188781,
+      "word": "人大代表称教师对提升学历缺乏动力",
+      "onboard_time": 1741184659,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 188022,
@@ -155,6 +163,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 184649,
+      "num": 184649,
+      "word": "建议允许符合条件的职工办理自愿退休",
+      "onboard_time": 1741176679,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 160761,
+      "num": 85846,
+      "word": "医生建议染发烫发一年不要超过两次",
+      "onboard_time": 1741191017,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 145466,
       "num": 109854,
       "word": "杭州姑娘退税4190元惊呼巨款",
@@ -171,14 +195,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 141782,
-      "num": 141782,
-      "word": "人大代表称教师对提升学历缺乏动力",
-      "onboard_time": 1741184659,
-      "rank": 17,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 141267,
       "num": 141267,
       "word": "迪丽热巴的眼线是卡纸做的",
@@ -187,12 +203,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 140961,
-      "num": 85846,
-      "word": "医生建议染发烫发一年不要超过两次",
-      "onboard_time": 1741191017,
-      "rank": 34,
-      "category": "健康医疗"
+      "raw_hot": 130814,
+      "num": 112709,
+      "word": "多方回应租客被房东扣9200元押金",
+      "onboard_time": 1741185260,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123329,
@@ -209,6 +225,22 @@
       "onboard_time": 1741192635,
       "rank": 16,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 116818,
+      "num": 116818,
+      "word": "建议为低收入群体免费培训AI技能",
+      "onboard_time": 1741197551,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 109854,
+      "num": 109854,
+      "word": "滤镜 海底捞扯面",
+      "onboard_time": 1741183459,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 104364,
@@ -235,12 +267,12 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 99204,
-      "num": 99204,
-      "word": "滤镜 海底捞扯面",
-      "onboard_time": 1741183459,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 96776,
+      "num": 96776,
+      "word": "建议每车固定里程高速免费",
+      "onboard_time": 1741180219,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 96098,
@@ -275,14 +307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 89050,
-      "num": 89050,
-      "word": "建议允许符合条件的职工办理自愿退休",
-      "onboard_time": 1741176679,
-      "rank": 32,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 88637,
       "num": 88637,
       "word": "周杰伦给权志龙新歌打call",
@@ -297,14 +321,6 @@
       "onboard_time": 1741192815,
       "rank": 33,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 73342,
-      "num": 73342,
-      "word": "建议每车固定里程高速免费",
-      "onboard_time": 1741180219,
-      "rank": 35,
-      "category": "国内时政"
     },
     {
       "raw_hot": 69841,
@@ -323,28 +339,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 64531,
-      "num": 62454,
-      "word": "多方回应租客被房东扣9200元押金",
-      "onboard_time": 1741185260,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 64161,
       "num": 64161,
       "word": "中学校园里的好朋友在渐渐消失",
       "onboard_time": 1741188678,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 63867,
-      "num": 63867,
-      "word": "建议为低收入群体免费培训AI技能",
-      "onboard_time": 1741197551,
-      "rank": 16,
-      "category": "国内时政"
     },
     {
       "raw_hot": 60556,
@@ -387,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57167,
+      "num": 57167,
+      "word": "难哄男二女二 台湾偶像剧",
+      "onboard_time": 1741163658,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 54315,
       "num": 54315,
       "word": "中国影史首部观影人次超3亿电影",
@@ -401,6 +409,30 @@
       "onboard_time": 1741173919,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 51565,
+      "num": 51021,
+      "word": "王大陆登艺人涉案交保金冠军宝座",
+      "onboard_time": 1741203191,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 51042,
+      "num": 90599,
+      "word": "建议提高学校教师教龄津贴标准",
+      "onboard_time": 1741213332,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 51023,
+      "num": 51023,
+      "word": "3月6日两会日程",
+      "onboard_time": 1741216936,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 46487,
@@ -419,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44891,
+      "num": 44891,
+      "word": "易经 宇宙计算程序",
+      "onboard_time": 1741211171,
+      "rank": 34,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 43847,
       "num": 43847,
       "word": "李现瞿友宁或将二搭",
@@ -427,12 +467,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 29111,
-      "num": 29111,
+      "raw_hot": 39485,
+      "num": 43026,
       "word": "靳东回应AI真假靳东",
       "onboard_time": 1741183399,
       "rank": 49,
       "category": "国内时政,艺人"
+    },
+    {
+      "raw_hot": 33499,
+      "num": 43005,
+      "word": "AI给就业带来哪些机遇",
+      "onboard_time": 1741203371,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 28784,
@@ -443,12 +491,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 28677,
-      "num": 28677,
-      "word": "难哄男二女二 台湾偶像剧",
-      "onboard_time": 1741163658,
-      "rank": 46,
-      "category": "剧集"
+      "raw_hot": 26843,
+      "num": 42981,
+      "word": "美方加征关税施压讹诈是恩将仇报",
+      "onboard_time": 1741204511,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 26441,
@@ -475,28 +523,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 25457,
-      "num": 25457,
-      "word": "王大陆登艺人涉案交保金冠军宝座",
-      "onboard_time": 1741203191,
-      "rank": 45,
-      "category": "艺人"
+      "raw_hot": 24427,
+      "num": 42972,
+      "word": "买电车应该缴纳购置税吗",
+      "onboard_time": 1741215854,
+      "rank": 44,
+      "category": "汽车"
     },
     {
-      "raw_hot": 25170,
-      "num": 25170,
-      "word": "AI给就业带来哪些机遇",
-      "onboard_time": 1741203371,
-      "rank": 49,
+      "raw_hot": 23774,
+      "num": 285601,
+      "word": "政府工作报告里的创新关键词",
+      "onboard_time": 1741182140,
+      "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 25094,
-      "num": 25094,
-      "word": "易经 宇宙计算程序",
-      "onboard_time": 1741211171,
-      "rank": 34,
-      "category": "休闲"
     },
     {
       "raw_hot": 20916,
@@ -507,11 +547,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 20393,
-      "num": 25062,
-      "word": "建议提高学校教师教龄津贴标准",
-      "onboard_time": 1741213332,
-      "rank": 49,
+      "raw_hot": 20188,
+      "num": 42943,
+      "word": "过去一年我国发展历程很不平凡",
+      "onboard_time": 1741216875,
+      "rank": 48,
       "category": "国内时政"
     },
     {
@@ -521,6 +561,14 @@
       "onboard_time": 1741197073,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 18754,
+      "num": 42937,
+      "word": "AI带你了解两会高频词都有哪些",
+      "onboard_time": 1741203791,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 18610,
@@ -539,28 +587,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 15672,
-      "num": 25030,
-      "word": "AI带你了解两会高频词都有哪些",
-      "onboard_time": 1741203791,
-      "rank": 18,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 15447,
       "num": 25011,
       "word": "一起去街头问问老百姓最关心啥",
       "onboard_time": 1741205472,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 15085,
-      "num": 24987,
-      "word": "美方加征关税施压讹诈是恩将仇报",
-      "onboard_time": 1741204511,
-      "rank": 27,
-      "category": "国际时政"
     },
     {
       "raw_hot": 14813,
@@ -584,14 +616,6 @@
       "word": "我国机器人技术实现飞跃式发展",
       "onboard_time": 1741205830,
       "rank": 40,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 13479,
-      "num": 135208,
-      "word": "政府工作报告里的创新关键词",
-      "onboard_time": 1741182140,
-      "rank": 2,
       "category": "国内时政"
     },
     {
