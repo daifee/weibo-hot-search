@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1741213362126,
+  "endTime": 1741214418703,
   "band_list": [
     {
       "raw_hot": 13760834,
@@ -5731,6 +5731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 188866,
+      "num": 194865,
+      "word": "哪吒2中的结界兽硬核开麦了",
+      "onboard_time": 1741192515,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 188669,
       "num": 188669,
       "word": "田曦薇粉色猫猫头",
@@ -8761,14 +8769,6 @@
       "onboard_time": 1741013480,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 123504,
-      "num": 194865,
-      "word": "哪吒2中的结界兽硬核开麦了",
-      "onboard_time": 1741192515,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 123307,
@@ -12275,12 +12275,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 25457,
+      "num": 25457,
+      "word": "王大陆登艺人涉案交保金冠军宝座",
+      "onboard_time": 1741203191,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25438,
       "num": 53440,
       "word": "人生就是一场又一场告别",
       "onboard_time": 1740856813,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25170,
+      "num": 25170,
+      "word": "AI给就业带来哪些机遇",
+      "onboard_time": 1741203371,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 25094,
+      "num": 25094,
+      "word": "易经 宇宙计算程序",
+      "onboard_time": 1741211171,
+      "rank": 34,
+      "category": "休闲"
     },
     {
       "raw_hot": 24914,
@@ -12344,14 +12368,6 @@
       "word": "建议治理提灯定损式恶意克扣押金",
       "onboard_time": 1741082721,
       "rank": 29,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 23055,
-      "num": 23055,
-      "word": "AI给就业带来哪些机遇",
-      "onboard_time": 1741203371,
-      "rank": 49,
       "category": "国内时政"
     },
     {
@@ -12443,20 +12459,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 20393,
+      "num": 25062,
+      "word": "建议提高学校教师教龄津贴标准",
+      "onboard_time": 1741213332,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 20341,
       "num": 36939,
       "word": "加油站员工1秒切换灭火模式",
       "onboard_time": 1740950591,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19675,
-      "num": 19675,
-      "word": "易经 宇宙计算程序",
-      "onboard_time": 1741211171,
-      "rank": 34,
-      "category": "休闲"
     },
     {
       "raw_hot": 19663,
@@ -12507,14 +12523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 18542,
-      "num": 19488,
-      "word": "王大陆登艺人涉案交保金冠军宝座",
-      "onboard_time": 1741203191,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 18521,
       "num": 165173,
       "word": "高亭宇不负每一次热爱",
@@ -12532,7 +12540,7 @@
     },
     {
       "raw_hot": 18092,
-      "num": 19485,
+      "num": 25035,
       "word": "政策原来可以这样讲",
       "onboard_time": 1741210510,
       "rank": 32,
@@ -12675,28 +12683,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 15364,
-      "num": 17409,
-      "word": "周也这个长相我预定了",
-      "onboard_time": 1741118290,
-      "rank": 44,
-      "category": "作品衍生,时尚"
+      "raw_hot": 15672,
+      "num": 25030,
+      "word": "AI带你了解两会高频词都有哪些",
+      "onboard_time": 1741203791,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
-      "raw_hot": 15331,
-      "num": 19483,
+      "raw_hot": 15447,
+      "num": 25011,
       "word": "一起去街头问问老百姓最关心啥",
       "onboard_time": 1741205472,
       "rank": 41,
       "category": "国内时政"
     },
     {
-      "raw_hot": 15247,
-      "num": 19482,
-      "word": "AI带你了解两会高频词都有哪些",
-      "onboard_time": 1741203791,
-      "rank": 18,
-      "category": "国内时政"
+      "raw_hot": 15364,
+      "num": 17409,
+      "word": "周也这个长相我预定了",
+      "onboard_time": 1741118290,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 15133,
@@ -12713,6 +12721,14 @@
       "onboard_time": 1740860231,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 15085,
+      "num": 24987,
+      "word": "美方加征关税施压讹诈是恩将仇报",
+      "onboard_time": 1741204511,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 14981,
@@ -12763,12 +12779,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 13803,
-      "num": 19479,
-      "word": "美方加征关税施压讹诈是恩将仇报",
-      "onboard_time": 1741204511,
-      "rank": 27,
-      "category": "国际时政"
+      "raw_hot": 13754,
+      "num": 40626,
+      "word": "人大代表说AI可能比你更懂自己",
+      "onboard_time": 1741199832,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 13738,
@@ -12780,10 +12796,18 @@
     },
     {
       "raw_hot": 13638,
-      "num": 19481,
+      "num": 24953,
       "word": "我国机器人技术实现飞跃式发展",
       "onboard_time": 1741205830,
       "rank": 40,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 13479,
+      "num": 135208,
+      "word": "政府工作报告里的创新关键词",
+      "onboard_time": 1741182140,
+      "rank": 2,
       "category": "国内时政"
     },
     {
@@ -12809,14 +12833,6 @@
       "onboard_time": 1740948671,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13248,
-      "num": 40626,
-      "word": "人大代表说AI可能比你更懂自己",
-      "onboard_time": 1741199832,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 13156,
@@ -12851,14 +12867,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 12177,
-      "num": 19475,
-      "word": "建议提高学校教师教龄津贴标准",
-      "onboard_time": 1741213332,
-      "rank": 49,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 12049,
       "num": 85784,
       "word": "于嘉全明星开场祝福郭艾伦",
@@ -12881,14 +12889,6 @@
       "onboard_time": 1741113552,
       "rank": 14,
       "category": "国内时政,电影"
-    },
-    {
-      "raw_hot": 11808,
-      "num": 97873,
-      "word": "政府工作报告里的创新关键词",
-      "onboard_time": 1741182140,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 11521,
