@@ -1,0 +1,410 @@
+{
+  "runTime": 1741181441825,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1037812,
+        "num": 1166049,
+        "word": "建议允许符合条件的职工办理自愿退休",
+        "onboard_time": 1741176679,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 755887,
+        "num": 755887,
+        "word": "哪吒2再次刷新纪录",
+        "onboard_time": 1741177939,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29778,
+        "num": 723936,
+        "word": "一组图速览2025重点工作",
+        "onboard_time": 1741162698,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 716448,
+        "num": 716448,
+        "word": "白敬亭真的演出了得偿所愿",
+        "onboard_time": 1741176199,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 416074,
+        "num": 416074,
+        "word": "米津玄师羽生结弦合作",
+        "onboard_time": 1741180998,
+        "rank": 4,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 387579,
+        "num": 387579,
+        "word": "夏威夷一火山喷泉式喷发",
+        "onboard_time": 1741177698,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 429434,
+        "num": 383353,
+        "word": "北电复试男艺考生颜值",
+        "onboard_time": 1741171338,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421453,
+        "num": 376587,
+        "word": "滤镜",
+        "onboard_time": 1741169359,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 349075,
+        "num": 349075,
+        "word": "霍启刚谈哪吒2",
+        "onboard_time": 1741176080,
+        "rank": 8,
+        "category": "国内时政,电影"
+      },
+      {
+        "raw_hot": 61121,
+        "num": 347983,
+        "word": "霍启刚谈政府工作报告",
+        "onboard_time": 1741180399,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 752241,
+        "num": 331496,
+        "word": "吴尊听到Neinei和Max谈恋爱的反应",
+        "onboard_time": 1741170438,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 743912,
+        "num": 322075,
+        "word": "杨紫说怪不得这两天这么累",
+        "onboard_time": 1741172120,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350258,
+        "num": 314867,
+        "word": "迪丽热巴的眼线是卡纸做的",
+        "onboard_time": 1741172358,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311847,
+        "num": 311847,
+        "word": "冰唐橙亲上了",
+        "onboard_time": 1741175719,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258350,
+        "num": 258350,
+        "word": "泽连斯基称对白宫争吵感到遗憾",
+        "onboard_time": 1741177098,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 265714,
+        "num": 248239,
+        "word": "爱你",
+        "onboard_time": 1741175299,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167024,
+        "num": 208995,
+        "word": "似锦第13集手伸不进屏幕的心碎",
+        "onboard_time": 1741177397,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207475,
+        "num": 207475,
+        "word": "建议每车固定里程高速免费",
+        "onboard_time": 1741180219,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 61036,
+        "num": 206825,
+        "word": "人大代表建议严打坑老骗局",
+        "onboard_time": 1741181119,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 37983,
+        "num": 206005,
+        "word": "建议规范盲盒类产品经营",
+        "onboard_time": 1741180758,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 568086,
+        "num": 205027,
+        "word": "婚都没结过结什么账",
+        "onboard_time": 1741176679,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217889,
+        "num": 204206,
+        "word": "政府工作报告",
+        "onboard_time": 1741137138,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 497719,
+        "num": 203431,
+        "word": "喝咖啡与不喝咖啡身体的差距",
+        "onboard_time": 1741172179,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 455249,
+        "num": 202879,
+        "word": "杭州姑娘退税4190元惊呼巨款",
+        "onboard_time": 1741176978,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 382188,
+        "num": 202119,
+        "word": "王大陆笑着离开地检署",
+        "onboard_time": 1741152139,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376277,
+        "num": 201306,
+        "word": "美滞留太空宇航员婉拒马斯克",
+        "onboard_time": 1741180458,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 282971,
+        "num": 200734,
+        "word": "难哄男二女二 台湾偶像剧",
+        "onboard_time": 1741163658,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199967,
+        "num": 199967,
+        "word": "当你不停运动七个月后",
+        "onboard_time": 1741165939,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 154061,
+        "num": 194221,
+        "word": "北上",
+        "onboard_time": 1741177578,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97311,
+        "num": 190268,
+        "word": "当年轻人爱上中国非遗",
+        "onboard_time": 1741178418,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189733,
+        "num": 189733,
+        "word": "建议农民养老金与务农年限挂钩",
+        "onboard_time": 1741179138,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 187354,
+        "num": 187354,
+        "word": "建议破除就业唯学历论",
+        "onboard_time": 1741165639,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 170942,
+        "num": 170942,
+        "word": "女子染发10多年最终选择与白发和解",
+        "onboard_time": 1741155319,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142809,
+        "num": 164673,
+        "word": "哪吒2",
+        "onboard_time": 1741180280,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164459,
+        "num": 164459,
+        "word": "护士用留置针扎耳洞",
+        "onboard_time": 1741161679,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148678,
+        "num": 148678,
+        "word": "红绿灯的黄",
+        "onboard_time": 1741160480,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 147099,
+        "num": 147099,
+        "word": "近十年iPhone在华出货量",
+        "onboard_time": 1741179438,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 135120,
+        "num": 135120,
+        "word": "这7类人容易提前长白发",
+        "onboard_time": 1741173919,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 132749,
+        "num": 132749,
+        "word": "Angelababy腰身比",
+        "onboard_time": 1741167859,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 129597,
+        "num": 129597,
+        "word": "鞠婧祎起诉丝芭将开庭",
+        "onboard_time": 1741143679,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116333,
+        "num": 116333,
+        "word": "建议中小学每天2小时体育活动时间",
+        "onboard_time": 1741163538,
+        "rank": 40,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 114077,
+        "num": 114077,
+        "word": "这嵌入式拥抱太萌了",
+        "onboard_time": 1741178958,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107926,
+        "num": 107926,
+        "word": "吴磊气血充足的帅",
+        "onboard_time": 1741171757,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107033,
+        "num": 107033,
+        "word": "欧豪演出了心动不自知",
+        "onboard_time": 1741174758,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99738,
+        "num": 99738,
+        "word": "李兰迪你看我几分像从前",
+        "onboard_time": 1741174999,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94837,
+        "num": 94837,
+        "word": "方媛碎花长裙看秀look",
+        "onboard_time": 1741174698,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 90247,
+        "num": 90247,
+        "word": "徐若晗去见喜欢的人要用跑的",
+        "onboard_time": 1741181359,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87268,
+        "num": 87268,
+        "word": "建议适当放开卵巢组织及卵子冻存",
+        "onboard_time": 1741172717,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 84768,
+        "num": 84768,
+        "word": "夏凤华好哄",
+        "onboard_time": 1741181419,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84765,
+        "num": 84765,
+        "word": "静态焦虑",
+        "onboard_time": 1741169838,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#十四届全国人大三次会议开幕#"
+    }
+  }
+}
