@@ -1,0 +1,410 @@
+{
+  "runTime": 1741139221734,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1080920,
+        "num": 1172947,
+        "word": "人大会议开幕会",
+        "onboard_time": 1741136240,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 574458,
+        "num": 574458,
+        "word": "雷军率先走上代表通道",
+        "onboard_time": 1741137378,
+        "rank": 1,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 51437,
+        "num": 423810,
+        "word": "这场发布会干货满满一文速览",
+        "onboard_time": 1741096521,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 769057,
+        "num": 370220,
+        "word": "微信再次瘦身",
+        "onboard_time": 1741133237,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 316236,
+        "num": 316236,
+        "word": "政府工作报告",
+        "onboard_time": 1741137138,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 275367,
+        "num": 275367,
+        "word": "2024年GDP增长5%",
+        "onboard_time": 1741138159,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 130544,
+        "num": 275260,
+        "word": "2025年GDP增长预期目标为5%左右",
+        "onboard_time": 1741138218,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 52805,
+        "num": 274483,
+        "word": "3000亿元支持消费品以旧换新",
+        "onboard_time": 1741138698,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 44479,
+        "num": 273612,
+        "word": "我国发展没有闯不过的难关",
+        "onboard_time": 1741138097,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 112540,
+        "num": 272991,
+        "word": "2025年赤字率拟按4%左右安排",
+        "onboard_time": 1741138398,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 301502,
+        "num": 272247,
+        "word": "DeepSeek等成两会热点",
+        "onboard_time": 1741072397,
+        "rank": 10,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 1677722,
+        "num": 271639,
+        "word": "网红猫一杯被起诉",
+        "onboard_time": 1741133541,
+        "rank": 11,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 864154,
+        "num": 271386,
+        "word": "浪姐6一公淘汰",
+        "onboard_time": 1741131678,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 593987,
+        "num": 270893,
+        "word": "女子盗录哪吒2浏览量超35万被罚1.5万",
+        "onboard_time": 1741130356,
+        "rank": 13,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 319997,
+        "num": 270060,
+        "word": "金龟子说别再让她换发型了",
+        "onboard_time": 1741134140,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 481425,
+        "num": 269654,
+        "word": "泽连斯基准备在特朗普领导下实现和平",
+        "onboard_time": 1741134260,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 362389,
+        "num": 269093,
+        "word": "全圆佑4月3日入伍",
+        "onboard_time": 1741137797,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170514,
+        "num": 268162,
+        "word": "李昀锐奢牌待遇",
+        "onboard_time": 1741138039,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 81279,
+        "num": 267429,
+        "word": "逐步推行免费学前教育",
+        "onboard_time": 1741138818,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 158882,
+        "num": 266689,
+        "word": "2024中国发展成绩单",
+        "onboard_time": 1741137499,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 497238,
+        "num": 266128,
+        "word": "82岁老人写在烟盒上的建议获采纳",
+        "onboard_time": 1741096101,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 360783,
+        "num": 265737,
+        "word": "雷军回应不锈钢纸杯卖爆",
+        "onboard_time": 1741090759,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 352544,
+        "num": 265289,
+        "word": "关注年轻人不想生问题",
+        "onboard_time": 1741133901,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 339783,
+        "num": 264337,
+        "word": "埃及导游称埃及没有免费的东西",
+        "onboard_time": 1741131918,
+        "rank": 23,
+        "category": "海外新闻,旅游"
+      },
+      {
+        "raw_hot": 139168,
+        "num": 263647,
+        "word": "嘘国王在冬眠",
+        "onboard_time": 1741103118,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 333074,
+        "num": 263259,
+        "word": "桃花坞5阵容",
+        "onboard_time": 1741134859,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306268,
+        "num": 262590,
+        "word": "加拿大宣布报复美国的措施",
+        "onboard_time": 1741137378,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 262236,
+        "num": 262236,
+        "word": "建议每周上班不超44小时",
+        "onboard_time": 1741093640,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 259408,
+        "num": 259408,
+        "word": "你根本没有意识到你有多么年轻",
+        "onboard_time": 1741138278,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235318,
+        "num": 235318,
+        "word": "才发现惊蛰与桃花的适配度这么高",
+        "onboard_time": 1741104259,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215998,
+        "num": 230181,
+        "word": "滤镜三部现偶开分最高",
+        "onboard_time": 1741101082,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229555,
+        "num": 229555,
+        "word": "赵露思恋人复拍",
+        "onboard_time": 1741130416,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225334,
+        "num": 225334,
+        "word": "惊蛰",
+        "onboard_time": 1741130296,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42782,
+        "num": 220783,
+        "word": "支持人工智能大模型广泛应用",
+        "onboard_time": 1741139058,
+        "rank": 33,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 220597,
+        "num": 220597,
+        "word": "马斯克赞同美国退出北约联合国",
+        "onboard_time": 1741132157,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 220219,
+        "num": 220219,
+        "word": "3月5日16时7分惊蛰",
+        "onboard_time": 1741110613,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213670,
+        "num": 213670,
+        "word": "2024年进的步伐坚实有力",
+        "onboard_time": 1741138758,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 187481,
+        "num": 187481,
+        "word": "太内向了饭被吃了也不吱声",
+        "onboard_time": 1741131798,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182070,
+        "num": 182070,
+        "word": "何老师的含金量永远都在上升",
+        "onboard_time": 1741093760,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 180306,
+        "num": 180306,
+        "word": "医生提醒单纯疱疹一旦感染终身携带",
+        "onboard_time": 1741137018,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178901,
+        "num": 178901,
+        "word": "雷军代表通道发言",
+        "onboard_time": 1741135520,
+        "rank": 40,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 170457,
+        "num": 170457,
+        "word": "曝王大陆涉嫌杀人未遂移送侦办",
+        "onboard_time": 1741077081,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162253,
+        "num": 162253,
+        "word": "杨紫回应舞蹈走红",
+        "onboard_time": 1741101261,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156205,
+        "num": 156205,
+        "word": "有一种生机勃勃叫惊蛰",
+        "onboard_time": 1741137437,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152568,
+        "num": 152568,
+        "word": "iPad11售价2999元起",
+        "onboard_time": 1741103179,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 150036,
+        "num": 150036,
+        "word": "雷军谈科技创新引领新质生产力发展",
+        "onboard_time": 1741136300,
+        "rank": 45,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 147756,
+        "num": 147756,
+        "word": "昨夜金价大涨",
+        "onboard_time": 1741129935,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 64529,
+        "num": 143751,
+        "word": "吴梦洁当选最有价值球员",
+        "onboard_time": 1741135939,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107346,
+        "num": 143007,
+        "word": "于正跟许凯共度的第九个生日",
+        "onboard_time": 1741134201,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97753,
+        "num": 142733,
+        "word": "难哄爷爷戏份",
+        "onboard_time": 1741098922,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}
