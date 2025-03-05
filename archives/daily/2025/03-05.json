@@ -1,6 +1,6 @@
 {
   "startTime": 1741105825822,
-  "endTime": 1741171372761,
+  "endTime": 1741173616937,
   "band_list": [
     {
       "raw_hot": 1895236,
@@ -187,6 +187,14 @@
       "category": "国内时政,互联网"
     },
     {
+      "raw_hot": 827646,
+      "num": 228002,
+      "word": "北电复试男艺考生颜值",
+      "onboard_time": 1741171338,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 761411,
       "num": 761411,
       "word": "谁说中国人不能制定国际标准",
@@ -243,6 +251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 688223,
+      "num": 196688,
+      "word": "喝咖啡与不喝咖啡身体的差距",
+      "onboard_time": 1741172179,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 678461,
       "num": 678461,
       "word": "鞠婧祎起诉丝芭将开庭",
@@ -265,6 +281,14 @@
       "onboard_time": 1741156998,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 658707,
+      "num": 227779,
+      "word": "杨紫说怪不得这两天这么累",
+      "onboard_time": 1741172120,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 658048,
@@ -297,6 +321,14 @@
       "onboard_time": 1741139359,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 630148,
+      "num": 227675,
+      "word": "向佐虾系男友身材",
+      "onboard_time": 1741170559,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 621489,
@@ -441,6 +473,14 @@
       "onboard_time": 1741144279,
       "rank": 9,
       "category": "国内时政,艺人"
+    },
+    {
+      "raw_hot": 457936,
+      "num": 174952,
+      "word": "吴尊听到Neinei和Max谈恋爱的反应",
+      "onboard_time": 1741170438,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 452980,
@@ -611,14 +651,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 353340,
-      "num": 174952,
-      "word": "吴尊听到Neinei和Max谈恋爱的反应",
-      "onboard_time": 1741170438,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 352544,
       "num": 282225,
       "word": "关注年轻人不想生问题",
@@ -699,6 +731,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 308129,
+      "num": 227435,
+      "word": "静态焦虑",
+      "onboard_time": 1741169838,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 307152,
+      "num": 227104,
+      "word": "吴磊气血充足的帅",
+      "onboard_time": 1741171757,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 306268,
       "num": 268917,
       "word": "加拿大宣布报复美国的措施",
@@ -715,12 +763,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 304702,
+      "num": 267245,
+      "word": "第五人格",
+      "onboard_time": 1741171878,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 301502,
       "num": 272247,
       "word": "DeepSeek等成两会热点",
       "onboard_time": 1741072397,
       "rank": 9,
       "category": "国内时政,互联网"
+    },
+    {
+      "raw_hot": 296452,
+      "num": 226744,
+      "word": "迪丽热巴的眼线是卡纸做的",
+      "onboard_time": 1741172358,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 294676,
@@ -787,7 +851,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 276940,
+      "raw_hot": 278301,
       "num": 451874,
       "word": "滤镜",
       "onboard_time": 1741086560,
@@ -811,6 +875,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 270940,
+      "num": 226710,
+      "word": "二手炸鸡好小众的词",
+      "onboard_time": 1741169538,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 268954,
       "num": 288761,
       "word": "詹姆斯5万分",
@@ -825,14 +897,6 @@
       "onboard_time": 1741139717,
       "rank": 27,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 268253,
-      "num": 222612,
-      "word": "向佐虾系男友身材",
-      "onboard_time": 1741170559,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 265844,
@@ -1073,14 +1137,6 @@
       "onboard_time": 1741145480,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 207950,
-      "num": 174340,
-      "word": "二手炸鸡好小众的词",
-      "onboard_time": 1741169538,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 207730,
@@ -1435,6 +1491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157741,
+      "num": 157741,
+      "word": "利剑玫瑰要抬了",
+      "onboard_time": 1741173138,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157540,
       "num": 369169,
       "word": "金智秀卢浮宫慈善晚宴",
@@ -1505,6 +1569,14 @@
       "onboard_time": 1741129935,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 147356,
+      "num": 147356,
+      "word": "红绿灯的黄抖音已断更5个月",
+      "onboard_time": 1741170618,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 147334,
@@ -1585,6 +1657,14 @@
       "onboard_time": 1741159639,
       "rank": 29,
       "category": "国内时政,教育"
+    },
+    {
+      "raw_hot": 139174,
+      "num": 174537,
+      "word": "米卡演唱会送黄金",
+      "onboard_time": 1741170797,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 138275,
@@ -1779,6 +1859,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 116562,
+      "num": 148796,
+      "word": "祁煜元宇宙世界",
+      "onboard_time": 1741173438,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 116011,
       "num": 116011,
       "word": "石头参加北电艺考",
@@ -1811,14 +1899,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 114102,
-      "num": 174537,
-      "word": "米卡演唱会送黄金",
-      "onboard_time": 1741170797,
-      "rank": 29,
-      "category": "演出"
-    },
-    {
       "raw_hot": 114070,
       "num": 114070,
       "word": "肖战今天有点太大方了",
@@ -1840,6 +1920,14 @@
       "word": "MC梦说SM登门道歉",
       "onboard_time": 1741153279,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 112103,
+      "num": 107927,
+      "word": "陈冠希为女儿庆祝8岁生日",
+      "onboard_time": 1741173078,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -1881,14 +1969,6 @@
       "onboard_time": 1741099401,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 108151,
-      "num": 108151,
-      "word": "静态焦虑",
-      "onboard_time": 1741169838,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 108108,
@@ -2051,6 +2131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94624,
+      "num": 150323,
+      "word": "建议适当放开卵巢组织及卵子冻存",
+      "onboard_time": 1741172717,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 94089,
       "num": 94089,
       "word": "血观音 神作",
@@ -2075,11 +2163,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 91267,
-      "num": 91267,
-      "word": "北电复试男艺考生颜值",
-      "onboard_time": 1741171338,
-      "rank": 47,
+      "raw_hot": 91252,
+      "num": 91252,
+      "word": "CLOSEYOUREYES官宣出道",
+      "onboard_time": 1741173379,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -2137,6 +2225,14 @@
       "onboard_time": 1741116430,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 81826,
+      "num": 88438,
+      "word": "迪丽热巴将亮相云南迪奥品牌大秀",
+      "onboard_time": 1741172419,
+      "rank": 48,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 78819,
@@ -2203,6 +2299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 72651,
+      "num": 228381,
+      "word": "特朗普说泽连斯基已准备重返谈判桌",
+      "onboard_time": 1741172839,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 72435,
       "num": 276121,
       "word": "致敬了不起的你们",
@@ -2259,6 +2363,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 66280,
+      "num": 87959,
+      "word": "詹姆斯跑赢了时间击碎了法则",
+      "onboard_time": 1741171938,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64529,
       "num": 143751,
       "word": "吴梦洁当选最有价值球员",
@@ -2308,7 +2420,7 @@
     },
     {
       "raw_hot": 60015,
-      "num": 175795,
+      "num": 198452,
       "word": "红绿灯的黄3个月掉粉27万",
       "onboard_time": 1741170797,
       "rank": 19,
@@ -2553,6 +2665,14 @@
       "onboard_time": 1741130416,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 17542,
+      "num": 137660,
+      "word": "电饭锅焖的番茄土豆牛肉",
+      "onboard_time": 1741173558,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 17136,

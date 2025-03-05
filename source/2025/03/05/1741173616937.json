@@ -1,0 +1,410 @@
+{
+  "runTime": 1741173616937,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 520498,
+        "num": 1083279,
+        "word": "建议破除就业唯学历论",
+        "onboard_time": 1741165639,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 268752,
+        "num": 268752,
+        "word": "建议中小学每天2小时体育活动时间",
+        "onboard_time": 1741163538,
+        "rank": 1,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 83187,
+        "num": 267323,
+        "word": "政府工作报告里的KPI",
+        "onboard_time": 1741163538,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 304702,
+        "num": 267245,
+        "word": "第五人格",
+        "onboard_time": 1741171878,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 278301,
+        "num": 267188,
+        "word": "滤镜",
+        "onboard_time": 1741169359,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267023,
+        "num": 267023,
+        "word": "记者为了采访雷军有多努力",
+        "onboard_time": 1741159220,
+        "rank": 5,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 235932,
+        "num": 235932,
+        "word": "发放育儿补贴",
+        "onboard_time": 1741140678,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 228702,
+        "num": 228702,
+        "word": "政府工作报告",
+        "onboard_time": 1741137138,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 163669,
+        "num": 228686,
+        "word": "建议孕产服务免费",
+        "onboard_time": 1741157479,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72651,
+        "num": 228381,
+        "word": "特朗普说泽连斯基已准备重返谈判桌",
+        "onboard_time": 1741172839,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 827646,
+        "num": 228002,
+        "word": "北电复试男艺考生颜值",
+        "onboard_time": 1741171338,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 658707,
+        "num": 227779,
+        "word": "杨紫说怪不得这两天这么累",
+        "onboard_time": 1741172120,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 630148,
+        "num": 227675,
+        "word": "向佐虾系男友身材",
+        "onboard_time": 1741170559,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308129,
+        "num": 227435,
+        "word": "静态焦虑",
+        "onboard_time": 1741169838,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 307152,
+        "num": 227104,
+        "word": "吴磊气血充足的帅",
+        "onboard_time": 1741171757,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296452,
+        "num": 226744,
+        "word": "迪丽热巴的眼线是卡纸做的",
+        "onboard_time": 1741172358,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270940,
+        "num": 226710,
+        "word": "二手炸鸡好小众的词",
+        "onboard_time": 1741169538,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226469,
+        "num": 226469,
+        "word": "杨紫李祯现在要先安心制墨",
+        "onboard_time": 1741169179,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206148,
+        "num": 206148,
+        "word": "李羲承进行曲",
+        "onboard_time": 1741165577,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 49287,
+        "num": 198452,
+        "word": "红绿灯的黄3个月掉粉27万",
+        "onboard_time": 1741170797,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 688223,
+        "num": 196688,
+        "word": "喝咖啡与不喝咖啡身体的差距",
+        "onboard_time": 1741172179,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 643538,
+        "num": 186885,
+        "word": "难哄男二女二 台湾偶像剧",
+        "onboard_time": 1741163658,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 473048,
+        "num": 174343,
+        "word": "红绿灯的黄",
+        "onboard_time": 1741160480,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 461133,
+        "num": 167667,
+        "word": "王大陆笑着离开地检署",
+        "onboard_time": 1741152139,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 457936,
+        "num": 162839,
+        "word": "吴尊听到Neinei和Max谈恋爱的反应",
+        "onboard_time": 1741170438,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157741,
+        "num": 157741,
+        "word": "利剑玫瑰要抬了",
+        "onboard_time": 1741173138,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 338382,
+        "num": 157396,
+        "word": "曝上村谦信涉嫌性骚扰被捕",
+        "onboard_time": 1741168580,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268060,
+        "num": 155270,
+        "word": "虞书欣为了拍右脸无所不用其极",
+        "onboard_time": 1741159220,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260539,
+        "num": 152202,
+        "word": "女子染发10多年最终选择与白发和解",
+        "onboard_time": 1741155319,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94624,
+        "num": 150323,
+        "word": "建议适当放开卵巢组织及卵子冻存",
+        "onboard_time": 1741172717,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 116562,
+        "num": 148796,
+        "word": "祁煜元宇宙世界",
+        "onboard_time": 1741173438,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147356,
+        "num": 147356,
+        "word": "红绿灯的黄抖音已断更5个月",
+        "onboard_time": 1741170618,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 229688,
+        "num": 145441,
+        "word": "护士用留置针扎耳洞",
+        "onboard_time": 1741161679,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203364,
+        "num": 143506,
+        "word": "当你不停运动七个月后",
+        "onboard_time": 1741165939,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 139174,
+        "num": 139174,
+        "word": "米卡演唱会送黄金",
+        "onboard_time": 1741170797,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 185401,
+        "num": 138892,
+        "word": "Angelababy腰身比",
+        "onboard_time": 1741167859,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 138547,
+        "num": 138547,
+        "word": "大二女学霸课余打3份工1年攒5万",
+        "onboard_time": 1741154179,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142214,
+        "num": 138252,
+        "word": "鞠婧祎起诉丝芭将开庭",
+        "onboard_time": 1741143679,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140281,
+        "num": 138047,
+        "word": "白鹿给王星越送花庆生",
+        "onboard_time": 1741164919,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17542,
+        "num": 137660,
+        "word": "电饭锅焖的番茄土豆牛肉",
+        "onboard_time": 1741173558,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 137556,
+        "num": 137556,
+        "word": "方大同录音",
+        "onboard_time": 1741149261,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136734,
+        "num": 136734,
+        "word": "痛经女性经期最好少吃甜食",
+        "onboard_time": 1741155617,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108313,
+        "num": 108313,
+        "word": "雷军称去年每卖七部手机就有一部小米",
+        "onboard_time": 1741146620,
+        "rank": 42,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 112103,
+        "num": 107927,
+        "word": "陈冠希为女儿庆祝8岁生日",
+        "onboard_time": 1741173078,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105107,
+        "num": 105107,
+        "word": "娜扎 TF",
+        "onboard_time": 1741168219,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 91765,
+        "num": 91765,
+        "word": "建议未来十年城乡基础养老金涨一倍",
+        "onboard_time": 1741168699,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 91252,
+        "num": 91252,
+        "word": "CLOSEYOUREYES官宣出道",
+        "onboard_time": 1741173379,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89778,
+        "num": 89778,
+        "word": "肖战日媒中国电视剧演员人气榜登顶",
+        "onboard_time": 1741168399,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81826,
+        "num": 88438,
+        "word": "迪丽热巴将亮相云南迪奥品牌大秀",
+        "onboard_time": 1741172419,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 66280,
+        "num": 87959,
+        "word": "詹姆斯跑赢了时间击碎了法则",
+        "onboard_time": 1741171938,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记的两会之喻#"
+    }
+  }
+}

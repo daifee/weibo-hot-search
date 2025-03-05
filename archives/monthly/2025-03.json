@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741171372761,
+  "endTime": 1741173616937,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1203,6 +1203,14 @@
       "category": "国内时政,互联网"
     },
     {
+      "raw_hot": 827646,
+      "num": 228002,
+      "word": "北电复试男艺考生颜值",
+      "onboard_time": 1741171338,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 827306,
       "num": 827306,
       "word": "杨妞花点燃6000米鞭炮祭拜父母",
@@ -1507,6 +1515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 688223,
+      "num": 196688,
+      "word": "喝咖啡与不喝咖啡身体的差距",
+      "onboard_time": 1741172179,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 688041,
       "num": 774654,
       "word": "辛雨锡发肖战早期简历",
@@ -1601,6 +1617,14 @@
       "onboard_time": 1741156998,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 658707,
+      "num": 227779,
+      "word": "杨紫说怪不得这两天这么累",
+      "onboard_time": 1741172120,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 658048,
@@ -1737,6 +1761,14 @@
       "onboard_time": 1740884059,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 630148,
+      "num": 227675,
+      "word": "向佐虾系男友身材",
+      "onboard_time": 1741170559,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 627685,
@@ -2707,6 +2739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 457936,
+      "num": 174952,
+      "word": "吴尊听到Neinei和Max谈恋爱的反应",
+      "onboard_time": 1741170438,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 452980,
       "num": 184418,
       "word": "DIOR大秀入场待遇",
@@ -3467,14 +3507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 353340,
-      "num": 174952,
-      "word": "吴尊听到Neinei和Max谈恋爱的反应",
-      "onboard_time": 1741170438,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 352928,
       "num": 352928,
       "word": "章若楠我承认之前对你的声音大了点",
@@ -3979,11 +4011,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 308129,
+      "num": 227435,
+      "word": "静态焦虑",
+      "onboard_time": 1741169838,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 307371,
       "num": 264175,
       "word": "文泰一拘捕令被驳回",
       "onboard_time": 1741072577,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 307152,
+      "num": 227104,
+      "word": "吴磊气血充足的帅",
+      "onboard_time": 1741171757,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -4025,6 +4073,14 @@
       "onboard_time": 1740895940,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 304702,
+      "num": 267245,
+      "word": "第五人格",
+      "onboard_time": 1740802819,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 303979,
@@ -4145,6 +4201,14 @@
       "onboard_time": 1741101141,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 296452,
+      "num": 226744,
+      "word": "迪丽热巴的眼线是卡纸做的",
+      "onboard_time": 1741172358,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 295965,
@@ -4467,6 +4531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 278301,
+      "num": 451874,
+      "word": "滤镜",
+      "onboard_time": 1740798738,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 278185,
       "num": 278185,
       "word": "王楚钦央视体测画面好笑程度",
@@ -4481,14 +4553,6 @@
       "onboard_time": 1740801137,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 276940,
-      "num": 451874,
-      "word": "滤镜",
-      "onboard_time": 1740798738,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 276546,
@@ -4577,6 +4641,14 @@
       "onboard_time": 1741141938,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 270940,
+      "num": 226710,
+      "word": "二手炸鸡好小众的词",
+      "onboard_time": 1741169538,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 270295,
@@ -4689,14 +4761,6 @@
       "onboard_time": 1741139717,
       "rank": 27,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 268253,
-      "num": 222612,
-      "word": "向佐虾系男友身材",
-      "onboard_time": 1741170559,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 267809,
@@ -4849,14 +4913,6 @@
       "onboard_time": 1740879497,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 260135,
-      "num": 260135,
-      "word": "第五人格",
-      "onboard_time": 1740802819,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 259277,
@@ -6017,14 +6073,6 @@
       "onboard_time": 1740837204,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 207950,
-      "num": 174340,
-      "word": "二手炸鸡好小众的词",
-      "onboard_time": 1741169538,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 207889,
@@ -8379,6 +8427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157741,
+      "num": 157741,
+      "word": "利剑玫瑰要抬了",
+      "onboard_time": 1741173138,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157670,
       "num": 157670,
       "word": "菜刀哥曾在暴雨中劈车勇救祖孙3人",
@@ -9035,6 +9091,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 147356,
+      "num": 147356,
+      "word": "红绿灯的黄抖音已断更5个月",
+      "onboard_time": 1741170618,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 147334,
       "num": 272991,
       "word": "2025年赤字率拟按4%左右安排",
@@ -9553,6 +9617,14 @@
       "onboard_time": 1741159639,
       "rank": 29,
       "category": "国内时政,教育"
+    },
+    {
+      "raw_hot": 139174,
+      "num": 174537,
+      "word": "米卡演唱会送黄金",
+      "onboard_time": 1741170797,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 139140,
@@ -10779,6 +10851,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 116562,
+      "num": 148796,
+      "word": "祁煜元宇宙世界",
+      "onboard_time": 1741173438,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 116290,
       "num": 261033,
       "word": "北约秘书长说泽连斯基得跟美国和好",
@@ -10865,14 +10945,6 @@
       "onboard_time": 1740908061,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 114102,
-      "num": 174537,
-      "word": "米卡演唱会送黄金",
-      "onboard_time": 1741170797,
-      "rank": 29,
-      "category": "演出"
     },
     {
       "raw_hot": 114101,
@@ -10977,6 +11049,14 @@
       "onboard_time": 1740904158,
       "rank": 9,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 112103,
+      "num": 107927,
+      "word": "陈冠希为女儿庆祝8岁生日",
+      "onboard_time": 1741173078,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 111807,
@@ -11129,14 +11209,6 @@
       "onboard_time": 1741068137,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 108151,
-      "num": 108151,
-      "word": "静态焦虑",
-      "onboard_time": 1741169838,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 108108,
@@ -11931,6 +12003,14 @@
       "category": "国内时政,互联网"
     },
     {
+      "raw_hot": 94624,
+      "num": 150323,
+      "word": "建议适当放开卵巢组织及卵子冻存",
+      "onboard_time": 1741172717,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 94280,
       "num": 197360,
       "word": "以色列称已阻止人道物资进入加沙",
@@ -12035,11 +12115,11 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 91267,
-      "num": 91267,
-      "word": "北电复试男艺考生颜值",
-      "onboard_time": 1741171338,
-      "rank": 47,
+      "raw_hot": 91252,
+      "num": 91252,
+      "word": "CLOSEYOUREYES官宣出道",
+      "onboard_time": 1741173379,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -12379,6 +12459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81826,
+      "num": 88438,
+      "word": "迪丽热巴将亮相云南迪奥品牌大秀",
+      "onboard_time": 1741172419,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 81602,
       "num": 230661,
       "word": "建议扩大冻卵技术适用人群",
@@ -12643,6 +12731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72651,
+      "num": 228381,
+      "word": "特朗普说泽连斯基已准备重返谈判桌",
+      "onboard_time": 1741172839,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 72539,
       "num": 196215,
       "word": "路易吉在狱中收到大量粉丝来信",
@@ -12875,6 +12971,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 66280,
+      "num": 87959,
+      "word": "詹姆斯跑赢了时间击碎了法则",
+      "onboard_time": 1741171938,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65872,
       "num": 202374,
       "word": "二月二龙抬头一起接好运",
@@ -13068,7 +13172,7 @@
     },
     {
       "raw_hot": 60015,
-      "num": 175795,
+      "num": 198452,
       "word": "红绿灯的黄3个月掉粉27万",
       "onboard_time": 1741170797,
       "rank": 19,
@@ -14721,6 +14825,14 @@
       "onboard_time": 1741130416,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 17542,
+      "num": 137660,
+      "word": "电饭锅焖的番茄土豆牛肉",
+      "onboard_time": 1741173558,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 17429,
