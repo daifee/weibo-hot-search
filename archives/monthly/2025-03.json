@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741153229422,
+  "endTime": 1741156385350,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -225,6 +225,14 @@
       "onboard_time": 1741137138,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1856586,
+      "num": 425666,
+      "word": "王大陆笑着离开地检署",
+      "onboard_time": 1741152139,
+      "rank": 48,
+      "category": "艺人,电影"
     },
     {
       "raw_hot": 1808545,
@@ -635,6 +643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1148974,
+      "num": 345970,
+      "word": "难哄 魔改",
+      "onboard_time": 1741152499,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1130312,
       "num": 1130312,
       "word": "近60%高中生在县级中学",
@@ -785,6 +801,14 @@
       "onboard_time": 1741146620,
       "rank": 11,
       "category": "国内时政,互联网"
+    },
+    {
+      "raw_hot": 1028009,
+      "num": 404605,
+      "word": "女子染发10多年最终选择与白发和解",
+      "onboard_time": 1741155319,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1006977,
@@ -1643,14 +1667,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 629612,
-      "num": 425666,
-      "word": "王大陆笑着离开地检署",
-      "onboard_time": 1741152139,
-      "rank": 48,
-      "category": "艺人,电影"
-    },
-    {
       "raw_hot": 627685,
       "num": 627685,
       "word": "北上开播",
@@ -2161,6 +2177,14 @@
       "onboard_time": 1741097842,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 537942,
+      "num": 394551,
+      "word": "小孩哥喊话雷军出一款全家出行的车",
+      "onboard_time": 1741151899,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 536256,
@@ -3331,14 +3355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 345970,
-      "num": 345970,
-      "word": "难哄 魔改",
-      "onboard_time": 1741152499,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 345111,
       "num": 319414,
       "word": "李一桐李昀锐 我欲乘风",
@@ -3681,6 +3697,14 @@
       "onboard_time": 1740968479,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 317932,
+      "num": 317932,
+      "word": "孙颖莎短跑成绩接近男选手",
+      "onboard_time": 1741151899,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 315241,
@@ -4249,6 +4273,14 @@
       "onboard_time": 1740904818,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 275915,
+      "num": 275915,
+      "word": "大二女学霸课余打3份工1年攒5万",
+      "onboard_time": 1741154179,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 275516,
@@ -4979,14 +5011,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 234323,
-      "num": 234323,
-      "word": "小孩哥喊话雷军出一款全家出行的车",
-      "onboard_time": 1741151899,
-      "rank": 33,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 234144,
       "num": 219069,
       "word": "易烊千玺背头daddy造型",
@@ -5497,14 +5521,6 @@
       "onboard_time": 1740834263,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 216209,
-      "num": 216209,
-      "word": "孙颖莎短跑成绩接近男选手",
-      "onboard_time": 1741151899,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 215906,
@@ -6211,6 +6227,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 199037,
+      "num": 199037,
+      "word": "李宏毅发型",
+      "onboard_time": 1741153879,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198856,
       "num": 214575,
       "word": "我家那小子收官",
@@ -6795,6 +6819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185383,
+      "num": 226469,
+      "word": "种地吧",
+      "onboard_time": 1740965418,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185240,
       "num": 347954,
       "word": "建议结婚前上婚姻辅导课",
@@ -7131,6 +7163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177174,
+      "num": 177174,
+      "word": "郭艾伦术后发文感谢",
+      "onboard_time": 1741154599,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176967,
       "num": 176967,
       "word": "董明珠称挖人是小偷行为",
@@ -7209,6 +7249,14 @@
       "onboard_time": 1740811308,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175359,
+      "num": 175359,
+      "word": "春天是养肝的最佳季节",
+      "onboard_time": 1741150582,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 175193,
@@ -7892,7 +7940,7 @@
     },
     {
       "raw_hot": 159319,
-      "num": 159319,
+      "num": 223430,
       "word": "杜兰特与太阳主帅发生争执",
       "onboard_time": 1741152319,
       "rank": 40,
@@ -8513,14 +8561,6 @@
       "onboard_time": 1740791419,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 148773,
-      "num": 158881,
-      "word": "春天是养肝的最佳季节",
-      "onboard_time": 1741150582,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 148547,
@@ -10387,6 +10427,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113547,
+      "num": 113547,
+      "word": "雷军反内卷",
+      "onboard_time": 1741153758,
+      "rank": 47,
+      "category": "国内时政,互联网"
+    },
+    {
+      "raw_hot": 113511,
+      "num": 181392,
+      "word": "MC梦说SM登门道歉",
+      "onboard_time": 1741153279,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113407,
       "num": 113407,
       "word": "原来暧昧拉扯比直接谈甜多了",
@@ -10753,6 +10809,14 @@
       "onboard_time": 1740815725,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 105433,
+      "num": 105433,
+      "word": "太阳23分逆转快船",
+      "onboard_time": 1741154119,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 105272,
@@ -11187,14 +11251,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 96124,
-      "num": 112220,
-      "word": "种地吧",
-      "onboard_time": 1740965418,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 95992,
       "num": 95992,
       "word": "二月二你会和理发师过招吗",
@@ -11387,6 +11443,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 91818,
+      "num": 214032,
+      "word": "痛经女性经期最好少吃甜食",
+      "onboard_time": 1741155617,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 91222,
       "num": 91788,
       "word": "马嘉祺 金色旷野",
@@ -11553,6 +11617,14 @@
       "onboard_time": 1740968178,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 86373,
+      "num": 299975,
+      "word": "缅甸领导人访问俄罗斯",
+      "onboard_time": 1741154298,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 86279,
@@ -12123,6 +12195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67711,
+      "num": 177877,
+      "word": "MC梦考虑将公开SM录音",
+      "onboard_time": 1741156280,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 67641,
       "num": 218009,
       "word": "郑钦文印第安维尔斯赛场训练",
@@ -12329,6 +12409,14 @@
       "onboard_time": 1741085421,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 61467,
+      "num": 214088,
+      "word": "我是观众我不同意周雨彤下班",
+      "onboard_time": 1741155918,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 61443,
@@ -14105,6 +14193,14 @@
       "onboard_time": 1740774371,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 14302,
+      "num": 408275,
+      "word": "我们的盛会花开中国",
+      "onboard_time": 1741155918,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 14121,
