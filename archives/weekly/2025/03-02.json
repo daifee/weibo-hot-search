@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1741140499161,
+  "endTime": 1741143490425,
   "band_list": [
     {
       "raw_hot": 13760834,
@@ -129,6 +129,14 @@
       "onboard_time": 1740895580,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1859420,
+      "num": 1859420,
+      "word": "政府工作报告",
+      "onboard_time": 1741137138,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1730704,
@@ -347,14 +355,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 1216936,
-      "num": 1112006,
-      "word": "政府工作报告",
-      "onboard_time": 1741137138,
-      "rank": 4,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 1209703,
       "num": 1209703,
       "word": "中国对美国鸡肉棉花等加征15%关税",
@@ -401,6 +401,14 @@
       "onboard_time": 1741059857,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1139672,
+      "num": 518833,
+      "word": "周总理让C位给东风基地科技人员",
+      "onboard_time": 1741141938,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1119656,
@@ -755,6 +763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 854650,
+      "num": 854650,
+      "word": "发放育儿补贴",
+      "onboard_time": 1741140678,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 845442,
       "num": 754781,
       "word": "美官员称乌团队几乎都哭了",
@@ -1083,6 +1099,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 646901,
+      "num": 396150,
+      "word": "迪奥认领迪丽热巴刘雨昕",
+      "onboard_time": 1741141397,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 641140,
       "num": 641140,
       "word": "大侦探 IP对撞",
@@ -1161,6 +1185,14 @@
       "onboard_time": 1740984259,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 620946,
+      "num": 399165,
+      "word": "嘘国王在冬眠定档",
+      "onboard_time": 1741139359,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 617461,
@@ -1611,14 +1643,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 494487,
-      "num": 399165,
-      "word": "嘘国王在冬眠定档",
-      "onboard_time": 1741139359,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 494416,
       "num": 494416,
       "word": "武汉下雪",
@@ -1697,6 +1721,14 @@
       "onboard_time": 1740908299,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 470776,
+      "num": 470776,
+      "word": "谁说中国人不能制定国际标准",
+      "onboard_time": 1741141158,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 469960,
@@ -1827,6 +1859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 436816,
+      "num": 436816,
+      "word": "落实和优化休假制度",
+      "onboard_time": 1741139537,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 436229,
       "num": 595113,
       "word": "十四届全国人大三次会议议程",
@@ -1905,6 +1945,14 @@
       "onboard_time": 1741093999,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 423449,
+      "num": 423449,
+      "word": "极简版政府工作报告",
+      "onboard_time": 1741140558,
+      "rank": 8,
+      "category": "教育,运动健身"
     },
     {
       "raw_hot": 421634,
@@ -2123,6 +2171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 382731,
+      "num": 382731,
+      "word": "小伙失恋睡不着摆40多天共享单车",
+      "onboard_time": 1741139958,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 382320,
       "num": 382320,
       "word": "逐步推行免费学前教育",
@@ -2153,14 +2209,6 @@
       "onboard_time": 1741013000,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 373328,
-      "num": 373328,
-      "word": "落实和优化休假制度",
-      "onboard_time": 1741139537,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 373283,
@@ -2465,6 +2513,14 @@
       "onboard_time": 1741093640,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 334111,
+      "num": 298846,
+      "word": "余承东出牌了",
+      "onboard_time": 1741141938,
+      "rank": 21,
+      "category": "汽车"
     },
     {
       "raw_hot": 333945,
@@ -2803,6 +2859,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 296586,
+      "num": 397695,
+      "word": "城乡居民基础养老金最低标准提高20元",
+      "onboard_time": 1741140858,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 296512,
       "num": 296512,
       "word": "欧盟宣布8000亿欧元重新武装欧洲计划",
@@ -2939,6 +3003,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 287109,
+      "num": 302341,
+      "word": "雷军谈科技创新引领新质生产力",
+      "onboard_time": 1741137378,
+      "rank": 20,
+      "category": "国内时政,互联网"
+    },
+    {
       "raw_hot": 286834,
       "num": 286834,
       "word": "爸爸第一次道歉惊呆妈妈",
@@ -3049,6 +3121,14 @@
       "onboard_time": 1740994397,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270982,
+      "num": 270982,
+      "word": "2025年政府工作十大任务",
+      "onboard_time": 1741141938,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 270225,
@@ -3251,8 +3331,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 259408,
-      "num": 259408,
+      "raw_hot": 260061,
+      "num": 260061,
       "word": "你根本没有意识到你有多么年轻",
       "onboard_time": 1741138278,
       "rank": 28,
@@ -3899,14 +3979,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 214937,
-      "num": 214937,
-      "word": "小伙失恋睡不着摆40多天共享单车",
-      "onboard_time": 1741139958,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 214829,
       "num": 214829,
       "word": "时代少年团 太原演唱会",
@@ -3929,6 +4001,14 @@
       "onboard_time": 1740914299,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 214246,
+      "num": 214246,
+      "word": "游客逛长隆发现满地动物饼干",
+      "onboard_time": 1741141638,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 213670,
@@ -3985,6 +4065,14 @@
       "onboard_time": 1741093341,
       "rank": 10,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 210183,
+      "num": 423956,
+      "word": "罗小黑战记2",
+      "onboard_time": 1741142777,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 210081,
@@ -4507,6 +4595,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 194203,
+      "num": 310836,
+      "word": "嘘国王在冬眠 雪偶",
+      "onboard_time": 1741142598,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193948,
       "num": 303420,
       "word": "李昀锐奢牌待遇",
@@ -4595,6 +4691,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 189535,
+      "num": 304856,
+      "word": "全圆佑公益兵",
+      "onboard_time": 1741141756,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189440,
       "num": 189440,
       "word": "肖战陌森眼镜升title",
@@ -4665,6 +4769,14 @@
       "onboard_time": 1741131798,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187383,
+      "num": 306997,
+      "word": "浪姐6",
+      "onboard_time": 1741142538,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 187349,
@@ -5009,6 +5121,14 @@
       "onboard_time": 1741009339,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 176860,
+      "num": 176860,
+      "word": "肖战西班牙机场回国路透",
+      "onboard_time": 1741141519,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 176368,
@@ -6691,6 +6811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133282,
+      "num": 357692,
+      "word": "今年综合整治内卷式竞争",
+      "onboard_time": 1741139838,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 133253,
       "num": 133253,
       "word": "鞠婧祎演技获赞",
@@ -6873,6 +7001,14 @@
       "onboard_time": 1741077324,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127827,
+      "num": 392490,
+      "word": "首场部长通道",
+      "onboard_time": 1741143079,
+      "rank": 11,
+      "category": "国内时政"
     },
     {
       "raw_hot": 127780,
@@ -7955,14 +8091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 98801,
-      "num": 357692,
-      "word": "今年综合整治内卷式竞争",
-      "onboard_time": 1741139838,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 98086,
       "num": 98086,
       "word": "留几手说晚上约杨子喝点",
@@ -8097,6 +8225,14 @@
       "onboard_time": 1741086922,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94739,
+      "num": 124212,
+      "word": "虞书欣最近好像有点喜欢上滑雪了",
+      "onboard_time": 1741141756,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 94704,
@@ -9611,6 +9747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35017,
+      "num": 310583,
+      "word": "建议带薪休假纳入企业信用评价",
+      "onboard_time": 1741143138,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34825,
       "num": 142891,
       "word": "这个定海神器有多了不起",
@@ -9857,6 +10001,14 @@
       "onboard_time": 1740856813,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25407,
+      "num": 141349,
+      "word": "十个勤天礼盒爆改痛包",
+      "onboard_time": 1741142059,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 24914,
