@@ -1,6 +1,6 @@
 {
   "startTime": 1741192562065,
-  "endTime": 1741195292571,
+  "endTime": 1741196362418,
   "band_list": [
     {
       "raw_hot": 1052270,
@@ -419,11 +419,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 28784,
+      "num": 28784,
+      "word": "杨紫感谢粉丝厚爱",
+      "onboard_time": 1741195872,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26441,
       "num": 35864,
       "word": "功夫变脸街舞buff叠满了",
       "onboard_time": 1741193773,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26401,
+      "num": 63631,
+      "word": "超40万辆军车是湖北十堰造",
+      "onboard_time": 1741187180,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -435,17 +451,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 20741,
-      "num": 63631,
-      "word": "超40万辆军车是湖北十堰造",
-      "onboard_time": 1741187180,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 14813,
+      "num": 44177,
+      "word": "全国两会看广东",
+      "onboard_time": 1741196172,
+      "rank": 30,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
     {
       "word": "#总书记的两会时间#"
+    },
+    {
+      "word": "#习近平参加江苏代表团审议#"
     }
   ]
 }

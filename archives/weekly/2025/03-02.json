@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1741195292571,
+  "endTime": 1741196362418,
   "band_list": [
     {
       "raw_hot": 13760834,
@@ -12107,6 +12107,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 28784,
+      "num": 28784,
+      "word": "杨紫感谢粉丝厚爱",
+      "onboard_time": 1741195872,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 28708,
       "num": 128169,
       "word": "广东惠州10盅炖汤的夜茶店",
@@ -12633,6 +12641,14 @@
       "onboard_time": 1741116191,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 14813,
+      "num": 44177,
+      "word": "全国两会看广东",
+      "onboard_time": 1741196172,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 14697,
