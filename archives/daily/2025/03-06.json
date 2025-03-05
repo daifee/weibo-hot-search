@@ -1,6 +1,6 @@
 {
   "startTime": 1741192562065,
-  "endTime": 1741207179606,
+  "endTime": 1741209749490,
   "band_list": [
     {
       "raw_hot": 1052270,
@@ -499,20 +499,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 17483,
+      "num": 18766,
+      "word": "AI给就业带来哪些机遇",
+      "onboard_time": 1741203371,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 17432,
       "num": 18806,
       "word": "靳东回应AI真假靳东",
       "onboard_time": 1741183399,
       "rank": 49,
       "category": "国内时政,艺人"
-    },
-    {
-      "raw_hot": 16698,
-      "num": 18766,
-      "word": "AI给就业带来哪些机遇",
-      "onboard_time": 1741203371,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 14813,
@@ -539,19 +539,19 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 13264,
+      "num": 16237,
+      "word": "一起去街头问问老百姓最关心啥",
+      "onboard_time": 1741205472,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 13248,
       "num": 40626,
       "word": "人大代表说AI可能比你更懂自己",
       "onboard_time": 1741199832,
       "rank": 9,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 12949,
-      "num": 16237,
-      "word": "一起去街头问问老百姓最关心啥",
-      "onboard_time": 1741205472,
-      "rank": 41,
       "category": "国内时政"
     },
     {
@@ -564,18 +564,26 @@
     },
     {
       "raw_hot": 12145,
-      "num": 13668,
+      "num": 14975,
       "word": "我国机器人技术实现飞跃式发展",
       "onboard_time": 1741205830,
       "rank": 40,
       "category": "国内时政"
     },
     {
-      "raw_hot": 11262,
+      "raw_hot": 11516,
       "num": 17431,
       "word": "针对创新今年政府有哪些方向和保障",
       "onboard_time": 1741201029,
       "rank": 35,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 11445,
+      "num": 14970,
+      "word": "张天任亮相代表通道",
+      "onboard_time": 1741206550,
+      "rank": 49,
       "category": "国内时政"
     },
     {
@@ -585,6 +593,14 @@
       "onboard_time": 1741201750,
       "rank": 14,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 10783,
+      "num": 15002,
+      "word": "加强儿科老年医学等专业队伍建设",
+      "onboard_time": 1741208951,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 10555,
