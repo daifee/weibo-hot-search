@@ -1,6 +1,6 @@
 {
   "startTime": 1741105825822,
-  "endTime": 1741167567847,
+  "endTime": 1741170338117,
   "band_list": [
     {
       "raw_hot": 1895236,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1450767,
-      "num": 285433,
+      "num": 375327,
       "word": "难哄男二女二 台湾偶像剧",
       "onboard_time": 1741163658,
       "rank": 11,
@@ -75,6 +75,14 @@
       "category": "国内时政,互联网"
     },
     {
+      "raw_hot": 1305385,
+      "num": 234714,
+      "word": "小杨哥大徒弟回应因解约问题送医抢救",
+      "onboard_time": 1741166359,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1172560,
       "num": 479645,
       "word": "被大体老师震撼到了",
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 1103465,
-      "num": 321623,
+      "num": 375917,
       "word": "红绿灯的黄",
       "onboard_time": 1741160480,
       "rank": 10,
@@ -355,12 +363,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 511065,
-      "num": 234714,
-      "word": "小杨哥大徒弟回应因解约问题送医抢救",
-      "onboard_time": 1741166359,
-      "rank": 31,
-      "category": "网红"
+      "raw_hot": 508713,
+      "num": 508713,
+      "word": "建议破除就业唯学历论",
+      "onboard_time": 1741165639,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 505863,
@@ -388,7 +396,7 @@
     },
     {
       "raw_hot": 480044,
-      "num": 270966,
+      "num": 379178,
       "word": "白鹿给王星越送花庆生",
       "onboard_time": 1741164919,
       "rank": 12,
@@ -401,6 +409,14 @@
       "onboard_time": 1741159639,
       "rank": 10,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 473318,
+      "num": 473318,
+      "word": "建议中小学每天2小时体育活动时间",
+      "onboard_time": 1741163538,
+      "rank": 14,
+      "category": "国内时政,教育"
     },
     {
       "raw_hot": 463708,
@@ -425,6 +441,14 @@
       "onboard_time": 1741107076,
       "rank": 10,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 443165,
+      "num": 443165,
+      "word": "杨紫李祯现在要先安心制墨",
+      "onboard_time": 1741169179,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 441469,
@@ -515,6 +539,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 379587,
+      "num": 379587,
+      "word": "李羲承进行曲",
+      "onboard_time": 1741165577,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 377068,
       "num": 303799,
       "word": "王安宇上海",
@@ -564,7 +596,7 @@
     },
     {
       "raw_hot": 355649,
-      "num": 322450,
+      "num": 378039,
       "word": "痛经女性经期最好少吃甜食",
       "onboard_time": 1741155617,
       "rank": 29,
@@ -579,16 +611,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 346070,
-      "num": 346070,
-      "word": "建议破除就业唯学历论",
-      "onboard_time": 1741165639,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 343835,
-      "num": 243659,
+      "num": 341668,
       "word": "当你不停运动七个月后",
       "onboard_time": 1741165939,
       "rank": 26,
@@ -691,14 +715,6 @@
       "category": "体育,美食"
     },
     {
-      "raw_hot": 292728,
-      "num": 308071,
-      "word": "建议中小学每天2小时体育活动时间",
-      "onboard_time": 1741163538,
-      "rank": 14,
-      "category": "国内时政,教育"
-    },
-    {
       "raw_hot": 291845,
       "num": 291845,
       "word": "短剧演员背调",
@@ -713,6 +729,14 @@
       "onboard_time": 1741147702,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 290314,
+      "num": 290314,
+      "word": "曝上村谦信涉嫌性骚扰被捕",
+      "onboard_time": 1741168580,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 287109,
@@ -736,14 +760,6 @@
       "word": "蔡少芬谈与张晋17年婚姻",
       "onboard_time": 1741157180,
       "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 281201,
-      "num": 245673,
-      "word": "李羲承进行曲",
-      "onboard_time": 1741165577,
-      "rank": 17,
       "category": "艺人"
     },
     {
@@ -955,6 +971,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 223220,
+      "num": 223220,
+      "word": "Angelababy腰身比",
+      "onboard_time": 1741167859,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 223148,
       "num": 362372,
       "word": "林一开启内娱拼命式剧宣新赛道",
@@ -1096,6 +1120,14 @@
       "word": "IU朴宝剑新剧发布会",
       "onboard_time": 1741145960,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 197790,
+      "num": 451874,
+      "word": "滤镜",
+      "onboard_time": 1741086560,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -1307,12 +1339,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 167739,
+      "num": 167739,
+      "word": "二手炸鸡好小众的词",
+      "onboard_time": 1741169538,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 165537,
+      "num": 376047,
+      "word": "娜扎 TF",
+      "onboard_time": 1741168219,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 162642,
       "num": 153070,
       "word": "哪吒2登陆新加坡反响热烈",
       "onboard_time": 1741148239,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 161808,
+      "num": 161808,
+      "word": "用Deepseek做韩国色彩测试",
+      "onboard_time": 1741166659,
+      "rank": 47,
+      "category": "互联网,美妆"
     },
     {
       "raw_hot": 159465,
@@ -1483,6 +1539,14 @@
       "category": "国内时政,教育"
     },
     {
+      "raw_hot": 138275,
+      "num": 138275,
+      "word": "一张宣纸价值20克黄金",
+      "onboard_time": 1741165879,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136439,
       "num": 136439,
       "word": "花旗银行误将81万亿美元转给个人",
@@ -1529,14 +1593,6 @@
       "onboard_time": 1741101620,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 133141,
-      "num": 133141,
-      "word": "一张宣纸价值20克黄金",
-      "onboard_time": 1741165879,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 130973,
@@ -1667,20 +1723,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 118510,
-      "num": 118510,
-      "word": "用Deepseek做韩国色彩测试",
-      "onboard_time": 1741166659,
-      "rank": 47,
-      "category": "互联网,美妆"
-    },
-    {
       "raw_hot": 117015,
       "num": 117015,
       "word": "苹果发布M3芯片iPadAir",
       "onboard_time": 1741101082,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 116675,
+      "num": 377015,
+      "word": "肖战日媒中国电视剧演员人气榜登顶",
+      "onboard_time": 1741168399,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 116011,
@@ -1796,7 +1852,7 @@
     },
     {
       "raw_hot": 107472,
-      "num": 414121,
+      "num": 487688,
       "word": "政府工作报告里的KPI",
       "onboard_time": 1741163538,
       "rank": 2,
@@ -1875,6 +1931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103295,
+      "num": 103295,
+      "word": "泰坦甄嬛传",
+      "onboard_time": 1741169058,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 102779,
       "num": 150208,
       "word": "于适巴黎探店路透",
@@ -1889,6 +1953,14 @@
       "onboard_time": 1741159159,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 96859,
+      "num": 185194,
+      "word": "建议将恶性肿瘤筛查早诊纳入医保",
+      "onboard_time": 1741166780,
+      "rank": 29,
+      "category": "国内时政,健康医疗"
     },
     {
       "raw_hot": 95306,
@@ -1923,20 +1995,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 93717,
-      "num": 93717,
-      "word": "滤镜",
-      "onboard_time": 1741086560,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 92251,
       "num": 92251,
       "word": "桑延官宣恋情如同打了胜仗",
       "onboard_time": 1741098262,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 91767,
+      "num": 91767,
+      "word": "静态焦虑",
+      "onboard_time": 1741169838,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 90857,
@@ -2059,12 +2131,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 72749,
+      "num": 376691,
+      "word": "建议未来十年城乡基础养老金涨一倍",
+      "onboard_time": 1741168699,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 72435,
       "num": 276121,
       "word": "致敬了不起的你们",
       "onboard_time": 1741144398,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 71040,
+      "num": 169384,
+      "word": "中国CR450正加紧试验",
+      "onboard_time": 1741165158,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 70906,
+      "num": 378313,
+      "word": "建议拐卖与拐骗二罪合一",
+      "onboard_time": 1741168699,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 70572,
@@ -2187,6 +2283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57257,
+      "num": 168488,
+      "word": "宋茜第32位雷锋精神传播者",
+      "onboard_time": 1741168940,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 57245,
       "num": 290266,
       "word": "中国金龙指数涨1.95%",
@@ -2259,12 +2363,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 40284,
-      "num": 185194,
-      "word": "建议将恶性肿瘤筛查早诊纳入医保",
-      "onboard_time": 1741166780,
+      "raw_hot": 41438,
+      "num": 290348,
+      "word": "美国加征关税利空继续拖累纽约股市",
+      "onboard_time": 1741168998,
       "rank": 29,
-      "category": "国内时政,健康医疗"
+      "category": "国际时政,财经"
     },
     {
       "raw_hot": 38500,
