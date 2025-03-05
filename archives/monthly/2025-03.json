@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741157147104,
+  "endTime": 1741159366554,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1539,6 +1539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 668172,
+      "num": 668172,
+      "word": "政协委员冯远征用DeepSeek写剧本",
+      "onboard_time": 1741156998,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 658048,
       "num": 371706,
       "word": "日本男子打死外甥女藏入水泥10年",
@@ -1979,6 +1987,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 574529,
+      "num": 574529,
+      "word": "大二女学霸课余打3份工1年攒5万",
+      "onboard_time": 1741154179,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 571206,
       "num": 455799,
       "word": "奥斯卡缅怀郑佩佩",
@@ -2289,6 +2305,14 @@
       "onboard_time": 1741101261,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 504133,
+      "num": 504133,
+      "word": "建议孕产服务免费",
+      "onboard_time": 1741157479,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 503778,
@@ -3707,6 +3731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 318188,
+      "num": 318188,
+      "word": "痛经女性经期最好少吃甜食",
+      "onboard_time": 1741155617,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 315241,
       "num": 315241,
       "word": "张杰一直没官宣因为还在升级海报",
@@ -4203,6 +4235,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 283936,
+      "num": 283936,
+      "word": "王者荣耀",
+      "onboard_time": 1741158619,
+      "rank": 12,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 281733,
       "num": 256971,
       "word": "相聚离开 都有时候",
@@ -4233,6 +4273,14 @@
       "onboard_time": 1740751221,
       "rank": 24,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 279690,
+      "num": 279690,
+      "word": "十条措施提振消费",
+      "onboard_time": 1741156879,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 278185,
@@ -4273,14 +4321,6 @@
       "onboard_time": 1740904818,
       "rank": 25,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 275915,
-      "num": 275915,
-      "word": "大二女学霸课余打3份工1年攒5万",
-      "onboard_time": 1741154179,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 275516,
@@ -4416,6 +4456,14 @@
       "word": "宋亚轩生日直播",
       "onboard_time": 1741085359,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 268702,
+      "num": 268702,
+      "word": "杨紫全国巡跳",
+      "onboard_time": 1741157719,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -4947,6 +4995,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 237827,
+      "num": 237827,
+      "word": "李宏毅发型",
+      "onboard_time": 1741153879,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 237574,
       "num": 237574,
       "word": "詹姆斯生涯49999分",
@@ -5116,7 +5172,7 @@
     },
     {
       "raw_hot": 228976,
-      "num": 236666,
+      "num": 236760,
       "word": "生我养我的人在养我生的人",
       "onboard_time": 1741151659,
       "rank": 40,
@@ -5387,14 +5443,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 221099,
-      "num": 200157,
-      "word": "李宏毅发型",
-      "onboard_time": 1741153879,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 220827,
       "num": 220827,
       "word": "爱你 小虐",
@@ -5515,14 +5563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 216813,
-      "num": 216813,
-      "word": "痛经女性经期最好少吃甜食",
-      "onboard_time": 1741155617,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 216676,
       "num": 258572,
       "word": "淘宝 奇迹暖暖",
@@ -5601,6 +5641,14 @@
       "onboard_time": 1740914299,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 214284,
+      "num": 250959,
+      "word": "蔡少芬谈与张晋17年婚姻",
+      "onboard_time": 1741157180,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 214246,
@@ -5800,6 +5848,14 @@
       "word": "是我没见过的18岁的韩庚",
       "onboard_time": 1740820823,
       "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 207730,
+      "num": 264105,
+      "word": "种地吧洗芫根直播",
+      "onboard_time": 1741158318,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -6396,7 +6452,7 @@
     },
     {
       "raw_hot": 195198,
-      "num": 226469,
+      "num": 237621,
       "word": "种地吧",
       "onboard_time": 1740965418,
       "rank": 28,
@@ -7400,6 +7456,14 @@
       "word": "杨紫脏脏包造型",
       "onboard_time": 1741071677,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 172731,
+      "num": 279773,
+      "word": "王安宇上海",
+      "onboard_time": 1741158679,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -9443,6 +9507,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 133700,
+      "num": 237262,
+      "word": "李昀锐说快点拍我露着牙笑的",
+      "onboard_time": 1741158498,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 133605,
       "num": 380225,
       "word": "8600元找的育儿嫂隐瞒幽门阳性",
@@ -9505,6 +9577,14 @@
       "onboard_time": 1741085301,
       "rank": 46,
       "category": "体育,国内时政"
+    },
+    {
+      "raw_hot": 132386,
+      "num": 132386,
+      "word": "虞书欣为了拍右脸无所不用其极",
+      "onboard_time": 1741159220,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 132188,
@@ -9889,6 +9969,14 @@
       "onboard_time": 1740999559,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126235,
+      "num": 236485,
+      "word": "建议尽早实施12年义务教育",
+      "onboard_time": 1741158378,
+      "rank": 29,
+      "category": "国内时政,教育"
     },
     {
       "raw_hot": 126115,
@@ -10531,6 +10619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112292,
+      "num": 112292,
+      "word": "腾讯元宝回应修改涉知识产权协议",
+      "onboard_time": 1741158978,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 112287,
       "num": 112287,
       "word": "主角",
@@ -10577,14 +10673,6 @@
       "onboard_time": 1740993499,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 111096,
-      "num": 200354,
-      "word": "十条措施提振消费",
-      "onboard_time": 1741156879,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 110604,
@@ -10657,6 +10745,14 @@
       "onboard_time": 1740785535,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 109396,
+      "num": 193298,
+      "word": "何苏叶沈惜凡在一起了",
+      "onboard_time": 1741159039,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 109385,
@@ -11371,6 +11467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95109,
+      "num": 121949,
+      "word": "张极跳Lucifer",
+      "onboard_time": 1741157719,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 94802,
       "num": 349629,
       "word": "乘客被针头扎伤南航责任有哪些",
@@ -11609,6 +11713,14 @@
       "onboard_time": 1740878479,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87692,
+      "num": 233197,
+      "word": "记者为了采访雷军有多努力",
+      "onboard_time": 1741159220,
+      "rank": 31,
+      "category": "国内时政,互联网"
     },
     {
       "raw_hot": 87684,
@@ -11865,6 +11977,14 @@
       "onboard_time": 1741080144,
       "rank": 28,
       "category": "国内时政,健康医疗"
+    },
+    {
+      "raw_hot": 80126,
+      "num": 279704,
+      "word": "市场监管总局回应主播恶意炒作",
+      "onboard_time": 1741158738,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 79882,
@@ -12363,6 +12483,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 64531,
+      "num": 237026,
+      "word": "稳住楼市股市首次写进政府工作报告",
+      "onboard_time": 1741159159,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 64529,
       "num": 143751,
       "word": "吴梦洁当选最有价值球员",
@@ -12473,6 +12601,14 @@
       "onboard_time": 1741152679,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 61153,
+      "num": 237485,
+      "word": "海斯被喂成奥尼尔了",
+      "onboard_time": 1741158679,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 60834,
@@ -13017,6 +13153,14 @@
       "onboard_time": 1740790577,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 44131,
+      "num": 619112,
+      "word": "2025中国发展主要预期目标",
+      "onboard_time": 1741144220,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 43653,
@@ -13603,14 +13747,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 27207,
-      "num": 606348,
-      "word": "2025中国发展主要预期目标",
-      "onboard_time": 1741144220,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 27192,
       "num": 197404,
       "word": "重庆马拉松首对同时完赛的盲人夫妻",
@@ -13785,14 +13921,6 @@
       "onboard_time": 1740939613,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 24366,
-      "num": 199778,
-      "word": "政协委员冯远征用DeepSeek写剧本",
-      "onboard_time": 1741156998,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 24283,
