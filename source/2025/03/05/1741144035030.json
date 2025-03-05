@@ -1,0 +1,410 @@
+{
+  "runTime": 1741144035030,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1508124,
+        "num": 1508124,
+        "word": "政府工作报告",
+        "onboard_time": 1741137138,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1106040,
+        "num": 1106040,
+        "word": "发放育儿补贴",
+        "onboard_time": 1741140678,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 35082,
+        "num": 798855,
+        "word": "这场发布会干货满满一文速览",
+        "onboard_time": 1741096521,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1705915,
+        "num": 752528,
+        "word": "周总理让C位给东风基地科技人员",
+        "onboard_time": 1741141938,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 671847,
+        "num": 671847,
+        "word": "谁说中国人不能制定国际标准",
+        "onboard_time": 1741141158,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 486285,
+        "num": 486285,
+        "word": "微信再次瘦身",
+        "onboard_time": 1741133237,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 243974,
+        "num": 453536,
+        "word": "罗小黑战记2",
+        "onboard_time": 1741142777,
+        "rank": 6,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 431248,
+        "num": 431248,
+        "word": "极简版政府工作报告",
+        "onboard_time": 1741140558,
+        "rank": 7,
+        "category": "教育,运动健身"
+      },
+      {
+        "raw_hot": 142767,
+        "num": 421958,
+        "word": "首场部长通道",
+        "onboard_time": 1741143079,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 385864,
+        "num": 417520,
+        "word": "城乡居民基础养老金最低标准提高20元",
+        "onboard_time": 1741140858,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 413694,
+        "num": 413694,
+        "word": "人大会议开幕会",
+        "onboard_time": 1741136240,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 716450,
+        "num": 407339,
+        "word": "迪奥认领迪丽热巴刘雨昕",
+        "onboard_time": 1741141397,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 631332,
+        "num": 406842,
+        "word": "嘘国王在冬眠定档",
+        "onboard_time": 1741139359,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 395744,
+        "num": 395744,
+        "word": "落实和优化休假制度",
+        "onboard_time": 1741139537,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 92878,
+        "num": 386737,
+        "word": "建议带薪休假纳入企业信用评价",
+        "onboard_time": 1741143138,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 378388,
+        "num": 378388,
+        "word": "小伙失恋睡不着摆40多天共享单车",
+        "onboard_time": 1741139958,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308861,
+        "num": 308861,
+        "word": "女子盗录哪吒2浏览量超35万被罚1.5万",
+        "onboard_time": 1741130356,
+        "rank": 16,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 284834,
+        "num": 284834,
+        "word": "逐步推行免费学前教育",
+        "onboard_time": 1741138818,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 239802,
+        "num": 239802,
+        "word": "鞠婧祎起诉丝芭将开庭",
+        "onboard_time": 1741143679,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235196,
+        "num": 235196,
+        "word": "2025年政府工作十大任务",
+        "onboard_time": 1741141938,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 392030,
+        "num": 227830,
+        "word": "余承东出牌了",
+        "onboard_time": 1741141938,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 274957,
+        "num": 222931,
+        "word": "你根本没有意识到你有多么年轻",
+        "onboard_time": 1741138278,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211978,
+        "num": 211978,
+        "word": "问界M8将于4月上市",
+        "onboard_time": 1741143620,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 206247,
+        "num": 206247,
+        "word": "泽连斯基准备在特朗普领导下实现和平",
+        "onboard_time": 1741134260,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160700,
+        "num": 202354,
+        "word": "金龟子说别再让她换发型了",
+        "onboard_time": 1741134140,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151670,
+        "num": 201685,
+        "word": "嘘国王在冬眠 雪偶",
+        "onboard_time": 1741142598,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201372,
+        "num": 201372,
+        "word": "年轻人开始流行过妇女节了",
+        "onboard_time": 1741143620,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194027,
+        "num": 194027,
+        "word": "2024年GDP增长5%",
+        "onboard_time": 1741138159,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 177336,
+        "num": 192368,
+        "word": "全圆佑公益兵",
+        "onboard_time": 1741141756,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191960,
+        "num": 191960,
+        "word": "关注年轻人不想生问题",
+        "onboard_time": 1741133901,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 183468,
+        "num": 183468,
+        "word": "游客逛长隆发现满地动物饼干",
+        "onboard_time": 1741141638,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182342,
+        "num": 182342,
+        "word": "雷军谈科技创新引领新质生产力",
+        "onboard_time": 1741137378,
+        "rank": 31,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 147501,
+        "num": 176595,
+        "word": "浪姐6",
+        "onboard_time": 1741142538,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143474,
+        "num": 175853,
+        "word": "金智秀卢浮宫慈善晚宴",
+        "onboard_time": 1741143859,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175786,
+        "num": 175786,
+        "word": "肖战西班牙机场回国路透",
+        "onboard_time": 1741141519,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172914,
+        "num": 172914,
+        "word": "82岁老人写在烟盒上的建议获采纳",
+        "onboard_time": 1741096101,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 168343,
+        "num": 168343,
+        "word": "两会",
+        "onboard_time": 1741055659,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 165769,
+        "num": 165769,
+        "word": "3000亿元支持消费品以旧换新",
+        "onboard_time": 1741138698,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 165652,
+        "num": 165652,
+        "word": "3月5日16时7分惊蛰",
+        "onboard_time": 1741110613,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160693,
+        "num": 160693,
+        "word": "DeepSeek等成两会热点",
+        "onboard_time": 1741072397,
+        "rank": 39,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 158871,
+        "num": 158871,
+        "word": "杨紫回应舞蹈走红",
+        "onboard_time": 1741101261,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27496,
+        "num": 157237,
+        "word": "十个勤天礼盒爆改痛包",
+        "onboard_time": 1741142059,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157197,
+        "num": 157197,
+        "word": "赵露思恋人复拍",
+        "onboard_time": 1741130416,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150352,
+        "num": 150352,
+        "word": "曝王大陆涉嫌杀人未遂移送侦办",
+        "onboard_time": 1741077081,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149755,
+        "num": 149755,
+        "word": "惊蛰",
+        "onboard_time": 1741130296,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139772,
+        "num": 139772,
+        "word": "今年综合整治内卷式竞争",
+        "onboard_time": 1741139838,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 126843,
+        "num": 126843,
+        "word": "消毒级卫生巾呵护女性经期健康",
+        "onboard_time": 1741143738,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144338,
+        "num": 126629,
+        "word": "才发现惊蛰与桃花的适配度这么高",
+        "onboard_time": 1741104259,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129596,
+        "num": 126521,
+        "word": "医生提醒单纯疱疹一旦感染终身携带",
+        "onboard_time": 1741137018,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126293,
+        "num": 126293,
+        "word": "加拿大宣布报复美国的措施",
+        "onboard_time": 1741137378,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记两会上的民生关切#"
+    }
+  }
+}
