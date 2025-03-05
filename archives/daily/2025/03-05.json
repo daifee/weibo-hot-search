@@ -1,6 +1,6 @@
 {
   "startTime": 1741105825822,
-  "endTime": 1741185686587,
+  "endTime": 1741188320528,
   "band_list": [
     {
       "raw_hot": 1983998,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1499149,
-      "num": 201306,
+      "num": 249187,
       "word": "美滞留太空宇航员婉拒马斯克",
       "onboard_time": 1741180458,
       "rank": 25,
@@ -81,6 +81,14 @@
       "onboard_time": 1741155319,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1362939,
+      "num": 1362939,
+      "word": "何凯文 周思成",
+      "onboard_time": 1741185319,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 1323645,
@@ -105,6 +113,14 @@
       "onboard_time": 1741166359,
       "rank": 31,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1301114,
+      "num": 292692,
+      "word": "辛芷蕾微博真的是本人发的吗",
+      "onboard_time": 1741185439,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 1172560,
@@ -324,7 +340,7 @@
     },
     {
       "raw_hot": 688223,
-      "num": 203431,
+      "num": 236936,
       "word": "喝咖啡与不喝咖啡身体的差距",
       "onboard_time": 1741172179,
       "rank": 20,
@@ -540,7 +556,7 @@
     },
     {
       "raw_hot": 478315,
-      "num": 321361,
+      "num": 400734,
       "word": "白鹿说作为演员不会干涉妆造",
       "onboard_time": 1741183279,
       "rank": 16,
@@ -588,7 +604,7 @@
     },
     {
       "raw_hot": 455249,
-      "num": 202879,
+      "num": 231428,
       "word": "杭州姑娘退税4190元惊呼巨款",
       "onboard_time": 1741176978,
       "rank": 22,
@@ -601,6 +617,14 @@
       "onboard_time": 1741107076,
       "rank": 10,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 448103,
+      "num": 285296,
+      "word": "生命树 张哲华",
+      "onboard_time": 1741186099,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 441469,
@@ -635,6 +659,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 422900,
+      "num": 422900,
+      "word": "人大代表称教师对提升学历缺乏动力",
+      "onboard_time": 1741184659,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 419072,
       "num": 419072,
       "word": "霍启刚谈哪吒2",
@@ -664,6 +696,14 @@
       "word": "曝上村谦信涉嫌性骚扰被捕",
       "onboard_time": 1741168580,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 411236,
+      "num": 282117,
+      "word": "张凌赫把我迷成智障了",
+      "onboard_time": 1741184421,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -731,12 +771,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 377771,
-      "num": 213686,
-      "word": "张凌赫把我迷成智障了",
-      "onboard_time": 1741184421,
-      "rank": 48,
-      "category": "艺人"
+      "raw_hot": 378306,
+      "num": 378306,
+      "word": "周思成质疑何凯文英语一成绩",
+      "onboard_time": 1741186340,
+      "rank": 7,
+      "category": "教育"
     },
     {
       "raw_hot": 377068,
@@ -763,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 364365,
+      "num": 364365,
+      "word": "哪吒票房",
+      "onboard_time": 1741182859,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 362389,
       "num": 304344,
       "word": "全圆佑4月3日入伍",
@@ -772,7 +820,7 @@
     },
     {
       "raw_hot": 360463,
-      "num": 207855,
+      "num": 278798,
       "word": "周杰伦给权志龙新歌打call",
       "onboard_time": 1741182619,
       "rank": 12,
@@ -833,14 +881,6 @@
       "onboard_time": 1741131918,
       "rank": 23,
       "category": "海外新闻,旅游"
-    },
-    {
-      "raw_hot": 334883,
-      "num": 201933,
-      "word": "哪吒票房",
-      "onboard_time": 1741182859,
-      "rank": 13,
-      "category": "电影"
     },
     {
       "raw_hot": 334855,
@@ -945,6 +985,14 @@
       "onboard_time": 1741072397,
       "rank": 9,
       "category": "国内时政,互联网"
+    },
+    {
+      "raw_hot": 294749,
+      "num": 294749,
+      "word": "两会",
+      "onboard_time": 1741055659,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 294676,
@@ -1084,7 +1132,7 @@
     },
     {
       "raw_hot": 261784,
-      "num": 177138,
+      "num": 223167,
       "word": "滤镜 海底捞扯面",
       "onboard_time": 1741183459,
       "rank": 27,
@@ -1363,12 +1411,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 207418,
-      "num": 207418,
-      "word": "人大代表称教师对提升学历缺乏动力",
-      "onboard_time": 1741184659,
-      "rank": 14,
-      "category": "国内时政"
+      "raw_hot": 205028,
+      "num": 205028,
+      "word": "邝玲玲关心安保被戳到眼睛",
+      "onboard_time": 1741187239,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 203566,
@@ -1643,12 +1691,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 172335,
-      "num": 172335,
-      "word": "何凯文 周思成",
-      "onboard_time": 1741185319,
-      "rank": 29,
-      "category": "教育"
+      "raw_hot": 173617,
+      "num": 173617,
+      "word": "内娱剧宣cp双人视频",
+      "onboard_time": 1741187060,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 171277,
@@ -1657,6 +1705,14 @@
       "onboard_time": 1741112292,
       "rank": 9,
       "category": "国内时政,教育"
+    },
+    {
+      "raw_hot": 170947,
+      "num": 170947,
+      "word": "生命树",
+      "onboard_time": 1741186160,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 170784,
@@ -1681,14 +1737,6 @@
       "onboard_time": 1741162099,
       "rank": 35,
       "category": "体育,时尚"
-    },
-    {
-      "raw_hot": 168343,
-      "num": 168343,
-      "word": "两会",
-      "onboard_time": 1741055659,
-      "rank": 41,
-      "category": "国内时政"
     },
     {
       "raw_hot": 167028,
@@ -1827,6 +1875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152483,
+      "num": 152483,
+      "word": "M4版MacBookAir",
+      "onboard_time": 1741187119,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 151032,
       "num": 151032,
       "word": "大侦探",
@@ -1875,6 +1931,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 146171,
+      "num": 146171,
+      "word": "檀健次爆发戏",
+      "onboard_time": 1741187658,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145963,
       "num": 377015,
       "word": "肖战日媒中国电视剧演员人气榜登顶",
@@ -1913,6 +1977,14 @@
       "onboard_time": 1741180280,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 142249,
+      "num": 142249,
+      "word": "拧巴的人需要一个耐心的爱人",
+      "onboard_time": 1741187839,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 141355,
@@ -2027,6 +2099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136815,
+      "num": 136815,
+      "word": "为何越来越多小众服饰品牌变便宜了",
+      "onboard_time": 1741188079,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136439,
       "num": 136439,
       "word": "花旗银行误将81万亿美元转给个人",
@@ -2067,14 +2147,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 133396,
-      "num": 133396,
-      "word": "辛芷蕾微博真的是本人发的吗",
-      "onboard_time": 1741185439,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 133386,
       "num": 189824,
       "word": "郭涛儿子参加北电艺考",
@@ -2097,6 +2169,14 @@
       "onboard_time": 1741101141,
       "rank": 27,
       "category": "美食"
+    },
+    {
+      "raw_hot": 129778,
+      "num": 129778,
+      "word": "超40万辆军车是湖北十堰造",
+      "onboard_time": 1741187180,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129746,
@@ -2185,6 +2265,14 @@
       "onboard_time": 1741139058,
       "rank": 33,
       "category": "国内时政,互联网"
+    },
+    {
+      "raw_hot": 124559,
+      "num": 170976,
+      "word": "多方回应租客被房东扣9200元押金",
+      "onboard_time": 1741185260,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124471,
@@ -2379,6 +2467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111291,
+      "num": 111291,
+      "word": "王曼昱重庆冠军赛宣传片",
+      "onboard_time": 1741187839,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110935,
       "num": 176512,
       "word": "建议提高个税起征点至每年10万元",
@@ -2395,6 +2491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110514,
+      "num": 228710,
+      "word": "人大代表建议免费提供高考志愿指导",
+      "onboard_time": 1741184720,
+      "rank": 9,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 110139,
       "num": 110139,
       "word": "苹果64GB时代彻底宣告结束",
@@ -2409,6 +2513,14 @@
       "onboard_time": 1741099401,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108370,
+      "num": 108370,
+      "word": "张宁绝杀广厦男篮",
+      "onboard_time": 1741186519,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 108108,
@@ -2571,14 +2683,6 @@
       "category": "国内时政,健康医疗"
     },
     {
-      "raw_hot": 95997,
-      "num": 228710,
-      "word": "人大代表建议免费提供高考志愿指导",
-      "onboard_time": 1741184720,
-      "rank": 9,
-      "category": "教育,民生新闻"
-    },
-    {
       "raw_hot": 95306,
       "num": 297924,
       "word": "去年全社会物流成本降低约4000亿",
@@ -2713,6 +2817,14 @@
       "onboard_time": 1741175838,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80955,
+      "num": 205698,
+      "word": "花海狗塑自己",
+      "onboard_time": 1741187839,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 78819,
@@ -3028,7 +3140,7 @@
     },
     {
       "raw_hot": 50780,
-      "num": 922900,
+      "num": 967678,
       "word": "政府工作报告里的加与减",
       "onboard_time": 1741182558,
       "rank": 2,
