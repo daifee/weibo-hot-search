@@ -1,0 +1,410 @@
+{
+  "runTime": 1741266041631,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 623516,
+        "num": 1099762,
+        "word": "姚明建议未成年人息屏24小时行动",
+        "onboard_time": 1741252581,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 482148,
+        "num": 482148,
+        "word": "哪吒2票房破146亿",
+        "onboard_time": 1741259062,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23610,
+        "num": 369105,
+        "word": "经济主题记者会要点速览",
+        "onboard_time": 1741265780,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 343655,
+        "num": 343655,
+        "word": "徐若晗不愧是现偶的兵",
+        "onboard_time": 1741261581,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321391,
+        "num": 321391,
+        "word": "靳东建议成立国家遗嘱库",
+        "onboard_time": 1741256960,
+        "rank": 4,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 296170,
+        "num": 296170,
+        "word": "跑步5公里和走路5公里的效果",
+        "onboard_time": 1741252882,
+        "rank": 5,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 272646,
+        "num": 272646,
+        "word": "雷军说卖车的成功来得有点猝不及防",
+        "onboard_time": 1741259421,
+        "rank": 6,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 252416,
+        "num": 252416,
+        "word": "Manus创始人为中国90后",
+        "onboard_time": 1741248802,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 243835,
+        "num": 243835,
+        "word": "古路村村支书喊话李现来徒步",
+        "onboard_time": 1741261762,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76626,
+        "num": 242809,
+        "word": "中方对美提以其人之道还治其人之身",
+        "onboard_time": 1741262063,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 629684,
+        "num": 240498,
+        "word": "阿诺想亲吻时董力的反应",
+        "onboard_time": 1741261341,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 347564,
+        "num": 235284,
+        "word": "瘦30斤 面部折叠度变化",
+        "onboard_time": 1741243877,
+        "rank": 11,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 342526,
+        "num": 233776,
+        "word": "Jennie回归大赏",
+        "onboard_time": 1741262602,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 318531,
+        "num": 231262,
+        "word": "陈哲远狗啃妹妹头",
+        "onboard_time": 1741263861,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229020,
+        "num": 229020,
+        "word": "韩国空军就误发炸弹致歉",
+        "onboard_time": 1741250180,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 199427,
+        "num": 199427,
+        "word": "全国两会",
+        "onboard_time": 1741257622,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 198419,
+        "num": 198419,
+        "word": "赤字规模达到5.66万亿元",
+        "onboard_time": 1741252942,
+        "rank": 16,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 171827,
+        "num": 185308,
+        "word": "滤镜 好看",
+        "onboard_time": 1741261102,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105981,
+        "num": 173744,
+        "word": "李威案死者生前遭受多人凌辱虐待",
+        "onboard_time": 1741265241,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50905,
+        "num": 173025,
+        "word": "建议设置游戏分级制度",
+        "onboard_time": 1741264820,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 172434,
+        "num": 172434,
+        "word": "阴阳师",
+        "onboard_time": 1741265662,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159155,
+        "num": 159155,
+        "word": "医生提醒长期熬夜基因突变风险大增",
+        "onboard_time": 1741249702,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 140028,
+        "num": 140028,
+        "word": "邓超看起来像极了本地人",
+        "onboard_time": 1741262720,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137876,
+        "num": 137876,
+        "word": "被似锦第14集30分6秒爽到了",
+        "onboard_time": 1741265422,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90454,
+        "num": 136426,
+        "word": "保镖小姐永远是祁煜的第一名",
+        "onboard_time": 1741265123,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 14759,
+        "num": 136343,
+        "word": "2025两会现场声",
+        "onboard_time": 1741265662,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 136286,
+        "num": 136286,
+        "word": "LV要做彩妆了",
+        "onboard_time": 1741259601,
+        "rank": 26,
+        "category": "美妆,时尚"
+      },
+      {
+        "raw_hot": 135064,
+        "num": 135064,
+        "word": "权志龙点赞李胜利ins相关",
+        "onboard_time": 1741249340,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121267,
+        "num": 131689,
+        "word": "蔡康永认为穷忙大可不必",
+        "onboard_time": 1741264041,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112572,
+        "num": 130150,
+        "word": "北上",
+        "onboard_time": 1741263320,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47042,
+        "num": 129920,
+        "word": "两会期间各代表团举行开放团组活动",
+        "onboard_time": 1741252882,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 129820,
+        "num": 129820,
+        "word": "为什么提了离职之后又感觉工作还行",
+        "onboard_time": 1741258402,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129286,
+        "num": 129286,
+        "word": "中英混血剑桥状元在投行工作的一天",
+        "onboard_time": 1741257802,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127313,
+        "num": 127313,
+        "word": "靳东建议防止未成年人沉迷短视频",
+        "onboard_time": 1741262302,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 125258,
+        "num": 125258,
+        "word": "往锅底撒尿如属实当事人或被行拘",
+        "onboard_time": 1741265722,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124099,
+        "num": 124099,
+        "word": "杨幂去探班黄明昊",
+        "onboard_time": 1741257981,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122736,
+        "num": 122736,
+        "word": "建议把学生的AI能力纳入新课标",
+        "onboard_time": 1741262122,
+        "rank": 36,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 115253,
+        "num": 115253,
+        "word": "鞠婧祎换新发色",
+        "onboard_time": 1741261642,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108977,
+        "num": 108977,
+        "word": "熬夜久的人闻起来是臭的",
+        "onboard_time": 1741252760,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 107568,
+        "num": 107568,
+        "word": "建议景区重视年轻游客情绪价值",
+        "onboard_time": 1741263861,
+        "rank": 39,
+        "category": "国内时政,旅游"
+      },
+      {
+        "raw_hot": 107429,
+        "num": 107429,
+        "word": "向全国妇女致以美好祝愿",
+        "onboard_time": 1741264581,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 104836,
+        "num": 104836,
+        "word": "内娱四页纸台词一遍过是什么水平",
+        "onboard_time": 1741257200,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102029,
+        "num": 102029,
+        "word": "双一流高校本科再扩招2万人",
+        "onboard_time": 1741251262,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 101683,
+        "num": 101683,
+        "word": "35岁左右是发胖关键期",
+        "onboard_time": 1741248260,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 100721,
+        "num": 100721,
+        "word": "花一万多去旅游感觉很有负罪感",
+        "onboard_time": 1741251561,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99574,
+        "num": 99574,
+        "word": "留几手展示新家",
+        "onboard_time": 1741260501,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99353,
+        "num": 99353,
+        "word": "起猛了云之羽玩了国王嘘字梗",
+        "onboard_time": 1741263381,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95443,
+        "num": 95443,
+        "word": "难哄 出租屋文学",
+        "onboard_time": 1741259542,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85957,
+        "num": 85957,
+        "word": "于正回应赵丽颖陈晓再搭热搜",
+        "onboard_time": 1741263142,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 8136,
+        "num": 85718,
+        "word": "吉尼斯世界纪录刷新",
+        "onboard_time": 1741261642,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平看望全国政协委员#"
+    }
+  }
+}
