@@ -1,6 +1,6 @@
 {
   "startTime": 1741192562065,
-  "endTime": 1741268519935,
+  "endTime": 1741270988932,
   "band_list": [
     {
       "raw_hot": 4490343,
@@ -17,6 +17,14 @@
       "onboard_time": 1741257321,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2685331,
+      "num": 908116,
+      "word": "第五人格场馆着火",
+      "onboard_time": 1741269562,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 2290757,
@@ -97,6 +105,14 @@
       "onboard_time": 1741219518,
       "rank": 10,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1268965,
+      "num": 281721,
+      "word": "李昀锐说她应该睡了",
+      "onboard_time": 1741268543,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1237702,
@@ -313,6 +329,14 @@
       "onboard_time": 1741249881,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 645736,
+      "num": 645736,
+      "word": "第五人格",
+      "onboard_time": 1741257502,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 625748,
@@ -579,6 +603,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 375623,
+      "num": 280244,
+      "word": "檀健次连舌头都在飚戏",
+      "onboard_time": 1741267522,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 375505,
       "num": 268718,
       "word": "金晨阶梯短发",
@@ -667,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 351126,
+      "num": 278445,
+      "word": "香港18岁中学女生真实的一面",
+      "onboard_time": 1741268724,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 343655,
       "num": 343655,
       "word": "徐若晗不愧是现偶的兵",
@@ -683,20 +723,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 341112,
+      "num": 341112,
+      "word": "雷军说卖车的成功来得有点猝不及防",
+      "onboard_time": 1741259421,
+      "rank": 38,
+      "category": "国内时政,互联网"
+    },
+    {
       "raw_hot": 335142,
       "num": 252333,
       "word": "白鹿晒12年前模特约拍私信",
       "onboard_time": 1741238479,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 334621,
-      "num": 334621,
-      "word": "雷军说卖车的成功来得有点猝不及防",
-      "onboard_time": 1741259421,
-      "rank": 38,
-      "category": "国内时政,互联网"
     },
     {
       "raw_hot": 331277,
@@ -851,6 +891,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 282921,
+      "num": 282921,
+      "word": "人民日报对话蒙曼陈丽君",
+      "onboard_time": 1741269203,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 282075,
       "num": 282075,
       "word": "老外到底有多羡慕中国人",
@@ -963,14 +1011,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 245086,
-      "num": 245086,
-      "word": "第五人格",
-      "onboard_time": 1741257502,
-      "rank": 28,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 243835,
       "num": 243835,
       "word": "古路村村支书喊话李现来徒步",
@@ -993,6 +1033,14 @@
       "onboard_time": 1741242258,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 232351,
+      "num": 232351,
+      "word": "女孩用DeepSeek挑到报恩榴莲",
+      "onboard_time": 1741269743,
+      "rank": 22,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 230681,
@@ -1025,6 +1073,14 @@
       "onboard_time": 1741245980,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 227340,
+      "num": 227340,
+      "word": "医生建议的玩手机正确姿势",
+      "onboard_time": 1741268783,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 226904,
@@ -1084,7 +1140,7 @@
     },
     {
       "raw_hot": 216284,
-      "num": 291521,
+      "num": 297200,
       "word": "被似锦第14集30分6秒爽到了",
       "onboard_time": 1741265422,
       "rank": 23,
@@ -1124,7 +1180,7 @@
     },
     {
       "raw_hot": 208143,
-      "num": 206968,
+      "num": 277271,
       "word": "广丰把激光雷达智驾车拉到14万级",
       "onboard_time": 1741267943,
       "rank": 17,
@@ -1291,14 +1347,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 179622,
-      "num": 179622,
-      "word": "檀健次连舌头都在飚戏",
-      "onboard_time": 1741267522,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 179439,
       "num": 214456,
       "word": "玉茗茶骨定妆直播",
@@ -1329,6 +1377,14 @@
       "onboard_time": 1741261102,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170664,
+      "num": 170664,
+      "word": "10年6战法考终上岸的北大保安已辞职",
+      "onboard_time": 1741270344,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170605,
@@ -1596,7 +1652,7 @@
     },
     {
       "raw_hot": 152807,
-      "num": 120688,
+      "num": 125036,
       "word": "极氪为大学生就业难题献计",
       "onboard_time": 1741267462,
       "rank": 36,
@@ -1616,6 +1672,14 @@
       "word": "洪小铃晒孕肚照",
       "onboard_time": 1741239318,
       "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 151439,
+      "num": 151439,
+      "word": "张泽禹朋友圈屏蔽爸妈",
+      "onboard_time": 1741268543,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -1844,7 +1908,7 @@
     },
     {
       "raw_hot": 126978,
-      "num": 153923,
+      "num": 156061,
       "word": "北上",
       "onboard_time": 1741177578,
       "rank": 40,
@@ -1939,6 +2003,14 @@
       "category": "国内时政,财经"
     },
     {
+      "raw_hot": 124765,
+      "num": 124765,
+      "word": "原神5.4版本",
+      "onboard_time": 1741268783,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 124658,
       "num": 153306,
       "word": "聂远杨蓉搭戏搭到画质变清晰",
@@ -2017,6 +2089,14 @@
       "onboard_time": 1741239019,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 119449,
+      "num": 119449,
+      "word": "Manus能直接干活",
+      "onboard_time": 1741268724,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 117000,
@@ -2371,6 +2451,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 93764,
+      "num": 93764,
+      "word": "95后老师在高考大会上的发言振聋发聩",
+      "onboard_time": 1741269442,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 93325,
       "num": 93325,
       "word": "北电复试男艺考生颜值",
@@ -2419,6 +2507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90510,
+      "num": 281807,
+      "word": "花开种花家",
+      "onboard_time": 1741270583,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 90454,
       "num": 136426,
       "word": "保镖小姐永远是祁煜的第一名",
@@ -2465,6 +2561,14 @@
       "onboard_time": 1741268482,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82796,
+      "num": 82796,
+      "word": "夏凤华好想换个crush",
+      "onboard_time": 1741270944,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 82648,
@@ -2795,6 +2899,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 49184,
+      "num": 275950,
+      "word": "代表说不要偷懒让AI替代自己工作",
+      "onboard_time": 1741269922,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 47042,
       "num": 542704,
       "word": "两会期间各代表团举行开放团组活动",
@@ -2851,12 +2963,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 43601,
+      "num": 153367,
+      "word": "ManusAI合伙人澄清邀请码机制",
+      "onboard_time": 1741270823,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 42916,
       "num": 292220,
       "word": "解码政府工作报告中的新质生产力",
       "onboard_time": 1741267101,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 42619,
+      "num": 276843,
+      "word": "于适在巴黎展示中国功夫",
+      "onboard_time": 1741269984,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 40150,
@@ -2867,8 +2995,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39700,
+      "num": 279859,
+      "word": "建议推广在岗和居家混合办公模式",
+      "onboard_time": 1741270163,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 39649,
-      "num": 382969,
+      "num": 716909,
       "word": "经济主题记者会要点速览",
       "onboard_time": 1741265780,
       "rank": 2,
@@ -2889,6 +3025,14 @@
       "onboard_time": 1741238119,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 37647,
+      "num": 237597,
+      "word": "圆妈妈一个钻石梦",
+      "onboard_time": 1741268843,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 36767,

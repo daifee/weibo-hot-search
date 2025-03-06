@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741268519935,
+  "endTime": 1741270988932,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -105,6 +105,14 @@
       "onboard_time": 1740808374,
       "rank": 6,
       "category": "艺人,健康医疗"
+    },
+    {
+      "raw_hot": 2685331,
+      "num": 908116,
+      "word": "第五人格场馆着火",
+      "onboard_time": 1741269562,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 2654811,
@@ -673,6 +681,14 @@
       "onboard_time": 1741219518,
       "rank": 10,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1268965,
+      "num": 281721,
+      "word": "李昀锐说她应该睡了",
+      "onboard_time": 1741268543,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1267318,
@@ -2057,6 +2073,14 @@
       "onboard_time": 1741249881,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 645736,
+      "num": 645736,
+      "word": "第五人格",
+      "onboard_time": 1740802819,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 641140,
@@ -3995,6 +4019,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 375623,
+      "num": 280244,
+      "word": "檀健次连舌头都在飚戏",
+      "onboard_time": 1741267522,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 375505,
       "num": 268718,
       "word": "金晨阶梯短发",
@@ -4331,6 +4363,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 351126,
+      "num": 278445,
+      "word": "香港18岁中学女生真实的一面",
+      "onboard_time": 1741268724,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 350330,
       "num": 334190,
       "word": "这类常见小票可能影响生殖发育和致癌",
@@ -4451,6 +4491,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 341112,
+      "num": 341112,
+      "word": "雷军说卖车的成功来得有点猝不及防",
+      "onboard_time": 1741259421,
+      "rank": 38,
+      "category": "国内时政,互联网"
+    },
+    {
       "raw_hot": 339977,
       "num": 339977,
       "word": "建议推迟中考分流时间",
@@ -4521,14 +4569,6 @@
       "onboard_time": 1741093640,
       "rank": 35,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 334621,
-      "num": 334621,
-      "word": "雷军说卖车的成功来得有点猝不及防",
-      "onboard_time": 1741259421,
-      "rank": 38,
-      "category": "国内时政,互联网"
     },
     {
       "raw_hot": 333945,
@@ -5003,14 +5043,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 304702,
-      "num": 267245,
-      "word": "第五人格",
-      "onboard_time": 1740802819,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 304302,
       "num": 327735,
       "word": "今年将择机降准降息",
@@ -5449,6 +5481,14 @@
       "onboard_time": 1741218136,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 282921,
+      "num": 282921,
+      "word": "人民日报对话蒙曼陈丽君",
+      "onboard_time": 1741269203,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 282075,
@@ -6491,6 +6531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 232351,
+      "num": 232351,
+      "word": "女孩用DeepSeek挑到报恩榴莲",
+      "onboard_time": 1741269743,
+      "rank": 22,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 231949,
       "num": 231949,
       "word": "照镜辞开机",
@@ -6609,6 +6657,14 @@
       "onboard_time": 1741245980,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 227340,
+      "num": 227340,
+      "word": "医生建议的玩手机正确姿势",
+      "onboard_time": 1741268783,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 227326,
@@ -7036,7 +7092,7 @@
     },
     {
       "raw_hot": 216284,
-      "num": 291521,
+      "num": 297200,
       "word": "被似锦第14集30分6秒爽到了",
       "onboard_time": 1741265422,
       "rank": 23,
@@ -7324,7 +7380,7 @@
     },
     {
       "raw_hot": 208143,
-      "num": 206968,
+      "num": 277271,
       "word": "广丰把激光雷达智驾车拉到14万级",
       "onboard_time": 1741267943,
       "rank": 17,
@@ -8763,14 +8819,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 179622,
-      "num": 179622,
-      "word": "檀健次连舌头都在飚戏",
-      "onboard_time": 1741267522,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 179460,
       "num": 217790,
       "word": "桑延温以凡同居像异地恋",
@@ -9313,6 +9361,14 @@
       "onboard_time": 1740801798,
       "rank": 36,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 170664,
+      "num": 170664,
+      "word": "10年6战法考终上岸的北大保安已辞职",
+      "onboard_time": 1741270344,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170605,
@@ -10532,7 +10588,7 @@
     },
     {
       "raw_hot": 152807,
-      "num": 120688,
+      "num": 125036,
       "word": "极氪为大学生就业难题献计",
       "onboard_time": 1741267462,
       "rank": 36,
@@ -10633,6 +10689,14 @@
       "onboard_time": 1740918921,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151439,
+      "num": 151439,
+      "word": "张泽禹朋友圈屏蔽爸妈",
+      "onboard_time": 1741268543,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 151342,
@@ -12659,6 +12723,14 @@
       "category": "国内时政,互联网"
     },
     {
+      "raw_hot": 124765,
+      "num": 124765,
+      "word": "原神5.4版本",
+      "onboard_time": 1741268783,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 124730,
       "num": 124730,
       "word": "特朗普要看泽连斯基表现",
@@ -12985,6 +13057,14 @@
       "onboard_time": 1741187839,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119449,
+      "num": 119449,
+      "word": "Manus能直接干活",
+      "onboard_time": 1741268724,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 119334,
@@ -14723,6 +14803,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 93764,
+      "num": 93764,
+      "word": "95后老师在高考大会上的发言振聋发聩",
+      "onboard_time": 1741269442,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 93486,
       "num": 164296,
       "word": "今年看过最抽象的一部剧",
@@ -14865,6 +14953,14 @@
       "onboard_time": 1741235119,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90510,
+      "num": 281807,
+      "word": "花开种花家",
+      "onboard_time": 1741270583,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 90454,
@@ -15201,6 +15297,14 @@
       "onboard_time": 1740795498,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 82796,
+      "num": 82796,
+      "word": "夏凤华好想换个crush",
+      "onboard_time": 1741270944,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 82648,
@@ -16635,6 +16739,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 49184,
+      "num": 275950,
+      "word": "代表说不要偷懒让AI替代自己工作",
+      "onboard_time": 1741269922,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 48865,
       "num": 163891,
       "word": "蔡少芬曾在生日因张晋爆哭",
@@ -16899,6 +17011,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 43601,
+      "num": 153367,
+      "word": "ManusAI合伙人澄清邀请码机制",
+      "onboard_time": 1741270823,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 43200,
       "num": 222455,
       "word": "工作高压下如何自我救赎",
@@ -16913,6 +17033,14 @@
       "onboard_time": 1741267101,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 42619,
+      "num": 276843,
+      "word": "于适在巴黎展示中国功夫",
+      "onboard_time": 1741269984,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 42173,
@@ -17059,8 +17187,16 @@
       "category": "电影"
     },
     {
+      "raw_hot": 39700,
+      "num": 279859,
+      "word": "建议推广在岗和居家混合办公模式",
+      "onboard_time": 1741270163,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 39649,
-      "num": 382969,
+      "num": 716909,
       "word": "经济主题记者会要点速览",
       "onboard_time": 1741265780,
       "rank": 2,
@@ -17137,6 +17273,14 @@
       "onboard_time": 1740812969,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 37647,
+      "num": 237597,
+      "word": "圆妈妈一个钻石梦",
+      "onboard_time": 1741268843,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 37552,
