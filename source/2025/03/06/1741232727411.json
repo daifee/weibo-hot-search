@@ -1,0 +1,410 @@
+{
+  "runTime": 1741232727411,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 778499,
+        "num": 1124559,
+        "word": "你的退税到账了没",
+        "onboard_time": 1741227495,
+        "rank": 0,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 586600,
+        "num": 586600,
+        "word": "建议将禁止就业年龄歧视纳入法律",
+        "onboard_time": 1741231696,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 33372,
+        "num": 556039,
+        "word": "政府工作报告里的创新关键词",
+        "onboard_time": 1741182140,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 544539,
+        "num": 544539,
+        "word": "爱你原型",
+        "onboard_time": 1741230318,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 497051,
+        "num": 497051,
+        "word": "我会好好的定档",
+        "onboard_time": 1741228456,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 596252,
+        "num": 491133,
+        "word": "韩美军演炮弹疑坠入民宅致7人受伤",
+        "onboard_time": 1741229296,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 484036,
+        "num": 484036,
+        "word": "哪吒2火上全国两会",
+        "onboard_time": 1741230378,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 423126,
+        "num": 423126,
+        "word": "两会",
+        "onboard_time": 1741185860,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 156019,
+        "num": 413288,
+        "word": "建议家长参与校园餐监督",
+        "onboard_time": 1741231037,
+        "rank": 8,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 410124,
+        "num": 410124,
+        "word": "建议孩子违法家长必须赔偿被害人",
+        "onboard_time": 1741224317,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 872130,
+        "num": 398926,
+        "word": "田静英语一成绩",
+        "onboard_time": 1741219518,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 853493,
+        "num": 388893,
+        "word": "19岁女孩天生髌骨脱位双膝随意移动",
+        "onboard_time": 1741227558,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 624545,
+        "num": 374191,
+        "word": "陈乔恩回应变胖",
+        "onboard_time": 1741217235,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 494762,
+        "num": 355382,
+        "word": "李威或免除刑罚",
+        "onboard_time": 1741226657,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460693,
+        "num": 329053,
+        "word": "辛芷蕾微博真的是本人发的吗",
+        "onboard_time": 1741185439,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 413187,
+        "num": 319032,
+        "word": "痛经女性近半或为子宫内膜异位症",
+        "onboard_time": 1741218196,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 310465,
+        "num": 310465,
+        "word": "建议关注教师心理健康问题",
+        "onboard_time": 1741224019,
+        "rank": 16,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 304347,
+        "num": 304347,
+        "word": "男子1个月染发4次十多天头发掉光",
+        "onboard_time": 1741189816,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300628,
+        "num": 300628,
+        "word": "刘忻凌晨开敞篷车接张予曦杀青下班",
+        "onboard_time": 1741232057,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72525,
+        "num": 273308,
+        "word": "建议把HPV疫苗纳入免疫规划",
+        "onboard_time": 1741231636,
+        "rank": 19,
+        "category": "国内时政,健康医疗"
+      },
+      {
+        "raw_hot": 369059,
+        "num": 271723,
+        "word": "控制脂肪肝少吃主食还是少吃肉",
+        "onboard_time": 1741228997,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 262674,
+        "num": 262674,
+        "word": "委员谈年轻人为什么不愿意学医了",
+        "onboard_time": 1741231457,
+        "rank": 21,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 256572,
+        "num": 256572,
+        "word": "靳东两会建议AI换脸立法",
+        "onboard_time": 1741182619,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 238262,
+        "num": 238262,
+        "word": "15元一颗的草莓贵了还是便宜",
+        "onboard_time": 1741218136,
+        "rank": 23,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 217887,
+        "num": 217887,
+        "word": "第一次见在健身房相亲的",
+        "onboard_time": 1741232478,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217761,
+        "num": 217761,
+        "word": "这篓子快捅成马蜂窝了",
+        "onboard_time": 1741230677,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210958,
+        "num": 210958,
+        "word": "柯淳说喜欢赵丽颖",
+        "onboard_time": 1741224556,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179907,
+        "num": 209633,
+        "word": "嘘国王在冬眠OST是懂季节的",
+        "onboard_time": 1741231097,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136258,
+        "num": 208639,
+        "word": "于适金昇玟巴黎活动生图",
+        "onboard_time": 1741232537,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 92847,
+        "num": 208630,
+        "word": "新款问界M9预售价47.8万起",
+        "onboard_time": 1741231518,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 208627,
+        "num": 208627,
+        "word": "45岁男子花15元中了1800万",
+        "onboard_time": 1741217115,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198315,
+        "num": 198315,
+        "word": "冉莹颖回应给儿子打生长激素",
+        "onboard_time": 1741217174,
+        "rank": 31,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 179782,
+        "num": 179782,
+        "word": "白鹿说翟子路三部戏没熬到一个名分",
+        "onboard_time": 1741223118,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175302,
+        "num": 175302,
+        "word": "957出演短剧",
+        "onboard_time": 1741232478,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 147092,
+        "num": 169129,
+        "word": "我是虞书欣我同意国王开播",
+        "onboard_time": 1741219817,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 167259,
+        "num": 167259,
+        "word": "周思成回应",
+        "onboard_time": 1741217536,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 163809,
+        "num": 163809,
+        "word": "陈乔恩说女生要过得有底气",
+        "onboard_time": 1741232297,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161956,
+        "num": 161956,
+        "word": "建议提高基层医护人员薪酬",
+        "onboard_time": 1741227196,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 160076,
+        "num": 160076,
+        "word": "女子阻止网友骂唐氏患者遭上门殴打",
+        "onboard_time": 1741218076,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152993,
+        "num": 152993,
+        "word": "特朗普对美政府离谱开支贴脸开大",
+        "onboard_time": 1741227495,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141276,
+        "num": 141276,
+        "word": "3月综艺录制汇总",
+        "onboard_time": 1741230018,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134597,
+        "num": 134597,
+        "word": "金智秀疑似受伤",
+        "onboard_time": 1741217235,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131325,
+        "num": 131325,
+        "word": "退税",
+        "onboard_time": 1741217115,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 125105,
+        "num": 125105,
+        "word": "唐奇1分钟打了16个电话",
+        "onboard_time": 1741230917,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123638,
+        "num": 123638,
+        "word": "以为正常其实严重缺觉的表现",
+        "onboard_time": 1741218136,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 121998,
+        "num": 121998,
+        "word": "湖北女子卖房卖车三年还债65万",
+        "onboard_time": 1741230737,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115201,
+        "num": 115201,
+        "word": "ADOR阻止NJZ活动",
+        "onboard_time": 1741230198,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114859,
+        "num": 114859,
+        "word": "乌克兰法令仍禁止泽连斯基与俄会谈",
+        "onboard_time": 1741219758,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110593,
+        "num": 110593,
+        "word": "医生建议染发烫发一年不要超过两次",
+        "onboard_time": 1741191017,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 109881,
+        "num": 109881,
+        "word": "唐奇 偏执阴湿男鬼",
+        "onboard_time": 1741232417,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平参加江苏代表团审议#"
+    }
+  }
+}

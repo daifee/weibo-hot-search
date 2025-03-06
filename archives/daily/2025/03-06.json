@@ -1,10 +1,10 @@
 {
   "startTime": 1741192562065,
-  "endTime": 1741232010165,
+  "endTime": 1741232727411,
   "band_list": [
     {
       "raw_hot": 1272671,
-      "num": 371300,
+      "num": 398926,
       "word": "田静英语一成绩",
       "onboard_time": 1741219518,
       "rank": 10,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 976430,
-      "num": 358671,
+      "num": 388893,
       "word": "19岁女孩天生髌骨脱位双膝随意移动",
       "onboard_time": 1741227558,
       "rank": 15,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 771763,
-      "num": 363671,
+      "num": 374191,
       "word": "陈乔恩回应变胖",
       "onboard_time": 1741217235,
       "rank": 26,
@@ -108,11 +108,19 @@
     },
     {
       "raw_hot": 617690,
-      "num": 390830,
+      "num": 491133,
       "word": "韩美军演炮弹疑坠入民宅致7人受伤",
       "onboard_time": 1741229296,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 586600,
+      "num": 586600,
+      "word": "建议将禁止就业年龄歧视纳入法律",
+      "onboard_time": 1741231696,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 586548,
@@ -123,12 +131,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 544539,
+      "num": 544539,
+      "word": "爱你原型",
+      "onboard_time": 1741230318,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 523661,
-      "num": 370278,
+      "num": 484036,
       "word": "哪吒2火上全国两会",
       "onboard_time": 1741230378,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 494762,
+      "num": 355382,
+      "word": "李威或免除刑罚",
+      "onboard_time": 1741226657,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 488900,
@@ -145,22 +169,6 @@
       "onboard_time": 1741219758,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 469274,
-      "num": 330067,
-      "word": "李威或免除刑罚",
-      "onboard_time": 1741226657,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 465377,
-      "num": 347916,
-      "word": "爱你原型",
-      "onboard_time": 1741230318,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 449523,
@@ -235,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 369059,
+      "num": 271723,
+      "word": "控制脂肪肝少吃主食还是少吃肉",
+      "onboard_time": 1741228997,
+      "rank": 48,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 356961,
       "num": 356961,
       "word": "哪吒2中的结界兽硬核开麦了",
@@ -263,6 +279,14 @@
       "num": 310953,
       "word": "ally柳演锡合拍",
       "onboard_time": 1741221440,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 300628,
+      "num": 300628,
+      "word": "刘忻凌晨开敞篷车接张予曦杀青下班",
+      "onboard_time": 1741232057,
       "rank": 18,
       "category": "艺人"
     },
@@ -299,12 +323,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 266088,
-      "num": 247018,
-      "word": "控制脂肪肝少吃主食还是少吃肉",
-      "onboard_time": 1741228997,
-      "rank": 48,
-      "category": "运动健身"
+      "raw_hot": 262674,
+      "num": 262674,
+      "word": "委员谈年轻人为什么不愿意学医了",
+      "onboard_time": 1741231457,
+      "rank": 32,
+      "category": "国内时政,教育"
     },
     {
       "raw_hot": 255551,
@@ -371,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217887,
+      "num": 217887,
+      "word": "第一次见在健身房相亲的",
+      "onboard_time": 1741232478,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 211905,
       "num": 211905,
       "word": "建议允许符合条件的职工办理自愿退休",
@@ -435,14 +467,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 189083,
-      "num": 189083,
-      "word": "委员谈年轻人为什么不愿意学医了",
-      "onboard_time": 1741231457,
-      "rank": 32,
-      "category": "国内时政,教育"
-    },
-    {
       "raw_hot": 188022,
       "num": 230104,
       "word": "白鹿说作为演员不会干涉妆造",
@@ -473,6 +497,14 @@
       "onboard_time": 1741192815,
       "rank": 18,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 175302,
+      "num": 175302,
+      "word": "957出演短剧",
+      "onboard_time": 1741232478,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 174733,
@@ -507,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163809,
+      "num": 163809,
+      "word": "陈乔恩说女生要过得有底气",
+      "onboard_time": 1741232297,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158340,
       "num": 158340,
       "word": "邹市明发声支持冉莹颖",
@@ -521,6 +561,14 @@
       "onboard_time": 1741223478,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 156019,
+      "num": 413288,
+      "word": "建议家长参与校园餐监督",
+      "onboard_time": 1741231037,
+      "rank": 14,
+      "category": "国内时政,教育"
     },
     {
       "raw_hot": 154266,
@@ -539,20 +587,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 152993,
+      "num": 152993,
+      "word": "特朗普对美政府离谱开支贴脸开大",
+      "onboard_time": 1741227495,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 148750,
       "num": 148750,
       "word": "Manus",
       "onboard_time": 1741225577,
       "rank": 49,
       "category": "互联网,数码"
-    },
-    {
-      "raw_hot": 148472,
-      "num": 148472,
-      "word": "特朗普对美政府离谱开支贴脸开大",
-      "onboard_time": 1741227495,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 144729,
@@ -587,6 +635,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 136258,
+      "num": 208639,
+      "word": "于适金昇玟巴黎活动生图",
+      "onboard_time": 1741232537,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 126896,
       "num": 126896,
       "word": "建议为低收入群体免费培训AI技能",
@@ -609,6 +665,14 @@
       "onboard_time": 1741172120,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121998,
+      "num": 121998,
+      "word": "湖北女子卖房卖车三年还债65万",
+      "onboard_time": 1741230737,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121712,
@@ -635,12 +699,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 115201,
+      "num": 249195,
+      "word": "ADOR阻止NJZ活动",
+      "onboard_time": 1741230198,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113710,
       "num": 113710,
       "word": "巴黎圣日耳曼0比1利物浦",
       "onboard_time": 1741217056,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109881,
+      "num": 109881,
+      "word": "唐奇 偏执阴湿男鬼",
+      "onboard_time": 1741232417,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 107525,
@@ -665,14 +745,6 @@
       "onboard_time": 1741228817,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105251,
-      "num": 105251,
-      "word": "湖北女子卖房卖车三年还债65万",
-      "onboard_time": 1741230737,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 105187,
@@ -713,14 +785,6 @@
       "onboard_time": 1741216936,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 101194,
-      "num": 249195,
-      "word": "ADOR阻止NJZ活动",
-      "onboard_time": 1741230198,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 98074,
@@ -787,12 +851,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 91816,
-      "num": 268343,
-      "word": "建议家长参与校园餐监督",
-      "onboard_time": 1741231037,
-      "rank": 14,
-      "category": "国内时政,教育"
+      "raw_hot": 92847,
+      "num": 208630,
+      "word": "新款问界M9预售价47.8万起",
+      "onboard_time": 1741231518,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 90768,
@@ -819,14 +883,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 83303,
-      "num": 174209,
-      "word": "新款问界M9预售价47.8万起",
-      "onboard_time": 1741231518,
-      "rank": 35,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 75504,
       "num": 75504,
       "word": "迪丽热巴心里的路怎么走呀",
@@ -841,6 +897,14 @@
       "onboard_time": 1741213332,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 72525,
+      "num": 273308,
+      "word": "建议把HPV疫苗纳入免疫规划",
+      "onboard_time": 1741231636,
+      "rank": 22,
+      "category": "国内时政,健康医疗"
     },
     {
       "raw_hot": 69841,
@@ -963,14 +1027,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 49802,
-      "num": 225520,
-      "word": "建议将禁止就业年龄歧视纳入法律",
-      "onboard_time": 1741231696,
-      "rank": 27,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 49457,
       "num": 49457,
       "word": "拜仁3比0勒沃库森",
@@ -1033,14 +1089,6 @@
       "onboard_time": 1741195872,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 27082,
-      "num": 239530,
-      "word": "建议把HPV疫苗纳入免疫规划",
-      "onboard_time": 1741231636,
-      "rank": 22,
-      "category": "国内时政,健康医疗"
     },
     {
       "raw_hot": 26843,
