@@ -1,6 +1,6 @@
 {
   "startTime": 1741192562065,
-  "endTime": 1741249805105,
+  "endTime": 1741250618998,
   "band_list": [
     {
       "raw_hot": 2290757,
@@ -25,6 +25,14 @@
       "onboard_time": 1741231696,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1621218,
+      "num": 324324,
+      "word": "于正回答赵丽颖陈晓再搭问题",
+      "onboard_time": 1741248981,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 1450972,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 1061444,
-      "num": 253489,
+      "num": 322170,
       "word": "所有人把账号发给刘晓艳查分",
       "onboard_time": 1741245200,
       "rank": 38,
@@ -129,14 +137,6 @@
       "onboard_time": 1741217115,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 887864,
-      "num": 252899,
-      "word": "于正回答赵丽颖陈晓再搭问题",
-      "onboard_time": 1741248981,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 878195,
@@ -211,12 +211,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 646735,
+      "num": 266375,
+      "word": "甄子丹谈王大陆教唆打人事件",
+      "onboard_time": 1741249881,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 625748,
       "num": 625748,
       "word": "委员谈年轻人为什么不愿意学医了",
       "onboard_time": 1741231457,
       "rank": 32,
       "category": "国内时政,教育"
+    },
+    {
+      "raw_hot": 623723,
+      "num": 320466,
+      "word": "张朝阳建议年轻人租房住少贷款",
+      "onboard_time": 1741249042,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 622037,
@@ -241,6 +257,14 @@
       "onboard_time": 1741230318,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 612150,
+      "num": 316698,
+      "word": "权志龙点赞李胜利ins相关",
+      "onboard_time": 1741249340,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 586548,
@@ -395,14 +419,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 394812,
-      "num": 251492,
-      "word": "张朝阳建议年轻人租房住少贷款",
-      "onboard_time": 1741249042,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 391822,
       "num": 334781,
       "word": "45岁男子花15元中了1800万",
@@ -500,7 +516,7 @@
     },
     {
       "raw_hot": 326099,
-      "num": 250213,
+      "num": 265862,
       "word": "现在的美甲已经进化到这种程度了",
       "onboard_time": 1741246221,
       "rank": 30,
@@ -563,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 299135,
+      "num": 327735,
+      "word": "今年将择机降准降息",
+      "onboard_time": 1741249822,
+      "rank": 9,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 290120,
       "num": 328520,
       "word": "英语语法体系",
@@ -609,6 +633,14 @@
       "onboard_time": 1741245500,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 263166,
+      "num": 263166,
+      "word": "吴彦祖开英语网课",
+      "onboard_time": 1741249520,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 255551,
@@ -665,6 +697,14 @@
       "onboard_time": 1741227196,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 247406,
+      "num": 247406,
+      "word": "35岁左右是发胖关键期",
+      "onboard_time": 1741248260,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 246146,
@@ -755,14 +795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 218292,
-      "num": 218292,
-      "word": "权志龙点赞李胜利ins相关",
-      "onboard_time": 1741249340,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 217887,
       "num": 217887,
       "word": "第一次见在健身房相亲的",
@@ -833,14 +865,6 @@
       "onboard_time": 1741184659,
       "rank": 17,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 202634,
-      "num": 202634,
-      "word": "35岁左右是发胖关键期",
-      "onboard_time": 1741248260,
-      "rank": 27,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 201243,
@@ -1043,6 +1067,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 159974,
+      "num": 250464,
+      "word": "Manus为何一夜爆火",
+      "onboard_time": 1741234819,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 159411,
       "num": 243260,
       "word": "孙燕姿上海站",
@@ -1097,14 +1129,6 @@
       "onboard_time": 1741231037,
       "rank": 14,
       "category": "国内时政,教育"
-    },
-    {
-      "raw_hot": 155359,
-      "num": 250464,
-      "word": "Manus为何一夜爆火",
-      "onboard_time": 1741234819,
-      "rank": 28,
-      "category": "互联网"
     },
     {
       "raw_hot": 154266,
@@ -1163,6 +1187,14 @@
       "category": "互联网,数码"
     },
     {
+      "raw_hot": 149320,
+      "num": 149320,
+      "word": "韩国空军就误发炸弹致歉",
+      "onboard_time": 1741250180,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 149105,
       "num": 149105,
       "word": "迪丽热巴工作嘻嘻迪",
@@ -1188,7 +1220,7 @@
     },
     {
       "raw_hot": 145751,
-      "num": 220247,
+      "num": 223181,
       "word": "创造营亚洲2晋级名单",
       "onboard_time": 1741246460,
       "rank": 26,
@@ -1243,14 +1275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 139169,
-      "num": 139169,
-      "word": "吴彦祖开英语网课",
-      "onboard_time": 1741249520,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 136918,
       "num": 247834,
       "word": "刘昊然早期精神状态好超前",
@@ -1275,8 +1299,16 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 133206,
+      "num": 133206,
+      "word": "终于学会怎么清理C盘了",
+      "onboard_time": 1741249221,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 131531,
-      "num": 149243,
+      "num": 233257,
       "word": "JDG人员变动",
       "onboard_time": 1741245560,
       "rank": 43,
@@ -1387,6 +1419,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 119666,
+      "num": 330448,
+      "word": "商务部部长说西方不亮东方亮",
+      "onboard_time": 1741249520,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 119599,
       "num": 119599,
       "word": "春天是精神疾病集中高发期",
@@ -1425,6 +1465,14 @@
       "onboard_time": 1741230198,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114997,
+      "num": 252201,
+      "word": "将发行首批特别国债5000亿元",
+      "onboard_time": 1741248380,
+      "rank": 14,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 113710,
@@ -1467,6 +1515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110196,
+      "num": 110196,
+      "word": "原来是四年前的刘昊然啊",
+      "onboard_time": 1741250421,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 107525,
       "num": 107525,
       "word": "32岁的何苏叶",
@@ -1481,14 +1537,6 @@
       "onboard_time": 1741224317,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 106284,
-      "num": 106284,
-      "word": "终于学会怎么清理C盘了",
-      "onboard_time": 1741249221,
-      "rank": 43,
-      "category": "数码"
     },
     {
       "raw_hot": 106017,
@@ -1515,6 +1563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105520,
+      "num": 223097,
+      "word": "医生提醒长期熬夜基因突变风险大增",
+      "onboard_time": 1741249702,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 105187,
       "num": 105187,
       "word": "经期喝点它缓解小腹冷痛",
@@ -1539,14 +1595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 103582,
-      "num": 252201,
-      "word": "将发行首批特别国债5000亿元",
-      "onboard_time": 1741248380,
-      "rank": 14,
-      "category": "国内时政,财经"
-    },
-    {
       "raw_hot": 103246,
       "num": 103246,
       "word": "米津玄师羽生结弦合作",
@@ -1569,6 +1617,14 @@
       "onboard_time": 1741246942,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 100693,
+      "num": 100693,
+      "word": "财政部部长发布会上补充了一句话",
+      "onboard_time": 1741249281,
+      "rank": 48,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 98074,
@@ -1609,14 +1665,6 @@
       "onboard_time": 1741243637,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 96375,
-      "num": 96375,
-      "word": "财政部部长发布会上补充了一句话",
-      "onboard_time": 1741249281,
-      "rank": 48,
-      "category": "国内时政,财经"
     },
     {
       "raw_hot": 96098,
@@ -1827,6 +1875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 60375,
+      "num": 146996,
+      "word": "整个英语体系没有比这个更完整的了",
+      "onboard_time": 1741250242,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 59459,
       "num": 59459,
       "word": "MacBookAir新增天蓝色",
@@ -1899,6 +1955,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 55184,
+      "num": 266375,
+      "word": "陈乔恩说鸡佛是很平常的食物",
+      "onboard_time": 1741250242,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 54549,
       "num": 199774,
       "word": "批量制造网红景区的推手已年入千万",
@@ -1945,14 +2009,6 @@
       "onboard_time": 1741235600,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 51254,
-      "num": 165044,
-      "word": "医生提醒长期熬夜基因突变风险大增",
-      "onboard_time": 1741249702,
-      "rank": 33,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 51192,
@@ -2003,6 +2059,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 44684,
+      "num": 329244,
+      "word": "Manus会是下一个DeepSeek吗",
+      "onboard_time": 1741249881,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 43847,
       "num": 43847,
       "word": "李现瞿友宁或将二搭",
@@ -2025,14 +2089,6 @@
       "onboard_time": 1741238119,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 37519,
-      "num": 251028,
-      "word": "商务部部长说西方不亮东方亮",
-      "onboard_time": 1741249520,
-      "rank": 18,
-      "category": "国内时政"
     },
     {
       "raw_hot": 36767,
