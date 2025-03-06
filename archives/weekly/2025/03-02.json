@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1741272114014,
+  "endTime": 1741274732402,
   "band_list": [
     {
       "raw_hot": 13760834,
@@ -1283,6 +1283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 784600,
+      "num": 1125536,
+      "word": "10年6战法考终上岸的北大保安已辞职",
+      "onboard_time": 1741270344,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 783779,
       "num": 248798,
       "word": "柯洁全款拿下小米SU7Ultra",
@@ -1473,6 +1481,14 @@
       "onboard_time": 1741261341,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 704826,
+      "num": 217449,
+      "word": "何凯文",
+      "onboard_time": 1741272862,
+      "rank": 11,
+      "category": "教育"
     },
     {
       "raw_hot": 702613,
@@ -1947,6 +1963,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 597919,
+      "num": 278445,
+      "word": "香港18岁中学女生真实的一面",
+      "onboard_time": 1741268724,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 595599,
       "num": 595599,
       "word": "第一部女A男B的国产剧",
@@ -2297,14 +2321,6 @@
       "onboard_time": 1741151899,
       "rank": 33,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 537771,
-      "num": 278445,
-      "word": "香港18岁中学女生真实的一面",
-      "onboard_time": 1741268724,
-      "rank": 16,
-      "category": "幽默"
     },
     {
       "raw_hot": 536256,
@@ -3147,6 +3163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 402639,
+      "num": 210425,
+      "word": "刘浩存美得好权威",
+      "onboard_time": 1741272561,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 402471,
       "num": 402471,
       "word": "郑州下雪",
@@ -3329,6 +3353,14 @@
       "onboard_time": 1741158679,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 377040,
+      "num": 377040,
+      "word": "王楚钦程靖淇互动",
+      "onboard_time": 1741271181,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 377019,
@@ -3515,6 +3547,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 357205,
+      "num": 195018,
+      "word": "男子一家族9口人患癌症8人离世",
+      "onboard_time": 1741272561,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 356961,
       "num": 356961,
       "word": "哪吒2中的结界兽硬核开麦了",
@@ -3657,6 +3697,14 @@
       "onboard_time": 1741084282,
       "rank": 7,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 347345,
+      "num": 227340,
+      "word": "医生建议的玩手机正确姿势",
+      "onboard_time": 1741268783,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 345111,
@@ -4275,6 +4323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 298450,
+      "num": 232351,
+      "word": "女孩用DeepSeek挑到报恩榴莲",
+      "onboard_time": 1741269743,
+      "rank": 22,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 298365,
       "num": 230213,
       "word": "内娱四页纸台词一遍过是什么水平",
@@ -4313,14 +4369,6 @@
       "onboard_time": 1741066698,
       "rank": 49,
       "category": "网红"
-    },
-    {
-      "raw_hot": 296949,
-      "num": 232351,
-      "word": "女孩用DeepSeek挑到报恩榴莲",
-      "onboard_time": 1741269743,
-      "rank": 22,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 296512,
@@ -4571,14 +4619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 281455,
-      "num": 227340,
-      "word": "医生建议的玩手机正确姿势",
-      "onboard_time": 1741268783,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 280790,
       "num": 280790,
       "word": "高度近视的人不建议献血",
@@ -4747,14 +4787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 269369,
-      "num": 269369,
-      "word": "10年6战法考终上岸的北大保安已辞职",
-      "onboard_time": 1741270344,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 269058,
       "num": 269058,
       "word": "你好星期六难哄收视新高",
@@ -4913,6 +4945,14 @@
       "onboard_time": 1741147521,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 262486,
+      "num": 262486,
+      "word": "短剧还珠已备案",
+      "onboard_time": 1741274121,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 262137,
@@ -5433,14 +5473,6 @@
       "onboard_time": 1740894919,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 231502,
-      "num": 231502,
-      "word": "王楚钦程靖淇互动",
-      "onboard_time": 1741271181,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 230788,
@@ -6523,6 +6555,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 199059,
+      "num": 221306,
+      "word": "冯远征说通过节目成为优秀演员不切实际",
+      "onboard_time": 1741271663,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 198966,
       "num": 166082,
       "word": "中英混血剑桥状元在投行工作的一天",
@@ -7203,6 +7243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 182544,
+      "num": 182544,
+      "word": "初音 母鸡卡",
+      "onboard_time": 1741273942,
+      "rank": 23,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 182131,
       "num": 182131,
       "word": "文淇 无所谓反正老娘很美",
@@ -7521,6 +7569,14 @@
       "onboard_time": 1741008680,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173715,
+      "num": 173715,
+      "word": "土象星座真心喜欢你的表现",
+      "onboard_time": 1741271181,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 173617,
@@ -9579,14 +9635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 139861,
-      "num": 139861,
-      "word": "土象星座真心喜欢你的表现",
-      "onboard_time": 1741271181,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 139842,
       "num": 139842,
       "word": "欧冠",
@@ -11203,6 +11251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113131,
+      "num": 113131,
+      "word": "Jennie新合作曲音源",
+      "onboard_time": 1741273103,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 113049,
       "num": 316316,
       "word": "这类常见小票可能影响生殖发育和致癌",
@@ -11433,6 +11489,14 @@
       "onboard_time": 1740902119,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 109338,
+      "num": 109338,
+      "word": "李威 周处除三害",
+      "onboard_time": 1741271782,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 108741,
@@ -11891,6 +11955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102510,
+      "num": 102510,
+      "word": "PEL",
+      "onboard_time": 1741273582,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 102097,
       "num": 102097,
       "word": "txt六周年",
@@ -11913,6 +11985,14 @@
       "onboard_time": 1741246942,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 101904,
+      "num": 101904,
+      "word": "李昀锐车代预热",
+      "onboard_time": 1741274422,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 101187,
@@ -12411,6 +12491,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 90723,
+      "num": 90723,
+      "word": "李威精舍命案案件细节",
+      "onboard_time": 1741272502,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90681,
       "num": 221744,
       "word": "辛芷蕾剧宣方式像吃菌子了",
@@ -12459,12 +12547,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 89794,
+      "num": 89794,
+      "word": "每天久坐超过4小时会怎样",
+      "onboard_time": 1741272622,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 89482,
       "num": 1395894,
       "word": "中国制造硬核出圈",
       "onboard_time": 1740923120,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 89359,
+      "num": 89359,
+      "word": "iPhone17Air续航或超预期",
+      "onboard_time": 1741273942,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 89128,
@@ -12723,6 +12827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81105,
+      "num": 90799,
+      "word": "何浩楠随地大小帅",
+      "onboard_time": 1741274662,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80955,
       "num": 205698,
       "word": "花海狗塑自己",
@@ -12827,6 +12939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 76727,
+      "num": 76727,
+      "word": "DeepSeek分析与Manus区别",
+      "onboard_time": 1741274601,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 76501,
       "num": 224363,
       "word": "普通人适合如何买金",
@@ -12841,6 +12961,14 @@
       "onboard_time": 1741162338,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 75654,
+      "num": 112356,
+      "word": "做Excel表半小时用智能体仅需1分钟",
+      "onboard_time": 1741271962,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 75504,
@@ -13017,14 +13145,6 @@
       "onboard_time": 1741271422,
       "rank": 48,
       "category": "数码"
-    },
-    {
-      "raw_hot": 71695,
-      "num": 71695,
-      "word": "李威 周处除三害",
-      "onboard_time": 1741271782,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 71402,
@@ -14251,6 +14371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43080,
+      "num": 195828,
+      "word": "记者实测Manus写新闻",
+      "onboard_time": 1741274002,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 42916,
       "num": 292220,
       "word": "解码政府工作报告中的新质生产力",
@@ -14328,6 +14456,14 @@
       "word": "杜玉波贪欲膨胀靠教育吃教育",
       "onboard_time": 1740897620,
       "rank": 33,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 41148,
+      "num": 108113,
+      "word": "中国用一句古语回应美国",
+      "onboard_time": 1741274542,
+      "rank": 32,
       "category": "国内时政"
     },
     {
@@ -15049,6 +15185,14 @@
       "onboard_time": 1740951790,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23776,
+      "num": 213055,
+      "word": "建议AED部署推进到城市最小单元",
+      "onboard_time": 1741273462,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 23662,
