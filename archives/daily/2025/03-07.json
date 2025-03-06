@@ -1,6 +1,6 @@
 {
   "startTime": 1741278581665,
-  "endTime": 1741281694640,
+  "endTime": 1741282741786,
   "band_list": [
     {
       "raw_hot": 485662,
@@ -27,20 +27,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 344191,
+      "num": 132758,
+      "word": "医生提醒长期熬夜基因突变风险大增",
+      "onboard_time": 1741249702,
+      "rank": 14,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 282436,
       "num": 282436,
       "word": "短剧还珠已备案",
       "onboard_time": 1741274121,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 276770,
-      "num": 132758,
-      "word": "医生提醒长期熬夜基因突变风险大增",
-      "onboard_time": 1741249702,
-      "rank": 14,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 191078,
@@ -387,6 +387,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 42055,
+      "num": 43638,
+      "word": "支持发行科技创新债券",
+      "onboard_time": 1741267882,
+      "rank": 32,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 42009,
       "num": 65037,
       "word": "邓超看起来像极了本地人",
@@ -401,14 +409,6 @@
       "onboard_time": 1741275440,
       "rank": 49,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 40108,
-      "num": 43638,
-      "word": "支持发行科技创新债券",
-      "onboard_time": 1741267882,
-      "rank": 32,
-      "category": "国内时政,财经"
     },
     {
       "raw_hot": 36129,
@@ -456,6 +456,22 @@
       "word": "经济主题记者会要点速览",
       "onboard_time": 1741265780,
       "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 22717,
+      "num": 38772,
+      "word": "初音 母鸡卡",
+      "onboard_time": 1741273942,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 15692,
+      "num": 59050,
+      "word": "投资于人成两会热词",
+      "onboard_time": 1741281677,
+      "rank": 9,
       "category": "国内时政"
     }
   ],

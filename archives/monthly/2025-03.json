@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741281694640,
+  "endTime": 1741282741786,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -18817,6 +18817,14 @@
       "onboard_time": 1740856512,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15692,
+      "num": 59050,
+      "word": "投资于人成两会热词",
+      "onboard_time": 1741281677,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 15560,
