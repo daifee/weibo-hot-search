@@ -1,0 +1,410 @@
+{
+  "runTime": 1741257814848,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1651064,
+        "num": 1651064,
+        "word": "姚明建议未成年人息屏24小时行动",
+        "onboard_time": 1741252581,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 393434,
+        "num": 393434,
+        "word": "双一流高校本科再扩招2万人",
+        "onboard_time": 1741251262,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 34639,
+        "num": 392692,
+        "word": "两会期间各代表团举行开放团组活动",
+        "onboard_time": 1741252882,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 392162,
+        "num": 392162,
+        "word": "跑步5公里和走路5公里的效果",
+        "onboard_time": 1741252882,
+        "rank": 3,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 292280,
+        "num": 292280,
+        "word": "Manus创始人为中国90后",
+        "onboard_time": 1741248802,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 289768,
+        "num": 289768,
+        "word": "建议清退有性侵犯罪记录的教育从业者",
+        "onboard_time": 1741240039,
+        "rank": 5,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 254768,
+        "num": 254768,
+        "word": "赤字规模达到5.66万亿元",
+        "onboard_time": 1741252942,
+        "rank": 6,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 187370,
+        "num": 254541,
+        "word": "代表说0补课0月考孩子成绩都是A",
+        "onboard_time": 1741240698,
+        "rank": 7,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 134062,
+        "num": 254299,
+        "word": "汪苏泷11城24场",
+        "onboard_time": 1741245980,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 40150,
+        "num": 253918,
+        "word": "盛李豪被推荐为2025全国劳模",
+        "onboard_time": 1741256601,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2446628,
+        "num": 253769,
+        "word": "海底捞已报案",
+        "onboard_time": 1741256722,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 672864,
+        "num": 253282,
+        "word": "海底捞回应有人往火锅撒尿",
+        "onboard_time": 1741257321,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 635357,
+        "num": 252857,
+        "word": "韩国空军就误发炸弹致歉",
+        "onboard_time": 1741250180,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 554271,
+        "num": 252646,
+        "word": "医生提醒长期熬夜基因突变风险大增",
+        "onboard_time": 1741249702,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 183742,
+        "num": 252300,
+        "word": "靳东建议成立国家遗嘱库",
+        "onboard_time": 1741256960,
+        "rank": 14,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 461766,
+        "num": 251881,
+        "word": "瘦30斤 面部折叠度变化",
+        "onboard_time": 1741243877,
+        "rank": 15,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 425016,
+        "num": 251736,
+        "word": "疑似易梦玲被高中同学喊话",
+        "onboard_time": 1741234698,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134550,
+        "num": 251306,
+        "word": "于适塞纳河边清唱童年",
+        "onboard_time": 1741256423,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76130,
+        "num": 250910,
+        "word": "建议提高教师教龄津贴",
+        "onboard_time": 1741256901,
+        "rank": 18,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 30670,
+        "num": 250730,
+        "word": "C919大飞机开进向往发布会",
+        "onboard_time": 1741255341,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 324826,
+        "num": 250480,
+        "word": "权志龙点赞李胜利ins相关",
+        "onboard_time": 1741249340,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291571,
+        "num": 250142,
+        "word": "熬夜久的人闻起来是臭的",
+        "onboard_time": 1741252760,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 274096,
+        "num": 249843,
+        "word": "尹子维已经当了365天英语老师",
+        "onboard_time": 1741256000,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268555,
+        "num": 249474,
+        "word": "花一万多去旅游感觉很有负罪感",
+        "onboard_time": 1741251561,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249303,
+        "num": 249303,
+        "word": "温以凡出租车上穿裤子",
+        "onboard_time": 1741235239,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215192,
+        "num": 215192,
+        "word": "五哈海南录制没有鹿晗和老舅",
+        "onboard_time": 1741250902,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206448,
+        "num": 206448,
+        "word": "内娱四页纸台词一遍过是什么水平",
+        "onboard_time": 1741257200,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185503,
+        "num": 185503,
+        "word": "虞书欣带出来的兵还是太权威了",
+        "onboard_time": 1741253001,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180574,
+        "num": 180574,
+        "word": "第五人格",
+        "onboard_time": 1741257502,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177762,
+        "num": 177762,
+        "word": "靳东谈王大陆伤人事件",
+        "onboard_time": 1741234338,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160145,
+        "num": 160145,
+        "word": "两会",
+        "onboard_time": 1741185860,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 155157,
+        "num": 155157,
+        "word": "客人等餐40分钟怕服务员被开充值2000",
+        "onboard_time": 1741252882,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149237,
+        "num": 149237,
+        "word": "全国两会",
+        "onboard_time": 1741257622,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 146760,
+        "num": 146760,
+        "word": "建议将禁止就业年龄歧视纳入法律",
+        "onboard_time": 1741231696,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 143693,
+        "num": 143693,
+        "word": "现在的美甲已经进化到这种程度了",
+        "onboard_time": 1741246221,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 142633,
+        "num": 142633,
+        "word": "张彬彬毛晓彤合体饭撒",
+        "onboard_time": 1741256482,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37467,
+        "num": 141134,
+        "word": "Manus创始人肖弘曾持股2家公司",
+        "onboard_time": 1741255761,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 140754,
+        "num": 140754,
+        "word": "35岁左右是发胖关键期",
+        "onboard_time": 1741248260,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136066,
+        "num": 136066,
+        "word": "于正问大家满意娜扎定妆照吗",
+        "onboard_time": 1741245500,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126844,
+        "num": 126844,
+        "word": "周深语言小天才的证据又增加了",
+        "onboard_time": 1741256842,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 24418,
+        "num": 120809,
+        "word": "舒淇巴黎看秀",
+        "onboard_time": 1741257321,
+        "rank": 40,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 116977,
+        "num": 116977,
+        "word": "260平只做了两房的家",
+        "onboard_time": 1741253601,
+        "rank": 41,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 115481,
+        "num": 115481,
+        "word": "白鹿晒12年前模特约拍私信",
+        "onboard_time": 1741238479,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114155,
+        "num": 114155,
+        "word": "吴彦祖开英语网课",
+        "onboard_time": 1741249520,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112782,
+        "num": 112782,
+        "word": "王星越素颜做饭",
+        "onboard_time": 1741253842,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52856,
+        "num": 111905,
+        "word": "跳科目三的外国记者看了两遍哪吒2",
+        "onboard_time": 1741255821,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 111866,
+        "num": 111866,
+        "word": "经济主题记者会",
+        "onboard_time": 1741244417,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 111570,
+        "num": 111570,
+        "word": "沪上千金遇上东北三好生",
+        "onboard_time": 1741257381,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111077,
+        "num": 111077,
+        "word": "建议禁止16岁以下未成年人用社交媒体",
+        "onboard_time": 1741246760,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 104207,
+        "num": 104207,
+        "word": "Manus为何一夜爆火",
+        "onboard_time": 1741234819,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}
