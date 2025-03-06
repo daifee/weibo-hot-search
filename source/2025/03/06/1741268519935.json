@@ -1,0 +1,410 @@
+{
+  "runTime": 1741268519935,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 665512,
+        "num": 1106482,
+        "word": "姚明建议未成年人息屏24小时行动",
+        "onboard_time": 1741252581,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 461529,
+        "num": 461529,
+        "word": "哪吒2票房破146亿",
+        "onboard_time": 1741259062,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 31892,
+        "num": 375364,
+        "word": "经济主题记者会要点速览",
+        "onboard_time": 1741265780,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 371744,
+        "num": 371744,
+        "word": "跑步5公里和走路5公里的效果",
+        "onboard_time": 1741252882,
+        "rank": 3,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 334621,
+        "num": 334621,
+        "word": "雷军说卖车的成功来得有点猝不及防",
+        "onboard_time": 1741259421,
+        "rank": 4,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 36221,
+        "num": 306703,
+        "word": "这组2025政府工作KPI很带感",
+        "onboard_time": 1741266082,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 281496,
+        "num": 281496,
+        "word": "Manus创始人为中国90后",
+        "onboard_time": 1741248802,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 275983,
+        "num": 275983,
+        "word": "徐若晗不愧是现偶的兵",
+        "onboard_time": 1741261581,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227253,
+        "num": 227253,
+        "word": "全国两会",
+        "onboard_time": 1741257622,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 42916,
+        "num": 227041,
+        "word": "解码政府工作报告中的新质生产力",
+        "onboard_time": 1741267101,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1190931,
+        "num": 223294,
+        "word": "往锅底撒尿如属实当事人或被行拘",
+        "onboard_time": 1741265722,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 455464,
+        "num": 220793,
+        "word": "阿诺想亲吻时董力的反应",
+        "onboard_time": 1741261341,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 451325,
+        "num": 218605,
+        "word": "瘦30斤 面部折叠度变化",
+        "onboard_time": 1741243877,
+        "rank": 12,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 356676,
+        "num": 215141,
+        "word": "陈哲远狗啃妹妹头",
+        "onboard_time": 1741263861,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16656,
+        "num": 212178,
+        "word": "建议规范商品保质期标注避免被遮",
+        "onboard_time": 1741267642,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 305582,
+        "num": 208645,
+        "word": "Jennie回归大赏",
+        "onboard_time": 1741262602,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 207250,
+        "num": 207250,
+        "word": "靳东建议成立国家遗嘱库",
+        "onboard_time": 1741256960,
+        "rank": 16,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 208143,
+        "num": 206968,
+        "word": "广丰把激光雷达智驾车拉到14万级",
+        "onboard_time": 1741267943,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 200535,
+        "num": 200535,
+        "word": "被似锦第14集30分6秒爽到了",
+        "onboard_time": 1741265422,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195696,
+        "num": 195696,
+        "word": "王一博 三场时装秀",
+        "onboard_time": 1741267402,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 185400,
+        "num": 185400,
+        "word": "医生提醒长期熬夜基因突变风险大增",
+        "onboard_time": 1741249702,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 179622,
+        "num": 179622,
+        "word": "檀健次连舌头都在飚戏",
+        "onboard_time": 1741267522,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172342,
+        "num": 172342,
+        "word": "古路村村支书喊话李现来徒步",
+        "onboard_time": 1741261762,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165823,
+        "num": 165823,
+        "word": "韩国空军就误发炸弹致歉",
+        "onboard_time": 1741250180,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 162911,
+        "num": 162911,
+        "word": "阴阳师",
+        "onboard_time": 1741265662,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144904,
+        "num": 144904,
+        "word": "周杰伦两大师妹上同一个节目",
+        "onboard_time": 1741266500,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137079,
+        "num": 137079,
+        "word": "邓超看起来像极了本地人",
+        "onboard_time": 1741262720,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131320,
+        "num": 131320,
+        "word": "蔡康永认为穷忙大可不必",
+        "onboard_time": 1741264041,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126436,
+        "num": 126436,
+        "word": "赤字规模达到5.66万亿元",
+        "onboard_time": 1741252942,
+        "rank": 28,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 107767,
+        "num": 121304,
+        "word": "北上",
+        "onboard_time": 1741263320,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116366,
+        "num": 116366,
+        "word": "权志龙点赞李胜利ins相关",
+        "onboard_time": 1741249340,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113523,
+        "num": 113523,
+        "word": "为什么提了离职之后又感觉工作还行",
+        "onboard_time": 1741258402,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110018,
+        "num": 110018,
+        "word": "中方对美提以其人之道还治其人之身",
+        "onboard_time": 1741262063,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 109442,
+        "num": 109442,
+        "word": "李威案死者生前遭受多人凌辱虐待",
+        "onboard_time": 1741265241,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106118,
+        "num": 106118,
+        "word": "Manus邀请码被炒到9万",
+        "onboard_time": 1741264161,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 152807,
+        "num": 105970,
+        "word": "极氪为大学生就业难题献计",
+        "onboard_time": 1741267462,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 105710,
+        "num": 105710,
+        "word": "35岁左右是发胖关键期",
+        "onboard_time": 1741248260,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103525,
+        "num": 103525,
+        "word": "熬夜久的人闻起来是臭的",
+        "onboard_time": 1741252760,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103263,
+        "num": 103263,
+        "word": "央视网文娱评爱你",
+        "onboard_time": 1741268062,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102846,
+        "num": 102846,
+        "word": "花一万多去旅游感觉很有负罪感",
+        "onboard_time": 1741251561,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98977,
+        "num": 98977,
+        "word": "李健时尚芭莎3月主题刊封面",
+        "onboard_time": 1741266801,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 97799,
+        "num": 97799,
+        "word": "刘浩存饭撒",
+        "onboard_time": 1741262901,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97625,
+        "num": 97625,
+        "word": "LV要做彩妆了",
+        "onboard_time": 1741259601,
+        "rank": 42,
+        "category": "美妆,时尚"
+      },
+      {
+        "raw_hot": 91353,
+        "num": 91353,
+        "word": "支持发行科技创新债券",
+        "onboard_time": 1741267882,
+        "rank": 43,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 90441,
+        "num": 90441,
+        "word": "滤镜 好看",
+        "onboard_time": 1741261102,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87654,
+        "num": 87654,
+        "word": "鞠婧祎换新发色",
+        "onboard_time": 1741261642,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86440,
+        "num": 86440,
+        "word": "留几手展示新家",
+        "onboard_time": 1741260501,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84507,
+        "num": 84507,
+        "word": "内娱四页纸台词一遍过是什么水平",
+        "onboard_time": 1741257200,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84033,
+        "num": 84033,
+        "word": "10岁小孩哥臂围36厘米震惊网友",
+        "onboard_time": 1741268482,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83571,
+        "num": 83571,
+        "word": "起猛了云之羽玩了国王嘘字梗",
+        "onboard_time": 1741263381,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平看望全国政协委员#"
+    }
+  }
+}
