@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741239625495,
+  "endTime": 1741242747733,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -105,6 +105,14 @@
       "onboard_time": 1740758299,
       "rank": 0,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 2290757,
+      "num": 249431,
+      "word": "英一事变",
+      "onboard_time": 1741238958,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 2284377,
@@ -1065,6 +1073,14 @@
       "onboard_time": 1741051699,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 969979,
+      "num": 414492,
+      "word": "何凯文删除查分视频",
+      "onboard_time": 1741239377,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 959170,
@@ -2363,6 +2379,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 571250,
+      "num": 571250,
+      "word": "建议清退有性侵犯罪记录的教育从业者",
+      "onboard_time": 1741240039,
+      "rank": 1,
+      "category": "国内时政,教育"
+    },
+    {
       "raw_hot": 571206,
       "num": 455799,
       "word": "奥斯卡缅怀郑佩佩",
@@ -3355,6 +3379,14 @@
       "category": "国内时政,电影"
     },
     {
+      "raw_hot": 418481,
+      "num": 245459,
+      "word": "吉克隽逸身体不适提前退出录制",
+      "onboard_time": 1741240578,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 416208,
       "num": 416208,
       "word": "杨紫直播",
@@ -3377,6 +3409,14 @@
       "onboard_time": 1741160297,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 414413,
+      "num": 373461,
+      "word": "内娱红毯质检员舒淇",
+      "onboard_time": 1741237758,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 412840,
@@ -3723,20 +3763,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 375505,
+      "num": 268718,
+      "word": "金晨阶梯短发",
+      "onboard_time": 1741237940,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 374648,
       "num": 234501,
       "word": "我是徐明浩我不演了",
       "onboard_time": 1741013000,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 373461,
-      "num": 373461,
-      "word": "内娱红毯质检员舒淇",
-      "onboard_time": 1741237758,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 373283,
@@ -3897,6 +3937,14 @@
       "onboard_time": 1740839244,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 357971,
+      "num": 357971,
+      "word": "委员称35岁正是年富力强的时期",
+      "onboard_time": 1741240039,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 357473,
@@ -4169,6 +4217,14 @@
       "onboard_time": 1740844522,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 335142,
+      "num": 240362,
+      "word": "白鹿晒12年前模特约拍私信",
+      "onboard_time": 1741238479,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 334877,
@@ -4923,14 +4979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 288746,
-      "num": 220384,
-      "word": "白鹿晒12年前模特约拍私信",
-      "onboard_time": 1741238479,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 288123,
       "num": 317655,
       "word": "泽连斯基正飞往伦敦",
@@ -5017,6 +5065,14 @@
       "onboard_time": 1741218136,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 282075,
+      "num": 282075,
+      "word": "老外到底有多羡慕中国人",
+      "onboard_time": 1741238359,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 281733,
@@ -5267,14 +5323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 268718,
-      "num": 268718,
-      "word": "金晨阶梯短发",
-      "onboard_time": 1741237940,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 268584,
       "num": 268584,
       "word": "血观音吊打阿诺拉",
@@ -5521,6 +5569,14 @@
       "onboard_time": 1740811894,
       "rank": 26,
       "category": "健康医疗,艺人"
+    },
+    {
+      "raw_hot": 256700,
+      "num": 256700,
+      "word": "代表说0补课0月考孩子成绩都是A",
+      "onboard_time": 1741240698,
+      "rank": 7,
+      "category": "国内时政,教育"
     },
     {
       "raw_hot": 255551,
@@ -5825,6 +5881,14 @@
       "onboard_time": 1740932177,
       "rank": 23,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 239581,
+      "num": 239581,
+      "word": "桑延给温以凡放的洗澡水",
+      "onboard_time": 1741239558,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 238987,
@@ -6363,6 +6427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 221053,
+      "num": 221053,
+      "word": "久坐的人喝咖啡格外受益",
+      "onboard_time": 1741240039,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 220827,
       "num": 220827,
       "word": "爱你 小虐",
@@ -6659,6 +6731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212434,
+      "num": 212434,
+      "word": "迪丽热巴蹲姿比耶",
+      "onboard_time": 1741241478,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 212041,
       "num": 212041,
       "word": "80%以上患者HPV会在一年内清除",
@@ -6681,6 +6761,14 @@
       "onboard_time": 1740813329,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 211386,
+      "num": 227453,
+      "word": "朱雀回家",
+      "onboard_time": 1741241418,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 210552,
@@ -6713,14 +6801,6 @@
       "onboard_time": 1741007120,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 209806,
-      "num": 209806,
-      "word": "老外到底有多羡慕中国人",
-      "onboard_time": 1741238359,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 209529,
@@ -7331,12 +7411,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197796,
-      "num": 240821,
-      "word": "英一事变",
-      "onboard_time": 1741238958,
-      "rank": 26,
-      "category": "教育"
+      "raw_hot": 197956,
+      "num": 197956,
+      "word": "哈登50分",
+      "onboard_time": 1741242258,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 197745,
@@ -8811,6 +8891,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 168273,
+      "num": 168273,
+      "word": "郑中基近照",
+      "onboard_time": 1741241599,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167992,
       "num": 167992,
       "word": "滤镜女二人设",
@@ -8849,14 +8937,6 @@
       "onboard_time": 1740971120,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 167229,
-      "num": 167229,
-      "word": "何凯文删除查分视频",
-      "onboard_time": 1741239377,
-      "rank": 37,
-      "category": "教育"
     },
     {
       "raw_hot": 167199,
@@ -9835,6 +9915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152016,
+      "num": 242651,
+      "word": "洪小铃晒孕肚照",
+      "onboard_time": 1741239318,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151848,
       "num": 151848,
       "word": "A股超4000股上涨",
@@ -10001,6 +10089,14 @@
       "onboard_time": 1741073897,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 149105,
+      "num": 149105,
+      "word": "迪丽热巴工作嘻嘻迪",
+      "onboard_time": 1741240698,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 149088,
@@ -10643,6 +10739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140155,
+      "num": 140155,
+      "word": "柳智敏雪允分享SMJYP面试技巧",
+      "onboard_time": 1741239858,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140016,
       "num": 140016,
       "word": "这7类人容易提前长白发",
@@ -10817,14 +10921,6 @@
       "onboard_time": 1740937633,
       "rank": 22,
       "category": "艺人,电影"
-    },
-    {
-      "raw_hot": 138739,
-      "num": 138739,
-      "word": "洪小铃晒孕肚照",
-      "onboard_time": 1741239318,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 138630,
@@ -11347,6 +11443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 128491,
+      "num": 128491,
+      "word": "哈登单节23分",
+      "onboard_time": 1741242317,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128428,
       "num": 234335,
       "word": "曾凡博扣爽了",
@@ -11505,6 +11609,14 @@
       "onboard_time": 1741143738,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126831,
+      "num": 200867,
+      "word": "深情眼杀青",
+      "onboard_time": 1741242198,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 126596,
@@ -12195,14 +12307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115820,
-      "num": 115820,
-      "word": "桑延给温以凡放的洗澡水",
-      "onboard_time": 1741239558,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 115772,
       "num": 281119,
       "word": "建议将规制隐性加班列入监督",
@@ -12344,6 +12448,14 @@
       "word": "丁禹兮纯白新中式look",
       "onboard_time": 1741188498,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 113179,
+      "num": 113179,
+      "word": "蜘蛛侠内德扮演者订婚",
+      "onboard_time": 1741242618,
+      "rank": 45,
       "category": "艺人"
     },
     {
@@ -12489,6 +12601,14 @@
       "onboard_time": 1741077445,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110555,
+      "num": 110555,
+      "word": "杭州一咖啡店上线蛇咖",
+      "onboard_time": 1741242678,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 110514,
@@ -14427,6 +14547,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 69650,
+      "num": 113558,
+      "word": "直播两会开放团组活动",
+      "onboard_time": 1741241118,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 69518,
       "num": 176835,
       "word": "校方回应博物馆招保洁保安需硕士学历",
@@ -14995,6 +15123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 56921,
+      "num": 113221,
+      "word": "有哪些结束的综艺是你的意难平",
+      "onboard_time": 1741240939,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 56765,
       "num": 56765,
       "word": "杨肸子说红房子陈欢尔是人生角色",
@@ -15217,6 +15353,14 @@
       "onboard_time": 1741235600,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 51164,
+      "num": 239896,
+      "word": "我国将在近五年实施火星采样返回",
+      "onboard_time": 1741240939,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 50780,
@@ -15697,6 +15841,14 @@
       "onboard_time": 1740974480,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 38931,
+      "num": 168888,
+      "word": "2025全球总决赛赛制更新",
+      "onboard_time": 1741238119,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 38509,
