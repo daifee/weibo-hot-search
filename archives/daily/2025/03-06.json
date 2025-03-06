@@ -1,6 +1,6 @@
 {
   "startTime": 1741192562065,
-  "endTime": 1741266041631,
+  "endTime": 1741267825362,
   "band_list": [
     {
       "raw_hot": 4490343,
@@ -147,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1014389,
+      "num": 292204,
+      "word": "往锅底撒尿如属实当事人或被行拘",
+      "onboard_time": 1741265722,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 976430,
       "num": 391703,
       "word": "19岁女孩天生髌骨脱位双膝随意移动",
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 712863,
-      "num": 240498,
+      "num": 292087,
       "word": "阿诺想亲吻时董力的反应",
       "onboard_time": 1741261341,
       "rank": 10,
@@ -515,6 +523,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 408876,
+      "num": 292343,
+      "word": "光渊日本开播",
+      "onboard_time": 1741266382,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 408865,
+      "num": 291677,
+      "word": "陈哲远狗啃妹妹头",
+      "onboard_time": 1741263861,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 407735,
       "num": 388714,
       "word": "Angelababy烟熏妆封面",
@@ -652,7 +676,7 @@
     },
     {
       "raw_hot": 342526,
-      "num": 233776,
+      "num": 291535,
       "word": "Jennie回归大赏",
       "onboard_time": 1741262602,
       "rank": 11,
@@ -723,12 +747,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 318531,
-      "num": 231262,
-      "word": "陈哲远狗啃妹妹头",
-      "onboard_time": 1741263861,
-      "rank": 20,
-      "category": "艺人"
+      "raw_hot": 319894,
+      "num": 319894,
+      "word": "雷军说卖车的成功来得有点猝不及防",
+      "onboard_time": 1741259421,
+      "rank": 38,
+      "category": "国内时政,互联网"
     },
     {
       "raw_hot": 317233,
@@ -787,6 +811,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 292411,
+      "num": 292411,
+      "word": "阴阳师",
+      "onboard_time": 1741265662,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 291225,
+      "num": 291225,
+      "word": "全国两会",
+      "onboard_time": 1741257622,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 290120,
       "num": 328520,
       "word": "英语语法体系",
@@ -833,14 +873,6 @@
       "onboard_time": 1741251561,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 272646,
-      "num": 272646,
-      "word": "雷军说卖车的成功来得有点猝不及防",
-      "onboard_time": 1741259421,
-      "rank": 38,
-      "category": "国内时政,互联网"
     },
     {
       "raw_hot": 270644,
@@ -1051,6 +1083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 216284,
+      "num": 291521,
+      "word": "被似锦第14集30分6秒爽到了",
+      "onboard_time": 1741265422,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214912,
       "num": 239936,
       "word": "祁煜大天使",
@@ -1129,14 +1169,6 @@
       "onboard_time": 1741234279,
       "rank": 35,
       "category": "动漫,音乐"
-    },
-    {
-      "raw_hot": 199427,
-      "num": 206886,
-      "word": "全国两会",
-      "onboard_time": 1741257622,
-      "rank": 32,
-      "category": "国内时政"
     },
     {
       "raw_hot": 198966,
@@ -1275,12 +1307,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 172434,
-      "num": 172434,
-      "word": "阴阳师",
-      "onboard_time": 1741265662,
-      "rank": 20,
-      "category": "游戏"
+      "raw_hot": 172166,
+      "num": 172166,
+      "word": "王一博 三场时装秀",
+      "onboard_time": 1741267402,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 170605,
@@ -1603,6 +1635,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 147191,
+      "num": 147191,
+      "word": "邓超看起来像极了本地人",
+      "onboard_time": 1741262720,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146995,
       "num": 146995,
       "word": "第五人格赛事",
@@ -1659,6 +1699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143626,
+      "num": 173744,
+      "word": "李威案死者生前遭受多人凌辱虐待",
+      "onboard_time": 1741265241,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 142633,
       "num": 142633,
       "word": "张彬彬毛晓彤合体饭撒",
@@ -1675,14 +1723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141260,
-      "num": 141260,
-      "word": "邓超看起来像极了本地人",
-      "onboard_time": 1741262720,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 141195,
       "num": 141195,
       "word": "美国又发生三机相撞",
@@ -1697,14 +1737,6 @@
       "onboard_time": 1741239858,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 137876,
-      "num": 137876,
-      "word": "被似锦第14集30分6秒爽到了",
-      "onboard_time": 1741265422,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 136918,
@@ -1755,6 +1787,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 130499,
+      "num": 168248,
+      "word": "周杰伦两大师妹上同一个节目",
+      "onboard_time": 1741266500,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 129137,
+      "num": 120688,
+      "word": "极氪为大学生就业难题献计",
+      "onboard_time": 1741267462,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 128584,
       "num": 329399,
       "word": "把周末双休还给高中生难在哪",
@@ -1803,6 +1851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126742,
+      "num": 242809,
+      "word": "中方对美提以其人之道还治其人之身",
+      "onboard_time": 1741262063,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 126596,
       "num": 126596,
       "word": "中国山水究竟藏着多少惊喜",
@@ -1833,14 +1889,6 @@
       "onboard_time": 1741242678,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 125258,
-      "num": 125258,
-      "word": "往锅底撒尿如属实当事人或被行拘",
-      "onboard_time": 1741265722,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 125137,
@@ -2123,14 +2171,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 105981,
-      "num": 173744,
-      "word": "李威案死者生前遭受多人凌辱虐待",
-      "onboard_time": 1741265241,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 105608,
       "num": 148650,
       "word": "汪苏泷鸟巢舞美",
@@ -2153,6 +2193,14 @@
       "onboard_time": 1741227736,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 104514,
+      "num": 104514,
+      "word": "刘浩存饭撒",
+      "onboard_time": 1741262901,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 104364,
@@ -2195,12 +2243,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 101945,
+      "num": 291772,
+      "word": "Manus邀请码被炒到9万",
+      "onboard_time": 1741264161,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 100693,
       "num": 100693,
       "word": "财政部部长发布会上补充了一句话",
       "onboard_time": 1741249281,
       "rank": 48,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 99648,
+      "num": 99648,
+      "word": "檀健次连舌头都在飚戏",
+      "onboard_time": 1741267522,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 98824,
@@ -2371,14 +2435,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 76626,
-      "num": 242809,
-      "word": "中方对美提以其人之道还治其人之身",
-      "onboard_time": 1741262063,
-      "rank": 15,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 75504,
       "num": 75504,
       "word": "迪丽热巴心里的路怎么走呀",
@@ -2465,14 +2521,6 @@
       "onboard_time": 1741252342,
       "rank": 29,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 65837,
-      "num": 190268,
-      "word": "Manus邀请码被炒到9万",
-      "onboard_time": 1741264161,
-      "rank": 19,
-      "category": "互联网"
     },
     {
       "raw_hot": 65671,
@@ -2755,6 +2803,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 44603,
+      "num": 291284,
+      "word": "李健时尚芭莎3月主题刊封面",
+      "onboard_time": 1741266801,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 43847,
       "num": 43847,
       "word": "李现瞿友宁或将二搭",
@@ -2769,6 +2825,14 @@
       "onboard_time": 1741256601,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39649,
+      "num": 382969,
+      "word": "经济主题记者会要点速览",
+      "onboard_time": 1741265780,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 39485,
@@ -2793,6 +2857,14 @@
       "onboard_time": 1741245742,
       "rank": 31,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 34914,
+      "num": 315122,
+      "word": "这组2025政府工作KPI很带感",
+      "onboard_time": 1741266082,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 34461,
@@ -2931,11 +3003,11 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 23610,
-      "num": 369105,
-      "word": "经济主题记者会要点速览",
-      "onboard_time": 1741265780,
-      "rank": 2,
+      "raw_hot": 21927,
+      "num": 291409,
+      "word": "建议开设防欺凌教育等课程",
+      "onboard_time": 1741266322,
+      "rank": 18,
       "category": "国内时政"
     },
     {
@@ -2952,6 +3024,14 @@
       "word": "政府工作报告里的加与减",
       "onboard_time": 1741182558,
       "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 20448,
+      "num": 292220,
+      "word": "解码政府工作报告中的新质生产力",
+      "onboard_time": 1741267101,
+      "rank": 9,
       "category": "国内时政"
     },
     {
@@ -3097,6 +3177,14 @@
       "onboard_time": 1741261642,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 10132,
+      "num": 160910,
+      "word": "建议规范商品保质期标注避免被遮",
+      "onboard_time": 1741267642,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 6312,
