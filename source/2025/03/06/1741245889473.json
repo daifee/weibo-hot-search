@@ -1,0 +1,410 @@
+{
+  "runTime": 1741245889473,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 957492,
+        "num": 1153198,
+        "word": "代表说0补课0月考孩子成绩都是A",
+        "onboard_time": 1741240698,
+        "rank": 0,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 649996,
+        "num": 649996,
+        "word": "建议将禁止就业年龄歧视纳入法律",
+        "onboard_time": 1741231696,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 33273,
+        "num": 601453,
+        "word": "这份民生清单温暖你我",
+        "onboard_time": 1741233138,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 730176,
+        "num": 599546,
+        "word": "冯远征说遭遇家暴应第一时间报警",
+        "onboard_time": 1741243158,
+        "rank": 3,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 587566,
+        "num": 587566,
+        "word": "瘦30斤 面部折叠度变化",
+        "onboard_time": 1741243877,
+        "rank": 4,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 523899,
+        "num": 523899,
+        "word": "建议清退有性侵犯罪记录的教育从业者",
+        "onboard_time": 1741240039,
+        "rank": 5,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 410820,
+        "num": 410820,
+        "word": "建议彻底整治劳务派遣乱象",
+        "onboard_time": 1741243818,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 269851,
+        "num": 269851,
+        "word": "委员称35岁正是年富力强的时期",
+        "onboard_time": 1741240039,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 154717,
+        "num": 269802,
+        "word": "爱你原型",
+        "onboard_time": 1741230318,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223565,
+        "num": 269051,
+        "word": "经济主题记者会",
+        "onboard_time": 1741244417,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1108769,
+        "num": 268195,
+        "word": "疑似易梦玲被高中同学喊话",
+        "onboard_time": 1741234698,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 738914,
+        "num": 267690,
+        "word": "温以凡出租车上穿裤子",
+        "onboard_time": 1741235239,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 351190,
+        "num": 266879,
+        "word": "吉克隽逸身体不适提前退出录制",
+        "onboard_time": 1741240578,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330204,
+        "num": 266265,
+        "word": "朱雀回家",
+        "onboard_time": 1741241418,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 317233,
+        "num": 265344,
+        "word": "迪丽热巴蹲姿比耶",
+        "onboard_time": 1741241478,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 265149,
+        "num": 265149,
+        "word": "两会",
+        "onboard_time": 1741185860,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 245024,
+        "num": 245024,
+        "word": "白露好牛",
+        "onboard_time": 1741243759,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 179819,
+        "num": 179819,
+        "word": "内娱红毯质检员舒淇",
+        "onboard_time": 1741237758,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179202,
+        "num": 179202,
+        "word": "哈登50分",
+        "onboard_time": 1741242258,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81814,
+        "num": 178892,
+        "word": "郑中基近照",
+        "onboard_time": 1741241599,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 578544,
+        "num": 177135,
+        "word": "久坐的人喝咖啡格外受益",
+        "onboard_time": 1741240039,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 469020,
+        "num": 176747,
+        "word": "靳东谈王大陆伤人事件",
+        "onboard_time": 1741234338,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270639,
+        "num": 175385,
+        "word": "白鹿晒12年前模特约拍私信",
+        "onboard_time": 1741238479,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174636,
+        "num": 174636,
+        "word": "玉茗茶骨定妆直播",
+        "onboard_time": 1741243097,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34461,
+        "num": 170632,
+        "word": "骑士联盟首支锁定季后赛球队",
+        "onboard_time": 1741245441,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169506,
+        "num": 169506,
+        "word": "老外到底有多羡慕中国人",
+        "onboard_time": 1741238359,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164026,
+        "num": 164026,
+        "word": "桑延给温以凡放的洗澡水",
+        "onboard_time": 1741239558,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160784,
+        "num": 160784,
+        "word": "辛芷蕾工作室不同意刘梓懿道歉",
+        "onboard_time": 1741244358,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157865,
+        "num": 157865,
+        "word": "第五人格五团一",
+        "onboard_time": 1741244298,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 51192,
+        "num": 157336,
+        "word": "代表建议有条件企业弹性上下班",
+        "onboard_time": 1741244660,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 211760,
+        "num": 157314,
+        "word": "于正问大家满意娜扎定妆照吗",
+        "onboard_time": 1741245500,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21584,
+        "num": 157297,
+        "word": "2024经济成绩单的4个特点",
+        "onboard_time": 1741245742,
+        "rank": 31,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 157293,
+        "num": 157293,
+        "word": "金晨阶梯短发",
+        "onboard_time": 1741237940,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 96403,
+        "num": 155729,
+        "word": "火星情报局",
+        "onboard_time": 1741243637,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155335,
+        "num": 155335,
+        "word": "修改奖金计税方式可能多退税",
+        "onboard_time": 1741245081,
+        "rank": 34,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 11281,
+        "num": 153173,
+        "word": "提振消费专项行动方案将很快发布实施",
+        "onboard_time": 1741245860,
+        "rank": 35,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 15874,
+        "num": 152353,
+        "word": "将设立国家创业投资引导基金",
+        "onboard_time": 1741245801,
+        "rank": 36,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 152325,
+        "num": 152325,
+        "word": "漫画腿是种病",
+        "onboard_time": 1741232897,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 152080,
+        "num": 152080,
+        "word": "所有人把账号发给刘晓艳查分",
+        "onboard_time": 1741245200,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 150917,
+        "num": 150917,
+        "word": "控制脂肪肝少吃主食还是少吃肉",
+        "onboard_time": 1741228997,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 149774,
+        "num": 149774,
+        "word": "张子枫收养了新片里的小狗",
+        "onboard_time": 1741236140,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143855,
+        "num": 143855,
+        "word": "宋妍霏罗予彤马吟吟的cha是卡琳娜拍的",
+        "onboard_time": 1741245381,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135369,
+        "num": 135369,
+        "word": "不建议在家自行染发",
+        "onboard_time": 1741233738,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 131531,
+        "num": 131531,
+        "word": "JDG人员变动",
+        "onboard_time": 1741245560,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126090,
+        "num": 126090,
+        "word": "第五人格赛事",
+        "onboard_time": 1741238299,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125790,
+        "num": 125790,
+        "word": "建议将非工作时间线上办公纳入加班",
+        "onboard_time": 1741235780,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124029,
+        "num": 124029,
+        "word": "Manus",
+        "onboard_time": 1741225577,
+        "rank": 46,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 122726,
+        "num": 122726,
+        "word": "刘昊然早期精神状态好超前",
+        "onboard_time": 1741242919,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84762,
+        "num": 116000,
+        "word": "于适把韩语说的一身正气",
+        "onboard_time": 1741237339,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115357,
+        "num": 115357,
+        "word": "严浩翔健身房穿搭",
+        "onboard_time": 1741245321,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#让创新链和产业链无缝对接#"
+    }
+  }
+}

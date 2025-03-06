@@ -1,6 +1,6 @@
 {
   "startTime": 1741192562065,
-  "endTime": 1741243550162,
+  "endTime": 1741245889473,
   "band_list": [
     {
       "raw_hot": 2290757,
@@ -99,6 +99,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 957492,
+      "num": 1153198,
+      "word": "代表说0补课0月考孩子成绩都是A",
+      "onboard_time": 1741240698,
+      "rank": 7,
+      "category": "国内时政,教育"
+    },
+    {
       "raw_hot": 923006,
       "num": 448166,
       "word": "退税",
@@ -145,6 +153,14 @@
       "onboard_time": 1741180458,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 730176,
+      "num": 599546,
+      "word": "冯远征说遭遇家暴应第一时间报警",
+      "onboard_time": 1741243158,
+      "rank": 13,
+      "category": "国内时政,艺人"
     },
     {
       "raw_hot": 728058,
@@ -203,12 +219,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 587566,
+      "num": 587566,
+      "word": "瘦30斤 面部折叠度变化",
+      "onboard_time": 1741243877,
+      "rank": 4,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 586548,
       "num": 579031,
       "word": "我会好好的定档",
       "onboard_time": 1741228456,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 578544,
+      "num": 287433,
+      "word": "久坐的人喝咖啡格外受益",
+      "onboard_time": 1741240039,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 571250,
@@ -220,7 +252,7 @@
     },
     {
       "raw_hot": 531881,
-      "num": 261320,
+      "num": 266879,
       "word": "吉克隽逸身体不适提前退出录制",
       "onboard_time": 1741240578,
       "rank": 15,
@@ -283,14 +315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 442219,
-      "num": 442219,
-      "word": "代表说0补课0月考孩子成绩都是A",
-      "onboard_time": 1741240698,
-      "rank": 7,
-      "category": "国内时政,教育"
-    },
-    {
       "raw_hot": 434323,
       "num": 434323,
       "word": "两会",
@@ -313,6 +337,14 @@
       "onboard_time": 1741237758,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 410820,
+      "num": 410820,
+      "word": "建议彻底整治劳务派遣乱象",
+      "onboard_time": 1741243818,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 410243,
@@ -419,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 330204,
+      "num": 266265,
+      "word": "朱雀回家",
+      "onboard_time": 1741241418,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 324501,
       "num": 324501,
       "word": "白鹿说翟子路三部戏没熬到一个名分",
@@ -433,6 +473,14 @@
       "onboard_time": 1741224556,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 317233,
+      "num": 265344,
+      "word": "迪丽热巴蹲姿比耶",
+      "onboard_time": 1741241478,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 310953,
@@ -465,22 +513,6 @@
       "onboard_time": 1741218136,
       "rank": 22,
       "category": "民生新闻,美食"
-    },
-    {
-      "raw_hot": 289353,
-      "num": 254101,
-      "word": "朱雀回家",
-      "onboard_time": 1741241418,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 287433,
-      "num": 287433,
-      "word": "久坐的人喝咖啡格外受益",
-      "onboard_time": 1741240039,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 283911,
@@ -563,6 +595,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 245024,
+      "num": 245024,
+      "word": "白露好牛",
+      "onboard_time": 1741243759,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 239581,
       "num": 239581,
       "word": "桑延给温以凡放的洗澡水",
@@ -611,20 +651,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 223565,
+      "num": 269051,
+      "word": "经济主题记者会",
+      "onboard_time": 1741244417,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 222457,
       "num": 286534,
       "word": "古人吃海鲜剩的壳堆成地层",
       "onboard_time": 1741217355,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 221486,
-      "num": 221486,
-      "word": "迪丽热巴蹲姿比耶",
-      "onboard_time": 1741241478,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 220989,
@@ -659,6 +699,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 211760,
+      "num": 157314,
+      "word": "于正问大家满意娜扎定妆照吗",
+      "onboard_time": 1741245500,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207695,
       "num": 148682,
       "word": "喝咖啡与不喝咖啡身体的差距",
@@ -681,14 +729,6 @@
       "onboard_time": 1741232478,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 204544,
-      "num": 264905,
-      "word": "冯远征说遭遇家暴应第一时间报警",
-      "onboard_time": 1741243158,
-      "rank": 13,
-      "category": "国内时政,艺人"
     },
     {
       "raw_hot": 203623,
@@ -811,6 +851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174636,
+      "num": 214456,
+      "word": "玉茗茶骨定妆直播",
+      "onboard_time": 1741243097,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170605,
       "num": 240967,
       "word": "唐奇1分钟打了16个电话",
@@ -828,7 +876,7 @@
     },
     {
       "raw_hot": 168273,
-      "num": 168273,
+      "num": 178892,
       "word": "郑中基近照",
       "onboard_time": 1741241599,
       "rank": 34,
@@ -867,6 +915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160784,
+      "num": 160784,
+      "word": "辛芷蕾工作室不同意刘梓懿道歉",
+      "onboard_time": 1741244358,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159411,
       "num": 243260,
       "word": "孙燕姿上海站",
@@ -881,6 +937,14 @@
       "onboard_time": 1741220358,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157865,
+      "num": 157865,
+      "word": "第五人格五团一",
+      "onboard_time": 1741244298,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 157621,
@@ -905,6 +969,14 @@
       "onboard_time": 1741231037,
       "rank": 14,
       "category": "国内时政,教育"
+    },
+    {
+      "raw_hot": 155335,
+      "num": 155335,
+      "word": "修改奖金计税方式可能多退税",
+      "onboard_time": 1741245081,
+      "rank": 34,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 154266,
@@ -945,6 +1017,14 @@
       "onboard_time": 1741236079,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152080,
+      "num": 152080,
+      "word": "所有人把账号发给刘晓艳查分",
+      "onboard_time": 1741245200,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 152016,
@@ -1003,6 +1083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143855,
+      "num": 143855,
+      "word": "宋妍霏罗予彤马吟吟的cha是卡琳娜拍的",
+      "onboard_time": 1741245381,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141267,
       "num": 141267,
       "word": "迪丽热巴的眼线是卡纸做的",
@@ -1041,6 +1129,14 @@
       "onboard_time": 1741232537,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 131531,
+      "num": 131531,
+      "word": "JDG人员变动",
+      "onboard_time": 1741245560,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 129160,
@@ -1107,14 +1203,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 125015,
-      "num": 214456,
-      "word": "玉茗茶骨定妆直播",
-      "onboard_time": 1741243097,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 124397,
       "num": 360747,
       "word": "代表建议放宽公务员报考年龄限制",
@@ -1177,6 +1265,14 @@
       "onboard_time": 1741221978,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 115357,
+      "num": 115357,
+      "word": "严浩翔健身房穿搭",
+      "onboard_time": 1741245321,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 115201,
@@ -1313,6 +1409,14 @@
       "onboard_time": 1741180219,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 96403,
+      "num": 155729,
+      "word": "火星情报局",
+      "onboard_time": 1741243637,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 96098,
@@ -1588,7 +1692,7 @@
     },
     {
       "raw_hot": 56134,
-      "num": 529766,
+      "num": 601453,
       "word": "这份民生清单温暖你我",
       "onboard_time": 1741233138,
       "rank": 2,
@@ -1625,6 +1729,14 @@
       "onboard_time": 1741235600,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 51192,
+      "num": 157336,
+      "word": "代表建议有条件企业弹性上下班",
+      "onboard_time": 1741244660,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 49457,
@@ -1689,6 +1801,14 @@
       "onboard_time": 1741238119,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 34461,
+      "num": 170632,
+      "word": "骑士联盟首支锁定季后赛球队",
+      "onboard_time": 1741245441,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 33499,
@@ -1771,6 +1891,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 21584,
+      "num": 157297,
+      "word": "2024经济成绩单的4个特点",
+      "onboard_time": 1741245742,
+      "rank": 31,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 20916,
       "num": 407195,
       "word": "政府工作报告里的加与减",
@@ -1827,6 +1955,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 15874,
+      "num": 152353,
+      "word": "将设立国家创业投资引导基金",
+      "onboard_time": 1741245801,
+      "rank": 36,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 15447,
       "num": 25011,
       "word": "一起去街头问问老百姓最关心啥",
@@ -1881,6 +2017,14 @@
       "onboard_time": 1741206550,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11281,
+      "num": 153173,
+      "word": "提振消费专项行动方案将很快发布实施",
+      "onboard_time": 1741245860,
+      "rank": 35,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 11187,
