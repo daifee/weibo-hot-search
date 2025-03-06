@@ -1,6 +1,6 @@
 {
   "startTime": 1741192562065,
-  "endTime": 1741229928532,
+  "endTime": 1741230491377,
   "band_list": [
     {
       "raw_hot": 1272671,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1052270,
-      "num": 343532,
+      "num": 348431,
       "word": "男子1个月染发4次十多天头发掉光",
       "onboard_time": 1741189816,
       "rank": 10,
@@ -75,6 +75,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 725316,
+      "num": 358671,
+      "word": "19岁女孩天生髌骨脱位双膝随意移动",
+      "onboard_time": 1741227558,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 693321,
       "num": 339106,
       "word": "冉莹颖回应给儿子打生长激素",
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 681850,
-      "num": 681850,
+      "num": 1108901,
       "word": "你的退税到账了没",
       "onboard_time": 1741227495,
       "rank": 1,
@@ -97,6 +105,14 @@
       "onboard_time": 1741189277,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 579031,
+      "num": 579031,
+      "word": "我会好好的定档",
+      "onboard_time": 1741228456,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 488900,
@@ -115,14 +131,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 464512,
-      "num": 337560,
-      "word": "19岁女孩天生髌骨脱位双膝随意移动",
-      "onboard_time": 1741227558,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 449523,
       "num": 433198,
       "word": "靳东两会建议AI换脸立法",
@@ -139,14 +147,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 434920,
-      "num": 434920,
-      "word": "我会好好的定档",
-      "onboard_time": 1741228456,
-      "rank": 3,
-      "category": "电影"
-    },
-    {
       "raw_hot": 434323,
       "num": 434323,
       "word": "两会",
@@ -155,12 +155,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 423650,
-      "num": 423650,
+      "raw_hot": 424623,
+      "num": 424623,
       "word": "建议关注教师心理健康问题",
       "onboard_time": 1741224019,
       "rank": 21,
       "category": "国内时政,教育"
+    },
+    {
+      "raw_hot": 422114,
+      "num": 330067,
+      "word": "李威或免除刑罚",
+      "onboard_time": 1741226657,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 410243,
@@ -169,14 +177,6 @@
       "onboard_time": 1741188857,
       "rank": 4,
       "category": "数码"
-    },
-    {
-      "raw_hot": 404901,
-      "num": 330067,
-      "word": "李威或免除刑罚",
-      "onboard_time": 1741226657,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 398021,
@@ -193,6 +193,14 @@
       "onboard_time": 1741217115,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 390830,
+      "num": 390830,
+      "word": "韩美军演炮弹疑坠入民宅致7人受伤",
+      "onboard_time": 1741229296,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 372728,
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 289862,
-      "num": 250154,
+      "num": 253643,
       "word": "15元一颗的草莓贵了还是便宜",
       "onboard_time": 1741218136,
       "rank": 22,
@@ -281,6 +289,14 @@
       "onboard_time": 1741177939,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 248535,
+      "num": 379552,
+      "word": "建议提高基层医护人员薪酬",
+      "onboard_time": 1741227196,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 230681,
@@ -355,28 +371,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 201249,
-      "num": 313664,
-      "word": "韩美军演炮弹疑坠入民宅致7人受伤",
-      "onboard_time": 1741229296,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 196153,
       "num": 196153,
       "word": "周思成回应",
       "onboard_time": 1741217536,
       "rank": 43,
       "category": "教育"
-    },
-    {
-      "raw_hot": 193424,
-      "num": 379552,
-      "word": "建议提高基层医护人员薪酬",
-      "onboard_time": 1741227196,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 192320,
@@ -403,12 +403,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187567,
+      "num": 187567,
+      "word": "3月综艺录制汇总",
+      "onboard_time": 1741230018,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186492,
       "num": 198542,
       "word": "台湾地震",
       "onboard_time": 1741189039,
       "rank": 15,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 186028,
+      "num": 186028,
+      "word": "哪吒2火上全国两会",
+      "onboard_time": 1741230378,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 185430,
@@ -515,6 +531,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 140907,
+      "num": 140907,
+      "word": "控制脂肪肝少吃主食还是少吃肉",
+      "onboard_time": 1741228997,
+      "rank": 48,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 126896,
       "num": 126896,
       "word": "建议为低收入群体免费培训AI技能",
@@ -595,6 +619,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 104499,
+      "num": 104499,
+      "word": "爱你原型",
+      "onboard_time": 1741230318,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104364,
       "num": 104364,
       "word": "邝玲玲关心安保被戳到眼睛",
@@ -633,6 +665,14 @@
       "onboard_time": 1741219217,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 98011,
+      "num": 98011,
+      "word": "ADOR阻止NJZ活动",
+      "onboard_time": 1741230198,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 97558,
@@ -713,14 +753,6 @@
       "onboard_time": 1741182619,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 87194,
-      "num": 87194,
-      "word": "控制脂肪肝少吃主食还是少吃肉",
-      "onboard_time": 1741228997,
-      "rank": 48,
-      "category": "运动健身"
     },
     {
       "raw_hot": 75504,
@@ -836,7 +868,7 @@
     },
     {
       "raw_hot": 56525,
-      "num": 457308,
+      "num": 607443,
       "word": "政府工作报告里的创新关键词",
       "onboard_time": 1741182140,
       "rank": 2,
