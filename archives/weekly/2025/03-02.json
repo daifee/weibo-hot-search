@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1741260998950,
+  "endTime": 1741265120858,
   "band_list": [
     {
       "raw_hot": 13760834,
@@ -681,6 +681,14 @@
       "onboard_time": 1741160480,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1099986,
+      "num": 154605,
+      "word": "李威和妻子旁观施虐",
+      "onboard_time": 1741261522,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 1098010,
@@ -1433,6 +1441,14 @@
       "onboard_time": 1740913640,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 712863,
+      "num": 212377,
+      "word": "阿诺想亲吻时董力的反应",
+      "onboard_time": 1741261341,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 702613,
@@ -2411,6 +2427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 495785,
+      "num": 495785,
+      "word": "哪吒2票房破146亿",
+      "onboard_time": 1741259062,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 495581,
       "num": 495581,
       "word": "我国AI人才缺口达500万人",
@@ -2433,14 +2457,6 @@
       "onboard_time": 1741004718,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 491898,
-      "num": 491898,
-      "word": "哪吒2票房破146亿",
-      "onboard_time": 1741259062,
-      "rank": 4,
-      "category": "电影"
     },
     {
       "raw_hot": 490360,
@@ -3715,6 +3731,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 334683,
+      "num": 209581,
+      "word": "Jennie回归大赏",
+      "onboard_time": 1741262602,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 333945,
       "num": 300274,
       "word": "迪丽热巴同时登上时装男女刊封面",
@@ -4137,6 +4161,14 @@
       "onboard_time": 1741249822,
       "rank": 9,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 304250,
+      "num": 304250,
+      "word": "徐若晗不愧是现偶的兵",
+      "onboard_time": 1741261581,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 303979,
@@ -5459,6 +5491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 225048,
+      "num": 186854,
+      "word": "陈哲远狗啃妹妹头",
+      "onboard_time": 1741263861,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224932,
       "num": 224932,
       "word": "希望所有高铁行李架都改成这样",
@@ -5787,6 +5827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 213811,
+      "num": 213811,
+      "word": "古路村村支书喊话李现来徒步",
+      "onboard_time": 1741261762,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213670,
       "num": 213670,
       "word": "2024年进的步伐坚实有力",
@@ -5801,6 +5849,14 @@
       "onboard_time": 1740920839,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 212876,
+      "num": 212876,
+      "word": "雷军说卖车的成功来得有点猝不及防",
+      "onboard_time": 1741259421,
+      "rank": 38,
+      "category": "国内时政,互联网"
     },
     {
       "raw_hot": 212819,
@@ -7051,14 +7107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 180389,
-      "num": 180389,
-      "word": "雷军说卖车的成功来得有点猝不及防",
-      "onboard_time": 1741259421,
-      "rank": 38,
-      "category": "国内时政,互联网"
-    },
-    {
       "raw_hot": 179699,
       "num": 179699,
       "word": "2025奥斯卡获奖名单",
@@ -7312,6 +7360,14 @@
       "word": "北上表白越不经意越认真",
       "onboard_time": 1741230856,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 174612,
+      "num": 193790,
+      "word": "滤镜 好看",
+      "onboard_time": 1741261102,
+      "rank": 17,
       "category": "剧集"
     },
     {
@@ -7593,6 +7649,14 @@
       "onboard_time": 1740981618,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167826,
+      "num": 167826,
+      "word": "靳东建议防止未成年人沉迷短视频",
+      "onboard_time": 1741262302,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 167805,
@@ -8291,6 +8355,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 154690,
+      "num": 154690,
+      "word": "向全国妇女致以美好祝愿",
+      "onboard_time": 1741264581,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 154561,
       "num": 154561,
       "word": "湖人升至西部第二",
@@ -8355,6 +8427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153913,
+      "num": 153913,
+      "word": "留几手展示新家",
+      "onboard_time": 1741260501,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153894,
       "num": 153894,
       "word": "阿诺拉奥斯卡最佳剪辑",
@@ -8393,6 +8473,14 @@
       "onboard_time": 1740983178,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 153255,
+      "num": 153255,
+      "word": "建议把学生的AI能力纳入新课标",
+      "onboard_time": 1741262122,
+      "rank": 30,
+      "category": "国内时政,教育"
     },
     {
       "raw_hot": 153251,
@@ -9107,14 +9195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 142393,
-      "num": 142393,
-      "word": "留几手展示新家",
-      "onboard_time": 1741260501,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 142249,
       "num": 142249,
       "word": "拧巴的人需要一个耐心的爱人",
@@ -9169,6 +9249,14 @@
       "onboard_time": 1741153159,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141260,
+      "num": 141260,
+      "word": "邓超看起来像极了本地人",
+      "onboard_time": 1741262720,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 141195,
@@ -10147,6 +10235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125752,
+      "num": 129862,
+      "word": "北上真心话都在歌词里",
+      "onboard_time": 1741264581,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125600,
       "num": 217766,
       "word": "张馨予晒元宝头造型",
@@ -10377,6 +10473,14 @@
       "onboard_time": 1740989298,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122517,
+      "num": 148808,
+      "word": "张予曦剧本围读镜头",
+      "onboard_time": 1741262842,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 122283,
@@ -10787,6 +10891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114480,
+      "num": 153505,
+      "word": "蔡康永认为穷忙大可不必",
+      "onboard_time": 1741264041,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114281,
       "num": 182561,
       "word": "祁煜一直游到海水变粉",
@@ -11163,6 +11275,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 107775,
+      "num": 111745,
+      "word": "起猛了云之羽玩了国王嘘字梗",
+      "onboard_time": 1741263381,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107737,
       "num": 110731,
       "word": "陈都灵辛云来一见你就笑上班",
@@ -11249,6 +11369,14 @@
       "onboard_time": 1740894319,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106549,
+      "num": 106549,
+      "word": "鞠婧祎换新发色",
+      "onboard_time": 1741261642,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 106414,
@@ -11955,6 +12083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92573,
+      "num": 92573,
+      "word": "于正回应赵丽颖陈晓再搭热搜",
+      "onboard_time": 1741263142,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92368,
       "num": 634280,
       "word": "民营企业海外订单激增",
@@ -12451,6 +12587,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 74656,
+      "num": 198440,
+      "word": "中方对美提以其人之道还治其人之身",
+      "onboard_time": 1741262063,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 74507,
       "num": 136463,
       "word": "冯远征谈流量演员",
@@ -12715,6 +12859,14 @@
       "category": "国内时政,健康医疗"
     },
     {
+      "raw_hot": 68265,
+      "num": 201557,
+      "word": "manus到底是什么",
+      "onboard_time": 1741264222,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 68214,
       "num": 513053,
       "word": "2025活力中国",
@@ -12833,6 +12985,14 @@
       "onboard_time": 1741181119,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 65837,
+      "num": 190268,
+      "word": "Manus邀请码被炒到9万",
+      "onboard_time": 1741264161,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 65755,
@@ -12961,6 +13121,14 @@
       "onboard_time": 1741094121,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63051,
+      "num": 139996,
+      "word": "阿Sa适应时差的方法是不停吃饭",
+      "onboard_time": 1741263741,
+      "rank": 35,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 63050,
@@ -13707,6 +13875,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 45148,
+      "num": 542704,
+      "word": "两会期间各代表团举行开放团组活动",
+      "onboard_time": 1741252882,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 45061,
       "num": 45061,
       "word": "爱上张凌赫",
@@ -13737,6 +13913,14 @@
       "onboard_time": 1741249881,
       "rank": 8,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 44600,
+      "num": 204239,
+      "word": "建议景区重视年轻游客情绪价值",
+      "onboard_time": 1741263861,
+      "rank": 13,
+      "category": "国内时政,旅游"
     },
     {
       "raw_hot": 44479,
@@ -13907,20 +14091,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 39217,
+      "num": 191330,
+      "word": "建议设置游戏分级制度",
+      "onboard_time": 1741264820,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 38931,
       "num": 168888,
       "word": "2025全球总决赛赛制更新",
       "onboard_time": 1741238119,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 38839,
-      "num": 542704,
-      "word": "两会期间各代表团举行开放团组活动",
-      "onboard_time": 1741252882,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 38500,
@@ -15145,6 +15329,14 @@
       "onboard_time": 1741028651,
       "rank": 36,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 10555,
+      "num": 154069,
+      "word": "吉尼斯世界纪录刷新",
+      "onboard_time": 1741261642,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 10418,
