@@ -1,0 +1,410 @@
+{
+  "runTime": 1741232010165,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 878195,
+        "num": 1140511,
+        "word": "你的退税到账了没",
+        "onboard_time": 1741227495,
+        "rank": 0,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 399759,
+        "num": 399759,
+        "word": "建议孩子违法家长必须赔偿被害人",
+        "onboard_time": 1741224317,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 33912,
+        "num": 389508,
+        "word": "政府工作报告里的创新关键词",
+        "onboard_time": 1741182140,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 586548,
+        "num": 376990,
+        "word": "我会好好的定档",
+        "onboard_time": 1741228456,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 523661,
+        "num": 370278,
+        "word": "哪吒2火上全国两会",
+        "onboard_time": 1741230378,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 617690,
+        "num": 353390,
+        "word": "韩美军演炮弹疑坠入民宅致7人受伤",
+        "onboard_time": 1741229296,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 465377,
+        "num": 347916,
+        "word": "爱你原型",
+        "onboard_time": 1741230318,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 337082,
+        "num": 337082,
+        "word": "建议关注教师心理健康问题",
+        "onboard_time": 1741224019,
+        "rank": 7,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 335925,
+        "num": 335925,
+        "word": "两会",
+        "onboard_time": 1741185860,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 287247,
+        "num": 287247,
+        "word": "靳东两会建议AI换脸立法",
+        "onboard_time": 1741182619,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 976430,
+        "num": 283981,
+        "word": "19岁女孩天生髌骨脱位双膝随意移动",
+        "onboard_time": 1741227558,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 900848,
+        "num": 279704,
+        "word": "田静英语一成绩",
+        "onboard_time": 1741219518,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 637758,
+        "num": 276008,
+        "word": "陈乔恩回应变胖",
+        "onboard_time": 1741217235,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 494642,
+        "num": 272373,
+        "word": "辛芷蕾微博真的是本人发的吗",
+        "onboard_time": 1741185439,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91816,
+        "num": 268343,
+        "word": "建议家长参与校园餐监督",
+        "onboard_time": 1741231037,
+        "rank": 14,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 477190,
+        "num": 263510,
+        "word": "痛经女性近半或为子宫内膜异位症",
+        "onboard_time": 1741218196,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 469274,
+        "num": 260913,
+        "word": "李威或免除刑罚",
+        "onboard_time": 1741226657,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391564,
+        "num": 256035,
+        "word": "男子1个月染发4次十多天头发掉光",
+        "onboard_time": 1741189816,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255551,
+        "num": 255551,
+        "word": "这篓子快捅成马蜂窝了",
+        "onboard_time": 1741230677,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101194,
+        "num": 249195,
+        "word": "ADOR阻止NJZ活动",
+        "onboard_time": 1741230198,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266088,
+        "num": 247018,
+        "word": "控制脂肪肝少吃主食还是少吃肉",
+        "onboard_time": 1741228997,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 244329,
+        "num": 244329,
+        "word": "15元一颗的草莓贵了还是便宜",
+        "onboard_time": 1741218136,
+        "rank": 21,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 27082,
+        "num": 239530,
+        "word": "建议把HPV疫苗纳入免疫规划",
+        "onboard_time": 1741231636,
+        "rank": 22,
+        "category": "国内时政,健康医疗"
+      },
+      {
+        "raw_hot": 238558,
+        "num": 238558,
+        "word": "建议提高基层医护人员薪酬",
+        "onboard_time": 1741227196,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 235658,
+        "num": 235658,
+        "word": "冉莹颖回应给儿子打生长激素",
+        "onboard_time": 1741217174,
+        "rank": 24,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 225971,
+        "num": 225971,
+        "word": "45岁男子花15元中了1800万",
+        "onboard_time": 1741217115,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199118,
+        "num": 225911,
+        "word": "嘘国王在冬眠OST是懂季节的",
+        "onboard_time": 1741231097,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49802,
+        "num": 225520,
+        "word": "建议将禁止就业年龄歧视纳入法律",
+        "onboard_time": 1741231696,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 174733,
+        "num": 225173,
+        "word": "北上表白越不经意越认真",
+        "onboard_time": 1741230856,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170605,
+        "num": 225039,
+        "word": "唐奇1分钟打了16个电话",
+        "onboard_time": 1741230917,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224786,
+        "num": 224786,
+        "word": "柯淳说喜欢赵丽颖",
+        "onboard_time": 1741224556,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213238,
+        "num": 213238,
+        "word": "白鹿说翟子路三部戏没熬到一个名分",
+        "onboard_time": 1741223118,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189083,
+        "num": 189083,
+        "word": "委员谈年轻人为什么不愿意学医了",
+        "onboard_time": 1741231457,
+        "rank": 32,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 182516,
+        "num": 182516,
+        "word": "女子阻止网友骂唐氏患者遭上门殴打",
+        "onboard_time": 1741218076,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182383,
+        "num": 182383,
+        "word": "退税",
+        "onboard_time": 1741217115,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 83303,
+        "num": 174209,
+        "word": "新款问界M9预售价47.8万起",
+        "onboard_time": 1741231518,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 173601,
+        "num": 173601,
+        "word": "金智秀疑似受伤",
+        "onboard_time": 1741217235,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167651,
+        "num": 167651,
+        "word": "我是虞书欣我同意国王开播",
+        "onboard_time": 1741219817,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 155946,
+        "num": 155946,
+        "word": "周思成回应",
+        "onboard_time": 1741217536,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 147923,
+        "num": 147923,
+        "word": "特朗普对美政府离谱开支贴脸开大",
+        "onboard_time": 1741227495,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 143636,
+        "num": 143636,
+        "word": "3月综艺录制汇总",
+        "onboard_time": 1741230018,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135534,
+        "num": 135534,
+        "word": "以为正常其实严重缺觉的表现",
+        "onboard_time": 1741218136,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128872,
+        "num": 128872,
+        "word": "乌克兰法令仍禁止泽连斯基与俄会谈",
+        "onboard_time": 1741219758,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123092,
+        "num": 123092,
+        "word": "医生建议染发烫发一年不要超过两次",
+        "onboard_time": 1741191017,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 113901,
+        "num": 113901,
+        "word": "为何越来越多小众服饰品牌变便宜了",
+        "onboard_time": 1741188079,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110286,
+        "num": 110286,
+        "word": "李安说短视频消磨人的感觉",
+        "onboard_time": 1741226055,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110179,
+        "num": 110179,
+        "word": "雷军",
+        "onboard_time": 1741224138,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 107525,
+        "num": 107525,
+        "word": "32岁的何苏叶",
+        "onboard_time": 1741230976,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105251,
+        "num": 105251,
+        "word": "湖北女子卖房卖车三年还债65万",
+        "onboard_time": 1741230737,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97727,
+        "num": 97727,
+        "word": "ally柳演锡合拍",
+        "onboard_time": 1741221440,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的两会时间#"
+    }
+  }
+}

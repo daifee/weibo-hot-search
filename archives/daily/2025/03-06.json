@@ -1,6 +1,6 @@
 {
   "startTime": 1741192562065,
-  "endTime": 1741230491377,
+  "endTime": 1741232010165,
   "band_list": [
     {
       "raw_hot": 1272671,
@@ -27,12 +27,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 976430,
+      "num": 358671,
+      "word": "19岁女孩天生髌骨脱位双膝随意移动",
+      "onboard_time": 1741227558,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 923006,
       "num": 448166,
       "word": "退税",
       "onboard_time": 1741217115,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 878195,
+      "num": 1140511,
+      "word": "你的退税到账了没",
+      "onboard_time": 1741227495,
+      "rank": 1,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 801311,
@@ -75,28 +91,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 725316,
-      "num": 358671,
-      "word": "19岁女孩天生髌骨脱位双膝随意移动",
-      "onboard_time": 1741227558,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 693321,
       "num": 339106,
       "word": "冉莹颖回应给儿子打生长激素",
       "onboard_time": 1741217174,
       "rank": 10,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 681850,
-      "num": 1108901,
-      "word": "你的退税到账了没",
-      "onboard_time": 1741227495,
-      "rank": 1,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 622037,
@@ -107,11 +107,27 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 579031,
+      "raw_hot": 617690,
+      "num": 390830,
+      "word": "韩美军演炮弹疑坠入民宅致7人受伤",
+      "onboard_time": 1741229296,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 586548,
       "num": 579031,
       "word": "我会好好的定档",
       "onboard_time": 1741228456,
       "rank": 3,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 523661,
+      "num": 370278,
+      "word": "哪吒2火上全国两会",
+      "onboard_time": 1741230378,
+      "rank": 26,
       "category": "电影"
     },
     {
@@ -129,6 +145,22 @@
       "onboard_time": 1741219758,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 469274,
+      "num": 330067,
+      "word": "李威或免除刑罚",
+      "onboard_time": 1741226657,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 465377,
+      "num": 347916,
+      "word": "爱你原型",
+      "onboard_time": 1741230318,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 449523,
@@ -163,14 +195,6 @@
       "category": "国内时政,教育"
     },
     {
-      "raw_hot": 422114,
-      "num": 330067,
-      "word": "李威或免除刑罚",
-      "onboard_time": 1741226657,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 410243,
       "num": 410243,
       "word": "MacBook Air",
@@ -193,14 +217,6 @@
       "onboard_time": 1741217115,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 390830,
-      "num": 390830,
-      "word": "韩美军演炮弹疑坠入民宅致7人受伤",
-      "onboard_time": 1741229296,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 372728,
@@ -281,6 +297,22 @@
       "onboard_time": 1741218076,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 266088,
+      "num": 247018,
+      "word": "控制脂肪肝少吃主食还是少吃肉",
+      "onboard_time": 1741228997,
+      "rank": 48,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 255551,
+      "num": 255551,
+      "word": "这篓子快捅成马蜂窝了",
+      "onboard_time": 1741230677,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 254813,
@@ -371,6 +403,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 199118,
+      "num": 225911,
+      "word": "嘘国王在冬眠OST是懂季节的",
+      "onboard_time": 1741231097,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196153,
       "num": 196153,
       "word": "周思成回应",
@@ -393,6 +433,14 @@
       "onboard_time": 1741222878,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 189083,
+      "num": 189083,
+      "word": "委员谈年轻人为什么不愿意学医了",
+      "onboard_time": 1741231457,
+      "rank": 32,
+      "category": "国内时政,教育"
     },
     {
       "raw_hot": 188022,
@@ -419,20 +467,28 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 186028,
-      "num": 186028,
-      "word": "哪吒2火上全国两会",
-      "onboard_time": 1741230378,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 185430,
       "num": 122363,
       "word": "刘雨昕金智秀邝玲玲Orm同框",
       "onboard_time": 1741192815,
       "rank": 18,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 174733,
+      "num": 225173,
+      "word": "北上表白越不经意越认真",
+      "onboard_time": 1741230856,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 170605,
+      "num": 225039,
+      "word": "唐奇1分钟打了16个电话",
+      "onboard_time": 1741230917,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 166887,
@@ -531,14 +587,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 140907,
-      "num": 140907,
-      "word": "控制脂肪肝少吃主食还是少吃肉",
-      "onboard_time": 1741228997,
-      "rank": 48,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 126896,
       "num": 126896,
       "word": "建议为低收入群体免费培训AI技能",
@@ -595,6 +643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107525,
+      "num": 107525,
+      "word": "32岁的何苏叶",
+      "onboard_time": 1741230976,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107331,
       "num": 107331,
       "word": "当地回应女子阻止网友骂唐宝遭殴打",
@@ -611,20 +667,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105251,
+      "num": 105251,
+      "word": "湖北女子卖房卖车三年还债65万",
+      "onboard_time": 1741230737,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105187,
       "num": 105187,
       "word": "经期喝点它缓解小腹冷痛",
       "onboard_time": 1741227736,
       "rank": 42,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 104499,
-      "num": 104499,
-      "word": "爱你原型",
-      "onboard_time": 1741230318,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 104364,
@@ -659,20 +715,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 101194,
+      "num": 249195,
+      "word": "ADOR阻止NJZ活动",
+      "onboard_time": 1741230198,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98074,
       "num": 98074,
       "word": "王源偷偷拿彩带",
       "onboard_time": 1741219217,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 98011,
-      "num": 98011,
-      "word": "ADOR阻止NJZ活动",
-      "onboard_time": 1741230198,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 97558,
@@ -731,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91816,
+      "num": 268343,
+      "word": "建议家长参与校园餐监督",
+      "onboard_time": 1741231037,
+      "rank": 14,
+      "category": "国内时政,教育"
+    },
+    {
       "raw_hot": 90768,
       "num": 90768,
       "word": "富时中国A50指数变更",
@@ -753,6 +817,14 @@
       "onboard_time": 1741182619,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 83303,
+      "num": 174209,
+      "word": "新款问界M9预售价47.8万起",
+      "onboard_time": 1741231518,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 75504,
@@ -891,6 +963,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 49802,
+      "num": 225520,
+      "word": "建议将禁止就业年龄歧视纳入法律",
+      "onboard_time": 1741231696,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 49457,
       "num": 49457,
       "word": "拜仁3比0勒沃库森",
@@ -953,6 +1033,14 @@
       "onboard_time": 1741195872,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 27082,
+      "num": 239530,
+      "word": "建议把HPV疫苗纳入免疫规划",
+      "onboard_time": 1741231636,
+      "rank": 22,
+      "category": "国内时政,健康医疗"
     },
     {
       "raw_hot": 26843,
