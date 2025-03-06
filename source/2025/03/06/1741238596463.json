@@ -1,0 +1,410 @@
+{
+  "runTime": 1741238596463,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 876273,
+        "num": 1140203,
+        "word": "建议将禁止就业年龄歧视纳入法律",
+        "onboard_time": 1741231696,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 468228,
+        "num": 468228,
+        "word": "委员谈年轻人为什么不愿意学医了",
+        "onboard_time": 1741231457,
+        "rank": 1,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 56909,
+        "num": 451758,
+        "word": "您的声音我的故事",
+        "onboard_time": 1741236860,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 988678,
+        "num": 451618,
+        "word": "何凯文英语一89分",
+        "onboard_time": 1741233557,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 451240,
+        "num": 451240,
+        "word": "建议将非工作时间线上办公纳入加班",
+        "onboard_time": 1741235780,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 82648,
+        "num": 369563,
+        "word": "这些新词首次进入政府工作报告",
+        "onboard_time": 1741234879,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 366094,
+        "num": 366094,
+        "word": "爱你原型",
+        "onboard_time": 1741230318,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303700,
+        "num": 303700,
+        "word": "建议医院检查结果实行共享互认",
+        "onboard_time": 1741234038,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 280394,
+        "num": 280394,
+        "word": "两会",
+        "onboard_time": 1741185860,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 28938,
+        "num": 278288,
+        "word": "代表说微短剧不会干掉长剧集",
+        "onboard_time": 1741237639,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2213845,
+        "num": 273574,
+        "word": "疑似易梦玲被高中同学喊话",
+        "onboard_time": 1741234698,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1450972,
+        "num": 268586,
+        "word": "温以凡出租车上穿裤子",
+        "onboard_time": 1741235239,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 692602,
+        "num": 263366,
+        "word": "张子枫收养了新片里的小狗",
+        "onboard_time": 1741236140,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 488379,
+        "num": 261150,
+        "word": "田静英语一成绩",
+        "onboard_time": 1741219518,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 393799,
+        "num": 256602,
+        "word": "Angelababy烟熏妆封面",
+        "onboard_time": 1741233738,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 342998,
+        "num": 253732,
+        "word": "陈乔恩回应变胖",
+        "onboard_time": 1741217235,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23598,
+        "num": 248916,
+        "word": "挑战王鹤棣同款醒春操",
+        "onboard_time": 1741235600,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 246146,
+        "num": 246146,
+        "word": "张杰 鸟巢",
+        "onboard_time": 1741236919,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 237423,
+        "num": 237423,
+        "word": "哪吒2火上全国两会",
+        "onboard_time": 1741230378,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159251,
+        "num": 234482,
+        "word": "内娱红毯质检员舒淇",
+        "onboard_time": 1741237758,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21349,
+        "num": 233491,
+        "word": "建议将HPV疫苗等纳入免疫规划",
+        "onboard_time": 1741238299,
+        "rank": 20,
+        "category": "国内时政,健康医疗"
+      },
+      {
+        "raw_hot": 1121284,
+        "num": 229807,
+        "word": "靳东谈王大陆伤人事件",
+        "onboard_time": 1741234338,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337874,
+        "num": 224359,
+        "word": "漫画腿是种病",
+        "onboard_time": 1741232897,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 249352,
+        "num": 221204,
+        "word": "不建议在家自行染发",
+        "onboard_time": 1741233738,
+        "rank": 23,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 58063,
+        "num": 219977,
+        "word": "祁煜至死不渝",
+        "onboard_time": 1741237879,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 242636,
+        "num": 216133,
+        "word": "控制脂肪肝少吃主食还是少吃肉",
+        "onboard_time": 1741228997,
+        "rank": 25,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 214534,
+        "num": 214534,
+        "word": "尤长靖你好好唱歌拍戏我另有人选",
+        "onboard_time": 1741237160,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207446,
+        "num": 207446,
+        "word": "你的退税到账了没",
+        "onboard_time": 1741227495,
+        "rank": 27,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 206992,
+        "num": 206992,
+        "word": "19岁女孩天生髌骨脱位双膝随意移动",
+        "onboard_time": 1741227558,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112777,
+        "num": 204556,
+        "word": "北上 苏州",
+        "onboard_time": 1741238419,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203623,
+        "num": 203623,
+        "word": "刘梓懿被停职",
+        "onboard_time": 1741237639,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196728,
+        "num": 196728,
+        "word": "于适把韩语说的一身正气",
+        "onboard_time": 1741237339,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191632,
+        "num": 191632,
+        "word": "金晨阶梯短发",
+        "onboard_time": 1741237940,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176652,
+        "num": 176652,
+        "word": "英语语法体系",
+        "onboard_time": 1741234217,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 175527,
+        "num": 175527,
+        "word": "朱志鑫一大早吃了两碗面三个脑花",
+        "onboard_time": 1741233619,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165641,
+        "num": 165641,
+        "word": "黄杨钿甜中戏终试",
+        "onboard_time": 1741236978,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164252,
+        "num": 164252,
+        "word": "辛芷蕾微博真的是本人发的吗",
+        "onboard_time": 1741185439,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155774,
+        "num": 155774,
+        "word": "鬼灭之刃无限城篇全球定档",
+        "onboard_time": 1741233260,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 147512,
+        "num": 147512,
+        "word": "柯淳说喜欢赵丽颖",
+        "onboard_time": 1741224556,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146995,
+        "num": 146995,
+        "word": "第五人格赛事",
+        "onboard_time": 1741238299,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145855,
+        "num": 145855,
+        "word": "老外到底有多羡慕中国人",
+        "onboard_time": 1741238359,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138493,
+        "num": 138493,
+        "word": "王楚钦回忆小时候马龙教自己",
+        "onboard_time": 1741236079,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136728,
+        "num": 136728,
+        "word": "15元一颗的草莓贵了还是便宜",
+        "onboard_time": 1741218136,
+        "rank": 42,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 131201,
+        "num": 131201,
+        "word": "957出演短剧",
+        "onboard_time": 1741232478,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129356,
+        "num": 129356,
+        "word": "白鹿晒12年前模特约拍私信",
+        "onboard_time": 1741238479,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125088,
+        "num": 125088,
+        "word": "迪丽热巴CCD氛围",
+        "onboard_time": 1741236919,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124804,
+        "num": 124804,
+        "word": "韩美军演炮弹疑坠入民宅致7人受伤",
+        "onboard_time": 1741229296,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124397,
+        "num": 124397,
+        "word": "代表建议放宽公务员报考年龄限制",
+        "onboard_time": 1741235659,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122803,
+        "num": 122803,
+        "word": "特朗普对美政府离谱开支贴脸开大",
+        "onboard_time": 1741227495,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119611,
+        "num": 119611,
+        "word": "孙燕姿上海站",
+        "onboard_time": 1741238539,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#江苏要把握好挑大梁的着力点#"
+    }
+  }
+}

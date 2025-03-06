@@ -1,7 +1,15 @@
 {
   "startTime": 1741192562065,
-  "endTime": 1741236188260,
+  "endTime": 1741238596463,
   "band_list": [
+    {
+      "raw_hot": 2213845,
+      "num": 397145,
+      "word": "疑似易梦玲被高中同学喊话",
+      "onboard_time": 1741234698,
+      "rank": 12,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2210944,
       "num": 2210944,
@@ -11,12 +19,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1867452,
-      "num": 397145,
-      "word": "疑似易梦玲被高中同学喊话",
-      "onboard_time": 1741234698,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 1450972,
+      "num": 371736,
+      "word": "温以凡出租车上穿裤子",
+      "onboard_time": 1741235239,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 1450166,
@@ -123,14 +131,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 743719,
-      "num": 371736,
-      "word": "温以凡出租车上穿裤子",
-      "onboard_time": 1741235239,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 728058,
       "num": 355573,
       "word": "痛经女性近半或为子宫内膜异位症",
@@ -145,6 +145,14 @@
       "onboard_time": 1741217174,
       "rank": 10,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 692602,
+      "num": 263366,
+      "word": "张子枫收养了新片里的小狗",
+      "onboard_time": 1741236140,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 625748,
@@ -217,6 +225,14 @@
       "onboard_time": 1741219758,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 451240,
+      "num": 451240,
+      "word": "建议将非工作时间线上办公纳入加班",
+      "onboard_time": 1741235780,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 449523,
@@ -427,12 +443,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 249352,
+      "num": 221204,
+      "word": "不建议在家自行染发",
+      "onboard_time": 1741233738,
+      "rank": 33,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 248535,
       "num": 379552,
       "word": "建议提高基层医护人员薪酬",
       "onboard_time": 1741227196,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 246146,
+      "num": 246146,
+      "word": "张杰 鸟巢",
+      "onboard_time": 1741236919,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 230681,
@@ -491,12 +523,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 216902,
-      "num": 216902,
-      "word": "不建议在家自行染发",
-      "onboard_time": 1741233738,
-      "rank": 33,
-      "category": "美妆"
+      "raw_hot": 214534,
+      "num": 214534,
+      "word": "尤长靖你好好唱歌拍戏我另有人选",
+      "onboard_time": 1741237160,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 211905,
@@ -531,6 +563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 203623,
+      "num": 203623,
+      "word": "刘梓懿被停职",
+      "onboard_time": 1741237639,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202800,
       "num": 202800,
       "word": "人大代表称教师对提升学历缺乏动力",
@@ -545,6 +585,14 @@
       "onboard_time": 1741234279,
       "rank": 35,
       "category": "动漫,音乐"
+    },
+    {
+      "raw_hot": 196728,
+      "num": 196728,
+      "word": "于适把韩语说的一身正气",
+      "onboard_time": 1741237339,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 196153,
@@ -569,6 +617,14 @@
       "onboard_time": 1741191017,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 191632,
+      "num": 191632,
+      "word": "金晨阶梯短发",
+      "onboard_time": 1741237940,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 191158,
@@ -651,6 +707,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 165641,
+      "num": 165641,
+      "word": "黄杨钿甜中戏终试",
+      "onboard_time": 1741236978,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164629,
       "num": 148442,
       "word": "杭州姑娘退税4190元惊呼巨款",
@@ -664,6 +728,14 @@
       "word": "陈乔恩说女生要过得有底气",
       "onboard_time": 1741232297,
       "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 159251,
+      "num": 234482,
+      "word": "内娱红毯质检员舒淇",
+      "onboard_time": 1741237758,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -731,12 +803,20 @@
       "category": "互联网,数码"
     },
     {
-      "raw_hot": 146156,
-      "num": 146156,
-      "word": "张子枫收养了新片里的小狗",
-      "onboard_time": 1741236140,
-      "rank": 46,
-      "category": "电影"
+      "raw_hot": 146995,
+      "num": 146995,
+      "word": "第五人格赛事",
+      "onboard_time": 1741238299,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 145855,
+      "num": 145855,
+      "word": "老外到底有多羡慕中国人",
+      "onboard_time": 1741238359,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144770,
@@ -787,6 +867,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 129356,
+      "num": 129356,
+      "word": "白鹿晒12年前模特约拍私信",
+      "onboard_time": 1741238479,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129160,
       "num": 239750,
       "word": "Manus为何一夜爆火",
@@ -811,6 +899,22 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 125088,
+      "num": 125088,
+      "word": "迪丽热巴CCD氛围",
+      "onboard_time": 1741236919,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 124397,
+      "num": 360747,
+      "word": "代表建议放宽公务员报考年龄限制",
+      "onboard_time": 1741235659,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 123329,
       "num": 123329,
       "word": "杨紫说怪不得这两天这么累",
@@ -833,6 +937,14 @@
       "onboard_time": 1741192635,
       "rank": 16,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 119611,
+      "num": 119611,
+      "word": "孙燕姿上海站",
+      "onboard_time": 1741238539,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 117000,
@@ -865,6 +977,14 @@
       "onboard_time": 1741217056,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112777,
+      "num": 204556,
+      "word": "北上 苏州",
+      "onboard_time": 1741238419,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 107525,
@@ -1035,19 +1155,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 78234,
+      "raw_hot": 82648,
       "num": 406854,
       "word": "这些新词首次进入政府工作报告",
       "onboard_time": 1741234879,
       "rank": 9,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 76219,
-      "num": 361318,
-      "word": "建议将非工作时间线上办公纳入加班",
-      "onboard_time": 1741235780,
-      "rank": 18,
       "category": "国内时政"
     },
     {
@@ -1064,14 +1176,6 @@
       "word": "建议提高学校教师教龄津贴标准",
       "onboard_time": 1741213332,
       "rank": 49,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 72526,
-      "num": 360747,
-      "word": "代表建议放宽公务员报考年龄限制",
-      "onboard_time": 1741235659,
-      "rank": 19,
       "category": "国内时政"
     },
     {
@@ -1155,6 +1259,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 58063,
+      "num": 219977,
+      "word": "祁煜至死不渝",
+      "onboard_time": 1741237879,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 57556,
       "num": 57556,
       "word": "王曼昱重庆冠军赛宣传片",
@@ -1177,6 +1289,14 @@
       "onboard_time": 1741163658,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 56909,
+      "num": 451758,
+      "word": "您的声音我的故事",
+      "onboard_time": 1741236860,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56525,
@@ -1220,7 +1340,7 @@
     },
     {
       "raw_hot": 51265,
-      "num": 218155,
+      "num": 248916,
       "word": "挑战王鹤棣同款醒春操",
       "onboard_time": 1741235600,
       "rank": 30,
@@ -1291,6 +1411,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 28938,
+      "num": 278288,
+      "word": "代表说微短剧不会干掉长剧集",
+      "onboard_time": 1741237639,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 28784,
       "num": 28784,
       "word": "杨紫感谢粉丝厚爱",
@@ -1337,6 +1465,14 @@
       "onboard_time": 1741215854,
       "rank": 44,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 21349,
+      "num": 233491,
+      "word": "建议将HPV疫苗等纳入免疫规划",
+      "onboard_time": 1741238299,
+      "rank": 20,
+      "category": "国内时政,健康医疗"
     },
     {
       "raw_hot": 20916,
