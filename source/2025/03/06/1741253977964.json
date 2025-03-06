@@ -1,0 +1,410 @@
+{
+  "runTime": 1741253977964,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 773711,
+        "num": 1123793,
+        "word": "双一流高校本科再扩招2万人",
+        "onboard_time": 1741251262,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 478455,
+        "num": 478455,
+        "word": "姚明建议未成年人息屏24小时行动",
+        "onboard_time": 1741252581,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 26328,
+        "num": 407239,
+        "word": "两会期间各代表团举行开放团组活动",
+        "onboard_time": 1741252882,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 407212,
+        "num": 407212,
+        "word": "建议将禁止就业年龄歧视纳入法律",
+        "onboard_time": 1741231696,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 397666,
+        "num": 397666,
+        "word": "医生提醒长期熬夜基因突变风险大增",
+        "onboard_time": 1741249702,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 381744,
+        "num": 381744,
+        "word": "建议清退有性侵犯罪记录的教育从业者",
+        "onboard_time": 1741240039,
+        "rank": 5,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 360804,
+        "num": 360804,
+        "word": "代表说0补课0月考孩子成绩都是A",
+        "onboard_time": 1741240698,
+        "rank": 6,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 151765,
+        "num": 357778,
+        "word": "汪苏泷11城24场",
+        "onboard_time": 1741245980,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 84505,
+        "num": 356055,
+        "word": "商务部回应中美贸易战是否会升级",
+        "onboard_time": 1741252942,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 72938,
+        "num": 348585,
+        "word": "买买买今年怎样更实惠",
+        "onboard_time": 1741252760,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1405333,
+        "num": 345088,
+        "word": "于正回答赵丽颖陈晓再搭问题",
+        "onboard_time": 1741248981,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1237702,
+        "num": 339359,
+        "word": "韩国空军就误发炸弹致歉",
+        "onboard_time": 1741250180,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 693091,
+        "num": 336466,
+        "word": "瘦30斤 面部折叠度变化",
+        "onboard_time": 1741243877,
+        "rank": 12,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 61847,
+        "num": 329399,
+        "word": "把周末双休还给高中生难在哪",
+        "onboard_time": 1741252942,
+        "rank": 13,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 57094,
+        "num": 327663,
+        "word": "吴清称DEEPSEEK带动中国资产价值重估",
+        "onboard_time": 1741252282,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 673287,
+        "num": 321008,
+        "word": "所有人把账号发给刘晓艳查分",
+        "onboard_time": 1741245200,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 660986,
+        "num": 314662,
+        "word": "陈乔恩说鸡佛是很平常的食物",
+        "onboard_time": 1741250242,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 506925,
+        "num": 312419,
+        "word": "权志龙点赞李胜利ins相关",
+        "onboard_time": 1741249340,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475674,
+        "num": 308588,
+        "word": "疑似易梦玲被高中同学喊话",
+        "onboard_time": 1741234698,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21545,
+        "num": 305039,
+        "word": "如何预防惩治性侵未成年人犯罪",
+        "onboard_time": 1741253061,
+        "rank": 19,
+        "category": "议题讨论,国内时政"
+      },
+      {
+        "raw_hot": 526548,
+        "num": 300322,
+        "word": "浙江14岁男孩爱烧菜查出肺癌",
+        "onboard_time": 1741252821,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 451914,
+        "num": 292440,
+        "word": "五哈海南录制没有鹿晗和老舅",
+        "onboard_time": 1741250902,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378825,
+        "num": 287784,
+        "word": "温以凡出租车上穿裤子",
+        "onboard_time": 1741235239,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286543,
+        "num": 286543,
+        "word": "35岁左右是发胖关键期",
+        "onboard_time": 1741248260,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 269895,
+        "num": 269895,
+        "word": "熬夜久的人闻起来是臭的",
+        "onboard_time": 1741252760,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 259225,
+        "num": 259225,
+        "word": "今年将择机降准降息",
+        "onboard_time": 1741249822,
+        "rank": 25,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 234398,
+        "num": 234398,
+        "word": "吴彦祖开英语网课",
+        "onboard_time": 1741249520,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227336,
+        "num": 227336,
+        "word": "你很美 不是妆很美",
+        "onboard_time": 1741246641,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221630,
+        "num": 221630,
+        "word": "虞书欣带出来的兵还是太权威了",
+        "onboard_time": 1741253001,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26891,
+        "num": 220481,
+        "word": "建议将反家暴法纳入警察培训内容",
+        "onboard_time": 1741253782,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 310824,
+        "num": 220443,
+        "word": "甄子丹谈王大陆教唆打人事件",
+        "onboard_time": 1741249881,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220028,
+        "num": 220028,
+        "word": "两会",
+        "onboard_time": 1741185860,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 219065,
+        "num": 219065,
+        "word": "跑步5公里和走路5公里的效果",
+        "onboard_time": 1741252882,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 56375,
+        "num": 183616,
+        "word": "王星越素颜做饭",
+        "onboard_time": 1741253842,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180554,
+        "num": 180554,
+        "word": "现在的美甲已经进化到这种程度了",
+        "onboard_time": 1741246221,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 55775,
+        "num": 171565,
+        "word": "商务部部长点赞哪吒2",
+        "onboard_time": 1741248321,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169750,
+        "num": 169750,
+        "word": "Manus创始人为中国90后",
+        "onboard_time": 1741248802,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 162693,
+        "num": 162693,
+        "word": "赤字规模达到5.66万亿元",
+        "onboard_time": 1741252942,
+        "rank": 37,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 160110,
+        "num": 160110,
+        "word": "修改奖金计税方式可能多退税",
+        "onboard_time": 1741245081,
+        "rank": 38,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 155281,
+        "num": 155281,
+        "word": "商务部部长说西方不亮东方亮",
+        "onboard_time": 1741249520,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 155142,
+        "num": 155142,
+        "word": "白鹿晒12年前模特约拍私信",
+        "onboard_time": 1741238479,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149844,
+        "num": 149844,
+        "word": "当代人旅行的三个阶段",
+        "onboard_time": 1741252760,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 146136,
+        "num": 146136,
+        "word": "客人等餐40分钟怕服务员被开充值2000",
+        "onboard_time": 1741252882,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145029,
+        "num": 145029,
+        "word": "建议禁止16岁以下未成年人用社交媒体",
+        "onboard_time": 1741246760,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 144927,
+        "num": 144927,
+        "word": "于正问大家满意娜扎定妆照吗",
+        "onboard_time": 1741245500,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 473358,
+        "num": 144201,
+        "word": "张朝阳建议年轻人租房住少贷款",
+        "onboard_time": 1741249042,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141446,
+        "num": 141446,
+        "word": "建议彻底整治劳务派遣乱象",
+        "onboard_time": 1741243818,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 132369,
+        "num": 132369,
+        "word": "李惠利VOGUE三月刊",
+        "onboard_time": 1741251081,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 122821,
+        "num": 122821,
+        "word": "260平只做了两房的家",
+        "onboard_time": 1741253601,
+        "rank": 48,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 115693,
+        "num": 115693,
+        "word": "卢沙野反问BBC还质疑中国偏袒俄吗",
+        "onboard_time": 1741253901,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}
