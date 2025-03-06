@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1741288753230,
+  "endTime": 1741289774148,
   "band_list": [
     {
       "raw_hot": 13760834,
@@ -16049,6 +16049,14 @@
       "onboard_time": 1741261642,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 10547,
+      "num": 16868,
+      "word": "以关税威胁要挟是典型单边主义霸凌主义",
+      "onboard_time": 1741289715,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 10418,

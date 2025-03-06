@@ -1,6 +1,6 @@
 {
   "startTime": 1741278581665,
-  "endTime": 1741288753230,
+  "endTime": 1741289774148,
   "band_list": [
     {
       "raw_hot": 485662,
@@ -552,6 +552,14 @@
       "word": "两会声音",
       "onboard_time": 1741277179,
       "rank": 39,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 10547,
+      "num": 16868,
+      "word": "以关税威胁要挟是典型单边主义霸凌主义",
+      "onboard_time": 1741289715,
+      "rank": 40,
       "category": "国内时政"
     }
   ],
