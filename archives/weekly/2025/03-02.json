@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1741303358039,
+  "endTime": 1741304190243,
   "band_list": [
     {
       "raw_hot": 13760834,
@@ -2387,6 +2387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 523281,
+      "num": 182598,
+      "word": "五哈5嘉宾阵容",
+      "onboard_time": 1741302678,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 519240,
       "num": 296952,
       "word": "电影血观音",
@@ -3371,6 +3379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 376748,
+      "num": 133644,
+      "word": "文都客服回应何凯文成绩",
+      "onboard_time": 1741302317,
+      "rank": 11,
+      "category": "教育"
+    },
+    {
       "raw_hot": 375623,
       "num": 280244,
       "word": "檀健次连舌头都在飚戏",
@@ -3513,14 +3529,6 @@
       "onboard_time": 1741018697,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 360536,
-      "num": 161931,
-      "word": "五哈5嘉宾阵容",
-      "onboard_time": 1741302678,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 360463,
@@ -7435,14 +7443,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 177754,
-      "num": 110809,
-      "word": "文都客服回应何凯文成绩",
-      "onboard_time": 1741302317,
-      "rank": 11,
-      "category": "教育"
-    },
-    {
       "raw_hot": 177424,
       "num": 177424,
       "word": "樊振东主动给推婴儿车老伯让路",
@@ -8299,6 +8299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158222,
+      "num": 128396,
+      "word": "方大同音乐公司提醒大家小心诈骗",
+      "onboard_time": 1741287554,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158200,
       "num": 158200,
       "word": "有点子义思",
@@ -8577,14 +8585,6 @@
       "onboard_time": 1741264581,
       "rank": 24,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 154594,
-      "num": 109027,
-      "word": "方大同音乐公司提醒大家小心诈骗",
-      "onboard_time": 1741287554,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 154561,
@@ -10563,6 +10563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125995,
+      "num": 125995,
+      "word": "韩空军战机误击居民区瞬间",
+      "onboard_time": 1741291994,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 125761,
       "num": 125761,
       "word": "檀健次工作室真让自己人闯进去了",
@@ -11388,7 +11396,7 @@
     },
     {
       "raw_hot": 112390,
-      "num": 112390,
+      "num": 139882,
       "word": "卢沙野澄清中国偏袒俄罗斯",
       "onboard_time": 1741283417,
       "rank": 4,
@@ -11585,14 +11593,6 @@
       "onboard_time": 1741271782,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 108775,
-      "num": 108775,
-      "word": "韩空军战机误击居民区瞬间",
-      "onboard_time": 1741291994,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 108741,
@@ -12441,6 +12441,14 @@
       "onboard_time": 1741219878,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 94510,
+      "num": 56697,
+      "word": "幼儿园三八节给120名员工发金链",
+      "onboard_time": 1741303700,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94280,
@@ -13723,6 +13731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60812,
+      "num": 56560,
+      "word": "小米SU7Ultra发布3天锁单超10000",
+      "onboard_time": 1741303700,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 60799,
       "num": 285825,
       "word": "巴特勒该出手时就出手",
@@ -13761,6 +13777,14 @@
       "onboard_time": 1741147521,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 59575,
+      "num": 56487,
+      "word": "工作中千万不要散发弱者气息",
+      "onboard_time": 1741304059,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 59470,
@@ -14113,6 +14137,14 @@
       "onboard_time": 1740920780,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 52358,
+      "num": 52358,
+      "word": "主人让狗狗自己挑选玩具",
+      "onboard_time": 1741302198,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 52247,
@@ -14707,6 +14739,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 38537,
+      "num": 135795,
+      "word": "乌克兰与美国预计下周举行会议",
+      "onboard_time": 1741303158,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 38500,
       "num": 119720,
       "word": "祁煜贝语鲸歌",
@@ -14729,14 +14769,6 @@
       "onboard_time": 1740997220,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 38224,
-      "num": 48719,
-      "word": "主人让狗狗自己挑选玩具",
-      "onboard_time": 1741302198,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 37647,
@@ -15393,14 +15425,6 @@
       "onboard_time": 1741275082,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 23823,
-      "num": 67322,
-      "word": "乌克兰与美国预计下周举行会议",
-      "onboard_time": 1741303158,
-      "rank": 26,
-      "category": "国际时政"
     },
     {
       "raw_hot": 23776,

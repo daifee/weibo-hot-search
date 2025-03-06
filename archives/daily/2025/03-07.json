@@ -1,7 +1,23 @@
 {
   "startTime": 1741278581665,
-  "endTime": 1741303358039,
+  "endTime": 1741304190243,
   "band_list": [
+    {
+      "raw_hot": 523281,
+      "num": 182598,
+      "word": "五哈5嘉宾阵容",
+      "onboard_time": 1741302678,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 489990,
+      "num": 880915,
+      "word": "10年6战法考终上岸的北大保安已辞职",
+      "onboard_time": 1741270344,
+      "rank": 0,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 485662,
       "num": 133626,
@@ -9,14 +25,6 @@
       "onboard_time": 1741272862,
       "rank": 10,
       "category": "教育"
-    },
-    {
-      "raw_hot": 429480,
-      "num": 839355,
-      "word": "10年6战法考终上岸的北大保安已辞职",
-      "onboard_time": 1741270344,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 405730,
@@ -27,12 +35,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 360536,
-      "num": 161931,
-      "word": "五哈5嘉宾阵容",
-      "onboard_time": 1741302678,
-      "rank": 3,
-      "category": "综艺"
+      "raw_hot": 376748,
+      "num": 133644,
+      "word": "文都客服回应何凯文成绩",
+      "onboard_time": 1741302317,
+      "rank": 11,
+      "category": "教育"
     },
     {
       "raw_hot": 344191,
@@ -51,28 +59,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 191078,
-      "num": 132119,
-      "word": "刘浩存美得好权威",
+      "raw_hot": 212454,
+      "num": 107004,
+      "word": "男子一家族9口人患癌症8人离世",
       "onboard_time": 1741272561,
-      "rank": 12,
-      "category": "电影"
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 183729,
-      "num": 183729,
+      "raw_hot": 199295,
+      "num": 199295,
       "word": "靳东建议成立国家遗嘱库",
       "onboard_time": 1741256960,
       "rank": 32,
       "category": "国内时政,艺人"
     },
     {
-      "raw_hot": 181551,
-      "num": 107004,
-      "word": "男子一家族9口人患癌症8人离世",
+      "raw_hot": 191078,
+      "num": 132119,
+      "word": "刘浩存美得好权威",
       "onboard_time": 1741272561,
-      "rank": 20,
-      "category": "民生新闻"
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 179793,
@@ -83,12 +91,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 177754,
-      "num": 110809,
-      "word": "文都客服回应何凯文成绩",
-      "onboard_time": 1741302317,
-      "rank": 11,
-      "category": "教育"
+      "raw_hot": 172943,
+      "num": 172943,
+      "word": "冯远征说通过节目成为优秀演员不切实际",
+      "onboard_time": 1741271663,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 170917,
@@ -107,20 +115,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 161341,
-      "num": 161341,
-      "word": "冯远征说通过节目成为优秀演员不切实际",
-      "onboard_time": 1741271663,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 160587,
+      "num": 89974,
+      "word": "种地吧",
+      "onboard_time": 1741303218,
+      "rank": 39,
+      "category": "综艺"
     },
     {
-      "raw_hot": 154594,
-      "num": 109027,
+      "raw_hot": 158222,
+      "num": 128396,
       "word": "方大同音乐公司提醒大家小心诈骗",
       "onboard_time": 1741287554,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156731,
+      "num": 156731,
+      "word": "雷军说卖车的成功来得有点猝不及防",
+      "onboard_time": 1741259421,
+      "rank": 15,
+      "category": "国内时政,互联网"
     },
     {
       "raw_hot": 148876,
@@ -195,12 +211,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 125431,
-      "num": 125431,
-      "word": "雷军说卖车的成功来得有点猝不及防",
-      "onboard_time": 1741259421,
-      "rank": 15,
-      "category": "国内时政,互联网"
+      "raw_hot": 125995,
+      "num": 125995,
+      "word": "韩空军战机误击居民区瞬间",
+      "onboard_time": 1741291994,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 124668,
@@ -228,7 +244,7 @@
     },
     {
       "raw_hot": 112390,
-      "num": 112390,
+      "num": 139882,
       "word": "卢沙野澄清中国偏袒俄罗斯",
       "onboard_time": 1741283417,
       "rank": 4,
@@ -243,14 +259,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 108775,
-      "num": 108775,
-      "word": "韩空军战机误击居民区瞬间",
-      "onboard_time": 1741291994,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 108190,
       "num": 108190,
       "word": "跑步5公里和走路5公里的效果",
@@ -259,8 +267,8 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 98670,
-      "num": 98670,
+      "raw_hot": 102116,
+      "num": 102116,
       "word": "邓超看起来像极了本地人",
       "onboard_time": 1741262720,
       "rank": 43,
@@ -273,6 +281,14 @@
       "onboard_time": 1741268724,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 94510,
+      "num": 56697,
+      "word": "幼儿园三八节给120名员工发金链",
+      "onboard_time": 1741303700,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78087,
@@ -355,12 +371,44 @@
       "category": "国内时政,财经"
     },
     {
+      "raw_hot": 60812,
+      "num": 56560,
+      "word": "小米SU7Ultra发布3天锁单超10000",
+      "onboard_time": 1741303700,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 59575,
+      "num": 56487,
+      "word": "工作中千万不要散发弱者气息",
+      "onboard_time": 1741304059,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 59397,
+      "num": 65027,
+      "word": "李威 周处除三害",
+      "onboard_time": 1741271782,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58888,
       "num": 58888,
       "word": "援几内亚父亲低头的瞬间儿子泪崩",
       "onboard_time": 1741297874,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58696,
+      "num": 56468,
+      "word": "于正回应赵丽颖陈晓再搭热搜",
+      "onboard_time": 1741263142,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 57503,
@@ -379,14 +427,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 54952,
-      "num": 65027,
-      "word": "李威 周处除三害",
-      "onboard_time": 1741271782,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 53593,
       "num": 65053,
       "word": "第五人格场馆无人员伤亡",
@@ -401,6 +441,14 @@
       "onboard_time": 1741248802,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 52358,
+      "num": 52358,
+      "word": "主人让狗狗自己挑选玩具",
+      "onboard_time": 1741302198,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 52090,
@@ -427,6 +475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 47785,
+      "num": 47785,
+      "word": "王一博 三场时装秀",
+      "onboard_time": 1741267402,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 47129,
       "num": 65039,
       "word": "韩国空军就误发炸弹致歉",
@@ -444,7 +500,7 @@
     },
     {
       "raw_hot": 44457,
-      "num": 44457,
+      "num": 56935,
       "word": "建议保障灵活就业人员权益",
       "onboard_time": 1741275021,
       "rank": 47,
@@ -467,12 +523,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 38224,
-      "num": 48719,
-      "word": "主人让狗狗自己挑选玩具",
-      "onboard_time": 1741302198,
-      "rank": 36,
-      "category": "幽默"
+      "raw_hot": 38537,
+      "num": 135795,
+      "word": "乌克兰与美国预计下周举行会议",
+      "onboard_time": 1741303158,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 36129,
@@ -497,14 +553,6 @@
       "onboard_time": 1741279577,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33355,
-      "num": 48608,
-      "word": "种地吧",
-      "onboard_time": 1741303218,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 32956,
@@ -537,14 +585,6 @@
       "onboard_time": 1741265780,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 23823,
-      "num": 67322,
-      "word": "乌克兰与美国预计下周举行会议",
-      "onboard_time": 1741303158,
-      "rank": 26,
-      "category": "国际时政"
     },
     {
       "raw_hot": 22717,
