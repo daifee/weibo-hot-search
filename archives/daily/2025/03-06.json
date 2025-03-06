@@ -1,6 +1,6 @@
 {
   "startTime": 1741192562065,
-  "endTime": 1741235342432,
+  "endTime": 1741236188260,
   "band_list": [
     {
       "raw_hot": 2210944,
@@ -9,6 +9,22 @@
       "onboard_time": 1741231696,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1867452,
+      "num": 397145,
+      "word": "疑似易梦玲被高中同学喊话",
+      "onboard_time": 1741234698,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1450166,
+      "num": 358124,
+      "word": "靳东谈王大陆伤人事件",
+      "onboard_time": 1741234338,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1296172,
@@ -28,7 +44,7 @@
     },
     {
       "raw_hot": 1104777,
-      "num": 492622,
+      "num": 527181,
       "word": "何凯文英语一89分",
       "onboard_time": 1741233557,
       "rank": 3,
@@ -49,14 +65,6 @@
       "onboard_time": 1741189816,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1017465,
-      "num": 348831,
-      "word": "靳东谈王大陆伤人事件",
-      "onboard_time": 1741234338,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 976430,
@@ -115,6 +123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 743719,
+      "num": 371736,
+      "word": "温以凡出租车上穿裤子",
+      "onboard_time": 1741235239,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 728058,
       "num": 355573,
       "word": "痛经女性近半或为子宫内膜异位症",
@@ -129,6 +145,14 @@
       "onboard_time": 1741217174,
       "rank": 10,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 625748,
+      "num": 625748,
+      "word": "委员谈年轻人为什么不愿意学医了",
+      "onboard_time": 1741231457,
+      "rank": 32,
+      "category": "国内时政,教育"
     },
     {
       "raw_hot": 622037,
@@ -155,28 +179,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 614982,
-      "num": 397145,
-      "word": "疑似易梦玲被高中同学喊话",
-      "onboard_time": 1741234698,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 586548,
       "num": 579031,
       "word": "我会好好的定档",
       "onboard_time": 1741228456,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 527284,
-      "num": 527284,
-      "word": "委员谈年轻人为什么不愿意学医了",
-      "onboard_time": 1741231457,
-      "rank": 32,
-      "category": "国内时政,教育"
     },
     {
       "raw_hot": 523661,
@@ -251,6 +259,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 407735,
+      "num": 388714,
+      "word": "Angelababy烟熏妆封面",
+      "onboard_time": 1741233738,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 398021,
       "num": 348840,
       "word": "我是虞书欣我同意国王开播",
@@ -267,16 +283,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 388714,
-      "num": 388714,
-      "word": "Angelababy烟熏妆封面",
-      "onboard_time": 1741233738,
-      "rank": 15,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 381291,
-      "num": 343140,
+      "num": 357073,
       "word": "漫画腿是种病",
       "onboard_time": 1741232897,
       "rank": 21,
@@ -315,6 +323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 356149,
+      "num": 356149,
+      "word": "建议医院检查结果实行共享互认",
+      "onboard_time": 1741234038,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 324501,
       "num": 324501,
       "word": "白鹿说翟子路三部戏没熬到一个名分",
@@ -345,6 +361,14 @@
       "onboard_time": 1741191735,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 290120,
+      "num": 328520,
+      "word": "英语语法体系",
+      "onboard_time": 1741234217,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 289862,
@@ -396,7 +420,7 @@
     },
     {
       "raw_hot": 249523,
-      "num": 361820,
+      "num": 364966,
       "word": "嘘国王在冬眠OST是懂季节的",
       "onboard_time": 1741231097,
       "rank": 26,
@@ -467,8 +491,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 214133,
-      "num": 214133,
+      "raw_hot": 216902,
+      "num": 216902,
       "word": "不建议在家自行染发",
       "onboard_time": 1741233738,
       "rank": 33,
@@ -489,14 +513,6 @@
       "onboard_time": 1741172179,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 206789,
-      "num": 274634,
-      "word": "英语语法体系",
-      "onboard_time": 1741234217,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 205494,
@@ -540,7 +556,7 @@
     },
     {
       "raw_hot": 193202,
-      "num": 264882,
+      "num": 363026,
       "word": "朱志鑫一大早吃了两碗面三个脑花",
       "onboard_time": 1741233619,
       "rank": 25,
@@ -603,14 +619,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 176226,
-      "num": 352549,
-      "word": "建议医院检查结果实行共享互认",
-      "onboard_time": 1741234038,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 174733,
       "num": 225173,
       "word": "北上表白越不经意越认真",
@@ -625,6 +633,14 @@
       "onboard_time": 1741230917,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169088,
+      "num": 169088,
+      "word": "金晨爆炸头大波浪",
+      "onboard_time": 1741235959,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 166887,
@@ -649,14 +665,6 @@
       "onboard_time": 1741232297,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 160454,
-      "num": 160454,
-      "word": "温以凡出租车上穿裤子",
-      "onboard_time": 1741235239,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 158340,
@@ -707,12 +715,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 152441,
+      "num": 152441,
+      "word": "王楚钦回忆小时候马龙教自己",
+      "onboard_time": 1741236079,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148750,
       "num": 148750,
       "word": "Manus",
       "onboard_time": 1741225577,
       "rank": 49,
       "category": "互联网,数码"
+    },
+    {
+      "raw_hot": 146156,
+      "num": 146156,
+      "word": "张子枫收养了新片里的小狗",
+      "onboard_time": 1741236140,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 144770,
+      "num": 144770,
+      "word": "唐奇 偏执阴湿男鬼",
+      "onboard_time": 1741232417,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 144729,
@@ -729,14 +761,6 @@
       "onboard_time": 1741219338,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 141365,
-      "num": 141365,
-      "word": "唐奇 偏执阴湿男鬼",
-      "onboard_time": 1741232417,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 141267,
@@ -761,6 +785,14 @@
       "onboard_time": 1741232537,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 129160,
+      "num": 239750,
+      "word": "Manus为何一夜爆火",
+      "onboard_time": 1741234819,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 126896,
@@ -899,14 +931,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 101403,
-      "num": 239750,
-      "word": "Manus为何一夜爆火",
-      "onboard_time": 1741234819,
-      "rank": 28,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 98074,
       "num": 98074,
       "word": "王源偷偷拿彩带",
@@ -987,6 +1011,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 90681,
+      "num": 221744,
+      "word": "辛芷蕾剧宣方式像吃菌子了",
+      "onboard_time": 1741235119,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89251,
       "num": 89251,
       "word": "爱你",
@@ -1003,12 +1035,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 76679,
-      "num": 186902,
-      "word": "辛芷蕾剧宣方式像吃菌子了",
-      "onboard_time": 1741235119,
-      "rank": 41,
-      "category": "剧集"
+      "raw_hot": 78234,
+      "num": 406854,
+      "word": "这些新词首次进入政府工作报告",
+      "onboard_time": 1741234879,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 76219,
+      "num": 361318,
+      "word": "建议将非工作时间线上办公纳入加班",
+      "onboard_time": 1741235780,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 75504,
@@ -1024,6 +1064,14 @@
       "word": "建议提高学校教师教龄津贴标准",
       "onboard_time": 1741213332,
       "rank": 49,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 72526,
+      "num": 360747,
+      "word": "代表建议放宽公务员报考年龄限制",
+      "onboard_time": 1741235659,
+      "rank": 19,
       "category": "国内时政"
     },
     {
@@ -1131,14 +1179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 56806,
-      "num": 406854,
-      "word": "这些新词首次进入政府工作报告",
-      "onboard_time": 1741234879,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 56525,
       "num": 607443,
       "word": "政府工作报告里的创新关键词",
@@ -1148,7 +1188,7 @@
     },
     {
       "raw_hot": 56134,
-      "num": 511052,
+      "num": 529766,
       "word": "这份民生清单温暖你我",
       "onboard_time": 1741233138,
       "rank": 2,
@@ -1163,12 +1203,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 53756,
+      "num": 477791,
+      "word": "9图速览2025消费新图景",
+      "onboard_time": 1741233079,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 53338,
       "num": 53338,
       "word": "这7类人容易提前长白发",
       "onboard_time": 1741173919,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 51265,
+      "num": 218155,
+      "word": "挑战王鹤棣同款醒春操",
+      "onboard_time": 1741235600,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 49457,
@@ -1209,14 +1265,6 @@
       "onboard_time": 1741184480,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 43300,
-      "num": 470833,
-      "word": "9图速览2025消费新图景",
-      "onboard_time": 1741233079,
-      "rank": 5,
-      "category": "国内时政"
     },
     {
       "raw_hot": 39485,
@@ -1313,6 +1361,14 @@
       "onboard_time": 1741197073,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 18880,
+      "num": 168151,
+      "word": "叉烧酱猪排",
+      "onboard_time": 1741235419,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 18754,
@@ -1420,6 +1476,9 @@
     },
     {
       "word": "#江苏要把握好挑大梁的着力点#"
+    },
+    {
+      "word": "#让创新链和产业链无缝对接#"
     }
   ]
 }
