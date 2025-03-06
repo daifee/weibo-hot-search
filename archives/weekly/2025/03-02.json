@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1741245889473,
+  "endTime": 1741246683358,
   "band_list": [
     {
       "raw_hot": 13760834,
@@ -369,6 +369,14 @@
       "onboard_time": 1741002919,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1379374,
+      "num": 587566,
+      "word": "瘦30斤 面部折叠度变化",
+      "onboard_time": 1741243877,
+      "rank": 4,
+      "category": "运动健身"
     },
     {
       "raw_hot": 1365312,
@@ -1835,14 +1843,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 587566,
-      "num": 587566,
-      "word": "瘦30斤 面部折叠度变化",
-      "onboard_time": 1741243877,
-      "rank": 4,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 586766,
       "num": 358047,
       "word": "方大同",
@@ -2771,6 +2771,14 @@
       "category": "国内时政,电影"
     },
     {
+      "raw_hot": 418865,
+      "num": 418865,
+      "word": "建议彻底整治劳务派遣乱象",
+      "onboard_time": 1741243818,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 415990,
       "num": 200167,
       "word": "张天爱自曝体重96.4斤",
@@ -2849,14 +2857,6 @@
       "onboard_time": 1741184421,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 410820,
-      "num": 410820,
-      "word": "建议彻底整治劳务派遣乱象",
-      "onboard_time": 1741243818,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 410243,
@@ -3748,7 +3748,7 @@
     },
     {
       "raw_hot": 317233,
-      "num": 265344,
+      "num": 311496,
       "word": "迪丽热巴蹲姿比耶",
       "onboard_time": 1741241478,
       "rank": 26,
@@ -3825,6 +3825,14 @@
       "onboard_time": 1741093462,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 308508,
+      "num": 308508,
+      "word": "经济主题记者会",
+      "onboard_time": 1741244417,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 308218,
@@ -4033,6 +4041,14 @@
       "onboard_time": 1741101500,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 291644,
+      "num": 291644,
+      "word": "白露好牛",
+      "onboard_time": 1741243759,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 291242,
@@ -4435,6 +4451,14 @@
       "category": "剧集,体育"
     },
     {
+      "raw_hot": 267046,
+      "num": 231816,
+      "word": "于正问大家满意娜扎定妆照吗",
+      "onboard_time": 1741245500,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 266763,
       "num": 266763,
       "word": "丁程鑫被饺子香得冒泡",
@@ -4737,14 +4761,6 @@
       "onboard_time": 1741236919,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 245024,
-      "num": 245024,
-      "word": "白露好牛",
-      "onboard_time": 1741243759,
-      "rank": 16,
-      "category": "电竞"
     },
     {
       "raw_hot": 244878,
@@ -5195,14 +5211,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 223565,
-      "num": 269051,
-      "word": "经济主题记者会",
-      "onboard_time": 1741244417,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 223220,
       "num": 223220,
       "word": "Angelababy腰身比",
@@ -5523,12 +5531,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 211760,
-      "num": 157314,
-      "word": "于正问大家满意娜扎定妆照吗",
-      "onboard_time": 1741245500,
-      "rank": 30,
-      "category": "剧集"
+      "raw_hot": 211025,
+      "num": 211025,
+      "word": "修改奖金计税方式可能多退税",
+      "onboard_time": 1741245081,
+      "rank": 34,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 210552,
@@ -5593,6 +5601,14 @@
       "onboard_time": 1740896239,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208895,
+      "num": 406117,
+      "word": "汪苏泷11城24场",
+      "onboard_time": 1741245980,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 208253,
@@ -6027,6 +6043,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 199278,
+      "num": 199278,
+      "word": "现在的美甲已经进化到这种程度了",
+      "onboard_time": 1741246221,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 199268,
       "num": 199268,
       "word": "小猪佩奇妈妈官宣怀三胎",
@@ -6435,6 +6459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187983,
+      "num": 187983,
+      "word": "所有人把账号发给刘晓艳查分",
+      "onboard_time": 1741245200,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 187969,
       "num": 187969,
       "word": "天官赐福广播剧第三季",
@@ -6747,6 +6779,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179439,
+      "num": 214456,
+      "word": "玉茗茶骨定妆直播",
+      "onboard_time": 1741243097,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 179030,
+      "num": 179030,
+      "word": "宋妍霏罗予彤马吟吟的cha是卡琳娜拍的",
+      "onboard_time": 1741245381,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178901,
       "num": 178901,
       "word": "雷军代表通道发言",
@@ -6952,14 +7000,6 @@
       "word": "北上表白越不经意越认真",
       "onboard_time": 1741230856,
       "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 174636,
-      "num": 214456,
-      "word": "玉茗茶骨定妆直播",
-      "onboard_time": 1741243097,
-      "rank": 29,
       "category": "剧集"
     },
     {
@@ -7188,7 +7228,7 @@
     },
     {
       "raw_hot": 168273,
-      "num": 178892,
+      "num": 234732,
       "word": "郑中基近照",
       "onboard_time": 1741241599,
       "rank": 34,
@@ -7483,6 +7523,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 161902,
+      "num": 161902,
+      "word": "日食记体验夜校老师节目效果拉满",
+      "onboard_time": 1741245921,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 161808,
       "num": 161808,
       "word": "用Deepseek做韩国色彩测试",
@@ -7636,7 +7684,7 @@
     },
     {
       "raw_hot": 157865,
-      "num": 157865,
+      "num": 231021,
       "word": "第五人格五团一",
       "onboard_time": 1741244298,
       "rank": 28,
@@ -7833,14 +7881,6 @@
       "onboard_time": 1740922340,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 155335,
-      "num": 155335,
-      "word": "修改奖金计税方式可能多退税",
-      "onboard_time": 1741245081,
-      "rank": 34,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 155282,
@@ -8049,14 +8089,6 @@
       "onboard_time": 1740992658,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 152080,
-      "num": 152080,
-      "word": "所有人把账号发给刘晓艳查分",
-      "onboard_time": 1741245200,
-      "rank": 38,
-      "category": "教育"
     },
     {
       "raw_hot": 152016,
@@ -8427,6 +8459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145751,
+      "num": 220247,
+      "word": "创造营亚洲2晋级名单",
+      "onboard_time": 1741246460,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145727,
       "num": 145727,
       "word": "丁程鑫主动降辈分",
@@ -8569,14 +8609,6 @@
       "onboard_time": 1741066038,
       "rank": 41,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 143855,
-      "num": 143855,
-      "word": "宋妍霏罗予彤马吟吟的cha是卡琳娜拍的",
-      "onboard_time": 1741245381,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 143603,
@@ -9155,6 +9187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133545,
+      "num": 133545,
+      "word": "COA8预选赛",
+      "onboard_time": 1741246281,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 133446,
       "num": 133446,
       "word": "年轻人为了出片能卷到什么程度",
@@ -9209,6 +9249,14 @@
       "onboard_time": 1741078225,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 132160,
+      "num": 132160,
+      "word": "你很美 不是妆很美",
+      "onboard_time": 1741246641,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 131917,
@@ -9713,6 +9761,14 @@
       "onboard_time": 1741236919,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 124985,
+      "num": 373856,
+      "word": "将设立国家创业投资引导基金",
+      "onboard_time": 1741245801,
+      "rank": 36,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 124896,
@@ -12619,6 +12675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 54549,
+      "num": 199774,
+      "word": "批量制造网红景区的推手已年入千万",
+      "onboard_time": 1741246160,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54538,
       "num": 165587,
       "word": "鸿蒙智行500万收集黑公关线索",
@@ -12649,6 +12713,14 @@
       "onboard_time": 1741017198,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 53461,
+      "num": 378021,
+      "word": "提振消费专项行动方案将很快发布实施",
+      "onboard_time": 1741245860,
+      "rank": 35,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 52550,
@@ -13027,6 +13099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42257,
+      "num": 234293,
+      "word": "多地将校园欺凌纳入中考素质评价",
+      "onboard_time": 1741245980,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42173,
       "num": 296015,
       "word": "全国控烟立法亟待推进",
@@ -13225,6 +13305,14 @@
       "onboard_time": 1740863651,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 36767,
+      "num": 298527,
+      "word": "2024经济成绩单的4个特点",
+      "onboard_time": 1741245742,
+      "rank": 31,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 36576,
@@ -13779,14 +13867,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 21584,
-      "num": 157297,
-      "word": "2024经济成绩单的4个特点",
-      "onboard_time": 1741245742,
-      "rank": 31,
-      "category": "国内时政,财经"
-    },
-    {
       "raw_hot": 21535,
       "num": 153945,
       "word": "超150万公里验证的电车",
@@ -14075,14 +14155,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 15874,
-      "num": 152353,
-      "word": "将设立国家创业投资引导基金",
-      "onboard_time": 1741245801,
-      "rank": 36,
-      "category": "国内时政,财经"
-    },
-    {
       "raw_hot": 15786,
       "num": 30600,
       "word": "你以为的你以为是你以为的吗",
@@ -14313,14 +14385,6 @@
       "onboard_time": 1741027932,
       "rank": 28,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 11281,
-      "num": 153173,
-      "word": "提振消费专项行动方案将很快发布实施",
-      "onboard_time": 1741245860,
-      "rank": 35,
-      "category": "国内时政,财经"
     },
     {
       "raw_hot": 11187,

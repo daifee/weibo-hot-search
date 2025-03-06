@@ -1,6 +1,6 @@
 {
   "startTime": 1741192562065,
-  "endTime": 1741245889473,
+  "endTime": 1741246683358,
   "band_list": [
     {
       "raw_hot": 2290757,
@@ -41,6 +41,14 @@
       "onboard_time": 1741234338,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1379374,
+      "num": 587566,
+      "word": "瘦30斤 面部折叠度变化",
+      "onboard_time": 1741243877,
+      "rank": 4,
+      "category": "运动健身"
     },
     {
       "raw_hot": 1296172,
@@ -219,14 +227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 587566,
-      "num": 587566,
-      "word": "瘦30斤 面部折叠度变化",
-      "onboard_time": 1741243877,
-      "rank": 4,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 586548,
       "num": 579031,
       "word": "我会好好的定档",
@@ -331,20 +331,20 @@
       "category": "国内时政,教育"
     },
     {
+      "raw_hot": 418865,
+      "num": 418865,
+      "word": "建议彻底整治劳务派遣乱象",
+      "onboard_time": 1741243818,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 414413,
       "num": 373461,
       "word": "内娱红毯质检员舒淇",
       "onboard_time": 1741237758,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 410820,
-      "num": 410820,
-      "word": "建议彻底整治劳务派遣乱象",
-      "onboard_time": 1741243818,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 410243,
@@ -476,7 +476,7 @@
     },
     {
       "raw_hot": 317233,
-      "num": 265344,
+      "num": 311496,
       "word": "迪丽热巴蹲姿比耶",
       "onboard_time": 1741241478,
       "rank": 26,
@@ -491,12 +491,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 308508,
+      "num": 308508,
+      "word": "经济主题记者会",
+      "onboard_time": 1741244417,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 300453,
       "num": 113424,
       "word": "街道通报男子虐猫事件",
       "onboard_time": 1741191735,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 291644,
+      "num": 291644,
+      "word": "白露好牛",
+      "onboard_time": 1741243759,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 290120,
@@ -537,6 +553,14 @@
       "onboard_time": 1741218076,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 267046,
+      "num": 231816,
+      "word": "于正问大家满意娜扎定妆照吗",
+      "onboard_time": 1741245500,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 255551,
@@ -595,14 +619,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 245024,
-      "num": 245024,
-      "word": "白露好牛",
-      "onboard_time": 1741243759,
-      "rank": 16,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 239581,
       "num": 239581,
       "word": "桑延给温以凡放的洗澡水",
@@ -651,14 +667,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 223565,
-      "num": 269051,
-      "word": "经济主题记者会",
-      "onboard_time": 1741244417,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 222457,
       "num": 286534,
       "word": "古人吃海鲜剩的壳堆成地层",
@@ -699,12 +707,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 211760,
-      "num": 157314,
-      "word": "于正问大家满意娜扎定妆照吗",
-      "onboard_time": 1741245500,
-      "rank": 30,
-      "category": "剧集"
+      "raw_hot": 211025,
+      "num": 211025,
+      "word": "修改奖金计税方式可能多退税",
+      "onboard_time": 1741245081,
+      "rank": 34,
+      "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 208895,
+      "num": 406117,
+      "word": "汪苏泷11城24场",
+      "onboard_time": 1741245980,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 207695,
@@ -753,6 +769,14 @@
       "onboard_time": 1741234279,
       "rank": 35,
       "category": "动漫,音乐"
+    },
+    {
+      "raw_hot": 199278,
+      "num": 199278,
+      "word": "现在的美甲已经进化到这种程度了",
+      "onboard_time": 1741246221,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 197745,
@@ -819,6 +843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187983,
+      "num": 187983,
+      "word": "所有人把账号发给刘晓艳查分",
+      "onboard_time": 1741245200,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 187567,
       "num": 187567,
       "word": "3月综艺录制汇总",
@@ -843,19 +875,27 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 179439,
+      "num": 214456,
+      "word": "玉茗茶骨定妆直播",
+      "onboard_time": 1741243097,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 179030,
+      "num": 179030,
+      "word": "宋妍霏罗予彤马吟吟的cha是卡琳娜拍的",
+      "onboard_time": 1741245381,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174733,
       "num": 225173,
       "word": "北上表白越不经意越认真",
       "onboard_time": 1741230856,
       "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 174636,
-      "num": 214456,
-      "word": "玉茗茶骨定妆直播",
-      "onboard_time": 1741243097,
-      "rank": 29,
       "category": "剧集"
     },
     {
@@ -876,7 +916,7 @@
     },
     {
       "raw_hot": 168273,
-      "num": 178892,
+      "num": 234732,
       "word": "郑中基近照",
       "onboard_time": 1741241599,
       "rank": 34,
@@ -915,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161902,
+      "num": 161902,
+      "word": "日食记体验夜校老师节目效果拉满",
+      "onboard_time": 1741245921,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 160784,
       "num": 160784,
       "word": "辛芷蕾工作室不同意刘梓懿道歉",
@@ -940,7 +988,7 @@
     },
     {
       "raw_hot": 157865,
-      "num": 157865,
+      "num": 231021,
       "word": "第五人格五团一",
       "onboard_time": 1741244298,
       "rank": 28,
@@ -969,14 +1017,6 @@
       "onboard_time": 1741231037,
       "rank": 14,
       "category": "国内时政,教育"
-    },
-    {
-      "raw_hot": 155335,
-      "num": 155335,
-      "word": "修改奖金计税方式可能多退税",
-      "onboard_time": 1741245081,
-      "rank": 34,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 154266,
@@ -1019,14 +1059,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 152080,
-      "num": 152080,
-      "word": "所有人把账号发给刘晓艳查分",
-      "onboard_time": 1741245200,
-      "rank": 38,
-      "category": "教育"
-    },
-    {
       "raw_hot": 152016,
       "num": 242651,
       "word": "洪小铃晒孕肚照",
@@ -1059,6 +1091,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 145751,
+      "num": 220247,
+      "word": "创造营亚洲2晋级名单",
+      "onboard_time": 1741246460,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144770,
       "num": 144770,
       "word": "唐奇 偏执阴湿男鬼",
@@ -1081,14 +1121,6 @@
       "onboard_time": 1741219338,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 143855,
-      "num": 143855,
-      "word": "宋妍霏罗予彤马吟吟的cha是卡琳娜拍的",
-      "onboard_time": 1741245381,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 141267,
@@ -1129,6 +1161,22 @@
       "onboard_time": 1741232537,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 133545,
+      "num": 133545,
+      "word": "COA8预选赛",
+      "onboard_time": 1741246281,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 132160,
+      "num": 132160,
+      "word": "你很美 不是妆很美",
+      "onboard_time": 1741246641,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 131531,
@@ -1201,6 +1249,14 @@
       "onboard_time": 1741236919,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 124985,
+      "num": 373856,
+      "word": "将设立国家创业投资引导基金",
+      "onboard_time": 1741245801,
+      "rank": 36,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 124397,
@@ -1699,6 +1755,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 54549,
+      "num": 199774,
+      "word": "批量制造网红景区的推手已年入千万",
+      "onboard_time": 1741246160,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54315,
       "num": 54315,
       "word": "中国影史首部观影人次超3亿电影",
@@ -1713,6 +1777,14 @@
       "onboard_time": 1741233079,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 53461,
+      "num": 378021,
+      "word": "提振消费专项行动方案将很快发布实施",
+      "onboard_time": 1741245860,
+      "rank": 35,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 53338,
@@ -1787,6 +1859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42257,
+      "num": 234293,
+      "word": "多地将校园欺凌纳入中考素质评价",
+      "onboard_time": 1741245980,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39485,
       "num": 43026,
       "word": "靳东回应AI真假靳东",
@@ -1801,6 +1881,14 @@
       "onboard_time": 1741238119,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 36767,
+      "num": 298527,
+      "word": "2024经济成绩单的4个特点",
+      "onboard_time": 1741245742,
+      "rank": 31,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 34461,
@@ -1891,14 +1979,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 21584,
-      "num": 157297,
-      "word": "2024经济成绩单的4个特点",
-      "onboard_time": 1741245742,
-      "rank": 31,
-      "category": "国内时政,财经"
-    },
-    {
       "raw_hot": 20916,
       "num": 407195,
       "word": "政府工作报告里的加与减",
@@ -1955,14 +2035,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 15874,
-      "num": 152353,
-      "word": "将设立国家创业投资引导基金",
-      "onboard_time": 1741245801,
-      "rank": 36,
-      "category": "国内时政,财经"
-    },
-    {
       "raw_hot": 15447,
       "num": 25011,
       "word": "一起去街头问问老百姓最关心啥",
@@ -2017,14 +2089,6 @@
       "onboard_time": 1741206550,
       "rank": 49,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 11281,
-      "num": 153173,
-      "word": "提振消费专项行动方案将很快发布实施",
-      "onboard_time": 1741245860,
-      "rank": 35,
-      "category": "国内时政,财经"
     },
     {
       "raw_hot": 11187,
