@@ -1,0 +1,410 @@
+{
+  "runTime": 1741299742660,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 107139,
+        "num": 362298,
+        "word": "10年6战法考终上岸的北大保安已辞职",
+        "onboard_time": 1741270344,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61287,
+        "num": 61287,
+        "word": "靳东建议成立国家遗嘱库",
+        "onboard_time": 1741256960,
+        "rank": 1,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 10575,
+        "num": 57106,
+        "word": "经济主题记者会要点速览",
+        "onboard_time": 1741265780,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 54878,
+        "num": 54878,
+        "word": "冯远征说通过节目成为优秀演员不切实际",
+        "onboard_time": 1741271663,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 44130,
+        "num": 44130,
+        "word": "姚明建议未成年人息屏24小时行动",
+        "onboard_time": 1741252581,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 35294,
+        "num": 35294,
+        "word": "春晚机器人的朋友又长本事了",
+        "onboard_time": 1741276941,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33495,
+        "num": 33495,
+        "word": "雷军说卖车的成功来得有点猝不及防",
+        "onboard_time": 1741259421,
+        "rank": 6,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 33160,
+        "num": 33160,
+        "word": "人民日报对话蒙曼陈丽君",
+        "onboard_time": 1741269203,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26582,
+        "num": 33055,
+        "word": "哪吒",
+        "onboard_time": 1741283835,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25670,
+        "num": 32813,
+        "word": "短剧还珠已备案",
+        "onboard_time": 1741274121,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91191,
+        "num": 32777,
+        "word": "何凯文",
+        "onboard_time": 1741272862,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 78114,
+        "num": 32507,
+        "word": "医生提醒长期熬夜基因突变风险大增",
+        "onboard_time": 1741249702,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 73076,
+        "num": 32268,
+        "word": "李昀锐说她应该睡了",
+        "onboard_time": 1741268543,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 44240,
+        "num": 32088,
+        "word": "韩空军战机误击居民区瞬间",
+        "onboard_time": 1741291994,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 44020,
+        "num": 31883,
+        "word": "香港18岁中学女生真实的一面",
+        "onboard_time": 1741268724,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 31881,
+        "num": 31881,
+        "word": "瘦30斤 面部折叠度变化",
+        "onboard_time": 1741243877,
+        "rank": 15,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 31583,
+        "num": 31583,
+        "word": "卢沙野澄清中国偏袒俄罗斯",
+        "onboard_time": 1741283417,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 31263,
+        "num": 31263,
+        "word": "阿诺想亲吻时董力的反应",
+        "onboard_time": 1741261341,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26760,
+        "num": 26760,
+        "word": "去爱一个让你笑的人",
+        "onboard_time": 1741275920,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22857,
+        "num": 26715,
+        "word": "周深9.29hz世界巡回演唱会",
+        "onboard_time": 1741280836,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 66962,
+        "num": 26425,
+        "word": "男子一家族9口人患癌症8人离世",
+        "onboard_time": 1741272561,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39945,
+        "num": 25973,
+        "word": "医生建议的玩手机正确姿势",
+        "onboard_time": 1741268783,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 32614,
+        "num": 25780,
+        "word": "每天久坐超过4小时会怎样",
+        "onboard_time": 1741272622,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 31236,
+        "num": 25195,
+        "word": "李威 周处除三害",
+        "onboard_time": 1741271782,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28746,
+        "num": 24933,
+        "word": "女孩用DeepSeek挑到报恩榴莲",
+        "onboard_time": 1741269743,
+        "rank": 24,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 24836,
+        "num": 24836,
+        "word": "邓超看起来像极了本地人",
+        "onboard_time": 1741262720,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23822,
+        "num": 23822,
+        "word": "王楚钦程靖淇互动",
+        "onboard_time": 1741271181,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21265,
+        "num": 23813,
+        "word": "哪吒2票房破146亿",
+        "onboard_time": 1741259062,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20550,
+        "num": 23793,
+        "word": "何苏叶回家吧回家吧好吗",
+        "onboard_time": 1741275681,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16825,
+        "num": 23784,
+        "word": "阿诺担心公开会影响董力工作",
+        "onboard_time": 1741275621,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21943,
+        "num": 23773,
+        "word": "2025经济热点",
+        "onboard_time": 1741278379,
+        "rank": 30,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 21840,
+        "num": 23753,
+        "word": "檀健次连舌头都在飚戏",
+        "onboard_time": 1741267522,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19266,
+        "num": 23745,
+        "word": "土象星座真心喜欢你的表现",
+        "onboard_time": 1741271181,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19203,
+        "num": 23722,
+        "word": "援几内亚父亲低头的瞬间儿子泪崩",
+        "onboard_time": 1741297874,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19171,
+        "num": 23718,
+        "word": "Manus能直接干活",
+        "onboard_time": 1741268724,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 17893,
+        "num": 23694,
+        "word": "机器人自学成才解锁李小龙同款功夫",
+        "onboard_time": 1741279577,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15928,
+        "num": 23681,
+        "word": "强化教育对科技和人才支撑作用",
+        "onboard_time": 1741275440,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15441,
+        "num": 23666,
+        "word": "初音 母鸡卡",
+        "onboard_time": 1741273942,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 14990,
+        "num": 23663,
+        "word": "双影奇境",
+        "onboard_time": 1741277179,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 14807,
+        "num": 23642,
+        "word": "韩国空军就误发炸弹致歉",
+        "onboard_time": 1741250180,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14805,
+        "num": 23632,
+        "word": "Jennie回归大赏",
+        "onboard_time": 1741262602,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 14745,
+        "num": 23614,
+        "word": "全国两会",
+        "onboard_time": 1741257622,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14641,
+        "num": 23606,
+        "word": "方大同音乐公司提醒大家小心诈骗",
+        "onboard_time": 1741287554,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14337,
+        "num": 23590,
+        "word": "第五人格场馆无人员伤亡",
+        "onboard_time": 1741275981,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14018,
+        "num": 23578,
+        "word": "两会你我他",
+        "onboard_time": 1741286414,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13464,
+        "num": 23565,
+        "word": "投资于人成两会热词",
+        "onboard_time": 1741281677,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13417,
+        "num": 23538,
+        "word": "被流量裹挟的侵权式晒娃法律不允许",
+        "onboard_time": 1741296374,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 12764,
+        "num": 23522,
+        "word": "靠墙蹲是降压效果最好的运动之一",
+        "onboard_time": 1741299495,
+        "rank": 47,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 12636,
+        "num": 23512,
+        "word": "提升新就业群体社会地位和职业认同",
+        "onboard_time": 1741285575,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 12251,
+        "num": 23498,
+        "word": "刘浩存想飞的女孩首映礼生图",
+        "onboard_time": 1741280357,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平看望全国政协委员#"
+    }
+  }
+}
