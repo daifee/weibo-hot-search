@@ -1,6 +1,6 @@
 {
   "startTime": 1741192562065,
-  "endTime": 1741250618998,
+  "endTime": 1741253138139,
   "band_list": [
     {
       "raw_hot": 2290757,
@@ -73,6 +73,14 @@
       "onboard_time": 1741219518,
       "rank": 10,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1232438,
+      "num": 236754,
+      "word": "韩国空军就误发炸弹致歉",
+      "onboard_time": 1741250180,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1104777,
@@ -267,6 +275,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 610775,
+      "num": 266375,
+      "word": "陈乔恩说鸡佛是很平常的食物",
+      "onboard_time": 1741250242,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 598157,
+      "num": 1095705,
+      "word": "双一流高校本科再扩招2万人",
+      "onboard_time": 1741251262,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
       "raw_hot": 586548,
       "num": 579031,
       "word": "我会好好的定档",
@@ -395,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 412579,
+      "num": 234658,
+      "word": "浙江14岁男孩爱烧菜查出肺癌",
+      "onboard_time": 1741252821,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 410243,
       "num": 410243,
       "word": "MacBook Air",
@@ -465,6 +497,22 @@
       "onboard_time": 1741228997,
       "rank": 48,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 368466,
+      "num": 234102,
+      "word": "五哈海南录制没有鹿晗和老舅",
+      "onboard_time": 1741250902,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 367911,
+      "num": 247406,
+      "word": "35岁左右是发胖关键期",
+      "onboard_time": 1741248260,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 359634,
@@ -555,6 +603,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 311611,
+      "num": 263166,
+      "word": "吴彦祖开英语网课",
+      "onboard_time": 1741249520,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 310953,
       "num": 310953,
       "word": "ally柳演锡合拍",
@@ -571,20 +627,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 304302,
+      "num": 327735,
+      "word": "今年将择机降准降息",
+      "onboard_time": 1741249822,
+      "rank": 9,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 300453,
       "num": 113424,
       "word": "街道通报男子虐猫事件",
       "onboard_time": 1741191735,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 299135,
-      "num": 327735,
-      "word": "今年将择机降准降息",
-      "onboard_time": 1741249822,
-      "rank": 9,
-      "category": "国内时政,财经"
     },
     {
       "raw_hot": 290120,
@@ -633,14 +689,6 @@
       "onboard_time": 1741245500,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 263166,
-      "num": 263166,
-      "word": "吴彦祖开英语网课",
-      "onboard_time": 1741249520,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 255551,
@@ -699,14 +747,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 247406,
-      "num": 247406,
-      "word": "35岁左右是发胖关键期",
-      "onboard_time": 1741248260,
-      "rank": 27,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 246146,
       "num": 258429,
       "word": "张杰 鸟巢",
@@ -723,12 +763,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 238248,
+      "num": 238248,
+      "word": "医生提醒长期熬夜基因突变风险大增",
+      "onboard_time": 1741249702,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 236100,
       "num": 236100,
       "word": "哈登50分",
       "onboard_time": 1741242258,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 233039,
+      "num": 233039,
+      "word": "姚明建议未成年人息屏24小时行动",
+      "onboard_time": 1741252581,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 230681,
@@ -744,6 +800,14 @@
       "word": "财政部说今年预留了工具政策空间",
       "onboard_time": 1741247361,
       "rank": 24,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 228434,
+      "num": 330448,
+      "word": "商务部部长说西方不亮东方亮",
+      "onboard_time": 1741249520,
+      "rank": 18,
       "category": "国内时政"
     },
     {
@@ -867,6 +931,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 202160,
+      "num": 202160,
+      "word": "跑步5公里和走路5公里的效果",
+      "onboard_time": 1741252882,
+      "rank": 33,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 201243,
       "num": 201243,
       "word": "听潮阁歌手入驻微博",
@@ -963,6 +1035,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 179693,
+      "num": 179693,
+      "word": "当代人旅行的三个阶段",
+      "onboard_time": 1741252760,
+      "rank": 36,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 179439,
       "num": 214456,
       "word": "玉茗茶骨定妆直播",
@@ -979,12 +1059,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178408,
+      "num": 178408,
+      "word": "虞书欣带出来的兵还是太权威了",
+      "onboard_time": 1741253001,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 175795,
+      "num": 175795,
+      "word": "熬夜久的人闻起来是臭的",
+      "onboard_time": 1741252760,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 174733,
       "num": 225173,
       "word": "北上表白越不经意越认真",
       "onboard_time": 1741230856,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173307,
+      "num": 173307,
+      "word": "花一万多去旅游感觉很有负罪感",
+      "onboard_time": 1741251561,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 170605,
@@ -1009,6 +1113,14 @@
       "onboard_time": 1741241599,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167684,
+      "num": 167684,
+      "word": "Manus创始人为中国90后",
+      "onboard_time": 1741248802,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 166887,
@@ -1107,20 +1219,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 157302,
+      "num": 157302,
+      "word": "周深每句话都落在我意想不到的地方",
+      "onboard_time": 1741252040,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 156861,
       "num": 206882,
       "word": "章若楠哭戏",
       "onboard_time": 1741223478,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 156759,
-      "num": 156759,
-      "word": "Manus创始人为中国90后",
-      "onboard_time": 1741248802,
-      "rank": 34,
-      "category": "互联网"
     },
     {
       "raw_hot": 156019,
@@ -1136,6 +1248,14 @@
       "word": "多方回应租客被房东扣9200元押金",
       "onboard_time": 1741185260,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154237,
+      "num": 154237,
+      "word": "客人等餐40分钟怕服务员被开充值2000",
+      "onboard_time": 1741252882,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -1179,6 +1299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151524,
+      "num": 151524,
+      "word": "赤字规模达到5.66万亿元",
+      "onboard_time": 1741252942,
+      "rank": 47,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 150385,
       "num": 150385,
       "word": "Manus",
@@ -1187,12 +1315,12 @@
       "category": "互联网,数码"
     },
     {
-      "raw_hot": 149320,
-      "num": 149320,
-      "word": "韩国空军就误发炸弹致歉",
-      "onboard_time": 1741250180,
-      "rank": 38,
-      "category": "国际时政"
+      "raw_hot": 150080,
+      "num": 150080,
+      "word": "李惠利VOGUE三月刊",
+      "onboard_time": 1741251081,
+      "rank": 48,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 149105,
@@ -1388,7 +1516,7 @@
     },
     {
       "raw_hot": 123556,
-      "num": 123556,
+      "num": 306793,
       "word": "10张图看政府工作报告里你关心的事",
       "onboard_time": 1741243276,
       "rank": 40,
@@ -1417,14 +1545,6 @@
       "onboard_time": 1741192635,
       "rank": 16,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 119666,
-      "num": 330448,
-      "word": "商务部部长说西方不亮东方亮",
-      "onboard_time": 1741249520,
-      "rank": 18,
-      "category": "国内时政"
     },
     {
       "raw_hot": 119599,
@@ -1561,14 +1681,6 @@
       "onboard_time": 1741228817,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105520,
-      "num": 223097,
-      "word": "医生提醒长期熬夜基因突变风险大增",
-      "onboard_time": 1741249702,
-      "rank": 33,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 105187,
@@ -1827,6 +1939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 66463,
+      "num": 233153,
+      "word": "这树里到底有谁在啊",
+      "onboard_time": 1741252342,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 65671,
       "num": 65671,
       "word": "本菲卡0比1巴萨",
@@ -1955,14 +2075,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 55184,
-      "num": 266375,
-      "word": "陈乔恩说鸡佛是很平常的食物",
-      "onboard_time": 1741250242,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 54549,
       "num": 199774,
       "word": "批量制造网红景区的推手已年入千万",
@@ -2027,6 +2139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47187,
+      "num": 236152,
+      "word": "吴清称DEEPSEEK带动中国资产价值重估",
+      "onboard_time": 1741252282,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 46487,
       "num": 46487,
       "word": "哪吒票房",
@@ -2067,6 +2187,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 44168,
+      "num": 237105,
+      "word": "买买买今年怎样更实惠",
+      "onboard_time": 1741252760,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 43847,
       "num": 43847,
       "word": "李现瞿友宁或将二搭",
@@ -2089,6 +2217,22 @@
       "onboard_time": 1741238119,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 36992,
+      "num": 185909,
+      "word": "商务部回应中美贸易战是否会升级",
+      "onboard_time": 1741252942,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 36962,
+      "num": 233647,
+      "word": "把周末双休还给高中生难在哪",
+      "onboard_time": 1741252942,
+      "rank": 26,
+      "category": "国内时政,教育"
     },
     {
       "raw_hot": 36767,
@@ -2315,6 +2459,14 @@
       "category": "国内时政,财经"
     },
     {
+      "raw_hot": 8630,
+      "num": 158498,
+      "word": "如何预防惩治性侵未成年人犯罪",
+      "onboard_time": 1741253061,
+      "rank": 44,
+      "category": "议题讨论,国内时政"
+    },
+    {
       "raw_hot": 6312,
       "num": 215543,
       "word": "林高远刘诗雯将参加全运会资格赛",
@@ -2335,6 +2487,9 @@
     },
     {
       "word": "#让创新链和产业链无缝对接#"
+    },
+    {
+      "word": "#围坐共商家国事#"
     }
   ]
 }
