@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1741257814848,
+  "endTime": 1741259993790,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -753,6 +753,14 @@
       "onboard_time": 1736231182,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 4490343,
+      "num": 253769,
+      "word": "海底捞已报案",
+      "onboard_time": 1741256722,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 4441461,
@@ -1747,6 +1755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2866173,
+      "num": 253282,
+      "word": "海底捞回应有人往火锅撒尿",
+      "onboard_time": 1741257321,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2864001,
       "num": 420786,
       "word": "内娱离婚文案",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1740213801,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 2461518,
-      "num": 2461518,
-      "word": "哪吒2爆火保洁3倍工资还要求加钱",
-      "onboard_time": 1738896443,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2458918,
-      "num": 1161952,
-      "word": "泰警方称星星被缅甸边防部队拘留",
-      "onboard_time": 1736233044,
-      "rank": 6,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
