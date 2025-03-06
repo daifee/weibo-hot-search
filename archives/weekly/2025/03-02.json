@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1741278581665,
+  "endTime": 1741279521985,
   "band_list": [
     {
       "raw_hot": 13760834,
@@ -9195,6 +9195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145895,
+      "num": 145895,
+      "word": "iPhone17Air续航或超预期",
+      "onboard_time": 1741273942,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 145751,
       "num": 223181,
       "word": "创造营亚洲2晋级名单",
@@ -9987,14 +9995,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 133431,
-      "num": 133431,
-      "word": "iPhone17Air续航或超预期",
-      "onboard_time": 1741273942,
-      "rank": 45,
-      "category": "数码"
-    },
-    {
       "raw_hot": 133386,
       "num": 238632,
       "word": "郭涛儿子参加北电艺考",
@@ -10057,6 +10057,14 @@
       "onboard_time": 1740891499,
       "rank": 38,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 131754,
+      "num": 131754,
+      "word": "双影奇境",
+      "onboard_time": 1741277179,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 131583,
@@ -12091,14 +12099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 99726,
-      "num": 99726,
-      "word": "双影奇境",
-      "onboard_time": 1741277179,
-      "rank": 26,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 99658,
       "num": 589581,
       "word": "保险公司拒赔46万跑路成老赖",
@@ -13579,6 +13579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63194,
+      "num": 70320,
+      "word": "阿诺担心公开会影响董力工作",
+      "onboard_time": 1741275621,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 63051,
       "num": 139996,
       "word": "阿Sa适应时差的方法是不停吃饭",
@@ -13988,7 +13996,7 @@
     },
     {
       "raw_hot": 53593,
-      "num": 53593,
+      "num": 65053,
       "word": "第五人格场馆无人员伤亡",
       "onboard_time": 1741275981,
       "rank": 39,
@@ -14163,14 +14171,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 49690,
-      "num": 49690,
-      "word": "阿诺担心公开会影响董力工作",
-      "onboard_time": 1741275621,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 49457,
       "num": 49457,
       "word": "拜仁3比0勒沃库森",
@@ -14257,6 +14257,14 @@
       "onboard_time": 1741032490,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 47931,
+      "num": 65044,
+      "word": "去爱一个让你笑的人",
+      "onboard_time": 1741275920,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 47710,
@@ -14467,14 +14475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 42372,
-      "num": 42372,
-      "word": "去爱一个让你笑的人",
-      "onboard_time": 1741275920,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 42173,
       "num": 296015,
       "word": "全国控烟立法亟待推进",
@@ -14532,7 +14532,7 @@
     },
     {
       "raw_hot": 41241,
-      "num": 41241,
+      "num": 65033,
       "word": "强化教育对科技和人才支撑作用",
       "onboard_time": 1741275440,
       "rank": 49,
@@ -14641,6 +14641,14 @@
       "onboard_time": 1741238119,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 38923,
+      "num": 133963,
+      "word": "2025经济热点",
+      "onboard_time": 1741278379,
+      "rank": 23,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 38500,
@@ -14769,6 +14777,14 @@
       "onboard_time": 1741007480,
       "rank": 19,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 35583,
+      "num": 65027,
+      "word": "想飞的女孩心中的乌鸦",
+      "onboard_time": 1741279398,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 35267,
@@ -14913,14 +14929,6 @@
       "onboard_time": 1741003999,
       "rank": 36,
       "category": "国内时政,读书作家"
-    },
-    {
-      "raw_hot": 32018,
-      "num": 103538,
-      "word": "2025经济热点",
-      "onboard_time": 1741278379,
-      "rank": 23,
-      "category": "国内时政,财经"
     },
     {
       "raw_hot": 32013,
