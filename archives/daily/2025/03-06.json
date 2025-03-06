@@ -1,10 +1,10 @@
 {
   "startTime": 1741192562065,
-  "endTime": 1741226925821,
+  "endTime": 1741229928532,
   "band_list": [
     {
       "raw_hot": 1272671,
-      "num": 345096,
+      "num": 371300,
       "word": "田静英语一成绩",
       "onboard_time": 1741219518,
       "rank": 10,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1052270,
-      "num": 340120,
+      "num": 343532,
       "word": "男子1个月染发4次十多天头发掉光",
       "onboard_time": 1741189816,
       "rank": 10,
@@ -35,8 +35,16 @@
       "category": "财经"
     },
     {
+      "raw_hot": 801311,
+      "num": 1128209,
+      "word": "建议孩子违法家长必须赔偿被害人",
+      "onboard_time": 1741224317,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 771763,
-      "num": 343638,
+      "num": 363671,
       "word": "陈乔恩回应变胖",
       "onboard_time": 1741217235,
       "rank": 26,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 768977,
-      "num": 341492,
+      "num": 352776,
       "word": "辛芷蕾微博真的是本人发的吗",
       "onboard_time": 1741185439,
       "rank": 11,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 728058,
-      "num": 342072,
+      "num": 355573,
       "word": "痛经女性近半或为子宫内膜异位症",
       "onboard_time": 1741218196,
       "rank": 12,
@@ -75,19 +83,19 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 681850,
+      "num": 681850,
+      "word": "你的退税到账了没",
+      "onboard_time": 1741227495,
+      "rank": 1,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 622037,
       "num": 891951,
       "word": "江苏要主动破除内卷式竞争",
       "onboard_time": 1741189277,
       "rank": 0,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 610204,
-      "num": 610204,
-      "word": "建议孩子违法家长必须赔偿被害人",
-      "onboard_time": 1741224317,
-      "rank": 9,
       "category": "国内时政"
     },
     {
@@ -107,6 +115,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 464512,
+      "num": 337560,
+      "word": "19岁女孩天生髌骨脱位双膝随意移动",
+      "onboard_time": 1741227558,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 449523,
       "num": 433198,
       "word": "靳东两会建议AI换脸立法",
@@ -123,6 +139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 434920,
+      "num": 434920,
+      "word": "我会好好的定档",
+      "onboard_time": 1741228456,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 434323,
       "num": 434323,
       "word": "两会",
@@ -131,12 +155,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 423650,
+      "num": 423650,
+      "word": "建议关注教师心理健康问题",
+      "onboard_time": 1741224019,
+      "rank": 21,
+      "category": "国内时政,教育"
+    },
+    {
       "raw_hot": 410243,
       "num": 410243,
       "word": "MacBook Air",
       "onboard_time": 1741188857,
       "rank": 4,
       "category": "数码"
+    },
+    {
+      "raw_hot": 404901,
+      "num": 330067,
+      "word": "李威或免除刑罚",
+      "onboard_time": 1741226657,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 398021,
@@ -179,16 +219,16 @@
       "category": "电影"
     },
     {
-      "raw_hot": 328816,
-      "num": 328816,
-      "word": "建议关注教师心理健康问题",
-      "onboard_time": 1741224019,
-      "rank": 21,
-      "category": "国内时政,教育"
+      "raw_hot": 324501,
+      "num": 324501,
+      "word": "白鹿说翟子路三部戏没熬到一个名分",
+      "onboard_time": 1741223118,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 320793,
-      "num": 249228,
+      "num": 298202,
       "word": "柯淳说喜欢赵丽颖",
       "onboard_time": 1741224556,
       "rank": 20,
@@ -212,7 +252,7 @@
     },
     {
       "raw_hot": 289862,
-      "num": 239397,
+      "num": 250154,
       "word": "15元一颗的草莓贵了还是便宜",
       "onboard_time": 1741218136,
       "rank": 22,
@@ -315,12 +355,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 195646,
-      "num": 195646,
-      "word": "白鹿说翟子路三部戏没熬到一个名分",
-      "onboard_time": 1741223118,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 201249,
+      "num": 313664,
+      "word": "韩美军演炮弹疑坠入民宅致7人受伤",
+      "onboard_time": 1741229296,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 196153,
+      "num": 196153,
+      "word": "周思成回应",
+      "onboard_time": 1741217536,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 193424,
+      "num": 379552,
+      "word": "建议提高基层医护人员薪酬",
+      "onboard_time": 1741227196,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 192320,
@@ -363,12 +419,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 175464,
-      "num": 175464,
-      "word": "周思成回应",
-      "onboard_time": 1741217536,
-      "rank": 43,
-      "category": "教育"
+      "raw_hot": 166887,
+      "num": 166887,
+      "word": "雷军",
+      "onboard_time": 1741224138,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 164629,
@@ -388,7 +444,7 @@
     },
     {
       "raw_hot": 156861,
-      "num": 193446,
+      "num": 206882,
       "word": "章若楠哭戏",
       "onboard_time": 1741223478,
       "rank": 28,
@@ -403,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153223,
+      "num": 210706,
+      "word": "李安说短视频消磨人的感觉",
+      "onboard_time": 1741226055,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 148750,
       "num": 148750,
       "word": "Manus",
@@ -411,12 +475,12 @@
       "category": "互联网,数码"
     },
     {
-      "raw_hot": 148371,
-      "num": 148371,
-      "word": "雷军",
-      "onboard_time": 1741224138,
-      "rank": 38,
-      "category": "互联网"
+      "raw_hot": 148472,
+      "num": 148472,
+      "word": "特朗普对美政府离谱开支贴脸开大",
+      "onboard_time": 1741227495,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 144729,
@@ -449,14 +513,6 @@
       "onboard_time": 1741217596,
       "rank": 41,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 127853,
-      "num": 192568,
-      "word": "李安说短视频消磨人的感觉",
-      "onboard_time": 1741226055,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 126896,
@@ -492,7 +548,7 @@
     },
     {
       "raw_hot": 117000,
-      "num": 190421,
+      "num": 197799,
       "word": "滤镜 海底捞扯面",
       "onboard_time": 1741183459,
       "rank": 27,
@@ -521,6 +577,22 @@
       "onboard_time": 1741224317,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105535,
+      "num": 105535,
+      "word": "王治郅说停车场扫码就给现金",
+      "onboard_time": 1741228817,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 105187,
+      "num": 105187,
+      "word": "经期喝点它缓解小腹冷痛",
+      "onboard_time": 1741227736,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 104364,
@@ -561,6 +633,14 @@
       "onboard_time": 1741219217,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 97558,
+      "num": 97558,
+      "word": "全球首款通用AI助手发布",
+      "onboard_time": 1741229835,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 96776,
@@ -611,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90768,
+      "num": 90768,
+      "word": "富时中国A50指数变更",
+      "onboard_time": 1741229476,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 89251,
       "num": 89251,
       "word": "爱你",
@@ -625,6 +713,14 @@
       "onboard_time": 1741182619,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 87194,
+      "num": 87194,
+      "word": "控制脂肪肝少吃主食还是少吃肉",
+      "onboard_time": 1741228997,
+      "rank": 48,
+      "category": "运动健身"
     },
     {
       "raw_hot": 75504,
@@ -740,7 +836,7 @@
     },
     {
       "raw_hot": 56525,
-      "num": 449332,
+      "num": 457308,
       "word": "政府工作报告里的创新关键词",
       "onboard_time": 1741182140,
       "rank": 2,
@@ -809,14 +905,6 @@
       "onboard_time": 1741183399,
       "rank": 49,
       "category": "国内时政,艺人"
-    },
-    {
-      "raw_hot": 35585,
-      "num": 186087,
-      "word": "李威或免除刑罚",
-      "onboard_time": 1741226657,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 33499,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1741229928532,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 801311,
+        "num": 1128209,
+        "word": "建议孩子违法家长必须赔偿被害人",
+        "onboard_time": 1741224317,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 681850,
+        "num": 681850,
+        "word": "你的退税到账了没",
+        "onboard_time": 1741227495,
+        "rank": 1,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 36481,
+        "num": 457308,
+        "word": "政府工作报告里的创新关键词",
+        "onboard_time": 1741182140,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 434920,
+        "num": 434920,
+        "word": "我会好好的定档",
+        "onboard_time": 1741228456,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 427786,
+        "num": 427786,
+        "word": "退税",
+        "onboard_time": 1741217115,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 423650,
+        "num": 423650,
+        "word": "建议关注教师心理健康问题",
+        "onboard_time": 1741224019,
+        "rank": 5,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 392277,
+        "num": 392277,
+        "word": "靳东两会建议AI换脸立法",
+        "onboard_time": 1741182619,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 390879,
+        "num": 390879,
+        "word": "两会",
+        "onboard_time": 1741185860,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 287016,
+        "num": 388547,
+        "word": "张晚意 古装",
+        "onboard_time": 1741221319,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193424,
+        "num": 379552,
+        "word": "建议提高基层医护人员薪酬",
+        "onboard_time": 1741227196,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1053475,
+        "num": 371300,
+        "word": "田静英语一成绩",
+        "onboard_time": 1741219518,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 685552,
+        "num": 363671,
+        "word": "陈乔恩回应变胖",
+        "onboard_time": 1741217235,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 662437,
+        "num": 355573,
+        "word": "痛经女性近半或为子宫内膜异位症",
+        "onboard_time": 1741218196,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 556131,
+        "num": 352776,
+        "word": "辛芷蕾微博真的是本人发的吗",
+        "onboard_time": 1741185439,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 514698,
+        "num": 343532,
+        "word": "男子1个月染发4次十多天头发掉光",
+        "onboard_time": 1741189816,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 464512,
+        "num": 337560,
+        "word": "19岁女孩天生髌骨脱位双膝随意移动",
+        "onboard_time": 1741227558,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 404901,
+        "num": 330067,
+        "word": "李威或免除刑罚",
+        "onboard_time": 1741226657,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324501,
+        "num": 324501,
+        "word": "白鹿说翟子路三部戏没熬到一个名分",
+        "onboard_time": 1741223118,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211019,
+        "num": 315379,
+        "word": "我是虞书欣我同意国王开播",
+        "onboard_time": 1741219817,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 201249,
+        "num": 313664,
+        "word": "韩美军演炮弹疑坠入民宅致7人受伤",
+        "onboard_time": 1741229296,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 313629,
+        "num": 313629,
+        "word": "冉莹颖回应给儿子打生长激素",
+        "onboard_time": 1741217174,
+        "rank": 20,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 298202,
+        "num": 298202,
+        "word": "柯淳说喜欢赵丽颖",
+        "onboard_time": 1741224556,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259562,
+        "num": 259562,
+        "word": "乌克兰法令仍禁止泽连斯基与俄会谈",
+        "onboard_time": 1741219758,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 250154,
+        "num": 250154,
+        "word": "15元一颗的草莓贵了还是便宜",
+        "onboard_time": 1741218136,
+        "rank": 23,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 216103,
+        "num": 216103,
+        "word": "女子阻止网友骂唐氏患者遭上门殴打",
+        "onboard_time": 1741218076,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213389,
+        "num": 213389,
+        "word": "45岁男子花15元中了1800万",
+        "onboard_time": 1741217115,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153223,
+        "num": 210706,
+        "word": "李安说短视频消磨人的感觉",
+        "onboard_time": 1741226055,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114566,
+        "num": 206882,
+        "word": "章若楠哭戏",
+        "onboard_time": 1741223478,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110669,
+        "num": 202478,
+        "word": "古人吃海鲜剩的壳堆成地层",
+        "onboard_time": 1741217355,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105258,
+        "num": 197799,
+        "word": "滤镜 海底捞扯面",
+        "onboard_time": 1741183459,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196153,
+        "num": 196153,
+        "word": "周思成回应",
+        "onboard_time": 1741217536,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 185369,
+        "num": 185369,
+        "word": "以为正常其实严重缺觉的表现",
+        "onboard_time": 1741218136,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 176071,
+        "num": 176071,
+        "word": "金智秀疑似受伤",
+        "onboard_time": 1741217235,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171518,
+        "num": 171518,
+        "word": "ally柳演锡合拍",
+        "onboard_time": 1741221440,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166887,
+        "num": 166887,
+        "word": "雷军",
+        "onboard_time": 1741224138,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 148472,
+        "num": 148472,
+        "word": "特朗普对美政府离谱开支贴脸开大",
+        "onboard_time": 1741227495,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130123,
+        "num": 130123,
+        "word": "医生建议染发烫发一年不要超过两次",
+        "onboard_time": 1741191017,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 122082,
+        "num": 122082,
+        "word": "Manus",
+        "onboard_time": 1741225577,
+        "rank": 37,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 120460,
+        "num": 120460,
+        "word": "为何越来越多小众服饰品牌变便宜了",
+        "onboard_time": 1741188079,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116578,
+        "num": 116578,
+        "word": "杭州姑娘退税4190元惊呼巨款",
+        "onboard_time": 1741176978,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113308,
+        "num": 113308,
+        "word": "什么是瞪羚企业",
+        "onboard_time": 1741224317,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 105535,
+        "num": 105535,
+        "word": "王治郅说停车场扫码就给现金",
+        "onboard_time": 1741228817,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105187,
+        "num": 105187,
+        "word": "经期喝点它缓解小腹冷痛",
+        "onboard_time": 1741227736,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 104509,
+        "num": 104509,
+        "word": "俄方回应泽连斯基表态",
+        "onboard_time": 1741218556,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97558,
+        "num": 97558,
+        "word": "全球首款通用AI助手发布",
+        "onboard_time": 1741229835,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 91185,
+        "num": 91185,
+        "word": "中国山水究竟藏着多少惊喜",
+        "onboard_time": 1741219398,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 90768,
+        "num": 90768,
+        "word": "富时中国A50指数变更",
+        "onboard_time": 1741229476,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 87495,
+        "num": 87495,
+        "word": "喝咖啡与不喝咖啡身体的差距",
+        "onboard_time": 1741172179,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 87194,
+        "num": 87194,
+        "word": "控制脂肪肝少吃主食还是少吃肉",
+        "onboard_time": 1741228997,
+        "rank": 48,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 73996,
+        "num": 87080,
+        "word": "王源偷偷拿彩带",
+        "onboard_time": 1741219217,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的两会时间#"
+    }
+  }
+}
