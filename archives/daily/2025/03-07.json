@@ -1,6 +1,6 @@
 {
   "startTime": 1741278581665,
-  "endTime": 1741300788317,
+  "endTime": 1741303358039,
   "band_list": [
     {
       "raw_hot": 485662,
@@ -11,7 +11,7 @@
       "category": "教育"
     },
     {
-      "raw_hot": 415131,
+      "raw_hot": 429480,
       "num": 839355,
       "word": "10年6战法考终上岸的北大保安已辞职",
       "onboard_time": 1741270344,
@@ -25,6 +25,14 @@
       "onboard_time": 1741268543,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 360536,
+      "num": 161931,
+      "word": "五哈5嘉宾阵容",
+      "onboard_time": 1741302678,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 344191,
@@ -51,6 +59,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 183729,
+      "num": 183729,
+      "word": "靳东建议成立国家遗嘱库",
+      "onboard_time": 1741256960,
+      "rank": 32,
+      "category": "国内时政,艺人"
+    },
+    {
+      "raw_hot": 181551,
+      "num": 107004,
+      "word": "男子一家族9口人患癌症8人离世",
+      "onboard_time": 1741272561,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179793,
       "num": 179793,
       "word": "王楚钦程靖淇互动",
@@ -59,12 +83,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178208,
-      "num": 107004,
-      "word": "男子一家族9口人患癌症8人离世",
-      "onboard_time": 1741272561,
-      "rank": 20,
-      "category": "民生新闻"
+      "raw_hot": 177754,
+      "num": 110809,
+      "word": "文都客服回应何凯文成绩",
+      "onboard_time": 1741302317,
+      "rank": 11,
+      "category": "教育"
     },
     {
       "raw_hot": 170917,
@@ -80,6 +104,30 @@
       "word": "哪吒2票房破146亿",
       "onboard_time": 1741259062,
       "rank": 5,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 161341,
+      "num": 161341,
+      "word": "冯远征说通过节目成为优秀演员不切实际",
+      "onboard_time": 1741271663,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 154594,
+      "num": 109027,
+      "word": "方大同音乐公司提醒大家小心诈骗",
+      "onboard_time": 1741287554,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 148876,
+      "num": 148876,
+      "word": "哪吒",
+      "onboard_time": 1741283835,
+      "rank": 47,
       "category": "电影"
     },
     {
@@ -139,14 +187,6 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 128426,
-      "num": 128426,
-      "word": "冯远征说通过节目成为优秀演员不切实际",
-      "onboard_time": 1741271663,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 128316,
       "num": 102462,
       "word": "每天久坐超过4小时会怎样",
@@ -187,12 +227,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112390,
+      "num": 112390,
+      "word": "卢沙野澄清中国偏袒俄罗斯",
+      "onboard_time": 1741283417,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 109283,
       "num": 109283,
       "word": "香港18岁中学女生真实的一面",
       "onboard_time": 1741268724,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 108775,
+      "num": 108775,
+      "word": "韩空军战机误击居民区瞬间",
+      "onboard_time": 1741291994,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 108190,
@@ -203,12 +259,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 102283,
-      "num": 102283,
-      "word": "靳东建议成立国家遗嘱库",
-      "onboard_time": 1741256960,
-      "rank": 32,
-      "category": "国内时政,艺人"
+      "raw_hot": 98670,
+      "num": 98670,
+      "word": "邓超看起来像极了本地人",
+      "onboard_time": 1741262720,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 95306,
@@ -241,6 +297,14 @@
       "onboard_time": 1741274422,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 68915,
+      "num": 86508,
+      "word": "春晚机器人的朋友又长本事了",
+      "onboard_time": 1741276941,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68909,
@@ -291,12 +355,12 @@
       "category": "国内时政,财经"
     },
     {
-      "raw_hot": 60237,
-      "num": 60237,
-      "word": "哪吒",
-      "onboard_time": 1741283835,
-      "rank": 47,
-      "category": "电影"
+      "raw_hot": 58888,
+      "num": 58888,
+      "word": "援几内亚父亲低头的瞬间儿子泪崩",
+      "onboard_time": 1741297874,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57503,
@@ -315,12 +379,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 56439,
-      "num": 86508,
-      "word": "春晚机器人的朋友又长本事了",
-      "onboard_time": 1741276941,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 54952,
+      "num": 65027,
+      "word": "李威 周处除三害",
+      "onboard_time": 1741271782,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 53593,
@@ -339,36 +403,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 52319,
-      "num": 52319,
-      "word": "韩空军战机误击居民区瞬间",
-      "onboard_time": 1741291994,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 52090,
       "num": 65040,
       "word": "张泽禹朋友圈屏蔽爸妈",
       "onboard_time": 1741268543,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 51426,
-      "num": 65027,
-      "word": "李威 周处除三害",
-      "onboard_time": 1741271782,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 50619,
-      "num": 50619,
-      "word": "卢沙野澄清中国偏袒俄罗斯",
-      "onboard_time": 1741283417,
-      "rank": 4,
-      "category": "国内时政"
     },
     {
       "raw_hot": 50055,
@@ -419,14 +459,6 @@
       "category": "国内时政,财经"
     },
     {
-      "raw_hot": 42009,
-      "num": 65037,
-      "word": "邓超看起来像极了本地人",
-      "onboard_time": 1741262720,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 41241,
       "num": 65033,
       "word": "强化教育对科技和人才支撑作用",
@@ -435,8 +467,16 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 38224,
+      "num": 48719,
+      "word": "主人让狗狗自己挑选玩具",
+      "onboard_time": 1741302198,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 36129,
-      "num": 45054,
+      "num": 48342,
       "word": "周深9.29hz世界巡回演唱会",
       "onboard_time": 1741280836,
       "rank": 28,
@@ -452,11 +492,27 @@
     },
     {
       "raw_hot": 33783,
-      "num": 43625,
+      "num": 48432,
       "word": "机器人自学成才解锁李小龙同款功夫",
       "onboard_time": 1741279577,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33355,
+      "num": 48608,
+      "word": "种地吧",
+      "onboard_time": 1741303218,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 32956,
+      "num": 48505,
+      "word": "范丞丞时装周在线报备12h",
+      "onboard_time": 1741302317,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 32947,
@@ -475,28 +531,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 28951,
-      "num": 32699,
-      "word": "援几内亚父亲低头的瞬间儿子泪崩",
-      "onboard_time": 1741297874,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28357,
-      "num": 32694,
-      "word": "方大同音乐公司提醒大家小心诈骗",
-      "onboard_time": 1741287554,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 24960,
       "num": 204888,
       "word": "经济主题记者会要点速览",
       "onboard_time": 1741265780,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 23823,
+      "num": 67322,
+      "word": "乌克兰与美国预计下周举行会议",
+      "onboard_time": 1741303158,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 22717,
