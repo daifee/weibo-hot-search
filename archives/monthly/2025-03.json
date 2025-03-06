@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741217817024,
+  "endTime": 1741225638694,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -579,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1272671,
+      "num": 283159,
+      "word": "田静英语一成绩",
+      "onboard_time": 1741219518,
+      "rank": 10,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1267318,
       "num": 1267318,
       "word": "有密码取不出钱将病重老人推到银行",
@@ -787,6 +795,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1098010,
+      "num": 1175681,
+      "word": "全国物业费大跳水意味着什么",
+      "onboard_time": 1741219938,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1080920,
       "num": 1172947,
       "word": "人大会议开幕会",
@@ -836,7 +852,7 @@
     },
     {
       "raw_hot": 1052270,
-      "num": 227268,
+      "num": 274429,
       "word": "男子1个月染发4次十多天头发掉光",
       "onboard_time": 1741189816,
       "rank": 10,
@@ -1411,6 +1427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 771763,
+      "num": 281486,
+      "word": "陈乔恩回应变胖",
+      "onboard_time": 1741217235,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 769767,
       "num": 576169,
       "word": "夜旅人",
@@ -1507,6 +1531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 726886,
+      "num": 278629,
+      "word": "痛经女性近半或为子宫内膜异位症",
+      "onboard_time": 1741218196,
+      "rank": 12,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 726376,
       "num": 597631,
       "word": "难哄 瞿友宁",
@@ -1596,7 +1628,7 @@
     },
     {
       "raw_hot": 693321,
-      "num": 176824,
+      "num": 272041,
       "word": "冉莹颖回应给儿子打生长激素",
       "onboard_time": 1741217174,
       "rank": 10,
@@ -2755,6 +2787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 475029,
+      "num": 292385,
+      "word": "乌克兰法令仍禁止泽连斯基与俄会谈",
+      "onboard_time": 1741219758,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 474804,
       "num": 474804,
       "word": "敖光版龙抬头霸气送祝福",
@@ -3315,12 +3355,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 400521,
+      "num": 291023,
+      "word": "张晚意 古装",
+      "onboard_time": 1741221319,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 399822,
       "num": 349260,
       "word": "白敬亭章若楠跳troublemaker",
       "onboard_time": 1740835883,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 398021,
+      "num": 288469,
+      "word": "我是虞书欣我同意国王开播",
+      "onboard_time": 1741219817,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 394364,
@@ -3361,6 +3417,14 @@
       "onboard_time": 1740893719,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 391822,
+      "num": 273942,
+      "word": "45岁男子花15元中了1800万",
+      "onboard_time": 1741217115,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 391560,
@@ -4555,6 +4619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 292171,
+      "num": 223277,
+      "word": "柯淳说喜欢赵丽颖",
+      "onboard_time": 1741224556,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 291845,
       "num": 291845,
       "word": "短剧演员背调",
@@ -4617,6 +4689,14 @@
       "onboard_time": 1740909739,
       "rank": 23,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 289862,
+      "num": 215426,
+      "word": "15元一颗的草莓贵了还是便宜",
+      "onboard_time": 1741218136,
+      "rank": 22,
+      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 289763,
@@ -4713,6 +4793,14 @@
       "onboard_time": 1740919761,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 283911,
+      "num": 211513,
+      "word": "以为正常其实严重缺觉的表现",
+      "onboard_time": 1741218136,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 281733,
@@ -4881,6 +4969,14 @@
       "onboard_time": 1741169538,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 270644,
+      "num": 270644,
+      "word": "女子阻止网友骂唐氏患者遭上门殴打",
+      "onboard_time": 1741218076,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 270295,
@@ -5233,6 +5329,14 @@
       "onboard_time": 1740927620,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 252913,
+      "num": 252913,
+      "word": "ally柳演锡合拍",
+      "onboard_time": 1741221440,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 252401,
@@ -5859,6 +5963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 224108,
+      "num": 224108,
+      "word": "俄方回应泽连斯基表态",
+      "onboard_time": 1741218556,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 223868,
       "num": 172217,
       "word": "春捂最该捂的3个部位",
@@ -5905,6 +6017,14 @@
       "onboard_time": 1741086741,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 222457,
+      "num": 286534,
+      "word": "古人吃海鲜剩的壳堆成地层",
+      "onboard_time": 1741217355,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 222296,
@@ -5961,6 +6081,14 @@
       "onboard_time": 1741083081,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 221710,
+      "num": 221710,
+      "word": "建议关注教师心理健康问题",
+      "onboard_time": 1741224019,
+      "rank": 21,
+      "category": "国内时政,教育"
     },
     {
       "raw_hot": 221391,
@@ -6523,6 +6651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 205494,
+      "num": 205494,
+      "word": "金智秀疑似受伤",
+      "onboard_time": 1741217235,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205425,
       "num": 205425,
       "word": "大侦探",
@@ -6745,6 +6881,14 @@
       "onboard_time": 1740838824,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200849,
+      "num": 284725,
+      "word": "建议孩子违法家长必须赔偿被害人",
+      "onboard_time": 1741224317,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 200595,
@@ -7123,6 +7267,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 192320,
+      "num": 192320,
+      "word": "医生建议染发烫发一年不要超过两次",
+      "onboard_time": 1741191017,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 192296,
       "num": 192296,
       "word": "浪姐6一公录制",
@@ -7312,6 +7464,14 @@
       "word": "古装剧终于有支持女儿不结婚的父亲",
       "onboard_time": 1740892098,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 187778,
+      "num": 187778,
+      "word": "白鹿说翟子路三部戏没熬到一个名分",
+      "onboard_time": 1741223118,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -7905,6 +8065,14 @@
       "onboard_time": 1740922520,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175464,
+      "num": 175464,
+      "word": "周思成回应",
+      "onboard_time": 1741217536,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 175449,
@@ -8563,14 +8731,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 162961,
-      "num": 128156,
-      "word": "医生建议染发烫发一年不要超过两次",
-      "onboard_time": 1741191017,
-      "rank": 34,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 162946,
       "num": 205154,
       "word": "原来辛芷蕾私下这么抽象",
@@ -8755,6 +8915,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 158340,
+      "num": 158340,
+      "word": "邹市明发声支持冉莹颖",
+      "onboard_time": 1741220358,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158266,
       "num": 158266,
       "word": "周深来自神秘东方的力量",
@@ -8793,14 +8961,6 @@
       "onboard_time": 1740918440,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 157933,
-      "num": 127330,
-      "word": "陈乔恩回应变胖",
-      "onboard_time": 1741217235,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 157847,
@@ -9275,6 +9435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 151221,
+      "num": 151221,
+      "word": "特朗普再次列举政府部门离谱开支",
+      "onboard_time": 1741222878,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 150996,
       "num": 150996,
       "word": "肖战粉丝G社生图",
@@ -9417,6 +9585,14 @@
       "onboard_time": 1740979039,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 148371,
+      "num": 148371,
+      "word": "雷军",
+      "onboard_time": 1741224138,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 148277,
@@ -9659,6 +9835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144526,
+      "num": 144526,
+      "word": "王大陆涉嫌教唆伤人案1人在逃",
+      "onboard_time": 1741219338,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144476,
       "num": 144476,
       "word": "tods副总顺走了肖战的应援手幅秀",
@@ -9857,6 +10041,14 @@
       "onboard_time": 1741153159,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141195,
+      "num": 141195,
+      "word": "美国又发生三机相撞",
+      "onboard_time": 1741217596,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 141134,
@@ -10187,14 +10379,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 137672,
-      "num": 137672,
-      "word": "金智秀疑似受伤",
-      "onboard_time": 1741217235,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 137638,
       "num": 137638,
       "word": "一面土墙记载1000多年历史",
@@ -10483,6 +10667,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 131604,
+      "num": 131604,
+      "word": "什么是瞪羚企业",
+      "onboard_time": 1741224317,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 131583,
       "num": 131583,
       "word": "济南暴雪路上汽车变绝望冰壶",
@@ -10633,6 +10825,14 @@
       "onboard_time": 1740841523,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 129321,
+      "num": 190579,
+      "word": "章若楠哭戏",
+      "onboard_time": 1741223478,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 129156,
@@ -10817,6 +11017,14 @@
       "onboard_time": 1741143738,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126596,
+      "num": 126596,
+      "word": "中国山水究竟藏着多少惊喜",
+      "onboard_time": 1741219398,
+      "rank": 42,
+      "category": "旅游"
     },
     {
       "raw_hot": 126526,
@@ -11811,14 +12019,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 109262,
-      "num": 109262,
-      "word": "45岁男子花15元中了1800万",
-      "onboard_time": 1741217115,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 109155,
       "num": 109155,
       "word": "单依纯薛之谦合唱",
@@ -12443,6 +12643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98499,
+      "num": 98499,
+      "word": "周也短发",
+      "onboard_time": 1741221978,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 98273,
       "num": 98273,
       "word": "夏凤华好哄",
@@ -12465,6 +12673,14 @@
       "onboard_time": 1740889820,
       "rank": 46,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 98074,
+      "num": 98074,
+      "word": "王源偷偷拿彩带",
+      "onboard_time": 1741219217,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 97919,
@@ -12595,6 +12811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95804,
+      "num": 95804,
+      "word": "一生物科技公司培育出长毛猛犸鼠",
+      "onboard_time": 1741217476,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95726,
       "num": 297638,
       "word": "建议改革高校非升即走制度",
@@ -12675,6 +12899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94768,
+      "num": 94768,
+      "word": "当地回应女子阻止网友骂唐宝遭殴打",
+      "onboard_time": 1741224317,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94739,
       "num": 124212,
       "word": "虞书欣最近好像有点喜欢上滑雪了",
@@ -12689,6 +12921,14 @@
       "onboard_time": 1741065138,
       "rank": 14,
       "category": "国内时政,互联网"
+    },
+    {
+      "raw_hot": 94554,
+      "num": 94554,
+      "word": "雷军谈同质化竞争",
+      "onboard_time": 1741219878,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 94280,
@@ -12915,6 +13155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87701,
+      "num": 87701,
+      "word": "Manus",
+      "onboard_time": 1741225577,
+      "rank": 49,
+      "category": "互联网,数码"
+    },
+    {
       "raw_hot": 87684,
       "num": 102688,
       "word": "樊振东为中国棒球队加油",
@@ -13113,14 +13361,6 @@
       "onboard_time": 1740750620,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 83339,
-      "num": 115580,
-      "word": "古人吃海鲜剩的壳堆成地层",
-      "onboard_time": 1741217355,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 83155,
@@ -13867,14 +14107,6 @@
       "category": "民生新闻,国内时政"
     },
     {
-      "raw_hot": 62511,
-      "num": 62511,
-      "word": "一生物科技公司培育出长毛猛犸鼠",
-      "onboard_time": 1741217476,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 62472,
       "num": 280551,
       "word": "搬到迪拜的电诈团伙开始产业升级",
@@ -14123,12 +14355,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 56391,
-      "num": 56391,
-      "word": "美国又发生三机相撞",
-      "onboard_time": 1741217596,
-      "rank": 41,
-      "category": "海外新闻"
+      "raw_hot": 56525,
+      "num": 298308,
+      "word": "政府工作报告里的创新关键词",
+      "onboard_time": 1741182140,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 56302,
@@ -14337,14 +14569,6 @@
       "onboard_time": 1741044316,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 49999,
-      "num": 49999,
-      "word": "周思成回应",
-      "onboard_time": 1741217536,
-      "rank": 43,
-      "category": "教育"
     },
     {
       "raw_hot": 49991,
@@ -15249,14 +15473,6 @@
       "onboard_time": 1740864432,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 27698,
-      "num": 285601,
-      "word": "政府工作报告里的创新关键词",
-      "onboard_time": 1741182140,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 27689,
