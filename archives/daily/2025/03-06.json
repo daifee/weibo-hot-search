@@ -1,10 +1,10 @@
 {
   "startTime": 1741192562065,
-  "endTime": 1741225638694,
+  "endTime": 1741226925821,
   "band_list": [
     {
       "raw_hot": 1272671,
-      "num": 283159,
+      "num": 345096,
       "word": "田静英语一成绩",
       "onboard_time": 1741219518,
       "rank": 10,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1052270,
-      "num": 274429,
+      "num": 340120,
       "word": "男子1个月染发4次十多天头发掉光",
       "onboard_time": 1741189816,
       "rank": 10,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 923006,
-      "num": 296225,
+      "num": 448166,
       "word": "退税",
       "onboard_time": 1741217115,
       "rank": 19,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 771763,
-      "num": 281486,
+      "num": 343638,
       "word": "陈乔恩回应变胖",
       "onboard_time": 1741217235,
       "rank": 26,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 768977,
-      "num": 278094,
+      "num": 341492,
       "word": "辛芷蕾微博真的是本人发的吗",
       "onboard_time": 1741185439,
       "rank": 11,
@@ -59,8 +59,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 726886,
-      "num": 278629,
+      "raw_hot": 728058,
+      "num": 342072,
       "word": "痛经女性近半或为子宫内膜异位症",
       "onboard_time": 1741218196,
       "rank": 12,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 693321,
-      "num": 272041,
+      "num": 339106,
       "word": "冉莹颖回应给儿子打生长激素",
       "onboard_time": 1741217174,
       "rank": 10,
@@ -83,6 +83,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 610204,
+      "num": 610204,
+      "word": "建议孩子违法家长必须赔偿被害人",
+      "onboard_time": 1741224317,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 488900,
       "num": 488900,
       "word": "北上 小巷人家",
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 475029,
-      "num": 292385,
+      "num": 349453,
       "word": "乌克兰法令仍禁止泽连斯基与俄会谈",
       "onboard_time": 1741219758,
       "rank": 5,
@@ -100,10 +108,26 @@
     },
     {
       "raw_hot": 449523,
-      "num": 323384,
+      "num": 433198,
       "word": "靳东两会建议AI换脸立法",
       "onboard_time": 1741182619,
       "rank": 5,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 444872,
+      "num": 444872,
+      "word": "张晚意 古装",
+      "onboard_time": 1741221319,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 434323,
+      "num": 434323,
+      "word": "两会",
+      "onboard_time": 1741185860,
+      "rank": 16,
       "category": "国内时政"
     },
     {
@@ -115,16 +139,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 400521,
-      "num": 291023,
-      "word": "张晚意 古装",
-      "onboard_time": 1741221319,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 398021,
-      "num": 288469,
+      "num": 348840,
       "word": "我是虞书欣我同意国王开播",
       "onboard_time": 1741219817,
       "rank": 7,
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 391822,
-      "num": 273942,
+      "num": 334781,
       "word": "45岁男子花15元中了1800万",
       "onboard_time": 1741217115,
       "rank": 32,
@@ -163,6 +179,30 @@
       "category": "电影"
     },
     {
+      "raw_hot": 328816,
+      "num": 328816,
+      "word": "建议关注教师心理健康问题",
+      "onboard_time": 1741224019,
+      "rank": 21,
+      "category": "国内时政,教育"
+    },
+    {
+      "raw_hot": 320793,
+      "num": 249228,
+      "word": "柯淳说喜欢赵丽颖",
+      "onboard_time": 1741224556,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 310953,
+      "num": 310953,
+      "word": "ally柳演锡合拍",
+      "onboard_time": 1741221440,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300453,
       "num": 113424,
       "word": "街道通报男子虐猫事件",
@@ -171,24 +211,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 299017,
-      "num": 299017,
-      "word": "两会",
-      "onboard_time": 1741185860,
-      "rank": 16,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 292171,
-      "num": 223277,
-      "word": "柯淳说喜欢赵丽颖",
-      "onboard_time": 1741224556,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 289862,
-      "num": 215426,
+      "num": 239397,
       "word": "15元一颗的草莓贵了还是便宜",
       "onboard_time": 1741218136,
       "rank": 22,
@@ -196,7 +220,7 @@
     },
     {
       "raw_hot": 283911,
-      "num": 211513,
+      "num": 214814,
       "word": "以为正常其实严重缺觉的表现",
       "onboard_time": 1741218136,
       "rank": 23,
@@ -217,14 +241,6 @@
       "onboard_time": 1741177939,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 252913,
-      "num": 252913,
-      "word": "ally柳演锡合拍",
-      "onboard_time": 1741221440,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 230681,
@@ -257,14 +273,6 @@
       "onboard_time": 1741217355,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 221710,
-      "num": 221710,
-      "word": "建议关注教师心理健康问题",
-      "onboard_time": 1741224019,
-      "rank": 21,
-      "category": "国内时政,教育"
     },
     {
       "raw_hot": 220989,
@@ -307,12 +315,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 200849,
-      "num": 284725,
-      "word": "建议孩子违法家长必须赔偿被害人",
-      "onboard_time": 1741224317,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 195646,
+      "num": 195646,
+      "word": "白鹿说翟子路三部戏没熬到一个名分",
+      "onboard_time": 1741223118,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 192320,
@@ -323,19 +331,19 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 191158,
+      "num": 191158,
+      "word": "特朗普再次列举政府部门离谱开支",
+      "onboard_time": 1741222878,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 188022,
       "num": 230104,
       "word": "白鹿说作为演员不会干涉妆造",
       "onboard_time": 1741183279,
       "rank": 8,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 187778,
-      "num": 187778,
-      "word": "白鹿说翟子路三部戏没熬到一个名分",
-      "onboard_time": 1741223118,
-      "rank": 31,
       "category": "剧集"
     },
     {
@@ -379,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156861,
+      "num": 193446,
+      "word": "章若楠哭戏",
+      "onboard_time": 1741223478,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 154266,
       "num": 154266,
       "word": "多方回应租客被房东扣9200元押金",
@@ -387,12 +403,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 151221,
-      "num": 151221,
-      "word": "特朗普再次列举政府部门离谱开支",
-      "onboard_time": 1741222878,
-      "rank": 35,
-      "category": "国际时政"
+      "raw_hot": 148750,
+      "num": 148750,
+      "word": "Manus",
+      "onboard_time": 1741225577,
+      "rank": 49,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 148371,
@@ -401,6 +417,14 @@
       "onboard_time": 1741224138,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 144729,
+      "num": 347832,
+      "word": "什么是瞪羚企业",
+      "onboard_time": 1741224317,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 144526,
@@ -427,19 +451,11 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 131604,
-      "num": 131604,
-      "word": "什么是瞪羚企业",
-      "onboard_time": 1741224317,
-      "rank": 41,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 129321,
-      "num": 190579,
-      "word": "章若楠哭戏",
-      "onboard_time": 1741223478,
-      "rank": 28,
+      "raw_hot": 127853,
+      "num": 192568,
+      "word": "李安说短视频消磨人的感觉",
+      "onboard_time": 1741226055,
+      "rank": 26,
       "category": "电影"
     },
     {
@@ -483,12 +499,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116737,
+      "num": 116737,
+      "word": "周也短发",
+      "onboard_time": 1741221978,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 113710,
       "num": 113710,
       "word": "巴黎圣日耳曼0比1利物浦",
       "onboard_time": 1741217056,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107331,
+      "num": 107331,
+      "word": "当地回应女子阻止网友骂唐宝遭殴打",
+      "onboard_time": 1741224317,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104364,
@@ -523,14 +555,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 98499,
-      "num": 98499,
-      "word": "周也短发",
-      "onboard_time": 1741221978,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 98074,
       "num": 98074,
       "word": "王源偷偷拿彩带",
@@ -560,14 +584,6 @@
       "word": "一生物科技公司培育出长毛猛犸鼠",
       "onboard_time": 1741217476,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94768,
-      "num": 94768,
-      "word": "当地回应女子阻止网友骂唐宝遭殴打",
-      "onboard_time": 1741224317,
-      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -609,14 +625,6 @@
       "onboard_time": 1741182619,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 87701,
-      "num": 87701,
-      "word": "Manus",
-      "onboard_time": 1741225577,
-      "rank": 49,
-      "category": "互联网,数码"
     },
     {
       "raw_hot": 75504,
@@ -732,7 +740,7 @@
     },
     {
       "raw_hot": 56525,
-      "num": 298308,
+      "num": 449332,
       "word": "政府工作报告里的创新关键词",
       "onboard_time": 1741182140,
       "rank": 2,
@@ -801,6 +809,14 @@
       "onboard_time": 1741183399,
       "rank": 49,
       "category": "国内时政,艺人"
+    },
+    {
+      "raw_hot": 35585,
+      "num": 186087,
+      "word": "李威或免除刑罚",
+      "onboard_time": 1741226657,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 33499,
