@@ -1,6 +1,6 @@
 {
   "startTime": 1741278581665,
-  "endTime": 1741282741786,
+  "endTime": 1741285910966,
   "band_list": [
     {
       "raw_hot": 485662,
@@ -411,6 +411,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 40489,
+      "num": 40489,
+      "word": "卢沙野澄清中国偏袒俄罗斯",
+      "onboard_time": 1741283417,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 36129,
       "num": 45054,
       "word": "周深9.29hz世界巡回演唱会",
@@ -467,11 +475,51 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 18678,
+      "num": 21226,
+      "word": "李寿根李茂珍缺席KBS固定节目录制",
+      "onboard_time": 1741284616,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 18527,
+      "num": 21226,
+      "word": "何浩楠随地大小帅",
+      "onboard_time": 1741274662,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 17884,
+      "num": 21222,
+      "word": "TuI对战WBG",
+      "onboard_time": 1741276640,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 15692,
       "num": 59050,
       "word": "投资于人成两会热词",
       "onboard_time": 1741281677,
       "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 12494,
+      "num": 21229,
+      "word": "两会声音",
+      "onboard_time": 1741277179,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 11627,
+      "num": 29115,
+      "word": "提升新就业群体社会地位和职业认同",
+      "onboard_time": 1741285575,
+      "rank": 16,
       "category": "国内时政"
     }
   ],
