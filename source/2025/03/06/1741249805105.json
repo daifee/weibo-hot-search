@@ -1,0 +1,410 @@
+{
+  "runTime": 1741249805105,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 609473,
+        "num": 1097515,
+        "word": "代表说0补课0月考孩子成绩都是A",
+        "onboard_time": 1741240698,
+        "rank": 0,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 473226,
+        "num": 473226,
+        "word": "建议将禁止就业年龄歧视纳入法律",
+        "onboard_time": 1741231696,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 25612,
+        "num": 454682,
+        "word": "您的声音我的故事",
+        "onboard_time": 1741236860,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 443178,
+        "num": 443178,
+        "word": "白露好牛",
+        "onboard_time": 1741243759,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 374744,
+        "num": 374744,
+        "word": "建议彻底整治劳务派遣乱象",
+        "onboard_time": 1741243818,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 359634,
+        "num": 359634,
+        "word": "你很美 不是妆很美",
+        "onboard_time": 1741246641,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 324748,
+        "num": 324748,
+        "word": "修改奖金计税方式可能多退税",
+        "onboard_time": 1741245081,
+        "rank": 6,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 307927,
+        "num": 307927,
+        "word": "冯远征说遭遇家暴应第一时间报警",
+        "onboard_time": 1741243158,
+        "rank": 7,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 254263,
+        "num": 254263,
+        "word": "建议清退有性侵犯罪记录的教育从业者",
+        "onboard_time": 1741240039,
+        "rank": 8,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 160771,
+        "num": 253985,
+        "word": "商务部部长点赞哪吒2",
+        "onboard_time": 1741248321,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1401730,
+        "num": 253858,
+        "word": "瘦30斤 面部折叠度变化",
+        "onboard_time": 1741243877,
+        "rank": 10,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 1061444,
+        "num": 253489,
+        "word": "所有人把账号发给刘晓艳查分",
+        "onboard_time": 1741245200,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 887864,
+        "num": 252899,
+        "word": "于正回答赵丽颖陈晓再搭问题",
+        "onboard_time": 1741248981,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 679129,
+        "num": 252689,
+        "word": "疑似易梦玲被高中同学喊话",
+        "onboard_time": 1741234698,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103582,
+        "num": 252201,
+        "word": "将发行首批特别国债5000亿元",
+        "onboard_time": 1741248380,
+        "rank": 14,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 492890,
+        "num": 251873,
+        "word": "温以凡出租车上穿裤子",
+        "onboard_time": 1741235239,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 394812,
+        "num": 251492,
+        "word": "张朝阳建议年轻人租房住少贷款",
+        "onboard_time": 1741249042,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228092,
+        "num": 251208,
+        "word": "汪苏泷11城24场",
+        "onboard_time": 1741245980,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 37519,
+        "num": 251028,
+        "word": "商务部部长说西方不亮东方亮",
+        "onboard_time": 1741249520,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 155359,
+        "num": 250464,
+        "word": "Manus为何一夜爆火",
+        "onboard_time": 1741234819,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 326099,
+        "num": 250213,
+        "word": "现在的美甲已经进化到这种程度了",
+        "onboard_time": 1741246221,
+        "rank": 20,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 250104,
+        "num": 250104,
+        "word": "建议禁止16岁以下未成年人用社交媒体",
+        "onboard_time": 1741246760,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 214912,
+        "num": 239936,
+        "word": "祁煜大天使",
+        "onboard_time": 1741248380,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 238217,
+        "num": 238217,
+        "word": "于正问大家满意娜扎定妆照吗",
+        "onboard_time": 1741245500,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230620,
+        "num": 230620,
+        "word": "财政部说今年预留了工具政策空间",
+        "onboard_time": 1741247361,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 220844,
+        "num": 220844,
+        "word": "白鹿晒12年前模特约拍私信",
+        "onboard_time": 1741238479,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218292,
+        "num": 218292,
+        "word": "权志龙点赞李胜利ins相关",
+        "onboard_time": 1741249340,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202634,
+        "num": 202634,
+        "word": "35岁左右是发胖关键期",
+        "onboard_time": 1741248260,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 201479,
+        "num": 201479,
+        "word": "两会",
+        "onboard_time": 1741185860,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 113867,
+        "num": 193214,
+        "word": "创造营亚洲2晋级名单",
+        "onboard_time": 1741246460,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189647,
+        "num": 189647,
+        "word": "经济主题记者会",
+        "onboard_time": 1741244417,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 188651,
+        "num": 188651,
+        "word": "迪丽热巴蹲姿比耶",
+        "onboard_time": 1741241478,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174645,
+        "num": 174645,
+        "word": "久坐的人喝咖啡格外受益",
+        "onboard_time": 1741240039,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 51254,
+        "num": 165044,
+        "word": "医生提醒长期熬夜基因突变风险大增",
+        "onboard_time": 1741249702,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 156759,
+        "num": 156759,
+        "word": "Manus创始人为中国90后",
+        "onboard_time": 1741248802,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 150385,
+        "num": 150385,
+        "word": "Manus",
+        "onboard_time": 1741225577,
+        "rank": 35,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 68060,
+        "num": 149243,
+        "word": "JDG人员变动",
+        "onboard_time": 1741245560,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105608,
+        "num": 148650,
+        "word": "汪苏泷鸟巢舞美",
+        "onboard_time": 1741248201,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148260,
+        "num": 148260,
+        "word": "第五人格赛事场馆断电",
+        "onboard_time": 1741248861,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139169,
+        "num": 139169,
+        "word": "吴彦祖开英语网课",
+        "onboard_time": 1741249520,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124826,
+        "num": 124826,
+        "word": "张子枫收养了新片里的小狗",
+        "onboard_time": 1741236140,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112092,
+        "num": 112092,
+        "word": "漫画腿是种病",
+        "onboard_time": 1741232897,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 110510,
+        "num": 110510,
+        "word": "蒋梦婕浪姐6辣妹妆",
+        "onboard_time": 1741248380,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106284,
+        "num": 106284,
+        "word": "终于学会怎么清理C盘了",
+        "onboard_time": 1741249221,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 102007,
+        "num": 102007,
+        "word": "扩大换新补贴的品类范围",
+        "onboard_time": 1741246942,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 97544,
+        "num": 97544,
+        "word": "控制脂肪肝少吃主食还是少吃肉",
+        "onboard_time": 1741228997,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 97440,
+        "num": 97440,
+        "word": "多地将校园欺凌纳入中考素质评价",
+        "onboard_time": 1741245980,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97222,
+        "num": 97222,
+        "word": "玉茗茶骨定妆直播",
+        "onboard_time": 1741243097,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96375,
+        "num": 96375,
+        "word": "财政部部长发布会上补充了一句话",
+        "onboard_time": 1741249281,
+        "rank": 48,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 312302,
+        "num": 96280,
+        "word": "靳东谈王大陆伤人事件",
+        "onboard_time": 1741234338,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#让创新链和产业链无缝对接#"
+    }
+  }
+}
