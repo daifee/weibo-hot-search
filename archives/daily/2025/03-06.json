@@ -1,6 +1,6 @@
 {
   "startTime": 1741192562065,
-  "endTime": 1741274732402,
+  "endTime": 1741275632752,
   "band_list": [
     {
       "raw_hot": 4490343,
@@ -211,20 +211,20 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 819909,
+      "num": 1131185,
+      "word": "10年6战法考终上岸的北大保安已辞职",
+      "onboard_time": 1741270344,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 801311,
       "num": 1128209,
       "word": "建议孩子违法家长必须赔偿被害人",
       "onboard_time": 1741224317,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 784600,
-      "num": 1125536,
-      "word": "10年6战法考终上岸的北大保安已辞职",
-      "onboard_time": 1741270344,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 773711,
@@ -747,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 348944,
+      "num": 348944,
+      "word": "短剧还珠已备案",
+      "onboard_time": 1741274121,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 347345,
       "num": 227340,
       "word": "医生建议的玩手机正确姿势",
@@ -995,14 +1003,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 262486,
-      "num": 262486,
-      "word": "短剧还珠已备案",
-      "onboard_time": 1741274121,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 255551,
       "num": 255551,
       "word": "这篓子快捅成马蜂窝了",
@@ -1073,6 +1073,14 @@
       "onboard_time": 1741236919,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 244871,
+      "num": 244871,
+      "word": "冯远征说通过节目成为优秀演员不切实际",
+      "onboard_time": 1741271663,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 243835,
@@ -1275,20 +1283,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 202263,
+      "num": 190393,
+      "word": "何浩楠随地大小帅",
+      "onboard_time": 1741274662,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201243,
       "num": 201243,
       "word": "听潮阁歌手入驻微博",
       "onboard_time": 1741234279,
       "rank": 35,
       "category": "动漫,音乐"
-    },
-    {
-      "raw_hot": 199059,
-      "num": 221306,
-      "word": "冯远征说通过节目成为优秀演员不切实际",
-      "onboard_time": 1741271663,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 198966,
@@ -1355,12 +1363,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 190389,
+      "num": 190388,
+      "word": "土象星座真心喜欢你的表现",
+      "onboard_time": 1741271181,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 189713,
       "num": 189713,
       "word": "白客 土象天菜",
       "onboard_time": 1741234518,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189499,
+      "num": 189499,
+      "word": "李昀锐车代预热",
+      "onboard_time": 1741274422,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 188022,
@@ -1441,14 +1465,6 @@
       "onboard_time": 1741261102,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 173715,
-      "num": 173715,
-      "word": "土象星座真心喜欢你的表现",
-      "onboard_time": 1741271181,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 170873,
@@ -2211,6 +2227,14 @@
       "category": "国内时政,教育"
     },
     {
+      "raw_hot": 116324,
+      "num": 116324,
+      "word": "iPhone17Air续航或超预期",
+      "onboard_time": 1741273942,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 115917,
       "num": 115917,
       "word": "有谢望和这脑子干什么都会成功的",
@@ -2483,20 +2507,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 101904,
-      "num": 101904,
-      "word": "李昀锐车代预热",
-      "onboard_time": 1741274422,
-      "rank": 38,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 100693,
       "num": 100693,
       "word": "财政部部长发布会上补充了一句话",
       "onboard_time": 1741249281,
       "rank": 48,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 100375,
+      "num": 100375,
+      "word": "每天久坐超过4小时会怎样",
+      "onboard_time": 1741272622,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 98977,
@@ -2651,22 +2675,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 89794,
-      "num": 89794,
-      "word": "每天久坐超过4小时会怎样",
-      "onboard_time": 1741272622,
-      "rank": 43,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 89359,
-      "num": 89359,
-      "word": "iPhone17Air续航或超预期",
-      "onboard_time": 1741273942,
-      "rank": 45,
-      "category": "数码"
-    },
-    {
       "raw_hot": 89251,
       "num": 110004,
       "word": "爱你",
@@ -2723,14 +2731,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 81105,
-      "num": 90799,
-      "word": "何浩楠随地大小帅",
-      "onboard_time": 1741274662,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 76727,
       "num": 76727,
       "word": "DeepSeek分析与Manus区别",
@@ -2739,8 +2739,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 75654,
-      "num": 112356,
+      "raw_hot": 76549,
+      "num": 123881,
       "word": "做Excel表半小时用智能体仅需1分钟",
       "onboard_time": 1741271962,
       "rank": 29,
@@ -2801,6 +2801,22 @@
       "onboard_time": 1741240939,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 70840,
+      "num": 210820,
+      "word": "中国用一句古语回应美国",
+      "onboard_time": 1741274542,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 70160,
+      "num": 70160,
+      "word": "律师谈何凯文疑似造假事件",
+      "onboard_time": 1741274841,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 69841,
@@ -3051,6 +3067,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 52617,
+      "num": 195828,
+      "word": "记者实测Manus写新闻",
+      "onboard_time": 1741274002,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 51265,
       "num": 270676,
       "word": "挑战王鹤棣同款醒春操",
@@ -3147,14 +3171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 43080,
-      "num": 195828,
-      "word": "记者实测Manus写新闻",
-      "onboard_time": 1741274002,
-      "rank": 19,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 42916,
       "num": 292220,
       "word": "解码政府工作报告中的新质生产力",
@@ -3169,14 +3185,6 @@
       "onboard_time": 1741269984,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 41148,
-      "num": 108113,
-      "word": "中国用一句古语回应美国",
-      "onboard_time": 1741274542,
-      "rank": 32,
-      "category": "国内时政"
     },
     {
       "raw_hot": 40150,
@@ -3299,6 +3307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30879,
+      "num": 190395,
+      "word": "建议保障灵活就业人员权益",
+      "onboard_time": 1741275021,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 29172,
       "num": 239671,
       "word": "建议让骑手等群体社保转移更方便些",
@@ -3369,6 +3385,14 @@
       "onboard_time": 1741257321,
       "rank": 40,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 23941,
+      "num": 190400,
+      "word": "建议减少中考记分科目",
+      "onboard_time": 1741275082,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 23776,
