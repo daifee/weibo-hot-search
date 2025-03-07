@@ -1,6 +1,6 @@
 {
   "startTime": 1741364948328,
-  "endTime": 1741372294049,
+  "endTime": 1741373086079,
   "band_list": [
     {
       "raw_hot": 1045319,
@@ -235,6 +235,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 111454,
+      "num": 70938,
+      "word": "张彬彬 我同意你上班我不能上班",
+      "onboard_time": 1741372155,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105552,
       "num": 105552,
       "word": "古人写一个车字竟然还分车型",
@@ -387,14 +395,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 70938,
-      "num": 70938,
-      "word": "张彬彬 我同意你上班我不能上班",
-      "onboard_time": 1741372155,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 70187,
       "num": 98624,
       "word": "陆虎陈曌旭回门宴",
@@ -492,7 +492,7 @@
     },
     {
       "raw_hot": 27107,
-      "num": 37406,
+      "num": 40251,
       "word": "李耕耘没别的爱好就爱霍霍蒋敦豪",
       "onboard_time": 1741370296,
       "rank": 34,
@@ -513,6 +513,22 @@
       "onboard_time": 1741354403,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 20050,
+      "num": 40234,
+      "word": "登陆少年日常练习",
+      "onboard_time": 1741372095,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 19701,
+      "num": 40232,
+      "word": "泽连斯基呼吁部分停火",
+      "onboard_time": 1741355362,
+      "rank": 45,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
