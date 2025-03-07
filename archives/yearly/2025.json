@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1741321697642,
+  "endTime": 1741322521322,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -163,20 +163,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 15162205,
+      "num": 15162205,
+      "word": "中国台湾省",
+      "onboard_time": 1741316840,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 15071820,
       "num": 15071820,
       "word": "陈晓陈妍希 真难哄",
       "onboard_time": 1739857118,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 15004086,
-      "num": 15044334,
-      "word": "中国台湾省",
-      "onboard_time": 1741316840,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 14397354,
