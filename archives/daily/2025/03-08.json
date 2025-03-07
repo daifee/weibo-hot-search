@@ -1,6 +1,6 @@
 {
   "startTime": 1741364948328,
-  "endTime": 1741365858679,
+  "endTime": 1741368020592,
   "band_list": [
     {
       "raw_hot": 1045319,
@@ -9,6 +9,14 @@
       "onboard_time": 1741325063,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 772742,
+      "num": 221217,
+      "word": "白敬亭下播之后一笔巨大的版权费用",
+      "onboard_time": 1741365739,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 533751,
@@ -35,12 +43,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 422264,
+      "num": 517579,
+      "word": "台军一护卫舰爆炸",
+      "onboard_time": 1741362560,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 397606,
       "num": 269996,
       "word": "白敬亭章若楠同时直播",
       "onboard_time": 1741357343,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 334702,
+      "num": 220555,
+      "word": "蒋敦豪说参加恋综已做了充足准备",
+      "onboard_time": 1741363940,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 321701,
@@ -60,35 +84,19 @@
     },
     {
       "raw_hot": 301006,
-      "num": 154705,
+      "num": 157469,
       "word": "特朗普称俄罗斯正殴打乌克兰",
       "onboard_time": 1741359741,
       "rank": 14,
       "category": "国际时政"
     },
     {
-      "raw_hot": 298066,
-      "num": 298066,
-      "word": "台军一护卫舰爆炸",
-      "onboard_time": 1741362560,
-      "rank": 5,
+      "raw_hot": 226916,
+      "num": 226916,
+      "word": "你一票我一票我们周总也出道",
+      "onboard_time": 1741360942,
+      "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 236778,
-      "num": 140207,
-      "word": "白敬亭下播之后一笔巨大的版权费用",
-      "onboard_time": 1741365739,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 223437,
-      "num": 177743,
-      "word": "蒋敦豪说参加恋综已做了充足准备",
-      "onboard_time": 1741363940,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 217659,
@@ -123,6 +131,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 170843,
+      "num": 170843,
+      "word": "妇女节",
+      "onboard_time": 1741364181,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165066,
       "num": 165066,
       "word": "站雷军背后的海尔总裁周云杰走红",
@@ -136,14 +152,6 @@
       "word": "建议给应届生3至5年社保补贴",
       "onboard_time": 1741352061,
       "rank": 12,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 156282,
-      "num": 164632,
-      "word": "你一票我一票我们周总也出道",
-      "onboard_time": 1741360942,
-      "rank": 8,
       "category": "国内时政"
     },
     {
@@ -201,6 +209,14 @@
       "onboard_time": 1741362803,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114790,
+      "num": 114790,
+      "word": "赵小童在电光火石中收工",
+      "onboard_time": 1741366100,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 113974,
@@ -396,7 +412,7 @@
     },
     {
       "raw_hot": 51936,
-      "num": 98192,
+      "num": 157523,
       "word": "科技股当下该重节奏还是看长期",
       "onboard_time": 1741364421,
       "rank": 48,
@@ -411,12 +427,36 @@
       "category": "数码"
     },
     {
+      "raw_hot": 43361,
+      "num": 61398,
+      "word": "麦琳回应女儿牙齿问题",
+      "onboard_time": 1741342643,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 36015,
       "num": 98044,
       "word": "中国人有自己的帕梅拉",
       "onboard_time": 1741357643,
       "rank": 49,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 35257,
+      "num": 61297,
+      "word": "苏新皓感谢黄磊",
+      "onboard_time": 1741367478,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 32311,
+      "num": 61286,
+      "word": "生命是一万次的春和景明",
+      "onboard_time": 1741367180,
+      "rank": 48,
+      "category": "时尚,网红"
     },
     {
       "raw_hot": 20835,
