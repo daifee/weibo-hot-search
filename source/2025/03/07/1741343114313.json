@@ -1,0 +1,410 @@
+{
+  "runTime": 1741343114313,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6485333,
+        "num": 6485333,
+        "word": "中国台湾省",
+        "onboard_time": 1741316840,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 354463,
+        "num": 354463,
+        "word": "正起草育儿补贴方案",
+        "onboard_time": 1741335022,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 28183,
+        "num": 335055,
+        "word": "速览外交主题记者会",
+        "onboard_time": 1741342102,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 326935,
+        "num": 326935,
+        "word": "歌曲yellow",
+        "onboard_time": 1741341082,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 278037,
+        "num": 278037,
+        "word": "妇女节能不能补假",
+        "onboard_time": 1741337482,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207268,
+        "num": 207268,
+        "word": "金靖调侃陈赫签了6季合同",
+        "onboard_time": 1741340122,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189451,
+        "num": 189451,
+        "word": "曝iPhone17ProMax变厚了",
+        "onboard_time": 1741340302,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 171223,
+        "num": 171223,
+        "word": "今年是台湾光复80周年",
+        "onboard_time": 1741321103,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 167719,
+        "num": 167719,
+        "word": "张凯丽建议增设家庭暴力罪",
+        "onboard_time": 1741329862,
+        "rank": 8,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 60139,
+        "num": 167451,
+        "word": "思维导图版2025政府工作任务",
+        "onboard_time": 1741341862,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1366244,
+        "num": 167049,
+        "word": "当独生子女开始遭遇父母重病",
+        "onboard_time": 1741337782,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156686,
+        "num": 166728,
+        "word": "2025全国两会",
+        "onboard_time": 1741342580,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1019957,
+        "num": 166221,
+        "word": "这居然是辣目洋子",
+        "onboard_time": 1741341203,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1010383,
+        "num": 165974,
+        "word": "赵一博 我和雪梨在一起是事实",
+        "onboard_time": 1741325063,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13821,
+        "num": 165452,
+        "word": "邀请码没有商品属性购买需谨慎",
+        "onboard_time": 1741342700,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 938223,
+        "num": 164879,
+        "word": "主持人李静公开袒露绝经经历",
+        "onboard_time": 1741340420,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 678316,
+        "num": 164518,
+        "word": "小鱼海棠给刚出生的儿子开通账号",
+        "onboard_time": 1741338623,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 554675,
+        "num": 164415,
+        "word": "爸爸去哪儿李锐履历",
+        "onboard_time": 1741341141,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90287,
+        "num": 163940,
+        "word": "文淇红温 刘浩存暗爽",
+        "onboard_time": 1741341922,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 309451,
+        "num": 163193,
+        "word": "麦琳与女儿拍写真",
+        "onboard_time": 1741338741,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163193,
+        "num": 163192,
+        "word": "台湾从来不是一个国家",
+        "onboard_time": 1741332442,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 390849,
+        "num": 163078,
+        "word": "北京电影学院回应何凯文英一89分",
+        "onboard_time": 1741340241,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 300262,
+        "num": 162252,
+        "word": "刘晓艳回应被一些老师攻击",
+        "onboard_time": 1741340542,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 274286,
+        "num": 161890,
+        "word": "王大陆父亲一语成谶",
+        "onboard_time": 1741331061,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267556,
+        "num": 161148,
+        "word": "电影女足番位",
+        "onboard_time": 1741341862,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 224274,
+        "num": 160547,
+        "word": "字节跳动39人被追究刑事责任",
+        "onboard_time": 1741340483,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 160307,
+        "num": 160307,
+        "word": "虞书欣卫枝被扇巴掌",
+        "onboard_time": 1741341005,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152108,
+        "num": 159289,
+        "word": "王一博巴黎时装周首个单次三奢",
+        "onboard_time": 1741341682,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 131184,
+        "num": 158237,
+        "word": "电影女足阵容",
+        "onboard_time": 1741335803,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 34623,
+        "num": 157696,
+        "word": "小伙回应拿鱼竿钓起落水大姐",
+        "onboard_time": 1741341383,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210951,
+        "num": 155651,
+        "word": "文都教育暂停与何凯文合作",
+        "onboard_time": 1741338501,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 166640,
+        "num": 155301,
+        "word": "是2D超能力国漫我们有救了",
+        "onboard_time": 1741343061,
+        "rank": 31,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 166572,
+        "num": 154079,
+        "word": "民宿老板3千网购小熊被索赔3.8万",
+        "onboard_time": 1741334421,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152973,
+        "num": 152973,
+        "word": "女店员偷偷哭泣同事查完监控被暖到",
+        "onboard_time": 1741340782,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144027,
+        "num": 144027,
+        "word": "女子从8楼丢下3个花盆被判刑",
+        "onboard_time": 1741334841,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143373,
+        "num": 143373,
+        "word": "育儿补贴",
+        "onboard_time": 1741340661,
+        "rank": 35,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 136328,
+        "num": 136328,
+        "word": "于正拍程潇玉茗茶骨定妆",
+        "onboard_time": 1741340963,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128501,
+        "num": 128501,
+        "word": "iPhone17或全系标配LTPO灵动岛屏幕",
+        "onboard_time": 1741336161,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 124554,
+        "num": 124554,
+        "word": "女子生完孩子第5天生育金到账",
+        "onboard_time": 1741341383,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24413,
+        "num": 122948,
+        "word": "省考考前一周复习建议",
+        "onboard_time": 1741341862,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 121698,
+        "num": 121698,
+        "word": "华晨宇想知道AI有多少亿参数",
+        "onboard_time": 1741342401,
+        "rank": 40,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 74567,
+        "num": 117304,
+        "word": "胡兵把粉丝群当朋友圈发",
+        "onboard_time": 1741338741,
+        "rank": 41,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 115550,
+        "num": 115550,
+        "word": "郭涛给谁让妆了",
+        "onboard_time": 1741342762,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115015,
+        "num": 115015,
+        "word": "年轻人的胃癌发病率增长近80%",
+        "onboard_time": 1741342282,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 114982,
+        "num": 114982,
+        "word": "张凌赫徐若晗浴室吻花絮",
+        "onboard_time": 1741333581,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106715,
+        "num": 106715,
+        "word": "苏醒真说了你又不高兴",
+        "onboard_time": 1741341621,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106022,
+        "num": 106022,
+        "word": "何凯文间接持有文都教育股份",
+        "onboard_time": 1741338261,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102675,
+        "num": 102675,
+        "word": "内娱豹豹猫猫第一次现场认子",
+        "onboard_time": 1741343002,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98057,
+        "num": 98057,
+        "word": "实现祖国完全统一是大势所趋大义所在",
+        "onboard_time": 1741318404,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 96831,
+        "num": 96831,
+        "word": "工人双腿被绞断医生8小时手术接回",
+        "onboard_time": 1741342462,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#强化教育对科技和人才支撑作用#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1741340334642,
+  "endTime": 1741343114313,
   "band_list": [
     {
       "raw_hot": 15162205,
@@ -459,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1366244,
+      "num": 361855,
+      "word": "当独生子女开始遭遇父母重病",
+      "onboard_time": 1741337782,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1365312,
       "num": 404605,
       "word": "女子染发10多年最终选择与白发和解",
@@ -859,6 +867,14 @@
       "category": "国内时政,互联网"
     },
     {
+      "raw_hot": 1019957,
+      "num": 166221,
+      "word": "这居然是辣目洋子",
+      "onboard_time": 1741341203,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1006977,
       "num": 1006977,
       "word": "DeepSeek没彻底改变全球AI发展格局",
@@ -993,6 +1009,14 @@
       "onboard_time": 1741091600,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 938223,
+      "num": 164879,
+      "word": "主持人李静公开袒露绝经经历",
+      "onboard_time": 1741340420,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 935740,
@@ -2211,14 +2235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 586766,
-      "num": 361855,
-      "word": "当独生子女开始遭遇父母重病",
-      "onboard_time": 1741337782,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 586672,
       "num": 586672,
       "word": "电影长安的荔枝定档",
@@ -2441,6 +2457,14 @@
       "onboard_time": 1740890600,
       "rank": 20,
       "category": "网红"
+    },
+    {
+      "raw_hot": 554675,
+      "num": 164415,
+      "word": "爸爸去哪儿李锐履历",
+      "onboard_time": 1741341141,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 554474,
@@ -3563,6 +3587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 390849,
+      "num": 216221,
+      "word": "北京电影学院回应何凯文英一89分",
+      "onboard_time": 1741340241,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 388114,
       "num": 273319,
       "word": "文都教育暂停与何凯文合作",
@@ -4395,6 +4427,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 326935,
+      "num": 326935,
+      "word": "歌曲yellow",
+      "onboard_time": 1741341082,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 326099,
       "num": 265862,
       "word": "现在的美甲已经进化到这种程度了",
@@ -4635,6 +4675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 309451,
+      "num": 217764,
+      "word": "麦琳与女儿拍写真",
+      "onboard_time": 1741338741,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 309414,
       "num": 329898,
       "word": "迪奥二零二五秋冬女装成衣秀",
@@ -4763,20 +4811,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 301046,
-      "num": 217764,
-      "word": "麦琳与女儿拍写真",
-      "onboard_time": 1741338741,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 300453,
       "num": 113424,
       "word": "街道通报男子虐猫事件",
       "onboard_time": 1741191735,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 300262,
+      "num": 162252,
+      "word": "刘晓艳回应被一些老师攻击",
+      "onboard_time": 1741340542,
+      "rank": 22,
+      "category": "教育"
     },
     {
       "raw_hot": 300164,
@@ -5435,6 +5483,14 @@
       "category": "剧集,体育"
     },
     {
+      "raw_hot": 267556,
+      "num": 161148,
+      "word": "电影女足番位",
+      "onboard_time": 1741341862,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 267375,
       "num": 267375,
       "word": "暴风雨最猛烈的地方恰是哪吒闹海舞台",
@@ -5793,14 +5849,6 @@
       "onboard_time": 1741004298,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 246588,
-      "num": 216221,
-      "word": "北京电影学院回应何凯文英一89分",
-      "onboard_time": 1741340241,
-      "rank": 22,
-      "category": "教育"
     },
     {
       "raw_hot": 246146,
@@ -6321,6 +6369,14 @@
       "onboard_time": 1741070058,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 224274,
+      "num": 160547,
+      "word": "字节跳动39人被追究刑事责任",
+      "onboard_time": 1741340483,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 224141,
@@ -6913,6 +6969,14 @@
       "onboard_time": 1740910759,
       "rank": 40,
       "category": "体育,汽车"
+    },
+    {
+      "raw_hot": 207268,
+      "num": 222084,
+      "word": "金靖调侃陈赫签了6季合同",
+      "onboard_time": 1741340122,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 206815,
@@ -7787,6 +7851,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 189451,
+      "num": 189451,
+      "word": "曝iPhone17ProMax变厚了",
+      "onboard_time": 1741340302,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 189440,
       "num": 189440,
       "word": "肖战陌森眼镜升title",
@@ -7945,14 +8017,6 @@
       "onboard_time": 1741061060,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 186847,
-      "num": 222084,
-      "word": "金靖调侃陈赫签了6季合同",
-      "onboard_time": 1741340122,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 186799,
@@ -8337,14 +8401,6 @@
       "onboard_time": 1741317981,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 177564,
-      "num": 177564,
-      "word": "曝iPhone17ProMax变厚了",
-      "onboard_time": 1741340302,
-      "rank": 30,
-      "category": "数码"
     },
     {
       "raw_hot": 177424,
@@ -8915,6 +8971,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 166640,
+      "num": 155301,
+      "word": "是2D超能力国漫我们有救了",
+      "onboard_time": 1741343061,
+      "rank": 31,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 166498,
       "num": 316757,
       "word": "哪吒2冲上143亿",
@@ -9251,6 +9315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 160307,
+      "num": 160307,
+      "word": "虞书欣卫枝被扇巴掌",
+      "onboard_time": 1741341005,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159974,
       "num": 250464,
       "word": "Manus为何一夜爆火",
@@ -9513,6 +9585,14 @@
       "onboard_time": 1740929540,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156686,
+      "num": 166728,
+      "word": "2025全国两会",
+      "onboard_time": 1741342580,
+      "rank": 11,
+      "category": "国内时政"
     },
     {
       "raw_hot": 156583,
@@ -9819,6 +9899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152973,
+      "num": 152973,
+      "word": "女店员偷偷哭泣同事查完监控被暖到",
+      "onboard_time": 1741340782,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152937,
       "num": 152937,
       "word": "Asen巡演官宣",
@@ -9889,6 +9977,14 @@
       "onboard_time": 1741236079,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152108,
+      "num": 159289,
+      "word": "王一博巴黎时装周首个单次三奢",
+      "onboard_time": 1741341682,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 152084,
@@ -10571,6 +10667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143373,
+      "num": 143373,
+      "word": "育儿补贴",
+      "onboard_time": 1741340661,
+      "rank": 35,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 143175,
       "num": 143175,
       "word": "明日方舟",
@@ -11065,6 +11169,14 @@
       "onboard_time": 1740904939,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 136328,
+      "num": 136328,
+      "word": "于正拍程潇玉茗茶骨定妆",
+      "onboard_time": 1741340963,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 136309,
@@ -12011,6 +12123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124554,
+      "num": 124554,
+      "word": "女子生完孩子第5天生育金到账",
+      "onboard_time": 1741341383,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124512,
       "num": 686067,
       "word": "中国经济持续向好的三大底气",
@@ -12209,6 +12329,14 @@
       "onboard_time": 1741192635,
       "rank": 16,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 121698,
+      "num": 121698,
+      "word": "华晨宇想知道AI有多少亿参数",
+      "onboard_time": 1741342401,
+      "rank": 40,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 121660,
@@ -12555,6 +12683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115550,
+      "num": 115550,
+      "word": "郭涛给谁让妆了",
+      "onboard_time": 1741342762,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115357,
       "num": 115357,
       "word": "严浩翔健身房穿搭",
@@ -12609,6 +12745,14 @@
       "onboard_time": 1741332562,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115015,
+      "num": 115015,
+      "word": "年轻人的胃癌发病率增长近80%",
+      "onboard_time": 1741342282,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 114997,
@@ -13187,6 +13331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106715,
+      "num": 106715,
+      "word": "苏醒真说了你又不高兴",
+      "onboard_time": 1741341621,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106414,
       "num": 106414,
       "word": "菲律宾贫民窟特色食物二手炸鸡",
@@ -13515,6 +13667,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 102675,
+      "num": 102675,
+      "word": "内娱豹豹猫猫第一次现场认子",
+      "onboard_time": 1741343002,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102611,
       "num": 102611,
       "word": "研究出这个镜头的人是天才",
@@ -13833,6 +13993,14 @@
       "onboard_time": 1741166780,
       "rank": 29,
       "category": "国内时政,健康医疗"
+    },
+    {
+      "raw_hot": 96831,
+      "num": 96831,
+      "word": "工人双腿被绞断医生8小时手术接回",
+      "onboard_time": 1741342462,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96778,
@@ -14177,6 +14345,14 @@
       "onboard_time": 1740882438,
       "rank": 44,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 90287,
+      "num": 163940,
+      "word": "文淇红温 刘浩存暗爽",
+      "onboard_time": 1741341922,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 90191,
@@ -14731,6 +14907,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 74567,
+      "num": 224268,
+      "word": "胡兵把粉丝群当朋友圈发",
+      "onboard_time": 1741338741,
+      "rank": 30,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 74507,
       "num": 136463,
       "word": "冯远征谈流量演员",
@@ -14785,14 +14969,6 @@
       "onboard_time": 1741147100,
       "rank": 18,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 73977,
-      "num": 224268,
-      "word": "胡兵把粉丝群当朋友圈发",
-      "onboard_time": 1741338741,
-      "rank": 30,
-      "category": "时尚"
     },
     {
       "raw_hot": 73588,
@@ -15473,6 +15649,14 @@
       "onboard_time": 1741250242,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 60139,
+      "num": 167451,
+      "word": "思维导图版2025政府工作任务",
+      "onboard_time": 1741341862,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 60015,
@@ -16715,6 +16899,14 @@
       "category": "国内时政,体育"
     },
     {
+      "raw_hot": 34623,
+      "num": 157696,
+      "word": "小伙回应拿鱼竿钓起落水大姐",
+      "onboard_time": 1741341383,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34461,
       "num": 170632,
       "word": "骑士联盟首支锁定季后赛球队",
@@ -17035,6 +17227,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 28183,
+      "num": 335055,
+      "word": "速览外交主题记者会",
+      "onboard_time": 1741342102,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 27815,
       "num": 27815,
       "word": "泽连斯基不认为需要向特朗普道歉",
@@ -17257,6 +17457,14 @@
       "onboard_time": 1741257321,
       "rank": 40,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 24413,
+      "num": 122948,
+      "word": "省考考前一周复习建议",
+      "onboard_time": 1741341862,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 24402,
@@ -17859,6 +18067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 13821,
+      "num": 165452,
+      "word": "邀请码没有商品属性购买需谨慎",
+      "onboard_time": 1741342700,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 13754,
       "num": 40626,
       "word": "人大代表说AI可能比你更懂自己",
@@ -18250,6 +18466,9 @@
     },
     {
       "word": "#人才辈出人尽其才才尽其用#"
+    },
+    {
+      "word": "#强化教育对科技和人才支撑作用#"
     }
   ]
 }
