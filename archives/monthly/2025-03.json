@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741379101306,
+  "endTime": 1741379820697,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -22331,6 +22331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12260,
+      "num": 33582,
+      "word": "天涯咫尺祖国常在",
+      "onboard_time": 1741375454,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 12186,
       "num": 16212,
       "word": "回顾过去一年成绩来之不易",
@@ -22489,14 +22497,6 @@
       "onboard_time": 1741119371,
       "rank": 9,
       "category": "国内时政,互联网"
-    },
-    {
-      "raw_hot": 10310,
-      "num": 33582,
-      "word": "天涯咫尺祖国常在",
-      "onboard_time": 1741375454,
-      "rank": 13,
-      "category": "国内时政"
     },
     {
       "raw_hot": 9945,
