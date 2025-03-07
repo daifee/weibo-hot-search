@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741312057197,
+  "endTime": 1741313359834,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -523,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1441801,
+      "num": 1441801,
+      "word": "Manus",
+      "onboard_time": 1741225577,
+      "rank": 49,
+      "category": "互联网,数码"
+    },
+    {
       "raw_hot": 1424492,
       "num": 1424492,
       "word": "建议在全国推行春秋假制度",
@@ -649,14 +657,6 @@
       "onboard_time": 1741232057,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1294298,
-      "num": 1294298,
-      "word": "Manus",
-      "onboard_time": 1741225577,
-      "rank": 49,
-      "category": "互联网,数码"
     },
     {
       "raw_hot": 1278503,
@@ -1980,7 +1980,7 @@
     },
     {
       "raw_hot": 673578,
-      "num": 313154,
+      "num": 366068,
       "word": "美国星舰飞船失联",
       "onboard_time": 1741306341,
       "rank": 3,
@@ -2161,6 +2161,14 @@
       "onboard_time": 1740831504,
       "rank": 11,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 633122,
+      "num": 251164,
+      "word": "工作中千万不要散发弱者气息",
+      "onboard_time": 1741304059,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 631555,
@@ -2715,14 +2723,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 554843,
-      "num": 218909,
-      "word": "工作中千万不要散发弱者气息",
-      "onboard_time": 1741304059,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 554654,
       "num": 554654,
       "word": "张艺兴说成员们都年过半六十",
@@ -2900,7 +2900,7 @@
     },
     {
       "raw_hot": 523281,
-      "num": 218842,
+      "num": 246981,
       "word": "五哈5嘉宾阵容",
       "onboard_time": 1741302678,
       "rank": 3,
@@ -2985,6 +2985,14 @@
       "onboard_time": 1741101261,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 507414,
+      "num": 249594,
+      "word": "王一博登顶照片成地标了",
+      "onboard_time": 1741311081,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 505863,
@@ -3523,6 +3531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 434847,
+      "num": 247595,
+      "word": "雷军发言前碎碎念演我备考",
+      "onboard_time": 1741305860,
+      "rank": 12,
+      "category": "国内时政,互联网"
+    },
+    {
       "raw_hot": 434629,
       "num": 434629,
       "word": "代表建议个税起征点提高至10万元",
@@ -3619,6 +3635,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 423389,
+      "num": 423389,
+      "word": "DeepSeek谈Manus",
+      "onboard_time": 1741307241,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 422900,
       "num": 422900,
       "word": "人大代表称教师对提升学历缺乏动力",
@@ -3673,14 +3697,6 @@
       "onboard_time": 1741243818,
       "rank": 6,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 416790,
-      "num": 218826,
-      "word": "雷军发言前碎碎念演我备考",
-      "onboard_time": 1741305860,
-      "rank": 12,
-      "category": "国内时政,互联网"
     },
     {
       "raw_hot": 416208,
@@ -3889,6 +3905,14 @@
       "onboard_time": 1740835883,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 398545,
+      "num": 398545,
+      "word": "我国迎来低空经济黄金机遇期",
+      "onboard_time": 1741309102,
+      "rank": 6,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 398021,
@@ -4212,7 +4236,7 @@
     },
     {
       "raw_hot": 365877,
-      "num": 218749,
+      "num": 246343,
       "word": "高额彩礼受谴责对象不该是女性",
       "onboard_time": 1741305441,
       "rank": 13,
@@ -4369,6 +4393,14 @@
       "onboard_time": 1741234038,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 355908,
+      "num": 355908,
+      "word": "种地吧",
+      "onboard_time": 1740965418,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 355820,
@@ -4931,14 +4963,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 321023,
-      "num": 321023,
-      "word": "DeepSeek谈Manus",
-      "onboard_time": 1741307241,
-      "rank": 1,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 320793,
       "num": 298202,
       "word": "柯淳说喜欢赵丽颖",
@@ -5051,14 +5075,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 311716,
-      "num": 311716,
-      "word": "种地吧",
-      "onboard_time": 1740965418,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 311611,
       "num": 263166,
       "word": "吴彦祖开英语网课",
@@ -5129,6 +5145,14 @@
       "onboard_time": 1741171757,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 306788,
+      "num": 245850,
+      "word": "董力一家四口全家福",
+      "onboard_time": 1741312941,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 306268,
@@ -5596,7 +5620,7 @@
     },
     {
       "raw_hot": 286544,
-      "num": 218269,
+      "num": 244470,
       "word": "杭州女子家里涌入200个中介",
       "onboard_time": 1741305982,
       "rank": 20,
@@ -5795,6 +5819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 273021,
+      "num": 273021,
+      "word": "中医药让手术不再是海外患者唯一选择",
+      "onboard_time": 1741309761,
+      "rank": 22,
+      "category": "国内时政,健康医疗"
+    },
+    {
       "raw_hot": 272122,
       "num": 272122,
       "word": "张继科说要挑战王曼昱",
@@ -5947,14 +5979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 268363,
-      "num": 268363,
-      "word": "我国迎来低空经济黄金机遇期",
-      "onboard_time": 1741309102,
-      "rank": 6,
-      "category": "国内时政,财经"
-    },
-    {
       "raw_hot": 268275,
       "num": 268275,
       "word": "2024国内生产总值134.9万亿元",
@@ -5993,6 +6017,14 @@
       "onboard_time": 1741010540,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 266430,
+      "num": 249000,
+      "word": "王晨正带女友去青海祭拜爷爷",
+      "onboard_time": 1741308562,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 265844,
@@ -6243,6 +6275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 252201,
+      "num": 252201,
+      "word": "螺蛳粉远销全球30多个国家地区",
+      "onboard_time": 1741308922,
+      "rank": 8,
+      "category": "美食"
+    },
+    {
       "raw_hot": 251771,
       "num": 437983,
       "word": "男子作AI换脸色情视频每分钟50元",
@@ -6417,6 +6457,14 @@
       "onboard_time": 1741091839,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 243995,
+      "num": 243995,
+      "word": "接生了一辈子这次是女儿和外孙",
+      "onboard_time": 1741311320,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 243974,
@@ -6715,14 +6763,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 231223,
-      "num": 218527,
-      "word": "王晨正带女友去青海祭拜爷爷",
-      "onboard_time": 1741308562,
-      "rank": 16,
-      "category": "网红"
-    },
-    {
       "raw_hot": 230788,
       "num": 230788,
       "word": "李兰迪你看我几分像从前",
@@ -6801,14 +6841,6 @@
       "onboard_time": 1741183159,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 228688,
-      "num": 218321,
-      "word": "王一博登顶照片成地标了",
-      "onboard_time": 1741311081,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 228546,
@@ -7163,14 +7195,6 @@
       "category": "艺人,互联网"
     },
     {
-      "raw_hot": 219041,
-      "num": 219041,
-      "word": "螺蛳粉远销全球30多个国家地区",
-      "onboard_time": 1741308922,
-      "rank": 8,
-      "category": "美食"
-    },
-    {
       "raw_hot": 218781,
       "num": 360642,
       "word": "张凌赫爸爸妈妈认证爱你好看",
@@ -7209,14 +7233,6 @@
       "onboard_time": 1741085720,
       "rank": 29,
       "category": "国内时政,财经"
-    },
-    {
-      "raw_hot": 218164,
-      "num": 218164,
-      "word": "中医药让手术不再是海外患者唯一选择",
-      "onboard_time": 1741309761,
-      "rank": 22,
-      "category": "国内时政,健康医疗"
     },
     {
       "raw_hot": 218139,
@@ -7272,14 +7288,6 @@
       "word": "杭州房价要开始涨了吗",
       "onboard_time": 1740818901,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 217033,
-      "num": 217033,
-      "word": "接生了一辈子这次是女儿和外孙",
-      "onboard_time": 1741311320,
-      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -7593,6 +7601,14 @@
       "onboard_time": 1741267943,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 208086,
+      "num": 252102,
+      "word": "美国开始寻找星舰飞船碎片",
+      "onboard_time": 1741310720,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 207889,
@@ -9011,6 +9027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181773,
+      "num": 181773,
+      "word": "直击Manus武汉总部",
+      "onboard_time": 1741309940,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 181231,
       "num": 181231,
       "word": "鬼灭之刃",
@@ -10115,6 +10139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162404,
+      "num": 162404,
+      "word": "勇士vs篮网",
+      "onboard_time": 1741312160,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161982,
       "num": 349767,
       "word": "建议公立幼儿园开展托育服务",
@@ -10851,6 +10883,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 152670,
+      "num": 218393,
+      "word": "Jennie新专",
+      "onboard_time": 1741308562,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 152646,
       "num": 152646,
       "word": "马苏演技",
@@ -10859,20 +10899,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 152638,
-      "num": 218995,
-      "word": "美国开始寻找星舰飞船碎片",
-      "onboard_time": 1741310720,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 152534,
       "num": 152534,
       "word": "宁艺卓 高洁丝",
       "onboard_time": 1741146198,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152532,
+      "num": 192198,
+      "word": "女足开机",
+      "onboard_time": 1741312761,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 152483,
@@ -11731,6 +11771,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 141089,
+      "num": 141089,
+      "word": "勇士",
+      "onboard_time": 1741312219,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140976,
       "num": 140976,
       "word": "哪吒里南面结界兽原来真的没有说谎",
@@ -12171,14 +12219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 135541,
-      "num": 218393,
-      "word": "Jennie新专",
-      "onboard_time": 1741308562,
-      "rank": 18,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 135226,
       "num": 135226,
       "word": "8岁脑癌男孩吆喝叫卖为妈妈揽客",
@@ -12289,6 +12329,14 @@
       "onboard_time": 1740990259,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 133766,
+      "num": 133766,
+      "word": "DeepSeek位列全球AI应用榜第2",
+      "onboard_time": 1741312100,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 133700,
@@ -12857,6 +12905,14 @@
       "onboard_time": 1741219398,
       "rank": 42,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 126547,
+      "num": 372491,
+      "word": "外交部长王毅答记者问",
+      "onboard_time": 1741312700,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 126526,
@@ -14635,6 +14691,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 103443,
+      "num": 103443,
+      "word": "两会新词热词双语卡片",
+      "onboard_time": 1741309342,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 103263,
       "num": 103263,
       "word": "央视网文娱评爱你",
@@ -14715,6 +14779,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 102222,
+      "num": 102222,
+      "word": "Manus能做哪些工作",
+      "onboard_time": 1741306161,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 102097,
       "num": 102097,
       "word": "txt六周年",
@@ -14737,14 +14809,6 @@
       "onboard_time": 1741246942,
       "rank": 44,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 101924,
-      "num": 101924,
-      "word": "直击Manus武汉总部",
-      "onboard_time": 1741309940,
-      "rank": 40,
-      "category": "互联网"
     },
     {
       "raw_hot": 101768,
@@ -14817,6 +14881,14 @@
       "onboard_time": 1741088840,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 100110,
+      "num": 100110,
+      "word": "湖人等队有意杜兰特",
+      "onboard_time": 1741313061,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 99876,
@@ -15145,14 +15217,6 @@
       "onboard_time": 1741086922,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 95351,
-      "num": 95351,
-      "word": "Manus能做哪些工作",
-      "onboard_time": 1741306161,
-      "rank": 42,
-      "category": "互联网"
     },
     {
       "raw_hot": 95306,
@@ -15603,6 +15667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85638,
+      "num": 185747,
+      "word": "阿诺担心公开会影响董力工作",
+      "onboard_time": 1741275621,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 85490,
       "num": 195845,
       "word": "AL对战TES",
@@ -15844,7 +15916,7 @@
     },
     {
       "raw_hot": 79965,
-      "num": 79965,
+      "num": 200190,
       "word": "内马尔重回巴西国家队",
       "onboard_time": 1741308322,
       "rank": 46,
@@ -15936,14 +16008,6 @@
       "word": "中方将采取反制措施",
       "onboard_time": 1741103479,
       "rank": 23,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 76941,
-      "num": 76941,
-      "word": "两会新词热词双语卡片",
-      "onboard_time": 1741309342,
-      "rank": 47,
       "category": "国内时政"
     },
     {
@@ -16651,12 +16715,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 63194,
-      "num": 102627,
-      "word": "阿诺担心公开会影响董力工作",
-      "onboard_time": 1741275621,
-      "rank": 44,
-      "category": "综艺"
+      "raw_hot": 63267,
+      "num": 248379,
+      "word": "星舰飞船爆炸成超大烟花点亮夜空",
+      "onboard_time": 1741312281,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 63077,
