@@ -1,6 +1,6 @@
 {
   "startTime": 1741364948328,
-  "endTime": 1741389535934,
+  "endTime": 1741390529510,
   "band_list": [
     {
       "raw_hot": 1045319,
@@ -11,20 +11,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 777519,
+      "num": 919472,
+      "word": "你一票我一票我们周总也出道",
+      "onboard_time": 1741360942,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 772742,
       "num": 221217,
       "word": "白敬亭下播之后一笔巨大的版权费用",
       "onboard_time": 1741365739,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 599262,
-      "num": 776507,
-      "word": "你一票我一票我们周总也出道",
-      "onboard_time": 1741360942,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 533751,
@@ -99,6 +99,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 273321,
+      "num": 109009,
+      "word": "戚薇李承铉每天在厕所聊好几个小时",
+      "onboard_time": 1741358902,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217659,
       "num": 217659,
       "word": "周云杰回应和雷军同框后走红",
@@ -107,16 +115,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 204289,
-      "num": 109009,
-      "word": "戚薇李承铉每天在厕所聊好几个小时",
-      "onboard_time": 1741358902,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 188975,
-      "num": 188975,
+      "raw_hot": 192571,
+      "num": 192571,
       "word": "妇女节",
       "onboard_time": 1741364181,
       "rank": 6,
@@ -179,6 +179,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 155552,
+      "num": 155552,
+      "word": "赵又廷从过期到翻红只差个反转",
+      "onboard_time": 1741381274,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151552,
       "num": 151552,
       "word": "麦琳现在98斤",
@@ -203,14 +211,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 135552,
-      "num": 135552,
-      "word": "赵又廷从过期到翻红只差个反转",
-      "onboard_time": 1741381274,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 134820,
       "num": 134820,
       "word": "白敬亭直播耳夹造型",
@@ -225,6 +225,14 @@
       "onboard_time": 1741350861,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132568,
+      "num": 60699,
+      "word": "男子拆快递眼球扎进几十根玻璃细刺",
+      "onboard_time": 1741389737,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120941,
@@ -299,6 +307,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 99321,
+      "num": 105868,
+      "word": "黄圣依参加最强大脑受伤的是儿子",
+      "onboard_time": 1741356682,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99194,
       "num": 99194,
       "word": "文都教育曾索赔何凯文2273万",
@@ -313,14 +329,6 @@
       "onboard_time": 1741363403,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 96989,
-      "num": 105868,
-      "word": "黄圣依参加最强大脑受伤的是儿子",
-      "onboard_time": 1741356682,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 96951,
@@ -435,8 +443,8 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 54766,
-      "num": 54766,
+      "raw_hot": 56136,
+      "num": 56136,
       "word": "海尔兄弟续集要来了",
       "onboard_time": 1741386975,
       "rank": 22,
@@ -465,6 +473,14 @@
       "onboard_time": 1741340302,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 43962,
+      "num": 61398,
+      "word": "没有人能定义的女性",
+      "onboard_time": 1741389317,
+      "rank": 24,
+      "category": "情感,剧集"
     },
     {
       "raw_hot": 43361,
@@ -507,6 +523,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34632,
+      "num": 48597,
+      "word": "文莱对中国公民14天免签3月8日实施",
+      "onboard_time": 1741377615,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 33412,
+      "num": 48579,
+      "word": "泽连斯基呼吁部分停火",
+      "onboard_time": 1741355362,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 32311,
       "num": 78452,
       "word": "生命是一万次的春和景明",
@@ -515,28 +547,12 @@
       "category": "时尚,网红"
     },
     {
-      "raw_hot": 30928,
-      "num": 41961,
-      "word": "泽连斯基呼吁部分停火",
-      "onboard_time": 1741355362,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 27107,
       "num": 40251,
       "word": "李耕耘没别的爱好就爱霍霍蒋敦豪",
       "onboard_time": 1741370296,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 26530,
-      "num": 41949,
-      "word": "文莱对中国公民14天免签3月8日实施",
-      "onboard_time": 1741377615,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 25038,
@@ -585,14 +601,6 @@
       "onboard_time": 1741372095,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 19800,
-      "num": 49454,
-      "word": "没有人能定义的女性",
-      "onboard_time": 1741389317,
-      "rank": 24,
-      "category": "情感,剧集"
     },
     {
       "raw_hot": 19251,
