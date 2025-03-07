@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1741343114313,
+  "endTime": 1741344153260,
   "band_list": [
     {
       "raw_hot": 15162205,
@@ -329,6 +329,14 @@
       "onboard_time": 1740882978,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1521118,
+      "num": 188660,
+      "word": "这居然是辣目洋子",
+      "onboard_time": 1741341203,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 1517875,
@@ -867,14 +875,6 @@
       "category": "国内时政,互联网"
     },
     {
-      "raw_hot": 1019957,
-      "num": 166221,
-      "word": "这居然是辣目洋子",
-      "onboard_time": 1741341203,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1006977,
       "num": 1006977,
       "word": "DeepSeek没彻底改变全球AI发展格局",
@@ -1012,7 +1012,7 @@
     },
     {
       "raw_hot": 938223,
-      "num": 164879,
+      "num": 181450,
       "word": "主持人李静公开袒露绝经经历",
       "onboard_time": 1741340420,
       "rank": 15,
@@ -2460,7 +2460,7 @@
     },
     {
       "raw_hot": 554675,
-      "num": 164415,
+      "num": 179984,
       "word": "爸爸去哪儿李锐履历",
       "onboard_time": 1741341141,
       "rank": 17,
@@ -4820,7 +4820,7 @@
     },
     {
       "raw_hot": 300262,
-      "num": 162252,
+      "num": 176736,
       "word": "刘晓艳回应被一些老师攻击",
       "onboard_time": 1741340542,
       "rank": 22,
@@ -5484,7 +5484,7 @@
     },
     {
       "raw_hot": 267556,
-      "num": 161148,
+      "num": 175546,
       "word": "电影女足番位",
       "onboard_time": 1741341862,
       "rank": 24,
@@ -5825,6 +5825,14 @@
       "onboard_time": 1741066099,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 247618,
+      "num": 172441,
+      "word": "字节跳动39人被追究刑事责任",
+      "onboard_time": 1741340483,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 247432,
@@ -6243,6 +6251,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 228285,
+      "num": 228285,
+      "word": "曝iPhone17ProMax变厚了",
+      "onboard_time": 1741340302,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 228092,
       "num": 406117,
       "word": "汪苏泷11城24场",
@@ -6371,12 +6387,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 224274,
-      "num": 160547,
-      "word": "字节跳动39人被追究刑事责任",
-      "onboard_time": 1741340483,
-      "rank": 25,
-      "category": "互联网"
+      "raw_hot": 224559,
+      "num": 224559,
+      "word": "内娱豹豹猫猫第一次现场认子",
+      "onboard_time": 1741343002,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 224141,
@@ -6627,6 +6643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 217529,
+      "num": 217529,
+      "word": "女店员偷偷哭泣同事查完监控被暖到",
+      "onboard_time": 1741340782,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 217512,
       "num": 218654,
       "word": "小米SU7Ultra发布3天锁单超10000",
@@ -6809,6 +6833,14 @@
       "onboard_time": 1741259243,
       "rank": 27,
       "category": "游戏,美食"
+    },
+    {
+      "raw_hot": 210606,
+      "num": 157142,
+      "word": "年轻人的胃癌发病率增长近80%",
+      "onboard_time": 1741342282,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 210593,
@@ -7539,6 +7571,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 195971,
+      "num": 195971,
+      "word": "2025全国两会",
+      "onboard_time": 1741342580,
+      "rank": 11,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 195832,
       "num": 195832,
       "word": "妇女节礼物",
@@ -7851,14 +7891,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 189451,
-      "num": 189451,
-      "word": "曝iPhone17ProMax变厚了",
-      "onboard_time": 1741340302,
-      "rank": 30,
-      "category": "数码"
-    },
-    {
       "raw_hot": 189440,
       "num": 189440,
       "word": "肖战陌森眼镜升title",
@@ -7873,6 +7905,14 @@
       "onboard_time": 1741161800,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 189141,
+      "num": 189141,
+      "word": "华晨宇一个星期瘦了9斤",
+      "onboard_time": 1741343782,
+      "rank": 9,
+      "category": "演出"
     },
     {
       "raw_hot": 188994,
@@ -7937,6 +7977,14 @@
       "onboard_time": 1740892098,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187653,
+      "num": 156540,
+      "word": "郭涛给谁让妆了",
+      "onboard_time": 1741342762,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 187567,
@@ -8137,6 +8185,14 @@
       "onboard_time": 1740920061,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184970,
+      "num": 156004,
+      "word": "麦琳回应女儿牙齿问题",
+      "onboard_time": 1741342643,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 184850,
@@ -9187,6 +9243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162663,
+      "num": 162663,
+      "word": "虞书欣卫枝被扇巴掌",
+      "onboard_time": 1741341005,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162642,
       "num": 153070,
       "word": "哪吒2登陆新加坡反响热烈",
@@ -9315,14 +9379,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 160307,
-      "num": 160307,
-      "word": "虞书欣卫枝被扇巴掌",
-      "onboard_time": 1741341005,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 159974,
       "num": 250464,
       "word": "Manus为何一夜爆火",
@@ -9441,6 +9497,14 @@
       "onboard_time": 1740958936,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158025,
+      "num": 158025,
+      "word": "鹿晗缺席五哈录制",
+      "onboard_time": 1741342941,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 157986,
@@ -9587,14 +9651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 156686,
-      "num": 166728,
-      "word": "2025全国两会",
-      "onboard_time": 1741342580,
-      "rank": 11,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 156583,
       "num": 205032,
       "word": "嘘国王在冬眠是林一最后一部待播剧",
@@ -9641,6 +9697,14 @@
       "onboard_time": 1741231037,
       "rank": 14,
       "category": "国内时政,教育"
+    },
+    {
+      "raw_hot": 155851,
+      "num": 155851,
+      "word": "育儿补贴",
+      "onboard_time": 1741340661,
+      "rank": 35,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 155805,
@@ -9897,14 +9961,6 @@
       "onboard_time": 1741170919,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 152973,
-      "num": 152973,
-      "word": "女店员偷偷哭泣同事查完监控被暖到",
-      "onboard_time": 1741340782,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 152937,
@@ -10667,14 +10723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 143373,
-      "num": 143373,
-      "word": "育儿补贴",
-      "onboard_time": 1741340661,
-      "rank": 35,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 143175,
       "num": 143175,
       "word": "明日方舟",
@@ -10745,6 +10793,14 @@
       "onboard_time": 1741328002,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 142118,
+      "num": 142118,
+      "word": "这就是HR要的应届生10年经验",
+      "onboard_time": 1741343842,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 142022,
@@ -11419,6 +11475,14 @@
       "category": "体育,国内时政"
     },
     {
+      "raw_hot": 132675,
+      "num": 157998,
+      "word": "章若楠 巴黎时装周",
+      "onboard_time": 1741343782,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 132453,
       "num": 132453,
       "word": "欧豪演出了心动不自知",
@@ -11769,6 +11833,14 @@
       "onboard_time": 1740972260,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126944,
+      "num": 141125,
+      "word": "汽车碰撞假人居然近千万",
+      "onboard_time": 1741343902,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 126896,
@@ -12683,14 +12755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 115550,
-      "num": 115550,
-      "word": "郭涛给谁让妆了",
-      "onboard_time": 1741342762,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 115357,
       "num": 115357,
       "word": "严浩翔健身房穿搭",
@@ -12745,14 +12809,6 @@
       "onboard_time": 1741332562,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 115015,
-      "num": 115015,
-      "word": "年轻人的胃癌发病率增长近80%",
-      "onboard_time": 1741342282,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 114997,
@@ -12849,6 +12905,14 @@
       "onboard_time": 1741188498,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113196,
+      "num": 113196,
+      "word": "工人双腿被绞断医生8小时手术接回",
+      "onboard_time": 1741342462,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113179,
@@ -13155,6 +13219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 108531,
+      "num": 108531,
+      "word": "苏醒真说了你又不高兴",
+      "onboard_time": 1741341621,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108477,
       "num": 330655,
       "word": "10家美国公司对台军售或有所谓军事合作",
@@ -13329,14 +13401,6 @@
       "onboard_time": 1740894319,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 106715,
-      "num": 106715,
-      "word": "苏醒真说了你又不高兴",
-      "onboard_time": 1741341621,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 106414,
@@ -13667,14 +13731,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 102675,
-      "num": 102675,
-      "word": "内娱豹豹猫猫第一次现场认子",
-      "onboard_time": 1741343002,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 102611,
       "num": 102611,
       "word": "研究出这个镜头的人是天才",
@@ -13777,6 +13833,14 @@
       "onboard_time": 1741249281,
       "rank": 48,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 100468,
+      "num": 163940,
+      "word": "文淇红温 刘浩存暗爽",
+      "onboard_time": 1741341922,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 100303,
@@ -13993,14 +14057,6 @@
       "onboard_time": 1741166780,
       "rank": 29,
       "category": "国内时政,健康医疗"
-    },
-    {
-      "raw_hot": 96831,
-      "num": 96831,
-      "word": "工人双腿被绞断医生8小时手术接回",
-      "onboard_time": 1741342462,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96778,
@@ -14345,14 +14401,6 @@
       "onboard_time": 1740882438,
       "rank": 44,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 90287,
-      "num": 163940,
-      "word": "文淇红温 刘浩存暗爽",
-      "onboard_time": 1741341922,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 90191,
@@ -15923,6 +15971,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 55434,
+      "num": 154050,
+      "word": "山区农村冬天怎么吃上新鲜蔬菜",
+      "onboard_time": 1741343661,
+      "rank": 35,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 55359,
       "num": 55359,
       "word": "T1登顶LOL全球实力排行榜",
@@ -17171,6 +17227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30672,
+      "num": 183136,
+      "word": "邀请码没有商品属性购买需谨慎",
+      "onboard_time": 1741342700,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 30299,
       "num": 35959,
       "word": "两会上大胡子外国记者被点赞",
@@ -17899,6 +17963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16106,
+      "num": 157631,
+      "word": "王诗晴分享与身体和心灵对话",
+      "onboard_time": 1741343661,
+      "rank": 29,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 16075,
       "num": 19514,
       "word": "爱你女主一边清醒一边沉沦",
@@ -18065,14 +18137,6 @@
       "onboard_time": 1741122013,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 13821,
-      "num": 165452,
-      "word": "邀请码没有商品属性购买需谨慎",
-      "onboard_time": 1741342700,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 13754,

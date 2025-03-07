@@ -1,6 +1,6 @@
 {
   "startTime": 1741278581665,
-  "endTime": 1741343114313,
+  "endTime": 1741344153260,
   "band_list": [
     {
       "raw_hot": 15162205,
@@ -35,6 +35,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1521118,
+      "num": 188660,
+      "word": "这居然是辣目洋子",
+      "onboard_time": 1741341203,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1441801,
       "num": 1441801,
       "word": "Manus",
@@ -51,14 +59,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1019957,
-      "num": 166221,
-      "word": "这居然是辣目洋子",
-      "onboard_time": 1741341203,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 961084,
       "num": 305588,
       "word": "赵丽颖监狱服造型",
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 938223,
-      "num": 164879,
+      "num": 181450,
       "word": "主持人李静公开袒露绝经经历",
       "onboard_time": 1741340420,
       "rank": 15,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 554675,
-      "num": 164415,
+      "num": 179984,
       "word": "爸爸去哪儿李锐履历",
       "onboard_time": 1741341141,
       "rank": 17,
@@ -540,7 +540,7 @@
     },
     {
       "raw_hot": 300262,
-      "num": 162252,
+      "num": 176736,
       "word": "刘晓艳回应被一些老师攻击",
       "onboard_time": 1741340542,
       "rank": 22,
@@ -660,7 +660,7 @@
     },
     {
       "raw_hot": 267556,
-      "num": 161148,
+      "num": 175546,
       "word": "电影女足番位",
       "onboard_time": 1741341862,
       "rank": 24,
@@ -705,6 +705,14 @@
       "onboard_time": 1741308922,
       "rank": 8,
       "category": "美食"
+    },
+    {
+      "raw_hot": 247618,
+      "num": 172441,
+      "word": "字节跳动39人被追究刑事责任",
+      "onboard_time": 1741340483,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 245597,
@@ -763,12 +771,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 224274,
-      "num": 160547,
-      "word": "字节跳动39人被追究刑事责任",
-      "onboard_time": 1741340483,
-      "rank": 25,
-      "category": "互联网"
+      "raw_hot": 228285,
+      "num": 228285,
+      "word": "曝iPhone17ProMax变厚了",
+      "onboard_time": 1741340302,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 224559,
+      "num": 224559,
+      "word": "内娱豹豹猫猫第一次现场认子",
+      "onboard_time": 1741343002,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 222574,
@@ -793,6 +809,14 @@
       "onboard_time": 1741334662,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217529,
+      "num": 217529,
+      "word": "女店员偷偷哭泣同事查完监控被暖到",
+      "onboard_time": 1741340782,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 217512,
@@ -833,6 +857,14 @@
       "onboard_time": 1741320443,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210606,
+      "num": 157142,
+      "word": "年轻人的胃癌发病率增长近80%",
+      "onboard_time": 1741342282,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 210593,
@@ -947,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195971,
+      "num": 195971,
+      "word": "2025全国两会",
+      "onboard_time": 1741342580,
+      "rank": 11,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 195832,
       "num": 195832,
       "word": "妇女节礼物",
@@ -1011,12 +1051,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 189451,
-      "num": 189451,
-      "word": "曝iPhone17ProMax变厚了",
-      "onboard_time": 1741340302,
-      "rank": 30,
-      "category": "数码"
+      "raw_hot": 189141,
+      "num": 189141,
+      "word": "华晨宇一个星期瘦了9斤",
+      "onboard_time": 1741343782,
+      "rank": 9,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 187653,
+      "num": 156540,
+      "word": "郭涛给谁让妆了",
+      "onboard_time": 1741342762,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 187520,
@@ -1048,6 +1096,14 @@
       "word": "陶昕然古装清冷感",
       "onboard_time": 1741320805,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 184970,
+      "num": 156004,
+      "word": "麦琳回应女儿牙齿问题",
+      "onboard_time": 1741342643,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -1227,6 +1283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162663,
+      "num": 162663,
+      "word": "虞书欣卫枝被扇巴掌",
+      "onboard_time": 1741341005,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162470,
       "num": 182996,
       "word": "曾黎的微博里都是好好生活的痕迹",
@@ -1259,14 +1323,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 160307,
-      "num": 160307,
-      "word": "虞书欣卫枝被扇巴掌",
-      "onboard_time": 1741341005,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 159628,
       "num": 195457,
       "word": "让你不焦虑的纯电车",
@@ -1291,6 +1347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158025,
+      "num": 158025,
+      "word": "鹿晗缺席五哈录制",
+      "onboard_time": 1741342941,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156731,
       "num": 156731,
       "word": "雷军说卖车的成功来得有点猝不及防",
@@ -1299,20 +1363,20 @@
       "category": "国内时政,互联网"
     },
     {
-      "raw_hot": 156686,
-      "num": 166728,
-      "word": "2025全国两会",
-      "onboard_time": 1741342580,
-      "rank": 11,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 156097,
       "num": 156097,
       "word": "瞿颖送胡兵泰国游当生日礼物",
       "onboard_time": 1741322664,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155851,
+      "num": 155851,
+      "word": "育儿补贴",
+      "onboard_time": 1741340661,
+      "rank": 35,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 155266,
@@ -1328,14 +1392,6 @@
       "word": "何凯文间接持有文都教育股份",
       "onboard_time": 1741338261,
       "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 152973,
-      "num": 152973,
-      "word": "女店员偷偷哭泣同事查完监控被暖到",
-      "onboard_time": 1741340782,
-      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -1451,14 +1507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 143373,
-      "num": 143373,
-      "word": "育儿补贴",
-      "onboard_time": 1741340661,
-      "rank": 35,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 142937,
       "num": 142937,
       "word": "2035年中国女性平均寿命将达85岁",
@@ -1473,6 +1521,14 @@
       "onboard_time": 1741328002,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 142118,
+      "num": 142118,
+      "word": "这就是HR要的应届生10年经验",
+      "onboard_time": 1741343842,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 141089,
@@ -1587,6 +1643,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 132675,
+      "num": 157998,
+      "word": "章若楠 巴黎时装周",
+      "onboard_time": 1741343782,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 132364,
       "num": 163070,
       "word": "似锦直播",
@@ -1617,6 +1681,14 @@
       "onboard_time": 1741326624,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 126944,
+      "num": 141125,
+      "word": "汽车碰撞假人居然近千万",
+      "onboard_time": 1741343902,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 126497,
@@ -1771,14 +1843,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 115550,
-      "num": 115550,
-      "word": "郭涛给谁让妆了",
-      "onboard_time": 1741342762,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 115336,
       "num": 202057,
       "word": "网红老板带低智发小带货被质疑炒作",
@@ -1795,20 +1859,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115015,
-      "num": 115015,
-      "word": "年轻人的胃癌发病率增长近80%",
-      "onboard_time": 1741342282,
-      "rank": 43,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 114321,
       "num": 114321,
       "word": "阿诺想亲吻时董力的反应",
       "onboard_time": 1741261341,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113196,
+      "num": 113196,
+      "word": "工人双腿被绞断医生8小时手术接回",
+      "onboard_time": 1741342462,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112472,
@@ -1859,6 +1923,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 108531,
+      "num": 108531,
+      "word": "苏醒真说了你又不高兴",
+      "onboard_time": 1741341621,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108371,
       "num": 163045,
       "word": "东契奇高难度进球的神",
@@ -1881,14 +1953,6 @@
       "onboard_time": 1741252882,
       "rank": 19,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 106715,
-      "num": 106715,
-      "word": "苏醒真说了你又不高兴",
-      "onboard_time": 1741341621,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 105397,
@@ -1939,14 +2003,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 102675,
-      "num": 102675,
-      "word": "内娱豹豹猫猫第一次现场认子",
-      "onboard_time": 1741343002,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 102280,
       "num": 228423,
       "word": "女性的职业反差可以有多绝",
@@ -1995,6 +2051,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 100468,
+      "num": 163940,
+      "word": "文淇红温 刘浩存暗爽",
+      "onboard_time": 1741341922,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 100110,
       "num": 230324,
       "word": "湖人等队有意杜兰特",
@@ -2025,14 +2089,6 @@
       "onboard_time": 1741337300,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 96831,
-      "num": 96831,
-      "word": "工人双腿被绞断医生8小时手术接回",
-      "onboard_time": 1741342462,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96481,
@@ -2081,14 +2137,6 @@
       "onboard_time": 1741336582,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 90287,
-      "num": 163940,
-      "word": "文淇红温 刘浩存暗爽",
-      "onboard_time": 1741341922,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 89041,
@@ -2395,6 +2443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 55434,
+      "num": 154050,
+      "word": "山区农村冬天怎么吃上新鲜蔬菜",
+      "onboard_time": 1741343661,
+      "rank": 35,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 54844,
       "num": 121198,
       "word": "张晚意喝汽水进场氛围感",
@@ -2651,6 +2707,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 30672,
+      "num": 183136,
+      "word": "邀请码没有商品属性购买需谨慎",
+      "onboard_time": 1741342700,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 29823,
       "num": 120504,
       "word": "缤纷番茄鸡蛋挂面",
@@ -2779,6 +2843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16106,
+      "num": 157631,
+      "word": "王诗晴分享与身体和心灵对话",
+      "onboard_time": 1741343661,
+      "rank": 29,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 15965,
       "num": 32654,
       "word": "被流量裹挟的侵权式晒娃法律不允许",
@@ -2833,14 +2905,6 @@
       "onboard_time": 1741288333,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 13821,
-      "num": 165452,
-      "word": "邀请码没有商品属性购买需谨慎",
-      "onboard_time": 1741342700,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 13684,
