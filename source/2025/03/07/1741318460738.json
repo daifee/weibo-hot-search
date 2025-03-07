@@ -1,0 +1,410 @@
+{
+  "runTime": 1741318460738,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6645029,
+        "num": 7895029,
+        "word": "中国台湾省",
+        "onboard_time": 1741316840,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 740442,
+        "num": 740442,
+        "word": "王毅谈特朗普不停退群",
+        "onboard_time": 1741314441,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 159389,
+        "num": 591223,
+        "word": "小院高墙是挡不住创新思维的",
+        "onboard_time": 1741316661,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 488559,
+        "num": 488559,
+        "word": "Manus",
+        "onboard_time": 1741306461,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 222992,
+        "num": 470596,
+        "word": "外交部长王毅答记者问",
+        "onboard_time": 1741312700,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 455386,
+        "num": 455386,
+        "word": "十个勤天",
+        "onboard_time": 1741313421,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 446313,
+        "num": 446313,
+        "word": "赵丽颖新角色狠劲",
+        "onboard_time": 1741315820,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 354671,
+        "num": 354671,
+        "word": "美国星舰飞船失联",
+        "onboard_time": 1741306341,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 335835,
+        "num": 335835,
+        "word": "王毅用哪吒比喻中国科技创新",
+        "onboard_time": 1741315760,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 295171,
+        "num": 295171,
+        "word": "恋与深空",
+        "onboard_time": 1741317741,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 671775,
+        "num": 293139,
+        "word": "董力一家四口全家福",
+        "onboard_time": 1741312941,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 468923,
+        "num": 291499,
+        "word": "王一博登顶照片成地标了",
+        "onboard_time": 1741311081,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435262,
+        "num": 289149,
+        "word": "女足开机",
+        "onboard_time": 1741312761,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 407572,
+        "num": 287043,
+        "word": "工作中千万不要散发弱者气息",
+        "onboard_time": 1741304059,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 285693,
+        "num": 285693,
+        "word": "我国迎来低空经济黄金机遇期",
+        "onboard_time": 1741309102,
+        "rank": 14,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 326351,
+        "num": 285005,
+        "word": "董力 pua",
+        "onboard_time": 1741317380,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282816,
+        "num": 282816,
+        "word": "高额彩礼受谴责对象不该是女性",
+        "onboard_time": 1741305441,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 281707,
+        "num": 281707,
+        "word": "Manus合伙人紧急澄清",
+        "onboard_time": 1741315100,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 264669,
+        "num": 264669,
+        "word": "孙颖莎肯德基",
+        "onboard_time": 1741315701,
+        "rank": 18,
+        "category": "体育,美食"
+      },
+      {
+        "raw_hot": 120376,
+        "num": 245194,
+        "word": "向阳花首支预告",
+        "onboard_time": 1741317502,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 236359,
+        "num": 236359,
+        "word": "假如你从三月开始坚持早睡",
+        "onboard_time": 1741317079,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221051,
+        "num": 221051,
+        "word": "杭州女子家里涌入200个中介",
+        "onboard_time": 1741305982,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217814,
+        "num": 217814,
+        "word": "英一考77分是什么概念",
+        "onboard_time": 1741317260,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 94466,
+        "num": 211455,
+        "word": "借台湾生事就是给日本找事",
+        "onboard_time": 1741318161,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 209269,
+        "num": 209269,
+        "word": "王毅对美国发出5问",
+        "onboard_time": 1741315640,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 73868,
+        "num": 202818,
+        "word": "美国所谓印太战略成事不足败事有余",
+        "onboard_time": 1741318161,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 201301,
+        "num": 201301,
+        "word": "樊振东被推荐为2025全国劳模",
+        "onboard_time": 1741318042,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192337,
+        "num": 192337,
+        "word": "螺蛳粉远销全球30多个国家地区",
+        "onboard_time": 1741308922,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 110032,
+        "num": 176567,
+        "word": "王晨正带女友去青海祭拜爷爷",
+        "onboard_time": 1741308562,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 104816,
+        "num": 176129,
+        "word": "刘浩存喊话文淇二搭",
+        "onboard_time": 1741316300,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200826,
+        "num": 176127,
+        "word": "哪里有封锁哪里就有突围",
+        "onboard_time": 1741316781,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 176119,
+        "num": 176119,
+        "word": "妇女节礼物",
+        "onboard_time": 1741315161,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172694,
+        "num": 172694,
+        "word": "接生了一辈子这次是女儿和外孙",
+        "onboard_time": 1741311320,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172123,
+        "num": 172123,
+        "word": "全国两会",
+        "onboard_time": 1741257622,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 169398,
+        "num": 169398,
+        "word": "孙颖莎的节日祝福",
+        "onboard_time": 1741317141,
+        "rank": 34,
+        "category": "体育,美食"
+      },
+      {
+        "raw_hot": 163304,
+        "num": 163304,
+        "word": "库里神奇三分",
+        "onboard_time": 1741317020,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159628,
+        "num": 159628,
+        "word": "让你不焦虑的纯电车",
+        "onboard_time": 1741318102,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 158095,
+        "num": 158095,
+        "word": "五哈5嘉宾阵容",
+        "onboard_time": 1741302678,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98696,
+        "num": 142353,
+        "word": "Jennie新专",
+        "onboard_time": 1741308562,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 39470,
+        "num": 138254,
+        "word": "自制鲜鸡汁",
+        "onboard_time": 1741318102,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 137290,
+        "num": 137290,
+        "word": "幼儿园三八节给120名员工发金链",
+        "onboard_time": 1741303700,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133159,
+        "num": 133159,
+        "word": "中医药让手术不再是海外患者唯一选择",
+        "onboard_time": 1741309761,
+        "rank": 41,
+        "category": "国内时政,健康医疗"
+      },
+      {
+        "raw_hot": 132955,
+        "num": 132955,
+        "word": "美国开始寻找星舰飞船碎片",
+        "onboard_time": 1741310720,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 132016,
+        "num": 132016,
+        "word": "狗狗学小猫踩奶",
+        "onboard_time": 1741318042,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130960,
+        "num": 130960,
+        "word": "星舰飞船爆炸成超大烟花点亮夜空",
+        "onboard_time": 1741312281,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 129699,
+        "num": 129699,
+        "word": "SnackPaper 丁禹兮",
+        "onboard_time": 1741316120,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129652,
+        "num": 129652,
+        "word": "实现祖国完全统一是大势所趋大义所在",
+        "onboard_time": 1741318404,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122416,
+        "num": 122416,
+        "word": "医生建议的玩手机正确姿势",
+        "onboard_time": 1741268783,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 90955,
+        "num": 122333,
+        "word": "种地吧",
+        "onboard_time": 1741303218,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122311,
+        "num": 122311,
+        "word": "我们从不惹事更不怕事",
+        "onboard_time": 1741316060,
+        "rank": 49,
+        "category": "情感,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平看望全国政协委员#"
+    }
+  }
+}
