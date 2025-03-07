@@ -1,0 +1,410 @@
+{
+  "runTime": 1741337009053,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7323210,
+        "num": 7323210,
+        "word": "中国台湾省",
+        "onboard_time": 1741316840,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 861820,
+        "num": 861820,
+        "word": "今年妇女节 我不再祝你美丽",
+        "onboard_time": 1741335081,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43998,
+        "num": 707865,
+        "word": "3月7日两会日程",
+        "onboard_time": 1741321404,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 578045,
+        "num": 578045,
+        "word": "正起草育儿补贴方案",
+        "onboard_time": 1741335022,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 338437,
+        "num": 338437,
+        "word": "温以凡 香港",
+        "onboard_time": 1741325243,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313067,
+        "num": 313067,
+        "word": "借台湾生事就是给日本找事",
+        "onboard_time": 1741318161,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 302562,
+        "num": 302562,
+        "word": "张凯丽建议增设家庭暴力罪",
+        "onboard_time": 1741329862,
+        "rank": 6,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 227967,
+        "num": 227967,
+        "word": "中国进口乌克兰豌豆和水产品",
+        "onboard_time": 1741322724,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 218869,
+        "num": 218869,
+        "word": "杨蓉演技",
+        "onboard_time": 1741334662,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215665,
+        "num": 215665,
+        "word": "建议家暴者离婚少分或不分财产",
+        "onboard_time": 1741333162,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1423837,
+        "num": 211954,
+        "word": "赵一博 我和雪梨在一起是事实",
+        "onboard_time": 1741325063,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205559,
+        "num": 205559,
+        "word": "今年是台湾光复80周年",
+        "onboard_time": 1741321103,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 629599,
+        "num": 203669,
+        "word": "赵丽颖掌公主回归",
+        "onboard_time": 1741332021,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 532487,
+        "num": 202966,
+        "word": "王大陆父亲一语成谶",
+        "onboard_time": 1741331061,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12830,
+        "num": 198977,
+        "word": "妇女节美妆营销谁赢了",
+        "onboard_time": 1741334482,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 486753,
+        "num": 197810,
+        "word": "民宿老板3千网购小熊被索赔3.8万",
+        "onboard_time": 1741334421,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260780,
+        "num": 195407,
+        "word": "张凌赫徐若晗浴室吻花絮",
+        "onboard_time": 1741333581,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194198,
+        "num": 194198,
+        "word": "你好星期六宿舍",
+        "onboard_time": 1741335860,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113044,
+        "num": 192127,
+        "word": "景甜一心想着自己的秋裤",
+        "onboard_time": 1741335442,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146495,
+        "num": 192091,
+        "word": "胡一天愈夜愈美丽",
+        "onboard_time": 1741335921,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 192061,
+        "num": 192061,
+        "word": "台湾从来不是一个国家",
+        "onboard_time": 1741332442,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 193097,
+        "num": 190734,
+        "word": "电影女足阵容",
+        "onboard_time": 1741335803,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 181897,
+        "num": 181897,
+        "word": "王曼昱被推荐2025全国劳模",
+        "onboard_time": 1741333823,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174409,
+        "num": 174409,
+        "word": "女子从8楼丢下3个花盆被判刑",
+        "onboard_time": 1741334841,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168947,
+        "num": 168947,
+        "word": "iPhone17或全系标配LTPO灵动岛屏幕",
+        "onboard_time": 1741336161,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 152035,
+        "num": 152035,
+        "word": "祝她铮铮 祝她昂扬",
+        "onboard_time": 1741321344,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145662,
+        "num": 145662,
+        "word": "景区回应将王一博登顶照做成地标",
+        "onboard_time": 1741326144,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142937,
+        "num": 142937,
+        "word": "2035年中国女性平均寿命将达85岁",
+        "onboard_time": 1741334781,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102840,
+        "num": 138581,
+        "word": "妻子节目组禁止虐待李承铉",
+        "onboard_time": 1741332981,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26551,
+        "num": 137569,
+        "word": "建议加大对家暴行为刑事打击力度",
+        "onboard_time": 1741335740,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 136953,
+        "num": 136953,
+        "word": "何凯文曾评价刘晓艳讲英语是祸害人",
+        "onboard_time": 1741323564,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 130661,
+        "num": 130661,
+        "word": "实现祖国完全统一是大势所趋大义所在",
+        "onboard_time": 1741318404,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 125595,
+        "num": 125595,
+        "word": "麦琳分享减肥心得",
+        "onboard_time": 1741325664,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117444,
+        "num": 117444,
+        "word": "字节跳动2024年辞退违规员工353人",
+        "onboard_time": 1741336761,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 84202,
+        "num": 105404,
+        "word": "景甜扫楼点了蛋糕外卖",
+        "onboard_time": 1741332562,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44899,
+        "num": 103961,
+        "word": "东契奇32分",
+        "onboard_time": 1741330344,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103805,
+        "num": 103805,
+        "word": "今年份的玉兰花开了",
+        "onboard_time": 1741336521,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71764,
+        "num": 103764,
+        "word": "张兴海谈民营企业家走上委员通道",
+        "onboard_time": 1741336161,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 121337,
+        "num": 103761,
+        "word": "麦琳说现在李行亮带孩子更多",
+        "onboard_time": 1741331782,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103750,
+        "num": 103750,
+        "word": "涉王大陆案警员升职被叫停",
+        "onboard_time": 1741324103,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101683,
+        "num": 101683,
+        "word": "Jennie演唱会造型好辣",
+        "onboard_time": 1741333882,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 64365,
+        "num": 99218,
+        "word": "打击盗版要压实平台责任",
+        "onboard_time": 1741331542,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 97655,
+        "num": 97655,
+        "word": "韩国法院批准释放尹锡悦",
+        "onboard_time": 1741324225,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 74040,
+        "num": 95283,
+        "word": "女性的职业反差可以有多绝",
+        "onboard_time": 1741332501,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94497,
+        "num": 94497,
+        "word": "张晚意 这是我甜姐姐的味道",
+        "onboard_time": 1741333761,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93796,
+        "num": 93796,
+        "word": "张韶涵麻瓜MV",
+        "onboard_time": 1741336582,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 92101,
+        "num": 92101,
+        "word": "建议降低城乡居民医保缴费标准",
+        "onboard_time": 1741332921,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 88525,
+        "num": 88525,
+        "word": "晓艳老师不语只是在一旁煮鸡汤",
+        "onboard_time": 1741329922,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 87875,
+        "num": 87875,
+        "word": "王源张宥浩偶遇",
+        "onboard_time": 1741329803,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 85688,
+        "num": 85688,
+        "word": "上海的精神状态已经这么超前了",
+        "onboard_time": 1741325785,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#人才辈出人尽其才才尽其用#"
+    }
+  }
+}

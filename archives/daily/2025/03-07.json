@@ -1,6 +1,6 @@
 {
   "startTime": 1741278581665,
-  "endTime": 1741336176888,
+  "endTime": 1741337009053,
   "band_list": [
     {
       "raw_hot": 15162205,
@@ -65,6 +65,14 @@
       "onboard_time": 1741314441,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 861820,
+      "num": 861820,
+      "word": "今年妇女节 我不再祝你美丽",
+      "onboard_time": 1741335081,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 851203,
@@ -139,6 +147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 629599,
+      "num": 246792,
+      "word": "赵丽颖掌公主回归",
+      "onboard_time": 1741332021,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 593988,
       "num": 317843,
       "word": "王一博登顶照片成地标了",
@@ -171,12 +187,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 571134,
-      "num": 246792,
-      "word": "赵丽颖掌公主回归",
-      "onboard_time": 1741332021,
-      "rank": 30,
-      "category": "电影"
+      "raw_hot": 578045,
+      "num": 578045,
+      "word": "正起草育儿补贴方案",
+      "onboard_time": 1741335022,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 551197,
@@ -203,14 +219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 515337,
-      "num": 515337,
-      "word": "今年妇女节 我不再祝你美丽",
-      "onboard_time": 1741335081,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 495410,
       "num": 300492,
       "word": "女足开机",
@@ -233,14 +241,6 @@
       "onboard_time": 1741272862,
       "rank": 10,
       "category": "教育"
-    },
-    {
-      "raw_hot": 483414,
-      "num": 483414,
-      "word": "正起草育儿补贴方案",
-      "onboard_time": 1741335022,
-      "rank": 3,
-      "category": "国内时政"
     },
     {
       "raw_hot": 447678,
@@ -443,6 +443,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 302562,
+      "num": 302562,
+      "word": "张凯丽建议增设家庭暴力罪",
+      "onboard_time": 1741329862,
+      "rank": 46,
+      "category": "国内时政,艺人"
+    },
+    {
       "raw_hot": 300164,
       "num": 300164,
       "word": "孙颖莎肯德基",
@@ -457,14 +465,6 @@
       "onboard_time": 1741306281,
       "rank": 5,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 297801,
-      "num": 297801,
-      "word": "张凯丽建议增设家庭暴力罪",
-      "onboard_time": 1741329862,
-      "rank": 46,
-      "category": "国内时政,艺人"
     },
     {
       "raw_hot": 293251,
@@ -667,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218869,
+      "num": 226933,
+      "word": "杨蓉演技",
+      "onboard_time": 1741334662,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217512,
       "num": 218654,
       "word": "小米SU7Ultra发布3天锁单超10000",
@@ -680,6 +688,14 @@
       "word": "王毅回应俄美对话是否影响中俄关系",
       "onboard_time": 1741313960,
       "rank": 15,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 215665,
+      "num": 215665,
+      "word": "建议家暴者离婚少分或不分财产",
+      "onboard_time": 1741333162,
+      "rank": 27,
       "category": "国内时政"
     },
     {
@@ -827,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193097,
+      "num": 190734,
+      "word": "电影女足阵容",
+      "onboard_time": 1741335803,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 193005,
       "num": 193005,
       "word": "其实旅游是最检验友情和人品的",
@@ -875,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181897,
+      "num": 181897,
+      "word": "王曼昱被推荐2025全国劳模",
+      "onboard_time": 1741333823,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181773,
       "num": 181773,
       "word": "直击Manus武汉总部",
@@ -889,14 +921,6 @@
       "onboard_time": 1741271181,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 177968,
-      "num": 226933,
-      "word": "杨蓉演技",
-      "onboard_time": 1741334662,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 177572,
@@ -939,6 +963,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 174409,
+      "num": 225192,
+      "word": "女子从8楼丢下3个花盆被判刑",
+      "onboard_time": 1741334841,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174363,
       "num": 254672,
       "word": "刘浩存 好吗文淇妹妹",
@@ -963,14 +995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 171826,
-      "num": 171826,
-      "word": "王曼昱被推荐2025全国劳模",
-      "onboard_time": 1741333823,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 170917,
       "num": 170917,
       "word": "姚明建议未成年人息屏24小时行动",
@@ -985,6 +1009,14 @@
       "onboard_time": 1741317141,
       "rank": 34,
       "category": "体育,美食"
+    },
+    {
+      "raw_hot": 168947,
+      "num": 168947,
+      "word": "iPhone17或全系标配LTPO灵动岛屏幕",
+      "onboard_time": 1741336161,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 168382,
@@ -1028,7 +1060,7 @@
     },
     {
       "raw_hot": 164524,
-      "num": 176221,
+      "num": 192127,
       "word": "景甜一心想着自己的秋裤",
       "onboard_time": 1741335442,
       "rank": 22,
@@ -1155,14 +1187,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 150901,
-      "num": 150901,
-      "word": "建议家暴者离婚少分或不分财产",
-      "onboard_time": 1741333162,
-      "rank": 27,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 150587,
       "num": 150587,
       "word": "晓艳老师不语只是在一旁煮鸡汤",
@@ -1211,6 +1235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146495,
+      "num": 192091,
+      "word": "胡一天愈夜愈美丽",
+      "onboard_time": 1741335921,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 145895,
       "num": 145895,
       "word": "iPhone17Air续航或超预期",
@@ -1225,6 +1257,14 @@
       "onboard_time": 1741306281,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142937,
+      "num": 142937,
+      "word": "2035年中国女性平均寿命将达85岁",
+      "onboard_time": 1741334781,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142226,
@@ -1337,14 +1377,6 @@
       "onboard_time": 1741312100,
       "rank": 37,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 133250,
-      "num": 133250,
-      "word": "2035年中国女性平均寿命将达85岁",
-      "onboard_time": 1741334781,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 132364,
@@ -1483,12 +1515,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 117503,
-      "num": 117503,
-      "word": "电影女足阵容",
-      "onboard_time": 1741335803,
-      "rank": 38,
-      "category": "电影"
+      "raw_hot": 117444,
+      "num": 117444,
+      "word": "字节跳动2024年辞退违规员工353人",
+      "onboard_time": 1741336761,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 116570,
@@ -1635,6 +1667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103805,
+      "num": 103805,
+      "word": "今年份的玉兰花开了",
+      "onboard_time": 1741336521,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103443,
       "num": 286868,
       "word": "两会新词热词双语卡片",
@@ -1684,7 +1724,7 @@
     },
     {
       "raw_hot": 99635,
-      "num": 99635,
+      "num": 103961,
       "word": "东契奇32分",
       "onboard_time": 1741330344,
       "rank": 44,
@@ -1723,20 +1763,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 93796,
+      "num": 93796,
+      "word": "张韶涵麻瓜MV",
+      "onboard_time": 1741336582,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 90862,
       "num": 181409,
       "word": "打击盗版要压实平台责任",
       "onboard_time": 1741331542,
       "rank": 13,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 90192,
-      "num": 225192,
-      "word": "女子从8楼丢下3个花盆被判刑",
-      "onboard_time": 1741334841,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89041,
@@ -1793,14 +1833,6 @@
       "onboard_time": 1741311020,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 82465,
-      "num": 120348,
-      "word": "胡一天愈夜愈美丽",
-      "onboard_time": 1741335921,
-      "rank": 35,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 79965,
@@ -1865,6 +1897,14 @@
       "onboard_time": 1741312039,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 71764,
+      "num": 103764,
+      "word": "张兴海谈民营企业家走上委员通道",
+      "onboard_time": 1741336161,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 71348,
@@ -2251,6 +2291,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 26551,
+      "num": 150378,
+      "word": "建议加大对家暴行为刑事打击力度",
+      "onboard_time": 1741335740,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 24960,
       "num": 754743,
       "word": "经济主题记者会要点速览",
@@ -2265,14 +2313,6 @@
       "onboard_time": 1741318885,
       "rank": 43,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 22880,
-      "num": 150378,
-      "word": "建议加大对家暴行为刑事打击力度",
-      "onboard_time": 1741335740,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 22717,
