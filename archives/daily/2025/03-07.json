@@ -1,10 +1,10 @@
 {
   "startTime": 1741278581665,
-  "endTime": 1741318460738,
+  "endTime": 1741319181893,
   "band_list": [
     {
-      "raw_hot": 6645029,
-      "num": 7895029,
+      "raw_hot": 11371785,
+      "num": 12621785,
       "word": "中国台湾省",
       "onboard_time": 1741316840,
       "rank": 39,
@@ -20,15 +20,15 @@
     },
     {
       "raw_hot": 913407,
-      "num": 293139,
+      "num": 319491,
       "word": "董力一家四口全家福",
       "onboard_time": 1741312941,
       "rank": 18,
       "category": "综艺"
     },
     {
-      "raw_hot": 769591,
-      "num": 769591,
+      "raw_hot": 875709,
+      "num": 875709,
       "word": "王毅谈特朗普不停退群",
       "onboard_time": 1741314441,
       "rank": 3,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 633122,
-      "num": 287043,
+      "num": 316069,
       "word": "工作中千万不要散发弱者气息",
       "onboard_time": 1741304059,
       "rank": 33,
@@ -52,11 +52,19 @@
     },
     {
       "raw_hot": 593988,
-      "num": 291499,
+      "num": 317843,
       "word": "王一博登顶照片成地标了",
       "onboard_time": 1741311081,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 530506,
+      "num": 530506,
+      "word": "十个勤天",
+      "onboard_time": 1741313421,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 523281,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 495410,
-      "num": 289149,
+      "num": 300492,
       "word": "女足开机",
       "onboard_time": 1741312761,
       "rank": 27,
@@ -91,11 +99,11 @@
       "category": "教育"
     },
     {
-      "raw_hot": 455386,
-      "num": 455386,
-      "word": "十个勤天",
-      "onboard_time": 1741313421,
-      "rank": 16,
+      "raw_hot": 482283,
+      "num": 310169,
+      "word": "董力 pua",
+      "onboard_time": 1741317380,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -155,6 +163,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 372351,
+      "num": 372351,
+      "word": "王毅用哪吒比喻中国科技创新",
+      "onboard_time": 1741315760,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 365877,
       "num": 282816,
       "word": "高额彩礼受谴责对象不该是女性",
@@ -179,20 +195,28 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 335835,
-      "num": 335835,
-      "word": "王毅用哪吒比喻中国科技创新",
-      "onboard_time": 1741315760,
-      "rank": 8,
-      "category": "电影"
+      "raw_hot": 321146,
+      "num": 321146,
+      "word": "恋与深空",
+      "onboard_time": 1741317741,
+      "rank": 9,
+      "category": "游戏"
     },
     {
-      "raw_hot": 326351,
-      "num": 285005,
-      "word": "董力 pua",
-      "onboard_time": 1741317380,
-      "rank": 15,
-      "category": "综艺"
+      "raw_hot": 313676,
+      "num": 313676,
+      "word": "借台湾生事就是给日本找事",
+      "onboard_time": 1741318161,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 300164,
+      "num": 300164,
+      "word": "孙颖莎肯德基",
+      "onboard_time": 1741315701,
+      "rank": 33,
+      "category": "体育,美食"
     },
     {
       "raw_hot": 298752,
@@ -201,14 +225,6 @@
       "onboard_time": 1741306281,
       "rank": 5,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 295171,
-      "num": 295171,
-      "word": "恋与深空",
-      "onboard_time": 1741317741,
-      "rank": 9,
-      "category": "游戏"
     },
     {
       "raw_hot": 293251,
@@ -243,12 +259,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 275565,
-      "num": 275565,
-      "word": "孙颖莎肯德基",
-      "onboard_time": 1741315701,
-      "rank": 33,
-      "category": "体育,美食"
+      "raw_hot": 279317,
+      "num": 279317,
+      "word": "假如你从三月开始坚持早睡",
+      "onboard_time": 1741317079,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 266430,
@@ -257,6 +273,14 @@
       "onboard_time": 1741308562,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 258678,
+      "num": 258678,
+      "word": "英一考77分是什么概念",
+      "onboard_time": 1741317260,
+      "rank": 22,
+      "category": "教育"
     },
     {
       "raw_hot": 252201,
@@ -275,14 +299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 236359,
-      "num": 236359,
-      "word": "假如你从三月开始坚持早睡",
-      "onboard_time": 1741317079,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 231814,
       "num": 231814,
       "word": "NJZ出席ADOR诉讼",
@@ -299,6 +315,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 230228,
+      "num": 289293,
+      "word": "赵丽颖监狱服造型",
+      "onboard_time": 1741318522,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 222992,
       "num": 1032833,
       "word": "外交部长王毅答记者问",
@@ -313,14 +337,6 @@
       "onboard_time": 1741303700,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 217814,
-      "num": 217814,
-      "word": "英一考77分是什么概念",
-      "onboard_time": 1741317260,
-      "rank": 22,
-      "category": "教育"
     },
     {
       "raw_hot": 217512,
@@ -403,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 195364,
+      "num": 769847,
+      "word": "小院高墙是挡不住创新思维的",
+      "onboard_time": 1741316661,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 193461,
       "num": 248379,
       "word": "星舰飞船爆炸成超大烟花点亮夜空",
@@ -417,6 +441,14 @@
       "onboard_time": 1741272561,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 189733,
+      "num": 320437,
+      "word": "临近边界的缅北电诈园区已全部清除",
+      "onboard_time": 1741318644,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 181773,
@@ -475,6 +507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168382,
+      "num": 199028,
+      "word": "赵又廷被金靖夸成翘嘴",
+      "onboard_time": 1741318522,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167658,
       "num": 167658,
       "word": "哪吒2票房破146亿",
@@ -508,19 +548,11 @@
     },
     {
       "raw_hot": 159628,
-      "num": 159628,
+      "num": 195457,
       "word": "让你不焦虑的纯电车",
       "onboard_time": 1741318102,
       "rank": 36,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 159389,
-      "num": 769847,
-      "word": "小院高墙是挡不住创新思维的",
-      "onboard_time": 1741316661,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 158222,
@@ -545,6 +577,14 @@
       "onboard_time": 1741308562,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 151660,
+      "num": 151660,
+      "word": "实现祖国完全统一是大势所趋大义所在",
+      "onboard_time": 1741318404,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 148876,
@@ -603,6 +643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138195,
+      "num": 138195,
+      "word": "尼克斯vs湖人",
+      "onboard_time": 1741317981,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137550,
       "num": 137550,
       "word": "想并肩DeepSeek不能靠自嗨和邀请码",
@@ -659,8 +707,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 132016,
-      "num": 132016,
+      "raw_hot": 133394,
+      "num": 133394,
       "word": "狗狗学小猫踩奶",
       "onboard_time": 1741318042,
       "rank": 43,
@@ -673,14 +721,6 @@
       "onboard_time": 1741277179,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 129652,
-      "num": 129652,
-      "word": "实现祖国完全统一是大势所趋大义所在",
-      "onboard_time": 1741318404,
-      "rank": 46,
-      "category": "国内时政"
     },
     {
       "raw_hot": 128780,
@@ -705,6 +745,14 @@
       "onboard_time": 1741291994,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 125210,
+      "num": 125210,
+      "word": "DeepSeek使用指令合集",
+      "onboard_time": 1741319003,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 124668,
@@ -899,14 +947,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 94466,
-      "num": 211455,
-      "word": "借台湾生事就是给日本找事",
-      "onboard_time": 1741318161,
-      "rank": 23,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 85638,
       "num": 185747,
       "word": "阿诺担心公开会影响董力工作",
@@ -971,8 +1011,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 73868,
-      "num": 202818,
+      "raw_hot": 74925,
+      "num": 313935,
       "word": "美国所谓印太战略成事不足败事有余",
       "onboard_time": 1741318161,
       "rank": 25,
@@ -1163,8 +1203,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 39470,
-      "num": 138254,
+      "raw_hot": 40043,
+      "num": 143735,
       "word": "自制鲜鸡汁",
       "onboard_time": 1741318102,
       "rank": 39,
@@ -1241,6 +1281,14 @@
       "onboard_time": 1741265780,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 24583,
+      "num": 134284,
+      "word": "什么是纯电出行的最佳体验",
+      "onboard_time": 1741318885,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 22717,

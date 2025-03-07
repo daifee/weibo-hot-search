@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1741318460738,
+  "endTime": 1741319181893,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -273,6 +273,14 @@
       "onboard_time": 1738050440,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 11371785,
+      "num": 12621785,
+      "word": "中国台湾省",
+      "onboard_time": 1741316840,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 11170639,
@@ -593,14 +601,6 @@
       "onboard_time": 1738076680,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 6645029,
-      "num": 7895029,
-      "word": "中国台湾省",
-      "onboard_time": 1741316840,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 6585357,
