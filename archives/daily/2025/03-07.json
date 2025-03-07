@@ -1,6 +1,6 @@
 {
   "startTime": 1741278581665,
-  "endTime": 1741357324032,
+  "endTime": 1741358424996,
   "band_list": [
     {
       "raw_hot": 15162205,
@@ -67,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1334294,
+      "num": 638447,
+      "word": "白敬亭章若楠同时直播",
+      "onboard_time": 1741357343,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1199623,
       "num": 1199623,
       "word": "中俄决定永久睦邻友好",
@@ -105,6 +113,14 @@
       "onboard_time": 1741312941,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 902452,
+      "num": 327701,
+      "word": "韩国某乒乓球教练疑涉嫌性侵",
+      "onboard_time": 1741355962,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 890671,
@@ -243,6 +259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 608997,
+      "num": 608997,
+      "word": "颜安竟然是泰国留子",
+      "onboard_time": 1741352483,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 593988,
       "num": 317843,
       "word": "王一博登顶照片成地标了",
@@ -289,14 +313,6 @@
       "onboard_time": 1741351283,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 562747,
-      "num": 562747,
-      "word": "颜安竟然是泰国留子",
-      "onboard_time": 1741352483,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 554675,
@@ -361,14 +377,6 @@
       "onboard_time": 1741345101,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 517680,
-      "num": 327701,
-      "word": "韩国某乒乓球教练疑涉嫌性侵",
-      "onboard_time": 1741355962,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 510699,
@@ -707,6 +715,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 310526,
+      "num": 288413,
+      "word": "黄圣依参加最强大脑受伤的是儿子",
+      "onboard_time": 1741356682,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 309451,
       "num": 217764,
       "word": "麦琳与女儿拍写真",
@@ -835,6 +851,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 279763,
+      "num": 323863,
+      "word": "林心如看秀状态",
+      "onboard_time": 1741355482,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 278150,
       "num": 101787,
       "word": "瞿友宁",
@@ -899,12 +923,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 262951,
-      "num": 323863,
-      "word": "林心如看秀状态",
-      "onboard_time": 1741355482,
-      "rank": 18,
-      "category": "作品衍生,时尚"
+      "raw_hot": 261844,
+      "num": 329390,
+      "word": "霍启刚谈如何打破内卷式竞争",
+      "onboard_time": 1741355904,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 254573,
@@ -1052,7 +1076,7 @@
     },
     {
       "raw_hot": 212934,
-      "num": 212934,
+      "num": 284105,
       "word": "桑延再一次失去温以凡",
       "onboard_time": 1741355422,
       "rank": 23,
@@ -1153,14 +1177,6 @@
       "onboard_time": 1741321404,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 203018,
-      "num": 203018,
-      "word": "黄圣依参加最强大脑受伤的是儿子",
-      "onboard_time": 1741356682,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 201301,
@@ -1347,6 +1363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183311,
+      "num": 283045,
+      "word": "北上女二",
+      "onboard_time": 1741354042,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181897,
       "num": 181897,
       "word": "王曼昱被推荐2025全国劳模",
@@ -1385,14 +1409,6 @@
       "onboard_time": 1741317981,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 176635,
-      "num": 222745,
-      "word": "北上女二",
-      "onboard_time": 1741354042,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 176293,
@@ -1457,6 +1473,14 @@
       "onboard_time": 1741328483,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171812,
+      "num": 171812,
+      "word": "白敬亭直播耳夹造型",
+      "onboard_time": 1741357942,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 170917,
@@ -1537,6 +1561,14 @@
       "onboard_time": 1741321825,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 165871,
+      "num": 165871,
+      "word": "2025开年第一部女性爽综",
+      "onboard_time": 1741356982,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 165269,
@@ -1819,14 +1851,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 145657,
-      "num": 163009,
-      "word": "2025开年第一部女性爽综",
-      "onboard_time": 1741356982,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 144638,
       "num": 163078,
       "word": "我姐景甜我姐夫张晚意",
@@ -1900,7 +1924,7 @@
     },
     {
       "raw_hot": 138027,
-      "num": 195590,
+      "num": 289516,
       "word": "胡兵直播",
       "onboard_time": 1741354403,
       "rank": 40,
@@ -1995,12 +2019,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 133073,
+      "num": 133073,
+      "word": "女子生完孩子第5天生育金到账",
+      "onboard_time": 1741341383,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132364,
       "num": 163070,
       "word": "似锦直播",
       "onboard_time": 1741324944,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132218,
+      "num": 132218,
+      "word": "Jennie个人演唱会",
+      "onboard_time": 1741355662,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 131754,
@@ -2083,14 +2123,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 125681,
-      "num": 125681,
-      "word": "女子生完孩子第5天生育金到账",
-      "onboard_time": 1741341383,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125570,
       "num": 125570,
       "word": "最强大脑",
@@ -2161,14 +2193,6 @@
       "onboard_time": 1741329024,
       "rank": 37,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 123275,
-      "num": 123275,
-      "word": "Jennie个人演唱会",
-      "onboard_time": 1741355662,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 122311,
@@ -2379,6 +2403,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 105869,
+      "num": 105869,
+      "word": "CBA",
+      "onboard_time": 1741354942,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105397,
       "num": 105397,
       "word": "小鸟海拔4000米住上精装房",
@@ -2393,14 +2425,6 @@
       "onboard_time": 1741316300,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 104485,
-      "num": 329390,
-      "word": "霍启刚谈如何打破内卷式竞争",
-      "onboard_time": 1741355904,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 103993,
@@ -2539,6 +2563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97274,
+      "num": 279896,
+      "word": "周云杰你还记得微博密码吗",
+      "onboard_time": 1741358004,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 96481,
       "num": 96481,
       "word": "人生大事都在上班的夹缝中完成",
@@ -2609,6 +2641,14 @@
       "onboard_time": 1741344442,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 91052,
+      "num": 306017,
+      "word": "李嘉诚拟228亿美元卖掉43个港口",
+      "onboard_time": 1741357702,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 89268,
@@ -2769,6 +2809,14 @@
       "onboard_time": 1741312039,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 72028,
+      "num": 323272,
+      "word": "你不必是一朵花你可以是万物",
+      "onboard_time": 1741356622,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71764,
@@ -3147,7 +3195,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 37370,
+      "raw_hot": 37773,
       "num": 697424,
       "word": "政府工作报告里的身边事",
       "onboard_time": 1741354403,
@@ -3283,6 +3331,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 30180,
+      "num": 294195,
+      "word": "建议设立无堂食外卖举报平台",
+      "onboard_time": 1741357763,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 29823,
       "num": 120504,
       "word": "缤纷番茄鸡蛋挂面",
@@ -3321,6 +3377,22 @@
       "onboard_time": 1741339403,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 27645,
+      "num": 282027,
+      "word": "智能电视设计需要适老化",
+      "onboard_time": 1741356622,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 27290,
+      "num": 302001,
+      "word": "建议让孩子们共享名师金课",
+      "onboard_time": 1741357823,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 27143,
@@ -3379,26 +3451,10 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 22568,
-      "num": 323272,
-      "word": "你不必是一朵花你可以是万物",
-      "onboard_time": 1741356622,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 22369,
       "num": 197404,
       "word": "代表建议整治贷款黑中介",
       "onboard_time": 1741352721,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 22308,
-      "num": 189974,
-      "word": "智能电视设计需要适老化",
-      "onboard_time": 1741356622,
       "rank": 29,
       "category": "国内时政"
     },
