@@ -1,6 +1,6 @@
 {
   "startTime": 1741364948328,
-  "endTime": 1741364948328,
+  "endTime": 1741365858679,
   "band_list": [
     {
       "raw_hot": 1045319,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 397606,
-      "num": 219077,
+      "num": 269996,
       "word": "白敬亭章若楠同时直播",
       "onboard_time": 1741357343,
       "rank": 3,
@@ -67,19 +67,35 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 298066,
+      "num": 298066,
+      "word": "台军一护卫舰爆炸",
+      "onboard_time": 1741362560,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 236778,
+      "num": 140207,
+      "word": "白敬亭下播之后一笔巨大的版权费用",
+      "onboard_time": 1741365739,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 223437,
+      "num": 177743,
+      "word": "蒋敦豪说参加恋综已做了充足准备",
+      "onboard_time": 1741363940,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217659,
       "num": 217659,
       "word": "周云杰回应和雷军同框后走红",
       "onboard_time": 1741353742,
       "rank": 4,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 193463,
-      "num": 193463,
-      "word": "台军一护卫舰爆炸",
-      "onboard_time": 1741362560,
-      "rank": 5,
       "category": "国内时政"
     },
     {
@@ -123,6 +139,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 156282,
+      "num": 164632,
+      "word": "你一票我一票我们周总也出道",
+      "onboard_time": 1741360942,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 151552,
       "num": 151552,
       "word": "麦琳现在98斤",
@@ -155,28 +179,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 134673,
-      "num": 137291,
-      "word": "蒋敦豪说参加恋综已做了充足准备",
-      "onboard_time": 1741363940,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 132921,
       "num": 132921,
       "word": "金泰妍状态",
       "onboard_time": 1741350861,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 120411,
-      "num": 164632,
-      "word": "你一票我一票我们周总也出道",
-      "onboard_time": 1741360942,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 118344,
@@ -195,8 +203,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 108279,
-      "num": 108279,
+      "raw_hot": 113974,
+      "num": 113974,
       "word": "台湾从来不是一个国家",
       "onboard_time": 1741332442,
       "rank": 27,
@@ -211,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104110,
+      "num": 104110,
+      "word": "于适李昀锐范丞丞G社生图",
+      "onboard_time": 1741351403,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 101566,
       "num": 101566,
       "word": "2025全国两会",
@@ -219,8 +235,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 98995,
-      "num": 98995,
+      "raw_hot": 99194,
+      "num": 99194,
       "word": "文都教育曾索赔何凯文2273万",
       "onboard_time": 1741362741,
       "rank": 32,
@@ -243,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96951,
+      "num": 163127,
+      "word": "三八妇女节",
+      "onboard_time": 1741364181,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94927,
       "num": 105555,
       "word": "没当过十年牛马写不出这样的剧本",
@@ -252,23 +276,15 @@
     },
     {
       "raw_hot": 94306,
-      "num": 94306,
+      "num": 99121,
       "word": "李兰迪对了半个月的账终于平了",
       "onboard_time": 1741351283,
       "rank": 33,
       "category": "剧集"
     },
     {
-      "raw_hot": 94033,
-      "num": 94033,
-      "word": "于适李昀锐范丞丞G社生图",
-      "onboard_time": 1741351403,
-      "rank": 34,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 89350,
-      "num": 89350,
+      "num": 98659,
       "word": "建议规范幼师编制",
       "onboard_time": 1741361482,
       "rank": 35,
@@ -276,23 +292,15 @@
     },
     {
       "raw_hot": 88557,
-      "num": 88557,
+      "num": 99064,
       "word": "当独生子女开始遭遇父母重病",
       "onboard_time": 1741337782,
       "rank": 36,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 87220,
-      "num": 163127,
-      "word": "三八妇女节",
-      "onboard_time": 1741364181,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 85793,
-      "num": 85793,
+      "num": 98969,
       "word": "IU朴宝剑新剧初吻",
       "onboard_time": 1741356022,
       "rank": 37,
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 85563,
-      "num": 85563,
+      "num": 98739,
       "word": "桑延再一次失去温以凡",
       "onboard_time": 1741355422,
       "rank": 38,
@@ -308,7 +316,7 @@
     },
     {
       "raw_hot": 85037,
-      "num": 85037,
+      "num": 99198,
       "word": "爱你",
       "onboard_time": 1741350921,
       "rank": 39,
@@ -316,15 +324,23 @@
     },
     {
       "raw_hot": 78164,
-      "num": 85030,
+      "num": 98790,
       "word": "Jennie个人演唱会",
       "onboard_time": 1741355662,
       "rank": 40,
       "category": "演出"
     },
     {
+      "raw_hot": 75943,
+      "num": 98923,
+      "word": "杨天真说自己也曾被问生育计划",
+      "onboard_time": 1741362142,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 73154,
-      "num": 85009,
+      "num": 98422,
       "word": "戚薇李承铉每天在厕所聊好几个小时",
       "onboard_time": 1741358902,
       "rank": 41,
@@ -340,7 +356,7 @@
     },
     {
       "raw_hot": 71634,
-      "num": 84989,
+      "num": 98570,
       "word": "北上女二",
       "onboard_time": 1741354042,
       "rank": 43,
@@ -348,23 +364,15 @@
     },
     {
       "raw_hot": 70187,
-      "num": 84976,
+      "num": 98624,
       "word": "陆虎陈曌旭回门宴",
       "onboard_time": 1741344623,
       "rank": 44,
       "category": "艺人"
     },
     {
-      "raw_hot": 64630,
-      "num": 84957,
-      "word": "杨天真说自己也曾被问生育计划",
-      "onboard_time": 1741362142,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 64566,
-      "num": 84945,
+      "num": 98344,
       "word": "育儿补贴会有直接惠民措施",
       "onboard_time": 1741363041,
       "rank": 46,
@@ -379,8 +387,16 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 54159,
+      "num": 98333,
+      "word": "唐奇推理速度赶不上滤镜升级速度",
+      "onboard_time": 1741365680,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 51936,
-      "num": 84912,
+      "num": 98192,
       "word": "科技股当下该重节奏还是看长期",
       "onboard_time": 1741364421,
       "rank": 48,
@@ -388,15 +404,23 @@
     },
     {
       "raw_hot": 47762,
-      "num": 84899,
+      "num": 98125,
       "word": "曝iPhone17ProMax变厚了",
       "onboard_time": 1741340302,
       "rank": 49,
       "category": "数码"
     },
     {
+      "raw_hot": 36015,
+      "num": 98044,
+      "word": "中国人有自己的帕梅拉",
+      "onboard_time": 1741357643,
+      "rank": 49,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 20835,
-      "num": 219748,
+      "num": 270960,
       "word": "政府工作报告里的身边事",
       "onboard_time": 1741354403,
       "rank": 2,

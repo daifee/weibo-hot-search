@@ -1,0 +1,410 @@
+{
+  "runTime": 1741365858679,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 413937,
+        "num": 739997,
+        "word": "中国台湾省",
+        "onboard_time": 1741316840,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 298066,
+        "num": 298066,
+        "word": "台军一护卫舰爆炸",
+        "onboard_time": 1741362560,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19535,
+        "num": 270960,
+        "word": "政府工作报告里的身边事",
+        "onboard_time": 1741354403,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 311495,
+        "num": 269996,
+        "word": "白敬亭章若楠同时直播",
+        "onboard_time": 1741357343,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 267961,
+        "num": 267961,
+        "word": "中俄决定永久睦邻友好",
+        "onboard_time": 1741344562,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 180465,
+        "num": 180465,
+        "word": "周云杰回应和雷军同框后走红",
+        "onboard_time": 1741353742,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 223437,
+        "num": 177743,
+        "word": "蒋敦豪说参加恋综已做了充足准备",
+        "onboard_time": 1741363940,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159154,
+        "num": 159154,
+        "word": "今年将发育儿补贴",
+        "onboard_time": 1741346061,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 156282,
+        "num": 156282,
+        "word": "你一票我一票我们周总也出道",
+        "onboard_time": 1741360942,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 96951,
+        "num": 155290,
+        "word": "三八妇女节",
+        "onboard_time": 1741364181,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 980961,
+        "num": 150278,
+        "word": "赵一博 我和雪梨在一起是事实",
+        "onboard_time": 1741325063,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458196,
+        "num": 148594,
+        "word": "章若楠外网生图",
+        "onboard_time": 1741350681,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 257766,
+        "num": 145562,
+        "word": "韩国某乒乓球教练疑涉嫌性侵",
+        "onboard_time": 1741355962,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237226,
+        "num": 142550,
+        "word": "特朗普称俄罗斯正殴打乌克兰",
+        "onboard_time": 1741359741,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 236778,
+        "num": 140207,
+        "word": "白敬亭下播之后一笔巨大的版权费用",
+        "onboard_time": 1741365739,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163448,
+        "num": 136178,
+        "word": "小鱼海棠给刚出生的儿子开通账号",
+        "onboard_time": 1741338623,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 134562,
+        "num": 134562,
+        "word": "麦琳现在98斤",
+        "onboard_time": 1741346902,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128758,
+        "num": 128758,
+        "word": "陈飞宇启程巴黎时装周",
+        "onboard_time": 1741364602,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 119500,
+        "num": 119500,
+        "word": "建议给应届生3至5年社保补贴",
+        "onboard_time": 1741352061,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 119397,
+        "num": 119397,
+        "word": "金泰妍状态",
+        "onboard_time": 1741350861,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431085,
+        "num": 118990,
+        "word": "这居然是辣目洋子",
+        "onboard_time": 1741341203,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145254,
+        "num": 118763,
+        "word": "颜安竟然是泰国留子",
+        "onboard_time": 1741352483,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118466,
+        "num": 118466,
+        "word": "站雷军背后的海尔总裁周云杰走红",
+        "onboard_time": 1741345101,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 113974,
+        "num": 113974,
+        "word": "台湾从来不是一个国家",
+        "onboard_time": 1741332442,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 104110,
+        "num": 104110,
+        "word": "于适李昀锐范丞丞G社生图",
+        "onboard_time": 1741351403,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 99350,
+        "num": 99350,
+        "word": "王嘉尔直播打篮球",
+        "onboard_time": 1741361302,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91714,
+        "num": 99350,
+        "word": "张晚意说黄奕演似锦是增光添彩",
+        "onboard_time": 1741362803,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86135,
+        "num": 99308,
+        "word": "林心如看秀状态",
+        "onboard_time": 1741355482,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 85563,
+        "num": 99252,
+        "word": "黄圣依参加最强大脑受伤的是儿子",
+        "onboard_time": 1741356682,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80964,
+        "num": 99198,
+        "word": "爱你",
+        "onboard_time": 1741350921,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99194,
+        "num": 99194,
+        "word": "文都教育曾索赔何凯文2273万",
+        "onboard_time": 1741362741,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 88118,
+        "num": 99139,
+        "word": "2025全国两会",
+        "onboard_time": 1741342580,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 87119,
+        "num": 99121,
+        "word": "李兰迪对了半个月的账终于平了",
+        "onboard_time": 1741351283,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84846,
+        "num": 99064,
+        "word": "当独生子女开始遭遇父母重病",
+        "onboard_time": 1741337782,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79866,
+        "num": 98969,
+        "word": "IU朴宝剑新剧初吻",
+        "onboard_time": 1741356022,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75943,
+        "num": 98923,
+        "word": "杨天真说自己也曾被问生育计划",
+        "onboard_time": 1741362142,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 75778,
+        "num": 98840,
+        "word": "杨肸子长文告别红房子",
+        "onboard_time": 1741363403,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72101,
+        "num": 98790,
+        "word": "Jennie个人演唱会",
+        "onboard_time": 1741355662,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 70791,
+        "num": 98739,
+        "word": "桑延再一次失去温以凡",
+        "onboard_time": 1741355422,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66472,
+        "num": 98659,
+        "word": "建议规范幼师编制",
+        "onboard_time": 1741361482,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 65726,
+        "num": 98624,
+        "word": "陆虎陈曌旭回门宴",
+        "onboard_time": 1741344623,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64652,
+        "num": 98570,
+        "word": "北上女二",
+        "onboard_time": 1741354042,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60725,
+        "num": 98484,
+        "word": "没当过十年牛马写不出这样的剧本",
+        "onboard_time": 1741361242,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60297,
+        "num": 98422,
+        "word": "戚薇李承铉每天在厕所聊好几个小时",
+        "onboard_time": 1741358902,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55452,
+        "num": 98344,
+        "word": "育儿补贴会有直接惠民措施",
+        "onboard_time": 1741363041,
+        "rank": 44,
+        "category": "国内时政,母婴育儿"
+      },
+      {
+        "raw_hot": 54159,
+        "num": 98333,
+        "word": "唐奇推理速度赶不上滤镜升级速度",
+        "onboard_time": 1741365680,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53853,
+        "num": 98228,
+        "word": "古人写一个车字竟然还分车型",
+        "onboard_time": 1741361181,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47947,
+        "num": 98192,
+        "word": "科技股当下该重节奏还是看长期",
+        "onboard_time": 1741364421,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 45386,
+        "num": 98125,
+        "word": "曝iPhone17ProMax变厚了",
+        "onboard_time": 1741340302,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 36015,
+        "num": 98044,
+        "word": "中国人有自己的帕梅拉",
+        "onboard_time": 1741357643,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#实现我军建设十四五规划圆满收官#"
+    }
+  }
+}
