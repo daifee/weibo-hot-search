@@ -1,6 +1,6 @@
 {
   "startTime": 1741278581665,
-  "endTime": 1741344153260,
+  "endTime": 1741346408445,
   "band_list": [
     {
       "raw_hot": 15162205,
@@ -27,20 +27,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1858378,
+      "num": 209099,
+      "word": "这居然是辣目洋子",
+      "onboard_time": 1741341203,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1732998,
       "num": 101276,
       "word": "难哄剧情 烂",
       "onboard_time": 1741330701,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1521118,
-      "num": 188660,
-      "word": "这居然是辣目洋子",
-      "onboard_time": 1741341203,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 1441801,
@@ -67,8 +67,16 @@
       "category": "电影"
     },
     {
+      "raw_hot": 945533,
+      "num": 945533,
+      "word": "中俄决定永久睦邻友好",
+      "onboard_time": 1741344562,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 938223,
-      "num": 181450,
+      "num": 209133,
       "word": "主持人李静公开袒露绝经经历",
       "onboard_time": 1741340420,
       "rank": 15,
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 554675,
-      "num": 179984,
+      "num": 209095,
       "word": "爸爸去哪儿李锐履历",
       "onboard_time": 1741341141,
       "rank": 17,
@@ -241,6 +249,14 @@
       "onboard_time": 1741334421,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 547782,
+      "num": 209162,
+      "word": "章若楠 巴黎时装周",
+      "onboard_time": 1741343782,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 530506,
@@ -257,6 +273,14 @@
       "onboard_time": 1741302678,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 519355,
+      "num": 209156,
+      "word": "陆虎陈曌旭回门宴",
+      "onboard_time": 1741344623,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 495410,
@@ -305,6 +329,14 @@
       "onboard_time": 1741305860,
       "rank": 12,
       "category": "国内时政,互联网"
+    },
+    {
+      "raw_hot": 427111,
+      "num": 209143,
+      "word": "字节跳动39人被追究刑事责任",
+      "onboard_time": 1741340483,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 423389,
@@ -467,6 +499,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 327314,
+      "num": 209123,
+      "word": "麦琳回应女儿牙齿问题",
+      "onboard_time": 1741342643,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 326935,
       "num": 326935,
       "word": "歌曲yellow",
@@ -481,6 +521,14 @@
       "onboard_time": 1741325664,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 323901,
+      "num": 323901,
+      "word": "曝iPhone17ProMax变厚了",
+      "onboard_time": 1741340302,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 321146,
@@ -523,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 308461,
+      "num": 308461,
+      "word": "女店员偷偷哭泣同事查完监控被暖到",
+      "onboard_time": 1741340782,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 307267,
       "num": 307267,
       "word": "在人民大会堂哭了",
@@ -531,20 +587,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 305259,
+      "num": 209084,
+      "word": "刘晓艳回应被一些老师攻击",
+      "onboard_time": 1741340542,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 302562,
       "num": 302562,
       "word": "张凯丽建议增设家庭暴力罪",
       "onboard_time": 1741329862,
       "rank": 46,
       "category": "国内时政,艺人"
-    },
-    {
-      "raw_hot": 300262,
-      "num": 176736,
-      "word": "刘晓艳回应被一些老师攻击",
-      "onboard_time": 1741340542,
-      "rank": 22,
-      "category": "教育"
     },
     {
       "raw_hot": 300164,
@@ -660,7 +716,7 @@
     },
     {
       "raw_hot": 267556,
-      "num": 175546,
+      "num": 195888,
       "word": "电影女足番位",
       "onboard_time": 1741341862,
       "rank": 24,
@@ -681,6 +737,22 @@
       "onboard_time": 1741308562,
       "rank": 16,
       "category": "网红"
+    },
+    {
+      "raw_hot": 258031,
+      "num": 209014,
+      "word": "年轻人的胃癌发病率增长近80%",
+      "onboard_time": 1741342282,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 256359,
+      "num": 256359,
+      "word": "唐奇被骗了21集半分钟哄好了",
+      "onboard_time": 1741344682,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 254573,
@@ -705,14 +777,6 @@
       "onboard_time": 1741308922,
       "rank": 8,
       "category": "美食"
-    },
-    {
-      "raw_hot": 247618,
-      "num": 172441,
-      "word": "字节跳动39人被追究刑事责任",
-      "onboard_time": 1741340483,
-      "rank": 25,
-      "category": "互联网"
     },
     {
       "raw_hot": 245597,
@@ -771,14 +835,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 228285,
-      "num": 228285,
-      "word": "曝iPhone17ProMax变厚了",
-      "onboard_time": 1741340302,
-      "rank": 30,
-      "category": "数码"
-    },
-    {
       "raw_hot": 224559,
       "num": 224559,
       "word": "内娱豹豹猫猫第一次现场认子",
@@ -809,14 +865,6 @@
       "onboard_time": 1741334662,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 217529,
-      "num": 217529,
-      "word": "女店员偷偷哭泣同事查完监控被暖到",
-      "onboard_time": 1741340782,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 217512,
@@ -857,14 +905,6 @@
       "onboard_time": 1741320443,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 210606,
-      "num": 157142,
-      "word": "年轻人的胃癌发病率增长近80%",
-      "onboard_time": 1741342282,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 210593,
@@ -980,7 +1020,7 @@
     },
     {
       "raw_hot": 195971,
-      "num": 195971,
+      "num": 209177,
       "word": "2025全国两会",
       "onboard_time": 1741342580,
       "rank": 11,
@@ -1009,6 +1049,14 @@
       "onboard_time": 1741312281,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 193366,
+      "num": 209081,
+      "word": "白敬亭章若楠第一次拥抱戏",
+      "onboard_time": 1741345944,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 193172,
@@ -1099,14 +1147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 184970,
-      "num": 156004,
-      "word": "麦琳回应女儿牙齿问题",
-      "onboard_time": 1741342643,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 181897,
       "num": 181897,
       "word": "王曼昱被推荐2025全国劳模",
@@ -1129,6 +1169,14 @@
       "onboard_time": 1741271181,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179241,
+      "num": 209031,
+      "word": "纪梵希大秀",
+      "onboard_time": 1741345223,
+      "rank": 30,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 177572,
@@ -1169,6 +1217,14 @@
       "onboard_time": 1741327944,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 174485,
+      "num": 209058,
+      "word": "鹿晗缺席五哈录制",
+      "onboard_time": 1741342941,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 174363,
@@ -1347,14 +1403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158025,
-      "num": 158025,
-      "word": "鹿晗缺席五哈录制",
-      "onboard_time": 1741342941,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 156731,
       "num": 156731,
       "word": "雷军说卖车的成功来得有点猝不及防",
@@ -1483,6 +1531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147664,
+      "num": 209051,
+      "word": "虞书欣新剧围读reaction",
+      "onboard_time": 1741345582,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146495,
       "num": 192091,
       "word": "胡一天愈夜愈美丽",
@@ -1497,6 +1553,14 @@
       "onboard_time": 1741273942,
       "rank": 8,
       "category": "数码"
+    },
+    {
+      "raw_hot": 144039,
+      "num": 144039,
+      "word": "工人双腿被绞断医生8小时手术接回",
+      "onboard_time": 1741342462,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143386,
@@ -1547,6 +1611,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 140353,
+      "num": 140353,
+      "word": "今年将发育儿补贴",
+      "onboard_time": 1741346061,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 140205,
       "num": 140205,
       "word": "王源张宥浩偶遇",
@@ -1561,6 +1633,14 @@
       "onboard_time": 1741311200,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137575,
+      "num": 137575,
+      "word": "站雷军背后的海尔总裁周云杰走红",
+      "onboard_time": 1741345101,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 137550,
@@ -1643,14 +1723,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 132675,
-      "num": 157998,
-      "word": "章若楠 巴黎时装周",
-      "onboard_time": 1741343782,
-      "rank": 28,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 132364,
       "num": 163070,
       "word": "似锦直播",
@@ -1684,7 +1756,7 @@
     },
     {
       "raw_hot": 126944,
-      "num": 141125,
+      "num": 155254,
       "word": "汽车碰撞假人居然近千万",
       "onboard_time": 1741343902,
       "rank": 38,
@@ -1723,6 +1795,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 125681,
+      "num": 125681,
+      "word": "女子生完孩子第5天生育金到账",
+      "onboard_time": 1741341383,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125210,
       "num": 125210,
       "word": "DeepSeek使用指令合集",
@@ -1747,12 +1827,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 124554,
-      "num": 124554,
-      "word": "女子生完孩子第5天生育金到账",
-      "onboard_time": 1741341383,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 124499,
+      "num": 124499,
+      "word": "没有追星人能平静看完这个视频",
+      "onboard_time": 1741345882,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 124367,
@@ -1867,12 +1947,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 113196,
-      "num": 113196,
-      "word": "工人双腿被绞断医生8小时手术接回",
-      "onboard_time": 1741342462,
+      "raw_hot": 114210,
+      "num": 114210,
+      "word": "左航哭着哭着就笑了",
+      "onboard_time": 1741346363,
       "rank": 49,
-      "category": "民生新闻"
+      "category": "艺人"
     },
     {
       "raw_hot": 112472,
@@ -2075,6 +2155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98897,
+      "num": 209116,
+      "word": "谁在买上千元的国产女包",
+      "onboard_time": 1741344862,
+      "rank": 18,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 98724,
       "num": 287754,
       "word": "易梦玲巴黎时装周生图状态",
@@ -2137,6 +2225,14 @@
       "onboard_time": 1741336582,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 91368,
+      "num": 169690,
+      "word": "王毅记者会",
+      "onboard_time": 1741344442,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 89041,
@@ -2444,7 +2540,7 @@
     },
     {
       "raw_hot": 55434,
-      "num": 154050,
+      "num": 209103,
       "word": "山区农村冬天怎么吃上新鲜蔬菜",
       "onboard_time": 1741343661,
       "rank": 35,
@@ -2651,6 +2747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33968,
+      "num": 209064,
+      "word": "雨天老奶奶独自坐台阶店员给其点饭",
+      "onboard_time": 1741346123,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33910,
       "num": 158841,
       "word": "三年追问只为一张看得清的药品说明书",
@@ -2707,6 +2811,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 31120,
+      "num": 209024,
+      "word": "高圆圆时隔11年再当显眼包",
+      "onboard_time": 1741342762,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 30672,
       "num": 183136,
       "word": "邀请码没有商品属性购买需谨慎",
@@ -2731,8 +2843,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 28907,
+      "num": 209067,
+      "word": "TES对战情久",
+      "onboard_time": 1741346002,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 28183,
-      "num": 335055,
+      "num": 539773,
       "word": "速览外交主题记者会",
       "onboard_time": 1741342102,
       "rank": 2,
@@ -2945,6 +3065,14 @@
       "onboard_time": 1741289715,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10451,
+      "num": 209032,
+      "word": "陈瑜巴黎看秀vlog暗藏彩蛋",
+      "onboard_time": 1741345701,
+      "rank": 29,
+      "category": "时尚"
     },
     {
       "raw_hot": 9828,
