@@ -1,7 +1,15 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1741319181893,
+  "endTime": 1741321697642,
   "band_list": [
+    {
+      "raw_hot": 15004086,
+      "num": 15044334,
+      "word": "中国台湾省",
+      "onboard_time": 1741316840,
+      "rank": 39,
+      "category": "国内时政"
+    },
     {
       "raw_hot": 13760834,
       "num": 13760834,
@@ -9,14 +17,6 @@
       "onboard_time": 1741077081,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 11371785,
-      "num": 12621785,
-      "word": "中国台湾省",
-      "onboard_time": 1741316840,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 4490343,
@@ -137,6 +137,14 @@
       "onboard_time": 1740883218,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2052794,
+      "num": 2052794,
+      "word": "借台湾生事就是给日本找事",
+      "onboard_time": 1741318161,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2034607,
@@ -1475,6 +1483,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 727687,
+      "num": 310169,
+      "word": "董力 pua",
+      "onboard_time": 1741317380,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 726376,
       "num": 597631,
       "word": "难哄 瞿友宁",
@@ -1625,6 +1641,14 @@
       "onboard_time": 1740985638,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 678780,
+      "num": 289293,
+      "word": "赵丽颖监狱服造型",
+      "onboard_time": 1741318522,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 678461,
@@ -2195,6 +2219,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 578456,
+      "num": 578456,
+      "word": "临近边界的缅北电诈园区已全部清除",
+      "onboard_time": 1741318644,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 576335,
       "num": 576335,
       "word": "中医说健不健康看眼睛就知道了",
@@ -2633,14 +2665,6 @@
       "onboard_time": 1740860710,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 482283,
-      "num": 310169,
-      "word": "董力 pua",
-      "onboard_time": 1741317380,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 481425,
@@ -3211,6 +3235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 409022,
+      "num": 409022,
+      "word": "姚安娜演技",
+      "onboard_time": 1741319663,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 408876,
       "num": 292343,
       "word": "光渊日本开播",
@@ -3465,6 +3497,14 @@
       "onboard_time": 1740964819,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 379162,
+      "num": 258678,
+      "word": "英一考77分是什么概念",
+      "onboard_time": 1741317260,
+      "rank": 22,
+      "category": "教育"
     },
     {
       "raw_hot": 379142,
@@ -4003,6 +4043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 336349,
+      "num": 279317,
+      "word": "假如你从三月开始坚持早睡",
+      "onboard_time": 1741317079,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 335243,
       "num": 335243,
       "word": "电信诈骗开始遥控你的手机了",
@@ -4315,19 +4363,19 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 313676,
-      "num": 313676,
-      "word": "借台湾生事就是给日本找事",
-      "onboard_time": 1741318161,
-      "rank": 23,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 313653,
       "num": 294012,
       "word": "北上",
       "onboard_time": 1740882319,
       "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 313075,
+      "num": 251842,
+      "word": "被砍掉的飞天小女警真人版片段泄露",
+      "onboard_time": 1741320505,
+      "rank": 13,
       "category": "剧集"
     },
     {
@@ -4819,6 +4867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 282051,
+      "num": 1032833,
+      "word": "外交部长王毅答记者问",
+      "onboard_time": 1741312700,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 281707,
       "num": 281707,
       "word": "Manus合伙人紧急澄清",
@@ -4865,14 +4921,6 @@
       "onboard_time": 1741156879,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 279317,
-      "num": 279317,
-      "word": "假如你从三月开始坚持早睡",
-      "onboard_time": 1741317079,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 278346,
@@ -5257,14 +5305,6 @@
       "onboard_time": 1740891080,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 258678,
-      "num": 258678,
-      "word": "英一考77分是什么概念",
-      "onboard_time": 1741317260,
-      "rank": 22,
-      "category": "教育"
     },
     {
       "raw_hot": 258634,
@@ -5763,14 +5803,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 230228,
-      "num": 289293,
-      "word": "赵丽颖监狱服造型",
-      "onboard_time": 1741318522,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 229555,
       "num": 229555,
       "word": "赵露思恋人复拍",
@@ -5977,14 +6009,6 @@
       "onboard_time": 1741145960,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 222992,
-      "num": 1032833,
-      "word": "外交部长王毅答记者问",
-      "onboard_time": 1741312700,
-      "rank": 4,
-      "category": "国内时政"
     },
     {
       "raw_hot": 222658,
@@ -6339,6 +6363,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 211138,
+      "num": 211138,
+      "word": "高晓攀全职回归保定卖草莓",
+      "onboard_time": 1741320443,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210854,
       "num": 210854,
       "word": "kfc 第五人格",
@@ -6505,6 +6537,14 @@
       "onboard_time": 1741065678,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206599,
+      "num": 206599,
+      "word": "中国将召开全球妇女峰会",
+      "onboard_time": 1741319363,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 206453,
@@ -6867,6 +6907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200090,
+      "num": 208137,
+      "word": "虞书欣林一新剧燃起来了",
+      "onboard_time": 1741320563,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199685,
       "num": 199685,
       "word": "湖人7连胜",
@@ -7163,6 +7211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 193006,
+      "num": 182247,
+      "word": "NJZ说受到和LESSERAFIM区别对待",
+      "onboard_time": 1741319243,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192607,
       "num": 192607,
       "word": "当你的男朋友看了难哄",
@@ -7256,14 +7312,6 @@
       "word": "建议农民养老金与务农年限挂钩",
       "onboard_time": 1741179138,
       "rank": 14,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 189733,
-      "num": 320437,
-      "word": "临近边界的缅北电诈园区已全部清除",
-      "onboard_time": 1741318644,
-      "rank": 9,
       "category": "国内时政"
     },
     {
@@ -7467,6 +7515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186736,
+      "num": 186736,
+      "word": "黎深PV",
+      "onboard_time": 1741319423,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 186711,
       "num": 588758,
       "word": "妙瓦底620余名中国籍涉诈人员被遣返",
@@ -7657,6 +7713,14 @@
       "onboard_time": 1740929120,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181794,
+      "num": 181794,
+      "word": "实现祖国完全统一是大势所趋大义所在",
+      "onboard_time": 1741318404,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 181773,
@@ -8099,6 +8163,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 170606,
+      "num": 170606,
+      "word": "高圆圆时隔11年再打卡比萨斜塔",
+      "onboard_time": 1741321103,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170605,
       "num": 240967,
       "word": "唐奇1分钟打了16个电话",
@@ -8251,6 +8323,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 167817,
+      "num": 167817,
+      "word": "祝她铮铮 祝她昂扬",
+      "onboard_time": 1741321344,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 167805,
       "num": 167805,
       "word": "研究生宿舍生活能有多快乐",
@@ -8265,6 +8345,22 @@
       "onboard_time": 1740971120,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167375,
+      "num": 187081,
+      "word": "刘浩存 好吗文淇妹妹",
+      "onboard_time": 1741319904,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 167125,
+      "num": 167125,
+      "word": "黎深愿缘长",
+      "onboard_time": 1741320024,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 167028,
@@ -8331,6 +8427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165963,
+      "num": 165963,
+      "word": "今年是台湾光复80周年",
+      "onboard_time": 1741321103,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 165955,
       "num": 165955,
       "word": "李紫婷失声后舞台飙高音",
@@ -8385,6 +8489,14 @@
       "onboard_time": 1740999919,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164353,
+      "num": 164353,
+      "word": "程潇向阳花人设",
+      "onboard_time": 1741321404,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 164276,
@@ -8883,6 +8995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156407,
+      "num": 156407,
+      "word": "男子开网店自买自卖薅运费险200多万",
+      "onboard_time": 1741321584,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156205,
       "num": 156205,
       "word": "有一种生机勃勃叫惊蛰",
@@ -9251,14 +9371,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 151660,
-      "num": 151660,
-      "word": "实现祖国完全统一是大势所趋大义所在",
-      "onboard_time": 1741318404,
-      "rank": 46,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 151510,
       "num": 337926,
       "word": "当诗人玩跨界把把都是高端局",
@@ -9601,6 +9713,14 @@
       "onboard_time": 1741253842,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146363,
+      "num": 146363,
+      "word": "狗狗学小猫踩奶",
+      "onboard_time": 1741318042,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 146336,
@@ -10513,14 +10633,6 @@
       "onboard_time": 1741000158,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 133394,
-      "num": 133394,
-      "word": "狗狗学小猫踩奶",
-      "onboard_time": 1741318042,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 133386,
@@ -12596,7 +12708,7 @@
     },
     {
       "raw_hot": 103443,
-      "num": 103443,
+      "num": 183047,
       "word": "两会新词热词双语卡片",
       "onboard_time": 1741309342,
       "rank": 47,
@@ -13369,6 +13481,14 @@
       "onboard_time": 1741275621,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 85492,
+      "num": 239854,
+      "word": "刘昊然西装松弛感",
+      "onboard_time": 1741320384,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 85392,
@@ -14859,6 +14979,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 51221,
+      "num": 233306,
+      "word": "冈比亚农民向袁隆平先生表达敬意",
+      "onboard_time": 1741320263,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 51192,
       "num": 157336,
       "word": "代表建议有条件企业弹性上下班",
@@ -16052,7 +16180,7 @@
     },
     {
       "raw_hot": 24583,
-      "num": 134284,
+      "num": 168219,
       "word": "什么是纯电出行的最佳体验",
       "onboard_time": 1741318885,
       "rank": 43,
@@ -16273,6 +16401,14 @@
       "onboard_time": 1741197073,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 19662,
+      "num": 1227670,
+      "word": "3月7日两会日程",
+      "onboard_time": 1741321404,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 19420,
@@ -17036,6 +17172,9 @@
     },
     {
       "word": "#习近平看望全国政协委员#"
+    },
+    {
+      "word": "#全国两会上习近平再提两链#"
     }
   ]
 }

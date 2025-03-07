@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1741319181893,
+  "endTime": 1741321697642,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -171,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 15004086,
+      "num": 15044334,
+      "word": "中国台湾省",
+      "onboard_time": 1741316840,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 14397354,
       "num": 14397354,
       "word": "张兰汪小菲抖音无限期封禁",
@@ -273,14 +281,6 @@
       "onboard_time": 1738050440,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 11371785,
-      "num": 12621785,
-      "word": "中国台湾省",
-      "onboard_time": 1741316840,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 11170639,
