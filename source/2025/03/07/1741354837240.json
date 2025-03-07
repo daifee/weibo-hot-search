@@ -1,0 +1,410 @@
+{
+  "runTime": 1741354837240,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1374325,
+        "num": 1374325,
+        "word": "中国台湾省",
+        "onboard_time": 1741316840,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 648448,
+        "num": 648448,
+        "word": "今年将发育儿补贴",
+        "onboard_time": 1741346061,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16945,
+        "num": 552984,
+        "word": "政府工作报告里的身边事",
+        "onboard_time": 1741354403,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 531047,
+        "num": 531047,
+        "word": "中俄决定永久睦邻友好",
+        "onboard_time": 1741344562,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 518104,
+        "num": 518104,
+        "word": "站雷军背后的海尔总裁周云杰走红",
+        "onboard_time": 1741345101,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2699,
+        "num": 390112,
+        "word": "2025两会现场声",
+        "onboard_time": 1741265662,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 367916,
+        "num": 367916,
+        "word": "建议给应届生3至5年社保补贴",
+        "onboard_time": 1741352061,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 276120,
+        "num": 276120,
+        "word": "女店员偷偷哭泣同事查完监控被暖到",
+        "onboard_time": 1741340782,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257610,
+        "num": 276115,
+        "word": "颜安竟然是泰国留子",
+        "onboard_time": 1741352483,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218889,
+        "num": 276082,
+        "word": "北上断更",
+        "onboard_time": 1741350622,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1681727,
+        "num": 276062,
+        "word": "章若楠外网生图",
+        "onboard_time": 1741350681,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 726661,
+        "num": 276036,
+        "word": "于适李昀锐范丞丞G社生图",
+        "onboard_time": 1741351403,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 544297,
+        "num": 276009,
+        "word": "李兰迪对了半个月的账终于平了",
+        "onboard_time": 1741351283,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 537338,
+        "num": 275983,
+        "word": "金泰妍状态",
+        "onboard_time": 1741350861,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69211,
+        "num": 275971,
+        "word": "建议给妈妈岗发专项补贴",
+        "onboard_time": 1741353203,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 531172,
+        "num": 275947,
+        "word": "小鱼海棠给刚出生的儿子开通账号",
+        "onboard_time": 1741338623,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 503526,
+        "num": 275916,
+        "word": "赵一博 我和雪梨在一起是事实",
+        "onboard_time": 1741325063,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 502218,
+        "num": 275902,
+        "word": "麦琳现在98斤",
+        "onboard_time": 1741346902,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38346,
+        "num": 275883,
+        "word": "伊能静带女儿去洗浴中心",
+        "onboard_time": 1741349182,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41411,
+        "num": 275862,
+        "word": "多位代表委员为职工权益发声",
+        "onboard_time": 1741353742,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1035372,
+        "num": 275843,
+        "word": "这居然是辣目洋子",
+        "onboard_time": 1741341203,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299783,
+        "num": 275818,
+        "word": "主持人李静公开袒露绝经经历",
+        "onboard_time": 1741340420,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275798,
+        "num": 275798,
+        "word": "周云杰回应和雷军同框后走红",
+        "onboard_time": 1741353742,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 226401,
+        "num": 226401,
+        "word": "台湾从来不是一个国家",
+        "onboard_time": 1741332442,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 158457,
+        "num": 224761,
+        "word": "RW周决赛吃鸡",
+        "onboard_time": 1741351161,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 224529,
+        "num": 224529,
+        "word": "直男为出片肉眼可见的努力",
+        "onboard_time": 1741351283,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169824,
+        "num": 223826,
+        "word": "章若楠 巴黎时装周",
+        "onboard_time": 1741343782,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 163745,
+        "num": 222745,
+        "word": "北上女二",
+        "onboard_time": 1741354042,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120728,
+        "num": 219838,
+        "word": "唐奇被骗了21集半分钟哄好了",
+        "onboard_time": 1741344682,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32984,
+        "num": 218142,
+        "word": "抗癌8年盲童的心愿是看哪吒2",
+        "onboard_time": 1741354224,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218018,
+        "num": 218018,
+        "word": "陶喆抢票",
+        "onboard_time": 1741350020,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 218739,
+        "num": 217035,
+        "word": "没有追星人能平静看完这个视频",
+        "onboard_time": 1741345882,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201592,
+        "num": 201592,
+        "word": "张凯丽谈35岁就业门槛",
+        "onboard_time": 1741346662,
+        "rank": 32,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 165269,
+        "num": 165269,
+        "word": "山西男篮vs广东男篮",
+        "onboard_time": 1741354281,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24976,
+        "num": 163886,
+        "word": "速览外交主题记者会",
+        "onboard_time": 1741342102,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 163504,
+        "num": 163504,
+        "word": "当独生子女开始遭遇父母重病",
+        "onboard_time": 1741337782,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153343,
+        "num": 153343,
+        "word": "年轻人的胃癌发病率增长近80%",
+        "onboard_time": 1741342282,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 140141,
+        "num": 140141,
+        "word": "陆虎陈曌旭回门宴",
+        "onboard_time": 1741344623,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138389,
+        "num": 138389,
+        "word": "正起草育儿补贴方案",
+        "onboard_time": 1741335022,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 117507,
+        "num": 138083,
+        "word": "何苏叶 有钱",
+        "onboard_time": 1741354703,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138027,
+        "num": 138027,
+        "word": "胡兵直播",
+        "onboard_time": 1741354403,
+        "rank": 40,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 119462,
+        "num": 119462,
+        "word": "2025全国两会",
+        "onboard_time": 1741342580,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 117403,
+        "num": 117403,
+        "word": "工人双腿被绞断医生8小时手术接回",
+        "onboard_time": 1741342462,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116470,
+        "num": 116470,
+        "word": "我从非洲带回一包米被王毅点名了",
+        "onboard_time": 1741347561,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114850,
+        "num": 114850,
+        "word": "女子生完孩子第5天生育金到账",
+        "onboard_time": 1741341383,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111177,
+        "num": 111177,
+        "word": "曝iPhone17ProMax变厚了",
+        "onboard_time": 1741340302,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 101014,
+        "num": 107955,
+        "word": "爱你",
+        "onboard_time": 1741350921,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104972,
+        "num": 104972,
+        "word": "原来是演播厅还以为到胡静家了",
+        "onboard_time": 1741350441,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104807,
+        "num": 104807,
+        "word": "景甜生图轻轻秒了",
+        "onboard_time": 1741347141,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101259,
+        "num": 101259,
+        "word": "麦琳回应女儿牙齿问题",
+        "onboard_time": 1741342643,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#实现我军建设十四五规划圆满收官#"
+    }
+  }
+}
