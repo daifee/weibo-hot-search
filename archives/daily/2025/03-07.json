@@ -1,6 +1,6 @@
 {
   "startTime": 1741278581665,
-  "endTime": 1741361088429,
+  "endTime": 1741361927158,
   "band_list": [
     {
       "raw_hot": 15162205,
@@ -403,6 +403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 492881,
+      "num": 221872,
+      "word": "特朗普称俄罗斯正殴打乌克兰",
+      "onboard_time": 1741359741,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 489990,
       "num": 880915,
       "word": "10年6战法考终上岸的北大保安已辞职",
@@ -473,14 +481,6 @@
       "onboard_time": 1741320505,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 406338,
-      "num": 221872,
-      "word": "特朗普称俄罗斯正殴打乌克兰",
-      "onboard_time": 1741359741,
-      "rank": 11,
-      "category": "国际时政"
     },
     {
       "raw_hot": 405730,
@@ -1003,6 +1003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234835,
+      "num": 209251,
+      "word": "王嘉尔直播打篮球",
+      "onboard_time": 1741361302,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231814,
       "num": 231814,
       "word": "NJZ出席ADOR诉讼",
@@ -1507,6 +1515,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 170568,
+      "num": 206589,
+      "word": "古人写一个车字竟然还分车型",
+      "onboard_time": 1741361181,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169398,
       "num": 169398,
       "word": "孙颖莎的节日祝福",
@@ -1659,6 +1675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161200,
+      "num": 161200,
+      "word": "没当过十年牛马写不出这样的剧本",
+      "onboard_time": 1741361242,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160328,
       "num": 160328,
       "word": "时空中的绘旅人",
@@ -1673,6 +1697,14 @@
       "onboard_time": 1741318102,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 159272,
+      "num": 208050,
+      "word": "建议小区物业回收过期药",
+      "onboard_time": 1741360342,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 158557,
@@ -2419,6 +2451,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 107814,
+      "num": 107814,
+      "word": "戚薇李承铉每天在厕所聊好几个小时",
+      "onboard_time": 1741358902,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107165,
       "num": 197403,
       "word": "外长记者会这些回答很提气",
@@ -2553,14 +2593,6 @@
       "onboard_time": 1741341922,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 100312,
-      "num": 100312,
-      "word": "戚薇李承铉每天在厕所聊好几个小时",
-      "onboard_time": 1741358902,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 100110,
@@ -2721,6 +2753,14 @@
       "onboard_time": 1741332202,
       "rank": 49,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 87924,
+      "num": 87924,
+      "word": "张惠妹演唱会",
+      "onboard_time": 1741361602,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 87771,
@@ -2963,6 +3003,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 64747,
+      "num": 79973,
+      "word": "黑执事摘下眼罩的少爷",
+      "onboard_time": 1741359263,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 62776,
       "num": 204738,
       "word": "有一种友情叫胡兵瞿颖",
@@ -3171,6 +3219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 46023,
+      "num": 131945,
+      "word": "建议规范幼师编制",
+      "onboard_time": 1741361482,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 45785,
       "num": 45785,
       "word": "中国用一句古语回应美国",
@@ -3243,20 +3299,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 38998,
-      "num": 200820,
-      "word": "建议小区物业回收过期药",
-      "onboard_time": 1741360342,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 38537,
       "num": 135795,
       "word": "乌克兰与美国预计下周举行会议",
       "onboard_time": 1741303158,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 38143,
+      "num": 212515,
+      "word": "建议在更多区域试点小学五年制",
+      "onboard_time": 1741361482,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 37773,
