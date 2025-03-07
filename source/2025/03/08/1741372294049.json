@@ -1,0 +1,410 @@
+{
+  "runTime": 1741372294049,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 158295,
+        "num": 165952,
+        "word": "张凯丽说35岁明明很年轻",
+        "onboard_time": 1741367119,
+        "rank": 0,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 145757,
+        "num": 145757,
+        "word": "台军一护卫舰爆炸",
+        "onboard_time": 1741362560,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14811,
+        "num": 94803,
+        "word": "政府工作报告里的身边事",
+        "onboard_time": 1741354403,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 315823,
+        "num": 94443,
+        "word": "白敬亭下播之后一笔巨大的版权费用",
+        "onboard_time": 1741365739,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154883,
+        "num": 94130,
+        "word": "蒋敦豪说参加恋综已做了充足准备",
+        "onboard_time": 1741363940,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93133,
+        "num": 93133,
+        "word": "你一票我一票我们周总也出道",
+        "onboard_time": 1741360942,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 91936,
+        "num": 91936,
+        "word": "中国台湾省",
+        "onboard_time": 1741316840,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 81316,
+        "num": 81316,
+        "word": "妇女节",
+        "onboard_time": 1741364181,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73638,
+        "num": 73638,
+        "word": "中俄决定永久睦邻友好",
+        "onboard_time": 1741344562,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 54910,
+        "num": 73297,
+        "word": "白敬亭章若楠同时直播",
+        "onboard_time": 1741357343,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 473217,
+        "num": 73265,
+        "word": "赵一博 我和雪梨在一起是事实",
+        "onboard_time": 1741325063,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73167,
+        "num": 73167,
+        "word": "特朗普称俄罗斯正殴打乌克兰",
+        "onboard_time": 1741359741,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70938,
+        "num": 70938,
+        "word": "张彬彬 我同意你上班我不能上班",
+        "onboard_time": 1741372155,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69385,
+        "num": 69385,
+        "word": "赵小童在电光火石中收工",
+        "onboard_time": 1741366100,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79573,
+        "num": 68777,
+        "word": "章若楠外网生图",
+        "onboard_time": 1741350681,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 67148,
+        "num": 67148,
+        "word": "韩国某乒乓球教练疑涉嫌性侵",
+        "onboard_time": 1741355962,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59587,
+        "num": 59587,
+        "word": "于适李昀锐范丞丞G社生图",
+        "onboard_time": 1741351403,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 55803,
+        "num": 55803,
+        "word": "小鱼海棠给刚出生的儿子开通账号",
+        "onboard_time": 1741338623,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 53807,
+        "num": 53807,
+        "word": "金泰妍状态",
+        "onboard_time": 1741350861,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48343,
+        "num": 48343,
+        "word": "周云杰回应和雷军同框后走红",
+        "onboard_time": 1741353742,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 53921,
+        "num": 48341,
+        "word": "这居然是辣目洋子",
+        "onboard_time": 1741341203,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42102,
+        "num": 42102,
+        "word": "麦琳现在98斤",
+        "onboard_time": 1741346902,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39566,
+        "num": 39566,
+        "word": "黄圣依参加最强大脑受伤的是儿子",
+        "onboard_time": 1741356682,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38404,
+        "num": 38404,
+        "word": "今年将发育儿补贴",
+        "onboard_time": 1741346061,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 37761,
+        "num": 37761,
+        "word": "爱你",
+        "onboard_time": 1741350921,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37454,
+        "num": 37454,
+        "word": "当独生子女开始遭遇父母重病",
+        "onboard_time": 1741337782,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34361,
+        "num": 37453,
+        "word": "建议给应届生3至5年社保补贴",
+        "onboard_time": 1741352061,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 31843,
+        "num": 37447,
+        "word": "杨肸子长文告别红房子",
+        "onboard_time": 1741363403,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29483,
+        "num": 37439,
+        "word": "Jennie个人演唱会",
+        "onboard_time": 1741355662,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 29312,
+        "num": 37431,
+        "word": "桑延再一次失去温以凡",
+        "onboard_time": 1741355422,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30955,
+        "num": 37427,
+        "word": "台湾从来不是一个国家",
+        "onboard_time": 1741332442,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 30049,
+        "num": 37424,
+        "word": "文都教育曾索赔何凯文2273万",
+        "onboard_time": 1741362741,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 29720,
+        "num": 37416,
+        "word": "育儿补贴会有直接惠民措施",
+        "onboard_time": 1741363041,
+        "rank": 32,
+        "category": "国内时政,母婴育儿"
+      },
+      {
+        "raw_hot": 29245,
+        "num": 37409,
+        "word": "颜安竟然是泰国留子",
+        "onboard_time": 1741352483,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27107,
+        "num": 37406,
+        "word": "李耕耘没别的爱好就爱霍霍蒋敦豪",
+        "onboard_time": 1741370296,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26220,
+        "num": 37398,
+        "word": "IU朴宝剑新剧初吻",
+        "onboard_time": 1741356022,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25922,
+        "num": 37391,
+        "word": "麦琳回应女儿牙齿问题",
+        "onboard_time": 1741342643,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25516,
+        "num": 37387,
+        "word": "李兰迪对了半个月的账终于平了",
+        "onboard_time": 1741351283,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25343,
+        "num": 37382,
+        "word": "站雷军背后的海尔总裁周云杰走红",
+        "onboard_time": 1741345101,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 25307,
+        "num": 37376,
+        "word": "北上女二",
+        "onboard_time": 1741354042,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24308,
+        "num": 37367,
+        "word": "建议规范幼师编制",
+        "onboard_time": 1741361482,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24137,
+        "num": 37363,
+        "word": "戚薇李承铉每天在厕所聊好几个小时",
+        "onboard_time": 1741358902,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23923,
+        "num": 37355,
+        "word": "唐奇好痛一滴泪",
+        "onboard_time": 1741370836,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23127,
+        "num": 37353,
+        "word": "陈飞宇启程巴黎时装周",
+        "onboard_time": 1741364602,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 22436,
+        "num": 37347,
+        "word": "陆虎陈曌旭回门宴",
+        "onboard_time": 1741344623,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20935,
+        "num": 37337,
+        "word": "苏新皓感谢黄磊",
+        "onboard_time": 1741367478,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20933,
+        "num": 37334,
+        "word": "曝iPhone17ProMax变厚了",
+        "onboard_time": 1741340302,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 20341,
+        "num": 37330,
+        "word": "张晚意说黄奕演似锦是增光添彩",
+        "onboard_time": 1741362803,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18912,
+        "num": 37323,
+        "word": "生命是一万次的春和景明",
+        "onboard_time": 1741367180,
+        "rank": 48,
+        "category": "时尚,网红"
+      },
+      {
+        "raw_hot": 14039,
+        "num": 37317,
+        "word": "7种享受春光的方式",
+        "onboard_time": 1741362622,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#实现我军建设十四五规划圆满收官#"
+    }
+  }
+}

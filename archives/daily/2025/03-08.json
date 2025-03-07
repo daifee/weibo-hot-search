@@ -1,6 +1,6 @@
 {
   "startTime": 1741364948328,
-  "endTime": 1741369088225,
+  "endTime": 1741372294049,
   "band_list": [
     {
       "raw_hot": 1045319,
@@ -145,6 +145,14 @@
       "onboard_time": 1741345101,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 158295,
+      "num": 165952,
+      "word": "张凯丽说35岁明明很年轻",
+      "onboard_time": 1741367119,
+      "rank": 9,
+      "category": "国内时政,艺人"
     },
     {
       "raw_hot": 158131,
@@ -379,6 +387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 70938,
+      "num": 70938,
+      "word": "张彬彬 我同意你上班我不能上班",
+      "onboard_time": 1741372155,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 70187,
       "num": 98624,
       "word": "陆虎陈曌旭回门宴",
@@ -475,12 +491,20 @@
       "category": "时尚,网红"
     },
     {
-      "raw_hot": 28598,
-      "num": 122131,
-      "word": "张凯丽说35岁明明很年轻",
-      "onboard_time": 1741367119,
-      "rank": 9,
-      "category": "国内时政,艺人"
+      "raw_hot": 27107,
+      "num": 37406,
+      "word": "李耕耘没别的爱好就爱霍霍蒋敦豪",
+      "onboard_time": 1741370296,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 23923,
+      "num": 37355,
+      "word": "唐奇好痛一滴泪",
+      "onboard_time": 1741370836,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 20835,
