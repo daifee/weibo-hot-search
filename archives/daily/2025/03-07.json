@@ -1,6 +1,6 @@
 {
   "startTime": 1741278581665,
-  "endTime": 1741347368858,
+  "endTime": 1741351423775,
   "band_list": [
     {
       "raw_hot": 15162205,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1858378,
-      "num": 209099,
+      "num": 292939,
       "word": "这居然是辣目洋子",
       "onboard_time": 1741341203,
       "rank": 12,
@@ -75,8 +75,16 @@
       "category": "电影"
     },
     {
+      "raw_hot": 940541,
+      "num": 940541,
+      "word": "今年将发育儿补贴",
+      "onboard_time": 1741346061,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 938223,
-      "num": 209133,
+      "num": 291611,
       "word": "主持人李静公开袒露绝经经历",
       "onboard_time": 1741340420,
       "rank": 15,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 885535,
-      "num": 281784,
+      "num": 302259,
       "word": "小鱼海棠给刚出生的儿子开通账号",
       "onboard_time": 1741338623,
       "rank": 11,
@@ -131,6 +139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 762615,
+      "num": 312298,
+      "word": "麦琳现在98斤",
+      "onboard_time": 1741346902,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 727687,
       "num": 310169,
       "word": "董力 pua",
@@ -164,7 +180,7 @@
     },
     {
       "raw_hot": 675073,
-      "num": 209162,
+      "num": 451142,
       "word": "章若楠 巴黎时装周",
       "onboard_time": 1741343782,
       "rank": 28,
@@ -260,7 +276,7 @@
     },
     {
       "raw_hot": 537900,
-      "num": 209156,
+      "num": 256233,
       "word": "陆虎陈曌旭回门宴",
       "onboard_time": 1741344623,
       "rank": 12,
@@ -283,8 +299,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 519945,
+      "num": 519945,
+      "word": "站雷军背后的海尔总裁周云杰走红",
+      "onboard_time": 1741345101,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 510699,
-      "num": 209123,
+      "num": 227656,
       "word": "麦琳回应女儿牙齿问题",
       "onboard_time": 1741342643,
       "rank": 33,
@@ -329,6 +353,14 @@
       "onboard_time": 1741315820,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 442735,
+      "num": 308680,
+      "word": "没有追星人能平静看完这个视频",
+      "onboard_time": 1741345882,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 435127,
@@ -395,12 +427,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 394602,
+      "num": 302915,
+      "word": "陶喆抢票",
+      "onboard_time": 1741350020,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 390849,
       "num": 216221,
       "word": "北京电影学院回应何凯文英一89分",
       "onboard_time": 1741340241,
       "rank": 22,
       "category": "教育"
+    },
+    {
+      "raw_hot": 388270,
+      "num": 299731,
+      "word": "章若楠外网生图",
+      "onboard_time": 1741350681,
+      "rank": 17,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 388114,
@@ -417,6 +465,14 @@
       "onboard_time": 1741321103,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 380476,
+      "num": 380476,
+      "word": "张凯丽谈35岁就业门槛",
+      "onboard_time": 1741346662,
+      "rank": 14,
+      "category": "国内时政,艺人"
     },
     {
       "raw_hot": 379162,
@@ -555,12 +611,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 318410,
+      "num": 318410,
+      "word": "北上断更",
+      "onboard_time": 1741350622,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 316423,
       "num": 271202,
       "word": "Hanni说记不清ILLIT的无视事件",
       "onboard_time": 1741326564,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 315184,
+      "num": 315184,
+      "word": "女店员偷偷哭泣同事查完监控被暖到",
+      "onboard_time": 1741340782,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 311331,
@@ -577,14 +649,6 @@
       "onboard_time": 1741338741,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 308461,
-      "num": 308461,
-      "word": "女店员偷偷哭泣同事查完监控被暖到",
-      "onboard_time": 1741340782,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 307267,
@@ -715,6 +779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 273258,
+      "num": 273258,
+      "word": "台湾从来不是一个国家",
+      "onboard_time": 1741332442,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 270431,
       "num": 569013,
       "word": "中国进口乌克兰豌豆和水产品",
@@ -755,14 +827,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 255149,
-      "num": 182251,
-      "word": "麦琳现在98斤",
-      "onboard_time": 1741346902,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 254573,
       "num": 201740,
       "word": "汪苏泷北京抢票",
@@ -787,20 +851,28 @@
       "category": "美食"
     },
     {
-      "raw_hot": 247225,
-      "num": 179826,
-      "word": "今年将发育儿补贴",
-      "onboard_time": 1741346061,
-      "rank": 40,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 245597,
       "num": 287805,
       "word": "电影女足阵容",
       "onboard_time": 1741335803,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 244725,
+      "num": 244725,
+      "word": "金泰妍状态",
+      "onboard_time": 1741350861,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 244529,
+      "num": 294424,
+      "word": "李兰迪对了半个月的账终于平了",
+      "onboard_time": 1741351283,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 243995,
@@ -827,14 +899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 231277,
-      "num": 231277,
-      "word": "台湾从来不是一个国家",
-      "onboard_time": 1741332442,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 230538,
       "num": 242201,
       "word": "你好星期六宿舍",
@@ -849,6 +913,14 @@
       "onboard_time": 1741257622,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 227387,
+      "num": 296508,
+      "word": "我从非洲带回一包米被王毅点名了",
+      "onboard_time": 1741347561,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 224559,
@@ -987,14 +1059,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 204430,
-      "num": 204430,
-      "word": "站雷军背后的海尔总裁周云杰走红",
-      "onboard_time": 1741345101,
-      "rank": 41,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 203165,
       "num": 258087,
       "word": "程潇向阳花人设",
@@ -1129,6 +1193,14 @@
       "onboard_time": 1741343782,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 188217,
+      "num": 188217,
+      "word": "原来是演播厅还以为到胡静家了",
+      "onboard_time": 1741350441,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 187653,
@@ -1315,6 +1387,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 167897,
+      "num": 167897,
+      "word": "景甜生图轻轻秒了",
+      "onboard_time": 1741347141,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167658,
       "num": 167658,
       "word": "哪吒2票房破146亿",
@@ -1467,6 +1547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153636,
+      "num": 211811,
+      "word": "爱你",
+      "onboard_time": 1741350921,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153278,
       "num": 153278,
       "word": "何凯文间接持有文都教育股份",
@@ -1593,22 +1681,6 @@
       "onboard_time": 1741273942,
       "rank": 8,
       "category": "数码"
-    },
-    {
-      "raw_hot": 145623,
-      "num": 145623,
-      "word": "没有追星人能平静看完这个视频",
-      "onboard_time": 1741345882,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 145416,
-      "num": 145416,
-      "word": "景甜生图轻轻秒了",
-      "onboard_time": 1741347141,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 143386,
@@ -1755,6 +1827,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 132949,
+      "num": 132949,
+      "word": "直男为出片肉眼可见的努力",
+      "onboard_time": 1741351283,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 132364,
       "num": 163070,
       "word": "似锦直播",
@@ -1817,6 +1897,14 @@
       "onboard_time": 1741333761,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126069,
+      "num": 126069,
+      "word": "恋与制作人",
+      "onboard_time": 1741350380,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 125995,
@@ -1931,6 +2019,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118856,
+      "num": 118856,
+      "word": "似锦婆婆逼媳妇跪台阶求子",
+      "onboard_time": 1741350020,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 117335,
+      "num": 297778,
+      "word": "祝绪丹直播",
+      "onboard_time": 1741350082,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116570,
       "num": 100945,
       "word": "土象星座真心喜欢你的表现",
@@ -2003,12 +2107,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 110819,
+      "num": 314579,
+      "word": "北京世界妇女峰会",
+      "onboard_time": 1741350741,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 110658,
       "num": 124663,
       "word": "北上父子关系",
       "onboard_time": 1741316540,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109698,
+      "num": 109698,
+      "word": "于适李昀锐范丞丞G社生图",
+      "onboard_time": 1741351403,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 109283,
@@ -2059,6 +2179,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 107165,
+      "num": 107165,
+      "word": "外长记者会这些回答很提气",
+      "onboard_time": 1741350501,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 105397,
       "num": 105397,
       "word": "小鸟海拔4000米住上精装房",
@@ -2073,6 +2201,14 @@
       "onboard_time": 1741316300,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 104525,
+      "num": 104525,
+      "word": "RW周决赛吃鸡",
+      "onboard_time": 1741351161,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 103993,
@@ -2137,6 +2273,14 @@
       "onboard_time": 1741262720,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102018,
+      "num": 102018,
+      "word": "仁心俱乐部",
+      "onboard_time": 1741350802,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 101443,
@@ -2580,7 +2724,7 @@
     },
     {
       "raw_hot": 55434,
-      "num": 209103,
+      "num": 305201,
       "word": "山区农村冬天怎么吃上新鲜蔬菜",
       "onboard_time": 1741343661,
       "rank": 35,
@@ -2691,14 +2835,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 46604,
-      "num": 186593,
-      "word": "张凯丽谈35岁就业门槛",
-      "onboard_time": 1741346662,
-      "rank": 14,
-      "category": "国内时政,艺人"
-    },
-    {
       "raw_hot": 45785,
       "num": 45785,
       "word": "中国用一句古语回应美国",
@@ -2771,6 +2907,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 35817,
+      "num": 98914,
+      "word": "文艺创作会被AI拿捏吗",
+      "onboard_time": 1741349242,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 35583,
       "num": 65027,
       "word": "想飞的女孩心中的乌鸦",
@@ -2817,6 +2961,14 @@
       "onboard_time": 1741328783,
       "rank": 29,
       "category": "国内时政,教育"
+    },
+    {
+      "raw_hot": 33549,
+      "num": 107646,
+      "word": "3月7日珠海航展有向往的大动作",
+      "onboard_time": 1741347500,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 32956,
@@ -2891,8 +3043,16 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 28378,
+      "num": 307372,
+      "word": "建议将技工教育学历纳入学历认证体系",
+      "onboard_time": 1741350561,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 28183,
-      "num": 539773,
+      "num": 875563,
       "word": "速览外交主题记者会",
       "onboard_time": 1741342102,
       "rank": 2,
@@ -2985,6 +3145,14 @@
       "onboard_time": 1741284616,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 17022,
+      "num": 204349,
+      "word": "福利院为残障孤独症青少年创办咖啡厅",
+      "onboard_time": 1741350622,
+      "rank": 29,
+      "category": "正能量"
     },
     {
       "raw_hot": 16886,
