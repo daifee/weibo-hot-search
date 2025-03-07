@@ -1,0 +1,410 @@
+{
+  "runTime": 1741352373943,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1497420,
+        "num": 1497420,
+        "word": "中国台湾省",
+        "onboard_time": 1741316840,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 912234,
+        "num": 912234,
+        "word": "今年将发育儿补贴",
+        "onboard_time": 1741346061,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 26967,
+        "num": 693134,
+        "word": "速览外交主题记者会",
+        "onboard_time": 1741342102,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 666173,
+        "num": 666173,
+        "word": "中俄决定永久睦邻友好",
+        "onboard_time": 1741344562,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 489421,
+        "num": 489421,
+        "word": "站雷军背后的海尔总裁周云杰走红",
+        "onboard_time": 1741345101,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 391396,
+        "num": 391396,
+        "word": "张凯丽谈35岁就业门槛",
+        "onboard_time": 1741346662,
+        "rank": 5,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 330123,
+        "num": 330123,
+        "word": "章若楠 巴黎时装周",
+        "onboard_time": 1741343782,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 301890,
+        "num": 301890,
+        "word": "北上断更",
+        "onboard_time": 1741350622,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248798,
+        "num": 248798,
+        "word": "女店员偷偷哭泣同事查完监控被暖到",
+        "onboard_time": 1741340782,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223408,
+        "num": 223408,
+        "word": "台湾从来不是一个国家",
+        "onboard_time": 1741332442,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 671935,
+        "num": 223306,
+        "word": "麦琳现在98斤",
+        "onboard_time": 1741346902,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1030997,
+        "num": 223134,
+        "word": "章若楠外网生图",
+        "onboard_time": 1741350681,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 507697,
+        "num": 223077,
+        "word": "赵一博 我和雪梨在一起是事实",
+        "onboard_time": 1741325063,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40981,
+        "num": 222901,
+        "word": "建议将技工教育学历纳入学历认证体系",
+        "onboard_time": 1741350561,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 8183,
+        "num": 222671,
+        "word": "山区农村冬天怎么吃上新鲜蔬菜",
+        "onboard_time": 1741343661,
+        "rank": 14,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 465446,
+        "num": 222526,
+        "word": "金泰妍状态",
+        "onboard_time": 1741350861,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 452160,
+        "num": 222491,
+        "word": "没有追星人能平静看完这个视频",
+        "onboard_time": 1741345882,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 366424,
+        "num": 222256,
+        "word": "陶喆抢票",
+        "onboard_time": 1741350020,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 334685,
+        "num": 222217,
+        "word": "李兰迪对了半个月的账终于平了",
+        "onboard_time": 1741351283,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46428,
+        "num": 222015,
+        "word": "翟潇闻直播",
+        "onboard_time": 1741351521,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124539,
+        "num": 221924,
+        "word": "北京世界妇女峰会",
+        "onboard_time": 1741350741,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1083221,
+        "num": 221697,
+        "word": "这居然是辣目洋子",
+        "onboard_time": 1741341203,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355855,
+        "num": 221621,
+        "word": "小鱼海棠给刚出生的儿子开通账号",
+        "onboard_time": 1741338623,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 304304,
+        "num": 221420,
+        "word": "主持人李静公开袒露绝经经历",
+        "onboard_time": 1741340420,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221332,
+        "num": 221332,
+        "word": "唐奇被骗了21集半分钟哄好了",
+        "onboard_time": 1741344682,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203551,
+        "num": 203551,
+        "word": "袁启聪向享界S9飞坡事件致歉",
+        "onboard_time": 1741351461,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 199380,
+        "num": 199380,
+        "word": "陆虎陈曌旭回门宴",
+        "onboard_time": 1741344623,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144133,
+        "num": 197495,
+        "word": "爱你",
+        "onboard_time": 1741350921,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27143,
+        "num": 197439,
+        "word": "福利院为残障孤独症青少年创办咖啡厅",
+        "onboard_time": 1741350622,
+        "rank": 28,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 99873,
+        "num": 197403,
+        "word": "外长记者会这些回答很提气",
+        "onboard_time": 1741350501,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 197383,
+        "num": 197383,
+        "word": "我从非洲带回一包米被王毅点名了",
+        "onboard_time": 1741347561,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197210,
+        "num": 197210,
+        "word": "于适李昀锐范丞丞G社生图",
+        "onboard_time": 1741351403,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 186575,
+        "num": 186575,
+        "word": "直男为出片肉眼可见的努力",
+        "onboard_time": 1741351283,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160858,
+        "num": 160858,
+        "word": "麦琳回应女儿牙齿问题",
+        "onboard_time": 1741342643,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159617,
+        "num": 159617,
+        "word": "正起草育儿补贴方案",
+        "onboard_time": 1741335022,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 157632,
+        "num": 157632,
+        "word": "曝iPhone17ProMax变厚了",
+        "onboard_time": 1741340302,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 152212,
+        "num": 152212,
+        "word": "景甜生图轻轻秒了",
+        "onboard_time": 1741347141,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151832,
+        "num": 151832,
+        "word": "当独生子女开始遭遇父母重病",
+        "onboard_time": 1741337782,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145391,
+        "num": 145391,
+        "word": "年轻人的胃癌发病率增长近80%",
+        "onboard_time": 1741342282,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136976,
+        "num": 136976,
+        "word": "2025全国两会",
+        "onboard_time": 1741342580,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 130527,
+        "num": 130527,
+        "word": "原来是演播厅还以为到胡静家了",
+        "onboard_time": 1741350441,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120662,
+        "num": 120662,
+        "word": "北京电影学院回应何凯文英一89分",
+        "onboard_time": 1741340241,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 119401,
+        "num": 119401,
+        "word": "女子生完孩子第5天生育金到账",
+        "onboard_time": 1741341383,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106311,
+        "num": 106311,
+        "word": "恋与制作人",
+        "onboard_time": 1741350380,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 101798,
+        "num": 101798,
+        "word": "建议给应届生3至5年社保补贴",
+        "onboard_time": 1741352061,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 95390,
+        "num": 95390,
+        "word": "民宿老板3千网购小熊被索赔3.8万",
+        "onboard_time": 1741334421,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90947,
+        "num": 90947,
+        "word": "女子从8楼丢下3个花盆被判刑",
+        "onboard_time": 1741334841,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89361,
+        "num": 89361,
+        "word": "RW周决赛吃鸡",
+        "onboard_time": 1741351161,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 89268,
+        "num": 89268,
+        "word": "伊能静带女儿去洗浴中心",
+        "onboard_time": 1741349182,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71175,
+        "num": 86494,
+        "word": "仁心俱乐部",
+        "onboard_time": 1741350802,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#强化教育对科技和人才支撑作用#"
+    }
+  }
+}

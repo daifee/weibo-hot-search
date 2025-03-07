@@ -1,6 +1,6 @@
 {
   "startTime": 1741278581665,
-  "endTime": 1741351423775,
+  "endTime": 1741352373943,
   "band_list": [
     {
       "raw_hot": 15162205,
@@ -65,6 +65,14 @@
       "onboard_time": 1741344562,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1030997,
+      "num": 299731,
+      "word": "章若楠外网生图",
+      "onboard_time": 1741350681,
+      "rank": 17,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 961084,
@@ -339,6 +347,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 465446,
+      "num": 244725,
+      "word": "金泰妍状态",
+      "onboard_time": 1741350861,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 452160,
+      "num": 308680,
+      "word": "没有追星人能平静看完这个视频",
+      "onboard_time": 1741345882,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 447678,
       "num": 216208,
       "word": "周思成回应英一考77分",
@@ -353,14 +377,6 @@
       "onboard_time": 1741315820,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 442735,
-      "num": 308680,
-      "word": "没有追星人能平静看完这个视频",
-      "onboard_time": 1741345882,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 435127,
@@ -435,20 +451,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 391396,
+      "num": 391396,
+      "word": "张凯丽谈35岁就业门槛",
+      "onboard_time": 1741346662,
+      "rank": 14,
+      "category": "国内时政,艺人"
+    },
+    {
       "raw_hot": 390849,
       "num": 216221,
       "word": "北京电影学院回应何凯文英一89分",
       "onboard_time": 1741340241,
       "rank": 22,
       "category": "教育"
-    },
-    {
-      "raw_hot": 388270,
-      "num": 299731,
-      "word": "章若楠外网生图",
-      "onboard_time": 1741350681,
-      "rank": 17,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 388114,
@@ -465,14 +481,6 @@
       "onboard_time": 1741321103,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 380476,
-      "num": 380476,
-      "word": "张凯丽谈35岁就业门槛",
-      "onboard_time": 1741346662,
-      "rank": 14,
-      "category": "国内时政,艺人"
     },
     {
       "raw_hot": 379162,
@@ -561,6 +569,14 @@
       "onboard_time": 1741317079,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 334685,
+      "num": 294424,
+      "word": "李兰迪对了半个月的账终于平了",
+      "onboard_time": 1741351283,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 329228,
@@ -859,22 +875,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 244725,
-      "num": 244725,
-      "word": "金泰妍状态",
-      "onboard_time": 1741350861,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 244529,
-      "num": 294424,
-      "word": "李兰迪对了半个月的账终于平了",
-      "onboard_time": 1741351283,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 243995,
       "num": 243995,
       "word": "接生了一辈子这次是女儿和外孙",
@@ -1059,6 +1059,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 203551,
+      "num": 203551,
+      "word": "袁启聪向享界S9飞坡事件致歉",
+      "onboard_time": 1741351461,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 203165,
       "num": 258087,
       "word": "程潇向阳花人设",
@@ -1105,6 +1113,14 @@
       "onboard_time": 1741323144,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197210,
+      "num": 197210,
+      "word": "于适李昀锐范丞丞G社生图",
+      "onboard_time": 1741351403,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 195971,
@@ -1225,6 +1241,14 @@
       "onboard_time": 1741339942,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186575,
+      "num": 186575,
+      "word": "直男为出片肉眼可见的努力",
+      "onboard_time": 1741351283,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 185461,
@@ -1827,14 +1851,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 132949,
-      "num": 132949,
-      "word": "直男为出片肉眼可见的努力",
-      "onboard_time": 1741351283,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 132364,
       "num": 163070,
       "word": "似锦直播",
@@ -1945,6 +1961,14 @@
       "onboard_time": 1741316120,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124539,
+      "num": 314579,
+      "word": "北京世界妇女峰会",
+      "onboard_time": 1741350741,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 124367,
@@ -2107,28 +2131,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 110819,
-      "num": 314579,
-      "word": "北京世界妇女峰会",
-      "onboard_time": 1741350741,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 110658,
       "num": 124663,
       "word": "北上父子关系",
       "onboard_time": 1741316540,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 109698,
-      "num": 109698,
-      "word": "于适李昀锐范丞丞G社生图",
-      "onboard_time": 1741351403,
-      "rank": 44,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 109283,
@@ -2180,7 +2188,7 @@
     },
     {
       "raw_hot": 107165,
-      "num": 107165,
+      "num": 197403,
       "word": "外长记者会这些回答很提气",
       "onboard_time": 1741350501,
       "rank": 46,
@@ -2281,6 +2289,14 @@
       "onboard_time": 1741350802,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101798,
+      "num": 101798,
+      "word": "建议给应届生3至5年社保补贴",
+      "onboard_time": 1741352061,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 101443,
@@ -2409,6 +2425,14 @@
       "onboard_time": 1741344442,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 89268,
+      "num": 89268,
+      "word": "伊能静带女儿去洗浴中心",
+      "onboard_time": 1741349182,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 89041,
@@ -2835,6 +2859,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 46428,
+      "num": 222015,
+      "word": "翟潇闻直播",
+      "onboard_time": 1741351521,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 45785,
       "num": 45785,
       "word": "中国用一句古语回应美国",
@@ -2881,6 +2913,14 @@
       "onboard_time": 1741327703,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40981,
+      "num": 307372,
+      "word": "建议将技工教育学历纳入学历认证体系",
+      "onboard_time": 1741350561,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 40043,
@@ -3043,14 +3083,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 28378,
-      "num": 307372,
-      "word": "建议将技工教育学历纳入学历认证体系",
-      "onboard_time": 1741350561,
-      "rank": 13,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 28183,
       "num": 875563,
       "word": "速览外交主题记者会",
@@ -3065,6 +3097,14 @@
       "onboard_time": 1741339403,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 27143,
+      "num": 204349,
+      "word": "福利院为残障孤独症青少年创办咖啡厅",
+      "onboard_time": 1741350622,
+      "rank": 29,
+      "category": "正能量"
     },
     {
       "raw_hot": 26551,
@@ -3145,14 +3185,6 @@
       "onboard_time": 1741284616,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 17022,
-      "num": 204349,
-      "word": "福利院为残障孤独症青少年创办咖啡厅",
-      "onboard_time": 1741350622,
-      "rank": 29,
-      "category": "正能量"
     },
     {
       "raw_hot": 16886,
