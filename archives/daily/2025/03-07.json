@@ -1,6 +1,6 @@
 {
   "startTime": 1741278581665,
-  "endTime": 1741332966597,
+  "endTime": 1741336176888,
   "band_list": [
     {
       "raw_hot": 15162205,
@@ -107,6 +107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 679556,
+      "num": 229483,
+      "word": "王大陆父亲一语成谶",
+      "onboard_time": 1741331061,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 673578,
       "num": 366068,
       "word": "美国星舰飞船失联",
@@ -129,14 +137,6 @@
       "onboard_time": 1741304059,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 595190,
-      "num": 225511,
-      "word": "王大陆父亲一语成谶",
-      "onboard_time": 1741331061,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 593988,
@@ -171,6 +171,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 571134,
+      "num": 246792,
+      "word": "赵丽颖掌公主回归",
+      "onboard_time": 1741332021,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 551197,
+      "num": 227383,
+      "word": "民宿老板3千网购小熊被索赔3.8万",
+      "onboard_time": 1741334421,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 530506,
       "num": 530506,
       "word": "十个勤天",
@@ -185,6 +201,14 @@
       "onboard_time": 1741302678,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 515337,
+      "num": 515337,
+      "word": "今年妇女节 我不再祝你美丽",
+      "onboard_time": 1741335081,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 495410,
@@ -209,6 +233,14 @@
       "onboard_time": 1741272862,
       "rank": 10,
       "category": "教育"
+    },
+    {
+      "raw_hot": 483414,
+      "num": 483414,
+      "word": "正起草育儿补贴方案",
+      "onboard_time": 1741335022,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 447678,
@@ -289,14 +321,6 @@
       "onboard_time": 1741321103,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 382709,
-      "num": 224361,
-      "word": "赵丽颖掌公主回归",
-      "onboard_time": 1741332021,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 379162,
@@ -523,6 +547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 277801,
+      "num": 225572,
+      "word": "张凌赫徐若晗浴室吻花絮",
+      "onboard_time": 1741333581,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 270431,
       "num": 569013,
       "word": "中国进口乌克兰豌豆和水产品",
@@ -595,11 +627,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230538,
+      "num": 230538,
+      "word": "你好星期六宿舍",
+      "onboard_time": 1741335860,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230259,
       "num": 250487,
       "word": "全国两会",
       "onboard_time": 1741257622,
       "rank": 36,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 224826,
+      "num": 227010,
+      "word": "台湾从来不是一个国家",
+      "onboard_time": 1741332442,
+      "rank": 9,
       "category": "国内时政"
     },
     {
@@ -803,14 +851,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 188491,
-      "num": 227010,
-      "word": "台湾从来不是一个国家",
-      "onboard_time": 1741332442,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 187520,
       "num": 187520,
       "word": "恋与深空第三视角",
@@ -849,6 +889,14 @@
       "onboard_time": 1741271181,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177968,
+      "num": 226933,
+      "word": "杨蓉演技",
+      "onboard_time": 1741334662,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 177572,
@@ -915,6 +963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171826,
+      "num": 171826,
+      "word": "王曼昱被推荐2025全国劳模",
+      "onboard_time": 1741333823,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170917,
       "num": 170917,
       "word": "姚明建议未成年人息屏24小时行动",
@@ -971,6 +1027,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 164524,
+      "num": 176221,
+      "word": "景甜一心想着自己的秋裤",
+      "onboard_time": 1741335442,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164266,
       "num": 164266,
       "word": "医生建议的玩手机正确姿势",
@@ -985,6 +1049,14 @@
       "onboard_time": 1741317020,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162470,
+      "num": 182996,
+      "word": "曾黎的微博里都是好好生活的痕迹",
+      "onboard_time": 1741333641,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 162404,
@@ -1083,6 +1155,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 150901,
+      "num": 150901,
+      "word": "建议家暴者离婚少分或不分财产",
+      "onboard_time": 1741333162,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 150587,
       "num": 150587,
       "word": "晓艳老师不语只是在一旁煮鸡汤",
@@ -1099,6 +1179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149300,
+      "num": 149300,
+      "word": "麦琳说现在李行亮带孩子更多",
+      "onboard_time": 1741331782,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148876,
       "num": 148876,
       "word": "哪吒",
@@ -1113,6 +1201,14 @@
       "onboard_time": 1741243877,
       "rank": 13,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 147798,
+      "num": 147798,
+      "word": "妻子节目组禁止虐待李承铉",
+      "onboard_time": 1741332981,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 145895,
@@ -1243,6 +1339,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 133250,
+      "num": 133250,
+      "word": "2035年中国女性平均寿命将达85岁",
+      "onboard_time": 1741334781,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132364,
       "num": 163070,
       "word": "似锦直播",
@@ -1257,14 +1361,6 @@
       "onboard_time": 1741277179,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 130188,
-      "num": 130188,
-      "word": "麦琳说现在李行亮带孩子更多",
-      "onboard_time": 1741331782,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 128780,
@@ -1289,6 +1385,14 @@
       "onboard_time": 1741316060,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 126084,
+      "num": 150437,
+      "word": "张晚意 这是我甜姐姐的味道",
+      "onboard_time": 1741333761,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 125995,
@@ -1371,6 +1475,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 119935,
+      "num": 119935,
+      "word": "建议降低城乡居民医保缴费标准",
+      "onboard_time": 1741332921,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 117503,
+      "num": 117503,
+      "word": "电影女足阵容",
+      "onboard_time": 1741335803,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 116570,
       "num": 100945,
       "word": "土象星座真心喜欢你的表现",
@@ -1396,7 +1516,7 @@
     },
     {
       "raw_hot": 115056,
-      "num": 141337,
+      "num": 226072,
       "word": "景甜扫楼点了蛋糕外卖",
       "onboard_time": 1741332562,
       "rank": 32,
@@ -1499,6 +1619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 103993,
+      "num": 103993,
+      "word": "Jennie演唱会造型好辣",
+      "onboard_time": 1741333882,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 103810,
       "num": 103810,
       "word": "吴宣仪黄杨钿甜将缺席五福临门庆功宴",
@@ -1516,7 +1644,7 @@
     },
     {
       "raw_hot": 102280,
-      "num": 102280,
+      "num": 228423,
       "word": "女性的职业反差可以有多绝",
       "onboard_time": 1741332501,
       "rank": 45,
@@ -1537,6 +1665,14 @@
       "onboard_time": 1741262720,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100718,
+      "num": 100718,
+      "word": "明日方舟",
+      "onboard_time": 1741335740,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 100110,
@@ -1579,12 +1715,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 94879,
+      "num": 94879,
+      "word": "邂逅宁夏西吉雾凇美景",
+      "onboard_time": 1741335261,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 90862,
       "num": 181409,
       "word": "打击盗版要压实平台责任",
       "onboard_time": 1741331542,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 90192,
+      "num": 225192,
+      "word": "女子从8楼丢下3个花盆被判刑",
+      "onboard_time": 1741334841,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89041,
@@ -1611,6 +1763,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 87771,
+      "num": 87771,
+      "word": "狗子的花期也这么短吗",
+      "onboard_time": 1741336101,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 85638,
       "num": 185747,
       "word": "阿诺担心公开会影响董力工作",
@@ -1633,6 +1793,14 @@
       "onboard_time": 1741311020,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82465,
+      "num": 120348,
+      "word": "胡一天愈夜愈美丽",
+      "onboard_time": 1741335921,
+      "rank": 35,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 79965,
@@ -1987,14 +2155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40077,
-      "num": 112581,
-      "word": "建议降低城乡居民医保缴费标准",
-      "onboard_time": 1741332921,
-      "rank": 39,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 40043,
       "num": 143735,
       "word": "自制鲜鸡汁",
@@ -2107,6 +2267,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 22880,
+      "num": 150378,
+      "word": "建议加大对家暴行为刑事打击力度",
+      "onboard_time": 1741335740,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 22717,
       "num": 38772,
       "word": "初音 母鸡卡",
@@ -2121,6 +2289,14 @@
       "onboard_time": 1741274662,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 18899,
+      "num": 227763,
+      "word": "妇女节美妆营销谁赢了",
+      "onboard_time": 1741334482,
+      "rank": 14,
+      "category": "美妆"
     },
     {
       "raw_hot": 18842,
