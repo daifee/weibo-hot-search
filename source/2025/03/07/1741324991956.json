@@ -1,0 +1,410 @@
+{
+  "runTime": 1741324991956,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 14776479,
+        "num": 14776479,
+        "word": "中国台湾省",
+        "onboard_time": 1741316840,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1480964,
+        "num": 1480964,
+        "word": "借台湾生事就是给日本找事",
+        "onboard_time": 1741318161,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 66577,
+        "num": 1031260,
+        "word": "3月7日两会日程",
+        "onboard_time": 1741321404,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 765128,
+        "num": 765128,
+        "word": "难哄改编",
+        "onboard_time": 1741322784,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 415857,
+        "num": 415857,
+        "word": "被砍掉的飞天小女警真人版片段泄露",
+        "onboard_time": 1741320505,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 386695,
+        "num": 386695,
+        "word": "临近边界的缅北电诈园区已全部清除",
+        "onboard_time": 1741318644,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 382787,
+        "num": 382787,
+        "word": "今年是台湾光复80周年",
+        "onboard_time": 1741321103,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 329228,
+        "num": 329228,
+        "word": "韩国法院批准释放尹锡悦",
+        "onboard_time": 1741324225,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 311331,
+        "num": 311331,
+        "word": "实现祖国完全统一是大势所趋大义所在",
+        "onboard_time": 1741318404,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 307267,
+        "num": 307267,
+        "word": "在人民大会堂哭了",
+        "onboard_time": 1741323264,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 809946,
+        "num": 305588,
+        "word": "赵丽颖监狱服造型",
+        "onboard_time": 1741318522,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 689355,
+        "num": 304170,
+        "word": "祝她铮铮 祝她昂扬",
+        "onboard_time": 1741321344,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 673409,
+        "num": 301911,
+        "word": "姚安娜演技",
+        "onboard_time": 1741319663,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 580282,
+        "num": 299813,
+        "word": "何凯文曾评价刘晓艳讲英语是祸害人",
+        "onboard_time": 1741323564,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 58488,
+        "num": 298254,
+        "word": "代表麦家建议立法规范AI写作",
+        "onboard_time": 1741323264,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 404068,
+        "num": 294066,
+        "word": "涉王大陆案警员升职被叫停",
+        "onboard_time": 1741324103,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395656,
+        "num": 293467,
+        "word": "男子开网店自买自卖薅运费险200多万",
+        "onboard_time": 1741321584,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291528,
+        "num": 291528,
+        "word": "王毅谈特朗普不停退群",
+        "onboard_time": 1741314441,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 98724,
+        "num": 287754,
+        "word": "易梦玲巴黎时装周生图状态",
+        "onboard_time": 1741324044,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 70004,
+        "num": 285259,
+        "word": "AI可筛查甲状腺结节是否恶性",
+        "onboard_time": 1741323804,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 364693,
+        "num": 285235,
+        "word": "高圆圆时隔11年再打卡比萨斜塔",
+        "onboard_time": 1741321103,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284609,
+        "num": 284609,
+        "word": "5岁女儿偷拍妈妈独自干活发给爸爸",
+        "onboard_time": 1741323624,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281525,
+        "num": 281525,
+        "word": "工作中千万不要散发弱者气息",
+        "onboard_time": 1741304059,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246779,
+        "num": 246779,
+        "word": "英一考77分是什么概念",
+        "onboard_time": 1741317260,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 65188,
+        "num": 236027,
+        "word": "库里神奇三分",
+        "onboard_time": 1741317020,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230238,
+        "num": 230238,
+        "word": "王一博登顶照片成地标了",
+        "onboard_time": 1741311081,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216666,
+        "num": 216666,
+        "word": "中国进口乌克兰豌豆和水产品",
+        "onboard_time": 1741322724,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 206140,
+        "num": 206140,
+        "word": "外交部长王毅答记者问",
+        "onboard_time": 1741312700,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 163403,
+        "num": 204598,
+        "word": "程潇向阳花人设",
+        "onboard_time": 1741321404,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115336,
+        "num": 202057,
+        "word": "网红老板带低智发小带货被质疑炒作",
+        "onboard_time": 1741324404,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254573,
+        "num": 201740,
+        "word": "汪苏泷北京抢票",
+        "onboard_time": 1741324825,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 52717,
+        "num": 199410,
+        "word": "刘昊然西装松弛感",
+        "onboard_time": 1741320384,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197557,
+        "num": 197557,
+        "word": "NewJeans全员出席庭审",
+        "onboard_time": 1741323144,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193005,
+        "num": 193005,
+        "word": "其实旅游是最检验友情和人品的",
+        "onboard_time": 1741324284,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192523,
+        "num": 192523,
+        "word": "难哄",
+        "onboard_time": 1741310540,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176293,
+        "num": 191511,
+        "word": "桑延暴揍车兴德",
+        "onboard_time": 1741323744,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191421,
+        "num": 191421,
+        "word": "易梦玲湿发美人鱼",
+        "onboard_time": 1741323983,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 187520,
+        "num": 187520,
+        "word": "恋与深空第三视角",
+        "onboard_time": 1741322544,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167518,
+        "num": 167518,
+        "word": "Manus",
+        "onboard_time": 1741306461,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 166003,
+        "num": 166003,
+        "word": "黎深愿缘长",
+        "onboard_time": 1741320024,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132364,
+        "num": 163070,
+        "word": "似锦直播",
+        "onboard_time": 1741324944,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161928,
+        "num": 161928,
+        "word": "假如你从三月开始坚持早睡",
+        "onboard_time": 1741317079,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156097,
+        "num": 156097,
+        "word": "瞿颖送胡兵泰国游当生日礼物",
+        "onboard_time": 1741322664,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152937,
+        "num": 152937,
+        "word": "Asen巡演官宣",
+        "onboard_time": 1741324825,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150718,
+        "num": 150718,
+        "word": "暴风雨最猛烈的地方恰是哪吒闹海舞台",
+        "onboard_time": 1741321702,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 139022,
+        "num": 139022,
+        "word": "NJZ说受到和LESSERAFIM区别对待",
+        "onboard_time": 1741319243,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81181,
+        "num": 138564,
+        "word": "两会新词热词双语卡片",
+        "onboard_time": 1741309342,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 138389,
+        "num": 138389,
+        "word": "Jennie新专",
+        "onboard_time": 1741308562,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 137818,
+        "num": 137818,
+        "word": "董力一家四口全家福",
+        "onboard_time": 1741312941,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134221,
+        "num": 134221,
+        "word": "张学友广州演唱会取消",
+        "onboard_time": 1741324584,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#全国两会上习近平再提两链#"
+    }
+  }
+}
