@@ -1,6 +1,6 @@
 {
   "startTime": 1741364948328,
-  "endTime": 1741386905390,
+  "endTime": 1741389535934,
   "band_list": [
     {
       "raw_hot": 1045319,
@@ -17,6 +17,14 @@
       "onboard_time": 1741365739,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 599262,
+      "num": 776507,
+      "word": "你一票我一票我们周总也出道",
+      "onboard_time": 1741360942,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 533751,
@@ -91,20 +99,28 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 226916,
-      "num": 226916,
-      "word": "你一票我一票我们周总也出道",
-      "onboard_time": 1741360942,
-      "rank": 8,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 217659,
       "num": 217659,
       "word": "周云杰回应和雷军同框后走红",
       "onboard_time": 1741353742,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 204289,
+      "num": 109009,
+      "word": "戚薇李承铉每天在厕所聊好几个小时",
+      "onboard_time": 1741358902,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 188975,
+      "num": 188975,
+      "word": "妇女节",
+      "onboard_time": 1741364181,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185589,
@@ -131,11 +147,11 @@
       "category": "网红"
     },
     {
-      "raw_hot": 170843,
-      "num": 170843,
-      "word": "妇女节",
-      "onboard_time": 1741364181,
-      "rank": 6,
+      "raw_hot": 173424,
+      "num": 108547,
+      "word": "当独生子女开始遭遇父母重病",
+      "onboard_time": 1741337782,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -185,6 +201,14 @@
       "onboard_time": 1741364602,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 135552,
+      "num": 135552,
+      "word": "赵又廷从过期到翻红只差个反转",
+      "onboard_time": 1741381274,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 134820,
@@ -241,6 +265,14 @@
       "onboard_time": 1741372155,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105904,
+      "num": 105904,
+      "word": "育儿补贴会有直接惠民措施",
+      "onboard_time": 1741363041,
+      "rank": 46,
+      "category": "国内时政,母婴育儿"
     },
     {
       "raw_hot": 105552,
@@ -315,28 +347,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 93281,
-      "num": 93281,
-      "word": "赵又廷从过期到翻红只差个反转",
-      "onboard_time": 1741381274,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 89350,
       "num": 98659,
       "word": "建议规范幼师编制",
       "onboard_time": 1741361482,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 88557,
-      "num": 99064,
-      "word": "当独生子女开始遭遇父母重病",
-      "onboard_time": 1741337782,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 85793,
@@ -379,14 +395,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 73154,
-      "num": 98422,
-      "word": "戚薇李承铉每天在厕所聊好几个小时",
-      "onboard_time": 1741358902,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 72905,
       "num": 85006,
       "word": "主持人李静公开袒露绝经经历",
@@ -411,12 +419,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 69035,
-      "num": 98344,
-      "word": "育儿补贴会有直接惠民措施",
-      "onboard_time": 1741363041,
-      "rank": 46,
-      "category": "国内时政,母婴育儿"
+      "raw_hot": 60838,
+      "num": 110609,
+      "word": "向女同胞致以节日问候",
+      "onboard_time": 1741389198,
+      "rank": 9,
+      "category": "民生新闻,国内时政"
     },
     {
       "raw_hot": 56912,
@@ -425,6 +433,14 @@
       "onboard_time": 1741362622,
       "rank": 47,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 54766,
+      "num": 54766,
+      "word": "海尔兄弟续集要来了",
+      "onboard_time": 1741386975,
+      "rank": 22,
+      "category": "国内时政,动漫"
     },
     {
       "raw_hot": 54159,
@@ -499,6 +515,14 @@
       "category": "时尚,网红"
     },
     {
+      "raw_hot": 30928,
+      "num": 41961,
+      "word": "泽连斯基呼吁部分停火",
+      "onboard_time": 1741355362,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 27107,
       "num": 40251,
       "word": "李耕耘没别的爱好就爱霍霍蒋敦豪",
@@ -507,12 +531,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26530,
+      "num": 41949,
+      "word": "文莱对中国公民14天免签3月8日实施",
+      "onboard_time": 1741377615,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 25038,
       "num": 26406,
       "word": "苦尽柑来遇见你",
       "onboard_time": 1741374075,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 24557,
+      "num": 41941,
+      "word": "冈比亚农民把他种的大米送到湖南",
+      "onboard_time": 1741373416,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 23923,
@@ -531,14 +571,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 20373,
-      "num": 40232,
-      "word": "泽连斯基呼吁部分停火",
-      "onboard_time": 1741355362,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 20302,
       "num": 24052,
       "word": "要坚持勤俭建军",
@@ -555,27 +587,19 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 19800,
+      "num": 49454,
+      "word": "没有人能定义的女性",
+      "onboard_time": 1741389317,
+      "rank": 24,
+      "category": "情感,剧集"
+    },
+    {
       "raw_hot": 19251,
       "num": 22936,
       "word": "在中国看来朋友是永远的",
       "onboard_time": 1741380074,
       "rank": 26,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 17965,
-      "num": 22937,
-      "word": "文莱对中国公民14天免签3月8日实施",
-      "onboard_time": 1741377615,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 15268,
-      "num": 22936,
-      "word": "冈比亚农民把他种的大米送到湖南",
-      "onboard_time": 1741373416,
-      "rank": 47,
       "category": "国内时政"
     },
     {
