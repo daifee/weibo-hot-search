@@ -1,6 +1,6 @@
 {
   "startTime": 1741364948328,
-  "endTime": 1741368020592,
+  "endTime": 1741369088225,
   "band_list": [
     {
       "raw_hot": 1045319,
@@ -195,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120941,
+      "num": 120941,
+      "word": "赵小童在电光火石中收工",
+      "onboard_time": 1741366100,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118344,
       "num": 114217,
       "word": "林心如看秀状态",
@@ -209,14 +217,6 @@
       "onboard_time": 1741362803,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 114790,
-      "num": 114790,
-      "word": "赵小童在电光火石中收工",
-      "onboard_time": 1741366100,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 113974,
@@ -428,11 +428,27 @@
     },
     {
       "raw_hot": 43361,
-      "num": 61398,
+      "num": 78582,
       "word": "麦琳回应女儿牙齿问题",
       "onboard_time": 1741342643,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 39563,
+      "num": 78653,
+      "word": "林一你招手我真的会过来",
+      "onboard_time": 1741367898,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 38214,
+      "num": 78608,
+      "word": "想飞的女孩",
+      "onboard_time": 1741368677,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 36015,
@@ -444,7 +460,7 @@
     },
     {
       "raw_hot": 35257,
-      "num": 61297,
+      "num": 78500,
       "word": "苏新皓感谢黄磊",
       "onboard_time": 1741367478,
       "rank": 47,
@@ -452,11 +468,19 @@
     },
     {
       "raw_hot": 32311,
-      "num": 61286,
+      "num": 78452,
       "word": "生命是一万次的春和景明",
       "onboard_time": 1741367180,
       "rank": 48,
       "category": "时尚,网红"
+    },
+    {
+      "raw_hot": 28598,
+      "num": 122131,
+      "word": "张凯丽说35岁明明很年轻",
+      "onboard_time": 1741367119,
+      "rank": 9,
+      "category": "国内时政,艺人"
     },
     {
       "raw_hot": 20835,
