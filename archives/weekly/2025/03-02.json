@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1741316372919,
+  "endTime": 1741316925215,
   "band_list": [
     {
       "raw_hot": 13760834,
@@ -988,7 +988,7 @@
     },
     {
       "raw_hot": 913407,
-      "num": 245850,
+      "num": 291188,
       "word": "董力一家四口全家福",
       "onboard_time": 1741312941,
       "rank": 18,
@@ -1355,6 +1355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 769591,
+      "num": 769591,
+      "word": "王毅谈特朗普不停退群",
+      "onboard_time": 1741314441,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 764263,
       "num": 201485,
       "word": "李威对被虐待死者说不要再装了",
@@ -1497,14 +1505,6 @@
       "onboard_time": 1741261341,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 709442,
-      "num": 709442,
-      "word": "王毅谈特朗普不停退群",
-      "onboard_time": 1741314441,
-      "rank": 3,
-      "category": "国内时政"
     },
     {
       "raw_hot": 704826,
@@ -1804,7 +1804,7 @@
     },
     {
       "raw_hot": 633122,
-      "num": 251164,
+      "num": 286344,
       "word": "工作中千万不要散发弱者气息",
       "onboard_time": 1741304059,
       "rank": 33,
@@ -2020,7 +2020,7 @@
     },
     {
       "raw_hot": 593988,
-      "num": 249594,
+      "num": 288599,
       "word": "王一博登顶照片成地标了",
       "onboard_time": 1741311081,
       "rank": 19,
@@ -2555,6 +2555,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 495410,
+      "num": 278484,
+      "word": "女足开机",
+      "onboard_time": 1741312761,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 494762,
       "num": 355382,
       "word": "李威或免除刑罚",
@@ -2825,14 +2833,6 @@
       "onboard_time": 1741235780,
       "rank": 18,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 451003,
-      "num": 230953,
-      "word": "女足开机",
-      "onboard_time": 1741312761,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 450870,
@@ -3580,7 +3580,7 @@
     },
     {
       "raw_hot": 365877,
-      "num": 246343,
+      "num": 265808,
       "word": "高额彩礼受谴责对象不该是女性",
       "onboard_time": 1741305441,
       "rank": 13,
@@ -4083,6 +4083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 328931,
+      "num": 328931,
+      "word": "十个勤天",
+      "onboard_time": 1741313421,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 328384,
       "num": 328384,
       "word": "滤镜乱成一锅粥了快吃了吧",
@@ -4441,6 +4449,14 @@
       "onboard_time": 1741191735,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 299491,
+      "num": 299491,
+      "word": "赵丽颖新角色狠劲",
+      "onboard_time": 1741315820,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 299252,
@@ -4825,6 +4841,14 @@
       "onboard_time": 1740904818,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 275565,
+      "num": 275565,
+      "word": "孙颖莎肯德基",
+      "onboard_time": 1741315701,
+      "rank": 33,
+      "category": "体育,美食"
     },
     {
       "raw_hot": 275516,
@@ -5587,6 +5611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 235001,
+      "num": 235001,
+      "word": "Manus合伙人紧急澄清",
+      "onboard_time": 1741315100,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 234544,
       "num": 331502,
       "word": "王传福说科技无国界",
@@ -6243,14 +6275,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 211172,
-      "num": 232684,
-      "word": "赵丽颖新角色狠劲",
-      "onboard_time": 1741315820,
-      "rank": 13,
-      "category": "电影"
-    },
-    {
       "raw_hot": 210854,
       "num": 210854,
       "word": "kfc 第五人格",
@@ -6265,14 +6289,6 @@
       "onboard_time": 1741067778,
       "rank": 33,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 210522,
-      "num": 210522,
-      "word": "Manus合伙人紧急澄清",
-      "onboard_time": 1741315100,
-      "rank": 32,
-      "category": "互联网"
     },
     {
       "raw_hot": 210247,
@@ -6483,14 +6499,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 205556,
-      "num": 205556,
-      "word": "孙颖莎肯德基",
-      "onboard_time": 1741315701,
-      "rank": 33,
-      "category": "体育,美食"
-    },
-    {
       "raw_hot": 205499,
       "num": 205499,
       "word": "王一博探索新境裸上身",
@@ -6529,6 +6537,14 @@
       "onboard_time": 1740999498,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205209,
+      "num": 1032833,
+      "word": "外交部长王毅答记者问",
+      "onboard_time": 1741312700,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 205137,
@@ -6689,14 +6705,6 @@
       "onboard_time": 1740896780,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 202340,
-      "num": 231859,
-      "word": "十个勤天",
-      "onboard_time": 1741313421,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 202263,
@@ -7049,14 +7057,6 @@
       "onboard_time": 1741312281,
       "rank": 14,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 193221,
-      "num": 1030915,
-      "word": "外交部长王毅答记者问",
-      "onboard_time": 1741312700,
-      "rank": 4,
-      "category": "国内时政"
     },
     {
       "raw_hot": 193204,
@@ -7771,6 +7771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175420,
+      "num": 175420,
+      "word": "SnackPaper 丁禹兮",
+      "onboard_time": 1741316120,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175405,
       "num": 255519,
       "word": "济南降雪量达到大暴雪",
@@ -7931,11 +7939,35 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172036,
+      "num": 293540,
+      "word": "王毅对美国发出5问",
+      "onboard_time": 1741315640,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 171843,
+      "num": 296521,
+      "word": "王毅用哪吒比喻中国科技创新",
+      "onboard_time": 1741315760,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 171622,
       "num": 347470,
       "word": "中国发起首例反规避调查",
       "onboard_time": 1741084881,
       "rank": 41,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 171404,
+      "num": 171404,
+      "word": "哪里有封锁哪里就有突围",
+      "onboard_time": 1741316781,
+      "rank": 37,
       "category": "国内时政"
     },
     {
@@ -9707,14 +9739,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 143173,
-      "num": 143173,
-      "word": "SnackPaper 丁禹兮",
-      "onboard_time": 1741316120,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 143038,
       "num": 143038,
       "word": "刘浩存主角开机路透图",
@@ -11099,6 +11123,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 124302,
+      "num": 208386,
+      "word": "向阳花",
+      "onboard_time": 1741316240,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 124121,
       "num": 195736,
       "word": "孙俪与战友聚会合照",
@@ -11507,6 +11539,14 @@
       "category": "国内时政,教育"
     },
     {
+      "raw_hot": 116313,
+      "num": 116313,
+      "word": "中国制造遭质疑女主播全英文回怼",
+      "onboard_time": 1741311141,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116290,
       "num": 261033,
       "word": "北约秘书长说泽连斯基得跟美国和好",
@@ -11553,14 +11593,6 @@
       "onboard_time": 1740985997,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115596,
-      "num": 153506,
-      "word": "向阳花",
-      "onboard_time": 1741316240,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 115357,
@@ -11755,6 +11787,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 112472,
+      "num": 281876,
+      "word": "中国将在天津主办上合峰会",
+      "onboard_time": 1741315461,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 112439,
       "num": 112439,
       "word": "DojaCat 难听",
@@ -11856,6 +11896,14 @@
       "word": "何苏叶沈惜凡在一起了",
       "onboard_time": 1741159039,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 110658,
+      "num": 124663,
+      "word": "北上父子关系",
+      "onboard_time": 1741316540,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -11969,14 +12017,6 @@
       "onboard_time": 1740928879,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 108502,
-      "num": 234013,
-      "word": "王毅对美国发出5问",
-      "onboard_time": 1741315640,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 108477,
@@ -14035,14 +14075,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 64807,
-      "num": 232397,
-      "word": "中国将在天津主办上合峰会",
-      "onboard_time": 1741315461,
-      "rank": 14,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 64631,
       "num": 245829,
       "word": "祁煜至死不渝",
@@ -14209,14 +14241,6 @@
       "onboard_time": 1741066580,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 60621,
-      "num": 234211,
-      "word": "王毅用哪吒比喻中国科技创新",
-      "onboard_time": 1741315760,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 60375,
@@ -14571,6 +14595,14 @@
       "category": "国内时政,财经"
     },
     {
+      "raw_hot": 53443,
+      "num": 159956,
+      "word": "中国台湾省",
+      "onboard_time": 1741316840,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 52856,
       "num": 151166,
       "word": "跳科目三的外国记者看了两遍哪吒2",
@@ -14689,6 +14721,14 @@
       "onboard_time": 1741182558,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 50635,
+      "num": 278922,
+      "word": "我们从不惹事更不怕事",
+      "onboard_time": 1741316060,
+      "rank": 20,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 50112,
@@ -15235,14 +15275,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 37754,
-      "num": 231310,
-      "word": "我们从不惹事更不怕事",
-      "onboard_time": 1741316060,
-      "rank": 20,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 37647,
       "num": 237597,
       "word": "圆妈妈一个钻石梦",
@@ -15339,6 +15371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 35969,
+      "num": 250078,
+      "word": "刘浩存喊话文淇二搭",
+      "onboard_time": 1741316300,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 35868,
       "num": 201322,
       "word": "王星越时装周内场状态",
@@ -15369,6 +15409,14 @@
       "onboard_time": 1740948911,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35242,
+      "num": 242309,
+      "word": "只有心怀大家才能成为真正赢家",
+      "onboard_time": 1741315880,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 35092,
@@ -15619,14 +15667,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 31097,
-      "num": 231603,
-      "word": "只有心怀大家才能成为真正赢家",
-      "onboard_time": 1741315880,
-      "rank": 18,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 30940,
       "num": 224358,
       "word": "没有对白的猫猫电影得了奥斯卡",
@@ -15649,14 +15689,6 @@
       "onboard_time": 1741030331,
       "rank": 24,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 29445,
-      "num": 193636,
-      "word": "刘浩存喊话文淇二搭",
-      "onboard_time": 1741316300,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 29172,
@@ -15849,6 +15881,14 @@
       "onboard_time": 1740856813,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25210,
+      "num": 769847,
+      "word": "小院高墙是挡不住创新思维的",
+      "onboard_time": 1741316661,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 24914,
