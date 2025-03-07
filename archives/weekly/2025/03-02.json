@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1741304190243,
+  "endTime": 1741312057197,
   "band_list": [
     {
       "raw_hot": 13760834,
@@ -497,6 +497,14 @@
       "onboard_time": 1741232057,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1294298,
+      "num": 1294298,
+      "word": "Manus",
+      "onboard_time": 1741225577,
+      "rank": 49,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 1278503,
@@ -1619,6 +1627,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 673578,
+      "num": 313154,
+      "word": "美国星舰飞船失联",
+      "onboard_time": 1741306341,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 673139,
       "num": 512745,
       "word": "宜宾地震",
@@ -2235,6 +2251,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 554843,
+      "num": 218909,
+      "word": "工作中千万不要散发弱者气息",
+      "onboard_time": 1741304059,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 554474,
       "num": 341920,
       "word": "摄影师摔倒压到4个月宝宝",
@@ -2388,7 +2412,7 @@
     },
     {
       "raw_hot": 523281,
-      "num": 182598,
+      "num": 218842,
       "word": "五哈5嘉宾阵容",
       "onboard_time": 1741302678,
       "rank": 3,
@@ -3003,6 +3027,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 416790,
+      "num": 218826,
+      "word": "雷军发言前碎碎念演我备考",
+      "onboard_time": 1741305860,
+      "rank": 12,
+      "category": "国内时政,互联网"
+    },
+    {
       "raw_hot": 415990,
       "num": 200167,
       "word": "张天爱自曝体重96.4斤",
@@ -3489,6 +3521,14 @@
       "onboard_time": 1741013238,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 365877,
+      "num": 218749,
+      "word": "高额彩礼受谴责对象不该是女性",
+      "onboard_time": 1741305441,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 365070,
@@ -4083,6 +4123,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 321023,
+      "num": 321023,
+      "word": "DeepSeek谈Manus",
+      "onboard_time": 1741307241,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 320793,
       "num": 298202,
       "word": "柯淳说喜欢赵丽颖",
@@ -4193,6 +4241,14 @@
       "onboard_time": 1741175719,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 311716,
+      "num": 311716,
+      "word": "种地吧",
+      "onboard_time": 1740965418,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 311611,
@@ -4345,6 +4401,14 @@
       "onboard_time": 1741081162,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 298752,
+      "num": 298752,
+      "word": "第2场委员通道",
+      "onboard_time": 1741306281,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 298450,
@@ -4585,6 +4649,14 @@
       "onboard_time": 1741063940,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 286544,
+      "num": 218269,
+      "word": "杭州女子家里涌入200个中介",
+      "onboard_time": 1741305982,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 285870,
@@ -4873,6 +4945,14 @@
       "onboard_time": 1741075819,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 268363,
+      "num": 268363,
+      "word": "我国迎来低空经济黄金机遇期",
+      "onboard_time": 1741309102,
+      "rank": 6,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 268275,
@@ -5499,6 +5579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 231223,
+      "num": 218527,
+      "word": "王晨正带女友去青海祭拜爷爷",
+      "onboard_time": 1741308562,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 230788,
       "num": 230788,
       "word": "李兰迪你看我几分像从前",
@@ -5553,6 +5641,14 @@
       "onboard_time": 1741183159,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 228688,
+      "num": 218321,
+      "word": "王一博登顶照片成地标了",
+      "onboard_time": 1741311081,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 228434,
@@ -5739,6 +5835,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 222574,
+      "num": 218169,
+      "word": "幼儿园三八节给120名员工发金链",
+      "onboard_time": 1741303700,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222552,
       "num": 222552,
       "word": "原神",
@@ -5843,6 +5947,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 219041,
+      "num": 219041,
+      "word": "螺蛳粉远销全球30多个国家地区",
+      "onboard_time": 1741308922,
+      "rank": 8,
+      "category": "美食"
+    },
+    {
       "raw_hot": 218781,
       "num": 360642,
       "word": "张凌赫爸爸妈妈认证爱你好看",
@@ -5873,6 +5985,14 @@
       "onboard_time": 1741085720,
       "rank": 29,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 218164,
+      "num": 218164,
+      "word": "中医药让手术不再是海外患者唯一选择",
+      "onboard_time": 1741309761,
+      "rank": 22,
+      "category": "国内时政,健康医疗"
     },
     {
       "raw_hot": 218139,
@@ -5912,6 +6032,22 @@
       "word": "刘家琨获2025普利兹克建筑奖",
       "onboard_time": 1741099401,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217512,
+      "num": 218654,
+      "word": "小米SU7Ultra发布3天锁单超10000",
+      "onboard_time": 1741303700,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 217033,
+      "num": 217033,
+      "word": "接生了一辈子这次是女儿和外孙",
+      "onboard_time": 1741311320,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -6347,6 +6483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 204623,
+      "num": 204623,
+      "word": "戒掉熬夜坚持十点半睡觉的方法",
+      "onboard_time": 1741307481,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 204370,
       "num": 204370,
       "word": "白百何晒大儿子唱歌视频",
@@ -6737,14 +6881,6 @@
       "onboard_time": 1741015517,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 195198,
-      "num": 237621,
-      "word": "种地吧",
-      "onboard_time": 1740965418,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 194995,
@@ -8771,6 +8907,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 152638,
+      "num": 218995,
+      "word": "美国开始寻找星舰飞船碎片",
+      "onboard_time": 1741310720,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 152534,
       "num": 152534,
       "word": "宁艺卓 高洁丝",
@@ -8921,14 +9065,6 @@
       "onboard_time": 1741074378,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 150385,
-      "num": 150385,
-      "word": "Manus",
-      "onboard_time": 1741225577,
-      "rank": 49,
-      "category": "互联网,数码"
     },
     {
       "raw_hot": 150312,
@@ -9427,6 +9563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143386,
+      "num": 136249,
+      "word": "李昀锐助理嘘成烧水壶了",
+      "onboard_time": 1741306281,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143175,
       "num": 143175,
       "word": "明日方舟",
@@ -9561,6 +9705,14 @@
       "onboard_time": 1740993799,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 140897,
+      "num": 140897,
+      "word": "95后哈尼族委员把民族刺绣带到现场",
+      "onboard_time": 1741310901,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 140843,
@@ -9875,6 +10027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136309,
+      "num": 136309,
+      "word": "每天久坐超过4小时会怎样",
+      "onboard_time": 1741272622,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 136258,
       "num": 208639,
       "word": "于适金昇玟巴黎活动生图",
@@ -9907,12 +10067,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135541,
+      "num": 218393,
+      "word": "Jennie新专",
+      "onboard_time": 1741308562,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 134869,
       "num": 134869,
       "word": "直播全国政协十四届三次会议发布会",
       "onboard_time": 1740984738,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 134866,
+      "num": 134866,
+      "word": "Manus邀请码",
+      "onboard_time": 1741310540,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 134774,
@@ -10097,6 +10273,14 @@
       "onboard_time": 1741277179,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 131696,
+      "num": 131696,
+      "word": "越来越多外国人爱上中医",
+      "onboard_time": 1741311200,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131583,
@@ -10297,14 +10481,6 @@
       "onboard_time": 1740987021,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 128316,
-      "num": 102462,
-      "word": "每天久坐超过4小时会怎样",
-      "onboard_time": 1741272622,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 128237,
@@ -10897,6 +11073,14 @@
       "onboard_time": 1741167017,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121639,
+      "num": 121639,
+      "word": "我国有专任教师1891万人",
+      "onboard_time": 1741307420,
+      "rank": 34,
+      "category": "国内时政,教育"
     },
     {
       "raw_hot": 121536,
@@ -11619,6 +11803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108359,
+      "num": 108359,
+      "word": "俄称法总统核保护欧洲言论是威胁",
+      "onboard_time": 1741310780,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 108108,
       "num": 187589,
       "word": "景甜古装撑伞",
@@ -11851,6 +12043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105397,
+      "num": 105397,
+      "word": "小鸟海拔4000米住上精装房",
+      "onboard_time": 1741304479,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105272,
       "num": 166414,
       "word": "代表说带村民挣钱就是头等大事",
@@ -11971,6 +12171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103810,
+      "num": 103810,
+      "word": "吴宣仪黄杨钿甜将缺席五福临门庆功宴",
+      "onboard_time": 1741307782,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103732,
       "num": 315952,
       "word": "蔡明因常年不吃早饭导致胆摘除",
@@ -12081,6 +12289,14 @@
       "onboard_time": 1741246942,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 101924,
+      "num": 101924,
+      "word": "直击Manus武汉总部",
+      "onboard_time": 1741309940,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 101187,
@@ -12323,6 +12539,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 96481,
+      "num": 96481,
+      "word": "人生大事都在上班的夹缝中完成",
+      "onboard_time": 1741307062,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 96403,
       "num": 155729,
       "word": "火星情报局",
@@ -12395,6 +12619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95351,
+      "num": 95351,
+      "word": "Manus能做哪些工作",
+      "onboard_time": 1741306161,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 95306,
       "num": 297924,
       "word": "去年全社会物流成本降低约4000亿",
@@ -12441,14 +12673,6 @@
       "onboard_time": 1741219878,
       "rank": 47,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 94510,
-      "num": 56697,
-      "word": "幼儿园三八节给120名员工发金链",
-      "onboard_time": 1741303700,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 94280,
@@ -12779,6 +13003,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 84926,
+      "num": 84926,
+      "word": "流浪猫在教室生下四只小猫",
+      "onboard_time": 1741310840,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 84505,
       "num": 356055,
       "word": "商务部回应中美贸易战是否会升级",
@@ -12817,6 +13049,14 @@
       "onboard_time": 1741116430,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 83774,
+      "num": 83774,
+      "word": "340余斤黄金起拍价超1.1亿",
+      "onboard_time": 1741311020,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83602,
@@ -12923,6 +13163,14 @@
       "category": "国内时政,健康医疗"
     },
     {
+      "raw_hot": 79965,
+      "num": 79965,
+      "word": "内马尔重回巴西国家队",
+      "onboard_time": 1741308322,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79882,
       "num": 79882,
       "word": "方大同生前最后一次接受采访",
@@ -13003,6 +13251,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 76941,
+      "num": 76941,
+      "word": "两会新词热词双语卡片",
+      "onboard_time": 1741309342,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 76781,
       "num": 76781,
       "word": "认真买金子的鸭鸭",
@@ -13033,6 +13289,14 @@
       "onboard_time": 1740898819,
       "rank": 14,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 76204,
+      "num": 76204,
+      "word": "园长回应三八节给员工发金链",
+      "onboard_time": 1741306101,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75864,
@@ -13161,6 +13425,14 @@
       "onboard_time": 1741252760,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 72832,
+      "num": 72832,
+      "word": "星舰飞船的第八次试飞宣布失败",
+      "onboard_time": 1741312039,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 72539,
@@ -13644,7 +13916,7 @@
     },
     {
       "raw_hot": 63194,
-      "num": 70320,
+      "num": 102627,
       "word": "阿诺担心公开会影响董力工作",
       "onboard_time": 1741275621,
       "rank": 44,
@@ -13731,14 +14003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 60812,
-      "num": 56560,
-      "word": "小米SU7Ultra发布3天锁单超10000",
-      "onboard_time": 1741303700,
-      "rank": 32,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 60799,
       "num": 285825,
       "word": "巴特勒该出手时就出手",
@@ -13777,14 +14041,6 @@
       "onboard_time": 1741147521,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 59575,
-      "num": 56487,
-      "word": "工作中千万不要散发弱者气息",
-      "onboard_time": 1741304059,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 59470,
