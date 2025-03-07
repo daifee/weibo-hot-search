@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741332145336,
+  "endTime": 1741332966597,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1491,6 +1491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 851203,
+      "num": 464366,
+      "word": "李承铉说韩庚是后辈",
+      "onboard_time": 1741330221,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 850680,
       "num": 418420,
       "word": "特朗普没对泽连斯基动手是奇迹",
@@ -1945,14 +1953,6 @@
       "onboard_time": 1740795197,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 693867,
-      "num": 185375,
-      "word": "李承铉说韩庚是后辈",
-      "onboard_time": 1741330221,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 693321,
@@ -2505,6 +2505,14 @@
       "onboard_time": 1741003878,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 595190,
+      "num": 225511,
+      "word": "王大陆父亲一语成谶",
+      "onboard_time": 1741331061,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 593988,
@@ -4251,6 +4259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 382709,
+      "num": 224361,
+      "word": "赵丽颖掌公主回归",
+      "onboard_time": 1741332021,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 382320,
       "num": 382320,
       "word": "逐步推行免费学前教育",
@@ -4905,14 +4921,6 @@
       "onboard_time": 1741317079,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 336253,
-      "num": 176637,
-      "word": "王大陆父亲一语成谶",
-      "onboard_time": 1741331061,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 335243,
@@ -5627,6 +5635,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 297801,
+      "num": 297801,
+      "word": "张凯丽建议增设家庭暴力罪",
+      "onboard_time": 1741329862,
+      "rank": 46,
+      "category": "国内时政,艺人"
+    },
+    {
       "raw_hot": 296512,
       "num": 296512,
       "word": "欧盟宣布8000亿欧元重新武装欧洲计划",
@@ -5801,6 +5817,14 @@
       "onboard_time": 1741147702,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 290808,
+      "num": 290808,
+      "word": "jennie新歌和apt采样了同一首歌",
+      "onboard_time": 1741330822,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 290605,
@@ -6195,6 +6219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 270431,
+      "num": 569013,
+      "word": "中国进口乌克兰豌豆和水产品",
+      "onboard_time": 1741322724,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 270295,
       "num": 270295,
       "word": "文在寅最新涉华表态",
@@ -6371,14 +6403,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 264483,
-      "num": 264483,
-      "word": "张凯丽建议增设家庭暴力罪",
-      "onboard_time": 1741329862,
-      "rank": 46,
-      "category": "国内时政,艺人"
-    },
-    {
       "raw_hot": 264053,
       "num": 264053,
       "word": "刘诗诗发长文和叶平安告别",
@@ -6497,14 +6521,6 @@
       "onboard_time": 1740879497,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 259896,
-      "num": 569013,
-      "word": "中国进口乌克兰豌豆和水产品",
-      "onboard_time": 1741322724,
-      "rank": 26,
-      "category": "国际时政"
     },
     {
       "raw_hot": 259277,
@@ -6857,14 +6873,6 @@
       "onboard_time": 1741053798,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 242727,
-      "num": 242727,
-      "word": "jennie新歌和apt采样了同一首歌",
-      "onboard_time": 1741330822,
-      "rank": 5,
-      "category": "音乐"
     },
     {
       "raw_hot": 242525,
@@ -9171,6 +9179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188491,
+      "num": 227010,
+      "word": "台湾从来不是一个国家",
+      "onboard_time": 1741332442,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 188472,
       "num": 188472,
       "word": "欧文",
@@ -10283,14 +10299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 169534,
-      "num": 142198,
-      "word": "赵丽颖掌公主回归",
-      "onboard_time": 1741332021,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 169519,
       "num": 169519,
       "word": "中国人工智能跑出加速度",
@@ -10905,6 +10913,14 @@
       "onboard_time": 1740793457,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160328,
+      "num": 160328,
+      "word": "时空中的绘旅人",
+      "onboard_time": 1741332622,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 159974,
@@ -11580,7 +11596,7 @@
     },
     {
       "raw_hot": 152787,
-      "num": 152787,
+      "num": 158934,
       "word": "张晚意说和景甜二搭喝个小咖啡",
       "onboard_time": 1741330583,
       "rank": 27,
@@ -12611,6 +12627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140205,
+      "num": 140205,
+      "word": "王源张宥浩偶遇",
+      "onboard_time": 1741329803,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140155,
       "num": 140155,
       "word": "柳智敏雪允分享SMJYP面试技巧",
@@ -12713,14 +12737,6 @@
       "onboard_time": 1740922399,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 139360,
-      "num": 139360,
-      "word": "王源张宥浩偶遇",
-      "onboard_time": 1741329803,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 139289,
@@ -14635,6 +14651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115056,
+      "num": 141337,
+      "word": "景甜扫楼点了蛋糕外卖",
+      "onboard_time": 1741332562,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114997,
       "num": 252201,
       "word": "将发行首批特别国债5000亿元",
@@ -15057,6 +15081,14 @@
       "onboard_time": 1740756559,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 108844,
+      "num": 108844,
+      "word": "GW对战Wolves",
+      "onboard_time": 1741332263,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 108741,
@@ -15665,6 +15697,14 @@
       "onboard_time": 1741273582,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 102280,
+      "num": 102280,
+      "word": "女性的职业反差可以有多绝",
+      "onboard_time": 1741332501,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102222,
@@ -16339,6 +16379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 90862,
+      "num": 181409,
+      "word": "打击盗版要压实平台责任",
+      "onboard_time": 1741331542,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 90811,
       "num": 90811,
       "word": "优酷 12集",
@@ -16467,12 +16515,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 88387,
+      "num": 88387,
+      "word": "欧盟26国领导人声援乌克兰",
+      "onboard_time": 1741332202,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 88310,
       "num": 116606,
       "word": "初步举证 伟大的作品",
       "onboard_time": 1740825502,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 88196,
+      "num": 88196,
+      "word": "Glass镜头下的女性群像",
+      "onboard_time": 1741332202,
+      "rank": 49,
+      "category": "时尚"
     },
     {
       "raw_hot": 88190,
@@ -16827,14 +16891,6 @@
       "category": "国内时政,健康医疗"
     },
     {
-      "raw_hot": 79980,
-      "num": 181409,
-      "word": "打击盗版要压实平台责任",
-      "onboard_time": 1741331542,
-      "rank": 13,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 79965,
       "num": 200190,
       "word": "内马尔重回巴西国家队",
@@ -17049,6 +17105,14 @@
       "onboard_time": 1741124772,
       "rank": 37,
       "category": "艺人,国内时政"
+    },
+    {
+      "raw_hot": 74367,
+      "num": 223676,
+      "word": "建议允许科研人员兼职创业",
+      "onboard_time": 1741331182,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 74351,
@@ -18027,6 +18091,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 56371,
+      "num": 173388,
+      "word": "双影奇境 双女主",
+      "onboard_time": 1741325664,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 56302,
       "num": 115177,
       "word": "成年人的生日蛋糕酒",
@@ -18193,14 +18265,6 @@
       "onboard_time": 1741245860,
       "rank": 35,
       "category": "国内时政,财经"
-    },
-    {
-      "raw_hot": 53330,
-      "num": 179596,
-      "word": "建议允许科研人员兼职创业",
-      "onboard_time": 1741331182,
-      "rank": 14,
-      "category": "国内时政"
     },
     {
       "raw_hot": 52856,
@@ -18387,6 +18451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49745,
+      "num": 221430,
+      "word": "谢娜家乡宣传委员",
+      "onboard_time": 1741332021,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 49714,
       "num": 619112,
       "word": "2025中国发展主要预期目标",
@@ -18409,6 +18481,14 @@
       "onboard_time": 1741255761,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 49289,
+      "num": 220856,
+      "word": "建议提高农村老年人基础养老金标准",
+      "onboard_time": 1741331362,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 48865,
@@ -18867,6 +18947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40077,
+      "num": 112581,
+      "word": "建议降低城乡居民医保缴费标准",
+      "onboard_time": 1741332921,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 40064,
       "num": 367528,
       "word": "建议在AI嵌入医疗实践中更加扎实慎重",
@@ -19025,14 +19113,6 @@
       "onboard_time": 1740863651,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 37068,
-      "num": 170726,
-      "word": "建议提高农村老年人基础养老金标准",
-      "onboard_time": 1741331362,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 36937,
@@ -19211,6 +19291,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 33910,
+      "num": 158841,
+      "word": "三年追问只为一张看得清的药品说明书",
+      "onboard_time": 1741332381,
+      "rank": 29,
+      "category": "国内时政,健康医疗"
+    },
+    {
       "raw_hot": 33783,
       "num": 48432,
       "word": "机器人自学成才解锁李小龙同款功夫",
@@ -19361,14 +19449,6 @@
       "onboard_time": 1741142059,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 31811,
-      "num": 130420,
-      "word": "谢娜家乡宣传委员",
-      "onboard_time": 1741332021,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 31718,
@@ -20291,6 +20371,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 16197,
+      "num": 496582,
+      "word": "我们的盛会致敬独特的她",
+      "onboard_time": 1741332021,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16075,
       "num": 19514,
       "word": "爱你女主一边清醒一边沉沦",
@@ -20817,14 +20905,6 @@
       "onboard_time": 1740785715,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 5635,
-      "num": 496582,
-      "word": "我们的盛会致敬独特的她",
-      "onboard_time": 1741332021,
-      "rank": 2,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
