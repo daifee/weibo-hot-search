@@ -1,0 +1,410 @@
+{
+  "runTime": 1741329153184,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9962637,
+        "num": 9962637,
+        "word": "中国台湾省",
+        "onboard_time": 1741316840,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 830639,
+        "num": 830639,
+        "word": "借台湾生事就是给日本找事",
+        "onboard_time": 1741318161,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 48909,
+        "num": 702468,
+        "word": "3月7日两会日程",
+        "onboard_time": 1741321404,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 690169,
+        "num": 690169,
+        "word": "温以凡 香港",
+        "onboard_time": 1741325243,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 545125,
+        "num": 545125,
+        "word": "朱志鑫给陈赫养女儿提了个醒",
+        "onboard_time": 1741326564,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291807,
+        "num": 291807,
+        "word": "韩国法院批准释放尹锡悦",
+        "onboard_time": 1741324225,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 284151,
+        "num": 284151,
+        "word": "今年是台湾光复80周年",
+        "onboard_time": 1741321103,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 281314,
+        "num": 281314,
+        "word": "难哄改编",
+        "onboard_time": 1741322784,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259896,
+        "num": 259896,
+        "word": "中国进口乌克兰豌豆和水产品",
+        "onboard_time": 1741322724,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28976,
+        "num": 258100,
+        "word": "尹锡悦案将在非拘押状态进行",
+        "onboard_time": 1741327344,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 6575117,
+        "num": 6575117,
+        "word": "赵一博 我和雪梨在一起是事实",
+        "onboard_time": 1741325063,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413829,
+        "num": 246942,
+        "word": "祝她铮铮 祝她昂扬",
+        "onboard_time": 1741321344,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 324690,
+        "num": 243196,
+        "word": "麦琳分享减肥心得",
+        "onboard_time": 1741325664,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316423,
+        "num": 238731,
+        "word": "Hanni说记不清ILLIT的无视事件",
+        "onboard_time": 1741326564,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41046,
+        "num": 234031,
+        "word": "媒体评对药械药品灵魂砍价要适度",
+        "onboard_time": 1741327703,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310838,
+        "num": 230873,
+        "word": "涉王大陆案警员升职被叫停",
+        "onboard_time": 1741324103,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296784,
+        "num": 228118,
+        "word": "景区回应将王一博登顶照做成地标",
+        "onboard_time": 1741326144,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279298,
+        "num": 219767,
+        "word": "何凯文曾评价刘晓艳讲英语是祸害人",
+        "onboard_time": 1741323564,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 219758,
+        "num": 219758,
+        "word": "妻子的浪漫旅行",
+        "onboard_time": 1741327583,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65119,
+        "num": 213348,
+        "word": "Manus研发团队谢绝来访",
+        "onboard_time": 1741327583,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 212718,
+        "num": 212718,
+        "word": "5岁女儿偷拍妈妈独自干活发给爸爸",
+        "onboard_time": 1741323624,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185461,
+        "num": 212282,
+        "word": "是妻旅还是韩庚老友记",
+        "onboard_time": 1741326324,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66877,
+        "num": 210366,
+        "word": "HYBE不让NJZ戴济州悼念丝带",
+        "onboard_time": 1741327344,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184773,
+        "num": 208194,
+        "word": "实现祖国完全统一是大势所趋大义所在",
+        "onboard_time": 1741318404,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 174725,
+        "num": 207690,
+        "word": "赵丽颖坦言高月香带血腥感",
+        "onboard_time": 1741327944,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168319,
+        "num": 205597,
+        "word": "苗苗建议不要用大人的眼光衡量孩子",
+        "onboard_time": 1741328783,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44130,
+        "num": 204481,
+        "word": "阿维塔06发布氧颜座舱",
+        "onboard_time": 1741327764,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 155266,
+        "num": 201854,
+        "word": "张晚意这么穿我可要看了",
+        "onboard_time": 1741326864,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201528,
+        "num": 201528,
+        "word": "上海的精神状态已经这么超前了",
+        "onboard_time": 1741325785,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 33254,
+        "num": 197711,
+        "word": "委员建议严肃处理涉教师恶意投诉",
+        "onboard_time": 1741328783,
+        "rank": 29,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 142226,
+        "num": 197390,
+        "word": "周深碰到情绪价值拉满的观众了",
+        "onboard_time": 1741328002,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197379,
+        "num": 197379,
+        "word": "赵丽颖监狱服造型",
+        "onboard_time": 1741318522,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195449,
+        "num": 195449,
+        "word": "男子开网店自买自卖薅运费险200多万",
+        "onboard_time": 1741321584,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177572,
+        "num": 177572,
+        "word": "尼克斯vs湖人",
+        "onboard_time": 1741317981,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152766,
+        "num": 173742,
+        "word": "十个勤天",
+        "onboard_time": 1741313421,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126286,
+        "num": 172508,
+        "word": "白鹿翟子路是在be圈里高考吗",
+        "onboard_time": 1741328843,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172094,
+        "num": 172094,
+        "word": "布伦森受伤",
+        "onboard_time": 1741328483,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10939,
+        "num": 170887,
+        "word": "建议设家暴黑名单",
+        "onboard_time": 1741329024,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 170525,
+        "num": 170525,
+        "word": "临近边界的缅北电诈园区已全部清除",
+        "onboard_time": 1741318644,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 54480,
+        "num": 169080,
+        "word": "林子祥与叶倩文再现十分十二吋",
+        "onboard_time": 1741327344,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168328,
+        "num": 168328,
+        "word": "Manus官方X账号被冻结",
+        "onboard_time": 1741327883,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 149516,
+        "num": 149516,
+        "word": "NBA",
+        "onboard_time": 1741328123,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150010,
+        "num": 149492,
+        "word": "高圆圆时隔11年再打卡比萨斜塔",
+        "onboard_time": 1741321103,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149101,
+        "num": 149101,
+        "word": "Manus",
+        "onboard_time": 1741306461,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 129735,
+        "num": 129735,
+        "word": "汪苏泷北京抢票",
+        "onboard_time": 1741324825,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129367,
+        "num": 129367,
+        "word": "暴风雨最猛烈的地方恰是哪吒闹海舞台",
+        "onboard_time": 1741321702,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 128775,
+        "num": 128775,
+        "word": "like JENNIE",
+        "onboard_time": 1741326624,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 127785,
+        "num": 127785,
+        "word": "被砍掉的飞天小女警真人版片段泄露",
+        "onboard_time": 1741320505,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126802,
+        "num": 126802,
+        "word": "外交部长王毅答记者问",
+        "onboard_time": 1741312700,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124367,
+        "num": 124367,
+        "word": "崩坏星穹铁道",
+        "onboard_time": 1741327044,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#人才辈出人尽其才才尽其用#"
+    }
+  }
+}
