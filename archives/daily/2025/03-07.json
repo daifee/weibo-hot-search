@@ -1,6 +1,6 @@
 {
   "startTime": 1741278581665,
-  "endTime": 1741339481328,
+  "endTime": 1741340334642,
   "band_list": [
     {
       "raw_hot": 15162205,
@@ -57,6 +57,14 @@
       "onboard_time": 1741312941,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 885535,
+      "num": 281784,
+      "word": "小鱼海棠给刚出生的儿子开通账号",
+      "onboard_time": 1741338623,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 875709,
@@ -155,14 +163,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 600301,
-      "num": 281784,
-      "word": "小鱼海棠给刚出生的儿子开通账号",
-      "onboard_time": 1741338623,
-      "rank": 11,
-      "category": "网红"
-    },
-    {
       "raw_hot": 593988,
       "num": 317843,
       "word": "王一博登顶照片成地标了",
@@ -177,6 +177,14 @@
       "onboard_time": 1741326564,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 586766,
+      "num": 361855,
+      "word": "当独生子女开始遭遇父母重病",
+      "onboard_time": 1741337782,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 583326,
@@ -323,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 388114,
+      "num": 273319,
+      "word": "文都教育暂停与何凯文合作",
+      "onboard_time": 1741338501,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 382787,
       "num": 384313,
       "word": "今年是台湾光复80周年",
@@ -377,14 +393,6 @@
       "onboard_time": 1741321103,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 361855,
-      "num": 361855,
-      "word": "当独生子女开始遭遇父母重病",
-      "onboard_time": 1741337782,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 358283,
@@ -481,6 +489,14 @@
       "onboard_time": 1741329862,
       "rank": 46,
       "category": "国内时政,艺人"
+    },
+    {
+      "raw_hot": 301046,
+      "num": 217764,
+      "word": "麦琳与女儿拍写真",
+      "onboard_time": 1741338741,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 300164,
@@ -587,14 +603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 273319,
-      "num": 273319,
-      "word": "文都教育暂停与何凯文合作",
-      "onboard_time": 1741338501,
-      "rank": 16,
-      "category": "教育"
-    },
-    {
       "raw_hot": 270431,
       "num": 569013,
       "word": "中国进口乌克兰豌豆和水产品",
@@ -643,6 +651,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 246588,
+      "num": 216221,
+      "word": "北京电影学院回应何凯文英一89分",
+      "onboard_time": 1741340241,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 245597,
+      "num": 287805,
+      "word": "电影女足阵容",
+      "onboard_time": 1741335803,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 243995,
       "num": 243995,
       "word": "接生了一辈子这次是女儿和外孙",
@@ -657,14 +681,6 @@
       "onboard_time": 1741328843,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 234365,
-      "num": 287805,
-      "word": "电影女足阵容",
-      "onboard_time": 1741335803,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 231814,
@@ -763,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210593,
+      "num": 240910,
+      "word": "TREASURE回归新歌MV",
+      "onboard_time": 1741339942,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 209269,
       "num": 293540,
       "word": "王毅对美国发出5问",
@@ -809,14 +833,6 @@
       "onboard_time": 1741307481,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 204407,
-      "num": 147773,
-      "word": "麦琳与女儿拍写真",
-      "onboard_time": 1741338741,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 203165,
@@ -939,6 +955,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 186847,
+      "num": 222084,
+      "word": "金靖调侃陈赫签了6季合同",
+      "onboard_time": 1741340122,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 186612,
+      "num": 204734,
+      "word": "SEVENTEEN出演罗PD新综艺",
+      "onboard_time": 1741339942,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185461,
       "num": 212282,
       "word": "是妻旅还是韩庚老友记",
@@ -985,6 +1017,14 @@
       "onboard_time": 1741317981,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177564,
+      "num": 177564,
+      "word": "曝iPhone17ProMax变厚了",
+      "onboard_time": 1741340302,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 176293,
@@ -1275,20 +1315,20 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 148386,
+      "num": 148386,
+      "word": "字节跳动2024年辞退违规员工353人",
+      "onboard_time": 1741336761,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 147798,
       "num": 147798,
       "word": "妻子节目组禁止虐待李承铉",
       "onboard_time": 1741332981,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 147222,
-      "num": 147222,
-      "word": "字节跳动2024年辞退违规员工353人",
-      "onboard_time": 1741336761,
-      "rank": 33,
-      "category": "互联网"
     },
     {
       "raw_hot": 146495,
@@ -1779,6 +1819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101443,
+      "num": 101443,
+      "word": "官方辟谣许昌投资10亿建3个机场",
+      "onboard_time": 1741339942,
+      "rank": 45,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 100718,
       "num": 100718,
       "word": "明日方舟",
@@ -1833,6 +1881,14 @@
       "onboard_time": 1741331542,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 95400,
+      "num": 192829,
+      "word": "滤镜",
+      "onboard_time": 1741335202,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 95306,
@@ -1891,6 +1947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 86992,
+      "num": 86992,
+      "word": "虞书欣人间萌物",
+      "onboard_time": 1741339822,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 85638,
       "num": 185747,
       "word": "阿诺担心公开会影响董力工作",
@@ -1913,14 +1977,6 @@
       "onboard_time": 1741311020,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 82895,
-      "num": 150476,
-      "word": "滤镜",
-      "onboard_time": 1741335202,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 80208,
@@ -1988,7 +2044,7 @@
     },
     {
       "raw_hot": 73977,
-      "num": 149565,
+      "num": 224268,
       "word": "胡兵把粉丝群当朋友圈发",
       "onboard_time": 1741338741,
       "rank": 30,
@@ -2081,6 +2137,14 @@
       "onboard_time": 1741327583,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 62369,
+      "num": 239551,
+      "word": "建议引导学生合理使用AI",
+      "onboard_time": 1741339582,
+      "rank": 9,
+      "category": "国内时政,互联网"
     },
     {
       "raw_hot": 62326,
@@ -2395,12 +2459,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 29823,
+      "num": 120504,
+      "word": "缤纷番茄鸡蛋挂面",
+      "onboard_time": 1741340302,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 28976,
       "num": 258100,
       "word": "尹锡悦案将在非拘押状态进行",
       "onboard_time": 1741327344,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 27767,
+      "num": 177612,
+      "word": "建议降低农民工城市落户门槛",
+      "onboard_time": 1741339403,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 26551,
@@ -2475,12 +2555,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 17989,
-      "num": 149116,
-      "word": "建议降低农民工城市落户门槛",
-      "onboard_time": 1741339403,
-      "rank": 31,
-      "category": "国内时政"
+      "raw_hot": 16886,
+      "num": 185636,
+      "word": "二次元的年龄代沟",
+      "onboard_time": 1741339942,
+      "rank": 28,
+      "category": "动漫"
     },
     {
       "raw_hot": 16197,

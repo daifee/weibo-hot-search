@@ -1,0 +1,410 @@
+{
+  "runTime": 1741340334642,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6989674,
+        "num": 6989674,
+        "word": "中国台湾省",
+        "onboard_time": 1741316840,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 285159,
+        "num": 285159,
+        "word": "正起草育儿补贴方案",
+        "onboard_time": 1741335022,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 38733,
+        "num": 259000,
+        "word": "3月7日两会日程",
+        "onboard_time": 1741321404,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 674022,
+        "num": 253996,
+        "word": "今年妇女节 我不再祝你美丽",
+        "onboard_time": 1741335081,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298448,
+        "num": 251383,
+        "word": "妇女节能不能补假",
+        "onboard_time": 1741337482,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 245597,
+        "num": 245597,
+        "word": "电影女足阵容",
+        "onboard_time": 1741335803,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 586766,
+        "num": 245459,
+        "word": "当独生子女开始遭遇父母重病",
+        "onboard_time": 1741337782,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241857,
+        "num": 241857,
+        "word": "张凯丽建议增设家庭暴力罪",
+        "onboard_time": 1741329862,
+        "rank": 7,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 210593,
+        "num": 240910,
+        "word": "TREASURE回归新歌MV",
+        "onboard_time": 1741339942,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 62369,
+        "num": 239551,
+        "word": "建议引导学生合理使用AI",
+        "onboard_time": 1741339582,
+        "rank": 9,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 1293903,
+        "num": 236755,
+        "word": "赵一博 我和雪梨在一起是事实",
+        "onboard_time": 1741325063,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 885535,
+        "num": 235857,
+        "word": "小鱼海棠给刚出生的儿子开通账号",
+        "onboard_time": 1741338623,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 556970,
+        "num": 233077,
+        "word": "王大陆父亲一语成谶",
+        "onboard_time": 1741331061,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 502711,
+        "num": 232207,
+        "word": "温以凡 香港",
+        "onboard_time": 1741325243,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 388114,
+        "num": 230383,
+        "word": "文都教育暂停与何凯文合作",
+        "onboard_time": 1741338501,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 350639,
+        "num": 229251,
+        "word": "赵丽颖掌公主回归",
+        "onboard_time": 1741332021,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 331681,
+        "num": 227397,
+        "word": "民宿老板3千网购小熊被索赔3.8万",
+        "onboard_time": 1741334421,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69591,
+        "num": 224268,
+        "word": "胡兵把粉丝群当朋友圈发",
+        "onboard_time": 1741338741,
+        "rank": 17,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 196786,
+        "num": 222474,
+        "word": "杨蓉演技",
+        "onboard_time": 1741334662,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186847,
+        "num": 222084,
+        "word": "金靖调侃陈赫签了6季合同",
+        "onboard_time": 1741340122,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359210,
+        "num": 220117,
+        "word": "女子从8楼丢下3个花盆被判刑",
+        "onboard_time": 1741334841,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301046,
+        "num": 217764,
+        "word": "麦琳与女儿拍写真",
+        "onboard_time": 1741338741,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246588,
+        "num": 216221,
+        "word": "北京电影学院回应何凯文英一89分",
+        "onboard_time": 1741340241,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 215113,
+        "num": 215113,
+        "word": "台湾从来不是一个国家",
+        "onboard_time": 1741332442,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 186612,
+        "num": 204734,
+        "word": "SEVENTEEN出演罗PD新综艺",
+        "onboard_time": 1741339942,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203138,
+        "num": 203138,
+        "word": "今年是台湾光复80周年",
+        "onboard_time": 1741321103,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 144964,
+        "num": 201343,
+        "word": "你好星期六宿舍",
+        "onboard_time": 1741335860,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95400,
+        "num": 192829,
+        "word": "滤镜",
+        "onboard_time": 1741335202,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16886,
+        "num": 185636,
+        "word": "二次元的年龄代沟",
+        "onboard_time": 1741339942,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 27767,
+        "num": 177612,
+        "word": "建议降低农民工城市落户门槛",
+        "onboard_time": 1741339403,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 177564,
+        "num": 177564,
+        "word": "曝iPhone17ProMax变厚了",
+        "onboard_time": 1741340302,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 176731,
+        "num": 176731,
+        "word": "张凌赫徐若晗浴室吻花絮",
+        "onboard_time": 1741333581,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164950,
+        "num": 164950,
+        "word": "iPhone17或全系标配LTPO灵动岛屏幕",
+        "onboard_time": 1741336161,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 162650,
+        "num": 162650,
+        "word": "景区回应将王一博登顶照做成地标",
+        "onboard_time": 1741326144,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148386,
+        "num": 148386,
+        "word": "字节跳动2024年辞退违规员工353人",
+        "onboard_time": 1741336761,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 139537,
+        "num": 139537,
+        "word": "何凯文间接持有文都教育股份",
+        "onboard_time": 1741338261,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131419,
+        "num": 131419,
+        "word": "借台湾生事就是给日本找事",
+        "onboard_time": 1741318161,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 131200,
+        "num": 131200,
+        "word": "中国进口乌克兰豌豆和水产品",
+        "onboard_time": 1741322724,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130430,
+        "num": 130430,
+        "word": "何凯文曾评价刘晓艳讲英语是祸害人",
+        "onboard_time": 1741323564,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 126789,
+        "num": 126789,
+        "word": "建议家暴者离婚少分或不分财产",
+        "onboard_time": 1741333162,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 123914,
+        "num": 123914,
+        "word": "祝她铮铮 祝她昂扬",
+        "onboard_time": 1741321344,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29823,
+        "num": 120504,
+        "word": "缤纷番茄鸡蛋挂面",
+        "onboard_time": 1741340302,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 120072,
+        "num": 120072,
+        "word": "实现祖国完全统一是大势所趋大义所在",
+        "onboard_time": 1741318404,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 110705,
+        "num": 110705,
+        "word": "官方辟谣接触购物小票会致癌",
+        "onboard_time": 1741338021,
+        "rank": 43,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 104698,
+        "num": 104698,
+        "word": "网传有人往海底捞火锅小便警方已立案",
+        "onboard_time": 1741337542,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101443,
+        "num": 101443,
+        "word": "官方辟谣许昌投资10亿建3个机场",
+        "onboard_time": 1741339942,
+        "rank": 45,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 92798,
+        "num": 92798,
+        "word": "徐若晗新剧爽文人生",
+        "onboard_time": 1741337300,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94779,
+        "num": 92094,
+        "word": "琉球群岛为什么没有纳入中国版图",
+        "onboard_time": 1741338561,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 91075,
+        "num": 91075,
+        "word": "王曼昱被推荐2025全国劳模",
+        "onboard_time": 1741333823,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86992,
+        "num": 86992,
+        "word": "虞书欣人间萌物",
+        "onboard_time": 1741339822,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#全国两会上习近平再提两链#"
+    }
+  }
+}

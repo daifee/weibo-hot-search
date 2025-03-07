@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1741339481328,
+  "endTime": 1741340334642,
   "band_list": [
     {
       "raw_hot": 15162205,
@@ -1107,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 885535,
+      "num": 281784,
+      "word": "小鱼海棠给刚出生的儿子开通账号",
+      "onboard_time": 1741338623,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 882380,
       "num": 792407,
       "word": "滤镜15集37分01秒",
@@ -2107,14 +2115,6 @@
       "category": "美妆,互联网"
     },
     {
-      "raw_hot": 600301,
-      "num": 281784,
-      "word": "小鱼海棠给刚出生的儿子开通账号",
-      "onboard_time": 1741338623,
-      "rank": 11,
-      "category": "网红"
-    },
-    {
       "raw_hot": 599338,
       "num": 599338,
       "word": "邓紫棋演唱会上哭了",
@@ -2209,6 +2209,14 @@
       "onboard_time": 1740963498,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 586766,
+      "num": 361855,
+      "word": "当独生子女开始遭遇父母重病",
+      "onboard_time": 1741337782,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 586672,
@@ -3555,6 +3563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 388114,
+      "num": 273319,
+      "word": "文都教育暂停与何凯文合作",
+      "onboard_time": 1741338501,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 387579,
       "num": 387579,
       "word": "夏威夷一火山喷泉式喷发",
@@ -3865,14 +3881,6 @@
       "onboard_time": 1741018697,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 361855,
-      "num": 361855,
-      "word": "当独生子女开始遭遇父母重病",
-      "onboard_time": 1741337782,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 360463,
@@ -4755,6 +4763,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 301046,
+      "num": 217764,
+      "word": "麦琳与女儿拍写真",
+      "onboard_time": 1741338741,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300453,
       "num": 113424,
       "word": "街道通报男子虐猫事件",
@@ -5257,14 +5273,6 @@
       "onboard_time": 1741251561,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 273319,
-      "num": 273319,
-      "word": "文都教育暂停与何凯文合作",
-      "onboard_time": 1741338501,
-      "rank": 16,
-      "category": "教育"
     },
     {
       "raw_hot": 272122,
@@ -5787,12 +5795,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 246588,
+      "num": 216221,
+      "word": "北京电影学院回应何凯文英一89分",
+      "onboard_time": 1741340241,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 246146,
       "num": 258429,
       "word": "张杰 鸟巢",
       "onboard_time": 1741236919,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 245597,
+      "num": 287805,
+      "word": "电影女足阵容",
+      "onboard_time": 1741335803,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 244878,
@@ -6025,14 +6049,6 @@
       "onboard_time": 1740920601,
       "rank": 18,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 234365,
-      "num": 287805,
-      "word": "电影女足阵容",
-      "onboard_time": 1741335803,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 234144,
@@ -6739,6 +6755,14 @@
       "category": "游戏,美食"
     },
     {
+      "raw_hot": 210593,
+      "num": 240910,
+      "word": "TREASURE回归新歌MV",
+      "onboard_time": 1741339942,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 210552,
       "num": 210552,
       "word": "建议教育和引导青少年远离网红诱惑",
@@ -7065,14 +7089,6 @@
       "onboard_time": 1741307481,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 204407,
-      "num": 147773,
-      "word": "麦琳与女儿拍写真",
-      "onboard_time": 1741338741,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 204370,
@@ -7931,6 +7947,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 186847,
+      "num": 222084,
+      "word": "金靖调侃陈赫签了6季合同",
+      "onboard_time": 1741340122,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186799,
       "num": 198585,
       "word": "爱你男女主终于亲上了",
@@ -7953,6 +7977,14 @@
       "onboard_time": 1740975439,
       "rank": 9,
       "category": "民生新闻,国际时政"
+    },
+    {
+      "raw_hot": 186612,
+      "num": 204734,
+      "word": "SEVENTEEN出演罗PD新综艺",
+      "onboard_time": 1741339942,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 186575,
@@ -8305,6 +8337,14 @@
       "onboard_time": 1741317981,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177564,
+      "num": 177564,
+      "word": "曝iPhone17ProMax变厚了",
+      "onboard_time": 1741340302,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 177424,
@@ -10107,6 +10147,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 148386,
+      "num": 148386,
+      "word": "字节跳动2024年辞退违规员工353人",
+      "onboard_time": 1741336761,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 148277,
       "num": 148277,
       "word": "刘雨昕周也李昀锐金智秀G社生图",
@@ -10225,14 +10273,6 @@
       "onboard_time": 1741138398,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 147222,
-      "num": 147222,
-      "word": "字节跳动2024年辞退违规员工353人",
-      "onboard_time": 1741336761,
-      "rank": 33,
-      "category": "互联网"
     },
     {
       "raw_hot": 147191,
@@ -13539,6 +13579,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 101443,
+      "num": 101443,
+      "word": "官方辟谣许昌投资10亿建3个机场",
+      "onboard_time": 1741339942,
+      "rank": 45,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 101187,
       "num": 161054,
       "word": "年轻人会关心哪些两会话题",
@@ -14227,6 +14275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 86992,
+      "num": 86992,
+      "word": "虞书欣人间萌物",
+      "onboard_time": 1741339822,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 86843,
       "num": 86843,
       "word": "李乃文北上温柔daddy感",
@@ -14732,7 +14788,7 @@
     },
     {
       "raw_hot": 73977,
-      "num": 149565,
+      "num": 224268,
       "word": "胡兵把粉丝群当朋友圈发",
       "onboard_time": 1741338741,
       "rank": 30,
@@ -15329,6 +15385,14 @@
       "onboard_time": 1740895520,
       "rank": 9,
       "category": "民生新闻,国内时政"
+    },
+    {
+      "raw_hot": 62369,
+      "num": 239551,
+      "word": "建议引导学生合理使用AI",
+      "onboard_time": 1741339582,
+      "rank": 9,
+      "category": "国内时政,互联网"
     },
     {
       "raw_hot": 62326,
@@ -16923,6 +16987,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 29823,
+      "num": 120504,
+      "word": "缤纷番茄鸡蛋挂面",
+      "onboard_time": 1741340302,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 29172,
       "num": 239671,
       "word": "建议让骑手等群体社保转移更方便些",
@@ -16969,6 +17041,14 @@
       "onboard_time": 1740864432,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 27767,
+      "num": 177612,
+      "word": "建议降低农民工城市落户门槛",
+      "onboard_time": 1741339403,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 27624,
@@ -17491,14 +17571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 17989,
-      "num": 149116,
-      "word": "建议降低农民工城市落户门槛",
-      "onboard_time": 1741339403,
-      "rank": 31,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 17780,
       "num": 236492,
       "word": "独行侠把运气也交易走了",
@@ -17560,6 +17632,14 @@
       "word": "大笨狗自我攻防战",
       "onboard_time": 1740989538,
       "rank": 29,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 16886,
+      "num": 185636,
+      "word": "二次元的年龄代沟",
+      "onboard_time": 1741339942,
+      "rank": 28,
       "category": "动漫"
     },
     {
