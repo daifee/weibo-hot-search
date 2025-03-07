@@ -1,6 +1,6 @@
 {
   "startTime": 1741278581665,
-  "endTime": 1741337009053,
+  "endTime": 1741339481328,
   "band_list": [
     {
       "raw_hot": 15162205,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 679556,
-      "num": 229483,
+      "num": 279970,
       "word": "王大陆父亲一语成谶",
       "onboard_time": 1741331061,
       "rank": 16,
@@ -148,11 +148,19 @@
     },
     {
       "raw_hot": 629599,
-      "num": 246792,
+      "num": 275901,
       "word": "赵丽颖掌公主回归",
       "onboard_time": 1741332021,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 600301,
+      "num": 281784,
+      "word": "小鱼海棠给刚出生的儿子开通账号",
+      "onboard_time": 1741338623,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 593988,
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 551197,
-      "num": 227383,
+      "num": 274203,
       "word": "民宿老板3千网购小熊被索赔3.8万",
       "onboard_time": 1741334421,
       "rank": 15,
@@ -347,6 +355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 370084,
+      "num": 370084,
+      "word": "女子从8楼丢下3个花盆被判刑",
+      "onboard_time": 1741334841,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 365877,
       "num": 282816,
       "word": "高额彩礼受谴责对象不该是女性",
@@ -361,6 +377,22 @@
       "onboard_time": 1741321103,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 361855,
+      "num": 361855,
+      "word": "当独生子女开始遭遇父母重病",
+      "onboard_time": 1741337782,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 358283,
+      "num": 358283,
+      "word": "妇女节能不能补假",
+      "onboard_time": 1741337482,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 355908,
@@ -555,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 273319,
+      "num": 273319,
+      "word": "文都教育暂停与何凯文合作",
+      "onboard_time": 1741338501,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 270431,
       "num": 569013,
       "word": "中国进口乌克兰豌豆和水产品",
@@ -619,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234365,
+      "num": 287805,
+      "word": "电影女足阵容",
+      "onboard_time": 1741335803,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 231814,
       "num": 231814,
       "word": "NJZ出席ADOR诉讼",
@@ -627,8 +675,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231277,
+      "num": 231277,
+      "word": "台湾从来不是一个国家",
+      "onboard_time": 1741332442,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 230538,
-      "num": 230538,
+      "num": 242201,
       "word": "你好星期六宿舍",
       "onboard_time": 1741335860,
       "rank": 9,
@@ -640,14 +696,6 @@
       "word": "全国两会",
       "onboard_time": 1741257622,
       "rank": 36,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 224826,
-      "num": 227010,
-      "word": "台湾从来不是一个国家",
-      "onboard_time": 1741332442,
-      "rank": 9,
       "category": "国内时政"
     },
     {
@@ -668,7 +716,7 @@
     },
     {
       "raw_hot": 218869,
-      "num": 226933,
+      "num": 285020,
       "word": "杨蓉演技",
       "onboard_time": 1741334662,
       "rank": 16,
@@ -763,6 +811,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 204407,
+      "num": 147773,
+      "word": "麦琳与女儿拍写真",
+      "onboard_time": 1741338741,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203165,
       "num": 258087,
       "word": "程潇向阳花人设",
@@ -843,20 +899,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 193097,
-      "num": 190734,
-      "word": "电影女足阵容",
-      "onboard_time": 1741335803,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 193005,
       "num": 193005,
       "word": "其实旅游是最检验友情和人品的",
       "onboard_time": 1741324284,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 192374,
+      "num": 192374,
+      "word": "iPhone17或全系标配LTPO灵动岛屏幕",
+      "onboard_time": 1741336161,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 191421,
@@ -963,14 +1019,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 174409,
-      "num": 225192,
-      "word": "女子从8楼丢下3个花盆被判刑",
-      "onboard_time": 1741334841,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 174363,
       "num": 254672,
       "word": "刘浩存 好吗文淇妹妹",
@@ -1009,14 +1057,6 @@
       "onboard_time": 1741317141,
       "rank": 34,
       "category": "体育,美食"
-    },
-    {
-      "raw_hot": 168947,
-      "num": 168947,
-      "word": "iPhone17或全系标配LTPO灵动岛屏幕",
-      "onboard_time": 1741336161,
-      "rank": 24,
-      "category": "数码"
     },
     {
       "raw_hot": 168382,
@@ -1163,6 +1203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153278,
+      "num": 153278,
+      "word": "何凯文间接持有文都教育股份",
+      "onboard_time": 1741338261,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152937,
       "num": 152937,
       "word": "Asen巡演官宣",
@@ -1233,6 +1281,14 @@
       "onboard_time": 1741332981,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147222,
+      "num": 147222,
+      "word": "字节跳动2024年辞退违规员工353人",
+      "onboard_time": 1741336761,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 146495,
@@ -1411,6 +1467,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 126497,
+      "num": 126497,
+      "word": "官方辟谣接触购物小票会致癌",
+      "onboard_time": 1741338021,
+      "rank": 37,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 126171,
       "num": 126171,
       "word": "以中国的确定性稳住不确定的世界",
@@ -1515,12 +1579,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 117444,
-      "num": 117444,
-      "word": "字节跳动2024年辞退违规员工353人",
-      "onboard_time": 1741336761,
-      "rank": 33,
-      "category": "互联网"
+      "raw_hot": 119687,
+      "num": 126886,
+      "word": "网传有人往海底捞火锅小便警方已立案",
+      "onboard_time": 1741337542,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116570,
@@ -1691,6 +1755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102229,
+      "num": 102229,
+      "word": "琉球群岛为什么没有纳入中国版图",
+      "onboard_time": 1741338561,
+      "rank": 41,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 102222,
       "num": 102222,
       "word": "Manus能做哪些工作",
@@ -1739,12 +1811,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 97819,
+      "num": 234583,
+      "word": "徐若晗新剧爽文人生",
+      "onboard_time": 1741337300,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 96481,
       "num": 96481,
       "word": "人生大事都在上班的夹缝中完成",
       "onboard_time": 1741307062,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 95447,
+      "num": 181409,
+      "word": "打击盗版要压实平台责任",
+      "onboard_time": 1741331542,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 95306,
@@ -1769,14 +1857,6 @@
       "onboard_time": 1741336582,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 90862,
-      "num": 181409,
-      "word": "打击盗版要压实平台责任",
-      "onboard_time": 1741331542,
-      "rank": 13,
-      "category": "国内时政"
     },
     {
       "raw_hot": 89041,
@@ -1835,6 +1915,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82895,
+      "num": 150476,
+      "word": "滤镜",
+      "onboard_time": 1741335202,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 80208,
+      "num": 147895,
+      "word": "妇女节大屏文字每个都震耳欲聋",
+      "onboard_time": 1741337601,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79965,
       "num": 200190,
       "word": "内马尔重回巴西国家队",
@@ -1889,6 +1985,14 @@
       "onboard_time": 1741331182,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 73977,
+      "num": 149565,
+      "word": "胡兵把粉丝群当朋友圈发",
+      "onboard_time": 1741338741,
+      "rank": 30,
+      "category": "时尚"
     },
     {
       "raw_hot": 72832,
@@ -2275,6 +2379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 32407,
+      "num": 150146,
+      "word": "10多万金器丢出租车报警1小时找回",
+      "onboard_time": 1741338261,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 32095,
       "num": 43615,
       "word": "华晨宇钢琴改编怪诞心理学",
@@ -2315,6 +2427,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 22773,
+      "num": 72893,
+      "word": "建议给育儿家庭积分落户更大支持",
+      "onboard_time": 1741337482,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 22717,
       "num": 38772,
       "word": "初音 母鸡卡",
@@ -2353,6 +2473,14 @@
       "onboard_time": 1741284616,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 17989,
+      "num": 149116,
+      "word": "建议降低农民工城市落户门槛",
+      "onboard_time": 1741339403,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 16197,
