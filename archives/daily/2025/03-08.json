@@ -1,6 +1,6 @@
 {
   "startTime": 1741364948328,
-  "endTime": 1741373086079,
+  "endTime": 1741375148740,
   "band_list": [
     {
       "raw_hot": 1045319,
@@ -499,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 25038,
+      "num": 26406,
+      "word": "苦尽柑来遇见你",
+      "onboard_time": 1741374075,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 23923,
       "num": 37355,
       "word": "唐奇好痛一滴泪",
@@ -529,6 +537,14 @@
       "onboard_time": 1741355362,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 11362,
+      "num": 30296,
+      "word": "两会瞬间",
+      "onboard_time": 1741374734,
+      "rank": 22,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [

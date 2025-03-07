@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1741373086079,
+  "endTime": 1741375148740,
   "band_list": [
     {
       "raw_hot": 15162205,
@@ -18379,6 +18379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25038,
+      "num": 26406,
+      "word": "苦尽柑来遇见你",
+      "onboard_time": 1741374075,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 24914,
       "num": 95223,
       "word": "看准了先起步再调整",
@@ -19240,6 +19248,14 @@
       "word": "张天任亮相代表通道",
       "onboard_time": 1741206550,
       "rank": 49,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 11362,
+      "num": 30296,
+      "word": "两会瞬间",
+      "onboard_time": 1741374734,
+      "rank": 22,
       "category": "国内时政"
     },
     {
