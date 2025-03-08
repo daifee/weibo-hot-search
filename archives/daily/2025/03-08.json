@@ -1,6 +1,6 @@
 {
   "startTime": 1741364948328,
-  "endTime": 1741401169206,
+  "endTime": 1741401909742,
   "band_list": [
     {
       "raw_hot": 4523747,
@@ -67,6 +67,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 755299,
+      "num": 755299,
+      "word": "对强奸未成年人的郭某某判处死刑",
+      "onboard_time": 1741399761,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 597490,
       "num": 592745,
       "word": "何凯文即日起退出考研培训",
@@ -89,14 +97,6 @@
       "onboard_time": 1741341203,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 519240,
-      "num": 519240,
-      "word": "对强奸未成年人的郭某某判处死刑",
-      "onboard_time": 1741399761,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 511418,
@@ -147,6 +147,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 357167,
+      "num": 357167,
+      "word": "上海的馒头已经遥遥领先了",
+      "onboard_time": 1741399761,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 351387,
+      "num": 351387,
+      "word": "妇女能顶半边天",
+      "onboard_time": 1741400901,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 338221,
       "num": 197747,
       "word": "男子拆快递眼球扎进几十根玻璃细刺",
@@ -169,14 +185,6 @@
       "onboard_time": 1741355962,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 306992,
-      "num": 306992,
-      "word": "妇女能顶半边天",
-      "onboard_time": 1741400901,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 306945,
@@ -219,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257945,
+      "num": 246451,
+      "word": "曾经很火但消失的女性手机",
+      "onboard_time": 1741397960,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 255992,
       "num": 1123064,
       "word": "站雷军背后的海尔总裁周云杰走红",
@@ -227,20 +243,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 246571,
+      "raw_hot": 249258,
       "num": 246571,
       "word": "林心如范丞丞同框",
       "onboard_time": 1741398021,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 246451,
-      "num": 246451,
-      "word": "曾经很火但消失的女性手机",
-      "onboard_time": 1741397960,
-      "rank": 22,
-      "category": "数码"
     },
     {
       "raw_hot": 237971,
@@ -275,12 +283,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 198268,
+      "num": 198268,
+      "word": "你好星期六三八节全员送花花",
+      "onboard_time": 1741401081,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196348,
       "num": 196348,
       "word": "谁家夫妻过妇女节跟求婚似的",
       "onboard_time": 1741400901,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194436,
+      "num": 289706,
+      "word": "陈丽君鼓励女性做不被定义的自己",
+      "onboard_time": 1741398021,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 193992,
@@ -299,12 +323,12 @@
       "category": "国内时政,民生新闻"
     },
     {
-      "raw_hot": 189051,
-      "num": 287056,
-      "word": "上海的馒头已经遥遥领先了",
-      "onboard_time": 1741399761,
-      "rank": 9,
-      "category": "美食"
+      "raw_hot": 191730,
+      "num": 191730,
+      "word": "知情人称鹿晗在为演唱会做准备",
+      "onboard_time": 1741400663,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 188770,
@@ -339,14 +363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 172228,
-      "num": 289706,
-      "word": "陈丽君鼓励女性做不被定义的自己",
-      "onboard_time": 1741398021,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 167877,
       "num": 708091,
       "word": "张凯丽说35岁明明很年轻",
@@ -377,6 +393,14 @@
       "onboard_time": 1741399042,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 160775,
+      "num": 160775,
+      "word": "女子科学减重2年瘦45斤未反弹",
+      "onboard_time": 1741399880,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158960,
@@ -411,6 +435,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 152067,
+      "num": 152067,
+      "word": "小侯七 张宇",
+      "onboard_time": 1741398142,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 151552,
       "num": 151552,
       "word": "麦琳现在98斤",
@@ -419,20 +451,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 149156,
-      "num": 149156,
-      "word": "女子科学减重2年瘦45斤未反弹",
-      "onboard_time": 1741399880,
-      "rank": 32,
+      "raw_hot": 146730,
+      "num": 146730,
+      "word": "送黄金为什么成了不会出错的选择",
+      "onboard_time": 1741398261,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 145773,
+      "num": 145773,
+      "word": "40岁研究生回应辞职干装修俩月赚2万",
+      "onboard_time": 1741400120,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 147440,
-      "num": 147440,
-      "word": "小侯七 张宇",
-      "onboard_time": 1741398142,
-      "rank": 33,
-      "category": "教育"
+      "raw_hot": 141122,
+      "num": 141122,
+      "word": "王欣瑜2比0奥斯塔彭科",
+      "onboard_time": 1741400901,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 139983,
@@ -467,14 +507,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 134460,
-      "num": 134460,
-      "word": "知情人称鹿晗在为演唱会做准备",
-      "onboard_time": 1741400663,
-      "rank": 35,
-      "category": "演出"
-    },
-    {
       "raw_hot": 134421,
       "num": 134421,
       "word": "朋友圈里挤满了晒海滩照的人",
@@ -491,12 +523,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 131839,
-      "num": 131839,
-      "word": "王欣瑜2比0奥斯塔彭科",
-      "onboard_time": 1741400901,
-      "rank": 37,
-      "category": "体育"
+      "raw_hot": 130742,
+      "num": 266458,
+      "word": "余华英案李铁案写入最高法报告",
+      "onboard_time": 1741398621,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 130722,
+      "num": 130722,
+      "word": "看上去正常实则是焦虑症的行为",
+      "onboard_time": 1741399640,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 129459,
@@ -504,14 +544,6 @@
       "word": "十四届全国人大三次会议第二次全体会议",
       "onboard_time": 1741396041,
       "rank": 9,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 126998,
-      "num": 266458,
-      "word": "余华英案李铁案写入最高法报告",
-      "onboard_time": 1741398621,
-      "rank": 13,
       "category": "国内时政"
     },
     {
@@ -537,6 +569,14 @@
       "onboard_time": 1741366100,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118799,
+      "num": 192746,
+      "word": "何小鹏透露L3级人形机器人明年量产",
+      "onboard_time": 1741401022,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 118344,
@@ -579,11 +619,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 113144,
-      "num": 113144,
-      "word": "40岁研究生回应辞职干装修俩月赚2万",
-      "onboard_time": 1741400120,
-      "rank": 40,
+      "raw_hot": 111725,
+      "num": 111725,
+      "word": "用具象化的声音致敬每一个她",
+      "onboard_time": 1741401081,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -619,20 +659,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 108562,
-      "num": 108562,
-      "word": "用具象化的声音致敬每一个她",
-      "onboard_time": 1741401081,
+      "raw_hot": 108946,
+      "num": 108946,
+      "word": "祝她在自己的热爱里尽情闪耀",
+      "onboard_time": 1741401860,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 106979,
-      "num": 121419,
-      "word": "你好星期六三八节全员送花花",
-      "onboard_time": 1741401081,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 105904,
@@ -683,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97087,
+      "num": 97087,
+      "word": "人工智能等新兴领域将加强立法研究",
+      "onboard_time": 1741401621,
+      "rank": 49,
+      "category": "国内时政,互联网"
+    },
+    {
       "raw_hot": 96951,
       "num": 163127,
       "word": "三八妇女节",
@@ -715,12 +755,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 87869,
-      "num": 112623,
-      "word": "何小鹏透露L3级人形机器人明年量产",
-      "onboard_time": 1741401022,
-      "rank": 41,
-      "category": "汽车"
+      "raw_hot": 87662,
+      "num": 141417,
+      "word": "何苏叶边亲边单手解衬衫扣子",
+      "onboard_time": 1741400720,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 85793,
@@ -740,7 +780,7 @@
     },
     {
       "raw_hot": 85168,
-      "num": 406049,
+      "num": 519314,
       "word": "最高检工作报告",
       "onboard_time": 1741400181,
       "rank": 2,
@@ -752,14 +792,6 @@
       "word": "爱你",
       "onboard_time": 1741350921,
       "rank": 39,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 85010,
-      "num": 97619,
-      "word": "何苏叶边亲边单手解衬衫扣子",
-      "onboard_time": 1741400720,
-      "rank": 49,
       "category": "剧集"
     },
     {
@@ -931,7 +963,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 41058,
+      "raw_hot": 42689,
       "num": 261475,
       "word": "樊维秋案被写入最高法报告",
       "onboard_time": 1741400600,
@@ -1019,6 +1051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 24659,
+      "num": 192910,
+      "word": "梁王组合晋级奥尔良大师赛四强",
+      "onboard_time": 1741401261,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 24557,
       "num": 41941,
       "word": "冈比亚农民把他种的大米送到湖南",
@@ -1049,6 +1089,14 @@
       "onboard_time": 1741380074,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 13282,
+      "num": 152075,
+      "word": "林高远重庆冠军赛宣传片",
+      "onboard_time": 1741401200,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 12936,
