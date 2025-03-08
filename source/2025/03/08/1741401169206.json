@@ -1,0 +1,410 @@
+{
+  "runTime": 1741401169206,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 854886,
+        "num": 1136781,
+        "word": "妇女节",
+        "onboard_time": 1741364181,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 519240,
+        "num": 519240,
+        "word": "对强奸未成年人的郭某某判处死刑",
+        "onboard_time": 1741399761,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 85168,
+        "num": 406049,
+        "word": "最高检工作报告",
+        "onboard_time": 1741400181,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 402489,
+        "num": 402489,
+        "word": "种地吧沙棘农迟疑的一秒钟",
+        "onboard_time": 1741398021,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306992,
+        "num": 306992,
+        "word": "妇女能顶半边天",
+        "onboard_time": 1741400901,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204760,
+        "num": 305879,
+        "word": "三八妇女节的38条祝福",
+        "onboard_time": 1741392320,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193992,
+        "num": 301184,
+        "word": "海南免税新增了即购即提",
+        "onboard_time": 1741394480,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193615,
+        "num": 295293,
+        "word": "最高法最高检工作报告",
+        "onboard_time": 1741396881,
+        "rank": 7,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 172228,
+        "num": 289706,
+        "word": "陈丽君鼓励女性做不被定义的自己",
+        "onboard_time": 1741398021,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189051,
+        "num": 287056,
+        "word": "上海的馒头已经遥遥领先了",
+        "onboard_time": 1741399761,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 2325433,
+        "num": 281621,
+        "word": "何凯文实际成绩71分",
+        "onboard_time": 1741394541,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 362972,
+        "num": 275099,
+        "word": "董力指责阿诺",
+        "onboard_time": 1741398021,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1728292,
+        "num": 273126,
+        "word": "周思成回应何凯文",
+        "onboard_time": 1741398980,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 126998,
+        "num": 266458,
+        "word": "余华英案李铁案写入最高法报告",
+        "onboard_time": 1741398621,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 41058,
+        "num": 261475,
+        "word": "樊维秋案被写入最高法报告",
+        "onboard_time": 1741400600,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 165393,
+        "num": 257558,
+        "word": "秦彻帅不帅",
+        "onboard_time": 1741399042,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 831313,
+        "num": 253740,
+        "word": "田静英语一成绩",
+        "onboard_time": 1741398201,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 249637,
+        "num": 249637,
+        "word": "你一票我一票我们周总也出道",
+        "onboard_time": 1741360942,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 68440,
+        "num": 249176,
+        "word": "我国将制定金融法托育服务法等",
+        "onboard_time": 1741399460,
+        "rank": 18,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 161707,
+        "num": 248465,
+        "word": "电影女足改名为e计划",
+        "onboard_time": 1741393940,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 551367,
+        "num": 248250,
+        "word": "周思成说英语一没有概念的宝",
+        "onboard_time": 1741397960,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 316156,
+        "num": 247352,
+        "word": "白敬亭下播之后一笔巨大的版权费用",
+        "onboard_time": 1741365739,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304662,
+        "num": 246685,
+        "word": "周思成 何凯文",
+        "onboard_time": 1741397902,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 246571,
+        "num": 246571,
+        "word": "林心如范丞丞同框",
+        "onboard_time": 1741398021,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 246451,
+        "num": 246451,
+        "word": "曾经很火但消失的女性手机",
+        "onboard_time": 1741397960,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 237971,
+        "num": 237971,
+        "word": "周思成刘晓艳涨粉",
+        "onboard_time": 1741399219,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 200313,
+        "num": 200313,
+        "word": "特朗普称俄罗斯正殴打乌克兰",
+        "onboard_time": 1741359741,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 197747,
+        "num": 197747,
+        "word": "男子拆快递眼球扎进几十根玻璃细刺",
+        "onboard_time": 1741389737,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109404,
+        "num": 196720,
+        "word": "北上编剧否认为白鹿原创女主",
+        "onboard_time": 1741397121,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105388,
+        "num": 196464,
+        "word": "黄圣依参加最强大脑受伤的是儿子",
+        "onboard_time": 1741356682,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196348,
+        "num": 196348,
+        "word": "谁家夫妻过妇女节跟求婚似的",
+        "onboard_time": 1741400901,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154650,
+        "num": 154650,
+        "word": "蒋敦豪说参加恋综已做了充足准备",
+        "onboard_time": 1741363940,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149156,
+        "num": 149156,
+        "word": "女子科学减重2年瘦45斤未反弹",
+        "onboard_time": 1741399880,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147440,
+        "num": 147440,
+        "word": "小侯七 张宇",
+        "onboard_time": 1741398142,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 137345,
+        "num": 137345,
+        "word": "张凯丽说35岁明明很年轻",
+        "onboard_time": 1741367119,
+        "rank": 34,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 134460,
+        "num": 134460,
+        "word": "知情人称鹿晗在为演唱会做准备",
+        "onboard_time": 1741400663,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134421,
+        "num": 134421,
+        "word": "朋友圈里挤满了晒海滩照的人",
+        "onboard_time": 1741399161,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131839,
+        "num": 131839,
+        "word": "王欣瑜2比0奥斯塔彭科",
+        "onboard_time": 1741400901,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131360,
+        "num": 131360,
+        "word": "她们尽情闪耀",
+        "onboard_time": 1741392320,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106979,
+        "num": 121419,
+        "word": "你好星期六三八节全员送花花",
+        "onboard_time": 1741401081,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113144,
+        "num": 113144,
+        "word": "40岁研究生回应辞职干装修俩月赚2万",
+        "onboard_time": 1741400120,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87869,
+        "num": 112623,
+        "word": "何小鹏透露L3级人形机器人明年量产",
+        "onboard_time": 1741401022,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 112534,
+        "num": 112534,
+        "word": "十四届全国人大三次会议第二次全体会议",
+        "onboard_time": 1741396041,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 109351,
+        "num": 109351,
+        "word": "Doinb拿到五星卡",
+        "onboard_time": 1741397960,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108562,
+        "num": 108562,
+        "word": "用具象化的声音致敬每一个她",
+        "onboard_time": 1741401081,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106258,
+        "num": 106258,
+        "word": "站雷军背后的海尔总裁周云杰走红",
+        "onboard_time": 1741345101,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 103940,
+        "num": 103940,
+        "word": "戚薇李承铉每天在厕所聊好几个小时",
+        "onboard_time": 1741358902,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98564,
+        "num": 98564,
+        "word": "祝福每一个闪闪发光的她",
+        "onboard_time": 1741392800,
+        "rank": 47,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 188093,
+        "num": 98225,
+        "word": "何凯文即日起退出考研培训",
+        "onboard_time": 1741394661,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 85010,
+        "num": 97619,
+        "word": "何苏叶边亲边单手解衬衫扣子",
+        "onboard_time": 1741400720,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#实现我军建设十四五规划圆满收官#"
+    }
+  }
+}
