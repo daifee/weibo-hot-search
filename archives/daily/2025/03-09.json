@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741469774174,
+  "endTime": 1741472299394,
   "band_list": [
     {
       "raw_hot": 1535197,
@@ -419,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 72426,
+      "num": 59199,
+      "word": "温以凡香港刷盘子",
+      "onboard_time": 1741463834,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 66998,
       "num": 66998,
       "word": "dsn直播",
@@ -433,14 +441,6 @@
       "onboard_time": 1741447463,
       "rank": 48,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 52561,
-      "num": 43952,
-      "word": "温以凡香港刷盘子",
-      "onboard_time": 1741463834,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 48171,
@@ -467,20 +467,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35443,
+      "num": 35443,
+      "word": "家有儿女是这样过妇女节的",
+      "onboard_time": 1741460235,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 35273,
       "num": 35273,
       "word": "探清水河一响辫儿哥哥回来了",
       "onboard_time": 1741449261,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 30973,
-      "num": 29214,
-      "word": "家有儿女是这样过妇女节的",
-      "onboard_time": 1741460235,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 30794,
@@ -547,20 +547,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 22247,
+      "num": 20365,
+      "word": "怪不得平台建议后排入座呢",
+      "onboard_time": 1741470193,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 19458,
+      "num": 26430,
+      "word": "最高法报告提到治理高额彩礼",
+      "onboard_time": 1741468513,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 17308,
-      "num": 17680,
+      "num": 19427,
       "word": "外国记者替老乡追问哪吒2",
       "onboard_time": 1741463174,
       "rank": 39,
       "category": "国内时政"
     },
     {
-      "raw_hot": 13163,
-      "num": 26430,
-      "word": "最高法报告提到治理高额彩礼",
-      "onboard_time": 1741468513,
-      "rank": 22,
-      "category": "国内时政"
+      "raw_hot": 14977,
+      "num": 19436,
+      "word": "北上乱成一锅粥了快喝了吧",
+      "onboard_time": 1741471454,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 12378,
@@ -569,6 +585,14 @@
       "onboard_time": 1741461375,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12237,
+      "num": 19422,
+      "word": "致敬每一位追梦的中国女性",
+      "onboard_time": 1741470133,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12157,
@@ -587,27 +611,27 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 11742,
-      "num": 16884,
-      "word": "两会热词条",
-      "onboard_time": 1741468334,
-      "rank": 42,
+      "raw_hot": 12047,
+      "num": 19421,
+      "word": "一目了然看政府工作十大任务",
+      "onboard_time": 1741469353,
+      "rank": 46,
       "category": "国内时政"
     },
     {
-      "raw_hot": 11641,
-      "num": 16872,
+      "raw_hot": 11970,
+      "num": 19410,
       "word": "两高工作报告点名了哪些案例",
       "onboard_time": 1741467553,
       "rank": 45,
       "category": "国内时政"
     },
     {
-      "raw_hot": 11640,
-      "num": 16870,
-      "word": "一目了然看政府工作十大任务",
-      "onboard_time": 1741469353,
-      "rank": 46,
+      "raw_hot": 11742,
+      "num": 19412,
+      "word": "两会热词条",
+      "onboard_time": 1741468334,
+      "rank": 42,
       "category": "国内时政"
     }
   ],
