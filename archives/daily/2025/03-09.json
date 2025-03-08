@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741475989452,
+  "endTime": 1741476940958,
   "band_list": [
     {
       "raw_hot": 1535197,
@@ -115,20 +115,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 280264,
+      "num": 108241,
+      "word": "麦琳说再见爱人后容貌焦虑达到峰值",
+      "onboard_time": 1741455797,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 275046,
+      "num": 275046,
+      "word": "烟盒写建议被采纳82岁大爷回应走红",
+      "onboard_time": 1741440562,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 266557,
       "num": 165615,
       "word": "TOP登陆少年",
       "onboard_time": 1741451120,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 243767,
-      "num": 243767,
-      "word": "烟盒写建议被采纳82岁大爷回应走红",
-      "onboard_time": 1741440562,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 242025,
@@ -139,20 +147,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 237977,
+      "num": 108214,
+      "word": "小米SU7Ultra车主深夜城区飙车",
+      "onboard_time": 1741476376,
+      "rank": 11,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 226148,
       "num": 226148,
       "word": "住酒店上厕所隐私视频被售卖",
       "onboard_time": 1741441042,
       "rank": 18,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 222221,
-      "num": 86736,
-      "word": "麦琳说再见爱人后容貌焦虑达到峰值",
-      "onboard_time": 1741455797,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 208545,
@@ -169,6 +177,22 @@
       "onboard_time": 1741443023,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176233,
+      "num": 176233,
+      "word": "温以凡香港刷盘子",
+      "onboard_time": 1741463834,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 171540,
+      "num": 171540,
+      "word": "北上乱成一锅粥了快喝了吧",
+      "onboard_time": 1741471454,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 166193,
@@ -195,12 +219,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 155672,
-      "num": 155672,
-      "word": "温以凡香港刷盘子",
-      "onboard_time": 1741463834,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 152443,
+      "num": 152443,
+      "word": "电影雄狮少年维权声明",
+      "onboard_time": 1741454118,
+      "rank": 1,
+      "category": "电影"
     },
     {
       "raw_hot": 150223,
@@ -217,14 +241,6 @@
       "onboard_time": 1741425621,
       "rank": 23,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 132085,
-      "num": 132085,
-      "word": "电影雄狮少年维权声明",
-      "onboard_time": 1741454118,
-      "rank": 1,
-      "category": "电影"
     },
     {
       "raw_hot": 123634,
@@ -307,14 +323,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 104702,
-      "num": 104702,
-      "word": "北上乱成一锅粥了快喝了吧",
-      "onboard_time": 1741471454,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 100903,
       "num": 100903,
       "word": "你好星期六",
@@ -379,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 80738,
+      "num": 80738,
+      "word": "探清水河一响辫儿哥哥回来了",
+      "onboard_time": 1741449261,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 79422,
       "num": 79422,
       "word": "肖战我们获得巅峰年度专辑",
@@ -401,6 +417,14 @@
       "onboard_time": 1741446801,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 77893,
+      "num": 48004,
+      "word": "怪不得平台建议后排入座呢",
+      "onboard_time": 1741470193,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 77795,
@@ -435,22 +459,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 69832,
-      "num": 69832,
-      "word": "探清水河一响辫儿哥哥回来了",
-      "onboard_time": 1741449261,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 68758,
-      "num": 38185,
-      "word": "怪不得平台建议后排入座呢",
-      "onboard_time": 1741470193,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 66998,
       "num": 66998,
       "word": "dsn直播",
@@ -459,7 +467,7 @@
       "category": "网红"
     },
     {
-      "raw_hot": 60401,
+      "raw_hot": 60674,
       "num": 71426,
       "word": "吴艳妮的后程没有对手",
       "onboard_time": 1741450041,
@@ -483,7 +491,15 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 46082,
+      "raw_hot": 50164,
+      "num": 108056,
+      "word": "每一个人都是主角",
+      "onboard_time": 1741475416,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46378,
       "num": 208079,
       "word": "柬埔寨警方突袭电诈园区",
       "onboard_time": 1741446922,
@@ -499,12 +515,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 33980,
-      "num": 72705,
-      "word": "每一个人都是主角",
-      "onboard_time": 1741475416,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 32530,
+      "num": 35030,
+      "word": "刘宇伯远段奥娟阳光男孩女孩",
+      "onboard_time": 1741458675,
+      "rank": 42,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 30794,
@@ -515,16 +531,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 30127,
-      "num": 30127,
-      "word": "刘宇伯远段奥娟阳光男孩女孩",
-      "onboard_time": 1741458675,
-      "rank": 42,
-      "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 26934,
-      "num": 29314,
+      "raw_hot": 30041,
+      "num": 35029,
       "word": "男子拆快递瞬间眼睛差点瞎了",
       "onboard_time": 1741459575,
       "rank": 30,
@@ -556,11 +564,19 @@
     },
     {
       "raw_hot": 24509,
-      "num": 29313,
+      "num": 35028,
       "word": "最高法报告提到治理高额彩礼",
       "onboard_time": 1741468513,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 23031,
+      "num": 35027,
+      "word": "严惩侵犯妇女生命健康人格尊严",
+      "onboard_time": 1741473795,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22722,
@@ -579,20 +595,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 19536,
-      "num": 29310,
+      "raw_hot": 22420,
+      "num": 35027,
       "word": "外国记者替老乡追问哪吒2",
       "onboard_time": 1741463174,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 18739,
-      "num": 29310,
-      "word": "严惩侵犯妇女生命健康人格尊严",
-      "onboard_time": 1741473795,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12649,
