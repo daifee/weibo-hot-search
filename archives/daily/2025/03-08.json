@@ -1,6 +1,6 @@
 {
   "startTime": 1741364948328,
-  "endTime": 1741401909742,
+  "endTime": 1741404094872,
   "band_list": [
     {
       "raw_hot": 4523747,
@@ -27,6 +27,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1222667,
+      "num": 1222667,
+      "word": "教资",
+      "onboard_time": 1741403605,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1045319,
       "num": 160103,
       "word": "赵一博 我和雪梨在一起是事实",
@@ -35,12 +43,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1037752,
+      "num": 1037752,
+      "word": "对强奸未成年人的郭某某判处死刑",
+      "onboard_time": 1741399761,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1021408,
       "num": 1163425,
       "word": "妇女节",
       "onboard_time": 1741364181,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 872845,
+      "num": 872845,
+      "word": "上海的馒头已经遥遥领先了",
+      "onboard_time": 1741399761,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 831313,
@@ -65,14 +89,6 @@
       "onboard_time": 1741365739,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 755299,
-      "num": 755299,
-      "word": "对强奸未成年人的郭某某判处死刑",
-      "onboard_time": 1741399761,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 597490,
@@ -115,6 +131,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 451847,
+      "num": 225128,
+      "word": "董力儿子7岁女儿2岁",
+      "onboard_time": 1741403605,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 422264,
       "num": 517579,
       "word": "台军一护卫舰爆炸",
@@ -139,20 +163,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 393405,
+      "num": 393405,
+      "word": "哪吒",
+      "onboard_time": 1741402101,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 362972,
       "num": 275099,
       "word": "董力指责阿诺",
       "onboard_time": 1741398021,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 357167,
-      "num": 357167,
-      "word": "上海的馒头已经遥遥领先了",
-      "onboard_time": 1741399761,
-      "rank": 9,
-      "category": "美食"
     },
     {
       "raw_hot": 351387,
@@ -227,6 +251,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 266049,
+      "num": 266049,
+      "word": "你好星期六三八节全员送花花",
+      "onboard_time": 1741401081,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 264730,
+      "num": 224419,
+      "word": "知情人称鹿晗在为演唱会做准备",
+      "onboard_time": 1741400663,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 261134,
+      "num": 226453,
+      "word": "对加拿大水产品猪肉加征25%关税",
+      "onboard_time": 1741402341,
+      "rank": 16,
+      "category": "国际时政,财经"
+    },
+    {
       "raw_hot": 257945,
       "num": 246451,
       "word": "曾经很火但消失的女性手机",
@@ -251,12 +299,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 246459,
+      "num": 226680,
+      "word": "核准追诉低龄未成年人严重暴力犯罪34人",
+      "onboard_time": 1741402520,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 237971,
       "num": 237971,
       "word": "周思成刘晓艳涨粉",
       "onboard_time": 1741399219,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 228248,
+      "num": 951963,
+      "word": "三八妇女节的38条祝福",
+      "onboard_time": 1741392320,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 224270,
+      "num": 224270,
+      "word": "看上去正常实则是焦虑症的行为",
+      "onboard_time": 1741399640,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 217659,
@@ -267,12 +339,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 204760,
-      "num": 951963,
-      "word": "三八妇女节的38条祝福",
-      "onboard_time": 1741392320,
-      "rank": 4,
-      "category": "民生新闻"
+      "raw_hot": 215423,
+      "num": 215423,
+      "word": "教资作文",
+      "onboard_time": 1741403961,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 206597,
+      "num": 289706,
+      "word": "陈丽君鼓励女性做不被定义的自己",
+      "onboard_time": 1741398021,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 203662,
@@ -283,12 +363,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 198268,
-      "num": 198268,
-      "word": "你好星期六三八节全员送花花",
-      "onboard_time": 1741401081,
-      "rank": 39,
-      "category": "综艺"
+      "raw_hot": 197534,
+      "num": 197534,
+      "word": "女子科学减重2年瘦45斤未反弹",
+      "onboard_time": 1741399880,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 196348,
@@ -297,14 +377,6 @@
       "onboard_time": 1741400901,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 194436,
-      "num": 289706,
-      "word": "陈丽君鼓励女性做不被定义的自己",
-      "onboard_time": 1741398021,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 193992,
@@ -321,14 +393,6 @@
       "onboard_time": 1741396881,
       "rank": 6,
       "category": "国内时政,民生新闻"
-    },
-    {
-      "raw_hot": 191730,
-      "num": 191730,
-      "word": "知情人称鹿晗在为演唱会做准备",
-      "onboard_time": 1741400663,
-      "rank": 35,
-      "category": "演出"
     },
     {
       "raw_hot": 188770,
@@ -355,11 +419,27 @@
       "category": "网红"
     },
     {
+      "raw_hot": 182277,
+      "num": 182277,
+      "word": "教资科一",
+      "onboard_time": 1741403961,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 175488,
       "num": 175488,
       "word": "当独生子女开始遭遇父母重病",
       "onboard_time": 1741337782,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173376,
+      "num": 173376,
+      "word": "40岁研究生回应辞职干装修俩月赚2万",
+      "onboard_time": 1741400120,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -395,14 +475,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 160775,
-      "num": 160775,
-      "word": "女子科学减重2年瘦45斤未反弹",
-      "onboard_time": 1741399880,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 158960,
       "num": 158960,
       "word": "Doinb拿到五星卡",
@@ -417,6 +489,14 @@
       "onboard_time": 1741352061,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 157831,
+      "num": 157831,
+      "word": "小侯七 张宇",
+      "onboard_time": 1741398142,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 155552,
@@ -435,12 +515,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 152067,
-      "num": 152067,
-      "word": "小侯七 张宇",
-      "onboard_time": 1741398142,
-      "rank": 33,
-      "category": "教育"
+      "raw_hot": 152685,
+      "num": 189233,
+      "word": "妇女节档期",
+      "onboard_time": 1741402700,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 151552,
@@ -459,12 +539,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 145773,
-      "num": 145773,
-      "word": "40岁研究生回应辞职干装修俩月赚2万",
-      "onboard_time": 1741400120,
-      "rank": 40,
-      "category": "民生新闻"
+      "raw_hot": 144201,
+      "num": 144201,
+      "word": "杨紫送妇女节祝福",
+      "onboard_time": 1741403421,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 141122,
@@ -531,14 +611,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 130722,
-      "num": 130722,
-      "word": "看上去正常实则是焦虑症的行为",
-      "onboard_time": 1741399640,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 129459,
       "num": 234105,
       "word": "十四届全国人大三次会议第二次全体会议",
@@ -563,6 +635,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 120958,
+      "num": 120958,
+      "word": "39岁女医生发工作日常被60万人点赞",
+      "onboard_time": 1741403901,
+      "rank": 40,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 120941,
       "num": 120941,
       "word": "赵小童在电光火石中收工",
@@ -572,7 +652,7 @@
     },
     {
       "raw_hot": 118799,
-      "num": 192746,
+      "num": 226165,
       "word": "何小鹏透露L3级人形机器人明年量产",
       "onboard_time": 1741401022,
       "rank": 41,
@@ -601,6 +681,14 @@
       "onboard_time": 1741392800,
       "rank": 30,
       "category": "情感,民生新闻"
+    },
+    {
+      "raw_hot": 114595,
+      "num": 114595,
+      "word": "女子离婚要求带走全部嫁妆",
+      "onboard_time": 1741403722,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113974,
@@ -747,6 +835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91137,
+      "num": 102218,
+      "word": "虞书欣国王预约破500万跳5",
+      "onboard_time": 1741402101,
+      "rank": 48,
+      "category": "综艺,演出"
+    },
+    {
       "raw_hot": 89350,
       "num": 98659,
       "word": "建议规范幼师编制",
@@ -761,6 +857,14 @@
       "onboard_time": 1741400720,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 85932,
+      "num": 227055,
+      "word": "郑钦文妇女节采访提到张雨霏",
+      "onboard_time": 1741403483,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 85793,
@@ -875,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 68761,
+      "num": 236211,
+      "word": "第2场部长通道",
+      "onboard_time": 1741402582,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 68440,
       "num": 249176,
       "word": "我国将制定金融法托育服务法等",
@@ -889,6 +1001,14 @@
       "onboard_time": 1741392079,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 60644,
+      "num": 227709,
+      "word": "广州是第一个庆祝妇女节的城市",
+      "onboard_time": 1741402520,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56912,
@@ -968,6 +1088,14 @@
       "word": "樊维秋案被写入最高法报告",
       "onboard_time": 1741400600,
       "rank": 14,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 39711,
+      "num": 881565,
+      "word": "最高法工作报告",
+      "onboard_time": 1741398500,
+      "rank": 2,
       "category": "国内时政"
     },
     {
