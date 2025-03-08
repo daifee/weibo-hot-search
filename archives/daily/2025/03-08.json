@@ -1,6 +1,6 @@
 {
   "startTime": 1741364948328,
-  "endTime": 1741444515625,
+  "endTime": 1741447160117,
   "band_list": [
     {
       "raw_hot": 4523747,
@@ -99,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1299926,
+      "num": 346289,
+      "word": "蒋敦豪说请大家坚定的选择十个勤天",
+      "onboard_time": 1741444703,
+      "rank": 10,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1212801,
       "num": 360737,
       "word": "伊能静都57了还在免检生图",
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 874698,
-      "num": 874698,
+      "num": 1137612,
       "word": "烟盒写建议被采纳82岁大爷回应走红",
       "onboard_time": 1741440562,
       "rank": 41,
@@ -233,6 +241,14 @@
       "onboard_time": 1741360942,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 773091,
+      "num": 773091,
+      "word": "超600吨黄金流入美国",
+      "onboard_time": 1741442422,
+      "rank": 8,
+      "category": "财经"
     },
     {
       "raw_hot": 772742,
@@ -299,12 +315,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 631885,
-      "num": 631885,
-      "word": "超600吨黄金流入美国",
-      "onboard_time": 1741442422,
-      "rank": 8,
-      "category": "财经"
+      "raw_hot": 605781,
+      "num": 375463,
+      "word": "住酒店上厕所隐私视频被售卖",
+      "onboard_time": 1741441042,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 597490,
@@ -419,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 444168,
+      "num": 444168,
+      "word": "石矶娘娘已经逃到洛阳了",
+      "onboard_time": 1741445182,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 443604,
       "num": 443604,
       "word": "装修快收尾时才发现装错了房子",
@@ -497,6 +521,14 @@
       "onboard_time": 1741403961,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 368957,
+      "num": 312363,
+      "word": "十个勤天",
+      "onboard_time": 1741444343,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 362972,
@@ -819,6 +851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 248499,
+      "num": 248499,
+      "word": "丁程鑫 姐夫这是工作",
+      "onboard_time": 1741443623,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242318,
       "num": 242318,
       "word": "丁禹兮战损妆",
@@ -873,6 +913,14 @@
       "onboard_time": 1741439662,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 214478,
+      "num": 214478,
+      "word": "梅婷和女儿拍大片",
+      "onboard_time": 1741444641,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 209352,
@@ -937,6 +985,14 @@
       "onboard_time": 1741426161,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 205504,
+      "num": 205504,
+      "word": "李雪琴拍的石凯",
+      "onboard_time": 1741446082,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 204459,
@@ -1059,8 +1115,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 189972,
-      "num": 189972,
+      "raw_hot": 193104,
+      "num": 193104,
       "word": "凡人修仙传",
       "onboard_time": 1741443442,
       "rank": 24,
@@ -1113,14 +1169,6 @@
       "onboard_time": 1741432582,
       "rank": 8,
       "category": "演出,综艺"
-    },
-    {
-      "raw_hot": 187892,
-      "num": 187892,
-      "word": "丁程鑫 姐夫这是工作",
-      "onboard_time": 1741443623,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 187858,
@@ -1299,6 +1347,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 171101,
+      "num": 171101,
+      "word": "肖战我们获得巅峰年度专辑",
+      "onboard_time": 1741445842,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 171026,
       "num": 197076,
       "word": "杨紫送妇女节祝福",
@@ -1379,6 +1435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161439,
+      "num": 161439,
+      "word": "文淇好帅",
+      "onboard_time": 1741445303,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 160498,
       "num": 160498,
       "word": "教资选择题 难",
@@ -1427,14 +1491,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 159253,
-      "num": 159253,
-      "word": "十个勤天",
-      "onboard_time": 1741444343,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 159161,
       "num": 159161,
       "word": "宋亚轩这是我的西游录制路透",
@@ -1481,6 +1537,14 @@
       "onboard_time": 1741422262,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154062,
+      "num": 154062,
+      "word": "没见过林一这么硬的剧宣",
+      "onboard_time": 1741444043,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 153209,
@@ -1547,14 +1611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 149130,
-      "num": 149130,
-      "word": "没见过林一这么硬的剧宣",
-      "onboard_time": 1741444043,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 148333,
       "num": 148333,
       "word": "第五人格杰克",
@@ -1569,14 +1625,6 @@
       "onboard_time": 1741430900,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 147804,
-      "num": 375463,
-      "word": "住酒店上厕所隐私视频被售卖",
-      "onboard_time": 1741441042,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 147454,
@@ -1699,6 +1747,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 138766,
+      "num": 138766,
+      "word": "林忆莲台下混进真女儿了",
+      "onboard_time": 1741446202,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 138742,
       "num": 150723,
       "word": "张凌赫偶像剧的脸生活化的演技",
@@ -1803,6 +1859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132155,
+      "num": 132155,
+      "word": "纪录片大国基石",
+      "onboard_time": 1741445783,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131418,
       "num": 131418,
       "word": "孙颖莎说坚定的力量",
@@ -1859,6 +1923,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 128879,
+      "num": 128879,
+      "word": "毛不易在厦门上演爱饼才会赢",
+      "onboard_time": 1741446263,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 128699,
       "num": 159190,
       "word": "刘浩存戒断反应花絮硬控我30秒",
@@ -1873,6 +1945,14 @@
       "onboard_time": 1741405222,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127497,
+      "num": 127497,
+      "word": "卓沅完工",
+      "onboard_time": 1741446381,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 126591,
@@ -1945,6 +2025,14 @@
       "onboard_time": 1741432642,
       "rank": 41,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 121913,
+      "num": 121913,
+      "word": "人大代表建议将农村医保改为储蓄型",
+      "onboard_time": 1741446863,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 121556,
@@ -2033,6 +2121,14 @@
       "onboard_time": 1741355482,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 118331,
+      "num": 121227,
+      "word": "诺丁汉森林1比0曼城",
+      "onboard_time": 1741445783,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 117433,
@@ -2411,6 +2507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102124,
+      "num": 318799,
+      "word": "陈飞宇巴黎直播",
+      "onboard_time": 1741446502,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101594,
       "num": 193141,
       "word": "缅北明家被写入最高检报告",
@@ -2508,7 +2612,7 @@
     },
     {
       "raw_hot": 98393,
-      "num": 168770,
+      "num": 352676,
       "word": "周鸿祎谈手机电脑AI化",
       "onboard_time": 1741444403,
       "rank": 30,
@@ -2700,7 +2804,7 @@
     },
     {
       "raw_hot": 89324,
-      "num": 171335,
+      "num": 316288,
       "word": "搞氛围这块还得看上海",
       "onboard_time": 1741443743,
       "rank": 29,
@@ -3139,6 +3243,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 48125,
+      "num": 333877,
+      "word": "代表说996不理想应该888",
+      "onboard_time": 1741446624,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 47762,
       "num": 98125,
       "word": "曝iPhone17ProMax变厚了",
@@ -3409,6 +3521,14 @@
       "onboard_time": 1741421002,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27746,
+      "num": 134354,
+      "word": "如何轻松拍出人像故事感大片",
+      "onboard_time": 1741445842,
+      "rank": 38,
+      "category": "时尚"
     },
     {
       "raw_hot": 27291,
