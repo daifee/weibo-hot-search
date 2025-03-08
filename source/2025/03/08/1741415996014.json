@@ -1,0 +1,410 @@
+{
+  "runTime": 1741415996014,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 556108,
+        "num": 1088977,
+        "word": "哪吒票房",
+        "onboard_time": 1741407502,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 477140,
+        "num": 477140,
+        "word": "上海的馒头已经遥遥领先了",
+        "onboard_time": 1741399761,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 44166,
+        "num": 425414,
+        "word": "2025国家立法抢鲜看",
+        "onboard_time": 1741398741,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 511255,
+        "num": 420705,
+        "word": "邓超录综艺被老人问明星什么时候来",
+        "onboard_time": 1741414942,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 404198,
+        "num": 404198,
+        "word": "妇女节",
+        "onboard_time": 1741364181,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388932,
+        "num": 388932,
+        "word": "装修快收尾时才发现装错了房子",
+        "onboard_time": 1741407621,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 373331,
+        "num": 373331,
+        "word": "比何以琛还好哄的人出现了",
+        "onboard_time": 1741409242,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 369715,
+        "num": 369715,
+        "word": "倪萍脱口秀全程现挂炸场",
+        "onboard_time": 1741410862,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256062,
+        "num": 256062,
+        "word": "郑钦文vs阿扎伦卡",
+        "onboard_time": 1741411761,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226443,
+        "num": 226443,
+        "word": "国乒WTT仁川冠军赛名单",
+        "onboard_time": 1741413561,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 777423,
+        "num": 225328,
+        "word": "泰国最受欢迎的中国女明星",
+        "onboard_time": 1741409842,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193742,
+        "num": 193742,
+        "word": "马嘉祺cos黑熊精",
+        "onboard_time": 1741414881,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 366427,
+        "num": 193478,
+        "word": "倪萍爆料90岁妈妈在家喝冰可乐",
+        "onboard_time": 1741411220,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58300,
+        "num": 193223,
+        "word": "国乒多名主力使用参赛豁免权",
+        "onboard_time": 1741415301,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63716,
+        "num": 193141,
+        "word": "缅北明家被写入最高检报告",
+        "onboard_time": 1741409062,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 193131,
+        "num": 193131,
+        "word": "董力儿子7岁女儿2岁",
+        "onboard_time": 1741403605,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54496,
+        "num": 193128,
+        "word": "白敬亭 氛围感帅哥你不懂",
+        "onboard_time": 1741415000,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48988,
+        "num": 193105,
+        "word": "职场到底拼经验还是拼年轻",
+        "onboard_time": 1741414461,
+        "rank": 17,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 23239,
+        "num": 193097,
+        "word": "当你被问你相信光吗",
+        "onboard_time": 1741414581,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113936,
+        "num": 193087,
+        "word": "郑钦文1比0阿扎伦卡",
+        "onboard_time": 1741415241,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193078,
+        "num": 193078,
+        "word": "约基奇恐怖三双历史第一人",
+        "onboard_time": 1741415720,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1239376,
+        "num": 188516,
+        "word": "房东收到一笔3782元陌生转账",
+        "onboard_time": 1741408161,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180281,
+        "num": 180281,
+        "word": "39岁女医生发工作日常被60万人点赞",
+        "onboard_time": 1741403901,
+        "rank": 22,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 178813,
+        "num": 178813,
+        "word": "王者荣耀",
+        "onboard_time": 1741409661,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171469,
+        "num": 171469,
+        "word": "袁姗姗秀场东方美",
+        "onboard_time": 1741414702,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 164438,
+        "num": 164438,
+        "word": "小侯七 张宇",
+        "onboard_time": 1741398142,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 153209,
+        "num": 153209,
+        "word": "哪吒2距全球票房第6差1.8亿",
+        "onboard_time": 1741412661,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151601,
+        "num": 151601,
+        "word": "粉笔崩了",
+        "onboard_time": 1741410681,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 131599,
+        "num": 131599,
+        "word": "教资",
+        "onboard_time": 1741403605,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 130653,
+        "num": 130653,
+        "word": "唐香玉当着向太说自己是脱口秀郭碧婷",
+        "onboard_time": 1741412303,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126366,
+        "num": 126366,
+        "word": "恋与深空",
+        "onboard_time": 1741410862,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123869,
+        "num": 123869,
+        "word": "三八妇女节的38条祝福",
+        "onboard_time": 1741392320,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122808,
+        "num": 122808,
+        "word": "种地吧",
+        "onboard_time": 1741407803,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114981,
+        "num": 121339,
+        "word": "严浩翔cos孙悟空路透",
+        "onboard_time": 1741414341,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120167,
+        "num": 120167,
+        "word": "妇女能顶半边天",
+        "onboard_time": 1741400901,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118003,
+        "num": 118003,
+        "word": "十个勤天去年半年开了20场演唱会",
+        "onboard_time": 1741405581,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110324,
+        "num": 110324,
+        "word": "建议新人结婚前先上课",
+        "onboard_time": 1741410441,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 97866,
+        "num": 97866,
+        "word": "肖战包场天堂旅行团",
+        "onboard_time": 1741410321,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 92900,
+        "num": 92900,
+        "word": "李昀锐白发老年妆",
+        "onboard_time": 1741406061,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92644,
+        "num": 92644,
+        "word": "夸夸每一个她",
+        "onboard_time": 1741405942,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92605,
+        "num": 92605,
+        "word": "教资考2024巴黎奥运会混合游泳接力",
+        "onboard_time": 1741412303,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 92445,
+        "num": 92445,
+        "word": "龚俊打网球好帅",
+        "onboard_time": 1741412842,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91932,
+        "num": 91932,
+        "word": "尹锡悦即将获释",
+        "onboard_time": 1741413020,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 92202,
+        "num": 90865,
+        "word": "核准追诉低龄未成年人严重暴力犯罪34人",
+        "onboard_time": 1741402520,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 87255,
+        "num": 87255,
+        "word": "DOU5对战ITZY",
+        "onboard_time": 1741415782,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 85480,
+        "num": 85480,
+        "word": "知情人称鹿晗在为演唱会做准备",
+        "onboard_time": 1741400663,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 85392,
+        "num": 85392,
+        "word": "宋雨琦老公是一种感觉",
+        "onboard_time": 1741406541,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 83215,
+        "num": 83215,
+        "word": "曾经很火但消失的女性手机",
+        "onboard_time": 1741397960,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 81512,
+        "num": 81512,
+        "word": "离了张远谁还逗邓佳鑫笑",
+        "onboard_time": 1741415961,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77350,
+        "num": 81500,
+        "word": "章若楠边唱歌边说对不起",
+        "onboard_time": 1741415539,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#教育不能把最基本的丢掉#"
+    }
+  }
+}

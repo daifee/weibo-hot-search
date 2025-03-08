@@ -1,6 +1,6 @@
 {
   "startTime": 1741364948328,
-  "endTime": 1741415137798,
+  "endTime": 1741415996014,
   "band_list": [
     {
       "raw_hot": 4523747,
@@ -185,6 +185,14 @@
       "onboard_time": 1741350681,
       "rank": 11,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 511255,
+      "num": 420705,
+      "word": "邓超录综艺被老人问明星什么时候来",
+      "onboard_time": 1741414942,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 486555,
@@ -483,12 +491,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 235376,
-      "num": 235376,
-      "word": "邓超录综艺被老人问明星什么时候来",
-      "onboard_time": 1741414942,
-      "rank": 12,
-      "category": "综艺"
+      "raw_hot": 226443,
+      "num": 226443,
+      "word": "国乒WTT仁川冠军赛名单",
+      "onboard_time": 1741413561,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 217659,
@@ -497,14 +505,6 @@
       "onboard_time": 1741353742,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 215759,
-      "num": 215759,
-      "word": "国乒WTT仁川冠军赛名单",
-      "onboard_time": 1741413561,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 209255,
@@ -587,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 193742,
+      "num": 193742,
+      "word": "马嘉祺cos黑熊精",
+      "onboard_time": 1741414881,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193615,
       "num": 845117,
       "word": "最高法最高检工作报告",
@@ -603,6 +611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 193078,
+      "num": 193078,
+      "word": "约基奇恐怖三双历史第一人",
+      "onboard_time": 1741415720,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188770,
       "num": 188770,
       "word": "今年将发育儿补贴",
@@ -617,14 +633,6 @@
       "onboard_time": 1741352483,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 185568,
-      "num": 185568,
-      "word": "马嘉祺cos黑熊精",
-      "onboard_time": 1741414881,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 185057,
@@ -673,6 +681,14 @@
       "onboard_time": 1741405161,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 171469,
+      "num": 171469,
+      "word": "袁姗姗秀场东方美",
+      "onboard_time": 1741414702,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 171026,
@@ -731,6 +747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 164438,
+      "num": 164438,
+      "word": "小侯七 张宇",
+      "onboard_time": 1741398142,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 163812,
       "num": 163812,
       "word": "仁心俱乐部好细节的女性群像",
@@ -763,20 +787,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 157831,
-      "num": 157831,
-      "word": "小侯七 张宇",
-      "onboard_time": 1741398142,
-      "rank": 33,
-      "category": "教育"
-    },
-    {
       "raw_hot": 155552,
       "num": 155552,
       "word": "赵又廷从过期到翻红只差个反转",
       "onboard_time": 1741381274,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153209,
+      "num": 153209,
+      "word": "哪吒2距全球票房第6差1.8亿",
+      "onboard_time": 1741412661,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 152794,
@@ -793,6 +817,14 @@
       "onboard_time": 1741402700,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 151601,
+      "num": 151601,
+      "word": "粉笔崩了",
+      "onboard_time": 1741410681,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 151552,
@@ -817,14 +849,6 @@
       "onboard_time": 1741398261,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 146245,
-      "num": 146245,
-      "word": "粉笔崩了",
-      "onboard_time": 1741410681,
-      "rank": 42,
-      "category": "教育"
     },
     {
       "raw_hot": 145692,
@@ -963,14 +987,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 124266,
-      "num": 137998,
-      "word": "哪吒2距全球票房第6差1.8亿",
-      "onboard_time": 1741412661,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 121360,
       "num": 121360,
       "word": "苏醒说再不回去就没什么工作了",
@@ -1041,6 +1057,14 @@
       "onboard_time": 1741332442,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 113936,
+      "num": 193087,
+      "word": "郑钦文1比0阿扎伦卡",
+      "onboard_time": 1741415241,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 113928,
@@ -1139,14 +1163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 106320,
-      "num": 117917,
-      "word": "袁姗姗秀场东方美",
-      "onboard_time": 1741414702,
-      "rank": 34,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 105904,
       "num": 105904,
       "word": "育儿补贴会有直接惠民措施",
@@ -1196,7 +1212,7 @@
     },
     {
       "raw_hot": 101594,
-      "num": 101594,
+      "num": 193141,
       "word": "缅北明家被写入最高检报告",
       "onboard_time": 1741409062,
       "rank": 46,
@@ -1339,6 +1355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87255,
+      "num": 87255,
+      "word": "DOU5对战ITZY",
+      "onboard_time": 1741415782,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 85793,
       "num": 101847,
       "word": "IU朴宝剑新剧初吻",
@@ -1379,6 +1403,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 81512,
+      "num": 81512,
+      "word": "离了张远谁还逗邓佳鑫笑",
+      "onboard_time": 1741415961,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 79617,
       "num": 101987,
       "word": "苹果电脑静音键变了",
@@ -1401,6 +1433,14 @@
       "onboard_time": 1741355662,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 77350,
+      "num": 81500,
+      "word": "章若楠边唱歌边说对不起",
+      "onboard_time": 1741415539,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 75943,
@@ -1507,6 +1547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58300,
+      "num": 193223,
+      "word": "国乒多名主力使用参赛豁免权",
+      "onboard_time": 1741415301,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 56912,
       "num": 84927,
       "word": "7种享受春光的方式",
@@ -1521,6 +1569,14 @@
       "onboard_time": 1741386975,
       "rank": 22,
       "category": "国内时政,动漫"
+    },
+    {
+      "raw_hot": 54496,
+      "num": 193128,
+      "word": "白敬亭 氛围感帅哥你不懂",
+      "onboard_time": 1741415000,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 54159,
@@ -1545,6 +1601,14 @@
       "onboard_time": 1741396820,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 48988,
+      "num": 193105,
+      "word": "职场到底拼经验还是拼年轻",
+      "onboard_time": 1741414461,
+      "rank": 18,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 48677,
@@ -1580,7 +1644,7 @@
     },
     {
       "raw_hot": 44045,
-      "num": 136132,
+      "num": 193097,
       "word": "当你被问你相信光吗",
       "onboard_time": 1741414581,
       "rank": 29,
@@ -1649,14 +1713,6 @@
       "onboard_time": 1741367898,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 39190,
-      "num": 135907,
-      "word": "白敬亭 氛围感帅哥你不懂",
-      "onboard_time": 1741415000,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 38214,
@@ -1753,14 +1809,6 @@
       "onboard_time": 1741401261,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 24652,
-      "num": 188114,
-      "word": "职场到底拼经验还是拼年轻",
-      "onboard_time": 1741414461,
-      "rank": 18,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 24557,
