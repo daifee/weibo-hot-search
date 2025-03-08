@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741472299394,
+  "endTime": 1741473309439,
   "band_list": [
     {
       "raw_hot": 1535197,
@@ -315,7 +315,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 97571,
+      "raw_hot": 98756,
       "num": 57959,
       "word": "麦琳说再见爱人后容貌焦虑达到峰值",
       "onboard_time": 1741455797,
@@ -337,6 +337,14 @@
       "onboard_time": 1741364181,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88286,
+      "num": 88286,
+      "word": "温以凡香港刷盘子",
+      "onboard_time": 1741463834,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 87391,
@@ -419,14 +427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 72426,
-      "num": 59199,
-      "word": "温以凡香港刷盘子",
-      "onboard_time": 1741463834,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 66998,
       "num": 66998,
       "word": "dsn直播",
@@ -491,6 +491,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 30061,
+      "num": 23189,
+      "word": "怪不得平台建议后排入座呢",
+      "onboard_time": 1741470193,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 26934,
       "num": 26934,
       "word": "男子拆快递瞬间眼睛差点瞎了",
@@ -531,6 +539,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 23405,
+      "num": 23405,
+      "word": "北上乱成一锅粥了快喝了吧",
+      "onboard_time": 1741471454,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 22722,
       "num": 22722,
       "word": "檀健次好时光",
@@ -547,15 +563,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 22247,
-      "num": 20365,
-      "word": "怪不得平台建议后排入座呢",
-      "onboard_time": 1741470193,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 19458,
+      "raw_hot": 20293,
       "num": 26430,
       "word": "最高法报告提到治理高额彩礼",
       "onboard_time": 1741468513,
@@ -564,19 +572,27 @@
     },
     {
       "raw_hot": 17308,
-      "num": 19427,
+      "num": 20011,
       "word": "外国记者替老乡追问哪吒2",
       "onboard_time": 1741463174,
       "rank": 39,
       "category": "国内时政"
     },
     {
-      "raw_hot": 14977,
-      "num": 19436,
-      "word": "北上乱成一锅粥了快喝了吧",
-      "onboard_time": 1741471454,
-      "rank": 39,
-      "category": "剧集"
+      "raw_hot": 12649,
+      "num": 20005,
+      "word": "全国人大代表们送你一朵小红花",
+      "onboard_time": 1741465693,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 12386,
+      "num": 19998,
+      "word": "两会热词条",
+      "onboard_time": 1741468334,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 12378,
@@ -593,14 +609,6 @@
       "onboard_time": 1741470133,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12157,
-      "num": 17679,
-      "word": "全国人大代表们送你一朵小红花",
-      "onboard_time": 1741465693,
-      "rank": 48,
-      "category": "国内时政"
     },
     {
       "raw_hot": 12049,
@@ -624,14 +632,6 @@
       "word": "两高工作报告点名了哪些案例",
       "onboard_time": 1741467553,
       "rank": 45,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 11742,
-      "num": 19412,
-      "word": "两会热词条",
-      "onboard_time": 1741468334,
-      "rank": 42,
       "category": "国内时政"
     }
   ],
