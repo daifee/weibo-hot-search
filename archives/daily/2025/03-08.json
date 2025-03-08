@@ -1,6 +1,6 @@
 {
   "startTime": 1741364948328,
-  "endTime": 1741404907552,
+  "endTime": 1741407747608,
   "band_list": [
     {
       "raw_hot": 4523747,
@@ -35,6 +35,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1715813,
+      "num": 1715813,
+      "word": "警方通报有人往海底捞火锅内小便",
+      "onboard_time": 1741405822,
+      "rank": 0,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1158710,
+      "num": 1158710,
+      "word": "上海的馒头已经遥遥领先了",
+      "onboard_time": 1741399761,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1045319,
       "num": 160103,
       "word": "赵一博 我和雪梨在一起是事实",
@@ -60,19 +76,11 @@
     },
     {
       "raw_hot": 1020515,
-      "num": 326683,
+      "num": 329896,
       "word": "董力儿子7岁女儿2岁",
       "onboard_time": 1741403605,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1003062,
-      "num": 1003062,
-      "word": "上海的馒头已经遥遥领先了",
-      "onboard_time": 1741399761,
-      "rank": 9,
-      "category": "美食"
     },
     {
       "raw_hot": 831313,
@@ -81,6 +89,14 @@
       "onboard_time": 1741398201,
       "rank": 16,
       "category": "教育"
+    },
+    {
+      "raw_hot": 817204,
+      "num": 817204,
+      "word": "十个勤天去年半年开了20场演唱会",
+      "onboard_time": 1741405581,
+      "rank": 4,
+      "category": "演出"
     },
     {
       "raw_hot": 777519,
@@ -97,6 +113,22 @@
       "onboard_time": 1741365739,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 664017,
+      "num": 664017,
+      "word": "哪吒",
+      "onboard_time": 1741402101,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 652744,
+      "num": 325412,
+      "word": "小英化妆了",
+      "onboard_time": 1741406841,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 597490,
@@ -145,14 +177,6 @@
       "onboard_time": 1741316840,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 427509,
-      "num": 427509,
-      "word": "哪吒",
-      "onboard_time": 1741402101,
-      "rank": 5,
-      "category": "电影"
     },
     {
       "raw_hot": 422264,
@@ -259,6 +283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 297130,
+      "num": 297130,
+      "word": "陈丽君鼓励女性做不被定义的自己",
+      "onboard_time": 1741398021,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 292204,
       "num": 292204,
       "word": "对加拿大水产品猪肉加征25%关税",
@@ -273,6 +305,14 @@
       "onboard_time": 1741402520,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 279897,
+      "num": 279897,
+      "word": "教资答案",
+      "onboard_time": 1741404560,
+      "rank": 23,
+      "category": "教育"
     },
     {
       "raw_hot": 278822,
@@ -339,14 +379,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 239395,
-      "num": 239395,
-      "word": "教资答案",
-      "onboard_time": 1741404560,
-      "rank": 23,
-      "category": "教育"
-    },
-    {
       "raw_hot": 237971,
       "num": 237971,
       "word": "周思成刘晓艳涨粉",
@@ -363,11 +395,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 206597,
-      "num": 289706,
-      "word": "陈丽君鼓励女性做不被定义的自己",
-      "onboard_time": 1741398021,
-      "rank": 8,
+      "raw_hot": 211322,
+      "num": 211322,
+      "word": "房东收到3千陌生转账租客要求转回",
+      "onboard_time": 1741405882,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 209255,
+      "num": 209255,
+      "word": "李昀锐白发老年妆",
+      "onboard_time": 1741406061,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -419,12 +459,28 @@
       "category": "国内时政,民生新闻"
     },
     {
+      "raw_hot": 193151,
+      "num": 193151,
+      "word": "夸夸每一个她",
+      "onboard_time": 1741405942,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188770,
       "num": 188770,
       "word": "今年将发育儿补贴",
       "onboard_time": 1741346061,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 187601,
+      "num": 187601,
+      "word": "宋雨琦老公是一种感觉",
+      "onboard_time": 1741406541,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 185589,
@@ -467,6 +523,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172360,
+      "num": 172360,
+      "word": "秦彻造物宣示",
+      "onboard_time": 1741405161,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 169027,
+      "num": 169027,
+      "word": "中方重拳警示关税跟风国家",
+      "onboard_time": 1741406421,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 167877,
       "num": 708091,
       "word": "张凯丽说35岁明明很年轻",
@@ -491,6 +563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165463,
+      "num": 173253,
+      "word": "还有明天",
+      "onboard_time": 1741406602,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 165393,
       "num": 257558,
       "word": "秦彻帅不帅",
@@ -499,12 +579,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 160498,
+      "num": 160498,
+      "word": "教资选择题 难",
+      "onboard_time": 1741406121,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 158960,
       "num": 158960,
       "word": "Doinb拿到五星卡",
       "onboard_time": 1741397960,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 158823,
+      "num": 158823,
+      "word": "39岁女医生发工作日常被60万人点赞",
+      "onboard_time": 1741403901,
+      "rank": 40,
+      "category": "正能量"
     },
     {
       "raw_hot": 158131,
@@ -531,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153702,
+      "num": 162247,
+      "word": "哪吒票房",
+      "onboard_time": 1741407502,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 152794,
       "num": 152794,
       "word": "医生提醒眼药水出现这三个字请警惕",
@@ -555,14 +659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 148649,
-      "num": 148649,
-      "word": "39岁女医生发工作日常被60万人点赞",
-      "onboard_time": 1741403901,
-      "rank": 40,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 146730,
       "num": 146730,
       "word": "送黄金为什么成了不会出错的选择",
@@ -571,8 +667,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 145692,
+      "num": 145692,
+      "word": "教资综合素质",
+      "onboard_time": 1741406541,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 144201,
-      "num": 144201,
+      "num": 171274,
       "word": "杨紫送妇女节祝福",
       "onboard_time": 1741403421,
       "rank": 35,
@@ -651,12 +755,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 127677,
+      "num": 127677,
+      "word": "90后女孩给超4000名老人当电子闺女",
+      "onboard_time": 1741405222,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126591,
       "num": 196464,
       "word": "黄圣依参加最强大脑受伤的是儿子",
       "onboard_time": 1741356682,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121360,
+      "num": 121360,
+      "word": "苏醒说再不回去就没什么工作了",
+      "onboard_time": 1741406782,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 121219,
@@ -697,6 +817,14 @@
       "onboard_time": 1741362803,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115516,
+      "num": 115516,
+      "word": "被武汉职场对女性友好程度震撼了",
+      "onboard_time": 1741406902,
+      "rank": 49,
+      "category": "正能量"
     },
     {
       "raw_hot": 115085,
@@ -891,6 +1019,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 88341,
+      "num": 183619,
+      "word": "陈震直呼广汽昊铂智驾受不了",
+      "onboard_time": 1741406841,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 87662,
       "num": 141417,
       "word": "何苏叶边亲边单手解衬衫扣子",
@@ -937,6 +1073,14 @@
       "onboard_time": 1741366160,
       "rank": 41,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 83169,
+      "num": 359879,
+      "word": "全国两会现场的妇女节祝福",
+      "onboard_time": 1741407082,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 79617,
@@ -1035,6 +1179,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 60656,
+      "num": 139638,
+      "word": "张杰赠予美好的你们",
+      "onboard_time": 1741406960,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 60644,
       "num": 227709,
       "word": "广州是第一个庆祝妇女节的城市",
@@ -1123,6 +1275,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 40082,
+      "num": 155880,
+      "word": "王石晒单S7",
+      "onboard_time": 1741406841,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 39966,
       "num": 962061,
       "word": "最高法工作报告",
@@ -1179,6 +1339,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 32447,
+      "num": 140056,
+      "word": "装修快收尾时才发现装错了房子",
+      "onboard_time": 1741407621,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32311,
       "num": 78452,
       "word": "生命是一万次的春和景明",
@@ -1201,6 +1369,14 @@
       "onboard_time": 1741370296,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25898,
+      "num": 230528,
+      "word": "宣称有机樱桃却被消费者测出多效唑",
+      "onboard_time": 1741407141,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25038,
@@ -1233,6 +1409,14 @@
       "onboard_time": 1741370836,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 21373,
+      "num": 1077732,
+      "word": "2025国家立法抢鲜看",
+      "onboard_time": 1741398741,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 20050,
@@ -1286,6 +1470,9 @@
   "hotgov_list": [
     {
       "word": "#实现我军建设十四五规划圆满收官#"
+    },
+    {
+      "word": "#教育不能把最基本的丢掉#"
     }
   ]
 }
