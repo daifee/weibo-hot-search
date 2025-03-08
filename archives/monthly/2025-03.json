@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741462585038,
+  "endTime": 1741465169812,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -24963,6 +24963,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 19130,
+      "num": 19130,
+      "word": "温以凡香港刷盘子",
+      "onboard_time": 1741463834,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 19060,
       "num": 167331,
       "word": "女性视角下的脱口秀创作",
@@ -25137,6 +25145,14 @@
       "onboard_time": 1740943812,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 17308,
+      "num": 17308,
+      "word": "外国记者替老乡追问哪吒2",
+      "onboard_time": 1741463174,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 17294,
