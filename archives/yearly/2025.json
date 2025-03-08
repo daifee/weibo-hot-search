@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1741418359646,
+  "endTime": 1741422226700,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -953,6 +953,14 @@
       "onboard_time": 1739972602,
       "rank": 0,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 3801491,
+      "num": 275457,
+      "word": "薛凯琪发长文",
+      "onboard_time": 1741419981,
+      "rank": 10,
+      "category": "演出"
     },
     {
       "raw_hot": 3789802,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1740323303,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2479162,
-      "num": 2479162,
-      "word": "宝格丽晚宴",
-      "onboard_time": 1736337861,
-      "rank": 3,
-      "category": "作品衍生,时尚"
     }
   ],
   "hotgov_list": [
