@@ -1,6 +1,6 @@
 {
   "startTime": 1741364948328,
-  "endTime": 1741430127566,
+  "endTime": 1741432587053,
   "band_list": [
     {
       "raw_hot": 4523747,
@@ -73,6 +73,22 @@
       "onboard_time": 1741408161,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1608336,
+      "num": 1608336,
+      "word": "不要再叫女神节女王节了",
+      "onboard_time": 1741428922,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1605578,
+      "num": 166444,
+      "word": "郑乃馨说和硬糖少女没联系",
+      "onboard_time": 1741430661,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1158710,
@@ -171,6 +187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 806564,
+      "num": 162482,
+      "word": "Jennie伴舞失误",
+      "onboard_time": 1741430423,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 777519,
       "num": 919472,
       "word": "你一票我一票我们周总也出道",
@@ -259,6 +283,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 508184,
+      "num": 508184,
+      "word": "哪吒2让新加坡发行方惊到了",
+      "onboard_time": 1741429762,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 490821,
       "num": 1078531,
       "word": "教资科二",
@@ -345,6 +377,14 @@
       "onboard_time": 1741357343,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 394556,
+      "num": 196796,
+      "word": "父亲向女儿索要赡养费供养智残儿子",
+      "onboard_time": 1741429282,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 393833,
@@ -489,6 +529,14 @@
       "onboard_time": 1741398021,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 295670,
+      "num": 295670,
+      "word": "云南16只搜救犬考编失败求领养",
+      "onboard_time": 1741428981,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 294960,
@@ -1067,14 +1115,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 158668,
-      "num": 209199,
-      "word": "云南16只搜救犬考编失败求领养",
-      "onboard_time": 1741428981,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 158131,
       "num": 158131,
       "word": "建议给应届生3至5年社保补贴",
@@ -1147,12 +1187,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 150996,
-      "num": 207445,
-      "word": "不要再叫女神节女王节了",
-      "onboard_time": 1741428922,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 148024,
+      "num": 148024,
+      "word": "于正回应程潇玉茗茶骨最终装扮无刘海",
+      "onboard_time": 1741430900,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 147454,
@@ -1169,6 +1209,14 @@
       "onboard_time": 1741398261,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 145920,
+      "num": 145920,
+      "word": "你好星期六",
+      "onboard_time": 1741431322,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 145692,
@@ -1235,20 +1283,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139382,
+      "num": 139382,
+      "word": "林心如G社生图",
+      "onboard_time": 1741427842,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 139022,
       "num": 139022,
       "word": "王嘉尔直播打篮球",
       "onboard_time": 1741361302,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 138682,
-      "num": 138682,
-      "word": "林心如G社生图",
-      "onboard_time": 1741427842,
-      "rank": 26,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 137813,
@@ -1393,6 +1441,14 @@
       "onboard_time": 1741356682,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123581,
+      "num": 123581,
+      "word": "代号鸢",
+      "onboard_time": 1741430661,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 122600,
@@ -1555,6 +1611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113790,
+      "num": 113790,
+      "word": "教资科三语文好难",
+      "onboard_time": 1741430961,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 112717,
       "num": 112717,
       "word": "郑钦文对手质疑电子司线",
@@ -1681,6 +1745,14 @@
       "onboard_time": 1741403483,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108182,
+      "num": 136260,
+      "word": "郭杰瑞发视频向美国追讨圆明园文物",
+      "onboard_time": 1741429401,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107835,
@@ -1987,12 +2059,12 @@
       "category": "综艺,演出"
     },
     {
-      "raw_hot": 90864,
-      "num": 196796,
-      "word": "父亲向女儿索要赡养费供养智残儿子",
-      "onboard_time": 1741429282,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 89595,
+      "num": 89595,
+      "word": "玩手机玩的",
+      "onboard_time": 1741427062,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 89540,
@@ -2001,6 +2073,14 @@
       "onboard_time": 1741409783,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 89352,
+      "num": 89352,
+      "word": "23岁的考场和18岁是不同的",
+      "onboard_time": 1741432042,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 89350,
@@ -2091,6 +2171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85377,
+      "num": 85377,
+      "word": "刘亦菲三月行程广告拍摄",
+      "onboard_time": 1741430542,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85168,
       "num": 519314,
       "word": "最高检工作报告",
@@ -2099,12 +2187,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 85090,
+      "num": 136204,
+      "word": "初步举证",
+      "onboard_time": 1741428622,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 85037,
       "num": 99198,
       "word": "爱你",
       "onboard_time": 1741350921,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 84830,
+      "num": 84830,
+      "word": "丘索维金娜体操世界杯夺冠",
+      "onboard_time": 1741431862,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 84191,
@@ -2155,6 +2259,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 79084,
+      "num": 151864,
+      "word": "小米15Ultra记录每一个闪耀的她",
+      "onboard_time": 1741430361,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 78164,
       "num": 98790,
       "word": "Jennie个人演唱会",
@@ -2193,6 +2305,14 @@
       "onboard_time": 1741340420,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72738,
+      "num": 136033,
+      "word": "妇女节公司发金子是什么体验",
+      "onboard_time": 1741431862,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71989,
@@ -2275,14 +2395,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 60892,
-      "num": 206778,
-      "word": "哪吒2让新加坡发行方惊到了",
-      "onboard_time": 1741429762,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 60656,
       "num": 139638,
       "word": "张杰赠予美好的你们",
@@ -2356,7 +2468,7 @@
     },
     {
       "raw_hot": 49593,
-      "num": 386552,
+      "num": 554853,
       "word": "最高法工作报告极简版来了",
       "onboard_time": 1741422803,
       "rank": 2,
@@ -2491,14 +2603,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 39295,
-      "num": 136260,
-      "word": "郭杰瑞发视频向美国追讨圆明园文物",
-      "onboard_time": 1741429401,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 39045,
       "num": 128724,
       "word": "麦琳被AI感动到了",
@@ -2593,6 +2697,14 @@
       "onboard_time": 1741421660,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 28409,
+      "num": 134984,
+      "word": "看夜景就能猜出城市了",
+      "onboard_time": 1741432042,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 27911,
@@ -2705,6 +2817,22 @@
       "onboard_time": 1741380074,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 15468,
+      "num": 89437,
+      "word": "辛巴的带货之路",
+      "onboard_time": 1741431742,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 14925,
+      "num": 89454,
+      "word": "妇女节特别爱自己的好东西",
+      "onboard_time": 1741431682,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13282,
