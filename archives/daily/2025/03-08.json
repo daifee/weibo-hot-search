@@ -1,6 +1,6 @@
 {
   "startTime": 1741364948328,
-  "endTime": 1741408572743,
+  "endTime": 1741411166637,
   "band_list": [
     {
       "raw_hot": 4523747,
@@ -41,6 +41,14 @@
       "onboard_time": 1741398980,
       "rank": 12,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1507468,
+      "num": 209359,
+      "word": "房东收到一笔3782元陌生转账",
+      "onboard_time": 1741408161,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1158710,
@@ -91,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 853711,
+      "num": 1136593,
+      "word": "哪吒票房",
+      "onboard_time": 1741407502,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 831313,
       "num": 313943,
       "word": "田静英语一成绩",
@@ -121,6 +137,14 @@
       "onboard_time": 1741365739,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 728198,
+      "num": 276129,
+      "word": "泰国最受欢迎的中国女明星",
+      "onboard_time": 1741409842,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 664017,
@@ -203,20 +227,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 393100,
+      "num": 393100,
+      "word": "装修快收尾时才发现装错了房子",
+      "onboard_time": 1741407621,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 370473,
       "num": 370473,
       "word": "教资作文",
       "onboard_time": 1741403961,
       "rank": 23,
       "category": "教育"
-    },
-    {
-      "raw_hot": 367620,
-      "num": 367620,
-      "word": "哪吒票房",
-      "onboard_time": 1741407502,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 362972,
@@ -267,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 312997,
+      "num": 262813,
+      "word": "房东收到3千陌生转账租客要求转回",
+      "onboard_time": 1741405882,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 306945,
       "num": 306945,
       "word": "中俄决定永久睦邻友好",
@@ -291,6 +323,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 299988,
+      "num": 299988,
+      "word": "比何以琛还好哄的人出现了",
+      "onboard_time": 1741409242,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 297130,
       "num": 297130,
       "word": "陈丽君鼓励女性做不被定义的自己",
@@ -305,6 +345,14 @@
       "onboard_time": 1741402341,
       "rank": 16,
       "category": "国际时政,财经"
+    },
+    {
+      "raw_hot": 282376,
+      "num": 282376,
+      "word": "王者荣耀",
+      "onboard_time": 1741409661,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 280779,
@@ -363,6 +411,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 256427,
+      "num": 256427,
+      "word": "种地吧",
+      "onboard_time": 1741407803,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 255992,
       "num": 1123064,
       "word": "站雷军背后的海尔总裁周云杰走红",
@@ -403,28 +459,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 217107,
-      "num": 217107,
-      "word": "房东收到3千陌生转账租客要求转回",
-      "onboard_time": 1741405882,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 210479,
-      "num": 210479,
-      "word": "种地吧",
-      "onboard_time": 1741407803,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 209255,
       "num": 209255,
       "word": "李昀锐白发老年妆",
       "onboard_time": 1741406061,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209118,
+      "num": 209118,
+      "word": "宋雨琦老公是一种感觉",
+      "onboard_time": 1741406541,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 206048,
@@ -499,19 +547,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 187601,
-      "num": 187601,
-      "word": "宋雨琦老公是一种感觉",
-      "onboard_time": 1741406541,
-      "rank": 26,
-      "category": "演出"
-    },
-    {
       "raw_hot": 185589,
       "num": 135616,
       "word": "颜安竟然是泰国留子",
       "onboard_time": 1741352483,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 185057,
+      "num": 244972,
+      "word": "全智贤机场出发巴黎",
+      "onboard_time": 1741408100,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -611,6 +659,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 165210,
+      "num": 165210,
+      "word": "恋与深空",
+      "onboard_time": 1741410862,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 163812,
+      "num": 163812,
+      "word": "仁心俱乐部好细节的女性群像",
+      "onboard_time": 1741410023,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160498,
       "num": 160498,
       "word": "教资选择题 难",
@@ -675,14 +739,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 148785,
-      "num": 148785,
-      "word": "房东收到一笔3782元陌生转账",
-      "onboard_time": 1741408161,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 146730,
       "num": 146730,
       "word": "送黄金为什么成了不会出错的选择",
@@ -699,12 +755,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 145584,
+      "num": 158964,
+      "word": "倪萍脱口秀全程现挂炸场",
+      "onboard_time": 1741410862,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141122,
       "num": 141122,
       "word": "王欣瑜2比0奥斯塔彭科",
       "onboard_time": 1741400901,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140936,
+      "num": 140936,
+      "word": "请查收这份特别的妇女节祝福",
+      "onboard_time": 1741410621,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 139983,
@@ -729,6 +801,14 @@
       "onboard_time": 1741361302,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136794,
+      "num": 157656,
+      "word": "肖战包场天堂旅行团",
+      "onboard_time": 1741410321,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 136411,
@@ -763,20 +843,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131418,
+      "num": 131418,
+      "word": "孙颖莎说坚定的力量",
+      "onboard_time": 1741410502,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130742,
       "num": 266458,
       "word": "余华英案李铁案写入最高法报告",
       "onboard_time": 1741398621,
       "rank": 13,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 129568,
-      "num": 195908,
-      "word": "装修快收尾时才发现装错了房子",
-      "onboard_time": 1741407621,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 129459,
@@ -955,12 +1035,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104842,
-      "num": 244972,
-      "word": "全智贤机场出发巴黎",
-      "onboard_time": 1741408100,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 105539,
+      "num": 278881,
+      "word": "美国月球雅典娜任务提前结束",
+      "onboard_time": 1741409542,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 105087,
+      "num": 105087,
+      "word": "粉笔崩了",
+      "onboard_time": 1741410681,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 104764,
@@ -984,6 +1072,22 @@
       "word": "全国两会现场的妇女节祝福",
       "onboard_time": 1741407082,
       "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 101725,
+      "num": 101725,
+      "word": "天堂旅行团",
+      "onboard_time": 1741411042,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 101594,
+      "num": 101594,
+      "word": "缅北明家被写入最高检报告",
+      "onboard_time": 1741409062,
+      "rank": 46,
       "category": "国内时政"
     },
     {
@@ -1065,6 +1169,14 @@
       "onboard_time": 1741402101,
       "rank": 48,
       "category": "综艺,演出"
+    },
+    {
+      "raw_hot": 89540,
+      "num": 89540,
+      "word": "两会",
+      "onboard_time": 1741409783,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 89350,
@@ -1219,12 +1331,28 @@
       "category": "国内时政,民生新闻"
     },
     {
+      "raw_hot": 64622,
+      "num": 106672,
+      "word": "林一祝你永远灿烂明媚",
+      "onboard_time": 1741410262,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 64567,
       "num": 101887,
       "word": "Manus创始人谈DeepSeek",
       "onboard_time": 1741392079,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 63886,
+      "num": 256598,
+      "word": "建议新人结婚前先上课",
+      "onboard_time": 1741410441,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 60656,
@@ -1403,6 +1531,14 @@
       "category": "时尚,网红"
     },
     {
+      "raw_hot": 30512,
+      "num": 209501,
+      "word": "周云杰欣然接受网友调侃没大葱高",
+      "onboard_time": 1741410563,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29756,
       "num": 1096735,
       "word": "政府工作报告里的身边事",
@@ -1451,20 +1587,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 24210,
+      "num": 1077732,
+      "word": "2025国家立法抢鲜看",
+      "onboard_time": 1741398741,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 23923,
       "num": 37355,
       "word": "唐奇好痛一滴泪",
       "onboard_time": 1741370836,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 21373,
-      "num": 1077732,
-      "word": "2025国家立法抢鲜看",
-      "onboard_time": 1741398741,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 20050,
