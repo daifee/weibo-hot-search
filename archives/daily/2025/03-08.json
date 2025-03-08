@@ -1,6 +1,6 @@
 {
   "startTime": 1741364948328,
-  "endTime": 1741425561000,
+  "endTime": 1741426504189,
   "band_list": [
     {
       "raw_hot": 4523747,
@@ -179,20 +179,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 666347,
+      "num": 174639,
+      "word": "刘亦菲 华为",
+      "onboard_time": 1741422921,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 664017,
       "num": 664017,
       "word": "哪吒",
       "onboard_time": 1741402101,
       "rank": 5,
       "category": "电影"
-    },
-    {
-      "raw_hot": 645482,
-      "num": 137294,
-      "word": "刘亦菲 华为",
-      "onboard_time": 1741422921,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 597490,
@@ -291,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 446860,
+      "num": 173529,
+      "word": "负责人称小米卫生巾真的做不了",
+      "onboard_time": 1741425621,
+      "rank": 12,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 443604,
       "num": 443604,
       "word": "装修快收尾时才发现装错了房子",
@@ -339,6 +347,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 357219,
+      "num": 357219,
+      "word": "尹锡悦被捕52天后获释",
+      "onboard_time": 1741424300,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 354797,
+      "num": 166942,
+      "word": "我说我怎么老是存不下来钱",
+      "onboard_time": 1741423762,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 351387,
       "num": 351387,
       "word": "妇女能顶半边天",
@@ -348,7 +372,7 @@
     },
     {
       "raw_hot": 346588,
-      "num": 135387,
+      "num": 165520,
       "word": "刘亦菲余承东互关",
       "onboard_time": 1741423222,
       "rank": 17,
@@ -499,14 +523,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 278480,
-      "num": 136681,
-      "word": "我说我怎么老是存不下来钱",
-      "onboard_time": 1741423762,
-      "rank": 13,
-      "category": "情感"
-    },
-    {
       "raw_hot": 273321,
       "num": 220950,
       "word": "戚薇李承铉每天在厕所聊好几个小时",
@@ -595,6 +611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 238359,
+      "num": 238359,
+      "word": "尹锡悦将返回总统官邸",
+      "onboard_time": 1741424720,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 237971,
       "num": 237971,
       "word": "周思成刘晓艳涨粉",
@@ -651,6 +675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 205597,
+      "num": 205597,
+      "word": "成毅谢怀安杀青",
+      "onboard_time": 1741426161,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 203662,
       "num": 179885,
       "word": "杭州蛇咖因被网友投诉太吓人下架",
@@ -681,14 +713,6 @@
       "onboard_time": 1741399880,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 197511,
-      "num": 197511,
-      "word": "尹锡悦被捕52天后获释",
-      "onboard_time": 1741424300,
-      "rank": 5,
-      "category": "国际时政"
     },
     {
       "raw_hot": 196714,
@@ -795,12 +819,28 @@
       "category": "网红"
     },
     {
-      "raw_hot": 180965,
+      "raw_hot": 182404,
+      "num": 273647,
+      "word": "今年妇女节不避讳谈这些话题了",
+      "onboard_time": 1741420581,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 181741,
       "num": 274336,
       "word": "95后北大元培女生从金融转行做演员",
       "onboard_time": 1741418181,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181164,
+      "num": 164139,
+      "word": "温以凡也怕桑延变成陆之昂吧",
+      "onboard_time": 1741422681,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 178110,
@@ -809,6 +849,22 @@
       "onboard_time": 1741398142,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 177205,
+      "num": 177205,
+      "word": "西藏定日4.7级地震",
+      "onboard_time": 1741425861,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175504,
+      "num": 160822,
+      "word": "气血不足的人更容易焦虑抑郁",
+      "onboard_time": 1741423762,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 175488,
@@ -820,7 +876,7 @@
     },
     {
       "raw_hot": 174608,
-      "num": 135060,
+      "num": 138682,
       "word": "迪丽热巴新代预热",
       "onboard_time": 1741424300,
       "rank": 18,
@@ -857,14 +913,6 @@
       "onboard_time": 1741403421,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 170234,
-      "num": 273647,
-      "word": "今年妇女节不避讳谈这些话题了",
-      "onboard_time": 1741420581,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 169027,
@@ -963,6 +1011,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 158832,
+      "num": 158832,
+      "word": "50岁的苏醒40岁的王铮亮",
+      "onboard_time": 1741423700,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158131,
       "num": 158131,
       "word": "建议给应届生3至5年社保补贴",
@@ -971,27 +1027,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 156595,
-      "num": 133248,
-      "word": "气血不足的人更容易焦虑抑郁",
-      "onboard_time": 1741423762,
-      "rank": 24,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 156523,
-      "num": 156523,
-      "word": "温以凡也怕桑延变成陆之昂吧",
-      "onboard_time": 1741422681,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 155552,
       "num": 155552,
       "word": "赵又廷从过期到翻红只差个反转",
       "onboard_time": 1741381274,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 154444,
+      "num": 154444,
+      "word": "李现苏州",
+      "onboard_time": 1741422262,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -1035,14 +1083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 149974,
-      "num": 149974,
-      "word": "李现苏州",
-      "onboard_time": 1741422262,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 147454,
       "num": 157656,
       "word": "肖战包场天堂旅行团",
@@ -1067,6 +1107,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 145085,
+      "num": 145085,
+      "word": "杨幂把春天调色盘穿在身上",
+      "onboard_time": 1741424300,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141122,
       "num": 141122,
       "word": "王欣瑜2比0奥斯塔彭科",
@@ -1081,6 +1129,14 @@
       "onboard_time": 1741410621,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 140518,
+      "num": 140518,
+      "word": "赵露思祝大家妇女节快乐",
+      "onboard_time": 1741422861,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 139983,
@@ -1179,6 +1235,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 132467,
+      "num": 136045,
+      "word": "KPL",
+      "onboard_time": 1741425261,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 131418,
       "num": 131418,
       "word": "孙颖莎说坚定的力量",
@@ -1193,14 +1257,6 @@
       "onboard_time": 1741398621,
       "rank": 13,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 130168,
-      "num": 130168,
-      "word": "杨幂把春天调色盘穿在身上",
-      "onboard_time": 1741424300,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 129459,
@@ -1225,14 +1281,6 @@
       "onboard_time": 1741421181,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 128108,
-      "num": 136045,
-      "word": "KPL",
-      "onboard_time": 1741425261,
-      "rank": 15,
-      "category": "电竞"
     },
     {
       "raw_hot": 127677,
@@ -1323,14 +1371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 118400,
-      "num": 118400,
-      "word": "赵露思祝大家妇女节快乐",
-      "onboard_time": 1741422861,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 118344,
       "num": 114217,
       "word": "林心如看秀状态",
@@ -1363,14 +1403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 115517,
-      "num": 115517,
-      "word": "50岁的苏醒40岁的王铮亮",
-      "onboard_time": 1741423700,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 115516,
       "num": 115516,
       "word": "被武汉职场对女性友好程度震撼了",
@@ -1385,14 +1417,6 @@
       "onboard_time": 1741392800,
       "rank": 30,
       "category": "情感,民生新闻"
-    },
-    {
-      "raw_hot": 114564,
-      "num": 114564,
-      "word": "尹锡悦将返回总统官邸",
-      "onboard_time": 1741424720,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 113974,
@@ -1427,6 +1451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112717,
+      "num": 112717,
+      "word": "郑钦文对手质疑电子司线",
+      "onboard_time": 1741425621,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112578,
       "num": 112578,
       "word": "绝区零",
@@ -1449,6 +1481,14 @@
       "onboard_time": 1741418062,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112142,
+      "num": 112142,
+      "word": "极光百里守约五连绝世",
+      "onboard_time": 1741425801,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 111725,
@@ -1665,6 +1705,22 @@
       "onboard_time": 1741423942,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 99431,
+      "num": 99431,
+      "word": "WBG输给民间队",
+      "onboard_time": 1741426222,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 99394,
+      "num": 170269,
+      "word": "尹锡悦获释不影响法庭审理",
+      "onboard_time": 1741425621,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 99151,
@@ -1915,6 +1971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82336,
+      "num": 82336,
+      "word": "苏新皓发了19分钟vlog",
+      "onboard_time": 1741425981,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 81512,
       "num": 81512,
       "word": "离了张远谁还逗邓佳鑫笑",
@@ -1945,6 +2009,14 @@
       "onboard_time": 1741355662,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 77245,
+      "num": 77245,
+      "word": "LYMN对战FPX.ZQ",
+      "onboard_time": 1741426461,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 76475,
@@ -2163,6 +2235,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 46195,
+      "num": 159187,
+      "word": "花海发文鼓励女性自强",
+      "onboard_time": 1741425501,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 45898,
       "num": 153025,
       "word": "她力量从古延续至今",
@@ -2220,7 +2300,7 @@
     },
     {
       "raw_hot": 40190,
-      "num": 304406,
+      "num": 386552,
       "word": "最高法工作报告极简版来了",
       "onboard_time": 1741422803,
       "rank": 2,
@@ -2281,14 +2361,6 @@
       "onboard_time": 1741407141,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36230,
-      "num": 103624,
-      "word": "花海发文鼓励女性自强",
-      "onboard_time": 1741425501,
-      "rank": 37,
-      "category": "电竞"
     },
     {
       "raw_hot": 36015,
