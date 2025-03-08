@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1741415996014,
+  "endTime": 1741418359646,
   "band_list": [
     {
       "raw_hot": 15162205,
@@ -984,6 +984,14 @@
       "word": "董力儿子7岁女儿2岁",
       "onboard_time": 1741403605,
       "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1007620,
+      "num": 477808,
+      "word": "邓超录综艺被老人问明星什么时候来",
+      "onboard_time": 1741414942,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -2947,14 +2955,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 511255,
-      "num": 420705,
-      "word": "邓超录综艺被老人问明星什么时候来",
-      "onboard_time": 1741414942,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 510699,
       "num": 227656,
       "word": "麦琳回应女儿牙齿问题",
@@ -3081,6 +3081,14 @@
       "onboard_time": 1741359741,
       "rank": 11,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 490821,
+      "num": 1078531,
+      "word": "教资科二",
+      "onboard_time": 1741417041,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 490360,
@@ -4635,6 +4643,14 @@
       "category": "国内时政,互联网"
     },
     {
+      "raw_hot": 340617,
+      "num": 276424,
+      "word": "张真源cos申公豹路透",
+      "onboard_time": 1741416321,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 339977,
       "num": 339977,
       "word": "建议推迟中考分流时间",
@@ -5249,6 +5265,14 @@
       "onboard_time": 1741093043,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 305553,
+      "num": 305553,
+      "word": "蔡明惊讶李小冉也是会笑的",
+      "onboard_time": 1741416741,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 305259,
@@ -6137,6 +6161,14 @@
       "onboard_time": 1741082903,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 265157,
+      "num": 265157,
+      "word": "约基奇恐怖三双历史第一人",
+      "onboard_time": 1741415720,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 264053,
@@ -8507,14 +8539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 193078,
-      "num": 193078,
-      "word": "约基奇恐怖三双历史第一人",
-      "onboard_time": 1741415720,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 193005,
       "num": 193005,
       "word": "其实旅游是最检验友情和人品的",
@@ -8713,6 +8737,14 @@
       "onboard_time": 1741107375,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188455,
+      "num": 188455,
+      "word": "虞书欣truelove嘘国王在冬眠OST",
+      "onboard_time": 1741417821,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 188392,
@@ -8929,6 +8961,14 @@
       "onboard_time": 1740849735,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185725,
+      "num": 185725,
+      "word": "贺峻霖cos结界兽路透",
+      "onboard_time": 1741416263,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 185571,
@@ -9233,6 +9273,14 @@
       "onboard_time": 1740885019,
       "rank": 18,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 178110,
+      "num": 178110,
+      "word": "小侯七 张宇",
+      "onboard_time": 1741398142,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 177939,
@@ -9572,7 +9620,7 @@
     },
     {
       "raw_hot": 171469,
-      "num": 171469,
+      "num": 179026,
       "word": "袁姗姗秀场东方美",
       "onboard_time": 1741414702,
       "rank": 34,
@@ -9963,6 +10011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165914,
+      "num": 165914,
+      "word": "95后北大元培女生从金融转行做演员",
+      "onboard_time": 1741418181,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165871,
       "num": 165871,
       "word": "2025开年第一部女性爽综",
@@ -10049,14 +10105,6 @@
       "onboard_time": 1741335442,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 164438,
-      "num": 164438,
-      "word": "小侯七 张宇",
-      "onboard_time": 1741398142,
-      "rank": 33,
-      "category": "教育"
     },
     {
       "raw_hot": 164276,
@@ -10339,6 +10387,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 160479,
+      "num": 160479,
+      "word": "郑钦文2比0阿扎伦卡",
+      "onboard_time": 1741418121,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160328,
       "num": 160328,
       "word": "时空中的绘旅人",
@@ -10353,6 +10409,14 @@
       "onboard_time": 1741234819,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 159740,
+      "num": 159740,
+      "word": "谁懂赵丽颖这段战损奔跑的含金量",
+      "onboard_time": 1741416741,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 159628,
@@ -13539,6 +13603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122600,
+      "num": 122600,
+      "word": "阿扎伦卡摔球拍",
+      "onboard_time": 1741416561,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122517,
       "num": 148808,
       "word": "张予曦剧本围读镜头",
@@ -13691,6 +13763,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 121029,
+      "num": 121029,
+      "word": "丁程鑫哪吒造型路透",
+      "onboard_time": 1741416141,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120941,
       "num": 120941,
       "word": "赵小童在电光火石中收工",
@@ -13737,6 +13817,14 @@
       "onboard_time": 1740895640,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 119941,
+      "num": 119941,
+      "word": "黄晓明妇女节给造城者全组女生送鲜花",
+      "onboard_time": 1741418121,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 119935,
@@ -13843,6 +13931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118541,
+      "num": 118541,
+      "word": "这是我的岛",
+      "onboard_time": 1741418121,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118387,
       "num": 118387,
       "word": "林俊杰 抢票",
@@ -13921,6 +14017,14 @@
       "onboard_time": 1740903799,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117147,
+      "num": 117147,
+      "word": "郑钦文终结三连败",
+      "onboard_time": 1741418302,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 116973,
@@ -14321,6 +14425,14 @@
       "onboard_time": 1741283417,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 112370,
+      "num": 112370,
+      "word": "越来越多人开始和年龄和解",
+      "onboard_time": 1741418062,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112364,
@@ -14867,6 +14979,14 @@
       "category": "国内时政,母婴育儿"
     },
     {
+      "raw_hot": 105845,
+      "num": 105845,
+      "word": "章若楠边唱歌边说对不起",
+      "onboard_time": 1741415539,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105608,
       "num": 148650,
       "word": "汪苏泷鸟巢舞美",
@@ -14905,6 +15025,14 @@
       "onboard_time": 1741154119,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105430,
+      "num": 105430,
+      "word": "华晨宇发妇女节祝福短信",
+      "onboard_time": 1741417942,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 105397,
@@ -15017,6 +15145,14 @@
       "onboard_time": 1741158738,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 104126,
+      "num": 104126,
+      "word": "QQ音乐超级巅峰之夜",
+      "onboard_time": 1741417821,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 104051,
@@ -15171,6 +15307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102619,
+      "num": 102619,
+      "word": "白鹿见缝插针给北上剧宣",
+      "onboard_time": 1741418121,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102611,
       "num": 102611,
       "word": "研究出这个镜头的人是天才",
@@ -15257,6 +15401,14 @@
       "onboard_time": 1741339942,
       "rank": 45,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 101215,
+      "num": 101215,
+      "word": "难哄小情侣重逢",
+      "onboard_time": 1741416263,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 101187,
@@ -16547,14 +16699,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 77350,
-      "num": 81500,
-      "word": "章若楠边唱歌边说对不起",
-      "onboard_time": 1741415539,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 77020,
       "num": 189249,
       "word": "中方将采取反制措施",
@@ -16593,6 +16737,14 @@
       "onboard_time": 1740898819,
       "rank": 14,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 76475,
+      "num": 103115,
+      "word": "北大今年将增加150个本科名额",
+      "onboard_time": 1741416621,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 76204,
@@ -17321,6 +17473,14 @@
       "onboard_time": 1741011079,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64479,
+      "num": 140155,
+      "word": "代表建议春节假再增加3至5天",
+      "onboard_time": 1741416981,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 64432,
@@ -18779,6 +18939,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 38053,
+      "num": 270433,
+      "word": "最高法严惩偷拍窃听违法犯罪",
+      "onboard_time": 1741418001,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 37773,
       "num": 1096735,
       "word": "政府工作报告里的身边事",
@@ -19457,6 +19625,14 @@
       "onboard_time": 1741101141,
       "rank": 29,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 27010,
+      "num": 230408,
+      "word": "秦岭女人把小卖部改造成村中CBD",
+      "onboard_time": 1741417280,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26891,

@@ -1,6 +1,6 @@
 {
   "startTime": 1741364948328,
-  "endTime": 1741415996014,
+  "endTime": 1741418359646,
   "band_list": [
     {
       "raw_hot": 4523747,
@@ -99,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1007620,
+      "num": 477808,
+      "word": "邓超录综艺被老人问明星什么时候来",
+      "onboard_time": 1741414942,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 951936,
       "num": 1152309,
       "word": "哪吒票房",
@@ -187,12 +195,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 511255,
-      "num": 420705,
-      "word": "邓超录综艺被老人问明星什么时候来",
-      "onboard_time": 1741414942,
-      "rank": 12,
-      "category": "综艺"
+      "raw_hot": 490821,
+      "num": 1078531,
+      "word": "教资科二",
+      "onboard_time": 1741417041,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 486555,
@@ -291,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 340617,
+      "num": 276424,
+      "word": "张真源cos申公豹路透",
+      "onboard_time": 1741416321,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 338221,
       "num": 197747,
       "word": "男子拆快递眼球扎进几十根玻璃细刺",
@@ -337,6 +353,14 @@
       "onboard_time": 1741344562,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 305553,
+      "num": 305553,
+      "word": "蔡明惊讶李小冉也是会笑的",
+      "onboard_time": 1741416741,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 304662,
@@ -441,6 +465,14 @@
       "onboard_time": 1741401081,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 265157,
+      "num": 265157,
+      "word": "约基奇恐怖三双历史第一人",
+      "onboard_time": 1741415720,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 257945,
@@ -611,20 +643,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 193078,
-      "num": 193078,
-      "word": "约基奇恐怖三双历史第一人",
-      "onboard_time": 1741415720,
-      "rank": 20,
-      "category": "体育"
-    },
-    {
       "raw_hot": 188770,
       "num": 188770,
       "word": "今年将发育儿补贴",
       "onboard_time": 1741346061,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 188455,
+      "num": 188455,
+      "word": "虞书欣truelove嘘国王在冬眠OST",
+      "onboard_time": 1741417821,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 185725,
+      "num": 185725,
+      "word": "贺峻霖cos结界兽路透",
+      "onboard_time": 1741416263,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 185589,
@@ -659,6 +699,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 178110,
+      "num": 178110,
+      "word": "小侯七 张宇",
+      "onboard_time": 1741398142,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 175488,
       "num": 175488,
       "word": "当独生子女开始遭遇父母重病",
@@ -684,7 +732,7 @@
     },
     {
       "raw_hot": 171469,
-      "num": 171469,
+      "num": 179026,
       "word": "袁姗姗秀场东方美",
       "onboard_time": 1741414702,
       "rank": 34,
@@ -731,6 +779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165914,
+      "num": 165914,
+      "word": "95后北大元培女生从金融转行做演员",
+      "onboard_time": 1741418181,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165463,
       "num": 173253,
       "word": "还有明天",
@@ -747,14 +803,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 164438,
-      "num": 164438,
-      "word": "小侯七 张宇",
-      "onboard_time": 1741398142,
-      "rank": 33,
-      "category": "教育"
-    },
-    {
       "raw_hot": 163812,
       "num": 163812,
       "word": "仁心俱乐部好细节的女性群像",
@@ -769,6 +817,22 @@
       "onboard_time": 1741406121,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 160479,
+      "num": 160479,
+      "word": "郑钦文2比0阿扎伦卡",
+      "onboard_time": 1741418121,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 159740,
+      "num": 159740,
+      "word": "谁懂赵丽颖这段战损奔跑的含金量",
+      "onboard_time": 1741416741,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 158960,
@@ -987,6 +1051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122600,
+      "num": 122600,
+      "word": "阿扎伦卡摔球拍",
+      "onboard_time": 1741416561,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121360,
       "num": 121360,
       "word": "苏醒说再不回去就没什么工作了",
@@ -1003,6 +1075,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 121029,
+      "num": 121029,
+      "word": "丁程鑫哪吒造型路透",
+      "onboard_time": 1741416141,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120941,
       "num": 120941,
       "word": "赵小童在电光火石中收工",
@@ -1011,12 +1091,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119941,
+      "num": 119941,
+      "word": "黄晓明妇女节给造城者全组女生送鲜花",
+      "onboard_time": 1741418121,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118799,
       "num": 253793,
       "word": "何小鹏透露L3级人形机器人明年量产",
       "onboard_time": 1741401022,
       "rank": 41,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 118541,
+      "num": 118541,
+      "word": "这是我的岛",
+      "onboard_time": 1741418121,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 118344,
@@ -1033,6 +1129,14 @@
       "onboard_time": 1741362803,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117147,
+      "num": 117147,
+      "word": "郑钦文终结三连败",
+      "onboard_time": 1741418302,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 115516,
@@ -1089,6 +1193,14 @@
       "onboard_time": 1741410441,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 112370,
+      "num": 112370,
+      "word": "越来越多人开始和年龄和解",
+      "onboard_time": 1741418062,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111725,
@@ -1171,6 +1283,14 @@
       "category": "国内时政,母婴育儿"
     },
     {
+      "raw_hot": 105845,
+      "num": 105845,
+      "word": "章若楠边唱歌边说对不起",
+      "onboard_time": 1741415539,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105552,
       "num": 105552,
       "word": "古人写一个车字竟然还分车型",
@@ -1187,12 +1307,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 105430,
+      "num": 105430,
+      "word": "华晨宇发妇女节祝福短信",
+      "onboard_time": 1741417942,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104764,
       "num": 104764,
       "word": "女性从事科技数码行业有多酷",
       "onboard_time": 1741404501,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 104126,
+      "num": 104126,
+      "word": "QQ音乐超级巅峰之夜",
+      "onboard_time": 1741417821,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 104110,
@@ -1211,6 +1347,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 102619,
+      "num": 102619,
+      "word": "白鹿见缝插针给北上剧宣",
+      "onboard_time": 1741418121,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101594,
       "num": 193141,
       "word": "缅北明家被写入最高检报告",
@@ -1225,6 +1369,14 @@
       "onboard_time": 1741342580,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 101215,
+      "num": 101215,
+      "word": "难哄小情侣重逢",
+      "onboard_time": 1741416263,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 99151,
@@ -1435,12 +1587,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 77350,
-      "num": 81500,
-      "word": "章若楠边唱歌边说对不起",
-      "onboard_time": 1741415539,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 76475,
+      "num": 103115,
+      "word": "北大今年将增加150个本科名额",
+      "onboard_time": 1741416621,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 75943,
@@ -1521,6 +1673,14 @@
       "onboard_time": 1741392079,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 64479,
+      "num": 140155,
+      "word": "代表建议春节假再增加3至5天",
+      "onboard_time": 1741416981,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 63553,
@@ -1723,6 +1883,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 38053,
+      "num": 270433,
+      "word": "最高法严惩偷拍窃听违法犯罪",
+      "onboard_time": 1741418001,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 36964,
       "num": 243929,
       "word": "宣称有机樱桃却被消费者测出多效唑",
@@ -1785,6 +1953,14 @@
       "onboard_time": 1741370296,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 27010,
+      "num": 230408,
+      "word": "秦岭女人把小卖部改造成村中CBD",
+      "onboard_time": 1741417280,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26777,
