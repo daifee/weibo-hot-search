@@ -1,6 +1,6 @@
 {
   "startTime": 1741364948328,
-  "endTime": 1741447160117,
+  "endTime": 1741448121567,
   "band_list": [
     {
       "raw_hot": 4523747,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1299926,
-      "num": 346289,
+      "num": 375521,
       "word": "蒋敦豪说请大家坚定的选择十个勤天",
       "onboard_time": 1741444703,
       "rank": 10,
@@ -211,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 832973,
+      "num": 1133275,
+      "word": "超600吨黄金流入美国",
+      "onboard_time": 1741442422,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 831313,
       "num": 313943,
       "word": "田静英语一成绩",
@@ -241,14 +249,6 @@
       "onboard_time": 1741360942,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 773091,
-      "num": 773091,
-      "word": "超600吨黄金流入美国",
-      "onboard_time": 1741442422,
-      "rank": 8,
-      "category": "财经"
     },
     {
       "raw_hot": 772742,
@@ -289,6 +289,14 @@
       "onboard_time": 1741420702,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 717674,
+      "num": 717674,
+      "word": "石矶娘娘已经逃到洛阳了",
+      "onboard_time": 1741445182,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 675059,
@@ -371,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 512736,
+      "num": 512736,
+      "word": "代表说996不理想应该888",
+      "onboard_time": 1741446624,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 511418,
       "num": 158246,
       "word": "章若楠外网生图",
@@ -432,14 +448,6 @@
       "word": "父亲向女儿索要赡养费供养智残儿子",
       "onboard_time": 1741429282,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 444168,
-      "num": 444168,
-      "word": "石矶娘娘已经逃到洛阳了",
-      "onboard_time": 1741445182,
-      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -859,6 +867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245877,
+      "num": 245877,
+      "word": "李雪琴拍的石凯",
+      "onboard_time": 1741446082,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242318,
       "num": 242318,
       "word": "丁禹兮战损妆",
@@ -985,14 +1001,6 @@
       "onboard_time": 1741426161,
       "rank": 7,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 205504,
-      "num": 205504,
-      "word": "李雪琴拍的石凯",
-      "onboard_time": 1741446082,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 204459,
@@ -1443,6 +1451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 160917,
+      "num": 160917,
+      "word": "林忆莲台下混进真女儿了",
+      "onboard_time": 1741446202,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 160498,
       "num": 160498,
       "word": "教资选择题 难",
@@ -1611,6 +1627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148530,
+      "num": 148530,
+      "word": "叙利亚",
+      "onboard_time": 1741447822,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 148333,
       "num": 148333,
       "word": "第五人格杰克",
@@ -1747,14 +1771,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 138766,
-      "num": 138766,
-      "word": "林忆莲台下混进真女儿了",
-      "onboard_time": 1741446202,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 138742,
       "num": 150723,
       "word": "张凌赫偶像剧的脸生活化的演技",
@@ -1777,6 +1793,14 @@
       "onboard_time": 1741424422,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136507,
+      "num": 136507,
+      "word": "沈梦瑶上海演唱会舞台",
+      "onboard_time": 1741447342,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 136411,
@@ -1835,6 +1859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132724,
+      "num": 123435,
+      "word": "檀健次个人演唱会既视感",
+      "onboard_time": 1741447761,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 132638,
       "num": 275529,
       "word": "教资 简答题",
@@ -1888,6 +1920,14 @@
       "word": "余华英案李铁案写入最高法报告",
       "onboard_time": 1741398621,
       "rank": 13,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 130566,
+      "num": 130566,
+      "word": "人大代表建议将农村医保改为储蓄型",
+      "onboard_time": 1741446863,
+      "rank": 44,
       "category": "国内时政"
     },
     {
@@ -2011,6 +2051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122494,
+      "num": 225164,
+      "word": "柳智敏米兰时装周emv第一",
+      "onboard_time": 1741444883,
+      "rank": 20,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 122452,
       "num": 274270,
       "word": "QueenWen回来了",
@@ -2025,14 +2073,6 @@
       "onboard_time": 1741432642,
       "rank": 41,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 121913,
-      "num": 121913,
-      "word": "人大代表建议将农村医保改为储蓄型",
-      "onboard_time": 1741446863,
-      "rank": 44,
-      "category": "国内时政"
     },
     {
       "raw_hot": 121556,
@@ -2449,6 +2489,14 @@
       "onboard_time": 1741419681,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 104973,
+      "num": 104973,
+      "word": "看起来偏门但其实很实用的东西",
+      "onboard_time": 1741444823,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 104764,
@@ -3051,6 +3099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69962,
+      "num": 386345,
+      "word": "周云杰回应海尔老总冷如冰箱",
+      "onboard_time": 1741447463,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 68846,
       "num": 101927,
       "word": "杨天真我也讨厌写周报",
@@ -3240,14 +3296,6 @@
       "word": "建议向家暴加害人单位通报",
       "onboard_time": 1741397000,
       "rank": 19,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 48125,
-      "num": 333877,
-      "word": "代表说996不理想应该888",
-      "onboard_time": 1741446624,
-      "rank": 14,
       "category": "国内时政"
     },
     {
