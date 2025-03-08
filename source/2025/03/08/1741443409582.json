@@ -1,0 +1,410 @@
+{
+  "runTime": 1741443409582,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1107044,
+        "num": 1177127,
+        "word": "你好星期六",
+        "onboard_time": 1741431322,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 712377,
+        "num": 712377,
+        "word": "不要再叫女神节女王节了",
+        "onboard_time": 1741428922,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27178,
+        "num": 536155,
+        "word": "一组图梳理两高工作报告",
+        "onboard_time": 1741442664,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1104788,
+        "num": 525969,
+        "word": "你好星期六下期是凡人修仙传",
+        "onboard_time": 1741441582,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 494322,
+        "num": 494322,
+        "word": "烟盒写建议被采纳82岁大爷回应走红",
+        "onboard_time": 1741440562,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 435570,
+        "num": 435570,
+        "word": "哪吒2票房距全球第6仅差不到1亿",
+        "onboard_time": 1741434622,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 44413,
+        "num": 413195,
+        "word": "解读政府工作报告背后的新机遇",
+        "onboard_time": 1741442422,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 410911,
+        "num": 410911,
+        "word": "哪吒2破148亿了",
+        "onboard_time": 1741438163,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 230829,
+        "num": 230829,
+        "word": "超600吨黄金流入美国",
+        "onboard_time": 1741442422,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 219013,
+        "num": 219013,
+        "word": "人大代表回应敦煌为啥招学动物学的",
+        "onboard_time": 1741439422,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1025815,
+        "num": 218351,
+        "word": "薛凯琪发长文",
+        "onboard_time": 1741419981,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 872226,
+        "num": 217861,
+        "word": "伊能静都57了还在免检生图",
+        "onboard_time": 1741435522,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222282,
+        "num": 216841,
+        "word": "妇女节",
+        "onboard_time": 1741364181,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 643561,
+        "num": 216356,
+        "word": "戚薇回应眼睛怎么了",
+        "onboard_time": 1741427722,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 579756,
+        "num": 215382,
+        "word": "婚礼最没有必要的步骤是什么",
+        "onboard_time": 1741437382,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 518616,
+        "num": 213954,
+        "word": "郑乃馨说和硬糖少女没联系",
+        "onboard_time": 1741430661,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385257,
+        "num": 213027,
+        "word": "Jennie伴舞失误",
+        "onboard_time": 1741430423,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 377777,
+        "num": 212211,
+        "word": "负责人称小米卫生巾真的做不了",
+        "onboard_time": 1741425621,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 339994,
+        "num": 211255,
+        "word": "虞书欣林一错位吻",
+        "onboard_time": 1741439602,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303463,
+        "num": 210975,
+        "word": "赵一博4部待播剧",
+        "onboard_time": 1741436360,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18521,
+        "num": 209987,
+        "word": "建议将冷暴力纳入家庭暴力防治范围",
+        "onboard_time": 1741443203,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 271623,
+        "num": 209227,
+        "word": "将门毒后广播剧破亿",
+        "onboard_time": 1741438583,
+        "rank": 21,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 253255,
+        "num": 207918,
+        "word": "郭爽退团",
+        "onboard_time": 1741443023,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207701,
+        "num": 207701,
+        "word": "成毅杀青请全组吃烧烤",
+        "onboard_time": 1741441883,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28290,
+        "num": 203332,
+        "word": "吒宝祝大家成为自己想要的样子",
+        "onboard_time": 1741443082,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 199882,
+        "num": 199882,
+        "word": "房东收到一笔3782元陌生转账",
+        "onboard_time": 1741408161,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187213,
+        "num": 187213,
+        "word": "华晨宇演唱会开场还是太权威了",
+        "onboard_time": 1741442422,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160222,
+        "num": 187155,
+        "word": "胡夏唱了想你时风起",
+        "onboard_time": 1741442303,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 12717,
+        "num": 187034,
+        "word": "解构式优雅",
+        "onboard_time": 1741442482,
+        "rank": 28,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 108101,
+        "num": 186873,
+        "word": "住酒店上厕所隐私视频被售卖",
+        "onboard_time": 1741441042,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 189142,
+        "num": 186635,
+        "word": "丘索维金娜体操世界杯夺冠",
+        "onboard_time": 1741431862,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186542,
+        "num": 186542,
+        "word": "泥塑易烊千玺",
+        "onboard_time": 1741442783,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181045,
+        "num": 181045,
+        "word": "刘亦菲 华为",
+        "onboard_time": 1741422921,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164242,
+        "num": 164242,
+        "word": "麦家说DeepSeek的问题是没法写得差",
+        "onboard_time": 1741437320,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 153845,
+        "num": 153845,
+        "word": "檀健次红毯压轴",
+        "onboard_time": 1741436662,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152011,
+        "num": 152011,
+        "word": "段奥娟一生要出片的中国女人",
+        "onboard_time": 1741441344,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147277,
+        "num": 147277,
+        "word": "徐克 电视剧百年武侠",
+        "onboard_time": 1741442841,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138264,
+        "num": 138264,
+        "word": "杨肸子红房子库存清仓",
+        "onboard_time": 1741442783,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53035,
+        "num": 137642,
+        "word": "麦琳我不要活成这个样子",
+        "onboard_time": 1741439181,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137123,
+        "num": 137123,
+        "word": "AG超玩会BP",
+        "onboard_time": 1741439662,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136158,
+        "num": 136158,
+        "word": "爱你",
+        "onboard_time": 1741435103,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127379,
+        "num": 127379,
+        "word": "女校实体书",
+        "onboard_time": 1741434262,
+        "rank": 41,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 124057,
+        "num": 124057,
+        "word": "赵小童水培搭建进行中",
+        "onboard_time": 1741443082,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123634,
+        "num": 123634,
+        "word": "哪吒2让新加坡发行方惊到了",
+        "onboard_time": 1741429762,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119068,
+        "num": 119068,
+        "word": "敖瑞鹏直播",
+        "onboard_time": 1741436122,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113686,
+        "num": 113686,
+        "word": "沈月高海宁合照",
+        "onboard_time": 1741440982,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113469,
+        "num": 113469,
+        "word": "鞠婧祎强烈对比",
+        "onboard_time": 1741438163,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110814,
+        "num": 110814,
+        "word": "焦虑抑郁是不是病态有两个标准",
+        "onboard_time": 1741431922,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 109120,
+        "num": 109120,
+        "word": "华晨宇启用全钻升降台",
+        "onboard_time": 1741439123,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104217,
+        "num": 104217,
+        "word": "爱你吻戏",
+        "onboard_time": 1741441942,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会之问#"
+    }
+  }
+}
