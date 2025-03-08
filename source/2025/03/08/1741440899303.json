@@ -1,0 +1,410 @@
+{
+  "runTime": 1741440899303,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1628266,
+        "num": 1628266,
+        "word": "你好星期六",
+        "onboard_time": 1741431322,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 812106,
+        "num": 812106,
+        "word": "不要再叫女神节女王节了",
+        "onboard_time": 1741428922,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18930,
+        "num": 686694,
+        "word": "人大工作报告精华版",
+        "onboard_time": 1741421660,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 632886,
+        "num": 632886,
+        "word": "台湾艺人带中国台湾省话题发博",
+        "onboard_time": 1741419501,
+        "rank": 3,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 605282,
+        "num": 605282,
+        "word": "哪吒2票房距全球第6仅差不到1亿",
+        "onboard_time": 1741434622,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 234761,
+        "num": 234761,
+        "word": "妇女节",
+        "onboard_time": 1741364181,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 432780,
+        "num": 233245,
+        "word": "哪吒2破148亿了",
+        "onboard_time": 1741438163,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 231115,
+        "num": 231115,
+        "word": "丘索维金娜体操世界杯夺冠",
+        "onboard_time": 1741431862,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214755,
+        "num": 214755,
+        "word": "AG超玩会BP",
+        "onboard_time": 1741439662,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 181218,
+        "num": 181218,
+        "word": "爱你",
+        "onboard_time": 1741435103,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1006573,
+        "num": 180428,
+        "word": "薛凯琪发长文",
+        "onboard_time": 1741419981,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 958280,
+        "num": 176306,
+        "word": "伊能静都57了还在免检生图",
+        "onboard_time": 1741435522,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 745614,
+        "num": 173295,
+        "word": "婚礼最没有必要的步骤是什么",
+        "onboard_time": 1741437382,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 701842,
+        "num": 172859,
+        "word": "戚薇回应眼睛怎么了",
+        "onboard_time": 1741427722,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170313,
+        "num": 170313,
+        "word": "人大代表回应敦煌为啥招学动物学的",
+        "onboard_time": 1741439422,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 588083,
+        "num": 170310,
+        "word": "郑乃馨说和硬糖少女没联系",
+        "onboard_time": 1741430661,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 573643,
+        "num": 169941,
+        "word": "赵一博4部待播剧",
+        "onboard_time": 1741436360,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 538945,
+        "num": 169584,
+        "word": "负责人称小米卫生巾真的做不了",
+        "onboard_time": 1741425621,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 478670,
+        "num": 169207,
+        "word": "Jennie伴舞失误",
+        "onboard_time": 1741430423,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 390315,
+        "num": 168906,
+        "word": "将门毒后广播剧破亿",
+        "onboard_time": 1741438583,
+        "rank": 19,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 345043,
+        "num": 168666,
+        "word": "虞书欣林一错位吻",
+        "onboard_time": 1741439602,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275794,
+        "num": 168438,
+        "word": "房东收到一笔3782元陌生转账",
+        "onboard_time": 1741408161,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200983,
+        "num": 167992,
+        "word": "刘亦菲 华为",
+        "onboard_time": 1741422921,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189888,
+        "num": 167742,
+        "word": "李兰迪老年妆",
+        "onboard_time": 1741439662,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19060,
+        "num": 167331,
+        "word": "女性视角下的脱口秀创作",
+        "onboard_time": 1741440624,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66802,
+        "num": 167210,
+        "word": "麦琳我不要活成这个样子",
+        "onboard_time": 1741439181,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167017,
+        "num": 167017,
+        "word": "麦家说DeepSeek的问题是没法写得差",
+        "onboard_time": 1741437320,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 145079,
+        "num": 145079,
+        "word": "哪吒2让新加坡发行方惊到了",
+        "onboard_time": 1741429762,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122598,
+        "num": 144302,
+        "word": "华晨宇启用全钻升降台",
+        "onboard_time": 1741439123,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 65569,
+        "num": 144049,
+        "word": "建议AI取代有毒有害岗位",
+        "onboard_time": 1741440142,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 159490,
+        "num": 144041,
+        "word": "敖瑞鹏直播",
+        "onboard_time": 1741436122,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144002,
+        "num": 144002,
+        "word": "檀健次红毯压轴",
+        "onboard_time": 1741436662,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126766,
+        "num": 126766,
+        "word": "鞠婧祎强烈对比",
+        "onboard_time": 1741438163,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114292,
+        "num": 114292,
+        "word": "女校实体书",
+        "onboard_time": 1741434262,
+        "rank": 33,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 112067,
+        "num": 112067,
+        "word": "单依纯周兴哲互当对方演唱会嘉宾",
+        "onboard_time": 1741440322,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109926,
+        "num": 109926,
+        "word": "焦虑抑郁是不是病态有两个标准",
+        "onboard_time": 1741431922,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 107279,
+        "num": 107279,
+        "word": "大熊猫生了一个自己是什么体验",
+        "onboard_time": 1741440624,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101838,
+        "num": 101838,
+        "word": "刘诗诗沈乐水杀青",
+        "onboard_time": 1741438463,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99029,
+        "num": 99029,
+        "word": "找工作必须首选大城市吗",
+        "onboard_time": 1741437623,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 97962,
+        "num": 97962,
+        "word": "一诺登顶KPL总击杀榜",
+        "onboard_time": 1741438823,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 97049,
+        "num": 97049,
+        "word": "麦琳教妈妈们走出容貌焦虑",
+        "onboard_time": 1741437982,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96880,
+        "num": 96880,
+        "word": "烟盒写建议被采纳82岁大爷回应走红",
+        "onboard_time": 1741440562,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 95396,
+        "num": 95396,
+        "word": "冯远征最着急演员的台词功底",
+        "onboard_time": 1741425141,
+        "rank": 42,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 90487,
+        "num": 90487,
+        "word": "长安二十四计",
+        "onboard_time": 1741440862,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90471,
+        "num": 90471,
+        "word": "气血不足的人更容易焦虑抑郁",
+        "onboard_time": 1741423762,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 89234,
+        "num": 89234,
+        "word": "丁禹兮战损妆",
+        "onboard_time": 1741434202,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88928,
+        "num": 88928,
+        "word": "哈佛MBA23%毕业生毕业即失业",
+        "onboard_time": 1741432582,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 87108,
+        "num": 87108,
+        "word": "灯花笑",
+        "onboard_time": 1741432642,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 86988,
+        "num": 86988,
+        "word": "70岁女主7岁男主",
+        "onboard_time": 1741434503,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86658,
+        "num": 86658,
+        "word": "动物园网红猩猩扔草皮砸倒女游客",
+        "onboard_time": 1741440082,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记温暖寄语半边天#"
+    }
+  }
+}

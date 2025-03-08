@@ -1,6 +1,6 @@
 {
   "startTime": 1741364948328,
-  "endTime": 1741440051059,
+  "endTime": 1741440899303,
   "band_list": [
     {
       "raw_hot": 4523747,
@@ -235,6 +235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 745614,
+      "num": 214433,
+      "word": "婚礼最没有必要的步骤是什么",
+      "onboard_time": 1741437382,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 742020,
       "num": 275201,
       "word": "薛凯琪写给方大同的话",
@@ -289,14 +297,6 @@
       "onboard_time": 1741397960,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 541702,
-      "num": 214433,
-      "word": "婚礼最没有必要的步骤是什么",
-      "onboard_time": 1741437382,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 533751,
@@ -395,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 432780,
+      "num": 243825,
+      "word": "哪吒2破148亿了",
+      "onboard_time": 1741438163,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 422264,
       "num": 517579,
       "word": "台军一护卫舰爆炸",
@@ -409,14 +417,6 @@
       "onboard_time": 1741424720,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 403570,
-      "num": 243825,
-      "word": "哪吒2破148亿了",
-      "onboard_time": 1741438163,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 402489,
@@ -449,6 +449,14 @@
       "onboard_time": 1741428981,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 390315,
+      "num": 213944,
+      "word": "将门毒后广播剧破亿",
+      "onboard_time": 1741438583,
+      "rank": 19,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 370473,
@@ -507,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 345043,
+      "num": 213548,
+      "word": "虞书欣林一错位吻",
+      "onboard_time": 1741439602,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 340617,
       "num": 276424,
       "word": "张真源cos申公豹路透",
@@ -521,14 +537,6 @@
       "onboard_time": 1741389737,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 336934,
-      "num": 213944,
-      "word": "将门毒后广播剧破亿",
-      "onboard_time": 1741438583,
-      "rank": 19,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 334702,
@@ -811,12 +819,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 213548,
-      "num": 213548,
-      "word": "虞书欣林一错位吻",
-      "onboard_time": 1741439602,
-      "rank": 21,
-      "category": "综艺"
+      "raw_hot": 214755,
+      "num": 214755,
+      "word": "AG超玩会BP",
+      "onboard_time": 1741439662,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 209352,
@@ -993,6 +1001,14 @@
       "onboard_time": 1741405942,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189888,
+      "num": 167742,
+      "word": "李兰迪老年妆",
+      "onboard_time": 1741439662,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 189517,
@@ -1195,6 +1211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170313,
+      "num": 215216,
+      "word": "人大代表回应敦煌为啥招学动物学的",
+      "onboard_time": 1741439422,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169027,
       "num": 498622,
       "word": "中方重拳警示关税跟风国家",
@@ -1217,6 +1241,14 @@
       "onboard_time": 1741393940,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 167017,
+      "num": 167017,
+      "word": "麦家说DeepSeek的问题是没法写得差",
+      "onboard_time": 1741437320,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 166023,
@@ -1347,14 +1379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155081,
-      "num": 155081,
-      "word": "麦家说DeepSeek的问题是没法写得差",
-      "onboard_time": 1741437320,
-      "rank": 47,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 154444,
       "num": 154444,
       "word": "李现苏州",
@@ -1449,14 +1473,6 @@
       "onboard_time": 1741398261,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 146674,
-      "num": 146674,
-      "word": "AG超玩会BP",
-      "onboard_time": 1741439662,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 145692,
@@ -1819,14 +1835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 120139,
-      "num": 120139,
-      "word": "李兰迪老年妆",
-      "onboard_time": 1741439662,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 119941,
       "num": 274124,
       "word": "黄晓明妇女节给造城者全组女生送鲜花",
@@ -1995,6 +2003,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 112067,
+      "num": 112067,
+      "word": "单依纯周兴哲互当对方演唱会嘉宾",
+      "onboard_time": 1741440322,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 111725,
       "num": 111725,
       "word": "用具象化的声音致敬每一个她",
@@ -2097,6 +2113,14 @@
       "onboard_time": 1741412842,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107279,
+      "num": 107279,
+      "word": "大熊猫生了一个自己是什么体验",
+      "onboard_time": 1741440624,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 105904,
@@ -2315,6 +2339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96880,
+      "num": 96880,
+      "word": "烟盒写建议被采纳82岁大爷回应走红",
+      "onboard_time": 1741440562,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 96845,
       "num": 96845,
       "word": "成毅长安二十四计杀青",
@@ -2435,6 +2467,14 @@
       "category": "综艺,演出"
     },
     {
+      "raw_hot": 90487,
+      "num": 90487,
+      "word": "长安二十四计",
+      "onboard_time": 1741440862,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90271,
       "num": 90271,
       "word": "金铲铲百万大奖得主",
@@ -2529,6 +2569,14 @@
       "onboard_time": 1741416981,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 86658,
+      "num": 86658,
+      "word": "动物园网红猩猩扔草皮砸倒女游客",
+      "onboard_time": 1741440082,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86166,
@@ -2723,12 +2771,28 @@
       "category": "国内时政,民生新闻"
     },
     {
+      "raw_hot": 66802,
+      "num": 167210,
+      "word": "麦琳我不要活成这个样子",
+      "onboard_time": 1741439181,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 65840,
       "num": 274989,
       "word": "有被辛巴直播间暖到",
       "onboard_time": 1741421061,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 65569,
+      "num": 144049,
+      "word": "建议AI取代有毒有害岗位",
+      "onboard_time": 1741440142,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 64622,
@@ -2963,14 +3027,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40309,
-      "num": 215216,
-      "word": "人大代表回应敦煌为啥招学动物学的",
-      "onboard_time": 1741439422,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40082,
       "num": 243328,
       "word": "王石晒单S7",
@@ -3049,14 +3105,6 @@
       "onboard_time": 1741357643,
       "rank": 49,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 35673,
-      "num": 152418,
-      "word": "麦琳我不要活成这个样子",
-      "onboard_time": 1741439181,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 35257,
@@ -3233,6 +3281,14 @@
       "onboard_time": 1741380074,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 19060,
+      "num": 167331,
+      "word": "女性视角下的脱口秀创作",
+      "onboard_time": 1741440624,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18902,
