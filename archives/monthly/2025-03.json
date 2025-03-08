@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741404094872,
+  "endTime": 1741404907552,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -323,6 +323,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1876982,
+      "num": 1876982,
+      "word": "教资",
+      "onboard_time": 1741403605,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1859420,
       "num": 1859420,
       "word": "政府工作报告",
@@ -388,7 +396,7 @@
     },
     {
       "raw_hot": 1728292,
-      "num": 273126,
+      "num": 323048,
       "word": "周思成回应何凯文",
       "onboard_time": 1741398980,
       "rank": 12,
@@ -843,14 +851,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 1222667,
-      "num": 1222667,
-      "word": "教资",
-      "onboard_time": 1741403605,
-      "rank": 0,
-      "category": "教育"
-    },
-    {
       "raw_hot": 1219192,
       "num": 1219192,
       "word": "退税",
@@ -1203,6 +1203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1020515,
+      "num": 326683,
+      "word": "董力儿子7岁女儿2岁",
+      "onboard_time": 1741403605,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1006977,
       "num": 1006977,
       "word": "DeepSeek没彻底改变全球AI发展格局",
@@ -1225,6 +1233,14 @@
       "onboard_time": 1740980600,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1003062,
+      "num": 1003062,
+      "word": "上海的馒头已经遥遥领先了",
+      "onboard_time": 1741399761,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 1002151,
@@ -1563,14 +1579,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 872845,
-      "num": 872845,
-      "word": "上海的馒头已经遥遥领先了",
-      "onboard_time": 1741399761,
-      "rank": 9,
-      "category": "美食"
-    },
-    {
       "raw_hot": 872589,
       "num": 444492,
       "word": "俄罗斯回应日本制裁",
@@ -1844,7 +1852,7 @@
     },
     {
       "raw_hot": 772742,
-      "num": 247352,
+      "num": 247795,
       "word": "白敬亭下播之后一笔巨大的版权费用",
       "onboard_time": 1741365739,
       "rank": 14,
@@ -3635,6 +3643,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 480623,
+      "num": 480623,
+      "word": "教资科一",
+      "onboard_time": 1741403961,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 480044,
       "num": 379178,
       "word": "白鹿给王星越送花庆生",
@@ -3875,14 +3891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 451847,
-      "num": 225128,
-      "word": "董力儿子7岁女儿2岁",
-      "onboard_time": 1741403605,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 451662,
       "num": 451662,
       "word": "滤镜三部现偶开分最高",
@@ -4097,6 +4105,14 @@
       "onboard_time": 1740812552,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 427509,
+      "num": 427509,
+      "word": "哪吒",
+      "onboard_time": 1741111033,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 427008,
@@ -4483,14 +4499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 393405,
-      "num": 393405,
-      "word": "哪吒",
-      "onboard_time": 1741111033,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 392673,
       "num": 392673,
       "word": "于适起诉disco雨索赔20万",
@@ -4785,6 +4793,14 @@
       "onboard_time": 1740974660,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 370473,
+      "num": 370473,
+      "word": "教资作文",
+      "onboard_time": 1741403961,
+      "rank": 23,
+      "category": "教育"
     },
     {
       "raw_hot": 370084,
@@ -5787,6 +5803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 315071,
+      "num": 951963,
+      "word": "三八妇女节的38条祝福",
+      "onboard_time": 1741392320,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 314981,
       "num": 271677,
       "word": "阿诺拉奥斯卡最佳影片",
@@ -6275,6 +6299,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 292204,
+      "num": 292204,
+      "word": "对加拿大水产品猪肉加征25%关税",
+      "onboard_time": 1741402341,
+      "rank": 16,
+      "category": "国际时政,财经"
+    },
+    {
       "raw_hot": 291845,
       "num": 291845,
       "word": "短剧演员背调",
@@ -6571,6 +6603,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 280779,
+      "num": 354856,
+      "word": "核准追诉低龄未成年人严重暴力犯罪34人",
+      "onboard_time": 1741402520,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 279954,
       "num": 343025,
       "word": "以延为定",
@@ -6753,6 +6793,14 @@
       "onboard_time": 1740994397,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 271066,
+      "num": 271066,
+      "word": "知情人称鹿晗在为演唱会做准备",
+      "onboard_time": 1741400663,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 270982,
@@ -6956,7 +7004,7 @@
     },
     {
       "raw_hot": 266049,
-      "num": 266049,
+      "num": 361280,
       "word": "你好星期六三八节全员送花花",
       "onboard_time": 1741401081,
       "rank": 39,
@@ -6977,14 +7025,6 @@
       "onboard_time": 1741082903,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 264730,
-      "num": 224419,
-      "word": "知情人称鹿晗在为演唱会做准备",
-      "onboard_time": 1741400663,
-      "rank": 35,
-      "category": "演出"
     },
     {
       "raw_hot": 264053,
@@ -7089,14 +7129,6 @@
       "onboard_time": 1740981979,
       "rank": 19,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 261134,
-      "num": 226453,
-      "word": "对加拿大水产品猪肉加征25%关税",
-      "onboard_time": 1741402341,
-      "rank": 16,
-      "category": "国际时政,财经"
     },
     {
       "raw_hot": 260280,
@@ -7251,6 +7283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253489,
+      "num": 253489,
+      "word": "看上去正常实则是焦虑症的行为",
+      "onboard_time": 1741399640,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 252401,
       "num": 303217,
       "word": "哪吒2票房",
@@ -7393,14 +7433,6 @@
       "onboard_time": 1741004298,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 246459,
-      "num": 226680,
-      "word": "核准追诉低龄未成年人严重暴力犯罪34人",
-      "onboard_time": 1741402520,
-      "rank": 15,
-      "category": "国内时政"
     },
     {
       "raw_hot": 246146,
@@ -7577,6 +7609,14 @@
       "onboard_time": 1741239558,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 239395,
+      "num": 239395,
+      "word": "教资答案",
+      "onboard_time": 1741404560,
+      "rank": 23,
+      "category": "教育"
     },
     {
       "raw_hot": 238987,
@@ -7907,14 +7947,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 228248,
-      "num": 951963,
-      "word": "三八妇女节的38条祝福",
-      "onboard_time": 1741392320,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 228092,
       "num": 406117,
       "word": "汪苏泷11城24场",
@@ -8080,14 +8112,6 @@
       "word": "直男为出片肉眼可见的努力",
       "onboard_time": 1741351283,
       "rank": 36,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 224270,
-      "num": 224270,
-      "word": "看上去正常实则是焦虑症的行为",
-      "onboard_time": 1741399640,
-      "rank": 40,
       "category": "幽默"
     },
     {
@@ -8449,14 +8473,6 @@
       "onboard_time": 1741333162,
       "rank": 27,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 215423,
-      "num": 215423,
-      "word": "教资作文",
-      "onboard_time": 1741403961,
-      "rank": 23,
-      "category": "教育"
     },
     {
       "raw_hot": 215362,
@@ -8929,6 +8945,14 @@
       "onboard_time": 1741101141,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 206048,
+      "num": 206048,
+      "word": "女子离婚要求带走全部嫁妆",
+      "onboard_time": 1741403722,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 206026,
@@ -10433,14 +10457,6 @@
       "onboard_time": 1741273942,
       "rank": 23,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 182277,
-      "num": 182277,
-      "word": "教资科一",
-      "onboard_time": 1741403961,
-      "rank": 31,
-      "category": "教育"
     },
     {
       "raw_hot": 182131,
@@ -13009,6 +13025,14 @@
       "onboard_time": 1740791419,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148649,
+      "num": 148649,
+      "word": "39岁女医生发工作日常被60万人点赞",
+      "onboard_time": 1741403901,
+      "rank": 40,
+      "category": "正能量"
     },
     {
       "raw_hot": 148547,
@@ -15611,14 +15635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 120958,
-      "num": 120958,
-      "word": "39岁女医生发工作日常被60万人点赞",
-      "onboard_time": 1741403901,
-      "rank": 40,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 120941,
       "num": 120941,
       "word": "赵小童在电光火石中收工",
@@ -15772,7 +15788,7 @@
     },
     {
       "raw_hot": 118799,
-      "num": 226165,
+      "num": 253793,
       "word": "何小鹏透露L3级人形机器人明年量产",
       "onboard_time": 1741401022,
       "rank": 41,
@@ -16105,14 +16121,6 @@
       "onboard_time": 1741183581,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 114595,
-      "num": 114595,
-      "word": "女子离婚要求带走全部嫁妆",
-      "onboard_time": 1741403722,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 114500,
@@ -16643,6 +16651,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 108203,
+      "num": 227055,
+      "word": "郑钦文妇女节采访提到张雨霏",
+      "onboard_time": 1741403483,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108108,
       "num": 187589,
       "word": "景甜古装撑伞",
@@ -17001,6 +17017,14 @@
       "onboard_time": 1740760157,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 104764,
+      "num": 104764,
+      "word": "女性从事科技数码行业有多酷",
+      "onboard_time": 1741404501,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 104670,
@@ -17939,6 +17963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93598,
+      "num": 93598,
+      "word": "杨天真说我也感觉到35岁危机",
+      "onboard_time": 1741404682,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93486,
       "num": 164296,
       "word": "今年看过最抽象的一部剧",
@@ -18377,14 +18409,6 @@
       "onboard_time": 1740844941,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 85932,
-      "num": 227055,
-      "word": "郑钦文妇女节采访提到张雨霏",
-      "onboard_time": 1741403483,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 85724,
@@ -20971,20 +20995,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 39966,
+      "num": 962061,
+      "word": "最高法工作报告",
+      "onboard_time": 1741398500,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 39885,
       "num": 39885,
       "word": "初步举证 女性力量",
       "onboard_time": 1740764234,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 39711,
-      "num": 881565,
-      "word": "最高法工作报告",
-      "onboard_time": 1741398500,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 39649,
