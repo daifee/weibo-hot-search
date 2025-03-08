@@ -1,0 +1,410 @@
+{
+  "runTime": 1741412120443,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 951936,
+        "num": 1152309,
+        "word": "哪吒票房",
+        "onboard_time": 1741407502,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 574211,
+        "num": 574211,
+        "word": "上海的馒头已经遥遥领先了",
+        "onboard_time": 1741399761,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 34206,
+        "num": 484614,
+        "word": "2025国家立法抢鲜看",
+        "onboard_time": 1741398741,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 461588,
+        "num": 461588,
+        "word": "妇女节",
+        "onboard_time": 1741364181,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 443604,
+        "num": 443604,
+        "word": "装修快收尾时才发现装错了房子",
+        "onboard_time": 1741407621,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 441736,
+        "num": 441736,
+        "word": "对强奸未成年人的郭某某判处死刑",
+        "onboard_time": 1741399761,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 427901,
+        "num": 427901,
+        "word": "比何以琛还好哄的人出现了",
+        "onboard_time": 1741409242,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294960,
+        "num": 294960,
+        "word": "恋与深空",
+        "onboard_time": 1741410862,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 283841,
+        "num": 283841,
+        "word": "房东收到3千陌生转账租客要求转回",
+        "onboard_time": 1741405882,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104424,
+        "num": 282618,
+        "word": "请查收这份特别的妇女节祝福",
+        "onboard_time": 1741410621,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 823714,
+        "num": 282587,
+        "word": "泰国最受欢迎的中国女明星",
+        "onboard_time": 1741409842,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282525,
+        "num": 282525,
+        "word": "王者荣耀",
+        "onboard_time": 1741409661,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 404746,
+        "num": 275616,
+        "word": "董力儿子7岁女儿2岁",
+        "onboard_time": 1741403605,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256863,
+        "num": 256863,
+        "word": "倪萍脱口秀全程现挂炸场",
+        "onboard_time": 1741410862,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112404,
+        "num": 251930,
+        "word": "建议新人结婚前先上课",
+        "onboard_time": 1741410441,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 251704,
+        "num": 251704,
+        "word": "种地吧",
+        "onboard_time": 1741407803,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190234,
+        "num": 190234,
+        "word": "宋雨琦老公是一种感觉",
+        "onboard_time": 1741406541,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 178228,
+        "num": 178228,
+        "word": "教资",
+        "onboard_time": 1741403605,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 188567,
+        "num": 177379,
+        "word": "倪萍爆料90岁妈妈在家喝冰可乐",
+        "onboard_time": 1741411220,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43852,
+        "num": 175198,
+        "word": "周云杰欣然接受网友调侃没大葱高",
+        "onboard_time": 1741410563,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 552259,
+        "num": 173410,
+        "word": "小英化妆了",
+        "onboard_time": 1741406841,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1680313,
+        "num": 171571,
+        "word": "房东收到一笔3782元陌生转账",
+        "onboard_time": 1741408161,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370611,
+        "num": 167902,
+        "word": "十个勤天去年半年开了20场演唱会",
+        "onboard_time": 1741405581,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 167723,
+        "num": 167723,
+        "word": "李昀锐白发老年妆",
+        "onboard_time": 1741406061,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160123,
+        "num": 160123,
+        "word": "三八妇女节的38条祝福",
+        "onboard_time": 1741392320,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134799,
+        "num": 147694,
+        "word": "天堂旅行团",
+        "onboard_time": 1741411042,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146170,
+        "num": 146170,
+        "word": "核准追诉低龄未成年人严重暴力犯罪34人",
+        "onboard_time": 1741402520,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 103937,
+        "num": 145889,
+        "word": "郑钦文vs阿扎伦卡",
+        "onboard_time": 1741411761,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23912,
+        "num": 145416,
+        "word": "首先你是你然后才是其他",
+        "onboard_time": 1741411761,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99086,
+        "num": 145218,
+        "word": "仁心俱乐部好细节的女性群像",
+        "onboard_time": 1741410023,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147454,
+        "num": 144808,
+        "word": "肖战包场天堂旅行团",
+        "onboard_time": 1741410321,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144618,
+        "num": 144618,
+        "word": "39岁女医生发工作日常被60万人点赞",
+        "onboard_time": 1741403901,
+        "rank": 31,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 143802,
+        "num": 143802,
+        "word": "全智贤机场出发巴黎",
+        "onboard_time": 1741408100,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140988,
+        "num": 140988,
+        "word": "妇女能顶半边天",
+        "onboard_time": 1741400901,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108951,
+        "num": 129774,
+        "word": "陈丽君鼓励女性做不被定义的自己",
+        "onboard_time": 1741398021,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42066,
+        "num": 128729,
+        "word": "内娱百花齐放的美好女性",
+        "onboard_time": 1741412062,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100457,
+        "num": 128566,
+        "word": "哪吒",
+        "onboard_time": 1741402101,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128416,
+        "num": 128416,
+        "word": "对加拿大水产品猪肉加征25%关税",
+        "onboard_time": 1741402341,
+        "rank": 37,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 128277,
+        "num": 128277,
+        "word": "中方重拳警示关税跟风国家",
+        "onboard_time": 1741406421,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122820,
+        "num": 122820,
+        "word": "粉笔崩了",
+        "onboard_time": 1741410681,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 116224,
+        "num": 116224,
+        "word": "孙颖莎说坚定的力量",
+        "onboard_time": 1741410502,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112578,
+        "num": 112578,
+        "word": "绝区零",
+        "onboard_time": 1741411220,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110881,
+        "num": 110881,
+        "word": "曾经很火但消失的女性手机",
+        "onboard_time": 1741397960,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 106955,
+        "num": 106955,
+        "word": "知情人称鹿晗在为演唱会做准备",
+        "onboard_time": 1741400663,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 103545,
+        "num": 103545,
+        "word": "男子拆快递眼球扎进几十根玻璃细刺",
+        "onboard_time": 1741389737,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99495,
+        "num": 99495,
+        "word": "夸夸每一个她",
+        "onboard_time": 1741405942,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99445,
+        "num": 99445,
+        "word": "美国月球雅典娜任务提前结束",
+        "onboard_time": 1741409542,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94511,
+        "num": 94511,
+        "word": "绝区零雨果",
+        "onboard_time": 1741411761,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 90545,
+        "num": 90545,
+        "word": "女子科学减重2年瘦45斤未反弹",
+        "onboard_time": 1741399880,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84409,
+        "num": 84409,
+        "word": "难哄",
+        "onboard_time": 1741407862,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#教育不能把最基本的丢掉#"
+    }
+  }
+}
