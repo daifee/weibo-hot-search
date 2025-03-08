@@ -1,0 +1,410 @@
+{
+  "runTime": 1741433698197,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1564190,
+        "num": 1564190,
+        "word": "不要再叫女神节女王节了",
+        "onboard_time": 1741428922,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 926865,
+        "num": 926865,
+        "word": "台湾艺人带中国台湾省话题发博",
+        "onboard_time": 1741419501,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 33289,
+        "num": 593428,
+        "word": "最高法工作报告极简版来了",
+        "onboard_time": 1741422803,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 586717,
+        "num": 586717,
+        "word": "哪吒2让新加坡发行方惊到了",
+        "onboard_time": 1741429762,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 308973,
+        "num": 308973,
+        "word": "云南16只搜救犬考编失败求领养",
+        "onboard_time": 1741428981,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231904,
+        "num": 231904,
+        "word": "妇女节",
+        "onboard_time": 1741364181,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209156,
+        "num": 209156,
+        "word": "丁程鑫跳了晚安大小姐",
+        "onboard_time": 1741433181,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207689,
+        "num": 207689,
+        "word": "教资科三",
+        "onboard_time": 1741428981,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 188337,
+        "num": 207585,
+        "word": "华晨宇福州演唱会",
+        "onboard_time": 1741432582,
+        "rank": 8,
+        "category": "演出,综艺"
+      },
+      {
+        "raw_hot": 54904,
+        "num": 206375,
+        "word": "人大代表谈为什么是杭州出圈",
+        "onboard_time": 1741433181,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1668326,
+        "num": 205748,
+        "word": "郑乃馨说和硬糖少女没联系",
+        "onboard_time": 1741430661,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1582791,
+        "num": 205009,
+        "word": "薛凯琪发长文",
+        "onboard_time": 1741419981,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1305628,
+        "num": 204791,
+        "word": "戚薇回应眼睛怎么了",
+        "onboard_time": 1741427722,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 797027,
+        "num": 203877,
+        "word": "Jennie伴舞失误",
+        "onboard_time": 1741430423,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 748272,
+        "num": 203301,
+        "word": "负责人称小米卫生巾真的做不了",
+        "onboard_time": 1741425621,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 445423,
+        "num": 202419,
+        "word": "父亲向女儿索要赡养费供养智残儿子",
+        "onboard_time": 1741429282,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202265,
+        "num": 202265,
+        "word": "黄子弘凡直播网速太快了",
+        "onboard_time": 1741433242,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140496,
+        "num": 201690,
+        "word": "哈佛MBA23%毕业生毕业即失业",
+        "onboard_time": 1741432582,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 159892,
+        "num": 200884,
+        "word": "北京WB新主场首胜",
+        "onboard_time": 1741433063,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 49672,
+        "num": 200312,
+        "word": "小米15Ultra记录每一个闪耀的她",
+        "onboard_time": 1741430361,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 158017,
+        "num": 198766,
+        "word": "人人人人花人人人人",
+        "onboard_time": 1741420282,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 449537,
+        "num": 198622,
+        "word": "房东收到一笔3782元陌生转账",
+        "onboard_time": 1741408161,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 348403,
+        "num": 197151,
+        "word": "刘亦菲 华为",
+        "onboard_time": 1741422921,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212635,
+        "num": 196964,
+        "word": "泰国最受欢迎的中国女明星",
+        "onboard_time": 1741409842,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65424,
+        "num": 196016,
+        "word": "孙颖莎说希望所有女性都能更加自信",
+        "onboard_time": 1741417402,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195239,
+        "num": 195239,
+        "word": "灯花笑",
+        "onboard_time": 1741432642,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 187858,
+        "num": 187858,
+        "word": "邵淳逝世",
+        "onboard_time": 1741432761,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183321,
+        "num": 183321,
+        "word": "丘索维金娜体操世界杯夺冠",
+        "onboard_time": 1741431862,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138946,
+        "num": 181671,
+        "word": "初步举证",
+        "onboard_time": 1741428622,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 33268,
+        "num": 181131,
+        "word": "看夜景就能猜出城市了",
+        "onboard_time": 1741432042,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 180626,
+        "num": 180626,
+        "word": "薛凯琪写给方大同的话",
+        "onboard_time": 1741420702,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 165018,
+        "num": 165018,
+        "word": "刘雨昕 折耳根玫瑰",
+        "onboard_time": 1741433001,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157285,
+        "num": 157285,
+        "word": "白敬亭章若楠床上吻戏",
+        "onboard_time": 1741427842,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85879,
+        "num": 150892,
+        "word": "妇女节公司发金子是什么体验",
+        "onboard_time": 1741431862,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138742,
+        "num": 150723,
+        "word": "张凌赫偶像剧的脸生活化的演技",
+        "onboard_time": 1741433603,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150588,
+        "num": 150588,
+        "word": "尹锡悦将返回总统官邸",
+        "onboard_time": 1741424720,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 148333,
+        "num": 148333,
+        "word": "第五人格杰克",
+        "onboard_time": 1741433482,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130386,
+        "num": 130386,
+        "word": "于正回应程潇玉茗茶骨最终装扮无刘海",
+        "onboard_time": 1741430900,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126426,
+        "num": 126426,
+        "word": "郭杰瑞发视频向美国追讨圆明园文物",
+        "onboard_time": 1741429401,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18902,
+        "num": 122275,
+        "word": "妇女节特别爱自己的好东西",
+        "onboard_time": 1741431682,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18112,
+        "num": 121995,
+        "word": "辛巴的带货之路",
+        "onboard_time": 1741431742,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 121923,
+        "num": 121923,
+        "word": "方尖碑",
+        "onboard_time": 1741432642,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 118979,
+        "num": 118979,
+        "word": "林心如G社生图",
+        "onboard_time": 1741427842,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 117886,
+        "num": 117886,
+        "word": "李秀满新女团和SM新女团将正面对打",
+        "onboard_time": 1741428081,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 114932,
+        "num": 114932,
+        "word": "气血不足的人更容易焦虑抑郁",
+        "onboard_time": 1741423762,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 109023,
+        "num": 109023,
+        "word": "单依纯哪吒造型",
+        "onboard_time": 1741429161,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 107545,
+        "num": 107545,
+        "word": "50岁的苏醒40岁的王铮亮",
+        "onboard_time": 1741423700,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101452,
+        "num": 101452,
+        "word": "我说我怎么老是存不下来钱",
+        "onboard_time": 1741423762,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96796,
+        "num": 96796,
+        "word": "周冬雨新角色狠劲",
+        "onboard_time": 1741433603,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 96540,
+        "num": 96540,
+        "word": "滤镜",
+        "onboard_time": 1741428981,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记温暖寄语半边天#"
+    }
+  }
+}
