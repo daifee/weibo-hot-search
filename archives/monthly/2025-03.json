@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741466149598,
+  "endTime": 1741468753192,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -23595,6 +23595,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 36122,
+      "num": 31495,
+      "word": "温以凡香港刷盘子",
+      "onboard_time": 1741463834,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 36110,
       "num": 330118,
       "word": "北美版相亲大师",
@@ -24099,6 +24107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29214,
+      "num": 29214,
+      "word": "家有儿女是这样过妇女节的",
+      "onboard_time": 1741460235,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 29172,
       "num": 239671,
       "word": "建议让骑手等群体社保转移更方便些",
@@ -24491,14 +24507,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 25599,
-      "num": 25599,
-      "word": "家有儿女是这样过妇女节的",
-      "onboard_time": 1741460235,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 25521,
       "num": 42373,
       "word": "Steam在线人数突破4000万",
@@ -24745,14 +24753,6 @@
       "onboard_time": 1741037111,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 22635,
-      "num": 22635,
-      "word": "温以凡香港刷盘子",
-      "onboard_time": 1741463834,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 22618,
@@ -25595,12 +25595,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 12157,
+      "num": 17679,
+      "word": "全国人大代表们送你一朵小红花",
+      "onboard_time": 1741465693,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 12049,
       "num": 85784,
       "word": "于嘉全明星开场祝福郭艾伦",
       "onboard_time": 1740935595,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12049,
+      "num": 16155,
+      "word": "前两个月我国货物贸易开局平稳",
+      "onboard_time": 1741466174,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 12033,
@@ -25617,14 +25633,6 @@
       "onboard_time": 1741059917,
       "rank": 42,
       "category": "美食"
-    },
-    {
-      "raw_hot": 11997,
-      "num": 17679,
-      "word": "全国人大代表们送你一朵小红花",
-      "onboard_time": 1741465693,
-      "rank": 48,
-      "category": "国内时政"
     },
     {
       "raw_hot": 11944,
@@ -25784,6 +25792,14 @@
       "word": "2024年三新经济增加值占GDP比重超18%",
       "onboard_time": 1741289054,
       "rank": 41,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 9692,
+      "num": 22916,
+      "word": "最高法报告提到治理高额彩礼",
+      "onboard_time": 1741468513,
+      "rank": 22,
       "category": "国内时政"
     },
     {
