@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741458290577,
+  "endTime": 1741458960833,
   "band_list": [
     {
       "raw_hot": 1535197,
@@ -203,6 +203,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 132085,
+      "num": 132085,
+      "word": "电影雄狮少年维权声明",
+      "onboard_time": 1741454118,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 123634,
       "num": 123634,
       "word": "丁程鑫 姐夫这是工作",
@@ -233,14 +241,6 @@
       "onboard_time": 1741444343,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 115919,
-      "num": 115919,
-      "word": "电影雄狮少年维权声明",
-      "onboard_time": 1741454118,
-      "rank": 1,
-      "category": "电影"
     },
     {
       "raw_hot": 115871,
@@ -475,6 +475,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 26453,
+      "num": 26453,
+      "word": "刘宇伯远段奥娟阳光男孩女孩",
+      "onboard_time": 1741458675,
+      "rank": 42,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 26399,
       "num": 34041,
       "word": "宋亚轩哪吒里面喜欢结界兽",
@@ -488,6 +496,14 @@
       "word": "檀健次巅峰全能艺人",
       "onboard_time": 1741456876,
       "rank": 47,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 25784,
+      "num": 25784,
+      "word": "张云雷QQ音乐巅峰号召力歌手",
+      "onboard_time": 1741458316,
+      "rank": 45,
       "category": "音乐"
     },
     {

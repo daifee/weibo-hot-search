@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741458290577,
+  "endTime": 1741458960833,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -15747,6 +15747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132085,
+      "num": 132085,
+      "word": "电影雄狮少年维权声明",
+      "onboard_time": 1741454118,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 131917,
       "num": 131917,
       "word": "2元和200元的钙片到底有什么区别",
@@ -17441,14 +17449,6 @@
       "onboard_time": 1740828563,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 115919,
-      "num": 115919,
-      "word": "电影雄狮少年维权声明",
-      "onboard_time": 1741454118,
-      "rank": 1,
-      "category": "电影"
     },
     {
       "raw_hot": 115917,
@@ -24379,6 +24379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26453,
+      "num": 26453,
+      "word": "刘宇伯远段奥娟阳光男孩女孩",
+      "onboard_time": 1741458675,
+      "rank": 42,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 26441,
       "num": 35864,
       "word": "功夫变脸街舞buff叠满了",
@@ -24449,6 +24457,14 @@
       "onboard_time": 1741090759,
       "rank": 14,
       "category": "国内时政,教育"
+    },
+    {
+      "raw_hot": 25784,
+      "num": 25784,
+      "word": "张云雷QQ音乐巅峰号召力歌手",
+      "onboard_time": 1741458316,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 25697,
