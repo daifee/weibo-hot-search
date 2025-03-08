@@ -1,0 +1,410 @@
+{
+  "runTime": 1741415137798,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 585754,
+        "num": 1093720,
+        "word": "哪吒票房",
+        "onboard_time": 1741407502,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 488374,
+        "num": 488374,
+        "word": "上海的馒头已经遥遥领先了",
+        "onboard_time": 1741399761,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 47130,
+        "num": 486926,
+        "word": "2025国家立法抢鲜看",
+        "onboard_time": 1741398741,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 486555,
+        "num": 486555,
+        "word": "倪萍脱口秀全程现挂炸场",
+        "onboard_time": 1741410862,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 414920,
+        "num": 414920,
+        "word": "妇女节",
+        "onboard_time": 1741364181,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 413099,
+        "num": 413099,
+        "word": "装修快收尾时才发现装错了房子",
+        "onboard_time": 1741407621,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 464518,
+        "num": 349510,
+        "word": "比何以琛还好哄的人出现了",
+        "onboard_time": 1741409242,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272205,
+        "num": 272205,
+        "word": "郑钦文vs阿扎伦卡",
+        "onboard_time": 1741411761,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 450141,
+        "num": 269388,
+        "word": "倪萍爆料90岁妈妈在家喝冰可乐",
+        "onboard_time": 1741411220,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63553,
+        "num": 265687,
+        "word": "建议优化县域教师职称机制",
+        "onboard_time": 1741413802,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 861833,
+        "num": 265303,
+        "word": "泰国最受欢迎的中国女明星",
+        "onboard_time": 1741409842,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263293,
+        "num": 263293,
+        "word": "王者荣耀",
+        "onboard_time": 1741409661,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 235376,
+        "num": 235376,
+        "word": "邓超录综艺被老人问明星什么时候来",
+        "onboard_time": 1741414942,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229981,
+        "num": 229981,
+        "word": "董力儿子7岁女儿2岁",
+        "onboard_time": 1741403605,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215759,
+        "num": 215759,
+        "word": "国乒WTT仁川冠军赛名单",
+        "onboard_time": 1741413561,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200992,
+        "num": 200992,
+        "word": "唐香玉当着向太说自己是脱口秀郭碧婷",
+        "onboard_time": 1741412303,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200548,
+        "num": 200548,
+        "word": "39岁女医生发工作日常被60万人点赞",
+        "onboard_time": 1741403901,
+        "rank": 16,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 196714,
+        "num": 196714,
+        "word": "严浩翔cos孙悟空路透",
+        "onboard_time": 1741414341,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24652,
+        "num": 188114,
+        "word": "职场到底拼经验还是拼年轻",
+        "onboard_time": 1741414461,
+        "rank": 18,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 20295,
+        "num": 186765,
+        "word": "布云朝克特0比2梅德韦杰夫",
+        "onboard_time": 1741414521,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185568,
+        "num": 185568,
+        "word": "马嘉祺cos黑熊精",
+        "onboard_time": 1741414881,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1370027,
+        "num": 181211,
+        "word": "房东收到一笔3782元陌生转账",
+        "onboard_time": 1741408161,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157979,
+        "num": 157979,
+        "word": "十个勤天去年半年开了20场演唱会",
+        "onboard_time": 1741405581,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 147203,
+        "num": 147203,
+        "word": "种地吧",
+        "onboard_time": 1741407803,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146245,
+        "num": 146245,
+        "word": "粉笔崩了",
+        "onboard_time": 1741410681,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 140227,
+        "num": 140227,
+        "word": "小侯七 张宇",
+        "onboard_time": 1741398142,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 124266,
+        "num": 137998,
+        "word": "哪吒2距全球票房第6差1.8亿",
+        "onboard_time": 1741412661,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137254,
+        "num": 137254,
+        "word": "三八妇女节的38条祝福",
+        "onboard_time": 1741392320,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110692,
+        "num": 136522,
+        "word": "黄霄雲不语只一味从地北唱回天南",
+        "onboard_time": 1741414281,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 44045,
+        "num": 136132,
+        "word": "当你被问你相信光吗",
+        "onboard_time": 1741414581,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 39190,
+        "num": 135907,
+        "word": "白敬亭 氛围感帅哥你不懂",
+        "onboard_time": 1741415000,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135841,
+        "num": 135841,
+        "word": "恋与深空",
+        "onboard_time": 1741410862,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129272,
+        "num": 129272,
+        "word": "尹锡悦即将获释",
+        "onboard_time": 1741413020,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122688,
+        "num": 122688,
+        "word": "教资",
+        "onboard_time": 1741403605,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 106320,
+        "num": 117917,
+        "word": "袁姗姗秀场东方美",
+        "onboard_time": 1741414702,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 117881,
+        "num": 117881,
+        "word": "妇女能顶半边天",
+        "onboard_time": 1741400901,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108694,
+        "num": 108694,
+        "word": "夸夸每一个她",
+        "onboard_time": 1741405942,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107835,
+        "num": 107835,
+        "word": "龚俊打网球好帅",
+        "onboard_time": 1741412842,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107381,
+        "num": 107381,
+        "word": "建议新人结婚前先上课",
+        "onboard_time": 1741410441,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 104446,
+        "num": 104446,
+        "word": "肖战包场天堂旅行团",
+        "onboard_time": 1741410321,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100589,
+        "num": 100589,
+        "word": "李昀锐白发老年妆",
+        "onboard_time": 1741406061,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100387,
+        "num": 100387,
+        "word": "宋雨琦老公是一种感觉",
+        "onboard_time": 1741406541,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 99697,
+        "num": 99697,
+        "word": "核准追诉低龄未成年人严重暴力犯罪34人",
+        "onboard_time": 1741402520,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 96187,
+        "num": 96187,
+        "word": "曾经很火但消失的女性手机",
+        "onboard_time": 1741397960,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 92750,
+        "num": 92750,
+        "word": "教资考2024巴黎奥运会混合游泳接力",
+        "onboard_time": 1741412303,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 89175,
+        "num": 89175,
+        "word": "缅北明家被写入最高检报告",
+        "onboard_time": 1741409062,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 87692,
+        "num": 87692,
+        "word": "HYBE在法庭上用了另一天的监控",
+        "onboard_time": 1741413922,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85508,
+        "num": 85508,
+        "word": "孙颖莎说坚定的力量",
+        "onboard_time": 1741410502,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48677,
+        "num": 81962,
+        "word": "南京为育儿妇女设妈妈岗",
+        "onboard_time": 1741412961,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81012,
+        "num": 81012,
+        "word": "知情人称鹿晗在为演唱会做准备",
+        "onboard_time": 1741400663,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全国各族各界妇女致以节日祝福#"
+    }
+  }
+}
