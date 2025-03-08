@@ -1,0 +1,410 @@
+{
+  "runTime": 1741450969959,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1535197,
+        "num": 1535197,
+        "word": "代表说996不理想应该888",
+        "onboard_time": 1741446624,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 494811,
+        "num": 494811,
+        "word": "石矶娘娘已经逃到洛阳了",
+        "onboard_time": 1741445182,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22663,
+        "num": 394147,
+        "word": "一组图梳理两高工作报告",
+        "onboard_time": 1741442664,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 371416,
+        "num": 371416,
+        "word": "超600吨黄金流入美国",
+        "onboard_time": 1741442422,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 354929,
+        "num": 354929,
+        "word": "哪吒2票房距全球第6仅差不到1亿",
+        "onboard_time": 1741434622,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 331630,
+        "num": 331630,
+        "word": "不要再叫女神节女王节了",
+        "onboard_time": 1741428922,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301224,
+        "num": 301224,
+        "word": "人大代表建议将农村医保改为储蓄型",
+        "onboard_time": 1741446863,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 294317,
+        "num": 294317,
+        "word": "你好星期六下期是凡人修仙传",
+        "onboard_time": 1741441582,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243767,
+        "num": 243767,
+        "word": "烟盒写建议被采纳82岁大爷回应走红",
+        "onboard_time": 1741440562,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102484,
+        "num": 243657,
+        "word": "麦家说DeepSeek的问题是没法写得差",
+        "onboard_time": 1741437320,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 716721,
+        "num": 243530,
+        "word": "薛凯琪发长文",
+        "onboard_time": 1741419981,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 709656,
+        "num": 243133,
+        "word": "蒋敦豪说请大家坚定的选择十个勤天",
+        "onboard_time": 1741444703,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 577806,
+        "num": 242958,
+        "word": "叙利亚",
+        "onboard_time": 1741447822,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 448524,
+        "num": 242799,
+        "word": "戚薇回应眼睛怎么了",
+        "onboard_time": 1741427722,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347398,
+        "num": 242526,
+        "word": "郑乃馨说和硬糖少女没联系",
+        "onboard_time": 1741430661,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334597,
+        "num": 242373,
+        "word": "伊能静都57了还在免检生图",
+        "onboard_time": 1741435522,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332150,
+        "num": 242098,
+        "word": "李雪琴拍的石凯",
+        "onboard_time": 1741446082,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242025,
+        "num": 242025,
+        "word": "Jennie伴舞失误",
+        "onboard_time": 1741430423,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 226148,
+        "num": 226148,
+        "word": "住酒店上厕所隐私视频被售卖",
+        "onboard_time": 1741441042,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 140619,
+        "num": 200460,
+        "word": "叙利亚西部冲突已致超400死",
+        "onboard_time": 1741449622,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 187635,
+        "num": 187635,
+        "word": "郭爽退团",
+        "onboard_time": 1741443023,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162750,
+        "num": 162750,
+        "word": "虞书欣林一错位吻",
+        "onboard_time": 1741439602,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150223,
+        "num": 150223,
+        "word": "林忆莲台下混进真女儿了",
+        "onboard_time": 1741446202,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134556,
+        "num": 134556,
+        "word": "负责人称小米卫生巾真的做不了",
+        "onboard_time": 1741425621,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 123634,
+        "num": 123634,
+        "word": "丁程鑫 姐夫这是工作",
+        "onboard_time": 1741443623,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118716,
+        "num": 118716,
+        "word": "将门毒后广播剧破亿",
+        "onboard_time": 1741438583,
+        "rank": 25,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 117324,
+        "num": 117324,
+        "word": "文淇好帅",
+        "onboard_time": 1741445303,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115677,
+        "num": 115677,
+        "word": "檀健次个人演唱会既视感",
+        "onboard_time": 1741447761,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115361,
+        "num": 115361,
+        "word": "哪吒2破148亿了",
+        "onboard_time": 1741438163,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113965,
+        "num": 113965,
+        "word": "汪苏泷巅峰最佳歌手",
+        "onboard_time": 1741448121,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 114248,
+        "num": 113405,
+        "word": "宋茜出发巴黎时装周",
+        "onboard_time": 1741446202,
+        "rank": 30,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 117071,
+        "num": 113042,
+        "word": "十个勤天",
+        "onboard_time": 1741444343,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115871,
+        "num": 112491,
+        "word": "婚礼最没有必要的步骤是什么",
+        "onboard_time": 1741437382,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110490,
+        "num": 110490,
+        "word": "张峻豪分享两个新伙伴",
+        "onboard_time": 1741450521,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100903,
+        "num": 100903,
+        "word": "你好星期六",
+        "onboard_time": 1741431322,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100645,
+        "num": 100645,
+        "word": "檀健次红毯压轴",
+        "onboard_time": 1741436662,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 99402,
+        "num": 99402,
+        "word": "凡人修仙传",
+        "onboard_time": 1741443442,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95709,
+        "num": 95709,
+        "word": "北诗司空震",
+        "onboard_time": 1741449322,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 90248,
+        "num": 90248,
+        "word": "女校实体书",
+        "onboard_time": 1741434262,
+        "rank": 38,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 89881,
+        "num": 89881,
+        "word": "妇女节",
+        "onboard_time": 1741364181,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87391,
+        "num": 87391,
+        "word": "沈梦瑶上海演唱会舞台",
+        "onboard_time": 1741447342,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 81576,
+        "num": 81576,
+        "word": "泥塑易烊千玺",
+        "onboard_time": 1741442783,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 81408,
+        "num": 81408,
+        "word": "刘亦菲 华为",
+        "onboard_time": 1741422921,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79422,
+        "num": 79422,
+        "word": "肖战我们获得巅峰年度专辑",
+        "onboard_time": 1741445842,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 78919,
+        "num": 78919,
+        "word": "爱你",
+        "onboard_time": 1741435103,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77795,
+        "num": 77795,
+        "word": "没见过林一这么硬的剧宣",
+        "onboard_time": 1741444043,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74653,
+        "num": 74653,
+        "word": "赵一博4部待播剧",
+        "onboard_time": 1741436360,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73770,
+        "num": 73770,
+        "word": "成毅杀青请全组吃烧烤",
+        "onboard_time": 1741441883,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56145,
+        "num": 71646,
+        "word": "周云杰回应海尔老总冷如冰箱",
+        "onboard_time": 1741447463,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 48171,
+        "num": 71426,
+        "word": "吴艳妮的后程没有对手",
+        "onboard_time": 1741450041,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对创新念兹在兹#"
+    }
+  }
+}
