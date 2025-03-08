@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741422226700,
+  "endTime": 1741422994235,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -2043,6 +2043,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 742020,
+      "num": 275201,
+      "word": "薛凯琪写给方大同的话",
+      "onboard_time": 1741420702,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 739197,
       "num": 739197,
       "word": "建议降低灵活就业人员社保参保门槛",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1741156998,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 667027,
-      "num": 275201,
-      "word": "薛凯琪写给方大同的话",
-      "onboard_time": 1741420702,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 664017,
@@ -3451,6 +3451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 521822,
+      "num": 521822,
+      "word": "人人人人花人人人人",
+      "onboard_time": 1741420282,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 519945,
       "num": 1123064,
       "word": "站雷军背后的海尔总裁周云杰走红",
@@ -3921,14 +3929,6 @@
       "onboard_time": 1741081823,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 460600,
-      "num": 460600,
-      "word": "人人人人花人人人人",
-      "onboard_time": 1741420282,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 460358,
@@ -8331,6 +8331,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 223520,
+      "num": 275569,
+      "word": "难哄这段看得我热热的",
+      "onboard_time": 1741421481,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223220,
       "num": 223220,
       "word": "Angelababy腰身比",
@@ -9073,6 +9081,14 @@
       "onboard_time": 1741340122,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206940,
+      "num": 206940,
+      "word": "Meow对战WBG",
+      "onboard_time": 1741422501,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 206815,
@@ -12187,14 +12203,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 161896,
-      "num": 275569,
-      "word": "难哄这段看得我热热的",
-      "onboard_time": 1741421481,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 161808,
       "num": 161808,
       "word": "用Deepseek做韩国色彩测试",
@@ -12385,6 +12393,14 @@
       "onboard_time": 1741360342,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 159161,
+      "num": 159161,
+      "word": "宋亚轩这是我的西游录制路透",
+      "onboard_time": 1741422921,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 158960,
@@ -13313,6 +13329,14 @@
       "onboard_time": 1741020015,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149974,
+      "num": 149974,
+      "word": "李现苏州",
+      "onboard_time": 1741422262,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 149839,
@@ -14747,6 +14771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133975,
+      "num": 274699,
+      "word": "刘亦菲点赞智界R7玫瑰车",
+      "onboard_time": 1741421121,
+      "rank": 24,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 133859,
       "num": 133859,
       "word": "重病卧床的男主还急着争宠",
@@ -14867,12 +14899,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132824,
+      "num": 132824,
+      "word": "七星连珠带回了22岁的刘昊然",
+      "onboard_time": 1741422681,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132754,
       "num": 132754,
       "word": "刘国梁说中国乒乓球高手在民间",
       "onboard_time": 1741085301,
       "rank": 46,
       "category": "体育,国内时政"
+    },
+    {
+      "raw_hot": 132638,
+      "num": 275529,
+      "word": "教资 简答题",
+      "onboard_time": 1741419142,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 132453,
@@ -14977,14 +15025,6 @@
       "onboard_time": 1741357643,
       "rank": 31,
       "category": "教育"
-    },
-    {
-      "raw_hot": 130809,
-      "num": 274699,
-      "word": "刘亦菲点赞智界R7玫瑰车",
-      "onboard_time": 1741421121,
-      "rank": 24,
-      "category": "艺人,汽车"
     },
     {
       "raw_hot": 130742,
@@ -16099,6 +16139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120581,
+      "num": 274190,
+      "word": "大家真的没什么好焦虑的",
+      "onboard_time": 1741421181,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 120376,
       "num": 245194,
       "word": "向阳花首支预告",
@@ -16145,14 +16193,6 @@
       "onboard_time": 1741332921,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 119844,
-      "num": 274190,
-      "word": "大家真的没什么好焦虑的",
-      "onboard_time": 1741421181,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 119693,
@@ -16217,6 +16257,14 @@
       "onboard_time": 1740790637,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118922,
+      "num": 118922,
+      "word": "刘亦菲 华为",
+      "onboard_time": 1741422921,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 118862,
@@ -16363,6 +16411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 117433,
+      "num": 273522,
+      "word": "陈赫在张极身上看到了邓超的影子",
+      "onboard_time": 1741422142,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117430,
       "num": 117430,
       "word": "张晚意说黄奕演似锦是增光添彩",
@@ -16441,14 +16497,6 @@
       "onboard_time": 1741256901,
       "rank": 18,
       "category": "国内时政,教育"
-    },
-    {
-      "raw_hot": 116635,
-      "num": 275529,
-      "word": "教资 简答题",
-      "onboard_time": 1741419142,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 116313,
@@ -16873,6 +16921,14 @@
       "onboard_time": 1740904158,
       "rank": 9,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 112188,
+      "num": 112188,
+      "word": "赵露思祝大家妇女节快乐",
+      "onboard_time": 1741422861,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 112043,
@@ -17987,6 +18043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100755,
+      "num": 100755,
+      "word": "第一次租房子下班就忘了房子在哪",
+      "onboard_time": 1741422501,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 100693,
       "num": 100693,
       "word": "财政部部长发布会上补充了一句话",
@@ -18040,6 +18104,14 @@
       "word": "虞书欣最适配卫枝的一集",
       "onboard_time": 1741090580,
       "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 99837,
+      "num": 99837,
+      "word": "温以凡也怕桑延变成陆之昂吧",
+      "onboard_time": 1741422681,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -18379,6 +18451,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 96012,
+      "num": 273862,
+      "word": "国际劳动妇女节的起源",
+      "onboard_time": 1741419320,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95992,
       "num": 95992,
       "word": "二月二你会和理发师过招吗",
@@ -18635,12 +18715,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 93025,
-      "num": 273862,
-      "word": "国际劳动妇女节的起源",
-      "onboard_time": 1741419320,
-      "rank": 40,
-      "category": "民生新闻"
+      "raw_hot": 93126,
+      "num": 275269,
+      "word": "蒋胜男说要促进8小时工作制执行",
+      "onboard_time": 1741421660,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 93000,
@@ -19297,14 +19377,6 @@
       "onboard_time": 1740750620,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 83485,
-      "num": 273522,
-      "word": "陈赫在张极身上看到了邓超的影子",
-      "onboard_time": 1741422142,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 83427,
@@ -21203,14 +21275,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 50163,
-      "num": 275269,
-      "word": "蒋胜男说要促进8小时工作制执行",
-      "onboard_time": 1741421660,
-      "rank": 14,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 50112,
       "num": 50112,
       "word": "你认为哪吒2票房能超150亿吗",
@@ -21497,6 +21561,14 @@
       "onboard_time": 1741237639,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 45898,
+      "num": 153025,
+      "word": "她力量从古延续至今",
+      "onboard_time": 1741422681,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 45819,
@@ -21939,6 +22011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 38494,
+      "num": 275046,
+      "word": "被AI短片中的女性力量燃哭了",
+      "onboard_time": 1741421303,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38480,
       "num": 215104,
       "word": "为何今年开局就逢极端气候",
@@ -22323,14 +22403,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 33362,
-      "num": 275046,
-      "word": "被AI短片中的女性力量燃哭了",
-      "onboard_time": 1741421303,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 33335,
       "num": 151090,
       "word": "两个字回顾2024成绩单",
@@ -22635,6 +22707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 28761,
+      "num": 368204,
+      "word": "人大工作报告精华版",
+      "onboard_time": 1741421660,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 28708,
       "num": 128169,
       "word": "广东惠州10盅炖汤的夜茶店",
@@ -22681,6 +22761,14 @@
       "onboard_time": 1740785296,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27911,
+      "num": 274446,
+      "word": "先做自己的女王再被世界加冕",
+      "onboard_time": 1741421002,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27815,
@@ -22907,14 +22995,6 @@
       "category": "国内时政,教育"
     },
     {
-      "raw_hot": 25775,
-      "num": 274446,
-      "word": "先做自己的女王再被世界加冕",
-      "onboard_time": 1741421002,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 25697,
       "num": 176174,
       "word": "当地称将尽全力帮助李坤朋家人",
@@ -23008,14 +23088,6 @@
       "word": "冈比亚农民把他种的大米送到湖南",
       "onboard_time": 1741373416,
       "rank": 47,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 24514,
-      "num": 368204,
-      "word": "人大工作报告精华版",
-      "onboard_time": 1741421660,
-      "rank": 2,
       "category": "国内时政"
     },
     {
@@ -23121,6 +23193,14 @@
       "onboard_time": 1740820523,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 23512,
+      "num": 274799,
+      "word": "两会上的她们闪闪发光",
+      "onboard_time": 1741421901,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 23449,
@@ -23497,14 +23577,6 @@
       "onboard_time": 1740866891,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 17619,
-      "num": 274799,
-      "word": "两会上的她们闪闪发光",
-      "onboard_time": 1741421901,
-      "rank": 23,
-      "category": "国内时政"
     },
     {
       "raw_hot": 17593,
@@ -24099,6 +24171,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 10452,
+      "num": 270822,
+      "word": "最高法工作报告极简版来了",
+      "onboard_time": 1741422803,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 10451,
       "num": 209032,
       "word": "陈瑜巴黎看秀vlog暗藏彩蛋",
@@ -24323,6 +24403,9 @@
     },
     {
       "word": "#总书记温暖寄语半边天#"
+    },
+    {
+      "word": "#总书记对创新念兹在兹#"
     }
   ]
 }
