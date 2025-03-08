@@ -1,0 +1,410 @@
+{
+  "runTime": 1741425561000,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1842227,
+        "num": 1842227,
+        "word": "台湾艺人带中国台湾省话题发博",
+        "onboard_time": 1741419501,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 494041,
+        "num": 494041,
+        "word": "人人人人花人人人人",
+        "onboard_time": 1741420282,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40190,
+        "num": 304406,
+        "word": "最高法工作报告极简版来了",
+        "onboard_time": 1741422803,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 255024,
+        "num": 255024,
+        "word": "难哄这段看得我热热的",
+        "onboard_time": 1741421481,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245013,
+        "num": 245013,
+        "word": "妇女节",
+        "onboard_time": 1741364181,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197511,
+        "num": 197511,
+        "word": "尹锡悦被捕52天后获释",
+        "onboard_time": 1741424300,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 180965,
+        "num": 180965,
+        "word": "95后北大元培女生从金融转行做演员",
+        "onboard_time": 1741418181,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167526,
+        "num": 167526,
+        "word": "哪吒票房",
+        "onboard_time": 1741407502,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156523,
+        "num": 156523,
+        "word": "温以凡也怕桑延变成陆之昂吧",
+        "onboard_time": 1741422681,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137813,
+        "num": 137813,
+        "word": "嘘国王在冬眠在这个视频加什么了",
+        "onboard_time": 1741424422,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 3811869,
+        "num": 137711,
+        "word": "薛凯琪发长文",
+        "onboard_time": 1741419981,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 645482,
+        "num": 137294,
+        "word": "刘亦菲 华为",
+        "onboard_time": 1741422921,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352187,
+        "num": 137103,
+        "word": "泰国最受欢迎的中国女明星",
+        "onboard_time": 1741409842,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278480,
+        "num": 136681,
+        "word": "我说我怎么老是存不下来钱",
+        "onboard_time": 1741423762,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170765,
+        "num": 136485,
+        "word": "装修快收尾时才发现装错了房子",
+        "onboard_time": 1741407621,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128108,
+        "num": 136045,
+        "word": "KPL",
+        "onboard_time": 1741425261,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 569551,
+        "num": 135882,
+        "word": "薛凯琪写给方大同的话",
+        "onboard_time": 1741420702,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 346588,
+        "num": 135387,
+        "word": "刘亦菲余承东互关",
+        "onboard_time": 1741423222,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174608,
+        "num": 135060,
+        "word": "迪丽热巴新代预热",
+        "onboard_time": 1741424300,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130427,
+        "num": 134983,
+        "word": "教资科二",
+        "onboard_time": 1741417041,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 439426,
+        "num": 134527,
+        "word": "邓超录综艺被老人问明星什么时候来",
+        "onboard_time": 1741414942,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 425459,
+        "num": 134358,
+        "word": "房东收到一笔3782元陌生转账",
+        "onboard_time": 1741408161,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170234,
+        "num": 134115,
+        "word": "今年妇女节不避讳谈这些话题了",
+        "onboard_time": 1741420581,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83531,
+        "num": 133608,
+        "word": "刘亦菲点赞智界R7玫瑰车",
+        "onboard_time": 1741421121,
+        "rank": 23,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 156595,
+        "num": 133248,
+        "word": "气血不足的人更容易焦虑抑郁",
+        "onboard_time": 1741423762,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133221,
+        "num": 133221,
+        "word": "李现苏州",
+        "onboard_time": 1741422262,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132006,
+        "num": 132006,
+        "word": "WBG",
+        "onboard_time": 1741421362,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130168,
+        "num": 130168,
+        "word": "杨幂把春天调色盘穿在身上",
+        "onboard_time": 1741424300,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129151,
+        "num": 129151,
+        "word": "大家真的没什么好焦虑的",
+        "onboard_time": 1741421181,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89413,
+        "num": 118458,
+        "word": "夸夸每一个她",
+        "onboard_time": 1741405942,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118400,
+        "num": 118400,
+        "word": "赵露思祝大家妇女节快乐",
+        "onboard_time": 1741422861,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117851,
+        "num": 117851,
+        "word": "上海的馒头已经遥遥领先了",
+        "onboard_time": 1741399761,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 115517,
+        "num": 115517,
+        "word": "50岁的苏醒40岁的王铮亮",
+        "onboard_time": 1741423700,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114564,
+        "num": 114564,
+        "word": "尹锡悦将返回总统官邸",
+        "onboard_time": 1741424720,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108844,
+        "num": 108844,
+        "word": "唐奇这下真吓成孙子了",
+        "onboard_time": 1741425021,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113818,
+        "num": 108755,
+        "word": "郭德纲于谦五旬老人驯服瑜伽球",
+        "onboard_time": 1741424662,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108636,
+        "num": 108636,
+        "word": "伯远衣服灵感来源于九重紫",
+        "onboard_time": 1741424122,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 36230,
+        "num": 103624,
+        "word": "花海发文鼓励女性自强",
+        "onboard_time": 1741425501,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99442,
+        "num": 99442,
+        "word": "滤镜cp 偷偷藏不住",
+        "onboard_time": 1741423942,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87203,
+        "num": 98442,
+        "word": "代表建议春节假再增加3至5天",
+        "onboard_time": 1741416981,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 97694,
+        "num": 97694,
+        "word": "比何以琛还好哄的人出现了",
+        "onboard_time": 1741409242,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93321,
+        "num": 93321,
+        "word": "哪吒2距全球票房第6差1.8亿",
+        "onboard_time": 1741412661,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 92937,
+        "num": 92937,
+        "word": "张真源cos申公豹路透",
+        "onboard_time": 1741416321,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76312,
+        "num": 90332,
+        "word": "谁懂赵丽颖这段战损奔跑的含金量",
+        "onboard_time": 1741416741,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 89238,
+        "num": 89238,
+        "word": "黎深春雪映山",
+        "onboard_time": 1741425141,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 86973,
+        "num": 86973,
+        "word": "国际劳动妇女节的起源",
+        "onboard_time": 1741419320,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84469,
+        "num": 84469,
+        "word": "蒋胜男说要促进8小时工作制执行",
+        "onboard_time": 1741421660,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 82352,
+        "num": 82352,
+        "word": "教资 简答题",
+        "onboard_time": 1741419142,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 80618,
+        "num": 80618,
+        "word": "妇女能顶半边天",
+        "onboard_time": 1741400901,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75550,
+        "num": 79869,
+        "word": "郑钦文下轮对阵孙璐璐",
+        "onboard_time": 1741419501,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记温暖寄语半边天#"
+    }
+  }
+}
