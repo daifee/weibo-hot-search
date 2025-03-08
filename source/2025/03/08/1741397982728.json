@@ -1,0 +1,410 @@
+{
+  "runTime": 1741397982728,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1021408,
+        "num": 1163425,
+        "word": "妇女节",
+        "onboard_time": 1741364181,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255992,
+        "num": 1123064,
+        "word": "站雷军背后的海尔总裁周云杰走红",
+        "onboard_time": 1741345101,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 28852,
+        "num": 1096735,
+        "word": "政府工作报告里的身边事",
+        "onboard_time": 1741354403,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2805866,
+        "num": 1016965,
+        "word": "何凯文实际成绩71分",
+        "onboard_time": 1741394541,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 174978,
+        "num": 951963,
+        "word": "三八妇女节的38条祝福",
+        "onboard_time": 1741392320,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171167,
+        "num": 900971,
+        "word": "海南免税新增了即购即提",
+        "onboard_time": 1741394480,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168140,
+        "num": 845117,
+        "word": "最高法最高检工作报告",
+        "onboard_time": 1741396881,
+        "rank": 6,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 167823,
+        "num": 814919,
+        "word": "电影女足改名为e计划",
+        "onboard_time": 1741393940,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105392,
+        "num": 735933,
+        "word": "北上编剧否认为白鹿原创女主",
+        "onboard_time": 1741397121,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152463,
+        "num": 708091,
+        "word": "张凯丽说35岁明明很年轻",
+        "onboard_time": 1741367119,
+        "rank": 9,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 4523747,
+        "num": 655127,
+        "word": "何凯文承认成绩造假",
+        "onboard_time": 1741393580,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 619027,
+        "num": 619027,
+        "word": "你一票我一票我们周总也出道",
+        "onboard_time": 1741360942,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 592745,
+        "num": 592745,
+        "word": "何凯文即日起退出考研培训",
+        "onboard_time": 1741394661,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 301938,
+        "num": 301938,
+        "word": "周思成 何凯文",
+        "onboard_time": 1741397902,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 280223,
+        "num": 280223,
+        "word": "特朗普称俄罗斯正殴打乌克兰",
+        "onboard_time": 1741359741,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 278822,
+        "num": 278822,
+        "word": "文都教育曾索赔何凯文2273万",
+        "onboard_time": 1741362741,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 264342,
+        "num": 264342,
+        "word": "蒋敦豪说参加恋综已做了充足准备",
+        "onboard_time": 1741363940,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129459,
+        "num": 234105,
+        "word": "十四届全国人大三次会议第二次全体会议",
+        "onboard_time": 1741396041,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 220950,
+        "num": 220950,
+        "word": "戚薇李承铉每天在厕所聊好几个小时",
+        "onboard_time": 1741358902,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48617,
+        "num": 179930,
+        "word": "建议向家暴加害人单位通报",
+        "onboard_time": 1741397000,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 383591,
+        "num": 179856,
+        "word": "白敬亭下播之后一笔巨大的版权费用",
+        "onboard_time": 1741365739,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226326,
+        "num": 178718,
+        "word": "男子拆快递眼球扎进几十根玻璃细刺",
+        "onboard_time": 1741389737,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165202,
+        "num": 165202,
+        "word": "曾经很火但消失的女性手机",
+        "onboard_time": 1741397960,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 163767,
+        "num": 163767,
+        "word": "当独生子女开始遭遇父母重病",
+        "onboard_time": 1741337782,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158960,
+        "num": 158960,
+        "word": "Doinb拿到五星卡",
+        "onboard_time": 1741397960,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136594,
+        "num": 136594,
+        "word": "她们尽情闪耀",
+        "onboard_time": 1741392320,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132477,
+        "num": 132477,
+        "word": "汽车产业正在和机器人融合",
+        "onboard_time": 1741394300,
+        "rank": 26,
+        "category": "国内时政,汽车"
+      },
+      {
+        "raw_hot": 129207,
+        "num": 129207,
+        "word": "今年将发育儿补贴",
+        "onboard_time": 1741346061,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 126591,
+        "num": 126591,
+        "word": "黄圣依参加最强大脑受伤的是儿子",
+        "onboard_time": 1741356682,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115085,
+        "num": 115085,
+        "word": "祝福每一个闪闪发光的她",
+        "onboard_time": 1741392800,
+        "rank": 29,
+        "category": "情感,民生新闻"
+      },
+      {
+        "raw_hot": 249034,
+        "num": 115063,
+        "word": "周思成说英语一没有概念的宝",
+        "onboard_time": 1741397960,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 113336,
+        "num": 113336,
+        "word": "中国激光产业已迈入全球第一方阵",
+        "onboard_time": 1741394720,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 104937,
+        "num": 104937,
+        "word": "章若楠外网生图",
+        "onboard_time": 1741350681,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 100250,
+        "num": 100250,
+        "word": "赵一博 我和雪梨在一起是事实",
+        "onboard_time": 1741325063,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99977,
+        "num": 99977,
+        "word": "韩国某乒乓球教练疑涉嫌性侵",
+        "onboard_time": 1741355962,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99151,
+        "num": 99151,
+        "word": "向女同胞致以节日问候",
+        "onboard_time": 1741389198,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98310,
+        "num": 98310,
+        "word": "Jennie演唱会造型",
+        "onboard_time": 1741391359,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 93536,
+        "num": 93536,
+        "word": "张彬彬 我同意你上班我不能上班",
+        "onboard_time": 1741372155,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68926,
+        "num": 91846,
+        "word": "白敬亭章若楠同时直播",
+        "onboard_time": 1741357343,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 90807,
+        "num": 90807,
+        "word": "一人写一个最崇拜的女性",
+        "onboard_time": 1741392680,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77950,
+        "num": 77950,
+        "word": "赵又廷从过期到翻红只差个反转",
+        "onboard_time": 1741381274,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75839,
+        "num": 75839,
+        "word": "周云杰回应和雷军同框后走红",
+        "onboard_time": 1741353742,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 74020,
+        "num": 74020,
+        "word": "苹果电脑静音键变了",
+        "onboard_time": 1741391899,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 73131,
+        "num": 73131,
+        "word": "何凯文道歉",
+        "onboard_time": 1741394300,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 70353,
+        "num": 70353,
+        "word": "于适李昀锐范丞丞G社生图",
+        "onboard_time": 1741351403,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 68033,
+        "num": 68033,
+        "word": "要坚持勤俭建军",
+        "onboard_time": 1741366160,
+        "rank": 45,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 66509,
+        "num": 66509,
+        "word": "台军一护卫舰爆炸",
+        "onboard_time": 1741362560,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 57823,
+        "num": 66271,
+        "word": "IU朴宝剑新剧初吻",
+        "onboard_time": 1741356022,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51827,
+        "num": 66173,
+        "word": "华为正式组建医疗卫生军团",
+        "onboard_time": 1741396820,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 45567,
+        "num": 66163,
+        "word": "北上女二",
+        "onboard_time": 1741354042,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#实现我军建设十四五规划圆满收官#"
+    }
+  }
+}

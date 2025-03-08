@@ -1,18 +1,18 @@
 {
   "startTime": 1741364948328,
-  "endTime": 1741396815030,
+  "endTime": 1741397982728,
   "band_list": [
     {
-      "raw_hot": 4456148,
-      "num": 187639,
+      "raw_hot": 4523747,
+      "num": 655127,
       "word": "何凯文承认成绩造假",
       "onboard_time": 1741393580,
       "rank": 7,
       "category": "教育"
     },
     {
-      "raw_hot": 2203831,
-      "num": 195339,
+      "raw_hot": 2805866,
+      "num": 1016965,
       "word": "何凯文实际成绩71分",
       "onboard_time": 1741394541,
       "rank": 3,
@@ -25,6 +25,14 @@
       "onboard_time": 1741325063,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1021408,
+      "num": 1163425,
+      "word": "妇女节",
+      "onboard_time": 1741364181,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 777519,
@@ -43,16 +51,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 769980,
-      "num": 1123196,
-      "word": "妇女节",
-      "onboard_time": 1741364181,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 597490,
-      "num": 183348,
+      "num": 592745,
       "word": "何凯文即日起退出考研培训",
       "onboard_time": 1741394661,
       "rank": 11,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 338221,
-      "num": 158210,
+      "num": 178718,
       "word": "男子拆快递眼球扎进几十根玻璃细刺",
       "onboard_time": 1741389737,
       "rank": 21,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 334702,
-      "num": 220555,
+      "num": 264342,
       "word": "蒋敦豪说参加恋综已做了充足准备",
       "onboard_time": 1741363940,
       "rank": 18,
@@ -131,20 +131,52 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 301938,
+      "num": 301938,
+      "word": "周思成 何凯文",
+      "onboard_time": 1741397902,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 301006,
-      "num": 182317,
+      "num": 280223,
       "word": "特朗普称俄罗斯正殴打乌克兰",
       "onboard_time": 1741359741,
       "rank": 14,
       "category": "国际时政"
     },
     {
+      "raw_hot": 278822,
+      "num": 278822,
+      "word": "文都教育曾索赔何凯文2273万",
+      "onboard_time": 1741362741,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 273321,
-      "num": 181540,
+      "num": 220950,
       "word": "戚薇李承铉每天在厕所聊好几个小时",
       "onboard_time": 1741358902,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 255992,
+      "num": 1123064,
+      "word": "站雷军背后的海尔总裁周云杰走红",
+      "onboard_time": 1741345101,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 249034,
+      "num": 115063,
+      "word": "周思成说英语一没有概念的宝",
+      "onboard_time": 1741397960,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 217659,
@@ -152,14 +184,6 @@
       "word": "周云杰回应和雷军同框后走红",
       "onboard_time": 1741353742,
       "rank": 4,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 210545,
-      "num": 210545,
-      "word": "站雷军背后的海尔总裁周云杰走红",
-      "onboard_time": 1741345101,
-      "rank": 7,
       "category": "国内时政"
     },
     {
@@ -172,7 +196,7 @@
     },
     {
       "raw_hot": 190340,
-      "num": 190340,
+      "num": 951963,
       "word": "三八妇女节的38条祝福",
       "onboard_time": 1741392320,
       "rank": 4,
@@ -203,14 +227,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 179147,
-      "num": 179147,
-      "word": "文都教育曾索赔何凯文2273万",
-      "onboard_time": 1741362741,
-      "rank": 32,
-      "category": "教育"
-    },
-    {
       "raw_hot": 175488,
       "num": 175488,
       "word": "当独生子女开始遭遇父母重病",
@@ -219,20 +235,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171167,
+      "num": 900971,
+      "word": "海南免税新增了即购即提",
+      "onboard_time": 1741394480,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168140,
+      "num": 845117,
+      "word": "最高法最高检工作报告",
+      "onboard_time": 1741396881,
+      "rank": 6,
+      "category": "国内时政,民生新闻"
+    },
+    {
       "raw_hot": 167877,
-      "num": 188368,
+      "num": 708091,
       "word": "张凯丽说35岁明明很年轻",
       "onboard_time": 1741367119,
       "rank": 9,
       "category": "国内时政,艺人"
     },
     {
-      "raw_hot": 166154,
-      "num": 166154,
-      "word": "海南免税新增了即购即提",
-      "onboard_time": 1741394480,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 167823,
+      "num": 814919,
+      "word": "电影女足改名为e计划",
+      "onboard_time": 1741393940,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 166023,
@@ -243,12 +275,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 159583,
-      "num": 186774,
-      "word": "电影女足改名为e计划",
-      "onboard_time": 1741393940,
-      "rank": 8,
-      "category": "电影"
+      "raw_hot": 165202,
+      "num": 165202,
+      "word": "曾经很火但消失的女性手机",
+      "onboard_time": 1741397960,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 158960,
+      "num": 158960,
+      "word": "Doinb拿到五星卡",
+      "onboard_time": 1741397960,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 158131,
@@ -323,6 +363,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129459,
+      "num": 234105,
+      "word": "十四届全国人大三次会议第二次全体会议",
+      "onboard_time": 1741396041,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 126591,
+      "num": 126591,
+      "word": "黄圣依参加最强大脑受伤的是儿子",
+      "onboard_time": 1741356682,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121219,
       "num": 121219,
       "word": "何凯文道歉",
@@ -336,14 +392,6 @@
       "word": "赵小童在电光火石中收工",
       "onboard_time": 1741366100,
       "rank": 14,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 119625,
-      "num": 119625,
-      "word": "黄圣依参加最强大脑受伤的是儿子",
-      "onboard_time": 1741356682,
-      "rank": 28,
       "category": "综艺"
     },
     {
@@ -361,6 +409,14 @@
       "onboard_time": 1741362803,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115085,
+      "num": 115085,
+      "word": "祝福每一个闪闪发光的她",
+      "onboard_time": 1741392800,
+      "rank": 30,
+      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 113974,
@@ -385,14 +441,6 @@
       "onboard_time": 1741372155,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 110901,
-      "num": 110901,
-      "word": "祝福每一个闪闪发光的她",
-      "onboard_time": 1741392800,
-      "rank": 30,
-      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 109699,
@@ -427,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105392,
+      "num": 735933,
+      "word": "北上编剧否认为白鹿原创女主",
+      "onboard_time": 1741397121,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104110,
       "num": 104110,
       "word": "于适李昀锐范丞丞G社生图",
@@ -435,20 +491,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 102474,
-      "num": 185771,
-      "word": "十四届全国人大三次会议第二次全体会议",
-      "onboard_time": 1741396041,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 101566,
       "num": 101949,
       "word": "2025全国两会",
       "onboard_time": 1741342580,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 99151,
+      "num": 110609,
+      "word": "向女同胞致以节日问候",
+      "onboard_time": 1741389198,
+      "rank": 9,
+      "category": "民生新闻,国内时政"
     },
     {
       "raw_hot": 97234,
@@ -481,14 +537,6 @@
       "onboard_time": 1741351283,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 89999,
-      "num": 110609,
-      "word": "向女同胞致以节日问候",
-      "onboard_time": 1741389198,
-      "rank": 9,
-      "category": "民生新闻,国内时政"
     },
     {
       "raw_hot": 89350,
@@ -643,6 +691,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 51827,
+      "num": 66173,
+      "word": "华为正式组建医疗卫生军团",
+      "onboard_time": 1741396820,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 48617,
+      "num": 179930,
+      "word": "建议向家暴加害人单位通报",
+      "onboard_time": 1741397000,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 47762,
       "num": 98125,
       "word": "曝iPhone17ProMax变厚了",
@@ -724,7 +788,7 @@
     },
     {
       "raw_hot": 29756,
-      "num": 270960,
+      "num": 1096735,
       "word": "政府工作报告里的身边事",
       "onboard_time": 1741354403,
       "rank": 2,
