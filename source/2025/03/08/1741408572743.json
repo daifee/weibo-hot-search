@@ -1,0 +1,410 @@
+{
+  "runTime": 1741408572743,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2315391,
+        "num": 2315391,
+        "word": "警方通报有人往海底捞火锅内小便",
+        "onboard_time": 1741405822,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 887483,
+        "num": 887483,
+        "word": "上海的馒头已经遥遥领先了",
+        "onboard_time": 1741399761,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 26777,
+        "num": 822266,
+        "word": "我们的盛会花开中国",
+        "onboard_time": 1741407981,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 800783,
+        "num": 800783,
+        "word": "十个勤天去年半年开了20场演唱会",
+        "onboard_time": 1741405581,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 675508,
+        "num": 675508,
+        "word": "教资",
+        "onboard_time": 1741403605,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 650566,
+        "num": 650566,
+        "word": "妇女节",
+        "onboard_time": 1741364181,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 587243,
+        "num": 587243,
+        "word": "哪吒",
+        "onboard_time": 1741402101,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 530192,
+        "num": 530192,
+        "word": "对强奸未成年人的郭某某判处死刑",
+        "onboard_time": 1741399761,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102821,
+        "num": 514764,
+        "word": "全国两会现场的妇女节祝福",
+        "onboard_time": 1741407082,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 150386,
+        "num": 498622,
+        "word": "中方重拳警示关税跟风国家",
+        "onboard_time": 1741406421,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1490867,
+        "num": 469727,
+        "word": "何凯文实际成绩71分",
+        "onboard_time": 1741394541,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1058940,
+        "num": 423623,
+        "word": "小英化妆了",
+        "onboard_time": 1741406841,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 720639,
+        "num": 408059,
+        "word": "董力儿子7岁女儿2岁",
+        "onboard_time": 1741403605,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 565651,
+        "num": 390631,
+        "word": "周思成回应何凯文",
+        "onboard_time": 1741398980,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 367620,
+        "num": 367620,
+        "word": "哪吒票房",
+        "onboard_time": 1741407502,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 261780,
+        "num": 261780,
+        "word": "陈丽君鼓励女性做不被定义的自己",
+        "onboard_time": 1741398021,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258174,
+        "num": 258174,
+        "word": "教资科一",
+        "onboard_time": 1741403961,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 104842,
+        "num": 244972,
+        "word": "全智贤机场出发巴黎",
+        "onboard_time": 1741408100,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36964,
+        "num": 243929,
+        "word": "宣称有机樱桃却被消费者测出多效唑",
+        "onboard_time": 1741407141,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33028,
+        "num": 243328,
+        "word": "王石晒单S7",
+        "onboard_time": 1741406841,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 243325,
+        "num": 243325,
+        "word": "对加拿大水产品猪肉加征25%关税",
+        "onboard_time": 1741402341,
+        "rank": 20,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 217107,
+        "num": 217107,
+        "word": "房东收到3千陌生转账租客要求转回",
+        "onboard_time": 1741405882,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210479,
+        "num": 210479,
+        "word": "种地吧",
+        "onboard_time": 1741407803,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203422,
+        "num": 203422,
+        "word": "教资答案",
+        "onboard_time": 1741404560,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 201873,
+        "num": 201873,
+        "word": "李昀锐白发老年妆",
+        "onboard_time": 1741406061,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139862,
+        "num": 200701,
+        "word": "难哄",
+        "onboard_time": 1741407862,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82855,
+        "num": 199598,
+        "word": "陈震直呼广汽昊铂智驾受不了",
+        "onboard_time": 1741406841,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 133558,
+        "num": 198076,
+        "word": "你好星期六三八节全员送花花",
+        "onboard_time": 1741401081,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171026,
+        "num": 197076,
+        "word": "杨紫送妇女节祝福",
+        "onboard_time": 1741403421,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129568,
+        "num": 195908,
+        "word": "装修快收尾时才发现装错了房子",
+        "onboard_time": 1741407621,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194835,
+        "num": 194835,
+        "word": "39岁女医生发工作日常被60万人点赞",
+        "onboard_time": 1741403901,
+        "rank": 30,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 193491,
+        "num": 193491,
+        "word": "核准追诉低龄未成年人严重暴力犯罪34人",
+        "onboard_time": 1741402520,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 186113,
+        "num": 186113,
+        "word": "三八妇女节的38条祝福",
+        "onboard_time": 1741392320,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172443,
+        "num": 172443,
+        "word": "宋雨琦老公是一种感觉",
+        "onboard_time": 1741406541,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170929,
+        "num": 170929,
+        "word": "妇女能顶半边天",
+        "onboard_time": 1741400901,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170116,
+        "num": 170116,
+        "word": "知情人称鹿晗在为演唱会做准备",
+        "onboard_time": 1741400663,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 161084,
+        "num": 161084,
+        "word": "教资作文",
+        "onboard_time": 1741403961,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 151963,
+        "num": 151963,
+        "word": "曾经很火但消失的女性手机",
+        "onboard_time": 1741397960,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 148785,
+        "num": 148785,
+        "word": "房东收到一笔3782元陌生转账",
+        "onboard_time": 1741408161,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138810,
+        "num": 138810,
+        "word": "夸夸每一个她",
+        "onboard_time": 1741405942,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131248,
+        "num": 131248,
+        "word": "男子拆快递眼球扎进几十根玻璃细刺",
+        "onboard_time": 1741389737,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126428,
+        "num": 126428,
+        "word": "女子科学减重2年瘦45斤未反弹",
+        "onboard_time": 1741399880,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124025,
+        "num": 124025,
+        "word": "白敬亭下播之后一笔巨大的版权费用",
+        "onboard_time": 1741365739,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118782,
+        "num": 118782,
+        "word": "看上去正常实则是焦虑症的行为",
+        "onboard_time": 1741399640,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113954,
+        "num": 113954,
+        "word": "教资选择题 难",
+        "onboard_time": 1741406121,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 112746,
+        "num": 112746,
+        "word": "苏醒说再不回去就没什么工作了",
+        "onboard_time": 1741406782,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105500,
+        "num": 105500,
+        "word": "90后女孩给超4000名老人当电子闺女",
+        "onboard_time": 1741405222,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95128,
+        "num": 95128,
+        "word": "最高法谈未满14岁学生杀害同学案",
+        "onboard_time": 1741405702,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 93239,
+        "num": 93239,
+        "word": "秦彻造物宣示",
+        "onboard_time": 1741405161,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 93025,
+        "num": 93025,
+        "word": "小侯七 张宇",
+        "onboard_time": 1741398142,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全国各族各界妇女致以节日祝福#"
+    }
+  }
+}
