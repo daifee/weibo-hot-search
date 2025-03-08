@@ -1,6 +1,6 @@
 {
   "startTime": 1741364948328,
-  "endTime": 1741438099635,
+  "endTime": 1741440051059,
   "band_list": [
     {
       "raw_hot": 4523747,
@@ -57,6 +57,14 @@
       "onboard_time": 1741403605,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1748307,
+      "num": 1748307,
+      "word": "你好星期六",
+      "onboard_time": 1741431322,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 1728292,
@@ -235,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 675059,
+      "num": 545967,
+      "word": "赵一博4部待播剧",
+      "onboard_time": 1741436360,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 666347,
       "num": 242328,
       "word": "刘亦菲 华为",
@@ -275,12 +291,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 545967,
-      "num": 545967,
-      "word": "赵一博4部待播剧",
-      "onboard_time": 1741436360,
-      "rank": 5,
-      "category": "剧集"
+      "raw_hot": 541702,
+      "num": 214433,
+      "word": "婚礼最没有必要的步骤是什么",
+      "onboard_time": 1741437382,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 533751,
@@ -395,6 +411,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 403570,
+      "num": 243825,
+      "word": "哪吒2破148亿了",
+      "onboard_time": 1741438163,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 402489,
       "num": 402489,
       "word": "种地吧沙棘农迟疑的一秒钟",
@@ -499,20 +523,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 336934,
+      "num": 213944,
+      "word": "将门毒后广播剧破亿",
+      "onboard_time": 1741438583,
+      "rank": 19,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 334702,
       "num": 264342,
       "word": "蒋敦豪说参加恋综已做了充足准备",
       "onboard_time": 1741363940,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 324162,
-      "num": 324162,
-      "word": "你好星期六",
-      "onboard_time": 1741431322,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 321701,
@@ -787,6 +811,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 213548,
+      "num": 213548,
+      "word": "虞书欣林一错位吻",
+      "onboard_time": 1741439602,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209352,
       "num": 209352,
       "word": "温以凡也怕桑延变成陆之昂吧",
@@ -841,6 +873,14 @@
       "onboard_time": 1741426161,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 204459,
+      "num": 204459,
+      "word": "一诺登顶KPL总击杀榜",
+      "onboard_time": 1741438823,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 203662,
@@ -961,6 +1001,14 @@
       "onboard_time": 1741436122,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189245,
+      "num": 189245,
+      "word": "华晨宇启用全钻升降台",
+      "onboard_time": 1741439123,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 188770,
@@ -1299,6 +1347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155081,
+      "num": 155081,
+      "word": "麦家说DeepSeek的问题是没法写得差",
+      "onboard_time": 1741437320,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 154444,
       "num": 154444,
       "word": "李现苏州",
@@ -1331,6 +1387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 152012,
+      "num": 152012,
+      "word": "女校实体书",
+      "onboard_time": 1741434262,
+      "rank": 40,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 151601,
       "num": 151601,
       "word": "粉笔崩了",
@@ -1345,14 +1409,6 @@
       "onboard_time": 1741346902,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 148978,
-      "num": 148978,
-      "word": "女校实体书",
-      "onboard_time": 1741434262,
-      "rank": 40,
-      "category": "读书作家"
     },
     {
       "raw_hot": 148333,
@@ -1393,6 +1449,14 @@
       "onboard_time": 1741398261,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 146674,
+      "num": 146674,
+      "word": "AG超玩会BP",
+      "onboard_time": 1741439662,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 145692,
@@ -1579,6 +1643,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 132191,
+      "num": 132191,
+      "word": "鞠婧祎强烈对比",
+      "onboard_time": 1741438163,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131418,
       "num": 131418,
       "word": "孙颖莎说坚定的力量",
@@ -1659,12 +1731,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 123938,
-      "num": 123938,
-      "word": "婚礼最没有必要的步骤是什么",
-      "onboard_time": 1741437382,
-      "rank": 36,
-      "category": "情感"
+      "raw_hot": 123646,
+      "num": 242380,
+      "word": "找工作必须首选大城市吗",
+      "onboard_time": 1741437623,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 123581,
@@ -1699,6 +1771,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 121474,
+      "num": 323375,
+      "word": "冯远征最着急演员的台词功底",
+      "onboard_time": 1741425141,
+      "rank": 26,
+      "category": "国内时政,艺人"
+    },
+    {
+      "raw_hot": 121404,
+      "num": 121404,
+      "word": "刘诗诗沈乐水杀青",
+      "onboard_time": 1741438463,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121360,
       "num": 121360,
       "word": "苏醒说再不回去就没什么工作了",
@@ -1729,6 +1817,14 @@
       "onboard_time": 1741366100,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120139,
+      "num": 120139,
+      "word": "李兰迪老年妆",
+      "onboard_time": 1741439662,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 119941,
@@ -1793,6 +1889,14 @@
       "onboard_time": 1741417402,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116731,
+      "num": 126952,
+      "word": "麦琳教妈妈们走出容貌焦虑",
+      "onboard_time": 1741437982,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 115516,
@@ -2115,6 +2219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100785,
+      "num": 100785,
+      "word": "王栎鑫妇女节送粉丝玫瑰花",
+      "onboard_time": 1741438762,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 100755,
       "num": 100755,
       "word": "第一次租房子下班就忘了房子在哪",
@@ -2305,14 +2417,6 @@
       "onboard_time": 1741412303,
       "rank": 44,
       "category": "教育"
-    },
-    {
-      "raw_hot": 91761,
-      "num": 91761,
-      "word": "麦家说DeepSeek的问题是没法写得差",
-      "onboard_time": 1741437320,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 91572,
@@ -2731,14 +2835,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 50220,
-      "num": 242380,
-      "word": "找工作必须首选大城市吗",
-      "onboard_time": 1741437623,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 49593,
       "num": 593428,
       "word": "最高法工作报告极简版来了",
@@ -2803,6 +2899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44561,
+      "num": 216285,
+      "word": "郭杰瑞时隔2年多再更新",
+      "onboard_time": 1741436902,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44045,
       "num": 193097,
       "word": "当你被问你相信光吗",
@@ -2859,6 +2963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40309,
+      "num": 215216,
+      "word": "人大代表回应敦煌为啥招学动物学的",
+      "onboard_time": 1741439422,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40082,
       "num": 243328,
       "word": "王石晒单S7",
@@ -2907,14 +3019,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 38082,
-      "num": 323375,
-      "word": "冯远征最着急演员的台词功底",
-      "onboard_time": 1741425141,
-      "rank": 26,
-      "category": "国内时政,艺人"
-    },
-    {
       "raw_hot": 38053,
       "num": 270433,
       "word": "最高法严惩偷拍窃听违法犯罪",
@@ -2945,6 +3049,14 @@
       "onboard_time": 1741357643,
       "rank": 49,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 35673,
+      "num": 152418,
+      "word": "麦琳我不要活成这个样子",
+      "onboard_time": 1741439181,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 35257,
@@ -2987,14 +3099,6 @@
       "category": "时尚,网红"
     },
     {
-      "raw_hot": 30822,
-      "num": 126952,
-      "word": "麦琳教妈妈们走出容貌焦虑",
-      "onboard_time": 1741437982,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 29756,
       "num": 1096735,
       "word": "政府工作报告里的身边事",
@@ -3004,7 +3108,7 @@
     },
     {
       "raw_hot": 28761,
-      "num": 769296,
+      "num": 860418,
       "word": "人大工作报告精华版",
       "onboard_time": 1741421660,
       "rank": 2,
@@ -3097,6 +3201,14 @@
       "onboard_time": 1741421901,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 20586,
+      "num": 98853,
+      "word": "哪吒2爆火炸出了多少年轻力量",
+      "onboard_time": 1741438102,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 20295,
