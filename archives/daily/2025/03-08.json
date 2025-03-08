@@ -1,6 +1,6 @@
 {
   "startTime": 1741364948328,
-  "endTime": 1741426504189,
+  "endTime": 1741429200075,
   "band_list": [
     {
       "raw_hot": 4523747,
@@ -41,6 +41,14 @@
       "onboard_time": 1741405822,
       "rank": 0,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 2104944,
+      "num": 160836,
+      "word": "戚薇回应眼睛怎么了",
+      "onboard_time": 1741427722,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1876982,
@@ -129,6 +137,14 @@
       "onboard_time": 1741407502,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 916865,
+      "num": 173529,
+      "word": "负责人称小米卫生巾真的做不了",
+      "onboard_time": 1741425621,
+      "rank": 12,
+      "category": "互联网"
     },
     {
       "raw_hot": 861833,
@@ -291,14 +307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 446860,
-      "num": 173529,
-      "word": "负责人称小米卫生巾真的做不了",
-      "onboard_time": 1741425621,
-      "rank": 12,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 443604,
       "num": 443604,
       "word": "装修快收尾时才发现装错了房子",
@@ -313,6 +321,14 @@
       "onboard_time": 1741362560,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 409850,
+      "num": 409850,
+      "word": "尹锡悦将返回总统官邸",
+      "onboard_time": 1741424720,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 402489,
@@ -491,6 +507,14 @@
       "category": "国际时政,财经"
     },
     {
+      "raw_hot": 289599,
+      "num": 112514,
+      "word": "海底捞小便事件门店餐厨具均已换新",
+      "onboard_time": 1741426523,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 282525,
       "num": 282525,
       "word": "王者荣耀",
@@ -611,14 +635,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 238359,
-      "num": 238359,
-      "word": "尹锡悦将返回总统官邸",
-      "onboard_time": 1741424720,
-      "rank": 33,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 237971,
       "num": 237971,
       "word": "周思成刘晓艳涨粉",
@@ -713,6 +729,22 @@
       "onboard_time": 1741399880,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197100,
+      "num": 158872,
+      "word": "你个婚内不忠的还想灭妻另娶",
+      "onboard_time": 1741427963,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 196789,
+      "num": 196789,
+      "word": "温以凡也怕桑延变成陆之昂吧",
+      "onboard_time": 1741422681,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 196714,
@@ -835,14 +867,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 181164,
-      "num": 164139,
-      "word": "温以凡也怕桑延变成陆之昂吧",
-      "onboard_time": 1741422681,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 178110,
       "num": 274299,
       "word": "小侯七 张宇",
@@ -939,6 +963,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 166092,
+      "num": 158832,
+      "word": "50岁的苏醒40岁的王铮亮",
+      "onboard_time": 1741423700,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166023,
       "num": 170412,
       "word": "她们尽情闪耀",
@@ -969,6 +1001,14 @@
       "onboard_time": 1741410023,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161180,
+      "num": 161180,
+      "word": "教资科三",
+      "onboard_time": 1741428981,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 160498,
@@ -1011,20 +1051,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 158832,
-      "num": 158832,
-      "word": "50岁的苏醒40岁的王铮亮",
-      "onboard_time": 1741423700,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 158131,
       "num": 158131,
       "word": "建议给应届生3至5年社保补贴",
       "onboard_time": 1741352061,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 158113,
+      "num": 158113,
+      "word": "李秀满新女团和SM新女团将正面对打",
+      "onboard_time": 1741428081,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 155552,
@@ -1115,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144151,
+      "num": 144151,
+      "word": "滤镜",
+      "onboard_time": 1741428981,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141122,
       "num": 141122,
       "word": "王欣瑜2比0奥斯塔彭科",
@@ -1161,6 +1209,14 @@
       "onboard_time": 1741361302,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137821,
+      "num": 137821,
+      "word": "林心如G社生图",
+      "onboard_time": 1741427842,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 137813,
@@ -1283,6 +1339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128699,
+      "num": 159190,
+      "word": "刘浩存戒断反应花絮硬控我30秒",
+      "onboard_time": 1741428022,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 127677,
       "num": 127677,
       "word": "90后女孩给超4000名老人当电子闺女",
@@ -1297,6 +1361,14 @@
       "onboard_time": 1741356682,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124983,
+      "num": 124983,
+      "word": "白敬亭章若楠床上吻戏",
+      "onboard_time": 1741427842,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 122600,
@@ -1400,6 +1472,14 @@
       "word": "郑钦文终结三连败",
       "onboard_time": 1741418302,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 117082,
+      "num": 273455,
+      "word": "孙颖莎说希望所有女性都能更加自信",
+      "onboard_time": 1741417402,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -1515,6 +1595,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 109824,
+      "num": 133574,
+      "word": "教育不能把最基本的丢掉",
+      "onboard_time": 1741427842,
+      "rank": 27,
+      "category": "国内时政,教育"
+    },
+    {
       "raw_hot": 109699,
       "num": 109699,
       "word": "Jennie演唱会造型",
@@ -1537,6 +1625,14 @@
       "onboard_time": 1741397121,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109291,
+      "num": 109291,
+      "word": "云南16只搜救犬考编失败求领养",
+      "onboard_time": 1741428981,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108946,
@@ -1649,6 +1745,14 @@
       "onboard_time": 1741351403,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 103121,
+      "num": 103121,
+      "word": "张远我这17年白干了",
+      "onboard_time": 1741426882,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 102821,
@@ -1915,6 +2019,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 86515,
+      "num": 86515,
+      "word": "成毅长安二十四计杀青",
+      "onboard_time": 1741426161,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 86166,
       "num": 273551,
       "word": "smtr25练习生童年照",
@@ -1963,12 +2075,12 @@
       "category": "国内时政,军事"
     },
     {
-      "raw_hot": 83427,
-      "num": 273455,
-      "word": "孙颖莎说希望所有女性都能更加自信",
-      "onboard_time": 1741417402,
-      "rank": 48,
-      "category": "体育"
+      "raw_hot": 82913,
+      "num": 82913,
+      "word": "单依纯哪吒造型",
+      "onboard_time": 1741429161,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 82336,
@@ -2235,6 +2347,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 46307,
+      "num": 386552,
+      "word": "最高法工作报告极简版来了",
+      "onboard_time": 1741422803,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 46195,
       "num": 159187,
       "word": "花海发文鼓励女性自强",
@@ -2299,14 +2419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 40190,
-      "num": 386552,
-      "word": "最高法工作报告极简版来了",
-      "onboard_time": 1741422803,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 40082,
       "num": 243328,
       "word": "王石晒单S7",
@@ -2329,6 +2441,14 @@
       "onboard_time": 1741367898,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 39045,
+      "num": 128724,
+      "word": "麦琳被AI感动到了",
+      "onboard_time": 1741426640,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 38494,
@@ -2537,6 +2657,14 @@
       "onboard_time": 1741401200,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 13254,
+      "num": 159425,
+      "word": "不要再叫女神节女王节了",
+      "onboard_time": 1741428922,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12936,

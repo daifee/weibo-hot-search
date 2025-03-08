@@ -1,0 +1,410 @@
+{
+  "runTime": 1741429200075,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1298248,
+        "num": 1298248,
+        "word": "台湾艺人带中国台湾省话题发博",
+        "onboard_time": 1741419501,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 409850,
+        "num": 409850,
+        "word": "尹锡悦将返回总统官邸",
+        "onboard_time": 1741424720,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 46307,
+        "num": 293412,
+        "word": "最高法工作报告极简版来了",
+        "onboard_time": 1741422803,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 224755,
+        "num": 224755,
+        "word": "人人人人花人人人人",
+        "onboard_time": 1741420282,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213496,
+        "num": 213496,
+        "word": "妇女节",
+        "onboard_time": 1741364181,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269481,
+        "num": 209495,
+        "word": "尹锡悦被捕52天后获释",
+        "onboard_time": 1741424300,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 196789,
+        "num": 196789,
+        "word": "温以凡也怕桑延变成陆之昂吧",
+        "onboard_time": 1741422681,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166615,
+        "num": 166615,
+        "word": "西藏定日4.7级地震",
+        "onboard_time": 1741425861,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164262,
+        "num": 164262,
+        "word": "难哄这段看得我热热的",
+        "onboard_time": 1741421481,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161180,
+        "num": 161180,
+        "word": "教资科三",
+        "onboard_time": 1741428981,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 2142964,
+        "num": 161106,
+        "word": "薛凯琪发长文",
+        "onboard_time": 1741419981,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 2104944,
+        "num": 160836,
+        "word": "戚薇回应眼睛怎么了",
+        "onboard_time": 1741427722,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 916865,
+        "num": 160704,
+        "word": "负责人称小米卫生巾真的做不了",
+        "onboard_time": 1741425621,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 431263,
+        "num": 160432,
+        "word": "刘亦菲 华为",
+        "onboard_time": 1741422921,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326779,
+        "num": 160180,
+        "word": "泰国最受欢迎的中国女明星",
+        "onboard_time": 1741409842,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220533,
+        "num": 159939,
+        "word": "薛凯琪写给方大同的话",
+        "onboard_time": 1741420702,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 214735,
+        "num": 159720,
+        "word": "我说我怎么老是存不下来钱",
+        "onboard_time": 1741423762,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13254,
+        "num": 159425,
+        "word": "不要再叫女神节女王节了",
+        "onboard_time": 1741428922,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128699,
+        "num": 159190,
+        "word": "刘浩存戒断反应花絮硬控我30秒",
+        "onboard_time": 1741428022,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 197100,
+        "num": 158872,
+        "word": "你个婚内不忠的还想灭妻另娶",
+        "onboard_time": 1741427963,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 386611,
+        "num": 158710,
+        "word": "房东收到一笔3782元陌生转账",
+        "onboard_time": 1741408161,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177564,
+        "num": 158558,
+        "word": "刘亦菲余承东互关",
+        "onboard_time": 1741423222,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166092,
+        "num": 158241,
+        "word": "50岁的苏醒40岁的王铮亮",
+        "onboard_time": 1741423700,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158113,
+        "num": 158113,
+        "word": "李秀满新女团和SM新女团将正面对打",
+        "onboard_time": 1741428081,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157361,
+        "num": 157361,
+        "word": "气血不足的人更容易焦虑抑郁",
+        "onboard_time": 1741423762,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 144151,
+        "num": 144151,
+        "word": "滤镜",
+        "onboard_time": 1741428981,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137821,
+        "num": 137821,
+        "word": "林心如G社生图",
+        "onboard_time": 1741427842,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 109824,
+        "num": 133574,
+        "word": "教育不能把最基本的丢掉",
+        "onboard_time": 1741427842,
+        "rank": 27,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 131687,
+        "num": 131687,
+        "word": "教资",
+        "onboard_time": 1741403605,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 39045,
+        "num": 128724,
+        "word": "麦琳被AI感动到了",
+        "onboard_time": 1741426640,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128061,
+        "num": 128061,
+        "word": "赵露思祝大家妇女节快乐",
+        "onboard_time": 1741422861,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126533,
+        "num": 126533,
+        "word": "教资科二",
+        "onboard_time": 1741417041,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 124983,
+        "num": 124983,
+        "word": "白敬亭章若楠床上吻戏",
+        "onboard_time": 1741427842,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117082,
+        "num": 117082,
+        "word": "孙颖莎说希望所有女性都能更加自信",
+        "onboard_time": 1741417402,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115635,
+        "num": 115635,
+        "word": "杨幂把春天调色盘穿在身上",
+        "onboard_time": 1741424300,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289599,
+        "num": 112514,
+        "word": "海底捞小便事件门店餐厨具均已换新",
+        "onboard_time": 1741426523,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109291,
+        "num": 109291,
+        "word": "云南16只搜救犬考编失败求领养",
+        "onboard_time": 1741428981,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104342,
+        "num": 104342,
+        "word": "今年妇女节不避讳谈这些话题了",
+        "onboard_time": 1741420581,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 103121,
+        "num": 103121,
+        "word": "张远我这17年白干了",
+        "onboard_time": 1741426882,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102650,
+        "num": 102650,
+        "word": "郑钦文对手质疑电子司线",
+        "onboard_time": 1741425621,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97556,
+        "num": 97556,
+        "word": "迪丽热巴新代预热",
+        "onboard_time": 1741424300,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95746,
+        "num": 95746,
+        "word": "95后北大元培女生从金融转行做演员",
+        "onboard_time": 1741418181,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93459,
+        "num": 93459,
+        "word": "国际劳动妇女节的起源",
+        "onboard_time": 1741419320,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90642,
+        "num": 90642,
+        "word": "哪吒票房",
+        "onboard_time": 1741407502,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 89206,
+        "num": 89206,
+        "word": "夸夸每一个她",
+        "onboard_time": 1741405942,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86515,
+        "num": 86515,
+        "word": "成毅长安二十四计杀青",
+        "onboard_time": 1741426161,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 82974,
+        "num": 82974,
+        "word": "李现苏州",
+        "onboard_time": 1741422262,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82913,
+        "num": 82913,
+        "word": "单依纯哪吒造型",
+        "onboard_time": 1741429161,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 79219,
+        "num": 79219,
+        "word": "邓超录综艺被老人问明星什么时候来",
+        "onboard_time": 1741414942,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77643,
+        "num": 77643,
+        "word": "哪吒2距全球票房第6差1.8亿",
+        "onboard_time": 1741412661,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对创新念兹在兹#"
+    }
+  }
+}
