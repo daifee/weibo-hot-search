@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741390529510,
+  "endTime": 1741396815030,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -49,6 +49,14 @@
       "onboard_time": 1741256722,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 4456148,
+      "num": 187639,
+      "word": "何凯文承认成绩造假",
+      "onboard_time": 1741393580,
+      "rank": 7,
+      "category": "教育"
     },
     {
       "raw_hot": 3492105,
@@ -201,6 +209,14 @@
       "onboard_time": 1741231696,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2203831,
+      "num": 195339,
+      "word": "何凯文实际成绩71分",
+      "onboard_time": 1741394541,
+      "rank": 3,
+      "category": "教育"
     },
     {
       "raw_hot": 2189622,
@@ -1811,6 +1827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 769980,
+      "num": 1123196,
+      "word": "妇女节",
+      "onboard_time": 1741364181,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 769767,
       "num": 576169,
       "word": "夜旅人",
@@ -2649,6 +2673,14 @@
       "onboard_time": 1741268724,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 597490,
+      "num": 183348,
+      "word": "何凯文即日起退出考研培训",
+      "onboard_time": 1741394661,
+      "rank": 11,
+      "category": "教育"
     },
     {
       "raw_hot": 595599,
@@ -5203,6 +5235,14 @@
       "category": "海外新闻,旅游"
     },
     {
+      "raw_hot": 338221,
+      "num": 158210,
+      "word": "男子拆快递眼球扎进几十根玻璃细刺",
+      "onboard_time": 1741389737,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 337381,
       "num": 296715,
       "word": "徐玉坤为Angelababy发声",
@@ -6580,7 +6620,7 @@
     },
     {
       "raw_hot": 273321,
-      "num": 109009,
+      "num": 181540,
       "word": "戚薇李承铉每天在厕所聊好几个小时",
       "onboard_time": 1741358902,
       "rank": 39,
@@ -8835,6 +8875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203662,
+      "num": 179885,
+      "word": "杭州蛇咖因被网友投诉太吓人下架",
+      "onboard_time": 1741395802,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203623,
       "num": 203623,
       "word": "刘梓懿被停职",
@@ -9539,14 +9587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 192571,
-      "num": 192571,
-      "word": "妇女节",
-      "onboard_time": 1741364181,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 192374,
       "num": 192374,
       "word": "iPhone17或全系标配LTPO灵动岛屏幕",
@@ -9633,6 +9673,14 @@
       "onboard_time": 1741271181,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 190340,
+      "num": 190340,
+      "word": "三八妇女节的38条祝福",
+      "onboard_time": 1741392320,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190115,
@@ -10313,6 +10361,14 @@
       "onboard_time": 1740799338,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179147,
+      "num": 179147,
+      "word": "文都教育曾索赔何凯文2273万",
+      "onboard_time": 1741362741,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 179140,
@@ -11091,6 +11147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167877,
+      "num": 188368,
+      "word": "张凯丽说35岁明明很年轻",
+      "onboard_time": 1741367119,
+      "rank": 9,
+      "category": "国内时政,艺人"
+    },
+    {
       "raw_hot": 167826,
       "num": 167826,
       "word": "靳东建议防止未成年人沉迷短视频",
@@ -11203,12 +11267,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 166154,
+      "num": 166154,
+      "word": "海南免税新增了即购即提",
+      "onboard_time": 1741394480,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166078,
       "num": 166078,
       "word": "她还在情伤期他脑补到热恋期",
       "onboard_time": 1740918140,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166023,
+      "num": 170412,
+      "word": "她们尽情闪耀",
+      "onboard_time": 1741392320,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165955,
@@ -11659,6 +11739,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 159583,
+      "num": 186774,
+      "word": "电影女足改名为e计划",
+      "onboard_time": 1741393940,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 159449,
       "num": 159449,
       "word": "陶喆回应唱爱爱爱悼念方大同",
@@ -11769,14 +11857,6 @@
       "onboard_time": 1741220358,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 158295,
-      "num": 165952,
-      "word": "张凯丽说35岁明明很年轻",
-      "onboard_time": 1741367119,
-      "rank": 9,
-      "category": "国内时政,艺人"
     },
     {
       "raw_hot": 158266,
@@ -12361,6 +12441,14 @@
       "onboard_time": 1741267462,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 152794,
+      "num": 152794,
+      "word": "医生提醒眼药水出现这三个字请警惕",
+      "onboard_time": 1741395501,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 152787,
@@ -13523,6 +13611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139983,
+      "num": 139983,
+      "word": "汽车产业正在和机器人融合",
+      "onboard_time": 1741394300,
+      "rank": 23,
+      "category": "国内时政,汽车"
+    },
+    {
       "raw_hot": 139974,
       "num": 148796,
       "word": "祁煜元宇宙世界",
@@ -14105,14 +14201,6 @@
       "onboard_time": 1741085301,
       "rank": 46,
       "category": "体育,国内时政"
-    },
-    {
-      "raw_hot": 132568,
-      "num": 60699,
-      "word": "男子拆快递眼球扎进几十根玻璃细刺",
-      "onboard_time": 1741389737,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 132453,
@@ -15227,6 +15315,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 121219,
+      "num": 121219,
+      "word": "何凯文道歉",
+      "onboard_time": 1741394300,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 121186,
       "num": 121186,
       "word": "李小冉说自己要脑子有美貌",
@@ -15763,6 +15859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113928,
+      "num": 113928,
+      "word": "中国激光产业已迈入全球第一方阵",
+      "onboard_time": 1741394720,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 113710,
       "num": 113710,
       "word": "巴黎圣日耳曼0比1利物浦",
@@ -15956,7 +16060,7 @@
     },
     {
       "raw_hot": 111454,
-      "num": 70938,
+      "num": 102032,
       "word": "张彬彬 我同意你上班我不能上班",
       "onboard_time": 1741372155,
       "rank": 12,
@@ -16001,6 +16105,14 @@
       "onboard_time": 1741159039,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110901,
+      "num": 110901,
+      "word": "祝福每一个闪闪发光的她",
+      "onboard_time": 1741392800,
+      "rank": 30,
+      "category": "情感,民生新闻"
     },
     {
       "raw_hot": 110658,
@@ -16105,6 +16217,22 @@
       "onboard_time": 1740785535,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 109699,
+      "num": 109699,
+      "word": "Jennie演唱会造型",
+      "onboard_time": 1741391359,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 109539,
+      "num": 109539,
+      "word": "一人写一个最崇拜的女性",
+      "onboard_time": 1741392680,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109385,
@@ -16795,6 +16923,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 102474,
+      "num": 185771,
+      "word": "十四届全国人大三次会议第二次全体会议",
+      "onboard_time": 1741396041,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 102280,
       "num": 228423,
       "word": "女性的职业反差可以有多绝",
@@ -16985,14 +17121,6 @@
       "onboard_time": 1741015700,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 99194,
-      "num": 99194,
-      "word": "文都教育曾索赔何凯文2273万",
-      "onboard_time": 1741362741,
-      "rank": 32,
-      "category": "教育"
     },
     {
       "raw_hot": 99182,
@@ -17675,6 +17803,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 89999,
+      "num": 110609,
+      "word": "向女同胞致以节日问候",
+      "onboard_time": 1741389198,
+      "rank": 9,
+      "category": "民生新闻,国内时政"
+    },
+    {
       "raw_hot": 89900,
       "num": 89900,
       "word": "LESSERAFIM超话空降",
@@ -18019,6 +18155,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 84191,
+      "num": 102017,
+      "word": "要坚持勤俭建军",
+      "onboard_time": 1741366160,
+      "rank": 41,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 84033,
       "num": 84033,
       "word": "10岁小孩哥臂围36厘米震惊网友",
@@ -18193,6 +18337,22 @@
       "onboard_time": 1740879856,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 79617,
+      "num": 101987,
+      "word": "苹果电脑静音键变了",
+      "onboard_time": 1741391899,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 79412,
+      "num": 101962,
+      "word": "第2场代表通道",
+      "onboard_time": 1741391899,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 79409,
@@ -18555,6 +18715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71989,
+      "num": 101940,
+      "word": "代表谈43秒行业最快速度是怎么做到的",
+      "onboard_time": 1741394240,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 71850,
       "num": 278201,
       "word": "全红婵营业状态好可爱",
@@ -18753,6 +18921,14 @@
       "onboard_time": 1741277539,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 68846,
+      "num": 101927,
+      "word": "杨天真我也讨厌写周报",
+      "onboard_time": 1741392440,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 68685,
@@ -19019,6 +19195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 64567,
+      "num": 101887,
+      "word": "Manus创始人谈DeepSeek",
+      "onboard_time": 1741392079,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 64529,
       "num": 143751,
       "word": "吴梦洁当选最有价值球员",
@@ -19185,14 +19369,6 @@
       "onboard_time": 1741158679,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 60838,
-      "num": 110609,
-      "word": "向女同胞致以节日问候",
-      "onboard_time": 1741389198,
-      "rank": 9,
-      "category": "民生新闻,国内时政"
     },
     {
       "raw_hot": 60834,
@@ -21761,14 +21937,6 @@
       "onboard_time": 1740950591,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20302,
-      "num": 24052,
-      "word": "要坚持勤俭建军",
-      "onboard_time": 1741366160,
-      "rank": 41,
-      "category": "国内时政,军事"
     },
     {
       "raw_hot": 20188,

@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1741390529510,
+  "endTime": 1741396815030,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -777,6 +777,14 @@
       "onboard_time": 1741256722,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 4456148,
+      "num": 187639,
+      "word": "何凯文承认成绩造假",
+      "onboard_time": 1741393580,
+      "rank": 7,
+      "category": "教育"
     },
     {
       "raw_hot": 4441461,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1740758299,
       "rank": 0,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 2466663,
-      "num": 2466663,
-      "word": "微博之夜四大美女",
-      "onboard_time": 1736603487,
-      "rank": 1,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
