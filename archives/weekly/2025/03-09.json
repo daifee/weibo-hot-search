@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741451721719,
+  "endTime": 1741458290577,
   "band_list": [
     {
       "raw_hot": 1535197,
@@ -115,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 266557,
+      "num": 165615,
+      "word": "TOP登陆少年",
+      "onboard_time": 1741451120,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 243767,
       "num": 243767,
       "word": "烟盒写建议被采纳82岁大爷回应走红",
@@ -160,14 +168,6 @@
       "word": "张峻豪分享两个新伙伴",
       "onboard_time": 1741450521,
       "rank": 33,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 165615,
-      "num": 165615,
-      "word": "TOP登陆少年",
-      "onboard_time": 1741451120,
-      "rank": 21,
       "category": "艺人"
     },
     {
@@ -233,6 +233,14 @@
       "onboard_time": 1741444343,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 115919,
+      "num": 115919,
+      "word": "电影雄狮少年维权声明",
+      "onboard_time": 1741454118,
+      "rank": 1,
+      "category": "电影"
     },
     {
       "raw_hot": 115871,
@@ -403,6 +411,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 66998,
+      "num": 66998,
+      "word": "dsn直播",
+      "onboard_time": 1741451780,
+      "rank": 8,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 57959,
+      "num": 57959,
+      "word": "麦琳说再见爱人后容貌焦虑达到峰值",
+      "onboard_time": 1741455797,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 56145,
       "num": 71646,
       "word": "周云杰回应海尔老总冷如冰箱",
@@ -435,6 +459,38 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35273,
+      "num": 35273,
+      "word": "探清水河一响辫儿哥哥回来了",
+      "onboard_time": 1741449261,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 30794,
+      "num": 34065,
+      "word": "张碧晨首次现场演唱哪吒2片尾曲",
+      "onboard_time": 1741452979,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 26399,
+      "num": 34041,
+      "word": "宋亚轩哪吒里面喜欢结界兽",
+      "onboard_time": 1741458256,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 26145,
+      "num": 34033,
+      "word": "檀健次巅峰全能艺人",
+      "onboard_time": 1741456876,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 22663,
       "num": 394147,
       "word": "一组图梳理两高工作报告",
@@ -446,6 +502,9 @@
   "hotgov_list": [
     {
       "word": "#总书记对创新念兹在兹#"
+    },
+    {
+      "word": "#习近平的两会之问#"
     }
   ]
 }
