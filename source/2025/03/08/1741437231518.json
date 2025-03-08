@@ -1,0 +1,410 @@
+{
+  "runTime": 1741437231518,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1196725,
+        "num": 1196725,
+        "word": "不要再叫女神节女王节了",
+        "onboard_time": 1741428922,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 784782,
+        "num": 784782,
+        "word": "台湾艺人带中国台湾省话题发博",
+        "onboard_time": 1741419501,
+        "rank": 1,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 10302,
+        "num": 703998,
+        "word": "人大工作报告精华版",
+        "onboard_time": 1741421660,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 650692,
+        "num": 650692,
+        "word": "哪吒2票房距全球第6仅差不到1亿",
+        "onboard_time": 1741434622,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 393949,
+        "num": 393949,
+        "word": "丘索维金娜体操世界杯夺冠",
+        "onboard_time": 1741431862,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 374102,
+        "num": 374102,
+        "word": "赵一博4部待播剧",
+        "onboard_time": 1741436360,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 354288,
+        "num": 354288,
+        "word": "爱你",
+        "onboard_time": 1741435103,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 342508,
+        "num": 342508,
+        "word": "哪吒2让新加坡发行方惊到了",
+        "onboard_time": 1741429762,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 305597,
+        "num": 305597,
+        "word": "妇女节",
+        "onboard_time": 1741364181,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268428,
+        "num": 268428,
+        "word": "哈佛MBA23%毕业生毕业即失业",
+        "onboard_time": 1741432582,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1323672,
+        "num": 267441,
+        "word": "薛凯琪发长文",
+        "onboard_time": 1741419981,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 27555,
+        "num": 265837,
+        "word": "最高法工作报告极简版来了",
+        "onboard_time": 1741422803,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 970457,
+        "num": 261648,
+        "word": "郑乃馨说和硬糖少女没联系",
+        "onboard_time": 1741430661,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 936439,
+        "num": 260128,
+        "word": "伊能静都57了还在免检生图",
+        "onboard_time": 1741435522,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 914481,
+        "num": 258178,
+        "word": "戚薇回应眼睛怎么了",
+        "onboard_time": 1741427722,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 630473,
+        "num": 255182,
+        "word": "负责人称小米卫生巾真的做不了",
+        "onboard_time": 1741425621,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 557137,
+        "num": 253596,
+        "word": "Jennie伴舞失误",
+        "onboard_time": 1741430423,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 251576,
+        "num": 251576,
+        "word": "你好星期六",
+        "onboard_time": 1741431322,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250885,
+        "num": 250885,
+        "word": "70岁女主7岁男主",
+        "onboard_time": 1741434503,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242318,
+        "num": 242318,
+        "word": "丁禹兮战损妆",
+        "onboard_time": 1741434202,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377044,
+        "num": 235591,
+        "word": "房东收到一笔3782元陌生转账",
+        "onboard_time": 1741408161,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18169,
+        "num": 205412,
+        "word": "每个家庭都应看见父亲育儿的身影",
+        "onboard_time": 1741437022,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 245616,
+        "num": 200484,
+        "word": "刘亦菲 华为",
+        "onboard_time": 1741422921,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189517,
+        "num": 189517,
+        "word": "敖瑞鹏直播",
+        "onboard_time": 1741436122,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183889,
+        "num": 183889,
+        "word": "云南16只搜救犬考编失败求领养",
+        "onboard_time": 1741428981,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171981,
+        "num": 171981,
+        "word": "焦虑抑郁是不是病态有两个标准",
+        "onboard_time": 1741431922,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 21541,
+        "num": 163545,
+        "word": "冯远征最着急演员的台词功底",
+        "onboard_time": 1741425141,
+        "rank": 26,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 158302,
+        "num": 158302,
+        "word": "父亲向女儿索要赡养费供养智残儿子",
+        "onboard_time": 1741429282,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157915,
+        "num": 157915,
+        "word": "灯花笑",
+        "onboard_time": 1741432642,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 126925,
+        "num": 147785,
+        "word": "滤镜25集好甜",
+        "onboard_time": 1741436662,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158385,
+        "num": 147613,
+        "word": "檀健次红毯压轴",
+        "onboard_time": 1741436662,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147259,
+        "num": 147259,
+        "word": "23岁的考场和18岁是不同的",
+        "onboard_time": 1741432042,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 140690,
+        "num": 140690,
+        "word": "河南矿山老板妇女节又发钱",
+        "onboard_time": 1741433903,
+        "rank": 32,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 129340,
+        "num": 129340,
+        "word": "气血不足的人更容易焦虑抑郁",
+        "onboard_time": 1741423762,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 129159,
+        "num": 129159,
+        "word": "泰国最受欢迎的中国女明星",
+        "onboard_time": 1741409842,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100136,
+        "num": 128658,
+        "word": "一闭眼满脑子都是虞书欣",
+        "onboard_time": 1741435881,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128554,
+        "num": 128554,
+        "word": "白敬亭章若楠床上吻戏",
+        "onboard_time": 1741427842,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122593,
+        "num": 122593,
+        "word": "薛凯琪写给方大同的话",
+        "onboard_time": 1741420702,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116617,
+        "num": 116617,
+        "word": "邵淳逝世",
+        "onboard_time": 1741432761,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40607,
+        "num": 113518,
+        "word": "来自中国空间站的妇女节祝福",
+        "onboard_time": 1741436122,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111218,
+        "num": 111218,
+        "word": "女校实体书",
+        "onboard_time": 1741434262,
+        "rank": 40,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 106930,
+        "num": 106930,
+        "word": "郑钦文收获65分和60400美元",
+        "onboard_time": 1741434382,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94542,
+        "num": 94542,
+        "word": "人人人人花人人人人",
+        "onboard_time": 1741420282,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91626,
+        "num": 91626,
+        "word": "于正回应程潇玉茗茶骨最终装扮无刘海",
+        "onboard_time": 1741430900,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89998,
+        "num": 89998,
+        "word": "上海400一个的布拉塔披萨",
+        "onboard_time": 1741435341,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 87355,
+        "num": 87355,
+        "word": "这才是我想看的都市家庭剧",
+        "onboard_time": 1741435822,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83618,
+        "num": 83618,
+        "word": "国际劳动妇女节的起源",
+        "onboard_time": 1741419320,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82281,
+        "num": 82281,
+        "word": "李秀满新女团和SM新女团将正面对打",
+        "onboard_time": 1741428081,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 81510,
+        "num": 81510,
+        "word": "黄子弘凡直播网速太快了",
+        "onboard_time": 1741433242,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81367,
+        "num": 81367,
+        "word": "教资科三",
+        "onboard_time": 1741428981,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对创新念兹在兹#"
+    }
+  }
+}

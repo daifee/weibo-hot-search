@@ -1,6 +1,6 @@
 {
   "startTime": 1740846367430,
-  "endTime": 1741433698197,
+  "endTime": 1741437231518,
   "band_list": [
     {
       "raw_hot": 15162205,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 2104944,
-      "num": 208715,
+      "num": 258178,
       "word": "戚薇回应眼睛怎么了",
       "onboard_time": 1741427722,
       "rank": 11,
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 1668326,
-      "num": 205748,
+      "num": 261648,
       "word": "郑乃馨说和硬糖少女没联系",
       "onboard_time": 1741430661,
       "rank": 11,
@@ -1004,7 +1004,7 @@
     },
     {
       "raw_hot": 1035366,
-      "num": 207960,
+      "num": 255182,
       "word": "负责人称小米卫生巾真的做不了",
       "onboard_time": 1741425621,
       "rank": 12,
@@ -1200,6 +1200,14 @@
       "word": "主持人李静公开袒露绝经经历",
       "onboard_time": 1741340420,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 936439,
+      "num": 260128,
+      "word": "伊能静都57了还在免检生图",
+      "onboard_time": 1741435522,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -1572,7 +1580,7 @@
     },
     {
       "raw_hot": 806564,
-      "num": 203877,
+      "num": 253596,
       "word": "Jennie伴舞失误",
       "onboard_time": 1741430423,
       "rank": 13,
@@ -2153,6 +2161,14 @@
       "onboard_time": 1741161679,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 650692,
+      "num": 650692,
+      "word": "哪吒2票房距全球第6仅差不到1亿",
+      "onboard_time": 1741434622,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 649198,
@@ -4035,6 +4051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 393949,
+      "num": 393949,
+      "word": "丘索维金娜体操世界杯夺冠",
+      "onboard_time": 1741431862,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 393833,
       "num": 393833,
       "word": "教资科三",
@@ -4289,6 +4313,14 @@
       "onboard_time": 1741013000,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 374102,
+      "num": 374102,
+      "word": "赵一博4部待播剧",
+      "onboard_time": 1741436360,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 373283,
@@ -6227,6 +6259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 268428,
+      "num": 268428,
+      "word": "哈佛MBA23%毕业生毕业即失业",
+      "onboard_time": 1741432582,
+      "rank": 17,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 268380,
       "num": 268380,
       "word": "朱丹晒周一围与儿子背影照",
@@ -6603,12 +6643,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 251576,
+      "num": 251576,
+      "word": "你好星期六",
+      "onboard_time": 1741431322,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 251102,
       "num": 251102,
       "word": "时代峰峻高会回复",
       "onboard_time": 1740926901,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 250885,
+      "num": 250885,
+      "word": "70岁女主7岁男主",
+      "onboard_time": 1741434503,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 250529,
@@ -6777,6 +6833,14 @@
       "onboard_time": 1741088060,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 242318,
+      "num": 242318,
+      "word": "丁禹兮战损妆",
+      "onboard_time": 1741434202,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 241107,
@@ -8923,6 +8987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189517,
+      "num": 189517,
+      "word": "敖瑞鹏直播",
+      "onboard_time": 1741436122,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189499,
       "num": 189499,
       "word": "李昀锐车代预热",
@@ -9329,14 +9401,6 @@
       "onboard_time": 1740840083,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 183321,
-      "num": 183321,
-      "word": "丘索维金娜体操世界杯夺冠",
-      "onboard_time": 1741431862,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 183311,
@@ -9929,6 +9993,14 @@
       "onboard_time": 1741328483,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171981,
+      "num": 171981,
+      "word": "焦虑抑郁是不是病态有两个标准",
+      "onboard_time": 1741431922,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 171622,
@@ -10857,6 +10929,14 @@
       "onboard_time": 1741351161,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 158385,
+      "num": 147613,
+      "word": "檀健次红毯压轴",
+      "onboard_time": 1741436662,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 158340,
@@ -11899,6 +11979,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 147259,
+      "num": 147259,
+      "word": "23岁的考场和18岁是不同的",
+      "onboard_time": 1741432042,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 147191,
       "num": 147191,
       "word": "邓超看起来像极了本地人",
@@ -11993,14 +12081,6 @@
       "onboard_time": 1741168399,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 145920,
-      "num": 145920,
-      "word": "你好星期六",
-      "onboard_time": 1741431322,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 145895,
@@ -12443,6 +12523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140690,
+      "num": 140690,
+      "word": "河南矿山老板妇女节又发钱",
+      "onboard_time": 1741433903,
+      "rank": 32,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 140542,
       "num": 140542,
       "word": "全球先锋赛赛程公布",
@@ -12473,14 +12561,6 @@
       "onboard_time": 1740966198,
       "rank": 46,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 140496,
-      "num": 201690,
-      "word": "哈佛MBA23%毕业生毕业即失业",
-      "onboard_time": 1741432582,
-      "rank": 17,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 140467,
@@ -13561,6 +13641,14 @@
       "onboard_time": 1741343902,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 126925,
+      "num": 147785,
+      "word": "滤镜25集好甜",
+      "onboard_time": 1741436662,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 126896,
@@ -15059,6 +15147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111218,
+      "num": 111218,
+      "word": "女校实体书",
+      "onboard_time": 1741434262,
+      "rank": 40,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 111209,
       "num": 111209,
       "word": "快乐再出发征婚征出连环刀",
@@ -15473,6 +15569,14 @@
       "onboard_time": 1741151719,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106930,
+      "num": 106930,
+      "word": "郑钦文收获65分和60400美元",
+      "onboard_time": 1741434382,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 106922,
@@ -16057,6 +16161,14 @@
       "onboard_time": 1740979400,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 100136,
+      "num": 128658,
+      "word": "一闭眼满脑子都是虞书欣",
+      "onboard_time": 1741435881,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 100119,
@@ -16827,6 +16939,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 89998,
+      "num": 89998,
+      "word": "上海400一个的布拉塔披萨",
+      "onboard_time": 1741435341,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 89900,
       "num": 89900,
       "word": "LESSERAFIM超话空降",
@@ -16849,14 +16969,6 @@
       "onboard_time": 1740923120,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 89352,
-      "num": 89352,
-      "word": "23岁的考场和18岁是不同的",
-      "onboard_time": 1741432042,
-      "rank": 42,
-      "category": "教育"
     },
     {
       "raw_hot": 89350,
@@ -16984,6 +17096,14 @@
       "word": "何苏叶边亲边单手解衬衫扣子",
       "onboard_time": 1741400720,
       "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 87355,
+      "num": 87355,
+      "word": "这才是我想看的都市家庭剧",
+      "onboard_time": 1741435822,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -19595,6 +19715,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 40607,
+      "num": 113518,
+      "word": "来自中国空间站的妇女节祝福",
+      "onboard_time": 1741436122,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40590,
       "num": 140849,
       "word": "建议淡化重点高中标签",
@@ -20340,7 +20468,7 @@
     },
     {
       "raw_hot": 28761,
-      "num": 368204,
+      "num": 703998,
       "word": "人大工作报告精华版",
       "onboard_time": 1741421660,
       "rank": 2,
@@ -20827,6 +20955,14 @@
       "category": "议题讨论,国内时政"
     },
     {
+      "raw_hot": 21541,
+      "num": 163545,
+      "word": "冯远征最着急演员的台词功底",
+      "onboard_time": 1741425141,
+      "rank": 26,
+      "category": "国内时政,艺人"
+    },
+    {
       "raw_hot": 21535,
       "num": 153945,
       "word": "超150万公里验证的电车",
@@ -21041,6 +21177,14 @@
       "onboard_time": 1740972260,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 18169,
+      "num": 205412,
+      "word": "每个家庭都应看见父亲育儿的身影",
+      "onboard_time": 1741437022,
+      "rank": 21,
+      "category": "国内时政"
     },
     {
       "raw_hot": 18112,
