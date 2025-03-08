@@ -1,0 +1,410 @@
+{
+  "runTime": 1741438099635,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1109638,
+        "num": 1177542,
+        "word": "不要再叫女神节女王节了",
+        "onboard_time": 1741428922,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 774465,
+        "num": 774465,
+        "word": "台湾艺人带中国台湾省话题发博",
+        "onboard_time": 1741419501,
+        "rank": 1,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 16100,
+        "num": 769296,
+        "word": "人大工作报告精华版",
+        "onboard_time": 1741421660,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 768197,
+        "num": 768197,
+        "word": "哪吒2票房距全球第6仅差不到1亿",
+        "onboard_time": 1741434622,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 545967,
+        "num": 545967,
+        "word": "赵一博4部待播剧",
+        "onboard_time": 1741436360,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 371157,
+        "num": 371157,
+        "word": "丘索维金娜体操世界杯夺冠",
+        "onboard_time": 1741431862,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 349004,
+        "num": 349004,
+        "word": "妇女节",
+        "onboard_time": 1741364181,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345827,
+        "num": 345827,
+        "word": "爱你",
+        "onboard_time": 1741435103,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 324162,
+        "num": 324162,
+        "word": "你好星期六",
+        "onboard_time": 1741431322,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38082,
+        "num": 323375,
+        "word": "冯远征最着急演员的台词功底",
+        "onboard_time": 1741425141,
+        "rank": 9,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 1271728,
+        "num": 320220,
+        "word": "薛凯琪发长文",
+        "onboard_time": 1741419981,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1212801,
+        "num": 313094,
+        "word": "伊能静都57了还在免检生图",
+        "onboard_time": 1741435522,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 839427,
+        "num": 311031,
+        "word": "郑乃馨说和硬糖少女没联系",
+        "onboard_time": 1741430661,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 818392,
+        "num": 307234,
+        "word": "戚薇回应眼睛怎么了",
+        "onboard_time": 1741427722,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36602,
+        "num": 301880,
+        "word": "每个家庭都应看见父亲育儿的身影",
+        "onboard_time": 1741437022,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 652155,
+        "num": 299352,
+        "word": "负责人称小米卫生巾真的做不了",
+        "onboard_time": 1741425621,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 548164,
+        "num": 294971,
+        "word": "Jennie伴舞失误",
+        "onboard_time": 1741430423,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 293615,
+        "num": 293615,
+        "word": "哪吒2让新加坡发行方惊到了",
+        "onboard_time": 1741429762,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 74050,
+        "num": 242454,
+        "word": "一闭眼满脑子都是虞书欣",
+        "onboard_time": 1741435881,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50220,
+        "num": 242380,
+        "word": "找工作必须首选大城市吗",
+        "onboard_time": 1741437623,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 343377,
+        "num": 242360,
+        "word": "房东收到一笔3782元陌生转账",
+        "onboard_time": 1741408161,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242328,
+        "num": 242328,
+        "word": "刘亦菲 华为",
+        "onboard_time": 1741422921,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224318,
+        "num": 224318,
+        "word": "哈佛MBA23%毕业生毕业即失业",
+        "onboard_time": 1741432582,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 206696,
+        "num": 206696,
+        "word": "70岁女主7岁男主",
+        "onboard_time": 1741434503,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177188,
+        "num": 177188,
+        "word": "灯花笑",
+        "onboard_time": 1741432642,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 169833,
+        "num": 169833,
+        "word": "丁禹兮战损妆",
+        "onboard_time": 1741434202,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164616,
+        "num": 164616,
+        "word": "焦虑抑郁是不是病态有两个标准",
+        "onboard_time": 1741431922,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 163465,
+        "num": 163465,
+        "word": "檀健次红毯压轴",
+        "onboard_time": 1741436662,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 160396,
+        "num": 160396,
+        "word": "河南矿山老板妇女节又发钱",
+        "onboard_time": 1741433903,
+        "rank": 28,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 152842,
+        "num": 152842,
+        "word": "敖瑞鹏直播",
+        "onboard_time": 1741436122,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148978,
+        "num": 148978,
+        "word": "女校实体书",
+        "onboard_time": 1741434262,
+        "rank": 30,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 146725,
+        "num": 146725,
+        "word": "云南16只搜救犬考编失败求领养",
+        "onboard_time": 1741428981,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144246,
+        "num": 144246,
+        "word": "滤镜25集好甜",
+        "onboard_time": 1741436662,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135533,
+        "num": 135533,
+        "word": "23岁的考场和18岁是不同的",
+        "onboard_time": 1741432042,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 30822,
+        "num": 126952,
+        "word": "麦琳教妈妈们走出容貌焦虑",
+        "onboard_time": 1741437982,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125571,
+        "num": 125571,
+        "word": "AG对战EDGM",
+        "onboard_time": 1741437681,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 123938,
+        "num": 123938,
+        "word": "婚礼最没有必要的步骤是什么",
+        "onboard_time": 1741437382,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117092,
+        "num": 117092,
+        "word": "白敬亭章若楠床上吻戏",
+        "onboard_time": 1741427842,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116260,
+        "num": 116260,
+        "word": "泰国最受欢迎的中国女明星",
+        "onboard_time": 1741409842,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115557,
+        "num": 115557,
+        "word": "薛凯琪写给方大同的话",
+        "onboard_time": 1741420702,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113741,
+        "num": 113741,
+        "word": "父亲向女儿索要赡养费供养智残儿子",
+        "onboard_time": 1741429282,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110938,
+        "num": 110938,
+        "word": "郑钦文收获65分和60400美元",
+        "onboard_time": 1741434382,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101859,
+        "num": 101859,
+        "word": "气血不足的人更容易焦虑抑郁",
+        "onboard_time": 1741423762,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 100304,
+        "num": 100304,
+        "word": "胡夏演唱会",
+        "onboard_time": 1741437320,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100263,
+        "num": 100263,
+        "word": "上海400一个的布拉塔披萨",
+        "onboard_time": 1741435341,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 97159,
+        "num": 97159,
+        "word": "邵淳逝世",
+        "onboard_time": 1741432761,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94705,
+        "num": 94705,
+        "word": "人人人人花人人人人",
+        "onboard_time": 1741420282,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91761,
+        "num": 91761,
+        "word": "麦家说DeepSeek的问题是没法写得差",
+        "onboard_time": 1741437320,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 90271,
+        "num": 90271,
+        "word": "金铲铲百万大奖得主",
+        "onboard_time": 1741437982,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 87204,
+        "num": 87204,
+        "word": "国际劳动妇女节的起源",
+        "onboard_time": 1741419320,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对创新念兹在兹#"
+    }
+  }
+}
