@@ -1,0 +1,410 @@
+{
+  "runTime": 1741530909832,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 906530,
+        "num": 1145044,
+        "word": "哪吒2冲上全球第6",
+        "onboard_time": 1741509981,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 672199,
+        "num": 672199,
+        "word": "老板送菜后得知顾客刚救了自己儿子",
+        "onboard_time": 1741524563,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38243,
+        "num": 455852,
+        "word": "民生主题记者会热点全解读",
+        "onboard_time": 1741529424,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1162764,
+        "num": 449014,
+        "word": "泰国发生连环恐袭",
+        "onboard_time": 1741522041,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 357828,
+        "num": 357828,
+        "word": "梁王",
+        "onboard_time": 1741529903,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1281365,
+        "num": 356845,
+        "word": "张凌赫徐若晗 二搭",
+        "onboard_time": 1741525582,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 358806,
+        "num": 355757,
+        "word": "一人一句恭喜吒儿",
+        "onboard_time": 1741521563,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 353897,
+        "num": 353897,
+        "word": "我国医院开始设立体重门诊",
+        "onboard_time": 1741509682,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 333058,
+        "num": 333058,
+        "word": "王栎鑫今天造型是春晚pass掉的",
+        "onboard_time": 1741520421,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115278,
+        "num": 329334,
+        "word": "机器人已经在中国空间站开始上班了",
+        "onboard_time": 1741529782,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1727699,
+        "num": 326688,
+        "word": "张惠妹被调侃胖成石矶娘娘",
+        "onboard_time": 1741528163,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1219569,
+        "num": 319554,
+        "word": "海底捞再回应男子向火锅内小便",
+        "onboard_time": 1741529843,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 792896,
+        "num": 315507,
+        "word": "黄灿灿幸福快溢出来的真实感",
+        "onboard_time": 1741528643,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 673697,
+        "num": 310107,
+        "word": "黄雨婷发文人间清醒",
+        "onboard_time": 1741529903,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26562,
+        "num": 303705,
+        "word": "委员称取消公摊并不意味能省钱",
+        "onboard_time": 1741530441,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 456371,
+        "num": 295234,
+        "word": "韩国人开始大量买入中国股票",
+        "onboard_time": 1741509682,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 416591,
+        "num": 290633,
+        "word": "制片人谈王一博不进组的原因",
+        "onboard_time": 1741521501,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406748,
+        "num": 286294,
+        "word": "手机尾号77777777拍出254.4万元",
+        "onboard_time": 1741517063,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283224,
+        "num": 283224,
+        "word": "张凌赫 无框眼镜",
+        "onboard_time": 1741527983,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115689,
+        "num": 282621,
+        "word": "谢娜杨迪于洋到底有没有登顶",
+        "onboard_time": 1741530144,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 659903,
+        "num": 276482,
+        "word": "女子工资4600每日花销近百元通勤上班",
+        "onboard_time": 1741529724,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1098050,
+        "num": 273153,
+        "word": "王一博假发",
+        "onboard_time": 1741522881,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 305939,
+        "num": 270742,
+        "word": "叶璇回应病重父亲遭保姆抢家产",
+        "onboard_time": 1741519342,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30374,
+        "num": 264208,
+        "word": "AI假靳东越来越难防",
+        "onboard_time": 1741530683,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191736,
+        "num": 259456,
+        "word": "童家堡17淘汰吃鸡",
+        "onboard_time": 1741530503,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 259321,
+        "num": 259321,
+        "word": "住宅层高标准将不低于3米",
+        "onboard_time": 1741513881,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 258346,
+        "num": 258346,
+        "word": "建议破除教育内卷",
+        "onboard_time": 1741527083,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23966,
+        "num": 246918,
+        "word": "上海F1氛围到位了",
+        "onboard_time": 1741527803,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242055,
+        "num": 242055,
+        "word": "檀健次 水仙",
+        "onboard_time": 1741529124,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222149,
+        "num": 222149,
+        "word": "TFBOYS宣传王源超级巅峰之夜",
+        "onboard_time": 1741527323,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 253564,
+        "num": 216961,
+        "word": "王大陆的手机又被查出新案",
+        "onboard_time": 1741516399,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204219,
+        "num": 204219,
+        "word": "张杰戴金箍跪唱一生所爱",
+        "onboard_time": 1741529903,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 190704,
+        "num": 190704,
+        "word": "爱你大结局",
+        "onboard_time": 1741520421,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188373,
+        "num": 188373,
+        "word": "桑延温以凡再也不会分开了",
+        "onboard_time": 1741524381,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187541,
+        "num": 187541,
+        "word": "Jennie主打曲舞蹈版",
+        "onboard_time": 1741530082,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169814,
+        "num": 169814,
+        "word": "赵一博遇人不熟杀青",
+        "onboard_time": 1741526662,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165852,
+        "num": 165852,
+        "word": "素颜小姐姐艺考被卸3次妆",
+        "onboard_time": 1741489099,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154143,
+        "num": 154143,
+        "word": "辛芷蕾真是一个梗都没放过",
+        "onboard_time": 1741526662,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152757,
+        "num": 152757,
+        "word": "最能吃苦的那一代人又回来了",
+        "onboard_time": 1741517243,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150911,
+        "num": 150911,
+        "word": "海底捞",
+        "onboard_time": 1741495041,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148995,
+        "num": 148995,
+        "word": "石凯怎么叫粉丝兄弟啊",
+        "onboard_time": 1741529964,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 144401,
+        "num": 144401,
+        "word": "建议立法确保学生体育活动时间",
+        "onboard_time": 1741528883,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 139516,
+        "num": 139516,
+        "word": "唐九洲今天是伴郎李介",
+        "onboard_time": 1741530144,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128984,
+        "num": 128984,
+        "word": "2000年以前老旧小区要纳入城市更新改造",
+        "onboard_time": 1741508180,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 126552,
+        "num": 126552,
+        "word": "赵露思小猫招手",
+        "onboard_time": 1741530383,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125939,
+        "num": 125939,
+        "word": "将稳步提高养老保险待遇水平",
+        "onboard_time": 1741516399,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118555,
+        "num": 118555,
+        "word": "民生主题记者会",
+        "onboard_time": 1741504161,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 113477,
+        "num": 113477,
+        "word": "司机早高峰在马路中央停车买早餐",
+        "onboard_time": 1741525161,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113118,
+        "num": 113118,
+        "word": "王源QQ音乐巅峰盛典绿海",
+        "onboard_time": 1741528101,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 108059,
+        "num": 108059,
+        "word": "创造营亚洲2第一次顺位发表",
+        "onboard_time": 1741520602,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#实现我军建设十四五规划圆满收官#"
+    }
+  }
+}

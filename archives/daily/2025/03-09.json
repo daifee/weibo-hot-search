@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741529860905,
+  "endTime": 1741530909832,
   "band_list": [
     {
       "raw_hot": 2815044,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1880828,
-      "num": 304077,
+      "num": 326688,
       "word": "张惠妹被调侃胖成石矶娘娘",
       "onboard_time": 1741528163,
       "rank": 10,
@@ -81,6 +81,14 @@
       "onboard_time": 1741507879,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1219569,
+      "num": 319554,
+      "word": "海底捞再回应男子向火锅内小便",
+      "onboard_time": 1741529843,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1155557,
@@ -251,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 792896,
+      "num": 315507,
+      "word": "黄灿灿幸福快溢出来的真实感",
+      "onboard_time": 1741528643,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 791001,
       "num": 791001,
       "word": "我国医院开始设立体重门诊",
@@ -379,11 +395,27 @@
       "category": "民生新闻,电影"
     },
     {
+      "raw_hot": 673697,
+      "num": 310107,
+      "word": "黄雨婷发文人间清醒",
+      "onboard_time": 1741529903,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 671484,
       "num": 671484,
       "word": "天津公厕紫外线自动消杀惊呆市民",
       "onboard_time": 1741488200,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 659903,
+      "num": 276482,
+      "word": "女子工资4600每日花销近百元通勤上班",
+      "onboard_time": 1741529724,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -611,14 +643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 408600,
-      "num": 280555,
-      "word": "黄灿灿幸福快溢出来的真实感",
-      "onboard_time": 1741528643,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 407829,
       "num": 363456,
       "word": "创造营亚洲2第一次顺位发表",
@@ -705,6 +729,14 @@
       "onboard_time": 1741498220,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 357828,
+      "num": 357828,
+      "word": "梁王",
+      "onboard_time": 1741529903,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 354929,
@@ -891,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 283224,
+      "num": 283224,
+      "word": "张凌赫 无框眼镜",
+      "onboard_time": 1741527983,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 277624,
       "num": 277624,
       "word": "冰湖重生",
@@ -947,6 +987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 258346,
+      "num": 305721,
+      "word": "建议破除教育内卷",
+      "onboard_time": 1741527083,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 256510,
       "num": 256510,
       "word": "贵女",
@@ -979,6 +1027,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 242055,
+      "num": 242055,
+      "word": "檀健次 水仙",
+      "onboard_time": 1741529124,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 242025,
       "num": 242025,
       "word": "Jennie伴舞失误",
@@ -1001,14 +1057,6 @@
       "onboard_time": 1741510762,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 231704,
-      "num": 218773,
-      "word": "张凌赫 无框眼镜",
-      "onboard_time": 1741527983,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 226148,
@@ -1035,6 +1083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222149,
+      "num": 222149,
+      "word": "TFBOYS宣传王源超级巅峰之夜",
+      "onboard_time": 1741527323,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 216899,
       "num": 239591,
       "word": "麦琳怀孕胖到140斤",
@@ -1057,14 +1113,6 @@
       "onboard_time": 1741495401,
       "rank": 28,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 214356,
-      "num": 214356,
-      "word": "TFBOYS宣传王源超级巅峰之夜",
-      "onboard_time": 1741527323,
-      "rank": 24,
-      "category": "音乐"
     },
     {
       "raw_hot": 213136,
@@ -1139,20 +1187,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 204219,
+      "num": 204219,
+      "word": "张杰戴金箍跪唱一生所爱",
+      "onboard_time": 1741529903,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 203962,
       "num": 228064,
       "word": "张康乐在退烧中",
       "onboard_time": 1741501222,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 201087,
-      "num": 201087,
-      "word": "檀健次 水仙",
-      "onboard_time": 1741529124,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 200682,
@@ -1243,6 +1291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 191736,
+      "num": 259456,
+      "word": "童家堡17淘汰吃鸡",
+      "onboard_time": 1741530503,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 191672,
       "num": 291302,
       "word": "苏醒给自己放了5周的假",
@@ -1283,12 +1339,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 186975,
-      "num": 305721,
-      "word": "建议破除教育内卷",
-      "onboard_time": 1741527083,
-      "rank": 23,
-      "category": "民生新闻"
+      "raw_hot": 187541,
+      "num": 187541,
+      "word": "Jennie主打曲舞蹈版",
+      "onboard_time": 1741530082,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 185466,
@@ -1555,6 +1611,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 154143,
+      "num": 154143,
+      "word": "辛芷蕾真是一个梗都没放过",
+      "onboard_time": 1741526662,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153727,
       "num": 285068,
       "word": "全国将启用12356心理援助热线",
@@ -1627,12 +1691,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 149143,
-      "num": 149143,
-      "word": "辛芷蕾真是一个梗都没放过",
-      "onboard_time": 1741526662,
-      "rank": 32,
-      "category": "剧集"
+      "raw_hot": 148995,
+      "num": 148995,
+      "word": "石凯怎么叫粉丝兄弟啊",
+      "onboard_time": 1741529964,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 148987,
@@ -1665,6 +1729,14 @@
       "onboard_time": 1741512501,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 144401,
+      "num": 288361,
+      "word": "建议立法确保学生体育活动时间",
+      "onboard_time": 1741528883,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 143703,
@@ -1715,14 +1787,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 141052,
-      "num": 288361,
-      "word": "建议立法确保学生体育活动时间",
-      "onboard_time": 1741528883,
-      "rank": 13,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 140363,
       "num": 140363,
       "word": "好养的猫都有一个特征",
@@ -1737,6 +1801,14 @@
       "onboard_time": 1741522340,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139516,
+      "num": 139516,
+      "word": "唐九洲今天是伴郎李介",
+      "onboard_time": 1741530144,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 137560,
@@ -1801,6 +1873,14 @@
       "onboard_time": 1741511900,
       "rank": 48,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 126552,
+      "num": 126552,
+      "word": "赵露思小猫招手",
+      "onboard_time": 1741530383,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 126525,
@@ -2035,6 +2115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 115689,
+      "num": 282621,
+      "word": "谢娜杨迪于洋到底有没有登顶",
+      "onboard_time": 1741530144,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115677,
       "num": 115677,
       "word": "檀健次个人演唱会既视感",
@@ -2056,6 +2144,14 @@
       "word": "房地产市场保持止跌回稳积极势头",
       "onboard_time": 1741509682,
       "rank": 43,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 115278,
+      "num": 329334,
+      "word": "机器人已经在中国空间站开始上班了",
+      "onboard_time": 1741529782,
+      "rank": 34,
       "category": "国内时政"
     },
     {
@@ -2153,14 +2249,6 @@
       "onboard_time": 1741494442,
       "rank": 48,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 111252,
-      "num": 111252,
-      "word": "女子工资4600每日花销近百元通勤上班",
-      "onboard_time": 1741529724,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111196,
@@ -2843,14 +2931,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 42304,
-      "num": 133826,
-      "word": "机器人已经在中国空间站开始上班了",
-      "onboard_time": 1741529782,
-      "rank": 34,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 41920,
       "num": 311463,
       "word": "董明珠呼吁规范二手家电市场秩序",
@@ -2889,6 +2969,14 @@
       "onboard_time": 1741479979,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38243,
+      "num": 1085688,
+      "word": "民生主题记者会热点全解读",
+      "onboard_time": 1741529424,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 37976,
@@ -2939,6 +3027,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 30374,
+      "num": 264208,
+      "word": "AI假靳东越来越难防",
+      "onboard_time": 1741530683,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30041,
       "num": 35029,
       "word": "男子拆快递瞬间眼睛差点瞎了",
@@ -2969,6 +3065,14 @@
       "onboard_time": 1741518683,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26562,
+      "num": 303705,
+      "word": "委员称取消公摊并不意味能省钱",
+      "onboard_time": 1741530441,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26422,
@@ -3011,8 +3115,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 23697,
-      "num": 156859,
+      "raw_hot": 23966,
+      "num": 246918,
       "word": "上海F1氛围到位了",
       "onboard_time": 1741527803,
       "rank": 29,
@@ -3064,14 +3168,6 @@
       "word": "快来查收你的2025民生礼包",
       "onboard_time": 1741494620,
       "rank": 13,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 15943,
-      "num": 1085688,
-      "word": "民生主题记者会热点全解读",
-      "onboard_time": 1741529424,
-      "rank": 2,
       "category": "国内时政"
     },
     {
@@ -3160,6 +3256,9 @@
     },
     {
       "word": "#教育不能把最基本的丢掉#"
+    },
+    {
+      "word": "#实现我军建设十四五规划圆满收官#"
     }
   ]
 }
