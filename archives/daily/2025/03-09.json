@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741511977313,
+  "endTime": 1741512931495,
   "band_list": [
     {
       "raw_hot": 2301647,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 869457,
-      "num": 326402,
+      "num": 339735,
       "word": "桑延 男鬼",
       "onboard_time": 1741501821,
       "rank": 29,
@@ -137,6 +137,14 @@
       "onboard_time": 1741489099,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 791001,
+      "num": 791001,
+      "word": "我国医院开始设立体重门诊",
+      "onboard_time": 1741509682,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 787481,
@@ -251,6 +259,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 647432,
+      "num": 647432,
+      "word": "哪吒2冲击全球TOP6",
+      "onboard_time": 1741509981,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 633453,
       "num": 633453,
       "word": "外交部发布重磅视频",
@@ -289,14 +305,6 @@
       "onboard_time": 1741493421,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 558041,
-      "num": 558041,
-      "word": "哪吒2冲击全球TOP6",
-      "onboard_time": 1741509981,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 557756,
@@ -387,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 431491,
+      "num": 208099,
+      "word": "低成本穿衣得体的小tips",
+      "onboard_time": 1741509801,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 427910,
       "num": 277382,
       "word": "为什么大家渴望引导型恋人",
@@ -427,14 +443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 377368,
-      "num": 200207,
-      "word": "低成本穿衣得体的小tips",
-      "onboard_time": 1741509801,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 371416,
       "num": 371416,
       "word": "超600吨黄金流入美国",
@@ -449,14 +457,6 @@
       "onboard_time": 1741483581,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 368639,
-      "num": 368639,
-      "word": "我国医院开始设立体重门诊",
-      "onboard_time": 1741509682,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 362341,
@@ -555,20 +555,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 326619,
+      "num": 326619,
+      "word": "都说了宫内禁止对食",
+      "onboard_time": 1741510219,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 320714,
       "num": 275046,
       "word": "烟盒写建议被采纳82岁大爷回应走红",
       "onboard_time": 1741440562,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 315778,
-      "num": 198116,
-      "word": "都说了宫内禁止对食",
-      "onboard_time": 1741510219,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 314279,
@@ -620,7 +620,7 @@
     },
     {
       "raw_hot": 292375,
-      "num": 292375,
+      "num": 340533,
       "word": "2000年以前老旧小区要纳入城市更新改造",
       "onboard_time": 1741508180,
       "rank": 27,
@@ -683,8 +683,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 257809,
-      "num": 207537,
+      "raw_hot": 261301,
+      "num": 208098,
       "word": "长头发的杨肸子",
       "onboard_time": 1741508361,
       "rank": 41,
@@ -803,6 +803,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 211056,
+      "num": 211056,
+      "word": "AI被称相当于月薪2000实习生水平",
+      "onboard_time": 1741508180,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 208783,
       "num": 208783,
       "word": "王曼昱首轮对阵迪亚兹",
@@ -819,8 +827,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 206666,
-      "num": 206666,
+      "raw_hot": 208101,
+      "num": 208101,
       "word": "爱你",
       "onboard_time": 1741435103,
       "rank": 44,
@@ -875,6 +883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194486,
+      "num": 194486,
+      "word": "雷军谈小米汽车订单排队超半年",
+      "onboard_time": 1741510700,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 193796,
       "num": 280675,
       "word": "尼龙石凯本真大片",
@@ -899,12 +915,12 @@
       "category": "艺人,电竞"
     },
     {
-      "raw_hot": 190231,
-      "num": 190231,
-      "word": "AI被称相当于月薪2000实习生水平",
-      "onboard_time": 1741508180,
-      "rank": 33,
-      "category": "互联网"
+      "raw_hot": 190892,
+      "num": 190892,
+      "word": "DYG战胜KLG",
+      "onboard_time": 1741511840,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 187635,
@@ -971,20 +987,20 @@
       "category": "民生新闻,议题讨论"
     },
     {
-      "raw_hot": 177988,
-      "num": 177988,
-      "word": "雷军谈小米汽车订单排队超半年",
-      "onboard_time": 1741510700,
-      "rank": 33,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 177340,
       "num": 217283,
       "word": "爱你终于演到合欢这集",
       "onboard_time": 1741508361,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173256,
+      "num": 186106,
+      "word": "张远差点被自己礼服绊倒",
+      "onboard_time": 1741511600,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 171540,
@@ -1017,14 +1033,6 @@
       "onboard_time": 1741489340,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 166736,
-      "num": 166736,
-      "word": "DYG战胜KLG",
-      "onboard_time": 1741511840,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 166193,
@@ -1211,6 +1219,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 146084,
+      "num": 146084,
+      "word": "倒贴上班的八大表现",
+      "onboard_time": 1741512501,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 143700,
       "num": 221545,
       "word": "郑钦文教练团队换血",
@@ -1299,12 +1315,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 130469,
-      "num": 186106,
-      "word": "张远差点被自己礼服绊倒",
-      "onboard_time": 1741511600,
-      "rank": 29,
-      "category": "音乐"
+      "raw_hot": 126871,
+      "num": 126871,
+      "word": "道枝骏佑出发巴黎时装周",
+      "onboard_time": 1741511900,
+      "rank": 48,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 126525,
@@ -1385,6 +1401,14 @@
       "onboard_time": 1741504221,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121732,
+      "num": 170850,
+      "word": "刘浩存戏外姐姐戏里妈妈",
+      "onboard_time": 1741512440,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 121590,
@@ -1523,6 +1547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113457,
+      "num": 113457,
+      "word": "有些小懒猫根本不是抬脚走路",
+      "onboard_time": 1741511421,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 112893,
       "num": 112893,
       "word": "伊朗最高领袖称美国为霸凌政府",
@@ -1569,14 +1601,6 @@
       "onboard_time": 1741449322,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 109694,
-      "num": 109694,
-      "word": "有些小懒猫根本不是抬脚走路",
-      "onboard_time": 1741511421,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 108471,
@@ -1699,14 +1723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 100892,
-      "num": 100892,
-      "word": "道枝骏佑出发巴黎时装周",
-      "onboard_time": 1741511900,
-      "rank": 48,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 100645,
       "num": 100645,
       "word": "檀健次红毯压轴",
@@ -1825,6 +1841,14 @@
       "onboard_time": 1741490062,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90798,
+      "num": 90798,
+      "word": "虞书欣金靖你俩现在看起来特复杂",
+      "onboard_time": 1741512142,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 90248,
@@ -2003,6 +2027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 69917,
+      "num": 112482,
+      "word": "孙颖莎说希望呈现更精彩比赛",
+      "onboard_time": 1741512860,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66998,
       "num": 66998,
       "word": "dsn直播",
@@ -2123,6 +2155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29263,
+      "num": 440372,
+      "word": "全链条追踪代表建议的流转过程",
+      "onboard_time": 1741511061,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 26422,
       "num": 117923,
       "word": "钻石王牌续篇要来了",
@@ -2193,14 +2233,6 @@
       "onboard_time": 1741484840,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19734,
-      "num": 324953,
-      "word": "全链条追踪代表建议的流转过程",
-      "onboard_time": 1741511061,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 18147,

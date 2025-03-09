@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741511977313,
+  "endTime": 1741512931495,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1812,7 +1812,7 @@
     },
     {
       "raw_hot": 869457,
-      "num": 326402,
+      "num": 339735,
       "word": "桑延 男鬼",
       "onboard_time": 1741501821,
       "rank": 29,
@@ -2105,6 +2105,14 @@
       "onboard_time": 1740821063,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 791001,
+      "num": 791001,
+      "word": "我国医院开始设立体重门诊",
+      "onboard_time": 1741509682,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 787720,
@@ -2851,6 +2859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 647432,
+      "num": 647432,
+      "word": "哪吒2冲击全球TOP6",
+      "onboard_time": 1741509981,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 647257,
       "num": 647257,
       "word": "鲁A55X7E暴雪中拖完公交拖扫雪车",
@@ -3593,14 +3609,6 @@
       "onboard_time": 1740874876,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 558041,
-      "num": 558041,
-      "word": "哪吒2冲击全球TOP6",
-      "onboard_time": 1741509981,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 557756,
@@ -4739,6 +4747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 431491,
+      "num": 208099,
+      "word": "低成本穿衣得体的小tips",
+      "onboard_time": 1741509801,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 431248,
       "num": 431248,
       "word": "极简版政府工作报告",
@@ -5427,14 +5443,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 377368,
-      "num": 200207,
-      "word": "低成本穿衣得体的小tips",
-      "onboard_time": 1741509801,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 377068,
       "num": 303799,
       "word": "王安宇上海",
@@ -5569,14 +5577,6 @@
       "onboard_time": 1741483581,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 368639,
-      "num": 368639,
-      "word": "我国医院开始设立体重门诊",
-      "onboard_time": 1741509682,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 368631,
@@ -6443,6 +6443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 326619,
+      "num": 326619,
+      "word": "都说了宫内禁止对食",
+      "onboard_time": 1741510219,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 326099,
       "num": 265862,
       "word": "现在的美甲已经进化到这种程度了",
@@ -6633,14 +6641,6 @@
       "onboard_time": 1741326564,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 315778,
-      "num": 198116,
-      "word": "都说了宫内禁止对食",
-      "onboard_time": 1741510219,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 315241,
@@ -7228,7 +7228,7 @@
     },
     {
       "raw_hot": 292375,
-      "num": 292375,
+      "num": 340533,
       "word": "2000年以前老旧小区要纳入城市更新改造",
       "onboard_time": 1741508180,
       "rank": 27,
@@ -8163,6 +8163,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 261301,
+      "num": 208098,
+      "word": "长头发的杨肸子",
+      "onboard_time": 1741508361,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 260280,
       "num": 260280,
       "word": "惊蛰",
@@ -8241,14 +8249,6 @@
       "onboard_time": 1741397960,
       "rank": 22,
       "category": "数码"
-    },
-    {
-      "raw_hot": 257809,
-      "num": 207537,
-      "word": "长头发的杨肸子",
-      "onboard_time": 1741508361,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 255551,
@@ -9843,6 +9843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211056,
+      "num": 211056,
+      "word": "AI被称相当于月薪2000实习生水平",
+      "onboard_time": 1741508180,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 210854,
       "num": 210854,
       "word": "kfc 第五人格",
@@ -11027,6 +11035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194486,
+      "num": 194486,
+      "word": "雷军谈小米汽车订单排队超半年",
+      "onboard_time": 1741510700,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 194382,
       "num": 190783,
       "word": "白鹿北上开播文",
@@ -11307,20 +11323,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190892,
+      "num": 190892,
+      "word": "DYG战胜KLG",
+      "onboard_time": 1741511840,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 190389,
       "num": 190388,
       "word": "土象星座真心喜欢你的表现",
       "onboard_time": 1741271181,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 190231,
-      "num": 190231,
-      "word": "AI被称相当于月薪2000实习生水平",
-      "onboard_time": 1741508180,
-      "rank": 33,
-      "category": "互联网"
     },
     {
       "raw_hot": 190115,
@@ -12251,14 +12267,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 177988,
-      "num": 177988,
-      "word": "雷军谈小米汽车订单排队超半年",
-      "onboard_time": 1741510700,
-      "rank": 33,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 177939,
       "num": 352418,
       "word": "金珉锡方控诉KBS不公平待遇",
@@ -12657,6 +12665,14 @@
       "onboard_time": 1741400120,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173256,
+      "num": 186106,
+      "word": "张远差点被自己礼服绊倒",
+      "onboard_time": 1741511600,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 173001,
@@ -13209,14 +13225,6 @@
       "onboard_time": 1741489340,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 166736,
-      "num": 166736,
-      "word": "DYG战胜KLG",
-      "onboard_time": 1741511840,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 166640,
@@ -15355,6 +15363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146084,
+      "num": 146084,
+      "word": "倒贴上班的八大表现",
+      "onboard_time": 1741512501,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 146027,
       "num": 146027,
       "word": "黄子弘凡马尔代夫度假vlog",
@@ -16899,14 +16915,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 130469,
-      "num": 186106,
-      "word": "张远差点被自己礼服绊倒",
-      "onboard_time": 1741511600,
-      "rank": 29,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 130432,
       "num": 130432,
       "word": "狗狗坐电梯也没忘了疼人",
@@ -17321,6 +17329,14 @@
       "onboard_time": 1741197551,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 126871,
+      "num": 126871,
+      "word": "道枝骏佑出发巴黎时装周",
+      "onboard_time": 1741511900,
+      "rank": 48,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 126844,
@@ -18017,6 +18033,14 @@
       "onboard_time": 1741130476,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121732,
+      "num": 170850,
+      "word": "刘浩存戏外姐姐戏里妈妈",
+      "onboard_time": 1741512440,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 121712,
@@ -18907,6 +18931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113457,
+      "num": 113457,
+      "word": "有些小懒猫根本不是抬脚走路",
+      "onboard_time": 1741511421,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 113407,
       "num": 113407,
       "word": "原来暧昧拉扯比直接谈甜多了",
@@ -19361,14 +19393,6 @@
       "onboard_time": 1741391359,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 109694,
-      "num": 109694,
-      "word": "有些小懒猫根本不是抬脚走路",
-      "onboard_time": 1741511421,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 109539,
@@ -20451,14 +20475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 100892,
-      "num": 100892,
-      "word": "道枝骏佑出发巴黎时装周",
-      "onboard_time": 1741511900,
-      "rank": 48,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 100785,
       "num": 100785,
       "word": "王栎鑫妇女节送粉丝玫瑰花",
@@ -21465,6 +21481,14 @@
       "onboard_time": 1740728358,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90798,
+      "num": 90798,
+      "word": "虞书欣金靖你俩现在看起来特复杂",
+      "onboard_time": 1741512142,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 90768,
@@ -22841,6 +22865,14 @@
       "onboard_time": 1741447463,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 69917,
+      "num": 112482,
+      "word": "孙颖莎说希望呈现更精彩比赛",
+      "onboard_time": 1741512860,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 69841,
@@ -25691,6 +25723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29263,
+      "num": 440372,
+      "word": "全链条追踪代表建议的流转过程",
+      "onboard_time": 1741511061,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 29172,
       "num": 239671,
       "word": "建议让骑手等群体社保转移更方便些",
@@ -26529,14 +26569,6 @@
       "onboard_time": 1741260200,
       "rank": 29,
       "category": "国内时政,财经"
-    },
-    {
-      "raw_hot": 19734,
-      "num": 324953,
-      "word": "全链条追踪代表建议的流转过程",
-      "onboard_time": 1741511061,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 19663,
