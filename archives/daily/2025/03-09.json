@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741515784117,
+  "endTime": 1741516722777,
   "band_list": [
     {
       "raw_hot": 2301647,
@@ -35,6 +35,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1155557,
+      "num": 620880,
+      "word": "韩国人开始大量买入中国股票",
+      "onboard_time": 1741509682,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1121027,
       "num": 1179364,
       "word": "人大代表呼吁废除35岁就业门槛",
@@ -57,14 +65,6 @@
       "onboard_time": 1741482739,
       "rank": 19,
       "category": "民生新闻,艺人"
-    },
-    {
-      "raw_hot": 1046980,
-      "num": 620880,
-      "word": "韩国人开始大量买入中国股票",
-      "onboard_time": 1741509682,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1033332,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 773990,
-      "num": 647432,
+      "num": 652744,
       "word": "哪吒2冲击全球TOP6",
       "onboard_time": 1741509981,
       "rank": 3,
@@ -243,6 +243,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 684457,
+      "num": 684457,
+      "word": "住宅层高标准将不低于3米",
+      "onboard_time": 1741513881,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 680196,
       "num": 280921,
       "word": "男子离婚后跟踪殴打前妻被认定家暴",
@@ -275,20 +283,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 644007,
-      "num": 644007,
-      "word": "住宅层高标准将不低于3米",
-      "onboard_time": 1741513881,
-      "rank": 4,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 633453,
       "num": 633453,
       "word": "外交部发布重磅视频",
       "onboard_time": 1741501580,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 627184,
+      "num": 269632,
+      "word": "欧阳娜娜美貌比飞机先落地巴黎",
+      "onboard_time": 1741514419,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 621711,
@@ -363,14 +371,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 485413,
-      "num": 243243,
-      "word": "欧阳娜娜美貌比飞机先落地巴黎",
-      "onboard_time": 1741514419,
-      "rank": 13,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 478303,
       "num": 303354,
       "word": "唐奇苏橙橙官宣恋情",
@@ -427,6 +427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 428344,
+      "num": 402612,
+      "word": "等了14集男女主终于看对眼了",
+      "onboard_time": 1741514181,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 427910,
       "num": 277382,
       "word": "为什么大家渴望引导型恋人",
@@ -449,6 +457,14 @@
       "onboard_time": 1741463834,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 395568,
+      "num": 395568,
+      "word": "成都人用deepseek搜了啥",
+      "onboard_time": 1741514301,
+      "rank": 20,
+      "category": "互联网"
     },
     {
       "raw_hot": 387488,
@@ -489,6 +505,14 @@
       "onboard_time": 1741478538,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 360975,
+      "num": 192404,
+      "word": "王大陆的手机又被查出新案",
+      "onboard_time": 1741516399,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 359969,
@@ -579,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 331169,
+      "num": 237730,
+      "word": "袁咏仪能不化妆就不化妆",
+      "onboard_time": 1741515382,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 320714,
       "num": 275046,
       "word": "烟盒写建议被采纳82岁大爷回应走红",
@@ -619,14 +651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 294683,
-      "num": 294683,
-      "word": "等了14集男女主终于看对眼了",
-      "onboard_time": 1741514181,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 294317,
       "num": 294317,
       "word": "你好星期六下期是凡人修仙传",
@@ -665,6 +689,14 @@
       "onboard_time": 1741490901,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 288596,
+      "num": 288596,
+      "word": "将稳步提高养老保险待遇水平",
+      "onboard_time": 1741516399,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 286563,
@@ -835,6 +867,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 212033,
+      "num": 192329,
+      "word": "杨紫李现锦绣芳华开启招商",
+      "onboard_time": 1741515860,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208783,
       "num": 208783,
       "word": "王曼昱首轮对阵迪亚兹",
@@ -891,14 +931,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199697,
-      "num": 199697,
-      "word": "成都人用deepseek搜了啥",
-      "onboard_time": 1741514301,
-      "rank": 20,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 197583,
       "num": 357479,
       "word": "华晨宇时隔七年唱孩子",
@@ -912,6 +944,14 @@
       "word": "冰湖重生官微回应张康乐发烧",
       "onboard_time": 1741496303,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 196412,
+      "num": 196412,
+      "word": "桑延人间妄想",
+      "onboard_time": 1741515561,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -953,14 +993,6 @@
       "onboard_time": 1741511840,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 190029,
-      "num": 190029,
-      "word": "袁咏仪能不化妆就不化妆",
-      "onboard_time": 1741515382,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 187635,
@@ -1243,6 +1275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150790,
+      "num": 271152,
+      "word": "我国航天员开始为登月做准备",
+      "onboard_time": 1741514601,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 150223,
       "num": 150223,
       "word": "林忆莲台下混进真女儿了",
@@ -1257,6 +1297,14 @@
       "onboard_time": 1741498040,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 148987,
+      "num": 150849,
+      "word": "爱你里有毕雯珺",
+      "onboard_time": 1741515622,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 148709,
@@ -1289,6 +1337,14 @@
       "onboard_time": 1741486220,
       "rank": 37,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 143066,
+      "num": 143066,
+      "word": "不是蟑螂 而是令郎",
+      "onboard_time": 1741513761,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 141333,
@@ -1651,14 +1707,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 108792,
-      "num": 108792,
-      "word": "爱你里有毕雯珺",
-      "onboard_time": 1741515622,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 108471,
       "num": 108471,
       "word": "2月全国居民消费价格同比下降0.7%",
@@ -1731,12 +1779,12 @@
       "category": "民生新闻,国内时政"
     },
     {
-      "raw_hot": 105433,
-      "num": 271152,
-      "word": "我国航天员开始为登月做准备",
-      "onboard_time": 1741514601,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 105164,
+      "num": 105164,
+      "word": "美国一州长喊话美国人说你被骗了",
+      "onboard_time": 1741516461,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 104785,
@@ -1753,6 +1801,14 @@
       "onboard_time": 1741500321,
       "rank": 14,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 103323,
+      "num": 103323,
+      "word": "全国将启用12356心理援助热线",
+      "onboard_time": 1741516702,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 103142,
@@ -1819,14 +1875,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 100036,
-      "num": 100036,
-      "word": "桑延人间妄想",
-      "onboard_time": 1741515561,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 99991,
       "num": 99991,
       "word": "湖人vs凯尔特人",
@@ -1859,6 +1907,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 97528,
+      "num": 97528,
+      "word": "虞书欣腹语说看我",
+      "onboard_time": 1741515682,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97093,
       "num": 97093,
       "word": "虎门晚霞盛宴让人沉醉",
@@ -1889,14 +1945,6 @@
       "onboard_time": 1741493720,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 92627,
-      "num": 92627,
-      "word": "不是蟑螂 而是令郎",
-      "onboard_time": 1741513761,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 92339,
@@ -1947,6 +1995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90861,
+      "num": 90861,
+      "word": "檀健次拳头吻",
+      "onboard_time": 1741516219,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90798,
       "num": 90798,
       "word": "虞书欣金靖你俩现在看起来特复杂",
@@ -1995,12 +2051,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 85781,
-      "num": 85781,
-      "word": "虞书欣腹语说看我",
-      "onboard_time": 1741515682,
-      "rank": 47,
-      "category": "剧集"
+      "raw_hot": 83169,
+      "num": 83169,
+      "word": "刘洋说期待再度奔赴太空",
+      "onboard_time": 1741515382,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 82859,
@@ -2219,6 +2275,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 41920,
+      "num": 192404,
+      "word": "董明珠呼吁规范二手家电市场秩序",
+      "onboard_time": 1741515141,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 40930,
       "num": 154371,
       "word": "为什么东方明珠变绿了",
@@ -2257,14 +2321,6 @@
       "onboard_time": 1741458675,
       "rank": 42,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 31283,
-      "num": 157582,
-      "word": "董明珠呼吁规范二手家电市场秩序",
-      "onboard_time": 1741515141,
-      "rank": 27,
-      "category": "国内时政"
     },
     {
       "raw_hot": 30794,
