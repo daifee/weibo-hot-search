@@ -1,10 +1,10 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741494159117,
+  "endTime": 1741494988812,
   "band_list": [
     {
       "raw_hot": 2301647,
-      "num": 313085,
+      "num": 372936,
       "word": "素颜小姐姐艺考被卸3次妆",
       "onboard_time": 1741489099,
       "rank": 10,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1062330,
-      "num": 309986,
+      "num": 354090,
       "word": "民警喊檀健次的老婆听取哎声一片",
       "onboard_time": 1741482739,
       "rank": 19,
@@ -41,6 +41,14 @@
       "onboard_time": 1741485321,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 842975,
+      "num": 600487,
+      "word": "丁程鑫用deepseek写的三行诗",
+      "onboard_time": 1741493001,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 816160,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 798394,
-      "num": 311803,
+      "num": 365384,
       "word": "张云雷瘦了35斤",
       "onboard_time": 1741489099,
       "rank": 11,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 773996,
-      "num": 180857,
+      "num": 237334,
       "word": "赵露思与好友逛街",
       "onboard_time": 1741491261,
       "rank": 30,
@@ -139,6 +147,14 @@
       "category": "海外新闻,体育"
     },
     {
+      "raw_hot": 596630,
+      "num": 596630,
+      "word": "詹姆斯腹股沟拉伤",
+      "onboard_time": 1741493421,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 496925,
       "num": 270814,
       "word": "小米SU7Ultra车主深夜城区飙车",
@@ -155,14 +171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 493412,
-      "num": 493412,
-      "word": "丁程鑫用deepseek写的三行诗",
-      "onboard_time": 1741493001,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 475590,
       "num": 304237,
       "word": "虞书欣模仿小石矶娘娘",
@@ -177,6 +185,14 @@
       "onboard_time": 1741483219,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 455545,
+      "num": 455545,
+      "word": "薛凯琪演唱会",
+      "onboard_time": 1741493601,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 448524,
@@ -217,14 +233,6 @@
       "onboard_time": 1741463834,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 396742,
-      "num": 396742,
-      "word": "詹姆斯腹股沟拉伤",
-      "onboard_time": 1741493421,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 387488,
@@ -379,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263941,
+      "num": 321400,
+      "word": "三亚客房退订新规",
+      "onboard_time": 1741493960,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 256510,
       "num": 256510,
       "word": "贵女",
@@ -435,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213136,
+      "num": 213136,
+      "word": "难哄",
+      "onboard_time": 1741493840,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208545,
       "num": 208545,
       "word": "叙利亚西部冲突已致超400死",
@@ -443,11 +467,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 206997,
-      "num": 206997,
-      "word": "薛凯琪演唱会",
-      "onboard_time": 1741493601,
-      "rank": 19,
+      "raw_hot": 201749,
+      "num": 201749,
+      "word": "赵樱子谈及原生家庭崩溃大哭",
+      "onboard_time": 1741494802,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -475,6 +499,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 192813,
+      "num": 180787,
+      "word": "委员称有些癌症已变成慢性病",
+      "onboard_time": 1741494740,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 192805,
       "num": 192805,
       "word": "苏新皓镜头被挡",
@@ -491,20 +523,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 176529,
-      "num": 151252,
+      "raw_hot": 180820,
+      "num": 180820,
+      "word": "杨迪说从没见过deepseek这样回话",
+      "onboard_time": 1741492281,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 180751,
+      "num": 180751,
       "word": "NBA",
       "onboard_time": 1741492880,
       "rank": 25,
       "category": "体育"
     },
     {
-      "raw_hot": 175526,
-      "num": 139404,
-      "word": "杨迪说从没见过deepseek这样回话",
-      "onboard_time": 1741492281,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 178708,
+      "num": 178708,
+      "word": "保洁阿姨应该有自己的休息间",
+      "onboard_time": 1741494201,
+      "rank": 32,
+      "category": "民生新闻,议题讨论"
     },
     {
       "raw_hot": 171540,
@@ -516,7 +556,7 @@
     },
     {
       "raw_hot": 166799,
-      "num": 149890,
+      "num": 165346,
       "word": "宁艺卓自述十年之路",
       "onboard_time": 1741489340,
       "rank": 32,
@@ -529,6 +569,22 @@
       "onboard_time": 1741450521,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165718,
+      "num": 186779,
+      "word": "爱你超点",
+      "onboard_time": 1741493601,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 163484,
+      "num": 163484,
+      "word": "中国伊朗俄罗斯海军将举行联演",
+      "onboard_time": 1741493481,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 162750,
@@ -545,6 +601,14 @@
       "onboard_time": 1741437320,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 162179,
+      "num": 182474,
+      "word": "尹子维连线教英语把网友吓跑了",
+      "onboard_time": 1741494261,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 161084,
@@ -643,12 +707,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 139844,
-      "num": 139844,
-      "word": "爱你超点",
-      "onboard_time": 1741493601,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 140158,
+      "num": 140158,
+      "word": "马思纯手动澄清直播没开瘦脸",
+      "onboard_time": 1741494682,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 137560,
@@ -657,6 +721,14 @@
       "onboard_time": 1741493121,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 137450,
+      "num": 137450,
+      "word": "语文课本上的小女孩走进现实了",
+      "onboard_time": 1741494740,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134556,
@@ -675,20 +747,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 130266,
-      "num": 130266,
-      "word": "难哄",
-      "onboard_time": 1741493840,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 128330,
-      "num": 128330,
-      "word": "中国伊朗俄罗斯海军将举行联演",
-      "onboard_time": 1741493481,
-      "rank": 39,
-      "category": "国际时政"
+      "raw_hot": 124747,
+      "num": 124747,
+      "word": "活塞vs勇士",
+      "onboard_time": 1741489099,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 123634,
@@ -699,8 +763,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 119161,
-      "num": 119161,
+      "raw_hot": 119858,
+      "num": 119858,
       "word": "眼泪女王周年宴",
       "onboard_time": 1741491440,
       "rank": 42,
@@ -755,6 +819,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 115118,
+      "num": 115118,
+      "word": "大连发生1.7级地震",
+      "onboard_time": 1741494321,
+      "rank": 46,
+      "category": "民生新闻,国内时政"
+    },
+    {
+      "raw_hot": 115063,
+      "num": 115063,
+      "word": "天下并不太平和平需要捍卫",
+      "onboard_time": 1741494682,
+      "rank": 47,
+      "category": "国内时政,民生新闻"
+    },
+    {
       "raw_hot": 114248,
       "num": 113405,
       "word": "宋茜出发巴黎时装周",
@@ -795,6 +875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 111544,
+      "num": 111544,
+      "word": "杭州六小龙让广东兄弟摩拳擦掌",
+      "onboard_time": 1741494442,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 111196,
       "num": 276320,
       "word": "雨雪大风沙尘组团来袭",
@@ -820,7 +908,7 @@
     },
     {
       "raw_hot": 107956,
-      "num": 122185,
+      "num": 163755,
       "word": "浓眉谈与东契奇互换东家",
       "onboard_time": 1741484240,
       "rank": 32,
@@ -1123,20 +1211,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 54215,
+      "num": 658420,
+      "word": "10个创意字解读政府工作报告",
+      "onboard_time": 1741493960,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 50084,
+      "num": 383021,
+      "word": "建议依法惩治虚假保健广告",
+      "onboard_time": 1741493900,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46378,
       "num": 208079,
       "word": "柬埔寨警方突袭电诈园区",
       "onboard_time": 1741446922,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 42963,
-      "num": 658420,
-      "word": "10个创意字解读政府工作报告",
-      "onboard_time": 1741493960,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 40930,
@@ -1160,22 +1256,6 @@
       "word": "如何斩断偷拍产业链",
       "onboard_time": 1741479979,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34707,
-      "num": 139141,
-      "word": "三亚客房退订新规",
-      "onboard_time": 1741493960,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33462,
-      "num": 172073,
-      "word": "建议依法惩治虚假保健广告",
-      "onboard_time": 1741493900,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -1267,6 +1347,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 17393,
+      "num": 338368,
+      "word": "快来查收你的2025民生礼包",
+      "onboard_time": 1741494620,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 12649,
       "num": 20005,
       "word": "全国人大代表们送你一朵小红花",
@@ -1329,6 +1417,9 @@
     },
     {
       "word": "#习近平的两会之问#"
+    },
+    {
+      "word": "#总书记那些两会妙喻#"
     }
   ]
 }

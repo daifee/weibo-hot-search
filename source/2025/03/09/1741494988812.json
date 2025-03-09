@@ -1,0 +1,410 @@
+{
+  "runTime": 1741494988812,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1041878,
+        "num": 1166700,
+        "word": "人大代表呼吁废除35岁就业门槛",
+        "onboard_time": 1741489220,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 643182,
+        "num": 643182,
+        "word": "台湾最大的靠山就是祖国",
+        "onboard_time": 1741491141,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 54215,
+        "num": 601803,
+        "word": "10个创意字解读政府工作报告",
+        "onboard_time": 1741493960,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 842975,
+        "num": 600487,
+        "word": "丁程鑫用deepseek写的三行诗",
+        "onboard_time": 1741493001,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 596630,
+        "num": 596630,
+        "word": "詹姆斯腹股沟拉伤",
+        "onboard_time": 1741493421,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 536533,
+        "num": 536533,
+        "word": "天津公厕紫外线自动消杀惊呆市民",
+        "onboard_time": 1741488200,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 455545,
+        "num": 455545,
+        "word": "薛凯琪演唱会",
+        "onboard_time": 1741493601,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397003,
+        "num": 397003,
+        "word": "花少7拟邀",
+        "onboard_time": 1741488379,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 387622,
+        "num": 387622,
+        "word": "大连地震",
+        "onboard_time": 1741493001,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50084,
+        "num": 383021,
+        "word": "建议依法惩治虚假保健广告",
+        "onboard_time": 1741493900,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1646664,
+        "num": 372936,
+        "word": "素颜小姐姐艺考被卸3次妆",
+        "onboard_time": 1741489099,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 747500,
+        "num": 365384,
+        "word": "张云雷瘦了35斤",
+        "onboard_time": 1741489099,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417535,
+        "num": 354090,
+        "word": "民警喊檀健次的老婆听取哎声一片",
+        "onboard_time": 1741482739,
+        "rank": 12,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 17393,
+        "num": 338368,
+        "word": "快来查收你的2025民生礼包",
+        "onboard_time": 1741494620,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 263941,
+        "num": 321400,
+        "word": "三亚客房退订新规",
+        "onboard_time": 1741493960,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321053,
+        "num": 321053,
+        "word": "手语版天雷滚滚好有感染力",
+        "onboard_time": 1741479738,
+        "rank": 15,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 290423,
+        "num": 290423,
+        "word": "爱你婚礼邀请函",
+        "onboard_time": 1741490901,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285974,
+        "num": 285974,
+        "word": "石矶娘娘反诈宣传",
+        "onboard_time": 1741491921,
+        "rank": 17,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 272146,
+        "num": 272146,
+        "word": "虞书欣模仿小石矶娘娘",
+        "onboard_time": 1741482440,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243342,
+        "num": 243342,
+        "word": "贵女",
+        "onboard_time": 1741489400,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 768227,
+        "num": 237334,
+        "word": "赵露思与好友逛街",
+        "onboard_time": 1741491261,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283090,
+        "num": 230085,
+        "word": "25岁女孩一天4杯咖啡致骨质疏松",
+        "onboard_time": 1741483581,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221886,
+        "num": 221886,
+        "word": "为什么大家渴望引导型恋人",
+        "onboard_time": 1741486161,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218978,
+        "num": 218978,
+        "word": "粉笔模考",
+        "onboard_time": 1741489941,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 213136,
+        "num": 213136,
+        "word": "难哄",
+        "onboard_time": 1741493840,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201749,
+        "num": 201749,
+        "word": "赵樱子谈及原生家庭崩溃大哭",
+        "onboard_time": 1741494802,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196006,
+        "num": 196006,
+        "word": "前加拿大奥运选手成跨国大毒枭",
+        "onboard_time": 1741482620,
+        "rank": 26,
+        "category": "海外新闻,体育"
+      },
+      {
+        "raw_hot": 165718,
+        "num": 186779,
+        "word": "爱你超点",
+        "onboard_time": 1741493601,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162179,
+        "num": 182474,
+        "word": "尹子维连线教英语把网友吓跑了",
+        "onboard_time": 1741494261,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180820,
+        "num": 180820,
+        "word": "杨迪说从没见过deepseek这样回话",
+        "onboard_time": 1741492281,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192813,
+        "num": 180787,
+        "word": "委员称有些癌症已变成慢性病",
+        "onboard_time": 1741494740,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 180751,
+        "num": 180751,
+        "word": "NBA",
+        "onboard_time": 1741492880,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178708,
+        "num": 178708,
+        "word": "保洁阿姨应该有自己的休息间",
+        "onboard_time": 1741494201,
+        "rank": 32,
+        "category": "民生新闻,议题讨论"
+      },
+      {
+        "raw_hot": 168463,
+        "num": 168463,
+        "word": "小米SU7Ultra车主深夜城区飙车",
+        "onboard_time": 1741476376,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 165346,
+        "num": 165346,
+        "word": "宁艺卓自述十年之路",
+        "onboard_time": 1741489340,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33682,
+        "num": 163755,
+        "word": "浓眉谈与东契奇互换东家",
+        "onboard_time": 1741484240,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163484,
+        "num": 163484,
+        "word": "中国伊朗俄罗斯海军将举行联演",
+        "onboard_time": 1741493481,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151018,
+        "num": 151018,
+        "word": "吴艳妮60米栏8秒10夺冠",
+        "onboard_time": 1741478538,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147843,
+        "num": 147843,
+        "word": "时代峰峻辟谣朱志鑫网传账号",
+        "onboard_time": 1741480578,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140158,
+        "num": 140158,
+        "word": "马思纯手动澄清直播没开瘦脸",
+        "onboard_time": 1741494682,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137450,
+        "num": 137450,
+        "word": "语文课本上的小女孩走进现实了",
+        "onboard_time": 1741494740,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131676,
+        "num": 131676,
+        "word": "冰湖重生",
+        "onboard_time": 1741482019,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131390,
+        "num": 131390,
+        "word": "雷军回应国庆7天AI雷军骂了8天",
+        "onboard_time": 1741477637,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124747,
+        "num": 124747,
+        "word": "活塞vs勇士",
+        "onboard_time": 1741489099,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119858,
+        "num": 119858,
+        "word": "眼泪女王周年宴",
+        "onboard_time": 1741491440,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122668,
+        "num": 117955,
+        "word": "谷爱凌锁骨受伤",
+        "onboard_time": 1741483219,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115118,
+        "num": 115118,
+        "word": "大连发生1.7级地震",
+        "onboard_time": 1741494321,
+        "rank": 46,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 115063,
+        "num": 115063,
+        "word": "天下并不太平和平需要捍卫",
+        "onboard_time": 1741494682,
+        "rank": 47,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 111544,
+        "num": 111544,
+        "word": "杭州六小龙让广东兄弟摩拳擦掌",
+        "onboard_time": 1741494442,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 109873,
+        "num": 109873,
+        "word": "苏新皓镜头被挡",
+        "onboard_time": 1741490062,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记那些两会妙喻#"
+    }
+  }
+}
