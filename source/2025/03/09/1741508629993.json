@@ -1,0 +1,410 @@
+{
+  "runTime": 1741508629993,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 929433,
+        "num": 1148709,
+        "word": "东方白鹳被无人机绞断双腿",
+        "onboard_time": 1741500742,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 752933,
+        "num": 752933,
+        "word": "今年高校毕业生1222万人",
+        "onboard_time": 1741505361,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 10526,
+        "num": 634474,
+        "word": "AI创意海报看2025民生举措",
+        "onboard_time": 1741484840,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 600091,
+        "num": 600091,
+        "word": "我国人均预期寿命达79岁",
+        "onboard_time": 1741507100,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 422228,
+        "num": 422228,
+        "word": "爱你婚礼用了600斤手拨花瓣",
+        "onboard_time": 1741507879,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 412328,
+        "num": 412328,
+        "word": "外交部发布重磅视频",
+        "onboard_time": 1741501580,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 359969,
+        "num": 359969,
+        "word": "人社部谈2025年就业",
+        "onboard_time": 1741505781,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 197476,
+        "num": 357479,
+        "word": "华晨宇时隔七年唱孩子",
+        "onboard_time": 1741506081,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 292001,
+        "num": 353295,
+        "word": "王楚钦莫雷加德同区",
+        "onboard_time": 1741506801,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135293,
+        "num": 349070,
+        "word": "依法查处就业歧视",
+        "onboard_time": 1741506981,
+        "rank": 9,
+        "category": "民生新闻,国内时政"
+      },
+      {
+        "raw_hot": 245097,
+        "num": 342004,
+        "word": "孙颖莎大藤沙月重庆赛同区",
+        "onboard_time": 1741507762,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36756,
+        "num": 334627,
+        "word": "10个创意字解读政府工作报告",
+        "onboard_time": 1741493960,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 938805,
+        "num": 331679,
+        "word": "大疆不强制9点上班开始强制9点下班",
+        "onboard_time": 1741496481,
+        "rank": 12,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 799821,
+        "num": 326402,
+        "word": "桑延 男鬼",
+        "onboard_time": 1741501821,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 649432,
+        "num": 322284,
+        "word": "刘晓艳说最顶级的教养就是从不拆穿",
+        "onboard_time": 1741500800,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 640328,
+        "num": 314721,
+        "word": "素颜小姐姐艺考被卸3次妆",
+        "onboard_time": 1741489099,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 511459,
+        "num": 310179,
+        "word": "陈妍希黄磊何炅合照",
+        "onboard_time": 1741500862,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 478303,
+        "num": 303354,
+        "word": "唐奇苏橙橙官宣恋情",
+        "onboard_time": 1741505062,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 427829,
+        "num": 299528,
+        "word": "叔叔你是陈飞宇哥哥吗",
+        "onboard_time": 1741499361,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297740,
+        "num": 297740,
+        "word": "WTT抽签",
+        "onboard_time": 1741503863,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 409359,
+        "num": 280921,
+        "word": "男子离婚后跟踪殴打前妻被认定家暴",
+        "onboard_time": 1741502600,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262636,
+        "num": 262636,
+        "word": "民生主题记者会",
+        "onboard_time": 1741504161,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 166469,
+        "num": 254330,
+        "word": "实施体重管理年3年行动",
+        "onboard_time": 1741508300,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 252205,
+        "num": 252205,
+        "word": "委员称有些癌症已变成慢性病",
+        "onboard_time": 1741494740,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 65332,
+        "num": 230355,
+        "word": "郑钦文赛后致谢美国记者连说不客气",
+        "onboard_time": 1741503141,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216933,
+        "num": 216933,
+        "word": "祖国必然统一是实力使然民心所向",
+        "onboard_time": 1741496241,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 208783,
+        "num": 208783,
+        "word": "王曼昱首轮对阵迪亚兹",
+        "onboard_time": 1741506563,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202279,
+        "num": 202279,
+        "word": "2000年以前老旧小区要纳入城市更新改造",
+        "onboard_time": 1741508180,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 168814,
+        "num": 200687,
+        "word": "苏橙橙手镯借我戴几天",
+        "onboard_time": 1741507400,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151800,
+        "num": 200587,
+        "word": "翟潇闻跳创造营主题曲",
+        "onboard_time": 1741507281,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200552,
+        "num": 200552,
+        "word": "海底捞",
+        "onboard_time": 1741495041,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195097,
+        "num": 195097,
+        "word": "丁程鑫用deepseek写的三行诗",
+        "onboard_time": 1741493001,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191604,
+        "num": 191604,
+        "word": "戚薇提醒做医美要适度",
+        "onboard_time": 1741497261,
+        "rank": 32,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 181994,
+        "num": 181994,
+        "word": "AI被称相当于月薪2000实习生水平",
+        "onboard_time": 1741508180,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 175234,
+        "num": 175234,
+        "word": "白鹿明媚高马尾",
+        "onboard_time": 1741503261,
+        "rank": 34,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 173291,
+        "num": 173291,
+        "word": "张云雷瘦了35斤",
+        "onboard_time": 1741489099,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161812,
+        "num": 161812,
+        "word": "赵露思与好友逛街",
+        "onboard_time": 1741491261,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159836,
+        "num": 159836,
+        "word": "蔡明菜市场劝架阻止家长打孩子",
+        "onboard_time": 1741497680,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145820,
+        "num": 145820,
+        "word": "男子直播间抢了俩椅子还没巴掌大",
+        "onboard_time": 1741505899,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141523,
+        "num": 141523,
+        "word": "三亚客房退订新规",
+        "onboard_time": 1741493960,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138988,
+        "num": 138988,
+        "word": "爱你终于演到合欢这集",
+        "onboard_time": 1741508361,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138167,
+        "num": 138167,
+        "word": "长头发的杨肸子",
+        "onboard_time": 1741508361,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135392,
+        "num": 135392,
+        "word": "人大代表呼吁废除35岁就业门槛",
+        "onboard_time": 1741489220,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134029,
+        "num": 134029,
+        "word": "奶奶农忙把孙儿和婴儿床带到地里",
+        "onboard_time": 1741501161,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125369,
+        "num": 125369,
+        "word": "桑延温以凡浴室吻",
+        "onboard_time": 1741497981,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122697,
+        "num": 122697,
+        "word": "辛芷蕾喜欢背包帅哥不是秘密",
+        "onboard_time": 1741504221,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111124,
+        "num": 111124,
+        "word": "陈妍希说要学会接受和放下",
+        "onboard_time": 1741501462,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108425,
+        "num": 108425,
+        "word": "小孩哥直奔孙颖莎立牌大喊莎莎",
+        "onboard_time": 1741506321,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104236,
+        "num": 104236,
+        "word": "男生看到地铁座椅血迹主动擦干净",
+        "onboard_time": 1741503381,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98683,
+        "num": 98683,
+        "word": "薛凯琪演唱会",
+        "onboard_time": 1741493601,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记那些两会妙喻#"
+    }
+  }
+}
