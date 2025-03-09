@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741494988812,
+  "endTime": 1741497536537,
   "band_list": [
     {
       "raw_hot": 2301647,
@@ -27,12 +27,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1117559,
+      "num": 1178809,
+      "word": "三亚客房退订新规",
+      "onboard_time": 1741493960,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1062330,
       "num": 354090,
       "word": "民警喊檀健次的老婆听取哎声一片",
       "onboard_time": 1741482739,
       "rank": 19,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 1033332,
+      "num": 320133,
+      "word": "海底捞",
+      "onboard_time": 1741495041,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 847471,
@@ -49,6 +65,14 @@
       "onboard_time": 1741493001,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 819224,
+      "num": 319309,
+      "word": "何猷君晒全家福给奚梦瑶庆生",
+      "onboard_time": 1741495220,
+      "rank": 12,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 816160,
@@ -84,7 +108,7 @@
     },
     {
       "raw_hot": 773996,
-      "num": 237334,
+      "num": 272336,
       "word": "赵露思与好友逛街",
       "onboard_time": 1741491261,
       "rank": 30,
@@ -113,6 +137,14 @@
       "onboard_time": 1741444703,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 701283,
+      "num": 701283,
+      "word": "委员称有些癌症已变成慢性病",
+      "onboard_time": 1741494740,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 676614,
@@ -177,6 +209,14 @@
       "onboard_time": 1741482440,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 467701,
+      "num": 467701,
+      "word": "大疆不强制9点上班开始强制9点下班",
+      "onboard_time": 1741496481,
+      "rank": 5,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 461885,
@@ -252,7 +292,7 @@
     },
     {
       "raw_hot": 368664,
-      "num": 255891,
+      "num": 259897,
       "word": "25岁女孩一天4杯咖啡致骨质疏松",
       "onboard_time": 1741483581,
       "rank": 20,
@@ -265,6 +305,14 @@
       "onboard_time": 1741478538,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 359019,
+      "num": 314466,
+      "word": "马思纯手动澄清直播没开瘦脸",
+      "onboard_time": 1741494682,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 354929,
@@ -281,6 +329,14 @@
       "onboard_time": 1741430661,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 342988,
+      "num": 342988,
+      "word": "祖国必然统一是实力使然民心所向",
+      "onboard_time": 1741496241,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 334597,
@@ -321,6 +377,14 @@
       "onboard_time": 1741491921,
       "rank": 9,
       "category": "民生新闻,电影"
+    },
+    {
+      "raw_hot": 312280,
+      "num": 312280,
+      "word": "刘诗诗新剧情绪爆发力",
+      "onboard_time": 1741495822,
+      "rank": 17,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 307747,
@@ -371,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 286563,
+      "num": 286563,
+      "word": "赵樱子谈及原生家庭崩溃大哭",
+      "onboard_time": 1741494802,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 277624,
       "num": 277624,
       "word": "冰湖重生",
@@ -387,20 +459,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 263941,
-      "num": 321400,
-      "word": "三亚客房退订新规",
-      "onboard_time": 1741493960,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 256510,
       "num": 256510,
       "word": "贵女",
       "onboard_time": 1741489400,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 255781,
+      "num": 255781,
+      "word": "戚薇提醒做医美要适度",
+      "onboard_time": 1741497261,
+      "rank": 22,
+      "category": "美妆,艺人"
     },
     {
       "raw_hot": 252861,
@@ -467,14 +539,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 201749,
-      "num": 201749,
-      "word": "赵樱子谈及原生家庭崩溃大哭",
-      "onboard_time": 1741494802,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 200682,
       "num": 200682,
       "word": "哪吒",
@@ -491,20 +555,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196778,
+      "num": 196778,
+      "word": "冰湖重生官微回应张康乐发烧",
+      "onboard_time": 1741496303,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193796,
       "num": 280675,
       "word": "尼龙石凯本真大片",
       "onboard_time": 1741490661,
       "rank": 9,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 192813,
-      "num": 180787,
-      "word": "委员称有些癌症已变成慢性病",
-      "onboard_time": 1741494740,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 192805,
@@ -539,12 +603,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180234,
+      "num": 180234,
+      "word": "周震南裤裙造型",
+      "onboard_time": 1741496759,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178708,
       "num": 178708,
       "word": "保洁阿姨应该有自己的休息间",
       "onboard_time": 1741494201,
       "rank": 32,
       "category": "民生新闻,议题讨论"
+    },
+    {
+      "raw_hot": 175289,
+      "num": 175289,
+      "word": "杨幂巴黎时装周出发啦",
+      "onboard_time": 1741495401,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 171540,
@@ -627,6 +707,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 158434,
+      "num": 158434,
+      "word": "语文课本上的小女孩走进现实了",
+      "onboard_time": 1741494740,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154384,
       "num": 221617,
       "word": "代表建议为一老一小提供消费补贴",
@@ -707,28 +795,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 140158,
-      "num": 140158,
-      "word": "马思纯手动澄清直播没开瘦脸",
-      "onboard_time": 1741494682,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 137560,
       "num": 137560,
       "word": "檀健次和哪吒梦幻联动",
       "onboard_time": 1741493121,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 137450,
-      "num": 137450,
-      "word": "语文课本上的小女孩走进现实了",
-      "onboard_time": 1741494740,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134556,
@@ -761,6 +833,14 @@
       "onboard_time": 1741443623,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120693,
+      "num": 120693,
+      "word": "新乌托邦",
+      "onboard_time": 1741495881,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 119858,
@@ -1019,12 +1099,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 93376,
+      "num": 93376,
+      "word": "张嘉元回应被章子怡点评很值",
+      "onboard_time": 1741493720,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 92268,
       "num": 92268,
       "word": "八旬老太徒手爬铁门翻墙外出",
       "onboard_time": 1741485439,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92260,
+      "num": 92260,
+      "word": "汪苏泷群访变e人玩具",
+      "onboard_time": 1741496122,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 92239,
@@ -1057,6 +1153,14 @@
       "onboard_time": 1741364181,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89742,
+      "num": 89742,
+      "word": "当沈星回为你做饭",
+      "onboard_time": 1741495881,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 87391,
@@ -1097,6 +1201,14 @@
       "onboard_time": 1741449261,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 79802,
+      "num": 82678,
+      "word": "塔图姆40分",
+      "onboard_time": 1741495941,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 79769,
@@ -1203,19 +1315,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59706,
+      "num": 658420,
+      "word": "10个创意字解读政府工作报告",
+      "onboard_time": 1741493960,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 56145,
       "num": 71646,
       "word": "周云杰回应海尔老总冷如冰箱",
       "onboard_time": 1741447463,
       "rank": 48,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 54215,
-      "num": 658420,
-      "word": "10个创意字解读政府工作报告",
-      "onboard_time": 1741493960,
-      "rank": 2,
       "category": "国内时政"
     },
     {
