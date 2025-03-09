@@ -1,0 +1,410 @@
+{
+  "runTime": 1741563323975,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 910602,
+        "num": 940765,
+        "word": "徐克声明",
+        "onboard_time": 1741532065,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 613511,
+        "num": 613511,
+        "word": "难哄28集杀疯了",
+        "onboard_time": 1741537161,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35304,
+        "num": 313212,
+        "word": "民生主题记者会热点全解读",
+        "onboard_time": 1741529424,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 306046,
+        "num": 306046,
+        "word": "泰国发生连环恐袭",
+        "onboard_time": 1741522041,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 240823,
+        "num": 240823,
+        "word": "委员称取消公摊并不意味能省钱",
+        "onboard_time": 1741530441,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191003,
+        "num": 191003,
+        "word": "檀健次 水仙",
+        "onboard_time": 1741529124,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181289,
+        "num": 181289,
+        "word": "咸鱼飞升 陈都灵",
+        "onboard_time": 1741562418,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148113,
+        "num": 181210,
+        "word": "蔡依林林志玲看秀造型",
+        "onboard_time": 1741536501,
+        "rank": 7,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 115640,
+        "num": 176322,
+        "word": "放开灵活就业人员参保的户籍限制",
+        "onboard_time": 1741547353,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 72507,
+        "num": 173924,
+        "word": "第3场委员通道",
+        "onboard_time": 1741560917,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 561169,
+        "num": 169966,
+        "word": "张惠妹被调侃胖成石矶娘娘",
+        "onboard_time": 1741528163,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 510372,
+        "num": 168906,
+        "word": "海底捞再回应男子向火锅内小便",
+        "onboard_time": 1741529843,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311931,
+        "num": 167078,
+        "word": "老板送菜后得知顾客刚救了自己儿子",
+        "onboard_time": 1741524563,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230570,
+        "num": 163675,
+        "word": "王栎鑫今天造型是春晚pass掉的",
+        "onboard_time": 1741520421,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 161402,
+        "num": 161402,
+        "word": "制片人谈王一博不进组的原因",
+        "onboard_time": 1741521501,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65482,
+        "num": 157279,
+        "word": "3月10日两会日程",
+        "onboard_time": 1741562658,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 157273,
+        "num": 157273,
+        "word": "张远不谈恋爱的原因",
+        "onboard_time": 1741532302,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153139,
+        "num": 153139,
+        "word": "韩国人开始大量买入中国股票",
+        "onboard_time": 1741509682,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148887,
+        "num": 148887,
+        "word": "徐克回应被禁赛十年",
+        "onboard_time": 1741562238,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69680,
+        "num": 148689,
+        "word": "王源启程巴黎",
+        "onboard_time": 1741562719,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 942946,
+        "num": 148219,
+        "word": "美宇航员已滞留太空9个月",
+        "onboard_time": 1741541237,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 412446,
+        "num": 147293,
+        "word": "女子工资4600每日花销近百元通勤上班",
+        "onboard_time": 1741529724,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281360,
+        "num": 146996,
+        "word": "俄军宣布库尔斯克全线大规模进攻",
+        "onboard_time": 1741536201,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146611,
+        "num": 146611,
+        "word": "手机尾号77777777拍出254.4万元",
+        "onboard_time": 1741517063,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131785,
+        "num": 131785,
+        "word": "华晨宇3秒跳下故障升降台",
+        "onboard_time": 1741532065,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131664,
+        "num": 131664,
+        "word": "哪吒2冲上全球第6",
+        "onboard_time": 1741509981,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117686,
+        "num": 117686,
+        "word": "雷军又挂了三条热搜",
+        "onboard_time": 1741537220,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117277,
+        "num": 117277,
+        "word": "戒掉熬夜强制早睡的小tips",
+        "onboard_time": 1741533382,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 102476,
+        "num": 102476,
+        "word": "叶璇回应病重父亲遭保姆抢家产",
+        "onboard_time": 1741519342,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88117,
+        "num": 97963,
+        "word": "海尔老总回应撞脸结界兽",
+        "onboard_time": 1741543936,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 116190,
+        "num": 97481,
+        "word": "马斯克发现美政府数千亿美元假合同",
+        "onboard_time": 1741562297,
+        "rank": 30,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 94729,
+        "num": 94729,
+        "word": "王大陆的手机又被查出新案",
+        "onboard_time": 1741516399,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93079,
+        "num": 93079,
+        "word": "王栎鑫累吐了",
+        "onboard_time": 1741559956,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 86697,
+        "num": 86697,
+        "word": "周翊然素颜直播",
+        "onboard_time": 1741537280,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86446,
+        "num": 86446,
+        "word": "王一博假发",
+        "onboard_time": 1741522881,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 80123,
+        "num": 80123,
+        "word": "蒲熠星回应断掉名学全勤记录的原因",
+        "onboard_time": 1741531464,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 75864,
+        "num": 75864,
+        "word": "睡觉前最好不要玩手机",
+        "onboard_time": 1741532065,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 65916,
+        "num": 65916,
+        "word": "黄灿灿幸福快溢出来的真实感",
+        "onboard_time": 1741528643,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64048,
+        "num": 64048,
+        "word": "美国暂停向乌克兰提供卫星图像服务",
+        "onboard_time": 1741549333,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 63549,
+        "num": 63549,
+        "word": "惹怒虞书欣只需要一个林一",
+        "onboard_time": 1741539439,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61372,
+        "num": 61372,
+        "word": "住宅层高标准将不低于3米",
+        "onboard_time": 1741513881,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 61210,
+        "num": 61210,
+        "word": "张杰戴金箍跪唱一生所爱",
+        "onboard_time": 1741529903,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 60399,
+        "num": 60399,
+        "word": "一人一句恭喜吒儿",
+        "onboard_time": 1741521563,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 59334,
+        "num": 59334,
+        "word": "白桃星座",
+        "onboard_time": 1741532243,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 57356,
+        "num": 57356,
+        "word": "曼联1比1阿森纳",
+        "onboard_time": 1741562297,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56280,
+        "num": 56280,
+        "word": "美媒用极为罕见形容哪吒2霸榜",
+        "onboard_time": 1741563079,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 53478,
+        "num": 53478,
+        "word": "黄雨婷发文人间清醒",
+        "onboard_time": 1741529903,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51727,
+        "num": 51727,
+        "word": "爱你大结局",
+        "onboard_time": 1741520421,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51426,
+        "num": 51426,
+        "word": "杨幂连续四年为刘诗诗庆生",
+        "onboard_time": 1741563260,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50976,
+        "num": 50976,
+        "word": "男子持巴勒斯坦旗赤脚爬上大本钟",
+        "onboard_time": 1741562418,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#教育不能把最基本的丢掉#"
+    }
+  }
+}
