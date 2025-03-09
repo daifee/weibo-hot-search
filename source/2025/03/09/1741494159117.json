@@ -1,0 +1,410 @@
+{
+  "runTime": 1741494159117,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1121027,
+        "num": 1179364,
+        "word": "人大代表呼吁废除35岁就业门槛",
+        "onboard_time": 1741489220,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 671484,
+        "num": 671484,
+        "word": "天津公厕紫外线自动消杀惊呆市民",
+        "onboard_time": 1741488200,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42963,
+        "num": 658420,
+        "word": "10个创意字解读政府工作报告",
+        "onboard_time": 1741493960,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 655474,
+        "num": 655474,
+        "word": "台湾最大的靠山就是祖国",
+        "onboard_time": 1741491141,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 493412,
+        "num": 493412,
+        "word": "丁程鑫用deepseek写的三行诗",
+        "onboard_time": 1741493001,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 468414,
+        "num": 468414,
+        "word": "花少7拟邀",
+        "onboard_time": 1741488379,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 434291,
+        "num": 434291,
+        "word": "大连地震",
+        "onboard_time": 1741493001,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396742,
+        "num": 396742,
+        "word": "詹姆斯腹股沟拉伤",
+        "onboard_time": 1741493421,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 349708,
+        "num": 349708,
+        "word": "手语版天雷滚滚好有感染力",
+        "onboard_time": 1741479738,
+        "rank": 8,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 314279,
+        "num": 314279,
+        "word": "石矶娘娘反诈宣传",
+        "onboard_time": 1741491921,
+        "rank": 9,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 1716629,
+        "num": 313085,
+        "word": "素颜小姐姐艺考被卸3次妆",
+        "onboard_time": 1741489099,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 793815,
+        "num": 311803,
+        "word": "张云雷瘦了35斤",
+        "onboard_time": 1741489099,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468625,
+        "num": 309986,
+        "word": "民警喊檀健次的老婆听取哎声一片",
+        "onboard_time": 1741482739,
+        "rank": 12,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 304237,
+        "num": 304237,
+        "word": "虞书欣模仿小石矶娘娘",
+        "onboard_time": 1741482440,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291233,
+        "num": 291233,
+        "word": "爱你婚礼邀请函",
+        "onboard_time": 1741490901,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263457,
+        "num": 263457,
+        "word": "粉笔模考",
+        "onboard_time": 1741489941,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 253122,
+        "num": 253122,
+        "word": "为什么大家渴望引导型恋人",
+        "onboard_time": 1741486161,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 252628,
+        "num": 252628,
+        "word": "贵女",
+        "onboard_time": 1741489400,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233329,
+        "num": 233329,
+        "word": "前加拿大奥运选手成跨国大毒枭",
+        "onboard_time": 1741482620,
+        "rank": 18,
+        "category": "海外新闻,体育"
+      },
+      {
+        "raw_hot": 206997,
+        "num": 206997,
+        "word": "薛凯琪演唱会",
+        "onboard_time": 1741493601,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18246,
+        "num": 200384,
+        "word": "一组图梳理两高工作报告",
+        "onboard_time": 1741442664,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 773996,
+        "num": 180857,
+        "word": "赵露思与好友逛街",
+        "onboard_time": 1741491261,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33462,
+        "num": 172073,
+        "word": "建议依法惩治虚假保健广告",
+        "onboard_time": 1741493900,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290176,
+        "num": 152258,
+        "word": "25岁女孩一天4杯咖啡致骨质疏松",
+        "onboard_time": 1741483581,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151807,
+        "num": 151807,
+        "word": "几秒镜头看到不一样的吴谨言",
+        "onboard_time": 1741493061,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176529,
+        "num": 151252,
+        "word": "NBA",
+        "onboard_time": 1741492880,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141333,
+        "num": 141333,
+        "word": "陶喆第8张录音室专辑先行曲",
+        "onboard_time": 1741493661,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 139844,
+        "num": 139844,
+        "word": "爱你超点",
+        "onboard_time": 1741493601,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175526,
+        "num": 139404,
+        "word": "杨迪说从没见过deepseek这样回话",
+        "onboard_time": 1741492281,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34707,
+        "num": 139141,
+        "word": "三亚客房退订新规",
+        "onboard_time": 1741493960,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214640,
+        "num": 138837,
+        "word": "小米SU7Ultra车主深夜城区飙车",
+        "onboard_time": 1741476376,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 197868,
+        "num": 138078,
+        "word": "吴艳妮60米栏8秒10夺冠",
+        "onboard_time": 1741478538,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188801,
+        "num": 137569,
+        "word": "时代峰峻辟谣朱志鑫网传账号",
+        "onboard_time": 1741480578,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137560,
+        "num": 137560,
+        "word": "檀健次和哪吒梦幻联动",
+        "onboard_time": 1741493121,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 166799,
+        "num": 137419,
+        "word": "宁艺卓自述十年之路",
+        "onboard_time": 1741489340,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145749,
+        "num": 137254,
+        "word": "雷军回应国庆7天AI雷军骂了8天",
+        "onboard_time": 1741477637,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 111931,
+        "num": 136925,
+        "word": "华晨宇演唱会上中西音乐华山论剑",
+        "onboard_time": 1741492462,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136615,
+        "num": 136615,
+        "word": "谷爱凌锁骨受伤",
+        "onboard_time": 1741483219,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130266,
+        "num": 130266,
+        "word": "难哄",
+        "onboard_time": 1741493840,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128330,
+        "num": 128330,
+        "word": "中国伊朗俄罗斯海军将举行联演",
+        "onboard_time": 1741493481,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 34789,
+        "num": 122185,
+        "word": "浓眉谈与东契奇互换东家",
+        "onboard_time": 1741484240,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121598,
+        "num": 121598,
+        "word": "冰湖重生",
+        "onboard_time": 1741482019,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119161,
+        "num": 119161,
+        "word": "眼泪女王周年宴",
+        "onboard_time": 1741491440,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112893,
+        "num": 112893,
+        "word": "伊朗最高领袖称美国为霸凌政府",
+        "onboard_time": 1741491320,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110981,
+        "num": 110981,
+        "word": "苏新皓镜头被挡",
+        "onboard_time": 1741490062,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108546,
+        "num": 108546,
+        "word": "麦琳怀孕胖到140斤",
+        "onboard_time": 1741486881,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105208,
+        "num": 105208,
+        "word": "杨洋和塑料袋打起来了",
+        "onboard_time": 1741485559,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101702,
+        "num": 101702,
+        "word": "43岁三孩妈拍999套遗照与死神对抗",
+        "onboard_time": 1741485321,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99991,
+        "num": 99991,
+        "word": "湖人vs凯尔特人",
+        "onboard_time": 1741480940,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97487,
+        "num": 97487,
+        "word": "郑钦文教练团队换血",
+        "onboard_time": 1741487779,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对创新念兹在兹#"
+    }
+  }
+}
