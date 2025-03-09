@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741512931495,
+  "endTime": 1741515784117,
   "band_list": [
     {
       "raw_hot": 2301647,
@@ -57,6 +57,14 @@
       "onboard_time": 1741482739,
       "rank": 19,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 1046980,
+      "num": 620880,
+      "word": "韩国人开始大量买入中国股票",
+      "onboard_time": 1741509682,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1033332,
@@ -171,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 773990,
+      "num": 647432,
+      "word": "哪吒2冲击全球TOP6",
+      "onboard_time": 1741509981,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 759701,
       "num": 310179,
       "word": "陈妍希黄磊何炅合照",
@@ -259,12 +275,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 647432,
-      "num": 647432,
-      "word": "哪吒2冲击全球TOP6",
-      "onboard_time": 1741509981,
-      "rank": 3,
-      "category": "电影"
+      "raw_hot": 644007,
+      "num": 644007,
+      "word": "住宅层高标准将不低于3米",
+      "onboard_time": 1741513881,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 633453,
@@ -283,20 +299,20 @@
       "category": "美妆,艺人"
     },
     {
-      "raw_hot": 620880,
-      "num": 620880,
-      "word": "韩国人开始大量买入中国股票",
-      "onboard_time": 1741509682,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 613328,
       "num": 391461,
       "word": "前加拿大奥运选手成跨国大毒枭",
       "onboard_time": 1741482620,
       "rank": 33,
       "category": "海外新闻,体育"
+    },
+    {
+      "raw_hot": 612011,
+      "num": 326619,
+      "word": "都说了宫内禁止对食",
+      "onboard_time": 1741510219,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 596630,
@@ -345,6 +361,14 @@
       "onboard_time": 1741445182,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 485413,
+      "num": 243243,
+      "word": "欧阳娜娜美貌比飞机先落地巴黎",
+      "onboard_time": 1741514419,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 478303,
@@ -555,14 +579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 326619,
-      "num": 326619,
-      "word": "都说了宫内禁止对食",
-      "onboard_time": 1741510219,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 320714,
       "num": 275046,
       "word": "烟盒写建议被采纳82岁大爷回应走红",
@@ -601,6 +617,14 @@
       "onboard_time": 1741480578,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 294683,
+      "num": 294683,
+      "word": "等了14集男女主终于看对眼了",
+      "onboard_time": 1741514181,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 294317,
@@ -657,6 +681,14 @@
       "onboard_time": 1741482019,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 275669,
+      "num": 275669,
+      "word": "AI被称相当于月薪2000实习生水平",
+      "onboard_time": 1741508180,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 270962,
@@ -803,14 +835,6 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 211056,
-      "num": 211056,
-      "word": "AI被称相当于月薪2000实习生水平",
-      "onboard_time": 1741508180,
-      "rank": 33,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 208783,
       "num": 208783,
       "word": "王曼昱首轮对阵迪亚兹",
@@ -867,6 +891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199697,
+      "num": 199697,
+      "word": "成都人用deepseek搜了啥",
+      "onboard_time": 1741514301,
+      "rank": 20,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 197583,
       "num": 357479,
       "word": "华晨宇时隔七年唱孩子",
@@ -921,6 +953,14 @@
       "onboard_time": 1741511840,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 190029,
+      "num": 190029,
+      "word": "袁咏仪能不化妆就不化妆",
+      "onboard_time": 1741515382,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 187635,
@@ -1065,6 +1105,14 @@
       "onboard_time": 1741504881,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163868,
+      "num": 163868,
+      "word": "海尔老总周云杰撞脸结界兽",
+      "onboard_time": 1741514482,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163484,
@@ -1316,7 +1364,7 @@
     },
     {
       "raw_hot": 126871,
-      "num": 126871,
+      "num": 204878,
       "word": "道枝骏佑出发巴黎时装周",
       "onboard_time": 1741511900,
       "rank": 48,
@@ -1603,6 +1651,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 108792,
+      "num": 108792,
+      "word": "爱你里有毕雯珺",
+      "onboard_time": 1741515622,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108471,
       "num": 108471,
       "word": "2月全国居民消费价格同比下降0.7%",
@@ -1643,6 +1699,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 107358,
+      "num": 149059,
+      "word": "滤镜",
+      "onboard_time": 1741515022,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106532,
       "num": 106532,
       "word": "美乌将在沙特会谈",
@@ -1665,6 +1729,14 @@
       "onboard_time": 1741509081,
       "rank": 20,
       "category": "民生新闻,国内时政"
+    },
+    {
+      "raw_hot": 105433,
+      "num": 271152,
+      "word": "我国航天员开始为登月做准备",
+      "onboard_time": 1741514601,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 104785,
@@ -1747,6 +1819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100036,
+      "num": 100036,
+      "word": "桑延人间妄想",
+      "onboard_time": 1741515561,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99991,
       "num": 99991,
       "word": "湖人vs凯尔特人",
@@ -1795,12 +1875,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 96438,
+      "num": 96438,
+      "word": "心跳比我先认出你",
+      "onboard_time": 1741515382,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 93376,
       "num": 93376,
       "word": "张嘉元回应被章子怡点评很值",
       "onboard_time": 1741493720,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92627,
+      "num": 92627,
+      "word": "不是蟑螂 而是令郎",
+      "onboard_time": 1741513761,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 92339,
@@ -1835,6 +1931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 92187,
+      "num": 92187,
+      "word": "建议不要把体育锻炼应试化",
+      "onboard_time": 1741509620,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 91224,
       "num": 188669,
       "word": "王昶梁伟铿晋级决赛",
@@ -1849,6 +1953,14 @@
       "onboard_time": 1741512142,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 90435,
+      "num": 115434,
+      "word": "郑钦文说圈中也有她想交的朋友",
+      "onboard_time": 1741514482,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 90248,
@@ -1881,6 +1993,22 @@
       "onboard_time": 1741447342,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 85781,
+      "num": 85781,
+      "word": "虞书欣腹语说看我",
+      "onboard_time": 1741515682,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 82859,
+      "num": 82859,
+      "word": "上海男排卫冕联赛冠军",
+      "onboard_time": 1741515382,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 82799,
@@ -2131,6 +2259,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 31283,
+      "num": 157582,
+      "word": "董明珠呼吁规范二手家电市场秩序",
+      "onboard_time": 1741515141,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 30794,
       "num": 34065,
       "word": "张碧晨首次现场演唱哪吒2片尾曲",
@@ -2330,6 +2466,9 @@
     },
     {
       "word": "#习近平两会时间#"
+    },
+    {
+      "word": "#习近平再谈共同富裕#"
     }
   ]
 }
