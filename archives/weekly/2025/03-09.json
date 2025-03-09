@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741537363234,
+  "endTime": 1741538216852,
   "band_list": [
     {
       "raw_hot": 2815044,
@@ -691,6 +691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 407089,
+      "num": 407089,
+      "word": "难哄28集杀疯了",
+      "onboard_time": 1741537161,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 400853,
       "num": 238770,
       "word": "温以凡香港刷盘子",
@@ -811,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 344172,
+      "num": 183120,
+      "word": "戒掉熬夜强制早睡的小tips",
+      "onboard_time": 1741533382,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 342988,
       "num": 342988,
       "word": "祖国必然统一是实力使然民心所向",
@@ -865,14 +881,6 @@
       "onboard_time": 1741526662,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 327768,
-      "num": 156069,
-      "word": "戒掉熬夜强制早睡的小tips",
-      "onboard_time": 1741533382,
-      "rank": 40,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 326729,
@@ -1411,6 +1419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 189745,
+      "num": 189745,
+      "word": "周翊然素颜直播",
+      "onboard_time": 1741537280,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189459,
       "num": 189459,
       "word": "朕与哄妃何时有过嫌隙",
@@ -1675,6 +1691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156772,
+      "num": 156772,
+      "word": "俄军宣布库尔斯克全线大规模进攻",
+      "onboard_time": 1741536201,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 156308,
       "num": 156308,
       "word": "司机早高峰在马路中央停车买早餐",
@@ -1761,14 +1785,6 @@
       "onboard_time": 1741460235,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 150844,
-      "num": 150844,
-      "word": "俄军宣布库尔斯克全线大规模进攻",
-      "onboard_time": 1741536201,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 150790,
@@ -1995,6 +2011,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 127416,
+      "num": 127416,
+      "word": "蔡依林林志玲看秀造型",
+      "onboard_time": 1741536501,
+      "rank": 41,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 126871,
       "num": 204878,
       "word": "道枝骏佑出发巴黎时装周",
@@ -2219,14 +2243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 119046,
-      "num": 119046,
-      "word": "难哄28集杀疯了",
-      "onboard_time": 1741537161,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 118716,
       "num": 118716,
       "word": "将门毒后广播剧破亿",
@@ -2443,6 +2459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109148,
+      "num": 109148,
+      "word": "雷军又挂了三条热搜",
+      "onboard_time": 1741537220,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 108471,
       "num": 108471,
       "word": "2月全国居民消费价格同比下降0.7%",
@@ -2489,6 +2513,14 @@
       "onboard_time": 1741501521,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 107445,
+      "num": 107445,
+      "word": "张真源素颜拍立得",
+      "onboard_time": 1741537102,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 107358,
@@ -2891,14 +2923,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 82961,
-      "num": 89032,
-      "word": "蔡依林林志玲看秀造型",
-      "onboard_time": 1741536501,
-      "rank": 41,
-      "category": "作品衍生,艺人"
-    },
-    {
       "raw_hot": 82893,
       "num": 326009,
       "word": "建议严惩利用未成年人牟利",
@@ -3011,14 +3035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 75168,
-      "num": 89064,
-      "word": "雷军又挂了三条热搜",
-      "onboard_time": 1741537220,
-      "rank": 39,
-      "category": "财经"
-    },
-    {
       "raw_hot": 74653,
       "num": 74653,
       "word": "赵一博4部待播剧",
@@ -3057,22 +3073,6 @@
       "onboard_time": 1741499602,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 72624,
-      "num": 88948,
-      "word": "周翊然素颜直播",
-      "onboard_time": 1741537280,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 71153,
-      "num": 88926,
-      "word": "张真源素颜拍立得",
-      "onboard_time": 1741537102,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 70915,
@@ -3305,6 +3305,14 @@
       "onboard_time": 1741459575,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29669,
+      "num": 93608,
+      "word": "强化技能导向的薪酬分配制度",
+      "onboard_time": 1741538119,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 29263,
