@@ -1,0 +1,410 @@
+{
+  "runTime": 1741523611963,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2056299,
+        "num": 2056299,
+        "word": "成都3.6级左右地震",
+        "onboard_time": 1741521621,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1850507,
+        "num": 1850507,
+        "word": "哪吒2冲上全球第6",
+        "onboard_time": 1741509981,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 10572,
+        "num": 1618177,
+        "word": "AI创意海报看2025民生举措",
+        "onboard_time": 1741484840,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1417048,
+        "num": 1417048,
+        "word": "泰国发生连环恐袭",
+        "onboard_time": 1741522041,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 481541,
+        "num": 481541,
+        "word": "小米SU7Ultra赛道首撞",
+        "onboard_time": 1741520242,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1029098,
+        "num": 475542,
+        "word": "男子一个月怒刷32遍肖战版射雕",
+        "onboard_time": 1741517303,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 763581,
+        "num": 474754,
+        "word": "一人一句恭喜吒儿",
+        "onboard_time": 1741521563,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 644180,
+        "num": 454120,
+        "word": "王栎鑫今天造型是春晚pass掉的",
+        "onboard_time": 1741520421,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 395760,
+        "num": 395760,
+        "word": "住宅层高标准将不低于3米",
+        "onboard_time": 1741513881,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 320439,
+        "num": 320439,
+        "word": "我国医院开始设立体重门诊",
+        "onboard_time": 1741509682,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1535932,
+        "num": 318838,
+        "word": "王一博假发",
+        "onboard_time": 1741522881,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 637678,
+        "num": 317333,
+        "word": "爱你大结局",
+        "onboard_time": 1741520421,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 570539,
+        "num": 315561,
+        "word": "手机尾号77777777拍出254.4万元",
+        "onboard_time": 1741517063,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 501024,
+        "num": 314359,
+        "word": "韩国人开始大量买入中国股票",
+        "onboard_time": 1741509682,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30627,
+        "num": 312736,
+        "word": "尹烨说AI需要大模型也需要好应用",
+        "onboard_time": 1741521682,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 701137,
+        "num": 311348,
+        "word": "王一博奥斯卡影帝AdrienBrody坐一起",
+        "onboard_time": 1741519042,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 310288,
+        "num": 310288,
+        "word": "最能吃苦的那一代人又回来了",
+        "onboard_time": 1741517243,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 310285,
+        "num": 310285,
+        "word": "素颜小姐姐艺考被卸3次妆",
+        "onboard_time": 1741489099,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261890,
+        "num": 261890,
+        "word": "王一博巴黎时装周秀场生图",
+        "onboard_time": 1741522220,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 206179,
+        "num": 206179,
+        "word": "女子露营烤牛肉被牛群吃光",
+        "onboard_time": 1741521621,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 456599,
+        "num": 204331,
+        "word": "叶璇回应病重父亲遭保姆抢家产",
+        "onboard_time": 1741519342,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343405,
+        "num": 199993,
+        "word": "王大陆的手机又被查出新案",
+        "onboard_time": 1741516399,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267244,
+        "num": 195314,
+        "word": "创造营亚洲2第一次顺位发表",
+        "onboard_time": 1741520602,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183275,
+        "num": 183275,
+        "word": "将稳步提高养老保险待遇水平",
+        "onboard_time": 1741516399,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 185449,
+        "num": 179148,
+        "word": "民生主题记者会",
+        "onboard_time": 1741504161,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 187357,
+        "num": 176699,
+        "word": "爱你",
+        "onboard_time": 1741511840,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173964,
+        "num": 173964,
+        "word": "章若楠新剧心疼的层次感",
+        "onboard_time": 1741523421,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138927,
+        "num": 173753,
+        "word": "林一 小嘴巴闭起来",
+        "onboard_time": 1741522340,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105610,
+        "num": 173586,
+        "word": "美国一州长喊话美国人说你被骗了",
+        "onboard_time": 1741516461,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 13307,
+        "num": 173328,
+        "word": "建议严惩利用未成年人牟利",
+        "onboard_time": 1741523421,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 189204,
+        "num": 173116,
+        "word": "live图中的经典",
+        "onboard_time": 1741522460,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173021,
+        "num": 173021,
+        "word": "东方白鹳被无人机绞断双腿",
+        "onboard_time": 1741500742,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148474,
+        "num": 148474,
+        "word": "2000年以前老旧小区要纳入城市更新改造",
+        "onboard_time": 1741508180,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 65244,
+        "num": 145411,
+        "word": "省委书记邀请你去有风的地方",
+        "onboard_time": 1741521022,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 143703,
+        "num": 143703,
+        "word": "仙逆",
+        "onboard_time": 1741518983,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 121710,
+        "num": 121710,
+        "word": "滤镜大王",
+        "onboard_time": 1741519220,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121077,
+        "num": 121077,
+        "word": "桑延 男鬼",
+        "onboard_time": 1741501821,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120742,
+        "num": 120742,
+        "word": "成都人用deepseek搜了啥",
+        "onboard_time": 1741514301,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 119507,
+        "num": 119507,
+        "word": "袁咏仪回应素颜",
+        "onboard_time": 1741520722,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119010,
+        "num": 119010,
+        "word": "杨紫李现锦绣芳华开启招商",
+        "onboard_time": 1741515860,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113336,
+        "num": 113336,
+        "word": "男子离婚后跟踪殴打前妻被认定家暴",
+        "onboard_time": 1741502600,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99604,
+        "num": 99604,
+        "word": "jhope柳智敏challenge",
+        "onboard_time": 1741520001,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98938,
+        "num": 98938,
+        "word": "钎城评论区J人属性拉满",
+        "onboard_time": 1741521563,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106611,
+        "num": 96143,
+        "word": "袁咏仪能不化妆就不化妆",
+        "onboard_time": 1741515382,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92923,
+        "num": 92923,
+        "word": "檀健次演喜剧天赋",
+        "onboard_time": 1741523124,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91155,
+        "num": 91155,
+        "word": "似锦",
+        "onboard_time": 1741519642,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90805,
+        "num": 90805,
+        "word": "虞书欣腹语说看我",
+        "onboard_time": 1741515682,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89699,
+        "num": 89699,
+        "word": "熟龄姐姐姜似遇上绝世忠犬郁锦",
+        "onboard_time": 1741522642,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87201,
+        "num": 87201,
+        "word": "黄奕眼神杀",
+        "onboard_time": 1741522822,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82818,
+        "num": 82818,
+        "word": "滤镜加更",
+        "onboard_time": 1741523542,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平两会时间#"
+    }
+  }
+}

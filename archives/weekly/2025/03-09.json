@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741520096857,
+  "endTime": 1741523611963,
   "band_list": [
     {
       "raw_hot": 2815044,
@@ -17,6 +17,22 @@
       "onboard_time": 1741489099,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2056299,
+      "num": 2056299,
+      "word": "成都3.6级左右地震",
+      "onboard_time": 1741521621,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1535932,
+      "num": 318838,
+      "word": "王一博假发",
+      "onboard_time": 1741522881,
+      "rank": 10,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1535197,
@@ -41,6 +57,14 @@
       "onboard_time": 1741507879,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1417048,
+      "num": 1417048,
+      "word": "泰国发生连环恐袭",
+      "onboard_time": 1741522041,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1155557,
@@ -89,6 +113,14 @@
       "onboard_time": 1741495041,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1029098,
+      "num": 547553,
+      "word": "男子一个月怒刷32遍肖战版射雕",
+      "onboard_time": 1741517303,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 975663,
@@ -211,6 +243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 763581,
+      "num": 474754,
+      "word": "一人一句恭喜吒儿",
+      "onboard_time": 1741521563,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 759701,
       "num": 310179,
       "word": "陈妍希黄磊何炅合照",
@@ -267,6 +307,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 701137,
+      "num": 311348,
+      "word": "王一博奥斯卡影帝AdrienBrody坐一起",
+      "onboard_time": 1741519042,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 684457,
       "num": 684457,
       "word": "住宅层高标准将不低于3米",
@@ -305,6 +353,22 @@
       "onboard_time": 1741491141,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 644180,
+      "num": 454120,
+      "word": "王栎鑫今天造型是春晚pass掉的",
+      "onboard_time": 1741520421,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 637678,
+      "num": 317333,
+      "word": "爱你大结局",
+      "onboard_time": 1741520421,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 633453,
@@ -379,14 +443,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 547553,
-      "num": 547553,
-      "word": "男子一个月怒刷32遍肖战版射雕",
-      "onboard_time": 1741517303,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 525788,
       "num": 525788,
       "word": "实施体重管理年3年行动",
@@ -411,12 +467,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 488083,
-      "num": 227693,
-      "word": "王一博奥斯卡影帝AdrienBrody坐一起",
-      "onboard_time": 1741519042,
-      "rank": 12,
-      "category": "作品衍生"
+      "raw_hot": 481541,
+      "num": 481541,
+      "word": "小米SU7Ultra赛道首撞",
+      "onboard_time": 1741520242,
+      "rank": 4,
+      "category": "汽车"
     },
     {
       "raw_hot": 478303,
@@ -441,6 +497,14 @@
       "onboard_time": 1741483219,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 456599,
+      "num": 212569,
+      "word": "叶璇回应病重父亲遭保姆抢家产",
+      "onboard_time": 1741519342,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 455545,
@@ -779,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 267244,
+      "num": 195314,
+      "word": "创造营亚洲2第一次顺位发表",
+      "onboard_time": 1741520602,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 266557,
       "num": 165615,
       "word": "TOP登陆少年",
@@ -795,6 +867,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 261890,
+      "num": 261890,
+      "word": "王一博巴黎时装周秀场生图",
+      "onboard_time": 1741522220,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 261301,
       "num": 208098,
       "word": "长头发的杨肸子",
@@ -809,14 +889,6 @@
       "onboard_time": 1741489400,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 255639,
-      "num": 212569,
-      "word": "叶璇回应病重父亲遭保姆抢家产",
-      "onboard_time": 1741519342,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 252861,
@@ -955,6 +1027,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 206179,
+      "num": 206179,
+      "word": "女子露营烤牛肉被牛群吃光",
+      "onboard_time": 1741521621,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 206155,
       "num": 317356,
       "word": "梦花廷陈哲远张婧仪拥吻路透",
@@ -1075,6 +1155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 189204,
+      "num": 173116,
+      "word": "live图中的经典",
+      "onboard_time": 1741522460,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 187635,
       "num": 187635,
       "word": "郭爽退团",
@@ -1144,6 +1232,14 @@
       "word": "爱你终于演到合欢这集",
       "onboard_time": 1741508361,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 173964,
+      "num": 173964,
+      "word": "章若楠新剧心疼的层次感",
+      "onboard_time": 1741523421,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -1419,6 +1515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143703,
+      "num": 143703,
+      "word": "仙逆",
+      "onboard_time": 1741518983,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 143700,
       "num": 221545,
       "word": "郑钦文教练团队换血",
@@ -1457,6 +1561,14 @@
       "onboard_time": 1741510461,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 138927,
+      "num": 173753,
+      "word": "林一 小嘴巴闭起来",
+      "onboard_time": 1741522340,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 137560,
@@ -1548,7 +1660,7 @@
     },
     {
       "raw_hot": 125487,
-      "num": 125487,
+      "num": 173586,
       "word": "美国一州长喊话美国人说你被骗了",
       "onboard_time": 1741516461,
       "rank": 40,
@@ -1609,14 +1721,6 @@
       "onboard_time": 1741515682,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 123083,
-      "num": 123083,
-      "word": "仙逆",
-      "onboard_time": 1741518983,
-      "rank": 48,
-      "category": "动漫"
     },
     {
       "raw_hot": 122901,
@@ -1681,6 +1785,14 @@
       "onboard_time": 1741491440,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119507,
+      "num": 119507,
+      "word": "袁咏仪回应素颜",
+      "onboard_time": 1741520722,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 119364,
@@ -2043,12 +2155,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99604,
+      "num": 99604,
+      "word": "jhope柳智敏challenge",
+      "onboard_time": 1741520001,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99402,
       "num": 99402,
       "word": "凡人修仙传",
       "onboard_time": 1741443442,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98938,
+      "num": 98938,
+      "word": "钎城评论区J人属性拉满",
+      "onboard_time": 1741521563,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 98207,
@@ -2083,20 +2211,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 94371,
-      "num": 94371,
-      "word": "jhope柳智敏challenge",
-      "onboard_time": 1741520001,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 93376,
       "num": 93376,
       "word": "张嘉元回应被章子怡点评很值",
       "onboard_time": 1741493720,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92923,
+      "num": 92923,
+      "word": "檀健次演喜剧天赋",
+      "onboard_time": 1741523124,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 92339,
@@ -2195,12 +2323,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 89699,
+      "num": 89699,
+      "word": "熟龄姐姐姜似遇上绝世忠犬郁锦",
+      "onboard_time": 1741522642,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 87391,
       "num": 87391,
       "word": "沈梦瑶上海演唱会舞台",
       "onboard_time": 1741447342,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 87201,
+      "num": 87201,
+      "word": "黄奕眼神杀",
+      "onboard_time": 1741522822,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 83169,
@@ -2217,6 +2361,14 @@
       "onboard_time": 1741515382,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82818,
+      "num": 82818,
+      "word": "滤镜加更",
+      "onboard_time": 1741523542,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 82799,
@@ -2395,6 +2547,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 65244,
+      "num": 145411,
+      "word": "省委书记邀请你去有风的地方",
+      "onboard_time": 1741521022,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 60674,
       "num": 71426,
       "word": "吴艳妮的后程没有对手",
@@ -2507,6 +2667,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 30627,
+      "num": 312736,
+      "word": "尹烨说AI需要大模型也需要好应用",
+      "onboard_time": 1741521682,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 30544,
       "num": 535543,
       "word": "一组图梳理两高工作报告",
@@ -2604,7 +2772,7 @@
     },
     {
       "raw_hot": 21463,
-      "num": 739520,
+      "num": 1618177,
       "word": "AI创意海报看2025民生举措",
       "onboard_time": 1741484840,
       "rank": 2,
@@ -2633,6 +2801,14 @@
       "onboard_time": 1741503441,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 13307,
+      "num": 173328,
+      "word": "建议严惩利用未成年人牟利",
+      "onboard_time": 1741523421,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 12649,
