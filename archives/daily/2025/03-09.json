@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741483586261,
+  "endTime": 1741484788899,
   "band_list": [
     {
       "raw_hot": 1535197,
@@ -51,8 +51,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 589340,
-      "num": 1094294,
+      "raw_hot": 672097,
+      "num": 1107535,
       "word": "手语版天雷滚滚好有感染力",
       "onboard_time": 1741479738,
       "rank": 0,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 496925,
-      "num": 221805,
+      "num": 227997,
       "word": "小米SU7Ultra车主深夜城区飙车",
       "onboard_time": 1741476376,
       "rank": 11,
@@ -83,8 +83,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 428188,
+      "num": 229047,
+      "word": "民警喊檀健次的老婆听取哎声一片",
+      "onboard_time": 1741482739,
+      "rank": 19,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 415997,
-      "num": 220105,
+      "num": 227665,
       "word": "麦琳说再见爱人后容貌焦虑达到峰值",
       "onboard_time": 1741455797,
       "rank": 21,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 400853,
-      "num": 176233,
+      "num": 215770,
       "word": "温以凡香港刷盘子",
       "onboard_time": 1741463834,
       "rank": 26,
@@ -113,6 +121,14 @@
       "onboard_time": 1741434622,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 352668,
+      "num": 226256,
+      "word": "虞书欣模仿小石矶娘娘",
+      "onboard_time": 1741482440,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 347398,
@@ -156,7 +172,7 @@
     },
     {
       "raw_hot": 307747,
-      "num": 199931,
+      "num": 224072,
       "word": "金靖对林一说人不塌就行了",
       "onboard_time": 1741477397,
       "rank": 16,
@@ -172,7 +188,7 @@
     },
     {
       "raw_hot": 298471,
-      "num": 181849,
+      "num": 224833,
       "word": "时代峰峻辟谣朱志鑫网传账号",
       "onboard_time": 1741480578,
       "rank": 17,
@@ -195,20 +211,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 268162,
+      "num": 268162,
+      "word": "冰湖重生",
+      "onboard_time": 1741482019,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 266557,
       "num": 165615,
       "word": "TOP登陆少年",
       "onboard_time": 1741451120,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 264012,
-      "num": 171862,
-      "word": "虞书欣模仿小石矶娘娘",
-      "onboard_time": 1741482440,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 252861,
@@ -235,12 +251,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 230622,
-      "num": 230622,
-      "word": "冰湖重生",
-      "onboard_time": 1741482019,
-      "rank": 8,
-      "category": "剧集"
+      "raw_hot": 241785,
+      "num": 241785,
+      "word": "谷爱凌锁骨受伤",
+      "onboard_time": 1741483219,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 226148,
@@ -251,12 +267,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 225036,
+      "num": 219926,
+      "word": "朱志鑫方已对侵权行为取证",
+      "onboard_time": 1741483878,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208545,
       "num": 208545,
       "word": "叙利亚西部冲突已致超400死",
       "onboard_time": 1741449622,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 196980,
+      "num": 231240,
+      "word": "吴艳妮60米栏8秒10夺冠",
+      "onboard_time": 1741478538,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 189540,
+      "num": 189540,
+      "word": "前加拿大奥运选手成跨国大毒枭",
+      "onboard_time": 1741482620,
+      "rank": 33,
+      "category": "海外新闻,体育"
     },
     {
       "raw_hot": 187635,
@@ -273,14 +313,6 @@
       "onboard_time": 1741471454,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 169294,
-      "num": 169294,
-      "word": "民警喊檀健次的老婆听取哎声一片",
-      "onboard_time": 1741482739,
-      "rank": 19,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 166193,
@@ -347,20 +379,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 129216,
-      "num": 129216,
+      "raw_hot": 133023,
+      "num": 133023,
       "word": "张碧晨唱着唱着哪吒又破纪录了",
       "onboard_time": 1741478719,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 126585,
-      "num": 126585,
-      "word": "吴艳妮60米栏8秒10夺冠",
-      "onboard_time": 1741478538,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 123634,
@@ -443,12 +467,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 109758,
-      "num": 109758,
-      "word": "前加拿大奥运选手成跨国大毒枭",
-      "onboard_time": 1741482620,
-      "rank": 33,
-      "category": "海外新闻,体育"
+      "raw_hot": 107956,
+      "num": 107956,
+      "word": "浓眉谈与东契奇互换东家",
+      "onboard_time": 1741484240,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 107847,
+      "num": 107847,
+      "word": "何小鹏说广州优势太多了",
+      "onboard_time": 1741482440,
+      "rank": 38,
+      "category": "国内时政,互联网"
     },
     {
       "raw_hot": 106532,
@@ -491,6 +523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99695,
+      "num": 99695,
+      "word": "杨迪你是黄子弘凡的女主吗",
+      "onboard_time": 1741482860,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99402,
       "num": 99402,
       "word": "凡人修仙传",
@@ -499,12 +539,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 96511,
-      "num": 96511,
-      "word": "何小鹏说广州优势太多了",
-      "onboard_time": 1741482440,
-      "rank": 38,
-      "category": "国内时政,互联网"
+      "raw_hot": 97059,
+      "num": 97059,
+      "word": "甄子丹说好房子不要太贵",
+      "onboard_time": 1741478838,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 92239,
@@ -523,6 +563,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 90178,
+      "num": 90178,
+      "word": "雨雪大风沙尘组团来袭",
+      "onboard_time": 1741482440,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89881,
       "num": 89881,
       "word": "妇女节",
@@ -539,20 +587,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 86500,
-      "num": 86500,
-      "word": "雨雪大风沙尘组团来袭",
-      "onboard_time": 1741482440,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 86452,
-      "num": 86452,
-      "word": "杨迪你是黄子弘凡的女主吗",
-      "onboard_time": 1741482860,
+      "raw_hot": 84848,
+      "num": 84848,
+      "word": "张颜齐石凯好六结界兽",
+      "onboard_time": 1741484480,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 82799,
+      "num": 82799,
+      "word": "pp首场演唱会",
+      "onboard_time": 1741484420,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 81576,
@@ -619,14 +667,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 75323,
-      "num": 75323,
-      "word": "甄子丹说好房子不要太贵",
-      "onboard_time": 1741478838,
-      "rank": 47,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 74653,
       "num": 74653,
       "word": "赵一博4部待播剧",
@@ -659,20 +699,20 @@
       "category": "国内时政,汽车"
     },
     {
+      "raw_hot": 70146,
+      "num": 70146,
+      "word": "他们的孩子要在爱中长大了",
+      "onboard_time": 1741482620,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 66998,
       "num": 66998,
       "word": "dsn直播",
       "onboard_time": 1741451780,
       "rank": 8,
       "category": "网红"
-    },
-    {
-      "raw_hot": 61137,
-      "num": 226729,
-      "word": "谷爱凌锁骨受伤",
-      "onboard_time": 1741483219,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 60674,
