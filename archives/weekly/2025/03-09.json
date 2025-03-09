@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741497536537,
+  "endTime": 1741498511604,
   "band_list": [
     {
       "raw_hot": 2301647,
@@ -17,6 +17,14 @@
       "onboard_time": 1741446624,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1276335,
+      "num": 1276335,
+      "word": "大疆不强制9点上班开始强制9点下班",
+      "onboard_time": 1741496481,
+      "rank": 5,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 1121027,
@@ -51,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 919771,
+      "num": 319309,
+      "word": "何猷君晒全家福给奚梦瑶庆生",
+      "onboard_time": 1741495220,
+      "rank": 12,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 847471,
       "num": 274439,
       "word": "43岁三孩妈拍999套遗照与死神对抗",
@@ -65,14 +81,6 @@
       "onboard_time": 1741493001,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 819224,
-      "num": 319309,
-      "word": "何猷君晒全家福给奚梦瑶庆生",
-      "onboard_time": 1741495220,
-      "rank": 12,
-      "category": "艺人,综艺"
     },
     {
       "raw_hot": 816160,
@@ -187,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 519954,
+      "num": 255781,
+      "word": "戚薇提醒做医美要适度",
+      "onboard_time": 1741497261,
+      "rank": 22,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 496925,
       "num": 270814,
       "word": "小米SU7Ultra车主深夜城区飙车",
@@ -209,14 +225,6 @@
       "onboard_time": 1741482440,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 467701,
-      "num": 467701,
-      "word": "大疆不强制9点上班开始强制9点下班",
-      "onboard_time": 1741496481,
-      "rank": 5,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 461885,
@@ -323,6 +331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 347430,
+      "num": 347430,
+      "word": "刘诗诗新剧情绪爆发力",
+      "onboard_time": 1741495822,
+      "rank": 17,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 347398,
       "num": 242526,
       "word": "郑乃馨说和硬糖少女没联系",
@@ -337,6 +353,14 @@
       "onboard_time": 1741496241,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 339829,
+      "num": 245999,
+      "word": "蔡明菜市场劝架阻止家长打孩子",
+      "onboard_time": 1741497680,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 334597,
@@ -377,14 +401,6 @@
       "onboard_time": 1741491921,
       "rank": 9,
       "category": "民生新闻,电影"
-    },
-    {
-      "raw_hot": 312280,
-      "num": 312280,
-      "word": "刘诗诗新剧情绪爆发力",
-      "onboard_time": 1741495822,
-      "rank": 17,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 307747,
@@ -467,14 +483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 255781,
-      "num": 255781,
-      "word": "戚薇提醒做医美要适度",
-      "onboard_time": 1741497261,
-      "rank": 22,
-      "category": "美妆,艺人"
-    },
-    {
       "raw_hot": 252861,
       "num": 252861,
       "word": "原来芍药是古人的爱情花",
@@ -499,6 +507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 241111,
+      "num": 241111,
+      "word": "郭德纲 爆炸头",
+      "onboard_time": 1741497741,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 226148,
       "num": 226148,
       "word": "住酒店上厕所隐私视频被售卖",
@@ -521,6 +537,14 @@
       "onboard_time": 1741486881,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215274,
+      "num": 215274,
+      "word": "杨幂巴黎时装周出发啦",
+      "onboard_time": 1741495401,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 213136,
@@ -619,14 +643,6 @@
       "category": "民生新闻,议题讨论"
     },
     {
-      "raw_hot": 175289,
-      "num": 175289,
-      "word": "杨幂巴黎时装周出发啦",
-      "onboard_time": 1741495401,
-      "rank": 28,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 171540,
       "num": 171540,
       "word": "北上乱成一锅粥了快喝了吧",
@@ -641,6 +657,14 @@
       "onboard_time": 1741489340,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166531,
+      "num": 160695,
+      "word": "桑延温以凡浴室吻",
+      "onboard_time": 1741497981,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 166193,
@@ -763,6 +787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 150129,
+      "num": 150129,
+      "word": "无限暖暖",
+      "onboard_time": 1741498040,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 148709,
       "num": 269734,
       "word": "美国纽约发生多起山火",
@@ -795,12 +827,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 141248,
+      "num": 141248,
+      "word": "杨迪约谢娜爬山",
+      "onboard_time": 1741498101,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137560,
       "num": 137560,
       "word": "檀健次和哪吒梦幻联动",
       "onboard_time": 1741493121,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 136556,
+      "num": 136556,
+      "word": "恋与制作人",
+      "onboard_time": 1741497981,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 134556,
@@ -833,6 +881,14 @@
       "onboard_time": 1741443623,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123269,
+      "num": 123269,
+      "word": "翟潇闻直播跳kissshy",
+      "onboard_time": 1741497921,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 120693,
@@ -873,6 +929,14 @@
       "onboard_time": 1741444343,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 116295,
+      "num": 116295,
+      "word": "行大道不信邪不怕鬼",
+      "onboard_time": 1741497620,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115871,
@@ -1316,7 +1380,7 @@
     },
     {
       "raw_hot": 59706,
-      "num": 658420,
+      "num": 679435,
       "word": "10个创意字解读政府工作报告",
       "onboard_time": 1741493960,
       "rank": 2,
@@ -1459,11 +1523,35 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 21513,
+      "num": 206864,
+      "word": "如何打破第一学历的枷锁",
+      "onboard_time": 1741498220,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 18147,
+      "num": 248012,
+      "word": "建议儿童罕见病纳入医保",
+      "onboard_time": 1741498161,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 17393,
       "num": 338368,
       "word": "快来查收你的2025民生礼包",
       "onboard_time": 1741494620,
       "rank": 13,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 17281,
+      "num": 250585,
+      "word": "人大代表回应街头针灸",
+      "onboard_time": 1741498101,
+      "rank": 15,
       "category": "国内时政"
     },
     {
@@ -1532,6 +1620,9 @@
     },
     {
       "word": "#总书记那些两会妙喻#"
+    },
+    {
+      "word": "#习近平的两会时间#"
     }
   ]
 }

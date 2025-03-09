@@ -1,0 +1,410 @@
+{
+  "runTime": 1741498511604,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1276335,
+        "num": 1276335,
+        "word": "大疆不强制9点上班开始强制9点下班",
+        "onboard_time": 1741496481,
+        "rank": 0,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 1013203,
+        "num": 1013203,
+        "word": "三亚客房退订新规",
+        "onboard_time": 1741493960,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59594,
+        "num": 679435,
+        "word": "10个创意字解读政府工作报告",
+        "onboard_time": 1741493960,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 618260,
+        "num": 618260,
+        "word": "委员称有些癌症已变成慢性病",
+        "onboard_time": 1741494740,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 438887,
+        "num": 438887,
+        "word": "丁程鑫用deepseek写的三行诗",
+        "onboard_time": 1741493001,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 379697,
+        "num": 379697,
+        "word": "人大代表呼吁废除35岁就业门槛",
+        "onboard_time": 1741489220,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 347430,
+        "num": 347430,
+        "word": "刘诗诗新剧情绪爆发力",
+        "onboard_time": 1741495822,
+        "rank": 6,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 326234,
+        "num": 326234,
+        "word": "祖国必然统一是实力使然民心所向",
+        "onboard_time": 1741496241,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 319152,
+        "num": 319152,
+        "word": "薛凯琪演唱会",
+        "onboard_time": 1741493601,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257984,
+        "num": 257984,
+        "word": "赵樱子谈及原生家庭崩溃大哭",
+        "onboard_time": 1741494802,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1049871,
+        "num": 257937,
+        "word": "素颜小姐姐艺考被卸3次妆",
+        "onboard_time": 1741489099,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 925792,
+        "num": 256204,
+        "word": "海底捞",
+        "onboard_time": 1741495041,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 919771,
+        "num": 253876,
+        "word": "何猷君晒全家福给奚梦瑶庆生",
+        "onboard_time": 1741495220,
+        "rank": 12,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 519954,
+        "num": 253390,
+        "word": "戚薇提醒做医美要适度",
+        "onboard_time": 1741497261,
+        "rank": 13,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 490403,
+        "num": 251630,
+        "word": "张云雷瘦了35斤",
+        "onboard_time": 1741489099,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17281,
+        "num": 250585,
+        "word": "人大代表回应街头针灸",
+        "onboard_time": 1741498101,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 340480,
+        "num": 249420,
+        "word": "马思纯手动澄清直播没开瘦脸",
+        "onboard_time": 1741494682,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 18147,
+        "num": 248012,
+        "word": "建议儿童罕见病纳入医保",
+        "onboard_time": 1741498161,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 339829,
+        "num": 245999,
+        "word": "蔡明菜市场劝架阻止家长打孩子",
+        "onboard_time": 1741497680,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233582,
+        "num": 244298,
+        "word": "花少7拟邀",
+        "onboard_time": 1741488379,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438216,
+        "num": 243288,
+        "word": "赵露思与好友逛街",
+        "onboard_time": 1741491261,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285450,
+        "num": 242320,
+        "word": "民警喊檀健次的老婆听取哎声一片",
+        "onboard_time": 1741482739,
+        "rank": 21,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 241111,
+        "num": 241111,
+        "word": "郭德纲 爆炸头",
+        "onboard_time": 1741497741,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238232,
+        "num": 238232,
+        "word": "台湾最大的靠山就是祖国",
+        "onboard_time": 1741491141,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 233896,
+        "num": 233896,
+        "word": "天津公厕紫外线自动消杀惊呆市民",
+        "onboard_time": 1741488200,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231788,
+        "num": 231788,
+        "word": "詹姆斯腹股沟拉伤",
+        "onboard_time": 1741493421,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215274,
+        "num": 215274,
+        "word": "杨幂巴黎时装周出发啦",
+        "onboard_time": 1741495401,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 21513,
+        "num": 206864,
+        "word": "如何打破第一学历的枷锁",
+        "onboard_time": 1741498220,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 202613,
+        "num": 202613,
+        "word": "25岁女孩一天4杯咖啡致骨质疏松",
+        "onboard_time": 1741483581,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160802,
+        "num": 160802,
+        "word": "周震南裤裙造型",
+        "onboard_time": 1741496759,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166531,
+        "num": 160695,
+        "word": "桑延温以凡浴室吻",
+        "onboard_time": 1741497981,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159957,
+        "num": 159957,
+        "word": "难哄",
+        "onboard_time": 1741493840,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150129,
+        "num": 150129,
+        "word": "无限暖暖",
+        "onboard_time": 1741498040,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142046,
+        "num": 142046,
+        "word": "语文课本上的小女孩走进现实了",
+        "onboard_time": 1741494740,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141406,
+        "num": 141406,
+        "word": "爱你婚礼邀请函",
+        "onboard_time": 1741490901,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141248,
+        "num": 141248,
+        "word": "杨迪约谢娜爬山",
+        "onboard_time": 1741498101,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141143,
+        "num": 141143,
+        "word": "手语版天雷滚滚好有感染力",
+        "onboard_time": 1741479738,
+        "rank": 36,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 141112,
+        "num": 141112,
+        "word": "石矶娘娘反诈宣传",
+        "onboard_time": 1741491921,
+        "rank": 37,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 136556,
+        "num": 136556,
+        "word": "恋与制作人",
+        "onboard_time": 1741497981,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131511,
+        "num": 131511,
+        "word": "虞书欣模仿小石矶娘娘",
+        "onboard_time": 1741482440,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129586,
+        "num": 129586,
+        "word": "冰湖重生官微回应张康乐发烧",
+        "onboard_time": 1741496303,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123973,
+        "num": 123973,
+        "word": "爱你超点",
+        "onboard_time": 1741493601,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123269,
+        "num": 123269,
+        "word": "翟潇闻直播跳kissshy",
+        "onboard_time": 1741497921,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117151,
+        "num": 117151,
+        "word": "中国伊朗俄罗斯海军将举行联演",
+        "onboard_time": 1741493481,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116295,
+        "num": 116295,
+        "word": "行大道不信邪不怕鬼",
+        "onboard_time": 1741497620,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111304,
+        "num": 111304,
+        "word": "新乌托邦",
+        "onboard_time": 1741495881,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104991,
+        "num": 104991,
+        "word": "大连地震",
+        "onboard_time": 1741493001,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91961,
+        "num": 91961,
+        "word": "时代峰峻辟谣朱志鑫网传账号",
+        "onboard_time": 1741480578,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87509,
+        "num": 87509,
+        "word": "为什么大家渴望引导型恋人",
+        "onboard_time": 1741486161,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87126,
+        "num": 87126,
+        "word": "宁艺卓自述十年之路",
+        "onboard_time": 1741489340,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}
