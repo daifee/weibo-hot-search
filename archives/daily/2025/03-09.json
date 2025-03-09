@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741508629993,
+  "endTime": 1741509302201,
   "band_list": [
     {
       "raw_hot": 2301647,
@@ -59,8 +59,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 970672,
-      "num": 1148709,
+      "raw_hot": 975663,
+      "num": 1156106,
       "word": "东方白鹳被无人机绞断双腿",
       "onboard_time": 1741500742,
       "rank": 4,
@@ -139,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 784339,
+      "num": 784339,
+      "word": "爱你婚礼用了600斤手拨花瓣",
+      "onboard_time": 1741507879,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 780303,
       "num": 242958,
       "word": "叙利亚",
@@ -185,6 +193,14 @@
       "onboard_time": 1741419981,
       "rank": 10,
       "category": "演出"
+    },
+    {
+      "raw_hot": 711640,
+      "num": 711640,
+      "word": "我国人均预期寿命达79岁",
+      "onboard_time": 1741507100,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 709656,
@@ -257,14 +273,6 @@
       "onboard_time": 1741482620,
       "rank": 33,
       "category": "海外新闻,体育"
-    },
-    {
-      "raw_hot": 600091,
-      "num": 600091,
-      "word": "我国人均预期寿命达79岁",
-      "onboard_time": 1741507100,
-      "rank": 3,
-      "category": "国内时政"
     },
     {
       "raw_hot": 596630,
@@ -361,14 +369,6 @@
       "onboard_time": 1741486161,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 422228,
-      "num": 422228,
-      "word": "爱你婚礼用了600斤手拨花瓣",
-      "onboard_time": 1741507879,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 415997,
@@ -699,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221440,
+      "num": 221440,
+      "word": "2000年以前老旧小区要纳入城市更新改造",
+      "onboard_time": 1741508180,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 216899,
       "num": 239591,
       "word": "麦琳怀孕胖到140斤",
@@ -747,6 +755,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 207537,
+      "num": 207537,
+      "word": "长头发的杨肸子",
+      "onboard_time": 1741508361,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204533,
       "num": 204533,
       "word": "奶奶农忙把孙儿和婴儿床带到地里",
@@ -761,14 +777,6 @@
       "onboard_time": 1741501222,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 202279,
-      "num": 202279,
-      "word": "2000年以前老旧小区要纳入城市更新改造",
-      "onboard_time": 1741508180,
-      "rank": 27,
-      "category": "国内时政"
     },
     {
       "raw_hot": 200682,
@@ -787,7 +795,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197476,
+      "raw_hot": 197583,
       "num": 357479,
       "word": "华晨宇时隔七年唱孩子",
       "onboard_time": 1741506081,
@@ -827,6 +835,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 190231,
+      "num": 190231,
+      "word": "AI被称相当于月薪2000实习生水平",
+      "onboard_time": 1741508180,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 187635,
       "num": 187635,
       "word": "郭爽退团",
@@ -843,12 +859,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 181994,
-      "num": 181994,
-      "word": "AI被称相当于月薪2000实习生水平",
-      "onboard_time": 1741508180,
-      "rank": 33,
-      "category": "互联网"
+      "raw_hot": 185223,
+      "num": 349070,
+      "word": "依法查处就业歧视",
+      "onboard_time": 1741506981,
+      "rank": 9,
+      "category": "民生新闻,国内时政"
     },
     {
       "raw_hot": 180820,
@@ -883,12 +899,36 @@
       "category": "民生新闻,议题讨论"
     },
     {
+      "raw_hot": 177340,
+      "num": 217283,
+      "word": "爱你终于演到合欢这集",
+      "onboard_time": 1741508361,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171540,
       "num": 171540,
       "word": "北上乱成一锅粥了快喝了吧",
       "onboard_time": 1741471454,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169664,
+      "num": 169664,
+      "word": "孙颖莎首轮对阵波尔卡诺娃",
+      "onboard_time": 1741508780,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 168839,
+      "num": 254330,
+      "word": "实施体重管理年3年行动",
+      "onboard_time": 1741508300,
+      "rank": 22,
+      "category": "运动健身"
     },
     {
       "raw_hot": 168814,
@@ -905,14 +945,6 @@
       "onboard_time": 1741489340,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 166469,
-      "num": 254330,
-      "word": "实施体重管理年3年行动",
-      "onboard_time": 1741508300,
-      "rank": 22,
-      "category": "运动健身"
     },
     {
       "raw_hot": 166193,
@@ -1019,6 +1051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 155296,
+      "num": 155296,
+      "word": "男子直播间抢了俩椅子还没巴掌大",
+      "onboard_time": 1741505899,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154384,
       "num": 221617,
       "word": "代表建议为一老一小提供消费补贴",
@@ -1091,14 +1131,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 145820,
-      "num": 145820,
-      "word": "男子直播间抢了俩椅子还没巴掌大",
-      "onboard_time": 1741505899,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 143700,
       "num": 221545,
       "word": "郑钦文教练团队换血",
@@ -1123,22 +1155,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 138988,
-      "num": 138988,
-      "word": "爱你终于演到合欢这集",
-      "onboard_time": 1741508361,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 138167,
-      "num": 138167,
-      "word": "长头发的杨肸子",
-      "onboard_time": 1741508361,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 137560,
       "num": 137560,
       "word": "檀健次和哪吒梦幻联动",
@@ -1161,14 +1177,6 @@
       "onboard_time": 1741503863,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 135293,
-      "num": 349070,
-      "word": "依法查处就业歧视",
-      "onboard_time": 1741506981,
-      "rank": 9,
-      "category": "民生新闻,国内时政"
     },
     {
       "raw_hot": 134556,
@@ -1227,6 +1235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125290,
+      "num": 125290,
+      "word": "各地文旅用一张机票的事转场",
+      "onboard_time": 1741509261,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 124747,
       "num": 124747,
       "word": "活塞vs勇士",
@@ -1265,6 +1281,14 @@
       "onboard_time": 1741504221,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121590,
+      "num": 121590,
+      "word": "巴菲特60年获5.5万倍收益",
+      "onboard_time": 1741509081,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 120693,
@@ -1523,6 +1547,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 100954,
+      "num": 185624,
+      "word": "王楚钦出发重庆冠军赛",
+      "onboard_time": 1741506921,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100950,
       "num": 100950,
       "word": "张颜齐石凯好六结界兽",
@@ -1649,6 +1681,14 @@
       "onboard_time": 1741478538,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 92094,
+      "num": 216777,
+      "word": "每年补贴职业技能培训1000万人次以上",
+      "onboard_time": 1741509081,
+      "rank": 20,
+      "category": "民生新闻,国内时政"
     },
     {
       "raw_hot": 91224,
@@ -2091,8 +2131,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 10526,
-      "num": 634474,
+      "raw_hot": 11378,
+      "num": 739520,
       "word": "AI创意海报看2025民生举措",
       "onboard_time": 1741484840,
       "rank": 2,
