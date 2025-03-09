@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741526449154,
+  "endTime": 1741527303575,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1241,6 +1241,14 @@
       "onboard_time": 1741219938,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1092763,
+      "num": 465446,
+      "word": "张凌赫徐若晗 二搭",
+      "onboard_time": 1741525582,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 1080920,
@@ -2547,6 +2555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 721276,
+      "num": 311348,
+      "word": "王一博奥斯卡影帝AdrienBrody坐一起",
+      "onboard_time": 1741519042,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 717674,
       "num": 717674,
       "word": "石矶娘娘已经逃到洛阳了",
@@ -2633,14 +2649,6 @@
       "onboard_time": 1741494740,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 701137,
-      "num": 311348,
-      "word": "王一博奥斯卡影帝AdrienBrody坐一起",
-      "onboard_time": 1741519042,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 695500,
@@ -3083,6 +3091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 631484,
+      "num": 333038,
+      "word": "叶璇回应病重父亲遭保姆抢家产",
+      "onboard_time": 1741519342,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 631332,
       "num": 406842,
       "word": "嘘国王在冬眠定档",
@@ -3113,6 +3129,14 @@
       "onboard_time": 1741332021,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 628228,
+      "num": 628228,
+      "word": "老板送菜后得知顾客刚救了自己儿子",
+      "onboard_time": 1741524563,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 627728,
@@ -3305,14 +3329,6 @@
       "onboard_time": 1740808374,
       "rank": 15,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 608468,
-      "num": 333038,
-      "word": "叶璇回应病重父亲遭保姆抢家产",
-      "onboard_time": 1741519342,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 606156,
@@ -5691,14 +5707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 373170,
-      "num": 361601,
-      "word": "张凌赫徐若晗 二搭",
-      "onboard_time": 1741525582,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 372728,
       "num": 372728,
       "word": "为何越来越多小众服饰品牌变便宜了",
@@ -5793,14 +5801,6 @@
       "onboard_time": 1741248260,
       "rank": 27,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 367478,
-      "num": 367478,
-      "word": "老板送菜后得知顾客刚救了自己儿子",
-      "onboard_time": 1741524563,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 365947,
@@ -6547,6 +6547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 330153,
+      "num": 262608,
+      "word": "赵一博遇人不熟杀青",
+      "onboard_time": 1741526662,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 329939,
       "num": 329939,
       "word": "杨肸子素颜直播",
@@ -6641,6 +6649,14 @@
       "onboard_time": 1741341082,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 326729,
+      "num": 281754,
+      "word": "桑延温以凡再也不会分开了",
+      "onboard_time": 1741524381,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 326642,
@@ -7745,14 +7761,6 @@
       "onboard_time": 1741312700,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 281754,
-      "num": 281754,
-      "word": "桑延温以凡再也不会分开了",
-      "onboard_time": 1741524381,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 281733,
@@ -10347,6 +10355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207257,
+      "num": 207257,
+      "word": "你知道姜还有姜母吗",
+      "onboard_time": 1741526662,
+      "rank": 25,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 206940,
       "num": 206940,
       "word": "Meow对战WBG",
@@ -11545,6 +11561,14 @@
       "onboard_time": 1740988338,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191880,
+      "num": 191880,
+      "word": "无需多言",
+      "onboard_time": 1741526302,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 191787,
@@ -14547,6 +14571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156308,
+      "num": 156308,
+      "word": "司机早高峰在马路中央停车买早餐",
+      "onboard_time": 1741525161,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156205,
       "num": 156205,
       "word": "有一种生机勃勃叫惊蛰",
@@ -15355,6 +15387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149143,
+      "num": 149143,
+      "word": "辛芷蕾真是一个梗都没放过",
+      "onboard_time": 1741526662,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149113,
       "num": 191934,
       "word": "恋与深空 普谷",
@@ -15619,14 +15659,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 147002,
-      "num": 147002,
-      "word": "司机早高峰在马路中央停车买早餐",
-      "onboard_time": 1741525161,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 146995,
       "num": 146995,
       "word": "第五人格赛事",
@@ -15641,6 +15673,14 @@
       "onboard_time": 1740922041,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 146907,
+      "num": 146907,
+      "word": "何苏叶求婚词",
+      "onboard_time": 1741526544,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 146731,
@@ -18227,6 +18267,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 123463,
+      "num": 123463,
+      "word": "刘忻把话筒插在腰上",
+      "onboard_time": 1741526422,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 123307,
       "num": 123307,
       "word": "林高远体测跳远满分",
@@ -18745,6 +18793,14 @@
       "onboard_time": 1741068378,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 119169,
+      "num": 119169,
+      "word": "2025年奥尔良羽毛球大师赛",
+      "onboard_time": 1741527022,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 119111,
@@ -21203,14 +21259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 98812,
-      "num": 98812,
-      "word": "无需多言",
-      "onboard_time": 1741526302,
-      "rank": 37,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 98724,
       "num": 287754,
       "word": "易梦玲巴黎时装周生图状态",
@@ -23083,14 +23131,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 75279,
-      "num": 78249,
-      "word": "刘忻把话筒插在腰上",
-      "onboard_time": 1741526422,
-      "rank": 47,
-      "category": "演出"
-    },
-    {
       "raw_hot": 75271,
       "num": 126999,
       "word": "美联邦快递一架飞机因引擎起火迫降",
@@ -24819,6 +24859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49756,
+      "num": 216347,
+      "word": "建议破除教育内卷",
+      "onboard_time": 1741527083,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49745,
       "num": 221430,
       "word": "谢娜家乡宣传委员",
@@ -25819,6 +25867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 35913,
+      "num": 152131,
+      "word": "河你看两会",
+      "onboard_time": 1741525161,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 35868,
       "num": 201322,
       "word": "王星越时装周内场状态",
@@ -25951,14 +26007,6 @@
       "num": 202488,
       "word": "代表建议药品说明书改变专业用语表述",
       "onboard_time": 1741007240,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 34351,
-      "num": 133271,
-      "word": "河你看两会",
-      "onboard_time": 1741525161,
       "rank": 29,
       "category": "国内时政"
     },
@@ -26395,6 +26443,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 28603,
+      "num": 263613,
+      "word": "在两会给中美AI组了场高考",
+      "onboard_time": 1741526902,
+      "rank": 14,
+      "category": "国内时政,互联网"
+    },
+    {
       "raw_hot": 28329,
       "num": 30321,
       "word": "民进党当局打算让女性上战场",
@@ -26713,6 +26769,14 @@
       "onboard_time": 1741090759,
       "rank": 14,
       "category": "国内时政,教育"
+    },
+    {
+      "raw_hot": 25797,
+      "num": 261946,
+      "word": "夸克推荐25年必追剧单",
+      "onboard_time": 1741526122,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 25784,
@@ -28145,14 +28209,6 @@
       "onboard_time": 1740958395,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 7467,
-      "num": 98818,
-      "word": "夸克推荐25年必追剧单",
-      "onboard_time": 1741526122,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 6312,
