@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741540707648,
+  "endTime": 1741541716448,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -10883,6 +10883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203397,
+      "num": 203397,
+      "word": "雷军又挂了三条热搜",
+      "onboard_time": 1741537220,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 203286,
       "num": 203286,
       "word": "你私吞我聘礼我明抢你家产",
@@ -12857,14 +12865,6 @@
       "onboard_time": 1741425861,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 177185,
-      "num": 128676,
-      "word": "雷军又挂了三条热搜",
-      "onboard_time": 1741537220,
-      "rank": 39,
-      "category": "财经"
     },
     {
       "raw_hot": 177174,
@@ -24915,6 +24915,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 55589,
+      "num": 74152,
+      "word": "美宇航员已滞留太空9个月",
+      "onboard_time": 1741541237,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 55497,
       "num": 105982,
       "word": "Manus官网注册页面一度崩溃",
@@ -26473,6 +26481,14 @@
       "onboard_time": 1741332381,
       "rank": 29,
       "category": "国内时政,健康医疗"
+    },
+    {
+      "raw_hot": 33794,
+      "num": 74113,
+      "word": "TT蝉联周冠军",
+      "onboard_time": 1741538659,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 33783,

@@ -1,6 +1,6 @@
 {
   "startTime": 1741537363234,
-  "endTime": 1741540707648,
+  "endTime": 1741541716448,
   "band_list": [
     {
       "raw_hot": 1337034,
@@ -187,6 +187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 203397,
+      "num": 203397,
+      "word": "雷军又挂了三条热搜",
+      "onboard_time": 1741537220,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 198630,
       "num": 198630,
       "word": "手机尾号77777777拍出254.4万元",
@@ -201,14 +209,6 @@
       "onboard_time": 1741524563,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 177185,
-      "num": 128676,
-      "word": "雷军又挂了三条热搜",
-      "onboard_time": 1741537220,
-      "rank": 39,
-      "category": "财经"
     },
     {
       "raw_hot": 157596,
@@ -387,6 +387,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 55589,
+      "num": 74152,
+      "word": "美宇航员已滞留太空9个月",
+      "onboard_time": 1741541237,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 52865,
       "num": 73618,
       "word": "袁咏仪能不化妆就不化妆",
@@ -425,6 +433,14 @@
       "onboard_time": 1741529424,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 33794,
+      "num": 74113,
+      "word": "TT蝉联周冠军",
+      "onboard_time": 1741538659,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 33637,

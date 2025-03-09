@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741540707648,
+  "endTime": 1741541716448,
   "band_list": [
     {
       "raw_hot": 2815044,
@@ -1315,6 +1315,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 203397,
+      "num": 203397,
+      "word": "雷军又挂了三条热搜",
+      "onboard_time": 1741537220,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 200682,
       "num": 200682,
       "word": "哪吒",
@@ -1529,14 +1537,6 @@
       "onboard_time": 1741508361,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 177185,
-      "num": 128676,
-      "word": "雷军又挂了三条热搜",
-      "onboard_time": 1741537220,
-      "rank": 39,
-      "category": "财经"
     },
     {
       "raw_hot": 173964,
@@ -3163,6 +3163,14 @@
       "category": "国内时政,体育"
     },
     {
+      "raw_hot": 55589,
+      "num": 74152,
+      "word": "美宇航员已滞留太空9个月",
+      "onboard_time": 1741541237,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 52264,
       "num": 120757,
       "word": "惹怒虞书欣只需要一个林一",
@@ -3273,6 +3281,14 @@
       "onboard_time": 1741533085,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33794,
+      "num": 74113,
+      "word": "TT蝉联周冠军",
+      "onboard_time": 1741538659,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 33637,
