@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1741519032144,
+  "endTime": 1741520096857,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1899,6 +1899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 2815044,
+      "num": 2815044,
+      "word": "哪吒2冲上全球第6",
+      "onboard_time": 1741509981,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 2814831,
       "num": 2068234,
       "word": "难哄 恶趣味",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736326824,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2480211,
-      "num": 2480211,
-      "word": "网红罗大美转账200万元仍遭灭口",
-      "onboard_time": 1740323303,
-      "rank": 4,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

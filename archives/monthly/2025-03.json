@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741519032144,
+  "endTime": 1741520096857,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -121,6 +121,14 @@
       "onboard_time": 1740811715,
       "rank": 10,
       "category": "演出"
+    },
+    {
+      "raw_hot": 2815044,
+      "num": 2815044,
+      "word": "哪吒2冲上全球第6",
+      "onboard_time": 1741509981,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 2805866,
@@ -617,14 +625,6 @@
       "onboard_time": 1741496481,
       "rank": 5,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 1526756,
-      "num": 1526756,
-      "word": "哪吒2冲上全球第6",
-      "onboard_time": 1741509981,
-      "rank": 0,
-      "category": "电影"
     },
     {
       "raw_hot": 1517875,
@@ -3811,6 +3811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 547553,
+      "num": 547553,
+      "word": "男子一个月怒刷32遍肖战版射雕",
+      "onboard_time": 1741517303,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 540664,
       "num": 540664,
       "word": "欧盟主席对中国口气变了",
@@ -4209,6 +4217,14 @@
       "onboard_time": 1740893359,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 488083,
+      "num": 227693,
+      "word": "王一博奥斯卡影帝AdrienBrody坐一起",
+      "onboard_time": 1741519042,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 487679,
@@ -6619,14 +6635,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 321742,
-      "num": 239972,
-      "word": "男子一个月怒刷32遍肖战版射雕",
-      "onboard_time": 1741517303,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 321492,
       "num": 321492,
       "word": "黄金",
@@ -8353,6 +8361,14 @@
       "onboard_time": 1741397960,
       "rank": 22,
       "category": "数码"
+    },
+    {
+      "raw_hot": 255639,
+      "num": 212569,
+      "word": "叶璇回应病重父亲遭保姆抢家产",
+      "onboard_time": 1741519342,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 255551,
@@ -11027,6 +11043,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 196165,
+      "num": 196165,
+      "word": "滤镜大王",
+      "onboard_time": 1741519220,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196153,
       "num": 196153,
       "word": "周思成回应",
@@ -12867,6 +12891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172019,
+      "num": 172019,
+      "word": "似锦",
+      "onboard_time": 1740823041,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171981,
       "num": 171981,
       "word": "焦虑抑郁是不是病态有两个标准",
@@ -14675,6 +14707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153727,
+      "num": 285068,
+      "word": "全国将启用12356心理援助热线",
+      "onboard_time": 1741516702,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 153668,
       "num": 153668,
       "word": "广东男篮vs辽宁男篮",
@@ -15841,14 +15881,6 @@
       "onboard_time": 1740967999,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 142702,
-      "num": 142702,
-      "word": "似锦",
-      "onboard_time": 1740823041,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 142633,
@@ -17771,6 +17803,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 125487,
+      "num": 125487,
+      "word": "美国一州长喊话美国人说你被骗了",
+      "onboard_time": 1741516461,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 125473,
       "num": 294370,
       "word": "大力发展智能机器人等",
@@ -18049,6 +18089,14 @@
       "onboard_time": 1741515682,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123083,
+      "num": 123083,
+      "word": "仙逆",
+      "onboard_time": 1741518983,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 122940,
@@ -18659,14 +18707,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 118146,
-      "num": 285068,
-      "word": "全国将启用12356心理援助热线",
-      "onboard_time": 1741516702,
-      "rank": 41,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 117826,
       "num": 339235,
       "word": "刘国梁说要把赛场秩序治理好",
@@ -18721,14 +18761,6 @@
       "onboard_time": 1741350082,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 117290,
-      "num": 117290,
-      "word": "美国一州长喊话美国人说你被骗了",
-      "onboard_time": 1741516461,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 117235,
@@ -19611,6 +19643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 109640,
+      "num": 109640,
+      "word": "似锦当场戳破7年虚假夫妻情",
+      "onboard_time": 1741519821,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109539,
       "num": 109539,
       "word": "一人写一个最崇拜的女性",
@@ -20201,14 +20241,6 @@
       "onboard_time": 1740819983,
       "rank": 19,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 104877,
-      "num": 104877,
-      "word": "仙逆",
-      "onboard_time": 1741518983,
-      "rank": 48,
-      "category": "动漫"
     },
     {
       "raw_hot": 104816,
@@ -21419,6 +21451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 94371,
+      "num": 94371,
+      "word": "jhope柳智敏challenge",
+      "onboard_time": 1741520001,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94280,
       "num": 197360,
       "word": "以色列称已阻止人道物资进入加沙",
@@ -22356,7 +22396,7 @@
     },
     {
       "raw_hot": 83169,
-      "num": 83169,
+      "num": 228307,
       "word": "刘洋说期待再度奔赴太空",
       "onboard_time": 1741515382,
       "rank": 49,
@@ -22625,6 +22665,14 @@
       "onboard_time": 1741090821,
       "rank": 46,
       "category": "体育,国内时政"
+    },
+    {
+      "raw_hot": 78068,
+      "num": 182207,
+      "word": "真给33在评论区爽到了",
+      "onboard_time": 1741519283,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 77893,
@@ -22905,6 +22953,14 @@
       "onboard_time": 1740874216,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 73099,
+      "num": 167363,
+      "word": "俄防空部队一夜击落88架无人机",
+      "onboard_time": 1741519523,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 73062,

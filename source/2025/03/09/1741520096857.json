@@ -1,0 +1,410 @@
+{
+  "runTime": 1741520096857,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2815044,
+        "num": 2815044,
+        "word": "哪吒2冲上全球第6",
+        "onboard_time": 1741509981,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 571002,
+        "num": 571002,
+        "word": "住宅层高标准将不低于3米",
+        "onboard_time": 1741513881,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14198,
+        "num": 548254,
+        "word": "AI创意海报看2025民生举措",
+        "onboard_time": 1741484840,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 547553,
+        "num": 547553,
+        "word": "男子一个月怒刷32遍肖战版射雕",
+        "onboard_time": 1741517303,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 329288,
+        "num": 329288,
+        "word": "我国医院开始设立体重门诊",
+        "onboard_time": 1741509682,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 322868,
+        "num": 322868,
+        "word": "东方白鹳被无人机绞断双腿",
+        "onboard_time": 1741500742,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256906,
+        "num": 256906,
+        "word": "成都人用deepseek搜了啥",
+        "onboard_time": 1741514301,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 509255,
+        "num": 247373,
+        "word": "爱你婚礼用了600斤手拨花瓣",
+        "onboard_time": 1741507879,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228529,
+        "num": 228529,
+        "word": "等了14集男女主终于看对眼了",
+        "onboard_time": 1741514181,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47829,
+        "num": 228307,
+        "word": "刘洋说期待再度奔赴太空",
+        "onboard_time": 1741515382,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 873315,
+        "num": 228149,
+        "word": "手机尾号77777777拍出254.4万元",
+        "onboard_time": 1741517063,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 613054,
+        "num": 227994,
+        "word": "韩国人开始大量买入中国股票",
+        "onboard_time": 1741509682,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 488083,
+        "num": 227693,
+        "word": "王一博奥斯卡影帝AdrienBrody坐一起",
+        "onboard_time": 1741519042,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 428744,
+        "num": 227499,
+        "word": "最能吃苦的那一代人又回来了",
+        "onboard_time": 1741517243,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 383747,
+        "num": 227250,
+        "word": "素颜小姐姐艺考被卸3次妆",
+        "onboard_time": 1741489099,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227097,
+        "num": 227097,
+        "word": "欧阳娜娜美貌比飞机先落地巴黎",
+        "onboard_time": 1741514419,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 221512,
+        "num": 221512,
+        "word": "都说了宫内禁止对食",
+        "onboard_time": 1741510219,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 365302,
+        "num": 220322,
+        "word": "王一博LACOSTE大秀造型",
+        "onboard_time": 1741517303,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 217947,
+        "num": 217947,
+        "word": "袁咏仪能不化妆就不化妆",
+        "onboard_time": 1741515382,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216470,
+        "num": 216470,
+        "word": "爱你",
+        "onboard_time": 1741511840,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 774227,
+        "num": 214010,
+        "word": "王大陆的手机又被查出新案",
+        "onboard_time": 1741516399,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255639,
+        "num": 212569,
+        "word": "叶璇回应病重父亲遭保姆抢家产",
+        "onboard_time": 1741519342,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201052,
+        "num": 201052,
+        "word": "将稳步提高养老保险待遇水平",
+        "onboard_time": 1741516399,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 196165,
+        "num": 196165,
+        "word": "滤镜大王",
+        "onboard_time": 1741519220,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78068,
+        "num": 182207,
+        "word": "真给33在评论区爽到了",
+        "onboard_time": 1741519283,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 179742,
+        "num": 179742,
+        "word": "杨紫李现锦绣芳华开启招商",
+        "onboard_time": 1741515860,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172019,
+        "num": 172019,
+        "word": "似锦",
+        "onboard_time": 1741519642,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73099,
+        "num": 167363,
+        "word": "俄防空部队一夜击落88架无人机",
+        "onboard_time": 1741519523,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 167004,
+        "num": 167004,
+        "word": "民生主题记者会",
+        "onboard_time": 1741504161,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 164841,
+        "num": 164841,
+        "word": "苏醒给自己放了5周的假",
+        "onboard_time": 1741517483,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 194073,
+        "num": 164283,
+        "word": "桑延 男鬼",
+        "onboard_time": 1741501821,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153727,
+        "num": 153727,
+        "word": "全国将启用12356心理援助热线",
+        "onboard_time": 1741516702,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 143557,
+        "num": 143557,
+        "word": "男子离婚后跟踪殴打前妻被认定家暴",
+        "onboard_time": 1741502600,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129098,
+        "num": 129098,
+        "word": "爱你里有毕雯珺",
+        "onboard_time": 1741515622,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128457,
+        "num": 128457,
+        "word": "2000年以前老旧小区要纳入城市更新改造",
+        "onboard_time": 1741508180,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 125487,
+        "num": 125487,
+        "word": "美国一州长喊话美国人说你被骗了",
+        "onboard_time": 1741516461,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123083,
+        "num": 123083,
+        "word": "仙逆",
+        "onboard_time": 1741518983,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 120036,
+        "num": 120036,
+        "word": "我国人均预期寿命达79岁",
+        "onboard_time": 1741507100,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118197,
+        "num": 118197,
+        "word": "实施体重管理年3年行动",
+        "onboard_time": 1741508300,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 114190,
+        "num": 114190,
+        "word": "海尔老总周云杰撞脸结界兽",
+        "onboard_time": 1741514482,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112330,
+        "num": 112330,
+        "word": "梦花廷陈哲远张婧仪拥吻路透",
+        "onboard_time": 1741518502,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109640,
+        "num": 109640,
+        "word": "似锦当场戳破7年虚假夫妻情",
+        "onboard_time": 1741519821,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109567,
+        "num": 109567,
+        "word": "虞书欣腹语说看我",
+        "onboard_time": 1741515682,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108377,
+        "num": 108377,
+        "word": "今年高校毕业生1222万人",
+        "onboard_time": 1741505361,
+        "rank": 43,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 103858,
+        "num": 103858,
+        "word": "长头发的杨肸子",
+        "onboard_time": 1741508361,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102164,
+        "num": 102164,
+        "word": "叔叔你是陈飞宇哥哥吗",
+        "onboard_time": 1741499361,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94371,
+        "num": 94371,
+        "word": "jhope柳智敏challenge",
+        "onboard_time": 1741520001,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93193,
+        "num": 93193,
+        "word": "陈妍希黄磊何炅合照",
+        "onboard_time": 1741500862,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 93069,
+        "num": 93069,
+        "word": "雷军谈小米汽车订单排队超半年",
+        "onboard_time": 1741510700,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 88556,
+        "num": 88556,
+        "word": "心跳比我先认出你",
+        "onboard_time": 1741515382,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平再谈共同富裕#"
+    }
+  }
+}
