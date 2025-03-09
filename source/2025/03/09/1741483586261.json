@@ -1,0 +1,410 @@
+{
+  "runTime": 1741483586261,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 589340,
+        "num": 1094294,
+        "word": "手语版天雷滚滚好有感染力",
+        "onboard_time": 1741479738,
+        "rank": 0,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 294251,
+        "num": 294251,
+        "word": "泽连斯基称和平方案已在谈判桌上",
+        "onboard_time": 1741478118,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 27602,
+        "num": 277494,
+        "word": "一组图梳理两高工作报告",
+        "onboard_time": 1741442664,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 810136,
+        "num": 276719,
+        "word": "雷军回应国庆7天AI雷军骂了8天",
+        "onboard_time": 1741477637,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 722549,
+        "num": 276459,
+        "word": "雷军称小米曾遭造谣被查导致股价下跌",
+        "onboard_time": 1741481540,
+        "rank": 4,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 273463,
+        "num": 273463,
+        "word": "超600吨黄金流入美国",
+        "onboard_time": 1741442422,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 252861,
+        "num": 252861,
+        "word": "原来芍药是古人的爱情花",
+        "onboard_time": 1741479920,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244387,
+        "num": 244387,
+        "word": "电影雄狮少年维权声明",
+        "onboard_time": 1741454118,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 230622,
+        "num": 230622,
+        "word": "冰湖重生",
+        "onboard_time": 1741482019,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40511,
+        "num": 228840,
+        "word": "如何斩断偷拍产业链",
+        "onboard_time": 1741479979,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61137,
+        "num": 226729,
+        "word": "谷爱凌锁骨受伤",
+        "onboard_time": 1741483219,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1024583,
+        "num": 225216,
+        "word": "代表说996不理想应该888",
+        "onboard_time": 1741446624,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 496925,
+        "num": 221805,
+        "word": "小米SU7Ultra车主深夜城区飙车",
+        "onboard_time": 1741476376,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 415997,
+        "num": 220105,
+        "word": "麦琳说再见爱人后容貌焦虑达到峰值",
+        "onboard_time": 1741455797,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218314,
+        "num": 218314,
+        "word": "哪吒2票房距全球第6仅差不到1亿",
+        "onboard_time": 1741434622,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 320714,
+        "num": 218229,
+        "word": "烟盒写建议被采纳82岁大爷回应走红",
+        "onboard_time": 1741440562,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 307747,
+        "num": 199931,
+        "word": "金靖对林一说人不塌就行了",
+        "onboard_time": 1741477397,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298471,
+        "num": 181849,
+        "word": "时代峰峻辟谣朱志鑫网传账号",
+        "onboard_time": 1741480578,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264012,
+        "num": 171862,
+        "word": "虞书欣模仿小石矶娘娘",
+        "onboard_time": 1741482440,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169294,
+        "num": 169294,
+        "word": "民警喊檀健次的老婆听取哎声一片",
+        "onboard_time": 1741482739,
+        "rank": 19,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 400853,
+        "num": 167941,
+        "word": "温以凡香港刷盘子",
+        "onboard_time": 1741463834,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162679,
+        "num": 162679,
+        "word": "人大代表建议将农村医保改为储蓄型",
+        "onboard_time": 1741446863,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 161164,
+        "num": 161164,
+        "word": "伊能静都57了还在免检生图",
+        "onboard_time": 1741435522,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161084,
+        "num": 161084,
+        "word": "白鹿早啊晚安",
+        "onboard_time": 1741482261,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159974,
+        "num": 159974,
+        "word": "HPV病毒感染不分男女",
+        "onboard_time": 1741477818,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 154572,
+        "num": 154572,
+        "word": "住酒店上厕所隐私视频被售卖",
+        "onboard_time": 1741441042,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 146037,
+        "num": 146037,
+        "word": "家有儿女是这样过妇女节的",
+        "onboard_time": 1741460235,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129216,
+        "num": 129216,
+        "word": "张碧晨唱着唱着哪吒又破纪录了",
+        "onboard_time": 1741478719,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128774,
+        "num": 128774,
+        "word": "蒋敦豪说请大家坚定的选择十个勤天",
+        "onboard_time": 1741444703,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 108241,
+        "num": 126612,
+        "word": "北上乱成一锅粥了快喝了吧",
+        "onboard_time": 1741471454,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126585,
+        "num": 126585,
+        "word": "吴艳妮60米栏8秒10夺冠",
+        "onboard_time": 1741478538,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123887,
+        "num": 123887,
+        "word": "薛凯琪发长文",
+        "onboard_time": 1741419981,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111041,
+        "num": 111041,
+        "word": "石矶娘娘已经逃到洛阳了",
+        "onboard_time": 1741445182,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109758,
+        "num": 109758,
+        "word": "前加拿大奥运选手成跨国大毒枭",
+        "onboard_time": 1741482620,
+        "rank": 33,
+        "category": "海外新闻,体育"
+      },
+      {
+        "raw_hot": 106532,
+        "num": 106532,
+        "word": "美乌将在沙特会谈",
+        "onboard_time": 1741479139,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103142,
+        "num": 103142,
+        "word": "每一个人都是主角",
+        "onboard_time": 1741475416,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101447,
+        "num": 101447,
+        "word": "婚礼最没有必要的步骤是什么",
+        "onboard_time": 1741437382,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99747,
+        "num": 99747,
+        "word": "湖人vs凯尔特人",
+        "onboard_time": 1741480940,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96511,
+        "num": 96511,
+        "word": "何小鹏说广州优势太多了",
+        "onboard_time": 1741482440,
+        "rank": 38,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 95365,
+        "num": 95365,
+        "word": "不要再叫女神节女王节了",
+        "onboard_time": 1741428922,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92239,
+        "num": 92239,
+        "word": "无人机逗猫一秒被踹飞",
+        "onboard_time": 1741478538,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86500,
+        "num": 86500,
+        "word": "雨雪大风沙尘组团来袭",
+        "onboard_time": 1741482440,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86452,
+        "num": 86452,
+        "word": "杨迪你是黄子弘凡的女主吗",
+        "onboard_time": 1741482860,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84702,
+        "num": 84702,
+        "word": "叙利亚",
+        "onboard_time": 1741447822,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 81296,
+        "num": 81296,
+        "word": "TOP登陆少年",
+        "onboard_time": 1741451120,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76492,
+        "num": 76492,
+        "word": "你好星期六下期是凡人修仙传",
+        "onboard_time": 1741441582,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76388,
+        "num": 76388,
+        "word": "探清水河一响辫儿哥哥回来了",
+        "onboard_time": 1741449261,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 75323,
+        "num": 75323,
+        "word": "甄子丹说好房子不要太贵",
+        "onboard_time": 1741478838,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 73200,
+        "num": 73200,
+        "word": "怪不得平台建议后排入座呢",
+        "onboard_time": 1741470193,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 70915,
+        "num": 70915,
+        "word": "何小鹏代表回应新能源汽车车门不好开",
+        "onboard_time": 1741483099,
+        "rank": 49,
+        "category": "国内时政,汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对创新念兹在兹#"
+    }
+  }
+}

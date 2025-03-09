@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741476940958,
+  "endTime": 1741483586261,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1915,6 +1915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 810136,
+      "num": 276719,
+      "word": "雷军回应国庆7天AI雷军骂了8天",
+      "onboard_time": 1741477637,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 807166,
       "num": 807166,
       "word": "原来刘德华才是最大彩蛋啊",
@@ -2257,6 +2265,14 @@
       "onboard_time": 1740830483,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 722549,
+      "num": 276459,
+      "word": "雷军称小米曾遭造谣被查导致股价下跌",
+      "onboard_time": 1741481540,
+      "rank": 4,
+      "category": "国内时政,互联网"
     },
     {
       "raw_hot": 722528,
@@ -3043,6 +3059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 589340,
+      "num": 1094294,
+      "word": "手语版天雷滚滚好有感染力",
+      "onboard_time": 1741479738,
+      "rank": 0,
+      "category": "民生新闻,电影"
+    },
+    {
       "raw_hot": 589337,
       "num": 570400,
       "word": "朱志鑫给陈赫养女儿提了个醒",
@@ -3777,6 +3801,14 @@
       "onboard_time": 1740907399,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 496925,
+      "num": 221805,
+      "word": "小米SU7Ultra车主深夜城区飙车",
+      "onboard_time": 1741476376,
+      "rank": 11,
+      "category": "汽车"
     },
     {
       "raw_hot": 495967,
@@ -4539,6 +4571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 415997,
+      "num": 220105,
+      "word": "麦琳说再见爱人后容貌焦虑达到峰值",
+      "onboard_time": 1741455797,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 415990,
       "num": 200167,
       "word": "张天爱自曝体重96.4斤",
@@ -4761,6 +4801,14 @@
       "onboard_time": 1740914000,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 400853,
+      "num": 176233,
+      "word": "温以凡香港刷盘子",
+      "onboard_time": 1741463834,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 399822,
@@ -6339,6 +6387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 307747,
+      "num": 199931,
+      "word": "金靖对林一说人不塌就行了",
+      "onboard_time": 1741477397,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 307371,
       "num": 264175,
       "word": "文泰一拘捕令被驳回",
@@ -6531,6 +6587,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 298471,
+      "num": 181849,
+      "word": "时代峰峻辟谣朱志鑫网传账号",
+      "onboard_time": 1741480578,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 298450,
       "num": 232351,
       "word": "女孩用DeepSeek挑到报恩榴莲",
@@ -6681,6 +6745,14 @@
       "onboard_time": 1740836242,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 294251,
+      "num": 294251,
+      "word": "泽连斯基称和平方案已在谈判桌上",
+      "onboard_time": 1741478118,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 294105,
@@ -7057,14 +7129,6 @@
       "onboard_time": 1741402520,
       "rank": 15,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 280264,
-      "num": 108241,
-      "word": "麦琳说再见爱人后容貌焦虑达到峰值",
-      "onboard_time": 1741455797,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 279954,
@@ -7531,6 +7595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 264012,
+      "num": 171862,
+      "word": "虞书欣模仿小石矶娘娘",
+      "onboard_time": 1741482440,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263916,
       "num": 244273,
       "word": "刘畊宏谈流量下降",
@@ -7795,6 +7867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 252861,
+      "num": 252861,
+      "word": "原来芍药是古人的爱情花",
+      "onboard_time": 1741479920,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252401,
       "num": 303217,
       "word": "哪吒2票房",
@@ -8019,6 +8099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244387,
+      "num": 244387,
+      "word": "电影雄狮少年维权声明",
+      "onboard_time": 1741454118,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
       "raw_hot": 243995,
       "num": 243995,
       "word": "接生了一辈子这次是女儿和外孙",
@@ -8161,14 +8249,6 @@
       "onboard_time": 1740918801,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 237977,
-      "num": 108214,
-      "word": "小米SU7Ultra车主深夜城区飙车",
-      "onboard_time": 1741476376,
-      "rank": 11,
-      "category": "汽车"
     },
     {
       "raw_hot": 237971,
@@ -8384,6 +8464,14 @@
       "word": "白敬亭两次抬眼含泪",
       "onboard_time": 1741189758,
       "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 230622,
+      "num": 230622,
+      "word": "冰湖重生",
+      "onboard_time": 1741482019,
+      "rank": 8,
       "category": "剧集"
     },
     {
@@ -11595,14 +11683,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 176233,
-      "num": 176233,
-      "word": "温以凡香港刷盘子",
-      "onboard_time": 1741463834,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 176086,
       "num": 171875,
       "word": "特朗普对恢复乌矿产交易不感兴趣了",
@@ -12169,6 +12249,14 @@
       "onboard_time": 1740971420,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169294,
+      "num": 169294,
+      "word": "民警喊檀健次的老婆听取哎声一片",
+      "onboard_time": 1741482739,
+      "rank": 19,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 169281,
@@ -12891,6 +12979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161084,
+      "num": 161084,
+      "word": "白鹿早啊晚安",
+      "onboard_time": 1741482261,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161081,
       "num": 161081,
       "word": "卢靖姗父母爱情原件正确",
@@ -12985,6 +13081,14 @@
       "onboard_time": 1741234819,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 159974,
+      "num": 159974,
+      "word": "HPV病毒感染不分男女",
+      "onboard_time": 1741477818,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 159892,
@@ -13819,14 +13923,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 152443,
-      "num": 152443,
-      "word": "电影雄狮少年维权声明",
-      "onboard_time": 1741454118,
-      "rank": 1,
-      "category": "电影"
-    },
-    {
       "raw_hot": 152442,
       "num": 152442,
       "word": "华晨宇从头红到脚",
@@ -14424,6 +14520,14 @@
       "word": "檀健次爆发戏",
       "onboard_time": 1741187658,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 146037,
+      "num": 146037,
+      "word": "家有儿女是这样过妇女节的",
+      "onboard_time": 1741460235,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -16019,6 +16123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 129216,
+      "num": 129216,
+      "word": "张碧晨唱着唱着哪吒又破纪录了",
+      "onboard_time": 1741478719,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 129156,
       "num": 164720,
       "word": "网易游戏发文致歉",
@@ -16345,6 +16457,14 @@
       "onboard_time": 1741219398,
       "rank": 42,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 126585,
+      "num": 126585,
+      "word": "吴艳妮60米栏8秒10夺冠",
+      "onboard_time": 1741478538,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 126526,
@@ -18155,6 +18275,14 @@
       "category": "国内时政,教育"
     },
     {
+      "raw_hot": 109758,
+      "num": 109758,
+      "word": "前加拿大奥运选手成跨国大毒枭",
+      "onboard_time": 1741482620,
+      "rank": 33,
+      "category": "海外新闻,体育"
+    },
+    {
       "raw_hot": 109716,
       "num": 109716,
       "word": "美乌未签矿产协议",
@@ -18481,6 +18609,14 @@
       "onboard_time": 1740817945,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106532,
+      "num": 106532,
+      "word": "美乌将在沙特会谈",
+      "onboard_time": 1741479139,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 106414,
@@ -18923,6 +19059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103142,
+      "num": 108056,
+      "word": "每一个人都是主角",
+      "onboard_time": 1741475416,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103121,
       "num": 103121,
       "word": "张远我这17年白干了",
@@ -19233,6 +19377,14 @@
       "onboard_time": 1741090580,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 99747,
+      "num": 99747,
+      "word": "湖人vs凯尔特人",
+      "onboard_time": 1741480940,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 99658,
@@ -19585,6 +19737,14 @@
       "onboard_time": 1740991279,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 96511,
+      "num": 96511,
+      "word": "何小鹏说广州优势太多了",
+      "onboard_time": 1741482440,
+      "rank": 38,
+      "category": "国内时政,互联网"
     },
     {
       "raw_hot": 96481,
@@ -19961,6 +20121,14 @@
       "onboard_time": 1740957376,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92239,
+      "num": 92239,
+      "word": "无人机逗猫一秒被踹飞",
+      "onboard_time": 1741478538,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 92113,
@@ -20395,12 +20563,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 86500,
+      "num": 86500,
+      "word": "雨雪大风沙尘组团来袭",
+      "onboard_time": 1741482440,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86455,
       "num": 229270,
       "word": "聚焦2025年全国两会",
       "onboard_time": 1740968178,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 86452,
+      "num": 86452,
+      "word": "杨迪你是黄子弘凡的女主吗",
+      "onboard_time": 1741482860,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 86279,
@@ -20876,7 +21060,7 @@
     },
     {
       "raw_hot": 77893,
-      "num": 48004,
+      "num": 73200,
       "word": "怪不得平台建议后排入座呢",
       "onboard_time": 1741470193,
       "rank": 30,
@@ -21017,6 +21201,14 @@
       "onboard_time": 1741151719,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75323,
+      "num": 75323,
+      "word": "甄子丹说好房子不要太贵",
+      "onboard_time": 1741478838,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 75305,
@@ -21289,6 +21481,14 @@
       "onboard_time": 1740843981,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 70915,
+      "num": 70915,
+      "word": "何小鹏代表回应新能源汽车车门不好开",
+      "onboard_time": 1741483099,
+      "rank": 49,
+      "category": "国内时政,汽车"
     },
     {
       "raw_hot": 70840,
@@ -21955,6 +22155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61137,
+      "num": 226729,
+      "word": "谷爱凌锁骨受伤",
+      "onboard_time": 1741483219,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 60834,
       "num": 187269,
       "word": "瑷尔博士员工都去拧螺丝了",
@@ -22555,14 +22763,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 51799,
-      "num": 51799,
-      "word": "家有儿女是这样过妇女节的",
-      "onboard_time": 1741460235,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 51719,
       "num": 318533,
       "word": "吉利全球首发L3量产方案",
@@ -22641,14 +22841,6 @@
       "onboard_time": 1741182558,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 50164,
-      "num": 108056,
-      "word": "每一个人都是主角",
-      "onboard_time": 1741475416,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 50112,
@@ -23305,6 +23497,14 @@
       "onboard_time": 1741075340,
       "rank": 29,
       "category": "国内时政,教育"
+    },
+    {
+      "raw_hot": 40511,
+      "num": 228840,
+      "word": "如何斩断偷拍产业链",
+      "onboard_time": 1741479979,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40412,
