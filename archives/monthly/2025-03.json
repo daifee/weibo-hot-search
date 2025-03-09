@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741488484678,
+  "endTime": 1741490574357,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -185,6 +185,14 @@
       "onboard_time": 1741405822,
       "rank": 0,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 2301647,
+      "num": 285573,
+      "word": "素颜小姐姐艺考被卸3次妆",
+      "onboard_time": 1741489099,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2290757,
@@ -1196,7 +1204,7 @@
     },
     {
       "raw_hot": 1062330,
-      "num": 275127,
+      "num": 280389,
       "word": "民警喊檀健次的老婆听取哎声一片",
       "onboard_time": 1741482739,
       "rank": 19,
@@ -2275,6 +2283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 723562,
+      "num": 280621,
+      "word": "张云雷瘦了35斤",
+      "onboard_time": 1741489099,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 723165,
       "num": 723165,
       "word": "张馨予想跟何捷绑爱情锁",
@@ -2305,6 +2321,14 @@
       "onboard_time": 1740802698,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 718677,
+      "num": 402320,
+      "word": "花少7拟邀",
+      "onboard_time": 1741488379,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 717674,
@@ -3347,6 +3371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 562898,
+      "num": 562898,
+      "word": "天津公厕紫外线自动消杀惊呆市民",
+      "onboard_time": 1741488200,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 561038,
       "num": 561038,
       "word": "这支短片领衔主演是14亿中国人",
@@ -4020,7 +4052,7 @@
     },
     {
       "raw_hot": 475590,
-      "num": 272284,
+      "num": 274038,
       "word": "虞书欣模仿小石矶娘娘",
       "onboard_time": 1741482440,
       "rank": 18,
@@ -4489,6 +4521,14 @@
       "onboard_time": 1740972559,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 427910,
+      "num": 277382,
+      "word": "为什么大家渴望引导型恋人",
+      "onboard_time": 1741486161,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 427641,
@@ -5139,14 +5179,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 377911,
-      "num": 269370,
-      "word": "为什么大家渴望引导型恋人",
-      "onboard_time": 1741486161,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
       "raw_hot": 377068,
       "num": 303799,
       "word": "王安宇上海",
@@ -5345,6 +5377,14 @@
       "onboard_time": 1740755960,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 364176,
+      "num": 364176,
+      "word": "人大代表呼吁废除35岁就业门槛",
+      "onboard_time": 1741489220,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 363869,
@@ -10163,6 +10203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199853,
+      "num": 297377,
+      "word": "醉梦杀青",
+      "onboard_time": 1741489462,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199685,
       "num": 199685,
       "word": "湖人7连胜",
@@ -10689,6 +10737,14 @@
       "onboard_time": 1741324284,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 192805,
+      "num": 192805,
+      "word": "苏新皓镜头被挡",
+      "onboard_time": 1741490062,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 192607,
@@ -13723,6 +13779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154384,
+      "num": 221617,
+      "word": "代表建议为一老一小提供消费补贴",
+      "onboard_time": 1741485321,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 154266,
       "num": 170976,
       "word": "多方回应租客被房东扣9200元押金",
@@ -13905,6 +13969,14 @@
       "onboard_time": 1741324825,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 152909,
+      "num": 152909,
+      "word": "演员赵雷棋摆摊刷鞋",
+      "onboard_time": 1741489760,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 152874,
@@ -14843,6 +14915,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 143700,
+      "num": 221545,
+      "word": "郑钦文教练团队换血",
+      "onboard_time": 1741487779,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143626,
       "num": 173744,
       "word": "李威案死者生前遭受多人凌辱虐待",
@@ -15273,6 +15353,14 @@
       "onboard_time": 1740980059,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139894,
+      "num": 139894,
+      "word": "宁艺卓自述十年之路",
+      "onboard_time": 1741489340,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 139842,
@@ -17235,6 +17323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121238,
+      "num": 287451,
+      "word": "河山锦绣",
+      "onboard_time": 1741486220,
+      "rank": 37,
+      "category": "民生新闻,旅游"
+    },
+    {
       "raw_hot": 121219,
       "num": 121219,
       "word": "何凯文道歉",
@@ -18249,14 +18345,6 @@
       "onboard_time": 1741159039,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 110763,
-      "num": 110763,
-      "word": "天津公厕紫外线自动消杀惊呆市民",
-      "onboard_time": 1741488200,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 110692,
@@ -19659,14 +19747,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 98681,
-      "num": 98681,
-      "word": "花少7拟邀",
-      "onboard_time": 1741488379,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 98679,
       "num": 98679,
       "word": "邓超跟迪丽热巴粉丝合影",
@@ -19801,6 +19881,14 @@
       "onboard_time": 1741363403,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97093,
+      "num": 97093,
+      "word": "虎门晚霞盛宴让人沉醉",
+      "onboard_time": 1741490301,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 97087,
@@ -19961,14 +20049,6 @@
       "onboard_time": 1741083322,
       "rank": 14,
       "category": "国内时政,教育"
-    },
-    {
-      "raw_hot": 95657,
-      "num": 96434,
-      "word": "河山锦绣",
-      "onboard_time": 1741486220,
-      "rank": 37,
-      "category": "民生新闻,旅游"
     },
     {
       "raw_hot": 95610,
@@ -20363,6 +20443,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 90851,
+      "num": 90851,
+      "word": "王昶梁伟铿晋级决赛",
+      "onboard_time": 1741490062,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90811,
       "num": 90811,
       "word": "优酷 12集",
@@ -20505,6 +20593,14 @@
       "onboard_time": 1741425141,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 89184,
+      "num": 89184,
+      "word": "33岁小伙江中救人牺牲",
+      "onboard_time": 1741488082,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89128,
@@ -20928,14 +21024,6 @@
       "word": "国台办回应台再封杀7所大陆高校",
       "onboard_time": 1741116430,
       "rank": 45,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 83916,
-      "num": 221617,
-      "word": "代表建议为一老一小提供消费补贴",
-      "onboard_time": 1741485321,
-      "rank": 46,
       "category": "国内时政"
     },
     {
@@ -22209,14 +22297,6 @@
       "onboard_time": 1741413802,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 63377,
-      "num": 221545,
-      "word": "郑钦文教练团队换血",
-      "onboard_time": 1741487779,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 63077,
@@ -24233,6 +24313,14 @@
       "onboard_time": 1741432042,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 33248,
+      "num": 153143,
+      "word": "为什么东方明珠变绿了",
+      "onboard_time": 1741489462,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 33125,
