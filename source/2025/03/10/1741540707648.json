@@ -1,0 +1,410 @@
+{
+  "runTime": 1741540707648,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 701928,
+        "num": 701928,
+        "word": "难哄28集杀疯了",
+        "onboard_time": 1741537161,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 548660,
+        "num": 548660,
+        "word": "徐克声明",
+        "onboard_time": 1741532065,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21500,
+        "num": 397889,
+        "word": "民生主题记者会热点全解读",
+        "onboard_time": 1741529424,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 372781,
+        "num": 372781,
+        "word": "泰国发生连环恐袭",
+        "onboard_time": 1741522041,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 260140,
+        "num": 260140,
+        "word": "蔡依林林志玲看秀造型",
+        "onboard_time": 1741536501,
+        "rank": 4,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 138349,
+        "num": 138349,
+        "word": "周末一定要积极夺回线下生活",
+        "onboard_time": 1741534102,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221695,
+        "num": 134184,
+        "word": "哪吒2冲上全球第6",
+        "onboard_time": 1741509981,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129822,
+        "num": 129822,
+        "word": "黄灿灿幸福快溢出来的真实感",
+        "onboard_time": 1741528643,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102940,
+        "num": 129736,
+        "word": "黄雨婷发文人间清醒",
+        "onboard_time": 1741529903,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23656,
+        "num": 129563,
+        "word": "大家的心上事就是相关部门的上心事",
+        "onboard_time": 1741539619,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 482606,
+        "num": 129269,
+        "word": "海底捞再回应男子向火锅内小便",
+        "onboard_time": 1741529843,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342901,
+        "num": 129167,
+        "word": "华晨宇3秒跳下故障升降台",
+        "onboard_time": 1741532065,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 297529,
+        "num": 129030,
+        "word": "周翊然素颜直播",
+        "onboard_time": 1741537280,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252232,
+        "num": 128863,
+        "word": "张惠妹被调侃胖成石矶娘娘",
+        "onboard_time": 1741528163,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 177185,
+        "num": 128676,
+        "word": "雷军又挂了三条热搜",
+        "onboard_time": 1741537220,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 128508,
+        "num": 128508,
+        "word": "韩国人开始大量买入中国股票",
+        "onboard_time": 1741509682,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124035,
+        "num": 124035,
+        "word": "蒲熠星回应断掉名学全勤记录的原因",
+        "onboard_time": 1741531464,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115384,
+        "num": 123857,
+        "word": "张远不谈恋爱的原因",
+        "onboard_time": 1741532302,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 105197,
+        "num": 123566,
+        "word": "王栎鑫今天造型是春晚pass掉的",
+        "onboard_time": 1741520421,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 100324,
+        "num": 122951,
+        "word": "手机尾号77777777拍出254.4万元",
+        "onboard_time": 1741517063,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176636,
+        "num": 122404,
+        "word": "女子工资4600每日花销近百元通勤上班",
+        "onboard_time": 1741529724,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158284,
+        "num": 122271,
+        "word": "戒掉熬夜强制早睡的小tips",
+        "onboard_time": 1741533382,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 152670,
+        "num": 121557,
+        "word": "王一博假发",
+        "onboard_time": 1741522881,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 121402,
+        "num": 121402,
+        "word": "俄军宣布库尔斯克全线大规模进攻",
+        "onboard_time": 1741536201,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91288,
+        "num": 121357,
+        "word": "爱你大结局",
+        "onboard_time": 1741520421,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82177,
+        "num": 121339,
+        "word": "梁王",
+        "onboard_time": 1741529903,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80148,
+        "num": 121251,
+        "word": "睡觉前最好不要玩手机",
+        "onboard_time": 1741532065,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 74262,
+        "num": 121221,
+        "word": "老板送菜后得知顾客刚救了自己儿子",
+        "onboard_time": 1741524563,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65457,
+        "num": 121164,
+        "word": "一人一句恭喜吒儿",
+        "onboard_time": 1741521563,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 63799,
+        "num": 121110,
+        "word": "檀健次 水仙",
+        "onboard_time": 1741529124,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94211,
+        "num": 121057,
+        "word": "制片人谈王一博不进组的原因",
+        "onboard_time": 1741521501,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77977,
+        "num": 121032,
+        "word": "王大陆的手机又被查出新案",
+        "onboard_time": 1741516399,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58913,
+        "num": 120993,
+        "word": "爱豆这个行业好像不是努力就可以的",
+        "onboard_time": 1741532124,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55572,
+        "num": 120911,
+        "word": "海底捞",
+        "onboard_time": 1741495041,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55418,
+        "num": 120854,
+        "word": "叶璇回应病重父亲遭保姆抢家产",
+        "onboard_time": 1741519342,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54229,
+        "num": 120804,
+        "word": "白桃星座",
+        "onboard_time": 1741532243,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 52264,
+        "num": 120757,
+        "word": "惹怒虞书欣只需要一个林一",
+        "onboard_time": 1741539439,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49610,
+        "num": 120724,
+        "word": "张凌赫 无框眼镜",
+        "onboard_time": 1741527983,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48930,
+        "num": 120668,
+        "word": "凤凰传奇现场拉练王源粉丝",
+        "onboard_time": 1741532842,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 46693,
+        "num": 120628,
+        "word": "成都3.4级地震",
+        "onboard_time": 1741521621,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46824,
+        "num": 120548,
+        "word": "黄灿灿 好像我们的故事是真实存在的",
+        "onboard_time": 1741533863,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43314,
+        "num": 120498,
+        "word": "Jennie主打曲舞蹈版",
+        "onboard_time": 1741530082,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 42677,
+        "num": 120457,
+        "word": "张真源素颜拍立得",
+        "onboard_time": 1741537102,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42329,
+        "num": 120420,
+        "word": "张杰戴金箍跪唱一生所爱",
+        "onboard_time": 1741529903,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 42184,
+        "num": 120391,
+        "word": "卓沅又做了一件有结果的事",
+        "onboard_time": 1741534582,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41850,
+        "num": 120304,
+        "word": "王源三首歌演了一部青春电影",
+        "onboard_time": 1741535241,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 41626,
+        "num": 120277,
+        "word": "王一珩充实且快乐的活着",
+        "onboard_time": 1741540218,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40692,
+        "num": 120224,
+        "word": "住宅层高标准将不低于3米",
+        "onboard_time": 1741513881,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 39226,
+        "num": 120144,
+        "word": "女生上PS课发现同学都用王楚钦练习",
+        "onboard_time": 1741532065,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35037,
+        "num": 120105,
+        "word": "我国医院开始设立体重门诊",
+        "onboard_time": 1741509682,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#教育不能把最基本的丢掉#"
+    }
+  }
+}
