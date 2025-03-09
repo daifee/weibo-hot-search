@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741533641533,
+  "endTime": 1741534513195,
   "band_list": [
     {
       "raw_hot": 2815044,
@@ -59,6 +59,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1568287,
+      "num": 1568287,
+      "word": "徐克声明",
+      "onboard_time": 1741532065,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1535197,
       "num": 1535197,
       "word": "代表说996不理想应该888",
@@ -83,20 +91,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1307086,
-      "num": 1307086,
-      "word": "徐克声明",
-      "onboard_time": 1741532065,
-      "rank": 0,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1270274,
       "num": 391502,
       "word": "海底捞再回应男子向火锅内小便",
       "onboard_time": 1741529843,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1175299,
+      "num": 382854,
+      "word": "华晨宇3秒跳下故障升降台",
+      "onboard_time": 1741532065,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 1155557,
@@ -113,14 +121,6 @@
       "onboard_time": 1741516399,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1124991,
-      "num": 382854,
-      "word": "华晨宇3秒跳下故障升降台",
-      "onboard_time": 1741532065,
-      "rank": 11,
-      "category": "演出"
     },
     {
       "raw_hot": 1121027,
@@ -555,20 +555,20 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 522423,
+      "num": 373135,
+      "word": "张远不谈恋爱的原因",
+      "onboard_time": 1741532302,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 513012,
       "num": 481541,
       "word": "小米SU7Ultra赛道首撞",
       "onboard_time": 1741520242,
       "rank": 4,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 508033,
-      "num": 373135,
-      "word": "张远不谈恋爱的原因",
-      "onboard_time": 1741532302,
-      "rank": 13,
-      "category": "音乐"
     },
     {
       "raw_hot": 496925,
@@ -673,6 +673,14 @@
       "onboard_time": 1741455797,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 412899,
+      "num": 321391,
+      "word": "蒲熠星回应断掉名学全勤记录的原因",
+      "onboard_time": 1741531464,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 407829,
@@ -803,6 +811,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 342143,
+      "num": 226224,
+      "word": "睡觉前最好不要玩手机",
+      "onboard_time": 1741532065,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 334597,
       "num": 242373,
       "word": "伊能静都57了还在免检生图",
@@ -857,14 +873,6 @@
       "onboard_time": 1741440562,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 318975,
-      "num": 318975,
-      "word": "蒲熠星回应断掉名学全勤记录的原因",
-      "onboard_time": 1741531464,
-      "rank": 17,
-      "category": "音乐"
     },
     {
       "raw_hot": 314279,
@@ -937,14 +945,6 @@
       "onboard_time": 1741490901,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 289665,
-      "num": 224604,
-      "word": "睡觉前最好不要玩手机",
-      "onboard_time": 1741532065,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 288596,
@@ -1051,6 +1051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248328,
+      "num": 303705,
+      "word": "委员称取消公摊并不意味能省钱",
+      "onboard_time": 1741530441,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 245097,
       "num": 342004,
       "word": "孙颖莎大藤沙月重庆赛同区",
@@ -1097,14 +1105,6 @@
       "onboard_time": 1741510762,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 227396,
-      "num": 303705,
-      "word": "委员称取消公摊并不意味能省钱",
-      "onboard_time": 1741530441,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 226148,
@@ -1859,6 +1859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141972,
+      "num": 205992,
+      "word": "黄灿灿 好像我们的故事是真实存在的",
+      "onboard_time": 1741533863,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141333,
       "num": 141333,
       "word": "陶喆第8张录音室专辑先行曲",
@@ -1939,6 +1947,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 134187,
+      "num": 134187,
+      "word": "戒掉熬夜强制早睡的小tips",
+      "onboard_time": 1741533382,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 133337,
       "num": 133337,
       "word": "建议提高赡养老人个税抵扣额",
@@ -1947,20 +1963,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 133295,
+      "num": 133295,
+      "word": "陈楚生线下",
+      "onboard_time": 1741533803,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 133023,
       "num": 133023,
       "word": "张碧晨唱着唱着哪吒又破纪录了",
       "onboard_time": 1741478719,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 128326,
-      "num": 128326,
-      "word": "戒掉熬夜强制早睡的小tips",
-      "onboard_time": 1741533382,
-      "rank": 40,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 126871,
@@ -2619,6 +2635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 97609,
+      "num": 97609,
+      "word": "TTG绝境翻盘",
+      "onboard_time": 1741533924,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 97093,
       "num": 97093,
       "word": "虎门晚霞盛宴让人沉醉",
@@ -2649,6 +2673,14 @@
       "onboard_time": 1741528101,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95304,
+      "num": 95304,
+      "word": "龙虾这辈子没有这么有安全感过",
+      "onboard_time": 1741534343,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 95257,
@@ -2705,6 +2737,14 @@
       "onboard_time": 1741509620,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 91987,
+      "num": 91987,
+      "word": "董明珠再回应格力专卖店改名",
+      "onboard_time": 1741533683,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 91224,
@@ -3067,6 +3107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 43850,
+      "num": 330452,
+      "word": "周末一定要积极夺回线下生活",
+      "onboard_time": 1741534102,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 41920,
       "num": 311463,
       "word": "董明珠呼吁规范二手家电市场秩序",
@@ -3123,6 +3171,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 35277,
+      "num": 203867,
+      "word": "罗振宇说AI时代孩子找天赋更重要",
+      "onboard_time": 1741533085,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32530,
       "num": 35030,
       "word": "刘宇伯远段奥娟阳光男孩女孩",
@@ -3177,14 +3233,6 @@
       "onboard_time": 1741511061,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 28890,
-      "num": 203867,
-      "word": "罗振宇说AI时代孩子找天赋更重要",
-      "onboard_time": 1741533085,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 28603,
