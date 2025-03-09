@@ -1,0 +1,410 @@
+{
+  "runTime": 1741505707646,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 986135,
+        "num": 1157781,
+        "word": "大疆不强制9点上班开始强制9点下班",
+        "onboard_time": 1741496481,
+        "rank": 0,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 855190,
+        "num": 855190,
+        "word": "东方白鹳被无人机绞断双腿",
+        "onboard_time": 1741500742,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42581,
+        "num": 717128,
+        "word": "10个创意字解读政府工作报告",
+        "onboard_time": 1741493960,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 617017,
+        "num": 617017,
+        "word": "外交部发布重磅视频",
+        "onboard_time": 1741501580,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 554489,
+        "num": 554489,
+        "word": "WTT抽签",
+        "onboard_time": 1741503863,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 306442,
+        "num": 306442,
+        "word": "委员称有些癌症已变成慢性病",
+        "onboard_time": 1741494740,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 288349,
+        "num": 288349,
+        "word": "祖国必然统一是实力使然民心所向",
+        "onboard_time": 1741496241,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 245099,
+        "num": 245099,
+        "word": "丁程鑫用deepseek写的三行诗",
+        "onboard_time": 1741493001,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136794,
+        "num": 244376,
+        "word": "薛凯琪演唱会",
+        "onboard_time": 1741493601,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243659,
+        "num": 243659,
+        "word": "民生主题记者会",
+        "onboard_time": 1741504161,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 873159,
+        "num": 243353,
+        "word": "刘晓艳说最顶级的教养就是从不拆穿",
+        "onboard_time": 1741500800,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 266033,
+        "num": 240703,
+        "word": "三亚客房退订新规",
+        "onboard_time": 1741493960,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 869457,
+        "num": 239337,
+        "word": "桑延 男鬼",
+        "onboard_time": 1741501821,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 759701,
+        "num": 237853,
+        "word": "陈妍希黄磊何炅合照",
+        "onboard_time": 1741500862,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109487,
+        "num": 237158,
+        "word": "今年高校毕业生1222万人",
+        "onboard_time": 1741505361,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 680586,
+        "num": 235867,
+        "word": "素颜小姐姐艺考被卸3次妆",
+        "onboard_time": 1741489099,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 514196,
+        "num": 234117,
+        "word": "何猷君晒全家福给奚梦瑶庆生",
+        "onboard_time": 1741495220,
+        "rank": 16,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 368445,
+        "num": 232618,
+        "word": "叔叔你是陈飞宇哥哥吗",
+        "onboard_time": 1741499361,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340476,
+        "num": 230981,
+        "word": "戚薇提醒做医美要适度",
+        "onboard_time": 1741497261,
+        "rank": 18,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 40709,
+        "num": 229162,
+        "word": "詹姆斯受伤时想到了浓眉",
+        "onboard_time": 1741505300,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 680196,
+        "num": 227976,
+        "word": "男子离婚后跟踪殴打前妻被认定家暴",
+        "onboard_time": 1741502600,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326696,
+        "num": 226242,
+        "word": "海底捞",
+        "onboard_time": 1741495041,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319333,
+        "num": 224408,
+        "word": "蔡明菜市场劝架阻止家长打孩子",
+        "onboard_time": 1741497680,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223777,
+        "num": 223777,
+        "word": "桑延温以凡浴室吻",
+        "onboard_time": 1741497981,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213153,
+        "num": 213153,
+        "word": "赵露思与好友逛街",
+        "onboard_time": 1741491261,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204108,
+        "num": 204108,
+        "word": "唐奇苏橙橙官宣恋情",
+        "onboard_time": 1741505062,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203571,
+        "num": 203571,
+        "word": "张云雷瘦了35斤",
+        "onboard_time": 1741489099,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191037,
+        "num": 191037,
+        "word": "白鹿明媚高马尾",
+        "onboard_time": 1741503261,
+        "rank": 27,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 168730,
+        "num": 168730,
+        "word": "郭德纲 爆炸头",
+        "onboard_time": 1741497741,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165275,
+        "num": 165275,
+        "word": "李小冉血液里的航空DNA动了",
+        "onboard_time": 1741504881,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162965,
+        "num": 162965,
+        "word": "何苏叶自动回复",
+        "onboard_time": 1741504460,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155863,
+        "num": 155863,
+        "word": "奶奶农忙把孙儿和婴儿床带到地里",
+        "onboard_time": 1741501161,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107757,
+        "num": 152980,
+        "word": "九尾登场六年热爱不息",
+        "onboard_time": 1741501521,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152421,
+        "num": 152421,
+        "word": "陈妍希说要学会接受和放下",
+        "onboard_time": 1741501462,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148374,
+        "num": 148374,
+        "word": "大疆员工回应晚上9点被强制下班",
+        "onboard_time": 1741500081,
+        "rank": 34,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 132084,
+        "num": 132084,
+        "word": "翟潇闻公主抱杨肸子",
+        "onboard_time": 1741501341,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119772,
+        "num": 119772,
+        "word": "人大代表呼吁废除35岁就业门槛",
+        "onboard_time": 1741489220,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 119364,
+        "num": 119364,
+        "word": "耳机里的lovesong变成livesong",
+        "onboard_time": 1741504941,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119306,
+        "num": 119306,
+        "word": "男生看到地铁座椅血迹主动擦干净",
+        "onboard_time": 1741503381,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119003,
+        "num": 119003,
+        "word": "如何打破第一学历的枷锁",
+        "onboard_time": 1741498220,
+        "rank": 39,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 118625,
+        "num": 118625,
+        "word": "郑钦文赛后致谢美国记者连说不客气",
+        "onboard_time": 1741503141,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53042,
+        "num": 118205,
+        "word": "UFC",
+        "onboard_time": 1741503501,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117803,
+        "num": 117803,
+        "word": "辛芷蕾喜欢背包帅哥不是秘密",
+        "onboard_time": 1741504221,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111097,
+        "num": 111097,
+        "word": "多方回应山西一大桥下疑现大量钞票",
+        "onboard_time": 1741503863,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109628,
+        "num": 109628,
+        "word": "张康乐在退烧中",
+        "onboard_time": 1741501222,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109417,
+        "num": 109417,
+        "word": "25岁女孩一天4杯咖啡致骨质疏松",
+        "onboard_time": 1741483581,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108522,
+        "num": 108522,
+        "word": "行大道不信邪不怕鬼",
+        "onboard_time": 1741497620,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104785,
+        "num": 104785,
+        "word": "KLG对战DYG",
+        "onboard_time": 1741505180,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98854,
+        "num": 98854,
+        "word": "十四届全国人大三次会议民生主题记者会",
+        "onboard_time": 1741503020,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 84908,
+        "num": 95265,
+        "word": "花少7拟邀",
+        "onboard_time": 1741488379,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记那些两会妙喻#"
+    }
+  }
+}

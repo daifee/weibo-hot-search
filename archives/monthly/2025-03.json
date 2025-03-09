@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741504675369,
+  "endTime": 1741505707646,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1803,6 +1803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 869457,
+      "num": 239337,
+      "word": "桑延 男鬼",
+      "onboard_time": 1741501821,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 868241,
       "num": 428747,
       "word": "藕饼欲莲",
@@ -2251,6 +2259,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 759701,
+      "num": 276009,
+      "word": "陈妍希黄磊何炅合照",
+      "onboard_time": 1741500862,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 755943,
       "num": 358811,
       "word": "郭爽退团",
@@ -2321,14 +2337,6 @@
       "onboard_time": 1741180998,
       "rank": 4,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 731403,
-      "num": 276009,
-      "word": "陈妍希黄磊何炅合照",
-      "onboard_time": 1741500862,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 730176,
@@ -2499,14 +2507,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 698966,
-      "num": 215458,
-      "word": "桑延 男鬼",
-      "onboard_time": 1741501821,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 695500,
       "num": 425958,
       "word": "车主刷短视频被乘客误认为放不雅视频",
@@ -2600,6 +2600,14 @@
       "word": "36名男士恋爱1个月背上百万房贷",
       "onboard_time": 1740975861,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 680196,
+      "num": 227976,
+      "word": "男子离婚后跟踪殴打前妻被认定家暴",
+      "onboard_time": 1741502600,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -3595,6 +3603,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 554489,
+      "num": 554489,
+      "word": "WTT抽签",
+      "onboard_time": 1741503863,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 554474,
       "num": 341920,
       "word": "摄影师摔倒压到4个月宝宝",
@@ -4281,14 +4297,6 @@
       "onboard_time": 1740881357,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 466047,
-      "num": 205260,
-      "word": "男子离婚后跟踪殴打前妻被认定家暴",
-      "onboard_time": 1741502600,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 465293,
@@ -7579,14 +7587,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 275642,
-      "num": 275642,
-      "word": "WTT抽签",
-      "onboard_time": 1741503863,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 275516,
       "num": 275516,
       "word": "于正说何健麒是很小的小角色",
@@ -8489,6 +8489,14 @@
       "onboard_time": 1741261762,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 243659,
+      "num": 243659,
+      "word": "民生主题记者会",
+      "onboard_time": 1741504161,
+      "rank": 12,
+      "category": "国内时政"
     },
     {
       "raw_hot": 243109,
@@ -10192,6 +10200,14 @@
       "word": "王鹤棣和大奉原著作者互拍互曝",
       "onboard_time": 1741012162,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 204108,
+      "num": 204108,
+      "word": "唐奇苏橙橙官宣恋情",
+      "onboard_time": 1741505062,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -13147,6 +13163,14 @@
       "category": "国际时政,财经"
     },
     {
+      "raw_hot": 165275,
+      "num": 165275,
+      "word": "李小冉血液里的航空DNA动了",
+      "onboard_time": 1741504881,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165269,
       "num": 165269,
       "word": "山西男篮vs广东男篮",
@@ -13345,6 +13369,14 @@
       "onboard_time": 1740892039,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 162965,
+      "num": 162965,
+      "word": "何苏叶自动回复",
+      "onboard_time": 1741504460,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 162946,
@@ -14729,14 +14761,6 @@
       "onboard_time": 1741020015,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 150002,
-      "num": 207185,
-      "word": "民生主题记者会",
-      "onboard_time": 1741504161,
-      "rank": 12,
-      "category": "国内时政"
     },
     {
       "raw_hot": 149839,
@@ -17995,6 +18019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119364,
+      "num": 119364,
+      "word": "耳机里的lovesong变成livesong",
+      "onboard_time": 1741504941,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119334,
       "num": 119334,
       "word": "红绿灯的黄已无三只羊标识",
@@ -18065,6 +18097,14 @@
       "onboard_time": 1740821844,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118625,
+      "num": 118625,
+      "word": "郑钦文赛后致谢美国记者连说不客气",
+      "onboard_time": 1741503141,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 118599,
@@ -18145,6 +18185,14 @@
       "onboard_time": 1741086140,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117803,
+      "num": 117803,
+      "word": "辛芷蕾喜欢背包帅哥不是秘密",
+      "onboard_time": 1741504221,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 117765,
@@ -19059,6 +19107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109487,
+      "num": 237158,
+      "word": "今年高校毕业生1222万人",
+      "onboard_time": 1741505361,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 109404,
       "num": 735933,
       "word": "北上编剧否认为白鹿原创女主",
@@ -19257,6 +19313,14 @@
       "onboard_time": 1741263381,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107757,
+      "num": 152980,
+      "word": "九尾登场六年热爱不息",
+      "onboard_time": 1741501521,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 107737,
@@ -19635,6 +19699,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 104785,
+      "num": 104785,
+      "word": "KLG对战DYG",
+      "onboard_time": 1741505180,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 104764,
       "num": 104764,
       "word": "女性从事科技数码行业有多酷",
@@ -19817,14 +19889,6 @@
       "onboard_time": 1741047620,
       "rank": 44,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 103497,
-      "num": 103497,
-      "word": "九尾登场六年热爱不息",
-      "onboard_time": 1741501521,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 103443,
@@ -20459,14 +20523,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 97535,
-      "num": 97535,
-      "word": "何苏叶自动回复",
-      "onboard_time": 1741504460,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 97440,
       "num": 234293,
       "word": "多地将校园欺凌纳入中考素质评价",
@@ -20593,14 +20649,6 @@
       "onboard_time": 1741054398,
       "rank": 49,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 96738,
-      "num": 96738,
-      "word": "郑钦文赛后致谢美国记者连说不客气",
-      "onboard_time": 1741503141,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 96721,
@@ -20921,14 +20969,6 @@
       "onboard_time": 1740890238,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 93176,
-      "num": 93176,
-      "word": "辛芷蕾喜欢背包帅哥不是秘密",
-      "onboard_time": 1741504221,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 93126,
@@ -23188,7 +23228,7 @@
     },
     {
       "raw_hot": 59706,
-      "num": 679435,
+      "num": 717128,
       "word": "10个创意字解读政府工作报告",
       "onboard_time": 1741493960,
       "rank": 2,
@@ -24449,6 +24489,14 @@
       "onboard_time": 1740974241,
       "rank": 35,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 40709,
+      "num": 229162,
+      "word": "詹姆斯受伤时想到了浓眉",
+      "onboard_time": 1741505300,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 40636,
