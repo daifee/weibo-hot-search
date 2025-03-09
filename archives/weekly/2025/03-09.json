@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741530909832,
+  "endTime": 1741533641533,
   "band_list": [
     {
       "raw_hot": 2815044,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1880828,
-      "num": 326688,
+      "num": 380004,
       "word": "张惠妹被调侃胖成石矶娘娘",
       "onboard_time": 1741528163,
       "rank": 10,
@@ -83,8 +83,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1219569,
-      "num": 319554,
+      "raw_hot": 1307086,
+      "num": 1307086,
+      "word": "徐克声明",
+      "onboard_time": 1741532065,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1270274,
+      "num": 391502,
       "word": "海底捞再回应男子向火锅内小便",
       "onboard_time": 1741529843,
       "rank": 11,
@@ -105,6 +113,14 @@
       "onboard_time": 1741516399,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1124991,
+      "num": 382854,
+      "word": "华晨宇3秒跳下故障升降台",
+      "onboard_time": 1741532065,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 1121027,
@@ -147,6 +163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1000237,
+      "num": 1000237,
+      "word": "梁王",
+      "onboard_time": 1741529903,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 975663,
       "num": 1156106,
       "word": "东方白鹳被无人机绞断双腿",
@@ -185,6 +209,14 @@
       "onboard_time": 1741495220,
       "rank": 12,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 897399,
+      "num": 897399,
+      "word": "黄灿灿幸福快溢出来的真实感",
+      "onboard_time": 1741528643,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 869457,
@@ -236,7 +268,7 @@
     },
     {
       "raw_hot": 804297,
-      "num": 320476,
+      "num": 351443,
       "word": "制片人谈王一博不进组的原因",
       "onboard_time": 1741521501,
       "rank": 15,
@@ -257,14 +289,6 @@
       "onboard_time": 1741524563,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 792896,
-      "num": 315507,
-      "word": "黄灿灿幸福快溢出来的真实感",
-      "onboard_time": 1741528643,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 791001,
@@ -305,6 +329,14 @@
       "onboard_time": 1741509981,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 762649,
+      "num": 276482,
+      "word": "女子工资4600每日花销近百元通勤上班",
+      "onboard_time": 1741529724,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 759701,
@@ -396,7 +428,7 @@
     },
     {
       "raw_hot": 673697,
-      "num": 310107,
+      "num": 664180,
       "word": "黄雨婷发文人间清醒",
       "onboard_time": 1741529903,
       "rank": 13,
@@ -408,14 +440,6 @@
       "word": "天津公厕紫外线自动消杀惊呆市民",
       "onboard_time": 1741488200,
       "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 659903,
-      "num": 276482,
-      "word": "女子工资4600每日花销近百元通勤上班",
-      "onboard_time": 1741529724,
-      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -537,6 +561,14 @@
       "onboard_time": 1741520242,
       "rank": 4,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 508033,
+      "num": 373135,
+      "word": "张远不谈恋爱的原因",
+      "onboard_time": 1741532302,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 496925,
@@ -731,14 +763,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 357828,
-      "num": 357828,
-      "word": "梁王",
-      "onboard_time": 1741529903,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 354929,
       "num": 354929,
       "word": "哪吒2票房距全球第6仅差不到1亿",
@@ -835,6 +859,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 318975,
+      "num": 318975,
+      "word": "蒲熠星回应断掉名学全勤记录的原因",
+      "onboard_time": 1741531464,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 314279,
       "num": 314279,
       "word": "石矶娘娘反诈宣传",
@@ -905,6 +937,14 @@
       "onboard_time": 1741490901,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 289665,
+      "num": 224604,
+      "word": "睡觉前最好不要玩手机",
+      "onboard_time": 1741532065,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 288596,
@@ -1059,6 +1099,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 227396,
+      "num": 303705,
+      "word": "委员称取消公摊并不意味能省钱",
+      "onboard_time": 1741530441,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 226148,
       "num": 226148,
       "word": "住酒店上厕所隐私视频被售卖",
@@ -1081,6 +1129,14 @@
       "onboard_time": 1741501462,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 223320,
+      "num": 223320,
+      "word": "PEL",
+      "onboard_time": 1741532604,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 222149,
@@ -1113,6 +1169,14 @@
       "onboard_time": 1741495401,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 213551,
+      "num": 213551,
+      "word": "白桃星座",
+      "onboard_time": 1741532243,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 213136,
@@ -1201,6 +1265,14 @@
       "onboard_time": 1741501222,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203851,
+      "num": 329334,
+      "word": "机器人已经在中国空间站开始上班了",
+      "onboard_time": 1741529782,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 200682,
@@ -1313,6 +1385,14 @@
       "onboard_time": 1741511840,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 190091,
+      "num": 190091,
+      "word": "凤凰传奇现场拉练王源粉丝",
+      "onboard_time": 1741532842,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 189459,
@@ -1859,12 +1939,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 133337,
+      "num": 133337,
+      "word": "建议提高赡养老人个税抵扣额",
+      "onboard_time": 1741532000,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 133023,
       "num": 133023,
       "word": "张碧晨唱着唱着哪吒又破纪录了",
       "onboard_time": 1741478719,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 128326,
+      "num": 128326,
+      "word": "戒掉熬夜强制早睡的小tips",
+      "onboard_time": 1741533382,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 126871,
@@ -1937,6 +2033,14 @@
       "onboard_time": 1741489099,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124693,
+      "num": 124693,
+      "word": "苏有朋姚琛最好的师生情",
+      "onboard_time": 1741530925,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 124053,
@@ -2147,14 +2251,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 115278,
-      "num": 329334,
-      "word": "机器人已经在中国空间站开始上班了",
-      "onboard_time": 1741529782,
-      "rank": 34,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 115118,
       "num": 115118,
       "word": "大连发生1.7级地震",
@@ -2193,6 +2289,14 @@
       "onboard_time": 1741446202,
       "rank": 30,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 114037,
+      "num": 114037,
+      "word": "滤镜26集5场吻戏",
+      "onboard_time": 1741532065,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 113965,
@@ -2240,6 +2344,14 @@
       "word": "华晨宇演唱会上中西音乐华山论剑",
       "onboard_time": 1741492462,
       "rank": 36,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 111895,
+      "num": 111895,
+      "word": "华晨宇演唱会舞美",
+      "onboard_time": 1741532065,
+      "rank": 48,
       "category": "演出"
     },
     {
@@ -2305,6 +2417,14 @@
       "onboard_time": 1741482440,
       "rank": 38,
       "category": "国内时政,互联网"
+    },
+    {
+      "raw_hot": 107780,
+      "num": 107780,
+      "word": "向鱼女娲",
+      "onboard_time": 1741533622,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 107757,
@@ -2899,6 +3019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57784,
+      "num": 1085688,
+      "word": "民生主题记者会热点全解读",
+      "onboard_time": 1741529424,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 56145,
       "num": 71646,
       "word": "周云杰回应海尔老总冷如冰箱",
@@ -2913,6 +3041,14 @@
       "onboard_time": 1741510762,
       "rank": 38,
       "category": "国内时政,体育"
+    },
+    {
+      "raw_hot": 51731,
+      "num": 401165,
+      "word": "机器人小航与航天员一同完成实验",
+      "onboard_time": 1741533203,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50084,
@@ -2969,14 +3105,6 @@
       "onboard_time": 1741479979,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38243,
-      "num": 1085688,
-      "word": "民生主题记者会热点全解读",
-      "onboard_time": 1741529424,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 37976,
@@ -3051,6 +3179,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 28890,
+      "num": 203867,
+      "word": "罗振宇说AI时代孩子找天赋更重要",
+      "onboard_time": 1741533085,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28603,
       "num": 263613,
       "word": "在两会给中美AI组了场高考",
@@ -3065,14 +3201,6 @@
       "onboard_time": 1741518683,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 26562,
-      "num": 303705,
-      "word": "委员称取消公摊并不意味能省钱",
-      "onboard_time": 1741530441,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26422,

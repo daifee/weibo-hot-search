@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741530909832,
+  "endTime": 1741533641533,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 1880828,
-      "num": 326688,
+      "num": 380004,
       "word": "张惠妹被调侃胖成石矶娘娘",
       "onboard_time": 1741528163,
       "rank": 10,
@@ -883,6 +883,14 @@
       "category": "国内时政,电影"
     },
     {
+      "raw_hot": 1307086,
+      "num": 1307086,
+      "word": "徐克声明",
+      "onboard_time": 1741532065,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1305385,
       "num": 234714,
       "word": "小杨哥大徒弟回应因解约问题送医抢救",
@@ -947,6 +955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1270274,
+      "num": 391502,
+      "word": "海底捞再回应男子向火锅内小便",
+      "onboard_time": 1741529843,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1267318,
       "num": 1267318,
       "word": "有密码取不出钱将病重老人推到银行",
@@ -1001,14 +1017,6 @@
       "onboard_time": 1740963259,
       "rank": 1,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1219569,
-      "num": 319554,
-      "word": "海底捞再回应男子向火锅内小便",
-      "onboard_time": 1741529843,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1219192,
@@ -1169,6 +1177,14 @@
       "onboard_time": 1741145658,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1124991,
+      "num": 382854,
+      "word": "华晨宇3秒跳下故障升降台",
+      "onboard_time": 1741532065,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 1121767,
@@ -1507,6 +1523,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 1000237,
+      "num": 1000237,
+      "word": "梁王",
+      "onboard_time": 1741529903,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 995412,
       "num": 1159265,
       "word": "雷军回应不锈钢纸杯卖爆",
@@ -1777,6 +1801,14 @@
       "onboard_time": 1740918440,
       "rank": 20,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 897399,
+      "num": 897399,
+      "word": "黄灿灿幸福快溢出来的真实感",
+      "onboard_time": 1741528643,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 897098,
@@ -2172,7 +2204,7 @@
     },
     {
       "raw_hot": 804297,
-      "num": 320476,
+      "num": 351443,
       "word": "制片人谈王一博不进组的原因",
       "onboard_time": 1741521501,
       "rank": 15,
@@ -2225,14 +2257,6 @@
       "onboard_time": 1741524563,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 792896,
-      "num": 315507,
-      "word": "黄灿灿幸福快溢出来的真实感",
-      "onboard_time": 1741528643,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 791001,
@@ -2377,6 +2401,14 @@
       "onboard_time": 1740990019,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 762649,
+      "num": 276482,
+      "word": "女子工资4600每日花销近百元通勤上班",
+      "onboard_time": 1741529724,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 762615,
@@ -2860,7 +2892,7 @@
     },
     {
       "raw_hot": 673697,
-      "num": 310107,
+      "num": 664180,
       "word": "黄雨婷发文人间清醒",
       "onboard_time": 1741529903,
       "rank": 13,
@@ -2945,14 +2977,6 @@
       "onboard_time": 1741250242,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 659903,
-      "num": 276482,
-      "word": "女子工资4600每日花销近百元通勤上班",
-      "onboard_time": 1741529724,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 658048,
@@ -4201,6 +4225,14 @@
       "onboard_time": 1740795137,
       "rank": 24,
       "category": "网红"
+    },
+    {
+      "raw_hot": 508033,
+      "num": 373135,
+      "word": "张远不谈恋爱的原因",
+      "onboard_time": 1741532302,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 508017,
@@ -6019,14 +6051,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 357828,
-      "num": 357828,
-      "word": "梁王",
-      "onboard_time": 1741529903,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 357473,
       "num": 270261,
       "word": "美国终止乌克兰供电恢复计划",
@@ -6875,6 +6899,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 318975,
+      "num": 318975,
+      "word": "蒲熠星回应断掉名学全勤记录的原因",
+      "onboard_time": 1741531464,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 318762,
       "num": 318762,
       "word": "肖战在巴塞罗那被偶遇",
@@ -7633,6 +7665,14 @@
       "onboard_time": 1740800238,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 289665,
+      "num": 224604,
+      "word": "睡觉前最好不要玩手机",
+      "onboard_time": 1741532065,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 289599,
@@ -9371,6 +9411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 227396,
+      "num": 303705,
+      "word": "委员称取消公摊并不意味能省钱",
+      "onboard_time": 1741530441,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 227387,
       "num": 296508,
       "word": "我从非洲带回一包米被王毅点名了",
@@ -9585,6 +9633,14 @@
       "onboard_time": 1740996438,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 223320,
+      "num": 223320,
+      "word": "PEL",
+      "onboard_time": 1741273582,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 223220,
@@ -10073,6 +10129,14 @@
       "onboard_time": 1741138758,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 213551,
+      "num": 213551,
+      "word": "白桃星座",
+      "onboard_time": 1740927262,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 213092,
@@ -10707,6 +10771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203851,
+      "num": 329334,
+      "word": "机器人已经在中国空间站开始上班了",
+      "onboard_time": 1741529782,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 203668,
       "num": 203668,
       "word": "蔡徐坤胡茬蓝发造型",
@@ -11017,14 +11089,6 @@
       "onboard_time": 1741156519,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 199601,
-      "num": 199601,
-      "word": "白桃星座",
-      "onboard_time": 1740927262,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 199584,
@@ -11745,6 +11809,14 @@
       "onboard_time": 1740985578,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 190091,
+      "num": 190091,
+      "word": "凤凰传奇现场拉练王源粉丝",
+      "onboard_time": 1741532842,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 189913,
@@ -17235,6 +17307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133337,
+      "num": 133337,
+      "word": "建议提高赡养老人个税抵扣额",
+      "onboard_time": 1741532000,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 133253,
       "num": 133253,
       "word": "鞠婧祎演技获赞",
@@ -17697,6 +17777,14 @@
       "onboard_time": 1740987021,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 128326,
+      "num": 128326,
+      "word": "戒掉熬夜强制早睡的小tips",
+      "onboard_time": 1741533382,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 128275,
@@ -18281,6 +18369,14 @@
       "onboard_time": 1741050439,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 124693,
+      "num": 124693,
+      "word": "苏有朋姚琛最好的师生情",
+      "onboard_time": 1741530925,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 124658,
@@ -19331,14 +19427,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 115278,
-      "num": 329334,
-      "word": "机器人已经在中国空间站开始上班了",
-      "onboard_time": 1741529782,
-      "rank": 34,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 115257,
       "num": 115257,
       "word": "确诊该省省该花花型老外了",
@@ -19504,6 +19592,14 @@
       "word": "这嵌入式拥抱太萌了",
       "onboard_time": 1741178958,
       "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 114037,
+      "num": 114037,
+      "word": "滤镜26集5场吻戏",
+      "onboard_time": 1741532065,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -19816,6 +19912,14 @@
       "word": "华晨宇演唱会上中西音乐华山论剑",
       "onboard_time": 1741492462,
       "rank": 36,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 111895,
+      "num": 111895,
+      "word": "华晨宇演唱会舞美",
+      "onboard_time": 1741532065,
+      "rank": 48,
       "category": "演出"
     },
     {
@@ -20265,6 +20369,14 @@
       "onboard_time": 1741068797,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 107780,
+      "num": 107780,
+      "word": "向鱼女娲",
+      "onboard_time": 1741533622,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 107775,
@@ -20993,14 +21105,6 @@
       "onboard_time": 1740964697,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 102510,
-      "num": 102510,
-      "word": "PEL",
-      "onboard_time": 1741273582,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 102280,
@@ -24499,6 +24603,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 57784,
+      "num": 1085688,
+      "word": "民生主题记者会热点全解读",
+      "onboard_time": 1741529424,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 57578,
       "num": 64189,
       "word": "埃因霍温1比7阿森纳",
@@ -24913,6 +25025,14 @@
       "onboard_time": 1741396820,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 51731,
+      "num": 401165,
+      "word": "机器人小航与航天员一同完成实验",
+      "onboard_time": 1741533203,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51719,
@@ -25867,14 +25987,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 38243,
-      "num": 1085688,
-      "word": "民生主题记者会热点全解读",
-      "onboard_time": 1741529424,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 38214,
       "num": 78608,
       "word": "想飞的女孩",
@@ -26619,6 +26731,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 28890,
+      "num": 203867,
+      "word": "罗振宇说AI时代孩子找天赋更重要",
+      "onboard_time": 1741533085,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28784,
       "num": 28784,
       "word": "杨紫感谢粉丝厚爱",
@@ -26873,14 +26993,6 @@
       "onboard_time": 1740766631,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 26562,
-      "num": 303705,
-      "word": "委员称取消公摊并不意味能省钱",
-      "onboard_time": 1741530441,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26551,
