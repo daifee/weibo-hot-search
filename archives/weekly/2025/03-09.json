@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741498511604,
+  "endTime": 1741501549812,
   "band_list": [
     {
       "raw_hot": 2301647,
@@ -19,8 +19,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1276335,
-      "num": 1276335,
+      "raw_hot": 1531352,
+      "num": 1531352,
       "word": "大疆不强制9点上班开始强制9点下班",
       "onboard_time": 1741496481,
       "rank": 5,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 787481,
+      "num": 288254,
+      "word": "蔡明菜市场劝架阻止家长打孩子",
+      "onboard_time": 1741497680,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 780303,
       "num": 242958,
       "word": "叙利亚",
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 773996,
-      "num": 272336,
+      "num": 274037,
       "word": "赵露思与好友逛街",
       "onboard_time": 1741491261,
       "rank": 30,
@@ -179,6 +187,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 621711,
+      "num": 285789,
+      "word": "戚薇提醒做医美要适度",
+      "onboard_time": 1741497261,
+      "rank": 22,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 613328,
       "num": 391461,
       "word": "前加拿大奥运选手成跨国大毒枭",
@@ -187,20 +203,20 @@
       "category": "海外新闻,体育"
     },
     {
+      "raw_hot": 611002,
+      "num": 281795,
+      "word": "刘晓艳说最顶级的教养就是从不拆穿",
+      "onboard_time": 1741500800,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 596630,
       "num": 596630,
       "word": "詹姆斯腹股沟拉伤",
       "onboard_time": 1741493421,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 519954,
-      "num": 255781,
-      "word": "戚薇提醒做医美要适度",
-      "onboard_time": 1741497261,
-      "rank": 22,
-      "category": "美妆,艺人"
     },
     {
       "raw_hot": 496925,
@@ -267,6 +283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 420312,
+      "num": 281197,
+      "word": "叔叔你是陈飞宇哥哥吗",
+      "onboard_time": 1741499361,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 415997,
       "num": 268510,
       "word": "麦琳说再见爱人后容貌焦虑达到峰值",
@@ -289,6 +313,22 @@
       "onboard_time": 1741489941,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 387149,
+      "num": 279386,
+      "word": "桑延温以凡浴室吻",
+      "onboard_time": 1741497981,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 379448,
+      "num": 379448,
+      "word": "东方白鹳被无人机绞断双腿",
+      "onboard_time": 1741500742,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 371416,
@@ -323,12 +363,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 358625,
+      "num": 358625,
+      "word": "如何打破第一学历的枷锁",
+      "onboard_time": 1741498220,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 354929,
       "num": 354929,
       "word": "哪吒2票房距全球第6仅差不到1亿",
       "onboard_time": 1741434622,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 352113,
+      "num": 277473,
+      "word": "郭德纲 爆炸头",
+      "onboard_time": 1741497741,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 347430,
@@ -355,14 +411,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 339829,
-      "num": 245999,
-      "word": "蔡明菜市场劝架阻止家长打孩子",
-      "onboard_time": 1741497680,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 334597,
       "num": 242373,
       "word": "伊能静都57了还在免检生图",
@@ -385,6 +433,14 @@
       "onboard_time": 1741428922,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 327490,
+      "num": 276009,
+      "word": "陈妍希黄磊何炅合照",
+      "onboard_time": 1741500862,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 320714,
@@ -467,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 270962,
+      "num": 270962,
+      "word": "杨迪约谢娜爬山",
+      "onboard_time": 1741498101,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 266557,
       "num": 165615,
       "word": "TOP登陆少年",
@@ -507,14 +571,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 241111,
-      "num": 241111,
-      "word": "郭德纲 爆炸头",
-      "onboard_time": 1741497741,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 226148,
       "num": 226148,
       "word": "住酒店上厕所隐私视频被售卖",
@@ -553,6 +609,22 @@
       "onboard_time": 1741493840,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 212120,
+      "num": 212120,
+      "word": "大疆员工回应晚上9点被强制下班",
+      "onboard_time": 1741500081,
+      "rank": 30,
+      "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 211498,
+      "num": 211498,
+      "word": "陈妍希说要学会接受和放下",
+      "onboard_time": 1741501462,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 208545,
@@ -603,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191215,
+      "num": 232698,
+      "word": "男神成了我的男主角",
+      "onboard_time": 1741500262,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187635,
       "num": 187635,
       "word": "郭爽退团",
@@ -643,6 +723,14 @@
       "category": "民生新闻,议题讨论"
     },
     {
+      "raw_hot": 175997,
+      "num": 175997,
+      "word": "奶奶农忙把孙儿和婴儿床带到地里",
+      "onboard_time": 1741501161,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171540,
       "num": 171540,
       "word": "北上乱成一锅粥了快喝了吧",
@@ -659,14 +747,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166531,
-      "num": 160695,
-      "word": "桑延温以凡浴室吻",
-      "onboard_time": 1741497981,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 166193,
       "num": 166193,
       "word": "张峻豪分享两个新伙伴",
@@ -681,6 +761,14 @@
       "onboard_time": 1741493601,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165629,
+      "num": 250585,
+      "word": "人大代表回应街头针灸",
+      "onboard_time": 1741498101,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 163484,
@@ -827,14 +915,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 141248,
-      "num": 141248,
-      "word": "杨迪约谢娜爬山",
-      "onboard_time": 1741498101,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 137560,
       "num": 137560,
       "word": "檀健次和哪吒梦幻联动",
@@ -859,12 +939,44 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 134220,
+      "num": 134220,
+      "word": "透过苏州园林花窗看早樱悄然绽放",
+      "onboard_time": 1741501161,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 133023,
       "num": 133023,
       "word": "张碧晨唱着唱着哪吒又破纪录了",
       "onboard_time": 1741478719,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 128237,
+      "num": 128237,
+      "word": "张康乐在退烧中",
+      "onboard_time": 1741501222,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 126525,
+      "num": 218469,
+      "word": "陈飞宇用deepseek做巴黎拍照攻略",
+      "onboard_time": 1741499660,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 126454,
+      "num": 126454,
+      "word": "恋与你给我喝了什么",
+      "onboard_time": 1741499482,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 124747,
@@ -1051,6 +1163,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 108174,
+      "num": 108174,
+      "word": "翟潇闻公主抱杨肸子",
+      "onboard_time": 1741501341,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107956,
       "num": 163755,
       "word": "浓眉谈与东契奇互换东家",
@@ -1073,6 +1193,14 @@
       "onboard_time": 1741479139,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 104740,
+      "num": 277865,
+      "word": "宋兆普代表在两会用掉了三百多针",
+      "onboard_time": 1741500201,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103142,
@@ -1139,12 +1267,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99617,
+      "num": 99617,
+      "word": "ACT对战成都Wolves",
+      "onboard_time": 1741501100,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 99402,
       "num": 99402,
       "word": "凡人修仙传",
       "onboard_time": 1741443442,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98207,
+      "num": 111019,
+      "word": "赵丽颖旁白配音纪录片",
+      "onboard_time": 1741500502,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 97093,
@@ -1161,6 +1305,14 @@
       "onboard_time": 1741478838,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 96789,
+      "num": 96789,
+      "word": "九尾登场六年热爱不息",
+      "onboard_time": 1741501521,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 93376,
@@ -1233,6 +1385,14 @@
       "onboard_time": 1741447342,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 84693,
+      "num": 284404,
+      "word": "为什么孩子不愿继承父母的事业了",
+      "onboard_time": 1741500321,
+      "rank": 14,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 82799,
@@ -1345,6 +1505,14 @@
       "onboard_time": 1741441883,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 73021,
+      "num": 272355,
+      "word": "詹姆斯将缺阵数周",
+      "onboard_time": 1741499602,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 70915,
@@ -1523,14 +1691,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 21513,
-      "num": 206864,
-      "word": "如何打破第一学历的枷锁",
-      "onboard_time": 1741498220,
-      "rank": 27,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 18147,
       "num": 248012,
       "word": "建议儿童罕见病纳入医保",
@@ -1544,14 +1704,6 @@
       "word": "快来查收你的2025民生礼包",
       "onboard_time": 1741494620,
       "rank": 13,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 17281,
-      "num": 250585,
-      "word": "人大代表回应街头针灸",
-      "onboard_time": 1741498101,
-      "rank": 15,
       "category": "国内时政"
     },
     {
