@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741501549812,
+  "endTime": 1741502262705,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1587,6 +1587,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 921089,
+      "num": 281795,
+      "word": "刘晓艳说最顶级的教养就是从不拆穿",
+      "onboard_time": 1741500800,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 920065,
       "num": 371434,
       "word": "特朗普说不会再容忍更久了",
@@ -2435,6 +2443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 710364,
+      "num": 710364,
+      "word": "东方白鹳被无人机绞断双腿",
+      "onboard_time": 1741500742,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 704826,
       "num": 217449,
       "word": "何凯文",
@@ -3051,14 +3067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 611002,
-      "num": 281795,
-      "word": "刘晓艳说最顶级的教养就是从不拆穿",
-      "onboard_time": 1741500800,
-      "rank": 16,
-      "category": "教育"
-    },
-    {
       "raw_hot": 610273,
       "num": 1116749,
       "word": "泽连斯基抵达英国",
@@ -3523,6 +3531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 557756,
+      "num": 281197,
+      "word": "叔叔你是陈飞宇哥哥吗",
+      "onboard_time": 1741499361,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 555145,
       "num": 265223,
       "word": "追星式存钱",
@@ -3809,6 +3825,14 @@
       "onboard_time": 1741420282,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 521561,
+      "num": 276009,
+      "word": "陈妍希黄磊何炅合照",
+      "onboard_time": 1741500862,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 519945,
@@ -4747,14 +4771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 420312,
-      "num": 281197,
-      "word": "叔叔你是陈飞宇哥哥吗",
-      "onboard_time": 1741499361,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 419072,
       "num": 419072,
       "word": "霍启刚谈哪吒2",
@@ -5305,14 +5321,6 @@
       "onboard_time": 1740838465,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 379448,
-      "num": 379448,
-      "word": "东方白鹳被无人机绞断双腿",
-      "onboard_time": 1741500742,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 379190,
@@ -6305,14 +6313,6 @@
       "onboard_time": 1741049718,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 327490,
-      "num": 276009,
-      "word": "陈妍希黄磊何炅合照",
-      "onboard_time": 1741500862,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 326935,
@@ -8539,6 +8539,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 239861,
+      "num": 232698,
+      "word": "男神成了我的男主角",
+      "onboard_time": 1741500262,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239581,
       "num": 239581,
       "word": "桑延给温以凡放的洗澡水",
@@ -9059,6 +9067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 224527,
+      "num": 224527,
+      "word": "陈妍希说要学会接受和放下",
+      "onboard_time": 1741501462,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224141,
       "num": 222264,
       "word": "迪丽热巴在广东穿短袖",
@@ -9443,6 +9459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 215458,
+      "num": 215458,
+      "word": "桑延 男鬼",
+      "onboard_time": 1741501821,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215362,
       "num": 275260,
       "word": "2025年GDP增长预期目标为5%左右",
@@ -9649,14 +9673,6 @@
       "onboard_time": 1740813329,
       "rank": 38,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 211498,
-      "num": 211498,
-      "word": "陈妍希说要学会接受和放下",
-      "onboard_time": 1741501462,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 211138,
@@ -10123,6 +10139,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 204533,
+      "num": 204533,
+      "word": "奶奶农忙把孙儿和婴儿床带到地里",
+      "onboard_time": 1741501161,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 204459,
       "num": 204459,
       "word": "一诺登顶KPL总击杀榜",
@@ -10145,6 +10169,14 @@
       "onboard_time": 1741012162,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203962,
+      "num": 228064,
+      "word": "张康乐在退烧中",
+      "onboard_time": 1741501222,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 203668,
@@ -11075,14 +11107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191215,
-      "num": 232698,
-      "word": "男神成了我的男主角",
-      "onboard_time": 1741500262,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 191158,
       "num": 191158,
       "word": "特朗普再次列举政府部门离谱开支",
@@ -11553,6 +11577,14 @@
       "onboard_time": 1740836603,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185466,
+      "num": 185466,
+      "word": "翟潇闻公主抱杨肸子",
+      "onboard_time": 1741501341,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 185461,
@@ -12136,14 +12168,6 @@
       "word": "你应该退税还是补税",
       "onboard_time": 1740751043,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 175997,
-      "num": 175997,
-      "word": "奶奶农忙把孙儿和婴儿床带到地里",
-      "onboard_time": 1741501161,
-      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -16115,6 +16139,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 135035,
+      "num": 227006,
+      "word": "外交部发布重磅视频",
+      "onboard_time": 1741501580,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 134932,
       "num": 134932,
       "word": "莲花集团CEO疑似回应小米",
@@ -16819,14 +16851,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 128237,
-      "num": 128237,
-      "word": "张康乐在退烧中",
-      "onboard_time": 1741501222,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 128079,
       "num": 128079,
       "word": "蒋圣龙确诊骨裂",
@@ -17257,6 +17281,14 @@
       "onboard_time": 1741139478,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 125414,
+      "num": 277865,
+      "word": "宋兆普代表在两会用掉了三百多针",
+      "onboard_time": 1741500201,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125264,
@@ -19091,14 +19123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 108174,
-      "num": 108174,
-      "word": "翟潇闻公主抱杨肸子",
-      "onboard_time": 1741501341,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 108108,
       "num": 187589,
       "word": "景甜古装撑伞",
@@ -19547,12 +19571,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 104740,
-      "num": 277865,
-      "word": "宋兆普代表在两会用掉了三百多针",
-      "onboard_time": 1741500201,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 104718,
+      "num": 284404,
+      "word": "为什么孩子不愿继承父母的事业了",
+      "onboard_time": 1741500321,
+      "rank": 14,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 104670,
@@ -19723,6 +19747,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 103497,
+      "num": 103497,
+      "word": "九尾登场六年热爱不息",
+      "onboard_time": 1741501521,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 103443,
       "num": 286868,
       "word": "两会新词热词双语卡片",
@@ -19817,6 +19849,14 @@
       "onboard_time": 1741359861,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102689,
+      "num": 102689,
+      "word": "ACT对战成都Wolves",
+      "onboard_time": 1741501100,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 102666,
@@ -20129,14 +20169,6 @@
       "onboard_time": 1741330344,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 99617,
-      "num": 99617,
-      "word": "ACT对战成都Wolves",
-      "onboard_time": 1741501100,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 99546,
@@ -20473,14 +20505,6 @@
       "onboard_time": 1741433603,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 96789,
-      "num": 96789,
-      "word": "九尾登场六年热爱不息",
-      "onboard_time": 1741501521,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 96778,
@@ -20881,6 +20905,14 @@
       "onboard_time": 1741263142,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92339,
+      "num": 92339,
+      "word": "刘昊然唱歌没有技术全是感情",
+      "onboard_time": 1741502241,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 92318,
@@ -21513,14 +21545,6 @@
       "onboard_time": 1741310840,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 84693,
-      "num": 284404,
-      "word": "为什么孩子不愿继承父母的事业了",
-      "onboard_time": 1741500321,
-      "rank": 14,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 84505,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1741502262705,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1379293,
+        "num": 1379293,
+        "word": "大疆不强制9点上班开始强制9点下班",
+        "onboard_time": 1741496481,
+        "rank": 0,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 710364,
+        "num": 710364,
+        "word": "东方白鹳被无人机绞断双腿",
+        "onboard_time": 1741500742,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36771,
+        "num": 379442,
+        "word": "10个创意字解读政府工作报告",
+        "onboard_time": 1741493960,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 355469,
+        "num": 355469,
+        "word": "委员称有些癌症已变成慢性病",
+        "onboard_time": 1741494740,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 341672,
+        "num": 341672,
+        "word": "三亚客房退订新规",
+        "onboard_time": 1741493960,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335722,
+        "num": 335722,
+        "word": "如何打破第一学历的枷锁",
+        "onboard_time": 1741498220,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 277304,
+        "num": 277304,
+        "word": "丁程鑫用deepseek写的三行诗",
+        "onboard_time": 1741493001,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275522,
+        "num": 275522,
+        "word": "祖国必然统一是实力使然民心所向",
+        "onboard_time": 1741496241,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 234027,
+        "num": 234027,
+        "word": "刘诗诗新剧情绪爆发力",
+        "onboard_time": 1741495822,
+        "rank": 8,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 137818,
+        "num": 233526,
+        "word": "薛凯琪演唱会",
+        "onboard_time": 1741493601,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 921089,
+        "num": 233276,
+        "word": "刘晓艳说最顶级的教养就是从不拆穿",
+        "onboard_time": 1741500800,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 830073,
+        "num": 232830,
+        "word": "素颜小姐姐艺考被卸3次妆",
+        "onboard_time": 1741489099,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 681612,
+        "num": 231925,
+        "word": "蔡明菜市场劝架阻止家长打孩子",
+        "onboard_time": 1741497680,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 656915,
+        "num": 231508,
+        "word": "何猷君晒全家福给奚梦瑶庆生",
+        "onboard_time": 1741495220,
+        "rank": 13,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 557756,
+        "num": 231026,
+        "word": "叔叔你是陈飞宇哥哥吗",
+        "onboard_time": 1741499361,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 546174,
+        "num": 230556,
+        "word": "海底捞",
+        "onboard_time": 1741495041,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 521561,
+        "num": 230225,
+        "word": "陈妍希黄磊何炅合照",
+        "onboard_time": 1741500862,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 491743,
+        "num": 229664,
+        "word": "戚薇提醒做医美要适度",
+        "onboard_time": 1741497261,
+        "rank": 17,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 327996,
+        "num": 229022,
+        "word": "桑延温以凡浴室吻",
+        "onboard_time": 1741497981,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302197,
+        "num": 228338,
+        "word": "郭德纲 爆炸头",
+        "onboard_time": 1741497741,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203962,
+        "num": 228064,
+        "word": "张康乐在退烧中",
+        "onboard_time": 1741501222,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273964,
+        "num": 227528,
+        "word": "张云雷瘦了35斤",
+        "onboard_time": 1741489099,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135035,
+        "num": 227006,
+        "word": "外交部发布重磅视频",
+        "onboard_time": 1741501580,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 253443,
+        "num": 226210,
+        "word": "赵露思与好友逛街",
+        "onboard_time": 1741491261,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63987,
+        "num": 225832,
+        "word": "詹姆斯将缺阵数周",
+        "onboard_time": 1741499602,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246475,
+        "num": 225414,
+        "word": "杨迪约谢娜爬山",
+        "onboard_time": 1741498101,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239861,
+        "num": 224575,
+        "word": "男神成了我的男主角",
+        "onboard_time": 1741500262,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224527,
+        "num": 224527,
+        "word": "陈妍希说要学会接受和放下",
+        "onboard_time": 1741501462,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114990,
+        "num": 219071,
+        "word": "花少7拟邀",
+        "onboard_time": 1741488379,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215458,
+        "num": 215458,
+        "word": "桑延 男鬼",
+        "onboard_time": 1741501821,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205941,
+        "num": 205941,
+        "word": "大疆员工回应晚上9点被强制下班",
+        "onboard_time": 1741500081,
+        "rank": 30,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 104718,
+        "num": 205060,
+        "word": "为什么孩子不愿继承父母的事业了",
+        "onboard_time": 1741500321,
+        "rank": 31,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 204533,
+        "num": 204533,
+        "word": "奶奶农忙把孙儿和婴儿床带到地里",
+        "onboard_time": 1741501161,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185466,
+        "num": 185466,
+        "word": "翟潇闻公主抱杨肸子",
+        "onboard_time": 1741501341,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171490,
+        "num": 171490,
+        "word": "25岁女孩一天4杯咖啡致骨质疏松",
+        "onboard_time": 1741483581,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156064,
+        "num": 156064,
+        "word": "人大代表呼吁废除35岁就业门槛",
+        "onboard_time": 1741489220,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 123020,
+        "num": 155285,
+        "word": "陈飞宇用deepseek做巴黎拍照攻略",
+        "onboard_time": 1741499660,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154782,
+        "num": 154782,
+        "word": "民警喊檀健次的老婆听取哎声一片",
+        "onboard_time": 1741482739,
+        "rank": 37,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 125414,
+        "num": 125414,
+        "word": "宋兆普代表在两会用掉了三百多针",
+        "onboard_time": 1741500201,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117951,
+        "num": 117951,
+        "word": "石矶娘娘反诈宣传",
+        "onboard_time": 1741491921,
+        "rank": 39,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 100041,
+        "num": 114020,
+        "word": "赵樱子谈及原生家庭崩溃大哭",
+        "onboard_time": 1741494802,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112191,
+        "num": 112191,
+        "word": "人大代表回应街头针灸",
+        "onboard_time": 1741498101,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106026,
+        "num": 106026,
+        "word": "透过苏州园林花窗看早樱悄然绽放",
+        "onboard_time": 1741501161,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 104499,
+        "num": 104499,
+        "word": "詹姆斯腹股沟拉伤",
+        "onboard_time": 1741493421,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103497,
+        "num": 103497,
+        "word": "九尾登场六年热爱不息",
+        "onboard_time": 1741501521,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102689,
+        "num": 102689,
+        "word": "ACT对战成都Wolves",
+        "onboard_time": 1741501100,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102379,
+        "num": 102379,
+        "word": "马思纯手动澄清直播没开瘦脸",
+        "onboard_time": 1741494682,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97563,
+        "num": 97563,
+        "word": "杨幂巴黎时装周出发啦",
+        "onboard_time": 1741495401,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 92339,
+        "num": 92339,
+        "word": "刘昊然唱歌没有技术全是感情",
+        "onboard_time": 1741502241,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 84880,
+        "num": 89771,
+        "word": "赵丽颖旁白配音纪录片",
+        "onboard_time": 1741500502,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记那些两会妙喻#"
+    }
+  }
+}
