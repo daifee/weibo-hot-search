@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741534513195,
+  "endTime": 1741537363234,
   "band_list": [
     {
       "raw_hot": 2815044,
@@ -771,6 +771,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 356252,
+      "num": 356252,
+      "word": "周末一定要积极夺回线下生活",
+      "onboard_time": 1741534102,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 354929,
       "num": 354929,
       "word": "哪吒2票房距全球第6仅差不到1亿",
@@ -857,6 +865,14 @@
       "onboard_time": 1741526662,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 327768,
+      "num": 156069,
+      "word": "戒掉熬夜强制早睡的小tips",
+      "onboard_time": 1741533382,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 326729,
@@ -1747,6 +1763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150844,
+      "num": 150844,
+      "word": "俄军宣布库尔斯克全线大规模进攻",
+      "onboard_time": 1741536201,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 150790,
       "num": 271152,
       "word": "我国航天员开始为登月做准备",
@@ -1803,6 +1827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146287,
+      "num": 205992,
+      "word": "黄灿灿 好像我们的故事是真实存在的",
+      "onboard_time": 1741533863,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146084,
       "num": 146084,
       "word": "倒贴上班的八大表现",
@@ -1856,14 +1888,6 @@
       "word": "爱你热度",
       "onboard_time": 1741527502,
       "rank": 31,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 141972,
-      "num": 205992,
-      "word": "黄灿灿 好像我们的故事是真实存在的",
-      "onboard_time": 1741533863,
-      "rank": 27,
       "category": "剧集"
     },
     {
@@ -1945,14 +1969,6 @@
       "onboard_time": 1741501161,
       "rank": 39,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 134187,
-      "num": 134187,
-      "word": "戒掉熬夜强制早睡的小tips",
-      "onboard_time": 1741533382,
-      "rank": 40,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 133337,
@@ -2057,6 +2073,14 @@
       "onboard_time": 1741530925,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124136,
+      "num": 124136,
+      "word": "爱豆这个行业好像不是努力就可以的",
+      "onboard_time": 1741532124,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 124053,
@@ -2193,6 +2217,14 @@
       "onboard_time": 1741527022,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119046,
+      "num": 119046,
+      "word": "难哄28集杀疯了",
+      "onboard_time": 1741537161,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 118716,
@@ -2393,6 +2425,14 @@
       "onboard_time": 1741449322,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 109925,
+      "num": 92824,
+      "word": "王源三首歌演了一部青春电影",
+      "onboard_time": 1741535241,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 109640,
@@ -2811,6 +2851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89077,
+      "num": 89077,
+      "word": "卓沅又做了一件有结果的事",
+      "onboard_time": 1741534582,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 87391,
       "num": 87391,
       "word": "沈梦瑶上海演唱会舞台",
@@ -2841,6 +2889,14 @@
       "onboard_time": 1741515382,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 82961,
+      "num": 89032,
+      "word": "蔡依林林志玲看秀造型",
+      "onboard_time": 1741536501,
+      "rank": 41,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 82893,
@@ -2955,6 +3011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75168,
+      "num": 89064,
+      "word": "雷军又挂了三条热搜",
+      "onboard_time": 1741537220,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 74653,
       "num": 74653,
       "word": "赵一博4部待播剧",
@@ -2993,6 +3057,22 @@
       "onboard_time": 1741499602,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72624,
+      "num": 88948,
+      "word": "周翊然素颜直播",
+      "onboard_time": 1741537280,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 71153,
+      "num": 88926,
+      "word": "张真源素颜拍立得",
+      "onboard_time": 1741537102,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 70915,
@@ -3107,14 +3187,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 43850,
-      "num": 330452,
-      "word": "周末一定要积极夺回线下生活",
-      "onboard_time": 1741534102,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
       "raw_hot": 41920,
       "num": 311463,
       "word": "董明珠呼吁规范二手家电市场秩序",
@@ -3177,6 +3249,14 @@
       "onboard_time": 1741533085,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33637,
+      "num": 152165,
+      "word": "第五人格电竞时装",
+      "onboard_time": 1741536261,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 32530,
