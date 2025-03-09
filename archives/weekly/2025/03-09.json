@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741524414299,
+  "endTime": 1741526449154,
   "band_list": [
     {
       "raw_hot": 2815044,
@@ -11,20 +11,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 2639070,
+      "num": 1417048,
+      "word": "泰国发生连环恐袭",
+      "onboard_time": 1741522041,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 2301647,
       "num": 372936,
       "word": "素颜小姐姐艺考被卸3次妆",
       "onboard_time": 1741489099,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2237621,
-      "num": 1417048,
-      "word": "泰国发生连环恐袭",
-      "onboard_time": 1741522041,
-      "rank": 3,
-      "category": "国际时政"
     },
     {
       "raw_hot": 2056299,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1703080,
-      "num": 333672,
+      "num": 350691,
       "word": "王一博假发",
       "onboard_time": 1741522881,
       "rank": 10,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 937326,
-      "num": 345556,
+      "num": 355574,
       "word": "成都3.4级地震",
       "onboard_time": 1741521621,
       "rank": 5,
@@ -380,7 +380,7 @@
     },
     {
       "raw_hot": 637678,
-      "num": 337978,
+      "num": 386812,
       "word": "爱你大结局",
       "onboard_time": 1741520421,
       "rank": 11,
@@ -425,6 +425,14 @@
       "onboard_time": 1741510219,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 608468,
+      "num": 333038,
+      "word": "叶璇回应病重父亲遭保姆抢家产",
+      "onboard_time": 1741519342,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 596630,
@@ -515,14 +523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 456599,
-      "num": 314580,
-      "word": "叶璇回应病重父亲遭保姆抢家产",
-      "onboard_time": 1741519342,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 455545,
       "num": 455545,
       "word": "薛凯琪演唱会",
@@ -587,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 407829,
+      "num": 363456,
+      "word": "创造营亚洲2第一次顺位发表",
+      "onboard_time": 1741520602,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 400853,
       "num": 238770,
       "word": "温以凡香港刷盘子",
@@ -619,6 +627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 373170,
+      "num": 361601,
+      "word": "张凌赫徐若晗 二搭",
+      "onboard_time": 1741525582,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 371416,
       "num": 371416,
       "word": "超600吨黄金流入美国",
@@ -632,6 +648,14 @@
       "word": "25岁女孩一天4杯咖啡致骨质疏松",
       "onboard_time": 1741483581,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 367478,
+      "num": 367478,
+      "word": "老板送菜后得知顾客刚救了自己儿子",
+      "onboard_time": 1741524563,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -835,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 281754,
+      "num": 281754,
+      "word": "桑延温以凡再也不会分开了",
+      "onboard_time": 1741524381,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 277624,
       "num": 277624,
       "word": "冰湖重生",
@@ -856,14 +888,6 @@
       "word": "杨迪约谢娜爬山",
       "onboard_time": 1741498101,
       "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 267244,
-      "num": 243537,
-      "word": "创造营亚洲2第一次顺位发表",
-      "onboard_time": 1741520602,
-      "rank": 22,
       "category": "综艺"
     },
     {
@@ -1171,6 +1195,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 189459,
+      "num": 189459,
+      "word": "朕与哄妃何时有过嫌隙",
+      "onboard_time": 1741524142,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189204,
       "num": 173116,
       "word": "live图中的经典",
@@ -1241,14 +1273,6 @@
       "onboard_time": 1741494201,
       "rank": 32,
       "category": "民生新闻,议题讨论"
-    },
-    {
-      "raw_hot": 177767,
-      "num": 177767,
-      "word": "朕与哄妃何时有过嫌隙",
-      "onboard_time": 1741524142,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 177340,
@@ -1531,6 +1555,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 147002,
+      "num": 147002,
+      "word": "司机早高峰在马路中央停车买早餐",
+      "onboard_time": 1741525161,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146084,
       "num": 146084,
       "word": "倒贴上班的八大表现",
@@ -1587,7 +1619,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 138927,
+      "raw_hot": 140089,
       "num": 173753,
       "word": "林一 小嘴巴闭起来",
       "onboard_time": 1741522340,
@@ -1923,6 +1955,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 114432,
+      "num": 114432,
+      "word": "BamBam分享GOT7如今还在一起的原因",
+      "onboard_time": 1741525224,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114248,
       "num": 113405,
       "word": "宋茜出发巴黎时装周",
@@ -2083,6 +2123,14 @@
       "category": "民生新闻,国内时政"
     },
     {
+      "raw_hot": 105209,
+      "num": 189938,
+      "word": "建议医保像车保一样打折结转",
+      "onboard_time": 1741524801,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104785,
       "num": 104785,
       "word": "KLG对战DYG",
@@ -2217,6 +2265,14 @@
       "onboard_time": 1741521563,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 98812,
+      "num": 98812,
+      "word": "无需多言",
+      "onboard_time": 1741526302,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 98207,
@@ -2395,6 +2451,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 82893,
+      "num": 326009,
+      "word": "建议严惩利用未成年人牟利",
+      "onboard_time": 1741523421,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 82859,
       "num": 82859,
       "word": "上海男排卫冕联赛冠军",
@@ -2433,14 +2497,6 @@
       "onboard_time": 1741449261,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 80532,
-      "num": 80532,
-      "word": "桑延温以凡再也不会分开了",
-      "onboard_time": 1741524381,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 79802,
@@ -2505,6 +2561,14 @@
       "onboard_time": 1741502720,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75279,
+      "num": 78249,
+      "word": "刘忻把话筒插在腰上",
+      "onboard_time": 1741526422,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 74653,
@@ -2683,10 +2747,10 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34758,
-      "num": 326009,
-      "word": "建议严惩利用未成年人牟利",
-      "onboard_time": 1741523421,
+      "raw_hot": 34351,
+      "num": 133271,
+      "word": "河你看两会",
+      "onboard_time": 1741525161,
       "rank": 29,
       "category": "国内时政"
     },
@@ -2897,6 +2961,14 @@
       "onboard_time": 1741467553,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 7467,
+      "num": 98818,
+      "word": "夸克推荐25年必追剧单",
+      "onboard_time": 1741526122,
+      "rank": 36,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [

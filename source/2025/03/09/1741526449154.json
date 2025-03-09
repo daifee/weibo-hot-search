@@ -1,0 +1,410 @@
+{
+  "runTime": 1741526449154,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1243323,
+        "num": 1243323,
+        "word": "哪吒2冲上全球第6",
+        "onboard_time": 1741509981,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 441434,
+        "num": 441434,
+        "word": "住宅层高标准将不低于3米",
+        "onboard_time": 1741513881,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 7047,
+        "num": 400888,
+        "word": "AI创意海报看2025民生举措",
+        "onboard_time": 1741484840,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2639070,
+        "num": 394406,
+        "word": "泰国发生连环恐袭",
+        "onboard_time": 1741522041,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 510543,
+        "num": 386812,
+        "word": "爱你大结局",
+        "onboard_time": 1741520421,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 367478,
+        "num": 367478,
+        "word": "老板送菜后得知顾客刚救了自己儿子",
+        "onboard_time": 1741524563,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 484155,
+        "num": 364904,
+        "word": "一人一句恭喜吒儿",
+        "onboard_time": 1741521563,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 407829,
+        "num": 363456,
+        "word": "创造营亚洲2第一次顺位发表",
+        "onboard_time": 1741520602,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373170,
+        "num": 361601,
+        "word": "张凌赫徐若晗 二搭",
+        "onboard_time": 1741525582,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 355574,
+        "num": 355574,
+        "word": "成都3.4级地震",
+        "onboard_time": 1741521621,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1493788,
+        "num": 350691,
+        "word": "王一博假发",
+        "onboard_time": 1741522881,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 608468,
+        "num": 333038,
+        "word": "叶璇回应病重父亲遭保姆抢家产",
+        "onboard_time": 1741519342,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 525744,
+        "num": 321234,
+        "word": "手机尾号77777777拍出254.4万元",
+        "onboard_time": 1741517063,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 474455,
+        "num": 291661,
+        "word": "韩国人开始大量买入中国股票",
+        "onboard_time": 1741509682,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290423,
+        "num": 290423,
+        "word": "我国医院开始设立体重门诊",
+        "onboard_time": 1741509682,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 560077,
+        "num": 290215,
+        "word": "制片人谈王一博不进组的原因",
+        "onboard_time": 1741521501,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356192,
+        "num": 288021,
+        "word": "王栎鑫今天造型是春晚pass掉的",
+        "onboard_time": 1741520421,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 281754,
+        "num": 281754,
+        "word": "桑延温以凡再也不会分开了",
+        "onboard_time": 1741524381,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281422,
+        "num": 281422,
+        "word": "最能吃苦的那一代人又回来了",
+        "onboard_time": 1741517243,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 225789,
+        "num": 225789,
+        "word": "素颜小姐姐艺考被卸3次妆",
+        "onboard_time": 1741489099,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326100,
+        "num": 214840,
+        "word": "王大陆的手机又被查出新案",
+        "onboard_time": 1741516399,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201401,
+        "num": 201401,
+        "word": "女子露营烤牛肉被牛群吃光",
+        "onboard_time": 1741521621,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193201,
+        "num": 193201,
+        "word": "将稳步提高养老保险待遇水平",
+        "onboard_time": 1741516399,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 105209,
+        "num": 189938,
+        "word": "建议医保像车保一样打折结转",
+        "onboard_time": 1741524801,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189459,
+        "num": 189459,
+        "word": "朕与哄妃何时有过嫌隙",
+        "onboard_time": 1741524142,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147002,
+        "num": 147002,
+        "word": "司机早高峰在马路中央停车买早餐",
+        "onboard_time": 1741525161,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140089,
+        "num": 142090,
+        "word": "林一 小嘴巴闭起来",
+        "onboard_time": 1741522340,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136829,
+        "num": 141601,
+        "word": "章若楠新剧心疼的层次感",
+        "onboard_time": 1741523421,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141593,
+        "num": 141593,
+        "word": "民生主题记者会",
+        "onboard_time": 1741504161,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 34351,
+        "num": 133271,
+        "word": "河你看两会",
+        "onboard_time": 1741525161,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 129798,
+        "num": 129798,
+        "word": "袁咏仪能不化妆就不化妆",
+        "onboard_time": 1741515382,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129745,
+        "num": 129745,
+        "word": "2000年以前老旧小区要纳入城市更新改造",
+        "onboard_time": 1741508180,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 123619,
+        "num": 123619,
+        "word": "男子离婚后跟踪殴打前妻被认定家暴",
+        "onboard_time": 1741502600,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118714,
+        "num": 118714,
+        "word": "海底捞",
+        "onboard_time": 1741495041,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114432,
+        "num": 114432,
+        "word": "BamBam分享GOT7如今还在一起的原因",
+        "onboard_time": 1741525224,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99050,
+        "num": 99050,
+        "word": "杨紫李现锦绣芳华开启招商",
+        "onboard_time": 1741515860,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 7467,
+        "num": 98818,
+        "word": "夸克推荐25年必追剧单",
+        "onboard_time": 1741526122,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98812,
+        "num": 98812,
+        "word": "无需多言",
+        "onboard_time": 1741526302,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 98652,
+        "num": 98652,
+        "word": "东方白鹳被无人机绞断双腿",
+        "onboard_time": 1741500742,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95915,
+        "num": 95915,
+        "word": "仙逆",
+        "onboard_time": 1741518983,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 94584,
+        "num": 94584,
+        "word": "省委书记邀请你去有风的地方",
+        "onboard_time": 1741521022,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 375399,
+        "num": 94026,
+        "word": "小米SU7Ultra赛道首撞",
+        "onboard_time": 1741520242,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 92623,
+        "num": 92623,
+        "word": "王一博巴黎时装周秀场生图",
+        "onboard_time": 1741522220,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 82893,
+        "num": 82893,
+        "word": "建议严惩利用未成年人牟利",
+        "onboard_time": 1741523421,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 82840,
+        "num": 82840,
+        "word": "成都人用deepseek搜了啥",
+        "onboard_time": 1741514301,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 78715,
+        "num": 78715,
+        "word": "滤镜加更",
+        "onboard_time": 1741523542,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78265,
+        "num": 78265,
+        "word": "滤镜大王",
+        "onboard_time": 1741519220,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75279,
+        "num": 78249,
+        "word": "刘忻把话筒插在腰上",
+        "onboard_time": 1741526422,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 825236,
+        "num": 78196,
+        "word": "男子一个月怒刷32遍肖战版射雕",
+        "onboard_time": 1741517303,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 65227,
+        "num": 78160,
+        "word": "雷军谈小米汽车订单排队超半年",
+        "onboard_time": 1741510700,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平两会时间#"
+    }
+  }
+}
