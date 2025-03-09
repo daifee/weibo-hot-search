@@ -1,0 +1,410 @@
+{
+  "runTime": 1741488484678,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 676614,
+        "num": 1108258,
+        "word": "手语版天雷滚滚好有感染力",
+        "onboard_time": 1741479738,
+        "rank": 0,
+        "category": "民生新闻,电影"
+      },
+      {
+        "raw_hot": 461885,
+        "num": 461885,
+        "word": "谷爱凌锁骨受伤",
+        "onboard_time": 1741483219,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27660,
+        "num": 376256,
+        "word": "一组图梳理两高工作报告",
+        "onboard_time": 1741442664,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 577690,
+        "num": 372979,
+        "word": "前加拿大奥运选手成跨国大毒枭",
+        "onboard_time": 1741482620,
+        "rank": 3,
+        "category": "海外新闻,体育"
+      },
+      {
+        "raw_hot": 362341,
+        "num": 362341,
+        "word": "吴艳妮60米栏8秒10夺冠",
+        "onboard_time": 1741478538,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 355342,
+        "num": 355342,
+        "word": "雷军回应国庆7天AI雷军骂了8天",
+        "onboard_time": 1741477637,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 272313,
+        "num": 272313,
+        "word": "雷军称小米曾遭造谣被查导致股价下跌",
+        "onboard_time": 1741481540,
+        "rank": 6,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 232792,
+        "num": 232792,
+        "word": "冰湖重生",
+        "onboard_time": 1741482019,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221646,
+        "num": 221646,
+        "word": "哪吒2票房距全球第6仅差不到1亿",
+        "onboard_time": 1741434622,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148709,
+        "num": 221638,
+        "word": "美国纽约发生多起山火",
+        "onboard_time": 1741485321,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 83916,
+        "num": 221617,
+        "word": "代表建议为一老一小提供消费补贴",
+        "onboard_time": 1741485321,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1062330,
+        "num": 221592,
+        "word": "民警喊檀健次的老婆听取哎声一片",
+        "onboard_time": 1741482739,
+        "rank": 11,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 841945,
+        "num": 221575,
+        "word": "43岁三孩妈拍999套遗照与死神对抗",
+        "onboard_time": 1741485321,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151584,
+        "num": 221554,
+        "word": "家有儿女是这样过妇女节的",
+        "onboard_time": 1741460235,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63377,
+        "num": 221545,
+        "word": "郑钦文教练团队换血",
+        "onboard_time": 1741487779,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 477443,
+        "num": 221513,
+        "word": "代表说996不理想应该888",
+        "onboard_time": 1741446624,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 475590,
+        "num": 221502,
+        "word": "虞书欣模仿小石矶娘娘",
+        "onboard_time": 1741482440,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 393792,
+        "num": 221484,
+        "word": "小米SU7Ultra车主深夜城区飙车",
+        "onboard_time": 1741476376,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 377911,
+        "num": 221462,
+        "word": "为什么大家渴望引导型恋人",
+        "onboard_time": 1741486161,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221455,
+        "num": 221455,
+        "word": "麦琳说再见爱人后容貌焦虑达到峰值",
+        "onboard_time": 1741455797,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368664,
+        "num": 220051,
+        "word": "25岁女孩一天4杯咖啡致骨质疏松",
+        "onboard_time": 1741483581,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217674,
+        "num": 217674,
+        "word": "时代峰峻辟谣朱志鑫网传账号",
+        "onboard_time": 1741480578,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201562,
+        "num": 201562,
+        "word": "超600吨黄金流入美国",
+        "onboard_time": 1741442422,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 200682,
+        "num": 200682,
+        "word": "哪吒",
+        "onboard_time": 1741487421,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 216899,
+        "num": 196816,
+        "word": "麦琳怀孕胖到140斤",
+        "onboard_time": 1741486881,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189996,
+        "num": 189996,
+        "word": "温以凡香港刷盘子",
+        "onboard_time": 1741463834,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151708,
+        "num": 151708,
+        "word": "杨洋和塑料袋打起来了",
+        "onboard_time": 1741485559,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113676,
+        "num": 113676,
+        "word": "电影雄狮少年维权声明",
+        "onboard_time": 1741454118,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112831,
+        "num": 112831,
+        "word": "用透明鱼缸诱拍翠鸟如同设置死亡陷阱",
+        "onboard_time": 1741486220,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109927,
+        "num": 112703,
+        "word": "原来芍药是古人的爱情花",
+        "onboard_time": 1741479920,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112698,
+        "num": 112698,
+        "word": "泽连斯基称和平方案已在谈判桌上",
+        "onboard_time": 1741478118,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111196,
+        "num": 111196,
+        "word": "雨雪大风沙尘组团来袭",
+        "onboard_time": 1741482440,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110763,
+        "num": 110763,
+        "word": "天津公厕紫外线自动消杀惊呆市民",
+        "onboard_time": 1741488200,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108471,
+        "num": 108471,
+        "word": "2月全国居民消费价格同比下降0.7%",
+        "onboard_time": 1741488379,
+        "rank": 33,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 104075,
+        "num": 104075,
+        "word": "蒋敦豪说请大家坚定的选择十个勤天",
+        "onboard_time": 1741444703,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 100950,
+        "num": 100950,
+        "word": "张颜齐石凯好六结界兽",
+        "onboard_time": 1741484480,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100201,
+        "num": 100201,
+        "word": "现在都流行AI牛马了",
+        "onboard_time": 1741488379,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98681,
+        "num": 98681,
+        "word": "花少7拟邀",
+        "onboard_time": 1741488379,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98416,
+        "num": 98416,
+        "word": "人大代表建议将农村医保改为储蓄型",
+        "onboard_time": 1741446863,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 98133,
+        "num": 98133,
+        "word": "薛凯琪发长文",
+        "onboard_time": 1741419981,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 98257,
+        "num": 97624,
+        "word": "叙利亚",
+        "onboard_time": 1741447822,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97043,
+        "num": 97043,
+        "word": "金靖对林一说人不塌就行了",
+        "onboard_time": 1741477397,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95657,
+        "num": 96434,
+        "word": "河山锦绣",
+        "onboard_time": 1741486220,
+        "rank": 42,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 96282,
+        "num": 96282,
+        "word": "白鹿早啊晚安",
+        "onboard_time": 1741482261,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95693,
+        "num": 95693,
+        "word": "张碧晨唱着唱着哪吒又破纪录了",
+        "onboard_time": 1741478719,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 90011,
+        "num": 90011,
+        "word": "杨迪你是黄子弘凡的女主吗",
+        "onboard_time": 1741482860,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89434,
+        "num": 89434,
+        "word": "何小鹏说广州优势太多了",
+        "onboard_time": 1741482440,
+        "rank": 46,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 87353,
+        "num": 87353,
+        "word": "八旬老太徒手爬铁门翻墙外出",
+        "onboard_time": 1741485439,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86168,
+        "num": 86168,
+        "word": "浓眉谈与东契奇互换东家",
+        "onboard_time": 1741484240,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85124,
+        "num": 85124,
+        "word": "每一个人都是主角",
+        "onboard_time": 1741475416,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会之问#"
+    }
+  }
+}
