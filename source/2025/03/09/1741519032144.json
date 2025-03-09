@@ -1,0 +1,410 @@
+{
+  "runTime": 1741519032144,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1526756,
+        "num": 1526756,
+        "word": "哪吒2冲上全球第6",
+        "onboard_time": 1741509981,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 611379,
+        "num": 611379,
+        "word": "住宅层高标准将不低于3米",
+        "onboard_time": 1741513881,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14950,
+        "num": 403389,
+        "word": "AI创意海报看2025民生举措",
+        "onboard_time": 1741484840,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 622729,
+        "num": 395181,
+        "word": "爱你婚礼用了600斤手拨花瓣",
+        "onboard_time": 1741507879,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 367693,
+        "num": 367693,
+        "word": "我国医院开始设立体重门诊",
+        "onboard_time": 1741509682,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 336176,
+        "num": 336176,
+        "word": "成都人用deepseek搜了啥",
+        "onboard_time": 1741514301,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 320172,
+        "num": 320172,
+        "word": "东方白鹳被无人机绞断双腿",
+        "onboard_time": 1741500742,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317379,
+        "num": 317379,
+        "word": "等了14集男女主终于看对眼了",
+        "onboard_time": 1741514181,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206155,
+        "num": 317356,
+        "word": "梦花廷陈哲远张婧仪拥吻路透",
+        "onboard_time": 1741518502,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189115,
+        "num": 317045,
+        "word": "民生主题记者会",
+        "onboard_time": 1741504161,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 963823,
+        "num": 316863,
+        "word": "手机尾号77777777拍出254.4万元",
+        "onboard_time": 1741517063,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 913969,
+        "num": 316834,
+        "word": "韩国人开始大量买入中国股票",
+        "onboard_time": 1741509682,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 553892,
+        "num": 316582,
+        "word": "最能吃苦的那一代人又回来了",
+        "onboard_time": 1741517243,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 437763,
+        "num": 316345,
+        "word": "王一博LACOSTE大秀造型",
+        "onboard_time": 1741517303,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 425591,
+        "num": 316290,
+        "word": "素颜小姐姐艺考被卸3次妆",
+        "onboard_time": 1741489099,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178723,
+        "num": 316121,
+        "word": "实施体重管理年3年行动",
+        "onboard_time": 1741508300,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 343718,
+        "num": 315817,
+        "word": "欧阳娜娜美貌比飞机先落地巴黎",
+        "onboard_time": 1741514419,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 315779,
+        "num": 315779,
+        "word": "袁咏仪能不化妆就不化妆",
+        "onboard_time": 1741515382,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13329,
+        "num": 311463,
+        "word": "董明珠呼吁规范二手家电市场秩序",
+        "onboard_time": 1741515141,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 308888,
+        "num": 308888,
+        "word": "都说了宫内禁止对食",
+        "onboard_time": 1741510219,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191672,
+        "num": 291302,
+        "word": "苏醒给自己放了5周的假",
+        "onboard_time": 1741517483,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 118146,
+        "num": 285068,
+        "word": "全国将启用12356心理援助热线",
+        "onboard_time": 1741516702,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1144814,
+        "num": 258583,
+        "word": "王大陆的手机又被查出新案",
+        "onboard_time": 1741516399,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321742,
+        "num": 239972,
+        "word": "男子一个月怒刷32遍肖战版射雕",
+        "onboard_time": 1741517303,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 238398,
+        "num": 238398,
+        "word": "桑延 男鬼",
+        "onboard_time": 1741501821,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203370,
+        "num": 203370,
+        "word": "杨紫李现锦绣芳华开启招商",
+        "onboard_time": 1741515860,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166937,
+        "num": 200443,
+        "word": "爱你",
+        "onboard_time": 1741511840,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143286,
+        "num": 193709,
+        "word": "爱你里有毕雯珺",
+        "onboard_time": 1741515622,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27306,
+        "num": 193556,
+        "word": "林诗栋说第一次来重庆",
+        "onboard_time": 1741518683,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58927,
+        "num": 184982,
+        "word": "孙颖莎回应对阵波尔卡诺娃",
+        "onboard_time": 1741518683,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183764,
+        "num": 183764,
+        "word": "将稳步提高养老保险待遇水平",
+        "onboard_time": 1741516399,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 143720,
+        "num": 143720,
+        "word": "海尔老总周云杰撞脸结界兽",
+        "onboard_time": 1741514482,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138200,
+        "num": 138200,
+        "word": "2000年以前老旧小区要纳入城市更新改造",
+        "onboard_time": 1741508180,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 126398,
+        "num": 126398,
+        "word": "男子离婚后跟踪殴打前妻被认定家暴",
+        "onboard_time": 1741502600,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123885,
+        "num": 123885,
+        "word": "叔叔你是陈飞宇哥哥吗",
+        "onboard_time": 1741499361,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123201,
+        "num": 123201,
+        "word": "虞书欣腹语说看我",
+        "onboard_time": 1741515682,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101186,
+        "num": 122997,
+        "word": "宫脇咲良收到中粉送的戒指",
+        "onboard_time": 1741516822,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122901,
+        "num": 122901,
+        "word": "仁心俱乐部",
+        "onboard_time": 1741518202,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122848,
+        "num": 122848,
+        "word": "宋亚轩纪念我们一起完成的歌",
+        "onboard_time": 1741518382,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 122589,
+        "num": 122589,
+        "word": "我国人均预期寿命达79岁",
+        "onboard_time": 1741507100,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122181,
+        "num": 122181,
+        "word": "爱你我还能再看1000集",
+        "onboard_time": 1741517543,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118773,
+        "num": 118773,
+        "word": "长头发的杨肸子",
+        "onboard_time": 1741508361,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57876,
+        "num": 117662,
+        "word": "巴菲特60年获5.5万倍收益",
+        "onboard_time": 1741509081,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117471,
+        "num": 117471,
+        "word": "今年高校毕业生1222万人",
+        "onboard_time": 1741505361,
+        "rank": 43,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 117290,
+        "num": 117290,
+        "word": "美国一州长喊话美国人说你被骗了",
+        "onboard_time": 1741516461,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114486,
+        "num": 114486,
+        "word": "GW对战LZDG",
+        "onboard_time": 1741518441,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110416,
+        "num": 110416,
+        "word": "雷军谈小米汽车订单排队超半年",
+        "onboard_time": 1741510700,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 106703,
+        "num": 106703,
+        "word": "倒贴上班的八大表现",
+        "onboard_time": 1741512501,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104877,
+        "num": 104877,
+        "word": "仙逆",
+        "onboard_time": 1741518983,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 102903,
+        "num": 102903,
+        "word": "我国航天员开始为登月做准备",
+        "onboard_time": 1741514601,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平再谈共同富裕#"
+    }
+  }
+}

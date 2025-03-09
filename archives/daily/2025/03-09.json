@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741516722777,
+  "endTime": 1741519032144,
   "band_list": [
     {
       "raw_hot": 2301647,
@@ -27,6 +27,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 1526756,
+      "num": 1526756,
+      "word": "哪吒2冲上全球第6",
+      "onboard_time": 1741509981,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1458579,
       "num": 1458579,
       "word": "爱你婚礼用了600斤手拨花瓣",
@@ -41,6 +49,14 @@
       "onboard_time": 1741509682,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1144814,
+      "num": 258583,
+      "word": "王大陆的手机又被查出新案",
+      "onboard_time": 1741516399,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1121027,
@@ -80,6 +96,14 @@
       "word": "东方白鹳被无人机绞断双腿",
       "onboard_time": 1741500742,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 963823,
+      "num": 316863,
+      "word": "手机尾号77777777拍出254.4万元",
+      "onboard_time": 1741517063,
+      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -292,7 +316,7 @@
     },
     {
       "raw_hot": 627184,
-      "num": 269632,
+      "num": 315817,
       "word": "欧阳娜娜美貌比飞机先落地巴黎",
       "onboard_time": 1741514419,
       "rank": 13,
@@ -345,6 +369,14 @@
       "onboard_time": 1741503863,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 553892,
+      "num": 316582,
+      "word": "最能吃苦的那一代人又回来了",
+      "onboard_time": 1741517243,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 525788,
@@ -409,6 +441,14 @@
       "onboard_time": 1741427722,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 437763,
+      "num": 316345,
+      "word": "王一博LACOSTE大秀造型",
+      "onboard_time": 1741517303,
+      "rank": 13,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 434291,
@@ -507,14 +547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 360975,
-      "num": 192404,
-      "word": "王大陆的手机又被查出新案",
-      "onboard_time": 1741516399,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 359969,
       "num": 359969,
       "word": "人社部谈2025年就业",
@@ -604,11 +636,19 @@
     },
     {
       "raw_hot": 331169,
-      "num": 237730,
+      "num": 315779,
       "word": "袁咏仪能不化妆就不化妆",
       "onboard_time": 1741515382,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 321742,
+      "num": 239972,
+      "word": "男子一个月怒刷32遍肖战版射雕",
+      "onboard_time": 1741517303,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 320714,
@@ -740,7 +780,7 @@
     },
     {
       "raw_hot": 262636,
-      "num": 262636,
+      "num": 317045,
       "word": "民生主题记者会",
       "onboard_time": 1741504161,
       "rank": 12,
@@ -868,7 +908,7 @@
     },
     {
       "raw_hot": 212033,
-      "num": 192329,
+      "num": 203370,
       "word": "杨紫李现锦绣芳华开启招商",
       "onboard_time": 1741515860,
       "rank": 21,
@@ -896,6 +936,14 @@
       "word": "爱你",
       "onboard_time": 1741435103,
       "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 206155,
+      "num": 317356,
+      "word": "梦花廷陈哲远张婧仪拥吻路透",
+      "onboard_time": 1741518502,
+      "rank": 8,
       "category": "剧集"
     },
     {
@@ -985,6 +1033,14 @@
       "onboard_time": 1741503261,
       "rank": 26,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 191672,
+      "num": 291302,
+      "word": "苏醒给自己放了5周的假",
+      "onboard_time": 1741517483,
+      "rank": 20,
+      "category": "音乐"
     },
     {
       "raw_hot": 190892,
@@ -1300,7 +1356,7 @@
     },
     {
       "raw_hot": 148987,
-      "num": 150849,
+      "num": 193709,
       "word": "爱你里有毕雯珺",
       "onboard_time": 1741515622,
       "rank": 39,
@@ -1499,12 +1555,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123201,
+      "num": 123201,
+      "word": "虞书欣腹语说看我",
+      "onboard_time": 1741515682,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 122901,
+      "num": 122901,
+      "word": "仁心俱乐部",
+      "onboard_time": 1741518202,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 122848,
+      "num": 122848,
+      "word": "宋亚轩纪念我们一起完成的歌",
+      "onboard_time": 1741518382,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 122697,
       "num": 122697,
       "word": "辛芷蕾喜欢背包帅哥不是秘密",
       "onboard_time": 1741504221,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122181,
+      "num": 122181,
+      "word": "爱你我还能再看1000集",
+      "onboard_time": 1741517543,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 121732,
@@ -1563,12 +1651,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118146,
+      "num": 285068,
+      "word": "全国将启用12356心理援助热线",
+      "onboard_time": 1741516702,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 117324,
       "num": 117324,
       "word": "文淇好帅",
       "onboard_time": 1741445303,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 117290,
+      "num": 117290,
+      "word": "美国一州长喊话美国人说你被骗了",
+      "onboard_time": 1741516461,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 117071,
@@ -1625,6 +1729,14 @@
       "onboard_time": 1741494682,
       "rank": 47,
       "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 114486,
+      "num": 114486,
+      "word": "GW对战LZDG",
+      "onboard_time": 1741518441,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 114248,
@@ -1779,12 +1891,12 @@
       "category": "民生新闻,国内时政"
     },
     {
-      "raw_hot": 105164,
-      "num": 105164,
-      "word": "美国一州长喊话美国人说你被骗了",
-      "onboard_time": 1741516461,
-      "rank": 40,
-      "category": "国际时政"
+      "raw_hot": 104877,
+      "num": 104877,
+      "word": "仙逆",
+      "onboard_time": 1741518983,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 104785,
@@ -1803,14 +1915,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 103323,
-      "num": 103323,
-      "word": "全国将启用12356心理援助热线",
-      "onboard_time": 1741516702,
-      "rank": 41,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 103142,
       "num": 108056,
       "word": "每一个人都是主角",
@@ -1825,6 +1929,14 @@
       "onboard_time": 1741501100,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 101186,
+      "num": 122997,
+      "word": "宫脇咲良收到中粉送的戒指",
+      "onboard_time": 1741516822,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 100954,
@@ -1905,14 +2017,6 @@
       "onboard_time": 1741500502,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 97528,
-      "num": 97528,
-      "word": "虞书欣腹语说看我",
-      "onboard_time": 1741515682,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 97093,
@@ -2243,6 +2347,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 58927,
+      "num": 184982,
+      "word": "孙颖莎回应对阵波尔卡诺娃",
+      "onboard_time": 1741518683,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 56145,
       "num": 71646,
       "word": "周云杰回应海尔老总冷如冰箱",
@@ -2276,7 +2388,7 @@
     },
     {
       "raw_hot": 41920,
-      "num": 192404,
+      "num": 311463,
       "word": "董明珠呼吁规范二手家电市场秩序",
       "onboard_time": 1741515141,
       "rank": 27,
@@ -2353,6 +2465,14 @@
       "onboard_time": 1741511061,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 27306,
+      "num": 193556,
+      "word": "林诗栋说第一次来重庆",
+      "onboard_time": 1741518683,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 26422,
