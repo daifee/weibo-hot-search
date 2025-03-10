@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741627309831,
+  "endTime": 1741628381861,
   "band_list": [
     {
       "raw_hot": 2815044,
@@ -6019,6 +6019,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 38317,
+      "num": 100856,
+      "word": "18岁印度少年获最毛脸吉尼斯纪录",
+      "onboard_time": 1741626257,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 37976,
       "num": 261946,
       "word": "夸克推荐25年必追剧单",
@@ -6089,14 +6097,6 @@
       "onboard_time": 1741609223,
       "rank": 16,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 34343,
-      "num": 100856,
-      "word": "18岁印度少年获最毛脸吉尼斯纪录",
-      "onboard_time": 1741626257,
-      "rank": 36,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 34316,
@@ -6353,6 +6353,14 @@
       "onboard_time": 1741463174,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 22144,
+      "num": 73139,
+      "word": "张泽禹说捂住耳朵勇敢向前跑",
+      "onboard_time": 1741628355,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 21463,

@@ -1,6 +1,6 @@
 {
   "startTime": 1741624073347,
-  "endTime": 1741627309831,
+  "endTime": 1741628381861,
   "band_list": [
     {
       "raw_hot": 1295342,
@@ -163,6 +163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 152853,
+      "num": 190230,
+      "word": "海底捞将起诉向火锅内小便男子",
+      "onboard_time": 1741605204,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127908,
       "num": 190405,
       "word": "周杰伦背着女儿牵着儿子",
@@ -193,14 +201,6 @@
       "onboard_time": 1741618825,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 98640,
-      "num": 190230,
-      "word": "海底捞将起诉向火锅内小便男子",
-      "onboard_time": 1741605204,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 98220,
@@ -403,20 +403,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 38317,
+      "num": 100856,
+      "word": "18岁印度少年获最毛脸吉尼斯纪录",
+      "onboard_time": 1741626257,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 36224,
       "num": 100619,
       "word": "陈飞宇生图",
       "onboard_time": 1741604544,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 34343,
-      "num": 100856,
-      "word": "18岁印度少年获最毛脸吉尼斯纪录",
-      "onboard_time": 1741626257,
-      "rank": 36,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 28215,
@@ -449,6 +449,14 @@
       "onboard_time": 1741621703,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 22144,
+      "num": 73139,
+      "word": "张泽禹说捂住耳朵勇敢向前跑",
+      "onboard_time": 1741628355,
+      "rank": 47,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
