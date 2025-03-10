@@ -1,6 +1,6 @@
 {
   "startTime": 1741537363234,
-  "endTime": 1741588093581,
+  "endTime": 1741588801048,
   "band_list": [
     {
       "raw_hot": 2228194,
@@ -51,6 +51,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1207311,
+      "num": 1207311,
+      "word": "减肥4年后绝大多数人恢复之前体重",
+      "onboard_time": 1741584921,
+      "rank": 42,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 1202337,
       "num": 283067,
       "word": "拒绝复旦学生好爽",
@@ -73,14 +81,6 @@
       "onboard_time": 1741581683,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1017021,
-      "num": 1162723,
-      "word": "减肥4年后绝大多数人恢复之前体重",
-      "onboard_time": 1741584921,
-      "rank": 42,
-      "category": "运动健身"
     },
     {
       "raw_hot": 946949,
@@ -203,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 609119,
+      "num": 609119,
+      "word": "律师谈大疆强制员工9点下班",
+      "onboard_time": 1741586842,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 603057,
       "num": 292191,
       "word": "代露娃对接",
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 596695,
-      "num": 242113,
+      "num": 279962,
       "word": "吴宣仪ins发文原因",
       "onboard_time": 1741584322,
       "rank": 17,
@@ -276,7 +284,7 @@
     },
     {
       "raw_hot": 506820,
-      "num": 247534,
+      "num": 306802,
       "word": "叙利亚",
       "onboard_time": 1741583722,
       "rank": 45,
@@ -475,6 +483,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 321388,
+      "num": 288637,
+      "word": "一旦穿过这四种鞋你的人生就定型了",
+      "onboard_time": 1741585521,
+      "rank": 14,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 319774,
       "num": 588261,
       "word": "白鹿回应菠萝树下站谁都美",
@@ -561,14 +577,6 @@
       "onboard_time": 1741576880,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 279441,
-      "num": 205466,
-      "word": "一旦穿过这四种鞋你的人生就定型了",
-      "onboard_time": 1741585521,
-      "rank": 14,
-      "category": "时尚"
     },
     {
       "raw_hot": 279265,
@@ -712,14 +720,6 @@
       "word": "手机尾号77777777拍出254.4万元",
       "onboard_time": 1741517063,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 206075,
-      "num": 206075,
-      "word": "律师谈大疆强制员工9点下班",
-      "onboard_time": 1741586842,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -867,6 +867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176581,
+      "num": 176581,
+      "word": "蓝盈莹潜水好长的腿",
+      "onboard_time": 1741585700,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 173933,
       "num": 169531,
       "word": "刘诗诗淮水竹亭生日祝福",
@@ -907,14 +915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 169141,
-      "num": 144040,
-      "word": "蓝盈莹潜水好长的腿",
-      "onboard_time": 1741585700,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 168120,
       "num": 168120,
       "word": "乒乓球教练徐克声明",
@@ -929,6 +929,14 @@
       "onboard_time": 1741582703,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 166494,
+      "num": 166494,
+      "word": "桑延跟温以凡求婚",
+      "onboard_time": 1741587321,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 162908,
@@ -1003,14 +1011,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 146686,
-      "num": 146686,
-      "word": "桑延跟温以凡求婚",
-      "onboard_time": 1741587321,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 146287,
       "num": 146287,
       "word": "黄灿灿 好像我们的故事是真实存在的",
@@ -1043,6 +1043,14 @@
       "category": "国际时政,互联网"
     },
     {
+      "raw_hot": 135688,
+      "num": 154874,
+      "word": "郑钦文采访",
+      "onboard_time": 1741586360,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135478,
       "num": 124152,
       "word": "王大陆的手机又被查出新案",
@@ -1067,6 +1075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131692,
+      "num": 131692,
+      "word": "郑钦文印第安维尔斯赛两连胜",
+      "onboard_time": 1741588101,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130034,
       "num": 1358364,
       "word": "政协会议圆满完成各项议程",
@@ -1081,6 +1097,14 @@
       "onboard_time": 1741574839,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 128583,
+      "num": 160782,
+      "word": "张杰四月鸟巢见",
+      "onboard_time": 1741587981,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 124136,
@@ -1099,6 +1123,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122993,
+      "num": 122993,
+      "word": "网传李昀锐将常驻奔跑吧13",
+      "onboard_time": 1741588521,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 122566,
+      "num": 122566,
+      "word": "爱你 民政局暗广",
+      "onboard_time": 1741588460,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121914,
       "num": 121914,
       "word": "AirPods或迎内置摄像头",
@@ -1113,14 +1153,6 @@
       "onboard_time": 1741584560,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 120792,
-      "num": 154874,
-      "word": "郑钦文采访",
-      "onboard_time": 1741586360,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 120278,
@@ -1171,6 +1203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 116209,
+      "num": 116209,
+      "word": "想飞的女孩 浪费演员",
+      "onboard_time": 1741585400,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 116179,
       "num": 116179,
       "word": "智元启元大模型正式发布",
@@ -1201,14 +1241,6 @@
       "onboard_time": 1741577481,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 111531,
-      "num": 111531,
-      "word": "想飞的女孩 浪费演员",
-      "onboard_time": 1741585400,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 111446,
@@ -1409,14 +1441,6 @@
       "onboard_time": 1741576581,
       "rank": 19,
       "category": "教育"
-    },
-    {
-      "raw_hot": 83946,
-      "num": 160782,
-      "word": "张杰四月鸟巢见",
-      "onboard_time": 1741587981,
-      "rank": 29,
-      "category": "演出"
     },
     {
       "raw_hot": 83227,
@@ -1667,12 +1691,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 24806,
+      "num": 126299,
+      "word": "推荐一部真正的冷门动画",
+      "onboard_time": 1741588641,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 23656,
       "num": 129563,
       "word": "大家的心上事就是相关部门的上心事",
       "onboard_time": 1741539619,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 21212,
+      "num": 116345,
+      "word": "留几手回应接商单",
+      "onboard_time": 1741588761,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 20637,
@@ -1739,7 +1779,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 9861,
+      "raw_hot": 11329,
       "num": 163870,
       "word": "赵成晨石家庄之行vlog",
       "onboard_time": 1741587500,
