@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741563323975,
+  "endTime": 1741569839569,
   "band_list": [
     {
       "raw_hot": 2815044,
@@ -65,6 +65,14 @@
       "onboard_time": 1741532065,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1540296,
+      "num": 947554,
+      "word": "华为离职天才少年官宣刷屏",
+      "onboard_time": 1741565481,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 1535197,
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 942946,
-      "num": 148219,
+      "num": 213311,
       "word": "美宇航员已滞留太空9个月",
       "onboard_time": 1741541237,
       "rank": 32,
@@ -217,6 +225,14 @@
       "onboard_time": 1741495220,
       "rank": 12,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 900685,
+      "num": 351458,
+      "word": "咸鱼飞升 陈都灵",
+      "onboard_time": 1741562418,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 897399,
@@ -539,6 +555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 559234,
+      "num": 559234,
+      "word": "马斯克发现美政府数千亿美元假合同",
+      "onboard_time": 1741562297,
+      "rank": 30,
+      "category": "国际时政,互联网"
+    },
+    {
       "raw_hot": 557756,
       "num": 299528,
       "word": "叔叔你是陈飞宇哥哥吗",
@@ -603,6 +627,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 494595,
+      "num": 494595,
+      "word": "美国一飞机坠毁停车场多车起火",
+      "onboard_time": 1741565841,
+      "rank": 5,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 485659,
+      "num": 485659,
+      "word": "国际乒联公布徐克与女运动员聊天记录",
+      "onboard_time": 1741568960,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 478303,
       "num": 303354,
       "word": "唐奇苏橙橙官宣恋情",
@@ -633,6 +673,14 @@
       "onboard_time": 1741493601,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 454380,
+      "num": 454380,
+      "word": "美国一架载5人飞机坠毁",
+      "onboard_time": 1741565360,
+      "rank": 7,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 448524,
@@ -739,6 +787,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 384169,
+      "num": 349961,
+      "word": "杨幂连续四年为刘诗诗庆生",
+      "onboard_time": 1741563260,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 371863,
+      "num": 371863,
+      "word": "戒掉晚饭减肥后再吃可能会反弹",
+      "onboard_time": 1741567881,
+      "rank": 8,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 371416,
       "num": 371416,
       "word": "超600吨黄金流入美国",
@@ -811,6 +875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 347489,
+      "num": 347489,
+      "word": "建议农民基础养老金提高到600",
+      "onboard_time": 1741563439,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 347430,
       "num": 347430,
       "word": "刘诗诗新剧情绪爆发力",
@@ -828,7 +900,7 @@
     },
     {
       "raw_hot": 344172,
-      "num": 183120,
+      "num": 213204,
       "word": "戒掉熬夜强制早睡的小tips",
       "onboard_time": 1741533382,
       "rank": 40,
@@ -1059,6 +1131,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 262038,
+      "num": 262038,
+      "word": "一觉醒来中国航天又有成功发射了",
+      "onboard_time": 1741565481,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 261890,
       "num": 261890,
       "word": "王一博巴黎时装周秀场生图",
@@ -1131,6 +1211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 242219,
+      "num": 242219,
+      "word": "徐克回应被禁赛十年",
+      "onboard_time": 1741562238,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 242055,
       "num": 242055,
       "word": "檀健次 水仙",
@@ -1161,6 +1249,14 @@
       "onboard_time": 1741510762,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 226354,
+      "num": 352971,
+      "word": "以色列宣布切断加沙供电",
+      "onboard_time": 1741565481,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 226148,
@@ -1233,6 +1329,14 @@
       "onboard_time": 1741532243,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 213338,
+      "num": 213338,
+      "word": "库迪哪吒联名",
+      "onboard_time": 1741564279,
+      "rank": 18,
+      "category": "电影,美食"
     },
     {
       "raw_hot": 213136,
@@ -1395,6 +1499,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 194047,
+      "num": 194047,
+      "word": "锦瑟无端五十弦到底多少根弦",
+      "onboard_time": 1741563861,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193796,
       "num": 280675,
       "word": "尼龙石凯本真大片",
@@ -1491,6 +1603,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 186895,
+      "num": 186895,
+      "word": "海尔老总回应撞脸结界兽",
+      "onboard_time": 1741543936,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 185466,
       "num": 185466,
       "word": "翟潇闻公主抱杨肸子",
@@ -1512,14 +1632,6 @@
       "word": "白鹿去年拍的长发版夏凤华",
       "onboard_time": 1741510941,
       "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 181289,
-      "num": 181289,
-      "word": "咸鱼飞升 陈都灵",
-      "onboard_time": 1741562418,
-      "rank": 6,
       "category": "剧集"
     },
     {
@@ -1609,6 +1721,14 @@
       "onboard_time": 1741507400,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168120,
+      "num": 168120,
+      "word": "乒乓球教练徐克声明",
+      "onboard_time": 1741532065,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 166799,
@@ -1787,6 +1907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152491,
+      "num": 152491,
+      "word": "外媒披露美乌矿产协议难签内幕",
+      "onboard_time": 1741562599,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 151807,
       "num": 151807,
       "word": "几秒镜头看到不一样的吴谨言",
@@ -1857,14 +1985,6 @@
       "onboard_time": 1741515622,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 148887,
-      "num": 148887,
-      "word": "徐克回应被禁赛十年",
-      "onboard_time": 1741562238,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 148709,
@@ -2049,6 +2169,14 @@
       "onboard_time": 1741478719,
       "rank": 27,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 132397,
+      "num": 132397,
+      "word": "两会",
+      "onboard_time": 1741565421,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 126871,
@@ -2291,6 +2419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118590,
+      "num": 118590,
+      "word": "王栎鑫累吐了",
+      "onboard_time": 1741559956,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 117324,
       "num": 117324,
       "word": "文淇好帅",
@@ -2305,14 +2441,6 @@
       "onboard_time": 1741444343,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 116190,
-      "num": 97481,
-      "word": "马斯克发现美政府数千亿美元假合同",
-      "onboard_time": 1741562297,
-      "rank": 30,
-      "category": "国际时政,互联网"
     },
     {
       "raw_hot": 115871,
@@ -2579,6 +2707,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 106160,
+      "num": 106160,
+      "word": "马斯克帮白宫办公厅主任拎包",
+      "onboard_time": 1741565122,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 106043,
       "num": 106043,
       "word": "李雪琴 白姐拍我真是全靠感情",
@@ -2731,6 +2867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99342,
+      "num": 173924,
+      "word": "第3场委员通道",
+      "onboard_time": 1741560917,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 98938,
       "num": 98938,
       "word": "钎城评论区J人属性拉满",
@@ -2779,6 +2923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 96107,
+      "num": 96107,
+      "word": "2025微观两会",
+      "onboard_time": 1741568482,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 95852,
       "num": 95852,
       "word": "梁王组合vs姜珉赫奇东柱",
@@ -2803,20 +2955,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94892,
+      "num": 94892,
+      "word": "美媒用极为罕见形容哪吒2霸榜",
+      "onboard_time": 1741563079,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 93376,
       "num": 93376,
       "word": "张嘉元回应被章子怡点评很值",
       "onboard_time": 1741493720,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 93079,
-      "num": 93079,
-      "word": "王栎鑫累吐了",
-      "onboard_time": 1741559956,
-      "rank": 33,
-      "category": "音乐"
     },
     {
       "raw_hot": 92339,
@@ -2931,6 +3083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89171,
+      "num": 89171,
+      "word": "卡尼当选加拿大执政党新党首",
+      "onboard_time": 1741566201,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 89077,
       "num": 120391,
       "word": "卓沅又做了一件有结果的事",
@@ -2939,12 +3099,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 88117,
-      "num": 97963,
-      "word": "海尔老总回应撞脸结界兽",
-      "onboard_time": 1741543936,
-      "rank": 44,
-      "category": "国内时政"
+      "raw_hot": 88936,
+      "num": 88936,
+      "word": "用AI打开最高检工作报告",
+      "onboard_time": 1741569562,
+      "rank": 46,
+      "category": "国内时政,互联网"
     },
     {
       "raw_hot": 87391,
@@ -2953,6 +3113,14 @@
       "onboard_time": 1741447342,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 87241,
+      "num": 120757,
+      "word": "惹怒虞书欣只需要一个林一",
+      "onboard_time": 1741539439,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 87201,
@@ -3091,6 +3259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75153,
+      "num": 1012024,
+      "word": "政协会议闭幕会",
+      "onboard_time": 1741563500,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 74653,
       "num": 74653,
       "word": "赵一博4部待播剧",
@@ -3129,14 +3305,6 @@
       "onboard_time": 1741499602,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 72507,
-      "num": 173924,
-      "word": "第3场委员通道",
-      "onboard_time": 1741560917,
-      "rank": 40,
-      "category": "国内时政"
     },
     {
       "raw_hot": 70915,
@@ -3179,14 +3347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 68217,
-      "num": 120757,
-      "word": "惹怒虞书欣只需要一个林一",
-      "onboard_time": 1741539439,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 66998,
       "num": 66998,
       "word": "dsn直播",
@@ -3201,6 +3361,14 @@
       "onboard_time": 1741562658,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 64696,
+      "num": 186652,
+      "word": "湖人重返西部第二",
+      "onboard_time": 1741566021,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 64048,
@@ -3251,14 +3419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 56280,
-      "num": 56280,
-      "word": "美媒用极为罕见形容哪吒2霸榜",
-      "onboard_time": 1741563079,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
       "raw_hot": 56145,
       "num": 71646,
       "word": "周云杰回应海尔老总冷如冰箱",
@@ -3281,14 +3441,6 @@
       "onboard_time": 1741533203,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 51426,
-      "num": 51426,
-      "word": "杨幂连续四年为刘诗诗庆生",
-      "onboard_time": 1741563260,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 50976,

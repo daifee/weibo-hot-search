@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741563323975,
+  "endTime": 1741569839569,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -657,6 +657,14 @@
       "onboard_time": 1740882978,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1540296,
+      "num": 947554,
+      "word": "华为离职天才少年官宣刷屏",
+      "onboard_time": 1741565481,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 1535197,
@@ -1684,7 +1692,7 @@
     },
     {
       "raw_hot": 942946,
-      "num": 148219,
+      "num": 213311,
       "word": "美宇航员已滞留太空9个月",
       "onboard_time": 1741541237,
       "rank": 32,
@@ -1801,6 +1809,14 @@
       "onboard_time": 1741355962,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 900685,
+      "num": 351458,
+      "word": "咸鱼飞升 陈都灵",
+      "onboard_time": 1741562418,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 897803,
@@ -3835,6 +3851,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 559234,
+      "num": 559234,
+      "word": "马斯克发现美政府数千亿美元假合同",
+      "onboard_time": 1741562297,
+      "rank": 30,
+      "category": "国际时政,互联网"
+    },
+    {
       "raw_hot": 558886,
       "num": 691357,
       "word": "山东天气也太抽象了",
@@ -4379,6 +4403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 494595,
+      "num": 494595,
+      "word": "美国一飞机坠毁停车场多车起火",
+      "onboard_time": 1741565841,
+      "rank": 5,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 494416,
       "num": 494416,
       "word": "武汉下雪",
@@ -4433,6 +4465,14 @@
       "onboard_time": 1741011380,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 485659,
+      "num": 485659,
+      "word": "国际乒联公布徐克与女运动员聊天记录",
+      "onboard_time": 1741568960,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 485031,
@@ -4729,6 +4769,14 @@
       "onboard_time": 1741176978,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 454380,
+      "num": 454380,
+      "word": "美国一架载5人飞机坠毁",
+      "onboard_time": 1741565360,
+      "rank": 7,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 452980,
@@ -5667,6 +5715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 384169,
+      "num": 349961,
+      "word": "杨幂连续四年为刘诗诗庆生",
+      "onboard_time": 1741563260,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 382787,
       "num": 384313,
       "word": "今年是台湾光复80周年",
@@ -5817,6 +5873,14 @@
       "onboard_time": 1741315760,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 371863,
+      "num": 371863,
+      "word": "戒掉晚饭减肥后再吃可能会反弹",
+      "onboard_time": 1741567881,
+      "rank": 8,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 371420,
@@ -6331,6 +6395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 347489,
+      "num": 347489,
+      "word": "建议农民基础养老金提高到600",
+      "onboard_time": 1741563439,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 347430,
       "num": 347430,
       "word": "刘诗诗新剧情绪爆发力",
@@ -6380,7 +6452,7 @@
     },
     {
       "raw_hot": 344172,
-      "num": 183120,
+      "num": 213204,
       "word": "戒掉熬夜强制早睡的小tips",
       "onboard_time": 1741533382,
       "rank": 40,
@@ -8507,6 +8579,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 262038,
+      "num": 262038,
+      "word": "一觉醒来中国航天又有成功发射了",
+      "onboard_time": 1741565481,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 261890,
       "num": 261890,
       "word": "王一博巴黎时装周秀场生图",
@@ -9059,6 +9139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242219,
+      "num": 242219,
+      "word": "徐克回应被禁赛十年",
+      "onboard_time": 1741562238,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 242055,
       "num": 242055,
       "word": "檀健次 水仙",
@@ -9553,6 +9641,14 @@
       "onboard_time": 1741413561,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 226354,
+      "num": 352971,
+      "word": "以色列宣布切断加沙供电",
+      "onboard_time": 1741565481,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 226053,
@@ -10193,6 +10289,14 @@
       "onboard_time": 1740927262,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 213338,
+      "num": 213338,
+      "word": "库迪哪吒联名",
+      "onboard_time": 1741564279,
+      "rank": 18,
+      "category": "电影,美食"
     },
     {
       "raw_hot": 213092,
@@ -11579,6 +11683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194047,
+      "num": 194047,
+      "word": "锦瑟无端五十弦到底多少根弦",
+      "onboard_time": 1741563861,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193992,
       "num": 900971,
       "word": "海南免税新增了即购即提",
@@ -12211,6 +12323,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 186895,
+      "num": 186895,
+      "word": "海尔老总回应撞脸结界兽",
+      "onboard_time": 1741543936,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 186888,
       "num": 267519,
       "word": "靳东回应AI真假靳东",
@@ -12593,14 +12713,6 @@
       "onboard_time": 1741418181,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 181289,
-      "num": 181289,
-      "word": "咸鱼飞升 陈都灵",
-      "onboard_time": 1741562418,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 181231,
@@ -13641,6 +13753,14 @@
       "onboard_time": 1741241599,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168120,
+      "num": 168120,
+      "word": "乒乓球教练徐克声明",
+      "onboard_time": 1741532065,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 167992,
@@ -15331,6 +15451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152491,
+      "num": 152491,
+      "word": "外媒披露美乌矿产协议难签内幕",
+      "onboard_time": 1741562599,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 152483,
       "num": 152483,
       "word": "M4版MacBookAir",
@@ -15689,14 +15817,6 @@
       "onboard_time": 1741515622,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 148887,
-      "num": 148887,
-      "word": "徐克回应被禁赛十年",
-      "onboard_time": 1741562238,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 148884,
@@ -19219,6 +19339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118590,
+      "num": 118590,
+      "word": "王栎鑫累吐了",
+      "onboard_time": 1741559956,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 118541,
       "num": 274497,
       "word": "这是我的岛",
@@ -19433,14 +19561,6 @@
       "onboard_time": 1740920360,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 116190,
-      "num": 97481,
-      "word": "马斯克发现美政府数千亿美元假合同",
-      "onboard_time": 1741562297,
-      "rank": 30,
-      "category": "国际时政,互联网"
     },
     {
       "raw_hot": 116128,
@@ -20691,6 +20811,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 106160,
+      "num": 106160,
+      "word": "马斯克帮白宫办公厅主任拎包",
+      "onboard_time": 1741565122,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 106144,
       "num": 106144,
       "word": "加拿大准备好对美一系列报复",
@@ -21579,6 +21707,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 99342,
+      "num": 173924,
+      "word": "第3场委员通道",
+      "onboard_time": 1741560917,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 99182,
       "num": 99182,
       "word": "河南2.75万户家庭资产超千万",
@@ -21955,6 +22091,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 96107,
+      "num": 96107,
+      "word": "2025微观两会",
+      "onboard_time": 1741568482,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 96012,
       "num": 273862,
       "word": "国际劳动妇女节的起源",
@@ -22089,6 +22233,14 @@
       "onboard_time": 1741157719,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 94892,
+      "num": 94892,
+      "word": "美媒用极为罕见形容哪吒2霸榜",
+      "onboard_time": 1741563079,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 94879,
@@ -22257,14 +22409,6 @@
       "onboard_time": 1741421660,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 93079,
-      "num": 93079,
-      "word": "王栎鑫累吐了",
-      "onboard_time": 1741559956,
-      "rank": 33,
-      "category": "音乐"
     },
     {
       "raw_hot": 93000,
@@ -22651,6 +22795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 89171,
+      "num": 89171,
+      "word": "卡尼当选加拿大执政党新党首",
+      "onboard_time": 1741566201,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 89128,
       "num": 89128,
       "word": "电视剧蝉开机",
@@ -22681,6 +22833,14 @@
       "onboard_time": 1741056317,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88936,
+      "num": 88936,
+      "word": "用AI打开最高检工作报告",
+      "onboard_time": 1741569562,
+      "rank": 46,
+      "category": "国内时政,互联网"
     },
     {
       "raw_hot": 88871,
@@ -22737,14 +22897,6 @@
       "onboard_time": 1740878479,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 88117,
-      "num": 97963,
-      "word": "海尔老总回应撞脸结界兽",
-      "onboard_time": 1741543936,
-      "rank": 44,
-      "category": "国内时政"
     },
     {
       "raw_hot": 88004,
@@ -22825,6 +22977,14 @@
       "onboard_time": 1740825502,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 87241,
+      "num": 120757,
+      "word": "惹怒虞书欣只需要一个林一",
+      "onboard_time": 1741539439,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 87203,
@@ -23603,6 +23763,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 75153,
+      "num": 1012024,
+      "word": "政协会议闭幕会",
+      "onboard_time": 1741563500,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 74925,
       "num": 313935,
       "word": "美国所谓印太战略成事不足败事有余",
@@ -23769,14 +23937,6 @@
       "onboard_time": 1741231636,
       "rank": 22,
       "category": "国内时政,健康医疗"
-    },
-    {
-      "raw_hot": 72507,
-      "num": 173924,
-      "word": "第3场委员通道",
-      "onboard_time": 1741560917,
-      "rank": 40,
-      "category": "国内时政"
     },
     {
       "raw_hot": 72435,
@@ -24115,14 +24275,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 68217,
-      "num": 120757,
-      "word": "惹怒虞书欣只需要一个林一",
-      "onboard_time": 1741539439,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 68172,
       "num": 317471,
       "word": "巴菲特罕见谈关税",
@@ -24393,6 +24545,14 @@
       "onboard_time": 1741359263,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 64696,
+      "num": 186652,
+      "word": "湖人重返西部第二",
+      "onboard_time": 1741566021,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 64631,
@@ -24971,14 +25131,6 @@
       "category": "艺人,剧集"
     },
     {
-      "raw_hot": 56280,
-      "num": 56280,
-      "word": "美媒用极为罕见形容哪吒2霸榜",
-      "onboard_time": 1741563079,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
       "raw_hot": 56136,
       "num": 56136,
       "word": "海尔兄弟续集要来了",
@@ -25289,14 +25441,6 @@
       "onboard_time": 1741103360,
       "rank": 42,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 51426,
-      "num": 51426,
-      "word": "杨幂连续四年为刘诗诗庆生",
-      "onboard_time": 1741563260,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 51372,
