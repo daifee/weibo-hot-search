@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741577784064,
+  "endTime": 1741580594265,
   "band_list": [
     {
       "raw_hot": 2815044,
@@ -33,6 +33,22 @@
       "onboard_time": 1741521621,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1972548,
+      "num": 1972548,
+      "word": "美的被曝强制18点20下班",
+      "onboard_time": 1741577481,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1962100,
+      "num": 1962100,
+      "word": "温以凡 许沁",
+      "onboard_time": 1741576821,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 1880828,
@@ -108,19 +124,11 @@
     },
     {
       "raw_hot": 1405484,
-      "num": 384146,
+      "num": 1268941,
       "word": "刘晓艳 两分二十秒战绩可查",
       "onboard_time": 1741575741,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1331771,
-      "num": 341445,
-      "word": "温以凡 许沁",
-      "onboard_time": 1741576821,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 1270274,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 1202337,
-      "num": 271156,
+      "num": 283067,
       "word": "拒绝复旦学生好爽",
       "onboard_time": 1741575921,
       "rank": 20,
@@ -595,6 +603,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 623240,
+      "num": 390873,
+      "word": "吉赛尔 老天保佑金山银山全都有",
+      "onboard_time": 1741576821,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 621711,
       "num": 285789,
       "word": "戚薇提醒做医美要适度",
@@ -633,6 +649,14 @@
       "onboard_time": 1741493421,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 567970,
+      "num": 567970,
+      "word": "王一博生图",
+      "onboard_time": 1741578503,
+      "rank": 6,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 559234,
@@ -689,6 +713,14 @@
       "onboard_time": 1741520242,
       "rank": 4,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 505781,
+      "num": 505781,
+      "word": "何炅在1999年写的一篇文章",
+      "onboard_time": 1741578381,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 496925,
@@ -764,7 +796,7 @@
     },
     {
       "raw_hot": 435579,
-      "num": 270005,
+      "num": 278206,
       "word": "海尔集团连夜更新老总表情包",
       "onboard_time": 1741571179,
       "rank": 20,
@@ -795,6 +827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 428166,
+      "num": 576107,
+      "word": "周思成称将起诉文都教育",
+      "onboard_time": 1741574779,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 427910,
       "num": 277382,
       "word": "为什么大家渴望引导型恋人",
@@ -804,11 +844,19 @@
     },
     {
       "raw_hot": 426370,
-      "num": 299032,
+      "num": 356296,
       "word": "胡烨韬一顺排名第一",
       "onboard_time": 1741574900,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 423219,
+      "num": 281826,
+      "word": "蹲便冲水细菌是坐便的2倍",
+      "onboard_time": 1741578442,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 415997,
@@ -859,6 +907,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 388361,
+      "num": 388361,
+      "word": "难哄",
+      "onboard_time": 1741493840,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 387488,
       "num": 387488,
       "word": "粉笔模考",
@@ -873,14 +929,6 @@
       "onboard_time": 1741497981,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 385630,
-      "num": 378455,
-      "word": "周思成称将起诉文都教育",
-      "onboard_time": 1741574779,
-      "rank": 44,
-      "category": "教育"
     },
     {
       "raw_hot": 384169,
@@ -953,6 +1001,14 @@
       "onboard_time": 1741534102,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 356103,
+      "num": 356103,
+      "word": "淳茶舍官宣迪丽热巴",
+      "onboard_time": 1741576400,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 354929,
@@ -1099,22 +1155,6 @@
       "category": "民生新闻,电影"
     },
     {
-      "raw_hot": 314120,
-      "num": 275646,
-      "word": "淳茶舍官宣迪丽热巴",
-      "onboard_time": 1741576400,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 311987,
-      "num": 274206,
-      "word": "吉赛尔 老天保佑金山银山全都有",
-      "onboard_time": 1741576821,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 307747,
       "num": 224072,
       "word": "金靖对林一说人不塌就行了",
@@ -1235,6 +1275,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284634,
+      "num": 284634,
+      "word": "iPhone17系列新机模上手",
+      "onboard_time": 1741579821,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 283264,
+      "num": 283264,
+      "word": "偶遇宋茜周冬雨逛街",
+      "onboard_time": 1741576880,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 283224,
       "num": 283224,
       "word": "张凌赫 无框眼镜",
@@ -1259,12 +1315,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 274634,
+      "num": 274634,
+      "word": "闪耀暖暖",
+      "onboard_time": 1741579942,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 270962,
       "num": 270962,
       "word": "杨迪约谢娜爬山",
       "onboard_time": 1741498101,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 270452,
+      "num": 279292,
+      "word": "我的差评女友定档",
+      "onboard_time": 1741578744,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 266557,
@@ -1329,14 +1401,6 @@
       "onboard_time": 1741489400,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 253777,
-      "num": 253777,
-      "word": "偶遇宋茜周冬雨逛街",
-      "onboard_time": 1741576880,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 252861,
@@ -1409,6 +1473,14 @@
       "onboard_time": 1741573820,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 236269,
+      "num": 236269,
+      "word": "王源春日樱花王子",
+      "onboard_time": 1741579340,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 234687,
@@ -1507,14 +1579,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 213136,
-      "num": 213136,
-      "word": "难哄",
-      "onboard_time": 1741493840,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 212120,
       "num": 212120,
       "word": "大疆员工回应晚上9点被强制下班",
@@ -1611,12 +1675,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 201991,
+      "num": 201991,
+      "word": "张元英长卷发造型",
+      "onboard_time": 1741578622,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 200682,
       "num": 200682,
       "word": "哪吒",
       "onboard_time": 1741487421,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 200143,
+      "num": 273049,
+      "word": "抵制特斯拉活动计划在多国举行",
+      "onboard_time": 1741576940,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 199853,
@@ -1627,12 +1707,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199819,
-      "num": 199819,
-      "word": "美的被曝强制18点20下班",
-      "onboard_time": 1741577481,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 198380,
+      "num": 255440,
+      "word": "我叫赵出息定档",
+      "onboard_time": 1741577601,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 197583,
@@ -1804,7 +1884,7 @@
     },
     {
       "raw_hot": 187076,
-      "num": 187076,
+      "num": 277176,
       "word": "死亡搁浅2",
       "onboard_time": 1741577481,
       "rank": 30,
@@ -2057,6 +2137,14 @@
       "onboard_time": 1741482261,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160283,
+      "num": 160283,
+      "word": "美的称一直是18点下班",
+      "onboard_time": 1741580242,
+      "rank": 37,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 159974,
@@ -2355,6 +2443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 137293,
+      "num": 275286,
+      "word": "英媒称美国的压制助攻了中国芯片",
+      "onboard_time": 1741577180,
+      "rank": 14,
+      "category": "国际时政,互联网"
+    },
+    {
       "raw_hot": 137255,
       "num": 187417,
       "word": "刘耀文首张EP剧透",
@@ -2427,8 +2523,16 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 131787,
+      "num": 131787,
+      "word": "爱你 杭州宣传片",
+      "onboard_time": 1741580242,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130034,
-      "num": 294392,
+      "num": 1358364,
       "word": "政协会议圆满完成各项议程",
       "onboard_time": 1741571720,
       "rank": 9,
@@ -2481,14 +2585,6 @@
       "onboard_time": 1741497620,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 125960,
-      "num": 125960,
-      "word": "我叫赵出息定档",
-      "onboard_time": 1741577601,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 125487,
@@ -2619,6 +2715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121914,
+      "num": 121914,
+      "word": "AirPods或迎内置摄像头",
+      "onboard_time": 1741577901,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 121732,
       "num": 170850,
       "word": "刘浩存戏外姐姐戏里妈妈",
@@ -2705,6 +2809,14 @@
       "onboard_time": 1741559956,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 118285,
+      "num": 275075,
+      "word": "极氪新旗舰9X登场",
+      "onboard_time": 1741578622,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 117324,
@@ -2995,6 +3107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106585,
+      "num": 223439,
+      "word": "女性求职被问婚育情况可以投诉",
+      "onboard_time": 1741579403,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106532,
       "num": 106532,
       "word": "美乌将在沙特会谈",
@@ -3177,14 +3297,6 @@
       "onboard_time": 1741443442,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 99078,
-      "num": 273049,
-      "word": "抵制特斯拉活动计划在多国举行",
-      "onboard_time": 1741576940,
-      "rank": 34,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 98938,
@@ -3531,6 +3643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 80751,
+      "num": 361527,
+      "word": "郑钦文VS孙璐璐",
+      "onboard_time": 1741579702,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80738,
       "num": 80738,
       "word": "探清水河一响辫儿哥哥回来了",
@@ -3595,6 +3715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 77685,
+      "num": 271872,
+      "word": "终于有哪吒周边不是盲盒了",
+      "onboard_time": 1741576039,
+      "rank": 33,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 77197,
       "num": 96881,
       "word": "吕梁一大桥下散落大量百元钞票",
@@ -3641,14 +3769,6 @@
       "onboard_time": 1741499602,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 71263,
-      "num": 271872,
-      "word": "终于有哪吒周边不是盲盒了",
-      "onboard_time": 1741576039,
-      "rank": 33,
-      "category": "电影,动漫"
     },
     {
       "raw_hot": 70915,
@@ -3715,14 +3835,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 64446,
-      "num": 275286,
-      "word": "英媒称美国的压制助攻了中国芯片",
-      "onboard_time": 1741577180,
-      "rank": 14,
-      "category": "国际时政,互联网"
-    },
-    {
       "raw_hot": 64048,
       "num": 64048,
       "word": "美国暂停向乌克兰提供卫星图像服务",
@@ -3787,6 +3899,22 @@
       "category": "国内时政,体育"
     },
     {
+      "raw_hot": 56070,
+      "num": 138369,
+      "word": "吴宣仪说娱乐圈人心是让人失望的",
+      "onboard_time": 1741580543,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 51780,
+      "num": 391412,
+      "word": "2025全国两会热点",
+      "onboard_time": 1741579403,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51731,
       "num": 401165,
       "word": "机器人小航与航天员一同完成实验",
@@ -3824,6 +3952,14 @@
       "word": "柬埔寨警方突袭电诈园区",
       "onboard_time": 1741446922,
       "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 44819,
+      "num": 358225,
+      "word": "韩战机误炸事故调查进展",
+      "onboard_time": 1741579582,
+      "rank": 14,
       "category": "国际时政"
     },
     {
@@ -3984,6 +4120,14 @@
       "word": "强化技能导向的薪酬分配制度",
       "onboard_time": 1741538119,
       "rank": 37,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 29634,
+      "num": 221801,
+      "word": "人大代表建议立法加强虚拟号码监管",
+      "onboard_time": 1741580364,
+      "rank": 30,
       "category": "国内时政"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1741580594265,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1972548,
+        "num": 1972548,
+        "word": "美的被曝强制18点20下班",
+        "onboard_time": 1741577481,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1962100,
+        "num": 1962100,
+        "word": "温以凡 许沁",
+        "onboard_time": 1741576821,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59770,
+        "num": 1358364,
+        "word": "政协会议圆满完成各项议程",
+        "onboard_time": 1741571720,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1268941,
+        "num": 1268941,
+        "word": "刘晓艳 两分二十秒战绩可查",
+        "onboard_time": 1741575741,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1001794,
+        "num": 1001794,
+        "word": "奔跑吧13阵容有新变动",
+        "onboard_time": 1741575621,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 428166,
+        "num": 576107,
+        "word": "周思成称将起诉文都教育",
+        "onboard_time": 1741574779,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 567970,
+        "num": 567970,
+        "word": "王一博生图",
+        "onboard_time": 1741578503,
+        "rank": 6,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 505781,
+        "num": 505781,
+        "word": "何炅在1999年写的一篇文章",
+        "onboard_time": 1741578381,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414500,
+        "num": 414500,
+        "word": "湖南要求不得询问女性求职者婚育情况",
+        "onboard_time": 1741572798,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51780,
+        "num": 391412,
+        "word": "2025全国两会热点",
+        "onboard_time": 1741579403,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 623240,
+        "num": 390873,
+        "word": "吉赛尔 老天保佑金山银山全都有",
+        "onboard_time": 1741576821,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388361,
+        "num": 388361,
+        "word": "难哄",
+        "onboard_time": 1741579643,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 374631,
+        "num": 374631,
+        "word": "国际乒联公布徐克与女运动员聊天记录",
+        "onboard_time": 1741568960,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80751,
+        "num": 361527,
+        "word": "郑钦文VS孙璐璐",
+        "onboard_time": 1741579702,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44819,
+        "num": 358225,
+        "word": "韩战机误炸事故调查进展",
+        "onboard_time": 1741579582,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 356296,
+        "num": 356296,
+        "word": "胡烨韬一顺排名第一",
+        "onboard_time": 1741574900,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356103,
+        "num": 356103,
+        "word": "淳茶舍官宣迪丽热巴",
+        "onboard_time": 1741576400,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 316013,
+        "num": 316013,
+        "word": "华为离职天才少年官宣刷屏",
+        "onboard_time": 1741565481,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 284634,
+        "num": 284634,
+        "word": "iPhone17系列新机模上手",
+        "onboard_time": 1741579821,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 283264,
+        "num": 283264,
+        "word": "偶遇宋茜周冬雨逛街",
+        "onboard_time": 1741576880,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 823931,
+        "num": 283067,
+        "word": "拒绝复旦学生好爽",
+        "onboard_time": 1741575921,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 423219,
+        "num": 281826,
+        "word": "蹲便冲水细菌是坐便的2倍",
+        "onboard_time": 1741578442,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 270452,
+        "num": 279292,
+        "word": "我的差评女友定档",
+        "onboard_time": 1741578744,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 317940,
+        "num": 278206,
+        "word": "海尔集团连夜更新老总表情包",
+        "onboard_time": 1741571179,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143097,
+        "num": 277176,
+        "word": "死亡搁浅2",
+        "onboard_time": 1741577481,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118285,
+        "num": 275075,
+        "word": "极氪新旗舰9X登场",
+        "onboard_time": 1741578622,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 274634,
+        "num": 274634,
+        "word": "闪耀暖暖",
+        "onboard_time": 1741579942,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198380,
+        "num": 255440,
+        "word": "我叫赵出息定档",
+        "onboard_time": 1741577601,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236269,
+        "num": 236269,
+        "word": "王源春日樱花王子",
+        "onboard_time": 1741579340,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 106585,
+        "num": 223439,
+        "word": "女性求职被问婚育情况可以投诉",
+        "onboard_time": 1741579403,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29634,
+        "num": 221801,
+        "word": "人大代表建议立法加强虚拟号码监管",
+        "onboard_time": 1741580364,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 221800,
+        "num": 221800,
+        "word": "戒掉晚饭减肥后再吃可能会反弹",
+        "onboard_time": 1741567881,
+        "rank": 31,
+        "category": "健康医疗,运动健身"
+      },
+      {
+        "raw_hot": 201991,
+        "num": 201991,
+        "word": "张元英长卷发造型",
+        "onboard_time": 1741578622,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200143,
+        "num": 200143,
+        "word": "抵制特斯拉活动计划在多国举行",
+        "onboard_time": 1741576940,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 173186,
+        "num": 173186,
+        "word": "政协会议闭幕",
+        "onboard_time": 1741571359,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 172475,
+        "num": 172475,
+        "word": "咸鱼飞升 陈都灵",
+        "onboard_time": 1741562418,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171502,
+        "num": 171502,
+        "word": "中国新能源车硬控不差油的中东人",
+        "onboard_time": 1741574839,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 160283,
+        "num": 160283,
+        "word": "美的称一直是18点下班",
+        "onboard_time": 1741580242,
+        "rank": 37,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 141717,
+        "num": 141717,
+        "word": "难哄28集杀疯了",
+        "onboard_time": 1741537161,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141559,
+        "num": 141559,
+        "word": "建议育儿补贴考虑不同地区收入水平",
+        "onboard_time": 1741573519,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139966,
+        "num": 139966,
+        "word": "苦等丈夫80余年的老人去世",
+        "onboard_time": 1741570760,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56070,
+        "num": 138369,
+        "word": "吴宣仪说娱乐圈人心是让人失望的",
+        "onboard_time": 1741580543,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137409,
+        "num": 137409,
+        "word": "杨幂连续四年为刘诗诗庆生",
+        "onboard_time": 1741563260,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77685,
+        "num": 137308,
+        "word": "终于有哪吒周边不是盲盒了",
+        "onboard_time": 1741576039,
+        "rank": 43,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 137293,
+        "num": 137293,
+        "word": "英媒称美国的压制助攻了中国芯片",
+        "onboard_time": 1741577180,
+        "rank": 44,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 136506,
+        "num": 136506,
+        "word": "谁为周深演唱会的保安大哥发声",
+        "onboard_time": 1741574779,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131787,
+        "num": 131787,
+        "word": "爱你 杭州宣传片",
+        "onboard_time": 1741580242,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129812,
+        "num": 129812,
+        "word": "马斯克发现美政府数千亿美元假合同",
+        "onboard_time": 1741562297,
+        "rank": 47,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 121914,
+        "num": 121914,
+        "word": "AirPods或迎内置摄像头",
+        "onboard_time": 1741577901,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 118413,
+        "num": 118413,
+        "word": "原神预言",
+        "onboard_time": 1741573820,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平两会上的这些论述值得深读#"
+    }
+  }
+}
