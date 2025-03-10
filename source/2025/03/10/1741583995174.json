@@ -1,0 +1,410 @@
+{
+  "runTime": 1741583995174,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 678501,
+        "num": 1108560,
+        "word": "iPhone17系列新机模上手",
+        "onboard_time": 1741579821,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1109423,
+        "num": 895136,
+        "word": "难哄大结局",
+        "onboard_time": 1741581683,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53667,
+        "num": 749280,
+        "word": "政协会议圆满完成各项议程",
+        "onboard_time": 1741571720,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 638418,
+        "num": 638418,
+        "word": "奔跑吧13阵容有新变动",
+        "onboard_time": 1741575621,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266977,
+        "num": 626335,
+        "word": "湖南要求不得询问女性求职者婚育情况",
+        "onboard_time": 1741572798,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1223753,
+        "num": 607679,
+        "word": "美的被曝强制18点20下班",
+        "onboard_time": 1741577481,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 410832,
+        "num": 592364,
+        "word": "何炅在1999年写的一篇文章",
+        "onboard_time": 1741578381,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319774,
+        "num": 588261,
+        "word": "白鹿回应菠萝树下站谁都美",
+        "onboard_time": 1741580663,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 253714,
+        "num": 558805,
+        "word": "华为离职天才少年官宣刷屏",
+        "onboard_time": 1741565481,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 225028,
+        "num": 545124,
+        "word": "建议直播打赏建立消费冷静期",
+        "onboard_time": 1741582762,
+        "rank": 9,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 1160658,
+        "num": 534741,
+        "word": "吴宣仪说娱乐圈人心是让人失望的",
+        "onboard_time": 1741580543,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 870889,
+        "num": 520411,
+        "word": "刘晓艳 两分二十秒战绩可查",
+        "onboard_time": 1741575741,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 508885,
+        "num": 508885,
+        "word": "当赵丽颖粉丝成了00后公司的老板",
+        "onboard_time": 1741581323,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430789,
+        "num": 430789,
+        "word": "王一博生图",
+        "onboard_time": 1741578503,
+        "rank": 13,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 387897,
+        "num": 387897,
+        "word": "吉赛尔 老天保佑金山银山全都有",
+        "onboard_time": 1741576821,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380459,
+        "num": 380459,
+        "word": "徐克称进房间是女运动员主动邀请",
+        "onboard_time": 1741581983,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 342413,
+        "num": 342413,
+        "word": "国际乒联公布徐克与女运动员聊天记录",
+        "onboard_time": 1741568960,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 332651,
+        "num": 332651,
+        "word": "伦纳德绝杀",
+        "onboard_time": 1741582823,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184453,
+        "num": 184453,
+        "word": "滤镜",
+        "onboard_time": 1741581563,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340127,
+        "num": 184428,
+        "word": "蕾哈娜晒产子照",
+        "onboard_time": 1741580724,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1005512,
+        "num": 184419,
+        "word": "温以凡 许沁",
+        "onboard_time": 1741576821,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 744244,
+        "num": 184379,
+        "word": "00后用DeepSeek1天卖出3.3亿",
+        "onboard_time": 1741581743,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 194439,
+        "num": 184360,
+        "word": "海尔集团连夜更新老总表情包",
+        "onboard_time": 1741571179,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 510136,
+        "num": 184336,
+        "word": "拒绝复旦学生好爽",
+        "onboard_time": 1741575921,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162908,
+        "num": 184307,
+        "word": "以后每年春天都会想到爱你",
+        "onboard_time": 1741583002,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111033,
+        "num": 184283,
+        "word": "地图显示库尔斯克乌军几乎被全包",
+        "onboard_time": 1741582343,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 43942,
+        "num": 184255,
+        "word": "教练徐克称进出房间全程不到1分钟",
+        "onboard_time": 1741571240,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 397457,
+        "num": 184232,
+        "word": "以为在节省其实是在养癌的行为",
+        "onboard_time": 1741582943,
+        "rank": 27,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 398271,
+        "num": 184213,
+        "word": "女孩发现司机头像吓人主动帮重拍",
+        "onboard_time": 1741582882,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90111,
+        "num": 184172,
+        "word": "极氪新旗舰9X登场",
+        "onboard_time": 1741578622,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 173018,
+        "num": 184156,
+        "word": "车兴德 没有港澳通行证",
+        "onboard_time": 1741581804,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151825,
+        "num": 184123,
+        "word": "伦纳德绝杀国王",
+        "onboard_time": 1741582882,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177981,
+        "num": 184109,
+        "word": "宣璐发文为刘诗诗庆生",
+        "onboard_time": 1741581743,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287363,
+        "num": 184081,
+        "word": "蹲便冲水细菌是坐便的2倍",
+        "onboard_time": 1741578442,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 184068,
+        "num": 184068,
+        "word": "张元英爱心刘海",
+        "onboard_time": 1741580901,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110322,
+        "num": 183168,
+        "word": "黄河保护法普法宣传员虞书欣",
+        "onboard_time": 1741583002,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182988,
+        "num": 182988,
+        "word": "淳茶舍官宣迪丽热巴",
+        "onboard_time": 1741576400,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167982,
+        "num": 167982,
+        "word": "周思成称将起诉文都教育",
+        "onboard_time": 1741574779,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 156931,
+        "num": 156931,
+        "word": "郑钦文VS孙璐璐",
+        "onboard_time": 1741579702,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35169,
+        "num": 153650,
+        "word": "韩国男双发球",
+        "onboard_time": 1741581445,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153612,
+        "num": 153612,
+        "word": "衢州再通报男子虐猫致死",
+        "onboard_time": 1741581563,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148946,
+        "num": 148946,
+        "word": "胡烨韬一顺排名第一",
+        "onboard_time": 1741574900,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121877,
+        "num": 148001,
+        "word": "周深天籁嗓音征服北美观众",
+        "onboard_time": 1741582703,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 147935,
+        "num": 147935,
+        "word": "难哄",
+        "onboard_time": 1741579643,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131847,
+        "num": 131847,
+        "word": "八旬老人一次被拔9颗牙进ICU",
+        "onboard_time": 1741579223,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129932,
+        "num": 129932,
+        "word": "叙利亚",
+        "onboard_time": 1741583722,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123263,
+        "num": 123263,
+        "word": "咸鱼飞升 陈都灵",
+        "onboard_time": 1741562418,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120278,
+        "num": 120278,
+        "word": "黄誉博从79人到万人用了365天",
+        "onboard_time": 1741581865,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 117267,
+        "num": 117267,
+        "word": "时代少年团这是我的西游录制路透",
+        "onboard_time": 1741582403,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115913,
+        "num": 115913,
+        "word": "控KONG海底剪影",
+        "onboard_time": 1741582882,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平两会上的这些论述值得深读#"
+    }
+  }
+}
