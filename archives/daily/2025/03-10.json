@@ -1,6 +1,6 @@
 {
   "startTime": 1741537363234,
-  "endTime": 1741588801048,
+  "endTime": 1741591252560,
   "band_list": [
     {
       "raw_hot": 2228194,
@@ -83,6 +83,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1091348,
+      "num": 1174615,
+      "word": "00后用DeepSeek1天卖出3.3亿",
+      "onboard_time": 1741581743,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 946949,
       "num": 1145744,
       "word": "国际乒联公布徐克与女运动员聊天记录",
@@ -129,14 +137,6 @@
       "onboard_time": 1741579821,
       "rank": 18,
       "category": "数码"
-    },
-    {
-      "raw_hot": 753409,
-      "num": 208291,
-      "word": "00后用DeepSeek1天卖出3.3亿",
-      "onboard_time": 1741581743,
-      "rank": 21,
-      "category": "互联网"
     },
     {
       "raw_hot": 752888,
@@ -291,6 +291,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 487010,
+      "num": 288637,
+      "word": "一旦穿过这四种鞋你的人生就定型了",
+      "onboard_time": 1741585521,
+      "rank": 14,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 481976,
       "num": 281826,
       "word": "蹲便冲水细菌是坐便的2倍",
@@ -356,7 +364,7 @@
     },
     {
       "raw_hot": 398271,
-      "num": 184213,
+      "num": 240357,
       "word": "女孩发现司机头像吓人主动帮重拍",
       "onboard_time": 1741582882,
       "rank": 28,
@@ -369,6 +377,14 @@
       "onboard_time": 1741582943,
       "rank": 27,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 395489,
+      "num": 244554,
+      "word": "景甜的心愿是结婚",
+      "onboard_time": 1741590380,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 393659,
@@ -481,14 +497,6 @@
       "onboard_time": 1741532302,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 321388,
-      "num": 288637,
-      "word": "一旦穿过这四种鞋你的人生就定型了",
-      "onboard_time": 1741585521,
-      "rank": 14,
-      "category": "时尚"
     },
     {
       "raw_hot": 319774,
@@ -619,6 +627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 268659,
+      "num": 242831,
+      "word": "蓝盈莹潜水好长的腿",
+      "onboard_time": 1741585700,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 262038,
       "num": 262038,
       "word": "一觉醒来中国航天又有成功发射了",
@@ -633,6 +649,14 @@
       "onboard_time": 1741536501,
       "rank": 41,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 249689,
+      "num": 240781,
+      "word": "不健康的亲密关系要尽早远离",
+      "onboard_time": 1741590200,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 242219,
@@ -859,20 +883,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177613,
+      "num": 177613,
+      "word": "爱你 民政局暗广",
+      "onboard_time": 1741588460,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176626,
       "num": 184255,
       "word": "教练徐克称进出房间全程不到1分钟",
       "onboard_time": 1741571240,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 176581,
-      "num": 176581,
-      "word": "蓝盈莹潜水好长的腿",
-      "onboard_time": 1741585700,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 173933,
@@ -900,7 +924,7 @@
     },
     {
       "raw_hot": 172176,
-      "num": 172176,
+      "num": 174280,
       "word": "代露娃 咸鱼飞升",
       "onboard_time": 1741584260,
       "rank": 46,
@@ -961,6 +985,14 @@
       "onboard_time": 1741520421,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155430,
+      "num": 155430,
+      "word": "张文宏说采访他的记者肚子太大",
+      "onboard_time": 1741589900,
+      "rank": 33,
+      "category": "国内时政,健康医疗"
     },
     {
       "raw_hot": 154891,
@@ -1099,12 +1131,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 128646,
+      "num": 175160,
+      "word": "郑钦文连续实现复仇",
+      "onboard_time": 1741588821,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128583,
       "num": 160782,
       "word": "张杰四月鸟巢见",
       "onboard_time": 1741587981,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 124138,
+      "num": 124138,
+      "word": "刘嘉玲梁朝伟雪山合照",
+      "onboard_time": 1741589600,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 124136,
@@ -1129,14 +1177,6 @@
       "onboard_time": 1741588521,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 122566,
-      "num": 122566,
-      "word": "爱你 民政局暗广",
-      "onboard_time": 1741588460,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 121914,
@@ -1169,6 +1209,14 @@
       "onboard_time": 1741573820,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118808,
+      "num": 118808,
+      "word": "难哄芭蕾舞裙吻戏",
+      "onboard_time": 1741589000,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 118590,
@@ -1220,7 +1268,7 @@
     },
     {
       "raw_hot": 115913,
-      "num": 115913,
+      "num": 171507,
       "word": "控KONG海底剪影",
       "onboard_time": 1741582882,
       "rank": 49,
@@ -1275,6 +1323,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 108190,
+      "num": 108190,
+      "word": "刘国梁说国乒身后有不少潜力股",
+      "onboard_time": 1741590320,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107445,
       "num": 120457,
       "word": "张真源素颜拍立得",
@@ -1323,6 +1379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100596,
+      "num": 100596,
+      "word": "小狗玩具球挡路男子暖心停车帮捡球",
+      "onboard_time": 1741590799,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99653,
       "num": 99653,
       "word": "王楚钦重庆冠军赛训练",
@@ -1347,6 +1411,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 95663,
+      "num": 95663,
+      "word": "苹果M4Ultra芯片恐将永远缺席",
+      "onboard_time": 1741590620,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 95538,
       "num": 95538,
       "word": "两会时间",
@@ -1369,6 +1441,30 @@
       "onboard_time": 1741495041,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93646,
+      "num": 93646,
+      "word": "李健抢票",
+      "onboard_time": 1741591101,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 92805,
+      "num": 92805,
+      "word": "台湾姑娘成杭州农村青年致富带头人",
+      "onboard_time": 1741588580,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 90552,
+      "num": 135633,
+      "word": "泰国连环恐袭监控曝光",
+      "onboard_time": 1741589421,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 89171,
@@ -1427,6 +1523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85854,
+      "num": 85854,
+      "word": "Creme谈Kanavi和Tian的区别",
+      "onboard_time": 1741591160,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 85341,
       "num": 120724,
       "word": "张凌赫 无框眼镜",
@@ -1457,6 +1561,14 @@
       "onboard_time": 1741571119,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80403,
+      "num": 189118,
+      "word": "原神月之篇",
+      "onboard_time": 1741589121,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 77685,
@@ -1603,6 +1715,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 49137,
+      "num": 242144,
+      "word": "郑钦文回应选世界第一还是大满贯",
+      "onboard_time": 1741590980,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48710,
       "num": 48710,
       "word": "何苏叶穿着奶牛拖鞋一路把人亲进卧室",
@@ -1616,6 +1736,14 @@
       "word": "赵又廷因何入职神秘公司",
       "onboard_time": 1741586661,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 41928,
+      "num": 241364,
+      "word": "黄子弘凡直播",
+      "onboard_time": 1741590380,
+      "rank": 19,
       "category": "艺人"
     },
     {

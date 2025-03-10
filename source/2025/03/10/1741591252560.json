@@ -1,0 +1,410 @@
+{
+  "runTime": 1741591252560,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1091348,
+        "num": 1174615,
+        "word": "00后用DeepSeek1天卖出3.3亿",
+        "onboard_time": 1741581743,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 944033,
+        "num": 944033,
+        "word": "减肥4年后绝大多数人恢复之前体重",
+        "onboard_time": 1741584921,
+        "rank": 1,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 36936,
+        "num": 728002,
+        "word": "政协会议圆满完成各项议程",
+        "onboard_time": 1741571720,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 633652,
+        "num": 633652,
+        "word": "难哄大结局",
+        "onboard_time": 1741581683,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 534469,
+        "num": 534469,
+        "word": "奔跑吧13阵容有新变动",
+        "onboard_time": 1741575621,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 466424,
+        "num": 466424,
+        "word": "郑钦文摔倒流血",
+        "onboard_time": 1741584921,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 436718,
+        "num": 436718,
+        "word": "律师谈大疆强制员工9点下班",
+        "onboard_time": 1741586842,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255507,
+        "num": 255507,
+        "word": "建议直播打赏建立消费冷静期",
+        "onboard_time": 1741582762,
+        "rank": 7,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 246843,
+        "num": 246843,
+        "word": "加拿大候任总理连说三句特朗普",
+        "onboard_time": 1741585761,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 185141,
+        "num": 246470,
+        "word": "何炅在1999年写的一篇文章",
+        "onboard_time": 1741578381,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 641884,
+        "num": 245852,
+        "word": "吴宣仪说娱乐圈人心是让人失望的",
+        "onboard_time": 1741580543,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 487010,
+        "num": 245777,
+        "word": "一旦穿过这四种鞋你的人生就定型了",
+        "onboard_time": 1741585521,
+        "rank": 11,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 477347,
+        "num": 245154,
+        "word": "徐克称进房间是女运动员主动邀请",
+        "onboard_time": 1741581983,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 395489,
+        "num": 244554,
+        "word": "景甜的心愿是结婚",
+        "onboard_time": 1741590380,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339144,
+        "num": 244107,
+        "word": "iPhone17系列新机模上手",
+        "onboard_time": 1741579821,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 377831,
+        "num": 243443,
+        "word": "吴宣仪ins发文原因",
+        "onboard_time": 1741584322,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336290,
+        "num": 243179,
+        "word": "叙利亚",
+        "onboard_time": 1741583722,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 268659,
+        "num": 242831,
+        "word": "蓝盈莹潜水好长的腿",
+        "onboard_time": 1741585700,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 49137,
+        "num": 242144,
+        "word": "郑钦文回应选世界第一还是大满贯",
+        "onboard_time": 1741590980,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41928,
+        "num": 241364,
+        "word": "黄子弘凡直播",
+        "onboard_time": 1741590380,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329357,
+        "num": 241342,
+        "word": "拒绝复旦学生好爽",
+        "onboard_time": 1741575921,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 249689,
+        "num": 240781,
+        "word": "不健康的亲密关系要尽早远离",
+        "onboard_time": 1741590200,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 240357,
+        "num": 240357,
+        "word": "女孩发现司机头像吓人主动帮重拍",
+        "onboard_time": 1741582882,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233940,
+        "num": 233940,
+        "word": "王一博生图",
+        "onboard_time": 1741578503,
+        "rank": 23,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 80403,
+        "num": 189118,
+        "word": "原神月之篇",
+        "onboard_time": 1741589121,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177613,
+        "num": 177613,
+        "word": "爱你 民政局暗广",
+        "onboard_time": 1741588460,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150679,
+        "num": 177527,
+        "word": "湖南要求不得询问女性求职者婚育情况",
+        "onboard_time": 1741572798,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128646,
+        "num": 175160,
+        "word": "郑钦文连续实现复仇",
+        "onboard_time": 1741588821,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122765,
+        "num": 174280,
+        "word": "代露娃 咸鱼飞升",
+        "onboard_time": 1741584260,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85590,
+        "num": 171507,
+        "word": "控KONG海底剪影",
+        "onboard_time": 1741582882,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 223447,
+        "num": 169695,
+        "word": "当赵丽颖粉丝成了00后公司的老板",
+        "onboard_time": 1741581323,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169558,
+        "num": 169558,
+        "word": "温以凡 许沁",
+        "onboard_time": 1741576821,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161349,
+        "num": 161349,
+        "word": "蹲便冲水细菌是坐便的2倍",
+        "onboard_time": 1741578442,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 155430,
+        "num": 155430,
+        "word": "张文宏说采访他的记者肚子太大",
+        "onboard_time": 1741589900,
+        "rank": 33,
+        "category": "国内时政,健康医疗"
+      },
+      {
+        "raw_hot": 90552,
+        "num": 135633,
+        "word": "泰国连环恐袭监控曝光",
+        "onboard_time": 1741589421,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 124138,
+        "num": 124138,
+        "word": "刘嘉玲梁朝伟雪山合照",
+        "onboard_time": 1741589600,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118808,
+        "num": 118808,
+        "word": "难哄芭蕾舞裙吻戏",
+        "onboard_time": 1741589000,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117984,
+        "num": 117984,
+        "word": "吉赛尔 老天保佑金山银山全都有",
+        "onboard_time": 1741576821,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113755,
+        "num": 113755,
+        "word": "以为在节省其实是在养癌的行为",
+        "onboard_time": 1741582943,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 111599,
+        "num": 111599,
+        "word": "八旬老人一次被拔9颗牙进ICU",
+        "onboard_time": 1741579223,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108190,
+        "num": 108190,
+        "word": "刘国梁说国乒身后有不少潜力股",
+        "onboard_time": 1741590320,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104622,
+        "num": 104622,
+        "word": "桑延跟温以凡求婚",
+        "onboard_time": 1741587321,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 7629,
+        "num": 101320,
+        "word": "赵又廷因何入职神秘公司",
+        "onboard_time": 1741586661,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100596,
+        "num": 100596,
+        "word": "小狗玩具球挡路男子暖心停车帮捡球",
+        "onboard_time": 1741590799,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95663,
+        "num": 95663,
+        "word": "苹果M4Ultra芯片恐将永远缺席",
+        "onboard_time": 1741590620,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 93646,
+        "num": 93646,
+        "word": "李健抢票",
+        "onboard_time": 1741591101,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 92805,
+        "num": 92805,
+        "word": "台湾姑娘成杭州农村青年致富带头人",
+        "onboard_time": 1741588580,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 90449,
+        "num": 90449,
+        "word": "白鹿回应菠萝树下站谁都美",
+        "onboard_time": 1741580663,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 88344,
+        "num": 88344,
+        "word": "网传李昀锐将常驻奔跑吧13",
+        "onboard_time": 1741588521,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85854,
+        "num": 85854,
+        "word": "Creme谈Kanavi和Tian的区别",
+        "onboard_time": 1741591160,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平等党和国家领导人出席政协闭幕会#"
+    }
+  }
+}
