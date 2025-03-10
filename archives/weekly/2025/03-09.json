@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741571157827,
+  "endTime": 1741574241258,
   "band_list": [
     {
       "raw_hot": 2815044,
@@ -203,6 +203,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 946949,
+      "num": 1145744,
+      "word": "国际乒联公布徐克与女运动员聊天记录",
+      "onboard_time": 1741568960,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 942946,
       "num": 218427,
       "word": "美宇航员已滞留太空9个月",
@@ -225,14 +233,6 @@
       "onboard_time": 1741495220,
       "rank": 12,
       "category": "艺人,综艺"
-    },
-    {
-      "raw_hot": 910900,
-      "num": 1145744,
-      "word": "国际乒联公布徐克与女运动员聊天记录",
-      "onboard_time": 1741568960,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 900685,
@@ -264,6 +264,14 @@
       "word": "43岁三孩妈拍999套遗照与死神对抗",
       "onboard_time": 1741485321,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 845588,
+      "num": 845588,
+      "word": "湖南要求不得询问女性求职者婚育情况",
+      "onboard_time": 1741572798,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -411,6 +419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 713744,
+      "num": 292728,
+      "word": "苦等丈夫80余年的老人去世",
+      "onboard_time": 1741570760,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 711640,
       "num": 711640,
       "word": "我国人均预期寿命达79岁",
@@ -449,6 +465,14 @@
       "onboard_time": 1741513881,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 684409,
+      "num": 1109505,
+      "word": "戒掉晚饭减肥后再吃可能会反弹",
+      "onboard_time": 1741567881,
+      "rank": 8,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 680196,
@@ -563,20 +587,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 603057,
+      "num": 292191,
+      "word": "代露娃对接",
+      "onboard_time": 1741571660,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 596630,
       "num": 596630,
       "word": "詹姆斯腹股沟拉伤",
       "onboard_time": 1741493421,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 596547,
-      "num": 596547,
-      "word": "戒掉晚饭减肥后再吃可能会反弹",
-      "onboard_time": 1741567881,
-      "rank": 8,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 559234,
@@ -707,6 +731,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 435579,
+      "num": 241974,
+      "word": "海尔集团连夜更新老总表情包",
+      "onboard_time": 1741571179,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 434291,
       "num": 434291,
       "word": "大连地震",
@@ -763,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 404543,
+      "num": 413783,
+      "word": "咸鱼飞升",
+      "onboard_time": 1741570220,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 400853,
       "num": 238770,
       "word": "温以凡香港刷盘子",
@@ -801,6 +841,14 @@
       "onboard_time": 1741563260,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 372713,
+      "num": 338059,
+      "word": "李兰迪也知道檀健次毕生所学吻戏梗",
+      "onboard_time": 1741569920,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 371416,
@@ -923,14 +971,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 338059,
-      "num": 338059,
-      "word": "李兰迪也知道檀健次毕生所学吻戏梗",
-      "onboard_time": 1741569920,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 334597,
       "num": 242373,
       "word": "伊能静都57了还在免检生图",
@@ -1035,6 +1075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 294440,
+      "num": 294440,
+      "word": "省考准考证",
+      "onboard_time": 1741570040,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 294317,
       "num": 294317,
       "word": "你好星期六下期是凡人修仙传",
@@ -1083,6 +1131,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 289763,
+      "num": 1012024,
+      "word": "政协会议闭幕会",
+      "onboard_time": 1741563500,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 288596,
       "num": 288596,
       "word": "将稳步提高养老保险待遇水平",
@@ -1121,14 +1177,6 @@
       "onboard_time": 1741508180,
       "rank": 33,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 274697,
-      "num": 413783,
-      "word": "咸鱼飞升",
-      "onboard_time": 1741570220,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 270962,
@@ -1299,6 +1347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 223562,
+      "num": 223562,
+      "word": "原神预言",
+      "onboard_time": 1741573820,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 223320,
       "num": 223320,
       "word": "PEL",
@@ -1316,7 +1372,7 @@
     },
     {
       "raw_hot": 218693,
-      "num": 218693,
+      "num": 242755,
       "word": "库迪哪吒联名",
       "onboard_time": 1741564279,
       "rank": 18,
@@ -1345,14 +1401,6 @@
       "onboard_time": 1741495401,
       "rank": 28,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 213690,
-      "num": 213690,
-      "word": "省考准考证",
-      "onboard_time": 1741570040,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 213551,
@@ -1401,6 +1449,14 @@
       "onboard_time": 1741449622,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 208113,
+      "num": 208113,
+      "word": "政协会议闭幕",
+      "onboard_time": 1741571359,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 207257,
@@ -1651,12 +1707,28 @@
       "category": "民生新闻,国内时政"
     },
     {
+      "raw_hot": 185128,
+      "num": 185128,
+      "word": "问界新M7限时7万起开回家",
+      "onboard_time": 1741574000,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 183539,
       "num": 190567,
       "word": "白鹿去年拍的长发版夏凤华",
       "onboard_time": 1741510941,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181699,
+      "num": 181699,
+      "word": "李昀锐黄曦彦友谊",
+      "onboard_time": 1741572441,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 180820,
@@ -1697,6 +1769,14 @@
       "onboard_time": 1741508361,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176626,
+      "num": 176626,
+      "word": "教练徐克称进出房间全程不到1分钟",
+      "onboard_time": 1741571240,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 173964,
@@ -1817,14 +1897,6 @@
       "onboard_time": 1741504460,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 162841,
-      "num": 1012024,
-      "word": "政协会议闭幕会",
-      "onboard_time": 1741563500,
-      "rank": 0,
-      "category": "国内时政"
     },
     {
       "raw_hot": 162750,
@@ -2163,14 +2235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 135557,
-      "num": 135557,
-      "word": "苦等丈夫80余年的老人去世",
-      "onboard_time": 1741570760,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 134556,
       "num": 134556,
       "word": "负责人称小米卫生巾真的做不了",
@@ -2216,6 +2280,14 @@
       "word": "两会",
       "onboard_time": 1741565421,
       "rank": 35,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 130034,
+      "num": 294392,
+      "word": "政协会议圆满完成各项议程",
+      "onboard_time": 1741571720,
+      "rank": 9,
       "category": "国内时政"
     },
     {
@@ -2409,6 +2481,14 @@
       "onboard_time": 1741495881,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120175,
+      "num": 120175,
+      "word": "把养老院开进医院让老人有医靠",
+      "onboard_time": 1741573820,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119858,
@@ -3179,6 +3259,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86444,
+      "num": 86444,
+      "word": "孙颖莎王楚钦等出战重庆冠军赛",
+      "onboard_time": 1741573399,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 84430,
+      "num": 291462,
+      "word": "建议育儿补贴考虑不同地区收入水平",
+      "onboard_time": 1741573519,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83463,
       "num": 83463,
       "word": "滤镜加更",
@@ -3929,6 +4025,14 @@
       "onboard_time": 1741467553,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 6690,
+      "num": 242078,
+      "word": "董明珠提议共同守护网络健康环境",
+      "onboard_time": 1741571179,
+      "rank": 19,
+      "category": "民生新闻,互联网"
     }
   ],
   "hotgov_list": [

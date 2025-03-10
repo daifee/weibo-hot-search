@@ -1,0 +1,410 @@
+{
+  "runTime": 1741574241258,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 684409,
+        "num": 1109505,
+        "word": "戒掉晚饭减肥后再吃可能会反弹",
+        "onboard_time": 1741567881,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 845588,
+        "num": 845588,
+        "word": "湖南要求不得询问女性求职者婚育情况",
+        "onboard_time": 1741572798,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40535,
+        "num": 566805,
+        "word": "民生主题记者会热点全解读",
+        "onboard_time": 1741529424,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 422667,
+        "num": 422667,
+        "word": "华为离职天才少年官宣刷屏",
+        "onboard_time": 1741565481,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 404543,
+        "num": 404543,
+        "word": "咸鱼飞升",
+        "onboard_time": 1741570220,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 379753,
+        "num": 379753,
+        "word": "难哄28集杀疯了",
+        "onboard_time": 1741537161,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 329157,
+        "num": 329157,
+        "word": "马斯克发现美政府数千亿美元假合同",
+        "onboard_time": 1741562297,
+        "rank": 6,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 310508,
+        "num": 310508,
+        "word": "美国一飞机坠毁停车场多车起火",
+        "onboard_time": 1741565841,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 294440,
+        "num": 294440,
+        "word": "省考准考证",
+        "onboard_time": 1741570040,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 130034,
+        "num": 294392,
+        "word": "政协会议圆满完成各项议程",
+        "onboard_time": 1741571720,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 946949,
+        "num": 293802,
+        "word": "国际乒联公布徐克与女运动员聊天记录",
+        "onboard_time": 1741568960,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 713744,
+        "num": 292728,
+        "word": "苦等丈夫80余年的老人去世",
+        "onboard_time": 1741570760,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 603057,
+        "num": 292191,
+        "word": "代露娃对接",
+        "onboard_time": 1741571660,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 372713,
+        "num": 291948,
+        "word": "李兰迪也知道檀健次毕生所学吻戏梗",
+        "onboard_time": 1741569920,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84430,
+        "num": 291462,
+        "word": "建议育儿补贴考虑不同地区收入水平",
+        "onboard_time": 1741573519,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 455059,
+        "num": 290887,
+        "word": "咸鱼飞升 陈都灵",
+        "onboard_time": 1741562418,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 344514,
+        "num": 289765,
+        "word": "杨幂连续四年为刘诗诗庆生",
+        "onboard_time": 1741563260,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289763,
+        "num": 289763,
+        "word": "政协会议闭幕会",
+        "onboard_time": 1741563500,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 212637,
+        "num": 242755,
+        "word": "库迪哪吒联名",
+        "onboard_time": 1741564279,
+        "rank": 18,
+        "category": "电影,美食"
+      },
+      {
+        "raw_hot": 6690,
+        "num": 242078,
+        "word": "董明珠提议共同守护网络健康环境",
+        "onboard_time": 1741571179,
+        "rank": 19,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 435579,
+        "num": 241974,
+        "word": "海尔集团连夜更新老总表情包",
+        "onboard_time": 1741571179,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241748,
+        "num": 241748,
+        "word": "女子工资4600每日花销近百元通勤上班",
+        "onboard_time": 1741529724,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223562,
+        "num": 223562,
+        "word": "原神预言",
+        "onboard_time": 1741573820,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 210008,
+        "num": 210008,
+        "word": "华晨宇3秒跳下故障升降台",
+        "onboard_time": 1741532065,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 208113,
+        "num": 208113,
+        "word": "政协会议闭幕",
+        "onboard_time": 1741571359,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 190774,
+        "num": 190774,
+        "word": "海尔老总回应撞脸结界兽",
+        "onboard_time": 1741543936,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 185128,
+        "num": 185128,
+        "word": "问界新M7限时7万起开回家",
+        "onboard_time": 1741574000,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 181699,
+        "num": 181699,
+        "word": "李昀锐黄曦彦友谊",
+        "onboard_time": 1741572441,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114368,
+        "num": 178740,
+        "word": "锦瑟无端五十弦到底多少根弦",
+        "onboard_time": 1741563861,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92263,
+        "num": 176884,
+        "word": "哪吒",
+        "onboard_time": 1741570220,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176626,
+        "num": 176626,
+        "word": "教练徐克称进出房间全程不到1分钟",
+        "onboard_time": 1741571240,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174411,
+        "num": 174411,
+        "word": "张远不谈恋爱的原因",
+        "onboard_time": 1741532302,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 166987,
+        "num": 166987,
+        "word": "美宇航员已滞留太空9个月",
+        "onboard_time": 1741541237,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 166814,
+        "num": 166814,
+        "word": "以色列宣布切断加沙供电",
+        "onboard_time": 1741565481,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 162350,
+        "num": 162350,
+        "word": "泰国发生连环恐袭",
+        "onboard_time": 1741522041,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144639,
+        "num": 144639,
+        "word": "戒掉熬夜强制早睡的小tips",
+        "onboard_time": 1741533382,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143458,
+        "num": 143458,
+        "word": "哪吒2冲上全球第6",
+        "onboard_time": 1741509981,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137428,
+        "num": 137428,
+        "word": "手机尾号77777777拍出254.4万元",
+        "onboard_time": 1741517063,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135973,
+        "num": 135973,
+        "word": "一觉醒来中国航天又有成功发射了",
+        "onboard_time": 1741565481,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 135075,
+        "num": 135075,
+        "word": "周翊然素颜直播",
+        "onboard_time": 1741537280,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122403,
+        "num": 122403,
+        "word": "建议农民基础养老金提高到600",
+        "onboard_time": 1741563439,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120175,
+        "num": 120175,
+        "word": "把养老院开进医院让老人有医靠",
+        "onboard_time": 1741573820,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116205,
+        "num": 116205,
+        "word": "美国一架载5人飞机坠毁",
+        "onboard_time": 1741565360,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 106336,
+        "num": 106336,
+        "word": "睡觉前最好不要玩手机",
+        "onboard_time": 1741532065,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 106268,
+        "num": 106268,
+        "word": "乒乓球教练徐克声明",
+        "onboard_time": 1741532065,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90120,
+        "num": 90120,
+        "word": "老板送菜后得知顾客刚救了自己儿子",
+        "onboard_time": 1741524563,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87652,
+        "num": 87652,
+        "word": "外媒披露美乌矿产协议难签内幕",
+        "onboard_time": 1741562599,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 86799,
+        "num": 86799,
+        "word": "第3场委员通道",
+        "onboard_time": 1741560917,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 86719,
+        "num": 86719,
+        "word": "王一博假发",
+        "onboard_time": 1741522881,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 86444,
+        "num": 86444,
+        "word": "孙颖莎王楚钦等出战重庆冠军赛",
+        "onboard_time": 1741573399,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#教育不能把最基本的丢掉#"
+    }
+  }
+}
