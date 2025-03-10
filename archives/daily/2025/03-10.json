@@ -1,6 +1,6 @@
 {
   "startTime": 1741537363234,
-  "endTime": 1741583995174,
+  "endTime": 1741584938252,
   "band_list": [
     {
       "raw_hot": 2228194,
@@ -115,6 +115,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 840455,
+      "num": 1134472,
+      "word": "iPhone17系列新机模上手",
+      "onboard_time": 1741579821,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 753409,
+      "num": 208291,
+      "word": "00后用DeepSeek1天卖出3.3亿",
+      "onboard_time": 1741581743,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 752888,
       "num": 299361,
       "word": "苦等丈夫80余年的老人去世",
@@ -129,14 +145,6 @@
       "onboard_time": 1741529843,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 744244,
-      "num": 184379,
-      "word": "00后用DeepSeek1天卖出3.3亿",
-      "onboard_time": 1741581743,
-      "rank": 21,
-      "category": "互联网"
     },
     {
       "raw_hot": 701928,
@@ -161,14 +169,6 @@
       "onboard_time": 1741567881,
       "rank": 8,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 678501,
-      "num": 1108560,
-      "word": "iPhone17系列新机模上手",
-      "onboard_time": 1741579821,
-      "rank": 18,
-      "category": "数码"
     },
     {
       "raw_hot": 632114,
@@ -217,6 +217,14 @@
       "onboard_time": 1741562297,
       "rank": 30,
       "category": "国际时政,互联网"
+    },
+    {
+      "raw_hot": 523647,
+      "num": 380459,
+      "word": "徐克称进房间是女运动员主动邀请",
+      "onboard_time": 1741581983,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 523625,
@@ -316,7 +324,7 @@
     },
     {
       "raw_hot": 397457,
-      "num": 184232,
+      "num": 188670,
       "word": "以为在节省其实是在养癌的行为",
       "onboard_time": 1741582943,
       "rank": 27,
@@ -339,20 +347,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 380459,
-      "num": 380459,
-      "word": "徐克称进房间是女运动员主动邀请",
-      "onboard_time": 1741581983,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 374646,
       "num": 338059,
       "word": "李兰迪也知道檀健次毕生所学吻戏梗",
       "onboard_time": 1741569920,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 369659,
+      "num": 247534,
+      "word": "叙利亚",
+      "onboard_time": 1741583722,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 363008,
+      "num": 545124,
+      "word": "建议直播打赏建立消费冷静期",
+      "onboard_time": 1741582762,
+      "rank": 9,
+      "category": "国内时政,互联网"
     },
     {
       "raw_hot": 356252,
@@ -547,6 +563,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 273122,
+      "num": 242113,
+      "word": "吴宣仪ins发文原因",
+      "onboard_time": 1741584322,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 270452,
       "num": 279292,
       "word": "我的差评女友定档",
@@ -625,14 +649,6 @@
       "onboard_time": 1741521563,
       "rank": 9,
       "category": "电影"
-    },
-    {
-      "raw_hot": 225028,
-      "num": 545124,
-      "word": "建议直播打赏建立消费冷静期",
-      "onboard_time": 1741582762,
-      "rank": 9,
-      "category": "国内时政,互联网"
     },
     {
       "raw_hot": 219085,
@@ -835,6 +851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167367,
+      "num": 155643,
+      "word": "周深天籁嗓音征服北美观众",
+      "onboard_time": 1741582703,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 162908,
       "num": 184307,
       "word": "以后每年春天都会想到爱你",
@@ -923,6 +947,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 141433,
+      "num": 141433,
+      "word": "甜茶刮胡子了",
+      "onboard_time": 1741584021,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137293,
       "num": 275286,
       "word": "英媒称美国的压制助攻了中国芯片",
@@ -963,14 +995,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 129932,
-      "num": 129932,
-      "word": "叙利亚",
-      "onboard_time": 1741583722,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 129737,
       "num": 129737,
       "word": "细谷佳正结婚",
@@ -1003,12 +1027,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 121877,
-      "num": 148001,
-      "word": "周深天籁嗓音征服北美观众",
-      "onboard_time": 1741582703,
-      "rank": 42,
+      "raw_hot": 121525,
+      "num": 142519,
+      "word": "周深魔术演都不演了",
+      "onboard_time": 1741584560,
+      "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 120882,
+      "num": 120882,
+      "word": "代露娃 咸鱼飞升",
+      "onboard_time": 1741584260,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 120278,
@@ -1291,6 +1323,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 77464,
+      "num": 130304,
+      "word": "减肥4年后绝大多数人恢复之前体重",
+      "onboard_time": 1741584921,
+      "rank": 42,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 73757,
       "num": 120105,
       "word": "我国医院开始设立体重门诊",
@@ -1363,12 +1403,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 63068,
+      "num": 152777,
+      "word": "政协委员提醒看电影禁止录音录像",
+      "onboard_time": 1741582161,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 62350,
       "num": 88863,
       "word": "董明珠再回应格力专卖店改名",
       "onboard_time": 1741533683,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 58812,
+      "num": 120795,
+      "word": "尹烨预测夸克将成为全能型Agent",
+      "onboard_time": 1741584861,
+      "rank": 47,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 57356,
@@ -1433,6 +1489,14 @@
       "onboard_time": 1741532065,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 37433,
+      "num": 124078,
+      "word": "港股机器人概念股多数走强",
+      "onboard_time": 1741584921,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 36587,
@@ -1561,6 +1625,14 @@
       "onboard_time": 1741577721,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7514,
+      "num": 149339,
+      "word": "郑钦文摔倒流血",
+      "onboard_time": 1741584921,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 6871,
