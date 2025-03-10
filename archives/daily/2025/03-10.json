@@ -1,6 +1,6 @@
 {
   "startTime": 1741537363234,
-  "endTime": 1741611714082,
+  "endTime": 1741613538409,
   "band_list": [
     {
       "raw_hot": 2228194,
@@ -211,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 902978,
+      "num": 319451,
+      "word": "金秀贤向金赛纶要回7亿韩元",
+      "onboard_time": 1741611328,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 900685,
       "num": 366366,
       "word": "咸鱼飞升 陈都灵",
@@ -241,14 +249,6 @@
       "onboard_time": 1741579821,
       "rank": 18,
       "category": "数码"
-    },
-    {
-      "raw_hot": 818273,
-      "num": 311677,
-      "word": "金秀贤向金赛纶要回7亿韩元",
-      "onboard_time": 1741611328,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 813716,
@@ -371,6 +371,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 612392,
+      "num": 612392,
+      "word": "国家版减肥指南来了",
+      "onboard_time": 1741604126,
+      "rank": 49,
+      "category": "民生新闻,运动健身"
+    },
+    {
       "raw_hot": 610123,
       "num": 358061,
       "word": "恶作剧之吻裕树都结婚了",
@@ -459,14 +467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 515779,
-      "num": 515779,
-      "word": "国家版减肥指南来了",
-      "onboard_time": 1741604126,
-      "rank": 49,
-      "category": "民生新闻,运动健身"
-    },
-    {
       "raw_hot": 512042,
       "num": 1022272,
       "word": "滤镜停更",
@@ -523,6 +523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 466662,
+      "num": 228131,
+      "word": "刘诗诗回复杨幂生日祝福",
+      "onboard_time": 1741611684,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 461290,
       "num": 241748,
       "word": "女子工资4600每日花销近百元通勤上班",
@@ -553,6 +561,14 @@
       "onboard_time": 1741589900,
       "rank": 33,
       "category": "国内时政,健康医疗"
+    },
+    {
+      "raw_hot": 430462,
+      "num": 430462,
+      "word": "胡歌谈女儿涂鸦玻璃窗满眼宠溺",
+      "onboard_time": 1741610485,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 428166,
@@ -609,14 +625,6 @@
       "onboard_time": 1741529903,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 393286,
-      "num": 330893,
-      "word": "胡歌谈女儿涂鸦玻璃窗满眼宠溺",
-      "onboard_time": 1741610485,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 384169,
@@ -732,7 +740,7 @@
     },
     {
       "raw_hot": 332844,
-      "num": 332844,
+      "num": 363434,
       "word": "零跑价格",
       "onboard_time": 1741608445,
       "rank": 4,
@@ -763,20 +771,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 328472,
+      "num": 328472,
+      "word": "为何选择张艺兴出演敦煌话剧",
+      "onboard_time": 1741608026,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 327646,
       "num": 286836,
       "word": "张远不谈恋爱的原因",
       "onboard_time": 1741532302,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 327344,
-      "num": 327344,
-      "word": "为何选择张艺兴出演敦煌话剧",
-      "onboard_time": 1741608026,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 327130,
@@ -833,6 +841,14 @@
       "onboard_time": 1741536201,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 298685,
+      "num": 298685,
+      "word": "71岁赵雅芝66岁陈美琪同框",
+      "onboard_time": 1741611566,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 297529,
@@ -945,6 +961,14 @@
       "onboard_time": 1741588460,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 265107,
+      "num": 223954,
+      "word": "周杰伦背着女儿牵着儿子",
+      "onboard_time": 1741611746,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 262038,
@@ -1068,7 +1092,7 @@
     },
     {
       "raw_hot": 224605,
-      "num": 174348,
+      "num": 192294,
       "word": "田志希账号名后缀备孕ing",
       "onboard_time": 1741610668,
       "rank": 43,
@@ -1108,7 +1132,7 @@
     },
     {
       "raw_hot": 208693,
-      "num": 318011,
+      "num": 326351,
       "word": "HLE战胜TES",
       "onboard_time": 1741610906,
       "rank": 12,
@@ -1283,6 +1307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 187051,
+      "num": 187051,
+      "word": "迪丽热巴早期微博精神状态演我",
+      "onboard_time": 1741612645,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184453,
       "num": 184453,
       "word": "滤镜",
@@ -1353,6 +1385,14 @@
       "onboard_time": 1741571240,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174585,
+      "num": 227193,
+      "word": "日本女星岸本梓离世",
+      "onboard_time": 1741611328,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 173933,
@@ -1699,6 +1739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136549,
+      "num": 226240,
+      "word": "15万内能买到的顶配车型",
+      "onboard_time": 1741611505,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 135708,
       "num": 135708,
       "word": "约基奇遍体鳞伤",
@@ -1785,14 +1833,6 @@
       "onboard_time": 1741571720,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 129853,
-      "num": 129853,
-      "word": "日本女星岸本梓离世",
-      "onboard_time": 1741611328,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 129813,
@@ -1955,14 +1995,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 119392,
-      "num": 119392,
-      "word": "71岁赵雅芝66岁陈美琪同框",
-      "onboard_time": 1741611566,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 119103,
       "num": 119103,
       "word": "德云社全员靠烧饼颜值通过测试",
@@ -2081,6 +2113,14 @@
       "onboard_time": 1741605744,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111860,
+      "num": 111860,
+      "word": "孙颖莎体验投壶",
+      "onboard_time": 1741611746,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 111446,
@@ -2219,14 +2259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 104236,
-      "num": 104236,
-      "word": "刘诗诗回复杨幂生日祝福",
-      "onboard_time": 1741611684,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 104161,
       "num": 108460,
       "word": "极氪9X",
@@ -2241,6 +2273,14 @@
       "onboard_time": 1741606103,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102320,
+      "num": 242731,
+      "word": "零跑B10激光雷达智驾卷到12万级",
+      "onboard_time": 1741612165,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 102008,
@@ -2267,6 +2307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99805,
+      "num": 99805,
+      "word": "赵睿时隔两年首次面对广东队",
+      "onboard_time": 1741613246,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99653,
       "num": 99653,
       "word": "王楚钦重庆冠军赛训练",
@@ -2289,14 +2337,6 @@
       "onboard_time": 1741584861,
       "rank": 47,
       "category": "互联网,财经"
-    },
-    {
-      "raw_hot": 97628,
-      "num": 104273,
-      "word": "15万内能买到的顶配车型",
-      "onboard_time": 1741611505,
-      "rank": 46,
-      "category": "汽车"
     },
     {
       "raw_hot": 96107,
@@ -2385,6 +2425,14 @@
       "onboard_time": 1741569562,
       "rank": 46,
       "category": "国内时政,互联网"
+    },
+    {
+      "raw_hot": 88360,
+      "num": 88360,
+      "word": "张艺兴回应出演敦煌话剧",
+      "onboard_time": 1741613486,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 88110,
@@ -2497,6 +2545,14 @@
       "onboard_time": 1741602082,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81310,
+      "num": 258872,
+      "word": "建议建立全国师德师风查询系统",
+      "onboard_time": 1741612104,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 80403,
@@ -2699,6 +2755,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 52988,
+      "num": 307109,
+      "word": "用二氧化硫违法熏制的沙姜流入市场",
+      "onboard_time": 1741612405,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52865,
       "num": 73618,
       "word": "袁咏仪能不化妆就不化妆",
@@ -2729,6 +2793,14 @@
       "onboard_time": 1741598543,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 47196,
+      "num": 486338,
+      "word": "2025年美丽中国这样建",
+      "onboard_time": 1741610786,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 46647,
@@ -2827,14 +2899,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 36844,
-      "num": 379775,
-      "word": "2025年美丽中国这样建",
-      "onboard_time": 1741610786,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 36587,
       "num": 41126,
       "word": "徐冬冬这个动作刻进了内娱明星DNA",
@@ -2852,7 +2916,7 @@
     },
     {
       "raw_hot": 36222,
-      "num": 168447,
+      "num": 224310,
       "word": "建议校园霸凌学生的家长接受教育",
       "onboard_time": 1741605864,
       "rank": 29,
@@ -2907,12 +2971,28 @@
       "category": "国内时政,教育"
     },
     {
+      "raw_hot": 26619,
+      "num": 228615,
+      "word": "去火星挖土有时间表了",
+      "onboard_time": 1741613306,
+      "rank": 22,
+      "category": "综艺,电影"
+    },
+    {
       "raw_hot": 26521,
       "num": 188280,
       "word": "夸克预测Top10申论热点",
       "onboard_time": 1741598662,
       "rank": 29,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 26058,
+      "num": 323165,
+      "word": "这场记者会送出民生大礼包",
+      "onboard_time": 1741611806,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 25775,

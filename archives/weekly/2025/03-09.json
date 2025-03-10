@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741611714082,
+  "endTime": 1741613538409,
   "band_list": [
     {
       "raw_hot": 2815044,
@@ -411,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 902978,
+      "num": 319451,
+      "word": "金秀贤向金赛纶要回7亿韩元",
+      "onboard_time": 1741611328,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 900685,
       "num": 366366,
       "word": "咸鱼飞升 陈都灵",
@@ -473,14 +481,6 @@
       "onboard_time": 1741521563,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 818273,
-      "num": 311677,
-      "word": "金秀贤向金赛纶要回7亿韩元",
-      "onboard_time": 1741611328,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 816160,
@@ -843,6 +843,14 @@
       "category": "海外新闻,体育"
     },
     {
+      "raw_hot": 612392,
+      "num": 612392,
+      "word": "国家版减肥指南来了",
+      "onboard_time": 1741604126,
+      "rank": 49,
+      "category": "民生新闻,运动健身"
+    },
+    {
       "raw_hot": 612011,
       "num": 326619,
       "word": "都说了宫内禁止对食",
@@ -979,14 +987,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 515779,
-      "num": 515779,
-      "word": "国家版减肥指南来了",
-      "onboard_time": 1741604126,
-      "rank": 49,
-      "category": "民生新闻,运动健身"
-    },
-    {
       "raw_hot": 513012,
       "num": 481541,
       "word": "小米SU7Ultra赛道首撞",
@@ -1067,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 466662,
+      "num": 228131,
+      "word": "刘诗诗回复杨幂生日祝福",
+      "onboard_time": 1741611684,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 461885,
       "num": 461885,
       "word": "谷爱凌锁骨受伤",
@@ -1137,6 +1145,14 @@
       "onboard_time": 1741589900,
       "rank": 33,
       "category": "国内时政,健康医疗"
+    },
+    {
+      "raw_hot": 430462,
+      "num": 430462,
+      "word": "胡歌谈女儿涂鸦玻璃窗满眼宠溺",
+      "onboard_time": 1741610485,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 428344,
@@ -1241,14 +1257,6 @@
       "onboard_time": 1741514301,
       "rank": 20,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 393286,
-      "num": 330893,
-      "word": "胡歌谈女儿涂鸦玻璃窗满眼宠溺",
-      "onboard_time": 1741610485,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 387488,
@@ -1484,7 +1492,7 @@
     },
     {
       "raw_hot": 332844,
-      "num": 332844,
+      "num": 363434,
       "word": "零跑价格",
       "onboard_time": 1741608445,
       "rank": 4,
@@ -1539,8 +1547,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 327344,
-      "num": 327344,
+      "raw_hot": 328472,
+      "num": 328472,
       "word": "为何选择张艺兴出演敦煌话剧",
       "onboard_time": 1741608026,
       "rank": 7,
@@ -1633,6 +1641,14 @@
       "onboard_time": 1741446863,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 298685,
+      "num": 298685,
+      "word": "71岁赵雅芝66岁陈美琪同框",
+      "onboard_time": 1741611566,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 298471,
@@ -1808,6 +1824,14 @@
       "word": "TOP登陆少年",
       "onboard_time": 1741451120,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 265107,
+      "num": 223954,
+      "word": "周杰伦背着女儿牵着儿子",
+      "onboard_time": 1741611746,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -2020,7 +2044,7 @@
     },
     {
       "raw_hot": 224605,
-      "num": 174348,
+      "num": 192294,
       "word": "田志希账号名后缀备孕ing",
       "onboard_time": 1741610668,
       "rank": 43,
@@ -2132,7 +2156,7 @@
     },
     {
       "raw_hot": 208693,
-      "num": 318011,
+      "num": 326351,
       "word": "HLE战胜TES",
       "onboard_time": 1741610906,
       "rank": 12,
@@ -2515,6 +2539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 187051,
+      "num": 187051,
+      "word": "迪丽热巴早期微博精神状态演我",
+      "onboard_time": 1741612645,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185466,
       "num": 185466,
       "word": "翟潇闻公主抱杨肸子",
@@ -2649,6 +2681,14 @@
       "onboard_time": 1741571240,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174585,
+      "num": 227193,
+      "word": "日本女星岸本梓离世",
+      "onboard_time": 1741611328,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 173964,
@@ -3403,6 +3443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 136549,
+      "num": 226240,
+      "word": "15万内能买到的顶配车型",
+      "onboard_time": 1741611505,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 136460,
       "num": 136460,
       "word": "多方回应山西一大桥下疑现大量钞票",
@@ -3529,14 +3577,6 @@
       "onboard_time": 1741571720,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 129853,
-      "num": 129853,
-      "word": "日本女星岸本梓离世",
-      "onboard_time": 1741611328,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 129813,
@@ -3899,14 +3939,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 119392,
-      "num": 119392,
-      "word": "71岁赵雅芝66岁陈美琪同框",
-      "onboard_time": 1741611566,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 119364,
       "num": 119364,
       "word": "耳机里的lovesong变成livesong",
@@ -4211,6 +4243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111860,
+      "num": 111860,
+      "word": "孙颖莎体验投壶",
+      "onboard_time": 1741611746,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111544,
       "num": 111544,
       "word": "杭州六小龙让广东兄弟摩拳擦掌",
@@ -4459,14 +4499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 104236,
-      "num": 104236,
-      "word": "刘诗诗回复杨幂生日祝福",
-      "onboard_time": 1741611684,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 104161,
       "num": 108460,
       "word": "极氪9X",
@@ -4497,6 +4529,14 @@
       "onboard_time": 1741501100,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 102320,
+      "num": 242731,
+      "word": "零跑B10激光雷达智驾卷到12万级",
+      "onboard_time": 1741612165,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 102008,
@@ -4595,6 +4635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99805,
+      "num": 99805,
+      "word": "赵睿时隔两年首次面对广东队",
+      "onboard_time": 1741613246,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99695,
       "num": 99695,
       "word": "杨迪你是黄子弘凡的女主吗",
@@ -4657,14 +4705,6 @@
       "onboard_time": 1741500502,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 97628,
-      "num": 104273,
-      "word": "15万内能买到的顶配车型",
-      "onboard_time": 1741611505,
-      "rank": 46,
-      "category": "汽车"
     },
     {
       "raw_hot": 97609,
@@ -4923,6 +4963,14 @@
       "category": "国内时政,互联网"
     },
     {
+      "raw_hot": 88360,
+      "num": 88360,
+      "word": "张艺兴回应出演敦煌话剧",
+      "onboard_time": 1741613486,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 87391,
       "num": 87391,
       "word": "沈梦瑶上海演唱会舞台",
@@ -5081,6 +5129,14 @@
       "onboard_time": 1741422921,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 81310,
+      "num": 258872,
+      "word": "建议建立全国师德师风查询系统",
+      "onboard_time": 1741612104,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 80738,
@@ -5435,6 +5491,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 52988,
+      "num": 307109,
+      "word": "用二氧化硫违法熏制的沙姜流入市场",
+      "onboard_time": 1741612405,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51731,
       "num": 401165,
       "word": "机器人小航与航天员一同完成实验",
@@ -5473,6 +5537,14 @@
       "onboard_time": 1741598543,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 47196,
+      "num": 486338,
+      "word": "2025年美丽中国这样建",
+      "onboard_time": 1741610786,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 46647,
@@ -5627,14 +5699,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 36844,
-      "num": 379775,
-      "word": "2025年美丽中国这样建",
-      "onboard_time": 1741610786,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 36587,
       "num": 41126,
       "word": "徐冬冬这个动作刻进了内娱明星DNA",
@@ -5652,7 +5716,7 @@
     },
     {
       "raw_hot": 36222,
-      "num": 168447,
+      "num": 224310,
       "word": "建议校园霸凌学生的家长接受教育",
       "onboard_time": 1741605864,
       "rank": 29,
@@ -5795,6 +5859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26619,
+      "num": 228615,
+      "word": "去火星挖土有时间表了",
+      "onboard_time": 1741613306,
+      "rank": 22,
+      "category": "综艺,电影"
+    },
+    {
       "raw_hot": 26521,
       "num": 188280,
       "word": "夸克预测Top10申论热点",
@@ -5825,6 +5897,14 @@
       "onboard_time": 1741456876,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 26058,
+      "num": 323165,
+      "word": "这场记者会送出民生大礼包",
+      "onboard_time": 1741611806,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 25784,
