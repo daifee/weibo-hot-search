@@ -1,0 +1,410 @@
+{
+  "runTime": 1741603099484,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1722770,
+        "num": 1722770,
+        "word": "叙利亚爆发大规模报复性仇杀",
+        "onboard_time": 1741598842,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 623772,
+        "num": 623772,
+        "word": "强制下班",
+        "onboard_time": 1741598302,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40597,
+        "num": 502122,
+        "word": "你的家乡会有哪些政策支持",
+        "onboard_time": 1741601542,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 485602,
+        "num": 485602,
+        "word": "印度一航班12个厕所堵11个被迫返航",
+        "onboard_time": 1741596622,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 465589,
+        "num": 465589,
+        "word": "杨幂loewe未发布款",
+        "onboard_time": 1741600222,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 772291,
+        "num": 412822,
+        "word": "00后用DeepSeek1天卖出3.3亿",
+        "onboard_time": 1741581743,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 359318,
+        "num": 359318,
+        "word": "觉得自己胖不一定是真的胖",
+        "onboard_time": 1741597821,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320226,
+        "num": 320226,
+        "word": "减肥4年后绝大多数人恢复之前体重",
+        "onboard_time": 1741584921,
+        "rank": 7,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 229335,
+        "num": 229335,
+        "word": "难哄大结局",
+        "onboard_time": 1741581683,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19651,
+        "num": 228397,
+        "word": "一图速览两会民生热点",
+        "onboard_time": 1741577721,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1192768,
+        "num": 227191,
+        "word": "王一博 花期",
+        "onboard_time": 1741596082,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1072111,
+        "num": 226730,
+        "word": "阚清子自曝体重113斤",
+        "onboard_time": 1741600043,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 670857,
+        "num": 224719,
+        "word": "没有顶流的命 却得了顶流的病",
+        "onboard_time": 1741595062,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 667744,
+        "num": 223860,
+        "word": "中国女游客在斯里兰卡火车上探身坠落",
+        "onboard_time": 1741600103,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 630033,
+        "num": 221748,
+        "word": "疑似权志龙被排挤",
+        "onboard_time": 1741596082,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 511902,
+        "num": 221569,
+        "word": "恶作剧之吻裕树都结婚了",
+        "onboard_time": 1741597881,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166975,
+        "num": 220109,
+        "word": "杨幂巴黎时装周",
+        "onboard_time": 1741601243,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 323995,
+        "num": 218629,
+        "word": "宋家三胞胎身高快一米八了",
+        "onboard_time": 1741596322,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166462,
+        "num": 216889,
+        "word": "别人互撩仁心男女主话疗",
+        "onboard_time": 1741602322,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28195,
+        "num": 215726,
+        "word": "建议优化中考普职分流招生制度",
+        "onboard_time": 1741601542,
+        "rank": 19,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 291121,
+        "num": 215077,
+        "word": "100寸的行李箱",
+        "onboard_time": 1741595240,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 213887,
+        "num": 213887,
+        "word": "外交部回应中国台湾省称谓",
+        "onboard_time": 1741593321,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 189862,
+        "num": 189862,
+        "word": "报告称职场女性平均月薪8978元",
+        "onboard_time": 1741593080,
+        "rank": 22,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 164854,
+        "num": 164854,
+        "word": "在出租屋米袋里发现10万现金报警",
+        "onboard_time": 1741597942,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164663,
+        "num": 164663,
+        "word": "滤镜豆瓣7.3分",
+        "onboard_time": 1741596022,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164312,
+        "num": 164312,
+        "word": "13岁男孩过度进补身高定格在165",
+        "onboard_time": 1741594221,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81855,
+        "num": 155762,
+        "word": "孙颖莎重庆冠军赛适应场地训练",
+        "onboard_time": 1741602082,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147376,
+        "num": 147376,
+        "word": "滤镜停更",
+        "onboard_time": 1741602742,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141886,
+        "num": 141886,
+        "word": "张艺兴逛河南哇了一路",
+        "onboard_time": 1741601001,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40995,
+        "num": 141872,
+        "word": "三只松鼠客服回应面包发霉",
+        "onboard_time": 1741602502,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159344,
+        "num": 141855,
+        "word": "吴宣仪在机场哭了",
+        "onboard_time": 1741591821,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80165,
+        "num": 141826,
+        "word": "吸血鬼男主本子快给陈飞宇递上",
+        "onboard_time": 1741601842,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 144061,
+        "num": 141808,
+        "word": "王一博生图",
+        "onboard_time": 1741578503,
+        "rank": 32,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 141791,
+        "num": 141791,
+        "word": "减肥主食3个黄金等级",
+        "onboard_time": 1741600582,
+        "rank": 33,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 137277,
+        "num": 137277,
+        "word": "51岁林志玲状态",
+        "onboard_time": 1741596442,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125121,
+        "num": 125121,
+        "word": "成都动物园回应黑豹肚子大到快拖地",
+        "onboard_time": 1741591939,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124054,
+        "num": 124054,
+        "word": "不健康的亲密关系要尽早远离",
+        "onboard_time": 1741590200,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 121021,
+        "num": 121021,
+        "word": "8小时工作8小时休息8小时个人时间",
+        "onboard_time": 1741594282,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120448,
+        "num": 120448,
+        "word": "建议把手机还给孩子",
+        "onboard_time": 1741598543,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118118,
+        "num": 118118,
+        "word": "叙利亚",
+        "onboard_time": 1741583722,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117501,
+        "num": 117501,
+        "word": "带着8只小狗卖艺的女人",
+        "onboard_time": 1741601481,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116388,
+        "num": 116388,
+        "word": "82年到底生产了几瓶拉菲",
+        "onboard_time": 1741599262,
+        "rank": 41,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 74981,
+        "num": 111476,
+        "word": "2025全球先锋赛",
+        "onboard_time": 1741602201,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107607,
+        "num": 107607,
+        "word": "女孩发现司机头像吓人主动帮重拍",
+        "onboard_time": 1741582882,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97505,
+        "num": 97505,
+        "word": "奶奶戴了多年的戒指嵌进肉里",
+        "onboard_time": 1741594221,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92091,
+        "num": 92091,
+        "word": "奔跑吧13阵容有新变动",
+        "onboard_time": 1741575621,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90488,
+        "num": 90488,
+        "word": "张文宏说采访他的记者肚子太大",
+        "onboard_time": 1741589900,
+        "rank": 46,
+        "category": "国内时政,健康医疗"
+      },
+      {
+        "raw_hot": 84697,
+        "num": 84697,
+        "word": "超六成女性求职中被问婚育情况",
+        "onboard_time": 1741597282,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84667,
+        "num": 84667,
+        "word": "叙利亚爆发冲突死亡已超1000人",
+        "onboard_time": 1741601303,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 82021,
+        "num": 84409,
+        "word": "黄礼志新歌MV",
+        "onboard_time": 1741598662,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会之问#"
+    }
+  }
+}
