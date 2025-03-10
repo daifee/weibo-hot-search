@@ -1,6 +1,6 @@
 {
   "startTime": 1741624073347,
-  "endTime": 1741646404786,
+  "endTime": 1741648964207,
   "band_list": [
     {
       "raw_hot": 1295342,
@@ -59,6 +59,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 305215,
+      "num": 282583,
+      "word": "五星级酒店为什么开不下去了",
+      "onboard_time": 1741618404,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 297662,
       "num": 297662,
       "word": "王楚然演妖妃",
@@ -67,12 +75,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 282583,
-      "num": 282583,
-      "word": "五星级酒店为什么开不下去了",
-      "onboard_time": 1741618404,
-      "rank": 6,
-      "category": "民生新闻"
+      "raw_hot": 262271,
+      "num": 270252,
+      "word": "为什么现在的商场爱叫xx里",
+      "onboard_time": 1741620623,
+      "rank": 8,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 241841,
@@ -131,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200962,
+      "num": 190405,
+      "word": "周杰伦背着女儿牵着儿子",
+      "onboard_time": 1741611746,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190409,
       "num": 190409,
       "word": "韩国歌手辉星去世",
@@ -145,14 +161,6 @@
       "onboard_time": 1741618166,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 165300,
-      "num": 270252,
-      "word": "为什么现在的商场爱叫xx里",
-      "onboard_time": 1741620623,
-      "rank": 8,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 162346,
@@ -171,12 +179,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 127908,
-      "num": 190405,
-      "word": "周杰伦背着女儿牵着儿子",
-      "onboard_time": 1741611746,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 137403,
+      "num": 189951,
+      "word": "海尔回应网友求生产懒人洗衣机",
+      "onboard_time": 1741614686,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123556,
+      "num": 189980,
+      "word": "菲前总统杜特尔特被国际刑警组织通缉",
+      "onboard_time": 1741615525,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 120255,
@@ -185,6 +201,14 @@
       "onboard_time": 1741602742,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113466,
+      "num": 190083,
+      "word": "中国女游客在斯里兰卡火车上探身坠落",
+      "onboard_time": 1741600103,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113147,
@@ -251,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 81184,
+      "num": 112957,
+      "word": "18岁印度少年获最毛脸吉尼斯纪录",
+      "onboard_time": 1741626257,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 78377,
       "num": 190131,
       "word": "纳斯达克",
@@ -275,28 +307,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 74673,
-      "num": 190083,
-      "word": "中国女游客在斯里兰卡火车上探身坠落",
-      "onboard_time": 1741600103,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 72278,
+      "raw_hot": 74356,
       "num": 190024,
       "word": "宋家三胞胎身高快一米八了",
       "onboard_time": 1741596322,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 72271,
-      "num": 189980,
-      "word": "菲前总统杜特尔特被国际刑警组织通缉",
-      "onboard_time": 1741615525,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 70609,
@@ -323,14 +339,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 59083,
-      "num": 189951,
-      "word": "海尔回应网友求生产懒人洗衣机",
-      "onboard_time": 1741614686,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56344,
       "num": 189929,
       "word": "檀健次李兰迪滤镜口碑黑马剧",
@@ -353,6 +361,14 @@
       "onboard_time": 1741617505,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51515,
+      "num": 111630,
+      "word": "方大同遗作专辑被炒至两三千元",
+      "onboard_time": 1741632795,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 51303,
@@ -395,6 +411,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 43418,
+      "num": 109974,
+      "word": "只有福建人才懂这个菇的含金量",
+      "onboard_time": 1741645035,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 43211,
       "num": 100745,
       "word": "HLE战胜TES",
@@ -403,12 +427,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 38317,
-      "num": 100856,
-      "word": "18岁印度少年获最毛脸吉尼斯纪录",
-      "onboard_time": 1741626257,
-      "rank": 36,
-      "category": "海外新闻"
+      "raw_hot": 43198,
+      "num": 109716,
+      "word": "美国务卿将在沙特会晤乌克兰官员",
+      "onboard_time": 1741637834,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 39235,
+      "num": 109496,
+      "word": "杜特尔特访港系私人度假行程",
+      "onboard_time": 1741642094,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 36224,
@@ -419,12 +451,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 32302,
-      "num": 32302,
-      "word": "杜特尔特访港系私人度假行程",
-      "onboard_time": 1741642094,
-      "rank": 46,
-      "category": "国际时政"
+      "raw_hot": 33960,
+      "num": 108164,
+      "word": "把降息增贷减税等政策效应充分释放出来",
+      "onboard_time": 1741635674,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 32244,
+      "num": 107877,
+      "word": "3个动作让手臂更细",
+      "onboard_time": 1741648338,
+      "rank": 42,
+      "category": "运动健身"
     },
     {
       "raw_hot": 28215,
@@ -459,14 +499,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 24920,
-      "num": 29630,
-      "word": "方大同遗作专辑被炒至两三千元",
-      "onboard_time": 1741632795,
-      "rank": 21,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 24711,
       "num": 42488,
       "word": "食物判官",
@@ -475,20 +507,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 23987,
+      "num": 106625,
+      "word": "张凯丽建议严惩网络谣言幕后推手",
+      "onboard_time": 1741634593,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 23657,
       "num": 42535,
       "word": "虞书欣滑雪手脚不协调",
       "onboard_time": 1741631594,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 23228,
-      "num": 29631,
-      "word": "美国务卿将在沙特会晤乌克兰官员",
-      "onboard_time": 1741637834,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 22144,
@@ -505,30 +537,6 @@
       "onboard_time": 1741628837,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 18946,
-      "num": 29628,
-      "word": "把降息增贷减税等政策效应充分释放出来",
-      "onboard_time": 1741635674,
-      "rank": 40,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 16915,
-      "num": 29626,
-      "word": "只有福建人才懂这个菇的含金量",
-      "onboard_time": 1741645035,
-      "rank": 49,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 16426,
-      "num": 29625,
-      "word": "张凯丽建议严惩网络谣言幕后推手",
-      "onboard_time": 1741634593,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 12368,
