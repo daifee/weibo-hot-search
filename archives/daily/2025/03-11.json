@@ -1,6 +1,6 @@
 {
   "startTime": 1741624073347,
-  "endTime": 1741632279981,
+  "endTime": 1741634428136,
   "band_list": [
     {
       "raw_hot": 1295342,
@@ -465,6 +465,14 @@
       "onboard_time": 1741631594,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23038,
+      "num": 23038,
+      "word": "方大同遗作专辑被炒至两三千元",
+      "onboard_time": 1741632795,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 22144,
