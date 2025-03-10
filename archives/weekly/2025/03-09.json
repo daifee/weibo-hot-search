@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741628381861,
+  "endTime": 1741631456968,
   "band_list": [
     {
       "raw_hot": 2815044,
@@ -6299,6 +6299,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 24711,
+      "num": 32824,
+      "word": "食物判官",
+      "onboard_time": 1741629255,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 24509,
       "num": 35028,
       "word": "最高法报告提到治理高额彩礼",
@@ -6360,6 +6368,14 @@
       "word": "张泽禹说捂住耳朵勇敢向前跑",
       "onboard_time": 1741628355,
       "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 21970,
+      "num": 32815,
+      "word": "金圣圭签售会上请求上厕所",
+      "onboard_time": 1741628837,
+      "rank": 34,
       "category": "艺人"
     },
     {

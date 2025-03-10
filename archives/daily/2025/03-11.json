@@ -1,6 +1,6 @@
 {
   "startTime": 1741624073347,
-  "endTime": 1741628381861,
+  "endTime": 1741631456968,
   "band_list": [
     {
       "raw_hot": 1295342,
@@ -107,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211551,
+      "num": 190230,
+      "word": "海底捞将起诉向火锅内小便男子",
+      "onboard_time": 1741605204,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203386,
       "num": 203386,
       "word": "金赛纶家人发声",
@@ -161,14 +169,6 @@
       "onboard_time": 1741608026,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 152853,
-      "num": 190230,
-      "word": "海底捞将起诉向火锅内小便男子",
-      "onboard_time": 1741605204,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127908,
@@ -451,11 +451,27 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 24711,
+      "num": 32824,
+      "word": "食物判官",
+      "onboard_time": 1741629255,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 22144,
       "num": 73139,
       "word": "张泽禹说捂住耳朵勇敢向前跑",
       "onboard_time": 1741628355,
       "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 21970,
+      "num": 32815,
+      "word": "金圣圭签售会上请求上厕所",
+      "onboard_time": 1741628837,
+      "rank": 34,
       "category": "艺人"
     }
   ],
