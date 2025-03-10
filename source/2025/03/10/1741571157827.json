@@ -1,0 +1,410 @@
+{
+  "runTime": 1741571157827,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 910900,
+        "num": 1145744,
+        "word": "国际乒联公布徐克与女运动员聊天记录",
+        "onboard_time": 1741568960,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 596547,
+        "num": 596547,
+        "word": "戒掉晚饭减肥后再吃可能会反弹",
+        "onboard_time": 1741567881,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 50711,
+        "num": 483673,
+        "word": "民生主题记者会热点全解读",
+        "onboard_time": 1741529424,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1360429,
+        "num": 468218,
+        "word": "华为离职天才少年官宣刷屏",
+        "onboard_time": 1741565481,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 632114,
+        "num": 459617,
+        "word": "美国一飞机坠毁停车场多车起火",
+        "onboard_time": 1741565841,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 439926,
+        "num": 439926,
+        "word": "难哄28集杀疯了",
+        "onboard_time": 1741537161,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 415885,
+        "num": 415885,
+        "word": "马斯克发现美政府数千亿美元假合同",
+        "onboard_time": 1741562297,
+        "rank": 6,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 274697,
+        "num": 413783,
+        "word": "咸鱼飞升",
+        "onboard_time": 1741570220,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85010,
+        "num": 390734,
+        "word": "2025微观两会",
+        "onboard_time": 1741568482,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 162841,
+        "num": 387161,
+        "word": "政协会议闭幕会",
+        "onboard_time": 1741563500,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 651773,
+        "num": 366366,
+        "word": "咸鱼飞升 陈都灵",
+        "onboard_time": 1741562418,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 359399,
+        "num": 359399,
+        "word": "杨幂连续四年为刘诗诗庆生",
+        "onboard_time": 1741563260,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284052,
+        "num": 339526,
+        "word": "美国一架载5人飞机坠毁",
+        "onboard_time": 1741565360,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 338059,
+        "num": 338059,
+        "word": "李兰迪也知道檀健次毕生所学吻戏梗",
+        "onboard_time": 1741569920,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290357,
+        "num": 290357,
+        "word": "以色列宣布切断加沙供电",
+        "onboard_time": 1741565481,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 251580,
+        "num": 251580,
+        "word": "泰国发生连环恐袭",
+        "onboard_time": 1741522041,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 247302,
+        "num": 247302,
+        "word": "张远不谈恋爱的原因",
+        "onboard_time": 1741532302,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 242363,
+        "num": 242363,
+        "word": "一觉醒来中国航天又有成功发射了",
+        "onboard_time": 1741565481,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 238037,
+        "num": 238037,
+        "word": "建议农民基础养老金提高到600",
+        "onboard_time": 1741563439,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 218693,
+        "num": 218693,
+        "word": "库迪哪吒联名",
+        "onboard_time": 1741564279,
+        "rank": 19,
+        "category": "电影,美食"
+      },
+      {
+        "raw_hot": 287411,
+        "num": 218431,
+        "word": "女子工资4600每日花销近百元通勤上班",
+        "onboard_time": 1741529724,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280654,
+        "num": 218427,
+        "word": "美宇航员已滞留太空9个月",
+        "onboard_time": 1741541237,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 217397,
+        "num": 217397,
+        "word": "哪吒2冲上全球第6",
+        "onboard_time": 1741509981,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 215961,
+        "num": 215961,
+        "word": "华晨宇3秒跳下故障升降台",
+        "onboard_time": 1741532065,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 213690,
+        "num": 213690,
+        "word": "省考准考证",
+        "onboard_time": 1741570040,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 192602,
+        "num": 192602,
+        "word": "海尔老总回应撞脸结界兽",
+        "onboard_time": 1741543936,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 191030,
+        "num": 191030,
+        "word": "手机尾号77777777拍出254.4万元",
+        "onboard_time": 1741517063,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190191,
+        "num": 190191,
+        "word": "老板送菜后得知顾客刚救了自己儿子",
+        "onboard_time": 1741524563,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154891,
+        "num": 154891,
+        "word": "哪吒",
+        "onboard_time": 1741570220,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139304,
+        "num": 139304,
+        "word": "锦瑟无端五十弦到底多少根弦",
+        "onboard_time": 1741563861,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177252,
+        "num": 139124,
+        "word": "戒掉熬夜强制早睡的小tips",
+        "onboard_time": 1741533382,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 147667,
+        "num": 138996,
+        "word": "徐克回应被禁赛十年",
+        "onboard_time": 1741562238,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137297,
+        "num": 137297,
+        "word": "睡觉前最好不要玩手机",
+        "onboard_time": 1741532065,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 141791,
+        "num": 136816,
+        "word": "乒乓球教练徐克声明",
+        "onboard_time": 1741532065,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135557,
+        "num": 135557,
+        "word": "苦等丈夫80余年的老人去世",
+        "onboard_time": 1741570760,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130691,
+        "num": 130691,
+        "word": "王一博假发",
+        "onboard_time": 1741522881,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 129666,
+        "num": 129666,
+        "word": "王栎鑫今天造型是春晚pass掉的",
+        "onboard_time": 1741520421,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 117092,
+        "num": 117092,
+        "word": "外媒披露美乌矿产协议难签内幕",
+        "onboard_time": 1741562599,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115432,
+        "num": 115432,
+        "word": "俄军宣布库尔斯克全线大规模进攻",
+        "onboard_time": 1741536201,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108263,
+        "num": 108263,
+        "word": "雷军又挂了三条热搜",
+        "onboard_time": 1741537220,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 108110,
+        "num": 108110,
+        "word": "委员称取消公摊并不意味能省钱",
+        "onboard_time": 1741530441,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106504,
+        "num": 106504,
+        "word": "第3场委员通道",
+        "onboard_time": 1741560917,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 95538,
+        "num": 95538,
+        "word": "两会时间",
+        "onboard_time": 1741571059,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 93686,
+        "num": 93686,
+        "word": "王栎鑫累吐了",
+        "onboard_time": 1741559956,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 89984,
+        "num": 89984,
+        "word": "檀健次 水仙",
+        "onboard_time": 1741529124,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88460,
+        "num": 88460,
+        "word": "周翊然素颜直播",
+        "onboard_time": 1741537280,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88383,
+        "num": 88383,
+        "word": "蒲熠星回应断掉名学全勤记录的原因",
+        "onboard_time": 1741531464,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 86329,
+        "num": 86329,
+        "word": "马斯克帮白宫办公厅主任拎包",
+        "onboard_time": 1741565122,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 83015,
+        "num": 83015,
+        "word": "B费复刻C罗任意球破门",
+        "onboard_time": 1741571119,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82836,
+        "num": 82836,
+        "word": "惹怒虞书欣只需要一个林一",
+        "onboard_time": 1741539439,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#实现我军建设十四五规划圆满收官#"
+    }
+  }
+}
