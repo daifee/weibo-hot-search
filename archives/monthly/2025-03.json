@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741591252560,
+  "endTime": 1741592153997,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -281,6 +281,14 @@
       "onboard_time": 1740837324,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 2181532,
+      "num": 2181532,
+      "word": "00后用DeepSeek1天卖出3.3亿",
+      "onboard_time": 1741581743,
+      "rank": 21,
+      "category": "互联网"
     },
     {
       "raw_hot": 2179891,
@@ -1353,14 +1361,6 @@
       "onboard_time": 1741219938,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1091348,
-      "num": 1174615,
-      "word": "00后用DeepSeek1天卖出3.3亿",
-      "onboard_time": 1741581743,
-      "rank": 21,
-      "category": "互联网"
     },
     {
       "raw_hot": 1080920,
@@ -2643,6 +2643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 741537,
+      "num": 260331,
+      "word": "景甜的心愿是结婚",
+      "onboard_time": 1741590380,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 739197,
       "num": 739197,
       "word": "建议降低灵活就业人员社保参保门槛",
@@ -2985,6 +2993,14 @@
       "onboard_time": 1740985638,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 679661,
+      "num": 259214,
+      "word": "吴宣仪在机场哭了",
+      "onboard_time": 1741591821,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 679556,
@@ -5755,14 +5771,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 395489,
-      "num": 244554,
-      "word": "景甜的心愿是结婚",
-      "onboard_time": 1741590380,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 394602,
       "num": 302915,
       "word": "陶喆抢票",
@@ -8363,6 +8371,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 280433,
+      "num": 280433,
+      "word": "不健康的亲密关系要尽早远离",
+      "onboard_time": 1741590200,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 279954,
       "num": 343025,
       "word": "以延为定",
@@ -9265,14 +9281,6 @@
       "onboard_time": 1741246760,
       "rank": 21,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 249689,
-      "num": 240781,
-      "word": "不健康的亲密关系要尽早远离",
-      "onboard_time": 1741590200,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 249523,
@@ -10603,6 +10611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 214788,
+      "num": 261689,
+      "word": "爱你 民政局暗广",
+      "onboard_time": 1741588460,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214783,
       "num": 214783,
       "word": "陈楚生唱跳",
@@ -11443,6 +11459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 203024,
+      "num": 203024,
+      "word": "黄奕女儿不想让妈妈演反派",
+      "onboard_time": 1741591341,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202985,
       "num": 230108,
       "word": "WINTER个人首封",
@@ -11793,6 +11817,14 @@
       "onboard_time": 1740833783,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198020,
+      "num": 198020,
+      "word": "HLE对战TES",
+      "onboard_time": 1741592122,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 197745,
@@ -12931,6 +12963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185465,
+      "num": 185465,
+      "word": "张文宏说采访他的记者肚子太大",
+      "onboard_time": 1741589900,
+      "rank": 33,
+      "category": "国内时政,健康医疗"
+    },
+    {
       "raw_hot": 185461,
       "num": 212282,
       "word": "是妻旅还是韩庚老友记",
@@ -13464,14 +13504,6 @@
       "word": "北上直播",
       "onboard_time": 1740831504,
       "rank": 33,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 177613,
-      "num": 177613,
-      "word": "爱你 民政局暗广",
-      "onboard_time": 1741588460,
-      "rank": 38,
       "category": "剧集"
     },
     {
@@ -14875,6 +14907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162829,
+      "num": 162829,
+      "word": "张凌赫这很江苏了",
+      "onboard_time": 1741592122,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162813,
       "num": 162813,
       "word": "卖糖葫芦喷口水阿姨已戴口罩",
@@ -14937,6 +14977,14 @@
       "onboard_time": 1741494261,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162121,
+      "num": 239941,
+      "word": "成都动物园回应黑豹肚子大到快拖地",
+      "onboard_time": 1741591939,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161982,
@@ -15633,14 +15681,6 @@
       "onboard_time": 1741381274,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 155430,
-      "num": 155430,
-      "word": "张文宏说采访他的记者肚子太大",
-      "onboard_time": 1741589900,
-      "rank": 33,
-      "category": "国内时政,健康医疗"
     },
     {
       "raw_hot": 155420,
@@ -18075,6 +18115,14 @@
       "category": "艺人,汽车"
     },
     {
+      "raw_hot": 133935,
+      "num": 133935,
+      "word": "北上停更三天憋了个大的",
+      "onboard_time": 1741592122,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133859,
       "num": 133859,
       "word": "重病卧床的男主还急着争宠",
@@ -18465,6 +18513,14 @@
       "onboard_time": 1740791238,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 129813,
+      "num": 245497,
+      "word": "郑钦文回应选世界第一还是大满贯",
+      "onboard_time": 1741590980,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 129778,
@@ -21380,7 +21436,7 @@
     },
     {
       "raw_hot": 108190,
-      "num": 108190,
+      "num": 229624,
       "word": "刘国梁说国乒身后有不少潜力股",
       "onboard_time": 1741590320,
       "rank": 40,
@@ -22555,6 +22611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99487,
+      "num": 99487,
+      "word": "李健抢票",
+      "onboard_time": 1741591101,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 99442,
       "num": 99442,
       "word": "白鹿新剧能动手绝不吵吵",
@@ -23243,14 +23307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 93646,
-      "num": 93646,
-      "word": "李健抢票",
-      "onboard_time": 1741591101,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 93598,
       "num": 93598,
       "word": "杨天真说我也感觉到35岁危机",
@@ -23883,6 +23939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87333,
+      "num": 87333,
+      "word": "章昊不语只是一味啵啵",
+      "onboard_time": 1741592001,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87255,
       "num": 87255,
       "word": "DOU5对战ITZY",
@@ -24187,6 +24251,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 84132,
+      "num": 84132,
+      "word": "瀚墨晒联名",
+      "onboard_time": 1741590860,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 84033,
       "num": 84033,
       "word": "10岁小孩哥臂围36厘米震惊网友",
@@ -24361,6 +24433,14 @@
       "onboard_time": 1741083801,
       "rank": 30,
       "category": "国内时政,健康医疗"
+    },
+    {
+      "raw_hot": 81537,
+      "num": 250609,
+      "word": "王祖贤吴彦祖 一个开艾灸馆一个教英语",
+      "onboard_time": 1741590141,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 81520,
@@ -26601,14 +26681,6 @@
       "onboard_time": 1741331362,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 49137,
-      "num": 242144,
-      "word": "郑钦文回应选世界第一还是大满贯",
-      "onboard_time": 1741590980,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 48988,
