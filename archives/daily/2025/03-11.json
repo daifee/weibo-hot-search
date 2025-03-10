@@ -1,6 +1,6 @@
 {
   "startTime": 1741624073347,
-  "endTime": 1741624073347,
+  "endTime": 1741625082072,
   "band_list": [
     {
       "raw_hot": 1295342,
@@ -195,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98640,
+      "num": 190230,
+      "word": "海底捞将起诉向火锅内小便男子",
+      "onboard_time": 1741605204,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98220,
       "num": 190295,
       "word": "难哄大结局",
@@ -216,14 +224,6 @@
       "word": "觉得自己胖不一定是真的胖",
       "onboard_time": 1741597821,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 92326,
-      "num": 190230,
-      "word": "海底捞将起诉向火锅内小便男子",
-      "onboard_time": 1741605204,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -307,7 +307,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 65241,
+      "raw_hot": 65521,
       "num": 190057,
       "word": "王兴兴说时代不会辜负长期主义者",
       "onboard_time": 1741621703,
@@ -395,17 +395,44 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 43211,
+      "num": 59070,
+      "word": "HLE战胜TES",
+      "onboard_time": 1741610906,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 36224,
+      "num": 59044,
+      "word": "陈飞宇生图",
+      "onboard_time": 1741604544,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 28215,
       "num": 440332,
       "word": "2025年美丽中国这样建",
       "onboard_time": 1741610786,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 26068,
+      "num": 138392,
+      "word": "唐代银盘留下鸿雁北归绝美一瞬",
+      "onboard_time": 1741624222,
+      "rank": 9,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#总书记指导教育工作蕴含辩证法#"
+    },
+    {
+      "word": "#总书记的两会关心事#"
     }
   ]
 }
