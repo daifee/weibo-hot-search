@@ -1,0 +1,410 @@
+{
+  "runTime": 1741581452277,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2228194,
+        "num": 2228194,
+        "word": "美的被曝强制18点20下班",
+        "onboard_time": 1741577481,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1707829,
+        "num": 1707829,
+        "word": "温以凡 许沁",
+        "onboard_time": 1741576821,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64380,
+        "num": 1253642,
+        "word": "政协会议圆满完成各项议程",
+        "onboard_time": 1741571720,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1231274,
+        "num": 1231274,
+        "word": "刘晓艳 两分二十秒战绩可查",
+        "onboard_time": 1741575741,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 931423,
+        "num": 931423,
+        "word": "奔跑吧13阵容有新变动",
+        "onboard_time": 1741575621,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 455279,
+        "num": 455279,
+        "word": "iPhone17系列新机模上手",
+        "onboard_time": 1741579821,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 517728,
+        "num": 455190,
+        "word": "何炅在1999年写的一篇文章",
+        "onboard_time": 1741578381,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445389,
+        "num": 445389,
+        "word": "湖南要求不得询问女性求职者婚育情况",
+        "onboard_time": 1741572798,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383417,
+        "num": 383417,
+        "word": "周思成称将起诉文都教育",
+        "onboard_time": 1741574779,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 583240,
+        "num": 378288,
+        "word": "王一博生图",
+        "onboard_time": 1741578503,
+        "rank": 9,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 623589,
+        "num": 376992,
+        "word": "吉赛尔 老天保佑金山银山全都有",
+        "onboard_time": 1741576821,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 523625,
+        "num": 368390,
+        "word": "难哄",
+        "onboard_time": 1741579643,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 474587,
+        "num": 362986,
+        "word": "吴宣仪说娱乐圈人心是让人失望的",
+        "onboard_time": 1741580543,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414469,
+        "num": 353844,
+        "word": "国际乒联公布徐克与女运动员聊天记录",
+        "onboard_time": 1741568960,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 352665,
+        "num": 352665,
+        "word": "淳茶舍官宣迪丽热巴",
+        "onboard_time": 1741576400,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 312102,
+        "num": 312102,
+        "word": "白鹿回应菠萝树下站谁都美",
+        "onboard_time": 1741580663,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 285745,
+        "num": 285745,
+        "word": "华为离职天才少年官宣刷屏",
+        "onboard_time": 1741565481,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 272224,
+        "num": 272224,
+        "word": "胡烨韬一顺排名第一",
+        "onboard_time": 1741574900,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268017,
+        "num": 268017,
+        "word": "当赵丽颖粉丝成了00后公司的老板",
+        "onboard_time": 1741581323,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68494,
+        "num": 267985,
+        "word": "人大代表建议立法加强虚拟号码监管",
+        "onboard_time": 1741580364,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 83227,
+        "num": 267776,
+        "word": "韩战机误炸事故调查进展",
+        "onboard_time": 1741579582,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 135120,
+        "num": 267404,
+        "word": "中国新能源车硬控不差油的中东人",
+        "onboard_time": 1741574839,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 100406,
+        "num": 267196,
+        "word": "原神预言",
+        "onboard_time": 1741573820,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113737,
+        "num": 267023,
+        "word": "极氪新旗舰9X登场",
+        "onboard_time": 1741578622,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 730465,
+        "num": 266856,
+        "word": "拒绝复旦学生好爽",
+        "onboard_time": 1741575921,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 481976,
+        "num": 266724,
+        "word": "蹲便冲水细菌是坐便的2倍",
+        "onboard_time": 1741578442,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 335229,
+        "num": 266384,
+        "word": "海尔集团连夜更新老总表情包",
+        "onboard_time": 1741571179,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195162,
+        "num": 266166,
+        "word": "我的差评女友定档",
+        "onboard_time": 1741578744,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 6871,
+        "num": 265948,
+        "word": "魔法少女小圆学姐变身",
+        "onboard_time": 1741581203,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 154869,
+        "num": 265740,
+        "word": "还有明天家暴镜头",
+        "onboard_time": 1741580663,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 265703,
+        "num": 265703,
+        "word": "闪耀暖暖",
+        "onboard_time": 1741579942,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 252059,
+        "num": 252059,
+        "word": "偶遇宋茜周冬雨逛街",
+        "onboard_time": 1741576880,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53249,
+        "num": 245558,
+        "word": "2025全国两会热点",
+        "onboard_time": 1741579403,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244699,
+        "num": 244699,
+        "word": "蕾哈娜晒产子照",
+        "onboard_time": 1741580724,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219085,
+        "num": 219085,
+        "word": "闪耀暖暖联动喜羊羊与灰太狼",
+        "onboard_time": 1741581082,
+        "rank": 34,
+        "category": "游戏,动漫"
+      },
+      {
+        "raw_hot": 196789,
+        "num": 196789,
+        "word": "美的称一直是18点下班",
+        "onboard_time": 1741580242,
+        "rank": 35,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 182454,
+        "num": 182454,
+        "word": "郑钦文VS孙璐璐",
+        "onboard_time": 1741579702,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170019,
+        "num": 170019,
+        "word": "咸鱼飞升 陈都灵",
+        "onboard_time": 1741562418,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165350,
+        "num": 167317,
+        "word": "我叫赵出息定档",
+        "onboard_time": 1741577601,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165781,
+        "num": 165781,
+        "word": "戒掉晚饭减肥后再吃可能会反弹",
+        "onboard_time": 1741567881,
+        "rank": 39,
+        "category": "健康医疗,运动健身"
+      },
+      {
+        "raw_hot": 159016,
+        "num": 159016,
+        "word": "张元英长卷发造型",
+        "onboard_time": 1741578622,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158248,
+        "num": 158248,
+        "word": "爱你 杭州宣传片",
+        "onboard_time": 1741580242,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149305,
+        "num": 149305,
+        "word": "抵制特斯拉活动计划在多国举行",
+        "onboard_time": 1741576940,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 139928,
+        "num": 139928,
+        "word": "政协会议闭幕",
+        "onboard_time": 1741571359,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 132917,
+        "num": 132917,
+        "word": "杨幂连续四年为刘诗诗庆生",
+        "onboard_time": 1741563260,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133051,
+        "num": 131238,
+        "word": "张元英爱心刘海",
+        "onboard_time": 1741580901,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127098,
+        "num": 127098,
+        "word": "八旬老人一次被拔9颗牙进ICU",
+        "onboard_time": 1741579223,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125331,
+        "num": 125331,
+        "word": "英媒称美国的压制助攻了中国芯片",
+        "onboard_time": 1741577180,
+        "rank": 47,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 124545,
+        "num": 124545,
+        "word": "难哄28集杀疯了",
+        "onboard_time": 1741537161,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123446,
+        "num": 123446,
+        "word": "女性求职被问婚育情况可以投诉",
+        "onboard_time": 1741579403,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平等党和国家领导人出席政协闭幕会#"
+    }
+  }
+}

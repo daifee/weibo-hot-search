@@ -1,10 +1,10 @@
 {
   "startTime": 1741537363234,
-  "endTime": 1741580594265,
+  "endTime": 1741581452277,
   "band_list": [
     {
-      "raw_hot": 1972548,
-      "num": 1972548,
+      "raw_hot": 2228194,
+      "num": 2228194,
       "word": "美的被曝强制18点20下班",
       "onboard_time": 1741577481,
       "rank": 27,
@@ -147,7 +147,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 623240,
+      "raw_hot": 623589,
       "num": 390873,
       "word": "吉赛尔 老天保佑金山银山全都有",
       "onboard_time": 1741576821,
@@ -163,7 +163,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 567970,
+      "raw_hot": 583240,
       "num": 567970,
       "word": "王一博生图",
       "onboard_time": 1741578503,
@@ -187,12 +187,28 @@
       "category": "国际时政,互联网"
     },
     {
-      "raw_hot": 505781,
+      "raw_hot": 523625,
+      "num": 388361,
+      "word": "难哄",
+      "onboard_time": 1741579643,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 517728,
       "num": 505781,
       "word": "何炅在1999年写的一篇文章",
       "onboard_time": 1741578381,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 481976,
+      "num": 281826,
+      "word": "蹲便冲水细菌是坐便的2倍",
+      "onboard_time": 1741578442,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 475820,
@@ -203,12 +219,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 474587,
+      "num": 362986,
+      "word": "吴宣仪说娱乐圈人心是让人失望的",
+      "onboard_time": 1741580543,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 461290,
       "num": 241748,
       "word": "女子工资4600每日花销近百元通勤上班",
       "onboard_time": 1741529724,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 455279,
+      "num": 455279,
+      "word": "iPhone17系列新机模上手",
+      "onboard_time": 1741579821,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 454380,
@@ -243,14 +275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 423219,
-      "num": 281826,
-      "word": "蹲便冲水细菌是坐便的2倍",
-      "onboard_time": 1741578442,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 404543,
       "num": 413783,
       "word": "咸鱼飞升",
@@ -265,14 +289,6 @@
       "onboard_time": 1741529903,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 388361,
-      "num": 388361,
-      "word": "难哄",
-      "onboard_time": 1741579643,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 384169,
@@ -355,6 +371,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 312102,
+      "num": 312102,
+      "word": "白鹿回应菠萝树下站谁都美",
+      "onboard_time": 1741580663,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 311931,
       "num": 257136,
       "word": "老板送菜后得知顾客刚救了自己儿子",
@@ -419,14 +443,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 284634,
-      "num": 284634,
-      "word": "iPhone17系列新机模上手",
-      "onboard_time": 1741579821,
-      "rank": 18,
-      "category": "数码"
-    },
-    {
       "raw_hot": 283264,
       "num": 283264,
       "word": "偶遇宋茜周冬雨逛街",
@@ -475,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 268017,
+      "num": 268017,
+      "word": "当赵丽颖粉丝成了00后公司的老板",
+      "onboard_time": 1741581323,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 262038,
       "num": 262038,
       "word": "一觉醒来中国航天又有成功发射了",
@@ -489,6 +513,14 @@
       "onboard_time": 1741536501,
       "rank": 41,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 244699,
+      "num": 244699,
+      "word": "蕾哈娜晒产子照",
+      "onboard_time": 1741580724,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 242219,
@@ -516,7 +548,7 @@
     },
     {
       "raw_hot": 236878,
-      "num": 236878,
+      "num": 267196,
       "word": "原神预言",
       "onboard_time": 1741573820,
       "rank": 22,
@@ -545,6 +577,14 @@
       "onboard_time": 1741521563,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 219085,
+      "num": 219085,
+      "word": "闪耀暖暖联动喜羊羊与灰太狼",
+      "onboard_time": 1741581082,
+      "rank": 34,
+      "category": "游戏,动漫"
     },
     {
       "raw_hot": 218693,
@@ -603,6 +643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196789,
+      "num": 196789,
+      "word": "美的称一直是18点下班",
+      "onboard_time": 1741580242,
+      "rank": 37,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 195338,
       "num": 274542,
       "word": "中国新能源车硬控不差油的中东人",
@@ -651,6 +699,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 182454,
+      "num": 361527,
+      "word": "郑钦文VS孙璐璐",
+      "onboard_time": 1741579702,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181699,
       "num": 181699,
       "word": "李昀锐黄曦彦友谊",
@@ -691,12 +747,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 160283,
-      "num": 160283,
-      "word": "美的称一直是18点下班",
+      "raw_hot": 158248,
+      "num": 158248,
+      "word": "爱你 杭州宣传片",
       "onboard_time": 1741580242,
-      "rank": 37,
-      "category": "民生新闻,互联网"
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 157596,
@@ -712,6 +768,14 @@
       "word": "哪吒",
       "onboard_time": 1741570220,
       "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 154869,
+      "num": 265740,
+      "word": "还有明天家暴镜头",
+      "onboard_time": 1741580663,
+      "rank": 29,
       "category": "电影"
     },
     {
@@ -763,20 +827,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133051,
+      "num": 131238,
+      "word": "张元英爱心刘海",
+      "onboard_time": 1741580901,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 132397,
       "num": 132397,
       "word": "两会",
       "onboard_time": 1741565421,
       "rank": 35,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 131787,
-      "num": 131787,
-      "word": "爱你 杭州宣传片",
-      "onboard_time": 1741580242,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 130034,
@@ -795,12 +859,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 127098,
+      "num": 127098,
+      "word": "八旬老人一次被拔9颗牙进ICU",
+      "onboard_time": 1741579223,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124136,
       "num": 124136,
       "word": "爱豆这个行业好像不是努力就可以的",
       "onboard_time": 1741532124,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123446,
+      "num": 223439,
+      "word": "女性求职被问婚育情况可以投诉",
+      "onboard_time": 1741579403,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121914,
@@ -889,14 +969,6 @@
       "onboard_time": 1741537102,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 106585,
-      "num": 223439,
-      "word": "女性求职被问婚育情况可以投诉",
-      "onboard_time": 1741579403,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106504,
@@ -1035,19 +1107,19 @@
       "category": "教育"
     },
     {
+      "raw_hot": 83227,
+      "num": 358225,
+      "word": "韩战机误炸事故调查进展",
+      "onboard_time": 1741579582,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 83015,
       "num": 83015,
       "word": "B费复刻C罗任意球破门",
       "onboard_time": 1741571119,
       "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 80751,
-      "num": 361527,
-      "word": "郑钦文VS孙璐璐",
-      "onboard_time": 1741579702,
-      "rank": 13,
       "category": "体育"
     },
     {
@@ -1089,6 +1161,14 @@
       "onboard_time": 1741562719,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 68494,
+      "num": 267985,
+      "word": "人大代表建议立法加强虚拟号码监管",
+      "onboard_time": 1741580364,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 65482,
@@ -1139,14 +1219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 56070,
-      "num": 138369,
-      "word": "吴宣仪说娱乐圈人心是让人失望的",
-      "onboard_time": 1741580543,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 55451,
       "num": 585017,
       "word": "民生主题记者会热点全解读",
@@ -1155,20 +1227,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 53249,
+      "num": 391412,
+      "word": "2025全国两会热点",
+      "onboard_time": 1741579403,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52865,
       "num": 73618,
       "word": "袁咏仪能不化妆就不化妆",
       "onboard_time": 1741515382,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 51780,
-      "num": 391412,
-      "word": "2025全国两会热点",
-      "onboard_time": 1741579403,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 50976,
@@ -1185,14 +1257,6 @@
       "onboard_time": 1741558936,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 44819,
-      "num": 358225,
-      "word": "韩战机误炸事故调查进展",
-      "onboard_time": 1741579582,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 41626,
@@ -1240,14 +1304,6 @@
       "word": "强化技能导向的薪酬分配制度",
       "onboard_time": 1741538119,
       "rank": 37,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 29634,
-      "num": 221801,
-      "word": "人大代表建议立法加强虚拟号码监管",
-      "onboard_time": 1741580364,
-      "rank": 30,
       "category": "国内时政"
     },
     {
@@ -1339,6 +1395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 6871,
+      "num": 265948,
+      "word": "魔法少女小圆学姐变身",
+      "onboard_time": 1741581203,
+      "rank": 28,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 6690,
       "num": 244177,
       "word": "董明珠提议共同守护网络健康环境",
@@ -1356,6 +1420,9 @@
     },
     {
       "word": "#习近平两会上的这些论述值得深读#"
+    },
+    {
+      "word": "#习近平等党和国家领导人出席政协闭幕会#"
     }
   ]
 }
