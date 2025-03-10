@@ -1,6 +1,6 @@
 {
   "startTime": 1741537363234,
-  "endTime": 1741577003155,
+  "endTime": 1741577784064,
   "band_list": [
     {
       "raw_hot": 1847277,
@@ -19,6 +19,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1405484,
+      "num": 384146,
+      "word": "刘晓艳 两分二十秒战绩可查",
+      "onboard_time": 1741575741,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1337034,
       "num": 1337034,
       "word": "徐克声明",
@@ -27,8 +35,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 958702,
-      "num": 249058,
+      "raw_hot": 1331771,
+      "num": 341445,
+      "word": "温以凡 许沁",
+      "onboard_time": 1741576821,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1202337,
+      "num": 271156,
       "word": "拒绝复旦学生好爽",
       "onboard_time": 1741575921,
       "rank": 20,
@@ -65,14 +81,6 @@
       "onboard_time": 1741562418,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 874989,
-      "num": 384146,
-      "word": "刘晓艳 两分二十秒战绩可查",
-      "onboard_time": 1741575741,
-      "rank": 4,
-      "category": "教育"
     },
     {
       "raw_hot": 842019,
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 435579,
-      "num": 246507,
+      "num": 270005,
       "word": "海尔集团连夜更新老总表情包",
       "onboard_time": 1741571179,
       "rank": 20,
@@ -211,20 +219,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 385630,
+      "num": 378455,
+      "word": "周思成称将起诉文都教育",
+      "onboard_time": 1741574779,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 384169,
       "num": 359399,
       "word": "杨幂连续四年为刘诗诗庆生",
       "onboard_time": 1741563260,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 378455,
-      "num": 378455,
-      "word": "周思成称将起诉文都教育",
-      "onboard_time": 1741574779,
-      "rank": 44,
-      "category": "教育"
     },
     {
       "raw_hot": 374646,
@@ -289,6 +297,22 @@
       "onboard_time": 1741570040,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 314120,
+      "num": 275646,
+      "word": "淳茶舍官宣迪丽热巴",
+      "onboard_time": 1741576400,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 311987,
+      "num": 274206,
+      "word": "吉赛尔 老天保佑金山银山全都有",
+      "onboard_time": 1741576821,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 311931,
@@ -395,6 +419,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 253777,
+      "num": 253777,
+      "word": "偶遇宋茜周冬雨逛街",
+      "onboard_time": 1741576880,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242219,
       "num": 242219,
       "word": "徐克回应被禁赛十年",
@@ -467,20 +499,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 206435,
-      "num": 206435,
-      "word": "淳茶舍官宣迪丽热巴",
-      "onboard_time": 1741576400,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 203397,
       "num": 203397,
       "word": "雷军又挂了三条热搜",
       "onboard_time": 1741537220,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 199819,
+      "num": 199819,
+      "word": "美的被曝强制18点20下班",
+      "onboard_time": 1741577481,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195338,
+      "num": 274542,
+      "word": "中国新能源车硬控不差油的中东人",
+      "onboard_time": 1741574839,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 194047,
@@ -515,12 +555,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 188196,
-      "num": 177051,
-      "word": "温以凡 许沁",
-      "onboard_time": 1741576821,
+      "raw_hot": 187076,
+      "num": 187076,
+      "word": "死亡搁浅2",
+      "onboard_time": 1741577481,
       "rank": 30,
-      "category": "剧集"
+      "category": "游戏"
     },
     {
       "raw_hot": 181699,
@@ -539,8 +579,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 171389,
-      "num": 171389,
+      "raw_hot": 173933,
+      "num": 169531,
+      "word": "刘诗诗淮水竹亭生日祝福",
+      "onboard_time": 1741576640,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 173637,
+      "num": 173637,
       "word": "谁为周深演唱会的保安大哥发声",
       "onboard_time": 1741574779,
       "rank": 30,
@@ -571,36 +619,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 153389,
-      "num": 153389,
-      "word": "刘诗诗淮水竹亭生日祝福",
-      "onboard_time": 1741576640,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 152879,
-      "num": 152879,
-      "word": "中国新能源车硬控不差油的中东人",
-      "onboard_time": 1741574839,
-      "rank": 48,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 152491,
       "num": 152491,
       "word": "外媒披露美乌矿产协议难签内幕",
       "onboard_time": 1741562599,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 150721,
-      "num": 150721,
-      "word": "吉赛尔 老天保佑金山银山全都有",
-      "onboard_time": 1741576821,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 147206,
@@ -659,20 +683,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 125960,
+      "num": 125960,
+      "word": "我叫赵出息定档",
+      "onboard_time": 1741577601,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124136,
       "num": 124136,
       "word": "爱豆这个行业好像不是努力就可以的",
       "onboard_time": 1741532124,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 122143,
-      "num": 122143,
-      "word": "偶遇宋茜周冬雨逛街",
-      "onboard_time": 1741576880,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 120175,
@@ -699,12 +723,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 116179,
+      "num": 116179,
+      "word": "智元启元大模型正式发布",
+      "onboard_time": 1741577601,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 115718,
       "num": 176322,
       "word": "放开灵活就业人员参保的户籍限制",
       "onboard_time": 1741547353,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 113731,
+      "num": 113731,
+      "word": "独行侠又伤两人",
+      "onboard_time": 1741577481,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 111446,
@@ -761,6 +801,14 @@
       "onboard_time": 1741575259,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 99078,
+      "num": 273049,
+      "word": "抵制特斯拉活动计划在多国举行",
+      "onboard_time": 1741576940,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 96107,
@@ -859,6 +907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84815,
+      "num": 272610,
+      "word": "省考考前注意事项",
+      "onboard_time": 1741576581,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 83015,
       "num": 83015,
       "word": "B费复刻C罗任意球破门",
@@ -891,20 +947,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71263,
+      "num": 271872,
+      "word": "终于有哪吒周边不是盲盒了",
+      "onboard_time": 1741576039,
+      "rank": 33,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 69680,
       "num": 148689,
       "word": "王源启程巴黎",
       "onboard_time": 1741562719,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 66584,
-      "num": 251328,
-      "word": "省考考前注意事项",
-      "onboard_time": 1741576581,
-      "rank": 19,
-      "category": "教育"
     },
     {
       "raw_hot": 65482,
@@ -921,6 +977,14 @@
       "onboard_time": 1741566021,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64446,
+      "num": 275286,
+      "word": "英媒称美国的压制助攻了中国芯片",
+      "onboard_time": 1741577180,
+      "rank": 14,
+      "category": "国际时政,互联网"
     },
     {
       "raw_hot": 64048,
@@ -955,14 +1019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 56223,
-      "num": 155120,
-      "word": "终于有哪吒周边不是盲盒了",
-      "onboard_time": 1741576039,
-      "rank": 33,
-      "category": "电影,动漫"
-    },
-    {
       "raw_hot": 55451,
       "num": 585017,
       "word": "民生主题记者会热点全解读",
@@ -993,14 +1049,6 @@
       "onboard_time": 1741558936,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 41815,
-      "num": 154101,
-      "word": "抵制特斯拉活动计划在多国举行",
-      "onboard_time": 1741576940,
-      "rank": 34,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 41626,
@@ -1067,6 +1115,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 20637,
+      "num": 362751,
+      "word": "专家解读政府工作报告新词",
+      "onboard_time": 1741577362,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 18934,
       "num": 31407,
       "word": "将稳步提高养老保险待遇水平",
@@ -1123,6 +1179,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 8620,
+      "num": 120753,
+      "word": "一图速览两会民生热点",
+      "onboard_time": 1741577721,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 6690,
       "num": 244177,
       "word": "董明珠提议共同守护网络健康环境",
@@ -1137,6 +1201,9 @@
     },
     {
       "word": "#教育不能把最基本的丢掉#"
+    },
+    {
+      "word": "#习近平两会上的这些论述值得深读#"
     }
   ]
 }
