@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741616629948,
+  "endTime": 1741617768319,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -153,6 +153,14 @@
       "onboard_time": 1740808374,
       "rank": 6,
       "category": "艺人,健康医疗"
+    },
+    {
+      "raw_hot": 2704071,
+      "num": 290182,
+      "word": "赵樱子官宣恋情",
+      "onboard_time": 1741616546,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 2685331,
@@ -4619,6 +4627,14 @@
       "category": "时尚,网红"
     },
     {
+      "raw_hot": 514649,
+      "num": 514649,
+      "word": "国际刑警组织对杜特尔特发出红色通缉令",
+      "onboard_time": 1741613906,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 513012,
       "num": 481541,
       "word": "小米SU7Ultra赛道首撞",
@@ -4809,14 +4825,6 @@
       "onboard_time": 1741004718,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 494166,
-      "num": 360038,
-      "word": "国际刑警组织对杜特尔特发出红色通缉令",
-      "onboard_time": 1741613906,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 493403,
@@ -7547,6 +7555,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 323622,
+      "num": 597546,
+      "word": "王楚然演妖妃",
+      "onboard_time": 1741616845,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 322572,
       "num": 217709,
       "word": "辛芷蕾新剧脚趾接大工程了",
@@ -7601,6 +7617,14 @@
       "onboard_time": 1741326144,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 320030,
+      "num": 320030,
+      "word": "奔跑吧",
+      "onboard_time": 1741615406,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 320006,
@@ -8651,6 +8675,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 282024,
+      "num": 238011,
+      "word": "坦克300",
+      "onboard_time": 1741616305,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 281733,
       "num": 256971,
       "word": "相聚离开 都有时候",
@@ -8913,14 +8945,6 @@
       "onboard_time": 1740994397,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 271080,
-      "num": 271080,
-      "word": "奔跑吧",
-      "onboard_time": 1741615406,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 271066,
@@ -10337,14 +10361,6 @@
       "onboard_time": 1741249520,
       "rank": 18,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 228173,
-      "num": 228173,
-      "word": "赵樱子官宣恋情",
-      "onboard_time": 1741616546,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 228092,
@@ -12323,14 +12339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 197157,
-      "num": 197157,
-      "word": "坦克300",
-      "onboard_time": 1741616305,
-      "rank": 28,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 197109,
       "num": 197109,
       "word": "蓝色郁金香",
@@ -12537,6 +12545,14 @@
       "onboard_time": 1741059257,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 194946,
+      "num": 261417,
+      "word": "国乒重庆冠军赛晚宴图集",
+      "onboard_time": 1741616605,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 194885,
@@ -13081,6 +13097,14 @@
       "onboard_time": 1741343782,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 189074,
+      "num": 259443,
+      "word": "复旦将降低文科招生比例",
+      "onboard_time": 1741615645,
+      "rank": 19,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 188994,
@@ -14497,6 +14521,14 @@
       "onboard_time": 1741584260,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172138,
+      "num": 172138,
+      "word": "美股",
+      "onboard_time": 1741617564,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 172094,
@@ -16219,6 +16251,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 155842,
+      "num": 236907,
+      "word": "赵睿胡明轩徐杰再见已是对手",
+      "onboard_time": 1741614985,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155805,
       "num": 190268,
       "word": "当年轻人爱上中国非遗",
@@ -17153,6 +17193,14 @@
       "onboard_time": 1741098983,
       "rank": 42,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 148274,
+      "num": 271192,
+      "word": "菲前总统杜特尔特被国际刑警组织通缉",
+      "onboard_time": 1741615525,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 148260,
@@ -18683,14 +18731,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 135179,
-      "num": 244691,
-      "word": "复旦将降低文科招生比例",
-      "onboard_time": 1741615645,
-      "rank": 19,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 135147,
       "num": 135147,
       "word": "欧洲多国领导人表示支持泽连斯基",
@@ -18809,14 +18849,6 @@
       "onboard_time": 1741501161,
       "rank": 39,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 134181,
-      "num": 134181,
-      "word": "赵睿胡明轩徐杰再见已是对手",
-      "onboard_time": 1741614985,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 134022,
@@ -19137,14 +19169,6 @@
       "onboard_time": 1741410502,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 131325,
-      "num": 271192,
-      "word": "菲前总统杜特尔特被国际刑警组织通缉",
-      "onboard_time": 1741615525,
-      "rank": 12,
-      "category": "国际时政"
     },
     {
       "raw_hot": 131320,
@@ -19824,6 +19848,14 @@
       "word": "郭艾伦眼伤已拆线",
       "onboard_time": 1741092320,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 126351,
+      "num": 126351,
+      "word": "曾凡博25分",
+      "onboard_time": 1741617264,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -20873,6 +20905,14 @@
       "onboard_time": 1741182619,
       "rank": 43,
       "category": "网红"
+    },
+    {
+      "raw_hot": 119283,
+      "num": 268578,
+      "word": "内卷式竞争卷不出未来",
+      "onboard_time": 1741614927,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119244,
@@ -22083,14 +22123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 110272,
-      "num": 268578,
-      "word": "内卷式竞争卷不出未来",
-      "onboard_time": 1741614927,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 110234,
       "num": 110234,
       "word": "陈牧驰健身不语只是一味硬撑",
@@ -22577,14 +22609,6 @@
       "onboard_time": 1740817945,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 106624,
-      "num": 106624,
-      "word": "国乒重庆冠军赛晚宴图集",
-      "onboard_time": 1741616605,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 106532,
@@ -23977,6 +24001,14 @@
       "onboard_time": 1740991279,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 96500,
+      "num": 96500,
+      "word": "工地把3名工人吊在安全带使用体验区",
+      "onboard_time": 1741617205,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96481,
@@ -26867,6 +26899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62073,
+      "num": 255101,
+      "word": "90后王兴兴献给春天的演讲",
+      "onboard_time": 1741617505,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62041,
       "num": 209249,
       "word": "代表呼吁为全职妈妈设妈妈岗",
@@ -27097,6 +27137,14 @@
       "onboard_time": 1741083861,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 58271,
+      "num": 204994,
+      "word": "院士教你如何让老板永远离不开你",
+      "onboard_time": 1741616366,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 58033,
@@ -29363,14 +29411,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30979,
-      "num": 195316,
-      "word": "院士教你如何让老板永远离不开你",
-      "onboard_time": 1741616366,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 30940,
       "num": 224358,
       "word": "没有对白的猫猫电影得了奥斯卡",
@@ -29433,6 +29473,14 @@
       "onboard_time": 1741030331,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 30277,
+      "num": 249885,
+      "word": "刘诗诗V中文版开季刊",
+      "onboard_time": 1741616966,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 30041,

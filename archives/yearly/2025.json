@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1741616629948,
+  "endTime": 1741617768319,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -2123,6 +2123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2704071,
+      "num": 290182,
+      "word": "赵樱子官宣恋情",
+      "onboard_time": 1741616546,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2693767,
       "num": 1704350,
       "word": "众星发声悼念",
@@ -2392,14 +2400,6 @@
       "word": "大S发病到猝逝仅5天",
       "onboard_time": 1738582711,
       "rank": 3,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2483975,
-      "num": 2483975,
-      "word": "朋友说已联系到星星",
-      "onboard_time": 1736145021,
-      "rank": 5,
       "category": "艺人"
     }
   ],

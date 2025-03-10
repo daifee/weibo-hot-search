@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741616629948,
+  "endTime": 1741617768319,
   "band_list": [
     {
       "raw_hot": 2815044,
@@ -9,6 +9,14 @@
       "onboard_time": 1741509981,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 2704071,
+      "num": 290182,
+      "word": "赵樱子官宣恋情",
+      "onboard_time": 1741616546,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 2639070,
@@ -995,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 514649,
+      "num": 514649,
+      "word": "国际刑警组织对杜特尔特发出红色通缉令",
+      "onboard_time": 1741613906,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 513012,
       "num": 481541,
       "word": "小米SU7Ultra赛道首撞",
@@ -1033,14 +1049,6 @@
       "onboard_time": 1741445182,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 494166,
-      "num": 360038,
-      "word": "国际刑警组织对杜特尔特发出红色通缉令",
-      "onboard_time": 1741613906,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 493403,
@@ -1595,12 +1603,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 323622,
+      "num": 597546,
+      "word": "王楚然演妖妃",
+      "onboard_time": 1741616845,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 320714,
       "num": 275046,
       "word": "烟盒写建议被采纳82岁大爷回应走红",
       "onboard_time": 1741440562,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 320030,
+      "num": 320030,
+      "word": "奔跑吧",
+      "onboard_time": 1741615406,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 319774,
@@ -1771,6 +1795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 282024,
+      "num": 238011,
+      "word": "坦克300",
+      "onboard_time": 1741616305,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 277624,
       "num": 277624,
       "word": "冰湖重生",
@@ -1793,14 +1825,6 @@
       "onboard_time": 1741579942,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 271080,
-      "num": 271080,
-      "word": "奔跑吧",
-      "onboard_time": 1741615406,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 270962,
@@ -2040,14 +2064,6 @@
       "word": "迪丽热巴早期微博精神状态演我",
       "onboard_time": 1741612645,
       "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 228173,
-      "num": 228173,
-      "word": "赵樱子官宣恋情",
-      "onboard_time": 1741616546,
-      "rank": 25,
       "category": "艺人"
     },
     {
@@ -2371,14 +2387,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 197157,
-      "num": 197157,
-      "word": "坦克300",
-      "onboard_time": 1741616305,
-      "rank": 28,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 196789,
       "num": 196789,
       "word": "美的称一直是18点下班",
@@ -2417,6 +2425,14 @@
       "onboard_time": 1741574839,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 194946,
+      "num": 261417,
+      "word": "国乒重庆冠军赛晚宴图集",
+      "onboard_time": 1741616605,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 194486,
@@ -2545,6 +2561,14 @@
       "onboard_time": 1741522460,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 189074,
+      "num": 259443,
+      "word": "复旦将降低文科招生比例",
+      "onboard_time": 1741615645,
+      "rank": 19,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 188329,
@@ -2785,6 +2809,14 @@
       "onboard_time": 1741584260,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172138,
+      "num": 172138,
+      "word": "美股",
+      "onboard_time": 1741617564,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 172019,
@@ -3099,6 +3131,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 155842,
+      "num": 236907,
+      "word": "赵睿胡明轩徐杰再见已是对手",
+      "onboard_time": 1741614985,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155296,
       "num": 155296,
       "word": "男子直播间抢了俩椅子还没巴掌大",
@@ -3273,6 +3313,14 @@
       "onboard_time": 1741485321,
       "rank": 15,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 148274,
+      "num": 271192,
+      "word": "菲前总统杜特尔特被国际刑警组织通缉",
+      "onboard_time": 1741615525,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 148080,
@@ -3467,6 +3515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138270,
+      "num": 138270,
+      "word": "CBA",
+      "onboard_time": 1741617624,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137560,
       "num": 137560,
       "word": "檀健次和哪吒梦幻联动",
@@ -3539,14 +3595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135179,
-      "num": 244691,
-      "word": "复旦将降低文科招生比例",
-      "onboard_time": 1741615645,
-      "rank": 19,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 134556,
       "num": 134556,
       "word": "负责人称小米卫生巾真的做不了",
@@ -3561,14 +3609,6 @@
       "onboard_time": 1741501161,
       "rank": 39,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 134181,
-      "num": 134181,
-      "word": "赵睿胡明轩徐杰再见已是对手",
-      "onboard_time": 1741614985,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 133337,
@@ -3641,14 +3681,6 @@
       "onboard_time": 1741610066,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 131325,
-      "num": 271192,
-      "word": "菲前总统杜特尔特被国际刑警组织通缉",
-      "onboard_time": 1741615525,
-      "rank": 12,
-      "category": "国际时政"
     },
     {
       "raw_hot": 130617,
@@ -3753,6 +3785,14 @@
       "onboard_time": 1741499482,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 126351,
+      "num": 126351,
+      "word": "曾凡博25分",
+      "onboard_time": 1741617264,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 126283,
@@ -4033,6 +4073,14 @@
       "onboard_time": 1741504941,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119283,
+      "num": 268578,
+      "word": "内卷式竞争卷不出未来",
+      "onboard_time": 1741614927,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119169,
@@ -4395,14 +4443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 110272,
-      "num": 268578,
-      "word": "内卷式竞争卷不出未来",
-      "onboard_time": 1741614927,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 110097,
       "num": 110097,
       "word": "曝iPhone17Air取消实体SIM卡槽",
@@ -4513,14 +4553,6 @@
       "onboard_time": 1741590141,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 106624,
-      "num": 106624,
-      "word": "国乒重庆冠军赛晚宴图集",
-      "onboard_time": 1741616605,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 106532,
@@ -4849,6 +4881,14 @@
       "onboard_time": 1741478838,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 96500,
+      "num": 96500,
+      "word": "工地把3名工人吊在安全带使用体验区",
+      "onboard_time": 1741617205,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96438,
@@ -5523,6 +5563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62073,
+      "num": 255101,
+      "word": "90后王兴兴献给春天的演讲",
+      "onboard_time": 1741617505,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60674,
       "num": 71426,
       "word": "吴艳妮的后程没有对手",
@@ -5553,6 +5601,14 @@
       "onboard_time": 1741604663,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 58271,
+      "num": 204994,
+      "word": "院士教你如何让老板永远离不开你",
+      "onboard_time": 1741616366,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 57784,
@@ -5907,14 +5963,6 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 30979,
-      "num": 195316,
-      "word": "院士教你如何让老板永远离不开你",
-      "onboard_time": 1741616366,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 30794,
       "num": 34065,
       "word": "张碧晨首次现场演唱哪吒2片尾曲",
@@ -5945,6 +5993,14 @@
       "onboard_time": 1741530683,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30277,
+      "num": 249885,
+      "word": "刘诗诗V中文版开季刊",
+      "onboard_time": 1741616966,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 30041,
