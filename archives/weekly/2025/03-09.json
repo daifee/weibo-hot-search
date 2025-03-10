@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741574241258,
+  "endTime": 1741574857605,
   "band_list": [
     {
       "raw_hot": 2815044,
@@ -259,19 +259,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 866942,
+      "num": 845588,
+      "word": "湖南要求不得询问女性求职者婚育情况",
+      "onboard_time": 1741572798,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 847471,
       "num": 274439,
       "word": "43岁三孩妈拍999套遗照与死神对抗",
       "onboard_time": 1741485321,
       "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 845588,
-      "num": 845588,
-      "word": "湖南要求不得询问女性求职者婚育情况",
-      "onboard_time": 1741572798,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -395,6 +395,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 752888,
+      "num": 292728,
+      "word": "苦等丈夫80余年的老人去世",
+      "onboard_time": 1741570760,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 722549,
       "num": 316507,
       "word": "雷军称小米曾遭造谣被查导致股价下跌",
@@ -417,14 +425,6 @@
       "onboard_time": 1741419981,
       "rank": 10,
       "category": "演出"
-    },
-    {
-      "raw_hot": 713744,
-      "num": 292728,
-      "word": "苦等丈夫80余年的老人去世",
-      "onboard_time": 1741570760,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 711640,
@@ -843,7 +843,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 372713,
+      "raw_hot": 374646,
       "num": 338059,
       "word": "李兰迪也知道檀健次毕生所学吻戏梗",
       "onboard_time": 1741569920,
@@ -1027,6 +1027,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 317530,
+      "num": 317530,
+      "word": "省考准考证",
+      "onboard_time": 1741570040,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 314279,
       "num": 314279,
       "word": "石矶娘娘反诈宣传",
@@ -1073,14 +1081,6 @@
       "onboard_time": 1741537280,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 294440,
-      "num": 294440,
-      "word": "省考准考证",
-      "onboard_time": 1741570040,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 294317,
@@ -1259,10 +1259,26 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249214,
+      "num": 249214,
+      "word": "政协会议闭幕",
+      "onboard_time": 1741571359,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 248328,
       "num": 303705,
       "word": "委员称取消公摊并不意味能省钱",
       "onboard_time": 1741530441,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 246184,
+      "num": 291462,
+      "word": "建议育儿补贴考虑不同地区收入水平",
+      "onboard_time": 1741573519,
       "rank": 14,
       "category": "民生新闻"
     },
@@ -1315,6 +1331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236878,
+      "num": 236878,
+      "word": "原神预言",
+      "onboard_time": 1741573820,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 234687,
       "num": 234687,
       "word": "石凯直播展示美甲",
@@ -1345,14 +1369,6 @@
       "onboard_time": 1741501462,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 223562,
-      "num": 223562,
-      "word": "原神预言",
-      "onboard_time": 1741573820,
-      "rank": 22,
-      "category": "游戏"
     },
     {
       "raw_hot": 223320,
@@ -1403,6 +1419,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 215091,
+      "num": 215091,
+      "word": "问界新M7限时7万起开回家",
+      "onboard_time": 1741574000,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 213551,
       "num": 213551,
       "word": "白桃星座",
@@ -1449,14 +1473,6 @@
       "onboard_time": 1741449622,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 208113,
-      "num": 208113,
-      "word": "政协会议闭幕",
-      "onboard_time": 1741571359,
-      "rank": 24,
-      "category": "国内时政"
     },
     {
       "raw_hot": 207257,
@@ -1707,14 +1723,6 @@
       "category": "民生新闻,国内时政"
     },
     {
-      "raw_hot": 185128,
-      "num": 185128,
-      "word": "问界新M7限时7万起开回家",
-      "onboard_time": 1741574000,
-      "rank": 26,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 183539,
       "num": 190567,
       "word": "白鹿去年拍的长发版夏凤华",
@@ -1939,6 +1947,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 159584,
+      "num": 159584,
+      "word": "谁为周深演唱会的保安大哥发声",
+      "onboard_time": 1741574779,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 158745,
       "num": 158745,
       "word": "男生看到地铁座椅血迹主动擦干净",
@@ -2097,6 +2113,14 @@
       "onboard_time": 1741485321,
       "rank": 15,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 147206,
+      "num": 147206,
+      "word": "A股",
+      "onboard_time": 1741574240,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 146907,
@@ -2289,6 +2313,14 @@
       "onboard_time": 1741571720,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 129737,
+      "num": 129737,
+      "word": "细谷佳正结婚",
+      "onboard_time": 1741574839,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 126871,
@@ -2627,6 +2659,14 @@
       "category": "国内时政,民生新闻"
     },
     {
+      "raw_hot": 114567,
+      "num": 114567,
+      "word": "周思成称将起诉文都教育",
+      "onboard_time": 1741574779,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 114486,
       "num": 114486,
       "word": "GW对战LZDG",
@@ -2897,6 +2937,14 @@
       "onboard_time": 1741501100,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 102125,
+      "num": 102125,
+      "word": "中国新能源车硬控不差油的中东人",
+      "onboard_time": 1741574839,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 101712,
@@ -3212,7 +3260,7 @@
     },
     {
       "raw_hot": 89171,
-      "num": 89171,
+      "num": 241550,
       "word": "卡尼当选加拿大执政党新党首",
       "onboard_time": 1741566201,
       "rank": 45,
@@ -3260,19 +3308,11 @@
     },
     {
       "raw_hot": 86444,
-      "num": 86444,
+      "num": 221811,
       "word": "孙颖莎王楚钦等出战重庆冠军赛",
       "onboard_time": 1741573399,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 84430,
-      "num": 291462,
-      "word": "建议育儿补贴考虑不同地区收入水平",
-      "onboard_time": 1741573519,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 83463,
@@ -4028,7 +4068,7 @@
     },
     {
       "raw_hot": 6690,
-      "num": 242078,
+      "num": 244177,
       "word": "董明珠提议共同守护网络健康环境",
       "onboard_time": 1741571179,
       "rank": 19,
