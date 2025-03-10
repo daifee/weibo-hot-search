@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741610798308,
+  "endTime": 1741611714082,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -588,7 +588,7 @@
     },
     {
       "raw_hot": 1670296,
-      "num": 336732,
+      "num": 372100,
       "word": "韩国歌手辉星去世",
       "onboard_time": 1741606584,
       "rank": 3,
@@ -836,7 +836,7 @@
     },
     {
       "raw_hot": 1428646,
-      "num": 218654,
+      "num": 322417,
       "word": "金秀贤想在41岁时和21岁的女孩结婚",
       "onboard_time": 1741608625,
       "rank": 10,
@@ -1956,7 +1956,7 @@
     },
     {
       "raw_hot": 910548,
-      "num": 218609,
+      "num": 319945,
       "word": "金赛纶家人发声",
       "onboard_time": 1741606946,
       "rank": 11,
@@ -2353,6 +2353,14 @@
       "onboard_time": 1741270344,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 818273,
+      "num": 311677,
+      "word": "金秀贤向金赛纶要回7亿韩元",
+      "onboard_time": 1741611328,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 817204,
@@ -4587,6 +4595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 515779,
+      "num": 515779,
+      "word": "国家版减肥指南来了",
+      "onboard_time": 1741604126,
+      "rank": 49,
+      "category": "民生新闻,运动健身"
+    },
+    {
       "raw_hot": 515279,
       "num": 365773,
       "word": "小盐巴手机壳",
@@ -5715,14 +5731,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 411723,
-      "num": 411723,
-      "word": "国家版减肥指南来了",
-      "onboard_time": 1741604126,
-      "rank": 49,
-      "category": "民生新闻,运动健身"
-    },
-    {
       "raw_hot": 411435,
       "num": 290314,
       "word": "曝上村谦信涉嫌性骚扰被捕",
@@ -6009,6 +6017,14 @@
       "onboard_time": 1740991519,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 393286,
+      "num": 330893,
+      "word": "胡歌谈女儿涂鸦玻璃窗满眼宠溺",
+      "onboard_time": 1741610485,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 392673,
@@ -7203,6 +7219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 332844,
+      "num": 332844,
+      "word": "零跑价格",
+      "onboard_time": 1741608445,
+      "rank": 4,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 332651,
       "num": 332651,
       "word": "伦纳德绝杀",
@@ -7379,6 +7403,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 327344,
+      "num": 327344,
+      "word": "为何选择张艺兴出演敦煌话剧",
+      "onboard_time": 1741608026,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 327130,
       "num": 1005428,
       "word": "王一博LOEWE看秀look",
@@ -7425,14 +7457,6 @@
       "onboard_time": 1741246221,
       "rank": 30,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 325941,
-      "num": 274600,
-      "word": "为何选择张艺兴出演敦煌话剧",
-      "onboard_time": 1741608026,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 325245,
@@ -7545,14 +7569,6 @@
       "onboard_time": 1740931877,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 320204,
-      "num": 320204,
-      "word": "零跑价格",
-      "onboard_time": 1741608445,
-      "rank": 4,
-      "category": "汽车"
     },
     {
       "raw_hot": 320183,
@@ -10451,6 +10467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224605,
+      "num": 174348,
+      "word": "田志希账号名后缀备孕ing",
+      "onboard_time": 1741610668,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 224559,
       "num": 224559,
       "word": "内娱豹豹猫猫第一次现场认子",
@@ -11267,6 +11291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208693,
+      "num": 318011,
+      "word": "HLE战胜TES",
+      "onboard_time": 1741610906,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 208545,
       "num": 208545,
       "word": "叙利亚西部冲突已致超400死",
@@ -11969,6 +12001,14 @@
       "onboard_time": 1741316781,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 200686,
+      "num": 305092,
+      "word": "反内卷就应该从反加班开始",
+      "onboard_time": 1741609344,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200595,
@@ -13929,6 +13969,14 @@
       "onboard_time": 1741594282,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176884,
+      "num": 176884,
+      "word": "JackeyLove要创造新的历史",
+      "onboard_time": 1741610845,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 176860,
@@ -16515,6 +16563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152745,
+      "num": 152745,
+      "word": "Jennie演唱会红衣花絮",
+      "onboard_time": 1741609645,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 152710,
       "num": 1079841,
       "word": "中国经济持续向好有底气",
@@ -17131,14 +17187,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 147374,
-      "num": 147374,
-      "word": "Jennie演唱会红衣花絮",
-      "onboard_time": 1741609645,
-      "rank": 38,
-      "category": "演出"
-    },
-    {
       "raw_hot": 147356,
       "num": 147356,
       "word": "红绿灯的黄抖音已断更5个月",
@@ -17209,14 +17257,6 @@
       "onboard_time": 1741526544,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 146757,
-      "num": 146757,
-      "word": "胡歌谈女儿涂鸦玻璃窗满眼宠溺",
-      "onboard_time": 1741610485,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 146747,
@@ -18132,7 +18172,7 @@
     },
     {
       "raw_hot": 139397,
-      "num": 163532,
+      "num": 179458,
       "word": "孙颖莎练着练着就抠上手了",
       "onboard_time": 1741605926,
       "rank": 37,
@@ -18995,14 +19035,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 130864,
-      "num": 189916,
-      "word": "反内卷就应该从反加班开始",
-      "onboard_time": 1741609344,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 130842,
       "num": 130842,
       "word": "米津玄师上海演唱会",
@@ -19081,6 +19113,14 @@
       "onboard_time": 1741571720,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 129853,
+      "num": 129853,
+      "word": "日本女星岸本梓离世",
+      "onboard_time": 1741611328,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 129814,
@@ -19225,14 +19265,6 @@
       "onboard_time": 1741421181,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 129092,
-      "num": 129092,
-      "word": "田志希账号名后缀备孕ing",
-      "onboard_time": 1741610668,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 129016,
@@ -20699,6 +20731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119392,
+      "num": 119392,
+      "word": "71岁赵雅芝66岁陈美琪同框",
+      "onboard_time": 1741611566,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119364,
       "num": 119364,
       "word": "耳机里的lovesong变成livesong",
@@ -21963,6 +22003,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 109866,
+      "num": 204505,
+      "word": "中戏院长说演员拼到最后是拼文化",
+      "onboard_time": 1741607785,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 109824,
       "num": 133574,
       "word": "教育不能把最基本的丢掉",
@@ -22308,7 +22356,7 @@
     },
     {
       "raw_hot": 107382,
-      "num": 107382,
+      "num": 175074,
       "word": "林志玲扛住了外媒镜头",
       "onboard_time": 1741607005,
       "rank": 48,
@@ -22769,6 +22817,14 @@
       "onboard_time": 1741156938,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104236,
+      "num": 104236,
+      "word": "刘诗诗回复杨幂生日祝福",
+      "onboard_time": 1741611684,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 104223,
@@ -23593,6 +23649,14 @@
       "onboard_time": 1741159159,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 97628,
+      "num": 104273,
+      "word": "15万内能买到的顶配车型",
+      "onboard_time": 1741611505,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 97609,
@@ -24731,14 +24795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 87248,
-      "num": 204505,
-      "word": "中戏院长说演员拼到最后是拼文化",
-      "onboard_time": 1741607785,
-      "rank": 27,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 87241,
       "num": 120757,
       "word": "惹怒虞书欣只需要一个林一",
@@ -25497,6 +25553,14 @@
       "onboard_time": 1741502720,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77083,
+      "num": 176912,
+      "word": "陈飞宇生图",
+      "onboard_time": 1741604544,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 77020,
@@ -28043,6 +28107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 41548,
+      "num": 314957,
+      "word": "叙利亚前政权与现政权互不信任",
+      "onboard_time": 1741610427,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 41537,
       "num": 150534,
       "word": "黄渤说假期没了好伤心",
@@ -28513,6 +28585,14 @@
       "onboard_time": 1740792557,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 36844,
+      "num": 379775,
+      "word": "2025年美丽中国这样建",
+      "onboard_time": 1741610786,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 36767,
@@ -29641,14 +29721,6 @@
       "onboard_time": 1740856813,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 25132,
-      "num": 215007,
-      "word": "叙利亚前政权与现政权互不信任",
-      "onboard_time": 1741610427,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 25038,
@@ -31339,6 +31411,9 @@
     },
     {
       "word": "#总书记与代表委员的暖心对话#"
+    },
+    {
+      "word": "#总书记的两会关心事#"
     }
   ]
 }
