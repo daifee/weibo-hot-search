@@ -1,6 +1,6 @@
 {
   "startTime": 1741537363234,
-  "endTime": 1741595891643,
+  "endTime": 1741598505540,
   "band_list": [
     {
       "raw_hot": 2228194,
@@ -19,6 +19,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 2073653,
+      "num": 252535,
+      "word": "王一博 花期",
+      "onboard_time": 1741596082,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1962100,
       "num": 1962100,
       "word": "温以凡 许沁",
@@ -33,6 +41,14 @@
       "onboard_time": 1741575621,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1554811,
+      "num": 341825,
+      "word": "没有顶流的命 却得了顶流的病",
+      "onboard_time": 1741595062,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 1540296,
@@ -57,6 +73,14 @@
       "onboard_time": 1741532065,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1261538,
+      "num": 252163,
+      "word": "疑似权志龙被排挤",
+      "onboard_time": 1741596082,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 1207311,
@@ -131,6 +155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 853868,
+      "num": 252040,
+      "word": "100寸的行李箱",
+      "onboard_time": 1741595240,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 842019,
       "num": 240243,
       "word": "华晨宇3秒跳下故障升降台",
@@ -187,6 +219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 730170,
+      "num": 251599,
+      "word": "印度一航班12个厕所堵11个被迫返航",
+      "onboard_time": 1741596622,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 711688,
       "num": 435886,
       "word": "不健康的亲密关系要尽早远离",
@@ -217,6 +257,14 @@
       "onboard_time": 1741567881,
       "rank": 8,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 657162,
+      "num": 251436,
+      "word": "宋家三胞胎身高快一米八了",
+      "onboard_time": 1741596322,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 632114,
@@ -312,14 +360,6 @@
       "word": "何炅在1999年写的一篇文章",
       "onboard_time": 1741578381,
       "rank": 7,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 509889,
-      "num": 341825,
-      "word": "没有顶流的命 却得了顶流的病",
-      "onboard_time": 1741595062,
-      "rank": 42,
       "category": "艺人"
     },
     {
@@ -475,6 +515,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 370175,
+      "num": 309712,
+      "word": "报告称职场女性平均月薪8978元",
+      "onboard_time": 1741593080,
+      "rank": 16,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 364252,
       "num": 351948,
       "word": "陈丽君入选中国青年五四奖章拟推荐人选",
@@ -588,7 +636,7 @@
     },
     {
       "raw_hot": 316433,
-      "num": 229651,
+      "num": 250616,
       "word": "13岁男孩过度进补身高定格在165",
       "onboard_time": 1741594221,
       "rank": 19,
@@ -601,14 +649,6 @@
       "onboard_time": 1741524563,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 309712,
-      "num": 309712,
-      "word": "报告称职场女性平均月薪8978元",
-      "onboard_time": 1741593080,
-      "rank": 16,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 303549,
@@ -633,6 +673,14 @@
       "onboard_time": 1741571359,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 295141,
+      "num": 251021,
+      "word": "51岁林志玲状态",
+      "onboard_time": 1741596442,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 292554,
@@ -747,6 +795,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 243501,
+      "num": 243501,
+      "word": "恶作剧之吻裕树都结婚了",
+      "onboard_time": 1741597881,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242219,
       "num": 242219,
       "word": "徐克回应被禁赛十年",
@@ -804,7 +860,7 @@
     },
     {
       "raw_hot": 231603,
-      "num": 205622,
+      "num": 224465,
       "word": "奶奶戴了多年的戒指嵌进肉里",
       "onboard_time": 1741594221,
       "rank": 23,
@@ -971,6 +1027,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190479,
+      "num": 190479,
+      "word": "朱亚文沈佳妮否认离婚后首同框",
+      "onboard_time": 1741596804,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 188329,
+      "num": 188329,
+      "word": "甄子丹怼台记者不是好人",
+      "onboard_time": 1741595841,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 187076,
       "num": 277176,
       "word": "死亡搁浅2",
@@ -1017,6 +1089,14 @@
       "onboard_time": 1741581743,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176947,
+      "num": 176947,
+      "word": "8小时工作8小时休息8小时个人时间",
+      "onboard_time": 1741594282,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176626,
@@ -1115,12 +1195,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 158486,
-      "num": 143961,
-      "word": "100寸的行李箱",
-      "onboard_time": 1741595240,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 161596,
+      "num": 161596,
+      "word": "委员建议年轻人每天攒一杯咖啡钱",
+      "onboard_time": 1741594221,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 158248,
@@ -1137,6 +1217,14 @@
       "onboard_time": 1741520421,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157505,
+      "num": 157505,
+      "word": "DeepSeek好用的关键在于你得会用",
+      "onboard_time": 1741592960,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 154891,
@@ -1195,6 +1283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145951,
+      "num": 252680,
+      "word": "觉得自己胖不一定是真的胖",
+      "onboard_time": 1741597821,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145303,
       "num": 252760,
       "word": "时装周男明星生图",
@@ -1204,19 +1300,19 @@
     },
     {
       "raw_hot": 144025,
-      "num": 144025,
+      "num": 188520,
       "word": "妻子的浪漫旅行 花少5",
       "onboard_time": 1741595481,
       "rank": 28,
       "category": "综艺"
     },
     {
-      "raw_hot": 143876,
-      "num": 143876,
-      "word": "DeepSeek好用的关键在于你得会用",
-      "onboard_time": 1741592960,
-      "rank": 46,
-      "category": "互联网"
+      "raw_hot": 143040,
+      "num": 143040,
+      "word": "超六成女性求职中被问婚育情况",
+      "onboard_time": 1741597282,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141433,
@@ -1233,14 +1329,6 @@
       "onboard_time": 1741592180,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 137633,
-      "num": 137633,
-      "word": "委员建议年轻人每天攒一杯咖啡钱",
-      "onboard_time": 1741594221,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 137293,
@@ -1273,6 +1361,22 @@
       "onboard_time": 1741516399,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135011,
+      "num": 135011,
+      "word": "王嘉尔印尼",
+      "onboard_time": 1741598241,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 133633,
+      "num": 133633,
+      "word": "别再用加班衡量员工敬业度",
+      "onboard_time": 1741597402,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132431,
@@ -1347,14 +1451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129569,
-      "num": 129569,
-      "word": "8小时工作8小时休息8小时个人时间",
-      "onboard_time": 1741594282,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 128646,
       "num": 175160,
       "word": "郑钦文连续实现复仇",
@@ -1376,6 +1472,14 @@
       "word": "店主着急出门吃饭误将顾客锁店内",
       "onboard_time": 1741594820,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124911,
+      "num": 124911,
+      "word": "强制下班",
+      "onboard_time": 1741598302,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -1451,6 +1555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119103,
+      "num": 119103,
+      "word": "德云社全员靠烧饼颜值通过测试",
+      "onboard_time": 1741598423,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118808,
       "num": 118808,
       "word": "难哄芭蕾舞裙吻戏",
@@ -1473,6 +1585,14 @@
       "onboard_time": 1741578622,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 118155,
+      "num": 118155,
+      "word": "滤镜豆瓣7.3分",
+      "onboard_time": 1741596022,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 117664,
@@ -1569,6 +1689,14 @@
       "onboard_time": 1741583002,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110097,
+      "num": 110097,
+      "word": "曝iPhone17Air取消实体SIM卡槽",
+      "onboard_time": 1741596262,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 109925,
@@ -1891,14 +2019,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 70048,
-      "num": 138239,
-      "word": "甄子丹怼台记者不是好人",
-      "onboard_time": 1741595841,
-      "rank": 33,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 69680,
       "num": 148689,
       "word": "王源启程巴黎",
@@ -1963,12 +2083,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 62765,
+      "num": 225158,
+      "word": "国乒重庆冠军赛训练画面",
+      "onboard_time": 1741596381,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62350,
       "num": 88863,
       "word": "董明珠再回应格力专卖店改名",
       "onboard_time": 1741533683,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 61954,
+      "num": 250959,
+      "word": "女子回应每日花百元通勤被指炒作",
+      "onboard_time": 1741597522,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57356,
@@ -2059,6 +2195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 39357,
+      "num": 166343,
+      "word": "郑钦文说膝盖只是皮外伤",
+      "onboard_time": 1741597224,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 39226,
       "num": 120144,
       "word": "女生上PS课发现同学都用王楚钦练习",
@@ -2105,6 +2249,22 @@
       "onboard_time": 1741536261,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 31476,
+      "num": 251870,
+      "word": "在出租屋米袋里发现10万现金报警",
+      "onboard_time": 1741597942,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29852,
+      "num": 188338,
+      "word": "渴望自由的年轻人边打零工边找人生",
+      "onboard_time": 1741597522,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29669,
