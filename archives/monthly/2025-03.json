@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741617768319,
+  "endTime": 1741620396954,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -3331,6 +3331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 656500,
+      "num": 597546,
+      "word": "王楚然演妖妃",
+      "onboard_time": 1741616845,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 655715,
       "num": 655715,
       "word": "靳东建议成立国家遗嘱库",
@@ -6491,6 +6499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 367065,
+      "num": 238011,
+      "word": "坦克300",
+      "onboard_time": 1741616305,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 365947,
       "num": 210433,
       "word": "单休比双休多拿多少钱才算合理",
@@ -7435,6 +7451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 327857,
+      "num": 327857,
+      "word": "复旦将降低文科招生比例",
+      "onboard_time": 1741615645,
+      "rank": 19,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 327604,
       "num": 235535,
       "word": "为什么总在凌晨三四点醒来",
@@ -7553,14 +7577,6 @@
       "onboard_time": 1741340302,
       "rank": 30,
       "category": "数码"
-    },
-    {
-      "raw_hot": 323622,
-      "num": 597546,
-      "word": "王楚然演妖妃",
-      "onboard_time": 1741616845,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 322572,
@@ -8171,6 +8187,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 297859,
+      "num": 297859,
+      "word": "美股",
+      "onboard_time": 1741617564,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 297529,
       "num": 189745,
       "word": "周翊然素颜直播",
@@ -8673,14 +8697,6 @@
       "onboard_time": 1741312700,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 282024,
-      "num": 238011,
-      "word": "坦克300",
-      "onboard_time": 1741616305,
-      "rank": 28,
-      "category": "汽车"
     },
     {
       "raw_hot": 281733,
@@ -10377,6 +10393,14 @@
       "onboard_time": 1741347561,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 227343,
+      "num": 227343,
+      "word": "十个勤天回应商务报价传闻",
+      "onboard_time": 1741619423,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 227326,
@@ -12123,6 +12147,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 200512,
+      "num": 200512,
+      "word": "工地把3名工人吊在安全带使用体验区",
+      "onboard_time": 1741617205,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200406,
       "num": 222015,
       "word": "翟潇闻直播",
@@ -12353,6 +12385,14 @@
       "onboard_time": 1741427963,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196947,
+      "num": 196947,
+      "word": "夫妻吵架丈夫和公公抢走两月大婴儿",
+      "onboard_time": 1741619904,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 196890,
@@ -13097,14 +13137,6 @@
       "onboard_time": 1741343782,
       "rank": 9,
       "category": "演出"
-    },
-    {
-      "raw_hot": 189074,
-      "num": 259443,
-      "word": "复旦将降低文科招生比例",
-      "onboard_time": 1741615645,
-      "rank": 19,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 188994,
@@ -13939,6 +13971,14 @@
       "category": "民生新闻,议题讨论"
     },
     {
+      "raw_hot": 178580,
+      "num": 221565,
+      "word": "五星级酒店为什么开不下去了",
+      "onboard_time": 1741618404,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 178336,
       "num": 178336,
       "word": "程潇向阳花海报",
@@ -14521,14 +14561,6 @@
       "onboard_time": 1741584260,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 172138,
-      "num": 172138,
-      "word": "美股",
-      "onboard_time": 1741617564,
-      "rank": 33,
-      "category": "财经"
     },
     {
       "raw_hot": 172094,
@@ -16137,6 +16169,14 @@
       "onboard_time": 1740980299,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157124,
+      "num": 157124,
+      "word": "侯明昊回复于正我醒了",
+      "onboard_time": 1741618825,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 157080,
@@ -19579,6 +19619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127911,
+      "num": 127911,
+      "word": "26岁小伙泰山陪爬1年赚30多万",
+      "onboard_time": 1741619963,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127780,
       "num": 127780,
       "word": "李嘉琦浪姐6私服",
@@ -19601,6 +19649,14 @@
       "onboard_time": 1741405222,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127617,
+      "num": 127617,
+      "word": "纳斯达克",
+      "onboard_time": 1741618644,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 127603,
@@ -20267,6 +20323,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 123968,
+      "num": 123968,
+      "word": "这些OST都是张远唱的",
+      "onboard_time": 1741619364,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 123767,
       "num": 193500,
       "word": "建议把手机还给孩子",
@@ -20305,6 +20369,14 @@
       "onboard_time": 1741243276,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 123548,
+      "num": 255101,
+      "word": "90后王兴兴献给春天的演讲",
+      "onboard_time": 1741617505,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123474,
@@ -21041,6 +21113,14 @@
       "onboard_time": 1741418121,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118519,
+      "num": 118519,
+      "word": "成何体统",
+      "onboard_time": 1741618166,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 118387,
@@ -23507,6 +23587,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 100209,
+      "num": 100209,
+      "word": "成毅人生到处知何似",
+      "onboard_time": 1741619663,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100201,
       "num": 100201,
       "word": "现在都流行AI牛马了",
@@ -23787,6 +23875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 98087,
+      "num": 98087,
+      "word": "周鹏啥也没干被罚出去了",
+      "onboard_time": 1741620202,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98086,
       "num": 98086,
       "word": "留几手说晚上约杨子喝点",
@@ -24001,14 +24097,6 @@
       "onboard_time": 1740991279,
       "rank": 37,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 96500,
-      "num": 96500,
-      "word": "工地把3名工人吊在安全带使用体验区",
-      "onboard_time": 1741617205,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96481,
@@ -26899,14 +26987,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 62073,
-      "num": 255101,
-      "word": "90后王兴兴献给春天的演讲",
-      "onboard_time": 1741617505,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 62041,
       "num": 209249,
       "word": "代表呼吁为全职妈妈设妈妈岗",
@@ -27489,6 +27569,14 @@
       "onboard_time": 1741327344,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 54384,
+      "num": 187414,
+      "word": "王楚钦称赞重庆场地与设施",
+      "onboard_time": 1741619423,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 54159,
@@ -28969,6 +29057,14 @@
       "onboard_time": 1740797717,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 35660,
+      "num": 277843,
+      "word": "龙飞船本周发射接回滞留太空宇航员",
+      "onboard_time": 1741619904,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 35583,
@@ -31488,6 +31584,14 @@
       "word": "歼10云中特写太绝了",
       "onboard_time": 1740958395,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8464,
+      "num": 198461,
+      "word": "寻夫80余年离世老人曾回应为何不改嫁",
+      "onboard_time": 1741620024,
+      "rank": 22,
       "category": "民生新闻"
     },
     {

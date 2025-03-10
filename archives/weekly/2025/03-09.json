@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741617768319,
+  "endTime": 1741620396954,
   "band_list": [
     {
       "raw_hot": 2815044,
@@ -779,6 +779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 656500,
+      "num": 597546,
+      "word": "王楚然演妖妃",
+      "onboard_time": 1741616845,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 655474,
       "num": 655474,
       "word": "台湾最大的靠山就是祖国",
@@ -1355,6 +1363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 367065,
+      "num": 238011,
+      "word": "坦克300",
+      "onboard_time": 1741616305,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 364252,
       "num": 351948,
       "word": "陈丽君入选中国青年五四奖章拟推荐人选",
@@ -1579,6 +1595,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 327857,
+      "num": 327857,
+      "word": "复旦将降低文科招生比例",
+      "onboard_time": 1741615645,
+      "rank": 19,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 327130,
       "num": 1005428,
       "word": "王一博LOEWE看秀look",
@@ -1600,14 +1624,6 @@
       "word": "桑延温以凡再也不会分开了",
       "onboard_time": 1741524381,
       "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 323622,
-      "num": 597546,
-      "word": "王楚然演妖妃",
-      "onboard_time": 1741616845,
-      "rank": 3,
       "category": "剧集"
     },
     {
@@ -1689,6 +1705,14 @@
       "onboard_time": 1741480578,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 297859,
+      "num": 297859,
+      "word": "美股",
+      "onboard_time": 1741617564,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 297529,
@@ -1793,14 +1817,6 @@
       "onboard_time": 1741527983,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 282024,
-      "num": 238011,
-      "word": "坦克300",
-      "onboard_time": 1741616305,
-      "rank": 28,
-      "category": "汽车"
     },
     {
       "raw_hot": 277624,
@@ -2064,6 +2080,14 @@
       "word": "迪丽热巴早期微博精神状态演我",
       "onboard_time": 1741612645,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 227343,
+      "num": 227343,
+      "word": "十个勤天回应商务报价传闻",
+      "onboard_time": 1741619423,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -2347,6 +2371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 200512,
+      "num": 200512,
+      "word": "工地把3名工人吊在安全带使用体验区",
+      "onboard_time": 1741617205,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200143,
       "num": 273049,
       "word": "抵制特斯拉活动计划在多国举行",
@@ -2385,6 +2417,14 @@
       "onboard_time": 1741506081,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 196947,
+      "num": 196947,
+      "word": "夫妻吵架丈夫和公公抢走两月大婴儿",
+      "onboard_time": 1741619904,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 196789,
@@ -2563,14 +2603,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 189074,
-      "num": 259443,
-      "word": "复旦将降低文科招生比例",
-      "onboard_time": 1741615645,
-      "rank": 19,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 188329,
       "num": 188329,
       "word": "甄子丹怼台记者不是好人",
@@ -2707,6 +2739,14 @@
       "category": "民生新闻,议题讨论"
     },
     {
+      "raw_hot": 178580,
+      "num": 221565,
+      "word": "五星级酒店为什么开不下去了",
+      "onboard_time": 1741618404,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177981,
       "num": 184109,
       "word": "宣璐发文为刘诗诗庆生",
@@ -2809,14 +2849,6 @@
       "onboard_time": 1741584260,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 172138,
-      "num": 172138,
-      "word": "美股",
-      "onboard_time": 1741617564,
-      "rank": 33,
-      "category": "财经"
     },
     {
       "raw_hot": 172019,
@@ -3112,6 +3144,14 @@
       "word": "爱你 杭州宣传片",
       "onboard_time": 1741580242,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 157124,
+      "num": 157124,
+      "word": "侯明昊回复于正我醒了",
+      "onboard_time": 1741618825,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -3747,6 +3787,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127911,
+      "num": 127911,
+      "word": "26岁小伙泰山陪爬1年赚30多万",
+      "onboard_time": 1741619963,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127617,
+      "num": 127617,
+      "word": "纳斯达克",
+      "onboard_time": 1741618644,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 127190,
       "num": 127190,
       "word": "带着8只小狗卖艺的女人",
@@ -3875,6 +3931,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 123968,
+      "num": 123968,
+      "word": "这些OST都是张远唱的",
+      "onboard_time": 1741619364,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 123767,
       "num": 193500,
       "word": "建议把手机还给孩子",
@@ -3889,6 +3953,14 @@
       "onboard_time": 1741443623,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123548,
+      "num": 255101,
+      "word": "90后王兴兴献给春天的演讲",
+      "onboard_time": 1741617505,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123463,
@@ -4137,6 +4209,14 @@
       "onboard_time": 1741559956,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 118519,
+      "num": 118519,
+      "word": "成何体统",
+      "onboard_time": 1741618166,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 118285,
@@ -4763,6 +4843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100209,
+      "num": 100209,
+      "word": "成毅人生到处知何似",
+      "onboard_time": 1741619663,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100201,
       "num": 100201,
       "word": "现在都流行AI牛马了",
@@ -4859,6 +4947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 98087,
+      "num": 98087,
+      "word": "周鹏啥也没干被罚出去了",
+      "onboard_time": 1741620202,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97609,
       "num": 97609,
       "word": "TTG绝境翻盘",
@@ -4881,14 +4977,6 @@
       "onboard_time": 1741478838,
       "rank": 47,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 96500,
-      "num": 96500,
-      "word": "工地把3名工人吊在安全带使用体验区",
-      "onboard_time": 1741617205,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96438,
@@ -5563,14 +5651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 62073,
-      "num": 255101,
-      "word": "90后王兴兴献给春天的演讲",
-      "onboard_time": 1741617505,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 60674,
       "num": 71426,
       "word": "吴艳妮的后程没有对手",
@@ -5657,6 +5737,14 @@
       "onboard_time": 1741587680,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 54384,
+      "num": 187414,
+      "word": "王楚钦称赞重庆场地与设施",
+      "onboard_time": 1741619423,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 53249,
@@ -5913,6 +6001,14 @@
       "onboard_time": 1741525161,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 35660,
+      "num": 277843,
+      "word": "龙飞船本周发射接回滞留太空宇航员",
+      "onboard_time": 1741619904,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 35277,
@@ -6353,6 +6449,14 @@
       "onboard_time": 1741587500,
       "rank": 28,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 8464,
+      "num": 198461,
+      "word": "寻夫80余年离世老人曾回应为何不改嫁",
+      "onboard_time": 1741620024,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 6871,
