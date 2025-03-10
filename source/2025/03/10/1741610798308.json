@@ -1,0 +1,410 @@
+{
+  "runTime": 1741610798308,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 993672,
+        "num": 1158987,
+        "word": "哪吒2票房站上149亿",
+        "onboard_time": 1741606283,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 411723,
+        "num": 411723,
+        "word": "国家版减肥指南来了",
+        "onboard_time": 1741604126,
+        "rank": 1,
+        "category": "民生新闻,运动健身"
+      },
+      {
+        "raw_hot": 12382,
+        "num": 351432,
+        "word": "2025看两会",
+        "onboard_time": 1741610605,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1670296,
+        "num": 336732,
+        "word": "韩国歌手辉星去世",
+        "onboard_time": 1741606584,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320204,
+        "num": 320204,
+        "word": "零跑价格",
+        "onboard_time": 1741608445,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 539999,
+        "num": 289233,
+        "word": "00后用DeepSeek1天卖出3.3亿",
+        "onboard_time": 1741581743,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 341432,
+        "num": 282538,
+        "word": "滤镜停更",
+        "onboard_time": 1741602742,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325941,
+        "num": 274600,
+        "word": "为何选择张艺兴出演敦煌话剧",
+        "onboard_time": 1741608026,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 236810,
+        "num": 236810,
+        "word": "HLE对战TES",
+        "onboard_time": 1741592122,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 219193,
+        "num": 219193,
+        "word": "印度一航班12个厕所堵11个被迫返航",
+        "onboard_time": 1741596622,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1428646,
+        "num": 218654,
+        "word": "金秀贤想在41岁时和21岁的女孩结婚",
+        "onboard_time": 1741608625,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 910548,
+        "num": 218609,
+        "word": "金赛纶家人发声",
+        "onboard_time": 1741606946,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 714155,
+        "num": 218002,
+        "word": "王一博 花期",
+        "onboard_time": 1741596082,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432488,
+        "num": 217355,
+        "word": "叙利亚爆发大规模报复性仇杀",
+        "onboard_time": 1741598842,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 172946,
+        "num": 216747,
+        "word": "虐杀猫狗是踩踏良知和人性",
+        "onboard_time": 1741609044,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158974,
+        "num": 216212,
+        "word": "巴黎街角的杨幂",
+        "onboard_time": 1741604663,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 34348,
+        "num": 215630,
+        "word": "家事律师认为父母抢夺子女应入刑",
+        "onboard_time": 1741609223,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 25132,
+        "num": 215007,
+        "word": "叙利亚前政权与现政权互不信任",
+        "onboard_time": 1741610427,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53338,
+        "num": 214279,
+        "word": "你的家乡会有哪些政策支持",
+        "onboard_time": 1741601542,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1047066,
+        "num": 213551,
+        "word": "金赛纶家属呼吁惩罚金秀贤等人",
+        "onboard_time": 1741606764,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402402,
+        "num": 213272,
+        "word": "疑似权志龙被排挤",
+        "onboard_time": 1741596082,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348227,
+        "num": 212458,
+        "word": "海底捞将起诉向火锅内小便男子",
+        "onboard_time": 1741605204,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276287,
+        "num": 212140,
+        "word": "阚清子自曝体重113斤",
+        "onboard_time": 1741600043,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260418,
+        "num": 211311,
+        "word": "多家大厂开始强制下班",
+        "onboard_time": 1741598302,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20257,
+        "num": 210841,
+        "word": "游戏少年一路打成家族群骄傲",
+        "onboard_time": 1741600942,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 246683,
+        "num": 210634,
+        "word": "恶作剧之吻裕树都结婚了",
+        "onboard_time": 1741597881,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210121,
+        "num": 210121,
+        "word": "王一博LOEWE看秀look",
+        "onboard_time": 1741605805,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 87248,
+        "num": 204505,
+        "word": "中戏院长说演员拼到最后是拼文化",
+        "onboard_time": 1741607785,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 153784,
+        "num": 202185,
+        "word": "觉得自己胖不一定是真的胖",
+        "onboard_time": 1741597821,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200001,
+        "num": 200001,
+        "word": "宋家三胞胎身高快一米八了",
+        "onboard_time": 1741596322,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130864,
+        "num": 189916,
+        "word": "反内卷就应该从反加班开始",
+        "onboard_time": 1741609344,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184935,
+        "num": 184935,
+        "word": "没有顶流的命 却得了顶流的病",
+        "onboard_time": 1741595062,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179845,
+        "num": 179845,
+        "word": "中国女游客在斯里兰卡火车上探身坠落",
+        "onboard_time": 1741600103,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169179,
+        "num": 169179,
+        "word": "减肥4年后绝大多数人恢复之前体重",
+        "onboard_time": 1741584921,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 139397,
+        "num": 163532,
+        "word": "孙颖莎练着练着就抠上手了",
+        "onboard_time": 1741605926,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160357,
+        "num": 160357,
+        "word": "难哄大结局",
+        "onboard_time": 1741581683,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153830,
+        "num": 153830,
+        "word": "英语28分大学生勇闯马来西亚",
+        "onboard_time": 1741606704,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131454,
+        "num": 149465,
+        "word": "北上",
+        "onboard_time": 1741610066,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147374,
+        "num": 147374,
+        "word": "Jennie演唱会红衣花絮",
+        "onboard_time": 1741609645,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146757,
+        "num": 146757,
+        "word": "胡歌谈女儿涂鸦玻璃窗满眼宠溺",
+        "onboard_time": 1741610485,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137137,
+        "num": 137137,
+        "word": "张新成喂鸡vlog",
+        "onboard_time": 1741610246,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132210,
+        "num": 132210,
+        "word": "吴宣仪哭后用粉丝信挡脸",
+        "onboard_time": 1741607005,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130344,
+        "num": 130344,
+        "word": "13岁男孩过度进补身高定格在165",
+        "onboard_time": 1741594221,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129092,
+        "num": 129092,
+        "word": "田志希账号名后缀备孕ing",
+        "onboard_time": 1741610668,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104610,
+        "num": 128675,
+        "word": "博主在刘宇直播间团建",
+        "onboard_time": 1741609284,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128456,
+        "num": 128456,
+        "word": "都说了不能夸虞书欣任何一套look",
+        "onboard_time": 1741609887,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121502,
+        "num": 121502,
+        "word": "报告称职场女性平均月薪8978元",
+        "onboard_time": 1741593080,
+        "rank": 46,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 115348,
+        "num": 115348,
+        "word": "外交部回应中国台湾省称谓",
+        "onboard_time": 1741593321,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 107382,
+        "num": 107382,
+        "word": "林志玲扛住了外媒镜头",
+        "onboard_time": 1741607005,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106560,
+        "num": 106560,
+        "word": "滤镜豆瓣7.3分",
+        "onboard_time": 1741596022,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记与代表委员的暖心对话#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741606524883,
+  "endTime": 1741610798308,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -587,6 +587,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1670296,
+      "num": 336732,
+      "word": "韩国歌手辉星去世",
+      "onboard_time": 1741606584,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1668326,
       "num": 355953,
       "word": "郑乃馨说和硬糖少女没联系",
@@ -825,6 +833,14 @@
       "onboard_time": 1741225577,
       "rank": 49,
       "category": "互联网,数码"
+    },
+    {
+      "raw_hot": 1428646,
+      "num": 218654,
+      "word": "金秀贤想在41岁时和21岁的女孩结婚",
+      "onboard_time": 1741608625,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1424492,
@@ -1507,6 +1523,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 1047066,
+      "num": 213551,
+      "word": "金赛纶家属呼吁惩罚金秀贤等人",
+      "onboard_time": 1741606764,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1045499,
       "num": 419255,
       "word": "同栋楼数十名男业主女友竟是同一人",
@@ -1665,6 +1689,14 @@
       "onboard_time": 1740815906,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 993672,
+      "num": 1158987,
+      "word": "哪吒2票房站上149亿",
+      "onboard_time": 1741606283,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 992917,
@@ -1921,6 +1953,14 @@
       "onboard_time": 1741572798,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 910548,
+      "num": 218609,
+      "word": "金赛纶家人发声",
+      "onboard_time": 1741606946,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 906373,
@@ -5675,6 +5715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 411723,
+      "num": 411723,
+      "word": "国家版减肥指南来了",
+      "onboard_time": 1741604126,
+      "rank": 49,
+      "category": "民生新闻,运动健身"
+    },
+    {
       "raw_hot": 411435,
       "num": 290314,
       "word": "曝上村谦信涉嫌性骚扰被捕",
@@ -7379,6 +7427,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 325941,
+      "num": 274600,
+      "word": "为何选择张艺兴出演敦煌话剧",
+      "onboard_time": 1741608026,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 325245,
       "num": 269227,
       "word": "网传张艺兴出演女足",
@@ -7489,6 +7545,14 @@
       "onboard_time": 1740931877,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 320204,
+      "num": 320204,
+      "word": "零跑价格",
+      "onboard_time": 1741608445,
+      "rank": 4,
+      "category": "汽车"
     },
     {
       "raw_hot": 320183,
@@ -9923,6 +9987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236810,
+      "num": 453336,
+      "word": "HLE对战TES",
+      "onboard_time": 1741592122,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 236561,
       "num": 236561,
       "word": "孟子义早期生图",
@@ -10809,14 +10881,6 @@
       "onboard_time": 1740751221,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 215685,
-      "num": 1003798,
-      "word": "哪吒2票房站上149亿",
-      "onboard_time": 1741606283,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 215665,
@@ -12097,14 +12161,6 @@
       "onboard_time": 1740833783,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 198020,
-      "num": 453336,
-      "word": "HLE对战TES",
-      "onboard_time": 1741592122,
-      "rank": 27,
-      "category": "电竞"
     },
     {
       "raw_hot": 197745,
@@ -14259,6 +14315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172946,
+      "num": 216747,
+      "word": "虐杀猫狗是踩踏良知和人性",
+      "onboard_time": 1741609044,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172807,
       "num": 172807,
       "word": "杨紫脏脏包造型",
@@ -15635,6 +15699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158974,
+      "num": 290364,
+      "word": "巴黎街角的杨幂",
+      "onboard_time": 1741604663,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 158960,
       "num": 158960,
       "word": "Doinb拿到五星卡",
@@ -16273,6 +16345,14 @@
       "onboard_time": 1740830722,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153830,
+      "num": 153830,
+      "word": "英语28分大学生勇闯马来西亚",
+      "onboard_time": 1741606704,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 153753,
@@ -17051,6 +17131,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 147374,
+      "num": 147374,
+      "word": "Jennie演唱会红衣花絮",
+      "onboard_time": 1741609645,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 147356,
       "num": 147356,
       "word": "红绿灯的黄抖音已断更5个月",
@@ -17121,6 +17209,14 @@
       "onboard_time": 1741526544,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146757,
+      "num": 146757,
+      "word": "胡歌谈女儿涂鸦玻璃窗满眼宠溺",
+      "onboard_time": 1741610485,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 146747,
@@ -17297,14 +17393,6 @@
       "onboard_time": 1741575321,
       "rank": 18,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 145181,
-      "num": 290364,
-      "word": "巴黎街角的杨幂",
-      "onboard_time": 1741604663,
-      "rank": 25,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 145150,
@@ -18043,6 +18131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139397,
+      "num": 163532,
+      "word": "孙颖莎练着练着就抠上手了",
+      "onboard_time": 1741605926,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139382,
       "num": 139382,
       "word": "林心如G社生图",
@@ -18257,6 +18353,14 @@
       "onboard_time": 1740918440,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 137137,
+      "num": 137137,
+      "word": "张新成喂鸡vlog",
+      "onboard_time": 1741610246,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 137087,
@@ -18771,6 +18875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 132210,
+      "num": 132210,
+      "word": "吴宣仪哭后用粉丝信挡脸",
+      "onboard_time": 1741607005,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132191,
       "num": 132191,
       "word": "鞠婧祎强烈对比",
@@ -18881,6 +18993,14 @@
       "onboard_time": 1741357643,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 130864,
+      "num": 189916,
+      "word": "反内卷就应该从反加班开始",
+      "onboard_time": 1741609344,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130842,
@@ -19107,6 +19227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 129092,
+      "num": 129092,
+      "word": "田志希账号名后缀备孕ing",
+      "onboard_time": 1741610668,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129016,
       "num": 129016,
       "word": "诚C联赛2300淘汰",
@@ -19201,6 +19329,14 @@
       "onboard_time": 1741268724,
       "rank": 36,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 128456,
+      "num": 128456,
+      "word": "都说了不能夸虞书欣任何一套look",
+      "onboard_time": 1741609887,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 128428,
@@ -19528,14 +19664,6 @@
       "word": "郭艾伦眼伤已拆线",
       "onboard_time": 1741092320,
       "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 126389,
-      "num": 126389,
-      "word": "孙颖莎练着练着就抠上手了",
-      "onboard_time": 1741605926,
-      "rank": 37,
       "category": "体育"
     },
     {
@@ -22179,6 +22307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107382,
+      "num": 107382,
+      "word": "林志玲扛住了外媒镜头",
+      "onboard_time": 1741607005,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107346,
       "num": 143007,
       "word": "于正跟许凯共度的第九个生日",
@@ -22595,6 +22731,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 104610,
+      "num": 128675,
+      "word": "博主在刘宇直播间团建",
+      "onboard_time": 1741609284,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104514,
       "num": 104514,
       "word": "刘浩存饭撒",
@@ -22769,14 +22913,6 @@
       "onboard_time": 1741268062,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 103250,
-      "num": 103250,
-      "word": "国家版减肥指南来了",
-      "onboard_time": 1741604126,
-      "rank": 49,
-      "category": "民生新闻,运动健身"
     },
     {
       "raw_hot": 103225,
@@ -22996,7 +23132,7 @@
     },
     {
       "raw_hot": 101346,
-      "num": 101346,
+      "num": 210841,
       "word": "游戏少年一路打成家族群骄傲",
       "onboard_time": 1741600942,
       "rank": 46,
@@ -24593,6 +24729,14 @@
       "onboard_time": 1740825502,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 87248,
+      "num": 204505,
+      "word": "中戏院长说演员拼到最后是拼文化",
+      "onboard_time": 1741607785,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 87241,
@@ -28627,6 +28771,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 34348,
+      "num": 215630,
+      "word": "家事律师认为父母抢夺子女应入刑",
+      "onboard_time": 1741609223,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 33910,
       "num": 158841,
       "word": "三年追问只为一张看得清的药品说明书",
@@ -29489,6 +29641,14 @@
       "onboard_time": 1740856813,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25132,
+      "num": 215007,
+      "word": "叙利亚前政权与现政权互不信任",
+      "onboard_time": 1741610427,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 25038,
@@ -30696,6 +30856,14 @@
       "word": "两会热词条",
       "onboard_time": 1741468334,
       "rank": 42,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 12382,
+      "num": 351432,
+      "word": "2025看两会",
+      "onboard_time": 1741610605,
+      "rank": 2,
       "category": "国内时政"
     },
     {
