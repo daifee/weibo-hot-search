@@ -1,0 +1,402 @@
+{
+  "runTime": 1741595891643,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 605233,
+        "num": 1096837,
+        "word": "减肥4年后绝大多数人恢复之前体重",
+        "onboard_time": 1741584921,
+        "rank": 0,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 543424,
+        "num": 543424,
+        "word": "外交部回应中国台湾省称谓",
+        "onboard_time": 1741593321,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 42929,
+        "num": 531056,
+        "word": "一图速览两会民生热点",
+        "onboard_time": 1741577721,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 770189,
+        "num": 497680,
+        "word": "成都动物园回应黑豹肚子大到快拖地",
+        "onboard_time": 1741591939,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 637398,
+        "num": 435886,
+        "word": "不健康的亲密关系要尽早远离",
+        "onboard_time": 1741590200,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1351173,
+        "num": 428494,
+        "word": "00后用DeepSeek1天卖出3.3亿",
+        "onboard_time": 1741581743,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 399205,
+        "num": 399205,
+        "word": "张文宏说采访他的记者肚子太大",
+        "onboard_time": 1741589900,
+        "rank": 6,
+        "category": "国内时政,健康医疗"
+      },
+      {
+        "raw_hot": 357827,
+        "num": 357827,
+        "word": "难哄大结局",
+        "onboard_time": 1741581683,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 352483,
+        "num": 352483,
+        "word": "陆虎在半熟4看熟人谈恋爱",
+        "onboard_time": 1741593681,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364252,
+        "num": 350503,
+        "word": "陈丽君入选中国青年五四奖章拟推荐人选",
+        "onboard_time": 1741593500,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 792664,
+        "num": 344470,
+        "word": "吴宣仪在机场哭了",
+        "onboard_time": 1741591821,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 509889,
+        "num": 341825,
+        "word": "没有顶流的命 却得了顶流的病",
+        "onboard_time": 1741595062,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 437204,
+        "num": 333126,
+        "word": "景甜的心愿是结婚",
+        "onboard_time": 1741590380,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332007,
+        "num": 332007,
+        "word": "张凌赫这很江苏了",
+        "onboard_time": 1741592122,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309712,
+        "num": 309712,
+        "word": "报告称职场女性平均月薪8978元",
+        "onboard_time": 1741593080,
+        "rank": 14,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 617186,
+        "num": 287207,
+        "word": "吴宣仪说娱乐圈人心是让人失望的",
+        "onboard_time": 1741580543,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252143,
+        "num": 252143,
+        "word": "奔跑吧13阵容有新变动",
+        "onboard_time": 1741575621,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216967,
+        "num": 216967,
+        "word": "爱你 民政局暗广",
+        "onboard_time": 1741588460,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226857,
+        "num": 215376,
+        "word": "邓为登顶2月微博演员热度报告",
+        "onboard_time": 1741595123,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312469,
+        "num": 211823,
+        "word": "13岁男孩过度进补身高定格在165",
+        "onboard_time": 1741594221,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256147,
+        "num": 208071,
+        "word": "拒绝复旦学生好爽",
+        "onboard_time": 1741575921,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 231603,
+        "num": 205622,
+        "word": "奶奶戴了多年的戒指嵌进肉里",
+        "onboard_time": 1741594221,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204836,
+        "num": 204836,
+        "word": "滤镜三部现偶豆瓣开分最高",
+        "onboard_time": 1741594641,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199550,
+        "num": 199550,
+        "word": "北上停更三天憋了个大的",
+        "onboard_time": 1741592122,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198961,
+        "num": 198961,
+        "word": "iPhone17系列新机模上手",
+        "onboard_time": 1741579821,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 186471,
+        "num": 186471,
+        "word": "女孩发现司机头像吓人主动帮重拍",
+        "onboard_time": 1741582882,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163505,
+        "num": 163505,
+        "word": "成都动物园胖黑豹已安排减肥",
+        "onboard_time": 1741592541,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147944,
+        "num": 147944,
+        "word": "郑钦文摔倒流血",
+        "onboard_time": 1741584921,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144025,
+        "num": 144025,
+        "word": "妻子的浪漫旅行 花少5",
+        "onboard_time": 1741595481,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166407,
+        "num": 143985,
+        "word": "王一博生图",
+        "onboard_time": 1741578503,
+        "rank": 29,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 158486,
+        "num": 143961,
+        "word": "100寸的行李箱",
+        "onboard_time": 1741595240,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143876,
+        "num": 143876,
+        "word": "DeepSeek好用的关键在于你得会用",
+        "onboard_time": 1741592960,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 142261,
+        "num": 142261,
+        "word": "虞书欣 讨厌没有边界感的BGM",
+        "onboard_time": 1741593741,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70048,
+        "num": 138239,
+        "word": "甄子丹怼台记者不是好人",
+        "onboard_time": 1741595841,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 137633,
+        "num": 137633,
+        "word": "委员建议年轻人每天攒一杯咖啡钱",
+        "onboard_time": 1741594221,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 133586,
+        "num": 133586,
+        "word": "蹲便冲水细菌是坐便的2倍",
+        "onboard_time": 1741578442,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 130617,
+        "num": 130617,
+        "word": "SEVENTEEN团综直播",
+        "onboard_time": 1741595481,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12990,
+        "num": 130163,
+        "word": "初步举证是朱迪科默首次参演话剧",
+        "onboard_time": 1741595841,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130135,
+        "num": 130135,
+        "word": "叙利亚",
+        "onboard_time": 1741583722,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129569,
+        "num": 129569,
+        "word": "8小时工作8小时休息8小时个人时间",
+        "onboard_time": 1741594282,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128488,
+        "num": 128488,
+        "word": "温以凡 许沁",
+        "onboard_time": 1741576821,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62875,
+        "num": 126349,
+        "word": "借宠物领养引流牟利乱象曝光",
+        "onboard_time": 1741593860,
+        "rank": 41,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 125401,
+        "num": 125401,
+        "word": "店主着急出门吃饭误将顾客锁店内",
+        "onboard_time": 1741594820,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119241,
+        "num": 119241,
+        "word": "约基奇遍体鳞伤",
+        "onboard_time": 1741594700,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114786,
+        "num": 114786,
+        "word": "北上他们想要儿子我只是假小子",
+        "onboard_time": 1741594521,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115804,
+        "num": 114401,
+        "word": "一旦穿过这四种鞋你的人生就定型了",
+        "onboard_time": 1741585521,
+        "rank": 45,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 111403,
+        "num": 111403,
+        "word": "张晚意跪求戏哭红眼眶",
+        "onboard_time": 1741592180,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106335,
+        "num": 106335,
+        "word": "郑钦文坦诚回应会不会记仇",
+        "onboard_time": 1741593080,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105820,
+        "num": 105820,
+        "word": "吉赛尔还拿着王老吉",
+        "onboard_time": 1741593741,
+        "rank": 48,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平等党和国家领导人出席政协闭幕会#"
+    }
+  }
+}
