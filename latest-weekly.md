@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/03/09 00:22:49 ~ 2025/03/11 00:44:42
+本榜单时间：2025/03/09 00:22:49 ~ 2025/03/11 01:21:49
 </p>
 </blockquote>
 <p>
@@ -4581,6 +4581,12 @@ BLG决胜巅峰分部成立（热度：48582）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2318%E5%B2%81%E5%8D%B0%E5%BA%A6%E5%B0%91%E5%B9%B4%E8%8E%B7%E6%9C%80%E6%AF%9B%E8%84%B8%E5%90%89%E5%B0%BC%E6%96%AF%E7%BA%AA%E5%BD%95%23" target="weibo">
+18岁印度少年获最毛脸吉尼斯纪录（热度：34343）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AF%BB%E5%A4%AB80%E4%BD%99%E5%B9%B4%E7%A6%BB%E4%B8%96%E8%80%81%E4%BA%BA%E6%9B%BE%E5%9B%9E%E5%BA%94%E4%B8%BA%E4%BD%95%E4%B8%8D%E6%94%B9%E5%AB%81%23" target="weibo">
 寻夫80余年离世老人曾回应为何不改嫁（热度：34316）
 </a>
@@ -4715,6 +4721,12 @@ AI假靳东越来越难防（热度：30374）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9ALacoste%E5%A4%A7%E7%A7%80G%E7%A4%BE%E7%94%9F%E5%9B%BE%23" target="weibo">
 王一博Lacoste大秀G社生图（热度：25775）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E6%B2%BF%E6%B5%B7%E4%B8%80%E7%BE%8E%E5%9B%BD%E5%8C%96%E5%AD%A6%E5%93%81%E6%B2%B9%E8%BD%AE%E8%B5%B7%E7%81%AB%23" target="weibo">
+英国沿海一美国化学品油轮起火（热度：25540）
 </a>
 </li>
 
