@@ -1,6 +1,6 @@
 {
   "startTime": 1741624073347,
-  "endTime": 1741689812656,
+  "endTime": 1741692044240,
   "band_list": [
     {
       "raw_hot": 21330054,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1188381,
-      "num": 665869,
+      "num": 1095456,
       "word": "偷偷录音是不尊重医生行为",
       "onboard_time": 1741673662,
       "rank": 30,
@@ -315,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 505555,
+      "num": 505555,
+      "word": "徐克自曝通话记录",
+      "onboard_time": 1741688604,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 498355,
       "num": 498355,
       "word": "鼓励生育不能政策请客企业埋单",
@@ -337,6 +345,14 @@
       "onboard_time": 1741656141,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 479874,
+      "num": 300219,
+      "word": "华为多名产品线负责人被开除",
+      "onboard_time": 1741687104,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 445643,
@@ -499,20 +515,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 345053,
+      "num": 345053,
+      "word": "越幸福的人说废话越多",
+      "onboard_time": 1741685422,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 342235,
       "num": 294348,
       "word": "00后用DeepSeek1天卖出3.3亿",
       "onboard_time": 1741581743,
       "rank": 5,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 337735,
-      "num": 337735,
-      "word": "越幸福的人说废话越多",
-      "onboard_time": 1741685422,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 335702,
@@ -595,20 +611,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 309292,
-      "num": 300219,
-      "word": "华为多名产品线负责人被开除",
-      "onboard_time": 1741687104,
-      "rank": 17,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 306312,
       "num": 306312,
       "word": "为什么现在的商场爱叫xx里",
       "onboard_time": 1741620623,
       "rank": 8,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 304538,
+      "num": 304538,
+      "word": "孙颖莎vs波尔卡诺娃",
+      "onboard_time": 1741689263,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 302851,
@@ -649,14 +665,6 @@
       "onboard_time": 1741656682,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 299166,
-      "num": 299166,
-      "word": "徐克自曝通话记录",
-      "onboard_time": 1741688604,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 298908,
@@ -947,6 +955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 222906,
+      "num": 277785,
+      "word": "主播称上亿元玉石99元送老人",
+      "onboard_time": 1741690164,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222021,
       "num": 326434,
       "word": "周杰伦晒出比耶录音照",
@@ -1099,6 +1115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191093,
+      "num": 191093,
+      "word": "牛马8分钟抵24小时休息法",
+      "onboard_time": 1741687886,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 190409,
       "num": 190409,
       "word": "韩国歌手辉星去世",
@@ -1113,6 +1137,22 @@
       "onboard_time": 1741685003,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188683,
+      "num": 188683,
+      "word": "14岁少女清洗文身要花76万谁之过",
+      "onboard_time": 1741691424,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187541,
+      "num": 176175,
+      "word": "孙颖莎11比9波尔卡诺娃",
+      "onboard_time": 1741691904,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 187193,
@@ -1187,6 +1227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177975,
+      "num": 203772,
+      "word": "滤镜大结局",
+      "onboard_time": 1741690704,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176215,
       "num": 176215,
       "word": "白敬亭我到底是什么辈分",
@@ -1201,14 +1249,6 @@
       "onboard_time": 1741617564,
       "rank": 9,
       "category": "财经"
-    },
-    {
-      "raw_hot": 174622,
-      "num": 174622,
-      "word": "牛马8分钟抵24小时休息法",
-      "onboard_time": 1741687886,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 174536,
@@ -1265,6 +1305,14 @@
       "onboard_time": 1741679842,
       "rank": 30,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 166559,
+      "num": 187255,
+      "word": "等了23集男女主从克制吻到放肆",
+      "onboard_time": 1741690404,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 162949,
@@ -1411,6 +1459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150666,
+      "num": 186618,
+      "word": "曾可妮回应把裤子套在身上",
+      "onboard_time": 1741690284,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147286,
       "num": 251156,
       "word": "第3场代表通道",
@@ -1555,6 +1611,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 135706,
+      "num": 135706,
+      "word": "百万埃尔法车主破防了",
+      "onboard_time": 1741688965,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135248,
+      "num": 135248,
+      "word": "孙颖莎削球训练",
+      "onboard_time": 1741690284,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134848,
       "num": 134848,
       "word": "我是大彬同学回应鸿蒙智行法务",
@@ -1635,14 +1707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 125858,
-      "num": 125858,
-      "word": "百万埃尔法车主破防了",
-      "onboard_time": 1741688965,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125673,
       "num": 125673,
       "word": "媒体评多家企业加入反内卷浪潮",
@@ -1721,14 +1785,6 @@
       "onboard_time": 1741602742,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 119054,
-      "num": 263410,
-      "word": "孙颖莎vs波尔卡诺娃",
-      "onboard_time": 1741689263,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 117728,
@@ -1843,6 +1899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106348,
+      "num": 273134,
+      "word": "孙颖莎3比0波尔卡诺娃",
+      "onboard_time": 1741691723,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106178,
       "num": 164050,
       "word": "孙颖莎蒯曼重庆冠军赛首秀",
@@ -1859,12 +1923,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104834,
+      "num": 104834,
+      "word": "时代少年团旅行问答",
+      "onboard_time": 1741691304,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103911,
       "num": 190164,
       "word": "胡歌谈女儿涂鸦玻璃窗满眼宠溺",
       "onboard_time": 1741610485,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103767,
+      "num": 103767,
+      "word": "武林外传直播",
+      "onboard_time": 1741691784,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 103649,
@@ -2187,6 +2267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 66399,
+      "num": 184787,
+      "word": "全球资本转向热捧中国资产",
+      "onboard_time": 1741691603,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 65521,
       "num": 190057,
       "word": "王兴兴说时代不会辜负长期主义者",
@@ -2217,6 +2305,14 @@
       "onboard_time": 1741689025,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 57954,
+      "num": 184078,
+      "word": "深圳一商场设父婴室",
+      "onboard_time": 1741691186,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57333,
@@ -2259,12 +2355,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 56076,
+      "num": 211230,
+      "word": "别让抵制加班昙花一现",
+      "onboard_time": 1741688425,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55192,
       "num": 189908,
       "word": "龙飞船本周发射接回滞留太空宇航员",
       "onboard_time": 1741619904,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 54269,
+      "num": 105777,
+      "word": "直播间喊爹妈演互撕套路老年人",
+      "onboard_time": 1741692024,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54029,
@@ -2403,6 +2515,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 40912,
+      "num": 406600,
+      "word": "中国稳健发展为世界带来信心与力量",
+      "onboard_time": 1741688185,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 39885,
       "num": 243372,
       "word": "这辈子都等不到续作的动画",
@@ -2420,7 +2540,7 @@
     },
     {
       "raw_hot": 38583,
-      "num": 144445,
+      "num": 188008,
       "word": "秀场上的第一视角",
       "onboard_time": 1741689263,
       "rank": 36,
@@ -2457,6 +2577,14 @@
       "onboard_time": 1741675222,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35036,
+      "num": 200142,
+      "word": "杜特尔特与马科斯家族权力之争升级",
+      "onboard_time": 1741690345,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 33960,
@@ -2497,14 +2625,6 @@
       "onboard_time": 1741684702,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 33208,
-      "num": 406600,
-      "word": "中国稳健发展为世界带来信心与力量",
-      "onboard_time": 1741688185,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 32424,
@@ -2579,6 +2699,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 22726,
+      "num": 135884,
+      "word": "夸克比家长还会教作文",
+      "onboard_time": 1741689263,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 22338,
       "num": 145613,
       "word": "我的宝藏食谱",
@@ -2617,14 +2745,6 @@
       "onboard_time": 1741636394,
       "rank": 46,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 11750,
-      "num": 135884,
-      "word": "夸克比家长还会教作文",
-      "onboard_time": 1741689263,
-      "rank": 38,
-      "category": "互联网"
     },
     {
       "raw_hot": 11607,
