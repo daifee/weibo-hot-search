@@ -1,6 +1,6 @@
 {
   "startTime": 1741710703289,
-  "endTime": 1741729001194,
+  "endTime": 1741731739321,
   "band_list": [
     {
       "raw_hot": 1917180,
@@ -65,6 +65,14 @@
       "onboard_time": 1741703905,
       "rank": 6,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 360015,
+      "num": 53783,
+      "word": "金秀贤最新ins已经被攻陷",
+      "onboard_time": 1741728014,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 343705,
@@ -177,14 +185,6 @@
       "onboard_time": 1741696224,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 156702,
-      "num": 29751,
-      "word": "金秀贤最新ins已经被攻陷",
-      "onboard_time": 1741728014,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 150942,
@@ -452,7 +452,7 @@
     },
     {
       "raw_hot": 45165,
-      "num": 37799,
+      "num": 46914,
       "word": "文淇称转型做导演是因为选择太少",
       "onboard_time": 1741714818,
       "rank": 21,
@@ -476,7 +476,7 @@
     },
     {
       "raw_hot": 37913,
-      "num": 37913,
+      "num": 46190,
       "word": "雷军反内耗神句",
       "onboard_time": 1741714396,
       "rank": 48,
@@ -489,6 +489,22 @@
       "onboard_time": 1741717634,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 25963,
+      "num": 47287,
+      "word": "王一博巴黎时装周",
+      "onboard_time": 1741730174,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 25677,
+      "num": 46661,
+      "word": "大学生坠崖地空接力救援",
+      "onboard_time": 1741728854,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24630,
@@ -508,15 +524,23 @@
     },
     {
       "raw_hot": 22133,
-      "num": 33012,
+      "num": 45989,
       "word": "外交部揭批澳所谓研究机构丑陋行径",
       "onboard_time": 1741723816,
       "rank": 9,
       "category": "国内时政"
     },
     {
+      "raw_hot": 20283,
+      "num": 46104,
+      "word": "老外已经开始推荐哪吒1了",
+      "onboard_time": 1741720215,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 18992,
-      "num": 32779,
+      "num": 45978,
       "word": "莫斯科州遭大规模无人机袭击致1死多伤",
       "onboard_time": 1741721413,
       "rank": 13,
@@ -531,14 +555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 16898,
-      "num": 32765,
-      "word": "老外已经开始推荐哪吒1了",
-      "onboard_time": 1741720215,
-      "rank": 43,
-      "category": "电影"
-    },
-    {
       "raw_hot": 14844,
       "num": 32768,
       "word": "去年有景点博物馆演唱会一票难求",
@@ -548,11 +564,27 @@
     },
     {
       "raw_hot": 14661,
-      "num": 32774,
+      "num": 45930,
       "word": "张凯丽建议加大对黄牛打击力度",
       "onboard_time": 1741724954,
       "rank": 48,
       "category": "国内时政,体育"
+    },
+    {
+      "raw_hot": 14634,
+      "num": 45955,
+      "word": "店家回应8盒蓝莓到手每盒仅几颗",
+      "onboard_time": 1741731616,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14305,
+      "num": 45922,
+      "word": "建议从重处罚诈骗老人群体行为",
+      "onboard_time": 1741719014,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 14168,
@@ -561,14 +593,6 @@
       "onboard_time": 1741723334,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 13571,
-      "num": 32762,
-      "word": "建议从重处罚诈骗老人群体行为",
-      "onboard_time": 1741719014,
-      "rank": 44,
-      "category": "国内时政"
     },
     {
       "raw_hot": 13116,
@@ -593,14 +617,6 @@
       "onboard_time": 1741725614,
       "rank": 46,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 9600,
-      "num": 25982,
-      "word": "大学生坠崖地空接力救援",
-      "onboard_time": 1741728854,
-      "rank": 30,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
