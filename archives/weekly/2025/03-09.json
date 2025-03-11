@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741692966350,
+  "endTime": 1741697165155,
   "band_list": [
     {
       "raw_hot": 21330054,
@@ -155,6 +155,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1700770,
+      "num": 258292,
+      "word": "余承东辟谣和刘亦菲恋情",
+      "onboard_time": 1741692805,
+      "rank": 41,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 1670296,
       "num": 372100,
       "word": "韩国歌手辉星去世",
@@ -169,6 +177,14 @@
       "onboard_time": 1741525582,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1640826,
+      "num": 1640826,
+      "word": "第四十五号主席令",
+      "onboard_time": 1741695922,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1568287,
@@ -603,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 890974,
+      "num": 890974,
+      "word": "14岁少女清洗文身要花76万谁之过",
+      "onboard_time": 1741691424,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 873750,
       "num": 354790,
       "word": "日本女主播直播中被刺",
@@ -617,6 +641,14 @@
       "onboard_time": 1741501821,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 861879,
+      "num": 861879,
+      "word": "韩国性同意年龄为16岁",
+      "onboard_time": 1741696403,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 853868,
@@ -1043,6 +1075,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 643580,
+      "num": 299758,
+      "word": "推特崩了",
+      "onboard_time": 1741694185,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 641452,
       "num": 641452,
       "word": "杜特尔特被捕时说你们干脆杀了我",
@@ -1145,6 +1185,14 @@
       "onboard_time": 1741600222,
       "rank": 3,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 613896,
+      "num": 613896,
+      "word": "孙燕姿抢票",
+      "onboard_time": 1741693283,
+      "rank": 4,
+      "category": "演出"
     },
     {
       "raw_hot": 613328,
@@ -1353,6 +1401,14 @@
       "onboard_time": 1741687104,
       "rank": 17,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 502095,
+      "num": 502095,
+      "word": "孙颖莎希望和马琳有更好的配合",
+      "onboard_time": 1741692924,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 498355,
@@ -1667,14 +1723,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 404174,
-      "num": 404174,
-      "word": "14岁少女清洗文身要花76万谁之过",
-      "onboard_time": 1741691424,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 403130,
       "num": 263849,
       "word": "吴彦祖398元英语课销售额超500万",
@@ -1761,6 +1809,14 @@
       "onboard_time": 1741659982,
       "rank": 8,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 378568,
+      "num": 361861,
+      "word": "王一博香奈儿内场落座",
+      "onboard_time": 1741692144,
+      "rank": 4,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 378297,
@@ -1851,12 +1907,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 361861,
-      "num": 361861,
-      "word": "王一博香奈儿内场落座",
-      "onboard_time": 1741692144,
-      "rank": 4,
-      "category": "作品衍生,时尚"
+      "raw_hot": 360313,
+      "num": 360313,
+      "word": "武林外传直播",
+      "onboard_time": 1741691784,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 359969,
@@ -2027,6 +2083,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 341566,
+      "num": 341566,
+      "word": "哪吒2正冲刺全球影史第5",
+      "onboard_time": 1741693044,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 340127,
       "num": 244699,
       "word": "蕾哈娜晒产子照",
@@ -2185,6 +2249,14 @@
       "onboard_time": 1741524381,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 324988,
+      "num": 324988,
+      "word": "微信误转给同名人1000元对方不还",
+      "onboard_time": 1741693403,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 324007,
@@ -2691,6 +2763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 257982,
+      "num": 257982,
+      "word": "滤镜林媛怀孕了",
+      "onboard_time": 1741692263,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 256510,
       "num": 256510,
       "word": "贵女",
@@ -2721,14 +2801,6 @@
       "onboard_time": 1741671561,
       "rank": 49,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 249487,
-      "num": 249487,
-      "word": "武林外传直播",
-      "onboard_time": 1741691784,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 248926,
@@ -2888,6 +2960,14 @@
       "word": "十个勤天回应商务报价传闻",
       "onboard_time": 1741619423,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 232112,
+      "num": 232112,
+      "word": "杨天真发了虞书欣",
+      "onboard_time": 1741692444,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -3081,6 +3161,14 @@
       "onboard_time": 1741564279,
       "rank": 18,
       "category": "电影,美食"
+    },
+    {
+      "raw_hot": 217895,
+      "num": 206075,
+      "word": "国王首播反馈",
+      "onboard_time": 1741692624,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 216899,
@@ -3547,14 +3635,6 @@
       "category": "艺人,电竞"
     },
     {
-      "raw_hot": 191946,
-      "num": 191946,
-      "word": "杨天真发了虞书欣",
-      "onboard_time": 1741692444,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 191880,
       "num": 191880,
       "word": "无需多言",
@@ -3627,12 +3707,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189231,
+      "num": 151606,
+      "word": "智力曾降至3岁消防员开始直播带货",
+      "onboard_time": 1741696464,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189204,
       "num": 173116,
       "word": "live图中的经典",
       "onboard_time": 1741522460,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 188671,
+      "num": 188671,
+      "word": "冰唐橙结婚",
+      "onboard_time": 1741694785,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 188329,
@@ -3907,6 +4003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175369,
+      "num": 175369,
+      "word": "WTT",
+      "onboard_time": 1741695922,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174585,
       "num": 227193,
       "word": "日本女星岸本梓离世",
@@ -3961,6 +4065,14 @@
       "onboard_time": 1741574779,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 173569,
+      "num": 270814,
+      "word": "女子提5万家务劳动补偿法院判25万",
+      "onboard_time": 1741696224,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173376,
@@ -4048,6 +4160,14 @@
       "word": "卫枝穿搭",
       "onboard_time": 1741670482,
       "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 169100,
+      "num": 169100,
+      "word": "小兔子苹果从古偶穿到现代剧",
+      "onboard_time": 1741695862,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -4161,14 +4281,6 @@
       "onboard_time": 1741450521,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 165962,
-      "num": 198649,
-      "word": "滤镜林媛怀孕了",
-      "onboard_time": 1741692263,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 165718,
@@ -4643,6 +4755,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 150438,
+      "num": 150438,
+      "word": "一网红账号模仿杨坤被杨坤起诉",
+      "onboard_time": 1741694484,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150223,
       "num": 150223,
       "word": "林忆莲台下混进真女儿了",
@@ -4779,6 +4899,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 144787,
+      "num": 144787,
+      "word": "理想MEGA",
+      "onboard_time": 1741696164,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 144401,
       "num": 288361,
       "word": "建议立法确保学生体育活动时间",
@@ -4792,6 +4920,14 @@
       "word": "百万埃尔法车主破防了",
       "onboard_time": 1741688965,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144092,
+      "num": 205090,
+      "word": "强制下班是中国企业文化的进步",
+      "onboard_time": 1741692502,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -4857,14 +4993,6 @@
       "onboard_time": 1741663582,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 142819,
-      "num": 142819,
-      "word": "余承东辟谣和刘亦菲恋情",
-      "onboard_time": 1741692805,
-      "rank": 41,
-      "category": "艺人,互联网"
     },
     {
       "raw_hot": 142712,
@@ -4961,6 +5089,14 @@
       "onboard_time": 1741510461,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 140207,
+      "num": 140207,
+      "word": "白敬亭生活有星意",
+      "onboard_time": 1741696583,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 140089,
@@ -5763,12 +5899,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119513,
-      "num": 119513,
-      "word": "国王首播反馈",
-      "onboard_time": 1741692624,
-      "rank": 48,
-      "category": "剧集"
+      "raw_hot": 119685,
+      "num": 119685,
+      "word": "多方回应男子攀爬苏州钉子崖坠亡",
+      "onboard_time": 1741696524,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119507,
@@ -5859,6 +5995,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 118049,
+      "num": 118049,
+      "word": "外卖骑手已成城市民生保障重要力量",
+      "onboard_time": 1741696524,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117728,
       "num": 117728,
       "word": "以创新之力推动传统IP破圈出海",
@@ -5913,6 +6057,14 @@
       "onboard_time": 1741585400,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 116186,
+      "num": 244974,
+      "word": "中方回应杜特尔特被捕",
+      "onboard_time": 1741692084,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 116179,
@@ -6139,6 +6291,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 112011,
+      "num": 112011,
+      "word": "王天辰健身有种命很苦的感觉",
+      "onboard_time": 1741696342,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111931,
       "num": 136925,
       "word": "华晨宇演唱会上中西音乐华山论剑",
@@ -6209,6 +6369,14 @@
       "onboard_time": 1741582343,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 110908,
+      "num": 110908,
+      "word": "阴阳师",
+      "onboard_time": 1741697004,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 110819,
@@ -6312,6 +6480,14 @@
       "word": "浓眉谈与东契奇互换东家",
       "onboard_time": 1741484240,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 107928,
+      "num": 261461,
+      "word": "张本智和3比0林德",
+      "onboard_time": 1741695803,
+      "rank": 17,
       "category": "体育"
     },
     {
@@ -6475,6 +6651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104564,
+      "num": 255785,
+      "word": "直播间喊爹妈演互撕套路老年人",
+      "onboard_time": 1741692024,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104161,
       "num": 108460,
       "word": "极氪9X",
@@ -6585,6 +6769,14 @@
       "onboard_time": 1741660882,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101047,
+      "num": 101047,
+      "word": "横滨水手4比1上海海港",
+      "onboard_time": 1741696464,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 100986,
@@ -6801,14 +6993,6 @@
       "onboard_time": 1741533924,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 97533,
-      "num": 244974,
-      "word": "中方回应杜特尔特被捕",
-      "onboard_time": 1741692084,
-      "rank": 14,
-      "category": "国内时政"
     },
     {
       "raw_hot": 97093,
@@ -7041,6 +7225,14 @@
       "onboard_time": 1741589421,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 90489,
+      "num": 260114,
+      "word": "余承东都没见过刘亦菲",
+      "onboard_time": 1741696104,
+      "rank": 18,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 90435,
@@ -7305,14 +7497,6 @@
       "onboard_time": 1741484420,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 82514,
-      "num": 255785,
-      "word": "直播间喊爹妈演互撕套路老年人",
-      "onboard_time": 1741692024,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 81855,
@@ -7715,6 +7899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62343,
+      "num": 303925,
+      "word": "美乌沙特会谈同时俄欧也在会谈",
+      "onboard_time": 1741695323,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 60674,
       "num": 71426,
       "word": "吴艳妮的后程没有对手",
@@ -7737,6 +7929,14 @@
       "onboard_time": 1741493960,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 58978,
+      "num": 146627,
+      "word": "孙颖莎回应重庆冠军赛首胜",
+      "onboard_time": 1741695743,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 58927,
@@ -8011,6 +8211,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 44786,
+      "num": 259135,
+      "word": "当地回应老头乐和火车发生碰撞",
+      "onboard_time": 1741696104,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44433,
       "num": 191156,
       "word": "王兴兴用哪吒2台词说我想试试",
@@ -8132,7 +8340,7 @@
     },
     {
       "raw_hot": 40912,
-      "num": 457025,
+      "num": 869993,
       "word": "中国稳健发展为世界带来信心与力量",
       "onboard_time": 1741688185,
       "rank": 2,
@@ -8387,14 +8595,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 31494,
-      "num": 205090,
-      "word": "强制下班是中国企业文化的进步",
-      "onboard_time": 1741692502,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30794,
       "num": 34065,
       "word": "张碧晨首次现场演唱哪吒2片尾曲",
@@ -8529,14 +8729,6 @@
       "onboard_time": 1741458256,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 26210,
-      "num": 143726,
-      "word": "孙颖莎希望和马琳有更好的配合",
-      "onboard_time": 1741692924,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 26145,
