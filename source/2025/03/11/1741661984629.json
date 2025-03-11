@@ -1,0 +1,410 @@
+{
+  "runTime": 1741661984629,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1109496,
+        "num": 1177519,
+        "word": "女子回应月薪4600每天跨市上班",
+        "onboard_time": 1741655903,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1025117,
+        "num": 1025117,
+        "word": "加班文化开始退潮",
+        "onboard_time": 1741659800,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25280,
+        "num": 572656,
+        "word": "2025年美丽中国这样建",
+        "onboard_time": 1741610786,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 488745,
+        "num": 488745,
+        "word": "26岁小伙泰山陪爬1年赚30多万",
+        "onboard_time": 1741619963,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369374,
+        "num": 369374,
+        "word": "靳东回应台艺人力挺统一面临制裁",
+        "onboard_time": 1741661182,
+        "rank": 4,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 316999,
+        "num": 316999,
+        "word": "强制9点下班能遏制畸形加班文化吗",
+        "onboard_time": 1741657881,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300823,
+        "num": 300823,
+        "word": "剑网3",
+        "onboard_time": 1741660220,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 275652,
+        "num": 275652,
+        "word": "00后姑娘定下的事业和伴侣目标",
+        "onboard_time": 1741655903,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273055,
+        "num": 273055,
+        "word": "10岁男童见起火电话摇来119",
+        "onboard_time": 1741659982,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 203816,
+        "num": 265023,
+        "word": "哪吒敖丙变身大国重器有亿点酷",
+        "onboard_time": 1741661182,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 434232,
+        "num": 264593,
+        "word": "赵樱子官宣恋情",
+        "onboard_time": 1741616546,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286469,
+        "num": 264507,
+        "word": "章若楠求婚戏开拍前就哭了",
+        "onboard_time": 1741650681,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263849,
+        "num": 263849,
+        "word": "吴彦祖398元英语课销售额超500万",
+        "onboard_time": 1741653383,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126888,
+        "num": 241354,
+        "word": "嘘国王在冬眠",
+        "onboard_time": 1741650861,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127678,
+        "num": 232946,
+        "word": "王楚然演妖妃",
+        "onboard_time": 1741616845,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225009,
+        "num": 225009,
+        "word": "韩国警方回应辉星去世",
+        "onboard_time": 1741656801,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219163,
+        "num": 219163,
+        "word": "金价",
+        "onboard_time": 1741661302,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 217016,
+        "num": 217016,
+        "word": "多胖才算超重肥胖",
+        "onboard_time": 1741658240,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101154,
+        "num": 215548,
+        "word": "种地吧",
+        "onboard_time": 1741660882,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40679,
+        "num": 214269,
+        "word": "23岁中国留学生在荷兰失联亲属发声",
+        "onboard_time": 1741661302,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214129,
+        "num": 214129,
+        "word": "海底捞",
+        "onboard_time": 1741656682,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 984876,
+        "num": 212355,
+        "word": "女子生完3胎后身高长到178cm",
+        "onboard_time": 1741658720,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30219,
+        "num": 209835,
+        "word": "美乌代表团将于11日在沙特举行会谈",
+        "onboard_time": 1741661661,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 271719,
+        "num": 205083,
+        "word": "老人花29块买老年代步车快递只有巴掌大",
+        "onboard_time": 1741659800,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223913,
+        "num": 203493,
+        "word": "杨幂ccd镜头",
+        "onboard_time": 1741658240,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220138,
+        "num": 199869,
+        "word": "什么样的乳腺结节需尽快就诊",
+        "onboard_time": 1741655184,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 53649,
+        "num": 195571,
+        "word": "双影奇境销量突破100万",
+        "onboard_time": 1741657762,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 195401,
+        "num": 195401,
+        "word": "女子砍伤踹门打人男子被认定正当防卫",
+        "onboard_time": 1741651101,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123679,
+        "num": 193147,
+        "word": "嘘国王在冬眠追剧日历",
+        "onboard_time": 1741661782,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35480,
+        "num": 192354,
+        "word": "三亚出新规多家酒店仍不能退订",
+        "onboard_time": 1741661302,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191657,
+        "num": 191657,
+        "word": "茶百道黄子弘凡",
+        "onboard_time": 1741659982,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174621,
+        "num": 174621,
+        "word": "海底捞将起诉向火锅内小便男子",
+        "onboard_time": 1741605204,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162272,
+        "num": 162272,
+        "word": "文都教育开除言论不当员工",
+        "onboard_time": 1741660821,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 159287,
+        "num": 159287,
+        "word": "85年婆婆带娃被误认为孩子亲妈",
+        "onboard_time": 1741650080,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151537,
+        "num": 151537,
+        "word": "国家版减肥指南来了",
+        "onboard_time": 1741604126,
+        "rank": 34,
+        "category": "民生新闻,运动健身"
+      },
+      {
+        "raw_hot": 145254,
+        "num": 145254,
+        "word": "美断供后澳大利亚反华智库急了",
+        "onboard_time": 1741650741,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137372,
+        "num": 137372,
+        "word": "美股熊市要来了吗",
+        "onboard_time": 1741656322,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 129834,
+        "num": 129834,
+        "word": "宝诗龙戒指",
+        "onboard_time": 1741651643,
+        "rank": 37,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 129164,
+        "num": 129164,
+        "word": "WTT重庆冠军赛今日开赛",
+        "onboard_time": 1741660220,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127730,
+        "num": 127730,
+        "word": "医院回应宣传给3岁智商妈妈分娩",
+        "onboard_time": 1741661903,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123515,
+        "num": 123515,
+        "word": "为什么现在的商场爱叫xx里",
+        "onboard_time": 1741620623,
+        "rank": 40,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 118446,
+        "num": 118446,
+        "word": "男子称在机关年入35万视频系摆拍",
+        "onboard_time": 1741655903,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116500,
+        "num": 116500,
+        "word": "貂蝉穆夏联动新皮肤",
+        "onboard_time": 1741661060,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116112,
+        "num": 116112,
+        "word": "打工人一年只需要三双鞋",
+        "onboard_time": 1741652063,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111757,
+        "num": 111757,
+        "word": "春江水暖鸭先知具象化了",
+        "onboard_time": 1741651101,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 98332,
+        "num": 98332,
+        "word": "王源巴黎出街",
+        "onboard_time": 1741658961,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 98233,
+        "num": 98233,
+        "word": "湖人又送温暖了",
+        "onboard_time": 1741661601,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96078,
+        "num": 96078,
+        "word": "孙颖莎蒯曼重庆冠军赛首秀",
+        "onboard_time": 1741661601,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94239,
+        "num": 94239,
+        "word": "JIWOO料理鼠王",
+        "onboard_time": 1741661903,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 93817,
+        "num": 93817,
+        "word": "王一博 花期",
+        "onboard_time": 1741596082,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记指导教育工作蕴含辩证法#"
+    }
+  }
+}

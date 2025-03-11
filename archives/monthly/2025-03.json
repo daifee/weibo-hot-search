@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741658973075,
+  "endTime": 1741661984629,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1363,6 +1363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1109496,
+      "num": 1177519,
+      "word": "女子回应月薪4600每天跨市上班",
+      "onboard_time": 1741655903,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1109423,
       "num": 895136,
       "word": "难哄大结局",
@@ -1619,6 +1627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1025117,
+      "num": 1025117,
+      "word": "加班文化开始退潮",
+      "onboard_time": 1741659800,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1021408,
       "num": 1163425,
       "word": "妇女节",
@@ -1715,6 +1731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 984876,
+      "num": 352898,
+      "word": "女子生完3胎后身高长到178cm",
+      "onboard_time": 1741658720,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 982209,
       "num": 627385,
       "word": "香港顶流姜涛瘦的时候",
@@ -1769,14 +1793,6 @@
       "onboard_time": 1741591821,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 966423,
-      "num": 1154627,
-      "word": "女子回应月薪4600每天跨市上班",
-      "onboard_time": 1741655903,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 963823,
@@ -5948,7 +5964,7 @@
     },
     {
       "raw_hot": 403130,
-      "num": 252067,
+      "num": 263849,
       "word": "吴彦祖398元英语课销售额超500万",
       "onboard_time": 1741653383,
       "rank": 11,
@@ -6499,6 +6515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 369374,
+      "num": 369374,
+      "word": "靳东回应台艺人力挺统一面临制裁",
+      "onboard_time": 1741661182,
+      "rank": 4,
+      "category": "国内时政,艺人"
+    },
+    {
       "raw_hot": 369059,
       "num": 340703,
       "word": "控制脂肪肝少吃主食还是少吃肉",
@@ -6905,14 +6929,6 @@
       "onboard_time": 1740990438,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 352898,
-      "num": 352898,
-      "word": "女子生完3胎后身高长到178cm",
-      "onboard_time": 1741658720,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 352769,
@@ -7787,6 +7803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 316999,
+      "num": 316999,
+      "word": "强制9点下班能遏制畸形加班文化吗",
+      "onboard_time": 1741657881,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 316433,
       "num": 250616,
       "word": "13岁男孩过度进补身高定格在165",
@@ -8169,6 +8193,14 @@
       "onboard_time": 1741650741,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 300823,
+      "num": 300823,
+      "word": "剑网3",
+      "onboard_time": 1741660220,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 300453,
@@ -9035,6 +9067,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 273055,
+      "num": 273055,
+      "word": "10岁男童见起火电话摇来119",
+      "onboard_time": 1741659982,
+      "rank": 8,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 272205,
       "num": 272205,
       "word": "郑钦文vs阿扎伦卡",
@@ -9065,6 +9105,14 @@
       "onboard_time": 1740994397,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 271719,
+      "num": 205083,
+      "word": "老人花29块买老年代步车快递只有巴掌大",
+      "onboard_time": 1741659800,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 271066,
@@ -10779,6 +10827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 223913,
+      "num": 203493,
+      "word": "杨幂ccd镜头",
+      "onboard_time": 1741658240,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223868,
       "num": 172217,
       "word": "春捂最该捂的3个部位",
@@ -11104,6 +11160,14 @@
       "word": "杭州房价要开始涨了吗",
       "onboard_time": 1740818901,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217016,
+      "num": 217016,
+      "word": "多胖才算超重肥胖",
+      "onboard_time": 1741658240,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -12001,6 +12065,14 @@
       "onboard_time": 1741529782,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 203816,
+      "num": 265023,
+      "word": "哪吒敖丙变身大国重器有亿点酷",
+      "onboard_time": 1741661182,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 203668,
@@ -13081,6 +13153,14 @@
       "onboard_time": 1741517483,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 191657,
+      "num": 191657,
+      "word": "茶百道黄子弘凡",
+      "onboard_time": 1741659982,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 191421,
@@ -15793,6 +15873,14 @@
       "onboard_time": 1741312160,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162272,
+      "num": 162272,
+      "word": "文都教育开除言论不当员工",
+      "onboard_time": 1741660821,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 162179,
@@ -18763,6 +18851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137372,
+      "num": 251750,
+      "word": "美股熊市要来了吗",
+      "onboard_time": 1741656322,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 137293,
       "num": 275286,
       "word": "英媒称美国的压制助攻了中国芯片",
@@ -19089,14 +19185,6 @@
       "onboard_time": 1741501161,
       "rank": 39,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 134061,
-      "num": 134061,
-      "word": "杨幂ccd镜头",
-      "onboard_time": 1741658240,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 134022,
@@ -19667,6 +19755,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 129164,
+      "num": 129164,
+      "word": "WTT重庆冠军赛今日开赛",
+      "onboard_time": 1741660220,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129156,
       "num": 164720,
       "word": "网易游戏发文致歉",
@@ -19857,6 +19953,14 @@
       "onboard_time": 1741083202,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127730,
+      "num": 127730,
+      "word": "医院回应宣传给3岁智商妈妈分娩",
+      "onboard_time": 1741661903,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127713,
@@ -20561,6 +20665,14 @@
       "onboard_time": 1741013480,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123679,
+      "num": 193147,
+      "word": "嘘国王在冬眠追剧日历",
+      "onboard_time": 1741661782,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 123646,
@@ -21561,6 +21673,14 @@
       "onboard_time": 1741256901,
       "rank": 18,
       "category": "国内时政,教育"
+    },
+    {
+      "raw_hot": 116500,
+      "num": 116500,
+      "word": "貂蝉穆夏联动新皮肤",
+      "onboard_time": 1741661060,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 116313,
@@ -23595,14 +23715,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 102167,
-      "num": 236386,
-      "word": "强制9点下班能遏制畸形加班文化吗",
-      "onboard_time": 1741657881,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 102124,
       "num": 318799,
       "word": "陈飞宇巴黎直播",
@@ -24107,12 +24219,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 98332,
+      "num": 98332,
+      "word": "王源巴黎出街",
+      "onboard_time": 1741658961,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 98273,
       "num": 98273,
       "word": "夏凤华好哄",
       "onboard_time": 1741181419,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98233,
+      "num": 98233,
+      "word": "湖人又送温暖了",
+      "onboard_time": 1741661601,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 98207,
@@ -24395,6 +24523,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 96078,
+      "num": 96078,
+      "word": "孙颖莎蒯曼重庆冠军赛首秀",
+      "onboard_time": 1741661601,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96041,
       "num": 96041,
       "word": "导游回应女游客斯里兰卡火车上坠落",
@@ -24611,14 +24747,6 @@
       "category": "国内时政,互联网"
     },
     {
-      "raw_hot": 94618,
-      "num": 251750,
-      "word": "美股熊市要来了吗",
-      "onboard_time": 1741656322,
-      "rank": 47,
-      "category": "财经"
-    },
-    {
       "raw_hot": 94554,
       "num": 94554,
       "word": "雷军谈同质化竞争",
@@ -24641,6 +24769,14 @@
       "onboard_time": 1740910099,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 94239,
+      "num": 94239,
+      "word": "JIWOO料理鼠王",
+      "onboard_time": 1741661903,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 94128,
@@ -27963,6 +28099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 53649,
+      "num": 195571,
+      "word": "双影奇境销量突破100万",
+      "onboard_time": 1741657762,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 53593,
       "num": 65053,
       "word": "第五人格场馆无人员伤亡",
@@ -28971,6 +29115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40679,
+      "num": 214269,
+      "word": "23岁中国留学生在荷兰失联亲属发声",
+      "onboard_time": 1741661302,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40636,
       "num": 112890,
       "word": "今年全国两会哪些看点值得期待",
@@ -29465,6 +29617,14 @@
       "onboard_time": 1741279398,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 35480,
+      "num": 192354,
+      "word": "三亚出新规多家酒店仍不能退订",
+      "onboard_time": 1741661302,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35360,
@@ -30001,6 +30161,14 @@
       "onboard_time": 1741616966,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 30219,
+      "num": 209835,
+      "word": "美乌代表团将于11日在沙特举行会谈",
+      "onboard_time": 1741661661,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 30041,
