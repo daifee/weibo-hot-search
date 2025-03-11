@@ -1,10 +1,10 @@
 {
   "startTime": 1741624073347,
-  "endTime": 1741675577984,
+  "endTime": 1741677760856,
   "band_list": [
     {
       "raw_hot": 1980398,
-      "num": 295432,
+      "num": 300936,
       "word": "又是费启鸣",
       "onboard_time": 1741671083,
       "rank": 33,
@@ -107,6 +107,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 818166,
+      "num": 342113,
+      "word": "莫斯科遭大规模无人机袭击",
+      "onboard_time": 1741673662,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 813602,
+      "num": 298063,
+      "word": "偷偷录音是不尊重医生行为",
+      "onboard_time": 1741673662,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 804308,
       "num": 1128689,
       "word": "26岁小伙泰山陪爬1年赚30多万",
@@ -155,12 +171,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 604643,
-      "num": 342113,
-      "word": "莫斯科遭大规模无人机袭击",
-      "onboard_time": 1741673662,
-      "rank": 5,
-      "category": "国际时政"
+      "raw_hot": 596977,
+      "num": 294247,
+      "word": "直播间买8盒蓝莓到手每盒只有几颗",
+      "onboard_time": 1741672342,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 570877,
@@ -219,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 436188,
+      "num": 436188,
+      "word": "190是一款很痛的身高",
+      "onboard_time": 1741675882,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 435496,
       "num": 435496,
       "word": "哪吒敖丙变身大国重器有亿点酷",
@@ -232,6 +256,14 @@
       "word": "张凌赫丁禹兮何与包场嘘国王在冬眠",
       "onboard_time": 1741667364,
       "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 421341,
+      "num": 286391,
+      "word": "林一回关鱼头星星了",
+      "onboard_time": 1741675101,
+      "rank": 17,
       "category": "剧集"
     },
     {
@@ -297,6 +329,14 @@
       "onboard_time": 1741581743,
       "rank": 5,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 338737,
+      "num": 305166,
+      "word": "大学毕业回老家养了4000头牛",
+      "onboard_time": 1741674441,
+      "rank": 18,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 335702,
@@ -395,14 +435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 302128,
-      "num": 287432,
-      "word": "直播间买8盒蓝莓到手每盒只有几颗",
-      "onboard_time": 1741672342,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 300948,
       "num": 219634,
       "word": "美断供后澳大利亚反华智库急了",
@@ -443,20 +475,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 286391,
-      "num": 286391,
-      "word": "林一回关鱼头星星了",
-      "onboard_time": 1741675101,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 282104,
       "num": 282104,
       "word": "有人担心强制下班变成无偿加班",
       "onboard_time": 1741663522,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 281370,
+      "num": 281370,
+      "word": "郭敬明要留下刘宇最帅的样子",
+      "onboard_time": 1741675462,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 279998,
+      "num": 279998,
+      "word": "孟子义李昀锐即将二搭",
+      "onboard_time": 1741677440,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 279203,
@@ -563,14 +603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 249593,
-      "num": 249593,
-      "word": "偷偷录音是不尊重医生行为",
-      "onboard_time": 1741673662,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 248200,
       "num": 235290,
       "word": "全智贤巴黎时装周直拍",
@@ -635,12 +667,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228287,
+      "num": 228287,
+      "word": "尚公主",
+      "onboard_time": 1741672462,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 228194,
       "num": 363496,
       "word": "嘘国王在冬眠追剧日历",
       "onboard_time": 1741661782,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 227990,
+      "num": 227990,
+      "word": "95后女教师勇救轻生男孩",
+      "onboard_time": 1741671561,
+      "rank": 49,
+      "category": "正能量"
     },
     {
       "raw_hot": 227451,
@@ -657,6 +705,14 @@
       "onboard_time": 1741611684,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224014,
+      "num": 280488,
+      "word": "人大会议闭幕会",
+      "onboard_time": 1741677262,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 223913,
@@ -723,14 +779,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 205504,
-      "num": 205504,
-      "word": "尚公主",
-      "onboard_time": 1741672462,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 203386,
       "num": 203386,
       "word": "金赛纶家人发声",
@@ -745,14 +793,6 @@
       "onboard_time": 1741611328,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 201946,
-      "num": 297427,
-      "word": "大学毕业回老家养了4000头牛",
-      "onboard_time": 1741674441,
-      "rank": 18,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 201494,
@@ -811,6 +851,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 186196,
+      "num": 186196,
+      "word": "敖瑞鹏线下",
+      "onboard_time": 1741674683,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185330,
       "num": 185330,
       "word": "春江水暖鸭先知具象化了",
@@ -851,6 +899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176215,
+      "num": 176215,
+      "word": "白敬亭我到底是什么辈分",
+      "onboard_time": 1741675702,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174922,
       "num": 266952,
       "word": "美股",
@@ -883,14 +939,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 170841,
-      "num": 170841,
-      "word": "敖瑞鹏线下",
-      "onboard_time": 1741674683,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 169577,
       "num": 253939,
       "word": "卫枝穿搭",
@@ -905,6 +953,14 @@
       "onboard_time": 1741614686,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165183,
+      "num": 165183,
+      "word": "海尔",
+      "onboard_time": 1741677501,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 162272,
@@ -971,6 +1027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 151200,
+      "num": 151200,
+      "word": "乒协发布8条文明观赛倡议",
+      "onboard_time": 1741676782,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147286,
       "num": 251156,
       "word": "第3场代表通道",
@@ -985,14 +1049,6 @@
       "onboard_time": 1741669225,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 144967,
-      "num": 144967,
-      "word": "95后女教师勇救轻生男孩",
-      "onboard_time": 1741671561,
-      "rank": 49,
-      "category": "正能量"
     },
     {
       "raw_hot": 142954,
@@ -1315,20 +1371,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 98822,
+      "num": 280120,
+      "word": "孙颖莎比赛要打火锅也要吃",
+      "onboard_time": 1741676722,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98332,
       "num": 98332,
       "word": "王源巴黎出街",
       "onboard_time": 1741658961,
       "rank": 45,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 98266,
-      "num": 98266,
-      "word": "郭敬明要留下刘宇最帅的样子",
-      "onboard_time": 1741675462,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 98233,
@@ -1353,6 +1409,14 @@
       "onboard_time": 1741595062,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 94575,
+      "num": 94575,
+      "word": "你这桑椹好大一个",
+      "onboard_time": 1741677204,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 92926,
@@ -1467,6 +1531,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 77758,
+      "num": 230592,
+      "word": "罗振宇说夸克是他的小徒弟",
+      "onboard_time": 1741676782,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 76805,
       "num": 190093,
       "word": "71岁赵雅芝66岁陈美琪同框",
@@ -1481,6 +1553,14 @@
       "onboard_time": 1741657461,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74753,
+      "num": 159538,
+      "word": "造型师形容陶昕然像一头母狮",
+      "onboard_time": 1741677741,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 74356,
@@ -1521,6 +1601,14 @@
       "onboard_time": 1741621703,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 63915,
+      "num": 153622,
+      "word": "4000记三分太库了",
+      "onboard_time": 1741675042,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 63296,
@@ -1667,7 +1755,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 37857,
+      "raw_hot": 39054,
       "num": 988192,
       "word": "3个关键词解锁民营经济发展密码",
       "onboard_time": 1741666943,
@@ -1747,6 +1835,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 27852,
+      "num": 308026,
+      "word": "杜特尔特被转移至维拉莫尔空军基地",
+      "onboard_time": 1741677321,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 26762,
       "num": 100663,
       "word": "恶作剧之吻裕树都结婚了",
@@ -1801,6 +1897,14 @@
       "onboard_time": 1741628837,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 16569,
+      "num": 232535,
+      "word": "美考虑将韩国列为敏感国家",
+      "onboard_time": 1741677440,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 12368,

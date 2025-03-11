@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741675577984,
+  "endTime": 1741677760856,
   "band_list": [
     {
       "raw_hot": 2815044,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1980398,
-      "num": 295432,
+      "num": 300936,
       "word": "又是费启鸣",
       "onboard_time": 1741671083,
       "rank": 33,
@@ -587,6 +587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 818166,
+      "num": 342113,
+      "word": "莫斯科遭大规模无人机袭击",
+      "onboard_time": 1741673662,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 816160,
       "num": 534408,
       "word": "花少7拟邀",
@@ -601,6 +609,14 @@
       "onboard_time": 1741596622,
       "rank": 15,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 813602,
+      "num": 298063,
+      "word": "偷偷录音是不尊重医生行为",
+      "onboard_time": 1741673662,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 810136,
@@ -1043,20 +1059,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 604643,
-      "num": 342113,
-      "word": "莫斯科遭大规模无人机袭击",
-      "onboard_time": 1741673662,
-      "rank": 5,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 603057,
       "num": 292191,
       "word": "代露娃对接",
       "onboard_time": 1741571660,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 596977,
+      "num": 294247,
+      "word": "直播间买8盒蓝莓到手每盒只有几颗",
+      "onboard_time": 1741672342,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 596695,
@@ -1339,6 +1355,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 436188,
+      "num": 436188,
+      "word": "190是一款很痛的身高",
+      "onboard_time": 1741675882,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 435579,
       "num": 278206,
       "word": "海尔集团连夜更新老总表情包",
@@ -1433,6 +1457,14 @@
       "onboard_time": 1741597821,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 421341,
+      "num": 286391,
+      "word": "林一回关鱼头星星了",
+      "onboard_time": 1741675101,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 420544,
@@ -1787,6 +1819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 338737,
+      "num": 305166,
+      "word": "大学毕业回老家养了4000头牛",
+      "onboard_time": 1741674441,
+      "rank": 18,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 335702,
       "num": 282583,
       "word": "五星级酒店为什么开不下去了",
@@ -2051,14 +2091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 302128,
-      "num": 287432,
-      "word": "直播间买8盒蓝莓到手每盒只有几颗",
-      "onboard_time": 1741672342,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 301224,
       "num": 301224,
       "word": "人大代表建议将农村医保改为储蓄型",
@@ -2187,14 +2219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 286391,
-      "num": 286391,
-      "word": "林一回关鱼头星星了",
-      "onboard_time": 1741675101,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 283264,
       "num": 283264,
       "word": "偶遇宋茜周冬雨逛街",
@@ -2217,6 +2241,22 @@
       "onboard_time": 1741663522,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 281370,
+      "num": 281370,
+      "word": "郭敬明要留下刘宇最帅的样子",
+      "onboard_time": 1741675462,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 279998,
+      "num": 279998,
+      "word": "孟子义李昀锐即将二搭",
+      "onboard_time": 1741677440,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 279203,
@@ -2451,14 +2491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 249593,
-      "num": 249593,
-      "word": "偷偷录音是不尊重医生行为",
-      "onboard_time": 1741673662,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 248926,
       "num": 251870,
       "word": "在出租屋米袋里发现10万现金报警",
@@ -2651,12 +2683,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228287,
+      "num": 228287,
+      "word": "尚公主",
+      "onboard_time": 1741672462,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 228194,
       "num": 363496,
       "word": "嘘国王在冬眠追剧日历",
       "onboard_time": 1741661782,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 227990,
+      "num": 227990,
+      "word": "95后女教师勇救轻生男孩",
+      "onboard_time": 1741671561,
+      "rank": 49,
+      "category": "正能量"
     },
     {
       "raw_hot": 227451,
@@ -2705,6 +2753,14 @@
       "onboard_time": 1741501462,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224014,
+      "num": 280488,
+      "word": "人大会议闭幕会",
+      "onboard_time": 1741677262,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 223913,
@@ -2891,14 +2947,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 205504,
-      "num": 205504,
-      "word": "尚公主",
-      "onboard_time": 1741672462,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 205053,
       "num": 205053,
       "word": "郑钦文2比0孙璐璐",
@@ -2985,14 +3033,6 @@
       "onboard_time": 1741578622,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 201946,
-      "num": 297427,
-      "word": "大学毕业回老家养了4000头牛",
-      "onboard_time": 1741674441,
-      "rank": 18,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 201494,
@@ -3315,6 +3355,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 186196,
+      "num": 186196,
+      "word": "敖瑞鹏线下",
+      "onboard_time": 1741674683,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185466,
       "num": 185466,
       "word": "翟潇闻公主抱杨肸子",
@@ -3491,6 +3539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176215,
+      "num": 176215,
+      "word": "白敬亭我到底是什么辈分",
+      "onboard_time": 1741675702,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174585,
       "num": 227193,
       "word": "日本女星岸本梓离世",
@@ -3592,14 +3648,6 @@
       "word": "北上乱成一锅粥了快喝了吧",
       "onboard_time": 1741471454,
       "rank": 39,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 170841,
-      "num": 170841,
-      "word": "敖瑞鹏线下",
-      "onboard_time": 1741674683,
-      "rank": 46,
       "category": "剧集"
     },
     {
@@ -3745,6 +3793,14 @@
       "onboard_time": 1741504881,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165183,
+      "num": 165183,
+      "word": "海尔",
+      "onboard_time": 1741677501,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 164663,
@@ -4107,6 +4163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151200,
+      "num": 151200,
+      "word": "乒协发布8条文明观赛倡议",
+      "onboard_time": 1741676782,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150790,
       "num": 271152,
       "word": "我国航天员开始为登月做准备",
@@ -4241,14 +4305,6 @@
       "onboard_time": 1741575321,
       "rank": 18,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 144967,
-      "num": 144967,
-      "word": "95后女教师勇救轻生男孩",
-      "onboard_time": 1741671561,
-      "rank": 49,
-      "category": "正能量"
     },
     {
       "raw_hot": 144401,
@@ -6011,20 +6067,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 98822,
+      "num": 280120,
+      "word": "孙颖莎比赛要打火锅也要吃",
+      "onboard_time": 1741676722,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98332,
       "num": 98332,
       "word": "王源巴黎出街",
       "onboard_time": 1741658961,
       "rank": 45,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 98266,
-      "num": 98266,
-      "word": "郭敬明要留下刘宇最帅的样子",
-      "onboard_time": 1741675462,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 98233,
@@ -6145,6 +6201,14 @@
       "onboard_time": 1741563079,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 94575,
+      "num": 94575,
+      "word": "你这桑椹好大一个",
+      "onboard_time": 1741677204,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 93376,
@@ -6635,6 +6699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 77758,
+      "num": 230592,
+      "word": "罗振宇说夸克是他的小徒弟",
+      "onboard_time": 1741676782,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 77685,
       "num": 271872,
       "word": "终于有哪吒周边不是盲盒了",
@@ -6673,6 +6745,14 @@
       "onboard_time": 1741602201,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 74753,
+      "num": 159538,
+      "word": "造型师形容陶昕然像一头母狮",
+      "onboard_time": 1741677741,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 74653,
@@ -6833,6 +6913,14 @@
       "onboard_time": 1741549333,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 63915,
+      "num": 153622,
+      "word": "4000记三分太库了",
+      "onboard_time": 1741675042,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 63296,
@@ -7259,6 +7347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39054,
+      "num": 988192,
+      "word": "3个关键词解锁民营经济发展密码",
+      "onboard_time": 1741666943,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 38572,
       "num": 195685,
       "word": "代表说实现榴莲自由指日可待",
@@ -7273,14 +7369,6 @@
       "onboard_time": 1741526122,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 37857,
-      "num": 988192,
-      "word": "3个关键词解锁民营经济发展密码",
-      "onboard_time": 1741666943,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 37433,
@@ -7515,6 +7603,14 @@
       "category": "国内时政,教育"
     },
     {
+      "raw_hot": 27852,
+      "num": 308026,
+      "word": "杜特尔特被转移至维拉莫尔空军基地",
+      "onboard_time": 1741677321,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 27306,
       "num": 193556,
       "word": "林诗栋说第一次来重庆",
@@ -7745,6 +7841,14 @@
       "onboard_time": 1741546154,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 16569,
+      "num": 232535,
+      "word": "美考虑将韩国列为敏感国家",
+      "onboard_time": 1741677440,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 16503,

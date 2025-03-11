@@ -1,0 +1,410 @@
+{
+  "runTime": 1741677760856,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 715628,
+        "num": 1114500,
+        "word": "始祖鸟吊牌被炒到最高300元一张",
+        "onboard_time": 1741666885,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 537073,
+        "num": 537073,
+        "word": "金价",
+        "onboard_time": 1741661302,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 39054,
+        "num": 465967,
+        "word": "3个关键词解锁民营经济发展密码",
+        "onboard_time": 1741666943,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 436188,
+        "num": 436188,
+        "word": "190是一款很痛的身高",
+        "onboard_time": 1741675882,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 350343,
+        "num": 350343,
+        "word": "建议女厕所从设计端改革",
+        "onboard_time": 1741666584,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 818166,
+        "num": 335710,
+        "word": "莫斯科遭大规模无人机袭击",
+        "onboard_time": 1741673662,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 373546,
+        "num": 328315,
+        "word": "杜特尔特被捕",
+        "onboard_time": 1741664543,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 313909,
+        "num": 313909,
+        "word": "嘘国王在冬眠 开局9广",
+        "onboard_time": 1741668024,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139572,
+        "num": 313864,
+        "word": "张凌赫丁禹兮何与包场嘘国王在冬眠",
+        "onboard_time": 1741667364,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27852,
+        "num": 308026,
+        "word": "杜特尔特被转移至维拉莫尔空军基地",
+        "onboard_time": 1741677321,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 338737,
+        "num": 305166,
+        "word": "大学毕业回老家养了4000头牛",
+        "onboard_time": 1741674441,
+        "rank": 10,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 1476064,
+        "num": 300936,
+        "word": "又是费启鸣",
+        "onboard_time": 1741671083,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 813602,
+        "num": 298063,
+        "word": "偷偷录音是不尊重医生行为",
+        "onboard_time": 1741673662,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 596977,
+        "num": 294247,
+        "word": "直播间买8盒蓝莓到手每盒只有几颗",
+        "onboard_time": 1741672342,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 500325,
+        "num": 290687,
+        "word": "刘畊宏晒周杰伦厦门跳操照",
+        "onboard_time": 1741672462,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421341,
+        "num": 285918,
+        "word": "林一回关鱼头星星了",
+        "onboard_time": 1741675101,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353588,
+        "num": 282463,
+        "word": "男子接广告被亲友举报从迪士尼离职",
+        "onboard_time": 1741671142,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281370,
+        "num": 281370,
+        "word": "郭敬明要留下刘宇最帅的样子",
+        "onboard_time": 1741675462,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224014,
+        "num": 280488,
+        "word": "人大会议闭幕会",
+        "onboard_time": 1741677262,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 98822,
+        "num": 280120,
+        "word": "孙颖莎比赛要打火锅也要吃",
+        "onboard_time": 1741676722,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 346600,
+        "num": 280066,
+        "word": "金赛纶生前几乎没有任何财产",
+        "onboard_time": 1741670422,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279998,
+        "num": 279998,
+        "word": "孟子义李昀锐即将二搭",
+        "onboard_time": 1741677440,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240987,
+        "num": 269297,
+        "word": "肥胖不仅要看体重还要看腰围",
+        "onboard_time": 1741669405,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260581,
+        "num": 260581,
+        "word": "女子生完3胎后身高长到178cm",
+        "onboard_time": 1741658720,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259636,
+        "num": 259636,
+        "word": "王源外网媒体生图",
+        "onboard_time": 1741670062,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 238468,
+        "num": 238468,
+        "word": "虞书欣林一连麦直播",
+        "onboard_time": 1741671321,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131687,
+        "num": 236277,
+        "word": "哪吒敖丙变身大国重器有亿点酷",
+        "onboard_time": 1741661182,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125896,
+        "num": 233612,
+        "word": "因莲花楼走红狗狗7岁戏龄近6年",
+        "onboard_time": 1741662622,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16569,
+        "num": 232535,
+        "word": "美考虑将韩国列为敏感国家",
+        "onboard_time": 1741677440,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 77758,
+        "num": 230592,
+        "word": "罗振宇说夸克是他的小徒弟",
+        "onboard_time": 1741676782,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 228287,
+        "num": 228287,
+        "word": "尚公主",
+        "onboard_time": 1741672462,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227990,
+        "num": 227990,
+        "word": "95后女教师勇救轻生男孩",
+        "onboard_time": 1741671561,
+        "rank": 31,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 186196,
+        "num": 186196,
+        "word": "敖瑞鹏线下",
+        "onboard_time": 1741674683,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176215,
+        "num": 176215,
+        "word": "白敬亭我到底是什么辈分",
+        "onboard_time": 1741675702,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165183,
+        "num": 165183,
+        "word": "海尔",
+        "onboard_time": 1741677501,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 162617,
+        "num": 162617,
+        "word": "女子回应吃火锅涮邻桌剩菜",
+        "onboard_time": 1741669342,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74753,
+        "num": 159538,
+        "word": "造型师形容陶昕然像一头母狮",
+        "onboard_time": 1741677741,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158653,
+        "num": 158653,
+        "word": "建议强制规定女厕与男厕比例",
+        "onboard_time": 1741669105,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63915,
+        "num": 153622,
+        "word": "4000记三分太库了",
+        "onboard_time": 1741675042,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153393,
+        "num": 153393,
+        "word": "广州长隆回应垂直过山车永久拆除",
+        "onboard_time": 1741664424,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151200,
+        "num": 151200,
+        "word": "乒协发布8条文明观赛倡议",
+        "onboard_time": 1741676782,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138182,
+        "num": 138182,
+        "word": "马斯克承认特斯拉生意困难",
+        "onboard_time": 1741665142,
+        "rank": 41,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 119960,
+        "num": 119960,
+        "word": "宋轶美食博主更新了",
+        "onboard_time": 1741672162,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115580,
+        "num": 115580,
+        "word": "第3场代表通道",
+        "onboard_time": 1741672942,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 112090,
+        "num": 112090,
+        "word": "虞书欣本色出演",
+        "onboard_time": 1741671622,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98552,
+        "num": 98552,
+        "word": "哪吒2离150亿只差1亿",
+        "onboard_time": 1741665683,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 98043,
+        "num": 98043,
+        "word": "赵樱子官宣恋情",
+        "onboard_time": 1741616546,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94575,
+        "num": 94575,
+        "word": "你这桑椹好大一个",
+        "onboard_time": 1741677204,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91963,
+        "num": 91963,
+        "word": "吴彦祖英语课遭吐槽本人只讲5分钟",
+        "onboard_time": 1741668684,
+        "rank": 48,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 86862,
+        "num": 86862,
+        "word": "叙利亚国防部宣布军事行动已结束",
+        "onboard_time": 1741674382,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}
