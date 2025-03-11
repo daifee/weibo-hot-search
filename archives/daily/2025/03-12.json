@@ -1,6 +1,6 @@
 {
   "startTime": 1741710703289,
-  "endTime": 1741710703289,
+  "endTime": 1741711587411,
   "band_list": [
     {
       "raw_hot": 1917180,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1056852,
-      "num": 273019,
+      "num": 319211,
       "word": "王源minnie张元英g社生图",
       "onboard_time": 1741708222,
       "rank": 3,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 483518,
-      "num": 483518,
+      "num": 737015,
       "word": "郑州双层巴士过隧道因超高被削车顶",
       "onboard_time": 1741706722,
       "rank": 1,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 399647,
-      "num": 221504,
+      "num": 292787,
       "word": "赵今麦刘浩存miumiu预热",
       "onboard_time": 1741703905,
       "rank": 6,
@@ -81,6 +81,14 @@
       "onboard_time": 1741692805,
       "rank": 30,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 277231,
+      "num": 203442,
+      "word": "王源有一种气血很足的帅",
+      "onboard_time": 1741710440,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 238035,
@@ -105,14 +113,6 @@
       "onboard_time": 1741693044,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 203442,
-      "num": 203442,
-      "word": "王源有一种气血很足的帅",
-      "onboard_time": 1741710440,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 179785,
@@ -179,6 +179,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 121963,
+      "num": 172959,
+      "word": "林一我同意收工后马上打开优酷去看",
+      "onboard_time": 1741709781,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118992,
       "num": 118992,
       "word": "虞书欣PEL的兵来了",
@@ -217,6 +225,22 @@
       "onboard_time": 1741699224,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100526,
+      "num": 131458,
+      "word": "小伙上满8小时班被倒扣3天工资",
+      "onboard_time": 1741709362,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93696,
+      "num": 93696,
+      "word": "宋茜生图",
+      "onboard_time": 1741710859,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 92485,
@@ -275,6 +299,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 73447,
+      "num": 73447,
+      "word": "赵小童愿我们可以一直微笑",
+      "onboard_time": 1741710560,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 72274,
       "num": 72274,
       "word": "法喜寺500年古玉兰开满枝头",
@@ -283,16 +315,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 70621,
-      "num": 70621,
-      "word": "小伙上满8小时班被倒扣3天工资",
-      "onboard_time": 1741709362,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 69472,
-      "num": 69472,
+      "num": 70908,
       "word": "王一博香奈儿内场落座",
       "onboard_time": 1741692144,
       "rank": 38,
@@ -300,7 +324,7 @@
     },
     {
       "raw_hot": 68268,
-      "num": 68268,
+      "num": 70922,
       "word": "赵露思CT全球代言人",
       "onboard_time": 1741688545,
       "rank": 39,
@@ -308,11 +332,19 @@
     },
     {
       "raw_hot": 68044,
-      "num": 68044,
+      "num": 70925,
       "word": "武林外传直播",
       "onboard_time": 1741691784,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 66944,
+      "num": 70943,
+      "word": "刘雨昕带吴建豪从贵阳街头吃到街尾",
+      "onboard_time": 1741711038,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 66929,
@@ -332,39 +364,23 @@
     },
     {
       "raw_hot": 60116,
-      "num": 66903,
+      "num": 70882,
       "word": "赵让cover了Jennie新歌",
       "onboard_time": 1741703484,
       "rank": 44,
       "category": "音乐"
     },
     {
-      "raw_hot": 60103,
-      "num": 172959,
-      "word": "林一我同意收工后马上打开优酷去看",
-      "onboard_time": 1741709781,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 59787,
-      "num": 66892,
+      "num": 70895,
       "word": "菲媒称杜特尔特已登上前往海牙的飞机",
       "onboard_time": 1741702705,
       "rank": 45,
       "category": "国际时政"
     },
     {
-      "raw_hot": 58303,
-      "num": 66877,
-      "word": "赵小童愿我们可以一直微笑",
-      "onboard_time": 1741710560,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 57137,
-      "num": 66922,
+      "num": 70891,
       "word": "阿勒泰民警挖30厘米厚积雪救人",
       "onboard_time": 1741708821,
       "rank": 42,
@@ -372,7 +388,7 @@
     },
     {
       "raw_hot": 54939,
-      "num": 302994,
+      "num": 328831,
       "word": "30秒了解国家账本新安排",
       "onboard_time": 1741706543,
       "rank": 2,
@@ -380,7 +396,7 @@
     },
     {
       "raw_hot": 54087,
-      "num": 66863,
+      "num": 70876,
       "word": "孙颖莎希望和马琳有更好的配合",
       "onboard_time": 1741692924,
       "rank": 47,
@@ -388,7 +404,7 @@
     },
     {
       "raw_hot": 45877,
-      "num": 66855,
+      "num": 70862,
       "word": "MiuMiu大秀",
       "onboard_time": 1741700424,
       "rank": 48,
@@ -401,6 +417,14 @@
       "onboard_time": 1741705224,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 40800,
+      "num": 70869,
+      "word": "一套米字操颈椎舒服了",
+      "onboard_time": 1741711340,
+      "rank": 48,
+      "category": "健康医疗"
     }
   ],
   "hotgov_list": [
