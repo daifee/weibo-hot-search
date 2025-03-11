@@ -1,6 +1,6 @@
 {
   "startTime": 1741624073347,
-  "endTime": 1741704176722,
+  "endTime": 1741706824006,
   "band_list": [
     {
       "raw_hot": 21330054,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1764667,
-      "num": 259336,
+      "num": 275441,
       "word": "王楚钦 麦当劳",
       "onboard_time": 1741701684,
       "rank": 12,
@@ -401,6 +401,14 @@
       "onboard_time": 1741604126,
       "rank": 1,
       "category": "民生新闻,运动健身"
+    },
+    {
+      "raw_hot": 540717,
+      "num": 540717,
+      "word": "赵今麦刘浩存miumiu预热",
+      "onboard_time": 1741703905,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 523281,
@@ -851,6 +859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 284013,
+      "num": 284013,
+      "word": "315骗假不留",
+      "onboard_time": 1741701084,
+      "rank": 39,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 282104,
       "num": 282104,
       "word": "有人担心强制下班变成无偿加班",
@@ -883,6 +899,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 273274,
+      "num": 273274,
+      "word": "多个奢侈品吊牌被炒出天价",
+      "onboard_time": 1741701745,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 271406,
       "num": 246517,
       "word": "女子回应吃火锅涮邻桌剩菜",
@@ -900,7 +924,7 @@
     },
     {
       "raw_hot": 270246,
-      "num": 199343,
+      "num": 202944,
       "word": "焦虑型人格会有哪些肢体动作",
       "onboard_time": 1741701862,
       "rank": 27,
@@ -1139,6 +1163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 224481,
+      "num": 224481,
+      "word": "LV内场看秀待遇",
+      "onboard_time": 1741704324,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 223913,
       "num": 203493,
       "word": "杨幂ccd镜头",
@@ -1331,14 +1363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 194379,
-      "num": 251211,
-      "word": "多个奢侈品吊牌被炒出天价",
-      "onboard_time": 1741701745,
-      "rank": 14,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 191657,
       "num": 191657,
       "word": "茶百道黄子弘凡",
@@ -1449,6 +1473,14 @@
       "onboard_time": 1741655903,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178990,
+      "num": 178990,
+      "word": "胡军演技",
+      "onboard_time": 1741703844,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 178788,
@@ -1593,6 +1625,14 @@
       "onboard_time": 1741690404,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166003,
+      "num": 194774,
+      "word": "杜特尔特正在被强行送往海牙",
+      "onboard_time": 1741702884,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 165868,
@@ -1747,14 +1787,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 153572,
-      "num": 153572,
-      "word": "315骗假不留",
-      "onboard_time": 1741701084,
-      "rank": 39,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 152567,
       "num": 152567,
       "word": "李想一年后再谈MEGA",
@@ -1777,6 +1809,14 @@
       "onboard_time": 1741676782,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150791,
+      "num": 217610,
+      "word": "李兰迪演技",
+      "onboard_time": 1741704324,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 147981,
@@ -1907,6 +1947,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 140643,
+      "num": 140643,
+      "word": "小鬼闹腾直播",
+      "onboard_time": 1741706064,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140637,
       "num": 343558,
       "word": "罗振宇说AI风口给了外行机会",
@@ -1945,6 +1993,14 @@
       "onboard_time": 1741671622,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138593,
+      "num": 138593,
+      "word": "女子端邻桌剩菜涮火锅被朋友连夸",
+      "onboard_time": 1741703363,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138379,
@@ -2099,14 +2155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126684,
-      "num": 126684,
-      "word": "女子端邻桌剩菜涮火锅被朋友连夸",
-      "onboard_time": 1741703363,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 126109,
       "num": 126109,
       "word": "多方回应男子攀爬苏州钉子崖坠亡",
@@ -2155,20 +2203,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 122055,
-      "num": 194774,
-      "word": "杜特尔特正在被强行送往海牙",
-      "onboard_time": 1741702884,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 122008,
       "num": 236909,
       "word": "曾可妮请问在燃什么",
       "onboard_time": 1741663342,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121856,
+      "num": 217323,
+      "word": "法喜寺500年古玉兰开满枝头",
+      "onboard_time": 1741705403,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121813,
@@ -2281,6 +2329,14 @@
       "onboard_time": 1741661903,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 112637,
+      "num": 112637,
+      "word": "跳舞送孩子出园保安曾是舞蹈演员",
+      "onboard_time": 1741704025,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112208,
@@ -2403,19 +2459,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106085,
-      "num": 106085,
-      "word": "跳舞送孩子出园保安曾是舞蹈演员",
-      "onboard_time": 1741704025,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 105391,
       "num": 105391,
       "word": "蒯曼11比3池旼亨",
       "onboard_time": 1741671382,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 105153,
+      "num": 107378,
+      "word": "林孝埈欢迎大家来为中国队加油",
+      "onboard_time": 1741705224,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -2513,14 +2569,6 @@
       "onboard_time": 1741661182,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 99933,
-      "num": 99933,
-      "word": "胡军演技",
-      "onboard_time": 1741703844,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 99265,
@@ -2747,11 +2795,27 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 83556,
+      "num": 278358,
+      "word": "陪爬泰山小伙一天能接七八单",
+      "onboard_time": 1741705643,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80632,
       "num": 403126,
       "word": "第三场代表通道集中采访",
       "onboard_time": 1741682182,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79700,
+      "num": 105357,
+      "word": "郑州双层巴士过隧道因超高被削车顶",
+      "onboard_time": 1741706722,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -3043,6 +3107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52136,
+      "num": 140647,
+      "word": "Paraboy遇见全新的自己",
+      "onboard_time": 1741706783,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 51718,
       "num": 141917,
       "word": "孙颖莎重庆冠军赛赛前训练",
@@ -3105,6 +3177,14 @@
       "onboard_time": 1741698684,
       "rank": 14,
       "category": "国内时政,健康医疗"
+    },
+    {
+      "raw_hot": 45336,
+      "num": 226896,
+      "word": "谁在操纵AI圈天价邀请码",
+      "onboard_time": 1741705403,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 44433,
@@ -3211,14 +3291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 36183,
-      "num": 171805,
-      "word": "赵今麦刘浩存miumiu预热",
-      "onboard_time": 1741703905,
-      "rank": 27,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 35805,
       "num": 285985,
       "word": "蒯曼说首秀表现不错",
@@ -3281,6 +3353,14 @@
       "onboard_time": 1741649661,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 31174,
+      "num": 159557,
+      "word": "手机智能助手存隐私裸奔风险",
+      "onboard_time": 1741705344,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 30050,
@@ -3443,6 +3523,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 11619,
+      "num": 385306,
+      "word": "30秒了解国家账本新安排",
+      "onboard_time": 1741706543,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 11607,
       "num": 144150,
       "word": "林诗栋3比1高承睿",
@@ -3471,6 +3559,9 @@
     },
     {
       "word": "#习近平等党和国家领导人出席人大闭幕会#"
+    },
+    {
+      "word": "#习近平的两会之问#"
     }
   ]
 }
