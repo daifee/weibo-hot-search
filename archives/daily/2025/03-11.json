@@ -1,10 +1,10 @@
 {
   "startTime": 1741624073347,
-  "endTime": 1741685150680,
+  "endTime": 1741685981048,
   "band_list": [
     {
-      "raw_hot": 2207451,
-      "num": 2207451,
+      "raw_hot": 2402076,
+      "num": 2402076,
       "word": "周杰伦方回应",
       "onboard_time": 1741683802,
       "rank": 0,
@@ -163,6 +163,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 842695,
+      "num": 354736,
+      "word": "唐总你夫人怀孕了",
+      "onboard_time": 1741683563,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 818166,
       "num": 415518,
       "word": "莫斯科遭大规模无人机袭击",
@@ -185,14 +193,6 @@
       "onboard_time": 1741675882,
       "rank": 3,
       "category": "情感"
-    },
-    {
-      "raw_hot": 721263,
-      "num": 354736,
-      "word": "唐总你夫人怀孕了",
-      "onboard_time": 1741683563,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 717961,
@@ -347,6 +347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 432117,
+      "num": 353861,
+      "word": "白敬亭换新发色了",
+      "onboard_time": 1741683563,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 428164,
       "num": 315821,
       "word": "郭敬明要留下刘宇最帅的样子",
@@ -425,14 +433,6 @@
       "onboard_time": 1741659982,
       "rank": 8,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 353861,
-      "num": 353861,
-      "word": "白敬亭换新发色了",
-      "onboard_time": 1741683563,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 351118,
@@ -868,7 +868,7 @@
     },
     {
       "raw_hot": 217275,
-      "num": 217275,
+      "num": 310830,
       "word": "体内缺瘦素会让你总想吃吃吃",
       "onboard_time": 1741683503,
       "rank": 30,
@@ -883,8 +883,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 215641,
-      "num": 217711,
+      "raw_hot": 215683,
+      "num": 274070,
       "word": "王一博塞纳河畔",
       "onboard_time": 1741684403,
       "rank": 28,
@@ -956,7 +956,7 @@
     },
     {
       "raw_hot": 197287,
-      "num": 197287,
+      "num": 201610,
       "word": "代表说我的阿勒泰让世界认识我家乡",
       "onboard_time": 1741681642,
       "rank": 32,
@@ -1001,6 +1001,14 @@
       "onboard_time": 1741606584,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190241,
+      "num": 215901,
+      "word": "难哄 戒断反应",
+      "onboard_time": 1741685003,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 187193,
@@ -1099,6 +1107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173376,
+      "num": 170329,
+      "word": "全智贤千颂伊照进现实",
+      "onboard_time": 1741680742,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 172235,
       "num": 172235,
       "word": "段永平空仓",
@@ -1129,14 +1145,6 @@
       "onboard_time": 1741679842,
       "rank": 30,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 164570,
-      "num": 164570,
-      "word": "全智贤千颂伊照进现实",
-      "onboard_time": 1741680742,
-      "rank": 47,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 162949,
@@ -1195,6 +1203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157251,
+      "num": 354482,
+      "word": "莫斯科州上空91架无人机被击落",
+      "onboard_time": 1741673662,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 156020,
       "num": 255718,
       "word": "宋轶美食博主更新了",
@@ -1240,14 +1256,6 @@
       "word": "杜特尔特被转移至维拉莫尔空军基地",
       "onboard_time": 1741677321,
       "rank": 9,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 152586,
-      "num": 354482,
-      "word": "莫斯科州上空91架无人机被击落",
-      "onboard_time": 1741673662,
-      "rank": 14,
       "category": "国际时政"
     },
     {
@@ -1313,6 +1321,14 @@
       "onboard_time": 1741669342,
       "rank": 40,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 140826,
+      "num": 309212,
+      "word": "人民网评北上",
+      "onboard_time": 1741684883,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 140736,
@@ -1411,14 +1427,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 132565,
-      "num": 132565,
-      "word": "难哄 戒断反应",
-      "onboard_time": 1741685003,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 132146,
       "num": 132146,
       "word": "湖人vs篮网",
@@ -1457,6 +1465,14 @@
       "onboard_time": 1741678583,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 126951,
+      "num": 126951,
+      "word": "林诗栋12比10高承睿",
+      "onboard_time": 1741681941,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 125673,
@@ -1561,6 +1577,14 @@
       "onboard_time": 1741682483,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 113188,
+      "num": 113188,
+      "word": "卫枝登顶角色热度榜",
+      "onboard_time": 1741685902,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 113147,
@@ -1739,14 +1763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 96054,
-      "num": 244473,
-      "word": "人民网评北上",
-      "onboard_time": 1741684883,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 95960,
       "num": 190266,
       "word": "没有顶流的命 却得了顶流的病",
@@ -1867,12 +1883,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 80735,
+      "num": 272375,
+      "word": "周杰伦晒出比耶录音照",
+      "onboard_time": 1741685782,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80632,
       "num": 403126,
       "word": "第三场代表通道集中采访",
       "onboard_time": 1741682182,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79072,
+      "num": 273721,
+      "word": "夏以昼演都不演",
+      "onboard_time": 1741684524,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 78377,
@@ -1947,14 +1979,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 68257,
-      "num": 195605,
-      "word": "夏以昼演都不演",
-      "onboard_time": 1741684524,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 66673,
       "num": 189997,
       "word": "虞书欣普法宣传员",
@@ -2011,12 +2035,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 56216,
+      "num": 309362,
+      "word": "越幸福的人说废话越多",
+      "onboard_time": 1741685422,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 55192,
       "num": 189908,
       "word": "龙飞船本周发射接回滞留太空宇航员",
       "onboard_time": 1741619904,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 54029,
+      "num": 217324,
+      "word": "AI给的春季健康指南",
+      "onboard_time": 1741682121,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 53649,
@@ -2075,12 +2115,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 48287,
-      "num": 217324,
-      "word": "AI给的春季健康指南",
-      "onboard_time": 1741682121,
-      "rank": 29,
-      "category": "互联网"
+      "raw_hot": 50093,
+      "num": 717866,
+      "word": "十四届全国人大三次会议今天闭幕",
+      "onboard_time": 1741685363,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 47481,
@@ -2089,6 +2129,14 @@
       "onboard_time": 1741611328,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 46019,
+      "num": 223416,
+      "word": "到点本就应该下班",
+      "onboard_time": 1741685183,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44433,
@@ -2155,6 +2203,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 36742,
+      "num": 355491,
+      "word": "代表委员热议民营经济",
+      "onboard_time": 1741683862,
+      "rank": 9,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 36224,
       "num": 100619,
       "word": "陈飞宇生图",
@@ -2195,20 +2251,20 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 33621,
-      "num": 355491,
-      "word": "代表委员热议民营经济",
-      "onboard_time": 1741683862,
-      "rank": 9,
-      "category": "国内时政,财经"
-    },
-    {
       "raw_hot": 33439,
       "num": 1014492,
       "word": "2025年美丽中国这样建",
       "onboard_time": 1741610786,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 33384,
+      "num": 167868,
+      "word": "茉莉花香茶叶蛋",
+      "onboard_time": 1741684702,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 32424,
@@ -2305,14 +2361,6 @@
       "onboard_time": 1741682301,
       "rank": 14,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 14186,
-      "num": 164176,
-      "word": "茉莉花香茶叶蛋",
-      "onboard_time": 1741684702,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 12368,
