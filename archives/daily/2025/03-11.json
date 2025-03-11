@@ -1,10 +1,18 @@
 {
   "startTime": 1741624073347,
-  "endTime": 1741682625067,
+  "endTime": 1741685150680,
   "band_list": [
     {
+      "raw_hot": 2207451,
+      "num": 2207451,
+      "word": "周杰伦方回应",
+      "onboard_time": 1741683802,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2078595,
-      "num": 501004,
+      "num": 1438864,
       "word": "田静回应英语一成绩",
       "onboard_time": 1741679842,
       "rank": 3,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 1188381,
-      "num": 406601,
+      "num": 665869,
       "word": "偷偷录音是不尊重医生行为",
       "onboard_time": 1741673662,
       "rank": 30,
@@ -73,6 +81,14 @@
       "onboard_time": 1741666885,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1110313,
+      "num": 355241,
+      "word": "苗苗感谢郑恺为她拔掉自己的刺",
+      "onboard_time": 1741682062,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 1109496,
@@ -123,12 +139,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 932153,
+      "num": 397013,
+      "word": "赵樱子晒与男友牵手照",
+      "onboard_time": 1741681702,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 909266,
       "num": 493695,
       "word": "华为",
       "onboard_time": 1741665562,
       "rank": 11,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 873750,
+      "num": 354790,
+      "word": "日本女主播直播中被刺",
+      "onboard_time": 1741682062,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 818166,
@@ -153,6 +185,14 @@
       "onboard_time": 1741675882,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 721263,
+      "num": 354736,
+      "word": "唐总你夫人怀孕了",
+      "onboard_time": 1741683563,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 717961,
@@ -209,6 +249,14 @@
       "onboard_time": 1741671142,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 616951,
+      "num": 616951,
+      "word": "杨幂王一博官图",
+      "onboard_time": 1741681941,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 615325,
@@ -299,28 +347,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 432982,
-      "num": 432982,
-      "word": "杨幂王一博官图",
-      "onboard_time": 1741681941,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 428164,
       "num": 315821,
       "word": "郭敬明要留下刘宇最帅的样子",
       "onboard_time": 1741675462,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 424096,
-      "num": 397013,
-      "word": "赵樱子晒与男友牵手照",
-      "onboard_time": 1741681702,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 421341,
@@ -371,6 +403,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 391315,
+      "num": 374193,
+      "word": "男子因妻子生育能力受限起诉离婚",
+      "onboard_time": 1741680383,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 380938,
       "num": 248597,
       "word": "王一博 花期",
@@ -387,12 +427,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 374193,
-      "num": 374193,
-      "word": "男子因妻子生育能力受限起诉离婚",
-      "onboard_time": 1741680383,
-      "rank": 20,
-      "category": "民生新闻"
+      "raw_hot": 353861,
+      "num": 353861,
+      "word": "白敬亭换新发色了",
+      "onboard_time": 1741683563,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 351118,
@@ -561,14 +601,6 @@
       "onboard_time": 1741616845,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 284073,
-      "num": 284073,
-      "word": "苗苗感谢郑恺为她拔掉自己的刺",
-      "onboard_time": 1741682062,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 282104,
@@ -787,6 +819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 227318,
+      "num": 227318,
+      "word": "细菌死去会将自己尸体献给亲人",
+      "onboard_time": 1741680682,
+      "rank": 45,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 226014,
       "num": 226014,
       "word": "刘诗诗回复杨幂生日祝福",
@@ -811,6 +851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220779,
+      "num": 220779,
+      "word": "我追星",
+      "onboard_time": 1741683383,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219379,
       "num": 219379,
       "word": "宋茜好像霍格沃茨来的",
@@ -819,12 +867,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 217275,
+      "num": 217275,
+      "word": "体内缺瘦素会让你总想吃吃吃",
+      "onboard_time": 1741683503,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 217127,
       "num": 217127,
       "word": "疑似权志龙被排挤",
       "onboard_time": 1741596082,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 215641,
+      "num": 217711,
+      "word": "王一博塞纳河畔",
+      "onboard_time": 1741684403,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 215222,
@@ -891,6 +955,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197287,
+      "num": 197287,
+      "word": "代表说我的阿勒泰让世界认识我家乡",
+      "onboard_time": 1741681642,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 195509,
+      "num": 195509,
+      "word": "被这个鱼头笑发疯了",
+      "onboard_time": 1741681163,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195478,
       "num": 195478,
       "word": "滤镜大结局点映",
@@ -905,14 +985,6 @@
       "onboard_time": 1741666103,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 192127,
-      "num": 192127,
-      "word": "日本女主播直播中被刺",
-      "onboard_time": 1741682062,
-      "rank": 28,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 191657,
@@ -977,14 +1049,6 @@
       "onboard_time": 1741672582,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 179444,
-      "num": 179444,
-      "word": "被这个鱼头笑发疯了",
-      "onboard_time": 1741681163,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 179231,
@@ -1059,6 +1123,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167084,
+      "num": 167084,
+      "word": "9块9咖啡还能撑多久",
+      "onboard_time": 1741679842,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 164570,
+      "num": 164570,
+      "word": "全智贤千颂伊照进现实",
+      "onboard_time": 1741680742,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 162949,
       "num": 162949,
       "word": "传DeepSeekR2下周发布",
@@ -1073,6 +1153,14 @@
       "onboard_time": 1741660821,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 160401,
+      "num": 398985,
+      "word": "离婚后发现对方还有财产再诉分割",
+      "onboard_time": 1741682121,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159275,
@@ -1099,12 +1187,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 157323,
-      "num": 152451,
-      "word": "9块9咖啡还能撑多久",
-      "onboard_time": 1741679842,
-      "rank": 30,
-      "category": "科学科普"
+      "raw_hot": 157635,
+      "num": 157635,
+      "word": "董璇带女儿矫正牙齿",
+      "onboard_time": 1741684164,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 156020,
@@ -1155,12 +1243,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 153075,
-      "num": 153075,
-      "word": "代表说我的阿勒泰让世界认识我家乡",
-      "onboard_time": 1741681642,
-      "rank": 32,
-      "category": "国内时政"
+      "raw_hot": 152586,
+      "num": 354482,
+      "word": "莫斯科州上空91架无人机被击落",
+      "onboard_time": 1741673662,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 151200,
@@ -1259,6 +1347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137628,
+      "num": 137628,
+      "word": "严浩翔中国新说唱2025录制",
+      "onboard_time": 1741684463,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137372,
       "num": 251750,
       "word": "美股熊市要来了吗",
@@ -1291,6 +1387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 134848,
+      "num": 134848,
+      "word": "我是大彬同学回应鸿蒙智行法务",
+      "onboard_time": 1741684043,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 133956,
       "num": 190083,
       "word": "中国女游客在斯里兰卡火车上探身坠落",
@@ -1305,6 +1409,14 @@
       "onboard_time": 1741679481,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 132565,
+      "num": 132565,
+      "word": "难哄 戒断反应",
+      "onboard_time": 1741685003,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 132146,
@@ -1355,14 +1467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 124511,
-      "num": 124511,
-      "word": "细菌死去会将自己尸体献给亲人",
-      "onboard_time": 1741680682,
-      "rank": 45,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 123844,
       "num": 139240,
       "word": "虞书欣在就枝一声",
@@ -1377,6 +1481,14 @@
       "onboard_time": 1741615525,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 123341,
+      "num": 123341,
+      "word": "苹果折叠屏iPadPro曝光",
+      "onboard_time": 1741684043,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 122008,
@@ -1515,14 +1627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 104994,
-      "num": 104994,
-      "word": "全智贤千颂伊照进现实",
-      "onboard_time": 1741680742,
-      "rank": 47,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 103911,
       "num": 190164,
       "word": "胡歌谈女儿涂鸦玻璃窗满眼宠溺",
@@ -1635,6 +1739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96054,
+      "num": 244473,
+      "word": "人民网评北上",
+      "onboard_time": 1741684883,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 95960,
       "num": 190266,
       "word": "没有顶流的命 却得了顶流的病",
@@ -1681,6 +1793,14 @@
       "onboard_time": 1741658481,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 90303,
+      "num": 323173,
+      "word": "正式成为黄奕的发言粉",
+      "onboard_time": 1741683142,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 90162,
@@ -1827,6 +1947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 68257,
+      "num": 195605,
+      "word": "夏以昼演都不演",
+      "onboard_time": 1741684524,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 66673,
       "num": 189997,
       "word": "虞书欣普法宣传员",
@@ -1947,6 +2075,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 48287,
+      "num": 217324,
+      "word": "AI给的春季健康指南",
+      "onboard_time": 1741682121,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 47481,
       "num": 189794,
       "word": "日本女星岸本梓离世",
@@ -1996,7 +2132,7 @@
     },
     {
       "raw_hot": 41340,
-      "num": 988192,
+      "num": 1016155,
       "word": "3个关键词解锁民营经济发展密码",
       "onboard_time": 1741666943,
       "rank": 2,
@@ -2057,6 +2193,14 @@
       "onboard_time": 1741680622,
       "rank": 29,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 33621,
+      "num": 355491,
+      "word": "代表委员热议民营经济",
+      "onboard_time": 1741683862,
+      "rank": 9,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 33439,
@@ -2131,14 +2275,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 22948,
-      "num": 398985,
-      "word": "离婚后发现对方还有财产再诉分割",
-      "onboard_time": 1741682121,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 22338,
       "num": 145613,
       "word": "我的宝藏食谱",
@@ -2171,20 +2307,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 14186,
+      "num": 164176,
+      "word": "茉莉花香茶叶蛋",
+      "onboard_time": 1741684702,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 12368,
       "num": 15924,
       "word": "建议提升对青少年心理健康重视程度",
       "onboard_time": 1741636394,
       "rank": 46,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 11714,
-      "num": 180513,
-      "word": "AI给的春季健康指南",
-      "onboard_time": 1741682121,
-      "rank": 29,
-      "category": "互联网"
     },
     {
       "raw_hot": 11607,
@@ -2212,6 +2348,9 @@
     },
     {
       "word": "#习近平的两会时间#"
+    },
+    {
+      "word": "#习近平等党和国家领导人出席人大闭幕会#"
     }
   ]
 }

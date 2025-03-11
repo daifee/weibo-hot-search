@@ -1,0 +1,410 @@
+{
+  "runTime": 1741685150680,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2207451,
+        "num": 2207451,
+        "word": "周杰伦方回应",
+        "onboard_time": 1741683802,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1438864,
+        "num": 1438864,
+        "word": "田静回应英语一成绩",
+        "onboard_time": 1741679842,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 28073,
+        "num": 1016155,
+        "word": "3个关键词解锁民营经济发展密码",
+        "onboard_time": 1741666943,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 665869,
+        "num": 665869,
+        "word": "偷偷录音是不尊重医生行为",
+        "onboard_time": 1741673662,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 616951,
+        "num": 616951,
+        "word": "杨幂王一博官图",
+        "onboard_time": 1741681941,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 490933,
+        "num": 490933,
+        "word": "美考虑将韩国列为敏感国家",
+        "onboard_time": 1741677440,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 408153,
+        "num": 408153,
+        "word": "始祖鸟吊牌被炒到最高300元一张",
+        "onboard_time": 1741666885,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 398028,
+        "num": 398028,
+        "word": "田静考试只背题没做题",
+        "onboard_time": 1741679781,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 355683,
+        "num": 355683,
+        "word": "金价",
+        "onboard_time": 1741661302,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 33621,
+        "num": 355491,
+        "word": "代表委员热议民营经济",
+        "onboard_time": 1741683862,
+        "rank": 9,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 1110313,
+        "num": 355241,
+        "word": "苗苗感谢郑恺为她拔掉自己的刺",
+        "onboard_time": 1741682062,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 932153,
+        "num": 355147,
+        "word": "赵樱子晒与男友牵手照",
+        "onboard_time": 1741681702,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 873750,
+        "num": 354790,
+        "word": "日本女主播直播中被刺",
+        "onboard_time": 1741682062,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 721263,
+        "num": 354736,
+        "word": "唐总你夫人怀孕了",
+        "onboard_time": 1741683563,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152586,
+        "num": 354482,
+        "word": "莫斯科州上空91架无人机被击落",
+        "onboard_time": 1741673662,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 454656,
+        "num": 354249,
+        "word": "孟子义李昀锐即将二搭",
+        "onboard_time": 1741677440,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 378441,
+        "num": 354034,
+        "word": "又是费启鸣",
+        "onboard_time": 1741671083,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353861,
+        "num": 353861,
+        "word": "白敬亭换新发色了",
+        "onboard_time": 1741683563,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90303,
+        "num": 323173,
+        "word": "正式成为黄奕的发言粉",
+        "onboard_time": 1741683142,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315120,
+        "num": 315120,
+        "word": "190是一款很痛的身高",
+        "onboard_time": 1741675882,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 391315,
+        "num": 314720,
+        "word": "男子因妻子生育能力受限起诉离婚",
+        "onboard_time": 1741680383,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288849,
+        "num": 288849,
+        "word": "费启鸣是虞书欣的嫁妆",
+        "onboard_time": 1741678882,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285758,
+        "num": 285758,
+        "word": "海尔",
+        "onboard_time": 1741677501,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 268195,
+        "num": 268195,
+        "word": "人大会议闭幕会",
+        "onboard_time": 1741677262,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 96054,
+        "num": 244473,
+        "word": "人民网评北上",
+        "onboard_time": 1741684883,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237788,
+        "num": 237788,
+        "word": "金赛纶生前几乎没有任何财产",
+        "onboard_time": 1741670422,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227318,
+        "num": 227318,
+        "word": "细菌死去会将自己尸体献给亲人",
+        "onboard_time": 1741680682,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 220779,
+        "num": 220779,
+        "word": "我追星",
+        "onboard_time": 1741683383,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215641,
+        "num": 217711,
+        "word": "王一博塞纳河畔",
+        "onboard_time": 1741684403,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 48287,
+        "num": 217324,
+        "word": "AI给的春季健康指南",
+        "onboard_time": 1741682121,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 217275,
+        "num": 217275,
+        "word": "体内缺瘦素会让你总想吃吃吃",
+        "onboard_time": 1741683503,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 208299,
+        "num": 208299,
+        "word": "杜特尔特被捕",
+        "onboard_time": 1741664543,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 199599,
+        "num": 199599,
+        "word": "直播间买8盒蓝莓到手每盒只有几颗",
+        "onboard_time": 1741672342,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197287,
+        "num": 197287,
+        "word": "代表说我的阿勒泰让世界认识我家乡",
+        "onboard_time": 1741681642,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 68257,
+        "num": 195605,
+        "word": "夏以昼演都不演",
+        "onboard_time": 1741684524,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 195509,
+        "num": 195509,
+        "word": "被这个鱼头笑发疯了",
+        "onboard_time": 1741681163,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179903,
+        "num": 179903,
+        "word": "虞书欣林一为新剧换情头",
+        "onboard_time": 1741680982,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167084,
+        "num": 167084,
+        "word": "9块9咖啡还能撑多久",
+        "onboard_time": 1741679842,
+        "rank": 37,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 164570,
+        "num": 164570,
+        "word": "全智贤千颂伊照进现实",
+        "onboard_time": 1741680742,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 14186,
+        "num": 164176,
+        "word": "茉莉花香茶叶蛋",
+        "onboard_time": 1741684702,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 164112,
+        "num": 164112,
+        "word": "王源外网媒体生图",
+        "onboard_time": 1741670062,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 160401,
+        "num": 160401,
+        "word": "离婚后发现对方还有财产再诉分割",
+        "onboard_time": 1741682121,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157635,
+        "num": 157635,
+        "word": "董璇带女儿矫正牙齿",
+        "onboard_time": 1741684164,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137628,
+        "num": 137628,
+        "word": "严浩翔中国新说唱2025录制",
+        "onboard_time": 1741684463,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134848,
+        "num": 134848,
+        "word": "我是大彬同学回应鸿蒙智行法务",
+        "onboard_time": 1741684043,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 133671,
+        "num": 133671,
+        "word": "大学毕业回老家养了4000头牛",
+        "onboard_time": 1741674441,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 132565,
+        "num": 132565,
+        "word": "难哄 戒断反应",
+        "onboard_time": 1741685003,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129292,
+        "num": 129292,
+        "word": "女子生完3胎后身高长到178cm",
+        "onboard_time": 1741658720,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123341,
+        "num": 123341,
+        "word": "苹果折叠屏iPadPro曝光",
+        "onboard_time": 1741684043,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 119884,
+        "num": 119884,
+        "word": "宋茜好像霍格沃茨来的",
+        "onboard_time": 1741680921,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平等党和国家领导人出席人大闭幕会#"
+    }
+  }
+}
