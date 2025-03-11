@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741664094144,
+  "endTime": 1741664773441,
   "band_list": [
     {
       "raw_hot": 2815044,
@@ -163,7 +163,7 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 1459334,
+      "raw_hot": 1463829,
       "num": 1459334,
       "word": "加班文化开始退潮",
       "onboard_time": 1741659800,
@@ -225,6 +225,14 @@
       "onboard_time": 1741575921,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1179844,
+      "num": 1188775,
+      "word": "靳东回应台艺人力挺统一面临制裁",
+      "onboard_time": 1741661182,
+      "rank": 4,
+      "category": "国内时政,艺人"
     },
     {
       "raw_hot": 1175299,
@@ -291,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1079526,
+      "num": 1079526,
+      "word": "金价",
+      "onboard_time": 1741661302,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1077743,
       "num": 657068,
       "word": "阚清子自曝体重113斤",
@@ -315,14 +331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1036255,
-      "num": 1036255,
-      "word": "靳东回应台艺人力挺统一面临制裁",
-      "onboard_time": 1741661182,
-      "rank": 4,
-      "category": "国内时政,艺人"
-    },
-    {
       "raw_hot": 1033332,
       "num": 320133,
       "word": "海底捞",
@@ -345,14 +353,6 @@
       "onboard_time": 1741529903,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 993944,
-      "num": 993944,
-      "word": "金价",
-      "onboard_time": 1741661302,
-      "rank": 16,
-      "category": "财经"
     },
     {
       "raw_hot": 993672,
@@ -1395,6 +1395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 379473,
+      "num": 379473,
+      "word": "10岁男童见起火电话摇来119",
+      "onboard_time": 1741659982,
+      "rank": 8,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 378297,
       "num": 545124,
       "word": "建议直播打赏建立消费冷静期",
@@ -1465,14 +1473,6 @@
       "onboard_time": 1741593500,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 363462,
-      "num": 363462,
-      "word": "10岁男童见起火电话摇来119",
-      "onboard_time": 1741659982,
-      "rank": 8,
-      "category": "正能量"
     },
     {
       "raw_hot": 362341,
@@ -1987,6 +1987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 279203,
+      "num": 279203,
+      "word": "王一博长发怼脸",
+      "onboard_time": 1741662020,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 278209,
       "num": 205083,
       "word": "老人花29块买老年代步车快递只有巴掌大",
@@ -2123,6 +2131,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 258776,
+      "num": 258776,
+      "word": "泽连斯基乘专机抵达沙特",
+      "onboard_time": 1741662803,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 258346,
       "num": 305721,
       "word": "建议破除教育内卷",
@@ -2137,14 +2153,6 @@
       "onboard_time": 1741489400,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 255342,
-      "num": 255342,
-      "word": "王一博长发怼脸",
-      "onboard_time": 1741662020,
-      "rank": 17,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 252861,
@@ -2235,6 +2243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 240779,
+      "num": 167861,
+      "word": "因莲花楼走红狗狗7岁戏龄近6年",
+      "onboard_time": 1741662622,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239861,
       "num": 232698,
       "word": "男神成了我的男主角",
@@ -2273,14 +2289,6 @@
       "onboard_time": 1741579340,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 234874,
-      "num": 167861,
-      "word": "因莲花楼走红狗狗7岁戏龄近6年",
-      "onboard_time": 1741662622,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 234687,
@@ -2331,20 +2339,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228194,
+      "num": 363496,
+      "word": "嘘国王在冬眠追剧日历",
+      "onboard_time": 1741661782,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 227451,
       "num": 205161,
       "word": "85年婆婆带娃被误认为孩子亲妈",
       "onboard_time": 1741650080,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 227425,
-      "num": 363496,
-      "word": "嘘国王在冬眠追剧日历",
-      "onboard_time": 1741661782,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 226857,
@@ -2449,6 +2457,14 @@
       "onboard_time": 1741495401,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 215222,
+      "num": 215222,
+      "word": "貂蝉穆夏联动新皮肤",
+      "onboard_time": 1741661060,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 215091,
@@ -2625,6 +2641,14 @@
       "onboard_time": 1741578622,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 201494,
+      "num": 201494,
+      "word": "时代峰峻的相册全是声明",
+      "onboard_time": 1741663582,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 200686,
@@ -2835,14 +2859,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 190643,
-      "num": 190643,
-      "word": "泽连斯基乘专机抵达沙特",
-      "onboard_time": 1741662803,
-      "rank": 15,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 190479,
       "num": 190479,
       "word": "朱亚文沈佳妮否认离婚后首同框",
@@ -2969,6 +2985,14 @@
       "onboard_time": 1741510941,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183152,
+      "num": 233905,
+      "word": "有人担心强制下班变成无偿加班",
+      "onboard_time": 1741663522,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182454,
@@ -3171,6 +3195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171269,
+      "num": 161352,
+      "word": "闵熙珍最新ins头像",
+      "onboard_time": 1741664123,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170127,
       "num": 170127,
       "word": "恋爱兄妹全员直播超好嗑",
@@ -3193,6 +3225,14 @@
       "onboard_time": 1741507400,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168426,
+      "num": 168426,
+      "word": "两会",
+      "onboard_time": 1741565421,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 168120,
@@ -3475,14 +3515,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 157612,
-      "num": 169784,
-      "word": "貂蝉穆夏联动新皮肤",
-      "onboard_time": 1741661060,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 156308,
       "num": 156308,
       "word": "司机早高峰在马路中央停车买早餐",
@@ -3513,6 +3545,14 @@
       "onboard_time": 1741614985,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155396,
+      "num": 155396,
+      "word": "广州长隆回应垂直过山车永久拆除",
+      "onboard_time": 1741664424,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155296,
@@ -3827,6 +3867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142954,
+      "num": 150502,
+      "word": "赵丽颖高月香锁喉杀",
+      "onboard_time": 1741663582,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 142712,
       "num": 142712,
       "word": "医院回应宣传给3岁智商妈妈分娩",
@@ -3907,14 +3955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 138617,
-      "num": 138617,
-      "word": "时代峰峻的相册全是声明",
-      "onboard_time": 1741663582,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 138270,
       "num": 138270,
       "word": "CBA",
@@ -3961,14 +4001,6 @@
       "onboard_time": 1741610246,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 136802,
-      "num": 136802,
-      "word": "两会",
-      "onboard_time": 1741565421,
-      "rank": 35,
-      "category": "国内时政"
     },
     {
       "raw_hot": 136556,
@@ -4339,6 +4371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 123844,
+      "num": 139240,
+      "word": "虞书欣在就枝一声",
+      "onboard_time": 1741664424,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123767,
       "num": 193500,
       "word": "建议把手机还给孩子",
@@ -4451,20 +4491,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 122484,
-      "num": 133792,
-      "word": "赵丽颖高月香锁喉杀",
-      "onboard_time": 1741663582,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 122181,
       "num": 122181,
       "word": "爱你我还能再看1000集",
       "onboard_time": 1741517543,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122008,
+      "num": 122008,
+      "word": "曾可妮请问在燃什么",
+      "onboard_time": 1741663342,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 121914,
@@ -4939,6 +4979,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 110563,
+      "num": 145633,
+      "word": "惠英红封面 绝世侠女",
+      "onboard_time": 1741664662,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 110336,
       "num": 110336,
       "word": "王一博秒变萌娃",
@@ -4987,14 +5035,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 109071,
-      "num": 109071,
-      "word": "曾可妮请问在燃什么",
-      "onboard_time": 1741663342,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 108471,
       "num": 108471,
       "word": "2月全国居民消费价格同比下降0.7%",
@@ -5025,6 +5065,14 @@
       "onboard_time": 1741484240,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107872,
+      "num": 107872,
+      "word": "deepseek教你如何提升表达力",
+      "onboard_time": 1741664181,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 107847,
@@ -5195,12 +5243,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102788,
+      "num": 102788,
+      "word": "嘘国王在冬眠云包场",
+      "onboard_time": 1741664601,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102689,
       "num": 102689,
       "word": "ACT对战成都Wolves",
       "onboard_time": 1741501100,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 102466,
+      "num": 268964,
+      "word": "美乌代表团将于11日在沙特举行会谈",
+      "onboard_time": 1741661661,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 102320,
@@ -5403,6 +5467,14 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 98847,
+      "num": 98847,
+      "word": "鸿蒙智行法务正式起诉自媒体博主",
+      "onboard_time": 1741664662,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 98332,
       "num": 98332,
       "word": "王源巴黎出街",
@@ -5412,7 +5484,7 @@
     },
     {
       "raw_hot": 98233,
-      "num": 98233,
+      "num": 161536,
       "word": "湖人又送温暖了",
       "onboard_time": 1741661601,
       "rank": 46,
@@ -5457,14 +5529,6 @@
       "onboard_time": 1741478838,
       "rank": 47,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 96962,
-      "num": 268964,
-      "word": "美乌代表团将于11日在沙特举行会谈",
-      "onboard_time": 1741661661,
-      "rank": 22,
-      "category": "国际时政"
     },
     {
       "raw_hot": 96438,
@@ -6235,6 +6299,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 58932,
+      "num": 161589,
+      "word": "杜特尔特被捕",
+      "onboard_time": 1741664543,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 58927,
       "num": 184982,
       "word": "孙颖莎回应对阵波尔卡诺娃",
@@ -6584,14 +6656,6 @@
       "word": "如何斩断偷拍产业链",
       "onboard_time": 1741479979,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39703,
-      "num": 200887,
-      "word": "有人担心强制下班变成无偿加班",
-      "onboard_time": 1741663522,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
