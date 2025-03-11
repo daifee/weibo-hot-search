@@ -1,6 +1,6 @@
 {
   "startTime": 1741710703289,
-  "endTime": 1741731739321,
+  "endTime": 1741732790876,
   "band_list": [
     {
       "raw_hot": 1917180,
@@ -43,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 479739,
+      "num": 79228,
+      "word": "金秀贤最新ins已经被攻陷",
+      "onboard_time": 1741728014,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 458116,
       "num": 172181,
       "word": "315骗假不留",
@@ -67,14 +75,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 360015,
-      "num": 53783,
-      "word": "金秀贤最新ins已经被攻陷",
-      "onboard_time": 1741728014,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 343705,
       "num": 178772,
       "word": "疑似金赛纶酒驾原因",
@@ -83,8 +83,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 288984,
-      "num": 391393,
+      "raw_hot": 336528,
+      "num": 492750,
       "word": "赞助商回应麦琳参加综艺遭抵制",
       "onboard_time": 1741711639,
       "rank": 11,
@@ -267,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93585,
+      "num": 78663,
+      "word": "巴基斯坦载超400人火车遇袭",
+      "onboard_time": 1741711998,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 92485,
       "num": 92485,
       "word": "焦虑型人格会有哪些肢体动作",
@@ -321,14 +329,6 @@
       "onboard_time": 1741693283,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 78500,
-      "num": 62494,
-      "word": "巴基斯坦载超400人火车遇袭",
-      "onboard_time": 1741711998,
-      "rank": 22,
-      "category": "国际时政"
     },
     {
       "raw_hot": 73447,
@@ -483,6 +483,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 37848,
+      "num": 46661,
+      "word": "大学生坠崖地空接力救援",
+      "onboard_time": 1741728854,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27038,
+      "num": 47287,
+      "word": "王一博巴黎时装周",
+      "onboard_time": 1741730174,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 26692,
       "num": 26692,
       "word": "祝绪丹支持虞书欣新剧",
@@ -491,20 +507,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 25963,
-      "num": 47287,
-      "word": "王一博巴黎时装周",
-      "onboard_time": 1741730174,
-      "rank": 23,
-      "category": "作品衍生,时尚"
+      "raw_hot": 25457,
+      "num": 45955,
+      "word": "店家回应8盒蓝莓到手每盒仅几颗",
+      "onboard_time": 1741731616,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 25677,
-      "num": 46661,
-      "word": "大学生坠崖地空接力救援",
-      "onboard_time": 1741728854,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 25318,
+      "num": 46104,
+      "word": "老外已经开始推荐哪吒1了",
+      "onboard_time": 1741720215,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 24630,
@@ -515,7 +531,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 24342,
+      "raw_hot": 24538,
       "num": 54146,
       "word": "代表说农业和农村都需要年轻人",
       "onboard_time": 1741716795,
@@ -531,15 +547,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 20283,
-      "num": 46104,
-      "word": "老外已经开始推荐哪吒1了",
-      "onboard_time": 1741720215,
-      "rank": 43,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 18992,
+      "raw_hot": 19001,
       "num": 45978,
       "word": "莫斯科州遭大规模无人机袭击致1死多伤",
       "onboard_time": 1741721413,
@@ -553,6 +561,14 @@
       "onboard_time": 1741715175,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 16770,
+      "num": 30979,
+      "word": "医生解读如何有效减肥",
+      "onboard_time": 1741732337,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 14844,
@@ -569,14 +585,6 @@
       "onboard_time": 1741724954,
       "rank": 48,
       "category": "国内时政,体育"
-    },
-    {
-      "raw_hot": 14634,
-      "num": 45955,
-      "word": "店家回应8盒蓝莓到手每盒仅几颗",
-      "onboard_time": 1741731616,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14305,
