@@ -1,6 +1,6 @@
 {
   "startTime": 1741624073347,
-  "endTime": 1741692044240,
+  "endTime": 1741692966350,
   "band_list": [
     {
       "raw_hot": 21330054,
@@ -219,6 +219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 691245,
+      "num": 1110599,
+      "word": "徐克自曝通话记录",
+      "onboard_time": 1741688604,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 661426,
       "num": 305835,
       "word": "刘畊宏晒周杰伦厦门跳操照",
@@ -315,12 +323,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 505555,
-      "num": 505555,
-      "word": "徐克自曝通话记录",
-      "onboard_time": 1741688604,
-      "rank": 33,
-      "category": "体育"
+      "raw_hot": 504904,
+      "num": 300219,
+      "word": "华为多名产品线负责人被开除",
+      "onboard_time": 1741687104,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 498355,
@@ -345,14 +353,6 @@
       "onboard_time": 1741656141,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 479874,
-      "num": 300219,
-      "word": "华为多名产品线负责人被开除",
-      "onboard_time": 1741687104,
-      "rank": 17,
-      "category": "互联网"
     },
     {
       "raw_hot": 445643,
@@ -435,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 404174,
+      "num": 404174,
+      "word": "14岁少女清洗文身要花76万谁之过",
+      "onboard_time": 1741691424,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 403130,
       "num": 263849,
       "word": "吴彦祖398元英语课销售额超500万",
@@ -483,6 +491,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 361861,
+      "num": 361861,
+      "word": "王一博香奈儿内场落座",
+      "onboard_time": 1741692144,
+      "rank": 4,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 351163,
+      "num": 351163,
+      "word": "越幸福的人说废话越多",
+      "onboard_time": 1741685422,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 351118,
       "num": 351118,
       "word": "建议女厕所从设计端改革",
@@ -513,14 +537,6 @@
       "onboard_time": 1741669405,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 345053,
-      "num": 345053,
-      "word": "越幸福的人说废话越多",
-      "onboard_time": 1741685422,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 342235,
@@ -819,6 +835,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 249487,
+      "num": 249487,
+      "word": "武林外传直播",
+      "onboard_time": 1741691784,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 248200,
       "num": 235290,
       "word": "全智贤巴黎时装周直拍",
@@ -1043,6 +1067,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 205325,
+      "num": 205325,
+      "word": "牛马8分钟抵24小时休息法",
+      "onboard_time": 1741687886,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 203386,
       "num": 203386,
       "word": "金赛纶家人发声",
@@ -1107,20 +1139,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191946,
+      "num": 191946,
+      "word": "杨天真发了虞书欣",
+      "onboard_time": 1741692444,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191657,
       "num": 191657,
       "word": "茶百道黄子弘凡",
       "onboard_time": 1741659982,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 191093,
-      "num": 191093,
-      "word": "牛马8分钟抵24小时休息法",
-      "onboard_time": 1741687886,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 190409,
@@ -1139,16 +1171,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 188683,
-      "num": 188683,
-      "word": "14岁少女清洗文身要花76万谁之过",
-      "onboard_time": 1741691424,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 187541,
-      "num": 176175,
+      "num": 178748,
       "word": "孙颖莎11比9波尔卡诺娃",
       "onboard_time": 1741691904,
       "rank": 32,
@@ -1243,6 +1267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175614,
+      "num": 200502,
+      "word": "曾可妮回应把裤子套在身上",
+      "onboard_time": 1741690284,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174922,
       "num": 266952,
       "word": "美股",
@@ -1257,6 +1289,14 @@
       "onboard_time": 1741618166,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174505,
+      "num": 273134,
+      "word": "孙颖莎3比0波尔卡诺娃",
+      "onboard_time": 1741691723,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 174012,
@@ -1312,6 +1352,14 @@
       "word": "等了23集男女主从克制吻到放肆",
       "onboard_time": 1741690404,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 165962,
+      "num": 198649,
+      "word": "滤镜林媛怀孕了",
+      "onboard_time": 1741692263,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -1459,12 +1507,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 150666,
-      "num": 186618,
-      "word": "曾可妮回应把裤子套在身上",
-      "onboard_time": 1741690284,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 147981,
+      "num": 147981,
+      "word": "京城大师赛",
+      "onboard_time": 1741692805,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 147286,
@@ -1483,12 +1531,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144195,
+      "num": 144195,
+      "word": "百万埃尔法车主破防了",
+      "onboard_time": 1741688965,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142954,
       "num": 150502,
       "word": "赵丽颖高月香锁喉杀",
       "onboard_time": 1741663582,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 142819,
+      "num": 142819,
+      "word": "余承东辟谣和刘亦菲恋情",
+      "onboard_time": 1741692805,
+      "rank": 41,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 142712,
@@ -1545,6 +1609,14 @@
       "onboard_time": 1741665862,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 139148,
+      "num": 139148,
+      "word": "孙颖莎3比0胜波尔卡诺娃",
+      "onboard_time": 1741692502,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 138692,
@@ -1611,14 +1683,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 135706,
-      "num": 135706,
-      "word": "百万埃尔法车主破防了",
-      "onboard_time": 1741688965,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 135248,
       "num": 135248,
       "word": "孙颖莎削球训练",
@@ -1649,6 +1713,14 @@
       "onboard_time": 1741679481,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 132487,
+      "num": 132487,
+      "word": "似锦",
+      "onboard_time": 1741692743,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 132146,
@@ -1787,6 +1859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119513,
+      "num": 119513,
+      "word": "国王首播反馈",
+      "onboard_time": 1741692624,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117728,
       "num": 117728,
       "word": "以创新之力推动传统IP破圈出海",
@@ -1899,14 +1979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 106348,
-      "num": 273134,
-      "word": "孙颖莎3比0波尔卡诺娃",
-      "onboard_time": 1741691723,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 106178,
       "num": 164050,
       "word": "孙颖莎蒯曼重庆冠军赛首秀",
@@ -1937,14 +2009,6 @@
       "onboard_time": 1741610485,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 103767,
-      "num": 103767,
-      "word": "武林外传直播",
-      "onboard_time": 1741691784,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 103649,
@@ -2041,6 +2105,14 @@
       "onboard_time": 1741581683,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97533,
+      "num": 244974,
+      "word": "中方回应杜特尔特被捕",
+      "onboard_time": 1741692084,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 96697,
@@ -2171,6 +2243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 82514,
+      "num": 255785,
+      "word": "直播间喊爹妈演互撕套路老年人",
+      "onboard_time": 1741692024,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80632,
       "num": 403126,
       "word": "第三场代表通道集中采访",
@@ -2217,6 +2297,14 @@
       "onboard_time": 1741611566,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 75612,
+      "num": 197942,
+      "word": "深圳一商场设父婴室",
+      "onboard_time": 1741691186,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75098,
@@ -2307,12 +2395,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 57954,
-      "num": 184078,
-      "word": "深圳一商场设父婴室",
-      "onboard_time": 1741691186,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 60426,
+      "num": 193050,
+      "word": "美国政府资金或将耗尽",
+      "onboard_time": 1741692805,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 57333,
@@ -2369,14 +2457,6 @@
       "onboard_time": 1741619904,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 54269,
-      "num": 105777,
-      "word": "直播间喊爹妈演互撕套路老年人",
-      "onboard_time": 1741692024,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 54029,
@@ -2516,7 +2596,7 @@
     },
     {
       "raw_hot": 40912,
-      "num": 406600,
+      "num": 457025,
       "word": "中国稳健发展为世界带来信心与力量",
       "onboard_time": 1741688185,
       "rank": 2,
@@ -2540,7 +2620,7 @@
     },
     {
       "raw_hot": 38583,
-      "num": 188008,
+      "num": 204012,
       "word": "秀场上的第一视角",
       "onboard_time": 1741689263,
       "rank": 36,
@@ -2635,6 +2715,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 31494,
+      "num": 205090,
+      "word": "强制下班是中国企业文化的进步",
+      "onboard_time": 1741692502,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30050,
       "num": 184984,
       "word": "铁锅炖排骨贴饼",
@@ -2657,6 +2745,14 @@
       "onboard_time": 1741597881,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 26210,
+      "num": 143726,
+      "word": "孙颖莎希望和马琳有更好的配合",
+      "onboard_time": 1741692924,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 26068,
@@ -2700,7 +2796,7 @@
     },
     {
       "raw_hot": 22726,
-      "num": 135884,
+      "num": 138940,
       "word": "夸克比家长还会教作文",
       "onboard_time": 1741689263,
       "rank": 38,

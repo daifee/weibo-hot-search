@@ -1,0 +1,410 @@
+{
+  "runTime": 1741692966350,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 691245,
+        "num": 1110599,
+        "word": "徐克自曝通话记录",
+        "onboard_time": 1741688604,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 592901,
+        "num": 592901,
+        "word": "偷偷录音是不尊重医生行为",
+        "onboard_time": 1741673662,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 39385,
+        "num": 457025,
+        "word": "中国稳健发展为世界带来信心与力量",
+        "onboard_time": 1741688185,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 404174,
+        "num": 404174,
+        "word": "14岁少女清洗文身要花76万谁之过",
+        "onboard_time": 1741691424,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 361861,
+        "num": 361861,
+        "word": "王一博香奈儿内场落座",
+        "onboard_time": 1741692144,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 351163,
+        "num": 351163,
+        "word": "越幸福的人说废话越多",
+        "onboard_time": 1741685422,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 259840,
+        "num": 259840,
+        "word": "杭州销毁百万假货",
+        "onboard_time": 1741687587,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215216,
+        "num": 258965,
+        "word": "孙颖莎vs波尔卡诺娃",
+        "onboard_time": 1741689263,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209371,
+        "num": 257513,
+        "word": "滤镜",
+        "onboard_time": 1741688545,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82514,
+        "num": 255785,
+        "word": "直播间喊爹妈演互撕套路老年人",
+        "onboard_time": 1741692024,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11745699,
+        "num": 11745699,
+        "word": "金秀贤金赛纶亲吻照",
+        "onboard_time": 1741687164,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281444,
+        "num": 252895,
+        "word": "苗苗感谢郑恺为她拔掉自己的刺",
+        "onboard_time": 1741682062,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264781,
+        "num": 250275,
+        "word": "白敬亭换新发色了",
+        "onboard_time": 1741683563,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249487,
+        "num": 249487,
+        "word": "武林外传直播",
+        "onboard_time": 1741691784,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97533,
+        "num": 244974,
+        "word": "中方回应杜特尔特被捕",
+        "onboard_time": 1741692084,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1662176,
+        "num": 244419,
+        "word": "金秀贤金赛纶 短信内容",
+        "onboard_time": 1741687286,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240859,
+        "num": 240859,
+        "word": "赵樱子晒与男友牵手照",
+        "onboard_time": 1741681702,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237824,
+        "num": 237824,
+        "word": "赵露思CT全球代言人",
+        "onboard_time": 1741688545,
+        "rank": 17,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 205325,
+        "num": 205325,
+        "word": "牛马8分钟抵24小时休息法",
+        "onboard_time": 1741687886,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31494,
+        "num": 205090,
+        "word": "强制下班是中国企业文化的进步",
+        "onboard_time": 1741692502,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 504904,
+        "num": 204866,
+        "word": "华为多名产品线负责人被开除",
+        "onboard_time": 1741687104,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 206643,
+        "num": 204547,
+        "word": "香奈儿大秀",
+        "onboard_time": 1741686865,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 31915,
+        "num": 204012,
+        "word": "秀场上的第一视角",
+        "onboard_time": 1741689263,
+        "rank": 22,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 203826,
+        "num": 203826,
+        "word": "主播称上亿元玉石99元送老人",
+        "onboard_time": 1741690164,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201663,
+        "num": 201663,
+        "word": "男子因妻子生育能力受限起诉离婚",
+        "onboard_time": 1741680383,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183055,
+        "num": 200857,
+        "word": "林一晋江新跪",
+        "onboard_time": 1741687345,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175614,
+        "num": 200502,
+        "word": "曾可妮回应把裤子套在身上",
+        "onboard_time": 1741690284,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173056,
+        "num": 199371,
+        "word": "滤镜大结局",
+        "onboard_time": 1741690704,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165962,
+        "num": 198649,
+        "word": "滤镜林媛怀孕了",
+        "onboard_time": 1741692263,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75612,
+        "num": 197942,
+        "word": "深圳一商场设父婴室",
+        "onboard_time": 1741691186,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197147,
+        "num": 197147,
+        "word": "唐总你夫人怀孕了",
+        "onboard_time": 1741683563,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60426,
+        "num": 193050,
+        "word": "美国政府资金或将耗尽",
+        "onboard_time": 1741692805,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 191946,
+        "num": 191946,
+        "word": "杨天真发了虞书欣",
+        "onboard_time": 1741692444,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178748,
+        "num": 178748,
+        "word": "孙颖莎11比9波尔卡诺娃",
+        "onboard_time": 1741691904,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153724,
+        "num": 174514,
+        "word": "等了23集男女主从克制吻到放肆",
+        "onboard_time": 1741690404,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174505,
+        "num": 174505,
+        "word": "孙颖莎3比0波尔卡诺娃",
+        "onboard_time": 1741691723,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147981,
+        "num": 147981,
+        "word": "京城大师赛",
+        "onboard_time": 1741692805,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144195,
+        "num": 144195,
+        "word": "百万埃尔法车主破防了",
+        "onboard_time": 1741688965,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143846,
+        "num": 143846,
+        "word": "体内缺瘦素会让你总想吃吃吃",
+        "onboard_time": 1741683503,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 26210,
+        "num": 143726,
+        "word": "孙颖莎希望和马琳有更好的配合",
+        "onboard_time": 1741692924,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143713,
+        "num": 143713,
+        "word": "孟子义李昀锐即将二搭",
+        "onboard_time": 1741677440,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142819,
+        "num": 142819,
+        "word": "余承东辟谣和刘亦菲恋情",
+        "onboard_time": 1741692805,
+        "rank": 41,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 140734,
+        "num": 140734,
+        "word": "代表说我的阿勒泰让世界认识我家乡",
+        "onboard_time": 1741681642,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 139148,
+        "num": 139148,
+        "word": "孙颖莎3比0胜波尔卡诺娃",
+        "onboard_time": 1741692502,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21928,
+        "num": 138940,
+        "word": "夸克比家长还会教作文",
+        "onboard_time": 1741689263,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 60084,
+        "num": 138887,
+        "word": "全球资本转向热捧中国资产",
+        "onboard_time": 1741691603,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 138854,
+        "num": 138854,
+        "word": "杜特尔特被捕",
+        "onboard_time": 1741664543,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132487,
+        "num": 132487,
+        "word": "似锦",
+        "onboard_time": 1741692743,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119513,
+        "num": 119513,
+        "word": "国王首播反馈",
+        "onboard_time": 1741692624,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115071,
+        "num": 115071,
+        "word": "190是一款很痛的身高",
+        "onboard_time": 1741675882,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}
