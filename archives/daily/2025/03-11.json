@@ -1,6 +1,6 @@
 {
   "startTime": 1741624073347,
-  "endTime": 1741649792138,
+  "endTime": 1741657680477,
   "band_list": [
     {
       "raw_hot": 1295342,
@@ -11,11 +11,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 638842,
-      "num": 898875,
+      "raw_hot": 804308,
+      "num": 1128689,
       "word": "26岁小伙泰山陪爬1年赚30多万",
       "onboard_time": 1741619963,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 667426,
+      "num": 667426,
+      "word": "女子回应月薪4600每天跨市上班",
+      "onboard_time": 1741655903,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -35,11 +43,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 386258,
+      "num": 386258,
+      "word": "章若楠求婚戏开拍前就哭了",
+      "onboard_time": 1741650681,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 380938,
       "num": 248597,
       "word": "王一博 花期",
       "onboard_time": 1741596082,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 379051,
+      "num": 237565,
+      "word": "吴彦祖398元英语课销售额超500万",
+      "onboard_time": 1741653383,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -59,12 +83,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 328676,
+      "num": 328676,
+      "word": "宝诗龙戒指",
+      "onboard_time": 1741651643,
+      "rank": 4,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 327499,
       "num": 327499,
       "word": "哪吒2票房站上149亿",
       "onboard_time": 1741606283,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 313553,
+      "num": 236858,
+      "word": "女子砍伤踹门打人男子被认定正当防卫",
+      "onboard_time": 1741651101,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 306312,
@@ -75,12 +115,52 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 300948,
+      "num": 211778,
+      "word": "美断供后澳大利亚反华智库急了",
+      "onboard_time": 1741650741,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 297662,
       "num": 297662,
       "word": "王楚然演妖妃",
       "onboard_time": 1741616845,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 269217,
+      "num": 202779,
+      "word": "什么样的乳腺结节需尽快就诊",
+      "onboard_time": 1741655184,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 267409,
+      "num": 267409,
+      "word": "LV大秀",
+      "onboard_time": 1741651041,
+      "rank": 7,
+      "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 267058,
+      "num": 200968,
+      "word": "打工人一年只需要三双鞋",
+      "onboard_time": 1741652063,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 248200,
+      "num": 235290,
+      "word": "全智贤巴黎时装周直拍",
+      "onboard_time": 1741650621,
+      "rank": 13,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 241841,
@@ -91,6 +171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 240424,
+      "num": 240424,
+      "word": "马斯克回应X出故障",
+      "onboard_time": 1741654942,
+      "rank": 8,
+      "category": "财经,汽车"
+    },
+    {
       "raw_hot": 238202,
       "num": 190405,
       "word": "周杰伦背着女儿牵着儿子",
@@ -99,11 +187,27 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 233079,
-      "num": 190230,
+      "raw_hot": 234803,
+      "num": 234803,
       "word": "海底捞将起诉向火锅内小便男子",
       "onboard_time": 1741605204,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 227451,
+      "num": 192239,
+      "word": "85年婆婆带娃被误认为孩子亲妈",
+      "onboard_time": 1741650080,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 226378,
+      "num": 226378,
+      "word": "海底捞",
+      "onboard_time": 1741656682,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -155,6 +259,38 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186485,
+      "num": 227450,
+      "word": "美股全线重挫",
+      "onboard_time": 1741651041,
+      "rank": 15,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 185330,
+      "num": 185330,
+      "word": "春江水暖鸭先知具象化了",
+      "onboard_time": 1741651101,
+      "rank": 25,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 179231,
+      "num": 179231,
+      "word": "男子称在机关年入35万视频系摆拍",
+      "onboard_time": 1741655903,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177486,
+      "num": 177486,
+      "word": "韩国警方回应辉星去世",
+      "onboard_time": 1741656801,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174922,
       "num": 266952,
       "word": "美股",
@@ -187,12 +323,60 @@
       "category": "演出"
     },
     {
+      "raw_hot": 157871,
+      "num": 157871,
+      "word": "危地马拉一火山大规模喷发",
+      "onboard_time": 1741654103,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 155859,
+      "num": 155859,
+      "word": "乒乓球教练徐克再发声明",
+      "onboard_time": 1741654284,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 150022,
+      "num": 226660,
+      "word": "00后姑娘定下的事业和伴侣目标",
+      "onboard_time": 1741655903,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133956,
       "num": 190083,
       "word": "中国女游客在斯里兰卡火车上探身坠落",
       "onboard_time": 1741600103,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132146,
+      "num": 132146,
+      "word": "湖人vs篮网",
+      "onboard_time": 1741656200,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 130860,
+      "num": 225002,
+      "word": "嘘国王在冬眠",
+      "onboard_time": 1741650861,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 130509,
+      "num": 130509,
+      "word": "马斯克回应特斯拉暴跌",
+      "onboard_time": 1741655903,
+      "rank": 33,
+      "category": "财经,汽车"
     },
     {
       "raw_hot": 123556,
@@ -211,12 +395,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117666,
+      "num": 117666,
+      "word": "苹果操作系统外观或颠覆",
+      "onboard_time": 1741650621,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 114339,
+      "num": 114339,
+      "word": "龙丹妮给李宇春清唱是你",
+      "onboard_time": 1741653444,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 114153,
+      "num": 114153,
+      "word": "两会",
+      "onboard_time": 1741656141,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 113147,
       "num": 190331,
       "word": "阚清子自曝体重113斤",
       "onboard_time": 1741600043,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111424,
+      "num": 111424,
+      "word": "00后把中国商品种草到非洲",
+      "onboard_time": 1741657041,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107661,
@@ -283,6 +499,38 @@
       "category": "教育"
     },
     {
+      "raw_hot": 88146,
+      "num": 88146,
+      "word": "春天真是个适合恋爱的季节",
+      "onboard_time": 1741652063,
+      "rank": 42,
+      "category": "情感,健康医疗"
+    },
+    {
+      "raw_hot": 87592,
+      "num": 87592,
+      "word": "苹果AI支持中文了",
+      "onboard_time": 1741653803,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 85690,
+      "num": 85690,
+      "word": "丞磊王楚然新剧钓鱼路透",
+      "onboard_time": 1741652603,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 85322,
+      "num": 113720,
+      "word": "方大同遗作专辑被炒至两三千元",
+      "onboard_time": 1741632795,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 78377,
       "num": 190131,
       "word": "纳斯达克",
@@ -305,6 +553,22 @@
       "onboard_time": 1741611566,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 75371,
+      "num": 75371,
+      "word": "美股熊市要来了吗",
+      "onboard_time": 1741656322,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 75098,
+      "num": 75098,
+      "word": "孙颖莎林诗栋继续领跑",
+      "onboard_time": 1741657461,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 74356,
@@ -339,12 +603,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 57413,
-      "num": 113720,
-      "word": "方大同遗作专辑被炒至两三千元",
-      "onboard_time": 1741632795,
-      "rank": 21,
-      "category": "音乐"
+      "raw_hot": 57333,
+      "num": 220007,
+      "word": "李龙馥三登巴黎时装周",
+      "onboard_time": 1741656562,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 56344,
@@ -468,7 +732,7 @@
     },
     {
       "raw_hot": 33439,
-      "num": 440332,
+      "num": 464256,
       "word": "2025年美丽中国这样建",
       "onboard_time": 1741610786,
       "rank": 2,
