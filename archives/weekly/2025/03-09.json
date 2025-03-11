@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741714805278,
+  "endTime": 1741717994275,
   "band_list": [
     {
       "raw_hot": 21330054,
@@ -8027,6 +8027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 78500,
+      "num": 62494,
+      "word": "巴基斯坦载超400人火车遇袭",
+      "onboard_time": 1741711998,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 78068,
       "num": 182207,
       "word": "真给33在评论区爽到了",
@@ -8377,14 +8385,6 @@
       "onboard_time": 1741596381,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 62494,
-      "num": 62494,
-      "word": "巴基斯坦载超400人火车遇袭",
-      "onboard_time": 1741711998,
-      "rank": 22,
-      "category": "国际时政"
     },
     {
       "raw_hot": 62343,
@@ -8763,6 +8763,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 45165,
+      "num": 37799,
+      "word": "文淇称转型做导演是因为选择太少",
+      "onboard_time": 1741714818,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 44433,
       "num": 191156,
       "word": "王兴兴用哪吒2台词说我想试试",
@@ -9033,6 +9041,14 @@
       "onboard_time": 1741675222,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35679,
+      "num": 36202,
+      "word": "雷军反内耗神句",
+      "onboard_time": 1741714396,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 35360,
@@ -9371,6 +9387,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 24630,
+      "num": 24630,
+      "word": "卫枝被泼柠檬水",
+      "onboard_time": 1741716675,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 24509,
       "num": 35028,
       "word": "最高法报告提到治理高额彩礼",
@@ -9403,14 +9427,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 23546,
-      "num": 36202,
-      "word": "雷军反内耗神句",
-      "onboard_time": 1741714396,
-      "rank": 48,
-      "category": "财经"
-    },
-    {
       "raw_hot": 23320,
       "num": 287830,
       "word": "杜特尔特为何愿意回国被捕",
@@ -9433,6 +9449,14 @@
       "onboard_time": 1741473795,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22995,
+      "num": 22767,
+      "word": "祝绪丹支持虞书欣新剧",
+      "onboard_time": 1741717634,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 22726,
@@ -9528,6 +9552,14 @@
       "word": "专家解读政府工作报告新词",
       "onboard_time": 1741577362,
       "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 20447,
+      "num": 54146,
+      "word": "代表说农业和农村都需要年轻人",
+      "onboard_time": 1741716795,
+      "rank": 9,
       "category": "国内时政"
     },
     {
