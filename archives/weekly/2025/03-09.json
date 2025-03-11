@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741727928867,
+  "endTime": 1741729001194,
   "band_list": [
     {
       "raw_hot": 21330054,
@@ -4777,6 +4777,14 @@
       "onboard_time": 1741673662,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 156702,
+      "num": 29751,
+      "word": "金秀贤最新ins已经被攻陷",
+      "onboard_time": 1741728014,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 156308,
@@ -9667,7 +9675,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 14240,
+      "raw_hot": 14661,
       "num": 32774,
       "word": "张凯丽建议加大对黄牛打击力度",
       "onboard_time": 1741724954,
@@ -9849,6 +9857,14 @@
       "onboard_time": 1741725614,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 9600,
+      "num": 25982,
+      "word": "大学生坠崖地空接力救援",
+      "onboard_time": 1741728854,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 6871,
