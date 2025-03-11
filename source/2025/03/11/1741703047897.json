@@ -1,0 +1,410 @@
+{
+  "runTime": 1741703047897,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1032079,
+        "num": 1165132,
+        "word": "陪爬泰山小伙称挣钱透支了身体",
+        "onboard_time": 1741698984,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 542184,
+        "num": 542184,
+        "word": "第四十五号主席令",
+        "onboard_time": 1741695922,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 33539,
+        "num": 474706,
+        "word": "中国稳健发展为世界带来信心与力量",
+        "onboard_time": 1741688185,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 411535,
+        "num": 411535,
+        "word": "14岁少女清洗文身要花76万谁之过",
+        "onboard_time": 1741691424,
+        "rank": 3,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 399832,
+        "num": 399832,
+        "word": "张凌赫演技",
+        "onboard_time": 1741699224,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 3653448,
+        "num": 399079,
+        "word": "金秀贤方说绝不让步",
+        "onboard_time": 1741700184,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1439115,
+        "num": 381074,
+        "word": "贴吧存暗号色情交易",
+        "onboard_time": 1741699345,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 332394,
+        "num": 332394,
+        "word": "女子提5万家务劳动补偿法院判25万",
+        "onboard_time": 1741696224,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323312,
+        "num": 323312,
+        "word": "武林外传直播",
+        "onboard_time": 1741691784,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 315501,
+        "num": 315501,
+        "word": "滤镜癫开癫走",
+        "onboard_time": 1741700064,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 7599586,
+        "num": 7599586,
+        "word": "金秀贤金赛纶亲吻照",
+        "onboard_time": 1741687164,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259478,
+        "num": 259478,
+        "word": "MiuMiu大秀",
+        "onboard_time": 1741700424,
+        "rank": 11,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 1764667,
+        "num": 259336,
+        "word": "王楚钦 麦当劳",
+        "onboard_time": 1741701684,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277823,
+        "num": 253754,
+        "word": "哪吒2正冲刺全球影史第5",
+        "onboard_time": 1741693044,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138037,
+        "num": 251211,
+        "word": "多个奢侈品吊牌被炒出天价",
+        "onboard_time": 1741701745,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 875962,
+        "num": 246890,
+        "word": "疑似金赛纶酒驾原因",
+        "onboard_time": 1741700184,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245950,
+        "num": 245950,
+        "word": "推特崩了",
+        "onboard_time": 1741694185,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 204587,
+        "num": 204587,
+        "word": "杜特尔特被捕",
+        "onboard_time": 1741664543,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 200405,
+        "num": 200405,
+        "word": "杨天真发了虞书欣",
+        "onboard_time": 1741692444,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80806,
+        "num": 199468,
+        "word": "到底谁在为大牌边角料买单",
+        "onboard_time": 1741699945,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 316807,
+        "num": 199102,
+        "word": "男子创业负债800万两年还清",
+        "onboard_time": 1741698324,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214405,
+        "num": 198994,
+        "word": "智力曾降至3岁消防员开始直播带货",
+        "onboard_time": 1741696464,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198662,
+        "num": 198662,
+        "word": "王一博香奈儿内场落座",
+        "onboard_time": 1741692144,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 193887,
+        "num": 193887,
+        "word": "白敬亭换新发色了",
+        "onboard_time": 1741683563,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190392,
+        "num": 190392,
+        "word": "滤镜林媛怀孕了",
+        "onboard_time": 1741692263,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125434,
+        "num": 187480,
+        "word": "菲媒称杜特尔特已登上前往海牙的飞机",
+        "onboard_time": 1741702705,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 186695,
+        "num": 186695,
+        "word": "孙燕姿抢票",
+        "onboard_time": 1741693283,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 174767,
+        "num": 174767,
+        "word": "焦虑型人格会有哪些肢体动作",
+        "onboard_time": 1741701862,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169240,
+        "num": 169240,
+        "word": "微信误转给同名人1000元对方不还",
+        "onboard_time": 1741693403,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144486,
+        "num": 168211,
+        "word": "Hearts2Hearts初一位",
+        "onboard_time": 1741701862,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 781407,
+        "num": 168105,
+        "word": "余承东辟谣和刘亦菲恋情",
+        "onboard_time": 1741692805,
+        "rank": 30,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 167980,
+        "num": 167980,
+        "word": "苗苗感谢郑恺为她拔掉自己的刺",
+        "onboard_time": 1741682062,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154546,
+        "num": 154546,
+        "word": "孙颖莎希望和马琳有更好的配合",
+        "onboard_time": 1741692924,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143675,
+        "num": 143675,
+        "word": "周杰伦方否认在澳门豪赌",
+        "onboard_time": 1741698264,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143028,
+        "num": 143028,
+        "word": "13位明星进入教培市场",
+        "onboard_time": 1741700604,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69998,
+        "num": 135268,
+        "word": "英雄消防员协助带货他们在酸什么",
+        "onboard_time": 1741702345,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200434,
+        "num": 135183,
+        "word": "杜特尔特女儿发声明",
+        "onboard_time": 1741699285,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19238,
+        "num": 134635,
+        "word": "大地之母的汝晕永远的神",
+        "onboard_time": 1741702224,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 134343,
+        "num": 134343,
+        "word": "WTT",
+        "onboard_time": 1741695922,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132373,
+        "num": 132373,
+        "word": "315骗假不留",
+        "onboard_time": 1741701084,
+        "rank": 39,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 122481,
+        "num": 122481,
+        "word": "爱你",
+        "onboard_time": 1741702345,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117832,
+        "num": 117832,
+        "word": "男子因妻子生育能力受限起诉离婚",
+        "onboard_time": 1741680383,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114060,
+        "num": 114060,
+        "word": "越幸福的人说废话越多",
+        "onboard_time": 1741685422,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110404,
+        "num": 110404,
+        "word": "田嘉瑞宣传虞书欣新剧",
+        "onboard_time": 1741700842,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106154,
+        "num": 106154,
+        "word": "赵露思CT全球代言人",
+        "onboard_time": 1741688545,
+        "rank": 44,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 108308,
+        "num": 105991,
+        "word": "理想MEGA",
+        "onboard_time": 1741696164,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 104798,
+        "num": 104798,
+        "word": "研究称补充维生素D有助于减肥",
+        "onboard_time": 1741700364,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 102875,
+        "num": 102875,
+        "word": "杜特尔特正在被强行送往海牙",
+        "onboard_time": 1741702884,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98103,
+        "num": 98103,
+        "word": "一网红账号模仿杨坤被杨坤起诉",
+        "onboard_time": 1741694484,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95925,
+        "num": 95925,
+        "word": "赵樱子晒与男友牵手照",
+        "onboard_time": 1741681702,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平等党和国家领导人出席人大闭幕会#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1741624073347,
-  "endTime": 1741700573463,
+  "endTime": 1741703047897,
   "band_list": [
     {
       "raw_hot": 21330054,
@@ -19,19 +19,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3653448,
+      "num": 2406277,
+      "word": "金秀贤方说绝不让步",
+      "onboard_time": 1741700184,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2640047,
       "num": 861879,
       "word": "韩国性同意年龄为16岁",
       "onboard_time": 1741696403,
       "rank": 3,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2406277,
-      "num": 2406277,
-      "word": "金秀贤方说绝不让步",
-      "onboard_time": 1741700184,
-      "rank": 0,
       "category": "艺人"
     },
     {
@@ -67,6 +67,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1764667,
+      "num": 259336,
+      "word": "王楚钦 麦当劳",
+      "onboard_time": 1741701684,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1700770,
       "num": 258292,
       "word": "余承东辟谣和刘亦菲恋情",
@@ -89,6 +97,14 @@
       "onboard_time": 1741659800,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1439115,
+      "num": 386157,
+      "word": "贴吧存暗号色情交易",
+      "onboard_time": 1741699345,
+      "rank": 30,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 1295342,
@@ -155,6 +171,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1032079,
+      "num": 1165132,
+      "word": "陪爬泰山小伙称挣钱透支了身体",
+      "onboard_time": 1741698984,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1012949,
       "num": 1012949,
       "word": "鱼头星星回来了",
@@ -209,6 +233,14 @@
       "onboard_time": 1741691424,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 875962,
+      "num": 251369,
+      "word": "疑似金赛纶酒驾原因",
+      "onboard_time": 1741700184,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 873750,
@@ -419,14 +451,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 467303,
-      "num": 251369,
-      "word": "疑似金赛纶酒驾原因",
-      "onboard_time": 1741700184,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 445643,
       "num": 445643,
       "word": "费启鸣是虞书欣的嫁妆",
@@ -441,14 +465,6 @@
       "onboard_time": 1741671321,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 440041,
-      "num": 440041,
-      "word": "陪爬泰山小伙称挣钱透支了身体",
-      "onboard_time": 1741698984,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 435496,
@@ -523,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 399832,
+      "num": 399832,
+      "word": "张凌赫演技",
+      "onboard_time": 1741699224,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 396260,
       "num": 396260,
       "word": "海尔",
@@ -545,14 +569,6 @@
       "onboard_time": 1741693044,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 386157,
-      "num": 386157,
-      "word": "贴吧存暗号色情交易",
-      "onboard_time": 1741699345,
-      "rank": 30,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 380938,
@@ -731,6 +747,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 315501,
+      "num": 315501,
+      "word": "滤镜癫开癫走",
+      "onboard_time": 1741700064,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 314403,
       "num": 314403,
       "word": "00后姑娘定下的事业和伴侣目标",
@@ -761,14 +785,6 @@
       "onboard_time": 1741689263,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 303091,
-      "num": 303091,
-      "word": "张凌赫演技",
-      "onboard_time": 1741699224,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 302851,
@@ -937,6 +953,14 @@
       "onboard_time": 1741665923,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 259478,
+      "num": 259478,
+      "word": "MiuMiu大秀",
+      "onboard_time": 1741700424,
+      "rank": 33,
+      "category": "时尚"
     },
     {
       "raw_hot": 258811,
@@ -1155,14 +1179,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 219350,
-      "num": 219350,
-      "word": "滤镜癫开癫走",
-      "onboard_time": 1741700064,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 217895,
       "num": 212350,
       "word": "国王首播反馈",
@@ -1257,6 +1273,14 @@
       "onboard_time": 1741663582,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200434,
+      "num": 279492,
+      "word": "杜特尔特女儿发声明",
+      "onboard_time": 1741699285,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 197287,
@@ -1435,14 +1459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 175661,
-      "num": 279492,
-      "word": "杜特尔特女儿发声明",
-      "onboard_time": 1741699285,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 175614,
       "num": 200502,
       "word": "曾可妮回应把裤子套在身上",
@@ -1465,6 +1481,14 @@
       "onboard_time": 1741617564,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 174767,
+      "num": 174767,
+      "word": "焦虑型人格会有哪些肢体动作",
+      "onboard_time": 1741701862,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 174536,
@@ -1569,14 +1593,6 @@
       "onboard_time": 1741660821,
       "rank": 32,
       "category": "教育"
-    },
-    {
-      "raw_hot": 161599,
-      "num": 161599,
-      "word": "MiuMiu大秀",
-      "onboard_time": 1741700424,
-      "rank": 33,
-      "category": "时尚"
     },
     {
       "raw_hot": 160401,
@@ -1755,6 +1771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 144486,
+      "num": 168211,
+      "word": "Hearts2Hearts初一位",
+      "onboard_time": 1741701862,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 144334,
       "num": 144334,
       "word": "滤镜将抽风进行到底",
@@ -1777,6 +1801,14 @@
       "onboard_time": 1741692502,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143028,
+      "num": 143028,
+      "word": "13位明星进入教培市场",
+      "onboard_time": 1741700604,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 142954,
@@ -1875,6 +1907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138037,
+      "num": 251211,
+      "word": "多个奢侈品吊牌被炒出天价",
+      "onboard_time": 1741701745,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 137628,
       "num": 137628,
       "word": "严浩翔中国新说唱2025录制",
@@ -1963,6 +2003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132373,
+      "num": 132373,
+      "word": "315骗假不留",
+      "onboard_time": 1741701084,
+      "rank": 39,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 132146,
       "num": 132146,
       "word": "湖人vs篮网",
@@ -2035,6 +2083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125434,
+      "num": 187480,
+      "word": "菲媒称杜特尔特已登上前往海牙的飞机",
+      "onboard_time": 1741702705,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 123844,
       "num": 139240,
       "word": "虞书欣在就枝一声",
@@ -2065,6 +2121,14 @@
       "onboard_time": 1741684043,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 122481,
+      "num": 122481,
+      "word": "爱你",
+      "onboard_time": 1741702345,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 122008,
@@ -2251,6 +2315,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 110404,
+      "num": 110404,
+      "word": "田嘉瑞宣传虞书欣新剧",
+      "onboard_time": 1741700842,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109810,
       "num": 109810,
       "word": "北上",
@@ -2315,6 +2387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104798,
+      "num": 104798,
+      "word": "研究称补充维生素D有助于减肥",
+      "onboard_time": 1741700364,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 104564,
       "num": 255785,
       "word": "直播间喊爹妈演互撕套路老年人",
@@ -2337,6 +2417,14 @@
       "onboard_time": 1741678342,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 102875,
+      "num": 102875,
+      "word": "杜特尔特正在被强行送往海牙",
+      "onboard_time": 1741702884,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 102727,
@@ -2467,14 +2555,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 93812,
-      "num": 93812,
-      "word": "研究称补充维生素D有助于减肥",
-      "onboard_time": 1741700364,
-      "rank": 45,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 92926,
       "num": 343782,
       "word": "何时非必要不加班不再是新闻",
@@ -2500,7 +2580,7 @@
     },
     {
       "raw_hot": 91423,
-      "num": 91423,
+      "num": 199468,
       "word": "到底谁在为大牌边角料买单",
       "onboard_time": 1741699945,
       "rank": 46,
@@ -2721,6 +2801,14 @@
       "onboard_time": 1741615406,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 69998,
+      "num": 135268,
+      "word": "英雄消防员协助带货他们在酸什么",
+      "onboard_time": 1741702345,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66673,
@@ -3257,6 +3345,14 @@
       "onboard_time": 1741682301,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 19238,
+      "num": 134635,
+      "word": "大地之母的汝晕永远的神",
+      "onboard_time": 1741702224,
+      "rank": 37,
+      "category": "动漫"
     },
     {
       "raw_hot": 18258,
