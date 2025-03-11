@@ -1,6 +1,6 @@
 {
   "startTime": 1741624073347,
-  "endTime": 1741678570620,
+  "endTime": 1741681833212,
   "band_list": [
     {
       "raw_hot": 1980398,
@@ -9,6 +9,14 @@
       "onboard_time": 1741671083,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1977771,
+      "num": 440498,
+      "word": "田静回应英语一成绩",
+      "onboard_time": 1741679842,
+      "rank": 3,
+      "category": "教育"
     },
     {
       "raw_hot": 1893070,
@@ -35,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1188381,
+      "num": 328371,
+      "word": "偷偷录音是不尊重医生行为",
+      "onboard_time": 1741673662,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1179844,
       "num": 1188775,
       "word": "靳东回应台艺人力挺统一面临制裁",
@@ -49,14 +65,6 @@
       "onboard_time": 1741666644,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1127919,
-      "num": 328371,
-      "word": "偷偷录音是不尊重医生行为",
-      "onboard_time": 1741673662,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1115157,
@@ -99,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 966384,
+      "num": 440375,
+      "word": "田静考试只背题没做题",
+      "onboard_time": 1741679781,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 953274,
       "num": 434166,
       "word": "吴彦祖英语课遭吐槽本人只讲5分钟",
@@ -116,7 +132,7 @@
     },
     {
       "raw_hot": 818166,
-      "num": 365265,
+      "num": 415518,
       "word": "莫斯科遭大规模无人机袭击",
       "onboard_time": 1741673662,
       "rank": 5,
@@ -129,6 +145,14 @@
       "onboard_time": 1741619963,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 726173,
+      "num": 462355,
+      "word": "190是一款很痛的身高",
+      "onboard_time": 1741675882,
+      "rank": 3,
+      "category": "情感"
     },
     {
       "raw_hot": 717961,
@@ -145,6 +169,22 @@
       "onboard_time": 1741672462,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 651926,
+      "num": 322676,
+      "word": "直播间买8盒蓝莓到手每盒只有几颗",
+      "onboard_time": 1741672342,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 642636,
+      "num": 321700,
+      "word": "孟子义李昀锐即将二搭",
+      "onboard_time": 1741677440,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 641452,
@@ -168,14 +208,6 @@
       "word": "男子接广告被亲友举报从迪士尼离职",
       "onboard_time": 1741671142,
       "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 596977,
-      "num": 321656,
-      "word": "直播间买8盒蓝莓到手每盒只有几颗",
-      "onboard_time": 1741672342,
-      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -225,14 +257,6 @@
       "onboard_time": 1741656141,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 462355,
-      "num": 462355,
-      "word": "190是一款很痛的身高",
-      "onboard_time": 1741675882,
-      "rank": 3,
-      "category": "情感"
     },
     {
       "raw_hot": 443224,
@@ -299,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 388532,
+      "num": 388532,
+      "word": "美考虑将韩国列为敏感国家",
+      "onboard_time": 1741677440,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 380938,
       "num": 248597,
       "word": "王一博 花期",
@@ -315,20 +347,20 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 370412,
+      "num": 244822,
+      "word": "男子因妻子生育能力受限起诉离婚",
+      "onboard_time": 1741680383,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 369918,
       "num": 369918,
       "word": "人大会议闭幕会",
       "onboard_time": 1741677262,
       "rank": 18,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 363341,
-      "num": 279998,
-      "word": "孟子义李昀锐即将二搭",
-      "onboard_time": 1741677440,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 351118,
@@ -391,6 +423,14 @@
       "num": 343605,
       "word": "嘘国王在冬眠 开局9广",
       "onboard_time": 1741668024,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 330527,
+      "num": 330527,
+      "word": "费启鸣是虞书欣的嫁妆",
+      "onboard_time": 1741678882,
       "rank": 8,
       "category": "剧集"
     },
@@ -627,6 +667,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 246714,
+      "num": 246714,
+      "word": "海尔",
+      "onboard_time": 1741677501,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 244063,
       "num": 244063,
       "word": "马斯克回应X出故障",
@@ -803,6 +851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200774,
+      "num": 329003,
+      "word": "虞书欣林一为新剧换情头",
+      "onboard_time": 1741680982,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195478,
       "num": 195478,
       "word": "滤镜大结局点映",
@@ -833,14 +889,6 @@
       "onboard_time": 1741606584,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 189021,
-      "num": 189021,
-      "word": "海尔",
-      "onboard_time": 1741677501,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 187193,
@@ -963,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164188,
+      "num": 164188,
+      "word": "宋茜好像霍格沃茨来的",
+      "onboard_time": 1741680921,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 162272,
       "num": 162272,
       "word": "文都教育开除言论不当员工",
@@ -993,6 +1049,14 @@
       "onboard_time": 1741654103,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 157323,
+      "num": 150936,
+      "word": "9块9咖啡还能撑多久",
+      "onboard_time": 1741679842,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 156020,
@@ -1027,6 +1091,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 154591,
+      "num": 154591,
+      "word": "黄圣依带妈妈录制是女儿是妈妈2",
+      "onboard_time": 1741679002,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154165,
       "num": 340534,
       "word": "杜特尔特被转移至维拉莫尔空军基地",
@@ -1057,14 +1129,6 @@
       "onboard_time": 1741669225,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 142979,
-      "num": 232535,
-      "word": "美考虑将韩国列为敏感国家",
-      "onboard_time": 1741677440,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 142954,
@@ -1211,12 +1275,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127254,
+      "num": 127254,
+      "word": "表决通过全国人大常委会工作报告",
+      "onboard_time": 1741678583,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 126347,
+      "num": 126347,
+      "word": "被这个鱼头笑发疯了",
+      "onboard_time": 1741681163,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125673,
       "num": 125673,
       "word": "媒体评多家企业加入反内卷浪潮",
       "onboard_time": 1741663402,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125669,
+      "num": 125669,
+      "word": "赵樱子晒与男友牵手照",
+      "onboard_time": 1741681702,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 124561,
+      "num": 124561,
+      "word": "传DeepSeekR2下周发布",
+      "onboard_time": 1741681282,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 123844,
@@ -1283,6 +1379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113443,
+      "num": 113443,
+      "word": "刘诗诗最新高珠",
+      "onboard_time": 1741678761,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 113147,
       "num": 190331,
       "word": "阚清子自曝体重113斤",
@@ -1323,6 +1427,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 110488,
+      "num": 110488,
+      "word": "第3场部长通道",
+      "onboard_time": 1741679481,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 107661,
       "num": 190316,
       "word": "侯明昊回复于正我醒了",
@@ -1345,6 +1457,14 @@
       "onboard_time": 1741671382,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104994,
+      "num": 104994,
+      "word": "全智贤千颂伊照进现实",
+      "onboard_time": 1741680742,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 103911,
@@ -1396,7 +1516,7 @@
     },
     {
       "raw_hot": 100986,
-      "num": 100986,
+      "num": 125016,
       "word": "河南郑州街头大盘鸡",
       "onboard_time": 1741677922,
       "rank": 48,
@@ -1571,6 +1691,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 81145,
+      "num": 139977,
+      "word": "代表说我的阿勒泰让世界认识我家乡",
+      "onboard_time": 1741681642,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 78377,
       "num": 190131,
       "word": "纳斯达克",
@@ -1617,6 +1745,14 @@
       "onboard_time": 1741596322,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 73640,
+      "num": 126711,
+      "word": "关于政府工作报告的决议表决通过",
+      "onboard_time": 1741679781,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72646,
@@ -1795,6 +1931,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 41745,
+      "num": 244828,
+      "word": "途昂Pro让参数党狂欢了",
+      "onboard_time": 1741680261,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 41340,
       "num": 988192,
       "word": "3个关键词解锁民营经济发展密码",
@@ -1849,6 +1993,14 @@
       "onboard_time": 1741667244,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 33809,
+      "num": 151736,
+      "word": "部分网购神器黑科技变智商税",
+      "onboard_time": 1741680622,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 33439,

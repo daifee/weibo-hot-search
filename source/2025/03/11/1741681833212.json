@@ -1,0 +1,410 @@
+{
+  "runTime": 1741681833212,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 628521,
+        "num": 1100563,
+        "word": "始祖鸟吊牌被炒到最高300元一张",
+        "onboard_time": 1741666885,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 483897,
+        "num": 483897,
+        "word": "金价",
+        "onboard_time": 1741661302,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 32825,
+        "num": 441024,
+        "word": "3个关键词解锁民营经济发展密码",
+        "onboard_time": 1741666943,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1977771,
+        "num": 440498,
+        "word": "田静回应英语一成绩",
+        "onboard_time": 1741679842,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 966384,
+        "num": 440375,
+        "word": "田静考试只背题没做题",
+        "onboard_time": 1741679781,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 415518,
+        "num": 415518,
+        "word": "莫斯科遭大规模无人机袭击",
+        "onboard_time": 1741673662,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 388532,
+        "num": 388532,
+        "word": "美考虑将韩国列为敏感国家",
+        "onboard_time": 1741677440,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 340156,
+        "num": 340156,
+        "word": "杜特尔特被捕",
+        "onboard_time": 1741664543,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 330527,
+        "num": 330527,
+        "word": "费启鸣是虞书欣的嫁妆",
+        "onboard_time": 1741678882,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200774,
+        "num": 329003,
+        "word": "虞书欣林一为新剧换情头",
+        "onboard_time": 1741680982,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1188381,
+        "num": 328241,
+        "word": "偷偷录音是不尊重医生行为",
+        "onboard_time": 1741673662,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 842469,
+        "num": 326217,
+        "word": "又是费启鸣",
+        "onboard_time": 1741671083,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 726173,
+        "num": 324148,
+        "word": "190是一款很痛的身高",
+        "onboard_time": 1741675882,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 651926,
+        "num": 322676,
+        "word": "直播间买8盒蓝莓到手每盒只有几颗",
+        "onboard_time": 1741672342,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 642636,
+        "num": 321700,
+        "word": "孟子义李昀锐即将二搭",
+        "onboard_time": 1741677440,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320903,
+        "num": 320903,
+        "word": "人大会议闭幕会",
+        "onboard_time": 1741677262,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 279609,
+        "num": 279609,
+        "word": "郭敬明要留下刘宇最帅的样子",
+        "onboard_time": 1741675462,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246714,
+        "num": 246714,
+        "word": "海尔",
+        "onboard_time": 1741677501,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 180499,
+        "num": 245126,
+        "word": "嘘国王在冬眠 开局9广",
+        "onboard_time": 1741668024,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41745,
+        "num": 244828,
+        "word": "途昂Pro让参数党狂欢了",
+        "onboard_time": 1741680261,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 370412,
+        "num": 244822,
+        "word": "男子因妻子生育能力受限起诉离婚",
+        "onboard_time": 1741680383,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244750,
+        "num": 244750,
+        "word": "金赛纶生前几乎没有任何财产",
+        "onboard_time": 1741670422,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221535,
+        "num": 221535,
+        "word": "林一回关鱼头星星了",
+        "onboard_time": 1741675101,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217136,
+        "num": 217136,
+        "word": "刘畊宏晒周杰伦厦门跳操照",
+        "onboard_time": 1741672462,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206947,
+        "num": 206947,
+        "word": "大学毕业回老家养了4000头牛",
+        "onboard_time": 1741674441,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 190278,
+        "num": 190278,
+        "word": "王源外网媒体生图",
+        "onboard_time": 1741670062,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 164188,
+        "num": 164188,
+        "word": "宋茜好像霍格沃茨来的",
+        "onboard_time": 1741680921,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 157508,
+        "num": 157508,
+        "word": "女子生完3胎后身高长到178cm",
+        "onboard_time": 1741658720,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154591,
+        "num": 154591,
+        "word": "黄圣依带妈妈录制是女儿是妈妈2",
+        "onboard_time": 1741679002,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33809,
+        "num": 151736,
+        "word": "部分网购神器黑科技变智商税",
+        "onboard_time": 1741680622,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 157323,
+        "num": 150936,
+        "word": "9块9咖啡还能撑多久",
+        "onboard_time": 1741679842,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 149933,
+        "num": 149933,
+        "word": "男子接广告被亲友举报从迪士尼离职",
+        "onboard_time": 1741671142,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81145,
+        "num": 139977,
+        "word": "代表说我的阿勒泰让世界认识我家乡",
+        "onboard_time": 1741681642,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134867,
+        "num": 134867,
+        "word": "建议女厕所从设计端改革",
+        "onboard_time": 1741666584,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 133910,
+        "num": 133910,
+        "word": "肥胖不仅要看体重还要看腰围",
+        "onboard_time": 1741669405,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127254,
+        "num": 127254,
+        "word": "表决通过全国人大常委会工作报告",
+        "onboard_time": 1741678583,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 73640,
+        "num": 126711,
+        "word": "关于政府工作报告的决议表决通过",
+        "onboard_time": 1741679781,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126347,
+        "num": 126347,
+        "word": "被这个鱼头笑发疯了",
+        "onboard_time": 1741681163,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125669,
+        "num": 125669,
+        "word": "赵樱子晒与男友牵手照",
+        "onboard_time": 1741681702,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73847,
+        "num": 125016,
+        "word": "河南郑州街头大盘鸡",
+        "onboard_time": 1741677922,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 124561,
+        "num": 124561,
+        "word": "传DeepSeekR2下周发布",
+        "onboard_time": 1741681282,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 124254,
+        "num": 124254,
+        "word": "敖瑞鹏线下",
+        "onboard_time": 1741674683,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123287,
+        "num": 123287,
+        "word": "尚公主",
+        "onboard_time": 1741672462,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114554,
+        "num": 114554,
+        "word": "女子回应吃火锅涮邻桌剩菜",
+        "onboard_time": 1741669342,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113443,
+        "num": 113443,
+        "word": "刘诗诗最新高珠",
+        "onboard_time": 1741678761,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110488,
+        "num": 110488,
+        "word": "第3场部长通道",
+        "onboard_time": 1741679481,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 105211,
+        "num": 105211,
+        "word": "杜特尔特被转移至维拉莫尔空军基地",
+        "onboard_time": 1741677321,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104994,
+        "num": 104994,
+        "word": "全智贤千颂伊照进现实",
+        "onboard_time": 1741680742,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 103493,
+        "num": 103493,
+        "word": "第3场代表通道",
+        "onboard_time": 1741672942,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100914,
+        "num": 103013,
+        "word": "95后女教师勇救轻生男孩",
+        "onboard_time": 1741671561,
+        "rank": 49,
+        "category": "正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的两会关心事#"
+    }
+  }
+}
