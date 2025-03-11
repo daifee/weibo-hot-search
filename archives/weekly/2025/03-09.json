@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741671586222,
+  "endTime": 1741674784976,
   "band_list": [
     {
       "raw_hot": 2815044,
@@ -72,6 +72,14 @@
       "word": "温以凡 许沁",
       "onboard_time": 1741576821,
       "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1918831,
+      "num": 281754,
+      "word": "又是费启鸣",
+      "onboard_time": 1741671083,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -971,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 622618,
+      "num": 280698,
+      "word": "刘畊宏晒周杰伦厦门跳操照",
+      "onboard_time": 1741672462,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 621711,
       "num": 285789,
       "word": "戚薇提醒做医美要适度",
@@ -1064,6 +1080,14 @@
       "word": "广州长隆回应垂直过山车永久拆除",
       "onboard_time": 1741664424,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 563170,
+      "num": 280394,
+      "word": "男子接广告被亲友举报从迪士尼离职",
+      "onboard_time": 1741671142,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -1195,6 +1219,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 495492,
+      "num": 275164,
+      "word": "金赛纶生前几乎没有任何财产",
+      "onboard_time": 1741670422,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 494811,
       "num": 494811,
       "word": "石矶娘娘已经逃到洛阳了",
@@ -1233,14 +1265,6 @@
       "onboard_time": 1741578442,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 481382,
-      "num": 253687,
-      "word": "金赛纶生前几乎没有任何财产",
-      "onboard_time": 1741670422,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 478303,
@@ -1289,6 +1313,14 @@
       "onboard_time": 1741427722,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 444028,
+      "num": 342113,
+      "word": "莫斯科遭大规模无人机袭击",
+      "onboard_time": 1741673662,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 443224,
@@ -1675,6 +1707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 351118,
+      "num": 351118,
+      "word": "建议女厕所从设计端改革",
+      "onboard_time": 1741666584,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 348100,
       "num": 348100,
       "word": "张凌赫这很江苏了",
@@ -1705,6 +1745,14 @@
       "onboard_time": 1741430661,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 346596,
+      "num": 391200,
+      "word": "肥胖不仅要看体重还要看腰围",
+      "onboard_time": 1741669405,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 344172,
@@ -1875,6 +1923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 324256,
+      "num": 274201,
+      "word": "王源外网媒体生图",
+      "onboard_time": 1741670062,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 320714,
       "num": 275046,
       "word": "烟盒写建议被采纳82岁大爷回应走红",
@@ -1905,14 +1961,6 @@
       "onboard_time": 1741617564,
       "rank": 33,
       "category": "财经"
-    },
-    {
-      "raw_hot": 318212,
-      "num": 253380,
-      "word": "王源外网媒体生图",
-      "onboard_time": 1741670062,
-      "rank": 31,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 317530,
@@ -2139,6 +2187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 282757,
+      "num": 282757,
+      "word": "嘘国王在冬眠 开局9广",
+      "onboard_time": 1741668024,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 282104,
       "num": 282104,
       "word": "有人担心强制下班变成无偿加班",
@@ -2179,20 +2235,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 275629,
+      "num": 275629,
+      "word": "张家诚好懂惠英红",
+      "onboard_time": 1741672702,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 274634,
       "num": 274634,
       "word": "闪耀暖暖",
       "onboard_time": 1741579942,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 272686,
-      "num": 391200,
-      "word": "肥胖不仅要看体重还要看腰围",
-      "onboard_time": 1741669405,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 271406,
@@ -2379,6 +2435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 248523,
+      "num": 248523,
+      "word": "直播间买8盒蓝莓到手每盒只有几颗",
+      "onboard_time": 1741672342,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 248328,
       "num": 303705,
       "word": "委员称取消公摊并不意味能省钱",
@@ -2523,6 +2587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231908,
+      "num": 231908,
+      "word": "虞书欣是林一的真人bjd",
+      "onboard_time": 1741672881,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 231832,
       "num": 231832,
       "word": "北上停更三天憋了个大的",
@@ -2649,6 +2721,14 @@
       "onboard_time": 1741564279,
       "rank": 18,
       "category": "电影,美食"
+    },
+    {
+      "raw_hot": 217338,
+      "num": 217338,
+      "word": "偷偷录音是不尊重医生行为",
+      "onboard_time": 1741673662,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 216899,
@@ -2859,6 +2939,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 203489,
+      "num": 203489,
+      "word": "尚公主",
+      "onboard_time": 1741672462,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203397,
       "num": 203397,
       "word": "雷军又挂了三条热搜",
@@ -2881,14 +2969,6 @@
       "onboard_time": 1741578622,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 201585,
-      "num": 201585,
-      "word": "又是费启鸣",
-      "onboard_time": 1741671083,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 201494,
@@ -2937,14 +3017,6 @@
       "onboard_time": 1741601001,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 198615,
-      "num": 198615,
-      "word": "男子接广告被亲友举报从迪士尼离职",
-      "onboard_time": 1741671142,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 198380,
@@ -3297,6 +3369,14 @@
       "onboard_time": 1741492281,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180769,
+      "num": 180769,
+      "word": "商家回应顾客称在粥里吃出针头",
+      "onboard_time": 1741672582,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180751,
@@ -3731,14 +3811,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 161670,
-      "num": 161670,
-      "word": "建议女厕所从设计端改革",
-      "onboard_time": 1741666584,
-      "rank": 37,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 161596,
       "num": 161596,
       "word": "委员建议年轻人每天攒一杯咖啡钱",
@@ -3833,6 +3905,14 @@
       "onboard_time": 1741528101,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 156020,
+      "num": 205444,
+      "word": "宋轶美食博主更新了",
+      "onboard_time": 1741672162,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 155859,
@@ -4057,6 +4137,14 @@
       "onboard_time": 1741599022,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147286,
+      "num": 251156,
+      "word": "第3场代表通道",
+      "onboard_time": 1741672942,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 147206,
@@ -4489,6 +4577,14 @@
       "onboard_time": 1741588101,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131673,
+      "num": 131673,
+      "word": "虞书欣本色出演",
+      "onboard_time": 1741671622,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 131454,
@@ -5043,6 +5139,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 117728,
+      "num": 117728,
+      "word": "以创新之力推动传统IP破圈出海",
+      "onboard_time": 1741673722,
+      "rank": 42,
+      "category": "国内时政,电影"
+    },
+    {
       "raw_hot": 117666,
       "num": 117666,
       "word": "苹果操作系统外观或颠覆",
@@ -5179,6 +5283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114949,
+      "num": 114949,
+      "word": "95后女教师勇救轻生男孩",
+      "onboard_time": 1741671561,
+      "rank": 49,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 114905,
       "num": 114905,
       "word": "难哄全集满广",
@@ -5283,6 +5395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112208,
+      "num": 112208,
+      "word": "金融业颁布从业者禁止炫富新规",
+      "onboard_time": 1741671921,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 111931,
       "num": 136925,
       "word": "华晨宇演唱会上中西音乐华山论剑",
@@ -5385,6 +5505,14 @@
       "onboard_time": 1741596262,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 109937,
+      "num": 109937,
+      "word": "敖瑞鹏线下",
+      "onboard_time": 1741674683,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 109925,
@@ -5835,14 +5963,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 98945,
-      "num": 98945,
-      "word": "95后女教师勇救轻生男孩",
-      "onboard_time": 1741671561,
-      "rank": 49,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 98938,
       "num": 98938,
       "word": "钎城评论区J人属性拉满",
@@ -5865,6 +5985,14 @@
       "onboard_time": 1741664662,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 98512,
+      "num": 98512,
+      "word": "金善禹捐款1亿韩元",
+      "onboard_time": 1741674741,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 98332,
@@ -6611,6 +6739,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 67067,
+      "num": 276018,
+      "word": "大学毕业回老家养了4000头牛",
+      "onboard_time": 1741674441,
+      "rank": 18,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 66998,
       "num": 66998,
       "word": "dsn直播",
@@ -6859,6 +6995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51253,
+      "num": 218471,
+      "word": "博主回应坟地捡到布偶猫被质疑剧本",
+      "onboard_time": 1741674202,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51184,
       "num": 189838,
       "word": "谁敢直视颜安海胆头",
@@ -6953,6 +7097,14 @@
       "onboard_time": 1741613306,
       "rank": 22,
       "category": "综艺,电影"
+    },
+    {
+      "raw_hot": 44193,
+      "num": 277006,
+      "word": "叙利亚国防部宣布军事行动已结束",
+      "onboard_time": 1741674382,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 43853,
@@ -7107,6 +7259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 37479,
+      "num": 988192,
+      "word": "3个关键词解锁民营经济发展密码",
+      "onboard_time": 1741666943,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 37433,
       "num": 124078,
       "word": "港股机器人概念股多数走强",
@@ -7161,14 +7321,6 @@
       "onboard_time": 1741533085,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35236,
-      "num": 988192,
-      "word": "3个关键词解锁民营经济发展密码",
-      "onboard_time": 1741666943,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 35169,
