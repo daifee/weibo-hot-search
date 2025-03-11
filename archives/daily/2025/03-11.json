@@ -1,6 +1,6 @@
 {
   "startTime": 1741624073347,
-  "endTime": 1741657680477,
+  "endTime": 1741658973075,
   "band_list": [
     {
       "raw_hot": 1295342,
@@ -11,19 +11,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 966423,
+      "num": 1154627,
+      "word": "女子回应月薪4600每天跨市上班",
+      "onboard_time": 1741655903,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 804308,
       "num": 1128689,
       "word": "26岁小伙泰山陪爬1年赚30多万",
       "onboard_time": 1741619963,
       "rank": 0,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 667426,
-      "num": 667426,
-      "word": "女子回应月薪4600每天跨市上班",
-      "onboard_time": 1741655903,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -43,12 +43,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 386258,
-      "num": 386258,
+      "raw_hot": 420544,
+      "num": 420544,
       "word": "章若楠求婚戏开拍前就哭了",
       "onboard_time": 1741650681,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 403130,
+      "num": 252067,
+      "word": "吴彦祖398元英语课销售额超500万",
+      "onboard_time": 1741653383,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 380938,
@@ -59,12 +67,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 379051,
-      "num": 237565,
-      "word": "吴彦祖398元英语课销售额超500万",
-      "onboard_time": 1741653383,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 352898,
+      "num": 352898,
+      "word": "女子生完3胎后身高长到178cm",
+      "onboard_time": 1741658720,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 342235,
@@ -99,8 +107,16 @@
       "category": "电影"
     },
     {
+      "raw_hot": 314403,
+      "num": 314403,
+      "word": "00后姑娘定下的事业和伴侣目标",
+      "onboard_time": 1741655903,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 313553,
-      "num": 236858,
+      "num": 251139,
       "word": "女子砍伤踹门打人男子被认定正当防卫",
       "onboard_time": 1741651101,
       "rank": 12,
@@ -116,11 +132,27 @@
     },
     {
       "raw_hot": 300948,
-      "num": 211778,
+      "num": 219634,
       "word": "美断供后澳大利亚反华智库急了",
       "onboard_time": 1741650741,
       "rank": 20,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 299904,
+      "num": 251594,
+      "word": "海底捞",
+      "onboard_time": 1741656682,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 298908,
+      "num": 233880,
+      "word": "什么样的乳腺结节需尽快就诊",
+      "onboard_time": 1741655184,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 297662,
@@ -129,14 +161,6 @@
       "onboard_time": 1741616845,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 269217,
-      "num": 202779,
-      "word": "什么样的乳腺结节需尽快就诊",
-      "onboard_time": 1741655184,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 267409,
@@ -148,11 +172,19 @@
     },
     {
       "raw_hot": 267058,
-      "num": 200968,
+      "num": 207338,
       "word": "打工人一年只需要三双鞋",
       "onboard_time": 1741652063,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 251084,
+      "num": 251084,
+      "word": "海底捞将起诉向火锅内小便男子",
+      "onboard_time": 1741605204,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 248200,
@@ -163,20 +195,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 244063,
+      "num": 244063,
+      "word": "马斯克回应X出故障",
+      "onboard_time": 1741654942,
+      "rank": 8,
+      "category": "财经,汽车"
+    },
+    {
       "raw_hot": 241841,
       "num": 241841,
       "word": "叙利亚爆发大规模报复性仇杀",
       "onboard_time": 1741598842,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 240424,
-      "num": 240424,
-      "word": "马斯克回应X出故障",
-      "onboard_time": 1741654942,
-      "rank": 8,
-      "category": "财经,汽车"
     },
     {
       "raw_hot": 238202,
@@ -187,27 +219,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 234803,
-      "num": 234803,
-      "word": "海底捞将起诉向火锅内小便男子",
-      "onboard_time": 1741605204,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 236306,
+      "num": 236306,
+      "word": "韩国警方回应辉星去世",
+      "onboard_time": 1741656801,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 227451,
-      "num": 192239,
+      "num": 205161,
       "word": "85年婆婆带娃被误认为孩子亲妈",
       "onboard_time": 1741650080,
       "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 226378,
-      "num": 226378,
-      "word": "海底捞",
-      "onboard_time": 1741656682,
-      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -233,6 +257,14 @@
       "onboard_time": 1741596082,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214533,
+      "num": 214533,
+      "word": "天才少年稚晖君是怎么火的",
+      "onboard_time": 1741658362,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 203386,
@@ -283,14 +315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 177486,
-      "num": 177486,
-      "word": "韩国警方回应辉星去世",
-      "onboard_time": 1741656801,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 174922,
       "num": 266952,
       "word": "美股",
@@ -339,12 +363,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 150022,
-      "num": 226660,
-      "word": "00后姑娘定下的事业和伴侣目标",
-      "onboard_time": 1741655903,
-      "rank": 16,
-      "category": "民生新闻"
+      "raw_hot": 141760,
+      "num": 141760,
+      "word": "稚晖君机器人能给葡萄缝线",
+      "onboard_time": 1741658421,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 136802,
+      "num": 136802,
+      "word": "两会",
+      "onboard_time": 1741656141,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 134061,
+      "num": 134061,
+      "word": "杨幂ccd镜头",
+      "onboard_time": 1741658240,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 133956,
@@ -387,6 +427,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 121473,
+      "num": 121473,
+      "word": "00后把中国商品种草到非洲",
+      "onboard_time": 1741657041,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120255,
       "num": 190363,
       "word": "滤镜停更",
@@ -411,28 +459,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 114153,
-      "num": 114153,
-      "word": "两会",
-      "onboard_time": 1741656141,
-      "rank": 39,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 113147,
       "num": 190331,
       "word": "阚清子自曝体重113斤",
       "onboard_time": 1741600043,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 111424,
-      "num": 111424,
-      "word": "00后把中国商品种草到非洲",
-      "onboard_time": 1741657041,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 107661,
@@ -451,6 +483,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102167,
+      "num": 236386,
+      "word": "强制9点下班能遏制畸形加班文化吗",
+      "onboard_time": 1741657881,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101967,
+      "num": 101967,
+      "word": "内蒙古局地会有强沙尘暴",
+      "onboard_time": 1741658782,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98220,
       "num": 190295,
       "word": "难哄大结局",
@@ -465,6 +513,14 @@
       "onboard_time": 1741595062,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 94618,
+      "num": 251750,
+      "word": "美股熊市要来了吗",
+      "onboard_time": 1741656322,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 92704,
@@ -555,14 +611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 75371,
-      "num": 75371,
-      "word": "美股熊市要来了吗",
-      "onboard_time": 1741656322,
-      "rank": 47,
-      "category": "财经"
-    },
-    {
       "raw_hot": 75098,
       "num": 75098,
       "word": "孙颖莎林诗栋继续领跑",
@@ -601,6 +649,14 @@
       "onboard_time": 1741621703,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 62402,
+      "num": 236309,
+      "word": "鲁比奥称乌克兰必须在领土问题上让步",
+      "onboard_time": 1741658481,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 57333,
@@ -732,7 +788,7 @@
     },
     {
       "raw_hot": 33439,
-      "num": 464256,
+      "num": 504840,
       "word": "2025年美丽中国这样建",
       "onboard_time": 1741610786,
       "rank": 2,
