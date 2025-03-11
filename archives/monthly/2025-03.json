@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741697165155,
+  "endTime": 1741698113690,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -193,6 +193,14 @@
       "onboard_time": 1740925941,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2640047,
+      "num": 861879,
+      "word": "韩国性同意年龄为16岁",
+      "onboard_time": 1741696403,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 2639070,
@@ -2385,14 +2393,6 @@
       "onboard_time": 1741131678,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 861879,
-      "num": 861879,
-      "word": "韩国性同意年龄为16岁",
-      "onboard_time": 1741696403,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 861833,
@@ -6659,6 +6659,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 387434,
+      "num": 387434,
+      "word": "哪吒2正冲刺全球影史第5",
+      "onboard_time": 1741693044,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 387149,
       "num": 279386,
       "word": "桑延温以凡浴室吻",
@@ -7667,14 +7675,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 341566,
-      "num": 341566,
-      "word": "哪吒2正冲刺全球影史第5",
-      "onboard_time": 1741693044,
-      "rank": 7,
-      "category": "电影"
-    },
-    {
       "raw_hot": 341112,
       "num": 341112,
       "word": "雷军说卖车的成功来得有点猝不及防",
@@ -7689,6 +7689,14 @@
       "onboard_time": 1741416321,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 340341,
+      "num": 340341,
+      "word": "微信误转给同名人1000元对方不还",
+      "onboard_time": 1741693403,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 340127,
@@ -8131,14 +8139,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 324988,
-      "num": 324988,
-      "word": "微信误转给同名人1000元对方不还",
-      "onboard_time": 1741693403,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 324938,
       "num": 324938,
       "word": "冯远征谈晋江式演技",
@@ -8376,6 +8376,14 @@
       "word": "女店员偷偷哭泣同事查完监控被暖到",
       "onboard_time": 1741340782,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 315078,
+      "num": 315078,
+      "word": "女子提5万家务劳动补偿法院判25万",
+      "onboard_time": 1741696224,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -10123,6 +10131,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 262026,
+      "num": 262026,
+      "word": "滤镜林媛怀孕了",
+      "onboard_time": 1741692263,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 261890,
       "num": 261890,
       "word": "王一博巴黎时装周秀场生图",
@@ -10273,14 +10289,6 @@
       "onboard_time": 1740893240,
       "rank": 19,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 257982,
-      "num": 257982,
-      "word": "滤镜林媛怀孕了",
-      "onboard_time": 1741692263,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 257958,
@@ -10505,6 +10513,14 @@
       "onboard_time": 1741398021,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 249214,
+      "num": 210844,
+      "word": "智力曾降至3岁消防员开始直播带货",
+      "onboard_time": 1741696464,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 248926,
@@ -10769,6 +10785,14 @@
       "onboard_time": 1741529124,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 241977,
+      "num": 241977,
+      "word": "杨天真发了虞书欣",
+      "onboard_time": 1741692444,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 241841,
@@ -11105,14 +11129,6 @@
       "onboard_time": 1740838944,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 232112,
-      "num": 232112,
-      "word": "杨天真发了虞书欣",
-      "onboard_time": 1741692444,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 231949,
@@ -11884,7 +11900,7 @@
     },
     {
       "raw_hot": 217895,
-      "num": 206075,
+      "num": 212350,
       "word": "国王首播反馈",
       "onboard_time": 1741692624,
       "rank": 48,
@@ -14211,14 +14227,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 189231,
-      "num": 151606,
-      "word": "智力曾降至3岁消防员开始直播带货",
-      "onboard_time": 1741696464,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 189204,
       "num": 173116,
       "word": "live图中的经典",
@@ -14592,6 +14600,14 @@
       "word": "吉克隽逸悼念方大同",
       "onboard_time": 1740849735,
       "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 185867,
+      "num": 185867,
+      "word": "一网红账号模仿杨坤被杨坤起诉",
+      "onboard_time": 1741694484,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -15689,14 +15705,6 @@
       "onboard_time": 1740849676,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 173569,
-      "num": 270814,
-      "word": "女子提5万家务劳动补偿法院判25万",
-      "onboard_time": 1741696224,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 173545,
@@ -17179,6 +17187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 159432,
+      "num": 159432,
+      "word": "檀健次把唐奇苏橙橙婚纱照放C位",
+      "onboard_time": 1741697484,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159411,
       "num": 243260,
       "word": "孙燕姿上海站",
@@ -18427,6 +18443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150879,
+      "num": 150879,
+      "word": "理想MEGA",
+      "onboard_time": 1741696164,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 150851,
       "num": 236485,
       "word": "建议尽早实施12年义务教育",
@@ -18472,14 +18496,6 @@
       "word": "宋亚轩隔空飞吻丁程鑫",
       "onboard_time": 1741074378,
       "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 150438,
-      "num": 150438,
-      "word": "一网红账号模仿杨坤被杨坤起诉",
-      "onboard_time": 1741694484,
-      "rank": 32,
       "category": "艺人"
     },
     {
@@ -19113,14 +19129,6 @@
       "onboard_time": 1741266500,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 144787,
-      "num": 144787,
-      "word": "理想MEGA",
-      "onboard_time": 1741696164,
-      "rank": 34,
-      "category": "汽车"
     },
     {
       "raw_hot": 144770,
@@ -21651,6 +21659,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 126109,
+      "num": 126109,
+      "word": "多方回应男子攀爬苏州钉子崖坠亡",
+      "onboard_time": 1741696524,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126084,
       "num": 150437,
       "word": "张晚意 这是我甜姐姐的味道",
@@ -22672,14 +22688,6 @@
       "word": "网传有人往海底捞火锅小便警方已立案",
       "onboard_time": 1741337542,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119685,
-      "num": 119685,
-      "word": "多方回应男子攀爬苏州钉子崖坠亡",
-      "onboard_time": 1741696524,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -23931,6 +23939,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 111044,
+      "num": 111044,
+      "word": "哪吒2跟西游记BGM这么配吗",
+      "onboard_time": 1741697785,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 111033,
       "num": 184283,
       "word": "地图显示库尔斯克乌军几乎被全包",
@@ -24025,6 +24041,14 @@
       "onboard_time": 1741059917,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110463,
+      "num": 260114,
+      "word": "余承东都没见过刘亦菲",
+      "onboard_time": 1741696104,
+      "rank": 18,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 110342,
@@ -24977,6 +25001,14 @@
       "onboard_time": 1741156938,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104240,
+      "num": 104240,
+      "word": "福宝吃饭连耳朵也在打节拍",
+      "onboard_time": 1741697543,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104223,
@@ -26155,6 +26187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96019,
+      "num": 96019,
+      "word": "Manus首条微博",
+      "onboard_time": 1741697726,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 96012,
       "num": 273862,
       "word": "国际劳动妇女节的起源",
@@ -26787,14 +26827,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 90489,
-      "num": 260114,
-      "word": "余承东都没见过刘亦菲",
-      "onboard_time": 1741696104,
-      "rank": 18,
-      "category": "艺人,互联网"
-    },
-    {
       "raw_hot": 90487,
       "num": 90487,
       "word": "长安二十四计",
@@ -26889,6 +26921,14 @@
       "onboard_time": 1740746899,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 89767,
+      "num": 89767,
+      "word": "猫眼专业版致歉",
+      "onboard_time": 1741695684,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 89742,
@@ -27009,6 +27049,14 @@
       "onboard_time": 1740766752,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 88741,
+      "num": 88741,
+      "word": "赵露思首登一线男刊",
+      "onboard_time": 1741697543,
+      "rank": 48,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 88459,
@@ -28105,6 +28153,14 @@
       "onboard_time": 1740870193,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 75158,
+      "num": 259135,
+      "word": "当地回应老头乐和火车发生碰撞",
+      "onboard_time": 1741696104,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75098,
@@ -29907,6 +29963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 53613,
+      "num": 290229,
+      "word": "文身行业存在哪些立法与监管空白",
+      "onboard_time": 1741697186,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53593,
       "num": 65053,
       "word": "第五人格场馆无人员伤亡",
@@ -30569,14 +30633,6 @@
       "onboard_time": 1741211171,
       "rank": 34,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 44786,
-      "num": 259135,
-      "word": "当地回应老头乐和火车发生碰撞",
-      "onboard_time": 1741696104,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 44684,

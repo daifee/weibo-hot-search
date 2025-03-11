@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1741697165155,
+  "endTime": 1741698113690,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -2227,6 +2227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2640047,
+      "num": 861879,
+      "word": "韩国性同意年龄为16岁",
+      "onboard_time": 1741696403,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2639070,
       "num": 1417048,
       "word": "泰国发生连环恐袭",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1739884104,
       "rank": 15,
       "category": "艺人,电影"
-    },
-    {
-      "raw_hot": 2494692,
-      "num": 2494692,
-      "word": "我开学了 你定档了",
-      "onboard_time": 1739331080,
-      "rank": 22,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
