@@ -1,7 +1,23 @@
 {
   "startTime": 1741624073347,
-  "endTime": 1741685981048,
+  "endTime": 1741688773319,
   "band_list": [
+    {
+      "raw_hot": 21330054,
+      "num": 21330054,
+      "word": "金秀贤金赛纶亲吻照",
+      "onboard_time": 1741687164,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3662238,
+      "num": 317315,
+      "word": "金秀贤金赛纶 短信内容",
+      "onboard_time": 1741687286,
+      "rank": 11,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2402076,
       "num": 2402076,
@@ -435,12 +451,28 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 365333,
+      "num": 365333,
+      "word": "香奈儿大秀",
+      "onboard_time": 1741686865,
+      "rank": 3,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 351118,
       "num": 351118,
       "word": "建议女厕所从设计端改革",
       "onboard_time": 1741666584,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 350990,
+      "num": 350990,
+      "word": "体内缺瘦素会让你总想吃吃吃",
+      "onboard_time": 1741683503,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 350289,
@@ -481,6 +513,14 @@
       "onboard_time": 1741670062,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 333326,
+      "num": 333326,
+      "word": "越幸福的人说废话越多",
+      "onboard_time": 1741685422,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 332672,
@@ -579,6 +619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 300219,
+      "num": 300219,
+      "word": "华为多名产品线负责人被开除",
+      "onboard_time": 1741687104,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 299904,
       "num": 251594,
       "word": "海底捞",
@@ -667,6 +715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 264922,
+      "num": 264922,
+      "word": "赵露思CT全球代言人",
+      "onboard_time": 1741688545,
+      "rank": 19,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 263772,
       "num": 258433,
       "word": "deepseek教你如何提升表达力",
@@ -753,6 +809,14 @@
       "onboard_time": 1741669105,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 240256,
+      "num": 240256,
+      "word": "林一晋江新跪",
+      "onboard_time": 1741687345,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 238202,
@@ -851,6 +915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 222021,
+      "num": 326434,
+      "word": "周杰伦晒出比耶录音照",
+      "onboard_time": 1741685782,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220779,
       "num": 220779,
       "word": "我追星",
@@ -865,14 +937,6 @@
       "onboard_time": 1741680921,
       "rank": 26,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 217275,
-      "num": 310830,
-      "word": "体内缺瘦素会让你总想吃吃吃",
-      "onboard_time": 1741683503,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 217127,
@@ -931,6 +995,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 204471,
+      "num": 301045,
+      "word": "杭州销毁百万假货",
+      "onboard_time": 1741687587,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203386,
       "num": 203386,
       "word": "金赛纶家人发声",
@@ -956,11 +1028,19 @@
     },
     {
       "raw_hot": 197287,
-      "num": 201610,
+      "num": 306205,
       "word": "代表说我的阿勒泰让世界认识我家乡",
       "onboard_time": 1741681642,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 196821,
+      "num": 196821,
+      "word": "华为整顿违规招聘",
+      "onboard_time": 1741686143,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 195509,
@@ -1051,6 +1131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181068,
+      "num": 224800,
+      "word": "年下不叫姐指定心思野",
+      "onboard_time": 1741686804,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180769,
       "num": 180769,
       "word": "商家回应顾客称在粥里吃出针头",
@@ -1139,12 +1227,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167208,
+      "num": 167208,
+      "word": "牛马8分钟抵24小时休息法",
+      "onboard_time": 1741687886,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 167084,
       "num": 167084,
       "word": "9块9咖啡还能撑多久",
       "onboard_time": 1741679842,
       "rank": 30,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 166767,
+      "num": 220837,
+      "word": "滤镜",
+      "onboard_time": 1741688545,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 162949,
@@ -1201,6 +1305,14 @@
       "onboard_time": 1741684164,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157364,
+      "num": 271955,
+      "word": "北上花街小院茶话会",
+      "onboard_time": 1741688007,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 157251,
@@ -1379,6 +1491,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 137285,
+      "num": 141644,
+      "word": "懒人洗衣机",
+      "onboard_time": 1741686745,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136133,
       "num": 197453,
       "word": "小鹏G6电池被子弹打中10枪还能开",
@@ -1432,6 +1552,14 @@
       "word": "湖人vs篮网",
       "onboard_time": 1741656200,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 130877,
+      "num": 170540,
+      "word": "徐克自曝通话记录",
+      "onboard_time": 1741688604,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -1499,6 +1627,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 123372,
+      "num": 223416,
+      "word": "到点本就应该下班",
+      "onboard_time": 1741685183,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123341,
       "num": 123341,
       "word": "苹果折叠屏iPadPro曝光",
@@ -1513,6 +1649,14 @@
       "onboard_time": 1741663342,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121813,
+      "num": 121813,
+      "word": "美乌开始沙特会谈",
+      "onboard_time": 1741686201,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 121473,
@@ -1755,6 +1899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97353,
+      "num": 197178,
+      "word": "澳反华智库自曝",
+      "onboard_time": 1741685963,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 96697,
       "num": 96697,
       "word": "金在中回应1万亿韩元资产论",
@@ -1881,14 +2033,6 @@
       "onboard_time": 1741632795,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 80735,
-      "num": 272375,
-      "word": "周杰伦晒出比耶录音照",
-      "onboard_time": 1741685782,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 80632,
@@ -2027,20 +2171,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56659,
+      "num": 196826,
+      "word": "花旗将中国股票评级上调至增持",
+      "onboard_time": 1741686804,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 56344,
       "num": 189929,
       "word": "檀健次李兰迪滤镜口碑黑马剧",
       "onboard_time": 1741623739,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 56216,
-      "num": 309362,
-      "word": "越幸福的人说废话越多",
-      "onboard_time": 1741685422,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 55192,
@@ -2081,6 +2225,14 @@
       "onboard_time": 1741617505,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51718,
+      "num": 141917,
+      "word": "孙颖莎重庆冠军赛赛前训练",
+      "onboard_time": 1741687945,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 51303,
@@ -2129,14 +2281,6 @@
       "onboard_time": 1741611328,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 46019,
-      "num": 223416,
-      "word": "到点本就应该下班",
-      "onboard_time": 1741685183,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 44433,
@@ -2267,6 +2411,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 32849,
+      "num": 168820,
+      "word": "这辈子都等不到续作的动画",
+      "onboard_time": 1741688663,
+      "rank": 34,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 32424,
       "num": 112164,
       "word": "美股上演黑色星期一",
@@ -2281,6 +2433,14 @@
       "onboard_time": 1741666703,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 28979,
+      "num": 198737,
+      "word": "认知障碍老人养生店充值70万元",
+      "onboard_time": 1741688365,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28759,
@@ -2305,6 +2465,14 @@
       "onboard_time": 1741624222,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25632,
+      "num": 385806,
+      "word": "中国稳健发展为世界带来信心与力量",
+      "onboard_time": 1741688185,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 25540,

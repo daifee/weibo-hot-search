@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1741685981048,
+  "endTime": 1741688773319,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -56,6 +56,14 @@
       "word": "日本流感",
       "onboard_time": 1738551558,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 21330054,
+      "num": 21330054,
+      "word": "金秀贤金赛纶亲吻照",
+      "onboard_time": 1741687164,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -1025,6 +1033,14 @@
       "onboard_time": 1736860218,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 3662238,
+      "num": 317315,
+      "word": "金秀贤金赛纶 短信内容",
+      "onboard_time": 1741687286,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 3657589,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1739331080,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 2489240,
-      "num": 2489240,
-      "word": "日本地震",
-      "onboard_time": 1736772019,
-      "rank": 24,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 2486697,
-      "num": 745259,
-      "word": "大S发病到猝逝仅5天",
-      "onboard_time": 1738582711,
-      "rank": 3,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
