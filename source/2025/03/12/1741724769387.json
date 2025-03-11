@@ -1,0 +1,410 @@
+{
+  "runTime": 1741724769387,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 105365,
+        "num": 105365,
+        "word": "赞助商回应麦琳参加综艺遭抵制",
+        "onboard_time": 1741711639,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50688,
+        "num": 50688,
+        "word": "小伙上满8小时班被倒扣3天工资",
+        "onboard_time": 1741709362,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15339,
+        "num": 44326,
+        "word": "30秒了解国家账本新安排",
+        "onboard_time": 1741706543,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 61007,
+        "num": 42537,
+        "word": "王源minnie张元英g社生图",
+        "onboard_time": 1741708222,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 39573,
+        "num": 39573,
+        "word": "微信误转给同名人1000元对方不还",
+        "onboard_time": 1741693403,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38254,
+        "num": 38254,
+        "word": "郑州双层巴士过隧道因超高被削车顶",
+        "onboard_time": 1741706722,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35698,
+        "num": 35698,
+        "word": "陪爬泰山小伙称挣钱透支了身体",
+        "onboard_time": 1741698984,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33075,
+        "num": 33075,
+        "word": "宋茜生图",
+        "onboard_time": 1741710859,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 33053,
+        "num": 33053,
+        "word": "王源有一种气血很足的帅",
+        "onboard_time": 1741710440,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 11999,
+        "num": 33012,
+        "word": "外交部揭批澳所谓研究机构丑陋行径",
+        "onboard_time": 1741723816,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 146766,
+        "num": 32939,
+        "word": "金秀贤金赛纶亲吻照",
+        "onboard_time": 1741687164,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40653,
+        "num": 32926,
+        "word": "巴基斯坦载超400人火车遇袭",
+        "onboard_time": 1741711998,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 33222,
+        "num": 32843,
+        "word": "花几十元吧主可提供定制色情视频",
+        "onboard_time": 1741707021,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32819,
+        "num": 32819,
+        "word": "第四十五号主席令",
+        "onboard_time": 1741695922,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 26961,
+        "num": 26961,
+        "word": "女子提5万家务劳动补偿法院判25万",
+        "onboard_time": 1741696224,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102041,
+        "num": 26542,
+        "word": "金秀贤方说绝不让步",
+        "onboard_time": 1741700184,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36654,
+        "num": 25931,
+        "word": "疑似金赛纶酒驾原因",
+        "onboard_time": 1741700184,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24756,
+        "num": 24756,
+        "word": "14岁少女清洗文身要花76万谁之过",
+        "onboard_time": 1741691424,
+        "rank": 17,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 23838,
+        "num": 23838,
+        "word": "王楚钦 麦当劳",
+        "onboard_time": 1741701684,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20197,
+        "num": 20197,
+        "word": "哪吒2正冲刺全球影史第5",
+        "onboard_time": 1741693044,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26987,
+        "num": 20158,
+        "word": "男子创业负债800万两年还清",
+        "onboard_time": 1741698324,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20200,
+        "num": 20154,
+        "word": "杜特尔特正在被强行送往海牙",
+        "onboard_time": 1741702884,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20073,
+        "num": 20073,
+        "word": "多个奢侈品吊牌被炒出天价",
+        "onboard_time": 1741701745,
+        "rank": 22,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 18840,
+        "num": 18840,
+        "word": "莫斯科州遭大规模无人机袭击致1死多伤",
+        "onboard_time": 1741721413,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18712,
+        "num": 18712,
+        "word": "智力曾降至3岁消防员开始直播带货",
+        "onboard_time": 1741696464,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18658,
+        "num": 18658,
+        "word": "星你滤镜碎了",
+        "onboard_time": 1741712956,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18634,
+        "num": 18634,
+        "word": "315骗假不留",
+        "onboard_time": 1741701084,
+        "rank": 26,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 17641,
+        "num": 17641,
+        "word": "杜特尔特被捕",
+        "onboard_time": 1741664543,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15945,
+        "num": 15945,
+        "word": "文淇称转型做导演是因为选择太少",
+        "onboard_time": 1741714818,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15655,
+        "num": 15655,
+        "word": "老外已经开始推荐哪吒1了",
+        "onboard_time": 1741720215,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26146,
+        "num": 15632,
+        "word": "余承东辟谣和刘亦菲恋情",
+        "onboard_time": 1741692805,
+        "rank": 30,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 16817,
+        "num": 15616,
+        "word": "苗苗感谢郑恺为她拔掉自己的刺",
+        "onboard_time": 1741682062,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15570,
+        "num": 15570,
+        "word": "张元英牛仔芭比look",
+        "onboard_time": 1741706842,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 15864,
+        "num": 15561,
+        "word": "代表说农业和农村都需要年轻人",
+        "onboard_time": 1741716795,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15534,
+        "num": 15534,
+        "word": "LV内场看秀待遇",
+        "onboard_time": 1741704324,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 15533,
+        "num": 15533,
+        "word": "雷军反内耗神句",
+        "onboard_time": 1741714396,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 15283,
+        "num": 15283,
+        "word": "菲媒称杜特尔特已登上前往海牙的飞机",
+        "onboard_time": 1741702705,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14991,
+        "num": 14991,
+        "word": "王一博香奈儿内场落座",
+        "onboard_time": 1741692144,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 14967,
+        "num": 14967,
+        "word": "焦虑型人格会有哪些肢体动作",
+        "onboard_time": 1741701862,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14844,
+        "num": 14967,
+        "word": "去年有景点博物馆演唱会一票难求",
+        "onboard_time": 1741722615,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14362,
+        "num": 14967,
+        "word": "阿勒泰民警挖30厘米厚积雪救人",
+        "onboard_time": 1741708821,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14168,
+        "num": 14966,
+        "word": "鱼头星星好久不见",
+        "onboard_time": 1741723334,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13104,
+        "num": 14966,
+        "word": "赵让cover了Jennie新歌",
+        "onboard_time": 1741703484,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 13051,
+        "num": 14966,
+        "word": "赵今麦刘浩存miumiu预热",
+        "onboard_time": 1741703905,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 13036,
+        "num": 14966,
+        "word": "一套米字操颈椎舒服了",
+        "onboard_time": 1741711340,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 12947,
+        "num": 14966,
+        "word": "滤镜林媛怀孕了",
+        "onboard_time": 1741692263,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12859,
+        "num": 14966,
+        "word": "建议从重处罚诈骗老人群体行为",
+        "onboard_time": 1741719014,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 12281,
+        "num": 14966,
+        "word": "舍不得滤镜大王",
+        "onboard_time": 1741715175,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12150,
+        "num": 14966,
+        "word": "林一我同意收工后马上打开优酷去看",
+        "onboard_time": 1741709781,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9295,
+        "num": 14966,
+        "word": "孙颖莎希望和马琳有更好的配合",
+        "onboard_time": 1741692924,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会之问#"
+    }
+  }
+}
