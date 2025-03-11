@@ -1,0 +1,402 @@
+{
+  "runTime": 1741736173280,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 765513,
+        "num": 924999,
+        "word": "乌克兰同意停火30天",
+        "onboard_time": 1741734557,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 672138,
+        "num": 672138,
+        "word": "赞助商回应麦琳参加综艺遭抵制",
+        "onboard_time": 1741711639,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53867,
+        "num": 507973,
+        "word": "30秒了解国家账本新安排",
+        "onboard_time": 1741706543,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 408035,
+        "num": 408035,
+        "word": "郑州双层巴士过隧道因超高被削车顶",
+        "onboard_time": 1741706722,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 386871,
+        "num": 386871,
+        "word": "陪爬泰山小伙称挣钱透支了身体",
+        "onboard_time": 1741698984,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268535,
+        "num": 268535,
+        "word": "小伙上满8小时班被倒扣3天工资",
+        "onboard_time": 1741709362,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229679,
+        "num": 229679,
+        "word": "第四十五号主席令",
+        "onboard_time": 1741695922,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 227409,
+        "num": 227409,
+        "word": "王源minnie张元英g社生图",
+        "onboard_time": 1741708222,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 46577,
+        "num": 227316,
+        "word": "巴萨3比1本菲卡",
+        "onboard_time": 1741735339,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173008,
+        "num": 227128,
+        "word": "美国恢复对乌安全援助",
+        "onboard_time": 1741734919,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1455344,
+        "num": 227082,
+        "word": "金秀贤最新ins已经被攻陷",
+        "onboard_time": 1741728014,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37395,
+        "num": 226912,
+        "word": "三个维度看今年全国两会",
+        "onboard_time": 1741734798,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 243545,
+        "num": 226650,
+        "word": "疑似金赛纶酒驾原因",
+        "onboard_time": 1741700184,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226626,
+        "num": 226626,
+        "word": "微信误转给同名人1000元对方不还",
+        "onboard_time": 1741693403,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209793,
+        "num": 209793,
+        "word": "利物浦2比5巴黎圣日耳曼",
+        "onboard_time": 1741734679,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193251,
+        "num": 193251,
+        "word": "欧冠",
+        "onboard_time": 1741735099,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180608,
+        "num": 180608,
+        "word": "时代峰峻无限音乐会",
+        "onboard_time": 1741736059,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128700,
+        "num": 176152,
+        "word": "王源有一种气血很足的帅",
+        "onboard_time": 1741710440,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 105575,
+        "num": 173059,
+        "word": "哪吒2正冲刺全球影史第5",
+        "onboard_time": 1741693044,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 90938,
+        "num": 164883,
+        "word": "宋茜生图",
+        "onboard_time": 1741710859,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 583257,
+        "num": 155280,
+        "word": "金秀贤金赛纶亲吻照",
+        "onboard_time": 1741687164,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153933,
+        "num": 153933,
+        "word": "男子创业负债800万两年还清",
+        "onboard_time": 1741698324,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152452,
+        "num": 152452,
+        "word": "王楚钦 麦当劳",
+        "onboard_time": 1741701684,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146006,
+        "num": 146006,
+        "word": "多个奢侈品吊牌被炒出天价",
+        "onboard_time": 1741701745,
+        "rank": 23,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 145575,
+        "num": 145575,
+        "word": "以为很懒但对皮肤很好的行为",
+        "onboard_time": 1741736000,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143148,
+        "num": 143148,
+        "word": "花几十元吧主可提供定制色情视频",
+        "onboard_time": 1741707021,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136011,
+        "num": 136011,
+        "word": "巴基斯坦载超400人火车遇袭",
+        "onboard_time": 1741711998,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 74023,
+        "num": 135821,
+        "word": "滤镜癫开癫走",
+        "onboard_time": 1741700064,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72028,
+        "num": 135315,
+        "word": "麦琳参加综艺被网友抵制举报",
+        "onboard_time": 1741735700,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69557,
+        "num": 134909,
+        "word": "滤镜林媛怀孕了",
+        "onboard_time": 1741692263,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162324,
+        "num": 134080,
+        "word": "余承东辟谣和刘亦菲恋情",
+        "onboard_time": 1741692805,
+        "rank": 30,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 134076,
+        "num": 134076,
+        "word": "店家回应8盒蓝莓到手每盒仅几颗",
+        "onboard_time": 1741731616,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120702,
+        "num": 120702,
+        "word": "医生提醒内脏脂肪过多危害大",
+        "onboard_time": 1741733778,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116413,
+        "num": 116413,
+        "word": "女子提5万家务劳动补偿法院判25万",
+        "onboard_time": 1741696224,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22554,
+        "num": 115848,
+        "word": "特朗普称本周与普京会谈",
+        "onboard_time": 1741736059,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115848,
+        "num": 115847,
+        "word": "智力曾降至3岁消防员开始直播带货",
+        "onboard_time": 1741696464,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84994,
+        "num": 84994,
+        "word": "我国再次发射一箭18星",
+        "onboard_time": 1741735700,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 78195,
+        "num": 78195,
+        "word": "600元买猫470元托运只收到尸体",
+        "onboard_time": 1741735760,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64917,
+        "num": 64917,
+        "word": "赵今麦刘浩存miumiu预热",
+        "onboard_time": 1741703905,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 53565,
+        "num": 62405,
+        "word": "马琳给孙颖莎当场外指导",
+        "onboard_time": 1741734798,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62105,
+        "num": 62105,
+        "word": "14岁少女清洗文身要花76万谁之过",
+        "onboard_time": 1741691424,
+        "rank": 40,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 58488,
+        "num": 58488,
+        "word": "王一博香奈儿内场落座",
+        "onboard_time": 1741692144,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 57904,
+        "num": 57904,
+        "word": "雷军反内耗神句",
+        "onboard_time": 1741714396,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 55772,
+        "num": 55772,
+        "word": "利物浦vs巴黎圣日耳曼",
+        "onboard_time": 1741734859,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54690,
+        "num": 54690,
+        "word": "文淇称转型做导演是因为选择太少",
+        "onboard_time": 1741714818,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54683,
+        "num": 54683,
+        "word": "杨幂回家啦对镜比耶自拍",
+        "onboard_time": 1741735579,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54376,
+        "num": 54376,
+        "word": "杜特尔特正在被强行送往海牙",
+        "onboard_time": 1741702884,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 53783,
+        "num": 53783,
+        "word": "为地球添一抹生机盎然的绿",
+        "onboard_time": 1741735219,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50578,
+        "num": 50578,
+        "word": "315骗假不留",
+        "onboard_time": 1741701084,
+        "rank": 48,
+        "category": "舆论监督"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}
