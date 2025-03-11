@@ -1,6 +1,6 @@
 {
   "startTime": 1741624073347,
-  "endTime": 1741699910056,
+  "endTime": 1741700573463,
   "band_list": [
     {
       "raw_hot": 21330054,
@@ -24,6 +24,14 @@
       "word": "韩国性同意年龄为16岁",
       "onboard_time": 1741696403,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2406277,
+      "num": 2406277,
+      "word": "金秀贤方说绝不让步",
+      "onboard_time": 1741700184,
+      "rank": 0,
       "category": "艺人"
     },
     {
@@ -411,6 +419,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 467303,
+      "num": 251369,
+      "word": "疑似金赛纶酒驾原因",
+      "onboard_time": 1741700184,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 445643,
       "num": 445643,
       "word": "费启鸣是虞书欣的嫁妆",
@@ -425,6 +441,14 @@
       "onboard_time": 1741671321,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 440041,
+      "num": 440041,
+      "word": "陪爬泰山小伙称挣钱透支了身体",
+      "onboard_time": 1741698984,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 435496,
@@ -523,6 +547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 386157,
+      "num": 386157,
+      "word": "贴吧存暗号色情交易",
+      "onboard_time": 1741699345,
+      "rank": 30,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 380938,
       "num": 248597,
       "word": "王一博 花期",
@@ -604,7 +636,7 @@
     },
     {
       "raw_hot": 347548,
-      "num": 202240,
+      "num": 228362,
       "word": "男子创业负债800万两年还清",
       "onboard_time": 1741698324,
       "rank": 22,
@@ -731,6 +763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 303091,
+      "num": 303091,
+      "word": "张凌赫演技",
+      "onboard_time": 1741699224,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 302851,
       "num": 344805,
       "word": "嘘国王在冬眠云包场",
@@ -835,16 +875,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 271350,
-      "num": 271350,
-      "word": "陪爬泰山小伙称挣钱透支了身体",
-      "onboard_time": 1741698984,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 270265,
-      "num": 210844,
+      "num": 222219,
       "word": "智力曾降至3岁消防员开始直播带货",
       "onboard_time": 1741696464,
       "rank": 30,
@@ -1123,6 +1155,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 219350,
+      "num": 219350,
+      "word": "滤镜癫开癫走",
+      "onboard_time": 1741700064,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217895,
       "num": 212350,
       "word": "国王首播反馈",
@@ -1219,14 +1259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 199360,
-      "num": 199360,
-      "word": "贴吧存暗号色情交易",
-      "onboard_time": 1741699345,
-      "rank": 30,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 197287,
       "num": 306205,
       "word": "代表说我的阿勒泰让世界认识我家乡",
@@ -1315,14 +1347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 186839,
-      "num": 200515,
-      "word": "张凌赫演技",
-      "onboard_time": 1741699224,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 186485,
       "num": 227450,
       "word": "美股全线重挫",
@@ -1340,7 +1364,7 @@
     },
     {
       "raw_hot": 185867,
-      "num": 207363,
+      "num": 234687,
       "word": "一网红账号模仿杨坤被杨坤起诉",
       "onboard_time": 1741694484,
       "rank": 32,
@@ -1409,6 +1433,14 @@
       "onboard_time": 1741675702,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175661,
+      "num": 279492,
+      "word": "杜特尔特女儿发声明",
+      "onboard_time": 1741699285,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 175614,
@@ -1537,6 +1569,14 @@
       "onboard_time": 1741660821,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 161599,
+      "num": 161599,
+      "word": "MiuMiu大秀",
+      "onboard_time": 1741700424,
+      "rank": 33,
+      "category": "时尚"
     },
     {
       "raw_hot": 160401,
@@ -1697,6 +1737,14 @@
       "onboard_time": 1741669225,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145487,
+      "num": 145487,
+      "word": "周杰伦方否认在澳门豪赌",
+      "onboard_time": 1741698264,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 144496,
@@ -1939,14 +1987,6 @@
       "category": "财经,汽车"
     },
     {
-      "raw_hot": 129887,
-      "num": 271044,
-      "word": "杜特尔特女儿发声明",
-      "onboard_time": 1741699285,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 129164,
       "num": 129164,
       "word": "WTT重庆冠军赛今日开赛",
@@ -1977,14 +2017,6 @@
       "onboard_time": 1741681941,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 126285,
-      "num": 126285,
-      "word": "周杰伦方否认在澳门豪赌",
-      "onboard_time": 1741698264,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 126109,
@@ -2171,20 +2203,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111341,
+      "num": 111341,
+      "word": "福宝吃饭连耳朵也在打节拍",
+      "onboard_time": 1741697543,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111308,
       "num": 208240,
       "word": "全运会乒乓球通票最高6880元",
       "onboard_time": 1741669822,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 111236,
-      "num": 111236,
-      "word": "福宝吃饭连耳朵也在打节拍",
-      "onboard_time": 1741697543,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111044,
@@ -2435,6 +2467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 93812,
+      "num": 93812,
+      "word": "研究称补充维生素D有助于减肥",
+      "onboard_time": 1741700364,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 92926,
       "num": 343782,
       "word": "何时非必要不加班不再是新闻",
@@ -2457,6 +2497,14 @@
       "onboard_time": 1741626257,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 91423,
+      "num": 91423,
+      "word": "到底谁在为大牌边角料买单",
+      "onboard_time": 1741699945,
+      "rank": 46,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 90313,
@@ -2513,6 +2561,14 @@
       "onboard_time": 1741697543,
       "rank": 48,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 88651,
+      "num": 88651,
+      "word": "TES先锋赛战胜TL",
+      "onboard_time": 1741700124,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 88265,
@@ -2907,6 +2963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 46275,
+      "num": 250805,
+      "word": "每3人就有1人感觉自己体重增加",
+      "onboard_time": 1741698684,
+      "rank": 14,
+      "category": "国内时政,健康医疗"
+    },
+    {
       "raw_hot": 44433,
       "num": 191156,
       "word": "王兴兴用哪吒2台词说我想试试",
@@ -3091,6 +3155,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 28334,
+      "num": 251820,
+      "word": "桂林一处文明公约条款现热爱徐汇",
+      "onboard_time": 1741699704,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 26762,
       "num": 100663,
       "word": "恶作剧之吻裕树都结婚了",
@@ -3129,14 +3201,6 @@
       "onboard_time": 1741629255,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 24456,
-      "num": 250805,
-      "word": "每3人就有1人感觉自己体重增加",
-      "onboard_time": 1741698684,
-      "rank": 14,
-      "category": "国内时政,健康医疗"
     },
     {
       "raw_hot": 23657,
@@ -3195,12 +3259,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 13230,
-      "num": 199850,
-      "word": "桂林一处文明公约条款现热爱徐汇",
-      "onboard_time": 1741699704,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 18258,
+      "num": 189822,
+      "word": "以加班时长论英雄早该过去了",
+      "onboard_time": 1741699825,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12368,
@@ -3217,14 +3281,6 @@
       "onboard_time": 1741678523,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 11551,
-      "num": 126944,
-      "word": "以加班时长论英雄早该过去了",
-      "onboard_time": 1741699825,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11389,
