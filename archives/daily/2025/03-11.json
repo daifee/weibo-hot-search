@@ -1,22 +1,22 @@
 {
   "startTime": 1741624073347,
-  "endTime": 1741681833212,
+  "endTime": 1741682625067,
   "band_list": [
     {
-      "raw_hot": 1980398,
-      "num": 335947,
-      "word": "又是费启鸣",
-      "onboard_time": 1741671083,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 1977771,
-      "num": 440498,
+      "raw_hot": 2078595,
+      "num": 501004,
       "word": "田静回应英语一成绩",
       "onboard_time": 1741679842,
       "rank": 3,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1980398,
+      "num": 405448,
+      "word": "又是费启鸣",
+      "onboard_time": 1741671083,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 1893070,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1188381,
-      "num": 328371,
+      "num": 406601,
       "word": "偷偷录音是不尊重医生行为",
       "onboard_time": 1741673662,
       "rank": 30,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 966384,
-      "num": 440375,
+      "num": 496988,
       "word": "田静考试只背题没做题",
       "onboard_time": 1741679781,
       "rank": 4,
@@ -172,15 +172,15 @@
     },
     {
       "raw_hot": 651926,
-      "num": 322676,
+      "num": 400090,
       "word": "直播间买8盒蓝莓到手每盒只有几颗",
       "onboard_time": 1741672342,
       "rank": 25,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 642636,
-      "num": 321700,
+      "raw_hot": 646823,
+      "num": 404513,
       "word": "孟子义李昀锐即将二搭",
       "onboard_time": 1741677440,
       "rank": 21,
@@ -209,6 +209,14 @@
       "onboard_time": 1741671142,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 615325,
+      "num": 1098452,
+      "word": "美考虑将韩国列为敏感国家",
+      "onboard_time": 1741677440,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 570877,
@@ -259,6 +267,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 445643,
+      "num": 445643,
+      "word": "费启鸣是虞书欣的嫁妆",
+      "onboard_time": 1741678882,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 443224,
       "num": 390686,
       "word": "虞书欣林一连麦直播",
@@ -283,12 +299,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 432982,
+      "num": 432982,
+      "word": "杨幂王一博官图",
+      "onboard_time": 1741681941,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 428164,
       "num": 315821,
       "word": "郭敬明要留下刘宇最帅的样子",
       "onboard_time": 1741675462,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 424096,
+      "num": 397013,
+      "word": "赵樱子晒与男友牵手照",
+      "onboard_time": 1741681702,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 421341,
@@ -307,6 +339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 407746,
+      "num": 407746,
+      "word": "人大会议闭幕会",
+      "onboard_time": 1741677262,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 405179,
       "num": 405179,
       "word": "强制9点下班能遏制畸形加班文化吗",
@@ -323,12 +363,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 388532,
-      "num": 388532,
-      "word": "美考虑将韩国列为敏感国家",
-      "onboard_time": 1741677440,
-      "rank": 28,
-      "category": "国际时政"
+      "raw_hot": 396260,
+      "num": 396260,
+      "word": "海尔",
+      "onboard_time": 1741677501,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 380938,
@@ -347,20 +387,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 370412,
-      "num": 244822,
+      "raw_hot": 374193,
+      "num": 374193,
       "word": "男子因妻子生育能力受限起诉离婚",
       "onboard_time": 1741680383,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 369918,
-      "num": 369918,
-      "word": "人大会议闭幕会",
-      "onboard_time": 1741677262,
-      "rank": 18,
-      "category": "国内时政"
     },
     {
       "raw_hot": 351118,
@@ -423,14 +455,6 @@
       "num": 343605,
       "word": "嘘国王在冬眠 开局9广",
       "onboard_time": 1741668024,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 330527,
-      "num": 330527,
-      "word": "费启鸣是虞书欣的嫁妆",
-      "onboard_time": 1741678882,
       "rank": 8,
       "category": "剧集"
     },
@@ -537,6 +561,14 @@
       "onboard_time": 1741616845,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 284073,
+      "num": 284073,
+      "word": "苗苗感谢郑恺为她拔掉自己的刺",
+      "onboard_time": 1741682062,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 282104,
@@ -667,14 +699,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 246714,
-      "num": 246714,
-      "word": "海尔",
-      "onboard_time": 1741677501,
-      "rank": 34,
-      "category": "财经"
-    },
-    {
       "raw_hot": 244063,
       "num": 244063,
       "word": "马斯克回应X出故障",
@@ -731,6 +755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 229597,
+      "num": 399303,
+      "word": "虞书欣林一为新剧换情头",
+      "onboard_time": 1741680982,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 228287,
       "num": 228287,
       "word": "尚公主",
@@ -777,6 +809,14 @@
       "onboard_time": 1741619904,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219379,
+      "num": 219379,
+      "word": "宋茜好像霍格沃茨来的",
+      "onboard_time": 1741680921,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 217127,
@@ -851,14 +891,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 200774,
-      "num": 329003,
-      "word": "虞书欣林一为新剧换情头",
-      "onboard_time": 1741680982,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 195478,
       "num": 195478,
       "word": "滤镜大结局点映",
@@ -873,6 +905,14 @@
       "onboard_time": 1741666103,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192127,
+      "num": 192127,
+      "word": "日本女主播直播中被刺",
+      "onboard_time": 1741682062,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 191657,
@@ -937,6 +977,14 @@
       "onboard_time": 1741672582,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179444,
+      "num": 179444,
+      "word": "被这个鱼头笑发疯了",
+      "onboard_time": 1741681163,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 179231,
@@ -1011,12 +1059,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 164188,
-      "num": 164188,
-      "word": "宋茜好像霍格沃茨来的",
-      "onboard_time": 1741680921,
-      "rank": 26,
-      "category": "作品衍生,时尚"
+      "raw_hot": 162949,
+      "num": 162949,
+      "word": "传DeepSeekR2下周发布",
+      "onboard_time": 1741681282,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 162272,
@@ -1052,7 +1100,7 @@
     },
     {
       "raw_hot": 157323,
-      "num": 150936,
+      "num": 152451,
       "word": "9块9咖啡还能撑多久",
       "onboard_time": 1741679842,
       "rank": 30,
@@ -1105,6 +1153,14 @@
       "onboard_time": 1741677321,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 153075,
+      "num": 153075,
+      "word": "代表说我的阿勒泰让世界认识我家乡",
+      "onboard_time": 1741681642,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 151200,
@@ -1243,6 +1299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133150,
+      "num": 133150,
+      "word": "第3场部长通道",
+      "onboard_time": 1741679481,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 132146,
       "num": 132146,
       "word": "湖人vs篮网",
@@ -1283,14 +1347,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 126347,
-      "num": 126347,
-      "word": "被这个鱼头笑发疯了",
-      "onboard_time": 1741681163,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 125673,
       "num": 125673,
       "word": "媒体评多家企业加入反内卷浪潮",
@@ -1299,20 +1355,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 125669,
-      "num": 125669,
-      "word": "赵樱子晒与男友牵手照",
-      "onboard_time": 1741681702,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 124561,
-      "num": 124561,
-      "word": "传DeepSeekR2下周发布",
-      "onboard_time": 1741681282,
-      "rank": 40,
-      "category": "互联网"
+      "raw_hot": 124511,
+      "num": 124511,
+      "word": "细菌死去会将自己尸体献给亲人",
+      "onboard_time": 1741680682,
+      "rank": 45,
+      "category": "科学科普"
     },
     {
       "raw_hot": 123844,
@@ -1347,6 +1395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120297,
+      "num": 120297,
+      "word": "刘诗诗最新高珠",
+      "onboard_time": 1741678761,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 120255,
       "num": 190363,
       "word": "滤镜停更",
@@ -1371,6 +1427,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 114842,
+      "num": 114842,
+      "word": "工作室回应张淼怡陈昊森关系",
+      "onboard_time": 1741682423,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114339,
       "num": 114339,
       "word": "龙丹妮给李宇春清唱是你",
@@ -1379,12 +1443,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 113443,
-      "num": 113443,
-      "word": "刘诗诗最新高珠",
-      "onboard_time": 1741678761,
-      "rank": 44,
-      "category": "作品衍生"
+      "raw_hot": 113884,
+      "num": 113884,
+      "word": "文旅部部长谈国博冰箱贴火爆",
+      "onboard_time": 1741682483,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 113147,
@@ -1425,14 +1489,6 @@
       "onboard_time": 1741664662,
       "rank": 31,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 110488,
-      "num": 110488,
-      "word": "第3场部长通道",
-      "onboard_time": 1741679481,
-      "rank": 45,
-      "category": "国内时政"
     },
     {
       "raw_hot": 107661,
@@ -1691,12 +1747,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 81145,
-      "num": 139977,
-      "word": "代表说我的阿勒泰让世界认识我家乡",
-      "onboard_time": 1741681642,
-      "rank": 32,
-      "category": "国内时政"
+      "raw_hot": 80632,
+      "num": 403126,
+      "word": "第三场代表通道集中采访",
+      "onboard_time": 1741682182,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78377,
@@ -1932,7 +1988,7 @@
     },
     {
       "raw_hot": 41745,
-      "num": 244828,
+      "num": 397691,
       "word": "途昂Pro让参数党狂欢了",
       "onboard_time": 1741680261,
       "rank": 19,
@@ -2075,6 +2131,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 22948,
+      "num": 398985,
+      "word": "离婚后发现对方还有财产再诉分割",
+      "onboard_time": 1741682121,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22338,
+      "num": 145613,
+      "word": "我的宝藏食谱",
+      "onboard_time": 1741682241,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 22144,
       "num": 73139,
       "word": "张泽禹说捂住耳朵勇敢向前跑",
@@ -2091,12 +2163,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 21279,
+      "num": 402547,
+      "word": "菲律宾两大政治家族斗争白热化",
+      "onboard_time": 1741682301,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 12368,
       "num": 15924,
       "word": "建议提升对青少年心理健康重视程度",
       "onboard_time": 1741636394,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11714,
+      "num": 180513,
+      "word": "AI给的春季健康指南",
+      "onboard_time": 1741682121,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 11607,
