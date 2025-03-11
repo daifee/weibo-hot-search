@@ -1,28 +1,28 @@
 {
   "startTime": 1741624073347,
-  "endTime": 1741661984629,
+  "endTime": 1741662545782,
   "band_list": [
     {
       "raw_hot": 1295342,
-      "num": 264593,
+      "num": 268853,
       "word": "赵樱子官宣恋情",
       "onboard_time": 1741616546,
       "rank": 10,
       "category": "艺人"
     },
     {
-      "raw_hot": 1109496,
-      "num": 1177519,
-      "word": "女子回应月薪4600每天跨市上班",
-      "onboard_time": 1741655903,
+      "raw_hot": 1128218,
+      "num": 1180514,
+      "word": "加班文化开始退潮",
+      "onboard_time": 1741659800,
       "rank": 1,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1025117,
-      "num": 1025117,
-      "word": "加班文化开始退潮",
-      "onboard_time": 1741659800,
+      "raw_hot": 1109496,
+      "num": 1177519,
+      "word": "女子回应月薪4600每天跨市上班",
+      "onboard_time": 1741655903,
       "rank": 1,
       "category": "民生新闻"
     },
@@ -41,6 +41,14 @@
       "onboard_time": 1741619963,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 721731,
+      "num": 721731,
+      "word": "靳东回应台艺人力挺统一面临制裁",
+      "onboard_time": 1741661182,
+      "rank": 4,
+      "category": "国内时政,艺人"
     },
     {
       "raw_hot": 556714,
@@ -67,6 +75,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 405179,
+      "num": 405179,
+      "word": "强制9点下班能遏制畸形加班文化吗",
+      "onboard_time": 1741657881,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 403130,
       "num": 263849,
       "word": "吴彦祖398元英语课销售额超500万",
@@ -81,14 +97,6 @@
       "onboard_time": 1741596082,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 369374,
-      "num": 369374,
-      "word": "靳东回应台艺人力挺统一面临制裁",
-      "onboard_time": 1741661182,
-      "rank": 4,
-      "category": "国内时政,艺人"
     },
     {
       "raw_hot": 342235,
@@ -123,12 +131,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 316999,
-      "num": 316999,
-      "word": "强制9点下班能遏制畸形加班文化吗",
-      "onboard_time": 1741657881,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 327091,
+      "num": 327091,
+      "word": "10岁男童见起火电话摇来119",
+      "onboard_time": 1741659982,
+      "rank": 8,
+      "category": "正能量"
     },
     {
       "raw_hot": 314403,
@@ -195,12 +203,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 273055,
-      "num": 273055,
-      "word": "10岁男童见起火电话摇来119",
-      "onboard_time": 1741659982,
-      "rank": 8,
-      "category": "正能量"
+      "raw_hot": 297456,
+      "num": 297456,
+      "word": "哪吒敖丙变身大国重器有亿点酷",
+      "onboard_time": 1741661182,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 271719,
@@ -209,6 +217,14 @@
       "onboard_time": 1741659800,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 268644,
+      "num": 268644,
+      "word": "金价",
+      "onboard_time": 1741661302,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 267409,
@@ -225,6 +241,14 @@
       "onboard_time": 1741652063,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 262684,
+      "num": 262684,
+      "word": "多胖才算超重肥胖",
+      "onboard_time": 1741658240,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 251084,
@@ -307,14 +331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 219163,
-      "num": 219163,
-      "word": "金价",
-      "onboard_time": 1741661302,
-      "rank": 16,
-      "category": "财经"
-    },
-    {
       "raw_hot": 217127,
       "num": 217127,
       "word": "疑似权志龙被排挤",
@@ -323,28 +339,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 217016,
-      "num": 217016,
-      "word": "多胖才算超重肥胖",
-      "onboard_time": 1741658240,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 214533,
       "num": 214533,
       "word": "天才少年稚晖君是怎么火的",
       "onboard_time": 1741658362,
       "rank": 23,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 203816,
-      "num": 265023,
-      "word": "哪吒敖丙变身大国重器有亿点酷",
-      "onboard_time": 1741661182,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 203386,
@@ -361,6 +361,14 @@
       "onboard_time": 1741611328,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200690,
+      "num": 200690,
+      "word": "王一博长发怼脸",
+      "onboard_time": 1741662020,
+      "rank": 17,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 191657,
@@ -393,6 +401,14 @@
       "onboard_time": 1741651101,
       "rank": 25,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 185119,
+      "num": 269667,
+      "word": "嘘国王在冬眠追剧日历",
+      "onboard_time": 1741661782,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 179231,
@@ -449,6 +465,14 @@
       "onboard_time": 1741654103,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 157612,
+      "num": 169784,
+      "word": "貂蝉穆夏联动新皮肤",
+      "onboard_time": 1741661060,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 155859,
@@ -531,14 +555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 123679,
-      "num": 193147,
-      "word": "嘘国王在冬眠追剧日历",
-      "onboard_time": 1741661782,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 123556,
       "num": 189980,
       "word": "菲前总统杜特尔特被国际刑警组织通缉",
@@ -571,14 +587,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 116500,
-      "num": 116500,
-      "word": "貂蝉穆夏联动新皮肤",
-      "onboard_time": 1741661060,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 114339,
       "num": 114339,
       "word": "龙丹妮给李宇春清唱是你",
@@ -595,12 +603,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112924,
+      "num": 112924,
+      "word": "JIWOO料理鼠王",
+      "onboard_time": 1741661903,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 111645,
+      "num": 168447,
+      "word": "林一把虞书欣捧在手心",
+      "onboard_time": 1741662263,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107661,
       "num": 190316,
       "word": "侯明昊回复于正我醒了",
       "onboard_time": 1741618825,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106178,
+      "num": 106178,
+      "word": "孙颖莎蒯曼重庆冠军赛首秀",
+      "onboard_time": 1741661601,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 103911,
@@ -651,28 +683,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 96078,
-      "num": 96078,
-      "word": "孙颖莎蒯曼重庆冠军赛首秀",
-      "onboard_time": 1741661601,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 95960,
       "num": 190266,
       "word": "没有顶流的命 却得了顶流的病",
       "onboard_time": 1741595062,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 94239,
-      "num": 94239,
-      "word": "JIWOO料理鼠王",
-      "onboard_time": 1741661903,
-      "rank": 48,
-      "category": "音乐"
     },
     {
       "raw_hot": 92704,
@@ -689,6 +705,14 @@
       "onboard_time": 1741626257,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 90313,
+      "num": 236309,
+      "word": "鲁比奥称乌克兰必须在领土问题上让步",
+      "onboard_time": 1741658481,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 90134,
@@ -803,20 +827,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 62402,
-      "num": 236309,
-      "word": "鲁比奥称乌克兰必须在领土问题上让步",
-      "onboard_time": 1741658481,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 57333,
       "num": 220007,
       "word": "李龙馥三登巴黎时装周",
       "onboard_time": 1741656562,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 56809,
+      "num": 214269,
+      "word": "23岁中国留学生在荷兰失联亲属发声",
+      "onboard_time": 1741661302,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56344,
@@ -899,12 +923,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 45151,
+      "num": 268964,
+      "word": "美乌代表团将于11日在沙特举行会谈",
+      "onboard_time": 1741661661,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 44433,
       "num": 191156,
       "word": "王兴兴用哪吒2台词说我想试试",
       "onboard_time": 1741622182,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 43576,
+      "num": 192354,
+      "word": "三亚出新规多家酒店仍不能退订",
+      "onboard_time": 1741661302,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43211,
@@ -923,14 +963,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 40679,
-      "num": 214269,
-      "word": "23岁中国留学生在荷兰失联亲属发声",
-      "onboard_time": 1741661302,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 39235,
       "num": 112396,
       "word": "杜特尔特访港系私人度假行程",
@@ -947,14 +979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 35480,
-      "num": 192354,
-      "word": "三亚出新规多家酒店仍不能退订",
-      "onboard_time": 1741661302,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 33960,
       "num": 112071,
       "word": "把降息增贷减税等政策效应充分释放出来",
@@ -964,7 +988,7 @@
     },
     {
       "raw_hot": 33439,
-      "num": 572656,
+      "num": 794164,
       "word": "2025年美丽中国这样建",
       "onboard_time": 1741610786,
       "rank": 2,
@@ -977,14 +1001,6 @@
       "onboard_time": 1741649661,
       "rank": 42,
       "category": "财经"
-    },
-    {
-      "raw_hot": 30219,
-      "num": 209835,
-      "word": "美乌代表团将于11日在沙特举行会谈",
-      "onboard_time": 1741661661,
-      "rank": 22,
-      "category": "国际时政"
     },
     {
       "raw_hot": 28759,

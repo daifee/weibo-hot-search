@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741661984629,
+  "endTime": 1741662545782,
   "band_list": [
     {
       "raw_hot": 2815044,
@@ -251,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1128218,
+      "num": 1180514,
+      "word": "加班文化开始退潮",
+      "onboard_time": 1741659800,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1121027,
       "num": 1179364,
       "word": "人大代表呼吁废除35岁就业门槛",
@@ -321,14 +329,6 @@
       "onboard_time": 1741517303,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1025117,
-      "num": 1025117,
-      "word": "加班文化开始退潮",
-      "onboard_time": 1741659800,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1000237,
@@ -697,6 +697,14 @@
       "onboard_time": 1741481540,
       "rank": 4,
       "category": "国内时政,互联网"
+    },
+    {
+      "raw_hot": 721731,
+      "num": 721731,
+      "word": "靳东回应台艺人力挺统一面临制裁",
+      "onboard_time": 1741661182,
+      "rank": 4,
+      "category": "国内时政,艺人"
     },
     {
       "raw_hot": 721276,
@@ -1291,6 +1299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 405179,
+      "num": 405179,
+      "word": "强制9点下班能遏制畸形加班文化吗",
+      "onboard_time": 1741657881,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 404543,
       "num": 413783,
       "word": "咸鱼飞升",
@@ -1409,14 +1425,6 @@
       "onboard_time": 1741616305,
       "rank": 28,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 369374,
-      "num": 369374,
-      "word": "靳东回应台艺人力挺统一面临制裁",
-      "onboard_time": 1741661182,
-      "rank": 4,
-      "category": "国内时政,艺人"
     },
     {
       "raw_hot": 368664,
@@ -1691,6 +1699,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 327091,
+      "num": 327091,
+      "word": "10岁男童见起火电话摇来119",
+      "onboard_time": 1741659982,
+      "rank": 8,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 326738,
       "num": 251021,
       "word": "51岁林志玲状态",
@@ -1745,14 +1761,6 @@
       "onboard_time": 1741570040,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 316999,
-      "num": 316999,
-      "word": "强制9点下班能遏制畸形加班文化吗",
-      "onboard_time": 1741657881,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 316433,
@@ -1857,6 +1865,14 @@
       "onboard_time": 1741537280,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 297456,
+      "num": 297456,
+      "word": "哪吒敖丙变身大国重器有亿点酷",
+      "onboard_time": 1741661182,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 296809,
@@ -1979,14 +1995,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 273055,
-      "num": 273055,
-      "word": "10岁男童见起火电话摇来119",
-      "onboard_time": 1741659982,
-      "rank": 8,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 271719,
       "num": 205083,
       "word": "老人花29块买老年代步车快递只有巴掌大",
@@ -2017,6 +2025,14 @@
       "onboard_time": 1741585700,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 268644,
+      "num": 268644,
+      "word": "金价",
+      "onboard_time": 1741661302,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 267409,
@@ -2057,6 +2073,14 @@
       "onboard_time": 1741611746,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 262684,
+      "num": 262684,
+      "word": "多胖才算超重肥胖",
+      "onboard_time": 1741658240,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 262636,
@@ -2363,14 +2387,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 219163,
-      "num": 219163,
-      "word": "金价",
-      "onboard_time": 1741661302,
-      "rank": 16,
-      "category": "财经"
-    },
-    {
       "raw_hot": 219085,
       "num": 219085,
       "word": "闪耀暖暖联动喜羊羊与灰太狼",
@@ -2385,14 +2401,6 @@
       "onboard_time": 1741564279,
       "rank": 18,
       "category": "电影,美食"
-    },
-    {
-      "raw_hot": 217016,
-      "num": 217016,
-      "word": "多胖才算超重肥胖",
-      "onboard_time": 1741658240,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 216899,
@@ -2571,14 +2579,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 203816,
-      "num": 265023,
-      "word": "哪吒敖丙变身大国重器有亿点酷",
-      "onboard_time": 1741661182,
-      "rank": 9,
-      "category": "电影"
-    },
-    {
       "raw_hot": 203397,
       "num": 203397,
       "word": "雷军又挂了三条热搜",
@@ -2601,6 +2601,14 @@
       "onboard_time": 1741578622,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 200690,
+      "num": 200690,
+      "word": "王一博长发怼脸",
+      "onboard_time": 1741662020,
+      "rank": 17,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 200686,
@@ -2913,6 +2921,14 @@
       "onboard_time": 1741506981,
       "rank": 9,
       "category": "民生新闻,国内时政"
+    },
+    {
+      "raw_hot": 185119,
+      "num": 269667,
+      "word": "嘘国王在冬眠追剧日历",
+      "onboard_time": 1741661782,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 184453,
@@ -3433,6 +3449,14 @@
       "onboard_time": 1741654103,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 157612,
+      "num": 169784,
+      "word": "貂蝉穆夏联动新皮肤",
+      "onboard_time": 1741661060,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 156308,
@@ -4283,14 +4307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 123679,
-      "num": 193147,
-      "word": "嘘国王在冬眠追剧日历",
-      "onboard_time": 1741661782,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 123634,
       "num": 123634,
       "word": "丁程鑫 姐夫这是工作",
@@ -4611,14 +4627,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 116500,
-      "num": 116500,
-      "word": "貂蝉穆夏联动新皮肤",
-      "onboard_time": 1741661060,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 116209,
       "num": 116209,
       "word": "想飞的女孩 浪费演员",
@@ -4795,6 +4803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 112924,
+      "num": 112924,
+      "word": "JIWOO料理鼠王",
+      "onboard_time": 1741661903,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 112893,
       "num": 112893,
       "word": "伊朗最高领袖称美国为霸凌政府",
@@ -4841,6 +4857,14 @@
       "onboard_time": 1741611746,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111645,
+      "num": 168447,
+      "word": "林一把虞书欣捧在手心",
+      "onboard_time": 1741662263,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 111544,
@@ -5017,6 +5041,14 @@
       "onboard_time": 1741560917,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 106178,
+      "num": 106178,
+      "word": "孙颖莎蒯曼重庆冠军赛首秀",
+      "onboard_time": 1741661601,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 106160,
@@ -5395,14 +5427,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 96078,
-      "num": 96078,
-      "word": "孙颖莎蒯曼重庆冠军赛首秀",
-      "onboard_time": 1741661601,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 96041,
       "num": 96041,
       "word": "导游回应女游客斯里兰卡火车上坠落",
@@ -5457,14 +5481,6 @@
       "onboard_time": 1741563079,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 94239,
-      "num": 94239,
-      "word": "JIWOO料理鼠王",
-      "onboard_time": 1741661903,
-      "rank": 48,
-      "category": "音乐"
     },
     {
       "raw_hot": 93376,
@@ -5593,6 +5609,14 @@
       "onboard_time": 1741514482,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90313,
+      "num": 236309,
+      "word": "鲁比奥称乌克兰必须在领土问题上让步",
+      "onboard_time": 1741658481,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 90248,
@@ -6139,14 +6163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 62402,
-      "num": 236309,
-      "word": "鲁比奥称乌克兰必须在领土问题上让步",
-      "onboard_time": 1741658481,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 60674,
       "num": 71426,
       "word": "吴艳妮的后程没有对手",
@@ -6216,6 +6232,14 @@
       "word": "用二氧化硫违法熏制的沙姜流入市场",
       "onboard_time": 1741612405,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56809,
+      "num": 214269,
+      "word": "23岁中国留学生在荷兰失联亲属发声",
+      "onboard_time": 1741661302,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -6356,7 +6380,7 @@
     },
     {
       "raw_hot": 47902,
-      "num": 670752,
+      "num": 794164,
       "word": "2025年美丽中国这样建",
       "onboard_time": 1741610786,
       "rank": 2,
@@ -6376,6 +6400,14 @@
       "word": "柬埔寨警方突袭电诈园区",
       "onboard_time": 1741446922,
       "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 45151,
+      "num": 268964,
+      "word": "美乌代表团将于11日在沙特举行会谈",
+      "onboard_time": 1741661661,
+      "rank": 22,
       "category": "国际时政"
     },
     {
@@ -6401,6 +6433,14 @@
       "onboard_time": 1741586661,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 43576,
+      "num": 192354,
+      "word": "三亚出新规多家酒店仍不能退订",
+      "onboard_time": 1741661302,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42929,
@@ -6491,14 +6531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 40679,
-      "num": 214269,
-      "word": "23岁中国留学生在荷兰失联亲属发声",
-      "onboard_time": 1741661302,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40511,
       "num": 228840,
       "word": "如何斩断偷拍产业链",
@@ -6577,14 +6609,6 @@
       "onboard_time": 1741525161,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 35480,
-      "num": 192354,
-      "word": "三亚出新规多家酒店仍不能退订",
-      "onboard_time": 1741661302,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 35360,
@@ -6705,14 +6729,6 @@
       "onboard_time": 1741616966,
       "rank": 19,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 30219,
-      "num": 209835,
-      "word": "美乌代表团将于11日在沙特举行会谈",
-      "onboard_time": 1741661661,
-      "rank": 22,
-      "category": "国际时政"
     },
     {
       "raw_hot": 30041,
