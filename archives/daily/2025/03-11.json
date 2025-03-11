@@ -1,6 +1,6 @@
 {
   "startTime": 1741624073347,
-  "endTime": 1741670587468,
+  "endTime": 1741671586222,
   "band_list": [
     {
       "raw_hot": 1893070,
@@ -43,6 +43,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1115157,
+      "num": 1178425,
+      "word": "始祖鸟吊牌被炒到最高300元一张",
+      "onboard_time": 1741666885,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1109496,
       "num": 1177519,
       "word": "女子回应月薪4600每天跨市上班",
@@ -59,14 +67,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 1023114,
-      "num": 1163698,
-      "word": "始祖鸟吊牌被炒到最高300元一张",
-      "onboard_time": 1741666885,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1012949,
       "num": 1012949,
       "word": "鱼头星星回来了",
@@ -81,6 +81,14 @@
       "onboard_time": 1741658720,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 953274,
+      "num": 434166,
+      "word": "吴彦祖英语课遭吐槽本人只讲5分钟",
+      "onboard_time": 1741668684,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 909266,
@@ -105,14 +113,6 @@
       "onboard_time": 1741664902,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 661657,
-      "num": 434166,
-      "word": "吴彦祖英语课遭吐槽本人只讲5分钟",
-      "onboard_time": 1741668684,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 641452,
@@ -155,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 498355,
+      "num": 498355,
+      "word": "鼓励生育不能政策请客企业埋单",
+      "onboard_time": 1741666825,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 492583,
       "num": 492583,
       "word": "两会",
@@ -163,20 +171,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 481382,
+      "num": 253687,
+      "word": "金赛纶生前几乎没有任何财产",
+      "onboard_time": 1741670422,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 443224,
+      "num": 390686,
+      "word": "虞书欣林一连麦直播",
+      "onboard_time": 1741671321,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 435496,
       "num": 435496,
       "word": "哪吒敖丙变身大国重器有亿点酷",
       "onboard_time": 1741661182,
       "rank": 9,
       "category": "电影"
-    },
-    {
-      "raw_hot": 434334,
-      "num": 434334,
-      "word": "鼓励生育不能政策请客企业埋单",
-      "onboard_time": 1741666825,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 433647,
@@ -273,6 +289,14 @@
       "onboard_time": 1741606283,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 318212,
+      "num": 253380,
+      "word": "王源外网媒体生图",
+      "onboard_time": 1741670062,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 314403,
@@ -379,8 +403,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 272686,
+      "num": 391200,
+      "word": "肥胖不仅要看体重还要看腰围",
+      "onboard_time": 1741669405,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 271406,
-      "num": 226457,
+      "num": 246517,
       "word": "女子回应吃火锅涮邻桌剩菜",
       "onboard_time": 1741669342,
       "rank": 21,
@@ -435,6 +467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 254109,
+      "num": 254109,
+      "word": "马斯克承认特斯拉生意困难",
+      "onboard_time": 1741665142,
+      "rank": 27,
+      "category": "财经,汽车"
+    },
+    {
       "raw_hot": 251084,
       "num": 251084,
       "word": "海底捞将起诉向火锅内小便男子",
@@ -467,6 +507,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 241841,
+      "num": 241841,
+      "word": "建议强制规定女厕与男厕比例",
+      "onboard_time": 1741669105,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 238202,
       "num": 190405,
       "word": "周杰伦背着女儿牵着儿子",
@@ -483,12 +531,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 231164,
-      "num": 231164,
-      "word": "马斯克承认特斯拉生意困难",
-      "onboard_time": 1741665142,
-      "rank": 27,
-      "category": "财经,汽车"
+      "raw_hot": 235380,
+      "num": 235380,
+      "word": "胡军带妻子与林青霞合影",
+      "onboard_time": 1741670662,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 228194,
@@ -528,14 +576,6 @@
       "word": "夫妻吵架丈夫和公公抢走两月大婴儿",
       "onboard_time": 1741619904,
       "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 222809,
-      "num": 227438,
-      "word": "建议强制规定女厕与男厕比例",
-      "onboard_time": 1741669105,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -579,6 +619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208435,
+      "num": 254109,
+      "word": "哪吒2离150亿只差1亿",
+      "onboard_time": 1741665683,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 203386,
       "num": 203386,
       "word": "金赛纶家人发声",
@@ -595,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201585,
+      "num": 201585,
+      "word": "又是费启鸣",
+      "onboard_time": 1741671083,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201494,
       "num": 201494,
       "word": "时代峰峻的相册全是声明",
@@ -603,12 +659,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 196616,
-      "num": 196616,
-      "word": "哪吒2离150亿只差1亿",
-      "onboard_time": 1741665683,
-      "rank": 47,
-      "category": "电影"
+      "raw_hot": 198615,
+      "num": 198615,
+      "word": "男子接广告被亲友举报从迪士尼离职",
+      "onboard_time": 1741671142,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195478,
@@ -625,14 +681,6 @@
       "onboard_time": 1741666103,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 192141,
-      "num": 192141,
-      "word": "王源外网媒体生图",
-      "onboard_time": 1741670062,
-      "rank": 31,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 191657,
@@ -692,7 +740,7 @@
     },
     {
       "raw_hot": 178788,
-      "num": 178788,
+      "num": 253876,
       "word": "白敬亭幸福泪水镜头",
       "onboard_time": 1741670183,
       "rank": 32,
@@ -731,6 +779,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 169577,
+      "num": 253939,
+      "word": "卫枝穿搭",
+      "onboard_time": 1741670482,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167774,
       "num": 189951,
       "word": "海尔回应网友求生产懒人洗衣机",
@@ -745,6 +801,14 @@
       "onboard_time": 1741660821,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 161670,
+      "num": 161670,
+      "word": "建议女厕所从设计端改革",
+      "onboard_time": 1741666584,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 159275,
@@ -787,6 +851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155208,
+      "num": 250350,
+      "word": "单依纯济南",
+      "onboard_time": 1741670723,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 146603,
       "num": 146603,
       "word": "檀健次抱着空气演虐戏",
@@ -811,6 +883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142662,
+      "num": 249744,
+      "word": "汪苏泷点歌大转盘",
+      "onboard_time": 1741671262,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 141760,
       "num": 141760,
       "word": "稚晖君机器人能给葡萄缝线",
@@ -825,6 +905,14 @@
       "onboard_time": 1741669342,
       "rank": 40,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 140736,
+      "num": 246885,
+      "word": "俄罗斯一购物中心遭炮击4死9伤",
+      "onboard_time": 1741669165,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 140637,
@@ -867,14 +955,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 133072,
-      "num": 192426,
-      "word": "俄罗斯一购物中心遭炮击4死9伤",
-      "onboard_time": 1741669165,
-      "rank": 29,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 132146,
       "num": 132146,
       "word": "湖人vs篮网",
@@ -897,14 +977,6 @@
       "onboard_time": 1741655903,
       "rank": 33,
       "category": "财经,汽车"
-    },
-    {
-      "raw_hot": 130493,
-      "num": 130493,
-      "word": "金赛纶生前几乎没有任何财产",
-      "onboard_time": 1741670422,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 129164,
@@ -963,28 +1035,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 117945,
-      "num": 391200,
-      "word": "肥胖不仅要看体重还要看腰围",
-      "onboard_time": 1741669405,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 117666,
       "num": 117666,
       "word": "苹果操作系统外观或颠覆",
       "onboard_time": 1741650621,
       "rank": 35,
       "category": "数码"
-    },
-    {
-      "raw_hot": 114425,
-      "num": 114425,
-      "word": "卫枝穿搭",
-      "onboard_time": 1741670482,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 114339,
@@ -1043,6 +1099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105391,
+      "num": 105391,
+      "word": "蒯曼11比3池旼亨",
+      "onboard_time": 1741671382,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103911,
       "num": 190164,
       "word": "胡歌谈女儿涂鸦玻璃窗满眼宠溺",
@@ -1081,6 +1145,22 @@
       "onboard_time": 1741661182,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99265,
+      "num": 99265,
+      "word": "国产手机系统和iOS差距还大吗",
+      "onboard_time": 1741669883,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 98945,
+      "num": 98945,
+      "word": "95后女教师勇救轻生男孩",
+      "onboard_time": 1741671561,
+      "rank": 49,
+      "category": "正能量"
     },
     {
       "raw_hot": 98847,
@@ -1153,6 +1233,14 @@
       "onboard_time": 1741658481,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 90162,
+      "num": 253311,
+      "word": "一诺九尾别看司马光是恶评",
+      "onboard_time": 1741671022,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 90134,
