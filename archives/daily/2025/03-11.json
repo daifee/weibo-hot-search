@@ -1,6 +1,6 @@
 {
   "startTime": 1741624073347,
-  "endTime": 1741688773319,
+  "endTime": 1741689812656,
   "band_list": [
     {
       "raw_hot": 21330054,
@@ -283,6 +283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 604407,
+      "num": 261631,
+      "word": "金秀贤的片酬",
+      "onboard_time": 1741688905,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 570877,
       "num": 570877,
       "word": "广州长隆回应垂直过山车永久拆除",
@@ -499,6 +507,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 337735,
+      "num": 337735,
+      "word": "越幸福的人说废话越多",
+      "onboard_time": 1741685422,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 335702,
       "num": 282583,
       "word": "五星级酒店为什么开不下去了",
@@ -513,14 +529,6 @@
       "onboard_time": 1741670062,
       "rank": 31,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 333326,
-      "num": 333326,
-      "word": "越幸福的人说废话越多",
-      "onboard_time": 1741685422,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 332672,
@@ -563,6 +571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 324007,
+      "num": 264922,
+      "word": "赵露思CT全球代言人",
+      "onboard_time": 1741688545,
+      "rank": 19,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 314403,
       "num": 314403,
       "word": "00后姑娘定下的事业和伴侣目标",
@@ -577,6 +593,14 @@
       "onboard_time": 1741651101,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 309292,
+      "num": 300219,
+      "word": "华为多名产品线负责人被开除",
+      "onboard_time": 1741687104,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 306312,
@@ -619,20 +643,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 300219,
-      "num": 300219,
-      "word": "华为多名产品线负责人被开除",
-      "onboard_time": 1741687104,
-      "rank": 17,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 299904,
       "num": 251594,
       "word": "海底捞",
       "onboard_time": 1741656682,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 299166,
+      "num": 299166,
+      "word": "徐克自曝通话记录",
+      "onboard_time": 1741688604,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 298908,
@@ -649,6 +673,14 @@
       "onboard_time": 1741616845,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 292638,
+      "num": 301045,
+      "word": "杭州销毁百万假货",
+      "onboard_time": 1741687587,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 282104,
@@ -715,12 +747,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 264922,
-      "num": 264922,
-      "word": "赵露思CT全球代言人",
+      "raw_hot": 266294,
+      "num": 266294,
+      "word": "滤镜",
       "onboard_time": 1741688545,
-      "rank": 19,
-      "category": "作品衍生,美妆"
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 263772,
@@ -995,14 +1027,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 204471,
-      "num": 301045,
-      "word": "杭州销毁百万假货",
-      "onboard_time": 1741687587,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 203386,
       "num": 203386,
       "word": "金赛纶家人发声",
@@ -1179,6 +1203,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 174622,
+      "num": 174622,
+      "word": "牛马8分钟抵24小时休息法",
+      "onboard_time": 1741687886,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 174536,
       "num": 276481,
       "word": "成何体统",
@@ -1227,28 +1259,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 167208,
-      "num": 167208,
-      "word": "牛马8分钟抵24小时休息法",
-      "onboard_time": 1741687886,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 167084,
       "num": 167084,
       "word": "9块9咖啡还能撑多久",
       "onboard_time": 1741679842,
       "rank": 30,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 166767,
-      "num": 220837,
-      "word": "滤镜",
-      "onboard_time": 1741688545,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 162949,
@@ -1363,12 +1379,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154201,
+      "num": 177805,
+      "word": "仁心俱乐部太解气了",
+      "onboard_time": 1741689325,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154165,
       "num": 340534,
       "word": "杜特尔特被转移至维拉莫尔空军基地",
       "onboard_time": 1741677321,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 152567,
+      "num": 152567,
+      "word": "李想一年后再谈MEGA",
+      "onboard_time": 1741689263,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 151200,
@@ -1555,14 +1587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130877,
-      "num": 170540,
-      "word": "徐克自曝通话记录",
-      "onboard_time": 1741688604,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 130860,
       "num": 241354,
       "word": "嘘国王在冬眠",
@@ -1587,6 +1611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128370,
+      "num": 197178,
+      "word": "澳反华智库自曝",
+      "onboard_time": 1741685963,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 127254,
       "num": 127254,
       "word": "表决通过全国人大常委会工作报告",
@@ -1601,6 +1633,14 @@
       "onboard_time": 1741681941,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125858,
+      "num": 125858,
+      "word": "百万埃尔法车主破防了",
+      "onboard_time": 1741688965,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125673,
@@ -1683,6 +1723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119054,
+      "num": 263410,
+      "word": "孙颖莎vs波尔卡诺娃",
+      "onboard_time": 1741689263,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117728,
       "num": 117728,
       "word": "以创新之力推动传统IP破圈出海",
@@ -1763,12 +1811,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110819,
+      "num": 110819,
+      "word": "四川省公益慈善传播大使赵露思",
+      "onboard_time": 1741689684,
+      "rank": 48,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 110563,
       "num": 145633,
       "word": "惠英红封面 绝世侠女",
       "onboard_time": 1741664662,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 108900,
+      "num": 108900,
+      "word": "蒋毓顶着这身材还玩纯情",
+      "onboard_time": 1741688965,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 107661,
@@ -1897,14 +1961,6 @@
       "onboard_time": 1741581683,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 97353,
-      "num": 197178,
-      "word": "澳反华智库自曝",
-      "onboard_time": 1741685963,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 96697,
@@ -2155,6 +2211,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 63067,
+      "num": 247396,
+      "word": "王一博LACOSTE秀后采访",
+      "onboard_time": 1741689025,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 57333,
       "num": 220007,
       "word": "李龙馥三登巴黎时装周",
@@ -2177,6 +2241,14 @@
       "onboard_time": 1741686804,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 56528,
+      "num": 198737,
+      "word": "认知障碍老人养生店充值70万元",
+      "onboard_time": 1741688365,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56344,
@@ -2331,12 +2403,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 39885,
+      "num": 243372,
+      "word": "这辈子都等不到续作的动画",
+      "onboard_time": 1741688663,
+      "rank": 34,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 39235,
       "num": 112396,
       "word": "杜特尔特访港系私人度假行程",
       "onboard_time": 1741642094,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 38583,
+      "num": 144445,
+      "word": "秀场上的第一视角",
+      "onboard_time": 1741689263,
+      "rank": 36,
+      "category": "时尚"
     },
     {
       "raw_hot": 37365,
@@ -2411,12 +2499,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 32849,
-      "num": 168820,
-      "word": "这辈子都等不到续作的动画",
-      "onboard_time": 1741688663,
-      "rank": 34,
-      "category": "动漫"
+      "raw_hot": 33208,
+      "num": 406600,
+      "word": "中国稳健发展为世界带来信心与力量",
+      "onboard_time": 1741688185,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 32424,
@@ -2433,14 +2521,6 @@
       "onboard_time": 1741666703,
       "rank": 43,
       "category": "美食"
-    },
-    {
-      "raw_hot": 28979,
-      "num": 198737,
-      "word": "认知障碍老人养生店充值70万元",
-      "onboard_time": 1741688365,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 28759,
@@ -2467,14 +2547,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25632,
-      "num": 385806,
-      "word": "中国稳健发展为世界带来信心与力量",
-      "onboard_time": 1741688185,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 25540,
       "num": 100656,
       "word": "英国沿海一美国化学品油轮起火",
@@ -2497,6 +2569,14 @@
       "onboard_time": 1741631594,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23320,
+      "num": 287830,
+      "word": "杜特尔特为何愿意回国被捕",
+      "onboard_time": 1741689204,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 22338,
@@ -2537,6 +2617,14 @@
       "onboard_time": 1741636394,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11750,
+      "num": 135884,
+      "word": "夸克比家长还会教作文",
+      "onboard_time": 1741689263,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 11607,

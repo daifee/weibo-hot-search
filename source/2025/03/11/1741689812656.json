@@ -1,0 +1,410 @@
+{
+  "runTime": 1741689812656,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1058556,
+        "num": 1169369,
+        "word": "周杰伦方回应",
+        "onboard_time": 1741683802,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 547559,
+        "num": 547559,
+        "word": "偷偷录音是不尊重医生行为",
+        "onboard_time": 1741673662,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 33208,
+        "num": 406600,
+        "word": "中国稳健发展为世界带来信心与力量",
+        "onboard_time": 1741688185,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 352764,
+        "num": 352764,
+        "word": "香奈儿大秀",
+        "onboard_time": 1741686865,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 337735,
+        "num": 337735,
+        "word": "越幸福的人说废话越多",
+        "onboard_time": 1741685422,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 601500,
+        "num": 318880,
+        "word": "田静回应英语一成绩",
+        "onboard_time": 1741679842,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 299350,
+        "num": 299350,
+        "word": "体内缺瘦素会让你总想吃吃吃",
+        "onboard_time": 1741683503,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 299166,
+        "num": 299166,
+        "word": "徐克自曝通话记录",
+        "onboard_time": 1741688604,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292638,
+        "num": 292638,
+        "word": "杭州销毁百万假货",
+        "onboard_time": 1741687587,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23320,
+        "num": 287830,
+        "word": "杜特尔特为何愿意回国被捕",
+        "onboard_time": 1741689204,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17091865,
+        "num": 17091865,
+        "word": "金秀贤金赛纶亲吻照",
+        "onboard_time": 1741687164,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2871105,
+        "num": 275829,
+        "word": "金秀贤金赛纶 短信内容",
+        "onboard_time": 1741687286,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368337,
+        "num": 272599,
+        "word": "苗苗感谢郑恺为她拔掉自己的刺",
+        "onboard_time": 1741682062,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266294,
+        "num": 266294,
+        "word": "滤镜",
+        "onboard_time": 1741688545,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119054,
+        "num": 263410,
+        "word": "孙颖莎vs波尔卡诺娃",
+        "onboard_time": 1741689263,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 604407,
+        "num": 261631,
+        "word": "金秀贤的片酬",
+        "onboard_time": 1741688905,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324007,
+        "num": 257890,
+        "word": "赵露思CT全球代言人",
+        "onboard_time": 1741688545,
+        "rank": 16,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 323035,
+        "num": 253349,
+        "word": "唐总你夫人怀孕了",
+        "onboard_time": 1741683563,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63067,
+        "num": 247396,
+        "word": "王一博LACOSTE秀后采访",
+        "onboard_time": 1741689025,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 39885,
+        "num": 243372,
+        "word": "这辈子都等不到续作的动画",
+        "onboard_time": 1741688663,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 425738,
+        "num": 240897,
+        "word": "金赛纶生前几乎没有任何财产",
+        "onboard_time": 1741670422,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309292,
+        "num": 237152,
+        "word": "华为多名产品线负责人被开除",
+        "onboard_time": 1741687104,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 277918,
+        "num": 233772,
+        "word": "赵樱子晒与男友牵手照",
+        "onboard_time": 1741681702,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231605,
+        "num": 231605,
+        "word": "始祖鸟吊牌被炒到最高300元一张",
+        "onboard_time": 1741666885,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223685,
+        "num": 223685,
+        "word": "男子因妻子生育能力受限起诉离婚",
+        "onboard_time": 1741680383,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189072,
+        "num": 189072,
+        "word": "林一晋江新跪",
+        "onboard_time": 1741687345,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178445,
+        "num": 178445,
+        "word": "周杰伦晒出比耶录音照",
+        "onboard_time": 1741685782,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154201,
+        "num": 177805,
+        "word": "仁心俱乐部太解气了",
+        "onboard_time": 1741689325,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200621,
+        "num": 177275,
+        "word": "孟子义李昀锐即将二搭",
+        "onboard_time": 1741677440,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56528,
+        "num": 175868,
+        "word": "认知障碍老人养生店充值70万元",
+        "onboard_time": 1741688365,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181187,
+        "num": 174747,
+        "word": "190是一款很痛的身高",
+        "onboard_time": 1741675882,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174622,
+        "num": 174622,
+        "word": "牛马8分钟抵24小时休息法",
+        "onboard_time": 1741687886,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169801,
+        "num": 169801,
+        "word": "白敬亭换新发色了",
+        "onboard_time": 1741683563,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158538,
+        "num": 158538,
+        "word": "美考虑将韩国列为敏感国家",
+        "onboard_time": 1741677440,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152567,
+        "num": 152567,
+        "word": "李想一年后再谈MEGA",
+        "onboard_time": 1741689263,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 152270,
+        "num": 152270,
+        "word": "代表说我的阿勒泰让世界认识我家乡",
+        "onboard_time": 1741681642,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 38583,
+        "num": 144445,
+        "word": "秀场上的第一视角",
+        "onboard_time": 1741689263,
+        "rank": 36,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 142254,
+        "num": 142254,
+        "word": "虞书欣林一连麦直播",
+        "onboard_time": 1741671321,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11750,
+        "num": 135884,
+        "word": "夸克比家长还会教作文",
+        "onboard_time": 1741689263,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 132662,
+        "num": 132662,
+        "word": "被这个鱼头笑发疯了",
+        "onboard_time": 1741681163,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131020,
+        "num": 131020,
+        "word": "王源外网媒体生图",
+        "onboard_time": 1741670062,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 130822,
+        "num": 130822,
+        "word": "杜特尔特被捕",
+        "onboard_time": 1741664543,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128370,
+        "num": 128370,
+        "word": "澳反华智库自曝",
+        "onboard_time": 1741685963,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125858,
+        "num": 125858,
+        "word": "百万埃尔法车主破防了",
+        "onboard_time": 1741688965,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121884,
+        "num": 121884,
+        "word": "日本女主播直播中被刺",
+        "onboard_time": 1741682062,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 120574,
+        "num": 120574,
+        "word": "年下不叫姐指定心思野",
+        "onboard_time": 1741686804,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113886,
+        "num": 113886,
+        "word": "我追星",
+        "onboard_time": 1741683383,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111412,
+        "num": 111412,
+        "word": "全智贤千颂伊照进现实",
+        "onboard_time": 1741680742,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 110819,
+        "num": 110819,
+        "word": "四川省公益慈善传播大使赵露思",
+        "onboard_time": 1741689684,
+        "rank": 48,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 108900,
+        "num": 108900,
+        "word": "蒋毓顶着这身材还玩纯情",
+        "onboard_time": 1741688965,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}
