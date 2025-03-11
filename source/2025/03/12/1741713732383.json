@@ -1,0 +1,410 @@
+{
+  "runTime": 1741713732383,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 263536,
+        "num": 481072,
+        "word": "郑州双层巴士过隧道因超高被削车顶",
+        "onboard_time": 1741706722,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227789,
+        "num": 227789,
+        "word": "小伙上满8小时班被倒扣3天工资",
+        "onboard_time": 1741709362,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26488,
+        "num": 216098,
+        "word": "30秒了解国家账本新安排",
+        "onboard_time": 1741706543,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 514385,
+        "num": 215762,
+        "word": "王源minnie张元英g社生图",
+        "onboard_time": 1741708222,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 211851,
+        "num": 211851,
+        "word": "宋茜生图",
+        "onboard_time": 1741710859,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 164994,
+        "num": 164994,
+        "word": "陪爬泰山小伙称挣钱透支了身体",
+        "onboard_time": 1741698984,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125017,
+        "num": 125017,
+        "word": "第四十五号主席令",
+        "onboard_time": 1741695922,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124166,
+        "num": 124166,
+        "word": "赵今麦刘浩存miumiu预热",
+        "onboard_time": 1741703905,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 194001,
+        "num": 124023,
+        "word": "王源有一种气血很足的帅",
+        "onboard_time": 1741710440,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 81806,
+        "num": 118408,
+        "word": "14岁少女清洗文身要花76万谁之过",
+        "onboard_time": 1741691424,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 744521,
+        "num": 115725,
+        "word": "金秀贤金赛纶亲吻照",
+        "onboard_time": 1741687164,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230415,
+        "num": 112714,
+        "word": "赞助商回应麦琳参加综艺遭抵制",
+        "onboard_time": 1741711639,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193327,
+        "num": 110151,
+        "word": "王楚钦 麦当劳",
+        "onboard_time": 1741701684,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107706,
+        "num": 107706,
+        "word": "花几十元吧主可提供定制色情视频",
+        "onboard_time": 1741707021,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97496,
+        "num": 97496,
+        "word": "女子提5万家务劳动补偿法院判25万",
+        "onboard_time": 1741696224,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 693707,
+        "num": 93018,
+        "word": "金秀贤方说绝不让步",
+        "onboard_time": 1741700184,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182875,
+        "num": 88772,
+        "word": "疑似金赛纶酒驾原因",
+        "onboard_time": 1741700184,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103034,
+        "num": 87376,
+        "word": "哪吒2正冲刺全球影史第5",
+        "onboard_time": 1741693044,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 84400,
+        "num": 84400,
+        "word": "林一我同意收工后马上打开优酷去看",
+        "onboard_time": 1741709781,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71859,
+        "num": 71859,
+        "word": "LV内场看秀待遇",
+        "onboard_time": 1741704324,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 99054,
+        "num": 71648,
+        "word": "男子创业负债800万两年还清",
+        "onboard_time": 1741698324,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65699,
+        "num": 65699,
+        "word": "多个奢侈品吊牌被炒出天价",
+        "onboard_time": 1741701745,
+        "rank": 21,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 62494,
+        "num": 62494,
+        "word": "巴基斯坦载超400人火车遇袭",
+        "onboard_time": 1741711998,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 60383,
+        "num": 60383,
+        "word": "张元英牛仔芭比look",
+        "onboard_time": 1741706842,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 59116,
+        "num": 59116,
+        "word": "智力曾降至3岁消防员开始直播带货",
+        "onboard_time": 1741696464,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58678,
+        "num": 58678,
+        "word": "315骗假不留",
+        "onboard_time": 1741701084,
+        "rank": 25,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 57406,
+        "num": 57406,
+        "word": "杜特尔特被捕",
+        "onboard_time": 1741664543,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 57202,
+        "num": 57202,
+        "word": "滤镜癫开癫走",
+        "onboard_time": 1741700064,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54773,
+        "num": 54773,
+        "word": "虞书欣PEL的兵来了",
+        "onboard_time": 1741709061,
+        "rank": 28,
+        "category": "剧集,电竞"
+      },
+      {
+        "raw_hot": 53755,
+        "num": 53755,
+        "word": "微信误转给同名人1000元对方不还",
+        "onboard_time": 1741693403,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128300,
+        "num": 53405,
+        "word": "余承东辟谣和刘亦菲恋情",
+        "onboard_time": 1741692805,
+        "rank": 30,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 53051,
+        "num": 53051,
+        "word": "滤镜林媛怀孕了",
+        "onboard_time": 1741692263,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51847,
+        "num": 51847,
+        "word": "杜特尔特正在被强行送往海牙",
+        "onboard_time": 1741702884,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 52816,
+        "num": 51763,
+        "word": "李兰迪演技",
+        "onboard_time": 1741704324,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51527,
+        "num": 51527,
+        "word": "刘雨昕带吴建豪从贵阳街头吃到街尾",
+        "onboard_time": 1741711038,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47199,
+        "num": 47199,
+        "word": "孙燕姿抢票",
+        "onboard_time": 1741693283,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 47057,
+        "num": 47057,
+        "word": "张凌赫演技",
+        "onboard_time": 1741699224,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46738,
+        "num": 46738,
+        "word": "杨天真发了虞书欣",
+        "onboard_time": 1741692444,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46444,
+        "num": 46444,
+        "word": "焦虑型人格会有哪些肢体动作",
+        "onboard_time": 1741701862,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 45420,
+        "num": 45420,
+        "word": "星你滤镜碎了",
+        "onboard_time": 1741712956,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42707,
+        "num": 45415,
+        "word": "阿勒泰民警挖30厘米厚积雪救人",
+        "onboard_time": 1741708821,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39821,
+        "num": 45407,
+        "word": "赵露思CT全球代言人",
+        "onboard_time": 1741688545,
+        "rank": 41,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 39669,
+        "num": 45391,
+        "word": "武林外传直播",
+        "onboard_time": 1741691784,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38596,
+        "num": 45386,
+        "word": "王一博香奈儿内场落座",
+        "onboard_time": 1741692144,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 38103,
+        "num": 45363,
+        "word": "赵让cover了Jennie新歌",
+        "onboard_time": 1741703484,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 35338,
+        "num": 45354,
+        "word": "赵小童愿我们可以一直微笑",
+        "onboard_time": 1741710560,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31946,
+        "num": 45341,
+        "word": "法喜寺500年古玉兰开满枝头",
+        "onboard_time": 1741705403,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31265,
+        "num": 45340,
+        "word": "一套米字操颈椎舒服了",
+        "onboard_time": 1741711340,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 27356,
+        "num": 45323,
+        "word": "孙颖莎希望和马琳有更好的配合",
+        "onboard_time": 1741692924,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19622,
+        "num": 45315,
+        "word": "林孝埈欢迎大家来为中国队加油",
+        "onboard_time": 1741705224,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}
