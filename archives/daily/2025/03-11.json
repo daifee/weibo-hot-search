@@ -1,22 +1,22 @@
 {
   "startTime": 1741624073347,
-  "endTime": 1741662545782,
+  "endTime": 1741664094144,
   "band_list": [
     {
-      "raw_hot": 1295342,
-      "num": 268853,
-      "word": "赵樱子官宣恋情",
-      "onboard_time": 1741616546,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1128218,
-      "num": 1180514,
+      "raw_hot": 1459334,
+      "num": 1459334,
       "word": "加班文化开始退潮",
       "onboard_time": 1741659800,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1295342,
+      "num": 353506,
+      "word": "赵樱子官宣恋情",
+      "onboard_time": 1741616546,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1109496,
@@ -25,6 +25,22 @@
       "onboard_time": 1741655903,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1036255,
+      "num": 1036255,
+      "word": "靳东回应台艺人力挺统一面临制裁",
+      "onboard_time": 1741661182,
+      "rank": 4,
+      "category": "国内时政,艺人"
+    },
+    {
+      "raw_hot": 993944,
+      "num": 993944,
+      "word": "金价",
+      "onboard_time": 1741661302,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 984876,
@@ -43,14 +59,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 721731,
-      "num": 721731,
-      "word": "靳东回应台艺人力挺统一面临制裁",
-      "onboard_time": 1741661182,
-      "rank": 4,
-      "category": "国内时政,艺人"
-    },
-    {
       "raw_hot": 556714,
       "num": 556714,
       "word": "国家版减肥指南来了",
@@ -65,6 +73,14 @@
       "onboard_time": 1741617205,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 435496,
+      "num": 435496,
+      "word": "哪吒敖丙变身大国重器有亿点酷",
+      "onboard_time": 1741661182,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 420544,
@@ -99,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 363462,
+      "num": 363462,
+      "word": "10岁男童见起火电话摇来119",
+      "onboard_time": 1741659982,
+      "rank": 8,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 342235,
       "num": 294348,
       "word": "00后用DeepSeek1天卖出3.3亿",
@@ -123,20 +147,20 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 328193,
+      "num": 328193,
+      "word": "多胖才算超重肥胖",
+      "onboard_time": 1741658240,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 327499,
       "num": 327499,
       "word": "哪吒2票房站上149亿",
       "onboard_time": 1741606283,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 327091,
-      "num": 327091,
-      "word": "10岁男童见起火电话摇来119",
-      "onboard_time": 1741659982,
-      "rank": 8,
-      "category": "正能量"
     },
     {
       "raw_hot": 314403,
@@ -203,28 +227,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 297456,
-      "num": 297456,
-      "word": "哪吒敖丙变身大国重器有亿点酷",
-      "onboard_time": 1741661182,
-      "rank": 9,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 271719,
+      "raw_hot": 278209,
       "num": 205083,
       "word": "老人花29块买老年代步车快递只有巴掌大",
       "onboard_time": 1741659800,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 268644,
-      "num": 268644,
-      "word": "金价",
-      "onboard_time": 1741661302,
-      "rank": 16,
-      "category": "财经"
     },
     {
       "raw_hot": 267409,
@@ -243,12 +251,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 262684,
-      "num": 262684,
-      "word": "多胖才算超重肥胖",
-      "onboard_time": 1741658240,
+      "raw_hot": 255342,
+      "num": 255342,
+      "word": "王一博长发怼脸",
+      "onboard_time": 1741662020,
       "rank": 17,
-      "category": "民生新闻"
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 251084,
@@ -299,12 +307,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234874,
+      "num": 167861,
+      "word": "因莲花楼走红狗狗7岁戏龄近6年",
+      "onboard_time": 1741662622,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 227451,
       "num": 205161,
       "word": "85年婆婆带娃被误认为孩子亲妈",
       "onboard_time": 1741650080,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 227425,
+      "num": 363496,
+      "word": "嘘国王在冬眠追剧日历",
+      "onboard_time": 1741661782,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 226014,
@@ -363,20 +387,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 200690,
-      "num": 200690,
-      "word": "王一博长发怼脸",
-      "onboard_time": 1741662020,
-      "rank": 17,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 191657,
       "num": 191657,
       "word": "茶百道黄子弘凡",
       "onboard_time": 1741659982,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190643,
+      "num": 190643,
+      "word": "泽连斯基乘专机抵达沙特",
+      "onboard_time": 1741662803,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 190409,
@@ -403,14 +427,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 185119,
-      "num": 269667,
-      "word": "嘘国王在冬眠追剧日历",
-      "onboard_time": 1741661782,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 179231,
       "num": 179231,
       "word": "男子称在机关年入35万视频系摆拍",
@@ -432,6 +448,14 @@
       "word": "成何体统",
       "onboard_time": 1741618166,
       "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 174012,
+      "num": 174012,
+      "word": "林一把虞书欣捧在手心",
+      "onboard_time": 1741662263,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -483,12 +507,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142712,
+      "num": 142712,
+      "word": "医院回应宣传给3岁智商妈妈分娩",
+      "onboard_time": 1741661903,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141760,
       "num": 141760,
       "word": "稚晖君机器人能给葡萄缝线",
       "onboard_time": 1741658421,
       "rank": 32,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 138617,
+      "num": 138617,
+      "word": "时代峰峻的相册全是声明",
+      "onboard_time": 1741663582,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 137372,
@@ -547,11 +587,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127730,
-      "num": 127730,
-      "word": "医院回应宣传给3岁智商妈妈分娩",
-      "onboard_time": 1741661903,
-      "rank": 39,
+      "raw_hot": 125673,
+      "num": 125673,
+      "word": "媒体评多家企业加入反内卷浪潮",
+      "onboard_time": 1741663402,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -561,6 +601,14 @@
       "onboard_time": 1741615525,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 122484,
+      "num": 133792,
+      "word": "赵丽颖高月香锁喉杀",
+      "onboard_time": 1741663582,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 121473,
@@ -611,12 +659,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 111645,
-      "num": 168447,
-      "word": "林一把虞书欣捧在手心",
-      "onboard_time": 1741662263,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 109071,
+      "num": 109071,
+      "word": "曾可妮请问在燃什么",
+      "onboard_time": 1741663342,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 107661,
@@ -628,7 +676,7 @@
     },
     {
       "raw_hot": 106178,
-      "num": 106178,
+      "num": 164050,
       "word": "孙颖莎蒯曼重庆冠军赛首秀",
       "onboard_time": 1741661601,
       "rank": 47,
@@ -681,6 +729,14 @@
       "onboard_time": 1741581683,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96962,
+      "num": 268964,
+      "word": "美乌代表团将于11日在沙特举行会谈",
+      "onboard_time": 1741661661,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 95960,
@@ -923,14 +979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 45151,
-      "num": 268964,
-      "word": "美乌代表团将于11日在沙特举行会谈",
-      "onboard_time": 1741661661,
-      "rank": 22,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 44433,
       "num": 191156,
       "word": "王兴兴用哪吒2台词说我想试试",
@@ -963,6 +1011,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 39703,
+      "num": 200887,
+      "word": "有人担心强制下班变成无偿加班",
+      "onboard_time": 1741663522,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39235,
       "num": 112396,
       "word": "杜特尔特访港系私人度假行程",
@@ -988,7 +1044,7 @@
     },
     {
       "raw_hot": 33439,
-      "num": 794164,
+      "num": 1014492,
       "word": "2025年美丽中国这样建",
       "onboard_time": 1741610786,
       "rank": 2,
