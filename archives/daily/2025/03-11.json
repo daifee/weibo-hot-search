@@ -1,10 +1,10 @@
 {
   "startTime": 1741624073347,
-  "endTime": 1741674784976,
+  "endTime": 1741675577984,
   "band_list": [
     {
-      "raw_hot": 1918831,
-      "num": 281754,
+      "raw_hot": 1980398,
+      "num": 295432,
       "word": "又是费启鸣",
       "onboard_time": 1741671083,
       "rank": 33,
@@ -123,6 +123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 661426,
+      "num": 294870,
+      "word": "刘畊宏晒周杰伦厦门跳操照",
+      "onboard_time": 1741672462,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 641452,
       "num": 641452,
       "word": "杜特尔特被捕时说你们干脆杀了我",
@@ -139,12 +147,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 622618,
-      "num": 280698,
-      "word": "刘畊宏晒周杰伦厦门跳操照",
-      "onboard_time": 1741672462,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 617258,
+      "num": 293161,
+      "word": "男子接广告被亲友举报从迪士尼离职",
+      "onboard_time": 1741671142,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 604643,
+      "num": 342113,
+      "word": "莫斯科遭大规模无人机袭击",
+      "onboard_time": 1741673662,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 570877,
@@ -152,14 +168,6 @@
       "word": "广州长隆回应垂直过山车永久拆除",
       "onboard_time": 1741664424,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 563170,
-      "num": 280394,
-      "word": "男子接广告被亲友举报从迪士尼离职",
-      "onboard_time": 1741671142,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 495492,
-      "num": 275164,
+      "num": 284961,
       "word": "金赛纶生前几乎没有任何财产",
       "onboard_time": 1741670422,
       "rank": 42,
@@ -201,14 +209,6 @@
       "onboard_time": 1741656141,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 444028,
-      "num": 342113,
-      "word": "莫斯科遭大规模无人机袭击",
-      "onboard_time": 1741673662,
-      "rank": 5,
-      "category": "国际时政"
     },
     {
       "raw_hot": 443224,
@@ -307,11 +307,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 335659,
+      "num": 284223,
+      "word": "王源外网媒体生图",
+      "onboard_time": 1741670062,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 332672,
       "num": 344184,
       "word": "因莲花楼走红狗狗7岁戏龄近6年",
       "onboard_time": 1741662622,
       "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 330575,
+      "num": 330575,
+      "word": "嘘国王在冬眠 开局9广",
+      "onboard_time": 1741668024,
+      "rank": 8,
       "category": "剧集"
     },
     {
@@ -337,14 +353,6 @@
       "onboard_time": 1741606283,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 324256,
-      "num": 274201,
-      "word": "王源外网媒体生图",
-      "onboard_time": 1741670062,
-      "rank": 31,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 314403,
@@ -387,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 302128,
+      "num": 287432,
+      "word": "直播间买8盒蓝莓到手每盒只有几颗",
+      "onboard_time": 1741672342,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 300948,
       "num": 219634,
       "word": "美断供后澳大利亚反华智库急了",
@@ -427,11 +443,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 282757,
-      "num": 282757,
-      "word": "嘘国王在冬眠 开局9广",
-      "onboard_time": 1741668024,
-      "rank": 8,
+      "raw_hot": 286391,
+      "num": 286391,
+      "word": "林一回关鱼头星星了",
+      "onboard_time": 1741675101,
+      "rank": 17,
       "category": "剧集"
     },
     {
@@ -473,6 +489,14 @@
       "onboard_time": 1741669342,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 268687,
+      "num": 285372,
+      "word": "金善禹捐款1亿韩元",
+      "onboard_time": 1741674741,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 267409,
@@ -539,12 +563,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 248523,
-      "num": 248523,
-      "word": "直播间买8盒蓝莓到手每盒只有几颗",
-      "onboard_time": 1741672342,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 249593,
+      "num": 249593,
+      "word": "偷偷录音是不尊重医生行为",
+      "onboard_time": 1741673662,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 248200,
@@ -651,14 +675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 217338,
-      "num": 217338,
-      "word": "偷偷录音是不尊重医生行为",
-      "onboard_time": 1741673662,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 217127,
       "num": 217127,
       "word": "疑似权志龙被排挤",
@@ -707,8 +723,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 203489,
-      "num": 203489,
+      "raw_hot": 205504,
+      "num": 205504,
       "word": "尚公主",
       "onboard_time": 1741672462,
       "rank": 35,
@@ -729,6 +745,14 @@
       "onboard_time": 1741611328,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201946,
+      "num": 297427,
+      "word": "大学毕业回老家养了4000头牛",
+      "onboard_time": 1741674441,
+      "rank": 18,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 201494,
@@ -820,7 +844,7 @@
     },
     {
       "raw_hot": 178788,
-      "num": 253876,
+      "num": 257429,
       "word": "白敬亭幸福泪水镜头",
       "onboard_time": 1741670183,
       "rank": 32,
@@ -857,6 +881,14 @@
       "onboard_time": 1741666644,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 170841,
+      "num": 170841,
+      "word": "敖瑞鹏线下",
+      "onboard_time": 1741674683,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 169577,
@@ -908,7 +940,7 @@
     },
     {
       "raw_hot": 156020,
-      "num": 205444,
+      "num": 255718,
       "word": "宋轶美食博主更新了",
       "onboard_time": 1741672162,
       "rank": 33,
@@ -953,6 +985,14 @@
       "onboard_time": 1741669225,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144967,
+      "num": 144967,
+      "word": "95后女教师勇救轻生男孩",
+      "onboard_time": 1741671561,
+      "rank": 49,
+      "category": "正能量"
     },
     {
       "raw_hot": 142954,
@@ -1011,6 +1051,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 138692,
+      "num": 138692,
+      "word": "虞书欣本色出演",
+      "onboard_time": 1741671622,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138379,
       "num": 235466,
       "word": "付航突然SHOW新车订单",
@@ -1049,14 +1097,6 @@
       "onboard_time": 1741656200,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 131673,
-      "num": 131673,
-      "word": "虞书欣本色出演",
-      "onboard_time": 1741671622,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 130860,
@@ -1147,14 +1187,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 114949,
-      "num": 114949,
-      "word": "95后女教师勇救轻生男孩",
-      "onboard_time": 1741671561,
-      "rank": 49,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 114339,
       "num": 114339,
       "word": "龙丹妮给李宇春清唱是你",
@@ -1201,14 +1233,6 @@
       "onboard_time": 1741664662,
       "rank": 31,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 109937,
-      "num": 109937,
-      "word": "敖瑞鹏线下",
-      "onboard_time": 1741674683,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 107661,
@@ -1291,20 +1315,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 98512,
-      "num": 98512,
-      "word": "金善禹捐款1亿韩元",
-      "onboard_time": 1741674741,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 98332,
       "num": 98332,
       "word": "王源巴黎出街",
       "onboard_time": 1741658961,
       "rank": 45,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 98266,
+      "num": 98266,
+      "word": "郭敬明要留下刘宇最帅的样子",
+      "onboard_time": 1741675462,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 98233,
@@ -1403,6 +1427,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 86928,
+      "num": 290587,
+      "word": "叙利亚国防部宣布军事行动已结束",
+      "onboard_time": 1741674382,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 85690,
       "num": 85690,
       "word": "丞磊王楚然新剧钓鱼路透",
@@ -1459,20 +1491,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 72646,
+      "num": 252727,
+      "word": "博主回应坟地捡到布偶猫被质疑剧本",
+      "onboard_time": 1741674202,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70609,
       "num": 190019,
       "word": "奔跑吧",
       "onboard_time": 1741615406,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 67067,
-      "num": 276018,
-      "word": "大学毕业回老家养了4000头牛",
-      "onboard_time": 1741674441,
-      "rank": 18,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 66673,
@@ -1563,14 +1595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 51253,
-      "num": 218471,
-      "word": "博主回应坟地捡到布偶猫被质疑剧本",
-      "onboard_time": 1741674202,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 51184,
       "num": 189838,
       "word": "谁敢直视颜安海胆头",
@@ -1611,14 +1635,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 44193,
-      "num": 277006,
-      "word": "叙利亚国防部宣布军事行动已结束",
-      "onboard_time": 1741674382,
-      "rank": 17,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 43576,
       "num": 192354,
       "word": "三亚出新规多家酒店仍不能退订",
@@ -1651,7 +1667,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 37479,
+      "raw_hot": 37857,
       "num": 988192,
       "word": "3个关键词解锁民营经济发展密码",
       "onboard_time": 1741666943,
@@ -1673,6 +1689,14 @@
       "onboard_time": 1741604544,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 35805,
+      "num": 285985,
+      "word": "蒯曼说首秀表现不错",
+      "onboard_time": 1741675222,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 33960,
