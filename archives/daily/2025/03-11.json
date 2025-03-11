@@ -1,6 +1,6 @@
 {
   "startTime": 1741624073347,
-  "endTime": 1741667312496,
+  "endTime": 1741668140546,
   "band_list": [
     {
       "raw_hot": 1893070,
@@ -35,6 +35,14 @@
       "category": "国内时政,艺人"
     },
     {
+      "raw_hot": 1174930,
+      "num": 986064,
+      "word": "丁禹兮包场",
+      "onboard_time": 1741666644,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1109496,
       "num": 1177519,
       "word": "女子回应月薪4600每天跨市上班",
@@ -51,6 +59,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1012949,
+      "num": 1012949,
+      "word": "鱼头星星回来了",
+      "onboard_time": 1741666463,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 984876,
       "num": 352898,
       "word": "女子生完3胎后身高长到178cm",
@@ -60,7 +76,7 @@
     },
     {
       "raw_hot": 909266,
-      "num": 347769,
+      "num": 493695,
       "word": "华为",
       "onboard_time": 1741665562,
       "rank": 11,
@@ -72,6 +88,14 @@
       "word": "26岁小伙泰山陪爬1年赚30多万",
       "onboard_time": 1741619963,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 790082,
+      "num": 790082,
+      "word": "始祖鸟吊牌被炒到最高300元一张",
+      "onboard_time": 1741666885,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -107,12 +131,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 458442,
-      "num": 458442,
-      "word": "丁禹兮包场",
-      "onboard_time": 1741666644,
-      "rank": 6,
-      "category": "剧集"
+      "raw_hot": 492583,
+      "num": 492583,
+      "word": "两会",
+      "onboard_time": 1741656141,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 435496,
@@ -163,12 +187,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 349084,
-      "num": 349084,
-      "word": "始祖鸟吊牌被炒到最高300元一张",
-      "onboard_time": 1741666885,
-      "rank": 8,
-      "category": "民生新闻"
+      "raw_hot": 360294,
+      "num": 360294,
+      "word": "杜特尔特被捕时说你们干脆杀了我",
+      "onboard_time": 1741667185,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 342235,
@@ -187,11 +211,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 332716,
-      "num": 346543,
-      "word": "鱼头星星回来了",
-      "onboard_time": 1741666463,
-      "rank": 13,
+      "raw_hot": 332672,
+      "num": 344184,
+      "word": "因莲花楼走红狗狗7岁戏龄近6年",
+      "onboard_time": 1741662622,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -225,14 +249,6 @@
       "onboard_time": 1741655903,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 314351,
-      "num": 347090,
-      "word": "两会",
-      "onboard_time": 1741656141,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 313553,
@@ -307,14 +323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 281163,
-      "num": 344184,
-      "word": "因莲花楼走红狗狗7岁戏龄近6年",
-      "onboard_time": 1741662622,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 279203,
       "num": 279203,
       "word": "王一博长发怼脸",
@@ -345,6 +353,22 @@
       "onboard_time": 1741652063,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 266472,
+      "num": 266472,
+      "word": "张凌赫丁禹兮何与包场嘘国王在冬眠",
+      "onboard_time": 1741667364,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 263772,
+      "num": 258433,
+      "word": "deepseek教你如何提升表达力",
+      "onboard_time": 1741664181,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 260473,
@@ -467,14 +491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 222057,
-      "num": 222057,
-      "word": "deepseek教你如何提升表达力",
-      "onboard_time": 1741664181,
-      "rank": 40,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 217127,
       "num": 217127,
       "word": "疑似权志龙被排挤",
@@ -507,8 +523,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 205860,
-      "num": 205860,
+      "raw_hot": 210283,
+      "num": 210283,
       "word": "女性公共厕所困境",
       "onboard_time": 1741665383,
       "rank": 35,
@@ -561,6 +577,22 @@
       "onboard_time": 1741606584,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187193,
+      "num": 187193,
+      "word": "打工人如何利用午休时间享受生活",
+      "onboard_time": 1741667124,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187189,
+      "num": 346148,
+      "word": "鼓励生育不能政策请客企业埋单",
+      "onboard_time": 1741666825,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186485,
@@ -619,8 +651,24 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 169352,
-      "num": 169352,
+      "raw_hot": 173755,
+      "num": 173755,
+      "word": "国王在冬眠 开局8广",
+      "onboard_time": 1741668024,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 172754,
+      "num": 172754,
+      "word": "哪吒2离150亿只差1亿",
+      "onboard_time": 1741665683,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 172235,
+      "num": 172235,
       "word": "段永平空仓",
       "onboard_time": 1741666644,
       "rank": 46,
@@ -633,14 +681,6 @@
       "onboard_time": 1741614686,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 164997,
-      "num": 164997,
-      "word": "哪吒2离150亿只差1亿",
-      "onboard_time": 1741665683,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 162272,
@@ -667,14 +707,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 157247,
-      "num": 157247,
-      "word": "打工人如何利用午休时间享受生活",
-      "onboard_time": 1741667124,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 155859,
       "num": 155859,
       "word": "乒乓球教练徐克再发声明",
@@ -683,12 +715,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 150888,
-      "num": 215378,
-      "word": "杜特尔特被捕时说你们干脆杀了我",
-      "onboard_time": 1741667185,
-      "rank": 32,
-      "category": "国际时政"
+      "raw_hot": 155591,
+      "num": 255330,
+      "word": "王楚钦WTT重庆晚宴造型",
+      "onboard_time": 1741667425,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 142954,
@@ -713,6 +745,22 @@
       "onboard_time": 1741658421,
       "rank": 32,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 140637,
+      "num": 343558,
+      "word": "罗振宇说AI风口给了外行机会",
+      "onboard_time": 1741665862,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 138379,
+      "num": 235466,
+      "word": "付航突然SHOW新车订单",
+      "onboard_time": 1741666885,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 137372,
@@ -763,14 +811,6 @@
       "category": "财经,汽车"
     },
     {
-      "raw_hot": 129242,
-      "num": 343558,
-      "word": "罗振宇说AI风口给了外行机会",
-      "onboard_time": 1741665862,
-      "rank": 19,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 129164,
       "num": 129164,
       "word": "WTT重庆冠军赛今日开赛",
@@ -804,7 +844,7 @@
     },
     {
       "raw_hot": 122008,
-      "num": 122008,
+      "num": 236909,
       "word": "曾可妮请问在燃什么",
       "onboard_time": 1741663342,
       "rank": 34,
@@ -891,14 +931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 102521,
-      "num": 197463,
-      "word": "付航突然SHOW新车订单",
-      "onboard_time": 1741666885,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 102466,
       "num": 268964,
       "word": "美乌代表团将于11日在沙特举行会谈",
@@ -961,6 +993,14 @@
       "onboard_time": 1741595062,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92926,
+      "num": 343782,
+      "word": "何时非必要不加班不再是新闻",
+      "onboard_time": 1741666644,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92704,
@@ -1099,6 +1139,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 63296,
+      "num": 235338,
+      "word": "490元买的机票230元是搭售产品",
+      "onboard_time": 1741666763,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 57333,
       "num": 220007,
       "word": "李龙馥三登巴黎时装周",
@@ -1235,6 +1283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 37365,
+      "num": 494983,
+      "word": "两会这些声音与健康有关",
+      "onboard_time": 1741666943,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 36224,
       "num": 100619,
       "word": "陈飞宇生图",
@@ -1243,12 +1299,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 35236,
+      "num": 988192,
+      "word": "3个关键词解锁民营经济发展密码",
+      "onboard_time": 1741666943,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 33960,
       "num": 112071,
       "word": "把降息增贷减税等政策效应充分释放出来",
       "onboard_time": 1741635674,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 33906,
+      "num": 185273,
+      "word": "狂炫三碗米饭的肉末豆角",
+      "onboard_time": 1741667244,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 33439,
@@ -1283,14 +1355,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 28492,
-      "num": 343782,
-      "word": "何时非必要不加班不再是新闻",
-      "onboard_time": 1741666644,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 26762,
       "num": 100663,
       "word": "恶作剧之吻裕树都结婚了",
@@ -1299,28 +1363,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 26253,
-      "num": 185273,
-      "word": "狂炫三碗米饭的肉末豆角",
-      "onboard_time": 1741667244,
-      "rank": 42,
-      "category": "美食"
-    },
-    {
       "raw_hot": 26068,
       "num": 138392,
       "word": "唐代银盘留下鸿雁北归绝美一瞬",
       "onboard_time": 1741624222,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25863,
-      "num": 222433,
-      "word": "490元买的机票230元是搭售产品",
-      "onboard_time": 1741666763,
-      "rank": 29,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 25540,
@@ -1337,14 +1385,6 @@
       "onboard_time": 1741629255,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 24486,
-      "num": 346148,
-      "word": "鼓励生育不能政策请客企业埋单",
-      "onboard_time": 1741666825,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23657,
@@ -1369,22 +1409,6 @@
       "onboard_time": 1741628837,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 14662,
-      "num": 348903,
-      "word": "两会这些声音与健康有关",
-      "onboard_time": 1741666943,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 12603,
-      "num": 793193,
-      "word": "3个关键词解锁民营经济发展密码",
-      "onboard_time": 1741666943,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 12368,
