@@ -1,6 +1,6 @@
 {
   "startTime": 1741710703289,
-  "endTime": 1741717994275,
+  "endTime": 1741718780972,
   "band_list": [
     {
       "raw_hot": 1917180,
@@ -467,6 +467,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 26692,
+      "num": 26692,
+      "word": "祝绪丹支持虞书欣新剧",
+      "onboard_time": 1741717634,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 24630,
       "num": 24630,
       "word": "卫枝被泼柠檬水",
@@ -475,20 +483,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 22995,
-      "num": 22767,
-      "word": "祝绪丹支持虞书欣新剧",
-      "onboard_time": 1741717634,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 20447,
+      "raw_hot": 24342,
       "num": 54146,
       "word": "代表说农业和农村都需要年轻人",
       "onboard_time": 1741716795,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 17333,
+      "num": 22634,
+      "word": "舍不得滤镜大王",
+      "onboard_time": 1741715175,
+      "rank": 47,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [

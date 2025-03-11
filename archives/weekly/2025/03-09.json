@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741717994275,
+  "endTime": 1741718780972,
   "band_list": [
     {
       "raw_hot": 21330054,
@@ -9299,6 +9299,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 26692,
+      "num": 26692,
+      "word": "祝绪丹支持虞书欣新剧",
+      "onboard_time": 1741717634,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 26521,
       "num": 188280,
       "word": "夸克预测Top10申论热点",
@@ -9403,6 +9411,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 24342,
+      "num": 54146,
+      "word": "代表说农业和农村都需要年轻人",
+      "onboard_time": 1741716795,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 23966,
       "num": 246918,
       "word": "上海F1氛围到位了",
@@ -9449,14 +9465,6 @@
       "onboard_time": 1741473795,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22995,
-      "num": 22767,
-      "word": "祝绪丹支持虞书欣新剧",
-      "onboard_time": 1741717634,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 22726,
@@ -9555,14 +9563,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 20447,
-      "num": 54146,
-      "word": "代表说农业和农村都需要年轻人",
-      "onboard_time": 1741716795,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 19760,
       "num": 304576,
       "word": "中国成就太空可见",
@@ -9601,6 +9601,14 @@
       "onboard_time": 1741494620,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 17333,
+      "num": 22634,
+      "word": "舍不得滤镜大王",
+      "onboard_time": 1741715175,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 17188,
