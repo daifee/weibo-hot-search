@@ -1,0 +1,410 @@
+{
+  "runTime": 1741670587468,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1023114,
+        "num": 1163698,
+        "word": "始祖鸟吊牌被炒到最高300元一张",
+        "onboard_time": 1741666885,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 982677,
+        "num": 982677,
+        "word": "鱼头星星回来了",
+        "onboard_time": 1741666463,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32836,
+        "num": 819508,
+        "word": "3个关键词解锁民营经济发展密码",
+        "onboard_time": 1741666943,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 989292,
+        "num": 808361,
+        "word": "丁禹兮包场",
+        "onboard_time": 1741666644,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 732369,
+        "num": 732369,
+        "word": "金价",
+        "onboard_time": 1741661302,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 873331,
+        "num": 690431,
+        "word": "杜特尔特被捕",
+        "onboard_time": 1741664543,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 641452,
+        "num": 641452,
+        "word": "杜特尔特被捕时说你们干脆杀了我",
+        "onboard_time": 1741667185,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 639732,
+        "num": 639732,
+        "word": "国王在冬眠 开局8广",
+        "onboard_time": 1741668024,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 495952,
+        "num": 495952,
+        "word": "广州长隆回应垂直过山车永久拆除",
+        "onboard_time": 1741664424,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 434334,
+        "num": 434334,
+        "word": "鼓励生育不能政策请客企业埋单",
+        "onboard_time": 1741666825,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 661657,
+        "num": 434166,
+        "word": "吴彦祖英语课遭吐槽本人只讲5分钟",
+        "onboard_time": 1741668684,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 547951,
+        "num": 433997,
+        "word": "华为",
+        "onboard_time": 1741665562,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 514696,
+        "num": 433914,
+        "word": "虞书欣电竞圈人脉",
+        "onboard_time": 1741664902,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 433647,
+        "num": 433647,
+        "word": "张凌赫丁禹兮何与包场嘘国王在冬眠",
+        "onboard_time": 1741667364,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117945,
+        "num": 391200,
+        "word": "肥胖不仅要看体重还要看腰围",
+        "onboard_time": 1741669405,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389701,
+        "num": 389701,
+        "word": "赵樱子官宣恋情",
+        "onboard_time": 1741616546,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325101,
+        "num": 325101,
+        "word": "靳东回应台艺人力挺统一面临制裁",
+        "onboard_time": 1741661182,
+        "rank": 16,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 302273,
+        "num": 302273,
+        "word": "虞书欣的人脉",
+        "onboard_time": 1741668323,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231164,
+        "num": 231164,
+        "word": "马斯克承认特斯拉生意困难",
+        "onboard_time": 1741665142,
+        "rank": 18,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 222809,
+        "num": 227438,
+        "word": "建议强制规定女厕与男厕比例",
+        "onboard_time": 1741669105,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 450467,
+        "num": 227383,
+        "word": "女子生完3胎后身高长到178cm",
+        "onboard_time": 1741658720,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271406,
+        "num": 226457,
+        "word": "女子回应吃火锅涮邻桌剩菜",
+        "onboard_time": 1741669342,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224209,
+        "num": 224209,
+        "word": "女子回应月薪4600每天跨市上班",
+        "onboard_time": 1741655903,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82200,
+        "num": 215202,
+        "word": "付航突然SHOW新车订单",
+        "onboard_time": 1741666885,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111308,
+        "num": 208240,
+        "word": "全运会乒乓球通票最高6880元",
+        "onboard_time": 1741669822,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206217,
+        "num": 206217,
+        "word": "因莲花楼走红狗狗7岁戏龄近6年",
+        "onboard_time": 1741662622,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196616,
+        "num": 196616,
+        "word": "哪吒2离150亿只差1亿",
+        "onboard_time": 1741665683,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195478,
+        "num": 195478,
+        "word": "滤镜大结局点映",
+        "onboard_time": 1741669763,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70133,
+        "num": 192831,
+        "word": "曾可妮请问在燃什么",
+        "onboard_time": 1741663342,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133072,
+        "num": 192426,
+        "word": "俄罗斯一购物中心遭炮击4死9伤",
+        "onboard_time": 1741669165,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 206381,
+        "num": 192320,
+        "word": "deepseek教你如何提升表达力",
+        "onboard_time": 1741664181,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 192141,
+        "num": 192141,
+        "word": "王源外网媒体生图",
+        "onboard_time": 1741670062,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 178788,
+        "num": 178788,
+        "word": "白敬亭幸福泪水镜头",
+        "onboard_time": 1741670183,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173259,
+        "num": 173259,
+        "word": "26岁小伙泰山陪爬1年赚30多万",
+        "onboard_time": 1741619963,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164472,
+        "num": 164472,
+        "word": "哪吒敖丙变身大国重器有亿点酷",
+        "onboard_time": 1741661182,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100466,
+        "num": 158697,
+        "word": "中国科技暴击三连势不可挡",
+        "onboard_time": 1741661182,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158218,
+        "num": 158218,
+        "word": "肖战ins粉丝数破100万",
+        "onboard_time": 1741669165,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155683,
+        "num": 155683,
+        "word": "黄晓明晒爸爸年轻时旧照",
+        "onboard_time": 1741665923,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153283,
+        "num": 153283,
+        "word": "孙颖莎不参加全运会资格赛单打",
+        "onboard_time": 1741665503,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146603,
+        "num": 146603,
+        "word": "檀健次抱着空气演虐戏",
+        "onboard_time": 1741669225,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141731,
+        "num": 141731,
+        "word": "全国文旅用一张机票转场",
+        "onboard_time": 1741669342,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 136334,
+        "num": 136334,
+        "word": "女性公共厕所困境",
+        "onboard_time": 1741665383,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130493,
+        "num": 130493,
+        "word": "金赛纶生前几乎没有任何财产",
+        "onboard_time": 1741670422,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129483,
+        "num": 129483,
+        "word": "王楚钦WTT重庆晚宴造型",
+        "onboard_time": 1741667425,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114425,
+        "num": 114425,
+        "word": "卫枝穿搭",
+        "onboard_time": 1741670482,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114343,
+        "num": 114343,
+        "word": "嘘国王在冬眠开播",
+        "onboard_time": 1741665503,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20914,
+        "num": 113105,
+        "word": "小鹏G6电池被子弹打中10枪还能开",
+        "onboard_time": 1741665862,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 112908,
+        "num": 112908,
+        "word": "有人担心强制下班变成无偿加班",
+        "onboard_time": 1741663522,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112383,
+        "num": 112383,
+        "word": "多胖才算超重肥胖",
+        "onboard_time": 1741658240,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110278,
+        "num": 110278,
+        "word": "闵熙珍最新ins头像",
+        "onboard_time": 1741664123,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}
