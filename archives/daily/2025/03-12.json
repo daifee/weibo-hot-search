@@ -1,6 +1,6 @@
 {
   "startTime": 1741710703289,
-  "endTime": 1741762058554,
+  "endTime": 1741764249828,
   "band_list": [
     {
       "raw_hot": 6671283,
@@ -27,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2283363,
+      "num": 273342,
+      "word": "D社证实金秀贤金赛纶恋爱关系",
+      "onboard_time": 1741763243,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1975514,
       "num": 302713,
       "word": "D社称金秀贤要钱只是走形式",
@@ -48,6 +56,14 @@
       "word": "金秀贤催债同时购置了300亿房产",
       "onboard_time": 1741747581,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1809853,
+      "num": 303493,
+      "word": "刚baby baby几天就塌了",
+      "onboard_time": 1741760663,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -123,12 +139,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 1152353,
-      "num": 303493,
-      "word": "刚baby baby几天就塌了",
-      "onboard_time": 1741760663,
-      "rank": 20,
-      "category": "艺人"
+      "raw_hot": 1161106,
+      "num": 527505,
+      "word": "海底捞补偿金额超千万元",
+      "onboard_time": 1741760604,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1096188,
@@ -275,14 +291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 527505,
-      "num": 527505,
-      "word": "海底捞补偿金额超千万元",
-      "onboard_time": 1741760604,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 507858,
       "num": 507858,
       "word": "白鹿12秒无台词情绪递进",
@@ -339,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 463771,
+      "num": 415944,
+      "word": "海底捞已起诉两名小便男子",
+      "onboard_time": 1741758145,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 458116,
       "num": 172181,
       "word": "315骗假不留",
@@ -363,20 +379,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 430774,
+      "num": 384456,
+      "word": "海底捞",
+      "onboard_time": 1741758623,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 430259,
       "num": 321174,
       "word": "全球热",
       "onboard_time": 1741737861,
       "rank": 14,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 426578,
-      "num": 415944,
-      "word": "海底捞已起诉两名小便男子",
-      "onboard_time": 1741758145,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 422986,
@@ -440,14 +456,6 @@
       "word": "杨铭宇黄焖鸡隔夜鸡肉优先出售",
       "onboard_time": 1741753825,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 384456,
-      "num": 384456,
-      "word": "海底捞",
-      "onboard_time": 1741758623,
-      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -563,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 291179,
+      "num": 269420,
+      "word": "你要是嗑CP",
+      "onboard_time": 1741762883,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 290579,
       "num": 290579,
       "word": "以为很懒但对皮肤很好的行为",
@@ -659,6 +675,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 237986,
+      "num": 237986,
+      "word": "百万网红千惠自曝患焦虑症",
+      "onboard_time": 1741762403,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234418,
       "num": 234418,
       "word": "陶喆新歌",
@@ -691,6 +715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 227906,
+      "num": 283995,
+      "word": "杨铭宇黄焖鸡道歉",
+      "onboard_time": 1741763723,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 227712,
       "num": 227712,
       "word": "王楚钦对战阿鲁纳",
@@ -712,6 +744,14 @@
       "word": "权志龙应援棒",
       "onboard_time": 1741749382,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 214863,
+      "num": 287348,
+      "word": "周深用英语向中国日报读者打招呼",
+      "onboard_time": 1741761623,
+      "rank": 7,
       "category": "艺人"
     },
     {
@@ -803,6 +843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 199363,
+      "num": 199363,
+      "word": "郑钦文2比0科斯秋克",
+      "onboard_time": 1741761384,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199010,
       "num": 199010,
       "word": "风与潮开机",
@@ -827,14 +875,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 195296,
-      "num": 195296,
-      "word": "郑钦文2比0科斯秋克",
-      "onboard_time": 1741761384,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 193832,
       "num": 369656,
       "word": "业内称强制下班或影响更多中小企业",
@@ -851,12 +891,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192747,
+      "num": 192747,
+      "word": "海底捞小便事件",
+      "onboard_time": 1741763903,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191080,
       "num": 191080,
       "word": "世界十大影响力名人",
       "onboard_time": 1741757786,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190687,
+      "num": 199009,
+      "word": "章若楠素颜镜头",
+      "onboard_time": 1741763483,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 189058,
@@ -1027,6 +1083,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 165839,
+      "num": 165839,
+      "word": "希望台湾同胞一道继承孙中山先生遗愿",
+      "onboard_time": 1741761684,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 162205,
       "num": 162205,
       "word": "商务部等部门约谈沃尔玛",
@@ -1065,6 +1129,14 @@
       "onboard_time": 1741750282,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 155493,
+      "num": 155493,
+      "word": "张凌赫种植豆芽",
+      "onboard_time": 1741763784,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 155325,
@@ -1155,6 +1227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146764,
+      "num": 146764,
+      "word": "塞尔吉尼奥入籍",
+      "onboard_time": 1741764083,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142043,
       "num": 142043,
       "word": "王艺迪11比8伊藤美诚",
@@ -1203,6 +1283,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 134990,
+      "num": 197445,
+      "word": "林一角色号发了虞书欣未公开图",
+      "onboard_time": 1741763542,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133518,
       "num": 214915,
       "word": "Jennie回归成绩",
@@ -1243,6 +1331,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130470,
+      "num": 130470,
+      "word": "王一博胡兵 胡萝卜",
+      "onboard_time": 1741764023,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 128418,
+      "num": 128418,
+      "word": "买不起黄金的年轻人盯上了债基",
+      "onboard_time": 1741761023,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 127345,
       "num": 209814,
       "word": "陆柯燃在西海岸玩西海岸",
@@ -1257,14 +1361,6 @@
       "onboard_time": 1741757485,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 126434,
-      "num": 126434,
-      "word": "买不起黄金的年轻人盯上了债基",
-      "onboard_time": 1741761023,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 126064,
@@ -1371,6 +1467,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 113299,
+      "num": 113299,
+      "word": "一诺分享春天的颜色",
+      "onboard_time": 1741762282,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 111111,
       "num": 196395,
       "word": "陈哲远张婧仪婚服造型路透",
@@ -1395,12 +1499,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 107997,
-      "num": 107997,
-      "word": "希望台湾同胞一道继承孙中山先生遗愿",
-      "onboard_time": 1741761684,
-      "rank": 45,
-      "category": "国内时政"
+      "raw_hot": 107980,
+      "num": 107980,
+      "word": "嘘国王在冬眠 胡文煊",
+      "onboard_time": 1741764203,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 106726,
@@ -1667,6 +1771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62374,
+      "num": 284727,
+      "word": "桃李等畅销面包频现发霉异物问题",
+      "onboard_time": 1741762943,
+      "rank": 8,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 60116,
       "num": 70882,
       "word": "赵让cover了Jennie新歌",
@@ -1737,6 +1849,14 @@
       "onboard_time": 1741734798,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 53035,
+      "num": 195781,
+      "word": "林一新剧追星成功武大靖",
+      "onboard_time": 1741762943,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 50916,
@@ -1819,6 +1939,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 39829,
+      "num": 274772,
+      "word": "高位截瘫患者用意念控制机械臂写字",
+      "onboard_time": 1741763125,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38900,
+      "num": 196836,
+      "word": "买辆车签3个合同3款车型",
+      "onboard_time": 1741763483,
+      "rank": 28,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 37395,
       "num": 437135,
       "word": "三个维度看今年全国两会",
@@ -1857,6 +1993,22 @@
       "onboard_time": 1741760364,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 30800,
+      "num": 196153,
+      "word": "夸克居然可以个性化定制面经",
+      "onboard_time": 1741763243,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 30431,
+      "num": 266640,
+      "word": "被指倒扣工资公司注册资本达7亿",
+      "onboard_time": 1741763063,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28648,

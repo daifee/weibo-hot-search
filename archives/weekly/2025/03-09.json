@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741762058554,
+  "endTime": 1741764249828,
   "band_list": [
     {
       "raw_hot": 21330054,
@@ -97,6 +97,14 @@
       "onboard_time": 1741489099,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2283363,
+      "num": 273342,
+      "word": "D社证实金秀贤金赛纶恋爱关系",
+      "onboard_time": 1741763243,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 2228194,
@@ -200,6 +208,14 @@
       "word": "金秀贤催债同时购置了300亿房产",
       "onboard_time": 1741747581,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1809853,
+      "num": 303493,
+      "word": "刚baby baby几天就塌了",
+      "onboard_time": 1741760663,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -467,6 +483,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1161106,
+      "num": 527505,
+      "word": "海底捞补偿金额超千万元",
+      "onboard_time": 1741760604,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1160658,
       "num": 534741,
       "word": "吴宣仪说娱乐圈人心是让人失望的",
@@ -481,14 +505,6 @@
       "onboard_time": 1741509682,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1152353,
-      "num": 303493,
-      "word": "刚baby baby几天就塌了",
-      "onboard_time": 1741760663,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 1144814,
@@ -1627,14 +1643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 527505,
-      "num": 527505,
-      "word": "海底捞补偿金额超千万元",
-      "onboard_time": 1741760604,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 525788,
       "num": 525788,
       "word": "实施体重管理年3年行动",
@@ -1843,6 +1851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 463771,
+      "num": 415944,
+      "word": "海底捞已起诉两名小便男子",
+      "onboard_time": 1741758145,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 461885,
       "num": 461885,
       "word": "谷爱凌锁骨受伤",
@@ -2025,14 +2041,6 @@
       "onboard_time": 1741486161,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 426578,
-      "num": 415944,
-      "word": "海底捞已起诉两名小便男子",
-      "onboard_time": 1741758145,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 426370,
@@ -3067,6 +3075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 291179,
+      "num": 269420,
+      "word": "你要是嗑CP",
+      "onboard_time": 1741762883,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 290579,
       "num": 290579,
       "word": "以为很懒但对皮肤很好的行为",
@@ -3611,6 +3627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237986,
+      "num": 237986,
+      "word": "百万网红千惠自曝患焦虑症",
+      "onboard_time": 1741762403,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 236878,
       "num": 267196,
       "word": "原神预言",
@@ -3761,6 +3785,14 @@
       "onboard_time": 1741661782,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 227906,
+      "num": 283995,
+      "word": "杨铭宇黄焖鸡道歉",
+      "onboard_time": 1741763723,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 227712,
@@ -3969,6 +4001,14 @@
       "onboard_time": 1741574000,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 214863,
+      "num": 287348,
+      "word": "周深用英语向中国日报读者打招呼",
+      "onboard_time": 1741761623,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 214533,
@@ -4299,6 +4339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 199363,
+      "num": 199363,
+      "word": "郑钦文2比0科斯秋克",
+      "onboard_time": 1741761384,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199010,
       "num": 199010,
       "word": "风与潮开机",
@@ -4427,14 +4475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195296,
-      "num": 195296,
-      "word": "郑钦文2比0科斯秋克",
-      "onboard_time": 1741761384,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 194946,
       "num": 261417,
       "word": "国乒重庆冠军赛晚宴图集",
@@ -4497,6 +4537,14 @@
       "onboard_time": 1741490062,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192747,
+      "num": 192747,
+      "word": "海底捞小便事件",
+      "onboard_time": 1741763903,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 192602,
@@ -4569,6 +4617,14 @@
       "onboard_time": 1741511840,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 190687,
+      "num": 199009,
+      "word": "章若楠素颜镜头",
+      "onboard_time": 1741763483,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 190479,
@@ -5339,6 +5395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165839,
+      "num": 165839,
+      "word": "希望台湾同胞一道继承孙中山先生遗愿",
+      "onboard_time": 1741761684,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 165718,
       "num": 186779,
       "word": "爱你超点",
@@ -5683,6 +5747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155493,
+      "num": 155493,
+      "word": "张凌赫种植豆芽",
+      "onboard_time": 1741763784,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155325,
       "num": 228174,
       "word": "郑钦文比赛拖场",
@@ -6025,6 +6097,14 @@
       "onboard_time": 1741526544,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146764,
+      "num": 146764,
+      "word": "塞尔吉尼奥入籍",
+      "onboard_time": 1741764083,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 146747,
@@ -6547,6 +6627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134990,
+      "num": 197445,
+      "word": "林一角色号发了虞书欣未公开图",
+      "onboard_time": 1741763542,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134848,
       "num": 134848,
       "word": "我是大彬同学回应鸿蒙智行法务",
@@ -6707,6 +6795,14 @@
       "category": "财经,汽车"
     },
     {
+      "raw_hot": 130470,
+      "num": 130470,
+      "word": "王一博胡兵 胡萝卜",
+      "onboard_time": 1741764023,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 130034,
       "num": 1358364,
       "word": "政协会议圆满完成各项议程",
@@ -6769,6 +6865,14 @@
       "onboard_time": 1741609887,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128418,
+      "num": 128418,
+      "word": "买不起黄金的年轻人盯上了债基",
+      "onboard_time": 1741761023,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 128370,
@@ -6857,14 +6961,6 @@
       "onboard_time": 1741499482,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 126434,
-      "num": 126434,
-      "word": "买不起黄金的年轻人盯上了债基",
-      "onboard_time": 1741761023,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 126351,
@@ -7659,6 +7755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 113299,
+      "num": 113299,
+      "word": "一诺分享春天的颜色",
+      "onboard_time": 1741762282,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 113188,
       "num": 113188,
       "word": "卫枝登顶角色热度榜",
@@ -7939,12 +8043,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 107997,
-      "num": 107997,
-      "word": "希望台湾同胞一道继承孙中山先生遗愿",
-      "onboard_time": 1741761684,
-      "rank": 45,
-      "category": "国内时政"
+      "raw_hot": 107980,
+      "num": 107980,
+      "word": "嘘国王在冬眠 胡文煊",
+      "onboard_time": 1741764203,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 107956,
@@ -9627,6 +9731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62374,
+      "num": 284727,
+      "word": "桃李等畅销面包频现发霉异物问题",
+      "onboard_time": 1741762943,
+      "rank": 8,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 62343,
       "num": 303925,
       "word": "美乌沙特会谈同时俄欧也在会谈",
@@ -9897,6 +10009,14 @@
       "onboard_time": 1741595961,
       "rank": 35,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 53035,
+      "num": 195781,
+      "word": "林一新剧追星成功武大靖",
+      "onboard_time": 1741762943,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 52984,
@@ -10251,6 +10371,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 39829,
+      "num": 274772,
+      "word": "高位截瘫患者用意念控制机械臂写字",
+      "onboard_time": 1741763125,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39357,
       "num": 166343,
       "word": "郑钦文说膝盖只是皮外伤",
@@ -10273,6 +10401,14 @@
       "onboard_time": 1741532065,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38900,
+      "num": 196836,
+      "word": "买辆车签3个合同3款车型",
+      "onboard_time": 1741763483,
+      "rank": 28,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 38583,
@@ -10515,6 +10651,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 30800,
+      "num": 196153,
+      "word": "夸克居然可以个性化定制面经",
+      "onboard_time": 1741763243,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 30794,
       "num": 34065,
       "word": "张碧晨首次现场演唱哪吒2片尾曲",
@@ -10537,6 +10681,14 @@
       "onboard_time": 1741442664,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 30431,
+      "num": 266640,
+      "word": "被指倒扣工资公司注册资本达7亿",
+      "onboard_time": 1741763063,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30374,
