@@ -1,14 +1,22 @@
 {
   "startTime": 1741797038602,
-  "endTime": 1741821817314,
+  "endTime": 1741822688255,
   "band_list": [
     {
-      "raw_hot": 1114403,
-      "num": 295270,
+      "raw_hot": 1229027,
+      "num": 308742,
       "word": "特朗普衰退",
       "onboard_time": 1741790065,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1007635,
+      "num": 219748,
+      "word": "金秀贤私发给金赛纶的照片",
+      "onboard_time": 1741789045,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 870925,
@@ -19,20 +27,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 857498,
-      "num": 219748,
-      "word": "金秀贤私发给金赛纶的照片",
-      "onboard_time": 1741789045,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 603780,
       "num": 186419,
       "word": "金秀贤在信里说我爱你赛纶",
       "onboard_time": 1741774582,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 443372,
+      "num": 443372,
+      "word": "金价",
+      "onboard_time": 1741821440,
+      "rank": 10,
+      "category": "财经"
     },
     {
       "raw_hot": 438053,
@@ -57,6 +65,14 @@
       "onboard_time": 1741769120,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 354412,
+      "num": 184666,
+      "word": "徐睿知发文",
+      "onboard_time": 1741822099,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 328661,
@@ -147,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193211,
+      "num": 193211,
+      "word": "消费卡挂闲鱼发完密码买家退款",
+      "onboard_time": 1741821378,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186970,
       "num": 186970,
       "word": "沈腾 斯内普",
@@ -171,12 +195,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171423,
+      "num": 225638,
+      "word": "长顺公布中小学教师退出机制暂行办法",
+      "onboard_time": 1741821378,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 169932,
       "num": 169932,
       "word": "李行亮经纪人回应麦琳被抵制",
       "onboard_time": 1741791207,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149133,
+      "num": 149133,
+      "word": "网红老师廖叔突发心源性心脏病去世",
+      "onboard_time": 1741819817,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144889,
@@ -267,20 +307,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114647,
+      "num": 224718,
+      "word": "梁伟铿王昶无缘全英赛16强",
+      "onboard_time": 1741820839,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107902,
       "num": 107902,
       "word": "原央视主持人赵普回应保安出身",
       "onboard_time": 1741775605,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 107888,
-      "num": 225638,
-      "word": "长顺公布中小学教师退出机制暂行办法",
-      "onboard_time": 1741821378,
-      "rank": 8,
-      "category": "教育"
     },
     {
       "raw_hot": 105507,
@@ -315,14 +355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 97337,
-      "num": 97337,
-      "word": "网红老师廖叔突发心源性心脏病去世",
-      "onboard_time": 1741819817,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 96686,
       "num": 96686,
       "word": "父亲想要儿子连生9个女儿",
@@ -345,14 +377,6 @@
       "onboard_time": 1741780764,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 82516,
-      "num": 224718,
-      "word": "梁伟铿王昶无缘全英赛16强",
-      "onboard_time": 1741820839,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 82174,
@@ -384,14 +408,6 @@
       "word": "多方回应网传高途员工加班猝死",
       "onboard_time": 1741793245,
       "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 70435,
-      "num": 70435,
-      "word": "消费卡挂闲鱼发完密码买家退款",
-      "onboard_time": 1741821378,
-      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -443,12 +459,36 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 56387,
-      "num": 56387,
+      "raw_hot": 56922,
+      "num": 56922,
       "word": "减肥时主食有3个黄金等级",
       "onboard_time": 1741811953,
       "rank": 45,
       "category": "健康医疗,运动健身"
+    },
+    {
+      "raw_hot": 50760,
+      "num": 182637,
+      "word": "美股",
+      "onboard_time": 1741821500,
+      "rank": 15,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 50448,
+      "num": 50448,
+      "word": "马竞3比4皇马",
+      "onboard_time": 1741822521,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 45536,
+      "num": 51993,
+      "word": "女主播和榜一奔现被骗80万",
+      "onboard_time": 1741813815,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44581,
@@ -459,14 +499,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 41950,
-      "num": 51993,
-      "word": "女主播和榜一奔现被骗80万",
-      "onboard_time": 1741813815,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 41934,
       "num": 73205,
       "word": "留几手回应大龄矫正牙齿",
@@ -475,7 +507,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 39974,
+      "raw_hot": 41316,
       "num": 51990,
       "word": "没人说嘘国王在冬眠这么好笑啊",
       "onboard_time": 1741804035,
@@ -515,7 +547,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 27497,
+      "raw_hot": 27568,
       "num": 366708,
       "word": "2025政府工作报告全文",
       "onboard_time": 1741776686,
@@ -569,22 +601,6 @@
       "onboard_time": 1741798219,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18228,
-      "num": 220593,
-      "word": "金价",
-      "onboard_time": 1741821440,
-      "rank": 10,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 17576,
-      "num": 182637,
-      "word": "美股",
-      "onboard_time": 1741821500,
-      "rank": 15,
-      "category": "财经"
     },
     {
       "raw_hot": 16718,
@@ -643,12 +659,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 11726,
+      "num": 177118,
+      "word": "道指三连跌",
+      "onboard_time": 1741822099,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 10546,
+      "num": 164724,
+      "word": "国际金价再度走强",
+      "onboard_time": 1741822219,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 9672,
       "num": 46684,
       "word": "看WTT重庆冠军赛上咪咕",
       "onboard_time": 1741818917,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 8705,
+      "num": 56336,
+      "word": "普京称要彻底夺回库尔斯克地区",
+      "onboard_time": 1741822642,
+      "rank": 40,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
