@@ -1,6 +1,6 @@
 {
   "startTime": 1741710703289,
-  "endTime": 1741771548557,
+  "endTime": 1741772385983,
   "band_list": [
     {
       "raw_hot": 6671283,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2031122,
+      "num": 2031122,
+      "word": "多名外卖小哥提醒避雷黄焖鸡",
+      "onboard_time": 1741769120,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1975514,
       "num": 302713,
       "word": "D社称金秀贤要钱只是走形式",
@@ -65,14 +73,6 @@
       "onboard_time": 1741687164,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1895876,
-      "num": 1895876,
-      "word": "多名外卖小哥提醒避雷黄焖鸡",
-      "onboard_time": 1741769120,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1837033,
@@ -340,7 +340,7 @@
     },
     {
       "raw_hot": 501078,
-      "num": 204136,
+      "num": 205234,
       "word": "以为在减肥实际在增肥的行为",
       "onboard_time": 1741768163,
       "rank": 21,
@@ -467,6 +467,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 419649,
+      "num": 419649,
+      "word": "王一博胡兵 胡萝卜",
+      "onboard_time": 1741764023,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 405432,
       "num": 206479,
       "word": "王楚钦 麦当劳",
@@ -481,14 +489,6 @@
       "onboard_time": 1741752625,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 402218,
-      "num": 402218,
-      "word": "王一博胡兵 胡萝卜",
-      "onboard_time": 1741764023,
-      "rank": 41,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 400704,
@@ -512,6 +512,14 @@
       "word": "赵今麦刘浩存miumiu预热",
       "onboard_time": 1741703905,
       "rank": 6,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 398815,
+      "num": 398815,
+      "word": "迪丽热巴迪奥高珠展造型",
+      "onboard_time": 1741768283,
+      "rank": 7,
       "category": "作品衍生,时尚"
     },
     {
@@ -627,20 +635,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 337693,
-      "num": 337693,
-      "word": "迪丽热巴迪奥高珠展造型",
-      "onboard_time": 1741768283,
-      "rank": 7,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 322772,
       "num": 322772,
       "word": "20年前的电子垃圾为何被炒出天价",
       "onboard_time": 1741752445,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 303780,
+      "num": 303780,
+      "word": "162万元买到火灾房",
+      "onboard_time": 1741771043,
+      "rank": 32,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 302565,
@@ -697,6 +705,14 @@
       "onboard_time": 1741748661,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 278280,
+      "num": 278280,
+      "word": "朴彩英车银优外媒生图",
+      "onboard_time": 1741769303,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 277231,
@@ -851,6 +867,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 222614,
+      "num": 222614,
+      "word": "律师称3岁智商产妇没有性同意能力",
+      "onboard_time": 1741771463,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 221009,
       "num": 221009,
       "word": "权志龙应援棒",
@@ -913,6 +937,14 @@
       "onboard_time": 1741734679,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207237,
+      "num": 207237,
+      "word": "aespa官方玩偶",
+      "onboard_time": 1741772005,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 206959,
@@ -1041,14 +1073,6 @@
       "onboard_time": 1741711998,
       "rank": 22,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 187513,
-      "num": 187513,
-      "word": "朴彩英车银优外媒生图",
-      "onboard_time": 1741769303,
-      "rank": 18,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 185551,
@@ -1195,12 +1219,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168138,
+      "num": 168138,
+      "word": "网传任正非赴成都封楼抓人不实",
+      "onboard_time": 1741772302,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167963,
       "num": 169491,
       "word": "任嘉伦风与潮开机现场",
       "onboard_time": 1741747041,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167534,
+      "num": 167534,
+      "word": "余承东称原生鸿蒙已新增150个功能",
+      "onboard_time": 1741771822,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 167149,
@@ -1284,7 +1324,7 @@
     },
     {
       "raw_hot": 156439,
-      "num": 156439,
+      "num": 228970,
       "word": "六旬教授疑因考核不合格怒发罪己诏",
       "onboard_time": 1741769903,
       "rank": 31,
@@ -1313,14 +1353,6 @@
       "onboard_time": 1741767323,
       "rank": 35,
       "category": "美食"
-    },
-    {
-      "raw_hot": 154045,
-      "num": 154045,
-      "word": "162万元买到火灾房",
-      "onboard_time": 1741771043,
-      "rank": 32,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 153757,
@@ -1475,6 +1507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135724,
+      "num": 247130,
+      "word": "车流中这3个护送孩子的身影",
+      "onboard_time": 1741770562,
+      "rank": 9,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 133518,
       "num": 214915,
       "word": "Jennie回归成绩",
@@ -1553,6 +1593,14 @@
       "onboard_time": 1741749561,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124924,
+      "num": 179547,
+      "word": "假顺风车为何人人喊打",
+      "onboard_time": 1741770382,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 124751,
@@ -1683,6 +1731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115330,
+      "num": 277784,
+      "word": "伊朗总统告诉特朗普想做什么就做",
+      "onboard_time": 1741771043,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 115258,
       "num": 115258,
       "word": "常按这个穴位孩子火箭式长高",
@@ -1691,28 +1747,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 114725,
-      "num": 114725,
-      "word": "伊朗总统告诉特朗普想做什么就做",
-      "onboard_time": 1741771043,
-      "rank": 41,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 113299,
       "num": 113299,
       "word": "一诺分享春天的颜色",
       "onboard_time": 1741762282,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 112581,
-      "num": 247130,
-      "word": "车流中这3个护送孩子的身影",
-      "onboard_time": 1741770562,
-      "rank": 9,
-      "category": "正能量"
     },
     {
       "raw_hot": 111111,
@@ -1779,6 +1819,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 102963,
+      "num": 102963,
+      "word": "李楷灿为李马克feat",
+      "onboard_time": 1741771943,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 101290,
       "num": 101290,
       "word": "张凌赫演技",
@@ -1819,11 +1867,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 97318,
-      "num": 97318,
-      "word": "律师称3岁智商产妇没有性同意能力",
-      "onboard_time": 1741771463,
-      "rank": 49,
+      "raw_hot": 97332,
+      "num": 97332,
+      "word": "女子用快递刀割断安全带救出司机",
+      "onboard_time": 1741772302,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -2035,14 +2083,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 63797,
-      "num": 179547,
-      "word": "假顺风车为何人人喊打",
-      "onboard_time": 1741770382,
-      "rank": 19,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 62605,
       "num": 66908,
       "word": "女子端邻桌剩菜涮火锅被朋友连夸",
@@ -2171,6 +2211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48771,
+      "num": 90171,
+      "word": "MiuMiu风穿搭",
+      "onboard_time": 1741772363,
+      "rank": 49,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 46577,
       "num": 227316,
       "word": "巴萨3比1本菲卡",
@@ -2209,6 +2257,14 @@
       "onboard_time": 1741759284,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44474,
+      "num": 234433,
+      "word": "欧豪回应和白鹿首次合作",
+      "onboard_time": 1741770382,
+      "rank": 14,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 44034,
@@ -2307,14 +2363,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 28875,
-      "num": 234433,
-      "word": "欧豪回应和白鹿首次合作",
-      "onboard_time": 1741770382,
-      "rank": 14,
-      "category": "剧集,艺人"
-    },
-    {
       "raw_hot": 28648,
       "num": 239972,
       "word": "张元英平井桃金米妮Ella时装周生图",
@@ -2355,6 +2403,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 23242,
+      "num": 163543,
+      "word": "杨天真说夸克情商挺高",
+      "onboard_time": 1741769244,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 22554,
       "num": 115848,
       "word": "特朗普称本周与普京会谈",
@@ -2387,20 +2443,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 19812,
+      "num": 205925,
+      "word": "吴彦祖盗版网课竟成二手平台爆款",
+      "onboard_time": 1741771822,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 19801,
       "num": 140334,
       "word": "多纳鲁马两扑点",
       "onboard_time": 1741737501,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 19409,
-      "num": 163543,
-      "word": "杨天真说夸克情商挺高",
-      "onboard_time": 1741769244,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 19001,
