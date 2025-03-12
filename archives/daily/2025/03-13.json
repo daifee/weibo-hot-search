@@ -1,6 +1,6 @@
 {
   "startTime": 1741797038602,
-  "endTime": 1741801165524,
+  "endTime": 1741804379777,
   "band_list": [
     {
       "raw_hot": 900025,
@@ -371,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64003,
+      "num": 64003,
+      "word": "婚前闹掰男方追讨37万女方判还3万",
+      "onboard_time": 1741800977,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63894,
       "num": 80748,
       "word": "未来3天大风降温雨雪来袭",
@@ -419,12 +427,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 32865,
-      "num": 38749,
-      "word": "婚前闹掰男方追讨37万女方判还3万",
-      "onboard_time": 1741800977,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 31242,
+      "num": 43522,
+      "word": "没人说嘘国王在冬眠这么好笑啊",
+      "onboard_time": 1741804035,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 27497,
@@ -435,11 +443,35 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 18486,
+      "raw_hot": 27354,
       "num": 66672,
       "word": "欧盟计划对260亿欧元美国商品征收关税",
       "onboard_time": 1741800736,
       "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 20863,
+      "num": 32460,
+      "word": "王源biu出现了",
+      "onboard_time": 1741803555,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 19847,
+      "num": 32458,
+      "word": "头发丝儿",
+      "onboard_time": 1741803555,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 17871,
+      "num": 32544,
+      "word": "伊朗总统回应特朗普军事威胁",
+      "onboard_time": 1741801995,
+      "rank": 35,
       "category": "国际时政"
     },
     {
