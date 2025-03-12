@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741784495388,
+  "endTime": 1741786290415,
   "band_list": [
     {
       "raw_hot": 21330054,
@@ -723,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1000082,
+      "num": 1000082,
+      "word": "女子通一次马桶被收费3180元",
+      "onboard_time": 1741781124,
+      "rank": 6,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 993672,
       "num": 1158987,
       "word": "哪吒2票房站上149亿",
@@ -1297,14 +1305,6 @@
       "onboard_time": 1741688604,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 686011,
-      "num": 686011,
-      "word": "女子通一次马桶被收费3180元",
-      "onboard_time": 1741781124,
-      "rank": 6,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 684457,
@@ -2699,6 +2699,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 358625,
+      "num": 358625,
+      "word": "脂肪是如何排出体外的",
+      "onboard_time": 1741781724,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 357589,
       "num": 340341,
       "word": "微信误转给同名人1000元对方不还",
@@ -2785,6 +2793,14 @@
       "onboard_time": 1741674441,
       "rank": 18,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 349446,
+      "num": 349446,
+      "word": "TES 大满败",
+      "onboard_time": 1741781545,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 348399,
@@ -2905,14 +2921,6 @@
       "onboard_time": 1741580724,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 337479,
-      "num": 337479,
-      "word": "TES 大满败",
-      "onboard_time": 1741781545,
-      "rank": 8,
-      "category": "电竞"
     },
     {
       "raw_hot": 335762,
@@ -3547,6 +3555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 273398,
+      "num": 234313,
+      "word": "52岁中国驻外大使李岩逝世",
+      "onboard_time": 1741785504,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 273274,
       "num": 273274,
       "word": "多个奢侈品吊牌被炒出天价",
@@ -3593,6 +3609,14 @@
       "onboard_time": 1741701862,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 269793,
+      "num": 269793,
+      "word": "未来3天大风降温雨雪来袭",
+      "onboard_time": 1741783465,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 268687,
@@ -3656,6 +3680,14 @@
       "word": "周杰伦背着女儿牵着儿子",
       "onboard_time": 1741611746,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 264409,
+      "num": 254673,
+      "word": "权志龙无妄之灾",
+      "onboard_time": 1741779685,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -3811,14 +3843,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 254673,
-      "num": 254673,
-      "word": "权志龙无妄之灾",
-      "onboard_time": 1741779685,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 254532,
       "num": 254532,
       "word": "光与夜之恋",
@@ -3889,6 +3913,14 @@
       "onboard_time": 1741735760,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 246956,
+      "num": 246956,
+      "word": "热巴周也陈星旭王子文同框",
+      "onboard_time": 1741785325,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 246623,
@@ -4323,14 +4355,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 219768,
-      "num": 219768,
-      "word": "脂肪是如何排出体外的",
-      "onboard_time": 1741781724,
-      "rank": 32,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 219379,
       "num": 219379,
       "word": "宋茜好像霍格沃茨来的",
@@ -4417,6 +4441,14 @@
       "onboard_time": 1741574000,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 214615,
+      "num": 214615,
+      "word": "迪丽热巴花影拂面",
+      "onboard_time": 1741785084,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 214533,
@@ -4985,14 +5017,6 @@
       "onboard_time": 1741735099,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 193224,
-      "num": 268071,
-      "word": "未来3天大风降温雨雪来袭",
-      "onboard_time": 1741783465,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 193111,
@@ -6177,6 +6201,14 @@
       "onboard_time": 1741754724,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159457,
+      "num": 159457,
+      "word": "白玉兰",
+      "onboard_time": 1741785924,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 159432,
@@ -7723,6 +7755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125582,
+      "num": 125582,
+      "word": "赛车星冰乐",
+      "onboard_time": 1741785804,
+      "rank": 40,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 125487,
       "num": 173586,
       "word": "美国一州长喊话美国人说你被骗了",
@@ -8691,6 +8731,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 111450,
+      "num": 275953,
+      "word": "女子遇通马桶刺客法院判商家赔9600元",
+      "onboard_time": 1741784246,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111341,
       "num": 111341,
       "word": "福宝吃饭连耳朵也在打节拍",
@@ -9099,6 +9147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104996,
+      "num": 114251,
+      "word": "仁心俱乐部后劲好大",
+      "onboard_time": 1741784723,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104834,
       "num": 104834,
       "word": "时代少年团旅行问答",
@@ -9193,6 +9249,14 @@
       "onboard_time": 1741771943,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 102932,
+      "num": 118556,
+      "word": "时代峰峻发表律师声明",
+      "onboard_time": 1741786225,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 102727,
@@ -9921,14 +9985,6 @@
       "onboard_time": 1741522642,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 89493,
-      "num": 275953,
-      "word": "女子遇通马桶刺客法院判商家赔9600元",
-      "onboard_time": 1741784246,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89175,
@@ -11067,6 +11123,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 50561,
+      "num": 244197,
+      "word": "中国绿绘就生态新画卷",
+      "onboard_time": 1741780825,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50458,
       "num": 113259,
       "word": "只有福建人才懂这个菇的含金量",
@@ -11875,6 +11939,14 @@
       "category": "国内时政,教育"
     },
     {
+      "raw_hot": 27820,
+      "num": 142650,
+      "word": "6000元AI学习机课程成本仅几十元",
+      "onboard_time": 1741785205,
+      "rank": 28,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 27306,
       "num": 193556,
       "word": "林诗栋说第一次来重庆",
@@ -11897,6 +11969,14 @@
       "onboard_time": 1741730174,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 26872,
+      "num": 142400,
+      "word": "当心金包银首饰消费有坑",
+      "onboard_time": 1741784604,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 26692,
