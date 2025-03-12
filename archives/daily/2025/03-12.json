@@ -1,10 +1,10 @@
 {
   "startTime": 1741710703289,
-  "endTime": 1741775126162,
+  "endTime": 1741776169886,
   "band_list": [
     {
-      "raw_hot": 9060188,
-      "num": 9060188,
+      "raw_hot": 10901855,
+      "num": 10901855,
       "word": "金秀贤在信里说我爱你赛纶",
       "onboard_time": 1741774582,
       "rank": 10,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1795561,
+      "num": 1795561,
+      "word": "N号房事件后性同意年龄提至16岁",
+      "onboard_time": 1741773443,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1710972,
       "num": 369764,
       "word": "曝金秀贤经纪人是性犯罪者",
@@ -153,14 +161,6 @@
       "onboard_time": 1741728014,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1414876,
-      "num": 1414876,
-      "word": "N号房事件后性同意年龄提至16岁",
-      "onboard_time": 1741773443,
-      "rank": 1,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1353238,
@@ -265,6 +265,14 @@
       "onboard_time": 1741711639,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 736721,
+      "num": 322512,
+      "word": "崔显旭 金赛纶酒驾副驾驶",
+      "onboard_time": 1741775306,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 690269,
@@ -603,7 +611,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 385806,
+      "raw_hot": 389837,
       "num": 385806,
       "word": "父亲想要儿子连生9个女儿",
       "onboard_time": 1741773503,
@@ -684,7 +692,7 @@
     },
     {
       "raw_hot": 344532,
-      "num": 184037,
+      "num": 250353,
       "word": "D社与金赛纶聊天记录",
       "onboard_time": 1741774582,
       "rank": 25,
@@ -731,6 +739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 319792,
+      "num": 255753,
+      "word": "TES与HLE冲击两连胜",
+      "onboard_time": 1741776085,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 302565,
       "num": 302565,
       "word": "董明珠说为格力省了十几亿广告费",
@@ -764,7 +780,7 @@
     },
     {
       "raw_hot": 287196,
-      "num": 170460,
+      "num": 286158,
       "word": "韩国胶鞋寓意",
       "onboard_time": 1741773805,
       "rank": 30,
@@ -865,6 +881,14 @@
       "onboard_time": 1741753825,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 253052,
+      "num": 253052,
+      "word": "马拉多纳死亡案真相大白",
+      "onboard_time": 1741775064,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 248803,
@@ -1043,6 +1067,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 203632,
+      "num": 203632,
+      "word": "原央视主持人赵普回应保安出身",
+      "onboard_time": 1741775605,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 202599,
       "num": 202599,
       "word": "河南一大学老师3个月减68斤真的牛",
@@ -1057,6 +1089,14 @@
       "onboard_time": 1741754846,
       "rank": 27,
       "category": "美食"
+    },
+    {
+      "raw_hot": 200972,
+      "num": 322955,
+      "word": "委员谈为什么医生自己不做近视手术",
+      "onboard_time": 1741774222,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 200696,
@@ -1113,6 +1153,14 @@
       "onboard_time": 1741714396,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 196743,
+      "num": 277103,
+      "word": "哪吒2冲刺150亿票房新纪录",
+      "onboard_time": 1741774343,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 193832,
@@ -1177,14 +1225,6 @@
       "onboard_time": 1741753405,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 184648,
-      "num": 184648,
-      "word": "哪吒2冲刺150亿票房新纪录",
-      "onboard_time": 1741774343,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 184169,
@@ -1297,14 +1337,6 @@
       "onboard_time": 1741698324,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 169646,
-      "num": 169646,
-      "word": "委员谈为什么医生自己不做近视手术",
-      "onboard_time": 1741774222,
-      "rank": 31,
-      "category": "国内时政"
     },
     {
       "raw_hot": 168790,
@@ -1427,6 +1459,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159046,
+      "num": 159046,
+      "word": "王楚钦说打卡不了重庆景点",
+      "onboard_time": 1741772483,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 157489,
+      "num": 157489,
+      "word": "日本女孩直播时被杀粉丝全程目睹",
+      "onboard_time": 1741774943,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 157114,
       "num": 209345,
       "word": "女子提5万家务劳动补偿法院判25万",
@@ -1539,14 +1587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 149060,
-      "num": 149060,
-      "word": "王楚钦说打卡不了重庆景点",
-      "onboard_time": 1741772483,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 147720,
       "num": 147720,
       "word": "杨铭宇黄焖鸡回应被曝后厨乱象",
@@ -1555,12 +1595,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 143841,
-      "num": 143841,
-      "word": "日本女孩直播时被杀粉丝全程目睹",
-      "onboard_time": 1741774943,
-      "rank": 40,
-      "category": "海外新闻"
+      "raw_hot": 145645,
+      "num": 284232,
+      "word": "夏以昼鸡哔你",
+      "onboard_time": 1741773503,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 144304,
+      "num": 346809,
+      "word": "12岁男孩用压岁钱买手机家人投诉退款",
+      "onboard_time": 1741774284,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143950,
+      "num": 269420,
+      "word": "黄奕新剧再次女扮男装",
+      "onboard_time": 1741775605,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 142043,
@@ -1707,6 +1763,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128036,
+      "num": 128036,
+      "word": "榜一大哥花2元骗女主播80余万元",
+      "onboard_time": 1741776085,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127730,
+      "num": 127730,
+      "word": "王楚钦说大爷吼一嗓子挺吓人",
+      "onboard_time": 1741776085,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 127491,
+      "num": 127491,
+      "word": "尊界起诉赛车星冰乐",
+      "onboard_time": 1741775544,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 127345,
       "num": 209814,
       "word": "陆柯燃在西海岸玩西海岸",
@@ -1737,14 +1817,6 @@
       "onboard_time": 1741749561,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 125178,
-      "num": 125178,
-      "word": "夏以昼鸡哔你",
-      "onboard_time": 1741773503,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 124924,
@@ -1793,14 +1865,6 @@
       "onboard_time": 1741709781,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121820,
-      "num": 121820,
-      "word": "马拉多纳死亡案真相大白",
-      "onboard_time": 1741775064,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 121712,
@@ -2147,6 +2211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86962,
+      "num": 314570,
+      "word": "刘雯手提鞋子踮起脚尖淡定走秀",
+      "onboard_time": 1741775064,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 85746,
       "num": 362038,
       "word": "MiuMiu风穿搭",
@@ -2491,12 +2563,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 38021,
-      "num": 346809,
-      "word": "12岁男孩用压岁钱买手机家人投诉退款",
-      "onboard_time": 1741774284,
+      "raw_hot": 38613,
+      "num": 311954,
+      "word": "汤家凤称老师要为学生做好表率",
+      "onboard_time": 1741775485,
       "rank": 19,
-      "category": "民生新闻"
+      "category": "教育"
     },
     {
       "raw_hot": 37395,
@@ -2505,6 +2577,14 @@
       "onboard_time": 1741734798,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 33168,
+      "num": 259454,
+      "word": "被曝偷换新生儿医院涉事医生解聘",
+      "onboard_time": 1741775726,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33133,
@@ -2569,14 +2649,6 @@
       "onboard_time": 1741763243,
       "rank": 29,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 28924,
-      "num": 148513,
-      "word": "刘雯手提鞋子踮起脚尖淡定走秀",
-      "onboard_time": 1741775064,
-      "rank": 36,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 28648,
