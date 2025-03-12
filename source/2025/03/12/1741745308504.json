@@ -1,0 +1,410 @@
+{
+  "runTime": 1741745308504,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1187983,
+        "num": 1190077,
+        "word": "外卖小哥救醉倒男子后崩溃大哭",
+        "onboard_time": 1741740502,
+        "rank": 0,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1001725,
+        "num": 1001725,
+        "word": "年轻人开始流行各种自带了",
+        "onboard_time": 1741742900,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63388,
+        "num": 723435,
+        "word": "30秒了解国家账本新安排",
+        "onboard_time": 1741706543,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 491421,
+        "num": 491421,
+        "word": "核物理学家刘畅从美回国",
+        "onboard_time": 1741740502,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337412,
+        "num": 337412,
+        "word": "白鹿12秒无台词情绪递进",
+        "onboard_time": 1741738461,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 486539,
+        "num": 336346,
+        "word": "乌克兰同意停火30天",
+        "onboard_time": 1741734557,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 328161,
+        "num": 328161,
+        "word": "骑自行车的机器人出现了",
+        "onboard_time": 1741740204,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295017,
+        "num": 295017,
+        "word": "美国恢复对乌安全援助",
+        "onboard_time": 1741734919,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 231815,
+        "num": 231815,
+        "word": "王源minnie张元英g社生图",
+        "onboard_time": 1741708222,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 134160,
+        "num": 231598,
+        "word": "特朗普将邀泽连斯基重返白宫",
+        "onboard_time": 1741744523,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1343638,
+        "num": 231372,
+        "word": "金秀贤最新ins已经被攻陷",
+        "onboard_time": 1741728014,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 589266,
+        "num": 231234,
+        "word": "麦琳参加综艺被网友抵制举报",
+        "onboard_time": 1741735700,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 510673,
+        "num": 231102,
+        "word": "台当局打压转发台湾必归艺人",
+        "onboard_time": 1741737380,
+        "rank": 12,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 414444,
+        "num": 230664,
+        "word": "店家回应8盒蓝莓到手每盒仅几颗",
+        "onboard_time": 1741731616,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185696,
+        "num": 230490,
+        "word": "特朗普撤回一条加征关税威胁",
+        "onboard_time": 1741744282,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 494627,
+        "num": 230241,
+        "word": "金秀贤金赛纶 短信内容",
+        "onboard_time": 1741687286,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322475,
+        "num": 230068,
+        "word": "全球热",
+        "onboard_time": 1741737861,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 173876,
+        "num": 229962,
+        "word": "王源有一种气血很足的帅",
+        "onboard_time": 1741710440,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 127104,
+        "num": 229720,
+        "word": "时代峰峻无限音乐会",
+        "onboard_time": 1741736059,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 61021,
+        "num": 229503,
+        "word": "菲总统回应逮捕杜特尔特",
+        "onboard_time": 1741744762,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 357189,
+        "num": 229143,
+        "word": "建议想减肥的人早晚称体重",
+        "onboard_time": 1741739244,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 270473,
+        "num": 228951,
+        "word": "陪爬泰山小伙称挣钱透支了身体",
+        "onboard_time": 1741698984,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228810,
+        "num": 228810,
+        "word": "微信误转给同名人1000元对方不还",
+        "onboard_time": 1741693403,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225448,
+        "num": 225448,
+        "word": "以为很懒但对皮肤很好的行为",
+        "onboard_time": 1741736000,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213049,
+        "num": 213049,
+        "word": "心理医生说应该感谢焦虑",
+        "onboard_time": 1741739183,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202599,
+        "num": 202599,
+        "word": "河南一大学老师3个月减68斤真的牛",
+        "onboard_time": 1741742183,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197865,
+        "num": 197865,
+        "word": "雷军反内耗神句",
+        "onboard_time": 1741714396,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 97386,
+        "num": 196395,
+        "word": "陈哲远张婧仪婚服造型路透",
+        "onboard_time": 1741736180,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95274,
+        "num": 196166,
+        "word": "文淇称转型做导演是因为选择太少",
+        "onboard_time": 1741714818,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91825,
+        "num": 196087,
+        "word": "杨幂回家啦对镜比耶自拍",
+        "onboard_time": 1741735579,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196079,
+        "num": 196079,
+        "word": "600元买猫470元托运只收到尸体",
+        "onboard_time": 1741735760,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91891,
+        "num": 192223,
+        "word": "江苏泰州一公司发生燃爆致4死4伤",
+        "onboard_time": 1741745182,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192210,
+        "num": 192210,
+        "word": "从不准加班到不用加班还有多远",
+        "onboard_time": 1741743923,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68524,
+        "num": 176841,
+        "word": "杨仕泽为虞书欣新剧打call",
+        "onboard_time": 1741737322,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169165,
+        "num": 169165,
+        "word": "小米工作人员称SU7有接头接错",
+        "onboard_time": 1741745001,
+        "rank": 34,
+        "category": "汽车,数码"
+      },
+      {
+        "raw_hot": 155396,
+        "num": 155396,
+        "word": "王楚钦 麦当劳",
+        "onboard_time": 1741701684,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155325,
+        "num": 155325,
+        "word": "郑钦文比赛拖场",
+        "onboard_time": 1741743381,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153343,
+        "num": 153343,
+        "word": "原生鸿蒙正式版将上线",
+        "onboard_time": 1741744940,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 128984,
+        "num": 128984,
+        "word": "疑似金赛纶酒驾原因",
+        "onboard_time": 1741700184,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128106,
+        "num": 128106,
+        "word": "郑州双层巴士过隧道因超高被削车顶",
+        "onboard_time": 1741706722,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114483,
+        "num": 114483,
+        "word": "医生提醒内脏脂肪过多危害大",
+        "onboard_time": 1741733778,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 107689,
+        "num": 107689,
+        "word": "我国再次发射一箭18星",
+        "onboard_time": 1741735700,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 107251,
+        "num": 107251,
+        "word": "吴君如父亲离世",
+        "onboard_time": 1741745120,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105922,
+        "num": 105922,
+        "word": "颜宁否认在山东大学任职",
+        "onboard_time": 1741737081,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105632,
+        "num": 105632,
+        "word": "2024年我国完成国土绿化超1亿亩",
+        "onboard_time": 1741744523,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101560,
+        "num": 101560,
+        "word": "小伙上满8小时班被倒扣3天工资",
+        "onboard_time": 1741709362,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99716,
+        "num": 99716,
+        "word": "许昕调监控晒黄金左脚",
+        "onboard_time": 1741739244,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99354,
+        "num": 99354,
+        "word": "女子横躺马路后扑向交警怀中",
+        "onboard_time": 1741743682,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94199,
+        "num": 94199,
+        "word": "男子创业负债800万两年还清",
+        "onboard_time": 1741698324,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94010,
+        "num": 94010,
+        "word": "为什么总感觉时间越过越快",
+        "onboard_time": 1741742900,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会之问#"
+    }
+  }
+}
