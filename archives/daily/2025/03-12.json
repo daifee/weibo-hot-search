@@ -1,6 +1,6 @@
 {
   "startTime": 1741710703289,
-  "endTime": 1741750429034,
+  "endTime": 1741751131068,
   "band_list": [
     {
       "raw_hot": 1917180,
@@ -19,11 +19,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1697990,
+      "num": 367102,
+      "word": "韩星开始取关金秀贤",
+      "onboard_time": 1741750824,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1455344,
       "num": 362909,
       "word": "金秀贤最新ins已经被攻陷",
       "onboard_time": 1741728014,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1230823,
+      "num": 321559,
+      "word": "元彬第一个去金赛纶葬礼",
+      "onboard_time": 1741749923,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -52,7 +68,7 @@
     },
     {
       "raw_hot": 1001725,
-      "num": 1001725,
+      "num": 1113894,
       "word": "年轻人开始流行各种自带了",
       "onboard_time": 1741742900,
       "rank": 1,
@@ -123,20 +139,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 543182,
+      "num": 362370,
+      "word": "向佐开10个小时车去找郭碧婷",
+      "onboard_time": 1741749682,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 531102,
       "num": 524070,
       "word": "谁家求婚时房塌了啊",
       "onboard_time": 1741745603,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 510821,
-      "num": 173747,
-      "word": "元彬第一个去金赛纶葬礼",
-      "onboard_time": 1741749923,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 507858,
@@ -203,6 +219,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 412783,
+      "num": 342252,
+      "word": "元彬曾提出帮金赛纶偿还欠款",
+      "onboard_time": 1741750644,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 405432,
       "num": 206479,
       "word": "王楚钦 麦当劳",
@@ -219,12 +243,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 398006,
+      "num": 352482,
+      "word": "用Deepseek自动生成PPT教程",
+      "onboard_time": 1741746081,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 390690,
       "num": 293954,
       "word": "建议想减肥的人早晚称体重",
       "onboard_time": 1741739244,
       "rank": 21,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 390643,
+      "num": 363038,
+      "word": "于洋告别仪式没有用哀乐",
+      "onboard_time": 1741748242,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 384320,
@@ -235,20 +275,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 370170,
-      "num": 370170,
+      "raw_hot": 376744,
+      "num": 376744,
       "word": "从不准加班到不用加班还有多远",
       "onboard_time": 1741743923,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 365262,
-      "num": 362370,
-      "word": "向佐开10个小时车去找郭碧婷",
-      "onboard_time": 1741749682,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 362290,
@@ -273,14 +305,6 @@
       "onboard_time": 1741693403,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 352482,
-      "num": 352482,
-      "word": "用Deepseek自动生成PPT教程",
-      "onboard_time": 1741746081,
-      "rank": 24,
-      "category": "互联网"
     },
     {
       "raw_hot": 348399,
@@ -315,14 +339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 290873,
-      "num": 363038,
-      "word": "于洋告别仪式没有用哀乐",
-      "onboard_time": 1741748242,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 290579,
       "num": 290579,
       "word": "以为很懒但对皮肤很好的行为",
@@ -339,8 +355,16 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 281341,
+      "num": 281341,
+      "word": "周也考了芭蕾证书",
+      "onboard_time": 1741750342,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 279863,
-      "num": 252681,
+      "num": 272374,
       "word": "馄饨店老板10秒摆放33个馄饨碗",
       "onboard_time": 1741748661,
       "rank": 46,
@@ -387,6 +411,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 237478,
+      "num": 308052,
+      "word": "近视手术是一种奢侈美容",
+      "onboard_time": 1741750162,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 234418,
+      "num": 234418,
+      "word": "陶喆新歌",
+      "onboard_time": 1741749802,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 230049,
       "num": 205139,
       "word": "花几十元吧主可提供定制色情视频",
@@ -401,14 +441,6 @@
       "onboard_time": 1741749382,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 214827,
-      "num": 214827,
-      "word": "陶喆新歌",
-      "onboard_time": 1741749802,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 213113,
@@ -611,6 +643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156598,
+      "num": 156598,
+      "word": "无限暖暖",
+      "onboard_time": 1741750282,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 155325,
       "num": 228174,
       "word": "郑钦文比赛拖场",
@@ -659,14 +699,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 139058,
-      "num": 139058,
-      "word": "周也考了芭蕾证书",
-      "onboard_time": 1741750342,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 138852,
       "num": 138852,
       "word": "我国再次发射一箭18星",
@@ -681,6 +713,14 @@
       "onboard_time": 1741745480,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 132607,
+      "num": 132607,
+      "word": "林一在男妈妈赛道越走越顺",
+      "onboard_time": 1741750883,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 131531,
@@ -699,12 +739,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127877,
+      "num": 284868,
+      "word": "杨铭宇黄焖鸡剩菜回收再卖给顾客",
+      "onboard_time": 1741750824,
+      "rank": 21,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 126064,
       "num": 135821,
       "word": "滤镜癫开癫走",
       "onboard_time": 1741700064,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125889,
+      "num": 125889,
+      "word": "30秒了解植树节冷知识",
+      "onboard_time": 1741749561,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123329,
@@ -755,28 +811,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 117902,
-      "num": 117902,
-      "word": "30秒了解植树节冷知识",
-      "onboard_time": 1741749561,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 115848,
       "num": 115847,
       "word": "智力曾降至3岁消防员开始直播带货",
       "onboard_time": 1741696464,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 111516,
-      "num": 111516,
-      "word": "无限暖暖",
-      "onboard_time": 1741750282,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 111111,
@@ -900,7 +940,7 @@
     },
     {
       "raw_hot": 89175,
-      "num": 163427,
+      "num": 208469,
       "word": "领克900同级首搭骁遥电池",
       "onboard_time": 1741747882,
       "rank": 38,
@@ -1083,6 +1123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51598,
+      "num": 149576,
+      "word": "官方回应男子相亲自称在机关年入35万",
+      "onboard_time": 1741751064,
+      "rank": 42,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 50916,
       "num": 50916,
       "word": "欧冠联赛",
@@ -1123,6 +1171,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42600,
+      "num": 323232,
+      "word": "花670元找男大陪游一天值吗",
+      "onboard_time": 1741750585,
+      "rank": 14,
+      "category": "议题讨论,民生新闻"
+    },
+    {
+      "raw_hot": 42283,
+      "num": 573443,
+      "word": "2025奋进中国",
+      "onboard_time": 1741750883,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 41388,
       "num": 46104,
       "word": "老外已经开始推荐哪吒1了",
@@ -1147,12 +1211,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 28989,
+      "raw_hot": 31903,
       "num": 350033,
       "word": "有黄金回收报价超大盘100元引流",
       "onboard_time": 1741750044,
       "rank": 15,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 28648,
+      "num": 239972,
+      "word": "张元英平井桃金米妮Ella时装周生图",
+      "onboard_time": 1741750883,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 27257,
+      "num": 156839,
+      "word": "三杯咖啡怎么分给四位长辈",
+      "onboard_time": 1741749802,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 27038,
@@ -1203,6 +1283,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 21532,
+      "num": 209660,
+      "word": "韩国将49岁列入青年范畴",
+      "onboard_time": 1741751004,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 19801,
       "num": 140334,
       "word": "多纳鲁马两扑点",
@@ -1241,22 +1329,6 @@
       "onboard_time": 1741732337,
       "rank": 49,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 16688,
-      "num": 251391,
-      "word": "近视手术是一种奢侈美容",
-      "onboard_time": 1741750162,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15180,
-      "num": 134885,
-      "word": "三杯咖啡怎么分给四位长辈",
-      "onboard_time": 1741749802,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 14844,
