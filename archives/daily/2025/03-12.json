@@ -1,7 +1,15 @@
 {
   "startTime": 1741710703289,
-  "endTime": 1741754650443,
+  "endTime": 1741756984607,
   "band_list": [
+    {
+      "raw_hot": 3554286,
+      "num": 301889,
+      "word": "韩媒再曝金秀贤金赛纶亲密照",
+      "onboard_time": 1741756765,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2315817,
       "num": 793430,
@@ -41,6 +49,14 @@
       "onboard_time": 1741750162,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1498721,
+      "num": 301025,
+      "word": "不懂金秀贤做错什么了的韩男们",
+      "onboard_time": 1741754965,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1478776,
@@ -107,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 903309,
+      "num": 1144529,
+      "word": "铜川一医院被曝偷换新生儿",
+      "onboard_time": 1741751784,
+      "rank": 8,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 778576,
       "num": 758076,
       "word": "小米工作人员称SU7有接头接错",
@@ -169,14 +193,6 @@
       "onboard_time": 1741731616,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 596585,
-      "num": 596585,
-      "word": "铜川一医院被曝偷换新生儿",
-      "onboard_time": 1741751784,
-      "rank": 8,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 596093,
@@ -291,6 +307,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 426296,
+      "num": 426296,
+      "word": "黄明昊 你们好甜啊",
+      "onboard_time": 1741755264,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 405432,
       "num": 206479,
       "word": "王楚钦 麦当劳",
@@ -313,6 +337,14 @@
       "onboard_time": 1741746081,
       "rank": 24,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 397631,
+      "num": 397631,
+      "word": "祭拜祖坟发现2墓穴被立他人墓碑",
+      "onboard_time": 1741752625,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 390690,
@@ -403,11 +435,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 325706,
-      "num": 339292,
-      "word": "祭拜祖坟发现2墓穴被立他人墓碑",
-      "onboard_time": 1741752625,
-      "rank": 17,
+      "raw_hot": 302039,
+      "num": 302039,
+      "word": "20年前的电子垃圾为何被炒出天价",
+      "onboard_time": 1741752445,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -419,12 +451,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 298262,
-      "num": 252623,
+      "raw_hot": 299491,
+      "num": 283601,
       "word": "女生三年攒160个纸袋卖了180元",
       "onboard_time": 1741752203,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 297639,
+      "num": 297639,
+      "word": "眼泪女王",
+      "onboard_time": 1741755985,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 294323,
+      "num": 294323,
+      "word": "韩国低于性同意年龄均视为强奸",
+      "onboard_time": 1741755385,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 290579,
@@ -441,6 +489,14 @@
       "onboard_time": 1741692805,
       "rank": 30,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 280058,
+      "num": 280058,
+      "word": "姚安娜哭戏",
+      "onboard_time": 1741753944,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 279863,
@@ -497,6 +553,14 @@
       "onboard_time": 1741695922,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 236518,
+      "num": 236518,
+      "word": "少爷和我杀回来了",
+      "onboard_time": 1741755865,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 234418,
@@ -579,6 +643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 199729,
+      "num": 338074,
+      "word": "在长久的婚姻中爱不是秘诀",
+      "onboard_time": 1741752023,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 199010,
       "num": 199010,
       "word": "风与潮开机",
@@ -611,12 +683,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 189722,
-      "num": 189722,
-      "word": "姚安娜哭戏",
-      "onboard_time": 1741753944,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 189307,
+      "num": 189307,
+      "word": "AD钙奶这个味儿谁研究出来的",
+      "onboard_time": 1741754846,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 189058,
@@ -651,6 +723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184169,
+      "num": 184169,
+      "word": "吴磊那一天的凌晨两点",
+      "onboard_time": 1741756465,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183580,
       "num": 183580,
       "word": "河南中医说女孩想漂亮必须肝藏血",
@@ -659,20 +739,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 182616,
+      "num": 182616,
+      "word": "刘敏涛王迅新片演母子",
+      "onboard_time": 1741756285,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 180608,
       "num": 302536,
       "word": "时代峰峻无限音乐会",
       "onboard_time": 1741736059,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 180248,
-      "num": 180248,
-      "word": "20年前的电子垃圾为何被炒出天价",
-      "onboard_time": 1741752445,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 179785,
@@ -697,6 +777,14 @@
       "onboard_time": 1741748963,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 175357,
+      "num": 175357,
+      "word": "大侦探也是消费降级了",
+      "onboard_time": 1741756584,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 173308,
@@ -771,6 +859,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 159483,
+      "num": 159483,
+      "word": "于适晚宴与外国人斗舞",
+      "onboard_time": 1741754724,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159091,
       "num": 209135,
       "word": "小官巨贪马超群出租屋堆满1.15亿现金",
@@ -785,14 +881,6 @@
       "onboard_time": 1741696224,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 156673,
-      "num": 338074,
-      "word": "在长久的婚姻中爱不是秘诀",
-      "onboard_time": 1741752023,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 156598,
@@ -819,6 +907,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 153600,
+      "num": 153600,
+      "word": "董明珠说为格力省了十几亿广告费",
+      "onboard_time": 1741756765,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153343,
       "num": 153343,
       "word": "原生鸿蒙正式版将上线",
@@ -833,6 +929,14 @@
       "onboard_time": 1741748182,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 151891,
+      "num": 311669,
+      "word": "为什么我的银行卡我说了不算",
+      "onboard_time": 1741753644,
+      "rank": 40,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 151031,
@@ -865,6 +969,14 @@
       "onboard_time": 1741754486,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142043,
+      "num": 142043,
+      "word": "王艺迪11比8伊藤美诚",
+      "onboard_time": 1741756645,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 138852,
@@ -923,12 +1035,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128581,
+      "num": 155222,
+      "word": "郑钦文vs科斯秋克",
+      "onboard_time": 1741756823,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127345,
       "num": 209814,
       "word": "陆柯燃在西海岸玩西海岸",
       "onboard_time": 1741753165,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126822,
+      "num": 126822,
+      "word": "绝美哪吒与敖丙",
+      "onboard_time": 1741754786,
+      "rank": 44,
+      "category": "动漫,电影"
     },
     {
       "raw_hot": 126064,
@@ -939,20 +1067,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125913,
-      "num": 311669,
-      "word": "为什么我的银行卡我说了不算",
-      "onboard_time": 1741753644,
-      "rank": 40,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 125889,
       "num": 125889,
       "word": "30秒了解植树节冷知识",
       "onboard_time": 1741749561,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124806,
+      "num": 299315,
+      "word": "杨铭宇黄焖鸡正联系涉事门店关店整改",
+      "onboard_time": 1741756165,
+      "rank": 13,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 123329,
@@ -1145,6 +1273,14 @@
       "onboard_time": 1741683563,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89084,
+      "num": 284950,
+      "word": "papi看到胡彦斌的手串眼里都在放光",
+      "onboard_time": 1741756405,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 88211,
@@ -1432,6 +1568,14 @@
       "word": "有黄金回收报价超大盘100元引流",
       "onboard_time": 1741750044,
       "rank": 15,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 30252,
+      "num": 297941,
+      "word": "男子2毛买AI彩票预测被骗2万多",
+      "onboard_time": 1741756043,
+      "rank": 14,
       "category": "舆论监督"
     },
     {

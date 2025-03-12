@@ -1,0 +1,410 @@
+{
+  "runTime": 1741756984607,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 903309,
+        "num": 1144529,
+        "word": "铜川一医院被曝偷换新生儿",
+        "onboard_time": 1741751784,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 886111,
+        "num": 886111,
+        "word": "近视手术是一种奢侈美容",
+        "onboard_time": 1741750162,
+        "rank": 1,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 24691,
+        "num": 785652,
+        "word": "2025奋进中国",
+        "onboard_time": 1741750883,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 723525,
+        "num": 723525,
+        "word": "杨铭宇黄焖鸡剩菜回收再卖给顾客",
+        "onboard_time": 1741750824,
+        "rank": 3,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 477130,
+        "num": 477130,
+        "word": "年轻人开始流行各种自带了",
+        "onboard_time": 1741742900,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 450781,
+        "num": 450781,
+        "word": "周也考了芭蕾证书",
+        "onboard_time": 1741750342,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426296,
+        "num": 426296,
+        "word": "黄明昊 你们好甜啊",
+        "onboard_time": 1741755264,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 397631,
+        "num": 397631,
+        "word": "祭拜祖坟发现2墓穴被立他人墓碑",
+        "onboard_time": 1741752625,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321168,
+        "num": 321168,
+        "word": "杨铭宇黄焖鸡隔夜鸡肉优先出售",
+        "onboard_time": 1741753825,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302039,
+        "num": 302039,
+        "word": "20年前的电子垃圾为何被炒出天价",
+        "onboard_time": 1741752445,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3554286,
+        "num": 301889,
+        "word": "韩媒再曝金秀贤金赛纶亲密照",
+        "onboard_time": 1741756765,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1498721,
+        "num": 301025,
+        "word": "不懂金秀贤做错什么了的韩男们",
+        "onboard_time": 1741754965,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 555557,
+        "num": 300181,
+        "word": "汤家凤谈田静英语一成绩",
+        "onboard_time": 1741752383,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 124806,
+        "num": 299315,
+        "word": "杨铭宇黄焖鸡正联系涉事门店关店整改",
+        "onboard_time": 1741756165,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 30252,
+        "num": 297941,
+        "word": "男子2毛买AI彩票预测被骗2万多",
+        "onboard_time": 1741756043,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 297639,
+        "num": 297639,
+        "word": "眼泪女王",
+        "onboard_time": 1741755985,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294323,
+        "num": 294323,
+        "word": "韩国低于性同意年龄均视为强奸",
+        "onboard_time": 1741755385,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1731922,
+        "num": 292906,
+        "word": "韩星开始取关金秀贤",
+        "onboard_time": 1741750824,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1087410,
+        "num": 289452,
+        "word": "元彬曾提出帮金赛纶偿还欠款",
+        "onboard_time": 1741750644,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89084,
+        "num": 284950,
+        "word": "papi看到胡彦斌的手串眼里都在放光",
+        "onboard_time": 1741756405,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 299491,
+        "num": 283601,
+        "word": "女生三年攒160个纸袋卖了180元",
+        "onboard_time": 1741752203,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280058,
+        "num": 280058,
+        "word": "姚安娜哭戏",
+        "onboard_time": 1741753944,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277501,
+        "num": 277501,
+        "word": "向佐开10个小时车去找郭碧婷",
+        "onboard_time": 1741749682,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236518,
+        "num": 236518,
+        "word": "少爷和我杀回来了",
+        "onboard_time": 1741755865,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209438,
+        "num": 209438,
+        "word": "张艺兴新片命不是底线女儿才是",
+        "onboard_time": 1741753825,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200046,
+        "num": 200046,
+        "word": "用Deepseek自动生成PPT教程",
+        "onboard_time": 1741746081,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 199729,
+        "num": 199729,
+        "word": "在长久的婚姻中爱不是秘诀",
+        "onboard_time": 1741752023,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189307,
+        "num": 189307,
+        "word": "AD钙奶这个味儿谁研究出来的",
+        "onboard_time": 1741754846,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 185510,
+        "num": 185510,
+        "word": "王一博手提胡萝卜",
+        "onboard_time": 1741751304,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 169216,
+        "num": 184603,
+        "word": "乌克兰同意停火30天",
+        "onboard_time": 1741734557,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 187126,
+        "num": 184431,
+        "word": "台当局打压转发台湾必归艺人",
+        "onboard_time": 1741737380,
+        "rank": 30,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 184169,
+        "num": 184169,
+        "word": "吴磊那一天的凌晨两点",
+        "onboard_time": 1741756465,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182616,
+        "num": 182616,
+        "word": "刘敏涛王迅新片演母子",
+        "onboard_time": 1741756285,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175357,
+        "num": 175357,
+        "word": "大侦探也是消费降级了",
+        "onboard_time": 1741756584,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170808,
+        "num": 170808,
+        "word": "谁家求婚时房塌了啊",
+        "onboard_time": 1741745603,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159483,
+        "num": 159483,
+        "word": "于适晚宴与外国人斗舞",
+        "onboard_time": 1741754724,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128581,
+        "num": 155222,
+        "word": "郑钦文vs科斯秋克",
+        "onboard_time": 1741756823,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153600,
+        "num": 153600,
+        "word": "董明珠说为格力省了十几亿广告费",
+        "onboard_time": 1741756765,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151891,
+        "num": 151891,
+        "word": "为什么我的银行卡我说了不算",
+        "onboard_time": 1741753644,
+        "rank": 38,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 144867,
+        "num": 144867,
+        "word": "女子8岁时身高165现在188",
+        "onboard_time": 1741745902,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142043,
+        "num": 142043,
+        "word": "王艺迪11比8伊藤美诚",
+        "onboard_time": 1741756645,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139359,
+        "num": 139359,
+        "word": "官方回应男子相亲自称在机关年入35万",
+        "onboard_time": 1741751064,
+        "rank": 41,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 138812,
+        "num": 138812,
+        "word": "杨铭宇黄焖鸡回应被曝后厨乱象",
+        "onboard_time": 1741754486,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138724,
+        "num": 138724,
+        "word": "从不准加班到不用加班还有多远",
+        "onboard_time": 1741743923,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126822,
+        "num": 126822,
+        "word": "绝美哪吒与敖丙",
+        "onboard_time": 1741754786,
+        "rank": 44,
+        "category": "动漫,电影"
+      },
+      {
+        "raw_hot": 122995,
+        "num": 122995,
+        "word": "一次性手套其实不防油",
+        "onboard_time": 1741754426,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 122484,
+        "num": 122484,
+        "word": "小官巨贪马超群出租屋堆满1.15亿现金",
+        "onboard_time": 1741752325,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121536,
+        "num": 121536,
+        "word": "特朗普撤回一条加征关税威胁",
+        "onboard_time": 1741744282,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115791,
+        "num": 115791,
+        "word": "权志龙应援棒",
+        "onboard_time": 1741749382,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114611,
+        "num": 114611,
+        "word": "嘘国王在冬眠",
+        "onboard_time": 1741753405,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#植树就是植未来#"
+    }
+  }
+}

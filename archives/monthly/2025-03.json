@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741754650443,
+  "endTime": 1741756984607,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -88,6 +88,14 @@
       "word": "金秀贤方说绝不让步",
       "onboard_time": 1741700184,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3554286,
+      "num": 301889,
+      "word": "韩媒再曝金秀贤金赛纶亲密照",
+      "onboard_time": 1741756765,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -897,6 +905,14 @@
       "onboard_time": 1741180458,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1498721,
+      "num": 301025,
+      "word": "不懂金秀贤做错什么了的韩男们",
+      "onboard_time": 1741754965,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1493367,
@@ -2289,6 +2305,14 @@
       "onboard_time": 1741103179,
       "rank": 0,
       "category": "数码"
+    },
+    {
+      "raw_hot": 903309,
+      "num": 1144529,
+      "word": "铜川一医院被曝偷换新生儿",
+      "onboard_time": 1741751784,
+      "rank": 8,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 902978,
@@ -4387,14 +4411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 596585,
-      "num": 596585,
-      "word": "铜川一医院被曝偷换新生儿",
-      "onboard_time": 1741751784,
-      "rank": 8,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 596093,
       "num": 362683,
       "word": "台当局打压转发台湾必归艺人",
@@ -6315,6 +6331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 426296,
+      "num": 426296,
+      "word": "黄明昊 你们好甜啊",
+      "onboard_time": 1741755264,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 425667,
       "num": 457043,
       "word": "幸福就是给员工涨工资",
@@ -6777,6 +6801,14 @@
       "onboard_time": 1741746081,
       "rank": 24,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 397631,
+      "num": 397631,
+      "word": "祭拜祖坟发现2墓穴被立他人墓碑",
+      "onboard_time": 1741752625,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 397457,
@@ -8547,14 +8579,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 325706,
-      "num": 339292,
-      "word": "祭拜祖坟发现2墓穴被立他人墓碑",
-      "onboard_time": 1741752625,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 325245,
       "num": 269227,
       "word": "网传张艺兴出演女足",
@@ -9155,6 +9179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 302039,
+      "num": 302039,
+      "word": "20年前的电子垃圾为何被炒出天价",
+      "onboard_time": 1741752445,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 301345,
       "num": 332168,
       "word": "娄勤俭回应美方再次加征关税",
@@ -9217,6 +9249,14 @@
       "onboard_time": 1740784334,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 299491,
+      "num": 283601,
+      "word": "女生三年攒160个纸袋卖了180元",
+      "onboard_time": 1741752203,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 299252,
@@ -9291,14 +9331,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 298262,
-      "num": 252623,
-      "word": "女生三年攒160个纸袋卖了180元",
-      "onboard_time": 1741752203,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 298099,
       "num": 298099,
       "word": "TES夺得优胜者",
@@ -9329,6 +9361,14 @@
       "onboard_time": 1741066698,
       "rank": 49,
       "category": "网红"
+    },
+    {
+      "raw_hot": 297639,
+      "num": 297639,
+      "word": "眼泪女王",
+      "onboard_time": 1741755985,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 297529,
@@ -9433,6 +9473,14 @@
       "onboard_time": 1740836242,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 294323,
+      "num": 294323,
+      "word": "韩国低于性同意年龄均视为强奸",
+      "onboard_time": 1741755385,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 294251,
@@ -9913,6 +9961,14 @@
       "onboard_time": 1741402520,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 280058,
+      "num": 280058,
+      "word": "姚安娜哭戏",
+      "onboard_time": 1741753944,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 279954,
@@ -11505,6 +11561,14 @@
       "onboard_time": 1740813508,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 236518,
+      "num": 236518,
+      "word": "少爷和我杀回来了",
+      "onboard_time": 1741755865,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 236306,
@@ -13851,6 +13915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199729,
+      "num": 338074,
+      "word": "在长久的婚姻中爱不是秘诀",
+      "onboard_time": 1741752023,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 199685,
       "num": 199685,
       "word": "湖人7连胜",
@@ -14779,14 +14851,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 189722,
-      "num": 189722,
-      "word": "姚安娜哭戏",
-      "onboard_time": 1741753944,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 189713,
       "num": 189713,
       "word": "白客 土象天菜",
@@ -14849,6 +14913,14 @@
       "onboard_time": 1741161800,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 189307,
+      "num": 189307,
+      "word": "AD钙奶这个味儿谁研究出来的",
+      "onboard_time": 1741754846,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 189260,
@@ -15435,6 +15507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184169,
+      "num": 184169,
+      "word": "吴磊那一天的凌晨两点",
+      "onboard_time": 1741756465,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184068,
       "num": 184068,
       "word": "张元英爱心刘海",
@@ -15529,6 +15609,14 @@
       "onboard_time": 1741092680,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 182616,
+      "num": 182616,
+      "word": "刘敏涛王迅新片演母子",
+      "onboard_time": 1741756285,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 182544,
@@ -15673,14 +15761,6 @@
       "onboard_time": 1741605144,
       "rank": 23,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 180248,
-      "num": 180248,
-      "word": "20年前的电子垃圾为何被炒出天价",
-      "onboard_time": 1741752445,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 180244,
@@ -16185,6 +16265,14 @@
       "onboard_time": 1741150582,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 175357,
+      "num": 175357,
+      "word": "大侦探也是消费降级了",
+      "onboard_time": 1741756584,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 175260,
@@ -17971,6 +18059,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 159483,
+      "num": 159483,
+      "word": "于适晚宴与外国人斗舞",
+      "onboard_time": 1741754724,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159449,
       "num": 159449,
       "word": "陶喆回应唱爱爱爱悼念方大同",
@@ -18385,14 +18481,6 @@
       "onboard_time": 1740929540,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 156673,
-      "num": 338074,
-      "word": "在长久的婚姻中爱不是秘诀",
-      "onboard_time": 1741752023,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 156598,
@@ -18875,6 +18963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153600,
+      "num": 153600,
+      "word": "董明珠说为格力省了十几亿广告费",
+      "onboard_time": 1741756765,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153500,
       "num": 153500,
       "word": "边伯贤合作曲MV",
@@ -19137,6 +19233,14 @@
       "onboard_time": 1741441344,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 151891,
+      "num": 311669,
+      "word": "为什么我的银行卡我说了不算",
+      "onboard_time": 1741753644,
+      "rank": 40,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 151848,
@@ -20337,6 +20441,14 @@
       "onboard_time": 1741343842,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 142043,
+      "num": 142043,
+      "word": "王艺迪11比8伊藤美诚",
+      "onboard_time": 1741756645,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 142022,
@@ -22139,6 +22251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 128581,
+      "num": 155222,
+      "word": "郑钦文vs科斯秋克",
+      "onboard_time": 1741756823,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128491,
       "num": 128491,
       "word": "哈登单节23分",
@@ -22435,6 +22555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126822,
+      "num": 126822,
+      "word": "绝美哪吒与敖丙",
+      "onboard_time": 1741754786,
+      "rank": 44,
+      "category": "动漫,电影"
+    },
+    {
       "raw_hot": 126742,
       "num": 242809,
       "word": "中方对美提以其人之道还治其人之身",
@@ -22635,14 +22763,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 125913,
-      "num": 311669,
-      "word": "为什么我的银行卡我说了不算",
-      "onboard_time": 1741753644,
-      "rank": 40,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 125889,
       "num": 125889,
       "word": "30秒了解植树节冷知识",
@@ -22833,6 +22953,14 @@
       "onboard_time": 1741139058,
       "rank": 33,
       "category": "国内时政,互联网"
+    },
+    {
+      "raw_hot": 124806,
+      "num": 299315,
+      "word": "杨铭宇黄焖鸡正联系涉事门店关店整改",
+      "onboard_time": 1741756165,
+      "rank": 13,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 124765,
@@ -28161,6 +28289,14 @@
       "onboard_time": 1740877457,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 89084,
+      "num": 284950,
+      "word": "papi看到胡彦斌的手串眼里都在放光",
+      "onboard_time": 1741756405,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 89077,
@@ -33529,6 +33665,14 @@
       "onboard_time": 1741616966,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 30252,
+      "num": 297941,
+      "word": "男子2毛买AI彩票预测被骗2万多",
+      "onboard_time": 1741756043,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 30050,

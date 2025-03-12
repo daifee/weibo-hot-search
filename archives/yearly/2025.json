@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1741754650443,
+  "endTime": 1741756984607,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1128,6 +1128,14 @@
       "word": "张凌赫的红包",
       "onboard_time": 1738057404,
       "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3554286,
+      "num": 301889,
+      "word": "韩媒再曝金秀贤金赛纶亲密照",
+      "onboard_time": 1741756765,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -2393,14 +2401,6 @@
       "onboard_time": 1737191118,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2523138,
-      "num": 2523138,
-      "word": "王星终于与女友见面了",
-      "onboard_time": 1736322984,
-      "rank": 0,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
