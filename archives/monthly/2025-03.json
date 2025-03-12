@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741807173753,
+  "endTime": 1741808179687,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -36700,7 +36700,7 @@
     },
     {
       "raw_hot": 21589,
-      "num": 21589,
+      "num": 27687,
       "word": "于适又双叒叕有新身份",
       "onboard_time": 1741805775,
       "rank": 27,
@@ -36737,6 +36737,14 @@
       "onboard_time": 1740942012,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 21487,
+      "num": 27645,
+      "word": "特朗普自称特朗普永远是对的",
+      "onboard_time": 1741805594,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 21467,
@@ -36873,14 +36881,6 @@
       "onboard_time": 1741216875,
       "rank": 48,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 20171,
-      "num": 20171,
-      "word": "特朗普自称特朗普永远是对的",
-      "onboard_time": 1741805594,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 20050,
@@ -37617,6 +37617,14 @@
       "onboard_time": 1741288333,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 13889,
+      "num": 27482,
+      "word": "虞书欣林一甜燃开启",
+      "onboard_time": 1741807874,
+      "rank": 49,
+      "category": "幽默,电竞"
     },
     {
       "raw_hot": 13873,

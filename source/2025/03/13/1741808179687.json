@@ -1,0 +1,410 @@
+{
+  "runTime": 1741808179687,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 140108,
+        "num": 140108,
+        "word": "顾茜茜抖音账号被永久封禁",
+        "onboard_time": 1741780343,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 73861,
+        "num": 73861,
+        "word": "婚前闹掰男方追讨37万女方判还3万",
+        "onboard_time": 1741800977,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11009,
+        "num": 51101,
+        "word": "2025政府工作报告全文",
+        "onboard_time": 1741776686,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 44400,
+        "num": 44400,
+        "word": "多名外卖小哥提醒避雷黄焖鸡",
+        "onboard_time": 1741769120,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43445,
+        "num": 43445,
+        "word": "女子通一次马桶被收费3180元",
+        "onboard_time": 1741781124,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 96090,
+        "num": 42357,
+        "word": "特朗普衰退",
+        "onboard_time": 1741790065,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 40072,
+        "num": 40072,
+        "word": "美国正陷入人为制造的衰退",
+        "onboard_time": 1741799058,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 36188,
+        "num": 36188,
+        "word": "檀健次吻戏把人看红温了",
+        "onboard_time": 1741796782,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35376,
+        "num": 35376,
+        "word": "肖战 谍报上不封顶",
+        "onboard_time": 1741791266,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 34986,
+        "num": 34986,
+        "word": "春捂是要捂到什么时候",
+        "onboard_time": 1741795762,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115529,
+        "num": 34820,
+        "word": "金秀贤私发给金赛纶的照片",
+        "onboard_time": 1741789045,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60149,
+        "num": 34568,
+        "word": "朝海底捞锅底小便男子赔偿或达百万",
+        "onboard_time": 1741788146,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41722,
+        "num": 34268,
+        "word": "官方回应拦截的900只猫被活埋",
+        "onboard_time": 1741779923,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36978,
+        "num": 33872,
+        "word": "韩国陈学冬",
+        "onboard_time": 1741778604,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 33869,
+        "num": 33869,
+        "word": "女子760万买房住了1年发现是凶宅",
+        "onboard_time": 1741772843,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90799,
+        "num": 33768,
+        "word": "金秀贤在信里说我爱你赛纶",
+        "onboard_time": 1741774582,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31828,
+        "num": 31828,
+        "word": "晚宴的迪丽热巴",
+        "onboard_time": 1741789287,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 30411,
+        "num": 30411,
+        "word": "老外为证明没说谎带邻居来中国",
+        "onboard_time": 1741788325,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30124,
+        "num": 30124,
+        "word": "52岁中国驻外大使李岩逝世",
+        "onboard_time": 1741785504,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26004,
+        "num": 28350,
+        "word": "没人说嘘国王在冬眠这么好笑啊",
+        "onboard_time": 1741804035,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47102,
+        "num": 28285,
+        "word": "带偏瘫妻子跑车4年司机交新女友",
+        "onboard_time": 1741791566,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27721,
+        "num": 27721,
+        "word": "日本女孩直播时被杀粉丝全程目睹",
+        "onboard_time": 1741774943,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 25206,
+        "num": 27720,
+        "word": "崔显旭 金赛纶酒驾副驾驶",
+        "onboard_time": 1741775306,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23361,
+        "num": 27706,
+        "word": "刚baby baby几天就塌了",
+        "onboard_time": 1741760663,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21870,
+        "num": 27701,
+        "word": "网购500元假茅台官方扫码为真",
+        "onboard_time": 1741792106,
+        "rank": 24,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 21752,
+        "num": 27687,
+        "word": "脂肪是如何排出体外的",
+        "onboard_time": 1741781724,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 21414,
+        "num": 27687,
+        "word": "于适又双叒叕有新身份",
+        "onboard_time": 1741805775,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20555,
+        "num": 27674,
+        "word": "迪丽热巴大波浪发型回归",
+        "onboard_time": 1741796241,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 19001,
+        "num": 27666,
+        "word": "罗云熙申请加入这场光影游戏",
+        "onboard_time": 1741799837,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17312,
+        "num": 27657,
+        "word": "李行亮经纪人回应麦琳被抵制",
+        "onboard_time": 1741791207,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21487,
+        "num": 27645,
+        "word": "特朗普自称特朗普永远是对的",
+        "onboard_time": 1741805594,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19987,
+        "num": 27642,
+        "word": "每一个人都是主角",
+        "onboard_time": 1741791744,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19370,
+        "num": 27633,
+        "word": "父亲想要儿子连生9个女儿",
+        "onboard_time": 1741773503,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19325,
+        "num": 27624,
+        "word": "原央视主持人赵普回应保安出身",
+        "onboard_time": 1741775605,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19183,
+        "num": 27608,
+        "word": "凌晨出警安抚74岁女儿照顾96岁妈妈",
+        "onboard_time": 1741777704,
+        "rank": 34,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 19084,
+        "num": 27608,
+        "word": "KC零封TES",
+        "onboard_time": 1741778905,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19039,
+        "num": 27596,
+        "word": "解说雨童离职",
+        "onboard_time": 1741794263,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 18674,
+        "num": 27585,
+        "word": "羽绒服可以机洗吗",
+        "onboard_time": 1741796002,
+        "rank": 37,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 18496,
+        "num": 27581,
+        "word": "杨铭宇黄焖鸡道歉",
+        "onboard_time": 1741763723,
+        "rank": 38,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 17793,
+        "num": 27571,
+        "word": "潘宏团队回应4000元训狗染病",
+        "onboard_time": 1741792344,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17616,
+        "num": 27561,
+        "word": "金赛纶生前最后一次露面",
+        "onboard_time": 1741767383,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16692,
+        "num": 27548,
+        "word": "沈腾 斯内普",
+        "onboard_time": 1741787126,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15930,
+        "num": 27542,
+        "word": "微短剧半壁江山都来了",
+        "onboard_time": 1741792646,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15222,
+        "num": 27537,
+        "word": "天若有情 含金量",
+        "onboard_time": 1741790005,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15103,
+        "num": 27522,
+        "word": "留几手回应大龄矫正牙齿",
+        "onboard_time": 1741799598,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14938,
+        "num": 27516,
+        "word": "TES 大满败",
+        "onboard_time": 1741781545,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14875,
+        "num": 27504,
+        "word": "马拉多纳死亡案真相大白",
+        "onboard_time": 1741775064,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14458,
+        "num": 27500,
+        "word": "欧盟计划对260亿欧元美国商品征收关税",
+        "onboard_time": 1741800736,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14421,
+        "num": 27487,
+        "word": "伊朗总统回应特朗普军事威胁",
+        "onboard_time": 1741801995,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 13889,
+        "num": 27482,
+        "word": "虞书欣林一甜燃开启",
+        "onboard_time": 1741807874,
+        "rank": 49,
+        "category": "幽默,电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代的华彩乐章#"
+    }
+  }
+}
