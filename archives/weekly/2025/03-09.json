@@ -1,12 +1,20 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741772385983,
+  "endTime": 1741775126162,
   "band_list": [
     {
       "raw_hot": 21330054,
       "num": 21330054,
       "word": "金秀贤金赛纶亲吻照",
       "onboard_time": 1741687164,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 9060188,
+      "num": 9060188,
+      "word": "金秀贤在信里说我爱你赛纶",
+      "onboard_time": 1741774582,
       "rank": 10,
       "category": "艺人"
     },
@@ -32,6 +40,14 @@
       "word": "金秀贤方说绝不让步",
       "onboard_time": 1741700184,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3359002,
+      "num": 335946,
+      "word": "金秀贤金赛纶亲吻照再曝",
+      "onboard_time": 1741774104,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 1809853,
-      "num": 394389,
+      "num": 410139,
       "word": "刚baby baby几天就塌了",
       "onboard_time": 1741760663,
       "rank": 20,
@@ -409,6 +425,14 @@
       "onboard_time": 1741608625,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1414876,
+      "num": 1414876,
+      "word": "N号房事件后性同意年龄提至16岁",
+      "onboard_time": 1741773443,
+      "rank": 1,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1405484,
@@ -1243,6 +1267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 690269,
+      "num": 690269,
+      "word": "女子760万买房住了1年发现是凶宅",
+      "onboard_time": 1741772843,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 684457,
       "num": 684457,
       "word": "住宅层高标准将不低于3米",
@@ -1651,6 +1683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 547627,
+      "num": 547627,
+      "word": "念无双 定档",
+      "onboard_time": 1741772783,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 543424,
       "num": 543424,
       "word": "外交部回应中国台湾省称谓",
@@ -1668,7 +1708,7 @@
     },
     {
       "raw_hot": 533601,
-      "num": 238629,
+      "num": 407721,
       "word": "权志龙综艺",
       "onboard_time": 1741768463,
       "rank": 18,
@@ -1761,6 +1801,14 @@
       "onboard_time": 1741738461,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 505292,
+      "num": 505292,
+      "word": "162万元买到火灾房",
+      "onboard_time": 1741771043,
+      "rank": 32,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 504904,
@@ -2148,7 +2196,7 @@
     },
     {
       "raw_hot": 419649,
-      "num": 419649,
+      "num": 448808,
       "word": "王一博胡兵 胡萝卜",
       "onboard_time": 1741764023,
       "rank": 41,
@@ -2185,6 +2233,14 @@
       "onboard_time": 1741677262,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 406816,
+      "num": 406816,
+      "word": "六旬教授疑因考核不合格怒发罪己诏",
+      "onboard_time": 1741769903,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 405181,
@@ -2345,6 +2401,14 @@
       "onboard_time": 1741497981,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 385806,
+      "num": 385806,
+      "word": "父亲想要儿子连生9个女儿",
+      "onboard_time": 1741773503,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 384398,
@@ -2699,6 +2763,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 344532,
+      "num": 184037,
+      "word": "D社与金赛纶聊天记录",
+      "onboard_time": 1741774582,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 344172,
       "num": 213204,
       "word": "戒掉熬夜强制早睡的小tips",
@@ -2729,6 +2801,14 @@
       "onboard_time": 1741532065,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 340742,
+      "num": 440232,
+      "word": "律师称3岁智商产妇没有性同意能力",
+      "onboard_time": 1741771463,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 340127,
@@ -2899,6 +2979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 324923,
+      "num": 324923,
+      "word": "美乌发布联合声明",
+      "onboard_time": 1741772602,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 324007,
       "num": 264922,
       "word": "赵露思CT全球代言人",
@@ -3009,14 +3097,6 @@
       "onboard_time": 1741689263,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 303780,
-      "num": 303780,
-      "word": "162万元买到火灾房",
-      "onboard_time": 1741771043,
-      "rank": 32,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 303549,
@@ -3211,6 +3291,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 287196,
+      "num": 170460,
+      "word": "韩国胶鞋寓意",
+      "onboard_time": 1741773805,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 286563,
       "num": 286563,
       "word": "赵樱子谈及原生家庭崩溃大哭",
@@ -3276,7 +3364,7 @@
     },
     {
       "raw_hot": 278280,
-      "num": 278280,
+      "num": 326649,
       "word": "朴彩英车银优外媒生图",
       "onboard_time": 1741769303,
       "rank": 18,
@@ -4019,12 +4107,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 222614,
-      "num": 222614,
-      "word": "律师称3岁智商产妇没有性同意能力",
-      "onboard_time": 1741771463,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 222303,
+      "num": 356650,
+      "word": "白鹿打开十年前相册",
+      "onboard_time": 1741773023,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 222149,
@@ -4473,6 +4561,14 @@
       "onboard_time": 1741489462,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199822,
+      "num": 351391,
+      "word": "王源想邀请哪吒敖丙当演唱会嘉宾",
+      "onboard_time": 1741774284,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 199729,
@@ -4955,6 +5051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184648,
+      "num": 184648,
+      "word": "哪吒2冲刺150亿票房新纪录",
+      "onboard_time": 1741774343,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 184169,
       "num": 184169,
       "word": "吴磊那一天的凌晨两点",
@@ -5363,6 +5467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169646,
+      "num": 169646,
+      "word": "委员谈为什么医生自己不做近视手术",
+      "onboard_time": 1741774222,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 169577,
       "num": 253939,
       "word": "卫枝穿搭",
@@ -5755,6 +5867,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 161347,
+      "num": 161347,
+      "word": "佛山一小区业主装修骨灰房被投诉",
+      "onboard_time": 1741773503,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161084,
       "num": 161084,
       "word": "白鹿早啊晚安",
@@ -5889,14 +6009,6 @@
       "onboard_time": 1741498040,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 156439,
-      "num": 228970,
-      "word": "六旬教授疑因考核不合格怒发罪己诏",
-      "onboard_time": 1741769903,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 156308,
@@ -6227,6 +6339,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149309,
+      "num": 149309,
+      "word": "贺峻霖vlog",
+      "onboard_time": 1741774164,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 149060,
+      "num": 149060,
+      "word": "王楚钦说打卡不了重庆景点",
+      "onboard_time": 1741772483,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148995,
       "num": 148995,
       "word": "石凯怎么叫粉丝兄弟啊",
@@ -6409,6 +6537,14 @@
       "onboard_time": 1741595481,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143841,
+      "num": 143841,
+      "word": "日本女孩直播时被杀粉丝全程目睹",
+      "onboard_time": 1741774943,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 143703,
@@ -6883,6 +7019,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 133679,
+      "num": 133679,
+      "word": "海底捞补偿力度",
+      "onboard_time": 1741773925,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133518,
       "num": 214915,
       "word": "Jennie回归成绩",
@@ -7251,6 +7395,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 125178,
+      "num": 125178,
+      "word": "夏以昼鸡哔你",
+      "onboard_time": 1741773503,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 124924,
       "num": 179547,
       "word": "假顺风车为何人人喊打",
@@ -7505,6 +7657,14 @@
       "onboard_time": 1741577901,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 121820,
+      "num": 121820,
+      "word": "马拉多纳死亡案真相大白",
+      "onboard_time": 1741775064,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 121813,
@@ -8339,6 +8499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108101,
+      "num": 108101,
+      "word": "王楚钦说阿鲁纳是被观众吓到了",
+      "onboard_time": 1741774765,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107956,
       "num": 163755,
       "word": "浓眉谈与东契奇互换东家",
@@ -8425,6 +8593,14 @@
       "onboard_time": 1741560917,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 106291,
+      "num": 106291,
+      "word": "清华公布2025年考研复试线",
+      "onboard_time": 1741772902,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 106178,
@@ -9459,6 +9635,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 85746,
+      "num": 362038,
+      "word": "MiuMiu风穿搭",
+      "onboard_time": 1741772363,
+      "rank": 49,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 85690,
       "num": 85690,
       "word": "丞磊王楚然新剧钓鱼路透",
@@ -10443,14 +10627,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 48771,
-      "num": 90171,
-      "word": "MiuMiu风穿搭",
-      "onboard_time": 1741772363,
-      "rank": 49,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 48710,
       "num": 48710,
       "word": "何苏叶穿着奶牛拖鞋一路把人亲进卧室",
@@ -10539,6 +10715,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 44871,
+      "num": 150652,
+      "word": "第三者求助原配收拾男子另一外遇",
+      "onboard_time": 1741773263,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44474,
       "num": 234433,
       "word": "欧豪回应和白鹿首次合作",
@@ -10596,7 +10780,7 @@
     },
     {
       "raw_hot": 42283,
-      "num": 849342,
+      "num": 982043,
       "word": "2025奋进中国",
       "onboard_time": 1741750883,
       "rank": 2,
@@ -10777,6 +10961,14 @@
       "onboard_time": 1741603882,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 38021,
+      "num": 346809,
+      "word": "12岁男孩用压岁钱买手机家人投诉退款",
+      "onboard_time": 1741774284,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37976,
@@ -10971,6 +11163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32610,
+      "num": 145761,
+      "word": "为什么在春天反而会抑郁",
+      "onboard_time": 1741773741,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 32530,
       "num": 35030,
       "word": "刘宇伯远段奥娟阳光男孩女孩",
@@ -10993,6 +11193,14 @@
       "onboard_time": 1741750044,
       "rank": 15,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 31741,
+      "num": 148485,
+      "word": "郑钦文感觉越来越好了",
+      "onboard_time": 1741773863,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 31473,
@@ -11097,6 +11305,14 @@
       "onboard_time": 1741511061,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 28924,
+      "num": 148513,
+      "word": "刘雯手提鞋子踮起脚尖淡定走秀",
+      "onboard_time": 1741775064,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 28759,

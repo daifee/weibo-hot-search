@@ -1,0 +1,410 @@
+{
+  "runTime": 1741775126162,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1576580,
+        "num": 1576580,
+        "word": "多名外卖小哥提醒避雷黄焖鸡",
+        "onboard_time": 1741769120,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1414876,
+        "num": 1414876,
+        "word": "N号房事件后性同意年龄提至16岁",
+        "onboard_time": 1741773443,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 27113,
+        "num": 982043,
+        "word": "2025奋进中国",
+        "onboard_time": 1741750883,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 936509,
+        "num": 936509,
+        "word": "杨铭宇黄焖鸡道歉",
+        "onboard_time": 1741763723,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 690269,
+        "num": 690269,
+        "word": "女子760万买房住了1年发现是凶宅",
+        "onboard_time": 1741772843,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 547627,
+        "num": 547627,
+        "word": "念无双 定档",
+        "onboard_time": 1741772783,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 505292,
+        "num": 505292,
+        "word": "162万元买到火灾房",
+        "onboard_time": 1741771043,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 462489,
+        "num": 462489,
+        "word": "DeepSeek眼中不会被AI替代的职业",
+        "onboard_time": 1741757363,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 371983,
+        "num": 448808,
+        "word": "王一博胡兵 胡萝卜",
+        "onboard_time": 1741764023,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 340742,
+        "num": 440232,
+        "word": "律师称3岁智商产妇没有性同意能力",
+        "onboard_time": 1741771463,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9060188,
+        "num": 9060188,
+        "word": "金秀贤在信里说我爱你赛纶",
+        "onboard_time": 1741774582,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 746949,
+        "num": 410139,
+        "word": "刚baby baby几天就塌了",
+        "onboard_time": 1741760663,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407721,
+        "num": 407721,
+        "word": "权志龙综艺",
+        "onboard_time": 1741768463,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406816,
+        "num": 406816,
+        "word": "六旬教授疑因考核不合格怒发罪己诏",
+        "onboard_time": 1741769903,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 385806,
+        "num": 385806,
+        "word": "父亲想要儿子连生9个女儿",
+        "onboard_time": 1741773503,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85746,
+        "num": 362038,
+        "word": "MiuMiu风穿搭",
+        "onboard_time": 1741772363,
+        "rank": 15,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 357992,
+        "num": 357992,
+        "word": "迪丽热巴迪奥高珠展造型",
+        "onboard_time": 1741768283,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 222303,
+        "num": 356650,
+        "word": "白鹿打开十年前相册",
+        "onboard_time": 1741773023,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199822,
+        "num": 351391,
+        "word": "王源想邀请哪吒敖丙当演唱会嘉宾",
+        "onboard_time": 1741774284,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 38021,
+        "num": 346809,
+        "word": "12岁男孩用压岁钱买手机家人投诉退款",
+        "onboard_time": 1741774284,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3359002,
+        "num": 335946,
+        "word": "金秀贤金赛纶亲吻照再曝",
+        "onboard_time": 1741774104,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359652,
+        "num": 330728,
+        "word": "不懂金秀贤做错什么了的韩男们",
+        "onboard_time": 1741754965,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193534,
+        "num": 326649,
+        "word": "朴彩英车银优外媒生图",
+        "onboard_time": 1741769303,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 324923,
+        "num": 324923,
+        "word": "美乌发布联合声明",
+        "onboard_time": 1741772602,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 184648,
+        "num": 184648,
+        "word": "哪吒2冲刺150亿票房新纪录",
+        "onboard_time": 1741774343,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 344532,
+        "num": 184037,
+        "word": "D社与金赛纶聊天记录",
+        "onboard_time": 1741774582,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182707,
+        "num": 182707,
+        "word": "韩国低于性同意年龄均视为强奸",
+        "onboard_time": 1741755385,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182550,
+        "num": 182550,
+        "word": "27岁已婚女主播骗榜一大哥半年刷19万",
+        "onboard_time": 1741767323,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180054,
+        "num": 180054,
+        "word": "以为在减肥实际在增肥的行为",
+        "onboard_time": 1741768163,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 170643,
+        "num": 170643,
+        "word": "杨铭宇黄焖鸡隔夜鸡肉优先出售",
+        "onboard_time": 1741753825,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 287196,
+        "num": 170460,
+        "word": "韩国胶鞋寓意",
+        "onboard_time": 1741773805,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169646,
+        "num": 169646,
+        "word": "委员谈为什么医生自己不做近视手术",
+        "onboard_time": 1741774222,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 161347,
+        "num": 161347,
+        "word": "佛山一小区业主装修骨灰房被投诉",
+        "onboard_time": 1741773503,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44871,
+        "num": 150652,
+        "word": "第三者求助原配收拾男子另一外遇",
+        "onboard_time": 1741773263,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149309,
+        "num": 149309,
+        "word": "贺峻霖vlog",
+        "onboard_time": 1741774164,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149060,
+        "num": 149060,
+        "word": "王楚钦说打卡不了重庆景点",
+        "onboard_time": 1741772483,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28924,
+        "num": 148513,
+        "word": "刘雯手提鞋子踮起脚尖淡定走秀",
+        "onboard_time": 1741775064,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 31741,
+        "num": 148485,
+        "word": "郑钦文感觉越来越好了",
+        "onboard_time": 1741773863,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148462,
+        "num": 148462,
+        "word": "网传任正非赴成都封楼抓人不实",
+        "onboard_time": 1741772302,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32610,
+        "num": 145761,
+        "word": "为什么在春天反而会抑郁",
+        "onboard_time": 1741773741,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143841,
+        "num": 143841,
+        "word": "日本女孩直播时被杀粉丝全程目睹",
+        "onboard_time": 1741774943,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 133679,
+        "num": 133679,
+        "word": "海底捞补偿力度",
+        "onboard_time": 1741773925,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131504,
+        "num": 131504,
+        "word": "aespa官方玩偶",
+        "onboard_time": 1741772005,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 125178,
+        "num": 125178,
+        "word": "夏以昼鸡哔你",
+        "onboard_time": 1741773503,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121820,
+        "num": 121820,
+        "word": "马拉多纳死亡案真相大白",
+        "onboard_time": 1741775064,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111630,
+        "num": 111630,
+        "word": "伊朗总统告诉特朗普想做什么就做",
+        "onboard_time": 1741771043,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108101,
+        "num": 108101,
+        "word": "王楚钦说阿鲁纳是被观众吓到了",
+        "onboard_time": 1741774765,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107708,
+        "num": 107708,
+        "word": "凌妙妙一觉醒来什么都有了",
+        "onboard_time": 1741766123,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106291,
+        "num": 106291,
+        "word": "清华公布2025年考研复试线",
+        "onboard_time": 1741772902,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 106738,
+        "num": 102706,
+        "word": "林一角色号发了虞书欣未公开图",
+        "onboard_time": 1741763542,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#植树就是植未来#"
+    }
+  }
+}

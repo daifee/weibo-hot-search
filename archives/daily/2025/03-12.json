@@ -1,13 +1,29 @@
 {
   "startTime": 1741710703289,
-  "endTime": 1741772385983,
+  "endTime": 1741775126162,
   "band_list": [
+    {
+      "raw_hot": 9060188,
+      "num": 9060188,
+      "word": "金秀贤在信里说我爱你赛纶",
+      "onboard_time": 1741774582,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 6671283,
       "num": 6671283,
       "word": "韩媒再曝金秀贤金赛纶亲密照",
       "onboard_time": 1741756765,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3359002,
+      "num": 335946,
+      "word": "金秀贤金赛纶亲吻照再曝",
+      "onboard_time": 1741774104,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -84,7 +100,7 @@
     },
     {
       "raw_hot": 1809853,
-      "num": 394389,
+      "num": 410139,
       "word": "刚baby baby几天就塌了",
       "onboard_time": 1741760663,
       "rank": 20,
@@ -137,6 +153,14 @@
       "onboard_time": 1741728014,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1414876,
+      "num": 1414876,
+      "word": "N号房事件后性同意年龄提至16岁",
+      "onboard_time": 1741773443,
+      "rank": 1,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1353238,
@@ -243,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 690269,
+      "num": 690269,
+      "word": "女子760万买房住了1年发现是凶宅",
+      "onboard_time": 1741772843,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 657348,
       "num": 330661,
       "word": "麦琳参加综艺被网友抵制举报",
@@ -307,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 547627,
+      "num": 547627,
+      "word": "念无双 定档",
+      "onboard_time": 1741772783,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 543182,
       "num": 362370,
       "word": "向佐开10个小时车去找郭碧婷",
@@ -316,7 +356,7 @@
     },
     {
       "raw_hot": 533601,
-      "num": 238629,
+      "num": 407721,
       "word": "权志龙综艺",
       "onboard_time": 1741768463,
       "rank": 18,
@@ -337,6 +377,14 @@
       "onboard_time": 1741738461,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 505292,
+      "num": 505292,
+      "word": "162万元买到火灾房",
+      "onboard_time": 1741771043,
+      "rank": 32,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 501078,
@@ -468,11 +516,19 @@
     },
     {
       "raw_hot": 419649,
-      "num": 419649,
+      "num": 448808,
       "word": "王一博胡兵 胡萝卜",
       "onboard_time": 1741764023,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 406816,
+      "num": 406816,
+      "word": "六旬教授疑因考核不合格怒发罪己诏",
+      "onboard_time": 1741769903,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 405432,
@@ -547,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 385806,
+      "num": 385806,
+      "word": "父亲想要儿子连生9个女儿",
+      "onboard_time": 1741773503,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 384398,
       "num": 384398,
       "word": "海底捞就男子向火锅小便事件发声明",
@@ -619,6 +683,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 344532,
+      "num": 184037,
+      "word": "D社与金赛纶聊天记录",
+      "onboard_time": 1741774582,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 343705,
       "num": 226650,
       "word": "疑似金赛纶酒驾原因",
@@ -635,20 +707,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 340742,
+      "num": 440232,
+      "word": "律师称3岁智商产妇没有性同意能力",
+      "onboard_time": 1741771463,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 324923,
+      "num": 324923,
+      "word": "美乌发布联合声明",
+      "onboard_time": 1741772602,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 322772,
       "num": 322772,
       "word": "20年前的电子垃圾为何被炒出天价",
       "onboard_time": 1741752445,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 303780,
-      "num": 303780,
-      "word": "162万元买到火灾房",
-      "onboard_time": 1741771043,
-      "rank": 32,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 302565,
@@ -683,6 +763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 287196,
+      "num": 170460,
+      "word": "韩国胶鞋寓意",
+      "onboard_time": 1741773805,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284710,
       "num": 134080,
       "word": "余承东辟谣和刘亦菲恋情",
@@ -708,7 +796,7 @@
     },
     {
       "raw_hot": 278280,
-      "num": 278280,
+      "num": 326649,
       "word": "朴彩英车银优外媒生图",
       "onboard_time": 1741769303,
       "rank": 18,
@@ -867,12 +955,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 222614,
-      "num": 222614,
-      "word": "律师称3岁智商产妇没有性同意能力",
-      "onboard_time": 1741771463,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 222303,
+      "num": 356650,
+      "word": "白鹿打开十年前相册",
+      "onboard_time": 1741773023,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 221009,
@@ -979,6 +1067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199822,
+      "num": 351391,
+      "word": "王源想邀请哪吒敖丙当演唱会嘉宾",
+      "onboard_time": 1741774284,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 199729,
       "num": 338074,
       "word": "在长久的婚姻中爱不是秘诀",
@@ -1081,6 +1177,14 @@
       "onboard_time": 1741753405,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184648,
+      "num": 184648,
+      "word": "哪吒2冲刺150亿票房新纪录",
+      "onboard_time": 1741774343,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 184169,
@@ -1195,6 +1299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169646,
+      "num": 169646,
+      "word": "委员谈为什么医生自己不做近视手术",
+      "onboard_time": 1741774222,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 168790,
       "num": 229503,
       "word": "菲总统回应逮捕杜特尔特",
@@ -1291,6 +1403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161347,
+      "num": 161347,
+      "word": "佛山一小区业主装修骨灰房被投诉",
+      "onboard_time": 1741773503,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159483,
       "num": 159483,
       "word": "于适晚宴与外国人斗舞",
@@ -1321,14 +1441,6 @@
       "onboard_time": 1741750282,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 156439,
-      "num": 228970,
-      "word": "六旬教授疑因考核不合格怒发罪己诏",
-      "onboard_time": 1741769903,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 155325,
@@ -1419,12 +1531,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149309,
+      "num": 149309,
+      "word": "贺峻霖vlog",
+      "onboard_time": 1741774164,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 149060,
+      "num": 149060,
+      "word": "王楚钦说打卡不了重庆景点",
+      "onboard_time": 1741772483,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147720,
       "num": 147720,
       "word": "杨铭宇黄焖鸡回应被曝后厨乱象",
       "onboard_time": 1741754486,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143841,
+      "num": 143841,
+      "word": "日本女孩直播时被杀粉丝全程目睹",
+      "onboard_time": 1741774943,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 142043,
@@ -1515,6 +1651,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 133679,
+      "num": 133679,
+      "word": "海底捞补偿力度",
+      "onboard_time": 1741773925,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133518,
       "num": 214915,
       "word": "Jennie回归成绩",
@@ -1595,6 +1739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125178,
+      "num": 125178,
+      "word": "夏以昼鸡哔你",
+      "onboard_time": 1741773503,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 124924,
       "num": 179547,
       "word": "假顺风车为何人人喊打",
@@ -1641,6 +1793,14 @@
       "onboard_time": 1741709781,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121820,
+      "num": 121820,
+      "word": "马拉多纳死亡案真相大白",
+      "onboard_time": 1741775064,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 121712,
@@ -1795,12 +1955,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108101,
+      "num": 108101,
+      "word": "王楚钦说阿鲁纳是被观众吓到了",
+      "onboard_time": 1741774765,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106726,
       "num": 172668,
       "word": "杜特尔特被捕",
       "onboard_time": 1741664543,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 106291,
+      "num": 106291,
+      "word": "清华公布2025年考研复试线",
+      "onboard_time": 1741772902,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 105632,
@@ -1969,6 +2145,14 @@
       "onboard_time": 1741692263,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 85746,
+      "num": 362038,
+      "word": "MiuMiu风穿搭",
+      "onboard_time": 1741772363,
+      "rank": 49,
+      "category": "时尚"
     },
     {
       "raw_hot": 83275,
@@ -2211,14 +2395,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 48771,
-      "num": 90171,
-      "word": "MiuMiu风穿搭",
-      "onboard_time": 1741772363,
-      "rank": 49,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 46577,
       "num": 227316,
       "word": "巴萨3比1本菲卡",
@@ -2259,6 +2435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44871,
+      "num": 150652,
+      "word": "第三者求助原配收拾男子另一外遇",
+      "onboard_time": 1741773263,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44474,
       "num": 234433,
       "word": "欧豪回应和白鹿首次合作",
@@ -2276,7 +2460,7 @@
     },
     {
       "raw_hot": 42283,
-      "num": 849342,
+      "num": 982043,
       "word": "2025奋进中国",
       "onboard_time": 1741750883,
       "rank": 2,
@@ -2305,6 +2489,14 @@
       "onboard_time": 1741711340,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 38021,
+      "num": 346809,
+      "word": "12岁男孩用压岁钱买手机家人投诉退款",
+      "onboard_time": 1741774284,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37395,
@@ -2339,12 +2531,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32610,
+      "num": 145761,
+      "word": "为什么在春天反而会抑郁",
+      "onboard_time": 1741773741,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 31903,
       "num": 350033,
       "word": "有黄金回收报价超大盘100元引流",
       "onboard_time": 1741750044,
       "rank": 15,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 31741,
+      "num": 148485,
+      "word": "郑钦文感觉越来越好了",
+      "onboard_time": 1741773863,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 31473,
@@ -2361,6 +2569,14 @@
       "onboard_time": 1741763243,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 28924,
+      "num": 148513,
+      "word": "刘雯手提鞋子踮起脚尖淡定走秀",
+      "onboard_time": 1741775064,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 28648,
