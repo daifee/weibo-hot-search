@@ -1,0 +1,410 @@
+{
+  "runTime": 1741771548557,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1895876,
+        "num": 1895876,
+        "word": "多名外卖小哥提醒避雷黄焖鸡",
+        "onboard_time": 1741769120,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1163772,
+        "num": 1163772,
+        "word": "杨铭宇黄焖鸡道歉",
+        "onboard_time": 1741763723,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 26489,
+        "num": 796378,
+        "word": "2025奋进中国",
+        "onboard_time": 1741750883,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 620802,
+        "num": 620802,
+        "word": "DeepSeek眼中不会被AI替代的职业",
+        "onboard_time": 1741757363,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 500772,
+        "num": 500772,
+        "word": "27岁已婚女主播骗榜一大哥半年刷19万",
+        "onboard_time": 1741767323,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 402218,
+        "num": 402218,
+        "word": "王一博胡兵 胡萝卜",
+        "onboard_time": 1741764023,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 337693,
+        "num": 337693,
+        "word": "迪丽热巴迪奥高珠展造型",
+        "onboard_time": 1741768283,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 336145,
+        "num": 336145,
+        "word": "杨铭宇黄焖鸡隔夜鸡肉优先出售",
+        "onboard_time": 1741753825,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 247890,
+        "num": 247890,
+        "word": "业内回应北京别墅被指直降7500万",
+        "onboard_time": 1741766723,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112581,
+        "num": 247130,
+        "word": "车流中这3个护送孩子的身影",
+        "onboard_time": 1741770562,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 2263029,
+        "num": 245060,
+        "word": "韩媒再曝金秀贤金赛纶亲密照",
+        "onboard_time": 1741756765,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 793543,
+        "num": 241898,
+        "word": "刚baby baby几天就塌了",
+        "onboard_time": 1741760663,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 533601,
+        "num": 238629,
+        "word": "权志龙综艺",
+        "onboard_time": 1741768463,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352991,
+        "num": 238012,
+        "word": "不懂金秀贤做错什么了的韩男们",
+        "onboard_time": 1741754965,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28875,
+        "num": 234433,
+        "word": "欧豪回应和白鹿首次合作",
+        "onboard_time": 1741770382,
+        "rank": 14,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 1782285,
+        "num": 231828,
+        "word": "金赛纶头七那天金秀贤发的泡泡",
+        "onboard_time": 1741768582,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230904,
+        "num": 230904,
+        "word": "韩国低于性同意年龄均视为强奸",
+        "onboard_time": 1741755385,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216339,
+        "num": 216339,
+        "word": "刘备新皮肤免费送",
+        "onboard_time": 1741770382,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 187513,
+        "num": 187513,
+        "word": "朴彩英车银优外媒生图",
+        "onboard_time": 1741769303,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 63797,
+        "num": 179547,
+        "word": "假顺风车为何人人喊打",
+        "onboard_time": 1741770382,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1948015,
+        "num": 178254,
+        "word": "海底捞补偿金额超千万元",
+        "onboard_time": 1741760604,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 501078,
+        "num": 178227,
+        "word": "以为在减肥实际在增肥的行为",
+        "onboard_time": 1741768163,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 175969,
+        "num": 175969,
+        "word": "于适亚洲电影大奖颁奖嘉宾",
+        "onboard_time": 1741770502,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 181926,
+        "num": 175819,
+        "word": "林一角色号发了虞书欣未公开图",
+        "onboard_time": 1741763542,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85423,
+        "num": 174917,
+        "word": "林昀儒回应频繁与林诗栋交手",
+        "onboard_time": 1741766723,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174770,
+        "num": 174770,
+        "word": "开具告诫书后家暴复发率不到2%",
+        "onboard_time": 1741767924,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163669,
+        "num": 163669,
+        "word": "张艺兴被小孩姐贴脸开大",
+        "onboard_time": 1741768044,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 173527,
+        "num": 163666,
+        "word": "铜川一医院被曝偷换新生儿",
+        "onboard_time": 1741751784,
+        "rank": 27,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 72321,
+        "num": 163574,
+        "word": "郑钦文教练事业运",
+        "onboard_time": 1741770624,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19409,
+        "num": 163543,
+        "word": "杨天真说夸克情商挺高",
+        "onboard_time": 1741769244,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163532,
+        "num": 163532,
+        "word": "凌妙妙一觉醒来什么都有了",
+        "onboard_time": 1741766123,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156439,
+        "num": 156439,
+        "word": "六旬教授疑因考核不合格怒发罪己诏",
+        "onboard_time": 1741769903,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154045,
+        "num": 154045,
+        "word": "162万元买到火灾房",
+        "onboard_time": 1741771043,
+        "rank": 32,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 150390,
+        "num": 150390,
+        "word": "你要是嗑CP",
+        "onboard_time": 1741762883,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139325,
+        "num": 139325,
+        "word": "2025KPL春季赛",
+        "onboard_time": 1741770382,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132014,
+        "num": 132014,
+        "word": "米和米真的不一样",
+        "onboard_time": 1741767323,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 123286,
+        "num": 123286,
+        "word": "眼泪女王",
+        "onboard_time": 1741755985,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119784,
+        "num": 119784,
+        "word": "孙中山逝世100周年",
+        "onboard_time": 1741760544,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 117535,
+        "num": 117535,
+        "word": "近视手术是一种奢侈美容",
+        "onboard_time": 1741750162,
+        "rank": 38,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 17957,
+        "num": 116527,
+        "word": "巴黎正义少年vs吉普赛小偷",
+        "onboard_time": 1741770443,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 116035,
+        "num": 116035,
+        "word": "董明珠回应格力造车进展",
+        "onboard_time": 1741769483,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 114725,
+        "num": 114725,
+        "word": "伊朗总统告诉特朗普想做什么就做",
+        "onboard_time": 1741771043,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109817,
+        "num": 109817,
+        "word": "董明珠说为格力省了十几亿广告费",
+        "onboard_time": 1741756765,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109734,
+        "num": 109734,
+        "word": "商务部等部门约谈沃尔玛",
+        "onboard_time": 1741758145,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108857,
+        "num": 108857,
+        "word": "百万网红千惠自曝患焦虑症",
+        "onboard_time": 1741762403,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107390,
+        "num": 107390,
+        "word": "云合",
+        "onboard_time": 1741768703,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104762,
+        "num": 104762,
+        "word": "刘雯走秀鞋子掉了",
+        "onboard_time": 1741758384,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 104099,
+        "num": 104099,
+        "word": "90后重度睡眠困扰不敌00后",
+        "onboard_time": 1741768943,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 98590,
+        "num": 98590,
+        "word": "人和猫都好命苦的样子",
+        "onboard_time": 1741767503,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97318,
+        "num": 97318,
+        "word": "律师称3岁智商产妇没有性同意能力",
+        "onboard_time": 1741771463,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会足迹#"
+    }
+  }
+}
