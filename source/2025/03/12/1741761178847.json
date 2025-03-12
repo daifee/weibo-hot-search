@@ -1,0 +1,410 @@
+{
+  "runTime": 1741761178847,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2247450,
+        "num": 2247450,
+        "word": "海底捞小便事件10倍现金补偿",
+        "onboard_time": 1741758145,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 739728,
+        "num": 739728,
+        "word": "铜川一医院被曝偷换新生儿",
+        "onboard_time": 1741751784,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 32425,
+        "num": 663508,
+        "word": "2025奋进中国",
+        "onboard_time": 1741750883,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 644380,
+        "num": 644380,
+        "word": "DeepSeek眼中不会被AI替代的职业",
+        "onboard_time": 1741757363,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 499001,
+        "num": 499001,
+        "word": "韩国低于性同意年龄均视为强奸",
+        "onboard_time": 1741755385,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415944,
+        "num": 415944,
+        "word": "海底捞已起诉两名小便男子",
+        "onboard_time": 1741758145,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 384456,
+        "num": 384456,
+        "word": "海底捞",
+        "onboard_time": 1741758623,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 384398,
+        "num": 384398,
+        "word": "海底捞就男子向火锅小便事件发声明",
+        "onboard_time": 1741757244,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334794,
+        "num": 334794,
+        "word": "黄明昊 你们好甜啊",
+        "onboard_time": 1741755264,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322091,
+        "num": 322091,
+        "word": "近视手术是一种奢侈美容",
+        "onboard_time": 1741750162,
+        "rank": 9,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 6671283,
+        "num": 6671283,
+        "word": "韩媒再曝金秀贤金赛纶亲密照",
+        "onboard_time": 1741756765,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 624650,
+        "num": 316209,
+        "word": "不懂金秀贤做错什么了的韩男们",
+        "onboard_time": 1741754965,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308629,
+        "num": 308629,
+        "word": "眼泪女王",
+        "onboard_time": 1741755985,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131000,
+        "num": 308187,
+        "word": "王楚钦3比0阿鲁纳",
+        "onboard_time": 1741760604,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38537,
+        "num": 307696,
+        "word": "年轻人植树节选择仪式感种树",
+        "onboard_time": 1741759284,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283443,
+        "num": 307075,
+        "word": "papi看到胡彦斌的手串眼里都在放光",
+        "onboard_time": 1741756405,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 230245,
+        "num": 306208,
+        "word": "嘘国王在冬眠 武大靖",
+        "onboard_time": 1741758264,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22484,
+        "num": 305595,
+        "word": "退休教授在阳台上搞核发电为谣言",
+        "onboard_time": 1741759523,
+        "rank": 17,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 38532,
+        "num": 304534,
+        "word": "美乌谈判俄军猛攻乌军",
+        "onboard_time": 1741760845,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 164052,
+        "num": 304182,
+        "word": "植树节发微博会发芽",
+        "onboard_time": 1741760783,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 371331,
+        "num": 303493,
+        "word": "刚baby baby几天就塌了",
+        "onboard_time": 1741760663,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1975514,
+        "num": 302713,
+        "word": "D社称金秀贤要钱只是走形式",
+        "onboard_time": 1741760544,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 823250,
+        "num": 301531,
+        "word": "元彬曾提出帮金赛纶偿还欠款",
+        "onboard_time": 1741750644,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 422986,
+        "num": 300719,
+        "word": "刘雯走秀鞋子掉了",
+        "onboard_time": 1741758384,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 300609,
+        "num": 300609,
+        "word": "杨铭宇黄焖鸡隔夜鸡肉优先出售",
+        "onboard_time": 1741753825,
+        "rank": 24,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 233613,
+        "num": 233613,
+        "word": "年轻人开始流行各种自带了",
+        "onboard_time": 1741742900,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228698,
+        "num": 228698,
+        "word": "少爷和我杀回来了",
+        "onboard_time": 1741755865,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227712,
+        "num": 227712,
+        "word": "王楚钦对战阿鲁纳",
+        "onboard_time": 1741760305,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153318,
+        "num": 221530,
+        "word": "周也考了芭蕾证书",
+        "onboard_time": 1741750342,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118520,
+        "num": 219807,
+        "word": "吴磊的骑行赛道还是太全面了",
+        "onboard_time": 1741760903,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218664,
+        "num": 218664,
+        "word": "海底捞补偿金额超千万元",
+        "onboard_time": 1741760604,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218653,
+        "num": 218653,
+        "word": "董明珠说为格力省了十几亿广告费",
+        "onboard_time": 1741756765,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208731,
+        "num": 208731,
+        "word": "杨铭宇黄焖鸡正联系涉事门店关店整改",
+        "onboard_time": 1741756165,
+        "rank": 32,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 191308,
+        "num": 191308,
+        "word": "孙中山逝世100周年",
+        "onboard_time": 1741760544,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 190643,
+        "num": 190643,
+        "word": "郑钦文vs科斯秋克",
+        "onboard_time": 1741756823,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182350,
+        "num": 182350,
+        "word": "AD钙奶这个味儿谁研究出来的",
+        "onboard_time": 1741754846,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 169657,
+        "num": 169657,
+        "word": "女生三年攒160个纸袋卖了180元",
+        "onboard_time": 1741752203,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162205,
+        "num": 162205,
+        "word": "商务部等部门约谈沃尔玛",
+        "onboard_time": 1741758145,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151767,
+        "num": 151767,
+        "word": "大侦探也是消费降级了",
+        "onboard_time": 1741756584,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31473,
+        "num": 145938,
+        "word": "早餐15分钟烤好的吐司披萨",
+        "onboard_time": 1741760364,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 143745,
+        "num": 143745,
+        "word": "世界十大影响力名人",
+        "onboard_time": 1741757786,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135330,
+        "num": 135330,
+        "word": "杨铭宇黄焖鸡剩菜回收再卖给顾客",
+        "onboard_time": 1741750824,
+        "rank": 41,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 130869,
+        "num": 130869,
+        "word": "20年前的电子垃圾为何被炒出天价",
+        "onboard_time": 1741752445,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128388,
+        "num": 128388,
+        "word": "苏打绿贝斯手馨仪离婚",
+        "onboard_time": 1741757065,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124751,
+        "num": 124751,
+        "word": "恋与制作人",
+        "onboard_time": 1741759644,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117425,
+        "num": 117425,
+        "word": "直播间买的百万金条不发货后续来了",
+        "onboard_time": 1741760484,
+        "rank": 45,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 116690,
+        "num": 116690,
+        "word": "杨铭宇黄焖鸡大量员工无证上岗",
+        "onboard_time": 1741758686,
+        "rank": 46,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 109993,
+        "num": 109993,
+        "word": "买不起黄金的年轻人盯上了债基",
+        "onboard_time": 1741761023,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 101825,
+        "num": 101825,
+        "word": "祭拜祖坟发现2墓穴被立他人墓碑",
+        "onboard_time": 1741752625,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100863,
+        "num": 100863,
+        "word": "乌克兰同意停火30天",
+        "onboard_time": 1741734557,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会足迹#"
+    }
+  }
+}

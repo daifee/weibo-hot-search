@@ -1,10 +1,10 @@
 {
   "startTime": 1741710703289,
-  "endTime": 1741758021107,
+  "endTime": 1741761178847,
   "band_list": [
     {
-      "raw_hot": 5861845,
-      "num": 5861845,
+      "raw_hot": 6671283,
+      "num": 6671283,
       "word": "韩媒再曝金秀贤金赛纶亲密照",
       "onboard_time": 1741756765,
       "rank": 10,
@@ -16,6 +16,22 @@
       "word": "韩星开始取关金秀贤",
       "onboard_time": 1741750824,
       "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2247450,
+      "num": 2247450,
+      "word": "海底捞小便事件10倍现金补偿",
+      "onboard_time": 1741758145,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1975514,
+      "num": 302713,
+      "word": "D社称金秀贤要钱只是走形式",
+      "onboard_time": 1741760544,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -179,6 +195,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 644380,
+      "num": 644380,
+      "word": "DeepSeek眼中不会被AI替代的职业",
+      "onboard_time": 1741757363,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 640338,
       "num": 623126,
       "word": "周也考了芭蕾证书",
@@ -249,6 +273,14 @@
       "onboard_time": 1741738461,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 499001,
+      "num": 499001,
+      "word": "韩国低于性同意年龄均视为强奸",
+      "onboard_time": 1741755385,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 494627,
@@ -323,6 +355,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 422986,
+      "num": 300719,
+      "word": "刘雯走秀鞋子掉了",
+      "onboard_time": 1741758384,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 415944,
+      "num": 415944,
+      "word": "海底捞已起诉两名小便男子",
+      "onboard_time": 1741758145,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 405432,
       "num": 206479,
       "word": "王楚钦 麦当劳",
@@ -379,12 +427,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 385478,
-      "num": 385478,
-      "word": "韩国低于性同意年龄均视为强奸",
-      "onboard_time": 1741755385,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 384456,
+      "num": 384456,
+      "word": "海底捞",
+      "onboard_time": 1741758623,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 384398,
+      "num": 384398,
+      "word": "海底捞就男子向火锅小便事件发声明",
+      "onboard_time": 1741757244,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 384320,
@@ -401,6 +457,14 @@
       "onboard_time": 1741743923,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 371331,
+      "num": 303493,
+      "word": "刚baby baby几天就塌了",
+      "onboard_time": 1741760663,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 362290,
@@ -539,14 +603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 267700,
-      "num": 267700,
-      "word": "DeepSeek眼中不会被AI替代的职业",
-      "onboard_time": 1741757363,
-      "rank": 24,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 261882,
       "num": 261882,
       "word": "吴君如父亲离世",
@@ -595,12 +651,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 230535,
-      "num": 347751,
-      "word": "海底捞就男子向火锅小便事件发声明",
-      "onboard_time": 1741757244,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 230245,
+      "num": 306208,
+      "word": "嘘国王在冬眠 武大靖",
+      "onboard_time": 1741758264,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 230242,
@@ -619,6 +675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 227712,
+      "num": 227712,
+      "word": "王楚钦对战阿鲁纳",
+      "onboard_time": 1741760305,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 226427,
       "num": 226427,
       "word": "王一博手提胡萝卜",
@@ -633,6 +697,14 @@
       "onboard_time": 1741749382,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218664,
+      "num": 218664,
+      "word": "海底捞补偿金额超千万元",
+      "onboard_time": 1741760604,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 214394,
@@ -747,12 +819,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191308,
+      "num": 191308,
+      "word": "孙中山逝世100周年",
+      "onboard_time": 1741760544,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 191080,
       "num": 191080,
       "word": "世界十大影响力名人",
       "onboard_time": 1741757786,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190643,
+      "num": 299664,
+      "word": "郑钦文vs科斯秋克",
+      "onboard_time": 1741756823,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 189058,
@@ -899,14 +987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 167633,
-      "num": 299664,
-      "word": "郑钦文vs科斯秋克",
-      "onboard_time": 1741756823,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 167149,
       "num": 211445,
       "word": "14岁少女清洗文身要花76万谁之过",
@@ -921,6 +1001,22 @@
       "onboard_time": 1741747281,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 164052,
+      "num": 304182,
+      "word": "植树节发微博会发芽",
+      "onboard_time": 1741760783,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 162205,
+      "num": 162205,
+      "word": "商务部等部门约谈沃尔玛",
+      "onboard_time": 1741758145,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159483,
@@ -1107,6 +1203,14 @@
       "category": "动漫,电影"
     },
     {
+      "raw_hot": 131000,
+      "num": 308187,
+      "word": "王楚钦3比0阿鲁纳",
+      "onboard_time": 1741760604,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130636,
       "num": 296189,
       "word": "颜宁否认在山东大学任职",
@@ -1145,6 +1249,14 @@
       "onboard_time": 1741749561,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124751,
+      "num": 124751,
+      "word": "恋与制作人",
+      "onboard_time": 1741759644,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 123329,
@@ -1187,12 +1299,36 @@
       "category": "剧集,电竞"
     },
     {
+      "raw_hot": 118520,
+      "num": 219807,
+      "word": "吴磊的骑行赛道还是太全面了",
+      "onboard_time": 1741760903,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118498,
       "num": 196166,
       "word": "文淇称转型做导演是因为选择太少",
       "onboard_time": 1741714818,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117425,
+      "num": 117425,
+      "word": "直播间买的百万金条不发货后续来了",
+      "onboard_time": 1741760484,
+      "rank": 45,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 116690,
+      "num": 116690,
+      "word": "杨铭宇黄焖鸡大量员工无证上岗",
+      "onboard_time": 1741758686,
+      "rank": 46,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 115848,
@@ -1217,6 +1353,14 @@
       "onboard_time": 1741736180,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109993,
+      "num": 109993,
+      "word": "买不起黄金的年轻人盯上了债基",
+      "onboard_time": 1741761023,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 108746,
@@ -1619,6 +1763,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 38537,
+      "num": 307696,
+      "word": "年轻人植树节选择仪式感种树",
+      "onboard_time": 1741759284,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38532,
+      "num": 304534,
+      "word": "美乌谈判俄军猛攻乌军",
+      "onboard_time": 1741760845,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 37395,
       "num": 437135,
       "word": "三个维度看今年全国两会",
@@ -1649,6 +1809,14 @@
       "onboard_time": 1741750044,
       "rank": 15,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 31473,
+      "num": 145938,
+      "word": "早餐15分钟烤好的吐司披萨",
+      "onboard_time": 1741760364,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 28648,
@@ -1697,6 +1865,14 @@
       "onboard_time": 1741736059,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 22484,
+      "num": 305595,
+      "word": "退休教授在阳台上搞核发电为谣言",
+      "onboard_time": 1741759523,
+      "rank": 17,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 22133,
@@ -1828,6 +2004,9 @@
     },
     {
       "word": "#植树就是植未来#"
+    },
+    {
+      "word": "#习近平的两会足迹#"
     }
   ]
 }
