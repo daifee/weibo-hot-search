@@ -1,0 +1,410 @@
+{
+  "runTime": 1741754650443,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1585196,
+        "num": 1585196,
+        "word": "近视手术是一种奢侈美容",
+        "onboard_time": 1741750162,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1164112,
+        "num": 1164112,
+        "word": "杨铭宇黄焖鸡剩菜回收再卖给顾客",
+        "onboard_time": 1741750824,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 28891,
+        "num": 849342,
+        "word": "2025奋进中国",
+        "onboard_time": 1741750883,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2133795,
+        "num": 793430,
+        "word": "韩星开始取关金秀贤",
+        "onboard_time": 1741750824,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1421946,
+        "num": 771807,
+        "word": "元彬曾提出帮金赛纶偿还欠款",
+        "onboard_time": 1741750644,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 648611,
+        "num": 648611,
+        "word": "汤家凤谈田静英语一成绩",
+        "onboard_time": 1741752383,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 623126,
+        "num": 623126,
+        "word": "周也考了芭蕾证书",
+        "onboard_time": 1741750342,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 596585,
+        "num": 596585,
+        "word": "铜川一医院被曝偷换新生儿",
+        "onboard_time": 1741751784,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 533767,
+        "num": 533767,
+        "word": "年轻人开始流行各种自带了",
+        "onboard_time": 1741742900,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 387860,
+        "num": 387860,
+        "word": "杨铭宇黄焖鸡隔夜鸡肉优先出售",
+        "onboard_time": 1741753825,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1581213,
+        "num": 369764,
+        "word": "曝金秀贤经纪人是性犯罪者",
+        "onboard_time": 1741753284,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 974230,
+        "num": 365790,
+        "word": "元彬第一个去金赛纶葬礼",
+        "onboard_time": 1741749923,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433413,
+        "num": 353353,
+        "word": "张艺兴新片命不是底线女儿才是",
+        "onboard_time": 1741753825,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 325706,
+        "num": 325706,
+        "word": "祭拜祖坟发现2墓穴被立他人墓碑",
+        "onboard_time": 1741752625,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125913,
+        "num": 311669,
+        "word": "为什么我的银行卡我说了不算",
+        "onboard_time": 1741753644,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 306969,
+        "num": 306969,
+        "word": "向佐开10个小时车去找郭碧婷",
+        "onboard_time": 1741749682,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290929,
+        "num": 290929,
+        "word": "从不准加班到不用加班还有多远",
+        "onboard_time": 1741743923,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254532,
+        "num": 254532,
+        "word": "光与夜之恋",
+        "onboard_time": 1741753825,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 57212,
+        "num": 252979,
+        "word": "留几手增重20斤体脂率在12%",
+        "onboard_time": 1741753944,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156673,
+        "num": 252683,
+        "word": "在长久的婚姻中爱不是秘诀",
+        "onboard_time": 1741752023,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 298262,
+        "num": 252623,
+        "word": "女生三年攒160个纸袋卖了180元",
+        "onboard_time": 1741752203,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252527,
+        "num": 252527,
+        "word": "谁家求婚时房塌了啊",
+        "onboard_time": 1741745603,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247230,
+        "num": 247230,
+        "word": "台当局打压转发台湾必归艺人",
+        "onboard_time": 1741737380,
+        "rank": 22,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 232657,
+        "num": 232657,
+        "word": "用Deepseek自动生成PPT教程",
+        "onboard_time": 1741746081,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 226427,
+        "num": 226427,
+        "word": "王一博手提胡萝卜",
+        "onboard_time": 1741751304,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 207689,
+        "num": 207689,
+        "word": "权志龙应援棒",
+        "onboard_time": 1741749382,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199298,
+        "num": 199298,
+        "word": "乌克兰同意停火30天",
+        "onboard_time": 1741734557,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 193832,
+        "num": 193832,
+        "word": "业内称强制下班或影响更多中小企业",
+        "onboard_time": 1741752203,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189722,
+        "num": 189722,
+        "word": "姚安娜哭戏",
+        "onboard_time": 1741753944,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150732,
+        "num": 188083,
+        "word": "小官巨贪马超群出租屋堆满1.15亿现金",
+        "onboard_time": 1741752325,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188038,
+        "num": 188038,
+        "word": "花670元找男大陪游一天值吗",
+        "onboard_time": 1741750585,
+        "rank": 30,
+        "category": "议题讨论,民生新闻"
+      },
+      {
+        "raw_hot": 187482,
+        "num": 187482,
+        "word": "官方回应男子相亲自称在机关年入35万",
+        "onboard_time": 1741751064,
+        "rank": 31,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 185551,
+        "num": 185551,
+        "word": "嘘国王在冬眠",
+        "onboard_time": 1741753405,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181544,
+        "num": 181544,
+        "word": "特朗普撤回一条加征关税威胁",
+        "onboard_time": 1741744282,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 176368,
+        "num": 176368,
+        "word": "20年前的电子垃圾为何被炒出天价",
+        "onboard_time": 1741752445,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30700,
+        "num": 168423,
+        "word": "三个维度看今年全国两会",
+        "onboard_time": 1741734798,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 168139,
+        "num": 168139,
+        "word": "女子8岁时身高165现在188",
+        "onboard_time": 1741745902,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167667,
+        "num": 167667,
+        "word": "馄饨店老板10秒摆放33个馄饨碗",
+        "onboard_time": 1741748661,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157280,
+        "num": 157280,
+        "word": "陶喆新歌",
+        "onboard_time": 1741749802,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 154328,
+        "num": 154328,
+        "word": "黄子弘凡演唱会",
+        "onboard_time": 1741754305,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 71265,
+        "num": 149583,
+        "word": "套内面积大幅缩水这房该怎么收",
+        "onboard_time": 1741752564,
+        "rank": 40,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 147720,
+        "num": 147720,
+        "word": "杨铭宇黄焖鸡回应被曝后厨乱象",
+        "onboard_time": 1741754486,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145832,
+        "num": 145832,
+        "word": "建议想减肥的人早晚称体重",
+        "onboard_time": 1741739244,
+        "rank": 42,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 139853,
+        "num": 139853,
+        "word": "外卖小哥救醉倒男子后崩溃大哭",
+        "onboard_time": 1741740502,
+        "rank": 43,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 138658,
+        "num": 138658,
+        "word": "新中国22大电影明星仅剩4位在世",
+        "onboard_time": 1741753585,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138235,
+        "num": 138235,
+        "word": "一次性手套其实不防油",
+        "onboard_time": 1741754426,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 137982,
+        "num": 137982,
+        "word": "美国恢复对乌安全援助",
+        "onboard_time": 1741734919,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132079,
+        "num": 132079,
+        "word": "骑自行车的机器人出现了",
+        "onboard_time": 1741740204,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125806,
+        "num": 125806,
+        "word": "你好1983杀青",
+        "onboard_time": 1741746081,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32040,
+        "num": 124703,
+        "word": "三杯咖啡怎么分给四位长辈",
+        "onboard_time": 1741749802,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#植树就是植未来#"
+    }
+  }
+}

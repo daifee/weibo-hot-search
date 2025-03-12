@@ -1,10 +1,10 @@
 {
   "startTime": 1741710703289,
-  "endTime": 1741753717868,
+  "endTime": 1741754650443,
   "band_list": [
     {
       "raw_hot": 2315817,
-      "num": 674949,
+      "num": 793430,
       "word": "韩星开始取关金秀贤",
       "onboard_time": 1741750824,
       "rank": 6,
@@ -28,15 +28,15 @@
     },
     {
       "raw_hot": 1710972,
-      "num": 365467,
+      "num": 369764,
       "word": "曝金秀贤经纪人是性犯罪者",
       "onboard_time": 1741753284,
       "rank": 10,
       "category": "艺人"
     },
     {
-      "raw_hot": 1535722,
-      "num": 1535722,
+      "raw_hot": 1585196,
+      "num": 1585196,
       "word": "近视手术是一种奢侈美容",
       "onboard_time": 1741750162,
       "rank": 21,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1478776,
-      "num": 655592,
+      "num": 771807,
       "word": "元彬曾提出帮金赛纶偿还欠款",
       "onboard_time": 1741750644,
       "rank": 8,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1230823,
-      "num": 358102,
+      "num": 365790,
       "word": "元彬第一个去金赛纶葬礼",
       "onboard_time": 1741749923,
       "rank": 30,
@@ -75,20 +75,20 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 1164112,
+      "num": 1164112,
+      "word": "杨铭宇黄焖鸡剩菜回收再卖给顾客",
+      "onboard_time": 1741750824,
+      "rank": 21,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1096188,
       "num": 229535,
       "word": "金秀贤方说绝不让步",
       "onboard_time": 1741700184,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1079862,
-      "num": 1079862,
-      "word": "杨铭宇黄焖鸡剩菜回收再卖给顾客",
-      "onboard_time": 1741750824,
-      "rank": 21,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 1056852,
@@ -147,8 +147,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 648611,
+      "num": 648611,
+      "word": "汤家凤谈田静英语一成绩",
+      "onboard_time": 1741752383,
+      "rank": 12,
+      "category": "教育"
+    },
+    {
       "raw_hot": 640338,
-      "num": 412984,
+      "num": 623126,
       "word": "周也考了芭蕾证书",
       "onboard_time": 1741750342,
       "rank": 39,
@@ -161,6 +169,14 @@
       "onboard_time": 1741731616,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 596585,
+      "num": 596585,
+      "word": "铜川一医院被曝偷换新生儿",
+      "onboard_time": 1741751784,
+      "rank": 8,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 596093,
@@ -211,14 +227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 502483,
-      "num": 350849,
-      "word": "汤家凤谈田静英语一成绩",
-      "onboard_time": 1741752383,
-      "rank": 12,
-      "category": "教育"
-    },
-    {
       "raw_hot": 494627,
       "num": 314800,
       "word": "金秀贤金赛纶 短信内容",
@@ -265,6 +273,14 @@
       "onboard_time": 1741744282,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 433413,
+      "num": 353353,
+      "word": "张艺兴新片命不是底线女儿才是",
+      "onboard_time": 1741753825,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 430259,
@@ -315,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 387860,
+      "num": 387860,
+      "word": "杨铭宇黄焖鸡隔夜鸡肉优先出售",
+      "onboard_time": 1741753825,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 384320,
       "num": 384320,
       "word": "朴彩英公主提裙",
@@ -329,14 +353,6 @@
       "onboard_time": 1741743923,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 371830,
-      "num": 371830,
-      "word": "铜川一医院被曝偷换新生儿",
-      "onboard_time": 1741751784,
-      "rank": 8,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 362290,
@@ -387,11 +403,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 325706,
+      "num": 339292,
+      "word": "祭拜祖坟发现2墓穴被立他人墓碑",
+      "onboard_time": 1741752625,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 300918,
       "num": 300918,
       "word": "小伙上满8小时班被倒扣3天工资",
       "onboard_time": 1741709362,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 298262,
+      "num": 252623,
+      "word": "女生三年攒160个纸袋卖了180元",
+      "onboard_time": 1741752203,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -443,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254532,
+      "num": 254532,
+      "word": "光与夜之恋",
+      "onboard_time": 1741753825,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 247718,
       "num": 247718,
       "word": "600元买猫470元托运只收到尸体",
@@ -459,14 +499,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 234735,
-      "num": 234735,
-      "word": "女生三年攒160个纸袋卖了180元",
-      "onboard_time": 1741752203,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 234418,
       "num": 234418,
       "word": "陶喆新歌",
@@ -481,6 +513,14 @@
       "onboard_time": 1741707021,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 226427,
+      "num": 226427,
+      "word": "王一博手提胡萝卜",
+      "onboard_time": 1741751304,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 221009,
@@ -523,14 +563,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 211617,
-      "num": 211617,
-      "word": "王一博手提胡萝卜",
-      "onboard_time": 1741751304,
-      "rank": 26,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 209793,
       "num": 209793,
       "word": "利物浦2比5巴黎圣日耳曼",
@@ -563,12 +595,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 193832,
+      "num": 369656,
+      "word": "业内称强制下班或影响更多中小企业",
+      "onboard_time": 1741752203,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193251,
       "num": 193251,
       "word": "欧冠",
       "onboard_time": 1741735099,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189722,
+      "num": 189722,
+      "word": "姚安娜哭戏",
+      "onboard_time": 1741753944,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 189058,
@@ -593,6 +641,14 @@
       "onboard_time": 1741711998,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 185551,
+      "num": 185551,
+      "word": "嘘国王在冬眠",
+      "onboard_time": 1741753405,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 183580,
@@ -707,14 +763,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 166670,
-      "num": 369656,
-      "word": "业内称强制下班或影响更多中小企业",
-      "onboard_time": 1741752203,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 166497,
       "num": 339282,
       "word": "30多国讨论向乌派兵",
@@ -731,20 +779,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 158030,
-      "num": 158030,
-      "word": "嘘国王在冬眠",
-      "onboard_time": 1741753405,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 157114,
       "num": 209345,
       "word": "女子提5万家务劳动补偿法院判25万",
       "onboard_time": 1741696224,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156673,
+      "num": 338074,
+      "word": "在长久的婚姻中爱不是秘诀",
+      "onboard_time": 1741752023,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 156598,
@@ -761,6 +809,14 @@
       "onboard_time": 1741743381,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154328,
+      "num": 154328,
+      "word": "黄子弘凡演唱会",
+      "onboard_time": 1741754305,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 153343,
@@ -803,12 +859,36 @@
       "category": "数码"
     },
     {
+      "raw_hot": 147720,
+      "num": 147720,
+      "word": "杨铭宇黄焖鸡回应被曝后厨乱象",
+      "onboard_time": 1741754486,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138852,
       "num": 138852,
       "word": "我国再次发射一箭18星",
       "onboard_time": 1741735700,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 138658,
+      "num": 138658,
+      "word": "新中国22大电影明星仅剩4位在世",
+      "onboard_time": 1741753585,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 138235,
+      "num": 138235,
+      "word": "一次性手套其实不防油",
+      "onboard_time": 1741754426,
+      "rank": 45,
+      "category": "科学科普"
     },
     {
       "raw_hot": 133518,
@@ -851,20 +931,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 127340,
-      "num": 127340,
-      "word": "新中国22大电影明星仅剩4位在世",
-      "onboard_time": 1741753585,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 126064,
       "num": 135821,
       "word": "滤镜癫开癫走",
       "onboard_time": 1741700064,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125913,
+      "num": 311669,
+      "word": "为什么我的银行卡我说了不算",
+      "onboard_time": 1741753644,
+      "rank": 40,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 125889,
@@ -897,14 +977,6 @@
       "onboard_time": 1741750102,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 120214,
-      "num": 338074,
-      "word": "在长久的婚姻中爱不是秘诀",
-      "onboard_time": 1741752023,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 119435,
@@ -987,14 +1059,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 103708,
-      "num": 339292,
-      "word": "祭拜祖坟发现2墓穴被立他人墓碑",
-      "onboard_time": 1741752625,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 101290,
       "num": 101290,
       "word": "张凌赫演技",
@@ -1017,14 +1081,6 @@
       "onboard_time": 1741746682,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 96855,
-      "num": 158828,
-      "word": "为什么我的银行卡我说了不算",
-      "onboard_time": 1741753644,
-      "rank": 40,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 96025,
@@ -1155,6 +1211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71265,
+      "num": 345429,
+      "word": "套内面积大幅缩水这房该怎么收",
+      "onboard_time": 1741752564,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 69472,
       "num": 70908,
       "word": "王一博香奈儿内场落座",
@@ -1235,20 +1299,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 57212,
+      "num": 252979,
+      "word": "留几手增重20斤体脂率在12%",
+      "onboard_time": 1741753944,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 57137,
       "num": 70891,
       "word": "阿勒泰民警挖30厘米厚积雪救人",
       "onboard_time": 1741708821,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 56023,
-      "num": 345429,
-      "word": "套内面积大幅缩水这房该怎么收",
-      "onboard_time": 1741752564,
-      "rank": 14,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 55847,
@@ -1316,7 +1380,7 @@
     },
     {
       "raw_hot": 42283,
-      "num": 746324,
+      "num": 849342,
       "word": "2025奋进中国",
       "onboard_time": 1741750883,
       "rank": 2,
