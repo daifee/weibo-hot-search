@@ -1,6 +1,6 @@
 {
   "startTime": 1741710703289,
-  "endTime": 1741748330631,
+  "endTime": 1741748877743,
   "band_list": [
     {
       "raw_hot": 1917180,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1692055,
-      "num": 1692055,
+      "raw_hot": 1837033,
+      "num": 1837033,
       "word": "金秀贤催债同时购置了300亿房产",
       "onboard_time": 1741747581,
       "rank": 0,
@@ -59,20 +59,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 778576,
+      "num": 758076,
+      "word": "小米工作人员称SU7有接头接错",
+      "onboard_time": 1741745001,
+      "rank": 34,
+      "category": "汽车,数码"
+    },
+    {
       "raw_hot": 765513,
       "num": 924999,
       "word": "乌克兰同意停火30天",
       "onboard_time": 1741734557,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 758076,
-      "num": 758076,
-      "word": "小米工作人员称SU7有接头接错",
-      "onboard_time": 1741745001,
-      "rank": 34,
-      "category": "汽车,数码"
     },
     {
       "raw_hot": 747450,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 531102,
-      "num": 520630,
+      "num": 524070,
       "word": "谁家求婚时房塌了啊",
       "onboard_time": 1741745603,
       "rank": 6,
@@ -219,6 +219,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 384320,
+      "num": 384320,
+      "word": "朴彩英公主提裙",
+      "onboard_time": 1741747581,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 359620,
       "num": 359620,
       "word": "江苏泰州一公司发生燃爆致4死4伤",
@@ -259,12 +267,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 331624,
-      "num": 331624,
-      "word": "朴彩英公主提裙",
-      "onboard_time": 1741747581,
-      "rank": 15,
-      "category": "作品衍生,时尚"
+      "raw_hot": 333297,
+      "num": 362920,
+      "word": "凉山一乡镇卫生院院长侵吞公款300多万元",
+      "onboard_time": 1741747342,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 300918,
@@ -299,6 +307,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 267175,
+      "num": 243303,
+      "word": "女子8岁时身高165现在188",
+      "onboard_time": 1741745902,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 263901,
+      "num": 263901,
+      "word": "用Deepseek自动生成PPT教程",
+      "onboard_time": 1741746081,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 261882,
       "num": 261882,
       "word": "吴君如父亲离世",
@@ -323,27 +347,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 235246,
-      "num": 362920,
-      "word": "凉山一乡镇卫生院院长侵吞公款300多万元",
-      "onboard_time": 1741747342,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 230049,
       "num": 205139,
       "word": "花几十元吧主可提供定制色情视频",
       "onboard_time": 1741707021,
       "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 220415,
-      "num": 220415,
-      "word": "女子8岁时身高165现在188",
-      "onboard_time": 1741745902,
-      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -387,14 +395,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 202248,
-      "num": 202248,
-      "word": "用Deepseek自动生成PPT教程",
-      "onboard_time": 1741746081,
-      "rank": 24,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 197865,
       "num": 337630,
       "word": "雷军反内耗神句",
@@ -412,7 +412,7 @@
     },
     {
       "raw_hot": 189058,
-      "num": 189058,
+      "num": 215152,
       "word": "张艺兴李珞桉新片反差父女感",
       "onboard_time": 1741747462,
       "rank": 25,
@@ -459,6 +459,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 175746,
+      "num": 175746,
+      "word": "章若楠特别演出电影不说话的爱",
+      "onboard_time": 1741748302,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 173308,
       "num": 173308,
       "word": "张元英牛仔芭比look",
@@ -473,6 +481,14 @@
       "onboard_time": 1741698324,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170466,
+      "num": 215439,
+      "word": "于洋告别仪式没有用哀乐",
+      "onboard_time": 1741748242,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 168790,
@@ -491,6 +507,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 168245,
+      "num": 168245,
+      "word": "周也翟潇闻新剧首发剧照",
+      "onboard_time": 1741748482,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167963,
       "num": 169491,
       "word": "任嘉伦风与潮开机现场",
@@ -507,6 +531,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 166497,
+      "num": 339282,
+      "word": "30多国讨论向乌派兵",
+      "onboard_time": 1741747281,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 157114,
       "num": 209345,
       "word": "女子提5万家务劳动补偿法院判25万",
@@ -516,7 +548,7 @@
     },
     {
       "raw_hot": 155325,
-      "num": 155325,
+      "num": 228174,
       "word": "郑钦文比赛拖场",
       "onboard_time": 1741743381,
       "rank": 43,
@@ -532,7 +564,7 @@
     },
     {
       "raw_hot": 152220,
-      "num": 152220,
+      "num": 253677,
       "word": "A股",
       "onboard_time": 1741748182,
       "rank": 32,
@@ -545,6 +577,14 @@
       "onboard_time": 1741704324,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150708,
+      "num": 150708,
+      "word": "iOS18.3.2正式版",
+      "onboard_time": 1741746022,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 138852,
@@ -564,23 +604,15 @@
     },
     {
       "raw_hot": 133518,
-      "num": 169015,
+      "num": 214915,
       "word": "Jennie回归成绩",
       "onboard_time": 1741745480,
       "rank": 29,
       "category": "音乐"
     },
     {
-      "raw_hot": 133480,
-      "num": 133480,
-      "word": "iOS18.3.2正式版",
-      "onboard_time": 1741746022,
-      "rank": 36,
-      "category": "数码"
-    },
-    {
       "raw_hot": 131531,
-      "num": 131531,
+      "num": 269849,
       "word": "植树就是植未来",
       "onboard_time": 1741745843,
       "rank": 37,
@@ -667,6 +699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107408,
+      "num": 107408,
+      "word": "馄饨店老板10秒摆放33个馄饨碗",
+      "onboard_time": 1741748661,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106726,
       "num": 172668,
       "word": "杜特尔特被捕",
@@ -689,14 +729,6 @@
       "onboard_time": 1741702884,
       "rank": 26,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 101990,
-      "num": 101990,
-      "word": "于洋告别仪式没有用哀乐",
-      "onboard_time": 1741748242,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 101290,
@@ -723,12 +755,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 97557,
-      "num": 97557,
-      "word": "章若楠特别演出电影不说话的爱",
-      "onboard_time": 1741748302,
-      "rank": 47,
-      "category": "电影"
+      "raw_hot": 96025,
+      "num": 96025,
+      "word": "哈利伯顿绝杀雄鹿",
+      "onboard_time": 1741748781,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 94010,
@@ -755,14 +787,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 91580,
-      "num": 339282,
-      "word": "30多国讨论向乌派兵",
-      "onboard_time": 1741747281,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 91371,
       "num": 91371,
       "word": "为地球添一抹生机盎然的绿",
@@ -780,7 +804,7 @@
     },
     {
       "raw_hot": 89175,
-      "num": 128825,
+      "num": 135701,
       "word": "领克900同级首搭骁遥电池",
       "onboard_time": 1741747882,
       "rank": 38,
@@ -1097,6 +1121,14 @@
       "onboard_time": 1741715175,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 16821,
+      "num": 256721,
+      "word": "王源刘柏辛同框看秀",
+      "onboard_time": 1741748601,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 16770,
