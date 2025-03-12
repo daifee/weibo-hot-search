@@ -1,6 +1,6 @@
 {
   "startTime": 1741797038602,
-  "endTime": 1741815472516,
+  "endTime": 1741818165601,
   "band_list": [
     {
       "raw_hot": 900025,
@@ -187,6 +187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133307,
+      "num": 186473,
+      "word": "春捂是要捂到什么时候",
+      "onboard_time": 1741795762,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127655,
       "num": 127655,
       "word": "脂肪是如何排出体外的",
@@ -371,14 +379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 67092,
-      "num": 186473,
-      "word": "春捂是要捂到什么时候",
-      "onboard_time": 1741795762,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 63894,
       "num": 80748,
       "word": "未来3天大风降温雨雪来袭",
@@ -401,6 +401,14 @@
       "onboard_time": 1741788625,
       "rank": 49,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 51008,
+      "num": 51008,
+      "word": "凌晨出警安抚74岁女儿照顾96岁妈妈",
+      "onboard_time": 1741777704,
+      "rank": 42,
+      "category": "正能量"
     },
     {
       "raw_hot": 44581,
@@ -451,15 +459,31 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 23548,
-      "num": 27608,
-      "word": "凌晨出警安抚74岁女儿照顾96岁妈妈",
-      "onboard_time": 1741777704,
-      "rank": 42,
-      "category": "正能量"
+      "raw_hot": 25356,
+      "num": 24957,
+      "word": "减肥时主食有3个黄金等级",
+      "onboard_time": 1741811953,
+      "rank": 45,
+      "category": "健康医疗,运动健身"
     },
     {
-      "raw_hot": 21589,
+      "raw_hot": 23777,
+      "num": 23777,
+      "word": "女主播和榜一奔现被骗80万",
+      "onboard_time": 1741813815,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22870,
+      "num": 22870,
+      "word": "女子遭多次家暴后不敢与丈夫面对面",
+      "onboard_time": 1741812793,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21942,
       "num": 27687,
       "word": "于适又双叒叕有新身份",
       "onboard_time": 1741805775,
@@ -507,11 +531,19 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 16318,
+      "raw_hot": 17477,
       "num": 29552,
       "word": "古人把神话里的树做成了手办",
       "onboard_time": 1741798219,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16718,
+      "num": 20614,
+      "word": "曾带偏瘫妻子跑车4年司机回应质疑",
+      "onboard_time": 1741814893,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -523,36 +555,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 15699,
-      "num": 15699,
-      "word": "女子遭多次家暴后不敢与丈夫面对面",
-      "onboard_time": 1741812793,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15018,
-      "num": 15018,
-      "word": "减肥时主食有3个黄金等级",
-      "onboard_time": 1741811953,
-      "rank": 45,
-      "category": "健康医疗,运动健身"
-    },
-    {
       "raw_hot": 14069,
       "num": 15644,
       "word": "国王云合",
       "onboard_time": 1741811414,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 13908,
-      "num": 14376,
-      "word": "女主播和榜一奔现被骗80万",
-      "onboard_time": 1741813815,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13889,
@@ -585,14 +593,6 @@
       "onboard_time": 1741809733,
       "rank": 22,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 12902,
-      "num": 14375,
-      "word": "曾带偏瘫妻子跑车4年司机回应质疑",
-      "onboard_time": 1741814893,
-      "rank": 49,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
