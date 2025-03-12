@@ -1,0 +1,410 @@
+{
+  "runTime": 1741778430375,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1035209,
+        "num": 1165633,
+        "word": "多名外卖小哥提醒避雷黄焖鸡",
+        "onboard_time": 1741769120,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 761388,
+        "num": 761388,
+        "word": "女子760万买房住了1年发现是凶宅",
+        "onboard_time": 1741772843,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20295,
+        "num": 690708,
+        "word": "2025奋进中国",
+        "onboard_time": 1741750883,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 661698,
+        "num": 661698,
+        "word": "杨铭宇黄焖鸡道歉",
+        "onboard_time": 1741763723,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 499483,
+        "num": 499483,
+        "word": "原央视主持人赵普回应保安出身",
+        "onboard_time": 1741775605,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372368,
+        "num": 372368,
+        "word": "念无双 定档",
+        "onboard_time": 1741772783,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320389,
+        "num": 320389,
+        "word": "马拉多纳死亡案真相大白",
+        "onboard_time": 1741775064,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 307589,
+        "num": 307589,
+        "word": "DeepSeek眼中不会被AI替代的职业",
+        "onboard_time": 1741757363,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 245303,
+        "num": 245303,
+        "word": "哪吒2冲刺150亿票房新纪录",
+        "onboard_time": 1741774343,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 220183,
+        "num": 220183,
+        "word": "Dior高珠展",
+        "onboard_time": 1741778128,
+        "rank": 9,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 9190620,
+        "num": 9190620,
+        "word": "金秀贤在信里说我爱你赛纶",
+        "onboard_time": 1741774582,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1338879,
+        "num": 217890,
+        "word": "崔显旭 金赛纶酒驾副驾驶",
+        "onboard_time": 1741775306,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 551678,
+        "num": 217003,
+        "word": "刚baby baby几天就塌了",
+        "onboard_time": 1741760663,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448402,
+        "num": 214915,
+        "word": "日本女孩直播时被杀粉丝全程目睹",
+        "onboard_time": 1741774943,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 41342,
+        "num": 213868,
+        "word": "年轻人流行在二手平台相亲1元1个",
+        "onboard_time": 1741776804,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1141889,
+        "num": 211843,
+        "word": "N号房事件后性同意年龄提至16岁",
+        "onboard_time": 1741773443,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1753818,
+        "num": 211310,
+        "word": "金秀贤金赛纶亲吻照再曝",
+        "onboard_time": 1741774104,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210062,
+        "num": 210062,
+        "word": "网红廖叔去世家属发讣告",
+        "onboard_time": 1741776263,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 115361,
+        "num": 209524,
+        "word": "买1888元水晶手串收到3元石头",
+        "onboard_time": 1741776925,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 26034,
+        "num": 207302,
+        "word": "郑钦文感叹连上三个夜班",
+        "onboard_time": 1741777645,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 387232,
+        "num": 207140,
+        "word": "迪丽热巴露背纱裙",
+        "onboard_time": 1741776865,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 330336,
+        "num": 204681,
+        "word": "父亲想要儿子连生9个女儿",
+        "onboard_time": 1741773503,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326211,
+        "num": 203477,
+        "word": "不懂金秀贤做错什么了的韩男们",
+        "onboard_time": 1741754965,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283440,
+        "num": 201798,
+        "word": "TES与HLE冲击两连胜",
+        "onboard_time": 1741776085,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 228468,
+        "num": 201691,
+        "word": "韩国胶鞋寓意",
+        "onboard_time": 1741773805,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200329,
+        "num": 200329,
+        "word": "委员谈为什么医生自己不做近视手术",
+        "onboard_time": 1741774222,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 176161,
+        "num": 176161,
+        "word": "张峻豪个人演唱会官宣",
+        "onboard_time": 1741776865,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 166059,
+        "num": 166059,
+        "word": "SMTOWN东京阵容",
+        "onboard_time": 1741777824,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141197,
+        "num": 165739,
+        "word": "白鹿打开十年前相册",
+        "onboard_time": 1741773023,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27342,
+        "num": 161662,
+        "word": "男子儿时被生父送走85岁回家",
+        "onboard_time": 1741777524,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193699,
+        "num": 159489,
+        "word": "权志龙综艺",
+        "onboard_time": 1741768463,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176452,
+        "num": 158143,
+        "word": "榜一大哥花2元骗女主播80余万元",
+        "onboard_time": 1741776085,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157123,
+        "num": 157123,
+        "word": "2025政府工作报告全文",
+        "onboard_time": 1741776686,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 152098,
+        "num": 152098,
+        "word": "王楚钦说大爷吼一嗓子挺吓人",
+        "onboard_time": 1741776085,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119176,
+        "num": 151709,
+        "word": "刘雯手提鞋子踮起脚尖淡定走秀",
+        "onboard_time": 1741775064,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 109114,
+        "num": 151625,
+        "word": "宁芙奖请投佣兵",
+        "onboard_time": 1741777524,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151605,
+        "num": 151605,
+        "word": "律师称3岁智商产妇没有性同意能力",
+        "onboard_time": 1741771463,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10922,
+        "num": 148562,
+        "word": "九图速览两会热点",
+        "onboard_time": 1741778304,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 148264,
+        "num": 148264,
+        "word": "美乌发布联合声明",
+        "onboard_time": 1741772602,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 140164,
+        "num": 140164,
+        "word": "华为内部人士证实事发成都存储部门",
+        "onboard_time": 1741776686,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128260,
+        "num": 128260,
+        "word": "王曼昱3比0迪亚兹",
+        "onboard_time": 1741778304,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106279,
+        "num": 127239,
+        "word": "凌妙妙一觉醒来什么都有了",
+        "onboard_time": 1741766123,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136180,
+        "num": 127156,
+        "word": "女子用快递刀割断安全带救出司机",
+        "onboard_time": 1741772302,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127010,
+        "num": 127010,
+        "word": "以为在减肥实际在增肥的行为",
+        "onboard_time": 1741768163,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 123750,
+        "num": 123750,
+        "word": "任嘉伦 天骄",
+        "onboard_time": 1741778364,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77000,
+        "num": 117065,
+        "word": "MiuMiu风穿搭",
+        "onboard_time": 1741772363,
+        "rank": 45,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 111440,
+        "num": 111440,
+        "word": "佛山一小区业主装修骨灰房被投诉",
+        "onboard_time": 1741773503,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119324,
+        "num": 111025,
+        "word": "王曼昱vs迪亚兹",
+        "onboard_time": 1741776384,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107768,
+        "num": 107768,
+        "word": "162万元买到火灾房",
+        "onboard_time": 1741771043,
+        "rank": 48,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 107148,
+        "num": 107148,
+        "word": "760万买房过户1个月成凶宅能退吗",
+        "onboard_time": 1741777765,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记今年两会金句#"
+    }
+  }
+}
