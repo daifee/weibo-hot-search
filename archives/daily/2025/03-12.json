@@ -1,6 +1,6 @@
 {
   "startTime": 1741710703289,
-  "endTime": 1741748877743,
+  "endTime": 1741750429034,
   "band_list": [
     {
       "raw_hot": 1917180,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1455344,
-      "num": 362591,
+      "num": 362909,
       "word": "金秀贤最新ins已经被攻陷",
       "onboard_time": 1741728014,
       "rank": 10,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 596093,
-      "num": 361472,
+      "num": 362683,
       "word": "台当局打压转发台湾必归艺人",
       "onboard_time": 1741737380,
       "rank": 13,
@@ -129,6 +129,14 @@
       "onboard_time": 1741745603,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 510821,
+      "num": 173747,
+      "word": "元彬第一个去金赛纶葬礼",
+      "onboard_time": 1741749923,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 507858,
@@ -227,6 +235,30 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 370170,
+      "num": 370170,
+      "word": "从不准加班到不用加班还有多远",
+      "onboard_time": 1741743923,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 365262,
+      "num": 362370,
+      "word": "向佐开10个小时车去找郭碧婷",
+      "onboard_time": 1741749682,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 362290,
+      "num": 362290,
+      "word": "章若楠特别演出电影不说话的爱",
+      "onboard_time": 1741748302,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 359620,
       "num": 359620,
       "word": "江苏泰州一公司发生燃爆致4死4伤",
@@ -243,11 +275,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 347466,
-      "num": 347466,
-      "word": "从不准加班到不用加班还有多远",
-      "onboard_time": 1741743923,
-      "rank": 41,
+      "raw_hot": 352482,
+      "num": 352482,
+      "word": "用Deepseek自动生成PPT教程",
+      "onboard_time": 1741746081,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 348399,
+      "num": 362920,
+      "word": "凉山一乡镇卫生院院长侵吞公款300多万元",
+      "onboard_time": 1741747342,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -267,20 +307,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 333297,
-      "num": 362920,
-      "word": "凉山一乡镇卫生院院长侵吞公款300多万元",
-      "onboard_time": 1741747342,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 300918,
       "num": 300918,
       "word": "小伙上满8小时班被倒扣3天工资",
       "onboard_time": 1741709362,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 290873,
+      "num": 363038,
+      "word": "于洋告别仪式没有用哀乐",
+      "onboard_time": 1741748242,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 290579,
@@ -299,6 +339,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 279863,
+      "num": 252681,
+      "word": "馄饨店老板10秒摆放33个馄饨碗",
+      "onboard_time": 1741748661,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 277231,
       "num": 301292,
       "word": "王源有一种气血很足的帅",
@@ -307,20 +355,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 267175,
-      "num": 243303,
+      "raw_hot": 275311,
+      "num": 251122,
       "word": "女子8岁时身高165现在188",
       "onboard_time": 1741745902,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 263901,
-      "num": 263901,
-      "word": "用Deepseek自动生成PPT教程",
-      "onboard_time": 1741746081,
-      "rank": 24,
-      "category": "互联网"
     },
     {
       "raw_hot": 261882,
@@ -353,6 +393,22 @@
       "onboard_time": 1741707021,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 221009,
+      "num": 221009,
+      "word": "权志龙应援棒",
+      "onboard_time": 1741749382,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 214827,
+      "num": 214827,
+      "word": "陶喆新歌",
+      "onboard_time": 1741749802,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 213113,
@@ -393,6 +449,14 @@
       "onboard_time": 1741742183,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199010,
+      "num": 199010,
+      "word": "风与潮开机",
+      "onboard_time": 1741749802,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 197865,
@@ -459,11 +523,11 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 175746,
-      "num": 175746,
-      "word": "章若楠特别演出电影不说话的爱",
-      "onboard_time": 1741748302,
-      "rank": 47,
+      "raw_hot": 178288,
+      "num": 178288,
+      "word": "怒水西流定档",
+      "onboard_time": 1741748963,
+      "rank": 28,
       "category": "电影"
     },
     {
@@ -475,20 +539,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 173116,
+      "num": 173116,
+      "word": "绝区零",
+      "onboard_time": 1741748963,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 172134,
       "num": 172134,
       "word": "男子创业负债800万两年还清",
       "onboard_time": 1741698324,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 170466,
-      "num": 215439,
-      "word": "于洋告别仪式没有用哀乐",
-      "onboard_time": 1741748242,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 168790,
@@ -571,6 +635,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 151031,
+      "num": 151031,
+      "word": "人人人人花人人人人",
+      "onboard_time": 1741746802,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150942,
       "num": 150942,
       "word": "李兰迪演技",
@@ -587,20 +659,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 139058,
+      "num": 139058,
+      "word": "周也考了芭蕾证书",
+      "onboard_time": 1741750342,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138852,
       "num": 138852,
       "word": "我国再次发射一箭18星",
       "onboard_time": 1741735700,
       "rank": 36,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 137219,
-      "num": 137219,
-      "word": "人人人人花人人人人",
-      "onboard_time": 1741746802,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 133518,
@@ -651,6 +723,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121712,
+      "num": 121712,
+      "word": "似锦中女组反派上大分",
+      "onboard_time": 1741750102,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 119435,
+      "num": 119435,
+      "word": "爬山时膝盖承受压力可达体重5倍",
+      "onboard_time": 1741749923,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118992,
       "num": 118992,
       "word": "虞书欣PEL的兵来了",
@@ -667,12 +755,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117902,
+      "num": 117902,
+      "word": "30秒了解植树节冷知识",
+      "onboard_time": 1741749561,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115848,
       "num": 115847,
       "word": "智力曾降至3岁消防员开始直播带货",
       "onboard_time": 1741696464,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111516,
+      "num": 111516,
+      "word": "无限暖暖",
+      "onboard_time": 1741750282,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 111111,
@@ -696,14 +800,6 @@
       "word": "女子横躺马路后扑向交警怀中",
       "onboard_time": 1741743682,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 107408,
-      "num": 107408,
-      "word": "馄饨店老板10秒摆放33个馄饨碗",
-      "onboard_time": 1741748661,
-      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -804,7 +900,7 @@
     },
     {
       "raw_hot": 89175,
-      "num": 135701,
+      "num": 163427,
       "word": "领克900同级首搭骁遥电池",
       "onboard_time": 1741747882,
       "rank": 38,
@@ -1051,6 +1147,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 28989,
+      "num": 350033,
+      "word": "有黄金回收报价超大盘100元引流",
+      "onboard_time": 1741750044,
+      "rank": 15,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 27038,
       "num": 47287,
       "word": "王一博巴黎时装周",
@@ -1137,6 +1241,22 @@
       "onboard_time": 1741732337,
       "rank": 49,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 16688,
+      "num": 251391,
+      "word": "近视手术是一种奢侈美容",
+      "onboard_time": 1741750162,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15180,
+      "num": 134885,
+      "word": "三杯咖啡怎么分给四位长辈",
+      "onboard_time": 1741749802,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 14844,

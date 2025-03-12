@@ -1,0 +1,410 @@
+{
+  "runTime": 1741750429034,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1609364,
+        "num": 1609364,
+        "word": "金秀贤催债同时购置了300亿房产",
+        "onboard_time": 1741747581,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 737134,
+        "num": 737134,
+        "word": "年轻人开始流行各种自带了",
+        "onboard_time": 1741742900,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52401,
+        "num": 517206,
+        "word": "30秒了解国家账本新安排",
+        "onboard_time": 1741706543,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 493434,
+        "num": 493434,
+        "word": "谁家求婚时房塌了啊",
+        "onboard_time": 1741745603,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 377314,
+        "num": 377314,
+        "word": "外卖小哥救醉倒男子后崩溃大哭",
+        "onboard_time": 1741740502,
+        "rank": 4,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 693011,
+        "num": 376518,
+        "word": "小米工作人员称SU7有接头接错",
+        "onboard_time": 1741745001,
+        "rank": 5,
+        "category": "汽车,数码"
+      },
+      {
+        "raw_hot": 481358,
+        "num": 376415,
+        "word": "你好1983杀青",
+        "onboard_time": 1741746081,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 370170,
+        "num": 370170,
+        "word": "从不准加班到不用加班还有多远",
+        "onboard_time": 1741743923,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 363155,
+        "num": 363155,
+        "word": "特朗普撤回一条加征关税威胁",
+        "onboard_time": 1741744282,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 290873,
+        "num": 363038,
+        "word": "于洋告别仪式没有用哀乐",
+        "onboard_time": 1741748242,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 791015,
+        "num": 362909,
+        "word": "金秀贤最新ins已经被攻陷",
+        "onboard_time": 1741728014,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388923,
+        "num": 362683,
+        "word": "台当局打压转发台湾必归艺人",
+        "onboard_time": 1741737380,
+        "rank": 11,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 365262,
+        "num": 362370,
+        "word": "向佐开10个小时车去找郭碧婷",
+        "onboard_time": 1741749682,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362290,
+        "num": 362290,
+        "word": "章若楠特别演出电影不说话的爱",
+        "onboard_time": 1741748302,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 352482,
+        "num": 352482,
+        "word": "用Deepseek自动生成PPT教程",
+        "onboard_time": 1741746081,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 28989,
+        "num": 350033,
+        "word": "有黄金回收报价超大盘100元引流",
+        "onboard_time": 1741750044,
+        "rank": 15,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 348399,
+        "num": 348399,
+        "word": "凉山一乡镇卫生院院长侵吞公款300多万元",
+        "onboard_time": 1741747342,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288734,
+        "num": 288734,
+        "word": "乌克兰同意停火30天",
+        "onboard_time": 1741734557,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 273179,
+        "num": 273179,
+        "word": "朴彩英公主提裙",
+        "onboard_time": 1741747581,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 253269,
+        "num": 253269,
+        "word": "江苏泰州一公司发生燃爆致4死4伤",
+        "onboard_time": 1741745182,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279863,
+        "num": 252681,
+        "word": "馄饨店老板10秒摆放33个馄饨碗",
+        "onboard_time": 1741748661,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16688,
+        "num": 251391,
+        "word": "近视手术是一种奢侈美容",
+        "onboard_time": 1741750162,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275311,
+        "num": 251122,
+        "word": "女子8岁时身高165现在188",
+        "onboard_time": 1741745902,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250807,
+        "num": 250807,
+        "word": "建议想减肥的人早晚称体重",
+        "onboard_time": 1741739244,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 229146,
+        "num": 229146,
+        "word": "骑自行车的机器人出现了",
+        "onboard_time": 1741740204,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221009,
+        "num": 221009,
+        "word": "权志龙应援棒",
+        "onboard_time": 1741749382,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214827,
+        "num": 214827,
+        "word": "陶喆新歌",
+        "onboard_time": 1741749802,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199010,
+        "num": 199010,
+        "word": "风与潮开机",
+        "onboard_time": 1741749802,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178288,
+        "num": 178288,
+        "word": "怒水西流定档",
+        "onboard_time": 1741748963,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 173929,
+        "num": 173929,
+        "word": "美国恢复对乌安全援助",
+        "onboard_time": 1741734919,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 510821,
+        "num": 173747,
+        "word": "元彬第一个去金赛纶葬礼",
+        "onboard_time": 1741749923,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173116,
+        "num": 173116,
+        "word": "绝区零",
+        "onboard_time": 1741748963,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171791,
+        "num": 171791,
+        "word": "吴君如父亲离世",
+        "onboard_time": 1741745120,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171580,
+        "num": 171580,
+        "word": "以为很懒但对皮肤很好的行为",
+        "onboard_time": 1741736000,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 34467,
+        "num": 163427,
+        "word": "领克900同级首搭骁遥电池",
+        "onboard_time": 1741747882,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 156530,
+        "num": 156530,
+        "word": "30多国讨论向乌派兵",
+        "onboard_time": 1741747281,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151031,
+        "num": 151031,
+        "word": "人人人人花人人人人",
+        "onboard_time": 1741746802,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149818,
+        "num": 149818,
+        "word": "600元买猫470元托运只收到尸体",
+        "onboard_time": 1741735760,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144111,
+        "num": 144111,
+        "word": "iOS18.3.2正式版",
+        "onboard_time": 1741746022,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 139058,
+        "num": 139058,
+        "word": "周也考了芭蕾证书",
+        "onboard_time": 1741750342,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15180,
+        "num": 134885,
+        "word": "三杯咖啡怎么分给四位长辈",
+        "onboard_time": 1741749802,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132309,
+        "num": 132309,
+        "word": "白鹿12秒无台词情绪递进",
+        "onboard_time": 1741738461,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130274,
+        "num": 130274,
+        "word": "河南一大学老师3个月减68斤真的牛",
+        "onboard_time": 1741742183,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122824,
+        "num": 122824,
+        "word": "张艺兴李珞桉新片反差父女感",
+        "onboard_time": 1741747462,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121712,
+        "num": 121712,
+        "word": "似锦中女组反派上大分",
+        "onboard_time": 1741750102,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119435,
+        "num": 119435,
+        "word": "爬山时膝盖承受压力可达体重5倍",
+        "onboard_time": 1741749923,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117902,
+        "num": 117902,
+        "word": "30秒了解植树节冷知识",
+        "onboard_time": 1741749561,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114896,
+        "num": 114896,
+        "word": "周也翟潇闻新剧首发剧照",
+        "onboard_time": 1741748482,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111986,
+        "num": 111986,
+        "word": "王楚钦 麦当劳",
+        "onboard_time": 1741701684,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111516,
+        "num": 111516,
+        "word": "无限暖暖",
+        "onboard_time": 1741750282,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会之问#"
+    }
+  }
+}
