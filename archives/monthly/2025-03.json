@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741756984607,
+  "endTime": 1741758021107,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 5861845,
+      "num": 5861845,
+      "word": "韩媒再曝金秀贤金赛纶亲密照",
+      "onboard_time": 1741756765,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 4523747,
       "num": 655127,
       "word": "何凯文承认成绩造假",
@@ -88,14 +96,6 @@
       "word": "金秀贤方说绝不让步",
       "onboard_time": 1741700184,
       "rank": 0,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 3554286,
-      "num": 301889,
-      "word": "韩媒再曝金秀贤金赛纶亲密照",
-      "onboard_time": 1741756765,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -908,7 +908,7 @@
     },
     {
       "raw_hot": 1498721,
-      "num": 301025,
+      "num": 389561,
       "word": "不懂金秀贤做错什么了的韩男们",
       "onboard_time": 1741754965,
       "rank": 11,
@@ -1257,6 +1257,14 @@
       "onboard_time": 1740885439,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1255800,
+      "num": 1255800,
+      "word": "铜川一医院被曝偷换新生儿",
+      "onboard_time": 1741751784,
+      "rank": 8,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 1251055,
@@ -2305,14 +2313,6 @@
       "onboard_time": 1741103179,
       "rank": 0,
       "category": "数码"
-    },
-    {
-      "raw_hot": 903309,
-      "num": 1144529,
-      "word": "铜川一医院被曝偷换新生儿",
-      "onboard_time": 1741751784,
-      "rank": 8,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 902978,
@@ -4707,6 +4707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 572402,
+      "num": 572402,
+      "word": "黄明昊 你们好甜啊",
+      "onboard_time": 1741755264,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 571362,
       "num": 380459,
       "word": "徐克称进房间是女运动员主动邀请",
@@ -5505,6 +5513,14 @@
       "onboard_time": 1741417041,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 490643,
+      "num": 490643,
+      "word": "眼泪女王",
+      "onboard_time": 1741755985,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 490360,
@@ -6331,14 +6347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 426296,
-      "num": 426296,
-      "word": "黄明昊 你们好甜啊",
-      "onboard_time": 1741755264,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 425667,
       "num": 457043,
       "word": "幸福就是给员工涨工资",
@@ -6659,6 +6667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 405181,
+      "num": 405181,
+      "word": "祭拜祖坟发现2墓穴被立他人墓碑",
+      "onboard_time": 1741752625,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 405179,
       "num": 405179,
       "word": "强制9点下班能遏制畸形加班文化吗",
@@ -6801,14 +6817,6 @@
       "onboard_time": 1741746081,
       "rank": 24,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 397631,
-      "num": 397631,
-      "word": "祭拜祖坟发现2墓穴被立他人墓碑",
-      "onboard_time": 1741752625,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 397457,
@@ -7056,6 +7064,14 @@
       "word": "单依纯没打封闭",
       "onboard_time": 1740791419,
       "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 385478,
+      "num": 385478,
+      "word": "韩国低于性同意年龄均视为强奸",
+      "onboard_time": 1741755385,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -8067,6 +8083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 343428,
+      "num": 343428,
+      "word": "papi看到胡彦斌的手串眼里都在放光",
+      "onboard_time": 1741756405,
+      "rank": 19,
+      "category": "网红"
+    },
+    {
       "raw_hot": 343063,
       "num": 343063,
       "word": "XIUMIN与SM艺人不能同时出演KBS节目",
@@ -8651,6 +8675,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 322772,
+      "num": 322772,
+      "word": "20年前的电子垃圾为何被炒出天价",
+      "onboard_time": 1741752445,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 322572,
       "num": 217709,
       "word": "辛芷蕾新剧脚趾接大工程了",
@@ -9155,6 +9187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 302565,
+      "num": 302565,
+      "word": "董明珠说为格力省了十几亿广告费",
+      "onboard_time": 1741756765,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 302562,
       "num": 302562,
       "word": "张凯丽建议增设家庭暴力罪",
@@ -9177,14 +9217,6 @@
       "onboard_time": 1741668323,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 302039,
-      "num": 302039,
-      "word": "20年前的电子垃圾为何被炒出天价",
-      "onboard_time": 1741752445,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 301345,
@@ -9363,14 +9395,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 297639,
-      "num": 297639,
-      "word": "眼泪女王",
-      "onboard_time": 1741755985,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 297529,
       "num": 189745,
       "word": "周翊然素颜直播",
@@ -9473,14 +9497,6 @@
       "onboard_time": 1740836242,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 294323,
-      "num": 294323,
-      "word": "韩国低于性同意年龄均视为强奸",
-      "onboard_time": 1741755385,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 294251,
@@ -10475,6 +10491,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 267700,
+      "num": 267700,
+      "word": "DeepSeek眼中不会被AI替代的职业",
+      "onboard_time": 1741757363,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 267624,
       "num": 214438,
       "word": "全红婵在追难哄",
@@ -10881,6 +10905,14 @@
       "onboard_time": 1741397960,
       "rank": 22,
       "category": "数码"
+    },
+    {
+      "raw_hot": 257514,
+      "num": 257514,
+      "word": "少爷和我杀回来了",
+      "onboard_time": 1741755865,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 255551,
@@ -11563,14 +11595,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 236518,
-      "num": 236518,
-      "word": "少爷和我杀回来了",
-      "onboard_time": 1741755865,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 236306,
       "num": 236306,
       "word": "韩国警方回应辉星去世",
@@ -11819,12 +11843,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230535,
+      "num": 347751,
+      "word": "海底捞就男子向火锅小便事件发声明",
+      "onboard_time": 1741757244,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 230332,
       "num": 330049,
       "word": "男子喝满月酒酒驾身亡家属索赔主办人",
       "onboard_time": 1740799277,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 230242,
+      "num": 230242,
+      "word": "大侦探也是消费降级了",
+      "onboard_time": 1741756584,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 230049,
@@ -12755,6 +12795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214394,
+      "num": 299315,
+      "word": "杨铭宇黄焖鸡正联系涉事门店关店整改",
+      "onboard_time": 1741756165,
+      "rank": 13,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 214252,
       "num": 208995,
       "word": "似锦第13集手伸不进屏幕的心碎",
@@ -13235,6 +13283,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 206959,
+      "num": 206959,
+      "word": "宁艺卓短发拍摄MV",
+      "onboard_time": 1741757606,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 206940,
       "num": 206940,
       "word": "Meow对战WBG",
@@ -13705,6 +13761,14 @@
       "onboard_time": 1740825681,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202447,
+      "num": 202447,
+      "word": "AD钙奶这个味儿谁研究出来的",
+      "onboard_time": 1741754846,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 202438,
@@ -14755,6 +14819,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 191080,
+      "num": 191080,
+      "word": "世界十大影响力名人",
+      "onboard_time": 1741757786,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191023,
       "num": 191023,
       "word": "刘学义落花时节又逢君进入排播",
@@ -14913,14 +14985,6 @@
       "onboard_time": 1741161800,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 189307,
-      "num": 189307,
-      "word": "AD钙奶这个味儿谁研究出来的",
-      "onboard_time": 1741754846,
-      "rank": 27,
-      "category": "美食"
     },
     {
       "raw_hot": 189260,
@@ -16267,14 +16331,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 175357,
-      "num": 175357,
-      "word": "大侦探也是消费降级了",
-      "onboard_time": 1741756584,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 175260,
       "num": 175260,
       "word": "檀健次红毯压轴",
@@ -17105,6 +17161,14 @@
       "onboard_time": 1740899238,
       "rank": 31,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 167633,
+      "num": 299664,
+      "word": "郑钦文vs科斯秋克",
+      "onboard_time": 1741756823,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 167609,
@@ -18960,14 +19024,6 @@
       "word": "衢州再通报男子虐猫致死",
       "onboard_time": 1741581563,
       "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 153600,
-      "num": 153600,
-      "word": "董明珠说为格力省了十几亿广告费",
-      "onboard_time": 1741756765,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -20859,6 +20915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139885,
+      "num": 139885,
+      "word": "苏打绿贝斯手馨仪离婚",
+      "onboard_time": 1741757065,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139772,
       "num": 357692,
       "word": "今年综合整治内卷式竞争",
@@ -21033,6 +21097,14 @@
       "onboard_time": 1740839424,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 138616,
+      "num": 210819,
+      "word": "吴磊夜爬鬼笑石看日出",
+      "onboard_time": 1741757363,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 138593,
@@ -21899,6 +21971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131345,
+      "num": 129976,
+      "word": "绝美哪吒与敖丙",
+      "onboard_time": 1741754786,
+      "rank": 44,
+      "category": "动漫,电影"
+    },
+    {
       "raw_hot": 131320,
       "num": 153505,
       "word": "蔡康永认为穷忙大可不必",
@@ -22251,14 +22331,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 128581,
-      "num": 155222,
-      "word": "郑钦文vs科斯秋克",
-      "onboard_time": 1741756823,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 128491,
       "num": 128491,
       "word": "哈登单节23分",
@@ -22555,20 +22627,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 126822,
-      "num": 126822,
-      "word": "绝美哪吒与敖丙",
-      "onboard_time": 1741754786,
-      "rank": 44,
-      "category": "动漫,电影"
-    },
-    {
       "raw_hot": 126742,
       "num": 242809,
       "word": "中方对美提以其人之道还治其人之身",
       "onboard_time": 1741262063,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 126685,
+      "num": 126685,
+      "word": "陈哲远谁是我的新郎",
+      "onboard_time": 1741757485,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 126596,
@@ -22953,14 +23025,6 @@
       "onboard_time": 1741139058,
       "rank": 33,
       "category": "国内时政,互联网"
-    },
-    {
-      "raw_hot": 124806,
-      "num": 299315,
-      "word": "杨铭宇黄焖鸡正联系涉事门店关店整改",
-      "onboard_time": 1741756165,
-      "rank": 13,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 124765,
@@ -24393,6 +24457,14 @@
       "onboard_time": 1741509682,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 115258,
+      "num": 115258,
+      "word": "常按这个穴位孩子火箭式长高",
+      "onboard_time": 1741757003,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 115257,
@@ -27667,6 +27739,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 94245,
+      "num": 394082,
+      "word": "2025北京国际电影节官宣",
+      "onboard_time": 1741751545,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 94128,
       "num": 94128,
       "word": "余华英被执行死刑",
@@ -28289,14 +28369,6 @@
       "onboard_time": 1740877457,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 89084,
-      "num": 284950,
-      "word": "papi看到胡彦斌的手串眼里都在放光",
-      "onboard_time": 1741756405,
-      "rank": 19,
-      "category": "网红"
     },
     {
       "raw_hot": 89077,
@@ -32051,6 +32123,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 45658,
+      "num": 297941,
+      "word": "男子2毛买AI彩票预测被骗2万多",
+      "onboard_time": 1741756043,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 45609,
       "num": 269060,
       "word": "专家称个税调整应考虑地区差异",
@@ -33667,14 +33747,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 30252,
-      "num": 297941,
-      "word": "男子2毛买AI彩票预测被骗2万多",
-      "onboard_time": 1741756043,
-      "rank": 14,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 30050,
       "num": 184984,
       "word": "铁锅炖排骨贴饼",
@@ -35217,6 +35289,14 @@
       "onboard_time": 1740976040,
       "rank": 34,
       "category": "民生新闻,国内时政"
+    },
+    {
+      "raw_hot": 16580,
+      "num": 208883,
+      "word": "二次元好伟大的发明",
+      "onboard_time": 1741757545,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 16503,
