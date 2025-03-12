@@ -1,0 +1,410 @@
+{
+  "runTime": 1741779370060,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1049969,
+        "num": 1167995,
+        "word": "多名外卖小哥提醒避雷黄焖鸡",
+        "onboard_time": 1741769120,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 896375,
+        "num": 896375,
+        "word": "KC零封TES",
+        "onboard_time": 1741778905,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 11808,
+        "num": 777128,
+        "word": "我国新兴产业交出亮眼成绩单",
+        "onboard_time": 1741779025,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 701744,
+        "num": 701744,
+        "word": "女子760万买房住了1年发现是凶宅",
+        "onboard_time": 1741772843,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 654939,
+        "num": 654939,
+        "word": "杨铭宇黄焖鸡道歉",
+        "onboard_time": 1741763723,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 509254,
+        "num": 509254,
+        "word": "原央视主持人赵普回应保安出身",
+        "onboard_time": 1741775605,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299310,
+        "num": 361756,
+        "word": "念无双 定档",
+        "onboard_time": 1741772783,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244883,
+        "num": 328328,
+        "word": "哪吒2冲刺150亿票房新纪录",
+        "onboard_time": 1741774343,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 30553,
+        "num": 317571,
+        "word": "九图速览两会热点",
+        "onboard_time": 1741778304,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 316682,
+        "num": 316682,
+        "word": "马拉多纳死亡案真相大白",
+        "onboard_time": 1741775064,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8901461,
+        "num": 8901461,
+        "word": "金秀贤在信里说我爱你赛纶",
+        "onboard_time": 1741774582,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1064001,
+        "num": 307527,
+        "word": "崔显旭 金赛纶酒驾副驾驶",
+        "onboard_time": 1741775306,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 519082,
+        "num": 303828,
+        "word": "刚baby baby几天就塌了",
+        "onboard_time": 1741760663,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387014,
+        "num": 292840,
+        "word": "金赛纶生前最后一次露面",
+        "onboard_time": 1741767383,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345438,
+        "num": 287542,
+        "word": "日本女孩直播时被杀粉丝全程目睹",
+        "onboard_time": 1741774943,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 338179,
+        "num": 280296,
+        "word": "父亲想要儿子连生9个女儿",
+        "onboard_time": 1741773503,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33352,
+        "num": 278420,
+        "word": "7岁买的保险要60岁才能全取出",
+        "onboard_time": 1741779025,
+        "rank": 16,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 273701,
+        "num": 273701,
+        "word": "DeepSeek眼中不会被AI替代的职业",
+        "onboard_time": 1741757363,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 230912,
+        "num": 263831,
+        "word": "网红廖叔去世家属发讣告",
+        "onboard_time": 1741776263,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 256803,
+        "num": 256803,
+        "word": "王曼昱3比0迪亚兹",
+        "onboard_time": 1741778304,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1682826,
+        "num": 256581,
+        "word": "金秀贤金赛纶亲吻照再曝",
+        "onboard_time": 1741774104,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 569373,
+        "num": 253127,
+        "word": "韩国陈学冬",
+        "onboard_time": 1741778604,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 350891,
+        "num": 249018,
+        "word": "迪丽热巴露背纱裙",
+        "onboard_time": 1741776865,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168322,
+        "num": 246121,
+        "word": "任嘉伦 天骄",
+        "onboard_time": 1741778364,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103393,
+        "num": 244484,
+        "word": "宁芙奖请投佣兵",
+        "onboard_time": 1741777524,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 241413,
+        "num": 241413,
+        "word": "不懂金秀贤做错什么了的韩男们",
+        "onboard_time": 1741754965,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226008,
+        "num": 226008,
+        "word": "Dior高珠展",
+        "onboard_time": 1741778128,
+        "rank": 26,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 198784,
+        "num": 212501,
+        "word": "吴倩不语只是一味分蛋糕",
+        "onboard_time": 1741778486,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18152,
+        "num": 209801,
+        "word": "时装周趋势解读",
+        "onboard_time": 1741778785,
+        "rank": 28,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 16956,
+        "num": 207906,
+        "word": "暗杀教室伟大的老师",
+        "onboard_time": 1741778846,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 207597,
+        "num": 207597,
+        "word": "韩国胶鞋寓意",
+        "onboard_time": 1741773805,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415689,
+        "num": 207366,
+        "word": "TES与HLE冲击两连胜",
+        "onboard_time": 1741776085,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 202102,
+        "num": 202102,
+        "word": "杨铭宇黄焖鸡涉事门店被查处",
+        "onboard_time": 1741778486,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38855,
+        "num": 193031,
+        "word": "男子儿时被生父送走85岁回家",
+        "onboard_time": 1741777524,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189503,
+        "num": 189503,
+        "word": "榜一大哥花2元骗女主播80余万元",
+        "onboard_time": 1741776085,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179292,
+        "num": 179292,
+        "word": "委员谈为什么医生自己不做近视手术",
+        "onboard_time": 1741774222,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 165436,
+        "num": 165436,
+        "word": "权志龙综艺",
+        "onboard_time": 1741768463,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26080,
+        "num": 158265,
+        "word": "2025奋进中国",
+        "onboard_time": 1741750883,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 153763,
+        "num": 153763,
+        "word": "沃尔玛对中国消费者完全可以被替代",
+        "onboard_time": 1741779025,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152543,
+        "num": 152543,
+        "word": "被似锦第25集夫妻混合双打爽到了",
+        "onboard_time": 1741778425,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149202,
+        "num": 149202,
+        "word": "华为内部人士证实事发成都存储部门",
+        "onboard_time": 1741776686,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138813,
+        "num": 138813,
+        "word": "王楚钦说大爷吼一嗓子挺吓人",
+        "onboard_time": 1741776085,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38397,
+        "num": 138499,
+        "word": "杨铭宇黄焖鸡涉事门店被查封",
+        "onboard_time": 1741779326,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126310,
+        "num": 138270,
+        "word": "SMTOWN东京阵容",
+        "onboard_time": 1741777824,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138235,
+        "num": 138235,
+        "word": "美乌发布联合声明",
+        "onboard_time": 1741772602,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137187,
+        "num": 137187,
+        "word": "张峻豪个人演唱会官宣",
+        "onboard_time": 1741776865,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136348,
+        "num": 136348,
+        "word": "女子用快递刀割断安全带救出司机",
+        "onboard_time": 1741772302,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125286,
+        "num": 125286,
+        "word": "买1888元水晶手串收到3元石头",
+        "onboard_time": 1741776925,
+        "rank": 47,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 119575,
+        "num": 119575,
+        "word": "律师称3岁智商产妇没有性同意能力",
+        "onboard_time": 1741771463,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118230,
+        "num": 118230,
+        "word": "凌妙妙一觉醒来什么都有了",
+        "onboard_time": 1741766123,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记出席2025年全国两会纪实#"
+    }
+  }
+}
