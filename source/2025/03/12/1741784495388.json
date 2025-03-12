@@ -1,0 +1,410 @@
+{
+  "runTime": 1741784495388,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2074073,
+        "num": 2074073,
+        "word": "顾茜茜抖音账号被永久封禁",
+        "onboard_time": 1741780343,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 686011,
+        "num": 686011,
+        "word": "女子通一次马桶被收费3180元",
+        "onboard_time": 1741781124,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 35736,
+        "num": 566147,
+        "word": "文化中国行看唐诗里的诗意中国",
+        "onboard_time": 1741779923,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 525804,
+        "num": 525804,
+        "word": "迪丽热巴露背纱裙",
+        "onboard_time": 1741776865,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 511277,
+        "num": 511277,
+        "word": "多名外卖小哥提醒避雷黄焖鸡",
+        "onboard_time": 1741769120,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 433882,
+        "num": 433882,
+        "word": "女子760万买房住了1年发现是凶宅",
+        "onboard_time": 1741772843,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 423057,
+        "num": 423057,
+        "word": "杨铭宇黄焖鸡道歉",
+        "onboard_time": 1741763723,
+        "rank": 6,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 353295,
+        "num": 353295,
+        "word": "KC零封TES",
+        "onboard_time": 1741778905,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 337479,
+        "num": 337479,
+        "word": "TES 大满败",
+        "onboard_time": 1741781545,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 302391,
+        "num": 302391,
+        "word": "老人怕96岁妈妈无人照料不肯就医",
+        "onboard_time": 1741782264,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6501478,
+        "num": 6501478,
+        "word": "金秀贤在信里说我爱你赛纶",
+        "onboard_time": 1741774582,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 557071,
+        "num": 299895,
+        "word": "金赛纶生前最后一次露面",
+        "onboard_time": 1741767383,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 518017,
+        "num": 297722,
+        "word": "原央视主持人赵普回应保安出身",
+        "onboard_time": 1741775605,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 450190,
+        "num": 295110,
+        "word": "崔显旭 金赛纶酒驾副驾驶",
+        "onboard_time": 1741775306,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398587,
+        "num": 291805,
+        "word": "官方回应拦截的900只猫被活埋",
+        "onboard_time": 1741779923,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73088,
+        "num": 290735,
+        "word": "雨是神的烟花",
+        "onboard_time": 1741781064,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1027296,
+        "num": 287530,
+        "word": "金秀贤金赛纶亲吻照再曝",
+        "onboard_time": 1741774104,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333236,
+        "num": 285786,
+        "word": "刚baby baby几天就塌了",
+        "onboard_time": 1741760663,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284353,
+        "num": 284353,
+        "word": "白玉兰奖征片提名",
+        "onboard_time": 1741783343,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 55831,
+        "num": 282532,
+        "word": "成本不超5毛钱小甜水标成酸奶卖",
+        "onboard_time": 1741783764,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 337318,
+        "num": 281498,
+        "word": "韩国陈学冬",
+        "onboard_time": 1741778604,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 94988,
+        "num": 276721,
+        "word": "李兰迪直播",
+        "onboard_time": 1741783944,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89493,
+        "num": 275953,
+        "word": "女子遇通马桶刺客法院判商家赔9600元",
+        "onboard_time": 1741784246,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 367758,
+        "num": 272777,
+        "word": "D社爆料全文",
+        "onboard_time": 1741779564,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60279,
+        "num": 269161,
+        "word": "植树节要用微博新表情",
+        "onboard_time": 1741783944,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 193224,
+        "num": 268071,
+        "word": "未来3天大风降温雨雪来袭",
+        "onboard_time": 1741783465,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158269,
+        "num": 263704,
+        "word": "韩红薛之谦连麦",
+        "onboard_time": 1741783104,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153108,
+        "num": 262323,
+        "word": "滤镜 细思极恐",
+        "onboard_time": 1741781603,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142958,
+        "num": 259066,
+        "word": "哪吒2冲刺150亿票房新纪录",
+        "onboard_time": 1741774343,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131230,
+        "num": 256433,
+        "word": "燃罪定档",
+        "onboard_time": 1741783584,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254673,
+        "num": 254673,
+        "word": "权志龙无妄之灾",
+        "onboard_time": 1741779685,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215253,
+        "num": 215253,
+        "word": "脂肪是如何排出体外的",
+        "onboard_time": 1741781724,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 203232,
+        "num": 203232,
+        "word": "G2开团TES",
+        "onboard_time": 1741780764,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 197440,
+        "num": 197440,
+        "word": "父亲想要儿子连生9个女儿",
+        "onboard_time": 1741773503,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195085,
+        "num": 195085,
+        "word": "沃尔玛对中国消费者完全可以被替代",
+        "onboard_time": 1741779025,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113580,
+        "num": 170098,
+        "word": "加拿大省长呼吁应立即与中国合作",
+        "onboard_time": 1741782444,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 165838,
+        "num": 165838,
+        "word": "凌晨出警安抚74岁女儿照顾96岁妈妈",
+        "onboard_time": 1741777704,
+        "rank": 36,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 162576,
+        "num": 162576,
+        "word": "日本女孩直播时被杀粉丝全程目睹",
+        "onboard_time": 1741774943,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 157863,
+        "num": 157863,
+        "word": "马拉多纳死亡案真相大白",
+        "onboard_time": 1741775064,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121189,
+        "num": 154232,
+        "word": "念无双 定档",
+        "onboard_time": 1741772783,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153722,
+        "num": 153722,
+        "word": "DeepSeek眼中不会被AI替代的职业",
+        "onboard_time": 1741757363,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 145888,
+        "num": 145888,
+        "word": "CPI",
+        "onboard_time": 1741784305,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 143068,
+        "num": 143068,
+        "word": "SM艺人官娃",
+        "onboard_time": 1741782444,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136975,
+        "num": 136975,
+        "word": "拒绝充值游戏被家暴女子瘫痪失明至今",
+        "onboard_time": 1741781064,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121150,
+        "num": 121150,
+        "word": "Dior高珠展",
+        "onboard_time": 1741778128,
+        "rank": 44,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 111270,
+        "num": 111270,
+        "word": "虞书欣现偶招商史冠",
+        "onboard_time": 1741780164,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110329,
+        "num": 110329,
+        "word": "7岁买的保险要60岁才能全取出",
+        "onboard_time": 1741779025,
+        "rank": 46,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 108972,
+        "num": 108972,
+        "word": "黄焖鸡",
+        "onboard_time": 1741784364,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106256,
+        "num": 106256,
+        "word": "川崎前锋4比0上海申花",
+        "onboard_time": 1741783705,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103993,
+        "num": 103993,
+        "word": "委员谈为什么医生自己不做近视手术",
+        "onboard_time": 1741774222,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记出席2025年全国两会纪实#"
+    }
+  }
+}

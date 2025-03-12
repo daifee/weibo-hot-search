@@ -1,6 +1,6 @@
 {
   "startTime": 1741710703289,
-  "endTime": 1741783539986,
+  "endTime": 1741784495388,
   "band_list": [
     {
       "raw_hot": 10901855,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2074073,
+      "num": 2074073,
+      "word": "顾茜茜抖音账号被永久封禁",
+      "onboard_time": 1741780343,
+      "rank": 0,
+      "category": "网红"
+    },
+    {
       "raw_hot": 2031122,
       "num": 2031122,
       "word": "多名外卖小哥提醒避雷黄焖鸡",
@@ -89,14 +97,6 @@
       "onboard_time": 1741687164,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1848436,
-      "num": 1848436,
-      "word": "顾茜茜抖音账号被永久封禁",
-      "onboard_time": 1741780343,
-      "rank": 0,
-      "category": "网红"
     },
     {
       "raw_hot": 1837033,
@@ -297,6 +297,14 @@
       "onboard_time": 1741711639,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 686011,
+      "num": 686011,
+      "word": "女子通一次马桶被收费3180元",
+      "onboard_time": 1741781124,
+      "rank": 6,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 657348,
@@ -523,14 +531,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 453441,
-      "num": 453441,
-      "word": "女子通一次马桶被收费3180元",
-      "onboard_time": 1741781124,
-      "rank": 6,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 448402,
       "num": 287542,
       "word": "日本女孩直播时被杀粉丝全程目睹",
@@ -651,6 +651,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 398587,
+      "num": 291805,
+      "word": "官方回应拦截的900只猫被活埋",
+      "onboard_time": 1741779923,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 398006,
       "num": 352482,
       "word": "用Deepseek自动生成PPT教程",
@@ -731,14 +739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 359109,
-      "num": 287308,
-      "word": "官方回应拦截的900只猫被活埋",
-      "onboard_time": 1741779923,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 357589,
       "num": 306146,
       "word": "微信误转给同名人1000元对方不还",
@@ -803,6 +803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 337479,
+      "num": 337479,
+      "word": "TES 大满败",
+      "onboard_time": 1741781545,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 324923,
       "num": 324923,
       "word": "美乌发布联合声明",
@@ -827,19 +835,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 319269,
-      "num": 319269,
-      "word": "TES 大满败",
-      "onboard_time": 1741781545,
-      "rank": 8,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 302565,
       "num": 302565,
       "word": "董明珠说为格力省了十几亿广告费",
       "onboard_time": 1741756765,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 302391,
+      "num": 307506,
+      "word": "老人怕96岁妈妈无人照料不肯就医",
+      "onboard_time": 1741782264,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -881,6 +889,14 @@
       "onboard_time": 1741692805,
       "rank": 30,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 284353,
+      "num": 317726,
+      "word": "白玉兰奖征片提名",
+      "onboard_time": 1741783343,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 280058,
@@ -971,6 +987,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 254673,
+      "num": 254673,
+      "word": "权志龙无妄之灾",
+      "onboard_time": 1741779685,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254532,
       "num": 254532,
       "word": "光与夜之恋",
@@ -1003,14 +1027,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 241097,
-      "num": 241097,
-      "word": "权志龙无妄之灾",
-      "onboard_time": 1741779685,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 238035,
       "num": 238035,
       "word": "第四十五号主席令",
@@ -1025,14 +1041,6 @@
       "onboard_time": 1741762403,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 236272,
-      "num": 317726,
-      "word": "白玉兰奖征片提名",
-      "onboard_time": 1741783343,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 234418,
@@ -1339,6 +1347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193224,
+      "num": 268071,
+      "word": "未来3天大风降温雨雪来袭",
+      "onboard_time": 1741783465,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193111,
       "num": 187492,
       "word": "张凌赫种植豆芽",
@@ -1603,6 +1619,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 165838,
+      "num": 165838,
+      "word": "凌晨出警安抚74岁女儿照顾96岁妈妈",
+      "onboard_time": 1741777704,
+      "rank": 43,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 165083,
       "num": 165083,
       "word": "拒绝充值游戏被家暴女子瘫痪失明至今",
@@ -1619,28 +1643,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 163977,
-      "num": 307506,
-      "word": "老人怕96岁妈妈无人照料不肯就医",
-      "onboard_time": 1741782264,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 163669,
       "num": 163669,
       "word": "张艺兴被小孩姐贴脸开大",
       "onboard_time": 1741768044,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 163152,
-      "num": 163152,
-      "word": "凌晨出警安抚74岁女儿照顾96岁妈妈",
-      "onboard_time": 1741777704,
-      "rank": 43,
-      "category": "正能量"
     },
     {
       "raw_hot": 162205,
@@ -1660,7 +1668,7 @@
     },
     {
       "raw_hot": 159566,
-      "num": 223836,
+      "num": 262323,
       "word": "滤镜 细思极恐",
       "onboard_time": 1741781603,
       "rank": 28,
@@ -1689,6 +1697,14 @@
       "onboard_time": 1741772483,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158269,
+      "num": 263704,
+      "word": "韩红薛之谦连麦",
+      "onboard_time": 1741783104,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 157123,
@@ -1835,20 +1851,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148233,
-      "num": 208303,
-      "word": "韩红薛之谦连麦",
-      "onboard_time": 1741783104,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 147720,
       "num": 147720,
       "word": "杨铭宇黄焖鸡回应被曝后厨乱象",
       "onboard_time": 1741754486,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145888,
+      "num": 145888,
+      "word": "CPI",
+      "onboard_time": 1741784305,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 145645,
@@ -1971,14 +1987,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 134112,
-      "num": 134112,
-      "word": "未来3天大风降温雨雪来袭",
-      "onboard_time": 1741783465,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 133679,
       "num": 133679,
       "word": "海底捞补偿力度",
@@ -2025,6 +2033,14 @@
       "onboard_time": 1741754786,
       "rank": 44,
       "category": "动漫,电影"
+    },
+    {
+      "raw_hot": 131230,
+      "num": 256433,
+      "word": "燃罪定档",
+      "onboard_time": 1741783584,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 131189,
@@ -2275,6 +2291,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 113580,
+      "num": 304945,
+      "word": "加拿大省长呼吁应立即与中国合作",
+      "onboard_time": 1741782444,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 113299,
       "num": 113299,
       "word": "一诺分享春天的颜色",
@@ -2313,6 +2337,14 @@
       "onboard_time": 1741777524,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 108972,
+      "num": 108972,
+      "word": "黄焖鸡",
+      "onboard_time": 1741784364,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108746,
@@ -2361,6 +2393,14 @@
       "onboard_time": 1741772902,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 106256,
+      "num": 106256,
+      "word": "川崎前锋4比0上海申花",
+      "onboard_time": 1741783705,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 105632,
@@ -2443,6 +2483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94988,
+      "num": 276721,
+      "word": "李兰迪直播",
+      "onboard_time": 1741783944,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94245,
       "num": 394082,
       "word": "2025北京国际电影节官宣",
@@ -2488,6 +2536,14 @@
       "word": "植树节",
       "onboard_time": 1741739183,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89493,
+      "num": 275953,
+      "word": "女子遇通马桶刺客法院判商家赔9600元",
+      "onboard_time": 1741784246,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -2579,20 +2635,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 75126,
-      "num": 304945,
-      "word": "加拿大省长呼吁应立即与中国合作",
-      "onboard_time": 1741782444,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 73447,
       "num": 73447,
       "word": "赵小童愿我们可以一直微笑",
       "onboard_time": 1741710560,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 73088,
+      "num": 300572,
+      "word": "雨是神的烟花",
+      "onboard_time": 1741781064,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 72321,
@@ -2635,14 +2691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 68604,
-      "num": 300572,
-      "word": "雨是神的烟花",
-      "onboard_time": 1741781064,
-      "rank": 15,
-      "category": "情感"
-    },
-    {
       "raw_hot": 68268,
       "num": 70922,
       "word": "赵露思CT全球代言人",
@@ -2681,6 +2729,14 @@
       "onboard_time": 1741703363,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60279,
+      "num": 269161,
+      "word": "植树节要用微博新表情",
+      "onboard_time": 1741783944,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 60116,
@@ -2745,6 +2801,14 @@
       "onboard_time": 1741712956,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 55831,
+      "num": 282532,
+      "word": "成本不超5毛钱小甜水标成酸奶卖",
+      "onboard_time": 1741783764,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 55565,
@@ -2932,7 +2996,7 @@
     },
     {
       "raw_hot": 37455,
-      "num": 526805,
+      "num": 566147,
       "word": "文化中国行看唐诗里的诗意中国",
       "onboard_time": 1741779923,
       "rank": 2,
