@@ -1,0 +1,410 @@
+{
+  "runTime": 1741793209422,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1369148,
+        "num": 1369148,
+        "word": "顾茜茜抖音账号被永久封禁",
+        "onboard_time": 1741780343,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 694535,
+        "num": 694535,
+        "word": "多名外卖小哥提醒避雷黄焖鸡",
+        "onboard_time": 1741769120,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56589,
+        "num": 631569,
+        "word": "2025政府工作报告全文",
+        "onboard_time": 1741776686,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 580657,
+        "num": 580657,
+        "word": "肖战 谍报上不封顶",
+        "onboard_time": 1741791266,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 465037,
+        "num": 465037,
+        "word": "老外为证明没说谎带邻居来中国",
+        "onboard_time": 1741788325,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1680583,
+        "num": 462515,
+        "word": "特朗普衰退",
+        "onboard_time": 1741790065,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 531114,
+        "num": 454294,
+        "word": "沈腾 斯内普",
+        "onboard_time": 1741787126,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433624,
+        "num": 433624,
+        "word": "女子通一次马桶被收费3180元",
+        "onboard_time": 1741781124,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 405941,
+        "num": 405941,
+        "word": "天若有情 含金量",
+        "onboard_time": 1741790005,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295777,
+        "num": 295777,
+        "word": "女子760万买房住了1年发现是凶宅",
+        "onboard_time": 1741772843,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2244255,
+        "num": 289871,
+        "word": "金秀贤在信里说我爱你赛纶",
+        "onboard_time": 1741774582,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 931276,
+        "num": 283800,
+        "word": "朝海底捞锅底小便男子赔偿或达百万",
+        "onboard_time": 1741788146,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 685752,
+        "num": 278970,
+        "word": "晚宴的迪丽热巴",
+        "onboard_time": 1741789287,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 368165,
+        "num": 268333,
+        "word": "日本女孩直播时被杀粉丝全程目睹",
+        "onboard_time": 1741774943,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 335672,
+        "num": 258693,
+        "word": "52岁中国驻外大使李岩逝世",
+        "onboard_time": 1741785504,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1009840,
+        "num": 246044,
+        "word": "金秀贤私发给金赛纶的照片",
+        "onboard_time": 1741789045,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317208,
+        "num": 240948,
+        "word": "原央视主持人赵普回应保安出身",
+        "onboard_time": 1741775605,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237318,
+        "num": 237318,
+        "word": "脂肪是如何排出体外的",
+        "onboard_time": 1741781724,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 221385,
+        "num": 221385,
+        "word": "韩国陈学冬",
+        "onboard_time": 1741778604,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 197249,
+        "num": 221195,
+        "word": "网购500元假茅台官方扫码为真",
+        "onboard_time": 1741792106,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 491520,
+        "num": 221121,
+        "word": "带偏瘫妻子跑车4年司机交新女友",
+        "onboard_time": 1741791566,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35437,
+        "num": 221035,
+        "word": "中国绿绘就生态新画卷",
+        "onboard_time": 1741780825,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221017,
+        "num": 221017,
+        "word": "崔显旭 金赛纶酒驾副驾驶",
+        "onboard_time": 1741775306,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201408,
+        "num": 201408,
+        "word": "热巴周也陈星旭王子文同框",
+        "onboard_time": 1741785325,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198339,
+        "num": 198339,
+        "word": "权志龙无妄之灾",
+        "onboard_time": 1741779685,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188120,
+        "num": 188120,
+        "word": "杨铭宇黄焖鸡道歉",
+        "onboard_time": 1741763723,
+        "rank": 25,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 135849,
+        "num": 179986,
+        "word": "李行亮经纪人回应麦琳被抵制",
+        "onboard_time": 1741791207,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177337,
+        "num": 177337,
+        "word": "金赛纶生前最后一次露面",
+        "onboard_time": 1741767383,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156635,
+        "num": 156635,
+        "word": "正式成为姜妍的做饭粉",
+        "onboard_time": 1741787605,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159660,
+        "num": 156213,
+        "word": "官方回应拦截的900只猫被活埋",
+        "onboard_time": 1741779923,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154612,
+        "num": 154612,
+        "word": "每一个人都是主角",
+        "onboard_time": 1741791744,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139909,
+        "num": 139909,
+        "word": "父亲想要儿子连生9个女儿",
+        "onboard_time": 1741773503,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136484,
+        "num": 136484,
+        "word": "刚baby baby几天就塌了",
+        "onboard_time": 1741760663,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129884,
+        "num": 129884,
+        "word": "陈梦带妈妈录制是女儿是妈妈2",
+        "onboard_time": 1741787245,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129221,
+        "num": 129221,
+        "word": "白玉兰",
+        "onboard_time": 1741785924,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127870,
+        "num": 127870,
+        "word": "孙艺珍背部肌肉线条",
+        "onboard_time": 1741786403,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127631,
+        "num": 127631,
+        "word": "KC零封TES",
+        "onboard_time": 1741778905,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125308,
+        "num": 125308,
+        "word": "凌晨出警安抚74岁女儿照顾96岁妈妈",
+        "onboard_time": 1741777704,
+        "rank": 37,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 121777,
+        "num": 121777,
+        "word": "委员谈为什么医生自己不做近视手术",
+        "onboard_time": 1741774222,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 116700,
+        "num": 116700,
+        "word": "TES 大满败",
+        "onboard_time": 1741781545,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114189,
+        "num": 114189,
+        "word": "成都蓉城10岁小球迷林子金去世",
+        "onboard_time": 1741787605,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109268,
+        "num": 109268,
+        "word": "微短剧半壁江山都来了",
+        "onboard_time": 1741792646,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108498,
+        "num": 108498,
+        "word": "潘宏团队回应4000元训狗染病",
+        "onboard_time": 1741792344,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106387,
+        "num": 106387,
+        "word": "滤镜 细思极恐",
+        "onboard_time": 1741781603,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105846,
+        "num": 105846,
+        "word": "未来3天大风降温雨雪来袭",
+        "onboard_time": 1741783465,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103448,
+        "num": 103448,
+        "word": "马拉多纳死亡案真相大白",
+        "onboard_time": 1741775064,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99050,
+        "num": 99050,
+        "word": "17万的哪吒增程车成了老头乐",
+        "onboard_time": 1741788625,
+        "rank": 46,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 97385,
+        "num": 97385,
+        "word": "G2开团TES",
+        "onboard_time": 1741780764,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 96682,
+        "num": 96682,
+        "word": "4岁萌娃神还原唐代小仕女",
+        "onboard_time": 1741787485,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92966,
+        "num": 92966,
+        "word": "王一博巴黎时装周待遇",
+        "onboard_time": 1741791686,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代的华彩乐章#"
+    }
+  }
+}

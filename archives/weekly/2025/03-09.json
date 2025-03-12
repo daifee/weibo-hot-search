@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741790553278,
+  "endTime": 1741793209422,
   "band_list": [
     {
       "raw_hot": 21330054,
@@ -313,6 +313,14 @@
       "onboard_time": 1741692805,
       "rank": 41,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 1680583,
+      "num": 462515,
+      "word": "特朗普衰退",
+      "onboard_time": 1741790065,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1670296,
@@ -851,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 931276,
+      "num": 391838,
+      "word": "朝海底捞锅底小便男子赔偿或达百万",
+      "onboard_time": 1741788146,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 919771,
       "num": 319309,
       "word": "何猷君晒全家福给奚梦瑶庆生",
@@ -1331,6 +1347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 685752,
+      "num": 292511,
+      "word": "晚宴的迪丽热巴",
+      "onboard_time": 1741789287,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 684457,
       "num": 684457,
       "word": "住宅层高标准将不低于3米",
@@ -1547,14 +1571,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 624397,
-      "num": 391838,
-      "word": "朝海底捞锅底小便男子赔偿或达百万",
-      "onboard_time": 1741788146,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 623589,
       "num": 390873,
       "word": "吉赛尔 老天保佑金山银山全都有",
@@ -1689,6 +1705,14 @@
       "onboard_time": 1741578503,
       "rank": 6,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 580657,
+      "num": 580657,
+      "word": "肖战 谍报上不封顶",
+      "onboard_time": 1741791266,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 572402,
@@ -2008,6 +2032,14 @@
       "word": "老外为证明没说谎带邻居来中国",
       "onboard_time": 1741788325,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 491520,
+      "num": 221121,
+      "word": "带偏瘫妻子跑车4年司机交新女友",
+      "onboard_time": 1741791566,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -2371,20 +2403,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 407250,
-      "num": 292511,
-      "word": "晚宴的迪丽热巴",
-      "onboard_time": 1741789287,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 406816,
       "num": 406816,
       "word": "六旬教授疑因考核不合格怒发罪己诏",
       "onboard_time": 1741769903,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 405941,
+      "num": 405941,
+      "word": "天若有情 含金量",
+      "onboard_time": 1741790005,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 405181,
@@ -3515,14 +3547,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 285082,
-      "num": 285082,
-      "word": "天若有情 含金量",
-      "onboard_time": 1741790005,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 284353,
       "num": 317726,
       "word": "白玉兰奖征片提名",
@@ -4097,14 +4121,6 @@
       "onboard_time": 1741500262,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 238311,
-      "num": 279701,
-      "word": "特朗普衰退",
-      "onboard_time": 1741790065,
-      "rank": 20,
-      "category": "国际时政"
     },
     {
       "raw_hot": 237986,
@@ -4985,6 +5001,14 @@
       "onboard_time": 1741681642,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 197249,
+      "num": 221195,
+      "word": "网购500元假茅台官方扫码为真",
+      "onboard_time": 1741792106,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 196821,
@@ -6539,6 +6563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 154612,
+      "num": 154612,
+      "word": "每一个人都是主角",
+      "onboard_time": 1741475416,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154591,
       "num": 154591,
       "word": "黄圣依带妈妈录制是女儿是妈妈2",
@@ -7457,6 +7489,14 @@
       "onboard_time": 1741665862,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 135849,
+      "num": 179986,
+      "word": "李行亮经纪人回应麦琳被抵制",
+      "onboard_time": 1741791207,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 135783,
@@ -9067,6 +9107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109268,
+      "num": 109268,
+      "word": "微短剧半壁江山都来了",
+      "onboard_time": 1741792646,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109114,
       "num": 244484,
       "word": "宁芙奖请投佣兵",
@@ -9089,6 +9137,14 @@
       "onboard_time": 1741735579,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108498,
+      "num": 108498,
+      "word": "潘宏团队回应4000元训狗染病",
+      "onboard_time": 1741792344,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108471,
@@ -9401,14 +9457,6 @@
       "onboard_time": 1741678342,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 103142,
-      "num": 108056,
-      "word": "每一个人都是主角",
-      "onboard_time": 1741475416,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102963,
@@ -9787,6 +9835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96682,
+      "num": 206630,
+      "word": "4岁萌娃神还原唐代小仕女",
+      "onboard_time": 1741787485,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96533,
       "num": 158567,
       "word": "花费8万多种的牙成了四个窟窿",
@@ -9849,14 +9905,6 @@
       "onboard_time": 1741590620,
       "rank": 44,
       "category": "数码"
-    },
-    {
-      "raw_hot": 95644,
-      "num": 206630,
-      "word": "4岁萌娃神还原唐代小仕女",
-      "onboard_time": 1741787485,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 95538,
@@ -9945,6 +9993,14 @@
       "onboard_time": 1741613486,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 92966,
+      "num": 92966,
+      "word": "王一博巴黎时装周待遇",
+      "onboard_time": 1741791686,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 92926,
