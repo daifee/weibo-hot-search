@@ -1,6 +1,6 @@
 {
   "startTime": 1741710703289,
-  "endTime": 1741786975424,
+  "endTime": 1741789414330,
   "band_list": [
     {
       "raw_hot": 10901855,
@@ -203,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1202150,
+      "num": 335255,
+      "word": "金秀贤私发给金赛纶的照片",
+      "onboard_time": 1741789045,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1187983,
       "num": 1190077,
       "word": "外卖小哥救醉倒男子后崩溃大哭",
@@ -307,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 730916,
+      "num": 668790,
+      "word": "沈腾 斯内普",
+      "onboard_time": 1741787126,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 657348,
       "num": 330661,
       "word": "麦琳参加综艺被网友抵制举报",
@@ -337,6 +353,14 @@
       "onboard_time": 1741750342,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 634066,
+      "num": 634066,
+      "word": "52岁中国驻外大使李岩逝世",
+      "onboard_time": 1741785504,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 628117,
@@ -547,20 +571,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 443377,
+      "num": 443377,
+      "word": "热巴周也陈星旭王子文同框",
+      "onboard_time": 1741785325,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 440740,
       "num": 440740,
       "word": "特朗普撤回一条加征关税威胁",
       "onboard_time": 1741744282,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 437951,
-      "num": 437951,
-      "word": "热巴周也陈星旭王子文同框",
-      "onboard_time": 1741785325,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 433413,
@@ -585,14 +609,6 @@
       "onboard_time": 1741737861,
       "rank": 14,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 429066,
-      "num": 429066,
-      "word": "52岁中国驻外大使李岩逝世",
-      "onboard_time": 1741785504,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 422986,
@@ -697,6 +713,14 @@
       "onboard_time": 1741779564,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 391838,
+      "num": 391838,
+      "word": "朝海底捞锅底小便男子赔偿或达百万",
+      "onboard_time": 1741788146,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 390690,
@@ -832,6 +856,14 @@
       "word": "律师称3岁智商产妇没有性同意能力",
       "onboard_time": 1741771463,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 339121,
+      "num": 339121,
+      "word": "老外为证明没说谎带邻居来中国",
+      "onboard_time": 1741788325,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1067,6 +1099,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 242653,
+      "num": 242653,
+      "word": "白玉兰",
+      "onboard_time": 1741785924,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 238035,
       "num": 238035,
       "word": "第四十五号主席令",
@@ -1147,6 +1187,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 226302,
+      "num": 220454,
+      "word": "孙艺珍背部肌肉线条",
+      "onboard_time": 1741786403,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 226008,
       "num": 226008,
       "word": "Dior高珠展",
@@ -1185,14 +1233,6 @@
       "onboard_time": 1741749382,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 220454,
-      "num": 220454,
-      "word": "孙艺珍背部肌肉线条",
-      "onboard_time": 1741786403,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 216339,
@@ -1249,14 +1289,6 @@
       "onboard_time": 1741710859,
       "rank": 25,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 210290,
-      "num": 210290,
-      "word": "白玉兰",
-      "onboard_time": 1741785924,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 209793,
@@ -1409,6 +1441,14 @@
       "onboard_time": 1741763784,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193037,
+      "num": 193037,
+      "word": "陈梦带妈妈录制是女儿是妈妈2",
+      "onboard_time": 1741787245,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 191080,
@@ -1579,6 +1619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169538,
+      "num": 169538,
+      "word": "迪丽热巴春日花神",
+      "onboard_time": 1741788445,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 168790,
       "num": 229503,
       "word": "菲总统回应逮捕杜特尔特",
@@ -1707,6 +1755,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161581,
+      "num": 161581,
+      "word": "檀健次演技免检",
+      "onboard_time": 1741788445,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 161369,
+      "num": 161369,
+      "word": "成都蓉城10岁小球迷林子金去世",
+      "onboard_time": 1741787605,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161347,
       "num": 161347,
       "word": "佛山一小区业主装修骨灰房被投诉",
@@ -1731,6 +1795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159402,
+      "num": 157930,
+      "word": "晚宴的迪丽热巴",
+      "onboard_time": 1741789287,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 159091,
       "num": 209135,
       "word": "小官巨贪马超群出租屋堆满1.15亿现金",
@@ -1747,6 +1819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158857,
+      "num": 158857,
+      "word": "正式成为姜妍的做饭粉",
+      "onboard_time": 1741787605,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158269,
       "num": 263704,
       "word": "韩红薛之谦连麦",
@@ -1756,7 +1836,7 @@
     },
     {
       "raw_hot": 157123,
-      "num": 157123,
+      "num": 670458,
       "word": "2025政府工作报告全文",
       "onboard_time": 1741776686,
       "rank": 32,
@@ -1888,6 +1968,14 @@
       "word": "吴磊的骑行赛道还是太全面了",
       "onboard_time": 1741760903,
       "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 149502,
+      "num": 191222,
+      "word": "王鹤棣的V棣o",
+      "onboard_time": 1741789165,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -2113,6 +2201,14 @@
       "onboard_time": 1741737081,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127935,
+      "num": 150934,
+      "word": "胡兵给王一博尝尝胡萝卜新做法",
+      "onboard_time": 1741787063,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 127491,
@@ -2427,6 +2523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108672,
+      "num": 108672,
+      "word": "欧豪胡军演父子好像木法沙辛巴",
+      "onboard_time": 1741789223,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108122,
       "num": 108122,
       "word": "女子横躺马路后扑向交警怀中",
@@ -2507,6 +2611,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 102280,
+      "num": 305544,
+      "word": "17万的哪吒增程车成了老头乐",
+      "onboard_time": 1741788625,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 101290,
       "num": 101290,
       "word": "张凌赫演技",
@@ -2569,6 +2681,14 @@
       "onboard_time": 1741748781,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95644,
+      "num": 148381,
+      "word": "4岁萌娃神还原唐代小仕女",
+      "onboard_time": 1741787485,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94988,
@@ -2873,6 +2993,14 @@
       "onboard_time": 1741763483,
       "rank": 28,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 56426,
+      "num": 446125,
+      "word": "我国成为全球增绿最快最多国家",
+      "onboard_time": 1741787665,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 55847,
@@ -3203,6 +3331,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 28937,
+      "num": 191115,
+      "word": "叶黄素可防近视医学证据不充分",
+      "onboard_time": 1741788925,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 28648,
       "num": 239972,
       "word": "张元英平井桃金米妮Ella时装周生图",
@@ -3249,6 +3385,14 @@
       "onboard_time": 1741777645,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 25063,
+      "num": 458801,
+      "word": "当百年古宅邂逅春日玉兰",
+      "onboard_time": 1741788684,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24630,
