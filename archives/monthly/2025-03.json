@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741761178847,
+  "endTime": 1741762058554,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -251,6 +251,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 2345808,
+      "num": 2345808,
+      "word": "海底捞小便事件10倍现金补偿",
+      "onboard_time": 1741758145,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2315817,
       "num": 793430,
       "word": "韩星开始取关金秀贤",
@@ -296,14 +304,6 @@
       "word": "菜刀哥李坤朋去世",
       "onboard_time": 1740972320,
       "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2247450,
-      "num": 2247450,
-      "word": "海底捞小便事件10倍现金补偿",
-      "onboard_time": 1741758145,
-      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -1521,6 +1521,14 @@
       "onboard_time": 1741059857,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1152353,
+      "num": 303493,
+      "word": "刚baby baby几天就塌了",
+      "onboard_time": 1741760663,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1148974,
@@ -2963,6 +2971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 776077,
+      "num": 776077,
+      "word": "DeepSeek眼中不会被AI替代的职业",
+      "onboard_time": 1741757363,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 773996,
       "num": 274037,
       "word": "赵露思与好友逛街",
@@ -3905,14 +3921,6 @@
       "onboard_time": 1740802819,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 644380,
-      "num": 644380,
-      "word": "DeepSeek眼中不会被AI替代的职业",
-      "onboard_time": 1741757363,
-      "rank": 24,
-      "category": "互联网"
     },
     {
       "raw_hot": 644180,
@@ -5155,6 +5163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 527505,
+      "num": 527505,
+      "word": "海底捞补偿金额超千万元",
+      "onboard_time": 1741760604,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 526911,
       "num": 275395,
       "word": "张宇回应小侯七",
@@ -6371,6 +6387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 426578,
+      "num": 415944,
+      "word": "海底捞已起诉两名小便男子",
+      "onboard_time": 1741758145,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 426370,
       "num": 356296,
       "word": "胡烨韬一顺排名第一",
@@ -6529,14 +6553,6 @@
       "onboard_time": 1740998777,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 415944,
-      "num": 415944,
-      "word": "海底捞已起诉两名小便男子",
-      "onboard_time": 1741758145,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 415857,
@@ -7369,14 +7385,6 @@
       "onboard_time": 1740974660,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 371331,
-      "num": 303493,
-      "word": "刚baby baby几天就塌了",
-      "onboard_time": 1741760663,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 370473,
@@ -10956,7 +10964,7 @@
     },
     {
       "raw_hot": 257514,
-      "num": 257514,
+      "num": 275753,
       "word": "少爷和我杀回来了",
       "onboard_time": 1741755865,
       "rank": 23,
@@ -11489,6 +11497,14 @@
       "onboard_time": 1741072218,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 240442,
+      "num": 290521,
+      "word": "孙中山逝世100周年",
+      "onboard_time": 1741760544,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 240314,
@@ -12577,14 +12593,6 @@
       "onboard_time": 1741564279,
       "rank": 18,
       "category": "电影,美食"
-    },
-    {
-      "raw_hot": 218664,
-      "num": 218664,
-      "word": "海底捞补偿金额超千万元",
-      "onboard_time": 1741760604,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 218624,
@@ -13963,6 +13971,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 200696,
+      "num": 308187,
+      "word": "王楚钦3比0阿鲁纳",
+      "onboard_time": 1741760604,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200686,
       "num": 305092,
       "word": "反内卷就应该从反加班开始",
@@ -14113,6 +14129,14 @@
       "onboard_time": 1741749802,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198986,
+      "num": 299664,
+      "word": "郑钦文vs科斯秋克",
+      "onboard_time": 1741756823,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 198966,
@@ -14473,6 +14497,14 @@
       "onboard_time": 1741666103,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195296,
+      "num": 195296,
+      "word": "郑钦文2比0科斯秋克",
+      "onboard_time": 1741761384,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 195239,
@@ -14867,14 +14899,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 191308,
-      "num": 191308,
-      "word": "孙中山逝世100周年",
-      "onboard_time": 1741760544,
-      "rank": 33,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 191254,
       "num": 191254,
       "word": "蒲熠星发长文告别最强大脑",
@@ -14913,14 +14937,6 @@
       "onboard_time": 1741511840,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 190643,
-      "num": 299664,
-      "word": "郑钦文vs科斯秋克",
-      "onboard_time": 1741756823,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 190479,
@@ -16523,6 +16539,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 174397,
+      "num": 304182,
+      "word": "植树节发微博会发芽",
+      "onboard_time": 1741760783,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 174363,
       "num": 254672,
       "word": "刘浩存 好吗文淇妹妹",
@@ -17715,14 +17739,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164052,
-      "num": 304182,
-      "word": "植树节发微博会发芽",
-      "onboard_time": 1741760783,
-      "rank": 19,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 164031,
       "num": 190316,
       "word": "侯明昊回复于正我醒了",
@@ -18843,6 +18859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155211,
+      "num": 155211,
+      "word": "直播间买的百万金条不发货后续来了",
+      "onboard_time": 1741760484,
+      "rank": 45,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 155208,
       "num": 250350,
       "word": "单依纯济南",
@@ -19657,6 +19681,14 @@
       "onboard_time": 1740980778,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149582,
+      "num": 219807,
+      "word": "吴磊的骑行赛道还是太全面了",
+      "onboard_time": 1741760903,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 149300,
@@ -22091,14 +22123,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 131000,
-      "num": 308187,
-      "word": "王楚钦3比0阿鲁纳",
-      "onboard_time": 1741760604,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 130842,
       "num": 130842,
       "word": "米津玄师上海演唱会",
@@ -22809,6 +22833,14 @@
       "onboard_time": 1740886818,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 126434,
+      "num": 126434,
+      "word": "买不起黄金的年轻人盯上了债基",
+      "onboard_time": 1741761023,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 126426,
@@ -24163,14 +24195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 118520,
-      "num": 219807,
-      "word": "吴磊的骑行赛道还是太全面了",
-      "onboard_time": 1741760903,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 118498,
       "num": 196166,
       "word": "文淇称转型做导演是因为选择太少",
@@ -24185,6 +24209,14 @@
       "onboard_time": 1740900499,
       "rank": 38,
       "category": "演出,艺人"
+    },
+    {
+      "raw_hot": 118382,
+      "num": 118382,
+      "word": "郑钦文晋级印第安维尔斯8强",
+      "onboard_time": 1741761984,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 118349,
@@ -24313,14 +24345,6 @@
       "onboard_time": 1741362803,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 117425,
-      "num": 117425,
-      "word": "直播间买的百万金条不发货后续来了",
-      "onboard_time": 1741760484,
-      "rank": 45,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 117335,
@@ -25483,14 +25507,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 109993,
-      "num": 109993,
-      "word": "买不起黄金的年轻人盯上了债基",
-      "onboard_time": 1741761023,
-      "rank": 47,
-      "category": "财经"
-    },
-    {
       "raw_hot": 109925,
       "num": 120304,
       "word": "王源三首歌演了一部青春电影",
@@ -25729,6 +25745,14 @@
       "onboard_time": 1741270583,
       "rank": 9,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 107997,
+      "num": 107997,
+      "word": "希望台湾同胞一道继承孙中山先生遗愿",
+      "onboard_time": 1741761684,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 107956,
@@ -26891,6 +26915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100799,
+      "num": 100799,
+      "word": "王楚钦13比11阿鲁纳",
+      "onboard_time": 1741761924,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100785,
       "num": 100785,
       "word": "王栎鑫妇女节送粉丝玫瑰花",
@@ -27241,6 +27273,14 @@
       "onboard_time": 1741664662,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 98837,
+      "num": 98837,
+      "word": "谁能招架住虞书欣这五十秒",
+      "onboard_time": 1741761623,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 98824,
@@ -31419,6 +31459,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 55565,
+      "num": 304534,
+      "word": "美乌谈判俄军猛攻乌军",
+      "onboard_time": 1741760845,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 55497,
       "num": 105982,
       "word": "Manus官网注册页面一度崩溃",
@@ -32275,6 +32323,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 45339,
+      "num": 307696,
+      "word": "年轻人植树节选择仪式感种树",
+      "onboard_time": 1741759284,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45336,
       "num": 226896,
       "word": "谁在操纵AI圈天价邀请码",
@@ -32944,22 +33000,6 @@
       "word": "乌克兰与美国预计下周举行会议",
       "onboard_time": 1741303158,
       "rank": 26,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 38537,
-      "num": 307696,
-      "word": "年轻人植树节选择仪式感种树",
-      "onboard_time": 1741759284,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38532,
-      "num": 304534,
-      "word": "美乌谈判俄军猛攻乌军",
-      "onboard_time": 1741760845,
-      "rank": 18,
       "category": "国际时政"
     },
     {
