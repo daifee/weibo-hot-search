@@ -1,6 +1,6 @@
 {
   "startTime": 1741797038602,
-  "endTime": 1741814539255,
+  "endTime": 1741815472516,
   "band_list": [
     {
       "raw_hot": 900025,
@@ -451,7 +451,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 21968,
+      "raw_hot": 23548,
       "num": 27608,
       "word": "凌晨出警安抚74岁女儿照顾96岁妈妈",
       "onboard_time": 1741777704,
@@ -523,12 +523,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 15255,
-      "num": 15255,
+      "raw_hot": 15699,
+      "num": 15699,
       "word": "女子遭多次家暴后不敢与丈夫面对面",
       "onboard_time": 1741812793,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15018,
+      "num": 15018,
+      "word": "减肥时主食有3个黄金等级",
+      "onboard_time": 1741811953,
+      "rank": 45,
+      "category": "健康医疗,运动健身"
     },
     {
       "raw_hot": 14069,
@@ -539,20 +547,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 13908,
+      "num": 14376,
+      "word": "女主播和榜一奔现被骗80万",
+      "onboard_time": 1741813815,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13889,
       "num": 27482,
       "word": "虞书欣林一甜燃开启",
       "onboard_time": 1741807874,
       "rank": 49,
       "category": "幽默,电竞"
-    },
-    {
-      "raw_hot": 13818,
-      "num": 14325,
-      "word": "减肥时主食有3个黄金等级",
-      "onboard_time": 1741811953,
-      "rank": 45,
-      "category": "健康医疗,运动健身"
     },
     {
       "raw_hot": 13563,
@@ -564,7 +572,7 @@
     },
     {
       "raw_hot": 13236,
-      "num": 14325,
+      "num": 14375,
       "word": "美好中国",
       "onboard_time": 1741813873,
       "rank": 47,
@@ -579,10 +587,10 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 11761,
-      "num": 14325,
-      "word": "女主播和榜一奔现被骗80万",
-      "onboard_time": 1741813815,
+      "raw_hot": 12902,
+      "num": 14375,
+      "word": "曾带偏瘫妻子跑车4年司机回应质疑",
+      "onboard_time": 1741814893,
       "rank": 49,
       "category": "民生新闻"
     }
