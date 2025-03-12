@@ -1,6 +1,6 @@
 {
   "startTime": 1741797038602,
-  "endTime": 1741811958227,
+  "endTime": 1741814539255,
   "band_list": [
     {
       "raw_hot": 900025,
@@ -451,6 +451,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 21968,
+      "num": 27608,
+      "word": "凌晨出警安抚74岁女儿照顾96岁妈妈",
+      "onboard_time": 1741777704,
+      "rank": 42,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 21589,
       "num": 27687,
       "word": "于适又双叒叕有新身份",
@@ -465,14 +473,6 @@
       "onboard_time": 1741805594,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 20901,
-      "num": 27608,
-      "word": "凌晨出警安抚74岁女儿照顾96岁妈妈",
-      "onboard_time": 1741777704,
-      "rank": 42,
-      "category": "正能量"
     },
     {
       "raw_hot": 20863,
@@ -523,6 +523,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 15255,
+      "num": 15255,
+      "word": "女子遭多次家暴后不敢与丈夫面对面",
+      "onboard_time": 1741812793,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14069,
       "num": 15644,
       "word": "国王云合",
@@ -539,6 +547,30 @@
       "category": "幽默,电竞"
     },
     {
+      "raw_hot": 13818,
+      "num": 14325,
+      "word": "减肥时主食有3个黄金等级",
+      "onboard_time": 1741811953,
+      "rank": 45,
+      "category": "健康医疗,运动健身"
+    },
+    {
+      "raw_hot": 13563,
+      "num": 15613,
+      "word": "一夜之间美乌会谈谈了什么",
+      "onboard_time": 1741811894,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 13236,
+      "num": 14325,
+      "word": "美好中国",
+      "onboard_time": 1741813873,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13027,
       "num": 21625,
       "word": "俄外交部称近几日可能与美方沟通",
@@ -547,12 +579,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 11912,
-      "num": 15613,
-      "word": "一夜之间美乌会谈谈了什么",
-      "onboard_time": 1741811894,
-      "rank": 48,
-      "category": "国际时政"
+      "raw_hot": 11761,
+      "num": 14325,
+      "word": "女主播和榜一奔现被骗80万",
+      "onboard_time": 1741813815,
+      "rank": 49,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
