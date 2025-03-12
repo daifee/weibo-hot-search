@@ -1,6 +1,6 @@
 {
   "startTime": 1741710703289,
-  "endTime": 1741765006259,
+  "endTime": 1741768299457,
   "band_list": [
     {
       "raw_hot": 6671283,
@@ -9,6 +9,14 @@
       "onboard_time": 1741756765,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2606112,
+      "num": 733483,
+      "word": "海底捞补偿金额超千万元",
+      "onboard_time": 1741760604,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2345808,
@@ -99,12 +107,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1468757,
+      "num": 158484,
+      "word": "金赛纶生前最后一次露面",
+      "onboard_time": 1741767383,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1455344,
       "num": 362909,
       "word": "金秀贤最新ins已经被攻陷",
       "onboard_time": 1741728014,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1257378,
+      "num": 1257378,
+      "word": "杨铭宇黄焖鸡道歉",
+      "onboard_time": 1741763723,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 1255800,
@@ -137,14 +161,6 @@
       "onboard_time": 1741750824,
       "rank": 21,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 1161106,
-      "num": 733483,
-      "word": "海底捞补偿金额超千万元",
-      "onboard_time": 1741760604,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1096188,
@@ -201,14 +217,6 @@
       "onboard_time": 1741751483,
       "rank": 30,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 748343,
-      "num": 748343,
-      "word": "杨铭宇黄焖鸡道歉",
-      "onboard_time": 1741763723,
-      "rank": 9,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 747450,
@@ -363,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 458564,
+      "num": 227368,
+      "word": "海底捞小便事件",
+      "onboard_time": 1741763903,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 458116,
       "num": 172181,
       "word": "315骗假不留",
@@ -433,6 +449,14 @@
       "onboard_time": 1741753825,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 399916,
+      "num": 271867,
+      "word": "你要是嗑CP",
+      "onboard_time": 1741762883,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 399647,
@@ -523,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 345139,
+      "num": 345139,
+      "word": "王一博胡兵 胡萝卜",
+      "onboard_time": 1741764023,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 344633,
       "num": 344633,
       "word": "美国恢复对乌安全援助",
@@ -579,20 +611,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 291179,
-      "num": 271867,
-      "word": "你要是嗑CP",
-      "onboard_time": 1741762883,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 290579,
       "num": 290579,
       "word": "以为很懒但对皮肤很好的行为",
       "onboard_time": 1741736000,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 288239,
+      "num": 152208,
+      "word": "以为在减肥实际在增肥的行为",
+      "onboard_time": 1741768163,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 284710,
@@ -651,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260290,
+      "num": 197445,
+      "word": "林一角色号发了虞书欣未公开图",
+      "onboard_time": 1741763542,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 257514,
       "num": 275753,
       "word": "少爷和我杀回来了",
@@ -673,6 +713,14 @@
       "onboard_time": 1741753825,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 248803,
+      "num": 151744,
+      "word": "凌妙妙一觉醒来什么都有了",
+      "onboard_time": 1741766123,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 247718,
@@ -747,14 +795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 227368,
-      "num": 227368,
-      "word": "海底捞小便事件",
-      "onboard_time": 1741763903,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 226427,
       "num": 226427,
       "word": "王一博手提胡萝卜",
@@ -769,6 +809,14 @@
       "onboard_time": 1741749382,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218047,
+      "num": 154104,
+      "word": "27岁已婚女主播骗榜一大哥半年刷19万",
+      "onboard_time": 1741767323,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 214394,
@@ -923,14 +971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 189110,
-      "num": 189110,
-      "word": "王一博胡兵 胡萝卜",
-      "onboard_time": 1741764023,
-      "rank": 41,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 189058,
       "num": 215152,
       "word": "张艺兴李珞桉新片反差父女感",
@@ -977,14 +1017,6 @@
       "onboard_time": 1741743861,
       "rank": 25,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 183151,
-      "num": 197445,
-      "word": "林一角色号发了虞书欣未公开图",
-      "onboard_time": 1741763542,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 182616,
@@ -1123,6 +1155,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 164534,
+      "num": 164534,
+      "word": "直播间买的百万金条不发货后续来了",
+      "onboard_time": 1741760484,
+      "rank": 45,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 162205,
       "num": 162205,
       "word": "商务部等部门约谈沃尔玛",
@@ -1169,14 +1209,6 @@
       "onboard_time": 1741743381,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 155211,
-      "num": 155211,
-      "word": "直播间买的百万金条不发货后续来了",
-      "onboard_time": 1741760484,
-      "rank": 45,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 154328,
@@ -1371,6 +1403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126616,
+      "num": 159536,
+      "word": "业内回应北京别墅被指直降7500万",
+      "onboard_time": 1741766723,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126064,
       "num": 135821,
       "word": "滤镜癫开癫走",
@@ -1395,12 +1435,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 124163,
+      "num": 124163,
+      "word": "米和米真的不一样",
+      "onboard_time": 1741767323,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 123329,
       "num": 123329,
       "word": "医生提醒内脏脂肪过多危害大",
       "onboard_time": 1741733778,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 122766,
+      "num": 122766,
+      "word": "林昀儒回应频繁与林诗栋交手",
+      "onboard_time": 1741766723,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 121963,
@@ -1417,6 +1473,14 @@
       "onboard_time": 1741750102,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120627,
+      "num": 146719,
+      "word": "女子持续遭家暴后与丈夫隔空离婚",
+      "onboard_time": 1741766723,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119435,
@@ -1467,6 +1531,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 116385,
+      "num": 116385,
+      "word": "炒辣椒呛到猫咪",
+      "onboard_time": 1741766123,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 115848,
       "num": 115847,
       "word": "智力曾降至3岁消防员开始直播带货",
@@ -1497,6 +1569,22 @@
       "onboard_time": 1741736180,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110920,
+      "num": 110920,
+      "word": "留几手谁也别装了",
+      "onboard_time": 1741765944,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 110035,
+      "num": 400734,
+      "word": "伊朗核问题中俄伊北京会晤将举行",
+      "onboard_time": 1741764323,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 108746,
@@ -1539,6 +1627,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 103599,
+      "num": 103599,
+      "word": "人和猫都好命苦的样子",
+      "onboard_time": 1741767503,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 101290,
       "num": 101290,
       "word": "张凌赫演技",
@@ -1553,14 +1649,6 @@
       "onboard_time": 1741761924,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100521,
-      "num": 400734,
-      "word": "伊朗核问题中俄伊北京会晤将举行",
-      "onboard_time": 1741764323,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 99716,
@@ -1585,6 +1673,14 @@
       "onboard_time": 1741746682,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 96533,
+      "num": 158567,
+      "word": "花费8万多种的牙成了四个窟窿",
+      "onboard_time": 1741764923,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96025,
@@ -1675,6 +1771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87748,
+      "num": 87748,
+      "word": "张艺兴被小孩姐贴脸开大",
+      "onboard_time": 1741768044,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 83275,
       "num": 850021,
       "word": "30秒了解国家账本新安排",
@@ -1697,6 +1801,14 @@
       "onboard_time": 1741693283,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 78377,
+      "num": 164217,
+      "word": "人民日报刊文谈破除35岁门槛",
+      "onboard_time": 1741767563,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77483,
@@ -1776,14 +1888,6 @@
       "word": "跳舞送孩子出园保安曾是舞蹈演员",
       "onboard_time": 1741704025,
       "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 65823,
-      "num": 158567,
-      "word": "花费8万多种的牙成了四个窟窿",
-      "onboard_time": 1741764923,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -2067,6 +2171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 26482,
+      "num": 155819,
+      "word": "开具告诫书后家暴复发率不到2%",
+      "onboard_time": 1741767924,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24630,
       "num": 24630,
       "word": "卫枝被泼柠檬水",
@@ -2081,6 +2193,14 @@
       "onboard_time": 1741716795,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 24056,
+      "num": 147447,
+      "word": "菲律宾前总统杜特尔特怎样了",
+      "onboard_time": 1741768044,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 22554,

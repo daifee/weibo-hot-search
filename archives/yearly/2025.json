@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1741765006259,
+  "endTime": 1741768299457,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -2283,6 +2283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2606112,
+      "num": 733483,
+      "word": "海底捞补偿金额超千万元",
+      "onboard_time": 1741760604,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2582877,
       "num": 2582877,
       "word": "西藏地震",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1738545918,
       "rank": 19,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 2529854,
-      "num": 2529854,
-      "word": "上海老人离世430万和1套房无人继承",
-      "onboard_time": 1737191118,
-      "rank": 8,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
