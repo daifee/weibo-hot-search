@@ -1,6 +1,6 @@
 {
   "startTime": 1741797038602,
-  "endTime": 1741818165601,
+  "endTime": 1741819213172,
   "band_list": [
     {
       "raw_hot": 900025,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188077,
+      "num": 188077,
+      "word": "春捂是要捂到什么时候",
+      "onboard_time": 1741795762,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186970,
       "num": 186970,
       "word": "沈腾 斯内普",
@@ -187,14 +195,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 133307,
-      "num": 186473,
-      "word": "春捂是要捂到什么时候",
-      "onboard_time": 1741795762,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 127655,
       "num": 127655,
       "word": "脂肪是如何排出体外的",
@@ -233,6 +233,14 @@
       "onboard_time": 1741799058,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 118798,
+      "num": 118798,
+      "word": "凌晨出警安抚74岁女儿照顾96岁妈妈",
+      "onboard_time": 1741777704,
+      "rank": 42,
+      "category": "正能量"
     },
     {
       "raw_hot": 117852,
@@ -299,20 +307,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91784,
+      "num": 91784,
+      "word": "婚前闹掰男方追讨37万女方判还3万",
+      "onboard_time": 1741800977,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85611,
       "num": 85611,
       "word": "TES 大满败",
       "onboard_time": 1741781545,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 85283,
-      "num": 85283,
-      "word": "婚前闹掰男方追讨37万女方判还3万",
-      "onboard_time": 1741800977,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 82694,
@@ -403,14 +411,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 51008,
-      "num": 51008,
-      "word": "凌晨出警安抚74岁女儿照顾96岁妈妈",
-      "onboard_time": 1741777704,
-      "rank": 42,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 44581,
       "num": 72877,
       "word": "孙艺珍背部肌肉线条",
@@ -435,12 +435,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 32638,
+      "num": 32638,
+      "word": "减肥时主食有3个黄金等级",
+      "onboard_time": 1741811953,
+      "rank": 45,
+      "category": "健康医疗,运动健身"
+    },
+    {
       "raw_hot": 31242,
       "num": 43522,
       "word": "没人说嘘国王在冬眠这么好笑啊",
       "onboard_time": 1741804035,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 29385,
+      "num": 29385,
+      "word": "女主播和榜一奔现被骗80万",
+      "onboard_time": 1741813815,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28849,
+      "num": 28849,
+      "word": "女子遭多次家暴后不敢与丈夫面对面",
+      "onboard_time": 1741812793,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27885,
+      "num": 27885,
+      "word": "于适又双叒叕有新身份",
+      "onboard_time": 1741805775,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 27497,
@@ -459,39 +491,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 25356,
-      "num": 24957,
-      "word": "减肥时主食有3个黄金等级",
-      "onboard_time": 1741811953,
-      "rank": 45,
-      "category": "健康医疗,运动健身"
-    },
-    {
-      "raw_hot": 23777,
-      "num": 23777,
-      "word": "女主播和榜一奔现被骗80万",
-      "onboard_time": 1741813815,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22870,
-      "num": 22870,
-      "word": "女子遭多次家暴后不敢与丈夫面对面",
-      "onboard_time": 1741812793,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21942,
-      "num": 27687,
-      "word": "于适又双叒叕有新身份",
-      "onboard_time": 1741805775,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 21487,
+      "raw_hot": 24143,
       "num": 27645,
       "word": "特朗普自称特朗普永远是对的",
       "onboard_time": 1741805594,
@@ -505,6 +505,14 @@
       "onboard_time": 1741803555,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20484,
+      "num": 32544,
+      "word": "伊朗总统回应特朗普军事威胁",
+      "onboard_time": 1741801995,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 19981,
@@ -523,15 +531,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 19649,
-      "num": 32544,
-      "word": "伊朗总统回应特朗普军事威胁",
-      "onboard_time": 1741801995,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 17477,
+      "raw_hot": 18249,
       "num": 29552,
       "word": "古人把神话里的树做成了手办",
       "onboard_time": 1741798219,
@@ -593,6 +593,14 @@
       "onboard_time": 1741809733,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 9672,
+      "num": 46684,
+      "word": "看WTT重庆冠军赛上咪咕",
+      "onboard_time": 1741818917,
+      "rank": 24,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
