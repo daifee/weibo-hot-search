@@ -1,0 +1,410 @@
+{
+  "runTime": 1741858768629,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1480209,
+        "num": 1480209,
+        "word": "虞书欣 鹿小葵式演技",
+        "onboard_time": 1741854563,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1110784,
+        "num": 1110784,
+        "word": "董明珠暗讽有人靠炒高股价成了首富",
+        "onboard_time": 1741852882,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 37803,
+        "num": 532758,
+        "word": "外资投资中国信心持续增强",
+        "onboard_time": 1741854324,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 354974,
+        "num": 354974,
+        "word": "女子花13000买足金手镯是镀金",
+        "onboard_time": 1741855944,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280168,
+        "num": 280168,
+        "word": "我不想再因为一碗黄焖鸡破防了",
+        "onboard_time": 1741857145,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 302041,
+        "num": 279648,
+        "word": "李微敖辟谣张继科胜诉",
+        "onboard_time": 1741850962,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278810,
+        "num": 278810,
+        "word": "阿里AI旗舰应用夸克全面升级",
+        "onboard_time": 1741849403,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1994189,
+        "num": 278228,
+        "word": "顾客获6千退款才知海底捞小便事件",
+        "onboard_time": 1741856125,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276000,
+        "num": 276000,
+        "word": "瑶一瑶小肉包已停更一个月",
+        "onboard_time": 1741834942,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 266768,
+        "num": 266768,
+        "word": "杨铭宇黄焖鸡米饭后厨乱象被挂牌督办",
+        "onboard_time": 1741857024,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1678399,
+        "num": 265378,
+        "word": "虞书欣ins取关金秀贤",
+        "onboard_time": 1741852343,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152572,
+        "num": 264192,
+        "word": "夸克AI超级应用",
+        "onboard_time": 1741853484,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 71215,
+        "num": 263241,
+        "word": "线上买电影票收近票价40%服务费",
+        "onboard_time": 1741857204,
+        "rank": 12,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 130682,
+        "num": 262471,
+        "word": "9块9每升的100%椰子水安全吗",
+        "onboard_time": 1741857624,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 24740,
+        "num": 260533,
+        "word": "夸克新简历",
+        "onboard_time": 1741849703,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1221707,
+        "num": 259577,
+        "word": "金秀贤正常录制权志龙综艺",
+        "onboard_time": 1741854683,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 904794,
+        "num": 256937,
+        "word": "澳门偶遇乔欣赖柏霖喝咖啡",
+        "onboard_time": 1741854683,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33650,
+        "num": 255751,
+        "word": "珀莱雅红宝石精华网购到手少45毫升",
+        "onboard_time": 1741857924,
+        "rank": 17,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 70930,
+        "num": 254547,
+        "word": "夸克AI这写作文笔我服了",
+        "onboard_time": 1741856664,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 73570,
+        "num": 253643,
+        "word": "国产AI诸神之战",
+        "onboard_time": 1741856664,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 505101,
+        "num": 252154,
+        "word": "赵丽颖 浪琴",
+        "onboard_time": 1741852643,
+        "rank": 20,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 436095,
+        "num": 249812,
+        "word": "原来研究生才是最高学历",
+        "onboard_time": 1741854143,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 334238,
+        "num": 249579,
+        "word": "乔欣 赖柏霖",
+        "onboard_time": 1741857924,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248155,
+        "num": 248155,
+        "word": "考研名师汤家凤再发声怒斥田静事件",
+        "onboard_time": 1741857924,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 132097,
+        "num": 247598,
+        "word": "李若彤主演短剧收视率吊打多部热剧",
+        "onboard_time": 1741855282,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129015,
+        "num": 246905,
+        "word": "韩国举办15岁以下女团选秀",
+        "onboard_time": 1741837646,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72178,
+        "num": 246122,
+        "word": "一家三口烧炭煮火锅一氧化碳中毒",
+        "onboard_time": 1741858522,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40794,
+        "num": 245448,
+        "word": "女子忍家暴近30年险断气才决心离婚",
+        "onboard_time": 1741857081,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53403,
+        "num": 244283,
+        "word": "夸克AI更新了",
+        "onboard_time": 1741856664,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 17466,
+        "num": 243720,
+        "word": "夸克确诊为AI届劳模",
+        "onboard_time": 1741856664,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 413609,
+        "num": 242938,
+        "word": "金赛纶下跪才协商到7亿",
+        "onboard_time": 1741830744,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242411,
+        "num": 242411,
+        "word": "张书豪儿子和陈妍希儿子撞名",
+        "onboard_time": 1741852464,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240794,
+        "num": 240794,
+        "word": "呼和浩特发布育儿补贴细则",
+        "onboard_time": 1741857924,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208792,
+        "num": 208792,
+        "word": "黑暗荣耀编剧金银淑的含金量",
+        "onboard_time": 1741856003,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202624,
+        "num": 202624,
+        "word": "王一博巴黎第25小时选择多睡一觉",
+        "onboard_time": 1741857984,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 269242,
+        "num": 200994,
+        "word": "金智媛 工伤",
+        "onboard_time": 1741851801,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198164,
+        "num": 198164,
+        "word": "肖战维权进度公布",
+        "onboard_time": 1741857624,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178208,
+        "num": 178208,
+        "word": "吐槽洗衣机售后深夜被邀约下楼谈谈",
+        "onboard_time": 1741854324,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56912,
+        "num": 175274,
+        "word": "如何把AI变成私人医生",
+        "onboard_time": 1741856664,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35584,
+        "num": 173737,
+        "word": "哪吒联名预售周边又卖爆了",
+        "onboard_time": 1741856483,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 173305,
+        "num": 173305,
+        "word": "穆婷婷 我讨厌不尊重对手且膨胀的人",
+        "onboard_time": 1741840226,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171475,
+        "num": 171475,
+        "word": "工位郁金香",
+        "onboard_time": 1741855823,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153931,
+        "num": 153931,
+        "word": "上海偷完LV爱马仕又去杭州偷Gucci",
+        "onboard_time": 1741849044,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119023,
+        "num": 142976,
+        "word": "欧豪比白鹿大两岁像大了十岁",
+        "onboard_time": 1741854143,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80168,
+        "num": 142069,
+        "word": "国产AI从模型竞争走向应用竞争",
+        "onboard_time": 1741854383,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 141342,
+        "num": 141342,
+        "word": "一般烂片我不看 但是烂到这种程度",
+        "onboard_time": 1741855644,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133110,
+        "num": 133110,
+        "word": "女子在翡翠直播间入坑13天下单32次",
+        "onboard_time": 1741856543,
+        "rank": 46,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 113167,
+        "num": 133052,
+        "word": "国王剧情 平淡",
+        "onboard_time": 1741847363,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132994,
+        "num": 132994,
+        "word": "波兰要求美国在波兰部署核武器",
+        "onboard_time": 1741853723,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127436,
+        "num": 127436,
+        "word": "原来热暴力比冷暴力有用",
+        "onboard_time": 1741850423,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的两会时间#"
+    }
+  }
+}

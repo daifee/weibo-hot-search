@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/03/01 00:29:32 ~ 2025/03/13 17:25:55
+本榜单时间：2025/03/01 00:29:32 ~ 2025/03/13 17:39:28
 </p>
 </blockquote>
 <p>
@@ -411,6 +411,12 @@ D社证实金秀贤金赛纶恋爱关系（热度：2283363）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E8%8E%B76%E5%8D%83%E9%80%80%E6%AC%BE%E6%89%8D%E7%9F%A5%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%B0%8F%E4%BE%BF%E4%BA%8B%E4%BB%B6%23" target="weibo">
+顾客获6千退款才知海底捞小便事件（热度：1994189）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9D%B3%E4%B8%9C%E4%B8%A4%E4%BC%9A%E5%BB%BA%E8%AE%AEAI%E6%8D%A2%E8%84%B8%E7%AB%8B%E6%B3%95%23" target="weibo">
 靳东两会建议AI换脸立法（热度：1983998）
 </a>
@@ -659,12 +665,6 @@ N号房事件后性同意年龄提至16岁（热度：1795561）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%AE%B0%E8%80%85%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E7%99%BD%E5%AE%AB%E9%87%8C%E5%90%B5%E6%9E%B6%23" target="weibo">
 美国记者第一次见白宫里吵架（热度：1676338）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E8%8E%B76%E5%8D%83%E9%80%80%E6%AC%BE%E6%89%8D%E7%9F%A5%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%B0%8F%E4%BE%BF%E4%BA%8B%E4%BB%B6%23" target="weibo">
-顾客获6千退款才知海底捞小便事件（热度：1676060）
 </a>
 </li>
 
