@@ -1,6 +1,6 @@
 {
   "startTime": 1741797038602,
-  "endTime": 1741851331908,
+  "endTime": 1741854658675,
   "band_list": [
     {
       "raw_hot": 3575207,
@@ -40,6 +40,14 @@
       "word": "麦琳道歉",
       "onboard_time": 1741839324,
       "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1770790,
+      "num": 259222,
+      "word": "虞书欣ins取关金秀贤",
+      "onboard_time": 1741852343,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -123,6 +131,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 1152761,
+      "num": 1158477,
+      "word": "烤匠 排队",
+      "onboard_time": 1741847664,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1151824,
       "num": 1151824,
       "word": "校长说8年制大学让学生不用内卷",
@@ -179,12 +195,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 990487,
-      "num": 1158477,
-      "word": "烤匠 排队",
-      "onboard_time": 1741847664,
-      "rank": 33,
-      "category": "美食"
+      "raw_hot": 990255,
+      "num": 254910,
+      "word": "赵丽颖 浪琴",
+      "onboard_time": 1741852643,
+      "rank": 20,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 987096,
@@ -193,6 +209,14 @@
       "onboard_time": 1741825164,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 933592,
+      "num": 387223,
+      "word": "周思成喊话田静",
+      "onboard_time": 1741850363,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 930005,
@@ -219,6 +243,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 869626,
+      "num": 1139140,
+      "word": "董明珠暗讽有人靠炒高股价成了首富",
+      "onboard_time": 1741852882,
+      "rank": 0,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 868168,
+      "num": 253933,
+      "word": "金智媛 工伤",
+      "onboard_time": 1741851801,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 848999,
       "num": 1111958,
       "word": "外卖员从来不碰的外卖有哪些",
@@ -233,6 +273,14 @@
       "onboard_time": 1741826364,
       "rank": 3,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 737029,
+      "num": 737029,
+      "word": "李微敖辟谣张继科胜诉",
+      "onboard_time": 1741850962,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 706162,
@@ -403,20 +451,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 387223,
-      "num": 387223,
-      "word": "周思成喊话田静",
-      "onboard_time": 1741850363,
-      "rank": 32,
-      "category": "教育"
-    },
-    {
       "raw_hot": 369363,
       "num": 369363,
       "word": "业主不满物业换6100个硬币缴费",
       "onboard_time": 1741830083,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 350252,
+      "num": 250158,
+      "word": "张书豪儿子和陈妍希儿子撞名",
+      "onboard_time": 1741852464,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 342221,
@@ -483,6 +531,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 312934,
+      "num": 234864,
+      "word": "原来研究生才是最高学历",
+      "onboard_time": 1741854143,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 310531,
       "num": 186609,
       "word": "日本女孩直播时被杀粉丝全程目睹",
@@ -521,6 +577,14 @@
       "onboard_time": 1741826485,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 292459,
+      "num": 217894,
+      "word": "原来热暴力比冷暴力有用",
+      "onboard_time": 1741850423,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 289206,
@@ -563,6 +627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 267199,
+      "num": 267199,
+      "word": "谈新对象男子是否消费亡妻才是关键",
+      "onboard_time": 1741849764,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 265058,
       "num": 265058,
       "word": "孙颖莎小手一指全场瞬间安静",
@@ -593,6 +665,14 @@
       "onboard_time": 1741846463,
       "rank": 27,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 237109,
+      "num": 237109,
+      "word": "虞书欣 鹿小葵式演技",
+      "onboard_time": 1741854563,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 231425,
@@ -739,20 +819,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 199668,
-      "num": 199668,
-      "word": "原来热暴力比冷暴力有用",
-      "onboard_time": 1741850423,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 198061,
       "num": 178234,
       "word": "不良人7定档PV官宣",
       "onboard_time": 1741835063,
       "rank": 31,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 197462,
+      "num": 252772,
+      "word": "外国人单方面免签来华增长1200%",
+      "onboard_time": 1741853003,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 194732,
@@ -809,6 +889,14 @@
       "onboard_time": 1741847002,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187543,
+      "num": 187543,
+      "word": "人一摔倒全世界的狗都会吻上来",
+      "onboard_time": 1741852824,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 187400,
@@ -1091,20 +1179,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158094,
-      "num": 158094,
-      "word": "李微敖辟谣张继科胜诉",
-      "onboard_time": 1741850962,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 156047,
-      "num": 158639,
+      "raw_hot": 156606,
+      "num": 263154,
       "word": "夸克AI",
       "onboard_time": 1741851022,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 150450,
+      "num": 251843,
+      "word": "欧豪比白鹿大两岁像大了十岁",
+      "onboard_time": 1741854143,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 149133,
@@ -1179,14 +1267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 136870,
-      "num": 265145,
-      "word": "谈新对象男子是否消费亡妻才是关键",
-      "onboard_time": 1741849764,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 134948,
       "num": 134948,
       "word": "美国正陷入人为制造的衰退",
@@ -1217,6 +1297,14 @@
       "onboard_time": 1741792646,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132128,
+      "num": 206053,
+      "word": "差点把音综看成了恋综",
+      "onboard_time": 1741853783,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 128482,
@@ -1387,6 +1475,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114061,
+      "num": 264894,
+      "word": "99.9元3瓶增高神药卖超18万单",
+      "onboard_time": 1741853243,
+      "rank": 10,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 113210,
+      "num": 266347,
+      "word": "偷拍男逃跑摔伤谁担责主看必要性",
+      "onboard_time": 1741854203,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111792,
       "num": 111792,
       "word": "减肥时主食有3个黄金等级",
@@ -1451,6 +1555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102181,
+      "num": 237359,
+      "word": "有夸克最后一道大题有救了",
+      "onboard_time": 1741853243,
+      "rank": 38,
+      "category": "互联网,教育"
+    },
+    {
       "raw_hot": 101843,
       "num": 101843,
       "word": "英特尔宣布换帅",
@@ -1483,6 +1595,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 97692,
+      "num": 264283,
+      "word": "夸克AI超级应用",
+      "onboard_time": 1741853484,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 97622,
       "num": 172701,
       "word": "俄方回应美乌达成30天临时停火共识",
@@ -1505,6 +1625,14 @@
       "onboard_time": 1741773503,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91144,
+      "num": 246862,
+      "word": "夸克学术搜索上大分",
+      "onboard_time": 1741853243,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 89976,
@@ -1635,6 +1763,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 75743,
+      "num": 244104,
+      "word": "梁靖崑回应贴肌贴",
+      "onboard_time": 1741854503,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 74745,
       "num": 153556,
       "word": "欧冠八强对阵正式出炉",
@@ -1707,6 +1843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66029,
+      "num": 245250,
+      "word": "陈幸同说申裕斌是强劲的对手",
+      "onboard_time": 1741854503,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65624,
       "num": 227647,
       "word": "网购养生茶包惊现蠕动活蛆虫",
@@ -1764,7 +1908,7 @@
     },
     {
       "raw_hot": 62909,
-      "num": 193449,
+      "num": 241065,
       "word": "一汽丰田汽车越久越值钱",
       "onboard_time": 1741850543,
       "rank": 33,
@@ -1795,6 +1939,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 52747,
+      "num": 228849,
+      "word": "国产AI从模型竞争走向应用竞争",
+      "onboard_time": 1741854383,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 52588,
+      "num": 256991,
+      "word": "牙刷评价竟有内裤严重掉色",
+      "onboard_time": 1741854023,
+      "rank": 18,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 51939,
+      "num": 249360,
+      "word": "汤家凤称做教育的人要有起码的诚信",
+      "onboard_time": 1741854443,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 50760,
       "num": 182637,
       "word": "美股",
@@ -1809,6 +1977,30 @@
       "onboard_time": 1741822521,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49100,
+      "num": 251575,
+      "word": "太乙张真人出差vlog",
+      "onboard_time": 1741854264,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 47586,
+      "num": 248095,
+      "word": "夸克AI像哆啦A梦口袋",
+      "onboard_time": 1741853543,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 47039,
+      "num": 261261,
+      "word": "一个夸克AI就够了",
+      "onboard_time": 1741852882,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 45536,
@@ -1899,6 +2091,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 34530,
+      "num": 257620,
+      "word": "吐槽洗衣机售后深夜被邀约下楼谈谈",
+      "onboard_time": 1741854324,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34076,
       "num": 151530,
       "word": "黑胡椒牛肉意面",
@@ -1913,6 +2113,14 @@
       "onboard_time": 1741840705,
       "rank": 44,
       "category": "艺人,数码"
+    },
+    {
+      "raw_hot": 32311,
+      "num": 265334,
+      "word": "交个朋友回应带货课被指割韭菜",
+      "onboard_time": 1741853422,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31644,
@@ -1955,12 +2163,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26628,
+      "num": 256074,
+      "word": "多品牌回应干噎酸奶被指虚标热量",
+      "onboard_time": 1741853844,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26224,
+      "num": 246172,
+      "word": "网购48800元神药只是普通食品",
+      "onboard_time": 1741853243,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 24143,
       "num": 27645,
       "word": "特朗普自称特朗普永远是对的",
       "onboard_time": 1741805594,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 23667,
+      "num": 220320,
+      "word": "夸克AI超级框搞定所有事",
+      "onboard_time": 1741850244,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 21764,
@@ -1985,14 +2217,6 @@
       "onboard_time": 1741801995,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 20067,
-      "num": 220320,
-      "word": "夸克AI超级框搞定所有事",
-      "onboard_time": 1741850244,
-      "rank": 38,
-      "category": "互联网"
     },
     {
       "raw_hot": 19981,
@@ -2043,6 +2267,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 14623,
+      "num": 243442,
+      "word": "夸克给的旅行计划太J了",
+      "onboard_time": 1741853903,
+      "rank": 32,
+      "category": "互联网,旅游"
+    },
+    {
       "raw_hot": 14069,
       "num": 15644,
       "word": "国王云合",
@@ -2091,6 +2323,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 12902,
+      "num": 657930,
+      "word": "外资投资中国信心持续增强",
+      "onboard_time": 1741854324,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11726,
       "num": 177118,
       "word": "道指三连跌",
@@ -2127,6 +2367,9 @@
     },
     {
       "word": "#跟着总书记足迹瞰林海#"
+    },
+    {
+      "word": "#总书记的两会时间#"
     }
   ]
 }
