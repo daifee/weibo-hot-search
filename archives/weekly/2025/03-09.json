@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741864848628,
+  "endTime": 1741865790239,
   "band_list": [
     {
       "raw_hot": 21330054,
@@ -387,20 +387,20 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 1687257,
+      "num": 314229,
+      "word": "内蒙古未成年女遭生父强奸案已签和解书",
+      "onboard_time": 1741862123,
+      "rank": 18,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1680583,
       "num": 462515,
       "word": "特朗普衰退",
       "onboard_time": 1741790065,
       "rank": 20,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1671234,
-      "num": 314229,
-      "word": "内蒙古未成年女遭生父强奸案已签和解书",
-      "onboard_time": 1741862123,
-      "rank": 18,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 1670296,
@@ -1137,6 +1137,14 @@
       "onboard_time": 1741850363,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 933321,
+      "num": 1149331,
+      "word": "老人将密码告诉侄孙6万多存款剩33",
+      "onboard_time": 1741863924,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 932153,
@@ -1971,6 +1979,14 @@
       "category": "美妆,艺人"
     },
     {
+      "raw_hot": 620311,
+      "num": 308818,
+      "word": "海底捞包间事件获退款顾客发声",
+      "onboard_time": 1741863564,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 617258,
       "num": 299623,
       "word": "男子接广告被亲友举报从迪士尼离职",
@@ -2601,14 +2617,6 @@
       "onboard_time": 1741565360,
       "rank": 7,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 453856,
-      "num": 453856,
-      "word": "老人将密码告诉侄孙6万多存款剩33",
-      "onboard_time": 1741863924,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 448524,
@@ -3739,6 +3747,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 327530,
+      "num": 310457,
+      "word": "杨紫琼ins发中国台湾",
+      "onboard_time": 1741864465,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 327130,
       "num": 1005428,
       "word": "王一博LOEWE看秀look",
@@ -4691,6 +4707,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 254733,
+      "num": 259254,
+      "word": "国产剧太缺这类题材了",
+      "onboard_time": 1741862364,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 254532,
       "num": 254532,
       "word": "光与夜之恋",
@@ -4737,14 +4761,6 @@
       "onboard_time": 1741766123,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 248769,
-      "num": 310457,
-      "word": "杨紫琼ins发中国台湾",
-      "onboard_time": 1741864465,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 248328,
@@ -5339,6 +5355,14 @@
       "category": "电影,美食"
     },
     {
+      "raw_hot": 218627,
+      "num": 218627,
+      "word": "湖南卫视连发16条杨洋",
+      "onboard_time": 1741862123,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217895,
       "num": 212350,
       "word": "国王首播反馈",
@@ -5547,14 +5571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 209784,
-      "num": 209784,
-      "word": "湖南卫视连发16条杨洋",
-      "onboard_time": 1741862123,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 209342,
       "num": 209342,
       "word": "燃罪开播",
@@ -5667,12 +5683,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 205093,
-      "num": 259254,
-      "word": "国产剧太缺这类题材了",
-      "onboard_time": 1741862364,
-      "rank": 34,
-      "category": "剧集"
+      "raw_hot": 205264,
+      "num": 205264,
+      "word": "王一博最心水的造型",
+      "onboard_time": 1741865424,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 205053,
@@ -5971,6 +5987,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 197832,
+      "num": 197832,
+      "word": "穆婷婷早期微博经常艾特乔振宇",
+      "onboard_time": 1741862544,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197583,
       "num": 357479,
       "word": "华晨宇时隔七年唱孩子",
@@ -6259,14 +6283,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 190523,
-      "num": 308818,
-      "word": "海底捞包间事件获退款顾客发声",
-      "onboard_time": 1741863564,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 190479,
       "num": 190479,
       "word": "朱亚文沈佳妮否认离婚后首同框",
@@ -6321,14 +6337,6 @@
       "onboard_time": 1741522460,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 189113,
-      "num": 189113,
-      "word": "穆婷婷早期微博经常艾特乔振宇",
-      "onboard_time": 1741862544,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 189058,
@@ -7299,6 +7307,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 166834,
+      "num": 305113,
+      "word": "杨铭宇总经理称将以暗访形式监管",
+      "onboard_time": 1741863324,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 166808,
       "num": 166808,
       "word": "一般烂片我不看 但是烂到这种程度",
@@ -7857,6 +7873,14 @@
       "onboard_time": 1741498040,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 156523,
+      "num": 156523,
+      "word": "男子闲鱼代订海底捞补偿遇阻",
+      "onboard_time": 1741864643,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156308,
@@ -10404,7 +10428,7 @@
     },
     {
       "raw_hot": 115220,
-      "num": 115220,
+      "num": 221268,
       "word": "我叫赵出息开播",
       "onboard_time": 1741864823,
       "rank": 45,
@@ -10545,6 +10569,14 @@
       "onboard_time": 1741511421,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 113356,
+      "num": 113356,
+      "word": "完美世界",
+      "onboard_time": 1741865305,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 113299,
@@ -10753,14 +10785,6 @@
       "onboard_time": 1741689684,
       "rank": 48,
       "category": "民生新闻,艺人"
-    },
-    {
-      "raw_hot": 110606,
-      "num": 110606,
-      "word": "男子闲鱼代订海底捞补偿遇阻",
-      "onboard_time": 1741864643,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 110563,
@@ -11017,6 +11041,14 @@
       "onboard_time": 1741698264,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106534,
+      "num": 106534,
+      "word": "谁家俩口子这样拍照啊",
+      "onboard_time": 1741864763,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 106532,
@@ -11659,12 +11691,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 96590,
-      "num": 305113,
-      "word": "杨铭宇总经理称将以暗访形式监管",
-      "onboard_time": 1741863324,
-      "rank": 19,
-      "category": "舆论监督"
+      "raw_hot": 96636,
+      "num": 96636,
+      "word": "央行指出择机降准降息",
+      "onboard_time": 1741865065,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 96533,
@@ -12441,6 +12473,14 @@
       "onboard_time": 1741602082,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81607,
+      "num": 95941,
+      "word": "恋人",
+      "onboard_time": 1741862963,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 81576,
@@ -13371,6 +13411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56005,
+      "num": 162594,
+      "word": "林诗栋vs安宰贤",
+      "onboard_time": 1741865725,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 55847,
       "num": 55847,
       "word": "星你滤镜碎了",
@@ -13705,6 +13753,14 @@
       "onboard_time": 1741446922,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 46287,
+      "num": 244144,
+      "word": "纤体等词不应再被企业滥用",
+      "onboard_time": 1741865244,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46275,
@@ -15172,7 +15228,7 @@
     },
     {
       "raw_hot": 18636,
-      "num": 560084,
+      "num": 590927,
       "word": "12届中国网络视听大会新闻发布会",
       "onboard_time": 1741863623,
       "rank": 2,
@@ -15604,7 +15660,7 @@
     },
     {
       "raw_hot": 10047,
-      "num": 195763,
+      "num": 219045,
       "word": "阿里吴嘉谈AI超级框就是全能助手",
       "onboard_time": 1741864223,
       "rank": 36,

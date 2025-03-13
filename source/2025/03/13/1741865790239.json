@@ -1,0 +1,410 @@
+{
+  "runTime": 1741865790239,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 933321,
+        "num": 1149331,
+        "word": "老人将密码告诉侄孙6万多存款剩33",
+        "onboard_time": 1741863924,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 890649,
+        "num": 890649,
+        "word": "我不想再因为一碗黄焖鸡破防了",
+        "onboard_time": 1741857145,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 17903,
+        "num": 590927,
+        "word": "12届中国网络视听大会新闻发布会",
+        "onboard_time": 1741863623,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 554825,
+        "num": 554825,
+        "word": "羽衣甘蓝饮品真的能减肥吗",
+        "onboard_time": 1741860502,
+        "rank": 3,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 378556,
+        "num": 378556,
+        "word": "博主吃出胃炎被怼娇弱就不要探店",
+        "onboard_time": 1741860445,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334081,
+        "num": 334081,
+        "word": "9块9每升的100%椰子水安全吗",
+        "onboard_time": 1741857624,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 319773,
+        "num": 319773,
+        "word": "考研名师汤家凤再发声怒斥田静事件",
+        "onboard_time": 1741857924,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 245930,
+        "num": 245930,
+        "word": "黄焖鸡",
+        "onboard_time": 1741860445,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168280,
+        "num": 244743,
+        "word": "普京称要迅速彻底击溃乌武装力量",
+        "onboard_time": 1741859605,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 46287,
+        "num": 244144,
+        "word": "纤体等词不应再被企业滥用",
+        "onboard_time": 1741865244,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1833320,
+        "num": 242912,
+        "word": "金秀贤在剧组挨个道歉",
+        "onboard_time": 1741861343,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1687257,
+        "num": 242143,
+        "word": "内蒙古未成年女遭生父强奸案已签和解书",
+        "onboard_time": 1741862123,
+        "rank": 11,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 815673,
+        "num": 240244,
+        "word": "赵露思恋人 不复拍",
+        "onboard_time": 1741860204,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 663238,
+        "num": 239675,
+        "word": "虞书欣 鹿小葵式演技",
+        "onboard_time": 1741854563,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 620311,
+        "num": 238135,
+        "word": "海底捞包间事件获退款顾客发声",
+        "onboard_time": 1741863564,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1434497,
+        "num": 237418,
+        "word": "金秀贤金赛纶最新正脸照",
+        "onboard_time": 1741864223,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 602531,
+        "num": 236095,
+        "word": "乔欣 赖柏霖",
+        "onboard_time": 1741857924,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27918,
+        "num": 234697,
+        "word": "全新小鹏G6从未见过如此换代",
+        "onboard_time": 1741862422,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 327530,
+        "num": 232746,
+        "word": "杨紫琼ins发中国台湾",
+        "onboard_time": 1741864465,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115019,
+        "num": 232374,
+        "word": "女子在翡翠直播间入坑13天下单32次",
+        "onboard_time": 1741856543,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 231472,
+        "num": 231472,
+        "word": "呼和浩特发布育儿补贴细则",
+        "onboard_time": 1741857924,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 568767,
+        "num": 230123,
+        "word": "顾客获6千退款才知海底捞小便事件",
+        "onboard_time": 1741856125,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 482334,
+        "num": 229606,
+        "word": "董明珠暗讽有人靠炒高股价成了首富",
+        "onboard_time": 1741852882,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 300266,
+        "num": 227817,
+        "word": "赵丽颖 浪琴",
+        "onboard_time": 1741852643,
+        "rank": 23,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 284608,
+        "num": 226025,
+        "word": "杨幂苹果头像",
+        "onboard_time": 1741860264,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 254733,
+        "num": 224672,
+        "word": "国产剧太缺这类题材了",
+        "onboard_time": 1741862364,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217457,
+        "num": 222315,
+        "word": "哪吒2差半亿就到150亿了",
+        "onboard_time": 1741859725,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 94028,
+        "num": 221268,
+        "word": "我叫赵出息开播",
+        "onboard_time": 1741864823,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220043,
+        "num": 220043,
+        "word": "张继科已注销名下全部公司",
+        "onboard_time": 1741863324,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8509,
+        "num": 219045,
+        "word": "阿里吴嘉谈AI超级框就是全能助手",
+        "onboard_time": 1741864223,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 218627,
+        "num": 218627,
+        "word": "湖南卫视连发16条杨洋",
+        "onboard_time": 1741862123,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89663,
+        "num": 205440,
+        "word": "燃罪",
+        "onboard_time": 1741864285,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205264,
+        "num": 205264,
+        "word": "王一博最心水的造型",
+        "onboard_time": 1741865424,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 197832,
+        "num": 197832,
+        "word": "穆婷婷早期微博经常艾特乔振宇",
+        "onboard_time": 1741862544,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191898,
+        "num": 191898,
+        "word": "复旦教授教育孩子不要随意去第二次现场",
+        "onboard_time": 1741860382,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187928,
+        "num": 187928,
+        "word": "经纪人回应娜扎二番",
+        "onboard_time": 1741861764,
+        "rank": 35,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 166834,
+        "num": 166834,
+        "word": "杨铭宇总经理称将以暗访形式监管",
+        "onboard_time": 1741863324,
+        "rank": 36,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 56005,
+        "num": 162594,
+        "word": "林诗栋vs安宰贤",
+        "onboard_time": 1741865725,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159895,
+        "num": 159895,
+        "word": "孙颖莎vs杜凯琹",
+        "onboard_time": 1741863684,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156523,
+        "num": 156523,
+        "word": "男子闲鱼代订海底捞补偿遇阻",
+        "onboard_time": 1741864643,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143837,
+        "num": 143837,
+        "word": "澳门偶遇乔欣赖柏霖喝咖啡",
+        "onboard_time": 1741854683,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124856,
+        "num": 124856,
+        "word": "原来研究生才是最高学历",
+        "onboard_time": 1741854143,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 123865,
+        "num": 123865,
+        "word": "黑暗荣耀编剧金银淑的含金量",
+        "onboard_time": 1741856003,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120204,
+        "num": 120204,
+        "word": "女子花13000买足金手镯是镀金",
+        "onboard_time": 1741855944,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113431,
+        "num": 113431,
+        "word": "徐若晗一条一条给粉丝回信",
+        "onboard_time": 1741859964,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113356,
+        "num": 113356,
+        "word": "完美世界",
+        "onboard_time": 1741865305,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 112060,
+        "num": 112060,
+        "word": "王楚钦谈一分一分抠下比赛",
+        "onboard_time": 1741864104,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106534,
+        "num": 106534,
+        "word": "谁家俩口子这样拍照啊",
+        "onboard_time": 1741864763,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96636,
+        "num": 96636,
+        "word": "央行指出择机降准降息",
+        "onboard_time": 1741865065,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 81607,
+        "num": 95941,
+        "word": "恋人",
+        "onboard_time": 1741862963,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记一起厚植精神之树#"
+    }
+  }
+}
