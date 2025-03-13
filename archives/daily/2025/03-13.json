@@ -1,6 +1,6 @@
 {
   "startTime": 1741797038602,
-  "endTime": 1741876916644,
+  "endTime": 1741879627208,
   "band_list": [
     {
       "raw_hot": 3575207,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2115223,
-      "num": 327429,
+      "num": 398967,
       "word": "日本男女在长城上做不雅行为被行拘",
       "onboard_time": 1741875624,
       "rank": 15,
@@ -211,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1187823,
+      "num": 1190051,
+      "word": "小学老师解聘后在校门口卖火鸡面",
+      "onboard_time": 1741877963,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1161531,
       "num": 1161531,
       "word": "女歌手全国巡回演唱会后被抓",
@@ -281,6 +289,14 @@
       "onboard_time": 1741837522,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1024478,
+      "num": 1024478,
+      "word": "虞书欣欧阳娜娜回应鹿小葵式演技",
+      "onboard_time": 1741878322,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 1017209,
@@ -419,6 +435,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 747461,
+      "num": 747461,
+      "word": "请回答1988珍珠参加选秀",
+      "onboard_time": 1741878863,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 745160,
       "num": 745160,
       "word": "抖音封禁一批炒作炫富账号",
@@ -483,6 +507,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 628836,
+      "num": 380904,
+      "word": "金赛纶来中国拍过电影",
+      "onboard_time": 1741876104,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 628625,
       "num": 628625,
       "word": "母亲曝金赛纶被催款细节",
@@ -523,6 +555,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 548410,
+      "num": 490287,
+      "word": "杨洋被杨迪直接泼懵了",
+      "onboard_time": 1741875264,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 542180,
       "num": 542180,
       "word": "山姆回应多批次牛奶疑似变质",
@@ -553,6 +593,14 @@
       "onboard_time": 1741872985,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 528165,
+      "num": 528165,
+      "word": "如台独突破红线我们将采取断然措施",
+      "onboard_time": 1741877904,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 527935,
@@ -619,14 +667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 444408,
-      "num": 424202,
-      "word": "杨洋被杨迪直接泼懵了",
-      "onboard_time": 1741875264,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 438510,
       "num": 438510,
       "word": "白敬亭章若楠合影",
@@ -649,6 +689,14 @@
       "onboard_time": 1741860445,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 437687,
+      "num": 437687,
+      "word": "祖国必然统一",
+      "onboard_time": 1741877904,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 431145,
@@ -785,6 +833,14 @@
       "onboard_time": 1741777704,
       "rank": 42,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 328136,
+      "num": 328136,
+      "word": "穆婷婷退圈的原因",
+      "onboard_time": 1741879104,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 326692,
@@ -1011,14 +1067,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 259412,
-      "num": 259412,
-      "word": "金赛纶来中国拍过电影",
-      "onboard_time": 1741876104,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 258925,
       "num": 258925,
       "word": "张继科已注销名下全部公司",
@@ -1065,6 +1113,14 @@
       "onboard_time": 1741846463,
       "rank": 27,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 242270,
+      "num": 419689,
+      "word": "惠州回应36名男子被刘佳诱导买房",
+      "onboard_time": 1741877904,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 235798,
@@ -1177,6 +1233,14 @@
       "onboard_time": 1741841065,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221301,
+      "num": 221301,
+      "word": "发胖前的3大征兆",
+      "onboard_time": 1741875865,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 220907,
@@ -1467,20 +1531,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 191385,
-      "num": 191385,
-      "word": "发胖前的3大征兆",
-      "onboard_time": 1741875865,
-      "rank": 32,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 190858,
       "num": 190858,
       "word": "孙颖莎回应获WTT第100场单打胜利",
       "onboard_time": 1741868783,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189826,
+      "num": 189826,
+      "word": "唐九洲第一次主演长剧",
+      "onboard_time": 1741878443,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 189553,
@@ -1803,6 +1867,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 168103,
+      "num": 168103,
+      "word": "刘宪华晚宴内场生视频",
+      "onboard_time": 1741879223,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 167721,
       "num": 286453,
       "word": "欧豪比白鹿大两岁像大了十岁",
@@ -1827,12 +1899,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 166632,
+      "num": 290524,
+      "word": "抠小米镀金车标是否构成刑事犯罪",
+      "onboard_time": 1741876044,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165905,
       "num": 165905,
       "word": "AG33联赛1500淘汰",
       "onboard_time": 1741876824,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 165822,
+      "num": 165822,
+      "word": "母鸡卡",
+      "onboard_time": 1741878084,
+      "rank": 30,
+      "category": "动漫"
     },
     {
       "raw_hot": 165107,
@@ -1963,6 +2051,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 151379,
+      "num": 151379,
+      "word": "王俊凯没有技巧纯硬帅",
+      "onboard_time": 1741877365,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 150336,
       "num": 150336,
       "word": "KC翻盘",
@@ -1979,6 +2075,14 @@
       "category": "民生新闻,美食"
     },
     {
+      "raw_hot": 149403,
+      "num": 149403,
+      "word": "朱志鑫下课跳舞",
+      "onboard_time": 1741878202,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 149133,
       "num": 149133,
       "word": "网红老师廖叔突发心源性心脏病去世",
@@ -1987,12 +2091,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148470,
+      "num": 148470,
+      "word": "秘密关系",
+      "onboard_time": 1741879582,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147440,
       "num": 147440,
       "word": "台湾地震",
       "onboard_time": 1741844783,
       "rank": 41,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 146129,
+      "num": 146129,
+      "word": "PEL",
+      "onboard_time": 1741878744,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 146028,
@@ -2219,6 +2339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131752,
+      "num": 131752,
+      "word": "所有学生本硕博连读不用内卷",
+      "onboard_time": 1741877963,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 128482,
       "num": 257616,
       "word": "华为1610大开想象",
@@ -2275,6 +2403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126534,
+      "num": 126534,
+      "word": "国台办回应赖清德台独分裂言行",
+      "onboard_time": 1741877185,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 125805,
       "num": 125805,
       "word": "迪丽热巴大波浪发型回归",
@@ -2321,6 +2457,14 @@
       "onboard_time": 1741827323,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 122972,
+      "num": 122972,
+      "word": "我是AG我同意晋级",
+      "onboard_time": 1741879525,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 122535,
@@ -2424,6 +2568,14 @@
       "word": "梁伟铿王昶无缘全英赛16强",
       "onboard_time": 1741820839,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 113370,
+      "num": 113370,
+      "word": "山西男篮绝杀山东男篮",
+      "onboard_time": 1741878624,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -2532,7 +2684,7 @@
     },
     {
       "raw_hot": 102367,
-      "num": 667220,
+      "num": 828788,
       "word": "中国漆器美了千年",
       "onboard_time": 1741872084,
       "rank": 2,
@@ -3307,14 +3459,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 36395,
-      "num": 290524,
-      "word": "抠小米镀金车标是否构成刑事犯罪",
-      "onboard_time": 1741876044,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 35886,
       "num": 38749,
       "word": "罗云熙申请加入这场光影游戏",
@@ -3384,6 +3528,14 @@
       "word": "梁靖崑vs卢伟",
       "onboard_time": 1741839084,
       "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 29958,
+      "num": 211908,
+      "word": "孙颖莎说发挥比第一场好很多",
+      "onboard_time": 1741879284,
+      "rank": 24,
       "category": "体育"
     },
     {

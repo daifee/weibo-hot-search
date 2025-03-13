@@ -1,0 +1,410 @@
+{
+  "runTime": 1741879627208,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1187823,
+        "num": 1190051,
+        "word": "小学老师解聘后在校门口卖火鸡面",
+        "onboard_time": 1741877963,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1024478,
+        "num": 1024478,
+        "word": "虞书欣欧阳娜娜回应鹿小葵式演技",
+        "onboard_time": 1741878322,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68568,
+        "num": 828788,
+        "word": "中国漆器美了千年",
+        "onboard_time": 1741872084,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 747461,
+        "num": 747461,
+        "word": "请回答1988珍珠参加选秀",
+        "onboard_time": 1741878863,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 528165,
+        "num": 528165,
+        "word": "如台独突破红线我们将采取断然措施",
+        "onboard_time": 1741877904,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 491860,
+        "num": 491860,
+        "word": "刘晓艳让大家别宣传她马拉松2分20秒",
+        "onboard_time": 1741872324,
+        "rank": 5,
+        "category": "教育,运动健身"
+      },
+      {
+        "raw_hot": 548410,
+        "num": 490287,
+        "word": "杨洋被杨迪直接泼懵了",
+        "onboard_time": 1741875264,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 437687,
+        "num": 437687,
+        "word": "祖国必然统一",
+        "onboard_time": 1741877904,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 325748,
+        "num": 432277,
+        "word": "赵露思恋人 不复拍",
+        "onboard_time": 1741860204,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242270,
+        "num": 419689,
+        "word": "惠州回应36名男子被刘佳诱导买房",
+        "onboard_time": 1741877904,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1723652,
+        "num": 398967,
+        "word": "日本男女在长城上做不雅行为被行拘",
+        "onboard_time": 1741875624,
+        "rank": 10,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 628836,
+        "num": 380904,
+        "word": "金赛纶来中国拍过电影",
+        "onboard_time": 1741876104,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 602787,
+        "num": 366835,
+        "word": "虞书欣ins取关金秀贤",
+        "onboard_time": 1741852343,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361673,
+        "num": 361673,
+        "word": "顾客获6千退款才知海底捞小便事件",
+        "onboard_time": 1741856125,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342713,
+        "num": 342713,
+        "word": "乔欣 赖柏霖",
+        "onboard_time": 1741857924,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328136,
+        "num": 328136,
+        "word": "穆婷婷退圈的原因",
+        "onboard_time": 1741879104,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301466,
+        "num": 301466,
+        "word": "女生去理发店遇天价烫染花7680元",
+        "onboard_time": 1741872565,
+        "rank": 16,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 413898,
+        "num": 295109,
+        "word": "权志龙点赞金秀贤下车ins",
+        "onboard_time": 1741866324,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285974,
+        "num": 285974,
+        "word": "网购中药泡脚包检出大量病菌",
+        "onboard_time": 1741867523,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 212332,
+        "num": 258540,
+        "word": "扎西顿珠官宣结婚",
+        "onboard_time": 1741869983,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367489,
+        "num": 257013,
+        "word": "夫妻俩因为同一个习惯双双确诊食管癌",
+        "onboard_time": 1741872985,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251213,
+        "num": 251213,
+        "word": "75岁老人情绪失控开法拉利撞残他人",
+        "onboard_time": 1741872804,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221301,
+        "num": 221301,
+        "word": "发胖前的3大征兆",
+        "onboard_time": 1741875865,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 212037,
+        "num": 212037,
+        "word": "呼和浩特生育三孩发10万",
+        "onboard_time": 1741866565,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29958,
+        "num": 211908,
+        "word": "孙颖莎说发挥比第一场好很多",
+        "onboard_time": 1741879284,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211903,
+        "num": 211903,
+        "word": "董明珠暗讽有人靠炒高股价成了首富",
+        "onboard_time": 1741852882,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 201994,
+        "num": 201994,
+        "word": "王俊凯迪奥唯一胸针",
+        "onboard_time": 1741868123,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 189826,
+        "num": 189826,
+        "word": "唐九洲第一次主演长剧",
+        "onboard_time": 1741878443,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168103,
+        "num": 168103,
+        "word": "刘宪华晚宴内场生视频",
+        "onboard_time": 1741879223,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 166632,
+        "num": 166632,
+        "word": "抠小米镀金车标是否构成刑事犯罪",
+        "onboard_time": 1741876044,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165822,
+        "num": 165822,
+        "word": "母鸡卡",
+        "onboard_time": 1741878084,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 155800,
+        "num": 155800,
+        "word": "网传赵丽颖新剧三位男主",
+        "onboard_time": 1741875024,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152757,
+        "num": 152757,
+        "word": "哪吒2票房",
+        "onboard_time": 1741874725,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151379,
+        "num": 151379,
+        "word": "王俊凯没有技巧纯硬帅",
+        "onboard_time": 1741877365,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 150001,
+        "num": 150001,
+        "word": "羽衣甘蓝饮品真的能减肥吗",
+        "onboard_time": 1741860502,
+        "rank": 34,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 149403,
+        "num": 149403,
+        "word": "朱志鑫下课跳舞",
+        "onboard_time": 1741878202,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148470,
+        "num": 148470,
+        "word": "秘密关系",
+        "onboard_time": 1741879582,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146129,
+        "num": 146129,
+        "word": "PEL",
+        "onboard_time": 1741878744,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145037,
+        "num": 145037,
+        "word": "一个月究竟瘦几斤才科学",
+        "onboard_time": 1741874543,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 138989,
+        "num": 138989,
+        "word": "哪吒2烂番茄开分",
+        "onboard_time": 1741867225,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134976,
+        "num": 134976,
+        "word": "穆婷婷早期微博经常艾特乔振宇",
+        "onboard_time": 1741862544,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134342,
+        "num": 134342,
+        "word": "2岁女童总吃不饱饭量堪比成年人",
+        "onboard_time": 1741867764,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131752,
+        "num": 131752,
+        "word": "所有学生本硕博连读不用内卷",
+        "onboard_time": 1741877963,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 127757,
+        "num": 127757,
+        "word": "男子开网约车半月到手工资仅400元",
+        "onboard_time": 1741875024,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126534,
+        "num": 126534,
+        "word": "国台办回应赖清德台独分裂言行",
+        "onboard_time": 1741877185,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124095,
+        "num": 124095,
+        "word": "终于理解反派看女主家庭的感觉了",
+        "onboard_time": 1741875206,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122972,
+        "num": 122972,
+        "word": "我是AG我同意晋级",
+        "onboard_time": 1741879525,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113370,
+        "num": 113370,
+        "word": "山西男篮绝杀山东男篮",
+        "onboard_time": 1741878624,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112929,
+        "num": 112929,
+        "word": "杨幂苹果头像",
+        "onboard_time": 1741860264,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107983,
+        "num": 107983,
+        "word": "网红奶瓶自称风靡全网实为虚假宣传",
+        "onboard_time": 1741869443,
+        "rank": 49,
+        "category": "舆论监督"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025奋进中国#"
+    }
+  }
+}
