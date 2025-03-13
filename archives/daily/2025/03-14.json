@@ -1,6 +1,6 @@
 {
   "startTime": 1741883456293,
-  "endTime": 1741890750449,
+  "endTime": 1741891567232,
   "band_list": [
     {
       "raw_hot": 2022510,
@@ -505,6 +505,14 @@
       "onboard_time": 1741890555,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 16476,
+      "num": 22119,
+      "word": "刘宇古装",
+      "onboard_time": 1741891394,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 15319,
