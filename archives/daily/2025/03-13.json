@@ -1,6 +1,6 @@
 {
   "startTime": 1741797038602,
-  "endTime": 1741843389952,
+  "endTime": 1741844422445,
   "band_list": [
     {
       "raw_hot": 3504662,
@@ -8,6 +8,14 @@
       "word": "金秀贤回应交往金赛纶是谣言",
       "onboard_time": 1741835121,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3015707,
+      "num": 473937,
+      "word": "穆婷婷说自己的胸比包上恩好看",
+      "onboard_time": 1741843103,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -105,14 +113,6 @@
       "onboard_time": 1741833323,
       "rank": 7,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1109354,
-      "num": 473937,
-      "word": "穆婷婷说自己的胸比包上恩好看",
-      "onboard_time": 1741843103,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1107377,
@@ -403,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 295466,
+      "num": 295466,
+      "word": "国内不火但非常好玩的小众城市",
+      "onboard_time": 1741842803,
+      "rank": 32,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 289206,
       "num": 289206,
       "word": "42岁黄圣依状态",
@@ -451,12 +459,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 258405,
+      "num": 258405,
+      "word": "金赛纶咖啡店打工被人说是摆拍",
+      "onboard_time": 1741843762,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231425,
       "num": 231425,
       "word": "女子通一次马桶被收费3180元",
       "onboard_time": 1741781124,
       "rank": 7,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 223580,
+      "num": 223580,
+      "word": "玉茗茶骨阵容官宣",
+      "onboard_time": 1741842684,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 221370,
@@ -483,20 +507,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217450,
+      "num": 302237,
+      "word": "俞敏洪将回赠雷军15袋大米",
+      "onboard_time": 1741842744,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 215963,
       "num": 215963,
       "word": "檀健次吻戏把人看红温了",
       "onboard_time": 1741796782,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 214711,
-      "num": 214711,
-      "word": "国内不火但非常好玩的小众城市",
-      "onboard_time": 1741842803,
-      "rank": 32,
-      "category": "旅游"
     },
     {
       "raw_hot": 212411,
@@ -555,14 +579,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 194571,
-      "num": 194571,
-      "word": "俞敏洪将回赠雷军15袋大米",
-      "onboard_time": 1741842744,
-      "rank": 33,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 193211,
       "num": 193211,
       "word": "消费卡挂闲鱼发完密码买家退款",
@@ -579,12 +595,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 188594,
-      "num": 188594,
-      "word": "玉茗茶骨阵容官宣",
-      "onboard_time": 1741842684,
-      "rank": 35,
-      "category": "剧集"
+      "raw_hot": 188456,
+      "num": 474301,
+      "word": "韩国女艺人容错率几乎为0",
+      "onboard_time": 1741842384,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 188331,
+      "num": 473763,
+      "word": "马来西亚影院隔15分钟一场哪吒2",
+      "onboard_time": 1741842624,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 186970,
@@ -601,6 +625,22 @@
       "onboard_time": 1741785504,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186023,
+      "num": 473573,
+      "word": "直播间拆卡15分钟花1500元",
+      "onboard_time": 1741842624,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 184931,
+      "num": 184931,
+      "word": "广式美甲",
+      "onboard_time": 1741840705,
+      "rank": 41,
+      "category": "美妆"
     },
     {
       "raw_hot": 184091,
@@ -659,6 +699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175393,
+      "num": 175393,
+      "word": "嘘国王在冬眠",
+      "onboard_time": 1741843762,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174305,
       "num": 223696,
       "word": "张晚意雨中下跪戏浇成凌乱小狗了",
@@ -689,6 +737,14 @@
       "onboard_time": 1741835423,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 172446,
+      "num": 172446,
+      "word": "金秀贤取消今日节目录制",
+      "onboard_time": 1741844303,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 171423,
@@ -729,14 +785,6 @@
       "onboard_time": 1741830443,
       "rank": 49,
       "category": "数码"
-    },
-    {
-      "raw_hot": 169637,
-      "num": 169637,
-      "word": "广式美甲",
-      "onboard_time": 1741840705,
-      "rank": 41,
-      "category": "美妆"
     },
     {
       "raw_hot": 164310,
@@ -784,14 +832,6 @@
       "word": "丁禹兮深夜allblack上班",
       "onboard_time": 1741836984,
       "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 155780,
-      "num": 474301,
-      "word": "韩国女艺人容错率几乎为0",
-      "onboard_time": 1741842384,
-      "rank": 9,
       "category": "艺人"
     },
     {
@@ -931,6 +971,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 123985,
+      "num": 433038,
+      "word": "始祖鸟吊牌倒卖背后的灰色产业链",
+      "onboard_time": 1741839385,
+      "rank": 18,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 123509,
       "num": 123509,
       "word": "96年夫妻每天设计1000大卡减脂餐",
@@ -948,7 +996,7 @@
     },
     {
       "raw_hot": 122263,
-      "num": 122263,
+      "num": 131206,
       "word": "ccd拍的黄杨钿甜",
       "onboard_time": 1741843283,
       "rank": 49,
@@ -1235,14 +1283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 74674,
-      "num": 473573,
-      "word": "直播间拆卡15分钟花1500元",
-      "onboard_time": 1741842624,
-      "rank": 14,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 74158,
       "num": 123983,
       "word": "美乌沙特会谈就临时停火等达成共识",
@@ -1281,6 +1321,14 @@
       "onboard_time": 1741831763,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65624,
+      "num": 227647,
+      "word": "网购养生茶包惊现蠕动活蛆虫",
+      "onboard_time": 1741842564,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 65481,
@@ -1331,28 +1379,20 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 59074,
-      "num": 227647,
-      "word": "网购养生茶包惊现蠕动活蛆虫",
-      "onboard_time": 1741842564,
-      "rank": 29,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 58834,
-      "num": 473763,
-      "word": "马来西亚影院隔15分钟一场哪吒2",
-      "onboard_time": 1741842624,
-      "rank": 13,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 56287,
-      "num": 433038,
-      "word": "始祖鸟吊牌倒卖背后的灰色产业链",
-      "onboard_time": 1741839385,
+      "raw_hot": 58756,
+      "num": 297125,
+      "word": "穆婷婷乔振宇早期微博互动",
+      "onboard_time": 1741843883,
       "rank": 18,
-      "category": "舆论监督"
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 57535,
+      "num": 789869,
+      "word": "看好中国做多中国已成为国际共识",
+      "onboard_time": 1741841725,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 54303,
@@ -1377,14 +1417,6 @@
       "onboard_time": 1741822521,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 46649,
-      "num": 789869,
-      "word": "看好中国做多中国已成为国际共识",
-      "onboard_time": 1741841725,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 45536,
@@ -1457,6 +1489,14 @@
       "onboard_time": 1741799837,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 35000,
+      "num": 295995,
+      "word": "特朗普称将回应欧盟的反制关税",
+      "onboard_time": 1741844063,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 33513,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1741844422445,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 793648,
+        "num": 1126983,
+        "word": "马龙拥抱了马龙",
+        "onboard_time": 1741837522,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 697562,
+        "num": 697562,
+        "word": "韩国举办15岁以下女团选秀",
+        "onboard_time": 1741837646,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57535,
+        "num": 539064,
+        "word": "看好中国做多中国已成为国际共识",
+        "onboard_time": 1741841725,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 477499,
+        "num": 477499,
+        "word": "泰国坠崖案王暖暖孩子查出先心病",
+        "onboard_time": 1741834224,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 443022,
+        "num": 443022,
+        "word": "校长说8年制大学让学生不用内卷",
+        "onboard_time": 1741833323,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1532003,
+        "num": 442543,
+        "word": "麦琳道歉",
+        "onboard_time": 1741839324,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 606718,
+        "num": 433982,
+        "word": "瑶一瑶小肉包已停更一个月",
+        "onboard_time": 1741834942,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 422398,
+        "num": 422398,
+        "word": "141万买二手房原房主拒绝搬家",
+        "onboard_time": 1741837343,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 373463,
+        "num": 373463,
+        "word": "白敬亭章若楠合影",
+        "onboard_time": 1741841546,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313852,
+        "num": 313852,
+        "word": "女歌手全国巡回演唱会后被抓",
+        "onboard_time": 1741831643,
+        "rank": 9,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 3015707,
+        "num": 313695,
+        "word": "穆婷婷说自己的胸比包上恩好看",
+        "onboard_time": 1741843103,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1116846,
+        "num": 312892,
+        "word": "金赛纶下跪才协商到7亿",
+        "onboard_time": 1741830744,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 528475,
+        "num": 311789,
+        "word": "重庆一男子女厕偷拍逃跑时坠楼",
+        "onboard_time": 1741837522,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188331,
+        "num": 311061,
+        "word": "马来西亚影院隔15分钟一场哪吒2",
+        "onboard_time": 1741842624,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186023,
+        "num": 310758,
+        "word": "直播间拆卡15分钟花1500元",
+        "onboard_time": 1741842624,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 374643,
+        "num": 310037,
+        "word": "王俊凯安排自己座驾送长辈",
+        "onboard_time": 1741840106,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309540,
+        "num": 309540,
+        "word": "徐睿知发文",
+        "onboard_time": 1741822099,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217450,
+        "num": 302237,
+        "word": "俞敏洪将回赠雷军15袋大米",
+        "onboard_time": 1741842744,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 58756,
+        "num": 297125,
+        "word": "穆婷婷乔振宇早期微博互动",
+        "onboard_time": 1741843883,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35000,
+        "num": 295995,
+        "word": "特朗普称将回应欧盟的反制关税",
+        "onboard_time": 1741844063,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 295466,
+        "num": 295466,
+        "word": "国内不火但非常好玩的小众城市",
+        "onboard_time": 1741842803,
+        "rank": 20,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 274626,
+        "num": 274626,
+        "word": "曝金秀贤经纪人强奸了6名女性",
+        "onboard_time": 1741827024,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258405,
+        "num": 258405,
+        "word": "金赛纶咖啡店打工被人说是摆拍",
+        "onboard_time": 1741843762,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213315,
+        "num": 256456,
+        "word": "山姆回应多批次牛奶疑似变质",
+        "onboard_time": 1741836383,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255827,
+        "num": 255827,
+        "word": "女子生完双胞胎4个月再怀双胞胎",
+        "onboard_time": 1741833203,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223580,
+        "num": 223580,
+        "word": "玉茗茶骨阵容官宣",
+        "onboard_time": 1741842684,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192674,
+        "num": 192674,
+        "word": "外卖员从来不碰的外卖有哪些",
+        "onboard_time": 1741823542,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186595,
+        "num": 186595,
+        "word": "杨幂苹果自拍",
+        "onboard_time": 1741841065,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160021,
+        "num": 185437,
+        "word": "麦琳再回应熏鸡事件",
+        "onboard_time": 1741841847,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184931,
+        "num": 184931,
+        "word": "广式美甲",
+        "onboard_time": 1741840705,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 175393,
+        "num": 175393,
+        "word": "嘘国王在冬眠",
+        "onboard_time": 1741843762,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172446,
+        "num": 172446,
+        "word": "金秀贤取消今日节目录制",
+        "onboard_time": 1741844303,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172173,
+        "num": 172173,
+        "word": "曹德旺谈中国人和外国人有差距的能力",
+        "onboard_time": 1741840953,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 7631,
+        "num": 159328,
+        "word": "金晨李川孙越AI天团",
+        "onboard_time": 1741840705,
+        "rank": 33,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 65624,
+        "num": 156992,
+        "word": "网购养生茶包惊现蠕动活蛆虫",
+        "onboard_time": 1741842564,
+        "rank": 34,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 156436,
+        "num": 156436,
+        "word": "我国在三维世界造出二维金属材料",
+        "onboard_time": 1741839024,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 17574,
+        "num": 156185,
+        "word": "华为1610大开想象",
+        "onboard_time": 1741839625,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 156092,
+        "num": 156092,
+        "word": "糯玉米和甜玉米谁是升糖刺客",
+        "onboard_time": 1741842384,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 188456,
+        "num": 156079,
+        "word": "韩国女艺人容错率几乎为0",
+        "onboard_time": 1741842384,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156012,
+        "num": 156012,
+        "word": "马琳被曼昱打脑门又被莎莎击肚子",
+        "onboard_time": 1741840645,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155963,
+        "num": 155963,
+        "word": "玉茗茶骨",
+        "onboard_time": 1741833683,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149557,
+        "num": 149557,
+        "word": "小米SU7Ultra车标中炼出黄金",
+        "onboard_time": 1741826364,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 131259,
+        "num": 131259,
+        "word": "17岁女主播停播后被索赔25万",
+        "onboard_time": 1741838246,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100990,
+        "num": 131206,
+        "word": "ccd拍的黄杨钿甜",
+        "onboard_time": 1741843283,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68458,
+        "num": 131185,
+        "word": "巴基斯坦一列车遭劫21名人质被杀",
+        "onboard_time": 1741834763,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 131185,
+        "num": 131184,
+        "word": "抖音封禁一批炒作炫富账号",
+        "onboard_time": 1741826364,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 130891,
+        "num": 130891,
+        "word": "迪丽热巴也湿了眼眶",
+        "onboard_time": 1741841725,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123985,
+        "num": 123985,
+        "word": "始祖鸟吊牌倒卖背后的灰色产业链",
+        "onboard_time": 1741839385,
+        "rank": 47,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 123817,
+        "num": 123817,
+        "word": "夏之光翟潇闻赵让结伴出行",
+        "onboard_time": 1741840885,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122900,
+        "num": 122900,
+        "word": "黄晓明在线辟谣输了十个亿",
+        "onboard_time": 1741825164,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会之问#"
+    }
+  }
+}
