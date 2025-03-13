@@ -1,21 +1,21 @@
 {
   "startTime": 1741797038602,
-  "endTime": 1741835390725,
+  "endTime": 1741836988945,
   "band_list": [
+    {
+      "raw_hot": 3493972,
+      "num": 3493972,
+      "word": "金秀贤回应交往金赛纶是谣言",
+      "onboard_time": 1741835121,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2648570,
       "num": 493787,
       "word": "金赛纶下跪才协商到7亿",
       "onboard_time": 1741830744,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2625772,
-      "num": 2625772,
-      "word": "金秀贤回应交往金赛纶是谣言",
-      "onboard_time": 1741835121,
-      "rank": 0,
       "category": "艺人"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1607546,
-      "num": 598427,
+      "num": 706016,
       "word": "王大陆入伍",
       "onboard_time": 1741830023,
       "rank": 8,
@@ -44,11 +44,19 @@
     },
     {
       "raw_hot": 1490710,
-      "num": 739488,
+      "num": 783578,
       "word": "穆婷婷说乔振宇专业上差劲",
       "onboard_time": 1741830803,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1340426,
+      "num": 836931,
+      "word": "瑶一瑶小肉包已停更一个月",
+      "onboard_time": 1741834942,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 1229027,
@@ -83,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 911024,
+      "num": 911024,
+      "word": "校长说8年制大学让学生不用内卷",
+      "onboard_time": 1741833323,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
       "raw_hot": 870925,
       "num": 912282,
       "word": "顾茜茜抖音账号被永久封禁",
@@ -99,8 +115,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 752803,
-      "num": 752803,
+      "raw_hot": 817450,
+      "num": 817450,
+      "word": "泰国坠崖案王暖暖孩子查出先心病",
+      "onboard_time": 1741834224,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 805262,
+      "num": 805262,
       "word": "女歌手全国巡回演唱会后被抓",
       "onboard_time": 1741831643,
       "rank": 40,
@@ -113,6 +137,14 @@
       "onboard_time": 1741826364,
       "rank": 3,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 737002,
+      "num": 447225,
+      "word": "穆婷婷说不想和乔振宇再合作",
+      "onboard_time": 1741833683,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 697708,
@@ -140,7 +172,7 @@
     },
     {
       "raw_hot": 606331,
-      "num": 86085,
+      "num": 402645,
       "word": "曝金秀贤经纪人强奸了6名女性",
       "onboard_time": 1741827024,
       "rank": 45,
@@ -155,28 +187,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 596978,
-      "num": 596978,
-      "word": "校长说8年制大学让学生不用内卷",
-      "onboard_time": 1741833323,
-      "rank": 7,
-      "category": "教育"
-    },
-    {
       "raw_hot": 537629,
       "num": 257678,
       "word": "女子生完双胞胎4个月再怀双胞胎",
       "onboard_time": 1741833203,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 444059,
-      "num": 444059,
-      "word": "穆婷婷说不想和乔振宇再合作",
-      "onboard_time": 1741833683,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 438053,
@@ -217,14 +233,6 @@
       "onboard_time": 1741831883,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 401859,
-      "num": 323407,
-      "word": "泰国坠崖案王暖暖孩子查出先心病",
-      "onboard_time": 1741834224,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 369363,
@@ -323,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 267839,
+      "num": 267839,
+      "word": "玉茗茶骨",
+      "onboard_time": 1741833683,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 267484,
       "num": 267484,
       "word": "春捂是要捂到什么时候",
@@ -337,6 +353,14 @@
       "onboard_time": 1741781124,
       "rank": 7,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 228162,
+      "num": 476929,
+      "word": "居家养老难题怎么破",
+      "onboard_time": 1741836203,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 220008,
@@ -355,14 +379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 216544,
-      "num": 260234,
-      "word": "玉茗茶骨",
-      "onboard_time": 1741833683,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 215963,
       "num": 215963,
       "word": "檀健次吻戏把人看红温了",
@@ -377,6 +393,22 @@
       "onboard_time": 1741822642,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 210708,
+      "num": 210708,
+      "word": "42岁黄圣依状态",
+      "onboard_time": 1741835724,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 209342,
+      "num": 209342,
+      "word": "燃罪开播",
+      "onboard_time": 1741836143,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 205880,
@@ -395,14 +427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 198510,
-      "num": 198510,
-      "word": "瑶一瑶小肉包已停更一个月",
-      "onboard_time": 1741834942,
-      "rank": 27,
-      "category": "网红"
-    },
-    {
       "raw_hot": 198061,
       "num": 178234,
       "word": "不良人7定档PV官宣",
@@ -416,6 +440,14 @@
       "word": "消费卡挂闲鱼发完密码买家退款",
       "onboard_time": 1741821378,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188291,
+      "num": 188291,
+      "word": "山姆回应多批次牛奶疑似变质",
+      "onboard_time": 1741836383,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -451,6 +483,14 @@
       "category": "国际时政,国际时政"
     },
     {
+      "raw_hot": 180535,
+      "num": 180535,
+      "word": "虞书欣小松鼠萌你一下",
+      "onboard_time": 1741835963,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178621,
       "num": 365464,
       "word": "普京视察库尔斯克地区",
@@ -467,12 +507,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173555,
+      "num": 173555,
+      "word": "光遇",
+      "onboard_time": 1741835423,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 171879,
+      "num": 182692,
+      "word": "杨幂头像库更新",
+      "onboard_time": 1741835602,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171423,
       "num": 225638,
       "word": "长顺公布中小学教师退出机制暂行办法",
       "onboard_time": 1741821378,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 171239,
+      "num": 171239,
+      "word": "巴基斯坦一列车遭劫21名人质被杀",
+      "onboard_time": 1741834763,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 169932,
@@ -571,6 +635,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 127611,
+      "num": 127611,
+      "word": "90后女生辞职做非遗捧红妈妈",
+      "onboard_time": 1741834822,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127291,
+      "num": 127291,
+      "word": "一边跳绳一边踢毽子不再是病句了",
+      "onboard_time": 1741829783,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125805,
       "num": 125805,
       "word": "迪丽热巴大波浪发型回归",
@@ -611,14 +691,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 122372,
-      "num": 122372,
-      "word": "一边跳绳一边踢毽子不再是病句了",
-      "onboard_time": 1741829783,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120417,
       "num": 150075,
       "word": "迪丽热巴陈星旭大理同框",
@@ -641,6 +713,14 @@
       "onboard_time": 1741760663,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115995,
+      "num": 115995,
+      "word": "咬撬棍救人的大哥找到了",
+      "onboard_time": 1741833143,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114647,
@@ -689,14 +769,6 @@
       "onboard_time": 1741830083,
       "rank": 41,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 98949,
-      "num": 126596,
-      "word": "巴基斯坦一列车遭劫21名人质被杀",
-      "onboard_time": 1741834763,
-      "rank": 48,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 98592,
@@ -756,7 +828,7 @@
     },
     {
       "raw_hot": 86731,
-      "num": 127546,
+      "num": 130945,
       "word": "何小鹏称业内G6同等配置的车都超20万",
       "onboard_time": 1741834883,
       "rank": 37,
@@ -996,7 +1068,7 @@
     },
     {
       "raw_hot": 39794,
-      "num": 788988,
+      "num": 853608,
       "word": "2025政府工作报告全文",
       "onboard_time": 1741776686,
       "rank": 2,
@@ -1017,6 +1089,14 @@
       "onboard_time": 1741799837,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 34277,
+      "num": 379378,
+      "word": "藏乌梨价格远超普通梨30倍",
+      "onboard_time": 1741836203,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 28849,
