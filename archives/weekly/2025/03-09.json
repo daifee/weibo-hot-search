@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741834829292,
+  "endTime": 1741835390725,
   "band_list": [
     {
       "raw_hot": 21330054,
@@ -89,6 +89,14 @@
       "onboard_time": 1741522041,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 2625772,
+      "num": 2625772,
+      "word": "金秀贤回应交往金赛纶是谣言",
+      "onboard_time": 1741835121,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 2606112,
@@ -436,7 +444,7 @@
     },
     {
       "raw_hot": 1490710,
-      "num": 568578,
+      "num": 739488,
       "word": "穆婷婷说乔振宇专业上差劲",
       "onboard_time": 1741830803,
       "rank": 8,
@@ -1275,6 +1283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 752803,
+      "num": 752803,
+      "word": "女歌手全国巡回演唱会后被抓",
+      "onboard_time": 1741831643,
+      "rank": 40,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 747450,
       "num": 820998,
       "word": "赞助商回应麦琳参加综艺遭抵制",
@@ -1505,14 +1521,6 @@
       "onboard_time": 1741735700,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 655743,
-      "num": 655743,
-      "word": "女歌手全国巡回演唱会后被抓",
-      "onboard_time": 1741831643,
-      "rank": 40,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 655474,
@@ -1777,6 +1785,14 @@
       "onboard_time": 1741571660,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 596978,
+      "num": 596978,
+      "word": "校长说8年制大学让学生不用内卷",
+      "onboard_time": 1741833323,
+      "rank": 7,
+      "category": "教育"
     },
     {
       "raw_hot": 596695,
@@ -2283,6 +2299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 444059,
+      "num": 444059,
+      "word": "穆婷婷说不想和乔振宇再合作",
+      "onboard_time": 1741833683,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 443377,
       "num": 443377,
       "word": "热巴周也陈星旭王子文同框",
@@ -2579,6 +2603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 401859,
+      "num": 323407,
+      "word": "泰国坠崖案王暖暖孩子查出先心病",
+      "onboard_time": 1741834224,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 400853,
       "num": 238770,
       "word": "温以凡香港刷盘子",
@@ -2689,14 +2721,6 @@
       "onboard_time": 1741739244,
       "rank": 21,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 390660,
-      "num": 390660,
-      "word": "校长说8年制大学让学生不用内卷",
-      "onboard_time": 1741833323,
-      "rank": 7,
-      "category": "教育"
     },
     {
       "raw_hot": 390643,
@@ -3449,14 +3473,6 @@
       "onboard_time": 1741651101,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 311003,
-      "num": 311003,
-      "word": "穆婷婷说不想和乔振宇再合作",
-      "onboard_time": 1741833683,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 308996,
@@ -4675,6 +4691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220008,
+      "num": 220008,
+      "word": "猎金游戏定档",
+      "onboard_time": 1741833622,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 219379,
       "num": 219379,
       "word": "宋茜好像霍格沃茨来的",
@@ -4721,6 +4745,14 @@
       "onboard_time": 1741486881,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 216544,
+      "num": 260234,
+      "word": "玉茗茶骨",
+      "onboard_time": 1741833683,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 216470,
@@ -4915,28 +4947,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 208306,
-      "num": 260234,
-      "word": "玉茗茶骨",
-      "onboard_time": 1741833683,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 208152,
       "num": 208152,
       "word": "SM艺人官娃",
       "onboard_time": 1741782444,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 207526,
-      "num": 184626,
-      "word": "泰国坠崖案王暖暖孩子查出先心病",
-      "onboard_time": 1741834224,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 207257,
@@ -4977,6 +4993,14 @@
       "onboard_time": 1741518502,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205880,
+      "num": 205880,
+      "word": "省考前的最后两天还能做什么",
+      "onboard_time": 1741834822,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 205325,
@@ -5219,12 +5243,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198510,
+      "num": 198510,
+      "word": "瑶一瑶小肉包已停更一个月",
+      "onboard_time": 1741834942,
+      "rank": 27,
+      "category": "网红"
+    },
+    {
       "raw_hot": 198380,
       "num": 255440,
       "word": "我叫赵出息定档",
       "onboard_time": 1741577601,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198061,
+      "num": 178234,
+      "word": "不良人7定档PV官宣",
+      "onboard_time": 1741835063,
+      "rank": 31,
+      "category": "动漫"
     },
     {
       "raw_hot": 197865,
@@ -5723,14 +5763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 183435,
-      "num": 183435,
-      "word": "猎金游戏定档",
-      "onboard_time": 1741833622,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 182616,
       "num": 182616,
       "word": "刘敏涛王迅新片演母子",
@@ -5859,6 +5891,14 @@
       "category": "民生新闻,议题讨论"
     },
     {
+      "raw_hot": 178621,
+      "num": 365464,
+      "word": "普京视察库尔斯克地区",
+      "onboard_time": 1741833503,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 178288,
       "num": 178288,
       "word": "怒水西流定档",
@@ -5881,14 +5921,6 @@
       "onboard_time": 1741690704,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 177673,
-      "num": 365464,
-      "word": "普京视察库尔斯克地区",
-      "onboard_time": 1741833503,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 177340,
@@ -8619,6 +8651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 122372,
+      "num": 122372,
+      "word": "一边跳绳一边踢毽子不再是病句了",
+      "onboard_time": 1741829783,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122181,
       "num": 122181,
       "word": "爱你我还能再看1000集",
@@ -10139,6 +10179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 98949,
+      "num": 126596,
+      "word": "巴基斯坦一列车遭劫21名人质被杀",
+      "onboard_time": 1741834763,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 98938,
       "num": 98938,
       "word": "钎城评论区J人属性拉满",
@@ -10321,14 +10369,6 @@
       "onboard_time": 1741697726,
       "rank": 45,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 95978,
-      "num": 95978,
-      "word": "一边跳绳一边踢毽子不再是病句了",
-      "onboard_time": 1741829783,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 95852,
@@ -10787,6 +10827,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 86731,
+      "num": 127546,
+      "word": "何小鹏称业内G6同等配置的车都超20万",
+      "onboard_time": 1741834883,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 86453,
       "num": 163894,
       "word": "官方通报杨铭宇黄焖鸡后厨问题",
@@ -11083,14 +11131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 78236,
-      "num": 78236,
-      "word": "巴基斯坦一列车遭劫21名人质被杀",
-      "onboard_time": 1741834763,
-      "rank": 48,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 78068,
       "num": 182207,
       "word": "真给33在评论区爽到了",
@@ -11225,6 +11265,14 @@
       "onboard_time": 1741436360,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 74158,
+      "num": 123983,
+      "word": "美乌沙特会谈就临时停火等达成共识",
+      "onboard_time": 1741831823,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 73869,
@@ -13169,6 +13217,14 @@
       "onboard_time": 1741703426,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21764,
+      "num": 212970,
+      "word": "卫枝团宠",
+      "onboard_time": 1741833024,
+      "rank": 24,
+      "category": "幽默,电竞"
     },
     {
       "raw_hot": 21532,
