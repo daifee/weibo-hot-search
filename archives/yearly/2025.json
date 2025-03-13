@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1741848363954,
+  "endTime": 1741850546792,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1129,6 +1129,14 @@
       "onboard_time": 1738289537,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 3575207,
+      "num": 312561,
+      "word": "元斌与金赛纶的最后通话记录",
+      "onboard_time": 1741847421,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 3560113,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1739967800,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 2556287,
-      "num": 2556287,
-      "word": "留几手长文",
-      "onboard_time": 1736494280,
-      "rank": 35,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

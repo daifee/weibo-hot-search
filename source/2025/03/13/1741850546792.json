@@ -1,0 +1,410 @@
+{
+  "runTime": 1741850546792,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 679799,
+        "num": 1108767,
+        "word": "公司回应广告牌上女士有6根手指",
+        "onboard_time": 1741844483,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 802791,
+        "num": 802791,
+        "word": "国王剧情 平淡",
+        "onboard_time": 1741847363,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58849,
+        "num": 695592,
+        "word": "看好中国做多中国已成为国际共识",
+        "onboard_time": 1741841725,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 675031,
+        "num": 675031,
+        "word": "烤匠 排队",
+        "onboard_time": 1741847664,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 419699,
+        "num": 419699,
+        "word": "韩国举办15岁以下女团选秀",
+        "onboard_time": 1741837646,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363957,
+        "num": 363957,
+        "word": "火爆全网的干噎酸奶是科技狠活吗",
+        "onboard_time": 1741847183,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 361315,
+        "num": 361315,
+        "word": "马龙拥抱了马龙",
+        "onboard_time": 1741837522,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 352491,
+        "num": 352491,
+        "word": "瑶一瑶小肉包已停更一个月",
+        "onboard_time": 1741834942,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 333369,
+        "num": 333369,
+        "word": "阿里AI旗舰应用夸克全面升级",
+        "onboard_time": 1741849403,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 313904,
+        "num": 313904,
+        "word": "广州一老干局招聘要求年龄50岁以上",
+        "onboard_time": 1741844602,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3575207,
+        "num": 312561,
+        "word": "元斌与金赛纶的最后通话记录",
+        "onboard_time": 1741847421,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446138,
+        "num": 310545,
+        "word": "穆婷婷 我讨厌不尊重对手且膨胀的人",
+        "onboard_time": 1741840226,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397839,
+        "num": 308789,
+        "word": "金秀贤最喜欢老男孩结局",
+        "onboard_time": 1741844663,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301774,
+        "num": 301774,
+        "word": "重庆一男子女厕偷拍逃跑时坠楼",
+        "onboard_time": 1741837522,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101381,
+        "num": 281563,
+        "word": "记者暗访揭黄金造假乱象",
+        "onboard_time": 1741848443,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 692494,
+        "num": 276662,
+        "word": "金赛纶下跪才协商到7亿",
+        "onboard_time": 1741830744,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267929,
+        "num": 267929,
+        "word": "校长说8年制大学让学生不用内卷",
+        "onboard_time": 1741833323,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 191854,
+        "num": 266663,
+        "word": "刘宇月鳞绮纪造型出妆",
+        "onboard_time": 1741850363,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190882,
+        "num": 265893,
+        "word": "汪苏泷鸟巢伴手礼",
+        "onboard_time": 1741844783,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 32978,
+        "num": 263378,
+        "word": "谈新对象男子是否消费亡妻才是关键",
+        "onboard_time": 1741849764,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 680048,
+        "num": 261096,
+        "word": "上海偷完LV爱马仕又去杭州偷Gucci",
+        "onboard_time": 1741849044,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260987,
+        "num": 260987,
+        "word": "孙颖莎小手一指全场瞬间安静",
+        "onboard_time": 1741848563,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229636,
+        "num": 229636,
+        "word": "宝宝急得第一次叫出妈妈",
+        "onboard_time": 1741845803,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224575,
+        "num": 224575,
+        "word": "韩网友批判我的大叔恋童癖",
+        "onboard_time": 1741849884,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216073,
+        "num": 216073,
+        "word": "穆婷婷说不想和乔振宇再合作",
+        "onboard_time": 1741833683,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202052,
+        "num": 202052,
+        "word": "俞敏洪将回赠雷军15袋大米",
+        "onboard_time": 1741842744,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 184255,
+        "num": 184255,
+        "word": "卫枝人设",
+        "onboard_time": 1741847002,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183804,
+        "num": 183804,
+        "word": "麦琳道歉了",
+        "onboard_time": 1741849463,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147560,
+        "num": 176524,
+        "word": "周杰伦南宁演唱会抢票",
+        "onboard_time": 1741845382,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 27561,
+        "num": 171578,
+        "word": "消费者吐槽机票一买完就降价",
+        "onboard_time": 1741849823,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 171068,
+        "num": 171068,
+        "word": "机场广告牌上女士有6根手指",
+        "onboard_time": 1741847901,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166830,
+        "num": 166830,
+        "word": "特朗普称若俄拒签停火协议将搞垮其经济",
+        "onboard_time": 1741850423,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 161613,
+        "num": 161613,
+        "word": "周思成喊话田静",
+        "onboard_time": 1741850363,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 160434,
+        "num": 160434,
+        "word": "泰国坠崖案王暖暖孩子查出先心病",
+        "onboard_time": 1741834224,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156083,
+        "num": 156083,
+        "word": "女子生完双胞胎4个月再怀双胞胎",
+        "onboard_time": 1741833203,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153772,
+        "num": 153772,
+        "word": "封神再临",
+        "onboard_time": 1741844962,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149900,
+        "num": 149900,
+        "word": "原来热暴力比冷暴力有用",
+        "onboard_time": 1741850423,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142064,
+        "num": 142064,
+        "word": "谢娜带仨女儿逛商场",
+        "onboard_time": 1741844903,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 9669,
+        "num": 141891,
+        "word": "夸克AI超级框搞定所有事",
+        "onboard_time": 1741850244,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 139716,
+        "num": 141881,
+        "word": "夸克AI超级框",
+        "onboard_time": 1741850244,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 141878,
+        "num": 141878,
+        "word": "中国印钞造币集团严正声明",
+        "onboard_time": 1741844962,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 109369,
+        "num": 141092,
+        "word": "多地对杨铭宇黄焖鸡加盟店进行检查",
+        "onboard_time": 1741848503,
+        "rank": 41,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 140929,
+        "num": 140929,
+        "word": "雷军送俞敏洪小米15Ultra",
+        "onboard_time": 1741846463,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 137789,
+        "num": 137789,
+        "word": "主播夸大宣传卖手镯拒不退货",
+        "onboard_time": 1741850423,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133062,
+        "num": 133062,
+        "word": "国内不火但非常好玩的小众城市",
+        "onboard_time": 1741842803,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 132016,
+        "num": 132016,
+        "word": "轻断食不是每天少吃",
+        "onboard_time": 1741844962,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 127586,
+        "num": 127586,
+        "word": "台湾地震",
+        "onboard_time": 1741844783,
+        "rank": 46,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 124999,
+        "num": 124999,
+        "word": "糯玉米和甜玉米谁是升糖刺客",
+        "onboard_time": 1741842384,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 120889,
+        "num": 120889,
+        "word": "国王第8集吻戏来了",
+        "onboard_time": 1741845862,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117921,
+        "num": 117921,
+        "word": "白敬亭章若楠明天四手联弹",
+        "onboard_time": 1741845082,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会之问#"
+    }
+  }
+}
