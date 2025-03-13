@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741858768629,
+  "endTime": 1741861552199,
   "band_list": [
     {
       "raw_hot": 21330054,
@@ -217,6 +217,14 @@
       "onboard_time": 1741521621,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2036359,
+      "num": 326492,
+      "word": "金秀贤在剧组挨个道歉",
+      "onboard_time": 1741861343,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2031122,
@@ -459,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1548742,
+      "num": 326433,
+      "word": "乔欣 赖柏霖",
+      "onboard_time": 1741857924,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1544844,
       "num": 1544844,
       "word": "虞书欣 鹿小葵式演技",
@@ -683,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1192810,
+      "num": 326571,
+      "word": "赵露思恋人 不复拍",
+      "onboard_time": 1741860204,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1188381,
       "num": 1095456,
       "word": "偷偷录音是不尊重医生行为",
@@ -897,6 +921,14 @@
       "onboard_time": 1741606764,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1044217,
+      "num": 1167074,
+      "word": "我不想再因为一碗黄焖鸡破防了",
+      "onboard_time": 1741857145,
+      "rank": 8,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 1033332,
@@ -2411,6 +2443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 487016,
+      "num": 487016,
+      "word": "考研名师汤家凤再发声怒斥田静事件",
+      "onboard_time": 1741857924,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 487010,
       "num": 288637,
       "word": "一旦穿过这四种鞋你的人生就定型了",
@@ -3059,6 +3099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 380715,
+      "num": 1206098,
+      "word": "女子花13000买足金手镯是镀金",
+      "onboard_time": 1741855944,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 379473,
       "num": 379473,
       "word": "10岁男童见起火电话摇来119",
@@ -3211,6 +3259,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 359819,
+      "num": 359819,
+      "word": "9块9每升的100%椰子水安全吗",
+      "onboard_time": 1741857624,
+      "rank": 13,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 359620,
       "num": 359620,
       "word": "江苏泰州一公司发生燃爆致4死4伤",
@@ -3265,14 +3321,6 @@
       "onboard_time": 1741576400,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 354974,
-      "num": 1206098,
-      "word": "女子花13000买足金手镯是镀金",
-      "onboard_time": 1741855944,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 354929,
@@ -3515,14 +3563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 334238,
-      "num": 249579,
-      "word": "乔欣 赖柏霖",
-      "onboard_time": 1741857924,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 332844,
       "num": 653001,
       "word": "零跑价格",
@@ -3665,6 +3705,14 @@
       "onboard_time": 1741524381,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 326692,
+      "num": 326692,
+      "word": "呼和浩特发布育儿补贴细则",
+      "onboard_time": 1741857924,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 324923,
@@ -3939,6 +3987,14 @@
       "category": "国际时政,国内时政"
     },
     {
+      "raw_hot": 298186,
+      "num": 298186,
+      "word": "杨幂苹果头像",
+      "onboard_time": 1741860264,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 298092,
       "num": 298092,
       "word": "荡妇羞辱对女性的隐秘围猎",
@@ -4139,12 +4195,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 280168,
-      "num": 1127847,
-      "word": "我不想再因为一碗黄焖鸡破防了",
-      "onboard_time": 1741857145,
-      "rank": 8,
-      "category": "舆论监督"
+      "raw_hot": 280276,
+      "num": 280276,
+      "word": "近视突然好了是什么原理",
+      "onboard_time": 1741860324,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 280058,
@@ -4635,14 +4691,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 248155,
-      "num": 248155,
-      "word": "考研名师汤家凤再发声怒斥田静事件",
-      "onboard_time": 1741857924,
-      "rank": 33,
-      "category": "教育"
-    },
-    {
       "raw_hot": 247718,
       "num": 247718,
       "word": "600元买猫470元托运只收到尸体",
@@ -4744,14 +4792,6 @@
       "word": "建议强制规定女厕与男厕比例",
       "onboard_time": 1741669105,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 240794,
-      "num": 240794,
-      "word": "呼和浩特发布育儿补贴细则",
-      "onboard_time": 1741857924,
-      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -4905,6 +4945,14 @@
       "onboard_time": 1741756584,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 230152,
+      "num": 230152,
+      "word": "JackeyLove回应输给KC",
+      "onboard_time": 1741860382,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 230049,
@@ -5065,6 +5113,14 @@
       "onboard_time": 1741501462,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224164,
+      "num": 224164,
+      "word": "黑暗荣耀编剧金银淑的含金量",
+      "onboard_time": 1741856003,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 223913,
@@ -5403,14 +5459,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 208792,
-      "num": 208792,
-      "word": "黑暗荣耀编剧金银淑的含金量",
-      "onboard_time": 1741856003,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 208783,
       "num": 208783,
       "word": "王曼昱首轮对阵迪亚兹",
@@ -5481,6 +5529,14 @@
       "onboard_time": 1741757606,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 206667,
+      "num": 206667,
+      "word": "复旦教授教育孩子不要随意去第二次现场",
+      "onboard_time": 1741860382,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 206179,
@@ -5561,6 +5617,14 @@
       "onboard_time": 1741529903,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 204076,
+      "num": 326639,
+      "word": "黄焖鸡",
+      "onboard_time": 1741784364,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 203962,
@@ -6611,6 +6675,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 176680,
+      "num": 295503,
+      "word": "哪吒2差半亿就到150亿了",
+      "onboard_time": 1741859725,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 176632,
       "num": 235280,
       "word": "谁懂欧豪北上下跪这一下",
@@ -6908,7 +6980,7 @@
     },
     {
       "raw_hot": 170107,
-      "num": 187513,
+      "num": 326526,
       "word": "女子在翡翠直播间入坑13天下单32次",
       "onboard_time": 1741856543,
       "rank": 42,
@@ -7345,6 +7417,14 @@
       "onboard_time": 1741583002,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162908,
+      "num": 326123,
+      "word": "徐若晗一条一条给粉丝回信",
+      "onboard_time": 1741859964,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 162750,
@@ -8307,6 +8387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143594,
+      "num": 143594,
+      "word": "D社未发布元斌帮金赛纶还钱新闻",
+      "onboard_time": 1741861463,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143544,
       "num": 143544,
       "word": "朝九晚五其实是朝七晚六",
@@ -8377,6 +8465,14 @@
       "onboard_time": 1741671262,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 142272,
+      "num": 142272,
+      "word": "全球九成毛肚都被中国人吃了",
+      "onboard_time": 1741858884,
+      "rank": 42,
+      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 142138,
@@ -8569,6 +8665,14 @@
       "onboard_time": 1741692502,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139038,
+      "num": 139038,
+      "word": "北京JDG对战长沙TES",
+      "onboard_time": 1741861343,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 138852,
@@ -8811,6 +8915,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 134760,
+      "num": 134760,
+      "word": "欧莱雅旗下产品发现致癌物",
+      "onboard_time": 1741860925,
+      "rank": 44,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 134556,
       "num": 134556,
       "word": "负责人称小米卫生巾真的做不了",
@@ -9011,14 +9123,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 130682,
-      "num": 262471,
-      "word": "9块9每升的100%椰子水安全吗",
-      "onboard_time": 1741857624,
-      "rank": 13,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 130636,
       "num": 296189,
       "word": "颜宁否认在山东大学任职",
@@ -9059,20 +9163,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129745,
-      "num": 129745,
-      "word": "黄焖鸡",
-      "onboard_time": 1741784364,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 129737,
       "num": 129737,
       "word": "细谷佳正结婚",
       "onboard_time": 1741574839,
       "rank": 39,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 129651,
+      "num": 326081,
+      "word": "羽衣甘蓝饮品真的能减肥吗",
+      "onboard_time": 1741860502,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 129587,
@@ -9137,6 +9241,14 @@
       "onboard_time": 1741618644,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 128002,
+      "num": 246122,
+      "word": "一家三口烧炭煮火锅一氧化碳中毒",
+      "onboard_time": 1741858522,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127935,
@@ -11211,6 +11323,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 99184,
+      "num": 288492,
+      "word": "男子手机游戏恐吓妻子被认定家暴",
+      "onboard_time": 1741859784,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99013,
       "num": 99013,
       "word": "孟子义酷飒老公姐",
@@ -12107,12 +12227,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 81549,
+      "num": 125514,
+      "word": "难哄收官",
+      "onboard_time": 1741859964,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 81408,
       "num": 81408,
       "word": "刘亦菲 华为",
       "onboard_time": 1741422921,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 81080,
+      "num": 143866,
+      "word": "姚琛cha了权志龙新歌",
+      "onboard_time": 1741859725,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 80792,
@@ -12323,6 +12459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75577,
+      "num": 300214,
+      "word": "不良人PV信息量好大",
+      "onboard_time": 1741861164,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 75158,
       "num": 259135,
       "word": "当地回应老头乐和火车发生碰撞",
@@ -12353,6 +12497,14 @@
       "onboard_time": 1741826364,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74734,
+      "num": 326300,
+      "word": "博主吃出胃炎被怼娇弱就不要探店",
+      "onboard_time": 1741860445,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74653,
@@ -12449,14 +12601,6 @@
       "onboard_time": 1741770624,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 72178,
-      "num": 246122,
-      "word": "一家三口烧炭煮火锅一氧化碳中毒",
-      "onboard_time": 1741858522,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 72101,
@@ -13267,6 +13411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49139,
+      "num": 283890,
+      "word": "被Tiffany成都活动闪到",
+      "onboard_time": 1741860144,
+      "rank": 29,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 48710,
       "num": 48710,
       "word": "何苏叶穿着奶牛拖鞋一路把人亲进卧室",
@@ -13475,6 +13627,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 42247,
+      "num": 1437044,
+      "word": "外资投资中国信心持续增强",
+      "onboard_time": 1741854324,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41934,
       "num": 73205,
       "word": "留几手回应大龄矫正牙齿",
@@ -13651,6 +13811,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 39493,
+      "num": 226485,
+      "word": "考研复试前注意事项",
+      "onboard_time": 1741861463,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 39357,
       "num": 166343,
       "word": "郑钦文说膝盖只是皮外伤",
@@ -13729,14 +13897,6 @@
       "onboard_time": 1741526122,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 37803,
-      "num": 1437044,
-      "word": "外资投资中国信心持续增强",
-      "onboard_time": 1741854324,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37455,
@@ -14953,6 +15113,14 @@
       "onboard_time": 1741723334,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 14159,
+      "num": 219223,
+      "word": "9块9就能克隆雷军声音带货",
+      "onboard_time": 1741861527,
+      "rank": 34,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 14069,
