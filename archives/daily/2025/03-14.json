@@ -1,6 +1,6 @@
 {
   "startTime": 1741883456293,
-  "endTime": 1741887563548,
+  "endTime": 1741890750449,
   "band_list": [
     {
       "raw_hot": 2022510,
@@ -299,20 +299,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 82724,
+      "num": 158742,
+      "word": "7万多网购到瑕疵手镯获3倍赔偿",
+      "onboard_time": 1741885399,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81040,
       "num": 111644,
       "word": "哪吒2烂番茄开分",
       "onboard_time": 1741867225,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 79720,
-      "num": 158742,
-      "word": "7万多网购到瑕疵手镯获3倍赔偿",
-      "onboard_time": 1741885399,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 79483,
@@ -459,6 +459,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 34907,
+      "num": 51595,
+      "word": "专家称4.5天工作制不能一刀切",
+      "onboard_time": 1741887436,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34593,
       "num": 136284,
       "word": "贾明儒绝杀",
@@ -483,19 +491,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 18051,
+      "num": 24310,
+      "word": "哪吒2票房",
+      "onboard_time": 1741874725,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 16772,
+      "num": 24308,
+      "word": "麦琳说节目播出后很长时间害怕出门",
+      "onboard_time": 1741890555,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 15319,
       "num": 271620,
       "word": "以旧换新扩围引领消费热潮",
       "onboard_time": 1741871603,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14864,
-      "num": 51595,
-      "word": "专家称4.5天工作制不能一刀切",
-      "onboard_time": 1741887436,
-      "rank": 40,
       "category": "民生新闻"
     }
   ],
