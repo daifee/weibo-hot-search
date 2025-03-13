@@ -1,0 +1,410 @@
+{
+  "runTime": 1741837734582,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3504662,
+        "num": 3504662,
+        "word": "金秀贤回应交往金赛纶是谣言",
+        "onboard_time": 1741835121,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1161531,
+        "num": 1161531,
+        "word": "女歌手全国巡回演唱会后被抓",
+        "onboard_time": 1741831643,
+        "rank": 1,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 17467,
+        "num": 1156646,
+        "word": "2025政府工作报告全文",
+        "onboard_time": 1741776686,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1295564,
+        "num": 1154973,
+        "word": "瑶一瑶小肉包已停更一个月",
+        "onboard_time": 1741834942,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1151824,
+        "num": 1151824,
+        "word": "校长说8年制大学让学生不用内卷",
+        "onboard_time": 1741833323,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1017209,
+        "num": 1017209,
+        "word": "泰国坠崖案王暖暖孩子查出先心病",
+        "onboard_time": 1741834224,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 969744,
+        "num": 969744,
+        "word": "穆婷婷说乔振宇专业上差劲",
+        "onboard_time": 1741830803,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 921648,
+        "num": 921648,
+        "word": "王大陆入伍",
+        "onboard_time": 1741830023,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 509836,
+        "num": 509836,
+        "word": "外卖员从来不碰的外卖有哪些",
+        "onboard_time": 1741823542,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388487,
+        "num": 388487,
+        "word": "居家养老难题怎么破",
+        "onboard_time": 1741836203,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1834563,
+        "num": 388460,
+        "word": "金赛纶下跪才协商到7亿",
+        "onboard_time": 1741830744,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 855488,
+        "num": 387800,
+        "word": "穆婷婷说不想和乔振宇再合作",
+        "onboard_time": 1741833683,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76357,
+        "num": 387171,
+        "word": "藏乌梨价格远超普通梨30倍",
+        "onboard_time": 1741836203,
+        "rank": 12,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 36231,
+        "num": 386916,
+        "word": "预估补漏一两千注胶后被收六千",
+        "onboard_time": 1741837223,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 299381,
+        "num": 386420,
+        "word": "山姆回应多批次牛奶疑似变质",
+        "onboard_time": 1741836383,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 481045,
+        "num": 386022,
+        "word": "徐睿知发文",
+        "onboard_time": 1741822099,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385634,
+        "num": 385634,
+        "word": "曝金秀贤经纪人强奸了6名女性",
+        "onboard_time": 1741827024,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372087,
+        "num": 372087,
+        "word": "抖音封禁一批炒作炫富账号",
+        "onboard_time": 1741826364,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 315375,
+        "num": 315375,
+        "word": "男子陷入桃色剧本杀泄露国家秘密",
+        "onboard_time": 1741822761,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31644,
+        "num": 312776,
+        "word": "虚拟商品维权为啥这么难",
+        "onboard_time": 1741837163,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 457894,
+        "num": 312747,
+        "word": "女子生完双胞胎4个月再怀双胞胎",
+        "onboard_time": 1741833203,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329252,
+        "num": 312583,
+        "word": "黄晓明在线辟谣输了十个亿",
+        "onboard_time": 1741825164,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311343,
+        "num": 311343,
+        "word": "小米SU7Ultra车标中炼出黄金",
+        "onboard_time": 1741826364,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 289289,
+        "num": 289289,
+        "word": "业主不满物业换6100个硬币缴费",
+        "onboard_time": 1741830083,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71874,
+        "num": 272435,
+        "word": "秦彻偏色",
+        "onboard_time": 1741837404,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 270925,
+        "num": 270925,
+        "word": "42岁黄圣依状态",
+        "onboard_time": 1741835724,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246101,
+        "num": 246101,
+        "word": "玉茗茶骨",
+        "onboard_time": 1741833683,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174296,
+        "num": 213328,
+        "word": "杨幂头像库更新",
+        "onboard_time": 1741835602,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209957,
+        "num": 209957,
+        "word": "重庆一男子女厕偷拍逃跑时坠楼",
+        "onboard_time": 1741837522,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26960,
+        "num": 187113,
+        "word": "愿韩流不再以流血为代价",
+        "onboard_time": 1741837343,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185611,
+        "num": 185611,
+        "word": "带偏瘫妻子跑车4年司机交新女友",
+        "onboard_time": 1741791566,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183411,
+        "num": 183411,
+        "word": "秦始皇陵甬道有日本人植树纪念碑",
+        "onboard_time": 1741827803,
+        "rank": 31,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 174692,
+        "num": 174692,
+        "word": "马龙拥抱了马龙",
+        "onboard_time": 1741837522,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173304,
+        "num": 173304,
+        "word": "朝海底捞锅底小便男子赔偿或达百万",
+        "onboard_time": 1741788146,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33854,
+        "num": 168231,
+        "word": "何小鹏称业内G6同等配置的车都超20万",
+        "onboard_time": 1741834883,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 167367,
+        "num": 167367,
+        "word": "网友吐槽一口价金饰克重被隐藏",
+        "onboard_time": 1741832183,
+        "rank": 35,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 159232,
+        "num": 162429,
+        "word": "丁禹兮深夜allblack上班",
+        "onboard_time": 1741836984,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162021,
+        "num": 162021,
+        "word": "迪丽热巴挥手安慰粉丝不要哭",
+        "onboard_time": 1741830744,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161023,
+        "num": 161023,
+        "word": "141万买二手房原房主拒绝搬家",
+        "onboard_time": 1741837343,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151520,
+        "num": 151520,
+        "word": "巴基斯坦一列车遭劫21名人质被杀",
+        "onboard_time": 1741834763,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 146238,
+        "num": 146238,
+        "word": "光遇",
+        "onboard_time": 1741835423,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145823,
+        "num": 145823,
+        "word": "乌方不会承认任何被占领土属于俄罗斯",
+        "onboard_time": 1741837223,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133381,
+        "num": 133381,
+        "word": "燃罪开播",
+        "onboard_time": 1741836143,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131509,
+        "num": 131509,
+        "word": "马斯克宣布向特朗普团队再捐1亿美元",
+        "onboard_time": 1741830083,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123539,
+        "num": 123539,
+        "word": "19岁女生学校宿舍不幸猝死",
+        "onboard_time": 1741827803,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122631,
+        "num": 122631,
+        "word": "韩国举办15岁以下女团选秀",
+        "onboard_time": 1741837646,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122373,
+        "num": 122373,
+        "word": "特朗普衰退",
+        "onboard_time": 1741790065,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121619,
+        "num": 121619,
+        "word": "顾茜茜抖音账号被永久封禁",
+        "onboard_time": 1741780343,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 116741,
+        "num": 116741,
+        "word": "90后女生辞职做非遗捧红妈妈",
+        "onboard_time": 1741834822,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86742,
+        "num": 116317,
+        "word": "为啥量产车也要频繁刷赛道",
+        "onboard_time": 1741837585,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记出席2025年全国两会纪实#"
+    }
+  }
+}

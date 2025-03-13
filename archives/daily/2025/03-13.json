@@ -1,10 +1,10 @@
 {
   "startTime": 1741797038602,
-  "endTime": 1741836988945,
+  "endTime": 1741837734582,
   "band_list": [
     {
-      "raw_hot": 3493972,
-      "num": 3493972,
+      "raw_hot": 3504662,
+      "num": 3504662,
       "word": "金秀贤回应交往金赛纶是谣言",
       "onboard_time": 1741835121,
       "rank": 0,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1607546,
-      "num": 706016,
+      "num": 921648,
       "word": "王大陆入伍",
       "onboard_time": 1741830023,
       "rank": 8,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1490710,
-      "num": 783578,
+      "num": 969744,
       "word": "穆婷婷说乔振宇专业上差劲",
       "onboard_time": 1741830803,
       "rank": 8,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1340426,
-      "num": 836931,
+      "num": 1154973,
       "word": "瑶一瑶小肉包已停更一个月",
       "onboard_time": 1741834942,
       "rank": 27,
@@ -67,12 +67,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1161531,
+      "num": 1161531,
+      "word": "女歌手全国巡回演唱会后被抓",
+      "onboard_time": 1741831643,
+      "rank": 40,
+      "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 1151824,
+      "num": 1151824,
+      "word": "校长说8年制大学让学生不用内卷",
+      "onboard_time": 1741833323,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1107377,
       "num": 479440,
       "word": "徐睿知发文",
       "onboard_time": 1741822099,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1017209,
+      "num": 1017209,
+      "word": "泰国坠崖案王暖暖孩子查出先心病",
+      "onboard_time": 1741834224,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1007635,
@@ -91,20 +115,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 911024,
-      "num": 911024,
-      "word": "校长说8年制大学让学生不用内卷",
-      "onboard_time": 1741833323,
-      "rank": 7,
-      "category": "教育"
-    },
-    {
       "raw_hot": 870925,
       "num": 912282,
       "word": "顾茜茜抖音账号被永久封禁",
       "onboard_time": 1741780343,
       "rank": 0,
       "category": "网红"
+    },
+    {
+      "raw_hot": 855488,
+      "num": 447225,
+      "word": "穆婷婷说不想和乔振宇再合作",
+      "onboard_time": 1741833683,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 848999,
@@ -115,36 +139,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 817450,
-      "num": 817450,
-      "word": "泰国坠崖案王暖暖孩子查出先心病",
-      "onboard_time": 1741834224,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 805262,
-      "num": 805262,
-      "word": "女歌手全国巡回演唱会后被抓",
-      "onboard_time": 1741831643,
-      "rank": 40,
-      "category": "民生新闻,艺人"
-    },
-    {
       "raw_hot": 745160,
       "num": 745160,
       "word": "抖音封禁一批炒作炫富账号",
       "onboard_time": 1741826364,
       "rank": 3,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 737002,
-      "num": 447225,
-      "word": "穆婷婷说不想和乔振宇再合作",
-      "onboard_time": 1741833683,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 697708,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 537629,
-      "num": 257678,
+      "num": 312747,
       "word": "女子生完双胞胎4个月再怀双胞胎",
       "onboard_time": 1741833203,
       "rank": 20,
@@ -233,6 +233,14 @@
       "onboard_time": 1741831883,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 388487,
+      "num": 476929,
+      "word": "居家养老难题怎么破",
+      "onboard_time": 1741836203,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 369363,
@@ -291,6 +299,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 299381,
+      "num": 386420,
+      "word": "山姆回应多批次牛奶疑似变质",
+      "onboard_time": 1741836383,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 298550,
       "num": 298550,
       "word": "网友吐槽一口价金饰克重被隐藏",
@@ -321,6 +337,14 @@
       "onboard_time": 1741778604,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 270925,
+      "num": 270925,
+      "word": "42岁黄圣依状态",
+      "onboard_time": 1741835724,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 269526,
@@ -355,14 +379,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 228162,
-      "num": 476929,
-      "word": "居家养老难题怎么破",
-      "onboard_time": 1741836203,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 220008,
       "num": 220008,
       "word": "猎金游戏定档",
@@ -395,12 +411,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 210708,
-      "num": 210708,
-      "word": "42岁黄圣依状态",
-      "onboard_time": 1741835724,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 209957,
+      "num": 209957,
+      "word": "重庆一男子女厕偷拍逃跑时坠楼",
+      "onboard_time": 1741837522,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 209342,
@@ -440,14 +456,6 @@
       "word": "消费卡挂闲鱼发完密码买家退款",
       "onboard_time": 1741821378,
       "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 188291,
-      "num": 188291,
-      "word": "山姆回应多批次牛奶疑似变质",
-      "onboard_time": 1741836383,
-      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -507,20 +515,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174692,
+      "num": 174692,
+      "word": "马龙拥抱了马龙",
+      "onboard_time": 1741837522,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 174296,
+      "num": 213328,
+      "word": "杨幂头像库更新",
+      "onboard_time": 1741835602,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173555,
       "num": 173555,
       "word": "光遇",
       "onboard_time": 1741835423,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 171879,
-      "num": 182692,
-      "word": "杨幂头像库更新",
-      "onboard_time": 1741835602,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 171423,
@@ -571,12 +587,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161023,
+      "num": 161023,
+      "word": "141万买二手房原房主拒绝搬家",
+      "onboard_time": 1741837343,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159232,
+      "num": 162429,
+      "word": "丁禹兮深夜allblack上班",
+      "onboard_time": 1741836984,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149133,
       "num": 149133,
       "word": "网红老师廖叔突发心源性心脏病去世",
       "onboard_time": 1741819817,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145823,
+      "num": 145823,
+      "word": "乌方不会承认任何被占领土属于俄罗斯",
+      "onboard_time": 1741837223,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 144889,
@@ -689,6 +729,14 @@
       "onboard_time": 1741827323,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 122631,
+      "num": 122631,
+      "word": "韩国举办15岁以下女团选秀",
+      "onboard_time": 1741837646,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 120417,
@@ -827,8 +875,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86742,
+      "num": 116317,
+      "word": "为啥量产车也要频繁刷赛道",
+      "onboard_time": 1741837585,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 86731,
-      "num": 130945,
+      "num": 168231,
       "word": "何小鹏称业内G6同等配置的车都超20万",
       "onboard_time": 1741834883,
       "rank": 37,
@@ -931,6 +987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76357,
+      "num": 387171,
+      "word": "藏乌梨价格远超普通梨30倍",
+      "onboard_time": 1741836203,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 74745,
       "num": 153556,
       "word": "欧冠八强对阵正式出炉",
@@ -945,6 +1009,14 @@
       "onboard_time": 1741831823,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 71874,
+      "num": 272435,
+      "word": "秦彻偏色",
+      "onboard_time": 1741837404,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 68338,
@@ -1068,7 +1140,7 @@
     },
     {
       "raw_hot": 39794,
-      "num": 853608,
+      "num": 1156646,
       "word": "2025政府工作报告全文",
       "onboard_time": 1741776686,
       "rank": 2,
@@ -1083,6 +1155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 36231,
+      "num": 386916,
+      "word": "预估补漏一两千注胶后被收六千",
+      "onboard_time": 1741837223,
+      "rank": 13,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 35886,
       "num": 38749,
       "word": "罗云熙申请加入这场光影游戏",
@@ -1091,11 +1171,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 34277,
-      "num": 379378,
-      "word": "藏乌梨价格远超普通梨30倍",
-      "onboard_time": 1741836203,
-      "rank": 14,
+      "raw_hot": 31644,
+      "num": 312776,
+      "word": "虚拟商品维权为啥这么难",
+      "onboard_time": 1741837163,
+      "rank": 19,
       "category": "舆论监督"
     },
     {
@@ -1113,6 +1193,14 @@
       "onboard_time": 1741805775,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 26960,
+      "num": 187113,
+      "word": "愿韩流不再以流血为代价",
+      "onboard_time": 1741837343,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 24143,
