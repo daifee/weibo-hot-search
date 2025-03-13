@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741847576958,
+  "endTime": 1741848363954,
   "band_list": [
     {
       "raw_hot": 21330054,
@@ -120,6 +120,14 @@
       "word": "周杰伦方回应",
       "onboard_time": 1741683802,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2346902,
+      "num": 307647,
+      "word": "元斌与金赛纶的最后通话记录",
+      "onboard_time": 1741847421,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -625,6 +633,14 @@
       "onboard_time": 1741575921,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1199305,
+      "num": 1122544,
+      "word": "王大陆剃寸头了",
+      "onboard_time": 1741846463,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1188381,
@@ -1315,14 +1331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 765900,
-      "num": 1122544,
-      "word": "王大陆剃寸头了",
-      "onboard_time": 1741846463,
-      "rank": 0,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 765513,
       "num": 924999,
       "word": "乌克兰同意停火30天",
@@ -1385,14 +1393,6 @@
       "onboard_time": 1741570760,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 752330,
-      "num": 307647,
-      "word": "元斌与金赛纶的最后通话记录",
-      "onboard_time": 1741847421,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 747450,
@@ -2635,6 +2635,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 416629,
+      "num": 416629,
+      "word": "公司回应广告牌上女士有6根手指",
+      "onboard_time": 1741844483,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 415997,
       "num": 268510,
       "word": "麦琳说再见爱人后容貌焦虑达到峰值",
@@ -2929,14 +2937,6 @@
       "onboard_time": 1741659982,
       "rank": 8,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 378848,
-      "num": 378848,
-      "word": "公司回应广告牌上女士有6根手指",
-      "onboard_time": 1741844483,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 378568,
@@ -3411,6 +3411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 331237,
+      "num": 331237,
+      "word": "俞敏洪将回赠雷军15袋大米",
+      "onboard_time": 1741842744,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 331169,
       "num": 315779,
       "word": "袁咏仪能不化妆就不化妆",
@@ -3441,14 +3449,6 @@
       "onboard_time": 1741526662,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 329537,
-      "num": 329537,
-      "word": "俞敏洪将回赠雷军15袋大米",
-      "onboard_time": 1741842744,
-      "rank": 33,
-      "category": "互联网"
     },
     {
       "raw_hot": 328676,
@@ -4491,6 +4491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242376,
+      "num": 233293,
+      "word": "雷军送俞敏洪小米15Ultra",
+      "onboard_time": 1741846463,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 242219,
       "num": 242219,
       "word": "徐克回应被禁赛十年",
@@ -4544,6 +4552,14 @@
       "word": "男神成了我的男主角",
       "onboard_time": 1741500262,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 239034,
+      "num": 239034,
+      "word": "国王剧情 平淡",
+      "onboard_time": 1741847363,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -4617,14 +4633,6 @@
       "onboard_time": 1741619423,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 233293,
-      "num": 233293,
-      "word": "雷军送俞敏洪小米15Ultra",
-      "onboard_time": 1741846463,
-      "rank": 27,
-      "category": "汽车"
     },
     {
       "raw_hot": 231908,
@@ -5219,6 +5227,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 206976,
+      "num": 203565,
+      "word": "烤匠 排队",
+      "onboard_time": 1741847664,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 206959,
       "num": 206959,
       "word": "宁艺卓短发拍摄MV",
@@ -5393,6 +5409,14 @@
       "onboard_time": 1741774222,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 200761,
+      "num": 200761,
+      "word": "宝宝急得第一次叫出妈妈",
+      "onboard_time": 1741845803,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200696,
@@ -5891,6 +5915,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 187661,
+      "num": 205827,
+      "word": "卫枝人设",
+      "onboard_time": 1741847002,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187650,
       "num": 177362,
       "word": "别再用加班衡量员工敬业度",
@@ -6243,14 +6275,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 177469,
-      "num": 177469,
-      "word": "宝宝急得第一次叫出妈妈",
-      "onboard_time": 1741845803,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 177340,
       "num": 217283,
       "word": "爱你终于演到合欢这集",
@@ -6275,6 +6299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 176632,
+      "num": 235280,
+      "word": "谁懂欧豪北上下跪这一下",
+      "onboard_time": 1741847002,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176626,
       "num": 184255,
       "word": "教练徐克称进出房间全程不到1分钟",
@@ -6289,14 +6321,6 @@
       "onboard_time": 1741838246,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 176258,
-      "num": 235280,
-      "word": "谁懂欧豪北上下跪这一下",
-      "onboard_time": 1741847002,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 176215,
@@ -6609,6 +6633,14 @@
       "onboard_time": 1741695862,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169078,
+      "num": 206586,
+      "word": "封神再临",
+      "onboard_time": 1741844962,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 168814,
@@ -7211,14 +7243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158204,
-      "num": 158204,
-      "word": "封神再临",
-      "onboard_time": 1741844962,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 157871,
       "num": 157871,
       "word": "危地马拉一火山大规模喷发",
@@ -7240,14 +7264,6 @@
       "word": "北上花街小院茶话会",
       "onboard_time": 1741688007,
       "rank": 18,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 157296,
-      "num": 157296,
-      "word": "卫枝人设",
-      "onboard_time": 1741847002,
-      "rank": 38,
       "category": "剧集"
     },
     {
@@ -7587,6 +7603,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 151307,
+      "num": 291578,
+      "word": "火爆全网的干噎酸奶是科技狠活吗",
+      "onboard_time": 1741847183,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151200,
       "num": 185705,
       "word": "乒协发布8条文明观赛倡议",
@@ -7809,6 +7833,14 @@
       "onboard_time": 1741575321,
       "rank": 18,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 144990,
+      "num": 144990,
+      "word": "轻断食不是每天少吃",
+      "onboard_time": 1741844962,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 144889,
@@ -8379,14 +8411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 134956,
-      "num": 134956,
-      "word": "国王剧情 平淡",
-      "onboard_time": 1741847363,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 134948,
       "num": 134948,
       "word": "美国正陷入人为制造的衰退",
@@ -8416,6 +8440,14 @@
       "word": "贝林厄姆怒吼威尼修斯",
       "onboard_time": 1741840106,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 134228,
+      "num": 134228,
+      "word": "申裕斌吃到黄牌",
+      "onboard_time": 1741847901,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -8609,6 +8641,14 @@
       "onboard_time": 1741571720,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 129957,
+      "num": 246723,
+      "word": "机场广告牌上女士有6根手指",
+      "onboard_time": 1741847901,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129813,
@@ -8873,14 +8913,6 @@
       "onboard_time": 1741785804,
       "rank": 40,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 125552,
-      "num": 125552,
-      "word": "轻断食不是每天少吃",
-      "onboard_time": 1741844962,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 125487,
@@ -10099,6 +10131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109125,
+      "num": 109125,
+      "word": "白敬亭章若楠明天四手联弹",
+      "onboard_time": 1741845082,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109114,
       "num": 244484,
       "word": "宁芙奖请投佣兵",
@@ -10275,6 +10315,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 106390,
+      "num": 106390,
+      "word": "悬浮现偶",
+      "onboard_time": 1741848261,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106291,
       "num": 106291,
       "word": "清华公布2025年考研复试线",
@@ -10369,6 +10417,14 @@
       "onboard_time": 1741784723,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104855,
+      "num": 203950,
+      "word": "王楚然龙族女王look",
+      "onboard_time": 1741847242,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 104834,
@@ -11467,14 +11523,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 84389,
-      "num": 127323,
-      "word": "王楚然龙族女王look",
-      "onboard_time": 1741847242,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 84132,
       "num": 84132,
       "word": "瀚墨晒联名",
@@ -12003,6 +12051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69451,
+      "num": 118694,
+      "word": "麦琳 自证是太难的一件事情",
+      "onboard_time": 1741848083,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 69311,
       "num": 69311,
       "word": "利物浦vs巴黎圣日耳曼",
@@ -12028,7 +12084,7 @@
     },
     {
       "raw_hot": 67773,
-      "num": 223004,
+      "num": 240708,
       "word": "广州越秀老干部局撤下招聘公告",
       "onboard_time": 1741847421,
       "rank": 28,
@@ -12201,6 +12257,14 @@
       "onboard_time": 1741695323,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 60951,
+      "num": 307483,
+      "word": "她让体育解说不再只是男声",
+      "onboard_time": 1741845684,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 60674,
@@ -12433,14 +12497,6 @@
       "onboard_time": 1741760845,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 55413,
-      "num": 307483,
-      "word": "她让体育解说不再只是男声",
-      "onboard_time": 1741845684,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 54641,
@@ -13185,14 +13241,6 @@
       "onboard_time": 1741675222,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 35388,
-      "num": 291578,
-      "word": "火爆全网的干噎酸奶是科技狠活吗",
-      "onboard_time": 1741847183,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 35360,
@@ -14540,6 +14588,9 @@
     },
     {
       "word": "#新时代的华彩乐章#"
+    },
+    {
+      "word": "#跟着总书记足迹瞰林海#"
     }
   ]
 }

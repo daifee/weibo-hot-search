@@ -1,0 +1,410 @@
+{
+  "runTime": 1741848363954,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 521086,
+        "num": 1083373,
+        "word": "马龙拥抱了马龙",
+        "onboard_time": 1741837522,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 454459,
+        "num": 454459,
+        "word": "韩国举办15岁以下女团选秀",
+        "onboard_time": 1741837646,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66440,
+        "num": 430073,
+        "word": "看好中国做多中国已成为国际共识",
+        "onboard_time": 1741841725,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 427060,
+        "num": 427060,
+        "word": "瑶一瑶小肉包已停更一个月",
+        "onboard_time": 1741834942,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 416629,
+        "num": 416629,
+        "word": "公司回应广告牌上女士有6根手指",
+        "onboard_time": 1741844483,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370926,
+        "num": 370926,
+        "word": "广州一老干局招聘要求年龄50岁以上",
+        "onboard_time": 1741844602,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331237,
+        "num": 331237,
+        "word": "俞敏洪将回赠雷军15袋大米",
+        "onboard_time": 1741842744,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 327125,
+        "num": 327125,
+        "word": "校长说8年制大学让学生不用内卷",
+        "onboard_time": 1741833323,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 307723,
+        "num": 307723,
+        "word": "泰国坠崖案王暖暖孩子查出先心病",
+        "onboard_time": 1741834224,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249261,
+        "num": 249261,
+        "word": "汪苏泷鸟巢伴手礼",
+        "onboard_time": 1741844783,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 2346902,
+        "num": 248529,
+        "word": "元斌与金赛纶的最后通话记录",
+        "onboard_time": 1741847421,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 817854,
+        "num": 247619,
+        "word": "麦琳道歉",
+        "onboard_time": 1741839324,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129957,
+        "num": 246723,
+        "word": "机场广告牌上女士有6根手指",
+        "onboard_time": 1741847901,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 766548,
+        "num": 245920,
+        "word": "金秀贤最喜欢老男孩结局",
+        "onboard_time": 1741844663,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60951,
+        "num": 245352,
+        "word": "她让体育解说不再只是男声",
+        "onboard_time": 1741845684,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 648784,
+        "num": 244275,
+        "word": "金赛纶下跪才协商到7亿",
+        "onboard_time": 1741830744,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 558461,
+        "num": 243628,
+        "word": "穆婷婷 我讨厌不尊重对手且膨胀的人",
+        "onboard_time": 1741840226,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1199305,
+        "num": 242369,
+        "word": "王大陆剃寸头了",
+        "onboard_time": 1741846463,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151307,
+        "num": 241005,
+        "word": "火爆全网的干噎酸奶是科技狠活吗",
+        "onboard_time": 1741847183,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65475,
+        "num": 240708,
+        "word": "广州越秀老干部局撤下招聘公告",
+        "onboard_time": 1741847421,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 406480,
+        "num": 239470,
+        "word": "谢娜带仨女儿逛商场",
+        "onboard_time": 1741844903,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239034,
+        "num": 239034,
+        "word": "国王剧情 平淡",
+        "onboard_time": 1741847363,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321396,
+        "num": 230287,
+        "word": "重庆一男子女厕偷拍逃跑时坠楼",
+        "onboard_time": 1741837522,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206679,
+        "num": 206679,
+        "word": "国王第8集吻戏来了",
+        "onboard_time": 1741845862,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169078,
+        "num": 206586,
+        "word": "封神再临",
+        "onboard_time": 1741844962,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191227,
+        "num": 206153,
+        "word": "周杰伦南宁演唱会抢票",
+        "onboard_time": 1741845382,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187661,
+        "num": 205827,
+        "word": "卫枝人设",
+        "onboard_time": 1741847002,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176632,
+        "num": 205445,
+        "word": "谁懂欧豪北上下跪这一下",
+        "onboard_time": 1741847002,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310836,
+        "num": 205207,
+        "word": "穆婷婷说不想和乔振宇再合作",
+        "onboard_time": 1741833683,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12256,
+        "num": 204800,
+        "word": "平原上的火焰导演怕成果配不上演员发挥",
+        "onboard_time": 1741846703,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 273124,
+        "num": 204541,
+        "word": "国内不火但非常好玩的小众城市",
+        "onboard_time": 1741842803,
+        "rank": 30,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 242376,
+        "num": 204186,
+        "word": "雷军送俞敏洪小米15Ultra",
+        "onboard_time": 1741846463,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 104855,
+        "num": 203950,
+        "word": "王楚然龙族女王look",
+        "onboard_time": 1741847242,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206976,
+        "num": 203565,
+        "word": "烤匠 排队",
+        "onboard_time": 1741847664,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 203325,
+        "num": 203325,
+        "word": "女子生完双胞胎4个月再怀双胞胎",
+        "onboard_time": 1741833203,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200761,
+        "num": 200761,
+        "word": "宝宝急得第一次叫出妈妈",
+        "onboard_time": 1741845803,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200636,
+        "num": 200636,
+        "word": "中国印钞造币集团严正声明",
+        "onboard_time": 1741844962,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 190934,
+        "num": 190934,
+        "word": "141万买二手房原房主拒绝搬家",
+        "onboard_time": 1741837343,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159366,
+        "num": 159366,
+        "word": "糯玉米和甜玉米谁是升糖刺客",
+        "onboard_time": 1741842384,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 154824,
+        "num": 154824,
+        "word": "王俊凯安排自己座驾送长辈",
+        "onboard_time": 1741840106,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151410,
+        "num": 151410,
+        "word": "白敬亭章若楠合影",
+        "onboard_time": 1741841546,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144990,
+        "num": 144990,
+        "word": "轻断食不是每天少吃",
+        "onboard_time": 1741844962,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 140109,
+        "num": 140109,
+        "word": "玉茗茶骨阵容官宣",
+        "onboard_time": 1741842684,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134228,
+        "num": 134228,
+        "word": "申裕斌吃到黄牌",
+        "onboard_time": 1741847901,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69451,
+        "num": 118694,
+        "word": "麦琳 自证是太难的一件事情",
+        "onboard_time": 1741848083,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118154,
+        "num": 118154,
+        "word": "徐睿知发文",
+        "onboard_time": 1741822099,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112710,
+        "num": 112710,
+        "word": "台湾地震",
+        "onboard_time": 1741844783,
+        "rank": 46,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 109125,
+        "num": 109125,
+        "word": "白敬亭章若楠明天四手联弹",
+        "onboard_time": 1741845082,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106390,
+        "num": 106390,
+        "word": "悬浮现偶",
+        "onboard_time": 1741848261,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95635,
+        "num": 95635,
+        "word": "杨幂苹果自拍",
+        "onboard_time": 1741841065,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记足迹瞰林海#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1741797038602,
-  "endTime": 1741847576958,
+  "endTime": 1741848363954,
   "band_list": [
     {
       "raw_hot": 3504662,
@@ -24,6 +24,14 @@
       "word": "金赛纶下跪才协商到7亿",
       "onboard_time": 1741830744,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2346902,
+      "num": 307647,
+      "word": "元斌与金赛纶的最后通话记录",
+      "onboard_time": 1741847421,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -97,6 +105,14 @@
       "onboard_time": 1741790065,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1199305,
+      "num": 1122544,
+      "word": "王大陆剃寸头了",
+      "onboard_time": 1741846463,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1161531,
@@ -193,22 +209,6 @@
       "onboard_time": 1741823542,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 765900,
-      "num": 1122544,
-      "word": "王大陆剃寸头了",
-      "onboard_time": 1741846463,
-      "rank": 0,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 752330,
-      "num": 307647,
-      "word": "元斌与金赛纶的最后通话记录",
-      "onboard_time": 1741847421,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 745160,
@@ -339,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 416629,
+      "num": 416629,
+      "word": "公司回应广告牌上女士有6根手指",
+      "onboard_time": 1741844483,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 409445,
       "num": 409445,
       "word": "金赛纶打5份工还债还被霸凌",
@@ -363,14 +371,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 378848,
-      "num": 378848,
-      "word": "公司回应广告牌上女士有6根手指",
-      "onboard_time": 1741844483,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 369363,
       "num": 369363,
       "word": "业主不满物业换6100个硬币缴费",
@@ -387,8 +387,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 329537,
-      "num": 329537,
+      "raw_hot": 331237,
+      "num": 331237,
       "word": "俞敏洪将回赠雷军15袋大米",
       "onboard_time": 1741842744,
       "rank": 33,
@@ -531,12 +531,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 233293,
+      "raw_hot": 242376,
       "num": 233293,
       "word": "雷军送俞敏洪小米15Ultra",
       "onboard_time": 1741846463,
       "rank": 27,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 239034,
+      "num": 239034,
+      "word": "国王剧情 平淡",
+      "onboard_time": 1741847363,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 231425,
@@ -627,6 +635,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 206976,
+      "num": 203565,
+      "word": "烤匠 排队",
+      "onboard_time": 1741847664,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 205880,
       "num": 205880,
       "word": "省考前的最后两天还能做什么",
@@ -641,6 +657,14 @@
       "onboard_time": 1741845382,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 200761,
+      "num": 200761,
+      "word": "宝宝急得第一次叫出妈妈",
+      "onboard_time": 1741845803,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200437,
@@ -697,6 +721,14 @@
       "onboard_time": 1741842624,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 187661,
+      "num": 205827,
+      "word": "卫枝人设",
+      "onboard_time": 1741847002,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 186983,
@@ -779,12 +811,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 177469,
-      "num": 177469,
-      "word": "宝宝急得第一次叫出妈妈",
-      "onboard_time": 1741845803,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 176632,
+      "num": 235280,
+      "word": "谁懂欧豪北上下跪这一下",
+      "onboard_time": 1741847002,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 176417,
@@ -793,14 +825,6 @@
       "onboard_time": 1741838246,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 176258,
-      "num": 235280,
-      "word": "谁懂欧豪北上下跪这一下",
-      "onboard_time": 1741847002,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 175701,
@@ -899,6 +923,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 169078,
+      "num": 206586,
+      "word": "封神再临",
+      "onboard_time": 1741844962,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 164310,
       "num": 164310,
       "word": "43岁孙艺珍背部线条",
@@ -947,20 +979,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158204,
-      "num": 158204,
-      "word": "封神再临",
-      "onboard_time": 1741844962,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 157296,
-      "num": 157296,
-      "word": "卫枝人设",
-      "onboard_time": 1741847002,
-      "rank": 38,
-      "category": "剧集"
+      "raw_hot": 151307,
+      "num": 291578,
+      "word": "火爆全网的干噎酸奶是科技狠活吗",
+      "onboard_time": 1741847183,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149133,
@@ -977,6 +1001,14 @@
       "onboard_time": 1741844783,
       "rank": 41,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 144990,
+      "num": 144990,
+      "word": "轻断食不是每天少吃",
+      "onboard_time": 1741844962,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 144889,
@@ -1019,14 +1051,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 134956,
-      "num": 134956,
-      "word": "国王剧情 平淡",
-      "onboard_time": 1741847363,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 134948,
       "num": 134948,
       "word": "美国正陷入人为制造的衰退",
@@ -1043,12 +1067,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134228,
+      "num": 134228,
+      "word": "申裕斌吃到黄牌",
+      "onboard_time": 1741847901,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133601,
       "num": 181667,
       "word": "微短剧半壁江山都来了",
       "onboard_time": 1741792646,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129957,
+      "num": 246723,
+      "word": "机场广告牌上女士有6根手指",
+      "onboard_time": 1741847901,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128482,
@@ -1097,14 +1137,6 @@
       "onboard_time": 1741800977,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 125552,
-      "num": 125552,
-      "word": "轻断食不是每天少吃",
-      "onboard_time": 1741844962,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 124592,
@@ -1219,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109125,
+      "num": 109125,
+      "word": "白敬亭章若楠明天四手联弹",
+      "onboard_time": 1741845082,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107902,
       "num": 107902,
       "word": "原央视主持人赵普回应保安出身",
@@ -1235,11 +1275,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106390,
+      "num": 106390,
+      "word": "悬浮现偶",
+      "onboard_time": 1741848261,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105507,
       "num": 105507,
       "word": "金赛纶生前最后一次露面",
       "onboard_time": 1741767383,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 104855,
+      "num": 203950,
+      "word": "王楚然龙族女王look",
+      "onboard_time": 1741847242,
+      "rank": 44,
       "category": "艺人"
     },
     {
@@ -1347,14 +1403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 84389,
-      "num": 127323,
-      "word": "王楚然龙族女王look",
-      "onboard_time": 1741847242,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 84094,
       "num": 84094,
       "word": "羽绒服可以机洗吗",
@@ -1459,6 +1507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69451,
+      "num": 118694,
+      "word": "麦琳 自证是太难的一件事情",
+      "onboard_time": 1741848083,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 68457,
       "num": 789869,
       "word": "看好中国做多中国已成为国际共识",
@@ -1476,7 +1532,7 @@
     },
     {
       "raw_hot": 67773,
-      "num": 223004,
+      "num": 240708,
       "word": "广州越秀老干部局撤下招聘公告",
       "onboard_time": 1741847421,
       "rank": 28,
@@ -1555,20 +1611,20 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 60951,
+      "num": 307483,
+      "word": "她让体育解说不再只是男声",
+      "onboard_time": 1741845684,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58756,
       "num": 297125,
       "word": "穆婷婷乔振宇早期微博互动",
       "onboard_time": 1741843883,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 55413,
-      "num": 307483,
-      "word": "她让体育解说不再只是男声",
-      "onboard_time": 1741845684,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 54303,
@@ -1665,14 +1721,6 @@
       "onboard_time": 1741799837,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 35388,
-      "num": 291578,
-      "word": "火爆全网的干噎酸奶是科技狠活吗",
-      "onboard_time": 1741847183,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 35000,
@@ -1900,6 +1948,9 @@
     },
     {
       "word": "#习近平的两会之问#"
+    },
+    {
+      "word": "#跟着总书记足迹瞰林海#"
     }
   ]
 }
