@@ -1,6 +1,6 @@
 {
   "startTime": 1741797038602,
-  "endTime": 1741862591005,
+  "endTime": 1741864848628,
   "band_list": [
     {
       "raw_hot": 3575207,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1671234,
+      "num": 314229,
+      "word": "内蒙古未成年女遭生父强奸案已签和解书",
+      "onboard_time": 1741862123,
+      "rank": 18,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1632316,
       "num": 1632316,
       "word": "金秀贤将亲自回应",
@@ -128,6 +136,14 @@
       "word": "穆婷婷说乔振宇专业上差劲",
       "onboard_time": 1741830803,
       "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1485417,
+      "num": 304494,
+      "word": "金秀贤金赛纶最新正脸照",
+      "onboard_time": 1741864223,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -363,6 +379,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 687026,
+      "num": 687026,
+      "word": "羽衣甘蓝饮品真的能减肥吗",
+      "onboard_time": 1741860502,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 679799,
       "num": 1108767,
       "word": "公司回应广告牌上女士有6根手指",
@@ -443,6 +467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 496223,
+      "num": 496223,
+      "word": "博主吃出胃炎被怼娇弱就不要探店",
+      "onboard_time": 1741860445,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 473482,
       "num": 473482,
       "word": "王俊凯安排自己座驾送长辈",
@@ -465,6 +497,14 @@
       "onboard_time": 1741852464,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 453856,
+      "num": 453856,
+      "word": "老人将密码告诉侄孙6万多存款剩33",
+      "onboard_time": 1741863924,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 438510,
@@ -577,22 +617,6 @@
       "onboard_time": 1741860324,
       "rank": 30,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 358244,
-      "num": 358244,
-      "word": "博主吃出胃炎被怼娇弱就不要探店",
-      "onboard_time": 1741860445,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 355532,
-      "num": 355532,
-      "word": "羽衣甘蓝饮品真的能减肥吗",
-      "onboard_time": 1741860502,
-      "rank": 19,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 342221,
@@ -811,11 +835,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 258925,
+      "num": 258925,
+      "word": "张继科已注销名下全部公司",
+      "onboard_time": 1741863324,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 258405,
       "num": 258405,
       "word": "金赛纶咖啡店打工被人说是摆拍",
       "onboard_time": 1741843762,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 248769,
+      "num": 310457,
+      "word": "杨紫琼ins发中国台湾",
+      "onboard_time": 1741864465,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -857,6 +897,14 @@
       "onboard_time": 1741845803,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 229045,
+      "num": 295503,
+      "word": "哪吒2差半亿就到150亿了",
+      "onboard_time": 1741859725,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 227192,
@@ -963,20 +1011,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 209784,
+      "num": 209784,
+      "word": "湖南卫视连发16条杨洋",
+      "onboard_time": 1741862123,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209342,
       "num": 209342,
       "word": "燃罪开播",
       "onboard_time": 1741836143,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 209254,
-      "num": 295503,
-      "word": "哪吒2差半亿就到150亿了",
-      "onboard_time": 1741859725,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 207685,
@@ -993,6 +1041,14 @@
       "onboard_time": 1741834822,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 205093,
+      "num": 259254,
+      "word": "国产剧太缺这类题材了",
+      "onboard_time": 1741862364,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 202624,
@@ -1051,20 +1107,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 197893,
-      "num": 279006,
-      "word": "内蒙古未成年女遭生父强奸案已签和解书",
-      "onboard_time": 1741862123,
-      "rank": 18,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 197462,
       "num": 252772,
       "word": "外国人单方面免签来华增长1200%",
       "onboard_time": 1741853003,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 195024,
+      "num": 258932,
+      "word": "孙颖莎vs杜凯琹",
+      "onboard_time": 1741863684,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 194732,
@@ -1099,6 +1155,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190523,
+      "num": 308818,
+      "word": "海底捞包间事件获退款顾客发声",
+      "onboard_time": 1741863564,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189553,
+      "num": 318338,
+      "word": "普京称要迅速彻底击溃乌武装力量",
+      "onboard_time": 1741859605,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 189113,
+      "num": 189113,
+      "word": "穆婷婷早期微博经常艾特乔振宇",
+      "onboard_time": 1741862544,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188456,
       "num": 474301,
       "word": "韩国女艺人容错率几乎为0",
@@ -1113,14 +1193,6 @@
       "onboard_time": 1741842624,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 188242,
-      "num": 188242,
-      "word": "湖南卫视连发16条杨洋",
-      "onboard_time": 1741862123,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 187661,
@@ -1241,14 +1313,6 @@
       "onboard_time": 1741833503,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 177263,
-      "num": 206346,
-      "word": "国产剧太缺这类题材了",
-      "onboard_time": 1741862364,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 176632,
@@ -1417,6 +1481,14 @@
       "onboard_time": 1741827145,
       "rank": 21,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 163834,
+      "num": 163834,
+      "word": "杨铭宇黄焖鸡",
+      "onboard_time": 1741862664,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 161950,
@@ -1819,6 +1891,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 118967,
+      "num": 211349,
+      "word": "燃罪",
+      "onboard_time": 1741864285,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117852,
       "num": 117852,
       "word": "官方回应拦截的900只猫被活埋",
@@ -1843,11 +1923,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115220,
+      "num": 115220,
+      "word": "我叫赵出息开播",
+      "onboard_time": 1741864823,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114647,
       "num": 224718,
       "word": "梁伟铿王昶无缘全英赛16强",
       "onboard_time": 1741820839,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 112442,
+      "num": 112442,
+      "word": "王楚钦谈一分一分抠下比赛",
+      "onboard_time": 1741864104,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -1857,6 +1953,22 @@
       "onboard_time": 1741811953,
       "rank": 45,
       "category": "健康医疗,运动健身"
+    },
+    {
+      "raw_hot": 111756,
+      "num": 173731,
+      "word": "第一次见把反派写在脸上的演员",
+      "onboard_time": 1741862963,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 110606,
+      "num": 110606,
+      "word": "男子闲鱼代订海底捞补偿遇阻",
+      "onboard_time": 1741864643,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109702,
@@ -1987,6 +2099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96590,
+      "num": 305113,
+      "word": "杨铭宇总经理称将以暗访形式监管",
+      "onboard_time": 1741863324,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 96007,
       "num": 261092,
       "word": "黄晓明 欢乐豆吗",
@@ -2025,6 +2145,14 @@
       "onboard_time": 1741829541,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89125,
+      "num": 312510,
+      "word": "被Tiffany成都活动闪到",
+      "onboard_time": 1741860144,
+      "rank": 29,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 86742,
@@ -2099,12 +2227,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 83276,
+      "num": 106490,
+      "word": "一诺版指尖生花好出片",
+      "onboard_time": 1741863384,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 82694,
       "num": 82694,
       "word": "G2开团TES",
       "onboard_time": 1741780764,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 82553,
+      "num": 316766,
+      "word": "平台回应博主探店胃炎索赔被踢出群",
+      "onboard_time": 1741863745,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 82174,
@@ -2257,14 +2401,6 @@
       "onboard_time": 1741774222,
       "rank": 46,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 68101,
-      "num": 287053,
-      "word": "被Tiffany成都活动闪到",
-      "onboard_time": 1741860144,
-      "rank": 29,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 67773,
@@ -2444,7 +2580,7 @@
     },
     {
       "raw_hot": 47705,
-      "num": 125033,
+      "num": 307665,
       "word": "全新小鹏G6从未见过如此换代",
       "onboard_time": 1741862422,
       "rank": 48,
@@ -2529,14 +2665,6 @@
       "onboard_time": 1741857081,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 40466,
-      "num": 150698,
-      "word": "穆婷婷早期微博经常艾特乔振宇",
-      "onboard_time": 1741862544,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 39794,
@@ -2659,6 +2787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 27472,
+      "num": 311600,
+      "word": "无需寄样11元可定制黄金鉴定证书",
+      "onboard_time": 1741863264,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 26960,
       "num": 187113,
       "word": "愿韩流不再以流血为代价",
@@ -2779,6 +2915,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 18636,
+      "num": 560084,
+      "word": "12届中国网络视听大会新闻发布会",
+      "onboard_time": 1741863623,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18249,
       "num": 29552,
       "word": "古人把神话里的树做成了手办",
@@ -2889,6 +3033,14 @@
       "onboard_time": 1741822219,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 10047,
+      "num": 195763,
+      "word": "阿里吴嘉谈AI超级框就是全能助手",
+      "onboard_time": 1741864223,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 9672,

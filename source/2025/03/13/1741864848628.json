@@ -1,0 +1,410 @@
+{
+  "runTime": 1741864848628,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 928312,
+        "num": 1148530,
+        "word": "我不想再因为一碗黄焖鸡破防了",
+        "onboard_time": 1741857145,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 687026,
+        "num": 687026,
+        "word": "羽衣甘蓝饮品真的能减肥吗",
+        "onboard_time": 1741860502,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 18636,
+        "num": 560084,
+        "word": "12届中国网络视听大会新闻发布会",
+        "onboard_time": 1741863623,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 496223,
+        "num": 496223,
+        "word": "博主吃出胃炎被怼娇弱就不要探店",
+        "onboard_time": 1741860445,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 453856,
+        "num": 453856,
+        "word": "老人将密码告诉侄孙6万多存款剩33",
+        "onboard_time": 1741863924,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388731,
+        "num": 388731,
+        "word": "考研名师汤家凤再发声怒斥田静事件",
+        "onboard_time": 1741857924,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 349490,
+        "num": 349490,
+        "word": "9块9每升的100%椰子水安全吗",
+        "onboard_time": 1741857624,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 318424,
+        "num": 318424,
+        "word": "黄焖鸡",
+        "onboard_time": 1741860445,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189553,
+        "num": 318338,
+        "word": "普京称要迅速彻底击溃乌武装力量",
+        "onboard_time": 1741859605,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 82553,
+        "num": 316766,
+        "word": "平台回应博主探店胃炎索赔被踢出群",
+        "onboard_time": 1741863745,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1983632,
+        "num": 316167,
+        "word": "金秀贤在剧组挨个道歉",
+        "onboard_time": 1741861343,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1671234,
+        "num": 314229,
+        "word": "内蒙古未成年女遭生父强奸案已签和解书",
+        "onboard_time": 1741862123,
+        "rank": 11,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1051922,
+        "num": 313030,
+        "word": "赵露思恋人 不复拍",
+        "onboard_time": 1741860204,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89125,
+        "num": 312510,
+        "word": "被Tiffany成都活动闪到",
+        "onboard_time": 1741860144,
+        "rank": 13,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 27472,
+        "num": 311600,
+        "word": "无需寄样11元可定制黄金鉴定证书",
+        "onboard_time": 1741863264,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 248769,
+        "num": 310457,
+        "word": "杨紫琼ins发中国台湾",
+        "onboard_time": 1741864465,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190523,
+        "num": 308818,
+        "word": "海底捞包间事件获退款顾客发声",
+        "onboard_time": 1741863564,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31715,
+        "num": 307665,
+        "word": "全新小鹏G6从未见过如此换代",
+        "onboard_time": 1741862422,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 79624,
+        "num": 307018,
+        "word": "女子在翡翠直播间入坑13天下单32次",
+        "onboard_time": 1741856543,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 96590,
+        "num": 305113,
+        "word": "杨铭宇总经理称将以暗访形式监管",
+        "onboard_time": 1741863324,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1485417,
+        "num": 304494,
+        "word": "金秀贤金赛纶最新正脸照",
+        "onboard_time": 1741864223,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 744722,
+        "num": 303805,
+        "word": "乔欣 赖柏霖",
+        "onboard_time": 1741857924,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 679915,
+        "num": 302085,
+        "word": "董明珠暗讽有人靠炒高股价成了首富",
+        "onboard_time": 1741852882,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 654338,
+        "num": 301194,
+        "word": "顾客获6千退款才知海底捞小便事件",
+        "onboard_time": 1741856125,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 642353,
+        "num": 300397,
+        "word": "虞书欣 鹿小葵式演技",
+        "onboard_time": 1741854563,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299321,
+        "num": 299321,
+        "word": "赵丽颖 浪琴",
+        "onboard_time": 1741852643,
+        "rank": 25,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 280775,
+        "num": 280775,
+        "word": "杨幂苹果头像",
+        "onboard_time": 1741860264,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 265968,
+        "num": 265968,
+        "word": "呼和浩特发布育儿补贴细则",
+        "onboard_time": 1741857924,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229045,
+        "num": 261544,
+        "word": "哪吒2差半亿就到150亿了",
+        "onboard_time": 1741859725,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 205093,
+        "num": 259254,
+        "word": "国产剧太缺这类题材了",
+        "onboard_time": 1741862364,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195024,
+        "num": 258932,
+        "word": "孙颖莎vs杜凯琹",
+        "onboard_time": 1741863684,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258925,
+        "num": 258925,
+        "word": "张继科已注销名下全部公司",
+        "onboard_time": 1741863324,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237343,
+        "num": 237343,
+        "word": "复旦教授教育孩子不要随意去第二次现场",
+        "onboard_time": 1741860382,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218878,
+        "num": 218878,
+        "word": "经纪人回应娜扎二番",
+        "onboard_time": 1741861764,
+        "rank": 33,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 118967,
+        "num": 211349,
+        "word": "燃罪",
+        "onboard_time": 1741864285,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209784,
+        "num": 209784,
+        "word": "湖南卫视连发16条杨洋",
+        "onboard_time": 1741862123,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10047,
+        "num": 195763,
+        "word": "阿里吴嘉谈AI超级框就是全能助手",
+        "onboard_time": 1741864223,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 189113,
+        "num": 189113,
+        "word": "穆婷婷早期微博经常艾特乔振宇",
+        "onboard_time": 1741862544,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111756,
+        "num": 173731,
+        "word": "第一次见把反派写在脸上的演员",
+        "onboard_time": 1741862963,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163834,
+        "num": 163834,
+        "word": "杨铭宇黄焖鸡",
+        "onboard_time": 1741862664,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 152866,
+        "num": 152866,
+        "word": "女子花13000买足金手镯是镀金",
+        "onboard_time": 1741855944,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141646,
+        "num": 141646,
+        "word": "澳门偶遇乔欣赖柏霖喝咖啡",
+        "onboard_time": 1741854683,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132688,
+        "num": 132688,
+        "word": "黑暗荣耀编剧金银淑的含金量",
+        "onboard_time": 1741856003,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130879,
+        "num": 130879,
+        "word": "徐若晗一条一条给粉丝回信",
+        "onboard_time": 1741859964,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122092,
+        "num": 122092,
+        "word": "原来研究生才是最高学历",
+        "onboard_time": 1741854143,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 115220,
+        "num": 115220,
+        "word": "我叫赵出息开播",
+        "onboard_time": 1741864823,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112442,
+        "num": 112442,
+        "word": "王楚钦谈一分一分抠下比赛",
+        "onboard_time": 1741864104,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110606,
+        "num": 110606,
+        "word": "男子闲鱼代订海底捞补偿遇阻",
+        "onboard_time": 1741864643,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108831,
+        "num": 108831,
+        "word": "JackeyLove回应输给KC",
+        "onboard_time": 1741860382,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 83276,
+        "num": 106490,
+        "word": "一诺版指尖生花好出片",
+        "onboard_time": 1741863384,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记一起厚植精神之树#"
+    }
+  }
+}
