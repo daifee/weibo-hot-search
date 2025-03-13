@@ -1,0 +1,410 @@
+{
+  "runTime": 1741869973544,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 850965,
+        "num": 1136154,
+        "word": "男子闲鱼代订海底捞补偿遇阻",
+        "onboard_time": 1741864643,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 765877,
+        "num": 765877,
+        "word": "赵露思恋人 不复拍",
+        "onboard_time": 1741860204,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23727,
+        "num": 759873,
+        "word": "40秒创意混剪收藏美好春日",
+        "onboard_time": 1741853783,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 755529,
+        "num": 755529,
+        "word": "王俊凯迪奥唯一胸针",
+        "onboard_time": 1741868123,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 619767,
+        "num": 619767,
+        "word": "我不想再因为一碗黄焖鸡破防了",
+        "onboard_time": 1741857145,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 453422,
+        "num": 453422,
+        "word": "网购中药泡脚包检出大量病菌",
+        "onboard_time": 1741867523,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 561510,
+        "num": 418742,
+        "word": "哪吒2烂番茄开分",
+        "onboard_time": 1741867225,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 502249,
+        "num": 403519,
+        "word": "虞书欣 鹿小葵式演技",
+        "onboard_time": 1741854563,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 381165,
+        "num": 381165,
+        "word": "呼和浩特生育三孩发10万",
+        "onboard_time": 1741866565,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104702,
+        "num": 381090,
+        "word": "100%椰子水成分有争议",
+        "onboard_time": 1741869203,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1108180,
+        "num": 380819,
+        "word": "权志龙点赞金秀贤下车ins",
+        "onboard_time": 1741866324,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1085370,
+        "num": 380655,
+        "word": "内蒙古未成年女遭生父强奸案已签和解书",
+        "onboard_time": 1741862123,
+        "rank": 11,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 51757,
+        "num": 380460,
+        "word": "Tiffany成都活动全明星阵容",
+        "onboard_time": 1741866204,
+        "rank": 12,
+        "category": "民生新闻,时尚"
+      },
+      {
+        "raw_hot": 16435,
+        "num": 380163,
+        "word": "3000元网购猫货不对板获退赔1万2",
+        "onboard_time": 1741869564,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137870,
+        "num": 379989,
+        "word": "钉钉全国替杭州抢人",
+        "onboard_time": 1741867284,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 973834,
+        "num": 379709,
+        "word": "金秀贤金赛纶最新正脸照",
+        "onboard_time": 1741864223,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 605479,
+        "num": 379355,
+        "word": "顾客获6千退款才知海底捞小便事件",
+        "onboard_time": 1741856125,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 379309,
+        "num": 379309,
+        "word": "乔欣 赖柏霖",
+        "onboard_time": 1741857924,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107833,
+        "num": 376889,
+        "word": "林诗栋3比2安宰贤",
+        "onboard_time": 1741869265,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41426,
+        "num": 373548,
+        "word": "网红奶瓶自称风靡全网实为虚假宣传",
+        "onboard_time": 1741869443,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 742192,
+        "num": 365329,
+        "word": "老人将密码告诉侄孙6万多存款剩33",
+        "onboard_time": 1741863924,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159389,
+        "num": 362016,
+        "word": "首尔街头偶遇夏之光翟潇闻赵让",
+        "onboard_time": 1741868723,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360412,
+        "num": 360412,
+        "word": "海底捞包间事件获退款顾客发声",
+        "onboard_time": 1741863564,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352472,
+        "num": 352472,
+        "word": "杨紫琼ins发中国台湾",
+        "onboard_time": 1741864465,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205863,
+        "num": 339162,
+        "word": "孙颖莎获WTT第100场单打胜利",
+        "onboard_time": 1741867824,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 336757,
+        "num": 336757,
+        "word": "董明珠暗讽有人靠炒高股价成了首富",
+        "onboard_time": 1741852882,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 222513,
+        "num": 331726,
+        "word": "掌中雀开播",
+        "onboard_time": 1741867403,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11870,
+        "num": 318626,
+        "word": "非法荐股团伙谎称掌握内幕牛股行骗",
+        "onboard_time": 1741869144,
+        "rank": 27,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 48997,
+        "num": 316276,
+        "word": "酒店房间灯光为何这么暗",
+        "onboard_time": 1741868304,
+        "rank": 28,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 297145,
+        "num": 304992,
+        "word": "精品盛典红毯",
+        "onboard_time": 1741868903,
+        "rank": 29,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 297931,
+        "num": 297931,
+        "word": "羽衣甘蓝饮品真的能减肥吗",
+        "onboard_time": 1741860502,
+        "rank": 30,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 263055,
+        "num": 263055,
+        "word": "赵丽颖 浪琴",
+        "onboard_time": 1741852643,
+        "rank": 31,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 250576,
+        "num": 250576,
+        "word": "权志龙Jennie一位候补",
+        "onboard_time": 1741868425,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214683,
+        "num": 214683,
+        "word": "2岁女童总吃不饱饭量堪比成年人",
+        "onboard_time": 1741867764,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196834,
+        "num": 212234,
+        "word": "黑暗荣耀李莎拉将复出",
+        "onboard_time": 1741867824,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212077,
+        "num": 212077,
+        "word": "9块9每升的100%椰子水安全吗",
+        "onboard_time": 1741857624,
+        "rank": 35,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 190858,
+        "num": 190858,
+        "word": "孙颖莎回应获WTT第100场单打胜利",
+        "onboard_time": 1741868783,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188251,
+        "num": 188251,
+        "word": "穆婷婷早期微博经常艾特乔振宇",
+        "onboard_time": 1741862544,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187610,
+        "num": 187610,
+        "word": "林诗栋11比2安宰贤",
+        "onboard_time": 1741868903,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175528,
+        "num": 175528,
+        "word": "原来研究生才是最高学历",
+        "onboard_time": 1741854143,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 163967,
+        "num": 163967,
+        "word": "刘晓艳被邀请参加马拉松比赛",
+        "onboard_time": 1741868006,
+        "rank": 40,
+        "category": "教育,运动健身"
+      },
+      {
+        "raw_hot": 210357,
+        "num": 159487,
+        "word": "金智媛 工伤",
+        "onboard_time": 1741851801,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150336,
+        "num": 150336,
+        "word": "KC翻盘",
+        "onboard_time": 1741869624,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161779,
+        "num": 150004,
+        "word": "林诗栋vs安宰贤",
+        "onboard_time": 1741865725,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149223,
+        "num": 149223,
+        "word": "湖南卫视连发16条杨洋",
+        "onboard_time": 1741862123,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148592,
+        "num": 148592,
+        "word": "张继科已注销名下全部公司",
+        "onboard_time": 1741863324,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137801,
+        "num": 137801,
+        "word": "杨幂苹果头像",
+        "onboard_time": 1741860264,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135956,
+        "num": 135956,
+        "word": "经纪人回应娜扎二番",
+        "onboard_time": 1741861764,
+        "rank": 47,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 135036,
+        "num": 135036,
+        "word": "呼和浩特发布育儿补贴细则",
+        "onboard_time": 1741857924,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133521,
+        "num": 133521,
+        "word": "伊能静儿子骑自行车去看秀",
+        "onboard_time": 1741866802,
+        "rank": 49,
+        "category": "艺人,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记一起厚植精神之树#"
+    }
+  }
+}

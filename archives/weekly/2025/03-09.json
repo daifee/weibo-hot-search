@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741865790239,
+  "endTime": 1741869973544,
   "band_list": [
     {
       "raw_hot": 21330054,
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 1687257,
-      "num": 314229,
+      "num": 380655,
       "word": "内蒙古未成年女遭生父强奸案已签和解书",
       "onboard_time": 1741862123,
       "rank": 18,
@@ -476,7 +476,7 @@
     },
     {
       "raw_hot": 1548742,
-      "num": 326433,
+      "num": 379309,
       "word": "乔欣 赖柏霖",
       "onboard_time": 1741857924,
       "rank": 34,
@@ -540,7 +540,7 @@
     },
     {
       "raw_hot": 1485417,
-      "num": 304494,
+      "num": 379709,
       "word": "金秀贤金赛纶最新正脸照",
       "onboard_time": 1741864223,
       "rank": 20,
@@ -652,7 +652,7 @@
     },
     {
       "raw_hot": 1270617,
-      "num": 326571,
+      "num": 765877,
       "word": "赵露思恋人 不复拍",
       "onboard_time": 1741860204,
       "rank": 8,
@@ -881,6 +881,14 @@
       "onboard_time": 1741581683,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1108180,
+      "num": 380819,
+      "word": "权志龙点赞金秀贤下车ins",
+      "onboard_time": 1741866324,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1107377,
@@ -1291,6 +1299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 850965,
+      "num": 1136154,
+      "word": "男子闲鱼代订海底捞补偿遇阻",
+      "onboard_time": 1741864643,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 848999,
       "num": 1111958,
       "word": "外卖员从来不碰的外卖有哪些",
@@ -1513,6 +1529,14 @@
       "onboard_time": 1741751483,
       "rank": 30,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 755529,
+      "num": 755529,
+      "word": "王俊凯迪奥唯一胸针",
+      "onboard_time": 1741868123,
+      "rank": 3,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 755400,
@@ -1980,7 +2004,7 @@
     },
     {
       "raw_hot": 620311,
-      "num": 308818,
+      "num": 360412,
       "word": "海底捞包间事件获退款顾客发声",
       "onboard_time": 1741863564,
       "rank": 16,
@@ -2161,6 +2185,14 @@
       "onboard_time": 1741746081,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 561510,
+      "num": 418742,
+      "word": "哪吒2烂番茄开分",
+      "onboard_time": 1741867225,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 559234,
@@ -2617,6 +2649,14 @@
       "onboard_time": 1741565360,
       "rank": 7,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 453422,
+      "num": 453422,
+      "word": "网购中药泡脚包检出大量病菌",
+      "onboard_time": 1741867523,
+      "rank": 5,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 448524,
@@ -3163,6 +3203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 381165,
+      "num": 381165,
+      "word": "呼和浩特生育三孩发10万",
+      "onboard_time": 1741866565,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 380715,
       "num": 1206098,
       "word": "女子花13000买足金手镯是镀金",
@@ -3409,6 +3457,14 @@
       "onboard_time": 1741593681,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 352472,
+      "num": 352472,
+      "word": "杨紫琼ins发中国台湾",
+      "onboard_time": 1741864465,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 352113,
@@ -3747,14 +3803,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 327530,
-      "num": 310457,
-      "word": "杨紫琼ins发中国台湾",
-      "onboard_time": 1741864465,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 327130,
       "num": 1005428,
       "word": "王一博LOEWE看秀look",
@@ -4081,6 +4129,14 @@
       "onboard_time": 1741537280,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 297145,
+      "num": 304992,
+      "word": "精品盛典红毯",
+      "onboard_time": 1741868903,
+      "rank": 29,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 296809,
@@ -4739,6 +4795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250576,
+      "num": 250576,
+      "word": "权志龙Jennie一位候补",
+      "onboard_time": 1741868425,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 249820,
       "num": 249820,
       "word": "95后女教师勇救轻生男孩",
@@ -5259,6 +5323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 222513,
+      "num": 331726,
+      "word": "掌中雀开播",
+      "onboard_time": 1741867403,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222364,
       "num": 222364,
       "word": "中国印钞造币集团严正声明",
@@ -5441,6 +5513,14 @@
       "onboard_time": 1741574000,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 214683,
+      "num": 214683,
+      "word": "2岁女童总吃不饱饭量堪比成年人",
+      "onboard_time": 1741867764,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 214615,
@@ -5673,6 +5753,14 @@
       "onboard_time": 1741834822,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 205863,
+      "num": 339162,
+      "word": "孙颖莎获WTT第100场单打胜利",
+      "onboard_time": 1741867824,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 205325,
@@ -6019,6 +6107,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 196834,
+      "num": 212234,
+      "word": "黑暗荣耀李莎拉将复出",
+      "onboard_time": 1741867824,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196821,
       "num": 196821,
       "word": "华为整顿违规招聘",
@@ -6283,6 +6379,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 190858,
+      "num": 190858,
+      "word": "孙颖莎回应获WTT第100场单打胜利",
+      "onboard_time": 1741868783,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190479,
       "num": 190479,
       "word": "朱亚文沈佳妮否认离婚后首同框",
@@ -6417,6 +6521,14 @@
       "onboard_time": 1741443023,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187610,
+      "num": 187610,
+      "word": "林诗栋11比2安宰贤",
+      "onboard_time": 1741868903,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 187543,
@@ -7499,6 +7611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163967,
+      "num": 163967,
+      "word": "刘晓艳被邀请参加马拉松比赛",
+      "onboard_time": 1741868006,
+      "rank": 40,
+      "category": "教育,运动健身"
+    },
+    {
       "raw_hot": 163868,
       "num": 163868,
       "word": "海尔老总周云杰撞脸结界兽",
@@ -7611,6 +7731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161779,
+      "num": 162594,
+      "word": "林诗栋vs安宰贤",
+      "onboard_time": 1741865725,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161596,
       "num": 161596,
       "word": "委员建议年轻人每天攒一杯咖啡钱",
@@ -7721,6 +7849,14 @@
       "onboard_time": 1741697484,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159389,
+      "num": 362016,
+      "word": "首尔街头偶遇夏之光翟潇闻赵让",
+      "onboard_time": 1741868723,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 159332,
@@ -7873,14 +8009,6 @@
       "onboard_time": 1741498040,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 156523,
-      "num": 156523,
-      "word": "男子闲鱼代订海底捞补偿遇阻",
-      "onboard_time": 1741864643,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 156308,
@@ -8233,6 +8361,14 @@
       "onboard_time": 1741746022,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 150336,
+      "num": 150336,
+      "word": "KC翻盘",
+      "onboard_time": 1741869624,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 150223,
@@ -8907,6 +9043,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 137870,
+      "num": 379989,
+      "word": "钉钉全国替杭州抢人",
+      "onboard_time": 1741867284,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 137789,
       "num": 166853,
       "word": "主播夸大宣传卖手镯拒不退货",
@@ -9137,6 +9281,14 @@
       "onboard_time": 1741792646,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133521,
+      "num": 133521,
+      "word": "伊能静儿子骑自行车去看秀",
+      "onboard_time": 1741866802,
+      "rank": 49,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 133518,
@@ -10979,6 +11131,14 @@
       "category": "国内时政,互联网"
     },
     {
+      "raw_hot": 107833,
+      "num": 376889,
+      "word": "林诗栋3比2安宰贤",
+      "onboard_time": 1741869265,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107780,
       "num": 107780,
       "word": "向鱼女娲",
@@ -11217,6 +11377,14 @@
       "onboard_time": 1741500321,
       "rank": 14,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 104702,
+      "num": 381090,
+      "word": "100%椰子水成分有争议",
+      "onboard_time": 1741869203,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104610,
@@ -13411,14 +13579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 56005,
-      "num": 162594,
-      "word": "林诗栋vs安宰贤",
-      "onboard_time": 1741865725,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 55847,
       "num": 55847,
       "word": "星你滤镜碎了",
@@ -13579,6 +13739,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 51757,
+      "num": 380460,
+      "word": "Tiffany成都活动全明星阵容",
+      "onboard_time": 1741866204,
+      "rank": 12,
+      "category": "民生新闻,时尚"
+    },
+    {
       "raw_hot": 51731,
       "num": 401165,
       "word": "机器人小航与航天员一同完成实验",
@@ -13673,6 +13841,14 @@
       "onboard_time": 1741493900,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48997,
+      "num": 316276,
+      "word": "酒店房间灯光为何这么暗",
+      "onboard_time": 1741868304,
+      "rank": 28,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 48710,
@@ -13953,6 +14129,14 @@
       "onboard_time": 1741610427,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 41426,
+      "num": 373548,
+      "word": "网红奶瓶自称风靡全网实为虚假宣传",
+      "onboard_time": 1741869443,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 41388,
@@ -14931,6 +15115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 23727,
+      "num": 759873,
+      "word": "40秒创意混剪收藏美好春日",
+      "onboard_time": 1741853783,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23667,
       "num": 220320,
       "word": "夸克AI超级框搞定所有事",
@@ -15371,6 +15563,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 16435,
+      "num": 380163,
+      "word": "3000元网购猫货不对板获退赔1万2",
+      "onboard_time": 1741869564,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15883,
       "num": 135017,
       "word": "RW对战DRG",
@@ -15593,6 +15793,14 @@
       "onboard_time": 1741467553,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11870,
+      "num": 318626,
+      "word": "非法荐股团伙谎称掌握内幕牛股行骗",
+      "onboard_time": 1741869144,
+      "rank": 27,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 11808,
