@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1741831836715,
+  "endTime": 1741834829292,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -2251,6 +2251,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 2648570,
+      "num": 493787,
+      "word": "金赛纶下跪才协商到7亿",
+      "onboard_time": 1741830744,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2642293,
       "num": 2642293,
       "word": "爱奇艺 吃相",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1739335402,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2549490,
-      "num": 2549490,
-      "word": "周深高音",
-      "onboard_time": 1738081830,
-      "rank": 6,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

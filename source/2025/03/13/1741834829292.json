@@ -1,0 +1,410 @@
+{
+  "runTime": 1741834829292,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 699741,
+        "num": 1111958,
+        "word": "外卖员从来不碰的外卖有哪些",
+        "onboard_time": 1741823542,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 655743,
+        "num": 655743,
+        "word": "女歌手全国巡回演唱会后被抓",
+        "onboard_time": 1741831643,
+        "rank": 1,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 28910,
+        "num": 633867,
+        "word": "2025政府工作报告全文",
+        "onboard_time": 1741776686,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1490710,
+        "num": 568578,
+        "word": "穆婷婷说乔振宇专业上差劲",
+        "onboard_time": 1741830803,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1057889,
+        "num": 512540,
+        "word": "金秀贤将亲自回应",
+        "onboard_time": 1741830562,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1222165,
+        "num": 436413,
+        "word": "王大陆入伍",
+        "onboard_time": 1741830023,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409445,
+        "num": 409445,
+        "word": "金赛纶打5份工还债还被霸凌",
+        "onboard_time": 1741831883,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390660,
+        "num": 390660,
+        "word": "校长说8年制大学让学生不用内卷",
+        "onboard_time": 1741833323,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 369363,
+        "num": 369363,
+        "word": "业主不满物业换6100个硬币缴费",
+        "onboard_time": 1741830083,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177673,
+        "num": 365464,
+        "word": "普京视察库尔斯克地区",
+        "onboard_time": 1741833503,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 662359,
+        "num": 365384,
+        "word": "徐睿知发文",
+        "onboard_time": 1741822099,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2648570,
+        "num": 365367,
+        "word": "金赛纶下跪才协商到7亿",
+        "onboard_time": 1741830744,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365206,
+        "num": 365206,
+        "word": "抖音封禁一批炒作炫富账号",
+        "onboard_time": 1741826364,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 352454,
+        "num": 352454,
+        "word": "男子陷入桃色剧本杀泄露国家秘密",
+        "onboard_time": 1741822761,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341182,
+        "num": 341182,
+        "word": "小米SU7Ultra车标中炼出黄金",
+        "onboard_time": 1741826364,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 311003,
+        "num": 311003,
+        "word": "穆婷婷说不想和乔振宇再合作",
+        "onboard_time": 1741833683,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299265,
+        "num": 299265,
+        "word": "朝海底捞锅底小便男子赔偿或达百万",
+        "onboard_time": 1741788146,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298550,
+        "num": 298550,
+        "word": "网友吐槽一口价金饰克重被隐藏",
+        "onboard_time": 1741832183,
+        "rank": 17,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 283749,
+        "num": 283749,
+        "word": "秦始皇陵甬道有日本人植树纪念碑",
+        "onboard_time": 1741827803,
+        "rank": 18,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 208306,
+        "num": 260234,
+        "word": "玉茗茶骨",
+        "onboard_time": 1741833683,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 537629,
+        "num": 257678,
+        "word": "女子生完双胞胎4个月再怀双胞胎",
+        "onboard_time": 1741833203,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 521459,
+        "num": 256161,
+        "word": "黄晓明在线辟谣输了十个亿",
+        "onboard_time": 1741825164,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254106,
+        "num": 254106,
+        "word": "顾茜茜抖音账号被永久封禁",
+        "onboard_time": 1741780343,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 242353,
+        "num": 242353,
+        "word": "带偏瘫妻子跑车4年司机交新女友",
+        "onboard_time": 1741791566,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85117,
+        "num": 236820,
+        "word": "为什么会判马竞点球无效",
+        "onboard_time": 1741833862,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235714,
+        "num": 235714,
+        "word": "特朗普衰退",
+        "onboard_time": 1741790065,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 229943,
+        "num": 229943,
+        "word": "金价",
+        "onboard_time": 1741821440,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 193631,
+        "num": 193631,
+        "word": "迪丽热巴挥手安慰粉丝不要哭",
+        "onboard_time": 1741830744,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119367,
+        "num": 185552,
+        "word": "檀健次吻戏把人看红温了",
+        "onboard_time": 1741796782,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87136,
+        "num": 184791,
+        "word": "肖战 谍报上不封顶",
+        "onboard_time": 1741791266,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207526,
+        "num": 184626,
+        "word": "泰国坠崖案王暖暖孩子查出先心病",
+        "onboard_time": 1741834224,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184091,
+        "num": 184091,
+        "word": "马斯克宣布向特朗普团队再捐1亿美元",
+        "onboard_time": 1741830083,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 183435,
+        "num": 183435,
+        "word": "猎金游戏定档",
+        "onboard_time": 1741833622,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173035,
+        "num": 173035,
+        "word": "春捂是要捂到什么时候",
+        "onboard_time": 1741795762,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146433,
+        "num": 146433,
+        "word": "19岁女生学校宿舍不幸猝死",
+        "onboard_time": 1741827803,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124851,
+        "num": 124851,
+        "word": "牡丹牡丹洛阳牡丹牡丹",
+        "onboard_time": 1741827024,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116126,
+        "num": 116126,
+        "word": "老外为证明没说谎带邻居来中国",
+        "onboard_time": 1741788325,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112777,
+        "num": 112777,
+        "word": "华为新品发布会官宣",
+        "onboard_time": 1741830443,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 103857,
+        "num": 103857,
+        "word": "96年夫妻每天设计1000大卡减脂餐",
+        "onboard_time": 1741827323,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 76528,
+        "num": 100437,
+        "word": "微短剧半壁江山都来了",
+        "onboard_time": 1741792646,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97622,
+        "num": 97622,
+        "word": "俄方回应美乌达成30天临时停火共识",
+        "onboard_time": 1741830623,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96493,
+        "num": 96493,
+        "word": "用汉字打开春暖花开",
+        "onboard_time": 1741827145,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95978,
+        "num": 95978,
+        "word": "一边跳绳一边踢毽子不再是病句了",
+        "onboard_time": 1741829783,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93876,
+        "num": 93876,
+        "word": "普京称要彻底夺回库尔斯克地区",
+        "onboard_time": 1741822642,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84289,
+        "num": 84289,
+        "word": "接美国流浪宇航员的发射取消了",
+        "onboard_time": 1741823241,
+        "rank": 44,
+        "category": "国际时政,国际时政"
+      },
+      {
+        "raw_hot": 83372,
+        "num": 83372,
+        "word": "英特尔盘前大涨近7%",
+        "onboard_time": 1741833983,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 80239,
+        "num": 80239,
+        "word": "减肥时主食有3个黄金等级",
+        "onboard_time": 1741811953,
+        "rank": 46,
+        "category": "健康医疗,运动健身"
+      },
+      {
+        "raw_hot": 603038,
+        "num": 79756,
+        "word": "金秀贤超绝变脸",
+        "onboard_time": 1741826663,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78236,
+        "num": 78236,
+        "word": "巴基斯坦一列车遭劫21名人质被杀",
+        "onboard_time": 1741834763,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 65476,
+        "num": 78228,
+        "word": "哪吒",
+        "onboard_time": 1741833203,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记出席2025年全国两会纪实#"
+    }
+  }
+}
