@@ -1,0 +1,410 @@
+{
+  "runTime": 1741872716305,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 832070,
+        "num": 1133131,
+        "word": "赵露思恋人 不复拍",
+        "onboard_time": 1741860204,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 763369,
+        "num": 763369,
+        "word": "网购中药泡脚包检出大量病菌",
+        "onboard_time": 1741867523,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 37994,
+        "num": 667220,
+        "word": "中国漆器美了千年",
+        "onboard_time": 1741872084,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 592172,
+        "num": 592172,
+        "word": "王俊凯迪奥唯一胸针",
+        "onboard_time": 1741868123,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 477248,
+        "num": 477248,
+        "word": "呼和浩特生育三孩发10万",
+        "onboard_time": 1741866565,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 408784,
+        "num": 408784,
+        "word": "网红奶瓶自称风靡全网实为虚假宣传",
+        "onboard_time": 1741869443,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 490721,
+        "num": 397188,
+        "word": "虞书欣 鹿小葵式演技",
+        "onboard_time": 1741854563,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 470787,
+        "num": 380786,
+        "word": "哪吒2烂番茄开分",
+        "onboard_time": 1741867225,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 332412,
+        "num": 332412,
+        "word": "我不想再因为一碗黄焖鸡破防了",
+        "onboard_time": 1741857145,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 233508,
+        "num": 233508,
+        "word": "羽衣甘蓝饮品真的能减肥吗",
+        "onboard_time": 1741860502,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1237599,
+        "num": 232090,
+        "word": "金秀贤金赛纶最新正脸照",
+        "onboard_time": 1741864223,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 946119,
+        "num": 231058,
+        "word": "扎西顿珠官宣结婚",
+        "onboard_time": 1741869983,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 937647,
+        "num": 229596,
+        "word": "内蒙古未成年女遭生父强奸案已签和解书",
+        "onboard_time": 1741862123,
+        "rank": 12,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 855358,
+        "num": 227740,
+        "word": "男子闲鱼代订海底捞补偿遇阻",
+        "onboard_time": 1741864643,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 492577,
+        "num": 226025,
+        "word": "顾客获6千退款才知海底捞小便事件",
+        "onboard_time": 1741856125,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114924,
+        "num": 225250,
+        "word": "夸克",
+        "onboard_time": 1741871544,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1147122,
+        "num": 224129,
+        "word": "金秀贤在剧组挨个道歉",
+        "onboard_time": 1741861343,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415681,
+        "num": 221568,
+        "word": "乔欣 赖柏霖",
+        "onboard_time": 1741857924,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269200,
+        "num": 220670,
+        "word": "董明珠暗讽有人靠炒高股价成了首富",
+        "onboard_time": 1741852882,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 19923,
+        "num": 218952,
+        "word": "190元就能定制一箱茅台贴牌酒",
+        "onboard_time": 1741871244,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302602,
+        "num": 218222,
+        "word": "老人将密码告诉侄孙6万多存款剩33",
+        "onboard_time": 1741863924,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290080,
+        "num": 215953,
+        "word": "2岁女童总吃不饱饭量堪比成年人",
+        "onboard_time": 1741867764,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215258,
+        "num": 215258,
+        "word": "孟子义上海",
+        "onboard_time": 1741871724,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214149,
+        "num": 214149,
+        "word": "杨紫琼ins发中国台湾",
+        "onboard_time": 1741864465,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153198,
+        "num": 203793,
+        "word": "孙颖莎希望胜利200场300场",
+        "onboard_time": 1741868845,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193869,
+        "num": 193869,
+        "word": "章子怡压轴亮相",
+        "onboard_time": 1741870406,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189059,
+        "num": 189059,
+        "word": "北上第18集哭麻了",
+        "onboard_time": 1741872084,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16298,
+        "num": 187520,
+        "word": "女生去理发店遇天价烫染花7680元",
+        "onboard_time": 1741872565,
+        "rank": 27,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 15889,
+        "num": 187214,
+        "word": "饭店卖麻雀肉DNA测出是鸡肉",
+        "onboard_time": 1741872565,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24414,
+        "num": 187023,
+        "word": "一年新增数万家咖啡店能赚到钱吗",
+        "onboard_time": 1741871425,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 186909,
+        "num": 186909,
+        "word": "伊能静儿子骑自行车去看秀",
+        "onboard_time": 1741866802,
+        "rank": 30,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 102104,
+        "num": 178769,
+        "word": "中药泡脚包内药材缺斤少两",
+        "onboard_time": 1741871904,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174838,
+        "num": 174838,
+        "word": "赵丽颖 浪琴",
+        "onboard_time": 1741852643,
+        "rank": 32,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 173678,
+        "num": 173678,
+        "word": "原来研究生才是最高学历",
+        "onboard_time": 1741854143,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 193571,
+        "num": 173632,
+        "word": "金智媛 工伤",
+        "onboard_time": 1741851801,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173510,
+        "num": 173510,
+        "word": "穆婷婷早期微博经常艾特乔振宇",
+        "onboard_time": 1741862544,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168744,
+        "num": 168744,
+        "word": "特朗普对欧盟发威胁",
+        "onboard_time": 1741870104,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 164059,
+        "num": 164059,
+        "word": "掌中雀开播",
+        "onboard_time": 1741867403,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163864,
+        "num": 163864,
+        "word": "权志龙Jennie一位候补",
+        "onboard_time": 1741868425,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163131,
+        "num": 163131,
+        "word": "刘晓艳被邀请参加马拉松比赛",
+        "onboard_time": 1741868006,
+        "rank": 39,
+        "category": "教育,运动健身"
+      },
+      {
+        "raw_hot": 157404,
+        "num": 157404,
+        "word": "经纪人回应娜扎二番",
+        "onboard_time": 1741861764,
+        "rank": 40,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 156946,
+        "num": 156946,
+        "word": "100%椰子水成分有争议",
+        "onboard_time": 1741869203,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147292,
+        "num": 147292,
+        "word": "首尔街头偶遇夏之光翟潇闻赵让",
+        "onboard_time": 1741868723,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146761,
+        "num": 146761,
+        "word": "轩染回归赛场",
+        "onboard_time": 1741870104,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144648,
+        "num": 144648,
+        "word": "刘晓艳让大家别宣传她马拉松2分20秒",
+        "onboard_time": 1741872324,
+        "rank": 44,
+        "category": "教育,运动健身"
+      },
+      {
+        "raw_hot": 138971,
+        "num": 138971,
+        "word": "黑暗荣耀李莎拉将复出",
+        "onboard_time": 1741867824,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137387,
+        "num": 137387,
+        "word": "杨幂苹果头像",
+        "onboard_time": 1741860264,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129609,
+        "num": 129609,
+        "word": "语文老师正楷粉笔板书似打印",
+        "onboard_time": 1741871184,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 128846,
+        "num": 128846,
+        "word": "秦彻平安顺遂",
+        "onboard_time": 1741872384,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123055,
+        "num": 123055,
+        "word": "9块9每升的100%椰子水安全吗",
+        "onboard_time": 1741857624,
+        "rank": 49,
+        "category": "舆论监督"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向希腊新任总统致贺电#"
+    }
+  }
+}
