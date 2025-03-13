@@ -1,6 +1,6 @@
 {
   "startTime": 1741797038602,
-  "endTime": 1741837734582,
+  "endTime": 1741840130843,
   "band_list": [
     {
       "raw_hot": 3504662,
@@ -51,8 +51,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1420416,
+      "num": 825534,
+      "word": "穆婷婷说不想和乔振宇再合作",
+      "onboard_time": 1741833683,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1340426,
-      "num": 1154973,
+      "num": 1161629,
       "word": "瑶一瑶小肉包已停更一个月",
       "onboard_time": 1741834942,
       "rank": 27,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 1107377,
-      "num": 479440,
+      "num": 488260,
       "word": "徐睿知发文",
       "onboard_time": 1741822099,
       "rank": 11,
@@ -107,12 +115,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1002984,
+      "num": 553968,
+      "word": "重庆一男子女厕偷拍逃跑时坠楼",
+      "onboard_time": 1741837522,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 987096,
       "num": 673041,
       "word": "黄晓明在线辟谣输了十个亿",
       "onboard_time": 1741825164,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 961556,
+      "num": 961556,
+      "word": "马龙拥抱了马龙",
+      "onboard_time": 1741837522,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 870925,
@@ -123,20 +147,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 855488,
-      "num": 447225,
-      "word": "穆婷婷说不想和乔振宇再合作",
-      "onboard_time": 1741833683,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 848999,
       "num": 1111958,
       "word": "外卖员从来不碰的外卖有哪些",
       "onboard_time": 1741823542,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 761429,
+      "num": 761429,
+      "word": "韩国举办15岁以下女团选秀",
+      "onboard_time": 1741837646,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 745160,
@@ -153,6 +177,14 @@
       "onboard_time": 1741821440,
       "rank": 10,
       "category": "财经"
+    },
+    {
+      "raw_hot": 653676,
+      "num": 653676,
+      "word": "麦琳道歉",
+      "onboard_time": 1741839324,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 641784,
@@ -187,8 +219,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 542180,
+      "num": 542180,
+      "word": "山姆回应多批次牛奶疑似变质",
+      "onboard_time": 1741836383,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 537629,
-      "num": 312747,
+      "num": 383104,
       "word": "女子生完双胞胎4个月再怀双胞胎",
       "onboard_time": 1741833203,
       "rank": 20,
@@ -224,6 +264,14 @@
       "word": "多名外卖小哥提醒避雷黄焖鸡",
       "onboard_time": 1741769120,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 423438,
+      "num": 561163,
+      "word": "141万买二手房原房主拒绝搬家",
+      "onboard_time": 1741837343,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -299,14 +347,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 299381,
-      "num": 386420,
-      "word": "山姆回应多批次牛奶疑似变质",
-      "onboard_time": 1741836383,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 298550,
       "num": 298550,
       "word": "网友吐槽一口价金饰克重被隐藏",
@@ -331,20 +371,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 289206,
+      "num": 289206,
+      "word": "42岁黄圣依状态",
+      "onboard_time": 1741835724,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 279215,
       "num": 186575,
       "word": "韩国陈学冬",
       "onboard_time": 1741778604,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 270925,
-      "num": 270925,
-      "word": "42岁黄圣依状态",
-      "onboard_time": 1741835724,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 269526,
@@ -371,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 247660,
+      "num": 247660,
+      "word": "我国在三维世界造出二维金属材料",
+      "onboard_time": 1741839024,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 231425,
       "num": 231425,
       "word": "女子通一次马桶被收费3180元",
@@ -385,6 +433,14 @@
       "onboard_time": 1741833622,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 218389,
+      "num": 218389,
+      "word": "王俊凯安排自己座驾送长辈",
+      "onboard_time": 1741840106,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 217522,
@@ -411,14 +467,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 209957,
-      "num": 209957,
-      "word": "重庆一男子女厕偷拍逃跑时坠楼",
-      "onboard_time": 1741837522,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 209342,
       "num": 209342,
       "word": "燃罪开播",
@@ -433,6 +481,14 @@
       "onboard_time": 1741834822,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 203035,
+      "num": 203035,
+      "word": "乌方不会承认任何被占领土属于俄罗斯",
+      "onboard_time": 1741837223,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 200437,
@@ -457,6 +513,14 @@
       "onboard_time": 1741821378,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189903,
+      "num": 189903,
+      "word": "黄奕15年后再演港片女主",
+      "onboard_time": 1741838666,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 186970,
@@ -515,16 +579,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 174692,
-      "num": 174692,
-      "word": "马龙拥抱了马龙",
-      "onboard_time": 1741837522,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 174296,
-      "num": 213328,
+      "num": 247214,
       "word": "杨幂头像库更新",
       "onboard_time": 1741835602,
       "rank": 29,
@@ -537,6 +593,14 @@
       "onboard_time": 1741835423,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 171647,
+      "num": 246886,
+      "word": "17岁女主播停播后被索赔25万",
+      "onboard_time": 1741838246,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171423,
@@ -587,14 +651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 161023,
-      "num": 161023,
-      "word": "141万买二手房原房主拒绝搬家",
-      "onboard_time": 1741837343,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 159232,
       "num": 162429,
       "word": "丁禹兮深夜allblack上班",
@@ -609,14 +665,6 @@
       "onboard_time": 1741819817,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 145823,
-      "num": 145823,
-      "word": "乌方不会承认任何被占领土属于俄罗斯",
-      "onboard_time": 1741837223,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 144889,
@@ -667,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128482,
+      "num": 190328,
+      "word": "华为1610大开想象",
+      "onboard_time": 1741839625,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 127655,
       "num": 127655,
       "word": "脂肪是如何排出体外的",
@@ -689,6 +745,14 @@
       "onboard_time": 1741829783,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126919,
+      "num": 272435,
+      "word": "秦彻偏色",
+      "onboard_time": 1741837404,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 125805,
@@ -731,20 +795,28 @@
       "category": "美食"
     },
     {
-      "raw_hot": 122631,
-      "num": 122631,
-      "word": "韩国举办15岁以下女团选秀",
-      "onboard_time": 1741837646,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 120417,
       "num": 150075,
       "word": "迪丽热巴陈星旭大理同框",
       "onboard_time": 1741828343,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 119854,
+      "num": 386916,
+      "word": "预估补漏一两千注胶后被收六千",
+      "onboard_time": 1741837223,
+      "rank": 13,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 118968,
+      "num": 118968,
+      "word": "贝林厄姆怒吼威尼修斯",
+      "onboard_time": 1741840106,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 117852,
@@ -876,7 +948,7 @@
     },
     {
       "raw_hot": 86742,
-      "num": 116317,
+      "num": 191140,
       "word": "为啥量产车也要频繁刷赛道",
       "onboard_time": 1741837585,
       "rank": 49,
@@ -1011,14 +1083,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 71874,
-      "num": 272435,
-      "word": "秦彻偏色",
-      "onboard_time": 1741837404,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 68338,
       "num": 80762,
       "word": "委员谈为什么医生自己不做近视手术",
@@ -1041,6 +1105,14 @@
       "onboard_time": 1741831763,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65481,
+      "num": 444839,
+      "word": "张子枫新片小狗告白心声",
+      "onboard_time": 1741839145,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 65476,
@@ -1083,6 +1155,22 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 55509,
+      "num": 486468,
+      "word": "团伙直播间一折卖假冒名牌包被判刑",
+      "onboard_time": 1741839205,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54303,
+      "num": 424700,
+      "word": "黄圣依和妈妈现身机场",
+      "onboard_time": 1741839084,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 50760,
       "num": 182637,
       "word": "美股",
@@ -1113,6 +1201,14 @@
       "onboard_time": 1741786403,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 43827,
+      "num": 433038,
+      "word": "始祖鸟吊牌倒卖背后的灰色产业链",
+      "onboard_time": 1741839385,
+      "rank": 18,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 43791,
@@ -1155,14 +1251,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 36231,
-      "num": 386916,
-      "word": "预估补漏一两千注胶后被收六千",
-      "onboard_time": 1741837223,
-      "rank": 13,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 35886,
       "num": 38749,
       "word": "罗云熙申请加入这场光影游戏",
@@ -1177,6 +1265,14 @@
       "onboard_time": 1741837163,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 31048,
+      "num": 454936,
+      "word": "梁靖崑vs卢伟",
+      "onboard_time": 1741839084,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 28849,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1741840130843,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1010181,
+        "num": 1161629,
+        "word": "瑶一瑶小肉包已停更一个月",
+        "onboard_time": 1741834942,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 961556,
+        "num": 961556,
+        "word": "马龙拥抱了马龙",
+        "onboard_time": 1741837522,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11309,
+        "num": 918094,
+        "word": "2025政府工作报告全文",
+        "onboard_time": 1741776686,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 879863,
+        "num": 879863,
+        "word": "校长说8年制大学让学生不用内卷",
+        "onboard_time": 1741833323,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 828833,
+        "num": 828833,
+        "word": "女歌手全国巡回演唱会后被抓",
+        "onboard_time": 1741831643,
+        "rank": 4,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 1420416,
+        "num": 825534,
+        "word": "穆婷婷说不想和乔振宇再合作",
+        "onboard_time": 1741833683,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 761429,
+        "num": 761429,
+        "word": "韩国举办15岁以下女团选秀",
+        "onboard_time": 1741837646,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 736225,
+        "num": 736225,
+        "word": "泰国坠崖案王暖暖孩子查出先心病",
+        "onboard_time": 1741834224,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 653676,
+        "num": 653676,
+        "word": "麦琳道歉",
+        "onboard_time": 1741839324,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423438,
+        "num": 561163,
+        "word": "141万买二手房原房主拒绝搬家",
+        "onboard_time": 1741837343,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2657166,
+        "num": 554088,
+        "word": "金秀贤回应交往金赛纶是谣言",
+        "onboard_time": 1741835121,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1002984,
+        "num": 553968,
+        "word": "重庆一男子女厕偷拍逃跑时坠楼",
+        "onboard_time": 1741837522,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 542180,
+        "num": 542180,
+        "word": "山姆回应多批次牛奶疑似变质",
+        "onboard_time": 1741836383,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 488260,
+        "num": 488260,
+        "word": "徐睿知发文",
+        "onboard_time": 1741822099,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55509,
+        "num": 486468,
+        "word": "团伙直播间一折卖假冒名牌包被判刑",
+        "onboard_time": 1741839205,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1830400,
+        "num": 474348,
+        "word": "金赛纶下跪才协商到7亿",
+        "onboard_time": 1741830744,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31048,
+        "num": 454936,
+        "word": "梁靖崑vs卢伟",
+        "onboard_time": 1741839084,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65481,
+        "num": 444839,
+        "word": "张子枫新片小狗告白心声",
+        "onboard_time": 1741839145,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 43827,
+        "num": 433038,
+        "word": "始祖鸟吊牌倒卖背后的灰色产业链",
+        "onboard_time": 1741839385,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 54303,
+        "num": 424700,
+        "word": "黄圣依和妈妈现身机场",
+        "onboard_time": 1741839084,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 661423,
+        "num": 419445,
+        "word": "穆婷婷说乔振宇专业上差劲",
+        "onboard_time": 1741830803,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409458,
+        "num": 409458,
+        "word": "外卖员从来不碰的外卖有哪些",
+        "onboard_time": 1741823542,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391665,
+        "num": 391665,
+        "word": "曝金秀贤经纪人强奸了6名女性",
+        "onboard_time": 1741827024,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383104,
+        "num": 383104,
+        "word": "女子生完双胞胎4个月再怀双胞胎",
+        "onboard_time": 1741833203,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289206,
+        "num": 289206,
+        "word": "42岁黄圣依状态",
+        "onboard_time": 1741835724,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278502,
+        "num": 278502,
+        "word": "抖音封禁一批炒作炫富账号",
+        "onboard_time": 1741826364,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 266126,
+        "num": 266126,
+        "word": "玉茗茶骨",
+        "onboard_time": 1741833683,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247660,
+        "num": 247660,
+        "word": "我国在三维世界造出二维金属材料",
+        "onboard_time": 1741839024,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 157481,
+        "num": 247214,
+        "word": "杨幂头像库更新",
+        "onboard_time": 1741835602,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171647,
+        "num": 246886,
+        "word": "17岁女主播停播后被索赔25万",
+        "onboard_time": 1741838246,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246819,
+        "num": 246819,
+        "word": "黄晓明在线辟谣输了十个亿",
+        "onboard_time": 1741825164,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243546,
+        "num": 243546,
+        "word": "小米SU7Ultra车标中炼出黄金",
+        "onboard_time": 1741826364,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 218389,
+        "num": 218389,
+        "word": "王俊凯安排自己座驾送长辈",
+        "onboard_time": 1741840106,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205258,
+        "num": 205258,
+        "word": "居家养老难题怎么破",
+        "onboard_time": 1741836203,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204472,
+        "num": 204472,
+        "word": "男子陷入桃色剧本杀泄露国家秘密",
+        "onboard_time": 1741822761,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203035,
+        "num": 203035,
+        "word": "乌方不会承认任何被占领土属于俄罗斯",
+        "onboard_time": 1741837223,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 63718,
+        "num": 191140,
+        "word": "为啥量产车也要频繁刷赛道",
+        "onboard_time": 1741837585,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 128482,
+        "num": 190328,
+        "word": "华为1610大开想象",
+        "onboard_time": 1741839625,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 189903,
+        "num": 189903,
+        "word": "黄奕15年后再演港片女主",
+        "onboard_time": 1741838666,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176769,
+        "num": 176769,
+        "word": "燃罪开播",
+        "onboard_time": 1741836143,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159368,
+        "num": 159368,
+        "word": "带偏瘫妻子跑车4年司机交新女友",
+        "onboard_time": 1741791566,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157068,
+        "num": 157068,
+        "word": "迪丽热巴挥手安慰粉丝不要哭",
+        "onboard_time": 1741830744,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150523,
+        "num": 150523,
+        "word": "业主不满物业换6100个硬币缴费",
+        "onboard_time": 1741830083,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147017,
+        "num": 147017,
+        "word": "秦始皇陵甬道有日本人植树纪念碑",
+        "onboard_time": 1741827803,
+        "rank": 43,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 134653,
+        "num": 134653,
+        "word": "马斯克宣布向特朗普团队再捐1亿美元",
+        "onboard_time": 1741830083,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133552,
+        "num": 133552,
+        "word": "巴基斯坦一列车遭劫21名人质被杀",
+        "onboard_time": 1741834763,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 126919,
+        "num": 126919,
+        "word": "秦彻偏色",
+        "onboard_time": 1741837404,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123621,
+        "num": 123621,
+        "word": "朝海底捞锅底小便男子赔偿或达百万",
+        "onboard_time": 1741788146,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119854,
+        "num": 119854,
+        "word": "预估补漏一两千注胶后被收六千",
+        "onboard_time": 1741837223,
+        "rank": 48,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 118968,
+        "num": 118968,
+        "word": "贝林厄姆怒吼威尼修斯",
+        "onboard_time": 1741840106,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记出席2025年全国两会纪实#"
+    }
+  }
+}
