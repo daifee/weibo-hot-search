@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741891567232,
+  "endTime": 1741893581322,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -40945,6 +40945,14 @@
       "onboard_time": 1741723334,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 14138,
+      "num": 16557,
+      "word": "董浩叔叔寻人仅48小时就成功了",
+      "onboard_time": 1741893314,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14121,
