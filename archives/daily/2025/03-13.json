@@ -1,6 +1,6 @@
 {
   "startTime": 1741797038602,
-  "endTime": 1741873381601,
+  "endTime": 1741875788255,
   "band_list": [
     {
       "raw_hot": 3575207,
@@ -145,6 +145,14 @@
       "onboard_time": 1741864223,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1422336,
+      "num": 1422336,
+      "word": "刘晓艳让大家别宣传她马拉松2分20秒",
+      "onboard_time": 1741872324,
+      "rank": 44,
+      "category": "教育,运动健身"
     },
     {
       "raw_hot": 1409889,
@@ -320,6 +328,14 @@
       "word": "扎西顿珠官宣结婚",
       "onboard_time": 1741869983,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 939912,
+      "num": 331969,
+      "word": "金赛纶遗属称将采取一切措施",
+      "onboard_time": 1741873045,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -523,12 +539,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 531245,
+      "num": 318484,
+      "word": "夫妻俩因为同一个习惯双双确诊食管癌",
+      "onboard_time": 1741872985,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 527935,
       "num": 561163,
       "word": "141万买二手房原房主拒绝搬家",
       "onboard_time": 1741837343,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 498277,
+      "num": 498277,
+      "word": "女生去理发店遇天价烫染花7680元",
+      "onboard_time": 1741872565,
+      "rank": 27,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 496223,
@@ -659,6 +691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 388497,
+      "num": 327429,
+      "word": "日本男女在长城上做不雅行为被行拘",
+      "onboard_time": 1741875624,
+      "rank": 15,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 388487,
       "num": 476929,
       "word": "居家养老难题怎么破",
@@ -680,6 +720,14 @@
       "word": "业主不满物业换6100个硬币缴费",
       "onboard_time": 1741830083,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 366867,
+      "num": 316695,
+      "word": "75岁老人情绪失控开法拉利撞残他人",
+      "onboard_time": 1741872804,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -771,14 +819,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 311874,
-      "num": 133581,
-      "word": "金赛纶遗属称将采取一切措施",
-      "onboard_time": 1741873045,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 310531,
       "num": 186609,
       "word": "日本女孩直播时被杀粉丝全程目睹",
@@ -867,20 +907,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 287371,
-      "num": 287371,
-      "word": "刘晓艳让大家别宣传她马拉松2分20秒",
-      "onboard_time": 1741872324,
-      "rank": 44,
-      "category": "教育,运动健身"
-    },
-    {
-      "raw_hot": 284283,
-      "num": 284283,
-      "word": "75岁老人情绪失控开法拉利撞残他人",
-      "onboard_time": 1741872804,
-      "rank": 23,
-      "category": "民生新闻"
+      "raw_hot": 286967,
+      "num": 286967,
+      "word": "杨洋被杨迪直接泼懵了",
+      "onboard_time": 1741875264,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 279215,
@@ -963,12 +995,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 264803,
-      "num": 264803,
-      "word": "夫妻俩因为同一个习惯双双确诊食管癌",
-      "onboard_time": 1741872985,
-      "rank": 24,
-      "category": "民生新闻"
+      "raw_hot": 264474,
+      "num": 264474,
+      "word": "网传赵丽颖新剧三位男主",
+      "onboard_time": 1741875024,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 258925,
@@ -1001,6 +1033,14 @@
       "onboard_time": 1741868425,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 249309,
+      "num": 261657,
+      "word": "章子怡压轴亮相",
+      "onboard_time": 1741870406,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 242376,
@@ -1091,6 +1131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222937,
+      "num": 222937,
+      "word": "哪吒2票房",
+      "onboard_time": 1741874725,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 222670,
       "num": 331726,
       "word": "掌中雀开播",
@@ -1155,6 +1203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215608,
+      "num": 215608,
+      "word": "马天宇开播吧录制路透",
+      "onboard_time": 1741874364,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214039,
       "num": 214039,
       "word": "轩染回归赛场",
@@ -1193,6 +1249,14 @@
       "onboard_time": 1741854324,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 211393,
+      "num": 211393,
+      "word": "吴昕生视频状态",
+      "onboard_time": 1741874543,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 209342,
@@ -1251,14 +1315,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 200783,
-      "num": 261657,
-      "word": "章子怡压轴亮相",
-      "onboard_time": 1741870406,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 200437,
       "num": 200437,
       "word": "天若有情 含金量",
@@ -1289,6 +1345,14 @@
       "onboard_time": 1741857624,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198073,
+      "num": 198073,
+      "word": "王俊凯 贵公子",
+      "onboard_time": 1741874485,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 198061,
@@ -1329,6 +1393,14 @@
       "onboard_time": 1741863684,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195018,
+      "num": 195018,
+      "word": "一个月究竟瘦几斤才科学",
+      "onboard_time": 1741874543,
+      "rank": 37,
+      "category": "运动健身"
     },
     {
       "raw_hot": 194732,
@@ -1555,6 +1627,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 177263,
+      "num": 177263,
+      "word": "为什么这一代年轻人更容易疲倦",
+      "onboard_time": 1741874185,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 176632,
       "num": 235280,
       "word": "谁懂欧豪北上下跪这一下",
@@ -1755,6 +1835,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 163696,
+      "num": 163696,
+      "word": "吉克隽逸穿未公开秀款",
+      "onboard_time": 1741874608,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161950,
       "num": 161950,
       "word": "牡丹牡丹洛阳牡丹牡丹",
@@ -1769,6 +1857,14 @@
       "onboard_time": 1741865725,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161677,
+      "num": 321395,
+      "word": "包上恩工作室声明",
+      "onboard_time": 1741875325,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 161545,
@@ -1817,6 +1913,14 @@
       "onboard_time": 1741851022,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 156248,
+      "num": 304551,
+      "word": "饭店卖麻雀肉DNA测出是鸡肉",
+      "onboard_time": 1741872565,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153198,
@@ -1883,6 +1987,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 144934,
+      "num": 144934,
+      "word": "终于理解反派看女主家庭的感觉了",
+      "onboard_time": 1741875206,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 144889,
       "num": 144889,
       "word": "解说雨童离职",
@@ -1921,6 +2033,22 @@
       "onboard_time": 1741825284,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142779,
+      "num": 297066,
+      "word": "专家称先落实好五天工作制",
+      "onboard_time": 1741872745,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141306,
+      "num": 141306,
+      "word": "董明珠称某科技企业在做流氓行为",
+      "onboard_time": 1741873584,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 141135,
@@ -2252,7 +2380,7 @@
     },
     {
       "raw_hot": 114924,
-      "num": 303389,
+      "num": 335708,
       "word": "夸克",
       "onboard_time": 1741871544,
       "rank": 15,
@@ -2363,6 +2491,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102667,
+      "num": 217966,
+      "word": "网红奶瓶被行政处罚后继续虚假宣传",
+      "onboard_time": 1741874725,
+      "rank": 28,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 102367,
+      "num": 667220,
+      "word": "中国漆器美了千年",
+      "onboard_time": 1741872084,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102181,
       "num": 258363,
       "word": "有夸克最后一道大题有救了",
@@ -2372,7 +2516,7 @@
     },
     {
       "raw_hot": 102104,
-      "num": 178769,
+      "num": 196604,
       "word": "中药泡脚包内药材缺斤少两",
       "onboard_time": 1741871904,
       "rank": 31,
@@ -2491,6 +2635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89344,
+      "num": 196618,
+      "word": "徐孝元拍的王曼昱",
+      "onboard_time": 1741875686,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89125,
       "num": 312510,
       "word": "被Tiffany成都活动闪到",
@@ -2601,14 +2753,6 @@
       "onboard_time": 1741781603,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 81653,
-      "num": 299840,
-      "word": "女生去理发店遇天价烫染花7680元",
-      "onboard_time": 1741872565,
-      "rank": 27,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 81607,
@@ -2867,14 +3011,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 62795,
-      "num": 667220,
-      "word": "中国漆器美了千年",
-      "onboard_time": 1741872084,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 60951,
       "num": 307483,
       "word": "她让体育解说不再只是男声",
@@ -3059,6 +3195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41463,
+      "num": 320535,
+      "word": "特朗普将在白宫会见北约秘书长",
+      "onboard_time": 1741874424,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 41316,
       "num": 51990,
       "word": "没人说嘘国王在冬眠这么好笑啊",
@@ -3097,14 +3241,6 @@
       "onboard_time": 1741861463,
       "rank": 32,
       "category": "教育"
-    },
-    {
-      "raw_hot": 38552,
-      "num": 304551,
-      "word": "饭店卖麻雀肉DNA测出是鸡肉",
-      "onboard_time": 1741872565,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 36862,
@@ -3193,14 +3329,6 @@
       "onboard_time": 1741839084,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 29533,
-      "num": 297066,
-      "word": "专家称先落实好五天工作制",
-      "onboard_time": 1741872745,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 28849,
