@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741880478293,
+  "endTime": 1741883456293,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -3091,6 +3091,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 864349,
+      "num": 328136,
+      "word": "穆婷婷退圈的原因",
+      "onboard_time": 1741879104,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 864154,
       "num": 356695,
       "word": "浪姐6一公淘汰",
@@ -4873,14 +4881,6 @@
       "onboard_time": 1741863564,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 619273,
-      "num": 328136,
-      "word": "穆婷婷退圈的原因",
-      "onboard_time": 1741879104,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 617690,
@@ -8577,6 +8577,14 @@
       "onboard_time": 1741605204,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 366760,
+      "num": 366760,
+      "word": "台湾是全体中国人的台湾",
+      "onboard_time": 1741881021,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 365947,
@@ -13347,6 +13355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 233316,
+      "num": 233316,
+      "word": "正告赖清德当局玩火者必自焚",
+      "onboard_time": 1741880183,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 233160,
       "num": 315641,
       "word": "欧豪多上上网吧",
@@ -14859,6 +14875,14 @@
       "category": "游戏,美食"
     },
     {
+      "raw_hot": 210630,
+      "num": 210630,
+      "word": "暗星拍的王俊凯",
+      "onboard_time": 1741881082,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210593,
       "num": 240910,
       "word": "TREASURE回归新歌MV",
@@ -15817,6 +15841,14 @@
       "onboard_time": 1740785175,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201392,
+      "num": 201392,
+      "word": "吴宣仪浪姐6挑染造型",
+      "onboard_time": 1741880482,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 201301,
@@ -16833,6 +16865,14 @@
       "onboard_time": 1741490062,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192662,
+      "num": 192662,
+      "word": "王源怎么还有力气晨跑的",
+      "onboard_time": 1741882222,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 192607,
@@ -29859,14 +29899,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 105295,
-      "num": 105295,
-      "word": "正告赖清德当局玩火者必自焚",
-      "onboard_time": 1741880183,
-      "rank": 47,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 105272,
       "num": 166414,
       "word": "代表说带村民挣钱就是头等大事",
@@ -33435,6 +33467,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 78912,
+      "num": 231752,
+      "word": "快递称活体宠物网点敢收就能寄",
+      "onboard_time": 1741879644,
+      "rank": 18,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 78819,
       "num": 78819,
       "word": "欧冠联赛",
@@ -33745,6 +33785,14 @@
       "onboard_time": 1740870193,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 75167,
+      "num": 75167,
+      "word": "韩国15岁以下女团选秀节目遭抵制",
+      "onboard_time": 1741882520,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 75158,
@@ -35393,6 +35441,14 @@
       "onboard_time": 1741529424,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 57702,
+      "num": 75004,
+      "word": "侯明昊这转扇转到我心里去了",
+      "onboard_time": 1741880963,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 57578,
@@ -37587,14 +37643,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 38341,
-      "num": 231752,
-      "word": "快递称活体宠物网点敢收就能寄",
-      "onboard_time": 1741879644,
-      "rank": 18,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 38214,
       "num": 78608,
       "word": "想飞的女孩",
@@ -38041,6 +38089,14 @@
       "onboard_time": 1741341383,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34593,
+      "num": 136284,
+      "word": "贾明儒绝杀",
+      "onboard_time": 1741882281,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 34461,
