@@ -1,6 +1,6 @@
 {
   "startTime": 1741883456293,
-  "endTime": 1741905571983,
+  "endTime": 1741908151336,
   "band_list": [
     {
       "raw_hot": 2022510,
@@ -11,6 +11,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1016562,
+      "num": 788609,
+      "word": "小学老师解聘后在校门口卖火鸡面",
+      "onboard_time": 1741877963,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 864349,
       "num": 243897,
       "word": "穆婷婷退圈的原因",
@@ -19,20 +27,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 788609,
-      "num": 788609,
-      "word": "小学老师解聘后在校门口卖火鸡面",
-      "onboard_time": 1741877963,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 714965,
       "num": 714965,
       "word": "请回答1988珍珠参加选秀",
       "onboard_time": 1741878863,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 507541,
+      "num": 507541,
+      "word": "普京表示俄罗斯同意停火30天",
+      "onboard_time": 1741885217,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 461405,
@@ -99,7 +107,15 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 230508,
+      "raw_hot": 244420,
+      "num": 50083,
+      "word": "不戴手套处理海鲜致死率或达100%",
+      "onboard_time": 1741907358,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 230576,
       "num": 173495,
       "word": "夫妻俩因为同一个习惯双双确诊食管癌",
       "onboard_time": 1741872985,
@@ -113,14 +129,6 @@
       "onboard_time": 1741856125,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 214460,
-      "num": 214460,
-      "word": "普京表示俄罗斯同意停火30天",
-      "onboard_time": 1741885217,
-      "rank": 13,
-      "category": "国际时政"
     },
     {
       "raw_hot": 210630,
@@ -137,6 +145,14 @@
       "onboard_time": 1741875264,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208272,
+      "num": 208272,
+      "word": "郑钦文0比2斯瓦泰克",
+      "onboard_time": 1741900874,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 201392,
@@ -163,12 +179,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 187945,
+      "num": 129172,
+      "word": "金秀贤",
+      "onboard_time": 1741903034,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179541,
       "num": 179541,
       "word": "刘晓艳让大家别宣传她马拉松2分20秒",
       "onboard_time": 1741872324,
       "rank": 19,
       "category": "教育,运动健身"
+    },
+    {
+      "raw_hot": 171381,
+      "num": 128655,
+      "word": "36名男子被诱导买房有15名女销售参与",
+      "onboard_time": 1741879704,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159907,
@@ -195,12 +227,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126711,
-      "num": 80242,
-      "word": "郑钦文0比2斯瓦泰克",
-      "onboard_time": 1741900874,
-      "rank": 23,
-      "category": "体育"
+      "raw_hot": 145399,
+      "num": 124125,
+      "word": "男子闲鱼代订海底捞补偿遇阻",
+      "onboard_time": 1741864643,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143459,
+      "num": 143459,
+      "word": "所有学生本硕博连读不用内卷",
+      "onboard_time": 1741877963,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 135413,
+      "num": 135413,
+      "word": "男子回应从老师跨行校门口卖火鸡面",
+      "onboard_time": 1741906097,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123191,
@@ -211,12 +259,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 122505,
-      "num": 122505,
-      "word": "所有学生本硕博连读不用内卷",
-      "onboard_time": 1741877963,
-      "rank": 26,
-      "category": "教育"
+      "raw_hot": 122659,
+      "num": 122659,
+      "word": "穆婷婷早期微博经常艾特乔振宇",
+      "onboard_time": 1741862544,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 120340,
@@ -227,26 +275,10 @@
       "category": "财经"
     },
     {
-      "raw_hot": 109941,
-      "num": 109941,
-      "word": "36名男子被诱导买房有15名女销售参与",
-      "onboard_time": 1741879704,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 100247,
       "num": 100247,
       "word": "金赛纶打工事件素材原主人发声",
       "onboard_time": 1741884379,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 98436,
-      "num": 98436,
-      "word": "穆婷婷早期微博经常艾特乔振宇",
-      "onboard_time": 1741862544,
       "rank": 31,
       "category": "艺人"
     },
@@ -291,6 +323,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85937,
+      "num": 85937,
+      "word": "2岁女童总吃不饱饭量堪比成年人",
+      "onboard_time": 1741867764,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84708,
+      "num": 84708,
+      "word": "专家称4.5天工作制不能一刀切",
+      "onboard_time": 1741887436,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84171,
       "num": 84171,
       "word": "羽衣甘蓝饮品真的能减肥吗",
@@ -313,14 +361,6 @@
       "onboard_time": 1741885399,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 82471,
-      "num": 79463,
-      "word": "金秀贤",
-      "onboard_time": 1741903034,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 81040,
@@ -363,28 +403,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 76338,
-      "num": 76338,
-      "word": "男子闲鱼代订海底捞补偿遇阻",
-      "onboard_time": 1741864643,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 76137,
-      "num": 76137,
-      "word": "2岁女童总吃不饱饭量堪比成年人",
-      "onboard_time": 1741867764,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 75084,
       "num": 75084,
       "word": "男子开网约车半月到手工资仅400元",
       "onboard_time": 1741875024,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72949,
+      "num": 72949,
+      "word": "浪琴回应到期不续赵丽颖传闻",
+      "onboard_time": 1741907960,
+      "rank": 26,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 72333,
@@ -403,6 +435,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 68629,
+      "num": 68929,
+      "word": "哪吒2票房",
+      "onboard_time": 1741874725,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 67422,
       "num": 75056,
       "word": "网传赵丽颖新剧三位男主",
@@ -417,6 +457,22 @@
       "onboard_time": 1741874543,
       "rank": 46,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 61340,
+      "num": 61340,
+      "word": "高端穿戴甲在海外卖爆了",
+      "onboard_time": 1741883480,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 58791,
+      "num": 58791,
+      "word": "车祸现场睡衣护士跪地救人",
+      "onboard_time": 1741895354,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58516,
@@ -459,6 +515,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 50218,
+      "num": 303596,
+      "word": "以旧换新扩围引领消费热潮",
+      "onboard_time": 1741871603,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49417,
       "num": 743420,
       "word": "中国漆器美了千年",
@@ -467,20 +531,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40146,
-      "num": 51595,
-      "word": "专家称4.5天工作制不能一刀切",
-      "onboard_time": 1741887436,
-      "rank": 40,
+      "raw_hot": 48763,
+      "num": 50095,
+      "word": "董浩叔叔寻人仅48小时就成功了",
+      "onboard_time": 1741893314,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 37483,
-      "num": 43007,
-      "word": "高端穿戴甲在海外卖爆了",
-      "onboard_time": 1741883480,
+      "raw_hot": 47336,
+      "num": 50090,
+      "word": "中南大回应六旬教授考核不合格",
+      "onboard_time": 1741893854,
       "rank": 46,
-      "category": "美妆"
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 37945,
+      "num": 123094,
+      "word": "俄罗斯恐难接受临时停火",
+      "onboard_time": 1741907778,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 36642,
@@ -491,14 +563,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 34805,
-      "num": 38094,
-      "word": "哪吒2票房",
-      "onboard_time": 1741874725,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 34593,
       "num": 136284,
       "word": "贾明儒绝杀",
@@ -507,44 +571,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 30024,
-      "num": 30024,
-      "word": "车祸现场睡衣护士跪地救人",
-      "onboard_time": 1741895354,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27466,
-      "num": 27466,
-      "word": "中南大回应六旬教授考核不合格",
-      "onboard_time": 1741893854,
-      "rank": 46,
-      "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 26276,
-      "num": 26276,
-      "word": "董浩叔叔寻人仅48小时就成功了",
-      "onboard_time": 1741893314,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 25754,
       "num": 67431,
       "word": "中俄伊北京会晤是中方最新外交努力",
       "onboard_time": 1741877664,
       "rank": 23,
       "category": "国内时政,国际时政"
-    },
-    {
-      "raw_hot": 23514,
-      "num": 271620,
-      "word": "以旧换新扩围引领消费热潮",
-      "onboard_time": 1741871603,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22082,
