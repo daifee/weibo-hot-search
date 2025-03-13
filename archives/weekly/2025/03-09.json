@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741875788255,
+  "endTime": 1741876916644,
   "band_list": [
     {
       "raw_hot": 21330054,
@@ -193,6 +193,14 @@
       "onboard_time": 1741768582,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2115223,
+      "num": 327429,
+      "word": "日本男女在长城上做不雅行为被行拘",
+      "onboard_time": 1741875624,
+      "rank": 15,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 2078595,
@@ -2739,6 +2747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 444408,
+      "num": 424202,
+      "word": "杨洋被杨迪直接泼懵了",
+      "onboard_time": 1741875264,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 443377,
       "num": 443377,
       "word": "热巴周也陈星旭王子文同框",
@@ -3203,14 +3219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 388497,
-      "num": 327429,
-      "word": "日本男女在长城上做不雅行为被行拘",
-      "onboard_time": 1741875624,
-      "rank": 15,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 388487,
       "num": 476929,
       "word": "居家养老难题怎么破",
@@ -3323,6 +3331,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 371482,
+      "num": 316695,
+      "word": "75岁老人情绪失控开法拉利撞残他人",
+      "onboard_time": 1741872804,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 371416,
       "num": 371416,
       "word": "超600吨黄金流入美国",
@@ -3376,14 +3392,6 @@
       "word": "海底捞将起诉向火锅内小便男子",
       "onboard_time": 1741605204,
       "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 366867,
-      "num": 316695,
-      "word": "75岁老人情绪失控开法拉利撞残他人",
-      "onboard_time": 1741872804,
-      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -4347,14 +4355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 286967,
-      "num": 286967,
-      "word": "杨洋被杨迪直接泼懵了",
-      "onboard_time": 1741875264,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 286563,
       "num": 286563,
       "word": "赵樱子谈及原生家庭崩溃大哭",
@@ -4464,6 +4464,14 @@
       "word": "王源有一种气血很足的帅",
       "onboard_time": 1741710440,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 276605,
+      "num": 321395,
+      "word": "包上恩工作室声明",
+      "onboard_time": 1741875325,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -4785,6 +4793,14 @@
       "onboard_time": 1741700424,
       "rank": 33,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 259412,
+      "num": 259412,
+      "word": "金赛纶来中国拍过电影",
+      "onboard_time": 1741876104,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 258925,
@@ -5403,6 +5419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224133,
+      "num": 224133,
+      "word": "哪吒2票房",
+      "onboard_time": 1741874725,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 223913,
       "num": 203493,
       "word": "杨幂ccd镜头",
@@ -5425,14 +5449,6 @@
       "onboard_time": 1741532604,
       "rank": 23,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 222937,
-      "num": 222937,
-      "word": "哪吒2票房",
-      "onboard_time": 1741874725,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 222906,
@@ -6537,6 +6553,14 @@
       "onboard_time": 1741659982,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191385,
+      "num": 191385,
+      "word": "发胖前的3大征兆",
+      "onboard_time": 1741875865,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 191080,
@@ -7715,6 +7739,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 165905,
+      "num": 165905,
+      "word": "AG33联赛1500淘汰",
+      "onboard_time": 1741876824,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 165868,
       "num": 165868,
       "word": "13位明星进入教培市场",
@@ -7953,14 +7985,6 @@
       "onboard_time": 1741865725,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 161677,
-      "num": 321395,
-      "word": "包上恩工作室声明",
-      "onboard_time": 1741875325,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 161596,
@@ -8801,6 +8825,14 @@
       "onboard_time": 1741698264,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145482,
+      "num": 192256,
+      "word": "男子开网约车半月到手工资仅400元",
+      "onboard_time": 1741875024,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145303,
@@ -12715,6 +12747,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 86623,
+      "num": 165092,
+      "word": "孙颖莎回应解锁新战绩",
+      "onboard_time": 1741876885,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86453,
       "num": 163894,
       "word": "官方通报杨铭宇黄焖鸡后厨问题",
@@ -13585,6 +13625,14 @@
       "onboard_time": 1741796960,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63847,
+      "num": 309020,
+      "word": "特朗普称欧盟成立是为占美国便宜",
+      "onboard_time": 1741876465,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 63296,
@@ -14736,6 +14784,14 @@
       "word": "渴望自由的年轻人边打零工边找人生",
       "onboard_time": 1741597522,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36395,
+      "num": 290524,
+      "word": "抠小米镀金车标是否构成刑事犯罪",
+      "onboard_time": 1741876044,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -16225,6 +16281,14 @@
       "onboard_time": 1741571179,
       "rank": 19,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 6655,
+      "num": 299786,
+      "word": "男子为骗钱雇群演假扮豪门父母",
+      "onboard_time": 1741832063,
+      "rank": 14,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
