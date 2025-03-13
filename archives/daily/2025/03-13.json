@@ -1,6 +1,6 @@
 {
   "startTime": 1741797038602,
-  "endTime": 1741840130843,
+  "endTime": 1741840970070,
   "band_list": [
     {
       "raw_hot": 3504662,
@@ -16,6 +16,14 @@
       "word": "金赛纶下跪才协商到7亿",
       "onboard_time": 1741830744,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1633551,
+      "num": 1633551,
+      "word": "麦琳道歉",
+      "onboard_time": 1741839324,
+      "rank": 8,
       "category": "艺人"
     },
     {
@@ -35,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1569954,
+      "num": 825534,
+      "word": "穆婷婷说不想和乔振宇再合作",
+      "onboard_time": 1741833683,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1494182,
       "num": 1481081,
       "word": "金秀贤超绝变脸",
@@ -48,14 +64,6 @@
       "word": "穆婷婷说乔振宇专业上差劲",
       "onboard_time": 1741830803,
       "rank": 8,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1420416,
-      "num": 825534,
-      "word": "穆婷婷说不想和乔振宇再合作",
-      "onboard_time": 1741833683,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -99,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1050381,
+      "num": 1050381,
+      "word": "马龙拥抱了马龙",
+      "onboard_time": 1741837522,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1017209,
       "num": 1017209,
       "word": "泰国坠崖案王暖暖孩子查出先心病",
@@ -131,12 +147,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 961556,
-      "num": 961556,
-      "word": "马龙拥抱了马龙",
-      "onboard_time": 1741837522,
-      "rank": 32,
-      "category": "体育"
+      "raw_hot": 906981,
+      "num": 761429,
+      "word": "韩国举办15岁以下女团选秀",
+      "onboard_time": 1741837646,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 870925,
@@ -155,14 +171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 761429,
-      "num": 761429,
-      "word": "韩国举办15岁以下女团选秀",
-      "onboard_time": 1741837646,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 745160,
       "num": 745160,
       "word": "抖音封禁一批炒作炫富账号",
@@ -177,14 +185,6 @@
       "onboard_time": 1741821440,
       "rank": 10,
       "category": "财经"
-    },
-    {
-      "raw_hot": 653676,
-      "num": 653676,
-      "word": "麦琳道歉",
-      "onboard_time": 1741839324,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 641784,
@@ -235,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 527935,
+      "num": 561163,
+      "word": "141万买二手房原房主拒绝搬家",
+      "onboard_time": 1741837343,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 438053,
       "num": 410062,
       "word": "朝海底捞锅底小便男子赔偿或达百万",
@@ -251,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 429803,
+      "num": 429803,
+      "word": "穆婷婷 我讨厌不尊重对手且膨胀的人",
+      "onboard_time": 1741840226,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 426205,
       "num": 186728,
       "word": "晚宴的迪丽热巴",
@@ -264,14 +280,6 @@
       "word": "多名外卖小哥提醒避雷黄焖鸡",
       "onboard_time": 1741769120,
       "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 423438,
-      "num": 561163,
-      "word": "141万买二手房原房主拒绝搬家",
-      "onboard_time": 1741837343,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -313,6 +321,14 @@
       "onboard_time": 1741777704,
       "rank": 42,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 322092,
+      "num": 322092,
+      "word": "王俊凯安排自己座驾送长辈",
+      "onboard_time": 1741840106,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 321908,
@@ -411,8 +427,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 247660,
-      "num": 247660,
+      "raw_hot": 264811,
+      "num": 446975,
       "word": "我国在三维世界造出二维金属材料",
       "onboard_time": 1741839024,
       "rank": 27,
@@ -433,14 +449,6 @@
       "onboard_time": 1741833622,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 218389,
-      "num": 218389,
-      "word": "王俊凯安排自己座驾送长辈",
-      "onboard_time": 1741840106,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 217522,
@@ -475,20 +483,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207685,
+      "num": 207685,
+      "word": "乌方不会承认任何被占领土属于俄罗斯",
+      "onboard_time": 1741837223,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 205880,
       "num": 205880,
       "word": "省考前的最后两天还能做什么",
       "onboard_time": 1741834822,
       "rank": 26,
       "category": "教育"
-    },
-    {
-      "raw_hot": 203035,
-      "num": 203035,
-      "word": "乌方不会承认任何被占领土属于俄罗斯",
-      "onboard_time": 1741837223,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 200437,
@@ -507,20 +515,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 194732,
+      "num": 194732,
+      "word": "黄奕15年后再演港片女主",
+      "onboard_time": 1741838666,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 193211,
       "num": 193211,
       "word": "消费卡挂闲鱼发完密码买家退款",
       "onboard_time": 1741821378,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 189903,
-      "num": 189903,
-      "word": "黄奕15年后再演港片女主",
-      "onboard_time": 1741838666,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 186970,
@@ -571,12 +579,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 176417,
+      "num": 246886,
+      "word": "17岁女主播停播后被索赔25万",
+      "onboard_time": 1741838246,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175701,
       "num": 175701,
       "word": "女子760万买房住了1年发现是凶宅",
       "onboard_time": 1741772843,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 174305,
+      "num": 223696,
+      "word": "张晚意雨中下跪戏浇成凌乱小狗了",
+      "onboard_time": 1741840465,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 174296,
@@ -593,14 +617,6 @@
       "onboard_time": 1741835423,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 171647,
-      "num": 246886,
-      "word": "17岁女主播停播后被索赔25万",
-      "onboard_time": 1741838246,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 171423,
@@ -651,12 +667,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161545,
+      "num": 272435,
+      "word": "秦彻偏色",
+      "onboard_time": 1741837404,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 159232,
       "num": 162429,
       "word": "丁禹兮深夜allblack上班",
       "onboard_time": 1741836984,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157843,
+      "num": 157843,
+      "word": "马琳被曼昱打脑门又被莎莎击肚子",
+      "onboard_time": 1741840645,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 149133,
@@ -707,6 +739,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 134300,
+      "num": 134300,
+      "word": "贝林厄姆怒吼威尼修斯",
+      "onboard_time": 1741840106,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133601,
       "num": 181667,
       "word": "微短剧半壁江山都来了",
@@ -715,8 +755,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131635,
+      "num": 131635,
+      "word": "曹德旺谈中国人和外国人有差距的能力",
+      "onboard_time": 1741840953,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 128482,
-      "num": 190328,
+      "num": 236780,
       "word": "华为1610大开想象",
       "onboard_time": 1741839625,
       "rank": 37,
@@ -745,14 +793,6 @@
       "onboard_time": 1741829783,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 126919,
-      "num": 272435,
-      "word": "秦彻偏色",
-      "onboard_time": 1741837404,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 125805,
@@ -809,14 +849,6 @@
       "onboard_time": 1741837223,
       "rank": 13,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 118968,
-      "num": 118968,
-      "word": "贝林厄姆怒吼威尼修斯",
-      "onboard_time": 1741840106,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 117852,
@@ -1083,6 +1115,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 73394,
+      "num": 490607,
+      "word": "团伙直播间一折卖假冒名牌包被判刑",
+      "onboard_time": 1741839205,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68338,
       "num": 80762,
       "word": "委员谈为什么医生自己不做近视手术",
@@ -1155,12 +1195,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 55509,
-      "num": 486468,
-      "word": "团伙直播间一折卖假冒名牌包被判刑",
-      "onboard_time": 1741839205,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 56287,
+      "num": 433038,
+      "word": "始祖鸟吊牌倒卖背后的灰色产业链",
+      "onboard_time": 1741839385,
+      "rank": 18,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 54303,
@@ -1203,14 +1243,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 43827,
-      "num": 433038,
-      "word": "始祖鸟吊牌倒卖背后的灰色产业链",
-      "onboard_time": 1741839385,
-      "rank": 18,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 43791,
       "num": 335829,
       "word": "梁王说要进步的地方太多了",
@@ -1251,12 +1283,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 36660,
+      "num": 463225,
+      "word": "图片仅供参考不能成为免责借口",
+      "onboard_time": 1741840465,
+      "rank": 13,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 35886,
       "num": 38749,
       "word": "罗云熙申请加入这场光影游戏",
       "onboard_time": 1741799837,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 33513,
+      "num": 143030,
+      "word": "金晨李川孙越AI天团",
+      "onboard_time": 1741840705,
+      "rank": 44,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 31644,
