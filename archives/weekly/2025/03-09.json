@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741822688255,
+  "endTime": 1741830513461,
   "band_list": [
     {
       "raw_hot": 21330054,
@@ -403,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1481081,
+      "num": 1481081,
+      "word": "金秀贤超绝变脸",
+      "onboard_time": 1741826663,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1478776,
       "num": 771807,
       "word": "元彬曾提出帮金赛纶偿还欠款",
@@ -659,6 +667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1107377,
+      "num": 426603,
+      "word": "徐睿知发文",
+      "onboard_time": 1741822099,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1082773,
       "num": 1173243,
       "word": "陪爬泰山小伙称挣钱透支了身体",
@@ -763,6 +779,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 987096,
+      "num": 673041,
+      "word": "黄晓明在线辟谣输了十个亿",
+      "onboard_time": 1741825164,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 984876,
       "num": 352898,
       "word": "女子生完3胎后身高长到178cm",
@@ -860,7 +884,7 @@
     },
     {
       "raw_hot": 931276,
-      "num": 391838,
+      "num": 410062,
       "word": "朝海底捞锅底小便男子赔偿或达百万",
       "onboard_time": 1741788146,
       "rank": 13,
@@ -969,6 +993,14 @@
       "onboard_time": 1741595240,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 848999,
+      "num": 848999,
+      "word": "外卖员从来不碰的外卖有哪些",
+      "onboard_time": 1741823542,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 847471,
@@ -1217,6 +1249,14 @@
       "onboard_time": 1741711639,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 745160,
+      "num": 745160,
+      "word": "抖音封禁一批炒作炫富账号",
+      "onboard_time": 1741826364,
+      "rank": 3,
+      "category": "互联网"
     },
     {
       "raw_hot": 741537,
@@ -1483,6 +1523,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 641784,
+      "num": 641784,
+      "word": "小米SU7Ultra车标中炼出黄金",
+      "onboard_time": 1741826364,
+      "rank": 6,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 641641,
       "num": 509254,
       "word": "原央视主持人赵普回应保安出身",
@@ -1552,6 +1600,14 @@
       "word": "叶璇回应病重父亲遭保姆抢家产",
       "onboard_time": 1741519342,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 628625,
+      "num": 628625,
+      "word": "母亲曝金赛纶被催款细节",
+      "onboard_time": 1741823963,
+      "rank": 7,
       "category": "艺人"
     },
     {
@@ -1657,6 +1713,14 @@
       "onboard_time": 1741586842,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 606331,
+      "num": 86085,
+      "word": "曝金秀贤经纪人强奸了6名女性",
+      "onboard_time": 1741827024,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 604407,
@@ -2091,6 +2155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 472436,
+      "num": 472436,
+      "word": "王大陆入伍",
+      "onboard_time": 1741830023,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 470147,
       "num": 470147,
       "word": "骑自行车的机器人出现了",
@@ -2265,6 +2337,14 @@
       "onboard_time": 1741509801,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 431145,
+      "num": 431145,
+      "word": "男子陷入桃色剧本杀泄露国家秘密",
+      "onboard_time": 1741822761,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 430487,
@@ -2835,14 +2915,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 354412,
-      "num": 184666,
-      "word": "徐睿知发文",
-      "onboard_time": 1741822099,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 352527,
       "num": 352527,
       "word": "业内回应北京别墅被指直降7500万",
@@ -3241,6 +3313,14 @@
       "onboard_time": 1741775064,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 320234,
+      "num": 320234,
+      "word": "19岁女生学校宿舍不幸猝死",
+      "onboard_time": 1741827803,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 320030,
@@ -3755,6 +3835,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 267484,
+      "num": 267484,
+      "word": "春捂是要捂到什么时候",
+      "onboard_time": 1741795762,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 267409,
       "num": 267409,
       "word": "LV大秀",
@@ -3921,6 +4009,14 @@
       "onboard_time": 1741665503,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 258780,
+      "num": 258780,
+      "word": "荡妇羞辱对女性的隐秘围猎",
+      "onboard_time": 1741826485,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 258776,
@@ -4147,6 +4243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 239491,
+      "num": 147747,
+      "word": "秦始皇陵甬道有日本人植树纪念碑",
+      "onboard_time": 1741827803,
+      "rank": 30,
+      "category": "国际时政,国内时政"
+    },
+    {
       "raw_hot": 237986,
       "num": 237986,
       "word": "百万网红千惠自曝患焦虑症",
@@ -4321,14 +4425,6 @@
       "onboard_time": 1741661782,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 227898,
-      "num": 227898,
-      "word": "春捂是要捂到什么时候",
-      "onboard_time": 1741795762,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 227712,
@@ -4649,6 +4745,14 @@
       "onboard_time": 1741739183,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 212411,
+      "num": 212411,
+      "word": "普京称要彻底夺回库尔斯克地区",
+      "onboard_time": 1741822642,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 212120,
@@ -5555,6 +5659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180779,
+      "num": 180779,
+      "word": "接美国流浪宇航员的发射取消了",
+      "onboard_time": 1741823241,
+      "rank": 19,
+      "category": "国际时政,国际时政"
+    },
+    {
       "raw_hot": 180769,
       "num": 180769,
       "word": "商家回应顾客称在粥里吃出针头",
@@ -6203,6 +6315,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 164310,
+      "num": 164310,
+      "word": "43岁孙艺珍背部线条",
+      "onboard_time": 1741827145,
+      "rank": 21,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 164097,
       "num": 217610,
       "word": "李兰迪演技",
@@ -6516,7 +6636,7 @@
     },
     {
       "raw_hot": 157123,
-      "num": 670458,
+      "num": 788988,
       "word": "2025政府工作报告全文",
       "onboard_time": 1741776686,
       "rank": 32,
@@ -6704,6 +6824,14 @@
       "word": "衢州再通报男子虐猫致死",
       "onboard_time": 1741581563,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153521,
+      "num": 153521,
+      "word": "牡丹牡丹洛阳牡丹牡丹",
+      "onboard_time": 1741827024,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -7163,6 +7291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143148,
+      "num": 152590,
+      "word": "朴宝剑IU新剧",
+      "onboard_time": 1741825284,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143113,
       "num": 287451,
       "word": "河山锦绣",
@@ -7329,6 +7465,14 @@
       "onboard_time": 1741757065,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139874,
+      "num": 153522,
+      "word": "用汉字打开春暖花开",
+      "onboard_time": 1741827145,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139758,
@@ -8315,6 +8459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122597,
+      "num": 122597,
+      "word": "马斯克宣布向特朗普团队再捐1亿美元",
+      "onboard_time": 1741830083,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 122575,
       "num": 122575,
       "word": "沈奕斐工作就是出卖自我",
@@ -8425,6 +8577,14 @@
       "onboard_time": 1741766723,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120417,
+      "num": 150075,
+      "word": "迪丽热巴陈星旭大理同框",
+      "onboard_time": 1741828343,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 120297,
@@ -8721,6 +8881,14 @@
       "onboard_time": 1741577601,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 116130,
+      "num": 116130,
+      "word": "96年夫妻每天设计1000大卡减脂餐",
+      "onboard_time": 1741827323,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 116035,
@@ -9035,6 +9203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111792,
+      "num": 111792,
+      "word": "减肥时主食有3个黄金等级",
+      "onboard_time": 1741811953,
+      "rank": 45,
+      "category": "健康医疗,运动健身"
+    },
+    {
       "raw_hot": 111544,
       "num": 111544,
       "word": "杭州六小龙让广东兄弟摩拳擦掌",
@@ -9195,6 +9371,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 109702,
+      "num": 109702,
+      "word": "金赛纶曾对金秀贤说不要拿小孩开玩笑",
+      "onboard_time": 1741823482,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109640,
       "num": 109640,
       "word": "似锦当场戳破7年虚假夫妻情",
@@ -9313,6 +9497,14 @@
       "onboard_time": 1741501521,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 107689,
+      "num": 107689,
+      "word": "业主不满物业换6100个硬币缴费",
+      "onboard_time": 1741830083,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107445,
@@ -9601,6 +9793,14 @@
       "onboard_time": 1741658782,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101843,
+      "num": 101843,
+      "word": "英特尔宣布换帅",
+      "onboard_time": 1741830083,
+      "rank": 41,
+      "category": "互联网"
     },
     {
       "raw_hot": 101712,
@@ -9897,6 +10097,14 @@
       "onboard_time": 1741620202,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97784,
+      "num": 97784,
+      "word": "俄称已夺回86%库尔斯克州领土",
+      "onboard_time": 1741824742,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 97609,
@@ -10275,6 +10483,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 89976,
+      "num": 89976,
+      "word": "几十元平替小米2000元车标或侵权",
+      "onboard_time": 1741829541,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89973,
       "num": 89973,
       "word": "植树节",
@@ -10451,6 +10667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86107,
+      "num": 86107,
+      "word": "雷霆vs凯尔特人",
+      "onboard_time": 1741830083,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85854,
       "num": 85854,
       "word": "Creme谈Kanavi和Tian的区别",
@@ -10507,12 +10731,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 84094,
+      "num": 84094,
+      "word": "羽绒服可以机洗吗",
+      "onboard_time": 1741796002,
+      "rank": 45,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 83463,
       "num": 83463,
       "word": "滤镜加更",
       "onboard_time": 1741523542,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 83406,
+      "num": 83406,
+      "word": "福耀科技大学校长王树国0工资",
+      "onboard_time": 1741828222,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 83275,
@@ -10675,6 +10915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 78744,
+      "num": 78744,
+      "word": "华为新品发布会官宣",
+      "onboard_time": 1741830443,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 78504,
       "num": 78504,
       "word": "虞书欣 剧粉大人们我们努力了",
@@ -10801,6 +11049,14 @@
       "onboard_time": 1741602201,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 74745,
+      "num": 153556,
+      "word": "欧冠八强对阵正式出炉",
+      "onboard_time": 1741826364,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 74653,
@@ -10969,14 +11225,6 @@
       "onboard_time": 1741734859,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 69014,
-      "num": 80769,
-      "word": "羽绒服可以机洗吗",
-      "onboard_time": 1741796002,
-      "rank": 45,
-      "category": "科学科普"
     },
     {
       "raw_hot": 68494,
@@ -11265,14 +11513,6 @@
       "onboard_time": 1741763483,
       "rank": 28,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 56922,
-      "num": 56922,
-      "word": "减肥时主食有3个黄金等级",
-      "onboard_time": 1741811953,
-      "rank": 45,
-      "category": "健康医疗,运动健身"
     },
     {
       "raw_hot": 56809,
@@ -13273,14 +13513,6 @@
       "onboard_time": 1741818917,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 8705,
-      "num": 56336,
-      "word": "普京称要彻底夺回库尔斯克地区",
-      "onboard_time": 1741822642,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 6871,
