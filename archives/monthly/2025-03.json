@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741893581322,
+  "endTime": 1741894597068,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -40115,6 +40115,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 20396,
+      "num": 20396,
+      "word": "董浩叔叔寻人仅48小时就成功了",
+      "onboard_time": 1741893314,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20341,
       "num": 36939,
       "word": "加油站员工1秒切换灭火模式",
@@ -40915,12 +40923,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14527,
+      "num": 16436,
+      "word": "努力是对梦想的尊重",
+      "onboard_time": 1741885217,
+      "rank": 45,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 14431,
       "num": 231409,
       "word": "38礼物忘买救场还得看某东",
       "onboard_time": 1741313541,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14353,
+      "num": 16435,
+      "word": "中南大回应六旬教授考核不合格",
+      "onboard_time": 1741893854,
+      "rank": 46,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 14305,
@@ -40945,14 +40969,6 @@
       "onboard_time": 1741723334,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 14138,
-      "num": 16557,
-      "word": "董浩叔叔寻人仅48小时就成功了",
-      "onboard_time": 1741893314,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14121,

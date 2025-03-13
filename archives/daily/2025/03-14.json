@@ -1,6 +1,6 @@
 {
   "startTime": 1741883456293,
-  "endTime": 1741893581322,
+  "endTime": 1741894597068,
   "band_list": [
     {
       "raw_hot": 2022510,
@@ -491,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20396,
+      "num": 20396,
+      "word": "董浩叔叔寻人仅48小时就成功了",
+      "onboard_time": 1741893314,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18051,
       "num": 24310,
       "word": "哪吒2票房",
@@ -523,12 +531,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14138,
-      "num": 16557,
-      "word": "董浩叔叔寻人仅48小时就成功了",
-      "onboard_time": 1741893314,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 14527,
+      "num": 16436,
+      "word": "努力是对梦想的尊重",
+      "onboard_time": 1741885217,
+      "rank": 45,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 14353,
+      "num": 16435,
+      "word": "中南大回应六旬教授考核不合格",
+      "onboard_time": 1741893854,
+      "rank": 46,
+      "category": "辟谣/通报"
     }
   ],
   "hotgov_list": [

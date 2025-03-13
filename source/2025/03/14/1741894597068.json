@@ -1,0 +1,410 @@
+{
+  "runTime": 1741894597068,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 259115,
+        "num": 259115,
+        "word": "中国台湾省",
+        "onboard_time": 1741880183,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 91270,
+        "num": 91270,
+        "word": "台湾是全体中国人的台湾",
+        "onboard_time": 1741881021,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 11945,
+        "num": 76139,
+        "word": "以旧换新扩围引领消费热潮",
+        "onboard_time": 1741871603,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68880,
+        "num": 68880,
+        "word": "小学老师解聘后在校门口卖火鸡面",
+        "onboard_time": 1741877963,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65685,
+        "num": 65685,
+        "word": "如台独突破红线我们将采取断然措施",
+        "onboard_time": 1741877904,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 61375,
+        "num": 61375,
+        "word": "普京表示俄罗斯同意停火30天",
+        "onboard_time": 1741885217,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 51537,
+        "num": 51537,
+        "word": "正告赖清德当局玩火者必自焚",
+        "onboard_time": 1741880183,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 49905,
+        "num": 49905,
+        "word": "请回答1988珍珠参加选秀",
+        "onboard_time": 1741878863,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49442,
+        "num": 49442,
+        "word": "惠州回应36名男子被刘佳诱导买房",
+        "onboard_time": 1741877904,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 45461,
+        "num": 45461,
+        "word": "虞书欣欧阳娜娜回应鹿小葵式演技",
+        "onboard_time": 1741878322,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96760,
+        "num": 45327,
+        "word": "穆婷婷退圈的原因",
+        "onboard_time": 1741879104,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53371,
+        "num": 44303,
+        "word": "权志龙点赞金秀贤下车ins",
+        "onboard_time": 1741866324,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51154,
+        "num": 43582,
+        "word": "顾客获6千退款才知海底捞小便事件",
+        "onboard_time": 1741856125,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41313,
+        "num": 41313,
+        "word": "董明珠暗讽有人靠炒高股价成了首富",
+        "onboard_time": 1741852882,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 39010,
+        "num": 39010,
+        "word": "祖国必然统一",
+        "onboard_time": 1741877904,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 37939,
+        "num": 37939,
+        "word": "王源怎么还有力气晨跑的",
+        "onboard_time": 1741882222,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 41042,
+        "num": 37211,
+        "word": "虞书欣ins取关金秀贤",
+        "onboard_time": 1741852343,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33547,
+        "num": 33547,
+        "word": "7万多网购到瑕疵手镯获3倍赔偿",
+        "onboard_time": 1741885399,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30666,
+        "num": 30666,
+        "word": "赵露思恋人 不复拍",
+        "onboard_time": 1741860204,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28231,
+        "num": 28231,
+        "word": "乔欣 赖柏霖",
+        "onboard_time": 1741857924,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37887,
+        "num": 28051,
+        "word": "夫妻俩因为同一个习惯双双确诊食管癌",
+        "onboard_time": 1741872985,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34444,
+        "num": 28020,
+        "word": "75岁老人情绪失控开法拉利撞残他人",
+        "onboard_time": 1741872804,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28533,
+        "num": 27823,
+        "word": "老人将密码告诉侄孙6万多存款剩33",
+        "onboard_time": 1741863924,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26854,
+        "num": 26854,
+        "word": "男子闲鱼代订海底捞补偿遇阻",
+        "onboard_time": 1741864643,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24458,
+        "num": 24458,
+        "word": "36名男子被诱导买房有15名女销售参与",
+        "onboard_time": 1741879704,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23067,
+        "num": 23067,
+        "word": "母鸡卡",
+        "onboard_time": 1741878084,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 23060,
+        "num": 23060,
+        "word": "金赛纶打工事件素材原主人发声",
+        "onboard_time": 1741884379,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21817,
+        "num": 21817,
+        "word": "网购中药泡脚包检出大量病菌",
+        "onboard_time": 1741867523,
+        "rank": 27,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 19868,
+        "num": 21244,
+        "word": "王俊凯迪奥唯一胸针",
+        "onboard_time": 1741868123,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 16190,
+        "num": 21060,
+        "word": "吴宣仪浪姐6挑染造型",
+        "onboard_time": 1741880482,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21052,
+        "num": 21052,
+        "word": "穆婷婷早期微博经常艾特乔振宇",
+        "onboard_time": 1741862544,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20396,
+        "num": 20396,
+        "word": "董浩叔叔寻人仅48小时就成功了",
+        "onboard_time": 1741893314,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20189,
+        "num": 20189,
+        "word": "男子开网约车半月到手工资仅400元",
+        "onboard_time": 1741875024,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19408,
+        "num": 19408,
+        "word": "高端穿戴甲在海外卖爆了",
+        "onboard_time": 1741883480,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 17163,
+        "num": 17163,
+        "word": "扎西顿珠官宣结婚",
+        "onboard_time": 1741869983,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17026,
+        "num": 17026,
+        "word": "呼和浩特生育三孩发10万",
+        "onboard_time": 1741866565,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16986,
+        "num": 16986,
+        "word": "刘晓艳让大家别宣传她马拉松2分20秒",
+        "onboard_time": 1741872324,
+        "rank": 36,
+        "category": "教育,运动健身"
+      },
+      {
+        "raw_hot": 16736,
+        "num": 16736,
+        "word": "所有学生本硕博连读不用内卷",
+        "onboard_time": 1741877963,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 16602,
+        "num": 16602,
+        "word": "2岁女童总吃不饱饭量堪比成年人",
+        "onboard_time": 1741867764,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16557,
+        "num": 16557,
+        "word": "羽衣甘蓝饮品真的能减肥吗",
+        "onboard_time": 1741860502,
+        "rank": 39,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 16555,
+        "num": 16555,
+        "word": "专家称4.5天工作制不能一刀切",
+        "onboard_time": 1741887436,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16444,
+        "num": 16444,
+        "word": "发胖前的3大征兆",
+        "onboard_time": 1741875865,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 16206,
+        "num": 16444,
+        "word": "暗星拍的王俊凯",
+        "onboard_time": 1741881082,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15932,
+        "num": 16440,
+        "word": "杨幂苹果头像",
+        "onboard_time": 1741860264,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15528,
+        "num": 16438,
+        "word": "韩国15岁以下女团选秀节目遭抵制",
+        "onboard_time": 1741882520,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14527,
+        "num": 16436,
+        "word": "努力是对梦想的尊重",
+        "onboard_time": 1741885217,
+        "rank": 45,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 14353,
+        "num": 16435,
+        "word": "中南大回应六旬教授考核不合格",
+        "onboard_time": 1741893854,
+        "rank": 46,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 14099,
+        "num": 16434,
+        "word": "哪吒2票房",
+        "onboard_time": 1741874725,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 12908,
+        "num": 16431,
+        "word": "总经理回应杨铭宇黄焖鸡后厨乱象",
+        "onboard_time": 1741883540,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13929,
+        "num": 16430,
+        "word": "哪吒2烂番茄开分",
+        "onboard_time": 1741867225,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025奋进中国#"
+    }
+  }
+}
