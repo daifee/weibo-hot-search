@@ -1,10 +1,10 @@
 {
   "startTime": 1741797038602,
-  "endTime": 1741850546792,
+  "endTime": 1741851331908,
   "band_list": [
     {
       "raw_hot": 3575207,
-      "num": 312561,
+      "num": 317509,
       "word": "元斌与金赛纶的最后通话记录",
       "onboard_time": 1741847421,
       "rank": 13,
@@ -131,6 +131,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1115072,
+      "num": 1115072,
+      "word": "国王剧情 平淡",
+      "onboard_time": 1741847363,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1107377,
       "num": 488260,
       "word": "徐睿知发文",
@@ -169,6 +177,14 @@
       "onboard_time": 1741837522,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 990487,
+      "num": 1158477,
+      "word": "烤匠 排队",
+      "onboard_time": 1741847664,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 987096,
@@ -211,20 +227,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 802791,
-      "num": 802791,
-      "word": "国王剧情 平淡",
-      "onboard_time": 1741847363,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 745160,
       "num": 745160,
       "word": "抖音封禁一批炒作炫富账号",
       "onboard_time": 1741826364,
       "rank": 3,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 706162,
+      "num": 265125,
+      "word": "上海偷完LV爱马仕又去杭州偷Gucci",
+      "onboard_time": 1741849044,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 697708,
@@ -235,28 +251,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 680048,
-      "num": 261096,
-      "word": "上海偷完LV爱马仕又去杭州偷Gucci",
-      "onboard_time": 1741849044,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 679799,
       "num": 1108767,
       "word": "公司回应广告牌上女士有6根手指",
       "onboard_time": 1741844483,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 675031,
-      "num": 675031,
-      "word": "烤匠 排队",
-      "onboard_time": 1741847664,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 641784,
@@ -379,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 408179,
+      "num": 408179,
+      "word": "火爆全网的干噎酸奶是科技狠活吗",
+      "onboard_time": 1741847183,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 390707,
       "num": 390707,
       "word": "广州一老干局招聘要求年龄50岁以上",
@@ -395,19 +403,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 387223,
+      "num": 387223,
+      "word": "周思成喊话田静",
+      "onboard_time": 1741850363,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 369363,
       "num": 369363,
       "word": "业主不满物业换6100个硬币缴费",
       "onboard_time": 1741830083,
       "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 363957,
-      "num": 363957,
-      "word": "火爆全网的干噎酸奶是科技狠活吗",
-      "onboard_time": 1741847183,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -419,8 +427,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 333369,
-      "num": 333369,
+      "raw_hot": 337167,
+      "num": 337167,
       "word": "阿里AI旗舰应用夸克全面升级",
       "onboard_time": 1741849403,
       "rank": 8,
@@ -555,20 +563,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 265058,
+      "num": 265058,
+      "word": "孙颖莎小手一指全场瞬间安静",
+      "onboard_time": 1741848563,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 264811,
       "num": 446975,
       "word": "我国在三维世界造出二维金属材料",
       "onboard_time": 1741839024,
       "rank": 27,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 260987,
-      "num": 260987,
-      "word": "孙颖莎小手一指全场瞬间安静",
-      "onboard_time": 1741848563,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 258405,
@@ -595,8 +603,8 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 229636,
-      "num": 229636,
+      "raw_hot": 230028,
+      "num": 230028,
       "word": "宝宝急得第一次叫出妈妈",
       "onboard_time": 1741845803,
       "rank": 35,
@@ -707,12 +715,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 200903,
+      "num": 318437,
+      "word": "夸克AI超级框",
+      "onboard_time": 1741850244,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 200437,
       "num": 200437,
       "word": "天若有情 含金量",
       "onboard_time": 1741790005,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199757,
+      "num": 199757,
+      "word": "特朗普称若俄拒签停火协议将搞垮其经济",
+      "onboard_time": 1741850423,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 199668,
+      "num": 199668,
+      "word": "原来热暴力比冷暴力有用",
+      "onboard_time": 1741850423,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 198061,
@@ -772,11 +804,19 @@
     },
     {
       "raw_hot": 187661,
-      "num": 205827,
+      "num": 225092,
       "word": "卫枝人设",
       "onboard_time": 1741847002,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187400,
+      "num": 281563,
+      "word": "记者暗访揭黄金造假乱象",
+      "onboard_time": 1741848443,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 186983,
@@ -828,7 +868,7 @@
     },
     {
       "raw_hot": 183804,
-      "num": 183804,
+      "num": 227803,
       "word": "麦琳道歉了",
       "onboard_time": 1741849463,
       "rank": 27,
@@ -899,6 +939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174885,
+      "num": 246723,
+      "word": "机场广告牌上女士有6根手指",
+      "onboard_time": 1741847901,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174305,
       "num": 223696,
       "word": "张晚意雨中下跪戏浇成凌乱小狗了",
@@ -955,14 +1003,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 171068,
-      "num": 246723,
-      "word": "机场广告牌上女士有6根手指",
-      "onboard_time": 1741847901,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 170802,
       "num": 170802,
       "word": "马琳被曼昱打脑门又被莎莎击肚子",
@@ -995,12 +1035,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 166830,
-      "num": 166830,
-      "word": "特朗普称若俄拒签停火协议将搞垮其经济",
-      "onboard_time": 1741850423,
-      "rank": 31,
-      "category": "国际时政"
+      "raw_hot": 165107,
+      "num": 165107,
+      "word": "医生谈跑步对中年人意味着什么",
+      "onboard_time": 1741850962,
+      "rank": 38,
+      "category": "运动健身"
     },
     {
       "raw_hot": 164310,
@@ -1017,14 +1057,6 @@
       "onboard_time": 1741827024,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 161613,
-      "num": 161613,
-      "word": "周思成喊话田静",
-      "onboard_time": 1741850363,
-      "rank": 32,
-      "category": "教育"
     },
     {
       "raw_hot": 161545,
@@ -1059,12 +1091,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 149900,
-      "num": 149900,
-      "word": "原来热暴力比冷暴力有用",
-      "onboard_time": 1741850423,
-      "rank": 36,
-      "category": "情感"
+      "raw_hot": 158094,
+      "num": 158094,
+      "word": "李微敖辟谣张继科胜诉",
+      "onboard_time": 1741850962,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 156047,
+      "num": 158639,
+      "word": "夸克AI",
+      "onboard_time": 1741851022,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 149133,
@@ -1131,19 +1171,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 139716,
-      "num": 141881,
-      "word": "夸克AI超级框",
-      "onboard_time": 1741850244,
-      "rank": 39,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 137789,
-      "num": 137789,
+      "num": 166853,
       "word": "主播夸大宣传卖手镯拒不退货",
       "onboard_time": 1741850423,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136870,
+      "num": 265145,
+      "word": "谈新对象男子是否消费亡妻才是关键",
+      "onboard_time": 1741849764,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1164,7 +1204,7 @@
     },
     {
       "raw_hot": 134228,
-      "num": 134228,
+      "num": 237136,
       "word": "申裕斌吃到黄牌",
       "onboard_time": 1741847901,
       "rank": 43,
@@ -1209,6 +1249,14 @@
       "onboard_time": 1741829783,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127291,
+      "num": 154882,
+      "word": "白敬亭章若楠明天四手联弹",
+      "onboard_time": 1741845082,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 125805,
@@ -1259,6 +1307,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 122535,
+      "num": 122535,
+      "word": "周德睿被查",
+      "onboard_time": 1741851263,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 122472,
       "num": 122472,
       "word": "6人虚构男子机关年入35万被行拘",
@@ -1272,6 +1328,14 @@
       "word": "ccd拍的黄杨钿甜",
       "onboard_time": 1741843283,
       "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 122244,
+      "num": 178114,
+      "word": "Amiri创始人关注王一博",
+      "onboard_time": 1741851143,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -1289,14 +1353,6 @@
       "onboard_time": 1741837223,
       "rank": 13,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 117921,
-      "num": 117921,
-      "word": "白敬亭章若楠明天四手联弹",
-      "onboard_time": 1741845082,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 117852,
@@ -1401,14 +1457,6 @@
       "onboard_time": 1741830083,
       "rank": 41,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 101381,
-      "num": 281563,
-      "word": "记者暗访揭黄金造假乱象",
-      "onboard_time": 1741848443,
-      "rank": 14,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 98592,
@@ -1715,6 +1763,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 62909,
+      "num": 193449,
+      "word": "一汽丰田汽车越久越值钱",
+      "onboard_time": 1741850543,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 60951,
       "num": 307483,
       "word": "她让体育解说不再只是男声",
@@ -1761,6 +1817,14 @@
       "onboard_time": 1741813815,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44778,
+      "num": 212531,
+      "word": "消费者吐槽机票一买完就降价",
+      "onboard_time": 1741849823,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 44581,
@@ -1851,14 +1915,6 @@
       "category": "艺人,数码"
     },
     {
-      "raw_hot": 32978,
-      "num": 263378,
-      "word": "谈新对象男子是否消费亡妻才是关键",
-      "onboard_time": 1741849764,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 31644,
       "num": 312776,
       "word": "虚拟商品维权为啥这么难",
@@ -1889,14 +1945,6 @@
       "onboard_time": 1741805775,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 27561,
-      "num": 171578,
-      "word": "消费者吐槽机票一买完就降价",
-      "onboard_time": 1741849823,
-      "rank": 29,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 26960,
@@ -1937,6 +1985,14 @@
       "onboard_time": 1741801995,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 20067,
+      "num": 220320,
+      "word": "夸克AI超级框搞定所有事",
+      "onboard_time": 1741850244,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 19981,
@@ -2057,14 +2113,6 @@
       "onboard_time": 1741818917,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 9669,
-      "num": 141891,
-      "word": "夸克AI超级框搞定所有事",
-      "onboard_time": 1741850244,
-      "rank": 38,
-      "category": "互联网"
     }
   ],
   "hotgov_list": [
