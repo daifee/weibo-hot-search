@@ -1,6 +1,6 @@
 {
   "startTime": 1741797038602,
-  "endTime": 1741840970070,
+  "endTime": 1741843389952,
   "band_list": [
     {
       "raw_hot": 3504662,
@@ -19,7 +19,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1633551,
+      "raw_hot": 1790889,
       "num": 1633551,
       "word": "麦琳道歉",
       "onboard_time": 1741839324,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1409889,
+      "num": 1101774,
+      "word": "穆婷婷 我讨厌不尊重对手且膨胀的人",
+      "onboard_time": 1741840226,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1340426,
       "num": 1161629,
       "word": "瑶一瑶小肉包已停更一个月",
@@ -99,6 +107,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1109354,
+      "num": 473937,
+      "word": "穆婷婷说自己的胸比包上恩好看",
+      "onboard_time": 1741843103,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1107377,
       "num": 488260,
       "word": "徐睿知发文",
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 1050381,
-      "num": 1050381,
+      "num": 1136893,
       "word": "马龙拥抱了马龙",
       "onboard_time": 1741837522,
       "rank": 32,
@@ -243,6 +259,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 473482,
+      "num": 473482,
+      "word": "王俊凯安排自己座驾送长辈",
+      "onboard_time": 1741840106,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 438510,
+      "num": 438510,
+      "word": "白敬亭章若楠合影",
+      "onboard_time": 1741841546,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 438053,
       "num": 410062,
       "word": "朝海底捞锅底小便男子赔偿或达百万",
@@ -257,14 +289,6 @@
       "onboard_time": 1741822761,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 429803,
-      "num": 429803,
-      "word": "穆婷婷 我讨厌不尊重对手且膨胀的人",
-      "onboard_time": 1741840226,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 426205,
@@ -321,14 +345,6 @@
       "onboard_time": 1741777704,
       "rank": 42,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 322092,
-      "num": 322092,
-      "word": "王俊凯安排自己座驾送长辈",
-      "onboard_time": 1741840106,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 321908,
@@ -443,6 +459,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 221370,
+      "num": 221370,
+      "word": "杨幂苹果自拍",
+      "onboard_time": 1741841065,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220008,
       "num": 220008,
       "word": "猎金游戏定档",
@@ -465,6 +489,14 @@
       "onboard_time": 1741796782,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214711,
+      "num": 214711,
+      "word": "国内不火但非常好玩的小众城市",
+      "onboard_time": 1741842803,
+      "rank": 32,
+      "category": "旅游"
     },
     {
       "raw_hot": 212411,
@@ -523,12 +555,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194571,
+      "num": 194571,
+      "word": "俞敏洪将回赠雷军15袋大米",
+      "onboard_time": 1741842744,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 193211,
       "num": 193211,
       "word": "消费卡挂闲鱼发完密码买家退款",
       "onboard_time": 1741821378,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192599,
+      "num": 243674,
+      "word": "麦琳再回应熏鸡事件",
+      "onboard_time": 1741841847,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 188594,
+      "num": 188594,
+      "word": "玉茗茶骨阵容官宣",
+      "onboard_time": 1741842684,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 186970,
@@ -553,6 +609,14 @@
       "onboard_time": 1741830083,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 181107,
+      "num": 181107,
+      "word": "曹德旺谈中国人和外国人有差距的能力",
+      "onboard_time": 1741840953,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 180779,
@@ -611,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174043,
+      "num": 174043,
+      "word": "糯玉米和甜玉米谁是升糖刺客",
+      "onboard_time": 1741842384,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 173555,
       "num": 173555,
       "word": "光遇",
@@ -635,6 +707,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 170802,
+      "num": 170802,
+      "word": "马琳被曼昱打脑门又被莎莎击肚子",
+      "onboard_time": 1741840645,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169932,
       "num": 169932,
       "word": "李行亮经纪人回应麦琳被抵制",
@@ -649,6 +729,14 @@
       "onboard_time": 1741830443,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 169637,
+      "num": 169637,
+      "word": "广式美甲",
+      "onboard_time": 1741840705,
+      "rank": 41,
+      "category": "美妆"
     },
     {
       "raw_hot": 164310,
@@ -675,6 +763,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 160045,
+      "num": 160045,
+      "word": "夏之光翟潇闻赵让结伴出行",
+      "onboard_time": 1741840885,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 159332,
+      "num": 347225,
+      "word": "交个朋友2980元带货课被指割韭菜",
+      "onboard_time": 1741841847,
+      "rank": 18,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 159232,
       "num": 162429,
       "word": "丁禹兮深夜allblack上班",
@@ -683,12 +787,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 157843,
-      "num": 157843,
-      "word": "马琳被曼昱打脑门又被莎莎击肚子",
-      "onboard_time": 1741840645,
-      "rank": 40,
-      "category": "体育"
+      "raw_hot": 155780,
+      "num": 474301,
+      "word": "韩国女艺人容错率几乎为0",
+      "onboard_time": 1741842384,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 149133,
@@ -705,6 +809,14 @@
       "onboard_time": 1741794263,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 144295,
+      "num": 144295,
+      "word": "迪丽热巴也湿了眼眶",
+      "onboard_time": 1741841725,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 143148,
@@ -755,16 +867,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131635,
-      "num": 131635,
-      "word": "曹德旺谈中国人和外国人有差距的能力",
-      "onboard_time": 1741840953,
-      "rank": 49,
-      "category": "教育"
-    },
-    {
       "raw_hot": 128482,
-      "num": 236780,
+      "num": 257616,
       "word": "华为1610大开想象",
       "onboard_time": 1741839625,
       "rank": 37,
@@ -833,6 +937,22 @@
       "onboard_time": 1741827323,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 122472,
+      "num": 122472,
+      "word": "6人虚构男子机关年入35万被行拘",
+      "onboard_time": 1741841186,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122263,
+      "num": 122263,
+      "word": "ccd拍的黄杨钿甜",
+      "onboard_time": 1741843283,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 120417,
@@ -905,6 +1025,14 @@
       "onboard_time": 1741775605,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107100,
+      "num": 233879,
+      "word": "梁靖崑3比0卢伟",
+      "onboard_time": 1741842024,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 105507,
@@ -1107,6 +1235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74674,
+      "num": 473573,
+      "word": "直播间拆卡15分钟花1500元",
+      "onboard_time": 1741842624,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 74158,
       "num": 123983,
       "word": "美乌沙特会谈就临时停火等达成共识",
@@ -1195,6 +1331,22 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 59074,
+      "num": 227647,
+      "word": "网购养生茶包惊现蠕动活蛆虫",
+      "onboard_time": 1741842564,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 58834,
+      "num": 473763,
+      "word": "马来西亚影院隔15分钟一场哪吒2",
+      "onboard_time": 1741842624,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 56287,
       "num": 433038,
       "word": "始祖鸟吊牌倒卖背后的灰色产业链",
@@ -1225,6 +1377,14 @@
       "onboard_time": 1741822521,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 46649,
+      "num": 789869,
+      "word": "看好中国做多中国已成为国际共识",
+      "onboard_time": 1741841725,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 45536,
@@ -1300,7 +1460,7 @@
     },
     {
       "raw_hot": 33513,
-      "num": 143030,
+      "num": 344105,
       "word": "金晨李川孙越AI天团",
       "onboard_time": 1741840705,
       "rank": 44,
@@ -1489,6 +1649,9 @@
     },
     {
       "word": "#新时代的华彩乐章#"
+    },
+    {
+      "word": "#习近平的两会之问#"
     }
   ]
 }
