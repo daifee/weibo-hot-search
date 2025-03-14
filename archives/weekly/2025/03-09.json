@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741929764207,
+  "endTime": 1741930765976,
   "band_list": [
     {
       "raw_hot": 21330054,
@@ -2483,6 +2483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 550933,
+      "num": 368828,
+      "word": "翟子路 太可怕了",
+      "onboard_time": 1741928425,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 550150,
       "num": 550150,
       "word": "住建局回应佛山一小区有人装修骨灰房",
@@ -3153,14 +3161,6 @@
       "onboard_time": 1741667364,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 433457,
-      "num": 368828,
-      "word": "翟子路 太可怕了",
-      "onboard_time": 1741928425,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 433413,
@@ -4851,6 +4851,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 278919,
+      "num": 257806,
+      "word": "82岁老人下葬当天飞来一群仙鹤盘旋",
+      "onboard_time": 1741928725,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 278476,
       "num": 278476,
       "word": "正告赖清德当局玩火者必自焚",
@@ -5001,6 +5009,14 @@
       "onboard_time": 1741701862,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 269994,
+      "num": 269994,
+      "word": "雷总你在小米是做什么的",
+      "onboard_time": 1741930164,
+      "rank": 15,
+      "category": "互联网"
     },
     {
       "raw_hot": 269343,
@@ -5291,14 +5307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 257806,
-      "num": 257806,
-      "word": "82岁老人下葬当天飞来一群仙鹤盘旋",
-      "onboard_time": 1741928725,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 257514,
       "num": 275753,
       "word": "少爷和我杀回来了",
@@ -5555,6 +5563,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 241014,
+      "num": 380406,
+      "word": "万斯称绿卡持有者没有无限期留美权利",
+      "onboard_time": 1741927347,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 240256,
       "num": 240256,
       "word": "林一晋江新跪",
@@ -5592,6 +5608,14 @@
       "word": "HLE对战TES",
       "onboard_time": 1741592122,
       "rank": 27,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 236655,
+      "num": 236655,
+      "word": "朱雀回家",
+      "onboard_time": 1741930404,
+      "rank": 18,
       "category": "电竞"
     },
     {
@@ -5665,6 +5689,14 @@
       "onboard_time": 1741920443,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 232550,
+      "num": 350231,
+      "word": "28万的二手宝马竟是重大事故车",
+      "onboard_time": 1741927706,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 231908,
@@ -5867,14 +5899,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 226330,
-      "num": 350231,
-      "word": "28万的二手宝马竟是重大事故车",
-      "onboard_time": 1741927706,
-      "rank": 19,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 226302,
       "num": 220454,
       "word": "孙艺珍背部肌肉线条",
@@ -5961,6 +5985,14 @@
       "onboard_time": 1741658240,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 223875,
+      "num": 223875,
+      "word": "ITZY对战FPXZQ",
+      "onboard_time": 1741929142,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 223580,
@@ -6123,12 +6155,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218321,
+      "num": 218321,
+      "word": "李隼谈东京奥运女单半决赛那场球",
+      "onboard_time": 1741929206,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217895,
       "num": 212350,
       "word": "国王首播反馈",
       "onboard_time": 1741692624,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217727,
+      "num": 217727,
+      "word": "妻子的浪漫旅行",
+      "onboard_time": 1741930225,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 217522,
@@ -6185,14 +6233,6 @@
       "onboard_time": 1741874364,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 215313,
-      "num": 215313,
-      "word": "李隼谈东京奥运女单半决赛那场球",
-      "onboard_time": 1741929206,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 215274,
@@ -7067,14 +7107,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 194446,
-      "num": 380406,
-      "word": "万斯称绿卡持有者没有无限期留美权利",
-      "onboard_time": 1741927347,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 194047,
       "num": 194047,
       "word": "锦瑟无端五十弦到底多少根弦",
@@ -7859,6 +7891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 178214,
+      "num": 218006,
+      "word": "编号17有自己的沙虫",
+      "onboard_time": 1741929805,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 178084,
       "num": 178084,
       "word": "胡军可以是爹也可以是daddy",
@@ -8617,14 +8657,6 @@
       "onboard_time": 1741504881,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 165273,
-      "num": 165273,
-      "word": "ITZY对战FPXZQ",
-      "onboard_time": 1741929142,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 165107,
@@ -9843,6 +9875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144090,
+      "num": 144090,
+      "word": "陶白白别骂摩羯座了",
+      "onboard_time": 1741928005,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 144025,
       "num": 188520,
       "word": "妻子的浪漫旅行 花少5",
@@ -10001,14 +10041,6 @@
       "onboard_time": 1741669342,
       "rank": 40,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 141619,
-      "num": 141619,
-      "word": "陶白白别骂摩羯座了",
-      "onboard_time": 1741928005,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 141433,
@@ -10209,6 +10241,14 @@
       "onboard_time": 1741862243,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138900,
+      "num": 138900,
+      "word": "柳演锡方回应涉嫌逃税",
+      "onboard_time": 1741930705,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 138897,
@@ -11419,6 +11459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122145,
+      "num": 122145,
+      "word": "章若楠官宣加盟电视剧品质盛典",
+      "onboard_time": 1741930584,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122008,
       "num": 236909,
       "word": "曾可妮请问在燃什么",
@@ -11985,6 +12033,14 @@
       "onboard_time": 1741682423,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114714,
+      "num": 114714,
+      "word": "开展个人消费贷款纾困",
+      "onboard_time": 1741930524,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 114647,
@@ -13715,6 +13771,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 90091,
+      "num": 296963,
+      "word": "游华山失踪小伙身亡原因需检测",
+      "onboard_time": 1741930103,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89976,
       "num": 89976,
       "word": "几十元平替小米2000元车标或侵权",
@@ -15057,6 +15121,14 @@
       "onboard_time": 1741616366,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 57882,
+      "num": 368279,
+      "word": "起底专销国内的洋品牌",
+      "onboard_time": 1741928786,
+      "rank": 13,
+      "category": "舆论监督,美妆"
     },
     {
       "raw_hot": 57784,
@@ -16523,14 +16595,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30011,
-      "num": 368279,
-      "word": "起底专销国内的洋品牌",
-      "onboard_time": 1741928786,
-      "rank": 13,
-      "category": "舆论监督,美妆"
-    },
-    {
       "raw_hot": 29669,
       "num": 93608,
       "word": "强化技能导向的薪酬分配制度",
@@ -16601,6 +16665,14 @@
       "onboard_time": 1741699704,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 28282,
+      "num": 229038,
+      "word": "AI换脸软件包月30元可无限次使用",
+      "onboard_time": 1741929563,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 28195,
@@ -17059,6 +17131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 21518,
+      "num": 270219,
+      "word": "团伙组装真鞋底假鞋面诈骗3000多万",
+      "onboard_time": 1741930164,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 21463,
       "num": 1618177,
       "word": "AI创意海报看2025民生举措",
@@ -17201,14 +17281,6 @@
       "onboard_time": 1741839745,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 19327,
-      "num": 229038,
-      "word": "AI换脸软件包月30元可无限次使用",
-      "onboard_time": 1741929563,
-      "rank": 29,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 19238,

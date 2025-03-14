@@ -1,6 +1,6 @@
 {
   "startTime": 1741883456293,
-  "endTime": 1741929764207,
+  "endTime": 1741930765976,
   "band_list": [
     {
       "raw_hot": 16802991,
@@ -203,6 +203,14 @@
       "category": "民生新闻,情感"
     },
     {
+      "raw_hot": 550933,
+      "num": 368828,
+      "word": "翟子路 太可怕了",
+      "onboard_time": 1741928425,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 550150,
       "num": 550150,
       "word": "住建局回应佛山一小区有人装修骨灰房",
@@ -296,14 +304,6 @@
       "word": "周冬雨0点晒合照为马思纯庆生",
       "onboard_time": 1741910302,
       "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 433457,
-      "num": 368828,
-      "word": "翟子路 太可怕了",
-      "onboard_time": 1741928425,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -435,6 +435,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 278919,
+      "num": 257806,
+      "word": "82岁老人下葬当天飞来一群仙鹤盘旋",
+      "onboard_time": 1741928725,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 278476,
       "num": 278476,
       "word": "正告赖清德当局玩火者必自焚",
@@ -459,20 +467,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 269994,
+      "num": 269994,
+      "word": "雷总你在小米是做什么的",
+      "onboard_time": 1741930164,
+      "rank": 15,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 269034,
       "num": 269034,
       "word": "SEVENTEEN十周年特别版应援棒",
       "onboard_time": 1741919662,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 257806,
-      "num": 257806,
-      "word": "82岁老人下葬当天飞来一群仙鹤盘旋",
-      "onboard_time": 1741928725,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 253175,
@@ -515,12 +523,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 241014,
+      "num": 380406,
+      "word": "万斯称绿卡持有者没有无限期留美权利",
+      "onboard_time": 1741927347,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 239205,
       "num": 275842,
       "word": "难哄",
       "onboard_time": 1741914381,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 236655,
+      "num": 236655,
+      "word": "朱雀回家",
+      "onboard_time": 1741930404,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 235115,
@@ -547,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 232550,
+      "num": 350231,
+      "word": "28万的二手宝马竟是重大事故车",
+      "onboard_time": 1741927706,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 231293,
       "num": 231293,
       "word": "平日嘴毒的他如今亲嘴救了她",
@@ -571,12 +603,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 226330,
-      "num": 350231,
-      "word": "28万的二手宝马竟是重大事故车",
-      "onboard_time": 1741927706,
-      "rank": 19,
-      "category": "舆论监督"
+      "raw_hot": 223875,
+      "num": 223875,
+      "word": "ITZY对战FPXZQ",
+      "onboard_time": 1741929142,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 219358,
@@ -587,12 +619,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 215313,
-      "num": 215313,
+      "raw_hot": 218321,
+      "num": 218321,
       "word": "李隼谈东京奥运女单半决赛那场球",
       "onboard_time": 1741929206,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217727,
+      "num": 217727,
+      "word": "妻子的浪漫旅行",
+      "onboard_time": 1741930225,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 212915,
@@ -715,14 +755,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 194446,
-      "num": 380406,
-      "word": "万斯称绿卡持有者没有无限期留美权利",
-      "onboard_time": 1741927347,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 193850,
       "num": 193850,
       "word": "赵露思恋人 不复拍",
@@ -827,6 +859,14 @@
       "category": "教育,运动健身"
     },
     {
+      "raw_hot": 178214,
+      "num": 218006,
+      "word": "编号17有自己的沙虫",
+      "onboard_time": 1741929805,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 178084,
       "num": 178084,
       "word": "胡军可以是爹也可以是daddy",
@@ -881,14 +921,6 @@
       "onboard_time": 1741922905,
       "rank": 39,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 165273,
-      "num": 165273,
-      "word": "ITZY对战FPXZQ",
-      "onboard_time": 1741929142,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 163154,
@@ -979,6 +1011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144090,
+      "num": 144090,
+      "word": "陶白白别骂摩羯座了",
+      "onboard_time": 1741928005,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 143216,
       "num": 131402,
       "word": "董明珠暗讽有人靠炒高股价成了首富",
@@ -995,12 +1035,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 141619,
-      "num": 141619,
-      "word": "陶白白别骂摩羯座了",
-      "onboard_time": 1741928005,
-      "rank": 41,
-      "category": "情感"
+      "raw_hot": 138900,
+      "num": 138900,
+      "word": "柳演锡方回应涉嫌逃税",
+      "onboard_time": 1741930705,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 138897,
@@ -1107,6 +1147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122145,
+      "num": 122145,
+      "word": "章若楠官宣加盟电视剧品质盛典",
+      "onboard_time": 1741930584,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120621,
       "num": 120621,
       "word": "穆婷婷回应网友遗憾她退圈太早",
@@ -1121,6 +1169,14 @@
       "onboard_time": 1741919964,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114714,
+      "num": 114714,
+      "word": "开展个人消费贷款纾困",
+      "onboard_time": 1741930524,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 110903,
@@ -1273,6 +1329,14 @@
       "onboard_time": 1741916842,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 90091,
+      "num": 296963,
+      "word": "游华山失踪小伙身亡原因需检测",
+      "onboard_time": 1741930103,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86490,
@@ -1491,6 +1555,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 57882,
+      "num": 368279,
+      "word": "起底专销国内的洋品牌",
+      "onboard_time": 1741928786,
+      "rank": 13,
+      "category": "舆论监督,美妆"
+    },
+    {
       "raw_hot": 57702,
       "num": 75004,
       "word": "侯明昊这转扇转到我心里去了",
@@ -1603,20 +1675,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 30011,
-      "num": 368279,
-      "word": "起底专销国内的洋品牌",
-      "onboard_time": 1741928786,
-      "rank": 13,
-      "category": "舆论监督,美妆"
-    },
-    {
       "raw_hot": 29348,
       "num": 450092,
       "word": "起底以婚恋名义诱导买房公司",
       "onboard_time": 1741926926,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28282,
+      "num": 229038,
+      "word": "AI换脸软件包月30元可无限次使用",
+      "onboard_time": 1741929563,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 25754,
@@ -1635,6 +1707,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 21518,
+      "num": 270219,
+      "word": "团伙组装真鞋底假鞋面诈骗3000多万",
+      "onboard_time": 1741930164,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 21102,
       "num": 109392,
       "word": "孙颖莎重庆冠军赛两连胜",
@@ -1649,14 +1729,6 @@
       "onboard_time": 1741925125,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 19327,
-      "num": 229038,
-      "word": "AI换脸软件包月30元可无限次使用",
-      "onboard_time": 1741929563,
-      "rank": 29,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 16772,

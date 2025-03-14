@@ -1,0 +1,410 @@
+{
+  "runTime": 1741930765976,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1547203,
+        "num": 1547203,
+        "word": "柳演锡涉嫌逃税",
+        "onboard_time": 1741924045,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 581844,
+        "num": 581844,
+        "word": "中国台湾省",
+        "onboard_time": 1741880183,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 30141,
+        "num": 527137,
+        "word": "这是春天里的锦绣中国",
+        "onboard_time": 1741922484,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 693888,
+        "num": 523917,
+        "word": "白敬亭章若楠四手联弹",
+        "onboard_time": 1741926086,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 520345,
+        "num": 520345,
+        "word": "造谣顶流明星输10亿的男子被拘留",
+        "onboard_time": 1741915882,
+        "rank": 4,
+        "category": "辟谣/通报,艺人"
+      },
+      {
+        "raw_hot": 419884,
+        "num": 419884,
+        "word": "8岁男童吃叶黄素软糖患干眼症",
+        "onboard_time": 1741927347,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 324283,
+        "num": 324283,
+        "word": "韩安冉妈妈否认偷小猪妹黄金",
+        "onboard_time": 1741923446,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 318311,
+        "num": 318311,
+        "word": "金店足金价格涨破900",
+        "onboard_time": 1741923385,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 300317,
+        "num": 300317,
+        "word": "刘亦菲官宣电视剧品质盛典",
+        "onboard_time": 1741928725,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90091,
+        "num": 296963,
+        "word": "游华山失踪小伙身亡原因需检测",
+        "onboard_time": 1741930103,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6880765,
+        "num": 6880765,
+        "word": "金秀贤承认与金赛纶恋情",
+        "onboard_time": 1741921105,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 795540,
+        "num": 286952,
+        "word": "海底捞一人食",
+        "onboard_time": 1741926627,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 550933,
+        "num": 281305,
+        "word": "翟子路 太可怕了",
+        "onboard_time": 1741928425,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393258,
+        "num": 277932,
+        "word": "英一二战",
+        "onboard_time": 1741928365,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 21518,
+        "num": 270219,
+        "word": "团伙组装真鞋底假鞋面诈骗3000多万",
+        "onboard_time": 1741930164,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 269994,
+        "num": 269994,
+        "word": "雷总你在小米是做什么的",
+        "onboard_time": 1741930164,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 247936,
+        "num": 247936,
+        "word": "赵丽颖新片酒吧卖酒",
+        "onboard_time": 1741922964,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 241014,
+        "num": 241014,
+        "word": "万斯称绿卡持有者没有无限期留美权利",
+        "onboard_time": 1741927347,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 236655,
+        "num": 236655,
+        "word": "朱雀回家",
+        "onboard_time": 1741930404,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 232550,
+        "num": 232550,
+        "word": "28万的二手宝马竟是重大事故车",
+        "onboard_time": 1741927706,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 312425,
+        "num": 232162,
+        "word": "肉铺老板绞肉绞断三根手指索赔顾客",
+        "onboard_time": 1741922905,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278919,
+        "num": 231224,
+        "word": "82岁老人下葬当天飞来一群仙鹤盘旋",
+        "onboard_time": 1741928725,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226875,
+        "num": 226875,
+        "word": "穆婷婷拍了很多戏没播",
+        "onboard_time": 1741918462,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224812,
+        "num": 224812,
+        "word": "汤家凤再次发声",
+        "onboard_time": 1741923746,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 223875,
+        "num": 223875,
+        "word": "ITZY对战FPXZQ",
+        "onboard_time": 1741929142,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 221228,
+        "num": 221228,
+        "word": "杨洋赵小棠李乃文和塑料袋打起来了",
+        "onboard_time": 1741927645,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196447,
+        "num": 218423,
+        "word": "林一给虞书欣的备注是妮妮",
+        "onboard_time": 1741929025,
+        "rank": 26,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 218321,
+        "num": 218321,
+        "word": "李隼谈东京奥运女单半决赛那场球",
+        "onboard_time": 1741929206,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178214,
+        "num": 218006,
+        "word": "编号17有自己的沙虫",
+        "onboard_time": 1741929805,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 28282,
+        "num": 217799,
+        "word": "AI换脸软件包月30元可无限次使用",
+        "onboard_time": 1741929563,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 57882,
+        "num": 217740,
+        "word": "起底专销国内的洋品牌",
+        "onboard_time": 1741928786,
+        "rank": 30,
+        "category": "舆论监督,美妆"
+      },
+      {
+        "raw_hot": 217727,
+        "num": 217727,
+        "word": "妻子的浪漫旅行",
+        "onboard_time": 1741930225,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214086,
+        "num": 214086,
+        "word": "97年女生当村长5年惊艳所有人",
+        "onboard_time": 1741922905,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192345,
+        "num": 192345,
+        "word": "鹿晗和偶遇网友合照",
+        "onboard_time": 1741909881,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186916,
+        "num": 186916,
+        "word": "为什么身边的姐弟恋越来越多了",
+        "onboard_time": 1741919841,
+        "rank": 34,
+        "category": "民生新闻,情感"
+      },
+      {
+        "raw_hot": 183435,
+        "num": 183435,
+        "word": "迪丽热巴加勒比女王造型",
+        "onboard_time": 1741923746,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183213,
+        "num": 183213,
+        "word": "留几手 陷入男性困境没有人会共情你",
+        "onboard_time": 1741925665,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172645,
+        "num": 172645,
+        "word": "今天数学浓度太高了",
+        "onboard_time": 1741908140,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171275,
+        "num": 171275,
+        "word": "男子背着婴儿到处借10块钱买奶粉",
+        "onboard_time": 1741917501,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166620,
+        "num": 166620,
+        "word": "对刮刮乐祛魅了",
+        "onboard_time": 1741927226,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147400,
+        "num": 147400,
+        "word": "黄杨钿甜凌晨2点的火车",
+        "onboard_time": 1741924945,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144090,
+        "num": 144090,
+        "word": "陶白白别骂摩羯座了",
+        "onboard_time": 1741928005,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138900,
+        "num": 138900,
+        "word": "柳演锡方回应涉嫌逃税",
+        "onboard_time": 1741930705,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135282,
+        "num": 135282,
+        "word": "女子高铁被行李箱砸晕铁路方拒担责",
+        "onboard_time": 1741921646,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127575,
+        "num": 127575,
+        "word": "平日嘴毒的他如今亲嘴救了她",
+        "onboard_time": 1741928906,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122145,
+        "num": 122145,
+        "word": "章若楠官宣加盟电视剧品质盛典",
+        "onboard_time": 1741930584,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116398,
+        "num": 116398,
+        "word": "嘘国王在冬眠",
+        "onboard_time": 1741926146,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114714,
+        "num": 114714,
+        "word": "开展个人消费贷款纾困",
+        "onboard_time": 1741930524,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1690667,
+        "num": 113725,
+        "word": "金秀贤发万字长文",
+        "onboard_time": 1741923205,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107823,
+        "num": 107823,
+        "word": "种地吧",
+        "onboard_time": 1741926447,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记出席2025年全国两会纪实#"
+    }
+  }
+}
