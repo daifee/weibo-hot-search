@@ -1,6 +1,6 @@
 {
   "startTime": 1741883456293,
-  "endTime": 1741908977687,
+  "endTime": 1741916796044,
   "band_list": [
     {
       "raw_hot": 2022510,
@@ -9,6 +9,14 @@
       "onboard_time": 1741880183,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1347485,
+      "num": 357584,
+      "word": "金赛纶疑似9年前曾官宣恋情",
+      "onboard_time": 1741915462,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1158032,
@@ -20,10 +28,34 @@
     },
     {
       "raw_hot": 864349,
-      "num": 243897,
+      "num": 303159,
       "word": "穆婷婷退圈的原因",
       "onboard_time": 1741879104,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 793921,
+      "num": 793921,
+      "word": "游华山失踪小伙赵训金身亡",
+      "onboard_time": 1741912403,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 784678,
+      "num": 336992,
+      "word": "叶璇说金秀贤很下头",
+      "onboard_time": 1741909401,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 758153,
+      "num": 344420,
+      "word": "留几手否认世界是爱丁堡",
+      "onboard_time": 1741913962,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -35,12 +67,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 628809,
+      "num": 331492,
+      "word": "鹿晗和偶遇网友合照",
+      "onboard_time": 1741909881,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 587688,
       "num": 587688,
       "word": "普京表示俄罗斯同意停火30天",
       "onboard_time": 1741885217,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 534416,
+      "num": 534416,
+      "word": "住建局回应佛山一小区有人装修骨灰房",
+      "onboard_time": 1741913482,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 494941,
+      "num": 97233,
+      "word": "24岁女舞蹈老师遭校车碾压身亡",
+      "onboard_time": 1741910902,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 461405,
@@ -67,12 +123,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 449633,
+      "num": 449633,
+      "word": "造谣顶流明星输10亿的男子被拘留",
+      "onboard_time": 1741915882,
+      "rank": 4,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 439794,
+      "num": 439794,
+      "word": "今天数学浓度太高了",
+      "onboard_time": 1741908140,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 437077,
+      "num": 318350,
+      "word": "周冬雨0点晒合照为马思纯庆生",
+      "onboard_time": 1741910302,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 419638,
       "num": 419638,
       "word": "如台独突破红线我们将采取断然措施",
       "onboard_time": 1741877904,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 377851,
+      "num": 377851,
+      "word": "于正回应娜扎二番",
+      "onboard_time": 1741911804,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 375511,
@@ -91,12 +179,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 360194,
+      "num": 360194,
+      "word": "泽连斯基回应普京的表态",
+      "onboard_time": 1741908320,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 328390,
       "num": 328390,
       "word": "祖国必然统一",
       "onboard_time": 1741877904,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 300771,
+      "num": 300771,
+      "word": "浪琴回应到期不续赵丽颖传闻",
+      "onboard_time": 1741907960,
+      "rank": 26,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 278476,
@@ -108,7 +212,7 @@
     },
     {
       "raw_hot": 249735,
-      "num": 173495,
+      "num": 235654,
       "word": "夫妻俩因为同一个习惯双双确诊食管癌",
       "onboard_time": 1741872985,
       "rank": 20,
@@ -123,11 +227,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 242362,
+      "num": 242362,
+      "word": "广东湖南8级以上雷暴大风或冰雹",
+      "onboard_time": 1741915222,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 229128,
       "num": 229128,
       "word": "顾客获6千退款才知海底捞小便事件",
       "onboard_time": 1741856125,
       "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 211910,
+      "num": 211910,
+      "word": "黄金突破历史新高",
+      "onboard_time": 1741908499,
+      "rank": 15,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 211722,
+      "num": 211722,
+      "word": "75岁老人情绪失控开法拉利撞残他人",
+      "onboard_time": 1741872804,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -227,28 +355,12 @@
       "category": "教育,运动健身"
     },
     {
-      "raw_hot": 176846,
-      "num": 162920,
-      "word": "黄金突破历史新高",
-      "onboard_time": 1741908499,
-      "rank": 15,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 175385,
-      "num": 159907,
-      "word": "75岁老人情绪失控开法拉利撞残他人",
-      "onboard_time": 1741872804,
-      "rank": 21,
+      "raw_hot": 168480,
+      "num": 98824,
+      "word": "网民造谣顶流明星输10亿被行拘",
+      "onboard_time": 1741915462,
+      "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 172306,
-      "num": 172306,
-      "word": "泽连斯基回应普京的表态",
-      "onboard_time": 1741908320,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 154694,
@@ -275,14 +387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150738,
-      "num": 150738,
-      "word": "今天数学浓度太高了",
-      "onboard_time": 1741908140,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 143216,
       "num": 131402,
       "word": "董明珠暗讽有人靠炒高股价成了首富",
@@ -291,12 +395,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 132778,
-      "num": 132778,
-      "word": "浪琴回应到期不续赵丽颖传闻",
-      "onboard_time": 1741907960,
-      "rank": 26,
-      "category": "艺人,时尚"
+      "raw_hot": 137114,
+      "num": 244119,
+      "word": "难哄",
+      "onboard_time": 1741914381,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 130735,
@@ -315,12 +419,68 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 111123,
-      "num": 111123,
+      "raw_hot": 122846,
+      "num": 122846,
       "word": "专家称4.5天工作制不能一刀切",
       "onboard_time": 1741887436,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120621,
+      "num": 120621,
+      "word": "穆婷婷回应网友遗憾她退圈太早",
+      "onboard_time": 1741913003,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 120336,
+      "num": 120336,
+      "word": "高校回应校车将女老师辗轧身亡",
+      "onboard_time": 1741910001,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106266,
+      "num": 106266,
+      "word": "车祸现场睡衣护士跪地救人",
+      "onboard_time": 1741895354,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105294,
+      "num": 105294,
+      "word": "张书豪回应儿子取名",
+      "onboard_time": 1741913363,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 104112,
+      "num": 104112,
+      "word": "高端穿戴甲在海外卖爆了",
+      "onboard_time": 1741883480,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 102763,
+      "num": 98122,
+      "word": "周五的朋友圈文案",
+      "onboard_time": 1741911322,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 101365,
+      "num": 124897,
+      "word": "韩国15岁以下女团选秀节目遭抵制",
+      "onboard_time": 1741882520,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 100247,
@@ -329,6 +489,14 @@
       "onboard_time": 1741884379,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99457,
+      "num": 123015,
+      "word": "谍报上不封顶在豆瓣爆了",
+      "onboard_time": 1741915943,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 97939,
@@ -355,14 +523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 94060,
-      "num": 94060,
-      "word": "韩国15岁以下女团选秀节目遭抵制",
-      "onboard_time": 1741882520,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 93969,
       "num": 93969,
       "word": "网购中药泡脚包检出大量病菌",
@@ -377,6 +537,22 @@
       "onboard_time": 1741883540,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89229,
+      "num": 123094,
+      "word": "俄罗斯恐难接受临时停火",
+      "onboard_time": 1741907778,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 86490,
+      "num": 97304,
+      "word": "国台办正告赖清德当局",
+      "onboard_time": 1741908200,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 84171,
@@ -443,6 +619,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 78384,
+      "num": 97294,
+      "word": "董思成黄杨钿甜五福临门团建合体",
+      "onboard_time": 1741916541,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 77596,
       "num": 77596,
       "word": "终于理解反派看女主家庭的感觉了",
@@ -467,12 +651,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 73303,
-      "num": 123094,
-      "word": "俄罗斯恐难接受临时停火",
-      "onboard_time": 1741907778,
-      "rank": 17,
-      "category": "国际时政"
+      "raw_hot": 73783,
+      "num": 97268,
+      "word": "李昊直播",
+      "onboard_time": 1741915281,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 72333,
@@ -491,6 +675,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 70119,
+      "num": 97245,
+      "word": "AirPods或推出实时翻译功能",
+      "onboard_time": 1741912043,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 69443,
+      "num": 97217,
+      "word": "曼联4比1皇家社会",
+      "onboard_time": 1741915041,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67422,
       "num": 75056,
       "word": "网传赵丽颖新剧三位男主",
@@ -507,12 +707,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 65411,
-      "num": 65411,
-      "word": "高端穿戴甲在海外卖爆了",
-      "onboard_time": 1741883480,
-      "rank": 46,
-      "category": "美妆"
+      "raw_hot": 64522,
+      "num": 97208,
+      "word": "美国得州小飞机坠毁一人死亡",
+      "onboard_time": 1741912283,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 64474,
+      "num": 601622,
+      "word": "以旧换新扩围引领消费热潮",
+      "onboard_time": 1741871603,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63669,
@@ -520,14 +728,6 @@
       "word": "董浩叔叔寻人仅48小时就成功了",
       "onboard_time": 1741893314,
       "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 58791,
-      "num": 58791,
-      "word": "车祸现场睡衣护士跪地救人",
-      "onboard_time": 1741895354,
-      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -555,14 +755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 57092,
-      "num": 354202,
-      "word": "以旧换新扩围引领消费热潮",
-      "onboard_time": 1741871603,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56748,
       "num": 81263,
       "word": "网购神药到手发现是食品",
@@ -585,14 +777,6 @@
       "onboard_time": 1741872084,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 48347,
-      "num": 58434,
-      "word": "国台办正告赖清德当局",
-      "onboard_time": 1741908200,
-      "rank": 48,
-      "category": "国内时政"
     },
     {
       "raw_hot": 36642,
