@@ -1,13 +1,21 @@
 {
   "startTime": 1741883456293,
-  "endTime": 1741921130797,
+  "endTime": 1741921679458,
   "band_list": [
     {
-      "raw_hot": 9072545,
-      "num": 9072545,
+      "raw_hot": 13571359,
+      "num": 13571359,
       "word": "金秀贤承认与金赛纶恋情",
       "onboard_time": 1741921105,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2167621,
+      "num": 325848,
+      "word": "韩素希画的是金秀贤吗",
+      "onboard_time": 1741919964,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -17,14 +25,6 @@
       "onboard_time": 1741880183,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 2011465,
-      "num": 325848,
-      "word": "韩素希画的是金秀贤吗",
-      "onboard_time": 1741919964,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 1892592,
@@ -195,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 411858,
+      "num": 411858,
+      "word": "为什么身边的姐弟恋越来越多了",
+      "onboard_time": 1741919841,
+      "rank": 16,
+      "category": "民生新闻,情感"
+    },
+    {
       "raw_hot": 377851,
       "num": 388477,
       "word": "于正回应娜扎二番",
@@ -243,14 +251,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 325757,
-      "num": 325757,
-      "word": "为什么身边的姐弟恋越来越多了",
-      "onboard_time": 1741919841,
-      "rank": 16,
-      "category": "民生新闻,情感"
-    },
-    {
       "raw_hot": 304657,
       "num": 273544,
       "word": "老人长期吃素胆囊长出金蛋状结石",
@@ -267,6 +267,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 291653,
+      "num": 272184,
+      "word": "穆婷婷拍了很多戏没播",
+      "onboard_time": 1741918462,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 278476,
       "num": 278476,
       "word": "正告赖清德当局玩火者必自焚",
@@ -275,16 +283,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 272184,
-      "num": 272184,
-      "word": "穆婷婷拍了很多戏没播",
-      "onboard_time": 1741918462,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 263990,
-      "num": 263990,
+      "raw_hot": 269034,
+      "num": 269034,
       "word": "SEVENTEEN十周年特别版应援棒",
       "onboard_time": 1741919662,
       "rank": 30,
@@ -315,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 232676,
+      "num": 232676,
+      "word": "网约车绕路致迟到考生获赔2000",
+      "onboard_time": 1741920443,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 229128,
       "num": 229128,
       "word": "顾客获6千退款才知海底捞小便事件",
@@ -323,8 +331,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 214265,
-      "num": 214265,
+      "raw_hot": 219729,
+      "num": 382947,
       "word": "男子百亿补贴8299元买到iPhone样板机",
       "onboard_time": 1741917141,
       "rank": 32,
@@ -379,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198987,
+      "num": 198987,
+      "word": "丫丫噌一下就爬上去了",
+      "onboard_time": 1741919904,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 195778,
       "num": 195778,
       "word": "所有学生本硕博连读不用内卷",
@@ -401,6 +417,14 @@
       "onboard_time": 1741882222,
       "rank": 18,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 192584,
+      "num": 192584,
+      "word": "白色情人节",
+      "onboard_time": 1741920743,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 188910,
@@ -443,12 +467,12 @@
       "category": "教育,运动健身"
     },
     {
-      "raw_hot": 171821,
-      "num": 171821,
-      "word": "白色情人节",
-      "onboard_time": 1741920743,
-      "rank": 36,
-      "category": "情感"
+      "raw_hot": 177096,
+      "num": 331098,
+      "word": "A股",
+      "onboard_time": 1741920385,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 171564,
@@ -456,14 +480,6 @@
       "word": "19岁女生为救落水者不幸溺亡",
       "onboard_time": 1741917501,
       "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 170218,
-      "num": 170218,
-      "word": "丫丫噌一下就爬上去了",
-      "onboard_time": 1741919904,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -481,6 +497,14 @@
       "onboard_time": 1741915462,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167557,
+      "num": 331919,
+      "word": "2025年315晚会主题官宣",
+      "onboard_time": 1741919361,
+      "rank": 8,
+      "category": "财经,舆论监督"
     },
     {
       "raw_hot": 161922,
@@ -507,14 +531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 153278,
-      "num": 331919,
-      "word": "2025年315晚会主题官宣",
-      "onboard_time": 1741919361,
-      "rank": 8,
-      "category": "财经,舆论监督"
-    },
-    {
       "raw_hot": 152344,
       "num": 152344,
       "word": "穆婷婷早期微博经常艾特乔振宇",
@@ -531,6 +547,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 147903,
+      "num": 269503,
+      "word": "虞书欣林一祝白色情人节快乐",
+      "onboard_time": 1741918340,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143216,
       "num": 131402,
       "word": "董明珠暗讽有人靠炒高股价成了首富",
@@ -545,22 +569,6 @@
       "onboard_time": 1741919542,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 141036,
-      "num": 269503,
-      "word": "虞书欣林一祝白色情人节快乐",
-      "onboard_time": 1741918340,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 140396,
-      "num": 140396,
-      "word": "网约车绕路致迟到考生获赔2000",
-      "onboard_time": 1741920443,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 139354,
@@ -659,6 +667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107142,
+      "num": 246389,
+      "word": "Jennie回归成绩",
+      "onboard_time": 1741921226,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 106266,
       "num": 106266,
       "word": "车祸现场睡衣护士跪地救人",
@@ -715,14 +731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 100371,
-      "num": 331098,
-      "word": "A股",
-      "onboard_time": 1741920385,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 100247,
       "num": 100247,
       "word": "金赛纶打工事件素材原主人发声",
@@ -748,7 +756,7 @@
     },
     {
       "raw_hot": 99223,
-      "num": 99223,
+      "num": 156761,
       "word": "似锦疯批母女联手抢女婿",
       "onboard_time": 1741919300,
       "rank": 48,
@@ -787,6 +795,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 93362,
+      "num": 168850,
+      "word": "女子高铁被行李箱砸晕铁路方拒担责",
+      "onboard_time": 1741921646,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91904,
       "num": 177447,
       "word": "总经理回应杨铭宇黄焖鸡后厨乱象",
@@ -809,6 +825,14 @@
       "onboard_time": 1741908200,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 85781,
+      "num": 325858,
+      "word": "美一载有178人客机在机场起火",
+      "onboard_time": 1741920504,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 84171,
@@ -1035,12 +1059,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 41631,
-      "num": 325858,
-      "word": "美一载有178人客机在机场起火",
-      "onboard_time": 1741920504,
-      "rank": 14,
-      "category": "海外新闻"
+      "raw_hot": 39802,
+      "num": 264847,
+      "word": "沪指时隔3个月重回3400点",
+      "onboard_time": 1741921345,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 36642,
@@ -1057,6 +1081,14 @@
       "onboard_time": 1741882281,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31127,
+      "num": 178147,
+      "word": "万元购买子宫养护套餐感染盆腔炎",
+      "onboard_time": 1741921523,
+      "rank": 35,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 25754,
@@ -1121,6 +1153,14 @@
       "onboard_time": 1741896074,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 8838,
+      "num": 716929,
+      "word": "文化中国行解锁博物馆科技感新玩法",
+      "onboard_time": 1741921464,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [

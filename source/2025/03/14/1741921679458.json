@@ -1,0 +1,410 @@
+{
+  "runTime": 1741921679458,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1565225,
+        "num": 1565225,
+        "word": "造谣顶流明星输10亿的男子被拘留",
+        "onboard_time": 1741915882,
+        "rank": 0,
+        "category": "辟谣/通报,艺人"
+      },
+      {
+        "raw_hot": 1043199,
+        "num": 1043199,
+        "word": "中国台湾省",
+        "onboard_time": 1741880183,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 8838,
+        "num": 716929,
+        "word": "文化中国行解锁博物馆科技感新玩法",
+        "onboard_time": 1741921464,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 498042,
+        "num": 498042,
+        "word": "江苏生育津贴不用准备材料直接到账",
+        "onboard_time": 1741916842,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 421833,
+        "num": 421833,
+        "word": "今天数学浓度太高了",
+        "onboard_time": 1741908140,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 418815,
+        "num": 418815,
+        "word": "请回答1988珍珠参加选秀",
+        "onboard_time": 1741878863,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 411858,
+        "num": 411858,
+        "word": "为什么身边的姐弟恋越来越多了",
+        "onboard_time": 1741919841,
+        "rank": 6,
+        "category": "民生新闻,情感"
+      },
+      {
+        "raw_hot": 395033,
+        "num": 395033,
+        "word": "广东湖南8级以上雷暴大风或冰雹",
+        "onboard_time": 1741915222,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260201,
+        "num": 387846,
+        "word": "于正回应娜扎二番",
+        "onboard_time": 1741911804,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219729,
+        "num": 382947,
+        "word": "男子百亿补贴8299元买到iPhone样板机",
+        "onboard_time": 1741917141,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13571359,
+        "num": 13571359,
+        "word": "金秀贤承认与金赛纶恋情",
+        "onboard_time": 1741921105,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496720,
+        "num": 370777,
+        "word": "鹿晗和偶遇网友合照",
+        "onboard_time": 1741909881,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364761,
+        "num": 364761,
+        "word": "小学老师解聘后在校门口卖火鸡面",
+        "onboard_time": 1741877963,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315311,
+        "num": 315311,
+        "word": "穆婷婷退圈的原因",
+        "onboard_time": 1741879104,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85781,
+        "num": 290224,
+        "word": "美一载有178人客机在机场起火",
+        "onboard_time": 1741920504,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 2167621,
+        "num": 288982,
+        "word": "韩素希画的是金秀贤吗",
+        "onboard_time": 1741919964,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270063,
+        "num": 270063,
+        "word": "周冬雨0点晒合照为马思纯庆生",
+        "onboard_time": 1741910302,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269034,
+        "num": 269034,
+        "word": "SEVENTEEN十周年特别版应援棒",
+        "onboard_time": 1741919662,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291653,
+        "num": 267238,
+        "word": "穆婷婷拍了很多戏没播",
+        "onboard_time": 1741918462,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39802,
+        "num": 264847,
+        "word": "沪指时隔3个月重回3400点",
+        "onboard_time": 1741921345,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 362823,
+        "num": 258029,
+        "word": "男子背着婴儿到处借10块钱买奶粉",
+        "onboard_time": 1741917501,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285334,
+        "num": 254868,
+        "word": "老人长期吃素胆囊长出金蛋状结石",
+        "onboard_time": 1741917861,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 254171,
+        "num": 254171,
+        "word": "住建局回应佛山一小区有人装修骨灰房",
+        "onboard_time": 1741913482,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173880,
+        "num": 253920,
+        "word": "浪琴回应到期不续赵丽颖传闻",
+        "onboard_time": 1741907960,
+        "rank": 23,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 147903,
+        "num": 252901,
+        "word": "虞书欣林一祝白色情人节快乐",
+        "onboard_time": 1741918340,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133553,
+        "num": 251394,
+        "word": "陶喆新歌上线",
+        "onboard_time": 1741919542,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 110266,
+        "num": 249886,
+        "word": "北上 江苏旅游",
+        "onboard_time": 1741918282,
+        "rank": 26,
+        "category": "剧集,旅游"
+      },
+      {
+        "raw_hot": 109490,
+        "num": 249412,
+        "word": "虞书欣欧阳娜娜回应鹿小葵式演技",
+        "onboard_time": 1741878322,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166092,
+        "num": 247484,
+        "word": "小鹏G6又卖爆了",
+        "onboard_time": 1741920504,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 107142,
+        "num": 246389,
+        "word": "Jennie回归成绩",
+        "onboard_time": 1741921226,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 49929,
+        "num": 246041,
+        "word": "以旧换新扩围引领消费热潮",
+        "onboard_time": 1741871603,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244915,
+        "num": 244915,
+        "word": "普京表示俄罗斯同意停火30天",
+        "onboard_time": 1741885217,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 232676,
+        "num": 232676,
+        "word": "网约车绕路致迟到考生获赔2000",
+        "onboard_time": 1741920443,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198987,
+        "num": 198987,
+        "word": "丫丫噌一下就爬上去了",
+        "onboard_time": 1741919904,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192584,
+        "num": 192584,
+        "word": "白色情人节",
+        "onboard_time": 1741920743,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31127,
+        "num": 178147,
+        "word": "万元购买子宫养护套餐感染盆腔炎",
+        "onboard_time": 1741921523,
+        "rank": 35,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 177096,
+        "num": 177096,
+        "word": "A股",
+        "onboard_time": 1741920385,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 187784,
+        "num": 172876,
+        "word": "夫妻俩因为同一个习惯双双确诊食管癌",
+        "onboard_time": 1741872985,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93362,
+        "num": 168850,
+        "word": "女子高铁被行李箱砸晕铁路方拒担责",
+        "onboard_time": 1741921646,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167557,
+        "num": 167557,
+        "word": "2025年315晚会主题官宣",
+        "onboard_time": 1741919361,
+        "rank": 39,
+        "category": "财经,舆论监督"
+      },
+      {
+        "raw_hot": 161713,
+        "num": 161713,
+        "word": "游华山失踪小伙赵训金身亡",
+        "onboard_time": 1741912403,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157809,
+        "num": 157809,
+        "word": "泽连斯基回应普京的表态",
+        "onboard_time": 1741908320,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97729,
+        "num": 156761,
+        "word": "似锦疯批母女联手抢女婿",
+        "onboard_time": 1741919300,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156502,
+        "num": 156502,
+        "word": "短剧剧组频繁进小区拍戏困扰业主",
+        "onboard_time": 1741917321,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152661,
+        "num": 152661,
+        "word": "19岁女生为救落水者不幸溺亡",
+        "onboard_time": 1741917501,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144115,
+        "num": 144115,
+        "word": "75岁老人情绪失控开法拉利撞残他人",
+        "onboard_time": 1741872804,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124843,
+        "num": 124843,
+        "word": "高校回应校车将女老师辗轧身亡",
+        "onboard_time": 1741910001,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98162,
+        "num": 121791,
+        "word": "檀健次一日小说家芭莎四月刊封面",
+        "onboard_time": 1741918820,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 97240,
+        "num": 121588,
+        "word": "董思成黄杨钿甜五福临门团建合体",
+        "onboard_time": 1741916541,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121433,
+        "num": 121433,
+        "word": "网购11款打印纸仅2款数量达标",
+        "onboard_time": 1741918102,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025奋进中国#"
+    }
+  }
+}

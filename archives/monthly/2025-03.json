@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741921130797,
+  "endTime": 1741921679458,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -43,18 +43,18 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 10901855,
-      "num": 10901855,
-      "word": "金秀贤在信里说我爱你赛纶",
-      "onboard_time": 1741774582,
+      "raw_hot": 13571359,
+      "num": 13571359,
+      "word": "金秀贤承认与金赛纶恋情",
+      "onboard_time": 1741921105,
       "rank": 10,
       "category": "艺人"
     },
     {
-      "raw_hot": 9072545,
-      "num": 9072545,
-      "word": "金秀贤承认与金赛纶恋情",
-      "onboard_time": 1741921105,
+      "raw_hot": 10901855,
+      "num": 10901855,
+      "word": "金秀贤在信里说我爱你赛纶",
+      "onboard_time": 1741774582,
       "rank": 10,
       "category": "艺人"
     },
@@ -451,6 +451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 2167621,
+      "num": 325848,
+      "word": "韩素希画的是金秀贤吗",
+      "onboard_time": 1741919964,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2132664,
       "num": 231828,
       "word": "金赛纶头七那天金秀贤发的泡泡",
@@ -545,14 +553,6 @@
       "onboard_time": 1741769120,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2011465,
-      "num": 325848,
-      "word": "韩素希画的是金秀贤吗",
-      "onboard_time": 1741919964,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 1996502,
@@ -7707,6 +7707,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 411858,
+      "num": 411858,
+      "word": "为什么身边的姐弟恋越来越多了",
+      "onboard_time": 1741919841,
+      "rank": 16,
+      "category": "民生新闻,情感"
+    },
+    {
       "raw_hot": 411435,
       "num": 290314,
       "word": "曝上村谦信涉嫌性骚扰被捕",
@@ -10003,14 +10011,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 325757,
-      "num": 325757,
-      "word": "为什么身边的姐弟恋越来越多了",
-      "onboard_time": 1741919841,
-      "rank": 16,
-      "category": "民生新闻,情感"
-    },
-    {
       "raw_hot": 325245,
       "num": 269227,
       "word": "网传张艺兴出演女足",
@@ -11131,6 +11131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 291653,
+      "num": 272184,
+      "word": "穆婷婷拍了很多戏没播",
+      "onboard_time": 1741918462,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 291630,
       "num": 509341,
       "word": "苗苗建议不要用大人的眼光衡量孩子",
@@ -11851,14 +11859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 272184,
-      "num": 272184,
-      "word": "穆婷婷拍了很多戏没播",
-      "onboard_time": 1741918462,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 272122,
       "num": 272122,
       "word": "张继科说要挑战王曼昱",
@@ -12017,6 +12017,14 @@
       "onboard_time": 1740849856,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 269034,
+      "num": 269034,
+      "word": "SEVENTEEN十周年特别版应援棒",
+      "onboard_time": 1741919662,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 268954,
@@ -12297,14 +12305,6 @@
       "onboard_time": 1741071978,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 263990,
-      "num": 263990,
-      "word": "SEVENTEEN十周年特别版应援棒",
-      "onboard_time": 1741919662,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 263916,
@@ -13571,6 +13571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 232676,
+      "num": 232676,
+      "word": "网约车绕路致迟到考生获赔2000",
+      "onboard_time": 1741920443,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 231949,
       "num": 231949,
       "word": "照镜辞开机",
@@ -14443,6 +14451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219729,
+      "num": 382947,
+      "word": "男子百亿补贴8299元买到iPhone样板机",
+      "onboard_time": 1741917141,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 219633,
       "num": 316154,
       "word": "TES一穿五",
@@ -14841,14 +14857,6 @@
       "onboard_time": 1741756165,
       "rank": 13,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 214265,
-      "num": 214265,
-      "word": "男子百亿补贴8299元买到iPhone样板机",
-      "onboard_time": 1741917141,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 214252,
@@ -16323,6 +16331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198987,
+      "num": 198987,
+      "word": "丫丫噌一下就爬上去了",
+      "onboard_time": 1741919904,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198986,
       "num": 299664,
       "word": "郑钦文vs科斯秋克",
@@ -17137,6 +17153,14 @@
       "onboard_time": 1741575859,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 192584,
+      "num": 192584,
+      "word": "白色情人节",
+      "onboard_time": 1741920743,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 192374,
@@ -18795,6 +18819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177096,
+      "num": 331098,
+      "word": "A股",
+      "onboard_time": 1741574240,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 176967,
       "num": 176967,
       "word": "董明珠称挖人是小偷行为",
@@ -19443,14 +19475,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 171821,
-      "num": 171821,
-      "word": "白色情人节",
-      "onboard_time": 1741920743,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 171653,
       "num": 171653,
       "word": "理想MEGA",
@@ -19657,14 +19681,6 @@
       "onboard_time": 1740834142,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 170218,
-      "num": 170218,
-      "word": "丫丫噌一下就爬上去了",
-      "onboard_time": 1741919904,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 170127,
@@ -20049,6 +20065,14 @@
       "onboard_time": 1740971120,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167557,
+      "num": 331919,
+      "word": "2025年315晚会主题官宣",
+      "onboard_time": 1741919361,
+      "rank": 8,
+      "category": "财经,舆论监督"
     },
     {
       "raw_hot": 167534,
@@ -22227,14 +22251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 153278,
-      "num": 331919,
-      "word": "2025年315晚会主题官宣",
-      "onboard_time": 1741919361,
-      "rank": 8,
-      "category": "财经,舆论监督"
-    },
-    {
       "raw_hot": 153255,
       "num": 153255,
       "word": "建议把学生的AI能力纳入新课标",
@@ -22457,14 +22473,6 @@
       "onboard_time": 1741236079,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152220,
-      "num": 331098,
-      "word": "A股",
-      "onboard_time": 1741574240,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 152108,
@@ -23041,6 +23049,14 @@
       "onboard_time": 1741075701,
       "rank": 23,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 147903,
+      "num": 269503,
+      "word": "虞书欣林一祝白色情人节快乐",
+      "onboard_time": 1741918340,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 147895,
@@ -24091,14 +24107,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 141036,
-      "num": 269503,
-      "word": "虞书欣林一祝白色情人节快乐",
-      "onboard_time": 1741918340,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 140976,
       "num": 140976,
       "word": "哪吒里南面结界兽原来真的没有说谎",
@@ -24241,14 +24249,6 @@
       "onboard_time": 1740900918,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140396,
-      "num": 140396,
-      "word": "网约车绕路致迟到考生获赔2000",
-      "onboard_time": 1741920443,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 140367,
@@ -25332,7 +25332,7 @@
     },
     {
       "raw_hot": 133518,
-      "num": 214915,
+      "num": 246389,
       "word": "Jennie回归成绩",
       "onboard_time": 1741745480,
       "rank": 29,
@@ -31396,7 +31396,7 @@
     },
     {
       "raw_hot": 99223,
-      "num": 99223,
+      "num": 156761,
       "word": "似锦疯批母女联手抢女婿",
       "onboard_time": 1741919300,
       "rank": 48,
@@ -32281,6 +32281,14 @@
       "onboard_time": 1741613486,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 93362,
+      "num": 168850,
+      "word": "女子高铁被行李箱砸晕铁路方拒担责",
+      "onboard_time": 1741921646,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93358,
@@ -33329,6 +33337,14 @@
       "onboard_time": 1741591160,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 85781,
+      "num": 325858,
+      "word": "美一载有178人客机在机场起火",
+      "onboard_time": 1741920504,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 85746,
@@ -37723,14 +37739,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 41631,
-      "num": 325858,
-      "word": "美一载有178人客机在机场起火",
-      "onboard_time": 1741920504,
-      "rank": 14,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 41626,
       "num": 120277,
       "word": "王一珩充实且快乐的活着",
@@ -38041,6 +38049,14 @@
       "onboard_time": 1741688663,
       "rank": 34,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 39802,
+      "num": 264847,
+      "word": "沪指时隔3个月重回3400点",
+      "onboard_time": 1741921345,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 39694,
@@ -39200,6 +39216,14 @@
       "word": "手机智能助手存隐私裸奔风险",
       "onboard_time": 1741705344,
       "rank": 29,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 31127,
+      "num": 178147,
+      "word": "万元购买子宫养护套餐感染盆腔炎",
+      "onboard_time": 1741921523,
+      "rank": 35,
       "category": "舆论监督"
     },
     {
@@ -42145,6 +42169,14 @@
       "onboard_time": 1740767113,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 8838,
+      "num": 716929,
+      "word": "文化中国行解锁博物馆科技感新玩法",
+      "onboard_time": 1741921464,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 8704,

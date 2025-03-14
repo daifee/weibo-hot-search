@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741921130797,
+  "endTime": 1741921679458,
   "band_list": [
     {
       "raw_hot": 21330054,
@@ -11,18 +11,18 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 10901855,
-      "num": 10901855,
-      "word": "金秀贤在信里说我爱你赛纶",
-      "onboard_time": 1741774582,
+      "raw_hot": 13571359,
+      "num": 13571359,
+      "word": "金秀贤承认与金赛纶恋情",
+      "onboard_time": 1741921105,
       "rank": 10,
       "category": "艺人"
     },
     {
-      "raw_hot": 9072545,
-      "num": 9072545,
-      "word": "金秀贤承认与金赛纶恋情",
-      "onboard_time": 1741921105,
+      "raw_hot": 10901855,
+      "num": 10901855,
+      "word": "金秀贤在信里说我爱你赛纶",
+      "onboard_time": 1741774582,
       "rank": 10,
       "category": "艺人"
     },
@@ -195,6 +195,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 2167621,
+      "num": 325848,
+      "word": "韩素希画的是金秀贤吗",
+      "onboard_time": 1741919964,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2132664,
       "num": 231828,
       "word": "金赛纶头七那天金秀贤发的泡泡",
@@ -257,14 +265,6 @@
       "onboard_time": 1741880183,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 2011465,
-      "num": 325848,
-      "word": "韩素希画的是金秀贤吗",
-      "onboard_time": 1741919964,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 1994189,
@@ -3195,6 +3195,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 411858,
+      "num": 411858,
+      "word": "为什么身边的姐弟恋越来越多了",
+      "onboard_time": 1741919841,
+      "rank": 16,
+      "category": "民生新闻,情感"
+    },
+    {
       "raw_hot": 409445,
       "num": 409445,
       "word": "金赛纶打5份工还债还被霸凌",
@@ -4139,14 +4147,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 325757,
-      "num": 325757,
-      "word": "为什么身边的姐弟恋越来越多了",
-      "onboard_time": 1741919841,
-      "rank": 16,
-      "category": "民生新闻,情感"
-    },
-    {
       "raw_hot": 324923,
       "num": 324923,
       "word": "美乌发布联合声明",
@@ -4539,6 +4539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 291653,
+      "num": 272184,
+      "word": "穆婷婷拍了很多戏没播",
+      "onboard_time": 1741918462,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 291233,
       "num": 291233,
       "word": "爱你婚礼邀请函",
@@ -4779,14 +4787,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 272184,
-      "num": 272184,
-      "word": "穆婷婷拍了很多戏没播",
-      "onboard_time": 1741918462,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 271406,
       "num": 246517,
       "word": "女子回应吃火锅涮邻桌剩菜",
@@ -4833,6 +4833,14 @@
       "onboard_time": 1741860382,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 269034,
+      "num": 269034,
+      "word": "SEVENTEEN十周年特别版应援棒",
+      "onboard_time": 1741919662,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 268687,
@@ -4960,14 +4968,6 @@
       "word": "权志龙无妄之灾",
       "onboard_time": 1741779685,
       "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 263990,
-      "num": 263990,
-      "word": "SEVENTEEN十周年特别版应援棒",
-      "onboard_time": 1741919662,
-      "rank": 30,
       "category": "艺人"
     },
     {
@@ -5443,6 +5443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 232676,
+      "num": 232676,
+      "word": "网约车绕路致迟到考生获赔2000",
+      "onboard_time": 1741920443,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 231908,
       "num": 231908,
       "word": "虞书欣是林一的真人bjd",
@@ -5835,6 +5843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 219729,
+      "num": 382947,
+      "word": "男子百亿补贴8299元买到iPhone样板机",
+      "onboard_time": 1741917141,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 219379,
       "num": 219379,
       "word": "宋茜好像霍格沃茨来的",
@@ -5977,14 +5993,6 @@
       "onboard_time": 1741756165,
       "rank": 13,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 214265,
-      "num": 214265,
-      "word": "男子百亿补贴8299元买到iPhone样板机",
-      "onboard_time": 1741917141,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 214039,
@@ -6523,6 +6531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198987,
+      "num": 198987,
+      "word": "丫丫噌一下就爬上去了",
+      "onboard_time": 1741919904,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198986,
       "num": 299664,
       "word": "郑钦文vs科斯秋克",
@@ -6865,6 +6881,14 @@
       "onboard_time": 1741575859,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 192584,
+      "num": 192584,
+      "word": "白色情人节",
+      "onboard_time": 1741920743,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 192348,
@@ -7523,6 +7547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 177096,
+      "num": 331098,
+      "word": "A股",
+      "onboard_time": 1741574240,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 176947,
       "num": 176947,
       "word": "8小时工作8小时休息8小时个人时间",
@@ -7787,14 +7819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 171821,
-      "num": 171821,
-      "word": "白色情人节",
-      "onboard_time": 1741920743,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 171653,
       "num": 171653,
       "word": "理想MEGA",
@@ -7841,14 +7865,6 @@
       "onboard_time": 1741840645,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 170218,
-      "num": 170218,
-      "word": "丫丫噌一下就爬上去了",
-      "onboard_time": 1741919904,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 170127,
@@ -8025,6 +8041,14 @@
       "onboard_time": 1741854143,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167557,
+      "num": 331919,
+      "word": "2025年315晚会主题官宣",
+      "onboard_time": 1741919361,
+      "rank": 8,
+      "category": "财经,舆论监督"
     },
     {
       "raw_hot": 167534,
@@ -8899,14 +8923,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 153278,
-      "num": 331919,
-      "word": "2025年315晚会主题官宣",
-      "onboard_time": 1741919361,
-      "rank": 8,
-      "category": "财经,舆论监督"
-    },
-    {
       "raw_hot": 153198,
       "num": 203793,
       "word": "孙颖莎希望胜利200场300场",
@@ -8969,14 +8985,6 @@
       "onboard_time": 1741562599,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 152220,
-      "num": 331098,
-      "word": "A股",
-      "onboard_time": 1741574240,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 152098,
@@ -9209,6 +9217,14 @@
       "onboard_time": 1741692805,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 147903,
+      "num": 269503,
+      "word": "虞书欣林一祝白色情人节快乐",
+      "onboard_time": 1741918340,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 147720,
@@ -9619,14 +9635,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 141036,
-      "num": 269503,
-      "word": "虞书欣林一祝白色情人节快乐",
-      "onboard_time": 1741918340,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 140826,
       "num": 309212,
       "word": "人民网评北上",
@@ -9665,14 +9673,6 @@
       "onboard_time": 1741665862,
       "rank": 19,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 140396,
-      "num": 140396,
-      "word": "网约车绕路致迟到考生获赔2000",
-      "onboard_time": 1741920443,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 140367,
@@ -10132,7 +10132,7 @@
     },
     {
       "raw_hot": 133518,
-      "num": 214915,
+      "num": 246389,
       "word": "Jennie回归成绩",
       "onboard_time": 1741745480,
       "rank": 29,
@@ -12716,7 +12716,7 @@
     },
     {
       "raw_hot": 99223,
-      "num": 99223,
+      "num": 156761,
       "word": "似锦疯批母女联手抢女婿",
       "onboard_time": 1741919300,
       "rank": 48,
@@ -13041,6 +13041,14 @@
       "onboard_time": 1741613486,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 93362,
+      "num": 168850,
+      "word": "女子高铁被行李箱砸晕铁路方拒担责",
+      "onboard_time": 1741921646,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92966,
@@ -13521,6 +13529,14 @@
       "onboard_time": 1741591160,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 85781,
+      "num": 325858,
+      "word": "美一载有178人客机在机场起火",
+      "onboard_time": 1741920504,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 85746,
@@ -15307,14 +15323,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 41631,
-      "num": 325858,
-      "word": "美一载有178人客机在机场起火",
-      "onboard_time": 1741920504,
-      "rank": 14,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 41626,
       "num": 120277,
       "word": "王一珩充实且快乐的活着",
@@ -15457,6 +15465,14 @@
       "onboard_time": 1741688663,
       "rank": 34,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 39802,
+      "num": 264847,
+      "word": "沪指时隔3个月重回3400点",
+      "onboard_time": 1741921345,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 39694,
@@ -15920,6 +15936,14 @@
       "word": "手机智能助手存隐私裸奔风险",
       "onboard_time": 1741705344,
       "rank": 29,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 31127,
+      "num": 178147,
+      "word": "万元购买子宫养护套餐感染盆腔炎",
+      "onboard_time": 1741921523,
+      "rank": 35,
       "category": "舆论监督"
     },
     {
@@ -17185,6 +17209,14 @@
       "onboard_time": 1741896074,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 8838,
+      "num": 716929,
+      "word": "文化中国行解锁博物馆科技感新玩法",
+      "onboard_time": 1741921464,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 6871,
