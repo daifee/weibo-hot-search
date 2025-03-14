@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741941789036,
+  "endTime": 1741944311302,
   "band_list": [
     {
       "raw_hot": 21330054,
@@ -257,6 +257,14 @@
       "onboard_time": 1741679842,
       "rank": 3,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2076880,
+      "num": 233166,
+      "word": "Prada与金秀贤解约",
+      "onboard_time": 1741943423,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 2074073,
@@ -1563,6 +1571,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 831008,
+      "num": 831008,
+      "word": "戚薇李承铉这是我不花钱能听的吗",
+      "onboard_time": 1741940484,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 826058,
       "num": 474754,
       "word": "一人一句恭喜吒儿",
@@ -2443,6 +2459,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 590014,
+      "num": 590014,
+      "word": "去年315被曝光企业现状",
+      "onboard_time": 1741942343,
+      "rank": 4,
+      "category": "民生新闻,舆论监督"
+    },
+    {
       "raw_hot": 587688,
       "num": 587688,
       "word": "普京表示俄罗斯同意停火30天",
@@ -2609,6 +2633,14 @@
       "onboard_time": 1741877904,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 543567,
+      "num": 543567,
+      "word": "TES",
+      "onboard_time": 1741941745,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 543424,
@@ -2929,6 +2961,14 @@
       "onboard_time": 1741565421,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 491935,
+      "num": 491935,
+      "word": "把住宅改为骨灰房违法吗",
+      "onboard_time": 1741940783,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 491660,
@@ -4251,6 +4291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 339877,
+      "num": 339877,
+      "word": "深圳富豪悬赏千万寻子终于上岸",
+      "onboard_time": 1741942044,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 337167,
       "num": 337167,
       "word": "阿里AI旗舰应用夸克全面升级",
@@ -4467,6 +4515,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 323302,
+      "num": 323302,
+      "word": "张元英为了不出崩图一直不眨眼",
+      "onboard_time": 1741943423,
+      "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 322772,
       "num": 322772,
       "word": "20年前的电子垃圾为何被炒出天价",
@@ -4553,14 +4609,6 @@
       "onboard_time": 1741594221,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 315488,
-      "num": 315488,
-      "word": "戚薇李承铉这是我不花钱能听的吗",
-      "onboard_time": 1741940484,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 314403,
@@ -5891,6 +5939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 233015,
+      "num": 233015,
+      "word": "CFO对战TES",
+      "onboard_time": 1741941802,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 232676,
       "num": 313498,
       "word": "网约车绕路致迟到考生获赔2000",
@@ -6073,6 +6129,14 @@
       "onboard_time": 1741650080,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 227370,
+      "num": 241746,
+      "word": "除了董力所有人都get到阿诺在表白",
+      "onboard_time": 1741941864,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 227318,
@@ -6312,6 +6376,14 @@
       "word": "我追星",
       "onboard_time": 1741683383,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 220774,
+      "num": 314137,
+      "word": "嘘国王在冬眠微博追剧团",
+      "onboard_time": 1741940484,
+      "rank": 17,
       "category": "剧集"
     },
     {
@@ -7115,6 +7187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198896,
+      "num": 317490,
+      "word": "老人被开通手机套餐叠加收费超7000元",
+      "onboard_time": 1741940842,
+      "rank": 24,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 198841,
       "num": 353226,
       "word": "张艺兴逛河南哇了一路",
@@ -7827,6 +7907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 187134,
+      "num": 241163,
+      "word": "田曦薇粉色水蜜桃",
+      "onboard_time": 1741942224,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 187076,
       "num": 277176,
       "word": "死亡搁浅2",
@@ -8000,14 +8088,6 @@
       "word": "白鹿去年拍的长发版夏凤华",
       "onboard_time": 1741510941,
       "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 183032,
-      "num": 314137,
-      "word": "嘘国王在冬眠微博追剧团",
-      "onboard_time": 1741940484,
-      "rank": 17,
       "category": "剧集"
     },
     {
@@ -11011,6 +11091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134248,
+      "num": 236542,
+      "word": "赵丽颖爆发戏下的温暖底色",
+      "onboard_time": 1741942883,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 134228,
       "num": 237136,
       "word": "申裕斌吃到黄牌",
@@ -11651,6 +11739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124506,
+      "num": 124506,
+      "word": "悬赏千万寻子父亲找到失踪24年儿子",
+      "onboard_time": 1741944265,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124138,
       "num": 124138,
       "word": "刘嘉玲梁朝伟雪山合照",
@@ -11809,6 +11905,14 @@
       "onboard_time": 1741497921,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123256,
+      "num": 123256,
+      "word": "深圳悬赏千万寻子的父亲找到儿子了",
+      "onboard_time": 1741942044,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123201,
@@ -12353,6 +12457,14 @@
       "onboard_time": 1741758686,
       "rank": 46,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 116596,
+      "num": 180534,
+      "word": "赵丽颖新角色流水的工作铁打的花",
+      "onboard_time": 1741943306,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 116543,
@@ -13731,14 +13843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 99544,
-      "num": 99544,
-      "word": "TES",
-      "onboard_time": 1741941745,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 99487,
       "num": 99487,
       "word": "李健抢票",
@@ -13881,14 +13985,6 @@
       "onboard_time": 1741824742,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 97743,
-      "num": 312620,
-      "word": "把住宅改为骨灰房违法吗",
-      "onboard_time": 1741940783,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 97622,
@@ -14075,6 +14171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94792,
+      "num": 237231,
+      "word": "一文回顾去年315被曝光企业",
+      "onboard_time": 1741944145,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94575,
       "num": 94575,
       "word": "你这桑椹好大一个",
@@ -14219,12 +14323,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91951,
+      "num": 247503,
+      "word": "市场价295元产品医生可提成170元",
+      "onboard_time": 1741943306,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 91904,
       "num": 177447,
       "word": "总经理回应杨铭宇黄焖鸡后厨乱象",
       "onboard_time": 1741883540,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91795,
+      "num": 239368,
+      "word": "2025考研复试",
+      "onboard_time": 1741943306,
+      "rank": 23,
+      "category": "教育"
     },
     {
       "raw_hot": 91596,
@@ -14867,6 +14987,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 80166,
+      "num": 235073,
+      "word": "省考前一天还能做什么",
+      "onboard_time": 1741944204,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 79802,
       "num": 82678,
       "word": "塔图姆40分",
@@ -15291,6 +15419,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 70361,
+      "num": 185548,
+      "word": "有氧与无氧运动的区别",
+      "onboard_time": 1741943306,
+      "rank": 39,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 70146,
       "num": 70146,
       "word": "他们的孩子要在爱中长大了",
@@ -15555,6 +15691,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 63264,
+      "num": 242886,
+      "word": "TES首局不敌CFO",
+      "onboard_time": 1741943664,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 63068,
       "num": 152777,
       "word": "政协委员提醒看电影禁止录音录像",
@@ -15745,14 +15889,6 @@
       "onboard_time": 1741880963,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 57653,
-      "num": 317490,
-      "word": "老人被开通手机套餐叠加收费超7000元",
-      "onboard_time": 1741940842,
-      "rank": 24,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 57356,
@@ -16259,6 +16395,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 46886,
+      "num": 240134,
+      "word": "12种冒牌DeepSeekAPP收割消费者",
+      "onboard_time": 1741944023,
+      "rank": 22,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 46647,
       "num": 634531,
       "word": "中国经济持续向好有底气",
@@ -16473,6 +16617,14 @@
       "onboard_time": 1741750883,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 42259,
+      "num": 221583,
+      "word": "刘恋重回职场摩登走秀",
+      "onboard_time": 1741943363,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 42247,
@@ -16787,6 +16939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38311,
+      "num": 242728,
+      "word": "啄木鸟家庭维修被曝忽悠客户",
+      "onboard_time": 1741943003,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 37976,
       "num": 261946,
       "word": "夸克推荐25年必追剧单",
@@ -16953,6 +17113,14 @@
       "onboard_time": 1741844063,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 34994,
+      "num": 235988,
+      "word": "大师字画发货地竟在山沟里",
+      "onboard_time": 1741942583,
+      "rank": 28,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 34593,
@@ -17139,6 +17307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32310,
+      "num": 187426,
+      "word": "2025大包回潮",
+      "onboard_time": 1741942823,
+      "rank": 38,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 31903,
       "num": 350033,
       "word": "有黄金回收报价超大盘100元引流",
@@ -17273,6 +17449,14 @@
       "onboard_time": 1741937303,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 29704,
+      "num": 238728,
+      "word": "工厂回收一次性水瓶再装水卖给学校",
+      "onboard_time": 1741944145,
+      "rank": 24,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 29669,
@@ -17531,6 +17715,14 @@
       "category": "国内时政,国际时政"
     },
     {
+      "raw_hot": 25557,
+      "num": 693234,
+      "word": "春日进度条加载中",
+      "onboard_time": 1741941204,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25540,
       "num": 100656,
       "word": "英国沿海一美国化学品油轮起火",
@@ -17609,6 +17801,14 @@
       "onboard_time": 1741937423,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 24574,
+      "num": 138680,
+      "word": "鸡肉干加香料变牛肉干卖出192万",
+      "onboard_time": 1741944265,
+      "rank": 44,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 24538,
@@ -17713,14 +17913,6 @@
       "onboard_time": 1741769244,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 23107,
-      "num": 510332,
-      "word": "春日进度条加载中",
-      "onboard_time": 1741941204,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23031,
@@ -18009,6 +18201,14 @@
       "onboard_time": 1741721413,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 18839,
+      "num": 235122,
+      "word": "考研复试都有哪些流程",
+      "onboard_time": 1741944084,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 18636,
