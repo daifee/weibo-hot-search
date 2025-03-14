@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1741923365413,
+  "endTime": 1741924099218,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -835,6 +835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 4356564,
+      "num": 313310,
+      "word": "金秀贤发万字长文",
+      "onboard_time": 1741923205,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 4314287,
       "num": 719918,
       "word": "网传大S的急诊就诊记录",
@@ -993,14 +1001,6 @@
       "onboard_time": 1741419981,
       "rank": 10,
       "category": "演出"
-    },
-    {
-      "raw_hot": 3803358,
-      "num": 313310,
-      "word": "金秀贤发万字长文",
-      "onboard_time": 1741923205,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 3789802,
