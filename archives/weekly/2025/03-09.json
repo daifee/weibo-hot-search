@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741926474415,
+  "endTime": 1741927321632,
   "band_list": [
     {
       "raw_hot": 21330054,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 4356564,
-      "num": 408048,
+      "num": 449643,
       "word": "金秀贤发万字长文",
       "onboard_time": 1741923205,
       "rank": 16,
@@ -1827,6 +1827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 712855,
+      "num": 409069,
+      "word": "deepseek 语擦",
+      "onboard_time": 1741925066,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 711688,
       "num": 435886,
       "word": "不健康的亲密关系要尽早远离",
@@ -1889,6 +1897,14 @@
       "onboard_time": 1741494740,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 699428,
+      "num": 585775,
+      "word": "邻居曝中国女孩美国遭家暴枪杀细节",
+      "onboard_time": 1741923506,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 691245,
@@ -2371,6 +2387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 571260,
+      "num": 337224,
+      "word": "肉铺老板绞肉绞断三根手指索赔顾客",
+      "onboard_time": 1741922905,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 570877,
       "num": 570877,
       "word": "广州长隆回应垂直过山车永久拆除",
@@ -2409,14 +2433,6 @@
       "onboard_time": 1741562297,
       "rank": 30,
       "category": "国际时政,互联网"
-    },
-    {
-      "raw_hot": 558769,
-      "num": 303258,
-      "word": "肉铺老板绞肉绞断三根手指索赔顾客",
-      "onboard_time": 1741922905,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 557756,
@@ -2593,6 +2609,14 @@
       "onboard_time": 1741837343,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 527261,
+      "num": 527261,
+      "word": "白敬亭章若楠四手联弹",
+      "onboard_time": 1741926086,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 527239,
@@ -2787,6 +2811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 494721,
+      "num": 494721,
+      "word": "金店足金价格涨破900",
+      "onboard_time": 1741923385,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 493403,
       "num": 1058769,
       "word": "多家大厂开始强制下班",
@@ -2889,14 +2921,6 @@
       "onboard_time": 1741840106,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 472084,
-      "num": 472084,
-      "word": "邻居曝中国女孩美国遭家暴枪杀细节",
-      "onboard_time": 1741923506,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 470924,
@@ -3275,28 +3299,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 410802,
-      "num": 410802,
-      "word": "金店足金价格涨破900",
-      "onboard_time": 1741923385,
-      "rank": 14,
-      "category": "财经"
-    },
-    {
       "raw_hot": 409445,
       "num": 409445,
       "word": "金赛纶打5份工还债还被霸凌",
       "onboard_time": 1741831883,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 409069,
-      "num": 409069,
-      "word": "deepseek 语擦",
-      "onboard_time": 1741925066,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 408179,
@@ -4411,12 +4419,28 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 305275,
+      "num": 305275,
+      "word": "海底捞一人食",
+      "onboard_time": 1741926627,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 304657,
       "num": 273544,
       "word": "老人长期吃素胆囊长出金蛋状结石",
       "onboard_time": 1741917861,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 304591,
+      "num": 304591,
+      "word": "原神",
+      "onboard_time": 1741925546,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 304538,
@@ -4731,14 +4755,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 286367,
-      "num": 286367,
-      "word": "原神",
-      "onboard_time": 1741925546,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 285867,
       "num": 285867,
       "word": "LV内场看秀待遇",
@@ -4908,7 +4924,7 @@
     },
     {
       "raw_hot": 272741,
-      "num": 272741,
+      "num": 274739,
       "word": "黄杨钿甜凌晨2点的火车",
       "onboard_time": 1741924945,
       "rank": 26,
@@ -5588,7 +5604,7 @@
     },
     {
       "raw_hot": 234214,
-      "num": 234214,
+      "num": 259044,
       "word": "赵丽颖说就把自己当块铁吧",
       "onboard_time": 1741925785,
       "rank": 29,
@@ -6003,6 +6019,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 219358,
+      "num": 219358,
+      "word": "对刮刮乐祛魅了",
+      "onboard_time": 1741927226,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 219085,
       "num": 219085,
       "word": "闪耀暖暖联动喜羊羊与灰太狼",
@@ -6313,6 +6337,14 @@
       "onboard_time": 1741449622,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 208544,
+      "num": 208544,
+      "word": "比亚迪3月17日推出兆瓦闪充",
+      "onboard_time": 1741926806,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 208435,
@@ -6635,6 +6667,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 200356,
+      "num": 215548,
+      "word": "种地吧",
+      "onboard_time": 1741660882,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200143,
       "num": 273049,
       "word": "抵制特斯拉活动计划在多国举行",
@@ -6840,14 +6880,6 @@
       "word": "冰湖重生官微回应张康乐发烧",
       "onboard_time": 1741496303,
       "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 196750,
-      "num": 196750,
-      "word": "白敬亭章若楠四手联弹",
-      "onboard_time": 1741926086,
-      "rank": 32,
       "category": "剧集"
     },
     {
@@ -7155,6 +7187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190765,
+      "num": 241354,
+      "word": "嘘国王在冬眠",
+      "onboard_time": 1741650861,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190479,
       "num": 190479,
       "word": "朱亚文沈佳妮否认离婚后首同框",
@@ -7339,6 +7379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187575,
+      "num": 187575,
+      "word": "未定事件簿",
+      "onboard_time": 1741926507,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 187543,
       "num": 187543,
       "word": "人一摔倒全世界的狗都会吻上来",
@@ -7425,14 +7473,6 @@
       "onboard_time": 1741694484,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 185551,
-      "num": 241354,
-      "word": "嘘国王在冬眠",
-      "onboard_time": 1741650861,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 185502,
@@ -7713,6 +7753,14 @@
       "onboard_time": 1741748963,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 178099,
+      "num": 178099,
+      "word": "留几手 陷入男性困境没有人会共情你",
+      "onboard_time": 1741925665,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 178084,
@@ -8595,6 +8643,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 163154,
+      "num": 287286,
+      "word": "过度使用电子产品致性早熟影响身高",
+      "onboard_time": 1741924586,
+      "rank": 22,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 162965,
       "num": 162965,
       "word": "何苏叶自动回复",
@@ -9427,6 +9483,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 148841,
+      "num": 148841,
+      "word": "王安宇双开门背影",
+      "onboard_time": 1741927286,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 148709,
       "num": 269734,
       "word": "美国纽约发生多起山火",
@@ -9513,14 +9577,6 @@
       "onboard_time": 1741669225,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 146443,
-      "num": 287286,
-      "word": "过度使用电子产品致性早熟影响身高",
-      "onboard_time": 1741924586,
-      "rank": 22,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 146287,
@@ -10929,14 +10985,6 @@
       "onboard_time": 1741530925,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 124398,
-      "num": 215548,
-      "word": "种地吧",
-      "onboard_time": 1741660882,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 124138,
@@ -13283,14 +13331,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 93924,
-      "num": 143225,
-      "word": "留几手 陷入男性困境没有人会共情你",
-      "onboard_time": 1741925665,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 93376,
       "num": 93376,
       "word": "张嘉元回应被章子怡点评很值",
@@ -14203,6 +14243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 76938,
+      "num": 337431,
+      "word": "舒淇一小时拍完封面",
+      "onboard_time": 1741926867,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 76862,
       "num": 188892,
       "word": "公司回应上班8小时倒扣3天工资",
@@ -14753,6 +14801,14 @@
       "onboard_time": 1741695323,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 61215,
+      "num": 265861,
+      "word": "郑远元北派修脚没有灰指甲硬说你有",
+      "onboard_time": 1741927108,
+      "rank": 27,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 60951,
@@ -15475,6 +15531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 43819,
+      "num": 455950,
+      "word": "王艺迪vs徐孝元",
+      "onboard_time": 1741926987,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 43791,
       "num": 335829,
       "word": "梁王说要进步的地方太多了",
@@ -15569,6 +15633,14 @@
       "onboard_time": 1741680261,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 41658,
+      "num": 474148,
+      "word": "职业闭店人骗取146万被判刑",
+      "onboard_time": 1741926627,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 41626,
@@ -15787,6 +15859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38710,
+      "num": 770134,
+      "word": "这是春天里的锦绣中国",
+      "onboard_time": 1741922484,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38613,
       "num": 311954,
       "word": "汤家凤称老师要为学生做好表率",
@@ -15825,6 +15905,14 @@
       "onboard_time": 1741526122,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 37874,
+      "num": 294216,
+      "word": "福克斯赛季报销",
+      "onboard_time": 1741926507,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 37455,
@@ -16000,14 +16088,6 @@
       "word": "寻夫80余年离世老人曾回应为何不改嫁",
       "onboard_time": 1741620024,
       "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34192,
-      "num": 770134,
-      "word": "这是春天里的锦绣中国",
-      "onboard_time": 1741922484,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -16297,6 +16377,14 @@
       "onboard_time": 1741538119,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 29348,
+      "num": 450092,
+      "word": "起底以婚恋名义诱导买房公司",
+      "onboard_time": 1741926926,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29301,

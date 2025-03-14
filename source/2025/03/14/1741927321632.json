@@ -1,0 +1,410 @@
+{
+  "runTime": 1741927321632,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1713495,
+        "num": 1713495,
+        "word": "柳演锡涉嫌逃税",
+        "onboard_time": 1741924045,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 853957,
+        "num": 853957,
+        "word": "造谣顶流明星输10亿的男子被拘留",
+        "onboard_time": 1741915882,
+        "rank": 1,
+        "category": "辟谣/通报,艺人"
+      },
+      {
+        "raw_hot": 38710,
+        "num": 690408,
+        "word": "这是春天里的锦绣中国",
+        "onboard_time": 1741922484,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 619438,
+        "num": 619438,
+        "word": "中国台湾省",
+        "onboard_time": 1741880183,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 699428,
+        "num": 585775,
+        "word": "邻居曝中国女孩美国遭家暴枪杀细节",
+        "onboard_time": 1741923506,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1802436,
+        "num": 570799,
+        "word": "中国钢琴才女遭美国丈夫枪杀",
+        "onboard_time": 1741922006,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 547844,
+        "num": 547844,
+        "word": "汤家凤再次发声",
+        "onboard_time": 1741923746,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 527261,
+        "num": 527261,
+        "word": "白敬亭章若楠四手联弹",
+        "onboard_time": 1741926086,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 494721,
+        "num": 494721,
+        "word": "金店足金价格涨破900",
+        "onboard_time": 1741923385,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 41658,
+        "num": 474148,
+        "word": "职业闭店人骗取146万被判刑",
+        "onboard_time": 1741926627,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 9757078,
+        "num": 9757078,
+        "word": "金秀贤承认与金赛纶恋情",
+        "onboard_time": 1741921105,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 472716,
+        "num": 472716,
+        "word": "赵丽颖新片酒吧卖酒",
+        "onboard_time": 1741922964,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 470424,
+        "num": 470424,
+        "word": "韩安冉妈妈否认偷小猪妹黄金",
+        "onboard_time": 1741923446,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 43819,
+        "num": 455950,
+        "word": "王艺迪vs徐孝元",
+        "onboard_time": 1741926987,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29348,
+        "num": 450092,
+        "word": "起底以婚恋名义诱导买房公司",
+        "onboard_time": 1741926926,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2757139,
+        "num": 449643,
+        "word": "金秀贤发万字长文",
+        "onboard_time": 1741923205,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446871,
+        "num": 446871,
+        "word": "97年女生当村长5年惊艳所有人",
+        "onboard_time": 1741922905,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 374249,
+        "num": 374249,
+        "word": "鹿晗和偶遇网友合照",
+        "onboard_time": 1741909881,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366320,
+        "num": 366320,
+        "word": "为什么身边的姐弟恋越来越多了",
+        "onboard_time": 1741919841,
+        "rank": 18,
+        "category": "民生新闻,情感"
+      },
+      {
+        "raw_hot": 76938,
+        "num": 337431,
+        "word": "舒淇一小时拍完封面",
+        "onboard_time": 1741926867,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 571260,
+        "num": 337224,
+        "word": "肉铺老板绞肉绞断三根手指索赔顾客",
+        "onboard_time": 1741922905,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336016,
+        "num": 336016,
+        "word": "迪丽热巴加勒比女王造型",
+        "onboard_time": 1741923746,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305275,
+        "num": 305275,
+        "word": "海底捞一人食",
+        "onboard_time": 1741926627,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 304591,
+        "num": 304591,
+        "word": "原神",
+        "onboard_time": 1741925546,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 37874,
+        "num": 294216,
+        "word": "福克斯赛季报销",
+        "onboard_time": 1741926507,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289686,
+        "num": 289686,
+        "word": "女子高铁被行李箱砸晕铁路方拒担责",
+        "onboard_time": 1741921646,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239138,
+        "num": 274739,
+        "word": "黄杨钿甜凌晨2点的火车",
+        "onboard_time": 1741924945,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61215,
+        "num": 265861,
+        "word": "郑远元北派修脚没有灰指甲硬说你有",
+        "onboard_time": 1741927108,
+        "rank": 27,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 261195,
+        "num": 261195,
+        "word": "穆婷婷拍了很多戏没播",
+        "onboard_time": 1741918462,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217894,
+        "num": 259044,
+        "word": "赵丽颖说就把自己当块铁吧",
+        "onboard_time": 1741925785,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 258428,
+        "num": 258428,
+        "word": "今天数学浓度太高了",
+        "onboard_time": 1741908140,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254803,
+        "num": 254803,
+        "word": "男子背着婴儿到处借10块钱买奶粉",
+        "onboard_time": 1741917501,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 712855,
+        "num": 244500,
+        "word": "deepseek 语擦",
+        "onboard_time": 1741925066,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 219358,
+        "num": 219358,
+        "word": "对刮刮乐祛魅了",
+        "onboard_time": 1741927226,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217256,
+        "num": 217256,
+        "word": "难哄",
+        "onboard_time": 1741914381,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208544,
+        "num": 208544,
+        "word": "比亚迪3月17日推出兆瓦闪充",
+        "onboard_time": 1741926806,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 207882,
+        "num": 207882,
+        "word": "华为笔记本再无Windows可用",
+        "onboard_time": 1741923145,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 200356,
+        "num": 200356,
+        "word": "种地吧",
+        "onboard_time": 1741926447,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196818,
+        "num": 196818,
+        "word": "柳演锡被追缴70亿税金",
+        "onboard_time": 1741924526,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190765,
+        "num": 190765,
+        "word": "嘘国王在冬眠",
+        "onboard_time": 1741926146,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187575,
+        "num": 187575,
+        "word": "未定事件簿",
+        "onboard_time": 1741926507,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178099,
+        "num": 178099,
+        "word": "留几手 陷入男性困境没有人会共情你",
+        "onboard_time": 1741925665,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163154,
+        "num": 163154,
+        "word": "过度使用电子产品致性早熟影响身高",
+        "onboard_time": 1741924586,
+        "rank": 42,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 159110,
+        "num": 159110,
+        "word": "小学老师解聘后在校门口卖火鸡面",
+        "onboard_time": 1741877963,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151868,
+        "num": 151868,
+        "word": "张艺兴告黑获胜",
+        "onboard_time": 1741924224,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149276,
+        "num": 149276,
+        "word": "老人长期吃素胆囊长出金蛋状结石",
+        "onboard_time": 1741917861,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148841,
+        "num": 148841,
+        "word": "王安宇双开门背影",
+        "onboard_time": 1741927286,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145364,
+        "num": 145364,
+        "word": "胡军可以是爹也可以是daddy",
+        "onboard_time": 1741925424,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140150,
+        "num": 140150,
+        "word": "恋与深空",
+        "onboard_time": 1741925066,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140030,
+        "num": 140030,
+        "word": "SEVENTEEN十周年特别版应援棒",
+        "onboard_time": 1741919662,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记出席2025年全国两会纪实#"
+    }
+  }
+}

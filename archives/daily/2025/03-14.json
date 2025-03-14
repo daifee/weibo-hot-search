@@ -1,6 +1,6 @@
 {
   "startTime": 1741883456293,
-  "endTime": 1741926474415,
+  "endTime": 1741927321632,
   "band_list": [
     {
       "raw_hot": 16802991,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 4356564,
-      "num": 408048,
+      "num": 449643,
       "word": "金秀贤发万字长文",
       "onboard_time": 1741923205,
       "rank": 16,
@@ -123,6 +123,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 712855,
+      "num": 409069,
+      "word": "deepseek 语擦",
+      "onboard_time": 1741925066,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 699428,
+      "num": 585775,
+      "word": "邻居曝中国女孩美国遭家暴枪杀细节",
+      "onboard_time": 1741923506,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 628809,
       "num": 398982,
       "word": "鹿晗和偶遇网友合照",
@@ -155,8 +171,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 558769,
-      "num": 303258,
+      "raw_hot": 571260,
+      "num": 337224,
       "word": "肉铺老板绞肉绞断三根手指索赔顾客",
       "onboard_time": 1741922905,
       "rank": 21,
@@ -187,6 +203,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 527261,
+      "num": 527261,
+      "word": "白敬亭章若楠四手联弹",
+      "onboard_time": 1741926086,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 527239,
       "num": 527239,
       "word": "赵丽颖新片酒吧卖酒",
@@ -203,12 +227,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 472084,
-      "num": 472084,
-      "word": "邻居曝中国女孩美国遭家暴枪杀细节",
-      "onboard_time": 1741923506,
-      "rank": 9,
-      "category": "海外新闻"
+      "raw_hot": 494721,
+      "num": 494721,
+      "word": "金店足金价格涨破900",
+      "onboard_time": 1741923385,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 461405,
@@ -273,22 +297,6 @@
       "onboard_time": 1741915222,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 410802,
-      "num": 410802,
-      "word": "金店足金价格涨破900",
-      "onboard_time": 1741923385,
-      "rank": 14,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 409069,
-      "num": 409069,
-      "word": "deepseek 语擦",
-      "onboard_time": 1741925066,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 404560,
@@ -363,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 305275,
+      "num": 305275,
+      "word": "海底捞一人食",
+      "onboard_time": 1741926627,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 304657,
       "num": 273544,
       "word": "老人长期吃素胆囊长出金蛋状结石",
@@ -371,20 +387,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 304591,
+      "num": 304591,
+      "word": "原神",
+      "onboard_time": 1741925546,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 300771,
       "num": 300771,
       "word": "浪琴回应到期不续赵丽颖传闻",
       "onboard_time": 1741907960,
       "rank": 26,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 286367,
-      "num": 286367,
-      "word": "原神",
-      "onboard_time": 1741925546,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 278476,
@@ -404,7 +420,7 @@
     },
     {
       "raw_hot": 272741,
-      "num": 272741,
+      "num": 274739,
       "word": "黄杨钿甜凌晨2点的火车",
       "onboard_time": 1741924945,
       "rank": 26,
@@ -468,7 +484,7 @@
     },
     {
       "raw_hot": 234214,
-      "num": 234214,
+      "num": 259044,
       "word": "赵丽颖说就把自己当块铁吧",
       "onboard_time": 1741925785,
       "rank": 29,
@@ -489,6 +505,14 @@
       "onboard_time": 1741856125,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219358,
+      "num": 219358,
+      "word": "对刮刮乐祛魅了",
+      "onboard_time": 1741927226,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 212915,
@@ -531,6 +555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208544,
+      "num": 208544,
+      "word": "比亚迪3月17日推出兆瓦闪充",
+      "onboard_time": 1741926806,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 208272,
       "num": 208272,
       "word": "郑钦文0比2斯瓦泰克",
@@ -563,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200356,
+      "num": 200356,
+      "word": "种地吧",
+      "onboard_time": 1741926447,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199886,
       "num": 331098,
       "word": "A股",
@@ -577,14 +617,6 @@
       "onboard_time": 1741919904,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 196750,
-      "num": 196750,
-      "word": "白敬亭章若楠四手联弹",
-      "onboard_time": 1741926086,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 195778,
@@ -627,6 +659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 190765,
+      "num": 190765,
+      "word": "嘘国王在冬眠",
+      "onboard_time": 1741926146,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188910,
       "num": 165572,
       "word": "36名男子被诱导买房有15名女销售参与",
@@ -641,6 +681,14 @@
       "onboard_time": 1741903034,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187575,
+      "num": 187575,
+      "word": "未定事件簿",
+      "onboard_time": 1741926507,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 184049,
@@ -673,6 +721,14 @@
       "onboard_time": 1741872324,
       "rank": 19,
       "category": "教育,运动健身"
+    },
+    {
+      "raw_hot": 178099,
+      "num": 178099,
+      "word": "留几手 陷入男性困境没有人会共情你",
+      "onboard_time": 1741925665,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 178084,
@@ -731,12 +787,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 162006,
-      "num": 162006,
-      "word": "嘘国王在冬眠",
-      "onboard_time": 1741926146,
-      "rank": 37,
-      "category": "剧集"
+      "raw_hot": 163154,
+      "num": 287286,
+      "word": "过度使用电子产品致性早熟影响身高",
+      "onboard_time": 1741924586,
+      "rank": 22,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 161922,
@@ -803,20 +859,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 148841,
+      "num": 148841,
+      "word": "王安宇双开门背影",
+      "onboard_time": 1741927286,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 147903,
       "num": 269503,
       "word": "虞书欣林一祝白色情人节快乐",
       "onboard_time": 1741918340,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 146443,
-      "num": 287286,
-      "word": "过度使用电子产品致性早熟影响身高",
-      "onboard_time": 1741924586,
-      "rank": 22,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 143216,
@@ -881,14 +937,6 @@
       "onboard_time": 1741922964,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 124398,
-      "num": 124398,
-      "word": "种地吧",
-      "onboard_time": 1741926447,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 123191,
@@ -1067,14 +1115,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 93924,
-      "num": 143225,
-      "word": "留几手 陷入男性困境没有人会共情你",
-      "onboard_time": 1741925665,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 91904,
       "num": 177447,
       "word": "总经理回应杨铭宇黄焖鸡后厨乱象",
@@ -1187,6 +1227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 76938,
+      "num": 337431,
+      "word": "舒淇一小时拍完封面",
+      "onboard_time": 1741926867,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 73783,
       "num": 97268,
       "word": "李昊直播",
@@ -1267,6 +1315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 61215,
+      "num": 265861,
+      "word": "郑远元北派修脚没有灰指甲硬说你有",
+      "onboard_time": 1741927108,
+      "rank": 27,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 58516,
       "num": 75026,
       "word": "老人将密码告诉侄孙6万多存款剩33",
@@ -1315,6 +1371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43819,
+      "num": 455950,
+      "word": "王艺迪vs徐孝元",
+      "onboard_time": 1741926987,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 42935,
       "num": 164922,
       "word": "剧组进小区拍短剧有业主遭驱",
@@ -1329,6 +1393,14 @@
       "onboard_time": 1741923205,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 41658,
+      "num": 474148,
+      "word": "职业闭店人骗取146万被判刑",
+      "onboard_time": 1741926627,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 39938,
@@ -1347,6 +1419,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 38710,
+      "num": 770134,
+      "word": "这是春天里的锦绣中国",
+      "onboard_time": 1741922484,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37874,
+      "num": 294216,
+      "word": "福克斯赛季报销",
+      "onboard_time": 1741926507,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 36642,
       "num": 51597,
       "word": "肖战新专辑我们全球发行",
@@ -1363,11 +1451,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 34192,
-      "num": 770134,
-      "word": "这是春天里的锦绣中国",
-      "onboard_time": 1741922484,
-      "rank": 2,
+      "raw_hot": 29348,
+      "num": 450092,
+      "word": "起底以婚恋名义诱导买房公司",
+      "onboard_time": 1741926926,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
