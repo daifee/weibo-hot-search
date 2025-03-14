@@ -1,6 +1,6 @@
 {
   "startTime": 1741969737801,
-  "endTime": 1741994627314,
+  "endTime": 1741995454422,
   "band_list": [
     {
       "raw_hot": 1517653,
@@ -11,20 +11,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1158011,
+      "num": 1158011,
+      "word": "坚持喝煮苹果水会发生什么",
+      "onboard_time": 1741993518,
+      "rank": 10,
+      "category": "健康医疗,美食"
+    },
+    {
       "raw_hot": 949527,
       "num": 171362,
       "word": "宋轶删除电视剧品质盛典官宣博",
       "onboard_time": 1741964783,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 858466,
-      "num": 85873,
-      "word": "坚持喝煮苹果水会发生什么",
-      "onboard_time": 1741993518,
-      "rank": 10,
-      "category": "健康医疗,美食"
     },
     {
       "raw_hot": 857056,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 804963,
-      "num": 128976,
+      "num": 138080,
       "word": "K总老家办婚礼被堵门生气",
       "onboard_time": 1741971560,
       "rank": 10,
@@ -123,6 +123,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 339950,
+      "num": 136840,
+      "word": "金秀贤电影里的安昭熙秀智IU雪莉",
+      "onboard_time": 1741975936,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 307926,
+      "num": 141115,
+      "word": "妻子去世1年跑车司机新对象是粉丝",
+      "onboard_time": 1741954523,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 306581,
       "num": 306581,
       "word": "哪吒2票房超150亿",
@@ -131,12 +147,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 288562,
-      "num": 85311,
-      "word": "金秀贤电影里的安昭熙秀智IU雪莉",
-      "onboard_time": 1741975936,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 285954,
+      "num": 285954,
+      "word": "花239万自体丰胸检出黄牛驼鹿DNA",
+      "onboard_time": 1741963225,
+      "rank": 31,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 273881,
@@ -153,22 +169,6 @@
       "onboard_time": 1741959384,
       "rank": 7,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 260044,
-      "num": 260044,
-      "word": "花239万自体丰胸检出黄牛驼鹿DNA",
-      "onboard_time": 1741963225,
-      "rank": 31,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 253539,
-      "num": 102203,
-      "word": "妻子去世1年跑车司机新对象是粉丝",
-      "onboard_time": 1741954523,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 205766,
@@ -201,6 +201,14 @@
       "onboard_time": 1741968083,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 182655,
+      "num": 182655,
+      "word": "日本自卫队一军官被机关枪砸中身亡",
+      "onboard_time": 1741993337,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 181414,
@@ -239,14 +247,6 @@
       "num": 158843,
       "word": "特朗普为啥非要得到格陵兰岛",
       "onboard_time": 1741985654,
-      "rank": 6,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 132820,
-      "num": 132820,
-      "word": "日本自卫队一军官被机关枪砸中身亡",
-      "onboard_time": 1741993337,
       "rank": 6,
       "category": "国际时政"
     },
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 110878,
-      "num": 70615,
+      "num": 85837,
       "word": "主播违规拍摄大熊猫被终身禁入",
       "onboard_time": 1741977735,
       "rank": 49,
@@ -475,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80294,
+      "num": 80294,
+      "word": "这居然是蔡文静",
+      "onboard_time": 1741956862,
+      "rank": 25,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 78405,
       "num": 78405,
       "word": "CFO零封TES",
@@ -483,20 +491,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 70219,
-      "num": 70219,
-      "word": "这居然是蔡文静",
-      "onboard_time": 1741956862,
-      "rank": 25,
-      "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 63083,
-      "num": 63083,
+      "raw_hot": 73666,
+      "num": 73666,
       "word": "特朗普要求普京饶乌军一命",
       "onboard_time": 1741993518,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 70586,
+      "num": 70586,
+      "word": "省考 紧张",
+      "onboard_time": 1741955902,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 60762,
@@ -505,6 +513,14 @@
       "onboard_time": 1741972159,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 58930,
+      "num": 58930,
+      "word": "雷军曾回应一天在干什么",
+      "onboard_time": 1741994058,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 58432,
@@ -539,20 +555,36 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 43446,
-      "num": 47194,
+      "raw_hot": 44688,
+      "num": 51728,
       "word": "广州一栋楼美成草莓千层蛋糕",
       "onboard_time": 1741979954,
       "rank": 49,
       "category": "美食"
     },
     {
-      "raw_hot": 40579,
-      "num": 47181,
+      "raw_hot": 43092,
+      "num": 51721,
       "word": "A勒布伦摔水瓶",
       "onboard_time": 1741956502,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42319,
+      "num": 51718,
+      "word": "马斯克首访美国家安全局",
+      "onboard_time": 1741975036,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 38841,
+      "num": 77691,
+      "word": "苦尽柑来遇见你",
+      "onboard_time": 1741962383,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 37530,
@@ -563,36 +595,28 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 37183,
-      "num": 47088,
-      "word": "雷军曾回应一天在干什么",
-      "onboard_time": 1741994058,
-      "rank": 40,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 35251,
-      "num": 47060,
-      "word": "马斯克首访美国家安全局",
-      "onboard_time": 1741975036,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 32756,
-      "num": 46953,
-      "word": "苦尽柑来遇见你",
-      "onboard_time": 1741962383,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 30851,
-      "num": 200336,
+      "raw_hot": 37327,
+      "num": 403143,
       "word": "我国各区域外贸开年成绩单出炉",
       "onboard_time": 1741959144,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 37109,
+      "num": 79883,
+      "word": "考研名师汤家凤连续喊话田静公布成绩",
+      "onboard_time": 1741995199,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 29297,
+      "num": 144532,
+      "word": "主播说想买养老机器人先花298买课",
+      "onboard_time": 1741994479,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27535,
@@ -656,14 +680,6 @@
       "word": "凡是数典忘祖的人从来没有好下场",
       "onboard_time": 1741988834,
       "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16575,
-      "num": 57030,
-      "word": "主播说想买养老机器人先花298买课",
-      "onboard_time": 1741994479,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
