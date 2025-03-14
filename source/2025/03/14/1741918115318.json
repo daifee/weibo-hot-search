@@ -1,0 +1,410 @@
+{
+  "runTime": 1741918115318,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1807617,
+        "num": 1807617,
+        "word": "造谣顶流明星输10亿的男子被拘留",
+        "onboard_time": 1741915882,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1337069,
+        "num": 1337069,
+        "word": "中国台湾省",
+        "onboard_time": 1741880183,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 52687,
+        "num": 764435,
+        "word": "以旧换新扩围引领消费热潮",
+        "onboard_time": 1741871603,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 556057,
+        "num": 556057,
+        "word": "游华山失踪小伙赵训金身亡",
+        "onboard_time": 1741912403,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 550150,
+        "num": 550150,
+        "word": "住建局回应佛山一小区有人装修骨灰房",
+        "onboard_time": 1741913482,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 428927,
+        "num": 428927,
+        "word": "普京表示俄罗斯同意停火30天",
+        "onboard_time": 1741885217,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 414010,
+        "num": 414010,
+        "word": "今天数学浓度太高了",
+        "onboard_time": 1741908140,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 392143,
+        "num": 392143,
+        "word": "请回答1988珍珠参加选秀",
+        "onboard_time": 1741878863,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309005,
+        "num": 388477,
+        "word": "于正回应娜扎二番",
+        "onboard_time": 1741911804,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 388295,
+        "num": 388295,
+        "word": "江苏生育津贴不用准备材料直接到账",
+        "onboard_time": 1741916842,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1892592,
+        "num": 383034,
+        "word": "迪士尼 金秀贤",
+        "onboard_time": 1741916781,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 555946,
+        "num": 377718,
+        "word": "鹿晗和偶遇网友合照",
+        "onboard_time": 1741909881,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1342546,
+        "num": 372382,
+        "word": "金赛纶疑似9年前曾官宣恋情",
+        "onboard_time": 1741915462,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415095,
+        "num": 366785,
+        "word": "小学老师解聘后在校门口卖火鸡面",
+        "onboard_time": 1741877963,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 364398,
+        "num": 364398,
+        "word": "穆婷婷退圈的原因",
+        "onboard_time": 1741879104,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350274,
+        "num": 350274,
+        "word": "周冬雨0点晒合照为马思纯庆生",
+        "onboard_time": 1741910302,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314069,
+        "num": 314069,
+        "word": "泽连斯基回应普京的表态",
+        "onboard_time": 1741908320,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 236817,
+        "num": 285247,
+        "word": "浪琴回应到期不续赵丽颖传闻",
+        "onboard_time": 1741907960,
+        "rank": 17,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 157912,
+        "num": 270027,
+        "word": "虞书欣欧阳娜娜回应鹿小葵式演技",
+        "onboard_time": 1741878322,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139354,
+        "num": 263118,
+        "word": "难哄",
+        "onboard_time": 1741914381,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261387,
+        "num": 261387,
+        "word": "广东湖南8级以上雷暴大风或冰雹",
+        "onboard_time": 1741915222,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91646,
+        "num": 253397,
+        "word": "张书豪回应儿子取名",
+        "onboard_time": 1741913363,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251755,
+        "num": 251755,
+        "word": "夫妻俩因为同一个习惯双双确诊食管癌",
+        "onboard_time": 1741872985,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235115,
+        "num": 235115,
+        "word": "75岁老人情绪失控开法拉利撞残他人",
+        "onboard_time": 1741872804,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217365,
+        "num": 217365,
+        "word": "男子背着婴儿到处借10块钱买奶粉",
+        "onboard_time": 1741917501,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196694,
+        "num": 196694,
+        "word": "祖国必然统一",
+        "onboard_time": 1741877904,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 173273,
+        "num": 173273,
+        "word": "台湾是全体中国人的台湾",
+        "onboard_time": 1741881021,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 133548,
+        "num": 173258,
+        "word": "董思成黄杨钿甜五福临门团建合体",
+        "onboard_time": 1741916541,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80128,
+        "num": 167878,
+        "word": "韩国15岁以下女团选秀节目遭抵制",
+        "onboard_time": 1741882520,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42935,
+        "num": 164922,
+        "word": "剧组进小区拍短剧有业主遭驱",
+        "onboard_time": 1741917501,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182100,
+        "num": 162783,
+        "word": "短剧剧组频繁进小区拍戏困扰业主",
+        "onboard_time": 1741917321,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161922,
+        "num": 161922,
+        "word": "小米车标炼出黄金价值200元",
+        "onboard_time": 1741916901,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 156605,
+        "num": 156605,
+        "word": "男子百亿补贴8299元买到iPhone样板机",
+        "onboard_time": 1741917141,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151335,
+        "num": 151335,
+        "word": "黄金突破历史新高",
+        "onboard_time": 1741908499,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 469431,
+        "num": 150245,
+        "word": "叶璇说金秀贤很下头",
+        "onboard_time": 1741909401,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90145,
+        "num": 149281,
+        "word": "多地省考明天开考",
+        "onboard_time": 1741916842,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 148967,
+        "num": 148967,
+        "word": "俄罗斯恐难接受临时停火",
+        "onboard_time": 1741907778,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138897,
+        "num": 138897,
+        "word": "高校回应校车将女老师辗轧身亡",
+        "onboard_time": 1741910001,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137825,
+        "num": 137825,
+        "word": "中国男子速滑创造历史",
+        "onboard_time": 1741916842,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136827,
+        "num": 136827,
+        "word": "正告赖清德当局玩火者必自焚",
+        "onboard_time": 1741880183,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124906,
+        "num": 124906,
+        "word": "如台独突破红线我们将采取断然措施",
+        "onboard_time": 1741877904,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 119845,
+        "num": 119845,
+        "word": "19岁女生为救落水者不幸溺亡",
+        "onboard_time": 1741917501,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110903,
+        "num": 110903,
+        "word": "湖人vs雄鹿",
+        "onboard_time": 1741916842,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107087,
+        "num": 107087,
+        "word": "所有学生本硕博连读不用内卷",
+        "onboard_time": 1741877963,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 103019,
+        "num": 103019,
+        "word": "高端穿戴甲在海外卖爆了",
+        "onboard_time": 1741883480,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 99643,
+        "num": 99643,
+        "word": "TES晋级形势",
+        "onboard_time": 1741916901,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98993,
+        "num": 98993,
+        "word": "穆婷婷回应网友遗憾她退圈太早",
+        "onboard_time": 1741913003,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93475,
+        "num": 93475,
+        "word": "老人长期吃素胆囊长出金蛋状结石",
+        "onboard_time": 1741917861,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 92362,
+        "num": 92362,
+        "word": "车祸现场睡衣护士跪地救人",
+        "onboard_time": 1741895354,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91453,
+        "num": 91453,
+        "word": "专家称4.5天工作制不能一刀切",
+        "onboard_time": 1741887436,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向希腊新任总统致贺电#"
+    }
+  }
+}
