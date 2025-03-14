@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741934737022,
+  "endTime": 1741937011228,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -105,6 +105,14 @@
       "onboard_time": 1741419981,
       "rank": 10,
       "category": "演出"
+    },
+    {
+      "raw_hot": 3690143,
+      "num": 322334,
+      "word": "金秀贤说谎了",
+      "onboard_time": 1741936462,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 3662238,
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 2379911,
-      "num": 246790,
+      "num": 268943,
       "word": "金秀贤出国",
       "onboard_time": 1741930823,
       "rank": 10,
@@ -796,7 +804,7 @@
     },
     {
       "raw_hot": 1794675,
-      "num": 244510,
+      "num": 278862,
       "word": "韩娱地震",
       "onboard_time": 1741930164,
       "rank": 12,
@@ -5683,6 +5691,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 566872,
+      "num": 566872,
+      "word": "DeepSeek回答能不能入手黄金",
+      "onboard_time": 1741933644,
+      "rank": 37,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 566464,
       "num": 537570,
       "word": "哪吒2票房超145亿",
@@ -7315,6 +7331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 441668,
+      "num": 441668,
+      "word": "何炅黄磊探班张子枫的电影是这部",
+      "onboard_time": 1741932623,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 440740,
       "num": 440740,
       "word": "特朗普撤回一条加征关税威胁",
@@ -7745,6 +7769,14 @@
       "onboard_time": 1741650681,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 420042,
+      "num": 420042,
+      "word": "卢靖姗最后一次见爸爸是婚礼",
+      "onboard_time": 1741936103,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 419649,
@@ -8195,6 +8227,14 @@
       "category": "国内时政,财经"
     },
     {
+      "raw_hot": 398536,
+      "num": 398536,
+      "word": "足金金饰价格刷新高",
+      "onboard_time": 1741934243,
+      "rank": 10,
+      "category": "财经"
+    },
+    {
       "raw_hot": 398271,
       "num": 240357,
       "word": "女孩发现司机头像吓人主动帮重拍",
@@ -8267,14 +8307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 395330,
-      "num": 278361,
-      "word": "何炅黄磊探班张子枫的电影是这部",
-      "onboard_time": 1741932623,
-      "rank": 20,
-      "category": "电影"
-    },
-    {
       "raw_hot": 394602,
       "num": 302915,
       "word": "陶喆抢票",
@@ -8329,6 +8361,14 @@
       "onboard_time": 1741931003,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 392475,
+      "num": 392475,
+      "word": "A股大涨背后原因",
+      "onboard_time": 1741934003,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 392200,
@@ -11787,6 +11827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 280045,
+      "num": 280045,
+      "word": "阿诺说没有被董力骗",
+      "onboard_time": 1741935202,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 279954,
       "num": 343025,
       "word": "以延为定",
@@ -13555,14 +13603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 239769,
-      "num": 239769,
-      "word": "DeepSeek回答能不能入手黄金",
-      "onboard_time": 1741933644,
-      "rank": 37,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 239581,
       "num": 239581,
       "word": "桑延给温以凡放的洗澡水",
@@ -14883,6 +14923,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 218272,
+      "num": 218272,
+      "word": "徐若晗回应牙齿争议",
+      "onboard_time": 1741936884,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 218190,
+      "num": 218190,
+      "word": "中俄伊北京会晤联合声明",
+      "onboard_time": 1741934902,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 218139,
       "num": 218139,
       "word": "王者皮肤标签优化",
@@ -14913,6 +14969,14 @@
       "onboard_time": 1741232478,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 217771,
+      "num": 217771,
+      "word": "费启鸣有照片你是真发啊",
+      "onboard_time": 1741935323,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 217661,
@@ -15379,6 +15443,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 211877,
+      "num": 211877,
+      "word": "因表情包爆火的他已离世多年",
+      "onboard_time": 1741936884,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211851,
       "num": 211851,
       "word": "宋茜生图",
@@ -15609,6 +15681,14 @@
       "onboard_time": 1741926806,
       "rank": 35,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 208497,
+      "num": 208497,
+      "word": "明白小说里富家千金是什么样了",
+      "onboard_time": 1741936824,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 208435,
@@ -16355,6 +16435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202119,
+      "num": 202119,
+      "word": "程序员盗取70多万学生信息转卖40万元",
+      "onboard_time": 1741935622,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 202102,
       "num": 202102,
       "word": "杨铭宇黄焖鸡涉事门店被查处",
@@ -16929,6 +17017,14 @@
       "onboard_time": 1740835342,
       "rank": 43,
       "category": "剧集,综艺"
+    },
+    {
+      "raw_hot": 196880,
+      "num": 196880,
+      "word": "原来艺人之间也会做背调",
+      "onboard_time": 1741936884,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 196834,
@@ -17587,14 +17683,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 192001,
-      "num": 247978,
-      "word": "足金金饰价格刷新高",
-      "onboard_time": 1741934243,
-      "rank": 10,
-      "category": "财经"
-    },
-    {
       "raw_hot": 191880,
       "num": 191880,
       "word": "无需多言",
@@ -17889,6 +17977,14 @@
       "onboard_time": 1741161800,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 189386,
+      "num": 189386,
+      "word": "去图书馆一定要坐固定位置",
+      "onboard_time": 1741936523,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 189260,
@@ -18305,6 +18401,14 @@
       "onboard_time": 1740918801,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186758,
+      "num": 186758,
+      "word": "柳演锡曾经的发言",
+      "onboard_time": 1741936762,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 186755,
@@ -18800,6 +18904,14 @@
       "word": "95后北大元培女生从金融转行做演员",
       "onboard_time": 1741418181,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181723,
+      "num": 181723,
+      "word": "悬赏千万寻子父亲得知找到儿子泪崩",
+      "onboard_time": 1741936523,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -21003,14 +21115,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 164839,
-      "num": 164839,
-      "word": "A股大涨背后原因",
-      "onboard_time": 1741934003,
-      "rank": 36,
-      "category": "财经"
-    },
-    {
       "raw_hot": 164685,
       "num": 164685,
       "word": "中国人的基建智慧有多厉害",
@@ -21811,6 +21915,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 159259,
+      "num": 159259,
+      "word": "为什么童年创伤到了中年才爆发",
+      "onboard_time": 1741936824,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 159232,
       "num": 162429,
       "word": "丁禹兮深夜allblack上班",
@@ -22249,6 +22361,14 @@
       "onboard_time": 1740984618,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156580,
+      "num": 239496,
+      "word": "Henry王俊凯同框",
+      "onboard_time": 1741933463,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 156536,
@@ -23779,6 +23899,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 146967,
+      "num": 146967,
+      "word": "用命植树道歉信",
+      "onboard_time": 1741936583,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146910,
       "num": 176446,
       "word": "侯明昊时装周待遇",
@@ -23833,14 +23961,6 @@
       "onboard_time": 1741669225,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 146533,
-      "num": 239496,
-      "word": "Henry王俊凯同框",
-      "onboard_time": 1741933463,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 146495,
@@ -27289,6 +27409,14 @@
       "onboard_time": 1741663402,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125667,
+      "num": 125667,
+      "word": "7800元一根的玉米到底是谁在买",
+      "onboard_time": 1741935503,
+      "rank": 49,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 125600,
@@ -34195,6 +34323,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 84137,
+      "num": 279550,
+      "word": "深圳市监局回应翻新手机流入百亿补贴",
+      "onboard_time": 1741936523,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84132,
       "num": 84132,
       "word": "瀚墨晒联名",
@@ -34713,6 +34849,14 @@
       "onboard_time": 1740846019,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 78318,
+      "num": 279903,
+      "word": "女厕排队不仅是效率问题",
+      "onboard_time": 1741936043,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78248,
@@ -35505,6 +35649,14 @@
       "onboard_time": 1741912043,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 70072,
+      "num": 279500,
+      "word": "A股港股黄金股集体爆发",
+      "onboard_time": 1741935803,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 70004,
@@ -37339,6 +37491,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 52667,
+      "num": 204396,
+      "word": "中俄伊北京会晤现场视频",
+      "onboard_time": 1741936704,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 52617,
       "num": 195828,
       "word": "记者实测Manus写新闻",
@@ -38121,6 +38281,14 @@
       "onboard_time": 1741043296,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 45009,
+      "num": 770134,
+      "word": "这是春天里的锦绣中国",
+      "onboard_time": 1741922484,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44891,
@@ -38907,14 +39075,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 38710,
-      "num": 770134,
-      "word": "这是春天里的锦绣中国",
-      "onboard_time": 1741922484,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 38613,
       "num": 311954,
       "word": "汤家凤称老师要为学生做好表率",
@@ -39137,6 +39297,14 @@
       "onboard_time": 1740863651,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 37004,
+      "num": 209433,
+      "word": "骗取骗子的钱违法吗",
+      "onboard_time": 1741936403,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 36964,
@@ -41003,6 +41171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23848,
+      "num": 270220,
+      "word": "22元假电子烟99元出售",
+      "onboard_time": 1741936403,
+      "rank": 18,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 23776,
       "num": 213055,
       "word": "建议AED部署推进到城市最小单元",
@@ -41963,6 +42139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16859,
+      "num": 268956,
+      "word": "终于把国考省考事业编弄明白了",
+      "onboard_time": 1741936583,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 16821,
       "num": 256721,
       "word": "王源刘柏辛同框看秀",
@@ -42571,6 +42755,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 12496,
+      "num": 716929,
+      "word": "文化中国行解锁博物馆科技感新玩法",
+      "onboard_time": 1741921464,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 12494,
       "num": 21229,
       "word": "两会声音",
@@ -42961,14 +43153,6 @@
       "onboard_time": 1740767113,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 8838,
-      "num": 716929,
-      "word": "文化中国行解锁博物馆科技感新玩法",
-      "onboard_time": 1741921464,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 8704,
