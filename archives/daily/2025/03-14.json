@@ -1,6 +1,6 @@
 {
   "startTime": 1741883456293,
-  "endTime": 1741944311302,
+  "endTime": 1741945098282,
   "band_list": [
     {
       "raw_hot": 16802991,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 2076880,
-      "num": 233166,
+      "num": 283713,
       "word": "Prada与金秀贤解约",
       "onboard_time": 1741943423,
       "rank": 32,
@@ -155,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 897078,
+      "num": 831008,
+      "word": "戚薇李承铉这是我不花钱能听的吗",
+      "onboard_time": 1741940484,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 893126,
       "num": 373752,
       "word": "海底捞一人食",
@@ -179,12 +187,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 831008,
-      "num": 831008,
-      "word": "戚薇李承铉这是我不花钱能听的吗",
-      "onboard_time": 1741940484,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 857933,
+      "num": 107035,
+      "word": "金赛纶去世时吊唁的人不到20位",
+      "onboard_time": 1741944742,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 793921,
@@ -243,6 +251,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 637686,
+      "num": 637686,
+      "word": "张元英为了不出崩图一直不眨眼",
+      "onboard_time": 1741943423,
+      "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 633682,
+      "num": 633682,
+      "word": "去年315被曝光企业现状",
+      "onboard_time": 1741942343,
+      "rank": 4,
+      "category": "民生新闻,舆论监督"
+    },
+    {
       "raw_hot": 628809,
       "num": 398982,
       "word": "鹿晗和偶遇网友合照",
@@ -273,14 +297,6 @@
       "onboard_time": 1741923746,
       "rank": 38,
       "category": "教育"
-    },
-    {
-      "raw_hot": 590014,
-      "num": 590014,
-      "word": "去年315被曝光企业现状",
-      "onboard_time": 1741942343,
-      "rank": 4,
-      "category": "民生新闻,舆论监督"
     },
     {
       "raw_hot": 587688,
@@ -491,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 403135,
+      "num": 339877,
+      "word": "深圳富豪悬赏千万寻子终于上岸",
+      "onboard_time": 1741942044,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 401837,
       "num": 356981,
       "word": "英一二战",
@@ -579,12 +603,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 339877,
-      "num": 339877,
-      "word": "深圳富豪悬赏千万寻子终于上岸",
-      "onboard_time": 1741942044,
-      "rank": 11,
-      "category": "民生新闻"
+      "raw_hot": 345758,
+      "num": 317180,
+      "word": "除了董力所有人都get到阿诺在表白",
+      "onboard_time": 1741941864,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 328390,
@@ -601,14 +625,6 @@
       "onboard_time": 1741939821,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 323302,
-      "num": 323302,
-      "word": "张元英为了不出崩图一直不眨眼",
-      "onboard_time": 1741943423,
-      "rank": 13,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 321909,
@@ -859,6 +875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 229018,
+      "num": 314013,
+      "word": "乘风2025",
+      "onboard_time": 1741944324,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228863,
       "num": 232140,
       "word": "杨洋赵小棠李乃文和塑料袋打起来了",
@@ -867,12 +891,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 227370,
-      "num": 241746,
-      "word": "除了董力所有人都get到阿诺在表白",
-      "onboard_time": 1741941864,
-      "rank": 20,
-      "category": "综艺"
+      "raw_hot": 224488,
+      "num": 224488,
+      "word": "易烊千玺这一幕无敌了",
+      "onboard_time": 1741944623,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 223875,
@@ -1387,6 +1411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 157605,
+      "num": 320612,
+      "word": "一文回顾去年315被曝光企业",
+      "onboard_time": 1741944145,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156827,
       "num": 156827,
       "word": "当AI开始说谎勿让神器变凶器",
@@ -1547,6 +1579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140042,
+      "num": 309428,
+      "word": "市场价295元产品医生可提成170元",
+      "onboard_time": 1741943306,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 138897,
       "num": 138897,
       "word": "高校回应校车将女老师辗轧身亡",
@@ -1683,6 +1723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125775,
+      "num": 298021,
+      "word": "赵丽颖新角色流水的工作铁打的花",
+      "onboard_time": 1741943306,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 125734,
       "num": 211154,
       "word": "会火专访虞书欣林一",
@@ -1771,20 +1819,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118124,
+      "num": 118124,
+      "word": "金赛纶7亿债务与酒驾赔偿无关",
+      "onboard_time": 1741944864,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117784,
       "num": 117784,
       "word": "昨夜派对 桃子",
       "onboard_time": 1741939163,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 116596,
-      "num": 180534,
-      "word": "赵丽颖新角色流水的工作铁打的花",
-      "onboard_time": 1741943306,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 115894,
@@ -1817,6 +1865,14 @@
       "onboard_time": 1741916842,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108367,
+      "num": 108367,
+      "word": "哪吒2冲TOP5",
+      "onboard_time": 1741944984,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 107142,
@@ -1947,6 +2003,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 97187,
+      "num": 301706,
+      "word": "省考前一天还能做什么",
+      "onboard_time": 1741944204,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 97119,
       "num": 97119,
       "word": "水贝金饰金价突破700元",
@@ -1955,19 +2019,19 @@
       "category": "财经"
     },
     {
+      "raw_hot": 96474,
+      "num": 242886,
+      "word": "TES首局不敌CFO",
+      "onboard_time": 1741943664,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 95192,
       "num": 95192,
       "word": "2岁女童总吃不饱饭量堪比成年人",
       "onboard_time": 1741867764,
       "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94792,
-      "num": 237231,
-      "word": "一文回顾去年315被曝光企业",
-      "onboard_time": 1741944145,
-      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -1984,14 +2048,6 @@
       "word": "网购中药泡脚包检出大量病菌",
       "onboard_time": 1741867523,
       "rank": 33,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 91951,
-      "num": 247503,
-      "word": "市场价295元产品医生可提成170元",
-      "onboard_time": 1741943306,
-      "rank": 14,
       "category": "舆论监督"
     },
     {
@@ -2065,14 +2121,6 @@
       "onboard_time": 1741867225,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 80166,
-      "num": 235073,
-      "word": "省考前一天还能做什么",
-      "onboard_time": 1741944204,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 79483,
@@ -2251,14 +2299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 63264,
-      "num": 242886,
-      "word": "TES首局不敌CFO",
-      "onboard_time": 1741943664,
-      "rank": 18,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 61215,
       "num": 265861,
       "word": "郑远元北派修脚没有灰指甲硬说你有",
@@ -2281,6 +2321,14 @@
       "onboard_time": 1741935381,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 59315,
+      "num": 242728,
+      "word": "啄木鸟家庭维修被曝忽悠客户",
+      "onboard_time": 1741943003,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 58516,
@@ -2315,6 +2363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 57105,
+      "num": 259667,
+      "word": "库里37岁生日",
+      "onboard_time": 1741944923,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 56748,
       "num": 81263,
       "word": "网购神药到手发现是食品",
@@ -2328,6 +2384,14 @@
       "word": "骗取骗子的钱违法吗",
       "onboard_time": 1741936403,
       "rank": 29,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 53303,
+      "num": 305203,
+      "word": "工厂回收一次性水瓶再装水卖给学校",
+      "onboard_time": 1741944145,
+      "rank": 24,
       "category": "舆论监督"
     },
     {
@@ -2347,6 +2411,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 52143,
+      "num": 256194,
+      "word": "刘恋重回职场摩登走秀",
+      "onboard_time": 1741943363,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 49839,
       "num": 198875,
       "word": "线上线下抓药价差高达10倍",
@@ -2363,8 +2435,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 46886,
-      "num": 240134,
+      "raw_hot": 49138,
+      "num": 290537,
       "word": "12种冒牌DeepSeekAPP收割消费者",
       "onboard_time": 1741944023,
       "rank": 22,
@@ -2419,14 +2491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 42259,
-      "num": 221583,
-      "word": "刘恋重回职场摩登走秀",
-      "onboard_time": 1741943363,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 41658,
       "num": 474148,
       "word": "职业闭店人骗取146万被判刑",
@@ -2441,6 +2505,14 @@
       "onboard_time": 1741936403,
       "rank": 18,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 40210,
+      "num": 289549,
+      "word": "TES状态",
+      "onboard_time": 1741944742,
+      "rank": 20,
+      "category": "电竞"
     },
     {
       "raw_hot": 39938,
@@ -2459,20 +2531,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 38461,
+      "num": 295613,
+      "word": "鸡肉干加香料变牛肉干卖出192万",
+      "onboard_time": 1741944265,
+      "rank": 44,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 38400,
       "num": 232184,
       "word": "姚安娜时尚先锋大片",
       "onboard_time": 1741932263,
       "rank": 23,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 38311,
-      "num": 242728,
-      "word": "啄木鸟家庭维修被曝忽悠客户",
-      "onboard_time": 1741943003,
-      "rank": 19,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 37874,
@@ -2531,14 +2603,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 29704,
-      "num": 238728,
-      "word": "工厂回收一次性水瓶再装水卖给学校",
-      "onboard_time": 1741944145,
-      "rank": 24,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 29348,
       "num": 450092,
       "word": "起底以婚恋名义诱导买房公司",
@@ -2587,14 +2651,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 24574,
-      "num": 138680,
-      "word": "鸡肉干加香料变牛肉干卖出192万",
-      "onboard_time": 1741944265,
-      "rank": 44,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 23768,
       "num": 323259,
       "word": "1610这么阔很有型",
@@ -2635,7 +2691,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 18839,
+      "raw_hot": 19239,
       "num": 235122,
       "word": "考研复试都有哪些流程",
       "onboard_time": 1741944084,

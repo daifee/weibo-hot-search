@@ -1,0 +1,410 @@
+{
+  "runTime": 1741945098282,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 927438,
+        "num": 1148390,
+        "word": "纽约特朗普大楼遭袭",
+        "onboard_time": 1741939644,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 637686,
+        "num": 637686,
+        "word": "张元英为了不出崩图一直不眨眼",
+        "onboard_time": 1741943423,
+        "rank": 1,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 24517,
+        "num": 635494,
+        "word": "春日进度条加载中",
+        "onboard_time": 1741941204,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 633682,
+        "num": 633682,
+        "word": "去年315被曝光企业现状",
+        "onboard_time": 1741942343,
+        "rank": 3,
+        "category": "民生新闻,舆论监督"
+      },
+      {
+        "raw_hot": 530352,
+        "num": 530352,
+        "word": "因表情包爆火的他已离世多年",
+        "onboard_time": 1741936884,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 510704,
+        "num": 510704,
+        "word": "TES",
+        "onboard_time": 1741941745,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 446991,
+        "num": 446991,
+        "word": "DeepSeek回答能不能入手黄金",
+        "onboard_time": 1741933644,
+        "rank": 6,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 427208,
+        "num": 427208,
+        "word": "把住宅改为骨灰房违法吗",
+        "onboard_time": 1741940783,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323562,
+        "num": 323562,
+        "word": "中国台湾省",
+        "onboard_time": 1741880183,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 157605,
+        "num": 320612,
+        "word": "一文回顾去年315被曝光企业",
+        "onboard_time": 1741944145,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2292678,
+        "num": 318688,
+        "word": "金秀贤说谎了",
+        "onboard_time": 1741936462,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345758,
+        "num": 317180,
+        "word": "除了董力所有人都get到阿诺在表白",
+        "onboard_time": 1741941864,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229018,
+        "num": 314013,
+        "word": "乘风2025",
+        "onboard_time": 1741944324,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140042,
+        "num": 309428,
+        "word": "市场价295元产品医生可提成170元",
+        "onboard_time": 1741943306,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 53303,
+        "num": 305203,
+        "word": "工厂回收一次性水瓶再装水卖给学校",
+        "onboard_time": 1741944145,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 897078,
+        "num": 304793,
+        "word": "戚薇李承铉这是我不花钱能听的吗",
+        "onboard_time": 1741940484,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97187,
+        "num": 301706,
+        "word": "省考前一天还能做什么",
+        "onboard_time": 1741944204,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 125775,
+        "num": 298021,
+        "word": "赵丽颖新角色流水的工作铁打的花",
+        "onboard_time": 1741943306,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38461,
+        "num": 295613,
+        "word": "鸡肉干加香料变牛肉干卖出192万",
+        "onboard_time": 1741944265,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 49138,
+        "num": 290537,
+        "word": "12种冒牌DeepSeekAPP收割消费者",
+        "onboard_time": 1741944023,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 40210,
+        "num": 289549,
+        "word": "TES状态",
+        "onboard_time": 1741944742,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1842241,
+        "num": 283713,
+        "word": "Prada与金秀贤解约",
+        "onboard_time": 1741943423,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403135,
+        "num": 281313,
+        "word": "深圳富豪悬赏千万寻子终于上岸",
+        "onboard_time": 1741942044,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280302,
+        "num": 280302,
+        "word": "雷总你在小米是做什么的",
+        "onboard_time": 1741930164,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 57105,
+        "num": 259667,
+        "word": "库里37岁生日",
+        "onboard_time": 1741944923,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52143,
+        "num": 256194,
+        "word": "刘恋重回职场摩登走秀",
+        "onboard_time": 1741943363,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213292,
+        "num": 255555,
+        "word": "种地吧好像回归了第一季前的试拍",
+        "onboard_time": 1741939583,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255090,
+        "num": 255090,
+        "word": "刘耀文同意调解请求",
+        "onboard_time": 1741938923,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167670,
+        "num": 238295,
+        "word": "田曦薇粉色水蜜桃",
+        "onboard_time": 1741942224,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 19239,
+        "num": 229709,
+        "word": "考研复试都有哪些流程",
+        "onboard_time": 1741944084,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 224488,
+        "num": 224488,
+        "word": "易烊千玺这一幕无敌了",
+        "onboard_time": 1741944623,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 109345,
+        "num": 221107,
+        "word": "白敬亭章若楠四手联弹",
+        "onboard_time": 1741926086,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218604,
+        "num": 218604,
+        "word": "CFO对战TES",
+        "onboard_time": 1741941802,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 160893,
+        "num": 160893,
+        "word": "明白小说里富家千金是什么样了",
+        "onboard_time": 1741936824,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159716,
+        "num": 159716,
+        "word": "程序员盗取70多万学生信息转卖40万元",
+        "onboard_time": 1741935622,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151257,
+        "num": 151257,
+        "word": "悬赏千万寻子父亲得知找到儿子泪崩",
+        "onboard_time": 1741936523,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150389,
+        "num": 150389,
+        "word": "吃了6年的鸭货是在地下室做出来的",
+        "onboard_time": 1741937664,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29061,
+        "num": 149568,
+        "word": "2025大包回潮",
+        "onboard_time": 1741942823,
+        "rank": 37,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 149278,
+        "num": 149278,
+        "word": "老人被开通手机套餐叠加收费超7000元",
+        "onboard_time": 1741940842,
+        "rank": 38,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 112465,
+        "num": 133261,
+        "word": "嘘国王在冬眠微博追剧团",
+        "onboard_time": 1741940484,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96474,
+        "num": 126906,
+        "word": "TES首局不敌CFO",
+        "onboard_time": 1741943664,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126150,
+        "num": 126150,
+        "word": "A股大涨背后原因",
+        "onboard_time": 1741934003,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 120966,
+        "num": 120966,
+        "word": "悬赏千万寻子父亲找到失踪24年儿子",
+        "onboard_time": 1741944265,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118124,
+        "num": 118124,
+        "word": "金赛纶7亿债务与酒驾赔偿无关",
+        "onboard_time": 1741944864,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59315,
+        "num": 111247,
+        "word": "啄木鸟家庭维修被曝忽悠客户",
+        "onboard_time": 1741943003,
+        "rank": 44,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 108367,
+        "num": 108367,
+        "word": "哪吒2冲TOP5",
+        "onboard_time": 1741944984,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 857933,
+        "num": 107035,
+        "word": "金赛纶去世时吊唁的人不到20位",
+        "onboard_time": 1741944742,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105615,
+        "num": 105615,
+        "word": "足金金饰价格刷新高",
+        "onboard_time": 1741934243,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 744990,
+        "num": 105320,
+        "word": "韩娱地震",
+        "onboard_time": 1741930164,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104370,
+        "num": 104370,
+        "word": "去图书馆一定要坐固定位置",
+        "onboard_time": 1741936523,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会足迹#"
+    }
+  }
+}
