@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741951207147,
+  "endTime": 1741952168224,
   "band_list": [
     {
       "raw_hot": 21330054,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 2216201,
-      "num": 315255,
+      "num": 332106,
       "word": "金秀贤曾要求全智贤换平底鞋被拒",
       "onboard_time": 1741937664,
       "rank": 17,
@@ -377,6 +377,14 @@
       "onboard_time": 1741528163,
       "rank": 10,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1866864,
+      "num": 1866864,
+      "word": "蜜雪冰城鲜果切片常温过夜后继续用",
+      "onboard_time": 1741949484,
+      "rank": 5,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 1850076,
@@ -1419,6 +1427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 920572,
+      "num": 920572,
+      "word": "东北雨姐骆王宇等主播被点名",
+      "onboard_time": 1741947683,
+      "rank": 17,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 919771,
       "num": 319309,
       "word": "何猷君晒全家福给奚梦瑶庆生",
@@ -2043,14 +2059,6 @@
       "category": "民生新闻,运动健身"
     },
     {
-      "raw_hot": 706307,
-      "num": 706307,
-      "word": "东北雨姐骆王宇等主播被点名",
-      "onboard_time": 1741947683,
-      "rank": 17,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 706162,
       "num": 265125,
       "word": "上海偷完LV爱马仕又去杭州偷Gucci",
@@ -2097,14 +2105,6 @@
       "onboard_time": 1741688604,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 689842,
-      "num": 689842,
-      "word": "蜜雪冰城鲜果切片常温过夜后继续用",
-      "onboard_time": 1741949484,
-      "rank": 5,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 687026,
@@ -3995,6 +3995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 372590,
+      "num": 372590,
+      "word": "涂毓麟孙乐言最长异地只有6天",
+      "onboard_time": 1741950322,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 371669,
       "num": 371669,
       "word": "加拿大候任总理连说三句特朗普",
@@ -4089,6 +4097,14 @@
       "onboard_time": 1741686865,
       "rank": 3,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 364749,
+      "num": 364749,
+      "word": "专家建议每孩1次性补贴10万",
+      "onboard_time": 1741950264,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 364252,
@@ -4395,6 +4411,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 342812,
+      "num": 342812,
+      "word": "羽衣甘蓝 减肥",
+      "onboard_time": 1741949123,
+      "rank": 22,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 342143,
       "num": 226224,
       "word": "睡觉前最好不要玩手机",
@@ -4641,6 +4665,14 @@
       "onboard_time": 1741688545,
       "rank": 19,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 323436,
+      "num": 323436,
+      "word": "五福临门",
+      "onboard_time": 1741950622,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 322772,
@@ -5099,14 +5131,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 289587,
-      "num": 289587,
-      "word": "涂毓麟孙乐言最长异地只有6天",
-      "onboard_time": 1741950322,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 289206,
       "num": 289206,
       "word": "42岁黄圣依状态",
@@ -5139,14 +5163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 287141,
-      "num": 268576,
-      "word": "专家建议每孩1次性补贴10万",
-      "onboard_time": 1741950264,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 286563,
       "num": 286563,
       "word": "赵樱子谈及原生家庭崩溃大哭",
@@ -5169,14 +5185,6 @@
       "onboard_time": 1741783343,
       "rank": 9,
       "category": "电影"
-    },
-    {
-      "raw_hot": 283539,
-      "num": 274152,
-      "word": "羽衣甘蓝 减肥",
-      "onboard_time": 1741949123,
-      "rank": 22,
-      "category": "科学科普"
     },
     {
       "raw_hot": 283264,
@@ -5993,6 +6001,14 @@
       "onboard_time": 1741762403,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 237923,
+      "num": 374528,
+      "word": "老人连账号都没有被开通QQ超级会员随心玩",
+      "onboard_time": 1741946123,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 237481,
@@ -6979,6 +6995,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 206965,
+      "num": 206965,
+      "word": "以为不起眼但身体很喜欢的动作",
+      "onboard_time": 1741952065,
+      "rank": 25,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 206959,
       "num": 206959,
       "word": "宁艺卓短发拍摄MV",
@@ -7827,14 +7851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 191037,
-      "num": 191037,
-      "word": "五福临门",
-      "onboard_time": 1741950622,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 190892,
       "num": 190892,
       "word": "DYG战胜KLG",
@@ -7937,6 +7953,14 @@
       "onboard_time": 1741524142,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189432,
+      "num": 174184,
+      "word": "周思成 田静",
+      "onboard_time": 1741951103,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 189204,
@@ -8307,6 +8331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 182506,
+      "num": 182506,
+      "word": "papi拖更的原因",
+      "onboard_time": 1741950142,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 182454,
       "num": 361527,
       "word": "郑钦文VS孙璐璐",
@@ -8457,6 +8489,14 @@
       "onboard_time": 1741946304,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179295,
+      "num": 323964,
+      "word": "蜜雪冰城员工称不敢喝自家柠檬水",
+      "onboard_time": 1741951763,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179231,
@@ -9459,6 +9499,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 163002,
+      "num": 163002,
+      "word": "JackeyLove 大满败",
+      "onboard_time": 1741951165,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 162965,
       "num": 162965,
       "word": "何苏叶自动回复",
@@ -10003,6 +10051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154187,
+      "num": 154187,
+      "word": "TL对战HLE",
+      "onboard_time": 1741951823,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 154165,
       "num": 340534,
       "word": "杜特尔特被转移至维拉莫尔空军基地",
@@ -10081,6 +10137,14 @@
       "onboard_time": 1741928005,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 153364,
+      "num": 153364,
+      "word": "第五人格 Ib",
+      "onboard_time": 1741951643,
+      "rank": 36,
+      "category": "教育,电竞"
     },
     {
       "raw_hot": 153343,
@@ -10315,6 +10379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149537,
+      "num": 149537,
+      "word": "姿态谈TES遭CFO零封",
+      "onboard_time": 1741951042,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 149403,
       "num": 149403,
       "word": "朱志鑫下课跳舞",
@@ -10491,11 +10563,27 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 146685,
+      "num": 146685,
+      "word": "周思成称田静不会没成绩",
+      "onboard_time": 1741950622,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 146603,
       "num": 146603,
       "word": "檀健次抱着空气演虐戏",
       "onboard_time": 1741669225,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 146552,
+      "num": 146552,
+      "word": "白敬亭章若楠祝白色情人节快乐",
+      "onboard_time": 1741951823,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -11011,14 +11099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 139420,
-      "num": 139420,
-      "word": "周思成称田静不会没成绩",
-      "onboard_time": 1741950622,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
       "raw_hot": 139397,
       "num": 179458,
       "word": "孙颖莎练着练着就抠上手了",
@@ -11315,14 +11395,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 136090,
-      "num": 374528,
-      "word": "老人连账号都没有被开通QQ超级会员随心玩",
-      "onboard_time": 1741946123,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 135783,
       "num": 280120,
       "word": "孙颖莎比赛要打火锅也要吃",
@@ -11393,6 +11465,14 @@
       "onboard_time": 1741684043,
       "rank": 44,
       "category": "数码"
+    },
+    {
+      "raw_hot": 134811,
+      "num": 134811,
+      "word": "HLE",
+      "onboard_time": 1741952065,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 134760,
@@ -11763,6 +11843,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 128839,
+      "num": 128839,
+      "word": "00后为百万年薪纷纷转行做销售",
+      "onboard_time": 1741951462,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 128646,
       "num": 175160,
       "word": "郑钦文连续实现复仇",
@@ -11833,14 +11921,6 @@
       "onboard_time": 1741787063,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 127915,
-      "num": 127915,
-      "word": "papi拖更的原因",
-      "onboard_time": 1741950142,
-      "rank": 40,
-      "category": "网红"
     },
     {
       "raw_hot": 127798,
@@ -12353,6 +12433,14 @@
       "onboard_time": 1741887436,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122831,
+      "num": 122831,
+      "word": "肖战掉落随拍",
+      "onboard_time": 1741951823,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 122766,
@@ -13603,14 +13691,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 107579,
-      "num": 107579,
-      "word": "JackeyLove 大满败",
-      "onboard_time": 1741951165,
-      "rank": 48,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 107445,
       "num": 120457,
       "word": "张真源素颜拍立得",
@@ -13809,6 +13889,14 @@
       "onboard_time": 1741705224,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105013,
+      "num": 171743,
+      "word": "张云龙直播",
+      "onboard_time": 1741951943,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 104996,
@@ -14969,6 +15057,14 @@
       "onboard_time": 1741697543,
       "rank": 48,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 88715,
+      "num": 338126,
+      "word": "陈幸同3比0申裕斌",
+      "onboard_time": 1741951643,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 88651,
@@ -16484,7 +16580,7 @@
     },
     {
       "raw_hot": 54403,
-      "num": 203879,
+      "num": 255788,
       "word": "DiorDJourney包袋",
       "onboard_time": 1741950503,
       "rank": 29,
@@ -16779,6 +16875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49462,
+      "num": 282399,
+      "word": "郑钦文代表湖北省参加全运会",
+      "onboard_time": 1741950683,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 49138,
       "num": 290537,
       "word": "12种冒牌DeepSeekAPP收割消费者",
@@ -16913,14 +17017,6 @@
       "onboard_time": 1741813815,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45395,
-      "num": 282399,
-      "word": "郑钦文代表湖北省参加全运会",
-      "onboard_time": 1741950683,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 45343,
@@ -18148,7 +18244,7 @@
     },
     {
       "raw_hot": 26182,
-      "num": 703565,
+      "num": 833336,
       "word": "春日进度条加载中",
       "onboard_time": 1741941204,
       "rank": 2,
@@ -18204,7 +18300,7 @@
     },
     {
       "raw_hot": 25652,
-      "num": 330177,
+      "num": 335093,
       "word": "张朝阳对夸克AI搜索相当满意",
       "onboard_time": 1741950084,
       "rank": 14,
@@ -18529,6 +18625,14 @@
       "onboard_time": 1741484840,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21289,
+      "num": 150022,
+      "word": "DIOR新包尺寸怎么选",
+      "onboard_time": 1741950322,
+      "rank": 38,
+      "category": "时尚"
     },
     {
       "raw_hot": 21279,
@@ -18929,14 +19033,6 @@
       "onboard_time": 1741723334,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 14087,
-      "num": 128283,
-      "word": "DIOR新包尺寸怎么选",
-      "onboard_time": 1741950322,
-      "rank": 38,
-      "category": "时尚"
     },
     {
       "raw_hot": 14085,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1741952168224,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1866864,
+        "num": 1866864,
+        "word": "蜜雪冰城鲜果切片常温过夜后继续用",
+        "onboard_time": 1741949484,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 920572,
+        "num": 920572,
+        "word": "东北雨姐骆王宇等主播被点名",
+        "onboard_time": 1741947683,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 20841,
+        "num": 833336,
+        "word": "春日进度条加载中",
+        "onboard_time": 1741941204,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 761154,
+        "num": 761154,
+        "word": "阿诺说董力当年是真的很火",
+        "onboard_time": 1741947083,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 631228,
+        "num": 631228,
+        "word": "亮剑中有两位演员已离世",
+        "onboard_time": 1741948163,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 619912,
+        "num": 619912,
+        "word": "CFO零封TES",
+        "onboard_time": 1741945884,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 497419,
+        "num": 497419,
+        "word": "贵女",
+        "onboard_time": 1741948284,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 383773,
+        "num": 383773,
+        "word": "美国婴儿尝试中国婴儿的食物",
+        "onboard_time": 1741946242,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 372590,
+        "num": 372590,
+        "word": "涂毓麟孙乐言最长异地只有6天",
+        "onboard_time": 1741950322,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367682,
+        "num": 367682,
+        "word": "第五人格",
+        "onboard_time": 1741948042,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1386997,
+        "num": 366623,
+        "word": "金秀贤说谎了",
+        "onboard_time": 1741936462,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364749,
+        "num": 364749,
+        "word": "专家建议每孩1次性补贴10万",
+        "onboard_time": 1741950264,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342812,
+        "num": 342812,
+        "word": "羽衣甘蓝 减肥",
+        "onboard_time": 1741949123,
+        "rank": 12,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 88715,
+        "num": 338126,
+        "word": "陈幸同3比0申裕斌",
+        "onboard_time": 1741951643,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21894,
+        "num": 335093,
+        "word": "张朝阳对夸克AI搜索相当满意",
+        "onboard_time": 1741950084,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1139766,
+        "num": 332106,
+        "word": "金秀贤曾要求全智贤换平底鞋被拒",
+        "onboard_time": 1741937664,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179295,
+        "num": 323964,
+        "word": "蜜雪冰城员工称不敢喝自家柠檬水",
+        "onboard_time": 1741951763,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323436,
+        "num": 323436,
+        "word": "五福临门",
+        "onboard_time": 1741950622,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321820,
+        "num": 321820,
+        "word": "TES",
+        "onboard_time": 1741941745,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 272136,
+        "num": 272136,
+        "word": "权顺荣受伤",
+        "onboard_time": 1741948284,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 629548,
+        "num": 265314,
+        "word": "张元英为了不出崩图一直不眨眼",
+        "onboard_time": 1741943423,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 53542,
+        "num": 255788,
+        "word": "DiorDJourney包袋",
+        "onboard_time": 1741950503,
+        "rank": 21,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 255502,
+        "num": 255502,
+        "word": "呼市卫健委1小时接50通补贴咨询电话",
+        "onboard_time": 1741946903,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237923,
+        "num": 237923,
+        "word": "老人连账号都没有被开通QQ超级会员随心玩",
+        "onboard_time": 1741946123,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219089,
+        "num": 219089,
+        "word": "第五人格前瞻直播",
+        "onboard_time": 1741948222,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 206965,
+        "num": 206965,
+        "word": "以为不起眼但身体很喜欢的动作",
+        "onboard_time": 1741952065,
+        "rank": 25,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 201037,
+        "num": 201037,
+        "word": "因表情包爆火的他已离世多年",
+        "onboard_time": 1741936884,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195700,
+        "num": 195700,
+        "word": "戚薇李承铉这是我不花钱能听的吗",
+        "onboard_time": 1741940484,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182506,
+        "num": 182506,
+        "word": "papi拖更的原因",
+        "onboard_time": 1741950142,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 148105,
+        "num": 174582,
+        "word": "这波金价大涨是为啥",
+        "onboard_time": 1741945223,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 189432,
+        "num": 174184,
+        "word": "周思成 田静",
+        "onboard_time": 1741951103,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 172066,
+        "num": 172066,
+        "word": "乘风2025",
+        "onboard_time": 1741944324,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105013,
+        "num": 171743,
+        "word": "张云龙直播",
+        "onboard_time": 1741951943,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171677,
+        "num": 171677,
+        "word": "TES 没开麦",
+        "onboard_time": 1741947803,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 163002,
+        "num": 163002,
+        "word": "JackeyLove 大满败",
+        "onboard_time": 1741951165,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 154187,
+        "num": 154187,
+        "word": "TL对战HLE",
+        "onboard_time": 1741951823,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 153364,
+        "num": 153364,
+        "word": "第五人格 Ib",
+        "onboard_time": 1741951643,
+        "rank": 36,
+        "category": "教育,电竞"
+      },
+      {
+        "raw_hot": 151923,
+        "num": 151923,
+        "word": "去年315被曝光企业现状",
+        "onboard_time": 1741942343,
+        "rank": 37,
+        "category": "民生新闻,舆论监督"
+      },
+      {
+        "raw_hot": 21289,
+        "num": 150022,
+        "word": "DIOR新包尺寸怎么选",
+        "onboard_time": 1741950322,
+        "rank": 38,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 149537,
+        "num": 149537,
+        "word": "姿态谈TES遭CFO零封",
+        "onboard_time": 1741951042,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 146685,
+        "num": 146685,
+        "word": "周思成称田静不会没成绩",
+        "onboard_time": 1741950622,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 146552,
+        "num": 146552,
+        "word": "白敬亭章若楠祝白色情人节快乐",
+        "onboard_time": 1741951823,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140815,
+        "num": 140815,
+        "word": "易烊千玺这一幕无敌了",
+        "onboard_time": 1741944623,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135928,
+        "num": 135928,
+        "word": "网上贷款1560元17天利息13764元",
+        "onboard_time": 1741945465,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134811,
+        "num": 134811,
+        "word": "HLE",
+        "onboard_time": 1741952065,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 49462,
+        "num": 134550,
+        "word": "郑钦文代表湖北省参加全运会",
+        "onboard_time": 1741950683,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134436,
+        "num": 134436,
+        "word": "哪吒2冲TOP5",
+        "onboard_time": 1741944984,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128839,
+        "num": 128839,
+        "word": "00后为百万年薪纷纷转行做销售",
+        "onboard_time": 1741951462,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128087,
+        "num": 128087,
+        "word": "蔡康永说自己在节目里像空气",
+        "onboard_time": 1741948762,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122831,
+        "num": 122831,
+        "word": "肖战掉落随拍",
+        "onboard_time": 1741951823,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#以文化赋能经济社会发展#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1741883456293,
-  "endTime": 1741951207147,
+  "endTime": 1741952168224,
   "band_list": [
     {
       "raw_hot": 16802991,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 2216201,
-      "num": 315255,
+      "num": 332106,
       "word": "金秀贤曾要求全智贤换平底鞋被拒",
       "onboard_time": 1741937664,
       "rank": 17,
@@ -89,6 +89,14 @@
       "onboard_time": 1741916781,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1866864,
+      "num": 1866864,
+      "word": "蜜雪冰城鲜果切片常温过夜后继续用",
+      "onboard_time": 1741949484,
+      "rank": 5,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 1807617,
@@ -185,6 +193,14 @@
       "onboard_time": 1741940484,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 920572,
+      "num": 920572,
+      "word": "东北雨姐骆王宇等主播被点名",
+      "onboard_time": 1741947683,
+      "rank": 17,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 900049,
@@ -299,14 +315,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 706307,
-      "num": 706307,
-      "word": "东北雨姐骆王宇等主播被点名",
-      "onboard_time": 1741947683,
-      "rank": 17,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 700886,
       "num": 700886,
       "word": "亮剑中有两位演员已离世",
@@ -321,14 +329,6 @@
       "onboard_time": 1741923506,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 689842,
-      "num": 689842,
-      "word": "蜜雪冰城鲜果切片常温过夜后继续用",
-      "onboard_time": 1741949484,
-      "rank": 5,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 633682,
@@ -675,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 372590,
+      "num": 372590,
+      "word": "涂毓麟孙乐言最长异地只有6天",
+      "onboard_time": 1741950322,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 366760,
       "num": 366760,
       "word": "台湾是全体中国人的台湾",
@@ -688,6 +696,14 @@
       "word": "男子背着婴儿到处借10块钱买奶粉",
       "onboard_time": 1741917501,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 364749,
+      "num": 364749,
+      "word": "专家建议每孩1次性补贴10万",
+      "onboard_time": 1741950264,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -705,6 +721,14 @@
       "onboard_time": 1741941864,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 342812,
+      "num": 342812,
+      "word": "羽衣甘蓝 减肥",
+      "onboard_time": 1741949123,
+      "rank": 22,
+      "category": "科学科普"
     },
     {
       "raw_hot": 328607,
@@ -729,6 +753,14 @@
       "onboard_time": 1741939821,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 323436,
+      "num": 323436,
+      "word": "五福临门",
+      "onboard_time": 1741950622,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 321909,
@@ -785,30 +817,6 @@
       "onboard_time": 1741928725,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 289587,
-      "num": 289587,
-      "word": "涂毓麟孙乐言最长异地只有6天",
-      "onboard_time": 1741950322,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 287141,
-      "num": 268576,
-      "word": "专家建议每孩1次性补贴10万",
-      "onboard_time": 1741950264,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 283539,
-      "num": 274152,
-      "word": "羽衣甘蓝 减肥",
-      "onboard_time": 1741949123,
-      "rank": 22,
-      "category": "科学科普"
     },
     {
       "raw_hot": 280045,
@@ -945,6 +953,14 @@
       "onboard_time": 1741927226,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 237923,
+      "num": 374528,
+      "word": "老人连账号都没有被开通QQ超级会员随心玩",
+      "onboard_time": 1741946123,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 237481,
@@ -1163,6 +1179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206965,
+      "num": 206965,
+      "word": "以为不起眼但身体很喜欢的动作",
+      "onboard_time": 1741952065,
+      "rank": 25,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 205753,
       "num": 205753,
       "word": "用DeepSeek搭建自己的个人知识库",
@@ -1323,14 +1347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 191037,
-      "num": 191037,
-      "word": "五福临门",
-      "onboard_time": 1741950622,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 190765,
       "num": 190765,
       "word": "嘘国王在冬眠",
@@ -1353,6 +1369,14 @@
       "onboard_time": 1741928246,
       "rank": 33,
       "category": "剧集,艺人"
+    },
+    {
+      "raw_hot": 189432,
+      "num": 174184,
+      "word": "周思成 田静",
+      "onboard_time": 1741951103,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 188910,
@@ -1427,6 +1451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182506,
+      "num": 182506,
+      "word": "papi拖更的原因",
+      "onboard_time": 1741950142,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 181246,
       "num": 181246,
       "word": "chiikawa手游",
@@ -1481,6 +1513,14 @@
       "onboard_time": 1741872324,
       "rank": 19,
       "category": "教育,运动健身"
+    },
+    {
+      "raw_hot": 179295,
+      "num": 323964,
+      "word": "蜜雪冰城员工称不敢喝自家柠檬水",
+      "onboard_time": 1741951763,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 178214,
@@ -1611,6 +1651,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 163002,
+      "num": 163002,
+      "word": "JackeyLove 大满败",
+      "onboard_time": 1741951165,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 162589,
       "num": 157566,
       "word": "AI预测今年最火的情侣礼物TOP10",
@@ -1683,6 +1731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154187,
+      "num": 154187,
+      "word": "TL对战HLE",
+      "onboard_time": 1741951823,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 154060,
       "num": 154060,
       "word": "乔欣 赖柏霖",
@@ -1723,6 +1779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 153364,
+      "num": 153364,
+      "word": "第五人格 Ib",
+      "onboard_time": 1741951643,
+      "rank": 36,
+      "category": "教育,电竞"
+    },
+    {
       "raw_hot": 152344,
       "num": 152344,
       "word": "穆婷婷早期微博经常艾特乔振宇",
@@ -1745,6 +1809,14 @@
       "onboard_time": 1741947322,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149537,
+      "num": 149537,
+      "word": "姿态谈TES遭CFO零封",
+      "onboard_time": 1741951042,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 148967,
@@ -1799,6 +1871,22 @@
       "num": 146778,
       "word": "虞书欣林一剧宣的神来了",
       "onboard_time": 1741947023,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 146685,
+      "num": 146685,
+      "word": "周思成称田静不会没成绩",
+      "onboard_time": 1741950622,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 146552,
+      "num": 146552,
+      "word": "白敬亭章若楠祝白色情人节快乐",
+      "onboard_time": 1741951823,
       "rank": 41,
       "category": "剧集"
     },
@@ -1867,14 +1955,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 139420,
-      "num": 139420,
-      "word": "周思成称田静不会没成绩",
-      "onboard_time": 1741950622,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
       "raw_hot": 138897,
       "num": 138897,
       "word": "高校回应校车将女老师辗轧身亡",
@@ -1923,20 +2003,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 136090,
-      "num": 374528,
-      "word": "老人连账号都没有被开通QQ超级会员随心玩",
-      "onboard_time": 1741946123,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 135672,
       "num": 135672,
       "word": "许墨极光",
       "onboard_time": 1741929624,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 134811,
+      "num": 134811,
+      "word": "HLE",
+      "onboard_time": 1741952065,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 134248,
@@ -2043,12 +2123,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 127915,
-      "num": 127915,
-      "word": "papi拖更的原因",
-      "onboard_time": 1741950142,
-      "rank": 40,
-      "category": "网红"
+      "raw_hot": 128839,
+      "num": 128839,
+      "word": "00后为百万年薪纷纷转行做销售",
+      "onboard_time": 1741951462,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 127028,
@@ -2129,6 +2209,14 @@
       "onboard_time": 1741887436,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122831,
+      "num": 122831,
+      "word": "肖战掉落随拍",
+      "onboard_time": 1741951823,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 122432,
@@ -2219,14 +2307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 107579,
-      "num": 107579,
-      "word": "JackeyLove 大满败",
-      "onboard_time": 1741951165,
-      "rank": 48,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 107142,
       "num": 246389,
       "word": "Jennie回归成绩",
@@ -2264,6 +2344,14 @@
       "word": "张书豪回应儿子取名",
       "onboard_time": 1741913363,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 105013,
+      "num": 171743,
+      "word": "张云龙直播",
+      "onboard_time": 1741951943,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -2433,6 +2521,14 @@
       "onboard_time": 1741930103,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88715,
+      "num": 338126,
+      "word": "陈幸同3比0申裕斌",
+      "onboard_time": 1741951643,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 86490,
@@ -2756,7 +2852,7 @@
     },
     {
       "raw_hot": 54403,
-      "num": 203879,
+      "num": 255788,
       "word": "DiorDJourney包袋",
       "onboard_time": 1741950503,
       "rank": 29,
@@ -2811,6 +2907,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 49462,
+      "num": 282399,
+      "word": "郑钦文代表湖北省参加全运会",
+      "onboard_time": 1741950683,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 49417,
       "num": 743420,
       "word": "中国漆器美了千年",
@@ -2825,14 +2929,6 @@
       "onboard_time": 1741944023,
       "rank": 22,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 45395,
-      "num": 282399,
-      "word": "郑钦文代表湖北省参加全运会",
-      "onboard_time": 1741950683,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 45343,
@@ -3052,7 +3148,7 @@
     },
     {
       "raw_hot": 26182,
-      "num": 703565,
+      "num": 833336,
       "word": "春日进度条加载中",
       "onboard_time": 1741941204,
       "rank": 2,
@@ -3068,7 +3164,7 @@
     },
     {
       "raw_hot": 25652,
-      "num": 330177,
+      "num": 335093,
       "word": "张朝阳对夸克AI搜索相当满意",
       "onboard_time": 1741950084,
       "rank": 14,
@@ -3105,6 +3201,14 @@
       "onboard_time": 1741930164,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 21289,
+      "num": 150022,
+      "word": "DIOR新包尺寸怎么选",
+      "onboard_time": 1741950322,
+      "rank": 38,
+      "category": "时尚"
     },
     {
       "raw_hot": 21102,
@@ -3169,14 +3273,6 @@
       "onboard_time": 1741903875,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 14087,
-      "num": 128283,
-      "word": "DIOR新包尺寸怎么选",
-      "onboard_time": 1741950322,
-      "rank": 38,
-      "category": "时尚"
     },
     {
       "raw_hot": 13588,
