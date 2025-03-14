@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741930765976,
+  "endTime": 1741933940242,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -321,6 +321,14 @@
       "onboard_time": 1741419501,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2379911,
+      "num": 243520,
+      "word": "金秀贤出国",
+      "onboard_time": 1741930823,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2374006,
@@ -872,6 +880,14 @@
       "word": "曝金秀贤经纪人是性犯罪者",
       "onboard_time": 1741753284,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1703721,
+      "num": 241147,
+      "word": "韩娱地震",
+      "onboard_time": 1741930164,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -2003,6 +2019,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1120954,
+      "num": 1179352,
+      "word": "雷总你在小米是做什么的",
+      "onboard_time": 1741930164,
+      "rank": 15,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1117559,
       "num": 1178809,
       "word": "三亚客房退订新规",
@@ -2137,6 +2161,14 @@
       "onboard_time": 1741219938,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1083964,
+      "num": 232588,
+      "word": "金秀贤回应Deepseek总结版",
+      "onboard_time": 1741933762,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1082773,
@@ -8083,6 +8115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 401837,
+      "num": 356981,
+      "word": "英一二战",
+      "onboard_time": 1741928365,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 401650,
       "num": 401650,
       "word": "樊振东通过体测",
@@ -8137,14 +8177,6 @@
       "onboard_time": 1741768283,
       "rank": 7,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 398672,
-      "num": 356981,
-      "word": "英一二战",
-      "onboard_time": 1741928365,
-      "rank": 16,
-      "category": "教育"
     },
     {
       "raw_hot": 398587,
@@ -8233,6 +8265,14 @@
       "onboard_time": 1741779564,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 395330,
+      "num": 232305,
+      "word": "何炅黄磊探班张子枫的电影是这部",
+      "onboard_time": 1741932623,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 394602,
@@ -8961,6 +9001,14 @@
       "onboard_time": 1741398021,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 362764,
+      "num": 293342,
+      "word": "景甜回应再演司藤类角色",
+      "onboard_time": 1741931003,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 362389,
@@ -11219,6 +11267,14 @@
       "category": "国内时政,健康医疗"
     },
     {
+      "raw_hot": 293240,
+      "num": 257806,
+      "word": "82岁老人下葬当天飞来一群仙鹤盘旋",
+      "onboard_time": 1741928725,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 293112,
       "num": 293112,
       "word": "WBG",
@@ -11779,14 +11835,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 278919,
-      "num": 257806,
-      "word": "82岁老人下葬当天飞来一群仙鹤盘旋",
-      "onboard_time": 1741928725,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 278822,
       "num": 278822,
       "word": "文都教育曾索赔何凯文2273万",
@@ -12169,14 +12217,6 @@
       "onboard_time": 1741076179,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 269994,
-      "num": 269994,
-      "word": "雷总你在小米是做什么的",
-      "onboard_time": 1741930164,
-      "rank": 15,
-      "category": "互联网"
     },
     {
       "raw_hot": 269393,
@@ -13227,6 +13267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 245577,
+      "num": 245577,
+      "word": "梁靖崑3比1战胜林高远",
+      "onboard_time": 1741931664,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 245574,
       "num": 245574,
       "word": "林一给虞书欣的备注是妮妮",
@@ -13537,6 +13585,14 @@
       "onboard_time": 1740918801,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 238140,
+      "num": 232078,
+      "word": "对刮刮乐祛魅了",
+      "onboard_time": 1741927226,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 237986,
@@ -14060,7 +14116,7 @@
     },
     {
       "raw_hot": 228863,
-      "num": 228863,
+      "num": 232140,
       "word": "杨洋赵小棠李乃文和塑料袋打起来了",
       "onboard_time": 1741927645,
       "rank": 30,
@@ -14729,14 +14785,6 @@
       "onboard_time": 1741680921,
       "rank": 26,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 219358,
-      "num": 219358,
-      "word": "对刮刮乐祛魅了",
-      "onboard_time": 1741927226,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 219085,
@@ -17475,6 +17523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 192582,
+      "num": 192582,
+      "word": "赵又廷林更新一山更比一山高",
+      "onboard_time": 1741933284,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192374,
       "num": 192374,
       "word": "iPhone17或全系标配LTPO灵动岛屏幕",
@@ -19915,6 +19971,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 171144,
+      "num": 171144,
+      "word": "柳演锡方回应涉嫌逃税",
+      "onboard_time": 1741930705,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171123,
       "num": 171123,
       "word": "ELLE主编孙哲对话肖战",
@@ -21139,6 +21203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163335,
+      "num": 163335,
+      "word": "第一次见12个角色平番的电影",
+      "onboard_time": 1741932865,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 163304,
       "num": 236027,
       "word": "库里神奇三分",
@@ -22075,6 +22147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 156827,
+      "num": 156827,
+      "word": "当AI开始说谎勿让神器变凶器",
+      "onboard_time": 1741931905,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156825,
       "num": 156825,
       "word": "张真源贺峻霖低声些光彩吗",
@@ -22625,6 +22705,14 @@
       "onboard_time": 1740983178,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 153371,
+      "num": 153371,
+      "word": "陶白白别骂摩羯座了",
+      "onboard_time": 1741928005,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 153343,
@@ -23435,6 +23523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148039,
+      "num": 148039,
+      "word": "网络谣言开始用AI了",
+      "onboard_time": 1741931485,
+      "rank": 43,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 148024,
       "num": 148024,
       "word": "于正回应程潇玉茗茶骨最终装扮无刘海",
@@ -23675,6 +23771,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 146462,
+      "num": 146462,
+      "word": "林高远13比15梁靖崑",
+      "onboard_time": 1741933823,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146336,
       "num": 221886,
       "word": "建议遏制农村高额彩礼",
@@ -23849,6 +23953,14 @@
       "onboard_time": 1741575321,
       "rank": 18,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 145268,
+      "num": 145268,
+      "word": "韩庚 早市是最有生活的",
+      "onboard_time": 1741932383,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 145150,
@@ -24065,14 +24177,6 @@
       "onboard_time": 1741692502,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 144090,
-      "num": 144090,
-      "word": "陶白白别骂摩羯座了",
-      "onboard_time": 1741928005,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 144054,
@@ -24971,14 +25075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 138900,
-      "num": 138900,
-      "word": "柳演锡方回应涉嫌逃税",
-      "onboard_time": 1741930705,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 138897,
       "num": 138897,
       "word": "高校回应校车将女老师辗轧身亡",
@@ -24993,6 +25089,14 @@
       "onboard_time": 1741173797,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 138855,
+      "num": 138855,
+      "word": "凹凸世界",
+      "onboard_time": 1741931844,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 138852,
@@ -25579,6 +25683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134493,
+      "num": 194784,
+      "word": "翟子路真的学王星越挂锁了",
+      "onboard_time": 1741933162,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134421,
       "num": 134421,
       "word": "朋友圈里挤满了晒海滩照的人",
@@ -25987,6 +26099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132101,
+      "num": 158715,
+      "word": "DeepSeek回答能不能入手黄金",
+      "onboard_time": 1741933644,
+      "rank": 37,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 131917,
       "num": 131917,
       "word": "2元和200元的钙片到底有什么区别",
@@ -26097,6 +26217,14 @@
       "onboard_time": 1741779025,
       "rank": 16,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 131112,
+      "num": 131112,
+      "word": "沈月新中式写真",
+      "onboard_time": 1741933823,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 131082,
@@ -30971,6 +31099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104582,
+      "num": 232396,
+      "word": "Henry王俊凯同框",
+      "onboard_time": 1741933463,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104564,
       "num": 255785,
       "word": "直播间喊爹妈演互撕套路老年人",
@@ -31161,6 +31297,14 @@
       "onboard_time": 1741309342,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 103350,
+      "num": 151305,
+      "word": "俄军夺回库尔斯克重要城镇",
+      "onboard_time": 1741931304,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 103263,
@@ -32473,6 +32617,14 @@
       "onboard_time": 1741008320,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95575,
+      "num": 234676,
+      "word": "王曼昱3比0简彤娟",
+      "onboard_time": 1741933463,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 95564,
@@ -35635,6 +35787,14 @@
       "category": "互联网,体育"
     },
     {
+      "raw_hot": 67001,
+      "num": 232327,
+      "word": "为什么很多人害怕学数学",
+      "onboard_time": 1741932323,
+      "rank": 19,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 66998,
       "num": 66998,
       "word": "dsn直播",
@@ -37433,6 +37593,14 @@
       "onboard_time": 1740946271,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 49876,
+      "num": 157566,
+      "word": "AI预测今年最火的情侣礼物TOP10",
+      "onboard_time": 1741932263,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 49811,
@@ -39243,6 +39411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34470,
+      "num": 237099,
+      "word": "市监局对假酸奶涉事企业展开调查",
+      "onboard_time": 1741932323,
+      "rank": 13,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 34461,
       "num": 170632,
       "word": "骑士联盟首支锁定季后赛球队",
@@ -40105,6 +40281,14 @@
       "onboard_time": 1740864432,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 27806,
+      "num": 192810,
+      "word": "检查260元全麻后遭加价3600元",
+      "onboard_time": 1741933162,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 27767,
@@ -41425,6 +41609,14 @@
       "onboard_time": 1741721413,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 18976,
+      "num": 232184,
+      "word": "姚安娜时尚先锋大片",
+      "onboard_time": 1741932263,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 18902,
