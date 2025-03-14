@@ -1,6 +1,6 @@
 {
   "startTime": 1741969737801,
-  "endTime": 1741977084650,
+  "endTime": 1741977874899,
   "band_list": [
     {
       "raw_hot": 1517653,
@@ -419,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84702,
+      "num": 164309,
+      "word": "2255名中国籍涉诈嫌犯被押解回国",
+      "onboard_time": 1741969462,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83604,
       "num": 83604,
       "word": "邓为浴缸随拍",
@@ -433,14 +441,6 @@
       "onboard_time": 1741966762,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 81716,
-      "num": 164309,
-      "word": "2255名中国籍涉诈嫌犯被押解回国",
-      "onboard_time": 1741969462,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 78405,
@@ -491,7 +491,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 31056,
+      "raw_hot": 32756,
       "num": 39399,
       "word": "苦尽柑来遇见你",
       "onboard_time": 1741962383,
@@ -499,16 +499,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 29616,
-      "num": 29616,
+      "raw_hot": 30243,
+      "num": 30243,
       "word": "马斯克首访美国家安全局",
       "onboard_time": 1741975036,
       "rank": 38,
       "category": "国际时政"
     },
     {
-      "raw_hot": 27660,
-      "num": 27660,
+      "raw_hot": 27911,
+      "num": 27911,
       "word": "A勒布伦摔水瓶",
       "onboard_time": 1741956502,
       "rank": 40,
@@ -545,6 +545,22 @@
       "onboard_time": 1741971799,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 19739,
+      "num": 23510,
+      "word": "张泽禹弹奏世界赠予我的",
+      "onboard_time": 1741977616,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 19591,
+      "num": 23510,
+      "word": "主播违规拍摄大熊猫被终身禁入",
+      "onboard_time": 1741977735,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14739,
