@@ -1,6 +1,6 @@
 {
   "startTime": 1741883456293,
-  "endTime": 1741945098282,
+  "endTime": 1741947903160,
   "band_list": [
     {
       "raw_hot": 16802991,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 2076880,
-      "num": 283713,
+      "num": 306341,
       "word": "Prada与金秀贤解约",
       "onboard_time": 1741943423,
       "rank": 32,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1429273,
+      "num": 1429273,
+      "word": "CFO零封TES",
+      "onboard_time": 1741945884,
+      "rank": 0,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1347485,
       "num": 372382,
       "word": "金赛纶疑似9年前曾官宣恋情",
@@ -139,12 +147,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1203504,
+      "num": 317918,
+      "word": "金赛纶去世时吊唁的人不到20位",
+      "onboard_time": 1741944742,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1158032,
       "num": 788609,
       "word": "小学老师解聘后在校门口卖火鸡面",
       "onboard_time": 1741877963,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1067682,
+      "num": 322785,
+      "word": "美国婴儿尝试中国婴儿的食物",
+      "onboard_time": 1741946242,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 1002888,
@@ -155,7 +179,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 897078,
+      "raw_hot": 944373,
       "num": 831008,
       "word": "戚薇李承铉这是我不花钱能听的吗",
       "onboard_time": 1741940484,
@@ -169,6 +193,14 @@
       "onboard_time": 1741926627,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 886396,
+      "num": 637686,
+      "word": "张元英为了不出崩图一直不眨眼",
+      "onboard_time": 1741943423,
+      "rank": 13,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 883987,
@@ -187,12 +219,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 857933,
-      "num": 107035,
-      "word": "金赛纶去世时吊唁的人不到20位",
-      "onboard_time": 1741944742,
-      "rank": 46,
-      "category": "艺人"
+      "raw_hot": 828631,
+      "num": 828631,
+      "word": "TES",
+      "onboard_time": 1741941745,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 793921,
@@ -217,6 +249,14 @@
       "onboard_time": 1741909401,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 759242,
+      "num": 339877,
+      "word": "深圳富豪悬赏千万寻子终于上岸",
+      "onboard_time": 1741942044,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 758153,
@@ -249,14 +289,6 @@
       "onboard_time": 1741923506,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 637686,
-      "num": 637686,
-      "word": "张元英为了不出崩图一直不眨眼",
-      "onboard_time": 1741943423,
-      "rank": 13,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 633682,
@@ -337,14 +369,6 @@
       "onboard_time": 1741913482,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 543567,
-      "num": 543567,
-      "word": "TES",
-      "onboard_time": 1741941745,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 538543,
@@ -435,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 449419,
+      "num": 449419,
+      "word": "乘风2025",
+      "onboard_time": 1741944324,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 448877,
       "num": 448877,
       "word": "97年女生当村长5年惊艳所有人",
@@ -507,14 +539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 403135,
-      "num": 339877,
-      "word": "深圳富豪悬赏千万寻子终于上岸",
-      "onboard_time": 1741942044,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 401837,
       "num": 356981,
       "word": "英一二战",
@@ -571,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 376290,
+      "num": 286607,
+      "word": "阿诺说董力当年是真的很火",
+      "onboard_time": 1741947083,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 375511,
       "num": 198427,
       "word": "权志龙点赞金秀贤下车ins",
@@ -609,6 +641,14 @@
       "onboard_time": 1741941864,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 329188,
+      "num": 329188,
+      "word": "这波金价大涨是为啥",
+      "onboard_time": 1741945223,
+      "rank": 8,
+      "category": "财经"
     },
     {
       "raw_hot": 328390,
@@ -731,6 +771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 258594,
+      "num": 258594,
+      "word": "易烊千玺这一幕无敌了",
+      "onboard_time": 1741944623,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 253175,
       "num": 382947,
       "word": "男子百亿补贴8299元买到iPhone样板机",
@@ -843,6 +891,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 232921,
+      "num": 232921,
+      "word": "网上贷款1560元17天利息13764元",
+      "onboard_time": 1741945465,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 232676,
       "num": 313498,
       "word": "网约车绕路致迟到考生获赔2000",
@@ -875,28 +931,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 229018,
-      "num": 314013,
-      "word": "乘风2025",
-      "onboard_time": 1741944324,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 228863,
       "num": 232140,
       "word": "杨洋赵小棠李乃文和塑料袋打起来了",
       "onboard_time": 1741927645,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 224488,
-      "num": 224488,
-      "word": "易烊千玺这一幕无敌了",
-      "onboard_time": 1741944623,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 223875,
@@ -1027,6 +1067,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 205227,
+      "num": 242497,
+      "word": "哪吒2冲TOP5",
+      "onboard_time": 1741944984,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 201392,
       "num": 201392,
       "word": "吴宣仪浪姐6挑染造型",
@@ -1049,6 +1097,14 @@
       "onboard_time": 1741926447,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199984,
+      "num": 181224,
+      "word": "王一博黑粉公布致歉信",
+      "onboard_time": 1741947202,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 199886,
@@ -1136,6 +1192,14 @@
       "word": "留几手 陷入男性困境没有人会共情你",
       "onboard_time": 1741925665,
       "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 191151,
+      "num": 237487,
+      "word": "严浩翔几乎天天训练",
+      "onboard_time": 1741946724,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -1235,6 +1299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 181246,
+      "num": 181246,
+      "word": "chiikawa手游",
+      "onboard_time": 1741945103,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 181022,
       "num": 181022,
       "word": "男子回应从老师跨行校门口卖火鸡面",
@@ -1257,6 +1329,22 @@
       "onboard_time": 1741936523,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179987,
+      "num": 179987,
+      "word": "金赛纶7亿债务与酒驾赔偿无关",
+      "onboard_time": 1741944864,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 179718,
+      "num": 179718,
+      "word": "林一的脖子到底有谁在啊",
+      "onboard_time": 1741946304,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 179541,
@@ -1331,6 +1419,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 168939,
+      "num": 168939,
+      "word": "肖战小站记",
+      "onboard_time": 1741945884,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168480,
       "num": 98824,
       "word": "网民造谣顶流明星输10亿被行拘",
@@ -1353,6 +1449,14 @@
       "onboard_time": 1741932323,
       "rank": 19,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 166373,
+      "num": 166373,
+      "word": "CFO全华班",
+      "onboard_time": 1741946422,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 165886,
@@ -1467,6 +1571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153583,
+      "num": 153583,
+      "word": "BLG",
+      "onboard_time": 1741946364,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 153371,
       "num": 153371,
       "word": "陶白白别骂摩羯座了",
@@ -1491,6 +1603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150373,
+      "num": 301992,
+      "word": "王一博告黑获胜",
+      "onboard_time": 1741947322,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148967,
       "num": 148967,
       "word": "俄罗斯恐难接受临时停火",
@@ -1505,6 +1625,14 @@
       "onboard_time": 1741927286,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 148678,
+      "num": 148678,
+      "word": "纽约特朗普大楼遭袭98人被捕",
+      "onboard_time": 1741945103,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 148039,
@@ -1529,6 +1657,14 @@
       "onboard_time": 1741934182,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146778,
+      "num": 146778,
+      "word": "虞书欣林一剧宣的神来了",
+      "onboard_time": 1741947023,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 146462,
@@ -1659,6 +1795,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133180,
+      "num": 133180,
+      "word": "肖战新鲜的照片",
+      "onboard_time": 1741947142,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 132993,
+      "num": 132993,
+      "word": "老人连账号都没有被开通QQ超级会员随心玩",
+      "onboard_time": 1741946123,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132564,
+      "num": 305203,
+      "word": "工厂回收一次性水瓶再装水卖给学校",
+      "onboard_time": 1741944145,
+      "rank": 24,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 131658,
       "num": 129735,
       "word": "姚政忍了一路终于发疯了",
@@ -1689,6 +1849,14 @@
       "onboard_time": 1741908381,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 130057,
+      "num": 130057,
+      "word": "疑似黄磊豆角脱敏训练",
+      "onboard_time": 1741945344,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 129249,
@@ -1723,6 +1891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126845,
+      "num": 126845,
+      "word": "TES 没开麦",
+      "onboard_time": 1741947803,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 125775,
       "num": 298021,
       "word": "赵丽颖新角色流水的工作铁打的花",
@@ -1740,7 +1916,7 @@
     },
     {
       "raw_hot": 124506,
-      "num": 124506,
+      "num": 326607,
       "word": "悬赏千万寻子父亲找到失踪24年儿子",
       "onboard_time": 1741944265,
       "rank": 48,
@@ -1811,20 +1987,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120549,
+      "num": 120549,
+      "word": "LESSERAFIM回归成绩",
+      "onboard_time": 1741945824,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 118134,
       "num": 248238,
       "word": "邓亚萍忆张燮林教诲赢球更要赢人心",
       "onboard_time": 1741919964,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 118124,
-      "num": 118124,
-      "word": "金赛纶7亿债务与酒驾赔偿无关",
-      "onboard_time": 1741944864,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 117784,
@@ -1865,14 +2041,6 @@
       "onboard_time": 1741916842,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 108367,
-      "num": 108367,
-      "word": "哪吒2冲TOP5",
-      "onboard_time": 1741944984,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 107142,
@@ -2083,12 +2251,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86596,
+      "num": 292525,
+      "word": "LCP首次战胜LPL",
+      "onboard_time": 1741947564,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 86490,
       "num": 97304,
       "word": "国台办正告赖清德当局",
       "onboard_time": 1741908200,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 85722,
+      "num": 120169,
+      "word": "美国多名大学生支持巴勒斯坦遭开除",
+      "onboard_time": 1741945703,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 84171,
@@ -2299,6 +2483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 61965,
+      "num": 288658,
+      "word": "DJourney的100种背法",
+      "onboard_time": 1741945884,
+      "rank": 22,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 61215,
       "num": 265861,
       "word": "郑远元北派修脚没有灰指甲硬说你有",
@@ -2387,14 +2579,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 53303,
-      "num": 305203,
-      "word": "工厂回收一次性水瓶再装水卖给学校",
-      "onboard_time": 1741944145,
-      "rank": 24,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 52670,
       "num": 52670,
       "word": "湖南卫视连发16条杨洋",
@@ -2412,7 +2596,7 @@
     },
     {
       "raw_hot": 52143,
-      "num": 256194,
+      "num": 316934,
       "word": "刘恋重回职场摩登走秀",
       "onboard_time": 1741943363,
       "rank": 34,
@@ -2440,6 +2624,14 @@
       "word": "12种冒牌DeepSeekAPP收割消费者",
       "onboard_time": 1741944023,
       "rank": 22,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 46693,
+      "num": 313597,
+      "word": "多款儿童用品检出邻苯增塑剂超标",
+      "onboard_time": 1741946962,
+      "rank": 14,
       "category": "舆论监督"
     },
     {
@@ -2563,6 +2755,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 35801,
+      "num": 297471,
+      "word": "骗子直播间尬演卖惨推销劣质保健品",
+      "onboard_time": 1741946665,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 34994,
       "num": 235988,
       "word": "大师字画发货地竟在山沟里",
@@ -2627,20 +2827,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 26182,
+      "num": 693234,
+      "word": "春日进度条加载中",
+      "onboard_time": 1741941204,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25754,
       "num": 67431,
       "word": "中俄伊北京会晤是中方最新外交努力",
       "onboard_time": 1741877664,
       "rank": 23,
       "category": "国内时政,国际时政"
-    },
-    {
-      "raw_hot": 25557,
-      "num": 693234,
-      "word": "春日进度条加载中",
-      "onboard_time": 1741941204,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 24630,
@@ -2657,6 +2857,14 @@
       "onboard_time": 1741938023,
       "rank": 15,
       "category": "数码"
+    },
+    {
+      "raw_hot": 23412,
+      "num": 282888,
+      "word": "孤寡老人买理财投资百万仅收回四千",
+      "onboard_time": 1741947564,
+      "rank": 24,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 22082,
@@ -2705,6 +2913,22 @@
       "onboard_time": 1741890555,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 16499,
+      "num": 150633,
+      "word": "从明星身上学DJourney穿搭灵感",
+      "onboard_time": 1741945884,
+      "rank": 38,
+      "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 16477,
+      "num": 305412,
+      "word": "东北雨姐骆王宇等主播被点名",
+      "onboard_time": 1741947683,
+      "rank": 17,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 16476,

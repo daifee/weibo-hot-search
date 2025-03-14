@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741945098282,
+  "endTime": 1741947903160,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -532,7 +532,7 @@
     },
     {
       "raw_hot": 2076880,
-      "num": 283713,
+      "num": 306341,
       "word": "Prada与金秀贤解约",
       "onboard_time": 1741943423,
       "rank": 32,
@@ -1371,6 +1371,14 @@
       "category": "互联网,数码"
     },
     {
+      "raw_hot": 1429273,
+      "num": 1429273,
+      "word": "CFO零封TES",
+      "onboard_time": 1741945884,
+      "rank": 0,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1428646,
       "num": 564479,
       "word": "金秀贤想在41岁时和21岁的女孩结婚",
@@ -1801,6 +1809,14 @@
       "onboard_time": 1740892939,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1203504,
+      "num": 317918,
+      "word": "金赛纶去世时吊唁的人不到20位",
+      "onboard_time": 1741944742,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 1202337,
@@ -2257,6 +2273,14 @@
       "onboard_time": 1741878863,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1067682,
+      "num": 322785,
+      "word": "美国婴儿尝试中国婴儿的食物",
+      "onboard_time": 1741946242,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 1063417,
@@ -2779,6 +2803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 944373,
+      "num": 831008,
+      "word": "戚薇李承铉这是我不花钱能听的吗",
+      "onboard_time": 1741940484,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 943864,
       "num": 632919,
       "word": "张小斐迪丽热巴张艺兴 女足",
@@ -3035,14 +3067,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 897078,
-      "num": 831008,
-      "word": "戚薇李承铉这是我不花钱能听的吗",
-      "onboard_time": 1741940484,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 896375,
       "num": 896375,
       "word": "KC零封TES",
@@ -3105,6 +3129,14 @@
       "onboard_time": 1741352061,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 886396,
+      "num": 637686,
+      "word": "张元英为了不出崩图一直不眨眼",
+      "onboard_time": 1741943423,
+      "rank": 13,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 885535,
@@ -3291,14 +3323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 857933,
-      "num": 107035,
-      "word": "金赛纶去世时吊唁的人不到20位",
-      "onboard_time": 1741944742,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 853868,
       "num": 337698,
       "word": "100寸的行李箱",
@@ -3417,6 +3441,14 @@
       "onboard_time": 1741442422,
       "rank": 8,
       "category": "财经"
+    },
+    {
+      "raw_hot": 828631,
+      "num": 828631,
+      "word": "TES",
+      "onboard_time": 1741941745,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 827306,
@@ -3889,6 +3921,14 @@
       "onboard_time": 1741500862,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 759242,
+      "num": 339877,
+      "word": "深圳富豪悬赏千万寻子终于上岸",
+      "onboard_time": 1741942044,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 758153,
@@ -4849,14 +4889,6 @@
       "onboard_time": 1740903319,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 637686,
-      "num": 637686,
-      "word": "张元英为了不出崩图一直不眨眼",
-      "onboard_time": 1741943423,
-      "rank": 13,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 637678,
@@ -6065,14 +6097,6 @@
       "onboard_time": 1741877904,
       "rank": 7,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 543567,
-      "num": 543567,
-      "word": "TES",
-      "onboard_time": 1741941745,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 543424,
@@ -7323,6 +7347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 449419,
+      "num": 449419,
+      "word": "乘风2025",
+      "onboard_time": 1741944324,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 448877,
       "num": 448877,
       "word": "97年女生当村长5年惊艳所有人",
@@ -8219,14 +8251,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 403135,
-      "num": 339877,
-      "word": "深圳富豪悬赏千万寻子终于上岸",
-      "onboard_time": 1741942044,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 403130,
       "num": 263849,
       "word": "吴彦祖398元英语课销售额超500万",
@@ -8889,6 +8913,14 @@
       "onboard_time": 1741743923,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 376290,
+      "num": 286607,
+      "word": "阿诺说董力当年是真的很火",
+      "onboard_time": 1741947083,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 375623,
@@ -10225,6 +10257,14 @@
       "onboard_time": 1741324225,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 329188,
+      "num": 329188,
+      "word": "这波金价大涨是为啥",
+      "onboard_time": 1741945223,
+      "rank": 8,
+      "category": "财经"
     },
     {
       "raw_hot": 328992,
@@ -13019,6 +13059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 258594,
+      "num": 258594,
+      "word": "易烊千玺这一幕无敌了",
+      "onboard_time": 1741944623,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 258405,
       "num": 258405,
       "word": "金赛纶咖啡店打工被人说是摆拍",
@@ -14083,6 +14131,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 232921,
+      "num": 232921,
+      "word": "网上贷款1560元17天利息13764元",
+      "onboard_time": 1741945465,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 232676,
       "num": 313498,
       "word": "网约车绕路致迟到考生获赔2000",
@@ -14313,14 +14369,6 @@
       "onboard_time": 1741859725,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 229018,
-      "num": 314013,
-      "word": "乘风2025",
-      "onboard_time": 1741944324,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 229004,
@@ -14665,14 +14713,6 @@
       "onboard_time": 1741501462,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 224488,
-      "num": 224488,
-      "word": "易烊千玺这一幕无敌了",
-      "onboard_time": 1741944623,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 224164,
@@ -16267,6 +16307,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 205227,
+      "num": 242497,
+      "word": "哪吒2冲TOP5",
+      "onboard_time": 1741944984,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 205225,
       "num": 205225,
       "word": "张凌赫说后面会多看现偶的本子",
@@ -16841,6 +16889,14 @@
       "onboard_time": 1741320563,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199984,
+      "num": 181224,
+      "word": "王一博黑粉公布致歉信",
+      "onboard_time": 1741947202,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 199886,
@@ -17945,6 +18001,14 @@
       "onboard_time": 1741222878,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 191151,
+      "num": 237487,
+      "word": "严浩翔几乎天天训练",
+      "onboard_time": 1741946724,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 191080,
@@ -19131,6 +19195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181246,
+      "num": 181246,
+      "word": "chiikawa手游",
+      "onboard_time": 1741945103,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 181231,
       "num": 181231,
       "word": "鬼灭之刃",
@@ -19264,6 +19336,22 @@
       "word": "似锦开播",
       "onboard_time": 1740823222,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 179987,
+      "num": 179987,
+      "word": "金赛纶7亿债务与酒驾赔偿无关",
+      "onboard_time": 1741944864,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 179718,
+      "num": 179718,
+      "word": "林一的脖子到底有谁在啊",
+      "onboard_time": 1741946304,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -20643,6 +20731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168939,
+      "num": 168939,
+      "word": "肖战小站记",
+      "onboard_time": 1741945884,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168814,
       "num": 200687,
       "word": "苏橙橙手镯借我戴几天",
@@ -21089,6 +21185,14 @@
       "onboard_time": 1741259903,
       "rank": 28,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 166373,
+      "num": 166373,
+      "word": "CFO全华班",
+      "onboard_time": 1741946422,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 166306,
@@ -23107,6 +23211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153583,
+      "num": 153583,
+      "word": "BLG",
+      "onboard_time": 1741946364,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 153500,
       "num": 153500,
       "word": "边伯贤合作曲MV",
@@ -23651,6 +23763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150373,
+      "num": 301992,
+      "word": "王一博告黑获胜",
+      "onboard_time": 1741947322,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150336,
       "num": 150336,
       "word": "KC翻盘",
@@ -23849,6 +23969,14 @@
       "onboard_time": 1741485321,
       "rank": 15,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 148678,
+      "num": 148678,
+      "word": "纽约特朗普大楼遭袭98人被捕",
+      "onboard_time": 1741945103,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 148547,
@@ -24144,6 +24272,14 @@
       "word": "何苏叶求婚词",
       "onboard_time": 1741526544,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 146778,
+      "num": 146778,
+      "word": "虞书欣林一剧宣的神来了",
+      "onboard_time": 1741947023,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -26403,6 +26539,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 133180,
+      "num": 133180,
+      "word": "肖战新鲜的照片",
+      "onboard_time": 1741947142,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133150,
       "num": 133150,
       "word": "第3场部长通道",
@@ -26433,6 +26577,14 @@
       "onboard_time": 1741853723,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 132993,
+      "num": 132993,
+      "word": "老人连账号都没有被开通QQ超级会员随心玩",
+      "onboard_time": 1741946123,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132824,
@@ -26473,6 +26625,14 @@
       "onboard_time": 1741750883,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132564,
+      "num": 305203,
+      "word": "工厂回收一次性水瓶再装水卖给学校",
+      "onboard_time": 1741944145,
+      "rank": 24,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 132453,
@@ -26792,6 +26952,14 @@
       "word": "阎鹤祥在德云社还是太权威了",
       "onboard_time": 1740817945,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 130057,
+      "num": 130057,
+      "word": "疑似黄磊豆角脱敏训练",
+      "onboard_time": 1741945344,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -27411,6 +27579,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 126845,
+      "num": 126845,
+      "word": "TES 没开麦",
+      "onboard_time": 1741947803,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 126844,
       "num": 126844,
       "word": "周深语言小天才的证据又增加了",
@@ -27972,7 +28148,7 @@
     },
     {
       "raw_hot": 124506,
-      "num": 124506,
+      "num": 326607,
       "word": "悬赏千万寻子父亲找到失踪24年儿子",
       "onboard_time": 1741944265,
       "rank": 48,
@@ -28779,6 +28955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120549,
+      "num": 120549,
+      "word": "LESSERAFIM回归成绩",
+      "onboard_time": 1741945824,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 120417,
       "num": 150075,
       "word": "迪丽热巴陈星旭大理同框",
@@ -29225,14 +29409,6 @@
       "onboard_time": 1741919964,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 118124,
-      "num": 118124,
-      "word": "金赛纶7亿债务与酒驾赔偿无关",
-      "onboard_time": 1741944864,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 118049,
@@ -30865,14 +31041,6 @@
       "onboard_time": 1741186519,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 108367,
-      "num": 108367,
-      "word": "哪吒2冲TOP5",
-      "onboard_time": 1741944984,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 108359,
@@ -34443,6 +34611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86596,
+      "num": 292525,
+      "word": "LCP首次战胜LPL",
+      "onboard_time": 1741947564,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 86568,
       "num": 411460,
       "word": "英首相曾试图说服泽连斯基返回白宫",
@@ -34561,6 +34737,14 @@
       "onboard_time": 1741018637,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 85722,
+      "num": 120169,
+      "word": "美国多名大学生支持巴勒斯坦遭开除",
+      "onboard_time": 1741945703,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 85690,
@@ -36947,6 +37131,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 61965,
+      "num": 288658,
+      "word": "DJourney的100种背法",
+      "onboard_time": 1741945884,
+      "rank": 22,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 61567,
       "num": 183137,
       "word": "无畏国服墨子",
@@ -37899,14 +38091,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 53303,
-      "num": 305203,
-      "word": "工厂回收一次性水瓶再装水卖给学校",
-      "onboard_time": 1741944145,
-      "rank": 24,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 53249,
       "num": 391412,
       "word": "2025全国两会热点",
@@ -38004,7 +38188,7 @@
     },
     {
       "raw_hot": 52143,
-      "num": 256194,
+      "num": 316934,
       "word": "刘恋重回职场摩登走秀",
       "onboard_time": 1741943363,
       "rank": 34,
@@ -38593,6 +38777,14 @@
       "onboard_time": 1741852882,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 46693,
+      "num": 313597,
+      "word": "多款儿童用品检出邻苯增塑剂超标",
+      "onboard_time": 1741946962,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 46649,
@@ -40003,6 +40195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35801,
+      "num": 297471,
+      "word": "骗子直播间尬演卖惨推销劣质保健品",
+      "onboard_time": 1741946665,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 35743,
       "num": 235887,
       "word": "陈昊宇马伊琍同框采访",
@@ -41339,6 +41539,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 26182,
+      "num": 693234,
+      "word": "春日进度条加载中",
+      "onboard_time": 1741941204,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26155,
       "num": 30330,
       "word": "王鹤棣复刻打更人敲锣",
@@ -41433,14 +41641,6 @@
       "onboard_time": 1740833964,
       "rank": 19,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 25557,
-      "num": 693234,
-      "word": "春日进度条加载中",
-      "onboard_time": 1741941204,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25540,
@@ -41801,6 +42001,14 @@
       "onboard_time": 1740841344,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 23412,
+      "num": 282888,
+      "word": "孤寡老人买理财投资百万仅收回四千",
+      "onboard_time": 1741947564,
+      "rank": 24,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 23383,
@@ -42777,6 +42985,22 @@
       "onboard_time": 1741553053,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 16499,
+      "num": 150633,
+      "word": "从明星身上学DJourney穿搭灵感",
+      "onboard_time": 1741945884,
+      "rank": 38,
+      "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 16477,
+      "num": 305412,
+      "word": "东北雨姐骆王宇等主播被点名",
+      "onboard_time": 1741947683,
+      "rank": 17,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 16476,
