@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741924099218,
+  "endTime": 1741926474415,
   "band_list": [
     {
       "raw_hot": 21330054,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 4356564,
-      "num": 313310,
+      "num": 408048,
       "word": "金秀贤发万字长文",
       "onboard_time": 1741923205,
       "rank": 16,
@@ -259,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2038985,
+      "num": 1600253,
+      "word": "中国钢琴才女遭美国丈夫枪杀",
+      "onboard_time": 1741922006,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 2031122,
       "num": 2031122,
       "word": "多名外卖小哥提醒避雷黄焖鸡",
@@ -305,6 +313,14 @@
       "onboard_time": 1741576821,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1914549,
+      "num": 1914549,
+      "word": "柳演锡涉嫌逃税",
+      "onboard_time": 1741924045,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 1893070,
@@ -497,14 +513,6 @@
       "onboard_time": 1741830023,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1600253,
-      "num": 1600253,
-      "word": "中国钢琴才女遭美国丈夫枪杀",
-      "onboard_time": 1741922006,
-      "rank": 1,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1585196,
@@ -2315,6 +2323,14 @@
       "category": "国内时政,艺人"
     },
     {
+      "raw_hot": 594635,
+      "num": 594635,
+      "word": "汤家凤再次发声",
+      "onboard_time": 1741923746,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 587688,
       "num": 587688,
       "word": "普京表示俄罗斯同意停火30天",
@@ -2393,6 +2409,14 @@
       "onboard_time": 1741562297,
       "rank": 30,
       "category": "国际时政,互联网"
+    },
+    {
+      "raw_hot": 558769,
+      "num": 303258,
+      "word": "肉铺老板绞肉绞断三根手指索赔顾客",
+      "onboard_time": 1741922905,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 557756,
@@ -2499,6 +2523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 538543,
+      "num": 538543,
+      "word": "韩安冉妈妈否认偷小猪妹黄金",
+      "onboard_time": 1741923446,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
       "raw_hot": 537629,
       "num": 383104,
       "word": "女子生完双胞胎4个月再怀双胞胎",
@@ -2561,6 +2593,14 @@
       "onboard_time": 1741837343,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 527239,
+      "num": 527239,
+      "word": "赵丽颖新片酒吧卖酒",
+      "onboard_time": 1741922964,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 525788,
@@ -2851,6 +2891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 472084,
+      "num": 472084,
+      "word": "邻居曝中国女孩美国遭家暴枪杀细节",
+      "onboard_time": 1741923506,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 470924,
       "num": 304900,
       "word": "谢娜带仨女儿逛商场",
@@ -2923,20 +2971,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 455227,
-      "num": 265015,
-      "word": "肉铺老板绞肉绞断三根手指索赔顾客",
-      "onboard_time": 1741922905,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 454380,
       "num": 454380,
       "word": "美国一架载5人飞机坠毁",
       "onboard_time": 1741565360,
       "rank": 7,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 448877,
+      "num": 448877,
+      "word": "97年女生当村长5年惊艳所有人",
+      "onboard_time": 1741922905,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 448524,
@@ -3195,22 +3243,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 418541,
-      "num": 418541,
-      "word": "赵丽颖新片酒吧卖酒",
-      "onboard_time": 1741922964,
-      "rank": 13,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 416199,
-      "num": 398399,
-      "word": "韩安冉妈妈否认偷小猪妹黄金",
-      "onboard_time": 1741923446,
-      "rank": 12,
-      "category": "网红"
-    },
-    {
       "raw_hot": 415997,
       "num": 268510,
       "word": "麦琳说再见爱人后容貌焦虑达到峰值",
@@ -3243,12 +3275,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 410802,
+      "num": 410802,
+      "word": "金店足金价格涨破900",
+      "onboard_time": 1741923385,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 409445,
       "num": 409445,
       "word": "金赛纶打5份工还债还被霸凌",
       "onboard_time": 1741831883,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 409069,
+      "num": 409069,
+      "word": "deepseek 语擦",
+      "onboard_time": 1741925066,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 408179,
@@ -3273,14 +3321,6 @@
       "onboard_time": 1741677262,
       "rank": 18,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 407506,
-      "num": 407506,
-      "word": "97年女生当村长5年惊艳所有人",
-      "onboard_time": 1741922905,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 406816,
@@ -3481,6 +3521,14 @@
       "onboard_time": 1741773503,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 389529,
+      "num": 389529,
+      "word": "迪丽热巴加勒比女王造型",
+      "onboard_time": 1741923746,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 388487,
@@ -4683,6 +4731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286367,
+      "num": 286367,
+      "word": "原神",
+      "onboard_time": 1741925546,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 285867,
       "num": 285867,
       "word": "LV内场看秀待遇",
@@ -4835,12 +4891,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 274470,
+      "num": 274470,
+      "word": "柳演锡被追缴70亿税金",
+      "onboard_time": 1741924526,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 273274,
       "num": 273274,
       "word": "多个奢侈品吊牌被炒出天价",
       "onboard_time": 1741701745,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 272741,
+      "num": 272741,
+      "word": "黄杨钿甜凌晨2点的火车",
+      "onboard_time": 1741924945,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 271406,
@@ -5513,6 +5585,14 @@
       "onboard_time": 1741619423,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 234214,
+      "num": 234214,
+      "word": "赵丽颖说就把自己当块铁吧",
+      "onboard_time": 1741925785,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 232676,
@@ -6723,14 +6803,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 197451,
-      "num": 252222,
-      "word": "迪丽热巴加勒比女王造型",
-      "onboard_time": 1741923746,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 197287,
       "num": 306205,
       "word": "代表说我的阿勒泰让世界认识我家乡",
@@ -6768,6 +6840,14 @@
       "word": "冰湖重生官微回应张康乐发烧",
       "onboard_time": 1741496303,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 196750,
+      "num": 196750,
+      "word": "白敬亭章若楠四手联弹",
+      "onboard_time": 1741926086,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -6849,6 +6929,14 @@
       "onboard_time": 1741616605,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194909,
+      "num": 275925,
+      "word": "王者男团终于出新歌了",
+      "onboard_time": 1741922905,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 194732,
@@ -7539,6 +7627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180650,
+      "num": 449247,
+      "word": "张艺兴告黑获胜",
+      "onboard_time": 1741924224,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180608,
       "num": 302536,
       "word": "时代峰峻无限音乐会",
@@ -7617,6 +7713,14 @@
       "onboard_time": 1741748963,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 178084,
+      "num": 178084,
+      "word": "胡军可以是爹也可以是daddy",
+      "onboard_time": 1741925424,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 177981,
@@ -7897,14 +8001,6 @@
       "onboard_time": 1741917501,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 172489,
-      "num": 172489,
-      "word": "汤家凤再次发声",
-      "onboard_time": 1741923746,
-      "rank": 38,
-      "category": "教育"
     },
     {
       "raw_hot": 172446,
@@ -8675,6 +8771,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 159652,
+      "num": 159652,
+      "word": "恋与深空",
+      "onboard_time": 1741925066,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 159566,
       "num": 262323,
       "word": "滤镜 细思极恐",
@@ -8897,6 +9001,14 @@
       "onboard_time": 1741614985,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155638,
+      "num": 216060,
+      "word": "花生十三图推规律汇总",
+      "onboard_time": 1741923023,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 155591,
@@ -9403,6 +9515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146443,
+      "num": 287286,
+      "word": "过度使用电子产品致性早熟影响身高",
+      "onboard_time": 1741924586,
+      "rank": 22,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 146287,
       "num": 205992,
       "word": "黄灿灿 好像我们的故事是真实存在的",
@@ -9723,14 +9843,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 141646,
-      "num": 312678,
-      "word": "金店足金价格涨破900",
-      "onboard_time": 1741923385,
-      "rank": 14,
-      "category": "财经"
-    },
-    {
       "raw_hot": 141433,
       "num": 141433,
       "word": "甜茶刮胡子了",
@@ -9777,14 +9889,6 @@
       "onboard_time": 1741684883,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 140818,
-      "num": 140818,
-      "word": "柳演锡涉嫌逃税",
-      "onboard_time": 1741924045,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 140746,
@@ -10825,6 +10929,14 @@
       "onboard_time": 1741530925,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124398,
+      "num": 215548,
+      "word": "种地吧",
+      "onboard_time": 1741660882,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 124138,
@@ -12219,14 +12331,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 107522,
-      "num": 402534,
-      "word": "邻居曝中国女孩美国遭家暴枪杀细节",
-      "onboard_time": 1741923506,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 107445,
       "num": 120457,
       "word": "张真源素颜拍立得",
@@ -12665,14 +12769,6 @@
       "onboard_time": 1741516822,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 101154,
-      "num": 215548,
-      "word": "种地吧",
-      "onboard_time": 1741660882,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 101047,
@@ -13187,6 +13283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 93924,
+      "num": 143225,
+      "word": "留几手 陷入男性困境没有人会共情你",
+      "onboard_time": 1741925665,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93376,
       "num": 93376,
       "word": "张嘉元回应被章子怡点评很值",
@@ -13521,14 +13625,6 @@
       "onboard_time": 1741569562,
       "rank": 46,
       "category": "国内时政,互联网"
-    },
-    {
-      "raw_hot": 88844,
-      "num": 216060,
-      "word": "花生十三图推规律汇总",
-      "onboard_time": 1741923023,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 88781,
@@ -15907,6 +16003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34192,
+      "num": 770134,
+      "word": "这是春天里的锦绣中国",
+      "onboard_time": 1741922484,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34076,
       "num": 151530,
       "word": "黑胡椒牛肉意面",
@@ -16056,14 +16160,6 @@
       "word": "交个朋友回应带货课被指割韭菜",
       "onboard_time": 1741853422,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32176,
-      "num": 770134,
-      "word": "这是春天里的锦绣中国",
-      "onboard_time": 1741922484,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -16745,6 +16841,14 @@
       "onboard_time": 1741884019,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21045,
+      "num": 303540,
+      "word": "杜特尔特首次出庭时间公布",
+      "onboard_time": 1741925125,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 20863,
