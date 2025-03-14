@@ -1,6 +1,6 @@
 {
   "startTime": 1741969737801,
-  "endTime": 1741984698501,
+  "endTime": 1741987357019,
   "band_list": [
     {
       "raw_hot": 1517653,
@@ -452,7 +452,7 @@
     },
     {
       "raw_hot": 76127,
-      "num": 34271,
+      "num": 34473,
       "word": "主播违规拍摄大熊猫被终身禁入",
       "onboard_time": 1741977735,
       "rank": 49,
@@ -505,6 +505,14 @@
       "onboard_time": 1741958663,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 37359,
+      "num": 37359,
+      "word": "特朗普为啥非要得到格陵兰岛",
+      "onboard_time": 1741985654,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 32756,
@@ -609,6 +617,22 @@
       "onboard_time": 1741982174,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12504,
+      "num": 16283,
+      "word": "王一博万物可爱入选当代歌曲创作精品",
+      "onboard_time": 1741981754,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 11262,
+      "num": 37021,
+      "word": "格陵兰岛有什么被美国惦记100多年",
+      "onboard_time": 1741986853,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 10870,
