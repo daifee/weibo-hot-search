@@ -1,0 +1,410 @@
+{
+  "runTime": 1741951207147,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 900049,
+        "num": 1144007,
+        "word": "阿诺说董力当年是真的很火",
+        "onboard_time": 1741947083,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 706307,
+        "num": 706307,
+        "word": "东北雨姐骆王宇等主播被点名",
+        "onboard_time": 1741947683,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 21798,
+        "num": 703565,
+        "word": "春日进度条加载中",
+        "onboard_time": 1741941204,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 701184,
+        "num": 701184,
+        "word": "CFO零封TES",
+        "onboard_time": 1741945884,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 700886,
+        "num": 700886,
+        "word": "亮剑中有两位演员已离世",
+        "onboard_time": 1741948163,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 689842,
+        "num": 689842,
+        "word": "蜜雪冰城鲜果切片常温过夜后继续用",
+        "onboard_time": 1741949484,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 580158,
+        "num": 580158,
+        "word": "贵女",
+        "onboard_time": 1741948284,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 464357,
+        "num": 464357,
+        "word": "第五人格",
+        "onboard_time": 1741948042,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 378890,
+        "num": 378890,
+        "word": "呼市卫健委1小时接50通补贴咨询电话",
+        "onboard_time": 1741946903,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136090,
+        "num": 374528,
+        "word": "老人连账号都没有被开通QQ超级会员随心玩",
+        "onboard_time": 1741946123,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1638247,
+        "num": 369223,
+        "word": "金秀贤说谎了",
+        "onboard_time": 1741936462,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 700671,
+        "num": 361285,
+        "word": "美国婴儿尝试中国婴儿的食物",
+        "onboard_time": 1741946242,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 912021,
+        "num": 347140,
+        "word": "金赛纶去世时吊唁的人不到20位",
+        "onboard_time": 1741944742,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31758,
+        "num": 344732,
+        "word": "电视剧掌心中的这些罪责如何界定",
+        "onboard_time": 1741949662,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25652,
+        "num": 330177,
+        "word": "张朝阳对夸克AI搜索相当满意",
+        "onboard_time": 1741950084,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 328607,
+        "num": 328607,
+        "word": "权顺荣受伤",
+        "onboard_time": 1741948284,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294937,
+        "num": 294937,
+        "word": "第五人格前瞻直播",
+        "onboard_time": 1741948222,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 289587,
+        "num": 289587,
+        "word": "涂毓麟孙乐言最长异地只有6天",
+        "onboard_time": 1741950322,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45395,
+        "num": 282399,
+        "word": "郑钦文代表湖北省参加全运会",
+        "onboard_time": 1741950683,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130659,
+        "num": 280119,
+        "word": "蔡康永说自己在节目里像空气",
+        "onboard_time": 1741948762,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 676444,
+        "num": 279904,
+        "word": "张元英为了不出崩图一直不眨眼",
+        "onboard_time": 1741943423,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 278525,
+        "num": 278525,
+        "word": "戚薇李承铉这是我不花钱能听的吗",
+        "onboard_time": 1741940484,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283539,
+        "num": 274152,
+        "word": "羽衣甘蓝 减肥",
+        "onboard_time": 1741949123,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 287141,
+        "num": 268576,
+        "word": "专家建议每孩1次性补贴10万",
+        "onboard_time": 1741950264,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44936,
+        "num": 259362,
+        "word": "梁靖崑谈腿伤",
+        "onboard_time": 1741950322,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254370,
+        "num": 254370,
+        "word": "乘风2025",
+        "onboard_time": 1741944324,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243207,
+        "num": 243207,
+        "word": "因表情包爆火的他已离世多年",
+        "onboard_time": 1741936884,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243206,
+        "num": 243206,
+        "word": "TES",
+        "onboard_time": 1741941745,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 213617,
+        "num": 213617,
+        "word": "去年315被曝光企业现状",
+        "onboard_time": 1741942343,
+        "rank": 28,
+        "category": "民生新闻,舆论监督"
+      },
+      {
+        "raw_hot": 54403,
+        "num": 203879,
+        "word": "DiorDJourney包袋",
+        "onboard_time": 1741950503,
+        "rank": 29,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 199796,
+        "num": 199796,
+        "word": "网上贷款1560元17天利息13764元",
+        "onboard_time": 1741945465,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192413,
+        "num": 192413,
+        "word": "这波金价大涨是为啥",
+        "onboard_time": 1741945223,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 191037,
+        "num": 191037,
+        "word": "五福临门",
+        "onboard_time": 1741950622,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162436,
+        "num": 162436,
+        "word": "TES 没开麦",
+        "onboard_time": 1741947803,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 158239,
+        "num": 158239,
+        "word": "哪吒2冲TOP5",
+        "onboard_time": 1741944984,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151045,
+        "num": 151045,
+        "word": "易烊千玺这一幕无敌了",
+        "onboard_time": 1741944623,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139420,
+        "num": 139420,
+        "word": "周思成称田静不会没成绩",
+        "onboard_time": 1741950622,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 129062,
+        "num": 129062,
+        "word": "纽约特朗普大楼遭袭",
+        "onboard_time": 1741939644,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14087,
+        "num": 128283,
+        "word": "DIOR新包尺寸怎么选",
+        "onboard_time": 1741950322,
+        "rank": 38,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 39481,
+        "num": 127973,
+        "word": "粉蒸肉好吃程度连跳十级",
+        "onboard_time": 1741950444,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 127915,
+        "num": 127915,
+        "word": "papi拖更的原因",
+        "onboard_time": 1741950142,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 53356,
+        "num": 124505,
+        "word": "刘恋新浪扫楼",
+        "onboard_time": 1741951103,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124463,
+        "num": 124463,
+        "word": "LCP首次战胜LPL",
+        "onboard_time": 1741947564,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122432,
+        "num": 122432,
+        "word": "李承铉戚薇办了两次婚礼",
+        "onboard_time": 1741949423,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120554,
+        "num": 120554,
+        "word": "虞书欣林一剧宣的神来了",
+        "onboard_time": 1741947023,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118635,
+        "num": 118635,
+        "word": "一文回顾去年315被曝光企业",
+        "onboard_time": 1741944145,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110647,
+        "num": 110647,
+        "word": "肖战小站记",
+        "onboard_time": 1741945884,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108723,
+        "num": 108723,
+        "word": "金赛纶7亿债务与酒驾赔偿无关",
+        "onboard_time": 1741944864,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107579,
+        "num": 107579,
+        "word": "JackeyLove 大满败",
+        "onboard_time": 1741951165,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109185,
+        "num": 107522,
+        "word": "林一的脖子到底有谁在啊",
+        "onboard_time": 1741946304,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会足迹#"
+    }
+  }
+}
