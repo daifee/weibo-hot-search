@@ -1,6 +1,6 @@
 {
   "startTime": 1741883456293,
-  "endTime": 1741937011228,
+  "endTime": 1741937746555,
   "band_list": [
     {
       "raw_hot": 16802991,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 3690143,
-      "num": 322334,
+      "num": 349014,
       "word": "金秀贤说谎了",
       "onboard_time": 1741936462,
       "rank": 10,
@@ -32,6 +32,14 @@
       "word": "金秀贤出国",
       "onboard_time": 1741930823,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2216201,
+      "num": 274208,
+      "word": "金秀贤曾要求全智贤换平底鞋被拒",
+      "onboard_time": 1741937664,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 1794675,
-      "num": 278862,
+      "num": 284830,
       "word": "韩娱地震",
       "onboard_time": 1741930164,
       "rank": 12,
@@ -187,6 +195,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 702653,
+      "num": 702653,
+      "word": "徐若晗回应牙齿争议",
+      "onboard_time": 1741936884,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 699428,
       "num": 585775,
       "word": "邻居曝中国女孩美国遭家暴枪杀细节",
@@ -201,6 +217,14 @@
       "onboard_time": 1741909881,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 612896,
+      "num": 612896,
+      "word": "DeepSeek回答能不能入手黄金",
+      "onboard_time": 1741933644,
+      "rank": 37,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 606689,
@@ -233,14 +257,6 @@
       "onboard_time": 1741922905,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 566872,
-      "num": 566872,
-      "word": "DeepSeek回答能不能入手黄金",
-      "onboard_time": 1741933644,
-      "rank": 37,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 554635,
@@ -387,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 405465,
+      "num": 405465,
+      "word": "A股大涨背后原因",
+      "onboard_time": 1741934003,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 404560,
       "num": 404560,
       "word": "女子高铁被行李箱砸晕铁路方拒担责",
@@ -403,6 +427,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 400532,
+      "num": 334864,
+      "word": "因表情包爆火的他已离世多年",
+      "onboard_time": 1741936884,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 398536,
       "num": 398536,
       "word": "足金金饰价格刷新高",
@@ -417,14 +449,6 @@
       "onboard_time": 1741931003,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 392475,
-      "num": 392475,
-      "word": "A股大涨背后原因",
-      "onboard_time": 1741934003,
-      "rank": 36,
-      "category": "财经"
     },
     {
       "raw_hot": 389529,
@@ -499,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 305725,
+      "num": 255762,
+      "word": "原来艺人之间也会做背调",
+      "onboard_time": 1741936884,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 304657,
       "num": 273544,
       "word": "老人长期吃素胆囊长出金蛋状结石",
@@ -545,6 +577,14 @@
       "onboard_time": 1741880183,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 276713,
+      "num": 276713,
+      "word": "费启鸣有照片你是真发啊",
+      "onboard_time": 1741935323,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 274470,
@@ -715,20 +755,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 219349,
+      "num": 219349,
+      "word": "程序员盗取70多万学生信息转卖40万元",
+      "onboard_time": 1741935622,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218321,
       "num": 218321,
       "word": "李隼谈东京奥运女单半决赛那场球",
       "onboard_time": 1741929206,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 218272,
-      "num": 218272,
-      "word": "徐若晗回应牙齿争议",
-      "onboard_time": 1741936884,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 218190,
@@ -739,20 +779,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 217771,
-      "num": 217771,
-      "word": "费启鸣有照片你是真发啊",
-      "onboard_time": 1741935323,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 217727,
       "num": 217727,
       "word": "妻子的浪漫旅行",
       "onboard_time": 1741930225,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214231,
+      "num": 214231,
+      "word": "去图书馆一定要坐固定位置",
+      "onboard_time": 1741936523,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 212915,
@@ -763,20 +803,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212830,
+      "num": 208497,
+      "word": "明白小说里富家千金是什么样了",
+      "onboard_time": 1741936824,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 211910,
       "num": 211910,
       "word": "黄金突破历史新高",
       "onboard_time": 1741908499,
       "rank": 15,
       "category": "财经"
-    },
-    {
-      "raw_hot": 211877,
-      "num": 211877,
-      "word": "因表情包爆火的他已离世多年",
-      "onboard_time": 1741936884,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 210630,
@@ -811,14 +851,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 208497,
-      "num": 208497,
-      "word": "明白小说里富家千金是什么样了",
-      "onboard_time": 1741936824,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 208272,
       "num": 208272,
       "word": "郑钦文0比2斯瓦泰克",
@@ -827,20 +859,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205827,
+      "num": 368190,
+      "word": "悬赏千万寻子父亲得知找到儿子泪崩",
+      "onboard_time": 1741936523,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205753,
       "num": 205753,
       "word": "用DeepSeek搭建自己的个人知识库",
       "onboard_time": 1741922905,
       "rank": 36,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 202119,
-      "num": 202119,
-      "word": "程序员盗取70多万学生信息转卖40万元",
-      "onboard_time": 1741935622,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 201392,
@@ -889,14 +921,6 @@
       "onboard_time": 1741933162,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 196880,
-      "num": 196880,
-      "word": "原来艺人之间也会做背调",
-      "onboard_time": 1741936884,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 195778,
@@ -963,20 +987,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190694,
+      "num": 187002,
+      "word": "为什么童年创伤到了中年才爆发",
+      "onboard_time": 1741936824,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 190571,
       "num": 211351,
       "word": "白鹿写给马奶奶的话",
       "onboard_time": 1741928246,
       "rank": 33,
       "category": "剧集,艺人"
-    },
-    {
-      "raw_hot": 189386,
-      "num": 189386,
-      "word": "去图书馆一定要坐固定位置",
-      "onboard_time": 1741936523,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 188910,
@@ -1011,19 +1035,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186727,
+      "num": 186727,
+      "word": "用命植树道歉信",
+      "onboard_time": 1741936583,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184049,
       "num": 184049,
       "word": "短剧剧组频繁进小区拍戏困扰业主",
       "onboard_time": 1741917321,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 181723,
-      "num": 181723,
-      "word": "悬赏千万寻子父亲得知找到儿子泪崩",
-      "onboard_time": 1741936523,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -1041,6 +1065,14 @@
       "onboard_time": 1741924224,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 180341,
+      "num": 279550,
+      "word": "深圳市监局回应翻新手机流入百亿补贴",
+      "onboard_time": 1741936523,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179541,
@@ -1187,12 +1219,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 159259,
-      "num": 159259,
-      "word": "为什么童年创伤到了中年才爆发",
-      "onboard_time": 1741936824,
-      "rank": 41,
-      "category": "情感"
+      "raw_hot": 159258,
+      "num": 159258,
+      "word": "7800元一根的玉米到底是谁在买",
+      "onboard_time": 1741935503,
+      "rank": 49,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 156827,
@@ -1259,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150842,
+      "num": 150842,
+      "word": "何炅孙怡一个惯着她一个记性差",
+      "onboard_time": 1741936643,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148967,
       "num": 148967,
       "word": "俄罗斯恐难接受临时停火",
@@ -1299,14 +1339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 146967,
-      "num": 146967,
-      "word": "用命植树道歉信",
-      "onboard_time": 1741936583,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 146462,
       "num": 146462,
       "word": "林高远13比15梁靖崑",
@@ -1337,6 +1369,14 @@
       "onboard_time": 1741919542,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 140653,
+      "num": 324992,
+      "word": "女厕排队不仅是效率问题",
+      "onboard_time": 1741936043,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138897,
@@ -1411,6 +1451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128084,
+      "num": 128084,
+      "word": "吃了6年的鸭货是在地下室做出来的",
+      "onboard_time": 1741937664,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 127028,
       "num": 127028,
       "word": "快乐再出发",
@@ -1425,14 +1473,6 @@
       "onboard_time": 1741922964,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 125667,
-      "num": 125667,
-      "word": "7800元一根的玉米到底是谁在买",
-      "onboard_time": 1741935503,
-      "rank": 49,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 123658,
@@ -1683,14 +1723,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 84137,
-      "num": 279550,
-      "word": "深圳市监局回应翻新手机流入百亿补贴",
-      "onboard_time": 1741936523,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 83960,
       "num": 83960,
       "word": "母鸡卡",
@@ -1747,14 +1779,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 78318,
-      "num": 279903,
-      "word": "女厕排队不仅是效率问题",
-      "onboard_time": 1741936043,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77596,
       "num": 77596,
       "word": "终于理解反派看女主家庭的感觉了",
@@ -1795,6 +1819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 73605,
+      "num": 279500,
+      "word": "A股港股黄金股集体爆发",
+      "onboard_time": 1741935803,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 72333,
       "num": 75079,
       "word": "呼和浩特生育三孩发10万",
@@ -1825,14 +1857,6 @@
       "onboard_time": 1741912043,
       "rank": 46,
       "category": "数码"
-    },
-    {
-      "raw_hot": 70072,
-      "num": 279500,
-      "word": "A股港股黄金股集体爆发",
-      "onboard_time": 1741935803,
-      "rank": 14,
-      "category": "财经"
     },
     {
       "raw_hot": 69443,
@@ -1891,6 +1915,22 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 61101,
+      "num": 268956,
+      "word": "终于把国考省考事业编弄明白了",
+      "onboard_time": 1741936583,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 60318,
+      "num": 214502,
+      "word": "凌肖小熊猫",
+      "onboard_time": 1741935381,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 58516,
       "num": 75026,
       "word": "老人将密码告诉侄孙6万多存款剩33",
@@ -1929,6 +1969,14 @@
       "onboard_time": 1741899014,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55924,
+      "num": 209433,
+      "word": "骗取骗子的钱违法吗",
+      "onboard_time": 1741936403,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 52670,
@@ -2011,6 +2059,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 40554,
+      "num": 270220,
+      "word": "22元假电子烟99元出售",
+      "onboard_time": 1741936403,
+      "rank": 18,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 39938,
       "num": 178147,
       "word": "万元购买子宫养护套餐感染盆腔炎",
@@ -2043,14 +2099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 37004,
-      "num": 209433,
-      "word": "骗取骗子的钱违法吗",
-      "onboard_time": 1741936403,
-      "rank": 29,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 36642,
       "num": 51597,
       "word": "肖战新专辑我们全球发行",
@@ -2073,6 +2121,14 @@
       "onboard_time": 1741932323,
       "rank": 13,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 29766,
+      "num": 302357,
+      "word": "A股今日放量大涨",
+      "onboard_time": 1741937303,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 29348,
@@ -2099,12 +2155,12 @@
       "category": "国内时政,国际时政"
     },
     {
-      "raw_hot": 23848,
-      "num": 270220,
-      "word": "22元假电子烟99元出售",
-      "onboard_time": 1741936403,
-      "rank": 18,
-      "category": "舆论监督"
+      "raw_hot": 24630,
+      "num": 262349,
+      "word": "黄金总市值稳居世界第一",
+      "onboard_time": 1741937423,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 22082,
@@ -2139,12 +2195,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 16859,
-      "num": 268956,
-      "word": "终于把国考省考事业编弄明白了",
-      "onboard_time": 1741936583,
-      "rank": 19,
-      "category": "教育"
+      "raw_hot": 18363,
+      "num": 716929,
+      "word": "文化中国行解锁博物馆科技感新玩法",
+      "onboard_time": 1741921464,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 16772,
@@ -2185,14 +2241,6 @@
       "onboard_time": 1741897333,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12496,
-      "num": 716929,
-      "word": "文化中国行解锁博物馆科技感新玩法",
-      "onboard_time": 1741921464,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 9527,
