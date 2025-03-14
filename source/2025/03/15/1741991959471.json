@@ -1,0 +1,410 @@
+{
+  "runTime": 1741991959471,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 243002,
+        "num": 472283,
+        "word": "胖东来红内裤当事人道歉",
+        "onboard_time": 1741962563,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138912,
+        "num": 138912,
+        "word": "特朗普为啥非要得到格陵兰岛",
+        "onboard_time": 1741985654,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95042,
+        "num": 95042,
+        "word": "花239万自体丰胸检出黄牛驼鹿DNA",
+        "onboard_time": 1741963225,
+        "rank": 2,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 99385,
+        "num": 94205,
+        "word": "肖战专辑我们泰国屠榜",
+        "onboard_time": 1741967483,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 92876,
+        "num": 92876,
+        "word": "2255名中国籍涉诈嫌犯被押解回国",
+        "onboard_time": 1741969462,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78248,
+        "num": 78248,
+        "word": "西安交大通报副教授论文全文抄袭",
+        "onboard_time": 1741961723,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 74620,
+        "num": 74620,
+        "word": "市监回应蜜雪冰城鲜果片隔夜继续用",
+        "onboard_time": 1741966223,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 73601,
+        "num": 73601,
+        "word": "台湾各界痛批赖清德分裂疯狂言论",
+        "onboard_time": 1741961543,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 61102,
+        "num": 61102,
+        "word": "短剧",
+        "onboard_time": 1741965505,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59796,
+        "num": 59796,
+        "word": "中缅泰联合打击电诈获重大战果",
+        "onboard_time": 1741970960,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 294937,
+        "num": 59618,
+        "word": "最早曝金秀贤金赛纶恋爱的记者已去世",
+        "onboard_time": 1741966104,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160805,
+        "num": 58034,
+        "word": "宋轶删除电视剧品质盛典官宣博",
+        "onboard_time": 1741964783,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159703,
+        "num": 57423,
+        "word": "K总老家办婚礼被堵门生气",
+        "onboard_time": 1741971560,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 144972,
+        "num": 56633,
+        "word": "妻子去世1年跑车司机新对象是粉丝",
+        "onboard_time": 1741954523,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128795,
+        "num": 55706,
+        "word": "Prada5年内已塌房7位代言人",
+        "onboard_time": 1741969881,
+        "rank": 14,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 99563,
+        "num": 54976,
+        "word": "主播违规拍摄大熊猫被终身禁入",
+        "onboard_time": 1741977735,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120520,
+        "num": 54170,
+        "word": "金秀贤电影里的安昭熙秀智IU雪莉",
+        "onboard_time": 1741975936,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53289,
+        "num": 53289,
+        "word": "这居然是蔡文静",
+        "onboard_time": 1741956862,
+        "rank": 17,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 48113,
+        "num": 48113,
+        "word": "董力阿拉蕾",
+        "onboard_time": 1741963883,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42241,
+        "num": 48094,
+        "word": "哪吒2票房超150亿",
+        "onboard_time": 1741957285,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128316,
+        "num": 48093,
+        "word": "真心建议你常吃抗炎食物",
+        "onboard_time": 1741969162,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 48092,
+        "num": 48092,
+        "word": "身价过亿的总裁大小姐都在这了",
+        "onboard_time": 1741954703,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46492,
+        "num": 46492,
+        "word": "终于明白抗炎食物有哪些了",
+        "onboard_time": 1741964603,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 42417,
+        "num": 42417,
+        "word": "网购79元海蓝之谜是真瓶假灌",
+        "onboard_time": 1741966223,
+        "rank": 23,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 37132,
+        "num": 37132,
+        "word": "不争不抢的性格适合干什么工作呢",
+        "onboard_time": 1741959862,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 36669,
+        "num": 36669,
+        "word": "黄杨钿甜公主直角肩",
+        "onboard_time": 1741966704,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32207,
+        "num": 32207,
+        "word": "檀健次演的生理性眼肌反应",
+        "onboard_time": 1741963943,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 32062,
+        "num": 32062,
+        "word": "王安宇可不可以立刻离开广东",
+        "onboard_time": 1741952363,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31861,
+        "num": 31861,
+        "word": "男子菜地打坐1个视频最少拍80天",
+        "onboard_time": 1741968083,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24819,
+        "num": 31597,
+        "word": "Prada的往届代言人们",
+        "onboard_time": 1741959384,
+        "rank": 29,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 31346,
+        "num": 31346,
+        "word": "马斯克首访美国家安全局",
+        "onboard_time": 1741975036,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 31226,
+        "num": 31226,
+        "word": "低价假酸奶6款产品已下架",
+        "onboard_time": 1741960944,
+        "rank": 31,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 30163,
+        "num": 30163,
+        "word": "广州一栋楼美成草莓千层蛋糕",
+        "onboard_time": 1741979954,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 28876,
+        "num": 28876,
+        "word": "车银优朴彩英在同一家寿司店",
+        "onboard_time": 1741965683,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27909,
+        "num": 27909,
+        "word": "格陵兰岛有什么被美国惦记100多年",
+        "onboard_time": 1741986853,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 27491,
+        "num": 27491,
+        "word": "A勒布伦摔水瓶",
+        "onboard_time": 1741956502,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26732,
+        "num": 26732,
+        "word": "华莱士店长称业绩比食品安全更重要",
+        "onboard_time": 1741956983,
+        "rank": 36,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 26052,
+        "num": 26731,
+        "word": "蜜雪冰城鲜果切片常温过夜后继续用",
+        "onboard_time": 1741949484,
+        "rank": 37,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 24842,
+        "num": 26728,
+        "word": "专家建议每孩1次性补贴10万",
+        "onboard_time": 1741950264,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22793,
+        "num": 26728,
+        "word": "苦尽柑来遇见你",
+        "onboard_time": 1741962383,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22347,
+        "num": 26724,
+        "word": "两个小段道歉",
+        "onboard_time": 1741987695,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21322,
+        "num": 26724,
+        "word": "华莱士后厨蟑螂窜苍蝇飞店员漠视",
+        "onboard_time": 1741980735,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20579,
+        "num": 26722,
+        "word": "JackeyLove采访沉默20秒",
+        "onboard_time": 1741956324,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20464,
+        "num": 26720,
+        "word": "反分裂国家法实施20周年座谈会举行",
+        "onboard_time": 1741967123,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19821,
+        "num": 26719,
+        "word": "对境外涉我犯罪集团形成强大震慑",
+        "onboard_time": 1741972159,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19234,
+        "num": 26717,
+        "word": "邓为浴缸随拍",
+        "onboard_time": 1741970300,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19197,
+        "num": 26716,
+        "word": "坚定不移推进祖国统一大业",
+        "onboard_time": 1741967003,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18982,
+        "num": 26713,
+        "word": "迪丽热巴替人尴尬的毛病又犯了",
+        "onboard_time": 1741952964,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18915,
+        "num": 26710,
+        "word": "徐娇分享店员会主动劝烟的店",
+        "onboard_time": 1741967662,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17838,
+        "num": 26709,
+        "word": "凡是数典忘祖的人从来没有好下场",
+        "onboard_time": 1741988834,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会之问#"
+    }
+  }
+}
