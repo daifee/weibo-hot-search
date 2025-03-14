@@ -1,7 +1,15 @@
 {
   "startTime": 1741883456293,
-  "endTime": 1741918115318,
+  "endTime": 1741921130797,
   "band_list": [
+    {
+      "raw_hot": 9072545,
+      "num": 9072545,
+      "word": "金秀贤承认与金赛纶恋情",
+      "onboard_time": 1741921105,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2022510,
       "num": 2022510,
@@ -9,6 +17,14 @@
       "onboard_time": 1741880183,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2011465,
+      "num": 325848,
+      "word": "韩素希画的是金秀贤吗",
+      "onboard_time": 1741919964,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1892592,
@@ -91,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 606689,
+      "num": 606689,
+      "word": "江苏生育津贴不用准备材料直接到账",
+      "onboard_time": 1741916842,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 587688,
       "num": 587688,
       "word": "普京表示俄罗斯同意停火30天",
@@ -163,11 +187,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 388295,
-      "num": 388295,
-      "word": "江苏生育津贴不用准备材料直接到账",
-      "onboard_time": 1741916842,
-      "rank": 9,
+      "raw_hot": 413353,
+      "num": 413353,
+      "word": "广东湖南8级以上雷暴大风或冰雹",
+      "onboard_time": 1741915222,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -195,6 +219,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 365354,
+      "num": 274522,
+      "word": "男子背着婴儿到处借10块钱买奶粉",
+      "onboard_time": 1741917501,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 360194,
       "num": 360194,
       "word": "泽连斯基回应普京的表态",
@@ -209,6 +241,22 @@
       "onboard_time": 1741877904,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 325757,
+      "num": 325757,
+      "word": "为什么身边的姐弟恋越来越多了",
+      "onboard_time": 1741919841,
+      "rank": 16,
+      "category": "民生新闻,情感"
+    },
+    {
+      "raw_hot": 304657,
+      "num": 273544,
+      "word": "老人长期吃素胆囊长出金蛋状结石",
+      "onboard_time": 1741917861,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 300771,
@@ -227,12 +275,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 261387,
-      "num": 261387,
-      "word": "广东湖南8级以上雷暴大风或冰雹",
-      "onboard_time": 1741915222,
-      "rank": 20,
-      "category": "民生新闻"
+      "raw_hot": 272184,
+      "num": 272184,
+      "word": "穆婷婷拍了很多戏没播",
+      "onboard_time": 1741918462,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 263990,
+      "num": 263990,
+      "word": "SEVENTEEN十周年特别版应援棒",
+      "onboard_time": 1741919662,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 251755,
@@ -267,11 +323,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 217365,
-      "num": 217365,
-      "word": "男子背着婴儿到处借10块钱买奶粉",
-      "onboard_time": 1741917501,
-      "rank": 24,
+      "raw_hot": 214265,
+      "num": 214265,
+      "word": "男子百亿补贴8299元买到iPhone样板机",
+      "onboard_time": 1741917141,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -363,8 +419,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 182100,
-      "num": 162783,
+      "raw_hot": 184049,
+      "num": 184049,
       "word": "短剧剧组频繁进小区拍戏困扰业主",
       "onboard_time": 1741917321,
       "rank": 30,
@@ -387,6 +443,38 @@
       "category": "教育,运动健身"
     },
     {
+      "raw_hot": 171821,
+      "num": 171821,
+      "word": "白色情人节",
+      "onboard_time": 1741920743,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 171564,
+      "num": 171564,
+      "word": "19岁女生为救落水者不幸溺亡",
+      "onboard_time": 1741917501,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170218,
+      "num": 170218,
+      "word": "丫丫噌一下就爬上去了",
+      "onboard_time": 1741919904,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169959,
+      "num": 264013,
+      "word": "小鹏G6又卖爆了",
+      "onboard_time": 1741920504,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 168480,
       "num": 98824,
       "word": "网民造谣顶流明星输10亿被行拘",
@@ -403,14 +491,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 156605,
-      "num": 156605,
-      "word": "男子百亿补贴8299元买到iPhone样板机",
-      "onboard_time": 1741917141,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 154694,
       "num": 154694,
       "word": "金赛纶来中国拍过电影",
@@ -425,6 +505,14 @@
       "onboard_time": 1741857924,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153278,
+      "num": 331919,
+      "word": "2025年315晚会主题官宣",
+      "onboard_time": 1741919361,
+      "rank": 8,
+      "category": "财经,舆论监督"
     },
     {
       "raw_hot": 152344,
@@ -449,6 +537,30 @@
       "onboard_time": 1741852882,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 142696,
+      "num": 270075,
+      "word": "陶喆新歌上线",
+      "onboard_time": 1741919542,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 141036,
+      "num": 269503,
+      "word": "虞书欣林一祝白色情人节快乐",
+      "onboard_time": 1741918340,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 140396,
+      "num": 140396,
+      "word": "网约车绕路致迟到考生获赔2000",
+      "onboard_time": 1741920443,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139354,
@@ -491,12 +603,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 129249,
+      "num": 129249,
+      "word": "网购11款打印纸仅2款数量达标",
+      "onboard_time": 1741918102,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123191,
       "num": 123191,
       "word": "发胖前的3大征兆",
       "onboard_time": 1741875865,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 123149,
+      "num": 268285,
+      "word": "北上 江苏旅游",
+      "onboard_time": 1741918282,
+      "rank": 26,
+      "category": "剧集,旅游"
     },
     {
       "raw_hot": 122846,
@@ -515,19 +643,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 119845,
-      "num": 119845,
-      "word": "19岁女生为救落水者不幸溺亡",
-      "onboard_time": 1741917501,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 110903,
       "num": 110903,
       "word": "湖人vs雄鹿",
       "onboard_time": 1741916842,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 110646,
+      "num": 110646,
+      "word": "邓亚萍忆张燮林教诲赢球更要赢人心",
+      "onboard_time": 1741919964,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -537,6 +665,14 @@
       "onboard_time": 1741895354,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105319,
+      "num": 99117,
+      "word": "2025f1澳大利亚大奖赛",
+      "onboard_time": 1741920025,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 105294,
@@ -563,12 +699,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 102270,
+      "num": 266266,
+      "word": "檀健次一日小说家芭莎四月刊封面",
+      "onboard_time": 1741918820,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 101365,
       "num": 167878,
       "word": "韩国15岁以下女团选秀节目遭抵制",
       "onboard_time": 1741882520,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100371,
+      "num": 331098,
+      "word": "A股",
+      "onboard_time": 1741920385,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 100247,
@@ -592,6 +744,14 @@
       "word": "谍报上不封顶在豆瓣爆了",
       "onboard_time": 1741915943,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 99223,
+      "num": 99223,
+      "word": "似锦疯批母女联手抢女婿",
+      "onboard_time": 1741919300,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -625,14 +785,6 @@
       "onboard_time": 1741867523,
       "rank": 33,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 93475,
-      "num": 93475,
-      "word": "老人长期吃素胆囊长出金蛋状结石",
-      "onboard_time": 1741917861,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 91904,
@@ -881,6 +1033,14 @@
       "onboard_time": 1741917501,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41631,
+      "num": 325858,
+      "word": "美一载有178人客机在机场起火",
+      "onboard_time": 1741920504,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 36642,
