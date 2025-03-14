@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741963221958,
+  "endTime": 1741965914147,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1651,6 +1651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1277485,
+      "num": 1277485,
+      "word": "胖东来红内裤当事人道歉",
+      "onboard_time": 1741962563,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1276936,
       "num": 1276936,
       "word": "金价",
@@ -1753,6 +1761,14 @@
       "onboard_time": 1740825263,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1242628,
+      "num": 324726,
+      "word": "金赛纶妈妈声明",
+      "onboard_time": 1741963104,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1237702,
@@ -2651,14 +2667,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 990308,
-      "num": 324726,
-      "word": "金赛纶妈妈声明",
-      "onboard_time": 1741963104,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 990255,
       "num": 589033,
       "word": "赵丽颖 浪琴",
@@ -2849,6 +2857,14 @@
       "onboard_time": 1741869983,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 944776,
+      "num": 241014,
+      "word": "宋轶删除电视剧品质盛典官宣博",
+      "onboard_time": 1741964783,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 944373,
@@ -3121,6 +3137,14 @@
       "onboard_time": 1741947083,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 899048,
+      "num": 899048,
+      "word": "西安交大通报副教授论文全文抄袭",
+      "onboard_time": 1741961723,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 897803,
@@ -3545,6 +3569,14 @@
       "onboard_time": 1741001718,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 826581,
+      "num": 826581,
+      "word": "董力阿拉蕾",
+      "onboard_time": 1741963883,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 826058,
@@ -10091,14 +10123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 343609,
-      "num": 343609,
-      "word": "西安交大通报副教授论文全文抄袭",
-      "onboard_time": 1741961723,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 343428,
       "num": 343428,
       "word": "papi看到胡彦斌的手串眼里都在放光",
@@ -10929,14 +10953,6 @@
       "onboard_time": 1741350622,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 318277,
-      "num": 318277,
-      "word": "胖东来红内裤当事人道歉",
-      "onboard_time": 1741962563,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 317530,
@@ -14483,6 +14499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 232877,
+      "num": 232877,
+      "word": "檀健次演的生理性眼肌反应",
+      "onboard_time": 1741963943,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 232676,
       "num": 313498,
       "word": "网约车绕路致迟到考生获赔2000",
@@ -17163,6 +17187,14 @@
       "category": "动漫,音乐"
     },
     {
+      "raw_hot": 201036,
+      "num": 201036,
+      "word": "刘些宁跳舞",
+      "onboard_time": 1741962803,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200992,
       "num": 200992,
       "word": "唐香玉当着向太说自己是脱口秀郭碧婷",
@@ -17475,6 +17507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198805,
+      "num": 198805,
+      "word": "王楚钦最后一球神仙球",
+      "onboard_time": 1741964903,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198784,
       "num": 224295,
       "word": "吴倩不语只是一味分蛋糕",
@@ -17529,6 +17569,14 @@
       "onboard_time": 1740892098,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198288,
+      "num": 198288,
+      "word": "保洁员休息室不该是厕所最后一格",
+      "onboard_time": 1741964423,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198243,
@@ -18353,6 +18401,14 @@
       "onboard_time": 1740988338,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192003,
+      "num": 192003,
+      "word": "一直瘦不下来的8个原因",
+      "onboard_time": 1741962563,
+      "rank": 39,
+      "category": "运动健身"
     },
     {
       "raw_hot": 191880,
@@ -21491,14 +21547,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 167731,
-      "num": 167731,
-      "word": "刘些宁跳舞",
-      "onboard_time": 1741962803,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 167721,
       "num": 286453,
       "word": "欧豪比白鹿大两岁像大了十岁",
@@ -23267,6 +23315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156610,
+      "num": 165544,
+      "word": "33Svan那我问你",
+      "onboard_time": 1741965023,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 156606,
       "num": 291401,
       "word": "夸克AI",
@@ -23336,6 +23392,14 @@
       "word": "有一种生机勃勃叫惊蛰",
       "onboard_time": 1741137437,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156130,
+      "num": 236201,
+      "word": "累计2876名涉诈嫌疑人被押解回国",
+      "onboard_time": 1741963705,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -24033,6 +24097,14 @@
       "onboard_time": 1741308562,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 152658,
+      "num": 222383,
+      "word": "鹭卓直播",
+      "onboard_time": 1741965204,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 152646,
@@ -26899,14 +26971,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 135671,
-      "num": 135671,
-      "word": "一直瘦不下来的8个原因",
-      "onboard_time": 1741962563,
-      "rank": 39,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 135647,
       "num": 135647,
       "word": "何苏叶回家吧回家吧好吗",
@@ -27048,6 +27112,14 @@
       "word": "于适塞纳河边清唱童年",
       "onboard_time": 1741256423,
       "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 134453,
+      "num": 134453,
+      "word": "车银优朴彩英在同一家寿司店",
+      "onboard_time": 1741965683,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -27705,6 +27777,14 @@
       "onboard_time": 1741012400,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 130152,
+      "num": 165258,
+      "word": "短剧",
+      "onboard_time": 1741965505,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 130106,
@@ -28859,6 +28939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124734,
+      "num": 135211,
+      "word": "哈药股份鸡内金神药实为糖果",
+      "onboard_time": 1741961424,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124730,
       "num": 124730,
       "word": "特朗普要看泽连斯基表现",
@@ -29009,6 +29097,14 @@
       "onboard_time": 1741780164,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123958,
+      "num": 123958,
+      "word": "花239万自体丰胸检出黄牛驼鹿DNA",
+      "onboard_time": 1741963225,
+      "rank": 36,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 123943,
@@ -30331,6 +30427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117141,
+      "num": 237986,
+      "word": "中国90后女孩证明挂谷猜想有多牛",
+      "onboard_time": 1741962983,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117108,
       "num": 456144,
       "word": "海尔公司加班须提前一周审批",
@@ -30345,6 +30449,14 @@
       "onboard_time": 1741417402,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117012,
+      "num": 121039,
+      "word": "狼队战胜Hero",
+      "onboard_time": 1741964544,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 116973,
@@ -30537,6 +30649,14 @@
       "onboard_time": 1741547353,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 115711,
+      "num": 115711,
+      "word": "终于明白抗炎食物有哪些了",
+      "onboard_time": 1741964603,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 115693,
@@ -31299,6 +31419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111733,
+      "num": 111733,
+      "word": "小猫用电脑给自己留言了",
+      "onboard_time": 1741963943,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 111725,
       "num": 111725,
       "word": "用具象化的声音致敬每一个她",
@@ -31521,6 +31649,14 @@
       "onboard_time": 1741059917,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110464,
+      "num": 122953,
+      "word": "黄杨钿甜连轴转状态",
+      "onboard_time": 1741965144,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 110463,
@@ -40131,6 +40267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42396,
+      "num": 237155,
+      "word": "黄金回收陷阱1克少220元",
+      "onboard_time": 1741964664,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 42283,
       "num": 982043,
       "word": "2025奋进中国",
@@ -41371,6 +41515,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 34061,
+      "num": 841402,
+      "word": "春耕春播由南向北全面展开",
+      "onboard_time": 1741961004,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 33960,
       "num": 112071,
       "word": "把降息增贷减税等政策效应充分释放出来",
@@ -41712,14 +41864,6 @@
       "word": "我国高水平科技自立自强",
       "onboard_time": 1741253241,
       "rank": 47,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 31984,
-      "num": 522998,
-      "word": "春耕春播由南向北全面展开",
-      "onboard_time": 1741961004,
-      "rank": 2,
       "category": "国内时政"
     },
     {
@@ -42073,6 +42217,14 @@
       "onboard_time": 1741346002,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 28854,
+      "num": 226325,
+      "word": "0元学直播课交钱后变录播课",
+      "onboard_time": 1741964603,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 28849,
@@ -44865,14 +45017,6 @@
       "onboard_time": 1741119371,
       "rank": 9,
       "category": "国内时政,互联网"
-    },
-    {
-      "raw_hot": 10218,
-      "num": 237986,
-      "word": "中国90后女孩证明挂谷猜想有多牛",
-      "onboard_time": 1741962983,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10047,

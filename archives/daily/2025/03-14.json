@@ -1,6 +1,6 @@
 {
   "startTime": 1741883456293,
-  "endTime": 1741963221958,
+  "endTime": 1741965914147,
   "band_list": [
     {
       "raw_hot": 16802991,
@@ -163,6 +163,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1277485,
+      "num": 1277485,
+      "word": "胖东来红内裤当事人道歉",
+      "onboard_time": 1741962563,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1242628,
+      "num": 324726,
+      "word": "金赛纶妈妈声明",
+      "onboard_time": 1741963104,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1235970,
       "num": 1235970,
       "word": "雷总你在小米是做什么的",
@@ -219,12 +235,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 990308,
-      "num": 324726,
-      "word": "金赛纶妈妈声明",
-      "onboard_time": 1741963104,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 944776,
+      "num": 241014,
+      "word": "宋轶删除电视剧品质盛典官宣博",
+      "onboard_time": 1741964783,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 944373,
@@ -265,6 +281,14 @@
       "onboard_time": 1741947083,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 899048,
+      "num": 899048,
+      "word": "西安交大通报副教授论文全文抄袭",
+      "onboard_time": 1741961723,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 893126,
@@ -313,6 +337,14 @@
       "onboard_time": 1741941745,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 826581,
+      "num": 826581,
+      "word": "董力阿拉蕾",
+      "onboard_time": 1741963883,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 818422,
@@ -899,14 +931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 343609,
-      "num": 343609,
-      "word": "西安交大通报副教授论文全文抄袭",
-      "onboard_time": 1741961723,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 332159,
       "num": 381665,
       "word": "三甲医院医生开处方指定院外药店购买",
@@ -953,14 +977,6 @@
       "onboard_time": 1741939583,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 318277,
-      "num": 318277,
-      "word": "胖东来红内裤当事人道歉",
-      "onboard_time": 1741962563,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 313222,
@@ -1267,6 +1283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 232877,
+      "num": 232877,
+      "word": "檀健次演的生理性眼肌反应",
+      "onboard_time": 1741963943,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 232676,
       "num": 313498,
       "word": "网约车绕路致迟到考生获赔2000",
@@ -1507,6 +1531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201036,
+      "num": 201036,
+      "word": "刘些宁跳舞",
+      "onboard_time": 1741962803,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200919,
       "num": 200919,
       "word": "Glass拍的董思成黄杨钿甜",
@@ -1563,12 +1595,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 198805,
+      "num": 198805,
+      "word": "王楚钦最后一球神仙球",
+      "onboard_time": 1741964903,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198420,
       "num": 198420,
       "word": "翟子路真的学王星越挂锁了",
       "onboard_time": 1741933162,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198288,
+      "num": 198288,
+      "word": "保洁员休息室不该是厕所最后一格",
+      "onboard_time": 1741964423,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 196953,
@@ -1641,6 +1689,14 @@
       "onboard_time": 1741933284,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192003,
+      "num": 192003,
+      "word": "一直瘦不下来的8个原因",
+      "onboard_time": 1741962563,
+      "rank": 39,
+      "category": "运动健身"
     },
     {
       "raw_hot": 191802,
@@ -2011,14 +2067,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 167731,
-      "num": 167731,
-      "word": "刘些宁跳舞",
-      "onboard_time": 1741962803,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 167557,
       "num": 331919,
       "word": "2025年315晚会主题官宣",
@@ -2155,6 +2203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156610,
+      "num": 165544,
+      "word": "33Svan那我问你",
+      "onboard_time": 1741965023,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 156580,
       "num": 239496,
       "word": "Henry王俊凯同框",
@@ -2169,6 +2225,14 @@
       "onboard_time": 1741953623,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156130,
+      "num": 236201,
+      "word": "累计2876名涉诈嫌疑人被押解回国",
+      "onboard_time": 1741963705,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155638,
@@ -2249,6 +2313,14 @@
       "onboard_time": 1741951643,
       "rank": 36,
       "category": "教育,电竞"
+    },
+    {
+      "raw_hot": 152658,
+      "num": 222383,
+      "word": "鹭卓直播",
+      "onboard_time": 1741965204,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 152344,
@@ -2555,14 +2627,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 135671,
-      "num": 135671,
-      "word": "一直瘦不下来的8个原因",
-      "onboard_time": 1741962563,
-      "rank": 39,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 134811,
       "num": 134811,
       "word": "HLE",
@@ -2577,6 +2641,14 @@
       "onboard_time": 1741961484,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134453,
+      "num": 134453,
+      "word": "车银优朴彩英在同一家寿司店",
+      "onboard_time": 1741965683,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 134248,
@@ -2651,6 +2723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130152,
+      "num": 165258,
+      "word": "短剧",
+      "onboard_time": 1741965505,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130057,
       "num": 130057,
       "word": "疑似黄磊豆角脱敏训练",
@@ -2715,12 +2795,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 124734,
+      "num": 135211,
+      "word": "哈药股份鸡内金神药实为糖果",
+      "onboard_time": 1741961424,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124506,
       "num": 326607,
       "word": "悬赏千万寻子父亲找到失踪24年儿子",
       "onboard_time": 1741944265,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123958,
+      "num": 123958,
+      "word": "花239万自体丰胸检出黄牛驼鹿DNA",
+      "onboard_time": 1741963225,
+      "rank": 36,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 123943,
@@ -2859,12 +2955,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117141,
+      "num": 237986,
+      "word": "中国90后女孩证明挂谷猜想有多牛",
+      "onboard_time": 1741962983,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117012,
+      "num": 121039,
+      "word": "狼队战胜Hero",
+      "onboard_time": 1741964544,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 115894,
       "num": 115894,
       "word": "卫枝不画漫画就要继承家产了",
       "onboard_time": 1741938624,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115711,
+      "num": 115711,
+      "word": "终于明白抗炎食物有哪些了",
+      "onboard_time": 1741964603,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 114714,
@@ -2883,12 +3003,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111733,
+      "num": 111733,
+      "word": "小猫用电脑给自己留言了",
+      "onboard_time": 1741963943,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 110903,
       "num": 110903,
       "word": "湖人vs雄鹿",
       "onboard_time": 1741916842,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110464,
+      "num": 122953,
+      "word": "黄杨钿甜连轴转状态",
+      "onboard_time": 1741965144,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 107142,
@@ -3651,6 +3787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42396,
+      "num": 237155,
+      "word": "黄金回收陷阱1克少220元",
+      "onboard_time": 1741964664,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 41658,
       "num": 474148,
       "word": "职业闭店人骗取146万被判刑",
@@ -3795,20 +3939,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 34061,
+      "num": 841402,
+      "word": "春耕春播由南向北全面展开",
+      "onboard_time": 1741961004,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 32310,
       "num": 187426,
       "word": "2025大包回潮",
       "onboard_time": 1741942823,
       "rank": 38,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 31984,
-      "num": 522998,
-      "word": "春耕春播由南向北全面展开",
-      "onboard_time": 1741961004,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 31758,
@@ -3841,6 +3985,14 @@
       "onboard_time": 1741941024,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28854,
+      "num": 226325,
+      "word": "0元学直播课交钱后变录播课",
+      "onboard_time": 1741964603,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 28282,
@@ -4024,14 +4176,6 @@
       "word": "睡衣天使降临那一刻安全感爆棚",
       "onboard_time": 1741897333,
       "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10218,
-      "num": 237986,
-      "word": "中国90后女孩证明挂谷猜想有多牛",
-      "onboard_time": 1741962983,
-      "rank": 23,
       "category": "民生新闻"
     },
     {
