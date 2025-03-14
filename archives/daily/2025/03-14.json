@@ -1,6 +1,6 @@
 {
   "startTime": 1741883456293,
-  "endTime": 1741927321632,
+  "endTime": 1741929764207,
   "band_list": [
     {
       "raw_hot": 16802991,
@@ -83,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 893126,
+      "num": 373752,
+      "word": "海底捞一人食",
+      "onboard_time": 1741926627,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 864349,
       "num": 364398,
       "word": "穆婷婷退圈的原因",
@@ -97,6 +105,14 @@
       "onboard_time": 1741912403,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 786558,
+      "num": 527261,
+      "word": "白敬亭章若楠四手联弹",
+      "onboard_time": 1741926086,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 784678,
@@ -172,7 +188,7 @@
     },
     {
       "raw_hot": 571260,
-      "num": 337224,
+      "num": 349711,
       "word": "肉铺老板绞肉绞断三根手指索赔顾客",
       "onboard_time": 1741922905,
       "rank": 21,
@@ -203,14 +219,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 527261,
-      "num": 527261,
-      "word": "白敬亭章若楠四手联弹",
-      "onboard_time": 1741926086,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 527239,
       "num": 527239,
       "word": "赵丽颖新片酒吧卖酒",
@@ -233,6 +241,14 @@
       "onboard_time": 1741923385,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 489308,
+      "num": 489308,
+      "word": "8岁男童吃叶黄素软糖患干眼症",
+      "onboard_time": 1741927347,
+      "rank": 4,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 461405,
@@ -283,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 433457,
+      "num": 368828,
+      "word": "翟子路 太可怕了",
+      "onboard_time": 1741928425,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 419638,
       "num": 419638,
       "word": "如台独突破红线我们将采取断然措施",
@@ -307,12 +331,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 398672,
+      "num": 356981,
+      "word": "英一二战",
+      "onboard_time": 1741928365,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 389529,
       "num": 389529,
       "word": "迪丽热巴加勒比女王造型",
       "onboard_time": 1741923746,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 382094,
+      "num": 382094,
+      "word": "刘亦菲官宣电视剧品质盛典",
+      "onboard_time": 1741928725,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 377851,
@@ -371,14 +411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 305275,
-      "num": 305275,
-      "word": "海底捞一人食",
-      "onboard_time": 1741926627,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 304657,
       "num": 273544,
       "word": "老人长期吃素胆囊长出金蛋状结石",
@@ -435,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 257806,
+      "num": 257806,
+      "word": "82岁老人下葬当天飞来一群仙鹤盘旋",
+      "onboard_time": 1741928725,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 253175,
       "num": 382947,
       "word": "男子百亿补贴8299元买到iPhone样板机",
@@ -449,6 +489,14 @@
       "onboard_time": 1741872985,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 245574,
+      "num": 245574,
+      "word": "林一给虞书欣的备注是妮妮",
+      "onboard_time": 1741929025,
+      "rank": 26,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 244420,
@@ -499,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 231293,
+      "num": 231293,
+      "word": "平日嘴毒的他如今亲嘴救了她",
+      "onboard_time": 1741928906,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229128,
       "num": 229128,
       "word": "顾客获6千退款才知海底捞小便事件",
@@ -507,12 +563,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 228863,
+      "num": 228863,
+      "word": "杨洋赵小棠李乃文和塑料袋打起来了",
+      "onboard_time": 1741927645,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 226330,
+      "num": 350231,
+      "word": "28万的二手宝马竟是重大事故车",
+      "onboard_time": 1741927706,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 219358,
       "num": 219358,
       "word": "对刮刮乐祛魅了",
       "onboard_time": 1741927226,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 215313,
+      "num": 215313,
+      "word": "李隼谈东京奥运女单半决赛那场球",
+      "onboard_time": 1741929206,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 212915,
@@ -635,6 +715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 194446,
+      "num": 380406,
+      "word": "万斯称绿卡持有者没有无限期留美权利",
+      "onboard_time": 1741927347,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 193850,
       "num": 193850,
       "word": "赵露思恋人 不复拍",
@@ -659,12 +747,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 191802,
+      "num": 191802,
+      "word": "留几手 陷入男性困境没有人会共情你",
+      "onboard_time": 1741925665,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190765,
       "num": 190765,
       "word": "嘘国王在冬眠",
       "onboard_time": 1741926146,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190571,
+      "num": 211351,
+      "word": "白鹿写给马奶奶的话",
+      "onboard_time": 1741928246,
+      "rank": 33,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 188910,
@@ -723,14 +827,6 @@
       "category": "教育,运动健身"
     },
     {
-      "raw_hot": 178099,
-      "num": 178099,
-      "word": "留几手 陷入男性困境没有人会共情你",
-      "onboard_time": 1741925665,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 178084,
       "num": 178084,
       "word": "胡军可以是爹也可以是daddy",
@@ -785,6 +881,14 @@
       "onboard_time": 1741922905,
       "rank": 39,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 165273,
+      "num": 165273,
+      "word": "ITZY对战FPXZQ",
+      "onboard_time": 1741929142,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 163154,
@@ -891,6 +995,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 141619,
+      "num": 141619,
+      "word": "陶白白别骂摩羯座了",
+      "onboard_time": 1741928005,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 138897,
       "num": 138897,
       "word": "高校回应校车将女老师辗轧身亡",
@@ -907,12 +1019,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136700,
+      "num": 136700,
+      "word": "2025澳门世界杯倒计时一个月",
+      "onboard_time": 1741929025,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 135672,
+      "num": 135672,
+      "word": "许墨极光",
+      "onboard_time": 1741929624,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 133548,
       "num": 173258,
       "word": "董思成黄杨钿甜五福临门团建合体",
       "onboard_time": 1741916541,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131224,
+      "num": 131224,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1741928966,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 130735,
@@ -929,6 +1065,14 @@
       "onboard_time": 1741918102,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127028,
+      "num": 127028,
+      "word": "快乐再出发",
+      "onboard_time": 1741928184,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 125734,
@@ -1251,6 +1395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72305,
+      "num": 361865,
+      "word": "王艺迪3比0徐孝元",
+      "onboard_time": 1741928906,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70400,
       "num": 75064,
       "word": "刘宪华晚宴内场生视频",
@@ -1451,6 +1603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30011,
+      "num": 368279,
+      "word": "起底专销国内的洋品牌",
+      "onboard_time": 1741928786,
+      "rank": 13,
+      "category": "舆论监督,美妆"
+    },
+    {
       "raw_hot": 29348,
       "num": 450092,
       "word": "起底以婚恋名义诱导买房公司",
@@ -1489,6 +1649,14 @@
       "onboard_time": 1741925125,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 19327,
+      "num": 229038,
+      "word": "AI换脸软件包月30元可无限次使用",
+      "onboard_time": 1741929563,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 16772,
