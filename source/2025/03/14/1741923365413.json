@@ -1,0 +1,410 @@
+{
+  "runTime": 1741923365413,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1103715,
+        "num": 1176594,
+        "word": "造谣顶流明星输10亿的男子被拘留",
+        "onboard_time": 1741915882,
+        "rank": 0,
+        "category": "辟谣/通报,艺人"
+      },
+      {
+        "raw_hot": 1075365,
+        "num": 1075365,
+        "word": "中国钢琴才女遭美国丈夫枪杀",
+        "onboard_time": 1741922006,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 32176,
+        "num": 770134,
+        "word": "这是春天里的锦绣中国",
+        "onboard_time": 1741922484,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 694884,
+        "num": 694884,
+        "word": "中国台湾省",
+        "onboard_time": 1741880183,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 509334,
+        "num": 509334,
+        "word": "为什么身边的姐弟恋越来越多了",
+        "onboard_time": 1741919841,
+        "rank": 4,
+        "category": "民生新闻,情感"
+      },
+      {
+        "raw_hot": 324941,
+        "num": 324941,
+        "word": "请回答1988珍珠参加选秀",
+        "onboard_time": 1741878863,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322154,
+        "num": 322154,
+        "word": "女子高铁被行李箱砸晕铁路方拒担责",
+        "onboard_time": 1741921646,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315230,
+        "num": 315230,
+        "word": "今天数学浓度太高了",
+        "onboard_time": 1741908140,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314239,
+        "num": 314239,
+        "word": "97年女生当村长5年惊艳所有人",
+        "onboard_time": 1741922905,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168448,
+        "num": 314228,
+        "word": "19岁女生为救落水者不幸溺亡",
+        "onboard_time": 1741917501,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16802991,
+        "num": 16802991,
+        "word": "金秀贤承认与金赛纶恋情",
+        "onboard_time": 1741921105,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 466604,
+        "num": 313959,
+        "word": "鹿晗和偶遇网友合照",
+        "onboard_time": 1741909881,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335219,
+        "num": 313831,
+        "word": "小学老师解聘后在校门口卖火鸡面",
+        "onboard_time": 1741877963,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225964,
+        "num": 313624,
+        "word": "赵丽颖新片酒吧卖酒",
+        "onboard_time": 1741922964,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 215483,
+        "num": 313498,
+        "word": "网约车绕路致迟到考生获赔2000",
+        "onboard_time": 1741920443,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212915,
+        "num": 313410,
+        "word": "难哄继承者们梦幻联动",
+        "onboard_time": 1741922126,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 3803358,
+        "num": 313310,
+        "word": "金秀贤发万字长文",
+        "onboard_time": 1741923205,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313222,
+        "num": 313222,
+        "word": "穆婷婷拍了很多戏没播",
+        "onboard_time": 1741918462,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297795,
+        "num": 297795,
+        "word": "江苏生育津贴不用准备材料直接到账",
+        "onboard_time": 1741916842,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253175,
+        "num": 253175,
+        "word": "男子百亿补贴8299元买到iPhone样板机",
+        "onboard_time": 1741917141,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303578,
+        "num": 248250,
+        "word": "男子背着婴儿到处借10块钱买奶粉",
+        "onboard_time": 1741917501,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238689,
+        "num": 238689,
+        "word": "肉铺老板绞肉绞断三根手指索赔顾客",
+        "onboard_time": 1741922905,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231163,
+        "num": 231163,
+        "word": "广东湖南8级以上雷暴大风或冰雹",
+        "onboard_time": 1741915222,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226492,
+        "num": 226492,
+        "word": "老人长期吃素胆囊长出金蛋状结石",
+        "onboard_time": 1741917861,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 118134,
+        "num": 222134,
+        "word": "邓亚萍忆张燮林教诲赢球更要赢人心",
+        "onboard_time": 1741919964,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178673,
+        "num": 218413,
+        "word": "于正回应娜扎二番",
+        "onboard_time": 1741911804,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136881,
+        "num": 213708,
+        "word": "浪琴回应到期不续赵丽颖传闻",
+        "onboard_time": 1741907960,
+        "rank": 26,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 125734,
+        "num": 211154,
+        "word": "会火专访虞书欣林一",
+        "onboard_time": 1741922964,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148005,
+        "num": 203743,
+        "word": "小鹏G6又卖爆了",
+        "onboard_time": 1741920504,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 62302,
+        "num": 198441,
+        "word": "花生十三图推规律汇总",
+        "onboard_time": 1741923023,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 197476,
+        "num": 197476,
+        "word": "周冬雨0点晒合照为马思纯庆生",
+        "onboard_time": 1741910302,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197298,
+        "num": 197298,
+        "word": "穆婷婷退圈的原因",
+        "onboard_time": 1741879104,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181097,
+        "num": 181097,
+        "word": "白色情人节",
+        "onboard_time": 1741920743,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179071,
+        "num": 179071,
+        "word": "普京表示俄罗斯同意停火30天",
+        "onboard_time": 1741885217,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 42412,
+        "num": 175274,
+        "word": "郑钦文说新团队给自己带来明显改变",
+        "onboard_time": 1741923205,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39938,
+        "num": 174586,
+        "word": "万元购买子宫养护套餐感染盆腔炎",
+        "onboard_time": 1741921523,
+        "rank": 35,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 174319,
+        "num": 174319,
+        "word": "用DeepSeek搭建自己的个人知识库",
+        "onboard_time": 1741922905,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 169658,
+        "num": 169658,
+        "word": "SEVENTEEN十周年特别版应援棒",
+        "onboard_time": 1741919662,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110127,
+        "num": 167585,
+        "word": "虞书欣林一祝白色情人节快乐",
+        "onboard_time": 1741918340,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165886,
+        "num": 165886,
+        "word": "巴黎世家设计师跳槽Gucci",
+        "onboard_time": 1741922905,
+        "rank": 39,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 162380,
+        "num": 162380,
+        "word": "丫丫噌一下就爬上去了",
+        "onboard_time": 1741919904,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160669,
+        "num": 160669,
+        "word": "美一载有178人客机在机场起火",
+        "onboard_time": 1741920504,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 157510,
+        "num": 157510,
+        "word": "住建局回应佛山一小区有人装修骨灰房",
+        "onboard_time": 1741913482,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153264,
+        "num": 153264,
+        "word": "夫妻俩因为同一个习惯双双确诊食管癌",
+        "onboard_time": 1741872985,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148324,
+        "num": 148324,
+        "word": "华为笔记本再无Windows可用",
+        "onboard_time": 1741923145,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 134466,
+        "num": 134466,
+        "word": "4000记三分太库了",
+        "onboard_time": 1741922964,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132746,
+        "num": 132746,
+        "word": "短剧剧组频繁进小区拍戏困扰业主",
+        "onboard_time": 1741917321,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127650,
+        "num": 127650,
+        "word": "泽连斯基回应普京的表态",
+        "onboard_time": 1741908320,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108406,
+        "num": 126629,
+        "word": "北上 江苏旅游",
+        "onboard_time": 1741918282,
+        "rank": 48,
+        "category": "剧集,旅游"
+      },
+      {
+        "raw_hot": 106308,
+        "num": 126507,
+        "word": "陶喆新歌上线",
+        "onboard_time": 1741919542,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向希腊新任总统致贺电#"
+    }
+  }
+}
