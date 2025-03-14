@@ -1,0 +1,410 @@
+{
+  "runTime": 1741948900090,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1408697,
+        "num": 1408697,
+        "word": "CFO零封TES",
+        "onboard_time": 1741945884,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 818422,
+        "num": 818422,
+        "word": "第五人格",
+        "onboard_time": 1741948042,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 24669,
+        "num": 569127,
+        "word": "春日进度条加载中",
+        "onboard_time": 1741941204,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 544762,
+        "num": 544762,
+        "word": "TES",
+        "onboard_time": 1741941745,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 530147,
+        "num": 530147,
+        "word": "第五人格前瞻直播",
+        "onboard_time": 1741948222,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 432055,
+        "num": 432055,
+        "word": "去年315被曝光企业现状",
+        "onboard_time": 1741942343,
+        "rank": 5,
+        "category": "民生新闻,舆论监督"
+      },
+      {
+        "raw_hot": 461141,
+        "num": 428951,
+        "word": "乘风2025",
+        "onboard_time": 1741944324,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336540,
+        "num": 414582,
+        "word": "因表情包爆火的他已离世多年",
+        "onboard_time": 1741936884,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405449,
+        "num": 405449,
+        "word": "DeepSeek回答能不能入手黄金",
+        "onboard_time": 1741933644,
+        "rank": 8,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 35142,
+        "num": 404077,
+        "word": "呼市卫健委1小时接50通补贴咨询电话",
+        "onboard_time": 1741946903,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1689030,
+        "num": 402622,
+        "word": "金秀贤说谎了",
+        "onboard_time": 1741936462,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 979694,
+        "num": 402268,
+        "word": "美国婴儿尝试中国婴儿的食物",
+        "onboard_time": 1741946242,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1150575,
+        "num": 401133,
+        "word": "金赛纶去世时吊唁的人不到20位",
+        "onboard_time": 1741944742,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50773,
+        "num": 399110,
+        "word": "孤寡老人买理财投资百万仅收回四千",
+        "onboard_time": 1741947564,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 36256,
+        "num": 397151,
+        "word": "陈幸同vs申裕斌",
+        "onboard_time": 1741948402,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 638735,
+        "num": 396376,
+        "word": "阿诺说董力当年是真的很火",
+        "onboard_time": 1741947083,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255831,
+        "num": 395078,
+        "word": "贵女 定档",
+        "onboard_time": 1741948284,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1053138,
+        "num": 392742,
+        "word": "金秀贤出国",
+        "onboard_time": 1741930823,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52536,
+        "num": 391882,
+        "word": "刘恋重回职场摩登走秀",
+        "onboard_time": 1741943363,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122012,
+        "num": 389940,
+        "word": "东北雨姐骆王宇等主播被点名",
+        "onboard_time": 1741947683,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 747905,
+        "num": 388362,
+        "word": "张元英为了不出崩图一直不眨眼",
+        "onboard_time": 1741943423,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 694912,
+        "num": 387386,
+        "word": "戚薇李承铉这是我不花钱能听的吗",
+        "onboard_time": 1741940484,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196953,
+        "num": 385860,
+        "word": "TES 没开麦",
+        "onboard_time": 1741947803,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 41451,
+        "num": 385171,
+        "word": "DJourney的100种背法",
+        "onboard_time": 1741945884,
+        "rank": 23,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 545865,
+        "num": 383354,
+        "word": "深圳富豪悬赏千万寻子终于上岸",
+        "onboard_time": 1741942044,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 382532,
+        "num": 382532,
+        "word": "这波金价大涨是为啥",
+        "onboard_time": 1741945223,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 224366,
+        "num": 366911,
+        "word": "哪吒2冲TOP5",
+        "onboard_time": 1741944984,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 223618,
+        "num": 359080,
+        "word": "权顺荣受伤",
+        "onboard_time": 1741948284,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201552,
+        "num": 316926,
+        "word": "易烊千玺这一幕无敌了",
+        "onboard_time": 1741944623,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 13588,
+        "num": 296064,
+        "word": "能给心理按摩的爱好",
+        "onboard_time": 1741948103,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 290568,
+        "num": 290568,
+        "word": "纽约特朗普大楼遭袭",
+        "onboard_time": 1741939644,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 212360,
+        "num": 212360,
+        "word": "把住宅改为骨灰房违法吗",
+        "onboard_time": 1741940783,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204631,
+        "num": 204631,
+        "word": "多款儿童用品检出邻苯增塑剂超标",
+        "onboard_time": 1741946962,
+        "rank": 32,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 203032,
+        "num": 203032,
+        "word": "网上贷款1560元17天利息13764元",
+        "onboard_time": 1741945465,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27663,
+        "num": 197971,
+        "word": "蔡康永说自己在节目里像空气",
+        "onboard_time": 1741948762,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196800,
+        "num": 196800,
+        "word": "LCP首次战胜LPL",
+        "onboard_time": 1741947564,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 177424,
+        "num": 177424,
+        "word": "CFO全华班",
+        "onboard_time": 1741946422,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145811,
+        "num": 145811,
+        "word": "王一博告黑获胜",
+        "onboard_time": 1741947322,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15842,
+        "num": 145455,
+        "word": "从明星身上学DJourney穿搭灵感",
+        "onboard_time": 1741945884,
+        "rank": 38,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 153915,
+        "num": 145403,
+        "word": "TES出线靠HLE",
+        "onboard_time": 1741948103,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145338,
+        "num": 145338,
+        "word": "金赛纶7亿债务与酒驾赔偿无关",
+        "onboard_time": 1741944864,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141172,
+        "num": 141172,
+        "word": "现货黄金突破3000美元",
+        "onboard_time": 1741948702,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 139693,
+        "num": 139693,
+        "word": "虞书欣林一剧宣的神来了",
+        "onboard_time": 1741947023,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136683,
+        "num": 136683,
+        "word": "肖战小站记",
+        "onboard_time": 1741945884,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133622,
+        "num": 133622,
+        "word": "一文回顾去年315被曝光企业",
+        "onboard_time": 1741944145,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131497,
+        "num": 131497,
+        "word": "亮剑中有两位演员已离世",
+        "onboard_time": 1741948163,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123980,
+        "num": 123980,
+        "word": "悬赏千万寻子父亲找到失踪24年儿子",
+        "onboard_time": 1741944265,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139090,
+        "num": 123497,
+        "word": "林一的脖子到底有谁在啊",
+        "onboard_time": 1741946304,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120735,
+        "num": 120735,
+        "word": "纽约特朗普大楼遭袭98人被捕",
+        "onboard_time": 1741945103,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120294,
+        "num": 120294,
+        "word": "骗子直播间尬演卖惨推销劣质保健品",
+        "onboard_time": 1741946665,
+        "rank": 49,
+        "category": "舆论监督"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会足迹#"
+    }
+  }
+}
