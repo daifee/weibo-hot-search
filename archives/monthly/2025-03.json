@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741965914147,
+  "endTime": 1741966782595,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -883,6 +883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1740879,
+      "num": 289819,
+      "word": "最早曝金秀贤金赛纶恋爱的记者已去世",
+      "onboard_time": 1741966104,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1732998,
       "num": 101276,
       "word": "难哄剧情 烂",
@@ -1643,19 +1651,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1287402,
+      "num": 1287402,
+      "word": "胖东来红内裤当事人道歉",
+      "onboard_time": 1741962563,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1278503,
       "num": 1278503,
       "word": "济南因暴雪停课",
       "onboard_time": 1740911059,
       "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1277485,
-      "num": 1277485,
-      "word": "胖东来红内裤当事人道歉",
-      "onboard_time": 1741962563,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1881,6 +1889,14 @@
       "onboard_time": 1740923360,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1200098,
+      "num": 289021,
+      "word": "宋轶删除电视剧品质盛典官宣博",
+      "onboard_time": 1741964783,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 1199623,
@@ -2859,14 +2875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 944776,
-      "num": 241014,
-      "word": "宋轶删除电视剧品质盛典官宣博",
-      "onboard_time": 1741964783,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 944373,
       "num": 831008,
       "word": "戚薇李承铉这是我不花钱能听的吗",
@@ -3105,6 +3113,14 @@
       "onboard_time": 1741103179,
       "rank": 0,
       "category": "数码"
+    },
+    {
+      "raw_hot": 903225,
+      "num": 826581,
+      "word": "董力阿拉蕾",
+      "onboard_time": 1741963883,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 902978,
@@ -3569,14 +3585,6 @@
       "onboard_time": 1741001718,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 826581,
-      "num": 826581,
-      "word": "董力阿拉蕾",
-      "onboard_time": 1741963883,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 826058,
@@ -11091,6 +11099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 312260,
+      "num": 301914,
+      "word": "檀健次演的生理性眼肌反应",
+      "onboard_time": 1741963943,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 311847,
       "num": 311847,
       "word": "冰唐橙亲上了",
@@ -13883,6 +13899,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 245120,
+      "num": 245120,
+      "word": "车银优朴彩英在同一家寿司店",
+      "onboard_time": 1741965683,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 245097,
       "num": 342004,
       "word": "孙颖莎大藤沙月重庆赛同区",
@@ -14497,14 +14521,6 @@
       "onboard_time": 1741945465,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 232877,
-      "num": 232877,
-      "word": "檀健次演的生理性眼肌反应",
-      "onboard_time": 1741963943,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 232676,
@@ -16211,12 +16227,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209659,
+      "num": 209659,
+      "word": "一直瘦不下来的8个原因",
+      "onboard_time": 1741962563,
+      "rank": 39,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 209529,
       "num": 328908,
       "word": "丁真和粉色适配度好高",
       "onboard_time": 1740811236,
       "rank": 45,
       "category": "美食,艺人"
+    },
+    {
+      "raw_hot": 209482,
+      "num": 209482,
+      "word": "保洁员休息室不该是厕所最后一格",
+      "onboard_time": 1741964423,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 209352,
@@ -17571,14 +17603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198288,
-      "num": 198288,
-      "word": "保洁员休息室不该是厕所最后一格",
-      "onboard_time": 1741964423,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 198243,
       "num": 198243,
       "word": "樊振东超大球拍",
@@ -17963,6 +17987,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 195084,
+      "num": 285075,
+      "word": "鹭卓直播",
+      "onboard_time": 1741965204,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195081,
       "num": 195081,
       "word": "被压在山下的猴子不只有孙悟空",
@@ -18144,6 +18176,14 @@
       "word": "马嘉祺cos黑熊精",
       "onboard_time": 1741414881,
       "rank": 20,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 193742,
+      "num": 224991,
+      "word": "短剧",
+      "onboard_time": 1741965505,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -18401,14 +18441,6 @@
       "onboard_time": 1740988338,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 192003,
-      "num": 192003,
-      "word": "一直瘦不下来的8个原因",
-      "onboard_time": 1741962563,
-      "rank": 39,
-      "category": "运动健身"
     },
     {
       "raw_hot": 191880,
@@ -19649,6 +19681,14 @@
       "onboard_time": 1741420581,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 182283,
+      "num": 182283,
+      "word": "虞书欣林一现场念国王英文名",
+      "onboard_time": 1741966704,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 182131,
@@ -23316,7 +23356,7 @@
     },
     {
       "raw_hot": 156610,
-      "num": 165544,
+      "num": 269475,
       "word": "33Svan那我问你",
       "onboard_time": 1741965023,
       "rank": 28,
@@ -23376,6 +23416,14 @@
       "word": "司机早高峰在马路中央停车买早餐",
       "onboard_time": 1741525161,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156262,
+      "num": 289970,
+      "word": "哈药股份鸡内金神药实为糖果",
+      "onboard_time": 1741961424,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -23915,6 +23963,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 153525,
+      "num": 153525,
+      "word": "黄杨钿甜公主直角肩",
+      "onboard_time": 1741966704,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153500,
       "num": 153500,
       "word": "边伯贤合作曲MV",
@@ -24097,14 +24153,6 @@
       "onboard_time": 1741308562,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 152658,
-      "num": 222383,
-      "word": "鹭卓直播",
-      "onboard_time": 1741965204,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 152646,
@@ -27115,14 +27163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 134453,
-      "num": 134453,
-      "word": "车银优朴彩英在同一家寿司店",
-      "onboard_time": 1741965683,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 134421,
       "num": 134421,
       "word": "朋友圈里挤满了晒海滩照的人",
@@ -27777,14 +27817,6 @@
       "onboard_time": 1741012400,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 130152,
-      "num": 165258,
-      "word": "短剧",
-      "onboard_time": 1741965505,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 130106,
@@ -28937,14 +28969,6 @@
       "onboard_time": 1741489099,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124734,
-      "num": 135211,
-      "word": "哈药股份鸡内金神药实为糖果",
-      "onboard_time": 1741961424,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 124730,
@@ -30403,6 +30427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117329,
+      "num": 117329,
+      "word": "终于明白抗炎食物有哪些了",
+      "onboard_time": 1741964603,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 117267,
       "num": 117267,
       "word": "时代少年团这是我的西游录制路透",
@@ -30649,14 +30681,6 @@
       "onboard_time": 1741547353,
       "rank": 12,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 115711,
-      "num": 115711,
-      "word": "终于明白抗炎食物有哪些了",
-      "onboard_time": 1741964603,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 115693,
@@ -35587,6 +35611,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 86547,
+      "num": 237155,
+      "word": "黄金回收陷阱1克少220元",
+      "onboard_time": 1741964664,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 86490,
       "num": 97304,
       "word": "国台办正告赖清德当局",
@@ -37635,6 +37667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 66749,
+      "num": 211775,
+      "word": "网购79元海蓝之谜是真瓶假灌",
+      "onboard_time": 1741966223,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 66673,
       "num": 189997,
       "word": "虞书欣普法宣传员",
@@ -38545,6 +38585,14 @@
       "onboard_time": 1740971299,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 57358,
+      "num": 288907,
+      "word": "特鲁多正式辞任加拿大总理",
+      "onboard_time": 1741966403,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 57356,
@@ -40267,14 +40315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 42396,
-      "num": 237155,
-      "word": "黄金回收陷阱1克少220元",
-      "onboard_time": 1741964664,
-      "rank": 14,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 42283,
       "num": 982043,
       "word": "2025奋进中国",
@@ -41451,6 +41491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34482,
+      "num": 841402,
+      "word": "春耕春播由南向北全面展开",
+      "onboard_time": 1741961004,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 34470,
       "num": 237099,
       "word": "市监局对假酸奶涉事企业展开调查",
@@ -41513,14 +41561,6 @@
       "onboard_time": 1741846463,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 34061,
-      "num": 841402,
-      "word": "春耕春播由南向北全面展开",
-      "onboard_time": 1741961004,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 33960,
@@ -41673,6 +41713,14 @@
       "onboard_time": 1741775726,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33166,
+      "num": 287643,
+      "word": "市监回应蜜雪冰城鲜果片隔夜继续用",
+      "onboard_time": 1741966223,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 33133,
@@ -42115,6 +42163,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 30097,
+      "num": 285649,
+      "word": "杨铭宇黄焖鸡塌房加盟商单量骤降",
+      "onboard_time": 1741966223,
+      "rank": 18,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 30050,
       "num": 184984,
       "word": "铁锅炖排骨贴饼",
@@ -42507,6 +42563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27073,
+      "num": 283807,
+      "word": "爱奇艺荧光之夜微短剧片单",
+      "onboard_time": 1741966284,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 27052,
       "num": 54268,
       "word": "鞠婧祎对HelloKitty是真爱",
@@ -42673,6 +42737,14 @@
       "onboard_time": 1741956083,
       "rank": 40,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 26352,
+      "num": 288132,
+      "word": "陌生快递里的中奖卡藏啥猫腻",
+      "onboard_time": 1741966163,
+      "rank": 13,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 26272,
