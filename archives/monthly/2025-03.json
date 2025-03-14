@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1741970667890,
+  "endTime": 1741972714722,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -3737,6 +3737,14 @@
       "onboard_time": 1740964219,
       "rank": 13,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 804963,
+      "num": 128976,
+      "word": "K总老家办婚礼被堵门生气",
+      "onboard_time": 1741971560,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 804308,
@@ -8203,6 +8211,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 416421,
+      "num": 158452,
+      "word": "Prada5年内已塌房7位代言人",
+      "onboard_time": 1741969881,
+      "rank": 17,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 416360,
       "num": 416360,
       "word": "羽衣甘蓝 减肥",
@@ -10337,14 +10353,6 @@
       "onboard_time": 1741317079,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 336275,
-      "num": 158452,
-      "word": "Prada5年内已塌房7位代言人",
-      "onboard_time": 1741969881,
-      "rank": 17,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 335762,
@@ -28035,6 +28043,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 129374,
+      "num": 129374,
+      "word": "中缅泰联合打击电诈获重大战果",
+      "onboard_time": 1741970960,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 129272,
       "num": 129272,
       "word": "尹锡悦即将获释",
@@ -36299,6 +36315,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 81716,
+      "num": 164309,
+      "word": "2255名中国籍涉诈嫌犯被押解回国",
+      "onboard_time": 1741969462,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81607,
       "num": 95941,
       "word": "恋人",
@@ -38587,6 +38611,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 58432,
+      "num": 58432,
+      "word": "金秀贤合照里的眼镜是13年粉丝送的",
+      "onboard_time": 1741971499,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58416,
       "num": 147502,
       "word": "张艺兴惊蛰空降",
@@ -39881,14 +39913,6 @@
       "onboard_time": 1741610786,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 47833,
-      "num": 164309,
-      "word": "2255名中国籍涉诈嫌犯被押解回国",
-      "onboard_time": 1741969462,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 47710,
@@ -43075,6 +43099,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 24765,
+      "num": 129297,
+      "word": "对境外涉我犯罪集团形成强大震慑",
+      "onboard_time": 1741972159,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 24740,
       "num": 650289,
       "word": "夸克新简历",
@@ -43689,6 +43721,14 @@
       "onboard_time": 1741925125,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 20981,
+      "num": 87360,
+      "word": "众火溯还之日",
+      "onboard_time": 1741971799,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 20903,
