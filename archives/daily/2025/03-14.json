@@ -1,6 +1,6 @@
 {
   "startTime": 1741883456293,
-  "endTime": 1741958957304,
+  "endTime": 1741959622606,
   "band_list": [
     {
       "raw_hot": 16802991,
@@ -115,8 +115,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1471191,
-      "num": 1471191,
+      "raw_hot": 1598186,
+      "num": 1598186,
       "word": "哪吒2票房超150亿",
       "onboard_time": 1741957285,
       "rank": 0,
@@ -193,6 +193,14 @@
       "onboard_time": 1741956862,
       "rank": 27,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 1128036,
+      "num": 373559,
+      "word": "金秀贤合照里羽绒服是2014年的",
+      "onboard_time": 1741959565,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1067682,
@@ -379,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 700028,
+      "num": 700028,
+      "word": "华莱士店长称业绩比食品安全更重要",
+      "onboard_time": 1741956983,
+      "rank": 30,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 699428,
       "num": 585775,
       "word": "邻居曝中国女孩美国遭家暴枪杀细节",
@@ -448,6 +464,14 @@
       "word": "肉铺老板绞肉绞断三根手指索赔顾客",
       "onboard_time": 1741922905,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 565719,
+      "num": 377175,
+      "word": "妻子去世1年跑车司机新对象是粉丝",
+      "onboard_time": 1741954523,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -675,6 +699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 408459,
+      "num": 408459,
+      "word": "A勒布伦摔水瓶",
+      "onboard_time": 1741956502,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 405465,
       "num": 405465,
       "word": "A股大涨背后原因",
@@ -723,28 +755,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 391023,
-      "num": 391023,
-      "word": "华莱士店长称业绩比食品安全更重要",
-      "onboard_time": 1741956983,
-      "rank": 30,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 389529,
       "num": 389529,
       "word": "迪丽热巴加勒比女王造型",
       "onboard_time": 1741923746,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 387210,
-      "num": 387210,
-      "word": "A勒布伦摔水瓶",
-      "onboard_time": 1741956502,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 382532,
@@ -785,14 +801,6 @@
       "onboard_time": 1741911804,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 377175,
-      "num": 377175,
-      "word": "妻子去世1年跑车司机新对象是粉丝",
-      "onboard_time": 1741954523,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 375511,
@@ -1043,6 +1051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 251232,
+      "num": 287719,
+      "word": "恋爱兄妹公开手足震惊观察室",
+      "onboard_time": 1741958482,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 250308,
       "num": 250308,
       "word": "梁靖崑3比1战胜林高远",
@@ -1065,14 +1081,6 @@
       "onboard_time": 1741907358,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 244154,
-      "num": 244154,
-      "word": "恋爱兄妹公开手足震惊观察室",
-      "onboard_time": 1741958482,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 241102,
@@ -1251,6 +1259,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 222365,
+      "num": 222365,
+      "word": "省考 紧张",
+      "onboard_time": 1741955902,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 220774,
       "num": 314137,
       "word": "嘘国王在冬眠微博追剧团",
@@ -1401,6 +1417,14 @@
       "onboard_time": 1741946962,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 202842,
+      "num": 202842,
+      "word": "朴志晟冰岛",
+      "onboard_time": 1741958604,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 201392,
@@ -1659,14 +1683,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 185558,
-      "num": 185558,
-      "word": "朴志晟冰岛",
-      "onboard_time": 1741958604,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 184049,
       "num": 184049,
       "word": "短剧剧组频繁进小区拍戏困扰业主",
@@ -1691,12 +1707,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 182497,
-      "num": 182497,
-      "word": "省考 紧张",
-      "onboard_time": 1741955902,
-      "rank": 45,
-      "category": "教育"
+      "raw_hot": 181531,
+      "num": 171629,
+      "word": "Zeus说打TES有点奇怪",
+      "onboard_time": 1741958663,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 181246,
@@ -1819,6 +1835,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 174312,
+      "num": 174312,
+      "word": "Prada的往届代言人们",
+      "onboard_time": 1741959384,
+      "rank": 27,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 172576,
       "num": 314228,
       "word": "19岁女生为救落水者不幸溺亡",
@@ -1832,6 +1856,14 @@
       "word": "柳演锡方回应涉嫌逃税",
       "onboard_time": 1741930705,
       "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 170637,
+      "num": 170637,
+      "word": "苏新皓和老师跳SeeSumn",
+      "onboard_time": 1741959204,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -1851,6 +1883,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 169177,
+      "num": 169177,
+      "word": "卢靖姗看不懂董力",
+      "onboard_time": 1741959263,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168939,
       "num": 168939,
       "word": "肖战小站记",
@@ -1867,8 +1907,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168241,
+      "num": 273958,
+      "word": "微短剧荧光之夜",
+      "onboard_time": 1741958783,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168133,
-      "num": 168133,
+      "num": 169184,
       "word": "男孩跑步582天身高从152长到170",
       "onboard_time": 1741955722,
       "rank": 42,
@@ -1897,6 +1945,14 @@
       "onboard_time": 1741922905,
       "rank": 39,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 164718,
+      "num": 164718,
+      "word": "LPL第二赛段分组抽签",
+      "onboard_time": 1741958783,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 163335,
@@ -1947,8 +2003,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 159875,
-      "num": 159875,
+      "raw_hot": 161155,
+      "num": 169347,
       "word": "JackeyLove成首位输五大赛区的LPL选手",
       "onboard_time": 1741957642,
       "rank": 39,
@@ -1963,20 +2019,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 159235,
-      "num": 159235,
-      "word": "Zeus说打TES有点奇怪",
-      "onboard_time": 1741958663,
-      "rank": 40,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 157674,
-      "num": 157674,
-      "word": "LPL第二赛段分组抽签",
-      "onboard_time": 1741958783,
-      "rank": 42,
-      "category": "电竞"
+      "raw_hot": 158920,
+      "num": 172206,
+      "word": "蜜雪冰城",
+      "onboard_time": 1741959083,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157605,
@@ -1984,6 +2032,14 @@
       "word": "一文回顾去年315被曝光企业",
       "onboard_time": 1741944145,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156911,
+      "num": 244225,
+      "word": "航司1070元机票第三方卖3357元",
+      "onboard_time": 1741956262,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -2171,14 +2227,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 146849,
-      "num": 244225,
-      "word": "航司1070元机票第三方卖3357元",
-      "onboard_time": 1741956262,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 146778,
       "num": 146778,
       "word": "虞书欣林一剧宣的神来了",
@@ -2193,6 +2241,14 @@
       "onboard_time": 1741950622,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 146618,
+      "num": 146618,
+      "word": "董力当年有多火",
+      "onboard_time": 1741959504,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 146552,
@@ -2659,14 +2715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 108812,
-      "num": 185655,
-      "word": "微短剧荧光之夜",
-      "onboard_time": 1741958783,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 107142,
       "num": 246389,
       "word": "Jennie回归成绩",
@@ -2729,6 +2777,14 @@
       "onboard_time": 1741931304,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 103236,
+      "num": 256433,
+      "word": "IU送花圈悼念辉星",
+      "onboard_time": 1741958063,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 102763,
@@ -3035,14 +3091,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 72421,
-      "num": 256433,
-      "word": "IU送花圈悼念辉星",
-      "onboard_time": 1741958063,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 72333,
       "num": 75079,
       "word": "呼和浩特生育三孩发10万",
@@ -3260,7 +3308,7 @@
     },
     {
       "raw_hot": 53246,
-      "num": 170943,
+      "num": 379411,
       "word": "俄称期待考虑俄利益关切的和平方案",
       "onboard_time": 1741958783,
       "rank": 35,
@@ -3619,6 +3667,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 22852,
+      "num": 170903,
+      "word": "各地文旅来给雷军交作业了",
+      "onboard_time": 1741959083,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22082,
       "num": 25516,
       "word": "努力是对梦想的尊重",
@@ -3697,6 +3753,14 @@
       "onboard_time": 1741934003,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 15915,
+      "num": 461116,
+      "word": "我国各区域外贸开年成绩单出炉",
+      "onboard_time": 1741959144,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 14345,

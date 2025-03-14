@@ -1,0 +1,410 @@
+{
+  "runTime": 1741959622606,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1598186,
+        "num": 1598186,
+        "word": "哪吒2票房超150亿",
+        "onboard_time": 1741957285,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 700028,
+        "num": 700028,
+        "word": "华莱士店长称业绩比食品安全更重要",
+        "onboard_time": 1741956983,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 15915,
+        "num": 461116,
+        "word": "我国各区域外贸开年成绩单出炉",
+        "onboard_time": 1741959144,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 413422,
+        "num": 413422,
+        "word": "TES晋级全球先锋赛四强",
+        "onboard_time": 1741956144,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 411956,
+        "num": 411956,
+        "word": "王楚钦倒地正手爆冲",
+        "onboard_time": 1741953803,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1364994,
+        "num": 411649,
+        "word": "蜜雪冰城鲜果切片常温过夜后继续用",
+        "onboard_time": 1741949484,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 408459,
+        "num": 408459,
+        "word": "A勒布伦摔水瓶",
+        "onboard_time": 1741956502,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 396258,
+        "num": 396258,
+        "word": "亮剑中有两位演员已离世",
+        "onboard_time": 1741948163,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390124,
+        "num": 390124,
+        "word": "专家建议每孩1次性补贴10万",
+        "onboard_time": 1741950264,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44656,
+        "num": 379411,
+        "word": "俄称期待考虑俄利益关切的和平方案",
+        "onboard_time": 1741958783,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1128036,
+        "num": 373559,
+        "word": "金秀贤合照里羽绒服是2014年的",
+        "onboard_time": 1741959565,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 988847,
+        "num": 357807,
+        "word": "王安宇可不可以立刻离开广东",
+        "onboard_time": 1741952363,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 972259,
+        "num": 349263,
+        "word": "韩娱地震",
+        "onboard_time": 1741930164,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 799526,
+        "num": 331805,
+        "word": "这居然是蔡文静",
+        "onboard_time": 1741956862,
+        "rank": 13,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 565719,
+        "num": 318706,
+        "word": "妻子去世1年跑车司机新对象是粉丝",
+        "onboard_time": 1741954523,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 761830,
+        "num": 305176,
+        "word": "金秀贤金赛纶比耶合照",
+        "onboard_time": 1741953504,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259390,
+        "num": 296987,
+        "word": "胡静结婚排面",
+        "onboard_time": 1741954282,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251232,
+        "num": 287719,
+        "word": "恋爱兄妹公开手足震惊观察室",
+        "onboard_time": 1741958482,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168241,
+        "num": 273958,
+        "word": "微短剧荧光之夜",
+        "onboard_time": 1741958783,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266221,
+        "num": 266221,
+        "word": "王楚钦说没想到3比0获胜",
+        "onboard_time": 1741955304,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253323,
+        "num": 253323,
+        "word": "三甲医院医生开处方指定院外药店购买",
+        "onboard_time": 1741955063,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244825,
+        "num": 244825,
+        "word": "羽衣甘蓝 减肥",
+        "onboard_time": 1741949123,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 237986,
+        "num": 237986,
+        "word": "迪丽热巴替人尴尬的毛病又犯了",
+        "onboard_time": 1741952964,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222365,
+        "num": 222365,
+        "word": "省考 紧张",
+        "onboard_time": 1741955902,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 210180,
+        "num": 210180,
+        "word": "五福临门",
+        "onboard_time": 1741950622,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202842,
+        "num": 202842,
+        "word": "朴志晟冰岛",
+        "onboard_time": 1741958604,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191916,
+        "num": 191916,
+        "word": "东北雨姐骆王宇等主播被点名",
+        "onboard_time": 1741947683,
+        "rank": 26,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 174312,
+        "num": 174312,
+        "word": "Prada的往届代言人们",
+        "onboard_time": 1741959384,
+        "rank": 27,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 111226,
+        "num": 173011,
+        "word": "全球首列全景观光山地旅游列车上线了",
+        "onboard_time": 1741955424,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54250,
+        "num": 172303,
+        "word": "DIOR新季最值得买的单品",
+        "onboard_time": 1741956742,
+        "rank": 29,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 158920,
+        "num": 172206,
+        "word": "蜜雪冰城",
+        "onboard_time": 1741959083,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172174,
+        "num": 172174,
+        "word": "IU新剧",
+        "onboard_time": 1741957583,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181531,
+        "num": 171629,
+        "word": "Zeus说打TES有点奇怪",
+        "onboard_time": 1741958663,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 22852,
+        "num": 170903,
+        "word": "各地文旅来给雷军交作业了",
+        "onboard_time": 1741959083,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174064,
+        "num": 170814,
+        "word": "金价",
+        "onboard_time": 1741953022,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 170637,
+        "num": 170637,
+        "word": "苏新皓和老师跳SeeSumn",
+        "onboard_time": 1741959204,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161155,
+        "num": 169347,
+        "word": "JackeyLove成首位输五大赛区的LPL选手",
+        "onboard_time": 1741957642,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 165279,
+        "num": 169184,
+        "word": "男孩跑步582天身高从152长到170",
+        "onboard_time": 1741955722,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169177,
+        "num": 169177,
+        "word": "卢靖姗看不懂董力",
+        "onboard_time": 1741959263,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165975,
+        "num": 165975,
+        "word": "敖瑞鹏Dior晚宴路透",
+        "onboard_time": 1741954703,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 164718,
+        "num": 164718,
+        "word": "LPL第二赛段分组抽签",
+        "onboard_time": 1741958783,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 163227,
+        "num": 163227,
+        "word": "CFO零封TES",
+        "onboard_time": 1741945884,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 22218,
+        "num": 158665,
+        "word": "文化中国行看春意盎然",
+        "onboard_time": 1741941024,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156972,
+        "num": 156972,
+        "word": "JackeyLove采访沉默20秒",
+        "onboard_time": 1741956324,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 156911,
+        "num": 156911,
+        "word": "航司1070元机票第三方卖3357元",
+        "onboard_time": 1741956262,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103236,
+        "num": 154744,
+        "word": "IU送花圈悼念辉星",
+        "onboard_time": 1741958063,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153727,
+        "num": 153727,
+        "word": "五福临门团建夜",
+        "onboard_time": 1741955722,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149733,
+        "num": 149733,
+        "word": "张元英为了不出崩图一直不眨眼",
+        "onboard_time": 1741943423,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 148501,
+        "num": 148501,
+        "word": "身价过亿的总裁大小姐都在这了",
+        "onboard_time": 1741954703,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146618,
+        "num": 146618,
+        "word": "董力当年有多火",
+        "onboard_time": 1741959504,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会足迹#"
+    }
+  }
+}
