@@ -1,6 +1,6 @@
 {
   "startTime": 1741969737801,
-  "endTime": 1741983907995,
+  "endTime": 1741984698501,
   "band_list": [
     {
       "raw_hot": 1517653,
@@ -452,7 +452,7 @@
     },
     {
       "raw_hot": 76127,
-      "num": 31068,
+      "num": 34271,
       "word": "主播违规拍摄大熊猫被终身禁入",
       "onboard_time": 1741977735,
       "rank": 49,
@@ -491,20 +491,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 53290,
+      "num": 53290,
+      "word": "华莱士后厨蟑螂窜苍蝇飞店员漠视",
+      "onboard_time": 1741980735,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49745,
       "num": 116808,
       "word": "Zeus说打TES有点奇怪",
       "onboard_time": 1741958663,
       "rank": 26,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 45078,
-      "num": 45078,
-      "word": "华莱士后厨蟑螂窜苍蝇飞店员漠视",
-      "onboard_time": 1741980735,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32756,
@@ -579,12 +579,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 18620,
+      "raw_hot": 18940,
       "num": 25125,
       "word": "广州一栋楼美成草莓千层蛋糕",
       "onboard_time": 1741979954,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 15718,
+      "num": 31561,
+      "word": "急流中机器人10分钟救回落水者",
+      "onboard_time": 1741982534,
+      "rank": 9,
+      "category": "正能量"
     },
     {
       "raw_hot": 14739,
@@ -595,7 +603,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 14197,
+      "raw_hot": 14399,
       "num": 18552,
       "word": "你遭遇过哪些消费噱头",
       "onboard_time": 1741982174,
@@ -603,11 +611,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 11456,
-      "num": 31548,
-      "word": "急流中机器人10分钟救回落水者",
-      "onboard_time": 1741982534,
-      "rank": 9,
+      "raw_hot": 10870,
+      "num": 23506,
+      "word": "机器人界的浪里白条立功了",
+      "onboard_time": 1741981934,
+      "rank": 30,
       "category": "正能量"
     },
     {
