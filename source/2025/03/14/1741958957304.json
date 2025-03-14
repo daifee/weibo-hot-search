@@ -1,0 +1,410 @@
+{
+  "runTime": 1741958957304,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1471191,
+        "num": 1471191,
+        "word": "哪吒2票房超150亿",
+        "onboard_time": 1741957285,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 455841,
+        "num": 455841,
+        "word": "王楚钦倒地正手爆冲",
+        "onboard_time": 1741953803,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29142,
+        "num": 449852,
+        "word": "文化中国行看春意盎然",
+        "onboard_time": 1741941024,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 447756,
+        "num": 447756,
+        "word": "专家建议每孩1次性补贴10万",
+        "onboard_time": 1741950264,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 435389,
+        "num": 435389,
+        "word": "TES晋级全球先锋赛四强",
+        "onboard_time": 1741956144,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1384006,
+        "num": 432351,
+        "word": "蜜雪冰城鲜果切片常温过夜后继续用",
+        "onboard_time": 1741949484,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 404032,
+        "num": 404032,
+        "word": "亮剑中有两位演员已离世",
+        "onboard_time": 1741948163,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397272,
+        "num": 397272,
+        "word": "胡静结婚排面",
+        "onboard_time": 1741954282,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 391023,
+        "num": 391023,
+        "word": "华莱士店长称业绩比食品安全更重要",
+        "onboard_time": 1741956983,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 387210,
+        "num": 387210,
+        "word": "A勒布伦摔水瓶",
+        "onboard_time": 1741956502,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1134723,
+        "num": 386853,
+        "word": "这居然是蔡文静",
+        "onboard_time": 1741956862,
+        "rank": 10,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 1096116,
+        "num": 383305,
+        "word": "韩娱地震",
+        "onboard_time": 1741930164,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1012045,
+        "num": 381338,
+        "word": "王安宇可不可以立刻离开广东",
+        "onboard_time": 1741952363,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 880006,
+        "num": 378804,
+        "word": "金秀贤金赛纶比耶合照",
+        "onboard_time": 1741953504,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377175,
+        "num": 377175,
+        "word": "妻子去世1年跑车司机新对象是粉丝",
+        "onboard_time": 1741954523,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325370,
+        "num": 325370,
+        "word": "王楚钦说没想到3比0获胜",
+        "onboard_time": 1741955304,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284612,
+        "num": 284612,
+        "word": "羽衣甘蓝 减肥",
+        "onboard_time": 1741949123,
+        "rank": 16,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 273933,
+        "num": 273933,
+        "word": "三甲医院医生开处方指定院外药店购买",
+        "onboard_time": 1741955063,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271792,
+        "num": 271792,
+        "word": "迪丽热巴替人尴尬的毛病又犯了",
+        "onboard_time": 1741952964,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72421,
+        "num": 256433,
+        "word": "IU送花圈悼念辉星",
+        "onboard_time": 1741958063,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 584563,
+        "num": 256143,
+        "word": "金秀贤曾要求全智贤换平底鞋被拒",
+        "onboard_time": 1741937664,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253861,
+        "num": 253861,
+        "word": "东北雨姐骆王宇等主播被点名",
+        "onboard_time": 1741947683,
+        "rank": 21,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 248989,
+        "num": 248989,
+        "word": "五福临门",
+        "onboard_time": 1741950622,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146849,
+        "num": 244225,
+        "word": "航司1070元机票第三方卖3357元",
+        "onboard_time": 1741956262,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244154,
+        "num": 244154,
+        "word": "恋爱兄妹公开手足震惊观察室",
+        "onboard_time": 1741958482,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216418,
+        "num": 216418,
+        "word": "金价",
+        "onboard_time": 1741953022,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 203170,
+        "num": 203170,
+        "word": "CFO零封TES",
+        "onboard_time": 1741945884,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 196022,
+        "num": 196022,
+        "word": "IU新剧",
+        "onboard_time": 1741957583,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128593,
+        "num": 190494,
+        "word": "全球首列全景观光山地旅游列车上线了",
+        "onboard_time": 1741955424,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58589,
+        "num": 187068,
+        "word": "DIOR新季最值得买的单品",
+        "onboard_time": 1741956742,
+        "rank": 29,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 108812,
+        "num": 185655,
+        "word": "微短剧荧光之夜",
+        "onboard_time": 1741958783,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185558,
+        "num": 185558,
+        "word": "朴志晟冰岛",
+        "onboard_time": 1741958604,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182497,
+        "num": 182497,
+        "word": "省考 紧张",
+        "onboard_time": 1741955902,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 179324,
+        "num": 179324,
+        "word": "五福临门团建夜",
+        "onboard_time": 1741955722,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178609,
+        "num": 178609,
+        "word": "JackeyLove采访沉默20秒",
+        "onboard_time": 1741956324,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 53246,
+        "num": 170943,
+        "word": "俄称期待考虑俄利益关切的和平方案",
+        "onboard_time": 1741958783,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 169728,
+        "num": 169728,
+        "word": "敖瑞鹏Dior晚宴路透",
+        "onboard_time": 1741954703,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 168133,
+        "num": 168133,
+        "word": "男孩跑步582天身高从152长到170",
+        "onboard_time": 1741955722,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165216,
+        "num": 165216,
+        "word": "张元英为了不出崩图一直不眨眼",
+        "onboard_time": 1741943423,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 159875,
+        "num": 159875,
+        "word": "JackeyLove成首位输五大赛区的LPL选手",
+        "onboard_time": 1741957642,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 159235,
+        "num": 159235,
+        "word": "Zeus说打TES有点奇怪",
+        "onboard_time": 1741958663,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 157985,
+        "num": 157985,
+        "word": "阿诺说董力当年是真的很火",
+        "onboard_time": 1741947083,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157674,
+        "num": 157674,
+        "word": "LPL第二赛段分组抽签",
+        "onboard_time": 1741958783,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 156040,
+        "num": 156040,
+        "word": "papi拖更的原因",
+        "onboard_time": 1741950142,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 155468,
+        "num": 155468,
+        "word": "孙龙摔倒",
+        "onboard_time": 1741957103,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149651,
+        "num": 149651,
+        "word": "身价过亿的总裁大小姐都在这了",
+        "onboard_time": 1741954703,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149491,
+        "num": 149491,
+        "word": "董力阿诺早年被拍到过",
+        "onboard_time": 1741956564,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144658,
+        "num": 144658,
+        "word": "这下一眼看不出谁是少爷了",
+        "onboard_time": 1741953143,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144133,
+        "num": 144133,
+        "word": "WTT重庆冠军赛八强对阵",
+        "onboard_time": 1741958604,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140094,
+        "num": 140094,
+        "word": "HLE抬TES晋级淘汰赛",
+        "onboard_time": 1741958424,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#以文化赋能经济社会发展#"
+    }
+  }
+}
