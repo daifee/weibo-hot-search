@@ -1,0 +1,410 @@
+{
+  "runTime": 1741934737022,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1235970,
+        "num": 1235970,
+        "word": "雷总你在小米是做什么的",
+        "onboard_time": 1741930164,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 892703,
+        "num": 892703,
+        "word": "柳演锡涉嫌逃税",
+        "onboard_time": 1741924045,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34348,
+        "num": 610503,
+        "word": "这是春天里的锦绣中国",
+        "onboard_time": 1741922484,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 533700,
+        "num": 533700,
+        "word": "中国台湾省",
+        "onboard_time": 1741880183,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 394658,
+        "num": 394658,
+        "word": "白敬亭章若楠四手联弹",
+        "onboard_time": 1741926086,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303469,
+        "num": 303469,
+        "word": "8岁男童吃叶黄素软糖患干眼症",
+        "onboard_time": 1741927347,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 392534,
+        "num": 280350,
+        "word": "景甜回应再演司藤类角色",
+        "onboard_time": 1741931003,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 373462,
+        "num": 278361,
+        "word": "何炅黄磊探班张子枫的电影是这部",
+        "onboard_time": 1741932623,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 250308,
+        "num": 250308,
+        "word": "梁靖崑3比1战胜林高远",
+        "onboard_time": 1741931664,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248527,
+        "num": 248527,
+        "word": "金店足金价格涨破900",
+        "onboard_time": 1741923385,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 192001,
+        "num": 247978,
+        "word": "足金金饰价格刷新高",
+        "onboard_time": 1741934243,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1891109,
+        "num": 246790,
+        "word": "金秀贤出国",
+        "onboard_time": 1741930823,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300437,
+        "num": 245725,
+        "word": "刘亦菲官宣电视剧品质盛典",
+        "onboard_time": 1741928725,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1794675,
+        "num": 244510,
+        "word": "韩娱地震",
+        "onboard_time": 1741930164,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348104,
+        "num": 242512,
+        "word": "英一二战",
+        "onboard_time": 1741928365,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 294907,
+        "num": 241172,
+        "word": "海底捞一人食",
+        "onboard_time": 1741926627,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1442285,
+        "num": 240001,
+        "word": "金秀贤回应Deepseek总结版",
+        "onboard_time": 1741933762,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239769,
+        "num": 239769,
+        "word": "DeepSeek回答能不能入手黄金",
+        "onboard_time": 1741933644,
+        "rank": 17,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 146533,
+        "num": 239496,
+        "word": "Henry王俊凯同框",
+        "onboard_time": 1741933463,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161768,
+        "num": 236283,
+        "word": "王曼昱3比0简彤娟",
+        "onboard_time": 1741933463,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273065,
+        "num": 235726,
+        "word": "82岁老人下葬当天飞来一群仙鹤盘旋",
+        "onboard_time": 1741928725,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251094,
+        "num": 233356,
+        "word": "肉铺老板绞肉绞断三根手指索赔顾客",
+        "onboard_time": 1741922905,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38400,
+        "num": 231507,
+        "word": "姚安娜时尚先锋大片",
+        "onboard_time": 1741932263,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 230575,
+        "num": 230575,
+        "word": "对刮刮乐祛魅了",
+        "onboard_time": 1741927226,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 56732,
+        "num": 224916,
+        "word": "开展个人消费贷款纾困",
+        "onboard_time": 1741930524,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 223807,
+        "num": 223807,
+        "word": "韩安冉妈妈否认偷小猪妹黄金",
+        "onboard_time": 1741923446,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 49839,
+        "num": 198875,
+        "word": "线上线下抓药价差高达10倍",
+        "onboard_time": 1741934062,
+        "rank": 26,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 198420,
+        "num": 198420,
+        "word": "翟子路真的学王星越挂锁了",
+        "onboard_time": 1741933162,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45343,
+        "num": 198208,
+        "word": "检查260元全麻后遭加价3600元",
+        "onboard_time": 1741933162,
+        "rank": 28,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 16069,
+        "num": 196096,
+        "word": "医生视角下急诊室的一夜",
+        "onboard_time": 1741934003,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 219381,
+        "num": 195585,
+        "word": "杨洋赵小棠李乃文和塑料袋打起来了",
+        "onboard_time": 1741927645,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176788,
+        "num": 193871,
+        "word": "沈月新中式写真",
+        "onboard_time": 1741933823,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193759,
+        "num": 193759,
+        "word": "造谣顶流明星输10亿的男子被拘留",
+        "onboard_time": 1741915882,
+        "rank": 32,
+        "category": "辟谣/通报,艺人"
+      },
+      {
+        "raw_hot": 180405,
+        "num": 180405,
+        "word": "林一给虞书欣的备注是妮妮",
+        "onboard_time": 1741929025,
+        "rank": 33,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 172889,
+        "num": 172889,
+        "word": "今天数学浓度太高了",
+        "onboard_time": 1741908140,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166702,
+        "num": 166702,
+        "word": "为什么很多人害怕学数学",
+        "onboard_time": 1741932323,
+        "rank": 35,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 164839,
+        "num": 164839,
+        "word": "A股大涨背后原因",
+        "onboard_time": 1741934003,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 154242,
+        "num": 154242,
+        "word": "赵又廷林更新一山更比一山高",
+        "onboard_time": 1741933284,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162589,
+        "num": 154126,
+        "word": "AI预测今年最火的情侣礼物TOP10",
+        "onboard_time": 1741932263,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 153854,
+        "num": 153854,
+        "word": "当AI开始说谎勿让神器变凶器",
+        "onboard_time": 1741931905,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151625,
+        "num": 151625,
+        "word": "李隼谈东京奥运女单半决赛那场球",
+        "onboard_time": 1741929206,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147873,
+        "num": 147873,
+        "word": "柳演锡方回应涉嫌逃税",
+        "onboard_time": 1741930705,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147831,
+        "num": 147831,
+        "word": "00后店长捡到手机狂拨30通电话找失主",
+        "onboard_time": 1741934182,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147555,
+        "num": 147555,
+        "word": "赵丽颖新片酒吧卖酒",
+        "onboard_time": 1741922964,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147718,
+        "num": 145529,
+        "word": "妻子的浪漫旅行",
+        "onboard_time": 1741930225,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141986,
+        "num": 141986,
+        "word": "97年女生当村长5年惊艳所有人",
+        "onboard_time": 1741922905,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140848,
+        "num": 140848,
+        "word": "网络谣言开始用AI了",
+        "onboard_time": 1741931485,
+        "rank": 46,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 133378,
+        "num": 133378,
+        "word": "穆婷婷拍了很多戏没播",
+        "onboard_time": 1741918462,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131236,
+        "num": 131236,
+        "word": "陶白白别骂摩羯座了",
+        "onboard_time": 1741928005,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123658,
+        "num": 123658,
+        "word": "汪东城也是cos上哪吒了",
+        "onboard_time": 1741934601,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#以文化赋能经济社会发展#"
+    }
+  }
+}

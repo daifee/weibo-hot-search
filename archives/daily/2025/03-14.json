@@ -1,6 +1,6 @@
 {
   "startTime": 1741883456293,
-  "endTime": 1741933940242,
+  "endTime": 1741934737022,
   "band_list": [
     {
       "raw_hot": 16802991,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2379911,
-      "num": 243520,
+      "num": 246790,
       "word": "金秀贤出国",
       "onboard_time": 1741930823,
       "rank": 10,
@@ -75,11 +75,19 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 1703721,
-      "num": 241147,
+      "raw_hot": 1794675,
+      "num": 244510,
       "word": "韩娱地震",
       "onboard_time": 1741930164,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1442285,
+      "num": 240001,
+      "word": "金秀贤回应Deepseek总结版",
+      "onboard_time": 1741933762,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -91,28 +99,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1158032,
-      "num": 788609,
-      "word": "小学老师解聘后在校门口卖火鸡面",
-      "onboard_time": 1741877963,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1120954,
-      "num": 1179352,
+      "raw_hot": 1235970,
+      "num": 1235970,
       "word": "雷总你在小米是做什么的",
       "onboard_time": 1741930164,
       "rank": 15,
       "category": "互联网"
     },
     {
-      "raw_hot": 1083964,
-      "num": 232588,
-      "word": "金秀贤回应Deepseek总结版",
-      "onboard_time": 1741933762,
-      "rank": 15,
-      "category": "艺人"
+      "raw_hot": 1158032,
+      "num": 788609,
+      "word": "小学老师解聘后在校门口卖火鸡面",
+      "onboard_time": 1741877963,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 893126,
@@ -372,11 +372,19 @@
     },
     {
       "raw_hot": 395330,
-      "num": 232305,
+      "num": 278361,
       "word": "何炅黄磊探班张子枫的电影是这部",
       "onboard_time": 1741932623,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 392534,
+      "num": 293342,
+      "word": "景甜回应再演司藤类角色",
+      "onboard_time": 1741931003,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 389529,
@@ -425,14 +433,6 @@
       "onboard_time": 1741917501,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 362764,
-      "num": 293342,
-      "word": "景甜回应再演司藤类角色",
-      "onboard_time": 1741931003,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 360194,
@@ -539,8 +539,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 245577,
-      "num": 245577,
+      "raw_hot": 250308,
+      "num": 250308,
       "word": "梁靖崑3比1战胜林高远",
       "onboard_time": 1741931664,
       "rank": 9,
@@ -577,6 +577,14 @@
       "onboard_time": 1741927347,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 239769,
+      "num": 239769,
+      "word": "DeepSeek回答能不能入手黄金",
+      "onboard_time": 1741933644,
+      "rank": 37,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 239205,
@@ -787,6 +795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 198420,
+      "num": 198420,
+      "word": "翟子路真的学王星越挂锁了",
+      "onboard_time": 1741933162,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195778,
       "num": 195778,
       "word": "所有学生本硕博连读不用内卷",
@@ -833,6 +849,14 @@
       "onboard_time": 1741933284,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192001,
+      "num": 247978,
+      "word": "足金金饰价格刷新高",
+      "onboard_time": 1741934243,
+      "rank": 10,
+      "category": "财经"
     },
     {
       "raw_hot": 191802,
@@ -931,6 +955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176788,
+      "num": 193871,
+      "word": "沈月新中式写真",
+      "onboard_time": 1741933823,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 174421,
       "num": 325858,
       "word": "美一载有178人客机在机场起火",
@@ -979,12 +1011,28 @@
       "category": "财经,舆论监督"
     },
     {
+      "raw_hot": 166702,
+      "num": 232327,
+      "word": "为什么很多人害怕学数学",
+      "onboard_time": 1741932323,
+      "rank": 19,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 165886,
       "num": 165886,
       "word": "巴黎世家设计师跳槽Gucci",
       "onboard_time": 1741922905,
       "rank": 39,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 164839,
+      "num": 164839,
+      "word": "A股大涨背后原因",
+      "onboard_time": 1741934003,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 163335,
@@ -1003,12 +1051,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 162589,
+      "num": 157566,
+      "word": "AI预测今年最火的情侣礼物TOP10",
+      "onboard_time": 1741932263,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 161922,
       "num": 161922,
       "word": "小米车标炼出黄金价值200元",
       "onboard_time": 1741916901,
       "rank": 31,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 161768,
+      "num": 236283,
+      "word": "王曼昱3比0简彤娟",
+      "onboard_time": 1741933463,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 159652,
@@ -1107,6 +1171,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147831,
+      "num": 147831,
+      "word": "00后店长捡到手机狂拨30通电话找失主",
+      "onboard_time": 1741934182,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146533,
+      "num": 239496,
+      "word": "Henry王俊凯同框",
+      "onboard_time": 1741933463,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146462,
       "num": 146462,
       "word": "林高远13比15梁靖崑",
@@ -1179,14 +1259,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 134493,
-      "num": 194784,
-      "word": "翟子路真的学王星越挂锁了",
-      "onboard_time": 1741933162,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 133548,
       "num": 173258,
       "word": "董思成黄杨钿甜五福临门团建合体",
@@ -1195,28 +1267,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 132101,
-      "num": 158715,
-      "word": "DeepSeek回答能不能入手黄金",
-      "onboard_time": 1741933644,
-      "rank": 37,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 131224,
       "num": 131224,
       "word": "崩坏星穹铁道",
       "onboard_time": 1741928966,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 131112,
-      "num": 131112,
-      "word": "沈月新中式写真",
-      "onboard_time": 1741933823,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 130735,
@@ -1249,6 +1305,14 @@
       "onboard_time": 1741922964,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123658,
+      "num": 123658,
+      "word": "汪东城也是cos上哪吒了",
+      "onboard_time": 1741934601,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 123191,
@@ -1300,7 +1364,7 @@
     },
     {
       "raw_hot": 114714,
-      "num": 114714,
+      "num": 224916,
       "word": "开展个人消费贷款纾困",
       "onboard_time": 1741930524,
       "rank": 47,
@@ -1344,14 +1408,6 @@
       "word": "张书豪回应儿子取名",
       "onboard_time": 1741913363,
       "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 104582,
-      "num": 232396,
-      "word": "Henry王俊凯同框",
-      "onboard_time": 1741933463,
-      "rank": 18,
       "category": "艺人"
     },
     {
@@ -1433,14 +1489,6 @@
       "onboard_time": 1741868123,
       "rank": 28,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 95575,
-      "num": 234676,
-      "word": "王曼昱3比0简彤娟",
-      "onboard_time": 1741933463,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 95192,
@@ -1651,14 +1699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 67001,
-      "num": 232327,
-      "word": "为什么很多人害怕学数学",
-      "onboard_time": 1741932323,
-      "rank": 19,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 65852,
       "num": 75043,
       "word": "一个月究竟瘦几斤才科学",
@@ -1747,12 +1787,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 49876,
-      "num": 157566,
-      "word": "AI预测今年最火的情侣礼物TOP10",
-      "onboard_time": 1741932263,
-      "rank": 38,
-      "category": "互联网"
+      "raw_hot": 49839,
+      "num": 198875,
+      "word": "线上线下抓药价差高达10倍",
+      "onboard_time": 1741934062,
+      "rank": 26,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 49417,
@@ -1761,6 +1801,14 @@
       "onboard_time": 1741872084,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45343,
+      "num": 198208,
+      "word": "检查260元全麻后遭加价3600元",
+      "onboard_time": 1741933162,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 43819,
@@ -1819,6 +1867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38400,
+      "num": 232184,
+      "word": "姚安娜时尚先锋大片",
+      "onboard_time": 1741932263,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 37874,
       "num": 294216,
       "word": "福克斯赛季报销",
@@ -1867,14 +1923,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 27806,
-      "num": 192810,
-      "word": "检查260元全麻后遭加价3600元",
-      "onboard_time": 1741933162,
-      "rank": 29,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 25754,
       "num": 67431,
       "word": "中俄伊北京会晤是中方最新外交努力",
@@ -1915,14 +1963,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 18976,
-      "num": 232184,
-      "word": "姚安娜时尚先锋大片",
-      "onboard_time": 1741932263,
-      "rank": 23,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 16772,
       "num": 24308,
       "word": "麦琳说节目播出后很长时间害怕出门",
@@ -1937,6 +1977,14 @@
       "onboard_time": 1741891394,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 16069,
+      "num": 196096,
+      "word": "医生视角下急诊室的一夜",
+      "onboard_time": 1741934003,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 14345,

@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1741933940242,
+  "endTime": 1741934737022,
   "band_list": [
     {
       "raw_hot": 21330054,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 2379911,
-      "num": 243520,
+      "num": 246790,
       "word": "金秀贤出国",
       "onboard_time": 1741930823,
       "rank": 10,
@@ -403,6 +403,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1794675,
+      "num": 244510,
+      "word": "韩娱地震",
+      "onboard_time": 1741930164,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1794531,
       "num": 1794531,
       "word": "董明珠暗讽有人靠炒高股价成了首富",
@@ -448,14 +456,6 @@
       "word": "曝金秀贤经纪人是性犯罪者",
       "onboard_time": 1741753284,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1703721,
-      "num": 241147,
-      "word": "韩娱地震",
-      "onboard_time": 1741930164,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -675,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1442285,
+      "num": 240001,
+      "word": "金秀贤回应Deepseek总结版",
+      "onboard_time": 1741933762,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1428646,
       "num": 564479,
       "word": "金秀贤想在41岁时和21岁的女孩结婚",
@@ -785,6 +793,14 @@
       "onboard_time": 1741751784,
       "rank": 8,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 1235970,
+      "num": 1235970,
+      "word": "雷总你在小米是做什么的",
+      "onboard_time": 1741930164,
+      "rank": 15,
+      "category": "互联网"
     },
     {
       "raw_hot": 1230823,
@@ -955,14 +971,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1120954,
-      "num": 1179352,
-      "word": "雷总你在小米是做什么的",
-      "onboard_time": 1741930164,
-      "rank": 15,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 1117559,
       "num": 1178809,
       "word": "三亚客房退订新规",
@@ -1024,14 +1032,6 @@
       "word": "徐睿知发文",
       "onboard_time": 1741822099,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1083964,
-      "num": 232588,
-      "word": "金秀贤回应Deepseek总结版",
-      "onboard_time": 1741933762,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -3556,11 +3556,19 @@
     },
     {
       "raw_hot": 395330,
-      "num": 232305,
+      "num": 278361,
       "word": "何炅黄磊探班张子枫的电影是这部",
       "onboard_time": 1741932623,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 392534,
+      "num": 293342,
+      "word": "景甜回应再演司藤类角色",
+      "onboard_time": 1741931003,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 391315,
@@ -3833,14 +3841,6 @@
       "onboard_time": 1741593500,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 362764,
-      "num": 293342,
-      "word": "景甜回应再演司藤类角色",
-      "onboard_time": 1741931003,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 362341,
@@ -5427,6 +5427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250308,
+      "num": 250308,
+      "word": "梁靖崑3比1战胜林高远",
+      "onboard_time": 1741931664,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 249820,
       "num": 249820,
       "word": "95后女教师勇救轻生男孩",
@@ -5489,14 +5497,6 @@
       "onboard_time": 1741603641,
       "rank": 18,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 245577,
-      "num": 245577,
-      "word": "梁靖崑3比1战胜林高远",
-      "onboard_time": 1741931664,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 245574,
@@ -5633,6 +5633,14 @@
       "onboard_time": 1741500262,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 239769,
+      "num": 239769,
+      "word": "DeepSeek回答能不能入手黄金",
+      "onboard_time": 1741933644,
+      "rank": 37,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 238140,
@@ -6947,6 +6955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198420,
+      "num": 198420,
+      "word": "翟子路真的学王星越挂锁了",
+      "onboard_time": 1741933162,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198380,
       "num": 255440,
       "word": "我叫赵出息定档",
@@ -7297,6 +7313,14 @@
       "onboard_time": 1741503261,
       "rank": 26,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 192001,
+      "num": 247978,
+      "word": "足金金饰价格刷新高",
+      "onboard_time": 1741934243,
+      "rank": 10,
+      "category": "财经"
     },
     {
       "raw_hot": 191880,
@@ -8011,6 +8035,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 176788,
+      "num": 193871,
+      "word": "沈月新中式写真",
+      "onboard_time": 1741933823,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 176632,
       "num": 235280,
       "word": "谁懂欧豪北上下跪这一下",
@@ -8587,6 +8619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166702,
+      "num": 232327,
+      "word": "为什么很多人害怕学数学",
+      "onboard_time": 1741932323,
+      "rank": 19,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 166632,
       "num": 290524,
       "word": "抠小米镀金车标是否构成刑事犯罪",
@@ -8737,6 +8777,14 @@
       "onboard_time": 1741781064,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164839,
+      "num": 164839,
+      "word": "A股大涨背后原因",
+      "onboard_time": 1741934003,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 164663,
@@ -8891,6 +8939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162589,
+      "num": 157566,
+      "word": "AI预测今年最火的情侣礼物TOP10",
+      "onboard_time": 1741932263,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 162272,
       "num": 162272,
       "word": "文都教育开除言论不当员工",
@@ -8944,6 +9000,14 @@
       "word": "林诗栋vs安宰贤",
       "onboard_time": 1741865725,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 161768,
+      "num": 236283,
+      "word": "王曼昱3比0简彤娟",
+      "onboard_time": 1741933463,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -9763,6 +9827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147831,
+      "num": 147831,
+      "word": "00后店长捡到手机狂拨30通电话找失主",
+      "onboard_time": 1741934182,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147720,
       "num": 147720,
       "word": "杨铭宇黄焖鸡回应被曝后厨乱象",
@@ -9809,6 +9881,14 @@
       "onboard_time": 1741669225,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146533,
+      "num": 239496,
+      "word": "Henry王俊凯同框",
+      "onboard_time": 1741933463,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 146462,
@@ -10659,14 +10739,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 134493,
-      "num": 194784,
-      "word": "翟子路真的学王星越挂锁了",
-      "onboard_time": 1741933162,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 134300,
       "num": 134300,
       "word": "贝林厄姆怒吼威尼修斯",
@@ -10803,14 +10875,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132101,
-      "num": 158715,
-      "word": "DeepSeek回答能不能入手黄金",
-      "onboard_time": 1741933644,
-      "rank": 37,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 131847,
       "num": 131847,
       "word": "八旬老人一次被拔9颗牙进ICU",
@@ -10873,14 +10937,6 @@
       "onboard_time": 1741779025,
       "rank": 16,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 131112,
-      "num": 131112,
-      "word": "沈月新中式写真",
-      "onboard_time": 1741933823,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 130735,
@@ -11361,6 +11417,14 @@
       "onboard_time": 1741598543,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123658,
+      "num": 123658,
+      "word": "汪东城也是cos上哪吒了",
+      "onboard_time": 1741934601,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 123634,
@@ -12164,7 +12228,7 @@
     },
     {
       "raw_hot": 114714,
-      "num": 114714,
+      "num": 224916,
       "word": "开展个人消费贷款纾困",
       "onboard_time": 1741930524,
       "rank": 47,
@@ -12963,14 +13027,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 104582,
-      "num": 232396,
-      "word": "Henry王俊凯同框",
-      "onboard_time": 1741933463,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 104564,
       "num": 255785,
       "word": "直播间喊爹妈演互撕套路老年人",
@@ -13601,14 +13657,6 @@
       "onboard_time": 1741590620,
       "rank": 44,
       "category": "数码"
-    },
-    {
-      "raw_hot": 95575,
-      "num": 234676,
-      "word": "王曼昱3比0简彤娟",
-      "onboard_time": 1741933463,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 95538,
@@ -14971,14 +15019,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 67001,
-      "num": 232327,
-      "word": "为什么很多人害怕学数学",
-      "onboard_time": 1741932323,
-      "rank": 19,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 66998,
       "num": 66998,
       "word": "dsn直播",
@@ -15715,12 +15755,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 49876,
-      "num": 157566,
-      "word": "AI预测今年最火的情侣礼物TOP10",
-      "onboard_time": 1741932263,
-      "rank": 38,
-      "category": "互联网"
+      "raw_hot": 49839,
+      "num": 198875,
+      "word": "线上线下抓药价差高达10倍",
+      "onboard_time": 1741934062,
+      "rank": 26,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 49535,
@@ -15857,6 +15897,14 @@
       "onboard_time": 1741813815,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45343,
+      "num": 198208,
+      "word": "检查260元全麻后遭加价3600元",
+      "onboard_time": 1741933162,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 45339,
@@ -16281,6 +16329,14 @@
       "onboard_time": 1741603882,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 38400,
+      "num": 232184,
+      "word": "姚安娜时尚先锋大片",
+      "onboard_time": 1741932263,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 38397,
@@ -16865,14 +16921,6 @@
       "onboard_time": 1741805775,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 27806,
-      "num": 192810,
-      "word": "检查260元全麻后遭加价3600元",
-      "onboard_time": 1741933162,
-      "rank": 29,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 27472,
@@ -17483,14 +17531,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 18976,
-      "num": 232184,
-      "word": "姚安娜时尚先锋大片",
-      "onboard_time": 1741932263,
-      "rank": 23,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 18636,
       "num": 590927,
       "word": "12届中国网络视听大会新闻发布会",
@@ -17657,6 +17697,14 @@
       "onboard_time": 1741891394,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 16069,
+      "num": 196096,
+      "word": "医生视角下急诊室的一夜",
+      "onboard_time": 1741934003,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 15883,
