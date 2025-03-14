@@ -1,0 +1,410 @@
+{
+  "runTime": 1741940989571,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 883987,
+        "num": 1141437,
+        "word": "因表情包爆火的他已离世多年",
+        "onboard_time": 1741936884,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 823994,
+        "num": 823994,
+        "word": "纽约特朗普大楼遭袭",
+        "onboard_time": 1741939644,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26407,
+        "num": 572062,
+        "word": "文化中国行解锁博物馆科技感新玩法",
+        "onboard_time": 1741921464,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 565078,
+        "num": 565078,
+        "word": "雷总你在小米是做什么的",
+        "onboard_time": 1741930164,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 496978,
+        "num": 496978,
+        "word": "中国台湾省",
+        "onboard_time": 1741880183,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 973872,
+        "num": 496194,
+        "word": "徐若晗回应牙齿争议",
+        "onboard_time": 1741936884,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 491381,
+        "num": 491381,
+        "word": "程序员盗取70多万学生信息转卖40万元",
+        "onboard_time": 1741935622,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 476014,
+        "num": 476014,
+        "word": "DeepSeek回答能不能入手黄金",
+        "onboard_time": 1741933644,
+        "rank": 7,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 44254,
+        "num": 463049,
+        "word": "用魔法打败魔法用AI识别AI",
+        "onboard_time": 1741939523,
+        "rank": 8,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 128913,
+        "num": 443697,
+        "word": "民进党当局甘当棋子定被弃之如敝履",
+        "onboard_time": 1741939461,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2365910,
+        "num": 420862,
+        "word": "金秀贤说谎了",
+        "onboard_time": 1741936462,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 476534,
+        "num": 406579,
+        "word": "刘耀文同意调解请求",
+        "onboard_time": 1741938923,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 814666,
+        "num": 396619,
+        "word": "韩娱地震",
+        "onboard_time": 1741930164,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378293,
+        "num": 378293,
+        "word": "悬赏千万寻子父亲得知找到儿子泪崩",
+        "onboard_time": 1741936523,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91950,
+        "num": 334604,
+        "word": "热度退去的麦子阿姨她去了哪里",
+        "onboard_time": 1741939821,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23768,
+        "num": 323259,
+        "word": "1610这么阔很有型",
+        "onboard_time": 1741938023,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 318165,
+        "num": 318165,
+        "word": "种地吧好像回归了第一季前的试拍",
+        "onboard_time": 1741939583,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280892,
+        "num": 280892,
+        "word": "卢靖姗最后一次见爸爸是婚礼",
+        "onboard_time": 1741936103,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218893,
+        "num": 254302,
+        "word": "戚薇李承铉这是我不花钱能听的吗",
+        "onboard_time": 1741940484,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175318,
+        "num": 239566,
+        "word": "7800元一根的玉米到底是谁在买",
+        "onboard_time": 1741935503,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1786612,
+        "num": 239463,
+        "word": "金秀贤曾要求全智贤换平底鞋被拒",
+        "onboard_time": 1741937664,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236495,
+        "num": 236495,
+        "word": "A股大涨背后原因",
+        "onboard_time": 1741934003,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 217419,
+        "num": 217419,
+        "word": "原来艺人之间也会做背调",
+        "onboard_time": 1741936884,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67665,
+        "num": 214108,
+        "word": "恋与制作人白起亮出肉垫",
+        "onboard_time": 1741939282,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22344,
+        "num": 212460,
+        "word": "老人被开通手机套餐叠加收费超7000元",
+        "onboard_time": 1741940842,
+        "rank": 24,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 237481,
+        "num": 212241,
+        "word": "戚薇在妻子很想李雪琴",
+        "onboard_time": 1741939345,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211869,
+        "num": 211869,
+        "word": "吃了6年的鸭货是在地下室做出来的",
+        "onboard_time": 1741937664,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207750,
+        "num": 207750,
+        "word": "明白小说里富家千金是什么样了",
+        "onboard_time": 1741936824,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 43219,
+        "num": 207554,
+        "word": "把住宅改为骨灰房违法吗",
+        "onboard_time": 1741940783,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156176,
+        "num": 207484,
+        "word": "白敬亭章若楠四手联弹",
+        "onboard_time": 1741926086,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207462,
+        "num": 207462,
+        "word": "足金金饰价格刷新高",
+        "onboard_time": 1741934243,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 206124,
+        "num": 206124,
+        "word": "费启鸣有照片你是真发啊",
+        "onboard_time": 1741935323,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149268,
+        "num": 149268,
+        "word": "海底捞一人食",
+        "onboard_time": 1741926627,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148389,
+        "num": 148389,
+        "word": "去图书馆一定要坐固定位置",
+        "onboard_time": 1741936523,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146361,
+        "num": 146361,
+        "word": "李泽言封存永恒与祝福",
+        "onboard_time": 1741940425,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138713,
+        "num": 138713,
+        "word": "苏醒精装朋友圈毛坯的人生",
+        "onboard_time": 1741939883,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129978,
+        "num": 129978,
+        "word": "何炅孙怡一个惯着她一个记性差",
+        "onboard_time": 1741936643,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131658,
+        "num": 129735,
+        "word": "姚政忍了一路终于发疯了",
+        "onboard_time": 1741939821,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129404,
+        "num": 129404,
+        "word": "深圳市监局回应翻新手机流入百亿补贴",
+        "onboard_time": 1741936523,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128934,
+        "num": 128934,
+        "word": "郭麒麟阎鹤祥同台",
+        "onboard_time": 1741939345,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122264,
+        "num": 122264,
+        "word": "肉铺老板绞肉绞断三根手指索赔顾客",
+        "onboard_time": 1741922905,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121598,
+        "num": 121598,
+        "word": "女厕排队不仅是效率问题",
+        "onboard_time": 1741936043,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117718,
+        "num": 117718,
+        "word": "8岁男童吃叶黄素软糖患干眼症",
+        "onboard_time": 1741927347,
+        "rank": 42,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 117704,
+        "num": 117704,
+        "word": "用命植树道歉信",
+        "onboard_time": 1741936583,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116204,
+        "num": 116204,
+        "word": "田嘉瑞在我手机里飞2天了",
+        "onboard_time": 1741940723,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115894,
+        "num": 115894,
+        "word": "卫枝不画漫画就要继承家产了",
+        "onboard_time": 1741938624,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114408,
+        "num": 114408,
+        "word": "王曼昱霸气一指制止闪光灯",
+        "onboard_time": 1741937904,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110387,
+        "num": 110387,
+        "word": "何炅黄磊探班张子枫的电影是这部",
+        "onboard_time": 1741932623,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104513,
+        "num": 104513,
+        "word": "梁靖崑林高远爆分",
+        "onboard_time": 1741938384,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102183,
+        "num": 102183,
+        "word": "12个提高代谢的方法",
+        "onboard_time": 1741939461,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记出席2025年全国两会纪实#"
+    }
+  }
+}
