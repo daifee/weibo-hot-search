@@ -1,0 +1,410 @@
+{
+  "runTime": 1742023308939,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1710959,
+        "num": 1710959,
+        "word": "美国正式确认将韩国列入敏感国家",
+        "onboard_time": 1742019202,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1406180,
+        "num": 1406180,
+        "word": "李嘉诚要卖43个港口给美国企业",
+        "onboard_time": 1742015364,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 90296,
+        "num": 1244753,
+        "word": "对待春耕这件事中国人有多认真",
+        "onboard_time": 1742015426,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1090023,
+        "num": 1090023,
+        "word": "315",
+        "onboard_time": 1741995499,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 774816,
+        "num": 774816,
+        "word": "大S今日下葬",
+        "onboard_time": 1742013984,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 702087,
+        "num": 702087,
+        "word": "演员张振寰去世",
+        "onboard_time": 1742014284,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 520220,
+        "num": 520220,
+        "word": "OpenAI称DeepSeek是另一个华为",
+        "onboard_time": 1742020703,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 428499,
+        "num": 428499,
+        "word": "哪吒2全球第5",
+        "onboard_time": 1742010684,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 389672,
+        "num": 389672,
+        "word": "李小冉问蔡明我哪里惹你不开心了吗",
+        "onboard_time": 1742022023,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371766,
+        "num": 371766,
+        "word": "男子点外卖发现商场店竟在菜市场",
+        "onboard_time": 1742021302,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1535003,
+        "num": 371471,
+        "word": "金秀贤中国台湾线下见面会照常进行",
+        "onboard_time": 1742021724,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 773447,
+        "num": 371286,
+        "word": "甜馨称想演电视但没自信",
+        "onboard_time": 1742017943,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 543100,
+        "num": 371285,
+        "word": "熙媛一路走好",
+        "onboard_time": 1742018783,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370979,
+        "num": 370979,
+        "word": "沪上阿姨曝光门店被立案调查",
+        "onboard_time": 1742012723,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 27910,
+        "num": 369747,
+        "word": "河南一律师庭前遭法警背铐受伤",
+        "onboard_time": 1742022624,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1078706,
+        "num": 356253,
+        "word": "金秀贤公开亲吻照元数据",
+        "onboard_time": 1742008944,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400742,
+        "num": 344592,
+        "word": "奚梦瑶和婆婆逛商场",
+        "onboard_time": 1742017105,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391298,
+        "num": 342385,
+        "word": "金赛纶19年没留过刘海",
+        "onboard_time": 1742011944,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334757,
+        "num": 334757,
+        "word": "张馨予把痘痘点成痣",
+        "onboard_time": 1742016565,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315609,
+        "num": 315609,
+        "word": "李嘉诚要卖港口官方转发莫天真勿糊涂",
+        "onboard_time": 1742010142,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311630,
+        "num": 311630,
+        "word": "孙颖莎顶住了",
+        "onboard_time": 1742016685,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 309490,
+        "num": 309490,
+        "word": "韩网热议日本7岁爱豆的见面会",
+        "onboard_time": 1742017105,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254866,
+        "num": 254866,
+        "word": "迪丽热巴盘发公主裙造型",
+        "onboard_time": 1742021842,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241298,
+        "num": 241298,
+        "word": "快餐店猪肉圆检出大量鸡肉",
+        "onboard_time": 1742020703,
+        "rank": 23,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 236720,
+        "num": 236720,
+        "word": "诺里斯夺得2025F1澳大利亚站杆位",
+        "onboard_time": 1742022204,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230120,
+        "num": 230120,
+        "word": "吒儿真的在改变世界",
+        "onboard_time": 1742011343,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 207695,
+        "num": 207695,
+        "word": "曝演员张振寰家中去世多日后被发现",
+        "onboard_time": 1742021783,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193518,
+        "num": 193518,
+        "word": "白鹿敖瑞鹏共创视频点赞1314万",
+        "onboard_time": 1742023284,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180392,
+        "num": 180392,
+        "word": "云南遇害司机下班后本要给孩子煮饭",
+        "onboard_time": 1742006842,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39596,
+        "num": 164960,
+        "word": "学外语软件官号频现性暗示词汇",
+        "onboard_time": 1742023164,
+        "rank": 29,
+        "category": "舆论监督,教育"
+      },
+      {
+        "raw_hot": 66508,
+        "num": 163561,
+        "word": "暗访诸暨珍珠市场乱象",
+        "onboard_time": 1742023164,
+        "rank": 30,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 163238,
+        "num": 163238,
+        "word": "宣传给孩子吃的原切牛排实为调理肉",
+        "onboard_time": 1742005522,
+        "rank": 31,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 159651,
+        "num": 159651,
+        "word": "骗子4个月发90万个诈骗快递",
+        "onboard_time": 1742011103,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147470,
+        "num": 147470,
+        "word": "免费领养套路多猫咪死了仍还贷",
+        "onboard_time": 1742016024,
+        "rank": 33,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 22791,
+        "num": 147285,
+        "word": "我帮武汉文旅给雷军交作业",
+        "onboard_time": 1742022742,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 147245,
+        "num": 147245,
+        "word": "北京供暖延长至3月17日24时",
+        "onboard_time": 1742021964,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144214,
+        "num": 144214,
+        "word": "小龙坎火锅回应315曝光问题",
+        "onboard_time": 1742006420,
+        "rank": 36,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 107909,
+        "num": 144042,
+        "word": "哪吒2再创中国电影历史",
+        "onboard_time": 1742022443,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144008,
+        "num": 144008,
+        "word": "OpenAI写信攻击DeepSeek",
+        "onboard_time": 1742020284,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 138339,
+        "num": 138339,
+        "word": "辛巴带货牛排被指存严重问题",
+        "onboard_time": 1742005221,
+        "rank": 39,
+        "category": "舆论监督,网红"
+      },
+      {
+        "raw_hot": 132125,
+        "num": 132125,
+        "word": "周思成说被田静看不起",
+        "onboard_time": 1742020463,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 130923,
+        "num": 130923,
+        "word": "有时候也想跪下来求自己别喝了",
+        "onboard_time": 1742023043,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129896,
+        "num": 129896,
+        "word": "住在65楼是什么体验",
+        "onboard_time": 1742014524,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126762,
+        "num": 126762,
+        "word": "香港长和要好好想想自己站在哪一边",
+        "onboard_time": 1742022322,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 125075,
+        "num": 125075,
+        "word": "55套送检美白化妆品全部汞超标",
+        "onboard_time": 1742019443,
+        "rank": 44,
+        "category": "舆论监督,美妆"
+      },
+      {
+        "raw_hot": 122464,
+        "num": 122464,
+        "word": "芦田爱菜出落得真好",
+        "onboard_time": 1742016143,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113020,
+        "num": 113020,
+        "word": "戚薇不能接受袜子内裤一起洗",
+        "onboard_time": 1741998861,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109837,
+        "num": 109837,
+        "word": "Angelababy资助徐玉坤",
+        "onboard_time": 1742006003,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108607,
+        "num": 108607,
+        "word": "都选B",
+        "onboard_time": 1742011402,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 108430,
+        "num": 108430,
+        "word": "吉赛尔邦辰抱三胎外出遛狗",
+        "onboard_time": 1742018902,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这些话语掷地有声#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742021011991,
+  "endTime": 1742023308939,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -979,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1710959,
+      "num": 1710959,
+      "word": "美国正式确认将韩国列入敏感国家",
+      "onboard_time": 1742019202,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1703080,
       "num": 350691,
       "word": "王一博假发",
@@ -1273,6 +1281,14 @@
       "onboard_time": 1741446624,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1535003,
+      "num": 371471,
+      "word": "金秀贤中国台湾线下见面会照常进行",
+      "onboard_time": 1742021724,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1531352,
@@ -1577,14 +1593,6 @@
       "onboard_time": 1741002919,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1377062,
-      "num": 1377062,
-      "word": "美国正式确认将韩国列入敏感国家",
-      "onboard_time": 1742019202,
-      "rank": 5,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1366244,
@@ -6547,6 +6555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 543100,
+      "num": 499393,
+      "word": "熙媛一路走好",
+      "onboard_time": 1742018783,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 542627,
       "num": 542627,
       "word": "如台独突破红线我们将采取断然措施",
@@ -6851,6 +6867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 520220,
+      "num": 520220,
+      "word": "OpenAI称DeepSeek是另一个华为",
+      "onboard_time": 1742020703,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 519945,
       "num": 1123064,
       "word": "站雷军背后的海尔总裁周云杰走红",
@@ -6929,14 +6953,6 @@
       "onboard_time": 1741602742,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 510922,
-      "num": 499393,
-      "word": "熙媛一路走好",
-      "onboard_time": 1742018783,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 510916,
@@ -9259,6 +9275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 389672,
+      "num": 389672,
+      "word": "李小冉问蔡明我哪里惹你不开心了吗",
+      "onboard_time": 1742022023,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 389529,
       "num": 389529,
       "word": "迪丽热巴加勒比女王造型",
@@ -9657,6 +9681,14 @@
       "onboard_time": 1741315760,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 371766,
+      "num": 371766,
+      "word": "男子点外卖发现商场店竟在菜市场",
+      "onboard_time": 1742021302,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 371669,
@@ -14035,6 +14067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 254866,
+      "num": 254866,
+      "word": "迪丽热巴盘发公主裙造型",
+      "onboard_time": 1742021842,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 254768,
       "num": 254768,
       "word": "赤字规模达到5.66万亿元",
@@ -14635,6 +14675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 241298,
+      "num": 250738,
+      "word": "快餐店猪肉圆检出大量鸡肉",
+      "onboard_time": 1742020703,
+      "rank": 23,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 241107,
       "num": 171103,
       "word": "张国伟意外受伤",
@@ -14865,6 +14913,14 @@
       "onboard_time": 1741592122,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 236720,
+      "num": 236720,
+      "word": "诺里斯夺得2025F1澳大利亚站杆位",
+      "onboard_time": 1742022204,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 236561,
@@ -17099,6 +17155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207695,
+      "num": 207695,
+      "word": "曝演员张振寰家中去世多日后被发现",
+      "onboard_time": 1742021783,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207685,
       "num": 207685,
       "word": "乌方不会承认任何被占领土属于俄罗斯",
@@ -18931,6 +18995,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 193518,
+      "num": 193518,
+      "word": "白鹿敖瑞鹏共创视频点赞1314万",
+      "onboard_time": 1742023284,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193461,
       "num": 248379,
       "word": "星舰飞船爆炸成超大烟花点亮夜空",
@@ -19985,14 +20057,6 @@
       "onboard_time": 1740975439,
       "rank": 9,
       "category": "民生新闻,国际时政"
-    },
-    {
-      "raw_hot": 186676,
-      "num": 186676,
-      "word": "OpenAI称DeepSeek是另一个华为",
-      "onboard_time": 1742020703,
-      "rank": 27,
-      "category": "互联网"
     },
     {
       "raw_hot": 186612,
@@ -26003,6 +26067,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 147245,
+      "num": 147245,
+      "word": "北京供暖延长至3月17日24时",
+      "onboard_time": 1742021964,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147191,
       "num": 147191,
       "word": "邓超看起来像极了本地人",
@@ -26585,6 +26657,14 @@
       "onboard_time": 1741595481,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144008,
+      "num": 447447,
+      "word": "OpenAI写信攻击DeepSeek",
+      "onboard_time": 1742020284,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 143973,
@@ -28843,6 +28923,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 130923,
+      "num": 130923,
+      "word": "有时候也想跪下来求自己别喝了",
+      "onboard_time": 1742023043,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130842,
       "num": 130842,
       "word": "米津玄师上海演唱会",
@@ -29601,6 +29689,14 @@
       "onboard_time": 1741242198,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126762,
+      "num": 126762,
+      "word": "香港长和要好好想想自己站在哪一边",
+      "onboard_time": 1742022322,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 126742,
@@ -33281,6 +33377,14 @@
       "onboard_time": 1741695803,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107909,
+      "num": 144042,
+      "word": "哪吒2再创中国电影历史",
+      "onboard_time": 1742022443,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 107902,
@@ -39107,6 +39211,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 66508,
+      "num": 163561,
+      "word": "暗访诸暨珍珠市场乱象",
+      "onboard_time": 1742023164,
+      "rank": 30,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 66463,
       "num": 233153,
       "word": "这树里到底有谁在啊",
@@ -40931,14 +41043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 51112,
-      "num": 250738,
-      "word": "快餐店猪肉圆检出大量鸡肉",
-      "onboard_time": 1742020703,
-      "rank": 23,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 50985,
       "num": 532976,
       "word": "15一斤回收小马宝莉卡换直播间卖",
@@ -42345,6 +42449,14 @@
       "onboard_time": 1741265780,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 39596,
+      "num": 164960,
+      "word": "学外语软件官号频现性暗示词汇",
+      "onboard_time": 1742023164,
+      "rank": 29,
+      "category": "舆论监督,教育"
     },
     {
       "raw_hot": 39563,
@@ -44011,6 +44123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27910,
+      "num": 369747,
+      "word": "河南一律师庭前遭法警背铐受伤",
+      "onboard_time": 1742022624,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27885,
       "num": 27885,
       "word": "于适又双叒叕有新身份",
@@ -44491,14 +44611,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 25514,
-      "num": 447447,
-      "word": "OpenAI写信攻击DeepSeek",
-      "onboard_time": 1742020284,
-      "rank": 9,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 25496,
       "num": 391450,
       "word": "夸克给的旅行计划太J了",
@@ -44921,6 +45033,14 @@
       "onboard_time": 1741131017,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 22791,
+      "num": 147285,
+      "word": "我帮武汉文旅给雷军交作业",
+      "onboard_time": 1742022742,
+      "rank": 34,
+      "category": "旅游"
     },
     {
       "raw_hot": 22773,
