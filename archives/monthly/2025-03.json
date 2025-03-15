@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742009411632,
+  "endTime": 1742010364827,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -211,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2859338,
+      "num": 2859338,
+      "word": "行测",
+      "onboard_time": 1742007442,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 2819755,
       "num": 805133,
       "word": "薛凯琪22号在音乐节哭了",
@@ -249,6 +257,14 @@
       "onboard_time": 1740808374,
       "rank": 6,
       "category": "艺人,健康医疗"
+    },
+    {
+      "raw_hot": 2712729,
+      "num": 480356,
+      "word": "金秀贤公开亲吻照元数据",
+      "onboard_time": 1742008944,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2704071,
@@ -313,14 +329,6 @@
       "onboard_time": 1740758299,
       "rank": 0,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 2450386,
-      "num": 480356,
-      "word": "金秀贤公开亲吻照元数据",
-      "onboard_time": 1742008944,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 2402076,
@@ -531,11 +539,11 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 2109786,
-      "num": 2109786,
-      "word": "行测",
-      "onboard_time": 1742007442,
-      "rank": 38,
+      "raw_hot": 2110879,
+      "num": 2110879,
+      "word": "省考",
+      "onboard_time": 1741995619,
+      "rank": 41,
       "category": "教育"
     },
     {
@@ -1393,14 +1401,6 @@
       "onboard_time": 1741728014,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1452489,
-      "num": 1452489,
-      "word": "省考",
-      "onboard_time": 1741995619,
-      "rank": 41,
-      "category": "教育"
     },
     {
       "raw_hot": 1450972,
@@ -4635,6 +4635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 695147,
+      "num": 426544,
+      "word": "前夫李厚霖否认家暴李湘",
+      "onboard_time": 1742009183,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 693321,
       "num": 339106,
       "word": "冉莹颖回应给儿子打生长激素",
@@ -5753,6 +5761,14 @@
       "onboard_time": 1740834983,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 592731,
+      "num": 423287,
+      "word": "秀智化妆六个小时只出镜3秒",
+      "onboard_time": 1742009244,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 592574,
@@ -8075,6 +8091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 432453,
+      "num": 432453,
+      "word": "省考答案",
+      "onboard_time": 1742009244,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 432117,
       "num": 353861,
       "word": "白敬亭换新发色了",
@@ -8681,6 +8705,14 @@
       "onboard_time": 1741570220,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 404233,
+      "num": 404233,
+      "word": "行测 做不完",
+      "onboard_time": 1742009663,
+      "rank": 20,
+      "category": "教育"
     },
     {
       "raw_hot": 404068,
@@ -9628,7 +9660,7 @@
     },
     {
       "raw_hot": 366150,
-      "num": 366150,
+      "num": 407041,
       "word": "才发现这些模特都是阿诺",
       "onboard_time": 1742007802,
       "rank": 34,
@@ -10451,6 +10483,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 341500,
+      "num": 594977,
+      "word": "省考招考向应届生倾斜",
+      "onboard_time": 1742008462,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 341112,
       "num": 341112,
       "word": "雷军说卖车的成功来得有点猝不及防",
@@ -11099,14 +11139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 321502,
-      "num": 321502,
-      "word": "前夫李厚霖否认家暴李湘",
-      "onboard_time": 1742009183,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 321492,
       "num": 321492,
       "word": "黄金",
@@ -11217,6 +11249,14 @@
       "onboard_time": 1740996618,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 318852,
+      "num": 318852,
+      "word": "政治理论",
+      "onboard_time": 1742008402,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 318762,
@@ -11595,14 +11635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 304773,
-      "num": 304773,
-      "word": "政治理论",
-      "onboard_time": 1742008402,
-      "rank": 18,
-      "category": "教育"
-    },
-    {
       "raw_hot": 304662,
       "num": 301938,
       "word": "周思成 何凯文",
@@ -11961,6 +11993,14 @@
       "onboard_time": 1741537280,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 297501,
+      "num": 297501,
+      "word": "小龙坎火锅回应315曝光问题",
+      "onboard_time": 1742006420,
+      "rank": 39,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 297145,
@@ -12825,14 +12865,6 @@
       "onboard_time": 1740904818,
       "rank": 25,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 275942,
-      "num": 275942,
-      "word": "小龙坎火锅回应315曝光问题",
-      "onboard_time": 1742006420,
-      "rank": 39,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 275669,
@@ -13769,6 +13801,14 @@
       "onboard_time": 1741954643,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 256554,
+      "num": 256554,
+      "word": "申论",
+      "onboard_time": 1742009364,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 255831,
@@ -15259,6 +15299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 226609,
+      "num": 226609,
+      "word": "湖北省考",
+      "onboard_time": 1742009183,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 226582,
       "num": 887308,
       "word": "陈梦谈休息耻辱",
@@ -15337,6 +15385,14 @@
       "onboard_time": 1741080743,
       "rank": 20,
       "category": "国际时政,国内时政"
+    },
+    {
+      "raw_hot": 225358,
+      "num": 421970,
+      "word": "官方通报一次性水桶循环使用",
+      "onboard_time": 1742008703,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 225357,
@@ -17723,6 +17779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199957,
+      "num": 199957,
+      "word": "银行代销保险乱象调查",
+      "onboard_time": 1742009423,
+      "rank": 36,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 199886,
       "num": 331098,
       "word": "A股",
@@ -17785,6 +17849,14 @@
       "onboard_time": 1741354703,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199548,
+      "num": 199548,
+      "word": "行测答案",
+      "onboard_time": 1742010022,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 199528,
@@ -17921,6 +17993,14 @@
       "onboard_time": 1741005981,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198433,
+      "num": 417136,
+      "word": "银行违规引入保险销售任由冒充职员",
+      "onboard_time": 1742009663,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 198420,
@@ -18217,14 +18297,6 @@
       "onboard_time": 1741957583,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 195991,
-      "num": 195991,
-      "word": "秀智化妆六个小时只出镜3秒",
-      "onboard_time": 1742009244,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 195971,
@@ -20161,14 +20233,6 @@
       "onboard_time": 1741572441,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 181650,
-      "num": 181650,
-      "word": "省考答案",
-      "onboard_time": 1742009244,
-      "rank": 37,
-      "category": "教育"
     },
     {
       "raw_hot": 181531,
@@ -22867,6 +22931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162928,
+      "num": 162928,
+      "word": "李嘉诚要卖港口官方转发莫天真勿糊涂",
+      "onboard_time": 1742010142,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162908,
       "num": 184307,
       "word": "以后每年春天都会想到爱你",
@@ -23433,14 +23505,6 @@
       "onboard_time": 1741161379,
       "rank": 37,
       "category": "国内时政,教育"
-    },
-    {
-      "raw_hot": 158944,
-      "num": 158944,
-      "word": "湖北省考",
-      "onboard_time": 1742009183,
-      "rank": 41,
-      "category": "教育"
     },
     {
       "raw_hot": 158920,
@@ -24769,6 +24833,14 @@
       "onboard_time": 1741441344,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 151980,
+      "num": 151980,
+      "word": "情绪成熟的7个表现",
+      "onboard_time": 1742009423,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 151891,
@@ -27347,14 +27419,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 137042,
-      "num": 594977,
-      "word": "省考招考向应届生倾斜",
-      "onboard_time": 1742008462,
-      "rank": 8,
-      "category": "教育"
-    },
-    {
       "raw_hot": 136918,
       "num": 247834,
       "word": "刘昊然早期精神状态好超前",
@@ -27689,6 +27753,14 @@
       "onboard_time": 1741860925,
       "rank": 44,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 134751,
+      "num": 134751,
+      "word": "敖光给敖丙刷牙",
+      "onboard_time": 1742010324,
+      "rank": 46,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 134601,
@@ -28513,14 +28585,6 @@
       "onboard_time": 1740896000,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 129413,
-      "num": 129413,
-      "word": "申论",
-      "onboard_time": 1742009364,
-      "rank": 45,
-      "category": "教育"
     },
     {
       "raw_hot": 129391,
@@ -35539,6 +35603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92093,
+      "num": 580631,
+      "word": "荐股群所谓内幕或是AI生成",
+      "onboard_time": 1742008764,
+      "rank": 9,
+      "category": "舆论监督,财经"
+    },
+    {
       "raw_hot": 92043,
       "num": 92043,
       "word": "浙江宁波杭甬高速一路段多车相撞",
@@ -35729,6 +35801,14 @@
       "onboard_time": 1741272502,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90710,
+      "num": 2001348,
+      "word": "诚信北京315",
+      "onboard_time": 1742007562,
+      "rank": 2,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 90681,
@@ -37699,14 +37779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 73250,
-      "num": 341453,
-      "word": "官方通报一次性水桶循环使用",
-      "onboard_time": 1742008703,
-      "rank": 14,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 73099,
       "num": 167363,
       "word": "俄防空部队一夜击落88架无人机",
@@ -37907,6 +37979,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 71068,
+      "num": 276677,
+      "word": "2025F1澳大利亚大奖赛",
+      "onboard_time": 1742010022,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71041,
       "num": 202498,
       "word": "东契奇为欧文祈祷",
@@ -37977,14 +38057,6 @@
       "onboard_time": 1741787665,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 70660,
-      "num": 580631,
-      "word": "荐股群所谓内幕或是AI生成",
-      "onboard_time": 1742008764,
-      "rank": 9,
-      "category": "舆论监督,财经"
     },
     {
       "raw_hot": 70572,
@@ -39867,14 +39939,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 54012,
-      "num": 1687189,
-      "word": "诚信北京315",
-      "onboard_time": 1742007562,
-      "rank": 2,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 53790,
       "num": 53790,
       "word": "74克企鹅吃吃睡睡到快1000克",
@@ -40193,6 +40257,14 @@
       "onboard_time": 1741103360,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 51456,
+      "num": 406663,
+      "word": "专家称金价或将继续上涨",
+      "onboard_time": 1742009423,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 51372,

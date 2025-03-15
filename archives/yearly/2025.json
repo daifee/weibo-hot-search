@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1742009411632,
+  "endTime": 1742010364827,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1923,6 +1923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2859338,
+      "num": 2859338,
+      "word": "行测",
+      "onboard_time": 1742007442,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 2858463,
       "num": 2858463,
       "word": "哪吒2票房破90亿",
@@ -2203,6 +2211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 2712729,
+      "num": 480356,
+      "word": "金秀贤公开亲吻照元数据",
+      "onboard_time": 1742008944,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2710585,
       "num": 503155,
       "word": "唐艺昕发与张若昀亲吻照",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1738989507,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2578366,
-      "num": 395633,
-      "word": "赵露思走不动想去捶打腿",
-      "onboard_time": 1735693338,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2570257,
-      "num": 2570257,
-      "word": "王一博精心打扮了",
-      "onboard_time": 1736584467,
-      "rank": 11,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
