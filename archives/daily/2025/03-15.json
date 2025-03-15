@@ -1,6 +1,6 @@
 {
   "startTime": 1741969737801,
-  "endTime": 1742028079094,
+  "endTime": 1742030543959,
   "band_list": [
     {
       "raw_hot": 3266055,
@@ -25,6 +25,14 @@
       "onboard_time": 1742008944,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2346539,
+      "num": 2346539,
+      "word": "申论",
+      "onboard_time": 1742009364,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 2211955,
@@ -89,6 +97,14 @@
       "onboard_time": 1742010684,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1475953,
+      "num": 1475953,
+      "word": "在山姆买到不合格糖果8年未能退赔",
+      "onboard_time": 1742025983,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1457823,
@@ -163,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 965408,
+      "num": 648064,
+      "word": "金秀贤掉Prada韩网盛赞中女",
+      "onboard_time": 1742025743,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 949527,
       "num": 378171,
       "word": "宋轶删除电视剧品质盛典官宣博",
@@ -176,14 +200,6 @@
       "word": "甜馨称想演电视但没自信",
       "onboard_time": 1742017943,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 903825,
-      "num": 397249,
-      "word": "金秀贤掉Prada韩网盛赞中女",
-      "onboard_time": 1742025743,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -299,6 +315,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 643682,
+      "num": 643682,
+      "word": "OpenAI称DeepSeek是另一个华为",
+      "onboard_time": 1742020703,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 628501,
+      "num": 628501,
+      "word": "申论大作文",
+      "onboard_time": 1742028623,
+      "rank": 12,
+      "category": "教育"
+    },
+    {
       "raw_hot": 611773,
       "num": 611773,
       "word": "李嘉诚要卖港口官方转发莫天真勿糊涂",
@@ -315,14 +347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 586326,
-      "num": 551390,
-      "word": "OpenAI称DeepSeek是另一个华为",
-      "onboard_time": 1742020703,
-      "rank": 27,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 582972,
       "num": 582972,
       "word": "主播称母亲迪拜公主吸引65万粉丝",
@@ -331,11 +355,11 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 551072,
-      "num": 551072,
-      "word": "在山姆买到不合格糖果8年未能退赔",
-      "onboard_time": 1742025983,
-      "rank": 22,
+      "raw_hot": 541255,
+      "num": 541255,
+      "word": "315晚会总导演爆料晚会看点",
+      "onboard_time": 1742027183,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -443,11 +467,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 448376,
-      "num": 448376,
-      "word": "申论",
-      "onboard_time": 1742009364,
-      "rank": 45,
+      "raw_hot": 442979,
+      "num": 309388,
+      "word": "申论 难",
+      "onboard_time": 1742029103,
+      "rank": 20,
       "category": "教育"
     },
     {
@@ -513,6 +537,14 @@
       "onboard_time": 1741952363,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 386061,
+      "num": 386061,
+      "word": "哪吒2破五",
+      "onboard_time": 1742027783,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 385181,
@@ -715,6 +747,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 261997,
+      "num": 648199,
+      "word": "周深在用自己的方式搞文化输出",
+      "onboard_time": 1742029044,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 259865,
       "num": 259865,
       "word": "白鹿敖瑞鹏共创视频点赞1314万",
@@ -809,6 +849,14 @@
       "onboard_time": 1742018723,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 227941,
+      "num": 227941,
+      "word": "卢昱晓公主头",
+      "onboard_time": 1742029283,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 226609,
@@ -963,6 +1011,14 @@
       "category": "剧集,时尚"
     },
     {
+      "raw_hot": 198010,
+      "num": 198010,
+      "word": "河南申论 没有大作文",
+      "onboard_time": 1742029584,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 196477,
       "num": 196477,
       "word": "河南省考",
@@ -995,6 +1051,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 193435,
+      "num": 193435,
+      "word": "JDG",
+      "onboard_time": 1742027844,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 193159,
       "num": 193159,
       "word": "你好星期六仙门打call哪家强",
@@ -1012,7 +1076,7 @@
     },
     {
       "raw_hot": 192900,
-      "num": 192900,
+      "num": 310196,
       "word": "退﻿400元商品要5600多运费",
       "onboard_time": 1742023642,
       "rank": 37,
@@ -1033,6 +1097,14 @@
       "onboard_time": 1742016565,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188691,
+      "num": 188691,
+      "word": "花1万块在意大利住到的诡异民宿",
+      "onboard_time": 1742027541,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 187713,
@@ -1115,14 +1187,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 176712,
-      "num": 176712,
-      "word": "JDG",
-      "onboard_time": 1742027844,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 175421,
       "num": 175421,
       "word": "网传小米SU7Ultra车主需承诺不飙车",
@@ -1203,19 +1267,19 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 165513,
-      "num": 165513,
-      "word": "315晚会总导演爆料晚会看点",
-      "onboard_time": 1742027183,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 165388,
       "num": 391811,
       "word": "四川一贪官担心被查患上抑郁症",
       "onboard_time": 1742012244,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165364,
+      "num": 165364,
+      "word": "三月下雪",
+      "onboard_time": 1742030184,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -1233,6 +1297,14 @@
       "onboard_time": 1742018004,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163021,
+      "num": 163021,
+      "word": "申论抄材料",
+      "onboard_time": 1742029943,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 162177,
@@ -1329,6 +1401,14 @@
       "onboard_time": 1742009423,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 151018,
+      "num": 197936,
+      "word": "嘘国王在冬眠限免",
+      "onboard_time": 1742026763,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 149728,
@@ -1451,14 +1531,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 138601,
-      "num": 138601,
-      "word": "嘘国王在冬眠限免",
-      "onboard_time": 1742026763,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 136522,
       "num": 500710,
       "word": "55套送检美白化妆品全部汞超标",
@@ -1539,6 +1611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120985,
+      "num": 120985,
+      "word": "省考总结",
+      "onboard_time": 1742029824,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 120977,
       "num": 120977,
       "word": "国防部回应日方舰艇过航台海",
@@ -1571,14 +1651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 118064,
-      "num": 118064,
-      "word": "花1万块在意大利住到的诡异民宿",
-      "onboard_time": 1742027541,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 118032,
       "num": 2001348,
       "word": "诚信北京315",
@@ -1593,14 +1665,6 @@
       "onboard_time": 1742012062,
       "rank": 14,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 116665,
-      "num": 152158,
-      "word": "哪吒2破五",
-      "onboard_time": 1742027783,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 115618,
@@ -1625,6 +1689,14 @@
       "onboard_time": 1741967123,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 113106,
+      "num": 113106,
+      "word": "哪吒2主创没想到能这么火",
+      "onboard_time": 1742029344,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 112025,
@@ -1745,6 +1817,14 @@
       "onboard_time": 1741998501,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 102830,
+      "num": 197496,
+      "word": "辽宁申论 后陡门",
+      "onboard_time": 1742030424,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 102481,
@@ -2083,6 +2163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 62200,
+      "num": 197590,
+      "word": "9岁男孩充值28笔游戏公司拒退",
+      "onboard_time": 1742029763,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 61926,
       "num": 211450,
       "word": "省考今天开考",
@@ -2144,6 +2232,14 @@
       "word": "河南一律师庭前遭法警背铐受伤",
       "onboard_time": 1742022624,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52182,
+      "num": 1260856,
+      "word": "今年以来消费市场亮点频现",
+      "onboard_time": 1742027722,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -2267,6 +2363,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 35019,
+      "num": 310965,
+      "word": "广东省考简单吗",
+      "onboard_time": 1742030003,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 32705,
       "num": 251658,
       "word": "加拿大新总理称入美论太疯狂",
@@ -2355,20 +2459,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21030,
+      "num": 330865,
+      "word": "保洁员1000元月薪被截留500元",
+      "onboard_time": 1742030123,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20981,
       "num": 87360,
       "word": "众火溯还之日",
       "onboard_time": 1741971799,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 20882,
-      "num": 1241280,
-      "word": "今年以来消费市场亮点频现",
-      "onboard_time": 1742027722,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19739,

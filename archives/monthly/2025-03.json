@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742028079094,
+  "endTime": 1742030543959,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -369,6 +369,14 @@
       "onboard_time": 1741861343,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2346539,
+      "num": 2346539,
+      "word": "申论",
+      "onboard_time": 1742009364,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 2345808,
@@ -1409,6 +1417,14 @@
       "onboard_time": 1741750644,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1475953,
+      "num": 1475953,
+      "word": "在山姆买到不合格糖果8年未能退赔",
+      "onboard_time": 1742025983,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1468757,
@@ -2931,6 +2947,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 965408,
+      "num": 648064,
+      "word": "金秀贤掉Prada韩网盛赞中女",
+      "onboard_time": 1742025743,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 963823,
       "num": 330221,
       "word": "手机尾号77777777拍出254.4万元",
@@ -3273,14 +3297,6 @@
       "onboard_time": 1741103179,
       "rank": 0,
       "category": "数码"
-    },
-    {
-      "raw_hot": 903825,
-      "num": 397249,
-      "word": "金秀贤掉Prada韩网盛赞中女",
-      "onboard_time": 1742025743,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 903225,
@@ -5251,6 +5267,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 643682,
+      "num": 643682,
+      "word": "OpenAI称DeepSeek是另一个华为",
+      "onboard_time": 1742020703,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 643580,
       "num": 299758,
       "word": "推特崩了",
@@ -5473,6 +5497,14 @@
       "onboard_time": 1741823963,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 628501,
+      "num": 628501,
+      "word": "申论大作文",
+      "onboard_time": 1742028623,
+      "rank": 12,
+      "category": "教育"
     },
     {
       "raw_hot": 628117,
@@ -6019,14 +6051,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 586326,
-      "num": 551390,
-      "word": "OpenAI称DeepSeek是另一个华为",
-      "onboard_time": 1742020703,
-      "rank": 27,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 585262,
       "num": 585262,
       "word": "泽连斯基愿意重返白宫进一步会谈",
@@ -6499,14 +6523,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 551072,
-      "num": 551072,
-      "word": "在山姆买到不合格糖果8年未能退赔",
-      "onboard_time": 1742025983,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 550933,
       "num": 368828,
       "word": "翟子路 太可怕了",
@@ -6624,6 +6640,14 @@
       "word": "山姆回应多批次牛奶疑似变质",
       "onboard_time": 1741836383,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 541255,
+      "num": 541255,
+      "word": "315晚会总导演爆料晚会看点",
+      "onboard_time": 1742027183,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -7987,14 +8011,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 448376,
-      "num": 448376,
-      "word": "申论",
-      "onboard_time": 1742009364,
-      "rank": 45,
-      "category": "教育"
-    },
-    {
       "raw_hot": 448103,
       "num": 285296,
       "word": "生命树 张哲华",
@@ -8081,6 +8097,14 @@
       "onboard_time": 1741243759,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 442979,
+      "num": 309388,
+      "word": "申论 难",
+      "onboard_time": 1742029103,
+      "rank": 20,
+      "category": "教育"
     },
     {
       "raw_hot": 442634,
@@ -9425,6 +9449,14 @@
       "onboard_time": 1740791419,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 386061,
+      "num": 386061,
+      "word": "哪吒2破五",
+      "onboard_time": 1742027783,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 385181,
@@ -13835,6 +13867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 261997,
+      "num": 648199,
+      "word": "周深在用自己的方式搞文化输出",
+      "onboard_time": 1742029044,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 261890,
       "num": 261890,
       "word": "王一博巴黎时装周秀场生图",
@@ -15537,6 +15577,14 @@
       "onboard_time": 1741245980,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 227941,
+      "num": 227941,
+      "word": "卢昱晓公主头",
+      "onboard_time": 1742029283,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 227712,
@@ -18491,6 +18539,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 198010,
+      "num": 198010,
+      "word": "河南申论 没有大作文",
+      "onboard_time": 1742029584,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 197865,
       "num": 337630,
       "word": "雷军反内耗神句",
@@ -19099,6 +19155,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 193435,
+      "num": 193435,
+      "word": "JDG",
+      "onboard_time": 1740815725,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 193366,
       "num": 209081,
       "word": "白敬亭章若楠第一次拥抱戏",
@@ -19228,7 +19292,7 @@
     },
     {
       "raw_hot": 192900,
-      "num": 192900,
+      "num": 310196,
       "word": "退﻿400元商品要5600多运费",
       "onboard_time": 1742023642,
       "rank": 37,
@@ -19745,6 +19809,14 @@
       "onboard_time": 1740812909,
       "rank": 29,
       "category": "健康医疗,艺人"
+    },
+    {
+      "raw_hot": 188691,
+      "num": 188691,
+      "word": "花1万块在意大利住到的诡异民宿",
+      "onboard_time": 1742027541,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 188671,
@@ -21305,14 +21377,6 @@
       "onboard_time": 1741933823,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 176712,
-      "num": 176712,
-      "word": "JDG",
-      "onboard_time": 1740815725,
-      "rank": 44,
-      "category": "电竞"
     },
     {
       "raw_hot": 176632,
@@ -23043,14 +23107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 165513,
-      "num": 165513,
-      "word": "315晚会总导演爆料晚会看点",
-      "onboard_time": 1742027183,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 165507,
       "num": 315810,
       "word": "王鹤棣回应大奉第二季",
@@ -23087,6 +23143,14 @@
       "num": 391811,
       "word": "四川一贪官担心被查患上抑郁症",
       "onboard_time": 1742012244,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165364,
+      "num": 165364,
+      "word": "三月下雪",
+      "onboard_time": 1741048040,
       "rank": 29,
       "category": "民生新闻"
     },
@@ -23441,6 +23505,14 @@
       "onboard_time": 1741924586,
       "rank": 22,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 163021,
+      "num": 163021,
+      "word": "申论抄材料",
+      "onboard_time": 1742029943,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 163002,
@@ -25619,20 +25691,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151018,
+      "num": 197936,
+      "word": "嘘国王在冬眠限免",
+      "onboard_time": 1742026763,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150996,
       "num": 150996,
       "word": "肖战粉丝G社生图",
       "onboard_time": 1740888859,
       "rank": 28,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 150955,
-      "num": 150955,
-      "word": "三月下雪",
-      "onboard_time": 1741048040,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 150851,
@@ -27889,14 +27961,6 @@
       "onboard_time": 1741757363,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 138601,
-      "num": 138601,
-      "word": "嘘国王在冬眠限免",
-      "onboard_time": 1742026763,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 138593,
@@ -31179,6 +31243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120985,
+      "num": 120985,
+      "word": "省考总结",
+      "onboard_time": 1742029824,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 120977,
       "num": 120977,
       "word": "国防部回应日方舰艇过航台海",
@@ -31731,14 +31803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118064,
-      "num": 118064,
-      "word": "花1万块在意大利住到的诡异民宿",
-      "onboard_time": 1742027541,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 118049,
       "num": 118049,
       "word": "外卖骑手已成城市民生保障重要力量",
@@ -31953,14 +32017,6 @@
       "onboard_time": 1741758686,
       "rank": 46,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 116665,
-      "num": 152158,
-      "word": "哪吒2破五",
-      "onboard_time": 1742027783,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 116657,
@@ -32609,6 +32665,14 @@
       "onboard_time": 1741273103,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 113106,
+      "num": 113106,
+      "word": "哪吒2主创没想到能这么火",
+      "onboard_time": 1742029344,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 112935,
@@ -34601,6 +34665,14 @@
       "onboard_time": 1741082063,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102830,
+      "num": 197496,
+      "word": "辽宁申论 后陡门",
+      "onboard_time": 1742030424,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 102821,
@@ -39907,6 +39979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 62200,
+      "num": 197590,
+      "word": "9岁男孩充值28笔游戏公司拒退",
+      "onboard_time": 1742029763,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 62194,
       "num": 62194,
       "word": "贝蒂斯2比1皇马",
@@ -41073,6 +41153,14 @@
       "onboard_time": 1740917239,
       "rank": 34,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 52182,
+      "num": 1260856,
+      "word": "今年以来消费市场亮点频现",
+      "onboard_time": 1742027722,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52051,
@@ -43323,6 +43411,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 35019,
+      "num": 310965,
+      "word": "广东省考简单吗",
+      "onboard_time": 1742030003,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 35000,
       "num": 295995,
       "word": "特朗普称将回应欧盟的反制关税",
@@ -45539,6 +45635,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 21030,
+      "num": 330865,
+      "word": "保洁员1000元月薪被截留500元",
+      "onboard_time": 1742030123,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20981,
       "num": 87360,
       "word": "众火溯还之日",
@@ -45553,14 +45657,6 @@
       "onboard_time": 1741122850,
       "rank": 38,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 20882,
-      "num": 1241280,
-      "word": "今年以来消费市场亮点频现",
-      "onboard_time": 1742027722,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20863,
