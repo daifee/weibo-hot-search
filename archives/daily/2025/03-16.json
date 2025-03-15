@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742070992292,
+  "endTime": 1742073746276,
   "band_list": [
     {
       "raw_hot": 9740375,
@@ -556,7 +556,7 @@
     },
     {
       "raw_hot": 45876,
-      "num": 51251,
+      "num": 90403,
       "word": "李小冉不跟张蔷一起住的原因",
       "onboard_time": 1742048854,
       "rank": 47,
@@ -576,6 +576,14 @@
       "word": "贝姿妍",
       "onboard_time": 1742067134,
       "rank": 43,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 37759,
+      "num": 71527,
+      "word": "卖增重虾仁公司负责人回应",
+      "onboard_time": 1742069236,
+      "rank": 21,
       "category": "舆论监督"
     },
     {
@@ -635,14 +643,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 31600,
-      "num": 71527,
-      "word": "卖增重虾仁公司负责人回应",
-      "onboard_time": 1742069236,
-      "rank": 21,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 29668,
       "num": 50522,
       "word": "2025年全英羽毛球公开赛",
@@ -683,6 +683,38 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 25470,
+      "num": 25470,
+      "word": "借贷宝成都总部大门已被贴封条",
+      "onboard_time": 1742072234,
+      "rank": 42,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 23432,
+      "num": 25282,
+      "word": "一次性内裤工作台也是工人餐桌",
+      "onboard_time": 1742070854,
+      "rank": 48,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 22783,
+      "num": 22783,
+      "word": "主播假冒央企人设套路老年人",
+      "onboard_time": 1742069355,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20030,
+      "num": 113740,
+      "word": "当地正执法调查翻新卫生巾纸尿裤",
+      "onboard_time": 1742072594,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 17475,
       "num": 51007,
       "word": "火爆热销的一次性内裤没有杀菌消毒",
@@ -697,14 +729,6 @@
       "onboard_time": 1742050532,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12889,
-      "num": 25282,
-      "word": "一次性内裤工作台也是工人餐桌",
-      "onboard_time": 1742070854,
-      "rank": 48,
-      "category": "舆论监督"
     }
   ],
   "hotgov_list": [
