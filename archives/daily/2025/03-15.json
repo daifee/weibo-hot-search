@@ -1,6 +1,6 @@
 {
   "startTime": 1741969737801,
-  "endTime": 1742007391444,
+  "endTime": 1742007973362,
   "band_list": [
     {
       "raw_hot": 1994853,
@@ -19,20 +19,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1504900,
+      "num": 443454,
+      "word": "当裴秀智被问到金秀贤宋仲基二选一",
+      "onboard_time": 1742007081,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1247839,
       "num": 1247839,
       "word": "小龙坎被曝回收鸭血等剩菜二次销售",
       "onboard_time": 1741998921,
       "rank": 4,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 1158633,
-      "num": 422877,
-      "word": "当裴秀智被问到金秀贤宋仲基二选一",
-      "onboard_time": 1742007081,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1158011,
@@ -115,12 +115,36 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 543108,
+      "num": 543108,
+      "word": "云南遇害司机下班后本要给孩子煮饭",
+      "onboard_time": 1742006842,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 538479,
       "num": 538479,
       "word": "辛巴带货牛排被指存严重问题",
       "onboard_time": 1742005221,
       "rank": 6,
       "category": "舆论监督,网红"
+    },
+    {
+      "raw_hot": 517786,
+      "num": 421947,
+      "word": "宣传给孩子吃的原切牛排实为调理肉",
+      "onboard_time": 1742005522,
+      "rank": 11,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 498271,
+      "num": 442162,
+      "word": "女子曝男子2次夜间骚扰掩面夺手机",
+      "onboard_time": 1742003781,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 484448,
@@ -171,12 +195,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 421947,
-      "num": 421947,
-      "word": "宣传给孩子吃的原切牛排实为调理肉",
-      "onboard_time": 1742005522,
-      "rank": 11,
-      "category": "舆论监督"
+      "raw_hot": 440539,
+      "num": 440539,
+      "word": "凡人修仙传",
+      "onboard_time": 1742005701,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 406783,
@@ -251,28 +275,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 345075,
-      "num": 345075,
-      "word": "凡人修仙传",
-      "onboard_time": 1742005701,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 339950,
       "num": 136840,
       "word": "金秀贤电影里的安昭熙秀智IU雪莉",
       "onboard_time": 1741975936,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 329540,
-      "num": 329540,
-      "word": "女子曝男子2次夜间骚扰掩面夺手机",
-      "onboard_time": 1742003781,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 307926,
@@ -347,6 +355,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 247472,
+      "num": 447953,
+      "word": "特朗普称ISIS头目被击毙",
+      "onboard_time": 1742006301,
+      "rank": 8,
+      "category": "国际时政,军事"
+    },
+    {
       "raw_hot": 234630,
       "num": 263935,
       "word": "王霏霏跟孙坚在上海P人游",
@@ -379,6 +395,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 193539,
+      "num": 193539,
+      "word": "小龙坎火锅回应315曝光问题",
+      "onboard_time": 1742006420,
+      "rank": 39,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 193159,
+      "num": 193159,
+      "word": "你好星期六仙门打call哪家强",
+      "onboard_time": 1742007922,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193142,
       "num": 193142,
       "word": "许府牛火锅牛骨高汤锅底系料包冲调",
@@ -401,14 +433,6 @@
       "onboard_time": 1741993518,
       "rank": 25,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 184903,
-      "num": 354126,
-      "word": "云南遇害司机下班后本要给孩子煮饭",
-      "onboard_time": 1742006842,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 184397,
@@ -451,6 +475,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 175421,
+      "num": 175421,
+      "word": "网传小米SU7Ultra车主需承诺不飙车",
+      "onboard_time": 1742005401,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 173258,
       "num": 173258,
       "word": "专家建议每孩1次性补贴10万",
@@ -465,14 +497,6 @@
       "onboard_time": 1742000483,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 169597,
-      "num": 169597,
-      "word": "网传小米SU7Ultra车主需承诺不飙车",
-      "onboard_time": 1742005401,
-      "rank": 35,
-      "category": "汽车"
     },
     {
       "raw_hot": 168892,
@@ -507,20 +531,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 156295,
+      "num": 156295,
+      "word": "行测",
+      "onboard_time": 1742007442,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 154302,
       "num": 154302,
       "word": "愿所有考生一路繁花",
       "onboard_time": 1742000781,
       "rank": 34,
       "category": "教育"
-    },
-    {
-      "raw_hot": 149994,
-      "num": 149994,
-      "word": "小龙坎火锅回应315曝光问题",
-      "onboard_time": 1742006420,
-      "rank": 39,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 149728,
@@ -563,12 +587,28 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 136456,
-      "num": 432050,
-      "word": "特朗普称ISIS头目被击毙",
-      "onboard_time": 1742006301,
-      "rank": 8,
-      "category": "国际时政,军事"
+      "raw_hot": 141376,
+      "num": 185218,
+      "word": "才发现这些模特都是阿诺",
+      "onboard_time": 1742007802,
+      "rank": 34,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 136402,
+      "num": 136402,
+      "word": "省考",
+      "onboard_time": 1741995619,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 133863,
+      "num": 257720,
+      "word": "尿频是肾虚吗",
+      "onboard_time": 1742006781,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 132705,
@@ -739,6 +779,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 101826,
+      "num": 257658,
+      "word": "全球市场大涨",
+      "onboard_time": 1742004261,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 101178,
       "num": 101178,
       "word": "美国龙飞船载4名宇航员飞往空间站",
@@ -761,6 +809,14 @@
       "onboard_time": 1741964903,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99713,
+      "num": 336636,
+      "word": "云南导游重新定义顾客就是上帝",
+      "onboard_time": 1742006541,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 98567,
@@ -801,14 +857,6 @@
       "onboard_time": 1741955722,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93728,
-      "num": 156718,
-      "word": "全球市场大涨",
-      "onboard_time": 1742004261,
-      "rank": 37,
-      "category": "财经"
     },
     {
       "raw_hot": 92828,
@@ -867,14 +915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88527,
-      "num": 257720,
-      "word": "尿频是肾虚吗",
-      "onboard_time": 1742006781,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 85727,
       "num": 85727,
       "word": "刘些宁跳舞",
@@ -921,6 +961,22 @@
       "onboard_time": 1741955902,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 69569,
+      "num": 447366,
+      "word": "男子自制电视机贴上品牌标签网上售卖",
+      "onboard_time": 1742006601,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 64755,
+      "num": 387673,
+      "word": "王艺迪vs早田希娜",
+      "onboard_time": 1742006661,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 61926,
@@ -987,14 +1043,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 49235,
-      "num": 336636,
-      "word": "云南导游重新定义顾客就是上帝",
-      "onboard_time": 1742006541,
-      "rank": 19,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 44688,
       "num": 51728,
       "word": "广州一栋楼美成草莓千层蛋糕",
@@ -1043,20 +1091,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 31444,
+      "raw_hot": 32705,
       "num": 251658,
       "word": "加拿大新总理称入美论太疯狂",
       "onboard_time": 1742006361,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 30093,
-      "num": 423239,
-      "word": "男子自制电视机贴上品牌标签网上售卖",
-      "onboard_time": 1742006601,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 29297,
@@ -1107,14 +1147,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21815,
-      "num": 364388,
-      "word": "王艺迪vs早田希娜",
-      "onboard_time": 1742006661,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 20981,
       "num": 87360,
       "word": "众火溯还之日",
@@ -1137,6 +1169,14 @@
       "onboard_time": 1741988834,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17391,
+      "num": 840885,
+      "word": "诚信北京315",
+      "onboard_time": 1742007562,
+      "rank": 2,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 15718,
