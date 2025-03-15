@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742059147583,
+  "endTime": 1742060300844,
   "band_list": [
     {
       "raw_hot": 9740375,
@@ -75,6 +75,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1599175,
+      "num": 1599175,
+      "word": "央视还原胖猫事件真相",
+      "onboard_time": 1742042191,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1577409,
       "num": 1577409,
       "word": "一次性内裤爆雷",
@@ -89,14 +97,6 @@
       "onboard_time": 1742048012,
       "rank": 11,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 1234922,
-      "num": 1234922,
-      "word": "央视还原胖猫事件真相",
-      "onboard_time": 1742042191,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1181663,
@@ -177,6 +177,14 @@
       "onboard_time": 1742049693,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 484109,
+      "num": 484109,
+      "word": "自由点报案",
+      "onboard_time": 1742057362,
+      "rank": 22,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 477321,
@@ -291,14 +299,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 312059,
-      "num": 312059,
-      "word": "自由点报案",
-      "onboard_time": 1742057362,
-      "rank": 22,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 305259,
       "num": 305259,
       "word": "多个卫生巾品牌直播间停播",
@@ -352,6 +352,14 @@
       "word": "一次性内裤徒手制作不灭菌",
       "onboard_time": 1742042550,
       "rank": 43,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 263603,
+      "num": 879500,
+      "word": "如何区别劣质卫生巾",
+      "onboard_time": 1742058980,
+      "rank": 41,
       "category": "舆论监督"
     },
     {
@@ -411,20 +419,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 155758,
-      "num": 155758,
-      "word": "如何区别劣质卫生巾",
-      "onboard_time": 1742058980,
-      "rank": 41,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 154690,
       "num": 222197,
       "word": "TF家族",
       "onboard_time": 1742057003,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137385,
+      "num": 175650,
+      "word": "王力宏说是南昌拉了我一把",
+      "onboard_time": 1742059760,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 135862,
@@ -457,6 +465,14 @@
       "onboard_time": 1742052628,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 101306,
+      "num": 101306,
+      "word": "所谓点击抽大奖实为敛财套路",
+      "onboard_time": 1742051852,
+      "rank": 47,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 93952,
