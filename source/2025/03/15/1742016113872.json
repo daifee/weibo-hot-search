@@ -1,0 +1,410 @@
+{
+  "runTime": 1742016113872,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1910892,
+        "num": 1910892,
+        "word": "315",
+        "onboard_time": 1741995499,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1457823,
+        "num": 1457823,
+        "word": "都选B",
+        "onboard_time": 1742011402,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 41094,
+        "num": 1424971,
+        "word": "对待春耕这件事中国人有多认真",
+        "onboard_time": 1742015426,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1399157,
+        "num": 1399157,
+        "word": "演员张振寰去世",
+        "onboard_time": 1742014284,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 791949,
+        "num": 791949,
+        "word": "哪吒2全球第5",
+        "onboard_time": 1742010684,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 734701,
+        "num": 734701,
+        "word": "沪上阿姨曝光门店被立案调查",
+        "onboard_time": 1742012723,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 611773,
+        "num": 611773,
+        "word": "李嘉诚要卖港口官方转发莫天真勿糊涂",
+        "onboard_time": 1742010142,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 554235,
+        "num": 554235,
+        "word": "云南遇害司机下班后本要给孩子煮饭",
+        "onboard_time": 1742006842,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206101,
+        "num": 551282,
+        "word": "李嘉诚要卖43个港口给美国企业",
+        "onboard_time": 1742015364,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 23322,
+        "num": 550178,
+        "word": "周思成谈考研保录骗局",
+        "onboard_time": 1742015545,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 3266055,
+        "num": 546241,
+        "word": "大S今日下葬",
+        "onboard_time": 1742013984,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 518189,
+        "num": 541988,
+        "word": "吒儿真的在改变世界",
+        "onboard_time": 1742011343,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1863577,
+        "num": 540317,
+        "word": "金秀贤公开亲吻照元数据",
+        "onboard_time": 1742008944,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41461,
+        "num": 535806,
+        "word": "高照祝你笔试第一面试第一",
+        "onboard_time": 1742015064,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 26461,
+        "num": 532976,
+        "word": "15一斤回收小马宝莉卡换直播间卖",
+        "onboard_time": 1742015606,
+        "rank": 14,
+        "category": "舆论监督,动漫"
+      },
+      {
+        "raw_hot": 880352,
+        "num": 530910,
+        "word": "金赛纶19年没留过刘海",
+        "onboard_time": 1742011944,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 528755,
+        "num": 528755,
+        "word": "行测",
+        "onboard_time": 1742007442,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 652219,
+        "num": 515156,
+        "word": "当裴秀智被问到金秀贤宋仲基二选一",
+        "onboard_time": 1742007081,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357071,
+        "num": 472070,
+        "word": "Angelababy资助徐玉坤",
+        "onboard_time": 1742006003,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20424,
+        "num": 453488,
+        "word": "德邦快递的智能客服成添堵客服",
+        "onboard_time": 1742015426,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 448789,
+        "num": 448789,
+        "word": "前夫李厚霖否认家暴李湘",
+        "onboard_time": 1742009183,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410302,
+        "num": 410302,
+        "word": "申论",
+        "onboard_time": 1742009364,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 404464,
+        "num": 404464,
+        "word": "省考",
+        "onboard_time": 1741995619,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 357012,
+        "num": 357012,
+        "word": "小龙坎火锅回应315曝光问题",
+        "onboard_time": 1742006420,
+        "rank": 23,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 292206,
+        "num": 292206,
+        "word": "戚薇不能接受袜子内裤一起洗",
+        "onboard_time": 1741998861,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206427,
+        "num": 231475,
+        "word": "时代少年团将录制疯狂的麦咭",
+        "onboard_time": 1742015364,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204664,
+        "num": 230946,
+        "word": "余生请多指教开播3周年",
+        "onboard_time": 1742015243,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230909,
+        "num": 230909,
+        "word": "秀智化妆六个小时只出镜3秒",
+        "onboard_time": 1742009244,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160087,
+        "num": 221398,
+        "word": "赵晴蓝色人鱼姬",
+        "onboard_time": 1742015243,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49428,
+        "num": 219570,
+        "word": "宝妈花36元体验祛妊娠纹被套路36万",
+        "onboard_time": 1742015844,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 218899,
+        "num": 218899,
+        "word": "住在65楼是什么体验",
+        "onboard_time": 1742014524,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217244,
+        "num": 217244,
+        "word": "92岁江浙沪男孩上海的一日账单",
+        "onboard_time": 1742013923,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216153,
+        "num": 216153,
+        "word": "骗子4个月发90万个诈骗快递",
+        "onboard_time": 1742011103,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213278,
+        "num": 213278,
+        "word": "行测 做不完",
+        "onboard_time": 1742009663,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 85310,
+        "num": 210598,
+        "word": "免费领养套路多猫咪死了仍还贷",
+        "onboard_time": 1742016024,
+        "rank": 34,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 209675,
+        "num": 209675,
+        "word": "宣传给孩子吃的原切牛排实为调理肉",
+        "onboard_time": 1742005522,
+        "rank": 35,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 199290,
+        "num": 208773,
+        "word": "董思成黄杨钿甜合体首封",
+        "onboard_time": 1742014945,
+        "rank": 36,
+        "category": "剧集,时尚"
+      },
+      {
+        "raw_hot": 208408,
+        "num": 208408,
+        "word": "湖北省考 全员鄂人",
+        "onboard_time": 1742014344,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 203518,
+        "num": 203518,
+        "word": "WTT",
+        "onboard_time": 1742014945,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199899,
+        "num": 199899,
+        "word": "上午涂彩票 下午抄材料",
+        "onboard_time": 1742014704,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 172083,
+        "num": 172083,
+        "word": "汪峰女友森林北否认怀孕",
+        "onboard_time": 1742015903,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76225,
+        "num": 168564,
+        "word": "布朗尼替父出征",
+        "onboard_time": 1742012483,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168353,
+        "num": 168353,
+        "word": "辛巴带货牛排被指存严重问题",
+        "onboard_time": 1742005221,
+        "rank": 42,
+        "category": "舆论监督,网红"
+      },
+      {
+        "raw_hot": 164138,
+        "num": 164138,
+        "word": "117岁去世老人身上发现长寿秘密",
+        "onboard_time": 1741997361,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163515,
+        "num": 163515,
+        "word": "戚薇胡静怼董力",
+        "onboard_time": 1742010445,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162121,
+        "num": 162121,
+        "word": "穆雷绝杀湖人专业户",
+        "onboard_time": 1742015903,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158546,
+        "num": 158546,
+        "word": "帅哥王安宇返场",
+        "onboard_time": 1742015783,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57099,
+        "num": 157479,
+        "word": "2025F1澳大利亚大奖赛",
+        "onboard_time": 1742010022,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157223,
+        "num": 157223,
+        "word": "蒋敦豪我有九个异父异母的兄弟",
+        "onboard_time": 1742013864,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134509,
+        "num": 156900,
+        "word": "李隼说我愿意用生命去换金牌",
+        "onboard_time": 1742016024,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这些话语掷地有声#"
+    }
+  }
+}
