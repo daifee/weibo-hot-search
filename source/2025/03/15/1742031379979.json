@@ -1,0 +1,410 @@
+{
+  "runTime": 1742031379979,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1681493,
+        "num": 1681493,
+        "word": "申论",
+        "onboard_time": 1742028202,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1359535,
+        "num": 1359535,
+        "word": "在山姆买到不合格糖果8年未能退赔",
+        "onboard_time": 1742025983,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52441,
+        "num": 1125464,
+        "word": "今年以来消费市场亮点频现",
+        "onboard_time": 1742027722,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1077047,
+        "num": 1077047,
+        "word": "315",
+        "onboard_time": 1741995499,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1026651,
+        "num": 1026651,
+        "word": "美国正式确认将韩国列入敏感国家",
+        "onboard_time": 1742019202,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 731330,
+        "num": 731330,
+        "word": "北京下雪",
+        "onboard_time": 1742024902,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 697178,
+        "num": 697178,
+        "word": "315晚会总导演爆料晚会看点",
+        "onboard_time": 1742027183,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 601576,
+        "num": 601576,
+        "word": "申论大作文",
+        "onboard_time": 1742028623,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 504490,
+        "num": 568627,
+        "word": "哪吒2破五",
+        "onboard_time": 1742027783,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 356813,
+        "num": 567172,
+        "word": "周深在用自己的方式搞文化输出",
+        "onboard_time": 1742029044,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 917593,
+        "num": 567094,
+        "word": "金秀贤掉Prada韩网盛赞中女",
+        "onboard_time": 1742025743,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 566998,
+        "num": 566998,
+        "word": "男子兑奖时又刮出头奖100万",
+        "onboard_time": 1742024183,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 558149,
+        "num": 558149,
+        "word": "申论 难",
+        "onboard_time": 1742029103,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 342114,
+        "num": 557957,
+        "word": "演员张振寰去世",
+        "onboard_time": 1742014284,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51507,
+        "num": 556447,
+        "word": "保洁员1000元月薪被截留500元",
+        "onboard_time": 1742030123,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306115,
+        "num": 556226,
+        "word": "白敬亭章若楠真有双人写真",
+        "onboard_time": 1742025442,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237878,
+        "num": 555402,
+        "word": "邓为新剧班底",
+        "onboard_time": 1742025322,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168062,
+        "num": 554423,
+        "word": "辽宁申论 后陡门",
+        "onboard_time": 1742030424,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 91440,
+        "num": 552964,
+        "word": "120元半斤的牦牛肉干是纯猪肉做的",
+        "onboard_time": 1742030603,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 277991,
+        "num": 552058,
+        "word": "退﻿400元商品要5600多运费",
+        "onboard_time": 1742023642,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 551796,
+        "num": 551796,
+        "word": "OpenAI称DeepSeek是另一个华为",
+        "onboard_time": 1742020703,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 147388,
+        "num": 541052,
+        "word": "北京供暖延长至3月17日24时",
+        "onboard_time": 1742021964,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 755774,
+        "num": 540928,
+        "word": "金秀贤明洞街头海报换成了张元英",
+        "onboard_time": 1742031143,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 537767,
+        "num": 537767,
+        "word": "李嘉诚要卖43个港口给美国企业",
+        "onboard_time": 1742015364,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 208702,
+        "num": 511816,
+        "word": "李小冉问蔡明我哪里惹你不开心了吗",
+        "onboard_time": 1742022023,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181252,
+        "num": 471916,
+        "word": "王星越实名羡慕北京的朋友",
+        "onboard_time": 1742030545,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142101,
+        "num": 443854,
+        "word": "嘘国王在冬眠限免",
+        "onboard_time": 1742026763,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117646,
+        "num": 412729,
+        "word": "迪丽热巴盘发公主裙造型",
+        "onboard_time": 1742021842,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77565,
+        "num": 353966,
+        "word": "9岁男孩充值28笔游戏公司拒退",
+        "onboard_time": 1742029763,
+        "rank": 28,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 30847,
+        "num": 316198,
+        "word": "石雷鹏否认发竞品黑贴",
+        "onboard_time": 1742030603,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 310269,
+        "num": 310269,
+        "word": "甜馨称想演电视但没自信",
+        "onboard_time": 1742017943,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246197,
+        "num": 246197,
+        "word": "卢昱晓公主头",
+        "onboard_time": 1742029283,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13255,
+        "num": 241094,
+        "word": "315晚会聚焦共铸诚信提振消费",
+        "onboard_time": 1742031203,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237506,
+        "num": 237506,
+        "word": "花1万块在意大利住到的诡异民宿",
+        "onboard_time": 1742027541,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 234335,
+        "num": 234335,
+        "word": "河南申论 没有大作文",
+        "onboard_time": 1742029584,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 228709,
+        "num": 228709,
+        "word": "深圳暴雨",
+        "onboard_time": 1742023583,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72815,
+        "num": 200779,
+        "word": "孙颖莎大藤沙月爆分",
+        "onboard_time": 1742031265,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195307,
+        "num": 195307,
+        "word": "三月下雪",
+        "onboard_time": 1742030184,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111094,
+        "num": 175560,
+        "word": "曝演员张振寰家中去世多日后被发现",
+        "onboard_time": 1742021783,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 8357,
+        "num": 174972,
+        "word": "我帮武汉文旅给雷军交作业",
+        "onboard_time": 1742022742,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 174472,
+        "num": 174472,
+        "word": "申论抄材料",
+        "onboard_time": 1742029943,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 168922,
+        "num": 168922,
+        "word": "有时候也想跪下来求自己别喝了",
+        "onboard_time": 1742023043,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168347,
+        "num": 168347,
+        "word": "考研和考公哪个更有性价比",
+        "onboard_time": 1742030785,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 164812,
+        "num": 164812,
+        "word": "JDG",
+        "onboard_time": 1742027844,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151462,
+        "num": 151462,
+        "word": "李嘉诚要卖港口官方转发莫天真勿糊涂",
+        "onboard_time": 1742010142,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40043,
+        "num": 144643,
+        "word": "广东省考简单吗",
+        "onboard_time": 1742030003,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 143925,
+        "num": 143925,
+        "word": "孙颖莎顶住了",
+        "onboard_time": 1742016685,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108718,
+        "num": 140251,
+        "word": "韩网热议日本7岁爱豆的见面会",
+        "onboard_time": 1742017105,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139920,
+        "num": 139920,
+        "word": "考研圈 315",
+        "onboard_time": 1742030964,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 131552,
+        "num": 131552,
+        "word": "沪上阿姨曝光门店被立案调查",
+        "onboard_time": 1742012723,
+        "rank": 49,
+        "category": "舆论监督"
+      }
+    ],
+    "hotgov": {
+      "word": "#稳步扩大制度型开放#"
+    }
+  }
+}
