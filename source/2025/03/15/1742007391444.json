@@ -1,0 +1,410 @@
+{
+  "runTime": 1742007391444,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1928257,
+        "num": 1928257,
+        "word": "315",
+        "onboard_time": 1741995499,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1056090,
+        "num": 1056090,
+        "word": "小龙坎被曝回收鸭血等剩菜二次销售",
+        "onboard_time": 1741998921,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 29587,
+        "num": 915112,
+        "word": "我国各区域外贸开年成绩单出炉",
+        "onboard_time": 1741959144,
+        "rank": 2,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 905082,
+        "num": 905082,
+        "word": "戚薇不能接受袜子内裤一起洗",
+        "onboard_time": 1741998861,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 793521,
+        "num": 793521,
+        "word": "Angelababy资助徐玉坤",
+        "onboard_time": 1742006003,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 582972,
+        "num": 582972,
+        "word": "主播称母亲迪拜公主吸引65万粉丝",
+        "onboard_time": 1742001022,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 538479,
+        "num": 538479,
+        "word": "辛巴带货牛排被指存严重问题",
+        "onboard_time": 1742005221,
+        "rank": 6,
+        "category": "舆论监督,网红"
+      },
+      {
+        "raw_hot": 476993,
+        "num": 476993,
+        "word": "女子遗落手机称下车1分钟后被关机",
+        "onboard_time": 1742002162,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136456,
+        "num": 432050,
+        "word": "特朗普称ISIS头目被击毙",
+        "onboard_time": 1742006301,
+        "rank": 8,
+        "category": "国际时政,军事"
+      },
+      {
+        "raw_hot": 30093,
+        "num": 423239,
+        "word": "男子自制电视机贴上品牌标签网上售卖",
+        "onboard_time": 1742006601,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1158633,
+        "num": 422877,
+        "word": "当裴秀智被问到金秀贤宋仲基二选一",
+        "onboard_time": 1742007081,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421947,
+        "num": 421947,
+        "word": "宣传给孩子吃的原切牛排实为调理肉",
+        "onboard_time": 1742005522,
+        "rank": 11,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 402843,
+        "num": 402843,
+        "word": "周深说哪吒2的成功给大家很多信心",
+        "onboard_time": 1742000842,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 21815,
+        "num": 364388,
+        "word": "王艺迪vs早田希娜",
+        "onboard_time": 1742006661,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184903,
+        "num": 354126,
+        "word": "云南遇害司机下班后本要给孩子煮饭",
+        "onboard_time": 1742006842,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 576250,
+        "num": 353752,
+        "word": "最早曝金秀贤金赛纶恋爱的记者已去世",
+        "onboard_time": 1741966104,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345075,
+        "num": 345075,
+        "word": "凡人修仙传",
+        "onboard_time": 1742005701,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343853,
+        "num": 343853,
+        "word": "Prada5年内已塌房7位代言人",
+        "onboard_time": 1741969881,
+        "rank": 17,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 300381,
+        "num": 339428,
+        "word": "刘亦菲和助理逛街被偶遇",
+        "onboard_time": 1742004082,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49235,
+        "num": 336636,
+        "word": "云南导游重新定义顾客就是上帝",
+        "onboard_time": 1742006541,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 336192,
+        "num": 336192,
+        "word": "火的其实是阿拉蕾",
+        "onboard_time": 1741999881,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335389,
+        "num": 335389,
+        "word": "虞书欣 你可别吓我了",
+        "onboard_time": 1742001862,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 329848,
+        "num": 329848,
+        "word": "男子拿100克金钞以690元1克变现",
+        "onboard_time": 1741997361,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329543,
+        "num": 329543,
+        "word": "117岁去世老人身上发现长寿秘密",
+        "onboard_time": 1741997361,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329540,
+        "num": 329540,
+        "word": "女子曝男子2次夜间骚扰掩面夺手机",
+        "onboard_time": 1742003781,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315380,
+        "num": 315380,
+        "word": "宋轶删除电视剧品质盛典官宣博",
+        "onboard_time": 1741964783,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298656,
+        "num": 298656,
+        "word": "当事人回应保时捷加500元油后逃单",
+        "onboard_time": 1742005221,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279229,
+        "num": 279229,
+        "word": "胖东来红内裤当事人道歉",
+        "onboard_time": 1741962563,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88527,
+        "num": 257720,
+        "word": "尿频是肾虚吗",
+        "onboard_time": 1742006781,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 31444,
+        "num": 251658,
+        "word": "加拿大新总理称入美论太疯狂",
+        "onboard_time": 1742006361,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 81868,
+        "num": 250930,
+        "word": "Homme回应TES比赛失利",
+        "onboard_time": 1742001922,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 250760,
+        "num": 250760,
+        "word": "沪上阿姨改过期标签食材被人为延寿",
+        "onboard_time": 1742001800,
+        "rank": 31,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 214483,
+        "num": 214483,
+        "word": "不止315更要365",
+        "onboard_time": 1741997120,
+        "rank": 32,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 198550,
+        "num": 198550,
+        "word": "K总老家办婚礼被堵门生气",
+        "onboard_time": 1741971560,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 188821,
+        "num": 188821,
+        "word": "龙飞船将接回美2名被困太空宇航员",
+        "onboard_time": 1741996759,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 169597,
+        "num": 169597,
+        "word": "网传小米SU7Ultra车主需承诺不飙车",
+        "onboard_time": 1742005401,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 163557,
+        "num": 163557,
+        "word": "向佐在35度的新加坡穿羽绒服",
+        "onboard_time": 1742000483,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93728,
+        "num": 156718,
+        "word": "全球市场大涨",
+        "onboard_time": 1742004261,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 152692,
+        "num": 152692,
+        "word": "沈阳要求小米su7ultra车主签安全承诺书",
+        "onboard_time": 1741997480,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149994,
+        "num": 149994,
+        "word": "小龙坎火锅回应315曝光问题",
+        "onboard_time": 1742006420,
+        "rank": 39,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 149728,
+        "num": 149728,
+        "word": "湖人vs掘金",
+        "onboard_time": 1742005581,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145176,
+        "num": 145176,
+        "word": "檀健次演的生理性眼肌反应",
+        "onboard_time": 1741963943,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143919,
+        "num": 143919,
+        "word": "胖东来红内裤当事人称遭恐吓",
+        "onboard_time": 1742002941,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142294,
+        "num": 142294,
+        "word": "特朗普被女记者用麦克风怼脸",
+        "onboard_time": 1742005401,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141667,
+        "num": 141667,
+        "word": "谢浩男被人贩子藏在出租屋整整3天",
+        "onboard_time": 1741998861,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137741,
+        "num": 137741,
+        "word": "国际消费者权益日",
+        "onboard_time": 1742003482,
+        "rank": 45,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 132478,
+        "num": 132478,
+        "word": "章若楠偶遇温以凡点点",
+        "onboard_time": 1742004442,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128702,
+        "num": 128702,
+        "word": "特朗普要求普京饶乌军一命",
+        "onboard_time": 1741993518,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121668,
+        "num": 127984,
+        "word": "终于明白抗炎食物有哪些了",
+        "onboard_time": 1741964603,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108122,
+        "num": 127817,
+        "word": "王霏霏跟孙坚在上海P人游",
+        "onboard_time": 1741996460,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会之问#"
+    }
+  }
+}

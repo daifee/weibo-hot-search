@@ -1,6 +1,6 @@
 {
   "startTime": 1741969737801,
-  "endTime": 1742004237768,
+  "endTime": 1742007391444,
   "band_list": [
     {
       "raw_hot": 1994853,
@@ -25,6 +25,14 @@
       "onboard_time": 1741998921,
       "rank": 4,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 1158633,
+      "num": 422877,
+      "word": "当裴秀智被问到金秀贤宋仲基二选一",
+      "onboard_time": 1742007081,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1158011,
@@ -67,6 +75,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 793521,
+      "num": 793521,
+      "word": "Angelababy资助徐玉坤",
+      "onboard_time": 1742006003,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 670887,
       "num": 670887,
       "word": "市监回应蜜雪冰城鲜果片隔夜继续用",
@@ -91,6 +107,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 582972,
+      "num": 582972,
+      "word": "主播称母亲迪拜公主吸引65万粉丝",
+      "onboard_time": 1742001022,
+      "rank": 7,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 538479,
+      "num": 538479,
+      "word": "辛巴带货牛排被指存严重问题",
+      "onboard_time": 1742005221,
+      "rank": 6,
+      "category": "舆论监督,网红"
+    },
+    {
       "raw_hot": 484448,
       "num": 353877,
       "word": "金赛纶母亲曝女儿葬礼被偷拍",
@@ -105,6 +137,14 @@
       "onboard_time": 1741969881,
       "rank": 17,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 476993,
+      "num": 476993,
+      "word": "女子遗落手机称下车1分钟后被关机",
+      "onboard_time": 1742002162,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 464719,
@@ -131,11 +171,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 453889,
-      "num": 453889,
-      "word": "主播称母亲迪拜公主吸引65万粉丝",
-      "onboard_time": 1742001022,
-      "rank": 7,
+      "raw_hot": 421947,
+      "num": 421947,
+      "word": "宣传给孩子吃的原切牛排实为调理肉",
+      "onboard_time": 1742005522,
+      "rank": 11,
       "category": "舆论监督"
     },
     {
@@ -148,7 +188,7 @@
     },
     {
       "raw_hot": 405592,
-      "num": 246106,
+      "num": 329543,
       "word": "117岁去世老人身上发现长寿秘密",
       "onboard_time": 1741997361,
       "rank": 20,
@@ -187,14 +227,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 359517,
-      "num": 359517,
-      "word": "女子遗落手机称下车1分钟后被关机",
-      "onboard_time": 1742002162,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 358724,
       "num": 358724,
       "word": "檀健次演的生理性眼肌反应",
@@ -219,12 +251,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 345075,
+      "num": 345075,
+      "word": "凡人修仙传",
+      "onboard_time": 1742005701,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 339950,
       "num": 136840,
       "word": "金秀贤电影里的安昭熙秀智IU雪莉",
       "onboard_time": 1741975936,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 329540,
+      "num": 329540,
+      "word": "女子曝男子2次夜间骚扰掩面夺手机",
+      "onboard_time": 1742003781,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 307926,
@@ -241,6 +289,22 @@
       "onboard_time": 1741957285,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 300381,
+      "num": 339428,
+      "word": "刘亦菲和助理逛街被偶遇",
+      "onboard_time": 1742004082,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 298656,
+      "num": 298656,
+      "word": "当事人回应保时捷加500元油后逃单",
+      "onboard_time": 1742005221,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 285954,
@@ -275,8 +339,8 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 240254,
-      "num": 240254,
+      "raw_hot": 250760,
+      "num": 250760,
       "word": "沪上阿姨改过期标签食材被人为延寿",
       "onboard_time": 1742001800,
       "rank": 22,
@@ -339,6 +403,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 184903,
+      "num": 354126,
+      "word": "云南遇害司机下班后本要给孩子煮饭",
+      "onboard_time": 1742006842,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184397,
       "num": 161613,
       "word": "男子菜地打坐1个视频最少拍80天",
@@ -395,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169597,
+      "num": 169597,
+      "word": "网传小米SU7Ultra车主需承诺不飙车",
+      "onboard_time": 1742005401,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 168892,
       "num": 168892,
       "word": "世界杯名单",
@@ -435,6 +515,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 149994,
+      "num": 149994,
+      "word": "小龙坎火锅回应315曝光问题",
+      "onboard_time": 1742006420,
+      "rank": 39,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 149728,
+      "num": 149728,
+      "word": "湖人vs掘金",
+      "onboard_time": 1742005581,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146291,
       "num": 146291,
       "word": "微博账号张玄化发布健康谣言被禁言",
@@ -451,12 +547,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143919,
+      "num": 143919,
+      "word": "胖东来红内裤当事人称遭恐吓",
+      "onboard_time": 1742002941,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142294,
+      "num": 142294,
+      "word": "特朗普被女记者用麦克风怼脸",
+      "onboard_time": 1742005401,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 136456,
+      "num": 432050,
+      "word": "特朗普称ISIS头目被击毙",
+      "onboard_time": 1742006301,
+      "rank": 8,
+      "category": "国际时政,军事"
+    },
+    {
       "raw_hot": 132705,
       "num": 132705,
       "word": "中缅泰联合打击电诈获重大战果",
       "onboard_time": 1741970960,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 132478,
+      "num": 132478,
+      "word": "章若楠偶遇温以凡点点",
+      "onboard_time": 1742004442,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 131039,
@@ -555,14 +683,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 106337,
-      "num": 106337,
-      "word": "刘亦菲和助理逛街被偶遇",
-      "onboard_time": 1742004082,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 106252,
       "num": 106252,
       "word": "TES晋级全球先锋赛四强",
@@ -596,7 +716,7 @@
     },
     {
       "raw_hot": 104076,
-      "num": 104076,
+      "num": 250930,
       "word": "Homme回应TES比赛失利",
       "onboard_time": 1742001922,
       "rank": 49,
@@ -683,20 +803,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 95640,
-      "num": 106438,
-      "word": "胖东来红内裤当事人称遭恐吓",
-      "onboard_time": 1742002941,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94515,
-      "num": 94515,
-      "word": "女子曝男子2次夜间骚扰掩面夺手机",
-      "onboard_time": 1742003781,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 93728,
+      "num": 156718,
+      "word": "全球市场大涨",
+      "onboard_time": 1742004261,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 92828,
@@ -753,6 +865,14 @@
       "onboard_time": 1741969221,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88527,
+      "num": 257720,
+      "word": "尿频是肾虚吗",
+      "onboard_time": 1742006781,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 85727,
@@ -867,6 +987,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 49235,
+      "num": 336636,
+      "word": "云南导游重新定义顾客就是上帝",
+      "onboard_time": 1742006541,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 44688,
       "num": 51728,
       "word": "广州一栋楼美成草莓千层蛋糕",
@@ -915,6 +1043,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 31444,
+      "num": 251658,
+      "word": "加拿大新总理称入美论太疯狂",
+      "onboard_time": 1742006361,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 30093,
+      "num": 423239,
+      "word": "男子自制电视机贴上品牌标签网上售卖",
+      "onboard_time": 1742006601,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 29297,
       "num": 144532,
       "word": "主播说想买养老机器人先花298买课",
@@ -961,6 +1105,14 @@
       "onboard_time": 1741987695,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21815,
+      "num": 364388,
+      "word": "王艺迪vs早田希娜",
+      "onboard_time": 1742006661,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 20981,
