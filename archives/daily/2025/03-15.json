@@ -1,6 +1,6 @@
 {
   "startTime": 1741969737801,
-  "endTime": 1742037489274,
+  "endTime": 1742038570529,
   "band_list": [
     {
       "raw_hot": 3266055,
@@ -171,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1107604,
+      "num": 427819,
+      "word": "金秀贤方呼吁不要再散布照片",
+      "onboard_time": 1742035463,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1029110,
       "num": 1026036,
       "word": "K总结婚现场",
@@ -235,14 +243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 837743,
-      "num": 398073,
-      "word": "金秀贤方呼吁不要再散布照片",
-      "onboard_time": 1742035463,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 817253,
       "num": 817253,
       "word": "前夫李厚霖否认家暴李湘",
@@ -299,6 +299,22 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 729546,
+      "num": 408731,
+      "word": "石原里美挺孕肚参加颁奖礼",
+      "onboard_time": 1742035165,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 704024,
+      "num": 704024,
+      "word": "HLE对战TES",
+      "onboard_time": 1742031504,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 699243,
       "num": 448006,
       "word": "女子曝男子2次夜间骚扰掩面夺手机",
@@ -353,14 +369,6 @@
       "onboard_time": 1741997361,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 660967,
-      "num": 389404,
-      "word": "石原里美挺孕肚参加颁奖礼",
-      "onboard_time": 1742035165,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 643682,
@@ -475,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 481267,
+      "num": 481267,
+      "word": "后陡门 七个兄弟",
+      "onboard_time": 1742033483,
+      "rank": 24,
+      "category": "教育,艺人"
+    },
+    {
       "raw_hot": 478278,
       "num": 377730,
       "word": "Prada5年内已塌房7位代言人",
@@ -515,14 +531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 464831,
-      "num": 464831,
-      "word": "HLE对战TES",
-      "onboard_time": 1742031504,
-      "rank": 25,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 464719,
       "num": 169621,
       "word": "车银优朴彩英在同一家寿司店",
@@ -555,12 +563,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 438461,
+      "num": 438461,
+      "word": "TES",
+      "onboard_time": 1742033003,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 435980,
       "num": 435980,
       "word": "戚薇胡静怼董力",
       "onboard_time": 1742010445,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 435112,
+      "num": 492261,
+      "word": "315晚会将曝光食品企业非法添加问题",
+      "onboard_time": 1742033483,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 432453,
@@ -571,6 +595,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 426569,
+      "num": 426569,
+      "word": "王曼昱vs张本美和",
+      "onboard_time": 1742034805,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 426505,
       "num": 426505,
       "word": "韩网热议日本7岁爱豆的见面会",
@@ -579,28 +611,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 422633,
-      "num": 422633,
-      "word": "王曼昱vs张本美和",
-      "onboard_time": 1742034805,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 420812,
       "num": 471294,
       "word": "孙颖莎顶住了",
       "onboard_time": 1742016685,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 406931,
-      "num": 492261,
-      "word": "315晚会将曝光食品企业非法添加问题",
-      "onboard_time": 1742033483,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 406783,
@@ -617,14 +633,6 @@
       "onboard_time": 1741997361,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 395212,
-      "num": 395212,
-      "word": "后陡门 七个兄弟",
-      "onboard_time": 1742033483,
-      "rank": 24,
-      "category": "教育,艺人"
     },
     {
       "raw_hot": 390497,
@@ -731,6 +739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 341978,
+      "num": 384692,
+      "word": "王曼昱3比0横扫张本美和",
+      "onboard_time": 1742037565,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 341500,
       "num": 594977,
       "word": "省考招考向应届生倾斜",
@@ -763,8 +779,16 @@
       "category": "教育"
     },
     {
+      "raw_hot": 335727,
+      "num": 335727,
+      "word": "指甲上没月牙是营养不良吗",
+      "onboard_time": 1742035523,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 335343,
-      "num": 212949,
+      "num": 304393,
       "word": "金智媛去看Jennie演唱会了",
       "onboard_time": 1742036784,
       "rank": 31,
@@ -787,12 +811,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 318517,
-      "num": 318517,
-      "word": "TES",
-      "onboard_time": 1742033003,
-      "rank": 38,
-      "category": "电竞"
+      "raw_hot": 315253,
+      "num": 315253,
+      "word": "香港大公报再批李嘉诚卖港口",
+      "onboard_time": 1742036545,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 307926,
@@ -819,12 +843,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 299745,
-      "num": 299745,
-      "word": "指甲上没月牙是营养不良吗",
-      "onboard_time": 1742035523,
-      "rank": 23,
-      "category": "健康医疗"
+      "raw_hot": 299368,
+      "num": 299368,
+      "word": "Uzi怒斥TES",
+      "onboard_time": 1742038285,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 298656,
@@ -865,6 +889,14 @@
       "onboard_time": 1742023642,
       "rank": 37,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 276982,
+      "num": 276982,
+      "word": "心疼369",
+      "onboard_time": 1742036484,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 276688,
@@ -979,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 239447,
+      "num": 239447,
+      "word": "翔霖",
+      "onboard_time": 1742037684,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239250,
       "num": 239250,
       "word": "住在65楼是什么体验",
@@ -1019,6 +1059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234426,
+      "num": 392339,
+      "word": "快递取件被强制收取3元跑腿费",
+      "onboard_time": 1742036724,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 234335,
       "num": 234335,
       "word": "河南申论 没有大作文",
@@ -1027,20 +1075,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 233720,
-      "num": 233720,
-      "word": "香港大公报再批李嘉诚卖港口",
-      "onboard_time": 1742036545,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 233013,
       "num": 233013,
       "word": "孙颖莎回应战胜大藤沙月",
       "onboard_time": 1742018723,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 229935,
+      "num": 428138,
+      "word": "假牦牛肉掺老鼠屎还能日售上千单",
+      "onboard_time": 1742034142,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 226609,
@@ -1081,6 +1129,14 @@
       "onboard_time": 1742008642,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 217854,
+      "num": 322673,
+      "word": "李承铉也没放过戚薇",
+      "onboard_time": 1742037384,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 217565,
@@ -1161,6 +1217,14 @@
       "onboard_time": 1742030184,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 204727,
+      "num": 204727,
+      "word": "刘少昂摔倒受伤",
+      "onboard_time": 1742037925,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 204664,
@@ -1252,7 +1316,7 @@
     },
     {
       "raw_hot": 194759,
-      "num": 249819,
+      "num": 300969,
       "word": "鞠婧祎采茶女",
       "onboard_time": 1742034203,
       "rank": 30,
@@ -1379,6 +1443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 182165,
+      "num": 182165,
+      "word": "30万的车遇重大事故未弹安全气囊",
+      "onboard_time": 1742037324,
+      "rank": 49,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 181961,
       "num": 181961,
       "word": "王曼昱11比9张本美和",
@@ -1396,7 +1468,7 @@
     },
     {
       "raw_hot": 179270,
-      "num": 198206,
+      "num": 312709,
       "word": "张若昀潘粤明魏大勋没一个视力好的",
       "onboard_time": 1742032524,
       "rank": 31,
@@ -1459,6 +1531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172299,
+      "num": 172299,
+      "word": "郭焱谈看王楚钦打球心里不踏实",
+      "onboard_time": 1742037444,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171375,
       "num": 171375,
       "word": "向佐在35度的新加坡穿羽绒服",
@@ -1500,11 +1580,19 @@
     },
     {
       "raw_hot": 168647,
-      "num": 366368,
+      "num": 371735,
       "word": "王一珩直播写歌",
       "onboard_time": 1742037145,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167109,
+      "num": 402052,
+      "word": "今年315晚会关注哪些领域",
+      "onboard_time": 1742037024,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 166791,
@@ -1587,6 +1675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160348,
+      "num": 420155,
+      "word": "315在行动",
+      "onboard_time": 1742036963,
+      "rank": 13,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 160087,
       "num": 221398,
       "word": "赵晴蓝色人鱼姬",
@@ -1627,12 +1723,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 154780,
-      "num": 154780,
-      "word": "假牦牛肉掺老鼠屎还能日售上千单",
-      "onboard_time": 1742034142,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 155434,
+      "num": 155434,
+      "word": "王曼昱进女单4强",
+      "onboard_time": 1742038465,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 154302,
@@ -1641,14 +1737,6 @@
       "onboard_time": 1742000781,
       "rank": 34,
       "category": "教育"
-    },
-    {
-      "raw_hot": 152916,
-      "num": 152916,
-      "word": "郭焱谈看王楚钦打球心里不踏实",
-      "onboard_time": 1742037444,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 152020,
@@ -1723,28 +1811,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145584,
-      "num": 145584,
-      "word": "心疼369",
-      "onboard_time": 1742036484,
-      "rank": 44,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 145099,
       "num": 145099,
       "word": "官方回应夫妻2人掉入引黄渠溺亡",
       "onboard_time": 1741998501,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 144093,
-      "num": 402052,
-      "word": "今年315晚会关注哪些领域",
-      "onboard_time": 1742037024,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 144050,
@@ -1785,6 +1857,14 @@
       "onboard_time": 1742011343,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 142077,
+      "num": 142077,
+      "word": "郑中基和老婆互相取关",
+      "onboard_time": 1742038524,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 140962,
@@ -1835,28 +1915,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 137314,
-      "num": 160127,
-      "word": "李承铉也没放过戚薇",
-      "onboard_time": 1742037384,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 136522,
       "num": 500710,
       "word": "55套送检美白化妆品全部汞超标",
       "onboard_time": 1742019443,
       "rank": 13,
       "category": "舆论监督,美妆"
-    },
-    {
-      "raw_hot": 134781,
-      "num": 134781,
-      "word": "30万的车遇重大事故未弹安全气囊",
-      "onboard_time": 1742037324,
-      "rank": 49,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 133980,
@@ -2033,6 +2097,14 @@
       "onboard_time": 1742029344,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 113017,
+      "num": 310051,
+      "word": "为打生长激素花掉一套房",
+      "onboard_time": 1742037265,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 112025,
@@ -2355,6 +2427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84603,
+      "num": 306943,
+      "word": "国乒包揽重庆冠军赛女单四强",
+      "onboard_time": 1742037986,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83836,
       "num": 361235,
       "word": "涉事水企承认循环使用一次性水桶",
@@ -2651,20 +2731,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 47690,
+      "num": 391054,
+      "word": "网购预售手办还没发货商家就失联了",
+      "onboard_time": 1742037265,
+      "rank": 30,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 44688,
       "num": 51728,
       "word": "广州一栋楼美成草莓千层蛋糕",
       "onboard_time": 1741979954,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 44275,
-      "num": 394626,
-      "word": "315在行动",
-      "onboard_time": 1742036963,
-      "rank": 13,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 43092,
@@ -2705,14 +2785,6 @@
       "onboard_time": 1742030003,
       "rank": 18,
       "category": "教育"
-    },
-    {
-      "raw_hot": 39822,
-      "num": 392339,
-      "word": "快递取件被强制收取3元跑腿费",
-      "onboard_time": 1742036724,
-      "rank": 14,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 38841,
@@ -2859,14 +2931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21465,
-      "num": 216068,
-      "word": "网购预售手办还没发货商家就失联了",
-      "onboard_time": 1742037265,
-      "rank": 30,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 20981,
       "num": 87360,
       "word": "众火溯还之日",
@@ -2897,14 +2961,6 @@
       "onboard_time": 1741988834,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16262,
-      "num": 218846,
-      "word": "为打生长激素花掉一套房",
-      "onboard_time": 1742037265,
-      "rank": 29,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 16195,
