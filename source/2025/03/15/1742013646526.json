@@ -1,0 +1,410 @@
+{
+  "runTime": 1742013646526,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1928584,
+        "num": 1928584,
+        "word": "315",
+        "onboard_time": 1741995499,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1557780,
+        "num": 1557780,
+        "word": "行测",
+        "onboard_time": 1742007442,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 112056,
+        "num": 1456088,
+        "word": "诚信北京315",
+        "onboard_time": 1742007562,
+        "rank": 2,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1382480,
+        "num": 1382480,
+        "word": "哪吒2全球第5",
+        "onboard_time": 1742010684,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1270210,
+        "num": 1270210,
+        "word": "都选B",
+        "onboard_time": 1742011402,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 766420,
+        "num": 766420,
+        "word": "省考",
+        "onboard_time": 1741995619,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 64020,
+        "num": 765557,
+        "word": "张本智和晋级重庆冠军赛四强",
+        "onboard_time": 1742013023,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 598637,
+        "num": 765253,
+        "word": "小龙坎火锅回应315曝光问题",
+        "onboard_time": 1742006420,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 24762,
+        "num": 764350,
+        "word": "林诗栋vs林昀儒",
+        "onboard_time": 1742012964,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187219,
+        "num": 763003,
+        "word": "孙颖莎vs大藤沙月",
+        "onboard_time": 1742010684,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2439335,
+        "num": 762077,
+        "word": "金秀贤公开亲吻照元数据",
+        "onboard_time": 1742008944,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 761728,
+        "num": 761728,
+        "word": "云南遇害司机下班后本要给孩子煮饭",
+        "onboard_time": 1742006842,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 439831,
+        "num": 754111,
+        "word": "吒儿真的在改变世界",
+        "onboard_time": 1742011343,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 58563,
+        "num": 749188,
+        "word": "张本智和3比1篠塚大登",
+        "onboard_time": 1742013023,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117214,
+        "num": 737675,
+        "word": "浆小白后厨汤上漂蟑螂卫生堪忧",
+        "onboard_time": 1742012062,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 435673,
+        "num": 721989,
+        "word": "Angelababy资助徐玉坤",
+        "onboard_time": 1742006003,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 973682,
+        "num": 712523,
+        "word": "金赛纶19年没留过刘海",
+        "onboard_time": 1742011944,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 711425,
+        "num": 711425,
+        "word": "前夫李厚霖否认家暴李湘",
+        "onboard_time": 1742009183,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 676454,
+        "num": 676454,
+        "word": "当裴秀智被问到金秀贤宋仲基二选一",
+        "onboard_time": 1742007081,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102481,
+        "num": 570645,
+        "word": "工程师2万5代办职称只有名字是真的",
+        "onboard_time": 1742012123,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 85639,
+        "num": 540430,
+        "word": "银行代销保险乱象调查",
+        "onboard_time": 1742009423,
+        "rank": 20,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 511387,
+        "num": 511387,
+        "word": "行测 做不完",
+        "onboard_time": 1742009663,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 203649,
+        "num": 508385,
+        "word": "射雕英雄传谁是大英雄",
+        "onboard_time": 1742013144,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202999,
+        "num": 502788,
+        "word": "虞书欣 你可别吓我了",
+        "onboard_time": 1742001862,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66789,
+        "num": 501068,
+        "word": "斯瓦泰克9个月冠军荒",
+        "onboard_time": 1742008041,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193759,
+        "num": 495992,
+        "word": "凡人修仙传",
+        "onboard_time": 1742005701,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 492261,
+        "num": 492261,
+        "word": "秀智化妆六个小时只出镜3秒",
+        "onboard_time": 1742009244,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120754,
+        "num": 396837,
+        "word": "短发版白鹿",
+        "onboard_time": 1742011581,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165388,
+        "num": 391811,
+        "word": "四川一贪官担心被查患上抑郁症",
+        "onboard_time": 1742012244,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62564,
+        "num": 390659,
+        "word": "315实测主流卫生巾长度仍虚标",
+        "onboard_time": 1742013505,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 390317,
+        "num": 390317,
+        "word": "戚薇胡静怼董力",
+        "onboard_time": 1742010445,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361463,
+        "num": 361463,
+        "word": "银行违规引入保险销售任由冒充职员",
+        "onboard_time": 1742009663,
+        "rank": 31,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 131844,
+        "num": 361285,
+        "word": "周深说哪吒2的成功给大家很多信心",
+        "onboard_time": 1742000842,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 83836,
+        "num": 361235,
+        "word": "涉事水企承认循环使用一次性水桶",
+        "onboard_time": 1742011823,
+        "rank": 33,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 361228,
+        "num": 361228,
+        "word": "李嘉诚要卖港口官方转发莫天真勿糊涂",
+        "onboard_time": 1742010142,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 398125,
+        "num": 361213,
+        "word": "戚薇不能接受袜子内裤一起洗",
+        "onboard_time": 1741998861,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355395,
+        "num": 355395,
+        "word": "申论",
+        "onboard_time": 1742009364,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 336699,
+        "num": 336699,
+        "word": "省考答案",
+        "onboard_time": 1742009244,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 316468,
+        "num": 316468,
+        "word": "图推好难",
+        "onboard_time": 1742010563,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 278361,
+        "num": 278361,
+        "word": "宣传给孩子吃的原切牛排实为调理肉",
+        "onboard_time": 1742005522,
+        "rank": 39,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 254995,
+        "num": 254995,
+        "word": "沪上阿姨曝光门店被立案调查",
+        "onboard_time": 1742012723,
+        "rank": 40,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 252449,
+        "num": 252449,
+        "word": "117岁去世老人身上发现长寿秘密",
+        "onboard_time": 1741997361,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233318,
+        "num": 233318,
+        "word": "小龙坎被曝回收鸭血等剩菜二次销售",
+        "onboard_time": 1741998921,
+        "rank": 42,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 224092,
+        "num": 224092,
+        "word": "辛巴带货牛排被指存严重问题",
+        "onboard_time": 1742005221,
+        "rank": 43,
+        "category": "舆论监督,网红"
+      },
+      {
+        "raw_hot": 173606,
+        "num": 206990,
+        "word": "丁程鑫泼杨洋",
+        "onboard_time": 1742011343,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196477,
+        "num": 196477,
+        "word": "河南省考",
+        "onboard_time": 1742012904,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 189963,
+        "num": 189963,
+        "word": "行测答案",
+        "onboard_time": 1742010022,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 185418,
+        "num": 185418,
+        "word": "Prada5年内已塌房7位代言人",
+        "onboard_time": 1741969881,
+        "rank": 47,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 142104,
+        "num": 173331,
+        "word": "杜特尔特要求女儿立刻返回菲律宾",
+        "onboard_time": 1742011343,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 171192,
+        "num": 171192,
+        "word": "申论能直接用的开头模板",
+        "onboard_time": 1742011644,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会之问#"
+    }
+  }
+}

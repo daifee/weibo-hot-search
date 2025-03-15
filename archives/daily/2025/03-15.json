@@ -1,6 +1,6 @@
 {
   "startTime": 1741969737801,
-  "endTime": 1742012807402,
+  "endTime": 1742013646526,
   "band_list": [
     {
       "raw_hot": 2859338,
@@ -67,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1270210,
+      "num": 1270210,
+      "word": "都选B",
+      "onboard_time": 1742011402,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1247839,
       "num": 1247839,
       "word": "小龙坎被曝回收鸭血等剩菜二次销售",
@@ -91,12 +99,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 966744,
-      "num": 966744,
-      "word": "都选B",
-      "onboard_time": 1742011402,
-      "rank": 5,
-      "category": "教育"
+      "raw_hot": 973682,
+      "num": 712523,
+      "word": "金赛纶19年没留过刘海",
+      "onboard_time": 1742011944,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 949527,
@@ -195,14 +203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 591669,
-      "num": 344871,
-      "word": "金赛纶19年没留过刘海",
-      "onboard_time": 1742011944,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 582972,
       "num": 582972,
       "word": "主播称母亲迪拜公主吸引65万粉丝",
@@ -276,11 +276,19 @@
     },
     {
       "raw_hot": 440539,
-      "num": 440539,
+      "num": 495992,
       "word": "凡人修仙传",
       "onboard_time": 1742005701,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 439831,
+      "num": 754111,
+      "word": "吒儿真的在改变世界",
+      "onboard_time": 1742011343,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 435980,
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 374944,
-      "num": 374944,
+      "num": 502788,
       "word": "虞书欣 你可别吓我了",
       "onboard_time": 1742001862,
       "rank": 16,
@@ -355,6 +363,22 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 361463,
+      "num": 417136,
+      "word": "银行违规引入保险销售任由冒充职员",
+      "onboard_time": 1742009663,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 361228,
+      "num": 361228,
+      "word": "李嘉诚要卖港口官方转发莫天真勿糊涂",
+      "onboard_time": 1742010142,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 358724,
       "num": 358724,
       "word": "檀健次演的生理性眼肌反应",
@@ -371,20 +395,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 355395,
+      "num": 355395,
+      "word": "申论",
+      "onboard_time": 1742009364,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 353253,
       "num": 353253,
       "word": "沈阳要求小米su7ultra车主签安全承诺书",
       "onboard_time": 1741997480,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 344800,
-      "num": 417136,
-      "word": "银行违规引入保险销售任由冒充职员",
-      "onboard_time": 1742009663,
-      "rank": 14,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 341500,
@@ -411,22 +435,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 332243,
-      "num": 332243,
-      "word": "申论",
-      "onboard_time": 1742009364,
-      "rank": 45,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 321659,
-      "num": 321659,
-      "word": "李嘉诚要卖港口官方转发莫天真勿糊涂",
-      "onboard_time": 1742010142,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 318852,
       "num": 318852,
       "word": "政治理论",
@@ -448,14 +456,6 @@
       "word": "哪吒2票房超150亿",
       "onboard_time": 1741957285,
       "rank": 5,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 303170,
-      "num": 344088,
-      "word": "吒儿真的在改变世界",
-      "onboard_time": 1742011343,
-      "rank": 22,
       "category": "电影"
     },
     {
@@ -497,6 +497,14 @@
       "onboard_time": 1741959384,
       "rank": 7,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 254995,
+      "num": 254995,
+      "word": "沪上阿姨曝光门店被立案调查",
+      "onboard_time": 1742012723,
+      "rank": 45,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 250951,
@@ -579,20 +587,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 209072,
-      "num": 209072,
-      "word": "沪上阿姨曝光门店被立案调查",
-      "onboard_time": 1742012723,
-      "rank": 45,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 205766,
       "num": 205766,
       "word": "台湾各界痛批赖清德分裂疯狂言论",
       "onboard_time": 1741961543,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 203649,
+      "num": 508385,
+      "word": "射雕英雄传谁是大英雄",
+      "onboard_time": 1742013144,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 200936,
@@ -604,11 +612,19 @@
     },
     {
       "raw_hot": 199957,
-      "num": 199957,
+      "num": 540430,
       "word": "银行代销保险乱象调查",
       "onboard_time": 1742009423,
       "rank": 36,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 196477,
+      "num": 196477,
+      "word": "河南省考",
+      "onboard_time": 1742012904,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 194244,
@@ -649,6 +665,14 @@
       "onboard_time": 1741993518,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 187219,
+      "num": 763003,
+      "word": "孙颖莎vs大藤沙月",
+      "onboard_time": 1742010684,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 184397,
@@ -715,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171192,
+      "num": 337855,
+      "word": "申论能直接用的开头模板",
+      "onboard_time": 1742011644,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 169523,
       "num": 299770,
       "word": "2025公务员联考逾400万人参加",
@@ -745,6 +777,14 @@
       "onboard_time": 1742008343,
       "rank": 39,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 165388,
+      "num": 391811,
+      "word": "四川一贪官担心被查患上抑郁症",
+      "onboard_time": 1742012244,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165342,
@@ -827,6 +867,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 142104,
+      "num": 173331,
+      "word": "杜特尔特要求女儿立刻返回菲律宾",
+      "onboard_time": 1742011343,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 140962,
       "num": 340714,
       "word": "敖光给敖丙刷牙",
@@ -891,20 +939,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 121883,
-      "num": 339003,
-      "word": "四川一贪官担心被查患上抑郁症",
-      "onboard_time": 1742012244,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120977,
       "num": 120977,
       "word": "国防部回应日方舰艇过航台海",
       "onboard_time": 1742001922,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 120754,
+      "num": 396837,
+      "word": "短发版白鹿",
+      "onboard_time": 1742011581,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 120042,
@@ -928,6 +976,14 @@
       "word": "诚信北京315",
       "onboard_time": 1742007562,
       "rank": 2,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 117214,
+      "num": 737675,
+      "word": "浆小白后厨汤上漂蟑螂卫生堪忧",
+      "onboard_time": 1742012062,
+      "rank": 14,
       "category": "舆论监督"
     },
     {
@@ -977,14 +1033,6 @@
       "onboard_time": 1741949123,
       "rank": 30,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 107462,
-      "num": 209095,
-      "word": "短发版白鹿",
-      "onboard_time": 1742011581,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 106906,
@@ -1049,6 +1097,14 @@
       "onboard_time": 1741998501,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 102481,
+      "num": 570645,
+      "word": "工程师2万5代办职称只有名字是真的",
+      "onboard_time": 1742012123,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 101826,
@@ -1211,6 +1267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83836,
+      "num": 361235,
+      "word": "涉事水企承认循环使用一次性水桶",
+      "onboard_time": 1742011823,
+      "rank": 28,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 83604,
       "num": 83604,
       "word": "邓为浴缸随拍",
@@ -1251,14 +1315,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 71583,
-      "num": 337855,
-      "word": "申论能直接用的开头模板",
-      "onboard_time": 1742011644,
-      "rank": 30,
-      "category": "教育"
-    },
-    {
       "raw_hot": 71068,
       "num": 276677,
       "word": "2025F1澳大利亚大奖赛",
@@ -1283,12 +1339,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 66234,
-      "num": 691493,
-      "word": "浆小白后厨汤上漂蟑螂卫生堪忧",
-      "onboard_time": 1742012062,
-      "rank": 14,
-      "category": "舆论监督"
+      "raw_hot": 66789,
+      "num": 501068,
+      "word": "斯瓦泰克9个月冠军荒",
+      "onboard_time": 1742008041,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 64755,
@@ -1305,6 +1361,22 @@
       "onboard_time": 1742005282,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64020,
+      "num": 765557,
+      "word": "张本智和晋级重庆冠军赛四强",
+      "onboard_time": 1742013023,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 62564,
+      "num": 390659,
+      "word": "315实测主流卫生巾长度仍虚标",
+      "onboard_time": 1742013505,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61926,
@@ -1331,12 +1403,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 58715,
-      "num": 340074,
-      "word": "涉事水企承认循环使用一次性水桶",
-      "onboard_time": 1742011823,
-      "rank": 28,
-      "category": "舆论监督"
+      "raw_hot": 58563,
+      "num": 749188,
+      "word": "张本智和3比1篠塚大登",
+      "onboard_time": 1742013023,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 58432,
@@ -1361,14 +1433,6 @@
       "onboard_time": 1741980735,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 52521,
-      "num": 344896,
-      "word": "工程师2万5代办职称只有名字是真的",
-      "onboard_time": 1742012123,
-      "rank": 19,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 52036,
@@ -1473,6 +1537,14 @@
       "onboard_time": 1741976475,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 24762,
+      "num": 764350,
+      "word": "林诗栋vs林昀儒",
+      "onboard_time": 1742012964,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 23936,
