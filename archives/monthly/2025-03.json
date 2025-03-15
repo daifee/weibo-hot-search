@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742066266689,
+  "endTime": 1742067335808,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -39411,6 +39411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82025,
+      "num": 205897,
+      "word": "半个韩娱在Jennie演唱会团建",
+      "onboard_time": 1742065815,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 81855,
       "num": 155762,
       "word": "孙颖莎重庆冠军赛适应场地训练",
@@ -41499,14 +41507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 62686,
-      "num": 169214,
-      "word": "半个韩娱在Jennie演唱会团建",
-      "onboard_time": 1742065815,
-      "rank": 14,
-      "category": "演出"
-    },
-    {
       "raw_hot": 62564,
       "num": 390659,
       "word": "315实测主流卫生巾长度仍虚标",
@@ -42139,6 +42139,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 56964,
+      "num": 81317,
+      "word": "初中生玩打火机30秒烧了整间奶茶店",
+      "onboard_time": 1742064436,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56939,
       "num": 153367,
       "word": "ManusAI合伙人澄清邀请码机制",
@@ -42457,14 +42465,6 @@
       "onboard_time": 1741327344,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 54414,
-      "num": 81317,
-      "word": "初中生玩打火机30秒烧了整间奶茶店",
-      "onboard_time": 1742064436,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 54403,
@@ -44483,6 +44483,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 39093,
+      "num": 39093,
+      "word": "贝姿妍",
+      "onboard_time": 1742067134,
+      "rank": 43,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 39047,
       "num": 169076,
       "word": "6000元AI学习机课程成本仅几十元",
@@ -44673,6 +44681,14 @@
       "onboard_time": 1741354403,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 37709,
+      "num": 37709,
+      "word": "电子签",
+      "onboard_time": 1742064795,
+      "rank": 46,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 37647,
@@ -44897,6 +44913,14 @@
       "onboard_time": 1741266082,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 36179,
+      "num": 36179,
+      "word": "兑吧",
+      "onboard_time": 1742067314,
+      "rank": 48,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 36164,
@@ -45337,6 +45361,14 @@
       "onboard_time": 1741432042,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 33198,
+      "num": 94613,
+      "word": "K总伴郎团",
+      "onboard_time": 1742065335,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 33168,
@@ -46651,14 +46683,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 25143,
-      "num": 94613,
-      "word": "K总伴郎团",
-      "onboard_time": 1742065335,
-      "rank": 19,
-      "category": "网红"
-    },
-    {
       "raw_hot": 25063,
       "num": 458801,
       "word": "当百年古宅邂逅春日玉兰",
@@ -47851,6 +47875,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 17475,
+      "num": 51007,
+      "word": "火爆热销的一次性内裤没有杀菌消毒",
+      "onboard_time": 1742066355,
+      "rank": 35,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 17466,
       "num": 375799,
       "word": "夸克确诊为AI届劳模",
@@ -48041,6 +48073,14 @@
       "onboard_time": 1741891394,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 16289,
+      "num": 533287,
+      "word": "烟雨漓江将中国水墨画具象化了",
+      "onboard_time": 1742050532,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16245,
@@ -48681,14 +48721,6 @@
       "onboard_time": 1741636394,
       "rank": 46,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 12321,
-      "num": 533287,
-      "word": "烟雨漓江将中国水墨画具象化了",
-      "onboard_time": 1742050532,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12260,
