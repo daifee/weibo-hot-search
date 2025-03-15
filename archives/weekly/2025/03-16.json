@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742074568660,
+  "endTime": 1742077314707,
   "band_list": [
     {
       "raw_hot": 9740375,
@@ -467,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109452,
+      "num": 109452,
+      "word": "借贷宝成都总部大门已被贴封条",
+      "onboard_time": 1742072234,
+      "rank": 42,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 107256,
       "num": 233375,
       "word": "摄入过量保水剂对人体有什么危害",
@@ -595,6 +603,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 36518,
+      "num": 132484,
+      "word": "手机抽奖赚的是沉默用户的钱",
+      "onboard_time": 1742073793,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 36179,
       "num": 36179,
       "word": "兑吧",
@@ -641,14 +657,6 @@
       "onboard_time": 1742065335,
       "rank": 19,
       "category": "网红"
-    },
-    {
-      "raw_hot": 32718,
-      "num": 32718,
-      "word": "借贷宝成都总部大门已被贴封条",
-      "onboard_time": 1742072234,
-      "rank": 42,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 32351,
@@ -699,7 +707,7 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 23779,
+      "raw_hot": 24974,
       "num": 25282,
       "word": "一次性内裤工作台也是工人餐桌",
       "onboard_time": 1742070854,
@@ -715,28 +723,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22492,
+      "num": 190479,
+      "word": "手机抽奖公司号称一天流水20亿元",
+      "onboard_time": 1742076194,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 18611,
+      "num": 533287,
+      "word": "烟雨漓江将中国水墨画具象化了",
+      "onboard_time": 1742050532,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17475,
       "num": 51007,
       "word": "火爆热销的一次性内裤没有杀菌消毒",
       "onboard_time": 1742066355,
       "rank": 35,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 17092,
-      "num": 132484,
-      "word": "手机抽奖赚的是沉默用户的钱",
-      "onboard_time": 1742073793,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 16641,
-      "num": 533287,
-      "word": "烟雨漓江将中国水墨画具象化了",
-      "onboard_time": 1742050532,
-      "rank": 2,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
