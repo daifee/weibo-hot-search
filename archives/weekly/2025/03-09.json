@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1742045151730,
+  "endTime": 1742045862769,
   "band_list": [
     {
       "raw_hot": 21330054,
@@ -35,12 +35,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 11100331,
-      "num": 11100331,
+      "raw_hot": 13089035,
+      "num": 13089035,
       "word": "一次性内裤爆雷",
       "onboard_time": 1742042250,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 11304812,
+      "num": 11337610,
+      "word": "胖猫事件90多吨食物被浪费",
+      "onboard_time": 1742040024,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10901855,
@@ -49,14 +57,6 @@
       "onboard_time": 1741774582,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 10891585,
-      "num": 10854358,
-      "word": "胖猫事件90多吨食物被浪费",
-      "onboard_time": 1742040024,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 6671283,
@@ -227,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2442542,
+      "num": 2442542,
+      "word": "借贷宝",
+      "onboard_time": 1742044473,
+      "rank": 11,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 2402076,
       "num": 2402076,
       "word": "周杰伦方回应",
@@ -264,6 +272,14 @@
       "word": "海底捞小便事件10倍现金补偿",
       "onboard_time": 1741758145,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2340573,
+      "num": 2340573,
+      "word": "央视还原胖猫事件真相",
+      "onboard_time": 1742042191,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -467,14 +483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1920888,
-      "num": 1920888,
-      "word": "央视还原胖猫事件真相",
-      "onboard_time": 1742042191,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1914549,
       "num": 1914549,
       "word": "柳演锡涉嫌逃税",
@@ -657,14 +665,6 @@
       "onboard_time": 1741692805,
       "rank": 41,
       "category": "艺人,互联网"
-    },
-    {
-      "raw_hot": 1698794,
-      "num": 1698794,
-      "word": "借贷宝",
-      "onboard_time": 1742044473,
-      "rank": 11,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 1687257,
@@ -1123,6 +1123,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1244889,
+      "num": 1922942,
+      "word": "1斤虾仁7两冰",
+      "onboard_time": 1742043515,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1242628,
       "num": 324726,
       "word": "金赛纶妈妈声明",
@@ -1273,14 +1281,6 @@
       "onboard_time": 1742018783,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1166296,
-      "num": 1922942,
-      "word": "1斤虾仁7两冰",
-      "onboard_time": 1742043515,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 1164112,
@@ -1739,6 +1739,22 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 957155,
+      "num": 957155,
+      "word": "315名单",
+      "onboard_time": 1742044291,
+      "rank": 31,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 956173,
+      "num": 956173,
+      "word": "Babycare",
+      "onboard_time": 1742043212,
+      "rank": 47,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 956104,
       "num": 322284,
       "word": "刘晓艳说最顶级的教养就是从不拆穿",
@@ -1931,6 +1947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 905509,
+      "num": 905509,
+      "word": "315打假击败90%打工人",
+      "onboard_time": 1742043753,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 903225,
       "num": 826581,
       "word": "董力阿拉蕾",
@@ -2019,6 +2043,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 885362,
+      "num": 885362,
+      "word": "嫚熙",
+      "onboard_time": 1742042669,
+      "rank": 30,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 883987,
       "num": 1141437,
       "word": "因表情包爆火的他已离世多年",
@@ -2097,14 +2129,6 @@
       "onboard_time": 1741485321,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 847095,
-      "num": 847095,
-      "word": "Babycare",
-      "onboard_time": 1742043212,
-      "rank": 47,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 842975,
@@ -2555,14 +2579,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 729597,
-      "num": 729597,
-      "word": "315打假击败90%打工人",
-      "onboard_time": 1742043753,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 729546,
       "num": 408731,
       "word": "石原里美挺孕肚参加颁奖礼",
@@ -2713,6 +2729,14 @@
       "onboard_time": 1741494740,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 701243,
+      "num": 2882216,
+      "word": "电子签放款人竟不是活人",
+      "onboard_time": 1742044114,
+      "rank": 8,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 700886,
@@ -3251,14 +3275,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 597190,
-      "num": 597190,
-      "word": "嫚熙",
-      "onboard_time": 1742042669,
-      "rank": 30,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 596695,
       "num": 279962,
       "word": "吴宣仪ins发文原因",
@@ -3331,20 +3347,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 577024,
-      "num": 577024,
-      "word": "315名单",
-      "onboard_time": 1742044291,
-      "rank": 31,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 576972,
       "num": 576972,
       "word": "台湾各界痛批赖清德分裂疯狂言论",
       "onboard_time": 1741961543,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 576742,
+      "num": 576742,
+      "word": "浪莎",
+      "onboard_time": 1742043874,
+      "rank": 34,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 572402,
@@ -3771,6 +3787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 504162,
+      "num": 504162,
+      "word": "315晚会曝光电子签高利贷",
+      "onboard_time": 1742044774,
+      "rank": 40,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 502095,
       "num": 502095,
       "word": "孙颖莎希望和马琳有更好的配合",
@@ -3793,6 +3817,14 @@
       "onboard_time": 1741767323,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 500335,
+      "num": 500335,
+      "word": "翻新卫生巾的危害有多大",
+      "onboard_time": 1742044355,
+      "rank": 38,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 499001,
@@ -3905,14 +3937,6 @@
       "onboard_time": 1741940783,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 491864,
-      "num": 1931798,
-      "word": "电子签放款人竟不是活人",
-      "onboard_time": 1742044114,
-      "rank": 8,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 491660,
@@ -4147,6 +4171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 462343,
+      "num": 462343,
+      "word": "七度空间",
+      "onboard_time": 1742045374,
+      "rank": 40,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 461885,
       "num": 461885,
       "word": "谷爱凌锁骨受伤",
@@ -4217,14 +4249,6 @@
       "onboard_time": 1741565360,
       "rank": 7,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 454027,
-      "num": 454027,
-      "word": "浪莎",
-      "onboard_time": 1742043874,
-      "rank": 34,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 451328,
@@ -5035,14 +5059,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 381311,
-      "num": 381311,
-      "word": "翻新卫生巾的危害有多大",
-      "onboard_time": 1742044355,
-      "rank": 38,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 380715,
       "num": 1206098,
       "word": "女子花13000买足金手镯是镀金",
@@ -5252,7 +5268,7 @@
     },
     {
       "raw_hot": 365745,
-      "num": 3102778,
+      "num": 3711632,
       "word": "Jennie演唱会现场的明星",
       "onboard_time": 1742032823,
       "rank": 26,
@@ -5313,6 +5329,14 @@
       "onboard_time": 1741691784,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 360286,
+      "num": 360286,
+      "word": "一次性内裤不灭菌直接贴灭菌标签",
+      "onboard_time": 1742044533,
+      "rank": 39,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 360194,
@@ -5396,7 +5420,7 @@
     },
     {
       "raw_hot": 356813,
-      "num": 2002462,
+      "num": 3428443,
       "word": "周深在用自己的方式搞文化输出",
       "onboard_time": 1742029044,
       "rank": 9,
@@ -5627,6 +5651,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 342254,
+      "num": 342254,
+      "word": "维修师傅称均单低于100元会被平台劝退",
+      "onboard_time": 1742045193,
+      "rank": 49,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 342143,
       "num": 226224,
       "word": "睡觉前最好不要玩手机",
@@ -5681,6 +5713,14 @@
       "onboard_time": 1741975936,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 337784,
+      "num": 929568,
+      "word": "啄木鸟回应高价维修乱象",
+      "onboard_time": 1742045431,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 337726,
@@ -6139,14 +6179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 305260,
-      "num": 305260,
-      "word": "一次性内裤不灭菌直接贴灭菌标签",
-      "onboard_time": 1742044533,
-      "rank": 39,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 304657,
       "num": 273544,
       "word": "老人长期吃素胆囊长出金蛋状结石",
@@ -6265,14 +6297,6 @@
       "onboard_time": 1741752203,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 299104,
-      "num": 299104,
-      "word": "315晚会曝光电子签高利贷",
-      "onboard_time": 1742044774,
-      "rank": 40,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 298908,
@@ -6995,6 +7019,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 263657,
+      "num": 2674266,
+      "word": "信息黑洞疯狂窃取个人隐私",
+      "onboard_time": 1742044953,
+      "rank": 23,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 262636,
       "num": 317045,
       "word": "民生主题记者会",
@@ -7440,6 +7472,14 @@
       "word": "自由点主播称所有产品都符合标准",
       "onboard_time": 1742044774,
       "rank": 47,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 242756,
+      "num": 1644598,
+      "word": "卫生巾纸尿裤原料从垃圾中往外挑",
+      "onboard_time": 1742044953,
+      "rank": 26,
       "category": "舆论监督"
     },
     {
@@ -7961,6 +8001,14 @@
       "onboard_time": 1741680682,
       "rank": 45,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 227264,
+      "num": 1399106,
+      "word": "借贷宝人人信借钱遭遇高利贷",
+      "onboard_time": 1742045254,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 227192,
@@ -8753,14 +8801,6 @@
       "onboard_time": 1742014344,
       "rank": 37,
       "category": "教育"
-    },
-    {
-      "raw_hot": 208336,
-      "num": 678706,
-      "word": "卫生巾纸尿裤原料从垃圾中往外挑",
-      "onboard_time": 1742044953,
-      "rank": 26,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 208272,
@@ -9561,6 +9601,14 @@
       "onboard_time": 1741877963,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 195620,
+      "num": 1245313,
+      "word": "众多网友要求自由点卫生巾退货",
+      "onboard_time": 1742045193,
+      "rank": 18,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 195509,
@@ -16515,6 +16563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111247,
+      "num": 843868,
+      "word": "陈幸同3比0蒯曼",
+      "onboard_time": 1742045555,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111196,
       "num": 276320,
       "word": "雨雪大风沙尘组团来袭",
@@ -17473,6 +17529,14 @@
       "onboard_time": 1741661182,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100343,
+      "num": 1605985,
+      "word": "莫雷加德盛赞王楚钦表现",
+      "onboard_time": 1742044355,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 100247,
@@ -20771,14 +20835,6 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 44248,
-      "num": 1605985,
-      "word": "莫雷加德盛赞王楚钦表现",
-      "onboard_time": 1742044355,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 43853,
       "num": 169570,
       "word": "赵又廷因何入职神秘公司",
@@ -22315,14 +22371,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 24352,
-      "num": 760518,
-      "word": "信息黑洞疯狂窃取个人隐私",
-      "onboard_time": 1742044953,
-      "rank": 23,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 24143,
       "num": 27645,
       "word": "特朗普自称特朗普永远是对的",
@@ -22929,6 +22977,14 @@
       "onboard_time": 1741814893,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16667,
+      "num": 1245047,
+      "word": "省考申论处女作诞生记",
+      "onboard_time": 1742045374,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 16580,

@@ -1,6 +1,6 @@
 {
   "startTime": 1741969737801,
-  "endTime": 1742045151730,
+  "endTime": 1742045862769,
   "band_list": [
     {
       "raw_hot": 20774578,
@@ -19,16 +19,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 11100331,
-      "num": 11100331,
+      "raw_hot": 13089035,
+      "num": 13089035,
       "word": "一次性内裤爆雷",
       "onboard_time": 1742042250,
       "rank": 19,
       "category": "舆论监督"
     },
     {
-      "raw_hot": 10891585,
-      "num": 10854358,
+      "raw_hot": 11304812,
+      "num": 11337610,
       "word": "胖猫事件90多吨食物被浪费",
       "onboard_time": 1742040024,
       "rank": 3,
@@ -83,12 +83,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2442542,
+      "num": 2442542,
+      "word": "借贷宝",
+      "onboard_time": 1742044473,
+      "rank": 11,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 2346539,
       "num": 2346539,
       "word": "申论",
       "onboard_time": 1742009364,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2340573,
+      "num": 2340573,
+      "word": "央视还原胖猫事件真相",
+      "onboard_time": 1742042191,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2211955,
@@ -123,14 +139,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 1920888,
-      "num": 1920888,
-      "word": "央视还原胖猫事件真相",
-      "onboard_time": 1742042191,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1781471,
       "num": 1781471,
       "word": "315晚会曝光翻新卫生巾",
@@ -145,14 +153,6 @@
       "onboard_time": 1742019202,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1698794,
-      "num": 1698794,
-      "word": "借贷宝",
-      "onboard_time": 1742044473,
-      "rank": 11,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 1605931,
@@ -259,6 +259,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1244889,
+      "num": 1922942,
+      "word": "1斤虾仁7两冰",
+      "onboard_time": 1742043515,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1241604,
       "num": 2026418,
       "word": "315晚会曝光维修刺客啄木鸟",
@@ -281,14 +289,6 @@
       "onboard_time": 1742018783,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1166296,
-      "num": 1922942,
-      "word": "1斤虾仁7两冰",
-      "onboard_time": 1742043515,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 1158011,
@@ -371,6 +371,22 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 957155,
+      "num": 957155,
+      "word": "315名单",
+      "onboard_time": 1742044291,
+      "rank": 31,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 956173,
+      "num": 956173,
+      "word": "Babycare",
+      "onboard_time": 1742043212,
+      "rank": 47,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 949527,
       "num": 378171,
       "word": "宋轶删除电视剧品质盛典官宣博",
@@ -395,6 +411,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 905509,
+      "num": 905509,
+      "word": "315打假击败90%打工人",
+      "onboard_time": 1742043753,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 885362,
+      "num": 885362,
+      "word": "嫚熙",
+      "onboard_time": 1742042669,
+      "rank": 30,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 857056,
       "num": 917406,
       "word": "胖东来红内裤当事人道歉",
@@ -409,14 +441,6 @@
       "onboard_time": 1742006003,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 847095,
-      "num": 847095,
-      "word": "Babycare",
-      "onboard_time": 1742043212,
-      "rank": 47,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 842843,
@@ -491,14 +515,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 729597,
-      "num": 729597,
-      "word": "315打假击败90%打工人",
-      "onboard_time": 1742043753,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 729546,
       "num": 408731,
       "word": "石原里美挺孕肚参加颁奖礼",
@@ -521,6 +537,14 @@
       "onboard_time": 1742031504,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 701243,
+      "num": 2882216,
+      "word": "电子签放款人竟不是活人",
+      "onboard_time": 1742044114,
+      "rank": 8,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 699243,
@@ -619,14 +643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 597190,
-      "num": 597190,
-      "word": "嫚熙",
-      "onboard_time": 1742042669,
-      "rank": 30,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 582972,
       "num": 582972,
       "word": "主播称母亲迪拜公主吸引65万粉丝",
@@ -635,11 +651,11 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 577024,
-      "num": 577024,
-      "word": "315名单",
-      "onboard_time": 1742044291,
-      "rank": 31,
+      "raw_hot": 576742,
+      "num": 576742,
+      "word": "浪莎",
+      "onboard_time": 1742043874,
+      "rank": 34,
       "category": "舆论监督"
     },
     {
@@ -699,19 +715,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 504162,
+      "num": 504162,
+      "word": "315晚会曝光电子签高利贷",
+      "onboard_time": 1742044774,
+      "rank": 40,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 500335,
+      "num": 500335,
+      "word": "翻新卫生巾的危害有多大",
+      "onboard_time": 1742044355,
+      "rank": 38,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 498514,
       "num": 498514,
       "word": "男子点外卖发现商场店竟在菜市场",
       "onboard_time": 1742021302,
       "rank": 9,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 491864,
-      "num": 1931798,
-      "word": "电子签放款人竟不是活人",
-      "onboard_time": 1742044114,
-      "rank": 8,
       "category": "舆论监督"
     },
     {
@@ -811,20 +835,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 462343,
+      "num": 462343,
+      "word": "七度空间",
+      "onboard_time": 1742045374,
+      "rank": 40,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 458953,
       "num": 458953,
       "word": "周深说哪吒2的成功给大家很多信心",
       "onboard_time": 1742000842,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 454027,
-      "num": 454027,
-      "word": "浪莎",
-      "onboard_time": 1742043874,
-      "rank": 34,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 451328,
@@ -947,14 +971,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 381311,
-      "num": 381311,
-      "word": "翻新卫生巾的危害有多大",
-      "onboard_time": 1742044355,
-      "rank": 38,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 377578,
       "num": 554423,
       "word": "辽宁申论 后陡门",
@@ -1004,7 +1020,7 @@
     },
     {
       "raw_hot": 365745,
-      "num": 3102778,
+      "num": 3711632,
       "word": "Jennie演唱会现场的明星",
       "onboard_time": 1742032823,
       "rank": 26,
@@ -1016,6 +1032,14 @@
       "word": "银行违规引入保险销售任由冒充职员",
       "onboard_time": 1742009663,
       "rank": 14,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 360286,
+      "num": 360286,
+      "word": "一次性内裤不灭菌直接贴灭菌标签",
+      "onboard_time": 1742044533,
+      "rank": 39,
       "category": "舆论监督"
     },
     {
@@ -1036,7 +1060,7 @@
     },
     {
       "raw_hot": 356813,
-      "num": 2002462,
+      "num": 3428443,
       "word": "周深在用自己的方式搞文化输出",
       "onboard_time": 1742029044,
       "rank": 9,
@@ -1057,6 +1081,14 @@
       "onboard_time": 1741997480,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 342254,
+      "num": 342254,
+      "word": "维修师傅称均单低于100元会被平台劝退",
+      "onboard_time": 1742045193,
+      "rank": 49,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 341978,
@@ -1089,6 +1121,14 @@
       "onboard_time": 1741975936,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 337784,
+      "num": 929568,
+      "word": "啄木鸟回应高价维修乱象",
+      "onboard_time": 1742045431,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 337726,
@@ -1155,28 +1195,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 305260,
-      "num": 305260,
-      "word": "一次性内裤不灭菌直接贴灭菌标签",
-      "onboard_time": 1742044533,
-      "rank": 39,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 300381,
       "num": 339428,
       "word": "刘亦菲和助理逛街被偶遇",
       "onboard_time": 1742004082,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 299104,
-      "num": 299104,
-      "word": "315晚会曝光电子签高利贷",
-      "onboard_time": 1742044774,
-      "rank": 40,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 298656,
@@ -1291,6 +1315,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 263657,
+      "num": 2674266,
+      "word": "信息黑洞疯狂窃取个人隐私",
+      "onboard_time": 1742044953,
+      "rank": 23,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 259865,
       "num": 259865,
       "word": "白鹿敖瑞鹏共创视频点赞1314万",
@@ -1376,6 +1408,14 @@
       "word": "自由点主播称所有产品都符合标准",
       "onboard_time": 1742044774,
       "rank": 47,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 242756,
+      "num": 1644598,
+      "word": "卫生巾纸尿裤原料从垃圾中往外挑",
+      "onboard_time": 1742044953,
+      "rank": 26,
       "category": "舆论监督"
     },
     {
@@ -1472,6 +1512,14 @@
       "word": "更换燃气灶20元点火器收费250多",
       "onboard_time": 1742044833,
       "rank": 48,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 227264,
+      "num": 1399106,
+      "word": "借贷宝人人信借钱遭遇高利贷",
+      "onboard_time": 1742045254,
+      "rank": 14,
       "category": "舆论监督"
     },
     {
@@ -1577,14 +1625,6 @@
       "onboard_time": 1742014344,
       "rank": 37,
       "category": "教育"
-    },
-    {
-      "raw_hot": 208336,
-      "num": 678706,
-      "word": "卫生巾纸尿裤原料从垃圾中往外挑",
-      "onboard_time": 1742044953,
-      "rank": 26,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 207156,
@@ -1745,6 +1785,14 @@
       "onboard_time": 1742012904,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 195620,
+      "num": 1245313,
+      "word": "众多网友要求自由点卫生巾退货",
+      "onboard_time": 1742045193,
+      "rank": 18,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 195455,
@@ -2579,6 +2627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111247,
+      "num": 843868,
+      "word": "陈幸同3比0蒯曼",
+      "onboard_time": 1742045555,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110878,
       "num": 85837,
       "word": "主播违规拍摄大熊猫被终身禁入",
@@ -2729,6 +2785,14 @@
       "onboard_time": 1741956983,
       "rank": 36,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 100343,
+      "num": 1605985,
+      "word": "莫雷加德盛赞王楚钦表现",
+      "onboard_time": 1742044355,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 100122,
@@ -3211,14 +3275,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 44248,
-      "num": 1605985,
-      "word": "莫雷加德盛赞王楚钦表现",
-      "onboard_time": 1742044355,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 43092,
       "num": 51721,
       "word": "A勒布伦摔水瓶",
@@ -3387,14 +3443,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 24352,
-      "num": 760518,
-      "word": "信息黑洞疯狂窃取个人隐私",
-      "onboard_time": 1742044953,
-      "rank": 23,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 23936,
       "num": 27226,
       "word": "周也丞磊一见你就笑路透",
@@ -3465,6 +3513,14 @@
       "onboard_time": 1741988834,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16667,
+      "num": 1245047,
+      "word": "省考申论处女作诞生记",
+      "onboard_time": 1742045374,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 16195,
