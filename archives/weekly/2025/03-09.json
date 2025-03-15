@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1742007973362,
+  "endTime": 1742009411632,
   "band_list": [
     {
       "raw_hot": 21330054,
@@ -147,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2450386,
+      "num": 480356,
+      "word": "金秀贤公开亲吻照元数据",
+      "onboard_time": 1742008944,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2402076,
       "num": 2402076,
       "word": "周杰伦方回应",
@@ -219,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2211955,
+      "num": 2211955,
+      "word": "315",
+      "onboard_time": 1741995499,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2181532,
       "num": 2181532,
       "word": "00后用DeepSeek1天卖出3.3亿",
@@ -249,6 +265,14 @@
       "onboard_time": 1741875624,
       "rank": 15,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 2109786,
+      "num": 2109786,
+      "word": "行测",
+      "onboard_time": 1742007442,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 2078595,
@@ -313,14 +337,6 @@
       "onboard_time": 1741880183,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1994853,
-      "num": 1994853,
-      "word": "315",
-      "onboard_time": 1741995499,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1994189,
@@ -747,6 +763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1452489,
+      "num": 1452489,
+      "word": "省考",
+      "onboard_time": 1741995619,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1442285,
       "num": 240001,
       "word": "金秀贤回应Deepseek总结版",
@@ -856,6 +880,14 @@
       "word": "胖东来红内裤当事人道歉",
       "onboard_time": 1741962563,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1274541,
+      "num": 1274541,
+      "word": "云南遇害司机下班后本要给孩子煮饭",
+      "onboard_time": 1742006842,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1731,6 +1763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 854106,
+      "num": 854106,
+      "word": "Angelababy资助徐玉坤",
+      "onboard_time": 1742006003,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 853868,
       "num": 337698,
       "word": "100寸的行李箱",
@@ -1905,14 +1945,6 @@
       "onboard_time": 1741912403,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 793521,
-      "num": 793521,
-      "word": "Angelababy资助徐玉坤",
-      "onboard_time": 1742006003,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 793146,
@@ -2289,6 +2321,14 @@
       "onboard_time": 1741923506,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 699243,
+      "num": 448006,
+      "word": "女子曝男子2次夜间骚扰掩面夺手机",
+      "onboard_time": 1742003781,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 691245,
@@ -2979,14 +3019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 543108,
-      "num": 543108,
-      "word": "云南遇害司机下班后本要给孩子煮饭",
-      "onboard_time": 1742006842,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 542627,
       "num": 542627,
       "word": "如台独突破红线我们将采取断然措施",
@@ -3265,14 +3297,6 @@
       "onboard_time": 1741872565,
       "rank": 27,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 498271,
-      "num": 442162,
-      "word": "女子曝男子2次夜间骚扰掩面夺手机",
-      "onboard_time": 1742003781,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 496925,
@@ -4507,6 +4531,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 366150,
+      "num": 366150,
+      "word": "才发现这些模特都是阿诺",
+      "onboard_time": 1742007802,
+      "rank": 34,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 365354,
       "num": 274522,
       "word": "男子背着婴儿到处借10块钱买奶粉",
@@ -5139,6 +5171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 321502,
+      "num": 321502,
+      "word": "前夫李厚霖否认家暴李湘",
+      "onboard_time": 1742009183,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 320714,
       "num": 275046,
       "word": "烟盒写建议被采纳82岁大爷回应走红",
@@ -5289,6 +5329,14 @@
       "onboard_time": 1741936884,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 304773,
+      "num": 304773,
+      "word": "政治理论",
+      "onboard_time": 1742008402,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 304657,
@@ -5793,6 +5841,14 @@
       "onboard_time": 1741875325,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 275942,
+      "num": 275942,
+      "word": "小龙坎火锅回应315曝光问题",
+      "onboard_time": 1742006420,
+      "rank": 39,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 275669,
@@ -6427,6 +6483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 244268,
+      "num": 244268,
+      "word": "暗访狐貉胴体黑市",
+      "onboard_time": 1742008343,
+      "rank": 27,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 244063,
       "num": 244063,
       "word": "马斯克回应X出故障",
@@ -7041,6 +7105,14 @@
       "onboard_time": 1741690164,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 222746,
+      "num": 222746,
+      "word": "吉林省考",
+      "onboard_time": 1742008642,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 222670,
@@ -8211,6 +8283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195991,
+      "num": 195991,
+      "word": "秀智化妆六个小时只出镜3秒",
+      "onboard_time": 1742009244,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 195778,
       "num": 195778,
       "word": "所有学生本硕博连读不用内卷",
@@ -8353,14 +8433,6 @@
       "onboard_time": 1741598601,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 193539,
-      "num": 193539,
-      "word": "小龙坎火锅回应315曝光问题",
-      "onboard_time": 1742006420,
-      "rank": 39,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 193251,
@@ -9121,6 +9193,14 @@
       "onboard_time": 1741572441,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181650,
+      "num": 181650,
+      "word": "省考答案",
+      "onboard_time": 1742009244,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 181531,
@@ -10171,6 +10251,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 165904,
+      "num": 165904,
+      "word": "315说法",
+      "onboard_time": 1742008343,
+      "rank": 39,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 165886,
       "num": 165886,
       "word": "巴黎世家设计师跳槽Gucci",
@@ -10659,6 +10747,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 158944,
+      "num": 158944,
+      "word": "湖北省考",
+      "onboard_time": 1742009183,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 158920,
       "num": 172206,
       "word": "蜜雪冰城",
@@ -10857,14 +10953,6 @@
       "onboard_time": 1741525161,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 156295,
-      "num": 156295,
-      "word": "行测",
-      "onboard_time": 1742007442,
-      "rank": 38,
-      "category": "教育"
     },
     {
       "raw_hot": 156262,
@@ -11995,14 +12083,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141376,
-      "num": 185218,
-      "word": "才发现这些模特都是阿诺",
-      "onboard_time": 1742007802,
-      "rank": 34,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 141333,
       "num": 141333,
       "word": "陶喆第8张录音室专辑先行曲",
@@ -12089,6 +12169,14 @@
       "onboard_time": 1741665862,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 140611,
+      "num": 257720,
+      "word": "尿频是肾虚吗",
+      "onboard_time": 1742006781,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 140367,
@@ -12443,6 +12531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137042,
+      "num": 594977,
+      "word": "省考招考向应届生倾斜",
+      "onboard_time": 1742008462,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 136700,
       "num": 136700,
       "word": "2025澳门世界杯倒计时一个月",
@@ -12489,14 +12585,6 @@
       "onboard_time": 1741768703,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 136402,
-      "num": 136402,
-      "word": "省考",
-      "onboard_time": 1741995619,
-      "rank": 41,
-      "category": "教育"
     },
     {
       "raw_hot": 136348,
@@ -12649,14 +12737,6 @@
       "onboard_time": 1741501161,
       "rank": 39,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 133863,
-      "num": 257720,
-      "word": "尿频是肾虚吗",
-      "onboard_time": 1742006781,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 133679,
@@ -12961,6 +13041,14 @@
       "onboard_time": 1741594521,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129413,
+      "num": 129413,
+      "word": "申论",
+      "onboard_time": 1742009364,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 129249,
@@ -17235,6 +17323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73250,
+      "num": 341453,
+      "word": "官方通报一次性水桶循环使用",
+      "onboard_time": 1742008703,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 73099,
       "num": 167363,
       "word": "俄防空部队一夜击落88架无人机",
@@ -17353,6 +17449,14 @@
       "onboard_time": 1741787665,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 70660,
+      "num": 580631,
+      "word": "荐股群所谓内幕或是AI生成",
+      "onboard_time": 1742008764,
+      "rank": 9,
+      "category": "舆论监督,财经"
     },
     {
       "raw_hot": 70361,
@@ -17593,6 +17697,14 @@
       "onboard_time": 1741871603,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64430,
+      "num": 261104,
+      "word": "中国乒乓球界如何培养大魔王",
+      "onboard_time": 1742005282,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 64273,
@@ -18113,6 +18225,14 @@
       "onboard_time": 1741682121,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 54012,
+      "num": 1687189,
+      "word": "诚信北京315",
+      "onboard_time": 1742007562,
+      "rank": 2,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 53649,
@@ -20609,14 +20729,6 @@
       "onboard_time": 1741494620,
       "rank": 13,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 17391,
-      "num": 840885,
-      "word": "诚信北京315",
-      "onboard_time": 1742007562,
-      "rank": 2,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 17351,
