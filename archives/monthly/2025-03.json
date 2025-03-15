@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742023308939,
+  "endTime": 1742024155316,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1284,7 +1284,7 @@
     },
     {
       "raw_hot": 1535003,
-      "num": 371471,
+      "num": 431074,
       "word": "金秀贤中国台湾线下见面会照常进行",
       "onboard_time": 1742021724,
       "rank": 10,
@@ -6339,6 +6339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 556049,
+      "num": 556049,
+      "word": "熙媛一路走好",
+      "onboard_time": 1742018783,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 555145,
       "num": 265223,
       "word": "追星式存钱",
@@ -6552,14 +6560,6 @@
       "word": "向佐开10个小时车去找郭碧婷",
       "onboard_time": 1741749682,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 543100,
-      "num": 499393,
-      "word": "熙媛一路走好",
-      "onboard_time": 1742018783,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -6779,6 +6779,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 528723,
+      "num": 528723,
+      "word": "OpenAI称DeepSeek是另一个华为",
+      "onboard_time": 1742020703,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 527935,
       "num": 561163,
       "word": "141万买二手房原房主拒绝搬家",
@@ -6865,14 +6873,6 @@
       "onboard_time": 1741420282,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 520220,
-      "num": 520220,
-      "word": "OpenAI称DeepSeek是另一个华为",
-      "onboard_time": 1742020703,
-      "rank": 27,
-      "category": "互联网"
     },
     {
       "raw_hot": 519945,
@@ -7129,6 +7129,14 @@
       "onboard_time": 1741755385,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 498514,
+      "num": 498514,
+      "word": "男子点外卖发现商场店竟在菜市场",
+      "onboard_time": 1742021302,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 498424,
@@ -7481,6 +7489,14 @@
       "onboard_time": 1741969881,
       "rank": 17,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 477891,
+      "num": 477891,
+      "word": "李小冉问蔡明我哪里惹你不开心了吗",
+      "onboard_time": 1742022023,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 477248,
@@ -9275,14 +9291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 389672,
-      "num": 389672,
-      "word": "李小冉问蔡明我哪里惹你不开心了吗",
-      "onboard_time": 1742022023,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 389529,
       "num": 389529,
       "word": "迪丽热巴加勒比女王造型",
@@ -9681,14 +9689,6 @@
       "onboard_time": 1741315760,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 371766,
-      "num": 371766,
-      "word": "男子点外卖发现商场店竟在菜市场",
-      "onboard_time": 1742021302,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 371669,
@@ -13883,6 +13883,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 259865,
+      "num": 259865,
+      "word": "白鹿敖瑞鹏共创视频点赞1314万",
+      "onboard_time": 1742023284,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 259478,
       "num": 259478,
       "word": "MiuMiu大秀",
@@ -15073,6 +15081,14 @@
       "onboard_time": 1740918981,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 233982,
+      "num": 233982,
+      "word": "深圳暴雨",
+      "onboard_time": 1742023583,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 233931,
@@ -17156,7 +17172,7 @@
     },
     {
       "raw_hot": 207695,
-      "num": 207695,
+      "num": 210737,
       "word": "曝演员张振寰家中去世多日后被发现",
       "onboard_time": 1742021783,
       "rank": 26,
@@ -17963,6 +17979,14 @@
       "category": "动漫,音乐"
     },
     {
+      "raw_hot": 201192,
+      "num": 201192,
+      "word": "深圳天气",
+      "onboard_time": 1742023343,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201036,
       "num": 201036,
       "word": "刘些宁跳舞",
@@ -18073,6 +18097,14 @@
       "onboard_time": 1740899719,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200586,
+      "num": 200586,
+      "word": "有时候也想跪下来求自己别喝了",
+      "onboard_time": 1742023043,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 200548,
@@ -18993,14 +19025,6 @@
       "onboard_time": 1742020225,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 193518,
-      "num": 193518,
-      "word": "白鹿敖瑞鹏共创视频点赞1314万",
-      "onboard_time": 1742023284,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 193461,
@@ -22323,6 +22347,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 168665,
+      "num": 168665,
+      "word": "一乡镇停车位卖出126579600元",
+      "onboard_time": 1742023343,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168584,
       "num": 168584,
       "word": "河南7元一碗的焖面",
@@ -23612,7 +23644,7 @@
     },
     {
       "raw_hot": 161356,
-      "num": 161356,
+      "num": 230335,
       "word": "黄轩与女友墨尔本逛街",
       "onboard_time": 1742018483,
       "rank": 41,
@@ -28139,6 +28171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 136006,
+      "num": 136006,
+      "word": "退﻿400元商品要5600多运费",
+      "onboard_time": 1742023642,
+      "rank": 37,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 135783,
       "num": 280120,
       "word": "孙颖莎比赛要打火锅也要吃",
@@ -28465,6 +28505,14 @@
       "onboard_time": 1741773925,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133641,
+      "num": 133641,
+      "word": "香港长和要好好想想自己站在哪一边",
+      "onboard_time": 1742022322,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 133605,
@@ -28921,14 +28969,6 @@
       "onboard_time": 1741357643,
       "rank": 31,
       "category": "教育"
-    },
-    {
-      "raw_hot": 130923,
-      "num": 130923,
-      "word": "有时候也想跪下来求自己别喝了",
-      "onboard_time": 1742023043,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 130842,
@@ -29689,14 +29729,6 @@
       "onboard_time": 1741242198,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 126762,
-      "num": 126762,
-      "word": "香港长和要好好想想自己站在哪一边",
-      "onboard_time": 1742022322,
-      "rank": 43,
-      "category": "国内时政"
     },
     {
       "raw_hot": 126742,
@@ -31577,6 +31609,14 @@
       "onboard_time": 1740843562,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 118150,
+      "num": 118150,
+      "word": "黄杨钿甜叫董思成哥哥",
+      "onboard_time": 1742024001,
+      "rank": 47,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 118134,
@@ -33475,6 +33515,14 @@
       "category": "国内时政,旅游"
     },
     {
+      "raw_hot": 107528,
+      "num": 107528,
+      "word": "时代少年团方否认将录制疯狂的麦咭",
+      "onboard_time": 1742023883,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107525,
       "num": 107525,
       "word": "32岁的何苏叶",
@@ -33953,6 +34001,14 @@
       "onboard_time": 1740883339,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 105259,
+      "num": 466535,
+      "word": "暗访诸暨珍珠市场乱象",
+      "onboard_time": 1742023164,
+      "rank": 30,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 105209,
@@ -38603,6 +38659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71840,
+      "num": 209240,
+      "word": "学外语软件官号频现性暗示词汇",
+      "onboard_time": 1742023164,
+      "rank": 29,
+      "category": "舆论监督,教育"
+    },
+    {
       "raw_hot": 71764,
       "num": 103764,
       "word": "张兴海谈民营企业家走上委员通道",
@@ -39209,14 +39273,6 @@
       "onboard_time": 1741096521,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 66508,
-      "num": 163561,
-      "word": "暗访诸暨珍珠市场乱象",
-      "onboard_time": 1742023164,
-      "rank": 30,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 66463,
@@ -40825,6 +40881,14 @@
       "onboard_time": 1741854264,
       "rank": 24,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 52799,
+      "num": 369747,
+      "word": "河南一律师庭前遭法警背铐受伤",
+      "onboard_time": 1742022624,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52667,
@@ -42449,14 +42513,6 @@
       "onboard_time": 1741265780,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 39596,
-      "num": 164960,
-      "word": "学外语软件官号频现性暗示词汇",
-      "onboard_time": 1742023164,
-      "rank": 29,
-      "category": "舆论监督,教育"
     },
     {
       "raw_hot": 39563,
@@ -44120,14 +44176,6 @@
       "word": "先做自己的女王再被世界加冕",
       "onboard_time": 1741421002,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27910,
-      "num": 369747,
-      "word": "河南一律师庭前遭法警背铐受伤",
-      "onboard_time": 1742022624,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
