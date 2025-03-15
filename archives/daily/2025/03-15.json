@@ -1,6 +1,6 @@
 {
   "startTime": 1741969737801,
-  "endTime": 1742010364827,
+  "endTime": 1742012807402,
   "band_list": [
     {
       "raw_hot": 2859338,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2712729,
-      "num": 480356,
+      "num": 823850,
       "word": "金秀贤公开亲吻照元数据",
       "onboard_time": 1742008944,
       "rank": 10,
@@ -44,11 +44,19 @@
     },
     {
       "raw_hot": 1504900,
-      "num": 443454,
+      "num": 688784,
       "word": "当裴秀智被问到金秀贤宋仲基二选一",
       "onboard_time": 1742007081,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1497629,
+      "num": 1497629,
+      "word": "哪吒2全球第5",
+      "onboard_time": 1742010684,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 1274541,
@@ -83,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 966744,
+      "num": 966744,
+      "word": "都选B",
+      "onboard_time": 1742011402,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
       "raw_hot": 949527,
       "num": 378171,
       "word": "宋轶删除电视剧品质盛典官宣博",
@@ -100,10 +116,18 @@
     },
     {
       "raw_hot": 854106,
-      "num": 854106,
+      "num": 914466,
       "word": "Angelababy资助徐玉坤",
       "onboard_time": 1742006003,
       "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 817253,
+      "num": 817253,
+      "word": "前夫李厚霖否认家暴李湘",
+      "onboard_time": 1742009183,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -115,6 +139,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 750083,
+      "num": 750083,
+      "word": "秀智化妆六个小时只出镜3秒",
+      "onboard_time": 1742009244,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 699243,
       "num": 448006,
       "word": "女子曝男子2次夜间骚扰掩面夺手机",
@@ -123,12 +155,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 695147,
-      "num": 426544,
-      "word": "前夫李厚霖否认家暴李湘",
-      "onboard_time": 1742009183,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 694377,
+      "num": 694377,
+      "word": "行测 做不完",
+      "onboard_time": 1742009663,
+      "rank": 20,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 675356,
+      "num": 869829,
+      "word": "小龙坎火锅回应315曝光问题",
+      "onboard_time": 1742006420,
+      "rank": 39,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 670887,
@@ -155,12 +195,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 592731,
-      "num": 423287,
-      "word": "秀智化妆六个小时只出镜3秒",
-      "onboard_time": 1742009244,
-      "rank": 34,
-      "category": "电影"
+      "raw_hot": 591669,
+      "num": 344871,
+      "word": "金赛纶19年没留过刘海",
+      "onboard_time": 1742011944,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 582972,
@@ -243,6 +283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 435980,
+      "num": 435980,
+      "word": "戚薇胡静怼董力",
+      "onboard_time": 1742010445,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 432453,
       "num": 432453,
       "word": "省考答案",
@@ -265,14 +313,6 @@
       "onboard_time": 1741997361,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 404233,
-      "num": 404233,
-      "word": "行测 做不完",
-      "onboard_time": 1742009663,
-      "rank": 20,
-      "category": "教育"
     },
     {
       "raw_hot": 390497,
@@ -339,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 344800,
+      "num": 417136,
+      "word": "银行违规引入保险销售任由冒充职员",
+      "onboard_time": 1742009663,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 341500,
       "num": 594977,
       "word": "省考招考向应届生倾斜",
@@ -353,6 +401,30 @@
       "onboard_time": 1741975936,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 337726,
+      "num": 337726,
+      "word": "图推好难",
+      "onboard_time": 1742010563,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 332243,
+      "num": 332243,
+      "word": "申论",
+      "onboard_time": 1742009364,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 321659,
+      "num": 321659,
+      "word": "李嘉诚要卖港口官方转发莫天真勿糊涂",
+      "onboard_time": 1742010142,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 318852,
@@ -379,6 +451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 303170,
+      "num": 344088,
+      "word": "吒儿真的在改变世界",
+      "onboard_time": 1742011343,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 300381,
       "num": 339428,
       "word": "刘亦菲和助理逛街被偶遇",
@@ -393,14 +473,6 @@
       "onboard_time": 1742005221,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 297501,
-      "num": 297501,
-      "word": "小龙坎火锅回应315曝光问题",
-      "onboard_time": 1742006420,
-      "rank": 39,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 285954,
@@ -425,14 +497,6 @@
       "onboard_time": 1741959384,
       "rank": 7,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 256554,
-      "num": 256554,
-      "word": "申论",
-      "onboard_time": 1742009364,
-      "rank": 45,
-      "category": "教育"
     },
     {
       "raw_hot": 250951,
@@ -507,6 +571,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 217565,
+      "num": 217565,
+      "word": "行测答案",
+      "onboard_time": 1742010022,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 209072,
+      "num": 209072,
+      "word": "沪上阿姨曝光门店被立案调查",
+      "onboard_time": 1742012723,
+      "rank": 45,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 205766,
       "num": 205766,
       "word": "台湾各界痛批赖清德分裂疯狂言论",
@@ -515,27 +595,19 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 200936,
+      "num": 342536,
+      "word": "丁程鑫泼杨洋",
+      "onboard_time": 1742011343,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199957,
       "num": 199957,
       "word": "银行代销保险乱象调查",
       "onboard_time": 1742009423,
       "rank": 36,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 199548,
-      "num": 199548,
-      "word": "行测答案",
-      "onboard_time": 1742010022,
-      "rank": 37,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 198433,
-      "num": 417136,
-      "word": "银行违规引入保险销售任由冒充职员",
-      "onboard_time": 1742009663,
-      "rank": 14,
       "category": "舆论监督"
     },
     {
@@ -643,12 +715,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169523,
+      "num": 299770,
+      "word": "2025公务员联考逾400万人参加",
+      "onboard_time": 1742011464,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 168892,
       "num": 168892,
       "word": "世界杯名单",
       "onboard_time": 1742000842,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166791,
+      "num": 332601,
+      "word": "汤家凤否认孩子考研被骗",
+      "onboard_time": 1742010563,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 165904,
@@ -665,14 +753,6 @@
       "onboard_time": 1741967483,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 162928,
-      "num": 162928,
-      "word": "李嘉诚要卖港口官方转发莫天真勿糊涂",
-      "onboard_time": 1742010142,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 158843,
@@ -708,7 +788,7 @@
     },
     {
       "raw_hot": 149728,
-      "num": 149728,
+      "num": 207260,
       "word": "湖人vs掘金",
       "onboard_time": 1742005581,
       "rank": 40,
@@ -747,20 +827,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 140962,
+      "num": 340714,
+      "word": "敖光给敖丙刷牙",
+      "onboard_time": 1742010324,
+      "rank": 46,
+      "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 140707,
+      "num": 855859,
+      "word": "实测杀猪盘式肌肉帅哥带团游",
+      "onboard_time": 1742011823,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 140611,
       "num": 257720,
       "word": "尿频是肾虚吗",
       "onboard_time": 1742006781,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 134751,
-      "num": 134751,
-      "word": "敖光给敖丙刷牙",
-      "onboard_time": 1742010324,
-      "rank": 46,
-      "category": "电影,动漫"
     },
     {
       "raw_hot": 132705,
@@ -803,6 +891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121883,
+      "num": 339003,
+      "word": "四川一贪官担心被查患上抑郁症",
+      "onboard_time": 1742012244,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120977,
       "num": 120977,
       "word": "国防部回应日方舰艇过航台海",
@@ -825,6 +921,14 @@
       "onboard_time": 1741998501,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118032,
+      "num": 2001348,
+      "word": "诚信北京315",
+      "onboard_time": 1742007562,
+      "rank": 2,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 115618,
@@ -859,12 +963,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110549,
+      "num": 200344,
+      "word": "布朗尼替父出征",
+      "onboard_time": 1742012483,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109751,
       "num": 109751,
       "word": "羽衣甘蓝 减肥",
       "onboard_time": 1741949123,
       "rank": 30,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 107462,
+      "num": 209095,
+      "word": "短发版白鹿",
+      "onboard_time": 1742011581,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 106906,
@@ -1067,20 +1187,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 90710,
-      "num": 2001348,
-      "word": "诚信北京315",
-      "onboard_time": 1742007562,
-      "rank": 2,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 90042,
       "num": 119763,
       "word": "多名运动员说最佳反手是樊振东",
       "onboard_time": 1741969221,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89498,
+      "num": 345148,
+      "word": "旅游杀猪盘帅哥领队实为大爷",
+      "onboard_time": 1742011883,
+      "rank": 18,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 85727,
@@ -1123,6 +1243,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 78261,
+      "num": 341175,
+      "word": "2025公务员联考扩招增幅超8%",
+      "onboard_time": 1742011522,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 71583,
+      "num": 337855,
+      "word": "申论能直接用的开头模板",
+      "onboard_time": 1742011644,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 71068,
       "num": 276677,
       "word": "2025F1澳大利亚大奖赛",
@@ -1144,6 +1280,14 @@
       "word": "男子自制电视机贴上品牌标签网上售卖",
       "onboard_time": 1742006601,
       "rank": 9,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 66234,
+      "num": 691493,
+      "word": "浆小白后厨汤上漂蟑螂卫生堪忧",
+      "onboard_time": 1742012062,
+      "rank": 14,
       "category": "舆论监督"
     },
     {
@@ -1187,6 +1331,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 58715,
+      "num": 340074,
+      "word": "涉事水企承认循环使用一次性水桶",
+      "onboard_time": 1742011823,
+      "rank": 28,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 58432,
       "num": 58432,
       "word": "金秀贤合照里的眼镜是13年粉丝送的",
@@ -1209,6 +1361,14 @@
       "onboard_time": 1741980735,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52521,
+      "num": 344896,
+      "word": "工程师2万5代办职称只有名字是真的",
+      "onboard_time": 1742012123,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 52036,
