@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1742017123382,
+  "endTime": 1742020252104,
   "band_list": [
     {
       "raw_hot": 21330054,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 3266055,
-      "num": 546241,
+      "num": 1258088,
       "word": "大S今日下葬",
       "onboard_time": 1742013984,
       "rank": 10,
@@ -289,6 +289,14 @@
       "onboard_time": 1741995619,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2103029,
+      "num": 2103029,
+      "word": "李嘉诚要卖43个港口给美国企业",
+      "onboard_time": 1742015364,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2078595,
@@ -889,14 +897,6 @@
       "onboard_time": 1741775306,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1332411,
-      "num": 1332411,
-      "word": "李嘉诚要卖43个港口给美国企业",
-      "onboard_time": 1742015364,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1315442,
@@ -2091,6 +2091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 771795,
+      "num": 502073,
+      "word": "张馨予把痘痘点成痣",
+      "onboard_time": 1742016565,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 770189,
       "num": 497680,
       "word": "成都动物园回应黑豹肚子大到快拖地",
@@ -2105,6 +2113,14 @@
       "onboard_time": 1741734557,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 763876,
+      "num": 501342,
+      "word": "甜馨称想演电视但没自信",
+      "onboard_time": 1742017943,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 763207,
@@ -2473,6 +2489,14 @@
       "onboard_time": 1742006420,
       "rank": 39,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 674636,
+      "num": 674636,
+      "word": "美国正式确认将韩国列入敏感国家",
+      "onboard_time": 1742019202,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 673697,
@@ -3371,6 +3395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 499393,
+      "num": 499393,
+      "word": "熙媛一路走好",
+      "onboard_time": 1742018783,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 499001,
       "num": 499001,
       "word": "韩国低于性同意年龄均视为强奸",
@@ -3417,6 +3449,14 @@
       "onboard_time": 1741860445,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 496023,
+      "num": 496023,
+      "word": "奚梦瑶和婆婆逛商场",
+      "onboard_time": 1742017105,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 495492,
@@ -4003,6 +4043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 426505,
+      "num": 426505,
+      "word": "韩网热议日本7岁爱豆的见面会",
+      "onboard_time": 1742017105,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 426370,
       "num": 356296,
       "word": "胡烨韬一顺排名第一",
@@ -4233,6 +4281,14 @@
       "onboard_time": 1741463834,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 400780,
+      "num": 471294,
+      "word": "孙颖莎顶住了",
+      "onboard_time": 1742016685,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 400704,
@@ -5835,6 +5891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286321,
+      "num": 456224,
+      "word": "免费领养套路多猫咪死了仍还贷",
+      "onboard_time": 1742016024,
+      "rank": 34,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 285954,
       "num": 285954,
       "word": "花239万自体丰胸检出黄牛驼鹿DNA",
@@ -6907,6 +6971,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 233013,
+      "num": 233013,
+      "word": "孙颖莎回应战胜大藤沙月",
+      "onboard_time": 1742018723,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 232921,
       "num": 232921,
       "word": "网上贷款1560元17天利息13764元",
@@ -6977,14 +7049,6 @@
       "onboard_time": 1741619904,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 231038,
-      "num": 456224,
-      "word": "免费领养套路多猫咪死了仍还贷",
-      "onboard_time": 1742016024,
-      "rank": 34,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 230912,
@@ -7507,14 +7571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 217365,
-      "num": 217365,
-      "word": "韩网热议日本7岁爱豆的见面会",
-      "onboard_time": 1742017105,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 216899,
       "num": 239591,
       "word": "麦琳怀孕胖到140斤",
@@ -7929,6 +7985,14 @@
       "onboard_time": 1742015364,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206281,
+      "num": 489428,
+      "word": "孙颖莎3比1胜大藤沙月",
+      "onboard_time": 1742016685,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 206179,
@@ -8899,6 +8963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191655,
+      "num": 191655,
+      "word": "是时候对韩剧男主祛魅了",
+      "onboard_time": 1742016565,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191151,
       "num": 237487,
       "word": "严浩翔几乎天天训练",
@@ -9691,6 +9763,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 178553,
+      "num": 500140,
+      "word": "林诗栋3比2林昀儒",
+      "onboard_time": 1742019503,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178288,
       "num": 178288,
       "word": "怒水西流定档",
@@ -10168,6 +10248,14 @@
       "word": "女子在翡翠直播间入坑13天下单32次",
       "onboard_time": 1741856543,
       "rank": 42,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 170073,
+      "num": 225363,
+      "word": "别让我们的爱心被宠物贷利用",
+      "onboard_time": 1742017105,
+      "rank": 36,
       "category": "舆论监督"
     },
     {
@@ -10667,6 +10755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 164710,
+      "num": 164710,
+      "word": "THEBOYZ新开账号",
+      "onboard_time": 1742018004,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164663,
       "num": 203000,
       "word": "滤镜豆瓣7.3分",
@@ -10867,6 +10963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162177,
+      "num": 162177,
+      "word": "杨洋hi6穿西装跳开场舞",
+      "onboard_time": 1742019323,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162121,
       "num": 162121,
       "word": "穆雷绝杀湖人专业户",
@@ -10945,6 +11049,14 @@
       "onboard_time": 1741787605,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161356,
+      "num": 161356,
+      "word": "黄轩与女友墨尔本逛街",
+      "onboard_time": 1742018483,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 161347,
@@ -12227,14 +12339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 144250,
-      "num": 225363,
-      "word": "别让我们的爱心被宠物贷利用",
-      "onboard_time": 1742017105,
-      "rank": 36,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 144195,
       "num": 144195,
       "word": "百万埃尔法车主破防了",
@@ -12603,14 +12707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 140167,
-      "num": 140167,
-      "word": "奚梦瑶和婆婆逛商场",
-      "onboard_time": 1742017105,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 140094,
       "num": 140094,
       "word": "HLE抬TES晋级淘汰赛",
@@ -12729,6 +12825,14 @@
       "onboard_time": 1741862243,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138963,
+      "num": 210716,
+      "word": "时尚博主谈王一博发型适配度",
+      "onboard_time": 1742019682,
+      "rank": 26,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 138897,
@@ -13395,6 +13499,14 @@
       "category": "财经,汽车"
     },
     {
+      "raw_hot": 130333,
+      "num": 130333,
+      "word": "杜小华抱着谢浩男痛哭",
+      "onboard_time": 1742019982,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130057,
       "num": 130057,
       "word": "疑似黄磊豆角脱敏训练",
@@ -13513,6 +13625,14 @@
       "onboard_time": 1741618644,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 128128,
+      "num": 764350,
+      "word": "林诗栋vs林昀儒",
+      "onboard_time": 1742012964,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 128002,
@@ -13689,6 +13809,14 @@
       "onboard_time": 1741696524,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125914,
+      "num": 125914,
+      "word": "贺峻霖期末周的大学生belike",
+      "onboard_time": 1742020225,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 125889,
@@ -14857,14 +14985,6 @@
       "onboard_time": 1741682423,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 114789,
-      "num": 489428,
-      "word": "孙颖莎3比1胜大藤沙月",
-      "onboard_time": 1742016685,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 114714,
@@ -16315,6 +16435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 98187,
+      "num": 1424971,
+      "word": "对待春耕这件事中国人有多认真",
+      "onboard_time": 1742015426,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 98087,
       "num": 98087,
       "word": "周鹏啥也没干被罚出去了",
@@ -16553,14 +16681,6 @@
       "onboard_time": 1741677204,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 94397,
-      "num": 1424971,
-      "word": "对待春耕这件事中国人有多认真",
-      "onboard_time": 1742015426,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 94245,
@@ -16881,14 +17001,6 @@
       "onboard_time": 1741364181,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 89823,
-      "num": 285295,
-      "word": "张馨予把痘痘点成痣",
-      "onboard_time": 1742016565,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 89767,
@@ -17531,14 +17643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 78447,
-      "num": 471294,
-      "word": "孙颖莎顶住了",
-      "onboard_time": 1742016685,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 78261,
       "num": 341175,
       "word": "2025公务员联考扩招增幅超8%",
@@ -17561,6 +17665,14 @@
       "onboard_time": 1741519283,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 78036,
+      "num": 500710,
+      "word": "55套送检美白化妆品全部汞超标",
+      "onboard_time": 1742019443,
+      "rank": 13,
+      "category": "舆论监督,美妆"
     },
     {
       "raw_hot": 78023,
@@ -18313,6 +18425,14 @@
       "onboard_time": 1741695323,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 62238,
+      "num": 194274,
+      "word": "留几手不敢过年期间回家",
+      "onboard_time": 1742019382,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 61965,
@@ -19955,6 +20075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34644,
+      "num": 503083,
+      "word": "林诗栋重庆冠军赛进四强",
+      "onboard_time": 1742019503,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 34593,
       "num": 136284,
       "word": "贾明儒绝杀",
@@ -20699,14 +20827,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 24762,
-      "num": 764350,
-      "word": "林诗栋vs林昀儒",
-      "onboard_time": 1742012964,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 24740,
       "num": 650289,
       "word": "夸克新简历",
@@ -21200,6 +21320,14 @@
       "word": "12届中国网络视听大会新闻发布会",
       "onboard_time": 1741863623,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18449,
+      "num": 197120,
+      "word": "杜小华希望下一个找到孩子的是自己",
+      "onboard_time": 1742019863,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
