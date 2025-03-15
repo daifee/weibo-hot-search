@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1742042459442,
+  "endTime": 1742043356467,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -115,8 +115,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 17475610,
-      "num": 17475610,
+      "raw_hot": 17515520,
+      "num": 17515520,
       "word": "315晚会",
       "onboard_time": 1742038885,
       "rank": 0,
@@ -203,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 14566913,
+      "num": 14566913,
+      "word": "翻新卫生巾",
+      "onboard_time": 1742040988,
+      "rank": 1,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 14397354,
       "num": 14397354,
       "word": "张兰汪小菲抖音无限期封禁",
@@ -217,14 +225,6 @@
       "onboard_time": 1741077081,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 13741732,
-      "num": 13741732,
-      "word": "翻新卫生巾",
-      "onboard_time": 1742040988,
-      "rank": 1,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 13463818,
@@ -675,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 6124042,
+      "num": 6124042,
+      "word": "胖猫事件90多吨食物被浪费",
+      "onboard_time": 1742040024,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 6007866,
       "num": 6007866,
       "word": "赵露思长文谈抑郁症",
@@ -689,6 +697,14 @@
       "onboard_time": 1736063187,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 5857742,
+      "num": 5857742,
+      "word": "一次性内裤爆雷",
+      "onboard_time": 1742042250,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 5557391,
@@ -721,14 +737,6 @@
       "onboard_time": 1738577307,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 5097655,
-      "num": 5097655,
-      "word": "胖猫事件90多吨食物被浪费",
-      "onboard_time": 1742040024,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 4918196,
@@ -1003,6 +1011,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 3850210,
+      "num": 3850210,
+      "word": "自由点",
+      "onboard_time": 1742041168,
+      "rank": 4,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 3831944,
       "num": 1666574,
       "word": "小英老公出轨",
@@ -1177,14 +1193,6 @@
       "onboard_time": 1738289537,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 3589208,
-      "num": 3589208,
-      "word": "自由点",
-      "onboard_time": 1742041168,
-      "rank": 4,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 3575207,
@@ -1907,6 +1915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2876833,
+      "num": 2876833,
+      "word": "啄木鸟维修",
+      "onboard_time": 1742042790,
+      "rank": 7,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 2875244,
       "num": 2875244,
       "word": "国家线",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1741522041,
       "rank": 3,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 2638754,
-      "num": 2638754,
-      "word": "尹锡悦被逮捕",
-      "onboard_time": 1736900118,
-      "rank": 0,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 2630467,
-      "num": 2630467,
-      "word": "徐克 肖战让你的兵停一下",
-      "onboard_time": 1736609964,
-      "rank": 1,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [

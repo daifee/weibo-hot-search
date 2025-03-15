@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742042459442,
+  "endTime": 1742043356467,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -27,8 +27,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 17475610,
-      "num": 17475610,
+      "raw_hot": 17515520,
+      "num": 17515520,
       "word": "315晚会",
       "onboard_time": 1742038885,
       "rank": 0,
@@ -51,20 +51,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 14566913,
+      "num": 14566913,
+      "word": "翻新卫生巾",
+      "onboard_time": 1742040988,
+      "rank": 1,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 13760834,
       "num": 13760834,
       "word": "曝王大陆涉嫌杀人未遂移送侦办",
       "onboard_time": 1741077081,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 13741732,
-      "num": 13741732,
-      "word": "翻新卫生巾",
-      "onboard_time": 1742040988,
-      "rank": 1,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 10901855,
@@ -91,12 +91,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 5097655,
-      "num": 5097655,
+      "raw_hot": 6124042,
+      "num": 6124042,
       "word": "胖猫事件90多吨食物被浪费",
       "onboard_time": 1742040024,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 5857742,
+      "num": 5857742,
+      "word": "一次性内裤爆雷",
+      "onboard_time": 1742042250,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 4523747,
@@ -121,6 +129,14 @@
       "onboard_time": 1741923205,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3850210,
+      "num": 3850210,
+      "word": "自由点",
+      "onboard_time": 1742041168,
+      "rank": 4,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 3811869,
@@ -153,14 +169,6 @@
       "onboard_time": 1741700184,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3589208,
-      "num": 3589208,
-      "word": "自由点",
-      "onboard_time": 1742041168,
-      "rank": 4,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 3575207,
@@ -241,6 +249,14 @@
       "onboard_time": 1741057397,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2876833,
+      "num": 2876833,
+      "word": "啄木鸟维修",
+      "onboard_time": 1742042790,
+      "rank": 7,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 2866173,
@@ -691,6 +707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1997239,
+      "num": 1997239,
+      "word": "一次性内裤徒手制作不灭菌",
+      "onboard_time": 1742042550,
+      "rank": 11,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1996502,
       "num": 428623,
       "word": "方大同遗体在云南大理火化",
@@ -937,6 +961,14 @@
       "onboard_time": 1741839324,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1781471,
+      "num": 1781471,
+      "word": "315晚会曝光翻新卫生巾",
+      "onboard_time": 1742040806,
+      "rank": 8,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 1777412,
@@ -1633,6 +1665,14 @@
       "onboard_time": 1741089620,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1385958,
+      "num": 1385958,
+      "word": "米菲纸尿裤",
+      "onboard_time": 1742041588,
+      "rank": 12,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 1385729,
@@ -2363,14 +2403,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1118754,
-      "num": 1143108,
-      "word": "315晚会曝光翻新卫生巾",
-      "onboard_time": 1742040806,
-      "rank": 8,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 1117559,
       "num": 1178809,
       "word": "三亚客房退订新规",
@@ -2707,6 +2739,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1042763,
+      "num": 1042763,
+      "word": "315晚会上来就是卫生巾",
+      "onboard_time": 1742041829,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1038378,
       "num": 1165042,
       "word": "檀健次吃内脏哭戏是现挂",
@@ -2872,6 +2912,14 @@
       "word": "年轻人开始流行各种自带了",
       "onboard_time": 1741742900,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1001074,
+      "num": 1001074,
+      "word": "央视还原胖猫事件真相",
+      "onboard_time": 1742042191,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -3089,14 +3137,6 @@
       "onboard_time": 1740805458,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 953906,
-      "num": 953906,
-      "word": "米菲纸尿裤",
-      "onboard_time": 1742041588,
-      "rank": 12,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 953274,
@@ -3843,6 +3883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 838984,
+      "num": 838984,
+      "word": "全棉时代",
+      "onboard_time": 1742042610,
+      "rank": 18,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 833072,
       "num": 833072,
       "word": "雷军率先走上代表通道",
@@ -4241,6 +4289,14 @@
       "onboard_time": 1741509981,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 773761,
+      "num": 773761,
+      "word": "知名母婴品牌残次料竟被翻新售卖",
+      "onboard_time": 1742041528,
+      "rank": 23,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 773711,
@@ -6371,6 +6427,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 574700,
+      "num": 2082791,
+      "word": "市监局回应315曝光翻新卫生巾",
+      "onboard_time": 1742042070,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 573144,
       "num": 324600,
       "word": "李兰迪对了半个月的账终于平了",
@@ -7659,6 +7723,14 @@
       "category": "教育,艺人"
     },
     {
+      "raw_hot": 480756,
+      "num": 480756,
+      "word": "金赛纶妈妈让金秀贤承认和未成年恋爱",
+      "onboard_time": 1742041469,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 480623,
       "num": 480623,
       "word": "教资科一",
@@ -7803,6 +7875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 474525,
+      "num": 474525,
+      "word": "苏菲",
+      "onboard_time": 1742042610,
+      "rank": 32,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 473482,
       "num": 473482,
       "word": "王俊凯安排自己座驾送长辈",
@@ -7865,6 +7945,14 @@
       "onboard_time": 1741065439,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 468139,
+      "num": 695353,
+      "word": "米菲拉拉裤",
+      "onboard_time": 1742041647,
+      "rank": 37,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 467805,
@@ -8129,6 +8217,14 @@
       "onboard_time": 1741101082,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 451328,
+      "num": 819851,
+      "word": "王楚钦3比0胜莫雷加德",
+      "onboard_time": 1742041950,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 451240,
@@ -8497,14 +8593,6 @@
       "onboard_time": 1740880639,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 432785,
-      "num": 432785,
-      "word": "一次性内裤爆雷",
-      "onboard_time": 1742042250,
-      "rank": 19,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 432780,
@@ -9435,14 +9523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 392750,
-      "num": 392750,
-      "word": "315晚会上来就是卫生巾",
-      "onboard_time": 1742041829,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 392673,
       "num": 392673,
       "word": "于适起诉disco雨索赔20万",
@@ -9915,6 +9995,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 375388,
+      "num": 375388,
+      "word": "初医生",
+      "onboard_time": 1742042851,
+      "rank": 34,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 374944,
       "num": 502788,
       "word": "虞书欣 你可别吓我了",
@@ -10083,14 +10171,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 368680,
-      "num": 368680,
-      "word": "知名母婴品牌残次料竟被翻新售卖",
-      "onboard_time": 1742041528,
-      "rank": 23,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 368664,
       "num": 259897,
       "word": "25岁女孩一天4杯咖啡致骨质疏松",
@@ -10164,7 +10244,7 @@
     },
     {
       "raw_hot": 365745,
-      "num": 1156189,
+      "num": 3102778,
       "word": "Jennie演唱会现场的明星",
       "onboard_time": 1742032823,
       "rank": 26,
@@ -10468,7 +10548,7 @@
     },
     {
       "raw_hot": 356813,
-      "num": 1147937,
+      "num": 2002462,
       "word": "周深在用自己的方式搞文化输出",
       "onboard_time": 1742029044,
       "rank": 9,
@@ -12019,14 +12099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 309959,
-      "num": 309959,
-      "word": "央视还原胖猫事件真相",
-      "onboard_time": 1742042191,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 309715,
       "num": 309715,
       "word": "七星连珠好运连连",
@@ -12049,6 +12121,14 @@
       "onboard_time": 1741093462,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 309218,
+      "num": 309218,
+      "word": "啄木鸟实控超百家企业",
+      "onboard_time": 1742043090,
+      "rank": 39,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 308996,
@@ -12177,14 +12257,6 @@
       "onboard_time": 1741416741,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 305478,
-      "num": 305478,
-      "word": "金赛纶妈妈让金秀贤承认和未成年恋爱",
-      "onboard_time": 1742041469,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 305259,
@@ -12723,6 +12795,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 292740,
+      "num": 292740,
+      "word": "一公立医院被曝使用未获批抗癌药",
+      "onboard_time": 1742040264,
+      "rank": 40,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 292638,
       "num": 301045,
       "word": "杭州销毁百万假货",
@@ -12913,14 +12993,6 @@
       "onboard_time": 1741867764,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 289954,
-      "num": 289954,
-      "word": "米菲拉拉裤",
-      "onboard_time": 1742041647,
-      "rank": 37,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 289862,
@@ -13515,6 +13587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 275184,
+      "num": 275184,
+      "word": "央视315曝光自由点安睡裤",
+      "onboard_time": 1742042490,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 274957,
       "num": 260061,
       "word": "你根本没有意识到你有多么年轻",
@@ -13737,6 +13817,14 @@
       "onboard_time": 1740904638,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 270199,
+      "num": 270199,
+      "word": "翻新卫生巾涉及多个知名品牌",
+      "onboard_time": 1742043332,
+      "rank": 45,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 270181,
@@ -14131,6 +14219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263158,
+      "num": 263158,
+      "word": "Babycare",
+      "onboard_time": 1742043212,
+      "rank": 47,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 263055,
       "num": 209014,
       "word": "年轻人的胃癌发病率增长近80%",
@@ -14233,14 +14329,6 @@
       "onboard_time": 1740973761,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 261562,
-      "num": 819851,
-      "word": "王楚钦3比0胜莫雷加德",
-      "onboard_time": 1742041950,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 261360,
@@ -14457,6 +14545,14 @@
       "onboard_time": 1741954643,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 256335,
+      "num": 433184,
+      "word": "郑中基和老婆互相取关",
+      "onboard_time": 1742038524,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 255831,
@@ -14729,14 +14825,6 @@
       "onboard_time": 1741671561,
       "rank": 49,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 249777,
-      "num": 249777,
-      "word": "一公立医院被曝使用未获批抗癌药",
-      "onboard_time": 1742040264,
-      "rank": 40,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 249523,
@@ -16739,6 +16827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 218455,
+      "num": 749124,
+      "word": "萧敬腾王一博售后",
+      "onboard_time": 1742042191,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218417,
       "num": 261369,
       "word": "银发经济将至少提供1亿个就业岗位",
@@ -16796,7 +16892,7 @@
     },
     {
       "raw_hot": 217854,
-      "num": 322673,
+      "num": 535301,
       "word": "李承铉也没放过戚薇",
       "onboard_time": 1742037384,
       "rank": 39,
@@ -17523,6 +17619,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 209065,
+      "num": 2026418,
+      "word": "315晚会曝光维修刺客啄木鸟",
+      "onboard_time": 1742042730,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 209064,
       "num": 308222,
       "word": "似锦再见烂人",
@@ -17793,14 +17897,6 @@
       "onboard_time": 1742042368,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 206884,
-      "num": 346737,
-      "word": "萧敬腾王一博售后",
-      "onboard_time": 1742042191,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 206815,
@@ -18323,14 +18419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203010,
-      "num": 433184,
-      "word": "郑中基和老婆互相取关",
-      "onboard_time": 1742038524,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 202985,
       "num": 230108,
       "word": "WINTER个人首封",
@@ -18425,6 +18513,14 @@
       "onboard_time": 1741845382,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 202281,
+      "num": 767383,
+      "word": "王楚钦半决赛迎战张本智和",
+      "onboard_time": 1742043031,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 202265,
@@ -22920,6 +23016,14 @@
       "word": "低估了白鹿和欧豪的cp感",
       "onboard_time": 1740812791,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 169132,
+      "num": 1147193,
+      "word": "翻新卫生巾市场倒卖七八千元一吨",
+      "onboard_time": 1742041829,
+      "rank": 13,
       "category": "剧集"
     },
     {
@@ -28755,14 +28859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 136863,
-      "num": 1133721,
-      "word": "市监局回应315曝光翻新卫生巾",
-      "onboard_time": 1742042070,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 136811,
       "num": 136811,
       "word": "我很少内耗的原因",
@@ -31793,6 +31889,14 @@
       "onboard_time": 1741406782,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121290,
+      "num": 736257,
+      "word": "种地吧没白看",
+      "onboard_time": 1742043090,
+      "rank": 22,
+      "category": "教育"
     },
     {
       "raw_hot": 121219,
@@ -39683,6 +39787,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 70042,
+      "num": 618673,
+      "word": "315晚会曝光保水虾仁",
+      "onboard_time": 1742043212,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70004,
       "num": 285259,
       "word": "AI可筛查甲状腺结节是否恶性",
@@ -42891,14 +43003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 42335,
-      "num": 840679,
-      "word": "翻新卫生巾市场倒卖七八千元一吨",
-      "onboard_time": 1742041829,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 42319,
       "num": 51718,
       "word": "马斯克首访美国家安全局",
@@ -43297,6 +43401,14 @@
       "onboard_time": 1741088960,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 40221,
+      "num": 725963,
+      "word": "K总带粉丝看婚房",
+      "onboard_time": 1742043152,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 40210,
@@ -44833,6 +44945,14 @@
       "onboard_time": 1741781844,
       "rank": 19,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 30139,
+      "num": 299262,
+      "word": "TES发文告别全球先锋赛",
+      "onboard_time": 1742043332,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 30097,
