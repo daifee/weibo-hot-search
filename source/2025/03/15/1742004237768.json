@@ -1,0 +1,410 @@
+{
+  "runTime": 1742004237768,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1994853,
+        "num": 1994853,
+        "word": "315",
+        "onboard_time": 1741995499,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1247839,
+        "num": 1247839,
+        "word": "小龙坎被曝回收鸭血等剩菜二次销售",
+        "onboard_time": 1741998921,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 40890,
+        "num": 1076443,
+        "word": "我国各区域外贸开年成绩单出炉",
+        "onboard_time": 1741959144,
+        "rank": 2,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 1043161,
+        "num": 1043161,
+        "word": "戚薇不能接受袜子内裤一起洗",
+        "onboard_time": 1741998861,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 517127,
+        "num": 517127,
+        "word": "男子拿100克金钞以690元1克变现",
+        "onboard_time": 1741997361,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 458953,
+        "num": 458953,
+        "word": "周深说哪吒2的成功给大家很多信心",
+        "onboard_time": 1742000842,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 453889,
+        "num": 453889,
+        "word": "主播称母亲迪拜公主吸引65万粉丝",
+        "onboard_time": 1742001022,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 402873,
+        "num": 402873,
+        "word": "胖东来红内裤当事人道歉",
+        "onboard_time": 1741962563,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 384870,
+        "num": 384870,
+        "word": "火的其实是阿拉蕾",
+        "onboard_time": 1741999881,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183554,
+        "num": 381512,
+        "word": "国际消费者权益日",
+        "onboard_time": 1742003482,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 657004,
+        "num": 380556,
+        "word": "最早曝金秀贤金赛纶恋爱的记者已去世",
+        "onboard_time": 1741966104,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378171,
+        "num": 378171,
+        "word": "宋轶删除电视剧品质盛典官宣博",
+        "onboard_time": 1741964783,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 478278,
+        "num": 377730,
+        "word": "Prada5年内已塌房7位代言人",
+        "onboard_time": 1741969881,
+        "rank": 12,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 374944,
+        "num": 374944,
+        "word": "虞书欣 你可别吓我了",
+        "onboard_time": 1742001862,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 359517,
+        "num": 359517,
+        "word": "女子遗落手机称下车1分钟后被关机",
+        "onboard_time": 1742002162,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 374535,
+        "num": 353877,
+        "word": "金赛纶母亲曝女儿葬礼被偷拍",
+        "onboard_time": 1741969881,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339991,
+        "num": 339991,
+        "word": "龙飞船将接回美2名被困太空宇航员",
+        "onboard_time": 1741996759,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 287083,
+        "num": 287083,
+        "word": "沈阳要求小米su7ultra车主签安全承诺书",
+        "onboard_time": 1741997480,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269989,
+        "num": 269989,
+        "word": "K总老家办婚礼被堵门生气",
+        "onboard_time": 1741971560,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 202249,
+        "num": 232473,
+        "word": "王霏霏跟孙坚在上海P人游",
+        "onboard_time": 1741996460,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390380,
+        "num": 230716,
+        "word": "117岁去世老人身上发现长寿秘密",
+        "onboard_time": 1741997361,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224634,
+        "num": 224634,
+        "word": "谢浩男被人贩子藏在出租屋整整3天",
+        "onboard_time": 1741998861,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224614,
+        "num": 224614,
+        "word": "不止315更要365",
+        "onboard_time": 1741997120,
+        "rank": 22,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 201260,
+        "num": 201260,
+        "word": "花239万自体丰胸检出黄牛驼鹿DNA",
+        "onboard_time": 1741963225,
+        "rank": 23,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 193142,
+        "num": 193142,
+        "word": "许府牛火锅牛骨高汤锅底系料包冲调",
+        "onboard_time": 1741998861,
+        "rank": 24,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 191014,
+        "num": 191014,
+        "word": "董力阿拉蕾",
+        "onboard_time": 1741963883,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187603,
+        "num": 187603,
+        "word": "沪上阿姨改过期标签食材被人为延寿",
+        "onboard_time": 1742001800,
+        "rank": 26,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 185042,
+        "num": 185042,
+        "word": "特朗普要求普京饶乌军一命",
+        "onboard_time": 1741993518,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 155482,
+        "num": 155482,
+        "word": "直击哪吒2冲击全球票房前五",
+        "onboard_time": 1742001262,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151671,
+        "num": 151671,
+        "word": "檀健次演的生理性眼肌反应",
+        "onboard_time": 1741963943,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158351,
+        "num": 151374,
+        "word": "向佐在35度的新加坡穿羽绒服",
+        "onboard_time": 1742000483,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156332,
+        "num": 151066,
+        "word": "终于明白抗炎食物有哪些了",
+        "onboard_time": 1741964603,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 147546,
+        "num": 147546,
+        "word": "世界杯名单",
+        "onboard_time": 1742000842,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146291,
+        "num": 146291,
+        "word": "微博账号张玄化发布健康谣言被禁言",
+        "onboard_time": 1742003841,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133838,
+        "num": 133838,
+        "word": "哪吒2票房超150亿",
+        "onboard_time": 1741957285,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128604,
+        "num": 128604,
+        "word": "官方回应夫妻2人掉入引黄渠溺亡",
+        "onboard_time": 1741998501,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121228,
+        "num": 121228,
+        "word": "市监回应蜜雪冰城鲜果片隔夜继续用",
+        "onboard_time": 1741966223,
+        "rank": 36,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 113333,
+        "num": 113333,
+        "word": "90后小伙摆摊卖炒饭去年净赚50万",
+        "onboard_time": 1741998501,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110093,
+        "num": 110093,
+        "word": "国防部回应日方舰艇过航台海",
+        "onboard_time": 1742001922,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 108057,
+        "num": 108057,
+        "word": "愿所有考生一路繁花",
+        "onboard_time": 1742000781,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 106337,
+        "num": 106337,
+        "word": "刘亦菲和助理逛街被偶遇",
+        "onboard_time": 1742004082,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104076,
+        "num": 104076,
+        "word": "Homme回应TES比赛失利",
+        "onboard_time": 1742001922,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102703,
+        "num": 102703,
+        "word": "杭州男生成功高端真的成功了",
+        "onboard_time": 1741996280,
+        "rank": 42,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 100832,
+        "num": 100832,
+        "word": "残疾女子认亲后亲哥借钱消失",
+        "onboard_time": 1741998501,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98692,
+        "num": 98692,
+        "word": "短剧",
+        "onboard_time": 1741965505,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95640,
+        "num": 95640,
+        "word": "胖东来红内裤当事人称遭恐吓",
+        "onboard_time": 1742002941,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94515,
+        "num": 94515,
+        "word": "女子曝男子2次夜间骚扰掩面夺手机",
+        "onboard_time": 1742003781,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92043,
+        "num": 92043,
+        "word": "浙江宁波杭甬高速一路段多车相撞",
+        "onboard_time": 1742003961,
+        "rank": 47,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 90444,
+        "num": 90444,
+        "word": "东方集团股价低于人民币1元",
+        "onboard_time": 1741998501,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 88831,
+        "num": 88831,
+        "word": "特朗普称乌军被包围乌方否认",
+        "onboard_time": 1741997960,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记足迹瞰林海#"
+    }
+  }
+}

@@ -1,10 +1,10 @@
 {
   "startTime": 1741969737801,
-  "endTime": 1742003149430,
+  "endTime": 1742004237768,
   "band_list": [
     {
-      "raw_hot": 1852210,
-      "num": 1852210,
+      "raw_hot": 1994853,
+      "num": 1994853,
       "word": "315",
       "onboard_time": 1741995499,
       "rank": 0,
@@ -19,6 +19,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1247839,
+      "num": 1247839,
+      "word": "小龙坎被曝回收鸭血等剩菜二次销售",
+      "onboard_time": 1741998921,
+      "rank": 4,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1158011,
       "num": 1158011,
       "word": "坚持喝煮苹果水会发生什么",
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1143961,
-      "num": 610577,
+      "num": 1043161,
       "word": "戚薇不能接受袜子内裤一起洗",
       "onboard_time": 1741998861,
       "rank": 3,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 949527,
-      "num": 373592,
+      "num": 378171,
       "word": "宋轶删除电视剧品质盛典官宣博",
       "onboard_time": 1741964783,
       "rank": 11,
@@ -83,20 +91,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 601015,
-      "num": 601015,
-      "word": "小龙坎被曝回收鸭血等剩菜二次销售",
-      "onboard_time": 1741998921,
-      "rank": 4,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 484448,
-      "num": 291042,
+      "num": 353877,
       "word": "金赛纶母亲曝女儿葬礼被偷拍",
       "onboard_time": 1741969881,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 478278,
+      "num": 377730,
+      "word": "Prada5年内已塌房7位代言人",
+      "onboard_time": 1741969881,
+      "rank": 17,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 464719,
@@ -115,28 +123,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 432610,
-      "num": 432610,
-      "word": "主播称母亲迪拜公主吸引65万粉丝",
-      "onboard_time": 1742001022,
-      "rank": 7,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 430708,
-      "num": 373561,
-      "word": "Prada5年内已塌房7位代言人",
-      "onboard_time": 1741969881,
-      "rank": 17,
-      "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 412991,
-      "num": 412991,
+      "raw_hot": 458953,
+      "num": 458953,
       "word": "周深说哪吒2的成功给大家很多信心",
       "onboard_time": 1742000842,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 453889,
+      "num": 453889,
+      "word": "主播称母亲迪拜公主吸引65万粉丝",
+      "onboard_time": 1742001022,
+      "rank": 7,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 406783,
@@ -171,12 +171,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 374944,
+      "num": 374944,
+      "word": "虞书欣 你可别吓我了",
+      "onboard_time": 1742001862,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 368240,
       "num": 368240,
       "word": "西安交大通报副教授论文全文抄袭",
       "onboard_time": 1741961723,
       "rank": 3,
       "category": "教育"
+    },
+    {
+      "raw_hot": 359517,
+      "num": 359517,
+      "word": "女子遗落手机称下车1分钟后被关机",
+      "onboard_time": 1742002162,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 358724,
@@ -235,14 +251,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 279620,
-      "num": 279620,
-      "word": "虞书欣 你可别吓我了",
-      "onboard_time": 1742001862,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 273881,
       "num": 99600,
       "word": "金赛纶妈妈声明",
@@ -283,8 +291,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 211361,
-      "num": 211361,
+      "raw_hot": 224634,
+      "num": 224634,
       "word": "谢浩男被人贩子藏在出租屋整整3天",
       "onboard_time": 1741998861,
       "rank": 25,
@@ -305,6 +313,14 @@
       "onboard_time": 1741964603,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 193142,
+      "num": 193142,
+      "word": "许府牛火锅牛骨高汤锅底系料包冲调",
+      "onboard_time": 1741998861,
+      "rank": 35,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 192709,
@@ -329,6 +345,14 @@
       "onboard_time": 1741968083,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183554,
+      "num": 381512,
+      "word": "国际消费者权益日",
+      "onboard_time": 1742003482,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 182655,
@@ -411,12 +435,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 149315,
-      "num": 149315,
-      "word": "许府牛火锅牛骨高汤锅底系料包冲调",
-      "onboard_time": 1741998861,
-      "rank": 35,
-      "category": "舆论监督"
+      "raw_hot": 146291,
+      "num": 146291,
+      "word": "微博账号张玄化发布健康谣言被禁言",
+      "onboard_time": 1742003841,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145099,
@@ -483,14 +507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 116546,
-      "num": 246416,
-      "word": "女子遗落手机称下车1分钟后被关机",
-      "onboard_time": 1742002162,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 115618,
       "num": 115618,
       "word": "网购79元海蓝之谜是真瓶假灌",
@@ -539,6 +555,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 106337,
+      "num": 106337,
+      "word": "刘亦菲和助理逛街被偶遇",
+      "onboard_time": 1742004082,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106252,
       "num": 106252,
       "word": "TES晋级全球先锋赛四强",
@@ -569,6 +593,14 @@
       "onboard_time": 1741996280,
       "rank": 44,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 104076,
+      "num": 104076,
+      "word": "Homme回应TES比赛失利",
+      "onboard_time": 1742001922,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 103431,
@@ -643,19 +675,27 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 96618,
-      "num": 96618,
-      "word": "Homme回应TES比赛失利",
-      "onboard_time": 1742001922,
-      "rank": 49,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 96258,
       "num": 96258,
       "word": "男孩跑步582天身高从152长到170",
       "onboard_time": 1741955722,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95640,
+      "num": 106438,
+      "word": "胖东来红内裤当事人称遭恐吓",
+      "onboard_time": 1742002941,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94515,
+      "num": 94515,
+      "word": "女子曝男子2次夜间骚扰掩面夺手机",
+      "onboard_time": 1742003781,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -673,6 +713,14 @@
       "onboard_time": 1741956324,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 92043,
+      "num": 92043,
+      "word": "浙江宁波杭甬高速一路段多车相撞",
+      "onboard_time": 1742003961,
+      "rank": 47,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 91536,
@@ -745,14 +793,6 @@
       "onboard_time": 1741945884,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 71506,
-      "num": 106438,
-      "word": "胖东来红内裤当事人称遭恐吓",
-      "onboard_time": 1742002941,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 70586,
@@ -851,6 +891,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 40890,
+      "num": 1076443,
+      "word": "我国各区域外贸开年成绩单出炉",
+      "onboard_time": 1741959144,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 38841,
       "num": 77691,
       "word": "苦尽柑来遇见你",
@@ -865,14 +913,6 @@
       "onboard_time": 1741986853,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 37327,
-      "num": 619962,
-      "word": "我国各区域外贸开年成绩单出炉",
-      "onboard_time": 1741959144,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 29297,
