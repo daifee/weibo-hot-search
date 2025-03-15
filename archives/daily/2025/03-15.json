@@ -1,6 +1,6 @@
 {
   "startTime": 1741969737801,
-  "endTime": 1742027292109,
+  "endTime": 1742028079094,
   "band_list": [
     {
       "raw_hot": 3266055,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1535003,
-      "num": 431074,
+      "num": 551133,
       "word": "金秀贤中国台湾线下见面会照常进行",
       "onboard_time": 1742021724,
       "rank": 10,
@@ -123,6 +123,22 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1174299,
+      "num": 1174299,
+      "word": "北京下雪",
+      "onboard_time": 1742024902,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1173456,
+      "num": 556049,
+      "word": "熙媛一路走好",
+      "onboard_time": 1742018783,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1158011,
       "num": 1158011,
       "word": "坚持喝煮苹果水会发生什么",
@@ -137,14 +153,6 @@
       "onboard_time": 1741998861,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 994725,
-      "num": 994725,
-      "word": "北京下雪",
-      "onboard_time": 1742024902,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 973682,
@@ -179,14 +187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 867326,
-      "num": 556049,
-      "word": "熙媛一路走好",
-      "onboard_time": 1742018783,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 857056,
       "num": 917406,
       "word": "胖东来红内裤当事人道歉",
@@ -203,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 842843,
+      "num": 842843,
+      "word": "男子兑奖时又刮出头奖100万",
+      "onboard_time": 1742024183,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 817253,
       "num": 817253,
       "word": "前夫李厚霖否认家暴李湘",
@@ -217,14 +225,6 @@
       "onboard_time": 1741971560,
       "rank": 10,
       "category": "网红"
-    },
-    {
-      "raw_hot": 794110,
-      "num": 794110,
-      "word": "男子兑奖时又刮出头奖100万",
-      "onboard_time": 1742024183,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 771795,
@@ -316,7 +316,7 @@
     },
     {
       "raw_hot": 586326,
-      "num": 528723,
+      "num": 551390,
       "word": "OpenAI称DeepSeek是另一个华为",
       "onboard_time": 1742020703,
       "rank": 27,
@@ -329,6 +329,14 @@
       "onboard_time": 1742001022,
       "rank": 7,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 551072,
+      "num": 551072,
+      "word": "在山姆买到不合格糖果8年未能退赔",
+      "onboard_time": 1742025983,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 538479,
@@ -404,7 +412,7 @@
     },
     {
       "raw_hot": 465744,
-      "num": 465744,
+      "num": 551481,
       "word": "白敬亭章若楠真有双人写真",
       "onboard_time": 1742025442,
       "rank": 8,
@@ -579,12 +587,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 340638,
-      "num": 340638,
-      "word": "在山姆买到不合格糖果8年未能退赔",
-      "onboard_time": 1742025983,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 341159,
+      "num": 346577,
+      "word": "暗访网红足浴包背后工厂",
+      "onboard_time": 1742025861,
+      "rank": 18,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 339950,
@@ -603,20 +611,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 331390,
+      "num": 350796,
+      "word": "邓为新剧班底",
+      "onboard_time": 1742025322,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 318852,
       "num": 318852,
       "word": "政治理论",
       "onboard_time": 1742008402,
       "rank": 18,
       "category": "教育"
-    },
-    {
-      "raw_hot": 312382,
-      "num": 350796,
-      "word": "邓为新剧班底",
-      "onboard_time": 1742025322,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 307926,
@@ -667,6 +675,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 276688,
+      "num": 348827,
+      "word": "曝演员张振寰家中去世多日后被发现",
+      "onboard_time": 1742021783,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 273881,
       "num": 99600,
       "word": "金赛纶妈妈声明",
@@ -681,14 +697,6 @@
       "onboard_time": 1742014704,
       "rank": 39,
       "category": "教育"
-    },
-    {
-      "raw_hot": 272092,
-      "num": 348827,
-      "word": "曝演员张振寰家中去世多日后被发现",
-      "onboard_time": 1742021783,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 265769,
@@ -1107,6 +1115,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 176712,
+      "num": 176712,
+      "word": "JDG",
+      "onboard_time": 1742027844,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 175421,
       "num": 175421,
       "word": "网传小米SU7Ultra车主需承诺不飙车",
@@ -1185,6 +1201,14 @@
       "onboard_time": 1742008343,
       "rank": 39,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 165513,
+      "num": 165513,
+      "word": "315晚会总导演爆料晚会看点",
+      "onboard_time": 1742027183,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165388,
@@ -1315,6 +1339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146567,
+      "num": 146567,
+      "word": "杭州郁金香",
+      "onboard_time": 1742024722,
+      "rank": 38,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 146291,
       "num": 146291,
       "word": "微博账号张玄化发布健康谣言被禁言",
@@ -1337,6 +1369,14 @@
       "onboard_time": 1741998501,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144050,
+      "num": 351444,
+      "word": "AI建议引发医疗事故谁担责",
+      "onboard_time": 1742026164,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 144008,
@@ -1369,14 +1409,6 @@
       "onboard_time": 1742011343,
       "rank": 48,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 141664,
-      "num": 346577,
-      "word": "暗访网红足浴包背后工厂",
-      "onboard_time": 1742025861,
-      "rank": 18,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 140962,
@@ -1419,12 +1451,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 138601,
+      "num": 138601,
+      "word": "嘘国王在冬眠限免",
+      "onboard_time": 1742026763,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136522,
       "num": 500710,
       "word": "55套送检美白化妆品全部汞超标",
       "onboard_time": 1742019443,
       "rank": 13,
       "category": "舆论监督,美妆"
+    },
+    {
+      "raw_hot": 133980,
+      "num": 133980,
+      "word": "黄杨钿甜叫董思成哥哥",
+      "onboard_time": 1742024001,
+      "rank": 47,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 133641,
@@ -1467,36 +1515,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130247,
-      "num": 130247,
-      "word": "杭州郁金香",
-      "onboard_time": 1742024722,
-      "rank": 38,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 128128,
       "num": 764350,
       "word": "林诗栋vs林昀儒",
       "onboard_time": 1742012964,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 126195,
-      "num": 126195,
-      "word": "嘘国王在冬眠限免",
-      "onboard_time": 1742026763,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 124318,
-      "num": 124318,
-      "word": "黄杨钿甜叫董思成哥哥",
-      "onboard_time": 1742024001,
-      "rank": 47,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 123651,
@@ -1547,6 +1571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118064,
+      "num": 118064,
+      "word": "花1万块在意大利住到的诡异民宿",
+      "onboard_time": 1742027541,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 118032,
       "num": 2001348,
       "word": "诚信北京315",
@@ -1561,6 +1593,14 @@
       "onboard_time": 1742012062,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 116665,
+      "num": 152158,
+      "word": "哪吒2破五",
+      "onboard_time": 1742027783,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 115618,
@@ -1641,14 +1681,6 @@
       "onboard_time": 1741997960,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 106390,
-      "num": 106390,
-      "word": "315晚会总导演爆料晚会看点",
-      "onboard_time": 1742027183,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106252,
@@ -1931,6 +1963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 81019,
+      "num": 551345,
+      "word": "315晚会看点",
+      "onboard_time": 1742027123,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80294,
       "num": 80294,
       "word": "这居然是蔡文静",
@@ -2083,14 +2123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 58217,
-      "num": 351444,
-      "word": "AI建议引发医疗事故谁担责",
-      "onboard_time": 1742026164,
-      "rank": 14,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 54976,
       "num": 54976,
       "word": "京城大师赛",
@@ -2123,6 +2155,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 51572,
+      "num": 1051381,
+      "word": "我国再次发射一箭双星",
+      "onboard_time": 1742027243,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 51456,
       "num": 406663,
       "word": "专家称金价或将继续上涨",
@@ -2137,6 +2177,14 @@
       "onboard_time": 1742015606,
       "rank": 14,
       "category": "舆论监督,动漫"
+    },
+    {
+      "raw_hot": 50932,
+      "num": 198179,
+      "word": "男子为骗全额退票伪造死亡证明",
+      "onboard_time": 1742026402,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49745,
@@ -2203,14 +2251,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 37561,
-      "num": 196217,
-      "word": "315晚会看点",
-      "onboard_time": 1742027123,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 37530,
       "num": 47115,
       "word": "格陵兰岛有什么被美国惦记100多年",
@@ -2227,20 +2267,20 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 36883,
-      "num": 198179,
-      "word": "男子为骗全额退票伪造死亡证明",
-      "onboard_time": 1742026402,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 32705,
       "num": 251658,
       "word": "加拿大新总理称入美论太疯狂",
       "onboard_time": 1742006361,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 30315,
+      "num": 345205,
+      "word": "各国外交官看完哪吒2会唱rap了",
+      "onboard_time": 1742026342,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 30025,
@@ -2315,20 +2355,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21370,
-      "num": 345205,
-      "word": "各国外交官看完哪吒2会唱rap了",
-      "onboard_time": 1742026342,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 20981,
       "num": 87360,
       "word": "众火溯还之日",
       "onboard_time": 1741971799,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 20882,
+      "num": 1241280,
+      "word": "今年以来消费市场亮点频现",
+      "onboard_time": 1742027722,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19739,
@@ -2353,6 +2393,14 @@
       "onboard_time": 1741988834,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16195,
+      "num": 177181,
+      "word": "58岁姑姑花3999元抢量子低频共振仪",
+      "onboard_time": 1742027903,
+      "rank": 30,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 15718,
@@ -2401,14 +2449,6 @@
       "onboard_time": 1741975936,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 7000,
-      "num": 1051381,
-      "word": "我国再次发射一箭双星",
-      "onboard_time": 1742027243,
-      "rank": 2,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
@@ -2420,6 +2460,9 @@
     },
     {
       "word": "#总书记这些话语掷地有声#"
+    },
+    {
+      "word": "#习近平的民生之问#"
     }
   ]
 }
