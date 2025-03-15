@@ -1,10 +1,18 @@
 {
   "startTime": 1741969737801,
-  "endTime": 1741995454422,
+  "endTime": 1742003149430,
   "band_list": [
     {
+      "raw_hot": 1852210,
+      "num": 1852210,
+      "word": "315",
+      "onboard_time": 1741995499,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1517653,
-      "num": 172642,
+      "num": 381445,
       "word": "最早曝金秀贤金赛纶恋爱的记者已去世",
       "onboard_time": 1741966104,
       "rank": 10,
@@ -19,8 +27,16 @@
       "category": "健康医疗,美食"
     },
     {
+      "raw_hot": 1143961,
+      "num": 610577,
+      "word": "戚薇不能接受袜子内裤一起洗",
+      "onboard_time": 1741998861,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 949527,
-      "num": 171362,
+      "num": 373592,
       "word": "宋轶删除电视剧品质盛典官宣博",
       "onboard_time": 1741964783,
       "rank": 11,
@@ -36,7 +52,7 @@
     },
     {
       "raw_hot": 804963,
-      "num": 138080,
+      "num": 293596,
       "word": "K总老家办婚礼被堵门生气",
       "onboard_time": 1741971560,
       "rank": 10,
@@ -51,6 +67,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 665796,
+      "num": 665796,
+      "word": "男子拿100克金钞以690元1克变现",
+      "onboard_time": 1741997361,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 602577,
       "num": 170418,
       "word": "黄杨钿甜公主直角肩",
@@ -59,8 +83,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 601015,
+      "num": 601015,
+      "word": "小龙坎被曝回收鸭血等剩菜二次销售",
+      "onboard_time": 1741998921,
+      "rank": 4,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 484448,
-      "num": 159761,
+      "num": 291042,
       "word": "金赛纶母亲曝女儿葬礼被偷拍",
       "onboard_time": 1741969881,
       "rank": 15,
@@ -75,20 +107,52 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 416421,
-      "num": 158452,
+      "raw_hot": 462777,
+      "num": 462777,
+      "word": "火的其实是阿拉蕾",
+      "onboard_time": 1741999881,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 432610,
+      "num": 432610,
+      "word": "主播称母亲迪拜公主吸引65万粉丝",
+      "onboard_time": 1742001022,
+      "rank": 7,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 430708,
+      "num": 373561,
       "word": "Prada5年内已塌房7位代言人",
       "onboard_time": 1741969881,
       "rank": 17,
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 412991,
+      "num": 412991,
+      "word": "周深说哪吒2的成功给大家很多信心",
+      "onboard_time": 1742000842,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 406783,
-      "num": 167643,
+      "num": 233212,
       "word": "董力阿拉蕾",
       "onboard_time": 1741963883,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 405592,
+      "num": 246106,
+      "word": "117岁去世老人身上发现长寿秘密",
+      "onboard_time": 1741997361,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 390497,
@@ -97,6 +161,14 @@
       "onboard_time": 1741952363,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 385181,
+      "num": 385181,
+      "word": "龙飞船将接回美2名被困太空宇航员",
+      "onboard_time": 1741996759,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 368240,
@@ -121,6 +193,14 @@
       "onboard_time": 1741965505,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 353253,
+      "num": 353253,
+      "word": "沈阳要求小米su7ultra车主签安全承诺书",
+      "onboard_time": 1741997480,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 339950,
@@ -155,6 +235,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 279620,
+      "num": 279620,
+      "word": "虞书欣 你可别吓我了",
+      "onboard_time": 1742001862,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 273881,
       "num": 99600,
       "word": "金赛纶妈妈声明",
@@ -171,6 +259,38 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 250951,
+      "num": 250951,
+      "word": "不止315更要365",
+      "onboard_time": 1741997120,
+      "rank": 18,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 240254,
+      "num": 240254,
+      "word": "沪上阿姨改过期标签食材被人为延寿",
+      "onboard_time": 1742001800,
+      "rank": 22,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 234630,
+      "num": 263935,
+      "word": "王霏霏跟孙坚在上海P人游",
+      "onboard_time": 1741996460,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 211361,
+      "num": 211361,
+      "word": "谢浩男被人贩子藏在出租屋整整3天",
+      "onboard_time": 1741998861,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205766,
       "num": 205766,
       "word": "台湾各界痛批赖清德分裂疯狂言论",
@@ -180,7 +300,7 @@
     },
     {
       "raw_hot": 194244,
-      "num": 155163,
+      "num": 157128,
       "word": "终于明白抗炎食物有哪些了",
       "onboard_time": 1741964603,
       "rank": 20,
@@ -193,6 +313,14 @@
       "onboard_time": 1741969162,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 187713,
+      "num": 187713,
+      "word": "特朗普要求普京饶乌军一命",
+      "onboard_time": 1741993518,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 184397,
@@ -235,6 +363,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171375,
+      "num": 171375,
+      "word": "向佐在35度的新加坡穿羽绒服",
+      "onboard_time": 1742000483,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 168892,
+      "num": 168892,
+      "word": "世界杯名单",
+      "onboard_time": 1742000842,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165342,
       "num": 165342,
       "word": "肖战专辑我们泰国屠榜",
@@ -249,6 +393,38 @@
       "onboard_time": 1741985654,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 156740,
+      "num": 203936,
+      "word": "直击哪吒2冲击全球票房前五",
+      "onboard_time": 1742001262,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 154302,
+      "num": 154302,
+      "word": "愿所有考生一路繁花",
+      "onboard_time": 1742000781,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 149315,
+      "num": 149315,
+      "word": "许府牛火锅牛骨高汤锅底系料包冲调",
+      "onboard_time": 1741998861,
+      "rank": 35,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 145099,
+      "num": 145099,
+      "word": "官方回应夫妻2人掉入引黄渠溺亡",
+      "onboard_time": 1741998501,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132705,
@@ -275,12 +451,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123580,
+      "num": 123580,
+      "word": "残疾女子认亲后亲哥借钱消失",
+      "onboard_time": 1741998501,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120977,
+      "num": 120977,
+      "word": "国防部回应日方舰艇过航台海",
+      "onboard_time": 1742001922,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 120042,
       "num": 120042,
       "word": "坚定不移推进祖国统一大业",
       "onboard_time": 1741967003,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 118751,
+      "num": 118751,
+      "word": "90后小伙摆摊卖炒饭去年净赚50万",
+      "onboard_time": 1741998501,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116546,
+      "num": 246416,
+      "word": "女子遗落手机称下车1分钟后被关机",
+      "onboard_time": 1742002162,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115618,
@@ -323,12 +531,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 106906,
+      "num": 106906,
+      "word": "特朗普称乌军被包围乌方否认",
+      "onboard_time": 1741997960,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 106252,
       "num": 106252,
       "word": "TES晋级全球先锋赛四强",
       "onboard_time": 1741956144,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 106144,
+      "num": 106144,
+      "word": "考研名师汤家凤连续喊话田静公布成绩",
+      "onboard_time": 1741995199,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 105655,
@@ -339,12 +563,36 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 104144,
+      "num": 104144,
+      "word": "杭州男生成功高端真的成功了",
+      "onboard_time": 1741996280,
+      "rank": 44,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 103431,
       "num": 110361,
       "word": "卢昱晓黄杨钿甜亲亲",
       "onboard_time": 1741967363,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102862,
+      "num": 102862,
+      "word": "东方集团股价低于人民币1元",
+      "onboard_time": 1741998501,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 101178,
+      "num": 101178,
+      "word": "美国龙飞船载4名宇航员飞往空间站",
+      "onboard_time": 1742002821,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 100697,
@@ -393,6 +641,14 @@
       "onboard_time": 1741961424,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96618,
+      "num": 96618,
+      "word": "Homme回应TES比赛失利",
+      "onboard_time": 1742001922,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 96258,
@@ -491,12 +747,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 73666,
-      "num": 73666,
-      "word": "特朗普要求普京饶乌军一命",
-      "onboard_time": 1741993518,
-      "rank": 25,
-      "category": "国际时政"
+      "raw_hot": 71506,
+      "num": 106438,
+      "word": "胖东来红内裤当事人称遭恐吓",
+      "onboard_time": 1742002941,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70586,
@@ -504,6 +760,14 @@
       "word": "省考 紧张",
       "onboard_time": 1741955902,
       "rank": 32,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 61926,
+      "num": 211450,
+      "word": "省考今天开考",
+      "onboard_time": 1742000541,
+      "rank": 24,
       "category": "教育"
     },
     {
@@ -545,6 +809,14 @@
       "onboard_time": 1741980735,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52036,
+      "num": 193355,
+      "word": "巴基斯坦列车遇袭死亡人数上升",
+      "onboard_time": 1742001681,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 49745,
@@ -596,19 +868,11 @@
     },
     {
       "raw_hot": 37327,
-      "num": 403143,
+      "num": 619962,
       "word": "我国各区域外贸开年成绩单出炉",
       "onboard_time": 1741959144,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 37109,
-      "num": 79883,
-      "word": "考研名师汤家凤连续喊话田静公布成绩",
-      "onboard_time": 1741995199,
-      "rank": 26,
-      "category": "教育"
     },
     {
       "raw_hot": 29297,
