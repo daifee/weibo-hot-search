@@ -1,6 +1,6 @@
 {
   "startTime": 1741969737801,
-  "endTime": 1742048504601,
+  "endTime": 1742049488626,
   "band_list": [
     {
       "raw_hot": 20774578,
@@ -35,11 +35,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 4562656,
-      "num": 4562656,
+      "raw_hot": 5383387,
+      "num": 5383387,
       "word": "全棉时代",
       "onboard_time": 1742042610,
       "rank": 18,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 4358632,
+      "num": 4358632,
+      "word": "315名单",
+      "onboard_time": 1742044291,
+      "rank": 31,
       "category": "舆论监督"
     },
     {
@@ -48,6 +56,14 @@
       "word": "啄木鸟维修",
       "onboard_time": 1742042790,
       "rank": 7,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 4071194,
+      "num": 4071194,
+      "word": "护舒宝声明",
+      "onboard_time": 1742048012,
+      "rank": 20,
       "category": "舆论监督"
     },
     {
@@ -75,20 +91,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 2722570,
-      "num": 2722570,
-      "word": "315名单",
-      "onboard_time": 1742044291,
-      "rank": 31,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 2712729,
       "num": 823850,
       "word": "金秀贤公开亲吻照元数据",
       "onboard_time": 1742008944,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2560668,
+      "num": 2560668,
+      "word": "苏菲",
+      "onboard_time": 1742042610,
+      "rank": 32,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 2442542,
@@ -139,14 +155,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 2092999,
-      "num": 2092999,
-      "word": "苏菲",
-      "onboard_time": 1742042610,
-      "rank": 32,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 1997239,
       "num": 1997239,
       "word": "一次性内裤徒手制作不灭菌",
@@ -160,6 +168,14 @@
       "word": "315晚会曝光翻新卫生巾",
       "onboard_time": 1742040806,
       "rank": 8,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 1777595,
+      "num": 1777595,
+      "word": "看315晚会天塌了",
+      "onboard_time": 1742046633,
+      "rank": 19,
       "category": "舆论监督"
     },
     {
@@ -184,6 +200,14 @@
       "word": "七度空间",
       "onboard_time": 1742045374,
       "rank": 40,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 1563252,
+      "num": 1563252,
+      "word": "自由点卫生巾直播间被刷屏",
+      "onboard_time": 1742045914,
+      "rank": 18,
       "category": "舆论监督"
     },
     {
@@ -243,6 +267,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1415779,
+      "num": 1415779,
+      "word": "蜜雪冰城",
+      "onboard_time": 1742047233,
+      "rank": 26,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1399157,
       "num": 1399157,
       "word": "演员张振寰去世",
@@ -275,22 +307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1324393,
-      "num": 1324393,
-      "word": "自由点卫生巾直播间被刷屏",
-      "onboard_time": 1742045914,
-      "rank": 18,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 1304024,
-      "num": 1304024,
-      "word": "看315晚会天塌了",
-      "onboard_time": 1742046633,
-      "rank": 19,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 1274541,
       "num": 1274541,
       "word": "云南遇害司机下班后本要给孩子煮饭",
@@ -304,14 +320,6 @@
       "word": "小龙坎被曝回收鸭血等剩菜二次销售",
       "onboard_time": 1741998921,
       "rank": 4,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 1246264,
-      "num": 1246264,
-      "word": "护舒宝声明",
-      "onboard_time": 1742048012,
-      "rank": 20,
       "category": "舆论监督"
     },
     {
@@ -475,19 +483,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 890979,
-      "num": 890979,
-      "word": "蜜雪冰城",
-      "onboard_time": 1742047233,
-      "rank": 26,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 886570,
+      "raw_hot": 905931,
       "num": 1722171,
       "word": "315晚会曝光手机抽奖疯狂敛财",
       "onboard_time": 1742046752,
       "rank": 9,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 905449,
+      "num": 1581246,
+      "word": "多个卫生巾品牌直播间停播",
+      "onboard_time": 1742047773,
+      "rank": 14,
       "category": "舆论监督"
     },
     {
@@ -545,6 +553,14 @@
       "onboard_time": 1742033844,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 788451,
+      "num": 788451,
+      "word": "浪莎下架所有一次性内裤产品",
+      "onboard_time": 1742047833,
+      "rank": 35,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 773761,
@@ -715,6 +731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 605121,
+      "num": 605121,
+      "word": "华莱士",
+      "onboard_time": 1742048553,
+      "rank": 30,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 602577,
       "num": 170418,
       "word": "黄杨钿甜公主直角肩",
@@ -819,14 +843,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 489552,
-      "num": 489552,
-      "word": "浪莎下架所有一次性内裤产品",
-      "onboard_time": 1742047833,
-      "rank": 35,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 484448,
       "num": 353877,
       "word": "金赛纶母亲曝女儿葬礼被偷拍",
@@ -889,6 +905,14 @@
       "onboard_time": 1742002162,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 470771,
+      "num": 1339565,
+      "word": "你好星期六下期预告",
+      "onboard_time": 1742049153,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 468139,
@@ -955,6 +979,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 442279,
+      "num": 442279,
+      "word": "十月结晶",
+      "onboard_time": 1742048612,
+      "rank": 37,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 440539,
       "num": 495992,
       "word": "凡人修仙传",
@@ -993,6 +1025,14 @@
       "onboard_time": 1742009244,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 427994,
+      "num": 427994,
+      "word": "沪上阿姨",
+      "onboard_time": 1742049213,
+      "rank": 39,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 426569,
@@ -1043,6 +1083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 402054,
+      "num": 1838074,
+      "word": "五金市场公然售卖非标电线电缆",
+      "onboard_time": 1742048132,
+      "rank": 13,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 390497,
       "num": 166449,
       "word": "王安宇可不可以立刻离开广东",
@@ -1065,6 +1113,14 @@
       "onboard_time": 1741996759,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 382756,
+      "num": 976722,
+      "word": "护舒宝称翻新卫生巾不涉及护舒宝",
+      "onboard_time": 1742048553,
+      "rank": 19,
+      "category": "美妆,健康医疗"
     },
     {
       "raw_hot": 377578,
@@ -1096,6 +1152,14 @@
       "word": "Jennie演唱会",
       "onboard_time": 1742031625,
       "rank": 8,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 372025,
+      "num": 517674,
+      "word": "王力宏掀了演唱会天花板",
+      "onboard_time": 1742049332,
+      "rank": 32,
       "category": "演出"
     },
     {
@@ -1187,6 +1251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 355023,
+      "num": 1319785,
+      "word": "李小冉不跟张蔷一起住的原因",
+      "onboard_time": 1742048854,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 353253,
       "num": 353253,
       "word": "沈阳要求小米su7ultra车主签安全承诺书",
@@ -1251,6 +1323,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 336862,
+      "num": 336862,
+      "word": "不经同意拨打营销电话都是违法",
+      "onboard_time": 1742048973,
+      "rank": 44,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 335343,
       "num": 304393,
       "word": "金智媛去看Jennie演唱会了",
@@ -1299,12 +1379,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 307138,
+      "num": 954290,
+      "word": "王楚钦选错了",
+      "onboard_time": 1742047353,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 306581,
       "num": 306581,
       "word": "哪吒2票房超150亿",
       "onboard_time": 1741957285,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 301129,
+      "num": 430891,
+      "word": "白鹿丝滑到以为是AI",
+      "onboard_time": 1742049392,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 300381,
@@ -1403,14 +1499,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 272219,
-      "num": 954290,
-      "word": "王楚钦选错了",
-      "onboard_time": 1742047353,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 265769,
       "num": 265769,
       "word": "汪峰女友森林北否认怀孕",
@@ -1480,14 +1568,6 @@
       "word": "沪上阿姨改过期标签食材被人为延寿",
       "onboard_time": 1742001800,
       "rank": 22,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 248883,
-      "num": 1581246,
-      "word": "多个卫生巾品牌直播间停播",
-      "onboard_time": 1742047773,
-      "rank": 14,
       "category": "舆论监督"
     },
     {
@@ -1907,6 +1987,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 197052,
+      "num": 833702,
+      "word": "LGDNBW对战AG",
+      "onboard_time": 1742049273,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 196477,
       "num": 196477,
       "word": "河南省考",
@@ -1921,14 +2009,6 @@
       "onboard_time": 1742023343,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 194958,
-      "num": 1582880,
-      "word": "五金市场公然售卖非标电线电缆",
-      "onboard_time": 1742048132,
-      "rank": 13,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 194759,
@@ -2620,7 +2700,7 @@
     },
     {
       "raw_hot": 125068,
-      "num": 596994,
+      "num": 607467,
       "word": "14.69%卫生巾企业曾出现经营异常",
       "onboard_time": 1742048312,
       "rank": 31,

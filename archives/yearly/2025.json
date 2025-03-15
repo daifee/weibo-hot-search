@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1742048504601,
+  "endTime": 1742049488626,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -715,6 +715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 5383387,
+      "num": 5383387,
+      "word": "全棉时代",
+      "onboard_time": 1742042610,
+      "rank": 18,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 5336614,
       "num": 4513174,
       "word": "祝贺哪吒2票房破100亿",
@@ -827,14 +835,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 4562656,
-      "num": 4562656,
-      "word": "全棉时代",
-      "onboard_time": 1742042610,
-      "rank": 18,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 4523747,
       "num": 655127,
       "word": "何凯文承认成绩造假",
@@ -873,6 +873,14 @@
       "onboard_time": 1738552467,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 4358632,
+      "num": 4358632,
+      "word": "315名单",
+      "onboard_time": 1742044291,
+      "rank": 31,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 4356564,
@@ -985,6 +993,14 @@
       "onboard_time": 1740128661,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 4071194,
+      "num": 4071194,
+      "word": "护舒宝声明",
+      "onboard_time": 1742048012,
+      "rank": 20,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 4022283,
@@ -2267,14 +2283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2722570,
-      "num": 2722570,
-      "word": "315名单",
-      "onboard_time": 1742044291,
-      "rank": 31,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 2716920,
       "num": 2716920,
       "word": "哪吒2预测票房下跌",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1741830744,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2642293,
-      "num": 2642293,
-      "word": "爱奇艺 吃相",
-      "onboard_time": 1740485661,
-      "rank": 0,
-      "category": "剧集"
     }
   ],
   "hotgov_list": [
