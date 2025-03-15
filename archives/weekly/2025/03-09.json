@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1742034284050,
+  "endTime": 1742035232815,
   "band_list": [
     {
       "raw_hot": 21330054,
@@ -1403,6 +1403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1026036,
+      "num": 1026036,
+      "word": "K总结婚现场",
+      "onboard_time": 1742033782,
+      "rank": 15,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1024478,
       "num": 1024478,
       "word": "虞书欣欧阳娜娜回应鹿小葵式演技",
@@ -2057,6 +2065,14 @@
       "onboard_time": 1741489099,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 795671,
+      "num": 470068,
+      "word": "丁禹兮穿虞书欣联名款",
+      "onboard_time": 1742033844,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 794081,
@@ -3723,6 +3739,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 478145,
+      "num": 552964,
+      "word": "120元半斤的牦牛肉干是纯猪肉做的",
+      "onboard_time": 1742030603,
+      "rank": 18,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 477891,
       "num": 511816,
       "word": "李小冉问蔡明我哪里惹你不开心了吗",
@@ -3801,6 +3825,14 @@
       "onboard_time": 1742025442,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 464831,
+      "num": 464831,
+      "word": "HLE对战TES",
+      "onboard_time": 1741592122,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 464719,
@@ -3897,14 +3929,6 @@
       "onboard_time": 1741565360,
       "rank": 7,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 448899,
-      "num": 448899,
-      "word": "丁禹兮穿虞书欣联名款",
-      "onboard_time": 1742033844,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 448877,
@@ -4137,14 +4161,6 @@
       "onboard_time": 1741737861,
       "rank": 14,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 428526,
-      "num": 552964,
-      "word": "120元半斤的牦牛肉干是纯猪肉做的",
-      "onboard_time": 1742030603,
-      "rank": 18,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 428344,
@@ -4587,6 +4603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 390573,
+      "num": 492261,
+      "word": "315晚会将曝光食品企业非法添加问题",
+      "onboard_time": 1742033483,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 389837,
       "num": 385806,
       "word": "父亲想要儿子连生9个女儿",
@@ -4969,14 +4993,6 @@
       "onboard_time": 1741745182,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 359378,
-      "num": 359378,
-      "word": "K总结婚现场",
-      "onboard_time": 1742033782,
-      "rank": 15,
-      "category": "网红"
     },
     {
       "raw_hot": 359019,
@@ -6219,6 +6235,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 277808,
+      "num": 277808,
+      "word": "石原里美挺孕肚参加颁奖礼",
+      "onboard_time": 1742035165,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 277624,
       "num": 277624,
       "word": "冰湖重生",
@@ -6545,6 +6569,14 @@
       "onboard_time": 1741504161,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 262354,
+      "num": 262354,
+      "word": "后陡门 七个兄弟",
+      "onboard_time": 1742033483,
+      "rank": 24,
+      "category": "教育,艺人"
     },
     {
       "raw_hot": 262038,
@@ -7027,20 +7059,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 241076,
-      "num": 492261,
-      "word": "315晚会将曝光食品企业非法添加问题",
-      "onboard_time": 1742033483,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 241014,
       "num": 380406,
       "word": "万斯称绿卡持有者没有无限期留美权利",
       "onboard_time": 1741927347,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 240398,
+      "num": 229226,
+      "word": "复旦大学一名男博士失联",
+      "onboard_time": 1742034083,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 240256,
@@ -7121,14 +7153,6 @@
       "onboard_time": 1741573820,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 236810,
-      "num": 453336,
-      "word": "HLE对战TES",
-      "onboard_time": 1741592122,
-      "rank": 27,
-      "category": "电竞"
     },
     {
       "raw_hot": 236720,
@@ -7435,14 +7459,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 227996,
-      "num": 227996,
-      "word": "后陡门 七个兄弟",
-      "onboard_time": 1742033483,
-      "rank": 24,
-      "category": "教育,艺人"
-    },
-    {
       "raw_hot": 227712,
       "num": 227712,
       "word": "王楚钦对战阿鲁纳",
@@ -7468,7 +7484,7 @@
     },
     {
       "raw_hot": 227232,
-      "num": 227232,
+      "num": 325397,
       "word": "Jennie演唱会现场的明星",
       "onboard_time": 1742032823,
       "rank": 26,
@@ -8276,7 +8292,7 @@
     },
     {
       "raw_hot": 207156,
-      "num": 207156,
+      "num": 241758,
       "word": "aespa安可演唱会新造型",
       "onboard_time": 1742033364,
       "rank": 29,
@@ -8331,6 +8347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205919,
+      "num": 259112,
+      "word": "aespa演唱会",
+      "onboard_time": 1742034264,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 205880,
       "num": 205880,
       "word": "省考前的最后两天还能做什么",
@@ -8345,6 +8369,14 @@
       "onboard_time": 1741922905,
       "rank": 36,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 205751,
+      "num": 205751,
+      "word": "三月下雪",
+      "onboard_time": 1742030184,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 205325,
@@ -9019,14 +9051,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195307,
-      "num": 195307,
-      "word": "三月下雪",
-      "onboard_time": 1742030184,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 195084,
       "num": 285075,
       "word": "鹭卓直播",
@@ -9068,7 +9092,7 @@
     },
     {
       "raw_hot": 194759,
-      "num": 194759,
+      "num": 249819,
       "word": "鞠婧祎采茶女",
       "onboard_time": 1742034203,
       "rank": 30,
@@ -10163,6 +10187,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 178614,
+      "num": 178614,
+      "word": "考研和考公哪个更有性价比",
+      "onboard_time": 1742030785,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 178288,
       "num": 178288,
       "word": "怒水西流定档",
@@ -10345,14 +10377,6 @@
       "onboard_time": 1741767924,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 174596,
-      "num": 174596,
-      "word": "考研和考公哪个更有性价比",
-      "onboard_time": 1742030785,
-      "rank": 42,
-      "category": "教育"
     },
     {
       "raw_hot": 174585,
@@ -10553,6 +10577,14 @@
       "onboard_time": 1741584260,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172166,
+      "num": 172166,
+      "word": "怀疑她采血时眼睛透视开挂了",
+      "onboard_time": 1742035165,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 172019,
@@ -12291,6 +12323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150895,
+      "num": 150895,
+      "word": "狼队第五人格",
+      "onboard_time": 1742034683,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 150842,
       "num": 150842,
       "word": "何炅孙怡一个惯着她一个记性差",
@@ -12392,6 +12432,14 @@
       "word": "华为内部人士证实事发成都存储部门",
       "onboard_time": 1741776686,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149187,
+      "num": 149187,
+      "word": "假牦牛肉掺老鼠屎还能日售上千单",
+      "onboard_time": 1742034142,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -14067,6 +14115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129249,
+      "num": 129249,
+      "word": "汪苏泷雪中的罗曼城",
+      "onboard_time": 1742034683,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 129164,
       "num": 129164,
       "word": "WTT重庆冠军赛今日开赛",
@@ -14513,6 +14569,14 @@
       "onboard_time": 1741941324,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123848,
+      "num": 318919,
+      "word": "315晚会将曝互联网盗窃信息源头企业",
+      "onboard_time": 1742034023,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123844,
@@ -15291,14 +15355,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 116834,
-      "num": 116834,
-      "word": "复旦大学一名男博士失联",
-      "onboard_time": 1742034083,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 116690,
       "num": 116690,
       "word": "杨铭宇黄焖鸡大量员工无证上岗",
@@ -15955,14 +16011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 110255,
-      "num": 110255,
-      "word": "假牦牛肉掺老鼠屎还能日售上千单",
-      "onboard_time": 1742034142,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 110097,
       "num": 110097,
       "word": "曝iPhone17Air取消实体SIM卡槽",
@@ -16017,14 +16065,6 @@
       "onboard_time": 1741519821,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 109605,
-      "num": 109605,
-      "word": "aespa演唱会",
-      "onboard_time": 1742034264,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 109369,
@@ -17723,6 +17763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87695,
+      "num": 324291,
+      "word": "王曼昱vs张本美和",
+      "onboard_time": 1742034805,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87592,
       "num": 87592,
       "word": "苹果AI支持中文了",
@@ -18977,6 +19025,14 @@
       "onboard_time": 1741876465,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 63677,
+      "num": 233096,
+      "word": "旱厕旁堆放咖啡豆调制糖浆长毛发霉",
+      "onboard_time": 1742034624,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 63669,
@@ -20931,6 +20987,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 32639,
+      "num": 181363,
+      "word": "美议员怒怼马斯克",
+      "onboard_time": 1742035105,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 32610,
       "num": 145761,
       "word": "为什么在春天反而会抑郁",
@@ -21529,6 +21593,14 @@
       "onboard_time": 1741849703,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 24716,
+      "num": 411687,
+      "word": "部分泡脚包发现有活虫子石头",
+      "onboard_time": 1742034564,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 24711,
@@ -22209,14 +22281,6 @@
       "onboard_time": 1741891394,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 16313,
-      "num": 281531,
-      "word": "315晚会将曝互联网盗窃信息源头企业",
-      "onboard_time": 1742034023,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16195,

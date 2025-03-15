@@ -1,0 +1,410 @@
+{
+  "runTime": 1742035232815,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1391097,
+        "num": 1391097,
+        "word": "315",
+        "onboard_time": 1741995499,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1026036,
+        "num": 1026036,
+        "word": "K总结婚现场",
+        "onboard_time": 1742033782,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 41900,
+        "num": 906817,
+        "word": "今年以来消费市场亮点频现",
+        "onboard_time": 1742027722,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 835031,
+        "num": 835031,
+        "word": "在山姆买到不合格糖果8年未能退赔",
+        "onboard_time": 1742025983,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 638075,
+        "num": 638075,
+        "word": "美国正式确认将韩国列入敏感国家",
+        "onboard_time": 1742019202,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 526791,
+        "num": 526791,
+        "word": "315晚会总导演爆料晚会看点",
+        "onboard_time": 1742027183,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 501814,
+        "num": 501814,
+        "word": "OpenAI称DeepSeek是另一个华为",
+        "onboard_time": 1742020703,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 481811,
+        "num": 481811,
+        "word": "申论 难",
+        "onboard_time": 1742029103,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 474959,
+        "num": 474959,
+        "word": "王星越实名羡慕北京的朋友",
+        "onboard_time": 1742030545,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390573,
+        "num": 474183,
+        "word": "315晚会将曝光食品企业非法添加问题",
+        "onboard_time": 1742033483,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 795671,
+        "num": 470068,
+        "word": "丁禹兮穿虞书欣联名款",
+        "onboard_time": 1742033844,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 511426,
+        "num": 467695,
+        "word": "金秀贤明洞街头海报换成了张元英",
+        "onboard_time": 1742031143,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 478145,
+        "num": 465495,
+        "word": "120元半斤的牦牛肉干是纯猪肉做的",
+        "onboard_time": 1742030603,
+        "rank": 12,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 464831,
+        "num": 464831,
+        "word": "HLE对战TES",
+        "onboard_time": 1742031504,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 24716,
+        "num": 411687,
+        "word": "部分泡脚包发现有活虫子石头",
+        "onboard_time": 1742034564,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 372752,
+        "num": 372752,
+        "word": "辽宁申论 后陡门",
+        "onboard_time": 1742030424,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 331887,
+        "num": 331887,
+        "word": "Jennie演唱会",
+        "onboard_time": 1742031625,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 238588,
+        "num": 329505,
+        "word": "周深在用自己的方式搞文化输出",
+        "onboard_time": 1742029044,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 221904,
+        "num": 325397,
+        "word": "Jennie演唱会现场的明星",
+        "onboard_time": 1742032823,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 87695,
+        "num": 324291,
+        "word": "王曼昱vs张本美和",
+        "onboard_time": 1742034805,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123848,
+        "num": 318919,
+        "word": "315晚会将曝互联网盗窃信息源头企业",
+        "onboard_time": 1742034023,
+        "rank": 20,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 318517,
+        "num": 318517,
+        "word": "TES",
+        "onboard_time": 1742033003,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 277808,
+        "num": 277808,
+        "word": "石原里美挺孕肚参加颁奖礼",
+        "onboard_time": 1742035165,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 218032,
+        "num": 274920,
+        "word": "演员张振寰去世",
+        "onboard_time": 1742014284,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274004,
+        "num": 274004,
+        "word": "申论",
+        "onboard_time": 1742028202,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 262354,
+        "num": 262354,
+        "word": "后陡门 七个兄弟",
+        "onboard_time": 1742033483,
+        "rank": 25,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 205919,
+        "num": 259112,
+        "word": "aespa演唱会",
+        "onboard_time": 1742034264,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193085,
+        "num": 249819,
+        "word": "鞠婧祎采茶女",
+        "onboard_time": 1742034203,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190851,
+        "num": 241758,
+        "word": "aespa安可演唱会新造型",
+        "onboard_time": 1742033364,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 63677,
+        "num": 233096,
+        "word": "旱厕旁堆放咖啡豆调制糖浆长毛发霉",
+        "onboard_time": 1742034624,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 229341,
+        "num": 229341,
+        "word": "汤家凤暗示让田静做好思想准备",
+        "onboard_time": 1742032403,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 240398,
+        "num": 229226,
+        "word": "复旦大学一名男博士失联",
+        "onboard_time": 1742034083,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210930,
+        "num": 210930,
+        "word": "男子兑奖时又刮出头奖100万",
+        "onboard_time": 1742024183,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187754,
+        "num": 208048,
+        "word": "哪吒2破五",
+        "onboard_time": 1742027783,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 207427,
+        "num": 207427,
+        "word": "北京下雪",
+        "onboard_time": 1742024902,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205751,
+        "num": 205751,
+        "word": "三月下雪",
+        "onboard_time": 1742030184,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198918,
+        "num": 198918,
+        "word": "申论大作文",
+        "onboard_time": 1742028623,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 185617,
+        "num": 185617,
+        "word": "张一山说真的下雪了",
+        "onboard_time": 1742032044,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32639,
+        "num": 181363,
+        "word": "美议员怒怼马斯克",
+        "onboard_time": 1742035105,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 178614,
+        "num": 178614,
+        "word": "考研和考公哪个更有性价比",
+        "onboard_time": 1742030785,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 172166,
+        "num": 172166,
+        "word": "怀疑她采血时眼睛透视开挂了",
+        "onboard_time": 1742035165,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150895,
+        "num": 150895,
+        "word": "狼队第五人格",
+        "onboard_time": 1742034683,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149187,
+        "num": 149187,
+        "word": "假牦牛肉掺老鼠屎还能日售上千单",
+        "onboard_time": 1742034142,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143708,
+        "num": 143708,
+        "word": "退﻿400元商品要5600多运费",
+        "onboard_time": 1742023642,
+        "rank": 43,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 141401,
+        "num": 141401,
+        "word": "卢昱晓公主头",
+        "onboard_time": 1742029283,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129249,
+        "num": 129249,
+        "word": "汪苏泷雪中的罗曼城",
+        "onboard_time": 1742034683,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128016,
+        "num": 128016,
+        "word": "金秀贤方想与金赛纶母亲见面",
+        "onboard_time": 1742033422,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127748,
+        "num": 127748,
+        "word": "深圳暴雨",
+        "onboard_time": 1742023583,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127472,
+        "num": 127472,
+        "word": "花1万块在意大利住到的诡异民宿",
+        "onboard_time": 1742027541,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124023,
+        "num": 124023,
+        "word": "甜馨称想演电视但没自信",
+        "onboard_time": 1742017943,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的民生之问#"
+    }
+  }
+}
