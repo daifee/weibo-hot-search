@@ -1,0 +1,410 @@
+{
+  "runTime": 1742017123382,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1941426,
+        "num": 1941426,
+        "word": "315",
+        "onboard_time": 1741995499,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1354126,
+        "num": 1354126,
+        "word": "都选B",
+        "onboard_time": 1742011402,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 94397,
+        "num": 1337475,
+        "word": "对待春耕这件事中国人有多认真",
+        "onboard_time": 1742015426,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1332411,
+        "num": 1332411,
+        "word": "李嘉诚要卖43个港口给美国企业",
+        "onboard_time": 1742015364,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1310783,
+        "num": 1310783,
+        "word": "演员张振寰去世",
+        "onboard_time": 1742014284,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 680875,
+        "num": 680875,
+        "word": "沪上阿姨曝光门店被立案调查",
+        "onboard_time": 1742012723,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 668953,
+        "num": 668953,
+        "word": "哪吒2全球第5",
+        "onboard_time": 1742010684,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 549599,
+        "num": 549599,
+        "word": "李嘉诚要卖港口官方转发莫天真勿糊涂",
+        "onboard_time": 1742010142,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 492175,
+        "num": 492175,
+        "word": "云南遇害司机下班后本要给孩子煮饭",
+        "onboard_time": 1742006842,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114789,
+        "num": 489428,
+        "word": "孙颖莎3比1胜大藤沙月",
+        "onboard_time": 1742016685,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2153572,
+        "num": 487575,
+        "word": "大S今日下葬",
+        "onboard_time": 1742013984,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1662372,
+        "num": 480857,
+        "word": "金秀贤公开亲吻照元数据",
+        "onboard_time": 1742008944,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 812959,
+        "num": 478004,
+        "word": "金赛纶19年没留过刘海",
+        "onboard_time": 1742011944,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475416,
+        "num": 475416,
+        "word": "吒儿真的在改变世界",
+        "onboard_time": 1742011343,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 50985,
+        "num": 471773,
+        "word": "15一斤回收小马宝莉卡换直播间卖",
+        "onboard_time": 1742015606,
+        "rank": 14,
+        "category": "舆论监督,动漫"
+      },
+      {
+        "raw_hot": 78447,
+        "num": 471294,
+        "word": "孙颖莎顶住了",
+        "onboard_time": 1742016685,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235379,
+        "num": 466482,
+        "word": "骗子4个月发90万个诈骗快递",
+        "onboard_time": 1742011103,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330663,
+        "num": 462256,
+        "word": "Angelababy资助徐玉坤",
+        "onboard_time": 1742006003,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231038,
+        "num": 456224,
+        "word": "免费领养套路多猫咪死了仍还贷",
+        "onboard_time": 1742016024,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 37004,
+        "num": 454966,
+        "word": "德邦快递的智能客服成添堵客服",
+        "onboard_time": 1742015426,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 633599,
+        "num": 449330,
+        "word": "当裴秀智被问到金秀贤宋仲基二选一",
+        "onboard_time": 1742007081,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448376,
+        "num": 448376,
+        "word": "申论",
+        "onboard_time": 1742009364,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 387506,
+        "num": 387506,
+        "word": "前夫李厚霖否认家暴李湘",
+        "onboard_time": 1742009183,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204489,
+        "num": 315733,
+        "word": "芦田爱菜出落得真好",
+        "onboard_time": 1742016143,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275691,
+        "num": 311953,
+        "word": "戚薇不能接受袜子内裤一起洗",
+        "onboard_time": 1741998861,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310873,
+        "num": 310873,
+        "word": "小龙坎火锅回应315曝光问题",
+        "onboard_time": 1742006420,
+        "rank": 25,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 89823,
+        "num": 285295,
+        "word": "张馨予把痘痘点成痣",
+        "onboard_time": 1742016565,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275760,
+        "num": 275760,
+        "word": "行测",
+        "onboard_time": 1742007442,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 152020,
+        "num": 273808,
+        "word": "李隼说我愿意用生命去换金牌",
+        "onboard_time": 1742016024,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77618,
+        "num": 273041,
+        "word": "宝妈花36元体验祛妊娠纹被套路36万",
+        "onboard_time": 1742015844,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 272671,
+        "num": 272671,
+        "word": "上午涂彩票 下午抄材料",
+        "onboard_time": 1742014704,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 265769,
+        "num": 265769,
+        "word": "汪峰女友森林北否认怀孕",
+        "onboard_time": 1742015903,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94436,
+        "num": 252567,
+        "word": "帅哥王安宇返场",
+        "onboard_time": 1742015783,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250603,
+        "num": 250603,
+        "word": "省考",
+        "onboard_time": 1741995619,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 149096,
+        "num": 243944,
+        "word": "余生请多指教开播3周年",
+        "onboard_time": 1742015243,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239250,
+        "num": 239250,
+        "word": "住在65楼是什么体验",
+        "onboard_time": 1742014524,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144250,
+        "num": 225363,
+        "word": "别让我们的爱心被宠物贷利用",
+        "onboard_time": 1742017105,
+        "rank": 36,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 223859,
+        "num": 223859,
+        "word": "92岁江浙沪男孩上海的一日账单",
+        "onboard_time": 1742013923,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217365,
+        "num": 217365,
+        "word": "韩网热议日本7岁爱豆的见面会",
+        "onboard_time": 1742017105,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191111,
+        "num": 191111,
+        "word": "秀智化妆六个小时只出镜3秒",
+        "onboard_time": 1742009244,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188478,
+        "num": 188478,
+        "word": "WTT",
+        "onboard_time": 1742014945,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187670,
+        "num": 187670,
+        "word": "宣传给孩子吃的原切牛排实为调理肉",
+        "onboard_time": 1742005522,
+        "rank": 41,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 174487,
+        "num": 174487,
+        "word": "暗访劣质卫生巾产销链",
+        "onboard_time": 1742016324,
+        "rank": 42,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 164574,
+        "num": 164574,
+        "word": "孙颖莎vs大藤沙月",
+        "onboard_time": 1742010684,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159744,
+        "num": 159744,
+        "word": "117岁去世老人身上发现长寿秘密",
+        "onboard_time": 1741997361,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146752,
+        "num": 146752,
+        "word": "湖北省考 全员鄂人",
+        "onboard_time": 1742014344,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 137219,
+        "num": 141822,
+        "word": "穆雷绝杀湖人专业户",
+        "onboard_time": 1742015903,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140636,
+        "num": 140636,
+        "word": "辛巴带货牛排被指存严重问题",
+        "onboard_time": 1742005221,
+        "rank": 47,
+        "category": "舆论监督,网红"
+      },
+      {
+        "raw_hot": 85263,
+        "num": 140199,
+        "word": "短发版白鹿",
+        "onboard_time": 1742011581,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140167,
+        "num": 140167,
+        "word": "奚梦瑶和婆婆逛商场",
+        "onboard_time": 1742017105,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这些话语掷地有声#"
+    }
+  }
+}
