@@ -1,6 +1,6 @@
 {
   "startTime": 1741969737801,
-  "endTime": 1742024155316,
+  "endTime": 1742027292109,
   "band_list": [
     {
       "raw_hot": 3266055,
@@ -139,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 994725,
+      "num": 994725,
+      "word": "北京下雪",
+      "onboard_time": 1742024902,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 973682,
       "num": 712523,
       "word": "金赛纶19年没留过刘海",
@@ -160,6 +168,22 @@
       "word": "甜馨称想演电视但没自信",
       "onboard_time": 1742017943,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 903825,
+      "num": 397249,
+      "word": "金秀贤掉Prada韩网盛赞中女",
+      "onboard_time": 1742025743,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 867326,
+      "num": 556049,
+      "word": "熙媛一路走好",
+      "onboard_time": 1742018783,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -193,6 +217,14 @@
       "onboard_time": 1741971560,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 794110,
+      "num": 794110,
+      "word": "男子兑奖时又刮出头奖100万",
+      "onboard_time": 1742024183,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 771795,
@@ -235,6 +267,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 683705,
+      "num": 683705,
+      "word": "深圳暴雨",
+      "onboard_time": 1742023583,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 675356,
       "num": 869829,
       "word": "小龙坎火锅回应315曝光问题",
@@ -275,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 586326,
+      "num": 528723,
+      "word": "OpenAI称DeepSeek是另一个华为",
+      "onboard_time": 1742020703,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 582972,
       "num": 582972,
       "word": "主播称母亲迪拜公主吸引65万粉丝",
@@ -283,28 +331,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 556049,
-      "num": 556049,
-      "word": "熙媛一路走好",
-      "onboard_time": 1742018783,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 538479,
       "num": 538479,
       "word": "辛巴带货牛排被指存严重问题",
       "onboard_time": 1742005221,
       "rank": 6,
       "category": "舆论监督,网红"
-    },
-    {
-      "raw_hot": 528723,
-      "num": 528723,
-      "word": "OpenAI称DeepSeek是另一个华为",
-      "onboard_time": 1742020703,
-      "rank": 27,
-      "category": "互联网"
     },
     {
       "raw_hot": 518189,
@@ -369,6 +401,14 @@
       "onboard_time": 1742002162,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 465744,
+      "num": 465744,
+      "word": "白敬亭章若楠真有双人写真",
+      "onboard_time": 1742025442,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 464719,
@@ -539,6 +579,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 340638,
+      "num": 340638,
+      "word": "在山姆买到不合格糖果8年未能退赔",
+      "onboard_time": 1742025983,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 339950,
       "num": 136840,
       "word": "金秀贤电影里的安昭熙秀智IU雪莉",
@@ -561,6 +609,14 @@
       "onboard_time": 1742008402,
       "rank": 18,
       "category": "教育"
+    },
+    {
+      "raw_hot": 312382,
+      "num": 350796,
+      "word": "邓为新剧班底",
+      "onboard_time": 1742025322,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 307926,
@@ -625,6 +681,14 @@
       "onboard_time": 1742014704,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 272092,
+      "num": 348827,
+      "word": "曝演员张振寰家中去世多日后被发现",
+      "onboard_time": 1742021783,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 265769,
@@ -731,14 +795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 233982,
-      "num": 233982,
-      "word": "深圳暴雨",
-      "onboard_time": 1742023583,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 233013,
       "num": 233013,
       "word": "孙颖莎回应战胜大藤沙月",
@@ -795,20 +851,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 216455,
+      "num": 216455,
+      "word": "有时候也想跪下来求自己别喝了",
+      "onboard_time": 1742023043,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 208408,
       "num": 208408,
       "word": "湖北省考 全员鄂人",
       "onboard_time": 1742014344,
       "rank": 37,
       "category": "教育"
-    },
-    {
-      "raw_hot": 207695,
-      "num": 210737,
-      "word": "曝演员张振寰家中去世多日后被发现",
-      "onboard_time": 1742021783,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 206427,
@@ -883,14 +939,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200586,
-      "num": 200586,
-      "word": "有时候也想跪下来求自己别喝了",
-      "onboard_time": 1742023043,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 199957,
       "num": 540430,
       "word": "银行代销保险乱象调查",
@@ -913,6 +961,14 @@
       "onboard_time": 1742012904,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 195455,
+      "num": 195455,
+      "word": "一乡镇停车位卖出126579600元",
+      "onboard_time": 1742023343,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194244,
@@ -944,6 +1000,14 @@
       "word": "许府牛火锅牛骨高汤锅底系料包冲调",
       "onboard_time": 1741998861,
       "rank": 35,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 192900,
+      "num": 192900,
+      "word": "退﻿400元商品要5600多运费",
+      "onboard_time": 1742023642,
+      "rank": 37,
       "category": "舆论监督"
     },
     {
@@ -985,6 +1049,14 @@
       "onboard_time": 1742019503,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185046,
+      "num": 185046,
+      "word": "北京供暖延长至3月17日24时",
+      "onboard_time": 1742021964,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 184397,
@@ -1099,14 +1171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 168665,
-      "num": 168665,
-      "word": "一乡镇停车位卖出126579600元",
-      "onboard_time": 1742023343,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 166791,
       "num": 332601,
       "word": "汤家凤否认孩子考研被骗",
@@ -1169,6 +1233,14 @@
       "onboard_time": 1742018483,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160842,
+      "num": 199833,
+      "word": "国王就是好看",
+      "onboard_time": 1742026583,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 160087,
@@ -1243,14 +1315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 147245,
-      "num": 147245,
-      "word": "北京供暖延长至3月17日24时",
-      "onboard_time": 1742021964,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 146291,
       "num": 146291,
       "word": "微博账号张玄化发布健康谣言被禁言",
@@ -1307,6 +1371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 141664,
+      "num": 346577,
+      "word": "暗访网红足浴包背后工厂",
+      "onboard_time": 1742025861,
+      "rank": 18,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 140962,
       "num": 340714,
       "word": "敖光给敖丙刷牙",
@@ -1355,14 +1427,6 @@
       "category": "舆论监督,美妆"
     },
     {
-      "raw_hot": 136006,
-      "num": 136006,
-      "word": "退﻿400元商品要5600多运费",
-      "onboard_time": 1742023642,
-      "rank": 37,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 133641,
       "num": 133641,
       "word": "香港长和要好好想想自己站在哪一边",
@@ -1403,12 +1467,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130247,
+      "num": 130247,
+      "word": "杭州郁金香",
+      "onboard_time": 1742024722,
+      "rank": 38,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 128128,
       "num": 764350,
       "word": "林诗栋vs林昀儒",
       "onboard_time": 1742012964,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126195,
+      "num": 126195,
+      "word": "嘘国王在冬眠限免",
+      "onboard_time": 1742026763,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 124318,
+      "num": 124318,
+      "word": "黄杨钿甜叫董思成哥哥",
+      "onboard_time": 1742024001,
+      "rank": 47,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 123651,
@@ -1459,14 +1547,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 118150,
-      "num": 118150,
-      "word": "黄杨钿甜叫董思成哥哥",
-      "onboard_time": 1742024001,
-      "rank": 47,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 118032,
       "num": 2001348,
       "word": "诚信北京315",
@@ -1491,12 +1571,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 114446,
+      "num": 114446,
+      "word": "中国短道队世锦赛首枚奖牌",
+      "onboard_time": 1742026164,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113964,
       "num": 113964,
       "word": "反分裂国家法实施20周年座谈会举行",
       "onboard_time": 1741967123,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 112025,
+      "num": 144042,
+      "word": "哪吒2再创中国电影历史",
+      "onboard_time": 1742022443,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 111807,
@@ -1531,14 +1627,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 107909,
-      "num": 144042,
-      "word": "哪吒2再创中国电影历史",
-      "onboard_time": 1742022443,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 107528,
       "num": 107528,
       "word": "时代少年团方否认将录制疯狂的麦咭",
@@ -1553,6 +1641,14 @@
       "onboard_time": 1741997960,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 106390,
+      "num": 106390,
+      "word": "315晚会总导演爆料晚会看点",
+      "onboard_time": 1742027183,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106252,
@@ -1987,6 +2083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58217,
+      "num": 351444,
+      "word": "AI建议引发医疗事故谁担责",
+      "onboard_time": 1742026164,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 54976,
       "num": 54976,
       "word": "京城大师赛",
@@ -2091,6 +2195,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 38421,
+      "num": 433360,
+      "word": "当春天遇上周末的仪式感",
+      "onboard_time": 1742014284,
+      "rank": 10,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 37561,
+      "num": 196217,
+      "word": "315晚会看点",
+      "onboard_time": 1742027123,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37530,
       "num": 47115,
       "word": "格陵兰岛有什么被美国惦记100多年",
@@ -2105,6 +2225,14 @@
       "onboard_time": 1742015426,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 36883,
+      "num": 198179,
+      "word": "男子为骗全额退票伪造死亡证明",
+      "onboard_time": 1742026402,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32705,
@@ -2187,6 +2315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21370,
+      "num": 345205,
+      "word": "各国外交官看完哪吒2会唱rap了",
+      "onboard_time": 1742026342,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 20981,
       "num": 87360,
       "word": "众火溯还之日",
@@ -2201,6 +2337,14 @@
       "onboard_time": 1741977616,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 19314,
+      "num": 126392,
+      "word": "人气宵夜涮肚",
+      "onboard_time": 1742026222,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 17838,
@@ -2257,6 +2401,14 @@
       "onboard_time": 1741975936,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 7000,
+      "num": 1051381,
+      "word": "我国再次发射一箭双星",
+      "onboard_time": 1742027243,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
