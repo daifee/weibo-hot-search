@@ -1,0 +1,410 @@
+{
+  "runTime": 1742042459442,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 17475610,
+        "num": 17475610,
+        "word": "315晚会",
+        "onboard_time": 1742038885,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13741732,
+        "num": 13741732,
+        "word": "翻新卫生巾",
+        "onboard_time": 1742040988,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 19957,
+        "num": 5114616,
+        "word": "我国再次发射一箭双星",
+        "onboard_time": 1742027243,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 5097655,
+        "num": 5097655,
+        "word": "胖猫事件90多吨食物被浪费",
+        "onboard_time": 1742040024,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3589208,
+        "num": 3589208,
+        "word": "自由点",
+        "onboard_time": 1742041168,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1157680,
+        "num": 1157680,
+        "word": "别把同情心喂了流量寄生虫",
+        "onboard_time": 1742038705,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251682,
+        "num": 1156189,
+        "word": "Jennie演唱会现场的明星",
+        "onboard_time": 1742032823,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 228495,
+        "num": 1147937,
+        "word": "周深在用自己的方式搞文化输出",
+        "onboard_time": 1742029044,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1118754,
+        "num": 1143108,
+        "word": "315晚会曝光翻新卫生巾",
+        "onboard_time": 1742040806,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 136863,
+        "num": 1133721,
+        "word": "市监局回应315曝光翻新卫生巾",
+        "onboard_time": 1742042070,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1130630,
+        "num": 1130630,
+        "word": "王楚钦vs莫雷加德",
+        "onboard_time": 1742041348,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1044990,
+        "num": 1044990,
+        "word": "一次性内裤",
+        "onboard_time": 1742041829,
+        "rank": 11,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 953906,
+        "num": 953906,
+        "word": "米菲纸尿裤",
+        "onboard_time": 1742041588,
+        "rank": 12,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 42335,
+        "num": 840679,
+        "word": "翻新卫生巾市场倒卖七八千元一吨",
+        "onboard_time": 1742041829,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261562,
+        "num": 819851,
+        "word": "王楚钦3比0胜莫雷加德",
+        "onboard_time": 1742041950,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 808828,
+        "num": 808828,
+        "word": "金秀贤方呼吁不要再散布照片",
+        "onboard_time": 1742035463,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 576124,
+        "num": 576124,
+        "word": "315",
+        "onboard_time": 1741995499,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 467805,
+        "num": 467805,
+        "word": "指甲上没月牙是营养不良吗",
+        "onboard_time": 1742035523,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 203010,
+        "num": 433184,
+        "word": "郑中基和老婆互相取关",
+        "onboard_time": 1742038524,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432785,
+        "num": 432785,
+        "word": "一次性内裤爆雷",
+        "onboard_time": 1742042250,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 407127,
+        "num": 407127,
+        "word": "Uzi怒斥TES",
+        "onboard_time": 1742038285,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 405310,
+        "num": 405310,
+        "word": "315晚会将曝光食品企业非法添加问题",
+        "onboard_time": 1742033483,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 392750,
+        "num": 392750,
+        "word": "315晚会上来就是卫生巾",
+        "onboard_time": 1742041829,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 368680,
+        "num": 368680,
+        "word": "知名母婴品牌残次料竟被翻新售卖",
+        "onboard_time": 1742041528,
+        "rank": 23,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 176307,
+        "num": 365868,
+        "word": "王楚钦说心理素质最佳是樊振东",
+        "onboard_time": 1742041288,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 365733,
+        "num": 365733,
+        "word": "OpenAI称DeepSeek是另一个华为",
+        "onboard_time": 1742020703,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 364878,
+        "num": 364878,
+        "word": "石原里美挺孕肚参加颁奖礼",
+        "onboard_time": 1742035165,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 359360,
+        "num": 359360,
+        "word": "21岁女生找行政工作被送去陪酒",
+        "onboard_time": 1742040264,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206884,
+        "num": 346737,
+        "word": "萧敬腾王一博售后",
+        "onboard_time": 1742042191,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85461,
+        "num": 343446,
+        "word": "周思成又喊话田静了",
+        "onboard_time": 1742041588,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 340521,
+        "num": 340521,
+        "word": "后陡门 七个兄弟",
+        "onboard_time": 1742033483,
+        "rank": 30,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 224578,
+        "num": 313804,
+        "word": "30万的车遇重大事故未弹安全气囊",
+        "onboard_time": 1742037324,
+        "rank": 31,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 185871,
+        "num": 311244,
+        "word": "李承铉也没放过戚薇",
+        "onboard_time": 1742037384,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47590,
+        "num": 310029,
+        "word": "今年以来消费市场亮点频现",
+        "onboard_time": 1742027722,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309959,
+        "num": 309959,
+        "word": "央视还原胖猫事件真相",
+        "onboard_time": 1742042191,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305478,
+        "num": 305478,
+        "word": "金赛纶妈妈让金秀贤承认和未成年恋爱",
+        "onboard_time": 1742041469,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39228,
+        "num": 294022,
+        "word": "3万元气血养生仪竟是家电",
+        "onboard_time": 1742040446,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289954,
+        "num": 289954,
+        "word": "米菲拉拉裤",
+        "onboard_time": 1742041647,
+        "rank": 37,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 265288,
+        "num": 265288,
+        "word": "HLE半决赛零封TES",
+        "onboard_time": 1742038885,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 261038,
+        "num": 261038,
+        "word": "美国正式确认将韩国列入敏感国家",
+        "onboard_time": 1742019202,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 249777,
+        "num": 249777,
+        "word": "一公立医院被曝使用未获批抗癌药",
+        "onboard_time": 1742040264,
+        "rank": 40,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 248867,
+        "num": 248867,
+        "word": "假牦牛肉掺老鼠屎还能日售上千单",
+        "onboard_time": 1742034142,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234721,
+        "num": 234721,
+        "word": "香港大公报再批李嘉诚卖港口",
+        "onboard_time": 1742036545,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225762,
+        "num": 225762,
+        "word": "翔霖",
+        "onboard_time": 1742037684,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221509,
+        "num": 221509,
+        "word": "金赛纶家属立场文公开",
+        "onboard_time": 1742041408,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210903,
+        "num": 210903,
+        "word": "丁禹兮穿虞书欣联名款",
+        "onboard_time": 1742033844,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164790,
+        "num": 208223,
+        "word": "你好星期六",
+        "onboard_time": 1742041048,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206894,
+        "num": 206894,
+        "word": "王楚钦评完美WTT球员",
+        "onboard_time": 1742042368,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202329,
+        "num": 202329,
+        "word": "在山姆买到不合格糖果8年未能退赔",
+        "onboard_time": 1742025983,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198158,
+        "num": 198158,
+        "word": "纸尿裤",
+        "onboard_time": 1742042430,
+        "rank": 49,
+        "category": "舆论监督"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的民生之问#"
+    }
+  }
+}

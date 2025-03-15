@@ -1,6 +1,6 @@
 {
   "startTime": 1741450969959,
-  "endTime": 1742038570529,
+  "endTime": 1742042459442,
   "band_list": [
     {
       "raw_hot": 21330054,
@@ -11,12 +11,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 17475610,
+      "num": 17475610,
+      "word": "315晚会",
+      "onboard_time": 1742038885,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16802991,
       "num": 16802991,
       "word": "金秀贤承认与金赛纶恋情",
       "onboard_time": 1741921105,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 13741732,
+      "num": 13741732,
+      "word": "翻新卫生巾",
+      "onboard_time": 1742040988,
+      "rank": 1,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 10901855,
@@ -33,6 +49,14 @@
       "onboard_time": 1741756765,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 5097655,
+      "num": 5097655,
+      "word": "胖猫事件90多吨食物被浪费",
+      "onboard_time": 1742040024,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 4356564,
@@ -65,6 +89,14 @@
       "onboard_time": 1741700184,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3589208,
+      "num": 3589208,
+      "word": "自由点",
+      "onboard_time": 1742041168,
+      "rank": 4,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 3575207,
@@ -1187,6 +1219,14 @@
       "category": "健康医疗,美食"
     },
     {
+      "raw_hot": 1157680,
+      "num": 1157680,
+      "word": "别把同情心喂了流量寄生虫",
+      "onboard_time": 1742038705,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1155557,
       "num": 620880,
       "word": "韩国人开始大量买入中国股票",
@@ -1243,12 +1283,28 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 1130630,
+      "num": 1130630,
+      "word": "王楚钦vs莫雷加德",
+      "onboard_time": 1742041348,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1121027,
       "num": 1179364,
       "word": "人大代表呼吁废除35岁就业门槛",
       "onboard_time": 1741489220,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1118754,
+      "num": 1143108,
+      "word": "315晚会曝光翻新卫生巾",
+      "onboard_time": 1742040806,
+      "rank": 8,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 1117559,
@@ -1308,7 +1364,7 @@
     },
     {
       "raw_hot": 1107604,
-      "num": 427819,
+      "num": 808828,
       "word": "金秀贤方呼吁不要再散布照片",
       "onboard_time": 1742035463,
       "rank": 11,
@@ -1393,6 +1449,14 @@
       "onboard_time": 1741606764,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1044990,
+      "num": 1044990,
+      "word": "一次性内裤",
+      "onboard_time": 1742041829,
+      "rank": 11,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 1033332,
@@ -1577,6 +1641,14 @@
       "onboard_time": 1741500800,
       "rank": 16,
       "category": "教育"
+    },
+    {
+      "raw_hot": 953906,
+      "num": 953906,
+      "word": "米菲纸尿裤",
+      "onboard_time": 1742041588,
+      "rank": 12,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 953274,
@@ -3851,6 +3923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 467805,
+      "num": 467805,
+      "word": "指甲上没月牙是营养不良吗",
+      "onboard_time": 1742035523,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 465744,
       "num": 556226,
       "word": "白敬亭章若楠真有双人写真",
@@ -4147,6 +4227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 432785,
+      "num": 432785,
+      "word": "一次性内裤爆雷",
+      "onboard_time": 1742042250,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 432453,
       "num": 432453,
       "word": "省考答案",
@@ -4403,6 +4491,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 407127,
+      "num": 407127,
+      "word": "Uzi怒斥TES",
+      "onboard_time": 1742038285,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 406816,
       "num": 406816,
       "word": "六旬教授疑因考核不合格怒发罪己诏",
@@ -4601,6 +4697,14 @@
       "onboard_time": 1741779564,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 392750,
+      "num": 392750,
+      "word": "315晚会上来就是卫生巾",
+      "onboard_time": 1742041829,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 392534,
@@ -4907,6 +5011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 368680,
+      "num": 368680,
+      "word": "知名母婴品牌残次料竟被翻新售卖",
+      "onboard_time": 1742041528,
+      "rank": 23,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 368664,
       "num": 259897,
       "word": "25岁女孩一天4杯咖啡致骨质疏松",
@@ -4940,7 +5052,7 @@
     },
     {
       "raw_hot": 365745,
-      "num": 365745,
+      "num": 1156189,
       "word": "Jennie演唱会现场的明星",
       "onboard_time": 1742032823,
       "rank": 26,
@@ -5035,6 +5147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 359360,
+      "num": 359360,
+      "word": "21岁女生找行政工作被送去陪酒",
+      "onboard_time": 1742040264,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 359019,
       "num": 314466,
       "word": "马思纯手动澄清直播没开瘦脸",
@@ -5076,7 +5196,7 @@
     },
     {
       "raw_hot": 356813,
-      "num": 648199,
+      "num": 1147937,
       "word": "周深在用自己的方式搞文化输出",
       "onboard_time": 1742029044,
       "rank": 9,
@@ -5385,14 +5505,6 @@
       "onboard_time": 1741700064,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 335727,
-      "num": 335727,
-      "word": "指甲上没月牙是营养不良吗",
-      "onboard_time": 1742035523,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 335702,
@@ -5771,6 +5883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 309959,
+      "num": 309959,
+      "word": "央视还原胖猫事件真相",
+      "onboard_time": 1742042191,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 308996,
       "num": 308996,
       "word": "未来3天大风降温雨雪来袭",
@@ -5817,6 +5937,14 @@
       "onboard_time": 1741936884,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 305478,
+      "num": 305478,
+      "word": "金赛纶妈妈让金秀贤承认和未成年恋爱",
+      "onboard_time": 1742041469,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 304657,
@@ -5937,14 +6065,6 @@
       "onboard_time": 1741752203,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 299368,
-      "num": 299368,
-      "word": "Uzi怒斥TES",
-      "onboard_time": 1742038285,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 298908,
@@ -6129,6 +6249,14 @@
       "onboard_time": 1741867764,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 289954,
+      "num": 289954,
+      "word": "米菲拉拉裤",
+      "onboard_time": 1742041647,
+      "rank": 37,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 289763,
@@ -6595,6 +6723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 265288,
+      "num": 265288,
+      "word": "HLE半决赛零封TES",
+      "onboard_time": 1742038885,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 265107,
       "num": 260788,
       "word": "周杰伦背着女儿牵着儿子",
@@ -6689,6 +6825,14 @@
       "onboard_time": 1741763542,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 261562,
+      "num": 819851,
+      "word": "王楚钦3比0胜莫雷加德",
+      "onboard_time": 1742041950,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 261301,
@@ -6931,6 +7075,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 249777,
+      "num": 249777,
+      "word": "一公立医院被曝使用未获批抗癌药",
+      "onboard_time": 1742040264,
+      "rank": 40,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 249309,
       "num": 261657,
       "word": "章子怡压轴亮相",
@@ -6944,6 +7096,14 @@
       "word": "在出租屋米袋里发现10万现金报警",
       "onboard_time": 1741597942,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 248867,
+      "num": 428138,
+      "word": "假牦牛肉掺老鼠屎还能日售上千单",
+      "onboard_time": 1742034142,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -7491,14 +7651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 229935,
-      "num": 428138,
-      "word": "假牦牛肉掺老鼠屎还能日售上千单",
-      "onboard_time": 1742034142,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 229692,
       "num": 205547,
       "word": "章若楠素颜镜头",
@@ -7675,6 +7827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224578,
+      "num": 313804,
+      "word": "30万的车遇重大事故未弹安全气囊",
+      "onboard_time": 1742037324,
+      "rank": 49,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 224575,
       "num": 224575,
       "word": "韩网友批判我的大叔恋童癖",
@@ -7832,6 +7992,14 @@
       "word": "周杰伦晒出比耶录音照",
       "onboard_time": 1741685782,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 221509,
+      "num": 221509,
+      "word": "金赛纶家属立场文公开",
+      "onboard_time": 1742041408,
+      "rank": 44,
       "category": "艺人"
     },
     {
@@ -8411,6 +8579,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 206894,
+      "num": 206894,
+      "word": "王楚钦评完美WTT球员",
+      "onboard_time": 1742042368,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 206884,
+      "num": 346737,
+      "word": "萧敬腾王一博售后",
+      "onboard_time": 1742042191,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206427,
       "num": 231475,
       "word": "时代少年团将录制疯狂的麦咭",
@@ -8624,6 +8808,14 @@
       "word": "黄奕女儿不想让妈妈演反派",
       "onboard_time": 1741591341,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 203010,
+      "num": 433184,
+      "word": "郑中基和老婆互相取关",
+      "onboard_time": 1742038524,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -8977,6 +9169,14 @@
       "onboard_time": 1741857624,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198158,
+      "num": 198158,
+      "word": "纸尿裤",
+      "onboard_time": 1742042430,
+      "rank": 49,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 198073,
@@ -10075,14 +10275,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 182165,
-      "num": 182165,
-      "word": "30万的车遇重大事故未弹安全气囊",
-      "onboard_time": 1742037324,
-      "rank": 49,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 181961,
       "num": 181961,
       "word": "王曼昱11比9张本美和",
@@ -10449,6 +10641,14 @@
       "onboard_time": 1741838246,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176307,
+      "num": 365868,
+      "word": "王楚钦说心理素质最佳是樊振东",
+      "onboard_time": 1742041288,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 176215,
@@ -11337,6 +11537,14 @@
       "onboard_time": 1741781064,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164790,
+      "num": 208223,
+      "word": "你好星期六",
+      "onboard_time": 1741431322,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 164718,
@@ -13211,14 +13419,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 142077,
-      "num": 142077,
-      "word": "郑中基和老婆互相取关",
-      "onboard_time": 1742038524,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 142043,
       "num": 142043,
       "word": "王艺迪11比8伊藤美诚",
@@ -13737,6 +13937,14 @@
       "onboard_time": 1741610246,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136863,
+      "num": 1133721,
+      "word": "市监局回应315曝光翻新卫生巾",
+      "onboard_time": 1742042070,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 136700,
@@ -16971,14 +17179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 100903,
-      "num": 100903,
-      "word": "你好星期六",
-      "onboard_time": 1741431322,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 100836,
       "num": 1424971,
       "word": "对待春耕这件事中国人有多认真",
@@ -18097,6 +18297,14 @@
       "onboard_time": 1741652603,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 85461,
+      "num": 343446,
+      "word": "周思成又喊话田静了",
+      "onboard_time": 1742041588,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 85322,
@@ -19916,7 +20124,7 @@
     },
     {
       "raw_hot": 51572,
-      "num": 1051381,
+      "num": 5114616,
       "word": "我国再次发射一箭双星",
       "onboard_time": 1742027243,
       "rank": 2,
@@ -20387,6 +20595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42335,
+      "num": 840679,
+      "word": "翻新卫生巾市场倒卖七八千元一吨",
+      "onboard_time": 1742041829,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 42319,
       "num": 51718,
       "word": "马斯克首访美国家安全局",
@@ -20697,6 +20913,14 @@
       "onboard_time": 1741642094,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 39228,
+      "num": 294022,
+      "word": "3万元气血养生仪竟是家电",
+      "onboard_time": 1742040446,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39226,
