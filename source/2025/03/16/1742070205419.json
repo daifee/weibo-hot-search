@@ -1,0 +1,410 @@
+{
+  "runTime": 1742070205419,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 448323,
+        "num": 448323,
+        "word": "央视还原胖猫事件真相",
+        "onboard_time": 1742042191,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 426176,
+        "num": 426176,
+        "word": "315名单",
+        "onboard_time": 1742044291,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 16641,
+        "num": 321015,
+        "word": "烟雨漓江将中国水墨画具象化了",
+        "onboard_time": 1742050532,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297733,
+        "num": 297733,
+        "word": "苏菲发声明",
+        "onboard_time": 1742052867,
+        "rank": 3,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 293450,
+        "num": 293450,
+        "word": "啄木鸟称放弃公关",
+        "onboard_time": 1742055506,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 248985,
+        "num": 248985,
+        "word": "全棉时代回应",
+        "onboard_time": 1742053588,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 188843,
+        "num": 188843,
+        "word": "自由点道歉",
+        "onboard_time": 1742052569,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 172625,
+        "num": 172625,
+        "word": "自由点报案",
+        "onboard_time": 1742057362,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 113859,
+        "num": 168756,
+        "word": "薛凯琪演唱会泣不成声",
+        "onboard_time": 1742054668,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 57785,
+        "num": 165933,
+        "word": "半个韩娱在Jennie演唱会团建",
+        "onboard_time": 1742065815,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 165883,
+        "num": 165883,
+        "word": "一次性内裤爆雷",
+        "onboard_time": 1742042250,
+        "rank": 10,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 158056,
+        "num": 158056,
+        "word": "翻新卫生巾",
+        "onboard_time": 1742040988,
+        "rank": 11,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 155533,
+        "num": 155533,
+        "word": "315晚会",
+        "onboard_time": 1742038885,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153385,
+        "num": 153385,
+        "word": "金赛纶金秀贤对话视频",
+        "onboard_time": 1742055266,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133653,
+        "num": 133653,
+        "word": "椰子水",
+        "onboard_time": 1742053048,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 127015,
+        "num": 127015,
+        "word": "胖猫事件90多吨食物被浪费",
+        "onboard_time": 1742040024,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74948,
+        "num": 74948,
+        "word": "Babycare",
+        "onboard_time": 1742043212,
+        "rank": 16,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 37128,
+        "num": 73047,
+        "word": "欧豪忘关直播",
+        "onboard_time": 1742053167,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33978,
+        "num": 72941,
+        "word": "王力宏掀了演唱会天花板",
+        "onboard_time": 1742049332,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 32524,
+        "num": 72929,
+        "word": "王力宏说是南昌拉了我一把",
+        "onboard_time": 1742059760,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 72924,
+        "num": 72924,
+        "word": "山东济宁回应315曝翻新卫生巾事件",
+        "onboard_time": 1742053827,
+        "rank": 20,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 20584,
+        "num": 71527,
+        "word": "卖增重虾仁公司负责人回应",
+        "onboard_time": 1742069236,
+        "rank": 21,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 70373,
+        "num": 70373,
+        "word": "蜜雪冰城",
+        "onboard_time": 1742047233,
+        "rank": 22,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 59792,
+        "num": 59792,
+        "word": "如何区别劣质卫生巾",
+        "onboard_time": 1742058980,
+        "rank": 23,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 54774,
+        "num": 54774,
+        "word": "看315晚会天塌了",
+        "onboard_time": 1742046633,
+        "rank": 24,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 47310,
+        "num": 47310,
+        "word": "护舒宝声明",
+        "onboard_time": 1742048012,
+        "rank": 25,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 46387,
+        "num": 46387,
+        "word": "美腕回应李佳琦带货虾仁被质疑",
+        "onboard_time": 1742054785,
+        "rank": 26,
+        "category": "舆论监督,网红"
+      },
+      {
+        "raw_hot": 45142,
+        "num": 45142,
+        "word": "初中生玩打火机30秒烧了整间奶茶店",
+        "onboard_time": 1742064436,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43678,
+        "num": 43678,
+        "word": "商家说315晚会一曝光那我不完了",
+        "onboard_time": 1742049514,
+        "rank": 28,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 26916,
+        "num": 43145,
+        "word": "李小冉不跟张蔷一起住的原因",
+        "onboard_time": 1742048854,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42911,
+        "num": 42911,
+        "word": "315奶茶",
+        "onboard_time": 1742052867,
+        "rank": 30,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 41023,
+        "num": 41023,
+        "word": "许府牛",
+        "onboard_time": 1742053348,
+        "rank": 31,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 40764,
+        "num": 40764,
+        "word": "啄木鸟维修",
+        "onboard_time": 1742042790,
+        "rank": 32,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 38029,
+        "num": 38029,
+        "word": "李嘉诚",
+        "onboard_time": 1742052329,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22725,
+        "num": 37369,
+        "word": "TF家族",
+        "onboard_time": 1742057003,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37205,
+        "num": 37205,
+        "word": "啄木鸟第二次声明",
+        "onboard_time": 1742056525,
+        "rank": 35,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 36857,
+        "num": 36857,
+        "word": "沪上阿姨",
+        "onboard_time": 1742049213,
+        "rank": 36,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 36277,
+        "num": 36277,
+        "word": "全棉时代",
+        "onboard_time": 1742042610,
+        "rank": 37,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 35257,
+        "num": 35257,
+        "word": "翻新卫生巾企业负责人被控制",
+        "onboard_time": 1742052509,
+        "rank": 38,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 34988,
+        "num": 35186,
+        "word": "获客",
+        "onboard_time": 1742069055,
+        "rank": 39,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 47963,
+        "num": 35182,
+        "word": "华莱士",
+        "onboard_time": 1742048553,
+        "rank": 40,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 35177,
+        "num": 35177,
+        "word": "兑捷",
+        "onboard_time": 1742069774,
+        "rank": 41,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 33978,
+        "num": 33978,
+        "word": "苏菲",
+        "onboard_time": 1742042610,
+        "rank": 42,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 33553,
+        "num": 33553,
+        "word": "火眼云",
+        "onboard_time": 1742069594,
+        "rank": 43,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 31904,
+        "num": 31904,
+        "word": "虞书欣说南城的海风很温柔",
+        "onboard_time": 1742057243,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31011,
+        "num": 31011,
+        "word": "梁山希希纸制品",
+        "onboard_time": 1742069834,
+        "rank": 45,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 28424,
+        "num": 28424,
+        "word": "浪莎一次性内裤",
+        "onboard_time": 1742068515,
+        "rank": 46,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 27432,
+        "num": 28419,
+        "word": "DeepSeek总结315晚会",
+        "onboard_time": 1742054546,
+        "rank": 47,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 24570,
+        "num": 28408,
+        "word": "虾仁焯水可去除部分保水剂",
+        "onboard_time": 1742061557,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 14729,
+        "num": 28391,
+        "word": "2025年全英羽毛球公开赛",
+        "onboard_time": 1742062757,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#稳步扩大制度型开放#"
+    }
+  }
+}
