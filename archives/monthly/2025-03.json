@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742020252104,
+  "endTime": 1742021011991,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1579,6 +1579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1377062,
+      "num": 1377062,
+      "word": "美国正式确认将韩国列入敏感国家",
+      "onboard_time": 1742019202,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1366244,
       "num": 361855,
       "word": "当独生子女开始遭遇父母重病",
@@ -3091,6 +3099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 932844,
+      "num": 501342,
+      "word": "甜馨称想演电视但没自信",
+      "onboard_time": 1742017943,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 932675,
       "num": 409123,
       "word": "金秀贤金赛纶比耶合照",
@@ -4171,14 +4187,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 763876,
-      "num": 501342,
-      "word": "甜馨称想演电视但没自信",
-      "onboard_time": 1742017943,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 763207,
       "num": 629064,
       "word": "专家建议每孩1次性补贴10万",
@@ -4937,14 +4945,6 @@
       "onboard_time": 1741436360,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 674636,
-      "num": 674636,
-      "word": "美国正式确认将韩国列入敏感国家",
-      "onboard_time": 1742019202,
-      "rank": 5,
-      "category": "国际时政"
     },
     {
       "raw_hot": 673697,
@@ -6931,6 +6931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 510922,
+      "num": 499393,
+      "word": "熙媛一路走好",
+      "onboard_time": 1742018783,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 510916,
       "num": 510916,
       "word": "以为是初恋女友实际是复婚夫妻",
@@ -6993,6 +7001,14 @@
       "onboard_time": 1741101261,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 506492,
+      "num": 496023,
+      "word": "奚梦瑶和婆婆逛商场",
+      "onboard_time": 1742017105,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 505863,
@@ -7091,14 +7107,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 499393,
-      "num": 499393,
-      "word": "熙媛一路走好",
-      "onboard_time": 1742018783,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 499001,
       "num": 499001,
       "word": "韩国低于性同意年龄均视为强奸",
@@ -7153,14 +7161,6 @@
       "onboard_time": 1741860445,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 496023,
-      "num": 496023,
-      "word": "奚梦瑶和婆婆逛商场",
-      "onboard_time": 1742017105,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 495967,
@@ -8499,6 +8499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 420812,
+      "num": 471294,
+      "word": "孙颖莎顶住了",
+      "onboard_time": 1742016685,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 420649,
       "num": 336785,
       "word": "马柏全 青海",
@@ -8945,14 +8953,6 @@
       "onboard_time": 1741463834,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 400780,
-      "num": 471294,
-      "word": "孙颖莎顶住了",
-      "onboard_time": 1742016685,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 400704,
@@ -18923,6 +18923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 193524,
+      "num": 193524,
+      "word": "贺峻霖期末周的大学生belike",
+      "onboard_time": 1742020225,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 193461,
       "num": 248379,
       "word": "星舰飞船爆炸成超大烟花点亮夜空",
@@ -19979,6 +19987,14 @@
       "category": "民生新闻,国际时政"
     },
     {
+      "raw_hot": 186676,
+      "num": 186676,
+      "word": "OpenAI称DeepSeek是另一个华为",
+      "onboard_time": 1742020703,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 186612,
       "num": 204734,
       "word": "SEVENTEEN出演罗PD新综艺",
@@ -20145,6 +20161,14 @@
       "onboard_time": 1741320805,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185332,
+      "num": 500140,
+      "word": "林诗栋3比2林昀儒",
+      "onboard_time": 1742019503,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 185330,
@@ -20337,6 +20361,14 @@
       "onboard_time": 1741510941,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183318,
+      "num": 183318,
+      "word": "周思成说被田静看不起",
+      "onboard_time": 1742020463,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 183311,
@@ -20889,14 +20921,6 @@
       "onboard_time": 1741833503,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 178553,
-      "num": 500140,
-      "word": "林诗栋3比2林昀儒",
-      "onboard_time": 1742019503,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 178336,
@@ -26243,6 +26267,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 145670,
+      "num": 145670,
+      "word": "吉赛尔邦辰抱三胎外出遛狗",
+      "onboard_time": 1742018902,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145645,
       "num": 284232,
       "word": "夏以昼鸡哔你",
@@ -27524,7 +27556,7 @@
     },
     {
       "raw_hot": 138963,
-      "num": 210716,
+      "num": 387065,
       "word": "时尚博主谈王一博发型适配度",
       "onboard_time": 1742019682,
       "rank": 26,
@@ -27601,6 +27633,14 @@
       "onboard_time": 1741951462,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 138708,
+      "num": 138708,
+      "word": "2025第一次水逆",
+      "onboard_time": 1742020763,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 138692,
@@ -27905,6 +27945,14 @@
       "onboard_time": 1741611505,
       "rank": 46,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 136522,
+      "num": 500710,
+      "word": "55套送检美白化妆品全部汞超标",
+      "onboard_time": 1742019443,
+      "rank": 13,
+      "category": "舆论监督,美妆"
     },
     {
       "raw_hot": 136507,
@@ -29769,14 +29817,6 @@
       "onboard_time": 1741291994,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 125914,
-      "num": 125914,
-      "word": "贺峻霖期末周的大学生belike",
-      "onboard_time": 1742020225,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 125889,
@@ -34659,6 +34699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100836,
+      "num": 1424971,
+      "word": "对待春耕这件事中国人有多认真",
+      "onboard_time": 1742015426,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 100799,
       "num": 100799,
       "word": "王楚钦13比11阿鲁纳",
@@ -35161,14 +35209,6 @@
       "onboard_time": 1741500502,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 98187,
-      "num": 1424971,
-      "word": "对待春耕这件事中国人有多认真",
-      "onboard_time": 1742015426,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 98087,
@@ -36115,6 +36155,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 92039,
+      "num": 185533,
+      "word": "陈立农杨丞琳合唱暧昧",
+      "onboard_time": 1742020583,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 91997,
       "num": 548391,
       "word": "国产AI诸神之战",
@@ -36713,6 +36761,14 @@
       "onboard_time": 1741361602,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 87892,
+      "num": 503083,
+      "word": "林诗栋重庆冠军赛进四强",
+      "onboard_time": 1742019503,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 87771,
@@ -37809,14 +37865,6 @@
       "onboard_time": 1741519283,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 78036,
-      "num": 500710,
-      "word": "55套送检美白化妆品全部汞超标",
-      "onboard_time": 1742019443,
-      "rank": 13,
-      "category": "舆论监督,美妆"
     },
     {
       "raw_hot": 78023,
@@ -40883,6 +40931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51112,
+      "num": 250738,
+      "word": "快餐店猪肉圆检出大量鸡肉",
+      "onboard_time": 1742020703,
+      "rank": 23,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 50985,
       "num": 532976,
       "word": "15一斤回收小马宝莉卡换直播间卖",
@@ -42987,14 +43043,6 @@
       "category": "国内时政,体育"
     },
     {
-      "raw_hot": 34644,
-      "num": 503083,
-      "word": "林诗栋重庆冠军赛进四强",
-      "onboard_time": 1742019503,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 34632,
       "num": 48597,
       "word": "文莱对中国公民14天免签3月8日实施",
@@ -43712,6 +43760,14 @@
       "word": "男子拆快递瞬间眼睛差点瞎了",
       "onboard_time": 1741459575,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30025,
+      "num": 197120,
+      "word": "杜小华希望下一个找到孩子的是自己",
+      "onboard_time": 1742019863,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -44433,6 +44489,14 @@
       "onboard_time": 1740939791,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 25514,
+      "num": 447447,
+      "word": "OpenAI写信攻击DeepSeek",
+      "onboard_time": 1742020284,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 25496,
@@ -45497,14 +45561,6 @@
       "onboard_time": 1741014860,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 18449,
-      "num": 197120,
-      "word": "杜小华希望下一个找到孩子的是自己",
-      "onboard_time": 1742019863,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18267,

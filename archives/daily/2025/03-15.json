@@ -1,6 +1,6 @@
 {
   "startTime": 1741969737801,
-  "endTime": 1742020252104,
+  "endTime": 1742021011991,
   "band_list": [
     {
       "raw_hot": 3266055,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1377062,
+      "num": 1377062,
+      "word": "美国正式确认将韩国列入敏感国家",
+      "onboard_time": 1742019202,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1274541,
       "num": 1274541,
       "word": "云南遇害司机下班后本要给孩子煮饭",
@@ -139,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 932844,
+      "num": 501342,
+      "word": "甜馨称想演电视但没自信",
+      "onboard_time": 1742017943,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 857056,
       "num": 917406,
       "word": "胖东来红内裤当事人道歉",
@@ -176,14 +192,6 @@
       "word": "张馨予把痘痘点成痣",
       "onboard_time": 1742016565,
       "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 763876,
-      "num": 501342,
-      "word": "甜馨称想演电视但没自信",
-      "onboard_time": 1742017943,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -225,14 +233,6 @@
       "onboard_time": 1742006420,
       "rank": 39,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 674636,
-      "num": 674636,
-      "word": "美国正式确认将韩国列入敏感国家",
-      "onboard_time": 1742019202,
-      "rank": 5,
-      "category": "国际时政"
     },
     {
       "raw_hot": 670887,
@@ -299,7 +299,7 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 499393,
+      "raw_hot": 510922,
       "num": 499393,
       "word": "熙媛一路走好",
       "onboard_time": 1742018783,
@@ -307,7 +307,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 496023,
+      "raw_hot": 506492,
       "num": 496023,
       "word": "奚梦瑶和婆婆逛商场",
       "onboard_time": 1742017105,
@@ -403,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 420812,
+      "num": 471294,
+      "word": "孙颖莎顶住了",
+      "onboard_time": 1742016685,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 406783,
       "num": 233212,
       "word": "董力阿拉蕾",
@@ -417,14 +425,6 @@
       "onboard_time": 1741997361,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 400780,
-      "num": 471294,
-      "word": "孙颖莎顶住了",
-      "onboard_time": 1742016685,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 390497,
@@ -827,6 +827,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 193524,
+      "num": 193524,
+      "word": "贺峻霖期末周的大学生belike",
+      "onboard_time": 1742020225,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 193159,
       "num": 193159,
       "word": "你好星期六仙门打call哪家强",
@@ -875,6 +883,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186676,
+      "num": 186676,
+      "word": "OpenAI称DeepSeek是另一个华为",
+      "onboard_time": 1742020703,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 185332,
+      "num": 500140,
+      "word": "林诗栋3比2林昀儒",
+      "onboard_time": 1742019503,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184397,
       "num": 161613,
       "word": "男子菜地打坐1个视频最少拍80天",
@@ -891,6 +915,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 183318,
+      "num": 183318,
+      "word": "周思成说被田静看不起",
+      "onboard_time": 1742020463,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 182655,
       "num": 182655,
       "word": "日本自卫队一军官被机关枪砸中身亡",
@@ -905,14 +937,6 @@
       "onboard_time": 1741967662,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 178553,
-      "num": 500140,
-      "word": "林诗栋3比2林昀儒",
-      "onboard_time": 1742019503,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 177049,
@@ -1131,6 +1155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145670,
+      "num": 145670,
+      "word": "吉赛尔邦辰抱三胎外出遛狗",
+      "onboard_time": 1742018902,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145099,
       "num": 145099,
       "word": "官方回应夫妻2人掉入引黄渠溺亡",
@@ -1188,11 +1220,27 @@
     },
     {
       "raw_hot": 138963,
-      "num": 210716,
+      "num": 387065,
       "word": "时尚博主谈王一博发型适配度",
       "onboard_time": 1742019682,
       "rank": 26,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 138708,
+      "num": 138708,
+      "word": "2025第一次水逆",
+      "onboard_time": 1742020763,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 136522,
+      "num": 500710,
+      "word": "55套送检美白化妆品全部汞超标",
+      "onboard_time": 1742019443,
+      "rank": 13,
+      "category": "舆论监督,美妆"
     },
     {
       "raw_hot": 132705,
@@ -1233,14 +1281,6 @@
       "onboard_time": 1742012964,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125914,
-      "num": 125914,
-      "word": "贺峻霖期末周的大学生belike",
-      "onboard_time": 1742020225,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 123651,
@@ -1443,6 +1483,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 100836,
+      "num": 1424971,
+      "word": "对待春耕这件事中国人有多认真",
+      "onboard_time": 1742015426,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 100697,
       "num": 100697,
       "word": "华莱士店长称业绩比食品安全更重要",
@@ -1473,14 +1521,6 @@
       "onboard_time": 1741959862,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 98187,
-      "num": 1424971,
-      "word": "对待春耕这件事中国人有多认真",
-      "onboard_time": 1742015426,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 97964,
@@ -1547,6 +1587,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 92039,
+      "num": 185533,
+      "word": "陈立农杨丞琳合唱暧昧",
+      "onboard_time": 1742020583,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 91536,
       "num": 91536,
       "word": "身价过亿的总裁大小姐都在这了",
@@ -1585,6 +1633,14 @@
       "onboard_time": 1742011883,
       "rank": 18,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 87892,
+      "num": 503083,
+      "word": "林诗栋重庆冠军赛进四强",
+      "onboard_time": 1742019503,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 85727,
@@ -1641,14 +1697,6 @@
       "onboard_time": 1742011522,
       "rank": 26,
       "category": "教育"
-    },
-    {
-      "raw_hot": 78036,
-      "num": 500710,
-      "word": "55套送检美白化妆品全部汞超标",
-      "onboard_time": 1742019443,
-      "rank": 13,
-      "category": "舆论监督,美妆"
     },
     {
       "raw_hot": 77618,
@@ -1803,6 +1851,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 51112,
+      "num": 250738,
+      "word": "快餐店猪肉圆检出大量鸡肉",
+      "onboard_time": 1742020703,
+      "rank": 23,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 50985,
       "num": 532976,
       "word": "15一斤回收小马宝莉卡换直播间卖",
@@ -1883,20 +1939,20 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 34644,
-      "num": 503083,
-      "word": "林诗栋重庆冠军赛进四强",
-      "onboard_time": 1742019503,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 32705,
       "num": 251658,
       "word": "加拿大新总理称入美论太疯狂",
       "onboard_time": 1742006361,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 30025,
+      "num": 197120,
+      "word": "杜小华希望下一个找到孩子的是自己",
+      "onboard_time": 1742019863,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29297,
@@ -1921,6 +1977,14 @@
       "onboard_time": 1741976475,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 25514,
+      "num": 447447,
+      "word": "OpenAI写信攻击DeepSeek",
+      "onboard_time": 1742020284,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 23936,
@@ -1969,14 +2033,6 @@
       "onboard_time": 1741977616,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 18449,
-      "num": 197120,
-      "word": "杜小华希望下一个找到孩子的是自己",
-      "onboard_time": 1742019863,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17838,
