@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742055993117,
+  "endTime": 1742056915087,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -123,8 +123,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 5427542,
-      "num": 5427542,
+      "raw_hot": 5694074,
+      "num": 5694074,
       "word": "自由点道歉",
       "onboard_time": 1742052569,
       "rank": 20,
@@ -363,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2690610,
+      "num": 2690610,
+      "word": "苏菲发声明",
+      "onboard_time": 1742052867,
+      "rank": 36,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 2685331,
       "num": 908116,
       "word": "第五人格场馆着火",
@@ -425,14 +433,6 @@
       "onboard_time": 1740758299,
       "rank": 0,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 2454104,
-      "num": 2454104,
-      "word": "苏菲发声明",
-      "onboard_time": 1742052867,
-      "rank": 36,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 2442542,
@@ -1291,6 +1291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1614449,
+      "num": 1614449,
+      "word": "椰子水",
+      "onboard_time": 1742053048,
+      "rank": 12,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1608336,
       "num": 1608336,
       "word": "不要再叫女神节女王节了",
@@ -1481,6 +1489,14 @@
       "onboard_time": 1741496481,
       "rank": 5,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 1530951,
+      "num": 1530951,
+      "word": "啄木鸟称放弃公关",
+      "onboard_time": 1742055506,
+      "rank": 24,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 1517875,
@@ -1985,14 +2001,6 @@
       "onboard_time": 1741962563,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1280514,
-      "num": 1280514,
-      "word": "椰子水",
-      "onboard_time": 1742053048,
-      "rank": 12,
-      "category": "美食"
     },
     {
       "raw_hot": 1278503,
@@ -3163,6 +3171,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 988725,
+      "num": 988725,
+      "word": "315奶茶",
+      "onboard_time": 1742052867,
+      "rank": 46,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 987096,
       "num": 673041,
       "word": "黄晓明在线辟谣输了十个亿",
@@ -3692,7 +3708,7 @@
     },
     {
       "raw_hot": 899190,
-      "num": 1588688,
+      "num": 1667578,
       "word": "欧豪忘关直播",
       "onboard_time": 1742053167,
       "rank": 8,
@@ -4001,6 +4017,14 @@
       "onboard_time": 1741055958,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 857072,
+      "num": 1784117,
+      "word": "薛凯琪演唱会泣不成声",
+      "onboard_time": 1742054668,
+      "rank": 9,
+      "category": "演出"
     },
     {
       "raw_hot": 854106,
@@ -5731,14 +5755,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 648366,
-      "num": 648366,
-      "word": "315奶茶",
-      "onboard_time": 1742052867,
-      "rank": 46,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 647257,
       "num": 647257,
       "word": "鲁A55X7E暴雪中拖完公交拖扫雪车",
@@ -6385,14 +6401,6 @@
       "onboard_time": 1741966704,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 598971,
-      "num": 1577468,
-      "word": "薛凯琪演唱会泣不成声",
-      "onboard_time": 1742054668,
-      "rank": 9,
-      "category": "演出"
     },
     {
       "raw_hot": 597919,
@@ -7675,6 +7683,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 504833,
+      "num": 504833,
+      "word": "金赛纶金秀贤对话视频",
+      "onboard_time": 1742055266,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 504490,
       "num": 568627,
       "word": "哪吒2破五",
@@ -7905,14 +7921,6 @@
       "onboard_time": 1741598302,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 493390,
-      "num": 493390,
-      "word": "啄木鸟称放弃公关",
-      "onboard_time": 1742055506,
-      "rank": 24,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 492881,
@@ -9035,6 +9043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 432073,
+      "num": 1650199,
+      "word": "山东济宁回应315曝翻新卫生巾事件",
+      "onboard_time": 1742053827,
+      "rank": 32,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 431776,
       "num": 329695,
       "word": "难哄车兴德上线",
@@ -9097,6 +9113,14 @@
       "onboard_time": 1741737861,
       "rank": 14,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 429533,
+      "num": 429533,
+      "word": "许府牛",
+      "onboard_time": 1742053348,
+      "rank": 33,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 428344,
@@ -10355,14 +10379,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 378718,
-      "num": 378718,
-      "word": "金赛纶金秀贤对话视频",
-      "onboard_time": 1742055266,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 378568,
       "num": 361861,
       "word": "王一博香奈儿内场落座",
@@ -11075,14 +11091,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 356558,
-      "num": 356558,
-      "word": "山东济宁回应315曝翻新卫生巾事件",
-      "onboard_time": 1742053827,
-      "rank": 32,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 356284,
       "num": 356284,
       "word": "短剧",
@@ -11481,14 +11489,6 @@
       "onboard_time": 1741439602,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 344645,
-      "num": 344645,
-      "word": "许府牛",
-      "onboard_time": 1742053348,
-      "rank": 33,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 344633,
@@ -12497,6 +12497,14 @@
       "onboard_time": 1741326564,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 315859,
+      "num": 315859,
+      "word": "啄木鸟第二次声明",
+      "onboard_time": 1742056525,
+      "rank": 32,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 315253,
@@ -13953,6 +13961,14 @@
       "onboard_time": 1741156879,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 279292,
+      "num": 279292,
+      "word": "浪莎回应",
+      "onboard_time": 1742054605,
+      "rank": 35,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 279203,
@@ -19523,6 +19539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 199506,
+      "num": 334557,
+      "word": "315点名啄木鸟",
+      "onboard_time": 1742055925,
+      "rank": 34,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 199384,
       "num": 350721,
       "word": "罗小黑战记2今夏上映",
@@ -21313,6 +21337,14 @@
       "onboard_time": 1741942224,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 187095,
+      "num": 234705,
+      "word": "DeepSeek总结315晚会",
+      "onboard_time": 1742054546,
+      "rank": 47,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 187076,
@@ -25139,6 +25171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160987,
+      "num": 833109,
+      "word": "李佳琦直播间曾带货问题虾仁产品",
+      "onboard_time": 1742056225,
+      "rank": 19,
+      "category": "舆论监督,网红"
+    },
+    {
       "raw_hot": 160917,
       "num": 160917,
       "word": "林忆莲台下混进真女儿了",
@@ -27153,14 +27193,6 @@
       "onboard_time": 1740980778,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 149658,
-      "num": 234705,
-      "word": "DeepSeek总结315晚会",
-      "onboard_time": 1742054546,
-      "rank": 47,
-      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 149582,
@@ -31817,14 +31849,6 @@
       "onboard_time": 1741316240,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 124189,
-      "num": 334557,
-      "word": "315点名啄木鸟",
-      "onboard_time": 1742055925,
-      "rank": 34,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 124138,
@@ -42755,6 +42779,14 @@
       "category": "国内时政,互联网"
     },
     {
+      "raw_hot": 51343,
+      "num": 279292,
+      "word": "全面彻查315晚会曝光的企业违法行为",
+      "onboard_time": 1742056823,
+      "rank": 37,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 51268,
       "num": 120950,
       "word": "知名电影人宋歌被判刑",
@@ -45969,6 +46001,14 @@
       "onboard_time": 1740864432,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 27772,
+      "num": 279292,
+      "word": "市场监管总局回应315晚会曝光",
+      "onboard_time": 1742056823,
+      "rank": 36,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 27767,
