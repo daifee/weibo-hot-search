@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742129811185,
+  "endTime": 1742131596820,
   "band_list": [
     {
       "raw_hot": 9740375,
@@ -9,6 +9,14 @@
       "onboard_time": 1742044291,
       "rank": 0,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 9385640,
+      "num": 9385640,
+      "word": "王楚钦孙颖莎冠军自拍",
+      "onboard_time": 1742129244,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 6041634,
@@ -179,14 +187,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 1570801,
-      "num": 1570801,
-      "word": "王楚钦孙颖莎冠军自拍",
-      "onboard_time": 1742129244,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1507262,
       "num": 1507262,
       "word": "护舒宝声明",
@@ -209,6 +209,14 @@
       "onboard_time": 1742126483,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1295830,
+      "num": 383375,
+      "word": "金赛纶遗属最新立场",
+      "onboard_time": 1742129485,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1282686,
@@ -491,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 745374,
+      "num": 745374,
+      "word": "王楚钦重回世界排名第一",
+      "onboard_time": 1742130024,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 727712,
       "num": 411054,
       "word": "金赛纶超短发",
@@ -651,6 +667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 552739,
+      "num": 587568,
+      "word": "近五年爆过雷的卫生巾品牌",
+      "onboard_time": 1742128045,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 550419,
       "num": 550419,
       "word": "80余执法人员进驻啄木鸟公司",
@@ -715,6 +739,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 501774,
+      "num": 501774,
+      "word": "电商称卫生巾出问题将百倍赔偿",
+      "onboard_time": 1742130204,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 493687,
       "num": 493687,
       "word": "金秀贤试图收买金赛纶父亲",
@@ -745,6 +777,14 @@
       "onboard_time": 1742048553,
       "rank": 40,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 476271,
+      "num": 317723,
+      "word": "上海全款150万9平米的独栋",
+      "onboard_time": 1742130144,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 474299,
@@ -872,6 +912,14 @@
       "word": "王曼昱反超陈幸同",
       "onboard_time": 1742100923,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 410775,
+      "num": 410775,
+      "word": "张本智和发文告别教练",
+      "onboard_time": 1742129485,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -1003,14 +1051,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 342533,
-      "num": 587568,
-      "word": "近五年爆过雷的卫生巾品牌",
-      "onboard_time": 1742128045,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 337715,
       "num": 655834,
       "word": "徐睿知代言回归",
@@ -1051,6 +1091,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 317584,
+      "num": 317584,
+      "word": "莎头男单女单冠军",
+      "onboard_time": 1742129425,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 315859,
       "num": 315859,
       "word": "啄木鸟第二次声明",
@@ -1067,14 +1115,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 308329,
-      "num": 308329,
-      "word": "莎头男单女单冠军",
-      "onboard_time": 1742129425,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 306633,
       "num": 612366,
       "word": "315当晚9省市连夜执法",
@@ -1089,14 +1129,6 @@
       "onboard_time": 1742047773,
       "rank": 38,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 304305,
-      "num": 304305,
-      "word": "张本智和发文告别教练",
-      "onboard_time": 1742129485,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 304236,
@@ -1145,6 +1177,14 @@
       "onboard_time": 1742124144,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 282580,
+      "num": 462758,
+      "word": "蛋糕店的蛋糕尺寸足不足",
+      "onboard_time": 1742128223,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 282499,
@@ -1481,6 +1521,14 @@
       "onboard_time": 1742129244,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 225441,
+      "num": 241843,
+      "word": "欧阳娜娜看娣娣舞台破防了",
+      "onboard_time": 1742130925,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 224356,
@@ -1875,12 +1923,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 188088,
+      "num": 241827,
+      "word": "短剧已是nextlevel",
+      "onboard_time": 1742131225,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187895,
       "num": 228979,
       "word": "内娱活人经纪人李登科",
       "onboard_time": 1742107043,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187557,
+      "num": 187557,
+      "word": "315卫生巾",
+      "onboard_time": 1742130744,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187095,
@@ -1923,6 +1987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183670,
+      "num": 183670,
+      "word": "孙颖莎夺冠现场DJ太宠了",
+      "onboard_time": 1742131105,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181943,
       "num": 181943,
       "word": "孙颖莎11比4陈幸同",
@@ -1945,6 +2017,14 @@
       "onboard_time": 1742107941,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 180178,
+      "num": 180178,
+      "word": "孙颖莎奖杯自拍",
+      "onboard_time": 1742130624,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 179370,
@@ -2075,6 +2155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167773,
+      "num": 167773,
+      "word": "李子璇七年之后再跳pickmeup",
+      "onboard_time": 1742131285,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 167439,
       "num": 167439,
       "word": "时光代理人",
@@ -2105,6 +2193,14 @@
       "onboard_time": 1742114842,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163461,
+      "num": 163461,
+      "word": "教育具有长期性和滞后性",
+      "onboard_time": 1742130323,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 162239,
@@ -2144,6 +2240,14 @@
       "word": "孙颖莎4比2逆转晋级",
       "onboard_time": 1742100142,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 159228,
+      "num": 159228,
+      "word": "孙颖莎反应",
+      "onboard_time": 1742130744,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -2235,6 +2339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149044,
+      "num": 149044,
+      "word": "一个叫得难听一个走得难看",
+      "onboard_time": 1742130624,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 148743,
       "num": 148743,
       "word": "尼克斯vs勇士",
@@ -2257,14 +2369,6 @@
       "onboard_time": 1742129364,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 146155,
-      "num": 462758,
-      "word": "蛋糕店的蛋糕尺寸足不足",
-      "onboard_time": 1742128223,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 146146,
@@ -2321,6 +2425,14 @@
       "onboard_time": 1742110642,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142659,
+      "num": 324168,
+      "word": "王鹤棣穿豹纹短裤打篮球被偶遇",
+      "onboard_time": 1742130382,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 140155,
@@ -2489,6 +2601,14 @@
       "onboard_time": 1742106383,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 124972,
+      "num": 317758,
+      "word": "北马其顿一夜店火灾59人遇难",
+      "onboard_time": 1742129964,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 122637,
@@ -3011,6 +3131,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 36008,
+      "num": 194245,
+      "word": "五年失眠党被AI治好了",
+      "onboard_time": 1742129724,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 35177,
       "num": 35177,
       "word": "兑捷",
@@ -3083,6 +3211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29991,
+      "num": 388300,
+      "word": "屈臣氏同厂另品牌内裤曾被曝有污渍",
+      "onboard_time": 1742130144,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29668,
       "num": 64261,
       "word": "2025年全英羽毛球公开赛",
@@ -3153,14 +3289,6 @@
       "onboard_time": 1742128343,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 6969,
-      "num": 194245,
-      "word": "五年失眠党被AI治好了",
-      "onboard_time": 1742129724,
-      "rank": 45,
-      "category": "互联网"
     }
   ],
   "hotgov_list": [

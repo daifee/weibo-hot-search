@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1742129811185,
+  "endTime": 1742131596820,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -479,6 +479,14 @@
       "num": 9461281,
       "word": "柯洁不比了",
       "onboard_time": 1737617120,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 9385640,
+      "num": 9385640,
+      "word": "王楚钦孙颖莎冠军自拍",
+      "onboard_time": 1742129244,
       "rank": 1,
       "category": "体育"
     },
@@ -2393,14 +2401,6 @@
       "onboard_time": 1741269562,
       "rank": 1,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 2683542,
-      "num": 2683542,
-      "word": "12306回应孕妇被行李箱砸中致早产",
-      "onboard_time": 1739940202,
-      "rank": 1,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742129811185,
+  "endTime": 1742131596820,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -105,6 +105,14 @@
       "onboard_time": 1741774582,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 9385640,
+      "num": 9385640,
+      "word": "王楚钦孙颖莎冠军自拍",
+      "onboard_time": 1742129244,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 6671283,
@@ -1491,14 +1499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1570801,
-      "num": 1570801,
-      "word": "王楚钦孙颖莎冠军自拍",
-      "onboard_time": 1742129244,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1569954,
       "num": 825534,
       "word": "穆婷婷说不想和乔振宇再合作",
@@ -2104,6 +2104,14 @@
       "word": "刘忻凌晨开敞篷车接张予曦杀青下班",
       "onboard_time": 1741232057,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1295830,
+      "num": 383375,
+      "word": "金赛纶遗属最新立场",
+      "onboard_time": 1742129485,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -5219,6 +5227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 745374,
+      "num": 745374,
+      "word": "王楚钦重回世界排名第一",
+      "onboard_time": 1742130024,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 745160,
       "num": 745160,
       "word": "抖音封禁一批炒作炫富账号",
@@ -7539,6 +7555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 552739,
+      "num": 587568,
+      "word": "近五年爆过雷的卫生巾品牌",
+      "onboard_time": 1742128045,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 551696,
       "num": 366427,
       "word": "康师傅冰红茶 林俊杰",
@@ -8291,6 +8315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 501774,
+      "num": 501774,
+      "word": "电商称卫生巾出问题将百倍赔偿",
+      "onboard_time": 1742130204,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 501078,
       "num": 205234,
       "word": "以为在减肥实际在增肥的行为",
@@ -8777,6 +8809,14 @@
       "onboard_time": 1741938923,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 476271,
+      "num": 317723,
+      "word": "上海全款150万9平米的独栋",
+      "onboard_time": 1742130144,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 476170,
@@ -10128,6 +10168,14 @@
       "word": "王曼昱反超陈幸同",
       "onboard_time": 1742100923,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 410775,
+      "num": 410775,
+      "word": "张本智和发文告别教练",
+      "onboard_time": 1742129485,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -12299,14 +12347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 342533,
-      "num": 587568,
-      "word": "近五年爆过雷的卫生巾品牌",
-      "onboard_time": 1742128045,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 342526,
       "num": 291535,
       "word": "Jennie回归大赏",
@@ -13219,6 +13259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 317584,
+      "num": 317584,
+      "word": "莎头男单女单冠军",
+      "onboard_time": 1742129425,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 317530,
       "num": 317530,
       "word": "省考准考证",
@@ -13483,14 +13531,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 308329,
-      "num": 308329,
-      "word": "莎头男单女单冠军",
-      "onboard_time": 1742129425,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 308218,
       "num": 308218,
       "word": "韩束 林一",
@@ -13664,14 +13704,6 @@
       "word": "孙颖莎vs波尔卡诺娃",
       "onboard_time": 1741689263,
       "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 304305,
-      "num": 304305,
-      "word": "张本智和发文告别教练",
-      "onboard_time": 1742129485,
-      "rank": 31,
       "category": "体育"
     },
     {
@@ -14656,6 +14688,14 @@
       "word": "人民日报对话蒙曼陈丽君",
       "onboard_time": 1741269203,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 282580,
+      "num": 462758,
+      "word": "蛋糕店的蛋糕尺寸足不足",
+      "onboard_time": 1742128223,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -17937,6 +17977,14 @@
       "onboard_time": 1740919879,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 225441,
+      "num": 241843,
+      "word": "欧阳娜娜看娣娣舞台破防了",
+      "onboard_time": 1742130925,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 225376,
@@ -22595,6 +22643,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 188088,
+      "num": 241827,
+      "word": "短剧已是nextlevel",
+      "onboard_time": 1742131225,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187969,
       "num": 187969,
       "word": "天官赐福广播剧第三季",
@@ -22689,6 +22745,14 @@
       "onboard_time": 1741230018,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187557,
+      "num": 187557,
+      "word": "315卫生巾",
+      "onboard_time": 1742130744,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187543,
@@ -23291,6 +23355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 183670,
+      "num": 183670,
+      "word": "孙颖莎夺冠现场DJ太宠了",
+      "onboard_time": 1742131105,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183580,
       "num": 183580,
       "word": "河南中医说女孩想漂亮必须肝藏血",
@@ -23697,6 +23769,14 @@
       "onboard_time": 1741496759,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 180178,
+      "num": 180178,
+      "word": "孙颖莎奖杯自拍",
+      "onboard_time": 1742130624,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 180056,
@@ -25603,6 +25683,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 167773,
+      "num": 167773,
+      "word": "李子璇七年之后再跳pickmeup",
+      "onboard_time": 1742131285,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 167721,
       "num": 286453,
       "word": "欧豪比白鹿大两岁像大了十岁",
@@ -26427,6 +26515,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 163461,
+      "num": 163461,
+      "word": "教育具有长期性和滞后性",
+      "onboard_time": 1742130323,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 163365,
       "num": 204017,
       "word": "杨妞花今日回家告慰父母",
@@ -27113,6 +27209,14 @@
       "onboard_time": 1741836984,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159228,
+      "num": 159228,
+      "word": "孙颖莎反应",
+      "onboard_time": 1742130744,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 159161,
@@ -29051,6 +29155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149044,
+      "num": 149044,
+      "word": "一个叫得难听一个走得难看",
+      "onboard_time": 1742130624,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 148995,
       "num": 148995,
       "word": "石凯怎么叫粉丝兄弟啊",
@@ -29585,14 +29697,6 @@
       "onboard_time": 1741187658,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 146155,
-      "num": 462758,
-      "word": "蛋糕店的蛋糕尺寸足不足",
-      "onboard_time": 1742128223,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 146146,
@@ -30273,6 +30377,14 @@
       "onboard_time": 1741671262,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 142659,
+      "num": 324168,
+      "word": "王鹤棣穿豹纹短裤打篮球被偶遇",
+      "onboard_time": 1742130382,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 142633,
@@ -33745,6 +33857,14 @@
       "onboard_time": 1741245801,
       "rank": 36,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 124972,
+      "num": 317758,
+      "word": "北马其顿一夜店火灾59人遇难",
+      "onboard_time": 1742129964,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 124924,
@@ -47275,6 +47395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 36008,
+      "num": 194245,
+      "word": "五年失眠党被AI治好了",
+      "onboard_time": 1742129724,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 35913,
       "num": 152131,
       "word": "河你看两会",
@@ -48288,6 +48416,14 @@
       "word": "杜小华希望下一个找到孩子的是自己",
       "onboard_time": 1742019863,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29991,
+      "num": 388300,
+      "word": "屈臣氏同厂另品牌内裤曾被曝有污渍",
+      "onboard_time": 1742130144,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -51521,14 +51657,6 @@
       "onboard_time": 1740958395,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 6969,
-      "num": 194245,
-      "word": "五年失眠党被AI治好了",
-      "onboard_time": 1742129724,
-      "rank": 45,
-      "category": "互联网"
     },
     {
       "raw_hot": 6871,
