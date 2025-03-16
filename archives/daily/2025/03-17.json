@@ -1,6 +1,6 @@
 {
   "startTime": 1742142428647,
-  "endTime": 1742149820515,
+  "endTime": 1742150644640,
   "band_list": [
     {
       "raw_hot": 1480089,
@@ -443,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55275,
+      "num": 55275,
+      "word": "哪吒2破5后还在冲",
+      "onboard_time": 1742149036,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 51295,
       "num": 241921,
       "word": "北马其顿全国哀悼7天",
@@ -483,20 +491,20 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 30045,
-      "num": 43100,
-      "word": "哪吒2破5后还在冲",
-      "onboard_time": 1742149036,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 29464,
       "num": 66902,
       "word": "315曝光的卫生巾厂有成堆废弃原料",
       "onboard_time": 1742146457,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22669,
+      "num": 22669,
+      "word": "陈立农武汉的新娘",
+      "onboard_time": 1742150173,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 20652,
@@ -507,8 +515,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12047,
-      "num": 31376,
+      "raw_hot": 12687,
+      "num": 35178,
       "word": "卫生巾都因为哪些问题爆过雷",
       "onboard_time": 1742149694,
       "rank": 36,
