@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742099246220,
+  "endTime": 1742100188025,
   "band_list": [
     {
       "raw_hot": 9740375,
@@ -49,6 +49,14 @@
       "onboard_time": 1742052867,
       "rank": 4,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 2222116,
+      "num": 2222116,
+      "word": "刁蛮公主翻拍了",
+      "onboard_time": 1742098042,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 2055398,
@@ -105,14 +113,6 @@
       "onboard_time": 1742091204,
       "rank": 34,
       "category": "民生新闻,情感"
-    },
-    {
-      "raw_hot": 1651288,
-      "num": 1651288,
-      "word": "刁蛮公主翻拍了",
-      "onboard_time": 1742098042,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 1614449,
@@ -331,6 +331,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 495911,
+      "num": 495911,
+      "word": "五问李嘉诚有没有考虑国家利益",
+      "onboard_time": 1742098582,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 493687,
       "num": 493687,
       "word": "金秀贤试图收买金赛纶父亲",
@@ -443,6 +451,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 377578,
+      "num": 759170,
+      "word": "孙颖莎晋级重庆赛决赛",
+      "onboard_time": 1742098762,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 363841,
       "num": 363841,
       "word": "苏菲",
@@ -473,6 +489,22 @@
       "onboard_time": 1742043813,
       "rank": 13,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 337715,
+      "num": 494694,
+      "word": "徐睿知代言回归",
+      "onboard_time": 1742099304,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 337245,
+      "num": 724507,
+      "word": "孙颖莎连胜三局反超",
+      "onboard_time": 1742098525,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 333809,
@@ -537,14 +569,6 @@
       "onboard_time": 1742090063,
       "rank": 16,
       "category": "网红"
-    },
-    {
-      "raw_hot": 283731,
-      "num": 283731,
-      "word": "五问李嘉诚有没有考虑国家利益",
-      "onboard_time": 1742098582,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 279292,
@@ -635,6 +659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 236695,
+      "num": 755674,
+      "word": "孙颖莎丢分拍脑袋",
+      "onboard_time": 1742098162,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 236353,
       "num": 236353,
       "word": "九田家",
@@ -699,12 +731,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 217175,
-      "num": 755674,
-      "word": "孙颖莎丢分拍脑袋",
-      "onboard_time": 1742098162,
-      "rank": 8,
-      "category": "体育"
+      "raw_hot": 211779,
+      "num": 762545,
+      "word": "召回保水虾仁",
+      "onboard_time": 1742098461,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207921,
@@ -779,6 +811,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194476,
+      "num": 194476,
+      "word": "乐言说iG换TES先锋赛夺冠了",
+      "onboard_time": 1742099543,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 192695,
+      "num": 458739,
+      "word": "嘘国王在冬眠",
+      "onboard_time": 1742099662,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190528,
       "num": 190528,
       "word": "嫚熙再回应",
@@ -795,12 +843,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 188374,
+      "num": 450947,
+      "word": "周深伦敦打开一颗不太好吃的巧克力",
+      "onboard_time": 1742099543,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 187095,
       "num": 234705,
       "word": "DeepSeek总结315晚会",
       "onboard_time": 1742054546,
       "rank": 47,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 179326,
+      "num": 179326,
+      "word": "光与夜之恋",
+      "onboard_time": 1742099784,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 177055,
@@ -867,6 +931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159608,
+      "num": 159608,
+      "word": "孙颖莎4比2逆转晋级",
+      "onboard_time": 1742100142,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156785,
       "num": 439721,
       "word": "问界新M5Ultra首发评测",
@@ -907,8 +979,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145696,
+      "num": 473626,
+      "word": "夸克教的维权技巧",
+      "onboard_time": 1742096903,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 136312,
-      "num": 1952060,
+      "num": 2243006,
       "word": "烟雨漓江将中国水墨画具象化了",
       "onboard_time": 1742050532,
       "rank": 2,
@@ -947,14 +1027,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 130706,
-      "num": 762545,
-      "word": "召回保水虾仁",
-      "onboard_time": 1742098461,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 130271,
       "num": 130271,
       "word": "虞书欣说南城的海风很温柔",
@@ -971,12 +1043,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 120033,
-      "num": 473626,
-      "word": "夸克教的维权技巧",
-      "onboard_time": 1742096903,
-      "rank": 29,
-      "category": "互联网"
+      "raw_hot": 122637,
+      "num": 346529,
+      "word": "费启鸣也是闯入忘本赛道了",
+      "onboard_time": 1742100023,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 114329,
@@ -985,6 +1057,22 @@
       "onboard_time": 1742048854,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113935,
+      "num": 262783,
+      "word": "用夸克拯救辅导作业高血压",
+      "onboard_time": 1742097983,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 111088,
+      "num": 488662,
+      "word": "陈幸同vs王曼昱",
+      "onboard_time": 1742099363,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 110595,
@@ -1003,11 +1091,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 107284,
-      "num": 724507,
-      "word": "孙颖莎连胜三局反超",
-      "onboard_time": 1742098525,
-      "rank": 14,
+      "raw_hot": 108289,
+      "num": 463871,
+      "word": "勇士七连胜",
+      "onboard_time": 1742099363,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -1115,20 +1203,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 67904,
+      "num": 723078,
+      "word": "郑钦文DIOR大片",
+      "onboard_time": 1742097983,
+      "rank": 17,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 66693,
       "num": 362588,
       "word": "官方通报翻新卫生巾厂家处理情况",
       "onboard_time": 1742090723,
       "rank": 24,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 64478,
-      "num": 723078,
-      "word": "郑钦文DIOR大片",
-      "onboard_time": 1742097983,
-      "rank": 17,
-      "category": "体育,时尚"
     },
     {
       "raw_hot": 62401,
@@ -1179,14 +1267,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 49613,
-      "num": 759170,
-      "word": "孙颖莎晋级重庆赛决赛",
-      "onboard_time": 1742098762,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 49221,
       "num": 725184,
       "word": "广西调查非标电线电缆问题涉事企业",
@@ -1233,6 +1313,14 @@
       "onboard_time": 1742064795,
       "rank": 46,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 37341,
+      "num": 490914,
+      "word": "孙颖莎回应逆转王艺迪",
+      "onboard_time": 1742099662,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 36179,
@@ -1337,14 +1425,6 @@
       "onboard_time": 1742070854,
       "rank": 48,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 18104,
-      "num": 262783,
-      "word": "用夸克拯救辅导作业高血压",
-      "onboard_time": 1742097983,
-      "rank": 38,
-      "category": "互联网"
     },
     {
       "raw_hot": 17475,

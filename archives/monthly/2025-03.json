@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742099246220,
+  "endTime": 1742100188025,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -577,6 +577,14 @@
       "onboard_time": 1741577481,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2222116,
+      "num": 2222116,
+      "word": "刁蛮公主翻拍了",
+      "onboard_time": 1742098042,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 2216201,
@@ -1288,14 +1296,6 @@
       "word": "张凌赫徐若晗 二搭",
       "onboard_time": 1741525582,
       "rank": 8,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 1651288,
-      "num": 1651288,
-      "word": "刁蛮公主翻拍了",
-      "onboard_time": 1742098042,
-      "rank": 3,
       "category": "剧集"
     },
     {
@@ -8011,6 +8011,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 495911,
+      "num": 495911,
+      "word": "五问李嘉诚有没有考虑国家利益",
+      "onboard_time": 1742098582,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 495785,
       "num": 495785,
       "word": "哪吒2票房破146亿",
@@ -10611,6 +10619,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 377578,
+      "num": 759170,
+      "word": "孙颖莎晋级重庆赛决赛",
+      "onboard_time": 1742098762,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 377068,
       "num": 303799,
       "word": "王安宇上海",
@@ -11915,12 +11931,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 337715,
+      "num": 494694,
+      "word": "徐睿知代言回归",
+      "onboard_time": 1742099304,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 337381,
       "num": 296715,
       "word": "徐玉坤为Angelababy发声",
       "onboard_time": 1740959358,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 337245,
+      "num": 724507,
+      "word": "孙颖莎连胜三局反超",
+      "onboard_time": 1742098525,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 337232,
@@ -14025,14 +14057,6 @@
       "onboard_time": 1741355482,
       "rank": 18,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 283731,
-      "num": 283731,
-      "word": "五问李嘉诚有没有考虑国家利益",
-      "onboard_time": 1742098582,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 283264,
@@ -16363,6 +16387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 236695,
+      "num": 755674,
+      "word": "孙颖莎丢分拍脑袋",
+      "onboard_time": 1742098162,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 236561,
       "num": 236561,
       "word": "孟子义早期生图",
@@ -17875,14 +17907,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 217175,
-      "num": 755674,
-      "word": "孙颖莎丢分拍脑袋",
-      "onboard_time": 1742098162,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 217172,
       "num": 338441,
       "word": "杭州房价要开始涨了吗",
@@ -18377,6 +18401,14 @@
       "onboard_time": 1741710859,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 211779,
+      "num": 762545,
+      "word": "召回保水虾仁",
+      "onboard_time": 1742098461,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 211649,
@@ -20619,6 +20651,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 194476,
+      "num": 194476,
+      "word": "乐言说iG换TES先锋赛夺冠了",
+      "onboard_time": 1742099543,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 194382,
       "num": 190783,
       "word": "白鹿北上开播文",
@@ -21473,6 +21513,14 @@
       "onboard_time": 1741162460,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188374,
+      "num": 450947,
+      "word": "周深伦敦打开一颗不太好吃的巧克力",
+      "onboard_time": 1742099543,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 188337,
@@ -25787,6 +25835,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 159608,
+      "num": 159608,
+      "word": "孙颖莎4比2逆转晋级",
+      "onboard_time": 1742100142,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159566,
       "num": 262323,
       "word": "滤镜 细思极恐",
@@ -28347,6 +28403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145696,
+      "num": 473626,
+      "word": "夸克教的维权技巧",
+      "onboard_time": 1742096903,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 145692,
       "num": 145692,
       "word": "教资综合素质",
@@ -30132,7 +30196,7 @@
     },
     {
       "raw_hot": 136312,
-      "num": 1952060,
+      "num": 2243006,
       "word": "烟雨漓江将中国水墨画具象化了",
       "onboard_time": 1742050532,
       "rank": 2,
@@ -31041,14 +31105,6 @@
       "onboard_time": 1740825263,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 130706,
-      "num": 762545,
-      "word": "召回保水虾仁",
-      "onboard_time": 1742098461,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 130663,
@@ -32763,6 +32819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122637,
+      "num": 346529,
+      "word": "费启鸣也是闯入忘本赛道了",
+      "onboard_time": 1742100023,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122606,
       "num": 217323,
       "word": "法喜寺500年古玉兰开满枝头",
@@ -33305,14 +33369,6 @@
       "onboard_time": 1741967003,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 120033,
-      "num": 473626,
-      "word": "夸克教的维权技巧",
-      "onboard_time": 1742096903,
-      "rank": 29,
-      "category": "互联网"
     },
     {
       "raw_hot": 120001,
@@ -34443,6 +34499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113935,
+      "num": 262783,
+      "word": "用夸克拯救辅导作业高血压",
+      "onboard_time": 1742097983,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 113928,
       "num": 113928,
       "word": "中国激光产业已迈入全球第一方阵",
@@ -35011,6 +35075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111088,
+      "num": 488662,
+      "word": "陈幸同vs王曼昱",
+      "onboard_time": 1742099363,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111050,
       "num": 109423,
       "word": "北诗司空震",
@@ -35523,6 +35595,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 108289,
+      "num": 463871,
+      "word": "勇士七连胜",
+      "onboard_time": 1742099363,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108203,
       "num": 227055,
       "word": "郑钦文妇女节采访提到张雨霏",
@@ -35761,14 +35841,6 @@
       "onboard_time": 1740912259,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 107284,
-      "num": 724507,
-      "word": "孙颖莎连胜三局反超",
-      "onboard_time": 1742098525,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 107279,
@@ -41443,6 +41515,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 67904,
+      "num": 723078,
+      "word": "郑钦文DIOR大片",
+      "onboard_time": 1742097983,
+      "rank": 17,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 67825,
       "num": 166817,
       "word": "济南清雪除冰现场",
@@ -41857,14 +41937,6 @@
       "onboard_time": 1741912283,
       "rank": 49,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 64478,
-      "num": 723078,
-      "word": "郑钦文DIOR大片",
-      "onboard_time": 1742097983,
-      "rank": 17,
-      "category": "体育,时尚"
     },
     {
       "raw_hot": 64474,
@@ -43699,14 +43771,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 49613,
-      "num": 759170,
-      "word": "孙颖莎晋级重庆赛决赛",
-      "onboard_time": 1742098762,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 49593,
       "num": 593428,
       "word": "最高法工作报告极简版来了",
@@ -45377,6 +45441,14 @@
       "onboard_time": 1741666943,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 37341,
+      "num": 490914,
+      "word": "孙颖莎回应逆转王艺迪",
+      "onboard_time": 1742099662,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 37184,
@@ -48473,14 +48545,6 @@
       "onboard_time": 1741431742,
       "rank": 40,
       "category": "网红"
-    },
-    {
-      "raw_hot": 18104,
-      "num": 262783,
-      "word": "用夸克拯救辅导作业高血压",
-      "onboard_time": 1742097983,
-      "rank": 38,
-      "category": "互联网"
     },
     {
       "raw_hot": 18092,
