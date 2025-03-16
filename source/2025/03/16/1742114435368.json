@@ -1,0 +1,410 @@
+{
+  "runTime": 1742114435368,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 908344,
+        "num": 1145335,
+        "word": "315名单",
+        "onboard_time": 1742044291,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 780791,
+        "num": 780791,
+        "word": "刁蛮公主翻拍了",
+        "onboard_time": 1742098042,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29953,
+        "num": 637484,
+        "word": "跟着文物去春游",
+        "onboard_time": 1742102843,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1003897,
+        "num": 610249,
+        "word": "阚清子希望尽快恢复正常体重",
+        "onboard_time": 1742109202,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 565857,
+        "num": 565857,
+        "word": "与辉同行声明",
+        "onboard_time": 1742110462,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 565352,
+        "num": 565352,
+        "word": "315记者为取证吃到吐",
+        "onboard_time": 1742094742,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 803616,
+        "num": 553977,
+        "word": "屈臣氏回应郭晓婷购买内裤有霉斑",
+        "onboard_time": 1742101882,
+        "rank": 6,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 537775,
+        "num": 537775,
+        "word": "阿衰大结局了",
+        "onboard_time": 1742113701,
+        "rank": 7,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 474541,
+        "num": 474541,
+        "word": "谢爸爸兑现承诺送儿子奔驰",
+        "onboard_time": 1742107163,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82015,
+        "num": 473173,
+        "word": "记者为揭骗局遭过多少罪",
+        "onboard_time": 1742113701,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1432934,
+        "num": 469268,
+        "word": "情侣住民宿被偷拍传到境外网站",
+        "onboard_time": 1742108121,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 641503,
+        "num": 466379,
+        "word": "金赛纶金秀贤只在家中约会",
+        "onboard_time": 1742097742,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 555974,
+        "num": 460967,
+        "word": "张本智和回应不敌王楚钦",
+        "onboard_time": 1742112082,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33528,
+        "num": 457902,
+        "word": "延长周末的5件小事",
+        "onboard_time": 1742113943,
+        "rank": 13,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 141383,
+        "num": 454902,
+        "word": "浪莎再次声明",
+        "onboard_time": 1742112981,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 577425,
+        "num": 453365,
+        "word": "买房剩下二楼和顶楼应该怎么选",
+        "onboard_time": 1742110042,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158640,
+        "num": 449248,
+        "word": "国产AI横评",
+        "onboard_time": 1742110823,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 446332,
+        "num": 446332,
+        "word": "五问李嘉诚有没有考虑国家利益",
+        "onboard_time": 1742098582,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 418349,
+        "num": 418349,
+        "word": "刁蛮公主定妆照",
+        "onboard_time": 1742111721,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 414006,
+        "num": 414006,
+        "word": "315晚会",
+        "onboard_time": 1742038885,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 478032,
+        "num": 410936,
+        "word": "金赛纶超短发",
+        "onboard_time": 1742112561,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396761,
+        "num": 396761,
+        "word": "央视曝光AI假冒名人明星",
+        "onboard_time": 1742111301,
+        "rank": 21,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 328304,
+        "num": 328304,
+        "word": "夫妻花18万做试管婴儿遭切除输卵管",
+        "onboard_time": 1742111901,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327231,
+        "num": 327231,
+        "word": "韩媒再为金秀贤发声",
+        "onboard_time": 1742101882,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208759,
+        "num": 318824,
+        "word": "风月不相关 杨超越",
+        "onboard_time": 1742113582,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 318582,
+        "num": 318582,
+        "word": "央视起底黑公关",
+        "onboard_time": 1742090004,
+        "rank": 25,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 290458,
+        "num": 290458,
+        "word": "翻新卫生巾",
+        "onboard_time": 1742040988,
+        "rank": 26,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 209143,
+        "num": 277258,
+        "word": "雷军的粉丝构成还是太全面了",
+        "onboard_time": 1742113582,
+        "rank": 27,
+        "category": "综艺,互联网"
+      },
+      {
+        "raw_hot": 187299,
+        "num": 277215,
+        "word": "何老师你就宠杨洋吧",
+        "onboard_time": 1742112801,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182867,
+        "num": 277209,
+        "word": "陈赫不语只是一味替陈建斌挡吃的",
+        "onboard_time": 1742105483,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277203,
+        "num": 277203,
+        "word": "美154公斤女子压死10岁养子被判6年",
+        "onboard_time": 1742105603,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 210157,
+        "num": 210157,
+        "word": "老公去世短视频最后为了卖洗发水",
+        "onboard_time": 1742091204,
+        "rank": 31,
+        "category": "民生新闻,情感"
+      },
+      {
+        "raw_hot": 207468,
+        "num": 207468,
+        "word": "赛琳娜低价出售男友送的钻戒",
+        "onboard_time": 1742101523,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179370,
+        "num": 179370,
+        "word": "方圆脸审美变迁",
+        "onboard_time": 1742109742,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 174615,
+        "num": 174615,
+        "word": "四郎上个综艺被哄成胚胎了",
+        "onboard_time": 1742114003,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171290,
+        "num": 171290,
+        "word": "短道速滑世锦赛",
+        "onboard_time": 1742113042,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152218,
+        "num": 152218,
+        "word": "嘘国王在冬眠雪崩",
+        "onboard_time": 1742104222,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144169,
+        "num": 144169,
+        "word": "中国女留学生在米兰夺回被抢的手机",
+        "onboard_time": 1742110642,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137573,
+        "num": 137573,
+        "word": "9块9每升的椰子水安全吗",
+        "onboard_time": 1742101703,
+        "rank": 38,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 134648,
+        "num": 134648,
+        "word": "郭晓婷买发霉内裤疑为屈臣氏",
+        "onboard_time": 1742108182,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133553,
+        "num": 133553,
+        "word": "土耳其600斤吃播网红因病去世",
+        "onboard_time": 1742107941,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 132167,
+        "num": 132167,
+        "word": "一次性内裤爆雷",
+        "onboard_time": 1742042250,
+        "rank": 41,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 131233,
+        "num": 131233,
+        "word": "啄木鸟六点整改措施",
+        "onboard_time": 1742113163,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8277,
+        "num": 124468,
+        "word": "用夸克给的攻略去悬崖过夜了",
+        "onboard_time": 1742114062,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 102061,
+        "num": 120587,
+        "word": "林诗栋展望决赛对阵王楚钦",
+        "onboard_time": 1742112862,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120013,
+        "num": 120013,
+        "word": "与辉同行涉事冷冻虾仁退一赔三",
+        "onboard_time": 1742111183,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118413,
+        "num": 118413,
+        "word": "尹净汉短发",
+        "onboard_time": 1742114302,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118184,
+        "num": 118184,
+        "word": "第一次见综艺里出现这么搞笑的特效",
+        "onboard_time": 1742114242,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115304,
+        "num": 115304,
+        "word": "董思成Your练习室版本",
+        "onboard_time": 1742114181,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 113804,
+        "num": 113804,
+        "word": "庞麦郎复出首唱现场仅9位观众",
+        "onboard_time": 1742114360,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#以文化赋能经济社会发展#"
+    }
+  }
+}
