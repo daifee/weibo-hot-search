@@ -1,0 +1,410 @@
+{
+  "runTime": 1742109644521,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1231298,
+        "num": 1231298,
+        "word": "屈臣氏回应郭晓婷购买内裤有霉斑",
+        "onboard_time": 1742101882,
+        "rank": 0,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 1099634,
+        "num": 1099634,
+        "word": "315名单",
+        "onboard_time": 1742044291,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 31792,
+        "num": 980421,
+        "word": "跟着文物去春游",
+        "onboard_time": 1742102843,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 903440,
+        "num": 903440,
+        "word": "谢爸爸兑现承诺送儿子奔驰",
+        "onboard_time": 1742107163,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 826683,
+        "num": 826683,
+        "word": "刁蛮公主翻拍了",
+        "onboard_time": 1742098042,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 812666,
+        "num": 812666,
+        "word": "王曼昱退赛",
+        "onboard_time": 1742101644,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 676395,
+        "num": 676395,
+        "word": "315记者为取证吃到吐",
+        "onboard_time": 1742094742,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 604195,
+        "num": 604195,
+        "word": "央视起底黑公关",
+        "onboard_time": 1742090004,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 548362,
+        "num": 548362,
+        "word": "陈赫不语只是一味替陈建斌挡吃的",
+        "onboard_time": 1742105483,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276989,
+        "num": 499721,
+        "word": "王楚钦林诗栋会师决赛",
+        "onboard_time": 1742108241,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 941745,
+        "num": 495053,
+        "word": "金赛纶金秀贤只在家中约会",
+        "onboard_time": 1742097742,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 474273,
+        "num": 474273,
+        "word": "315晚会",
+        "onboard_time": 1742038885,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 402960,
+        "num": 402960,
+        "word": "五问李嘉诚有没有考虑国家利益",
+        "onboard_time": 1742098582,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 401201,
+        "num": 401201,
+        "word": "王楚钦vs张本智和",
+        "onboard_time": 1742102605,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72557,
+        "num": 381777,
+        "word": "谁懂啊1亿人在1688丝滑搞钱",
+        "onboard_time": 1742108482,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 485631,
+        "num": 379718,
+        "word": "韩媒再为金秀贤发声",
+        "onboard_time": 1742101882,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368182,
+        "num": 368182,
+        "word": "嘘国王在冬眠雪崩",
+        "onboard_time": 1742104222,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217577,
+        "num": 364158,
+        "word": "代露娃杀青哭了",
+        "onboard_time": 1742108662,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 361553,
+        "num": 361553,
+        "word": "315爆雷的是他们破防的是我",
+        "onboard_time": 1742106742,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207285,
+        "num": 336026,
+        "word": "阚清子希望尽快恢复正常体重",
+        "onboard_time": 1742109202,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 912276,
+        "num": 335358,
+        "word": "复旦失联博士遗体河道中被发现",
+        "onboard_time": 1742103863,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333698,
+        "num": 333698,
+        "word": "美154公斤女子压死10岁养子被判6年",
+        "onboard_time": 1742105603,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 318190,
+        "num": 318190,
+        "word": "羽衣甘蓝 难吃",
+        "onboard_time": 1742102484,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 210913,
+        "num": 312859,
+        "word": "美国偶遇刘晓庆考驾照",
+        "onboard_time": 1742102243,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311034,
+        "num": 311034,
+        "word": "翻新卫生巾",
+        "onboard_time": 1742040988,
+        "rank": 24,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 275801,
+        "num": 275801,
+        "word": "老公去世短视频最后为了卖洗发水",
+        "onboard_time": 1742091204,
+        "rank": 25,
+        "category": "民生新闻,情感"
+      },
+      {
+        "raw_hot": 245227,
+        "num": 245227,
+        "word": "9块9每升的椰子水安全吗",
+        "onboard_time": 1742101703,
+        "rank": 26,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 211739,
+        "num": 211739,
+        "word": "梁靖崑vs林诗栋",
+        "onboard_time": 1742105661,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102144,
+        "num": 205801,
+        "word": "网红为带货拉来小孩卖惨",
+        "onboard_time": 1742109383,
+        "rank": 28,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 23102,
+        "num": 205153,
+        "word": "杜特尔特预计拘留一年",
+        "onboard_time": 1742108602,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 175452,
+        "num": 205074,
+        "word": "林诗栋4比1胜梁靖崑",
+        "onboard_time": 1742109383,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205072,
+        "num": 205072,
+        "word": "情侣住民宿被偷拍传到境外网站",
+        "onboard_time": 1742108121,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171221,
+        "num": 194487,
+        "word": "赵樱子说喜欢林更新",
+        "onboard_time": 1742107581,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191126,
+        "num": 191126,
+        "word": "赛琳娜低价出售男友送的钻戒",
+        "onboard_time": 1742101523,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144374,
+        "num": 189637,
+        "word": "何小鹏说夸克是AI时代超级入口",
+        "onboard_time": 1742108782,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 177596,
+        "num": 189168,
+        "word": "一次性内裤爆雷",
+        "onboard_time": 1742042250,
+        "rank": 35,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 188760,
+        "num": 188760,
+        "word": "阴阳师",
+        "onboard_time": 1742108001,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184969,
+        "num": 184969,
+        "word": "天雷卫生巾我好怕怕",
+        "onboard_time": 1742104703,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175185,
+        "num": 175185,
+        "word": "土耳其600斤吃播网红因病去世",
+        "onboard_time": 1742107941,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 171840,
+        "num": 171840,
+        "word": "短道速滑",
+        "onboard_time": 1742107941,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164069,
+        "num": 164069,
+        "word": "自由点道歉",
+        "onboard_time": 1742052569,
+        "rank": 40,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 160251,
+        "num": 160251,
+        "word": "王楚钦说与张本智和从小打到大",
+        "onboard_time": 1742106081,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155535,
+        "num": 155535,
+        "word": "朱颜曼滋在北大上课",
+        "onboard_time": 1742101104,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41299,
+        "num": 137902,
+        "word": "公关稿里的真诚不值钱",
+        "onboard_time": 1742108361,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135257,
+        "num": 135257,
+        "word": "刘少昂带伤继续参赛",
+        "onboard_time": 1742108782,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134346,
+        "num": 134346,
+        "word": "女子自学打水光针脸上长出硬疙瘩",
+        "onboard_time": 1742102782,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122219,
+        "num": 122219,
+        "word": "欧阳娜娜欧阳娣娣舞台风格极与极",
+        "onboard_time": 1742102243,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121554,
+        "num": 121554,
+        "word": "DeepSeek一键生成PPT",
+        "onboard_time": 1742102303,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 110897,
+        "num": 110897,
+        "word": "金赛纶 体面",
+        "onboard_time": 1742083160,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109371,
+        "num": 109371,
+        "word": "杨洋零帧娇俏",
+        "onboard_time": 1742109624,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#以文化赋能经济社会发展#"
+    }
+  }
+}

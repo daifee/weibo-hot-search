@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742107404851,
+  "endTime": 1742109644521,
   "band_list": [
     {
       "raw_hot": 9740375,
@@ -227,20 +227,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 912276,
+      "num": 894809,
+      "word": "复旦失联博士遗体河道中被发现",
+      "onboard_time": 1742103863,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 903440,
+      "num": 903440,
+      "word": "谢爸爸兑现承诺送儿子奔驰",
+      "onboard_time": 1742107163,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 899190,
       "num": 1667578,
       "word": "欧豪忘关直播",
       "onboard_time": 1742053167,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 894809,
-      "num": 894809,
-      "word": "复旦失联博士遗体河道中被发现",
-      "onboard_time": 1742103863,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 874388,
@@ -571,12 +579,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 368182,
+      "num": 392991,
+      "word": "嘘国王在冬眠雪崩",
+      "onboard_time": 1742104222,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 363841,
       "num": 363841,
       "word": "苏菲",
       "onboard_time": 1742042610,
       "rank": 31,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 361553,
+      "num": 622643,
+      "word": "315爆雷的是他们破防的是我",
+      "onboard_time": 1742106742,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 358342,
@@ -649,14 +673,6 @@
       "onboard_time": 1742056525,
       "rank": 32,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 307847,
-      "num": 392991,
-      "word": "嘘国王在冬眠雪崩",
-      "onboard_time": 1742104222,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 306633,
@@ -737,6 +753,14 @@
       "onboard_time": 1742086823,
       "rank": 31,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 276989,
+      "num": 499721,
+      "word": "王楚钦林诗栋会师决赛",
+      "onboard_time": 1742108241,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 266671,
@@ -947,6 +971,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 217577,
+      "num": 364158,
+      "word": "代露娃杀青哭了",
+      "onboard_time": 1742108662,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211779,
       "num": 762545,
       "word": "召回保水虾仁",
@@ -963,20 +995,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 209525,
-      "num": 209525,
-      "word": "谢爸爸兑现承诺送儿子奔驰",
-      "onboard_time": 1742107163,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 207921,
       "num": 553495,
       "word": "李惠利朴彩英合照",
       "onboard_time": 1742093123,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207285,
+      "num": 336026,
+      "word": "阚清子希望尽快恢复正常体重",
+      "onboard_time": 1742109202,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 205072,
+      "num": 205072,
+      "word": "情侣住民宿被偷拍传到境外网站",
+      "onboard_time": 1742108121,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 203945,
@@ -1123,6 +1163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 188760,
+      "num": 188760,
+      "word": "阴阳师",
+      "onboard_time": 1742108001,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188374,
       "num": 450947,
       "word": "周深伦敦打开一颗不太好吃的巧克力",
@@ -1155,6 +1203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184969,
+      "num": 184969,
+      "word": "天雷卫生巾我好怕怕",
+      "onboard_time": 1742104703,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179326,
       "num": 179326,
       "word": "光与夜之恋",
@@ -1171,12 +1227,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175452,
+      "num": 205074,
+      "word": "林诗栋4比1胜梁靖崑",
+      "onboard_time": 1742109383,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 175185,
+      "num": 175185,
+      "word": "土耳其600斤吃播网红因病去世",
+      "onboard_time": 1742107941,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 173201,
       "num": 236300,
       "word": "你好星期六下期预告",
       "onboard_time": 1742049153,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171840,
+      "num": 171840,
+      "word": "短道速滑",
+      "onboard_time": 1742107941,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 171221,
+      "num": 194487,
+      "word": "赵樱子说喜欢林更新",
+      "onboard_time": 1742107581,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 170578,
@@ -1315,6 +1403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144374,
+      "num": 189637,
+      "word": "何小鹏说夸克是AI时代超级入口",
+      "onboard_time": 1742108782,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 136312,
       "num": 2243006,
       "word": "烟雨漓江将中国水墨画具象化了",
@@ -1329,6 +1425,14 @@
       "onboard_time": 1742058561,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135257,
+      "num": 135257,
+      "word": "刘少昂带伤继续参赛",
+      "onboard_time": 1742108782,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 134453,
@@ -1467,6 +1571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109371,
+      "num": 109371,
+      "word": "杨洋零帧娇俏",
+      "onboard_time": 1742109624,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108289,
       "num": 463871,
       "word": "勇士七连胜",
@@ -1489,6 +1601,14 @@
       "onboard_time": 1742052628,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 102144,
+      "num": 205801,
+      "word": "网红为带货拉来小孩卖惨",
+      "onboard_time": 1742109383,
+      "rank": 28,
+      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 101306,
@@ -1595,6 +1715,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 72557,
+      "num": 381777,
+      "word": "谁懂啊1亿人在1688丝滑搞钱",
+      "onboard_time": 1742108482,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 72460,
       "num": 72460,
       "word": "卖增重虾仁公司负责人回应",
@@ -1625,14 +1753,6 @@
       "onboard_time": 1742090723,
       "rank": 24,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 62586,
-      "num": 622643,
-      "word": "315爆雷的是他们破防的是我",
-      "onboard_time": 1742106742,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 62401,
@@ -1729,6 +1849,14 @@
       "onboard_time": 1742073793,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 41299,
+      "num": 137902,
+      "word": "公关稿里的真诚不值钱",
+      "onboard_time": 1742108361,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39093,
@@ -1857,6 +1985,14 @@
       "onboard_time": 1742070854,
       "rank": 48,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 23102,
+      "num": 205153,
+      "word": "杜特尔特预计拘留一年",
+      "onboard_time": 1742108602,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 17475,
