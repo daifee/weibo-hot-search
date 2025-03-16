@@ -1,0 +1,410 @@
+{
+  "runTime": 1742094245323,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2790777,
+        "num": 2790777,
+        "word": "315名单",
+        "onboard_time": 1742044291,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1704634,
+        "num": 1704634,
+        "word": "老公去世短视频最后为了卖洗发水",
+        "onboard_time": 1742091204,
+        "rank": 1,
+        "category": "民生新闻,情感"
+      },
+      {
+        "raw_hot": 114261,
+        "num": 1297927,
+        "word": "烟雨漓江将中国水墨画具象化了",
+        "onboard_time": 1742050532,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1868323,
+        "num": 1296299,
+        "word": "韩安冉因整容过度鼻子呼吸不畅",
+        "onboard_time": 1742089883,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1216793,
+        "num": 1216793,
+        "word": "央视起底黑公关",
+        "onboard_time": 1742090004,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1005520,
+        "num": 1005520,
+        "word": "苏菲发声明",
+        "onboard_time": 1742052867,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 837325,
+        "num": 837325,
+        "word": "啄木鸟称放弃公关",
+        "onboard_time": 1742055506,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 688429,
+        "num": 787079,
+        "word": "郭晓婷购买的贴身衣物有霉斑",
+        "onboard_time": 1742083341,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108807,
+        "num": 769603,
+        "word": "保水虾仁涉事企业被查",
+        "onboard_time": 1742092644,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 553809,
+        "num": 767129,
+        "word": "好的一次性内裤有两个标准",
+        "onboard_time": 1742092103,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 766577,
+        "num": 766577,
+        "word": "翻新卫生巾",
+        "onboard_time": 1742040988,
+        "rank": 10,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 756222,
+        "num": 756222,
+        "word": "薛仁雅为取关金秀贤清空所有关注",
+        "onboard_time": 1742091324,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 724893,
+        "num": 724893,
+        "word": "315晚会",
+        "onboard_time": 1742038885,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76281,
+        "num": 668185,
+        "word": "孙颖莎vs王艺迪",
+        "onboard_time": 1742093784,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 475387,
+        "num": 626764,
+        "word": "警方通报复旦一学生失联后死亡",
+        "onboard_time": 1742092463,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 626121,
+        "num": 626121,
+        "word": "自由点道歉",
+        "onboard_time": 1742052569,
+        "rank": 15,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 732244,
+        "num": 605356,
+        "word": "金秀贤金赛纶恋爱次日画面",
+        "onboard_time": 1742093663,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219837,
+        "num": 589265,
+        "word": "韩安冉妈妈喊话前女婿泽西还钱",
+        "onboard_time": 1742090063,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 207921,
+        "num": 553495,
+        "word": "李惠利朴彩英合照",
+        "onboard_time": 1742093123,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205515,
+        "num": 543385,
+        "word": "刘耀文还是戴墨镜吧",
+        "onboard_time": 1742087843,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 518712,
+        "num": 518712,
+        "word": "一次性内裤爆雷",
+        "onboard_time": 1742042250,
+        "rank": 20,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 536693,
+        "num": 518439,
+        "word": "金赛纶 体面",
+        "onboard_time": 1742083160,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 516424,
+        "num": 516424,
+        "word": "女子篡改室友考公岗位被拘",
+        "onboard_time": 1742081900,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 485088,
+        "num": 485088,
+        "word": "网友在雷军评论区刷屏小米做卫生巾",
+        "onboard_time": 1742091084,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 414758,
+        "num": 414758,
+        "word": "全棉时代回应",
+        "onboard_time": 1742053588,
+        "rank": 24,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 378743,
+        "num": 378743,
+        "word": "蜜雪冰城",
+        "onboard_time": 1742047233,
+        "rank": 25,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 260831,
+        "num": 260831,
+        "word": "九田家烤肉被曝光门店店长称很惭愧",
+        "onboard_time": 1742082679,
+        "rank": 26,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 235828,
+        "num": 235828,
+        "word": "自由点报案",
+        "onboard_time": 1742057362,
+        "rank": 27,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 150708,
+        "num": 232052,
+        "word": "韦雪说前夫忘不掉她",
+        "onboard_time": 1742091564,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 138862,
+        "num": 229609,
+        "word": "王力宏说是南昌拉了我一把",
+        "onboard_time": 1742059760,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 228805,
+        "num": 228805,
+        "word": "睡眠负债的人身体有9个表现",
+        "onboard_time": 1742091324,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 210196,
+        "num": 210196,
+        "word": "女校",
+        "onboard_time": 1742093123,
+        "rank": 31,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 202755,
+        "num": 202755,
+        "word": "全棉时代 奈丝公主",
+        "onboard_time": 1742083821,
+        "rank": 32,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 201555,
+        "num": 201555,
+        "word": "护舒宝声明",
+        "onboard_time": 1742048012,
+        "rank": 33,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 201100,
+        "num": 201100,
+        "word": "薛凯琪演唱会泣不成声",
+        "onboard_time": 1742054668,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199344,
+        "num": 199344,
+        "word": "80余执法人员进驻啄木鸟公司",
+        "onboard_time": 1742086281,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198312,
+        "num": 198312,
+        "word": "班味好重的订婚宴",
+        "onboard_time": 1742093604,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191351,
+        "num": 191351,
+        "word": "看315晚会天塌了",
+        "onboard_time": 1742046633,
+        "rank": 37,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 188129,
+        "num": 188129,
+        "word": "椰子水",
+        "onboard_time": 1742053048,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151217,
+        "num": 184707,
+        "word": "杨洋把杨迪泼溺水了",
+        "onboard_time": 1742094142,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184342,
+        "num": 184342,
+        "word": "全棉时代",
+        "onboard_time": 1742042610,
+        "rank": 40,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 183924,
+        "num": 183924,
+        "word": "也门遭袭已致13死",
+        "onboard_time": 1742082499,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 168798,
+        "num": 168798,
+        "word": "315当晚9省市连夜执法",
+        "onboard_time": 1742093843,
+        "rank": 42,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 49059,
+        "num": 167520,
+        "word": "美国24小时40多起龙卷风",
+        "onboard_time": 1742094203,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 167096,
+        "num": 167096,
+        "word": "翻新卫生巾企业负责人被控制",
+        "onboard_time": 1742052509,
+        "rank": 44,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 155436,
+        "num": 155436,
+        "word": "初中生玩打火机30秒烧了整间奶茶店",
+        "onboard_time": 1742064436,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152226,
+        "num": 152226,
+        "word": "多家卫生巾品牌发声",
+        "onboard_time": 1742086162,
+        "rank": 46,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 152043,
+        "num": 152043,
+        "word": "315奶茶",
+        "onboard_time": 1742052867,
+        "rank": 47,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 149989,
+        "num": 149989,
+        "word": "工信部回应315晚会曝光",
+        "onboard_time": 1742090423,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146762,
+        "num": 146762,
+        "word": "美军对也门发动军事行动",
+        "onboard_time": 1742082382,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#稳步扩大制度型开放#"
+    }
+  }
+}
