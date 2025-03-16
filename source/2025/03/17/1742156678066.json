@@ -1,0 +1,410 @@
+{
+  "runTime": 1742156678066,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 125792,
+        "num": 125792,
+        "word": "屈臣氏已暂时停售相关产品",
+        "onboard_time": 1742153654,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125232,
+        "num": 125232,
+        "word": "睡前太饿可以吃这5种食物",
+        "onboard_time": 1742140824,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 10369,
+        "num": 81149,
+        "word": "花开神州春意浓",
+        "onboard_time": 1742136323,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75544,
+        "num": 75544,
+        "word": "将门毒后",
+        "onboard_time": 1742137105,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59704,
+        "num": 59704,
+        "word": "星巴克赔偿美国一外卖员5000万美元",
+        "onboard_time": 1742137405,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 38347,
+        "num": 38347,
+        "word": "央视起底职业闭店人圈钱套路",
+        "onboard_time": 1742139623,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 36489,
+        "num": 36489,
+        "word": "近五年爆过雷的卫生巾品牌",
+        "onboard_time": 1742128045,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35781,
+        "num": 35781,
+        "word": "哪吒2破5后还在冲",
+        "onboard_time": 1742149036,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 34192,
+        "num": 34192,
+        "word": "台军发解放军95式步枪奖杯",
+        "onboard_time": 1742134945,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13494,
+        "num": 33776,
+        "word": "卫生巾纸尿裤粉碎车间味道令人作呕",
+        "onboard_time": 1742155214,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 108475,
+        "num": 33252,
+        "word": "金赛纶完全不知道7亿是走形式",
+        "onboard_time": 1742151135,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89335,
+        "num": 32861,
+        "word": "汤唯我不认识金秀贤",
+        "onboard_time": 1742136983,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39812,
+        "num": 31786,
+        "word": "王彦霖说来参加陈立农婚礼",
+        "onboard_time": 1742141901,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 31773,
+        "num": 31773,
+        "word": "王楚钦重庆赛夺冠",
+        "onboard_time": 1742127505,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31325,
+        "num": 31325,
+        "word": "中国要给算力建国家高速公路",
+        "onboard_time": 1742143938,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31155,
+        "num": 31155,
+        "word": "王楚钦孙颖莎冠军自拍",
+        "onboard_time": 1742129244,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48122,
+        "num": 30879,
+        "word": "金秀贤方发给金赛纶父亲的短信",
+        "onboard_time": 1742139082,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29703,
+        "num": 29703,
+        "word": "Angelababy直播",
+        "onboard_time": 1742124863,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26957,
+        "num": 26957,
+        "word": "利路修还有15天要退圈了",
+        "onboard_time": 1742135303,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25511,
+        "num": 25511,
+        "word": "郑恺跑男断掉全勤是因为陪产",
+        "onboard_time": 1742123422,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40969,
+        "num": 25468,
+        "word": "男子感冒去小诊所输液确诊尿毒症",
+        "onboard_time": 1742136445,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29069,
+        "num": 25412,
+        "word": "肖战日媒镜头下的生图",
+        "onboard_time": 1742141542,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25219,
+        "num": 25219,
+        "word": "上海全款150万9平米的独栋",
+        "onboard_time": 1742130144,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23501,
+        "num": 23501,
+        "word": "将门毒后的选角要求",
+        "onboard_time": 1742134045,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22592,
+        "num": 22592,
+        "word": "黄桃罐头加工厂车间污水横流",
+        "onboard_time": 1742131824,
+        "rank": 24,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 22198,
+        "num": 22198,
+        "word": "短剧已是nextlevel",
+        "onboard_time": 1742131225,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21835,
+        "num": 21835,
+        "word": "啄木鸟连续两年315道歉",
+        "onboard_time": 1742116523,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20793,
+        "num": 20793,
+        "word": "北马其顿全国哀悼7天",
+        "onboard_time": 1742142740,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 18746,
+        "num": 20715,
+        "word": "谍报上不封顶 王凯",
+        "onboard_time": 1742140401,
+        "rank": 28,
+        "category": "电影,综艺"
+      },
+      {
+        "raw_hot": 17645,
+        "num": 20714,
+        "word": "新版刁蛮公主男女主",
+        "onboard_time": 1742143399,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20714,
+        "num": 20713,
+        "word": "市场监管总局处置315曝光问题",
+        "onboard_time": 1742139684,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20228,
+        "num": 20228,
+        "word": "孙颖莎发博总结重庆冠军赛",
+        "onboard_time": 1742138063,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19479,
+        "num": 19479,
+        "word": "情侣住民宿被偷拍传到境外网站",
+        "onboard_time": 1742108121,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18924,
+        "num": 18924,
+        "word": "山西省考多名考生因事故被堵高速",
+        "onboard_time": 1742136804,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17907,
+        "num": 17907,
+        "word": "当地回应省考多名考生因事故被堵高速",
+        "onboard_time": 1742132964,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17716,
+        "num": 17716,
+        "word": "石宇奇时隔七年再夺全英冠军",
+        "onboard_time": 1742139562,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17291,
+        "num": 17291,
+        "word": "贾静雯一家为8岁波妞庆生",
+        "onboard_time": 1742134765,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17106,
+        "num": 17106,
+        "word": "孙颖莎胜陈幸同夺冠",
+        "onboard_time": 1742124144,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16959,
+        "num": 16959,
+        "word": "欧阳娜娜看娣娣舞台破防了",
+        "onboard_time": 1742130925,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16787,
+        "num": 16787,
+        "word": "减重小妙招",
+        "onboard_time": 1742140103,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 16785,
+        "num": 16785,
+        "word": "我国将让AI算力像用电一样方便",
+        "onboard_time": 1742145137,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16556,
+        "num": 16556,
+        "word": "薛凯琪演唱会",
+        "onboard_time": 1742142740,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16020,
+        "num": 16020,
+        "word": "一次性内裤",
+        "onboard_time": 1742146696,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15924,
+        "num": 15924,
+        "word": "孙颖莎说很开心在重庆卫冕",
+        "onboard_time": 1742137644,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15841,
+        "num": 15841,
+        "word": "中央财政提前下达以旧换新首批资金",
+        "onboard_time": 1742137105,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15501,
+        "num": 15839,
+        "word": "多品牌否认与劣质卫生巾有关联",
+        "onboard_time": 1742152934,
+        "rank": 45,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 15379,
+        "num": 15833,
+        "word": "劣质卫生巾工厂被查处现场",
+        "onboard_time": 1742151434,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15043,
+        "num": 15833,
+        "word": "陈幸同说恭喜莎莎",
+        "onboard_time": 1742140464,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14436,
+        "num": 15827,
+        "word": "很努力了但仍然很焦虑怎么办",
+        "onboard_time": 1742149995,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13671,
+        "num": 15825,
+        "word": "退货被店家说买不起就别买平台赔300元",
+        "onboard_time": 1742156534,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#以文化赋能经济社会发展#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742153744205,
+  "endTime": 1742156678066,
   "band_list": [
     {
       "raw_hot": 9740375,
@@ -3091,6 +3091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125792,
+      "num": 125792,
+      "word": "屈臣氏已暂时停售相关产品",
+      "onboard_time": 1742153654,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125134,
       "num": 304936,
       "word": "白敬亭章若楠杀青dv",
@@ -3947,11 +3955,27 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 14178,
-      "num": 24335,
-      "word": "屈臣氏已暂时停售相关产品",
-      "onboard_time": 1742153654,
-      "rank": 29,
+      "raw_hot": 16020,
+      "num": 16020,
+      "word": "一次性内裤",
+      "onboard_time": 1742146696,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15501,
+      "num": 15839,
+      "word": "多品牌否认与劣质卫生巾有关联",
+      "onboard_time": 1742152934,
+      "rank": 45,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 13671,
+      "num": 15825,
+      "word": "退货被店家说买不起就别买平台赔300元",
+      "onboard_time": 1742156534,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -3961,6 +3985,14 @@
       "onboard_time": 1742128343,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 13494,
+      "num": 33776,
+      "word": "卫生巾纸尿裤粉碎车间味道令人作呕",
+      "onboard_time": 1742155214,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 12687,
