@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742106630693,
+  "endTime": 1742107404851,
   "band_list": [
     {
       "raw_hot": 9740375,
@@ -147,6 +147,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1282686,
+      "num": 1430489,
+      "word": "屈臣氏回应郭晓婷购买内裤有霉斑",
+      "onboard_time": 1742101882,
+      "rank": 6,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 1259553,
       "num": 740913,
       "word": "金秀贤金赛纶恋爱次日画面",
@@ -177,14 +185,6 @@
       "onboard_time": 1742038885,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1156590,
-      "num": 1430489,
-      "word": "屈臣氏回应郭晓婷购买内裤有霉斑",
-      "onboard_time": 1742101882,
-      "rank": 6,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 1018893,
@@ -233,6 +233,14 @@
       "onboard_time": 1742053167,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 894809,
+      "num": 894809,
+      "word": "复旦失联博士遗体河道中被发现",
+      "onboard_time": 1742103863,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 874388,
@@ -291,6 +299,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 674426,
+      "num": 674426,
+      "word": "陈赫不语只是一味替陈建斌挡吃的",
+      "onboard_time": 1742105483,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 619717,
       "num": 1650199,
       "word": "山东济宁回应315曝翻新卫生巾事件",
@@ -315,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 593084,
+      "num": 593084,
+      "word": "羽衣甘蓝 难吃",
+      "onboard_time": 1742102484,
+      "rank": 33,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 585332,
       "num": 585332,
       "word": "九田家烤肉被曝光门店店长称很惭愧",
@@ -329,6 +353,14 @@
       "onboard_time": 1742052509,
       "rank": 22,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 554096,
+      "num": 554096,
+      "word": "美154公斤女子压死10岁养子被判6年",
+      "onboard_time": 1742105603,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 553809,
@@ -385,14 +417,6 @@
       "onboard_time": 1742101703,
       "rank": 7,
       "category": "民生新闻,美食"
-    },
-    {
-      "raw_hot": 504212,
-      "num": 504212,
-      "word": "复旦失联博士遗体河道中被发现",
-      "onboard_time": 1742103863,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 503304,
@@ -459,14 +483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 443615,
-      "num": 443615,
-      "word": "羽衣甘蓝 难吃",
-      "onboard_time": 1742102484,
-      "rank": 33,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 441836,
       "num": 441836,
       "word": "许府牛",
@@ -523,14 +539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 408806,
-      "num": 621779,
-      "word": "陈赫不语只是一味替陈建斌挡吃的",
-      "onboard_time": 1742105483,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 403451,
       "num": 403451,
       "word": "王楚钦逆转晋级",
@@ -579,20 +587,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 353164,
-      "num": 353164,
-      "word": "美154公斤女子压死10岁养子被判6年",
-      "onboard_time": 1742105603,
-      "rank": 31,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 351541,
       "num": 351541,
       "word": "李嘉诚",
       "onboard_time": 1742052329,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 350141,
+      "num": 688721,
+      "word": "王楚钦说与张本智和从小打到大",
+      "onboard_time": 1742106081,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 343244,
@@ -643,6 +651,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 307847,
+      "num": 392991,
+      "word": "嘘国王在冬眠雪崩",
+      "onboard_time": 1742104222,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 306633,
       "num": 612366,
       "word": "315当晚9省市连夜执法",
@@ -683,20 +699,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 293688,
+      "num": 627957,
+      "word": "梁靖崑vs林诗栋",
+      "onboard_time": 1742105661,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 281856,
       "num": 617988,
       "word": "赛琳娜低价出售男友送的钻戒",
       "onboard_time": 1742101523,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 280165,
-      "num": 392991,
-      "word": "嘘国王在冬眠雪崩",
-      "onboard_time": 1742104222,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 279292,
@@ -819,6 +835,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 237331,
+      "num": 237331,
+      "word": "女子自学打水光针脸上长出硬疙瘩",
+      "onboard_time": 1742102782,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 236695,
       "num": 755674,
       "word": "孙颖莎丢分拍脑袋",
@@ -883,14 +907,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 228902,
-      "num": 228902,
-      "word": "女子自学打水光针脸上长出硬疙瘩",
-      "onboard_time": 1742102782,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 225848,
       "num": 288754,
       "word": "又一个被女儿送进去的反派",
@@ -947,20 +963,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209525,
+      "num": 209525,
+      "word": "谢爸爸兑现承诺送儿子奔驰",
+      "onboard_time": 1742107163,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207921,
       "num": 553495,
       "word": "李惠利朴彩英合照",
       "onboard_time": 1742093123,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 205581,
-      "num": 627957,
-      "word": "梁靖崑vs林诗栋",
-      "onboard_time": 1742105661,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 203945,
@@ -1059,6 +1075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196566,
+      "num": 196566,
+      "word": "王楚钦4比1张本智和",
+      "onboard_time": 1742106502,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194476,
       "num": 194476,
       "word": "乐言说iG换TES先锋赛夺冠了",
@@ -1107,6 +1131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 187895,
+      "num": 228979,
+      "word": "内娱活人经纪人李登科",
+      "onboard_time": 1742107043,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187095,
       "num": 234705,
       "word": "DeepSeek总结315晚会",
@@ -1147,6 +1179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170578,
+      "num": 616651,
+      "word": "浪莎回应一次性内裤不灭菌",
+      "onboard_time": 1742105542,
+      "rank": 19,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 170442,
       "num": 311537,
       "word": "韦雪说前夫忘不掉她",
@@ -1185,14 +1225,6 @@
       "onboard_time": 1742088803,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 162322,
-      "num": 162322,
-      "word": "王楚钦4比1张本智和",
-      "onboard_time": 1742106502,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 162239,
@@ -1371,12 +1403,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 125831,
-      "num": 616651,
-      "word": "浪莎回应一次性内裤不灭菌",
-      "onboard_time": 1742105542,
-      "rank": 19,
-      "category": "民生新闻,艺人"
+      "raw_hot": 125134,
+      "num": 304936,
+      "word": "白敬亭章若楠杀青dv",
+      "onboard_time": 1742106383,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 122637,
@@ -1467,6 +1499,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 99607,
+      "num": 270641,
+      "word": "深圳提高住房公积金贷款额度",
+      "onboard_time": 1742107221,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97303,
       "num": 97303,
       "word": "B太谈打假背后的故事",
@@ -1515,14 +1555,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 88191,
-      "num": 232939,
-      "word": "白敬亭章若楠杀青dv",
-      "onboard_time": 1742106383,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 85332,
       "num": 231444,
       "word": "按摩这2个穴位调理脾胃",
@@ -1555,6 +1587,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 77152,
+      "num": 229201,
+      "word": "何小鹏说夸克AI和飞行汽车一样酷",
+      "onboard_time": 1742105062,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 72460,
       "num": 72460,
       "word": "卖增重虾仁公司负责人回应",
@@ -1585,6 +1625,14 @@
       "onboard_time": 1742090723,
       "rank": 24,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 62586,
+      "num": 622643,
+      "word": "315爆雷的是他们破防的是我",
+      "onboard_time": 1742106742,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62401,
@@ -1627,6 +1675,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 51705,
+      "num": 614992,
+      "word": "优音通信回应被315点名",
+      "onboard_time": 1742106862,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 51343,
       "num": 279292,
       "word": "全面彻查315晚会曝光的企业违法行为",
@@ -1659,15 +1715,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43200,
-      "num": 132484,
-      "word": "手机抽奖赚的是沉默用户的钱",
-      "onboard_time": 1742073793,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 41745,
+      "raw_hot": 44415,
       "num": 1642532,
       "word": "跟着文物去春游",
       "onboard_time": 1742102843,
@@ -1675,12 +1723,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40921,
-      "num": 688721,
-      "word": "王楚钦说与张本智和从小打到大",
-      "onboard_time": 1742106081,
-      "rank": 8,
-      "category": "体育"
+      "raw_hot": 43200,
+      "num": 132484,
+      "word": "手机抽奖赚的是沉默用户的钱",
+      "onboard_time": 1742073793,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 39093,
@@ -1705,14 +1753,6 @@
       "onboard_time": 1742064795,
       "rank": 46,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 36584,
-      "num": 211942,
-      "word": "何小鹏说夸克AI和飞行汽车一样酷",
-      "onboard_time": 1742105062,
-      "rank": 38,
-      "category": "互联网"
     },
     {
       "raw_hot": 36179,
