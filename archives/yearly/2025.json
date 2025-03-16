@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1742102496268,
+  "endTime": 1742103492896,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1563,6 +1563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 3184228,
+      "num": 3184228,
+      "word": "王曼昱退赛",
+      "onboard_time": 1742101644,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3176078,
       "num": 615175,
       "word": "吴京 小哪吒冲冲冲",
@@ -2033,14 +2041,6 @@
       "onboard_time": 1739272700,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 2843826,
-      "num": 2843826,
-      "word": "王曼昱退赛",
-      "onboard_time": 1742101644,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 2842832,

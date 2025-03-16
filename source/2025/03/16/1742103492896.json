@@ -1,0 +1,410 @@
+{
+  "runTime": 1742103492896,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3184228,
+        "num": 3184228,
+        "word": "王曼昱退赛",
+        "onboard_time": 1742101644,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1701116,
+        "num": 1701116,
+        "word": "315记者为取证吃到吐",
+        "onboard_time": 1742094742,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36509,
+        "num": 1642532,
+        "word": "跟着文物去春游",
+        "onboard_time": 1742102843,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1627085,
+        "num": 1627085,
+        "word": "刁蛮公主翻拍了",
+        "onboard_time": 1742098042,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1362118,
+        "num": 1362118,
+        "word": "315名单",
+        "onboard_time": 1742044291,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 959303,
+        "num": 959303,
+        "word": "五问李嘉诚有没有考虑国家利益",
+        "onboard_time": 1742098582,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 696310,
+        "num": 696310,
+        "word": "屈臣氏回应郭晓婷购买内裤有霉斑",
+        "onboard_time": 1742101882,
+        "rank": 6,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 656769,
+        "num": 656769,
+        "word": "央视起底黑公关",
+        "onboard_time": 1742090004,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 128787,
+        "num": 602609,
+        "word": "孙颖莎陈幸同女单争冠",
+        "onboard_time": 1742102423,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217467,
+        "num": 587906,
+        "word": "好的一次性内裤有两个标准",
+        "onboard_time": 1742092103,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1092451,
+        "num": 583871,
+        "word": "金赛纶金秀贤只在家中约会",
+        "onboard_time": 1742097742,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 579347,
+        "num": 579347,
+        "word": "朱颜曼滋在北大上课",
+        "onboard_time": 1742101104,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 521120,
+        "num": 521120,
+        "word": "315晚会",
+        "onboard_time": 1742038885,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 496984,
+        "num": 496984,
+        "word": "老公去世短视频最后为了卖洗发水",
+        "onboard_time": 1742091204,
+        "rank": 13,
+        "category": "民生新闻,情感"
+      },
+      {
+        "raw_hot": 333310,
+        "num": 481853,
+        "word": "王楚钦vs张本智和",
+        "onboard_time": 1742102605,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 972168,
+        "num": 467468,
+        "word": "韩媒再为金秀贤发声",
+        "onboard_time": 1742101882,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269304,
+        "num": 451265,
+        "word": "郭晓婷购买的贴身衣物有霉斑",
+        "onboard_time": 1742083341,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278482,
+        "num": 442547,
+        "word": "美国偶遇刘晓庆考驾照",
+        "onboard_time": 1742102243,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40748,
+        "num": 422318,
+        "word": "315调查记者演技有多强",
+        "onboard_time": 1742103143,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 411743,
+        "num": 411743,
+        "word": "翻新卫生巾",
+        "onboard_time": 1742040988,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 377002,
+        "num": 377002,
+        "word": "9块9每升的椰子水安全吗",
+        "onboard_time": 1742101703,
+        "rank": 20,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 346657,
+        "num": 346657,
+        "word": "自由点道歉",
+        "onboard_time": 1742052569,
+        "rank": 21,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 229992,
+        "num": 332332,
+        "word": "王俊凯用夸克都在搜什么",
+        "onboard_time": 1742102664,
+        "rank": 22,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 318940,
+        "num": 318940,
+        "word": "苏菲发声明",
+        "onboard_time": 1742052867,
+        "rank": 23,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 54334,
+        "num": 284179,
+        "word": "起底翻新卫生巾涉事企业老板",
+        "onboard_time": 1742103323,
+        "rank": 24,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 260858,
+        "num": 260858,
+        "word": "一次性内裤爆雷",
+        "onboard_time": 1742042250,
+        "rank": 25,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 259293,
+        "num": 259293,
+        "word": "陈幸同vs王曼昱",
+        "onboard_time": 1742099363,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230799,
+        "num": 259081,
+        "word": "欧阳娜娜欧阳娣娣舞台风格极与极",
+        "onboard_time": 1742102243,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240979,
+        "num": 258987,
+        "word": "王心凌演唱会服装从不让人失望",
+        "onboard_time": 1742102843,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 258932,
+        "num": 258932,
+        "word": "DeepSeek一键生成PPT",
+        "onboard_time": 1742102303,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 243190,
+        "num": 243190,
+        "word": "赛琳娜低价出售男友送的钻戒",
+        "onboard_time": 1742101523,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235387,
+        "num": 235387,
+        "word": "王曼昱反超陈幸同",
+        "onboard_time": 1742100923,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218427,
+        "num": 218427,
+        "word": "倍舒特声明",
+        "onboard_time": 1742101342,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215279,
+        "num": 215279,
+        "word": "羽衣甘蓝 难吃",
+        "onboard_time": 1742102484,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 211665,
+        "num": 211665,
+        "word": "啄木鸟称放弃公关",
+        "onboard_time": 1742055506,
+        "rank": 34,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 200344,
+        "num": 200344,
+        "word": "哪吒敖丙芭莎春日特刊封面",
+        "onboard_time": 1742102363,
+        "rank": 35,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 198556,
+        "num": 198556,
+        "word": "蜜雪冰城",
+        "onboard_time": 1742047233,
+        "rank": 36,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 183921,
+        "num": 183921,
+        "word": "昭昭墨墨合体耀客新剧发布会",
+        "onboard_time": 1742094564,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183782,
+        "num": 183782,
+        "word": "徐睿知代言回归",
+        "onboard_time": 1742099304,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93262,
+        "num": 182898,
+        "word": "工位上养鲜切花来哄自己上班",
+        "onboard_time": 1742101403,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182727,
+        "num": 182727,
+        "word": "孙颖莎回应逆转王艺迪",
+        "onboard_time": 1742099662,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160921,
+        "num": 160921,
+        "word": "又一个被女儿送进去的反派",
+        "onboard_time": 1742100683,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160028,
+        "num": 160028,
+        "word": "女子篡改室友考公岗位被拘",
+        "onboard_time": 1742081900,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96367,
+        "num": 157559,
+        "word": "人人信回应被315晚会点名",
+        "onboard_time": 1742101342,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155343,
+        "num": 155343,
+        "word": "金赛纶 体面",
+        "onboard_time": 1742083160,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149553,
+        "num": 149553,
+        "word": "祝绪丹美得好像洋娃娃",
+        "onboard_time": 1742100862,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137611,
+        "num": 137611,
+        "word": "女子自学打水光针脸上长出硬疙瘩",
+        "onboard_time": 1742102782,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108149,
+        "num": 131588,
+        "word": "郁锦告诉玱玹娶心爱的人是这样的",
+        "onboard_time": 1742103382,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130830,
+        "num": 130830,
+        "word": "WBG对战ITZY",
+        "onboard_time": 1742103202,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130061,
+        "num": 130061,
+        "word": "芒果文案的含金量还在上升",
+        "onboard_time": 1742103442,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#以文化赋能经济社会发展#"
+    }
+  }
+}

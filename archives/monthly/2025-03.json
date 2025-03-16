@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742102496268,
+  "endTime": 1742103492896,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -275,6 +275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3184228,
+      "num": 3184228,
+      "word": "王曼昱退赛",
+      "onboard_time": 1742101644,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3015707,
       "num": 473937,
       "word": "穆婷婷说自己的胸比包上恩好看",
@@ -313,14 +321,6 @@
       "onboard_time": 1742007442,
       "rank": 38,
       "category": "教育"
-    },
-    {
-      "raw_hot": 2843826,
-      "num": 2843826,
-      "word": "王曼昱退赛",
-      "onboard_time": 1742101644,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 2819755,
@@ -3315,6 +3315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 972168,
+      "num": 688353,
+      "word": "韩媒再为金秀贤发声",
+      "onboard_time": 1742101882,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 970840,
       "num": 970840,
       "word": "澳门偶遇乔欣赖柏霖喝咖啡",
@@ -4185,14 +4193,6 @@
       "onboard_time": 1741493001,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 842894,
-      "num": 688353,
-      "word": "韩媒再为金秀贤发声",
-      "onboard_time": 1742101882,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 842843,
@@ -5425,6 +5425,14 @@
       "onboard_time": 1742027183,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 696310,
+      "num": 1430489,
+      "word": "屈臣氏回应郭晓婷购买内裤有霉斑",
+      "onboard_time": 1742101882,
+      "rank": 6,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 695500,
@@ -10691,6 +10699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 377002,
+      "num": 1382035,
+      "word": "9块9每升的椰子水安全吗",
+      "onboard_time": 1742101703,
+      "rank": 7,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 376748,
       "num": 133644,
       "word": "文都客服回应何凯文成绩",
@@ -12121,6 +12137,14 @@
       "onboard_time": 1741100421,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 333310,
+      "num": 481853,
+      "word": "王楚钦vs张本智和",
+      "onboard_time": 1742102605,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 333112,
@@ -14283,6 +14307,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 278482,
+      "num": 442547,
+      "word": "美国偶遇刘晓庆考驾照",
+      "onboard_time": 1742102243,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 278476,
       "num": 278476,
       "word": "正告赖清德当局玩火者必自焚",
@@ -15355,6 +15387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 258932,
+      "num": 258932,
+      "word": "DeepSeek一键生成PPT",
+      "onboard_time": 1742102303,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 258925,
       "num": 258925,
       "word": "张继科已注销名下全部公司",
@@ -16211,6 +16251,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 240979,
+      "num": 258987,
+      "word": "王心凌演唱会服装从不让人失望",
+      "onboard_time": 1742102843,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 240639,
       "num": 240639,
       "word": "湖北一县委书记向躺平式干部宣战",
@@ -16811,6 +16859,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 230799,
+      "num": 259081,
+      "word": "欧阳娜娜欧阳娣娣舞台风格极与极",
+      "onboard_time": 1742102243,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230788,
       "num": 230788,
       "word": "李兰迪你看我几分像从前",
@@ -16889,6 +16945,14 @@
       "onboard_time": 1741845803,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 229992,
+      "num": 332332,
+      "word": "王俊凯用夸克都在搜什么",
+      "onboard_time": 1742102664,
+      "rank": 22,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 229901,
@@ -17851,6 +17915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218427,
+      "num": 717247,
+      "word": "倍舒特声明",
+      "onboard_time": 1742101342,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218417,
       "num": 261369,
       "word": "银发经济将至少提供1亿个就业岗位",
@@ -18089,6 +18161,14 @@
       "onboard_time": 1741138218,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 215279,
+      "num": 215279,
+      "word": "羽衣甘蓝 难吃",
+      "onboard_time": 1742102484,
+      "rank": 33,
+      "category": "运动健身"
     },
     {
       "raw_hot": 215274,
@@ -19899,6 +19979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200344,
+      "num": 228027,
+      "word": "哪吒敖丙芭莎春日特刊封面",
+      "onboard_time": 1742102363,
+      "rank": 34,
+      "category": "电影,时尚"
+    },
+    {
       "raw_hot": 200143,
       "num": 273049,
       "word": "抵制特斯拉活动计划在多国举行",
@@ -20489,14 +20577,6 @@
       "onboard_time": 1741217536,
       "rank": 43,
       "category": "教育"
-    },
-    {
-      "raw_hot": 196139,
-      "num": 228027,
-      "word": "哪吒敖丙芭莎春日特刊封面",
-      "onboard_time": 1742102363,
-      "rank": 34,
-      "category": "电影,时尚"
     },
     {
       "raw_hot": 196022,
@@ -21713,14 +21793,6 @@
       "onboard_time": 1741432761,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 187740,
-      "num": 187740,
-      "word": "美国偶遇刘晓庆考驾照",
-      "onboard_time": 1742102243,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 187713,
@@ -23417,14 +23489,6 @@
       "onboard_time": 1741064120,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 175045,
-      "num": 175045,
-      "word": "欧阳娜娜欧阳娣娣舞台风格极与极",
-      "onboard_time": 1742102243,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 174885,
@@ -25147,14 +25211,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 164716,
-      "num": 164716,
-      "word": "DeepSeek一键生成PPT",
-      "onboard_time": 1742102303,
-      "rank": 47,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 164710,
       "num": 164710,
       "word": "THEBOYZ新开账号",
@@ -25665,14 +25721,6 @@
       "onboard_time": 1740826642,
       "rank": 30,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 161763,
-      "num": 1382035,
-      "word": "9块9每升的椰子水安全吗",
-      "onboard_time": 1742101703,
-      "rank": 7,
-      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 161596,
@@ -30115,6 +30163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137611,
+      "num": 137611,
+      "word": "女子自学打水光针脸上长出硬疙瘩",
+      "onboard_time": 1742102782,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137560,
       "num": 137560,
       "word": "檀健次和哪吒梦幻联动",
@@ -31227,6 +31283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 130830,
+      "num": 130830,
+      "word": "WBG对战ITZY",
+      "onboard_time": 1742103202,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 130742,
       "num": 266458,
       "word": "余华英案李铁案写入最高法报告",
@@ -31328,6 +31392,14 @@
       "word": "阎鹤祥在德云社还是太权威了",
       "onboard_time": 1740817945,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 130061,
+      "num": 130061,
+      "word": "芒果文案的含金量还在上升",
+      "onboard_time": 1742103442,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -31569,6 +31641,14 @@
       "onboard_time": 1741000819,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 128787,
+      "num": 602609,
+      "word": "孙颖莎陈幸同女单争冠",
+      "onboard_time": 1742102423,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 128775,
@@ -35771,6 +35851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108149,
+      "num": 131588,
+      "word": "郁锦告诉玱玹娶心爱的人是这样的",
+      "onboard_time": 1742103382,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108122,
       "num": 108122,
       "word": "女子横躺马路后扑向交警怀中",
@@ -37955,14 +38043,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 97169,
-      "num": 717247,
-      "word": "倍舒特声明",
-      "onboard_time": 1742101342,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 97119,
       "num": 97119,
       "word": "水贝金饰金价突破700元",
@@ -38553,6 +38633,14 @@
       "onboard_time": 1741418600,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93262,
+      "num": 727078,
+      "word": "工位上养鲜切花来哄自己上班",
+      "onboard_time": 1742101403,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93196,
@@ -39153,14 +39241,6 @@
       "onboard_time": 1741427062,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 89584,
-      "num": 727078,
-      "word": "工位上养鲜切花来哄自己上班",
-      "onboard_time": 1742101403,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89498,
@@ -43299,6 +43379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54334,
+      "num": 284179,
+      "word": "起底翻新卫生巾涉事企业老板",
+      "onboard_time": 1742103323,
+      "rank": 24,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 54303,
       "num": 424700,
       "word": "黄圣依和妈妈现身机场",
@@ -44001,14 +44089,6 @@
       "onboard_time": 1741944023,
       "rank": 22,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 49103,
-      "num": 1430489,
-      "word": "屈臣氏回应郭晓婷购买内裤有霉斑",
-      "onboard_time": 1742101882,
-      "rank": 6,
-      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 48997,
@@ -45059,6 +45139,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 40748,
+      "num": 422318,
+      "word": "315调查记者演技有多强",
+      "onboard_time": 1742103143,
+      "rank": 18,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 40709,
       "num": 229162,
       "word": "詹姆斯受伤时想到了浓眉",
@@ -45729,6 +45817,14 @@
       "onboard_time": 1740911179,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 36509,
+      "num": 1642532,
+      "word": "跟着文物去春游",
+      "onboard_time": 1742102843,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36497,
@@ -50049,14 +50145,6 @@
       "onboard_time": 1741832063,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 6329,
-      "num": 187753,
-      "word": "孙颖莎陈幸同女单争冠",
-      "onboard_time": 1742102423,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 6312,
