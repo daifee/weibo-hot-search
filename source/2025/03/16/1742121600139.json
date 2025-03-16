@@ -1,0 +1,410 @@
+{
+  "runTime": 1742121600139,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1028024,
+        "num": 1164483,
+        "word": "啄木鸟连续两年315道歉",
+        "onboard_time": 1742116523,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 751563,
+        "num": 751563,
+        "word": "近视眼秒懂",
+        "onboard_time": 1742118382,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 27257,
+        "num": 667654,
+        "word": "春天的声音像一场演唱会",
+        "onboard_time": 1742120901,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 605306,
+        "num": 605306,
+        "word": "阿衰 快乐没有结局",
+        "onboard_time": 1742113701,
+        "rank": 3,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 558604,
+        "num": 558604,
+        "word": "315名单",
+        "onboard_time": 1742044291,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 515014,
+        "num": 515014,
+        "word": "三大运营商回应通信电话营销报道",
+        "onboard_time": 1742118202,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 401185,
+        "num": 401185,
+        "word": "风月不相关 杨超越",
+        "onboard_time": 1742113582,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 387900,
+        "num": 387900,
+        "word": "浪莎再次声明",
+        "onboard_time": 1742112981,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 368872,
+        "num": 368872,
+        "word": "315记者为取证吃到吐",
+        "onboard_time": 1742094742,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269592,
+        "num": 363625,
+        "word": "直播公司PUA主播满足金主各种要求",
+        "onboard_time": 1742119822,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 2023759,
+        "num": 359079,
+        "word": "金秀贤被曝把年龄改小2岁",
+        "onboard_time": 1742120661,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 892485,
+        "num": 356389,
+        "word": "李镇浩发视频当天金赛纶自杀了6次",
+        "onboard_time": 1742120721,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 801553,
+        "num": 352410,
+        "word": "海底捞小便事件门店客流锐减",
+        "onboard_time": 1742115142,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52654,
+        "num": 346027,
+        "word": "翻新纸尿裤或致儿童尿路感染",
+        "onboard_time": 1742119881,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131747,
+        "num": 340711,
+        "word": "提振消费专项行动方案印发",
+        "onboard_time": 1742121143,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 763009,
+        "num": 333545,
+        "word": "金秀贤代言被撕",
+        "onboard_time": 1742118502,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330541,
+        "num": 330541,
+        "word": "阚清子黄晓明爆瘦果蔬汁",
+        "onboard_time": 1742120003,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 543174,
+        "num": 329079,
+        "word": "主持人张蕾怒斥心脏看什么都脏",
+        "onboard_time": 1742118923,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37459,
+        "num": 327633,
+        "word": "游客晒湖北省博35元越王勾践剑饭",
+        "onboard_time": 1742120901,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22467,
+        "num": 322841,
+        "word": "失联复旦男博士溺水身亡排除刑案",
+        "onboard_time": 1742120542,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 514988,
+        "num": 321645,
+        "word": "情侣住民宿被偷拍传到境外网站",
+        "onboard_time": 1742108121,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 506124,
+        "num": 317320,
+        "word": "终于明白我妈为什么常年90斤了",
+        "onboard_time": 1742116462,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 455743,
+        "num": 315852,
+        "word": "阚清子希望尽快恢复正常体重",
+        "onboard_time": 1742109202,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409272,
+        "num": 312105,
+        "word": "屈臣氏回应郭晓婷购买内裤有霉斑",
+        "onboard_time": 1742101882,
+        "rank": 23,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 332114,
+        "num": 311414,
+        "word": "刁蛮公主翻拍了",
+        "onboard_time": 1742098042,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308861,
+        "num": 308861,
+        "word": "网红太原老葛团队成员葛某贝被刑拘",
+        "onboard_time": 1742114842,
+        "rank": 25,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 303718,
+        "num": 303718,
+        "word": "韩庚说不能比卢靖姗先离世",
+        "onboard_time": 1742120542,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293511,
+        "num": 293511,
+        "word": "金赛纶超短发",
+        "onboard_time": 1742112561,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161034,
+        "num": 283717,
+        "word": "张晚意拍了4天的下跪戏来了",
+        "onboard_time": 1742118202,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157241,
+        "num": 279362,
+        "word": "尹净汉短发",
+        "onboard_time": 1742114302,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275274,
+        "num": 275274,
+        "word": "金智媛现身aespa演唱会",
+        "onboard_time": 1742118261,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 265401,
+        "num": 265401,
+        "word": "五问李嘉诚有没有考虑国家利益",
+        "onboard_time": 1742098582,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227405,
+        "num": 227405,
+        "word": "夫妻花18万做试管婴儿遭切除输卵管",
+        "onboard_time": 1742111901,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199616,
+        "num": 199616,
+        "word": "戚薇怼脸生图状态",
+        "onboard_time": 1742118800,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154469,
+        "num": 196032,
+        "word": "种田文女主妆造",
+        "onboard_time": 1742116882,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194687,
+        "num": 194687,
+        "word": "孙颖莎vs陈幸同",
+        "onboard_time": 1742120963,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179357,
+        "num": 179357,
+        "word": "美154公斤女子压死10岁养子被判6年",
+        "onboard_time": 1742105603,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 54228,
+        "num": 174634,
+        "word": "6分钟夸克AI极速入门",
+        "onboard_time": 1742118022,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 173599,
+        "num": 173599,
+        "word": "315晚会",
+        "onboard_time": 1742038885,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167983,
+        "num": 167983,
+        "word": "中国短道队世锦赛5000米接力银牌",
+        "onboard_time": 1742120302,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155505,
+        "num": 155505,
+        "word": "王楚钦看孙颖莎王艺迪比赛",
+        "onboard_time": 1742117303,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153577,
+        "num": 153577,
+        "word": "特朗普强烈要求饶他们一命",
+        "onboard_time": 1742117782,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 149054,
+        "num": 149054,
+        "word": "Meow对战ITZY",
+        "onboard_time": 1742116223,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143213,
+        "num": 143213,
+        "word": "权志龙去看aespa演唱会了",
+        "onboard_time": 1742121563,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142288,
+        "num": 142288,
+        "word": "今年新增1500亿元支持以旧换新",
+        "onboard_time": 1742121443,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141999,
+        "num": 141999,
+        "word": "央视起底黑公关",
+        "onboard_time": 1742090004,
+        "rank": 45,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 141980,
+        "num": 141980,
+        "word": "啄木鸟创始人称整个行业99%有猫腻",
+        "onboard_time": 1742121385,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128538,
+        "num": 141294,
+        "word": "新说唱2025",
+        "onboard_time": 1742116282,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116219,
+        "num": 140935,
+        "word": "潘玮柏被自己的下颌线钓成翘嘴",
+        "onboard_time": 1742117303,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112415,
+        "num": 140796,
+        "word": "刁蛮公主定妆照",
+        "onboard_time": 1742111721,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#稳步扩大制度型开放#"
+    }
+  }
+}

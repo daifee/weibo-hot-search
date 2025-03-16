@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742120597682,
+  "endTime": 1742121600139,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -801,6 +801,14 @@
       "onboard_time": 1741769120,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2023759,
+      "num": 359079,
+      "word": "金秀贤被曝把年龄改小2岁",
+      "onboard_time": 1742120661,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1997239,
@@ -3115,6 +3123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1028024,
+      "num": 1164483,
+      "word": "啄木鸟连续两年315道歉",
+      "onboard_time": 1742116523,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1024478,
       "num": 1024478,
       "word": "虞书欣欧阳娜娜回应鹿小葵式演技",
@@ -3249,14 +3265,6 @@
       "onboard_time": 1741781124,
       "rank": 6,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 997732,
-      "num": 1159637,
-      "word": "啄木鸟连续两年315道歉",
-      "onboard_time": 1742116523,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 995412,
@@ -3969,6 +3977,14 @@
       "onboard_time": 1740796818,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 892485,
+      "num": 356389,
+      "word": "李镇浩发视频当天金赛纶自杀了6次",
+      "onboard_time": 1742120721,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 890974,
@@ -4692,7 +4708,7 @@
     },
     {
       "raw_hot": 787167,
-      "num": 596163,
+      "num": 605306,
       "word": "阿衰 快乐没有结局",
       "onboard_time": 1742113701,
       "rank": 3,
@@ -5057,6 +5073,14 @@
       "onboard_time": 1741570760,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 751563,
+      "num": 751563,
+      "word": "近视眼秒懂",
+      "onboard_time": 1742118382,
+      "rank": 6,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 750083,
@@ -7291,14 +7315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 555890,
-      "num": 555890,
-      "word": "近视眼秒懂",
-      "onboard_time": 1742118382,
-      "rank": 6,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 555145,
       "num": 265223,
       "word": "追星式存钱",
@@ -7536,6 +7552,14 @@
       "word": "向佐开10个小时车去找郭碧婷",
       "onboard_time": 1741749682,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 543174,
+      "num": 357595,
+      "word": "主持人张蕾怒斥心脏看什么都脏",
+      "onboard_time": 1742118923,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -11731,14 +11755,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 354174,
-      "num": 357595,
-      "word": "主持人张蕾怒斥心脏看什么都脏",
-      "onboard_time": 1742118923,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 354133,
       "num": 354133,
       "word": "王俊凯仿佛认为自己是老年人",
@@ -12537,6 +12553,14 @@
       "onboard_time": 1741668024,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 330541,
+      "num": 330541,
+      "word": "阚清子黄晓明爆瘦果蔬汁",
+      "onboard_time": 1742120003,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 330240,
@@ -13481,6 +13505,14 @@
       "onboard_time": 1740811236,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 303718,
+      "num": 303718,
+      "word": "韩庚说不能比卢靖姗先离世",
+      "onboard_time": 1742120542,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 303549,
@@ -15033,6 +15065,14 @@
       "onboard_time": 1741076179,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 269592,
+      "num": 443207,
+      "word": "直播公司PUA主播满足金主各种要求",
+      "onboard_time": 1742119822,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 269393,
@@ -19876,7 +19916,7 @@
     },
     {
       "raw_hot": 203324,
-      "num": 203324,
+      "num": 283717,
       "word": "张晚意拍了4天的下跪戏来了",
       "onboard_time": 1742118202,
       "rank": 26,
@@ -21177,6 +21217,14 @@
       "onboard_time": 1741838666,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 194687,
+      "num": 194687,
+      "word": "孙颖莎vs陈幸同",
+      "onboard_time": 1742120963,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 194513,
@@ -27755,6 +27803,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 153577,
+      "num": 153577,
+      "word": "特朗普强烈要求饶他们一命",
+      "onboard_time": 1742117782,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 153500,
       "num": 153500,
       "word": "边伯贤合作曲MV",
@@ -28345,14 +28401,6 @@
       "onboard_time": 1741074378,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 150438,
-      "num": 150438,
-      "word": "特朗普强烈要求饶他们一命",
-      "onboard_time": 1742117782,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 150373,
@@ -29643,6 +29691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143213,
+      "num": 143213,
+      "word": "权志龙去看aespa演唱会了",
+      "onboard_time": 1742121563,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 143148,
       "num": 179931,
       "word": "朴宝剑IU新剧",
@@ -29771,6 +29827,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 142288,
+      "num": 142288,
+      "word": "今年新增1500亿元支持以旧换新",
+      "onboard_time": 1742121443,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142249,
       "num": 142249,
       "word": "拧巴的人需要一个耐心的爱人",
@@ -29825,6 +29889,14 @@
       "onboard_time": 1740996018,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141980,
+      "num": 141980,
+      "word": "啄木鸟创始人称整个行业99%有猫腻",
+      "onboard_time": 1742121385,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141862,
@@ -31777,6 +31849,14 @@
       "onboard_time": 1741277179,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 131747,
+      "num": 340711,
+      "word": "提振消费专项行动方案印发",
+      "onboard_time": 1742121143,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 131692,
@@ -33929,14 +34009,6 @@
       "onboard_time": 1741512440,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 121729,
-      "num": 121729,
-      "word": "韩庚说不能比卢靖姗先离世",
-      "onboard_time": 1742120542,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 121712,
@@ -43419,14 +43491,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 59908,
-      "num": 197211,
-      "word": "阚清子黄晓明爆瘦果蔬汁",
-      "onboard_time": 1742120003,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 59784,
       "num": 513285,
       "word": "中国快递已成为亮丽的中国名片",
@@ -44385,6 +44449,14 @@
       "onboard_time": 1741936704,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 52654,
+      "num": 429203,
+      "word": "翻新纸尿裤或致儿童尿路感染",
+      "onboard_time": 1742119881,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52617,
@@ -46491,6 +46563,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 37459,
+      "num": 327633,
+      "word": "游客晒湖北省博35元越王勾践剑饭",
+      "onboard_time": 1742120901,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37455,
       "num": 589323,
       "word": "文化中国行看唐诗里的诗意中国",
@@ -47859,14 +47939,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28829,
-      "num": 443207,
-      "word": "直播公司PUA主播满足金主各种要求",
-      "onboard_time": 1742119822,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 28784,
       "num": 28784,
       "word": "杨紫感谢粉丝厚爱",
@@ -48105,6 +48177,14 @@
       "onboard_time": 1741357823,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 27257,
+      "num": 667654,
+      "word": "春天的声音像一场演唱会",
+      "onboard_time": 1742120901,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27192,
@@ -48843,14 +48923,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 23487,
-      "num": 429203,
-      "word": "翻新纸尿裤或致儿童尿路感染",
-      "onboard_time": 1742119881,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23472,
       "num": 583302,
       "word": "苏迪曼杯国羽分组",
@@ -49009,6 +49081,14 @@
       "onboard_time": 1741759523,
       "rank": 17,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 22467,
+      "num": 322841,
+      "word": "失联复旦男博士溺水身亡排除刑案",
+      "onboard_time": 1742120542,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22420,
@@ -50657,14 +50737,6 @@
       "onboard_time": 1741467553,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 11959,
-      "num": 181857,
-      "word": "失联复旦男博士溺水身亡排除刑案",
-      "onboard_time": 1742120542,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11944,
