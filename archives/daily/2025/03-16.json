@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742135841847,
+  "endTime": 1742138559347,
   "band_list": [
     {
       "raw_hot": 9740375,
@@ -73,6 +73,14 @@
       "onboard_time": 1742052867,
       "rank": 4,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 2298713,
+      "num": 536608,
+      "word": "汤唯我不认识金秀贤",
+      "onboard_time": 1742136983,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2222116,
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 1307374,
-      "num": 396784,
+      "num": 531535,
       "word": "金赛纶联系了金牌的超多人",
       "onboard_time": 1742133444,
       "rank": 10,
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 1221918,
-      "num": 460366,
+      "num": 463443,
       "word": "李镇浩发视频当天金赛纶自杀了6次",
       "onboard_time": 1742120721,
       "rank": 11,
@@ -500,7 +508,7 @@
     },
     {
       "raw_hot": 754557,
-      "num": 366380,
+      "num": 473325,
       "word": "金秀贤眼泪女王快闪店人流冷清",
       "onboard_time": 1742135183,
       "rank": 12,
@@ -539,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 722570,
+      "num": 722570,
+      "word": "将门毒后",
+      "onboard_time": 1742137105,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 719994,
       "num": 719994,
       "word": "自由点报案",
@@ -571,7 +587,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 642777,
+      "raw_hot": 651554,
       "num": 642777,
       "word": "将门毒后的选角要求",
       "onboard_time": 1742134045,
@@ -635,6 +651,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 587212,
+      "num": 587212,
+      "word": "孙颖莎说很开心在重庆卫冕",
+      "onboard_time": 1742137644,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 586406,
       "num": 357479,
       "word": "终于明白我妈为什么常年90斤了",
@@ -673,6 +697,14 @@
       "onboard_time": 1742131824,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 572044,
+      "num": 352356,
+      "word": "男子感冒去小诊所输液确诊尿毒症",
+      "onboard_time": 1742136445,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 566751,
@@ -739,6 +771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 545064,
+      "num": 545064,
+      "word": "台军发解放军95式步枪奖杯",
+      "onboard_time": 1742134945,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 544342,
       "num": 544342,
       "word": "提振消费专项行动方案印发",
@@ -753,6 +793,14 @@
       "onboard_time": 1742093604,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 527786,
+      "num": 527786,
+      "word": "利路修还有15天要退圈了",
+      "onboard_time": 1742135303,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 522920,
@@ -1099,12 +1147,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 349572,
-      "num": 349572,
-      "word": "台军发解放军95式步枪奖杯",
-      "onboard_time": 1742134945,
-      "rank": 16,
-      "category": "国内时政"
+      "raw_hot": 349071,
+      "num": 349071,
+      "word": "白桃星座一周运势",
+      "onboard_time": 1742137584,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 344380,
@@ -1124,7 +1172,7 @@
     },
     {
       "raw_hot": 338357,
-      "num": 322205,
+      "num": 335875,
       "word": "王楚钦憋笑给孙颖莎递手机",
       "onboard_time": 1742134225,
       "rank": 36,
@@ -1193,6 +1241,14 @@
       "onboard_time": 1742123783,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 310764,
+      "num": 310764,
+      "word": "星巴克赔偿美国一外卖员5000万美元",
+      "onboard_time": 1742137405,
+      "rank": 23,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 306633,
@@ -1307,12 +1363,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 280639,
+      "num": 280639,
+      "word": "汤唯于适彭于晏生图",
+      "onboard_time": 1742136804,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 279292,
       "num": 279292,
       "word": "浪莎回应",
       "onboard_time": 1742054605,
       "rank": 35,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 278883,
+      "num": 278883,
+      "word": "IU演技",
+      "onboard_time": 1742135724,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 278539,
@@ -1345,14 +1417,6 @@
       "onboard_time": 1742108241,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 276621,
-      "num": 276621,
-      "word": "利路修还有15天要退圈了",
-      "onboard_time": 1742135303,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 269592,
@@ -1771,6 +1835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203985,
+      "num": 203985,
+      "word": "从专科小混混到博士的反转人生",
+      "onboard_time": 1742136924,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 203945,
       "num": 203945,
       "word": "美军对也门发动军事行动",
@@ -2009,6 +2081,14 @@
       "onboard_time": 1742126483,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190939,
+      "num": 190939,
+      "word": "时代少年团 麻花特开心",
+      "onboard_time": 1742137824,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 190528,
@@ -2339,6 +2419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163401,
+      "num": 152774,
+      "word": "陈飞宇看了也喊催更",
+      "onboard_time": 1742135906,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162415,
       "num": 162415,
       "word": "王楚钦展望全运会",
@@ -2360,6 +2448,14 @@
       "word": "孙颖莎反应",
       "onboard_time": 1742130744,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 161793,
+      "num": 280773,
+      "word": "王楚钦说能救得了自己的只有自己",
+      "onboard_time": 1742137705,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -2419,6 +2515,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 155893,
+      "num": 541531,
+      "word": "三大运营商开展电话营销自查",
+      "onboard_time": 1742137044,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 154999,
       "num": 154999,
       "word": "谁家剧藏了这么多影帝影后",
@@ -2467,12 +2571,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151876,
+      "num": 151876,
+      "word": "王楚钦为家人祈祷",
+      "onboard_time": 1742137225,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151212,
       "num": 151212,
       "word": "中国新一代电磁枪曝光",
       "onboard_time": 1742135363,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151037,
+      "num": 151037,
+      "word": "张晚意演技",
+      "onboard_time": 1742138365,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 150392,
+      "num": 150392,
+      "word": "PEL",
+      "onboard_time": 1742137644,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 150331,
@@ -2521,6 +2649,14 @@
       "onboard_time": 1742117303,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147915,
+      "num": 473833,
+      "word": "孙颖莎发博总结重庆冠军赛",
+      "onboard_time": 1742138063,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 147235,
@@ -2587,6 +2723,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 144273,
+      "num": 144273,
+      "word": "王楚钦夺冠后即时积分反超林诗栋",
+      "onboard_time": 1742135965,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144169,
       "num": 144169,
       "word": "中国女留学生在米兰夺回被抢的手机",
@@ -2619,12 +2763,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 142241,
-      "num": 142241,
-      "word": "IU演技",
-      "onboard_time": 1742135724,
-      "rank": 47,
-      "category": "剧集"
+      "raw_hot": 140688,
+      "num": 140688,
+      "word": "不得违法延长劳动者工作时间",
+      "onboard_time": 1742137884,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140201,
@@ -2680,6 +2824,14 @@
       "word": "刘少昂带伤继续参赛",
       "onboard_time": 1742108782,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 134978,
+      "num": 134978,
+      "word": "国乒大合影给王曼昱留了位置",
+      "onboard_time": 1742138483,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -2913,6 +3065,14 @@
       "onboard_time": 1742069355,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108290,
+      "num": 754077,
+      "word": "中央财政提前下达以旧换新首批资金",
+      "onboard_time": 1742137105,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 108289,
@@ -3540,6 +3700,9 @@
     },
     {
       "word": "#坚持和落实两个毫不动摇#"
+    },
+    {
+      "word": "#习近平的民生之问#"
     }
   ]
 }
