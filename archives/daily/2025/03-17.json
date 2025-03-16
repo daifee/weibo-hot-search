@@ -1,6 +1,6 @@
 {
   "startTime": 1742142428647,
-  "endTime": 1742156678066,
+  "endTime": 1742157484331,
   "band_list": [
     {
       "raw_hot": 1480089,
@@ -531,6 +531,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 21799,
+      "num": 33776,
+      "word": "卫生巾纸尿裤粉碎车间味道令人作呕",
+      "onboard_time": 1742155214,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 20652,
       "num": 38877,
       "word": "重庆通报啄木鸟公司调查情况",
@@ -563,20 +571,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 13671,
+      "raw_hot": 14071,
       "num": 15825,
       "word": "退货被店家说买不起就别买平台赔300元",
       "onboard_time": 1742156534,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13494,
-      "num": 33776,
-      "word": "卫生巾纸尿裤粉碎车间味道令人作呕",
-      "onboard_time": 1742155214,
-      "rank": 9,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 12687,
@@ -585,6 +585,14 @@
       "onboard_time": 1742149694,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10948,
+      "num": 32508,
+      "word": "科学合理提高最低工资标准",
+      "onboard_time": 1742156833,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 10838,
