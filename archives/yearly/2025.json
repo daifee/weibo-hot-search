@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1742124954917,
+  "endTime": 1742128863427,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -881,6 +881,14 @@
       "onboard_time": 1738069063,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 4437343,
+      "num": 4437343,
+      "word": "王楚钦重庆赛夺冠",
+      "onboard_time": 1742127505,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 4416500,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1739940202,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2681334,
-      "num": 483886,
-      "word": "长津湖",
-      "onboard_time": 1738758444,
-      "rank": 26,
-      "category": "电影"
     }
   ],
   "hotgov_list": [
