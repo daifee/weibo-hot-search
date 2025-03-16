@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742143421375,
+  "endTime": 1742145595057,
   "band_list": [
     {
       "raw_hot": 9740375,
@@ -1395,6 +1395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 281348,
+      "num": 239330,
+      "word": "王彦霖说来参加陈立农婚礼",
+      "onboard_time": 1742141901,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 280639,
       "num": 280639,
       "word": "汤唯于适彭于晏生图",
@@ -1595,14 +1603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 244939,
-      "num": 239330,
-      "word": "王彦霖说来参加陈立农婚礼",
-      "onboard_time": 1742141901,
-      "rank": 25,
-      "category": "演出"
-    },
-    {
       "raw_hot": 242832,
       "num": 242832,
       "word": "戚薇怼脸生图状态",
@@ -1779,6 +1779,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 224132,
+      "num": 225598,
+      "word": "谍报上不封顶 王凯",
+      "onboard_time": 1742140401,
+      "rank": 18,
+      "category": "电影,综艺"
+    },
+    {
       "raw_hot": 223528,
       "num": 309697,
       "word": "熟悉的她 癫剧",
@@ -1817,14 +1825,6 @@
       "onboard_time": 1742072234,
       "rank": 42,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 217906,
-      "num": 225598,
-      "word": "谍报上不封顶 王凯",
-      "onboard_time": 1742140401,
-      "rank": 18,
-      "category": "电影,综艺"
     },
     {
       "raw_hot": 217577,
@@ -2321,6 +2321,14 @@
       "onboard_time": 1742130624,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179679,
+      "num": 179679,
+      "word": "中国要给算力建国家高速公路",
+      "onboard_time": 1742143938,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179370,
@@ -3419,6 +3427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 79480,
+      "num": 79480,
+      "word": "新版刁蛮公主男女主",
+      "onboard_time": 1742143399,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 79401,
       "num": 347882,
       "word": "刘少昂说当燃不让",
@@ -3497,14 +3513,6 @@
       "onboard_time": 1742114062,
       "rank": 43,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 62685,
-      "num": 62685,
-      "word": "新版刁蛮公主男女主",
-      "onboard_time": 1742143399,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 62401,
@@ -3641,6 +3649,14 @@
       "onboard_time": 1742073793,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 42671,
+      "num": 42671,
+      "word": "张康乐好苏",
+      "onboard_time": 1742144058,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 41299,
@@ -3833,6 +3849,14 @@
       "onboard_time": 1742070854,
       "rank": 48,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 24464,
+      "num": 162869,
+      "word": "我国将让AI算力像用电一样方便",
+      "onboard_time": 1742145137,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23810,
