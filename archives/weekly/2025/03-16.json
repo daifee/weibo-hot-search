@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742160038335,
+  "endTime": 1742160953416,
   "band_list": [
     {
       "raw_hot": 9740375,
@@ -3707,6 +3707,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 39372,
+      "num": 39372,
+      "word": "王心凌回应4K画质热梗",
+      "onboard_time": 1742159234,
+      "rank": 9,
+      "category": "演出"
+    },
+    {
       "raw_hot": 39093,
       "num": 39093,
       "word": "贝姿妍",
@@ -3891,6 +3899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26821,
+      "num": 26821,
+      "word": "退货被店家说买不起就别买平台赔300元",
+      "onboard_time": 1742156534,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25979,
       "num": 79959,
       "word": "食用保水虾仁或致心血管疾病",
@@ -3905,14 +3921,6 @@
       "onboard_time": 1742070854,
       "rank": 48,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 24160,
-      "num": 24160,
-      "word": "退货被店家说买不起就别买平台赔300元",
-      "onboard_time": 1742156534,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23810,
@@ -3979,16 +3987,8 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 16529,
-      "num": 31837,
-      "word": "王心凌回应4K画质热梗",
-      "onboard_time": 1742159234,
-      "rank": 9,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 16020,
-      "num": 16030,
+      "raw_hot": 16245,
+      "num": 16245,
       "word": "一次性内裤",
       "onboard_time": 1742146696,
       "rank": 42,
@@ -4033,6 +4033,14 @@
       "onboard_time": 1742156833,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10106,
+      "num": 37842,
+      "word": "起底M站维修乱象",
+      "onboard_time": 1742160435,
+      "rank": 9,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 9956,
