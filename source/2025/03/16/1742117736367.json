@@ -1,0 +1,410 @@
+{
+  "runTime": 1742117736367,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 962496,
+        "num": 1153999,
+        "word": "浪莎再次声明",
+        "onboard_time": 1742112981,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 740557,
+        "num": 740557,
+        "word": "315名单",
+        "onboard_time": 1742044291,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 43658,
+        "num": 706807,
+        "word": "故宫雪景大片",
+        "onboard_time": 1742102065,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 689823,
+        "num": 689823,
+        "word": "阚清子希望尽快恢复正常体重",
+        "onboard_time": 1742109202,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 580840,
+        "num": 580840,
+        "word": "风月不相关 杨超越",
+        "onboard_time": 1742113582,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 454035,
+        "num": 454035,
+        "word": "315记者为取证吃到吐",
+        "onboard_time": 1742094742,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 537750,
+        "num": 448774,
+        "word": "刁蛮公主翻拍了",
+        "onboard_time": 1742098042,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 417241,
+        "num": 417241,
+        "word": "央视曝光AI假冒名人明星",
+        "onboard_time": 1742111301,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 405989,
+        "num": 405989,
+        "word": "张本智和回应不敌王楚钦",
+        "onboard_time": 1742112082,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80985,
+        "num": 405887,
+        "word": "屈臣氏下架电商平台同款霉斑内裤",
+        "onboard_time": 1742116641,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1746037,
+        "num": 405453,
+        "word": "阿衰大结局了",
+        "onboard_time": 1742113701,
+        "rank": 10,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 991817,
+        "num": 404881,
+        "word": "海底捞小便事件门店客流锐减",
+        "onboard_time": 1742115142,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 821841,
+        "num": 404417,
+        "word": "情侣住民宿被偷拍传到境外网站",
+        "onboard_time": 1742108121,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 658057,
+        "num": 403898,
+        "word": "屈臣氏回应郭晓婷购买内裤有霉斑",
+        "onboard_time": 1742101882,
+        "rank": 13,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 566477,
+        "num": 403588,
+        "word": "金赛纶金秀贤只在家中约会",
+        "onboard_time": 1742097742,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375632,
+        "num": 403435,
+        "word": "315晚会",
+        "onboard_time": 1742038885,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403061,
+        "num": 403061,
+        "word": "刁蛮公主定妆照",
+        "onboard_time": 1742111721,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 377441,
+        "num": 377441,
+        "word": "啄木鸟连续两年315道歉",
+        "onboard_time": 1742116523,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 375038,
+        "num": 375038,
+        "word": "尹净汉短发",
+        "onboard_time": 1742114302,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355741,
+        "num": 355741,
+        "word": "五问李嘉诚有没有考虑国家利益",
+        "onboard_time": 1742098582,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317653,
+        "num": 317653,
+        "word": "金赛纶超短发",
+        "onboard_time": 1742112561,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307106,
+        "num": 307106,
+        "word": "夫妻花18万做试管婴儿遭切除输卵管",
+        "onboard_time": 1742111901,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255524,
+        "num": 255524,
+        "word": "雷军的粉丝构成还是太全面了",
+        "onboard_time": 1742113582,
+        "rank": 22,
+        "category": "综艺,互联网"
+      },
+      {
+        "raw_hot": 251702,
+        "num": 251702,
+        "word": "网红太原老葛团队成员葛某贝被刑拘",
+        "onboard_time": 1742114842,
+        "rank": 23,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 250844,
+        "num": 250844,
+        "word": "与辉同行声明",
+        "onboard_time": 1742110462,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63331,
+        "num": 243868,
+        "word": "用夸克给的攻略去悬崖过夜了",
+        "onboard_time": 1742114062,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 237353,
+        "num": 237353,
+        "word": "延长周末的5件小事",
+        "onboard_time": 1742113943,
+        "rank": 26,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 46260,
+        "num": 230531,
+        "word": "陈幸同祝王曼昱早日康复",
+        "onboard_time": 1742117422,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154813,
+        "num": 226444,
+        "word": "张凌赫背田曦薇下城墙",
+        "onboard_time": 1742114842,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151344,
+        "num": 225209,
+        "word": "四郎上个综艺被哄成胚胎了",
+        "onboard_time": 1742114003,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224956,
+        "num": 224956,
+        "word": "韩媒再为金秀贤发声",
+        "onboard_time": 1742101882,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355519,
+        "num": 219743,
+        "word": "终于明白我妈为什么常年90斤了",
+        "onboard_time": 1742116462,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199960,
+        "num": 199960,
+        "word": "翻新卫生巾",
+        "onboard_time": 1742040988,
+        "rank": 32,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 198378,
+        "num": 198378,
+        "word": "美154公斤女子压死10岁养子被判6年",
+        "onboard_time": 1742105603,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 187744,
+        "num": 187744,
+        "word": "Meow对战ITZY",
+        "onboard_time": 1742116223,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 181951,
+        "num": 181951,
+        "word": "央视起底黑公关",
+        "onboard_time": 1742090004,
+        "rank": 35,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 150020,
+        "num": 150020,
+        "word": "余茵说乖乖女火了以后特别开心",
+        "onboard_time": 1742115564,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167502,
+        "num": 149853,
+        "word": "与辉同行下架全部虾仁相关商品",
+        "onboard_time": 1742114602,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149524,
+        "num": 149524,
+        "word": "种田文女主妆造",
+        "onboard_time": 1742116882,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145870,
+        "num": 145870,
+        "word": "男子想租高中操场结婚引争议",
+        "onboard_time": 1742116402,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143535,
+        "num": 143535,
+        "word": "陈赫不语只是一味替陈建斌挡吃的",
+        "onboard_time": 1742105483,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139816,
+        "num": 139816,
+        "word": "张本智和场下和田势教练抱头哭泣",
+        "onboard_time": 1742115322,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130447,
+        "num": 130447,
+        "word": "潘玮柏被自己的下颌线钓成翘嘴",
+        "onboard_time": 1742117303,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127164,
+        "num": 127164,
+        "word": "老公去世短视频最后为了卖洗发水",
+        "onboard_time": 1742091204,
+        "rank": 43,
+        "category": "民生新闻,情感"
+      },
+      {
+        "raw_hot": 125804,
+        "num": 125804,
+        "word": "新说唱2025",
+        "onboard_time": 1742116282,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116058,
+        "num": 116058,
+        "word": "何老师你就宠杨洋吧",
+        "onboard_time": 1742112801,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115802,
+        "num": 115802,
+        "word": "王楚钦看孙颖莎王艺迪比赛",
+        "onboard_time": 1742117303,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109928,
+        "num": 109928,
+        "word": "郭晓婷买发霉内裤疑为屈臣氏",
+        "onboard_time": 1742108182,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102946,
+        "num": 102946,
+        "word": "2025f1澳大利亚大奖赛",
+        "onboard_time": 1742117422,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97036,
+        "num": 97036,
+        "word": "KC对战HLE",
+        "onboard_time": 1742115383,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持和落实两个毫不动摇#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742116948742,
+  "endTime": 1742117736367,
   "band_list": [
     {
       "raw_hot": 9740375,
@@ -123,7 +123,7 @@
       "category": "民生新闻,情感"
     },
     {
-      "raw_hot": 1730174,
+      "raw_hot": 1746037,
       "num": 537775,
       "word": "阿衰大结局了",
       "onboard_time": 1742113701,
@@ -219,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 991817,
+      "num": 404881,
+      "word": "海底捞小便事件门店客流锐减",
+      "onboard_time": 1742115142,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 988725,
       "num": 988725,
       "word": "315奶茶",
@@ -241,6 +249,14 @@
       "onboard_time": 1742101882,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 962496,
+      "num": 1153999,
+      "word": "浪莎再次声明",
+      "onboard_time": 1742112981,
+      "rank": 31,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 955189,
@@ -315,14 +331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 787384,
-      "num": 787384,
-      "word": "浪莎再次声明",
-      "onboard_time": 1742112981,
-      "rank": 31,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 748377,
       "num": 748377,
       "word": "孙颖莎vs王艺迪",
@@ -385,6 +393,14 @@
       "onboard_time": 1742082679,
       "rank": 13,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 580840,
+      "num": 580840,
+      "word": "风月不相关 杨超越",
+      "onboard_time": 1742113582,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 577425,
@@ -465,14 +481,6 @@
       "onboard_time": 1742055266,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 515364,
-      "num": 515364,
-      "word": "风月不相关 杨超越",
-      "onboard_time": 1742113582,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 511198,
@@ -675,11 +683,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 375767,
-      "num": 375767,
-      "word": "海底捞小便事件门店客流锐减",
-      "onboard_time": 1742115142,
-      "rank": 17,
+      "raw_hot": 377441,
+      "num": 377441,
+      "word": "啄木鸟连续两年315道歉",
+      "onboard_time": 1742116523,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -713,6 +721,14 @@
       "onboard_time": 1742097324,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 355519,
+      "num": 237211,
+      "word": "终于明白我妈为什么常年90斤了",
+      "onboard_time": 1742116462,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 351541,
@@ -899,14 +915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 265985,
-      "num": 237211,
-      "word": "终于明白我妈为什么常年90斤了",
-      "onboard_time": 1742116462,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 265355,
       "num": 265355,
       "word": "夫妻制售假始祖鸟1年获利30万元",
@@ -963,7 +971,7 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 253635,
+      "raw_hot": 255524,
       "num": 277258,
       "word": "雷军的粉丝构成还是太全面了",
       "onboard_time": 1742113582,
@@ -1387,14 +1395,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 181664,
-      "num": 181664,
-      "word": "啄木鸟连续两年315道歉",
-      "onboard_time": 1742116523,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 181011,
       "num": 181011,
       "word": "张本智和场下和田势教练抱头哭泣",
@@ -1532,7 +1532,7 @@
     },
     {
       "raw_hot": 164928,
-      "num": 164928,
+      "num": 226444,
       "word": "张凌赫背田曦薇下城墙",
       "onboard_time": 1742114842,
       "rank": 38,
@@ -1603,6 +1603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150020,
+      "num": 150020,
+      "word": "余茵说乖乖女火了以后特别开心",
+      "onboard_time": 1742115564,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149989,
       "num": 520336,
       "word": "工信部回应315晚会曝光",
@@ -1611,12 +1619,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149524,
+      "num": 149524,
+      "word": "种田文女主妆造",
+      "onboard_time": 1742116882,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148743,
       "num": 148743,
       "word": "尼克斯vs勇士",
       "onboard_time": 1742095763,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145870,
+      "num": 145870,
+      "word": "男子想租高中操场结婚引争议",
+      "onboard_time": 1742116402,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145696,
@@ -1665,14 +1689,6 @@
       "onboard_time": 1742050532,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 136288,
-      "num": 136288,
-      "word": "余茵说乖乖女火了以后特别开心",
-      "onboard_time": 1742115564,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 135862,
@@ -1731,14 +1747,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 131440,
-      "num": 131440,
-      "word": "男子想租高中操场结婚引争议",
-      "onboard_time": 1742116402,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 131341,
       "num": 528764,
       "word": "商丘多部门赶赴虞城依法查处曝光企业",
@@ -1753,6 +1761,14 @@
       "onboard_time": 1742103202,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 130447,
+      "num": 130447,
+      "word": "潘玮柏被自己的下颌线钓成翘嘴",
+      "onboard_time": 1742117303,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 130271,
@@ -1819,14 +1835,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 122945,
-      "num": 122945,
-      "word": "种田文女主妆造",
-      "onboard_time": 1742116882,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 122637,
       "num": 346529,
       "word": "费启鸣也是闯入忘本赛道了",
@@ -1865,6 +1873,14 @@
       "onboard_time": 1742102363,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 115802,
+      "num": 115802,
+      "word": "王楚钦看孙颖莎王艺迪比赛",
+      "onboard_time": 1742117303,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 115304,
@@ -1945,6 +1961,14 @@
       "onboard_time": 1742052628,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 102946,
+      "num": 102946,
+      "word": "2025f1澳大利亚大奖赛",
+      "onboard_time": 1742117422,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 102061,
@@ -2059,6 +2083,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 80985,
+      "num": 405887,
+      "word": "屈臣氏下架电商平台同款霉斑内裤",
+      "onboard_time": 1742116641,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80349,
       "num": 253029,
       "word": "刘宪华雨中拉小提琴的氛围感",
@@ -2105,6 +2137,14 @@
       "onboard_time": 1742090723,
       "rank": 24,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 63331,
+      "num": 243868,
+      "word": "用夸克给的攻略去悬崖过夜了",
+      "onboard_time": 1742114062,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 62401,
@@ -2187,6 +2227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46260,
+      "num": 230531,
+      "word": "陈幸同祝王曼昱早日康复",
+      "onboard_time": 1742117422,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 46248,
       "num": 259989,
       "word": "武大最年轻正教授年薪60万",
@@ -2195,18 +2243,18 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 44899,
-      "num": 269322,
-      "word": "屈臣氏下架电商平台同款霉斑内裤",
-      "onboard_time": 1742116641,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 44415,
       "num": 1642532,
       "word": "跟着文物去春游",
       "onboard_time": 1742102843,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43658,
+      "num": 2046741,
+      "word": "故宫雪景大片",
+      "onboard_time": 1742102065,
       "rank": 2,
       "category": "民生新闻"
     },
@@ -2233,14 +2281,6 @@
       "onboard_time": 1742108602,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 39985,
-      "num": 237843,
-      "word": "用夸克给的攻略去悬崖过夜了",
-      "onboard_time": 1742114062,
-      "rank": 43,
-      "category": "互联网"
     },
     {
       "raw_hot": 39093,
@@ -2393,14 +2433,6 @@
       "onboard_time": 1742066355,
       "rank": 35,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 12825,
-      "num": 2046741,
-      "word": "故宫雪景大片",
-      "onboard_time": 1742102065,
-      "rank": 2,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
