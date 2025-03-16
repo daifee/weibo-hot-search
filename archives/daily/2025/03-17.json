@@ -1,6 +1,6 @@
 {
   "startTime": 1742142428647,
-  "endTime": 1742145595057,
+  "endTime": 1742146645378,
   "band_list": [
     {
       "raw_hot": 1480089,
@@ -435,6 +435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 62000,
+      "num": 162869,
+      "word": "我国将让AI算力像用电一样方便",
+      "onboard_time": 1742145137,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51295,
       "num": 241921,
       "word": "北马其顿全国哀悼7天",
@@ -451,11 +459,35 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 24464,
-      "num": 162869,
-      "word": "我国将让AI算力像用电一样方便",
-      "onboard_time": 1742145137,
-      "rank": 9,
+      "raw_hot": 39572,
+      "num": 39572,
+      "word": "上海全款150万9平米的独栋",
+      "onboard_time": 1742130144,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 38960,
+      "num": 38960,
+      "word": "欧阳娜娜看娣娣舞台破防了",
+      "onboard_time": 1742130925,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 20652,
+      "num": 38877,
+      "word": "重庆通报啄木鸟公司调查情况",
+      "onboard_time": 1742146338,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19791,
+      "num": 66902,
+      "word": "315曝光的卫生巾厂有成堆废弃原料",
+      "onboard_time": 1742146457,
+      "rank": 24,
       "category": "民生新闻"
     }
   ],

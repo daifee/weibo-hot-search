@@ -1,0 +1,410 @@
+{
+  "runTime": 1742146645378,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 891089,
+        "num": 891089,
+        "word": "睡前太饿可以吃这5种食物",
+        "onboard_time": 1742140824,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 423951,
+        "num": 423951,
+        "word": "将门毒后",
+        "onboard_time": 1742137105,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39288,
+        "num": 289345,
+        "word": "中央财政提前下达以旧换新首批资金",
+        "onboard_time": 1742137105,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 268395,
+        "num": 268395,
+        "word": "王楚钦孙颖莎冠军自拍",
+        "onboard_time": 1742129244,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222123,
+        "num": 222123,
+        "word": "星巴克赔偿美国一外卖员5000万美元",
+        "onboard_time": 1742137405,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 175950,
+        "num": 175950,
+        "word": "中国要给算力建国家高速公路",
+        "onboard_time": 1742143938,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147206,
+        "num": 147206,
+        "word": "谍报上不封顶 王凯",
+        "onboard_time": 1742140401,
+        "rank": 6,
+        "category": "电影,综艺"
+      },
+      {
+        "raw_hot": 136331,
+        "num": 136331,
+        "word": "近五年爆过雷的卫生巾品牌",
+        "onboard_time": 1742128045,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116788,
+        "num": 116788,
+        "word": "央视起底职业闭店人圈钱套路",
+        "onboard_time": 1742139623,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 110842,
+        "num": 110842,
+        "word": "王楚钦重庆赛夺冠",
+        "onboard_time": 1742127505,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 491457,
+        "num": 110286,
+        "word": "汤唯我不认识金秀贤",
+        "onboard_time": 1742136983,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226429,
+        "num": 109953,
+        "word": "王彦霖说来参加陈立农婚礼",
+        "onboard_time": 1742141901,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 166733,
+        "num": 109489,
+        "word": "李镇浩发视频当天金赛纶自杀了6次",
+        "onboard_time": 1742120721,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163273,
+        "num": 108785,
+        "word": "Angelababy直播",
+        "onboard_time": 1742124863,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67342,
+        "num": 107633,
+        "word": "陈幸同说恭喜莎莎",
+        "onboard_time": 1742140464,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123591,
+        "num": 107368,
+        "word": "肖战日媒镜头下的生图",
+        "onboard_time": 1742141542,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106923,
+        "num": 106923,
+        "word": "利路修还有15天要退圈了",
+        "onboard_time": 1742135303,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 214598,
+        "num": 106270,
+        "word": "金秀贤方发给金赛纶父亲的短信",
+        "onboard_time": 1742139082,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105204,
+        "num": 105204,
+        "word": "台军发解放军95式步枪奖杯",
+        "onboard_time": 1742134945,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 92445,
+        "num": 92445,
+        "word": "郑恺跑男断掉全勤是因为陪产",
+        "onboard_time": 1742123422,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93018,
+        "num": 87920,
+        "word": "男子感冒去小诊所输液确诊尿毒症",
+        "onboard_time": 1742136445,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71678,
+        "num": 71678,
+        "word": "新版刁蛮公主男女主",
+        "onboard_time": 1742143399,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69590,
+        "num": 69590,
+        "word": "减重小妙招",
+        "onboard_time": 1742140103,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 69225,
+        "num": 69225,
+        "word": "短剧已是nextlevel",
+        "onboard_time": 1742131225,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19791,
+        "num": 66902,
+        "word": "315曝光的卫生巾厂有成堆废弃原料",
+        "onboard_time": 1742146457,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66370,
+        "num": 66370,
+        "word": "山西省考多名考生因事故被堵高速",
+        "onboard_time": 1742136804,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64867,
+        "num": 64867,
+        "word": "田柾国 aespa演唱会",
+        "onboard_time": 1742125524,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 63861,
+        "num": 63861,
+        "word": "薛凯琪演唱会",
+        "onboard_time": 1742142740,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 63726,
+        "num": 63726,
+        "word": "啄木鸟连续两年315道歉",
+        "onboard_time": 1742116523,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61841,
+        "num": 62632,
+        "word": "将门毒后的选角要求",
+        "onboard_time": 1742134045,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62000,
+        "num": 62000,
+        "word": "我国将让AI算力像用电一样方便",
+        "onboard_time": 1742145137,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61778,
+        "num": 61778,
+        "word": "丁禹兮全黑callback",
+        "onboard_time": 1742141301,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54924,
+        "num": 54924,
+        "word": "TF家族练习生2025全新公式照",
+        "onboard_time": 1742140401,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54101,
+        "num": 54101,
+        "word": "白桃星座一周运势",
+        "onboard_time": 1742137584,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 54033,
+        "num": 54033,
+        "word": "孙颖莎胜陈幸同夺冠",
+        "onboard_time": 1742124144,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51592,
+        "num": 51592,
+        "word": "IU演技",
+        "onboard_time": 1742135724,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51232,
+        "num": 51232,
+        "word": "情侣住民宿被偷拍传到境外网站",
+        "onboard_time": 1742108121,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49652,
+        "num": 49652,
+        "word": "石宇奇时隔七年再夺全英冠军",
+        "onboard_time": 1742139562,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46802,
+        "num": 46802,
+        "word": "黄桃罐头加工厂车间污水横流",
+        "onboard_time": 1742131824,
+        "rank": 38,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 46715,
+        "num": 46715,
+        "word": "虞书欣亲上热水袋了",
+        "onboard_time": 1742139982,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45740,
+        "num": 45740,
+        "word": "北马其顿全国哀悼7天",
+        "onboard_time": 1742142740,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 45288,
+        "num": 45288,
+        "word": "市场监管总局处置315曝光问题",
+        "onboard_time": 1742139684,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43168,
+        "num": 43168,
+        "word": "孙颖莎说很开心在重庆卫冕",
+        "onboard_time": 1742137644,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41172,
+        "num": 41172,
+        "word": "汤唯四种语言说获奖感言",
+        "onboard_time": 1742139443,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40408,
+        "num": 40408,
+        "word": "当地回应省考多名考生因事故被堵高速",
+        "onboard_time": 1742132964,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39572,
+        "num": 39572,
+        "word": "上海全款150万9平米的独栋",
+        "onboard_time": 1742130144,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 38960,
+        "num": 38960,
+        "word": "欧阳娜娜看娣娣舞台破防了",
+        "onboard_time": 1742130925,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20652,
+        "num": 38877,
+        "word": "重庆通报啄木鸟公司调查情况",
+        "onboard_time": 1742146338,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38842,
+        "num": 38842,
+        "word": "张晚意演技",
+        "onboard_time": 1742138365,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37841,
+        "num": 37841,
+        "word": "阚清子黄晓明爆瘦果蔬汁",
+        "onboard_time": 1742120003,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#以文化赋能经济社会发展#"
+    }
+  }
+}
