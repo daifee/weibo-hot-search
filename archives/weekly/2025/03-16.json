@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742163667201,
+  "endTime": 1742164703043,
   "band_list": [
     {
       "raw_hot": 9740375,
@@ -1803,6 +1803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220166,
+      "num": 220166,
+      "word": "屈臣氏已暂时停售相关产品",
+      "onboard_time": 1742153654,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218427,
       "num": 717247,
       "word": "倍舒特声明",
@@ -1929,6 +1937,14 @@
       "onboard_time": 1742118202,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202866,
+      "num": 84966,
+      "word": "金赛纶完全不知道7亿是走形式",
+      "onboard_time": 1742151135,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 202096,
@@ -2537,22 +2553,6 @@
       "onboard_time": 1742114842,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 164431,
-      "num": 164431,
-      "word": "屈臣氏已暂时停售相关产品",
-      "onboard_time": 1742153654,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 163806,
-      "num": 61395,
-      "word": "金赛纶完全不知道7亿是走形式",
-      "onboard_time": 1742151135,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 163401,
@@ -3203,6 +3203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 113198,
+      "num": 113198,
+      "word": "王心凌回应4K画质热梗",
+      "onboard_time": 1742159234,
+      "rank": 9,
+      "category": "演出"
+    },
+    {
       "raw_hot": 111082,
       "num": 365629,
       "word": "网红为带货拉来小孩卖惨",
@@ -3379,14 +3387,6 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 91162,
-      "num": 91162,
-      "word": "王心凌回应4K画质热梗",
-      "onboard_time": 1742159234,
-      "rank": 9,
-      "category": "演出"
-    },
-    {
       "raw_hot": 90184,
       "num": 314313,
       "word": "多地连夜查处315晚会曝光问题",
@@ -3409,6 +3409,14 @@
       "onboard_time": 1742055805,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 85051,
+      "num": 85051,
+      "word": "哪吒2破5后还在冲",
+      "onboard_time": 1742149036,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 82052,
@@ -3513,14 +3521,6 @@
       "onboard_time": 1742097983,
       "rank": 17,
       "category": "体育,时尚"
-    },
-    {
-      "raw_hot": 66995,
-      "num": 66995,
-      "word": "哪吒2破5后还在冲",
-      "onboard_time": 1742149036,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 66693,
@@ -3651,6 +3651,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 49854,
+      "num": 62312,
+      "word": "啄木鸟抽成比其他平台高两到三倍",
+      "onboard_time": 1742162894,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49221,
       "num": 725184,
       "word": "广西调查非标电线电缆问题涉事企业",
@@ -3713,6 +3721,14 @@
       "onboard_time": 1742108602,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 40436,
+      "num": 40436,
+      "word": "退货被店家说买不起就别买平台赔300元",
+      "onboard_time": 1742156534,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39093,
@@ -3785,14 +3801,6 @@
       "onboard_time": 1742069774,
       "rank": 41,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 35102,
-      "num": 35102,
-      "word": "退货被店家说买不起就别买平台赔300元",
-      "onboard_time": 1742156534,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 34988,
@@ -3947,6 +3955,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 22536,
+      "num": 29521,
+      "word": "1分钟速览315晚会曝光名单",
+      "onboard_time": 1742157554,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22467,
       "num": 322841,
       "word": "失联复旦男博士溺水身亡排除刑案",
@@ -3955,19 +3971,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21459,
-      "num": 21459,
-      "word": "1分钟速览315晚会曝光名单",
-      "onboard_time": 1742157554,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 20652,
       "num": 38877,
       "word": "重庆通报啄木鸟公司调查情况",
       "onboard_time": 1742146338,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19236,
+      "num": 172061,
+      "word": "花开神州春意浓",
+      "onboard_time": 1742136323,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -3993,14 +4009,6 @@
       "onboard_time": 1742066355,
       "rank": 35,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 16672,
-      "num": 122569,
-      "word": "花开神州春意浓",
-      "onboard_time": 1742136323,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16245,
@@ -4032,14 +4040,6 @@
       "word": "卫生巾都因为哪些问题爆过雷",
       "onboard_time": 1742149694,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12384,
-      "num": 62312,
-      "word": "啄木鸟抽成比其他平台高两到三倍",
-      "onboard_time": 1742162894,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
