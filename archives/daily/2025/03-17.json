@@ -1,6 +1,6 @@
 {
   "startTime": 1742142428647,
-  "endTime": 1742150644640,
+  "endTime": 1742152696652,
   "band_list": [
     {
       "raw_hot": 1480089,
@@ -227,6 +227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155094,
+      "num": 42260,
+      "word": "金赛纶完全不知道7亿是走形式",
+      "onboard_time": 1742151135,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147616,
       "num": 147616,
       "word": "孙颖莎胜陈幸同夺冠",
@@ -435,20 +443,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 66995,
+      "num": 66995,
+      "word": "哪吒2破5后还在冲",
+      "onboard_time": 1742149036,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 62000,
       "num": 162869,
       "word": "我国将让AI算力像用电一样方便",
       "onboard_time": 1742145137,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 55275,
-      "num": 55275,
-      "word": "哪吒2破5后还在冲",
-      "onboard_time": 1742149036,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 51295,
@@ -515,11 +523,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18679,
+      "num": 18679,
+      "word": "很努力了但仍然很焦虑怎么办",
+      "onboard_time": 1742149995,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 18597,
+      "num": 41654,
+      "word": "劣质卫生巾工厂被查处现场",
+      "onboard_time": 1742151434,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12687,
       "num": 35178,
       "word": "卫生巾都因为哪些问题爆过雷",
       "onboard_time": 1742149694,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9797,
+      "num": 116310,
+      "word": "花开神州春意浓",
+      "onboard_time": 1742136323,
+      "rank": 2,
       "category": "民生新闻"
     }
   ],
