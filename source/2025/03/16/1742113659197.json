@@ -1,0 +1,410 @@
+{
+  "runTime": 1742113659197,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 810826,
+        "num": 1129732,
+        "word": "315名单",
+        "onboard_time": 1742044291,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1111318,
+        "num": 1111318,
+        "word": "阚清子希望尽快恢复正常体重",
+        "onboard_time": 1742109202,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30699,
+        "num": 846405,
+        "word": "跟着文物去春游",
+        "onboard_time": 1742102843,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 804445,
+        "num": 804445,
+        "word": "屈臣氏回应郭晓婷购买内裤有霉斑",
+        "onboard_time": 1742101882,
+        "rank": 3,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 600070,
+        "num": 600070,
+        "word": "315记者为取证吃到吐",
+        "onboard_time": 1742094742,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 563852,
+        "num": 563852,
+        "word": "与辉同行声明",
+        "onboard_time": 1742110462,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 673525,
+        "num": 558405,
+        "word": "刁蛮公主翻拍了",
+        "onboard_time": 1742098042,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 543402,
+        "num": 543402,
+        "word": "谢爸爸兑现承诺送儿子奔驰",
+        "onboard_time": 1742107163,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 488533,
+        "num": 488533,
+        "word": "五问李嘉诚有没有考虑国家利益",
+        "onboard_time": 1742098582,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 473420,
+        "num": 473420,
+        "word": "买房剩下二楼和顶楼应该怎么选",
+        "onboard_time": 1742110042,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1447255,
+        "num": 470138,
+        "word": "情侣住民宿被偷拍传到境外网站",
+        "onboard_time": 1742108121,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 654961,
+        "num": 466655,
+        "word": "金赛纶金秀贤只在家中约会",
+        "onboard_time": 1742097742,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458032,
+        "num": 458032,
+        "word": "张本智和回应不敌王楚钦",
+        "onboard_time": 1742112082,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 451425,
+        "num": 451425,
+        "word": "央视曝光AI假冒名人明星",
+        "onboard_time": 1742111301,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 442486,
+        "num": 442486,
+        "word": "315晚会",
+        "onboard_time": 1742038885,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381907,
+        "num": 381907,
+        "word": "刁蛮公主定妆照",
+        "onboard_time": 1742111721,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 368129,
+        "num": 368129,
+        "word": "央视起底黑公关",
+        "onboard_time": 1742090004,
+        "rank": 16,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 325018,
+        "num": 325018,
+        "word": "翻新卫生巾",
+        "onboard_time": 1742040988,
+        "rank": 17,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 176398,
+        "num": 324764,
+        "word": "国产AI横评",
+        "onboard_time": 1742110823,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 45454,
+        "num": 324192,
+        "word": "林诗栋展望决赛对阵王楚钦",
+        "onboard_time": 1742112862,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 472776,
+        "num": 324142,
+        "word": "金赛纶超短发",
+        "onboard_time": 1742112561,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344380,
+        "num": 323483,
+        "word": "夫妻花18万做试管婴儿遭切除输卵管",
+        "onboard_time": 1742111901,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323289,
+        "num": 323289,
+        "word": "韩媒再为金秀贤发声",
+        "onboard_time": 1742101882,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286281,
+        "num": 286281,
+        "word": "美154公斤女子压死10岁养子被判6年",
+        "onboard_time": 1742105603,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 245639,
+        "num": 245639,
+        "word": "赛琳娜低价出售男友送的钻戒",
+        "onboard_time": 1742101523,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218678,
+        "num": 218678,
+        "word": "老公去世短视频最后为了卖洗发水",
+        "onboard_time": 1742091204,
+        "rank": 25,
+        "category": "民生新闻,情感"
+      },
+      {
+        "raw_hot": 197281,
+        "num": 197281,
+        "word": "陈赫不语只是一味替陈建斌挡吃的",
+        "onboard_time": 1742105483,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190012,
+        "num": 190012,
+        "word": "何老师你就宠杨洋吧",
+        "onboard_time": 1742112801,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174083,
+        "num": 174083,
+        "word": "郭晓婷买发霉内裤疑为屈臣氏",
+        "onboard_time": 1742108182,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163519,
+        "num": 163519,
+        "word": "嘘国王在冬眠雪崩",
+        "onboard_time": 1742104222,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153548,
+        "num": 153548,
+        "word": "短道速滑世锦赛",
+        "onboard_time": 1742113042,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137026,
+        "num": 152448,
+        "word": "浪莎再次声明",
+        "onboard_time": 1742112981,
+        "rank": 31,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 151537,
+        "num": 151537,
+        "word": "一次性内裤爆雷",
+        "onboard_time": 1742042250,
+        "rank": 32,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 108188,
+        "num": 151472,
+        "word": "赵樱子说喜欢林更新",
+        "onboard_time": 1742107581,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151436,
+        "num": 151436,
+        "word": "土耳其600斤吃播网红因病去世",
+        "onboard_time": 1742107941,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 150542,
+        "num": 150542,
+        "word": "9块9每升的椰子水安全吗",
+        "onboard_time": 1742101703,
+        "rank": 35,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 138394,
+        "num": 138394,
+        "word": "王楚钦vs张本智和",
+        "onboard_time": 1742102605,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134162,
+        "num": 134162,
+        "word": "方圆脸审美变迁",
+        "onboard_time": 1742109742,
+        "rank": 37,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 117035,
+        "num": 131907,
+        "word": "风月不相关 杨超越",
+        "onboard_time": 1742113582,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131779,
+        "num": 131779,
+        "word": "啄木鸟六点整改措施",
+        "onboard_time": 1742113163,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128266,
+        "num": 128266,
+        "word": "315爆雷的是他们破防的是我",
+        "onboard_time": 1742106742,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127754,
+        "num": 127754,
+        "word": "与辉同行涉事冷冻虾仁退一赔三",
+        "onboard_time": 1742111183,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125954,
+        "num": 125954,
+        "word": "张博恒奥运会后第一次参赛",
+        "onboard_time": 1742110042,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125666,
+        "num": 125666,
+        "word": "中国女留学生在米兰夺回被抢的手机",
+        "onboard_time": 1742110642,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119466,
+        "num": 119466,
+        "word": "羽衣甘蓝 难吃",
+        "onboard_time": 1742102484,
+        "rank": 44,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 118816,
+        "num": 118816,
+        "word": "天雷卫生巾我好怕怕",
+        "onboard_time": 1742104703,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118250,
+        "num": 118250,
+        "word": "泸州油纸伞撑起头顶上的风景",
+        "onboard_time": 1742112981,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 108778,
+        "num": 108778,
+        "word": "短道速滑",
+        "onboard_time": 1742107941,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106527,
+        "num": 106527,
+        "word": "雷军的粉丝构成还是太全面了",
+        "onboard_time": 1742113582,
+        "rank": 48,
+        "category": "综艺,互联网"
+      },
+      {
+        "raw_hot": 42886,
+        "num": 103886,
+        "word": "何小鹏说夸克是AI时代超级入口",
+        "onboard_time": 1742108782,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#以文化赋能经济社会发展#"
+    }
+  }
+}
