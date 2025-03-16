@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1742094765402,
+  "endTime": 1742096910571,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -2115,6 +2115,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 2806226,
+      "num": 2806226,
+      "word": "315记者为取证吃到吐",
+      "onboard_time": 1742094742,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2805866,
       "num": 1016965,
       "word": "何凯文实际成绩71分",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1739712443,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2654811,
-      "num": 545085,
-      "word": "戚薇眼睛",
-      "onboard_time": 1740925941,
-      "rank": 12,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

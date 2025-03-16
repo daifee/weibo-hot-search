@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742094765402,
+  "endTime": 1742096910571,
   "band_list": [
     {
       "raw_hot": 9740375,
@@ -25,6 +25,14 @@
       "onboard_time": 1742052569,
       "rank": 3,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 2806226,
+      "num": 2806226,
+      "word": "315记者为取证吃到吐",
+      "onboard_time": 1742094742,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2798471,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 1868323,
-      "num": 1296299,
+      "num": 1326489,
       "word": "韩安冉因整容过度鼻子呼吸不畅",
       "onboard_time": 1742089883,
       "rank": 40,
@@ -115,6 +123,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1259553,
+      "num": 740913,
+      "word": "金秀贤金赛纶恋爱次日画面",
+      "onboard_time": 1742093663,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1216793,
       "num": 1216793,
       "word": "央视起底黑公关",
@@ -129,14 +145,6 @@
       "onboard_time": 1742038885,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1139430,
-      "num": 632244,
-      "word": "金秀贤金赛纶恋爱次日画面",
-      "onboard_time": 1742093663,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 1018893,
@@ -331,6 +339,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 458527,
+      "num": 458527,
+      "word": "昭昭墨墨合体耀客新剧发布会",
+      "onboard_time": 1742094564,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 441836,
       "num": 441836,
       "word": "许府牛",
@@ -371,6 +387,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 401361,
+      "num": 401361,
+      "word": "班味好重的订婚宴",
+      "onboard_time": 1742093604,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 380242,
       "num": 380242,
       "word": "刘宪华换发型了",
@@ -393,6 +417,14 @@
       "onboard_time": 1742042610,
       "rank": 31,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 361388,
+      "num": 668185,
+      "word": "孙颖莎vs王艺迪",
+      "onboard_time": 1742093784,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 351541,
@@ -435,12 +467,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 309527,
-      "num": 309527,
-      "word": "班味好重的订婚宴",
-      "onboard_time": 1742093604,
-      "rank": 36,
-      "category": "幽默"
+      "raw_hot": 306633,
+      "num": 612366,
+      "word": "315当晚9省市连夜执法",
+      "onboard_time": 1742093843,
+      "rank": 42,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 305259,
@@ -563,12 +595,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 234393,
+      "num": 442228,
+      "word": "杨洋把杨迪泼溺水了",
+      "onboard_time": 1742094142,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229257,
       "num": 229257,
       "word": "女校",
       "onboard_time": 1742093123,
       "rank": 31,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 223287,
+      "num": 396549,
+      "word": "冰湖重生",
+      "onboard_time": 1742094323,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 218348,
@@ -583,14 +631,6 @@
       "num": 217954,
       "word": "借贷宝成都总部大门已被贴封条",
       "onboard_time": 1742072234,
-      "rank": 42,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 209074,
-      "num": 612366,
-      "word": "315当晚9省市连夜执法",
-      "onboard_time": 1742093843,
       "rank": 42,
       "category": "舆论监督"
     },
@@ -627,6 +667,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 200460,
+      "num": 200460,
+      "word": "孙颖莎9比11王艺迪",
+      "onboard_time": 1742096841,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199506,
       "num": 334557,
       "word": "315点名啄木鸟",
@@ -659,28 +707,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 191769,
-      "num": 383051,
-      "word": "昭昭墨墨合体耀客新剧发布会",
-      "onboard_time": 1742094564,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 190528,
       "num": 190528,
       "word": "嫚熙再回应",
       "onboard_time": 1742085862,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 189318,
-      "num": 396549,
-      "word": "冰湖重生",
-      "onboard_time": 1742094323,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 189298,
@@ -699,28 +731,20 @@
       "category": "互联网,民生新闻"
     },
     {
-      "raw_hot": 181528,
-      "num": 336227,
-      "word": "杨洋把杨迪泼溺水了",
-      "onboard_time": 1742094142,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 173565,
-      "num": 668185,
-      "word": "孙颖莎vs王艺迪",
-      "onboard_time": 1742093784,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 173201,
       "num": 236300,
       "word": "你好星期六下期预告",
       "onboard_time": 1742049153,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170442,
+      "num": 311537,
+      "word": "韦雪说前夫忘不掉她",
+      "onboard_time": 1742091564,
+      "rank": 28,
+      "category": "网红"
     },
     {
       "raw_hot": 165651,
@@ -731,20 +755,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156785,
+      "num": 222912,
+      "word": "问界新M5Ultra首发评测",
+      "onboard_time": 1742095463,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 154999,
+      "num": 154999,
+      "word": "谁家剧藏了这么多影帝影后",
+      "onboard_time": 1742096722,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154690,
       "num": 260014,
       "word": "TF家族",
       "onboard_time": 1742057003,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 150708,
-      "num": 232052,
-      "word": "韦雪说前夫忘不掉她",
-      "onboard_time": 1742091564,
-      "rank": 28,
-      "category": "网红"
     },
     {
       "raw_hot": 149989,
@@ -755,16 +787,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148436,
-      "num": 148436,
-      "word": "315记者为取证吃到吐",
-      "onboard_time": 1742094742,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 148743,
+      "num": 148743,
+      "word": "尼克斯vs勇士",
+      "onboard_time": 1742095763,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 136312,
-      "num": 1297927,
+      "num": 1803495,
       "word": "烟雨漓江将中国水墨画具象化了",
       "onboard_time": 1742050532,
       "rank": 2,
@@ -891,6 +923,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 90184,
+      "num": 314313,
+      "word": "多地连夜查处315晚会曝光问题",
+      "onboard_time": 1742091804,
+      "rank": 25,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 85332,
       "num": 231444,
       "word": "按摩这2个穴位调理脾胃",
@@ -921,6 +961,22 @@
       "onboard_time": 1742087483,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 68667,
+      "num": 630491,
+      "word": "王艺迪连赢两局",
+      "onboard_time": 1742096183,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 67916,
+      "num": 285075,
+      "word": "中亿孕婴童已报案",
+      "onboard_time": 1742096782,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66693,
@@ -961,6 +1017,14 @@
       "onboard_time": 1742061557,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 51655,
+      "num": 762490,
+      "word": "美国在中东再燃战火",
+      "onboard_time": 1742096363,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 51343,
@@ -1073,6 +1137,14 @@
       "onboard_time": 1742072594,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 30205,
+      "num": 134425,
+      "word": "广西调查非标电线电缆问题涉事企业",
+      "onboard_time": 1742096423,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29668,
