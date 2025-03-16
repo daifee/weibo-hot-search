@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742117736367,
+  "endTime": 1742120597682,
   "band_list": [
     {
       "raw_hot": 9740375,
@@ -203,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1137359,
+      "num": 440755,
+      "word": "海底捞小便事件门店客流锐减",
+      "onboard_time": 1742115142,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1111318,
       "num": 1111318,
       "word": "阚清子希望尽快恢复正常体重",
@@ -219,11 +227,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 991817,
-      "num": 404881,
-      "word": "海底捞小便事件门店客流锐减",
-      "onboard_time": 1742115142,
-      "rank": 17,
+      "raw_hot": 997732,
+      "num": 1159637,
+      "word": "啄木鸟连续两年315道歉",
+      "onboard_time": 1742116523,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -265,6 +273,14 @@
       "onboard_time": 1742047233,
       "rank": 15,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 930755,
+      "num": 438678,
+      "word": "金秀贤代言被撕",
+      "onboard_time": 1742118502,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 912276,
@@ -331,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 787167,
+      "num": 596163,
+      "word": "阿衰 快乐没有结局",
+      "onboard_time": 1742113701,
+      "rank": 3,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 748377,
       "num": 748377,
       "word": "孙颖莎vs王艺迪",
@@ -363,6 +387,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 606536,
+      "num": 606536,
+      "word": "三大运营商回应通信电话营销报道",
+      "onboard_time": 1742118202,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 596078,
       "num": 596078,
       "word": "全棉时代 奈丝公主",
@@ -385,6 +417,14 @@
       "onboard_time": 1742102484,
       "rank": 33,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 586406,
+      "num": 357479,
+      "word": "终于明白我妈为什么常年90斤了",
+      "onboard_time": 1742116462,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 585332,
@@ -433,6 +473,14 @@
       "onboard_time": 1742112082,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 555890,
+      "num": 555890,
+      "word": "近视眼秒懂",
+      "onboard_time": 1742118382,
+      "rank": 6,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 554096,
@@ -627,6 +675,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 426395,
+      "num": 426395,
+      "word": "网红太原老葛团队成员葛某贝被刑拘",
+      "onboard_time": 1742114842,
+      "rank": 25,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 420624,
       "num": 884345,
       "word": "王力宏掀了演唱会天花板",
@@ -683,20 +739,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 377441,
-      "num": 377441,
-      "word": "啄木鸟连续两年315道歉",
-      "onboard_time": 1742116523,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 368182,
       "num": 392991,
       "word": "嘘国王在冬眠雪崩",
       "onboard_time": 1742104222,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 366135,
+      "num": 366135,
+      "word": "金智媛现身aespa演唱会",
+      "onboard_time": 1742118261,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 363841,
@@ -723,12 +779,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 355519,
-      "num": 237211,
-      "word": "终于明白我妈为什么常年90斤了",
-      "onboard_time": 1742116462,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 354174,
+      "num": 357595,
+      "word": "主持人张蕾怒斥心脏看什么都脏",
+      "onboard_time": 1742118923,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 351541,
@@ -939,14 +995,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 263555,
-      "num": 263555,
-      "word": "网红太原老葛团队成员葛某贝被刑拘",
-      "onboard_time": 1742114842,
-      "rank": 25,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 262401,
       "num": 490914,
       "word": "孙颖莎回应逆转王艺迪",
@@ -993,6 +1041,14 @@
       "onboard_time": 1742097383,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 242832,
+      "num": 242832,
+      "word": "戚薇怼脸生图状态",
+      "onboard_time": 1742118800,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 240979,
@@ -1179,6 +1235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 203324,
+      "num": 203324,
+      "word": "张晚意拍了4天的下跪戏来了",
+      "onboard_time": 1742118202,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202096,
       "num": 833109,
       "word": "李佳琦直播间曾带货问题虾仁产品",
@@ -1299,6 +1363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 193834,
+      "num": 193834,
+      "word": "王楚钦看孙颖莎王艺迪比赛",
+      "onboard_time": 1742117303,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193584,
       "num": 400295,
       "word": "林诗栋4比1胜梁靖崑",
@@ -1393,6 +1465,14 @@
       "onboard_time": 1742101523,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184631,
+      "num": 184631,
+      "word": "中国短道队世锦赛5000米接力银牌",
+      "onboard_time": 1742120302,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 181011,
@@ -1523,6 +1603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 167280,
+      "num": 167280,
+      "word": "三大运营商已开展自查",
+      "onboard_time": 1742119462,
+      "rank": 41,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 165651,
       "num": 381222,
       "word": "米菲声明",
@@ -1571,6 +1659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158194,
+      "num": 202082,
+      "word": "种田文女主妆造",
+      "onboard_time": 1742116882,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156785,
       "num": 439721,
       "word": "问界新M5Ultra首发评测",
@@ -1595,6 +1691,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153175,
+      "num": 153175,
+      "word": "国内首个太空采矿机器人来了",
+      "onboard_time": 1742118624,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 150438,
+      "num": 150438,
+      "word": "特朗普强烈要求饶他们一命",
+      "onboard_time": 1742117782,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 150331,
       "num": 150331,
       "word": "孙颖莎说比赛中拼命想办法",
@@ -1604,7 +1716,7 @@
     },
     {
       "raw_hot": 150020,
-      "num": 150020,
+      "num": 172860,
       "word": "余茵说乖乖女火了以后特别开心",
       "onboard_time": 1742115564,
       "rank": 42,
@@ -1619,20 +1731,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 149524,
-      "num": 149524,
-      "word": "种田文女主妆造",
-      "onboard_time": 1742116882,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 148743,
       "num": 148743,
       "word": "尼克斯vs勇士",
       "onboard_time": 1742095763,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148583,
+      "num": 200965,
+      "word": "潘玮柏被自己的下颌线钓成翘嘴",
+      "onboard_time": 1742117303,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 145870,
@@ -1716,7 +1828,7 @@
     },
     {
       "raw_hot": 134447,
-      "num": 134447,
+      "num": 173230,
       "word": "新说唱2025",
       "onboard_time": 1742116282,
       "rank": 43,
@@ -1761,14 +1873,6 @@
       "onboard_time": 1742103202,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 130447,
-      "num": 130447,
-      "word": "潘玮柏被自己的下颌线钓成翘嘴",
-      "onboard_time": 1742117303,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 130271,
@@ -1843,6 +1947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121729,
+      "num": 121729,
+      "word": "韩庚说不能比卢靖姗先离世",
+      "onboard_time": 1742120542,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121467,
       "num": 611770,
       "word": "人人信回应被315晚会点名",
@@ -1873,14 +1985,6 @@
       "onboard_time": 1742102363,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 115802,
-      "num": 115802,
-      "word": "王楚钦看孙颖莎王艺迪比赛",
-      "onboard_time": 1742117303,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 115304,
@@ -2107,6 +2211,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 72493,
+      "num": 2046741,
+      "word": "故宫雪景大片",
+      "onboard_time": 1742102065,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72460,
       "num": 72460,
       "word": "卖增重虾仁公司负责人回应",
@@ -2139,6 +2251,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 63962,
+      "num": 174897,
+      "word": "6分钟夸克AI极速入门",
+      "onboard_time": 1742118022,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 63331,
       "num": 243868,
       "word": "用夸克给的攻略去悬崖过夜了",
@@ -2153,6 +2273,14 @@
       "onboard_time": 1742078055,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 59908,
+      "num": 197211,
+      "word": "阚清子黄晓明爆瘦果蔬汁",
+      "onboard_time": 1742120003,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 59011,
@@ -2247,14 +2375,6 @@
       "num": 1642532,
       "word": "跟着文物去春游",
       "onboard_time": 1742102843,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43658,
-      "num": 2046741,
-      "word": "故宫雪景大片",
-      "onboard_time": 1742102065,
       "rank": 2,
       "category": "民生新闻"
     },
@@ -2395,6 +2515,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 28829,
+      "num": 443207,
+      "word": "直播公司PUA主播满足金主各种要求",
+      "onboard_time": 1742119822,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 28424,
       "num": 28424,
       "word": "浪莎一次性内裤",
@@ -2427,12 +2555,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 23487,
+      "num": 429203,
+      "word": "翻新纸尿裤或致儿童尿路感染",
+      "onboard_time": 1742119881,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17475,
       "num": 51007,
       "word": "火爆热销的一次性内裤没有杀菌消毒",
       "onboard_time": 1742066355,
       "rank": 35,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 11959,
+      "num": 181857,
+      "word": "失联复旦男博士溺水身亡排除刑案",
+      "onboard_time": 1742120542,
+      "rank": 34,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
