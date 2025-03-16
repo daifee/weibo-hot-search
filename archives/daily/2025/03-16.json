@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742128863427,
+  "endTime": 1742129811185,
   "band_list": [
     {
       "raw_hot": 9740375,
@@ -27,8 +27,8 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 4437343,
-      "num": 4437343,
+      "raw_hot": 4703448,
+      "num": 5953448,
       "word": "王楚钦重庆赛夺冠",
       "onboard_time": 1742127505,
       "rank": 0,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 1720423,
-      "num": 423200,
+      "num": 568684,
       "word": "Angelababy直播",
       "onboard_time": 1742124863,
       "rank": 39,
@@ -177,6 +177,14 @@
       "onboard_time": 1742042250,
       "rank": 10,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 1570801,
+      "num": 1570801,
+      "word": "王楚钦孙颖莎冠军自拍",
+      "onboard_time": 1742129244,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1507262,
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 1221918,
-      "num": 431576,
+      "num": 460366,
       "word": "李镇浩发视频当天金赛纶自杀了6次",
       "onboard_time": 1742120721,
       "rank": 11,
@@ -257,6 +265,14 @@
       "onboard_time": 1742038885,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1139890,
+      "num": 545029,
+      "word": "金赛纶最新遗属",
+      "onboard_time": 1742129485,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1137359,
@@ -308,7 +324,7 @@
     },
     {
       "raw_hot": 1024683,
-      "num": 454109,
+      "num": 456740,
       "word": "阚清子黄晓明爆瘦果蔬汁",
       "onboard_time": 1742120003,
       "rank": 30,
@@ -467,6 +483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 746451,
+      "num": 746451,
+      "word": "WTT",
+      "onboard_time": 1742127923,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 727712,
       "num": 411054,
       "word": "金赛纶超短发",
@@ -483,6 +507,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 706058,
+      "num": 520273,
+      "word": "苗苗躺在郑恺怀里睡觉",
+      "onboard_time": 1742127263,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 674426,
       "num": 674426,
       "word": "陈赫不语只是一味替陈建斌挡吃的",
@@ -497,6 +529,14 @@
       "onboard_time": 1742053827,
       "rank": 32,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 610492,
+      "num": 610492,
+      "word": "王楚钦夺冠后比心是献给家人",
+      "onboard_time": 1742128644,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 609238,
@@ -771,14 +811,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 440782,
-      "num": 410541,
-      "word": "苗苗躺在郑恺怀里睡觉",
-      "onboard_time": 1742127263,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 439326,
       "num": 439326,
       "word": "中亿孕婴童已报案",
@@ -809,14 +841,6 @@
       "onboard_time": 1742051012,
       "rank": 26,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 427674,
-      "num": 427674,
-      "word": "WTT",
-      "onboard_time": 1742127923,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 426395,
@@ -860,7 +884,7 @@
     },
     {
       "raw_hot": 394220,
-      "num": 428673,
+      "num": 601487,
       "word": "田柾国 aespa演唱会",
       "onboard_time": 1742125524,
       "rank": 7,
@@ -979,6 +1003,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 342533,
+      "num": 587568,
+      "word": "近五年爆过雷的卫生巾品牌",
+      "onboard_time": 1742128045,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 337715,
       "num": 655834,
       "word": "徐睿知代言回归",
@@ -1035,6 +1067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 308329,
+      "num": 308329,
+      "word": "莎头男单女单冠军",
+      "onboard_time": 1742129425,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 306633,
       "num": 612366,
       "word": "315当晚9省市连夜执法",
@@ -1051,12 +1091,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 304305,
+      "num": 304305,
+      "word": "张本智和发文告别教练",
+      "onboard_time": 1742129485,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 304236,
       "num": 304236,
       "word": "自由点苏菲回应315曝翻新卫生巾",
       "onboard_time": 1742052689,
       "rank": 39,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 301822,
+      "num": 464410,
+      "word": "夏之光晒与翟潇闻赵让合照",
+      "onboard_time": 1742129244,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 301719,
@@ -1163,14 +1219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 269836,
-      "num": 269836,
-      "word": "王楚钦夺冠后比心是献给家人",
-      "onboard_time": 1742128644,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 269592,
       "num": 443207,
       "word": "直播公司PUA主播满足金主各种要求",
@@ -1241,6 +1289,14 @@
       "onboard_time": 1742102303,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 258415,
+      "num": 412848,
+      "word": "剧方回应翻拍刁蛮公主",
+      "onboard_time": 1742127444,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 256998,
@@ -1347,14 +1403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 237074,
-      "num": 412848,
-      "word": "剧方回应翻拍刁蛮公主",
-      "onboard_time": 1742127444,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 236695,
       "num": 755674,
       "word": "孙颖莎丢分拍脑袋",
@@ -1427,12 +1475,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 225114,
-      "num": 225114,
-      "word": "近五年爆过雷的卫生巾品牌",
-      "onboard_time": 1742128045,
+      "raw_hot": 225834,
+      "num": 225834,
+      "word": "王楚钦希望这个冠军给家人带来好运",
+      "onboard_time": 1742129244,
       "rank": 37,
-      "category": "民生新闻"
+      "category": "体育"
     },
     {
       "raw_hot": 224356,
@@ -1441,6 +1489,14 @@
       "onboard_time": 1742116223,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 223528,
+      "num": 309697,
+      "word": "熟悉的她 癫剧",
+      "onboard_time": 1742126904,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 223287,
@@ -1481,6 +1537,14 @@
       "onboard_time": 1742108662,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213640,
+      "num": 213640,
+      "word": "王楚钦采访",
+      "onboard_time": 1742128764,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 212151,
@@ -1675,12 +1739,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196355,
+      "num": 196355,
+      "word": "促进工资性收入合理增长",
+      "onboard_time": 1742123964,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 195754,
       "num": 195754,
       "word": "张博恒奥运会后第一次参赛",
       "onboard_time": 1742110042,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194855,
+      "num": 194855,
+      "word": "月亮",
+      "onboard_time": 1742129364,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194476,
@@ -1739,6 +1819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 191225,
+      "num": 191225,
+      "word": "孙颖莎夺冠现场放起莎啦啦",
+      "onboard_time": 1742126483,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190528,
       "num": 190528,
       "word": "嫚熙再回应",
@@ -1769,14 +1857,6 @@
       "onboard_time": 1742059760,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 189176,
-      "num": 189176,
-      "word": "促进工资性收入合理增长",
-      "onboard_time": 1742123964,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 188760,
@@ -1851,14 +1931,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 181721,
-      "num": 210376,
-      "word": "熟悉的她 癫剧",
-      "onboard_time": 1742126904,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 181011,
       "num": 181011,
       "word": "张本智和场下和田势教练抱头哭泣",
@@ -1899,14 +1971,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 177125,
-      "num": 177125,
-      "word": "王楚钦采访",
-      "onboard_time": 1742128764,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 177055,
       "num": 604625,
       "word": "被宋妍霏曲膝礼这一下苏到",
@@ -1929,14 +1993,6 @@
       "onboard_time": 1742110823,
       "rank": 18,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 176038,
-      "num": 176038,
-      "word": "孙颖莎夺冠现场放起莎啦啦",
-      "onboard_time": 1742126483,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 175341,
@@ -2195,12 +2251,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147235,
+      "num": 472944,
+      "word": "郭新娃陈芳卉首夺全英冠军",
+      "onboard_time": 1742129364,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 146155,
+      "num": 462758,
+      "word": "蛋糕店的蛋糕尺寸足不足",
+      "onboard_time": 1742128223,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146146,
       "num": 269102,
       "word": "创造营亚洲2二公合作舞台",
       "onboard_time": 1742122823,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145938,
+      "num": 460816,
+      "word": "汤唯亚洲电影大奖红毯",
+      "onboard_time": 1742129364,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 145870,
@@ -2241,6 +2321,14 @@
       "onboard_time": 1742110642,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140155,
+      "num": 188871,
+      "word": "难哄最先哄的是自己",
+      "onboard_time": 1742129065,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 139785,
@@ -2523,6 +2611,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 103196,
+      "num": 461854,
+      "word": "在日本偶遇邓超孙俪一家游玩",
+      "onboard_time": 1742123722,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102946,
       "num": 102946,
       "word": "2025f1澳大利亚大奖赛",
@@ -2577,6 +2673,14 @@
       "onboard_time": 1742060418,
       "rank": 30,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 93642,
+      "num": 462527,
+      "word": "希望王曼昱早日康复",
+      "onboard_time": 1742128343,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 93262,
@@ -2659,28 +2763,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 80826,
-      "num": 412332,
-      "word": "蛋糕店的蛋糕尺寸足不足",
-      "onboard_time": 1742128223,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 80349,
       "num": 253029,
       "word": "刘宪华雨中拉小提琴的氛围感",
       "onboard_time": 1742097742,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 78540,
-      "num": 240448,
-      "word": "在日本偶遇邓超孙俪一家游玩",
-      "onboard_time": 1742123722,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 77152,
@@ -2761,14 +2849,6 @@
       "onboard_time": 1742063177,
       "rank": 45,
       "category": "教育"
-    },
-    {
-      "raw_hot": 57402,
-      "num": 411802,
-      "word": "希望王曼昱早日康复",
-      "onboard_time": 1742128343,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 54334,
@@ -2980,7 +3060,7 @@
     },
     {
       "raw_hot": 33120,
-      "num": 1484653,
+      "num": 1540037,
       "word": "春天的声音像一场演唱会",
       "onboard_time": 1742120901,
       "rank": 2,
@@ -3067,12 +3147,20 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 12167,
-      "num": 412127,
+      "raw_hot": 13580,
+      "num": 463889,
       "word": "周冠宇plog记录F1澳洲站",
       "onboard_time": 1742128343,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 6969,
+      "num": 194245,
+      "word": "五年失眠党被AI治好了",
+      "onboard_time": 1742129724,
+      "rank": 45,
+      "category": "互联网"
     }
   ],
   "hotgov_list": [

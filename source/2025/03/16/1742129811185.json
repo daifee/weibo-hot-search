@@ -1,0 +1,410 @@
+{
+  "runTime": 1742129811185,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4703448,
+        "num": 5953448,
+        "word": "王楚钦重庆赛夺冠",
+        "onboard_time": 1742127505,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1570801,
+        "num": 1570801,
+        "word": "王楚钦孙颖莎冠军自拍",
+        "onboard_time": 1742129244,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30836,
+        "num": 1540037,
+        "word": "春天的声音像一场演唱会",
+        "onboard_time": 1742120901,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1525982,
+        "num": 1525982,
+        "word": "王楚钦比心",
+        "onboard_time": 1742127804,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1023618,
+        "num": 1023618,
+        "word": "孙颖莎明天还要赶往下一个比赛",
+        "onboard_time": 1742126483,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 990965,
+        "num": 990965,
+        "word": "郑恺跑男断掉全勤是因为陪产",
+        "onboard_time": 1742123422,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 746451,
+        "num": 746451,
+        "word": "WTT",
+        "onboard_time": 1742127923,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 610492,
+        "num": 610492,
+        "word": "王楚钦夺冠后比心是献给家人",
+        "onboard_time": 1742128644,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 321652,
+        "num": 601487,
+        "word": "田柾国 aespa演唱会",
+        "onboard_time": 1742125524,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 342533,
+        "num": 587568,
+        "word": "近五年爆过雷的卫生巾品牌",
+        "onboard_time": 1742128045,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1462920,
+        "num": 568684,
+        "word": "Angelababy直播",
+        "onboard_time": 1742124863,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1139890,
+        "num": 545029,
+        "word": "金赛纶最新遗属",
+        "onboard_time": 1742129485,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 706058,
+        "num": 520273,
+        "word": "苗苗躺在郑恺怀里睡觉",
+        "onboard_time": 1742127263,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 645328,
+        "num": 493456,
+        "word": "金秀贤被曝把年龄改小2岁",
+        "onboard_time": 1742120661,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147235,
+        "num": 472944,
+        "word": "郭新娃陈芳卉首夺全英冠军",
+        "onboard_time": 1742129364,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 464523,
+        "num": 464523,
+        "word": "王楚钦vs林诗栋",
+        "onboard_time": 1742124443,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 301822,
+        "num": 464410,
+        "word": "夏之光晒与翟潇闻赵让合照",
+        "onboard_time": 1742129244,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13580,
+        "num": 463889,
+        "word": "周冠宇plog记录F1澳洲站",
+        "onboard_time": 1742128343,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146155,
+        "num": 462758,
+        "word": "蛋糕店的蛋糕尺寸足不足",
+        "onboard_time": 1742128223,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93642,
+        "num": 462527,
+        "word": "希望王曼昱早日康复",
+        "onboard_time": 1742128343,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103196,
+        "num": 461854,
+        "word": "在日本偶遇邓超孙俪一家游玩",
+        "onboard_time": 1742123722,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145938,
+        "num": 460816,
+        "word": "汤唯亚洲电影大奖红毯",
+        "onboard_time": 1742129364,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 830954,
+        "num": 460366,
+        "word": "李镇浩发视频当天金赛纶自杀了6次",
+        "onboard_time": 1742120721,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460100,
+        "num": 460100,
+        "word": "美宇航员滞留太空9个月盼来飞船了",
+        "onboard_time": 1742122461,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 456740,
+        "num": 456740,
+        "word": "阚清子黄晓明爆瘦果蔬汁",
+        "onboard_time": 1742120003,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414116,
+        "num": 414116,
+        "word": "孙颖莎胜陈幸同夺冠",
+        "onboard_time": 1742124144,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 385595,
+        "num": 385595,
+        "word": "啄木鸟连续两年315道歉",
+        "onboard_time": 1742116523,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 348075,
+        "num": 348075,
+        "word": "情侣住民宿被偷拍传到境外网站",
+        "onboard_time": 1742108121,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258415,
+        "num": 322709,
+        "word": "剧方回应翻拍刁蛮公主",
+        "onboard_time": 1742127444,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223528,
+        "num": 309697,
+        "word": "熟悉的她 癫剧",
+        "onboard_time": 1742126904,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308329,
+        "num": 308329,
+        "word": "莎头男单女单冠军",
+        "onboard_time": 1742129425,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304305,
+        "num": 304305,
+        "word": "张本智和发文告别教练",
+        "onboard_time": 1742129485,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279843,
+        "num": 279843,
+        "word": "主持人张蕾怒斥心脏看什么都脏",
+        "onboard_time": 1742118923,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237120,
+        "num": 237120,
+        "word": "提振消费专项行动方案印发",
+        "onboard_time": 1742121143,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 178924,
+        "num": 235781,
+        "word": "孟子义何与领衔主演百花杀",
+        "onboard_time": 1742124144,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235161,
+        "num": 235161,
+        "word": "山西发布319重大交通事故调查报告",
+        "onboard_time": 1742122222,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229132,
+        "num": 229132,
+        "word": "最隐私的部位需要最透明的安全",
+        "onboard_time": 1742123603,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225834,
+        "num": 225834,
+        "word": "王楚钦希望这个冠军给家人带来好运",
+        "onboard_time": 1742129244,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219549,
+        "num": 219549,
+        "word": "315记者为取证吃到吐",
+        "onboard_time": 1742094742,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179422,
+        "num": 214629,
+        "word": "权志龙跳Whiplash",
+        "onboard_time": 1742123722,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213640,
+        "num": 213640,
+        "word": "王楚钦采访",
+        "onboard_time": 1742128764,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199381,
+        "num": 199381,
+        "word": "杨紫今日下班",
+        "onboard_time": 1742125524,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197236,
+        "num": 197236,
+        "word": "年轻人重新养自己到底是在养什么",
+        "onboard_time": 1742126543,
+        "rank": 42,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 196355,
+        "num": 196355,
+        "word": "促进工资性收入合理增长",
+        "onboard_time": 1742123964,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 194855,
+        "num": 194855,
+        "word": "月亮",
+        "onboard_time": 1742129364,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6969,
+        "num": 194245,
+        "word": "五年失眠党被AI治好了",
+        "onboard_time": 1742129724,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 193975,
+        "num": 193975,
+        "word": "鼓励带薪年休假与小长假连休",
+        "onboard_time": 1742123783,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191225,
+        "num": 191225,
+        "word": "孙颖莎夺冠现场放起莎啦啦",
+        "onboard_time": 1742126483,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140155,
+        "num": 188871,
+        "word": "难哄最先哄的是自己",
+        "onboard_time": 1742129065,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188820,
+        "num": 188820,
+        "word": "今年新增1500亿元支持以旧换新",
+        "onboard_time": 1742121443,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#稳步扩大制度型开放#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1742128863427,
+  "endTime": 1742129811185,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -803,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 4703448,
+      "num": 5953448,
+      "word": "王楚钦重庆赛夺冠",
+      "onboard_time": 1742127505,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 4677462,
       "num": 1120495,
       "word": "陈晓陈妍希 今后各自安好",
@@ -881,14 +889,6 @@
       "onboard_time": 1738069063,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 4437343,
-      "num": 4437343,
-      "word": "王楚钦重庆赛夺冠",
-      "onboard_time": 1742127505,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 4416500,
