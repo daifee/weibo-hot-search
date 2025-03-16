@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742160953416,
+  "endTime": 1742163667201,
   "band_list": [
     {
       "raw_hot": 9740375,
@@ -2539,8 +2539,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164431,
+      "num": 164431,
+      "word": "屈臣氏已暂时停售相关产品",
+      "onboard_time": 1742153654,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163806,
-      "num": 42260,
+      "num": 61395,
       "word": "金赛纶完全不知道7亿是走形式",
       "onboard_time": 1742151135,
       "rank": 10,
@@ -3091,14 +3099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 125792,
-      "num": 125792,
-      "word": "屈臣氏已暂时停售相关产品",
-      "onboard_time": 1742153654,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125134,
       "num": 304936,
       "word": "白敬亭章若楠杀青dv",
@@ -3377,6 +3377,14 @@
       "onboard_time": 1742123002,
       "rank": 28,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 91162,
+      "num": 91162,
+      "word": "王心凌回应4K画质热梗",
+      "onboard_time": 1742159234,
+      "rank": 9,
+      "category": "演出"
     },
     {
       "raw_hot": 90184,
@@ -3707,14 +3715,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 39372,
-      "num": 39372,
-      "word": "王心凌回应4K画质热梗",
-      "onboard_time": 1742159234,
-      "rank": 9,
-      "category": "演出"
-    },
-    {
       "raw_hot": 39093,
       "num": 39093,
       "word": "贝姿妍",
@@ -3785,6 +3785,14 @@
       "onboard_time": 1742069774,
       "rank": 41,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 35102,
+      "num": 35102,
+      "word": "退货被店家说买不起就别买平台赔300元",
+      "onboard_time": 1742156534,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34988,
@@ -3899,14 +3907,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 26821,
-      "num": 26821,
-      "word": "退货被店家说买不起就别买平台赔300元",
-      "onboard_time": 1742156534,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 25979,
       "num": 79959,
       "word": "食用保水虾仁或致心血管疾病",
@@ -3955,6 +3955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21459,
+      "num": 21459,
+      "word": "1分钟速览315晚会曝光名单",
+      "onboard_time": 1742157554,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20652,
       "num": 38877,
       "word": "重庆通报啄木鸟公司调查情况",
@@ -3963,12 +3971,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18782,
-      "num": 18782,
-      "word": "1分钟速览315晚会曝光名单",
-      "onboard_time": 1742157554,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 18711,
+      "num": 20475,
+      "word": "尾气不合格司机可能吸自己车尾气",
+      "onboard_time": 1742161154,
+      "rank": 49,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 18679,
@@ -3985,6 +3993,14 @@
       "onboard_time": 1742066355,
       "rank": 35,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 16672,
+      "num": 122569,
+      "word": "花开神州春意浓",
+      "onboard_time": 1742136323,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16245,
@@ -4011,19 +4027,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 13016,
-      "num": 116310,
-      "word": "花开神州春意浓",
-      "onboard_time": 1742136323,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 12687,
       "num": 35178,
       "word": "卫生巾都因为哪些问题爆过雷",
       "onboard_time": 1742149694,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12384,
+      "num": 62312,
+      "word": "啄木鸟抽成比其他平台高两到三倍",
+      "onboard_time": 1742162894,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
