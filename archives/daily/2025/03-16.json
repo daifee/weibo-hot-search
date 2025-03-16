@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742100188025,
+  "endTime": 1742102496268,
   "band_list": [
     {
       "raw_hot": 9740375,
@@ -33,6 +33,14 @@
       "onboard_time": 1742094742,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2843826,
+      "num": 2843826,
+      "word": "王曼昱退赛",
+      "onboard_time": 1742101644,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 2798471,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 1821904,
-      "num": 750917,
+      "num": 1110599,
       "word": "金赛纶金秀贤只在家中约会",
       "onboard_time": 1742097742,
       "rank": 10,
@@ -155,6 +163,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1197908,
+      "num": 1197908,
+      "word": "五问李嘉诚有没有考虑国家利益",
+      "onboard_time": 1742098582,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1181663,
       "num": 1181663,
       "word": "315晚会",
@@ -201,6 +217,14 @@
       "onboard_time": 1742054668,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 842894,
+      "num": 688353,
+      "word": "韩媒再为金秀贤发声",
+      "onboard_time": 1742101882,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 829491,
@@ -267,6 +291,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 594252,
+      "num": 1568850,
+      "word": "朱颜曼滋在北大上课",
+      "onboard_time": 1742101104,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 585332,
       "num": 585332,
       "word": "九田家烤肉被曝光门店店长称很惭愧",
@@ -284,7 +316,7 @@
     },
     {
       "raw_hot": 553809,
-      "num": 767129,
+      "num": 1290005,
       "word": "好的一次性内裤有两个标准",
       "onboard_time": 1742092103,
       "rank": 9,
@@ -323,20 +355,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 511198,
+      "num": 511198,
+      "word": "陈幸同vs王曼昱",
+      "onboard_time": 1742099363,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 503304,
       "num": 503304,
       "word": "网友在雷军评论区刷屏小米做卫生巾",
       "onboard_time": 1742091084,
       "rank": 42,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 495911,
-      "num": 495911,
-      "word": "五问李嘉诚有没有考虑国家利益",
-      "onboard_time": 1742098582,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 493687,
@@ -435,6 +467,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 411114,
+      "num": 411114,
+      "word": "王曼昱反超陈幸同",
+      "onboard_time": 1742100923,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 380242,
       "num": 380242,
       "word": "刘宪华换发型了",
@@ -492,7 +532,7 @@
     },
     {
       "raw_hot": 337715,
-      "num": 494694,
+      "num": 655834,
       "word": "徐睿知代言回归",
       "onboard_time": 1742099304,
       "rank": 14,
@@ -571,6 +611,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 281856,
+      "num": 281856,
+      "word": "赛琳娜低价出售男友送的钻戒",
+      "onboard_time": 1742101523,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 279292,
       "num": 279292,
       "word": "浪莎回应",
@@ -625,6 +673,14 @@
       "onboard_time": 1742058980,
       "rank": 41,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 262401,
+      "num": 490914,
+      "word": "孙颖莎回应逆转王艺迪",
+      "onboard_time": 1742099662,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 260039,
@@ -707,6 +763,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 225848,
+      "num": 288754,
+      "word": "又一个被女儿送进去的反派",
+      "onboard_time": 1742100683,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223287,
       "num": 484973,
       "word": "冰湖重生",
@@ -771,11 +835,27 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 201802,
+      "num": 283855,
+      "word": "祝绪丹美得好像洋娃娃",
+      "onboard_time": 1742100862,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200460,
       "num": 200460,
       "word": "孙颖莎9比11王艺迪",
       "onboard_time": 1742096841,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 199789,
+      "num": 199789,
+      "word": "王曼昱医疗暂停",
+      "onboard_time": 1742102184,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -811,6 +891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196139,
+      "num": 228027,
+      "word": "哪吒敖丙芭莎春日特刊封面",
+      "onboard_time": 1742102363,
+      "rank": 34,
+      "category": "电影,时尚"
+    },
+    {
       "raw_hot": 194476,
       "num": 194476,
       "word": "乐言说iG换TES先锋赛夺冠了",
@@ -835,6 +923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189515,
+      "num": 189515,
+      "word": "孙颖莎4比2王艺迪",
+      "onboard_time": 1742102002,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189298,
       "num": 515346,
       "word": "王力宏说是南昌拉了我一把",
@@ -851,12 +947,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 187740,
+      "num": 187740,
+      "word": "美国偶遇刘晓庆考驾照",
+      "onboard_time": 1742102243,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187095,
       "num": 234705,
       "word": "DeepSeek总结315晚会",
       "onboard_time": 1742054546,
       "rank": 47,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 185857,
+      "num": 220180,
+      "word": "丁禹兮的片场瞬间",
+      "onboard_time": 1742101523,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 179326,
@@ -873,6 +985,14 @@
       "onboard_time": 1742098882,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175045,
+      "num": 175045,
+      "word": "欧阳娜娜欧阳娣娣舞台风格极与极",
+      "onboard_time": 1742102243,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 173201,
@@ -923,12 +1043,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164716,
+      "num": 164716,
+      "word": "DeepSeek一键生成PPT",
+      "onboard_time": 1742102303,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 162239,
       "num": 721946,
       "word": "四川一地领导干部考试20人不合格",
       "onboard_time": 1742097502,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161763,
+      "num": 1382035,
+      "word": "9块9每升的椰子水安全吗",
+      "onboard_time": 1742101703,
+      "rank": 7,
+      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 159608,
@@ -1035,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127592,
+      "num": 187789,
+      "word": "武契奇回应塞尔维亚首都爆发大规模抗议",
+      "onboard_time": 1742102123,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 126592,
       "num": 769603,
       "word": "保水虾仁涉事企业被查",
@@ -1051,6 +1195,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121467,
+      "num": 611770,
+      "word": "人人信回应被315晚会点名",
+      "onboard_time": 1742101342,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117733,
+      "num": 216403,
+      "word": "Henry温州话隔空喊宝贝",
+      "onboard_time": 1742102363,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 114329,
       "num": 290932,
       "word": "李小冉不跟张蔷一起住的原因",
@@ -1065,14 +1225,6 @@
       "onboard_time": 1742097983,
       "rank": 38,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 111088,
-      "num": 488662,
-      "word": "陈幸同vs王曼昱",
-      "onboard_time": 1742099363,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 110595,
@@ -1123,6 +1275,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 97169,
+      "num": 717247,
+      "word": "倍舒特声明",
+      "onboard_time": 1742101342,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93952,
       "num": 5429961,
       "word": "七彩油菜花美得像莫奈花园",
@@ -1153,6 +1313,14 @@
       "onboard_time": 1742091804,
       "rank": 25,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 89584,
+      "num": 727078,
+      "word": "工位上养鲜切花来哄自己上班",
+      "onboard_time": 1742101403,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85332,
@@ -1275,6 +1443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49103,
+      "num": 1430489,
+      "word": "屈臣氏回应郭晓婷购买内裤有霉斑",
+      "onboard_time": 1742101882,
+      "rank": 6,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 46248,
       "num": 259989,
       "word": "武大最年轻正教授年薪60万",
@@ -1313,14 +1489,6 @@
       "onboard_time": 1742064795,
       "rank": 46,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 37341,
-      "num": 490914,
-      "word": "孙颖莎回应逆转王艺迪",
-      "onboard_time": 1742099662,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 36179,
@@ -1433,6 +1601,22 @@
       "onboard_time": 1742066355,
       "rank": 35,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 11579,
+      "num": 2046741,
+      "word": "故宫雪景大片",
+      "onboard_time": 1742102065,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6329,
+      "num": 187753,
+      "word": "孙颖莎陈幸同女单争冠",
+      "onboard_time": 1742102423,
+      "rank": 43,
+      "category": "体育"
     }
   ],
   "hotgov_list": [

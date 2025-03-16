@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742100188025,
+  "endTime": 1742102496268,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -313,6 +313,14 @@
       "onboard_time": 1742007442,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2843826,
+      "num": 2843826,
+      "word": "王曼昱退赛",
+      "onboard_time": 1742101644,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 2819755,
@@ -1012,7 +1020,7 @@
     },
     {
       "raw_hot": 1821904,
-      "num": 750917,
+      "num": 1110599,
       "word": "金赛纶金秀贤只在家中约会",
       "onboard_time": 1742097742,
       "rank": 10,
@@ -2345,6 +2353,14 @@
       "onboard_time": 1741846463,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1197908,
+      "num": 1197908,
+      "word": "五问李嘉诚有没有考虑国家利益",
+      "onboard_time": 1742098582,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1190931,
@@ -4169,6 +4185,14 @@
       "onboard_time": 1741493001,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 842894,
+      "num": 688353,
+      "word": "韩媒再为金秀贤发声",
+      "onboard_time": 1742101882,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 842843,
@@ -6579,6 +6603,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 594252,
+      "num": 1568850,
+      "word": "朱颜曼滋在北大上课",
+      "onboard_time": 1742101104,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 593988,
       "num": 317843,
       "word": "王一博登顶照片成地标了",
@@ -7172,7 +7204,7 @@
     },
     {
       "raw_hot": 553809,
-      "num": 767129,
+      "num": 1290005,
       "word": "好的一次性内裤有两个标准",
       "onboard_time": 1742092103,
       "rank": 9,
@@ -7739,6 +7771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 511198,
+      "num": 511198,
+      "word": "陈幸同vs王曼昱",
+      "onboard_time": 1742099363,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 510916,
       "num": 510916,
       "word": "以为是初恋女友实际是复婚夫妻",
@@ -8009,14 +8049,6 @@
       "onboard_time": 1740788358,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 495911,
-      "num": 495911,
-      "word": "五问李嘉诚有没有考虑国家利益",
-      "onboard_time": 1742098582,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 495785,
@@ -9689,6 +9721,14 @@
       "onboard_time": 1741184421,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 411114,
+      "num": 411114,
+      "word": "王曼昱反超陈幸同",
+      "onboard_time": 1742100923,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 410243,
@@ -11932,7 +11972,7 @@
     },
     {
       "raw_hot": 337715,
-      "num": 494694,
+      "num": 655834,
       "word": "徐睿知代言回归",
       "onboard_time": 1742099304,
       "rank": 14,
@@ -14115,6 +14155,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 281856,
+      "num": 281856,
+      "word": "赛琳娜低价出售男友送的钻戒",
+      "onboard_time": 1742101523,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 281733,
       "num": 256971,
       "word": "相聚离开 都有时候",
@@ -15105,6 +15153,14 @@
       "onboard_time": 1741504161,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 262401,
+      "num": 490914,
+      "word": "孙颖莎回应逆转王艺迪",
+      "onboard_time": 1742099662,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 262137,
@@ -17152,6 +17208,14 @@
       "word": "桑延官宣恋情如同打了胜仗",
       "onboard_time": 1741098262,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 225848,
+      "num": 288754,
+      "word": "又一个被女儿送进去的反派",
+      "onboard_time": 1742100683,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -19611,6 +19675,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 201802,
+      "num": 283855,
+      "word": "祝绪丹美得好像洋娃娃",
+      "onboard_time": 1742100862,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201765,
       "num": 201765,
       "word": "欧豪就靠这个动作成为了海清的神",
@@ -19881,6 +19953,14 @@
       "onboard_time": 1741774284,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 199789,
+      "num": 199789,
+      "word": "王曼昱医疗暂停",
+      "onboard_time": 1742102184,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 199757,
@@ -20409,6 +20489,14 @@
       "onboard_time": 1741217536,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 196139,
+      "num": 228027,
+      "word": "哪吒敖丙芭莎春日特刊封面",
+      "onboard_time": 1742102363,
+      "rank": 34,
+      "category": "电影,时尚"
     },
     {
       "raw_hot": 196022,
@@ -21331,6 +21419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189515,
+      "num": 189515,
+      "word": "孙颖莎4比2王艺迪",
+      "onboard_time": 1742102002,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189507,
       "num": 189507,
       "word": "小鹏G6",
@@ -21617,6 +21713,14 @@
       "onboard_time": 1741432761,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187740,
+      "num": 187740,
+      "word": "美国偶遇刘晓庆考驾照",
+      "onboard_time": 1742102243,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 187713,
@@ -21977,6 +22081,14 @@
       "onboard_time": 1741694484,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185857,
+      "num": 220180,
+      "word": "丁禹兮的片场瞬间",
+      "onboard_time": 1742101523,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 185725,
@@ -23305,6 +23417,14 @@
       "onboard_time": 1741064120,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 175045,
+      "num": 175045,
+      "word": "欧阳娜娜欧阳娣娣舞台风格极与极",
+      "onboard_time": 1742102243,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 174885,
@@ -25027,6 +25147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 164716,
+      "num": 164716,
+      "word": "DeepSeek一键生成PPT",
+      "onboard_time": 1742102303,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 164710,
       "num": 164710,
       "word": "THEBOYZ新开账号",
@@ -25537,6 +25665,14 @@
       "onboard_time": 1740826642,
       "rank": 30,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 161763,
+      "num": 1382035,
+      "word": "9块9每升的椰子水安全吗",
+      "onboard_time": 1742101703,
+      "rank": 7,
+      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 161596,
@@ -31659,6 +31795,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 127592,
+      "num": 187789,
+      "word": "武契奇回应塞尔维亚首都爆发大规模抗议",
+      "onboard_time": 1742102123,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 127585,
       "num": 184982,
       "word": "特朗普讲话底下人互呛",
@@ -33163,6 +33307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121467,
+      "num": 611770,
+      "word": "人人信回应被315晚会点名",
+      "onboard_time": 1742101342,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121421,
       "num": 121421,
       "word": "年轻人购车不再盲目选择智能化",
@@ -33825,6 +33977,14 @@
       "onboard_time": 1740780613,
       "rank": 44,
       "category": "健康医疗,互联网"
+    },
+    {
+      "raw_hot": 117733,
+      "num": 216403,
+      "word": "Henry温州话隔空喊宝贝",
+      "onboard_time": 1742102363,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 117728,
@@ -35073,14 +35233,6 @@
       "onboard_time": 1741736180,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 111088,
-      "num": 488662,
-      "word": "陈幸同vs王曼昱",
-      "onboard_time": 1742099363,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 111050,
@@ -37803,6 +37955,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 97169,
+      "num": 717247,
+      "word": "倍舒特声明",
+      "onboard_time": 1742101342,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97119,
       "num": 97119,
       "word": "水贝金饰金价突破700元",
@@ -38993,6 +39153,14 @@
       "onboard_time": 1741427062,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 89584,
+      "num": 727078,
+      "word": "工位上养鲜切花来哄自己上班",
+      "onboard_time": 1742101403,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89498,
@@ -43835,6 +44003,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 49103,
+      "num": 1430489,
+      "word": "屈臣氏回应郭晓婷购买内裤有霉斑",
+      "onboard_time": 1742101882,
+      "rank": 6,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 48997,
       "num": 316276,
       "word": "酒店房间灯光为何这么暗",
@@ -45441,14 +45617,6 @@
       "onboard_time": 1741666943,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 37341,
-      "num": 490914,
-      "word": "孙颖莎回应逆转王艺迪",
-      "onboard_time": 1742099662,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 37184,
@@ -49595,6 +49763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 11579,
+      "num": 2046741,
+      "word": "故宫雪景大片",
+      "onboard_time": 1742102065,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11521,
       "num": 26977,
       "word": "2025开年看活力中国",
@@ -49873,6 +50049,14 @@
       "onboard_time": 1741832063,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6329,
+      "num": 187753,
+      "word": "孙颖莎陈幸同女单争冠",
+      "onboard_time": 1742102423,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 6312,
