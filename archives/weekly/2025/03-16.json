@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742142428647,
+  "endTime": 1742143421375,
   "band_list": [
     {
       "raw_hot": 9740375,
@@ -241,6 +241,14 @@
       "onboard_time": 1742101882,
       "rank": 6,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 1275399,
+      "num": 1275399,
+      "word": "睡前太饿可以吃这5种食物",
+      "onboard_time": 1742140824,
+      "rank": 3,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1259553,
@@ -569,14 +577,6 @@
       "onboard_time": 1742131225,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 707481,
-      "num": 707481,
-      "word": "睡前太饿可以吃这5种食物",
-      "onboard_time": 1742140824,
-      "rank": 3,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 706058,
@@ -1595,6 +1595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 244939,
+      "num": 239330,
+      "word": "王彦霖说来参加陈立农婚礼",
+      "onboard_time": 1742141901,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 242832,
       "num": 242832,
       "word": "戚薇怼脸生图状态",
@@ -1809,6 +1817,14 @@
       "onboard_time": 1742072234,
       "rank": 42,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 217906,
+      "num": 225598,
+      "word": "谍报上不封顶 王凯",
+      "onboard_time": 1742140401,
+      "rank": 18,
+      "category": "电影,综艺"
     },
     {
       "raw_hot": 217577,
@@ -2251,6 +2267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185036,
+      "num": 225372,
+      "word": "肖战日媒镜头下的生图",
+      "onboard_time": 1742141542,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184631,
       "num": 184631,
       "word": "中国短道队世锦赛5000米接力银牌",
@@ -2353,14 +2377,6 @@
       "onboard_time": 1742110823,
       "rank": 18,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 175345,
-      "num": 225598,
-      "word": "谍报上不封顶 王凯",
-      "onboard_time": 1742140401,
-      "rank": 18,
-      "category": "电影,综艺"
     },
     {
       "raw_hot": 175341,
@@ -2545,14 +2561,6 @@
       "onboard_time": 1742130744,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 161091,
-      "num": 161091,
-      "word": "王彦霖说来参加陈立农婚礼",
-      "onboard_time": 1742141901,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 160858,
@@ -2860,7 +2868,7 @@
     },
     {
       "raw_hot": 140970,
-      "num": 754077,
+      "num": 754529,
       "word": "中央财政提前下达以旧换新首批资金",
       "onboard_time": 1742137105,
       "rank": 2,
@@ -3091,14 +3099,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 123209,
-      "num": 225372,
-      "word": "肖战日媒镜头下的生图",
-      "onboard_time": 1742141542,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 122637,
       "num": 346529,
       "word": "费启鸣也是闯入忘本赛道了",
@@ -3187,6 +3187,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 111008,
+      "num": 111008,
+      "word": "虞书欣亲上热水袋了",
+      "onboard_time": 1742139982,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110595,
       "num": 205897,
       "word": "半个韩娱在Jennie演唱会团建",
@@ -3209,14 +3217,6 @@
       "onboard_time": 1742134765,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 109639,
-      "num": 109639,
-      "word": "虞书欣亲上热水袋了",
-      "onboard_time": 1742139982,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 108289,
@@ -3259,6 +3259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102702,
+      "num": 287721,
+      "word": "市场监管总局处置315曝光问题",
+      "onboard_time": 1742139684,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102061,
       "num": 324192,
       "word": "林诗栋展望决赛对阵王楚钦",
@@ -3273,14 +3281,6 @@
       "onboard_time": 1742051852,
       "rank": 47,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 99743,
-      "num": 287721,
-      "word": "市场监管总局处置315曝光问题",
-      "onboard_time": 1742139684,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99607,
@@ -3427,6 +3427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79125,
+      "num": 79125,
+      "word": "薛凯琪演唱会",
+      "onboard_time": 1742142740,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 77152,
       "num": 229201,
       "word": "何小鹏说夸克AI和飞行汽车一样酷",
@@ -3489,6 +3497,14 @@
       "onboard_time": 1742114062,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 62685,
+      "num": 62685,
+      "word": "新版刁蛮公主男女主",
+      "onboard_time": 1742143399,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 62401,
@@ -3569,6 +3585,14 @@
       "onboard_time": 1742056823,
       "rank": 37,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 51295,
+      "num": 241921,
+      "word": "北马其顿全国哀悼7天",
+      "onboard_time": 1742142740,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 50935,

@@ -1,6 +1,6 @@
 {
   "startTime": 1742142428647,
-  "endTime": 1742142428647,
+  "endTime": 1742143421375,
   "band_list": [
     {
       "raw_hot": 1480089,
@@ -9,6 +9,14 @@
       "onboard_time": 1742136983,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1275399,
+      "num": 1275399,
+      "word": "睡前太饿可以吃这5种食物",
+      "onboard_time": 1742140824,
+      "rank": 3,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1172835,
@@ -25,14 +33,6 @@
       "onboard_time": 1742129244,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 707481,
-      "num": 707481,
-      "word": "睡前太饿可以吃这5种食物",
-      "onboard_time": 1742140824,
-      "rank": 3,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 598253,
@@ -91,6 +91,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 291787,
+      "num": 240039,
+      "word": "李镇浩发视频当天金赛纶自杀了6次",
+      "onboard_time": 1742120721,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 282898,
       "num": 225339,
       "word": "男子感冒去小诊所输液确诊尿毒症",
@@ -123,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244939,
+      "num": 239330,
+      "word": "王彦霖说来参加陈立农婚礼",
+      "onboard_time": 1742141901,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 239363,
       "num": 239363,
       "word": "短剧已是nextlevel",
@@ -147,6 +163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 217906,
+      "num": 225598,
+      "word": "谍报上不封顶 王凯",
+      "onboard_time": 1742140401,
+      "rank": 18,
+      "category": "电影,综艺"
+    },
+    {
       "raw_hot": 189844,
       "num": 247302,
       "word": "陈幸同说恭喜莎莎",
@@ -155,12 +179,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 175345,
-      "num": 225598,
-      "word": "谍报上不封顶 王凯",
-      "onboard_time": 1742140401,
-      "rank": 18,
-      "category": "电影,综艺"
+      "raw_hot": 185036,
+      "num": 225372,
+      "word": "肖战日媒镜头下的生图",
+      "onboard_time": 1742141542,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 173912,
@@ -185,14 +209,6 @@
       "onboard_time": 1742135724,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 161091,
-      "num": 161091,
-      "word": "王彦霖说来参加陈立农婚礼",
-      "onboard_time": 1742141901,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 160187,
@@ -251,14 +267,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 123209,
-      "num": 225372,
-      "word": "肖战日媒镜头下的生图",
-      "onboard_time": 1742141542,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 121992,
       "num": 121992,
       "word": "TF家族练习生2025全新公式照",
@@ -275,8 +283,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 109639,
-      "num": 109639,
+      "raw_hot": 111008,
+      "num": 111008,
       "word": "虞书欣亲上热水袋了",
       "onboard_time": 1742139982,
       "rank": 36,
@@ -297,6 +305,14 @@
       "onboard_time": 1742137044,
       "rank": 38,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 102702,
+      "num": 287721,
+      "word": "市场监管总局处置315曝光问题",
+      "onboard_time": 1742139684,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102645,
@@ -339,14 +355,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 99743,
-      "num": 287721,
-      "word": "市场监管总局处置315曝光问题",
-      "onboard_time": 1742139684,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 99395,
       "num": 99395,
       "word": "苦尽柑来遇见你编剧",
@@ -356,7 +364,7 @@
     },
     {
       "raw_hot": 99092,
-      "num": 715242,
+      "num": 754529,
       "word": "中央财政提前下达以旧换新首批资金",
       "onboard_time": 1742137105,
       "rank": 2,
@@ -401,6 +409,30 @@
       "onboard_time": 1742136924,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 79125,
+      "num": 79125,
+      "word": "薛凯琪演唱会",
+      "onboard_time": 1742142740,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 62685,
+      "num": 62685,
+      "word": "新版刁蛮公主男女主",
+      "onboard_time": 1742143399,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 51295,
+      "num": 241921,
+      "word": "北马其顿全国哀悼7天",
+      "onboard_time": 1742142740,
+      "rank": 9,
+      "category": "海外新闻"
     }
   ],
   "hotgov_list": [
