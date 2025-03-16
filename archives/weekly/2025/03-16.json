@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742114435368,
+  "endTime": 1742116948742,
   "band_list": [
     {
       "raw_hot": 9740375,
@@ -121,6 +121,14 @@
       "onboard_time": 1742091204,
       "rank": 34,
       "category": "民生新闻,情感"
+    },
+    {
+      "raw_hot": 1730174,
+      "num": 537775,
+      "word": "阿衰大结局了",
+      "onboard_time": 1742113701,
+      "rank": 7,
+      "category": "动漫"
     },
     {
       "raw_hot": 1614449,
@@ -307,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 787384,
+      "num": 787384,
+      "word": "浪莎再次声明",
+      "onboard_time": 1742112981,
+      "rank": 31,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 748377,
       "num": 748377,
       "word": "孙颖莎vs王艺迪",
@@ -396,7 +412,7 @@
     },
     {
       "raw_hot": 555974,
-      "num": 460967,
+      "num": 516282,
       "word": "张本智和回应不敌王楚钦",
       "onboard_time": 1742112082,
       "rank": 12,
@@ -427,14 +443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 537775,
-      "num": 537775,
-      "word": "阿衰大结局了",
-      "onboard_time": 1742113701,
-      "rank": 7,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 528986,
       "num": 528986,
       "word": "班味好重的订婚宴",
@@ -457,6 +465,14 @@
       "onboard_time": 1742055266,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 515364,
+      "num": 515364,
+      "word": "风月不相关 杨超越",
+      "onboard_time": 1742113582,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 511198,
@@ -547,6 +563,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 453226,
+      "num": 453226,
+      "word": "刁蛮公主定妆照",
+      "onboard_time": 1742111721,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 452894,
+      "num": 452894,
+      "word": "尹净汉短发",
+      "onboard_time": 1742114302,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 451425,
       "num": 451425,
       "word": "央视曝光AI假冒名人明星",
@@ -595,14 +627,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 418349,
-      "num": 418349,
-      "word": "刁蛮公主定妆照",
-      "onboard_time": 1742111721,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 416768,
       "num": 416768,
       "word": "看315晚会天塌了",
@@ -649,6 +673,14 @@
       "onboard_time": 1742098762,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 375767,
+      "num": 375767,
+      "word": "海底捞小便事件门店客流锐减",
+      "onboard_time": 1742115142,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 368182,
@@ -835,6 +867,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 277386,
+      "num": 457902,
+      "word": "延长周末的5件小事",
+      "onboard_time": 1742113943,
+      "rank": 13,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 276989,
       "num": 499721,
       "word": "王楚钦林诗栋会师决赛",
@@ -859,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 265985,
+      "num": 237211,
+      "word": "终于明白我妈为什么常年90斤了",
+      "onboard_time": 1742116462,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 265355,
       "num": 265355,
       "word": "夫妻制售假始祖鸟1年获利30万元",
@@ -867,12 +915,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 263973,
+      "num": 263973,
+      "word": "与辉同行下架全部虾仁相关商品",
+      "onboard_time": 1742114602,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 263603,
       "num": 879500,
       "word": "如何区别劣质卫生巾",
       "onboard_time": 1742058980,
       "rank": 41,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 263555,
+      "num": 263555,
+      "word": "网红太原老葛团队成员葛某贝被刑拘",
+      "onboard_time": 1742114842,
+      "rank": 25,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 262401,
@@ -897,6 +961,14 @@
       "onboard_time": 1742102303,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 253635,
+      "num": 277258,
+      "word": "雷军的粉丝构成还是太全面了",
+      "onboard_time": 1742113582,
+      "rank": 48,
+      "category": "综艺,互联网"
     },
     {
       "raw_hot": 249985,
@@ -1019,6 +1091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224356,
+      "num": 224356,
+      "word": "Meow对战ITZY",
+      "onboard_time": 1742116223,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 223287,
       "num": 484973,
       "word": "冰湖重生",
@@ -1073,22 +1153,6 @@
       "onboard_time": 1742104102,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 209143,
-      "num": 277258,
-      "word": "雷军的粉丝构成还是太全面了",
-      "onboard_time": 1742113582,
-      "rank": 48,
-      "category": "综艺,互联网"
-    },
-    {
-      "raw_hot": 208759,
-      "num": 318824,
-      "word": "风月不相关 杨超越",
-      "onboard_time": 1742113582,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 207921,
@@ -1323,6 +1387,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181664,
+      "num": 181664,
+      "word": "啄木鸟连续两年315道歉",
+      "onboard_time": 1742116523,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181011,
+      "num": 181011,
+      "word": "张本智和场下和田势教练抱头哭泣",
+      "onboard_time": 1742115322,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180613,
       "num": 180613,
       "word": "土耳其600斤吃播网红因病去世",
@@ -1355,20 +1435,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176486,
+      "num": 239731,
+      "word": "四郎上个综艺被哄成胚胎了",
+      "onboard_time": 1742114003,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176398,
       "num": 449248,
       "word": "国产AI横评",
       "onboard_time": 1742110823,
       "rank": 18,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 174615,
-      "num": 174615,
-      "word": "四郎上个综艺被哄成胚胎了",
-      "onboard_time": 1742114003,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 173201,
@@ -1451,6 +1531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164928,
+      "num": 164928,
+      "word": "张凌赫背田曦薇下城墙",
+      "onboard_time": 1742114842,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162239,
       "num": 721946,
       "word": "四川一地领导干部考试20人不合格",
@@ -1465,6 +1553,14 @@
       "onboard_time": 1742106321,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 160514,
+      "num": 160514,
+      "word": "王一博慢放节奏",
+      "onboard_time": 1742115564,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 159608,
@@ -1555,12 +1651,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 141383,
-      "num": 454902,
-      "word": "浪莎再次声明",
-      "onboard_time": 1742112981,
-      "rank": 31,
-      "category": "舆论监督"
+      "raw_hot": 139561,
+      "num": 139561,
+      "word": "周深演我中国胃",
+      "onboard_time": 1742116102,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 136312,
@@ -1569,6 +1665,14 @@
       "onboard_time": 1742050532,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136288,
+      "num": 136288,
+      "word": "余茵说乖乖女火了以后特别开心",
+      "onboard_time": 1742115564,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 135862,
@@ -1595,6 +1699,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 134447,
+      "num": 134447,
+      "word": "新说唱2025",
+      "onboard_time": 1742116282,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133669,
       "num": 625315,
       "word": "苏菲称涉事包装产品目前非公司生产",
@@ -1608,6 +1720,22 @@
       "word": "啄木鸟六点整改措施",
       "onboard_time": 1742113163,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131674,
+      "num": 131674,
+      "word": "KC对战HLE",
+      "onboard_time": 1742115383,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 131440,
+      "num": 131440,
+      "word": "男子想租高中操场结婚引争议",
+      "onboard_time": 1742116402,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -1691,6 +1819,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 122945,
+      "num": 122945,
+      "word": "种田文女主妆造",
+      "onboard_time": 1742116882,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122637,
       "num": 346529,
       "word": "费启鸣也是闯入忘本赛道了",
@@ -1705,14 +1841,6 @@
       "onboard_time": 1742101342,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118413,
-      "num": 118413,
-      "word": "尹净汉短发",
-      "onboard_time": 1742114302,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 118250,
@@ -2067,6 +2195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44899,
+      "num": 269322,
+      "word": "屈臣氏下架电商平台同款霉斑内裤",
+      "onboard_time": 1742116641,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44415,
       "num": 1642532,
       "word": "跟着文物去春游",
@@ -2097,6 +2233,14 @@
       "onboard_time": 1742108602,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 39985,
+      "num": 237843,
+      "word": "用夸克给的攻略去悬崖过夜了",
+      "onboard_time": 1742114062,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 39093,
@@ -2171,14 +2315,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 33528,
-      "num": 457902,
-      "word": "延长周末的5件小事",
-      "onboard_time": 1742113943,
-      "rank": 13,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 33198,
       "num": 94613,
       "word": "K总伴郎团",
@@ -2193,6 +2329,14 @@
       "onboard_time": 1742072594,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 30750,
+      "num": 263567,
+      "word": "张本智和说与王楚钦比赛处于劣势",
+      "onboard_time": 1742115861,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 29668,
@@ -2251,20 +2395,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 11579,
+      "raw_hot": 12825,
       "num": 2046741,
       "word": "故宫雪景大片",
       "onboard_time": 1742102065,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 8277,
-      "num": 124468,
-      "word": "用夸克给的攻略去悬崖过夜了",
-      "onboard_time": 1742114062,
-      "rank": 43,
-      "category": "互联网"
     }
   ],
   "hotgov_list": [
@@ -2273,6 +2409,9 @@
     },
     {
       "word": "#以文化赋能经济社会发展#"
+    },
+    {
+      "word": "#坚持和落实两个毫不动摇#"
     }
   ]
 }
