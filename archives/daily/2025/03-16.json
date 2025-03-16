@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742096910571,
+  "endTime": 1742099246220,
   "band_list": [
     {
       "raw_hot": 9740375,
@@ -27,8 +27,8 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 2806226,
-      "num": 2806226,
+      "raw_hot": 3291799,
+      "num": 3583598,
       "word": "315记者为取证吃到吐",
       "onboard_time": 1742094742,
       "rank": 47,
@@ -83,6 +83,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1821904,
+      "num": 750917,
+      "word": "金赛纶金秀贤只在家中约会",
+      "onboard_time": 1742097742,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1815524,
       "num": 1815524,
       "word": "胖猫事件90多吨食物被浪费",
@@ -97,6 +105,14 @@
       "onboard_time": 1742091204,
       "rank": 34,
       "category": "民生新闻,情感"
+    },
+    {
+      "raw_hot": 1651288,
+      "num": 1651288,
+      "word": "刁蛮公主翻拍了",
+      "onboard_time": 1742098042,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1614449,
@@ -219,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 748377,
+      "num": 748377,
+      "word": "孙颖莎vs王艺迪",
+      "onboard_time": 1742093784,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 719994,
       "num": 719994,
       "word": "自由点报案",
@@ -273,6 +297,14 @@
       "onboard_time": 1742086281,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 528986,
+      "num": 528986,
+      "word": "班味好重的订婚宴",
+      "onboard_time": 1742093604,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 522920,
@@ -340,7 +372,7 @@
     },
     {
       "raw_hot": 458527,
-      "num": 458527,
+      "num": 723916,
       "word": "昭昭墨墨合体耀客新剧发布会",
       "onboard_time": 1742094564,
       "rank": 26,
@@ -353,6 +385,14 @@
       "onboard_time": 1742053348,
       "rank": 33,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 439326,
+      "num": 439326,
+      "word": "中亿孕婴童已报案",
+      "onboard_time": 1742096782,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 437414,
@@ -387,14 +427,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 401361,
-      "num": 401361,
-      "word": "班味好重的订婚宴",
-      "onboard_time": 1742093604,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 380242,
       "num": 380242,
       "word": "刘宪华换发型了",
@@ -419,11 +451,11 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 361388,
-      "num": 668185,
-      "word": "孙颖莎vs王艺迪",
-      "onboard_time": 1742093784,
-      "rank": 13,
+      "raw_hot": 358342,
+      "num": 358342,
+      "word": "孙颖莎扳平王艺迪",
+      "onboard_time": 1742097324,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -507,6 +539,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 283731,
+      "num": 283731,
+      "word": "五问李嘉诚有没有考虑国家利益",
+      "onboard_time": 1742098582,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 279292,
       "num": 279292,
       "word": "浪莎回应",
@@ -579,6 +619,22 @@
       "category": "舆论监督,网红"
     },
     {
+      "raw_hot": 249470,
+      "num": 249470,
+      "word": "王楚钦热身动作",
+      "onboard_time": 1742097383,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 240770,
+      "num": 240770,
+      "word": "恋与深空",
+      "onboard_time": 1742098282,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 236353,
       "num": 236353,
       "word": "九田家",
@@ -596,11 +652,19 @@
     },
     {
       "raw_hot": 234393,
-      "num": 442228,
+      "num": 721171,
       "word": "杨洋把杨迪泼溺水了",
       "onboard_time": 1742094142,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 232750,
+      "num": 722723,
+      "word": "贵女",
+      "onboard_time": 1742097923,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 229257,
@@ -612,7 +676,7 @@
     },
     {
       "raw_hot": 223287,
-      "num": 396549,
+      "num": 484973,
       "word": "冰湖重生",
       "onboard_time": 1742094323,
       "rank": 24,
@@ -633,6 +697,14 @@
       "onboard_time": 1742072234,
       "rank": 42,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 217175,
+      "num": 755674,
+      "word": "孙颖莎丢分拍脑袋",
+      "onboard_time": 1742098162,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 207921,
@@ -731,6 +803,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 177055,
+      "num": 604625,
+      "word": "被宋妍霏曲膝礼这一下苏到",
+      "onboard_time": 1742098882,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173201,
       "num": 236300,
       "word": "你好星期六下期预告",
@@ -747,6 +827,30 @@
       "category": "网红"
     },
     {
+      "raw_hot": 168850,
+      "num": 762490,
+      "word": "美国在中东再燃战火",
+      "onboard_time": 1742096363,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 168821,
+      "num": 630491,
+      "word": "王艺迪连赢两局",
+      "onboard_time": 1742096183,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 167439,
+      "num": 167439,
+      "word": "时光代理人",
+      "onboard_time": 1742097502,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 165651,
       "num": 381222,
       "word": "米菲声明",
@@ -755,8 +859,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162239,
+      "num": 721946,
+      "word": "四川一地领导干部考试20人不合格",
+      "onboard_time": 1742097502,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156785,
-      "num": 222912,
+      "num": 439721,
       "word": "问界新M5Ultra首发评测",
       "onboard_time": 1742095463,
       "rank": 37,
@@ -796,7 +908,7 @@
     },
     {
       "raw_hot": 136312,
-      "num": 1803495,
+      "num": 1952060,
       "word": "烟雨漓江将中国水墨画具象化了",
       "onboard_time": 1742050532,
       "rank": 2,
@@ -835,6 +947,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 130706,
+      "num": 762545,
+      "word": "召回保水虾仁",
+      "onboard_time": 1742098461,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130271,
       "num": 130271,
       "word": "虞书欣说南城的海风很温柔",
@@ -849,6 +969,14 @@
       "onboard_time": 1742092644,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120033,
+      "num": 473626,
+      "word": "夸克教的维权技巧",
+      "onboard_time": 1742096903,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 114329,
@@ -873,6 +1001,14 @@
       "onboard_time": 1742069355,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107284,
+      "num": 724507,
+      "word": "孙颖莎连胜三局反超",
+      "onboard_time": 1742098525,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 107256,
@@ -939,12 +1075,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 82052,
+      "num": 450695,
+      "word": "周深多伦多演唱会钢琴没电了",
+      "onboard_time": 1742098162,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 81281,
       "num": 521012,
       "word": "借贷宝称立即成立整改小组",
       "onboard_time": 1742063536,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 80349,
+      "num": 253029,
+      "word": "刘宪华雨中拉小提琴的氛围感",
+      "onboard_time": 1742097742,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 72460,
@@ -963,28 +1115,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 68667,
-      "num": 630491,
-      "word": "王艺迪连赢两局",
-      "onboard_time": 1742096183,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 67916,
-      "num": 285075,
-      "word": "中亿孕婴童已报案",
-      "onboard_time": 1742096782,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 66693,
       "num": 362588,
       "word": "官方通报翻新卫生巾厂家处理情况",
       "onboard_time": 1742090723,
       "rank": 24,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 64478,
+      "num": 723078,
+      "word": "郑钦文DIOR大片",
+      "onboard_time": 1742097983,
+      "rank": 17,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 62401,
@@ -1019,14 +1163,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 51655,
-      "num": 762490,
-      "word": "美国在中东再燃战火",
-      "onboard_time": 1742096363,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 51343,
       "num": 279292,
       "word": "全面彻查315晚会曝光的企业违法行为",
@@ -1041,6 +1177,22 @@
       "onboard_time": 1742094203,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 49613,
+      "num": 759170,
+      "word": "孙颖莎晋级重庆赛决赛",
+      "onboard_time": 1742098762,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 49221,
+      "num": 725184,
+      "word": "广西调查非标电线电缆问题涉事企业",
+      "onboard_time": 1742096423,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46248,
@@ -1139,14 +1291,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 30205,
-      "num": 134425,
-      "word": "广西调查非标电线电缆问题涉事企业",
-      "onboard_time": 1742096423,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 29668,
       "num": 64261,
       "word": "2025年全英羽毛球公开赛",
@@ -1193,6 +1337,14 @@
       "onboard_time": 1742070854,
       "rank": 48,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 18104,
+      "num": 262783,
+      "word": "用夸克拯救辅导作业高血压",
+      "onboard_time": 1742097983,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 17475,
