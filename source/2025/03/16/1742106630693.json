@@ -1,0 +1,410 @@
+{
+  "runTime": 1742106630693,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1800229,
+        "num": 1800229,
+        "word": "315名单",
+        "onboard_time": 1742044291,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1687037,
+        "num": 1687037,
+        "word": "王曼昱退赛",
+        "onboard_time": 1742101644,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41745,
+        "num": 1305826,
+        "word": "跟着文物去春游",
+        "onboard_time": 1742102843,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1279515,
+        "num": 1279515,
+        "word": "刁蛮公主翻拍了",
+        "onboard_time": 1742098042,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1156590,
+        "num": 1156590,
+        "word": "屈臣氏回应郭晓婷购买内裤有霉斑",
+        "onboard_time": 1742101882,
+        "rank": 4,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 1122087,
+        "num": 1122087,
+        "word": "315记者为取证吃到吐",
+        "onboard_time": 1742094742,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 978571,
+        "num": 978571,
+        "word": "王楚钦vs张本智和",
+        "onboard_time": 1742102605,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 699666,
+        "num": 699666,
+        "word": "五问李嘉诚有没有考虑国家利益",
+        "onboard_time": 1742098582,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40921,
+        "num": 688721,
+        "word": "王楚钦说与张本智和从小打到大",
+        "onboard_time": 1742106081,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245645,
+        "num": 682144,
+        "word": "好的一次性内裤有两个标准",
+        "onboard_time": 1742092103,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1165949,
+        "num": 672675,
+        "word": "金赛纶金秀贤只在家中约会",
+        "onboard_time": 1742097742,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185870,
+        "num": 656082,
+        "word": "王俊凯用夸克都在搜什么",
+        "onboard_time": 1742102664,
+        "rank": 11,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 646935,
+        "num": 646935,
+        "word": "老公去世短视频最后为了卖洗发水",
+        "onboard_time": 1742091204,
+        "rank": 12,
+        "category": "民生新闻,情感"
+      },
+      {
+        "raw_hot": 628469,
+        "num": 628469,
+        "word": "央视起底黑公关",
+        "onboard_time": 1742090004,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 205581,
+        "num": 627957,
+        "word": "梁靖崑vs林诗栋",
+        "onboard_time": 1742105661,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 783711,
+        "num": 624986,
+        "word": "韩媒再为金秀贤发声",
+        "onboard_time": 1742101882,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 474299,
+        "num": 623711,
+        "word": "美国偶遇刘晓庆考驾照",
+        "onboard_time": 1742102243,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408806,
+        "num": 621779,
+        "word": "陈赫不语只是一味替陈建斌挡吃的",
+        "onboard_time": 1742105483,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255949,
+        "num": 617988,
+        "word": "赛琳娜低价出售男友送的钻戒",
+        "onboard_time": 1742101523,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125831,
+        "num": 616651,
+        "word": "浪莎回应一次性内裤不灭菌",
+        "onboard_time": 1742105542,
+        "rank": 19,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 615558,
+        "num": 615558,
+        "word": "315晚会",
+        "onboard_time": 1742038885,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 509015,
+        "num": 509015,
+        "word": "9块9每升的椰子水安全吗",
+        "onboard_time": 1742101703,
+        "rank": 21,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 504212,
+        "num": 504212,
+        "word": "复旦失联博士遗体河道中被发现",
+        "onboard_time": 1742103863,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102533,
+        "num": 454451,
+        "word": "武契奇回应塞尔维亚首都爆发大规模抗议",
+        "onboard_time": 1742102123,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 351749,
+        "num": 446463,
+        "word": "朱颜曼滋在北大上课",
+        "onboard_time": 1742101104,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443615,
+        "num": 443615,
+        "word": "羽衣甘蓝 难吃",
+        "onboard_time": 1742102484,
+        "rank": 25,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 403451,
+        "num": 403451,
+        "word": "王楚钦逆转晋级",
+        "onboard_time": 1742105062,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280165,
+        "num": 392991,
+        "word": "嘘国王在冬眠雪崩",
+        "onboard_time": 1742104222,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198846,
+        "num": 391301,
+        "word": "欧阳娜娜欧阳娣娣舞台风格极与极",
+        "onboard_time": 1742102243,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198165,
+        "num": 390711,
+        "word": "张蔷说女生就是要有小肚子",
+        "onboard_time": 1742104102,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390659,
+        "num": 390659,
+        "word": "翻新卫生巾",
+        "onboard_time": 1742040988,
+        "rank": 30,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 353164,
+        "num": 353164,
+        "word": "美154公斤女子压死10岁养子被判6年",
+        "onboard_time": 1742105603,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 283508,
+        "num": 283508,
+        "word": "一次性内裤爆雷",
+        "onboard_time": 1742042250,
+        "rank": 32,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 248200,
+        "num": 248200,
+        "word": "自由点道歉",
+        "onboard_time": 1742052569,
+        "rank": 33,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 239116,
+        "num": 239116,
+        "word": "315调查记者演技有多强",
+        "onboard_time": 1742103143,
+        "rank": 34,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 88191,
+        "num": 232939,
+        "word": "白敬亭章若楠杀青dv",
+        "onboard_time": 1742106383,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 228902,
+        "num": 228902,
+        "word": "女子自学打水光针脸上长出硬疙瘩",
+        "onboard_time": 1742102782,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220211,
+        "num": 220211,
+        "word": "DeepSeek一键生成PPT",
+        "onboard_time": 1742102303,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 36584,
+        "num": 211942,
+        "word": "何小鹏说夸克AI和飞行汽车一样酷",
+        "onboard_time": 1742105062,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 211693,
+        "num": 211693,
+        "word": "王楚钦反超张本智和",
+        "onboard_time": 1742104102,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199806,
+        "num": 199806,
+        "word": "苏菲发声明",
+        "onboard_time": 1742052867,
+        "rank": 40,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 166997,
+        "num": 166997,
+        "word": "王心凌演唱会服装从不让人失望",
+        "onboard_time": 1742102843,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163438,
+        "num": 163438,
+        "word": "蜜雪冰城",
+        "onboard_time": 1742047233,
+        "rank": 42,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 162799,
+        "num": 162799,
+        "word": "啄木鸟称放弃公关",
+        "onboard_time": 1742055506,
+        "rank": 43,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 162322,
+        "num": 162322,
+        "word": "王楚钦4比1张本智和",
+        "onboard_time": 1742106502,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160858,
+        "num": 160858,
+        "word": "世界之外",
+        "onboard_time": 1742106321,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158661,
+        "num": 158661,
+        "word": "哪吒敖丙芭莎春日特刊封面",
+        "onboard_time": 1742102363,
+        "rank": 46,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 150331,
+        "num": 150331,
+        "word": "孙颖莎说比赛中拼命想办法",
+        "onboard_time": 1742105722,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146697,
+        "num": 146697,
+        "word": "祝绪丹美得好像洋娃娃",
+        "onboard_time": 1742100862,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145673,
+        "num": 145673,
+        "word": "张本智和展望与王楚钦的比赛",
+        "onboard_time": 1742105423,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#以文化赋能经济社会发展#"
+    }
+  }
+}
