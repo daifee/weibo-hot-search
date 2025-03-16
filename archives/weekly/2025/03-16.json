@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742139367823,
+  "endTime": 1742142428647,
   "band_list": [
     {
       "raw_hot": 9740375,
@@ -291,8 +291,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1161333,
-      "num": 1161333,
+      "raw_hot": 1172835,
+      "num": 1172835,
       "word": "将门毒后",
       "onboard_time": 1742137105,
       "rank": 3,
@@ -571,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 707481,
+      "num": 707481,
+      "word": "睡前太饿可以吃这5种食物",
+      "onboard_time": 1742140824,
+      "rank": 3,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 706058,
       "num": 520273,
       "word": "苗苗躺在郑恺怀里睡觉",
@@ -625,6 +633,14 @@
       "onboard_time": 1742118202,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 598253,
+      "num": 598253,
+      "word": "星巴克赔偿美国一外卖员5000万美元",
+      "onboard_time": 1742137405,
+      "rank": 23,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 596078,
@@ -849,14 +865,6 @@
       "onboard_time": 1742091084,
       "rank": 42,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 501442,
-      "num": 501442,
-      "word": "星巴克赔偿美国一外卖员5000万美元",
-      "onboard_time": 1742137405,
-      "rank": 23,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 493687,
@@ -1105,6 +1113,14 @@
       "onboard_time": 1742121563,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 372245,
+      "num": 372245,
+      "word": "央视起底职业闭店人圈钱套路",
+      "onboard_time": 1742139623,
+      "rank": 5,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 368182,
@@ -1691,6 +1707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230362,
+      "num": 230362,
+      "word": "山西省考多名考生因事故被堵高速",
+      "onboard_time": 1742136804,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 229992,
       "num": 656082,
       "word": "王俊凯用夸克都在搜什么",
@@ -2139,6 +2163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189844,
+      "num": 247302,
+      "word": "陈幸同说恭喜莎莎",
+      "onboard_time": 1742140464,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189515,
       "num": 189515,
       "word": "孙颖莎4比2王艺迪",
@@ -2323,6 +2355,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 175345,
+      "num": 225598,
+      "word": "谍报上不封顶 王凯",
+      "onboard_time": 1742140401,
+      "rank": 18,
+      "category": "电影,综艺"
+    },
+    {
       "raw_hot": 175341,
       "num": 175341,
       "word": "孙颖莎提醒邱贻可看摄像头",
@@ -2411,6 +2451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167854,
+      "num": 167854,
+      "word": "丁禹兮全黑callback",
+      "onboard_time": 1742141301,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167728,
       "num": 167728,
       "word": "教育具有长期性和滞后性",
@@ -2497,6 +2545,14 @@
       "onboard_time": 1742130744,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161091,
+      "num": 161091,
+      "word": "王彦霖说来参加陈立农婚礼",
+      "onboard_time": 1742141901,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 160858,
@@ -2739,6 +2795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145598,
+      "num": 145598,
+      "word": "减重小妙招",
+      "onboard_time": 1742140103,
+      "rank": 28,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 144827,
       "num": 144827,
       "word": "王楚钦希望为北京队取得好成绩",
@@ -2843,6 +2907,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 137846,
+      "num": 137846,
+      "word": "汤唯四种语言说获奖感言",
+      "onboard_time": 1742139443,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 137125,
       "num": 137125,
       "word": "石宇奇vs李佳豪",
@@ -2872,6 +2944,14 @@
       "word": "刘少昂带伤继续参赛",
       "onboard_time": 1742108782,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 134460,
+      "num": 134460,
+      "word": "石宇奇时隔七年再夺全英冠军",
+      "onboard_time": 1742139562,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -3011,12 +3091,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 123209,
+      "num": 225372,
+      "word": "肖战日媒镜头下的生图",
+      "onboard_time": 1742141542,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122637,
       "num": 346529,
       "word": "费启鸣也是闯入忘本赛道了",
       "onboard_time": 1742100023,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121992,
+      "num": 121992,
+      "word": "TF家族练习生2025全新公式照",
+      "onboard_time": 1742140401,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 121467,
@@ -3115,6 +3211,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 109639,
+      "num": 109639,
+      "word": "虞书欣亲上热水袋了",
+      "onboard_time": 1742139982,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108289,
       "num": 463871,
       "word": "勇士七连胜",
@@ -3169,6 +3273,14 @@
       "onboard_time": 1742051852,
       "rank": 47,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 99743,
+      "num": 287721,
+      "word": "市场监管总局处置315曝光问题",
+      "onboard_time": 1742139684,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99607,
@@ -3249,6 +3361,14 @@
       "onboard_time": 1742091804,
       "rank": 25,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 88119,
+      "num": 88119,
+      "word": "石宇奇获赛季第二冠",
+      "onboard_time": 1742142023,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 85332,
