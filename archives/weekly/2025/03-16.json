@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742124002411,
+  "endTime": 1742124954917,
   "band_list": [
     {
       "raw_hot": 9740375,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 2023759,
-      "num": 359079,
+      "num": 502203,
       "word": "金秀贤被曝把年龄改小2岁",
       "onboard_time": 1742120661,
       "rank": 10,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 1221918,
-      "num": 356389,
+      "num": 431576,
       "word": "李镇浩发视频当天金赛纶自杀了6次",
       "onboard_time": 1742120721,
       "rank": 11,
@@ -227,12 +227,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1135713,
+      "num": 492495,
+      "word": "金赛纶提前进行了新娘授课",
+      "onboard_time": 1742122942,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1111318,
       "num": 1111318,
       "word": "阚清子希望尽快恢复正常体重",
       "onboard_time": 1742109202,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1062327,
+      "num": 1169972,
+      "word": "孙颖莎vs陈幸同",
+      "onboard_time": 1742120963,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 1028024,
@@ -243,8 +259,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1024128,
-      "num": 330541,
+      "raw_hot": 1024683,
+      "num": 454109,
       "word": "阚清子黄晓明爆瘦果蔬汁",
       "onboard_time": 1742120003,
       "rank": 30,
@@ -291,6 +307,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 961636,
+      "num": 565764,
+      "word": "郑恺跑男断掉全勤是因为陪产",
+      "onboard_time": 1742123422,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 955189,
       "num": 955189,
       "word": "蜜雪冰城",
@@ -328,14 +352,6 @@
       "word": "欧豪忘关直播",
       "onboard_time": 1742053167,
       "rank": 8,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 882222,
-      "num": 298699,
-      "word": "金赛纶提前进行了新娘授课",
-      "onboard_time": 1742122942,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -388,7 +404,7 @@
     },
     {
       "raw_hot": 759908,
-      "num": 357595,
+      "num": 434525,
       "word": "主持人张蕾怒斥心脏看什么都脏",
       "onboard_time": 1742118923,
       "rank": 19,
@@ -417,14 +433,6 @@
       "onboard_time": 1742057362,
       "rank": 22,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 681586,
-      "num": 681586,
-      "word": "孙颖莎vs陈幸同",
-      "onboard_time": 1742120963,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 674426,
@@ -553,6 +561,30 @@
       "onboard_time": 1742086281,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 546481,
+      "num": 546481,
+      "word": "王楚钦vs林诗栋",
+      "onboard_time": 1742124443,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 544342,
+      "num": 544342,
+      "word": "提振消费专项行动方案印发",
+      "onboard_time": 1742121143,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 542379,
+      "num": 542379,
+      "word": "美宇航员滞留太空9个月盼来飞船了",
+      "onboard_time": 1742122461,
+      "rank": 8,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 528986,
@@ -707,14 +739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 439025,
-      "num": 439025,
-      "word": "提振消费专项行动方案印发",
-      "onboard_time": 1742121143,
-      "rank": 14,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 437414,
       "num": 831828,
       "word": "全棉时代发布声明",
@@ -723,8 +747,8 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 429390,
-      "num": 303718,
+      "raw_hot": 433555,
+      "num": 433555,
       "word": "韩庚说不能比卢靖姗先离世",
       "onboard_time": 1742120542,
       "rank": 49,
@@ -779,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 390395,
+      "num": 390395,
+      "word": "不知不觉让你脑力退化的三个习惯",
+      "onboard_time": 1742122042,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 380242,
       "num": 380242,
       "word": "刘宪华换发型了",
@@ -811,20 +843,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 370710,
-      "num": 286169,
-      "word": "不知不觉让你脑力退化的三个习惯",
-      "onboard_time": 1742122042,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 369107,
-      "num": 369107,
-      "word": "美宇航员滞留太空9个月盼来飞船了",
-      "onboard_time": 1742122461,
-      "rank": 8,
-      "category": "海外新闻"
+      "raw_hot": 374828,
+      "num": 514142,
+      "word": "孙颖莎胜陈幸同夺冠",
+      "onboard_time": 1742124144,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 368182,
@@ -939,6 +963,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 311131,
+      "num": 529005,
+      "word": "鼓励带薪年休假与小长假连休",
+      "onboard_time": 1742123783,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 306633,
       "num": 612366,
       "word": "315当晚9省市连夜执法",
@@ -987,20 +1019,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 290601,
-      "num": 290601,
-      "word": "郑恺跑男断掉全勤是因为陪产",
-      "onboard_time": 1742123422,
+      "raw_hot": 290214,
+      "num": 406078,
+      "word": "孟子义何与领衔主演百花杀",
+      "onboard_time": 1742124144,
       "rank": 18,
-      "category": "综艺"
+      "category": "剧集"
     },
     {
       "raw_hot": 282499,
-      "num": 282499,
+      "num": 467642,
       "word": "夸克",
       "onboard_time": 1742123062,
       "rank": 23,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 282231,
+      "num": 391145,
+      "word": "权志龙跳Whiplash",
+      "onboard_time": 1742123722,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 281856,
@@ -1009,6 +1049,14 @@
       "onboard_time": 1742101523,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 281688,
+      "num": 281688,
+      "word": "今年新增1500亿元支持以旧换新",
+      "onboard_time": 1742121443,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 279292,
@@ -1057,6 +1105,14 @@
       "onboard_time": 1742119822,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 267522,
+      "num": 267522,
+      "word": "山西发布319重大交通事故调查报告",
+      "onboard_time": 1742122222,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 266671,
@@ -1144,6 +1200,14 @@
       "word": "王楚钦热身动作",
       "onboard_time": 1742097383,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 245918,
+      "num": 245918,
+      "word": "孙颖莎反手爆冲太凶了",
+      "onboard_time": 1742123902,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -1339,16 +1403,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 211658,
-      "num": 211658,
-      "word": "今年新增1500亿元支持以旧换新",
-      "onboard_time": 1742121443,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 208256,
-      "num": 262179,
+      "num": 263819,
       "word": "用夸克看懂了体检报告",
       "onboard_time": 1742122882,
       "rank": 29,
@@ -1515,6 +1571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193441,
+      "num": 310145,
+      "word": "中国短道接力队力压韩国摘银",
+      "onboard_time": 1742122222,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192695,
       "num": 458739,
       "word": "嘘国王在冬眠",
@@ -1603,6 +1667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184699,
+      "num": 184699,
+      "word": "Angelababy直播",
+      "onboard_time": 1742124863,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184631,
       "num": 184631,
       "word": "中国短道队世锦赛5000米接力银牌",
@@ -1611,12 +1683,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 183814,
-      "num": 183814,
-      "word": "鼓励带薪年休假与小长假连休",
-      "onboard_time": 1742123783,
-      "rank": 40,
-      "category": "民生新闻"
+      "raw_hot": 181943,
+      "num": 181943,
+      "word": "孙颖莎11比4陈幸同",
+      "onboard_time": 1742124443,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 181011,
@@ -1675,12 +1747,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 175341,
+      "num": 175341,
+      "word": "孙颖莎提醒邱贻可看摄像头",
+      "onboard_time": 1742124804,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173201,
       "num": 236300,
       "word": "你好星期六下期预告",
       "onboard_time": 1742049153,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172264,
+      "num": 306931,
+      "word": "六家被点名虾仁企业线上消失",
+      "onboard_time": 1742123002,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 171840,
@@ -1795,35 +1883,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160020,
+      "num": 189082,
+      "word": "王楚钦林诗栋决赛前热身画面",
+      "onboard_time": 1742123902,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159608,
       "num": 159608,
       "word": "孙颖莎4比2逆转晋级",
       "onboard_time": 1742100142,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 158786,
-      "num": 158786,
-      "word": "山西发布319重大交通事故调查报告",
-      "onboard_time": 1742122222,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 158767,
-      "num": 274910,
-      "word": "权志龙跳Whiplash",
-      "onboard_time": 1742123722,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 158481,
-      "num": 310145,
-      "word": "中国短道接力队力压韩国摘银",
-      "onboard_time": 1742122222,
-      "rank": 13,
       "category": "体育"
     },
     {
@@ -1907,6 +1979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149664,
+      "num": 149664,
+      "word": "孙颖莎4比0陈幸同",
+      "onboard_time": 1742124804,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148743,
       "num": 148743,
       "word": "尼克斯vs勇士",
@@ -1955,6 +2035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144665,
+      "num": 144665,
+      "word": "促进工资性收入合理增长",
+      "onboard_time": 1742123964,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 144374,
       "num": 243533,
       "word": "何小鹏说夸克是AI时代超级入口",
@@ -1969,6 +2057,14 @@
       "onboard_time": 1742110642,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139785,
+      "num": 265183,
+      "word": "安宥真李瑞看aespa演唱会的原因",
+      "onboard_time": 1742124683,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 139561,
@@ -2057,14 +2153,6 @@
       "onboard_time": 1742103202,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 130498,
-      "num": 130498,
-      "word": "促进工资性收入合理增长",
-      "onboard_time": 1742123964,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 130271,
@@ -2331,6 +2419,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 91562,
+      "num": 265225,
+      "word": "啄木鸟创始人曾是一线维修工",
+      "onboard_time": 1742123002,
+      "rank": 28,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 90184,
       "num": 314313,
       "word": "多地连夜查处315晚会曝光问题",
@@ -2345,14 +2441,6 @@
       "onboard_time": 1742055805,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 82225,
-      "num": 306931,
-      "word": "六家被点名虾仁企业线上消失",
-      "onboard_time": 1742123002,
-      "rank": 14,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 82052,
@@ -2435,14 +2523,6 @@
       "category": "体育,时尚"
     },
     {
-      "raw_hot": 67343,
-      "num": 189082,
-      "word": "王楚钦林诗栋决赛前热身画面",
-      "onboard_time": 1742123902,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 66693,
       "num": 362588,
       "word": "官方通报翻新卫生巾厂家处理情况",
@@ -2481,14 +2561,6 @@
       "onboard_time": 1742063177,
       "rank": 45,
       "category": "教育"
-    },
-    {
-      "raw_hot": 56388,
-      "num": 189763,
-      "word": "孙颖莎反手爆冲太凶了",
-      "onboard_time": 1742123902,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 54334,
@@ -2611,14 +2683,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 40468,
-      "num": 265225,
-      "word": "啄木鸟创始人曾是一线维修工",
-      "onboard_time": 1742123002,
-      "rank": 28,
-      "category": "财经,民生新闻"
-    },
-    {
       "raw_hot": 39093,
       "num": 39093,
       "word": "贝姿妍",
@@ -2707,6 +2771,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 33120,
+      "num": 701720,
+      "word": "春天的声音像一场演唱会",
+      "onboard_time": 1742120901,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32351,
       "num": 113740,
       "word": "当地正执法调查翻新卫生巾纸尿裤",
@@ -2721,14 +2793,6 @@
       "onboard_time": 1742115861,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 30402,
-      "num": 701720,
-      "word": "春天的声音像一场演唱会",
-      "onboard_time": 1742120901,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29668,
