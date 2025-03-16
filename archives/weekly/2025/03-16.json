@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742109644521,
+  "endTime": 1742110549369,
   "band_list": [
     {
       "raw_hot": 9740375,
@@ -395,6 +395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 523220,
+      "num": 420827,
+      "word": "阚清子希望尽快恢复正常体重",
+      "onboard_time": 1742109202,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 522920,
       "num": 522920,
       "word": "商家说315晚会一曝光那我不完了",
@@ -715,6 +723,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 295412,
+      "num": 295412,
+      "word": "情侣住民宿被偷拍传到境外网站",
+      "onboard_time": 1742108121,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 293688,
       "num": 627957,
       "word": "梁靖崑vs林诗栋",
@@ -979,6 +995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215043,
+      "num": 215043,
+      "word": "买房剩下二楼和顶楼应该怎么选",
+      "onboard_time": 1742110042,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 211779,
       "num": 762545,
       "word": "召回保水虾仁",
@@ -1001,22 +1025,6 @@
       "onboard_time": 1742093123,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 207285,
-      "num": 336026,
-      "word": "阚清子希望尽快恢复正常体重",
-      "onboard_time": 1742109202,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 205072,
-      "num": 205072,
-      "word": "情侣住民宿被偷拍传到境外网站",
-      "onboard_time": 1742108121,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 203945,
@@ -1049,6 +1057,14 @@
       "onboard_time": 1742100862,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200771,
+      "num": 224161,
+      "word": "郭晓婷买发霉内裤疑为屈臣氏",
+      "onboard_time": 1742108182,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 200460,
@@ -1123,6 +1139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195754,
+      "num": 195754,
+      "word": "张博恒奥运会后第一次参赛",
+      "onboard_time": 1742110042,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194476,
       "num": 194476,
       "word": "乐言说iG换TES先锋赛夺冠了",
@@ -1131,12 +1155,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 193584,
+      "num": 400295,
+      "word": "林诗栋4比1胜梁靖崑",
+      "onboard_time": 1742109383,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192695,
       "num": 458739,
       "word": "嘘国王在冬眠",
       "onboard_time": 1742099662,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191728,
+      "num": 191728,
+      "word": "天雷卫生巾我好怕怕",
+      "onboard_time": 1742104703,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190528,
@@ -1203,12 +1243,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 184969,
-      "num": 184969,
-      "word": "天雷卫生巾我好怕怕",
-      "onboard_time": 1742104703,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 180613,
+      "num": 180613,
+      "word": "土耳其600斤吃播网红因病去世",
+      "onboard_time": 1742107941,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 179326,
@@ -1225,22 +1265,6 @@
       "onboard_time": 1742098882,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 175452,
-      "num": 205074,
-      "word": "林诗栋4比1胜梁靖崑",
-      "onboard_time": 1742109383,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 175185,
-      "num": 175185,
-      "word": "土耳其600斤吃播网红因病去世",
-      "onboard_time": 1742107941,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 173201,
@@ -1404,7 +1428,7 @@
     },
     {
       "raw_hot": 144374,
-      "num": 189637,
+      "num": 243533,
       "word": "何小鹏说夸克是AI时代超级入口",
       "onboard_time": 1742108782,
       "rank": 34,
@@ -1473,6 +1497,14 @@
       "onboard_time": 1742057243,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130173,
+      "num": 130173,
+      "word": "杨洋零帧娇俏",
+      "onboard_time": 1742109624,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 130061,
@@ -1555,6 +1587,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 111082,
+      "num": 365629,
+      "word": "网红为带货拉来小孩卖惨",
+      "onboard_time": 1742109383,
+      "rank": 28,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 110595,
       "num": 205897,
       "word": "半个韩娱在Jennie演唱会团建",
@@ -1569,14 +1609,6 @@
       "onboard_time": 1742069355,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 109371,
-      "num": 109371,
-      "word": "杨洋零帧娇俏",
-      "onboard_time": 1742109624,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 108289,
@@ -1601,14 +1633,6 @@
       "onboard_time": 1742052628,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 102144,
-      "num": 205801,
-      "word": "网红为带货拉来小孩卖惨",
-      "onboard_time": 1742109383,
-      "rank": 28,
-      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 101306,
@@ -1657,6 +1681,14 @@
       "onboard_time": 1742101403,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92360,
+      "num": 388236,
+      "word": "谁懂啊1亿人在1688丝滑搞钱",
+      "onboard_time": 1742108482,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 92272,
@@ -1715,14 +1747,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 72557,
-      "num": 381777,
-      "word": "谁懂啊1亿人在1688丝滑搞钱",
-      "onboard_time": 1742108482,
-      "rank": 14,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 72460,
       "num": 72460,
       "word": "卖增重虾仁公司负责人回应",
@@ -1777,6 +1801,14 @@
       "onboard_time": 1742103323,
       "rank": 24,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 53532,
+      "num": 141208,
+      "word": "Crew10任务飞船成功接驳国际空间站",
+      "onboard_time": 1742110522,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 52534,
@@ -1859,6 +1891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40756,
+      "num": 205153,
+      "word": "杜特尔特预计拘留一年",
+      "onboard_time": 1742108602,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 39093,
       "num": 39093,
       "word": "贝姿妍",
@@ -1881,6 +1921,14 @@
       "onboard_time": 1742064795,
       "rank": 46,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 36377,
+      "num": 192416,
+      "word": "与辉同行声明",
+      "onboard_time": 1742110462,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36179,
@@ -1913,6 +1961,14 @@
       "onboard_time": 1742069834,
       "rank": 45,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 34695,
+      "num": 306012,
+      "word": "诺里斯夺得2025F1澳大利亚站冠军",
+      "onboard_time": 1742110282,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 33553,
@@ -1985,14 +2041,6 @@
       "onboard_time": 1742070854,
       "rank": 48,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 23102,
-      "num": 205153,
-      "word": "杜特尔特预计拘留一年",
-      "onboard_time": 1742108602,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 17475,
