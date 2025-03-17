@@ -1,6 +1,6 @@
 {
   "startTime": 1742142428647,
-  "endTime": 1742193232441,
+  "endTime": 1742194018524,
   "band_list": [
     {
       "raw_hot": 2581413,
@@ -65,6 +65,22 @@
       "onboard_time": 1742140824,
       "rank": 3,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1255482,
+      "num": 1255482,
+      "word": "男子杀人后多年未婚担心说梦话露馅",
+      "onboard_time": 1742191761,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1197659,
+      "num": 359336,
+      "word": "主持人王小骞曝女儿患矮小症",
+      "onboard_time": 1742191821,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1172835,
@@ -171,14 +187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 846916,
-      "num": 287189,
-      "word": "主持人王小骞曝女儿患矮小症",
-      "onboard_time": 1742191821,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 840952,
       "num": 840952,
       "word": "母亲偷签3万婚介合同为女儿安排相亲",
@@ -236,7 +244,7 @@
     },
     {
       "raw_hot": 665674,
-      "num": 287123,
+      "num": 579489,
       "word": "韩国演员李诗英离婚",
       "onboard_time": 1742191340,
       "rank": 13,
@@ -267,14 +275,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 580662,
-      "num": 580662,
-      "word": "男子杀人后多年未婚担心说梦话露馅",
-      "onboard_time": 1742191761,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 526888,
       "num": 316426,
       "word": "将门毒后不用新人男演员演谢景行",
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 480787,
-      "num": 286752,
+      "num": 359005,
       "word": "偶遇迪丽热巴在日本拍摄",
       "onboard_time": 1742191340,
       "rank": 15,
@@ -363,6 +363,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 395204,
+      "num": 395204,
+      "word": "抑郁症和焦虑症的区别",
+      "onboard_time": 1742190500,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 393095,
+      "num": 393095,
+      "word": "孟子义奔跑吧13官宣节奏",
+      "onboard_time": 1742192603,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 383541,
       "num": 416529,
       "word": "赵一博人民交通航海安全宣传大使",
@@ -411,6 +427,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 323298,
+      "num": 323298,
+      "word": "将门毒后选择沈腾马丽的五大理由",
+      "onboard_time": 1742193625,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 323258,
       "num": 323258,
       "word": "王楚钦重庆赛夺冠",
@@ -443,14 +467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 297626,
-      "num": 260513,
-      "word": "孟子义奔跑吧13官宣节奏",
-      "onboard_time": 1742192603,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 294124,
       "num": 255865,
       "word": "华为Pura新品真机曝光",
@@ -467,12 +483,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 286341,
-      "num": 286341,
-      "word": "抑郁症和焦虑症的区别",
-      "onboard_time": 1742190500,
-      "rank": 17,
-      "category": "健康医疗"
+      "raw_hot": 289368,
+      "num": 320421,
+      "word": "宋慧乔李惠利 为自己闪耀",
+      "onboard_time": 1742191642,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 281348,
@@ -481,14 +497,6 @@
       "onboard_time": 1742141901,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 280919,
-      "num": 280919,
-      "word": "宋慧乔李惠利 为自己闪耀",
-      "onboard_time": 1742191642,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 276653,
@@ -723,6 +731,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 216096,
+      "num": 216096,
+      "word": "健身小伙每天5勺蛋白粉6个月后肾虚了",
+      "onboard_time": 1742192663,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 215767,
       "num": 215767,
       "word": "北京地铁10号线",
@@ -755,6 +771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 211738,
+      "num": 211738,
+      "word": "赵丽颖学舞花絮",
+      "onboard_time": 1742193441,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 211541,
       "num": 211541,
       "word": "研究生对硕士论文的理解",
@@ -769,6 +793,14 @@
       "onboard_time": 1742180781,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207082,
+      "num": 207082,
+      "word": "孟子义发言李昀锐藏话筒",
+      "onboard_time": 1742193381,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 204162,
@@ -787,6 +819,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196776,
+      "num": 196776,
+      "word": "李昀锐黄杨钿甜新剧预告",
+      "onboard_time": 1742193441,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 196599,
+      "num": 337471,
+      "word": "石头扫地机全球量额双第一",
+      "onboard_time": 1742193202,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 194745,
       "num": 290387,
       "word": "嘘国王在冬眠",
@@ -801,6 +849,14 @@
       "onboard_time": 1742188821,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 192349,
+      "num": 192349,
+      "word": "奔跑吧",
+      "onboard_time": 1742191162,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 191571,
@@ -907,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178905,
+      "num": 178905,
+      "word": "虞书欣诉自媒体侵权",
+      "onboard_time": 1742190142,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178551,
       "num": 178551,
       "word": "沈腾马丽海南合体录制团综",
@@ -921,14 +985,6 @@
       "onboard_time": 1742134045,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 171559,
-      "num": 171559,
-      "word": "奔跑吧",
-      "onboard_time": 1742191162,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 171417,
@@ -963,12 +1019,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 167194,
-      "num": 167194,
-      "word": "虞书欣诉自媒体侵权",
-      "onboard_time": 1742190142,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 166947,
+      "num": 359098,
+      "word": "南京警方破获一起15年前命案",
+      "onboard_time": 1742193561,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165632,
@@ -1035,12 +1091,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 150216,
-      "num": 150216,
-      "word": "健身小伙每天5勺蛋白粉6个月后肾虚了",
-      "onboard_time": 1742192663,
-      "rank": 41,
+      "raw_hot": 149001,
+      "num": 149001,
+      "word": "6名中学生微信群辱骂同学判担责",
+      "onboard_time": 1742190980,
+      "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148087,
+      "num": 148087,
+      "word": "白敬亭告别桑延",
+      "onboard_time": 1742193863,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 147616,
@@ -1155,12 +1219,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 130862,
-      "num": 130862,
-      "word": "6名中学生微信群辱骂同学判担责",
-      "onboard_time": 1742190980,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 131748,
+      "num": 187234,
+      "word": "周深想让更多人听到中文歌",
+      "onboard_time": 1742193142,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 130363,
@@ -1177,6 +1241,14 @@
       "onboard_time": 1742186904,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129125,
+      "num": 129125,
+      "word": "结婚前这4个网站你一定要知道",
+      "onboard_time": 1742193682,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128849,
@@ -1225,6 +1297,14 @@
       "onboard_time": 1742183242,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123471,
+      "num": 281939,
+      "word": "韩国军用无人机和直升机相撞",
+      "onboard_time": 1742190561,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 123443,
@@ -1331,14 +1411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 109679,
-      "num": 281939,
-      "word": "韩国军用无人机和直升机相撞",
-      "onboard_time": 1742190561,
-      "rank": 18,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 109489,
       "num": 264580,
       "word": "张康乐香港街头氛围感大片",
@@ -1395,14 +1467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 101955,
-      "num": 179098,
-      "word": "周深想让更多人听到中文歌",
-      "onboard_time": 1742193142,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 101951,
       "num": 269512,
       "word": "哪吒2票房151亿",
@@ -1449,6 +1513,14 @@
       "onboard_time": 1742137105,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 97461,
+      "num": 206106,
+      "word": "一觉醒来闻到古早聊斋味了",
+      "onboard_time": 1742193561,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 97218,
@@ -1843,6 +1915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 17349,
+      "num": 333278,
+      "word": "沉浸式体验国乒合照",
+      "onboard_time": 1742193742,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 16245,
       "num": 16245,
       "word": "一次性内裤",
@@ -1897,14 +1977,6 @@
       "onboard_time": 1742158034,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 7366,
-      "num": 124890,
-      "word": "石头扫地机全球量额双第一",
-      "onboard_time": 1742193202,
-      "rank": 49,
-      "category": "数码"
     }
   ],
   "hotgov_list": [
