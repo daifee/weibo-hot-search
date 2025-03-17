@@ -1,7 +1,15 @@
 {
   "startTime": 1742142428647,
-  "endTime": 1742177565206,
+  "endTime": 1742180577357,
   "band_list": [
+    {
+      "raw_hot": 1922426,
+      "num": 434378,
+      "word": "薛凯琪终日以泪洗面几度缺氧",
+      "onboard_time": 1742176761,
+      "rank": 14,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1824018,
       "num": 1824018,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 1164089,
-      "num": 307554,
+      "num": 419946,
       "word": "女子进行心理咨询11天后自杀身亡",
       "onboard_time": 1742176161,
       "rank": 17,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 995222,
-      "num": 323588,
+      "num": 402988,
       "word": "邓为 将门毒后",
       "onboard_time": 1742172982,
       "rank": 11,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 927419,
-      "num": 292984,
+      "num": 412417,
       "word": "金秀贤金赛纶2015年被拍到过",
       "onboard_time": 1742177241,
       "rank": 18,
@@ -115,6 +123,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 714705,
+      "num": 714705,
+      "word": "王楚钦重庆长江索道冠军照",
+      "onboard_time": 1742178441,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 609262,
+      "num": 609262,
+      "word": "台湾屏东市区凌晨爆发枪战",
+      "onboard_time": 1742175679,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 598253,
       "num": 598253,
       "word": "星巴克赔偿美国一外卖员5000万美元",
@@ -129,22 +153,6 @@
       "onboard_time": 1742167039,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 508260,
-      "num": 508260,
-      "word": "台湾屏东市区凌晨爆发枪战",
-      "onboard_time": 1742175679,
-      "rank": 14,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 476009,
-      "num": 293266,
-      "word": "薛凯琪终日以泪洗面几度缺氧",
-      "onboard_time": 1742176761,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 472009,
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 458962,
-      "num": 458962,
+      "num": 477587,
       "word": "周深以为演唱会门票卖不动",
       "onboard_time": 1742170400,
       "rank": 6,
@@ -203,12 +211,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 332262,
+      "num": 213367,
+      "word": "女生回应北大毕业转行当演员6年没火",
+      "onboard_time": 1742179041,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 330995,
       "num": 330995,
       "word": "近五年爆过雷的卫生巾品牌",
       "onboard_time": 1742128045,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 328457,
+      "num": 328457,
+      "word": "中国航空工业集团原董事长谭瑞松被捕",
+      "onboard_time": 1742177962,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 323258,
@@ -249,6 +273,14 @@
       "onboard_time": 1742120721,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 290412,
+      "num": 207504,
+      "word": "华为Pura新品真机曝光",
+      "onboard_time": 1742177721,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 281348,
@@ -347,12 +379,52 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 215767,
+      "num": 215767,
+      "word": "北京地铁10号线",
+      "onboard_time": 1742176221,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 212971,
+      "num": 458091,
+      "word": "英法坚持要向乌克兰派驻部队",
+      "onboard_time": 1742177181,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 211921,
       "num": 305743,
       "word": "哪吒2破5后还在冲",
       "onboard_time": 1742149036,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 201048,
+      "num": 201048,
+      "word": "伊能静为恩利庆祝23岁生日",
+      "onboard_time": 1742179882,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 198615,
+      "num": 198615,
+      "word": "新能源车续保为什么降价了",
+      "onboard_time": 1742180242,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 198565,
+      "num": 198565,
+      "word": "气血不足的人先学会忌口",
+      "onboard_time": 1742177901,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 191539,
@@ -427,12 +499,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 171996,
-      "num": 171996,
-      "word": "北京地铁10号线",
-      "onboard_time": 1742176221,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 170747,
+      "num": 170747,
+      "word": "WTT",
+      "onboard_time": 1742177601,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 167854,
@@ -465,6 +537,22 @@
       "onboard_time": 1742138365,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159403,
+      "num": 159403,
+      "word": "孙颖莎王楚钦冠军城市宣传照",
+      "onboard_time": 1742179100,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 152926,
+      "num": 152926,
+      "word": "肥胖分苹果型和梨型",
+      "onboard_time": 1742179282,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 150933,
@@ -627,14 +715,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 104509,
-      "num": 271837,
-      "word": "英法坚持要向乌克兰派驻部队",
-      "onboard_time": 1742177181,
-      "rank": 28,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 102645,
       "num": 102645,
       "word": "情侣住民宿被偷拍传到境外网站",
@@ -697,6 +777,14 @@
       "onboard_time": 1742137105,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 93287,
+      "num": 211954,
+      "word": "孙颖莎赛后回训练场复盘比赛",
+      "onboard_time": 1742179940,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 92976,
@@ -827,6 +915,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59588,
+      "num": 215083,
+      "word": "一线城市新建商品住宅环比上涨",
+      "onboard_time": 1742179940,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56653,
+      "num": 447711,
+      "word": "前2月全国城镇调查失业率平均5.3%",
+      "onboard_time": 1742179641,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 51295,
       "num": 241921,
       "word": "北马其顿全国哀悼7天",
@@ -921,6 +1025,14 @@
       "onboard_time": 1742175921,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22796,
+      "num": 208666,
+      "word": "蔡康永说平静大于快乐",
+      "onboard_time": 1742179821,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 22669,
