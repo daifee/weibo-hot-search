@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742251268527,
+  "endTime": 1742253769631,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -1307,6 +1307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 548328,
+      "num": 548328,
+      "word": "中方决不接受七国集团甩锅推责",
+      "onboard_time": 1742229199,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 545064,
       "num": 545064,
       "word": "台军发解放军95式步枪奖杯",
@@ -2043,14 +2051,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 326427,
-      "num": 496672,
-      "word": "中方决不接受七国集团甩锅推责",
-      "onboard_time": 1742229199,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 324732,
       "num": 324732,
       "word": "重庆地震",
@@ -2609,6 +2609,14 @@
       "onboard_time": 1742118800,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 242645,
+      "num": 242645,
+      "word": "李兆基汶川大地震捐款超5亿",
+      "onboard_time": 1742227582,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 241794,
@@ -4067,14 +4075,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 167580,
-      "num": 167580,
-      "word": "李兆基汶川大地震捐款超5亿",
-      "onboard_time": 1742227582,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 167439,
       "num": 167439,
       "word": "时光代理人",
@@ -4955,6 +4955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133967,
+      "num": 133967,
+      "word": "23岁女子体检异常未复查确诊尿毒症",
+      "onboard_time": 1742253618,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133669,
       "num": 625315,
       "word": "苏菲称涉事包装产品目前非公司生产",
@@ -5161,6 +5169,14 @@
       "onboard_time": 1742190561,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 125580,
+      "num": 150422,
+      "word": "杨紫跳了earthquake手势舞",
+      "onboard_time": 1742246833,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 125547,
@@ -5531,6 +5547,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 112971,
+      "num": 112971,
+      "word": "离了杨洋谁还拿于洋当小孩",
+      "onboard_time": 1742225722,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112774,
       "num": 112774,
       "word": "陈昊森发了难哄主演合照",
@@ -5763,6 +5787,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 98190,
+      "num": 98190,
+      "word": "减肥党最容易踩的坑",
+      "onboard_time": 1742228659,
+      "rank": 45,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 97461,
       "num": 206106,
       "word": "一觉醒来闻到古早聊斋味了",
@@ -5923,6 +5955,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 91325,
+      "num": 91325,
+      "word": "菠萝族长出售族人销量翻4倍",
+      "onboard_time": 1742245634,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90184,
       "num": 314313,
       "word": "多地连夜查处315晚会曝光问题",
@@ -5960,6 +6000,14 @@
       "word": "燃罪",
       "onboard_time": 1742175621,
       "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 86905,
+      "num": 86905,
+      "word": "北上 官配",
+      "onboard_time": 1742250436,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -6009,14 +6057,6 @@
       "onboard_time": 1742189121,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 83073,
-      "num": 83073,
-      "word": "离了杨洋谁还拿于洋当小孩",
-      "onboard_time": 1742225722,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 82538,
@@ -6147,14 +6187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 75043,
-      "num": 75043,
-      "word": "减肥党最容易踩的坑",
-      "onboard_time": 1742228659,
-      "rank": 45,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 74046,
       "num": 314742,
       "word": "律师称解决加班乱象将刺激消费",
@@ -6193,6 +6225,14 @@
       "onboard_time": 1742069236,
       "rank": 21,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 72374,
+      "num": 199366,
+      "word": "卢旺达驱逐比利时所有外交官",
+      "onboard_time": 1742231777,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 72359,
@@ -6307,6 +6347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60409,
+      "num": 60409,
+      "word": "湖南卫视连发15条张杰",
+      "onboard_time": 1742252840,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 60151,
       "num": 369398,
       "word": "极氪智驾坐稳第一梯队",
@@ -6385,14 +6433,6 @@
       "onboard_time": 1742110522,
       "rank": 41,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 53307,
-      "num": 68000,
-      "word": "杨紫跳了earthquake手势舞",
-      "onboard_time": 1742246833,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 53019,
@@ -6483,6 +6523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51424,
+      "num": 83571,
+      "word": "外交部回应G7炒作涉华议题",
+      "onboard_time": 1742227520,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 51343,
       "num": 279292,
       "word": "全面彻查315晚会曝光的企业违法行为",
@@ -6521,6 +6569,14 @@
       "onboard_time": 1742216543,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50004,
+      "num": 50004,
+      "word": "肖战走过了无尽旷野",
+      "onboard_time": 1742248215,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 49854,
@@ -6585,14 +6641,6 @@
       "onboard_time": 1742081478,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45422,
-      "num": 83571,
-      "word": "外交部回应G7炒作涉华议题",
-      "onboard_time": 1742227520,
-      "rank": 33,
-      "category": "国内时政"
     },
     {
       "raw_hot": 44415,
@@ -6675,6 +6723,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 39138,
+      "num": 44834,
+      "word": "这就是虞书欣说的竹马比不过天降",
+      "onboard_time": 1742252658,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 39093,
       "num": 39093,
       "word": "贝姿妍",
@@ -6699,14 +6755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 38095,
-      "num": 38095,
-      "word": "卢旺达驱逐比利时所有外交官",
-      "onboard_time": 1742231777,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 38031,
       "num": 38031,
       "word": "平邑3家黄桃罐头厂被查封",
@@ -6729,14 +6777,6 @@
       "onboard_time": 1742064795,
       "rank": 46,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 37621,
-      "num": 37621,
-      "word": "菠萝族长出售族人销量翻4倍",
-      "onboard_time": 1742245634,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37459,
@@ -6785,14 +6825,6 @@
       "onboard_time": 1742130144,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35537,
-      "num": 37781,
-      "word": "肖战走过了无尽旷野",
-      "onboard_time": 1742248215,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 35177,
@@ -6905,6 +6937,14 @@
       "onboard_time": 1742062757,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 29499,
+      "num": 44820,
+      "word": "似锦没有曹斐然这婚真结不了",
+      "onboard_time": 1742253561,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 29464,
@@ -7025,14 +7065,6 @@
       "onboard_time": 1742176101,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 25832,
-      "num": 25832,
-      "word": "北上 官配",
-      "onboard_time": 1742250436,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 25147,

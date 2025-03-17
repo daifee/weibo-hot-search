@@ -1,6 +1,6 @@
 {
   "startTime": 1742229077214,
-  "endTime": 1742251268527,
+  "endTime": 1742253769631,
   "band_list": [
     {
       "raw_hot": 1096550,
@@ -27,12 +27,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 516713,
-      "num": 516713,
+      "raw_hot": 604950,
+      "num": 805194,
       "word": "短剧女主余茵回应颜值身高都一般",
       "onboard_time": 1742221045,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 548328,
+      "num": 548328,
+      "word": "中方决不接受七国集团甩锅推责",
+      "onboard_time": 1742229199,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 463741,
@@ -99,14 +107,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 326427,
-      "num": 496672,
-      "word": "中方决不接受七国集团甩锅推责",
-      "onboard_time": 1742229199,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 297770,
       "num": 297770,
       "word": "谁说现偶不需要演技",
@@ -121,6 +121,14 @@
       "onboard_time": 1742221224,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 242645,
+      "num": 242645,
+      "word": "李兆基汶川大地震捐款超5亿",
+      "onboard_time": 1742227582,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 233072,
@@ -139,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216767,
+      "num": 216767,
+      "word": "老公恐高女子坐月子坐一半紧急搬家",
+      "onboard_time": 1742216184,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205223,
       "num": 205223,
       "word": "刘宇宁维护工作室",
@@ -155,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187452,
+      "num": 187452,
+      "word": "台湾枪战细节曝光",
+      "onboard_time": 1742215284,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180312,
       "num": 126996,
       "word": "丁禹兮南部档案片场救人",
@@ -163,12 +187,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 167580,
-      "num": 167580,
-      "word": "李兆基汶川大地震捐款超5亿",
-      "onboard_time": 1742227582,
-      "rank": 9,
-      "category": "财经"
+      "raw_hot": 145908,
+      "num": 145908,
+      "word": "浙大回应网传副教授选妃事件",
+      "onboard_time": 1742220625,
+      "rank": 26,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 140788,
@@ -179,12 +203,36 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 133967,
+      "num": 133967,
+      "word": "23岁女子体检异常未复查确诊尿毒症",
+      "onboard_time": 1742253618,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132020,
       "num": 132020,
       "word": "妈妈腹中胎儿4根手指被缠绕2根坏死",
       "onboard_time": 1742199501,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125580,
+      "num": 150422,
+      "word": "杨紫跳了earthquake手势舞",
+      "onboard_time": 1742246833,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 123591,
+      "num": 146218,
+      "word": "肖战一个眼神就知道是权谋戏了",
+      "onboard_time": 1742209165,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 123506,
@@ -211,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112971,
+      "num": 112971,
+      "word": "离了杨洋谁还拿于洋当小孩",
+      "onboard_time": 1742225722,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109165,
       "num": 109165,
       "word": "马丽演我看刘耀文",
@@ -219,20 +275,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 104097,
-      "num": 104097,
-      "word": "老公恐高女子坐月子坐一半紧急搬家",
-      "onboard_time": 1742216184,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 102589,
-      "num": 102589,
-      "word": "浙大回应网传副教授选妃事件",
-      "onboard_time": 1742220625,
-      "rank": 26,
-      "category": "辟谣/通报"
+      "raw_hot": 98190,
+      "num": 98190,
+      "word": "减肥党最容易踩的坑",
+      "onboard_time": 1742228659,
+      "rank": 45,
+      "category": "运动健身"
     },
     {
       "raw_hot": 96316,
@@ -259,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91325,
+      "num": 91325,
+      "word": "菠萝族长出售族人销量翻4倍",
+      "onboard_time": 1742245634,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91101,
       "num": 91101,
       "word": "黄雀定档",
@@ -275,20 +331,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 88077,
-      "num": 88077,
-      "word": "台湾枪战细节曝光",
-      "onboard_time": 1742215284,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87254,
       "num": 87254,
       "word": "同居31年女子突然离世男友被赶出门",
       "onboard_time": 1742221165,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86905,
+      "num": 86905,
+      "word": "北上 官配",
+      "onboard_time": 1742250436,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 85395,
@@ -299,28 +355,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 80719,
-      "num": 80719,
-      "word": "肖战一个眼神就知道是权谋戏了",
-      "onboard_time": 1742209165,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 78901,
       "num": 78901,
       "word": "蒋胜男辟谣建议对未婚男性停发工资",
       "onboard_time": 1742223264,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 75043,
-      "num": 75043,
-      "word": "减肥党最容易踩的坑",
-      "onboard_time": 1742228659,
-      "rank": 45,
-      "category": "运动健身"
     },
     {
       "raw_hot": 73888,
@@ -339,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72374,
+      "num": 199366,
+      "word": "卢旺达驱逐比利时所有外交官",
+      "onboard_time": 1742231777,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 72362,
       "num": 72362,
       "word": "杨紫全国巡跳第二轮",
@@ -347,12 +395,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 67824,
-      "num": 67824,
-      "word": "离了杨洋谁还拿于洋当小孩",
-      "onboard_time": 1742225722,
-      "rank": 39,
-      "category": "综艺"
+      "raw_hot": 70283,
+      "num": 70283,
+      "word": "中方军事行动是对台独势力的严正警告",
+      "onboard_time": 1742207782,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 67000,
@@ -361,14 +409,6 @@
       "onboard_time": 1742206342,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 65674,
-      "num": 65674,
-      "word": "中方军事行动是对台独势力的严正警告",
-      "onboard_time": 1742207782,
-      "rank": 42,
-      "category": "国内时政"
     },
     {
       "raw_hot": 65501,
@@ -411,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 60409,
+      "num": 60409,
+      "word": "湖南卫视连发15条张杰",
+      "onboard_time": 1742252840,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 60364,
       "num": 60364,
       "word": "虞书欣林一这条共创好抽象",
@@ -435,14 +483,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 53307,
-      "num": 68000,
-      "word": "杨紫跳了earthquake手势舞",
-      "onboard_time": 1742246833,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 52247,
       "num": 52247,
       "word": "正告赖清德当局",
@@ -459,12 +499,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 45422,
+      "raw_hot": 51424,
       "num": 83571,
       "word": "外交部回应G7炒作涉华议题",
       "onboard_time": 1742227520,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 50004,
+      "num": 50004,
+      "word": "肖战走过了无尽旷野",
+      "onboard_time": 1742248215,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 43585,
@@ -475,28 +523,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 38095,
-      "num": 38095,
-      "word": "卢旺达驱逐比利时所有外交官",
-      "onboard_time": 1742231777,
-      "rank": 48,
-      "category": "国际时政"
+      "raw_hot": 39138,
+      "num": 44834,
+      "word": "这就是虞书欣说的竹马比不过天降",
+      "onboard_time": 1742252658,
+      "rank": 45,
+      "category": "剧集"
     },
     {
-      "raw_hot": 37621,
-      "num": 37621,
-      "word": "菠萝族长出售族人销量翻4倍",
-      "onboard_time": 1742245634,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35537,
-      "num": 37781,
-      "word": "肖战走过了无尽旷野",
-      "onboard_time": 1742248215,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 29499,
+      "num": 44820,
+      "word": "似锦没有曹斐然这婚真结不了",
+      "onboard_time": 1742253561,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 28787,
@@ -521,14 +561,6 @@
       "onboard_time": 1742232316,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 25832,
-      "num": 25832,
-      "word": "北上 官配",
-      "onboard_time": 1742250436,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 25116,
