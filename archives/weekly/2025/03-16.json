@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742250228422,
+  "endTime": 1742251268527,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -2043,6 +2043,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 326427,
+      "num": 496672,
+      "word": "中方决不接受七国集团甩锅推责",
+      "onboard_time": 1742229199,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 324732,
       "num": 324732,
       "word": "重庆地震",
@@ -2513,14 +2521,6 @@
       "onboard_time": 1742202562,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 252254,
-      "num": 395378,
-      "word": "中方决不接受七国集团甩锅推责",
-      "onboard_time": 1742229199,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 251993,
@@ -6387,6 +6387,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 53307,
+      "num": 68000,
+      "word": "杨紫跳了earthquake手势舞",
+      "onboard_time": 1742246833,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 53019,
       "num": 234744,
       "word": "少儿医疗保险套路调查",
@@ -6691,6 +6699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38095,
+      "num": 38095,
+      "word": "卢旺达驱逐比利时所有外交官",
+      "onboard_time": 1742231777,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 38031,
       "num": 38031,
       "word": "平邑3家黄桃罐头厂被查封",
@@ -6713,6 +6729,14 @@
       "onboard_time": 1742064795,
       "rank": 46,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 37621,
+      "num": 37621,
+      "word": "菠萝族长出售族人销量翻4倍",
+      "onboard_time": 1742245634,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37459,
@@ -6763,6 +6787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35537,
+      "num": 37781,
+      "word": "肖战走过了无尽旷野",
+      "onboard_time": 1742248215,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 35177,
       "num": 35177,
       "word": "兑捷",
@@ -6811,14 +6843,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 33324,
-      "num": 33324,
-      "word": "卢旺达驱逐比利时所有外交官",
-      "onboard_time": 1742231777,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 33198,
       "num": 94613,
       "word": "K总伴郎团",
@@ -6841,14 +6865,6 @@
       "onboard_time": 1742216484,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 32779,
-      "num": 32779,
-      "word": "杨紫跳了earthquake手势舞",
-      "onboard_time": 1742246833,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 32351,
@@ -6979,22 +6995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 26783,
-      "num": 26783,
-      "word": "菠萝族长出售族人销量翻4倍",
-      "onboard_time": 1742245634,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26366,
-      "num": 31353,
-      "word": "肖战走过了无尽旷野",
-      "onboard_time": 1742248215,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 26332,
       "num": 332452,
       "word": "勒克莱尔抵达上海",
@@ -7025,6 +7025,14 @@
       "onboard_time": 1742176101,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 25832,
+      "num": 25832,
+      "word": "北上 官配",
+      "onboard_time": 1742250436,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 25147,
@@ -7155,6 +7163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19726,
+      "num": 25800,
+      "word": "电视剧北上",
+      "onboard_time": 1742238553,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 19610,
       "num": 123606,
       "word": "空中架起2000多公里电力高速",
@@ -7163,12 +7179,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19260,
-      "num": 20273,
-      "word": "电视剧北上",
-      "onboard_time": 1742238553,
-      "rank": 37,
-      "category": "剧集"
+      "raw_hot": 19028,
+      "num": 25790,
+      "word": "莫迪对华最新表态",
+      "onboard_time": 1742238974,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 18711,
@@ -7187,8 +7203,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 18006,
-      "num": 20703,
+      "raw_hot": 18017,
+      "num": 25766,
       "word": "小伙异乡入伍战友妈妈暖心安慰",
       "onboard_time": 1742233576,
       "rank": 49,
@@ -7233,14 +7249,6 @@
       "onboard_time": 1742196082,
       "rank": 29,
       "category": "电影,动漫"
-    },
-    {
-      "raw_hot": 16581,
-      "num": 20278,
-      "word": "莫迪对华最新表态",
-      "onboard_time": 1742238974,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 16245,

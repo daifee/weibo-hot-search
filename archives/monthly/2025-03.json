@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742250228422,
+  "endTime": 1742251268527,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -13947,6 +13947,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 326427,
+      "num": 496672,
+      "word": "中方决不接受七国集团甩锅推责",
+      "onboard_time": 1742229199,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 326275,
       "num": 326275,
       "word": "低价假酸奶6款产品已下架",
@@ -17457,14 +17465,6 @@
       "onboard_time": 1741053256,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 252254,
-      "num": 395378,
-      "word": "中方决不接受七国集团甩锅推责",
-      "onboard_time": 1742229199,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 252201,
@@ -48283,6 +48283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 53307,
+      "num": 68000,
+      "word": "杨紫跳了earthquake手势舞",
+      "onboard_time": 1742246833,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 53290,
       "num": 53290,
       "word": "华莱士后厨蟑螂窜苍蝇飞店员漠视",
@@ -50587,6 +50595,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 38095,
+      "num": 38095,
+      "word": "卢旺达驱逐比利时所有外交官",
+      "onboard_time": 1742231777,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 38053,
       "num": 270433,
       "word": "最高法严惩偷拍窃听违法犯罪",
@@ -50657,6 +50673,14 @@
       "onboard_time": 1741268843,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 37621,
+      "num": 37621,
+      "word": "菠萝族长出售族人销量翻4倍",
+      "onboard_time": 1742245634,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37552,
@@ -51009,6 +51033,14 @@
       "onboard_time": 1742130144,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35537,
+      "num": 37781,
+      "word": "肖战走过了无尽旷野",
+      "onboard_time": 1742248215,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 35360,
@@ -51403,14 +51435,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 33324,
-      "num": 33324,
-      "word": "卢旺达驱逐比利时所有外交官",
-      "onboard_time": 1742231777,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 33268,
       "num": 181131,
       "word": "看夜景就能猜出城市了",
@@ -51553,14 +51577,6 @@
       "onboard_time": 1742052628,
       "rank": 7,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 32779,
-      "num": 32779,
-      "word": "杨紫跳了earthquake手势舞",
-      "onboard_time": 1742246833,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 32759,
@@ -52571,14 +52587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 26783,
-      "num": 26783,
-      "word": "菠萝族长出售族人销量翻4倍",
-      "onboard_time": 1742245634,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 26692,
       "num": 26692,
       "word": "祝绪丹支持虞书欣新剧",
@@ -52673,14 +52681,6 @@
       "onboard_time": 1741956083,
       "rank": 40,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 26366,
-      "num": 31353,
-      "word": "肖战走过了无尽旷野",
-      "onboard_time": 1742248215,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 26332,
@@ -52809,6 +52809,14 @@
       "onboard_time": 1741090759,
       "rank": 14,
       "category": "国内时政,教育"
+    },
+    {
+      "raw_hot": 25832,
+      "num": 25832,
+      "word": "北上 官配",
+      "onboard_time": 1742250436,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 25784,
@@ -53907,6 +53915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 19726,
+      "num": 25800,
+      "word": "电视剧北上",
+      "onboard_time": 1742238553,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 19663,
       "num": 19663,
       "word": "白鹿进组北上前很焦虑",
@@ -53971,14 +53987,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19260,
-      "num": 20273,
-      "word": "电视剧北上",
-      "onboard_time": 1742238553,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 19251,
       "num": 22936,
       "word": "在中国看来朋友是永远的",
@@ -54017,6 +54025,14 @@
       "onboard_time": 1741098621,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 19028,
+      "num": 25790,
+      "word": "莫迪对华最新表态",
+      "onboard_time": 1742238974,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 19001,
@@ -54187,20 +54203,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 18017,
+      "num": 25766,
+      "word": "小伙异乡入伍战友妈妈暖心安慰",
+      "onboard_time": 1742233576,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18014,
       "num": 240851,
       "word": "萨巴伦卡获劳伦斯最佳女运动员提名",
       "onboard_time": 1741009820,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 18006,
-      "num": 20703,
-      "word": "小伙异乡入伍战友妈妈暖心安慰",
-      "onboard_time": 1742233576,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17957,
@@ -54473,14 +54489,6 @@
       "onboard_time": 1740976040,
       "rank": 34,
       "category": "民生新闻,国内时政"
-    },
-    {
-      "raw_hot": 16581,
-      "num": 20278,
-      "word": "莫迪对华最新表态",
-      "onboard_time": 1742238974,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 16580,
