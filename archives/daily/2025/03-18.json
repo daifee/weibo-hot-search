@@ -1,6 +1,6 @@
 {
   "startTime": 1742229077214,
-  "endTime": 1742247440333,
+  "endTime": 1742250228422,
   "band_list": [
     {
       "raw_hot": 1096550,
@@ -115,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 252254,
+      "num": 395378,
+      "word": "中方决不接受七国集团甩锅推责",
+      "onboard_time": 1742229199,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 233072,
       "num": 233072,
       "word": "外交部批七国集团外长会联合声明",
@@ -185,14 +193,6 @@
       "onboard_time": 1742229319,
       "rank": 32,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 118980,
-      "num": 269151,
-      "word": "中方决不接受七国集团甩锅推责",
-      "onboard_time": 1742229199,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 114767,
@@ -339,6 +339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68394,
+      "num": 68394,
+      "word": "台湾枪战细节曝光",
+      "onboard_time": 1742215284,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67824,
       "num": 67824,
       "word": "离了杨洋谁还拿于洋当小孩",
@@ -443,14 +451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 49247,
-      "num": 49247,
-      "word": "台湾枪战细节曝光",
-      "onboard_time": 1742215284,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 45422,
       "num": 83571,
       "word": "外交部回应G7炒作涉华议题",
@@ -475,6 +475,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 32779,
+      "num": 32779,
+      "word": "杨紫跳了earthquake手势舞",
+      "onboard_time": 1742246833,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 28787,
       "num": 28787,
       "word": "麦琳晒自己的十年之路",
@@ -488,6 +496,22 @@
       "word": "登陆少年200天特辑采访",
       "onboard_time": 1742232136,
       "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 26783,
+      "num": 26783,
+      "word": "菠萝族长出售族人销量翻4倍",
+      "onboard_time": 1742245634,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26366,
+      "num": 31353,
+      "word": "肖战走过了无尽旷野",
+      "onboard_time": 1742248215,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -532,7 +556,7 @@
     },
     {
       "raw_hot": 19260,
-      "num": 19260,
+      "num": 20273,
       "word": "电视剧北上",
       "onboard_time": 1742238553,
       "rank": 37,
@@ -547,20 +571,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14965,
-      "num": 17075,
+      "raw_hot": 16581,
+      "num": 20278,
       "word": "莫迪对华最新表态",
       "onboard_time": 1742238974,
       "rank": 48,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 14671,
-      "num": 17086,
-      "word": "菠萝族长出售族人销量翻4倍",
-      "onboard_time": 1742245634,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14104,
@@ -593,14 +609,6 @@
       "onboard_time": 1742242034,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 12873,
-      "num": 16784,
-      "word": "杨紫跳了earthquake手势舞",
-      "onboard_time": 1742246833,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 11791,
