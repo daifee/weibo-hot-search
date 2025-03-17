@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742189030222,
+  "endTime": 1742190021726,
   "band_list": [
     {
       "raw_hot": 9740375,
@@ -235,20 +235,20 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1467114,
+      "num": 409711,
+      "word": "金赛纶的画",
+      "onboard_time": 1742187383,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1447255,
       "num": 470138,
       "word": "情侣住民宿被偷拍传到境外网站",
       "onboard_time": 1742108121,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1435648,
-      "num": 238602,
-      "word": "金赛纶的画",
-      "onboard_time": 1742187383,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1416467,
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 1015921,
-      "num": 339476,
+      "num": 406661,
       "word": "用人民币感受韩国的工资水平",
       "onboard_time": 1742185764,
       "rank": 13,
@@ -545,6 +545,14 @@
       "onboard_time": 1742174841,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 918374,
+      "num": 918374,
+      "word": "TF椰子水",
+      "onboard_time": 1742184923,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 912276,
@@ -657,14 +665,6 @@
       "onboard_time": 1742172802,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 759914,
-      "num": 759914,
-      "word": "TF椰子水",
-      "onboard_time": 1742184923,
-      "rank": 32,
-      "category": "美食"
     },
     {
       "raw_hot": 759908,
@@ -784,6 +784,14 @@
       "word": "将门毒后的选角要求",
       "onboard_time": 1742134045,
       "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 641282,
+      "num": 641282,
+      "word": "白敬亭新剧又掉进循环里了",
+      "onboard_time": 1742188581,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -1283,6 +1291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 409410,
+      "num": 356412,
+      "word": "用自己的12年换女儿的生命",
+      "onboard_time": 1742186484,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 403795,
       "num": 377218,
       "word": "当地回应省考多名考生因事故被堵高速",
@@ -1465,14 +1481,6 @@
       "onboard_time": 1742043813,
       "rank": 13,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 341005,
-      "num": 235842,
-      "word": "用自己的12年换女儿的生命",
-      "onboard_time": 1742186484,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 338357,
@@ -2099,6 +2107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 230975,
+      "num": 230975,
+      "word": "孟子义李昀锐同款战损妆",
+      "onboard_time": 1742189361,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 230799,
       "num": 391301,
       "word": "欧阳娜娜欧阳娣娣舞台风格极与极",
@@ -2227,6 +2243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218769,
+      "num": 218769,
+      "word": "香飘飘招聘优先空乘专业",
+      "onboard_time": 1742188283,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218683,
       "num": 300911,
       "word": "还有哪些卫生巾品牌没爆过雷",
@@ -2281,14 +2305,6 @@
       "onboard_time": 1742176221,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 215509,
-      "num": 219303,
-      "word": "白敬亭新剧又掉进循环里了",
-      "onboard_time": 1742188581,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 215129,
@@ -2851,6 +2867,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 182240,
+      "num": 205445,
+      "word": "单依纯撤回了一条回归线",
+      "onboard_time": 1742189661,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 181943,
       "num": 181943,
       "word": "孙颖莎11比4陈幸同",
@@ -2993,6 +3017,14 @@
       "onboard_time": 1742107941,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171417,
+      "num": 218919,
+      "word": "孟子义抹胸粉裙",
+      "onboard_time": 1742188283,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 171290,
@@ -3281,14 +3313,6 @@
       "onboard_time": 1742057003,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 154615,
-      "num": 218919,
-      "word": "孟子义抹胸粉裙",
-      "onboard_time": 1742188283,
-      "rank": 28,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 153674,
@@ -3683,14 +3707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133809,
-      "num": 133809,
-      "word": "香飘飘招聘优先空乘专业",
-      "onboard_time": 1742188283,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 133669,
       "num": 625315,
       "word": "苏菲称涉事包装产品目前非公司生产",
@@ -3819,6 +3835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125886,
+      "num": 125886,
+      "word": "何与 百花杀",
+      "onboard_time": 1742189780,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125134,
       "num": 304936,
       "word": "白敬亭章若楠杀青dv",
@@ -3923,6 +3947,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 118750,
+      "num": 118750,
+      "word": "不眠日最新预告",
+      "onboard_time": 1742189062,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118250,
       "num": 118250,
       "word": "泸州油纸伞撑起头顶上的风景",
@@ -3955,6 +3987,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 115209,
+      "num": 923254,
+      "word": "提振消费专项行动30条",
+      "onboard_time": 1742183364,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 114329,
       "num": 290932,
       "word": "李小冉不跟张蔷一起住的原因",
@@ -3977,14 +4017,6 @@
       "onboard_time": 1742114360,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 111293,
-      "num": 923254,
-      "word": "提振消费专项行动30条",
-      "onboard_time": 1742183364,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 111082,
@@ -4283,6 +4315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83179,
+      "num": 268486,
+      "word": "品牌方要求删除抹黑赵露思视频",
+      "onboard_time": 1742189121,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82052,
       "num": 450695,
       "word": "周深多伦多演唱会钢琴没电了",
@@ -4395,6 +4435,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 72359,
+      "num": 267894,
+      "word": "北京地铁发布延误公告",
+      "onboard_time": 1742188643,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71653,
       "num": 170018,
       "word": "脑力劳动者周末多做反差大的事",
@@ -4473,6 +4521,14 @@
       "onboard_time": 1742063177,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 56771,
+      "num": 171615,
+      "word": "夏以昼我记得你说过",
+      "onboard_time": 1742189841,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 55658,
@@ -4608,14 +4664,6 @@
       "word": "武大最年轻正教授年薪60万",
       "onboard_time": 1742081478,
       "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44576,
-      "num": 235062,
-      "word": "北京地铁发布延误公告",
-      "onboard_time": 1742188643,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -4944,6 +4992,14 @@
       "word": "失联复旦男博士溺水身亡排除刑案",
       "onboard_time": 1742120542,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22266,
+      "num": 713055,
+      "word": "三名网红街头拍低俗视频被行政处罚",
+      "onboard_time": 1742189661,
+      "rank": 2,
       "category": "民生新闻"
     },
     {

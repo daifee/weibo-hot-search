@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742189030222,
+  "endTime": 1742190021726,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1755,6 +1755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1467114,
+      "num": 409711,
+      "word": "金赛纶的画",
+      "onboard_time": 1742187383,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1465715,
       "num": 1465715,
       "word": "Babycare",
@@ -1841,14 +1849,6 @@
       "onboard_time": 1741225577,
       "rank": 49,
       "category": "互联网,数码"
-    },
-    {
-      "raw_hot": 1435648,
-      "num": 238602,
-      "word": "金赛纶的画",
-      "onboard_time": 1742187383,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1429273,
@@ -3380,7 +3380,7 @@
     },
     {
       "raw_hot": 1015921,
-      "num": 339476,
+      "num": 406661,
       "word": "用人民币感受韩国的工资水平",
       "onboard_time": 1742185764,
       "rank": 13,
@@ -4001,6 +4001,14 @@
       "onboard_time": 1741495220,
       "rank": 12,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 918374,
+      "num": 918374,
+      "word": "TF椰子水",
+      "onboard_time": 1742184923,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 915048,
@@ -5251,14 +5259,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 759914,
-      "num": 759914,
-      "word": "TF椰子水",
-      "onboard_time": 1742184923,
-      "rank": 32,
-      "category": "美食"
-    },
-    {
       "raw_hot": 759908,
       "num": 434525,
       "word": "主持人张蕾怒斥心脏看什么都脏",
@@ -6465,6 +6465,14 @@
       "onboard_time": 1741667185,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 641282,
+      "num": 641282,
+      "word": "白敬亭新剧又掉进循环里了",
+      "onboard_time": 1742188581,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 641140,
@@ -10579,6 +10587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 409410,
+      "num": 356412,
+      "word": "用自己的12年换女儿的生命",
+      "onboard_time": 1742186484,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 408876,
       "num": 292343,
       "word": "光渊日本开播",
@@ -12833,14 +12849,6 @@
       "onboard_time": 1741259421,
       "rank": 38,
       "category": "国内时政,互联网"
-    },
-    {
-      "raw_hot": 341005,
-      "num": 235842,
-      "word": "用自己的12年换女儿的生命",
-      "onboard_time": 1742186484,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 340742,
@@ -18147,6 +18155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 230975,
+      "num": 230975,
+      "word": "孟子义李昀锐同款战损妆",
+      "onboard_time": 1742189361,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 230912,
       "num": 295120,
       "word": "网红廖叔去世家属发讣告",
@@ -19251,6 +19267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218769,
+      "num": 218769,
+      "word": "香飘飘招聘优先空乘专业",
+      "onboard_time": 1742188283,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218693,
       "num": 315440,
       "word": "时代少年团 太原",
@@ -19569,14 +19593,6 @@
       "onboard_time": 1741874364,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 215509,
-      "num": 219303,
-      "word": "白敬亭新剧又掉进循环里了",
-      "onboard_time": 1742188581,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 215362,
@@ -24379,6 +24395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182240,
+      "num": 205445,
+      "word": "单依纯撤回了一条回归线",
+      "onboard_time": 1742189661,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 182131,
       "num": 182131,
       "word": "文淇 无所谓反正老娘很美",
@@ -25881,6 +25905,14 @@
       "onboard_time": 1741821378,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 171417,
+      "num": 218919,
+      "word": "孟子义抹胸粉裙",
+      "onboard_time": 1742188283,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 171388,
@@ -29057,14 +29089,6 @@
       "onboard_time": 1742057003,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 154615,
-      "num": 218919,
-      "word": "孟子义抹胸粉裙",
-      "onboard_time": 1742188283,
-      "rank": 28,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 154612,
@@ -33179,14 +33203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 133809,
-      "num": 133809,
-      "word": "香飘飘招聘优先空乘专业",
-      "onboard_time": 1742188283,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 133782,
       "num": 948459,
       "word": "今年两会这些看点值得关注",
@@ -34809,6 +34825,14 @@
       "onboard_time": 1741749561,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125886,
+      "num": 125886,
+      "word": "何与 百花杀",
+      "onboard_time": 1742189780,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 125805,
@@ -36435,6 +36459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118750,
+      "num": 118750,
+      "word": "不眠日最新预告",
+      "onboard_time": 1742189062,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118728,
       "num": 118728,
       "word": "广东男篮战胜辽宁男篮",
@@ -37081,6 +37113,14 @@
       "onboard_time": 1741864823,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115209,
+      "num": 923254,
+      "word": "提振消费专项行动30条",
+      "onboard_time": 1742183364,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 115201,
@@ -37873,14 +37913,6 @@
       "onboard_time": 1741669822,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 111293,
-      "num": 923254,
-      "word": "提振消费专项行动30条",
-      "onboard_time": 1742183364,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 111247,
@@ -42931,6 +42963,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 83179,
+      "num": 268486,
+      "word": "品牌方要求删除抹黑赵露思视频",
+      "onboard_time": 1742189121,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83169,
       "num": 228307,
       "word": "刘洋说期待再度奔赴太空",
@@ -44089,6 +44129,14 @@
       "onboard_time": 1741144398,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 72359,
+      "num": 267894,
+      "word": "北京地铁发布延误公告",
+      "onboard_time": 1742188643,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72321,
@@ -45979,6 +46027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56771,
+      "num": 171615,
+      "word": "夏以昼我记得你说过",
+      "onboard_time": 1742189841,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 56765,
       "num": 56765,
       "word": "杨肸子说红房子陈欢尔是人生角色",
@@ -47561,14 +47617,6 @@
       "onboard_time": 1741249881,
       "rank": 8,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 44576,
-      "num": 235062,
-      "word": "北京地铁发布延误公告",
-      "onboard_time": 1742188643,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 44561,
@@ -51353,6 +51401,14 @@
       "onboard_time": 1741682241,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 22266,
+      "num": 713055,
+      "word": "三名网红街头拍低俗视频被行政处罚",
+      "onboard_time": 1742189661,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22144,
