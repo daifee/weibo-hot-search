@@ -1,6 +1,6 @@
 {
   "startTime": 1742142428647,
-  "endTime": 1742180577357,
+  "endTime": 1742181115814,
   "band_list": [
     {
       "raw_hot": 1922426,
@@ -41,6 +41,14 @@
       "onboard_time": 1742137105,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1169647,
+      "num": 288238,
+      "word": "薛凯琪身体疑似躯体化",
+      "onboard_time": 1742180841,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 1164089,
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 332262,
-      "num": 213367,
+      "num": 268418,
       "word": "女生回应北大毕业转行当演员6年没火",
       "onboard_time": 1742179041,
       "rank": 22,
@@ -267,20 +275,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 294124,
+      "num": 255865,
+      "word": "华为Pura新品真机曝光",
+      "onboard_time": 1742177721,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 291787,
       "num": 240039,
       "word": "李镇浩发视频当天金赛纶自杀了6次",
       "onboard_time": 1742120721,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 290412,
-      "num": 207504,
-      "word": "华为Pura新品真机曝光",
-      "onboard_time": 1742177721,
-      "rank": 30,
-      "category": "数码"
     },
     {
       "raw_hot": 281348,
@@ -313,6 +321,14 @@
       "onboard_time": 1742123422,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 252936,
+      "num": 252936,
+      "word": "气血不足的人先学会忌口",
+      "onboard_time": 1742177901,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 241794,
@@ -403,28 +419,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 201048,
-      "num": 201048,
-      "word": "伊能静为恩利庆祝23岁生日",
-      "onboard_time": 1742179882,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 209820,
+      "num": 209820,
+      "word": "王楚钦孙颖莎和重庆长江索道同框",
+      "onboard_time": 1742180781,
+      "rank": 28,
+      "category": "体育"
     },
     {
-      "raw_hot": 198615,
-      "num": 198615,
+      "raw_hot": 204162,
+      "num": 207584,
       "word": "新能源车续保为什么降价了",
       "onboard_time": 1742180242,
       "rank": 33,
       "category": "汽车"
     },
     {
-      "raw_hot": 198565,
-      "num": 198565,
-      "word": "气血不足的人先学会忌口",
-      "onboard_time": 1742177901,
-      "rank": 34,
-      "category": "健康医疗"
+      "raw_hot": 202961,
+      "num": 202961,
+      "word": "伊能静为恩利庆祝23岁生日",
+      "onboard_time": 1742179882,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 191539,
@@ -499,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173244,
+      "num": 173244,
+      "word": "肥胖分苹果型和梨型",
+      "onboard_time": 1742179282,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 170747,
       "num": 170747,
       "word": "WTT",
@@ -547,14 +571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 152926,
-      "num": 152926,
-      "word": "肥胖分苹果型和梨型",
-      "onboard_time": 1742179282,
-      "rank": 42,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 150933,
       "num": 150933,
       "word": "退货被店家说买不起就别买平台赔300元",
@@ -584,6 +600,14 @@
       "word": "赵露思给工作人员送生日惊喜",
       "onboard_time": 1742166440,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 140616,
+      "num": 209457,
+      "word": "56岁翁虹抗住G社生图",
+      "onboard_time": 1742180962,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -641,6 +665,22 @@
       "onboard_time": 1742125524,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 124343,
+      "num": 124343,
+      "word": "蜜雪冰城",
+      "onboard_time": 1742181083,
+      "rank": 48,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 123443,
+      "num": 123443,
+      "word": "余承东称新手机不止是手机",
+      "onboard_time": 1742180962,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 121992,
@@ -707,6 +747,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 109279,
+      "num": 211954,
+      "word": "孙颖莎赛后回训练场复盘比赛",
+      "onboard_time": 1742179940,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105641,
       "num": 105641,
       "word": "三大运营商开展电话营销自查",
@@ -763,6 +811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99869,
+      "num": 447711,
+      "word": "前2月全国城镇调查失业率平均5.3%",
+      "onboard_time": 1742179641,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 99395,
       "num": 99395,
       "word": "苦尽柑来遇见你编剧",
@@ -777,14 +833,6 @@
       "onboard_time": 1742137105,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 93287,
-      "num": 211954,
-      "word": "孙颖莎赛后回训练场复盘比赛",
-      "onboard_time": 1742179940,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 92976,
@@ -860,7 +908,7 @@
     },
     {
       "raw_hot": 81761,
-      "num": 184238,
+      "num": 189475,
       "word": "315晚会曝光问题初步处置情况汇总",
       "onboard_time": 1742176341,
       "rank": 35,
@@ -873,6 +921,14 @@
       "onboard_time": 1742138483,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80919,
+      "num": 276717,
+      "word": "一线城市新建商品住宅环比上涨",
+      "onboard_time": 1742179940,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79754,
@@ -899,6 +955,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 72372,
+      "num": 291897,
+      "word": "AI无人直播卖课收割大量宝妈",
+      "onboard_time": 1742180601,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 65846,
       "num": 65846,
       "word": "鞠婧祎九婴造型路透",
@@ -913,22 +977,6 @@
       "onboard_time": 1742145137,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 59588,
-      "num": 215083,
-      "word": "一线城市新建商品住宅环比上涨",
-      "onboard_time": 1742179940,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 56653,
-      "num": 447711,
-      "word": "前2月全国城镇调查失业率平均5.3%",
-      "onboard_time": 1742179641,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 51295,
@@ -955,12 +1003,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 46401,
+      "num": 209748,
+      "word": "蔡康永说平静大于快乐",
+      "onboard_time": 1742179821,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 42671,
       "num": 42671,
       "word": "张康乐好苏",
       "onboard_time": 1742144058,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 40997,
+      "num": 280670,
+      "word": "假肉毒素出厂价20元卖上千",
+      "onboard_time": 1742180721,
+      "rank": 18,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 38960,
@@ -1025,14 +1089,6 @@
       "onboard_time": 1742175921,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22796,
-      "num": 208666,
-      "word": "蔡康永说平静大于快乐",
-      "onboard_time": 1742179821,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 22669,
