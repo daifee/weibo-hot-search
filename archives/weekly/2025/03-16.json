@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742185722677,
+  "endTime": 1742186599001,
   "band_list": [
     {
       "raw_hot": 9740375,
@@ -403,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1067574,
+      "num": 403531,
+      "word": "金赛纶遗属将举行新闻发布会",
+      "onboard_time": 1742182220,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1062327,
       "num": 1169972,
       "word": "孙颖莎vs陈幸同",
@@ -435,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1008430,
+      "num": 1008430,
+      "word": "蜜雪冰城",
+      "onboard_time": 1742047233,
+      "rank": 15,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 995222,
       "num": 413235,
       "word": "邓为 将门毒后",
@@ -449,14 +465,6 @@
       "onboard_time": 1742052867,
       "rank": 21,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 982297,
-      "num": 403531,
-      "word": "金赛纶遗属将举行新闻发布会",
-      "onboard_time": 1742182220,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 978571,
@@ -499,12 +507,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 955189,
-      "num": 955189,
-      "word": "蜜雪冰城",
-      "onboard_time": 1742047233,
-      "rank": 15,
-      "category": "舆论监督"
+      "raw_hot": 931718,
+      "num": 339476,
+      "word": "用人民币感受韩国的工资水平",
+      "onboard_time": 1742185764,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 930755,
@@ -577,6 +585,14 @@
       "onboard_time": 1742054668,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 840952,
+      "num": 840952,
+      "word": "母亲偷签3万婚介合同为女儿安排相亲",
+      "onboard_time": 1742183963,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 836388,
@@ -731,6 +747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 670833,
+      "num": 670833,
+      "word": "陆虎回应给王栎鑫写歌争议",
+      "onboard_time": 1742183902,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 660277,
       "num": 660277,
       "word": "多所高校毕业论文将检测AI率",
@@ -745,14 +769,6 @@
       "onboard_time": 1742134045,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 639825,
-      "num": 639825,
-      "word": "母亲偷签3万婚介合同为女儿安排相亲",
-      "onboard_time": 1742183963,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 619717,
@@ -1187,14 +1203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 432426,
-      "num": 432426,
-      "word": "陆虎回应给王栎鑫写歌争议",
-      "onboard_time": 1742183902,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 429222,
       "num": 429222,
       "word": "七度空间称和曝光企业无合作",
@@ -1385,6 +1393,14 @@
       "onboard_time": 1742097324,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 356487,
+      "num": 356487,
+      "word": "TF椰子水",
+      "onboard_time": 1742184923,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 351541,
@@ -1731,6 +1747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 273392,
+      "num": 273392,
+      "word": "恋与深空",
+      "onboard_time": 1742098282,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 269592,
       "num": 443207,
       "word": "直播公司PUA主播满足金主各种要求",
@@ -1875,6 +1899,14 @@
       "category": "舆论监督,网红"
     },
     {
+      "raw_hot": 249594,
+      "num": 293870,
+      "word": "藕饼芭莎封面",
+      "onboard_time": 1742183963,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 249470,
       "num": 249470,
       "word": "王楚钦热身动作",
@@ -1923,20 +1955,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 241098,
+      "num": 241098,
+      "word": "金玟庭 把妹王",
+      "onboard_time": 1742183364,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240979,
       "num": 258987,
       "word": "王心凌演唱会服装从不让人失望",
       "onboard_time": 1742102843,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 240770,
-      "num": 240770,
-      "word": "恋与深空",
-      "onboard_time": 1742098282,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 240574,
@@ -1963,14 +1995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 239326,
-      "num": 239326,
-      "word": "TF椰子水",
-      "onboard_time": 1742184923,
-      "rank": 32,
-      "category": "美食"
-    },
-    {
       "raw_hot": 239116,
       "num": 422318,
       "word": "315调查记者演技有多强",
@@ -1993,14 +2017,6 @@
       "onboard_time": 1742098162,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 236664,
-      "num": 274695,
-      "word": "藕饼芭莎封面",
-      "onboard_time": 1742183963,
-      "rank": 27,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 236353,
@@ -2049,14 +2065,6 @@
       "onboard_time": 1742097923,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 231093,
-      "num": 231093,
-      "word": "金玟庭 把妹王",
-      "onboard_time": 1742183364,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 230799,
@@ -2168,6 +2176,14 @@
       "word": "电视剧品质盛典全阵容",
       "onboard_time": 1742184801,
       "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 220432,
+      "num": 288283,
+      "word": "这才是我想要的电视剧大结局",
+      "onboard_time": 1742185642,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -2507,6 +2523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194745,
+      "num": 458739,
+      "word": "嘘国王在冬眠",
+      "onboard_time": 1742099662,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194476,
       "num": 194476,
       "word": "乐言说iG换TES先锋赛夺冠了",
@@ -2553,14 +2577,6 @@
       "onboard_time": 1742131824,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 192695,
-      "num": 458739,
-      "word": "嘘国王在冬眠",
-      "onboard_time": 1742099662,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 191728,
@@ -2651,6 +2667,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 188172,
+      "num": 188172,
+      "word": "难哄callback埋了32集",
+      "onboard_time": 1742186124,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 187981,
+      "num": 187981,
+      "word": "五哈5五指山海报",
+      "onboard_time": 1742185883,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187895,
       "num": 228979,
       "word": "内娱活人经纪人李登科",
@@ -2681,6 +2713,14 @@
       "onboard_time": 1742128461,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186124,
+      "num": 388127,
+      "word": "大伯自称千元买劳力士后悔",
+      "onboard_time": 1742185464,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185857,
@@ -2731,8 +2771,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183530,
+      "num": 332950,
+      "word": "法国议员要求美国归还自由女神像",
+      "onboard_time": 1742185524,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 182883,
-      "num": 182883,
+      "num": 300911,
       "word": "还有哪些卫生巾品牌没爆过雷",
       "onboard_time": 1742170762,
       "rank": 37,
@@ -2825,6 +2873,14 @@
       "onboard_time": 1742137705,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178551,
+      "num": 178551,
+      "word": "沈腾马丽海南合体录制团综",
+      "onboard_time": 1742185342,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 177055,
@@ -2987,6 +3043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165632,
+      "num": 412114,
+      "word": "23个省份探索实施生育补贴",
+      "onboard_time": 1742181922,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165047,
       "num": 165047,
       "word": "孙颖莎王楚钦冠军自拍",
@@ -3017,14 +3081,6 @@
       "onboard_time": 1742135906,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 163003,
-      "num": 163003,
-      "word": "这才是我想要的电视剧大结局",
-      "onboard_time": 1742185642,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 162415,
@@ -3131,14 +3187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 157716,
-      "num": 157716,
-      "word": "沈腾马丽海南合体录制团综",
-      "onboard_time": 1742185342,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 157385,
       "num": 157385,
       "word": "孙颖莎感谢球迷一路相伴",
@@ -3161,6 +3209,14 @@
       "onboard_time": 1742095463,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 155487,
+      "num": 155487,
+      "word": "用自己的12年换女儿的生命",
+      "onboard_time": 1742186484,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 154999,
@@ -3313,14 +3369,6 @@
       "onboard_time": 1742122823,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 146104,
-      "num": 412114,
-      "word": "23个省份探索实施生育补贴",
-      "onboard_time": 1742181922,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 145938,
@@ -3507,6 +3555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136822,
+      "num": 136822,
+      "word": "杜兰特又和太阳主帅吵起来了",
+      "onboard_time": 1742186063,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136312,
       "num": 2243006,
       "word": "烟雨漓江将中国水墨画具象化了",
@@ -3569,6 +3625,14 @@
       "onboard_time": 1742061798,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 133398,
+      "num": 317373,
+      "word": "麻花特开心2开录",
+      "onboard_time": 1742185164,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 131779,
@@ -3755,6 +3819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120241,
+      "num": 396670,
+      "word": "美甲店打瘦脸针后中毒上呼吸机",
+      "onboard_time": 1742184743,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 119175,
       "num": 119175,
       "word": "A股",
@@ -3817,6 +3889,14 @@
       "onboard_time": 1742114360,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 111293,
+      "num": 923254,
+      "word": "提振消费专项行动30条",
+      "onboard_time": 1742183364,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 111082,
@@ -3969,14 +4049,6 @@
       "onboard_time": 1742107221,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 98058,
-      "num": 923254,
-      "word": "提振消费专项行动30条",
-      "onboard_time": 1742183364,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 97303,
@@ -4155,14 +4227,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 80948,
-      "num": 396670,
-      "word": "美甲店打瘦脸针后中毒上呼吸机",
-      "onboard_time": 1742184743,
-      "rank": 14,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 80919,
       "num": 276717,
       "word": "一线城市新建商品住宅环比上涨",
@@ -4235,14 +4299,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 71675,
-      "num": 272416,
-      "word": "法国议员要求美国归还自由女神像",
-      "onboard_time": 1742185524,
-      "rank": 29,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 71653,
       "num": 170018,
       "word": "脑力劳动者周末多做反差大的事",
@@ -4257,14 +4313,6 @@
       "onboard_time": 1742097983,
       "rank": 17,
       "category": "体育,时尚"
-    },
-    {
-      "raw_hot": 67803,
-      "num": 388127,
-      "word": "大伯自称千元买劳力士后悔",
-      "onboard_time": 1742185464,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 66693,
@@ -4681,6 +4729,14 @@
       "onboard_time": 1742070374,
       "rank": 45,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 29315,
+      "num": 277388,
+      "word": "刘嘉玲天台故事ELLE大片",
+      "onboard_time": 1742186363,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 28424,

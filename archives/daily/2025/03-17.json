@@ -1,6 +1,6 @@
 {
   "startTime": 1742142428647,
-  "endTime": 1742185722677,
+  "endTime": 1742186599001,
   "band_list": [
     {
       "raw_hot": 2581413,
@@ -75,20 +75,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1067574,
+      "num": 403531,
+      "word": "金赛纶遗属将举行新闻发布会",
+      "onboard_time": 1742182220,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1008430,
+      "num": 1008430,
+      "word": "蜜雪冰城",
+      "onboard_time": 1742181083,
+      "rank": 48,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 995222,
       "num": 413235,
       "word": "邓为 将门毒后",
       "onboard_time": 1742172982,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 982297,
-      "num": 403531,
-      "word": "金赛纶遗属将举行新闻发布会",
-      "onboard_time": 1742182220,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 975663,
@@ -105,6 +113,14 @@
       "onboard_time": 1742167220,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 931718,
+      "num": 339476,
+      "word": "用人民币感受韩国的工资水平",
+      "onboard_time": 1742185764,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 927419,
@@ -131,20 +147,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 897962,
-      "num": 897962,
-      "word": "蜜雪冰城",
-      "onboard_time": 1742181083,
-      "rank": 48,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 876196,
       "num": 876196,
       "word": "王楚钦孙颖莎冠军自拍",
       "onboard_time": 1742129244,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 840952,
+      "num": 840952,
+      "word": "母亲偷签3万婚介合同为女儿安排相亲",
+      "onboard_time": 1742183963,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 836388,
@@ -179,19 +195,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 670833,
+      "num": 670833,
+      "word": "陆虎回应给王栎鑫写歌争议",
+      "onboard_time": 1742183902,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 660277,
       "num": 660277,
       "word": "多所高校毕业论文将检测AI率",
       "onboard_time": 1742181321,
       "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 639825,
-      "num": 639825,
-      "word": "母亲偷签3万婚介合同为女儿安排相亲",
-      "onboard_time": 1742183963,
-      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -259,14 +275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 432426,
-      "num": 432426,
-      "word": "陆虎回应给王栎鑫写歌争议",
-      "onboard_time": 1742183902,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 416880,
       "num": 416880,
       "word": "AI无人直播卖课收割大量宝妈",
@@ -297,6 +305,14 @@
       "onboard_time": 1742139623,
       "rank": 5,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 356487,
+      "num": 356487,
+      "word": "TF椰子水",
+      "onboard_time": 1742184923,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 344302,
@@ -411,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 273392,
+      "num": 273392,
+      "word": "恋与深空",
+      "onboard_time": 1742184864,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 268262,
       "num": 268262,
       "word": "气血不足的人先学会忌口",
@@ -433,6 +457,14 @@
       "onboard_time": 1742123422,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 249594,
+      "num": 293870,
+      "word": "藕饼芭莎封面",
+      "onboard_time": 1742183963,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 246364,
@@ -459,6 +491,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 241098,
+      "num": 241098,
+      "word": "金玟庭 把妹王",
+      "onboard_time": 1742183364,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240186,
       "num": 240186,
       "word": "床头放苹果助眠有科学依据",
@@ -475,35 +515,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 239326,
-      "num": 239326,
-      "word": "TF椰子水",
-      "onboard_time": 1742184923,
-      "rank": 32,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 236664,
-      "num": 274695,
-      "word": "藕饼芭莎封面",
-      "onboard_time": 1742183963,
-      "rank": 27,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 232769,
       "num": 232769,
       "word": "上海偶遇董力老婆阿诺",
       "onboard_time": 1742182101,
       "rank": 33,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 231093,
-      "num": 231093,
-      "word": "金玟庭 把妹王",
-      "onboard_time": 1742183364,
-      "rank": 34,
       "category": "艺人"
     },
     {
@@ -547,12 +563,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 217091,
-      "num": 217091,
-      "word": "恋与深空",
-      "onboard_time": 1742184864,
-      "rank": 35,
-      "category": "游戏"
+      "raw_hot": 220432,
+      "num": 288283,
+      "word": "这才是我想要的电视剧大结局",
+      "onboard_time": 1742185642,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 216664,
@@ -611,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194745,
+      "num": 290387,
+      "word": "嘘国王在冬眠",
+      "onboard_time": 1742185943,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191539,
       "num": 191539,
       "word": "卫生巾",
@@ -625,6 +649,30 @@
       "onboard_time": 1742140464,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188172,
+      "num": 188172,
+      "word": "难哄callback埋了32集",
+      "onboard_time": 1742186124,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 187981,
+      "num": 187981,
+      "word": "五哈5五指山海报",
+      "onboard_time": 1742185883,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 186124,
+      "num": 388127,
+      "word": "大伯自称千元买劳力士后悔",
+      "onboard_time": 1742185464,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185036,
@@ -643,8 +691,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 183530,
+      "num": 332950,
+      "word": "法国议员要求美国归还自由女神像",
+      "onboard_time": 1742185524,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 182883,
-      "num": 182883,
+      "num": 300911,
       "word": "还有哪些卫生巾品牌没爆过雷",
       "onboard_time": 1742170762,
       "rank": 37,
@@ -673,6 +729,14 @@
       "onboard_time": 1742170041,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178551,
+      "num": 178551,
+      "word": "沈腾马丽海南合体录制团综",
+      "onboard_time": 1742185342,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 173912,
@@ -707,20 +771,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165632,
+      "num": 412114,
+      "word": "23个省份探索实施生育补贴",
+      "onboard_time": 1742181922,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163429,
       "num": 163429,
       "word": "小狗在用一生当你的护身符",
       "onboard_time": 1742183242,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 163003,
-      "num": 163003,
-      "word": "这才是我想要的电视剧大结局",
-      "onboard_time": 1742185642,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 161342,
@@ -763,12 +827,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 157716,
-      "num": 157716,
-      "word": "沈腾马丽海南合体录制团综",
-      "onboard_time": 1742185342,
-      "rank": 44,
-      "category": "综艺"
+      "raw_hot": 155487,
+      "num": 155487,
+      "word": "用自己的12年换女儿的生命",
+      "onboard_time": 1742186484,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 150933,
@@ -793,14 +857,6 @@
       "onboard_time": 1742183602,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 146104,
-      "num": 412114,
-      "word": "23个省份探索实施生育补贴",
-      "onboard_time": 1742181922,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 145598,
@@ -851,6 +907,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 136822,
+      "num": 136822,
+      "word": "杜兰特又和太阳主帅吵起来了",
+      "onboard_time": 1742186063,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135039,
       "num": 135039,
       "word": "库迪哪吒套餐",
@@ -865,6 +929,14 @@
       "onboard_time": 1742139562,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133398,
+      "num": 317373,
+      "word": "麻花特开心2开录",
+      "onboard_time": 1742185164,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 130363,
@@ -939,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120241,
+      "num": 396670,
+      "word": "美甲店打瘦脸针后中毒上呼吸机",
+      "onboard_time": 1742184743,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 119175,
       "num": 119175,
       "word": "A股",
@@ -961,6 +1041,14 @@
       "onboard_time": 1742134765,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111293,
+      "num": 923254,
+      "word": "提振消费专项行动30条",
+      "onboard_time": 1742183364,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 111008,
@@ -1075,14 +1163,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 98058,
-      "num": 923254,
-      "word": "提振消费专项行动30条",
-      "onboard_time": 1742183364,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 92976,
       "num": 92976,
       "word": "卫生巾纸尿裤粉碎车间味道令人作呕",
@@ -1171,14 +1251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 80948,
-      "num": 396670,
-      "word": "美甲店打瘦脸针后中毒上呼吸机",
-      "onboard_time": 1742184743,
-      "rank": 14,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 80919,
       "num": 276717,
       "word": "一线城市新建商品住宅环比上涨",
@@ -1216,22 +1288,6 @@
       "word": "把性格当招聘门槛可能违法",
       "onboard_time": 1742182041,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 71675,
-      "num": 272416,
-      "word": "法国议员要求美国归还自由女神像",
-      "onboard_time": 1742185524,
-      "rank": 29,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 67803,
-      "num": 388127,
-      "word": "大伯自称千元买劳力士后悔",
-      "onboard_time": 1742185464,
-      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -1353,6 +1409,14 @@
       "onboard_time": 1742146457,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29315,
+      "num": 277388,
+      "word": "刘嘉玲天台故事ELLE大片",
+      "onboard_time": 1742186363,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 27247,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1742186599001,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1107714,
+        "num": 1177234,
+        "word": "黄焖鸡卧底记者提醒11点前别点外卖",
+        "onboard_time": 1742167339,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1008430,
+        "num": 1008430,
+        "word": "蜜雪冰城",
+        "onboard_time": 1742181083,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 111293,
+        "num": 912063,
+        "word": "提振消费专项行动30条",
+        "onboard_time": 1742183364,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 860184,
+        "num": 860184,
+        "word": "五哈5回归官宣",
+        "onboard_time": 1742182101,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 858497,
+        "num": 858497,
+        "word": "胖东来卫生巾区域挂各品牌检测报告",
+        "onboard_time": 1742181861,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 840952,
+        "num": 840952,
+        "word": "母亲偷签3万婚介合同为女儿安排相亲",
+        "onboard_time": 1742183963,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 670833,
+        "num": 670833,
+        "word": "陆虎回应给王栎鑫写歌争议",
+        "onboard_time": 1742183902,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 560144,
+        "num": 560144,
+        "word": "多所高校毕业论文将检测AI率",
+        "onboard_time": 1742181321,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380700,
+        "num": 380700,
+        "word": "台湾屏东市区凌晨爆发枪战",
+        "onboard_time": 1742175679,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 356487,
+        "num": 356487,
+        "word": "TF椰子水",
+        "onboard_time": 1742184923,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 2426313,
+        "num": 352747,
+        "word": "薛凯琪身体疑似躯体化",
+        "onboard_time": 1742180841,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1393420,
+        "num": 347305,
+        "word": "昀牵孟绕",
+        "onboard_time": 1742183303,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1067574,
+        "num": 344319,
+        "word": "金赛纶遗属将举行新闻发布会",
+        "onboard_time": 1742182220,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 931718,
+        "num": 339476,
+        "word": "用人民币感受韩国的工资水平",
+        "onboard_time": 1742185764,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183530,
+        "num": 332950,
+        "word": "法国议员要求美国归还自由女神像",
+        "onboard_time": 1742185524,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 763508,
+        "num": 332441,
+        "word": "薛凯琪终日以泪洗面几度缺氧",
+        "onboard_time": 1742176761,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 642675,
+        "num": 324236,
+        "word": "女子进行心理咨询11天后自杀身亡",
+        "onboard_time": 1742176161,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 528720,
+        "num": 321349,
+        "word": "金秀贤金赛纶2015年被拍到过",
+        "onboard_time": 1742177241,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133398,
+        "num": 317373,
+        "word": "麻花特开心2开录",
+        "onboard_time": 1742185164,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186124,
+        "num": 310063,
+        "word": "大伯自称千元买劳力士后悔",
+        "onboard_time": 1742185464,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 435912,
+        "num": 307676,
+        "word": "邓为 将门毒后",
+        "onboard_time": 1742172982,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304328,
+        "num": 304328,
+        "word": "赵一博人民交通航海安全宣传大使",
+        "onboard_time": 1742182041,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110625,
+        "num": 300911,
+        "word": "还有哪些卫生巾品牌没爆过雷",
+        "onboard_time": 1742170762,
+        "rank": 22,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 408933,
+        "num": 299135,
+        "word": "汤唯我不认识金秀贤",
+        "onboard_time": 1742136983,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249594,
+        "num": 293870,
+        "word": "藕饼芭莎封面",
+        "onboard_time": 1742183963,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 194745,
+        "num": 290387,
+        "word": "嘘国王在冬眠",
+        "onboard_time": 1742185943,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220432,
+        "num": 288283,
+        "word": "这才是我想要的电视剧大结局",
+        "onboard_time": 1742185642,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120241,
+        "num": 281981,
+        "word": "美甲店打瘦脸针后中毒上呼吸机",
+        "onboard_time": 1742184743,
+        "rank": 27,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 29315,
+        "num": 277388,
+        "word": "刘嘉玲天台故事ELLE大片",
+        "onboard_time": 1742186363,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 277323,
+        "num": 277323,
+        "word": "女生回应北大毕业转行当演员6年没火",
+        "onboard_time": 1742179041,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273392,
+        "num": 273392,
+        "word": "恋与深空",
+        "onboard_time": 1742184864,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 244086,
+        "num": 244086,
+        "word": "AI无人直播卖课收割大量宝妈",
+        "onboard_time": 1742180601,
+        "rank": 31,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 242768,
+        "num": 242768,
+        "word": "国安部公开4名台独网军身份信息",
+        "onboard_time": 1742167220,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 241098,
+        "num": 241098,
+        "word": "金玟庭 把妹王",
+        "onboard_time": 1742183364,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239256,
+        "num": 239256,
+        "word": "气血不足不建议不吃主食",
+        "onboard_time": 1742168241,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 225741,
+        "num": 225741,
+        "word": "重庆游客开始吃长江索道了",
+        "onboard_time": 1742181802,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216437,
+        "num": 216437,
+        "word": "00后上班正打破精致羞耻症",
+        "onboard_time": 1742174841,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198005,
+        "num": 198005,
+        "word": "开保时捷加油逃单男子被警方传唤",
+        "onboard_time": 1742174841,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190937,
+        "num": 190937,
+        "word": "电视剧品质盛典全阵容",
+        "onboard_time": 1742184801,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188172,
+        "num": 188172,
+        "word": "难哄callback埋了32集",
+        "onboard_time": 1742186124,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187981,
+        "num": 187981,
+        "word": "五哈5五指山海报",
+        "onboard_time": 1742185883,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178551,
+        "num": 178551,
+        "word": "沈腾马丽海南合体录制团综",
+        "onboard_time": 1742185342,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169195,
+        "num": 169195,
+        "word": "睡前太饿可以吃这5种食物",
+        "onboard_time": 1742140824,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 165632,
+        "num": 165632,
+        "word": "23个省份探索实施生育补贴",
+        "onboard_time": 1742181922,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164443,
+        "num": 164443,
+        "word": "华为Pura新品真机曝光",
+        "onboard_time": 1742177721,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 155487,
+        "num": 155487,
+        "word": "用自己的12年换女儿的生命",
+        "onboard_time": 1742186484,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151499,
+        "num": 151499,
+        "word": "上海偶遇董力老婆阿诺",
+        "onboard_time": 1742182101,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146854,
+        "num": 146854,
+        "word": "气血不足的人先学会忌口",
+        "onboard_time": 1742177901,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137710,
+        "num": 137710,
+        "word": "虞书欣说雪崩戏第二次才拍成功",
+        "onboard_time": 1742182582,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136822,
+        "num": 136822,
+        "word": "杜兰特又和太阳主帅吵起来了",
+        "onboard_time": 1742186063,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#把中央八项规定作为铁规矩硬杠杠#"
+    }
+  }
+}
