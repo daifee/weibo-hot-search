@@ -1,6 +1,6 @@
 {
   "startTime": 1742229077214,
-  "endTime": 1742236301438,
+  "endTime": 1742237095725,
   "band_list": [
     {
       "raw_hot": 1096550,
@@ -283,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85395,
+      "num": 85395,
+      "word": "隔夜柠檬片",
+      "onboard_time": 1742233337,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80719,
       "num": 80719,
       "word": "肖战一个眼神就知道是权谋戏了",
@@ -329,14 +337,6 @@
       "onboard_time": 1742219424,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 68573,
-      "num": 68573,
-      "word": "隔夜柠檬片",
-      "onboard_time": 1742233337,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 67824,
@@ -499,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25116,
+      "num": 25115,
+      "word": "刘宇宁透露5月开演唱会",
+      "onboard_time": 1742237055,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 21311,
       "num": 23811,
       "word": "伊朗伊斯兰革命卫队回应特朗普警告",
@@ -523,8 +531,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 11465,
-      "num": 42798,
+      "raw_hot": 11791,
+      "num": 62752,
       "word": "李兆基曾向北大清华各捐2亿",
       "onboard_time": 1742235976,
       "rank": 18,

@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742236301438,
+  "endTime": 1742237095725,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -5963,6 +5963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85395,
+      "num": 85395,
+      "word": "隔夜柠檬片",
+      "onboard_time": 1742233337,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85332,
       "num": 231444,
       "word": "按摩这2个穴位调理脾胃",
@@ -6209,14 +6217,6 @@
       "onboard_time": 1742220562,
       "rank": 9,
       "category": "财经"
-    },
-    {
-      "raw_hot": 68573,
-      "num": 68573,
-      "word": "隔夜柠檬片",
-      "onboard_time": 1742233337,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 67904,
@@ -7011,6 +7011,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 25116,
+      "num": 25115,
+      "word": "刘宇宁透露5月开演唱会",
+      "onboard_time": 1742237055,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 24974,
       "num": 25282,
       "word": "一次性内裤工作台也是工人餐桌",
@@ -7219,8 +7227,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 11465,
-      "num": 42798,
+      "raw_hot": 11791,
+      "num": 62752,
       "word": "李兆基曾向北大清华各捐2亿",
       "onboard_time": 1742235976,
       "rank": 18,
