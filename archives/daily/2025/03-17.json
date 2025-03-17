@@ -1,6 +1,6 @@
 {
   "startTime": 1742142428647,
-  "endTime": 1742211367693,
+  "endTime": 1742215664572,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -25,6 +25,14 @@
       "onboard_time": 1742180841,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 2210740,
+      "num": 2210740,
+      "word": "平价不是蜜雪冰城的万能挡箭牌",
+      "onboard_time": 1742207064,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2061435,
@@ -57,6 +65,14 @@
       "onboard_time": 1742199562,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1667107,
+      "num": 1667107,
+      "word": "亚洲前首富李兆基逝世",
+      "onboard_time": 1742213064,
+      "rank": 3,
+      "category": "财经"
     },
     {
       "raw_hot": 1609355,
@@ -100,7 +116,7 @@
     },
     {
       "raw_hot": 1450260,
-      "num": 370188,
+      "num": 391956,
       "word": "痞幼抽烟",
       "onboard_time": 1742205562,
       "rank": 11,
@@ -144,14 +160,6 @@
       "word": "主持人王小骞曝女儿患矮小症",
       "onboard_time": 1742191821,
       "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1192018,
-      "num": 1192018,
-      "word": "平价不是蜜雪冰城的万能挡箭牌",
-      "onboard_time": 1742207064,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -201,6 +209,14 @@
       "onboard_time": 1742168779,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1088586,
+      "num": 1088586,
+      "word": "高中双休",
+      "onboard_time": 1742213604,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 1067574,
@@ -380,7 +396,7 @@
     },
     {
       "raw_hot": 696677,
-      "num": 292071,
+      "num": 388451,
       "word": "金秀贤要求金赛纶用加密软件聊天",
       "onboard_time": 1742209884,
       "rank": 14,
@@ -627,6 +643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 399346,
+      "num": 399346,
+      "word": "宝妈晕厥15个月宝宝连滚带爬求救",
+      "onboard_time": 1742212583,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 383541,
       "num": 416529,
       "word": "赵一博人民交通航海安全宣传大使",
@@ -747,6 +771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 301104,
+      "num": 399039,
+      "word": "李昀锐张康乐何与生图",
+      "onboard_time": 1742213424,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300148,
       "num": 264020,
       "word": "男子感冒去小诊所输液确诊尿毒症",
@@ -843,6 +875,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 260874,
+      "num": 383003,
+      "word": "李兆基被称为香港巴菲特",
+      "onboard_time": 1742214864,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 259868,
       "num": 259868,
       "word": "iOS19外观要变了",
@@ -873,6 +913,14 @@
       "onboard_time": 1742192663,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 254649,
+      "num": 396136,
+      "word": "孟子义徐正溪二搭百花杀",
+      "onboard_time": 1742212525,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 252440,
@@ -1155,6 +1203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209230,
+      "num": 209230,
+      "word": "郭皓发文致歉",
+      "onboard_time": 1742212525,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 204731,
       "num": 248254,
       "word": "刘宇宁直播",
@@ -1196,7 +1252,7 @@
     },
     {
       "raw_hot": 199654,
-      "num": 112829,
+      "num": 188750,
       "word": "金秀贤到底什么背景",
       "onboard_time": 1742208024,
       "rank": 48,
@@ -1299,6 +1355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 187028,
+      "num": 193915,
+      "word": "虞书欣眼眶红红不像演的",
+      "onboard_time": 1742214804,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185036,
       "num": 225372,
       "word": "肖战日媒镜头下的生图",
@@ -1361,6 +1425,14 @@
       "onboard_time": 1742189661,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 181678,
+      "num": 181678,
+      "word": "许嵩2025年第一条微博",
+      "onboard_time": 1742215164,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 180118,
@@ -1443,6 +1515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169746,
+      "num": 373422,
+      "word": "卓沅直播",
+      "onboard_time": 1742214204,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169541,
       "num": 169541,
       "word": "RIIZE预告照",
@@ -1473,6 +1553,14 @@
       "onboard_time": 1742195842,
       "rank": 10,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 166120,
+      "num": 166120,
+      "word": "红舞鞋",
+      "onboard_time": 1742209584,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 165897,
@@ -1651,6 +1739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149926,
+      "num": 149926,
+      "word": "蔡文静不愧是上过浪姐的女人",
+      "onboard_time": 1742214323,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149001,
       "num": 149001,
       "word": "6名中学生微信群辱骂同学判担责",
@@ -1745,6 +1841,14 @@
       "onboard_time": 1742181502,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 142886,
+      "num": 142886,
+      "word": "北上",
+      "onboard_time": 1742215404,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 139751,
@@ -1883,6 +1987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129652,
+      "num": 129652,
+      "word": "台湾枪战细节曝光",
+      "onboard_time": 1742215284,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129125,
       "num": 129125,
       "word": "结婚前这4个网站你一定要知道",
@@ -1936,14 +2048,6 @@
       "word": "张萌 昀牵孟绕cp粉",
       "onboard_time": 1742191222,
       "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 127503,
-      "num": 127503,
-      "word": "红舞鞋",
-      "onboard_time": 1742209584,
-      "rank": 44,
       "category": "剧集"
     },
     {
@@ -2003,6 +2107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124050,
+      "num": 124050,
+      "word": "主播入职1个月离职被索赔50万",
+      "onboard_time": 1742213004,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123893,
       "num": 123893,
       "word": "把中央八项规定作为铁规矩硬杠杠",
@@ -2035,6 +2147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122652,
+      "num": 122652,
+      "word": "美专家称中国AI成本低到离谱",
+      "onboard_time": 1742213663,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 121992,
       "num": 121992,
       "word": "TF家族练习生2025全新公式照",
@@ -2065,6 +2185,14 @@
       "onboard_time": 1742139684,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121113,
+      "num": 121113,
+      "word": "中式古法健身成00后新流行",
+      "onboard_time": 1742213965,
+      "rank": 47,
+      "category": "运动健身"
     },
     {
       "raw_hot": 120241,
@@ -2137,6 +2265,22 @@
       "onboard_time": 1742195481,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118014,
+      "num": 118014,
+      "word": "1688全面取消仅退款",
+      "onboard_time": 1742215645,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 117912,
+      "num": 168376,
+      "word": "美国2岁幼儿开枪打伤2岁娃",
+      "onboard_time": 1742209283,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 117086,
@@ -2225,14 +2369,6 @@
       "onboard_time": 1742190081,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 108111,
-      "num": 168376,
-      "word": "美国2岁幼儿开枪打伤2岁娃",
-      "onboard_time": 1742209283,
-      "rank": 28,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 105641,
@@ -2484,7 +2620,7 @@
     },
     {
       "raw_hot": 82538,
-      "num": 1177624,
+      "num": 1925470,
       "word": "提振消费专项行动方案划重点",
       "onboard_time": 1742200223,
       "rank": 2,
@@ -2556,7 +2692,7 @@
     },
     {
       "raw_hot": 73677,
-      "num": 351493,
+      "num": 382402,
       "word": "95后用拼多多2千块办复古婚礼",
       "onboard_time": 1742206163,
       "rank": 19,
@@ -2603,12 +2739,28 @@
       "category": "互联网,教育"
     },
     {
+      "raw_hot": 62554,
+      "num": 394455,
+      "word": "律师称隐形加班认定难",
+      "onboard_time": 1742214384,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62000,
       "num": 162869,
       "word": "我国将让AI算力像用电一样方便",
       "onboard_time": 1742145137,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60151,
+      "num": 369398,
+      "word": "极氪智驾坐稳第一梯队",
+      "onboard_time": 1742213784,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 56771,
@@ -2859,12 +3011,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21957,
+      "num": 387108,
+      "word": "中年裸辞去留学能重启人生吗",
+      "onboard_time": 1742214683,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21809,
       "num": 377221,
       "word": "孙颖莎坐索道",
       "onboard_time": 1742203522,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21107,
+      "num": 374075,
+      "word": "业内人士谈培训贷乱象",
+      "onboard_time": 1742214503,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20652,
