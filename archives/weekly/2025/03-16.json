@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742181115814,
+  "endTime": 1742183336709,
   "band_list": [
     {
       "raw_hot": 9740375,
@@ -73,6 +73,14 @@
       "onboard_time": 1742052867,
       "rank": 4,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 2581413,
+      "num": 415606,
+      "word": "薛凯琪身体疑似躯体化",
+      "onboard_time": 1742180841,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 2298713,
@@ -323,14 +331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1169647,
-      "num": 288238,
-      "word": "薛凯琪身体疑似躯体化",
-      "onboard_time": 1742180841,
-      "rank": 15,
-      "category": "演出"
-    },
-    {
       "raw_hot": 1164089,
       "num": 419946,
       "word": "女子进行心理咨询11天后自杀身亡",
@@ -428,7 +428,7 @@
     },
     {
       "raw_hot": 995222,
-      "num": 402988,
+      "num": 413235,
       "word": "邓为 将门毒后",
       "onboard_time": 1742172982,
       "rank": 11,
@@ -449,6 +449,14 @@
       "onboard_time": 1742102605,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 975663,
+      "num": 975663,
+      "word": "五哈5回归官宣",
+      "onboard_time": 1742182101,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 972168,
@@ -492,7 +500,7 @@
     },
     {
       "raw_hot": 927419,
-      "num": 412417,
+      "num": 413772,
       "word": "金秀贤金赛纶2015年被拍到过",
       "onboard_time": 1742177241,
       "rank": 18,
@@ -697,6 +705,14 @@
       "onboard_time": 1742105483,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 660277,
+      "num": 660277,
+      "word": "多所高校毕业论文将检测AI率",
+      "onboard_time": 1742181321,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 651554,
@@ -1059,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 466241,
+      "num": 412460,
+      "word": "昀牵孟绕",
+      "onboard_time": 1742183303,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 458962,
       "num": 477587,
       "word": "周深以为演唱会门票卖不动",
@@ -1163,12 +1187,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 416880,
+      "num": 416880,
+      "word": "AI无人直播卖课收割大量宝妈",
+      "onboard_time": 1742180601,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 416768,
       "num": 416768,
       "word": "看315晚会天塌了",
       "onboard_time": 1742046633,
       "rank": 27,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 411266,
+      "num": 411266,
+      "word": "56岁翁虹抗住G社生图",
+      "onboard_time": 1742180962,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 411114,
@@ -1347,6 +1387,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 343698,
+      "num": 416529,
+      "word": "赵一博人民交通航海安全宣传大使",
+      "onboard_time": 1742182041,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 343399,
+      "num": 343399,
+      "word": "女生回应北大毕业转行当演员6年没火",
+      "onboard_time": 1742179041,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 343244,
       "num": 1225043,
       "word": "从工业垃圾翻新的卫生巾还能倒卖",
@@ -1385,14 +1441,6 @@
       "onboard_time": 1742042790,
       "rank": 36,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 332262,
-      "num": 268418,
-      "word": "女生回应北大毕业转行当演员6年没火",
-      "onboard_time": 1742179041,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 331018,
@@ -1635,12 +1683,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 273461,
+      "num": 372260,
+      "word": "海西传媒声明向龚俊道歉",
+      "onboard_time": 1742181983,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269592,
       "num": 443207,
       "word": "直播公司PUA主播满足金主各种要求",
       "onboard_time": 1742119822,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 268262,
+      "num": 268262,
+      "word": "气血不足的人先学会忌口",
+      "onboard_time": 1742177901,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 266671,
@@ -1747,14 +1811,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 252936,
-      "num": 252936,
-      "word": "气血不足的人先学会忌口",
-      "onboard_time": 1742177901,
-      "rank": 34,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 251993,
       "num": 251993,
       "word": "HLE夺冠",
@@ -1785,6 +1841,14 @@
       "onboard_time": 1742097383,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 246364,
+      "num": 246364,
+      "word": "肥胖分苹果型和梨型",
+      "onboard_time": 1742179282,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 245918,
@@ -1915,6 +1979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231871,
+      "num": 231871,
+      "word": "上海偶遇董力老婆阿诺",
+      "onboard_time": 1742182101,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 230799,
       "num": 391301,
       "word": "欧阳娜娜欧阳娣娣舞台风格极与极",
@@ -1985,6 +2057,14 @@
       "onboard_time": 1742159234,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 224361,
+      "num": 224361,
+      "word": "金赛纶遗属将举行新闻发布会",
+      "onboard_time": 1742182220,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 224356,
@@ -2160,6 +2240,14 @@
       "word": "张晚意演技",
       "onboard_time": 1742138365,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 204895,
+      "num": 246738,
+      "word": "虞书欣说雪崩戏第二次才拍成功",
+      "onboard_time": 1742182582,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -2369,6 +2457,14 @@
       "onboard_time": 1742117303,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193680,
+      "num": 287000,
+      "word": "重庆游客开始吃长江索道了",
+      "onboard_time": 1742181802,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193584,
@@ -2707,14 +2803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 173244,
-      "num": 173244,
-      "word": "肥胖分苹果型和梨型",
-      "onboard_time": 1742179282,
-      "rank": 42,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 173201,
       "num": 236300,
       "word": "你好星期六下期预告",
@@ -2827,6 +2915,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 167198,
+      "num": 167198,
+      "word": "胖东来卫生巾区域挂各品牌检测报告",
+      "onboard_time": 1742181861,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166889,
       "num": 166889,
       "word": "苦尽柑来遇见你编剧",
@@ -2857,6 +2953,14 @@
       "onboard_time": 1742114842,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163429,
+      "num": 163429,
+      "word": "小狗在用一生当你的护身符",
+      "onboard_time": 1742183242,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163401,
@@ -2945,6 +3049,14 @@
       "onboard_time": 1742179100,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158484,
+      "num": 268509,
+      "word": "国民经济起步平稳发展态势向新向好",
+      "onboard_time": 1742181922,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 158194,
@@ -3123,6 +3235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146104,
+      "num": 146104,
+      "word": "23个省份探索实施生育补贴",
+      "onboard_time": 1742181922,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145938,
       "num": 460816,
       "word": "汤唯亚洲电影大奖红毯",
@@ -3203,6 +3323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143736,
+      "num": 246422,
+      "word": "柳智敏黑曼巴的神",
+      "onboard_time": 1742181502,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 143653,
       "num": 143653,
       "word": "李一桐陈鑫海搂腰对视戏",
@@ -3241,14 +3369,6 @@
       "onboard_time": 1742137884,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 140616,
-      "num": 209457,
-      "word": "56岁翁虹抗住G社生图",
-      "onboard_time": 1742180962,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 140201,
@@ -3483,6 +3603,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 124257,
+      "num": 124257,
+      "word": "虞书欣双手托脸照对比",
+      "onboard_time": 1742183242,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123443,
       "num": 123443,
       "word": "余承东称新手机不止是手机",
@@ -3505,6 +3633,14 @@
       "onboard_time": 1742140401,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121513,
+      "num": 246377,
+      "word": "梅西挑射破门",
+      "onboard_time": 1742182883,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 121467,
@@ -3963,6 +4099,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 72716,
+      "num": 370049,
+      "word": "把性格当招聘门槛可能违法",
+      "onboard_time": 1742182041,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72493,
       "num": 2046741,
       "word": "故宫雪景大片",
@@ -3976,14 +4120,6 @@
       "word": "卖增重虾仁公司负责人回应",
       "onboard_time": 1742069236,
       "rank": 21,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 72372,
-      "num": 291897,
-      "word": "AI无人直播卖课收割大量宝妈",
-      "onboard_time": 1742180601,
-      "rank": 14,
       "category": "舆论监督"
     },
     {
@@ -4233,6 +4369,14 @@
       "onboard_time": 1742067134,
       "rank": 43,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 38153,
+      "num": 125605,
+      "word": "石宇奇全英夺冠后发文",
+      "onboard_time": 1742182163,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 38031,
@@ -4607,6 +4751,9 @@
     },
     {
       "word": "#习近平的民生之问#"
+    },
+    {
+      "word": "#把中央八项规定作为铁规矩硬杠杠#"
     }
   ]
 }
