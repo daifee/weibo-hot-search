@@ -1,0 +1,410 @@
+{
+  "runTime": 1742218402459,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2303060,
+        "num": 2303060,
+        "word": "亚洲前首富李兆基逝世",
+        "onboard_time": 1742213064,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1667108,
+        "num": 1667108,
+        "word": "平价不是蜜雪冰城的万能挡箭牌",
+        "onboard_time": 1742207064,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5833,
+        "num": 1227537,
+        "word": "文化中国行用课本封面打开春耕",
+        "onboard_time": 1742218345,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 859111,
+        "num": 859111,
+        "word": "1688全面取消仅退款",
+        "onboard_time": 1742215645,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 778893,
+        "num": 778893,
+        "word": "蜜雪冰城塌房后大学生的反应",
+        "onboard_time": 1742200282,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 430491,
+        "num": 430491,
+        "word": "宝妈晕厥15个月宝宝连滚带爬求救",
+        "onboard_time": 1742212583,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328970,
+        "num": 328970,
+        "word": "李昀锐张康乐何与生图",
+        "onboard_time": 1742213424,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1923218,
+        "num": 326709,
+        "word": "高中双休",
+        "onboard_time": 1742213604,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 288495,
+        "num": 326330,
+        "word": "肖战一个眼神就知道是权谋戏了",
+        "onboard_time": 1742209165,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79218,
+        "num": 322347,
+        "word": "李家超对李兆基逝世表示哀悼",
+        "onboard_time": 1742217264,
+        "rank": 9,
+        "category": "财经,国内时政"
+      },
+      {
+        "raw_hot": 46610,
+        "num": 320795,
+        "word": "提振消费专项行动方案划重点",
+        "onboard_time": 1742200223,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 694191,
+        "num": 319250,
+        "word": "痞幼抽烟",
+        "onboard_time": 1742205562,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 98722,
+        "num": 315116,
+        "word": "现在点外卖这么超前了吗",
+        "onboard_time": 1742216725,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 622868,
+        "num": 313758,
+        "word": "老公恐高女子坐月子坐一半紧急搬家",
+        "onboard_time": 1742216184,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30186,
+        "num": 310779,
+        "word": "从ICU到冠军领奖台",
+        "onboard_time": 1742216484,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 592036,
+        "num": 309315,
+        "word": "金赛纶日记本写了交往时间",
+        "onboard_time": 1742199562,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 587389,
+        "num": 307518,
+        "word": "平价的蜜雪冰城拥有豁免权吗",
+        "onboard_time": 1742201121,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258505,
+        "num": 305290,
+        "word": "许嵩2025年第一条微博",
+        "onboard_time": 1742215164,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 215482,
+        "num": 302813,
+        "word": "为理想男主李昀锐等了3个月",
+        "onboard_time": 1742216963,
+        "rank": 18,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 215803,
+        "num": 298880,
+        "word": "比亚迪闪充电池充电功率1兆瓦",
+        "onboard_time": 1742216725,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 767469,
+        "num": 296724,
+        "word": "金智媛是真的很不想理金秀贤",
+        "onboard_time": 1742217264,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 446878,
+        "num": 294503,
+        "word": "妈妈腹中胎儿4根手指被缠绕2根坏死",
+        "onboard_time": 1742199501,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293459,
+        "num": 293459,
+        "word": "李兆基被称为香港巴菲特",
+        "onboard_time": 1742214864,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 291848,
+        "num": 291848,
+        "word": "早醒是抑郁症的常见症状",
+        "onboard_time": 1742203643,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 286374,
+        "num": 286374,
+        "word": "台湾枪战细节曝光",
+        "onboard_time": 1742215284,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183511,
+        "num": 183511,
+        "word": "孟子义徐正溪二搭百花杀",
+        "onboard_time": 1742212525,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157042,
+        "num": 157042,
+        "word": "谁说现偶不需要演技",
+        "onboard_time": 1742216365,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151969,
+        "num": 151969,
+        "word": "奔跑吧13",
+        "onboard_time": 1742198661,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36574,
+        "num": 151549,
+        "word": "犬夜叉犬薇又美好了",
+        "onboard_time": 1742217925,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 401124,
+        "num": 151392,
+        "word": "金秀贤要求金赛纶用加密软件聊天",
+        "onboard_time": 1742209884,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234584,
+        "num": 150865,
+        "word": "将门毒后 少年少女就让少年少女演",
+        "onboard_time": 1742197163,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225915,
+        "num": 150234,
+        "word": "小孩哥手机店打游戏成全场屏保",
+        "onboard_time": 1742216843,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161662,
+        "num": 149723,
+        "word": "薛凯琪身体疑似躯体化",
+        "onboard_time": 1742180841,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 149515,
+        "num": 149515,
+        "word": "辛芷蕾是仁心综艺感担当吧",
+        "onboard_time": 1742217744,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152959,
+        "num": 149009,
+        "word": "网曝浙大副教授相亲要求00后形象好",
+        "onboard_time": 1742206222,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147315,
+        "num": 147315,
+        "word": "郭皓发文致歉",
+        "onboard_time": 1742212525,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 55995,
+        "num": 138721,
+        "word": "周冬雨宋茜欧阳娜娜合照",
+        "onboard_time": 1742213064,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133611,
+        "num": 133611,
+        "word": "人生回报率最高的十个爱好",
+        "onboard_time": 1742209045,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123208,
+        "num": 123208,
+        "word": "虞书欣眼眶红红不像演的",
+        "onboard_time": 1742214804,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121365,
+        "num": 121365,
+        "word": "中方军事行动是对台独势力的严正警告",
+        "onboard_time": 1742207782,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 119291,
+        "num": 119291,
+        "word": "黄杨钿甜小楚乔真的长大了",
+        "onboard_time": 1742206703,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117881,
+        "num": 117881,
+        "word": "主播入职1个月离职被索赔50万",
+        "onboard_time": 1742213004,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111679,
+        "num": 111679,
+        "word": "上海一彩民10元机选中5000万",
+        "onboard_time": 1742200582,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110389,
+        "num": 110389,
+        "word": "明确不得违法延长劳动者工作时间",
+        "onboard_time": 1742200582,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 103843,
+        "num": 103843,
+        "word": "尹子维徐冬冬不放弃拯救重病的宠物",
+        "onboard_time": 1742216603,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103315,
+        "num": 103315,
+        "word": "虞书欣解锁新疆限定皮肤",
+        "onboard_time": 1742206403,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100334,
+        "num": 100334,
+        "word": "花花花花春天花花花花",
+        "onboard_time": 1742216425,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99169,
+        "num": 99169,
+        "word": "邓超孙俪头像被用作卫生间标识",
+        "onboard_time": 1742206643,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90346,
+        "num": 90346,
+        "word": "宋雨琦微醺烟嗓太苏了",
+        "onboard_time": 1742218163,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 87943,
+        "num": 87943,
+        "word": "养的郁金香好像闹分手了",
+        "onboard_time": 1742218163,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#抓作风建设最重要的是讲认真#"
+    }
+  }
+}

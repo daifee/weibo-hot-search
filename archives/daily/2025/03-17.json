@@ -1,6 +1,6 @@
 {
   "startTime": 1742142428647,
-  "endTime": 1742216562462,
+  "endTime": 1742218402459,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -27,6 +27,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 2303060,
+      "num": 2303060,
+      "word": "亚洲前首富李兆基逝世",
+      "onboard_time": 1742213064,
+      "rank": 3,
+      "category": "财经"
+    },
+    {
       "raw_hot": 2210740,
       "num": 2210740,
       "word": "平价不是蜜雪冰城的万能挡箭牌",
@@ -43,20 +51,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1923218,
+      "num": 1237325,
+      "word": "高中双休",
+      "onboard_time": 1742213604,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1922426,
       "num": 434378,
       "word": "薛凯琪终日以泪洗面几度缺氧",
       "onboard_time": 1742176761,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1843160,
-      "num": 1843160,
-      "word": "亚洲前首富李兆基逝世",
-      "onboard_time": 1742213064,
-      "rank": 3,
-      "category": "财经"
     },
     {
       "raw_hot": 1824018,
@@ -153,14 +161,6 @@
       "onboard_time": 1742191761,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1237325,
-      "num": 1237325,
-      "word": "高中双休",
-      "onboard_time": 1742213604,
-      "rank": 4,
-      "category": "教育"
     },
     {
       "raw_hot": 1197659,
@@ -323,6 +323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 859111,
+      "num": 859111,
+      "word": "1688全面取消仅退款",
+      "onboard_time": 1742215645,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 840952,
       "num": 840952,
       "word": "母亲偷签3万婚介合同为女儿安排相亲",
@@ -361,6 +369,14 @@
       "onboard_time": 1742172802,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 767469,
+      "num": 296724,
+      "word": "金智媛是真的很不想理金秀贤",
+      "onboard_time": 1742217264,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 756495,
@@ -443,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 622868,
+      "num": 313758,
+      "word": "老公恐高女子坐月子坐一半紧急搬家",
+      "onboard_time": 1742216184,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 609262,
       "num": 609262,
       "word": "台湾屏东市区凌晨爆发枪战",
@@ -459,6 +483,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 587389,
+      "num": 572656,
+      "word": "平价的蜜雪冰城拥有豁免权吗",
+      "onboard_time": 1742201121,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 575746,
       "num": 575746,
       "word": "南京警方破获一起15年前命案",
@@ -472,14 +504,6 @@
       "word": "上海一彩民10元机选中5000万",
       "onboard_time": 1742200582,
       "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 572656,
-      "num": 572656,
-      "word": "平价的蜜雪冰城拥有豁免权吗",
-      "onboard_time": 1742201121,
-      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -811,6 +835,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 288495,
+      "num": 347267,
+      "word": "肖战一个眼神就知道是权谋戏了",
+      "onboard_time": 1742209165,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 286374,
+      "num": 321723,
+      "word": "台湾枪战细节曝光",
+      "onboard_time": 1742215284,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 283005,
       "num": 283005,
       "word": "许嵩 蝴蝶已就位了花开了吗",
@@ -825,14 +865,6 @@
       "onboard_time": 1742141901,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 278763,
-      "num": 278763,
-      "word": "1688全面取消仅退款",
-      "onboard_time": 1742215645,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 276653,
@@ -907,6 +939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 258505,
+      "num": 305290,
+      "word": "许嵩2025年第一条微博",
+      "onboard_time": 1742215164,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 258197,
       "num": 258197,
       "word": "终于有部剧一家子都长嘴了",
@@ -945,14 +985,6 @@
       "onboard_time": 1742183963,
       "rank": 27,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 249508,
-      "num": 347267,
-      "word": "肖战一个眼神就知道是权谋戏了",
-      "onboard_time": 1742209165,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 246364,
@@ -1059,6 +1091,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 225915,
+      "num": 150234,
+      "word": "小孩哥手机店打游戏成全场屏保",
+      "onboard_time": 1742216843,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 225298,
       "num": 225298,
       "word": "白桃星座一周运势",
@@ -1139,12 +1179,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 215803,
+      "num": 298880,
+      "word": "比亚迪闪充电池充电功率1兆瓦",
+      "onboard_time": 1742216725,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 215767,
       "num": 215767,
       "word": "北京地铁10号线",
       "onboard_time": 1742176221,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 215482,
+      "num": 302813,
+      "word": "为理想男主李昀锐等了3个月",
+      "onboard_time": 1742216963,
+      "rank": 18,
+      "category": "艺人,剧集"
     },
     {
       "raw_hot": 215129,
@@ -1264,14 +1320,6 @@
       "word": "金秀贤到底什么背景",
       "onboard_time": 1742208024,
       "rank": 48,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 197169,
-      "num": 197169,
-      "word": "许嵩2025年第一条微博",
-      "onboard_time": 1742215164,
-      "rank": 34,
       "category": "艺人"
     },
     {
@@ -1603,14 +1651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 164629,
-      "num": 321723,
-      "word": "台湾枪战细节曝光",
-      "onboard_time": 1742215284,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 164371,
       "num": 164371,
       "word": "拯救卫生巾不能只寄希望于雷军",
@@ -1707,20 +1747,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157042,
+      "num": 157042,
+      "word": "谁说现偶不需要演技",
+      "onboard_time": 1742216365,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154381,
       "num": 154381,
       "word": "肖战成毅新剧香港国际影视展",
       "onboard_time": 1742202923,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 153309,
-      "num": 153309,
-      "word": "老公恐高女子坐月子坐一半紧急搬家",
-      "onboard_time": 1742216184,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 152219,
@@ -1777,6 +1817,14 @@
       "onboard_time": 1742214323,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149515,
+      "num": 149515,
+      "word": "辛芷蕾是仁心综艺感担当吧",
+      "onboard_time": 1742217744,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 149001,
@@ -2387,6 +2435,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 103843,
+      "num": 103843,
+      "word": "尹子维徐冬冬不放弃拯救重病的宠物",
+      "onboard_time": 1742216603,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103803,
       "num": 290803,
       "word": "1000万骑手的社保谁来埋单",
@@ -2451,6 +2507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100334,
+      "num": 100334,
+      "word": "花花花花春天花花花花",
+      "onboard_time": 1742216425,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99869,
       "num": 447711,
       "word": "前2月全国城镇调查失业率平均5.3%",
@@ -2481,6 +2545,14 @@
       "onboard_time": 1742137105,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 98722,
+      "num": 315116,
+      "word": "现在点外卖这么超前了吗",
+      "onboard_time": 1742216725,
+      "rank": 12,
+      "category": "汽车"
     },
     {
       "raw_hot": 97461,
@@ -2555,6 +2627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 90346,
+      "num": 90346,
+      "word": "宋雨琦微醺烟嗓太苏了",
+      "onboard_time": 1742218163,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 90137,
       "num": 90137,
       "word": "侄子代办伯父丧事花7万买高档白酒",
@@ -2569,6 +2649,14 @@
       "onboard_time": 1742142023,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87943,
+      "num": 87943,
+      "word": "养的郁金香好像闹分手了",
+      "onboard_time": 1742218163,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 87684,
@@ -2691,6 +2779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 79218,
+      "num": 322347,
+      "word": "李家超对李兆基逝世表示哀悼",
+      "onboard_time": 1742217264,
+      "rank": 9,
+      "category": "财经,国内时政"
+    },
+    {
       "raw_hot": 79125,
       "num": 79125,
       "word": "薛凯琪演唱会",
@@ -2793,6 +2889,14 @@
       "onboard_time": 1742189841,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 55995,
+      "num": 138721,
+      "word": "周冬雨宋茜欧阳娜娜合照",
+      "onboard_time": 1742213064,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 54011,
@@ -2955,6 +3059,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 36574,
+      "num": 151549,
+      "word": "犬夜叉犬薇又美好了",
+      "onboard_time": 1742217925,
+      "rank": 28,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 33738,
       "num": 803739,
       "word": "花开神州春意浓",
@@ -2977,6 +3089,14 @@
       "onboard_time": 1742214503,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30186,
+      "num": 310779,
+      "word": "从ICU到冠军领奖台",
+      "onboard_time": 1742216484,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 29464,
@@ -3187,12 +3307,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 7254,
-      "num": 188134,
-      "word": "从ICU到冠军领奖台",
-      "onboard_time": 1742216484,
-      "rank": 29,
-      "category": "体育"
+      "raw_hot": 5833,
+      "num": 1227537,
+      "word": "文化中国行用课本封面打开春耕",
+      "onboard_time": 1742218345,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
