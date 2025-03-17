@@ -1,0 +1,410 @@
+{
+  "runTime": 1742176269438,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1824018,
+        "num": 1824018,
+        "word": "黄焖鸡卧底记者提醒11点前别点外卖",
+        "onboard_time": 1742167339,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 966621,
+        "num": 966621,
+        "word": "国安部公开4名台独网军身份信息",
+        "onboard_time": 1742167220,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 33078,
+        "num": 803739,
+        "word": "花开神州春意浓",
+        "onboard_time": 1742136323,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 716779,
+        "num": 716779,
+        "word": "屈臣氏已暂时停售相关产品",
+        "onboard_time": 1742153654,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 489711,
+        "num": 489711,
+        "word": "媒体谈胖猫事件中94.6吨食物被浪费",
+        "onboard_time": 1742172802,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 469308,
+        "num": 469308,
+        "word": "星巴克赔偿美国一外卖员5000万美元",
+        "onboard_time": 1742137405,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 458962,
+        "num": 458962,
+        "word": "周深以为演唱会门票卖不动",
+        "onboard_time": 1742170400,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 362583,
+        "num": 362583,
+        "word": "开保时捷加油逃单男子被警方传唤",
+        "onboard_time": 1742174841,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350132,
+        "num": 350132,
+        "word": "将门毒后",
+        "onboard_time": 1742137105,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326161,
+        "num": 326161,
+        "word": "近五年爆过雷的卫生巾品牌",
+        "onboard_time": 1742128045,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1099548,
+        "num": 325177,
+        "word": "疑似金秀贤脚踩两条船",
+        "onboard_time": 1742168779,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 995222,
+        "num": 323588,
+        "word": "邓为 将门毒后",
+        "onboard_time": 1742172982,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 583282,
+        "num": 318956,
+        "word": "金赛纶完全不知道7亿是走形式",
+        "onboard_time": 1742151135,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 526888,
+        "num": 316426,
+        "word": "将门毒后不用新人男演员演谢景行",
+        "onboard_time": 1742167039,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31312,
+        "num": 314695,
+        "word": "台湾屏东市区凌晨爆发枪战",
+        "onboard_time": 1742175679,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 602955,
+        "num": 311446,
+        "word": "汤唯我不认识金秀贤",
+        "onboard_time": 1742136983,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 511166,
+        "num": 310694,
+        "word": "睡前太饿可以吃这5种食物",
+        "onboard_time": 1742140824,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 507197,
+        "num": 307554,
+        "word": "女子进行心理咨询11天后自杀身亡",
+        "onboard_time": 1742176161,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211921,
+        "num": 305743,
+        "word": "哪吒2破5后还在冲",
+        "onboard_time": 1742149036,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179431,
+        "num": 303277,
+        "word": "赛琳娜BLACKPINK新合照",
+        "onboard_time": 1742170041,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 455639,
+        "num": 299056,
+        "word": "00后上班正打破精致羞耻症",
+        "onboard_time": 1742174841,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 453392,
+        "num": 296482,
+        "word": "阚清子减肥的原因",
+        "onboard_time": 1742167819,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344302,
+        "num": 293441,
+        "word": "气血不足不建议不吃主食",
+        "onboard_time": 1742168241,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 293110,
+        "num": 293110,
+        "word": "央视起底职业闭店人圈钱套路",
+        "onboard_time": 1742139623,
+        "rank": 23,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 23086,
+        "num": 277953,
+        "word": "侄子代办伯母丧事耗光23万遗产被诉",
+        "onboard_time": 1742175921,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266645,
+        "num": 266645,
+        "word": "美军空袭胡塞武装致53死",
+        "onboard_time": 1742168779,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 173271,
+        "num": 266066,
+        "word": "宁艺卓差点摔倒被柳智敏一把抱住",
+        "onboard_time": 1742174121,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137633,
+        "num": 265763,
+        "word": "苦尽柑来遇见你",
+        "onboard_time": 1742172023,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128601,
+        "num": 265004,
+        "word": "利路修还有15天要退圈了",
+        "onboard_time": 1742135303,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109489,
+        "num": 264580,
+        "word": "张康乐香港街头氛围感大片",
+        "onboard_time": 1742175860,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 264020,
+        "num": 264020,
+        "word": "男子感冒去小诊所输液确诊尿毒症",
+        "onboard_time": 1742136445,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241794,
+        "num": 241794,
+        "word": "台资通电军倚网谋独终是死路一条",
+        "onboard_time": 1742169021,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 25926,
+        "num": 240270,
+        "word": "德雷珀首夺大师赛冠军",
+        "onboard_time": 1742176101,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240186,
+        "num": 240186,
+        "word": "床头放苹果助眠有科学依据",
+        "onboard_time": 1742169622,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 216664,
+        "num": 216664,
+        "word": "美国向欧洲多国询问是否可供应鸡蛋",
+        "onboard_time": 1742172622,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 191539,
+        "num": 191539,
+        "word": "卫生巾",
+        "onboard_time": 1742175141,
+        "rank": 35,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 184420,
+        "num": 184420,
+        "word": "99岁院士李德平逝世",
+        "onboard_time": 1742172382,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181458,
+        "num": 181458,
+        "word": "还有哪些卫生巾品牌没爆过雷",
+        "onboard_time": 1742170762,
+        "rank": 37,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 150933,
+        "num": 150933,
+        "word": "退货被店家说买不起就别买平台赔300元",
+        "onboard_time": 1742156534,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101951,
+        "num": 138495,
+        "word": "哪吒2票房151亿",
+        "onboard_time": 1742169861,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136528,
+        "num": 136528,
+        "word": "王楚钦重庆赛夺冠",
+        "onboard_time": 1742127505,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130363,
+        "num": 130363,
+        "word": "上海职场环境宽容到能穿cos服上班",
+        "onboard_time": 1742175081,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126665,
+        "num": 126665,
+        "word": "王楚钦孙颖莎冠军自拍",
+        "onboard_time": 1742129244,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110876,
+        "num": 110876,
+        "word": "市场监管总局处置315曝光问题",
+        "onboard_time": 1742139684,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101235,
+        "num": 101235,
+        "word": "肖战日媒镜头下的生图",
+        "onboard_time": 1742141542,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99338,
+        "num": 99338,
+        "word": "王彦霖说来参加陈立农婚礼",
+        "onboard_time": 1742141901,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 94704,
+        "num": 94704,
+        "word": "台军发解放军95式步枪奖杯",
+        "onboard_time": 1742134945,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 93358,
+        "num": 93358,
+        "word": "北京地铁10号线",
+        "onboard_time": 1742176221,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92976,
+        "num": 92976,
+        "word": "卫生巾纸尿裤粉碎车间味道令人作呕",
+        "onboard_time": 1742155214,
+        "rank": 48,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 90137,
+        "num": 90137,
+        "word": "侄子代办伯父丧事花7万买高档白酒",
+        "onboard_time": 1742175980,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的民生之问#"
+    }
+  }
+}
