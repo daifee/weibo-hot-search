@@ -1,6 +1,6 @@
 {
   "startTime": 1742142428647,
-  "endTime": 1742190021726,
+  "endTime": 1742193232441,
   "band_list": [
     {
       "raw_hot": 2581413,
@@ -171,6 +171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 846916,
+      "num": 287189,
+      "word": "主持人王小骞曝女儿患矮小症",
+      "onboard_time": 1742191821,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 840952,
       "num": 840952,
       "word": "母亲偷签3万婚介合同为女儿安排相亲",
@@ -211,6 +219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 692298,
+      "num": 692298,
+      "word": "白敬亭新剧又掉进循环里了",
+      "onboard_time": 1742188581,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 670833,
       "num": 670833,
       "word": "陆虎回应给王栎鑫写歌争议",
@@ -219,20 +235,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 665674,
+      "num": 287123,
+      "word": "韩国演员李诗英离婚",
+      "onboard_time": 1742191340,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 660277,
       "num": 660277,
       "word": "多所高校毕业论文将检测AI率",
       "onboard_time": 1742181321,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 641282,
-      "num": 641282,
-      "word": "白敬亭新剧又掉进循环里了",
-      "onboard_time": 1742188581,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 609262,
@@ -251,12 +267,36 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 580662,
+      "num": 580662,
+      "word": "男子杀人后多年未婚担心说梦话露馅",
+      "onboard_time": 1742191761,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 526888,
       "num": 316426,
       "word": "将门毒后不用新人男演员演谢景行",
       "onboard_time": 1742167039,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 508825,
+      "num": 508825,
+      "word": "何与 百花杀",
+      "onboard_time": 1742189780,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 480787,
+      "num": 286752,
+      "word": "偶遇迪丽热巴在日本拍摄",
+      "onboard_time": 1742191340,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 472009,
@@ -403,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 297626,
+      "num": 260513,
+      "word": "孟子义奔跑吧13官宣节奏",
+      "onboard_time": 1742192603,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 294124,
       "num": 255865,
       "word": "华为Pura新品真机曝光",
@@ -419,12 +467,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286341,
+      "num": 286341,
+      "word": "抑郁症和焦虑症的区别",
+      "onboard_time": 1742190500,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 281348,
       "num": 239330,
       "word": "王彦霖说来参加陈立农婚礼",
       "onboard_time": 1742141901,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 280919,
+      "num": 280919,
+      "word": "宋慧乔李惠利 为自己闪耀",
+      "onboard_time": 1742191642,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 276653,
@@ -505,6 +569,14 @@
       "onboard_time": 1742182582,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 244017,
+      "num": 244017,
+      "word": "韩媒称不要让金秀贤当牺牲羊",
+      "onboard_time": 1742191462,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 241794,
@@ -731,6 +803,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 191571,
+      "num": 191571,
+      "word": "秋瓷炫大声表白于晓光",
+      "onboard_time": 1742190201,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191539,
       "num": 191539,
       "word": "卫生巾",
@@ -755,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187645,
+      "num": 187645,
+      "word": "乐言质问姿态",
+      "onboard_time": 1742191642,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 185036,
       "num": 225372,
       "word": "肖战日媒镜头下的生图",
@@ -777,6 +865,14 @@
       "onboard_time": 1742185524,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 182515,
+      "num": 195472,
+      "word": "虞书欣林一孤独的树海报",
+      "onboard_time": 1742192180,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 182486,
@@ -827,6 +923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171559,
+      "num": 171559,
+      "word": "奔跑吧",
+      "onboard_time": 1742191162,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171417,
       "num": 218919,
       "word": "孟子义抹胸粉裙",
@@ -857,6 +961,14 @@
       "onboard_time": 1742135724,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167194,
+      "num": 167194,
+      "word": "虞书欣诉自媒体侵权",
+      "onboard_time": 1742190142,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 165632,
@@ -920,6 +1032,14 @@
       "word": "退货被店家说买不起就别买平台赔300元",
       "onboard_time": 1742156534,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150216,
+      "num": 150216,
+      "word": "健身小伙每天5勺蛋白粉6个月后肾虚了",
+      "onboard_time": 1742192663,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -1003,6 +1123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136338,
+      "num": 713055,
+      "word": "三名网红街头拍低俗视频被行政处罚",
+      "onboard_time": 1742189661,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135039,
       "num": 135039,
       "word": "库迪哪吒套餐",
@@ -1025,6 +1153,14 @@
       "onboard_time": 1742185164,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130862,
+      "num": 130862,
+      "word": "6名中学生微信群辱骂同学判担责",
+      "onboard_time": 1742190980,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130363,
@@ -1059,6 +1195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128005,
+      "num": 128005,
+      "word": "张萌 昀牵孟绕cp粉",
+      "onboard_time": 1742191222,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127281,
       "num": 127281,
       "word": "田柾国 aespa演唱会",
@@ -1067,12 +1211,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 125886,
-      "num": 125886,
-      "word": "何与 百花杀",
-      "onboard_time": 1742189780,
-      "rank": 42,
-      "category": "剧集"
+      "raw_hot": 126159,
+      "num": 126159,
+      "word": "美军将继续空袭直到胡塞武装停止袭击",
+      "onboard_time": 1742190561,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 124257,
@@ -1187,6 +1331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109679,
+      "num": 281939,
+      "word": "韩国军用无人机和直升机相撞",
+      "onboard_time": 1742190561,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 109489,
       "num": 264580,
       "word": "张康乐香港街头氛围感大片",
@@ -1201,6 +1353,14 @@
       "onboard_time": 1742179940,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109233,
+      "num": 179167,
+      "word": "张云龙蔡文静代旭土味剧宣好抽象",
+      "onboard_time": 1742190081,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 105641,
@@ -1233,6 +1393,14 @@
       "onboard_time": 1742138063,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101955,
+      "num": 179098,
+      "word": "周深想让更多人听到中文歌",
+      "onboard_time": 1742193142,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 101951,
@@ -1371,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82020,
+      "num": 181776,
+      "word": "有这么唯美的告白进入现偶",
+      "onboard_time": 1742190623,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 81761,
       "num": 189475,
       "word": "315晚会曝光问题初步处置情况汇总",
@@ -1465,6 +1641,14 @@
       "onboard_time": 1742189841,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 53831,
+      "num": 187958,
+      "word": "啄木鸟要敢于将自己的脓包啄破",
+      "onboard_time": 1742191582,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 53019,
@@ -1627,14 +1811,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 22266,
-      "num": 713055,
-      "word": "三名网红街头拍低俗视频被行政处罚",
-      "onboard_time": 1742189661,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 20652,
       "num": 38877,
       "word": "重庆通报啄木鸟公司调查情况",
@@ -1721,6 +1897,14 @@
       "onboard_time": 1742158034,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 7366,
+      "num": 124890,
+      "word": "石头扫地机全球量额双第一",
+      "onboard_time": 1742193202,
+      "rank": 49,
+      "category": "数码"
     }
   ],
   "hotgov_list": [
