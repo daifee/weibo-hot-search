@@ -1,7 +1,15 @@
 {
   "startTime": 1742142428647,
-  "endTime": 1742207222762,
+  "endTime": 1742208218954,
   "band_list": [
+    {
+      "raw_hot": 3961778,
+      "num": 364041,
+      "word": "百度副总裁谢广军道歉",
+      "onboard_time": 1742207183,
+      "rank": 13,
+      "category": "互联网"
+    },
     {
       "raw_hot": 2686429,
       "num": 2686429,
@@ -107,6 +115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1411030,
+      "num": 1411030,
+      "word": "网曝浙大副教授相亲要求00后形象好",
+      "onboard_time": 1742206222,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1275399,
       "num": 1275399,
       "word": "睡前太饿可以吃这5种食物",
@@ -192,14 +208,6 @@
       "word": "妈妈腹中胎儿4根手指被缠绕2根坏死",
       "onboard_time": 1742199501,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1065352,
-      "num": 1065352,
-      "word": "网曝浙大副教授相亲要求00后形象好",
-      "onboard_time": 1742206222,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -363,14 +371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 679248,
-      "num": 364041,
-      "word": "百度副总裁谢广军道歉",
-      "onboard_time": 1742207183,
-      "rank": 13,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 673719,
       "num": 673719,
       "word": "将门毒后 提名",
@@ -481,6 +481,14 @@
       "onboard_time": 1742189780,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 505478,
+      "num": 258094,
+      "word": "邓超孙俪头像被用作卫生间标识",
+      "onboard_time": 1742206643,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 498743,
@@ -827,14 +835,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 258094,
-      "num": 258094,
-      "word": "邓超孙俪头像被用作卫生间标识",
-      "onboard_time": 1742206643,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 255765,
       "num": 246532,
       "word": "健身小伙每天5勺蛋白粉6个月后肾虚了",
@@ -849,6 +849,14 @@
       "onboard_time": 1742202562,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 250067,
+      "num": 250067,
+      "word": "平价不是蜜雪冰城的万能挡箭牌",
+      "onboard_time": 1742207064,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 249594,
@@ -1107,6 +1115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204731,
+      "num": 248254,
+      "word": "刘宇宁直播",
+      "onboard_time": 1742207663,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 204162,
       "num": 207584,
       "word": "新能源车续保为什么降价了",
@@ -1137,6 +1153,14 @@
       "onboard_time": 1742202683,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199654,
+      "num": 112829,
+      "word": "金秀贤到底什么背景",
+      "onboard_time": 1742208024,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 196776,
@@ -1283,6 +1307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 180445,
+      "num": 180445,
+      "word": "中方军事行动是对台独势力的严正警告",
+      "onboard_time": 1742207782,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 179679,
       "num": 179679,
       "word": "中国要给算力建国家高速公路",
@@ -1313,6 +1345,14 @@
       "onboard_time": 1742185342,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177135,
+      "num": 187449,
+      "word": "似锦渣男强娶绿茶女当晚同赴死",
+      "onboard_time": 1742206944,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 173912,
@@ -1443,6 +1483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161127,
+      "num": 161127,
+      "word": "ccd镜头下的李昀锐",
+      "onboard_time": 1742207483,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160187,
       "num": 160187,
       "word": "张晚意演技",
@@ -1465,6 +1513,14 @@
       "onboard_time": 1742181922,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 157602,
+      "num": 157602,
+      "word": "石田良子去世",
+      "onboard_time": 1742207002,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 157323,
@@ -1507,6 +1563,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150443,
+      "num": 269041,
+      "word": "黄杨钿甜小楚乔真的长大了",
+      "onboard_time": 1742206703,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 150273,
+      "num": 377927,
+      "word": "我国成功发射一箭8星",
+      "onboard_time": 1742206342,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 150090,
       "num": 150090,
       "word": "中学生辱骂同学被判道歉赔6000元",
@@ -1521,6 +1593,14 @@
       "onboard_time": 1742190980,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148798,
+      "num": 148798,
+      "word": "虞书欣解锁新疆限定皮肤",
+      "onboard_time": 1742206403,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 148087,
@@ -1555,22 +1635,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 147264,
-      "num": 269041,
-      "word": "黄杨钿甜小楚乔真的长大了",
-      "onboard_time": 1742206703,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 146631,
-      "num": 146631,
-      "word": "虞书欣解锁新疆限定皮肤",
-      "onboard_time": 1742206403,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 145810,
       "num": 145810,
       "word": "A股总市值创历史新高",
@@ -1601,30 +1665,6 @@
       "onboard_time": 1742181502,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 142891,
-      "num": 142891,
-      "word": "石田良子去世",
-      "onboard_time": 1742207002,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 142367,
-      "num": 142367,
-      "word": "平价不是蜜雪冰城的万能挡箭牌",
-      "onboard_time": 1742207064,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 140621,
-      "num": 377927,
-      "word": "我国成功发射一箭8星",
-      "onboard_time": 1742206342,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 139751,
@@ -1827,6 +1867,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 125547,
+      "num": 125547,
+      "word": "对抗路情侣",
+      "onboard_time": 1742204843,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 125411,
+      "num": 125411,
+      "word": "陈奕迅妻子手术后恢复跑步",
+      "onboard_time": 1742208024,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125402,
       "num": 125402,
       "word": "Capper中国新说唱2025导师",
@@ -1881,14 +1937,6 @@
       "onboard_time": 1742196742,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 123120,
-      "num": 123120,
-      "word": "似锦渣男强娶绿茶女当晚同赴死",
-      "onboard_time": 1742206944,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 121992,
@@ -1971,6 +2019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118490,
+      "num": 118490,
+      "word": "RIIZE在燃什么",
+      "onboard_time": 1742207483,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118421,
       "num": 118421,
       "word": "当地回应省考多名考生因事故被堵高速",
@@ -2011,6 +2067,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 112774,
+      "num": 112774,
+      "word": "陈昊森发了难哄主演合照",
+      "onboard_time": 1742207122,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111008,
       "num": 111008,
       "word": "虞书欣亲上热水袋了",
@@ -2033,14 +2097,6 @@
       "onboard_time": 1742166440,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 109577,
-      "num": 109577,
-      "word": "陈昊森发了难哄主演合照",
-      "onboard_time": 1742207122,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 109489,
@@ -2385,6 +2441,14 @@
       "onboard_time": 1742168059,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 63318,
+      "num": 238605,
+      "word": "周冠宇抵达上海",
+      "onboard_time": 1742207663,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 62742,

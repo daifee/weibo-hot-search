@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742207222762,
+  "endTime": 1742208218954,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -185,6 +185,14 @@
       "onboard_time": 1742048012,
       "rank": 20,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 3961778,
+      "num": 364041,
+      "word": "百度副总裁谢广军道歉",
+      "onboard_time": 1742207183,
+      "rank": 13,
+      "category": "互联网"
     },
     {
       "raw_hot": 3850210,
@@ -1939,6 +1947,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1411030,
+      "num": 1411030,
+      "word": "网曝浙大副教授相亲要求00后形象好",
+      "onboard_time": 1742206222,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1409889,
       "num": 1101774,
       "word": "穆婷婷 我讨厌不尊重对手且膨胀的人",
@@ -3208,14 +3224,6 @@
       "word": "妈妈腹中胎儿4根手指被缠绕2根坏死",
       "onboard_time": 1742199501,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1065352,
-      "num": 1065352,
-      "word": "网曝浙大副教授相亲要求00后形象好",
-      "onboard_time": 1742206222,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -6235,14 +6243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 679248,
-      "num": 364041,
-      "word": "百度副总裁谢广军道歉",
-      "onboard_time": 1742207183,
-      "rank": 13,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 678461,
       "num": 678461,
       "word": "鞠婧祎起诉丝芭将开庭",
@@ -8793,6 +8793,14 @@
       "onboard_time": 1741186340,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 505478,
+      "num": 258094,
+      "word": "邓超孙俪头像被用作卫生间标识",
+      "onboard_time": 1742206643,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 505292,
@@ -16947,14 +16955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 258094,
-      "num": 258094,
-      "word": "邓超孙俪头像被用作卫生间标识",
-      "onboard_time": 1742206643,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 257958,
       "num": 257958,
       "word": "气胸是一种怎样的疾病",
@@ -17329,6 +17329,14 @@
       "onboard_time": 1741246760,
       "rank": 21,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 250067,
+      "num": 250067,
+      "word": "平价不是蜜雪冰城的万能挡箭牌",
+      "onboard_time": 1742207064,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 249985,
@@ -21259,6 +21267,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 204731,
+      "num": 248254,
+      "word": "刘宇宁直播",
+      "onboard_time": 1742207663,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 204727,
       "num": 204727,
       "word": "刘少昂摔倒受伤",
@@ -22073,6 +22089,14 @@
       "onboard_time": 1741156519,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199654,
+      "num": 112829,
+      "word": "金秀贤到底什么背景",
+      "onboard_time": 1742208024,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 199584,
@@ -25107,6 +25131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180445,
+      "num": 180445,
+      "word": "中方军事行动是对台独势力的严正警告",
+      "onboard_time": 1742207782,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 180341,
       "num": 279550,
       "word": "深圳市监局回应翻新手机流入百亿补贴",
@@ -25577,6 +25609,14 @@
       "onboard_time": 1741154599,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177135,
+      "num": 187449,
+      "word": "似锦渣男强娶绿茶女当晚同赴死",
+      "onboard_time": 1742206944,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 177130,
@@ -28443,6 +28483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161127,
+      "num": 161127,
+      "word": "ccd镜头下的李昀锐",
+      "onboard_time": 1742207483,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161084,
       "num": 161084,
       "word": "白鹿早啊晚安",
@@ -29081,6 +29129,14 @@
       "onboard_time": 1741944145,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157602,
+      "num": 157602,
+      "word": "石田良子去世",
+      "onboard_time": 1742207002,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 157570,
@@ -30579,6 +30635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150443,
+      "num": 269041,
+      "word": "黄杨钿甜小楚乔真的长大了",
+      "onboard_time": 1742206703,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150373,
       "num": 301992,
       "word": "王一博告黑获胜",
@@ -30609,6 +30673,14 @@
       "onboard_time": 1741255642,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150273,
+      "num": 377927,
+      "word": "我国成功发射一箭8星",
+      "onboard_time": 1742206342,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 150253,
@@ -30849,6 +30921,14 @@
       "onboard_time": 1741927286,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 148798,
+      "num": 148798,
+      "word": "虞书欣解锁新疆限定皮肤",
+      "onboard_time": 1742206403,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 148743,
@@ -31155,14 +31235,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 147264,
-      "num": 269041,
-      "word": "黄杨钿甜小楚乔真的长大了",
-      "onboard_time": 1742206703,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 147259,
       "num": 147259,
       "word": "23岁的考场和18岁是不同的",
@@ -31265,14 +31337,6 @@
       "onboard_time": 1741253842,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 146631,
-      "num": 146631,
-      "word": "虞书欣解锁新疆限定皮肤",
-      "onboard_time": 1742206403,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 146603,
@@ -32075,14 +32139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 142891,
-      "num": 142891,
-      "word": "石田良子去世",
-      "onboard_time": 1742207002,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 142829,
       "num": 142829,
       "word": "西园寺击掌猫猫疑似emo",
@@ -32145,14 +32201,6 @@
       "onboard_time": 1740898459,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 142367,
-      "num": 142367,
-      "word": "平价不是蜜雪冰城的万能挡箭牌",
-      "onboard_time": 1742207064,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 142341,
@@ -32521,14 +32569,6 @@
       "onboard_time": 1741665862,
       "rank": 19,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 140621,
-      "num": 377927,
-      "word": "我国成功发射一箭8星",
-      "onboard_time": 1742206342,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 140611,
@@ -35691,6 +35731,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 125547,
+      "num": 125547,
+      "word": "对抗路情侣",
+      "onboard_time": 1742204843,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 125540,
       "num": 125540,
       "word": "奥斯卡红毯",
@@ -35729,6 +35777,14 @@
       "onboard_time": 1741500201,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125411,
+      "num": 125411,
+      "word": "陈奕迅妻子手术后恢复跑步",
+      "onboard_time": 1742208024,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 125402,
@@ -36281,14 +36337,6 @@
       "onboard_time": 1741918282,
       "rank": 26,
       "category": "剧集,旅游"
-    },
-    {
-      "raw_hot": 123120,
-      "num": 123120,
-      "word": "似锦渣男强娶绿茶女当晚同赴死",
-      "onboard_time": 1742206944,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 123025,
@@ -37352,6 +37400,14 @@
       "word": "文淇称转型做导演是因为选择太少",
       "onboard_time": 1741714818,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 118490,
+      "num": 118490,
+      "word": "RIIZE在燃什么",
+      "onboard_time": 1742207483,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -38451,6 +38507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112774,
+      "num": 112774,
+      "word": "陈昊森发了难哄主演合照",
+      "onboard_time": 1742207122,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112717,
       "num": 112717,
       "word": "郑钦文对手质疑电子司线",
@@ -39160,14 +39224,6 @@
       "word": "似锦当场戳破7年虚假夫妻情",
       "onboard_time": 1741519821,
       "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 109577,
-      "num": 109577,
-      "word": "陈昊森发了难哄主演合照",
-      "onboard_time": 1742207122,
-      "rank": 49,
       "category": "剧集"
     },
     {
@@ -46185,6 +46241,14 @@
       "onboard_time": 1742114062,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 63318,
+      "num": 238605,
+      "word": "周冠宇抵达上海",
+      "onboard_time": 1742207663,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 63296,

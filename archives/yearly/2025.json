@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1742207222762,
+  "endTime": 1742208218954,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1033,6 +1033,14 @@
       "onboard_time": 1736237304,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3961778,
+      "num": 364041,
+      "word": "百度副总裁谢广军道歉",
+      "onboard_time": 1742207183,
+      "rank": 13,
+      "category": "互联网"
     },
     {
       "raw_hot": 3939290,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1740099919,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2686429,
-      "num": 2686429,
-      "word": "蜜雪冰城塌房后大学生的反应",
-      "onboard_time": 1742200282,
-      "rank": 42,
-      "category": "情感"
     }
   ],
   "hotgov_list": [
