@@ -1,0 +1,410 @@
+{
+  "runTime": 1742185722677,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1009236,
+        "num": 1161477,
+        "word": "黄焖鸡卧底记者提醒11点前别点外卖",
+        "onboard_time": 1742167339,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 967058,
+        "num": 967058,
+        "word": "五哈5回归官宣",
+        "onboard_time": 1742182101,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98058,
+        "num": 923254,
+        "word": "提振消费专项行动30条",
+        "onboard_time": 1742183364,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 899444,
+        "num": 899444,
+        "word": "胖东来卫生巾区域挂各品牌检测报告",
+        "onboard_time": 1742181861,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 897962,
+        "num": 897962,
+        "word": "蜜雪冰城",
+        "onboard_time": 1742181083,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 640243,
+        "num": 640243,
+        "word": "多所高校毕业论文将检测AI率",
+        "onboard_time": 1742181321,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 639825,
+        "num": 639825,
+        "word": "母亲偷签3万婚介合同为女儿安排相亲",
+        "onboard_time": 1742183963,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 432426,
+        "num": 432426,
+        "word": "陆虎回应给王栎鑫写歌争议",
+        "onboard_time": 1742183902,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415255,
+        "num": 415255,
+        "word": "台湾屏东市区凌晨爆发枪战",
+        "onboard_time": 1742175679,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 110173,
+        "num": 412114,
+        "word": "23个省份探索实施生育补贴",
+        "onboard_time": 1742181922,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2416438,
+        "num": 410308,
+        "word": "薛凯琪身体疑似躯体化",
+        "onboard_time": 1742180841,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1416467,
+        "num": 405818,
+        "word": "昀牵孟绕",
+        "onboard_time": 1742183303,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 982297,
+        "num": 403531,
+        "word": "金赛纶遗属将举行新闻发布会",
+        "onboard_time": 1742182220,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 709289,
+        "num": 401595,
+        "word": "女子进行心理咨询11天后自杀身亡",
+        "onboard_time": 1742176161,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80948,
+        "num": 396670,
+        "word": "美甲店打瘦脸针后中毒上呼吸机",
+        "onboard_time": 1742184743,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 748456,
+        "num": 394018,
+        "word": "薛凯琪终日以泪洗面几度缺氧",
+        "onboard_time": 1742176761,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 482055,
+        "num": 392799,
+        "word": "邓为 将门毒后",
+        "onboard_time": 1742172982,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67803,
+        "num": 388127,
+        "word": "大伯自称千元买劳力士后悔",
+        "onboard_time": 1742185464,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221020,
+        "num": 386625,
+        "word": "电视剧品质盛典全阵容",
+        "onboard_time": 1742184801,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 383541,
+        "num": 383541,
+        "word": "赵一博人民交通航海安全宣传大使",
+        "onboard_time": 1742182041,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 572386,
+        "num": 366415,
+        "word": "金秀贤金赛纶2015年被拍到过",
+        "onboard_time": 1742177241,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392619,
+        "num": 364204,
+        "word": "王楚钦重庆长江索道冠军照",
+        "onboard_time": 1742178441,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 325769,
+        "num": 325769,
+        "word": "AI无人直播卖课收割大量宝妈",
+        "onboard_time": 1742180601,
+        "rank": 22,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 296984,
+        "num": 296984,
+        "word": "女生回应北大毕业转行当演员6年没火",
+        "onboard_time": 1742179041,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276653,
+        "num": 276653,
+        "word": "重庆游客开始吃长江索道了",
+        "onboard_time": 1742181802,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 398560,
+        "num": 276273,
+        "word": "汤唯我不认识金秀贤",
+        "onboard_time": 1742136983,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244621,
+        "num": 275206,
+        "word": "虞书欣说雪崩戏第二次才拍成功",
+        "onboard_time": 1742182582,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236664,
+        "num": 274695,
+        "word": "藕饼芭莎封面",
+        "onboard_time": 1742183963,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 48537,
+        "num": 273310,
+        "word": "网红消防用品不灭火反助燃",
+        "onboard_time": 1742184383,
+        "rank": 28,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 71675,
+        "num": 272416,
+        "word": "法国议员要求美国归还自由女神像",
+        "onboard_time": 1742185524,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 271970,
+        "num": 271970,
+        "word": "国安部公开4名台独网军身份信息",
+        "onboard_time": 1742167220,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 267264,
+        "num": 267264,
+        "word": "开保时捷加油逃单男子被警方传唤",
+        "onboard_time": 1742174841,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239326,
+        "num": 239326,
+        "word": "TF椰子水",
+        "onboard_time": 1742184923,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 232769,
+        "num": 232769,
+        "word": "上海偶遇董力老婆阿诺",
+        "onboard_time": 1742182101,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231093,
+        "num": 231093,
+        "word": "金玟庭 把妹王",
+        "onboard_time": 1742183364,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217091,
+        "num": 217091,
+        "word": "恋与深空",
+        "onboard_time": 1742184864,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 212039,
+        "num": 212039,
+        "word": "56岁翁虹抗住G社生图",
+        "onboard_time": 1742180962,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208108,
+        "num": 208108,
+        "word": "气血不足不建议不吃主食",
+        "onboard_time": 1742168241,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 204118,
+        "num": 204118,
+        "word": "睡前太饿可以吃这5种食物",
+        "onboard_time": 1742140824,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 195637,
+        "num": 195637,
+        "word": "00后上班正打破精致羞耻症",
+        "onboard_time": 1742174841,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181623,
+        "num": 181623,
+        "word": "华为Pura新品真机曝光",
+        "onboard_time": 1742177721,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 163003,
+        "num": 163003,
+        "word": "这才是我想要的电视剧大结局",
+        "onboard_time": 1742185642,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161206,
+        "num": 161206,
+        "word": "耀客华彩新剧盛典",
+        "onboard_time": 1742185164,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159377,
+        "num": 159377,
+        "word": "气血不足的人先学会忌口",
+        "onboard_time": 1742177901,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 157716,
+        "num": 157716,
+        "word": "沈腾马丽海南合体录制团综",
+        "onboard_time": 1742185342,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149284,
+        "num": 149284,
+        "word": "将门毒后不用新人男演员演谢景行",
+        "onboard_time": 1742167039,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147502,
+        "num": 147502,
+        "word": "恋与制作人",
+        "onboard_time": 1742183602,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143048,
+        "num": 143048,
+        "word": "肥胖分苹果型和梨型",
+        "onboard_time": 1742179282,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 138349,
+        "num": 138349,
+        "word": "东方甄选就自营虾仁发声明",
+        "onboard_time": 1742184142,
+        "rank": 48,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 135039,
+        "num": 135039,
+        "word": "库迪哪吒套餐",
+        "onboard_time": 1742185404,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#把中央八项规定作为铁规矩硬杠杠#"
+    }
+  }
+}
