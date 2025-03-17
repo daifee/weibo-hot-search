@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742246560266,
+  "endTime": 1742247440333,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -37803,6 +37803,14 @@
       "category": "剧集,电竞"
     },
     {
+      "raw_hot": 118980,
+      "num": 269151,
+      "word": "中方决不接受七国集团甩锅推责",
+      "onboard_time": 1742229199,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 118967,
       "num": 211349,
       "word": "燃罪",
@@ -41241,14 +41249,6 @@
       "onboard_time": 1741359861,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 102757,
-      "num": 269151,
-      "word": "中方决不接受七国集团甩锅推责",
-      "onboard_time": 1742229199,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 102727,
@@ -54715,6 +54715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 14671,
+      "num": 17086,
+      "word": "菠萝族长出售族人销量翻4倍",
+      "onboard_time": 1742245634,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14665,
       "num": 25375,
       "word": "你好星期六下期有虞书欣林一",
@@ -55043,20 +55051,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 12890,
-      "num": 17086,
-      "word": "菠萝族长出售族人销量翻4倍",
-      "onboard_time": 1742245634,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 12881,
       "num": 39229,
       "word": "睡衣天使降临那一刻安全感爆棚",
       "onboard_time": 1741897333,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12873,
+      "num": 16784,
+      "word": "杨紫跳了earthquake手势舞",
+      "onboard_time": 1742246833,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 12795,

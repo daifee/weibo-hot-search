@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742246560266,
+  "endTime": 1742247440333,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -5363,6 +5363,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 118980,
+      "num": 269151,
+      "word": "中方决不接受七国集团甩锅推责",
+      "onboard_time": 1742229199,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 118913,
       "num": 118913,
       "word": "PCL2025",
@@ -5681,14 +5689,6 @@
       "onboard_time": 1742117422,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102757,
-      "num": 269151,
-      "word": "中方决不接受七国集团甩锅推责",
-      "onboard_time": 1742229199,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 102061,
@@ -7235,6 +7235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 14671,
+      "num": 17086,
+      "word": "菠萝族长出售族人销量翻4倍",
+      "onboard_time": 1742245634,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14104,
       "num": 14104,
       "word": "时空中的绘旅人",
@@ -7275,12 +7283,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 12890,
-      "num": 17086,
-      "word": "菠萝族长出售族人销量翻4倍",
-      "onboard_time": 1742245634,
-      "rank": 40,
-      "category": "民生新闻"
+      "raw_hot": 12873,
+      "num": 16784,
+      "word": "杨紫跳了earthquake手势舞",
+      "onboard_time": 1742246833,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 12687,
