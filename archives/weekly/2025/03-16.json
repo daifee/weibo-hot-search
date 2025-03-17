@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742176269438,
+  "endTime": 1742177565206,
   "band_list": [
     {
       "raw_hot": 9740375,
@@ -315,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1164089,
+      "num": 307554,
+      "word": "女子进行心理咨询11天后自杀身亡",
+      "onboard_time": 1742176161,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1139890,
       "num": 545029,
       "word": "金赛纶最新遗属",
@@ -467,6 +475,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 927419,
+      "num": 292984,
+      "word": "金秀贤金赛纶2015年被拍到过",
+      "onboard_time": 1742177241,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 923726,
+      "num": 923726,
+      "word": "开保时捷加油逃单男子被警方传唤",
+      "onboard_time": 1742174841,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 912276,
       "num": 894809,
       "word": "复旦失联博士遗体河道中被发现",
@@ -553,6 +577,14 @@
       "onboard_time": 1742113701,
       "rank": 3,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 785989,
+      "num": 578812,
+      "word": "媒体谈胖猫事件中94.6吨食物被浪费",
+      "onboard_time": 1742172802,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 759908,
@@ -915,12 +947,12 @@
       "category": "民生新闻,美食"
     },
     {
-      "raw_hot": 507197,
-      "num": 307554,
-      "word": "女子进行心理咨询11天后自杀身亡",
-      "onboard_time": 1742176161,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 508260,
+      "num": 508260,
+      "word": "台湾屏东市区凌晨爆发枪战",
+      "onboard_time": 1742175679,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 503304,
@@ -937,14 +969,6 @@
       "onboard_time": 1742049693,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 489711,
-      "num": 489711,
-      "word": "媒体谈胖猫事件中94.6吨食物被浪费",
-      "onboard_time": 1742172802,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 489386,
@@ -971,6 +995,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 476009,
+      "num": 293266,
+      "word": "薛凯琪终日以泪洗面几度缺氧",
+      "onboard_time": 1742176761,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 475204,
       "num": 361260,
       "word": "贾静雯一家为8岁波妞庆生",
@@ -985,6 +1017,14 @@
       "onboard_time": 1742102243,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 472009,
+      "num": 299056,
+      "word": "00后上班正打破精致羞耻症",
+      "onboard_time": 1742174841,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 471134,
@@ -1017,14 +1057,6 @@
       "onboard_time": 1742094564,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 455639,
-      "num": 299056,
-      "word": "00后上班正打破精致羞耻症",
-      "onboard_time": 1742174841,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 453392,
@@ -1241,14 +1273,6 @@
       "onboard_time": 1742042610,
       "rank": 31,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 362583,
-      "num": 362583,
-      "word": "开保时捷加油逃单男子被警方传唤",
-      "onboard_time": 1742174841,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 361553,
@@ -2467,20 +2491,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182883,
+      "num": 182883,
+      "word": "还有哪些卫生巾品牌没爆过雷",
+      "onboard_time": 1742170762,
+      "rank": 37,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 182486,
+      "num": 280109,
+      "word": "宁艺卓差点摔倒被柳智敏一把抱住",
+      "onboard_time": 1742174121,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 181943,
       "num": 181943,
       "word": "孙颖莎11比4陈幸同",
       "onboard_time": 1742124443,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 181458,
-      "num": 181458,
-      "word": "还有哪些卫生巾品牌没爆过雷",
-      "onboard_time": 1742170762,
-      "rank": 37,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 181011,
@@ -2587,14 +2619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 173271,
-      "num": 266066,
-      "word": "宁艺卓差点摔倒被柳智敏一把抱住",
-      "onboard_time": 1742174121,
-      "rank": 26,
-      "category": "演出"
-    },
-    {
       "raw_hot": 173201,
       "num": 236300,
       "word": "你好星期六下期预告",
@@ -2609,6 +2633,14 @@
       "onboard_time": 1742123002,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 171996,
+      "num": 171996,
+      "word": "北京地铁10号线",
+      "onboard_time": 1742176221,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171840,
@@ -2769,6 +2801,14 @@
       "onboard_time": 1742130744,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161342,
+      "num": 277503,
+      "word": "苦尽柑来遇见你",
+      "onboard_time": 1742172023,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 160858,
@@ -3147,14 +3187,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 137633,
-      "num": 265763,
-      "word": "苦尽柑来遇见你",
-      "onboard_time": 1742172023,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 137125,
       "num": 137125,
       "word": "石宇奇vs李佳豪",
@@ -3371,6 +3403,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121384,
+      "num": 287721,
+      "word": "市场监管总局处置315曝光问题",
+      "onboard_time": 1742139684,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119175,
+      "num": 119175,
+      "word": "A股",
+      "onboard_time": 1742177061,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 118250,
       "num": 118250,
       "word": "泸州油纸伞撑起头顶上的风景",
@@ -3443,14 +3491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 110876,
-      "num": 287721,
-      "word": "市场监管总局处置315曝光问题",
-      "onboard_time": 1742139684,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 110595,
       "num": 205897,
       "word": "半个韩娱在Jennie演唱会团建",
@@ -3515,6 +3555,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 104509,
+      "num": 271837,
+      "word": "英法坚持要向乌克兰派驻部队",
+      "onboard_time": 1742177181,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 103196,
       "num": 461854,
       "word": "在日本偶遇邓超孙俪一家游玩",
@@ -3540,7 +3588,7 @@
     },
     {
       "raw_hot": 101951,
-      "num": 138495,
+      "num": 269512,
       "word": "哪吒2票房151亿",
       "onboard_time": 1742169861,
       "rank": 39,
@@ -3603,14 +3651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 93358,
-      "num": 93358,
-      "word": "北京地铁10号线",
-      "onboard_time": 1742176221,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 93262,
       "num": 727078,
       "word": "工位上养鲜切花来哄自己上班",
@@ -3625,6 +3665,14 @@
       "onboard_time": 1742155214,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 92617,
+      "num": 92617,
+      "word": "小猫围炉烤火差点烫了jio",
+      "onboard_time": 1742176703,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 92360,
@@ -3675,6 +3723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87218,
+      "num": 87218,
+      "word": "燃罪",
+      "onboard_time": 1742175621,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 85332,
       "num": 231444,
       "word": "按摩这2个穴位调理脾胃",
@@ -3691,6 +3747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 84154,
+      "num": 278315,
+      "word": "东契奇33分",
+      "onboard_time": 1742176761,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82052,
       "num": 450695,
       "word": "周深多伦多演唱会钢琴没电了",
@@ -3705,6 +3769,14 @@
       "onboard_time": 1742113701,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81761,
+      "num": 184238,
+      "word": "315晚会曝光问题初步处置情况汇总",
+      "onboard_time": 1742176341,
+      "rank": 35,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 81281,
@@ -4137,14 +4209,6 @@
       "onboard_time": 1742072594,
       "rank": 9,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 31312,
-      "num": 314695,
-      "word": "台湾屏东市区凌晨爆发枪战",
-      "onboard_time": 1742175679,
-      "rank": 14,
-      "category": "国内时政"
     },
     {
       "raw_hot": 30750,
