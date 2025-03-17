@@ -1,0 +1,410 @@
+{
+  "runTime": 1742216562462,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8013321,
+        "num": 8013321,
+        "word": "百度副总裁谢广军道歉",
+        "onboard_time": 1742207183,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1843160,
+        "num": 1843160,
+        "word": "亚洲前首富李兆基逝世",
+        "onboard_time": 1742213064,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 52087,
+        "num": 1782426,
+        "word": "提振消费专项行动方案划重点",
+        "onboard_time": 1742200223,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1780868,
+        "num": 1780868,
+        "word": "平价不是蜜雪冰城的万能挡箭牌",
+        "onboard_time": 1742207064,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1237325,
+        "num": 1237325,
+        "word": "高中双休",
+        "onboard_time": 1742213604,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 777550,
+        "num": 777550,
+        "word": "蜜雪冰城塌房后大学生的反应",
+        "onboard_time": 1742200282,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 523542,
+        "num": 523542,
+        "word": "宝妈晕厥15个月宝宝连滚带爬求救",
+        "onboard_time": 1742212583,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352585,
+        "num": 352585,
+        "word": "李昀锐张康乐何与生图",
+        "onboard_time": 1742213424,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349767,
+        "num": 349767,
+        "word": "早醒是抑郁症的常见症状",
+        "onboard_time": 1742203643,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 249508,
+        "num": 347267,
+        "word": "肖战一个眼神就知道是权谋戏了",
+        "onboard_time": 1742209165,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 735645,
+        "num": 342062,
+        "word": "痞幼抽烟",
+        "onboard_time": 1742205562,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 539065,
+        "num": 336431,
+        "word": "金赛纶日记本写了交往时间",
+        "onboard_time": 1742199562,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450423,
+        "num": 327445,
+        "word": "平价的蜜雪冰城拥有豁免权吗",
+        "onboard_time": 1742201121,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164629,
+        "num": 321723,
+        "word": "台湾枪战细节曝光",
+        "onboard_time": 1742215284,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321322,
+        "num": 321322,
+        "word": "李兆基被称为香港巴菲特",
+        "onboard_time": 1742214864,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 31597,
+        "num": 319005,
+        "word": "极氪智驾坐稳第一梯队",
+        "onboard_time": 1742213784,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 74046,
+        "num": 314742,
+        "word": "律师称解决加班乱象将刺激消费",
+        "onboard_time": 1742213725,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 538788,
+        "num": 303676,
+        "word": "金秀贤要求金赛纶用加密软件聊天",
+        "onboard_time": 1742209884,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240335,
+        "num": 298579,
+        "word": "孟子义徐正溪二搭百花杀",
+        "onboard_time": 1742212525,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78398,
+        "num": 292842,
+        "word": "陈奕迅妻子手术后恢复跑步",
+        "onboard_time": 1742208024,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 437253,
+        "num": 285409,
+        "word": "妈妈腹中胎儿4根手指被缠绕2根坏死",
+        "onboard_time": 1742199501,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87318,
+        "num": 279137,
+        "word": "中年裸辞去留学能重启人生吗",
+        "onboard_time": 1742214683,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278763,
+        "num": 278763,
+        "word": "1688全面取消仅退款",
+        "onboard_time": 1742215645,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 242987,
+        "num": 242987,
+        "word": "网曝浙大副教授相亲要求00后形象好",
+        "onboard_time": 1742206222,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197169,
+        "num": 197169,
+        "word": "许嵩2025年第一条微博",
+        "onboard_time": 1742215164,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28054,
+        "num": 196910,
+        "word": "95后用拼多多2千块办复古婚礼",
+        "onboard_time": 1742206163,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165274,
+        "num": 193359,
+        "word": "虞书欣眼眶红红不像演的",
+        "onboard_time": 1742214804,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51326,
+        "num": 191847,
+        "word": "易梦玲法国收官look",
+        "onboard_time": 1742215762,
+        "rank": 27,
+        "category": "时尚,网红"
+      },
+      {
+        "raw_hot": 23079,
+        "num": 189780,
+        "word": "厂家回应火锅食材有两个生产日期",
+        "onboard_time": 1742216303,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7254,
+        "num": 188134,
+        "word": "从ICU到冠军领奖台",
+        "onboard_time": 1742216484,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213655,
+        "num": 185697,
+        "word": "将门毒后 少年少女就让少年少女演",
+        "onboard_time": 1742197163,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172463,
+        "num": 184900,
+        "word": "北上",
+        "onboard_time": 1742215404,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183032,
+        "num": 183032,
+        "word": "郭皓发文致歉",
+        "onboard_time": 1742212525,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164343,
+        "num": 164343,
+        "word": "金秀贤到底什么背景",
+        "onboard_time": 1742208024,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159822,
+        "num": 159822,
+        "word": "明确不得违法延长劳动者工作时间",
+        "onboard_time": 1742200582,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 50805,
+        "num": 156617,
+        "word": "海南长臂猿花丛里吃自助",
+        "onboard_time": 1742216543,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156105,
+        "num": 156105,
+        "word": "邓超孙俪头像被用作卫生间标识",
+        "onboard_time": 1742206643,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153489,
+        "num": 153489,
+        "word": "薛凯琪身体疑似躯体化",
+        "onboard_time": 1742180841,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153309,
+        "num": 153309,
+        "word": "老公恐高女子坐月子坐一半紧急搬家",
+        "onboard_time": 1742216184,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141712,
+        "num": 141712,
+        "word": "中方军事行动是对台独势力的严正警告",
+        "onboard_time": 1742207782,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 130259,
+        "num": 130259,
+        "word": "人生回报率最高的十个爱好",
+        "onboard_time": 1742209045,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127018,
+        "num": 127018,
+        "word": "奔跑吧13",
+        "onboard_time": 1742198661,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118116,
+        "num": 118116,
+        "word": "红舞鞋",
+        "onboard_time": 1742209584,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115398,
+        "num": 115398,
+        "word": "蔡文静不愧是上过浪姐的女人",
+        "onboard_time": 1742214323,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30592,
+        "num": 114441,
+        "word": "业内人士谈培训贷乱象",
+        "onboard_time": 1742214503,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113762,
+        "num": 113762,
+        "word": "虞书欣解锁新疆限定皮肤",
+        "onboard_time": 1742206403,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111321,
+        "num": 111321,
+        "word": "上海一彩民10元机选中5000万",
+        "onboard_time": 1742200582,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109225,
+        "num": 109225,
+        "word": "主播入职1个月离职被索赔50万",
+        "onboard_time": 1742213004,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106724,
+        "num": 106724,
+        "word": "死活读不下去名著排行榜",
+        "onboard_time": 1742208203,
+        "rank": 48,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 96823,
+        "num": 96823,
+        "word": "美专家称中国AI成本低到离谱",
+        "onboard_time": 1742213663,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#抓作风建设最重要的是讲认真#"
+    }
+  }
+}

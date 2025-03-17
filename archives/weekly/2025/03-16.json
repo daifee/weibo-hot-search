@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742215664572,
+  "endTime": 1742216562462,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -187,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1843160,
+      "num": 1843160,
+      "word": "亚洲前首富李兆基逝世",
+      "onboard_time": 1742213064,
+      "rank": 3,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1824018,
       "num": 1824018,
       "word": "黄焖鸡卧底记者提醒11点前别点外卖",
@@ -241,14 +249,6 @@
       "onboard_time": 1742124863,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1667107,
-      "num": 1667107,
-      "word": "亚洲前首富李兆基逝世",
-      "onboard_time": 1742213064,
-      "rank": 3,
-      "category": "财经"
     },
     {
       "raw_hot": 1614449,
@@ -395,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1237325,
+      "num": 1237325,
+      "word": "高中双休",
+      "onboard_time": 1742213604,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1221918,
       "num": 463443,
       "word": "李镇浩发视频当天金赛纶自杀了6次",
@@ -529,14 +537,6 @@
       "onboard_time": 1742128045,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1088586,
-      "num": 1088586,
-      "word": "高中双休",
-      "onboard_time": 1742213604,
-      "rank": 4,
-      "category": "教育"
     },
     {
       "raw_hot": 1088232,
@@ -1283,6 +1283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 523542,
+      "num": 523542,
+      "word": "宝妈晕厥15个月宝宝连滚带爬求救",
+      "onboard_time": 1742212583,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 522920,
       "num": 522920,
       "word": "商家说315晚会一曝光那我不完了",
@@ -1635,14 +1643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 399346,
-      "num": 399346,
-      "word": "宝妈晕厥15个月宝宝连滚带爬求救",
-      "onboard_time": 1742212583,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 394220,
       "num": 601487,
       "word": "田柾国 aespa演唱会",
@@ -1753,6 +1753,14 @@
       "onboard_time": 1742097324,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 352585,
+      "num": 399039,
+      "word": "李昀锐张康乐何与生图",
+      "onboard_time": 1742213424,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 351541,
@@ -1915,6 +1923,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 321322,
+      "num": 383003,
+      "word": "李兆基被称为香港巴菲特",
+      "onboard_time": 1742214864,
+      "rank": 13,
+      "category": "财经"
+    },
+    {
       "raw_hot": 317584,
       "num": 317584,
       "word": "莎头男单女单冠军",
@@ -1977,14 +1993,6 @@
       "onboard_time": 1742050292,
       "rank": 41,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 301104,
-      "num": 399039,
-      "word": "李昀锐张康乐何与生图",
-      "onboard_time": 1742213424,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 298801,
@@ -2113,6 +2121,14 @@
       "onboard_time": 1742135724,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 278763,
+      "num": 278763,
+      "word": "1688全面取消仅退款",
+      "onboard_time": 1742215645,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 278539,
@@ -2251,14 +2267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 260874,
-      "num": 383003,
-      "word": "李兆基被称为香港巴菲特",
-      "onboard_time": 1742214864,
-      "rank": 13,
-      "category": "财经"
-    },
-    {
       "raw_hot": 260039,
       "num": 260039,
       "word": "睡眠负债的人身体有9个表现",
@@ -2377,6 +2385,14 @@
       "onboard_time": 1742183963,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 249508,
+      "num": 347267,
+      "word": "肖战一个眼神就知道是权谋戏了",
+      "onboard_time": 1742209165,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 249470,
@@ -2641,14 +2657,6 @@
       "onboard_time": 1742129244,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 225143,
-      "num": 225143,
-      "word": "肖战一个眼神就知道是权谋戏了",
-      "onboard_time": 1742209165,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 225029,
@@ -3099,6 +3107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197169,
+      "num": 197169,
+      "word": "许嵩2025年第一条微博",
+      "onboard_time": 1742215164,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197088,
       "num": 197088,
       "word": "过度操心是一种隐形自恋",
@@ -3515,14 +3531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 181678,
-      "num": 181678,
-      "word": "许嵩2025年第一条微博",
-      "onboard_time": 1742215164,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 181011,
       "num": 181011,
       "word": "张本智和场下和田势教练抱头哭泣",
@@ -3673,6 +3681,14 @@
       "onboard_time": 1742049153,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172463,
+      "num": 184900,
+      "word": "北上",
+      "onboard_time": 1742215404,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 172264,
@@ -3872,6 +3888,14 @@
       "word": "育儿补贴等配套政策正加紧制定",
       "onboard_time": 1742197943,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164629,
+      "num": 321723,
+      "word": "台湾枪战细节曝光",
+      "onboard_time": 1742215284,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -4105,6 +4129,14 @@
       "onboard_time": 1742117782,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 153309,
+      "num": 153309,
+      "word": "老公恐高女子坐月子坐一半紧急搬家",
+      "onboard_time": 1742216184,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153175,
@@ -4427,14 +4459,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142886,
-      "num": 142886,
-      "word": "北上",
-      "onboard_time": 1742215404,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 142659,
       "num": 324168,
       "word": "王鹤棣穿豹纹短裤打篮球被偶遇",
@@ -4556,7 +4580,7 @@
     },
     {
       "raw_hot": 136738,
-      "num": 136738,
+      "num": 292842,
       "word": "陈奕迅妻子手术后恢复跑步",
       "onboard_time": 1742208024,
       "rank": 41,
@@ -4737,14 +4761,6 @@
       "onboard_time": 1742186904,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 129652,
-      "num": 129652,
-      "word": "台湾枪战细节曝光",
-      "onboard_time": 1742215284,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 129125,
@@ -5081,14 +5097,6 @@
       "onboard_time": 1742195481,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118014,
-      "num": 118014,
-      "word": "1688全面取消仅退款",
-      "onboard_time": 1742215645,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 117912,
@@ -5523,6 +5531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87318,
+      "num": 387108,
+      "word": "中年裸辞去留学能重启人生吗",
+      "onboard_time": 1742214683,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87218,
       "num": 87218,
       "word": "燃罪",
@@ -5680,6 +5696,14 @@
       "word": "鼓励有条件的地方设置中小学春秋假",
       "onboard_time": 1742202803,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74046,
+      "num": 314742,
+      "word": "律师称解决加班乱象将刺激消费",
+      "onboard_time": 1742213725,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -5947,6 +5971,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 51326,
+      "num": 191847,
+      "word": "易梦玲法国收官look",
+      "onboard_time": 1742215762,
+      "rank": 27,
+      "category": "时尚,网红"
+    },
+    {
       "raw_hot": 51295,
       "num": 241921,
       "word": "北马其顿全国哀悼7天",
@@ -5961,6 +5993,14 @@
       "onboard_time": 1742094203,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 50805,
+      "num": 156617,
+      "word": "海南长臂猿花丛里吃自助",
+      "onboard_time": 1742216543,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49854,
@@ -6235,6 +6275,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 30592,
+      "num": 374075,
+      "word": "业内人士谈培训贷乱象",
+      "onboard_time": 1742214503,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29668,
       "num": 64261,
       "word": "2025年全英羽毛球公开赛",
@@ -6355,6 +6403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23079,
+      "num": 189780,
+      "word": "厂家回应火锅食材有两个生产日期",
+      "onboard_time": 1742216303,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22669,
       "num": 22669,
       "word": "陈立农武汉的新娘",
@@ -6379,28 +6435,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21957,
-      "num": 387108,
-      "word": "中年裸辞去留学能重启人生吗",
-      "onboard_time": 1742214683,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 21809,
       "num": 377221,
       "word": "孙颖莎坐索道",
       "onboard_time": 1742203522,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 21107,
-      "num": 374075,
-      "word": "业内人士谈培训贷乱象",
-      "onboard_time": 1742214503,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20652,
@@ -6528,6 +6568,14 @@
       "word": "F1揭幕站多位新秀塌方",
       "onboard_time": 1742203522,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 7254,
+      "num": 188134,
+      "word": "从ICU到冠军领奖台",
+      "onboard_time": 1742216484,
+      "rank": 29,
       "category": "体育"
     }
   ],
