@@ -1,6 +1,6 @@
 {
   "startTime": 1742142428647,
-  "endTime": 1742221460727,
+  "endTime": 1742222518269,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -363,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 829638,
+      "num": 361597,
+      "word": "金秀贤方第二次内容证明全文",
+      "onboard_time": 1742221464,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 824807,
       "num": 824807,
       "word": "明确不得违法延长劳动者工作时间",
@@ -451,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 678270,
+      "num": 678270,
+      "word": "短剧女主余茵回应颜值身高都一般",
+      "onboard_time": 1742221045,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 673719,
       "num": 673719,
       "word": "将门毒后 提名",
@@ -497,6 +513,14 @@
       "onboard_time": 1742175679,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 605048,
+      "num": 273968,
+      "word": "女子离世同居31年男友被赶出门",
+      "onboard_time": 1742221224,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 598253,
@@ -707,6 +731,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 362023,
+      "num": 362023,
+      "word": "杨紫全国巡跳第二轮",
+      "onboard_time": 1742219424,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 352585,
       "num": 399039,
       "word": "李昀锐张康乐何与生图",
@@ -803,6 +835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 321665,
+      "num": 342500,
+      "word": "马丽演我看刘耀文",
+      "onboard_time": 1742220925,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 321494,
       "num": 356487,
       "word": "肖战一个眼神就知道是权谋戏了",
@@ -819,11 +859,19 @@
       "category": "财经"
     },
     {
-      "raw_hot": 308024,
-      "num": 357803,
-      "word": "杨紫全国巡跳第二轮",
-      "onboard_time": 1742219424,
-      "rank": 11,
+      "raw_hot": 311525,
+      "num": 333463,
+      "word": "同居31年女子突然离世男友被赶出门",
+      "onboard_time": 1742221165,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 308133,
+      "num": 308133,
+      "word": "丁禹兮南部档案片场救人",
+      "onboard_time": 1742221405,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -856,6 +904,14 @@
       "word": "男子感冒去小诊所输液确诊尿毒症",
       "onboard_time": 1742136445,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 298579,
+      "num": 214125,
+      "word": "云南出租车司机遇害案嫌犯已身亡",
+      "onboard_time": 1742221464,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -913,14 +969,6 @@
       "onboard_time": 1742133444,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 273968,
-      "num": 273968,
-      "word": "女子离世同居31年男友被赶出门",
-      "onboard_time": 1742221224,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 273461,
@@ -1227,6 +1275,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 217557,
+      "num": 217557,
+      "word": "哪吒日本票房上座率",
+      "onboard_time": 1742221944,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 216664,
       "num": 216664,
       "word": "美国向欧洲多国询问是否可供应鸡蛋",
@@ -1291,6 +1347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 211724,
+      "num": 351826,
+      "word": "浙大回应网传副教授选妃事件",
+      "onboard_time": 1742220625,
+      "rank": 12,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 211541,
       "num": 211541,
       "word": "研究生对硕士论文的理解",
@@ -1323,20 +1387,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 208498,
-      "num": 342500,
-      "word": "马丽演我看刘耀文",
-      "onboard_time": 1742220925,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 207250,
-      "num": 207250,
-      "word": "丁禹兮南部档案片场救人",
-      "onboard_time": 1742221405,
-      "rank": 35,
-      "category": "剧集"
+      "raw_hot": 206575,
+      "num": 206575,
+      "word": "重庆地震",
+      "onboard_time": 1742221104,
+      "rank": 47,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 204731,
@@ -1385,14 +1441,6 @@
       "onboard_time": 1742208024,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 198505,
-      "num": 198505,
-      "word": "短剧女主余茵回应颜值身高都一般",
-      "onboard_time": 1742221045,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 196776,
@@ -1473,6 +1521,14 @@
       "onboard_time": 1742206522,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 188694,
+      "num": 188694,
+      "word": "时代少年团还没白回来又去海南了",
+      "onboard_time": 1742221944,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 188511,
@@ -1635,6 +1691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174710,
+      "num": 174710,
+      "word": "向太说李小冉因节目争议哭了",
+      "onboard_time": 1742222245,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173912,
       "num": 173912,
       "word": "将门毒后的选角要求",
@@ -1753,6 +1817,14 @@
       "onboard_time": 1742183242,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162869,
+      "num": 210142,
+      "word": "一双跑鞋包含了多少科技",
+      "onboard_time": 1742222064,
+      "rank": 30,
+      "category": "运动健身"
     },
     {
       "raw_hot": 162106,
@@ -2155,14 +2227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129823,
-      "num": 129823,
-      "word": "重庆地震",
-      "onboard_time": 1742221104,
-      "rank": 47,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 129125,
       "num": 129125,
       "word": "结婚前这4个网站你一定要知道",
@@ -2265,6 +2329,14 @@
       "onboard_time": 1742198603,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124668,
+      "num": 124668,
+      "word": "赵让 幸福且不留遗憾的过今天吧",
+      "onboard_time": 1742222306,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 124257,
@@ -2507,6 +2579,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 109993,
+      "num": 353971,
+      "word": "男子花30万跨省结婚后新娘消失了",
+      "onboard_time": 1742220445,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 109923,
       "num": 109923,
       "word": "马竞vs巴萨",
@@ -2537,6 +2617,14 @@
       "onboard_time": 1742190081,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108834,
+      "num": 1567998,
+      "word": "六部门详解最新提振消费方案",
+      "onboard_time": 1742218584,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105641,
@@ -2723,14 +2811,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 92289,
-      "num": 1567998,
-      "word": "六部门详解最新提振消费方案",
-      "onboard_time": 1742218584,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90137,
       "num": 90137,
       "word": "侄子代办伯父丧事花7万买高档白酒",
@@ -2883,11 +2963,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 78565,
-      "num": 333463,
-      "word": "同居31年女子突然离世男友被赶出门",
-      "onboard_time": 1742221165,
-      "rank": 27,
+      "raw_hot": 78830,
+      "num": 349244,
+      "word": "男子称花万元买考研上岸卷却一题未押中",
+      "onboard_time": 1742220562,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -2929,6 +3009,14 @@
       "onboard_time": 1742188643,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69587,
+      "num": 360695,
+      "word": "1分钟回顾李兆基生平",
+      "onboard_time": 1742220562,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 65846,
@@ -3027,6 +3115,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 53010,
+      "num": 341094,
+      "word": "盘点李兆基商业版图",
+      "onboard_time": 1742219785,
+      "rank": 14,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 52583,
       "num": 270795,
       "word": "刘晓庆对中年婚恋题材非常有把握",
@@ -3091,6 +3187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 49414,
+      "num": 335915,
+      "word": "黄雀全员watchingyou",
+      "onboard_time": 1742221165,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 49037,
       "num": 307432,
       "word": "特朗普称将同普京就俄乌冲突通话",
@@ -3115,22 +3219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 46368,
-      "num": 360695,
-      "word": "1分钟回顾李兆基生平",
-      "onboard_time": 1742220562,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 44046,
-      "num": 353971,
-      "word": "男子花30万跨省结婚后新娘消失了",
-      "onboard_time": 1742220445,
-      "rank": 14,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 43593,
       "num": 328168,
       "word": "警惕影视作品中被浪漫化的恋童与操控",
@@ -3145,14 +3233,6 @@
       "onboard_time": 1742144058,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 42225,
-      "num": 349244,
-      "word": "男子称花万元买考研上岸卷却一题未押中",
-      "onboard_time": 1742220562,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 41587,
@@ -3211,12 +3291,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 34180,
-      "num": 335915,
-      "word": "黄雀全员watchingyou",
-      "onboard_time": 1742221165,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 36546,
+      "num": 213018,
+      "word": "台65岁以上女性离婚人数飙升",
+      "onboard_time": 1742221644,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33738,
@@ -3265,6 +3345,14 @@
       "onboard_time": 1742186363,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 29084,
+      "num": 312560,
+      "word": "风暴致美国至少40人丧生",
+      "onboard_time": 1742222185,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 28599,
