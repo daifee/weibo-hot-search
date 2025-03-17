@@ -1,0 +1,410 @@
+{
+  "runTime": 1742196270685,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1397514,
+        "num": 1397514,
+        "word": "将门毒后选择沈腾马丽的五大理由",
+        "onboard_time": 1742193625,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 725222,
+        "num": 725222,
+        "word": "蜜雪冰城",
+        "onboard_time": 1742181083,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 102509,
+        "num": 594388,
+        "word": "提振消费专项行动30条",
+        "onboard_time": 1742183364,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 575746,
+        "num": 575746,
+        "word": "南京警方破获一起15年前命案",
+        "onboard_time": 1742193561,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 537591,
+        "num": 537591,
+        "word": "抑郁症和焦虑症的区别",
+        "onboard_time": 1742190500,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 420015,
+        "num": 420015,
+        "word": "孟子义奔跑吧13官宣节奏",
+        "onboard_time": 1742192603,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 399999,
+        "num": 399999,
+        "word": "白敬亭新剧又掉进循环里了",
+        "onboard_time": 1742188581,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 350779,
+        "num": 350779,
+        "word": "黄焖鸡卧底记者提醒11点前别点外卖",
+        "onboard_time": 1742167339,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333926,
+        "num": 333926,
+        "word": "何与 百花杀",
+        "onboard_time": 1742189780,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247156,
+        "num": 247156,
+        "word": "TF椰子水",
+        "onboard_time": 1742184923,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 104269,
+        "num": 247136,
+        "word": "国新办发布会介绍提振消费有关情况",
+        "onboard_time": 1742195842,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1210529,
+        "num": 247122,
+        "word": "男子杀人后多年未婚担心说梦话露馅",
+        "onboard_time": 1742191761,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 948979,
+        "num": 247073,
+        "word": "薛凯琪身体疑似躯体化",
+        "onboard_time": 1742180841,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 801042,
+        "num": 247036,
+        "word": "主持人王小骞曝女儿患矮小症",
+        "onboard_time": 1742191821,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87613,
+        "num": 247003,
+        "word": "香港长和出售43个港口遭质疑",
+        "onboard_time": 1742195241,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 736851,
+        "num": 246963,
+        "word": "金赛纶的画",
+        "onboard_time": 1742187383,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403986,
+        "num": 246945,
+        "word": "用人民币感受韩国的工资水平",
+        "onboard_time": 1742185764,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 40972,
+        "num": 246891,
+        "word": "1000万骑手的社保谁来埋单",
+        "onboard_time": 1742195600,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310625,
+        "num": 246869,
+        "word": "李承铉陪女儿参加学校活动",
+        "onboard_time": 1742194283,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171786,
+        "num": 246851,
+        "word": "石头扫地机全球量额双第一",
+        "onboard_time": 1742193202,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 518196,
+        "num": 246807,
+        "word": "金赛纶遗属将举行新闻发布会",
+        "onboard_time": 1742182220,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342667,
+        "num": 246765,
+        "word": "宋慧乔李惠利 为自己闪耀",
+        "onboard_time": 1742191642,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332001,
+        "num": 246730,
+        "word": "偶遇迪丽热巴在日本拍摄",
+        "onboard_time": 1742191340,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225230,
+        "num": 246710,
+        "word": "五哈5回归官宣",
+        "onboard_time": 1742182101,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97262,
+        "num": 246674,
+        "word": "北诗登场KPL六周年",
+        "onboard_time": 1742195723,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 200953,
+        "num": 246649,
+        "word": "胖东来卫生巾区域挂各品牌检测报告",
+        "onboard_time": 1742181861,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275463,
+        "num": 246592,
+        "word": "韩国演员李诗英离婚",
+        "onboard_time": 1742191340,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27485,
+        "num": 246585,
+        "word": "刘晓庆对中年婚恋题材非常有把握",
+        "onboard_time": 1742195422,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255765,
+        "num": 246532,
+        "word": "健身小伙每天5勺蛋白粉6个月后肾虚了",
+        "onboard_time": 1742192663,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16777,
+        "num": 246512,
+        "word": "感觉开心超人小时候抱过我",
+        "onboard_time": 1742196082,
+        "rank": 29,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 246485,
+        "num": 246485,
+        "word": "孟子义发言李昀锐藏话筒",
+        "onboard_time": 1742193381,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236274,
+        "num": 236274,
+        "word": "iPhone17系列模型机曝光",
+        "onboard_time": 1742194460,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 185004,
+        "num": 185004,
+        "word": "过路司机递来一瓶瓶矿泉水灭火",
+        "onboard_time": 1742194042,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183136,
+        "num": 183136,
+        "word": "昀牵孟绕",
+        "onboard_time": 1742183303,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177166,
+        "num": 177166,
+        "word": "薛凯琪终日以泪洗面几度缺氧",
+        "onboard_time": 1742176761,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175241,
+        "num": 175241,
+        "word": "陆虎回应给王栎鑫写歌争议",
+        "onboard_time": 1742183902,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172678,
+        "num": 172678,
+        "word": "李昀锐黄杨钿甜新剧预告",
+        "onboard_time": 1742193441,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169354,
+        "num": 169354,
+        "word": "研究生对硕士论文的理解",
+        "onboard_time": 1742188283,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162707,
+        "num": 162707,
+        "word": "虞书欣诉自媒体侵权",
+        "onboard_time": 1742190142,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158806,
+        "num": 158806,
+        "word": "奔跑吧",
+        "onboard_time": 1742191162,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158406,
+        "num": 158406,
+        "word": "乐言质问姿态",
+        "onboard_time": 1742191642,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 153863,
+        "num": 153863,
+        "word": "韩媒称不要让金秀贤当牺牲羊",
+        "onboard_time": 1742191462,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141064,
+        "num": 141064,
+        "word": "白敬亭告别桑延",
+        "onboard_time": 1742193863,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137195,
+        "num": 137195,
+        "word": "赵丽颖学舞花絮",
+        "onboard_time": 1742193441,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113060,
+        "num": 133783,
+        "word": "一盒大刀猪腰片竟有两个生产日期",
+        "onboard_time": 1742194642,
+        "rank": 44,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 133222,
+        "num": 133222,
+        "word": "女子进行心理咨询11天后自杀身亡",
+        "onboard_time": 1742176161,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124746,
+        "num": 124746,
+        "word": "重庆游客开始吃长江索道了",
+        "onboard_time": 1742181802,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121199,
+        "num": 121199,
+        "word": "周深想让更多人听到中文歌",
+        "onboard_time": 1742193142,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118844,
+        "num": 118844,
+        "word": "6名中学生微信群辱骂同学判担责",
+        "onboard_time": 1742190980,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118088,
+        "num": 118088,
+        "word": "春装准备好了吗",
+        "onboard_time": 1742195481,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#把中央八项规定作为铁规矩硬杠杠#"
+    }
+  }
+}
