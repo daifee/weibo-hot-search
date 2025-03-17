@@ -1,6 +1,6 @@
 {
   "startTime": 1742229077214,
-  "endTime": 1742229077214,
+  "endTime": 1742230024034,
   "band_list": [
     {
       "raw_hot": 1096550,
@@ -33,6 +33,14 @@
       "onboard_time": 1742221045,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 463741,
+      "num": 463741,
+      "word": "赵露思吊带皮裙好辣",
+      "onboard_time": 1742227881,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 454911,
@@ -83,12 +91,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 322777,
-      "num": 322777,
-      "word": "赵露思吊带皮裙好辣",
-      "onboard_time": 1742227881,
-      "rank": 8,
-      "category": "作品衍生"
+      "raw_hot": 329797,
+      "num": 329797,
+      "word": "iPhone17Air或首次采用无端口设计",
+      "onboard_time": 1742226622,
+      "rank": 12,
+      "category": "数码"
     },
     {
       "raw_hot": 297770,
@@ -97,14 +105,6 @@
       "onboard_time": 1742216365,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 281906,
-      "num": 281906,
-      "word": "iPhone17Air或首次采用无端口设计",
-      "onboard_time": 1742226622,
-      "rank": 12,
-      "category": "数码"
     },
     {
       "raw_hot": 271987,
@@ -275,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76706,
+      "num": 269151,
+      "word": "中方决不接受七国集团甩锅推责",
+      "onboard_time": 1742229199,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 73888,
       "num": 73888,
       "word": "花花花花春天花花花花",
@@ -291,12 +299,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72438,
+      "num": 72438,
+      "word": "小米su7ultra全网首拆",
+      "onboard_time": 1742229319,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 72362,
       "num": 72362,
       "word": "杨紫全国巡跳第二轮",
       "onboard_time": 1742219424,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 72137,
+      "num": 72137,
+      "word": "减肥党最容易踩的坑",
+      "onboard_time": 1742228659,
+      "rank": 45,
+      "category": "运动健身"
     },
     {
       "raw_hot": 67824,
@@ -339,14 +363,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 64846,
-      "num": 64846,
-      "word": "减肥党最容易踩的坑",
-      "onboard_time": 1742228659,
-      "rank": 45,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 63944,
       "num": 63944,
       "word": "金智媛独美",
@@ -387,19 +403,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57981,
+      "num": 114029,
+      "word": "国台办回应解放军在台岛附近演习",
+      "onboard_time": 1742228780,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 52247,
+      "num": 52247,
+      "word": "正告赖清德当局",
+      "onboard_time": 1742229259,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 49247,
+      "num": 49247,
+      "word": "台湾枪战细节曝光",
+      "onboard_time": 1742215284,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45422,
       "num": 83571,
       "word": "外交部回应G7炒作涉华议题",
       "onboard_time": 1742227520,
       "rank": 33,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 38792,
-      "num": 114029,
-      "word": "国台办回应解放军在台岛附近演习",
-      "onboard_time": 1742228780,
-      "rank": 22,
       "category": "国内时政"
     }
   ],

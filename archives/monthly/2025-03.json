@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742229077214,
+  "endTime": 1742230024034,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -9731,6 +9731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 463741,
+      "num": 463741,
+      "word": "赵露思吊带皮裙好辣",
+      "onboard_time": 1742227881,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 463708,
       "num": 463708,
       "word": "恋爱兄妹综艺",
@@ -13731,6 +13739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 329797,
+      "num": 329797,
+      "word": "iPhone17Air或首次采用无端口设计",
+      "onboard_time": 1742226622,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
       "raw_hot": 329529,
       "num": 329529,
       "word": "建议企业为全职妈妈设立妈妈岗",
@@ -14033,14 +14049,6 @@
       "onboard_time": 1741340302,
       "rank": 30,
       "category": "数码"
-    },
-    {
-      "raw_hot": 322777,
-      "num": 322777,
-      "word": "赵露思吊带皮裙好辣",
-      "onboard_time": 1742227881,
-      "rank": 8,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 322772,
@@ -15769,14 +15777,6 @@
       "onboard_time": 1741312700,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 281906,
-      "num": 281906,
-      "word": "iPhone17Air或首次采用无端口设计",
-      "onboard_time": 1742226622,
-      "rank": 12,
-      "category": "数码"
     },
     {
       "raw_hot": 281856,
@@ -45355,6 +45355,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 76706,
+      "num": 269151,
+      "word": "中方决不接受七国集团甩锅推责",
+      "onboard_time": 1742229199,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 76549,
       "num": 123881,
       "word": "做Excel表半小时用智能体仅需1分钟",
@@ -45811,6 +45819,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 72438,
+      "num": 72438,
+      "word": "小米su7ultra全网首拆",
+      "onboard_time": 1742229319,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 72435,
       "num": 276121,
       "word": "致敬了不起的你们",
@@ -45849,6 +45865,14 @@
       "onboard_time": 1740990019,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 72137,
+      "num": 72137,
+      "word": "减肥党最容易踩的坑",
+      "onboard_time": 1742228659,
+      "rank": 45,
+      "category": "运动健身"
     },
     {
       "raw_hot": 72101,
@@ -46723,14 +46747,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 64846,
-      "num": 64846,
-      "word": "减肥党最容易踩的坑",
-      "onboard_time": 1742228659,
-      "rank": 45,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 64755,
       "num": 387673,
       "word": "王艺迪vs早田希娜",
@@ -47545,6 +47561,14 @@
       "onboard_time": 1741149682,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57981,
+      "num": 114029,
+      "word": "国台办回应解放军在台岛附近演习",
+      "onboard_time": 1742228780,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 57923,
@@ -48425,6 +48449,14 @@
       "onboard_time": 1740917239,
       "rank": 34,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 52247,
+      "num": 52247,
+      "word": "正告赖清德当局",
+      "onboard_time": 1742229259,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 52051,
@@ -50385,14 +50417,6 @@
       "onboard_time": 1741777524,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38792,
-      "num": 114029,
-      "word": "国台办回应解放军在台岛附近演习",
-      "onboard_time": 1742228780,
-      "rank": 22,
-      "category": "国内时政"
     },
     {
       "raw_hot": 38662,

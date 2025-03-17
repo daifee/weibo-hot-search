@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742229077214,
+  "endTime": 1742230024034,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -1515,6 +1515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 463741,
+      "num": 463741,
+      "word": "赵露思吊带皮裙好辣",
+      "onboard_time": 1742227881,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 458962,
       "num": 477587,
       "word": "周深以为演唱会门票卖不动",
@@ -2003,6 +2011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 329797,
+      "num": 329797,
+      "word": "iPhone17Air或首次采用无端口设计",
+      "onboard_time": 1742226622,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
       "raw_hot": 329429,
       "num": 329429,
       "word": "孟子义发言李昀锐藏话筒",
@@ -2033,14 +2049,6 @@
       "onboard_time": 1742221104,
       "rank": 47,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 322777,
-      "num": 322777,
-      "word": "赵露思吊带皮裙好辣",
-      "onboard_time": 1742227881,
-      "rank": 8,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 321665,
@@ -2225,14 +2233,6 @@
       "onboard_time": 1742123722,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 281906,
-      "num": 281906,
-      "word": "iPhone17Air或首次采用无端口设计",
-      "onboard_time": 1742226622,
-      "rank": 12,
-      "category": "数码"
     },
     {
       "raw_hot": 281856,
@@ -6115,6 +6115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76706,
+      "num": 269151,
+      "word": "中方决不接受七国集团甩锅推责",
+      "onboard_time": 1742229199,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 74046,
       "num": 314742,
       "word": "律师称解决加班乱象将刺激消费",
@@ -6155,12 +6163,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 72438,
+      "num": 72438,
+      "word": "小米su7ultra全网首拆",
+      "onboard_time": 1742229319,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 72359,
       "num": 267894,
       "word": "北京地铁发布延误公告",
       "onboard_time": 1742188643,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72137,
+      "num": 72137,
+      "word": "减肥党最容易踩的坑",
+      "onboard_time": 1742228659,
+      "rank": 45,
+      "category": "运动健身"
     },
     {
       "raw_hot": 71653,
@@ -6201,14 +6225,6 @@
       "onboard_time": 1742168059,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 64846,
-      "num": 64846,
-      "word": "减肥党最容易踩的坑",
-      "onboard_time": 1742228659,
-      "rank": 45,
-      "category": "运动健身"
     },
     {
       "raw_hot": 63962,
@@ -6289,6 +6305,14 @@
       "onboard_time": 1742063177,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 57981,
+      "num": 114029,
+      "word": "国台办回应解放军在台岛附近演习",
+      "onboard_time": 1742228780,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 56771,
@@ -6393,6 +6417,14 @@
       "onboard_time": 1742198904,
       "rank": 29,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 52247,
+      "num": 52247,
+      "word": "正告赖清德当局",
+      "onboard_time": 1742229259,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 52012,
@@ -6609,14 +6641,6 @@
       "onboard_time": 1742067134,
       "rank": 43,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 38792,
-      "num": 114029,
-      "word": "国台办回应解放军在台岛附近演习",
-      "onboard_time": 1742228780,
-      "rank": 22,
-      "category": "国内时政"
     },
     {
       "raw_hot": 38662,
