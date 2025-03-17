@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742230024034,
+  "endTime": 1742232106665,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -41507,6 +41507,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 101346,
+      "num": 101346,
+      "word": "小米su7ultra全网首拆",
+      "onboard_time": 1742229319,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 101215,
       "num": 101215,
       "word": "难哄小情侣重逢",
@@ -42609,6 +42617,14 @@
       "onboard_time": 1740763575,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95884,
+      "num": 269151,
+      "word": "中方决不接受七国集团甩锅推责",
+      "onboard_time": 1742229199,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 95852,
@@ -44931,6 +44947,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 80332,
+      "num": 120554,
+      "word": "李兆基汶川大地震捐款超5亿",
+      "onboard_time": 1742227582,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 80311,
       "num": 209064,
       "word": "雨天老奶奶独自坐台阶店员给其点饭",
@@ -45355,14 +45379,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 76706,
-      "num": 269151,
-      "word": "中方决不接受七国集团甩锅推责",
-      "onboard_time": 1742229199,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 76549,
       "num": 123881,
       "word": "做Excel表半小时用智能体仅需1分钟",
@@ -45505,6 +45521,14 @@
       "onboard_time": 1741657461,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75043,
+      "num": 75043,
+      "word": "减肥党最容易踩的坑",
+      "onboard_time": 1742228659,
+      "rank": 45,
+      "category": "运动健身"
     },
     {
       "raw_hot": 74981,
@@ -45819,14 +45843,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 72438,
-      "num": 72438,
-      "word": "小米su7ultra全网首拆",
-      "onboard_time": 1742229319,
-      "rank": 32,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 72435,
       "num": 276121,
       "word": "致敬了不起的你们",
@@ -45865,14 +45881,6 @@
       "onboard_time": 1740990019,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 72137,
-      "num": 72137,
-      "word": "减肥党最容易踩的坑",
-      "onboard_time": 1742228659,
-      "rank": 45,
-      "category": "运动健身"
     },
     {
       "raw_hot": 72101,
@@ -48571,6 +48579,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 51619,
+      "num": 51619,
+      "word": "susu福福",
+      "onboard_time": 1742231117,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51572,
       "num": 5114616,
       "word": "我国再次发射一箭双星",
@@ -49632,6 +49648,14 @@
       "word": "警惕影视作品中被浪漫化的恋童与操控",
       "onboard_time": 1742202261,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 43585,
+      "num": 43585,
+      "word": "孟子义何与同框",
+      "onboard_time": 1742230757,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -51825,6 +51849,14 @@
       "onboard_time": 1741452979,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 30790,
+      "num": 30790,
+      "word": "卢旺达驱逐比利时所有外交官",
+      "onboard_time": 1742231777,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 30750,

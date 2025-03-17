@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742230024034,
+  "endTime": 1742232106665,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -5691,6 +5691,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 101346,
+      "num": 101346,
+      "word": "小米su7ultra全网首拆",
+      "onboard_time": 1742229319,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 101306,
       "num": 101306,
       "word": "所谓点击抽大奖实为敛财套路",
@@ -5793,6 +5801,14 @@
       "onboard_time": 1742226021,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95884,
+      "num": 269151,
+      "word": "中方决不接受七国集团甩锅推责",
+      "onboard_time": 1742229199,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 94946,
@@ -6059,6 +6075,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 80332,
+      "num": 120554,
+      "word": "李兆基汶川大地震捐款超5亿",
+      "onboard_time": 1742227582,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 79480,
       "num": 79480,
       "word": "新版刁蛮公主男女主",
@@ -6115,12 +6139,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 76706,
-      "num": 269151,
-      "word": "中方决不接受七国集团甩锅推责",
-      "onboard_time": 1742229199,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 75043,
+      "num": 75043,
+      "word": "减肥党最容易踩的坑",
+      "onboard_time": 1742228659,
+      "rank": 45,
+      "category": "运动健身"
     },
     {
       "raw_hot": 74046,
@@ -6163,28 +6187,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 72438,
-      "num": 72438,
-      "word": "小米su7ultra全网首拆",
-      "onboard_time": 1742229319,
-      "rank": 32,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 72359,
       "num": 267894,
       "word": "北京地铁发布延误公告",
       "onboard_time": 1742188643,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 72137,
-      "num": 72137,
-      "word": "减肥党最容易踩的坑",
-      "onboard_time": 1742228659,
-      "rank": 45,
-      "category": "运动健身"
     },
     {
       "raw_hot": 71653,
@@ -6451,6 +6459,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 51619,
+      "num": 51619,
+      "word": "susu福福",
+      "onboard_time": 1742231117,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51343,
       "num": 279292,
       "word": "全面彻查315晚会曝光的企业违法行为",
@@ -6576,6 +6592,14 @@
       "word": "警惕影视作品中被浪漫化的恋童与操控",
       "onboard_time": 1742202261,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 43585,
+      "num": 43585,
+      "word": "孟子义何与同框",
+      "onboard_time": 1742230757,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -6809,6 +6833,14 @@
       "onboard_time": 1742072594,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 30790,
+      "num": 30790,
+      "word": "卢旺达驱逐比利时所有外交官",
+      "onboard_time": 1742231777,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 30750,
