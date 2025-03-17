@@ -1,0 +1,410 @@
+{
+  "runTime": 1742243963677,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 95714,
+        "num": 95714,
+        "word": "平价不是蜜雪冰城的万能挡箭牌",
+        "onboard_time": 1742207064,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92166,
+        "num": 92166,
+        "word": "中方决不接受七国集团甩锅推责",
+        "onboard_time": 1742229199,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14777,
+        "num": 65996,
+        "word": "六部门详解最新提振消费方案",
+        "onboard_time": 1742218584,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65140,
+        "num": 65140,
+        "word": "短剧女主余茵回应颜值身高都一般",
+        "onboard_time": 1742221045,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46919,
+        "num": 46919,
+        "word": "赵露思吊带皮裙好辣",
+        "onboard_time": 1742227881,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 35957,
+        "num": 35957,
+        "word": "平价的蜜雪冰城拥有豁免权吗",
+        "onboard_time": 1742201121,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46006,
+        "num": 35413,
+        "word": "刘宇宁 珠帘玉幕咋了",
+        "onboard_time": 1742219004,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 34755,
+        "num": 34755,
+        "word": "iPhone17Air或首次采用无端口设计",
+        "onboard_time": 1742226622,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 34056,
+        "num": 34056,
+        "word": "李兆基汶川大地震捐款超5亿",
+        "onboard_time": 1742227582,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 28276,
+        "num": 28276,
+        "word": "台湾枪战细节曝光",
+        "onboard_time": 1742215284,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57191,
+        "num": 28085,
+        "word": "金智媛是真的很不想理金秀贤",
+        "onboard_time": 1742217264,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40384,
+        "num": 27807,
+        "word": "亚洲前首富李兆基逝世",
+        "onboard_time": 1742213064,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 31628,
+        "num": 27800,
+        "word": "女子离世同居31年男友被赶出门",
+        "onboard_time": 1742221224,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27504,
+        "num": 27504,
+        "word": "蜜雪冰城塌房后大学生的反应",
+        "onboard_time": 1742200282,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27393,
+        "num": 27393,
+        "word": "1688全面取消仅退款",
+        "onboard_time": 1742215645,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 24963,
+        "num": 24963,
+        "word": "浙大回应网传副教授选妃事件",
+        "onboard_time": 1742220625,
+        "rank": 15,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 24739,
+        "num": 24739,
+        "word": "小米su7ultra全网首拆",
+        "onboard_time": 1742229319,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 23338,
+        "num": 23338,
+        "word": "谁说现偶不需要演技",
+        "onboard_time": 1742216365,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23292,
+        "num": 23292,
+        "word": "向太说李小冉因节目争议哭了",
+        "onboard_time": 1742222245,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22890,
+        "num": 22890,
+        "word": "隔夜柠檬片",
+        "onboard_time": 1742233337,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22656,
+        "num": 22656,
+        "word": "老公恐高女子坐月子坐一半紧急搬家",
+        "onboard_time": 1742216184,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19921,
+        "num": 19921,
+        "word": "卢旺达驱逐比利时所有外交官",
+        "onboard_time": 1742231777,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19461,
+        "num": 19461,
+        "word": "国台办回应解放军在台岛附近演习",
+        "onboard_time": 1742228780,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19345,
+        "num": 19345,
+        "word": "外交部回应G7炒作涉华议题",
+        "onboard_time": 1742227520,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19274,
+        "num": 19274,
+        "word": "金秀贤方第二次内容证明全文",
+        "onboard_time": 1742221464,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19020,
+        "num": 19020,
+        "word": "宝妈晕厥15个月宝宝连滚带爬求救",
+        "onboard_time": 1742212583,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19005,
+        "num": 19005,
+        "word": "妈妈腹中胎儿4根手指被缠绕2根坏死",
+        "onboard_time": 1742199501,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18998,
+        "num": 18998,
+        "word": "减肥党最容易踩的坑",
+        "onboard_time": 1742228659,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 17335,
+        "num": 17335,
+        "word": "丁禹兮南部档案片场救人",
+        "onboard_time": 1742221405,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14811,
+        "num": 16778,
+        "word": "电视剧北上",
+        "onboard_time": 1742238553,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16705,
+        "num": 16705,
+        "word": "金赛纶日记本写了交往时间",
+        "onboard_time": 1742199562,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16190,
+        "num": 16190,
+        "word": "中方军事行动是对台独势力的严正警告",
+        "onboard_time": 1742207782,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16044,
+        "num": 16044,
+        "word": "小孩哥手机店打游戏成全场屏保",
+        "onboard_time": 1742216843,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15742,
+        "num": 15742,
+        "word": "外交部批七国集团外长会联合声明",
+        "onboard_time": 1742225902,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15690,
+        "num": 15690,
+        "word": "正告赖清德当局",
+        "onboard_time": 1742229259,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15179,
+        "num": 15179,
+        "word": "朴宝剑 戴花露肉照",
+        "onboard_time": 1742227221,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14448,
+        "num": 14448,
+        "word": "肖战一个眼神就知道是权谋戏了",
+        "onboard_time": 1742209165,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14319,
+        "num": 14319,
+        "word": "莫迪对华最新表态",
+        "onboard_time": 1742238974,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 13991,
+        "num": 13991,
+        "word": "孟子义李昀锐香港活动g社生图",
+        "onboard_time": 1742226802,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 13969,
+        "num": 13969,
+        "word": "重庆地震",
+        "onboard_time": 1742221104,
+        "rank": 39,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 13523,
+        "num": 13523,
+        "word": "蒋胜男辟谣建议对未婚男性停发工资",
+        "onboard_time": 1742223264,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13296,
+        "num": 13296,
+        "word": "韩国演员李艾儿为金赛纶发声",
+        "onboard_time": 1742206342,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13139,
+        "num": 13139,
+        "word": "孙杨说全运会是自己新征程的开始",
+        "onboard_time": 1742242034,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12749,
+        "num": 13139,
+        "word": "因持续降雪玉龙雪山索道停运",
+        "onboard_time": 1742238014,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12548,
+        "num": 13139,
+        "word": "小伙异乡入伍战友妈妈暖心安慰",
+        "onboard_time": 1742233576,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12174,
+        "num": 13139,
+        "word": "哪吒日本票房上座率",
+        "onboard_time": 1742221944,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 11913,
+        "num": 13139,
+        "word": "空中架起2000多公里电力高速",
+        "onboard_time": 1742232376,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11702,
+        "num": 13139,
+        "word": "光遇",
+        "onboard_time": 1742227641,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 11254,
+        "num": 13139,
+        "word": "武警战士回乡探亲顺路救了个人",
+        "onboard_time": 1742237416,
+        "rank": 48,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 11117,
+        "num": 13139,
+        "word": "伊朗伊斯兰革命卫队回应特朗普警告",
+        "onboard_time": 1742234775,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记强调教育科技人才一起抓#"
+    }
+  }
+}

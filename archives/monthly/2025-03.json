@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742243172444,
+  "endTime": 1742243963677,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -54987,6 +54987,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 13139,
+      "num": 31795,
+      "word": "孙杨说全运会是自己新征程的开始",
+      "onboard_time": 1742242034,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 13116,
       "num": 17596,
       "word": "伞兵为虞书欣新剧打call",
@@ -55401,14 +55409,6 @@
       "onboard_time": 1742156833,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 10919,
-      "num": 31795,
-      "word": "孙杨说全运会是自己新征程的开始",
-      "onboard_time": 1742242034,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 10870,

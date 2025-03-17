@@ -1,6 +1,6 @@
 {
   "startTime": 1742229077214,
-  "endTime": 1742243172444,
+  "endTime": 1742243963677,
   "band_list": [
     {
       "raw_hot": 1096550,
@@ -571,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 13139,
+      "num": 31795,
+      "word": "孙杨说全运会是自己新征程的开始",
+      "onboard_time": 1742242034,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 11791,
       "num": 62752,
       "word": "李兆基曾向北大清华各捐2亿",
@@ -585,14 +593,6 @@
       "onboard_time": 1742237416,
       "rank": 49,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 10919,
-      "num": 31795,
-      "word": "孙杨说全运会是自己新征程的开始",
-      "onboard_time": 1742242034,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 10254,
