@@ -1,0 +1,410 @@
+{
+  "runTime": 1742189030222,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1474045,
+        "num": 1474045,
+        "word": "蜜雪冰城",
+        "onboard_time": 1742181083,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 759914,
+        "num": 759914,
+        "word": "TF椰子水",
+        "onboard_time": 1742184923,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 106154,
+        "num": 667207,
+        "word": "提振消费专项行动30条",
+        "onboard_time": 1742183364,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 666632,
+        "num": 666632,
+        "word": "母亲偷签3万婚介合同为女儿安排相亲",
+        "onboard_time": 1742183963,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 641377,
+        "num": 641377,
+        "word": "陆虎回应给王栎鑫写歌争议",
+        "onboard_time": 1742183902,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 834942,
+        "num": 622284,
+        "word": "黄焖鸡卧底记者提醒11点前别点外卖",
+        "onboard_time": 1742167339,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 566091,
+        "num": 566091,
+        "word": "胖东来卫生巾区域挂各品牌检测报告",
+        "onboard_time": 1742181861,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 523155,
+        "num": 523155,
+        "word": "五哈5回归官宣",
+        "onboard_time": 1742182101,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324087,
+        "num": 324087,
+        "word": "多所高校毕业论文将检测AI率",
+        "onboard_time": 1742181321,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239521,
+        "num": 239521,
+        "word": "大伯自称千元买劳力士后悔",
+        "onboard_time": 1742185464,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1839387,
+        "num": 239374,
+        "word": "薛凯琪身体疑似躯体化",
+        "onboard_time": 1742180841,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1435648,
+        "num": 238602,
+        "word": "金赛纶的画",
+        "onboard_time": 1742187383,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1015921,
+        "num": 238055,
+        "word": "用人民币感受韩国的工资水平",
+        "onboard_time": 1742185764,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 905634,
+        "num": 237671,
+        "word": "昀牵孟绕",
+        "onboard_time": 1742183303,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 498075,
+        "num": 237390,
+        "word": "女子进行心理咨询11天后自杀身亡",
+        "onboard_time": 1742176161,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 582636,
+        "num": 236609,
+        "word": "薛凯琪终日以泪洗面几度缺氧",
+        "onboard_time": 1742176761,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 766206,
+        "num": 236114,
+        "word": "金赛纶遗属将举行新闻发布会",
+        "onboard_time": 1742182220,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341005,
+        "num": 235842,
+        "word": "用自己的12年换女儿的生命",
+        "onboard_time": 1742186484,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44576,
+        "num": 235062,
+        "word": "北京地铁发布延误公告",
+        "onboard_time": 1742188643,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53019,
+        "num": 234744,
+        "word": "少儿医疗保险套路调查",
+        "onboard_time": 1742187383,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 337270,
+        "num": 234006,
+        "word": "邓为 将门毒后",
+        "onboard_time": 1742172982,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280915,
+        "num": 233288,
+        "word": "汤唯我不认识金秀贤",
+        "onboard_time": 1742136983,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233271,
+        "num": 233271,
+        "word": "女生回应北大毕业转行当演员6年没火",
+        "onboard_time": 1742179041,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233111,
+        "num": 233111,
+        "word": "难哄callback埋了32集",
+        "onboard_time": 1742186124,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219428,
+        "num": 219428,
+        "word": "李昀锐张康乐同框合照",
+        "onboard_time": 1742188221,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215509,
+        "num": 219303,
+        "word": "白敬亭新剧又掉进循环里了",
+        "onboard_time": 1742188581,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194322,
+        "num": 219240,
+        "word": "不说话的爱章若楠特别演出",
+        "onboard_time": 1742188821,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172311,
+        "num": 219106,
+        "word": "藕饼芭莎封面",
+        "onboard_time": 1742183963,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 154615,
+        "num": 218919,
+        "word": "孟子义抹胸粉裙",
+        "onboard_time": 1742188283,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 62742,
+        "num": 218702,
+        "word": "AI未来会替代教师工作吗",
+        "onboard_time": 1742188103,
+        "rank": 29,
+        "category": "互联网,教育"
+      },
+      {
+        "raw_hot": 218683,
+        "num": 218683,
+        "word": "还有哪些卫生巾品牌没爆过雷",
+        "onboard_time": 1742170762,
+        "rank": 30,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 215129,
+        "num": 215129,
+        "word": "翻新卫生巾的重灾区是留守儿童",
+        "onboard_time": 1742186782,
+        "rank": 31,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 213167,
+        "num": 213167,
+        "word": "台湾屏东市区凌晨爆发枪战",
+        "onboard_time": 1742175679,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 212091,
+        "num": 212091,
+        "word": "00后上班正打破精致羞耻症",
+        "onboard_time": 1742174841,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211541,
+        "num": 211541,
+        "word": "研究生对硕士论文的理解",
+        "onboard_time": 1742188283,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178239,
+        "num": 178239,
+        "word": "金玟庭 把妹王",
+        "onboard_time": 1742183364,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166574,
+        "num": 166574,
+        "word": "气血不足不建议不吃主食",
+        "onboard_time": 1742168241,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 162578,
+        "num": 162578,
+        "word": "沈腾马丽海南合体录制团综",
+        "onboard_time": 1742185342,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160175,
+        "num": 160175,
+        "word": "嘘国王在冬眠",
+        "onboard_time": 1742185943,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146106,
+        "num": 146106,
+        "word": "赵一博人民交通航海安全宣传大使",
+        "onboard_time": 1742182041,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138057,
+        "num": 138057,
+        "word": "法国议员要求美国归还自由女神像",
+        "onboard_time": 1742185524,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 136518,
+        "num": 136518,
+        "word": "韩庚相机",
+        "onboard_time": 1742186722,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133844,
+        "num": 133844,
+        "word": "华为Pura新品真机曝光",
+        "onboard_time": 1742177721,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 133809,
+        "num": 133809,
+        "word": "香飘飘招聘优先空乘专业",
+        "onboard_time": 1742188283,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132151,
+        "num": 132151,
+        "word": "开保时捷加油逃单男子被警方传唤",
+        "onboard_time": 1742174841,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97218,
+        "num": 131927,
+        "word": "英法要向乌派部队意大利不参与",
+        "onboard_time": 1742187442,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131833,
+        "num": 131833,
+        "word": "重庆游客开始吃长江索道了",
+        "onboard_time": 1742181802,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129861,
+        "num": 129861,
+        "word": "耀客2025新剧片单",
+        "onboard_time": 1742186904,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123284,
+        "num": 123284,
+        "word": "国安部公开4名台独网军身份信息",
+        "onboard_time": 1742167220,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120141,
+        "num": 120141,
+        "word": "张元英四月刊封面",
+        "onboard_time": 1742187803,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#把中央八项规定作为铁规矩硬杠杠#"
+    }
+  }
+}

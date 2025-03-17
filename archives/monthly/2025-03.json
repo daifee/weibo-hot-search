@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742186599001,
+  "endTime": 1742189030222,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1843,6 +1843,14 @@
       "category": "互联网,数码"
     },
     {
+      "raw_hot": 1435648,
+      "num": 238602,
+      "word": "金赛纶的画",
+      "onboard_time": 1742187383,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1429273,
       "num": 1429273,
       "word": "CFO零封TES",
@@ -3371,6 +3379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1015921,
+      "num": 339476,
+      "word": "用人民币感受韩国的工资水平",
+      "onboard_time": 1742185764,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1012949,
       "num": 1012949,
       "word": "鱼头星星回来了",
@@ -3905,14 +3921,6 @@
       "onboard_time": 1741681702,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 931718,
-      "num": 339476,
-      "word": "用人民币感受韩国的工资水平",
-      "onboard_time": 1742185764,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 931276,
@@ -5241,6 +5249,14 @@
       "onboard_time": 1741772843,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 759914,
+      "num": 759914,
+      "word": "TF椰子水",
+      "onboard_time": 1742184923,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 759908,
@@ -12227,14 +12243,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 356487,
-      "num": 356487,
-      "word": "TF椰子水",
-      "onboard_time": 1742184923,
-      "rank": 32,
-      "category": "美食"
-    },
-    {
       "raw_hot": 356284,
       "num": 356284,
       "word": "短剧",
@@ -12825,6 +12833,14 @@
       "onboard_time": 1741259421,
       "rank": 38,
       "category": "国内时政,互联网"
+    },
+    {
+      "raw_hot": 341005,
+      "num": 235842,
+      "word": "用自己的12年换女儿的生命",
+      "onboard_time": 1742186484,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 340742,
@@ -17563,6 +17579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 239521,
+      "num": 388127,
+      "word": "大伯自称千元买劳力士后悔",
+      "onboard_time": 1742185464,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239447,
       "num": 239447,
       "word": "翔霖",
@@ -17992,6 +18016,14 @@
       "word": "欧豪多上上网吧",
       "onboard_time": 1740838944,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 233111,
+      "num": 233111,
+      "word": "难哄callback埋了32集",
+      "onboard_time": 1742186124,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -19163,6 +19195,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 219428,
+      "num": 219428,
+      "word": "李昀锐张康乐同框合照",
+      "onboard_time": 1742188221,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 219391,
       "num": 219391,
       "word": "DeepSeek智搜评内娱十大国民级歌手",
@@ -19225,6 +19265,14 @@
       "onboard_time": 1741564279,
       "rank": 18,
       "category": "电影,美食"
+    },
+    {
+      "raw_hot": 218683,
+      "num": 300911,
+      "word": "还有哪些卫生巾品牌没爆过雷",
+      "onboard_time": 1742170762,
+      "rank": 37,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 218627,
@@ -19523,6 +19571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215509,
+      "num": 219303,
+      "word": "白敬亭新剧又掉进循环里了",
+      "onboard_time": 1742188581,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215362,
       "num": 275260,
       "word": "2025年GDP增长预期目标为5%左右",
@@ -19545,6 +19601,14 @@
       "onboard_time": 1741661060,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 215129,
+      "num": 215129,
+      "word": "翻新卫生巾的重灾区是留守儿童",
+      "onboard_time": 1742186782,
+      "rank": 31,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 215091,
@@ -19977,6 +20041,14 @@
       "onboard_time": 1740813329,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 211541,
+      "num": 211541,
+      "word": "研究生对硕士论文的理解",
+      "onboard_time": 1742188283,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 211461,
@@ -22379,6 +22451,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 194322,
+      "num": 219240,
+      "word": "不说话的爱章若楠特别演出",
+      "onboard_time": 1742188821,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 194308,
       "num": 194308,
       "word": "长沙地铁把女生心事投屏了",
@@ -23371,14 +23451,6 @@
       "category": "议题讨论,民生新闻"
     },
     {
-      "raw_hot": 188172,
-      "num": 188172,
-      "word": "难哄callback埋了32集",
-      "onboard_time": 1742186124,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 188158,
       "num": 188158,
       "word": "宋亚轩给鼠标打电话",
@@ -23793,14 +23865,6 @@
       "onboard_time": 1741674683,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 186124,
-      "num": 388127,
-      "word": "大伯自称千元买劳力士后悔",
-      "onboard_time": 1742185464,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 186023,
@@ -24233,14 +24297,6 @@
       "onboard_time": 1740808795,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 182883,
-      "num": 300911,
-      "word": "还有哪些卫生巾品牌没爆过雷",
-      "onboard_time": 1742170762,
-      "rank": 37,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 182847,
@@ -28867,14 +28923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155487,
-      "num": 155487,
-      "word": "用自己的12年换女儿的生命",
-      "onboard_time": 1742186484,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 155468,
       "num": 155468,
       "word": "孙龙摔倒",
@@ -29009,6 +29057,14 @@
       "onboard_time": 1742057003,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154615,
+      "num": 218919,
+      "word": "孟子义抹胸粉裙",
+      "onboard_time": 1742188283,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 154612,
@@ -32651,6 +32707,14 @@
       "category": "舆论监督,美妆"
     },
     {
+      "raw_hot": 136518,
+      "num": 136518,
+      "word": "韩庚相机",
+      "onboard_time": 1742186722,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136507,
       "num": 136507,
       "word": "沈梦瑶上海演唱会舞台",
@@ -33113,6 +33177,14 @@
       "onboard_time": 1740932657,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133809,
+      "num": 133809,
+      "word": "香飘飘招聘优先空乘专业",
+      "onboard_time": 1742188283,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133782,
@@ -33817,6 +33889,14 @@
       "onboard_time": 1741571720,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 129861,
+      "num": 129861,
+      "word": "耀客2025新剧片单",
+      "onboard_time": 1742186904,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 129814,
@@ -36073,6 +36153,14 @@
       "onboard_time": 1741573820,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120141,
+      "num": 120141,
+      "word": "张元英四月刊封面",
+      "onboard_time": 1742187803,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 120087,
@@ -40651,6 +40739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97218,
+      "num": 131927,
+      "word": "英法要向乌派部队意大利不参与",
+      "onboard_time": 1742187442,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 97187,
       "num": 301706,
       "word": "省考前一天还能做什么",
@@ -45187,6 +45283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62742,
+      "num": 218702,
+      "word": "AI未来会替代教师工作吗",
+      "onboard_time": 1742188103,
+      "rank": 29,
+      "category": "互联网,教育"
+    },
+    {
       "raw_hot": 62564,
       "num": 390659,
       "word": "315实测主流卫生巾长度仍虚标",
@@ -46363,6 +46467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 53019,
+      "num": 234744,
+      "word": "少儿医疗保险套路调查",
+      "onboard_time": 1742187383,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 52984,
       "num": 113420,
       "word": "美国务卿将在沙特会晤乌克兰官员",
@@ -47449,6 +47561,14 @@
       "onboard_time": 1741249881,
       "rank": 8,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 44576,
+      "num": 235062,
+      "word": "北京地铁发布延误公告",
+      "onboard_time": 1742188643,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44561,

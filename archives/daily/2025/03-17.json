@@ -1,6 +1,6 @@
 {
   "startTime": 1742142428647,
-  "endTime": 1742186599001,
+  "endTime": 1742189030222,
   "band_list": [
     {
       "raw_hot": 2581413,
@@ -32,6 +32,22 @@
       "word": "汤唯我不认识金秀贤",
       "onboard_time": 1742136983,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1474045,
+      "num": 1474045,
+      "word": "蜜雪冰城",
+      "onboard_time": 1742181083,
+      "rank": 48,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 1435648,
+      "num": 238602,
+      "word": "金赛纶的画",
+      "onboard_time": 1742187383,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -83,12 +99,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1008430,
-      "num": 1008430,
-      "word": "蜜雪冰城",
-      "onboard_time": 1742181083,
-      "rank": 48,
-      "category": "舆论监督"
+      "raw_hot": 1015921,
+      "num": 339476,
+      "word": "用人民币感受韩国的工资水平",
+      "onboard_time": 1742185764,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 995222,
@@ -113,14 +129,6 @@
       "onboard_time": 1742167220,
       "rank": 36,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 931718,
-      "num": 339476,
-      "word": "用人民币感受韩国的工资水平",
-      "onboard_time": 1742185764,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 927419,
@@ -177,6 +185,14 @@
       "onboard_time": 1742172802,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 759914,
+      "num": 759914,
+      "word": "TF椰子水",
+      "onboard_time": 1742184923,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 755868,
@@ -307,14 +323,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 356487,
-      "num": 356487,
-      "word": "TF椰子水",
-      "onboard_time": 1742184923,
-      "rank": 32,
-      "category": "美食"
-    },
-    {
       "raw_hot": 344302,
       "num": 293441,
       "word": "气血不足不建议不吃主食",
@@ -329,6 +337,14 @@
       "onboard_time": 1742179041,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 341005,
+      "num": 235842,
+      "word": "用自己的12年换女儿的生命",
+      "onboard_time": 1742186484,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 330995,
@@ -507,11 +523,27 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 239521,
+      "num": 388127,
+      "word": "大伯自称千元买劳力士后悔",
+      "onboard_time": 1742185464,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239363,
       "num": 239363,
       "word": "短剧已是nextlevel",
       "onboard_time": 1742131225,
       "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 233111,
+      "num": 233111,
+      "word": "难哄callback埋了32集",
+      "onboard_time": 1742186124,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -571,6 +603,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 219428,
+      "num": 219428,
+      "word": "李昀锐张康乐同框合照",
+      "onboard_time": 1742188221,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 218683,
+      "num": 300911,
+      "word": "还有哪些卫生巾品牌没爆过雷",
+      "onboard_time": 1742170762,
+      "rank": 37,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 216664,
       "num": 216664,
       "word": "美国向欧洲多国询问是否可供应鸡蛋",
@@ -587,6 +635,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 215509,
+      "num": 219303,
+      "word": "白敬亭新剧又掉进循环里了",
+      "onboard_time": 1742188581,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 215129,
+      "num": 215129,
+      "word": "翻新卫生巾的重灾区是留守儿童",
+      "onboard_time": 1742186782,
+      "rank": 31,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 212971,
       "num": 458091,
       "word": "英法坚持要向乌克兰派驻部队",
@@ -601,6 +665,14 @@
       "onboard_time": 1742149036,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 211541,
+      "num": 211541,
+      "word": "研究生对硕士论文的理解",
+      "onboard_time": 1742188283,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 209820,
@@ -635,6 +707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194322,
+      "num": 219240,
+      "word": "不说话的爱章若楠特别演出",
+      "onboard_time": 1742188821,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 191539,
       "num": 191539,
       "word": "卫生巾",
@@ -651,28 +731,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 188172,
-      "num": 188172,
-      "word": "难哄callback埋了32集",
-      "onboard_time": 1742186124,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 187981,
       "num": 187981,
       "word": "五哈5五指山海报",
       "onboard_time": 1742185883,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 186124,
-      "num": 388127,
-      "word": "大伯自称千元买劳力士后悔",
-      "onboard_time": 1742185464,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 185036,
@@ -697,14 +761,6 @@
       "onboard_time": 1742185524,
       "rank": 29,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 182883,
-      "num": 300911,
-      "word": "还有哪些卫生巾品牌没爆过雷",
-      "onboard_time": 1742170762,
-      "rank": 37,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 182486,
@@ -827,12 +883,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 155487,
-      "num": 155487,
-      "word": "用自己的12年换女儿的生命",
-      "onboard_time": 1742186484,
-      "rank": 45,
-      "category": "剧集"
+      "raw_hot": 154615,
+      "num": 218919,
+      "word": "孟子义抹胸粉裙",
+      "onboard_time": 1742188283,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 150933,
@@ -915,6 +971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136518,
+      "num": 136518,
+      "word": "韩庚相机",
+      "onboard_time": 1742186722,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135039,
       "num": 135039,
       "word": "库迪哪吒套餐",
@@ -931,6 +995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133809,
+      "num": 133809,
+      "word": "香飘飘招聘优先空乘专业",
+      "onboard_time": 1742188283,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133398,
       "num": 317373,
       "word": "麻花特开心2开录",
@@ -945,6 +1017,14 @@
       "onboard_time": 1742175081,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129861,
+      "num": 129861,
+      "word": "耀客2025新剧片单",
+      "onboard_time": 1742186904,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 128849,
@@ -1017,6 +1097,14 @@
       "onboard_time": 1742184743,
       "rank": 14,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 120141,
+      "num": 120141,
+      "word": "张元英四月刊封面",
+      "onboard_time": 1742187803,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 119175,
@@ -1163,6 +1251,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 97218,
+      "num": 131927,
+      "word": "英法要向乌派部队意大利不参与",
+      "onboard_time": 1742187442,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 92976,
       "num": 92976,
       "word": "卫生巾纸尿裤粉碎车间味道令人作呕",
@@ -1299,12 +1395,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 62742,
+      "num": 218702,
+      "word": "AI未来会替代教师工作吗",
+      "onboard_time": 1742188103,
+      "rank": 29,
+      "category": "互联网,教育"
+    },
+    {
       "raw_hot": 62000,
       "num": 162869,
       "word": "我国将让AI算力像用电一样方便",
       "onboard_time": 1742145137,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53019,
+      "num": 234744,
+      "word": "少儿医疗保险套路调查",
+      "onboard_time": 1742187383,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 51295,
@@ -1345,6 +1457,14 @@
       "onboard_time": 1742179821,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 44576,
+      "num": 235062,
+      "word": "北京地铁发布延误公告",
+      "onboard_time": 1742188643,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42671,
