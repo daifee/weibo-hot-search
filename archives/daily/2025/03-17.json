@@ -1,6 +1,6 @@
 {
   "startTime": 1742142428647,
-  "endTime": 1742196270685,
+  "endTime": 1742197070928,
   "band_list": [
     {
       "raw_hot": 2581413,
@@ -25,6 +25,14 @@
       "onboard_time": 1742167339,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1525710,
+      "num": 1525710,
+      "word": "将门毒后选择沈腾马丽的五大理由",
+      "onboard_time": 1742193625,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 1480089,
@@ -59,14 +67,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1397514,
-      "num": 1397514,
-      "word": "将门毒后选择沈腾马丽的五大理由",
-      "onboard_time": 1742193625,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1275399,
       "num": 1275399,
       "word": "睡前太饿可以吃这5种食物",
@@ -89,6 +89,14 @@
       "onboard_time": 1742191821,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1190798,
+      "num": 332672,
+      "word": "金赛纶遗属整理金赛纶遗物才发现",
+      "onboard_time": 1742196802,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1172835,
@@ -121,6 +129,14 @@
       "onboard_time": 1742182220,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1062817,
+      "num": 1062817,
+      "word": "县医院月薪1750元招保安要求35岁以下",
+      "onboard_time": 1742196261,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1015921,
@@ -283,6 +299,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 598183,
+      "num": 598183,
+      "word": "难怪辛芷蕾能背下112页台词",
+      "onboard_time": 1742196322,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 575746,
       "num": 575746,
       "word": "南京警方破获一起15年前命案",
@@ -360,6 +384,14 @@
       "word": "Angelababy直播",
       "onboard_time": 1742124863,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 432073,
+      "num": 330261,
+      "word": "李承铉陪女儿参加学校活动",
+      "onboard_time": 1742194283,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -443,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 329429,
+      "num": 329429,
+      "word": "孟子义发言李昀锐藏话筒",
+      "onboard_time": 1742193381,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 328457,
       "num": 328457,
       "word": "中国航空工业集团原董事长谭瑞松被捕",
@@ -457,14 +497,6 @@
       "onboard_time": 1742127505,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 310625,
-      "num": 246869,
-      "word": "李承铉陪女儿参加学校活动",
-      "onboard_time": 1742194283,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 302627,
@@ -505,6 +537,14 @@
       "onboard_time": 1742120721,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 291032,
+      "num": 291032,
+      "word": "iPhone17系列模型机曝光",
+      "onboard_time": 1742194460,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 281348,
@@ -587,14 +627,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 246485,
-      "num": 246485,
-      "word": "孟子义发言李昀锐藏话筒",
-      "onboard_time": 1742193381,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 246364,
       "num": 246364,
       "word": "肥胖分苹果型和梨型",
@@ -659,14 +691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 236274,
-      "num": 236274,
-      "word": "iPhone17系列模型机曝光",
-      "onboard_time": 1742194460,
-      "rank": 31,
-      "category": "数码"
-    },
-    {
       "raw_hot": 233111,
       "num": 233111,
       "word": "难哄callback埋了32集",
@@ -721,6 +745,14 @@
       "onboard_time": 1742140401,
       "rank": 18,
       "category": "电影,综艺"
+    },
+    {
+      "raw_hot": 222425,
+      "num": 288073,
+      "word": "香港长和出售43个港口遭质疑",
+      "onboard_time": 1742195241,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 221020,
@@ -841,6 +873,22 @@
       "onboard_time": 1742179882,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202951,
+      "num": 275574,
+      "word": "甄嬛传 华妃番外",
+      "onboard_time": 1742196322,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 199383,
+      "num": 199383,
+      "word": "广西一男子仅穿内裤跳上车顶猛砸",
+      "onboard_time": 1742196563,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 196776,
@@ -1131,12 +1179,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147842,
+      "num": 333350,
+      "word": "国新办发布会介绍提振消费有关情况",
+      "onboard_time": 1742195842,
+      "rank": 10,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 147616,
       "num": 147616,
       "word": "孙颖莎胜陈幸同夺冠",
       "onboard_time": 1742124144,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147610,
+      "num": 147610,
+      "word": "韩媒说金秀贤没有直接责任",
+      "onboard_time": 1742196982,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 147502,
@@ -1339,6 +1403,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 123280,
+      "num": 286204,
+      "word": "被辛芷蕾老公姐的气场支配了",
+      "onboard_time": 1742196742,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121992,
       "num": 121992,
       "word": "TF家族练习生2025全新公式照",
@@ -1483,12 +1555,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 104269,
-      "num": 247136,
-      "word": "国新办发布会介绍提振消费有关情况",
-      "onboard_time": 1742195842,
-      "rank": 10,
-      "category": "国内时政"
+      "raw_hot": 103803,
+      "num": 290803,
+      "word": "1000万骑手的社保谁来埋单",
+      "onboard_time": 1742195600,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102645,
@@ -1625,14 +1697,6 @@
       "onboard_time": 1742120003,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 87613,
-      "num": 247003,
-      "word": "香港长和出售43个港口遭质疑",
-      "onboard_time": 1742195241,
-      "rank": 14,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 87218,
@@ -1795,6 +1859,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 52583,
+      "num": 270795,
+      "word": "刘晓庆对中年婚恋题材非常有把握",
+      "onboard_time": 1742195422,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51295,
       "num": 241921,
       "word": "北马其顿全国哀悼7天",
@@ -1851,14 +1923,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 40972,
-      "num": 246891,
-      "word": "1000万骑手的社保谁来埋单",
-      "onboard_time": 1742195600,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 38960,
       "num": 38960,
       "word": "欧阳娜娜看娣娣舞台破防了",
@@ -1913,14 +1977,6 @@
       "onboard_time": 1742186363,
       "rank": 28,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 27485,
-      "num": 246585,
-      "word": "刘晓庆对中年婚恋题材非常有把握",
-      "onboard_time": 1742195422,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 27247,
@@ -2004,7 +2060,7 @@
     },
     {
       "raw_hot": 16777,
-      "num": 246512,
+      "num": 250659,
       "word": "感觉开心超人小时候抱过我",
       "onboard_time": 1742196082,
       "rank": 29,
