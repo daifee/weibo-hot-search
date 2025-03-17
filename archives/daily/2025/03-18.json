@@ -1,6 +1,6 @@
 {
   "startTime": 1742229077214,
-  "endTime": 1742237095725,
+  "endTime": 1742239178430,
   "band_list": [
     {
       "raw_hot": 1096550,
@@ -523,12 +523,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19260,
+      "num": 19260,
+      "word": "电视剧北上",
+      "onboard_time": 1742238553,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18006,
       "num": 20703,
       "word": "小伙异乡入伍战友妈妈暖心安慰",
       "onboard_time": 1742233576,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15625,
+      "num": 49794,
+      "word": "因持续降雪玉龙雪山索道停运",
+      "onboard_time": 1742238014,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13665,
+      "num": 15486,
+      "word": "莫迪对华最新表态",
+      "onboard_time": 1742238974,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 11791,
