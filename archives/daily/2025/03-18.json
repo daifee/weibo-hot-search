@@ -1,6 +1,6 @@
 {
   "startTime": 1742229077214,
-  "endTime": 1742232106665,
+  "endTime": 1742233171694,
   "band_list": [
     {
       "raw_hot": 1096550,
@@ -155,6 +155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167580,
+      "num": 167580,
+      "word": "李兆基汶川大地震捐款超5亿",
+      "onboard_time": 1742227582,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 140788,
       "num": 140788,
       "word": "重庆地震",
@@ -169,6 +177,14 @@
       "onboard_time": 1742199501,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123506,
+      "num": 123506,
+      "word": "小米su7ultra全网首拆",
+      "onboard_time": 1742229319,
+      "rank": 32,
+      "category": "汽车"
     },
     {
       "raw_hot": 114767,
@@ -209,14 +225,6 @@
       "onboard_time": 1742220625,
       "rank": 26,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 101346,
-      "num": 101346,
-      "word": "小米su7ultra全网首拆",
-      "onboard_time": 1742229319,
-      "rank": 32,
-      "category": "汽车"
     },
     {
       "raw_hot": 96316,
@@ -281,14 +289,6 @@
       "onboard_time": 1742209165,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 80332,
-      "num": 120554,
-      "word": "李兆基汶川大地震捐款超5亿",
-      "onboard_time": 1742227582,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 78901,
@@ -459,12 +459,44 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 30790,
-      "num": 30790,
+      "raw_hot": 33324,
+      "num": 33324,
       "word": "卢旺达驱逐比利时所有外交官",
       "onboard_time": 1742231777,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 28787,
+      "num": 28787,
+      "word": "麦琳晒自己的十年之路",
+      "onboard_time": 1742232856,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 27091,
+      "num": 27091,
+      "word": "登陆少年200天特辑采访",
+      "onboard_time": 1742232136,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 26268,
+      "num": 67143,
+      "word": "刘宇宁 我爱我演过的每一个角色",
+      "onboard_time": 1742232316,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 18890,
+      "num": 123606,
+      "word": "空中架起2000多公里电力高速",
+      "onboard_time": 1742232376,
+      "rank": 9,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742232106665,
+  "endTime": 1742233171694,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -4059,6 +4059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 167580,
+      "num": 167580,
+      "word": "李兆基汶川大地震捐款超5亿",
+      "onboard_time": 1742227582,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 167439,
       "num": 167439,
       "word": "时光代理人",
@@ -5227,6 +5235,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 123506,
+      "num": 123506,
+      "word": "小米su7ultra全网首拆",
+      "onboard_time": 1742229319,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 123471,
       "num": 281939,
       "word": "韩国军用无人机和直升机相撞",
@@ -5691,14 +5707,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 101346,
-      "num": 101346,
-      "word": "小米su7ultra全网首拆",
-      "onboard_time": 1742229319,
-      "rank": 32,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 101306,
       "num": 101306,
       "word": "所谓点击抽大奖实为敛财套路",
@@ -6073,14 +6081,6 @@
       "onboard_time": 1742097742,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 80332,
-      "num": 120554,
-      "word": "李兆基汶川大地震捐款超5亿",
-      "onboard_time": 1742227582,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 79480,
@@ -6803,6 +6803,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 33324,
+      "num": 33324,
+      "word": "卢旺达驱逐比利时所有外交官",
+      "onboard_time": 1742231777,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 33198,
       "num": 94613,
       "word": "K总伴郎团",
@@ -6833,14 +6841,6 @@
       "onboard_time": 1742072594,
       "rank": 9,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 30790,
-      "num": 30790,
-      "word": "卢旺达驱逐比利时所有外交官",
-      "onboard_time": 1742231777,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 30750,
@@ -6907,6 +6907,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 28787,
+      "num": 28787,
+      "word": "麦琳晒自己的十年之路",
+      "onboard_time": 1742232856,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 28599,
       "num": 139931,
       "word": "李兆基曾连续3年问鼎华人首富",
@@ -6947,12 +6955,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27091,
+      "num": 27091,
+      "word": "登陆少年200天特辑采访",
+      "onboard_time": 1742232136,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26332,
       "num": 332452,
       "word": "勒克莱尔抵达上海",
       "onboard_time": 1742220685,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26268,
+      "num": 67143,
+      "word": "刘宇宁 我爱我演过的每一个角色",
+      "onboard_time": 1742232316,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 25979,
@@ -7072,6 +7096,14 @@
       "word": "重庆通报啄木鸟公司调查情况",
       "onboard_time": 1742146338,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18890,
+      "num": 123606,
+      "word": "空中架起2000多公里电力高速",
+      "onboard_time": 1742232376,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
