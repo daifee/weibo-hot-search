@@ -1,6 +1,6 @@
 {
   "startTime": 1742142428647,
-  "endTime": 1742197070928,
+  "endTime": 1742200310136,
   "band_list": [
     {
       "raw_hot": 2581413,
@@ -24,6 +24,14 @@
       "word": "黄焖鸡卧底记者提醒11点前别点外卖",
       "onboard_time": 1742167339,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1609355,
+      "num": 1609355,
+      "word": "县医院月薪1750元招保安要求35岁以下",
+      "onboard_time": 1742196261,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -65,6 +73,14 @@
       "onboard_time": 1742183303,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1327723,
+      "num": 291067,
+      "word": "金赛纶日记本写了交往时间",
+      "onboard_time": 1742199562,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1275399,
@@ -115,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1157115,
+      "num": 1157115,
+      "word": "马丽回应将门毒后",
+      "onboard_time": 1742197761,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1099548,
       "num": 325177,
       "word": "疑似金秀贤脚踩两条船",
@@ -129,14 +153,6 @@
       "onboard_time": 1742182220,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1062817,
-      "num": 1062817,
-      "word": "县医院月薪1750元招保安要求35岁以下",
-      "onboard_time": 1742196261,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1015921,
@@ -235,12 +251,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 756495,
+      "num": 756495,
+      "word": "难怪辛芷蕾能背下112页台词",
+      "onboard_time": 1742196322,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 755868,
       "num": 318956,
       "word": "金赛纶完全不知道7亿是走形式",
       "onboard_time": 1742151135,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 718074,
+      "num": 289413,
+      "word": "将门毒后 少年少女就让少年少女演",
+      "onboard_time": 1742197163,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 714705,
@@ -299,14 +331,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 598183,
-      "num": 598183,
-      "word": "难怪辛芷蕾能背下112页台词",
-      "onboard_time": 1742196322,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 575746,
       "num": 575746,
       "word": "南京警方破获一起15年前命案",
@@ -339,12 +363,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 498743,
+      "num": 498743,
+      "word": "iPhone17系列模型机曝光",
+      "onboard_time": 1742194460,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 480787,
       "num": 359005,
       "word": "偶遇迪丽热巴在日本拍摄",
       "onboard_time": 1742191340,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 476165,
+      "num": 287293,
+      "word": "妈妈腹中胎儿4根手指被缠绕2根坏死",
+      "onboard_time": 1742199501,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 472009,
@@ -491,12 +531,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 325799,
+      "num": 325799,
+      "word": "香港长和出售43个港口遭质疑",
+      "onboard_time": 1742195241,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 323258,
       "num": 323258,
       "word": "王楚钦重庆赛夺冠",
       "onboard_time": 1742127505,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 321002,
+      "num": 285314,
+      "word": "广西一男子仅穿内裤跳上车顶猛砸",
+      "onboard_time": 1742196563,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 307472,
+      "num": 307472,
+      "word": "解决加班文化等痛点",
+      "onboard_time": 1742198001,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 302627,
@@ -539,12 +603,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 291032,
-      "num": 291032,
-      "word": "iPhone17系列模型机曝光",
-      "onboard_time": 1742194460,
-      "rank": 31,
-      "category": "数码"
+      "raw_hot": 291137,
+      "num": 291137,
+      "word": "医院回应1750元招保安要35岁以下",
+      "onboard_time": 1742199441,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 281348,
@@ -553,6 +617,14 @@
       "onboard_time": 1742141901,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 279564,
+      "num": 284907,
+      "word": "奔跑吧13",
+      "onboard_time": 1742198661,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 276653,
@@ -601,6 +673,14 @@
       "onboard_time": 1742168779,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 262124,
+      "num": 283456,
+      "word": "李昀锐对就这么宣传我",
+      "onboard_time": 1742198842,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 258979,
@@ -747,14 +827,6 @@
       "category": "电影,综艺"
     },
     {
-      "raw_hot": 222425,
-      "num": 288073,
-      "word": "香港长和出售43个港口遭质疑",
-      "onboard_time": 1742195241,
-      "rank": 14,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 221020,
       "num": 386625,
       "word": "电视剧品质盛典全阵容",
@@ -851,6 +923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 210493,
+      "num": 210493,
+      "word": "终于有部剧一家子都长嘴了",
+      "onboard_time": 1742199623,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209820,
       "num": 209820,
       "word": "王楚钦孙颖莎和重庆长江索道同框",
@@ -881,14 +961,6 @@
       "onboard_time": 1742196322,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 199383,
-      "num": 199383,
-      "word": "广西一男子仅穿内裤跳上车顶猛砸",
-      "onboard_time": 1742196563,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 196776,
@@ -1067,6 +1139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173780,
+      "num": 173780,
+      "word": "大学生找月薪8千工作倒欠2万7",
+      "onboard_time": 1742199562,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171417,
       "num": 218919,
       "word": "孟子义抹胸粉裙",
@@ -1081,6 +1161,22 @@
       "onboard_time": 1742177601,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170689,
+      "num": 170689,
+      "word": "iOS19外观要变了",
+      "onboard_time": 1742198661,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 169541,
+      "num": 169541,
+      "word": "RIIZE预告照",
+      "onboard_time": 1742199142,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 167854,
@@ -1099,11 +1195,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166293,
+      "num": 333350,
+      "word": "国新办发布会介绍提振消费有关情况",
+      "onboard_time": 1742195842,
+      "rank": 10,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 165632,
       "num": 412114,
       "word": "23个省份探索实施生育补贴",
       "onboard_time": 1742181922,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164659,
+      "num": 164659,
+      "word": "育儿补贴等配套政策正加紧制定",
+      "onboard_time": 1742197943,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -1113,6 +1225,14 @@
       "onboard_time": 1742183242,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162106,
+      "num": 162106,
+      "word": "成毅长安二十四计超大海报",
+      "onboard_time": 1742199923,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 161342,
@@ -1155,11 +1275,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 153290,
+      "num": 153290,
+      "word": "郭麒麟说阎鹤祥是我的处境",
+      "onboard_time": 1742199982,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150933,
       "num": 150933,
       "word": "退货被店家说买不起就别买平台赔300元",
       "onboard_time": 1742156534,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150090,
+      "num": 150090,
+      "word": "中学生辱骂同学被判道歉赔6000元",
+      "onboard_time": 1742195362,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1177,14 +1313,6 @@
       "onboard_time": 1742193863,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 147842,
-      "num": 333350,
-      "word": "国新办发布会介绍提振消费有关情况",
-      "onboard_time": 1742195842,
-      "rank": 10,
-      "category": "国内时政"
     },
     {
       "raw_hot": 147616,
@@ -1315,12 +1443,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131028,
+      "num": 131028,
+      "word": "蜜雪冰城塌房后大学生的反应",
+      "onboard_time": 1742200282,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130363,
       "num": 130363,
       "word": "上海职场环境宽容到能穿cos服上班",
       "onboard_time": 1742175081,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129887,
+      "num": 129887,
+      "word": "对食品非法添加开展专项整治",
+      "onboard_time": 1742197282,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 129861,
@@ -1339,6 +1483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128951,
+      "num": 128951,
+      "word": "白鹿奔跑吧13预告",
+      "onboard_time": 1742198603,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128849,
       "num": 128849,
       "word": "啄木鸟连续两年315道歉",
@@ -1353,6 +1505,14 @@
       "onboard_time": 1742166440,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128651,
+      "num": 923254,
+      "word": "提振消费专项行动30条",
+      "onboard_time": 1742183364,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 128005,
@@ -1377,6 +1537,22 @@
       "onboard_time": 1742190561,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 125340,
+      "num": 125340,
+      "word": "卜某事件涉案人员或涉嫌强奸罪",
+      "onboard_time": 1742198603,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124684,
+      "num": 124684,
+      "word": "种地吧第三季展现乡村振兴新图景",
+      "onboard_time": 1742200282,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 124257,
@@ -1489,14 +1665,6 @@
       "onboard_time": 1742134765,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 115209,
-      "num": 923254,
-      "word": "提振消费专项行动30条",
-      "onboard_time": 1742183364,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 113060,
@@ -1819,6 +1987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 64443,
+      "num": 130267,
+      "word": "辛芷蕾职场感还是太权威了",
+      "onboard_time": 1742200103,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 62742,
       "num": 218702,
       "word": "AI未来会替代教师工作吗",
@@ -1867,6 +2043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 52510,
+      "num": 170696,
+      "word": "Loewe创意总监离任",
+      "onboard_time": 1742198904,
+      "rank": 29,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 51295,
       "num": 241921,
       "word": "北马其顿全国哀悼7天",
@@ -1905,6 +2089,14 @@
       "onboard_time": 1742179821,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 44294,
+      "num": 170691,
+      "word": "特朗普称将同普京就俄乌冲突通话",
+      "onboard_time": 1742200223,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 42671,
@@ -2121,6 +2313,14 @@
       "onboard_time": 1742158034,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 6696,
+      "num": 789169,
+      "word": "提振消费专项行动方案划重点",
+      "onboard_time": 1742200223,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
