@@ -1,6 +1,6 @@
 {
   "startTime": 1742142428647,
-  "endTime": 1742225182239,
+  "endTime": 1742226063270,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 1347491,
-      "num": 340166,
+      "num": 342718,
       "word": "金智媛是真的很不想理金秀贤",
       "onboard_time": 1742217264,
       "rank": 20,
@@ -515,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 624942,
+      "num": 259198,
+      "word": "云南出租车司机遇害案嫌犯已身亡",
+      "onboard_time": 1742221464,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 609262,
       "num": 609262,
       "word": "台湾屏东市区凌晨爆发枪战",
@@ -529,14 +537,6 @@
       "onboard_time": 1742137405,
       "rank": 4,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 592229,
-      "num": 259198,
-      "word": "云南出租车司机遇害案嫌犯已身亡",
-      "onboard_time": 1742221464,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 575746,
@@ -731,20 +731,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 386340,
+      "num": 386340,
+      "word": "丁禹兮南部档案片场救人",
+      "onboard_time": 1742221405,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 383541,
       "num": 416529,
       "word": "赵一博人民交通航海安全宣传大使",
       "onboard_time": 1742182041,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 373420,
-      "num": 373420,
-      "word": "丁禹兮南部档案片场救人",
-      "onboard_time": 1742221405,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 372245,
@@ -1435,6 +1435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202804,
+      "num": 202804,
+      "word": "刘宇宁维护工作室",
+      "onboard_time": 1742225303,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199654,
       "num": 188750,
       "word": "金秀贤到底什么背景",
@@ -2059,6 +2067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 146043,
+      "num": 146043,
+      "word": "宁艺卓吉赛尔日月同辉",
+      "onboard_time": 1742222665,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 145907,
       "num": 145907,
       "word": "宋雨琦微醺烟嗓太苏了",
@@ -2089,14 +2105,6 @@
       "onboard_time": 1742166440,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 144421,
-      "num": 144421,
-      "word": "宁艺卓吉赛尔日月同辉",
-      "onboard_time": 1742222665,
-      "rank": 35,
-      "category": "演出"
     },
     {
       "raw_hot": 143868,
@@ -2249,6 +2257,14 @@
       "onboard_time": 1742186904,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129720,
+      "num": 282071,
+      "word": "花花花花春天花花花花",
+      "onboard_time": 1742216425,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129125,
@@ -2547,20 +2563,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 117588,
-      "num": 282071,
-      "word": "花花花花春天花花花花",
-      "onboard_time": 1742216425,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 117086,
       "num": 117086,
       "word": "王灿晒女儿给杜淳化妆视频",
       "onboard_time": 1742211025,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116571,
+      "num": 116571,
+      "word": "遇害司机最后的信息是让妻子去接孩子",
+      "onboard_time": 1742225064,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116217,
@@ -2787,14 +2803,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 97975,
-      "num": 97975,
-      "word": "遇害司机最后的信息是让妻子去接孩子",
-      "onboard_time": 1742225064,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 97461,
       "num": 206106,
       "word": "一觉醒来闻到古早聊斋味了",
@@ -2820,7 +2828,7 @@
     },
     {
       "raw_hot": 97024,
-      "num": 146244,
+      "num": 372419,
       "word": "深圳市住房公积金贷款额度提高",
       "onboard_time": 1742222785,
       "rank": 34,
@@ -2923,6 +2931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86039,
+      "num": 86039,
+      "word": "外交部批七国集团外长会联合声明",
+      "onboard_time": 1742225902,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 85252,
       "num": 85252,
       "word": "熊蜂采蜜时把花骨朵扒拉掉了",
@@ -2961,6 +2977,14 @@
       "onboard_time": 1742189121,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 83073,
+      "num": 83073,
+      "word": "离了杨洋谁还拿于洋当小孩",
+      "onboard_time": 1742225722,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 82538,
@@ -3049,6 +3073,14 @@
       "onboard_time": 1742202803,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76410,
+      "num": 76410,
+      "word": "杨紫在千岛湖开心下班",
+      "onboard_time": 1742226021,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 74046,
@@ -3585,6 +3617,14 @@
       "onboard_time": 1742193742,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17104,
+      "num": 158577,
+      "word": "李兆基早年热衷投资中资股",
+      "onboard_time": 1742225902,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 16777,

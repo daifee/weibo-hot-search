@@ -1,0 +1,410 @@
+{
+  "runTime": 1742226063270,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1856729,
+        "num": 1856729,
+        "word": "刘宇宁 珠帘玉幕咋了",
+        "onboard_time": 1742219004,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1277756,
+        "num": 1277756,
+        "word": "平价不是蜜雪冰城的万能挡箭牌",
+        "onboard_time": 1742207064,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81763,
+        "num": 1133539,
+        "word": "六部门详解最新提振消费方案",
+        "onboard_time": 1742218584,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1012091,
+        "num": 1012091,
+        "word": "短剧女主余茵回应颜值身高都一般",
+        "onboard_time": 1742221045,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 792749,
+        "num": 792749,
+        "word": "蜜雪冰城塌房后大学生的反应",
+        "onboard_time": 1742200282,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 717463,
+        "num": 717463,
+        "word": "1688全面取消仅退款",
+        "onboard_time": 1742215645,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 615900,
+        "num": 615900,
+        "word": "亚洲前首富李兆基逝世",
+        "onboard_time": 1742213064,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 568796,
+        "num": 568796,
+        "word": "谁说现偶不需要演技",
+        "onboard_time": 1742216365,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 386340,
+        "num": 386340,
+        "word": "丁禹兮南部档案片场救人",
+        "onboard_time": 1742221405,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92053,
+        "num": 372419,
+        "word": "深圳市住房公积金贷款额度提高",
+        "onboard_time": 1742222785,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1228171,
+        "num": 342718,
+        "word": "金智媛是真的很不想理金秀贤",
+        "onboard_time": 1742217264,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 893582,
+        "num": 309841,
+        "word": "女子离世同居31年男友被赶出门",
+        "onboard_time": 1742221224,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 660043,
+        "num": 296071,
+        "word": "平价的蜜雪冰城拥有豁免权吗",
+        "onboard_time": 1742201121,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388589,
+        "num": 279766,
+        "word": "同居31年女子突然离世男友被赶出门",
+        "onboard_time": 1742221165,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256816,
+        "num": 256816,
+        "word": "重庆地震",
+        "onboard_time": 1742221104,
+        "rank": 14,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 436764,
+        "num": 243695,
+        "word": "金秀贤方第二次内容证明全文",
+        "onboard_time": 1742221464,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218126,
+        "num": 218126,
+        "word": "妈妈腹中胎儿4根手指被缠绕2根坏死",
+        "onboard_time": 1742199501,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215730,
+        "num": 215730,
+        "word": "马丽演我看刘耀文",
+        "onboard_time": 1742220925,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206930,
+        "num": 206930,
+        "word": "杨紫全国巡跳第二轮",
+        "onboard_time": 1742219424,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202804,
+        "num": 202804,
+        "word": "刘宇宁维护工作室",
+        "onboard_time": 1742225303,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 624942,
+        "num": 202436,
+        "word": "云南出租车司机遇害案嫌犯已身亡",
+        "onboard_time": 1742221464,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202067,
+        "num": 202067,
+        "word": "老公恐高女子坐月子坐一半紧急搬家",
+        "onboard_time": 1742216184,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194456,
+        "num": 194456,
+        "word": "浙大回应网传副教授选妃事件",
+        "onboard_time": 1742220625,
+        "rank": 22,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 174014,
+        "num": 174014,
+        "word": "黄雀定档",
+        "onboard_time": 1742224164,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165280,
+        "num": 165280,
+        "word": "哪吒日本票房上座率",
+        "onboard_time": 1742221944,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164453,
+        "num": 164453,
+        "word": "金赛纶日记本写了交往时间",
+        "onboard_time": 1742199562,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17104,
+        "num": 158577,
+        "word": "李兆基早年热衷投资中资股",
+        "onboard_time": 1742225902,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 153584,
+        "num": 153584,
+        "word": "向太说李小冉因节目争议哭了",
+        "onboard_time": 1742222245,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67287,
+        "num": 151480,
+        "word": "一双跑鞋包含了多少科技",
+        "onboard_time": 1742222064,
+        "rank": 28,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 141735,
+        "num": 150649,
+        "word": "早醒是抑郁症的常见症状",
+        "onboard_time": 1742203643,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150136,
+        "num": 150136,
+        "word": "宝妈晕厥15个月宝宝连滚带爬求救",
+        "onboard_time": 1742212583,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146043,
+        "num": 146043,
+        "word": "宁艺卓吉赛尔日月同辉",
+        "onboard_time": 1742222665,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141856,
+        "num": 141856,
+        "word": "蒋胜男辟谣建议对未婚男性停发工资",
+        "onboard_time": 1742223264,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135199,
+        "num": 135199,
+        "word": "韩国演员李艾儿为金赛纶发声",
+        "onboard_time": 1742206342,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129720,
+        "num": 129720,
+        "word": "花花花花春天花花花花",
+        "onboard_time": 1742216425,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128025,
+        "num": 128025,
+        "word": "肖战一个眼神就知道是权谋戏了",
+        "onboard_time": 1742209165,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116826,
+        "num": 116826,
+        "word": "时代少年团还没白回来又去海南了",
+        "onboard_time": 1742221944,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116571,
+        "num": 116571,
+        "word": "遇害司机最后的信息是让妻子去接孩子",
+        "onboard_time": 1742225064,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114726,
+        "num": 114726,
+        "word": "小孩哥手机店打游戏成全场屏保",
+        "onboard_time": 1742216843,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102921,
+        "num": 102921,
+        "word": "人生回报率最高的十个爱好",
+        "onboard_time": 1742209045,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102317,
+        "num": 102317,
+        "word": "减肥后反而胖了二三十斤",
+        "onboard_time": 1742219063,
+        "rank": 40,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 96092,
+        "num": 96092,
+        "word": "金智媛独美",
+        "onboard_time": 1742224285,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94845,
+        "num": 94845,
+        "word": "为理想男主李昀锐等了3个月",
+        "onboard_time": 1742216963,
+        "rank": 42,
+        "category": "艺人,剧集"
+      },
+      {
+        "raw_hot": 94786,
+        "num": 94786,
+        "word": "中方军事行动是对台独势力的严正警告",
+        "onboard_time": 1742207782,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 92405,
+        "num": 92405,
+        "word": "虞书欣林一这条共创好抽象",
+        "onboard_time": 1742223384,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90653,
+        "num": 90653,
+        "word": "许嵩2025年第一条微博",
+        "onboard_time": 1742215164,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 86039,
+        "num": 86039,
+        "word": "外交部批七国集团外长会联合声明",
+        "onboard_time": 1742225902,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 83073,
+        "num": 83073,
+        "word": "离了杨洋谁还拿于洋当小孩",
+        "onboard_time": 1742225722,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80810,
+        "num": 80810,
+        "word": "养的郁金香好像闹分手了",
+        "onboard_time": 1742218163,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76410,
+        "num": 76410,
+        "word": "杨紫在千岛湖开心下班",
+        "onboard_time": 1742226021,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记强调教育科技人才一起抓#"
+    }
+  }
+}
