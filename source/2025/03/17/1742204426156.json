@@ -1,0 +1,410 @@
+{
+  "runTime": 1742204426156,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2686429,
+        "num": 2686429,
+        "word": "蜜雪冰城塌房后大学生的反应",
+        "onboard_time": 1742200282,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 830685,
+        "num": 830685,
+        "word": "马丽回应将门毒后",
+        "onboard_time": 1742197761,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76628,
+        "num": 722778,
+        "word": "提振消费专项行动方案划重点",
+        "onboard_time": 1742200223,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 705430,
+        "num": 705430,
+        "word": "明确不得违法延长劳动者工作时间",
+        "onboard_time": 1742200582,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 567982,
+        "num": 567982,
+        "word": "上海一彩民10元机选中5000万",
+        "onboard_time": 1742200582,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 446015,
+        "num": 446015,
+        "word": "解决加班文化等痛点",
+        "onboard_time": 1742198001,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 442244,
+        "num": 442244,
+        "word": "奔跑吧13",
+        "onboard_time": 1742198661,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438977,
+        "num": 438977,
+        "word": "难怪辛芷蕾能背下112页台词",
+        "onboard_time": 1742196322,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 418675,
+        "num": 418675,
+        "word": "大学生找月薪8千工作倒欠2万7",
+        "onboard_time": 1742199562,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269534,
+        "num": 417280,
+        "word": "平价的蜜雪冰城拥有豁免权吗",
+        "onboard_time": 1742201121,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1162108,
+        "num": 413268,
+        "word": "金赛纶日记本写了交往时间",
+        "onboard_time": 1742199562,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 856363,
+        "num": 412487,
+        "word": "妈妈腹中胎儿4根手指被缠绕2根坏死",
+        "onboard_time": 1742199501,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 748915,
+        "num": 408476,
+        "word": "县医院月薪1750元招保安要求35岁以下",
+        "onboard_time": 1742196261,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 539881,
+        "num": 405778,
+        "word": "薛凯琪身体疑似躯体化",
+        "onboard_time": 1742180841,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 9668,
+        "num": 404272,
+        "word": "F1揭幕站多位新秀塌方",
+        "onboard_time": 1742203522,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 871394,
+        "num": 400406,
+        "word": "金赛纶家属将正式起诉金秀贤",
+        "onboard_time": 1742203342,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399539,
+        "num": 399539,
+        "word": "将门毒后 少年少女就让少年少女演",
+        "onboard_time": 1742197163,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139587,
+        "num": 384878,
+        "word": "张艺兴新角色收到反诈提醒",
+        "onboard_time": 1742203582,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 52012,
+        "num": 380688,
+        "word": "315曝光后多家上市公司股价暴跌开盘",
+        "onboard_time": 1742203822,
+        "rank": 18,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 21809,
+        "num": 377221,
+        "word": "孙颖莎坐索道",
+        "onboard_time": 1742203522,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 376673,
+        "num": 376673,
+        "word": "歌手2025招商阵容",
+        "onboard_time": 1742201903,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257584,
+        "num": 257584,
+        "word": "李昀锐对就这么宣传我",
+        "onboard_time": 1742198842,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252440,
+        "num": 252440,
+        "word": "霍思燕说珍珠是我们的护身符",
+        "onboard_time": 1742202562,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 221148,
+        "num": 221148,
+        "word": "玉龙雪山回应多位游客拍到雪崩",
+        "onboard_time": 1742202382,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126847,
+        "num": 216698,
+        "word": "樊振东喊你去看大谷翔平",
+        "onboard_time": 1742202082,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54011,
+        "num": 214759,
+        "word": "实地探访山东翻新卫生巾被曝光企业",
+        "onboard_time": 1742202503,
+        "rank": 25,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 213552,
+        "num": 213552,
+        "word": "新款iPad侧面印中国制造",
+        "onboard_time": 1742202683,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 207584,
+        "num": 207584,
+        "word": "iOS19外观要变了",
+        "onboard_time": 1742198661,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 195989,
+        "num": 204942,
+        "word": "早醒是抑郁症的常见症状",
+        "onboard_time": 1742203643,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 76741,
+        "num": 203473,
+        "word": "鼓励有条件的地方设置中小学春秋假",
+        "onboard_time": 1742202803,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203054,
+        "num": 203054,
+        "word": "医院回应1750元招保安要35岁以下",
+        "onboard_time": 1742199441,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185680,
+        "num": 185680,
+        "word": "男子杀人后多年未婚担心说梦话露馅",
+        "onboard_time": 1742191761,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185117,
+        "num": 185117,
+        "word": "iPhone17系列模型机曝光",
+        "onboard_time": 1742194460,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 152219,
+        "num": 180569,
+        "word": "NMIXX迷你四辑试听",
+        "onboard_time": 1742204123,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 83977,
+        "num": 180377,
+        "word": "张子贤扫楼你们卡皮我巴拉",
+        "onboard_time": 1742204363,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180345,
+        "num": 180345,
+        "word": "蜜雪冰城",
+        "onboard_time": 1742181083,
+        "rank": 35,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 143478,
+        "num": 155169,
+        "word": "章若楠难哄收官文",
+        "onboard_time": 1742202683,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153022,
+        "num": 153022,
+        "word": "何与 百花杀",
+        "onboard_time": 1742189780,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149235,
+        "num": 149235,
+        "word": "拯救卫生巾不能只寄希望于雷军",
+        "onboard_time": 1742201242,
+        "rank": 38,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 145311,
+        "num": 145311,
+        "word": "广西一男子仅穿内裤跳上车顶猛砸",
+        "onboard_time": 1742196563,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132929,
+        "num": 142334,
+        "word": "肖战成毅新剧香港国际影视展",
+        "onboard_time": 1742202923,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140588,
+        "num": 140588,
+        "word": "主持人王小骞曝女儿患矮小症",
+        "onboard_time": 1742191821,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140125,
+        "num": 140125,
+        "word": "将门毒后选择沈腾马丽的五大理由",
+        "onboard_time": 1742193625,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139408,
+        "num": 139408,
+        "word": "朴宝剑IU说好的30岁呢",
+        "onboard_time": 1742200342,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65969,
+        "num": 138463,
+        "word": "辛芷蕾职场感还是太权威了",
+        "onboard_time": 1742200103,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137753,
+        "num": 137753,
+        "word": "推动巡演项目一次审批全国巡演",
+        "onboard_time": 1742204182,
+        "rank": 45,
+        "category": "民生新闻,演出"
+      },
+      {
+        "raw_hot": 132756,
+        "num": 132756,
+        "word": "香港长和出售43个港口遭质疑",
+        "onboard_time": 1742195241,
+        "rank": 46,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 126440,
+        "num": 126440,
+        "word": "新华社发文点赞种地吧",
+        "onboard_time": 1742202323,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123893,
+        "num": 123893,
+        "word": "把中央八项规定作为铁规矩硬杠杠",
+        "onboard_time": 1742204363,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 117110,
+        "num": 117110,
+        "word": "抑郁症和焦虑症的区别",
+        "onboard_time": 1742190500,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#抓作风建设最重要的是讲认真#"
+    }
+  }
+}
