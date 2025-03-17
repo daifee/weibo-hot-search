@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1742208218954,
+  "endTime": 1742210414006,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -241,6 +241,14 @@
       "onboard_time": 1740064343,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 13107286,
+      "num": 13107286,
+      "word": "百度副总裁谢广军道歉",
+      "onboard_time": 1742207183,
+      "rank": 13,
+      "category": "互联网"
     },
     {
       "raw_hot": 13089035,
@@ -1033,14 +1041,6 @@
       "onboard_time": 1736237304,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3961778,
-      "num": 364041,
-      "word": "百度副总裁谢广军道歉",
-      "onboard_time": 1742207183,
-      "rank": 13,
-      "category": "互联网"
     },
     {
       "raw_hot": 3939290,
