@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742253769631,
+  "endTime": 1742254612934,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -963,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 723800,
+      "num": 723800,
+      "word": "中方决不接受七国集团甩锅推责",
+      "onboard_time": 1742229199,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 719994,
       "num": 719994,
       "word": "自由点报案",
@@ -1305,14 +1313,6 @@
       "onboard_time": 1742086281,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 548328,
-      "num": 548328,
-      "word": "中方决不接受七国集团甩锅推责",
-      "onboard_time": 1742229199,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 545064,
@@ -3811,6 +3811,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 180219,
+      "num": 140774,
+      "word": "23岁女子体检异常未复查确诊尿毒症",
+      "onboard_time": 1742253618,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180178,
       "num": 180178,
       "word": "孙颖莎奖杯自拍",
@@ -4467,6 +4475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150562,
+      "num": 150562,
+      "word": "杨紫跳了earthquake手势舞",
+      "onboard_time": 1742246833,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150443,
       "num": 269041,
       "word": "黄杨钿甜小楚乔真的长大了",
@@ -4731,6 +4747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143903,
+      "num": 143903,
+      "word": "离了杨洋谁还拿于洋当小孩",
+      "onboard_time": 1742225722,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143868,
       "num": 164482,
       "word": "冰湖重生首发预告",
@@ -4955,14 +4979,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133967,
-      "num": 133967,
-      "word": "23岁女子体检异常未复查确诊尿毒症",
-      "onboard_time": 1742253618,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 133669,
       "num": 625315,
       "word": "苏菲称涉事包装产品目前非公司生产",
@@ -5169,14 +5185,6 @@
       "onboard_time": 1742190561,
       "rank": 48,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 125580,
-      "num": 150422,
-      "word": "杨紫跳了earthquake手势舞",
-      "onboard_time": 1742246833,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 125547,
@@ -5547,14 +5555,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 112971,
-      "num": 112971,
-      "word": "离了杨洋谁还拿于洋当小孩",
-      "onboard_time": 1742225722,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 112774,
       "num": 112774,
       "word": "陈昊森发了难哄主演合照",
@@ -5689,6 +5689,14 @@
       "onboard_time": 1742052628,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 105510,
+      "num": 105510,
+      "word": "菠萝族长出售族人销量翻4倍",
+      "onboard_time": 1742245634,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103803,
@@ -5947,6 +5955,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 91860,
+      "num": 91860,
+      "word": "北上 官配",
+      "onboard_time": 1742250436,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 91562,
       "num": 265225,
       "word": "啄木鸟创始人曾是一线维修工",
@@ -5955,12 +5971,12 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 91325,
-      "num": 91325,
-      "word": "菠萝族长出售族人销量翻4倍",
-      "onboard_time": 1742245634,
-      "rank": 40,
-      "category": "民生新闻"
+      "raw_hot": 91262,
+      "num": 91262,
+      "word": "比亚迪汉L唐L公布预售价",
+      "onboard_time": 1742253919,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 90184,
@@ -6003,14 +6019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 86905,
-      "num": 86905,
-      "word": "北上 官配",
-      "onboard_time": 1742250436,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 85395,
       "num": 85395,
       "word": "隔夜柠檬片",
@@ -6033,6 +6041,14 @@
       "onboard_time": 1742166499,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 84234,
+      "num": 84234,
+      "word": "湖南卫视连发15条张杰",
+      "onboard_time": 1742252840,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 84154,
@@ -6211,6 +6227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72615,
+      "num": 199366,
+      "word": "卢旺达驱逐比利时所有外交官",
+      "onboard_time": 1742231777,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 72493,
       "num": 2046741,
       "word": "故宫雪景大片",
@@ -6225,14 +6249,6 @@
       "onboard_time": 1742069236,
       "rank": 21,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 72374,
-      "num": 199366,
-      "word": "卢旺达驱逐比利时所有外交官",
-      "onboard_time": 1742231777,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 72359,
@@ -6281,6 +6297,14 @@
       "onboard_time": 1742168059,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 64019,
+      "num": 64019,
+      "word": "早醒可能与5种疾病相关",
+      "onboard_time": 1742254100,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 63962,
@@ -6347,12 +6371,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 60409,
-      "num": 60409,
-      "word": "湖南卫视连发15条张杰",
-      "onboard_time": 1742252840,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 60623,
+      "num": 60623,
+      "word": "网友反映脱口秀线下表演擦边",
+      "onboard_time": 1742254400,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 60151,
@@ -6369,6 +6393,14 @@
       "onboard_time": 1742063177,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 58425,
+      "num": 58425,
+      "word": "这就是虞书欣说的竹马比不过天降",
+      "onboard_time": 1742252658,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 57981,
@@ -6489,6 +6521,14 @@
       "onboard_time": 1742229259,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 52224,
+      "num": 52224,
+      "word": "孤单北半球原唱商演妆容被吐槽",
+      "onboard_time": 1742254160,
+      "rank": 47,
+      "category": "演出,音乐"
     },
     {
       "raw_hot": 52012,
@@ -6723,14 +6763,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 39138,
-      "num": 44834,
-      "word": "这就是虞书欣说的竹马比不过天降",
-      "onboard_time": 1742252658,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 39093,
       "num": 39093,
       "word": "贝姿妍",
@@ -6857,6 +6889,14 @@
       "onboard_time": 1742110282,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 34241,
+      "num": 75802,
+      "word": "肯尼迪遇刺约8万页文件将公布",
+      "onboard_time": 1742254460,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 33738,

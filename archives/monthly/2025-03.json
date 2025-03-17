@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742253769631,
+  "endTime": 1742254612934,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -5851,6 +5851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 723800,
+      "num": 723800,
+      "word": "中方决不接受七国集团甩锅推责",
+      "onboard_time": 1742229199,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 723764,
       "num": 679019,
       "word": "乌克兰被端上了餐桌",
@@ -8297,14 +8305,6 @@
       "onboard_time": 1741875264,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 548328,
-      "num": 548328,
-      "word": "中方决不接受七国集团甩锅推责",
-      "onboard_time": 1742229199,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 548088,
@@ -25555,6 +25555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180219,
+      "num": 140774,
+      "word": "23岁女子体检异常未复查确诊尿毒症",
+      "onboard_time": 1742253618,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180178,
       "num": 180178,
       "word": "孙颖莎奖杯自拍",
@@ -31067,6 +31075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150562,
+      "num": 150562,
+      "word": "杨紫跳了earthquake手势舞",
+      "onboard_time": 1742246833,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150507,
       "num": 150507,
       "word": "连续化妆一个月总结的小技巧",
@@ -32465,6 +32481,14 @@
       "onboard_time": 1742002941,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143903,
+      "num": 143903,
+      "word": "离了杨洋谁还拿于洋当小孩",
+      "onboard_time": 1742225722,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 143868,
@@ -34427,14 +34451,6 @@
       "category": "艺人,汽车"
     },
     {
-      "raw_hot": 133967,
-      "num": 133967,
-      "word": "23岁女子体检异常未复查确诊尿毒症",
-      "onboard_time": 1742253618,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 133859,
       "num": 133859,
       "word": "重病卧床的男主还急着争宠",
@@ -36233,14 +36249,6 @@
       "onboard_time": 1741785804,
       "rank": 40,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 125580,
-      "num": 150422,
-      "word": "杨紫跳了earthquake手势舞",
-      "onboard_time": 1742246833,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 125571,
@@ -39067,14 +39075,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 112971,
-      "num": 112971,
-      "word": "离了杨洋谁还拿于洋当小孩",
-      "onboard_time": 1742225722,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 112935,
       "num": 112935,
       "word": "夹菜是张凌赫临场发挥的",
@@ -40673,6 +40673,14 @@
       "onboard_time": 1741228817,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105510,
+      "num": 105510,
+      "word": "菠萝族长出售族人销量翻4倍",
+      "onboard_time": 1742245634,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105433,
@@ -43339,6 +43347,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 91860,
+      "num": 91860,
+      "word": "北上 官配",
+      "onboard_time": 1742250436,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 91795,
       "num": 239368,
       "word": "2025考研复试",
@@ -43403,12 +43419,12 @@
       "category": "国内时政,财经"
     },
     {
-      "raw_hot": 91325,
-      "num": 91325,
-      "word": "菠萝族长出售族人销量翻4倍",
-      "onboard_time": 1742245634,
-      "rank": 40,
-      "category": "民生新闻"
+      "raw_hot": 91262,
+      "num": 91262,
+      "word": "比亚迪汉L唐L公布预售价",
+      "onboard_time": 1742253919,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 91224,
@@ -44107,14 +44123,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 86905,
-      "num": 86905,
-      "word": "北上 官配",
-      "onboard_time": 1742250436,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 86843,
       "num": 86843,
       "word": "李乃文北上温柔daddy感",
@@ -44489,6 +44497,14 @@
       "onboard_time": 1740748460,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 84234,
+      "num": 84234,
+      "word": "湖南卫视连发15条张杰",
+      "onboard_time": 1742252840,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 84205,
@@ -45851,6 +45867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72615,
+      "num": 199366,
+      "word": "卢旺达驱逐比利时所有外交官",
+      "onboard_time": 1742231777,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 72539,
       "num": 196215,
       "word": "路易吉在狱中收到大量粉丝来信",
@@ -45889,14 +45913,6 @@
       "onboard_time": 1741144398,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 72374,
-      "num": 199366,
-      "word": "卢旺达驱逐比利时所有外交官",
-      "onboard_time": 1742231777,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 72359,
@@ -46955,6 +46971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64019,
+      "num": 64019,
+      "word": "早醒可能与5种疾病相关",
+      "onboard_time": 1742254100,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 63962,
       "num": 174897,
       "word": "6分钟夸克AI极速入门",
@@ -47339,20 +47363,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60623,
+      "num": 60623,
+      "word": "网友反映脱口秀线下表演擦边",
+      "onboard_time": 1742254400,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 60426,
       "num": 193050,
       "word": "美国政府资金或将耗尽",
       "onboard_time": 1741692805,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 60409,
-      "num": 60409,
-      "word": "湖南卫视连发15条张杰",
-      "onboard_time": 1742252840,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 60375,
@@ -47569,6 +47593,14 @@
       "onboard_time": 1741971499,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 58425,
+      "num": 58425,
+      "word": "这就是虞书欣说的竹马比不过天降",
+      "onboard_time": 1742252658,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 58416,
@@ -48521,6 +48553,14 @@
       "onboard_time": 1742229259,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 52224,
+      "num": 52224,
+      "word": "孤单北半球原唱商演妆容被吐槽",
+      "onboard_time": 1742254160,
+      "rank": 47,
+      "category": "演出,音乐"
     },
     {
       "raw_hot": 52051,
@@ -50467,14 +50507,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 39138,
-      "num": 44834,
-      "word": "这就是虞书欣说的竹马比不过天降",
-      "onboard_time": 1742252658,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 39093,
       "num": 39093,
       "word": "贝姿妍",
@@ -51305,6 +51337,14 @@
       "onboard_time": 1741620024,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34241,
+      "num": 75802,
+      "word": "肯尼迪遇刺约8万页文件将公布",
+      "onboard_time": 1742254460,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 34076,

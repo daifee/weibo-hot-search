@@ -1,6 +1,6 @@
 {
   "startTime": 1742229077214,
-  "endTime": 1742253769631,
+  "endTime": 1742254612934,
   "band_list": [
     {
       "raw_hot": 1096550,
@@ -27,16 +27,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 604950,
-      "num": 805194,
+      "raw_hot": 744052,
+      "num": 929048,
       "word": "短剧女主余茵回应颜值身高都一般",
       "onboard_time": 1742221045,
       "rank": 3,
       "category": "剧集"
     },
     {
-      "raw_hot": 548328,
-      "num": 548328,
+      "raw_hot": 723800,
+      "num": 723800,
       "word": "中方决不接受七国集团甩锅推责",
       "onboard_time": 1742229199,
       "rank": 9,
@@ -123,12 +123,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 252194,
+      "num": 252194,
+      "word": "老公恐高女子坐月子坐一半紧急搬家",
+      "onboard_time": 1742216184,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 242645,
       "num": 242645,
       "word": "李兆基汶川大地震捐款超5亿",
       "onboard_time": 1742227582,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 240918,
+      "num": 218269,
+      "word": "金秀贤方第二次内容证明全文",
+      "onboard_time": 1742221464,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 233072,
@@ -139,28 +155,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 218269,
-      "num": 218269,
-      "word": "金秀贤方第二次内容证明全文",
-      "onboard_time": 1742221464,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 216767,
-      "num": 216767,
-      "word": "老公恐高女子坐月子坐一半紧急搬家",
-      "onboard_time": 1742216184,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 205223,
       "num": 205223,
       "word": "刘宇宁维护工作室",
       "onboard_time": 1742225303,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204487,
+      "num": 204487,
+      "word": "台湾枪战细节曝光",
+      "onboard_time": 1742215284,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198322,
@@ -171,14 +179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 187452,
-      "num": 187452,
-      "word": "台湾枪战细节曝光",
-      "onboard_time": 1742215284,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 180312,
       "num": 126996,
       "word": "丁禹兮南部档案片场救人",
@@ -187,12 +187,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 145908,
-      "num": 145908,
+      "raw_hot": 180219,
+      "num": 140774,
+      "word": "23岁女子体检异常未复查确诊尿毒症",
+      "onboard_time": 1742253618,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171993,
+      "num": 171993,
       "word": "浙大回应网传副教授选妃事件",
       "onboard_time": 1742220625,
       "rank": 26,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 150562,
+      "num": 150562,
+      "word": "杨紫跳了earthquake手势舞",
+      "onboard_time": 1742246833,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 143903,
+      "num": 143903,
+      "word": "离了杨洋谁还拿于洋当小孩",
+      "onboard_time": 1742225722,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 140788,
@@ -203,28 +227,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 133967,
-      "num": 133967,
-      "word": "23岁女子体检异常未复查确诊尿毒症",
-      "onboard_time": 1742253618,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 132020,
       "num": 132020,
       "word": "妈妈腹中胎儿4根手指被缠绕2根坏死",
       "onboard_time": 1742199501,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 125580,
-      "num": 150422,
-      "word": "杨紫跳了earthquake手势舞",
-      "onboard_time": 1742246833,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 123591,
@@ -259,20 +267,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 112971,
-      "num": 112971,
-      "word": "离了杨洋谁还拿于洋当小孩",
-      "onboard_time": 1742225722,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 109165,
       "num": 109165,
       "word": "马丽演我看刘耀文",
       "onboard_time": 1742220925,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105510,
+      "num": 105510,
+      "word": "菠萝族长出售族人销量翻4倍",
+      "onboard_time": 1742245634,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98190,
@@ -307,12 +315,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 91325,
-      "num": 91325,
-      "word": "菠萝族长出售族人销量翻4倍",
-      "onboard_time": 1742245634,
-      "rank": 40,
-      "category": "民生新闻"
+      "raw_hot": 91860,
+      "num": 91860,
+      "word": "北上 官配",
+      "onboard_time": 1742250436,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 91262,
+      "num": 91262,
+      "word": "比亚迪汉L唐L公布预售价",
+      "onboard_time": 1742253919,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 91101,
@@ -339,14 +355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 86905,
-      "num": 86905,
-      "word": "北上 官配",
-      "onboard_time": 1742250436,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 85395,
       "num": 85395,
       "word": "隔夜柠檬片",
@@ -355,12 +363,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84234,
+      "num": 84234,
+      "word": "湖南卫视连发15条张杰",
+      "onboard_time": 1742252840,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 78901,
       "num": 78901,
       "word": "蒋胜男辟谣建议对未婚男性停发工资",
       "onboard_time": 1742223264,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76719,
+      "num": 76719,
+      "word": "早醒是抑郁症的常见症状",
+      "onboard_time": 1742203643,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 73888,
@@ -379,7 +403,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 72374,
+      "raw_hot": 72615,
       "num": 199366,
       "word": "卢旺达驱逐比利时所有外交官",
       "onboard_time": 1742231777,
@@ -419,11 +443,19 @@
       "category": "财经"
     },
     {
-      "raw_hot": 64900,
-      "num": 64900,
-      "word": "早醒是抑郁症的常见症状",
-      "onboard_time": 1742203643,
-      "rank": 44,
+      "raw_hot": 64324,
+      "num": 577642,
+      "word": "六部门详解最新提振消费方案",
+      "onboard_time": 1742218584,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64019,
+      "num": 64019,
+      "word": "早醒可能与5种疾病相关",
+      "onboard_time": 1742254100,
+      "rank": 39,
       "category": "健康医疗"
     },
     {
@@ -451,12 +483,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 60409,
-      "num": 60409,
-      "word": "湖南卫视连发15条张杰",
-      "onboard_time": 1742252840,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 60623,
+      "num": 60623,
+      "word": "网友反映脱口秀线下表演擦边",
+      "onboard_time": 1742254400,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 60364,
@@ -467,12 +499,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 58212,
-      "num": 577642,
-      "word": "六部门详解最新提振消费方案",
-      "onboard_time": 1742218584,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 58425,
+      "num": 58425,
+      "word": "这就是虞书欣说的竹马比不过天降",
+      "onboard_time": 1742252658,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 57981,
@@ -489,6 +521,14 @@
       "onboard_time": 1742229259,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 52224,
+      "num": 52224,
+      "word": "孤单北半球原唱商演妆容被吐槽",
+      "onboard_time": 1742254160,
+      "rank": 47,
+      "category": "演出,音乐"
     },
     {
       "raw_hot": 51619,
@@ -523,12 +563,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 39138,
-      "num": 44834,
-      "word": "这就是虞书欣说的竹马比不过天降",
-      "onboard_time": 1742252658,
-      "rank": 45,
-      "category": "剧集"
+      "raw_hot": 34241,
+      "num": 75802,
+      "word": "肯尼迪遇刺约8万页文件将公布",
+      "onboard_time": 1742254460,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 29499,
