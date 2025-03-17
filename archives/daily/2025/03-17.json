@@ -1,6 +1,6 @@
 {
   "startTime": 1742142428647,
-  "endTime": 1742200310136,
+  "endTime": 1742201093894,
   "band_list": [
     {
       "raw_hot": 2581413,
@@ -25,6 +25,14 @@
       "onboard_time": 1742167339,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1806987,
+      "num": 337365,
+      "word": "金赛纶日记本写了交往时间",
+      "onboard_time": 1742199562,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1609355,
@@ -73,14 +81,6 @@
       "onboard_time": 1742183303,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1327723,
-      "num": 291067,
-      "word": "金赛纶日记本写了交往时间",
-      "onboard_time": 1742199562,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1275399,
@@ -153,6 +153,14 @@
       "onboard_time": 1742182220,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1066502,
+      "num": 337283,
+      "word": "妈妈腹中胎儿4根手指被缠绕2根坏死",
+      "onboard_time": 1742199501,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1015921,
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 718074,
-      "num": 289413,
+      "num": 306651,
       "word": "将门毒后 少年少女就让少年少女演",
       "onboard_time": 1742197163,
       "rank": 12,
@@ -339,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 554857,
+      "num": 350398,
+      "word": "奔跑吧13",
+      "onboard_time": 1742198661,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 537591,
       "num": 537591,
       "word": "抑郁症和焦虑症的区别",
@@ -377,14 +393,6 @@
       "onboard_time": 1742191340,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 476165,
-      "num": 287293,
-      "word": "妈妈腹中胎儿4根手指被缠绕2根坏死",
-      "onboard_time": 1742199501,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 472009,
@@ -435,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 431061,
+      "num": 299757,
+      "word": "广西一男子仅穿内裤跳上车顶猛砸",
+      "onboard_time": 1742196563,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 420015,
       "num": 420015,
       "word": "孟子义奔跑吧13官宣节奏",
@@ -483,6 +499,38 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 356081,
+      "num": 356081,
+      "word": "解决加班文化等痛点",
+      "onboard_time": 1742198001,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 349043,
+      "num": 297301,
+      "word": "李昀锐对就这么宣传我",
+      "onboard_time": 1742198842,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 346079,
+      "num": 295974,
+      "word": "蜜雪冰城塌房后大学生的反应",
+      "onboard_time": 1742200282,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 344314,
+      "num": 344314,
+      "word": "医院回应1750元招保安要35岁以下",
+      "onboard_time": 1742199441,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 344302,
       "num": 293441,
       "word": "气血不足不建议不吃主食",
@@ -505,6 +553,14 @@
       "onboard_time": 1742191642,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 336995,
+      "num": 336995,
+      "word": "香港长和出售43个港口遭质疑",
+      "onboard_time": 1742195241,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 330995,
@@ -531,36 +587,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 325799,
-      "num": 325799,
-      "word": "香港长和出售43个港口遭质疑",
-      "onboard_time": 1742195241,
-      "rank": 14,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 323258,
       "num": 323258,
       "word": "王楚钦重庆赛夺冠",
       "onboard_time": 1742127505,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 321002,
-      "num": 285314,
-      "word": "广西一男子仅穿内裤跳上车顶猛砸",
-      "onboard_time": 1742196563,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 307472,
-      "num": 307472,
-      "word": "解决加班文化等痛点",
-      "onboard_time": 1742198001,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 302627,
@@ -595,6 +627,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 292326,
+      "num": 292326,
+      "word": "大学生找月薪8千工作倒欠2万7",
+      "onboard_time": 1742199562,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 291787,
       "num": 240039,
       "word": "李镇浩发视频当天金赛纶自杀了6次",
@@ -603,28 +643,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 291137,
-      "num": 291137,
-      "word": "医院回应1750元招保安要35岁以下",
-      "onboard_time": 1742199441,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 281348,
       "num": 239330,
       "word": "王彦霖说来参加陈立农婚礼",
       "onboard_time": 1742141901,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 279564,
-      "num": 284907,
-      "word": "奔跑吧13",
-      "onboard_time": 1742198661,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 276653,
@@ -675,20 +699,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 262124,
-      "num": 283456,
-      "word": "李昀锐对就这么宣传我",
-      "onboard_time": 1742198842,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 258979,
       "num": 258979,
       "word": "郑恺跑男断掉全勤是因为陪产",
       "onboard_time": 1742123422,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 258197,
+      "num": 258197,
+      "word": "终于有部剧一家子都长嘴了",
+      "onboard_time": 1742199623,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 255765,
@@ -891,6 +915,22 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 215112,
+      "num": 215112,
+      "word": "朴宝剑IU说好的30岁呢",
+      "onboard_time": 1742200342,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 214372,
+      "num": 214372,
+      "word": "上海一彩民10元机选中5000万",
+      "onboard_time": 1742200582,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 212971,
       "num": 458091,
       "word": "英法坚持要向乌克兰派驻部队",
@@ -923,20 +963,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 210493,
-      "num": 210493,
-      "word": "终于有部剧一家子都长嘴了",
-      "onboard_time": 1742199623,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 209820,
       "num": 209820,
       "word": "王楚钦孙颖莎和重庆长江索道同框",
       "onboard_time": 1742180781,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209404,
+      "num": 209404,
+      "word": "iOS19外观要变了",
+      "onboard_time": 1742198661,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 204162,
@@ -1139,12 +1179,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 173780,
-      "num": 173780,
-      "word": "大学生找月薪8千工作倒欠2万7",
-      "onboard_time": 1742199562,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 172270,
+      "num": 337452,
+      "word": "明确不得违法延长劳动者工作时间",
+      "onboard_time": 1742200582,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 171417,
@@ -1161,14 +1201,6 @@
       "onboard_time": 1742177601,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 170689,
-      "num": 170689,
-      "word": "iOS19外观要变了",
-      "onboard_time": 1742198661,
-      "rank": 32,
-      "category": "数码"
     },
     {
       "raw_hot": 169541,
@@ -1203,6 +1235,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 165897,
+      "num": 165897,
+      "word": "种地吧第三季展现乡村振兴新图景",
+      "onboard_time": 1742200282,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165632,
       "num": 412114,
       "word": "23个省份探索实施生育补贴",
@@ -1233,6 +1273,14 @@
       "onboard_time": 1742199923,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 162025,
+      "num": 162025,
+      "word": "郭麒麟说阎鹤祥是我的处境",
+      "onboard_time": 1742199982,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 161342,
@@ -1273,14 +1321,6 @@
       "onboard_time": 1742181922,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 153290,
-      "num": 153290,
-      "word": "郭麒麟说阎鹤祥是我的处境",
-      "onboard_time": 1742199982,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 150933,
@@ -1371,6 +1411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139604,
+      "num": 139604,
+      "word": "林更新陈赫把嫌弃写在了脸上",
+      "onboard_time": 1742200402,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138349,
       "num": 138349,
       "word": "东方甄选就自营虾仁发声明",
@@ -1441,14 +1489,6 @@
       "onboard_time": 1742193142,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 131028,
-      "num": 131028,
-      "word": "蜜雪冰城塌房后大学生的反应",
-      "onboard_time": 1742200282,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 130363,
@@ -1547,14 +1587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 124684,
-      "num": 124684,
-      "word": "种地吧第三季展现乡村振兴新图景",
-      "onboard_time": 1742200282,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 124257,
       "num": 124257,
       "word": "虞书欣双手托脸照对比",
@@ -1633,6 +1665,14 @@
       "onboard_time": 1742177061,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 118913,
+      "num": 118913,
+      "word": "PCL2025",
+      "onboard_time": 1742200823,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 118750,
@@ -1792,6 +1832,14 @@
       "word": "苦尽柑来遇见你编剧",
       "onboard_time": 1742138543,
       "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 99327,
+      "num": 203414,
+      "word": "辛芷蕾职场感还是太权威了",
+      "onboard_time": 1742200103,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -1987,14 +2035,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 64443,
-      "num": 130267,
-      "word": "辛芷蕾职场感还是太权威了",
-      "onboard_time": 1742200103,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 62742,
       "num": 218702,
       "word": "AI未来会替代教师工作吗",
@@ -2067,12 +2107,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49791,
+      "num": 838676,
+      "word": "提振消费专项行动方案划重点",
+      "onboard_time": 1742200223,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 49769,
       "num": 49769,
       "word": "上海全款150万9平米的独栋",
       "onboard_time": 1742130144,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 49037,
+      "num": 307432,
+      "word": "特朗普称将同普京就俄乌冲突通话",
+      "onboard_time": 1742200223,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 48537,
@@ -2089,14 +2145,6 @@
       "onboard_time": 1742179821,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 44294,
-      "num": 170691,
-      "word": "特朗普称将同普京就俄乌冲突通话",
-      "onboard_time": 1742200223,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 42671,
@@ -2313,14 +2361,6 @@
       "onboard_time": 1742158034,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 6696,
-      "num": 789169,
-      "word": "提振消费专项行动方案划重点",
-      "onboard_time": 1742200223,
-      "rank": 2,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
@@ -2332,6 +2372,9 @@
     },
     {
       "word": "#把中央八项规定作为铁规矩硬杠杠#"
+    },
+    {
+      "word": "#抓作风建设最重要的是讲认真#"
     }
   ]
 }
