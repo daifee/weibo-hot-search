@@ -1,6 +1,6 @@
 {
   "startTime": 1742315475336,
-  "endTime": 1742333794859,
+  "endTime": 1742336570395,
   "band_list": [
     {
       "raw_hot": 1213827,
@@ -65,6 +65,14 @@
       "onboard_time": 1742314520,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 399937,
+      "num": 414059,
+      "word": "不要一边充电一边看手机",
+      "onboard_time": 1742325015,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 395109,
@@ -155,14 +163,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 200168,
-      "num": 200168,
-      "word": "不要一边充电一边看手机",
-      "onboard_time": 1742325015,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 188203,
       "num": 188203,
       "word": "景甜术后首次直播透露近况",
@@ -235,8 +235,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 110929,
-      "num": 98304,
+      "raw_hot": 115283,
+      "num": 115283,
       "word": "虞书欣美得我一激灵",
       "onboard_time": 1742317696,
       "rank": 21,
@@ -435,6 +435,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 34151,
+      "num": 34151,
+      "word": "夫妻争吵妻子跳楼致残被丈夫送回娘家",
+      "onboard_time": 1742302643,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33962,
       "num": 575933,
       "word": "9图了解提振消费专项行动方案",
@@ -444,11 +452,19 @@
     },
     {
       "raw_hot": 31127,
-      "num": 31127,
+      "num": 31478,
       "word": "特朗普称将公布8万页肯尼迪遇刺案文件",
       "onboard_time": 1742320516,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 27750,
+      "num": 31580,
+      "word": "民警张俊瑞刘世学因公牺牲",
+      "onboard_time": 1742322975,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26907,
@@ -459,6 +475,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 26754,
+      "num": 31563,
+      "word": "中方敦促澳方尊重中国主权",
+      "onboard_time": 1742328973,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 26336,
       "num": 30874,
       "word": "包文婧孕期8个月plog",
@@ -467,28 +491,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 25225,
-      "num": 25225,
-      "word": "民警张俊瑞刘世学因公牺牲",
-      "onboard_time": 1742322975,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 24674,
       "num": 30874,
       "word": "白玉兰奖预热VCR里的杨紫",
       "onboard_time": 1742319316,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 24323,
-      "num": 24323,
-      "word": "夫妻争吵妻子跳楼致残被丈夫送回娘家",
-      "onboard_time": 1742302643,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22856,
@@ -507,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 20845,
+      "num": 31481,
+      "word": "当地市监局回应男童往玻璃杯小便",
+      "onboard_time": 1742326753,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20190,
       "num": 35867,
       "word": "记者卧底华莱士餐厅后厨",
@@ -515,20 +531,20 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 18681,
-      "num": 18681,
+      "raw_hot": 19724,
+      "num": 31460,
+      "word": "金赛纶遗属将对照片数字取证",
+      "onboard_time": 1742327533,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 19620,
+      "num": 31440,
       "word": "以军空袭加沙已致412人死亡",
       "onboard_time": 1742305103,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 18130,
-      "num": 18130,
-      "word": "当地市监局回应男童往玻璃杯小便",
-      "onboard_time": 1742326753,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16626,
@@ -537,14 +553,6 @@
       "onboard_time": 1742322434,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 16474,
-      "num": 16474,
-      "word": "金赛纶遗属将对照片数字取证",
-      "onboard_time": 1742327533,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 15655,
@@ -563,12 +571,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 13604,
-      "num": 15974,
-      "word": "中方敦促澳方尊重中国主权",
-      "onboard_time": 1742328973,
-      "rank": 47,
-      "category": "国际时政"
+      "raw_hot": 14146,
+      "num": 31362,
+      "word": "金价再上历史高位",
+      "onboard_time": 1742334974,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 13358,
