@@ -1,6 +1,6 @@
 {
   "startTime": 1742229077214,
-  "endTime": 1742305422710,
+  "endTime": 1742307805935,
   "band_list": [
     {
       "raw_hot": 2493597,
@@ -144,6 +144,14 @@
       "word": "赵丽颖早期评价来自星星的你",
       "onboard_time": 1742273605,
       "rank": 10,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1430043,
+      "num": 424737,
+      "word": "贵女这已经不是空降了 这是空袭",
+      "onboard_time": 1742304203,
+      "rank": 17,
       "category": "剧集"
     },
     {
@@ -305,6 +313,14 @@
       "onboard_time": 1742270845,
       "rank": 26,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 908753,
+      "num": 908753,
+      "word": "小伙忘锁公共自行车担心贷款还车费",
+      "onboard_time": 1742305523,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 904131,
@@ -523,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 694229,
+      "num": 298086,
+      "word": "辛云来 听泉鉴宝",
+      "onboard_time": 1742304744,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 679503,
       "num": 455355,
       "word": "包文婧孕期8个月plog",
@@ -561,14 +585,6 @@
       "onboard_time": 1742257044,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 639441,
-      "num": 331994,
-      "word": "贵女这已经不是空降了 这是空袭",
-      "onboard_time": 1742304203,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 636005,
@@ -627,20 +643,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 562693,
+      "num": 294432,
+      "word": "虞书欣方发声明维权",
+      "onboard_time": 1742303904,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 534627,
+      "num": 295783,
+      "word": "印度教授性侵多名女生59段视频泄露",
+      "onboard_time": 1742303904,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 531648,
       "num": 531648,
       "word": "恋与深空",
       "onboard_time": 1742267603,
       "rank": 7,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 509124,
-      "num": 295783,
-      "word": "印度教授性侵多名女生59段视频泄露",
-      "onboard_time": 1742303904,
-      "rank": 21,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 497625,
@@ -812,7 +836,7 @@
     },
     {
       "raw_hot": 366766,
-      "num": 203672,
+      "num": 250834,
       "word": "金秀贤方被曝在中国实名删帖",
       "onboard_time": 1742305103,
       "rank": 25,
@@ -883,14 +907,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 315571,
-      "num": 291794,
-      "word": "虞书欣方发声明维权",
-      "onboard_time": 1742303904,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 312454,
       "num": 312454,
       "word": "辽阳多名出租车司机围堵网约车司机",
@@ -912,6 +928,14 @@
       "word": "梁振英间接回应李嘉诚出售巴拿马港口",
       "onboard_time": 1742269970,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 298759,
+      "num": 344809,
+      "word": "盐城一幼儿园调查家长产业",
+      "onboard_time": 1742303123,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -947,6 +971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 287363,
+      "num": 287363,
+      "word": "景甜术后首次直播透露近况",
+      "onboard_time": 1742307323,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284122,
       "num": 336472,
       "word": "哪吒2票房",
@@ -969,6 +1001,14 @@
       "onboard_time": 1742297242,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 281533,
+      "num": 281533,
+      "word": "傅菁 雁回时",
+      "onboard_time": 1742305044,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 280015,
@@ -1171,28 +1211,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 235036,
-      "num": 202774,
-      "word": "辛云来 听泉鉴宝",
-      "onboard_time": 1742304744,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 234778,
       "num": 345320,
       "word": "这排全是虞书欣以年为单位的朋友",
       "onboard_time": 1742283263,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 234591,
-      "num": 344809,
-      "word": "盐城一幼儿园调查家长产业",
-      "onboard_time": 1742303123,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 234235,
@@ -1267,6 +1291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 217147,
+      "num": 217147,
+      "word": "朋友结婚毒友竟随礼1克冰毒",
+      "onboard_time": 1742305882,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 210530,
       "num": 210530,
       "word": "张韶涵巡演官宣",
@@ -1297,6 +1329,14 @@
       "onboard_time": 1742274025,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207778,
+      "num": 207778,
+      "word": "鼻涕颜色是免疫系统的预警",
+      "onboard_time": 1742304324,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 207544,
@@ -1491,6 +1531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193440,
+      "num": 193440,
+      "word": "秀贤联播",
+      "onboard_time": 1742307264,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193239,
       "num": 221171,
       "word": "时尚芭莎",
@@ -1553,6 +1601,14 @@
       "onboard_time": 1742266162,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 188525,
+      "num": 188525,
+      "word": "杭州一酒楼已销毁被污染餐具",
+      "onboard_time": 1742306844,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187791,
@@ -1715,6 +1771,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 167005,
+      "num": 291101,
+      "word": "奇瑞把全民智驾打到6万了",
+      "onboard_time": 1742305644,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 162381,
       "num": 471443,
       "word": "警惕假冒315红黑榜",
@@ -1763,12 +1827,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 158834,
-      "num": 158834,
-      "word": "傅菁 雁回时",
-      "onboard_time": 1742305044,
-      "rank": 37,
-      "category": "剧集"
+      "raw_hot": 158595,
+      "num": 211586,
+      "word": "以军空袭加沙已致412人死亡",
+      "onboard_time": 1742305103,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 158452,
@@ -1875,6 +1939,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 151683,
+      "num": 217711,
+      "word": "夜间看得清才是真哨兵",
+      "onboard_time": 1742305644,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 151219,
       "num": 209845,
       "word": "贵女",
@@ -1915,6 +1987,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 147938,
+      "num": 147938,
+      "word": "白玉兰奖6月27日揭晓",
+      "onboard_time": 1742307503,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147419,
       "num": 483663,
       "word": "唐九洲的时光礼物",
@@ -1945,6 +2025,14 @@
       "onboard_time": 1742277563,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146004,
+      "num": 146004,
+      "word": "吴倩云包场",
+      "onboard_time": 1742307144,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 143903,
@@ -1993,6 +2081,14 @@
       "onboard_time": 1742221104,
       "rank": 18,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 140760,
+      "num": 140760,
+      "word": "林心如霍建华不会在孩子面前争执",
+      "onboard_time": 1742305403,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 140648,
@@ -2203,6 +2299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122091,
+      "num": 122091,
+      "word": "每天必做的体态训练",
+      "onboard_time": 1742307684,
+      "rank": 49,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 121892,
       "num": 121892,
       "word": "郑州东站回应成网红新晋打卡地",
@@ -2267,14 +2371,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 115657,
-      "num": 115657,
-      "word": "鼻涕颜色是免疫系统的预警",
-      "onboard_time": 1742304324,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 115360,
       "num": 115360,
       "word": "韩半导体对华出口暴跌",
@@ -2305,6 +2401,30 @@
       "onboard_time": 1742257824,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 112941,
+      "num": 287832,
+      "word": "王楚钦说我们澳门见",
+      "onboard_time": 1742306184,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 112858,
+      "num": 289541,
+      "word": "媒体评蜜雪冰城别把宽容变纵容",
+      "onboard_time": 1742307503,
+      "rank": 21,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 112768,
+      "num": 219818,
+      "word": "打到新能源车发现连车门都不会开",
+      "onboard_time": 1742306664,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112308,
@@ -2369,14 +2489,6 @@
       "onboard_time": 1742252840,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 106276,
-      "num": 106276,
-      "word": "林心如霍建华不会在孩子面前争执",
-      "onboard_time": 1742305403,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 106219,
@@ -2675,6 +2787,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 76965,
+      "num": 142316,
+      "word": "王皓称王楚钦整个状态有提升",
+      "onboard_time": 1742303723,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76719,
       "num": 76719,
       "word": "早醒是抑郁症的常见症状",
@@ -2740,7 +2860,7 @@
     },
     {
       "raw_hot": 68931,
-      "num": 436993,
+      "num": 467715,
       "word": "9图了解提振消费专项行动方案",
       "onboard_time": 1742302823,
       "rank": 2,
@@ -2825,14 +2945,6 @@
       "onboard_time": 1742221944,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 60499,
-      "num": 211586,
-      "word": "以军空袭加沙已致412人死亡",
-      "onboard_time": 1742305103,
-      "rank": 16,
-      "category": "国际时政"
     },
     {
       "raw_hot": 60364,
@@ -2929,6 +3041,14 @@
       "onboard_time": 1742279603,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 48098,
+      "num": 291607,
+      "word": "高校期末作业跳舞和写论述二选一",
+      "onboard_time": 1742306904,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46010,
