@@ -1,6 +1,6 @@
 {
   "startTime": 1742229077214,
-  "endTime": 1742283433438,
+  "endTime": 1742286665791,
   "band_list": [
     {
       "raw_hot": 2393654,
@@ -72,6 +72,14 @@
       "word": "王晶爆刘嘉玲早年被绑架内幕",
       "onboard_time": 1742261243,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1680395,
+      "num": 464456,
+      "word": "金秀贤方发长文反驳金赛纶家人",
+      "onboard_time": 1742283502,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -219,6 +227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 840368,
+      "num": 840368,
+      "word": "樊振东本人决定不参加世界杯",
+      "onboard_time": 1742284045,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 815562,
       "num": 815562,
       "word": "美国娱乐公司宣布正改编哪吒",
@@ -331,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 711550,
+      "num": 711550,
+      "word": "卢昱晓首部仙侠女主剧",
+      "onboard_time": 1742284224,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 641599,
       "num": 509221,
       "word": "田曦薇 别让我在外面丢人",
@@ -345,6 +369,14 @@
       "onboard_time": 1742270903,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 633495,
+      "num": 633495,
+      "word": "雷军直播时说不做的产品都做了",
+      "onboard_time": 1742281941,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 613838,
@@ -379,14 +411,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 529607,
-      "num": 552206,
-      "word": "雷军直播时说不做的产品都做了",
-      "onboard_time": 1742281941,
-      "rank": 9,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 497625,
       "num": 564964,
       "word": "王楚钦 我们下个赛场见",
@@ -403,6 +427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 481964,
+      "num": 359683,
+      "word": "赵丽颖疑似用沈璃回应",
+      "onboard_time": 1742284823,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 476641,
       "num": 476641,
       "word": "来娶你了沈娇娇",
@@ -417,6 +449,14 @@
       "onboard_time": 1742261841,
       "rank": 25,
       "category": "综艺,综艺"
+    },
+    {
+      "raw_hot": 470930,
+      "num": 470930,
+      "word": "美国滞留9个月宇航员启程回地球",
+      "onboard_time": 1742285603,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 464764,
@@ -440,6 +480,14 @@
       "word": "云南出租车司机遇害案嫌犯已身亡",
       "onboard_time": 1742221464,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 445181,
+      "num": 445181,
+      "word": "父亲情绪失控欲把女儿扔河里",
+      "onboard_time": 1742285843,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -467,6 +515,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 406034,
+      "num": 406034,
+      "word": "李家超三问李嘉诚拟出售巴拿马港口",
+      "onboard_time": 1742282842,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 405465,
       "num": 405465,
       "word": "蜜雪冰城塌房后大学生的反应",
@@ -489,6 +545,14 @@
       "onboard_time": 1742275165,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 397552,
+      "num": 240754,
+      "word": "金秀贤的手部习惯",
+      "onboard_time": 1742286563,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 396488,
@@ -529,6 +593,14 @@
       "onboard_time": 1742269704,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 348737,
+      "num": 348737,
+      "word": "杜华开学校了",
+      "onboard_time": 1742283082,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 343921,
@@ -819,14 +891,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 211072,
-      "num": 246722,
-      "word": "杜华开学校了",
-      "onboard_time": 1742283082,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 210530,
       "num": 210530,
       "word": "张韶涵巡演官宣",
@@ -955,6 +1019,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 196824,
+      "num": 239468,
+      "word": "小区有业主被指装修骨灰房后续",
+      "onboard_time": 1742283981,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 195520,
       "num": 195520,
       "word": "惹到何老师算踢到钢板了",
@@ -969,6 +1041,22 @@
       "onboard_time": 1742267301,
       "rank": 28,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 194953,
+      "num": 194953,
+      "word": "胡杏儿老公",
+      "onboard_time": 1742283981,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 194361,
+      "num": 194361,
+      "word": "这排全是虞书欣以年为单位的朋友",
+      "onboard_time": 1742283263,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 193542,
@@ -1001,6 +1089,14 @@
       "onboard_time": 1742268443,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190324,
+      "num": 190324,
+      "word": "林高远生日单曲即将上线",
+      "onboard_time": 1742285902,
+      "rank": 38,
+      "category": "体育,音乐"
     },
     {
       "raw_hot": 189748,
@@ -1121,6 +1217,14 @@
       "onboard_time": 1742269285,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169865,
+      "num": 169865,
+      "word": "金价暴涨店员称没影响销售",
+      "onboard_time": 1742282603,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 168104,
@@ -1291,6 +1395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 146329,
+      "num": 146329,
+      "word": "汶川地震",
+      "onboard_time": 1742286624,
+      "rank": 46,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 146209,
       "num": 146209,
       "word": "蜜雪冰城总部强调食材规定",
@@ -1323,14 +1435,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 140180,
-      "num": 140180,
-      "word": "这排全是虞书欣以年为单位的朋友",
-      "onboard_time": 1742283263,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 139011,
       "num": 139011,
       "word": "孟子义为奔跑吧充电",
@@ -1345,6 +1449,14 @@
       "onboard_time": 1742264421,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 137026,
+      "num": 261343,
+      "word": "民族的特色很古朴也很时尚",
+      "onboard_time": 1742278942,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 134896,
@@ -1379,8 +1491,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131832,
+      "num": 131832,
+      "word": "王皓回应澳门世界杯国乒名单",
+      "onboard_time": 1742284823,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131589,
-      "num": 131589,
+      "num": 280650,
       "word": "TTG新队服连接成功",
       "onboard_time": 1742281342,
       "rank": 44,
@@ -1393,14 +1513,6 @@
       "onboard_time": 1742254100,
       "rank": 39,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 124620,
-      "num": 124620,
-      "word": "李家超三问李嘉诚拟出售巴拿马港口",
-      "onboard_time": 1742282842,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 123591,
@@ -1457,14 +1569,6 @@
       "onboard_time": 1742276004,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 117033,
-      "num": 117033,
-      "word": "金价暴涨店员称没影响销售",
-      "onboard_time": 1742282603,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 116024,
@@ -1593,14 +1697,6 @@
       "onboard_time": 1742267062,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 101197,
-      "num": 261343,
-      "word": "民族的特色很古朴也很时尚",
-      "onboard_time": 1742278942,
-      "rank": 18,
-      "category": "国内时政"
     },
     {
       "raw_hot": 100838,
@@ -1769,6 +1865,14 @@
       "onboard_time": 1742233337,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82905,
+      "num": 239216,
+      "word": "王曼昱因伤退出十五运资格赛",
+      "onboard_time": 1742286503,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 81098,
@@ -2019,6 +2123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 48923,
+      "num": 446959,
+      "word": "外交部回应美商务部禁用DeepSeek",
+      "onboard_time": 1742286263,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 46010,
       "num": 324874,
       "word": "凡客注册商标含卫生巾商品服务",
@@ -2131,6 +2243,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 31027,
+      "num": 239226,
+      "word": "一图看懂我国新质生产力发展新进展",
+      "onboard_time": 1742286082,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30791,
       "num": 273102,
       "word": "600双旧鞋堆成一座金字塔",
@@ -2203,6 +2323,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 23447,
+      "num": 360759,
+      "word": "煲养生迷魂汤的伪专家该歇了",
+      "onboard_time": 1742285963,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 21782,
       "num": 49794,
       "word": "因持续降雪玉龙雪山索道停运",
@@ -2211,12 +2339,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21568,
+      "num": 351194,
+      "word": "华莱士多次因食安问题被处罚",
+      "onboard_time": 1742286263,
+      "rank": 22,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 21311,
       "num": 23811,
       "word": "伊朗伊斯兰革命卫队回应特朗普警告",
       "onboard_time": 1742234775,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 21033,
+      "num": 241268,
+      "word": "孙杨春锦赛目标",
+      "onboard_time": 1742286082,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 19726,
@@ -2248,6 +2392,14 @@
       "word": "小伙异乡入伍战友妈妈暖心安慰",
       "onboard_time": 1742233576,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17997,
+      "num": 841556,
+      "word": "消费领域专属指南来了",
+      "onboard_time": 1742286383,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -2329,6 +2481,9 @@
     },
     {
       "word": "#习近平在贵州考察调研#"
+    },
+    {
+      "word": "#习近平在贵州考察#"
     }
   ]
 }
