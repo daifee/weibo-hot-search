@@ -1,10 +1,10 @@
 {
   "startTime": 1742229077214,
-  "endTime": 1742269694965,
+  "endTime": 1742272120300,
   "band_list": [
     {
       "raw_hot": 2393654,
-      "num": 458817,
+      "num": 690988,
       "word": "曝魏大勋深夜回秦岚家",
       "onboard_time": 1742267122,
       "rank": 23,
@@ -27,12 +27,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1821868,
+      "num": 1821868,
+      "word": "小米su吸",
+      "onboard_time": 1742268803,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1722612,
-      "num": 520551,
+      "num": 689086,
       "word": "王晶爆刘嘉玲早年被绑架内幕",
       "onboard_time": 1742261243,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1660263,
+      "num": 1660263,
+      "word": "容止 跌下神坛",
+      "onboard_time": 1742269524,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 1641295,
@@ -52,7 +68,7 @@
     },
     {
       "raw_hot": 1214302,
-      "num": 517056,
+      "num": 639958,
       "word": "金赛纶隐藏了金秀贤的一封信",
       "onboard_time": 1742255841,
       "rank": 11,
@@ -76,7 +92,7 @@
     },
     {
       "raw_hot": 1045463,
-      "num": 455645,
+      "num": 647250,
       "word": "李胜利现身杭州",
       "onboard_time": 1742263163,
       "rank": 17,
@@ -139,6 +155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 731035,
+      "num": 563594,
+      "word": "在男友家发现很多公章吵架后报警",
+      "onboard_time": 1742267843,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 726531,
       "num": 726531,
       "word": "外卖员为了追求高薪当男模被卖到缅甸",
@@ -163,12 +187,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 687275,
+      "num": 687275,
+      "word": "裴勇俊曾间接导致婴儿离世",
+      "onboard_time": 1742270004,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 641599,
       "num": 509221,
       "word": "田曦薇 别让我在外面丢人",
       "onboard_time": 1742257044,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 613838,
+      "num": 693523,
+      "word": "谢景行",
+      "onboard_time": 1742269223,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 567473,
@@ -179,19 +219,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 563594,
-      "num": 563594,
-      "word": "在男友家发现很多公章吵架后报警",
-      "onboard_time": 1742267843,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 531648,
       "num": 531648,
       "word": "恋与深空",
       "onboard_time": 1742267603,
       "rank": 7,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 487927,
+      "num": 487927,
+      "word": "鹅鸭杀官宣回归",
+      "onboard_time": 1742268084,
+      "rank": 32,
       "category": "游戏"
     },
     {
@@ -219,14 +259,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 458885,
-      "num": 458885,
-      "word": "小米su吸",
-      "onboard_time": 1742268803,
-      "rank": 36,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 454911,
       "num": 67704,
       "word": "云南出租车司机遇害案嫌犯已身亡",
@@ -235,12 +267,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 416202,
-      "num": 416202,
+      "raw_hot": 451632,
+      "num": 451632,
+      "word": "将门毒后 于正郭敬明",
+      "onboard_time": 1742271444,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 431829,
+      "num": 431829,
       "word": "老板为证清白直播吃自家黄焖鸡",
       "onboard_time": 1742266883,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 415835,
+      "num": 415835,
+      "word": "女生攒钱百万被DeepSeek辣评无效存钱",
+      "onboard_time": 1742270845,
+      "rank": 26,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 405465,
@@ -259,14 +307,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 395896,
-      "num": 395896,
-      "word": "鹅鸭杀官宣回归",
-      "onboard_time": 1742268084,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 375131,
       "num": 375131,
       "word": "1688全面取消仅退款",
@@ -283,12 +323,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 367925,
+      "num": 367925,
+      "word": "1999年出生 努努力可以活三个世纪",
+      "onboard_time": 1742271024,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 362107,
+      "num": 421257,
+      "word": "贵女是不是今天播",
+      "onboard_time": 1742269704,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 343921,
       "num": 343921,
       "word": "亚洲前首富李兆基逝世",
       "onboard_time": 1742213064,
       "rank": 7,
       "category": "财经"
+    },
+    {
+      "raw_hot": 341471,
+      "num": 341471,
+      "word": "最能吃苦的那代人投胎回来了",
+      "onboard_time": 1742270903,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 334110,
@@ -315,12 +379,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 300360,
-      "num": 397722,
-      "word": "谢景行",
-      "onboard_time": 1742269223,
-      "rank": 18,
-      "category": "剧集"
+      "raw_hot": 306909,
+      "num": 651136,
+      "word": "网络机顶盒竟能免费看哪吒2",
+      "onboard_time": 1742270604,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 297770,
@@ -329,6 +393,14 @@
       "onboard_time": 1742216365,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 296216,
+      "num": 296216,
+      "word": "歌手2025 火星哥",
+      "onboard_time": 1742270004,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 294161,
@@ -356,7 +428,7 @@
     },
     {
       "raw_hot": 274642,
-      "num": 359235,
+      "num": 433029,
       "word": "享界S9的仪式感",
       "onboard_time": 1742268143,
       "rank": 28,
@@ -369,6 +441,22 @@
       "onboard_time": 1742221224,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 259604,
+      "num": 259604,
+      "word": "光遇复刻",
+      "onboard_time": 1742271204,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 257431,
+      "num": 257431,
+      "word": "林孝埈南京",
+      "onboard_time": 1742271024,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 253667,
@@ -403,6 +491,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 247761,
+      "num": 247761,
+      "word": "谁家女主批发处理小三啊",
+      "onboard_time": 1742269524,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 243803,
+      "num": 243803,
+      "word": "沈腾马丽刘耀文一家三口即视感",
+      "onboard_time": 1742271144,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242645,
       "num": 242645,
       "word": "李兆基汶川大地震捐款超5亿",
@@ -433,6 +537,14 @@
       "onboard_time": 1742225902,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 229882,
+      "num": 229882,
+      "word": "梁振英间接回应李嘉诚出售巴拿马港口",
+      "onboard_time": 1742269970,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 224212,
@@ -467,20 +579,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 208979,
-      "num": 208979,
-      "word": "容止 跌下神坛",
-      "onboard_time": 1742269524,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 206921,
       "num": 206921,
       "word": "鹅鸭杀称已敲定中国合作伙伴",
       "onboard_time": 1742268624,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 206154,
+      "num": 206154,
+      "word": "奔跑吧13好多人啊",
+      "onboard_time": 1742271624,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 205223,
@@ -539,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193080,
+      "num": 193080,
+      "word": "孟子义李昀锐单人海报",
+      "onboard_time": 1742271986,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190356,
       "num": 322581,
       "word": "李昀锐晒手绘画",
@@ -571,6 +691,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 182512,
+      "num": 182512,
+      "word": "金饰价格涨到910元",
+      "onboard_time": 1742269970,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 181081,
       "num": 181081,
       "word": "台民众大陆配偶遭人肉搜索",
@@ -579,19 +707,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180990,
+      "num": 692311,
+      "word": "美国开出停止空袭也门条件",
+      "onboard_time": 1742270964,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 180312,
       "num": 126996,
       "word": "丁禹兮南部档案片场救人",
       "onboard_time": 1742221405,
       "rank": 20,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 179246,
-      "num": 179246,
-      "word": "谁家女主批发处理小三啊",
-      "onboard_time": 1742269524,
-      "rank": 39,
       "category": "剧集"
     },
     {
@@ -923,12 +1051,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104253,
+      "num": 418356,
+      "word": "华莱士发致歉信",
+      "onboard_time": 1742271925,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103960,
       "num": 103960,
       "word": "女孩玩手机半年度数飙升至1700度",
       "onboard_time": 1742266883,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103143,
+      "num": 687619,
+      "word": "檀健次把夏日滤镜穿身上了",
+      "onboard_time": 1742269405,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 101955,
@@ -987,6 +1131,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 96410,
+      "num": 390800,
+      "word": "蒋欣看华妃番外有感而发",
+      "onboard_time": 1742270784,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96316,
       "num": 96316,
       "word": "杨紫在千岛湖开心下班",
@@ -1025,6 +1177,22 @@
       "onboard_time": 1742250436,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 91372,
+      "num": 434361,
+      "word": "特朗普政府或承认克里米亚为俄领土",
+      "onboard_time": 1742270725,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 91332,
+      "num": 1240666,
+      "word": "三十条举措提振消费信心",
+      "onboard_time": 1742270364,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 91262,
@@ -1100,19 +1268,11 @@
     },
     {
       "raw_hot": 75506,
-      "num": 195441,
+      "num": 389618,
       "word": "顾客吃完华莱士连上6次厕所",
       "onboard_time": 1742269405,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 74926,
-      "num": 154454,
-      "word": "檀健次把夏日滤镜穿身上了",
-      "onboard_time": 1742269405,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 73888,
@@ -1379,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 28058,
+      "num": 389210,
+      "word": "南京图书馆回应数字资源遭盗版贩卖",
+      "onboard_time": 1742271325,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 27091,
       "num": 27091,
       "word": "登陆少年200天特辑采访",
@@ -1393,6 +1561,14 @@
       "onboard_time": 1742232316,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25146,
+      "num": 273102,
+      "word": "600双旧鞋堆成一座金字塔",
+      "onboard_time": 1742270903,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25116,
