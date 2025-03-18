@@ -1,7 +1,15 @@
 {
   "startTime": 1742229077214,
-  "endTime": 1742296814623,
+  "endTime": 1742297805210,
   "band_list": [
+    {
+      "raw_hot": 2493597,
+      "num": 2493597,
+      "word": "贵女空降",
+      "onboard_time": 1742296104,
+      "rank": 0,
+      "category": "剧集"
+    },
     {
       "raw_hot": 2393654,
       "num": 690988,
@@ -107,14 +115,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1640877,
-      "num": 1640877,
-      "word": "贵女空降",
-      "onboard_time": 1742296104,
-      "rank": 0,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1501295,
       "num": 1501295,
       "word": "蜜雪冰城被曝黑料网友凭啥护短",
@@ -139,20 +139,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1406769,
+      "num": 618956,
+      "word": "张碧晨方辟谣偷生孩子逼上位",
+      "onboard_time": 1742294902,
+      "rank": 10,
+      "category": "其它"
+    },
+    {
       "raw_hot": 1312654,
       "num": 1312654,
       "word": "李嘉诚",
       "onboard_time": 1742272225,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1303376,
-      "num": 441965,
-      "word": "张碧晨方辟谣偷生孩子逼上位",
-      "onboard_time": 1742294902,
-      "rank": 10,
-      "category": "其它"
     },
     {
       "raw_hot": 1281401,
@@ -339,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 804071,
+      "num": 804071,
+      "word": "先救卫生巾还是先管奶茶",
+      "onboard_time": 1742295262,
+      "rank": 5,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 802774,
       "num": 802774,
       "word": "11岁男孩为救父母向骗子转账77次",
@@ -369,6 +377,14 @@
       "onboard_time": 1742256382,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 756103,
+      "num": 756103,
+      "word": "四川内江3.9级地震",
+      "onboard_time": 1742297483,
+      "rank": 5,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 754592,
@@ -475,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 654159,
+      "num": 250086,
+      "word": "金秀贤可能破产",
+      "onboard_time": 1742296823,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 652359,
       "num": 380419,
       "word": "汶川3.1级地震",
@@ -555,12 +579,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 519803,
-      "num": 519803,
-      "word": "先救卫生巾还是先管奶茶",
-      "onboard_time": 1742295262,
-      "rank": 5,
-      "category": "舆论监督"
+      "raw_hot": 526053,
+      "num": 526053,
+      "word": "鬼鬼吴映洁回应单身生孩子",
+      "onboard_time": 1742296642,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 497625,
@@ -913,6 +937,14 @@
       "onboard_time": 1742263283,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 252398,
+      "num": 400974,
+      "word": "零添加酱油12款检出镉7款检出总砷",
+      "onboard_time": 1742295983,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 252194,
@@ -1427,6 +1459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180388,
+      "num": 254007,
+      "word": "谢兴阳发长文寻狗",
+      "onboard_time": 1742297242,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180312,
       "num": 126996,
       "word": "丁禹兮南部档案片场救人",
@@ -1547,6 +1587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160911,
+      "num": 160911,
+      "word": "黎明现身7岁女儿校运会",
+      "onboard_time": 1742297423,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160871,
       "num": 160871,
       "word": "肯尼迪遇刺约8万页文件将公布",
@@ -1625,14 +1673,6 @@
       "onboard_time": 1742279964,
       "rank": 37,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 151998,
-      "num": 151998,
-      "word": "鬼鬼吴映洁回应单身生孩子",
-      "onboard_time": 1742296642,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 151219,
@@ -1883,6 +1923,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 128647,
+      "num": 248075,
+      "word": "排协选聘中国女排主教练",
+      "onboard_time": 1742294483,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127759,
       "num": 127759,
       "word": "早醒可能与5种疾病相关",
@@ -1987,28 +2035,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 114622,
-      "num": 400974,
-      "word": "零添加酱油12款检出镉7款检出总砷",
-      "onboard_time": 1742295983,
-      "rank": 14,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 113870,
       "num": 113870,
       "word": "朴宝剑 戴花露肉照",
       "onboard_time": 1742227221,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 113596,
-      "num": 113596,
-      "word": "排协选聘中国女排主教练",
-      "onboard_time": 1742294483,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 113451,
@@ -2331,6 +2363,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 77291,
+      "num": 655778,
+      "word": "维多利亚港郑州分港",
+      "onboard_time": 1742297242,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76719,
       "num": 76719,
       "word": "早醒是抑郁症的常见症状",
@@ -2649,6 +2689,14 @@
       "onboard_time": 1742288603,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 41189,
+      "num": 241137,
+      "word": "外媒披露乌军撤离库尔斯克内幕",
+      "onboard_time": 1742296823,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 41063,
