@@ -1,0 +1,410 @@
+{
+  "runTime": 1742263860557,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1693391,
+        "num": 1693391,
+        "word": "奔跑吧13官宣",
+        "onboard_time": 1742261001,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1171385,
+        "num": 1171385,
+        "word": "小米生态链总经理删除不做卫生巾微博",
+        "onboard_time": 1742259083,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 48968,
+        "num": 947162,
+        "word": "六部门详解最新提振消费方案",
+        "onboard_time": 1742218584,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 802774,
+        "num": 802774,
+        "word": "11岁男孩为救父母向骗子转账77次",
+        "onboard_time": 1742260284,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 715981,
+        "num": 715981,
+        "word": "泸溪河以为23元一斤结账是23元半斤",
+        "onboard_time": 1742261361,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 563615,
+        "num": 563615,
+        "word": "平价不是蜜雪冰城的万能挡箭牌",
+        "onboard_time": 1742207064,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 515896,
+        "num": 515896,
+        "word": "外卖员为了追求高薪当男模被卖到缅甸",
+        "onboard_time": 1742256262,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 459114,
+        "num": 459114,
+        "word": "孟子义李昀锐奔跑挚友",
+        "onboard_time": 1742261841,
+        "rank": 7,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 353644,
+        "num": 353644,
+        "word": "中方决不接受七国集团甩锅推责",
+        "onboard_time": 1742229199,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 250822,
+        "num": 353363,
+        "word": "以军对加沙地带发动大规模空袭",
+        "onboard_time": 1742262622,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1722612,
+        "num": 350720,
+        "word": "王晶爆刘嘉玲早年被绑架内幕",
+        "onboard_time": 1742261243,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 998748,
+        "num": 347784,
+        "word": "金赛纶隐藏了金秀贤的一封信",
+        "onboard_time": 1742255841,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 583751,
+        "num": 344066,
+        "word": "裴勇俊",
+        "onboard_time": 1742256382,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71008,
+        "num": 342320,
+        "word": "以军空袭加沙死亡升至50人",
+        "onboard_time": 1742263341,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87056,
+        "num": 338529,
+        "word": "以军限制加沙附近平民活动",
+        "onboard_time": 1742262921,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 567473,
+        "num": 334172,
+        "word": "平价的蜜雪冰城拥有豁免权吗",
+        "onboard_time": 1742201121,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 483116,
+        "num": 333258,
+        "word": "田曦薇 别让我在外面丢人",
+        "onboard_time": 1742257044,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460940,
+        "num": 328535,
+        "word": "李胜利现身杭州",
+        "onboard_time": 1742263163,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328226,
+        "num": 328226,
+        "word": "快30岁才知道雷军这些话都是真的",
+        "onboard_time": 1742255121,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 282937,
+        "num": 282937,
+        "word": "短剧女主余茵回应颜值身高都一般",
+        "onboard_time": 1742221045,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297324,
+        "num": 277795,
+        "word": "辽阳多名出租车司机围堵网约车司机",
+        "onboard_time": 1742260343,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248732,
+        "num": 248732,
+        "word": "加沙又有儿童因空袭死亡",
+        "onboard_time": 1742261841,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 235589,
+        "num": 235589,
+        "word": "23岁女子体检异常未复查确诊尿毒症",
+        "onboard_time": 1742253618,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222483,
+        "num": 222483,
+        "word": "刘宇宁 珠帘玉幕咋了",
+        "onboard_time": 1742219004,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 222529,
+        "num": 214367,
+        "word": "关晓彤王子奇新剧开机",
+        "onboard_time": 1742263042,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206134,
+        "num": 206134,
+        "word": "哪吒2票房",
+        "onboard_time": 1742256021,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202370,
+        "num": 202370,
+        "word": "啄木鸟已核实确认8655个争议订单",
+        "onboard_time": 1742255600,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189606,
+        "num": 189606,
+        "word": "眼泪女王本来就是女王",
+        "onboard_time": 1742258783,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185987,
+        "num": 185987,
+        "word": "2岁孩子就已经有面子意识了",
+        "onboard_time": 1742261662,
+        "rank": 28,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 148152,
+        "num": 182405,
+        "word": "短剧女演员余茵进组于正新剧",
+        "onboard_time": 1742257283,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180617,
+        "num": 180617,
+        "word": "53岁女子因胃酸反流2年只能坐着睡",
+        "onboard_time": 1742263283,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174875,
+        "num": 174875,
+        "word": "金智媛是真的很不想理金秀贤",
+        "onboard_time": 1742217264,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150826,
+        "num": 150826,
+        "word": "iPhone17Air或首次采用无端口设计",
+        "onboard_time": 1742226622,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 149708,
+        "num": 149708,
+        "word": "特斯拉ModelY长续航版涨价1万元",
+        "onboard_time": 1742262684,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 135418,
+        "num": 135418,
+        "word": "特朗普称胡塞武装袭击将被视为来自伊朗",
+        "onboard_time": 1742257944,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 135131,
+        "num": 135131,
+        "word": "贵女",
+        "onboard_time": 1742256742,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132894,
+        "num": 132894,
+        "word": "丁禹兮凌晨四点收工",
+        "onboard_time": 1742263163,
+        "rank": 36,
+        "category": "剧集,剧集"
+      },
+      {
+        "raw_hot": 129579,
+        "num": 129579,
+        "word": "网友反映脱口秀线下表演擦边",
+        "onboard_time": 1742254400,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124164,
+        "num": 124164,
+        "word": "奔跑吧",
+        "onboard_time": 1742260163,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122891,
+        "num": 122891,
+        "word": "自驾阿姨苏敏离婚后的第1年",
+        "onboard_time": 1742263581,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121581,
+        "num": 121581,
+        "word": "亚洲前首富李兆基逝世",
+        "onboard_time": 1742213064,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 121361,
+        "num": 121361,
+        "word": "金赛纶遗属欲以谋杀罪起诉李镇浩",
+        "onboard_time": 1742262862,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119784,
+        "num": 119784,
+        "word": "浓眉被下放至发展联盟",
+        "onboard_time": 1742263462,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115360,
+        "num": 115360,
+        "word": "韩半导体对华出口暴跌",
+        "onboard_time": 1742262741,
+        "rank": 43,
+        "category": "财经,国际时政"
+      },
+      {
+        "raw_hot": 113451,
+        "num": 114605,
+        "word": "四六级报名",
+        "onboard_time": 1742257824,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 114463,
+        "num": 114463,
+        "word": "美国一客机机翼撞上跑道",
+        "onboard_time": 1742260763,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 112426,
+        "num": 112426,
+        "word": "浙大回应网传副教授选妃事件",
+        "onboard_time": 1742220625,
+        "rank": 46,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 108763,
+        "num": 108763,
+        "word": "美国称不会将自由女神像送回法国",
+        "onboard_time": 1742254699,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103797,
+        "num": 103797,
+        "word": "早醒可能与5种疾病相关",
+        "onboard_time": 1742254100,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 101955,
+        "num": 101955,
+        "word": "2025年春季全国高校消防安全公开课",
+        "onboard_time": 1742262561,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记强调教育科技人才一起抓#"
+    }
+  }
+}
