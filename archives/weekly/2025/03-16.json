@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742254612934,
+  "endTime": 1742262537564,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -211,6 +211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1828677,
+      "num": 1828677,
+      "word": "奔跑吧13官宣",
+      "onboard_time": 1742261001,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1824018,
       "num": 1824018,
       "word": "黄焖鸡卧底记者提醒11点前别点外卖",
@@ -264,6 +272,14 @@
       "word": "Angelababy直播",
       "onboard_time": 1742124863,
       "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1665546,
+      "num": 520551,
+      "word": "王晶爆刘嘉玲早年被绑架内幕",
+      "onboard_time": 1742261243,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -355,6 +371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1411300,
+      "num": 1411300,
+      "word": "小米生态链总经理删除不做卫生巾微博",
+      "onboard_time": 1742259083,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1411030,
       "num": 1411030,
       "word": "网曝浙大副教授相亲要求00后形象好",
@@ -441,6 +465,14 @@
       "onboard_time": 1742090004,
       "rank": 37,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 1214302,
+      "num": 517056,
+      "word": "金赛纶隐藏了金秀贤的一封信",
+      "onboard_time": 1742255841,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1205502,
@@ -891,6 +923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 761406,
+      "num": 513703,
+      "word": "裴勇俊",
+      "onboard_time": 1742256382,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 759908,
       "num": 434525,
       "word": "主持人张蕾怒斥心脏看什么都脏",
@@ -963,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 726531,
+      "num": 726531,
+      "word": "外卖员为了追求高薪当男模被卖到缅甸",
+      "onboard_time": 1742256262,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 723800,
       "num": 723800,
       "word": "中方决不接受七国集团甩锅推责",
@@ -1009,6 +1057,14 @@
       "onboard_time": 1742127263,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 696931,
+      "num": 696931,
+      "word": "11岁男孩为救父母向骗子转账77次",
+      "onboard_time": 1742260284,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 696677,
@@ -1083,6 +1139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 641599,
+      "num": 509221,
+      "word": "田曦薇 别让我在外面丢人",
+      "onboard_time": 1742257044,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 624942,
       "num": 259198,
       "word": "云南出租车司机遇害案嫌犯已身亡",
@@ -1097,6 +1161,14 @@
       "onboard_time": 1742053827,
       "rank": 32,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 615419,
+      "num": 615419,
+      "word": "泸溪河以为23元一斤结账是23元半斤",
+      "onboard_time": 1742261361,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 610492,
@@ -1739,6 +1811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 396488,
+      "num": 396488,
+      "word": "快30岁才知道雷军这些话都是真的",
+      "onboard_time": 1742255121,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 394220,
       "num": 601487,
       "word": "田柾国 aespa演唱会",
@@ -2171,6 +2251,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 294161,
+      "num": 294161,
+      "word": "啄木鸟已核实确认8655个争议订单",
+      "onboard_time": 1742255600,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 294124,
       "num": 255865,
       "word": "华为Pura新品真机曝光",
@@ -2209,6 +2297,14 @@
       "onboard_time": 1742215284,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 284122,
+      "num": 336472,
+      "word": "哪吒2票房",
+      "onboard_time": 1742256021,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 283005,
@@ -2313,6 +2409,14 @@
       "onboard_time": 1742113943,
       "rank": 13,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 277080,
+      "num": 277080,
+      "word": "23岁女子体检异常未复查确诊尿毒症",
+      "onboard_time": 1742253618,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 276989,
@@ -2867,6 +2971,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 224212,
+      "num": 224212,
+      "word": "2岁孩子就已经有面子意识了",
+      "onboard_time": 1742261662,
+      "rank": 22,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 224132,
       "num": 225598,
       "word": "谍报上不封顶 王凯",
@@ -2897,6 +3009,14 @@
       "onboard_time": 1742219063,
       "rank": 47,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 222265,
+      "num": 297275,
+      "word": "奔跑吧",
+      "onboard_time": 1742191162,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 221148,
@@ -3283,6 +3403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 200557,
+      "num": 200557,
+      "word": "短剧女演员余茵进组于正新剧",
+      "onboard_time": 1742257283,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200460,
       "num": 200460,
       "word": "孙颖莎9比11王艺迪",
@@ -3323,6 +3451,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 199320,
+      "num": 199320,
+      "word": "眼泪女王本来就是女王",
+      "onboard_time": 1742258783,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199111,
       "num": 199111,
       "word": "也门遭袭已致13死",
@@ -3345,6 +3481,14 @@
       "onboard_time": 1742104102,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198039,
+      "num": 198039,
+      "word": "孟子义李昀锐奔跑挚友",
+      "onboard_time": 1742261841,
+      "rank": 25,
+      "category": "综艺,综艺"
     },
     {
       "raw_hot": 197420,
@@ -3499,14 +3643,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 192349,
-      "num": 192349,
-      "word": "奔跑吧",
-      "onboard_time": 1742191162,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 191728,
       "num": 191728,
       "word": "天雷卫生巾我好怕怕",
@@ -3585,6 +3721,14 @@
       "onboard_time": 1742059760,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 189238,
+      "num": 113520,
+      "word": "金秀贤老师是裴勇俊",
+      "onboard_time": 1742254941,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 188829,
@@ -3809,14 +3953,6 @@
       "onboard_time": 1742107941,
       "rank": 38,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 180219,
-      "num": 140774,
-      "word": "23岁女子体检异常未复查确诊尿毒症",
-      "onboard_time": 1742253618,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 180178,
@@ -4243,6 +4379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161610,
+      "num": 161610,
+      "word": "特朗普称胡塞武装袭击将被视为来自伊朗",
+      "onboard_time": 1742257944,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 161342,
       "num": 277503,
       "word": "苦尽柑来遇见你",
@@ -4275,6 +4419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 160871,
+      "num": 160871,
+      "word": "肯尼迪遇刺约8万页文件将公布",
+      "onboard_time": 1742254460,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 160858,
       "num": 160858,
       "word": "世界之外",
@@ -4289,6 +4441,14 @@
       "onboard_time": 1742115564,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160292,
+      "num": 160292,
+      "word": "网友反映脱口秀线下表演擦边",
+      "onboard_time": 1742254400,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 160020,
@@ -4363,6 +4523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157251,
+      "num": 157251,
+      "word": "辽阳多名出租车司机围堵网约车司机",
+      "onboard_time": 1742260343,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156952,
       "num": 156952,
       "word": "王楚钦说近期特别难熬但为国而战",
@@ -4425,6 +4593,14 @@
       "onboard_time": 1742118624,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 152949,
+      "num": 527002,
+      "word": "美国一客机机翼撞上跑道",
+      "onboard_time": 1742260763,
+      "rank": 8,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 152466,
@@ -5147,6 +5323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127759,
+      "num": 127759,
+      "word": "早醒可能与5种疾病相关",
+      "onboard_time": 1742254100,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 127754,
       "num": 127754,
       "word": "与辉同行涉事冷冻虾仁退一赔三",
@@ -5563,6 +5747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112198,
+      "num": 112198,
+      "word": "美国称不会将自由女神像送回法国",
+      "onboard_time": 1742254699,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 111335,
       "num": 111335,
       "word": "虞书欣林一这条共创好抽象",
@@ -5667,12 +5859,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108668,
+      "num": 108668,
+      "word": "TF椰子水厂商称被约谈要求整改",
+      "onboard_time": 1742248634,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108289,
       "num": 463871,
       "word": "勇士七连胜",
       "onboard_time": 1742099363,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108215,
+      "num": 108215,
+      "word": "四六级报名",
+      "onboard_time": 1742257824,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 108149,
@@ -5689,6 +5897,14 @@
       "onboard_time": 1742052628,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 106360,
+      "num": 106360,
+      "word": "湖南卫视连发15条张杰",
+      "onboard_time": 1742252840,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 105510,
@@ -5755,6 +5971,22 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 100838,
+      "num": 100838,
+      "word": "四六级报名好卡",
+      "onboard_time": 1742260343,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 100742,
+      "num": 100742,
+      "word": "脱口秀演员萧谦回应表演擦边",
+      "onboard_time": 1742258844,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100432,
       "num": 100432,
       "word": "王楚钦说比赛期间家里发生一些情况",
@@ -5793,6 +6025,22 @@
       "onboard_time": 1742216725,
       "rank": 12,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 98529,
+      "num": 98529,
+      "word": "2025国际乒联第12周排名",
+      "onboard_time": 1742258603,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 98510,
+      "num": 98510,
+      "word": "乔治赛季报销",
+      "onboard_time": 1742256983,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 98190,
@@ -5939,6 +6187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 92418,
+      "num": 92418,
+      "word": "胡塞武装能击沉一艘美国航母吗",
+      "onboard_time": 1742256382,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 92360,
       "num": 388236,
       "word": "谁懂啊1亿人在1688丝滑搞钱",
@@ -5995,6 +6251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89881,
+      "num": 89881,
+      "word": "奔跑吧13阵容",
+      "onboard_time": 1742262260,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 88119,
       "num": 88119,
       "word": "石宇奇获赛季第二冠",
@@ -6041,14 +6305,6 @@
       "onboard_time": 1742166499,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 84234,
-      "num": 84234,
-      "word": "湖南卫视连发15条张杰",
-      "onboard_time": 1742252840,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 84154,
@@ -6219,6 +6475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73105,
+      "num": 524597,
+      "word": "加沙又有儿童因空袭死亡",
+      "onboard_time": 1742261841,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 72716,
       "num": 370049,
       "word": "把性格当招聘门槛可能违法",
@@ -6299,20 +6563,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 64019,
-      "num": 64019,
-      "word": "早醒可能与5种疾病相关",
-      "onboard_time": 1742254100,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 63962,
       "num": 174897,
       "word": "6分钟夸克AI极速入门",
       "onboard_time": 1742118022,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 63800,
+      "num": 157497,
+      "word": "梅西缺阵两场世预赛",
+      "onboard_time": 1742261062,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 63331,
@@ -6369,14 +6633,6 @@
       "onboard_time": 1742220685,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 60623,
-      "num": 60623,
-      "word": "网友反映脱口秀线下表演擦边",
-      "onboard_time": 1742254400,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 60151,
@@ -6707,6 +6963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 43334,
+      "num": 157803,
+      "word": "郑钦文说迈阿密见",
+      "onboard_time": 1742261722,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 43200,
       "num": 132484,
       "word": "手机抽奖赚的是沉默用户的钱",
@@ -6889,14 +7153,6 @@
       "onboard_time": 1742110282,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 34241,
-      "num": 75802,
-      "word": "肯尼迪遇刺约8万页文件将公布",
-      "onboard_time": 1742254460,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 33738,
