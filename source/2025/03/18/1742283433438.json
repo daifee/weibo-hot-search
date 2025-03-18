@@ -1,0 +1,410 @@
+{
+  "runTime": 1742283433438,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1568437,
+        "num": 1568437,
+        "word": "费启鸣重返240斤vlog",
+        "onboard_time": 1742275342,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1501295,
+        "num": 1501295,
+        "word": "蜜雪冰城被曝黑料网友凭啥护短",
+        "onboard_time": 1742280263,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15552,
+        "num": 1251545,
+        "word": "政策给力消费加力持续向新向好",
+        "onboard_time": 1742268502,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1005844,
+        "num": 1005844,
+        "word": "于正 女主得是鞠婧祎我才演",
+        "onboard_time": 1742279783,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 863313,
+        "num": 863313,
+        "word": "小米su吸",
+        "onboard_time": 1742268803,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 797584,
+        "num": 797584,
+        "word": "小米舒七雷巾等已被申请注册商标",
+        "onboard_time": 1742280743,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 529607,
+        "num": 529607,
+        "word": "雷军直播时说不做的产品都做了",
+        "onboard_time": 1742281941,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 524278,
+        "num": 524278,
+        "word": "美国娱乐公司宣布正改编哪吒",
+        "onboard_time": 1742277563,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 361334,
+        "num": 508617,
+        "word": "王楚钦 我们下个赛场见",
+        "onboard_time": 1742278882,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 494789,
+        "num": 494789,
+        "word": "宋轶CCD",
+        "onboard_time": 1742280382,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2280555,
+        "num": 491869,
+        "word": "胡杏儿老公夜店与多位美女搂抱",
+        "onboard_time": 1742280922,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 735538,
+        "num": 486381,
+        "word": "金秀贤方再次发表立场",
+        "onboard_time": 1742281163,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 634290,
+        "num": 486186,
+        "word": "赵丽颖早期评价来自星星的你",
+        "onboard_time": 1742273605,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 476641,
+        "num": 476641,
+        "word": "来娶你了沈娇娇",
+        "onboard_time": 1742278522,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 404191,
+        "num": 458444,
+        "word": "1999年出生 努努力可以活三个世纪",
+        "onboard_time": 1742271024,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 457764,
+        "num": 457764,
+        "word": "容止 跌下神坛",
+        "onboard_time": 1742269524,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 425010,
+        "num": 425010,
+        "word": "金赛纶在搬家前一天自杀",
+        "onboard_time": 1742274624,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424023,
+        "num": 424023,
+        "word": "对儿媳的态度决定了儿子的称呼",
+        "onboard_time": 1742281282,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267491,
+        "num": 267491,
+        "word": "女生攒钱百万被DeepSeek辣评无效存钱",
+        "onboard_time": 1742270845,
+        "rank": 18,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 257517,
+        "num": 257517,
+        "word": "李嘉诚向美国财团出售港口",
+        "onboard_time": 1742280622,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 366970,
+        "num": 253031,
+        "word": "真菌棺材 死后化身一棵树",
+        "onboard_time": 1742279964,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211072,
+        "num": 246722,
+        "word": "杜华开学校了",
+        "onboard_time": 1742283082,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328265,
+        "num": 246487,
+        "word": "曝魏大勋深夜回秦岚家",
+        "onboard_time": 1742267122,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244692,
+        "num": 244692,
+        "word": "稚楚发声",
+        "onboard_time": 1742281582,
+        "rank": 23,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 17904,
+        "num": 221500,
+        "word": "第五周最佳选手紫幻",
+        "onboard_time": 1742282842,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 205169,
+        "num": 205169,
+        "word": "5天睡眠不足体重增长1.6斤",
+        "onboard_time": 1742280323,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 200893,
+        "num": 200893,
+        "word": "张萌说冰湖重生第一个定的黄杨钿甜",
+        "onboard_time": 1742282603,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190538,
+        "num": 199926,
+        "word": "黄金",
+        "onboard_time": 1742281403,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 157297,
+        "num": 199289,
+        "word": "李家超回应李嘉诚拟出售巴拿马港口",
+        "onboard_time": 1742273485,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11163,
+        "num": 196709,
+        "word": "黑执事连载再开",
+        "onboard_time": 1742283082,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 212992,
+        "num": 194777,
+        "word": "婚礼前发现未婚夫隐瞒婚史还有一子",
+        "onboard_time": 1742275762,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194617,
+        "num": 194617,
+        "word": "王晶爆刘嘉玲早年被绑架内幕",
+        "onboard_time": 1742261243,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192160,
+        "num": 192160,
+        "word": "医生提醒每天睡眠少于6.5h需警惕",
+        "onboard_time": 1742264122,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 190923,
+        "num": 190923,
+        "word": "鞠婧祎起诉丝芭开庭因故取消",
+        "onboard_time": 1742272945,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185183,
+        "num": 185183,
+        "word": "赵昭仪醉酒被搀扶进车里",
+        "onboard_time": 1742276543,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184276,
+        "num": 184276,
+        "word": "天津之眼玄学",
+        "onboard_time": 1742281462,
+        "rank": 35,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 176672,
+        "num": 176672,
+        "word": "睡眠不足导致一天多吃一顿饭",
+        "onboard_time": 1742281881,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 163788,
+        "num": 163788,
+        "word": "奔跑吧13官宣",
+        "onboard_time": 1742261001,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150573,
+        "num": 150573,
+        "word": "李胜利现身杭州",
+        "onboard_time": 1742263163,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125772,
+        "num": 145052,
+        "word": "李在镕称三星已生死一线",
+        "onboard_time": 1742278103,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 46010,
+        "num": 141334,
+        "word": "凡客注册商标含卫生巾商品服务",
+        "onboard_time": 1742281462,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140180,
+        "num": 140180,
+        "word": "这排全是虞书欣以年为单位的朋友",
+        "onboard_time": 1742283263,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134517,
+        "num": 134517,
+        "word": "周处除三害演员权乐去世",
+        "onboard_time": 1742265503,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124620,
+        "num": 124620,
+        "word": "李家超三问李嘉诚拟出售巴拿马港口",
+        "onboard_time": 1742282842,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120038,
+        "num": 120038,
+        "word": "梁振英间接回应李嘉诚出售巴拿马港口",
+        "onboard_time": 1742269970,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119217,
+        "num": 119217,
+        "word": "怪不得找工作都说要有经验的",
+        "onboard_time": 1742274624,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112109,
+        "num": 112109,
+        "word": "金价暴涨店员称没影响销售",
+        "onboard_time": 1742282603,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 111066,
+        "num": 111066,
+        "word": "歌手2025",
+        "onboard_time": 1742275403,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110036,
+        "num": 110036,
+        "word": "王楚钦孙颖莎WTT赛事冠军榜双世一",
+        "onboard_time": 1742277924,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101197,
+        "num": 101197,
+        "word": "民族的特色很古朴也很时尚",
+        "onboard_time": 1742278942,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在贵州考察调研#"
+    }
+  }
+}
