@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742280409656,
+  "endTime": 1742282670256,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -112,6 +112,14 @@
       "word": "曝魏大勋深夜回秦岚家",
       "onboard_time": 1742267122,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2327920,
+      "num": 543268,
+      "word": "胡杏儿老公夜店与多位美女搂抱",
+      "onboard_time": 1742280922,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -497,6 +505,14 @@
       "onboard_time": 1742101882,
       "rank": 6,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 1281401,
+      "num": 892461,
+      "word": "于正 女主得是鞠婧祎我才演",
+      "onboard_time": 1742279783,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 1275399,
@@ -931,6 +947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 887044,
+      "num": 887044,
+      "word": "小米舒七雷巾等已被申请注册商标",
+      "onboard_time": 1742280743,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 878834,
       "num": 745374,
       "word": "王楚钦重回世界排名第一",
@@ -953,6 +977,14 @@
       "onboard_time": 1742271444,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 842464,
+      "num": 842464,
+      "word": "蜜雪冰城被曝黑料网友凭啥护短",
+      "onboard_time": 1742280263,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 840952,
@@ -1057,14 +1089,6 @@
       "onboard_time": 1742113701,
       "rank": 3,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 786948,
-      "num": 424506,
-      "word": "于正 女主得是鞠婧祎我才演",
-      "onboard_time": 1742279783,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 785989,
@@ -1467,6 +1491,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 583118,
+      "num": 517475,
+      "word": "金秀贤方再次发表立场",
+      "onboard_time": 1742281163,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 580840,
       "num": 580840,
       "word": "风月不相关 杨超越",
@@ -1537,6 +1569,14 @@
       "onboard_time": 1742110462,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 565560,
+      "num": 565560,
+      "word": "宋轶CCD",
+      "onboard_time": 1742280382,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 561394,
@@ -1732,7 +1772,7 @@
     },
     {
       "raw_hot": 497625,
-      "num": 497625,
+      "num": 564964,
       "word": "王楚钦 我们下个赛场见",
       "onboard_time": 1742278882,
       "rank": 9,
@@ -1864,6 +1904,14 @@
       "word": "昭昭墨墨合体耀客新剧发布会",
       "onboard_time": 1742094564,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 455907,
+      "num": 455907,
+      "word": "来娶你了沈娇娇",
+      "onboard_time": 1742278522,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -2571,6 +2619,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 296665,
+      "num": 296665,
+      "word": "真菌棺材 死后化身一棵树",
+      "onboard_time": 1742279964,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 296216,
       "num": 296216,
       "word": "歌手2025 火星哥",
@@ -2627,6 +2683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 288950,
+      "num": 288950,
+      "word": "对儿媳的态度决定了儿子的称呼",
+      "onboard_time": 1742281282,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 286374,
       "num": 321723,
       "word": "台湾枪战细节曝光",
@@ -2641,6 +2705,14 @@
       "onboard_time": 1742256021,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 283170,
+      "num": 283170,
+      "word": "李嘉诚向美国财团出售港口",
+      "onboard_time": 1742280622,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 283005,
@@ -2809,14 +2881,6 @@
       "onboard_time": 1742177901,
       "rank": 34,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 268046,
-      "num": 268046,
-      "word": "来娶你了沈娇娇",
-      "onboard_time": 1742278522,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 266671,
@@ -3265,6 +3329,14 @@
       "onboard_time": 1742273905,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 233807,
+      "num": 233807,
+      "word": "稚楚发声",
+      "onboard_time": 1742281582,
+      "rank": 27,
+      "category": "读书作家"
     },
     {
       "raw_hot": 233111,
@@ -3764,7 +3836,7 @@
     },
     {
       "raw_hot": 207289,
-      "num": 207288,
+      "num": 245211,
       "word": "鹅鸭杀手游来了",
       "onboard_time": 1742273905,
       "rank": 41,
@@ -3889,6 +3961,14 @@
       "onboard_time": 1742100862,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201179,
+      "num": 552206,
+      "word": "雷军直播时说不做的产品都做了",
+      "onboard_time": 1742281941,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 200771,
@@ -4017,6 +4097,14 @@
       "onboard_time": 1742049392,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197051,
+      "num": 197051,
+      "word": "黄金",
+      "onboard_time": 1742281403,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 196776,
@@ -4257,6 +4345,14 @@
       "onboard_time": 1742140464,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189748,
+      "num": 189748,
+      "word": "天津之眼玄学",
+      "onboard_time": 1742281462,
+      "rank": 34,
+      "category": "旅游"
     },
     {
       "raw_hot": 189515,
@@ -4697,6 +4793,14 @@
       "onboard_time": 1742110823,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 175749,
+      "num": 225680,
+      "word": "5天睡眠不足体重增长1.6斤",
+      "onboard_time": 1742280323,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 175341,
@@ -5835,6 +5939,14 @@
       "category": "民生新闻,演出"
     },
     {
+      "raw_hot": 137552,
+      "num": 137552,
+      "word": "睡眠不足导致一天多吃一顿饭",
+      "onboard_time": 1742281881,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 137125,
       "num": 137125,
       "word": "石宇奇vs李佳豪",
@@ -5963,14 +6075,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132946,
-      "num": 132946,
-      "word": "蜜雪冰城被曝黑料网友凭啥护短",
-      "onboard_time": 1742280263,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 132894,
       "num": 132894,
       "word": "丁禹兮凌晨四点收工",
@@ -5999,6 +6103,14 @@
       "num": 131674,
       "word": "KC对战HLE",
       "onboard_time": 1742115383,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 131589,
+      "num": 131589,
+      "word": "TTG新队服连接成功",
+      "onboard_time": 1742281342,
       "rank": 44,
       "category": "电竞"
     },
@@ -6403,6 +6515,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 119835,
+      "num": 119835,
+      "word": "张萌说冰湖重生第一个定的黄杨钿甜",
+      "onboard_time": 1742282603,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119784,
       "num": 119784,
       "word": "浓眉被下放至发展联盟",
@@ -6483,28 +6603,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 117779,
-      "num": 117779,
-      "word": "5天睡眠不足体重增长1.6斤",
-      "onboard_time": 1742280323,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 117733,
       "num": 216403,
       "word": "Henry温州话隔空喊宝贝",
       "onboard_time": 1742102363,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 117668,
-      "num": 117668,
-      "word": "宋轶CCD",
-      "onboard_time": 1742280382,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 117560,
@@ -6521,6 +6625,14 @@
       "onboard_time": 1742211025,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117033,
+      "num": 117033,
+      "word": "金价暴涨店员称没影响销售",
+      "onboard_time": 1742282603,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 116571,
@@ -7211,6 +7323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88903,
+      "num": 154713,
+      "word": "最近很火的苹果猪扒",
+      "onboard_time": 1742281462,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 88119,
       "num": 88119,
       "word": "石宇奇获赛季第二冠",
@@ -7507,6 +7627,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 69688,
+      "num": 245080,
+      "word": "杨肸子生日直播",
+      "onboard_time": 1742280982,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 69587,
       "num": 360695,
       "word": "1分钟回顾李兆基生平",
@@ -7553,6 +7681,14 @@
       "onboard_time": 1742168059,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 65393,
+      "num": 174431,
+      "word": "小KK怀三胎",
+      "onboard_time": 1742276904,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 63962,
@@ -8075,6 +8211,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 39053,
+      "num": 324874,
+      "word": "凡客注册商标含卫生巾商品服务",
+      "onboard_time": 1742281462,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38762,
       "num": 396806,
       "word": "你愿意为AI医疗产品额外付费吗",
@@ -8161,6 +8305,14 @@
       "onboard_time": 1742268263,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 36313,
+      "num": 167413,
+      "word": "上海夜空惊现巨型跑鞋",
+      "onboard_time": 1742279242,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36179,
@@ -8328,14 +8480,6 @@
       "word": "业内人士谈培训贷乱象",
       "onboard_time": 1742214503,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29920,
-      "num": 167413,
-      "word": "上海夜空惊现巨型跑鞋",
-      "onboard_time": 1742279242,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
