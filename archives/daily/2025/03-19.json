@@ -1,6 +1,6 @@
 {
   "startTime": 1742315475336,
-  "endTime": 1742329520970,
+  "endTime": 1742330343413,
   "band_list": [
     {
       "raw_hot": 1213827,
@@ -187,8 +187,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148966,
-      "num": 28715,
+      "raw_hot": 152763,
+      "num": 35858,
       "word": "不要一边充电一边看手机",
       "onboard_time": 1742325015,
       "rank": 42,
@@ -547,8 +547,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 13955,
-      "num": 13955,
+      "raw_hot": 14296,
+      "num": 14296,
       "word": "金赛纶遗属将对照片数字取证",
       "onboard_time": 1742327533,
       "rank": 43,
@@ -563,20 +563,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 12217,
-      "num": 13886,
-      "word": "中方敦促澳方尊重中国主权",
-      "onboard_time": 1742328973,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 11045,
-      "num": 15481,
+      "raw_hot": 12462,
+      "num": 35867,
       "word": "记者卧底华莱士餐厅后厨",
       "onboard_time": 1742329334,
       "rank": 38,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 12262,
+      "num": 14074,
+      "word": "中方敦促澳方尊重中国主权",
+      "onboard_time": 1742328973,
+      "rank": 47,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
