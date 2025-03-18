@@ -1,6 +1,6 @@
 {
   "startTime": 1742229077214,
-  "endTime": 1742279615643,
+  "endTime": 1742280409656,
   "band_list": [
     {
       "raw_hot": 2393654,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2249858,
-      "num": 2249858,
+      "raw_hot": 2262705,
+      "num": 2262705,
       "word": "费启鸣重返240斤vlog",
       "onboard_time": 1742275342,
       "rank": 35,
@@ -187,6 +187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 815562,
+      "num": 815562,
+      "word": "美国娱乐公司宣布正改编哪吒",
+      "onboard_time": 1742277563,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 810300,
       "num": 810300,
       "word": "自驾阿姨苏敏离婚后的第1年",
@@ -195,20 +203,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 803726,
-      "num": 803726,
-      "word": "美国娱乐公司宣布正改编哪吒",
-      "onboard_time": 1742277563,
-      "rank": 3,
-      "category": "电影"
-    },
-    {
       "raw_hot": 802774,
       "num": 802774,
       "word": "11岁男孩为救父母向骗子转账77次",
       "onboard_time": 1742260284,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 786948,
+      "num": 424506,
+      "word": "于正 女主得是鞠婧祎我才演",
+      "onboard_time": 1742279783,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 779478,
@@ -329,6 +337,14 @@
       "onboard_time": 1742267603,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 497625,
+      "num": 497625,
+      "word": "王楚钦 我们下个赛场见",
+      "onboard_time": 1742278882,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 487927,
@@ -555,14 +571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 274977,
-      "num": 274977,
-      "word": "王楚钦 我们下个赛场见",
-      "onboard_time": 1742278882,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 274642,
       "num": 433029,
       "word": "享界S9的仪式感",
@@ -577,6 +585,14 @@
       "onboard_time": 1742221224,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 268046,
+      "num": 268046,
+      "word": "来娶你了沈娇娇",
+      "onboard_time": 1742278522,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 259604,
@@ -907,6 +923,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 183146,
+      "num": 183146,
+      "word": "李在镕称三星已生死一线",
+      "onboard_time": 1742278103,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 182735,
       "num": 207289,
       "word": "谁家男女主又争又抢的对象是男二",
@@ -971,14 +995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 168805,
-      "num": 168805,
-      "word": "来娶你了沈娇娇",
-      "onboard_time": 1742278522,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 168104,
       "num": 197382,
       "word": "上海黄浦区对8岁以下禁售二次元",
@@ -993,14 +1009,6 @@
       "onboard_time": 1742266102,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 164716,
-      "num": 164716,
-      "word": "李在镕称三星已生死一线",
-      "onboard_time": 1742278103,
-      "rank": 44,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 162381,
@@ -1044,7 +1052,7 @@
     },
     {
       "raw_hot": 157727,
-      "num": 167562,
+      "num": 189595,
       "word": "陈都灵你的螂来了",
       "onboard_time": 1742277143,
       "rank": 37,
@@ -1099,6 +1107,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 152019,
+      "num": 152019,
+      "word": "贴吧崩了",
+      "onboard_time": 1742279964,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 151219,
       "num": 209845,
       "word": "贵女",
@@ -1137,6 +1153,14 @@
       "onboard_time": 1742272645,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146691,
+      "num": 146691,
+      "word": "EDG官宣Ahn加入",
+      "onboard_time": 1742279661,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 146209,
@@ -1201,6 +1225,14 @@
       "onboard_time": 1742264240,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 132946,
+      "num": 132946,
+      "word": "蜜雪冰城被曝黑料网友凭啥护短",
+      "onboard_time": 1742280263,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132894,
@@ -1273,6 +1305,22 @@
       "onboard_time": 1742263462,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117779,
+      "num": 117779,
+      "word": "5天睡眠不足体重增长1.6斤",
+      "onboard_time": 1742280323,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 117668,
+      "num": 117668,
+      "word": "宋轶CCD",
+      "onboard_time": 1742280382,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 117560,
@@ -1803,6 +1851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49001,
+      "num": 273291,
+      "word": "加沙死亡人数100人100人地增加",
+      "onboard_time": 1742279603,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 43585,
       "num": 43585,
       "word": "孟子义何与同框",
@@ -1907,12 +1963,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29920,
+      "num": 167413,
+      "word": "上海夜空惊现巨型跑鞋",
+      "onboard_time": 1742279242,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29499,
       "num": 44820,
       "word": "似锦没有曹斐然这婚真结不了",
       "onboard_time": 1742253561,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 29385,
+      "num": 251528,
+      "word": "鸡娃失败后我们会对精英教育祛魅吗",
+      "onboard_time": 1742279303,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29105,
+      "num": 270270,
+      "word": "团伙诱导买榜涉案超千万",
+      "onboard_time": 1742279480,
+      "rank": 31,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 28913,
@@ -2003,22 +2083,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17864,
-      "num": 173380,
-      "word": "团伙诱导买榜涉案超千万",
-      "onboard_time": 1742279480,
-      "rank": 31,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 17070,
-      "num": 185063,
-      "word": "鸡娃失败后我们会对精英教育祛魅吗",
-      "onboard_time": 1742279303,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 14104,
       "num": 14104,
       "word": "时空中的绘旅人",
@@ -2033,14 +2097,6 @@
       "onboard_time": 1742239334,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 13694,
-      "num": 167413,
-      "word": "上海夜空惊现巨型跑鞋",
-      "onboard_time": 1742279242,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13227,
