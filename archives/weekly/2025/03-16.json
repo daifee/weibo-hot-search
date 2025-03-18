@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742276431508,
+  "endTime": 1742279615643,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2249858,
+      "num": 2249858,
+      "word": "费启鸣重返240斤vlog",
+      "onboard_time": 1742275342,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2222116,
       "num": 2222116,
       "word": "刁蛮公主翻拍了",
@@ -153,6 +161,14 @@
       "onboard_time": 1742213604,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2102132,
+      "num": 932527,
+      "word": "蜜雪冰城改24小时营业",
+      "onboard_time": 1742275102,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2100874,
@@ -643,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1128472,
+      "num": 401343,
+      "word": "婚礼前发现未婚夫隐瞒婚史还有一子",
+      "onboard_time": 1742275762,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1111318,
       "num": 1111318,
       "word": "阚清子希望尽快恢复正常体重",
@@ -827,14 +851,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 932527,
-      "num": 932527,
-      "word": "蜜雪冰城改24小时营业",
-      "onboard_time": 1742275102,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 930755,
       "num": 438678,
       "word": "金秀贤代言被撕",
@@ -849,14 +865,6 @@
       "onboard_time": 1742177241,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 926041,
-      "num": 426348,
-      "word": "费启鸣重返240斤vlog",
-      "onboard_time": 1742275342,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 923726,
@@ -1017,6 +1025,14 @@
       "onboard_time": 1742263581,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 803726,
+      "num": 803726,
+      "word": "美国娱乐公司宣布正改编哪吒",
+      "onboard_time": 1742277563,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 802774,
@@ -2747,6 +2763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 274977,
+      "num": 274977,
+      "word": "王楚钦 我们下个赛场见",
+      "onboard_time": 1742278882,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 274642,
       "num": 433029,
       "word": "享界S9的仪式感",
@@ -2985,6 +3009,14 @@
       "onboard_time": 1742262622,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 250069,
+      "num": 250069,
+      "word": "王楚钦孙颖莎WTT赛事冠军榜双世一",
+      "onboard_time": 1742277924,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 249985,
@@ -3355,6 +3387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 224292,
+      "num": 224292,
+      "word": "赵昭仪醉酒被搀扶进车里",
+      "onboard_time": 1742276543,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224212,
       "num": 224212,
       "word": "2岁孩子就已经有面子意识了",
@@ -3465,6 +3505,14 @@
       "onboard_time": 1742064436,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 218129,
+      "num": 218129,
+      "word": "怪不得找工作都说要有经验的",
+      "onboard_time": 1742274624,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 217954,
@@ -4331,14 +4379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 186270,
-      "num": 186270,
-      "word": "怪不得找工作都说要有经验的",
-      "onboard_time": 1742274624,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 185896,
       "num": 185896,
       "word": "澳门乒乓球世界杯赛程公布",
@@ -4611,6 +4651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176749,
+      "num": 182269,
+      "word": "于正说沈腾比他更适合谢景行",
+      "onboard_time": 1742278164,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176486,
       "num": 239731,
       "word": "四郎上个综艺被哄成胚胎了",
@@ -4763,6 +4811,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168805,
+      "num": 168805,
+      "word": "来娶你了沈娇娇",
+      "onboard_time": 1742278522,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 168104,
+      "num": 197382,
+      "word": "上海黄浦区对8岁以下禁售二次元",
+      "onboard_time": 1742276124,
+      "rank": 37,
+      "category": "民生新闻,动漫"
+    },
+    {
       "raw_hot": 168069,
       "num": 168069,
       "word": "吃饭顿数越少胖得越狠",
@@ -4865,6 +4929,14 @@
       "onboard_time": 1742114842,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164716,
+      "num": 164716,
+      "word": "李在镕称三星已生死一线",
+      "onboard_time": 1742278103,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 164659,
@@ -5083,6 +5155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157727,
+      "num": 167562,
+      "word": "陈都灵你的螂来了",
+      "onboard_time": 1742277143,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157602,
       "num": 262766,
       "word": "石田良子去世",
@@ -5161,6 +5241,14 @@
       "onboard_time": 1742057003,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154394,
+      "num": 154394,
+      "word": "周星驰新电影女足路透",
+      "onboard_time": 1742278823,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 154381,
@@ -5441,6 +5529,14 @@
       "onboard_time": 1742129364,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146209,
+      "num": 146209,
+      "word": "蜜雪冰城总部强调食材规定",
+      "onboard_time": 1742277563,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146146,
@@ -6579,14 +6675,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 109412,
-      "num": 197382,
-      "word": "上海黄浦区对8岁以下禁售二次元",
-      "onboard_time": 1742276124,
-      "rank": 37,
-      "category": "民生新闻,动漫"
-    },
-    {
       "raw_hot": 109279,
       "num": 211954,
       "word": "孙颖莎赛后回训练场复盘比赛",
@@ -7035,6 +7123,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 91004,
+      "num": 165169,
+      "word": "春季赛第五周最佳阵容公布",
+      "onboard_time": 1742277444,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 90184,
       "num": 314313,
       "word": "多地连夜查处315晚会曝光问题",
@@ -7049,6 +7145,14 @@
       "onboard_time": 1742175980,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90034,
+      "num": 153503,
+      "word": "林一有种彻底沦为虞书欣玩物的感觉",
+      "onboard_time": 1742279424,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 89881,
@@ -7337,6 +7441,14 @@
       "onboard_time": 1742087483,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 71479,
+      "num": 261343,
+      "word": "民族的特色很古朴也很时尚",
+      "onboard_time": 1742278942,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 71008,
@@ -7635,6 +7747,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 51757,
+      "num": 168301,
+      "word": "现货黄金今年累涨超14%",
+      "onboard_time": 1742276723,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 51729,
       "num": 69416,
       "word": "虾仁焯水可去除部分保水剂",
@@ -7841,14 +7961,6 @@
       "onboard_time": 1742144058,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 42296,
-      "num": 401343,
-      "word": "婚礼前发现未婚夫隐瞒婚史还有一子",
-      "onboard_time": 1742275762,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 41861,
@@ -8483,6 +8595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17864,
+      "num": 173380,
+      "word": "团伙诱导买榜涉案超千万",
+      "onboard_time": 1742279480,
+      "rank": 31,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 17748,
       "num": 112198,
       "word": "刘国梁给王楚钦颁奖",
@@ -8513,6 +8633,14 @@
       "onboard_time": 1742225902,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 17070,
+      "num": 185063,
+      "word": "鸡娃失败后我们会对精英教育祛魅吗",
+      "onboard_time": 1742279303,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16777,
@@ -8553,6 +8681,14 @@
       "onboard_time": 1742239334,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 13694,
+      "num": 167413,
+      "word": "上海夜空惊现巨型跑鞋",
+      "onboard_time": 1742279242,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13580,
