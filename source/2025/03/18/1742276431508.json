@@ -1,0 +1,410 @@
+{
+  "runTime": 1742276431508,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1432941,
+        "num": 1432941,
+        "word": "小米su吸",
+        "onboard_time": 1742268803,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1222555,
+        "num": 1222555,
+        "word": "李嘉诚",
+        "onboard_time": 1742272225,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92429,
+        "num": 1090749,
+        "word": "三十条举措提振消费信心",
+        "onboard_time": 1742270364,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1015108,
+        "num": 1015108,
+        "word": "容止 跌下神坛",
+        "onboard_time": 1742269524,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 932527,
+        "num": 932527,
+        "word": "蜜雪冰城改24小时营业",
+        "onboard_time": 1742275102,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 678111,
+        "num": 678111,
+        "word": "女生攒钱百万被DeepSeek辣评无效存钱",
+        "onboard_time": 1742270845,
+        "rank": 5,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 574031,
+        "num": 574031,
+        "word": "将门毒后 于正郭敬明",
+        "onboard_time": 1742271444,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 512991,
+        "num": 512991,
+        "word": "鞠婧祎起诉丝芭开庭因故取消",
+        "onboard_time": 1742272945,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 509389,
+        "num": 509389,
+        "word": "华莱士发致歉信",
+        "onboard_time": 1742271925,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 466983,
+        "num": 466983,
+        "word": "奔跑吧13官宣",
+        "onboard_time": 1742261001,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1275686,
+        "num": 464553,
+        "word": "赵丽颖早期评价来自星星的你",
+        "onboard_time": 1742273605,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 977005,
+        "num": 454022,
+        "word": "曝魏大勋深夜回秦岚家",
+        "onboard_time": 1742267122,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1099424,
+        "num": 444711,
+        "word": "金赛纶在搬家前一天自杀",
+        "onboard_time": 1742274624,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 938749,
+        "num": 437183,
+        "word": "1999年出生 努努力可以活三个世纪",
+        "onboard_time": 1742271024,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 31729,
+        "num": 433114,
+        "word": "3198元网购水晶收到假证",
+        "onboard_time": 1742275464,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 926041,
+        "num": 426348,
+        "word": "费启鸣重返240斤vlog",
+        "onboard_time": 1742275342,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 540947,
+        "num": 418130,
+        "word": "最能吃苦的那代人投胎回来了",
+        "onboard_time": 1742270903,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 506378,
+        "num": 405981,
+        "word": "王晶爆刘嘉玲早年被绑架内幕",
+        "onboard_time": 1742261243,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402815,
+        "num": 402815,
+        "word": "李家超回应李嘉诚拟出售巴拿马港口",
+        "onboard_time": 1742273485,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42296,
+        "num": 401343,
+        "word": "婚礼前发现未婚夫隐瞒婚史还有一子",
+        "onboard_time": 1742275762,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 399995,
+        "num": 399995,
+        "word": "蜜雪冰城总部新规",
+        "onboard_time": 1742275165,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381686,
+        "num": 381686,
+        "word": "金赛纶隐藏了金秀贤的一封信",
+        "onboard_time": 1742255841,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366072,
+        "num": 366072,
+        "word": "金价",
+        "onboard_time": 1742265982,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 292557,
+        "num": 292557,
+        "word": "周处除三害演员权乐去世",
+        "onboard_time": 1742265503,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34912,
+        "num": 288706,
+        "word": "秦彻与龙同陨落",
+        "onboard_time": 1742275824,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 286844,
+        "num": 286844,
+        "word": "严浩翔 新说唱导师",
+        "onboard_time": 1742274503,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78627,
+        "num": 271960,
+        "word": "投资人不意外阿里打出夸克这张牌",
+        "onboard_time": 1742273425,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 269839,
+        "num": 269839,
+        "word": "凤囚凰",
+        "onboard_time": 1742273304,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 342301,
+        "num": 267771,
+        "word": "裴勇俊曾间接导致婴儿离世",
+        "onboard_time": 1742270004,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33179,
+        "num": 265294,
+        "word": "微短剧套娃式吸金中老年人",
+        "onboard_time": 1742274924,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 342007,
+        "num": 264420,
+        "word": "李胜利现身杭州",
+        "onboard_time": 1742263163,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263373,
+        "num": 263373,
+        "word": "医生提醒每天睡眠少于6.5h需警惕",
+        "onboard_time": 1742264122,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 244463,
+        "num": 244463,
+        "word": "凡客卫生巾要来了",
+        "onboard_time": 1742273364,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193618,
+        "num": 241519,
+        "word": "杨紫换车巡骑了",
+        "onboard_time": 1742273905,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240984,
+        "num": 240984,
+        "word": "梁振英间接回应李嘉诚出售巴拿马港口",
+        "onboard_time": 1742269970,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219839,
+        "num": 219839,
+        "word": "在男友家发现很多公章吵架后报警",
+        "onboard_time": 1742267843,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200038,
+        "num": 200038,
+        "word": "歌手2025",
+        "onboard_time": 1742275403,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109412,
+        "num": 197382,
+        "word": "上海黄浦区对8岁以下禁售二次元",
+        "onboard_time": 1742276124,
+        "rank": 37,
+        "category": "民生新闻,动漫"
+      },
+      {
+        "raw_hot": 195520,
+        "num": 195520,
+        "word": "惹到何老师算踢到钢板了",
+        "onboard_time": 1742273065,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117560,
+        "num": 187253,
+        "word": "国王男女主刚告白就见家长",
+        "onboard_time": 1742276004,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179650,
+        "num": 179650,
+        "word": "小米商标已含卫生护垫类",
+        "onboard_time": 1742264240,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177561,
+        "num": 177561,
+        "word": "医院被举报代孕后又涉嫌重操旧业",
+        "onboard_time": 1742266702,
+        "rank": 41,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 177474,
+        "num": 177474,
+        "word": "平价的蜜雪冰城拥有豁免权吗",
+        "onboard_time": 1742201121,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176871,
+        "num": 176871,
+        "word": "鹅鸭杀手游来了",
+        "onboard_time": 1742273905,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 163097,
+        "num": 163097,
+        "word": "怪不得找工作都说要有经验的",
+        "onboard_time": 1742274624,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161419,
+        "num": 161419,
+        "word": "花了1万多的木屋被举报了",
+        "onboard_time": 1742276364,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156485,
+        "num": 156485,
+        "word": "四六级网站 进不去",
+        "onboard_time": 1742275043,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 149812,
+        "num": 149812,
+        "word": "实况足球抽卡概率不透明",
+        "onboard_time": 1742275643,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149287,
+        "num": 149287,
+        "word": "鹅鸭杀官宣回归",
+        "onboard_time": 1742268084,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147719,
+        "num": 147719,
+        "word": "湖人",
+        "onboard_time": 1742274025,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在贵州考察调研#"
+    }
+  }
+}
