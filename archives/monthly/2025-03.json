@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742315475336,
+  "endTime": 1742316410436,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -50035,6 +50035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 59605,
+      "num": 59605,
+      "word": "夏凤华冷静地说出最狠的话",
+      "onboard_time": 1742315958,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 59489,
       "num": 100008,
       "word": "年度个税汇算手机APP操作指南",
@@ -51201,6 +51209,14 @@
       "onboard_time": 1741364421,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 51904,
+      "num": 51904,
+      "word": "未来的家能有多聪明",
+      "onboard_time": 1742315898,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 51897,

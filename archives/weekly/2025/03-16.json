@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742315475336,
+  "endTime": 1742316410436,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -3459,6 +3459,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 258645,
+      "num": 722723,
+      "word": "贵女",
+      "onboard_time": 1742097923,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258415,
       "num": 412848,
       "word": "剧方回应翻拍刁蛮公主",
@@ -3889,14 +3897,6 @@
       "onboard_time": 1742182101,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 232750,
-      "num": 722723,
-      "word": "贵女",
-      "onboard_time": 1742097923,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 232654,
@@ -9011,6 +9011,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 59605,
+      "num": 59605,
+      "word": "夏凤华冷静地说出最狠的话",
+      "onboard_time": 1742315958,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 59011,
       "num": 59011,
       "word": "省考行测难不难",
@@ -9169,6 +9177,14 @@
       "onboard_time": 1742203822,
       "rank": 18,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 51904,
+      "num": 51904,
+      "word": "未来的家能有多聪明",
+      "onboard_time": 1742315898,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 51757,

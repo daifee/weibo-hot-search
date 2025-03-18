@@ -1,10 +1,10 @@
 {
   "startTime": 1742315475336,
-  "endTime": 1742315475336,
+  "endTime": 1742316410436,
   "band_list": [
     {
       "raw_hot": 1213827,
-      "num": 241402,
+      "num": 252581,
       "word": "高以翔生前女友官宣结婚",
       "onboard_time": 1742309126,
       "rank": 10,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 665137,
-      "num": 237209,
+      "num": 238749,
       "word": "贵女这已经不是空降了 这是空袭",
       "onboard_time": 1742304203,
       "rank": 11,
@@ -115,12 +115,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 249279,
-      "num": 249279,
+      "raw_hot": 283940,
+      "num": 283940,
       "word": "蜜雪冰城店员称隔夜柠檬是个例",
       "onboard_time": 1742288721,
       "rank": 8,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 258645,
+      "num": 258645,
+      "word": "贵女",
+      "onboard_time": 1742314879,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 221705,
@@ -145,14 +153,6 @@
       "onboard_time": 1742312061,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 201022,
-      "num": 201022,
-      "word": "贵女",
-      "onboard_time": 1742314879,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 188203,
@@ -275,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94521,
+      "num": 94521,
+      "word": "送给高考生的超燃歌词",
+      "onboard_time": 1742311103,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94150,
       "num": 94150,
       "word": "秀贤联播",
@@ -297,14 +305,6 @@
       "onboard_time": 1742299524,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 83694,
-      "num": 83694,
-      "word": "送给高考生的超燃歌词",
-      "onboard_time": 1742311103,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 79006,
@@ -377,6 +377,22 @@
       "onboard_time": 1742283981,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 59605,
+      "num": 59605,
+      "word": "夏凤华冷静地说出最狠的话",
+      "onboard_time": 1742315958,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 51904,
+      "num": 51904,
+      "word": "未来的家能有多聪明",
+      "onboard_time": 1742315898,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 33962,
