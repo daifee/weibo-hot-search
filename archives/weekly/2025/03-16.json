@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742272120300,
+  "endTime": 1742273009518,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -155,6 +155,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 2100874,
+      "num": 2100874,
+      "word": "小米su吸",
+      "onboard_time": 1742268803,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 2061435,
       "num": 372381,
       "word": "金秀贤方要金赛纶赔偿眼泪女王损失",
@@ -251,14 +259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1821868,
-      "num": 1821868,
-      "word": "小米su吸",
-      "onboard_time": 1742268803,
-      "rank": 36,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 1815524,
       "num": 1815524,
       "word": "胖猫事件90多吨食物被浪费",
@@ -273,6 +273,14 @@
       "onboard_time": 1742199562,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1806655,
+      "num": 1806655,
+      "word": "容止 跌下神坛",
+      "onboard_time": 1742269524,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 1755466,
@@ -305,14 +313,6 @@
       "onboard_time": 1742124863,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1660263,
-      "num": 1660263,
-      "word": "容止 跌下神坛",
-      "onboard_time": 1742269524,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 1659369,
@@ -883,6 +883,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 846816,
+      "num": 846816,
+      "word": "将门毒后 于正郭敬明",
+      "onboard_time": 1742271444,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 840952,
       "num": 840952,
       "word": "母亲偷签3万婚介合同为女儿安排相亲",
@@ -969,6 +977,14 @@
       "onboard_time": 1742091324,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 787345,
+      "num": 787345,
+      "word": "女生攒钱百万被DeepSeek辣评无效存钱",
+      "onboard_time": 1742270845,
+      "rank": 26,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 787167,
@@ -1123,6 +1139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 717868,
+      "num": 687275,
+      "word": "裴勇俊曾间接导致婴儿离世",
+      "onboard_time": 1742270004,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 716387,
       "num": 716387,
       "word": "短剧已是nextlevel",
@@ -1169,14 +1193,6 @@
       "onboard_time": 1742188581,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 687275,
-      "num": 687275,
-      "word": "裴勇俊曾间接导致婴儿离世",
-      "onboard_time": 1742270004,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 674426,
@@ -1771,20 +1787,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 451632,
-      "num": 451632,
-      "word": "将门毒后 于正郭敬明",
-      "onboard_time": 1742271444,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 451425,
       "num": 451425,
       "word": "央视曝光AI假冒名人明星",
       "onboard_time": 1742111301,
       "rank": 13,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 448764,
+      "num": 594203,
+      "word": "华莱士发致歉信",
+      "onboard_time": 1742271925,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 441836,
@@ -1883,6 +1899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 416987,
+      "num": 692311,
+      "word": "美国开出停止空袭也门条件",
+      "onboard_time": 1742270964,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 416880,
       "num": 416880,
       "word": "AI无人直播卖课收割大量宝妈",
@@ -1899,12 +1923,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 415835,
-      "num": 415835,
-      "word": "女生攒钱百万被DeepSeek辣评无效存钱",
-      "onboard_time": 1742270845,
-      "rank": 26,
-      "category": "民生新闻,互联网"
+      "raw_hot": 413416,
+      "num": 413416,
+      "word": "最能吃苦的那代人投胎回来了",
+      "onboard_time": 1742270903,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 411266,
@@ -2043,6 +2067,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 373389,
+      "num": 373389,
+      "word": "1999年出生 努努力可以活三个世纪",
+      "onboard_time": 1742271024,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 372928,
       "num": 372928,
       "word": "孟子义李昀锐香港活动g社生图",
@@ -2065,14 +2097,6 @@
       "onboard_time": 1742104222,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 367925,
-      "num": 367925,
-      "word": "1999年出生 努努力可以活三个世纪",
-      "onboard_time": 1742271024,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 366135,
@@ -2211,20 +2235,20 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 343124,
+      "num": 651136,
+      "word": "网络机顶盒竟能免费看哪吒2",
+      "onboard_time": 1742270604,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 342667,
       "num": 320421,
       "word": "宋慧乔李惠利 为自己闪耀",
       "onboard_time": 1742191642,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 341471,
-      "num": 341471,
-      "word": "最能吃苦的那代人投胎回来了",
-      "onboard_time": 1742270903,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 338357,
@@ -2377,14 +2401,6 @@
       "onboard_time": 1742123783,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 306909,
-      "num": 651136,
-      "word": "网络机顶盒竟能免费看哪吒2",
-      "onboard_time": 1742270604,
-      "rank": 14,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 306633,
@@ -2803,6 +2819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 257299,
+      "num": 257299,
+      "word": "鞠婧祎起诉丝芭开庭因故取消",
+      "onboard_time": 1742272945,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256998,
       "num": 256998,
       "word": "年轻人重新养自己到底是在养什么",
@@ -2825,6 +2849,14 @@
       "onboard_time": 1742113582,
       "rank": 48,
       "category": "综艺,互联网"
+    },
+    {
+      "raw_hot": 254697,
+      "num": 254697,
+      "word": "梁振英间接回应李嘉诚出售巴拿马港口",
+      "onboard_time": 1742269970,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 254649,
@@ -3171,14 +3203,6 @@
       "category": "艺人,互联网"
     },
     {
-      "raw_hot": 229882,
-      "num": 229882,
-      "word": "梁振英间接回应李嘉诚出售巴拿马港口",
-      "onboard_time": 1742269970,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 229409,
       "num": 239724,
       "word": "李子璇七年之后再跳pickmeup",
@@ -3523,6 +3547,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 210357,
+      "num": 210357,
+      "word": "奔跑吧13好多人啊",
+      "onboard_time": 1742271624,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209820,
       "num": 209820,
       "word": "王楚钦孙颖莎和重庆长江索道同框",
@@ -3585,14 +3617,6 @@
       "onboard_time": 1742268624,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 206154,
-      "num": 206154,
-      "word": "奔跑吧13好多人啊",
-      "onboard_time": 1742271624,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 205223,
@@ -3665,6 +3689,14 @@
       "onboard_time": 1742202683,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202483,
+      "num": 202483,
+      "word": "孟子义李昀锐单人海报",
+      "onboard_time": 1742271986,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 202096,
@@ -3963,14 +3995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 193080,
-      "num": 193080,
-      "word": "孟子义李昀锐单人海报",
-      "onboard_time": 1742271986,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 191728,
       "num": 191728,
       "word": "天雷卫生巾我好怕怕",
@@ -4008,6 +4032,14 @@
       "word": "时代少年团 麻花特开心",
       "onboard_time": 1742137824,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 190902,
+      "num": 190902,
+      "word": "张真源拿呼安的玩具健身",
+      "onboard_time": 1742272165,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -4315,14 +4347,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 180990,
-      "num": 692311,
-      "word": "美国开出停止空袭也门条件",
-      "onboard_time": 1742270964,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 180613,
       "num": 180613,
       "word": "土耳其600斤吃播网红因病去世",
@@ -4465,6 +4489,14 @@
       "onboard_time": 1742124804,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173526,
+      "num": 390800,
+      "word": "蒋欣看华妃番外有感而发",
+      "onboard_time": 1742270784,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 173201,
@@ -5225,6 +5257,14 @@
       "onboard_time": 1742183602,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 147419,
+      "num": 483663,
+      "word": "唐九洲的时光礼物",
+      "onboard_time": 1742272645,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 147235,
@@ -6443,12 +6483,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104253,
-      "num": 418356,
-      "word": "华莱士发致歉信",
-      "onboard_time": 1742271925,
-      "rank": 24,
-      "category": "民生新闻"
+      "raw_hot": 105123,
+      "num": 687619,
+      "word": "檀健次把夏日滤镜穿身上了",
+      "onboard_time": 1742269405,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 104995,
+      "num": 1240666,
+      "word": "三十条举措提振消费信心",
+      "onboard_time": 1742270364,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 103960,
@@ -6472,14 +6520,6 @@
       "word": "在日本偶遇邓超孙俪一家游玩",
       "onboard_time": 1742123722,
       "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 103143,
-      "num": 687619,
-      "word": "檀健次把夏日滤镜穿身上了",
-      "onboard_time": 1742269405,
-      "rank": 49,
       "category": "艺人"
     },
     {
@@ -6667,14 +6707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 96410,
-      "num": 390800,
-      "word": "蒋欣看华妃番外有感而发",
-      "onboard_time": 1742270784,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 96316,
       "num": 96316,
       "word": "杨紫在千岛湖开心下班",
@@ -6809,14 +6841,6 @@
       "onboard_time": 1742270725,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 91332,
-      "num": 1240666,
-      "word": "三十条举措提振消费信心",
-      "onboard_time": 1742270364,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 91262,
@@ -6979,6 +7003,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 81098,
+      "num": 538409,
+      "word": "顾客吃完华莱士连上6次厕所",
+      "onboard_time": 1742269405,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80985,
       "num": 405887,
       "word": "屈臣氏下架电商平台同款霉斑内裤",
@@ -7056,14 +7088,6 @@
       "word": "鼓励有条件的地方设置中小学春秋假",
       "onboard_time": 1742202803,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 75506,
-      "num": 389618,
-      "word": "顾客吃完华莱士连上6次厕所",
-      "onboard_time": 1742269405,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -7739,6 +7763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36719,
+      "num": 389210,
+      "word": "南京图书馆回应数字资源遭盗版贩卖",
+      "onboard_time": 1742271325,
+      "rank": 29,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 36574,
       "num": 218707,
       "word": "犬夜叉犬薇又美好了",
@@ -7867,6 +7899,22 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 32250,
+      "num": 471800,
+      "word": "华莱士对涉事门店永久关闭",
+      "onboard_time": 1742272404,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 30791,
+      "num": 273102,
+      "word": "600双旧鞋堆成一座金字塔",
+      "onboard_time": 1742270903,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30750,
       "num": 263567,
       "word": "张本智和说与王楚钦比赛处于劣势",
@@ -7979,14 +8027,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 28058,
-      "num": 389210,
-      "word": "南京图书馆回应数字资源遭盗版贩卖",
-      "onboard_time": 1742271325,
-      "rank": 29,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 27772,
       "num": 279292,
       "word": "市场监管总局回应315晚会曝光",
@@ -8049,14 +8089,6 @@
       "onboard_time": 1742205682,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 25146,
-      "num": 273102,
-      "word": "600双旧鞋堆成一座金字塔",
-      "onboard_time": 1742270903,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25116,
