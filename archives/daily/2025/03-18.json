@@ -1,6 +1,6 @@
 {
   "startTime": 1742229077214,
-  "endTime": 1742273009518,
+  "endTime": 1742275413515,
   "band_list": [
     {
       "raw_hot": 2393654,
@@ -59,12 +59,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1447275,
+      "num": 682923,
+      "word": "赵丽颖早期评价来自星星的你",
+      "onboard_time": 1742273605,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1411300,
       "num": 1411300,
       "word": "小米生态链总经理删除不做卫生巾微博",
       "onboard_time": 1742259083,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1312654,
+      "num": 1312654,
+      "word": "李嘉诚",
+      "onboard_time": 1742272225,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1214302,
@@ -107,6 +123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 914702,
+      "num": 914702,
+      "word": "女生攒钱百万被DeepSeek辣评无效存钱",
+      "onboard_time": 1742270845,
+      "rank": 26,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 864666,
       "num": 864666,
       "word": "平价不是蜜雪冰城的万能挡箭牌",
@@ -139,14 +163,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 787345,
-      "num": 787345,
-      "word": "女生攒钱百万被DeepSeek辣评无效存钱",
-      "onboard_time": 1742270845,
-      "rank": 26,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 779478,
       "num": 779478,
       "word": "医院被举报代孕后又涉嫌重操旧业",
@@ -160,6 +176,14 @@
       "word": "裴勇俊",
       "onboard_time": 1742256382,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 754592,
+      "num": 754592,
+      "word": "鞠婧祎起诉丝芭开庭因故取消",
+      "onboard_time": 1742272945,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -187,6 +211,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 726531,
+      "num": 726531,
+      "word": "华莱士发致歉信",
+      "onboard_time": 1742271925,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 723800,
       "num": 723800,
       "word": "中方决不接受七国集团甩锅推责",
@@ -211,11 +243,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 642425,
+      "num": 642425,
+      "word": "1999年出生 努努力可以活三个世纪",
+      "onboard_time": 1742271024,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 641599,
       "num": 509221,
       "word": "田曦薇 别让我在外面丢人",
       "onboard_time": 1742257044,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 636005,
+      "num": 636005,
+      "word": "最能吃苦的那代人投胎回来了",
+      "onboard_time": 1742270903,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 629926,
+      "num": 629926,
+      "word": "金赛纶在搬家前一天自杀",
+      "onboard_time": 1742274624,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -283,14 +339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 448764,
-      "num": 594203,
-      "word": "华莱士发致歉信",
-      "onboard_time": 1742271925,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 431829,
       "num": 431829,
       "word": "老板为证清白直播吃自家黄焖鸡",
@@ -305,14 +353,6 @@
       "onboard_time": 1742270964,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 413416,
-      "num": 413416,
-      "word": "最能吃苦的那代人投胎回来了",
-      "onboard_time": 1742270903,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 405465,
@@ -339,14 +379,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 373389,
-      "num": 373389,
-      "word": "1999年出生 努努力可以活三个世纪",
-      "onboard_time": 1742271024,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 372928,
       "num": 372928,
       "word": "孟子义李昀锐香港活动g社生图",
@@ -369,6 +401,14 @@
       "onboard_time": 1742213064,
       "rank": 7,
       "category": "财经"
+    },
+    {
+      "raw_hot": 343905,
+      "num": 343905,
+      "word": "严浩翔 新说唱导师",
+      "onboard_time": 1742274503,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 343124,
@@ -400,6 +440,22 @@
       "word": "辽阳多名出租车司机围堵网约车司机",
       "onboard_time": 1742260343,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 310818,
+      "num": 310818,
+      "word": "凡客卫生巾要来了",
+      "onboard_time": 1742273364,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 301450,
+      "num": 407237,
+      "word": "梁振英间接回应李嘉诚出售巴拿马港口",
+      "onboard_time": 1742269970,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -435,6 +491,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 283586,
+      "num": 691234,
+      "word": "李家超回应李嘉诚拟出售巴拿马港口",
+      "onboard_time": 1742273485,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 280015,
+      "num": 280015,
+      "word": "凤囚凰",
+      "onboard_time": 1742273304,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 277080,
       "num": 277080,
       "word": "23岁女子体检异常未复查确诊尿毒症",
@@ -449,6 +521,14 @@
       "onboard_time": 1742268143,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 273408,
+      "num": 273408,
+      "word": "蜜雪冰城改24小时营业",
+      "onboard_time": 1742275102,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 271987,
@@ -473,22 +553,6 @@
       "onboard_time": 1742271024,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 257299,
-      "num": 257299,
-      "word": "鞠婧祎起诉丝芭开庭因故取消",
-      "onboard_time": 1742272945,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 254697,
-      "num": 254697,
-      "word": "梁振英间接回应李嘉诚出售巴拿马港口",
-      "onboard_time": 1742269970,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 253667,
@@ -563,6 +627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234235,
+      "num": 275214,
+      "word": "杨紫换车巡骑了",
+      "onboard_time": 1742273905,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233072,
       "num": 233072,
       "word": "外交部批七国集团外长会联合声明",
@@ -611,6 +683,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 208048,
+      "num": 208048,
+      "word": "湖人",
+      "onboard_time": 1742274025,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 207289,
+      "num": 207288,
+      "word": "鹅鸭杀手游来了",
+      "onboard_time": 1742273905,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 206921,
       "num": 206921,
       "word": "鹅鸭杀称已敲定中国合作伙伴",
@@ -643,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201730,
+      "num": 201730,
+      "word": "蜜雪冰城总部新规",
+      "onboard_time": 1742275165,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200557,
       "num": 200557,
       "word": "短剧女演员余茵进组于正新剧",
@@ -667,20 +763,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 196626,
-      "num": 196626,
-      "word": "李嘉诚",
-      "onboard_time": 1742272225,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 195197,
       "num": 464742,
       "word": "华莱士过期食材换标签续命",
       "onboard_time": 1742267301,
       "rank": 28,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 193542,
+      "num": 193542,
+      "word": "四六级网站 进不去",
+      "onboard_time": 1742275043,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 193530,
@@ -723,12 +819,44 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 188129,
+      "num": 188129,
+      "word": "惹到何老师算踢到钢板了",
+      "onboard_time": 1742273065,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 186270,
+      "num": 186270,
+      "word": "怪不得找工作都说要有经验的",
+      "onboard_time": 1742274624,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 185896,
+      "num": 185896,
+      "word": "澳门乒乓球世界杯赛程公布",
+      "onboard_time": 1742274264,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183746,
       "num": 183746,
       "word": "每周减1至2斤是健康减肥速度",
       "onboard_time": 1742265682,
       "rank": 35,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 182735,
+      "num": 207289,
+      "word": "谁家男女主又争又抢的对象是男二",
+      "onboard_time": 1742274025,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 182512,
@@ -841,6 +969,14 @@
       "onboard_time": 1742268443,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 153562,
+      "num": 687619,
+      "word": "檀健次把夏日滤镜穿身上了",
+      "onboard_time": 1742269405,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 152949,
@@ -1011,6 +1147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116024,
+      "num": 1322555,
+      "word": "三十条举措提振消费信心",
+      "onboard_time": 1742270364,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 115360,
       "num": 115360,
       "word": "韩半导体对华出口暴跌",
@@ -1067,6 +1211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108487,
+      "num": 279520,
+      "word": "投资人不意外阿里打出夸克这张牌",
+      "onboard_time": 1742273425,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 106360,
       "num": 106360,
       "word": "湖南卫视连发15条张杰",
@@ -1097,22 +1249,6 @@
       "onboard_time": 1742245634,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105123,
-      "num": 687619,
-      "word": "檀健次把夏日滤镜穿身上了",
-      "onboard_time": 1742269405,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 104995,
-      "num": 1240666,
-      "word": "三十条举措提振消费信心",
-      "onboard_time": 1742270364,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 103960,
@@ -1289,6 +1425,14 @@
       "onboard_time": 1742269405,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79855,
+      "num": 227704,
+      "word": "费启鸣重返240斤vlog",
+      "onboard_time": 1742275342,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 78901,
@@ -1531,6 +1675,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 41063,
+      "num": 312022,
+      "word": "秦彻抓到了",
+      "onboard_time": 1742274624,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 38762,
       "num": 396806,
       "word": "你愿意为AI医疗产品额外付费吗",
@@ -1609,6 +1761,14 @@
       "onboard_time": 1742232316,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25533,
+      "num": 277468,
+      "word": "微短剧套娃式吸金中老年人",
+      "onboard_time": 1742274924,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 25116,

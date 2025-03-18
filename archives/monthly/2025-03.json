@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742273009518,
+  "endTime": 1742275413515,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -1979,6 +1979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1447275,
+      "num": 682923,
+      "word": "赵丽颖早期评价来自星星的你",
+      "onboard_time": 1742273605,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1447255,
       "num": 470138,
       "word": "情侣住民宿被偷拍传到境外网站",
@@ -2281,6 +2289,14 @@
       "onboard_time": 1741789045,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1312654,
+      "num": 1312654,
+      "word": "李嘉诚",
+      "onboard_time": 1742052329,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1312405,
@@ -4283,6 +4299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 914702,
+      "num": 914702,
+      "word": "女生攒钱百万被DeepSeek辣评无效存钱",
+      "onboard_time": 1742270845,
+      "rank": 26,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 913407,
       "num": 319491,
       "word": "董力一家四口全家福",
@@ -5315,14 +5339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 787345,
-      "num": 787345,
-      "word": "女生攒钱百万被DeepSeek辣评无效存钱",
-      "onboard_time": 1742270845,
-      "rank": 26,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 787167,
       "num": 605306,
       "word": "阿衰 快乐没有结局",
@@ -5715,6 +5731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 754592,
+      "num": 754592,
+      "word": "鞠婧祎起诉丝芭开庭因故取消",
+      "onboard_time": 1742272945,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 754557,
       "num": 473325,
       "word": "金秀贤眼泪女王快闪店人流冷清",
@@ -5977,6 +6001,14 @@
       "onboard_time": 1742256262,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 726531,
+      "num": 726531,
+      "word": "华莱士发致歉信",
+      "onboard_time": 1742271925,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 726376,
@@ -6899,6 +6931,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 642425,
+      "num": 642425,
+      "word": "1999年出生 努努力可以活三个世纪",
+      "onboard_time": 1742271024,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 641784,
       "num": 641784,
       "word": "小米SU7Ultra车标中炼出黄金",
@@ -6985,6 +7025,14 @@
       "onboard_time": 1741520421,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 636005,
+      "num": 636005,
+      "word": "最能吃苦的那代人投胎回来了",
+      "onboard_time": 1742270903,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 635810,
@@ -7096,6 +7144,14 @@
       "word": "向佐虾系男友身材",
       "onboard_time": 1741170559,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 629926,
+      "num": 629926,
+      "word": "金赛纶在搬家前一天自杀",
+      "onboard_time": 1742274624,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -10251,14 +10307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 448764,
-      "num": 594203,
-      "word": "华莱士发致歉信",
-      "onboard_time": 1742271925,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 448402,
       "num": 349030,
       "word": "日本女孩直播时被杀粉丝全程目睹",
@@ -11097,14 +11145,6 @@
       "onboard_time": 1741237758,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 413416,
-      "num": 413416,
-      "word": "最能吃苦的那代人投胎回来了",
-      "onboard_time": 1742270903,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 413353,
@@ -11955,14 +11995,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 384888,
-      "num": 384888,
-      "word": "李嘉诚",
-      "onboard_time": 1742052329,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 384813,
       "num": 384813,
       "word": "苹果发布M3芯片iPadAir",
@@ -12313,14 +12345,6 @@
       "onboard_time": 1742031625,
       "rank": 8,
       "category": "演出"
-    },
-    {
-      "raw_hot": 373389,
-      "num": 373389,
-      "word": "1999年出生 努努力可以活三个世纪",
-      "onboard_time": 1742271024,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 373283,
@@ -13457,6 +13481,14 @@
       "onboard_time": 1741533382,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 343905,
+      "num": 343905,
+      "word": "严浩翔 新说唱导师",
+      "onboard_time": 1742274503,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 343835,
@@ -14731,6 +14763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 310818,
+      "num": 310818,
+      "word": "凡客卫生巾要来了",
+      "onboard_time": 1742273364,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 310526,
       "num": 288413,
       "word": "黄圣依参加最强大脑受伤的是儿子",
@@ -15089,6 +15129,14 @@
       "onboard_time": 1742129244,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 301450,
+      "num": 407237,
+      "word": "梁振英间接回应李嘉诚出售巴拿马港口",
+      "onboard_time": 1742269970,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 301345,
@@ -16003,6 +16051,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 283586,
+      "num": 691234,
+      "word": "李家超回应李嘉诚拟出售巴拿马港口",
+      "onboard_time": 1742273485,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 283264,
       "num": 283264,
       "word": "偶遇宋茜周冬雨逛街",
@@ -16177,6 +16233,14 @@
       "onboard_time": 1741935202,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 280015,
+      "num": 280015,
+      "word": "凤囚凰",
+      "onboard_time": 1742273304,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 279954,
@@ -16561,6 +16625,14 @@
       "onboard_time": 1742181983,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 273408,
+      "num": 273408,
+      "word": "蜜雪冰城改24小时营业",
+      "onboard_time": 1742275102,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 273321,
@@ -17563,14 +17635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 257299,
-      "num": 257299,
-      "word": "鞠婧祎起诉丝芭开庭因故取消",
-      "onboard_time": 1742272945,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 256998,
       "num": 256998,
       "word": "年轻人重新养自己到底是在养什么",
@@ -17697,14 +17761,6 @@
       "onboard_time": 1741862364,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 254697,
-      "num": 254697,
-      "word": "梁振英间接回应李嘉诚出售巴拿马港口",
-      "onboard_time": 1742269970,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 254660,
@@ -18985,6 +19041,14 @@
       "onboard_time": 1742029584,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 234235,
+      "num": 275214,
+      "word": "杨紫换车巡骑了",
+      "onboard_time": 1742273905,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 234232,
@@ -21571,6 +21635,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 208048,
+      "num": 208048,
+      "word": "湖人",
+      "onboard_time": 1742274025,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207921,
       "num": 553495,
       "word": "李惠利朴彩英合照",
@@ -21665,6 +21737,14 @@
       "onboard_time": 1740910759,
       "rank": 40,
       "category": "体育,汽车"
+    },
+    {
+      "raw_hot": 207289,
+      "num": 207288,
+      "word": "鹅鸭杀手游来了",
+      "onboard_time": 1742273905,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 207268,
@@ -22545,6 +22625,14 @@
       "onboard_time": 1740990198,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 201730,
+      "num": 201730,
+      "word": "蜜雪冰城总部新规",
+      "onboard_time": 1742275165,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 201494,
@@ -23891,6 +23979,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 193542,
+      "num": 193542,
+      "word": "四六级网站 进不去",
+      "onboard_time": 1742275043,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 193530,
       "num": 318871,
       "word": "白鹿奔跑吧18宫格",
@@ -24843,6 +24939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188129,
+      "num": 188129,
+      "word": "惹到何老师算踢到钢板了",
+      "onboard_time": 1742273065,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188104,
       "num": 188104,
       "word": "巴基斯坦载超400人火车遇袭",
@@ -25251,6 +25355,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 186270,
+      "num": 186270,
+      "word": "怪不得找工作都说要有经验的",
+      "onboard_time": 1742274624,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 186214,
       "num": 278825,
       "word": "任容萱为104岁外婆庆生",
@@ -25281,6 +25393,14 @@
       "onboard_time": 1740849735,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185896,
+      "num": 185896,
+      "word": "澳门乒乓球世界杯赛程公布",
+      "onboard_time": 1742274264,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 185867,
@@ -25728,6 +25848,14 @@
       "word": "聂远两部剧承包央八黄金档",
       "onboard_time": 1740802278,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 182735,
+      "num": 207289,
+      "word": "谁家男女主又争又抢的对象是男二",
+      "onboard_time": 1742274025,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -31049,6 +31177,14 @@
       "onboard_time": 1742117782,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 153562,
+      "num": 687619,
+      "word": "檀健次把夏日滤镜穿身上了",
+      "onboard_time": 1742269405,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 153500,
@@ -39155,6 +39291,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 116024,
+      "num": 1322555,
+      "word": "三十条举措提振消费信心",
+      "onboard_time": 1742270364,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 115995,
       "num": 115995,
       "word": "咬撬棍救人的大哥找到了",
@@ -40771,6 +40915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108487,
+      "num": 279520,
+      "word": "投资人不意外阿里打出夸克这张牌",
+      "onboard_time": 1742273425,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 108477,
       "num": 330655,
       "word": "10家美国公司对台军售或有所谓军事合作",
@@ -41563,14 +41715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105123,
-      "num": 687619,
-      "word": "檀健次把夏日滤镜穿身上了",
-      "onboard_time": 1742269405,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 105013,
       "num": 171743,
       "word": "张云龙直播",
@@ -41585,14 +41729,6 @@
       "onboard_time": 1741784723,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 104995,
-      "num": 1240666,
-      "word": "三十条举措提振消费信心",
-      "onboard_time": 1742270364,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 104973,
@@ -45929,6 +46065,14 @@
       "onboard_time": 1740879856,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 79855,
+      "num": 227704,
+      "word": "费启鸣重返240斤vlog",
+      "onboard_time": 1742275342,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 79802,
@@ -51059,6 +51203,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 41063,
+      "num": 312022,
+      "word": "秦彻抓到了",
+      "onboard_time": 1742274624,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 41046,
       "num": 234031,
       "word": "媒体评对药械药品灵魂砍价要适度",
@@ -53905,6 +54057,14 @@
       "onboard_time": 1741621703,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 25533,
+      "num": 277468,
+      "word": "微短剧套娃式吸金中老年人",
+      "onboard_time": 1742274924,
+      "rank": 29,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 25521,
