@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742340169291,
+  "endTime": 1742341001986,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -547,6 +547,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 1361686,
+      "num": 1361686,
+      "word": "不要一边充电一边看手机",
+      "onboard_time": 1742325015,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1347491,
       "num": 342718,
       "word": "金智媛是真的很不想理金秀贤",
@@ -609,14 +617,6 @@
       "onboard_time": 1742279783,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1278250,
-      "num": 1278250,
-      "word": "不要一边充电一边看手机",
-      "onboard_time": 1742325015,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1275399,
@@ -745,6 +745,14 @@
       "onboard_time": 1742137105,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1169332,
+      "num": 1169332,
+      "word": "男子请客获海底捞补偿朋友要求平分",
+      "onboard_time": 1742307804,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1164089,
@@ -985,14 +993,6 @@
       "onboard_time": 1742101882,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 969704,
-      "num": 969704,
-      "word": "男子请客获海底捞补偿朋友要求平分",
-      "onboard_time": 1742307804,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 966621,
@@ -1955,6 +1955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 547203,
+      "num": 298553,
+      "word": "金秀贤方被曝在中国实名删帖",
+      "onboard_time": 1742305103,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 545064,
       "num": 545064,
       "word": "台军发解放军95式步枪奖杯",
@@ -2049,14 +2057,6 @@
       "onboard_time": 1742049514,
       "rank": 42,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 522827,
-      "num": 298553,
-      "word": "金秀贤方被曝在中国实名删帖",
-      "onboard_time": 1742305103,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 522208,
@@ -3107,6 +3107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 290828,
+      "num": 262938,
+      "word": "虞书欣美得我一激灵",
+      "onboard_time": 1742317696,
+      "rank": 21,
+      "category": "剧集,艺人"
+    },
+    {
       "raw_hot": 290214,
       "num": 406078,
       "word": "孟子义何与领衔主演百花杀",
@@ -3417,14 +3425,6 @@
       "onboard_time": 1742306844,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 262938,
-      "num": 262938,
-      "word": "虞书欣美得我一激灵",
-      "onboard_time": 1742317696,
-      "rank": 21,
-      "category": "剧集,艺人"
     },
     {
       "raw_hot": 262476,
@@ -5748,7 +5748,7 @@
     },
     {
       "raw_hot": 167591,
-      "num": 64464,
+      "num": 66980,
       "word": "懒vs抑郁",
       "onboard_time": 1742318776,
       "rank": 25,
@@ -5881,6 +5881,14 @@
       "onboard_time": 1742135906,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163390,
+      "num": 163390,
+      "word": "温峥嵘演技",
+      "onboard_time": 1742337376,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 162869,
@@ -7819,6 +7827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 113527,
+      "num": 169665,
+      "word": "普京重申和平解决冲突的立场",
+      "onboard_time": 1742339900,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 113451,
       "num": 114605,
       "word": "四六级报名",
@@ -7833,6 +7849,14 @@
       "onboard_time": 1742224404,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 113403,
+      "num": 113403,
+      "word": "小米汽车单台平均亏损4.5万元",
+      "onboard_time": 1742340801,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 113060,
@@ -7875,14 +7899,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 111681,
-      "num": 111681,
-      "word": "温峥嵘演技",
-      "onboard_time": 1742337376,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 111335,
       "num": 111335,
       "word": "虞书欣林一这条共创好抽象",
@@ -7913,14 +7929,6 @@
       "onboard_time": 1742204902,
       "rank": 48,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 110661,
-      "num": 162136,
-      "word": "普京重申和平解决冲突的立场",
-      "onboard_time": 1742339900,
-      "rank": 16,
-      "category": "国际时政"
     },
     {
       "raw_hot": 110595,
@@ -8571,6 +8579,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 86695,
+      "num": 86695,
+      "word": "新家甲醛超标20倍装修公司赔10万",
+      "onboard_time": 1742336776,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86544,
       "num": 282658,
       "word": "女子因丈夫吸烟患上了抑郁障碍",
@@ -8963,14 +8979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 64985,
-      "num": 64985,
-      "word": "新家甲醛超标20倍装修公司赔10万",
-      "onboard_time": 1742336776,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 63962,
       "num": 174897,
       "word": "6分钟夸克AI极速入门",
@@ -9051,6 +9059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60944,
+      "num": 60944,
+      "word": "特朗普称将公布8万页肯尼迪遇刺案文件",
+      "onboard_time": 1742320516,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 60677,
       "num": 346100,
       "word": "孙颖莎说要更重视日本年轻选手",
@@ -9073,6 +9089,14 @@
       "onboard_time": 1742213784,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 59746,
+      "num": 59746,
+      "word": "赵丽颖王伊瑶与凤行一周年营业视频",
+      "onboard_time": 1742338998,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 59605,
@@ -9105,6 +9129,14 @@
       "onboard_time": 1742228780,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 57501,
+      "num": 57501,
+      "word": "金价再上历史高位",
+      "onboard_time": 1742334974,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 56771,
@@ -9283,6 +9315,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 51666,
+      "num": 51666,
+      "word": "金赛纶遗属将对照片数字取证",
+      "onboard_time": 1742327533,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51619,
       "num": 51619,
       "word": "susu福福",
@@ -9337,6 +9377,14 @@
       "onboard_time": 1742216543,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50417,
+      "num": 50417,
+      "word": "成毅新剧亮相香港国际影视展",
+      "onboard_time": 1742340560,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 50004,
@@ -9395,36 +9443,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 48514,
-      "num": 48514,
-      "word": "特朗普称将公布8万页肯尼迪遇刺案文件",
-      "onboard_time": 1742320516,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 48185,
-      "num": 48185,
-      "word": "赵丽颖王伊瑶与凤行一周年营业视频",
-      "onboard_time": 1742338998,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 48093,
       "num": 48093,
       "word": "当地市监局回应男童往玻璃杯小便",
       "onboard_time": 1742326753,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 47865,
-      "num": 47865,
-      "word": "金价再上历史高位",
-      "onboard_time": 1742334974,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 46401,
@@ -9673,14 +9697,6 @@
       "onboard_time": 1742286263,
       "rank": 22,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 38334,
-      "num": 47863,
-      "word": "金赛纶遗属将对照片数字取证",
-      "onboard_time": 1742327533,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 38153,

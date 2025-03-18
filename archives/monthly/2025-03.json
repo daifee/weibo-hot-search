@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742340169291,
+  "endTime": 1742341001986,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -2291,6 +2291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1361686,
+      "num": 1361686,
+      "word": "不要一边充电一边看手机",
+      "onboard_time": 1742325015,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1353238,
       "num": 1353238,
       "word": "杨铭宇黄焖鸡道歉",
@@ -2512,14 +2520,6 @@
       "word": "济南因暴雪停课",
       "onboard_time": 1740911059,
       "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1278250,
-      "num": 1278250,
-      "word": "不要一边充电一边看手机",
-      "onboard_time": 1742325015,
-      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -3017,6 +3017,14 @@
       "onboard_time": 1740998358,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1169332,
+      "num": 1169332,
+      "word": "男子请客获海底捞补偿朋友要求平分",
+      "onboard_time": 1742307804,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1164112,
@@ -4113,14 +4121,6 @@
       "onboard_time": 1741239377,
       "rank": 37,
       "category": "教育"
-    },
-    {
-      "raw_hot": 969704,
-      "num": 969704,
-      "word": "男子请客获海底捞补偿朋友要求平分",
-      "onboard_time": 1742307804,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 968179,
@@ -8955,6 +8955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 547203,
+      "num": 298553,
+      "word": "金秀贤方被曝在中国实名删帖",
+      "onboard_time": 1742305103,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 545064,
       "num": 545064,
       "word": "台军发解放军95式步枪奖杯",
@@ -9345,14 +9353,6 @@
       "onboard_time": 1740816924,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 522827,
-      "num": 298553,
-      "word": "金秀贤方被曝在中国实名删帖",
-      "onboard_time": 1742305103,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 522423,
@@ -16283,6 +16283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 290828,
+      "num": 262938,
+      "word": "虞书欣美得我一激灵",
+      "onboard_time": 1742317696,
+      "rank": 21,
+      "category": "剧集,艺人"
+    },
+    {
       "raw_hot": 290808,
       "num": 290808,
       "word": "jennie新歌和apt采样了同一首歌",
@@ -17865,14 +17873,6 @@
       "onboard_time": 1742306844,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 262938,
-      "num": 262938,
-      "word": "虞书欣美得我一激灵",
-      "onboard_time": 1742317696,
-      "rank": 21,
-      "category": "剧集,艺人"
     },
     {
       "raw_hot": 262798,
@@ -29252,7 +29252,7 @@
     },
     {
       "raw_hot": 167591,
-      "num": 64464,
+      "num": 66980,
       "word": "懒vs抑郁",
       "onboard_time": 1742318776,
       "rank": 25,
@@ -30161,6 +30161,14 @@
       "onboard_time": 1742135906,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163390,
+      "num": 163390,
+      "word": "温峥嵘演技",
+      "onboard_time": 1742337376,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 163365,
@@ -41203,6 +41211,14 @@
       "category": "国内时政,互联网"
     },
     {
+      "raw_hot": 113527,
+      "num": 169665,
+      "word": "普京重申和平解决冲突的立场",
+      "onboard_time": 1742339900,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 113511,
       "num": 181392,
       "word": "MC梦说SM登门道歉",
@@ -41241,6 +41257,14 @@
       "onboard_time": 1741081103,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113403,
+      "num": 113403,
+      "word": "小米汽车单台平均亏损4.5万元",
+      "onboard_time": 1742340801,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 113394,
@@ -41659,14 +41683,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 111681,
-      "num": 111681,
-      "word": "温峥嵘演技",
-      "onboard_time": 1742337376,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 111544,
       "num": 111544,
       "word": "杭州六小龙让广东兄弟摩拳擦掌",
@@ -41873,14 +41889,6 @@
       "onboard_time": 1742204902,
       "rank": 48,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 110661,
-      "num": 162136,
-      "word": "普京重申和平解决冲突的立场",
-      "onboard_time": 1742339900,
-      "rank": 16,
-      "category": "国际时政"
     },
     {
       "raw_hot": 110658,
@@ -46659,6 +46667,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 86695,
+      "num": 86695,
+      "word": "新家甲醛超标20倍装修公司赔10万",
+      "onboard_time": 1742336776,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86658,
       "num": 86658,
       "word": "动物园网红猩猩扔草皮砸倒女游客",
@@ -49435,14 +49451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 64985,
-      "num": 64985,
-      "word": "新家甲醛超标20倍装修公司赔10万",
-      "onboard_time": 1742336776,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 64932,
       "num": 220254,
       "word": "夸克没有接入Deepseek选择自研",
@@ -49955,6 +49963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60944,
+      "num": 60944,
+      "word": "特朗普称将公布8万页肯尼迪遇刺案文件",
+      "onboard_time": 1742320516,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 60834,
       "num": 187269,
       "word": "瑷尔博士员工都去拧螺丝了",
@@ -50081,6 +50097,14 @@
       "onboard_time": 1741145720,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 59746,
+      "num": 59746,
+      "word": "赵丽颖王伊瑶与凤行一周年营业视频",
+      "onboard_time": 1742338998,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 59706,
@@ -50369,6 +50393,14 @@
       "onboard_time": 1741061778,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57501,
+      "num": 57501,
+      "word": "金价再上历史高位",
+      "onboard_time": 1742334974,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 57435,
@@ -51363,6 +51395,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 51666,
+      "num": 51666,
+      "word": "金赛纶遗属将对照片数字取证",
+      "onboard_time": 1742327533,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51619,
       "num": 51619,
       "word": "susu福福",
@@ -51585,6 +51625,14 @@
       "onboard_time": 1741822521,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 50417,
+      "num": 50417,
+      "word": "成毅新剧亮相香港国际影视展",
+      "onboard_time": 1742340560,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 50135,
@@ -51875,14 +51923,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 48514,
-      "num": 48514,
-      "word": "特朗普称将公布8万页肯尼迪遇刺案文件",
-      "onboard_time": 1742320516,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 48476,
       "num": 140920,
       "word": "任嘉伦篮球知识储备太强了",
@@ -51905,14 +51945,6 @@
       "onboard_time": 1741032490,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 48185,
-      "num": 48185,
-      "word": "赵丽颖王伊瑶与凤行一周年营业视频",
-      "onboard_time": 1742338998,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 48093,
@@ -51945,14 +51977,6 @@
       "onboard_time": 1741610786,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 47865,
-      "num": 47865,
-      "word": "金价再上历史高位",
-      "onboard_time": 1742334974,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 47710,
@@ -53513,14 +53537,6 @@
       "onboard_time": 1740997220,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 38334,
-      "num": 47863,
-      "word": "金赛纶遗属将对照片数字取证",
-      "onboard_time": 1742327533,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 38214,
