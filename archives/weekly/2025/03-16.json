@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742302040977,
+  "endTime": 1742302943971,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -203,6 +203,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 2083889,
+      "num": 2083889,
+      "word": "辛云来 古装丑男",
+      "onboard_time": 1742299283,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2061435,
       "num": 372381,
       "word": "金秀贤方要金赛纶赔偿眼泪女王损失",
@@ -273,14 +281,6 @@
       "onboard_time": 1742089883,
       "rank": 40,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1865420,
-      "num": 1865420,
-      "word": "辛云来 古装丑男",
-      "onboard_time": 1742299283,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 1856726,
@@ -1539,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 670048,
+      "num": 347687,
+      "word": "贵女 晴格格",
+      "onboard_time": 1742300184,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 665674,
       "num": 579489,
       "word": "韩国演员李诗英离婚",
@@ -1657,14 +1665,6 @@
       "onboard_time": 1742118202,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 602449,
-      "num": 302444,
-      "word": "贵女 晴格格",
-      "onboard_time": 1742300184,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 598319,
@@ -2203,6 +2203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 443131,
+      "num": 244988,
+      "word": "余承东邀尼格买提逛3200平的家",
+      "onboard_time": 1742301265,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 441836,
       "num": 441836,
       "word": "许府牛",
@@ -2529,6 +2537,14 @@
       "onboard_time": 1742118261,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 365220,
+      "num": 292025,
+      "word": "黎明现身7岁女儿校运会",
+      "onboard_time": 1742297423,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 363841,
@@ -3027,6 +3043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 282154,
+      "num": 275935,
+      "word": "谢兴阳发长文寻狗",
+      "onboard_time": 1742297242,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 281856,
       "num": 617988,
       "word": "赛琳娜低价出售男友送的钻戒",
@@ -3129,14 +3153,6 @@
       "onboard_time": 1742181802,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 275935,
-      "num": 275935,
-      "word": "谢兴阳发长文寻狗",
-      "onboard_time": 1742297242,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 275273,
@@ -3771,14 +3787,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 229135,
-      "num": 229135,
-      "word": "余承东邀尼格买提逛3200平的家",
-      "onboard_time": 1742301265,
-      "rank": 24,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 229105,
       "num": 220206,
       "word": "新款iPad侧面印中国制造",
@@ -3912,6 +3920,14 @@
       "word": "胡杏儿老公",
       "onboard_time": 1742283981,
       "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 220860,
+      "num": 220860,
+      "word": "赵丽颖王伊瑶插兜跳舞",
+      "onboard_time": 1742302044,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -4609,6 +4625,14 @@
       "onboard_time": 1742099662,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194713,
+      "num": 194713,
+      "word": "厦大学生为一口卤味劝和吵架夫妻",
+      "onboard_time": 1742300302,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194476,
@@ -5683,14 +5707,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 160911,
-      "num": 292025,
-      "word": "黎明现身7岁女儿校运会",
-      "onboard_time": 1742297423,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 160871,
       "num": 160871,
       "word": "肯尼迪遇刺约8万页文件将公布",
@@ -5873,14 +5889,6 @@
       "onboard_time": 1742057003,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 154523,
-      "num": 183420,
-      "word": "厦大学生为一口卤味劝和吵架夫妻",
-      "onboard_time": 1742300302,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 154394,
@@ -6233,6 +6241,14 @@
       "onboard_time": 1742222665,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 146012,
+      "num": 146012,
+      "word": "夫妻争吵妻子跳楼致残被丈夫送回娘家",
+      "onboard_time": 1742302643,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145938,
@@ -6667,6 +6683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133969,
+      "num": 655778,
+      "word": "维多利亚港郑州分港",
+      "onboard_time": 1742297242,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133812,
       "num": 133812,
       "word": "董思成说杨肸子像汽水",
@@ -6692,7 +6716,7 @@
     },
     {
       "raw_hot": 133220,
-      "num": 133220,
+      "num": 265149,
       "word": "极氪发布L3级技术架构",
       "onboard_time": 1742301622,
       "rank": 38,
@@ -6955,14 +6979,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 125987,
-      "num": 655778,
-      "word": "维多利亚港郑州分港",
-      "onboard_time": 1742297242,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125547,
       "num": 125547,
       "word": "对抗路情侣",
@@ -6993,6 +7009,14 @@
       "onboard_time": 1742106383,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 125038,
+      "num": 125038,
+      "word": "林俊杰Vlog",
+      "onboard_time": 1742302223,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 125017,
@@ -7315,12 +7339,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116466,
+      "num": 116466,
+      "word": "美国政府如何利用网红抹黑中国",
+      "onboard_time": 1742301324,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 116217,
       "num": 116217,
       "word": "LPL第二赛段赛程",
       "onboard_time": 1742206823,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 116202,
+      "num": 247704,
+      "word": "孙颖莎12个冠军王楚钦8个冠军",
+      "onboard_time": 1742297843,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 116024,
@@ -7627,12 +7667,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104628,
-      "num": 104628,
-      "word": "美国政府如何利用网红抹黑中国",
-      "onboard_time": 1742301324,
-      "rank": 48,
-      "category": "国际时政"
+      "raw_hot": 104761,
+      "num": 221889,
+      "word": "公安部提醒发现此类线索立即报警",
+      "onboard_time": 1742302404,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103960,
@@ -7737,6 +7777,14 @@
       "onboard_time": 1742166978,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100133,
+      "num": 123682,
+      "word": "极氪发布满血版车位到车位",
+      "onboard_time": 1742302463,
+      "rank": 43,
+      "category": "汽车,互联网"
     },
     {
       "raw_hot": 99869,
@@ -7857,14 +7905,6 @@
       "onboard_time": 1742226021,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 96252,
-      "num": 96252,
-      "word": "孙颖莎12个冠军王楚钦8个冠军",
-      "onboard_time": 1742297843,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 94946,
@@ -8097,6 +8137,14 @@
       "onboard_time": 1742262921,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 86544,
+      "num": 282658,
+      "word": "女子因丈夫吸烟患上了抑郁障碍",
+      "onboard_time": 1742301083,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85395,
@@ -9059,14 +9107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 38056,
-      "num": 282658,
-      "word": "女子因丈夫吸烟患上了抑郁障碍",
-      "onboard_time": 1742301083,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 38031,
       "num": 38031,
       "word": "平邑3家黄桃罐头厂被查封",
@@ -9643,6 +9683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20925,
+      "num": 125339,
+      "word": "提振消费打出组合拳",
+      "onboard_time": 1742302583,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20652,
       "num": 38877,
       "word": "重庆通报啄木鸟公司调查情况",
@@ -9825,6 +9873,14 @@
       "onboard_time": 1742235976,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 11644,
+      "num": 399594,
+      "word": "9图了解提振消费专项行动方案",
+      "onboard_time": 1742302823,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11635,
