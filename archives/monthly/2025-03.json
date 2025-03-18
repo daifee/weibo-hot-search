@@ -1,6 +1,6 @@
 {
   "startTime": 1740760172219,
-  "endTime": 1742330343413,
+  "endTime": 1742332942430,
   "band_list": [
     {
       "raw_hot": 38838775,
@@ -28819,6 +28819,14 @@
       "category": "体育,美食"
     },
     {
+      "raw_hot": 169392,
+      "num": 169392,
+      "word": "不要一边充电一边看手机",
+      "onboard_time": 1742325015,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169305,
       "num": 212597,
       "word": "虞书欣卫枝单眼落泪",
@@ -32393,14 +32401,6 @@
       "onboard_time": 1741330583,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 152763,
-      "num": 35858,
-      "word": "不要一边充电一边看手机",
-      "onboard_time": 1742325015,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 152745,
@@ -56899,6 +56899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20190,
+      "num": 35867,
+      "word": "记者卧底华莱士餐厅后厨",
+      "onboard_time": 1742329334,
+      "rank": 38,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 20188,
       "num": 42943,
       "word": "过去一年我国发展历程很不平凡",
@@ -57539,6 +57547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 16670,
+      "num": 16670,
+      "word": "当地市监局回应男童往玻璃杯小便",
+      "onboard_time": 1742326753,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16667,
       "num": 1245047,
       "word": "省考申论处女作诞生记",
@@ -57609,6 +57625,14 @@
       "onboard_time": 1741891394,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 16474,
+      "num": 16474,
+      "word": "金赛纶遗属将对照片数字取证",
+      "onboard_time": 1742327533,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 16245,
@@ -57745,14 +57769,6 @@
       "onboard_time": 1741205472,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 15382,
-      "num": 15382,
-      "word": "当地市监局回应男童往玻璃杯小便",
-      "onboard_time": 1742326753,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15372,
@@ -57929,14 +57945,6 @@
       "onboard_time": 1741719014,
       "rank": 44,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 14296,
-      "num": 14296,
-      "word": "金赛纶遗属将对照片数字取证",
-      "onboard_time": 1742327533,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 14170,
@@ -58275,6 +58283,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 12536,
+      "num": 15974,
+      "word": "中方敦促澳方尊重中国主权",
+      "onboard_time": 1742328973,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 12519,
       "num": 14784,
       "word": "两会100秒",
@@ -58289,14 +58305,6 @@
       "onboard_time": 1741277179,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 12462,
-      "num": 35867,
-      "word": "记者卧底华莱士餐厅后厨",
-      "onboard_time": 1742329334,
-      "rank": 38,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 12435,
@@ -58345,14 +58353,6 @@
       "onboard_time": 1741636394,
       "rank": 46,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 12262,
-      "num": 14074,
-      "word": "中方敦促澳方尊重中国主权",
-      "onboard_time": 1742328973,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 12260,

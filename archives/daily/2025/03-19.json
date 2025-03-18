@@ -1,6 +1,6 @@
 {
   "startTime": 1742315475336,
-  "endTime": 1742330343413,
+  "endTime": 1742332942430,
   "band_list": [
     {
       "raw_hot": 1213827,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169392,
+      "num": 169392,
+      "word": "不要一边充电一边看手机",
+      "onboard_time": 1742325015,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167591,
       "num": 64464,
       "word": "懒vs抑郁",
@@ -184,14 +192,6 @@
       "word": "蜜雪冰城被曝黑料网友凭啥护短",
       "onboard_time": 1742280263,
       "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 152763,
-      "num": 35858,
-      "word": "不要一边充电一边看手机",
-      "onboard_time": 1742325015,
-      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -507,12 +507,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 20190,
+      "num": 35867,
+      "word": "记者卧底华莱士餐厅后厨",
+      "onboard_time": 1742329334,
+      "rank": 38,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 18681,
+      "num": 18681,
+      "word": "以军空袭加沙已致412人死亡",
+      "onboard_time": 1742305103,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 16670,
+      "num": 16670,
+      "word": "当地市监局回应男童往玻璃杯小便",
+      "onboard_time": 1742326753,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16626,
       "num": 57478,
       "word": "以军大规模空袭加沙致上百人死亡",
       "onboard_time": 1742322434,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 16474,
+      "num": 16474,
+      "word": "金赛纶遗属将对照片数字取证",
+      "onboard_time": 1742327533,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 15655,
@@ -523,36 +555,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 15382,
-      "num": 15382,
-      "word": "当地市监局回应男童往玻璃杯小便",
-      "onboard_time": 1742326753,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 14677,
       "num": 21274,
       "word": "华莱士将开展30天卫生抽查",
       "onboard_time": 1742323574,
       "rank": 40,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 14478,
-      "num": 18452,
-      "word": "以军空袭加沙已致412人死亡",
-      "onboard_time": 1742305103,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 14296,
-      "num": 14296,
-      "word": "金赛纶遗属将对照片数字取证",
-      "onboard_time": 1742327533,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 13358,
@@ -563,16 +571,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 12462,
-      "num": 35867,
-      "word": "记者卧底华莱士餐厅后厨",
-      "onboard_time": 1742329334,
-      "rank": 38,
-      "category": "舆论监督"
-    },
-    {
-      "raw_hot": 12262,
-      "num": 14074,
+      "raw_hot": 12536,
+      "num": 15974,
       "word": "中方敦促澳方尊重中国主权",
       "onboard_time": 1742328973,
       "rank": 47,
