@@ -1,6 +1,6 @@
 {
   "startTime": 1742229077214,
-  "endTime": 1742293543663,
+  "endTime": 1742294587091,
   "band_list": [
     {
       "raw_hot": 2393654,
@@ -24,6 +24,14 @@
       "word": "费启鸣重返240斤vlog",
       "onboard_time": 1742275342,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 2237970,
+      "num": 2237970,
+      "word": "丝塔芙 贵女",
+      "onboard_time": 1742292802,
+      "rank": 1,
       "category": "剧集"
     },
     {
@@ -115,14 +123,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1368192,
-      "num": 1368192,
-      "word": "丝塔芙 贵女",
-      "onboard_time": 1742292802,
-      "rank": 1,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1312654,
       "num": 1312654,
       "word": "李嘉诚",
@@ -200,6 +200,14 @@
       "word": "李胜利现身杭州",
       "onboard_time": 1742263163,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1026812,
+      "num": 1026812,
+      "word": "12345回应李胜利现身杭州夜店",
+      "onboard_time": 1742293523,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 815638,
-      "num": 460074,
+      "num": 487622,
       "word": "孙艺珍玄彬新合照",
       "onboard_time": 1742291062,
       "rank": 12,
@@ -483,6 +491,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 567814,
+      "num": 528421,
+      "word": "吴映洁产后首现身",
+      "onboard_time": 1742291482,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 567473,
       "num": 507497,
       "word": "平价的蜜雪冰城拥有豁免权吗",
@@ -496,14 +512,6 @@
       "word": "宋轶CCD",
       "onboard_time": 1742280382,
       "rank": 49,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 555906,
-      "num": 455785,
-      "word": "吴映洁产后首现身",
-      "onboard_time": 1742291482,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -521,6 +529,14 @@
       "onboard_time": 1742278882,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 493150,
+      "num": 493150,
+      "word": "郑州东站",
+      "onboard_time": 1742292922,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 487927,
@@ -907,14 +923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 246712,
-      "num": 246712,
-      "word": "郑州东站",
-      "onboard_time": 1742292922,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 246324,
       "num": 246324,
       "word": "为乙女游戏氪金能得到什么",
@@ -993,6 +1001,14 @@
       "onboard_time": 1742225902,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 232654,
+      "num": 368890,
+      "word": "小米2024年营收同比增长35%",
+      "onboard_time": 1742293462,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 224292,
@@ -1395,6 +1411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170165,
+      "num": 170165,
+      "word": "乙女游戏像一场被爱的梦",
+      "onboard_time": 1742293943,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 169865,
       "num": 169865,
       "word": "金价暴涨店员称没影响销售",
@@ -1643,6 +1667,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 140648,
+      "num": 140648,
+      "word": "祝绪丹金色卷发造型",
+      "onboard_time": 1742294003,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139011,
       "num": 139011,
       "word": "孟子义为奔跑吧充电",
@@ -1699,6 +1731,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 133812,
+      "num": 133812,
+      "word": "董思成说杨肸子像汽水",
+      "onboard_time": 1742294003,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132894,
       "num": 132894,
       "word": "丁禹兮凌晨四点收工",
@@ -1747,14 +1787,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 125179,
-      "num": 142920,
-      "word": "12345回应李胜利现身杭州夜店",
-      "onboard_time": 1742293523,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 123591,
       "num": 146218,
       "word": "肖战一个眼神就知道是权谋戏了",
@@ -1769,6 +1801,14 @@
       "onboard_time": 1742229319,
       "rank": 32,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 122851,
+      "num": 122851,
+      "word": "家里家外用孙子兵法智斗恶毒亲戚",
+      "onboard_time": 1742294181,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 122827,
@@ -1843,12 +1883,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113596,
+      "num": 113596,
+      "word": "排协选聘中国女排主教练",
+      "onboard_time": 1742294483,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113451,
       "num": 114605,
       "word": "四六级报名",
       "onboard_time": 1742257824,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 112308,
+      "num": 162254,
+      "word": "等等眼中的邓超孙俪",
+      "onboard_time": 1742290344,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 112198,
@@ -2139,14 +2195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 78721,
-      "num": 150917,
-      "word": "小米2024年营收同比增长35%",
-      "onboard_time": 1742293462,
-      "rank": 35,
-      "category": "财经"
-    },
-    {
       "raw_hot": 78067,
       "num": 674733,
       "word": "外交部回应美商务部禁用DeepSeek",
@@ -2169,14 +2217,6 @@
       "onboard_time": 1742216425,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 73208,
-      "num": 142683,
-      "word": "等等眼中的邓超孙俪",
-      "onboard_time": 1742290344,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 73030,
@@ -2209,6 +2249,14 @@
       "onboard_time": 1742263341,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 70501,
+      "num": 163496,
+      "word": "孙俪听到儿子等等最幸福的瞬间哭了",
+      "onboard_time": 1742293882,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 70283,
@@ -2337,6 +2385,14 @@
       "onboard_time": 1742228780,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 55743,
+      "num": 491891,
+      "word": "开车错踩油门坠河要赔护栏损失",
+      "onboard_time": 1742292142,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52554,
@@ -2673,6 +2729,14 @@
       "onboard_time": 1742286864,
       "rank": 38,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 23138,
+      "num": 121152,
+      "word": "总是洗不掉的水垢消失了",
+      "onboard_time": 1742293643,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 21782,
