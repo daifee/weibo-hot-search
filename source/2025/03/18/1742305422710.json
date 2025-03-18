@@ -1,0 +1,410 @@
+{
+  "runTime": 1742305422710,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1690982,
+        "num": 1690982,
+        "word": "辛云来 古装丑男",
+        "onboard_time": 1742299283,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 536748,
+        "num": 536748,
+        "word": "郑州东站",
+        "onboard_time": 1742292922,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68931,
+        "num": 390622,
+        "word": "9图了解提振消费专项行动方案",
+        "onboard_time": 1742302823,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 689590,
+        "num": 389077,
+        "word": "贵女空降",
+        "onboard_time": 1742296104,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 381052,
+        "num": 381052,
+        "word": "蜜雪冰城被曝黑料网友凭啥护短",
+        "onboard_time": 1742280263,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305698,
+        "num": 305698,
+        "word": "蜜雪冰城店员称隔夜柠檬是个例",
+        "onboard_time": 1742288721,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 639441,
+        "num": 302730,
+        "word": "贵女这已经不是空降了 这是空袭",
+        "onboard_time": 1742304203,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 637176,
+        "num": 298238,
+        "word": "12345回应李胜利现身杭州夜店",
+        "onboard_time": 1742293523,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293030,
+        "num": 293030,
+        "word": "小米su吸",
+        "onboard_time": 1742268803,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 222075,
+        "num": 222075,
+        "word": "盐城一幼儿园调查家长产业",
+        "onboard_time": 1742303123,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 631369,
+        "num": 220859,
+        "word": "贵女 天崩开局",
+        "onboard_time": 1742299044,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1428419,
+        "num": 219452,
+        "word": "夫妻争吵妻子跳楼致残被丈夫送回娘家",
+        "onboard_time": 1742302643,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 997519,
+        "num": 217808,
+        "word": "金秀贤可能破产",
+        "onboard_time": 1742296823,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 679891,
+        "num": 216628,
+        "word": "张碧晨方辟谣偷生孩子逼上位",
+        "onboard_time": 1742294902,
+        "rank": 13,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 639147,
+        "num": 214943,
+        "word": "胡杏儿老公夜店与多位美女搂抱",
+        "onboard_time": 1742280922,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 514436,
+        "num": 212008,
+        "word": "费启鸣重返240斤vlog",
+        "onboard_time": 1742275342,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60499,
+        "num": 211586,
+        "word": "以军空袭加沙已致412人死亡",
+        "onboard_time": 1742305103,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24411,
+        "num": 210117,
+        "word": "极氪发布满血版车位到车位",
+        "onboard_time": 1742302463,
+        "rank": 17,
+        "category": "汽车,互联网"
+      },
+      {
+        "raw_hot": 467504,
+        "num": 207284,
+        "word": "贵女 晴格格",
+        "onboard_time": 1742300184,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70754,
+        "num": 206206,
+        "word": "极氪发布L3级技术架构",
+        "onboard_time": 1742301622,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 205261,
+        "num": 205261,
+        "word": "余承东邀尼格买提逛3200平的家",
+        "onboard_time": 1742301265,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 709799,
+        "num": 205135,
+        "word": "女生做了人工阴道后仍感染HPV",
+        "onboard_time": 1742294783,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315571,
+        "num": 204718,
+        "word": "虞书欣方发声明维权",
+        "onboard_time": 1742303904,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 509124,
+        "num": 204440,
+        "word": "印度教授性侵多名女生59段视频泄露",
+        "onboard_time": 1742303904,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 42829,
+        "num": 203975,
+        "word": "澳门乒乓世界杯宣传片",
+        "onboard_time": 1742300364,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 366766,
+        "num": 203672,
+        "word": "金秀贤方被曝在中国实名删帖",
+        "onboard_time": 1742305103,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257834,
+        "num": 203391,
+        "word": "黎明现身7岁女儿校运会",
+        "onboard_time": 1742297423,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235036,
+        "num": 202774,
+        "word": "辛云来 听泉鉴宝",
+        "onboard_time": 1742304744,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234543,
+        "num": 202537,
+        "word": "章子怡素颜开会照",
+        "onboard_time": 1742299524,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173686,
+        "num": 202207,
+        "word": "零添加酱油12款检出镉7款检出总砷",
+        "onboard_time": 1742295983,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 206639,
+        "num": 201852,
+        "word": "烽影燃梅香",
+        "onboard_time": 1742305225,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201545,
+        "num": 201545,
+        "word": "赵丽颖王伊瑶插兜跳舞",
+        "onboard_time": 1742302044,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199753,
+        "num": 199753,
+        "word": "厦大学生为一口卤味劝和吵架夫妻",
+        "onboard_time": 1742300302,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199363,
+        "num": 199363,
+        "word": "美国政府如何利用网红抹黑中国",
+        "onboard_time": 1742301324,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 168775,
+        "num": 168775,
+        "word": "半熟4 梁田",
+        "onboard_time": 1742290522,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164592,
+        "num": 164592,
+        "word": "胡杏儿老公",
+        "onboard_time": 1742283981,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164426,
+        "num": 164426,
+        "word": "陈都灵新剧开播排面",
+        "onboard_time": 1742304324,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158834,
+        "num": 158834,
+        "word": "傅菁 雁回时",
+        "onboard_time": 1742305044,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152860,
+        "num": 152860,
+        "word": "公安部提醒发现此类线索立即报警",
+        "onboard_time": 1742302404,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150342,
+        "num": 150342,
+        "word": "谢兴阳发长文寻狗",
+        "onboard_time": 1742297242,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149708,
+        "num": 149708,
+        "word": "刘亚仁 复出",
+        "onboard_time": 1742287285,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141099,
+        "num": 141099,
+        "word": "孙佳俊100蝶金牌",
+        "onboard_time": 1742303544,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140351,
+        "num": 140351,
+        "word": "美国滞留9个月宇航员启程回地球",
+        "onboard_time": 1742285603,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125758,
+        "num": 125758,
+        "word": "孙艺珍玄彬新合照",
+        "onboard_time": 1742291062,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124907,
+        "num": 124907,
+        "word": "包文婧孕期8个月plog",
+        "onboard_time": 1742288241,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120838,
+        "num": 120838,
+        "word": "孙颖莎12个冠军王楚钦8个冠军",
+        "onboard_time": 1742297843,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118566,
+        "num": 118566,
+        "word": "野生救援专家盛赞王一博",
+        "onboard_time": 1742304565,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116446,
+        "num": 116446,
+        "word": "云包场",
+        "onboard_time": 1742303304,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115657,
+        "num": 115657,
+        "word": "鼻涕颜色是免疫系统的预警",
+        "onboard_time": 1742304324,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 106276,
+        "num": 106276,
+        "word": "林心如霍建华不会在孩子面前争执",
+        "onboard_time": 1742305403,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#在中国式现代化进程中展现贵州新风采#"
+    }
+  }
+}
