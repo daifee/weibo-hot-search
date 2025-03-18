@@ -1,6 +1,6 @@
 {
   "startTime": 1742315475336,
-  "endTime": 1742332942430,
+  "endTime": 1742333794859,
   "band_list": [
     {
       "raw_hot": 1213827,
@@ -155,20 +155,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200168,
+      "num": 200168,
+      "word": "不要一边充电一边看手机",
+      "onboard_time": 1742325015,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188203,
       "num": 188203,
       "word": "景甜术后首次直播透露近况",
       "onboard_time": 1742307323,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 169392,
-      "num": 169392,
-      "word": "不要一边充电一边看手机",
-      "onboard_time": 1742325015,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 167591,
@@ -523,8 +523,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 16670,
-      "num": 16670,
+      "raw_hot": 18130,
+      "num": 18130,
       "word": "当地市监局回应男童往玻璃杯小便",
       "onboard_time": 1742326753,
       "rank": 40,
@@ -563,19 +563,19 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 13604,
+      "num": 15974,
+      "word": "中方敦促澳方尊重中国主权",
+      "onboard_time": 1742328973,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 13358,
       "num": 34299,
       "word": "以军空袭已致310人死亡",
       "onboard_time": 1742324294,
       "rank": 23,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 12536,
-      "num": 15974,
-      "word": "中方敦促澳方尊重中国主权",
-      "onboard_time": 1742328973,
-      "rank": 47,
       "category": "国际时政"
     }
   ],
