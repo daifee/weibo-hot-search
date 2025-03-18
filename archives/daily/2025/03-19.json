@@ -1,6 +1,6 @@
 {
   "startTime": 1742315475336,
-  "endTime": 1742319582285,
+  "endTime": 1742322820054,
   "band_list": [
     {
       "raw_hot": 1213827,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167591,
+      "num": 64464,
+      "word": "懒vs抑郁",
+      "onboard_time": 1742318776,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 164653,
       "num": 164653,
       "word": "朋友结婚毒友竟随礼1克冰毒",
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 110929,
-      "num": 85685,
+      "num": 93021,
       "word": "虞书欣美得我一激灵",
       "onboard_time": 1742317696,
       "rank": 21,
@@ -403,14 +411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 54922,
-      "num": 54922,
-      "word": "懒vs抑郁",
-      "onboard_time": 1742318776,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 51904,
       "num": 51904,
       "word": "未来的家能有多聪明",
@@ -433,6 +433,14 @@
       "onboard_time": 1742302823,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31127,
+      "num": 31127,
+      "word": "特朗普称将公布8万页肯尼迪遇刺案文件",
+      "onboard_time": 1742320516,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 26907,
@@ -459,12 +467,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 24323,
+      "num": 24323,
+      "word": "夫妻争吵妻子跳楼致残被丈夫送回娘家",
+      "onboard_time": 1742302643,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22856,
+      "num": 24323,
+      "word": "黄晓明 苹什么不爱我",
+      "onboard_time": 1742321774,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 22151,
+      "num": 24317,
+      "word": "宅斗",
+      "onboard_time": 1742320396,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 15655,
       "num": 83953,
       "word": "酸辣脆爽腌白萝卜",
       "onboard_time": 1742314700,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 10633,
+      "num": 35852,
+      "word": "以军大规模空袭加沙致上百人死亡",
+      "onboard_time": 1742322434,
+      "rank": 24,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
