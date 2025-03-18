@@ -1,6 +1,6 @@
 {
   "startTime": 1742229077214,
-  "endTime": 1742297805210,
+  "endTime": 1742302040977,
   "band_list": [
     {
       "raw_hot": 2493597,
@@ -59,12 +59,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 2047459,
+      "num": 333928,
+      "word": "金赛纶金秀贤家中约会视频",
+      "onboard_time": 1742298023,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1945523,
       "num": 1026812,
       "word": "12345回应李胜利现身杭州夜店",
       "onboard_time": 1742293523,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1865420,
+      "num": 1865420,
+      "word": "辛云来 古装丑男",
+      "onboard_time": 1742299283,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 1856301,
@@ -195,6 +211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1164039,
+      "num": 526053,
+      "word": "鬼鬼吴映洁回应单身生孩子",
+      "onboard_time": 1742296642,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1128472,
       "num": 401343,
       "word": "婚礼前发现未婚夫隐瞒婚史还有一子",
@@ -227,6 +251,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1025947,
+      "num": 310106,
+      "word": "金秀贤可能破产",
+      "onboard_time": 1742296823,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1017288,
+      "num": 804071,
+      "word": "先救卫生巾还是先管奶茶",
+      "onboard_time": 1742295262,
+      "rank": 5,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 995037,
       "num": 311625,
       "word": "金智媛是真的很不想理金秀贤",
@@ -236,7 +276,7 @@
     },
     {
       "raw_hot": 964539,
-      "num": 275762,
+      "num": 282084,
       "word": "女生做了人工阴道后仍感染HPV",
       "onboard_time": 1742294783,
       "rank": 20,
@@ -281,6 +321,14 @@
       "onboard_time": 1742285603,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 875662,
+      "num": 375772,
+      "word": "贵女 天崩开局",
+      "onboard_time": 1742299044,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 864666,
@@ -337,14 +385,6 @@
       "onboard_time": 1742263581,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 804071,
-      "num": 804071,
-      "word": "先救卫生巾还是先管奶茶",
-      "onboard_time": 1742295262,
-      "rank": 5,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 802774,
@@ -491,14 +531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 654159,
-      "num": 250086,
-      "word": "金秀贤可能破产",
-      "onboard_time": 1742296823,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 652359,
       "num": 380419,
       "word": "汶川3.1级地震",
@@ -536,6 +568,14 @@
       "word": "谢景行",
       "onboard_time": 1742269223,
       "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 602449,
+      "num": 302444,
+      "word": "贵女 晴格格",
+      "onboard_time": 1742300184,
+      "rank": 16,
       "category": "剧集"
     },
     {
@@ -577,14 +617,6 @@
       "onboard_time": 1742267603,
       "rank": 7,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 526053,
-      "num": 526053,
-      "word": "鬼鬼吴映洁回应单身生孩子",
-      "onboard_time": 1742296642,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 497625,
@@ -891,6 +923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 275935,
+      "num": 275935,
+      "word": "谢兴阳发长文寻狗",
+      "onboard_time": 1742297242,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275273,
       "num": 275273,
       "word": "孙俪听到儿子等等最幸福的瞬间哭了",
@@ -987,6 +1027,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 248452,
+      "num": 248452,
+      "word": "章子怡素颜开会照",
+      "onboard_time": 1742299524,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 247761,
       "num": 247761,
       "word": "谁家女主批发处理小三啊",
@@ -1081,6 +1129,14 @@
       "onboard_time": 1742293462,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 229135,
+      "num": 229135,
+      "word": "余承东邀尼格买提逛3200平的家",
+      "onboard_time": 1742301265,
+      "rank": 24,
+      "category": "互联网"
     },
     {
       "raw_hot": 224292,
@@ -1459,14 +1515,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 180388,
-      "num": 254007,
-      "word": "谢兴阳发长文寻狗",
-      "onboard_time": 1742297242,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 180312,
       "num": 126996,
       "word": "丁禹兮南部档案片场救人",
@@ -1588,7 +1636,7 @@
     },
     {
       "raw_hot": 160911,
-      "num": 160911,
+      "num": 292025,
       "word": "黎明现身7岁女儿校运会",
       "onboard_time": 1742297423,
       "rank": 34,
@@ -1611,6 +1659,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 158452,
+      "num": 158452,
+      "word": "贵女片头 螺钿",
+      "onboard_time": 1742301381,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157727,
       "num": 189595,
       "word": "陈都灵你的螂来了",
@@ -1625,6 +1681,14 @@
       "onboard_time": 1742269344,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155722,
+      "num": 220695,
+      "word": "俄美总统今晚通话",
+      "onboard_time": 1742300123,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 155247,
@@ -1643,12 +1707,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 154523,
+      "num": 183420,
+      "word": "厦大学生为一口卤味劝和吵架夫妻",
+      "onboard_time": 1742300302,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154394,
       "num": 154394,
       "word": "周星驰新电影女足路透",
       "onboard_time": 1742278823,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 153779,
+      "num": 153779,
+      "word": "秦岚新剧姐感偷感高智感",
+      "onboard_time": 1742301443,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 153562,
@@ -1875,6 +1955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133220,
+      "num": 133220,
+      "word": "极氪发布L3级技术架构",
+      "onboard_time": 1742301622,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 132894,
       "num": 132894,
       "word": "丁禹兮凌晨四点收工",
@@ -1947,6 +2035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125987,
+      "num": 655778,
+      "word": "维多利亚港郑州分港",
+      "onboard_time": 1742297242,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123591,
       "num": 146218,
       "word": "肖战一个眼神就知道是权谋戏了",
@@ -1977,6 +2073,14 @@
       "onboard_time": 1742262862,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121892,
+      "num": 121892,
+      "word": "郑州东站回应成网红新晋打卡地",
+      "onboard_time": 1742298985,
+      "rank": 41,
+      "category": "民生新闻,旅游"
     },
     {
       "raw_hot": 121845,
@@ -2067,6 +2171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 109839,
+      "num": 109839,
+      "word": "冰湖重生芭莎大片",
+      "onboard_time": 1742300123,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 109165,
       "num": 109165,
       "word": "马丽演我看刘耀文",
@@ -2089,6 +2201,14 @@
       "onboard_time": 1742273425,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 106978,
+      "num": 106978,
+      "word": "孩子住新房3天生病甲醛竟超标20倍",
+      "onboard_time": 1742299403,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106360,
@@ -2121,6 +2241,14 @@
       "onboard_time": 1742245634,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104628,
+      "num": 104628,
+      "word": "美国政府如何利用网红抹黑中国",
+      "onboard_time": 1742301324,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 103960,
@@ -2201,6 +2329,14 @@
       "onboard_time": 1742226021,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96252,
+      "num": 96252,
+      "word": "孙颖莎12个冠军王楚钦8个冠军",
+      "onboard_time": 1742297843,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 95493,
@@ -2361,14 +2497,6 @@
       "onboard_time": 1742286263,
       "rank": 13,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 77291,
-      "num": 655778,
-      "word": "维多利亚港郑州分港",
-      "onboard_time": 1742297242,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 76719,
@@ -2643,6 +2771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 43428,
+      "num": 234867,
+      "word": "极氪CEO智驾直播首秀",
+      "onboard_time": 1742297963,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 43413,
       "num": 352010,
       "word": "里夫斯30分",
@@ -2729,6 +2865,14 @@
       "onboard_time": 1742286263,
       "rank": 22,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 38056,
+      "num": 282658,
+      "word": "女子因丈夫吸烟患上了抑郁障碍",
+      "onboard_time": 1742301083,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36719,
