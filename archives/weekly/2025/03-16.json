@@ -1,6 +1,6 @@
 {
   "startTime": 1742055993117,
-  "endTime": 1742294587091,
+  "endTime": 1742296814623,
   "band_list": [
     {
       "raw_hot": 13952184,
@@ -235,6 +235,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1945523,
+      "num": 1026812,
+      "word": "12345回应李胜利现身杭州夜店",
+      "onboard_time": 1742293523,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1922426,
       "num": 434378,
       "word": "薛凯琪终日以泪洗面几度缺氧",
@@ -369,6 +377,14 @@
       "onboard_time": 1742264240,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1640877,
+      "num": 1640877,
+      "word": "贵女空降",
+      "onboard_time": 1742296104,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 1614449,
@@ -513,6 +529,14 @@
       "onboard_time": 1742133444,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1303376,
+      "num": 441965,
+      "word": "张碧晨方辟谣偷生孩子逼上位",
+      "onboard_time": 1742294902,
+      "rank": 10,
+      "category": "其它"
     },
     {
       "raw_hot": 1295830,
@@ -803,14 +827,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1026812,
-      "num": 1026812,
-      "word": "12345回应李胜利现身杭州夜店",
-      "onboard_time": 1742293523,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1024683,
       "num": 456740,
       "word": "阚清子黄晓明爆瘦果蔬汁",
@@ -897,6 +913,14 @@
       "onboard_time": 1742167220,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 964539,
+      "num": 275762,
+      "word": "女生做了人工阴道后仍感染HPV",
+      "onboard_time": 1742294783,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 962496,
@@ -1304,6 +1328,14 @@
       "word": "在男友家发现很多公章吵架后报警",
       "onboard_time": 1742267843,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 728351,
+      "num": 728351,
+      "word": "郑州东站",
+      "onboard_time": 1742292922,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -1867,6 +1899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 519803,
+      "num": 519803,
+      "word": "先救卫生巾还是先管奶茶",
+      "onboard_time": 1742295262,
+      "rank": 5,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 519607,
       "num": 519607,
       "word": "解决加班文化等痛点",
@@ -1929,14 +1969,6 @@
       "onboard_time": 1742049693,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 493150,
-      "num": 493150,
-      "word": "郑州东站",
-      "onboard_time": 1742292922,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 489386,
@@ -3041,6 +3073,14 @@
       "onboard_time": 1742181802,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 275273,
+      "num": 275273,
+      "word": "孙俪听到儿子等等最幸福的瞬间哭了",
+      "onboard_time": 1742293882,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 274642,
@@ -4243,6 +4283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201733,
+      "num": 201733,
+      "word": "极氪",
+      "onboard_time": 1742296222,
+      "rank": 32,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 200893,
       "num": 200893,
       "word": "张萌说冰湖重生第一个定的黄杨钿甜",
@@ -4555,6 +4603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 193239,
+      "num": 221171,
+      "word": "时尚芭莎",
+      "onboard_time": 1742295803,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 191728,
       "num": 191728,
       "word": "天雷卫生巾我好怕怕",
@@ -4601,6 +4657,14 @@
       "onboard_time": 1742272165,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190862,
+      "num": 491891,
+      "word": "开车错踩油门坠河要赔护栏损失",
+      "onboard_time": 1742292142,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190528,
@@ -4793,6 +4857,14 @@
       "onboard_time": 1742128461,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186120,
+      "num": 216831,
+      "word": "谁教李宛妲这么穿搭的",
+      "onboard_time": 1742295323,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 185896,
@@ -5771,6 +5843,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 151998,
+      "num": 151998,
+      "word": "鬼鬼吴映洁回应单身生孩子",
+      "onboard_time": 1742296642,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151876,
       "num": 151876,
       "word": "王楚钦为家人祈祷",
@@ -6179,6 +6259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 143113,
+      "num": 143113,
+      "word": "小米2024年净利润272亿",
+      "onboard_time": 1742295443,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 142659,
       "num": 324168,
       "word": "王鹤棣穿豹纹短裤打篮球被偶遇",
@@ -6387,6 +6475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135353,
+      "num": 161072,
+      "word": "夸克为00后做的职业规划",
+      "onboard_time": 1742294783,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 135257,
       "num": 135257,
       "word": "刘少昂带伤继续参赛",
@@ -6481,6 +6577,14 @@
       "onboard_time": 1742263163,
       "rank": 36,
       "category": "剧集,剧集"
+    },
+    {
+      "raw_hot": 132217,
+      "num": 161254,
+      "word": "免费兑换火车票攻略来了",
+      "onboard_time": 1742295323,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132172,
@@ -6688,6 +6792,14 @@
       "word": "樊振东喊你去看大谷翔平",
       "onboard_time": 1742202082,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 126843,
+      "num": 126843,
+      "word": "许昕刘诗雯通过全运会体测",
+      "onboard_time": 1742296164,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -7089,6 +7201,14 @@
       "onboard_time": 1742227641,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 114622,
+      "num": 400974,
+      "word": "零添加酱油12款检出镉7款检出总砷",
+      "onboard_time": 1742295983,
+      "rank": 14,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 114329,
@@ -7723,6 +7843,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 90996,
+      "num": 119767,
+      "word": "澳门世界杯售票",
+      "onboard_time": 1742296765,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90878,
       "num": 457894,
       "word": "光大集团原董事长李晓鹏一审获刑15年",
@@ -8067,14 +8195,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 70501,
-      "num": 163496,
-      "word": "孙俪听到儿子等等最幸福的瞬间哭了",
-      "onboard_time": 1742293882,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 69688,
       "num": 245080,
       "word": "杨肸子生日直播",
@@ -8265,14 +8385,6 @@
       "onboard_time": 1742213064,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 55743,
-      "num": 491891,
-      "word": "开车错踩油门坠河要赔护栏损失",
-      "onboard_time": 1742292142,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 55658,
@@ -8569,6 +8681,14 @@
       "onboard_time": 1742289024,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 45019,
+      "num": 204132,
+      "word": "美方喊话乌克兰做好领土换安全准备",
+      "onboard_time": 1742296525,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 44415,

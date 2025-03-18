@@ -1,0 +1,410 @@
+{
+  "runTime": 1742296814623,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1640877,
+        "num": 1640877,
+        "word": "贵女空降",
+        "onboard_time": 1742296104,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 740559,
+        "num": 740559,
+        "word": "蜜雪冰城被曝黑料网友凭啥护短",
+        "onboard_time": 1742280263,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45563,
+        "num": 728777,
+        "word": "消费领域专属指南来了",
+        "onboard_time": 1742286383,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1945523,
+        "num": 728642,
+        "word": "12345回应李胜利现身杭州夜店",
+        "onboard_time": 1742293523,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 728351,
+        "num": 728351,
+        "word": "郑州东站",
+        "onboard_time": 1742292922,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 519803,
+        "num": 519803,
+        "word": "先救卫生巾还是先管奶茶",
+        "onboard_time": 1742295262,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1477396,
+        "num": 504829,
+        "word": "丝塔芙 贵女",
+        "onboard_time": 1742292802,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 466297,
+        "num": 466297,
+        "word": "吴映洁产后首现身",
+        "onboard_time": 1742291482,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445573,
+        "num": 445573,
+        "word": "小米su吸",
+        "onboard_time": 1742268803,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 237036,
+        "num": 442172,
+        "word": "美国滞留9个月宇航员启程回地球",
+        "onboard_time": 1742285603,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1303376,
+        "num": 441965,
+        "word": "张碧晨方辟谣偷生孩子逼上位",
+        "onboard_time": 1742294902,
+        "rank": 10,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 1006421,
+        "num": 441778,
+        "word": "胡杏儿老公夜店与多位美女搂抱",
+        "onboard_time": 1742280922,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 441348,
+        "num": 441348,
+        "word": "蜜雪冰城店员称隔夜柠檬是个例",
+        "onboard_time": 1742288721,
+        "rank": 12,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 454613,
+        "num": 417784,
+        "word": "半熟4 梁田",
+        "onboard_time": 1742290522,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114622,
+        "num": 400974,
+        "word": "零添加酱油12款检出镉7款检出总砷",
+        "onboard_time": 1742295983,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 761622,
+        "num": 343576,
+        "word": "费启鸣重返240斤vlog",
+        "onboard_time": 1742275342,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 607081,
+        "num": 324513,
+        "word": "金赛纶金秀贤2018年聊天记录",
+        "onboard_time": 1742290583,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 529385,
+        "num": 302517,
+        "word": "孙艺珍玄彬新合照",
+        "onboard_time": 1742291062,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276189,
+        "num": 276189,
+        "word": "王皓期待队员拿下世界杯单打冠军",
+        "onboard_time": 1742289024,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 376034,
+        "num": 275990,
+        "word": "樊振东本人决定不参加世界杯",
+        "onboard_time": 1742284045,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 964539,
+        "num": 275762,
+        "word": "女生做了人工阴道后仍感染HPV",
+        "onboard_time": 1742294783,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 552116,
+        "num": 275604,
+        "word": "刘亚仁 复出",
+        "onboard_time": 1742287285,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350289,
+        "num": 275492,
+        "word": "于正 女主得是鞠婧祎我才演",
+        "onboard_time": 1742279783,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275273,
+        "num": 275273,
+        "word": "孙俪听到儿子等等最幸福的瞬间哭了",
+        "onboard_time": 1742293882,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245417,
+        "num": 245417,
+        "word": "包文婧孕期8个月plog",
+        "onboard_time": 1742288241,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223951,
+        "num": 223951,
+        "word": "赵丽颖疑似用沈璃回应",
+        "onboard_time": 1742284823,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193239,
+        "num": 221171,
+        "word": "时尚芭莎",
+        "onboard_time": 1742295803,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 190862,
+        "num": 220242,
+        "word": "开车错踩油门坠河要赔护栏损失",
+        "onboard_time": 1742292142,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186120,
+        "num": 216831,
+        "word": "谁教李宛妲这么穿搭的",
+        "onboard_time": 1742295323,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 174927,
+        "num": 215071,
+        "word": "这排全是虞书欣以年为单位的朋友",
+        "onboard_time": 1742283263,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212632,
+        "num": 212632,
+        "word": "贵女是不是今天播",
+        "onboard_time": 1742269704,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45019,
+        "num": 204132,
+        "word": "美方喊话乌克兰做好领土换安全准备",
+        "onboard_time": 1742296525,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 201733,
+        "num": 201733,
+        "word": "极氪",
+        "onboard_time": 1742296222,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 190155,
+        "num": 190155,
+        "word": "赵丽颖早期评价来自星星的你",
+        "onboard_time": 1742273605,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161308,
+        "num": 161308,
+        "word": "小米舒七雷巾等已被申请注册商标",
+        "onboard_time": 1742280743,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 132217,
+        "num": 161254,
+        "word": "免费兑换火车票攻略来了",
+        "onboard_time": 1742295323,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161207,
+        "num": 161207,
+        "word": "父亲情绪失控欲把女儿扔河里",
+        "onboard_time": 1742285843,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135353,
+        "num": 161072,
+        "word": "夸克为00后做的职业规划",
+        "onboard_time": 1742294783,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 161061,
+        "num": 161061,
+        "word": "鞠婧祎起诉丝芭开庭因故取消",
+        "onboard_time": 1742272945,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157203,
+        "num": 157203,
+        "word": "胡杏儿老公",
+        "onboard_time": 1742283981,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155129,
+        "num": 155129,
+        "word": "卢昱晓首部仙侠女主剧",
+        "onboard_time": 1742284224,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151998,
+        "num": 151998,
+        "word": "鬼鬼吴映洁回应单身生孩子",
+        "onboard_time": 1742296642,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151856,
+        "num": 151856,
+        "word": "李嘉诚向美国财团出售港口",
+        "onboard_time": 1742280622,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143113,
+        "num": 143113,
+        "word": "小米2024年净利润272亿",
+        "onboard_time": 1742295443,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 135433,
+        "num": 135433,
+        "word": "睡眠不足导致一天多吃一顿饭",
+        "onboard_time": 1742281881,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 127962,
+        "num": 127962,
+        "word": "1999年出生 努努力可以活三个世纪",
+        "onboard_time": 1742271024,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126843,
+        "num": 126843,
+        "word": "许昕刘诗雯通过全运会体测",
+        "onboard_time": 1742296164,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124481,
+        "num": 124481,
+        "word": "王曼昱因伤退出十五运资格赛",
+        "onboard_time": 1742286503,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123778,
+        "num": 123778,
+        "word": "宋轶CCD",
+        "onboard_time": 1742280382,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90996,
+        "num": 119767,
+        "word": "澳门世界杯售票",
+        "onboard_time": 1742296765,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在贵州考察#"
+    }
+  }
+}
